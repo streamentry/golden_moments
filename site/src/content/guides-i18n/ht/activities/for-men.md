@@ -1,32 +1,32 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Aktivite pou gason ki gen demans"
+seoTitle: "Aktivite pou gason ki gen demans: Ide reyèl"
+description: "Ide aktivite pou gason k ap viv ak demans, ki baze sou travay yo te fè, pastan yo ak woutin yo, ak konsèy pou adapte chak aktivite san danje."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Pi bon aktivite pou yon gason k ap viv ak demans yo soti nan pwòp lavi li:
+  travay li te fè, pastan li te renmen ak woutin li te kenbe. Yon ansyen
+  travayè biwo ka renmen ranje papye, yon mekanisyen ka renmen manyen zouti ki
+  pwòp, epi yon moun ki renmen espò ka renmen gade yon ansyen match. Enterè yo
+  diferan pou chak gason, kidonk kòmanse ak moun nan, pa ak sèks li.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Kòmanse ak istwa pwòp gason sa a: travay li te fè, pastan li, woutin li ak sa li te fyè de li."
+  - "Travay ki gen yon objektif reyèl, tankou triye materyo, lave machin nan oswa ponse bwa, souvan pi enteresan pase aktivite ki sanble yon klas."
+  - "Se pa tout gason ki renmen zouti oswa espò. Anpil renmen kwit manje, mizik, jadinaj, la oswa pran swen lòt moun. Poze kesyon, gade, epi suiv sa li enterese."
+  - "Fè travay ki sanble ak travay reyèl vin pi an sekirite lè ou retire zouti ki file epi ou sipèvize, epi senplifye yo jan kapasite li chanje."
+  - "Li gen dwa di non. Ofri yon wòl, pa yon devwa, epi eseye ankò yon lòt jou."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Ki aktivite gason k ap viv ak demans yo renmen?"
+    a: "Pa gen yon sèl lis, paske enterè gason yo varye menm jan ak enterè tout moun. Bon kote pou kòmanse se travay ki gen rapò ak ansyen metye li, tankou òganize papye oswa triye boulon ak nwa, ansanm ak pastan li te renmen, tankou lapèch, machin, mizik, kwit manje oswa espò. Gade sa li fè poukont li epi bati sou sa."
+  - q: "Papa m refize aktivite an gwoup. Kisa mwen ka fè?"
+    a: "Anpil moun, gason kou fanm, refize aktivite ki sanble yon klas oswa ki sanble timoun. Eseye ofri yon ti travay pito: «Èske ou ka ede m triye sa yo?» Ti gwoup oswa tan youn a youn ka santi yo pi konfòtab pase yon gwo sal."
+  - q: "Èske li an sekirite pou l sèvi ak zouti?"
+    a: "Sèlman avèk sipèvizyon ak zouti ki pa danjere. Retire zouti elektrik, lam ak tout bagay ki file, epi ofri travay tankou ponse yon blòk bwa, triye materyo ki pwòp, oswa sere gwo boulon ak men. Alzheimer’s Association sijere retire atik ki ka fè moun blese nan yon atelye pou yon travay tankou ponse ka toujou fèt san danje."
+  - q: "Li te yon pwofesyonèl. Èske travay senp ap fè l santi yo derespekte l?"
+    a: "Sa ka rive si yo prezante travay la tankou yon bagay pou okipe l sèlman. Prezante travay la kòm yon vrè èd, sèvi ak materyèl pou granmoun, epi chwazi yon bagay ki pwòch ak ansyen wòl li, tankou revize yon lis, òganize yon dosye oswa ede prepare yon anvlòp pou voye pa lapòs. Si li te gen anpil ladrès nan yon bagay, yon aktivite ki gen rapò men ki diferan ka vin pi fasil pase yon konparezon ak sa li te konn fè."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +45,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Souvan, moun chèche «aktivite pou gason k ap viv ak demans» paske sijesyon yo wè pi souvan yo pa sanble yo ale ak gason yo pran swen an. Se yon enkyetid ki konprann. Men repons lan pa yon lis aktivite «pou gason». Li se kòmanse ak gason sa a an patikilye: ki travay li te fè, ki sa li te fè nan wikenn li, ak ki sa ki te fè l santi l itil. Enterè yo diferan pou tout moun. Anpil gason renmen kwit manje, jadinaj, penti oswa chante, epi anpil fanm renmen machin ak bezbòl.
 
-## How do I find activities he will actually enjoy?
+## Kijan mwen ka jwenn aktivite li ap vrèman renmen?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Kòmanse ak istwa lavi li. Alzheimer’s Association sijere bati yon [plan chak jou](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ki baze sou sa moun nan renmen, sa li pa renmen, fòs li ak enterè li, epi sou jan li te konn òganize jounen li. Poze tèt ou kesyon sa yo:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Ki travay li te fè?** Biwo, fèm, faktori, metye men, lame, lavant, ansèyman, chofè, oswa travay lakay?
+- **Ki sa li te fè nan tan lib li?** Lapèch, kat, travay bwa, espò, legliz, mizik, kwit manje, oswa yon machin nan garaj?
+- **Ki woutin li te genyen?** Kafe ak jounal chak maten? Tcheke move tan an? Lave machin nan chak samdi?
+- **Ki sa li toujou kòmanse fè poukont li?** Asosyasyon an note si yon moun kòmanse fè travay san yo pa mande l, tankou bale atè a, travay sa yo ka vin fè pati woutin nan.
+- **Ki sa li evite?** Gen kèk moun ki renmen gade espò; lòt moun jwenn vitès la ak bri a fatigan. Fè atansyon lè li sanble kontan, enkyete oswa irite.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Pale ak fanmi ak ansyen zanmi tou. Yo ka sonje enterè ki pa parèt anpil nan lavi chak jou ankò.
 
-## Activity ideas based on past work
+## Ide aktivite ki baze sou ansyen travay li
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer’s Association bay yon egzanp klè: yon ansyen travayè biwo ka renmen travay òganizasyon, tankou mete pyès monnen nan yon bwat, ede prepare yon anvlòp pou voye pa lapòs oswa fè yon lis bagay pou fè, pandan yon ansyen kiltivatè oswa jadinye ka renmen travay nan lakou a. Menm lide sa a ka aplike pou anpil metye.
 
-| Past work | Activity ideas | Simpler version |
+| Ansyen travay | Ide aktivite | Vèsyon ki pi senp |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Biwo oswa biznis | Triye papye nan dosye, mete kachet sou anvlòp, revize yon lis, òganize yon tiwa biwo | Anpile anvlòp; mete klip papye nan yon bwat |
+| Metye men oswa mekanik | Triye boulon, nwa ak rondèl ki pwòp; sere gwo boulon ak men; gade katalòg zouti | Triye pa gwosè nan de tas |
+| Agrikilti oswa jadinaj | Wouze plant, mete plant nan po, rale fèy, tcheke jaden an | Chita deyò pandan ou ap travay; kenbe pake grenn |
+| Lame | Poli soulye, ranje yon tiwa, gade foto sèvis li si li renmen sa | Tande mizik epòk sa a |
+| Lavant oswa sèvis kliyan | Akeyi vizitè, bay ti goute, triye koupon | Chita bò pòt la pou di bonjou |
+| Ansèyman | Li awotvwa, òganize liv, triye foto pa tèm | Gade yon liv foto ansanm |
+| Chofè oswa transpò | Gade kat oswa ansyen magazin sou machin, lave machin nan | Gade machin pase sou yon galri |
+| Lakay ak fanmi | Pliye rad, mete tab la, ede prepare dine | Lis napkin; brase sòs |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Gen kèk souvni, tankou sèvis militè, ki ka pote santiman fò. Swiv sa li vle, kenbe konvèsasyon sou pase a pozitif, epi chanje sijè a dousman si li sanble fache.
 
-## Activity ideas based on hobbies
+## Ide aktivite ki baze sou pastan
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Travay bwa.** Ponse yon blòk bwa ki lis oswa pentire yon ti kay zwazo an twous. Alzheimer’s Association sijere retire materyèl ak zouti ki ka fè moun blese nan atelye a pou yon aktivite tankou ponse ka rete agreyab epi an sekirite.
+2. **Lapèch.** Triye yon bwat lapèch san zen, gade magazin lapèch, oswa chita ansanm bò yon letan.
+3. **Machin.** Lave machin nan, poli kwòm, gade foto machin klasik, oswa fè yon ti woulib kòm pasaje.
+4. **Espò.** Gade yon ansyen match oswa rezime, voye yon boul mou, mete boul gòlf sou yon tapi, oswa triye kat bezbòl.
+5. **Kat ak jwèt.** Yon ti pati senp nan yon jwèt kat li abitye, domino, oswa vire kat pou jwenn yon pè. Kenbe sa rilaks epi pa konte pwen.
+6. **Mizik.** Chante lè li te tande lè li te jèn, gwoup li te pi renmen, oswa yon kantik. Gade [gid aktivite mizik nou an](/activities/music/).
+7. **Kwit manje ak griyad.** Lave legim, brase sòs, fòme anmbègè, oswa kite l dekri jan li te konn fè chili li pandan ou ap kwit li.
+8. **Jounal la.** Alzheimer’s Association note yon moun ki te toujou konn li jounal la ka toujou renmen fè sa, menm si li pa ka suiv tout sa ki ekri a. Kafe ak jounal la ka rete yon pati nan maten an.
+9. **Konstwi.** Twous modèl ak gwo pyès oswa seri konstriksyon senp pou granmoun. Chwazi pyès ki fasil pou kenbe.
+10. **Pran swen yon bagay.** Bay yon bèt kay manje, mete grenn nan nichwa zwazo, oswa wouze plant. NIA mete [bay manje, bwose oswa mache ak yon bèt kay](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nan lis aktivite moun ka renmen.
 
-## How do I offer an activity without it feeling like busywork?
+## Kijan mwen ka ofri yon aktivite san li pa sanble yon bagay pou okipe l?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Prezante li kòm yon vrè èd. Alzheimer’s Association sijere poze kesyon tankou «Èske ou ka ede m, tanpri?» epi konekte travay la ak yon objektif. Konpare:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Èske ou vle triye boulon sa yo?» (sa ka sanble yon tès)
+- «Mwen te achte yon sak materyo melanje epi mwen bezwen triye yo anvan mwen repare etajè a. Èske ou ka ban m yon ti men?» (sa sanble yon vrè travay)
 
-Other tips:
+Lòt konsèy:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Sèvi ak materyèl pou granmoun.** Vrè zouti san pati ki file, vrè katalòg, vrè anvlòp.
+- **Travay kòt a kòt.** De moun k ap travay sou yon bagay se konpayi. Yon moun k ap gade lòt la se sipèvizyon.
+- **Pa korije.** Si boulon yo fini nan move tas la, kite sa konsa. Sa ki enpòtan se tan nou pase ansanm ak santiman li itil.
+- **Ede l kòmanse.** Alzheimer’s Association note anpil moun toujou anvi fè bagay, men yo ka gen difikilte pou òganize epi kòmanse. Fè premye a ansanm.
 
-## How do I adapt as things change?
+## Kijan mwen ka adapte sa lè bagay yo chanje?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Lè demans lan avanse, Alzheimer’s Association sijere prezante travay ki pi senp, ki gen plis repetisyon, epi prepare pou moun nan pran yon wòl ki mwens aktif. Yon gason ki te konn rebati motè ka kounye a renmen kenbe yon kle ki pwòp epi pale sou machin, oswa gade ou travay. Gade se patisipe tou.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Si li te gen anpil ladrès nan yon bagay, yon aktivite ki gen rapò ka vin pi bon pase ansyen metye li. Asosyasyon an note yon atis pwofesyonèl ka vin fristre pa chanjman nan travay li, pandan yon amatè ka renmen yon nouvo fason pou eksprime tèt li. Menm bagay la ka vre pou yon bòs chapant.
 
-## Safety with work-style tasks
+## Sekirite ak travay ki sanble ak travay reyèl
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Retire zouti elektrik, lam, klou ak vis ki gen pwent ki file.
+- Fèmen dilian penti, gazolin ak pwodui chimik.
+- Kenbe kle machin yo lwen je li si li pa kondui ankò.
+- Sipèvize tout travay nan atelye ak nan lakou.
+- Chwazi gwo pyès ki pa ka vale.
 
-## What if he says no?
+## E si li di non?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Respekte sa. Yon «non» ka vle di travay la twò difisil, twò timoun, oswa tou senpleman pa bon pou jodi a. Alzheimer’s Association avèti pou pa fòse l. Eseye yon lòt travay, yon lòt lè, oswa jis chita ansanm. Gade [kisa pou fè lè li di non](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Jwèt ak konvèsasyon ki ka ale byen
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) sèvi ak ekspresyon Ameriken moun abitye tande epi li louvri pòt pou konvèsasyon. [Conversation Cards](/games/conversation-cards/) gen kesyon ouvè, san egzamen, pa tèm, ki ka fè istwa sou travay ak pastan soti. [Picture Puzzle](/games/picture-puzzle/) kenbe tout foto a vizib pandan ou ap chanje pyès yo, epi [Word Search](/games/word-search/) ak gwo lèt ka enprime epi fèt ak yon plim sou tab kwizin nan. Pou fason pou pale sou pase li san teste l, gade [gid souvni nou an](/activities/reminiscence/).

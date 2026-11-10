@@ -1,32 +1,34 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Eacarsaich agus Slàinte na h-Inntinn: Na tha Rannsachadh a’ Ceangal"
+seoTitle: "Eacarsaich agus Trom-inntinn: Na tha Rannsachadh ag Ràdh"
+description: "Na tha rannsachadh a’ ceangal eadar gluasad bodhaig agus cunnart trom-inntinn, le dòighean sàbhailte is tlachdmhor do sheann daoine gluasad."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Tha sgrùdaidhean a’ ceangal gluasad bodhaig cunbhalach ri cunnart nas ìsle airson
+  trom-inntinn, agus tha Coimisean 2024 an Lancet a’ liostadh neo-ghnìomhachd bhodhaig mar
+  aon de 14 factaran cunnairt a ghabhas atharrachadh. Chan eil deuchainnean air dearbhadh gu
+  bheil eacarsaich a’ casg trom-inntinn. Tha gluasad fhathast a’ cuideachadh le neart,
+  cothromachadh, sunnd is cadal, mar sin tha e luachmhor coiseachd, eacarsaichean cathrach
+  agus dannsa a dhèanamh air an sgàth fhèin. Bruidhinn ri dotair mus tòisich thu air
+  rudeigin ùr.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Tha cunnart trom-inntinn nas ìsle, gu cuibheasach, aig daoine a tha gnìomhach gu corporra, ach tha seo a’ tighinn sa mhòr-chuid bho sgrùdaidhean amharc, chan e deuchainnean."
+  - "Ann an deuchainn eacarsaich còig bliadhna le seann daoine, cha robh diofar soilleir ann an sgilean smaoineachaidh eadar na buidhnean."
+  - "Tha stiùireadh CDC airson inbhich 65 is nas sine a’ còmhdach gnìomhachd aerobic, neartachaidh fhèithean is cothromachaidh, agus ag ràdh gu bheil beagan gnìomhachd nas fheàrr na gin idir."
+  - "Do dhaoine a tha a’ fuireach le trom-inntinn, tha gluasad goirid, eòlach, còmhla, leithid cuairt làitheil, nas cudromaiche na targaid sam bith."
+  - "Tha còrr is aon às gach ceathrar seann daoine a’ tuiteam gach bliadhna, mar sin tha obair cothromachaidh agus àite sàbhailte a’ tighinn an toiseach."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "An urrainn dha eacarsaich casg a chur air trom-inntinn?"
+    a: "Chan urrainn do dhuine sam bith sin a ghealltainn. Tha iomadh sgrùdadh a’ ceangal a bhith gnìomhach ri cunnart nas ìsle airson trom-inntinn, ach chan eil deuchainnean clionaigeach air sealltainn gu bheil eacarsaich ga chasg. Tha iomadh buannachd eile dearbhte aig eacarsaich, mar sin tha e fhathast luachmhor a dhèanamh."
+  - q: "A bheil e sàbhailte do chuideigin a tha a’ fuireach le trom-inntinn eacarsaich a dhèanamh?"
+    a: "Mar as trice, le beagan planaidh. Tha an National Institute on Aging a’ moladh bruidhinn ri dotair an neach mus tòisich sibh air dòigh-obrach ùr, brògan cofhurtail a thaghadh, uisge a thabhann, agus seiseanan a chumail goirid. Stad ma tha coltas sgìth, neo-sheasmhach no mì-thoilichte air an neach."
+  - q: "Dè na h-eacarsaichean a ghabhas dèanamh na shuidhe?"
+    a: "Am measg roghainnean suidhe tha sìneadh cathrach no yoga cathrach, tilgeil bailiùn no ball bog, tilgeil poca-pònairean, togail canaichean brot, bannan sìneidh agus innealan peadail. Tha iad seo math nuair a tha coiseachd doirbh."
+  - q: "Dè ma tha an neach gun toil gluasad?"
+    a: "Na cuir cuideam air. Feuch a-rithist nas anmoiche, gabh pàirt thu fhèin, cuir ceòl eòlach air, no tionndaidh gluasad gu obair leithid sguabadh no uisge a chur air planntrais. Tha cuairt ghoirid chun bhogsa-puist a’ cunntadh, agus tha suidhe a-muigh còmhla cuideachd."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +53,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Tha a bhith gnìomhach mar aon de na cleachdaidhean as motha a chaidh a sgrùdadh ann an rannsachadh air slàinte na h-inntinn. Tha sgrùdaidhean ga cheangal ri cunnart nas ìsle airson trom-inntinn, ach chan eil iad air dearbhadh gu bheil eacarsaich a’ casg trom-inntinn. Na tha soilleir, tha gluasad a’ cuideachadh le neart, cothromachadh, sunnd is cadal aig aois sam bith. Tha an duilleag seo a’ mìneachadh na tha an rannsachadh ag ràdh, dè an ìre gnìomhachd a thathar a’ moladh do sheann daoine, agus dòighean socair air gluasad le cuideigin a tha a’ fuireach le trom-inntinn.
 
-## Does exercise lower the risk of dementia?
+## A bheil eacarsaich a’ lùghdachadh cunnart trom-inntinn?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Tha rannsachadh a’ moladh gu bheil daoine a tha gnìomhach gu corporra nas lugha buailteach trom-inntinn a leasachadh, ach tha crìochan air an fhianais. Tha [Coimisean 2024 an Lancet air trom-inntinn](https://doi.org/10.1016/S0140-6736(24)01296-0) a’ liostadh neo-ghnìomhachd bhodhaig mar aon de 14 factaran cunnairt a ghabhas atharrachadh. Còmhla, tha na 14 factaran seo a’ dèanamh suas mu 45% de throm-inntinn air feadh an t-saoghail anns a’ mhodail aige.
 
-Here is what the evidence looks like:
+Seo mar a tha an fhianais:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Tha sgrùdaidhean amharc a’ sealltainn aon taobh.** Lorg ath-sgrùdadh air 58 sgrùdadh, air a dheasbad leis a’ Choimisean, gu robh cunnart trom-inntinn mu 20% nas ìsle aig daoine a bha gnìomhach gu corporra. B’ e an diofar as motha eadar daoine a bha cha mhòr gu tur neo-ghnìomhach agus an fheadhainn a rinn co-dhiù beagan gnìomhachd.
+- **Faodaidh an ceangal a bhith dà-shligheach.** Tha an Coimisean ag ràdh gum faodadh neo-ghnìomhachd cunnart àrdachadh. Tha e cuideachd ag ràdh gum faodadh atharrachaidhean tràtha san eanchainn le trom-inntinn, a thòisicheas bliadhnaichean mus tèid a dhearbhadh, daoine a dhèanamh nas lugha gnìomhach.
+- **Chan eil deuchainnean cho soilleir.** Ann an aon deuchainn, chaidh 945 seann daoine le aois chuibheasach 78 a chur ann am buidhne le còig bliadhna de dh’eacarsaich fo stiùireadh dà thuras san t-seachdain no ann am buidhne coimeis. aig a’ cheann thall, cha robh diofar soilleir ann an sgilean smaoineachaidh eadar na buidhnean. Bha mòran dhaoine sa bhuidheann choimeis cuideachd gnìomhach, agus tha sin a’ dèanamh an toraidh nas duilghe a thuigsinn.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+Tha an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ga ràdh gu soilleir. Cha deach ceangal soilleir a shealltainn eadar gnìomhachd bhodhaig agus casg air galar Alzheimer, agus chan eil fianais gu leòr ann bho dheuchainnean airson a ràdh gu bheil eacarsaich ga chasg no ga shlaodadh. Tha eacarsaich fhathast a’ lùghdachadh cunnart tuiteam, trom-inntinn-inntinn, tinneas an t-siùcair, bruthadh-fala àrd agus stròc. Tha cuid de na suidheachaidhean sin fhèin ceangailte ri crìonadh inntinneil.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Is e an teachdaireachd onarach gluasad leis gu bheil e gad chuideachadh a bhith a’ faireachdainn nas fheàrr agus ag obair nas fheàrr an-diugh. Is dòcha gum bi buannachd sam bith don eanchainn na thuilleadh, chan e gealladh.
 
-## How much activity do older adults need?
+## Dè an ìre gnìomhachd a tha a dhìth air seann daoine?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+Tha [stiùireadh CDC airson inbhich 65 is nas sine](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) a’ moladh trì seòrsaichean gnìomhachd gach seachdain:
 
-| Type | Weekly amount | Examples |
+| Seòrsa | An ìre sheachdaineil | Eisimpleirean |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobic | Co-dhiù 150 mionaid de ghnìomhachd meadhanach, leithid 30 mionaid air 5 latha | Coiseachd bhrisk, dannsa, aerobics uisge |
+| Neartachadh fhèithean | Co-dhiù 2 latha, ag obair air na prìomh bhuidhnean fèithe | Togail chuideaman aotrom no canaichean brot, bannan sìneidh |
+| Cothromachadh | Gu cunbhalach | Coiseachd sàil gu ladhar, seasamh suas bho chathair |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+’S e amasan a tha seo, chan e riatanasan tòiseachaidh. Tha CDC ag ràdh mura h-urrainn dhut an ruighinn, bu chòir dhut a bhith cho gnìomhach ’s as urrainn dhut a rèir do chomasan is do shlàinte. Tha beagan gnìomhachd nas fheàrr na gin idir.
 
-## Gentle ways to move for older adults
+## Dòighean socair air gluasad do sheann daoine
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Coisich le companach.** Tha cuairt làitheil le caraid, nàbaidh no buidheann coiseachd a’ cur còmhradh is sàbhailteachd ris.
+- **Eacarsaichean cathrach.** Tha togail ghàirdeanan na shuidhe, cearcallan nan adhbrann, caismeachd san àite agus yoga cathrach a’ togail neart gun chunnart cothromachaidh.
+- **Dannsa sa chidsin.** Cuir air ceòl bho dheugaireachd is ficheadan an neach agus gluais, tap no ceum còmhla. Tha beachdan aig ar [stiùireadh air gnìomhan ciùil](/activities/music/).
+- **Neart le nithean taighe.** Tog botail uisge làn no canaichean brot fhad ’s a tha thu a’ coimhead air prògram as toil leat.
+- **Gàrradh no obair-taighe.** Tha uisge a chur air planntrais, ràcadh, sguabadh agus pasgadh aodaich uile a’ cunntadh. Faic [gnìomhan a-muigh is gàrraidh](/activities/outdoor-and-gardening/) agus [obair-taighe](/activities/household-tasks/).
+- **Eacarsaich uisge.** Tha an NIA a’ liostadh chlasaichean aerobics uisge mar roghainn do dhaoine a tha a’ faighinn eacarsaich air tìr cruaidh air na h-altan aca.
 
-## How to exercise with someone living with dementia
+## Mar a nì thu eacarsaich le cuideigin a tha a’ fuireach le trom-inntinn
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Do chuideigin a tha a’ fuireach le trom-inntinn, is e an t-amas comhfhurtachd, tlachd agus cumail suas comasan làitheil, chan e àireamh a ruighinn. Tha an NIA ag ràdh gu bheil gnìomhachd bhodhaig a’ cuideachadh le cumail nam fèithean, nan altan is a’ chridhe aig cuideigin le galar Alzheimer ann an deagh chumadh, agus gum faod i sunnd is cadal a leasachadh cuideachd. Bruidhinn ris an dotair aca mus tòisich sibh air dòigh-obrach ùr. Am measg mholaidhean bho [stiùireadh luchd-cùraim NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) tha:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Coisich còmhla gach latha.** Tagh slighe sàbhailte, eòlach gun chnapan-starra. Ma tha an neach a’ coiseachd leis fhèin, tha bracelet ID le d’ àireamh fòn na dheagh bheachd.
+2. **Feuch bhideothan eacarsaich do sheann daoine.** Lean còmhla, na shuidhe no na sheasamh.
+3. **Cùm seiseanan goirid.** Dh’fhaodadh gum bi grunn “meanbh-eacarsaichean” goirid nas fheàrr na aon seisean fada.
+4. **Cuir ceòl ris.** Tha òrain eòlach a’ fàgail gu bheil gluasad a’ faireachdainn mar ghnìomhachd, chan e obair. Dèan dannsa ma tha an neach a’ còrdadh ris.
+5. **Tabhann uisge is brògan cofhurtail.** Tabhann uisge no sùgh rè agus às dèidh, agus tagh aodach cofhurtail is brògan a tha a’ freagairt gu math agus air an dèanamh airson eacarsaich.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Ma tha coiseachd doirbh, tha [stiùireadh NIA mu bhith a’ toirt cùram do chuideigin le galar Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) a’ moladh roghainnean suidhe. Tha iad sin a’ gabhail a-steach eacarsaichean cathrach no yoga, tilgeil poca-pònairean, tilgeil ball bog no bailiùn, bannan sìneidh, togail rudan aotrom san taigh, agus innealan peadail. Tha obraichean sìmplidh leithid sguabadh is dustadh cuideachd a’ cunntadh.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Bi reusanta mu na dh’fhaodas gluasad a dhèanamh. Cha do lorg Coimisean an Lancet fianais sam bith gu bheil eacarsaich a’ lùghdachadh atharrachaidhean giùlain leithid buaireas. Gluais còmhla leis gum faod e a bhith tlachdmhor, chan ann mar dhòigh air feasgar doirbh a chàradh. Ma tha an neach ag ràdh nach eil, tha sin ceart gu leòr. Tha dòighean socair aig ar stiùireadh air [nuair a chanas iad nach eil](/caregiving/when-they-say-no/) airson feuchainn a-rithist nas anmoiche. Tha crìochnachadh tràth, no dìreach suidhe a-muigh còmhla, cuideachd na thoradh math.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Às dèidh gluasad, faodaidh fois shàmhach leithid [Anail Shàmhach](/games/calm-breathing/) ur cuideachadh le bhith socrach. Airson gnìomhachd suidhe le gluasad socair nan gàirdean, tha [Seòrsaich Còmhla](/games/sort-together/) agus [Bingo Dhealbhan](/games/picture-bingo/) math aig bòrd.
 
-## Balance and fall safety
+## Sàbhailteachd cothromachaidh is tuiteam
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Tha tuiteam cumanta agus dona. Tha an [CDC ag aithris](https://www.cdc.gov/falls/data-research/facts-stats/index.html) gu bheil còrr is aon às gach ceathrar seann daoine a’ tuiteam gach bliadhna, ach tha nas lugha na leth ag innse don dotair aca. Ma thuiteas tu aon uair, tha an cothrom air tuiteam a-rithist a’ dùblachadh. Am measg fhactaran cunnairt a tha CDC a’ liostadh tha:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Laigse anns na casan is na cnapan
+- Trioblaid le coiseachd is cothromachadh
+- Cuid a chungaidhean-leigheis, a’ gabhail a-steach sedatives agus cuid de dh’antis-inntinn
+- Trioblaidean lèirsinn
+- Pian coise no brògan dona
+- Cunnartan san dachaigh leithid rùsg, bratan-ùrlair is ceumannan briste
 
-To move more safely:
+Gus gluasad nas sàbhailte:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Cleachd cathair làidir** gun chuibhlichean, agus cùm cunntair no rèile faisg air làimh airson eacarsaichean seasaimh.
+- **Glan an t-àite** de bhratan, chordaichean is rùsg an toiseach.
+- **Gluais gu slaodach nuair a sheasas tu suas**, agus stad ma tha an neach a’ faireachdainn lathach no neo-sheasmhach.
+- **Cuir ort brògan le taic**, chan e stocainnean no sliparan sgaoilte.
+- **Cleachd cothromachadh faisg air taic.** Tha seasamh suas bho chathair agus coiseachd sàil gu ladhar nan eisimpleirean CDC de ghnìomhachdan cothromachaidh.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+Tha an CDC a’ comhairleachadh gum bu chòir do sheann duine a thuiteas agus a bhuaileas a cheann dotair fhaicinn sa bhad, gu h-àraidh ma tha iad a’ gabhail cungaidhean-leigheis tinneachaidh-fala.
 
-## Talk with a doctor
+## Bruidhinn ri dotair
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Bruidhinn ri dotair mus tòisich thu air dòigh-obrach eacarsaich ùr, gu h-àraidh do chuideigin aig a bheil trioblaidean cridhe no sgamhain, pian nan altan, trioblaidean cothromachaidh, no trom-inntinn. Faodaidh dotair no leasaiche corporra gnìomhan sàbhailte a mholadh agus sgrùdadh a dhèanamh a bheil cungaidhean-leigheis a’ toirt buaidh air cothromachadh. Innis don dotair mu thuiteam sam bith, eadhon gun leòn. Ma ghoirteas rudeigin no ma tha rudeigin a’ faireachdainn ceàrr rè eacarsaich, stad. Airson pian obann sa bhroilleach, trioblaid anail, no troimh-chèile obann, cuir fòn gu 999.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+’S e fiosrachadh coitcheann a tha san duilleag seo, chan e comhairle meidigeach. Faic ar [àicheadh meidigeach](/medical-disclaimer/). Airson an dealbh nas motha, leugh [na tha rannsachadh ag ràdh mu fhactaran cunnairt trom-inntinn](/brain-health/risk-factors/) agus [an urrainnear casg a chur air trom-inntinn](/brain-health/can-dementia-be-prevented/).

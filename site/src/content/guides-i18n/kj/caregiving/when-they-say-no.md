@@ -1,34 +1,36 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Ngeenge omunhu e na oudu wokudimbwa ta anye oilonga"
+seoTitle: "Ngeenge omunhu e na oudu wokudimbwa ta anye"
+description: "Kutya omolwashike omunhu e na oudu wokudimbwa ta dulu okuanya ile okuhanduka, osho to dulu okuninga, osho u na okuyandja po, nonaini u na okuya kundokotola."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Ngeenge omunhu e na oudu wokudimbwa ta ti ahawe, tambula etokolo laye nombili
+  ndele to kendabala vali lwanima ile to mu pe sha shilili. Okwaanya ohaku kala
+  ku na etomheno: oshilonga otashi dulika shi kale shidjuu unene ile sha fa
+  shounona, okwa loloka, oku udite ouyahame, ondjala, ile okwa piyaanekwa
+  kengungumo. Ino twa eemhata naye ile oku mu fininika. Ningifa oshinima shipu,
+  mu pa omahoololo avali, ile mu pula e ku kwafele. Elunduluko la haluka ile
+  tali ende diva melihumbato, unene tuu konima youtalala ile omiti ipe, oli na
+  okutalwa kudokotola diva.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "“Ahawe” etokolo li na okufimanekwa, haludjuu u na okufinda."
+  - "Okwaanya ohaku kala ku na etomheno: oshidjuu unene, sha fa shounona, okwa loloka, ke udite nawa, ke li mouwa, ile okwa piyaanekwa."
+  - "Shuna monima, teelela, ndele to kendabala vali lwanima, pefimbo limwe, ile nomukalo upu."
+  - "Oku mu pula e ku kwafele ohashi longo nawa shi dulife oku mu pula a ulike eshi ta dulu."
+  - "Ino twa eemhata, ino fininika, ino pula omapulo mahapu ile oku mu yukifa. Litale yo ngeenge oto endelele ile to mu fininike."
+  - "Elunduluko la haluka ile tali ende diva melihumbato, unene tuu pamwenoutalala ile omiti ipe, oli na okutwalwa kudokotola diva."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Oshi li nawa ngeenge okwa efa oilonga aishe?"
+    a: "Heeno, mefiku keshe. Okukala omutumba pamwe, okupwilikina komusika ile okutala oinima tai ningwa pondje otashi dulu okukala sha wana. Ngeenge omunhu okwa efa okuhafela oinima aishe oule woivike, shi lombwela ndokotola waye, molwaashi omaliudo mai, ouyahame ile oupyakadi umwe woukolele otau dulu okukala oshitukulwa shoshinima."
+  - q: "Omolwashike ta anye oinima oyo a li e hole nale?"
+    a: "Oshilonga osho a li e hole nale otashi dulu oku mu handukifa ngeenge paife otashi pula ounghulungu oo oudu wokudimbwa wa ningifa udjuu, nomunhu ota dulu okuuda ohoni. Kendabala oshitukulwa shipu shoshilonga shelifa, ngaashi okuyoolola eembuto ponhele yokuhondja, ile okutala omafano oshikunino ponhele yokutwika."
+  - q: "Mbela ondi na oku mu tomha a itavele?"
+    a: "Ahawe. Okufininika omunhu a longe oshinima osho oudu wokudimbwa wa ningifa shidjuu oshi shiivike kutya otashi eta ehandu. Tambula “ahawe”, lundulula oshipopiwa, ndele to mu pula vali lwanima ile nomukalo umwe u lili."
+  - q: "Elunduluko melihumbato otali ningi onaini oshiponga shopaumwene?"
+    a: "Denga onomola yoiponga (ngaashi 112) ngeenge omunhu oku li moshiponga ile e na omadidiliko oiponga youkolele ya endelela. Ngeenge okwa kanifa eendunge diva ile elihumbato laye otali lunduluka diva moule weevili ile omafiku, unene tuu pamwe nefiku lomutenya ile omuti mupe, kwatafana nandokotola waye diva."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +52,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Owa longekida oinima aishe, to mu pe oudano ile okweenda naye, ndele to udu “Ahawe.” Ile oshilonga osha tameka nawa ndele tashi xulu netableta ya undulwa po nondjovo ya kukuta. Osho otashi teya omukumo, noshi li oshinima hashi holoka luhapu. Okwaanya nokuhanduka luhapu otashi ti sha, hakeenghono domutwe. Okukendabala okuuda kutya etumwalaka olilipi ohashi ku ulike osho to dulu okuninga sha shikula ko.
 
-## Why does someone with dementia refuse activities?
+## Omolwashike omunhu e na oudu wokudimbwa ta anye oilonga?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Luhapu ope na etomheno, nonande omunhu ita dulu oku li popya meendjovo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) oya ti okwaanya otashi dulu okuulika kutya omunhu ita dulu okulonga oshilonga ile oku na oumbada oku shi kendabala. Omatomheno a monika luhapu ongaashi:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Otashi monika shidjuu unene.** Oshilonga paife otashi pula ounghulungu oo oudu wokudimbwa wa ningifa udjuu, nokuhala po moipafi yomunhu umwe otashi eta ohoni.
+- **Otashi monika sha fa shounona.** Ovanhu ovakulunhu ohava mono omafano ounona, omanghunghuvo taa kwelengedja noilonga tai monika ya fa ya nuninwa ounona.
+- **Okuloloka.** Ovanhu vahapu ohava kala ve na eenghono dinini komatango. Tala [oilonga ya ngungumana yokomatango](/caregiving/late-day-restlessness/).
+- **Okuhe udite nawa kolutu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) oya tumbula ouyahame, okwaala inaku wana, oudjuu wokumona ko ile okuuda ko, epatafyo, ondjala, enota nomaupyakadi oo taa dulu okuya pamwe nomiti ipe onga oinima tai dulu okweetifa oudjuu.
+- **Oinima ihapu unene pombada.** OTV tai popi mokule, eenghundafana dihapu ile onhele i yadi ovanhu otai dulu oku mu piyaaneka.
+- **Okuuda a fininikwa.** NIA oya ti okufininikwa a longe oshinima osho oudu wAlzheimer's wa ningifa shidjuu unene, ile a dimbuluke oiningwanima ile ovanhu, otashi dulu okweetifa ehandu.
+- **Omaliudo mai.** Okukanifa ohokwe moinima otashi dulu okukala edidiliko lelimbililonghenda, notashi wapala okutya sha kundokotola.
+- **Ina hala ashike.** Ovanhu ovakulunhu ova pitikwa okutya ahawe.
 
-## What should I try when they say no?
+## Osho ndi na okuninga ngeenge ta ti ahawe?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Tambula “ahawe” nombili, ndele to lundulula sha: efimbo, oshilonga, oupu ile omukalo oo to mu pula.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Shi efa po paife.** “Oshi li nawa. Otashi dulika lwanima.” Ndele to twikile noshinima shimwe uhe na okufuda mokule.
+2. **Kendabala vali lwanima.** Alzheimer's Association otai kumaida okuninga onghendabala vali lwanima, ile pefimbo limwe mefiku.
+3. **Shi ninga shinini.** Okufaneka kumwe ponhele youdano aushe. Etwali limwe ponhele yoshimbale shoikutu. Omafano manini, omahoololo manini, omafano a kala e li wetike.
+4. **Mu pa omahoololo avali.** “Owa hala okutala omafano eedila ile okupwilikina komusika?” Ehokololo otali mu pe vali oukwatya wokulipangela.
+5. **Pula ekwafo ponhele yokuyeleka eshi ta dulu.** “Oto dulu ngaa oku kwafela nge ndi yoolole ei?” ile “Oto dulu ngaa okulombwela nge kutya olwaala lilipi liwa unene?” Okuuda a pumbiwa oku li kokule nokuuva ta yelekwa.
+6. **Hovela ove mwene.** Hovela oshilonga puye ino mu pula. Ovanhu vahapu ohava waimine ngeenge oshinima osha tameka nale, nongeenge inave shi ninga, natango omwa kala pamwe.
+7. **Lundulukila koshinima shopalutu ile shokungungumanifa.** Okweenda kanini, omusika, okalya kanini, okupeta oikutu, ile okafimbo kokufuda nombili pamwe [calm breathing](/games/calm-breathing/). NIA otai kumaida okulundululila elitulemo komusika, embo ile okweenda.
+8. **Mu efa e shi ninge pamukalo waye.** Ngeenge okwa hala okudanauka pamukalo umwe u lili nomilandu, shi tambula. Alzheimer's Association otai kumaida okukala u na elundululo.
 
-## What should I say when they get frustrated?
+## Nandi tye shike ngeenge okwa handuka?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Endelela kashona, ninipika ondaka yoye ndele to mu hekeleke. [Ewilikonghatu lAlzheimer's Association li na sha nehandu](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) otali kumaida okushuna monima nokupula epitikilo, okulongifa eendjovo dangungumana nodiwa, nokuyandja ehoololo la wilikwa pokati poinima ivali. Eendjovo di li momhepo ei:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- “Ombili, eshi otashi handukifa. Natu shi efe po.”
+- “Oto ningi nawa. Ondi li apa.”
+- “Ou na ngaa efimbo u kwafele nge moshinima shimwe shilili?”
+- “Natu nwe ngaa otee ponhele yaasho?”
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Ndele to xulifa po oshilonga uhe shi ninga oshinima shinene. [Omayele etu okukwatafana](/caregiving/communication-tips/) oku na oihopaenenwa ihapu yasho to dulu okutya.
 
-## What should I avoid?
+## Oinima ilipi ndi na okuyandja po?
 
-Some natural reactions tend to make things worse.
+Omaitavelo amwe opaumwene luhapu otaa dulu okunyona oinima.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Okutwa eemhata ile okufininika.** “Alikana, natango lumwe alike” ile “Ove ou shi hole” luhapu ihashi kwafa.
+- **Okupula omapulo mahapu ile okuyukifa.** “Ove ou shi shii eshi” ile “Ahawe, osho sha puka” otashi weda po oudjuu.
+- **Oku shi tambula ongoye mwene.** NIA otai dimbulukifa ovo tava file oshisho kutya oudu, ha omunhu, oo tau eta omalunduluko aa.
+- **Oku mu fininika ile okweendelela.** Alzheimer's Association otai kumaida uha yelule ondaka yoye, uha ulike oumbada, uha mu kondeke, uha mu fininike, uha mu pukulula, uha mu efe po ile okutwa naye eemhata, nouha ninge omalinyengo a haluka ehe wete.
+- **Okulongifa omaliudo okuhepaulula.** “Onde ku longekidila aishe ei” otashi fiye nye amushe tamu udite nai.
+- **Okutula omadina.** “Omutwe mukukutu” ile “omunhu mudjuu” ohashi holeke etomheno lashili nohashi shi ningi shidjuu oku li kandula po.
 
-## How can I find out what is behind repeated refusals?
+## Ongahelipi handi dulu okumona kutya oshike shi li konima yokwaanya kwa twikila?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Shanga okahokololo kapu koule woshivike ile ivali. NIA oya ti okushikula omalunduluko melihumbato otashi dulu okukwafela ovo tava file oshisho novanailonga voukolele va mone omukalo nokukonga etomheno.
 
-Jot down:
+Shanga:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- efimbo lomutenya;
+- osho wa li to mu pe nonghee we shi pula;
+- osho sha li tashi ningwa popepi nanye (engungumo, ovaenda, OTV);
+- nghee a kala a kofa, a lya nokunwa, nonaini a li a ya kokandjuwo;
+- omiti ipe ile oudu wa holoka po opo.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Luhapu omikalo ohadi holoka diva: okwaanya taku holoka ashike konima yo 4 p.m., ashike noudano wonhumba, ile ashike ngeenge OTV oi li po. [Ewilikonghatu lFamily Caregiver Alliance li na sha nomaihumbato oudu wokudimbwa](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) otali shi yelifa nawa: itatu dulu okulundulula omunhu, ashike ohatu dulu okulundulula elihumbato letu nonhele yetu.
 
-## When should I talk to a doctor about refusal or frustration?
+## Onaini ndi na okupopya nandokotola kombinga yokwaanya ile ehandu?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Popya nandokotola ngeenge elihumbato otali lunduluka diva, meendelelo, ile pamwe nomadidiliko oudu. NIA oya ti omalunduluko a haluka ile taa lunduluka diva melihumbato, unene tuu ngeenge omunhu okwa li e na outalala ile a lundulula omiti opo, oku na okulombwelwa ndokotola diva.
 
-Contact their doctor promptly if you notice:
+Kwatafana nandokotola waye diva ngeenge wa didilike:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- okukanifa eendunge kwa haluka ile elunduluko linene moule weevili ile omafiku;
+- omadidiliko ouyahame, ngaashi okuliulaula, okwaamena oshitukulwa sholutu, ile oudjuu mupe wokweenda;
+- efiku lomutenya ile omadidiliko amwe outalala;
+- omiti ipe ile da lunduluka ndele tadi landulwa kelunduluko melihumbato;
+- okukanifa ohokwe moinima aishe, okulila ile okuliyeleka oule woivike ivali ile sha pitilila po;
+- okwaanya okulya ile okunwa.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association otai kumaida ekonakono loukolele la kwata moiti komunhu keshe e na omadidiliko elihumbato, unene tuu ngeenge okwa holoka po diva. Family Caregiver Alliance nayo otai kumaida okupula ndokotola tete, molwaashi omikundu delihumbato otadi dulu okukala di na etomheno loukolele. Ino hovela, ino efa ile ino lundulula omuti nande oumwe ino popya nandokotola ile omunanghenda womiti.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Ngeenge ope na omunhu e li moshiponga ile ope na omadidiliko oiponga youkolele ya endelela, denga onomola yoiponga (ngaashi 112). NIA otai kumaida okulombwela omupopili ponombola kutya omunhu oku na oudu wokudimbwa.
 
-## Is it okay if we do nothing at all?
+## Oshi li nawa ngeenge itatu ningi sha nandenande?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Heeno. Omafiku amwe oshilonga shiwa kape na oshilonga: okukala omutumba pamwe, okukwata momake, okupwilikina keimbilo omu hole, ile okutala eedila pondje yefitululo. Osho kashi fi okuhala po. [Ewilikonghatu letu lokuninga oinima pamwe](/caregiving/how-to-play-together/) otali yelifa kutya omolwashike okweefa po diva, ile inamu tameka nandenande, tashi dulu okukala etokolo liwa.

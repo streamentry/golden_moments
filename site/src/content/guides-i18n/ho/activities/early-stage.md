@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Gaukara na dementia ena matamata gauna"
+seoTitle: "Dementia matamata: Gaukara maoromaoro"
+description: "Dementia matamata gauna ena gaukara herevadia: hobby, gemu, lao, revareva bona plan hamonai, na oi naria tau ia moale bona ia henia."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Dementia matamata gauna ai, taunimanima momo idia gaukara idia moalelaia
+  idia karaia noho: hobby, card bona board gemu, nadua, uma gauna, lao, club,
+  lotu bona voluntia. Anina bada be group maragidia, lao kwadogidia, revareva
+  plan maoromaoro, bona heduru tau ia kahana ai. Henanadai oi naria tau edena
+  heduru ia ura, bona ia henia.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Taunimanima momo dementia matamata gauna ai idia sibona noho namonamo. Gaukara be hagerea, to idia haidaua lasi."
+  - "Henanadai oi naria tau edena heduru ia ura, bona hereva maoromo ta umui abia hidi heduru ia ura negana ai."
+  - "Group maragidia, noho kwadogi negadia bona lao kwadogidia ese heduru bada idia henia."
+  - "Inai negana be namo, oi naria tau ia sibona ena gaukara ia gunalaia, hegeregere journal o ena mauri sivarai buka."
+  - "Gemu abia hidi moale totona. Gemu ia halaoa bema ia lao test bamona."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Dementia matamata gauna ai dahaka gaukara be namo?"
+    a: "Unai gaukara oi naria tau ia moalelaia vadaeni: card, board gemu, nadua, uma gauna, lao, musika, lotu gaukara, club bona voluntia. Oi hagerea diba, oi hakwadogia, o oi hamomokania. Journal revareva, revareva torea bona ena mauri sivarai buka karaia be inai gauna totona namo."
+  - q: "Edena bamona lau heduru henia, to lau abi lasi?"
+    a: "Henanadai oi naria tau edena heduru ia ura, bona nega momo ai oi henanadai lou. Hereva maoromo ta o hetaha ta umui abia hidi, anina be oi mai heduru diba, hegeregere hereva ta o ladana ta ia diba lasi negana ai. Dika ta lasi bema, ia ena dalana ai ia karaia, ena be nega daudau ia abia."
+  - q: "Dementia matamata gauna ai tau ta gaukara matamata ia tohoa diba, a?"
+    a: "Oibe, bema ia ura. Ia diba vadaeni gaukara be mai hekwarahi, to taunimanima momo idia gaukara matamata idia moalelaia, hegeregere lao group dementia totona, art class o ane group. Nega tamona tohoa, ura-hedinaraia lasi, bona itaia edena bamona."
+  - q: "Brain-training app be dementia matamata gauna ai idia namo, a?"
+    a: "Taunimanima haida idia puzzle bona hereva gemu idia moalelaia, bona unai moale be dala namona. App o gemu ta ese dementia ia hanamoa, ia hakwadogia, o ia hadokoa lasi, unai hahedinaraia lasi. Gemu ta ese hekwakwanai o tau ia ia laloa ia kerere negana ai, oi atoa."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Dementia matamata gauna ai, taunimanima momo idia sibodia noho, guna bamona. Idia gaukara, idia voluntia, idia turadia idia itaia, bona idia edia dina idia naria namonamo. Gaukara be haidaua lasi; idia hagerea maragimaragi, unai dainai idia moale noho. Oi naria dalana be heduru tau bamona, naria tau lasi: oi heduru henia, oi ida oi plan, bona oi heduru henia negana ia noia.
 
-## What activities are good in early-stage dementia?
+## Dementia matamata gauna ai dahaka gaukara be namo?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Dementia matamata gauna ai, gaukara namodia be oi naria tau ia moalelaia vadaeni, to idia hamomokania maragimaragi. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ese ia gwau card bona board gemu, hereva davana, lao, mavaru, uma gauna, aurore haginia, sivarai hamaoromaoroa, paint, musika, journal revareva, revareva torea, scrapbook, nadua bona dina badadia ena kara.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Idia haidaua gauna be gabuna, gaukara lasi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ese ia gwau dementia matamata gauna ai taunimanima haida idia moalelaia gaukara idia laka lasi diba. Ia hahedinaraia, tau ta ia party bada ai ia hekwakwanai, to group maragi ai ia namo. Umui hereva maoromaoro dahaka be auka, bona umui hagerea hebou.
 
-## Ask first, and agree on how to help
+## Guna henanadai, bona edena bamona oi heduru umui abia hidi
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association ena matamata gauna sivarai](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) ese inai kara maorodia ia gwau, gaukara totona danu:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Henanadai maoromaoro.** "Buka club ai dahaka ese oi heduru henia diba?" be hereva namona, oi sibomu oi laloa lasi.
+- **Laloa ia karaia diba.** Dika ta lasi bema, oi naria tau ia tohoa henia, bona oi hagoadaia, oi abi lasi.
+- **Toana ta umui abia hidi.** Hereva ta o hetaha ta umui abia hidi, anina be "oi mai heduru diba," hegeregere ladana ta ia diba lasi card gemu ai negana.
+- **Nega momo ai henanadai lou.** Henanadai heduru gauna be namo, ia momo, o ia maragi.
 
-## Activity ideas for the early stage
+## Matamata gauna ena gaukara herevadia
 
-### Keep up roles and hobbies
+### Gaukara bona hobby abi noho
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Gaukara nega ta atoa noho.** Wiki ta ta ai voluntia, ane group o club ese dina ia hahegeregerea. Bema ia hekwakwanai, gaukara kwadogi o kwadogi gauna be namo.
+- **Aniani umui plan hebou.** Bema store lao ia auka, Alzheimer's Association ese ia gwau oi naria tau oi noia wiki aniani ia plan bona lis ia torea.
+- **Nadua bona bake.** Oi moalelaia recipe ta umui karaia hebou. Umui matamaia lasi negana ai, gaukara gaudia atoa odaia, unai dainai kara idia itaia.
+- **Uma gauna.** Uma ta plan, aurore o au hidi, bona umui gaukara hebou. Wiki ai dahaka umui karaia diba, unai revareva ai atoa.
+- **Sibomu gaukara atoa noho.** Au gaukara, kwatua, knit o model karaia be ia lao noho diba, pattern maorodia bona diari namona ida.
 
-### Games for enjoyment
+### Moale totona gemu
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Card bona board gemu.** Umui diba vadaeni gemu be mai hekwarahi. Team ai gadara, unai dainai tau ta sibona ia gini lasi, bona mark dua lasi o maragimaragi.
+- **Revareva bada word search tohoa.** Emai [word search](/games/word-search/) be screen ai o print ai oi gadara diba, noho kwadogi negana ai.
+- **Jigsaw puzzle karaia.** Puzzle gabuna ia moale henia, ia auka lasi. [Picture puzzle](/games/picture-puzzle/) be screen ai gemu kwadogi, bona [dementia totona puzzle](/activities/puzzles/) ena sivarai ese edena bamona oi abia hidi ia hahedinaraia.
+- **Trivia team ai moale totona.** Taunimanima haida idia team trivia idia moalelaia. Bema ia lao test bamona, gaukara ma ta abia, o emai [trivia henanadai maorodia](/activities/trivia/) tohoa, idia mai abia hidi herevadia bona mark lasi.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Inai gemu be moale totona. Gemu ta ese dementia ia hanamoa o ia hakwadogia lasi, unai hahedinaraia lasi; momo herevalaia [brain games: diba gauna be dahaka ia gwau](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Revareva, laloa bona sivarai atoa
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Journal atoa.** Alzheimer's Association ese ia gwau dementia hahedinaraia murina ai, journal revareva ese lalohadai ia heduru diba. Dina ta ai hereva rua toi be namo.
+- **Mauri sivarai buka gunalaia.** Matamata gauna be negana namona, oi naria tau ia sibona ena photo ia hidi bona idia edia sivarai ia torea o ia gwau. Itaia [laloa lou gaukara](/activities/reminiscence/).
+- **Revareva torea.** Tubuna, turana gunana o gaukara hebou tau ta totona revareva torea be ruaosi totona anina bada.
+- **Photo umui herevalaia.** [Photo pairs](/games/photo-pairs/) ese ruma bese photo ia haidaua lao gemu maoromo ta ai, bona [conversation cards](/games/conversation-cards/) ese hereva hamatamaia daladia idia henia.
 
-### Go out and move
+### Lasi lao bona gaukara karaia
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ese ia gwau umui ruaosi umui moale negana ai, umui diba vadaeni lao atoa. Oi naria tau ena dina namona negana ai plan, bona lao daudau lasi.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Lao kwadogidia.** Museum, matinee o art itaia, nega kwadogi ai bema namo.
+- **Nahu.** NIA ese ia gwau nahu gabuna ai, dina kwadogi negana ai.
+- **Lao group bona mavaru class.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ese ia gwau mavaru, tai chi, yoga, nahu bona lao group, bona dementia totona heduru session idia noho negana ai.
+- **Ane group bona memory café.** Group kwadogidia ai, dementia ida taunimanima bona edia heduru taudia idia hebou diba, ma haida idia kamonai hegeregere.
 
-## Small changes that keep activities enjoyable
+## Gaukara ia moale noho totona hagerea maragidia
 
-| If this is getting harder | Try this |
+| Bema inai ia auka | Inai tohoa |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Gabuna momo o regere bada | Nega kwadogi ai lao, group maragi abia, gabuna badana ena kahana ai helai |
+| Ladana matamata laloa | Nega ta ta ai ladana gwauraia lou; group noia name tag idia gaukaralaia |
+| Kara momo murinai murinai badinaia | Kara revareva ai atoa, o gaukara gaudia guna atoa odaia |
+| Hesiai | Lao hakwadogia, murinai laga-ani, unai dina ai gaukara ma ta atoa lasi |
+| Gemu ai badinaia | Team ai gadara, taravatu hamomokania, o mark dua lasi |
+| Hereva davana | Nega henia; umui abia hidi toana ia gwau bema, unai negana ai oi hereva ta henia |
 
-## When to slow down
+## Nega dahaka ai oi hakwadogia
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Gaukara ta atoa bema hekwakwanai ia bada, moale lasi. Nega momo ia hekwakwanai, hobby ia laka, o ia gwau "lau karaia diba lasi" negana ai, unai be hereva maragi totona, hedinarai lasi. Nega momo dalana namona be unai gaukara sibona ia hagerea maragimaragi. Oi naria tau ia heduru momo ia ura, gaukara ia hamatamaia bona ia badinaia totona, [gaukara bogaragidia gauna](/activities/middle-stage/) ena hereva be namo. Heduru hereva totona, itaia [hereva daladia](/caregiving/communication-tips/), bona hereva momo totona, itaia [gaukara 101](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Heduru taudia danu heduru idia ura. Matamata gauna be negana namona, oi sibomu heduru network oi karaia; itaia [naria tauna ena naria sibona](/caregiving/caregiver-self-care/).

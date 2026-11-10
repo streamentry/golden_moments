@@ -1,32 +1,32 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Деменциллĕ çынсем валли кĕвĕ ӗҫ-хĕлĕсем"
+seoTitle: "Деменци тĕлĕшпе кĕвĕ: плейлистсем тата сăнсем"
+description: "Деменципе пурăнакан çынпа кĕвĕ пĕрле мĕнле итлемелли: ҫамрӑклӑх вӑхӑчĕн кĕвĕсенчен плейлист хатĕрлемелли, 15 ансат ӗҫ тата кашни тапхӑр валли канашсем."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Кĕвĕ — деменципе пурăнакан çынпа пĕрле ӗҫлеме чи ансат майсенчен пĕри.
+  Унăн ҫамрӑклӑхĕн, тĕнĕн тата ҫемйин кĕвĕсенчен хăйне евĕр плейлист
+  хатĕрлĕр, рекламӑсӑр тата ытти сассӑсӑр янратӑр, пĕрле юрлӑр, алӑ çупӑр,
+  лӑхланӑр е анчах та итлĕр. Вӑхӑта кура лăпкӑ е хаваслă кĕвĕ суйлӑр, сассăна
+  ҫемçе тытӑр, кĕвĕ çынна хăрушлатать тесе курсан, чарӑнӑр.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Хăйне евĕр кĕвĕсем чи лайӑх пыраççĕ: çын ҫамрӑк чухне юратнă кĕвĕсем, тĕнĕ, культура тата ҫемье уявĕсен кĕвĕсем."
+  - "Пĕр вӑхӑтра пĕр япалана янратӑр: рекламӑсӑр, телевизор сӳнтернĕ."
+  - "Юрласси, алӑ çупасси, лӑхланасси тата анчах та итлесси — пурте хутшăнас май."
+  - "Лăпкӑ кĕвĕсем лăпланма, хаваслă кĕвĕсем кӑмăла çĕклеме пултараççĕ; çын мĕнле реакциленине сăнаса тӑрӑр."
+  - "Йĕркеленĕ кĕвĕ занятиĕсем çинчен тĕпчевсем сахал; эпир кĕвĕпе пĕрле киленме сĕнетпĕр, сиплев япалисем пек мар."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Деменципе пурăнакан çын валли мĕнле кĕвĕсем чи лайӑх?"
+    a: "Çын нумай вӑхӑт кая юратса итленĕ кĕвĕсем — чылай чухне 15–25 çулсенчи, унсăр пуçне тĕнĕ, культура тата ҫемье уявĕсен кĕвĕсем. Май пур чухне çынна хăйне суйлама ирĕк парӑр. Унăн питĕ тата хусканăвĕ мĕн килейменнине кăтартать, хăрушлатакан япалана пăрахӑр."
+  - q: "Наушниксемпе усă курмалла-и?"
+    a: "Хăш-пĕр çынсем наушниксене юратаççĕ, мĕншĕн тесен вĕсем ытти сасса чарса лартаççĕ. Ыттисем вăл япалана хăтлӑ е йăлӑхтарса илекен туйса илме пултараççĕ. Малтан колонкӑпа янратса пăхӑр, çапла эсир пĕрле итлейĕр. Наушниксемпе усă курсан, сасса ҫемçе тытӑр тата айĕнче ларар."
+  - q: "Кĕвĕ лăпланма пулăшма пултарать-и?"
+    a: "Лăпкӑ, паллă кĕвĕсем лăпкӑ сывлăш пулма пулăшаççĕ. Alzheimer's Association эсир кĕлетекен сывлăш тума кĕвĕпе усă курма сĕнет. Ку кашни вӑхӑтра та ĕçлемест. Çын хуйхăрса тăрать пулсан, ыратни, выçăлани, сасси е ывăнни пур-и тесе тĕрĕслĕр."
+  - q: "Деменцин кайри тапхӑрĕнчи çынсем те кĕвĕпе киленме пултараççĕ-и?"
+    a: "Нумайӑшĕ пултараççĕ. Alzheimer's Association палӑртнипе, деменцин кайри тапхӑрĕнчи çын ача чухне илтнĕ кĕвĕ тактне тытса е унпа перле юрласа яма пултарать. Ун патне ҫывӑх ларар, кĕвĕпе ҫемçе янратӑр, аллине тытса илĕр е пĕрле лӑхланӑр."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Кĕвĕ — деменципе пурăнакан çынпа пĕрле усă курма чи ансат япаласенчен пĕри. Вăл нимĕн те ыйтмасть: тĕрĕс хурав та, йĕркелеме тĕлĕшлĕ утăмсем те кирлĕ мар. Палăрăн кĕвĕ кулӑш, тактпа ура çупни е пĕр-ик сăмахпа перле юрласси кăтартма пултарать — калаçу йывӑр пулнă кунсенче те. Сире ку çын валли лайӑх кĕвĕ тата ӑна янратма лăпкӑ самант кăна кирлĕ.
 
-## What music activities work for people with dementia?
+## Деменципе пурăнакан çынсем валли мĕнле кĕвĕ ӗҫ-хĕлĕсем ĕçлеççĕ?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Итлесси, юрласси, алӑ çупасси, лӑхланасси тата кĕвĕ çинчен калаçасси лайӑх ĕçлет. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) кĕвĕ янратма, кĕвĕпе артист çинчен калаçма, паллă кĕвĕсене юрлама е ташлама, та ватăлăхра концертсемпе программа çине кайма сĕнет. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) хушса палӑртать: алӑ çупасси е ташласси кĕвĕпе киленнĕ майне ÿстерме пултарать, кĕвĕ сăмахсем çитмен чухне те çыхăну майĕ пулма пултарать.
 
-## How do you build a personal playlist?
+## Хăйне евĕр плейлиста мĕнле хатĕрлемелли?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Чи усăллă япала — ку çын валли пĕлтерĕшлĕ кĕвĕсен плейлисчĕ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) та хăйне евĕр кĕвĕсене палӑртать. Ӑна ансат майпа хатĕрлеме пулать.
 
-### Start with their life
+### Унăн пурнăçĕнчен пуçлӑр
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Унăн ҫамрӑклӑхĕ.** Вăл ҫамрӑк чухне радио, ташлавсемпе фильмсенче мĕн янратнине шухӑшлӑр.
+- **Пĕлтерĕшлĕ самантсем.** Туйра, пĕрремĕш ташлавра е ҫемьепе кайнă çул-йĕрте янранă кĕвĕсем.
+- **Тĕнĕ тата культура.** Гимнсем, духовнăй кĕвĕсем е пĕрремĕш чĕлхепе юрланă кĕвĕсем.
+- **Ӗҫ тата служба.** Маршсем, ĕç кĕвĕсем е вăхăтлӑх ҫулсен кĕвĕсем.
+- **Ҫемье аса илни.** Тăвансене, ачасене тата кивĕ туссене яланах мĕн юрланине е итленине ыйтăр.
 
-### Think in genres, not just songs
+### Сăмахсене мар, кĕвĕ тĕсĕсене шухӑшлӑр
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Ӑçтан пуçламаллине пĕлместĕр пулсан, çак жанрсенчен кашнинчен пĕр-ик минут янратса пăхăр тата реакцине сăнӑр: биг-бенд тата свинг, ду-воп, Motown тата соул, малтанхи рок-н-ролл, кантри, блюграсс, госпел тата гимнсем, Бродвей кĕвĕсем, джаз стандартĕсем, болеро е мариачи евĕрлĕ латиноамерикан кĕвĕсем, полька, халăх кĕвĕсем тата классика. Кулӑш е тактпа ура çупасси кÿртекен япалана упраса хăвӑр, йĕр хăварнине пăрахӑр.
 
-### Make it easy to play
+### Янратма ансат тăвӑр
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Рекламӑсӑр.** Alzheimer's Association палӑртать: рекламă йăлӑхтарма пултарать. Тиесе илнĕ кĕвĕсемпе, CD, пластинкасемпе е рекламӑсӑр сервиспа усă курӑр.
+- **Пĕр ансат хатĕр.** Пĕр пысӑк кнопкăллă колонка е малтанах хатĕрленĕ плейлист — кашни çын ӑна пуçлама пултармалла.
+- **Икĕ кĕске список.** Лăпланма валли пĕри, кӑмăла çĕклеме валли тепри.
+- **Ят парӑр.** Хатĕр çине çынăн ятне тата «юратнă кĕвĕсем» тенĕ сăмахсене çырса хурӑр, çапла çемье тата пăхса тăракан ĕççенсем те усă курма пултараççĕ.
 
-## 15 music activities to try
+## Пăхса курас 15 кĕвĕ ӗҫĕ
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Пĕрле итлĕр.** Юнашар пĕр-пĕрин патне ларар, ытти сассӑсӑр. Итлесси — тулли ӗҫ.
+2. **Пĕрле юрлӑр.** Хăвăр пуçлӑр. Ҫырма çырса юрласси те, сăмахсене çут çÿпипе кăтартасси те юрăть.
+3. **Тактпа алӑ çупӑр.** Ура çине, сĕтел çине çупӑр е пĕчĕк барабан, шейкер усă курӑр.
+4. **Лăпкӑх ташлӑр.** Кухньăра алăран алă тытса лӑхланӑр е ларас умĕнчен алӑсемпе хускалӑр.
+5. **Шарфсемпе ташлӑр.** Кĕвĕ тăрӑх ҫăмăл шарфсене тăрса е ларас умĕнчен сулӑр.
+6. **Кĕвĕ çинчен калаçӑр.** Тĕрĕслемелле мар, йышăнуллă ыйтӑр: «Ку кĕвĕ мана ташлав залне аса илтерет. Ташлавсем çинчен каласа пар-ха». «Ку кĕвве аса илетĕр-и?» тесе ан ыйтӑр.
+7. **Пĕтĕм альбома итлĕр.** Юратнă пластинкăна пуçламăшĕнчен вĕçне таран кофепе янратӑр.
+8. **Альбом хуплашкисене пăхӑр.** Кивĕ пластинка хуплашкисем тумпа, машина тата çын сăнĕсем çинчен калаçма лайӑх май параççĕ.
+9. **Мюзикл пăхӑр.** Унăн вăхăчĕн мюзиклĕ е концертĕ каçхи вӑхӑт валли лайӑх. Канмалли самантсем тытса чарӑнӑр.
+10. **Паллă инструмента çалă парӑр.** Пианинопа е гитарăпа çывӑх пулнă çын ансат кĕвĕ çалма киленме пултарать. Каярах пĕр-ик нота пĕрле тупасси те çителĕклĕ.
+11. **Ӗҫ вӑхӑтĕнче кĕвĕ.** Тумтире çĕкленĕ е сĕтел хатĕрленĕ чухне юратнă кĕвĕсене янратӑр.
+12. **Ирхи кĕвĕ.** Кашни кунне пĕр савăнӑçлă кĕвĕпе пуçлӑр, ӑна йĕркепе ÿкерĕр.
+13. **Гимнсемпе духовнăй кĕвĕсем юрлӑр.** Унăн тĕнĕн кĕвĕсене янратӑр тата пĕрле юрлӑр.
+14. **Юрлав ушкăнне хутшăнӑр.** NHS юрлав ушкăнĕсене кӑмăл тата сывлăш тытăмĕ валли лайӑх тенипе палӑртать. Айăккинче деменципе пурăнакан çынсем валли ансат хорсем пур-и тесе ыйтăр.
+15. **Чăн концерт çине кайӑр.** Кĕске ватăлăх концерчĕ е урамри кĕвĕ. Тухса каймалли вырăн патне ларар тата эсир кирлĕ тесе туйсан тахçан тухса кайӑр.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Паллă фразăсемпе ҫăмăлрах ӗҫшĕн [вырăнне çитертнине çырăр](/games/finish-the-saying/) пăхса илĕр — унта вĕçне яланах кăтартма пулать.
 
-## Matching music to the moment
+## Вӑхӑта кура кĕвĕ суйласси
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association эсир кĕлетекен сывлăш тума кĕвĕпе усă курма сĕнет: лăпкă кĕвĕсем — лăпкӑ атмосфера валли, çынăн ҫамрӑклӑхĕн хаваслă кĕвĕсем — кӑмăла çĕклеме.
 
-| Moment | Try | Tip |
+| Вӑхӑт | Мĕн турăр | Канаш |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Утма | Палăрăн, савăнӑçлă кĕвĕ | Кашни ирхине пĕр кĕвĕпе пуçласси ҫемçе паллă тунă пек пулать |
+| Килти ӗҫсем | Хаваслă юратнă кĕвĕсем | Кĕвĕ ӗçе ҫывӑхрах тума пулăшма пултарать |
+| Апатлану | Ҫемçе инструменталлă кĕвĕ | Сасси апатланăва пăтăнтартмалла мар |
+| Каçхине | Лăпкӑ, палăрăн кĕвĕсем, ҫутӑ вырăнта | [Каçхи лăпланусӑрлăх](/caregiving/late-day-restlessness/) пăхӑр |
+| Çывăрмалли вӑхӑт | Вăрăм, ҫемçе кĕвĕсем | Сасса та, ҫутă та пĕрле чакарӑр |
+| Кайри тапхӑр | Чи юратнă кĕвĕсем, питĕ ҫемçе | Ҫывӑх ларар тата аллине тытса илĕр |
 
-## Tips for a good experience
+## Лайӑх киленнĕ май валли канашсем
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Ытти сассене сӳнтерĕр.** Alzheimer's Association чÿрече тата алăксене хупма, телевизора сӳнтерме сĕнет, кĕвĕ кăна янрамалла.
+- **Сассăна ҫемçе тытӑр.** Кĕвĕ хăтлӑ мар, киленмелле пулмалла. Çын итлемелли хатĕрсемпе усă курать пулсан, вĕсем ĕçлетĕр-и тесе тĕрĕслĕр; [итлеве](/brain-health/hearing/) пăхӑр.
+- **Хуйхӑруллă кĕвĕсене ас тытӑр.** Хăш-пĕр кĕвĕсем хуйхăра, вăрçӑна е ҫухатӑва аса илтерме пултараççĕ. Кĕвĕ çынна хăрушлатать пулсан, ӑна пăхса тăрӑр тата ытти кĕвĕ янратӑр.
+- **Çынна ирĕк парӑр.** Май пур чухне çынна кĕвĕ суйма ирĕк парӑр, «çук» тенипе те килĕшĕр.
+- **Хăçан та пулин чарӑнӑр.** Пиллĕк минут кĕвĕ итлесси те — лайӑх ӗҫ. Кĕвĕ сӳнтерсе, лăпкӑн ларасси те юрăть.
 
-## What does the research say about music and dementia?
+## Кĕвĕпе деменци çинчен тĕпчевсем мĕн теççĕ?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Çирĕплетсе кăна калама пултаракан çирĕп фактсем сахал. [2025 çулхи Cochrane пăхса тухни](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) йĕркеленĕ кĕвĕ занятиĕсем çинчен 30 тĕпчеве тишкернĕ, чылайӑшĕ пăхса тăракан пÿртсенче ушкăнпа иртнĕ. Вăл çак занятисем яланхи пăхса тăрассипе танлаштарсан депрессивлă симптомсене пĕчĕкре чакарма пултараççĕ тенине палӑртнă. Анчах та хуйхӑру, сывлăш тытăмĕ, шухăшлав тата аса илӳ çине уçăмлă витĕм курăнман, занятисем вĕҫленнĕ хыççӑн та витĕм юлман.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Эпир кĕвĕпе пĕрле вӑхӑт ирттерме сĕнетпĕр, мĕншĕн тесен вăл киленмелле тата йывăрлăхсӑр май парать — сиплев япалисем пек мар. Ушкăнпа ӗçлеме [пăхса тăракан пÿртре ушкăнпа ӗҫ-хĕлĕсем](/activities/care-home-groups/) пăхӑр; кĕвĕпе сӑнӳкерчĕксем тата калавсене пĕрле усă курма [аса илӳ ӗҫ-хĕлĕсем](/activities/reminiscence/) пăхӑр.

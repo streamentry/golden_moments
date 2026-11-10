@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Հիշողության խաղեր դեմենցիայի դեպքում՝ առանց ստուգելու"
+seoTitle: "Հիշողության խաղեր դեմենցիայի դեպքում՝ նուրբ տարբերակներ"
+description: "Զույգերի, նկարների և քարտերի խաղեր դեմենցիայով ապրող մեծահասակների համար, և ինչպես խաղալ այնպես, որ ոչ ոք չզգա, թե իրեն ստուգում են։"
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Հիշողության խաղերը դեմենցիայով ապրող մեծահասակների համար ավելի լավ են ստացվում,
+  երբ չեն պահանջում հիշողություն։ Խաղացեք զույգերի խաղերը նկարները բաց վիճակում,
+  օգտագործեք չորսից վեց նկար, խաղացեք միասին և բաց թողեք միավորները։
+  Նկարը ճանաչելը ավելի հեշտ է, քան այն հիշելը, ուստի ընտրեք խաղեր, որտեղ ամեն ինչ
+  մնում է տեսադաշտում։ Նպատակը արդյունքը չէ, այլ հաճելի ժամանակը։
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Սովորական հիշողության խաղերը քարտերը թաքցնում են, այսինքն՝ ստուգում են հենց այն, ինչը դեմենցիայի դեպքում դժվարանում է։ Դրա փոխարեն նկարները թողեք բաց։"
+  - "Ավելի քիչ մասեր, ավելի մեծ նկարներ և միաժամանակ մեկ ընտրություն՝ խաղը հաճելի պահելու համար։"
+  - "Խաղացեք որպես թիմ, հերթով օգնեք և բաց թողեք միավորները։ Ոչ ոք չպետք է հայտնվի անհարմար իրավիճակում։"
+  - "Ոչ մի հիշողության խաղ չի ապացուցվել, որ բուժում, դանդաղեցնում կամ կանգնեցնում է դեմենցիան։ Խաղացեք, որովհետև դա միասին անցկացրած հաճելի ժամանակ է։"
+  - "Դադարեցրեք, քանի դեռ խաղը դեռ հաճելի է։ Նկարների մասին զրուցելը նույնպես լավ արդյունք է։"
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Ո՞ր հիշողության խաղն է հարմար դեմենցիայով ապրող մարդու համար։"
+    a: "Զույգերի խաղ՝ մեծ, ծանոթ նկարներով, որոնք կարող են մնալ բաց վիճակում, օրինակ՝ Picture pairs-ը՝ չորս կամ վեց նկարով։ Ձեր աչքի առաջ գտնվող նկարի զույգը գտնելը հաճելի է և կարճաժամկետ հիշողությունը չի ստուգում։ Find the same-ը նույնիսկ ավելի պարզ է. կա մեկ նկար, որը պետք է համադրել երկուսից չորս ընտրությունից։"
+  - q: "Հիշողության խաղերը օգնում են դեմենցիայի դեպքում՞։"
+    a: "Ոչ մի հիշողության խաղ չի ապացուցվել, որ բուժում, դանդաղեցնում կամ կանգնեցնում է դեմենցիան։ Cochrane-ի վերանայումը ցույց է տվել, որ համակարգչային մտավոր վարժությունների մասին ապացույցները շատ սահմանափակ են՝ ասելու համար, թե դրանք կանխում են դեմենցիան, թե ոչ։ Խաղերը միևնույն է կարող են լինել միասին ժամանակ անցկացնելու ջերմ միջոց։ Ընտրեք դրանք հաճույքի և ընկերակցության համար։"
+  - q: "Արժե՞ խաղալ դասական Concentration-ը դեմենցիայով ապրող մարդու հետ։"
+    a: "Վաղ շրջանում որոշ մարդիկ դեռ վայելում են այն, հատկապես փոքր թվով քարտերով։ Եթե քարտերի տեղը հիշելը սկսում է նյարդայնություն առաջացնել, շրջեք քարտերը բաց կողմով և պարզապես միասին գտեք զույգերը։ Այդպես մնում է համադրելը, իսկ հիշողության ստուգումը՝ ոչ։"
+  - q: "Ո՞ր հիշողության խաղերն են հարմար խմբով խաղալու համար։"
+    a: "Նկարներով բինգոն՝ էկրանին պատահական նկար ցույց տվող օգնականով, ծանոթ ասացվածքների ավարտումը բարձրաձայն և զրույցի քարտերը լավ են աշխատում խմբերում։ Խաղացեք այնքան, մինչև յուրաքանչյուր քարտ լցվի, և մի նշեք, թե ով ինչ պատասխանեց, որպեսզի ոչ ոք չզգա, թե առանձնացվում է։"
+  - q: "Կա՞ն առցանց անվճար հիշողության խաղեր մեծահասակների համար։"
+    a: "Այո։ Այս կայքի խաղերը, ներառյալ Picture pairs-ը, Find the same-ը, Photo pairs-ը և Picture puzzle-ը, անվճար են, գրանցում չեն պահանջում և աշխատում են հեռախոսներով, պլանշետներով և համակարգիչներով։ Դրանցից ոչ մեկը չունի ժամաչափ կամ միավորներ։"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Եթե փնտրեք «հիշողության խաղեր մեծահասակների համար», ապա շատ արդյունքներ նախատեսված են նրանց համար, ովքեր մտավոր մարզում են ուզում. թաքնված քարտեր, հետհաշվարկ, մակարդակներ և միավորներ։ Դեմենցիայով ապրող մարդու համար այդ հնարավորությունները խաղը վերածում են հենց այն բանի ստուգման, ինչը դարձել է դժվար։ Նույն խաղերը կարելի է խաղալ ավելի նուրբ ձևով։ Այս էջում ցույց ենք տալիս՝ ինչպես, և ներկայացնում ենք խաղեր, որոնք լավ են աշխատում տարբեր փուլերում։
 
-## Why do classic memory games frustrate people with dementia?
+## Ինչո՞ւ են սովորական հիշողության խաղերը նյարդայնացնում դեմենցիայով ապրող մարդկանց։
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Քանի որ դրանք պահանջում են նոր տեղեկությունը պահել մտքում, իսկ դա սովորաբար առաջին բանն է, որի վրա ազդում է Ալցհայմերի հիվանդությունը՝ դեմենցիայի ամենատարածված պատճառը։ [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers)-ը նշում է, որ Ալցհայմերի հիվանդության ամենատարածված վաղ նշանը նոր սովորած տեղեկությունը հիշելու դժվարությունն է։ Դասական Concentration խաղում Դուք շրջում եք երկու քարտ, հիշում, թե որտեղ էին դրանք, և այդ տեղեկությունն օգտագործում մեկ րոպե հետո։ Դա նոր տեղեկություն է, որը պետք է պահել և հետո հիշել։
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Եթե դրան ավելանում են ժամաչափը, միավորները կամ սխալ պատասխանի ազդանշանը, մարդը սիրելի մարդու կողքին հերթական անգամ բախվում է այն բանին, ինչը իրեն դժվար է տրվում։ Շատերը հանգիստ դադարում են խաղալուց։
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Այն, ինչ տեսնում եք, ճանաչելը այլ խնդիր է և սովորաբար ավելի հեշտ։ Երկու թեյնիկն էլ տեսադաշտում լինելիս երկրորդի վրա մատնացույց անելն ինքնին հաճելի է։ Ուստի կարևոր է համադրելն оставить, իսկ հիշողության ստուգումը հանել։
 
-## How do you make a memory game gentle?
+## Ինչպե՞ս հիշողության խաղը դարձնել ավելի նուրբ։
 
-These adjustments work for card games, board games and games on a screen.
+Այս փոփոխությունները աշխատում են քարտերով խաղերի, սեղանի խաղերի և էկրանով խաղերի համար։
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Նկարները թողեք բաց։** Այն նկարները համադրելը, որոնք կարող եք տեսնել, միևնույն է մնում է իսկական խաղ և հաճախ հաճելի է։
+2. **Օգտագործեք ավելի քիչ մասեր։** Սկսեք երկու կամ երեք զույգից։ Ավելացրեք միայն այն դեպքում, եթե շատ հեշտ է թվում և մարդը ուզում է ավելին։
+3. **Ընտրեք մեծ, ծանոթ, մեծահասակների համար հարմար նկարներ։** Թեյնիկ, արևածաղիկ, առագաստանավ։ Ոչ մուլտհերոսներ և ոչ էլ խճողված պատկերներ։
+4. **Խաղացեք որպես թիմ։** «Եկեք գտնենք շներին»՝ «քո հերթն է»-ի փոխարեն։ Հերթով մատնացույց արեք և օգնեք։
+5. **Բաց թողեք միավորները։** Հաղթել պետք չէ։ Եթե մարդը հարցնում է, բավական է պարզ «ստացվեց» ասելը։
+6. **Երբեք մի մրցեք ժամանակի դեմ։** Առանց ժամաչափի և առանց հերթերի միջև շտապելու։
+7. **Խոսեք նկարների մասին։** «Տեսեք այդ նավակը։ Դուք երբևէ առագաստանավո՞վ եք նավարկել»։ Զրույցը հաճախ ամենալավ մասն է։
+8. **Դադարեցրեք լավ պահին։** Ավարտեք մեկ համադրումից հետո, քանի դեռ խաղը դեռ հաճելի է։
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)-ը նույն մոտեցումն է առաջարկում որպես ընդհանուր խորհուրդ. գործունեությունը հարմարեցրեք այն բանին, ինչ մարդը կարող է անել, ուշադրություն դարձրեք նյարդայնությանը և համոզվեք, որ նա հաջողության զգացում ունի։
 
-## Gentle memory and matching games to try
+## Նուրբ հիշողության և համադրման խաղեր, որոնք կարելի է փորձել
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (զույգեր՝ բաց նկարներով)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/)-ը համադրման խաղ է՝ մեծ նկարներով և 4-ից 12 մասով։ Նկարները կարող են մնալ տեսանելի, ուստի խաղը զույգեր գտնելու մասին է, ոչ թե հիշելու՝ դրանք որտեղ էին։ Սկսեք չորս մասից։ Եթե վաղ փուլում գտնվող մարդը հաճույք է ստանում մի փոքր ավելի մեծ դժվարությունից, կարող եք անցնել **Hidden pictures** տարբերակին, բայց վերադարձեք բաց նկարներին հենց որ խաղը դադարի հաճելի լինել։
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/)-ը վերևում ցույց է տալիս մեկ նկար, իսկ ներքևում՝ երկուսից չորս տարբերակ։ Հպեք նրան, որը համընկնում է։ Դա կայքի ամենապարզ համադրման խաղն է և հարմար է նրանց համար, ում համար ամբողջական ցանցը շատ խճողված է թվում, այդ թվում՝ ավելի ուշ փուլերում գտնվող շատ մարդկանց համար, եթե կողքին有人 է։
 
-### Photo pairs (family photo memory game)
+### Photo pairs (զույգեր ընտանեկան լուսանկարներով)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/)-ը Ձեր ընտրած լուսանկարները վերածում է համադրման խաղի. շունը, այգին, լճի մոտի տունը։ Ծանոթ դեմքերն ու վայրերը հաճախ ավելի շատ զրույց են առաջացնում, քան ցանկացած սովորական նկար։ Լուսանկարները մնում են Ձեր զննարկիչում և երբեք չեն վերբեռնվում։
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/)-ը առաջարկում է յուրաքանչյուր նկար դնել այն զամբյուղում, որտեղ այն պատկանում է, օրինակ՝ խոհանոցում կամ այգում։ Դասավորելը հենվում է աշխարհի մասին երկար պահպանված գիտելիքների վրա, ոչ թե կարճաժամկետ հիշողության։
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/)-ը նկարը բաժանում է 4 կամ 9 մասի։ Հպեք երկու մասի, որպեսզի փոխեք դրանց տեղերը, մինչև նկարը ամբողջանա։ Ամբողջական նկարը մնում է էկրանին՝ որպես հուշում։
 
-### Real cards on the table
+### Իրական քարտեր սեղանին
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Էկրան պետք չէ։ Երկու տրցակից կամ նկարներով քարտերի հավաքածուից վերցրեք համընկնող զույգեր։ Դրեք դրանք բաց վիճակում երկու շարքով և միասին գտեք զույգերը։ Ավելի ուշ կարող եք պարզապես դասավորել ըստ գույնի կամ мастի։ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/)-ը քարտերով և սեղանի խաղերը նշում է վաղ փուլի համար հարմար գործունեությունների շարքում։
 
-## Which memory games suit each stage?
+## Ո՞ր հիշողության խաղերն են հարմար յուրաքանչյուր փուլում։
 
-Stages are loose labels. Go by what the person enjoys today.
+Փուլերը պայմանական անվանումներ են։ Ուղղորդվեք նրանով, ինչն այսօր հաճելի է մարդուն։
 
-| Stage | Games that often fit | How to set them up |
+| Փուլ | Խաղեր, որոնք հաճախ են հարմար | Ինչպես կարգավորել |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Վաղ | Picture pairs, Photo pairs, Picture puzzle՝ 9 մասով, ծանոթ քարտային խաղեր | Թող մարդը ընտրի։ Նկարները կարող են շրջվել, եթե դա նրան դուր է գալիս. միավորները հանեք, եթե դրանք անհանգստացնում են |
+| Միջին | Picture pairs՝ 4-6 բաց նկարով, Find the same, Sort together | Նկարները միշտ տեսանելի։ Նստեք կողքին և հերթով օգնեք |
+| Ուշ | Find the same՝ 2 ընտրությամբ, միասին մեկ մեծ նկար դիտելը | Շատ կարճ։ Պլանշետը պահեք Դուք. մարդը կարող է մատնացույց անել կամ պարզապես դիտել և լսել |
 
-## Do memory games help with dementia?
+## Հիշողության խաղերը օգնում են դեմենցիայի դեպքում՞։
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ոչ մի հիշողության խաղ չի ապացուցվել, որ բուժում, դանդաղեցնում կամ կանգնեցնում է դեմենցիան։ Թեթև ճանաչողական խանգարում ունեցող մարդկանց համար համակարգչային ճանաչողական վարժությունների մասին [Cochrane-ի վերանայումը](https://pubmed.ncbi.nlm.nih.gov/30864747/) ցույց է տվել, որ ապացույցները շատ սահմանափակ են՝ ասելու համար, թե դրանք կանխում են դեմենցիան, թե ոչ։ Մեր [ուղեցույցը մտավոր խաղերի և դեմենցիայի մասին](/brain-health/brain-games/) բացատրում է, թե ուսումնասիրությունները ինչ են ցույց տալիս և ինչ՝ ոչ։
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Սա խաղերից հրաժարվելու պատճառ չէ։ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities)-ը խորհուրդ է տալիս ուշադրությունը դարձնել հաճույքի, ոչ թե ձեռքբերման վրա։ Նկարներ համադրելու և դրանց մասին զրուցելու տասը րոպեն կարող է օրվա իսկապես լավ մասը լինել։
 
-## What about memory games for seniors without dementia?
+## Իսկ ինչպե՞ս է հիշողության խաղերի դեպքում, եթե դեմենցիա չկա։
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Եթե հիշողության խնդիրներ չունեցող մեծահասակին դուր են գալիս ժամանակով հանելուկները, միավորներն ու ավելի դժվար մակարդակները, դրա մեջ վատ բան չկա։ Պարզապես մի սպասեք, որ դա կպաշտպանի դեմենցիայից. ոչ մի խաղ դա չի ապացուցել։ Վերևի նուրբ տարբերակները նաև լավ են աշխատում, երբ տարբեր սերունդներ են խաղում միասին. դեմենցիայով ապրող տատիկը կամ պապիկը և փոքր թոռնիկը կարող են որպես թիմ նկարներ համադրել՝ առանց մեկը մյուսին ստուգելու։
 
-## When should you stop or change the game?
+## Ե՞րբ արժե դադարեցնել կամ փոխել խաղը։
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Հառաչելը, պլանշետը հեռու հրելը, «ես չեմ կարողանում» ասելը կամ անհանգիստ տեսք ունենալը նշաններ են, որ պետք է խաղը ավելի հեշտ դարձնել կամ դադարեցնել։ Փորձեք ավելի քիչ մասեր, նկարները թողեք բաց, անցեք [Find the same](/games/find-the-same/) խաղին կամ պարզապես նայեք նկարներին և զրուցեք։ Եթե մարդը ընդհանրապես չի ուզում խաղալ, դա նույնպես նորմալ է։ Մեր [միասին խաղալու ուղեցույցում](/caregiving/how-to-play-together/) ավելի շատ տեղեկություն կա տեմպի և օգնության մասին։

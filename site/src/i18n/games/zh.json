@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "图片配对",
+    "seoTitle": "适合认知症长辈的配对游戏：图片配对",
+    "h1": "图片配对：温和轻松的配对游戏",
+    "description": "专为认知症朋友设计的免费温和配对游戏。大图始终清晰显示，没有计时或计分，您可以自由选择4到12张卡片。",
+    "short": "找出两张相同的图片。图片可以一直保持正面朝上。",
+    "players": "1至2人，并排坐在一起",
+    "intro": "点击一张图片，再点击与它相同的那张。默认情况下图片一直保持可见，无需费心记忆。两张图片配对成功后，会显示金色边框和对勾标记。",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "选择要使用的卡片数量。从4张卡片开始，感觉最平和从容。",
+      "点击任意一张图片，图片会出现金色边框。",
+      "点击看起来相同的那张图片。配对成功后，两张卡片会保留在一起并标有对勾。",
+      "如果两张图片不一样，没有任何不良影响。准备好后随时可以再次点击。",
+      "只有在彼此都喜欢经典翻牌玩法时，才开启“隐藏图片”。"
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "一起大声念出图片上的物品并聊聊天：“一个红色的茶杯。你喝茶喜欢加牛奶吗？”",
+      "让您陪伴的家人来点击屏幕，哪怕需要多花一点时间。尽量用手指引，而不是替他们点击。",
+      "只要感觉轻松舒适，就可以一直玩4张卡片。更多卡片只是一种选择，从来不是需要达标的关卡。",
+      "在玩得开心的时候适时结束。玩完一局就是一次完整的活动。"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "游戏有计时或计分吗？",
+        "a": "没有。这里没有时钟、计分、步数统计，也没有输赢。您可以随时停下来，玩到一半收手也是很棒的结束方式。"
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "为什么图片一直正面朝上显示？",
+        "a": "让图片保持可见，能把游戏变成轻松的观察与比对，而不是考验记忆力。许多人觉得这样更加平和放松。如果您喜欢，也可以随时一键切换为盖上卡片的隐藏模式。"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "这是免费的吗？需要注册吗？",
+        "a": "是的，完全免费，不需要注册账号，也不需要下载。在手机、平板或电脑的网页浏览器中都可以直接打开使用。"
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "我们可以使用自家的家庭照片吗？",
+        "a": "可以。您可以试试“照片配对”，它支持从您的设备中选择照片。照片只会保存在您的浏览器里，不会上传到网络。"
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "找找相同的",
+    "seoTitle": "找出相同图片：适合认知症长辈的简单游戏",
+    "h1": "找出相同的图片",
+    "description": "上方显示一张图片，下方有两到四张备选。点击相同的那一张。专为认知症朋友设计的温和免费图片游戏，没有时间限制。",
+    "short": "看一眼上方的图片，然后点击下方相同的那张。",
+    "players": "1到2人",
+    "intro": "屏幕上方有一张图片，下方有两张、三张或四张图片。点击与上方相同的那一张即可。一次只做一个简单的选择，留出充裕轻松的交流空间。",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "选择两张、三张或四张供挑选的图片。两张最简单。",
+      "一起看一看上方的图片。",
+      "点击下方相同的那张图片。选对后会标有对勾，并显示几句温暖的话语。",
+      "如果点到了不同的图片，游戏只会显示该物品的名字并静静等待。慢慢来就好。",
+      "准备好进入下一题时，点击“下一张图片”。"
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "在选择前先聊聊每张图片：颜色、形状，或者平时会在哪里见到它。",
+      "两个选项绝不是“太简单了”。活动的目标是享受愉快的相伴时光，而不是为了挑战。",
+      "如果点击屏幕不太方便，可以由家人用手指一指，您来帮他们点击。"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "游戏有计时或计分吗？",
+        "a": "没有。这里没有时钟、计分、步数统计，也没有输赢。您可以随时停下来，玩到一半收手也是很棒的结束方式。"
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "如果点错了图片会怎么样？",
+        "a": "不会发生任何让人不适的事情。没有刺耳的蜂鸣提示、红叉或画面晃动。游戏只会显示被点击图片的名字，并等待下一次点击。"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "这是免费的吗？需要注册吗？",
+        "a": "是的，完全免费，不需要注册账号，也不需要下载。在手机、平板或电脑的网页浏览器中都可以直接打开使用。"
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "影子配对",
+    "seoTitle": "适合认知症长辈的影子配对游戏：免费在线使用",
+    "h1": "影子配对：轻松温和的图片游戏",
+    "description": "上方是一个深色影子，下方有两到四张图片。点击能投出该影子的图片。专为认知症朋友设计的免费平和影子配对游戏，没有时间限制。",
+    "short": "观察影子，点击能投出该影子的图片。",
+    "players": "1到2人",
+    "intro": "影子配对是大家常在纸质活动纸上见到的熟悉玩法，在这里配上了大图片，而且无需打印。屏幕上方显示一个柔和的影子，下方有两张、三张或四张图片等待选择。点击能投出该影子的那张图片。自行车、雨伞或茶杯这样的生活物品轮廓，也很容易开启日常话题。",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "选择两张、三张或四张供挑选的图片。两张最简单。",
+      "一起看一看那个影子。它是什么形状？是高高的还是圆圆的？",
+      "点击能投出该影子的图片。该物品的名字会出现在影子下方。",
+      "如果点到了不同的图片，游戏只会显示它的名字并静静等待。慢慢来就好。",
+      "准备好换下一个时，点击“下一个影子”。"
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "用手指沿着影子的轮廓描一描，聊聊这个形状。",
+      "如果今天觉得看影子有些吃力，可以换成“找找相同的”，那里的图片完全一样。",
+      "找到图片后可以聊聊天：“我们以前也有一把那样的雨伞呢。”"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "游戏有计时或计分吗？",
+        "a": "没有。这里没有时钟、计分、步数统计，也没有输赢。您可以随时停下来，玩到一半收手也是很棒的结束方式。"
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "影子配对适合认知症人士吗？",
+        "a": "对一些人来说，尤其是在较早阶段，这是一项轻松愉快的小活动。形状通常比文字更容易辨认。这项活动旨在带来乐趣和开启对话，并非测试，也不能治疗或延缓认知症。如果活动让人感到沮丧，不妨试试“寻找相同图案”，或者只是两个人一起看看图片。"
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "如果点错了图片会怎么样？",
+        "a": "不会有任何令人不适的提示。没有蜂鸣声、红叉或画面晃动。活动会读出所点击图片的名称，并静静等待下一次点击。"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "这是免费的吗？需要注册吗？",
+        "a": "是的，完全免费，无需账号、注册或下载。在手机、平板电脑或电脑的网页浏览器中都可以直接打开使用。"
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "一起分类",
+    "seoTitle": "适合认知症人士的分类活动：一起分类",
+    "h1": "一起分类：图片分类活动",
+    "description": "点击一张图片，再点击它所属的篮子：厨房还是花园，水果还是动物。一项专为认知症人士设计的舒心、免费的图片分类活动。",
+    "short": "把每张图片放进对应的篮子：厨房或花园，以及更多类别。",
+    "players": "1至2人",
+    "intro": "分类是一项熟悉且让人感到踏实惬意的日常小事，就像整理买回来的日用品或配对袜子一样。点击一张图片，再点击它所属的篮子。不用着急，也没有所谓的走错走岔。",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "选择一个主题：厨房与花园、水果与动物，或居家与出行。",
+      "点击一张图片，图片会出现金色边框。",
+      "点击它所属的篮子，图片就会移动到那个篮子里。",
+      "如果它属于另一个篮子，活动会温和地予以提示，并静静等待。",
+      "所有图片分类完成后，一起浏览篮子里的物品。"
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "在现实生活中，往往没有绝对的标准答案。如果长辈说喷壶应该放在厨房里，不妨问问原因，说不定能引出一则美好的往事。",
+      "可以用图片作为话题：“你以前在花园里种过什么？”",
+      "离开屏幕后，分类整理真实的物品也是极好的后续活动，比如分拣汤匙和叉子，或者按颜色整理纽扣。"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "有计时或计分吗？",
+        "a": "没有。没有时钟、分数、步数统计，也没有输赢。您可以随时停下来，中途休息也是一种很自然的结束方式。"
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "为什么要进行分类？",
+        "a": "许多人都喜欢分类，因为这让人感到熟悉踏实，就像在做一件有意义的事。而且在这个过程中，大家也很容易就着图片聊聊天。"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "这是免费的吗？需要注册吗？",
+        "a": "是的，完全免费，无需账号、注册或下载。在手机、平板电脑或电脑的网页浏览器中都可以直接打开使用。"
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "图片拼图",
+    "seoTitle": "适合认知症人士的简易拼图：4块或9块",
+    "h1": "图片拼图：简易拼图",
+    "description": "适合认知症人士的简易在线拼图：4块或9块大图块，完整原图始终可见，点击两块即可互换位置。",
+    "short": "点击两块拼图互换位置，直到拼出完整的图片。",
+    "players": "1至2人",
+    "intro": "一张亲切温馨的图片被分成四块或九块大图块，并打乱顺序。上方始终显示完整原图作为参考。点击一块拼图，再点击另一块，它们就会互换位置。无需拖动。",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "选择一张图片，并选择4块或9块。从4块开始会更轻松从容。",
+      "看看上方显示的完整图片。",
+      "点击一块拼图，再点击它应该去的位置，两块拼图就会互换。",
+      "放在正确位置上的拼图会出现一个小勾号。",
+      "拼完整张图片后，一起欣赏一下，然后再选下一张。"
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "对许多人来说，点击两块拼图互换位置比拖动要容易得多。",
+      "拼图时可以聊聊画面内容：“看，那是红色的屋顶。”",
+      "在桌上玩12到24块大图块的实木拼图，也是非常温馨的线下活动。"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "有计时或计分吗？",
+        "a": "没有。没有时钟、分数、步数统计，也没有输赢。您可以随时停下来，中途休息也是一种很自然的结束方式。"
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "需要拖动拼图块吗？",
+        "a": "不需要。点击一块拼图，再点击另一块，它们就会互换位置。如果手部容易发抖或在小屏幕上操作，这样会轻松许多。"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "这是免费的吗？需要注册吗？",
+        "a": "是的，完全免费，无需账号、注册或下载。在手机、平板电脑或电脑的网页浏览器中都可以直接打开使用。"
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "接俗语",
+    "seoTitle": "接俗语：适合长辈的谚语小活动",
+    "h1": "接俗语",
+    "description": "耳熟能详的经典俗语缺少了最后一个词，比如“省一分钱就是赚一分___”。点击选项或显示结尾，然后一起聊聊天。",
+    "short": "一起补全熟悉的俗语，然后聊聊它们背后的故事。",
+    "players": "1人、2人或多人小组",
+    "intro": "老话谚语往往让人记上一辈子。每张卡片都展示了一句熟悉的俗语，其中缺少了最后一个词，配有三个选项和一个“显示结尾”按钮。看到结尾后，还会有一句温和的提问，方便大家自然地聊起天来。",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "一起把俗语大声读出来。",
+      "点击补全俗语的词，或者点击“显示结尾”。",
+      "把整句俗语再读一遍，并根据提示问题一起聊聊天。",
+      "准备好后，点击“下一句”。"
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "慢慢读，在最后一个词前停顿一下。很多时候，还没等您念完，长辈就已经说出来了。",
+      "如果长辈给出了不同的结尾，不妨顺其自然。有些俗语在不同的家庭或地区本来就有不同的说法。",
+      "多个人一起时，可以由一个人朗读，大家一起接出结尾。"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "有计时或计分吗？",
+        "a": "不会。这里没有倒计时、计分、步数限制，也没有输赢。您可以随时停下来，玩到一半停下也是很好的结束方式。"
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "如果我们选了不同的词怎么办？",
+        "a": "游戏会显示常见的一句话，然后引导大家自然地聊聊天。这里不计分，选了不一样的词也很好。"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "这是免费的吗？需要注册吗？",
+        "a": "是的，完全免费，不需要注册账号，也不用下载安装。用手机、平板或电脑的浏览器就能直接打开玩。"
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "大字寻词游戏",
+    "seoTitle": "适合认知症人士的大字寻词游戏，可打印",
+    "h1": "大字寻词游戏",
+    "description": "一款为长辈和认知症人士设计的免费大字寻词游戏。词数少、字体大，词语只横向或纵向排列。可以在线玩，也可以打印出来。",
+    "short": "大字体，词语少，只有横排和竖排。也可以打印玩。",
+    "players": "1到2人",
+    "intro": "格子精简、字体清晰，每局只有几个词，而且全部按横向或竖向排列。点击一个词的首字母，再点击尾字母即可。更喜欢纸笔感觉？点击一下就能打印一份全新的谜题。",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "选择一个主题和格子大小。",
+      "查看词语列表。所有词语都是从左到右横读，或从上到下竖读。",
+      "点击一个词的首字母，再点击末尾字母。",
+      "找到的词语会被高亮显示，并从列表中划掉。",
+      "点击“打印此谜题”，就能用铅笔或马克笔在纸上玩。"
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "指着列表里的一个词，和长辈一起先找它的首字母。",
+      "在纸上玩时，荧光笔通常比铅笔更好握持。",
+      "借着主题词聊聊天。比如水果类的词，能很自然地唤起关于采摘、做点心或逛菜市场的回忆。"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "有计时或计分吗？",
+        "a": "没有。这里没有倒计时、计分、步数限制，也没有输赢。您可以随时停下来，玩到一半停下也是很好的结束方式。"
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "可以把寻词游戏打印出来吗？",
+        "a": "可以。点击“打印此谜题”，就能以大字号打印当前的方格矩阵，下方还附有词语列表。每次生成的新谜题都不一样。"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "这是免费的吗？需要注册吗？",
+        "a": "是的，完全免费，不需要注册账号，也不用下载安装。用手机、平板或电脑的浏览器就能直接打开玩。"
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "填色画",
+    "seoTitle": "适合认知症成年人的免费填色画",
+    "h1": "填色画",
+    "description": "为成年人设计的简明填色画，涂色区域大：先选颜色，再点击画面填色。不会弄脏桌面，也没有选错的颜色，每张画都能免费打印。",
+    "short": "轻点颜色，再点画面涂色。也可以打印出来画。",
+    "players": "1到2人",
+    "intro": "图案线条简洁、色块大：有盆景花卉、房屋、茶杯、蝴蝶和帆船。先点选一种颜色，再点击想要上色的区域即可填满。涂什么颜色都对。",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "选择一张画。",
+      "点击一种颜色，每种颜色上都标有名称。",
+      "点击画面的相应区域，涂上选好的颜色。",
+      "想换颜色随时可以重新填涂。",
+      "点击“打印此页面”，即可打印线稿，用彩铅或马克笔在纸上涂色。"
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "如果一次面对太多颜色感到吃力，可以只拿出两种颜色供长辈挑选。",
+      "画出紫色的树或蓝色的太阳都很棒。重点在于感受色彩的乐趣，而不是画得准不准。",
+      "打印出来的画纸很适合搭配粗杆马克笔或蜡笔，更容易抓握。"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "有计时或计分吗？",
+        "a": "没有。这里没有倒计时、计分、步数限制，也没有输赢。您可以随时停下来，玩到一半停下也是很好的结束方式。"
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "这些画会不会太幼稚？",
+        "a": "我们绘制的是沉静、简洁的日常事物，而非低幼卡通，因此很适合成年人。大色块让涂色更轻松，同时也不会让人觉得像小孩子的画。"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "这是免费的吗？需要注册吗？",
+        "a": "是的，完全免费，不需要注册账号，也不用下载安装。用手机、平板或电脑的浏览器就能直接打开玩。"
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "对话卡片",
+    "seoTitle": "适合认知症人士的交流图卡：轻松开启对话",
+    "h1": "对话卡片",
+    "description": "专为认知症人士设计的温和对话图卡：没有测验，没有标准答案。既可以在屏幕上浏览，也可以打印整套卡片。",
+    "short": "带有温和开放式提问的图卡，不做任何考问。",
+    "players": "2人或多人小组",
+    "intro": "每张卡片都将一张熟悉的图片与一个开放式话题结合在一起，例如“您最喜欢什么样的天气？”没有标准答案，也不需要费力回忆。您可以自选主题，也可以把所有卡片随机打乱。",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "选择一个主题，或者保留“全部卡片”。",
+      "念出卡片上的问题，一起看看图片。",
+      "倾听对方的想法，也分享您自己的回答，让话题随心展开。",
+      "准备好后点击“下一张”，或者在一张卡片上聊多久都可以。",
+      "点击“打印全部卡片”，可以裁切出一套纸质卡片。"
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "您自己也一起回答问题。这样感觉是在轻松闲聊，而不是采访提问。",
+      "顺着对方讲述的情绪和故事聊，不用纠结事情的事实细节。细节有变化也完全没关系。",
+      "如果某张卡片触碰到了伤心的事情，温和地接纳对方的情绪，然后轻轻切换到下一张卡片。"
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "为什么没有“您还记得……吗？”这类问题？",
+        "a": "考验记忆力的问题往往会让人感到像在考试，容易带来压力或尴尬。而像“跟我讲讲……”这样的开放式邀请，无论能记起多少，每个人都能自然参与进来。"
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "可以把卡片打印出来吗？",
+        "a": "可以。点击“打印全部卡片”会以大字号打印整套卡片，每页多张，方便裁剪使用。"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "这是免费的吗？需要注册吗？",
+        "a": "是的，完全免费，不需要注册账号、登录或下载。只要在手机、平板或电脑的网页浏览器中打开即可使用。"
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "照片配对",
+    "seoTitle": "用家庭照片制作配对小游戏",
+    "h1": "照片配对：翻开属于自己的老照片",
+    "description": "把自家的温馨照片变成轻松的配对游戏。只需在设备上挑选 2 到 6 张照片；照片仅保留在您的浏览器中，绝不会被上传。",
+    "short": "挑选您自己的照片进行配对。所有照片都不会上传。",
+    "players": "2 人，并肩相伴",
+    "intro": "从手机、平板或电脑中选择两到六张照片，就能生成画面清晰的大图配对游戏。这些照片只在当前页面中显示，不会被上传、保存或分享，关闭网页后就会完全清除。",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "点击“选择照片”，挑选两到六张照片。",
+      "每张照片会出现两次。点击一张，再点击与之相同的那张。",
+      "每找到一对照片，可以顺便聊聊照片背后的故事。",
+      "玩完后，直接关闭页面或点击“清除照片”。页面不会保留任何内容。"
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "尽量挑选画面清晰、让人感到愉快且熟悉的内容：比如可爱的宠物、自家的小院、常去的地方或是结婚时的照片。",
+      "风景和物品的照片往往比人脸更容易辨认，也不会给长辈带来必须叫出名字的压力。",
+      "如果已故亲友的照片可能会引起突如其来的伤感，建议暂时避开，除非您确定这些回忆能给长辈带来安慰。"
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "我的照片会被上传到别处吗？",
+        "a": "不会。页面仅在您的浏览器本地读取您挑选的照片并显示在屏幕上。照片不会发送给我们或任何其他人，只要您关闭或刷新页面，照片就会立即消失。"
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "游戏有计时或计分吗？",
+        "a": "没有。这里没有倒计时、不计分数、不统计步数，更没有输赢之分。您可以随时停下来，哪怕只玩了一半也完全没关系。"
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "我可以把游戏保存下来下次再玩吗？",
+        "a": "出于保护隐私的考虑，浏览器版本特意设计为不保存任何内容。不过，适用于 iPhone 和 iPad 的免费 Golden Moments 应用程序可以在您的设备上保留所选的照片副本。"
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "图片宾果",
+    "seoTitle": "适合认知障碍长者的可打印图片宾果游戏",
+    "h1": "适合团体的图片宾果游戏",
+    "description": "适合记忆护理中心和长者活动团体的免费可打印图片宾果，配有大屏幕报号器。大图片配文字，可选 9 格或 16 格，不识字也能轻松参与。",
+    "short": "供团体活动使用的可打印图片宾果卡与大屏幕报号器。",
+    "players": "2 到 30 人的团体",
+    "intro": "用生动的图片代替传统数字的经典宾果游戏，长辈无需费力辨认密密麻麻的小字。打印出一套各不相同的卡片，再利用屏幕报号器把每张图片清晰地展示在电视、笔记本电脑或平板上。",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "选择每张卡片是 9 格还是 16 格，并选择参与人数。",
+      "点击“打印卡片”。每张卡片的内容各不相同。",
+      "在大屏幕上打开报号器。点击“下一张图片”，即可展示每张图片及其名称。",
+      "参与者用硬币、纽扣或记号笔盖住卡片上对应的图案。",
+      "连成一条线或填满整张卡片的人都能获得掌声与喝彩。这个版本没有失败者：大家可以一直玩下去，直到每个人都连成一线。"
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "建议使用较大的物品作为标记物，例如跳棋棋子或瓶盖。太小的纽扣可能不容易拿取。",
+      "报出图片名称时，可以顺便聊上两句，比如：“这是一艘帆船。大家以前坐过船吗？”",
+      "让视力不佳的长辈坐在离屏幕最近的位置，并在有需要的参与者身边安排陪同协助的人员。",
+      "对大多数团体而言，9 格卡片就已经足够丰富了。建议将整场活动时间控制在 20 到 30 分钟左右。"
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "在养老照护机构中该如何组织图片宾果活动？",
+        "a": "为每位参与者打印一张卡片，将报号界面投放在现场最大的屏幕上，放慢节奏念出每张图片的名称。持续进行活动，直到每个人都成功连成一线，让大家都能乐在其中。"
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "打印是免费的吗？",
+        "a": "是的。无论个人还是团体使用，您都可以根据需要随时打印任意数量的卡片。"
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "不识字也可以玩吗？",
+        "a": "可以。每个格子都是大号图片，下方附有名称，方便习惯看字的人阅读。"
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "平静呼吸",
+    "seoTitle": "适合长者与照顾者的平静呼吸片刻",
+    "h1": "放慢节奏的平静呼吸",
+    "description": "一段适合共同体验的宁静呼吸时光：柔和的圆圈随呼吸缓缓放大缩小，持续六次呼吸。由您点击开始，也能随时停下。",
+    "short": "跟随缓缓律动的圆圈一起呼吸。随启随停，轻松自在。",
+    "players": "1 或 2 人",
+    "intro": "有时候，最好的活动就是一段安静的小憩。点击“开始”，圆圈变大时吸气，变小时呼气。您可以选择稍慢或稍快的节奏。这并不是任何治疗手段，只是一段相伴放松的平静时光。",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "舒适地并排坐好。",
+      "选择一个呼吸节奏：慢速或舒缓。",
+      "点击“开始”。圆圈变大时吸气，变小时呼气。",
+      "六次呼吸后会自动停止，您也可以随时点击“停止”。"
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "如果对方感到舒适自在，可以轻轻握住对方的手，或把手轻搭在对方的手臂上。",
+      "切勿勉强。如果对方只想安静地看着，也完全没问题。",
+      "若呼吸不适，保持自然呼吸并静静看着圆圈即可。如有任何呼吸方面的健康顾虑，请咨询医生。"
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "这属于医疗呼吸训练吗？",
+        "a": "不是。这只是一个自愿参与的简单放松小憩，旨在带来平静与陪伴。它不能用来治疗焦虑或任何健康状况。如有健康疑虑，请咨询专业医生。"
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "如果我不点击开始，圆圈会自己动吗？",
+        "a": "不会。在您轻点“开始”之前画面不会动，完成六次呼吸后，或者当您轻点“停止”时就会停下来。如果您的设备设置了减弱动态效果，文字会变化，但圆圈不会变大。"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "这是免费的吗？需要注册吗？",
+        "a": "是的，这是免费的，不需要账号、注册或下载。在手机、平板电脑或电脑的网页浏览器中就能直接使用。"
       }
     ]
   }

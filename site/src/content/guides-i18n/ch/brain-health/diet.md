@@ -1,33 +1,34 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Dieta MIND yan Mediterranean yan Dementia"
+seoTitle: "Dieta MIND yan Dementia: Hafa Dinaña’ i Research"
+description: "Hafa dinaña’ i research put dieta MIND yan Mediterranean yan dementia, taiguihi i trial gi 2023, yan kumu ayudåyi i taotao ni gaige gi dementia u nå’i chalek."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  I observational na estudio ma'konekta i dieta ni kinalamten Mediterranean yan
+  MIND yan mas bahuyan na risgu para dementia, lao taya’ konsistente. Un trial
+  ni randomized gi tres såkkan para i dieta MIND, ma pupblika gi 2023, sumen’ka
+  taya’ mas dinanña’ na diperensia gi huyong pat gi brain scans kumpara gi control
+  na dieta. Taya’ kuålkuet na pildora pat suplemento ni ma prueba na u fanmanhålom
+  dementia. Para i taotao ni gaige gi dementia, i pumuda’ yan manmatto'ng ma'nåhan
+  yan manmåsan importante.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Sumen’ka, lao taya’ todu i estudio ni ma'follow i taotao gi tiempo, ma'konekta i Mediterranean yan MIND na patron nan kumida yan mas bahuyan na risgu para dementia."
+  - "Gi 2023 na trial gi 604 na adulto ni mas dankulo, i tao ni gumuma’ MIND na dieta taya’ mas maolek gi thinking tests pat brain scans kumpara i tao ni gumuma’ control na dieta despues de tres såkkan."
+  - "I National Institute on Aging sinangan na taya’ evidensia na i kumome pat ma'tulaika na espisiåt na kuåntu ma'prebenir i Alzheimer’s, yan taya’ bitamina pat suplemento ni ma prueba na u prebenir."
+  - "Dieta ni manhahalom gi gulasa, fruta, bihu, whole grains yan pisko ayuda para i tiningo’ i kotasón yan siña ma'ayuda gi risgu siha taiguihi high blood pressure yan diabetes."
+  - "Para i taotao ni gaige gi dementia, finger foods, plato ni kontrastado, tranquilo na tiempo para kumida yan regular na inum mas importante kesi kualkuet na dieta."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Ha pribeni i dieta MIND i dementia?"
+    a: "Taya’ ma prueba. I observational na estudio ma'konekta i dieta MIND yan mas bahuyan na risgu, lao i randomized na trial gi tres såkkan ma pupblika gi 2023 sinangan taya’ mas dinanña’ na diperensia gi resulta i thinking tests pat brain scans entre i tao ni gumuma’ MIND na dieta yan i tao ni gumuma’ control na dieta. Dos na grupo manmaolek ligeramente yan malaguan manmaigo’ i peso."
+  - q: "Håfa i diperensia entre i dieta MIND yan i dieta Mediterranean?"
+    a: "I dieta Mediterranean ginagao gulasa, fruta, whole grains, bihu, pisko yan olive oil, yan taya’ mas karne ni mamanu’ pat mas dulse. I dieta MIND ha chagi gi dieta DASH para i blood pressure yan ha na’ mas importanti i gulasa ni manhahalom na dahon yan i berries, lao ha tuge’ karne ni mamanu’, dulse, kesu, mantekiya yan frita na pagkåin."
+  - q: "Gai pagkåin pat suplemento ni para u prebenir Alzheimer’s?"
+    a: "Taya’. I National Institute on Aging sinangan na taya’ evidensia na i kumome pat ma'tulaika na espisiåt na pagkåin ma'prebenir Alzheimer’s pat i kuentos na nina’ña’ya i huyong ginen i edad, yan taya’ bitamina pat suplemento ni ma prueba na u prebenir Alzheimer’s. Hagu, ayuda na ni dukturu ante di un gumuma’ suplemento."
+  - q: "Håfa na pagkåin i masiha para i taotao ni gaige gi dementia u kumida?"
+    a: "Bocado-na-tamaño na finger foods, taim sandwich, pedasu di pollo, segment di orange pat pedasu di gulasa ni ma'steam kasi siempre mas faisil ki ni u usa cutlery. Si mamumusa pat mumuchacha manmaigo’, pagkåin ni mamamamu, taim ni i scrambled eggs, applesauce pat cottage cheese siña ayuda. Hagu, ayuda ha’ i dukturu put swallowing assessment si manmaisa pat manmatalagu."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +59,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Siña un ma'gof na "dieta ni manhålom gi utak" u prebenir Alzheimer’s. I tinaigue na siñålan mas minodestu. Sumen’ka na patron para kumida ma'konekta ni mas bahuyan na risgu gi estudio ni ma'follow i taotao gi tiempo, lao i mas maolek na trial hasta ayu taya’ ma’fa’tinas na benifisio. Este na pa'hina ha na’klaro i dos, despues ha sungon i mas importante para i taotao ni gaige ya dumi ginen dementia: kumida yan inum ni bastante, yan ma'gof.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Este na impormasion taya’ konsehon medikat. Ayuda ha’ i dukturu pat registered dietitian ante di un chuli’ dieta, pat dieta i otro. Tatitiyi i [medical disclaimer](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Håfa i dieta Mediterranean yan MIND?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+I National Institute on Aging (NIA) ha na’klaro siha ni manera (siña ma'lalagu gi [NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Dieta Mediterranean:** dinaña’ fruta, gulasa, whole grains, bihu, pisko yan seafood, yan olive oil, yan dikike’ na karne ni mamanu’, guihan yan dulse.
+- **Dieta MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): mistura i Mediterranean na dieta yan i DASH na dieta para i blood pressure. Ha na’ mas importanti i gulasa, espesiåtmente i manhahalom na dahon; berries; whole grains; bihu; nuts; pisko na siha dos biahi gi simåna pat mas; yan olive oil. Ha tuge’ karne ni mamanu’, dulse, kesu, mantekiya pat margarine, yan frita pat fast food.
 
-## Do these diets lower dementia risk?
+## Ha bahuyi i risgu para dementia i dieta siha?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+I evidensia manmixto. I NIA sinangan na sumen’ka, lao taya’ todu, i observational na estudio ma'konekta i Mediterranean yan MIND na dieta yan mas bahuyan na risgu para dementia kumpara gi Western-style na dieta ni mas tinaddong karne ni mamanu’, saturated fat yan asukat.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+I 2024 Lancet Commission ha revisa i research gi mas detalyao na manera ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Un review gi cohort na estudio ma'konekta i aturao na kalidåt dieta yan manmaigo’ sa’ 20% na risgu para dementia.
+- Un mas dankulo na analisis gi tres cohort ma'konekta i mas parehu na pagsunod i MIND na dieta yan mas bahuyan na risgu.
+- Lao i Suecia na estudio ni ha follow 28,025 na taotao gi edad medio sa’ 20 åñus taya’ mas bahuyan na risgu, ni i rekomenda na dieta pat i Mediterranean-style na dieta.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+I observational na estudio taya’ siña prueba i kåsa yan i resulta. I taotao ni kumumida kuma’ siha ma'diperensia gi otro na manera, kumu i salape’, edukasion, ehetsisio yan i fasilidåt para i atensión medikat. I Commission ha konklui na taya’ suficiente na evidensia para sumangan na i dieta ni manhahalom ma'prebenir direkto i dementia, aunque i kumida ni bihu na fruta yan gulasa yan minagof na ultra-processed na pagkåin siña mas maolek para gi manmaguaiya na kondision yan ma'afekta i risgu siha taiguihi obesity, diabetes yan high blood pressure. Ti ha na’lalo i dieta gi lista-ña i [14 risk factors](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Håfa i nina’klaro i 2023 MIND diet na trial?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+I mas fuette na prueba hasta ayu gi randomized na trial ni ma pupblika gi New England Journal of Medicine gi 2023 ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Håyi:** 604 na adulto 65 anos pat mas dankulo gi Chicago yan Boston na lugåt, taya’ problema gi thinking, ni manggai un parienti ni gai dementia, manmadangkulo, yan i kumumida-ñiha taya’ maolek di kumenza.
+- **Håfa:** gi tres såkkan, mitåd sumiguen i MIND na dieta yan mitåd sumiguen i kumostumbre-ñiha na dieta. Todu manmanu’ na u na’ mamaisen 250 na kaloria menos gi kada åddet, yan manma'konsehu regular ni registered dietitians.
+- **Resulta:** i thinking test manmaolek ligeramente gi **dos** na grupo. I diperensia entre i grupo ti dinanña’ yan **taya’ estadistikamente signifikante**. I brain scans ha sumen’ka mismo na tinilaika gi dos na grupo.
+- **Peso:** i dos na grupo manmaigo’ siha sa’ 5 kilograms (cerca 11 pounds).
 
-### Why might the trial have found no difference?
+### Pot håfa siña i trial taya’ nina’klaro na diperensia?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+I mañe’lu ha sugiri i tinaigue siha. I control na grupo siempre manmaolek i kumida-ñiha, sa’ manmaigo’ parehu na peso. I manmaigo’ na test siña mamaolek i resulta gi kada biahi, sa’ i taotao manmatungo’ gi test. Tres såkkan siña gaige mamokkat. Mayor parte i partisipånte manmaedukao yan gai rasa Europeo, asina i resulta siña taya’ aplikable para todu.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Asina i onesto na resumen: i MIND na dieta taya’ mas maolek ki i kalkulao ni ma'bihan kaloria na maolek gi tres såkkan. Esta taya’ sinasangan na i ma'ayuda kumida taya’ mas importanti. Sinasangan ha’ na taya’ un espesiåt na dieta ni u prebenir dementia.
 
-## What about specific foods and supplements?
+## Håfa påtgon i espesiåt na pagkåin yan suplemento?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+I NIA sinangan na taya’ evidensia na i kumome pat ma'tulaika na espesiåt na pagkåin siña ma'prebenir Alzheimer’s pat i kuentos na nina’ña’ya i huyong ginen i edad. I blueberries, fresku na dahon yan turmeric manmastudia, lao taya’ prueba. I NIA sinangan ha’ na taya’ bitamina pat suplemento ni ma prueba na u prebenir Alzheimer’s, yan taya’ ma rekomenda para esta na propósitu. I NIA ha atbråtu na i produkto ni ma'benta para ma'prebenir Alzheimer’s ni taya’ ma prueba siña peligru, ti kuålkuet i kuåta, pat dos, yan siña ma'interfere yan i medisina ni ma'resèta, asina ayuda ha’ i dukturu ante di un gumuma’ kalulu ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Kuånto siña i kumida manmaolek yan manmasiñåte?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Para i mas dankulo na adulto, i ginagao hasta pagkåin ni manmanutrisión, familiår yan manmalålå’, ti strikto na plånu:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Gumuha i chinitchai pagkåin ni gustu-mu** ginen i Mediterranean na patron: gulasa, fruta, bihu, whole grains, pisko yan olive oil.
+- **Mantieni i gustu-mu na meriendas.** I gustu yan i ganas ni kumida importanti, espesiåtmente kuomu tumatatao i tiempo.
+- **Kumida yan otro na taotao** kuomu siña. Ginagao na kumida mañaisa i kumpania.
+- **Chumuchuli’ hamyo.** Manmadiyi’ gulasa pat manmamokkat i atoli un kualkuet na shared activity; ingga’ [household tasks](/activities/household-tasks/). Un håyi na familia na reseta siña mamaisa i [reminiscence](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+I dankulo na taotao taya’ debi di manmamaisen kaloria pat manmamaigo’ peso sin ma'konsulta i dukturu, yan i fasting ha tuge’ mas riesgo. Ingga’ i [fasting guide](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Kuåntu un siña ayuda i taotao ni gaige gi dementia u kumida maolek?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Para i taotao ni gaige gi dementia, i kumida yan inum **ni bastante** mas importante. I Alzheimer’s Association ha nota na i taotao siña ma'oblida u kumida, sumanganiyi na ma'kumida ya, pat ma'sobresalen ni opsiones, yan na i pobri na nutrisión siña ma'aumenta i sintomas siha ni ma'chocho, yan siña ma'gasta i peso ([Alzheimer’s Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Este na ideas manhålom ginen i Alzheimer’s Association, i NIA yan i Alzheimer’s Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Chule’ finger foods.** Bocado-na-tamaño na pedasu ni faisil u kakåhon, kuomo taim sandwich, pedasu di pollo, fish sticks, segment di orange pat pedasu di steamed broccoli, ni u ma'ayuda i taotao u kumida mismo sin cutlery.
+2. **Usa kontrasten gi lamasa.** I tinilaika gi tinenge siña ha’ mas difisil na mahålom i pagkåin yan i plato. Plato pat tasa blanko gi un na banat ni kontrastao siña ayuda. Ti usa plato ni gai lina pat lamasa ni gai lina.
+3. **Sirbi un pat dos na pagkåin kada biahi.** Un plato ni manhålom siña ma'sobrepasa.
+4. **Mantieni tranquilo i tiempo para kumida.** Apaga i TV, mantieni simple i lamasa, yan dåña bastante tiempo. I NIA ha suggest na ti u ma'apura pat ma'empuja.
+5. **Chule’ gi siña-siña na pagkåin yan meriendas.** I NIA ha suggest na mas ki-ki na tatte yan mas ka’lo ni kalorias na merienda ki i tiningo’ na pagkåin siña, si i taotao taya’ bastante i kumida-ña ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Ayuda gi inum.** Chule’ gi tasa-tasa na tubu pat otro na inum gi todu i åddet, yan pagkåin ni manhålom gi tubu siha kuomo fruta, sopa, milkshakes yan smoothies. Si i taotao taya’ malagu na tubu, i NIA ha suggest na i juice, flavored water, broth, guihan, pat decaf na kafe pat tè.
+7. **Chequea i temperatura.** I taotao siña taya’ ha nota na i pagkåin pat inum manhalom.
+8. **Ayuda gi utensils yan tasa.** Bowls ni taya’ plato, kutsara ni dakkolo i panalan-ña, yan tasa ni gai tapa siña ma'faisil i kumida. Ti debi di manhålom i ma'sëgu.
+9. **Ma'faisil i ma'nguya yan ma'traga.** Ma'kutta i pagkåin gi tiniki na pedasu pat chule’ soft na pagkåin. Si i taotao ma'toktok pat ma'choke gi kumida, sangan i dukturu-ña.
+10. **Ti ma'fuetsa u kumida.** I NIA ha nota na i ganas di kumida naturalmente ma'chocho gi ultimo na stage Alzheimer’s.
 
-### Signs to tell the doctor about
+### Mo'na siñålan para sangan i dukturu
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+I peso ni ma'maigo’, ti guaiya pagkåin, kansadu pat ma'tiningo’ siña ser siñålan na taya’ bastante i kumida i taotao. I Alzheimer’s Society ha nota na i sakit na ngipin pat dentures, depresión, constipation yan kanges gi medisina siña ma'redus i ganas di kumida ([Alzheimer’s Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). I siñålan dehydration ni ma'lista ginen i NIA siña i mapotgon bokka, mareyu, rapidu na tinaddong kotasón, yan hallucinations ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Chatra ni dukturu
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Ante di un chuli’ dakkolo na kanges gi dieta-mu pat gi dieta i otro, ayuda ha’ i dukturu pat registered dietitian, espesiåtmente si ginagao ka diabetes, kidney disease, problema gi manguya pat ma'traga, pat peso ni ma'maigo’ gi kulan. Para i taotao ni gaige gi dementia, pulan kuåntu debi di manmakumida yan manmaninum kada åddet, yan si un dietitian pat suplemento siña ayuda.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Kumusåsaki hålom ayuda si i taotao ma'choke, pat gai sudden confusion, mamaisa na mareyu, pat mamadasi.

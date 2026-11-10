@@ -1,35 +1,37 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Демензияның алдын алуға бола ма? Зерттеулер не дейді"
+seoTitle: "Демензияның алдын алу: зерттеулер не дейді"
+description: "2024 жылғы Lancet комиссиясы мен ірі сынақтар деменция қаупін төмендету туралы не тапты, не таппады және дәрігермен нені талқылау керегін біліңіз."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Ешкім деменцияның алдын алуға уәде бере алмайды. 2024 жылғы Lancet
+  комиссиясы әлемдегі деменция жағдайларының шамамен жартысы жоғары қан
+  қысымы, есту қабілетінің төмендеуі және белсенділіктің аздығы сияқты
+  ықпал етуге болатын 14 қауіпті фактормен байланысты деп бағалады. Сынақтар
+  ойлау қабілеті тесттерінде аз ғана әсерді көрсетті, бірақ деменция
+  жағдайларының азаятынын дәлелдемеді. «Дұрыс» деп саналатынның бәрін
+  орындаған көптеген адамдарда да деменция дамиды, және бұл ешкімнің кінәсі
+  емес.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 жылғы Lancet комиссиясы әлемдегі деменция жағдайларының шамамен 45%-ын ықпал етуге болатын 14 қауіпті фактормен байланыстырды. Бұл — жеке кепілдік емес, халықтар ауқымындағы баға."
+  - "Қауіпті төмендету — бүкіл халық ауқымында ықтималдықты азайту деген сөз. Бұл кез келген адамның деменциядан аулақ бола алатынын білдірмейді."
+  - "FINGER, US POINTER және SPRINT MIND сияқты ірі сынақтар ойлау қабілеті тесттерінде немесе жеңіл когнитивтік бұзылыста аз ғана пайданы көрсетті, бірақ олардың ешқайсысы өмір салты бағдарламасы деменцияның алдын алатынын дәлелдемеді."
+  - "Жас — Альцгеймер ауруы үшін белгілі ең үлкен қауіпті фактор, оны өзгерту мүмкін емес. Дұрыс әдеттері бар көптеген адамдарда да деменция дамиды."
+  - "Көбіне зерттелетін қадамдар, мысалы жоғары қан қысымын емдеу, есту аппараттарын пайдалану және белсенді болу, басқа жағынан да денсаулыққа пайдалы болғандықтан, оларды дәрігермен талқылаған жөн."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Деменцияның алдын алуға бола ма?"
+    a: "Кез келген адам үшін деменцияның алдын алудың дәлелденген жолы жоқ. Зерттеулер жоғары қан қысымы, емделмеген есту қабілетінің төмендеуі және темекі шегу сияқты белгілі бір қауіптерді азайту халық ауқымында деменция ықтималдығын төмендетуі немесе оның басталуын кейінге қалдыруы мүмкін екенін көрсетеді. Бұл — уәде емес, ықтималдық."
+  - q: "Lancet комиссиясының 45% көрсеткіші нені білдіреді?"
+    a: "2024 жылғы Lancet комиссиясы әлемдегі деменция жағдайларының шамамен 45%-ы теориялық тұрғыда өзгертуге болатын 14 қауіпті фактормен байланысты деп бағалады. Бұл баға аталған факторлар деменцияны тудырады деп болжайды, ал авторлар кейбір байланыстар тек ішінара себеп-салдарлық болуы мүмкін екенін атап өтеді. Бұл көрсеткіш тұтас халықтарды сипаттайды және кез келген адамның жеке қауіп деңгейін білдірмейді."
+  - q: "Егер менің ата-анамның өмір салты дұрыс болса, неге оларға деменция диагнозы қойылды?"
+    a: "Жас, гендер және ешкім басқара алмайтын көптеген факторлар деменцияда үлкен рөл атқарады. Lancet комиссиясының авторлары халық ауқымында қауіпті төмендету кез келген адамның деменциядан аулақ болуына кепілдік бермейтінін айтады. Диагноз — ешкімнің қателескенінің белгісі емес."
+  - q: "65 жастан кейін деменция қаупін төмендетуге кеш пе?"
+    a: "Lancet комиссиясы қауіпті азайтуға ешқашан ерте де, кеш те емес екенін айтады, дегенмен дәлелдердің көп бөлігі орта жасқа қатысты. Есту және көру мәселелерін емдеу, белсенді болу және адамдармен байланыста болу — зерттелген кейінгі жастағы қадамдардың мысалдары. Денсаулығыңызға не сай келетінін дәрігермен талқылаңыз."
+  - q: "Миға арналған ойындар немесе арнайы диеталар деменцияның алдын ала ма?"
+    a: "Ешқандай ойын, тағам, қоспа немесе диета деменцияның алдын алатыны дәлелденбеген. MIND диетасын үш жыл бойы сынау кезінде бақылау диетасымен салыстырғанда ойлау қабілетінде айтарлықтай айырмашылық табылмады, ал коммерциялық ми жаттықтыру қолданбалары зерттеу сынақтарында байқалған әсер береді деп көрсетілмеген."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +65,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Егер сіз деменциямен өмір сүретін адамға күтім көрсетіп жүрсеңіз немесе ата-анаңыздың осы жағдаймен өмір сүргенін көрген болсаңыз, мұның алдын алуға болар ма еді және өзіңізде бұлай болмауы үшін не істеуге болатынын ойлаған боларсыз. Бұл бетте зерттеулер нақты не айтатыны қарапайым тілмен түсіндіріледі. Қысқаша жауап: ешкім деменцияның алдын алуға уәде бере алмайды, бірақ зерттеулер кейбір қауіптерді төмендетуге болатынын және оларды бүкіл халық ауқымында азайту деменция дамитын адамдардың санын азайтуы немесе оның кейінірек басталуына ықпал етуі мүмкін екенін көрсетеді.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Бұл — жалпы ақпарат, медициналық кеңес емес. [Медициналық жауапкершіліктен бас тарту](/medical-disclaimer/) мәтінін оқып шығыңыз және өз денсаулығыңыз туралы дәрігермен сөйлесіңіз.
 
-## Can dementia be prevented?
+## Деменцияның алдын алуға бола ма?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Кез келген бір адам үшін деменцияның алдын алудың дәлелденген жолы жоқ. Ұлттық қартаю институты (NIA) [Альцгеймер ауруының алдын алу әлі дәлелденбесе де](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), зерттеушілер үміт беретін тәсілдерді тауып, не жұмыс істеуі және не істемеуі мүмкін екенін анықтап жатқанын айтады.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Зерттеулер көрсетіп отырғаны — белгілі бір денсаулық жағдайлары мен әдеттер деменция қаупінің жоғарылауымен байланысты. Бұл қауіптер бүкіл халық ауқымында төмендегенде, деменция дамитын адамдар азаюы немесе ол өмірдің кеш кезеңінде басталуы мүмкін. Бұл кепілдік дегеннен мүлде басқа нәрсе.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Үміт беретін бір белгі бар: 2024 жылғы Lancet комиссиясы АҚШ пен Ұлыбританияны қоса алғанда, кейбір жоғары табысты елдерде жасы ұлғайған адамдар арасындағы деменция үлесінің азайғанын хабарлады. [University College London дайындаған есеп қысқашасына](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) сәйкес, авторлар мұны ішінара білімнің жақсаруымен, медициналық көмектің сапалы болуымен және өмір бойы қан тамырларына түсетін зиянның азаюымен байланыстырады.
 
-## What did the 2024 Lancet Commission find?
+## 2024 жылғы Lancet комиссиясы не тапты?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Деменцияның алдын алу, араласу және күтім көрсету жөніндегі Lancet комиссиясы — бірнеше жыл сайын дәлелдерді қайта қарастыратын 27 деменция зерттеушісінен тұратын топ. Олардың 2024 жылғы есебінде ықпал етуге болатын **14 қауіпті фактор** аталды және олардың жиынтығы **әлемдегі деменция жағдайларының шамамен жартысын (шамамен 45%)** құрайды деп бағаланды. Авторлардың сөзінше, егер бұл қауіптер жойылса, аталған жағдайлардың алдын алуға немесе оларды кейінге қалдыруға *теориялық тұрғыда* болар еді ([2024 жылғы Lancet комиссиясының есебі](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Дәлелдер ең күшті байқалған өмір кезеңдері бойынша топтастырылған 14 фактор:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Ерте өмір кезеңі:** білімнің аздығы.
+- **Орта жас (шамамен 40–65 жас):** есту қабілетінің төмендеуі, жоғары ТТК («жаман») холестерині, депрессия, бас жарақаты, дене белсенділігінің аздығы, қант диабеті, темекі шегу, жоғары қан қысымы, семіздік және шамадан тыс алкоголь ішімдік қолдану.
+- **Кейінгі өмір кезеңі:** әлеуметтік оқшаулану, ауаның ластануы және емделмеген көру қабілетінің төмендеуі.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 жылы жаңадан қосылған екі фактор — жоғары ТТК холестерині және емделмеген көру қабілетінің төмендеуі. Жағдайлардың ең үлкен үлесімен байланысты факторлар — есту қабілетінің төмендеуі және жоғары ТТК холестерині (әрқайсысы шамамен 7%), одан кейін білімнің аздығы және әлеуметтік оқшаулану (әрқайсысы шамамен 5%).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Біздің [қауіпті факторлар туралы нұсқаулықта](/brain-health/risk-factors/) барлық 14 фактор кесте түрінде берілген, онда зерттеулер қандай байланыс тапқаны және не істеуге болатыны көрсетілген.
 
-### What the 45% figure does not mean
+### 45% көрсеткіші нені білдірмейді
 
-It is easy to misread this number, so it helps to be precise:
+Бұл санды қате түсіну оңай, сондықтан нақты айтқан жөн:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Бұл — халықтар ауқымындағы баға.** Ол әлем бойынша деменция жағдайларын сипаттайды, сіздің немесе сіз күтім көрсетіп жүрген адамның жеке ықтималдығын емес.
+- **Бұл себеп пен салдарды болжайды.** Авторлар тек сенімді дәлелі бар қауіпті факторларды қосқанын айтады, бірақ кейбір байланыстар тек ішінара себеп-салдарлық болуы мүмкін. Мысалы, кейінгі жастағы депрессия кейде деменцияның ерте белгісі болуы мүмкін, себебі емес.
+- **Бұл бір адамға ештеңеге кепілдік бермейді.** UCL қысқашасында қауіпті азайту халық деңгейінде әсер ететіні, бірақ кез келген адамның деменциядан аулақ болуына кепілдік бермейтіні атап өтіледі.
+- **Қалған жартысы бұл факторлармен түсіндірілмейді.** Жас, гендер және ғалымдар әлі толық түсінбейтін себептер қалған бөлігін құрайды.
 
-## What is the difference between "risk reduction" and "prevention"?
+## «Қауіпті төмендету» мен «алдын алу» арасында қандай айырма бар?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Қауіпті төмендету** — ықтималдықты азайту деген сөз. Егер үлкен бір топ адам қан қысымын төмендетсе, көптеген жылдар ішінде олардың арасында деменция дамитындар саны басқаша жағдайда болатынынан аз болуы мүмкін. Сол топтағы кейбір адамдарда деменция бәрібір дамиды.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Алдын алу** бір нәрсенің мүлде болмауына жол беруді білдіреді. Деменцияға қатысты бүгінгі зерттеулер мұны ешкімге уәде ете алмайды.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Зерттеушілер **кейінге қалдыру** туралы да айтады. Lancet комиссиясы қауіпті төмендету деменцияның басталуын кейінге ысыруы және адамның ауыр сырқатпен өмір сүретін уақытын қысқартуы мүмкін екенін көрсететін жаңа дәлелдер бар екенін хабарлайды. Тіпті бірнеше жылға кейінге қалдыру да адам мен оның отбасы үшін өте маңызды болуы мүмкін.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Бұл сайтта біз әдейі «қауіпті төмендету» және «байланысты» деген тіркестерді қолданамыз. Егер сіз «Альцгеймердің алдын алады» деп уәде беретін өнім, қоспа немесе бағдарламаны көрсеңіз, сақ болыңыз. NIA Альцгеймердің алдын алу туралы уәде беретін кез келген дәрі немесе емді қолданбас бұрын дәрігермен ақылдасуды ұсынады, себебі мұндай өнімдер қауіпсіз болмауы, ақшаны босқа жұмсатуы немесе екеуі де болуы мүмкін.
 
-## What have large trials found?
+## Ірі сынақтар не тапты?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Бақылау зерттеулері (уақыт өте адамдарда не болатынын бақылайтын) байланыстарды көрсете алады. Адамдар бағдарламаға немесе салыстыру тобына кездейсоқ бөлінетін рандомизацияланған сынақтар — күштірек тексеру тәсілі. Міне, ең танымал сынақтардың кейбірі не тапқаны.
 
-### FINGER (Finland)
+### FINGER (Финляндия)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER сынағына деменция қаупі жоғары 60–77 жастағы 1 260 ересек адам қатысты. Жартысы екі жыл бойы тамақтану бойынша кеңес, дене жаттығулары, компьютерлік ми жаттығулары және жүрек пен қан тамырлары денсаулығын бақылауды қамтитын бағдарлама алды; қалған жартысы жалпы денсаулық туралы кеңес алды. Бағдарламаға қатысқан топ ойлау қабілеті тесттерінің жиынтығында сәл жақсы нәтиже көрсетті, бұл — аз, бірақ статистикалық тұрғыдан маңызды айырмашылық ([The Lancet-тағы FINGER сынағы](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Сынақ деменция диагноздарын емес, тест нәтижелерін өлшеді.
 
-### US POINTER (United States)
+### US POINTER (АҚШ)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER сынағына белсенділігі аз, тамақтануы онша дұрыс емес және басқа қауіпті факторлары бар 60–79 жастағы 2 111 ересек адам қатысты. Екі топқа да дене және ойлау белсенділігін арттыру, дұрыс тамақтану, адамдармен араласу және жүрек денсаулығын бақылау ұсынылды. Бір топқа құрылымды, жаттықтырушысы бар бағдарлама берілді; екінші топ өз бетінше жетекшілік етті. Екі жыл ішінде ойлау қабілеті тесттерінің нәтижелері **екі** топта да жақсарды, ал құрылымды бағдарламадағы топта сәл көбірек жақсарды ([JAMA-дағы US POINTER сынағы](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Авторлар бұл айырмашылық күнделікті өмірде маңызды ма екенін білу үшін қосымша бақылау қажет екенін айтады. «Ештеңе істемеу» тобы болмағандықтан, бұл сынақ екі бағдарламаның да ешқандай өзгеріс жасамаумен салыстырғанда қаншалықты көмектескенін айта алмайды.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (қан қысымы)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND сынағы жоғары қан қысымы бар 50 жастан асқан 9 361 ересек америкалықты зерттеді. Олар қан қысымының төмен мақсат деңгейіне (жоғарғы көрсеткіш 120-дан төмен) немесе стандартты мақсатқа (140-тан төмен) бөлінді. Төмен мақсат деменцияның алдында пайда болуы мүмкін есте сақтау және ойлау мәселелерінің кезеңі болып табылатын **жеңіл когнитивтік бұзылысты** айтарлықтай азайтты. **Ықтимал деменцияға** келетін болсақ, төмен мақсат тобында жағдайлар азырақ болды, бірақ айырмашылық статистикалық тұрғыдан маңызды болмады. Сынақ ерте тоқтатылды және күткеннен аз деменция жағдайы тіркелді, сондықтан ол бұл сұраққа жауап беру үшін тым шағын болуы мүмкін ([JAMA-дағы SPRINT MIND](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Шолулар не көрсетеді
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 жылғы Cochrane шолуы бір уақытта бірнеше қауіпке бағытталған бағдарламалар бойынша 18 000-нан астам адам қатысқан тоғыз ірі сынақты біріктірді. Ол ойлау қабілеті тесттерінде аз ғана пайда тапты, бірақ оны өлшеген екі сынақта **деменция дамыған адамдар саны бойынша айқын айырмашылық болмады** ([Көп салалы араласулар бойынша Cochrane шолуы](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+NIA қысқаша ұсынған 2017 жылғы Ұлттық ғылым, инженерия және медицина академияларының шолуы үш тәсіл бойынша «үміт беретін, бірақ түпкілікті емес» дәлелдер тапты: жоғары қан қысымын бақылау, дене белсенділігін арттыру және когнитивтік жаттығу.
 
-## Does it matter when you start?
+## Қашан бастау маңызды ма?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet комиссиясының кеңесі — қауіптерді мүмкіндігінше ертерек төмендетіп, оларды мүмкіндігінше ұзақ уақыт бойы төмен деңгейде ұстау: «неғұрлым ерте болса, соғұрлым жақсы» және «неғұрлым ұзақ болса, соғұрлым жақсы». Сондай-ақ комиссия қауіпті азайтуға ешқашан ерте де, кеш те емес екенін айтады. Дәлелдердің көп бөлігі шамамен 40–65 жастағы орта жасқа қатысты, бірақ көру қабілетінің төмендеуі және әлеуметтік оқшаулану сияқты кейбір факторлар кейінгі өмір кезеңіндегі қауіптер болып табылады және бұл кезеңде де әрекет ету орынды болуы мүмкін.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Есепте қауіпке ұшырау уақыты неғұрлым ұзақ болса, әсері де соғұрлым үлкен болатынын көрсететін дәлелдер күшейгені айтылады. Мысалы, орта жаста басталған қант диабеті кейінірек басталған диабетке қарағанда маңыздырақ болуы мүмкін.
 
-## Is dementia risk the same for everyone?
+## Деменция қаупі бәрінде бірдей ме?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Жоқ. Комиссия табысы төмен және орта елдерде тұратын адамдарда, азшылық топтардағы адамдарда және қаражаты азырақ адамдарда бұл қауіптердің көбірек жиналатынын, сондықтан деменция көбіне ертерек жаста дамитынын анықтады. Көптеген қауіптер адамдардың өзі таңдамаған жағдайлармен байланысты, мысалы бала кезінде алған білім сапасы, тұратын жеріндегі ауа және пайдалы тағамның қолжетімді әрі қымбат еместігі.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Сондықтан Комиссияның ұсыныстары жеке адамдарға ғана емес, үкіметтерге де бағытталған: барлық балаларға сапалы білім беру, ауаны тазарту, темекі шегуді азайту шаралары, дүкендер мен мейрамханаларда сатылатын тағамдағы қант пен тұз мөлшерін азайту және есту аппаратына мұқтаж әрбір адамға оны қолжетімді ету. Жеке адамның күш-жігері маңызды, бірақ адамдар өмір сүретін орта да маңызды. Бұл — диагноз үшін ешкімді кінәламаудың тағы бір себебі.
 
-## What are the honest limits of this research?
+## Бұл зерттеулердің шынайы шектеулері қандай?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Деменцияның дамуына ондаған жылдар кетеді**, бірақ сынақтардың көпшілігі екі жылдан бес жылға дейін созылады. Тек тест нәтижелерін емес, деменцияның өзін өлшеу үшін өте ұзақ және өте ауқымды зерттеулер қажет.
+- **Сынақтардың көпшілігі ойлау қабілеті тесттерін өлшейді.** Тесттегі аз ғана жақсару міндетті түрде деменция дамитын адамдардың азаюын немесе күнделікті өмірдің жеңілдеуін білдірмейді.
+- **Еріктілер көбіне жалпы халыққа қарағанда сау әрі білімі жоғары болады.** Lancet комиссиясы дәлелдердің көп бөлігі әлі де жоғары табысты елдерден келетінін және азшылық топтарының жеткілікті түрде қамтылмағанын атап өтеді.
+- **Кейбір байланыстар екі жақты болуы мүмкін.** Белсенділіктің немесе адамдармен араласудың азаюы деменцияның себебі ғана емес, оның ерте салдары да болуы мүмкін.
+- **Диета бойынша сынақтар әзірге көңілдегідей нәтиже бермеді.** MIND диетасын үш жыл бойы сынау кезінде бақылау диетасымен салыстырғанда ойлау қабілетінде айтарлықтай айырмашылық табылмады. [Тамақтану туралы нұсқаулығымызды](/brain-health/diet/) қараңыз.
+- **Миға арналған ойындардың деменцияның алдын алатыны дәлелденбеген.** [Миға арналған ойындар және деменция туралы нұсқаулығымызды](/brain-health/brain-games/) қараңыз.
+- **Ораза туралы адамдарға қатысты дәлелдер өте шектеулі**, әрі ол егде жастағы адамдар үшін қауіпті болуы мүмкін. [Ораза туралы нұсқаулығымызды](/brain-health/fasting/) қараңыз.
 
-## If someone did everything "right", why did they still get dementia?
+## Егер біреу бәрін «дұрыс» істесе де, неге оған деменция диагнозы қойылды?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Себебі деменция тек таңдау мен әдеттердің нәтижесі емес. NIA [жас — Альцгеймер ауруы үшін белгілі ең үлкен қауіпті фактор](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) екенін айтады, ал оны ешкім өзгерте алмайды. Гендердің де рөлі бар. Ғалымдар көп жағдайда Альцгеймердің не себептен пайда болатынын әлі толық түсінбейді. 14 қауіпті фактордың барлығы жойылса да, Lancet комиссиясының өз бағасы жағдайлардың жартысынан астамын түсіндірмей қалдырады.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Сондықтан егер сіз жаттығу жасап, дұрыс тамақтанып, темекі шекпеген және соған қарамастан деменция диагнозы қойылған адамға күтім көрсетіп жүрсеңіз, бұл — оның да, сіздің де қателігіңіз емес. Егер сіздің өзіңіз деменциямен өмір сүріп жатсаңыз, бұл сіздің кінәңіз емес. Отбасылар арасында кінә сезімі жиі кездеседі, бірақ оған негіз жоқ. Енді маңыздысы — жайлылық, байланыс және жақсы күндер. Бастау үшін біздің [іс-әрекет идеяларымызды](/activities/ideas/) және [күтім көрсетушінің өзіне күтім жасау туралы нұсқаулығымызды](/caregiving/caregiver-self-care/) қараңыз.
 
-## What steps can you talk over with a doctor?
+## Дәрігермен қандай қадамдарды талқылауға болады?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Төменде ең жиі зерттелетін бағыттар берілген. Оларды тексеру кезінде дәрігермен талқылаған жөн, себебі олардың көпшілігі деменцияға әсері қандай болса да, жүрек денсаулығына, көңіл-күйге және өз бетімен өмір сүруге пайдалы.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Қан қысымы.** Көрсеткіштеріңіз қандай екенін және сізге қандай мақсат сәйкес келетінін сұраңыз. Lancet комиссиясы шамамен 40 жастан бастап жоғарғы көрсеткішті 130 немесе одан төмен ұстауды ұсынады, бірақ егде жастағы адамға дұрыс мақсат оның жалпы денсаулығына байланысты.
+2. **Есту қабілеті.** Есту қабілетін тексеруді және есту аппараты көмектесе ме екенін сұраңыз. [Есту қабілеті туралы нұсқаулығымызда](/brain-health/hearing/) зерттеулер түсіндірілген.
+3. **Көру қабілеті.** Көзді үнемі тексертіп тұрыңыз және катаракта сияқты мәселелерді емдеуге бола ма екенін сұраңыз.
+4. **Холестерин.** ТТК холестеринін тексеру керек пе және бірдеңені өзгерту қажет пе екенін сұраңыз.
+5. **Қандағы қант.** Егер сізде қант диабеті болса, оны қауіпсіз түрде қалай бақылауға болатынын сұраңыз.
+6. **Көңіл-күй.** Депрессия жиі кездеседі және оны емдеуге болады. Егер екі аптадан астам уақыт бойы көңіліңіз түсіңкі болып жүрсе немесе бұрын ұнайтын нәрселерге қызығушылығыңыз азайса, дәрігерге айтыңыз.
+7. **Темекі шегу және алкоголь.** Темекіні тастауға көмектесу және алкогольді қауіпсіз мөлшерде қолдану туралы сұраңыз.
+8. **Қозғалыс.** Сізге қандай белсенділік қауіпсіз екенін сұраңыз. [Дене жаттығулары туралы нұсқаулығымызда](/brain-health/exercise/) идеялар бар.
+9. **Басты қорғау.** Велосипед тебу және дене контактісі бар спорт түрлерімен айналысқанда дулыға киіңіз, құлауды алдын алу туралы сұраңыз.
+10. **Байланыста болу.** Басқа адамдармен бірге уақыт өткізу — салауатты өмірдің бір бөлігі. [Әлеуметтік байланыс туралы нұсқаулығымызды](/brain-health/social-connection/) және [ұйқы туралы нұсқаулығымызды](/brain-health/sleep/) қараңыз.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Дәрілерді, тамақтануды, қоспаларды, оразаны немесе жаттығу режимін өзгертпес бұрын, әсіресе жүрек ауруы, қант диабеті болса, құлау қаупі жоғары болса немесе деменциямен өмір сүріп жатсаңыз, алдымен дәрігермен сөйлесіңіз.
 
-## Talk with a doctor
+## Дәрігермен сөйлесіңіз
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Егер өзіңізде немесе басқада сізді алаңдататын есте сақтау не ойлау өзгерістерін байқасаңыз, дәрігерге жазылыңыз. NIA [есте сақтау мәселелерінің басқа себептері](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) болуы мүмкін екенін айтады, мысалы дәрілердің жанама әсерлері, қалқанша безінің ақаулары, депрессия немесе В12 дәруменінің тапшылығы, және кейбір мәселелер себебі емделгеннен кейін жойылуы мүмкін. [Ескерту белгілері туралы нұсқаулығымызда](/brain-health/warning-signs/) неге назар аудару керегі түсіндірілген.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Кенет өзгерістер кезінде жедел көмекке жүгініңіз**: кенет абдырап қалу, дененің бір жағындағы әлсіздік немесе ұю, сөйлеу қиындығы немесе қатты бас ауруы инсульттің немесе басқа жедел жағдайдың белгілері болуы мүмкін. 112 нөміріне қоңырау шалыңыз.
 
-## Where Golden Moments fits
+## Golden Moments қалай көмектеседі
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments [әңгіме карталары](/games/conversation-cards/), [суретті бинго](/games/picture-bingo/) және [тыныш тыныс алу үзілісі](/games/calm-breathing/) сияқты қарапайым бірлескен іс-әрекеттерді ұсынады. Олар бірге уақыт өткізуге және жағымды сәттерге арналған. Олар емдеу құралы емес және деменцияның алдын алмайды немесе оны баяулатпайды.

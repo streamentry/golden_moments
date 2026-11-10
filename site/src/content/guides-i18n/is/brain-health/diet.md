@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND- og Miðjarðarhafsmataræði og vitglöp: Rannsóknir"
+seoTitle: "MIND-mataræði og vitglöp: Það sem rannsóknir segja"
+description: "Hvað segja rannsóknir um MIND- og Miðjarðarhafsmataræði og vitglöp, hvers vegna stór rannsókn fann ekki skýran ávinning og hvernig má styðja við mataræði."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Athuganir tengja Miðjarðarhafs- og MIND-mataræði við minni hættu á vitglöpum,
+  en tengslin eru ekki stöðug. Þriggja ára slembiröðuð rannsókn á MIND-mataræði,
+  sem birt var árið 2023, fann engan marktækan mun á hugsun eða heilaskönnum í
+  samanburði við samanburðarmataræði. Enginn matur eða fæðubótarefni hefur
+  sannað sig við að fyrirbyggja vitglöp. Fyrir fólk sem lifir með vitglöp skiptir
+  oftast mestu máli að borða og drekka nóg.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Sumar, en ekki allar, rannsóknir sem fylgja fólki eftir í tíma tengja Miðjarðarhafs- og MIND-mataræði við minni hættu á vitglöpum."
+  - "Í rannsókn frá 2023 á 604 eldri fullorðnum stóðu þátttakendur á MIND-mataræði sig ekki betur í hugsunarprófum eða heilaskönnum en þeir sem fylgdu samanburðarmataræði eftir þrjú ár."
+  - "National Institute on Aging segir að engar sannanir séu fyrir því að það að borða eða forðast tiltekinn mat geti komið í veg fyrir Alzheimer-sjúkdóm, og ekkert vítamín eða fæðubótarefni hefur sannað sig í því."
+  - "Mataræði sem er ríkt af grænmeti, ávöxtum, baunum, heilkornum og fiski styður við hjartaheilbrigði og getur hugsanlega hjálpað með áhættuþætti á borð við háan blóðþrýsting og sykursýki."
+  - "Fyrir fólk sem lifir með vitglöp skipta fingramatur, andstæður á diskum, rólegar máltíðir og regluleg drykkja oft meira máli en tiltekið mataræði."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Kemur MIND-mataræði í veg fyrir vitglöp?"
+    a: "Það hefur ekki verið sýnt fram á það. Athuganir tengdu MIND-mataræði við minni hættu, en þriggja ára slembiröðuð rannsókn sem birt var árið 2023 fann engan marktækan mun á niðurstöðum hugsunarprófa eða heilaskanna milli þeirra sem fylgdu MIND-mataræði og þeirra sem fylgdu samanburðarmataræði. Báðir hópar bættu sig lítillega og léttust svipað mikið."
+  - q: "Hver er munurinn á MIND-mataræði og Miðjarðarhafsmataræði?"
+    a: "Miðjarðarhafsmataræði leggur áherslu á grænmeti, ávexti, heilkorn, baunir, fisk og ólífuolíu, með litlu af rauðu kjöti eða sælgæti. MIND-mataræði sameinar það og DASH-mataræði gegn háum blóðþrýstingi og leggur aukna áherslu á græn laufmikil grænmeti og ber, en takmarkar rautt kjöt, sælgæti, ost, smjör og steiktan eða skyndibita."
+  - q: "Eru til matvæli eða fæðubótarefni sem koma í veg fyrir Alzheimer-sjúkdóm?"
+    a: "Nei. National Institute on Aging segir að engar sannanir séu fyrir því að það að borða eða forðast tiltekinn mat geti komið í veg fyrir Alzheimer-sjúkdóm eða aldurstengda vitræna hnignun, og ekkert vítamín eða fæðubótarefni hefur sannað sig í því. Ræddu við lækni áður en þú tekur fæðubótarefni."
+  - q: "Hvaða matur er auðveldastur fyrir manneskju sem lifir með vitglöp að borða?"
+    a: "Munnstórir bitar af fingramat, eins og brauðbitar, kjúklingabitar, appelsínubátar eða gufusoðin grænmetisbitar, eru oft auðveldari en að nota hnífapör. Ef erfitt er að tyggja eða kyngja geta mjúkir matarbitir eins og hrærð egg, eplamauk eða kotasæla hjálpað. Spurðu lækninn um mat á kyngingu ef hósti eða köfnun kemur upp."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,167 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Þú hefur kannski lesið að „heilavænlegt“ mataræði geti haldið Alzheimer-sjúkdómi í burtu. Raunveruleikinn er hóflegri. Sum mataræði tengjast minni hættu í rannsóknum sem fylgja fólki eftir í tíma, en besta rannsóknin hingað til fann ekki skýran ávinning. Á þessari síðu er útskýrt hvort tveggja og síðan rætt um það sem oftast skiptir mestu máli fyrir einhvern sem þegar lifir með vitglöp: að borða og drekka nóg og hafa ánægju af því.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Þetta eru almennar upplýsingar, ekki læknisráð. Ræddu við lækni eða löggiltan næringarfræðing áður en þú breytir mataræði þínu eða annars aðila. Sjá [yfirlýsingu okkar um læknisfræðilegar upplýsingar](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Hvað er Miðjarðarhafs- og MIND-mataræði?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) lýsir þeim þannig
+([NIA um mataræði og Alzheimer-sjúkdóm](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Miðjarðarhafsmataræði:** mikið af ávöxtum, grænmeti, heilkornum, baunum,
+  fiski og sjávarfangi og ólífuolíu, með litlu af rauðu kjöti, eggjum og
+  sælgæti.
+- **MIND-mataræði** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  blanda af Miðjarðarhafsmataræði og DASH-mataræði gegn háum blóðþrýstingi. Þar
+  er lögð áhersla á grænmeti, sérstaklega græn laufmikil grænmeti, ber,
+  heilkorn, baunir, hnetur, fisk að minnsta kosti einu sinni í viku og ólífuolíu.
+  Það takmarkar rautt kjöt, sælgæti, ost, smjör eða smjörlíki og steiktan mat
+  eða skyndibita.
 
-## Do these diets lower dementia risk?
+## Minnka þessi mataræði hættu á vitglöpum?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Gögnin eru misvísandi. NIA segir að sumar, en ekki allar, athuganir hafi tengt
+Miðjarðarhafs- og MIND-mataræði við minni hættu á vitglöpum samanborið við
+vestrænt mataræði með meira af rauðu kjöti, mettuðu fitu og sykri.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Lancet-nefndin frá 2024 fór nánar yfir rannsóknirnar
+([Lancet-nefndin](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Ein yfirlitsgrein á hóprannsóknum tengdi gott mataræði við um það bil 20%
+  minni hættu á vitglöpum.
+- Stærri greining á þremur hópum tengdi það að fylgja MIND-mataræði betur við
+  minni hættu.
+- En sænsk rannsókn sem fylgdi 28.025 miðaldra fólki í um 20 ár fann hvorki
+  minni hættu með ráðlögðum mataræðisvenjum né mataræði í anda Miðjarðarhafsins.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Athuganir geta ekki sannað orsakasamband. Fólk sem borðar á þennan hátt er oft
+einnig ólíkt á annan hátt, til dæmis hvað varðar tekjur, menntun, hreyfingu og
+aðgengi að heilbrigðisþjónustu. Nefndin komst að þeirri niðurstöðu að ekki væru
+nægar sannanir til að segja að hollt mataræði komi beint í veg fyrir vitglöp,
+þótt það að borða mikið af ávöxtum og grænmeti og minna af mjög unnum matvælum
+sé gott fyrir marga þætti heilsunnar og hafi áhrif á áhættuþætti á borð við
+offitu, sykursýki og háan blóðþrýsting. Hún bætti mataræði ekki við lista sinn
+yfir [14 áhættuþætti](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Hvað kom í ljós í MIND-mataræðisrannsókninni 2023?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Sterkasta prófið hingað til var slembiröðuð rannsókn sem birt var í New England
+Journal of Medicine árið 2023
+([MIND-mataræðisrannsóknin](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Hverjir:** 604 fullorðnir 65 ára og eldri á svæðinu í kringum Chicago og
+  Boston, án vitrænna vandamála, sem áttu náinn aðstandanda með vitglöp, voru
+  of þungir og höfðu í upphafi óhollara mataræði.
+- **Hvað:** í þrjú ár fylgdi helmingurinn MIND-mataræði og hinn helmingurinn
+  sínu venjulega mataræði. Báðir hópar voru beðnir um að borða um 250 hitaeiningum
+  færra á dag og fengu reglulega ráðgjöf frá löggiltum næringarfræðingum.
+- **Niðurstaða:** niðurstöður hugsunarprófa batnaði lítillega hjá **báðum**
+  hópum. Munurinn á hópunum var lítill og **ekki tölfræðilega marktækur**.
+  Heilaskannanir sýndu einnig svipaðar breytingar hjá báðum hópum.
+- **Þyngd:** báðir hópar léttust um það bil 5 kíló (um 11 pund).
 
-### Why might the trial have found no difference?
+### Hvers vegna gæti rannsóknin ekki hafa fundið mun?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Rannsakendurnir bentu á nokkrar mögulegar ástæður. Samanburðarhópurinn gæti
+líka hafa bætt mataræði sitt, þar sem hann léttist svipað mikið. Endurtekin próf
+geta bætt niðurstöður í sjálfu sér, þegar fólk venst prófunum. Þrjú ár gætu
+verið of stuttur tími. Flestir þátttakendur voru vel menntaðir og af evrópskum
+uppruna, svo niðurstöðurnar eiga kannski ekki við alla.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Heiðarlega samantektin er því: MIND-mataræði stóð sig ekki betur en skynsamlegt
+mataræði með færri hitaeiningum á þremur árum. Það þýðir ekki að hollt mataræði
+skipti engu máli. Það þýðir að enginn ætti að búast við að tiltekið mataræði
+komi í veg fyrir vitglöp.
 
-## What about specific foods and supplements?
+## En hvað með tiltekinn mat og fæðubótarefni?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA segir að engar sannanir séu fyrir því að það að borða eða forðast tiltekinn
+mat geti komið í veg fyrir Alzheimer-sjúkdóm eða aldurstengda vitræna hnignun.
+Bláber, græn laufmikil grænmeti og túrmerik hafa öll verið rannsökuð, án
+sönnunar. NIA segir einnig að ekkert vítamín eða fæðubótarefni hafi sannað sig
+við að koma í veg fyrir Alzheimer-sjúkdóm og ekkert þeirra sé mælt með í þeim
+tilgangi. NIA varar við því að ósannaðar vörur sem seldar eru til að koma í veg
+fyrir Alzheimer-sjúkdóm gætu verið óöruggar, sóun á peningum eða hvort tveggja,
+og gætu haft áhrif á lyfseðilsskyld lyf, svo ráðfærðu þig við lækni áður en þú
+prófar eitthvað slíkt
+([NIA um forvarnir gegn Alzheimer-sjúkdómi](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Hvernig getur mataræði verið hollt og ánægjulegt?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Fyrir flesta eldri fullorðna er markmiðið matur sem er næringarríkur, kunnuglegur
+og góður, ekki strangar reglur:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Settu máltíðir saman úr mat sem þér líkar** í anda Miðjarðarhafsmataræðis:
+  grænmeti, ávextir, baunir, heilkorn, fiskur og ólífuolía.
+- **Haltu í uppáhaldskræsurnar.** Ánægja og matarlyst skipta máli, sérstaklega
+  seinna á ævinni.
+- **Borðaðu með öðrum** þegar þú getur. Sameiginlegar máltíðir eru gott félagsskapur.
+- **Eldið saman.** Að þvo grænmeti eða hræra í potti er góð sameiginleg
+  verkefni; sjá [heimilisverk](/activities/household-tasks/). Uppáhaldsuppskrift
+  fjölskyldunnar getur líka vakið [endurminningar](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Eldra fólk ætti ekki að minnka hitaeiningar eða léttast án þess að ræða við
+lækni, og föstur fylgja aukin áhætta. Sjá
+[leiðbeiningar okkar um föstur](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Hvernig getur þú hjálpað manneskju sem lifir með vitglöp að borða vel?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Fyrir fólk sem lifir með vitglöp er að borða og drekka **nóg** yfirleitt aðal
+áhyggjuefnið. Alzheimer's Association bendir á að fólk geti gleymt að borða,
+haldið að það hafi þegar borðað eða fundið fyrir of miklu vali, og að léleg
+næring geti aukið hegðunarleg einkenni og valdið þyngdartapi
+([Alzheimer's Association um mat og máltíðir](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Þessar hugmyndir koma frá Alzheimer's Association, NIA og Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Bjóðið upp á fingramat.** Munnstórir bitar sem auðvelt er að taka upp, eins
+   og brauðbitar, kjúklingabitar, fiskibitar, appelsínubátar eða gufusoðið
+   spergilkál, gera manneskjunni kleift að borða sjálf án hnífapara.
+2. **Notið andstæður á borðinu.** Breytingar á sjón geta gert erfitt að greina
+   mat frá diski. Hvítir diskar eða skálar á mottu í andstæðri lit geta hjálpað.
+   Forðist mynstur á diskum og dúkum.
+3. **Berið fram einn eða tvo rétti í einu.** Fullur diskur getur verið ofviða.
+4. **Haldið máltíðum rólegum.** Slökkvið á sjónvarpinu, haldið borðinu
+   einföldu og gefið góðan tíma. NIA mælir með að flýta sér ekki og þrýsta
+   ekki á.
+5. **Bjóðið oft upp á litlar máltíðir og snarl.** NIA leggur til minni og
+   tíðari máltíðir og orkumikinn snarl ef viðkomandi borðar ekki nóg
+   ([ráð NIA um góðar matarvenjur](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Hjálpið við að drekka.** Bjóðið upp á litla bolla af vatni eða öðrum
+   drykkjum yfir daginn, auk matar sem inniheldur mikið vatn eins og ávexti,
+   súpu, mjólkurhristinga og smoothies. Ef viðkomandi vill ekki vatn leggur NIA
+   til að prófa safa, bragðbætt vatn, seyði, mjólk eða kaffí eða te án koffíns.
+7. **Athugið hitastigið.** Manneskja tekur kannski ekki eftir því að matur eða
+   drykkur er of heitur.
+8. **Aðlagið áhöld og bolla.** Skálar í stað diska, skeiðar með stórum haldköstum
+   og bollar með loki geta auðveldað að borða. Ekki hafa áhyggjur af því hvort
+   það sé snyrtilegt.
+9. **Gerið mat auðveldari að tyggja og kyngja.** Skerið matinn í litla bita eða
+   bjóðið upp á mjúkan mat. Ef viðkomandi hóstar eða kýngist illa við að borða,
+   segðu lækninum frá því.
+10. **Forðist að þvinga mat í fólk.** NIA bendir á að matarlyst minnki eðlilega
+    á síðustu stigum Alzheimer-sjúkdóms.
 
-### Signs to tell the doctor about
+### Merki sem segja skal lækni frá
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Þyngdartap, neitun um mat, þreyta eða máttleysi geta verið merki um að einhver
+sé ekki að borða nóg. Alzheimer's Society bendir á að sárir tennur eða
+gervitennur, þunglyndi, hægðatregða og breytingar á lyfjum geta öll dregið úr
+matarlyst
+([Alzheimer's Society um matarlyst](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Merki um ofþornun sem NIA nefnir eru munnþurrkur, svimi, hraður hjartsláttur og
+ofskynjanir
+([NIA um algeng læknisfræðileg vandamál](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Ræddu við lækni
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Áður en þú gerir stórar breytingar á mataræði þínu, eða einhvers annars, skaltu
+ræða við lækni eða löggiltan næringarfræðing, sérstaklega ef þú ert með
+sykursýki, nýrnasjúkdóm, kyngingarerfiðleika eða nýlegt þyngdartap. Fyrir
+manneskju sem lifir með vitglöp skaltu spyrja hversu mikið hún ætti að stefna að
+að borða og drekka á dag og hvort næringarfræðingur eða fæðubótarefni gætu
+hjálpað.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Leitaðu tafarlausrar aðstoðar ef einhver er að kafna, eða fær skyndilega
+rugling, mikinn svima eða missir meðvitund. Hringdu í 112 í neyðartilvikum.

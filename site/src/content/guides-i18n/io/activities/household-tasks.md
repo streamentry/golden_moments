@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Domala taski kom agadi por personi kun dementeso"
+seoTitle: "Domala agadi por dementeso: omnadia taski"
+description: "Faldar, ordinar, preparar la tablo e simpla koquado povas esar utila agadi por personi kun dementeso. Quale preparar, adaptar e sekurigar li."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Omnadia taski quale faldar tukli, ordinar kalsi, preparar la tablo, vishar
+  surfaci, aquizar planti e helpar pri simpla koquado povas donar a persono
+  vivanta kun dementeso reala maniero helpar. Selektez taski quin lu konocas,
+  dividez li en singla pazi, forigez danjeri de tranchili o varmo, e valorez la
+  partopreno plu kam facar ol «korekte».
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Familiala taski povas helpar persono sentar su utila e parto dil hemo, quo ofte importas plu kam quale bone la tasko esas facita."
+  - "Dividez singla tasko en unopaza stepi, montrez plu kam dicez, e tranquile prenez irga stupo qua divenis desfacila."
+  - "Gardez tranchili, netigili e detergent-kapsuli sub klefo, e adjuntez protektili por fornelo-butoni o automatala extintilo ante koquar kune."
+  - "Faldita tukli ne bezonas esar rifaldita avan la persono. Se vu mustas rifacar ulo, facez ol pose e ne vidate."
+  - "Se tasko kreas frustreso, pasez a plu facila stupo, probez itere altrafoye, o simple sidez kune."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Quala domala taski povas persono kun dementeso ankore helpar facar?"
+    a: "Multa personi povas ankore faldar lavuro, parigar kalsi, ordinar manjili, preparar la tablo, vishar surfaco, polvisar, balaar, aquizar planti o movar pasto en bolo. Selektez taski quin la persono facis en la pasinto e adaptez li a to quon lu povas facar nun. En plu tarda stadi, sola ripetata movo, quale glatigar servieti, povas esar suficanta."
+  - q: "Ka esas sekura por ulu kun dementeso helpar en la koqueyo?"
+    a: "Ol povas esar sekura, kun proxima surveyo e bona preparo. Tenez tranchili, netigili e irgo varmega for de atingeyo, uzez protektili por fornelo-butoni o automatala extintilo, e donez a la persono sekura tasko, quale lavar legumi, movar o preparar pladi. Nultempe lasez lu sola kun la fornelo funcionanta."
+  - q: "Quo facar se lu faldas malbone o facas desordo?"
+    a: "Lasez ol esar. La skopo esas tempo kune e sento esar utila, ne perfekta rezulto. Se ulo vere mustas esar rifacita, vartez til pose e facez ol kande la persono ne regardas, por ke lu ne sentas su korektigata."
+  - q: "Quo facar se lu refuzas helpar?"
+    a: "No povas signifikar ke la tasko semblas tro desfacila, konfuza o fatiganta nun. Ne insistez. Probez plu simpla versiono, invitez lu nur kompanar vu, o demandez itere en plu bona horo di la dio."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Multa personi vivanta kun dementeso pasigis yardeki direktante hemo, edukante familio o mantenante ordino en laboreyo. Esar invitata helpar pri reala domala taski povas dicar «vu ankore esas parto di ca hemo» en maniero quan poka altra agadi povas dicar. Ca pagino montras quala taski ofte funcionas bone, quale preparar li, quale adaptar li kande aferi chanjas, e quale mantenar sekureso en la koqueyo e la laveyo.
 
-## Why do everyday chores work well as activities?
+## Pro quo omnadia taski funcionas bone kom agadi?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Taski funcionas bone pro ke li esas familiara e havas klara skopo. La National Institute on Aging listas lavar dishi, preparar la tablo, balaar, polvisar, ordinar posto, faldar lavuro e ordinar rikiclo inter la [omnadia agadi quin personi kun Alzheimer-morbo povas juar](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). La Alzheimer's Association notas ke taski quale preparar la tablo povas helpar persono [sentar su valorezata parto dil hemo](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Tasko anke havas sua propra motivo por komencar. «Ka vu povus helpar me kun ca tukli?» esas plu facile aceptar kam «Ka vu volas facar ula agado?»
 
-## Which household tasks are good to try?
+## Quala domala taski esas bona por probar?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Komencez per taski quin la persono facis en la pasinto, pose adaptez li a to quon lu povas facar hodie.
 
-### Laundry and linens
+### Lavuro e linaji
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Faldar tukli e vishili.** Donez korbo kun mikra, plata objekti. Tukli esas indulgoza: ne existas malbona maniero faldar li.
+- **Parigar kalsi.** Pozez mixita amaso sur la tablo. Se pari divenas desfacila trovar, uzez nur du o tri tre diferanta kolori.
+- **Glatigar e stakigar.** Servieti, kusen-tegi o dish-tukli povas esar glatigata e stakigata. To funcionas bone plu tarde, kande faldar havas tro multa stepi.
 
-### Table and kitchen
+### Tablo e koqueyo
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Preparar la tablo.** Pozez un kompleta plado-loko kom modelo e lasez la persono kopiar ol. Se to esas tro multa, donez un objekto singlatempe: «Yen forko por singla plado.»
+- **Ordinar manjili.** Mixez neta forki, kulieri e butro-kulteli en ujo e ordinez li en dividita plado. Lasez akuta tranchili aparte.
+- **Sikar dishi.** Pladi ne-ruptiva e mola tuklo facas to sekura tasko.
+- **Vishar la tablo o surfaci.** Humida tuklo e klara surfaco. La Alzheimer's Association sugestas ofrar tuklo se ulu ja frotas la tablo per sua manuo, chanjonte nequieta movo en utila ago.
 
-### Around the house
+### Circum la hemo
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Polvisar.** Mola polvisilo e kelka solida surfaci, quale tablo o librobretaro.
+- **Ordinar la posto.** Donez reklam-letri e katalogi por ordinar en amasi: retenar, rikiclar, apertar pose. Tenez vera fakturi e cheki altra-loke.
+- **Ordinar rikiclo.** Neta lati, boteli e papero en separita uji.
+- **Balaar.** Mikra balailo sur teraso o koqueyo-sulo, se la equilibro esas stabila.
+- **Aquizar planti.** Mikra, lejera aquizilo e kelka planti facile atingebla.
 
-### Simple cooking with supervision
+### Simpla koquado kun surveyo
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Koquado povas revekigar forta, agreabla sentaji. La NIA sugestas lasar la persono kolektar ingredianti, mezurar, mixar e versar, o simple dicar a altru quale preparar favorata recepto. Bona taski esas:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- lavar legumi o frukti
+- movar pasto o malvarma salado
+- disshirar laktuko
+- untizar tosto per obtuza kultelo
+- pozar kuketo-pasto sur plado
+- pozar garnituri sur pico
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Se mezurar divenas desfacila, la Alzheimer's Association sugestas ke vu finas la mezurado e pose donez altra stupo, quale movar.
 
-## How do I set up a chore so it goes well?
+## Quale preparar tasko por ke ol sucesas bone?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Selektez justa tempo.** Selektez parto dil dio kande la persono esas ordinare ripozinta e kalma. Por multa personi to esas la matino.
+2. **Klarigez la spaco.** Un tasko, un surfaco, nulo superflua sur la tablo.
+3. **Invitez, ne ordonez.** «Me bezonus kelka helpo kun ico» funcionas plu bone kam «Esas tempo faldar lavuro.»
+4. **Montrez la unesma.** Faldez un tuklo lente, pose donez la sequanta. Montrar esas plu klara kam explikar.
+5. **Donez un stupo singlatempe.** Tro multa instrukti samatempe povas esar tro multa. Vartez ke un stupo finesez ante nomar la sequanta.
+6. **Laborez un apud altra.** Facar la sama tasko apude sentas quale kompaneso, ne quale surveyo.
+7. **Parolez pri la tasko, ne pri la rezulto.** «Ici esas tre mola» o «Dicez a me quale vu prizis ordinar la linaj-armoro» invitas konverso sen probar ulu.
 
-## How do I adapt chores as abilities change?
+## Quale adaptar taski kande kapablesi chanjas?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Kapablesi chanjas tra tempo e mem de un dio a altra. La Alzheimer's Association sugestas irar a plu simpla, plu ripetata taski dum la malsano progresas.
 
-| If this has become hard | Try this instead |
+| Se ico divenis desfacila | Probez ico vice |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Faldar granda lit-tegi | Faldar vishili o glatigar servieti |
+| Preparar kompleta tablo | Pozar un servieto an singla sideyo |
+| Ordinar posto en kategorii | Stakigar kuverti en un amaso |
+| Sequar recepto | Movar, o regardar e gustumar dum vu koquas |
+| Balaar tota sulo | Vishar un mikra tablo |
+| Facar la tasko irgamaniere | Sidar kun vu e kompanar vu dum vu facas ol |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Regardar anke esas partopreno. La NIA notas ke kelka personi simple juas regardar, e to esas bona maniero partoprenar.
 
-## How do I keep household tasks safe?
+## Quale mantenar sekureso dum domala taski?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Sekureso venas unesme, precipue en la koqueyo. La [konsili pri sekureso en la hemo por sucianti di Alzheimer-morbo](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) dil NIA inkluzas:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Gardez sub klefo o forigez netigili, inkluzante detergent-kapsuli por lavuro, qui povas semblar bomboni.
+- Konservez tranchili, cizegi e utensili kun povo en loko klefizita.
+- Adjuntez sekura butoni e automatala extintilo a la fornelo.
+- Pozez signi «Haltez» o «Tre varma» proxim la forno, tostilo e gladilo, tale ke li ne povas ekbrular.
+- Ajustez la aquo-varmigilo a 120°F por diminutar la risko di bruluro.
+- Forigez artificala frukti e manjo-forma magneti, qui povas semblar manjebla.
 
-A few more practical habits help:
+Kelka plusa praktikal habiti anke helpas:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Restez en la chambro kande la fornelo, forno o akuta utensilo esas uzata.
+- Uzez pladi ne-ruptiva por sikar e preparar la tablo.
+- Tenez suli seka e libera dum balaado o mopado.
+- Se la persono uzis utensili en la pasinto, la Alzheimer's Association sugestas forigar danjeroza objekti del laboreyo, por ke sekura tasko, quale sablar ligno-peco, ankore povos esar juata.
 
-## What if they do it "wrong"?
+## Quo facar se lu facas ol «malbone»?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Lasez ol pasar. Tuklo faldita en trii vice duimo esas tamen faldita tuklo. La Alzheimer's Association dicas ol klare: quo importas esas pasar tempo kune e ke la persono sentas su utila, ne ka la tukli esas faldita perfekte. Se ulo vere mustas esar rifacita, vartez til pose e facez ol ne vidate.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Korektigar en la momento povas chanjar agreabla tasko en rememorigo pri to quo perdesis. «Danko, to esas granda helpo» esas preske sempre la justa kozo por dicar.
 
-## When should we stop?
+## Kande ni devas haltar?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Haltez o chanjez kande vu vidas signi di frustreso, fatigo o perdo di intereso. Finar frue esas bona rezulto, ne faliuro. Vu povas:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- pasar a plu facila stupo
+- chanjar a ulo trankila, quale muziko o taso de kafeo
+- probar itere pose o altra dio
+- simple sidar kune
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Se la persono dicas no, ne insistez. Videz [quo facar kande lu dicas no](/caregiving/when-they-say-no/) por dolca manieri respondar.
 
-## Low-effort extras for a quieter moment
+## Facila plusaji por plu trankila momento
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Kande fizikal taski ne esas posibla, ordinar e parigar povas ankore esar facata sidante. [Sort Together](/games/sort-together/) permisas tu tushar imaji en korbi di koqueyo o gardeno, e [Picture Pairs](/games/picture-pairs/) esas dolca parigo-ludo kun granda imaji e sen tempizilo. [Conversation Cards](/games/conversation-cards/) havas apertita questioni pri hemo e familio, qui konvenas bone kun kafeo pos la laboro.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Por helpo inkluzar taski en la dio, videz nia guidilo pri [kalma omnadia rutino](/activities/daily-routine/). Por plu multa idei segun stadio, videz [agadi por meza stadio](/activities/middle-stage/).

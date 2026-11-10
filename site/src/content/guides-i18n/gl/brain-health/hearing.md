@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Perda de audición e risco de demencia: o que di a investigación"
+seoTitle: "Perda de audición e demencia: o que di a investigación"
+description: "Por que a perda de audición é un factor de risco de demencia, que atopou o ensaio ACHIEVE sobre audiófonos e como revisar a audición e falar con máis facilidade."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  A Comisión Lancet de 2024 nomea a perda de audición como un dos factores de risco modificables
+  máis importantes para a demencia. No ensaio ACHIEVE, os audiófonos non frearon o declive
+  cognitivo en xeral, aínda que un subgrupo con maior risco mostrou menos declive. Os audiófonos
+  axudan na conversa e na vida diaria de todos os xeitos. Revise a audición, valore audiófonos
+  con receita ou de venda libre e fale cun médico.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "A Comisión Lancet estima que a perda de audición representa arredor do 7 % da demencia en todo o mundo, empatada coa maior porcentaxe entre 14 factores."
+  - "No ensaio ACHIEVE, con 977 persoas maiores, os audiófonos non cambiaron o declive cognitivo en tres anos en xeral."
+  - "Nun grupo máis pequeno e con maior risco dentro de ACHIEVE, o declive cognitivo foi un 48 % máis lento con audiófonos; isto precisa confirmación."
+  - "Desde outubro de 2022, as persoas adultas nos Estados Unidos con perda de audición leve a moderada percibida poden mercar audiófonos regulados pola FDA sen receita."
+  - "A perda de visión sen tratar engadiuse como factor de risco de demencia en 2024, polo que as revisións oculares tamén importan."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Os audiófonos prevén a demencia?"
+    a: "Iso non está demostrado. O ensaio ACHIEVE non atopou un efecto xeral sobre o declive cognitivo en tres anos, aínda que un grupo con maior risco obtivo mellores resultados. Aínda así, paga a pena valorar os audiófonos porque facilitan a conversa, a seguridade e a vida diaria."
+  - q: "Quen pode mercar audiófonos de venda libre?"
+    a: "A FDA permite que as persoas adultas de 18 anos ou máis con perda de audición leve a moderada percibida merquen audiófonos de venda libre en tendas ou por internet sen receita. Non están pensados para a perda de audición grave. Calquera persoa con dor de oído, líquido no oído, mareos ou cambios súbitos na audición debería ver primeiro un médico."
+  - q: "A perda de audición pode parecer demencia?"
+    a: "Ás veces. O National Institute on Aging sinala que ás persoas maiores que non escoitan ben ás veces se lles atribúe por erro confusión ou falta de colaboración. Unha revisión da audición é un paso sensato cando alguén parece illarse ou non captar o que se di."
+  - q: "Con que frecuencia deberían revisarse a vista as persoas maiores?"
+    a: "O National Institute on Aging aconsella un exame ocular con dilatación cada un ou dous anos despois dos 60, ou segundo recomende o profesional da vista. As persoas con diabetes ou presión arterial alta adoitan necesitar un polo menos unha vez ao ano."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+A perda de audición é común na idade avanzada, e as persoas investigadoras tómaa en serio como factor de risco de demencia. Iso non converte os audiófonos nunha forma demostrada de previr a demencia; o mellor ensaio ata agora tivo resultados mixtos. Esta páxina explica o que mostra a investigación, como revisar a audición, que son os audiófonos de venda libre nos Estados Unidos e como facer a conversa máis fácil.
 
-## Why does hearing matter for brain health?
+## Por que importa a audición para a saúde do cerebro?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+A perda de audición está ligada a un maior risco de demencia. A [Comisión Lancet de 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) estima que representa arredor do 7 % da demencia en todo o mundo. Iso empátaa co colesterol LDL alto como a maior porcentaxe entre os 14 factores de risco modificables do modelo da Comisión, segundo o [resumo do informe da UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Achados principais da Comisión:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Máis risco coa perda de audición.** Na súa análise combinada de seis estudos de alta calidade, as persoas con perda de audición tiñan arredor dun 37 % máis de risco de demencia que as persoas con audición normal.
+- **Máis perda, máis risco.** Os estudos que analizaron a gravidade atoparon que o risco aumentaba a medida que empeoraba a audición.
+- **Posibles razóns, aínda sen demostrar.** Entre as ideas están a soidade e o illamento, a depresión, menos estimulación para o cerebro e o esforzo mental extra que require escoitar.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+A perda de audición é común. O [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) indica que arredor dun terzo das persoas maiores a teñen, e a probabilidade aumenta coa idade.
 
-## What did the ACHIEVE hearing aid trial find?
+## Que atopou o ensaio ACHIEVE sobre audiófonos?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE foi o primeiro ensaio aleatorizado sobre audiófonos e declive cognitivo. Os seus resultados adoitan contarse mal, así que aquí van os detalles do [informe publicado do ensaio](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Quen participou:** 977 persoas adultas de 70 a 84 anos con perda de audición sen tratar e sen problemas importantes de pensamento, en catro comunidades dos Estados Unidos.
+- **Que se comparou:** A metade recibiu audiófonos e sesións de orientación cun audiólogo. A outra metade recibiu un programa de educación para a saúde sobre o envellecemento saudable.
+- **Resultado principal:** Despois de tres anos, **non houbo diferenza** no declive cognitivo entre os dous grupos en xeral.
+- **Resultado do subgrupo:** O ensaio recrutou participantes de dúas fontes. 238 persoas viñan dun estudo longo sobre a saúde do corazón (ARIC) e, como grupo, tiñan maior risco de declive cognitivo. Neste grupo, o declive foi un **48 % máis lento** con audiófonos. Entre as 739 persoas voluntarias saudables da comunidade, non houbo un efecto claro.
 
-How to read this honestly:
+Como ler isto con honestidade:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- A resposta xeral foi que non houbo efecto.
+- O achado do subgrupo estaba previsto con antelación, pero veu dunha análise secundaria dun grupo máis pequeno. Necesita confirmarse noutros estudos.
+- As persoas participantes sabían en que programa estaban, o que pode afectar os resultados.
+- A Comisión Lancet interpreta a evidencia como un indicio de que os audiófonos parecen especialmente útiles para as persoas que teñen perda de audición xunto con outros factores de risco de demencia.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+A idea principal é que os audiófonos non son unha forma demostrada de previr a demencia. Si axudan a escoitar, participar nas conversas e manterse en contacto, e iso xa é motivo abondo para valoralos.
 
-## How do I know if hearing should be checked?
+## Como sei se hai que revisar a audición?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+O NIA aconsella ver un médico se vostede ou a persoa que coida:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Ten dificultades para entender as persoas polo teléfono
+- Lle custa seguir conversas cando falan dúas ou máis persoas
+- A miúdo pide ás persoas que repitan o que dixeron
+- Sobe tanto o volume da televisión que outras persoas se queixan
+- Lle custa entender a fala cando hai ruído de fondo
+- Pensa que as outras persoas parecen murmurar
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Pode comezar cun médico de atención primaria, que pode derivala a un audiólogo (especialista en audición) ou a un médico de oído, nariz e gorxa. A acumulación de cerume é unha causa común de perda de audición que un médico pode revisar. **A perda súbita de audición é unha urxencia médica**, e o NIA aconsella ver un médico de inmediato.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+A perda de audición pode confundirse con confusión. O NIA sinala que ás persoas maiores que non escoitan ben ás veces se lles atribúe por erro confusión, falta de resposta ou falta de colaboración. Se alguén querido parece illarse ou non capta o que se di, revisar a audición é un bo primeiro paso.
 
-## What are over-the-counter hearing aids?
+## Que son os audiófonos de venda libre?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Desde o 17 de outubro de 2022, a [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) permite unha categoría de audiófonos de venda libre (OTC, polas súas siglas en inglés). Así se comparan cos audiófonos con receita:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Característica | Audiófonos de venda libre | Audiófonos con receita |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Para quen son | Persoas adultas de 18 anos ou máis con perda de audición leve a moderada percibida | Calquera nivel de perda de audición, calquera idade |
+| Onde conseguilos | En tendas ou por internet, sen exame nin receita | A través dun profesional da audición autorizado |
+| Axuste | Vostede axusta a configuración, a miúdo cunha aplicación | Un profesional prográmaos segundo a súa audición |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+A FDA indica que os audiófonos de venda libre non están pensados para a perda de audición grave ou profunda. Aconsella ver un médico, de preferencia un especialista en oído, nariz e gorxa, antes de mercalos se ten:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Dor ou molestias no oído
+- Líquido, pus ou sangue no oído nos últimos seis meses
+- Cambios súbitos ou variables na audición
+- Peor audición nun oído, ou zunido nun só oído
+- Mareos ou vertixe
+- Moito cerume
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Acostumarse aos audiófonos leva práctica, así que revise a política de devolución antes de mercar, como suxire a FDA. O NIA recomenda preguntar se o seu seguro cobre parte do custo. No caso dunha persoa que vive con demencia, un audiólogo pode axudar a decidir que tipo de audiófono e que axuste serán máis fáciles de levar no día a día.
 
-## How can I talk more easily with someone who has hearing loss?
+## Como podo falar con máis facilidade con alguén que ten perda de audición?
 
-The NIA suggests:
+O NIA suxire:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Póñase de fronte á persoa e manteña o contacto visual**, con boa luz, para que poida ver os seus beizos e expresións.
+2. **Busque un lugar tranquilo.** Apague a televisión ou afástese do ruído.
+3. **Fale un pouco máis alto, pero sen berrar.** Fale con naturalidade e a un ritmo razoable.
+4. **Manteña a boca libre.** Non coma, non masque goma nin se cubra a boca mentres fala.
+5. **Reformule en vez de repetir** cando algo non se entende.
+6. **Unha persoa de cada vez.** Nun grupo, procure incluír a persoa.
+7. **Teña paciencia e pregunte como pode axudar.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Estes consellos van ben cos nosos [consellos de comunicación para a demencia](/caregiving/communication-tips/). As actividades con imaxes tamén quitan presión á hora de escoitar. [Picture Pairs](/games/picture-pairs/) e [Conversation Cards](/games/conversation-cards/) funcionan a partir do que se ve, e [Finish the Saying](/games/finish-the-saying/) permite mostrar o final en vez de dicilo. Para as chamadas, consulte a nosa guía sobre [chamadas telefónicas e por vídeo](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## A vista tamén importa
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+En 2024, a Comisión Lancet engadiu a perda de visión sen tratar como un novo factor de risco. O resumo da UCL sitúaa en arredor do 2 % dos casos de demencia, e a Comisión recomenda que a detección e o tratamento dos problemas de visión estean dispoñibles para todas as persoas. O [NIA aconsella](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) un exame ocular con dilatación cada un ou dous anos despois dos 60, e revisar tamén a graduación das lentes. Mesmo pequenos cambios na vista poden aumentar o risco de caídas.
 
-## Talk with a doctor
+## Fale cun médico
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Consulte cun médico sobre revisións de audición e vista se nota algún dos sinais anteriores. Busque atención de inmediato ante unha perda súbita de audición, dor de oído ou líquido no oído. Se coida dunha persoa que vive con demencia, coméntele ao seu médico os cambios na audición ou na vista, xa que poden afectar o estado de ánimo, a seguridade e a facilidade para participar.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Esta páxina é información xeral, non consello médico. Consulte o noso [aviso médico](/medical-disclaimer/). Lea máis sobre [conexión social e saúde do cerebro](/brain-health/social-connection/).

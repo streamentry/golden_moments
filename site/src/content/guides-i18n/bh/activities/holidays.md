@@ -1,33 +1,29 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "डिमेंशिया वाले अपनों के साथ त्योहार की सरल गतिविधियाँ"
+seoTitle: "डिमेंशिया के लिए त्योहार और थैंक्सगिविंग के विचार"
+description: "डिमेंशिया वाले व्यक्ति के साथ त्योहार की सरल गतिविधियाँ: खाना बनाने के काम, सजावट, संगीत, फोटो और वीडियो कॉल, और त्योहार को शांत ढंग से मनाने की योजना।"
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  त्योहार छोटा रखीं, दिन के पहिले हिस्से में रखीं और व्यक्ति की रोज की दिनचर्या के पास रखीं। उनका के कवनो असल, सुरक्षित काम दीं, जइसे मेज सजावल, सब्जी धोवल, उपहार लपेटल या कवनो सजावट टांगल। जाना-पहचाना संगीत और पुरान फोटो साथे देखीं, मेहमानन के पहिले से तइयार करीं और एगो शांत कमरा रखीं। उतना ही करीं जतना आराम से हो सके; एगो छोट, शांत उत्सव भी बढ़िया होला।
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "अगर शाम में उलझन ज़्यादा होला, त दिन के पहिले हिस्से में उत्सव रखीं, जइसे दुपहर का भोज या ब्रंच।"
+  - "असल काम दीं: मेज सजावल, सब्जी धोवल, उपहार लपेटल, सजावट करल या मिठाई प्लेट में सजावल।"
+  - "जाना-पहचाना संगीत, कैरोल और पुरान फोटो एल्बम त्योहार के मजा बांटे के आसान तरीका बा।"
+  - "मेहमानन के बताईं कि का होखे वाला बा, आ व्यक्ति के फोटो देखाईं कि कवन लोग आवत बाड़े।"
+  - "एगो शांत कमरा तइयार करीं, जहां मनपसंद कंबल या स्वेटर होखे, आ एक बेरा में कुछ गिनल-चुनल लोग रखीं।"
+  - "जे भारी लागे ओसे बचीं, जइसे खाना जइसन दिखे वाला सजावट आ बहुत ज़्यादा चमकत बत्ती।"
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "थैंक्सगिविंग में डिमेंशिया वाला व्यक्ति का कर सकेला?"
+    a: "उनका आज के हिसाब से कवनो सरल, सुरक्षित काम दीं, जइसे सब्जी धोवल, क्रैनबेरी सॉस चलावल, मेज सजावल, नैपकिन मोड़ल या मिठाई प्लेट में रखल। बाद में साथे पुरान परिवारिक फोटो देखीं या जाना-पहचाना गाना गाईं। दिन का हिस्सा बनल, काम के नतीजा से ज़्यादा मायने रखेला।"
+  - q: "का अभी भी बड़ा परिवारिक जमावड़ा करे के चाहीं?"
+    a: "तबे जब संभव होखे। भीड़ और शोर भारी लाग सकेला, एहसे कई परिवार छोट, सहज जमावड़ा, पहिले भोजन, या मेहमानन के छोट-छोट टोली में आवे देवे के तरीका अपनावेलन। Alzheimer's Association देखभाल करे वाला लोगन के सलाह देला कि ओतने करीं जतना वाजिब और सुरक्षित ढंग से संभव होखे।"
+  - q: "जे बहुत दिन से ना आइल बा, ओह परिवार के लोगन के कइसे तइयार करीं?"
+    a: "आवे से पहिले बताईं कि कवन बदलाव देख सकेलन, आ ई भी बताईं कि ई बदलाव बीमारी से आवेला, व्यक्ति से ना। उनका से आग्रह करीं कि सुधारे या सवाल-जवाब मत करे, एक बेरा में एक आदमी बोलस, आ जवाब खातिर समय दे। पहिले से व्यक्ति के मेहमानन के फोटो देखा दिहला से भी मदद मिल सकेला।"
+  - q: "डिमेंशिया वाला व्यक्ति खातिर त्योहार के कवन उपहार ठीक रही?"
+    a: "सरल आ सुरक्षित चीज जवन अभी आनंद दे सके: मनपसंद नाश्ता, नरम कंबल या स्वेटर, जाना-पहचाना संगीत, या परिवार के फोटो के एल्बम। जटिल इलेक्ट्रॉनिक सामान, औजार और कठिन बोर्ड गेम से बचीं। उनका के देवे में शामिल करीं, जइसे उपहार लपेटवावल या जवन कुकी उ साथे बनवले रहन उ पैक करवावल, ई अपने आप में एगो उपहार हो सकेला।"
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +36,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+त्योहार पुरान यादन के ताजा कर सकेला, और ओकरे साथे शोर, भीड़ और रोज के दिनचर्या में बदलाव भी ला सकेला। डिमेंशिया वाला व्यक्ति खातिर सबसे बढ़िया उत्सव आमतौर पर छोट, धीमा और ओह चीजन पर आधारित होला जवन उ अभी भी आनंद से कर सकेलन। ई विचार थैंक्सगिविंग, क्रिसमस, हनुक्का, नया साल और परिवार के जन्मदिन, सब खातिर काम आवेलन।
 
-## How do I plan a calmer holiday?
+## शांत त्योहार कइसे प्लान करीं?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+व्यक्ति के दिनचर्या से शुरू करीं और दिन उही हिसाब से बनाईं। [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) सुझाव देला कि उत्सव दिन के पहिले हिस्से में रखल जाव, काहे कि उलझन और बेचैनी अक्सर शाम और रात में बढ़ जाला (जेके सनडाउनिंग भी कहल जाला)। दुपहर का भोज या ब्रंच, देर रात के खाना से आसान हो सकेला।
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **छोट रखीं।** एगो छोट, सहज जमावड़ा, या मेहमानन के कुछ-कुछ करके आवे देवे के तरीका, भीड़ वाला मेज से अक्सर आसान होला।
+- **काम बांटीं।** रिश्तेदार से कहीं कि कवनो डिश ले आवे, सामान ले आवे या खाना बनावत घरी व्यक्ति के साथ बइठे। साफ-साफ बताईं कि कवन काम से मदद होखी।
+- **सजावट सरल रखीं।** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) बतावेला कि चमकत बत्ती उलझन पैदा कर सकेले, और मिठाई या नकली फल सजावट में इस्तेमाल होखे त ओके खाना समझ लिहल जा सकेला।
+- **का छोड़ल जाव, ई तय करीं।** अगर कवनो परंपरा तनाव या खतरा बन गइल बा, त ओके छोड़ दीं या कवनो शांत तरीका अपनाईं।
 
-## What holiday activities can we do together?
+## साथे कवन त्योहारी गतिविधि कर सकेनी?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+ओह काम और मनोरंजन के चुनीं जवन व्यक्ति आज कर सकेले। त्योहार में हिस्सा लेवे के बात ज़्यादा मायने रखेला, नतीजा से कम।
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **साथे मेज सजावल।** पहिले थारी, फेर नैपकिन, फेर गिलास रखीं। नैपकिन मोड़ल बइठ के करे लायक बढ़िया काम बा।
+2. **सब्जी धोवल और छांटल।** रसोई के मेज पर आलू धोवल या हरा बीन तोड़ल सुरक्षित बा, और जे पहिले खाना बनावत रहे उनका खातिर जाना-पहचाना भी।
+3. **चलावल, मिलावल या प्लेट में सजावल।** क्रैनबेरी सॉस चलावल, सरल घोल मिलावल या कुकी प्लेट में रखल हाथ के व्यस्त राखेला, और चूल्हा व चाकू से दूर भी।
+4. **उपहार लपेटल।** कागज और टेप पहिले से काट के रखीं, और व्यक्ति के मोड़े और चिकना करे दीं। सुंदर लपेटल जरूरी नइखे।
+5. **कुछ सजावट टांगल।** टूटे ना वाला ओर्नामेंट और एक छोट जगह चुनीं, जइसे रिथ या छोट क्रिसमस ट्री।
+6. **सरल शिल्प बनावल।** कागज के चेन, पत्तन के कोलाज या टिकट लगावल त्योहारी कार्ड बढ़िया काम करेला। [कला और शिल्प गाइड](/activities/arts-and-crafts/) में अउर विचार बा।
+7. **गावल और सुनल।** जाना-पहचाना कैरोल और त्योहारी गाना में शामिल होखे में आसान बा, भले व्यक्ति अब कम बोलत होखे। प्लेलिस्ट बनावे खातिर [संगीत गाइड](/activities/music/) देखीं।
+8. **पुरान त्योहारी फोटो देखल।** पिछला उत्सव के एल्बम निकालीं और कहानी सुनावे खातिर बोलीं (“ई मेज के बारे में बताईं”), ना कि ई पूछीं कि ई के हवे। [यादें ताजा करे वाला गाइड](/activities/reminiscence/) में ई कइसे कइल जाला बतावल बा।
+9. **एगो नरम समूह खेल।** [पिक्चर बिंगो](/games/picture-bingo/) कुछ मिनट में छप जाला और सब उमिर खातिर ठीक बा, और [बातचीत कार्ड](/games/conversation-cards/) सबके बतियावे खातिर कुछ देलन।
+10. **साथे रंग भरल।** सरल [रंग भरे वाला पन्ना](/games/coloring/) छापल जा सकेला, जवन बच्चा और दादी-बाबा मेज पर साथे भर सकेलन।
+11. **मनपसंद त्योहारी फिल्म देखल।** जाना-पहचाना फिल्म आराम देवेले, और खाली कुछ हिस्सा देखल भी ठीक बा।
+12. **रोशनी देखे खातिर छोट ड्राइव।** सजावट वाला घर के सामने से शांत ड्राइव, भीड़ वाला कार्यक्रम से आसान हो सकेला।
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+अगर खाना बनावल व्यक्ति के जीवन के बड़ हिस्सा रहल बा, त [घर के काम गतिविधि के रूप में](/activities/household-tasks/) वाला गाइड में रसोई के काम के सुरक्षित और संतोषजनक बनावे के अउर तरीका बा।
 
-## How do I prepare guests?
+## मेहमानन के कइसे तइयार करीं?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+आवे से पहिले मेहमानन के बताईं कि का होखी, खासकर उ रिश्तेदार जे कुछ दिन से ना आइल बाड़े। Alzheimer's Association सुझाव देला कि साफ बताईं कि याददाश्त और व्यवहार में बदलाव बीमारी से आवेला, व्यक्ति से ना।
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **कुछ सरल सुझाव साझा करीं:** एक बेरा में एक आदमी बोलस, बात पूरा करे खातिर समय दीं, सुधारीं या सवाल-जवाब मत करीं, और शब्द समझे में मुश्किल होखे त व्यक्ति के लहजा के जवाब दीं।
+- **बताईं कि का मदद करेला और का परेशान करेला।** अगर तेज आवाज, हड़बड़ी या कवनो विषय से परेशानी होला, त ई साफ बताईं।
+- **मेहमानन से पहिले परिचय करवाईं।** व्यक्ति के फोटो देखाईं कि कवन लोग आवत बाड़े, और एक-दू कहानी सुनाईं, या दिन से पहिले कवनो छोट फोन या वीडियो कॉल कर लीं।
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+[संवाद के सुझाव](/caregiving/communication-tips/) में अउर विस्तार से बतावल बा।
 
-## What if it gets to be too much?
+## अगर बहुत ज़्यादा हो जाव त?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+मेहमान आवे से पहिले शोर से दूर एगो शांत कमरा तइयार करीं, जहां जाना-पहचाना आराम के चीज हो जइसे मनपसंद कंबल, स्वेटर या कवनो सरल गतिविधि। एकरा के जल्दी और बार-बार दीं: “का थोड़ देर कवनो शांत जगहा पर बइठल जाव?”
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+मेज से उठ जाए, जल्दी सुते चल जाए या दिन का कुछ हिस्सा छोड़ दिहला भी एगो ठीक नतीजा ह, नाकामी ना। अगर व्यक्ति परेशान हो जाए, त शांत आवाज, जाना-पहचाना गाना या दूसरा कमरा में टहलल अक्सर तर्क से ज़्यादा मदद करेला। शाम के बारे में अउर विचार खातिर [शाम की बेचैनी](/caregiving/late-day-restlessness/) वाला गाइड देखीं।
 
-## How can family far away take part?
+## दूर रहे वाला परिवार कइसे शामिल हो सकेला?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+वीडियो कॉल से रिश्तेदार भीड़ बढ़ाए बिना जुड़ सकेलन। Alzheimer's Association सुझाव देला कि कॉल के कुछ ढांचा दीं, जइसे मौसमी गाना गावल, पिछला जमावड़ा के फोटो बांटल, साथे एके व्यंजन बनावल या एके साथे त्योहारी फिल्म देखल। कॉल छोट रखीं, और लोगन से एक-एक करके बोले के कहीं, काहे कि एक साथे बोलला से बात समझे में मुश्किल होला। [फोन और वीडियो कॉल गाइड](/activities/phone-and-video-calls/) में चरण-दर-चरण विचार बा।
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+अगर व्यक्ति मेमोरी केयर में रहत बा, त मिले के नियम जांचीं और स्टाफ से कॉल सेट करे में मदद मांगीं। [मेमोरी केयर में किसे से मिलल](/activities/visiting/) वाला गाइड में बतावल बा कि का लेके जाईं और कइसे ठीक से विदा लीं।
 
-## What gifts suit someone with dementia?
+## डिमेंशिया वाला व्यक्ति खातिर कवन उपहार ठीक बा?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+सरल, सुरक्षित उपहार जवन अभी आनंद दे सकेले, सबसे बढ़िया काम करेला: मनपसंद नाश्ता, नरम कंबल या कार्डिगन, जाना-पहचाना संगीत, बड़ा अक्षर वाला कैलेंडर, या परिवार के फोटो के एल्बम। Alzheimer's Association खतरनाक औजार, जटिल इलेक्ट्रॉनिक सामान और कठिन बोर्ड गेम से बचे के सलाह देला।
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+उपहार देलो उतने ही मायने रखेला जतना लेला। उ कुकी जवन व्यक्ति बनवे में मदद कइले रहन पैक कइल जाव, या रउआ खरीदल उपहार लपेटे में उनका के लगावल जाव, त उ त्योहार में हिस्सा ले सकेलन। एगो परिवारिक फोटो खेल भी बढ़िया विचार बा: [फोटो पेयर्स](/games/photo-pairs/) चुनल कुछ फोटो के ब्राउज़र में एगो नरम मिलान वाला खेल बना देला।
 
-## Look after yourself too
+## अपनो खयाल रखीं
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+त्योहार में देखभाल के काम बढ़ जाला। केहू दोसरा के मेजबानी करे दीं या टर्की बनावे दीं, जे मुश्किल होखी ओह कार्यक्रम खातिर ना कहीं, और जब दोसर लोग व्यक्ति के साथे समय बितावत होखे त आराम कर लीं। अगर रउआ या जेकर देखभाल करत बानी उ बीमार बा, त ड्राइववे से हाथ हिलावल या वीडियो कॉल भी एगो बढ़िया मुलाकात ह। अउर सहारा खातिर [देखभालकर्ता के अपना खयाल](/caregiving/caregiver-self-care/) वाला गाइड देखीं।

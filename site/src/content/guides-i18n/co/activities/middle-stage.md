@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Attività per a dimenza à u stadiu mediu"
+seoTitle: "Attività per a dimenza à u stadiu mediu: idee semplici"
+description: "Attività semplici per a dimenza à u stadiu mediu: faccende utile, musica, ritratti è ghjochi faciuli, cù preparazione passu à passu è modi per canalizà l’agitazione."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  À u stadiu mediu di a dimenza, l’attività più adatte sò corte, famigliari è
+  divise in passi unichi: piegà a biancheria, assurtisce e calzette, lavà i
+  piatti, cantà, camminate accumpagnate, album di ritratti è ghjochi simplici di
+  fiure. Preparate e cose, mustrate u primu passu, pigliate in carica e parte
+  più difficiule è date un scopu à l’attività. Firmatevi quandu ùn hè più
+  piacevule.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "E faccende famigliari di a casa spessu funzionanu bè perchè danu un sintimentu d’utilità è di rispettu."
+  - "Mustrate piuttostu chè spiegà, prupunite un passu à a volta, è date duie scelte simplici invece di dumande aperte."
+  - "Pigliate in carica a parte più difficiule per chì a persona possa fà a parte più gratificante."
+  - "Un cumpurtamentu agitatu spessu vole dì chì a persona hà bisognu di qualcosa da fà. Pruponite una attività adatta invece di dì di nò."
+  - "Fighjulà, aiutà un pocu o firmassi prima sò tutte pussibilità accettevule."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Chì attività sò adatte per a dimenza à u stadiu mediu?"
+    a: "L’attività corte, famigliari è pratiche funzionanu di solitu megliu: piegà l’asciugamani, mette inseme e calzette, lavà i piatti, apparecchià a tavula, cantà vechje canzone cunnisciute, fà camminate accumpagnate, fighjulà album di ritratti è ghjucà à ghjochi simplici di fiure. Dividite ogni attività in passi unichi è fatela inseme."
+  - q: "Cumu possu aiutà una persona chì campa cù a dimenza à principià una attività?"
+    a: "Preparate tuttu, po cuminciate voi l’attività è invitate a persona à aiutà: «Mi puderiate dà una manu cù st’asciugamani?» Parechje persone volenu participà ma trovanu difficiule di cumincià. Mustrà u primu passu funziona spessu megliu chè spiegallu."
+  - q: "Chì possu fà quandu a persona ripete sempre a listessa cosa?"
+    a: "A ripetizione hè spessu senza periculu è pò esse un segnu chì a persona vole sente si occupata o hà bisognu di esse rassicurata. Invece di currege, prupunite una attività chì currisponde à u muvimentu, cum’è un paneru di panni da piegà o una canzona da cantà inseme."
+  - q: "È s’ella face l’attività di manera sbagliata?"
+    a: "S’ellu ùn ci hè nisun periculu, lasciate fà. L’asciugamani piegati in un altru modu o e cucchjare in un locu sfarente ùn anu impurtanza. Currege pò esse vissutu cum’è una critica, mentre fà à a so manera permette à a persona di sente si capace è utile."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+U stadiu mediu di a dimenza hè spessu u più longu, è hè quellu in u quale l’attività cumincianu à avè bisognu d’un sustegnu reale. E parolle venenu menu facilmente, i passi si mischjanu, è cumincià qualcosa pò esse difficiule. Ma u desideriu d’esse utile è implicatu ferma di solitu. Cù un pocu di preparazione, una persona à u stadiu mediu pò sempre gode di assai cose, soprattuttu faccende famigliari, musica è ritratti spartuti cù voi, fiancu à fiancu.
 
-## What activities work well in middle-stage dementia?
+## Chì attività funzionanu bè in a dimenza à u stadiu mediu?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+L’attività corte, famigliari è pratiche, divise in passi unichi, funzionanu megliu. L’[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) dice chì ùn hè micca necessariu d’inventà cose nove da fà: l’attività ponu fà parte di a vita d’ogni ghjornu, cum’è preparà a cena inseme, giardinà, ascultà musica o andà à spassu.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+L’[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nota chì e persone à stu stadiu anu spessu un forte bisognu di sente si utile o di piglià cura di qualcosa, è anu bisognu d’aiutu per principià o cuntinuà l’attività. A so lista per u stadiu mediu include piegà a biancheria, lavà i piatti, assurtisce e calzette, fà esercizii faciuli, ballà nantu à musica cunnisciuta, camminate accumpagnate, cantà inseme, pitturà in modu simplice è fighjulà album di ritratti.
 
-## How do you set up an activity so it works?
+## Cumu preparà una attività perchè funzioni?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+A maiò parte di l’attività riesce o ùn riesce micca in a preparazione. St’abitudine, prese da l’[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) è da a [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), facenu a più grande differenza:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Liberate u spaziu.** Spenghjte a televisione, chjudite a porta è lasciate fora solu ciò chì serve per l’attività.
+2. **Cuminciate voi.** Principiate à piegà o à girà è invitate a persona: «Mi pudete aiutà cù què?»
+3. **Mustrate, po aspettate.** Fighjate un passu. Indicate o guidate cù a manu, per esempiu mustrendu induve và u piattu.
+4. **Date un passu à a volta.** «Piegatelu à a mità» hè più faciule chè «piegate questi è mettiteli in pila per culore».
+5. **Pruponite duie scelte, micca dumande aperte.** «L’asciugamani turchini o i bianchi?» hè più faciule à risponde chè «Chì vulite fà?»
+6. **Fate voi a parte difficiule.** Voi misurate, a persona gira. Voi infilate l’agulla, a persona avvolge u filu.
+7. **Date un mutivu.** «Sti tovaglioli sò per u pranzu di dumenica» face chì u travagliu pari reale.
+8. **Lasciate fighjulà s’ella preferisce.** U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nota chì ancu solu fighjulà pò esse piacevule.
 
-## Activity ideas for the middle stage
+## Idee d’attività per u stadiu mediu
 
-### Useful jobs
+### Faccende utile
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Piegà asciugamani è panni.** L’uggetti chjuchi è piani sò i più faciuli. Un paneru di panni caldi pò esse piegatu, lisciatu è piegatu torna.
+- **Mette inseme e calzette.** Cuminciate cù pocu paghje assai sfarente. Assurtisce solu per culore va bè dinù.
+- **Lavà o asciugà piatti infrangibili.** L’acqua calda è insapunata hè piacevule per e mani. Asciugà stendu hè più faciule per e gambe.
+- **Apparecchià a tavula.** Date un tippu d’ughjettu à a volta, è preparate un postu voi cum’è mudellu.
+- **Aiutà à preparà a cena.** Lavà e patate, strappà a lattuga o girà in una ciotula. Voi vi occupate di i cultelli è di u calore.
+- **Spazzà, spulverà o pulisce.** Un pannu per a tavula, una scopa ligera per u balcone.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Vidite [faccende di a casa](/activities/household-tasks/) per assai altre idee.
 
-### Music and movement
+### Musica è muvimentu
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Cantà vechje canzone preferite.** Cuminciate à cantà voi; parechje persone si uniscenu à e canzone ch’elli cunnoscenu dapoi decine d’anni. Vidite [attività cù a musica](/activities/music/).
+- **Ballà liberamente.** Ondulate, battite e mani o muvitevi cum’ellu vi face piace. Fà lu stendu va bè.
+- **Lanciassi un pallone.** Si move pianu pianu è hè faciule da piglià ancu da una sedia.
+- **Fà una caminata accumpagnata.** Fate inseme un giru cortu è cunnisciutu, bracciu à bracciu s’ellu aiuta.
 
-### Pictures and stories
+### Ritratti è storie
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Fighjulà un album di ritratti.** Cumentate ciò chì vidite invece di fà dumande: «Fighjate sta vittura. Parlatemi d’ella.» Vidite [attività di ricordi](/activities/reminiscence/).
+- **Aduprà carte di cunversazione.** [Carte di cunversazione](/games/conversation-cards/) assucianu una fiura à una dumanda aperta, senza prova.
+- **Fighjulà inseme un vechju filmu.** Sceglite un filmu cunnisciutu, state vicinu è fate pause.
 
-### Simple, pressure-free games
+### Ghjochi simplici, senza pressione
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Coppie di fiure cù e fiure visibili.** [Coppie di fiure](/games/picture-pairs/) permette di lascià e fiure visibili, cusì si tratta d’osservà, micca di ramintassi.
+- **Truvà a listessa.** [Truvà a listessa](/games/find-the-same/) mostra una fiura è solu duie à quattru scelte.
+- **Assurtisce inseme.** [Assurtisce inseme](/games/sort-together/) hè cum’è assurtisce a biancheria nant’à u screnu: tuccate una fiura, po u so paneru.
+- **Bingo di fiure.** [Bingo di fiure](/games/picture-bingo/) funziona bè per e riunioni di famiglia è i gruppi.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+S’ellu un ghjocu cumincia à creà frustrazione, firmatevi è fate qualcosa d’altru. Vidite [cumu ghjucà inseme](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Trasfurmà l’agitazione in una attività
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Un cumpurtamentu agitatu o ripetitivu hà spessu una ragione. A Family Caregiver Alliance face nutà chì una persona chì svota sempre un armariu pò circà di risponde à un bisognu d’esse occupata è utile. L’Alzheimer’s Association suggerisce di canalizà st’energia in una attività adatta, invece di fermalla.
 
-| What you see | Something to offer |
+| Ciò chì vidite | Ciò chì pudete prupone |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Sfriscà o pizzicà una tavula | Un pannu umitu è a dumanda di pulisce a tavula |
+| Piedi inquieti o tamburinu | Musica cù un ritimu chjaru per seguità battendu o battendu e mani |
+| Svutà cassetti o armarii | Un paneru di vestiti o di panni da piegà è assurtisce |
+| Fà sempre a listessa dumanda | Rassicurazione, po una canzona o una faccenda da fà inseme |
+| Andà avanti è indè | Una caminata inseme, o una faccenda chì implica di purtà cose |
+| Malessere à a fine di u dopu meziornu | Una faccenda calma è famigliara in una bona luce; vidite [inquietudine à a fine di a ghjurnata](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Quandu firmassi o cambià strada
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Firmatevi quandu vidite segni di stanchezza, frustrazione, imbarazzu o noia, cum’è movimenti nervosi, sopracciglia fruncite, ogetti spinti via o a frasa «Ùn ci la facciu». L’Alzheimer’s Association suggerisce di pruvà torna à un altru mumentu di a ghjurnata o di rende l’attività più simplice. Ùn furzate micca. Un rifiutu pò vene da a paura o da u fattu chì u compitu hè troppu difficiule; vidite [quandu a persona dice di nò](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Firmassi prima va bè. Hè bè dinù di stà simpliciamente inseme cù una tazza di tè. Quandu e capacità cambianu ancu di più, l’idee in [attività per u stadiu avanzatu](/activities/late-stage/) ponu esse più adatte, è [101 attività](/activities/ideas/) prupone assai altre idee da pruvà.

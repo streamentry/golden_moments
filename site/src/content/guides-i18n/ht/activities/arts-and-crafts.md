@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Atizana ak Bricolaj pou Granmoun ki Gen Demans"
+seoTitle: "Atizana ak Demans: Pou Granmoun, Pa Timoun"
+description: "Ide atizana ak bricolaj pou granmoun k ap viv ak demans, soti nan akwarèl ak kolaj rive nan aranjman flè, ak konsèy sou preparasyon, adaptasyon ak plezi nan aktivite a."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Bon atizana ak bricolaj pou granmoun k ap viv ak demans sanble ak bagay pou
+  granmoun epi yo bay sansasyon bagay pou granmoun: akwarèl, kolaj ak imaj
+  magazin, aranjman flè, ajil, kat senp oswa paj koloryaj pou granmoun. Mete
+  kèk materyèl sou tab la, ede ak premye kou a si sa nesesè, pale pandan n ap
+  travay, epi konsidere tan nou pase ansanm lan kòm pi enpòtan an. Yon pyès ki
+  fini se yon bagay anplis, se pa yon obligasyon.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Chwazi materyèl ak tèm ki sanble pou granmoun, tankou papye akwarèl, vrè flè ak imaj magazin, pa pyeèt ki klere, otokolan oswa fèy desen animasyon."
+  - "Mete aksan sou pwosesis la: koulè yo, sansasyon ajil la, konvèsasyon an. Yon pyès ki fini se yon bagay anplis, se pa objektif la."
+  - "Bay aktivite a yon rezon lè sa posib, tankou yon kat pou yon pitit pitit oswa yon dekorasyon pou tab la."
+  - "Ede moun nan kòmanse, epi fè yon pa dèyè. Kòmanse yon kou penso ansanm souvan ase."
+  - "Pwojè yo pa bezwen fini nan yon sèl fwa, epi li toujou bon pou sispann pi bonè."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Kijan mwen ka fè bricolaj la pa sanble tankou aktivite pou timoun?"
+    a: "Sèvi ak vrè materyèl atizay, tèm pou granmoun ak yon ton ki montre respè. Ranplase pyeèt ki klere ak paj desen animasyon pa papye akwarèl, twal, flè, foto magazin ak paj koloryaj ki gen detay. Pa janm fè lwanj sou travay la jan ou ta fè lwanj sou desen yon timoun; pale sou li jan ou ta pale ak nenpòt lòt zanmi granmoun."
+  - q: "Ki aktivite atizay ki mache lè demans lan pi avanse?"
+    a: "Pwojè senp ki touche sans yo souvan pi bon pita: fè gwo kou ak yon gwo penso, peze ajil mou, mete kèk flè nan yon vaz, oswa tri moso twal selon jan yo santi nan men. Ou ka bezwen kòmanse mouvman an ansanm. Gade ou ap pentire epi pale sou koulè yo se tou yon fason pou patisipe."
+  - q: "E si moun nan di li pa ka desine?"
+    a: "Retire presyon an. Eseye pwojè ki pa gen yon sèl bon repons, tankou yon kouch akwarèl, yon kolaj, oswa aranjman flè. Ou ka di tou ou bezwen èd pou yon bagay espesifik, tankou chwazi koulè pou yon kat, konsa travay la sanble tankou yon ti sèvis olye yon tès."
+  - q: "Èske paj koloryaj twò timoun pou granmoun?"
+    a: "Non, lè yo fèt pou granmoun. Chwazi paj ki gen sijè pou granmoun tankou jaden, kouvèti, machin oswa peyizaj, epi prezante yo kòm yon aktivite pou detann, pa tankou yon leson. Paj koloryaj nou yo ka enprime oswa kolore sou yon tablèt."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Atizana ak bricolaj bay moun k ap viv ak demans yon fason pou yo eksprime tèt yo ki pa depann sou jwenn mo ki jis yo. Alzheimer’s Association fè konnen pwojè atizay ka pote yon [sans akonplisman ak objektif](https://www.alz.org/help-support/caregiving/daily-care/art-music) epi yon chans pou eksprime tèt yo, pou moun k ap bay swen an ansanm ak moun ki gen demans lan. Pi enpòtan an se kenbe bagay yo pou granmoun, senp epi san presyon. Paj sa a bay ide pwojè espesifik, kijan pou prepare yo ak kijan pou adapte yo lè sitiyasyon an chanje.
 
-## What makes an art activity adult and not childish?
+## Ki sa ki fè yon aktivite atizay sanble pou granmoun epi pa pou timoun?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Yon aktivite atizay pou granmoun sèvi ak vrè materyèl, sijè pou granmoun ak yon ton ki montre respè. Alzheimer’s Association konseye pou kenbe pwojè yo nan yon nivo pou granmoun epi evite nenpòt bagay ki ka sanble rabesan oswa tankou aktivite pou timoun.
 
-| Feels childish | Feels adult |
+| Sanble tankou pou timoun | Sanble tankou pou granmoun |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Pyeèt ki klere, otokolan an kim, je plastik | Papye akwarèl, twal, flè prese |
+| Fèy koloryaj ak desen animasyon | Paj koloryaj ak jaden, kouvèti, machin oswa peyizaj |
+| Lwanj tankou « Bon travay » pou chak mak | Vrè konvèsasyon: « Ble sa a bèl bò kote vèt la » |
+| Yon bricolaj ki pa sèvi pou anyen | Yon kat pou yon zanmi, yon dekorasyon, yon kado |
+| Enstriksyon ki sanble tankou yon leson | Yon envitasyon: « Èske ou ta renmen ede m ak sa a? » |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Panse sou sa moun nan renmen. Yon moun ki te renmen koud ka pran plezi pou manyen twal. Yon ansyen enjenyè ka prefere yon ti modèl ak gwo pyès oswa tri materyèl pou yon pwojè. Yon ansyen pwofesè ka renmen fè kat.
 
-## Why focus on the process, not the product?
+## Poukisa mete aksan sou pwosesis la, pa rezilta a?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Paske tan nou pase ansanm lan se sa ki pi enpòtan. Gid Alzheimer’s Association sou [aktivite lakay](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) di pou konsantre sou pwosesis la, pa rezilta a. Yon penti ki « jis ble » se toujou yon penti. Yon kolaj ki gen twa foto se toujou yon kolaj.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Asosyasyon an fè konnen tou yon atis ki gen anpil eksperyans ka vin fristre lè travay li chanje, pandan yon moun ki pa t yon atis pwofesyonèl ka pran plezi nan yon nouvo chans pou eksprime tèt li. Si moun nan te yon atis ki gen anpil ladrès, eseye yon lòt kalite materyèl pase sa li te metrize a, konsa aktivite a sanble tankou yon jwèt olye yon konparezon.
 
-## Arts and crafts ideas to try
+## Ide atizana ak bricolaj pou eseye
 
-Each idea includes how to make it simpler if it becomes hard.
+Chak ide gen yon fason pou fè li pi senp si li vin difisil.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Kouch akwarèl.** Mouye yon fèy papye akwarèl epè epi kite moun nan mete koulè sou li ak yon gwo penso. Koulè yo gaye poukont yo, kidonk pa gen move rezilta. *Pi senp:* ofri sèlman de koulè, oswa pentire ak dlo sou yon papye fonse ki montre mak mouye yo.
+2. **Kolaj magazin.** Koupe foto davans nan magazin sou jadinaj, kwit manje, machin, vwayaj oswa ansyen pastan moun nan. Kite li chwazi epi kole imaj yo sou katon. *Pi senp:* ofri kat foto deja koupe ak yon baton lakòl, epi kole yo ansanm.
+3. **Aranjman flè.** Alzheimer’s Foundation of America sijere [aranje flè koupe ak fèy](https://alzfdn.org/dementia-activity-gardening/) pou fè dekorasyon senp selon sezon an. Sèvi ak yon vaz ki lou e ki estab ak tij ki deja taye. *Pi senp:* mete kèk tij nan yon ti tas, youn pa youn.
+4. **Kat ak flè prese.** Prese flè ki soti nan yon bouke ant paj liv pandan yon semèn, epi kole yo sou katon ki pliye. *Pi senp:* ou mete lakòl la, moun nan peze flè a desann.
+5. **Paj koloryaj pou granmoun.** Chwazi paj ki gen liy klè ak sijè reyèl. [Paj koloryaj](/games/coloring/) nou yo ka enprime oswa kolore sou ekran an lè ou tape sou yon koulè, epi sou yon pati nan foto a. *Pi senp:* pi gwo espas, mwens koulè, makè epè.
+6. **Ajil oswa pat mou.** Woule, peze ak fòme ajil ki sèch nan lè oswa pat pou modle ki mou. Peze yon fèy nan ajil la fè yon ti kare ak anprent senp. *Pi senp:* peze ak woule sèlman se deja yon aktivite konplè. Veye pou moun nan pa mete ajil nan bouch li.
+7. **Fè kat.** Alzheimer’s Association sijere pou prezante li kòm yon vrè travay: « Nou pral voye yon kat pou swete yon zanmi bon retablisman. Èske ou ka ede m? » Katon deja koupe ak kèk otokolan ak flè oswa tenm mache byen.
+8. **Album souvni.** Mete kopi ansyen foto, kat postal oswa tikè sou paj album ansanm. Pale sou chak youn pandan n ap fè sa. Gade gid nou sou [aktivite souvni](/activities/reminiscence/) pou jwenn fason dous pou pale sou tan pase.
+9. **Tablo twal ak tèksti.** Kole moso twal tankou kòdwi, vlou, twal sak ak swa sou yon katon rèd. Fè li se aktivite a; manyen li pita se yon lòt aktivite. Ou ka jwenn plis ide nan gid nou sou [aktivite sansoryèl](/activities/sensory/).
+10. **Fini bwa senp.** Pou yon moun ki te renmen travay bwa, sable yon blòk bwa ki lis oswa pentire yon ti kay zwazo nan yon twous ka sanble abitye. Retire zouti ki file epi rete la pou sipèvize.
+11. **Pentire ak mizik.** Mete yon mizik moun nan renmen epi pentire fòm oswa koulè ki ale ak santiman mizik la. Sa mete ansanm de aktivite anpil moun renmen. Gade [aktivite mizik](/activities/music/).
 
-## How do I set up an art session?
+## Kijan mwen ka prepare yon sesyon atizay?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Prepare davans.** Koupe, taye epi mete tout bagay sou tab la anvan ou envite moun nan. Tann pandan ou ap chèche sizo ka fè moman an pase.
+2. **Kenbe li senp.** De oswa twa koulè, yon penso, yon fèy papye. Twòp chwa ka fè moun nan santi l depase.
+3. **Pwoteje tab la.** Yon twal plastik oswa yon ansyen dra fè salte pa tounen yon sous enkyetid.
+4. **Chita youn bò kote lòt.** Travay sou pwòp pyès pa w bò kote pa l. Sa bay yon sansasyon nou ap fè li ansanm, pa yon sansasyon moun nan ap sipèvize l.
+5. **Ede l kòmanse.** Alzheimer’s Association fè konnen ou ka bezwen kòmanse mouvman penso a ansanm ak moun nan. Yon fwa li kòmanse, anpil moun kontinye.
+6. **Pale pandan n ap travay.** Fè kòmantè sou koulè ak tèksti, oswa kite atizay la mennen nan istwa. Evite kesyon ki sanble tankou yon egzamen, tankou « Kisa sa ye? »
+7. **Bay ase tan.** Yon pwojè pa bezwen fini nan yon sèl fwa.
 
-## How do I adapt art as dementia changes?
+## Kijan mwen ka adapte atizay lè demans lan chanje?
 
-| Stage | What tends to work | What to adjust |
+| Etap | Sa ki souvan mache | Sa pou ajiste |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Bonè | Klas, paj koloryaj ki gen detay, album souvni, fè kat, pentire apati yon foto | Ofri chwa pwojè; kenbe li sosyal |
+| Mwayen | Kolaj deja koupe, kouch akwarèl, aranjman flè, koloryaj ak gwo espas | Yon etap alafwa; ou okipe koupe ak kole |
+| Pita | Gwo kou penso, peze ajil, manyen twal, gade ou ap pentire | Mete aksan sou sans yo; gide men l dousman si li dakò |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS sijere ke nan etap pita yo, aktivite yo souvan vin pi senp epi yo konsantre sou sans yo. Gade yon lòt moun ap pentire, epi pale sou koulè yo, se yon vrè fason pou patisipe. Pou plis ide etap pa etap, gade [aktivite pou chak etap](/activities/ideas/).
 
-## Safety with art supplies
+## Sekirite ak materyèl atizay
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Chwazi penti, makè ak baton lakòl ki pa toksik.
+- Kenbe sizo, kouto atizana ak pistol lakòl cho lwen kote moun nan ka rive. Fè nenpòt koupe ou menm, davans.
+- Veye si nenpòt moun ap mete ajil, penti oswa ti bagay nan bouch li.
+- Sèvi ak resipyan ki estab e ki lou pou dlo ak vaz.
 
-## When should we stop?
+## Kilè nou ta dwe sispann?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Sispann lè atansyon moun nan diminye oswa lè li kòmanse montre li fristre. Alzheimer’s Association sijere pou fini oswa chanje yon aktivite lè atansyon an diminye oswa lè fristrasyon an ogmante. Mete pwojè a yon kote ki an sekirite epi ofri yon bagay ki kalm. Ou ka retounen sou li demen, oswa pa janm retounen sou li. Tou de chwa yo bon.
 
-## Display the work, if the person wants
+## Montre travay la, si moun nan vle
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Mete yon penti sou frijidè a oswa ankadre yon kolaj ka yon fason trankil pou montre respè. Mande l anvan. Gen kèk moun ki renmen wè travay yo sou miray la; lòt moun pito pa wè yo.
 
-## Pair art with our games
+## Mete atizay ansanm ak jwèt nou yo
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Nan jou kote prepare penti se twòp travay, [Coloring](/games/coloring/) mache sou yon tablèt san salte. [Picture Puzzle](/games/picture-puzzle/) kenbe tout foto a vizib kòm yon gid pandan ou ap chanje pyès yo. [Conversation Cards](/games/conversation-cards/) ofri kesyon ouvè ki ka mennen soti nan yon foto rive nan yon istwa. Tout jwèt yo pa gen revèy ni nòt. Ou ka enprime paj tou nan koleksyon [aktivite pou enprime](/activities/printable/) nou an.

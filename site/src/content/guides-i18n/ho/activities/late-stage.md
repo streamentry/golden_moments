@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Gaukara Late-Stage Dementia Ena: Bed Bona Chair Ai"
+seoTitle: "Late-Stage Dementia Gaukara: Bed Bona Chair"
+description: "Late-stage dementia taudia edia malumalu gaukara, bed eiava chair ai: ane, tauanina, duahiduahi, regena bona hebou noho, bona naria herevadia."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Late-stage dementia ai, gaukara be hereva badadia bona oi ida noho
+  ai ia noho: ia ura henia ane abia, imana dogoatao, malumalu imana
+  massaji, duahiduahi, laulau itaia, natura regena, bona window kahana
+  eiava murimuri ai noho. Gaukara iauna ibounai bed eiava chair ai diba.
+  Nega kwadogi abia, vaira bona imadia itaia bema ia namo eiava ia
+  hisihisi, bona laloatao noho be gaukara momokani.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Hebou be noho diba. Late stage ai, tanobada be hereva badadia amo ia dibaia."
+  - "Ane, malumalu tauanina, diba regena bona malumalu gaukara imana ai dogoatao be taudia haida dekenai ia lao, hereva ia doko neganai."
+  - "Inai idea ibounai kahirakahira be bed eiava chair ai noho tauna ida karaia diba."
+  - "Vaira, imadia bona hodiho itaia bema ia namo, bona hisihisi toana ia hedinarai neganai do duaheni."
+  - "Maragi kikina gaukara do umui naria, bona aniani eiava ranu be dokta taudia ia gwauhamata dalana sibona ai henia, badina hadokoa be kerere diba."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Late-stage dementia tauna bed ai ia noho neganai, dahaka gaukara karaia diba?"
+    a: "Ia ura henia ane abia, imana dogoatao, malumalu imana massaji losioni ida karaia, ia ura henia buka eiava guriguri duahiduahi, laulau hahedinaraia, eiava malumalu natura regena abia. Kateni kehoa ia murimuri itaia totona. Nega kwadogi, gaukara tamona tamona be namo."
+  - q: "Late-stage dementia taudia be ane moalelaia diba?"
+    a: "Haida be diba. Alzheimer's Association ia gwau late stage ai ta tauna be ane ena beat ia bota eiava ia maragi neganai ena ane ia ane hebou diba. Ia maragi neganai ia ura henia ane abia, bona regena do malumalu."
+  - q: "Edena dala ai lau diba ia gaukara ia moalelaia?"
+    a: "Toana maragidia itaia: pagena ia malumalu, vaira ia malumalu, mata itaia, hum karaia, imana ia gigia eiava hodiho ia malumalu. Vaira ia hisihisi, ia laka daudau, ia noho namonamo lasi eiava ia tai be hisihisi eiava dika toana diba. Unai itaia neganai do duaheni, bona ia noho dounu bema naria taudia hamaoroa."
+  - q: "Ia lau ia diba lasi neganai, lau vadivadi be anina ia noho, a?"
+    a: "Io. National Institute on Aging ia gwau noho hebou sibona be ia hamalumalu diba, bona tauanina, ane bona sivarai be advanced dementia ai namo henia diba. Oiemu regena bona imamu tauanina be ia diba diba, oi ladamu ia laloa lasi be."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Late-stage dementia ai, tauna be hereva maragi sibona ia hereva, dina ibounai naria ia ura henia, bona dina momo bed eiava chair ai ia noho. Unai dainai ita laloa gaukara ma haida be lasi. Gaukara ia noho. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ia gwau tauna ena sibona maragina haida be ia noho diba, bona inai neganai tanobada be hereva badadia amo ia dibaia. Ane, tauanina, diba regena bona oiemu malumalu hebou be namo bona hebou negadia maragidia hahedinaraia diba.
 
-## What activities help in late-stage dementia?
+## Late-stage dementia ai dahaka gaukara ia durua?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Malumalu hereva badana gaukara bona malumalu hebou be late stage ai ia durua momo. Alzheimer's Association ia gwau ia ura henia ane abia, anina bada bukadia kahadia duahiduahi, ia ura henia bonana losioni ida kopina tauanina, bona dina namo ai murimuri ai hebou noho. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ia gwau sivarai hamaoroa, laulau hahedinaraia, malumalu tauanina eiava massaji, ane, white noise eiava natura regena, bona oi noho sibona be ia hamalumalu diba.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ia gwau late-stage taudia be namo totona gau ta dogoatao ura ia bada diba, bona malumalu hereva badana gaukara, malumalu stretch, scarf gabuana, ane, animal vadivadi, taunimanima tauanina bona free-form art ia hahedinaraia.
 
-## Activities for someone in bed or a chair
+## Bed eiava chair ai noho tauna edia gaukara
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Ena ane abia.** Ia maragi neganai ena ane, ena tomadiho ane eiava ena ruma bese ane abia. Regena do malumalu, bona kahana ai noho. Harihari danu, haida be imadia kwarana ia bota eiava ia hum. [Ane gaukara](/activities/music/) itaia.
+2. **Imana dogoatao.** Imana dogoatao sibona, malumalu imana kwarana ida, be gaukara. Oi karaia gauna gini gunalaia.
+3. **Malumalu imana massaji henia.** Losioni maragi imamu ai abia, bona imana kwarana amo imana kwarana dokona lao. Losioni bonana lasi abia, eiava ia ura henia bonana ia kopina ia namo bema.
+4. **Duahiduahi.** Ia ura henia poem, ena buka namo kahana, Baibul kahana eiava sports pepa kahana. Oiemu regena ena dalana be hereva ia hanaia.
+5. **Sivarai hamaoroa.** Ruma bese lao eiava headava dina sivaraina herevalaia. Ia haere lasi be namo.
+6. **Laulau hahedinaraia.** Laulau badana tamona abia, matana kahana ai dogoatao, bona namo ida herevalaia. Daika be ia henia totona do naria lasi.
+7. **Malu gaukara imana ai henia.** Lolea washcloth, fleece maragina eiava malumalu animal. NIA ia gwau tauna ia gabuana neganai washcloth henia, ia oi eiava gaukara do ia dogoatao lasi totona.
+8. **Natura regena abia.** Medu, davara eiava manu regena malumalu ai abia be ruma regena ia hamalumalu diba.
+9. **Muri murimuri ai abia mai.** Kateni kehoa, window murinai manu aniani gauna atoa, eiava palaupa bona au maragidia abia mai itaia bona tauanina totona.
+10. **Murimuri ai lao.** Tauna be wheelchair ai noho diba bema, dina namo ai kerukeru gabuna ai miniti haida be namo.
+11. **Huina burushia eiava ranu siahu washcloth henia.** Malumalu, nega daudau naria gaukara bona ranu siahu washcloth imana bona vaira totona be namo.
+12. **Ane ida malumalu gabuana.** Scarf maragi hebou gabuana, eiava ane dalana ai imadia gabuana. Stretch bona joint gabuana totona, physical therapist eiava nurse oi hahedinaraia naria daladia gini.
+13. **Free-form art karaia.** Non-toxic paint pepa badana ai sponge eiava imana ida halasia, oi imamu ida. Dala maoromaoro be lasi.
+14. **Animal vadivadi abia dae.** Malumalu animal bed eiava imana ai, bema tauna be animal ia ura henia bona gabuna ia namo bema.
+15. **Hebou malumalu hodiho.** Kahana ai noho bona malumalu, regena ida hodiho. [Calm breathing](/games/calm-breathing/) be umui ruaosi ia hakaua diba, bona oi ia hamatamaia oi ia duaheni.
+16. **Noho sibona.** Kahana ai noho, hum karaia, knit karaia eiava malumalu duahiduahi. Noho sibona be ia namo.
 
-## How to share an activity at this stage
+## Inai neganai gaukara edena dala ai hebou karaia
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Vaira kahana amo lao.** Ena ladana bona oi ladamu gwau, bona malumalu, daudau hereva tauanina lasi gini.
+- **Gau tamona sibona henia.** Ane abia lasi gini TV duaheni. Nega tamona ai hereva badana tamona.
+- **Nega kwadogi abia.** Miniti haida be ia namo. Dina lalonai nega kwadogi momo be nega daudau tamona ia hanaia.
+- **Gini ia noho namonamo.** Tauna ia noho namonamo itaia. NIA ia gwau ia noho daenai lap board henia, imadia ia hamauria bona tauanina ia durua totona.
+- **Haere itaia.** Imadia ia malumalu, vaira ia malumalu, mata itaia eiava hum be namo toana. NIA ia gwau tai, vaira ia hisihisi, tauanina kahana ia gima eiava harihari ia kerere be dika toana diba. Duaheni, bona naria taudia hamaoroa.
 
-## A quick guide by sense
+## Hereva badana amo itaia dala
 
-| Sense | Ideas | Take care |
+| Hereva badana | Idea | Naria |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Kamonai | Ia ura henia ane, oi duahiduahi regena, natura regena | Regena malumalu; nega tamona ai regena tamona |
+| Tauanina | Imana massaji, imana dogoatao, malumalu dabua, ranu siahu washcloth | Gini gwau eiava hamaoroa; kopina ia dika eiava ia pakaru lasi itaia |
+| Itaia | Laulau, palaupa, window amo itaia, nega daudau natura vidio | Gaukara matana kahana ai dogoatao; diari namo, diari ia huanai lasi |
+| Bonana kamonai | Ia ura henia losioni, palaupa matamata, kahana ai kofi ia karaia | Bonana goada naria; allergy bona hodiho itaia |
+| Aniani toana | Ia ura henia aniani toana maragi | Dokta taudia ia gwauhamata aniani bona daladia sibona henia |
 
-## Safety at this stage
+## Inai neganai naria gauna
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Late stage ai hadokoa be auka diba, bona NIA ia gwau unai be hadokoa kerere ena dika ia habadaia. Maragi kikina gaukara do kahana ai atoa lasi, bona dokta taudia ia gwauhamata aniani maragina bona noho dalana sibona ai henia. Tauanina gaukara lalonai kopina malumalu itaia, badina kopina be harihari ia pakaru eiava ia dika diba. Namo hereva badana idea haida totona, [hereva badana gaukara](/activities/sensory/) itaia.
 
-## Looking after yourself too
+## Oiemu sibomu danu naria
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Late-stage naria be tauanina bona lalona ai auka, ruma ai eiava naria ruma ai vadivadi neganai. Hospice bona palliative care taudia be namo, durua bona plan totona ia durua diba, bona NIA ia gwauraia unai be durua gabuna. Nega kwadogi, malumalu vadivadi be anina ia noho; [dementia tauna vadivadi](/activities/visiting/) itaia. Bema oi be group oi hakaua, [naria ruma group gaukara](/activities/care-home-groups/) ai dala haida ia noho. Bona [naria tauna sibona naria](/caregiving/caregiver-self-care/) duahia: laga-ani be namo naria kahana.

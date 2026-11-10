@@ -1,34 +1,30 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Aktivnosti za osobe s demencijom: 101 jednostavna ideja"
+seoTitle: "Ideje za aktivnosti kod demencije: 101 jednostavna aktivnost"
+description: "101 jednostavna aktivnost za odrasle osobe koje žive s demencijom, od slaganja ručnika do muzike i fotografija, uz savjete kako prilagoditi svaku kad stvari postanu teže."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Dobre aktivnosti za osobe s demencijom su poznate, prilagođene odraslima i lako ih je dijeliti: slaganje veša, razvrstavanje, kuhanje, muzika, gledanje fotografija, šetnja, baštovanstvo, vrijeme s kućnim ljubimcem i jednostavne igre. Izaberite ono što je osoba oduvijek voljela, preuzmite teže dijelove i stanite kad se umori. Prijatno vrijeme zajedno važnije je od toga da se nešto završi.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Polazite od vlastitog života osobe: njen posao, hobiji, vjera i omiljena muzika najbolji su vodič."
+  - "Po potrebi pojednostavite svaku aktivnost: manje koraka, manje izbora, vi radite teži dio."
+  - "Gledanje, držanje nečega ili jednostavno sjedenje u blizini također se računaju kao učešće."
+  - "Stanite ili promijenite aktivnost kad primijetite umor, frustraciju ili dosadu. Rani prekid je dobar ishod."
+  - "Raditi zajedno važnije je od toga da se radi ispravno."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Koje aktivnosti su dobre za osobu s demencijom?"
+    a: "Poznate aktivnosti koje je osoba radila godinama, malo pojednostavljene: slaganje veša, postavljanje stola, kuhanje, muzika, gledanje fotografija, šetnja, baštovanstvo i vrijeme s kućnim ljubimcem. Birajte stvari koje djeluju odraslo i korisno i radite ih zajedno."
+  - q: "Koliko bi aktivnost trebala trajati?"
+    a: "Nema tačne dužine. Nekad nekoliko minuta slaganja ručnika može biti dovoljno, a drugi put sat vremena u bašti može biti lako. Neka osoba odredi tempo i završite dok je još prijatno."
+  - q: "Šta ako osoba odbija da radi aktivnost?"
+    a: "Ne forsirajte. Odbijanje može značiti da je zadatak pretežak, da je vrijeme loše izabrano ili da je osoba umorna ili nelagodno. Pokušajte kasnije, ponudite manju verziju ili sami počnite zadatak u blizini i pozovite je da pomogne."
+  - q: "Jesu li mozgalice dobre za osobe s demencijom?"
+    a: "Igre mogu biti prijatan način da provedete vrijeme zajedno, ali nijedna igra nije pokazala da liječi, usporava ili zaustavlja demenciju. Birajte igre bez tajmera, bodova i zvukova za pogrešan odgovor i tretirajte ih kao zajedničku aktivnost, a ne kao test."
+  - q: "Kako da aktivnosti ne djeluju djetinjasto?"
+    a: "Koristite prave, odrasle materijale: prave ručnike, prave recepte, muziku za odrasle, likovni pribor i slike s odraslim temama. Predstavite zadatke kao pomoć koja vam je zaista potrebna i razgovarajte s osobom kao s odraslom osobom kakva jeste."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +46,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Najbolja aktivnost za osobu koja živi s demencijom obično je nešto što already zna da radi, malo pojednostavljeno i urađeno uz nekoga kome vjeruje. Ispod su 101 ideja, grupisane po vrsti, svaka sa načinom pripreme i kako je olakšati kad postane teža. Ne trebate posebnu opremu i ne morate ništa završiti. Dobro popodne može biti jedna korpa ručnika i šolja kafe zajedno.
 
-## How do you choose the right activity?
+## Kako odabrati pravu aktivnost?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Birajte prema osobi, a ne prema spisku: počnite od onoga što je oduvijek voljela i što danas može udobno da radi.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Razmislite o poslu i hobijima.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) predlaže da bivši službenik može uživati u sortiranju novčića ili pripremi pošiljki, a baštovan u radovima u dvorištu.
+- **Primijetite šta već radi.** Ako vaš tata svako jutro bez traženja pometa trijem, uklopite to u dan.
+- **Planirajte oko ograničenja.** Umor, vid, sluh, bolne ruke i ravnoteža su sve važni.
+- **Pratite raspoloženje.** Aktivnosti s puno kretanja i buke nekima prijaju, a druge plaše.
+- **Dajte joj svrhu.** Slaganje salveta za crkveni ručak djeluje vrednije od vježbe radi vježbe.
 
-### A rough guide by stage
+### Okvirni vodič po fazama
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Demencija se često opisuje ranom, srednjom i kasnom fazom. To su labave oznake, a ne kutije, i mnogi ljudi imaju bolje i teže dane, pa se rukovodite onim što vidite danas. [Spisak Alzheimer's Foundation of America po fazama](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) prati sličan obrazac.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Tema | Rana faza | Srednja faza | Kasna faza |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Šta možete primijetiti | Uglavnom samostalna; planiranje, nova imena i gužve postaju teži | Treba pomoć pri početku i u koracima; riječi dolaze teže | Treba pomoć uz većinu svakodnevnih potreba; čula su najvažnija |
+| Aktivnosti koje često odgovaraju | Karte, društvene igre, kuhanje, baštovanstvo, pisanje dnevnika, izleti, klubovi | Slaganje veša, razvrstavanje, jednostavni koraci u kuhanju, pjevanje, albumi s fotografijama, vođene šetnje | Omiljena muzika, masaža ruku, mekane stvari za držanje, čitanje naglas, sjedenje na otvorenom |
+| Vaša uloga | Partner: pitajte kakvu podršku želi | Pripremite, pokažite, preuzmite teže dijelove | Donesite aktivnost do nje; vaše društvo je aktivnost |
+| Više ideja | [Rana faza](/activities/early-stage/) | [Srednja faza](/activities/middle-stage/) | [Kasna faza](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Kako započeti aktivnost s osobom koja ima demenciju?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Počnite malo, počnite uz nju i olakšajte joj da kaže da. Mnogi ljudi i dalje žele učestvovati, ali im je teško da isplaniraju ili počnu.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Izaberite njeno najbolje vrijeme,** često jutro.
+2. **Unaprijed sve pripremite** da možete odmah početi.
+3. **Tražite pomoć, a ne izvedbu:** "Biste li mi pomogli s ovim?"
+4. **Započnite sami.** Složite prvi ručnik i pustite je da se pridruži. Pokazivanje je bolje od objašnjavanja.
+5. **Ponudite jedan korak po jedan.**
+6. **Preuzmite najteži dio.** Alzheimer's Association predlaže da sami izmjerite sastojke, a zatim predate kašiku za miješanje.
+7. **Neka bude urađeno na njen način.** Drugačije složeni ručnici su u redu.
+8. **Stanite kad prestane biti prijatno.** Nemir, namrštenost ili "ne mogu" znaci su da treba promijeniti aktivnost ili se odmoriti.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Vidi i [kako igrati zajedno](/caregiving/how-to-play-together/) i [savjete za komunikaciju](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Svakodnevni poslovi kod kuće
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Kućni poslovi su poznati i korisni, što ih čini prirodnim mjestom za početak. [Nacionalni institut za starenje](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) (NIA) navodi suđe, postavljanje stola, pometanje, sortiranje pošte i slaganje veša među aktivnostima koje ljudi mogu voljeti. Više u [kućnim poslovima](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Složite tople ručnike.** Istresite korpu iz sušilice na sto i slažite ih jedan pored drugog. Kasnije je uglačavanje i slaganje u stog jednako korisno.
+2. **Spajajte čarape.** Počnite s vrlo različitim bojama. Kasnije je dovoljno razvrstati svijetle od tamnih.
+3. **Postavite sto.** Dajte po jednu vrstu predmeta. Jedno mjesto postavite sami kao primjer.
+4. **Operite ili obrišite suđe.** Topla voda sa sapunom i neizlomljivo posuđe. Sušenje sjedeći manje opterećuje noge.
+5. **Obrišite sto.** Poslije obroka dajte vlažnu krpu. To je stvaran posao za nemirne ruke.
+6. **Razvrstajte poštu.** Katalozi i reklamna pošta u "čuvati" i "reciklirati". Prave račune ostavite podalje.
+7. **Izrežite kupone.** Makaze sa zaobljenim vrhom i letci iz prodavnice. Kasnije kružiti omiljenu hranu je također dobro.
+8. **Razvrstajte novčiće.** Sortirajte sitan novac u čaše ili ga slažite u omote. Izostavite sitne predmete ako osoba stavlja stvari u usta.
+9. **Pometite ili otprašite.** Lagana metla na trijemu ili duga četka za prašinu iz stolice.
+10. **Pomozite pripremiti obrok.** Pranje povrća, kidanje zelene salate, miješanje. Vi rukujete nožem i šporetom.
+11. **Ispecite porodični recept.** Koristite karticu s receptom ako je imate, pisanu njenom rukom. Kasnije ona može biti kušač.
+12. **Radite kancelarijske poslove.** Presavijajte pisma, punite i lijepite marke na koverte ili zajedno pišite spisak za kupovinu.
 
-## Music
+## Muzika
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Poznata muzika može doprijeti do ljudi i kad su riječi teške. [Muzički savjeti Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) predlažu poznate pjesme, bez reklama i s isključenim televizorom. Pogledajte [muzičke aktivnosti](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Napravite lični plejlist.** Muzika iz njene mladosti i dvadesetih, sa vjenčanja, iz njene crkve ili džamije i iz njene kulture.
+14. **Pjevajte zajedno.** Počnite sami pjevati. Podmetanje glasa ili slušanje se također računa.
+15. **Držite ritam.** Pljeskajte, lupkajte po koljenima ili svirajte ručni bubanj. Može se raditi sjedeći i u kasnoj fazi.
+16. **Plešite.** Polagani ples u kuhinji ili ljuljanje sjedeći uz držanje za ruke.
+17. **Pustite cijeli album.** Omiljena ploča od početka do kraja, uz kafu i bez ičega drugog u pozadini.
+18. **Razgovarajte o muzici.** Pozovite na priče, a ne na činjenice: "Ispričajte mi o plesovima na kojima ste bili."
+19. **Gledajte snimljeni muzički program ili koncert.** Predstava koju su voljeli čini dobro veče. Zaustavite kad god.
+20. **Svirajte poznati instrument.** Osoba koja je nekad svirala klavir može uživati u jednostavnim komadima; kasnije nekoliko zajedničkih tonova.
+21. **Slušajte muziku uživo.** Kratak koncert u zajednici ili proba hora. Sjednite blizu izlaza.
 
-## Reminiscence: photos, objects and stories
+## Reminiscencija: fotografije, predmeti i priče
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Uživajte u prošlosti zajedno bez testiranja. Izostavite "Sjećate li se...?" i "Ko je ovo?" i koristite otvorene pozive. Pogledajte [aktivnosti reminiscencije](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Pregledajte album fotografija.** Recite šta vidite: "Kakva haljina. Ispričajte mi o ovom danu." Pratite imena koja koristi.
+23. **Napravite kutiju uspomena.** Kutija za cipele s predmetima iz njenog života, poput značke s posla ili kartice s receptom. Vadite predmete jedan po jedan.
+24. **Započnite knjigu životne priče.** Nekoliko fotografija po stranici s natpisima velikim slovima. Pomaže novim pomagačima da upoznaju osobu.
+25. **Koristite karte za razgovor.** [Karte za razgovor](/games/conversation-cards/) spajaju sliku s otvorenim pitanjem.
+26. **Napravite porodičnu igru s fotografijama.** [Parovi fotografija](/games/photo-pairs/) pretvara vaše fotografije u igru uparivanja.
+27. **Gledajte kućne filmove ili stare emisije.** Komentarišite zajedno umjesto da postavljate pitanja.
+28. **Dodirujte predmete iz radnog života.** Ključ, stetoskop, poslovna knjiga. Ruke često vode priču.
+29. **Skuvajte jelo iz djetinjstva.** Može mješati, kušati ili jednostavno sjediti s vama u kuhinji.
+30. **Pogledajte mapu mjesta u kojima je živjela.** Pratite poznate ulice u velikom atlasu dok razgovarate.
 
-## Creative activities
+## Kreativne aktivnosti
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Umjetnost je u radu, a ne u gotovom djelu. Neka materijali budu za odrasle i sigurni. Pogledajte [umjetnost i zanatstvo](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Slikajte akvarelima.** Debeo papir, nekoliko boja. Ako je početak težak, vodite prve poteze zajedno.
+32. **Bojite odrasle crteže.** Cvijeće ili prekrivači, ne crtići. Naše [stranice za bojanje](/games/coloring/) rade na ekranu ili odštampane.
+33. **Napravite kolaž.** Iscijepajte slike iz časopisa s baštama, automobilima ili hranom i zalijepite ih. Kasnije je dovoljno samo birati slike.
+34. **Aranžirajte cvijeće.** Buket iz prodavnice i vaza. Kasnije nekoliko stabljika u tegli.
+35. **Pletite ili heklajte zajedno.** Jednostavni redovi na velikim iglama. Kasnije namotavanje vune u klupka.
+36. **Pravite čestitke za porodicu.** Otisnite, potpišite ili ukrasite rođendanske i čestitke za oporavak za stvarne ljude.
+37. **Oblikujte glinu koja se suši na zraku.** Izradite malu zdjelicu. Koristite netoksične materijale i ostanite u blizini.
+38. **Brusite i završavajte drvo.** Gotov komplet za ptičju kućicu i brusni papir, bez električnih alata. Pogledajte [aktivnosti za muškarce](/activities/for-men/).
+39. **Napišite ili diktirajte pismo.** Unuku ili starom prijatelju. Ako je pisanje teško, ona govori, a vi pišete.
 
-## Outdoors and gardening
+## Na otvorenom i baštovanstvo
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Svjež zrak i dnevna svjetlost su dobro društvo. Pogledajte [aktivnosti na otvorenom i baštovanstvo](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Zalijevajte biljke.** Mala kanta i nekoliko saksija. Svakodnevno zalijevanje daje danu ritam.
+41. **Posadite saksiju.** Stavite je na sto da niko ne mora kleknuti. Sadnice su lakše od sjemena.
+42. **Čistite korov ili uklanjajte uvenule cvjetove.** Rukavice na rukama, jedna mala gredica u jednom trenutku.
+43. **Grabljajte lišće.** Jedan mali dio. Kasnije je držanje otvorene vreće pravi posao.
+44. **Šetajte poznatom rutom.** Oko bloka ili do poštanskog sandučića. Kraće je također u redu.
+45. **Sjedite zajedno napolju.** Stolica na trijemu za blag dan. Gledajte oblake ili prolaznike.
+46. **Hranite ptice.** Napunite hranilicu zajedno i gledajte s prozora.
+47. **Operite auto.** Kanta, sunđer, topao popodne. Ispiranje poklopaca točkova je dobar posao u jednom koraku.
 
-## Sensory activities
+## Čulne aktivnosti
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Dodir, miris, ukus, zvuk i vid postaju važniji kako demencija napreduje. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) spominje muziku, predmete za dodirivanje i masažu ruku za kasnije faze. Prvo provjerite alergije i rizike od gušenja; pogledajte [čulne aktivnosti](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Dajte masažu ruku.** Pitajte prvo i koristite malo losiona. Izaberite bez mirisa ako niste sigurni u kožu ili alergije.
+49. **Opipajte tkanine.** Korpa kadife, korda, vune i satena za milovanje i slaganje.
+50. **Mirišite začinsko bilje i kafu.** Protrljajte svježu metvicu ili ruzmarin među prstima. Izbjegavajte jake mirise ako ima problema s disanjem.
+51. **Počešljajte kosu.** Polako i nježno, ako to voli.
+52. **Dajte toplu krpu za lice.** Za ruke i lice za hladan dan. Prvo provjerite temperaturu.
+53. **Istražite pregaču za aktivnosti.** Veliki dugmići i patent-zatvarači čvrsto prišiveni. Provjerite da ništa ne može otpasti.
+54. **Probajte omiljenu poslasticu.** Mala kašičica, u teksturi koju može bezbjedno jesti.
+55. **Pustite zvukove prirode.** Kišu, talase ili ptičje pjevanje tiho.
+56. **Gledajte nešto sporo.** Akvarijum, snimak prirode ili padanje snijega.
 
-## Games and puzzles
+## Igre i zagonetke
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Igre rade kad nema tajmera, bodova ili pritiska. Ako jedna počne da djeluje kao test, odložite je. Pogledajte [izbor aplikacija i igara](/caregiving/choosing-apps-and-games/) i [mozgalice](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Upareni slike.** [Parovi slika](/games/picture-pairs/) ostavlja slike okrenute licem gore, pa je riječ o primjećivanju, a ne o pamćenju.
+58. **Pronađite istu sliku.** [Pronađi istu](/games/find-the-same/) nudi dva do četiri izbora. Razgovarajte o svakoj slici.
+59. **Razvrstajte u korpe.** [Razvrstaj zajedno](/games/sort-together/) je kao slaganje čarapa na ekranu.
+60. **Složite slagalicu s velikim dijelovima.** Slike za odrasle, lak broj dijelova. [Slagalica sa slikom](/games/picture-puzzle/) drži cijelu sliku vidljivom. Više u [slagalicama za demenciju](/activities/puzzles/).
+61. **Igrajte staru kartašku igru.** Onu koju je igrala godinama. Kasnije je slaganje špila po boji igra sama za sebe.
+62. **Igrajte domine.** Spajajte krajeve. Kasnije je dovoljno slagati pločice u red.
+63. **Riješite pretragu riječi velikim slovima.** Naša [pretraga riječi](/games/word-search/) ima riječi samo vodoravno i okomito i može se odštampati.
+64. **Dovršite poznate izreke.** [Dovrši izreku](/games/finish-the-saying/) vam omogućava da pokažete kraj u bilo kojem trenutku.
+65. **Igrajte bingo sa slikama.** [Bingo sa slikama](/games/picture-bingo/) pogodan je za porodicu i grupe. Slobodno označavajte karte.
+66. **Igrajte dame.** Pravila neka budu opuštena. Pomicanje figura dok razgovarate se računa.
 
-## Movement
+## Kretanje
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA predlaže šetnje, stacionarni bicikl, trake za istezanje, bacanje mekane lopte ili balona, podizanje konzervi s juhom i video vježbe za starije odrasle. Prije bilo kakve nove aktivnosti posavjetujte se s ljekarom, posebno ako postoje problemi s ravnotežom.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Bacajte balon.** Sjedite jedno naspram drugog. Kreće se polako, pa ga je lako uhvatiti.
+68. **Pratite sjedeću video vježbu** namijenjenu starijima, jedno uz drugo.
+69. **Istežite se trakom.** Nježna povlačenja ruku lakom trakom dok sjedite.
+70. **Dižite konzerve s juhom.** Polagano podizanje ruku, možda uz muziku.
+71. **Vozite stacionarni bicikl.** Nekoliko laganih minuta, uz vas u blizini.
+72. **Plešite sa šalovima.** Mašite lakim šalovima uz muziku, sjedeći ili stojeći.
+73. **Šetajte s ciljem.** Do pošte da pošaljete pismo ili do kafe. Razlog za izlazak djeluje prirodno.
+74. **Podijelite pauzu za disanje.** Usporite zajedno uz [smirujuće disanje](/games/calm-breathing/).
 
-## Social activities
+## Društvene aktivnosti
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Društvo je važno i kad su imena teška, a male grupe su lakše od velikih. NIA navodi da osoba možda neće pamtiti ko je posjetilac, ali i dalje često uživa u društvu. Pogledajte [posjete](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Primite jednog ili dva posjetioca odjednom.** Kratke posjete u tihoj sobi, uz fotografije za gledanje.
+76. **Video pozivi s porodicom.** Kratki pozivi, jedan glas po jedan. Pogledajte [telefonske i video pozive](/activities/phone-and-video-calls/).
+77. **Probajte "memory kafe".** Neformalna okupljanja za ljude koji žive s demencijom i njihove njegovatelje. Pitajte lokalnu ustanovu za pomoć starijima šta ima u blizini.
+78. **Izađite na ručak u mirno vrijeme.** NIA predlaže poznat, tih restoran van špica, sa stolom blizu toaleta.
+79. **Posjetite centar za starije ili dnevni program.** Društvo za nju i odmor za vas.
+80. **Provedite vrijeme s djecom.** Kratka, mirna posjeta unučadi ili čitanje slikovnice malom djetetu.
+81. **Podijelite novine uz kafu.** Čitajte naslove naglas. Ritual je važniji od vijesti.
+82. **Pomozite nekome drugom.** Složite programe za crkveni ili džematski skup ili napravite čestitku komšiji.
 
-## Faith and spiritual activities
+## Vjerske i duhovne aktivnosti
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Slijedite vlastitu tradiciju osobe ili nijednu. NIA predlaže poznate službe, čitanja, sakralnu muziku, molitvu, meditaciju i praznične obrede.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Idite na poznatu službu.** Izaberite mirniju, sjedite blizu prolaza i obavijestite ljude tamo o demenciji.
+84. **Pratite službu online** u dane kad je izlazak previše.
+85. **Molite se ili čitajte zajedno.** Poznate riječi, čitane polako. Može se pridružiti u dijelovima koje zna.
+86. **Pjevajte pjesme ili sakralnu muziku** iz njene tradicije.
+87. **Čuvajte praznične običaje.** Svijeće na baterije, blagoslov, ukrasi koje je uvijek koristila.
+88. **Podijelite tiho vrijeme.** Sjedite u bašti ili gledajte zalazak sunca zajedno.
 
-## Pets and animals
+## Kućni ljubimci i životinje
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA predlaže hranjenje, njegu, šetnju, ili sjedenje sa ljubimcem i držanje ljubimca.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Češljajte mirnog psa ili mačku** dugim, sporim potezima.
+90. **Hranite ljubimca zajedno.** Vi mjerite; ona sipa.
+91. **Šetajte psa zajedno.** Vi držite povodac.
+92. **Držite ljubimca u krilu.** Miran mačak na ćebetu može vrlo smiriti.
+93. **Dočekajte posjetu životinja.** Neki domovi za njegu i dnevni programi ugošćuju posjete životinja. Pitajte lokalno.
+94. **Ponudite realističnu plišanu životinju.** Ako nemate ljubimca, nekima prija da drže plišanu mačku ili psa koji izgleda stvarno. Ponudite je jednostavno, nikad kao igračku, i prihvatite odbijanje.
 
-## Seasonal activities
+## Sezonske aktivnosti
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Čuvajte tradicije, ali jednostavnije. NIA predlaže da budete realni i da imate tiho mjesto za pauze tokom praznične gužve.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Ukrasite za godišnje doba.** Bundeva, vijenac ili svježe cvijeće na stolu.
+96. **Napravite praznični kolač.** Razvaljajte tijesto ili glazirajte kolačiće. Vi rukujete rernom.
+97. **Okačite ukrase.** Ukrasi koji ne pucaju, predati jedan po jedan.
+98. **Vozite se da vidite svjetla.** Kratka večernja vožnja traži samo društvo.
+99. **Posadite proljetne lukovice.** Utisnite lukovice u saksiju u jesen i čekajte izdanke.
+100. **Ljuštite kukuruz ili mahune graška.** Ljetni poslić na trijemu, sa zdjelom u krilu.
+101. **Pišite adrese na praznične čestitke.** Ona potpisuje, lijepi marke ili zatvara; vi pišete adrese.
 
-## What if an activity is not working?
+## Šta ako aktivnost ne funkcioniše?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Stanite i pokušajte nešto drugo drugi put. NIA predlaže da pazite na frustraciju i da pustite osobu da samo gleda ako to više voli. Odbijanje često znači da je zadatak pretežak, da je vrijeme loše ili da nešto drugo smeta, kao bol, glad ili buka. Napravite zadatak manjim, probajte ranije tokom dana ili počnite sami i vidite hoće li se pridružiti. Pogledajte [kad kažu ne](/caregiving/when-they-say-no/) i [nemir u kasnim popodnevnim satima](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Da uklopite aktivnosti između obroka i odmora, pogledajte [blagi dnevni raspored](/activities/daily-routine/). Za stvari koje treba imati spremne, pogledajte [aktivnosti za štampanje](/activities/printable/), a ako vodite grupu, [grupne aktivnosti u domovima za njegu](/activities/care-home-groups/). I vaš odmor je važan: pogledajte [brigu o sebi za njegovatelje](/caregiving/caregiver-self-care/).

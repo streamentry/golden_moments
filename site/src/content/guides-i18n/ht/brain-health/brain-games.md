@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Èske jwèt sèvo anpeche demans? Sa rechèch montre"
+seoTitle: "Èske jwèt sèvo anpeche demans? Sa rechèch di"
+description: "Sa rechèch di sou jwèt sèvo ak demans: estimilasyon mantal, antrènman sou òdinatè, etid ACTIVE ak ka FTC Lumosity, eksplike klèman."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Pa gen okenn jwèt sèvo ki montre li anpeche demans. Antrènman sèvo sou
+  òdinatè sitou ede moun vin pi bon nan travay yo pratike yo. Yon etid ki soti
+  nan esè ACTIVE te jwenn yon lyen ant yon antrènman vitès espesifik ansanm ak
+  sesyon rapèl ak mwens dyagnostik demans sou 20 ane, yon rezilta sere. Pou
+  moun k ap viv ak demans deja, estimilasyon mantal an gwoup montre ti benefis
+  ki dire kout tan. Pi bon fason pou jwi jwèt yo se pou plezi ak pou pase tan
+  ansanm.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Etid sou antrènman sèvo montre moun vin pi bon nan travay yo pratike yo, men gen anpil mwens prèv ki montre sa pote benefis nan lavi chak jou."
+  - "Nan esè ACTIVE, se sèlman moun ki te fè yon antrènman vitès espesifik ansanm ak sesyon rapèl ki te gen mwens dyagnostik demans sou 20 ane. Antrènman vitès san sesyon rapèl, ak antrènman memwa oswa rezònman, pa t montre sa."
+  - "An 2016, konpayi Lumosity te peye 2 milyon dola pou rezoud akizasyon FTC ki te di li pa t gen baz syantifik pou reklam li te fè sou reta demans."
+  - "Pou moun ki gen demans modere oswa lejè, gwoup estimilasyon mantal montre ti benefis ki dire kout tan pou panse, ak benefis ki pi klè pou kominikasyon ak entèraksyon sosyal."
+  - "Jwèt Golden Moments yo se pou plezi ak pou pase tan ansanm. Yo pa yon tretman epi yo pa anpeche ni ralanti demans."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Èske jwèt sèvo anpeche alzayme?"
+    a: "Pa gen okenn jwèt sèvo ki pwouve li anpeche alzayme oswa lòt demans. National Institute on Aging di pa gen ase prèv ki montre aplikasyon komèsyal pou antrènman sèvo gen menm efè ak antrènman yo teste nan esè rechèch. Jwèt yo ka toujou yon bon fason pou pase tan."
+  - q: "Kisa esè ACTIVE te jwenn sou antrènman vitès ak demans?"
+    a: "Yon analiz 2026 te konekte patisipan ACTIVE ak dosye Medicare yo sou 20 ane. Moun ki te fè antrènman pou vitès tretman enfòmasyon ak omwen yon sesyon rapèl te gen yon to dyagnostik demans ki pi ba pase gwoup ki pa t resevwa antrènman an. Antrènman vitès san sesyon rapèl, ak antrènman memwa oswa rezònman, pa t montre yon efè enpòtan."
+  - q: "Èske devinèt ak jwèt bon pou yon moun k ap viv ak demans deja?"
+    a: "Yo ka bon, si moun nan renmen yo. Estimilasyon mantal an gwoup, ki gen ladan jwèt mo, devinèt, mizik ak konvèsasyon, montre ti benefis ki dire kout tan pou panse ak benefis ki pi klè pou kominikasyon ak entèraksyon sosyal. Objektif la se plezi, pa rezilta yon tès."
+  - q: "Poukisa FTC te bay Lumosity yon amann?"
+    a: "An 2016, Federal Trade Commission te akize Lumos Labs paske li te fè reklam sou jwèt li yo, tankou reta bès ki gen rapò ak laj ak demans, san li pa t gen baz syantifik pou sipòte sa. Konpayi an te dakò peye 2 milyon dola epi montre li gen prèv syantifik serye anvan li fè reklam konsa ankò."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,104 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Jwèt sèvo toupatou, e anpil nan yo pwomèt pou kenbe lespri ou jèn. Si w ap okipe yon moun k ap viv ak demans, oswa si w enkyete w pou memwa pa w, li nòmal pou w mande si jwe yo ka ede. Men sa rechèch aktyèlman montre, ki gen ladan pati ki ankourajan yo ak pati ki pa ankourajan yo.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Sa a se enfòmasyon jeneral, se pa konsèy medikal. Gade [avi medikal nou an](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Èske jwèt sèvo anpeche demans?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Pa gen okenn jwèt sèvo ki pwouve li anpeche demans. National Institute on Aging (NIA) konseye moun pou yo fè atansyon ak reklam ki di jwèt sou òdinatè ak sou entènèt ka amelyore memwa, epi li di pa gen ase prèv ki montre okenn aplikasyon komèsyal pou antrènman sèvo gen menm efè ak antrènman yo teste nan esè klinik ([NIA sou prevansyon alzayme](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Sa pa vle di jwèt yo pa itil. Sa vle di valè yo se nan plezi, nan konpayi ak nan woutin, pa nan pwoteje nenpòt moun kont demans.
 
-## What is "near transfer", and why does it matter?
+## Kisa “near transfer” vle di, e poukisa sa enpòtan?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Lè ou pratike yon travay, anjeneral ou vin pi bon nan travay sa a. Chèchè yo rele sa yon efè antrènman. Kesyon ki pi difisil la se si amelyorasyon sa a **transfere** nan lòt bagay: nan travay ki sanble (near transfer) oswa nan lavi chak jou, tankou sonje randevou oswa jere lajan (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Yon gwo revizyon an 2016 te egzamine etid konpayi antrènman sèvo yo te site kòm pi bon prèv yo. Li te jwenn anpil prèv ki montre moun amelyore nan travay yo te pratike yo, mwens prèv ki montre yo amelyore nan travay ki byen sanble, epi ti prèv ki montre antrènman amelyore panse nan lavi chak jou. Anpil nan etid yo te gen pwoblèm nan fason yo te fèt la, sa ki te fè li enposib pou rive jwenn konklizyon solid
+([Simons ak kòlèg li yo, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Kisa revizyon yo di sou antrènman sèvo sou òdinatè?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Revizyon Cochrane, ki rasanble pi bon esè ki disponib yo, te gade antrènman sou òdinatè ki dire omwen 12 semèn:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Granmoun ki an sante ki gen 65 an oswa plis:** uit esè ak 1,183 moun. Prèv yo te ba oswa trè ba kalite. Gen dwa gen yon ti benefis touswit apre antrènman, men pa gen prèv klè ki montre li dire
+  ([Revizyon Cochrane, granmoun ki pi aje an sante](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Moun ki gen pwoblèm mantal lejè:** uit esè ak 660 moun. Okenn esè pa t rapòte si moun yo te devlope demans apre, epi prèv yo te twò fèb pou tire konklizyon
+  ([Revizyon Cochrane, pwoblèm mantal lejè](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Kisa esè ACTIVE te jwenn?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE se yon gwo esè Ozetazini ki te kòmanse an 1998 ak 2,802 granmoun ki te gen 65 an oswa plis. Yo te viv poukont yo epi yo pa t gen gwo pwoblèm memwa oswa panse. Moun yo te plase o aza nan youn nan twa kalite antrènman an ti gwoup (vitès tretman enfòmasyon, memwa, oswa rezònman) oswa nan yon gwoup ki pa t resevwa kontak. Antrènman an te rive jiska dis sesyon sou senk a sis semèn. Kèk moun ki te fini pifò sesyon yo te resevwa ofri **sesyon rapèl** tou o aza anviwon youn ak twa ane apre.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Antrènman vitès la te mande moun yo pou yo wè epi trete enfòmasyon vizyèl nan moman ki pi kout epi pi kout, nan yon nivo ki te ajiste pandan yo t ap amelyore.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+An 2026, chèchè yo te konekte 2,021 patisipan ak dosye Medicare yo sou 20 ane ([Analiz ACTIVE sou 20 ane](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Men egzakteman sa yo te jwenn:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Antrènman vitès ansanm ak omwen yon sesyon rapèl:** yon to dyagnostik demans ki pi ba pase gwoup ki pa t resevwa kontak (yon rapò danje 0.75, ki vle di apeprè yon to 25% pi ba).
+- **Antrènman vitès san sesyon rapèl:** pa gen to ki pi ba.
+- **Antrènman memwa oswa rezònman:** pa gen efè enpòtan sou dyagnostik demans.
+- **Chak gwoup antrènman an antye konpare ak gwoup ki pa t resevwa kontak:** te gen yon tandans pou to ki pi ba, men li pa t enpòtan sou plan estatistik.
 
-### The limits of this finding
+### Limit rezilta sa a
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Li aplike pou **yon sèl kalite antrènman vitès ak sipèvizyon ansanm ak sesyon rapèl**, pa pou jwèt sèvo an jeneral.
+- Rezilta enpòtan an te soti nan yon **sougwoup** (moun ki te fini pifò premye sesyon yo epi ki te resevwa ofri sesyon rapèl), pa nan tout gwoup vitès la.
+- Yo te mezire demans lè yo te itilize **kòd dyagnostik nan dosye reklamasyon Medicare**, pa lè yo te egzamine chak moun. Apeprè yon ka nan patisipan orijinal yo pa t enkli paske yo te nan Medicare Advantage, ki pa gen dosye reklamasyon konplè.
+- Patisipan yo pa t gen gwo pwoblèm panse lè yo te kòmanse. Rezilta yo pa di anyen sou jwèt pou moun k ap viv ak demans **deja**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Se yon rezilta enteresan ki merite plis rechèch. Se pa prèv ki montre nenpòt aplikasyon anpeche demans.
 
-## What did the FTC say about Lumosity?
+## Kisa FTC te di sou Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+An janvye 2016, Lumos Labs, konpayi ki fè Lumosity, te dakò peye 2 milyon dola pou rezoud akizasyon Federal Trade Commission sou piblisite twonpè. FTC te di konpayi an te fè reklam, san ase baz syantifik, ki te di jwèt li yo te ka amelyore pèfòmans nan travay ak nan lekòl epi yo te ka retade bès ki gen rapò ak laj, pwoblèm mantal lejè, demans ak alzayme. Lòd la mande konpayi an pou li gen prèv syantifik serye ak fyab anvan li fè reklam konsa alavni ([Kominike laprès FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Leson pou fanmi yo: pran prekosyon ak nenpòt jwèt, aplikasyon oswa pwogram ki pwomèt pwoteje memwa oswa anpeche demans.
 
-## Can games help someone who already has dementia?
+## Èske jwèt ka ede yon moun k ap viv ak demans deja?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Yo ka ajoute yon bon moman nan jounen an, e sa enpòtan anpil. Apwòch ki pi byen etidye a se **estimilasyon mantal**: aktivite amizan an gwoup tankou diskisyon, raple souvni, jwèt mo, devinèt ak mizik, anjeneral nan yon ti gwoup ak yon moun ki dirije l.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Yon revizyon Cochrane 2023 sou 37 esè ak 2,766 moun ki te gen demans modere oswa lejè te jwenn
+([Revizyon Cochrane sou estimilasyon mantal](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- yon **ti benefis ki dire kout tan** sou tès panse (prèv kalite modere);
+- **amelyorasyon ki enpòtan sou plan klinik nan kominikasyon ak entèraksyon sosyal**
+  (prèv kalite wo, ki soti nan yon pi piti kantite etid);
+- **ti benefis** pou kalite lavi, atitid ak konpòtman.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Yo te mezire benefis yo sitou touswit apre pwogram ki te dire anviwon dis semèn, e ti kantite etid te tcheke si yo te dire. Estimilasyon mantal se yon pwogram estriktire an gwoup, kidonk rezilta sa yo pa aplike otomatikman pou yon moun k ap jwe yon jwèt poukont li sou yon tablèt.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Komisyon Lancet 2024 la di tou pwogram aktivite yo enpòtan pou moun k ap viv ak demans, pou ede yo kenbe plezi ak sans nan lavi yo
+([Komisyon Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Kisa jwèt yo vrèman bon pou?
 
-When chosen well, games can offer:
+Lè yo chwazi byen, jwèt yo ka ofri:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Plezi.** Yon bon demi èdtan gen valè poukont li.
+- **Koneksyon.** Jwe youn bò kote lòt ba ou yon bagay senp pou pataje lè konvèsasyon vin difisil. Gade [kijan pou nou jwe ansanm](/caregiving/how-to-play-together/).
+- **Woutin.** Yon aktivite abitye a menm lè chak jou ka pote konfò.
+- **Konfyans.** Aktivite ki adapte ak sa moun nan ka toujou fè byen ede l santi l kapab, pa teste.
+- **Konvèsasyon.** Yon foto oswa yon pawòl abitye ka ouvri pòt pou yon istwa. Eseye
+  [kat konvèsasyon](/games/conversation-cards/) oswa
+  [fini pawòl la](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Sa pou evite: revèy, nòt, seri viktwa ak nenpòt bagay ki sanble ak yon tès memwa. Si moun nan vin fristre, kanpe. Fini pi bonè, oswa senpleman chita ansanm, se yon bon rezilta. Gid nou an sou
+[kijan pou chwazi aplikasyon ak jwèt](/caregiving/choosing-apps-and-games/) gen yon lis verifikasyon.
 
-## Where Golden Moments fits
+## Ki kote Golden Moments antre
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Jwèt Golden Moments, tankou [pè foto](/games/picture-pairs/),
+[puzzle foto](/games/picture-puzzle/) ak
+[chèche mo ak gwo lèt](/games/word-search/), fèt pou plezi ak pou pase tan
+ansanm. Yo pa gen revèy epi yo pa gen nòt. Yo **pa** yon tretman, epi yo
+**pa** anpeche ni ralanti demans. Nou pito di w sa klèman pase pwomèt
+yon bagay okenn jwèt pa ka fè.
 
-## Talk with a doctor
+## Pale ak yon doktè
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Si w enkyete w pou chanjman nan memwa ou oswa nan memwa yon moun w ap okipe, al wè yon doktè olye pou w konte sou yon aplikasyon. Yon doktè ka chèche kòz ki ka trete epi pale ak ou sou etap ki gen pi bon prèv, tankou kontwole tansyon ak verifye tande. Gade
+[Èske demans ka anpeche?](/brain-health/can-dementia-be-prevented/) pou plis
+enfòmasyon. Si gen konfizyon ki parèt toudenkou oswa lòt chanjman toudenkou, chèche èd medikal touswit.

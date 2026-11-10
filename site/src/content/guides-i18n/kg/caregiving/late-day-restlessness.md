@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Bisalu ya pima na nkokila sambu na bantu yina ke zingilaka ti mavimpi ya mabanza"
+seoTitle: "Sundowning: Bisalu ya pima na nkokila"
+description: "Bikalulu ya pima, bansoba na nzo mpi bisalu ya lembama yina lenda sadisa na nkokila, mpi ntangu ya kubinga munganga kana bidimbu me kumba to me bika."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning kele kudiyangisa, kuvutuka-vutuka to makasi yina ke yantikaka to
+  ke kumaka mingi na nkokila. Mambu yina lenda sadisa kele: kulanda luzingu ya
+  konso kilumbu, kukutana ti mwini mpi kusala bisalu na suka, kulala fioti na
+  nkokila, kunwa fioti bima yina ke pesaka ngolo, kupelisa bamwinda na nzo
+  ntete ntangu ya kubua, kukitula nzo pima, mpi kusala bisalu ya pima bonso
+  miziki, bafoto to kupika bilele. Kana bidimbu ya mpa me basika to me kuma
+  ngolo, muntu yina nge ke kebaka fwete monana ti munganga.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning kele kudiyangisa to kuvutuka-vutuka yina ke yantikaka to ke kumaka mingi ntangu mwini ke kwenda kukota."
+  - "Sala bisalu ya ngolo, batambu ya kubasika mpi kuyobila na suka to na nkokila ya ntete."
+  - "Mwini, kutambula konso kilumbu, kulala fioti na nkokila mpi kunwa fioti bima yina ke pesaka ngolo lenda sadisa nkokila kuvanda pima."
+  - "Pelisa bamwinda ntete ntangu ya kubua, kitula makelele fioti, mpi soba na bisalu ya pima yina bo me zaba."
+  - "Sonika mambu sambu na kumona mambu yina ke pesaka mpasi, mpi vanda pima mpi pesa kikesa ntangu kudiyangisa ke yantika."
+  - "Monana ti munganga kana bidimbu me kumba to me bika: mpasi ya nitu, maladi to bankisi lenda vanda na kati."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Na ntangu nini ya kilumbu sundowning ke monanaka mingi?"
+    a: "Mingi-mingi yo ke yantikaka to ke kumaka ngolo na nkokila ya nsuka to na nkokila, ntangu mwini ke kwenda kukota. Ntangu lenda kuswaswana na konso muntu, yo yina kusonika mambu ya fioti na mposo mosi to zole lenda sadisa."
+  - q: "Bisalu nini lenda sadisa na sundowning?"
+    a: "Bisalu ya pima, ya me zabanaka mpi ya pete ke sadisaka mingi na nkokila: miziki ya lembama, kutala bafoto, programe ya TV to filme yina bo ke zolaka, kupika bilele, kutambula fioti, to kudia kima ya fioti kumosi. Bika bisalu ya mpa to ya ngolo sambu na ntangu ya suka."
+  - q: "Keti sundowning lenda monisa diambu ya mavimpi?"
+    a: "Yo lenda kuma ngolo sambu na mambu ya mavimpi bonso mpasi ya nitu, maladi bonso maladi ya nzila ya masuba, mambu ya mpongi to bampasi ya bankisi. Kana kudiyangisa kele ya mpa, me basika na mbala mosi to ke kuma ngolo, solula ti munganga ya muntu yina nge ke kebaka."
+  - q: "Keti mono fwete yula munganga sambu na bankisi ya sundowning?"
+    a: "Yina kele masolo ya kusala ti munganga. Alzheimer's Association ke tuba nde bandlela ya kukonda bankisi mbala mingi ke vandaka ya ntete, mpi bankisi yonso sambu na kudiyangisa na nkokila fwete tadilama na ntete na kutala kigonsa mpi mambote na yo. Lutiti yai ke pesaka ve malongi ya bankisi."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Mabuta mingi ke monaka mutindu mosi: na suka mambu ke vandaka pima, kansi ntangu nkokila ke kuma, muntu yina ke zingilaka ti mavimpi ya mabanza ke yantika kudiyangisa, kuvanda ti boma, kuvutuka-vutuka to kuwa makasi. Yandi lenda tambula-tambula mingi, yula na «kukwenda na nzo» ata kana yandi kele na nzo, to kuwa makasi nswalu. Mingi-mingi bo ke bingaka yo sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Kima mosi ya sikisiki ya kuyidika yo kele ve, kansi bansoba na mutindu ya kilumbu, na nzo mpi na mutindu ya bisalu yina nge ke pesaka lenda sadisa nkokila kuvanda pima. Lutiti yai ke vukisa mabanza ya kusadila ya kukonda kimunganga ya National Institute on Aging mpi ya Alzheimer's Association. Yai kele ve malongi ya munganga. Kana bidimbu kele ya mpa, me basika na mbala mosi to ke kuma ngolo, solula ti munganga ya muntu yina nge ke kebaka.
 
-## What is sundowning?
+## Sundowning kele inki?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning kele kudiyangisa, kuvutuka-vutuka, makasi to kukonda kuzaba mbote mambu yina ke yantikaka to ke kumaka mingi ntangu mwini ke kwenda kukota, na nkokila ya nsuka to na nkokila. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ke monisa nde kulemba mingi lenda matisa kudiyangisa na nsuka ya kilumbu.
 
-## What can make late-day restlessness worse?
+## Inki lenda kumisa kudiyangisa na nkokila ngolo?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Mambu mingi lenda vanda na kati, mbala mingi kumosi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ke tanga mambu bonso:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- kulemba na nima ya kilumbu ya mvimba;
+- bisika ya mpa to yina ke vutula-vutula mabanza;
+- «ntangu ya kati ya nitu» yina me soba, yina ke sala nde muntu kuvanda ti mpongi na mwini mpi kukanguka na mpimpa;
+- mwinda ya fioti mpi bivudi, yina lenda vutula-vutula mabanza;
+- kuwa kiyungisi to makasi ya bantu yina kele pene;
+- kuvanda na mfunu ya mpongi ya fioti, yina ke monanaka mingi na bambuta.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA ke yika diaka mambu yina lenda pesa kudiyangisa, bonso mpasi ya nitu, mawa na ntima to kiyungisi, mpongi ya kukonda kufwana, kukonda kukaka, makelele mingi to bantu mingi, mpi bankisi ya nkaka to mutindu bankisi ke sadilaka kumosi.
 
-## How can I plan the day to make evenings calmer?
+## Inki mutindu mono lenda yidika kilumbu sambu nkokila kuvanda pima?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Tula bisalu ya ngolo na ntangu ya suka mpi bika nkokila ya nsuka kuvanda pima mpi ya me zabanaka. NIA mpi Alzheimer's Association nyonso zole ke lomba kulanda luzingu ya mbala na mbala. Tala mbandu ya kilumbu, yina nge lenda soba na mutindu na nge:
 
-| Time | What may help |
+| Ntangu | Mambu yina lenda sadisa |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Suka | Bakimvuka ti munganga, kuyobila, kubasika mpi konso kisalu yina ke lomba ngolo, ntangu bantu mingi ke vandaka na mayele |
+| Nsuka ya kati | Ntangu na nganda to pene-pene ya fenetre ya mwini; kutambula to kisalu ya nkaka |
+| Mwini ya kati | Madia ya mingi na mwini ya kati (Alzheimer's Association ke lomba madia ya mingi na mwini ya kati mpi madia ya pete na nkokila) |
+| Nkokila ya ntete | Kupema kana kele mfunu, kansi bika mpongi ya nda na nkokila ya nsuka |
+| Nkokila ya kati ti ya nsuka | Bisalu ya pima ya me zabanaka; kima ya fioti ya kudia mpi ya kunwa; kukonda bima yina ke pesaka ngolo |
+| Ntete ntangu ya kubua | Pelisa bamwinda na nzo mpi kanga barido ntete nzo kukuma mudidi |
+| Nkokila | Madia ya pete, miziki ya lembama, mambu ya fioti ya kupesa kiyungisi, luzingu ya kukonda kusoba ntete ya kulala |
 
-A few specific points from the sources:
+Mambu ya nkaka ya mfunu ya bintuntu:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Mwini.** NIA ke lomba kukutana ti mwini konso kilumbu, na nganda to pene-pene ya fenetre.
+- **Kutambula konso kilumbu, kansi kuluta ndilu ve.** Sala kisalu ya nitu konso kilumbu, kansi kuyidika bisalu mingi ve, NIA ke tuba mutindu yina.
+- **Bima ya kunwa na nkokila.** Bika malafu mpi bima ya kunwa yina kele ti kafeini, bonso kafe to kola, na nsuka ya kilumbu (NIA). Alzheimer's Association ke tuba diaka nikotine.
+- **Mpongi ya kukonda nda.** Bika mpongi ya nda mpi kulala-lala na nkokila ya nsuka (NIA). Alzheimer's Association ke lomba kufiotuna mpongi ya mwini kana mpongi ya mpimpa kele mpasi.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Sambu na kuyidika kilumbu ya kukonda kusoba, tala [bisalu ya luzingu ya konso kilumbu](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Inki mutindu mono lenda kitula nzo pima na nkokila ya nsuka?
 
-Reduce noise, add light and keep familiar things close.
+Fiotuna makelele, yika mwinda mpi bika bima ya me zabanaka pene-pene.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Mwinda ya mbote mpi ya kukonda kuswaswana.** Alzheimer's Association ke lomba nde nzo kuvanda ti mwinda ya mbote na nkokila. Pelisa mwinda ntete bivudi kumonana.
+- **Makelele ya fioti.** Zima to fiotuna TV mpi radio, mpi kitula bantu ya kubasisa to bisalu mingi ya nzo fioti na ntangu yina. Alzheimer's Association ke lomba kufiotuna mambu ya nkokila yina ke pesaka kiyungisi bonso TV, bisalu ya nzo mpi miziki ya ngolo.
+- **Bima ya kepesa kikesa.** NIA ke lomba miziki ya lembama mpi kubika bima mpi bafoto yina muntu ke zolaka mingi pene-pene.
+- **Kutala kana muntu kele mbote.** Alzheimer's Association ke lomba kutala mpasi ya nitu, nzala, mpusa ya masa, kukonda kukaka, ntulu ya kufuluka, kulemba, maladi mpi bampasi ya mpusu, mpi kubika ntangu ya mupepe na nzo na ndilu ya mbote.
+- **Mutindu ya nge mosi.** Bantu ke bakisaka kiyungisi. NIA ke lomba nge kusala malembe mpi kusosa kuvanda pima kana kiyungisi na nge lenda matisa mambu.
 
-## What calm activities can we do in the late afternoon?
+## Bisalu nini ya pima beto lenda sala na nkokila ya nsuka?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Pona bisalu ya me zabanaka, ya kukonda kusala nswalu mpi ya pete na kuyambula. Alzheimer's Association ke lomba bisalu ya pima bonso miziki ya lembama, bafoto to filme yina bo ke zolaka, mpi kutambula kumosi sambu na kulembika kudiyangisa. NIA ke lomba kima ya fioti ya kudia to ya kunwa, programe ya TV yina bo ke zolaka, miziki, kutambula, kutanga, to kisalu ya nzo ya pete bonso kupika bilele.
 
-Ideas to try:
+Mabanza ya kumesena:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Kupika bilele kumosi.** NIA ke monisa kisalu ya nzo ya pete ya mutindu yai. Bitawele kele pete na kusimba, mpi kisalu kele ti nsuka ya pwelele.
+2. **Kulanda miziki yina bo ke zolaka.** Bankunga ya me zabanaka ya kileke na bo, na ndinga ya fioti. Kuyimba malembe kumosi lenda lunga. Mabanza ya nkaka kele na [bisalu ya miziki](/activities/music/).
+3. **Kutala bafoto.** Albume ya bafoto, to bafoto ya fioti ya dibuta na [Photo Pairs](/games/photo-pairs/) ti bafoto ya kemonana, lenda nata masolo ya pima.
+4. **Kutambula fioti.** Na zardin, na balabala pene-pene to na nzila ya kati ya nzo, ntete nzo kukuma mudidi.
+5. **Kudia kima ya fioti mpi kunwa kumosi.** Kima ya pete, ya tiya mpi ya kukonda kafeini, na mesa kumosi.
+6. **Kuswaswanisa bafoto malembe.** [Picture Pairs](/games/picture-pairs/) ti matadi iya mpi bafoto ya kemonana kele pete na kuyantika mpi na kuyambula.
+7. **Kupenta.** [Coloring](/games/coloring/) na ekrane to na lutiti ya imprimé, kukonda kintuntu ya kumanisa.
+8. **Kutala mpi kusolula.** [Conversation Cards](/games/conversation-cards/) ke pesaka kifwanisu mpi ngyufula ya kukangula masolo. Kutala mpamba me lunga.
+9. **Kupema malembe.** [Calm Breathing](/games/calm-breathing/) kele ntangu ya kupema malembe mpi ya pima yina nge mosi ke yantika mpi ke yambula.
+10. **Bisalu ya maboko.** Kuponaka baboton to basosete, kulamba bulangiti ya lembama, to kusimba kima ya me zabanaka. Tala [bisalu ya bisonge-bisonge](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Bika bansaka ya mpa, batambu mingi ya kubasika mpi konso kima yina ke lomba mabanza mingi to kutula dikebi mingi na nkokila. Bika mambu ya mutindu yina sambu na suka.
 
-## What should I do when restlessness starts?
+## Inki mono fwete sala ntangu kudiyangisa me yantika?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Vanda pima, pesa kikesa, mpi soba malembe na kisalu ya nkaka. NIA ke lomba kutuba malembe, kuwa mambu yina muntu ke tuba, kuboya kuswana, kupesa kikesa nde yandi kele na kizunu, mpi kusimba malembe kana yo ke sadisa. Na nima, meka kusoba dikebi na yo: kima ya fioti ya kudia, kima ya kunwa, miziki to kutambula.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association ke lomba kutuba mambu bonso «Nge kele na kizunu awa» mpi «Mono ke wa mawa nde nge kele ti makasi», mpi ke lomba kuyika mwinda, kusala malembe mpi kufiotuna mambu yina ke pesaka kiyungisi. Kukanga muntu na kisika mosi ve, kumfinama mingi ve, kumsimba na makasi ve, mpi kuswana ti yandi ve.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Kana muntu me kuma ti makasi mingi, NIA ke lomba kuvanda mwa ntama na kizunu tii mutindu yina kumanaka. Kana mpasi ya nswalu me bwila, binga 112 mpi tubila nde muntu yina kele ti mavimpi ya mabanza.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Balutiti na beto ya [kutuba ti muntu na mutindu ya mbote](/caregiving/communication-tips/) mpi [inki kusala ntangu yandi ke tuba nde ve](/caregiving/when-they-say-no/) kele ti mabanza ya nkaka ya kutuba na pima.
 
-## How do I find the triggers?
+## Inki mutindu mono lenda zaba mambu yina ke basikisa yo?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Sonika mambu ya fioti na mposo mosi to zole. Alzheimer's Association ke lomba kutala mambu yina ke salamaka ntete ya sundowning sambu na kuzaba mambu yina ke pesaka yo. Sonika ntangu kudiyangisa yantikaka, mambu yina salamaka na ngunga ya ntete, mpongi, madia mpi bima ya kunwa, bambeni, makelele mpi mwinda. Nata mambu yina nge me sonika na munganga. NIA ke monisa nde kutala bansoba ya bikalulu lenda sadisa bantu yina ke kebaka mpi bamunganga na kumona mutindu mosi.
 
-## When should I call a doctor about sundowning?
+## Na ntangu nini mono fwete binga munganga sambu na sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Solula ti munganga ya muntu yina nge ke kebaka kana kudiyangisa kele ya mpa, me kuma ngolo na mbala mosi, to me kwisa kumosi ti bansoba ya nkaka. NIA ke tuba nde bansoba ya bikalulu yina me basika na mbala mosi to yina ke soba nswalu, mingi-mingi na nima ya maladi to bansoba ya bankisi ya me salamaka ntama ve, fwete zabakana na munganga nswalu.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Yula munganga na kutala mambu yina lenda kumisa nkokila mpasi mingi. Alzheimer's Association ke tuba mambu ya nitu bonso maladi ya nzila ya masuba, kukonda kuyala masuba, makulu yina ke vandaka ve pima mpi mpasi ya kupema na mpongi, mpi ke lomba kuyula ntangu nini ya kilumbu kele mbote sambu na konso nkisi. NIA ke tanga mpasi ya nitu, kukonda kukaka mpi bampasi ya bankisi to mutindu bankisi ke sadilaka kumosi bonso mambu yina lenda pesa kudiyangisa.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association ke tuba nde bandlela ya kukonda bankisi mbala mingi ke vandaka ya ntete sambu na mambu ya mpongi yina me kangama ti maladi ya Alzheimer, mpi nde bankisi sambu na kudiyangisa na nkokila fwete tadilama kaka kana bandlela yina me nunga ve, na nima ya kutala kigonsa mpi mambote na yo. Dibaku yina kele ya munganga. Kuyantika ve, kuyambula ve to kusoba ve nkisi, nkisi ya mpongi to kima ya nkaka ya kuyika kukonda malongi ya munganga.
 
-## How do I get through the evenings myself?
+## Inki mutindu mono lenda luta na nkokila mono mosi?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Nkokila ya nsuka lenda vanda ntangu ya mpasi mingi sambu na muntu yina ke kebaka. Kana nge lenda, lomba muntu ya dibuta, nduku to muntu ya bo ke futaka na kusadisa nge na nkokila ya nsuka bilumbu ya nkaka na mposo, ata sambu na ngunga mosi. Lutiti na beto ya [kukikeba sambu na muntu yina ke kebaka](/caregiving/caregiver-self-care/) kele ti bandlela ya kupema mpi nimero ya lusadisu ya Alzheimer's Association ya 24/7 yina kele ya ofele.

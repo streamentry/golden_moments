@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Hoe kieze jo apps en spultsjes by demintens"
+seoTitle: "Hoe kieze jo apps en spultsjes by demintens: in checklist"
+description: "In checklist foar mantelsoargers by it kiezen fan apps en spultsjes by demintens: begjin mei jo doel, mij timers en advertinsjes, kontrolearje privacy en lês bewearingen oer ûndersyk foarsichtich."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Begjin mei wat jo wolle dat de app docht: sêfte prikkeling, weromtinken,
+  rêst of kontakt. Kies dan ien dy't past by wat de persoan hjoed kin,
+  mei grutte ôfbyldingen, sûnder timers, punten of advertinsjes, en mei in
+  maklike manier om te stopjen. Kontrolearje hokker gegevens de app sammelt
+  en oft jo dy wiskje kinne. Wês foarsichtich mei bewearingen dat in app
+  demintens foarkomt of behannelet; ien ûndersyk is noch gjin bewiis.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Beslis earst it doel: prikkeling, weromtinken, rêst of kontakt freegje om ferskillende apps."
+  - "Sjoch nei wat de persoan dy dei kin, net nei in label fan in stadium, en hâld de betsjinning ienfâldich."
+  - "Sla apps oer mei timers, punten, libbens, rigen, advertinsjes of fragen om wat te keapjen."
+  - "Kontrolearje it sammeljen, dielen en wiskjen fan gegevens. HIPAA jildt meastentiids net foar gewoane apps."
+  - "Wês skeptysk oer bewearingen as „foarkomt demintens”. Ien proef, of bettere skoares yn de app, is gjin bewiis."
+  - "Golden Moments is in rekreative aktiviteit. Wy dogge gjin klinyske bewearingen."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Kinne breinspultsjes demintens foarkomme?"
+    a: "Der is gjin goed bewiis dat kommersjele apps mei breinspultsjes demintens foarkomme of fertraagje. It National Institute on Aging seit dat der net genôch bewiis is dat kommersjeel beskikbere apps foar breintrening itselde effekt hawwe as de strukturearre training dy't yn in grut ûndersyk test is. Kies apps foar nocht en kontakt, net as medisyn."
+  - q: "Falt in app foar demintens ûnder HIPAA?"
+    a: "Meastentiids net. HIPAA jildt yn it algemien foar soarchferlieners, soarchfersekeringen en harren sakepartners. In app dy't jo sels downloade, falt meastentiids net ûnder HIPAA, útsein as ien fan harren de app oanbiedt. De Health Breach Notification Rule fan de FTC jildt foar in protte sûnensapps dêr't HIPAA net foar jildt."
+  - q: "Hoe sjocht in goed spultsje by demintens derút?"
+    a: "Grutte, dúdlike ôfbyldingen en tekst, ien dúdlike aksje op elk skerm, gjin timer of skoare, gjin lûden by flaters, gjin advertinsjes, en in maklike manier om te pauzearjen of te stopjen. It moat derút sjen as makke foar folwoeksenen en it moat maklik wêze foar in twadde persoan om mei te dwaan."
+  - q: "Bewearret Golden Moments dat it it ûnthâld helpt?"
+    a: "Nee. Golden Moments biedt ienfâldige aktiviteiten om tegearre te dwaan, foar nocht en petear. It stelt gjin diagnoaze, behannelet, foarkomt of mjit gjin demintens, en wy dogge gjin bewearingen oer ûnthâld of tinken."
+  - q: "Moat ik betelje foar in app by demintens?"
+    a: "Probearje earst fergese opsjes of fergese proefperioaden, en sjoch in pear wiken hoe't de persoan reagearret. Betelje foar in app makket it net effektiver. Kontrolearje hoe't jo opsizze kinne foardat jo in abonnemint nimme."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Appwinkels steane fol mei spultsjes dy't it label hawwe foar âlderen, ûnthâld of demintens. Guon binne mei soarch makke. Oaren brûke medysk klinkende beloften, timers dy't fan boartsjen in test meitsje, of advertinsjes en it sammeljen fan gegevens. Dizze side jout jo in manier om sels elke app te beoardieljen. Wy meitsje gjin ranglist of resinsjes fan oare produkten.
 
-## What should I decide before choosing a dementia app?
+## Wat moat ik beslisse foardat ik in app by demintens kies?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Beslis wat jo wolle dat de app docht. „In spultsje foar mem” kin hiel ferskillende dingen betsjutte, en de bêste kar foar it iene doel is faaks in minne kar foar in oar doel.
 
-| Goal | What it looks like | What to look for |
+| Doel | Hoe't it derút sjocht | Wêr't jo op lette kinne |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Sêfte prikkeling | Byinoar fine, sortearjen, ienfâldige puzels, wurdspultsjes | Yn te stellen swierrichheid, ôfbyldingen dy't sichtber bliuwe, gjin tiidtdruk |
+| Weromtinken | Alde foto's, bekende sizwizen, muzyk út harren jeugd | Jo eigen foto's, iepen fragen, gjin kwisfragen |
+| Rêst | Stadige bylden, sêfte lûden, sykheljen, natuer | Maklik te begjinnen en te stopjen, neat dat flikkert, gjin ferrassingen |
+| Kontakt | Tegearre spylje of prate, persoanlik of fia fideopetear | Makke foar twa persoanen, oanliedingen foar in petear |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+It ûndersyk nei strukturearre „kognitive stimulânsje” foar minsken dy't mei demintens libje giet meastentiids oer groepsgearkomsten ûnder lieding fan oplaat personiel, mei petearen, wurdspultsjes, puzels, muzyk en kreative aktiviteiten. In [Cochrane-resinsje](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) fûn gemiddeld lytse foardielen, dy't tusken ûndersiken ferskilden. Sa'n sosjaal, fariearre programma is net itselde as in app dy't jo allinnich brûke, dus sjoch in app as ien dielde aktiviteit neist in protte oare.
 
-## How do I know if an app fits the person's abilities?
+## Hoe wit ik oft in app past by wat de persoan kin?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Sjoch hoe't de persoan reagearret, yn stee fan te gean op in diagnoaze of in label fan in stadium. Twa minsken yn „itselde stadium” kinne in protte ferskille yn sicht, gehoar, hânfeardigens, taal en hoe noflik sy binne mei skermen. De [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) riedt oan om eardere ynteresses en wat de persoan no kin yn gedachten te hâlden en te rjochtsjen op nocht yn stee fan prestaasjes.
 
-Signs of a good fit:
+Sinjalen dat it goed past:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- de persoan begjint of docht mei sûnder in protte oerlêst;
+- de persoan glimket, seit wat of fertelt in ferhaal;
+- flaters lykje de persoan net te hinderjen;
+- de persoan is bliid om te stopjen as it tiid is.
 
-Signs it is a poor fit:
+Sinjalen dat it net goed past:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- faaks „ik kin it net” of „dit is gek”;
+- ferwarring oer wêr't jo tikke moatte;
+- frustraasje, ferlegenheid of it apparaat fuortskowe;
+- it wurket allinnich as jo hast alles dogge.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Unrêst is in sinjaal, net eat om troch te drukken. Sjoch [wat jo dwaan kinne as de persoan nee seit](/caregiving/when-they-say-no/). Foar ideeën bûten apps, ôfstimd op it stadium, sjoch aktiviteiten foar it [iere stadium](/activities/early-stage/) en it [lette stadium](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Op hokker ûntwerpkarren moat ik lette, en hokker kin ik better mijde?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Sykje nei in rêstich, ienfâldich ûntwerp foar folwoeksenen, en mij alles wat druk jout.
 
-| Look for | Be wary of |
+| Sykje nei | Wês foarsichtich mei |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Grutte ôfbyldingen en tekst, goed kontrast | Lytse ikoantsjes, drokke skermen |
+| Ien dúdlike aksje per skerm | In protte knoppen, menu's of ynstruksjes yn mear stappen |
+| Gjin timer, of in timer dy't jo útsette kinne | Ofteinen, bonussen foar snelheid, „ferbetterje jo tiid” |
+| Gjin skoare, of sêfte feedback | Punten, libbens, rigen, ranglisten, „breinleeftiid” |
+| Flaters wurde rêstich behannele | Pielûden, reade krúskes, berjochten as „Ferkeard” |
+| Folwoeksen, realistyske ôfbyldingen | Tekenfilm- of bernlike tema's |
+| Wurket offline, gjin account nedich om te begjinnen | Jo moatte earst oanmelde, ynlogge of ynhâld downloade |
+| Maklik te pauzearjen en te stopjen | Pop-ups dy't freegje om troch te gean of de app te beoardieljen |
+| Gjin advertinsjes, dúdlike ienmalige priis of abonnemint | Advertinsjes, lootboxen, faak fragen om wat te keapjen |
+| Maklik foar in twadde persoan om mei te dwaan | Allinnich foar ien spiler, kompetitive opzet |
 
-Ads and purchase prompts are easy to tap by accident.
+Op advertinsjes en fragen om wat te keapjen is maklik by fersin te tikken.
 
-## How do I check an app's privacy?
+## Hoe kontrolearje ik de privacy fan in app?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Kontrolearje hokker gegevens de app sammelt, mei wa't dy dield wurde, en oft jo se wiskje kinne. Foardat jo de app ynstallearje:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Lês it privacy-oersjoch yn de winkel.** De [Data safety-seksje](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) fan Google Play en de [privacy-ynformaasje](https://support.apple.com/en-us/102399) fan de App Store litte sjen hokker soarten gegevens in app kin sammelje en diele. Beide bedriuwen jouwe oan dat ûntwikkelders dizze ynformaasje sels leverje, dus it is in begjinpunt, net in kontrôle.
+2. **Freegje jo ôf oft in account nedich is.** As in app allinnich ôfbyldingen of ienfâldige spultsjes toant, is der miskien gjin reden dat de app jo namme, e-mailadres of bertedei wit.
+3. **Kontrolearje de tagongsrjochten.** Hat in matchspultsje echt jo lokaasje, kontakten, mikrofoan of jo hiele fotobiblioteek nedich? Set alles út dat net nedich is.
+4. **Sjoch nei advertinsjes en analyse.** Ark foar advertinsjes en folgjen kin gegevens oer hoe't de app brûkt wurdt nei oare bedriuwen stjoere.
+5. **Fyn út wêr't foto's hinne geane.** As jo famyljefoto's tafoegje, bliuwe dy dan op it apparaat of wurde dy nei in server opladen? Kinne jo se fuorthelje?
+6. **Kontrolearje it wiskjen.** Sykje yn it privacybelied of it gegevensoersjoch nei hoe't jo gegevens en it account wiskje kinne. In app dy't seit dat gegevens net wiske wurde kinne, freget om ekstra foarsichtigens, benammen as der foto's of sûnensgegevens yn steane.
+7. **Lês it privacybelied** foar dúdlike antwurden oer wat der sammele wurdt, wêrom, hoe lang, en mei wa't it dield wurdt.
 
-### Does HIPAA protect information in dementia apps?
+### Beskermet HIPAA ynformaasje yn apps by demintens?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Meastentiids net, en dat ferrasket in protte minsken. It U.S. Department of Health and Human Services [leit út](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) dat HIPAA jildt foar soarchfersekeringen, de measte soarchferlieners, útwikselings foar sûnenssoarch en harren sakepartners. Yn de measte gefallen beskermet it gjin gegevens dy't jo foar persoanlik gebrûk yn in app ynfiere, útsein as in ûnder HIPAA fallende organisaasje of harren sakepartner de app oanbean hat. In „app by demintens” út in appwinkel falt faaks bûten HIPAA, sels as de app oer sûnens praat.
 
-### What protects health data in apps that HIPAA does not cover?
+### Wat beskermet sûnensgegevens yn apps dêr't HIPAA net foar jildt?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+De Health Breach Notification Rule fan de Federal Trade Commission jildt foar in protte fan dy apps. Yn 2024 [makke de FTC wizigingen definityf](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) dy't dúdlik meitsje dat de regel jildt foar sûnensapps en ferlykbere technology dy't net ûnder HIPAA falle. In „brek” omfettet ek ûnautorisearre iepenbieringen, net allinnich hacken, en bedriuwen moatte troffen minsken en de FTC op 'e hichte bringe. Dat is in feiligensnet neidat der wat misgien is, net in belofte dat in app allinnich sammelt wat nedich is.
 
-## How should I read claims about research and evidence?
+## Hoe moat ik bewearingen oer ûndersyk en bewiis lêze?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Lês bewearingen oer bewiis stadich, en wês it meast skeptysk oer de grutste beloften. Fragen dy't jo stelle kinne:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Wat is der krekt ûndersocht?** In ûndersyk nei ien trainingsprogramma lit net sjen dat elk spultsje yn in app op deselde manier wurket.
+- **Wa binne der ûndersocht?** Resultaten by sûne âldere folwoeksenen kinne miskien net tapasse op ien dy't mei demintens libbet.
+- **Wat is der metten?** Better wurde yn it spultsje sels is wat oars as feroaringen yn it deistich libben, petearen, stimming of selsstannigens.
+- **Hoe sterk is it ûndersyk?** In randomisearre kontrolearre proef (RCT) ferliket in groep dy't de app brûkt mei in groep dy't dat net docht. It is in goede opzet, mar ien lytse of koarte RCT is gjin bewiis. Sykje nei ferskate ûndersiken fan ûnôfhinklike ûndersikers dy't oerienkomme.
+- **Bewearret it dat de sykte feroaret?** In ûndersyk dat lytse ferbetteringen op in test lit sjen, is gjin bewiis dat in app demintens fertraaget, foarkomt of behannelet.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+De side fan it National Institute on Aging oer [kognitive sûnens en âldere folwoeksenen](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) beskriuwt in grutte, troch NIH finansierde proef mei strukturearre kognitive training, en warskôget lêzers dêrnei foar bewearingen dat bepaalde kompjûter- en online spultsjes ûnthâld en tinken ferbetterje kinne. Der stiet dat der noch net genôch bewiis is dat kommersjeel beskikbere apps foar breintrening deselde ynfloed hawwe as de training dy't yn dy proef test is. Jo kinne mear lêze yn ús gids oer [breinspultsjes en it bewiis](/brain-health/brain-games/) en [wat ûndersyk seit oer it foarkommen fan demintens](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Wat is in iepenbier foarbyld fan in misliedende bewearing?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Yn jannewaris 2016 [kundige de FTC in skikking oan](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) mei de makkers fan Lumosity, in programma foar „breintrening”. De FTC stelde dat it bedriuw, sûnder foldwaande bewiis, bewearde dat de spultsjes leeftydsrelatearre kognitive efterútgong fertrage koene en beskermje koene tsjin lichte kognitive beheining, demintens en de sykte fan Alzheimer. It bedriuw stimde yn mei it beteljen fan $2 miljoen en moat yn de takomst betrouber, wittenskiplik bewiis hawwe foardat it sokke bewearingen docht. De saak is in nuttige herinnering dat markettaal gjin bewiis is.
 
-### Which words are red flags?
+### Hokker wurden binne warskôgingssinjalen?
 
-Be cautious when an app or ad says it:
+Wês foarsichtich as in app of advertinsje seit dat it:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- demintens of Alzheimer „foarkomt”, „omkeart”, „stoppet” of „genêst”;
+- „klinysk bewiisd” is sûnder de stúdzje te neamen, wa't der meidwaan hat en wat der metten is;
+- in „breinleeftiid” of in ûnthâldskoare jout dy't in diagnoaze suggerearret;
+- it brein „skerper makket”, „in boost jout” of „traint”;
+- tsjûgenissen brûkt as bewiis.
 
-If you are unsure about a claim, ask the person's doctor.
+As jo net wis binne oer in bewearing, freegje it dan oan de dokter fan de persoan.
 
-## Where does Golden Moments fit?
+## Wêr past Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments biedt ienfâldige aktiviteiten om tegearre te dwaan, net in ûnthâldtest, terapy of medysk advys. Us spultsjes, lykas [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) en [Calm Breathing](/games/calm-breathing/), binne makke foar nocht en petear. Se stelle gjin diagnoaze, behannelje, foarkomme of mjitte gjin demintens, en wy dogge gjin bewearingen oer ûnthâld of tinken.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Wy meitsje ek in fergese app, [Golden Moments foar iPhone, iPad en Android](/app/). De app hat sêft ôfbyldingsmatchen mei grutte tegels, spultsjes mei famyljefoto's dy't jo kieze en ôfbyldingspakketten dy't offline wurkje, sûnder account, advertinsjes, timer of skoare. Deselde checklist jildt: it privacylabel yn de App Store seit „Data Not Collected”, en it [privacybelied fan de app](/app-privacy/) leit út wêr't kopyen fan foto's bewarre wurde.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Wy wolle leaver dat jo ús beoardielje as dat jo ús fertrouwe. Brûk de checklist op dizze side, lês ús [privacyside](/privacy/) en [medyske disclaimer](/medical-disclaimer/), en stopje mei it brûken fan alles, ek ús app, dat net past by de persoan dêr't jo foar soargje.
 
-## What is a sensible way to try a new app?
+## Wat is in ferstannige manier om in nije app te probearjen?
 
-Try it together for a couple of weeks and watch what happens.
+Probearje it in pear wiken tegearre en sjoch wat der bart.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Set it earst yn** mei ús [gids foar it ynstellen fan tablet en telefoan](/caregiving/tablets-and-screens/), en begjin op it maklikste nivo.
+2. **Hâld de mominten koart,** let op glimkes, petearen en rêst, en einigje op in goed momint.
+3. **Stopje dermei as it frustraasje jout,** hoe goed de app ek beoardiele is.

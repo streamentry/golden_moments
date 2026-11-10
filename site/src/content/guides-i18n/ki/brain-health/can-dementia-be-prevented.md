@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Dimensia no ĩgirĩrĩke? Ũrĩa Ũtaarani Wugĩte"
+seoTitle: "Dimensia no ĩgirĩrĩke? Ũrĩa Ũtaarani Wugĩte"
+description: "Ũrĩa riboti ya Lancet Commission ya 2024 na igerio inene cionire igũrũ rĩa kũnyiihia mĩtino ya dimensia, ũrĩa itoonire, na matanya ma kwaria na ndagĩtarĩ."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Gũtirĩ mũndũ ũngĩhota kwĩrĩra atĩ dimensia no ĩgirĩrĩke biũ. Lancet
+  Commission ya 2024 ĩgĩtua atĩ hakuhĩ nuthu ya andũ arĩa magĩaga na dimensia
+  thĩinĩ wa thĩ ihotanĩtio na maũndũ 14 marĩa mangĩgarũrwo, ta mĩthithũ ya
+  thakame mĩingĩ, kũaga kũigua wega na kwaga gwĩkaga maũndũ ma mwĩrĩ. Igerio
+  cionanagia moimĩrĩra manini ma igerio cia meciiria, no ti ũira wa atĩ andũ
+  anini nĩo magĩaga na dimensia. Andũ aingĩ arĩa mekaga maũndũ mothe “wega” no
+  makoragwo na dimensia, na gũtirĩ mũndũ ũrĩ na ihĩtia.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Lancet Commission ya 2024 ĩahonanirie atĩ hakuhĩ 45% ya andũ arĩa magĩaga na dimensia thĩinĩ wa thĩ ihotanĩtio na maũndũ 14 marĩa mangĩgarũrwo. Ũcio nĩ ũtuanĩri wa andũ aingĩ, ti kĩĩranĩro kĩa mũndũ ũmwe."
+  - "Kũnyiihia mĩtino nĩ kuuga kũnyiihia mũigana wa andũ aingĩ arĩa mangĩgĩa na ũndũ. Ti kuuga atĩ mũndũ ũmwe no ahote kwĩgirĩrĩria dimensia."
+  - "Igerio inene ta FINGER, US POINTER na SPRINT MIND cionire moimĩrĩra manini ma igerio cia meciiria kana thĩna mũnini wa meciiria, no gũtirĩ kĩmwe kĩonanirie atĩ mũtũũrĩre mũna ũgiragĩrĩria dimensia."
+  - "Ũkũrũ nĩguo ũndũ mũnene mũrĩa ũmenyekete wa kũrehe dimensia ya Alzheimer, na ndũngĩgarũrwo. Andũ aingĩ arĩa marĩ na mĩtũũrĩre mĩega no makoragwo na dimensia."
+  - "Matanya marĩa mataragwo makĩria, ta kũrigwo mĩthithũ ya thakame mĩingĩ, kũhũthĩra indo cia kũigua na gũikara ũgĩĩkaga maũndũ ma mwĩrĩ, nĩ mega kwario na ndagĩtarĩ tondũ mateithagia ũgima na njĩra ingĩ."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Dimensia no ĩgirĩrĩke?"
+    a: "Gũtirĩ njĩra ĩmenyekete ya kũgirĩrĩria dimensia harĩ mũndũ o wothe. Ũtaarani wonanagia atĩ kũnyiihia mĩtino mĩna, ta mĩthithũ ya thakame mĩingĩ, kũaga kũigua wega gũtarĩ gũtungatwo na kũnyua ndawa cia mũgwanja, no kũnyiihie mũigana wa andũ arĩa mangĩgĩa na dimensia kana gũtũma ĩambe thuutha. Maya nĩ maũndũ ma mũigana, ti kĩĩranĩro."
+  - q: "Mũigana wa 45% wa Lancet Commission ũgũta atĩa?"
+    a: "Lancet Commission ya 2024 ĩgĩtua atĩ hakuhĩ 45% ya andũ arĩa magĩaga na dimensia thĩinĩ wa thĩ ihotanĩtio na maũndũ 14 ma mĩtino marĩa, kĩhoro-inĩ, mangĩgarũrwo. Ũtuanĩri ũcio wĩhokeire atĩ maũndũ macio nĩmo marehaga dimensia, na aandĩki makiuga atĩ ihutanĩrio imwe no ikorwo irĩ cia gĩcunjĩ tu. Ũheanaga ũhoro wa andũ aingĩ na ndũkwĩra mũtino wa mũndũ ũmwe."
+  - q: "Angĩkorwo mũciari wakwa aarĩ na mĩtũũrĩre mĩega, nĩkĩ kĩamũkinyĩirie dimensia?"
+    a: "Ũkũrũ, ciana na maũndũ maingĩ marĩa mũndũ atangĩhota gwatha nĩ marĩ na kĩhandũ kĩnene harĩ dimensia. Aandĩki a Lancet Commission moigaga atĩ kũnyiihia mĩtino kũrĩ andũ aingĩ gũtiĩranagĩra atĩ mũndũ o wothe ndarĩ hĩndĩ agĩaga na dimensia. Kũmenya atĩ mũndũ arĩ na ndwari ti kĩmenyithia atĩ nĩ harĩ mũndũ wĩhĩtie."
+  - q: "Nĩ thuutha mũno kũnyiihia mĩtino ya dimensia thuutha wa mĩaka 65?"
+    a: "Lancet Commission yugaga atĩ gũtirĩ hĩndĩ ya tene mũno kana ya thuutha mũno ya kũnyiihia mĩtino, o na gũtuĩka ũira mũingĩ ũkoniĩ hĩndĩ ya gatagatĩ ka muoyo. Kũrigwo mathĩna ma kũigua na ma kuona, gũikara ũgĩĩkaga maũndũ ma mwĩrĩ na gũkoragwo na andũ arĩa angĩ nĩ mamwe ma matanya ma thuutha-inĩ marĩa matarĩirwo. Aria na ndagĩtarĩ ũhoro wa ũrĩa ũkwagĩrĩra kũringana na ũgima waku."
+  - q: "Michezo ya meciiria kana irio cia mwanya nĩ igiragĩrĩria dimensia?"
+    a: "Gũtirĩ mũchezo, irio, ndawa cia kwongerera mwĩrĩ kana irio cia mwanya irĩ cionekete atĩ nĩ igiragĩrĩria dimensia. Kĩgerio kĩa mĩaka ĩtatũ kĩa irio cia MIND gĩtionire ngũũrani nene ya meciiria igũrũ rĩa irio cia kũringithania, na mapurogiramu ma kwĩruta meciiria ma biashara matirĩ monania moimĩrĩra ta marĩa monagwo igerio-inĩ cia ũtaarani."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Ũngĩkorwo nĩũrarũmbũiya mũndũ ũrĩa ũtũũraga na dimensia, kana nĩwonete mũciari agĩtũũra nayo, no kũhoteke nĩwĩyũrĩtie kana no ĩngĩagirĩrĩirio, na kana wee no ũhote kwĩgirĩrĩria. Gĩcunjĩ gĩkĩ kĩheanaga ũrĩa ũtaarani ũkuuga ma, na njĩra ĩngĩtaũkĩka. Icokia rĩa hakuhĩ nĩ atĩ: gũtirĩ mũndũ ũngĩhota kwĩrĩra atĩ dimensia no ĩgirĩrĩke biũ, no ũtaarani wonanagia atĩ mĩtino ĩmwe no ĩnyiihio, na kũmĩnyiihia harĩ andũ aingĩ no gũtũme andũ anini magĩe na dimensia kana magĩe nayo thuutha.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Ũyũ nĩ ũhoro wa kũmenyithania, ti ũtaaro wa ndagĩtarĩ. Ndagũthaitha ũthome [kĩmenyithia gĩitu kĩa ũrigiti wa ndagĩtarĩ](/medical-disclaimer/) na warie na ndagĩtarĩ ũhoro wa ũgima waku.
 
-## Can dementia be prevented?
+## Dimensia no ĩgirĩrĩke?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Gũtirĩ njĩra ĩmenyekete ya kũgirĩrĩria dimensia harĩ mũndũ o wothe ũmwe. National Institute on Aging (NIA) yugaga atĩ o na gũtuĩka [gũtirĩ kĩndũ kĩonete atĩ nĩ kĩgiragĩrĩria Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), ataari marona njĩra irĩa ikwoneka irĩ na kĩĩrĩgĩrĩro na marathoma ũrĩa ũngĩteithia na ũrĩa ũtangĩteithia.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Ũrĩa ũtaarani *ũkuonania* nĩ atĩ mĩikarĩre ĩmwe ya ũgima na mĩtugo ĩmwe ihotanĩtio na mũigana mũnene wa kũgĩa na dimensia. Rĩrĩa mĩtino ĩyo ĩnyiihĩtio harĩ andũ aingĩ, andũ anini no magĩe na dimensia, kana no magĩe nayo thuutha-inĩ wa muoyo. Ũcio nĩ ũndũ mũtiganu mũno na kĩĩranĩro.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Kĩmenyithia kĩmwe kĩega: Lancet Commission ya 2024 yarutire ripoti atĩ mabũrũri-inĩ mamwe marĩa matongire, hamwe na US na UK, gĩcunjĩ kĩa andũ akũrũ arĩa marĩ na dimensia nĩkĩnyiihĩte. Aandĩki meciragia atĩ ũndũ ũcio ũngĩkorwo wonekete nĩ ũndũ wa gĩthomo kĩega, ũrigiti wa ũgima mwega na kũnyiihia kwa mĩthiro ya mĩtũkĩ ya thakame muoyo-inĩ wothe, kũringana na [mũbũgũrũko wa University College London wa riboti ĩyo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Lancet Commission ya 2024 yonire atĩa?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission ya kũgirĩrĩria, gũteithia na kũrũmbũiya dimensia nĩ gĩkundi kĩa ataari 27 a dimensia arĩa maroraga ũira o mĩaka mĩnini. Riboti yao ya 2024 yarutire **maũndũ 14 ma mĩtino** marĩa mangĩgarũrwo, na ĩgĩtua atĩ hamwe marĩ na kĩhandũ harĩ **hakuhĩ nuthu (ta 45%) ya andũ arĩa magĩaga na dimensia thĩinĩ wa thĩ**. Kũringana na ciugo cia aandĩki, andũ aya *kĩhoro-inĩ* no magirĩrĩirio kana magĩkererwo dimensiacio ĩngĩkorwo mĩtino ĩyo nĩyeherio biũ ([riboti ya Lancet Commission ya 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Maũndũ macio 14, magayanĩtio kũringana na hĩndĩ ya muoyo harĩa ũira ũrĩ hinya makĩria:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Utanĩ:** gĩthomo kĩnini.
+- **Gatagatĩ ka muoyo (ta mĩaka 40 nginya 65):** kũaga kũigua wega, cholesterol ya LDL (“ĩrĩa njũru”) ya igũrũ, kĩeha kĩnene, mĩtino ya mũtwe, kwaga gwĩkaga maũndũ ma mwĩrĩ, ndwari ya cukari, kũnyua ndawa cia mũgwanja, mĩthithũ ya thakame mĩingĩ, ũritu mũingĩ wa mwĩrĩ, na kũnyua njoohi nyingĩ mũno.
+- **Thuutha-inĩ wa muoyo:** kwĩhitha harĩ andũ arĩa angĩ, gĩko kĩũru, na mathĩna ma maitho marĩa matarĩ gũtungatwo.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Maũndũ meerĩ merũ ma 2024 maarĩ cholesterol ya LDL ya igũrũ na mathĩna ma maitho marĩa matarĩ gũtungatwo. Maũndũ marĩa mahutanĩtio na gĩcunjĩ kĩnene kĩa andũ maarĩ kũaga kũigua wega na cholesterol ya LDL ya igũrũ (o ũmwe ta 7%), magacooka gĩthomo kĩnini na kwĩhitha harĩ andũ arĩa angĩ (o ũmwe ta 5%).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Mwĩhĩrĩrio witũ wa maũndũ ma mĩtino](/brain-health/risk-factors/) nĩũhĩtũkĩra maũndũ mothe 14 thĩinĩ wa mũtaratara, hamwe na ũrĩa ũtaarani ũhonanagia na ũrĩa ũngĩĩka.
 
-### What the 45% figure does not mean
+### Ũrĩa mũigana wa 45% ũtaaragia
 
-It is easy to misread this number, so it helps to be precise:
+Nĩ ũhũthũ gũtaũkĩrwo nĩ namba ĩno, nĩ ũndũ ũcio nĩ wega kũmenya wega:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Nĩ ũtuanĩri wa andũ aingĩ.** Ũaragia ũhoro wa andũ arĩa magĩaga na dimensia thĩinĩ wa thĩ, ti mũigana waku kana wa mũciari waku.
+- **Wĩhokeire ũhoro wa gĩtũmi na moimĩrĩra.** Aandĩki moigaga atĩ maathuurire maũndũ marĩa marĩ na ũira mũiganu, no ihutanĩrio imwe no ikorwo irĩ cia gĩcunjĩ tu. Kwa ngerekano, kĩeha kĩnene thuutha-inĩ wa muoyo rĩmwe no kĩkorwo kĩrĩ kĩmenyithia kĩa mbere kĩa dimensia handũ ha gũtuĩka gĩtũmi.
+- **Gũtirĩ kĩĩranĩro harĩ mũndũ ũmwe.** Mũbũgũrũko wa UCL wonanagia atĩ kũnyiihia mĩtino kũrutaga wĩra harĩ andũ aingĩ na gũtiĩranagĩra atĩ mũndũ o wothe ndarĩ hĩndĩ agĩaga na dimensia.
+- **Nuthu ĩyo ĩngĩ ndĩtaũrĩirwo nĩ maũndũ maya.** Ũkũrũ, ciana na maũndũ marĩa asayansi matarĩ mamenya nĩmo matigaru.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Ngũũrani ĩrĩkũ gatagatĩ ka “kũnyiihia mĩtino” na “kũgirĩrĩria”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Kũnyiihia mĩtino** nĩ kuuga kũnyiihia mũigana. Gĩkundi kĩnene kĩa andũ kĩngĩnyiihia mĩthithũ ya thakame, andũ anini thĩinĩ wakĩo no magĩe na dimensia mĩaka mĩingĩ-inĩ gũkĩra ũrĩa mangĩgĩire. Andũ amwe thĩinĩ wa gĩkundi kĩu no makoragwo nayo o na ũguo.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Kũgirĩrĩria** kuonagia ta kũgiria ũndũ biũ ndũkoneke. Harĩ dimensia, ũtaarani ndũngĩhota kwĩrĩra mũndũ o wothe ũguo ũmũthĩ.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ataari ningĩ maaragia ũhoro wa **gũkererwo**. Lancet Commission ĩrutaga ũira mwerũ wonanagia atĩ kũnyiihia mĩtino no kũtũme dimensia ĩambe thuutha na kũnyiihia ihinda rĩrĩa mũndũ atũũraga arĩ na ũgima mũũru. O na gũkererwo gwa mĩaka mĩnini no gũkorwo kũrĩ na bata mũnene harĩ mũndũ na andũ ao.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Thĩinĩ wa gĩcunjĩ gĩkĩ, tũhũthagĩra “kũnyiihia mĩtino” na “ihotanĩtio na” na gĩtũmi. Rĩrĩa ũkuona kĩndũ, ndawa cia kwongerera mwĩrĩ kana mũtaratara ũkwĩrĩra atĩ “nĩũgiragĩrĩria Alzheimer”, wĩmenyerere. NIA ĩtaaraga atĩ warie na ndagĩtarĩ mbere ya kũgeria kĩbiriti kana ũrigiti o wothe ũkwĩrĩra atĩ nĩũgiragĩrĩria Alzheimer, tondũ indo ta icio no ikorwo itarĩ njega, ihũthĩre mbeeca tũhũ, kana cierĩ.
 
-## What have large trials found?
+## Igerio inene cionire atĩa?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Ũtaarani wa kũrora ũrĩa maũndũ mekagwo (ũrĩa ũroraga andũ ihinda-inĩ) no wonanie ihutanĩrio. Igerio cia gũthuura andũ na mũtũndũ (harĩa andũ maheanagwo mũtaratara kana gĩkundi kĩa kũringithania na mũtũndũ) nĩcio kĩgerio kĩrĩ hinya makĩria. Ũyũ nĩ ũrĩa igerio imwe iria imenyekete mũno cionire.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Kĩgerio kĩa FINGER kĩandĩkirie andũ 1,260 arĩa marĩ na mĩaka 60 nginya 77 arĩa maarĩ na mĩtino mĩingĩ ya dimensia. Nuthu yao yamũkĩrire mũtaratara wa mĩaka ĩĩrĩ wa ũtaaro wa irio, maũndũ ma mwĩrĩ, mazoezi ma meciiria ma kompyuta na kũrorwo ũgima wa ngoro na mĩtũkĩ ya thakame; nuthu ĩyo ĩngĩ ĩkĩheo ũtaaro wa ũgima wa ndũire. Gĩkundi kĩa mũtaratara gĩekire wega hanini thĩinĩ wa igerio cia meciiria, ngũũrani nini no ĩrĩ na bata wa namba ([kĩgerio kĩa FINGER thĩinĩ wa The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Kĩgerio gĩathimire moimĩrĩra ma igerio, ti kũmenyekana kwa dimensia.
 
 ### US POINTER (United States)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER yandĩkirie andũ 2,111 arĩa marĩ na mĩaka 60 nginya 79 arĩa mataekaga maũndũ ma mwĩrĩ, maarĩ na irio itarĩ njega na maarĩ na mĩtino ĩngĩ. Ikundi cierĩ igĩkĩrwo hinya gwĩkaga maũndũ ma mwĩrĩ na ma meciiria, kũrĩa wega, gũtũũra na andũ arĩa angĩ na kũrora ũgima wa ngoro. Gĩkundi kĩmwe kĩamũkĩrire mũtaratara ũrĩ na mũtongoria; kĩrĩa kĩngĩ gĩkĩĩtongoria. Thutha wa mĩaka ĩĩrĩ, moimĩrĩra ma igerio cia meciiria makĩongerereka harĩ **ikundi cierĩ**, na makĩongerereka hanini makĩria harĩ gĩkundi kĩrĩa kĩarĩ na mũtongoria ([kĩgerio kĩa US POINTER thĩinĩ wa JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Aandĩki moigaga atĩ nĩhabataire kũrora makĩria nĩguo kũmenyekane kana ngũũrani ĩyo ĩrĩ na bata thĩinĩ wa muoyo wa o mũthenya. Tondũ gũtiarĩ gĩkundi kĩa “kwaga gwĩka ũndũ”, kĩgerio gĩtingĩhota kuuga mũtaratara o wothe wateithirie ũigana ũrĩkũ gũkĩringithanio na kwaga kũgarũra ũndũ.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (mĩthithũ ya thakame)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND yathomire andũ 9,361 a US arĩa marĩ na mĩaka 50 na makĩria marĩ na mĩthithũ ya thakame mĩingĩ. Maamũkĩrire kĩriganĩro kĩa mĩthithũ ya thakame kĩa thĩ mũno (namba ya igũrũ thĩ wa 120) kana kĩriganĩro kĩa ndũire (thĩ wa 140). Kĩriganĩro kĩa thĩ mũno kĩanyiihirie mũno **thĩna mũnini wa meciiria**, ĩrĩ hĩndĩ ya mathĩna ma kũririkana na meciiria ĩrĩa ĩngĩũka mbere ya dimensia. Harĩ **dimensia ĩrĩa ĩkuoneka**, nĩ haarĩ andũ anini thĩinĩ wa gĩkundi kĩa kĩriganĩro kĩa thĩ mũno, no ngũũrani ndĩarĩ nene ya kũiganĩra na namba. Kĩgerio kĩarĩkirio tene na kĩarĩ na andũ anini a dimensia gũkĩra ũrĩa kwerĩgĩrĩirwo, nĩ ũndũ ũcio no gũkorwo kĩarĩ kĩnini mũno gũcokia kĩũria kĩu ([SPRINT MIND thĩinĩ wa JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Ũrĩa macokio ma ũtaarani monanagia
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Mũcokio wa Cochrane wa 2021 wanyiitithirie igerio kenda inene cia mĩtaratara ĩrĩa ĩhũũraga mĩtino mĩingĩ hamwe, hamwe na andũ makĩria ya 18,000. Woonire ũteithio mũnini wa igerio cia meciiria, no **gũtiarĩ ngũũrani ĩkuoneka ya andũ aingĩ ũrĩa magĩire na dimensia** thĩinĩ wa igerio cierĩ iria ciathimire ũndũ ũcio ([mũcokio wa Cochrane wa mĩtaratara ya maũndũ maingĩ](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Mũcokio wa 2017 wa National Academies of Sciences, Engineering, and Medicine, ũrĩa ũbũgũrĩirwo nĩ NIA, woonire ũira wa “kĩĩrĩgĩrĩro no ndũrĩ mũiguĩte biũ” harĩ njĩra ithatũ: kũrigwo mĩthithũ ya thakame mĩingĩ, kwongerera maũndũ ma mwĩrĩ, na kwĩruta meciiria.
 
-## Does it matter when you start?
+## Hĩndĩ ya kwambĩrĩria ĩrĩ na bata?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Ũtaaro wa Lancet Commission nĩ kũnyiihia mĩtino tene o ũrĩa kũngĩhoteka na kũmĩnyiihia ihinda irĩa iraaya: “tene nĩ wega” na “ihinda iraaya nĩ wega.” Ningĩ yugaga atĩ gũtirĩ hĩndĩ ya tene mũno kana ya thuutha mũno ya kũnyiihia mĩtino. Ũira mũingĩ ũkoniĩ hĩndĩ ya gatagatĩ ka muoyo, ta mĩaka 40 nginya 65, no maũndũ mamwe, ta kũaga kuona wega na kwĩhitha harĩ andũ arĩa angĩ, nĩ mĩtino ya thuutha-inĩ wa muoyo harĩa gwĩka ũndũ no kũkorwo kũrĩ na bata.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Riboti yugaga atĩ rĩu harĩ na ũira mũnene wonanagia atĩ gũikara na mũtino ihinda iraaya kũrĩ na moimĩrĩra manene makĩria. Kwa ngerekano, ndwari ya cukari ĩrĩa yambagĩrĩria gatagatĩ ka muoyo ĩonekaga ĩrĩ na bata makĩria gũkĩra ĩrĩa yambagĩrĩria thuutha.
 
-## Is dementia risk the same for everyone?
+## Mĩtino ya dimensia ĩhaanaine harĩ andũ othe?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Aca. Commission nĩyonire atĩ andũ a mabũrũri marĩa matarĩ na ũtonga mũingĩ, andũ a ikundi nini na andũ arĩa marĩ na mbeeca nini kaingĩ makoragwo na mĩtino ĩno mĩingĩ, nĩ ũndũ ũcio dimensia ĩkũnyiitaga marĩ na mĩaka mĩnini. Mĩtino mĩingĩ ĩnyiitanĩte na maũndũ marĩa andũ matathuurire, ta mũthemba wa gĩthomo kĩrĩa moonire marĩ ciana, rĩera rĩrĩa matũũraga marĩ narĩo, na kana irio njega nĩ irahoteka na irĩ hakuhĩ.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Nĩkĩo mataaro ma Commission merekeirio kũrĩ thirikari o ta ũrĩa merekeirio kũrĩ andũ: gĩthomo kĩega harĩ ciana ciothe, rĩera rĩtheru, matanya ma kũnyiihia kũnyua ndawa cia mũgwanja, kũnyiihia cukari na cumbĩ thĩinĩ wa irio iria ciendagio nduka na marestorandi, na indo cia kũigua harĩ mũndũ o wothe ũrĩa ũcibataire. Wĩruti wa mũndũ nĩ ũrĩ bata, no thĩ ĩrĩa mũndũ atũũraga o nayo ĩrĩ bata. Ũcio nĩ gĩtũmi kĩngĩ kĩa kwaga gũcambia mũndũ nĩ ũndũ wa ũndũ ũcio.
 
-## What are the honest limits of this research?
+## Mĩhaka ya ma ya ũtaarani ũyũ nĩ ĩrĩkũ?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Dimensia ĩkoragwo na ihinda iraaya rĩa gũkũra**, no igerio nyingi ikoragwo na mĩaka ĩĩrĩ nginya ĩtano. Gũthima dimensia ĩyo nyene, no ti moimĩrĩra ma igerio tu, kũbatara ũtaarani mũraihu na mũnene mũno.
+- **Igerio nyingi ithimagĩra moimĩrĩra ma igerio cia meciiria.** Kwongereka kũnini kwa kĩgerio gũtiĩranagĩra atĩ andũ anini nĩo magĩaga na dimensia kana atĩ muoyo wa o mũthenya nĩũgũkorwo mũhũthũ makĩria.
+- **Andũ arĩa meyandĩkithagia kaingĩ makoragwo marĩ na ũgima mwega makĩria** na marĩ na gĩthomo kĩingĩ makĩria gũkĩra andũ a ndũire. Lancet Commission ĩmenyithagia atĩ ũira mũingĩ o na rĩu uumaga mabũrũri-inĩ marĩa matongire na atĩ ikundi nini itirũgamĩrĩirwo wega.
+- **Ihutanĩrio imwe ithiiaga na mĩena ĩĩrĩ.** Kwaga gwĩkaga maũndũ ma mwĩrĩ kana kwaga gũkoragwo na andũ arĩa angĩ no kũkorwo kũrĩ moimĩrĩra ma mbere ma dimensia, no ti gĩtũmi tu.
+- **Igerio cia irio itirĩ cionania moimĩrĩra mega nginya rĩu.** Kĩgerio kĩa mĩaka ĩtatũ kĩa irio cia MIND gĩtionire ngũũrani nene ya meciiria igũrũ rĩa irio cia kũringithania. Rora [mwĩhĩrĩrio witũ wa irio](/brain-health/diet/).
+- **Michezo ya meciiria ndĩonete atĩ nĩ ĩgiragĩrĩria dimensia.** Rora mwĩhĩrĩrio witũ wa [michezo ya meciiria na dimensia](/brain-health/brain-games/).
+- **Kwĩima kũrĩa kũrĩ na ũira mũnini mũno harĩ andũ**, na no kũkorwo kũrĩ na ũgwati harĩ andũ akũrũ. Rora [mwĩhĩrĩrio witũ wa kwĩima kũrĩa](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Angĩkorwo mũndũ ekire maũndũ mothe “wega”, nĩkĩ o na ũguo aanyiitirwo nĩ dimensia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Nĩ tondũ dimensia ti moimĩrĩra ma mĩthuure tu. NIA yugaga atĩ [ũkũrũ nĩguo ũndũ mũnene mũrĩa ũmenyekete wa kũrehe dimensia ya Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), na gũtirĩ mũndũ ũngĩũgarũra. Ciana irĩ na kĩhandũ. Na asayansi matirĩ mamenya biũ kĩrĩa kĩrehaga Alzheimer harĩ andũ aingĩ. O na maũndũ mothe 14 ma mĩtino mangĩeherio, ũtuanĩri wa Lancet Commission ũtigaga makĩria ya nuthu ya andũ matarĩ mataũkĩirwo.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Nĩ ũndũ ũcio, ũngĩkorwo nĩũrarũmbũiya mũndũ wekaga maũndũ ma mwĩrĩ, akarĩa wega, ndaigana kũnyua ndawa cia mũgwanja na no aanyiitirwo nĩ dimensia, gũtirĩ ũndũ wahĩtirie harĩ we, kana harĩ wee. Ũngĩkorwo wee mwene ũtũũraga na dimensia, ti ihĩtia rĩaku. Kĩeha kĩa ngoro nĩ kĩa ndũire harĩ andũ a mũciĩ, no gĩtiagĩrĩire. Ũrĩa ũrĩ bata rĩu nĩ ũhoro wa kũhoorera, kũgĩa na ngwatanĩro na mĩthenya mĩega, na [meciria maitũ ma maũndũ ma gwĩka](/activities/ideas/) hamwe na [mwĩhĩrĩrio witũ wa kwĩmenyerera harĩ mũrũmbũiya](/caregiving/caregiver-self-care/) nĩ kũndũ kwega gwa kwambĩrĩria.
 
-## What steps can you talk over with a doctor?
+## Nĩ matanya marĩkũ marĩa ũngĩaria na ndagĩtarĩ?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Maya nĩmo maũndũ marĩa mataragwo makĩria. Nĩ mega kũmaaria rĩrĩa ũgathii gũthimwo tondũ maingĩ ma macio mateithagia ũgima wa ngoro, wĩkuĩro na kwĩrũgamĩrĩra, o na moimĩrĩra ma dimensia mangĩkorwo marĩkũ.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Mĩthithũ ya thakame.** Ũria namba ciaku irĩ atĩa na nĩ kĩriganĩro kĩrĩkũ kĩkwagĩrĩire. Lancet Commission ĩtaaraga kwĩrĩgĩrĩra namba ya igũrũ ya 130 kana thĩ wa ũguo kuuma ta mĩaka 40, no kĩriganĩro kĩrĩa kĩagĩrĩire harĩ mũndũ mũkũrũ gĩtindaga kũringana na ũgima wake wothe.
+2. **Kũigua.** Ũria ũthimagwo ũhoti wa kũigua, na kana indo cia kũigua no igũteithie. [Mwĩhĩrĩrio witũ wa kũigua](/brain-health/hearing/) nĩũtaaragĩria ũtaarani.
+3. **Kuona.** Gĩaga na kũrora maitho kaingĩ na ũrie kana mathĩna ta cataracts no marĩhio.
+4. **Cholesterol.** Ũria kana cholesterol yaku ya LDL yagĩrĩirwo nĩ gũthimwo na kana harĩ ũndũ wagĩrĩirwo nĩ kũgarũrwo.
+5. **Cukari wa thakame.** Ũngĩkorwo ũrĩ na ndwari ya cukari, ũria ũrĩa ũngĩmĩrigwo na njĩra njega.
+6. **Wĩkuĩro.** Kĩeha kĩnene nĩ kĩndũ kĩa ndũire na no kĩrigwo. Ĩra ndagĩtarĩ ũngĩkorwo ũkoretwo ũrĩ na kĩeha kana ũtarĩ na wendo wa maũndũ ihinda rĩa mĩeri ĩĩrĩ kana makĩria.
+7. **Kũnyua ndawa cia mũgwanja na njoohi.** Ũria ũteithio wa gũtiga kũnyua ndawa cia mũgwanja na mĩhaka mĩega ya njoohi.
+8. **Kwĩnyootora.** Ũria mũthemba wa maũndũ ma mwĩrĩ ũrĩa ũtarĩ na ũgwati harĩ wee. [Mwĩhĩrĩrio witũ wa maũndũ ma mwĩrĩ](/brain-health/exercise/) ũrĩ na meciria.
+9. **Kũgitĩra mũtwe.** Wĩhumbe ngũbia ya mũtwe rĩrĩa ũrahaica maithikiri na hĩndĩ ya michezo ya kũhũũrana, na ũrie ũhoro wa kwĩgirĩrĩria kũgũa.
+10. **Gũtũũra na andũ arĩa angĩ.** Ihinda na andũ arĩa angĩ nĩ gĩcunjĩ kĩa muoyo mwega. Rora mwĩhĩrĩrio witũ wa [ngwatanĩro na andũ arĩa angĩ](/brain-health/social-connection/), na [toro](/brain-health/sleep/) o nako.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Mbere ya kũgarũra ndawa, irio, ndawa cia kwongerera mwĩrĩ, kwĩima kũrĩa kana maũndũ ma mwĩrĩ, aria na ndagĩtarĩ waku mbere, makĩria ũngĩkorwo ũrĩ na ndwari ya ngoro, cukari, ũrĩ na ũhoro wa kũgũa, kana ũtũũraga na dimensia.
 
-## Talk with a doctor
+## Aria na ndagĩtarĩ
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Ũngĩona ngarũrũko cia kũririkana kana cia meciiria iria irakũmakia, harĩ wee kana harĩ mũndũ ũngĩ, andĩka rĩandĩkithia rĩa gũcemanio. NIA ĩmenyithagia atĩ [mathĩna ma kũririkana no makorwo marĩ na itũmi ingĩ](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), ta moimĩrĩra ma ndawa, mathĩna ma thyroid, kĩeha kĩnene kana kwaga vitamini B12, na atĩ mathĩna mamwe ma macio nĩmathiraga rĩrĩa gĩtũmi kĩrĩa kĩrigĩtwo. [Mwĩhĩrĩrio witũ wa imenyithia cia kwĩmenyerera](/brain-health/warning-signs/) nĩũtaaragĩria ũrĩa wagĩrĩirwo nĩ kũrora.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Caria ũteithio wa narua** harĩ ngarũrũko cia o rĩmwe: kũrigwo nĩ meciiria o narua, kũaga hinya kana kũgĩa kĩonje mwena ũmwe wa mwĩrĩ, thĩna wa kwaria, kana kĩbaru kĩnene kĩa mũtwe no ikorwo irĩ imenyithia cia stroke kana mĩtino ĩngĩ ya narua. Hũra thĩmũ 999 kana 112.
 
-## Where Golden Moments fits
+## Golden Moments ĩteithagia atĩa
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments ĩthondekaga maũndũ mahũthũ ma gwĩka hamwe, ta [makarita ma kwaria](/games/conversation-cards/), [bingo ya mbica](/games/picture-bingo/) na [kahinda ka kũhoorera ga kũhuhĩria mĩhũmũ](/games/calm-breathing/). Nĩ ma gũkena na gũkoragwo hamwe. Ti ũrigiti, na matingĩgirĩrĩria kana makanyiihia dimensia.

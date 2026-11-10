@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzles para Ginen Demensia: Jigsaw yan Word Puzzles"
+seoTitle: "Puzzles para Demensia: Jigsaw yan Word Puzzles"
+description: "Kómo mapili jigsaw, word puzzles yan online puzzles para taotao ginen demensia: tamaño ni piesa, retrato, letra dankulu, hamyo siha, yan kuándo para hu'gon fásil."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  I mejor na puzzle para taotao ginen demensia guaha ha' i ma'acaba ha' yan
+  yanggen ayuda na poco, yan ma'gof ha' gi tiempo. Pumili jigsaw ni pocos
+  piesa, dankulu, yan klaru na retrato ni adulto, ya mantiene i kahun-kahun
+  gi bibiha. Sumuhan i piesa gi kanton primet. Word searches yan crosswords
+  mas maolek yanggen letra dankulu. Online puzzles ni kuatro piesa para
+  mediu na tiempo. Para kuando todavía ma'gof.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Pumili segun kómo ma'gof, ti segun etapa: yanggen i puzzle ma'sosoda como trabaho, sigi ti ginen i pocos piesa."
+  - "Dankulu yan makusu na piesa, yan retrato ni klaru yan dinestingui na kolot, mas fásil ki piesa ti dikike yan kielu dankulu."
+  - "Importante i retrato ni adulto. Hardin, kusina, kotche yan hayuyu, ti kattun."
+  - "Ma'gof hamyo siha puengge i kosas. Mana'hagu piesa, sumuhan i kanton, mantiene i kahun-kahun gi bibiha."
+  - "Word searches ni letra dankulu yan online puzzles ni 4 pat 9 piesa gaige gi este na sitio."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Kuántos piesa i mejor para taotao ginen demensia?"
+    a: "Ti guaha tinago' na numiru. Yanggen guaha ni'maframa na 1,000 piesa, todavía puede gustuhon i sentos na piesa gi primet na tiempo, pero otro taotao mas gustu i dosena pat meddio na dankulu na piesa. Yanggen i puzzle ma'sosoda como trabaho pat ma'gof, mamuno' i pocos piesa. I online Picture puzzle gi hamyo guaha 4 pat 9 piesa."
+  - q: "Maolek ha' i jigsaw para taotao ginen demensia?"
+    a: "Mucho na taotao gustu, espesiatmente yanggen ma'gof hit i puzzle antes. I puzzle ha' ayuda i manos ha' gaige na kosas gi ma'gof, guaha klaru na tinaitai, yan retrato para ma'estoria. Ti guaha puzzle ni ma'prueba na ha' cura pat ha' hungok i demensia, ya siña hamyo para ma'gof yan kumpaña."
+  - q: "Hafa siña hu hasi yanggen ti siña chumuchuda jigsaw i taotao?"
+    a: "Ma'fa'nu'i i puzzle yan hu hasi mas hao gi tiempo: na'hagu un piesa cada biahi, pat hagu ha' i uttimu na pocos piesa para hao. Sigi 4-piesa na online puzzle, pat sumuhan i piesa segun kolot, pat sencillo na mirå i retrato ni ma'acaba hamyo."
+  - q: "Maolek ha' crosswords yan word searches para demensia?"
+    a: "Siña, gi primet na etapa, ya letra dankulu. Word searches ni palabras kumutmuta yan pa'go ha' mas fásil kesi ni diagonal pat patrás. Lalaiyi i clues pat i lista ni palabras gi hilo' yan petmiti hamyo i ma'gof."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Un jigsaw ni mapuno gi lamasa i kumidang ha' uno gi mas fásil na aktibidat para mansiha. Siña hamyo magi ya ti nisisita chumat, i retrato ha' na'mamaisa un tinaitai, yan maolek i nina'fanhasso ma'pone i uttimu na piesa. Lao i puzzles nisisita mudifika segun i demensia ha' chumanges. Yanggen i puzzle ma'dinanña, siña todu i tiempon kalma ma'gof ha' mas dinanña. I kapitulo este ha' enseña kómo pumili yan ma'establesi jigsaws, word puzzles yan online puzzles fásil, yan i kosas para hu hasi yanggen ma'dinanña.
 
-## Are puzzles good for people with dementia?
+## Ma'gof ha' i puzzles para taotao ginen demensia?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Mucho na taotao gustu, espesiatmente i ma'gof antes. I [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ha' lista i word finds, card games yan board games kumu aktibidat para gi primet na etapa, yan i [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ha' sangan i online games yan puzzles gi tablet kumu un manera para ma'mantiene hao engaged.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+I puzzles ti tratamiento. Ti guaha puzzle ni ma'prueba na ha' para ma'pa'rang pat ma'para i demensia; i nuestro giya gi [brain games yan demensia](/brain-health/brain-games/) ha' eksplika i investigasion. I rason para ma'gof i puzzle, sina siña ha' un masaga na oras na ma'gof hamyo siha. I [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ha' sumasangan este: na'fuetsa i gusto, ti i ma'achieve.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Kómo hu pumili jigsaw puzzle para taotao ginen demensia?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Sigi i gustu i taotao yan kómo ma'gof i pasadu na puzzle, ti segun etiketa i etapa.
 
-### Number of pieces
+### Numiru i piesa
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ti guaha numiru ni maleffe. I taotao ni sempre ma'gof puzzles siña todavía gustuhon i sentos na piesa gi primet na tiempo, pero otro taotao mas kontento yanggen dosena. Un regla praktiku: yanggen i pasadu na puzzle ma'sosoda como trabaho, pumili uno ni kasi mitad i piesa. Yanggen ma'gof ha' fásil yan kumana'i mas, ma'aumenta un poco.
 
-### Piece size and feel
+### Tamaño yan sinti i piesa
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Dankulu na piesa** mas fásil ma'na'hátsa, ma'agang yan ma'tutuhon.
+- **Makusu yan matatag na piesa** ti ma'usa yan ma'aguanta yanggen nina'hulok.
+- **Matte na finish** ma'redus i ma'na'ya gi lampara yan bentanan.
+- **Ti ma'usa piesa ki dikike** yanggen siña ma'lagu i taotao gi bibiha, ya siña mapasa gi despues na demensia.
 
-### The picture
+### I retrato
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Adulto na tema.** Hardin, kusina, kotche antigu, hayuyu gi granha, un tenda gi bayan kayu, pat un sport ni gustu. Ti kattun pat kosas ni pariha ki laruan ninio.
+- **Dinestingui na kolot.** Un kaha ruju, un bangka asul yan un sagan berde mas fásil ki un langet ni ma'sokkok hanum na mitat i puzzle.
+- **Familiar yan personát.** Un lugat ni ma'bisita pat un hobby ni ma'gusta ha' na'mamaisa masaga na estoria. Guaha print shops siña ma'cho' un retrato familiat gi jigsaw.
 
-## How do you do a puzzle together?
+## Kómo hu hasi puzzle ginen mamamtå?
 
-Set it up so the person can get straight to the enjoyable part.
+Ma'establesi siha ni siña hao chumalek gi parte ni mas ma'gof.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Pumili un maolek na lugat.** Maolek na lus, upuan ni guaha brasos, yan lamasa pat bandihan ni siña ma'iyak i puzzle.
+2. **Ma'suporta i tapa i kaha** gi lugat ni siña hamyo jumachalek.
+3. **Ma'tutuhon i piesa** antes hu tuhon.
+4. **Sumuhan i kanton** nu hao, pat hasi i bòrdan primet yan deha i tinege para hao.
+5. **Ma'grupu i piesa segun kolot** gi sumang na plato pat bandihan.
+6. **Na'hagu un piesa cada biahi** yanggen dankulu i kuanto. "Sigente este na piesa para i kaha."
+7. **Hasi konbetsasion gi retrato,** ti gi progreso. "Ha' sangan este i bangka ni tata-hu."
+8. **Deha ma'iyak.** Fanhasso i puzzle para kuantos dihas. Ti guaha prisa.
+9. **Para gi maolek na tiempo,** despues un piesa ma'pone, mientras todavía maolek i sentimiento.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+I [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ha' rekomenda na ayuda i taotao para komienza, na'ma'obserba yanggen ma'frustra, yan petmiti na simpre hungok yanggen ha' gustu esta. Na'hungok hao mientras nina'pone piesa, yan sumasangan i lugat ni siña mapone ha', todavía ma'participa.
 
-## Easy online puzzles
+## Online puzzles fásil
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+I tablet puzzle guaha manera ni para bai: ti guaha piesa ni malalang, retrato dankulu ni ma'fitmi i pantalla, yan ti nisisita limpia i lamasa.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Nuestro libre na [Picture puzzle](/games/picture-puzzle/) ha' fa'tatanta un retrato gi 4 pat 9 piesa. Tokca dos piesa para ma'cambia asta ma'hana i retrato. I kompletu na retrato mamantiene gi pantalla kumu giya, ti guaha timer, yan siña hao para para gi cualquier tiempo. Kuatro piesa ma'propio para masa taotao gi mediu na etapa yanggen guaha ni ma'gof gi lugat.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Para mas simple na retrato, prueba [Find the same](/games/find-the-same/), gi ya tokka i retrato ni ma'parehu ginen uno gi bandihan, pat [Sort together](/games/sort-together/), gi ya i retrato ma'pone gi basket kumu kusina pat hardin.
 
-## Word puzzles: word searches and crosswords
+## Word puzzles: word searches yan crosswords
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+I word puzzles ma'propio para taotao ni siempre ma'gof, mas meggaiyi gi primet na etapa ginen demensia.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Word search ni letra dankulu.** Nuestro libre na [Word search](/games/word-search/) guaha dankulu na letra yan pokkus na palabras, kumutmuta yan pa'go, ti diagonal pat patrás. Ma'gof gi pantalla pat ma'imprenta.
+- **Lalaiyi i lista.** Un taotao ha' lalaiyi un palabra, i otro ha' sumosonda. Sen fine' i primet na letra ya guaha.
+- **Crosswords ni letra dankulu** ginen i libru puzzles siña maolek gi primet. Lalaiyi i clues, sisihon i pluma, yan kumplitu i tinanges gi mamamtå.
+- **Konbetsa gi palabras.** "Hardin" siña ha' gai diez minutos na konbetsasion gi tomates.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Para mas aktibidat ni papel yan kómo ma'imprenta siha ni fásil ma'ta'lalaiyi yan ma'hahatsa, mira [free printable dementia activities](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Ha' puedi i puzzles para kada etapa?
 
-Stages overlap, and good and hard days are normal.
+I etapa ma'ina ha' yan normat i maolek yan dinanña na dihas.
 
-| Stage | Puzzles that often fit | Your role |
+| Etapa | Puzzles ni ma'propio | I papet hao |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Primet | Jigsaws ni konosidu ni pocos piesa kesi antes, crosswords yan word searches ni letra dankulu, 9-piesa online puzzles | Kompañeru: petmiti na chumuli, ayuda yanggen ma'pidi |
+| Mediu | Jigsaws ni dosena pat meddio na dankulu na piesa, 4-piesa online puzzles, word search ni malalaiyi ayu | Ma'establesi, sumuhan i piesa, na'hagu uno cada biahi |
+| Ulimo | Ma'mira un retrato ma'acaba, Find the same ni dos retrato, ma'hahatsa kuantos dankulu na piesa | Na'siha ni hao; i kumpaña hao i aktibidat |
 
-## When should you make a puzzle easier, or stop?
+## Kuándo siña hu fasilidat i puzzle, pat para?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Ma'obserba i saga, ma'empuha i piesa, i ma'repiti na "Ti hu siña" pat i kanhasan. Esta na sinais para ma'cambia guaha, ti para ma'sigi.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Ma'gai dikike.** Pocos piesa, pat deha ha' ulimo kuantos para hao.
+- **Hao mas ma'gof** yan petmiti hao ayuda gi fásil na parte.
+- **Cambia para guaha ni asaga:** sumuhan i piesa segun kolot, un 4-piesa online puzzle, pat [coloring](/games/coloring/).
+- **Para.** Fanhasso i puzzle, ya guaha tasa tè. Siña ha' fanhasso otro dia, pat ti siña.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Yanggen i puzzles ma'sosoda kumu rimembransa i kosas ni dinanña, maolek na ha' suelta. Guaha ottru manera para ma'gasta maolek na tiempo hamyo siha; i nuestro [101 activity ideas](/activities/ideas/) ha' maolek na lugat para mamira.

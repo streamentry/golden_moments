@@ -1,33 +1,34 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Cakacaka Vata me Baleta na Malumalumu ni Vakanananu: iDusidusi"
+seoTitle: "Cakacaka Vata: Bingo ni iYaloyalo, Sere, iTukuni"
+description: "Cakacaka vata ena vale ni qaravi kei na parokaramu ni siga: bingo ni iyaloyalo, sere vata kei na veitalanoa, kei na ivakasala ni idabedabe kei na levu ni ilawalawa."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Na cakacaka vata vinaka ena qaravi ni vakanananu kei na parokaramu ni siga e
+  lekaleka, e kilai, ka rawarawa me curu kina e dua na tamata ena dua na ivakatagedegede:
+  bingo ni iyaloyalo, sere vata, veitalanoa ni nanuma lesu, toso malumalumu kei na
+  qito ni vosa vata. Maroroya na ilawalawa me lalai kevaka e rawa, dabeca na tamata
+  me ra raica ka rogoca kece, solia e dua ga na ikalawa matata ena dua na gauna, ka
+  vakarautaka e dua na itavi rawarawa kei na sala malumu ni curu tani me baleti ira
+  era gadreva.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Na ilawalawa lalai e dau rawarawa cake mai na dua na soqo levu, ka vakatarai ira e levu me ra vakaitavi dina, sega ni ra sarasara wale ga."
+  - "Dabeca na tamata ena iwirini se ivakarau ni u, volekata na iliuliu, ka nanuma na gadre ni rogoca kei na raica, ka bokoca na rorogo tale eso."
+  - "Vakarautaka na cakacaka yadua ena rua se tolu na ivakatagedegede me rawa ni ra curu vata o ira era duidui na nodra rawa-ka."
+  - "Levea na taro vakadikeva, na sikoa kei na qaqa. Na bingo ni iyaloyalo e rawa ni qitotaki me ra vakasinaita kece na nodra kadi."
+  - "E vinaka me biu taumada, sarasara, se moce vakalailai. Vakarautaka e dua na cakacaka me vukei koya e vinakata e dua na vanua vakacegu."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Na levu cava ni ilawalawa e vinaka me baleta na cakacaka ni malumalumu ni vakanananu?"
+    a: "E sega ni dua na naba donu duadua, ka vakatau ena o ira era tiko kina, na rumu kei na levu ni cakacaka o tiko kina. E vuqa na timi era kunea ni na ilawalawa lalai e vakatara na tamata kece me raica, rogoca ka vakaitavi, ia na soqo ena rumu levu e dau biuta e levu me ra sarasara ga. Kevaka o liutaka e dua na soqo levu, kuria na cakacaka se o ira era veivuke ka ra dabe vata kei ira na lewe ni vale ka vukei dua se rua na tamata."
+  - q: "Au na liutaka vakacava e dua na ilawalawa era duidui na nodra rawa-ka?"
+    a: "Vakarautaka e sivia na dua na sala me curu kina ena cakacaka yadua. Ena sere vata, eso era sereva na vosa kece, eso era tavulaka na liga se gunugunu, ka so era taura e dua na iyaya ni rorogo. Ena bingo ni iyaloyalo, eso era kunea na nodra iyaloyalo, ia e dua na dauveivuke e dusia vei ira eso. Dabeca o ira era gadreva e levu na veivuke volekati ira na cakacaka se o ira era veivuke."
+  - q: "Au na qitotaka vakacava na bingo ni iyaloyalo me kua ni veisisivi?"
+    a: "Kaciva na iyaloyalo kece me yacova ni sinai taucoko na kadi ni tamata kece, me kua ni biu laivi e dua. Veitalanoa mada ena iyaloyalo yadua ni basika, ka levea na icocovi ni qaqa se solia vei ira kece e dua na ka lalai tautauvata. Na inaki me veivakayagataki na rai kei na veitalanoa, sega ni o cei e oti taumada."
+  - q: "Au rawa ni vakayagataka na nomuni qito ena dua na sikirini levu ena ilawalawa?"
+    a: "Io. Na neimami qito e cakacaka ena barausa ni web, o rawa kina ni dolava ena dua na kompiuta lailai se tebeleti e semati ki na TV se porojeka. Na Picture Bingo e kauta mai na kadi me tabaki kei na daukacivaka ena sikirini. Na Finish the Saying kei na Picture Pairs e rau vinaka tale ga ena sikirini levu ni dua e tabaka me baleta na ilawalawa."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +53,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Na idusidusi oqo e dodonu me baleti ira na dauniveituvatuva ni cakacaka, na timi ni qaravi ni vakanananu kei na iliuliu ni parokaramu ni siga. E kovuta na ivakarau ni ilawalawa e dauyaga, na tuvatuva ni rumu, na kena moici e dua na cakacaka me baleti ira era duidui na nodra rawa-ka, kei na vakayagataki ni neimami kadi bingo me tabaki kei na qito ena sikirini levu. Na ka kece eke e nakiti ki na vakacegu, na veiwekani kei na digidigi. E sega na ka eke e dua na veidikevi.
 
-## What makes a group activity work in memory care?
+## Na cava e vakayagataka kina e dua na cakacaka vata ena qaravi ni vakanananu?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Na cakacaka vata vinaka e kilai, lekaleka, rawarawa me curu kina ena dua na ivakatagedegede, ka sega ni veivakasaurarataki. Na [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) ni Alzheimer's Association e vakamacalataka na vakaitavi yaga me vaka e dua na ka e tokona na ka taleitaka kei na ka e vinakata e dua, ka vakatara na digidigi kei na qaqa, dina ga ni levu sara na malumalumu ni vakanananu. Na ivolatukutuku vata ga oqo e kaya ni na parokaramu makawa e dau vakararavi ena dua se rua na soqo levu ni ilawalawa ena veisiga, ka dau sarasara wale ga kina e levu na lewe ni vale.
 
-That points to a few practical rules:
+Oqo e dusia e vica na lawa rawarawa:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Na ka kilai e vinaka cake mai na ka vou.** Na sere, vosa vakavanua, iyaloyalo kei na iyaya mai na gauna ni nodra itabagone o ira era tiko kina e rawarawa cake me ra curu kina.
+- **Na ka lekaleka e vinaka cake mai na ka balavu.** Vakarautaka me vaka na balavu ni gauna e dau rawa kina na nomu ilawalawa me vakasama, kei na dua na gauna vinaka me cegu kina ena maliwa.
+- **Na cakacaka e vinaka cake mai na sarasara.** Solia vua na tamata yadua e dua na ka me taura, tabaka, digitaka se kaya.
+- **Vuqa na ivakatagedegede, dua na cakacaka.** Vakarautaka na sala rawarawa kei na sala dredre vakalailai me vakaitavi kina.
+- **Sega na qaqa, sega na sikoa.** Na ivakarau ni veisisivi e vakilai ira eso ni ra sega ni rawata.
 
-## How big should the group be?
+## Na levu cava e dodonu me tiko ena ilawalawa?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Na ilawalawa lalai e dau rawarawa cake. Na Alzheimer's Association e kaya ni e dua e kunea ni dredre na soqo levu e rawa ni veimaliwai vinaka cake ena dua na ilawalawa lalai. E sega ni dua na naba donu duadua. E vakatau ena o ira era tiko kina, na rumu kei na levu ni cakacaka kei na dauniveivuke era tu vakarautaki.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+E dua na sala rawarawa me dikeva: e rawa li ni raica kece na tamata na mata ni iliuliu, rogoca vakamatata ka yacovi koya e dua na dauveivuke ena vica ga na sekodi? Kevaka sega, wasea na ilawalawa, kuria na dauniveivuke, se toso ki na dua na rumu lailai.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Ena soqo levu, me vaka e dua na soqo ni sere, dabeca na cakacaka kei na dauniveivuke ena maliwa ni lewe ni vale, sega ni ra tu ena bai ni rumu.
 
-## How should I set up the room and seating?
+## Au na tuvatuva vakacava na rumu kei na idabedabe?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Iwirini se ivakarau ni u.** Na ivakasala ni cakacaka e vakamacalataka na iwirini ni veiwasei me vinaka ena dua na vanua e rauta me ra dabe kece kina ena iwirini, ka sega na rorogo tale eso.
+- **Na iliuliu me voleka ka donu ena ivakatagedegede ni mata.** Dabe ga kevaka e rawa, kua ni tu.
+- **Na rogoca kei na raica me liu.** Dabeca o ira era dredre na nodra rogoca voleka sara ki na iliuliu, ena yasana era rogoca vinaka kina. Vakadeitaka ni ra daramaka na nodra iloilo ni mata kei na iyaya ni rogoca. Na Alzheimer's Association e kaya ni na leqa ni raica kei na rogoca e rawa ni vakadredretaka na veivosaki.
+- **Na rarama me mai muri vei ira era dabe, sega ni mai murimu.** Levea na nodra dabe me ra raica donu ki na dua na katubaleka rarama.
+- **Bokoca na TV kei na retio.** Na Alzheimer's Association e vakatura me kau tani na rorogo veisisivi ena gauna ni cakacaka ni sere.
+- **Dua ga na veitalanoa ena dua na gauna.** Na vosa veicurumaki e dredre vei ira era bula vata kei na malumalumu ni vakanananu kei ira era dredre na nodra rogoca, me vaka e tukuna na [idusidusi ni siga levu](https://www.alz.org/help-support/caregiving/holidays) ni Alzheimer's Association.
+- **Sala ni curu tani matata kei na tutu vakacegu.** E dodonu me rawarawa vua e dua e vinakata me biubiu me lako tani, kei na dua na cakacaka me lako vata kei koya.
 
-## Group activity ideas
+## Vakasama ni cakacaka vata
 
-### Picture bingo
+### Bingo ni iyaloyalo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Na bingo ni iyaloyalo e veisautaka na naba ena iyaloyalo matata, me vaka na bilo ti, koli se rosi, me kua ni gadrevi e dua me muria e dua na naba balavu se wilika na volavola lalai.
 
-**How to run it:**
+**Na sala ni kena liutaki:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Tabaka e dua na kadi me baleta na tamata yadua mai na tabana ni neimami [Picture Bingo](/games/picture-bingo/) ena kena vakayagataki na ibulukau ni taba. Na pepa vavaku e rawarawa cake me tauri. Vauca ena palasitika me rawa ni vakayagataki tale.
+2. Solia na maka rawarawa me tauri, me vaka na tiki ni qito, isogo ni tavaya se tiki ni kadi sa musuki.
+3. Vakayagataka na daukacivaka ena sikirini ena TV se porojeka me ra raica kece na iyaloyalo ni o cavuta na kena yaca.
+4. Cegu vakalailai ni oti na iyaloyalo yadua ka sureta e dua na vosa lekaleka: "E dua beka e via tukuna mai e dua na koli e kila?" se "Na cava o raica ena iyaloyalo oqo?"
+5. Tomana na kacivaka me yacova ni sinai taucoko na kadi kece. E ra oti kece.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Na kena moici:** Vakayagataka e lailai na kena sikuea me baleti ira era raica ni osooso na kadi taucoko. E dua na dauveivuke e rawa ni dusia na iyaloyalo veidonui vua e dua e gadreva. Eso era na vinakata beka me ra taura na kadi ni iyaloyalo ni daukacivaka ka vakaraitaka ki na ilawalawa.
 
-### Sing-alongs
+### Sere vata
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Na sere e dua na cakacaka ni ilawalawa e dau taleitaki vakalevu. Na Alzheimer's Association e kaya ni dina ga ena gauna e muri, e rawa ni [tavulaka e dua na ivakatagi se sereva e dua na sere mai nona gauna ni gone](https://www.alz.org/help-support/caregiving/daily-care/art-music) e dua.
 
-**How to run it:**
+**Na sala ni kena liutaki:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Digitaka na sere era tubu cake kina o ira era tiko kina, sega ni ka e taleitaka na iliuliu. Tarogi ira na wekana na ka e taleitaka na tamata yadua.
+- Vakayagataka na sere ka sega na itukutuku ni volivolitaki, ni kaya na Association ni rawa ni veilecayaki.
+- Tabaka na vosa ni sere ena volavola levu me baleti ira era wilika, ia kua ni vakasaurarataki.
+- Solia na iyaya ni rorogo, duru ni liga se isulu malumalumu me ueuci.
+- Vakayaloqaqataki na tavulaki ni liga kei na toso, ka maroroya na ivakatagi ni rorogo me vinaka.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Na kena moici:** Eso era na sereva na vosa kece, eso era gunugunu, eso era tavulaka na yavadra, ka so era vakarorogo wale ga. Na ka kece oqo e yaga. Raica na neimami [idusidusi ni cakacaka ni sere](/activities/music/) me baleta na ikuri ni vakasama.
 
-### Reminiscence groups
+### Ilawalawa ni nanuma lesu
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Na ilawalawa ni nanuma lesu e soqoni vata ena dua na ulutaga, me vaka na gauna ni vuli, motoka taumada, valenisili se vula i katakata, ka vakayagataka na itaba, iyaya kei na sere. Na inaki me veitalanoa marau, sega ni nanuma lesu dodonu.
 
-**How to run it:**
+**Na sala ni kena liutaki:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Digitaka e dua na ulutaga ka kauta mai e vica na iyaya era rawa ni taura na tamata: misini ni waki livaliva ni liga, qara ni baseball, iteitei, se ivolavivigi ni sore.
+2. Veisoliyaka e dua ga na iyaya ena dua na gauna. Taroga na taro dola: "Tukuna mai mada na ka oqo," "Na cava o raica?" "O cei e vakayagataka e dua na ka vaka oqo?"
+3. Ciqoma na isau kece. Kua ni vakadodonutaka e dua na tiki ni gauna se dina.
+4. Dusimaka na veitalanoa ki na nanuma marau. Na ivakasala ni cakacaka e kaya ni dodonu vei ira na dauqaravi me ra dusimaka na nanuma lesu ki na nanuma vinaka, sega ki na veika e rawa ni vakararawataki.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+Na [Conversation Cards](/games/conversation-cards/) e vakarautaka na kadi iyaloyalo me tabaki kei na taro dola ena veiulutaga, ka vinaka me tekivu ni veitalanoa. Eso tale na vakasama e tiko ena neimami [idusidusi ni nanuma lesu](/activities/reminiscence/).
 
-### Finish the saying
+### Vakacavara na vosa kilai
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Na vosa kilai (me vaka na "Vakarau vinaka e yaga...") e sureti ira kece me ra kaya vata na kena icavacava. Vakaraitaka na [Finish the Saying](/games/finish-the-saying/) ena sikirini levu ka laiva na ilawalawa me sauma vata. E tiko e dua na taro ni veitalanoa ni oti na vosa kilai yadua. Kevaka e sega e kaya na icavacava, vakaraitaka ka toso yani. E sega na ka donu se cala.
 
-### Large-print word search, together
+### Vakasaqara vosa ni volavola levu, vata
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Vakaraitaka na [Word Search](/games/word-search/) ni volavola levu ena sikirini ka vakasaqara vata na vosa me vaka e dua na ilawalawa, se tabaka na kedra ilavelave me baleti ira era taleitaka me cakacaka vakataki ira ena teveli. Na vosa e lako wale ga ki na yasana kei na loma.
 
-### Gentle movement
+### Toso malumalumu
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Na dodroka ni dabe, veisoliyaka na polo malumalumu se baloni, se danisi ni dabe ena sere kilai. Vakaraitaka na toso yadua, kua ni vakamacalataka wale ga.
 
-### Sorting and matching at the table
+### Vakasokumuna kei na veidonui ena teveli
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Na teveli lalai e tolu se va na tamata e rawa ni ra vakasokumuna vata na iyaloyalo, tiki ni isulu se iyaya ni kana. Ena sikirini, na [Picture Pairs](/games/picture-pairs/) e rawa ni qitotaki ni ra vakaraitaki tu ga na iyaloyalo, kei na dua e tabaka ni veitalanoa na teveli ena iyaloyalo yadua.
 
-## How do I use your games on a big screen?
+## Au na vakayagataka vakacava na nomuni qito ena sikirini levu?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Na neimami qito e cakacaka ena barausa ni web, o rawa kina ni vakayagataka ena TV se porojeka ka sega ni vakacurumi e dua na ka.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Dolava na qito ena kompiuta lailai se tebeleti e semati ki na sikirini ena wa se ena veivakayagataki vakacakacaka.
+2. Vakatabakidua na barausa ka tuvanaka na rorogo me vinaka na kena ivakatagi.
+3. Me dua na iliuliu me cakava na tabaka ni kacivaka na ilawalawa na nodra digidigi. Se solia na tebeleti vua e dua e vinakata me tovolea.
+4. Cegu ena gauna ga e vakarautaki kina na ilawalawa. Na qito e sega ni tiko kina na ivakatagi ni gauna, sikoa se icavacava vakasaurarataki.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+Na [Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) kei na [Conversation Cards](/games/conversation-cards/) e dau vinaka cake me baleta na ilawalawa. Raica na digidigi kece ena neimami [tabana ni qito](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Au na moica vakacava e dua na cakacaka me baleti ira era duidui na nodra rawa-ka?
 
-Plan at least three ways to join every activity.
+Vakarautaka e lailai duadua e tolu na sala me curu kina ena cakacaka yadua.
 
-| Activity | More independent | Some support | Most support |
+| Cakacaka | Rawarawa cake me cakava vakataki koya | E gadrevi e so na veivuke | E gadrevi e levu na veivuke |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo ni iyaloyalo | Kunea ka ubia na nona iyaloyalo | E dua na dauveivuke e dusia; o koya e ubia | Taura e dua na kadi ni iyaloyalo; vakarorogo ka sarasara |
+| Sere vata | Sere, digitaka na sere tarava | Gunugunu, tavulaka na liga, vakayagataka e dua na iyaya ni rorogo | Vakarorogo, taura e dua na isulu malumalumu, tavulaka na liga |
+| Nanuma lesu | Talanoa na italanoa | Sauma io se sega se dusia | Taura ka vakila na iyaya |
+| Vakasaqara vosa | Cakacaka ena nona ilavelave tabaki | Kunea na vosa ena sikirini levu kei na dua na dauveivuke | Vakarorogo ni wiliki na vosa |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Me baleti ira era sa sivia na nodra malumalumu ni vakanananu, na NHS e kaya ni na cakacaka e dodonu me rawarawa cake ka vakabibi cake ena yalo ni vakila, me vaka na sere, iyaya me tara ka lomani ni liga. E dua na gauna duadua vei koya ena loma se ni oti na ilawalawa e rawa ni vinaka cake vua mai na ilawalawa. Raica na [cakacaka ni gauna e muri](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Na sala cava me vosa kina na iliuliu ena ilawalawa?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Vakatikori iko ena gauna kece, ka vakayagataka na yaca e vinakata na tamata yadua.
+- Vosa vakamalua, solia e dua ga na ikalawa ena dua na gauna, ka vakaraitaka ni bera ni o tukuna.
+- Taroga na veisureti dola ("Tukuna mai mada...") se digidigi rawarawa, kua ni taro vakadikeva ("O nanuma tiko beka...?").
+- Kua ni vakadodonutaka. Vakavinavinakataka na tamata kece ena nodra veivuke.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Eso tale na ka me baleta na oqo e tiko ena neimami [ivakasala ni veivosaki](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Na icavacava vinaka, kei na kena laivi ira na tamata me ra lako
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Na cegu e dua na ka vinaka. Raica na ivakatakilakila ni dua sa oca, sega ni dau tiko vinaka se rarawa, ka vakarautaka e dua na dauveivuke me sureta e dua na taubale se idabedabe vakacegu tale. E dua e moce vakalailai ena sere vata e rawa ni vakacegu wale ga.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Vakatauca na ilawalawa kece ena sala vata, ena dua na sere kilai se dua na vakavinavinaka rawarawa, me vakila na icavacava ni vakacegu ka namaki. Ni oti, vola vakalekaleka na ka e yaga kei na ka e taleitaka o cei. Na ivolatukutuku oqori e vakavinakataka na soqoni tarava.

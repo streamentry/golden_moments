@@ -1,32 +1,34 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Bisalu sambu na dementia ya luyantiku"
+seoTitle: "Bisalu sambu na dementia ya luyantiku"
+description: "Bamabanza ya bisalu sambu na dementia ya luyantiku: banzila ya kukangula bisalu sambu muntu katatamana kusepela mpi kukala na lutwadisu."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Na kitini ya luyantiku ya dementia, bantu mingi lenda tatamana kusala
+  mambu yina bo ke sepelaka: bisalu ya bo ke zolaka, bakarte mpi bansaka ya
+  mesa, kulamba, kusala bilanga, kutambula, bimvuka, mambu ya lukwikilu mpi
+  kusadisa bankaka. Mambu yina ke soba mbala mingi kele bimvuka ya fioti,
+  kubasika ntangu ya nkufi, manaka ya pete ya kusonika mpi muntu mosi ya ke
+  sadisaka pene-pene. Yula muntu mambu yina yandi ke zola nde nge sadisa,
+  mpi bika yandi twadisa.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Bantu mingi na kitini ya luyantiku ke zingaka mpenza na kimpwanza mingi. Mbala mingi bisalu ke lombaka bansobolo ya fioti, kansi ve kusoba yo."
+  - "Yula muntu lusadisu ya nki yandi ke zola, mpi yikana kidimbu ya pete sambu na ntangu yina lusadisu ke lenda vanda mbote."
+  - "Bimvuka ya fioti, bantangu ya pima mpi kubasika ya nkufi ke sadisaka mingi mbala mingi."
+  - "Yai kele ntangu ya mbote sambu muntu twadisa bapoloze ya luzingu na yandi mosi, bonso buku ya mambu ya luzingu to jurnal."
+  - "Pona bansaka sambu na kusepela. Bika konso kima yina ke yantika kumonisa bonso kimekamu."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Inki bisalu kele mbote sambu na dementia ya luyantiku?"
+    a: "Mbala mingi bisalu yina muntu vandaka kusala mpi ke zolaka: bakarte, bansaka ya mesa, kulamba, kusala bilanga, kutambula, miziki, mambu ya lukwikilu, bimvuka mpi kusadisa bankaka. Yo lenda lomba nde yo vanda ya nkufi, ya pima to ya pete. Kusonika jurnal, kusonika mikanda mpi kusala buku ya luzingu mpe ke fwanaka mbote na kitini yai."
+  - q: "Inki mutindu mono lenda sadisa kukonda kubaka kisika na yandi?"
+    a: "Yula nki mutindu ya lusadisu muntu ke zola, mpi tala mbala na mbala. Yikanaka na ngogo to kidimbu mosi yina ke monisa nde yo me fwana kukota, mu mbandu ntangu ngogo to zina mosi ke kwisa ve. Kana kigonsa kele ve, bika yandi sala yo na mutindu na yandi, ata yo ke baka ntangu mingi."
+  - q: "Keti muntu yina ke zinga ti dementia ya luyantiku lenda meka bisalu ya mpa?"
+    a: "Ee, kana yandi ke zola. Bisalu yina yandi me yikana ti yo ke vanda mbala mingi ya pete, kansi bantu mingi ke sepelaka mpe ti kima ya mpa, bonso kimvuka ya kutambula yina me fwanana ti bantu yina ke zinga ti dementia, kilasi ya art to kimvuka ya kuyimba. Meka yo mbala mosi kukonda kununga, mpi tala mutindu yo ke monana."
+  - q: "Keti ba-app ya kuyidika mabanza kele mfunu na kitini ya luyantiku?"
+    a: "Bantu yankaka ke sepelaka ti bapuzzle mpi bansaka ya bangogo, mpi kusepela yina kele dibaku ya mbote. Keti app to nsaka mosi ve me monisa nde yo ke belula, ke lembika to ke yambula dementia. Kana nsaka ke natila kimpasi to ke sala nde muntu kuwa bonso yandi ke nunga ve, bika yo na lweka."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +50,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Na kitini ya luyantiku ya dementia, bantu mingi ke tatamana kuzinga bonso bo vandaka kusala ntama. Bo lenda sala kisalu, kusadisa bankaka, kumona banduku mpi kutwadisa ndambu mingi ya kilumbu na bo. Mbala mingi bisalu ke lombaka ve nde bo soba yo, kansi bo soba yo fioti sambu yo tatamana kuvanda ya kusepela. Kisalu na nge ke fwanana mingi ti nduku ya kisalu, kansi ve ti muntu ya ke sansaka kaka: muntu yina ke sadisaka, ke yidikaka mambu kumosi ti yandi mpi ke kotaka kaka ntangu bo me lomba.
 
-## What activities are good in early-stage dementia?
+## Inki bisalu kele mbote na dementia ya luyantiku?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Bisalu ya mbote na kitini ya luyantiku kele mbala mingi yina muntu ke zolaka dezia, kansi ya kukangula fioti. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ke tangaka bamabanza bonso bansaka ya bakarte mpi ya mesa, kusosa bangogo, kutambula, kukina, kusala bilanga, kuyidika bintuntu, kutuba masolo, kupenta, miziki, kusonika jurnal, kusonika mikanda, kusala ba-album ya bafoto, kulamba mpi binkulu ya bafeti.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Mambu yina ke soba mbala mingi kele kisika to mutindu, kansi ve kisalu yina mosi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ke monisa nde bantu na kitini ya luyantiku lenda yantika kutina mambu yina bo vandaka kusepela na yo, mpi ke pesaka mbandu ya muntu yina ke waka mpasi na nkinsi ya nene kansi ke vanda mbote na kimvuka ya fioti. Tubila pwelele mambu yina me kuma mpasi, mpi soba yo kumosi.
 
-## Ask first, and agree on how to help
+## Yula ntete, mpi yikanaka mutindu ya kusadisa
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Lutwadisu ya Alzheimer's Association sambu na kitini ya luyantiku](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) ke pesaka bifu yankaka yina ke sadisaka mpi na bisalu:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Yula mbala mosi.** "Inki lenda sala nde kimvuka ya kutanga mikanda vanda pete sambu na nge?" ke pesaka mvutu ya mbote kuluta kuyindula.
+- **Bakisa nde yandi lenda sala.** Kana kigonsa kele ve, bika muntu meka, mpi pesa kikesa na kisika ya kubaka kisalu na maboko na nge.
+- **Yikanaka kidimbu.** Ponaka ngogo to kidimbu yina ke monisa nde "yo me fwana kukota," mu mbandu ntangu zina mosi ke kwisa ve na ntangu ya nsaka ya bakarte.
+- **Tala mbala na mbala.** Yula kana kiteso ya lusadisu ke fwanana, ke luta mingi to ke luta fioti.
 
-## Activity ideas for the early stage
+## Bamabanza ya bisalu sambu na kitini ya luyantiku
 
-### Keep up roles and hobbies
+### Tatamana na mikumba mpi bisalu yina nge ke zolaka
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Kangama na kisalu ya mbala na mbala.** Kisalu ya kusadisa bankaka konso mposo, kimvuka ya kuyimba to club ke pesaka kilumbu mutindu ya mbote. Kana yo ke kuma mpasi, kisalu ya nkufi to ya pima lenda fwana mingi.
+- **Yidika madia kumosi.** Kana kusumba bima na magazini me kuma mpasi, Alzheimer's Association ke longaka nde yula muntu asadisa kuyidika menu ya mposo mpi kusonika lisiti.
+- **Lamba mpi sala bima ya kukanga na four.** Landa resepi yina nge ke zolaka kumosi. Tula bima yonso na ndonga na ntwala ya kuyantika, sambu bitambi vanda pwelele.
+- **Sala bilanga.** Yidika kisika ya bilanga, pona bankeni to banti mpi sala kisalu kumosi. Lisiti ya kusonika ya bisalu ya bilanga ya mposo ke sadisaka.
+- **Tatamana ti kisalu ya maboko.** Kusala na mabaya, kusona, kutunga to kutunga bamodele lenda landa ti bapaterne ya pete mpi mwini ya mbote.
 
-### Games for enjoyment
+### Bansaka sambu na kusepela
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Sakana bakarte mpi bansaka ya mesa.** Bansaka yina muntu me yikana ti yo kele ya pete kuluta. Sakana na bitini sambu muntu mosi ve kuvanda na ntwala, mpi tanga bapointi fioti to kubika yo.
+- **Meka kusosa bangogo ya nene na ntinta.** [Word search](/games/word-search/) na beto lenda salama na ekran to imprimé sambu na ntangu ya pima.
+- **Sala bapuzzle.** Pona ntalu ya bitini yina ke pesa kikesa ya pima, kansi ve mpasi. [Picture puzzle](/games/picture-puzzle/) kele mutindu ya nkufi na ekran, mpi lutwadisu na beto ya [puzzles for dementia](/activities/puzzles/) ke sadisaka kusola mosi.
+- **Vukana na bansaka ya kuyindula sambu na kusepela.** Bantu yankaka ke zolaka mingi bansaka ya kuyindula na kimvuka. Kana yo ke yantika kumonana bonso kimekamu, ponaka diaka mambu yankaka, to meka [easy trivia questions](/activities/trivia/) na beto, yina kele ti bamvutu ya kupona mpi kukonda kotanga bapointi.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Bansaka awa kele sambu na kusepela. Nsaka mosi ve me monisa nde yo ke belula to ke lembika dementia; tanga mingi na [brain games: what the research says](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Sonika, yindula mpi kanga mambu na kuyibuka
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Kangaka jurnal.** Alzheimer's Association ke longaka kusonika jurnal bonso mutindu mosi ya kusadila mawi na nima ya kuzaba nde muntu kele ti dementia. Ndambu ya ndonga fioti konso kilumbu me lunga.
+- **Twadisa buku ya luzingu.** Kitini ya luyantiku kele ntangu ya mbote sambu muntu pona bafoto na yandi mosi mpi asonika to atuba masolo ya bo. Tala [reminiscence activities](/activities/reminiscence/).
+- **Sonika mikanda.** Mukanda sambu na mwana ya nkaka, nduku ya ntama to nduku ya kisalu ya ntama lenda vanda na valere sambu na bantu nyonso zole.
+- **Tubila bafoto.** [Photo pairs](/games/photo-pairs/) ke kumisaka bafoto ya dibuta nsaka ya pete ya kufwanisa, mpi [conversation cards](/games/conversation-cards/) ke pesaka bandinga ya pete ya kuyantika masolo.
 
-### Go out and move
+### Basika mpi nikisa nitu
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ke longaka nde landa kubasika yina nge me yikana ti yo ntangu yonso yina beno nyonso zole ke vanda mbote. Yidika yo na ntangu ya mbote ya kilumbu sambu na muntu yina, mpi bika yo kula ve mingi.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Kubasika ya nkufi sambu na mambu ya kultire.** Musée, filme ya ntangu ya mwini to exposition ya art, mingi-mingi na ntangu ya pima.
+- **Kuyiswimina.** NIA ke longaka pisine na ntangu ya pima ya kilumbu.
+- **Bimvuka ya kutambula mpi bakilasi ya kukina.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ke tangaka kukina, tai chi, yoga, kuyiswimina mpi bimvuka ya kutambula, mpi bakisika yina me fwanana ti bantu yina ke zinga ti dementia, kana yo kele.
+- **Bimvuka ya kuyimba mpi ba-memory cafés.** Bimvuka ya kikesa ya pima kisika bantu yina ke zinga ti dementia mpi bantu yina ke sadisaka bo lenda kutana ti bankaka yina kele na mutindu mosi.
 
-## Small changes that keep activities enjoyable
+## Bansobolo ya fioti yina ke sadisa bisalu kutatamana kuvanda ya kusepela
 
-| If this is getting harder | Try this |
+| Kana diambu yai me kuma mpasi | Meka diambu yai |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Bisika ya bantu mingi to ya makelele | Kwenda na bantangu ya pima, pona bimvuka ya fioti, vanda na lweka ya suku |
+| Kuyibuka bazina ya mpa | Tubila bantu na zina na bo konso ntangu; lomba bimvuka kusadila ba-badge ya bazina |
+| Kulanda manaka ya bitambi mingi | Sonika bitambi, to tula bima yonso na ndonga na ntwala |
+| Kulemba nitu | Kubasika ya nkufi, kupema na nima, kukonda kuyidika diaka mambu yankaka na kilumbu yina |
+| Kulanda mambu na nsaka | Sakana na bitini, sala bansiku pete, to bika kotanga bapointi |
+| Kuzwa bangogo | Pesa ntangu; pesa ngogo kaka kana kidimbu yina beno me yikana ke monisa yo |
 
-## When to slow down
+## Ntangu ya kulembika
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Yambula to soba kisalu ntangu yo ke natila kimpasi kuluta kusepela. Kana muntu ke mona kimpasi mbala na mbala, ke tina kisalu yina yandi vandaka kuzola to ke tuba nde "mono lenda diaka ve," yo lombaka masolo ya mawete, kansi ve kununga. Mbala mingi mvutu kele mutindu ya fioti ya kima yina mosi. Ntangu muntu ke lomba lusadisu mingi sambu na kuyantika mpi kulanda bitambi, bamabanza na [bisalu sambu na kitini ya kati](/activities/middle-stage/) lenda fwana mingi. Sambu na mambu mingi ya kutuba na mutindu ya lusadisu, tala [bantuma ya kutubila mbote](/caregiving/communication-tips/), mpi sambu na bamabanza mingi, tala [101 bisalu](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Bantu yina ke sadisaka mpe ke lombaka lusadisu. Kitini ya luyantiku kele ntangu ya mbote sambu na kutunga kimvuka na nge ya lusadisu; tala [kudikeba ya muntu yina ke sadisaka](/caregiving/caregiver-self-care/).

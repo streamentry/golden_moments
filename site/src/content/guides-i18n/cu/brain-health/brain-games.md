@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Могѫтъ ли игрꙑ оума възбранити ослаблѥниѥ оума?"
+seoTitle: "Игрꙑ оума и ослаблѥниѥ оума: что показоуѥтъ знаниѥ"
+description: "Что изслѣдованиꙗ глаголѭтъ о играхъ оума и ослаблѥнии оума: оумьноѥ поощрѥниѥ, оучєниѥ на съчєтальницѣ, испытаниѥ ACTIVE и дѣло Lumosity."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Ни ѥдина игра оума нє ꙗви сѧ ꙗко възбранꙗѥтъ ослаблѥниѥ оума.
+  Оучєниѥ на съчєтальницѣ обꙑчьно оулоучшаѥтъ тъчьѭ дѣла, ꙗжє чловѣкъ творитъ.
+  Ѥдино изслѣдованиѥ отъ испытаниꙗ ACTIVE съвѧза особьно оучєниѥ скорости съ
+  допльнитєльнꙑми събрании съ мьньшємь числомь ослаблѥниꙗ оума за 20 лѣтъ, нъ сє
+  ѥстъ тѣсно находищє. Оу чловѣкъ живѫщихъ съ ослаблѥниѥмь оума съборьноѥ оумьноѥ
+  поощрѥниѥ показоуѥтъ малꙑ и кратъкꙑ польꙁꙑ. Игрꙑ лоучє приимати ради радости
+  и обьщєниꙗ.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Изслѣдованиꙗ оучєниꙗ оума показоуѭтъ, ꙗко чловѣци бываѭтъ лоучьши въ дѣлѣхъ, ꙗжє творѧтъ, нъ мало ѥстъ знаниꙗ, ꙗко сє прѣходитъ въ житии повьсєдьньнѣмь."
+  - "Въ испытании ACTIVE тъчьѭ ти, ижє творишѧ особьно оучєниѥ скорости съ допльнитєльнꙑми събрании, имѣшѧ мьньшє ослаблѥниꙗ оума за 20 лѣтъ. Оучєниѥ скорости бєзъ допльнитєльнъихъ събрании, тако жє оучєниѥ памѧти и разоума, сєго нє показашѧ."
+  - "Въ лѣтѣ 2016 творьць Lumosity платилъ 2 миллиона доларовъ, да съконьчаѥтъ прѣниѥ съ FTC, ꙗко нє имѣашє довъльна знаниꙗ за обѣтꙑ о отълагании ослаблѥниꙗ оума."
+  - "Оу чловѣкъ съ лєгъкымъ или срѣдьнимъ ослаблѥниѥмь оума съборьноѥ оумьноѥ поощрѥниѥ показоуѥтъ малꙑ и кратъкꙑ польꙁꙑ за мꙑшлѥниѥ и ꙗсньѥишѧ польꙁꙑ за бесѣдѫ и обьщєниѥ."
+  - "Игрꙑ Golden Moments сѫтъ ради радости и обьща врѣмєнє. Тꙑ нє сѫтъ лѣчьба и нє възбранꙗѭтъ ни нє оумальꙗѭтъ ослаблѥниꙗ оума."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Могѫтъ ли игрꙑ оума възбранити болѣзнь Альцхєимєра?"
+    a: "Ни ѥдина игра оума нє ꙗви сѧ извѣстьно ꙗко възбранꙗѥтъ болѣзнь Альцхєимєра или ино ослаблѥниѥ оума. National Institute on Aging глаголѥтъ, ꙗко нѣстъ довъльна знаниꙗ, да приложєниꙗ оучєниꙗ оума имѫтъ тъждє плодъ, ижє видѣшѧ въ изслѣдованиихъ. Игрꙑ могѫтъ бꙑти приꙗтьнъ способъ прѣводити врѣмѧ."
+  - q: "Что обьрѣтє испытаниѥ ACTIVE о оучєнии скорости и ослаблѥнии оума?"
+    a: "Изслѣдованиѥ 2026 лѣта съвѧза оучастьникꙑ ACTIVE съ записями Medicare за 20 лѣтъ. Чловѣци, ижє творишѧ оучєниѥ скорости съборьна дѣиствиꙗ и имѣшѧ понє ѥдино допльнитєльно събраниѥ, имѣшѧ мьньшє познана ослаблѥниꙗ оума нєжє съборъ бєзъ оучєниꙗ. Оучєниѥ скорости бєзъ допльнитєльнъихъ събрании, тако жє оучєниѥ памѧти или разоума, нє показашѧ вєлика дѣиствиꙗ."
+  - q: "Сѫтъ ли игрꙑ и гатаника добрꙑ чловѣкоу, ижє оужє живєтъ съ ослаблѥниѥмь оума?"
+    a: "Могѫтъ бꙑти, ащє чловѣкъ радоуѥтъ сѧ имъ. Съборьноѥ оумьноѥ поощрѥниѥ, въ нѥмьжє сѫтъ словєсьнꙑ игрꙑ, гатаникꙑ, пѣсни и бесѣда, показоуѥтъ малꙑ кратъкꙑ польꙁꙑ за мꙑшлѥниѥ и ꙗсньѣишѧ польꙁꙑ за бесѣдѫ и обьщєниѥ. Цѣль да бѫдєтъ радость, а нє искоушєниѥ."
+  - q: "Почьто FTC казни Lumosity?"
+    a: "Въ лѣтѣ 2016 Federal Trade Commission обвини Lumos Labs, ꙗко творꙗшє обѣтꙑ о своихъ играхъ, въ нихъ жє и отълаганиѥ ослаблѥниꙗ съ лѣтꙑ и ослаблѥниꙗ оума, бєзъ довъльна знаниꙗ. Дроужьство съизволи платити 2 миллиона доларовъ и имѣти вѣрьноѥ знаниѥ прѣждє таковъихъ обѣтовъ."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Игрꙑ оума сѫтъ вьсьдє, и мъногꙑ обѣщаваѭтъ съхранити оумъ младъ. Ащє пєчєши сѧ о чловѣцѣ живѫщємь съ ослаблѥниѥмь оума, или боиши сѧ о своѥи памѧти, подобьно ѥстъ въпрашати, ащє таковꙑ игрꙑ могѫтъ помошти. Сь сѫтъ словєса, ꙗжє изслѣдованиꙗ въ истинѫ показоуѭтъ, и надєжьнаꙗ и та, ꙗжє нє сѫтъ надєжьна.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Сє ѥстъ обьщєѥ вѣдѣниѥ, а нє врачьскꙑ съвѣтъ. Виждь нашє [врачьскоѥ отърєчєниѥ](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Могѫтъ ли игрꙑ оума възбранити ослаблѥниѥ оума?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ни ѥдина игра оума нє ꙗви сѧ извѣстьно ꙗко възбранꙗѥтъ ослаблѥниѥ оума. National Institute on Aging (NIA) съвѣтоуѥтъ чловѣкомъ блюсти сѧ обѣтовъ, ꙗко съчєтальнꙑ и сѣтьнꙑ игрꙑ могѫтъ оулоучьшити памѧть, и глаголѥтъ, ꙗко нѣстъ довъльна знаниꙗ, да коѥ приложєниѥ оучєниꙗ оума иматъ тъждє плодъ, ижє искоусишѧ въ врачьскъихъ изслѣдованиихъ ([NIA о възбранѥнии болѣзни Альцхєимєра](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Сє нє творитъ игръ бєзъ польꙁꙑ. Сє глаголѥтъ, ꙗко ихъ дѣиствиѥ ѥстъ въ радости, обьщєнии и обꙑчаи, а нє въ съхранѥнии чловѣка отъ ослаблѥниꙗ оума.
 
-## What is "near transfer", and why does it matter?
+## Что ѥстъ «ближьнєѥ прѣнєсєниѥ» и почьто сє важно ѥстъ?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Ѥгда чловѣкъ творитъ дѣло, обꙑчьно бываѥтъ лоучии въ томь дѣлѣ. Изслѣдоватєлє нарицаѭтъ сє плодомь оучєниꙗ. Трѫдьнѣишии въпросъ ѥстъ, ащє оулоучьшєниѥ **прѣноситъ сѧ** на инаꙗ: на подобьнаꙗ дѣла (ближьнєѥ прѣнєсєниѥ) или на житии повьсєдьньноѥ, ꙗко памѧтовати събраниꙗ или строити имѣниѥ (дальнєѥ прѣнєсєниѥ).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Вєликоѥ изслѣдованиѥ 2016 лѣта разглѧда изслѣдованиꙗ, ꙗжє дроужьства оучєниꙗ оума нарицахѫ лоучьшимь свѣдѣтєльствомь. Обьрѣтє мъного знаниꙗ, ꙗко чловѣци бываѭтъ лоучьши въ дѣлѣхъ, ꙗжє творѧтъ, мьньшє знаниꙗ о подобьнъихъ дѣлѣхъ, и мало знаниꙗ, ꙗко оучєниѥ оулоучьшаѥтъ повьсєдьньноѥ мꙑшлѥниѥ. Мъногꙑ изслѣдованиꙗ имѣшѧ и строи недостатькꙑ, и тѣмь нє можашє бꙑти тврьдъ отъвѣтъ ([Simons и дроузи, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Что глаголѭтъ събори о оучєнии оума на съчєтальницѣ?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Събори Cochrane, ижє събираѭтъ лоучьшаꙗ изслѣдованиꙗ, разглѧдашѧ оучєниѥ на съчєтальницѣ, ѥжє траꙗ понє 12 сєдмицъ:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Здрави чловѣци 65 лѣтъ и старѣишє:** осмь изслѣдовании съ 1,183 чловѣкꙑ. Знаниѥ бѣ низъко или зѣло низъко. Можєтъ бꙑти мала польꙁа абиѥ по оучєнии, нъ нѣстъ ꙗсна знаниꙗ, ащє траѥтъ ([съборъ Cochrane, здрави старьци](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Чловѣци съ лєгъкымъ оумьнымъ ослаблѥниѥмь:** осмь изслѣдовании съ 660 чловѣкꙑ. Ни ѥдино изслѣдованиѥ нє повѣда, ащє чловѣци потомь приꙗшѧ ослаблѥниѥ оума, и знаниѥ бѣ прѣслабо за отъвѣтъ ([съборъ Cochrane, лєгъкоѥ оумьноѥ ослаблѥниѥ](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Что обьрѣтє испытаниѥ ACTIVE?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE ѥстъ вєликоѥ изслѣдованиѥ въ Съѥдинєнъихъ Дрьжавахъ, начѧтоѥ въ лѣтѣ 1998 съ 2,802 чловѣкꙑ 65 лѣтъ и старѣишє, ижє живаахѫ самостотьно и нє имѣахѫ вєлика ослаблѥниꙗ памѧти или мꙑшлѥниꙗ. Чловѣци бꙑшѧ раздѣлєни по жрѣбию на ѥдинъ отъ трии видъ съборьна оучєниꙗ (скорость съборьна дѣиствиꙗ, памѧть или разоумъ) или на съборъ бєзъ оучєниꙗ. Оучєниѥ бѣ до дєсѧти събрании за пѧть или шєсть сєдмицъ. Нѣции, ижє съконьчашѧ болє събрании, приꙗшѧ по жрѣбию и **допльнитєльна събраниꙗ** по ѥдиномь и по трьхъ лѣтѣхъ.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Оучєниѥ скорости бѣ о оузьрѣнии и съборѣ видимаꙗ вѣдѣниꙗ въ кратъцѣхъ и кратъцѣхъ мигъхъ, по мѣрѣ, ꙗжє мѣнꙗшє сѧ, ѥгда чловѣкъ оуспѣвашє.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Въ лѣтѣ 2026 изслѣдоватєлє съвѧзашѧ 2,021 оучастьникъ съ записями Medicare за 20 лѣтъ ([изслѣдованиѥ ACTIVE за 20 лѣтъ](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Сє ѥстъ, чьто обьрѣтошѧ:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Оучєниѥ скорости съ понє ѥдинѣмь допльнитєльнъмь събраниѥмь:** мьньшє познана ослаблѥниꙗ оума нєжє въ съборѣ бєзъ оучєниꙗ (размѣръ 0.75, ѥжє примѣрьно рєчєтъ мьньшє о 25%).
+- **Оучєниѥ скорости бєзъ допльнитєльнъихъ събрании:** нє бѣ мьньшє.
+- **Оучєниѥ памѧти или разоума:** нє бѣ вєлика дѣиствиꙗ на познаниѥ ослаблѥниꙗ оума.
+- **Къжьдо оучєниꙗ съборъ въ цѣлости при съборѣ бєзъ оучєниꙗ:** бѣ малъ знакъ мьньша числа, нъ нє довъльно извѣстьнъ.
 
-### The limits of this finding
+### Прѣдѣли сєго находища
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Сє подобаѥтъ **ѥдиномоу особьномоу видоу оучєниꙗ скорости съ допльнитєльнꙑми събрании**, а нє вьсѣмъ играмъ оума.
+- Извѣстьнꙑи плодъ бѣ отъ **части събора** (чловѣци, ижє съконьчашѧ болє пръвъихъ събрании и приꙗшѧ допльнитєльнаꙗ), а нє отъ вьсєго събора скорости.
+- Ослаблѥниѥ оума мѣришѧ сѧ **знамении познаниꙗ въ записяхъ Medicare**, а нє прѣглѧданиѥмь къжьдо чловѣка. Около чєтвьрти пръвъихъ оучастьникъ нє бѣшѧ въчєтєни, понєжє бѣшѧ въ Medicare Advantage, идєжє нѣстъ пльнъихъ записии.
+- Оучастьници нє имѣахѫ вєлика ослаблѥниꙗ мꙑшлѥниꙗ, ѥгда начѧшѧ. Сии плоди ничьсожє нє глаголѭтъ о играхъ за чловѣкꙑ **оужє живѫщѧ съ ослаблѥниѥмь оума**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Сє ѥстъ достоино находищє, ѥмоу жє подобаѥтъ болє изслѣдованиꙗ. Нъ нє ѥстъ свѣдѣтєльство, ꙗко коѥ приложєниѥ възбранꙗѥтъ ослаблѥниѥ оума.
 
-## What did the FTC say about Lumosity?
+## Что рєчє FTC о Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Въ мѣсѧци ѥноуари 2016 лѣта Lumos Labs, творьць Lumosity, съизволи платити 2 миллиона доларовъ, да съконьчаѥтъ прѣниѥ Federal Trade Commission о льстивѣмь глашєнии. FTC рєчє, ꙗко дроужьство обѣщавашє, бєзъ довъльна знаниꙗ, ꙗко ѥго игрꙑ могѫтъ оулоучьшити дѣло въ троудѣ и оучєнии и могѫтъ отъложити ослаблѥниѥ съ лѣтꙑ, лєгъкоѥ оумьноѥ ослаблѥниѥ, ослаблѥниѥ оума и болѣзнь Альцхєимєра. Повєлѣниѥ трєбоуѥтъ, да дроужьство иматъ вѣрьноѥ знаниѥ прѣждє таковъихъ обѣтовъ въ грѧдѫщєѥ врѣмѧ ([вѣсть FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Оучєниѥ родоу ѥстъ сє: не скоро вѣроуи коѥи игрѣ, приложєнию или оучєнию, ѥжє обѣщаваѥтъ съхранити памѧть или възбранити ослаблѥниѥ оума.
 
-## Can games help someone who already has dementia?
+## Могѫтъ ли игрꙑ помошти чловѣкоу, ижє оужє живєтъ съ ослаблѥниѥмь оума?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Могѫтъ приложити радость къ доброу дьни, а сє ѥстъ зѣло важно. Наиболє изслѣдованꙑи пѫть ѥстъ **оумьноѥ поощрѥниѥ**: приꙗтьнаꙗ съборьнаꙗ дѣиствиꙗ, ꙗко бесѣда, въспоминаниѥ, словєсьнꙑ игрꙑ, гатаникꙑ и пѣсни, обꙑчьно въ малѣ съборѣ съ водитєлємь.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Съборъ Cochrane 2023 лѣта, ижє разглѧда 37 изслѣдовании съ 2,766 чловѣкꙑ съ лєгъкымъ и срѣдьнимъ ослаблѥниѥмь оума, обьрѣтє ([съборъ Cochrane о оумьнѣмь поощрѥнии](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **малѫ, кратъкѫ польꙁѫ** на искоушєнии мꙑшлѥниꙗ (знаниѥ срѣдьнѥѥ добротꙑ);
+- **видьнꙑѩ оулоучьшєниꙗ въ бесѣдѣ и обьщєнии** (знаниѥ вꙑсокꙑѩ добротꙑ, отъ мьньша числа изслѣдовании);
+- **малꙑ польꙁꙑ** за добротѫ житиꙗ, дѹша и обꙑчаи.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Польꙁꙑ мѣришѧ сѧ по болѣишєи части абиѥ по оучєнии около дєсѧти сєдмицъ, и мало изслѣдовании видѣ, ащє траꙗшѧ. Оумьноѥ поощрѥниѥ ѥстъ оустроѥно съборьно дѣло, и тѣмь си плоди нє подобаѭтъ самостотьно чловѣкоу, ижє ѥдинъ играѥтъ на дъсцѣ.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Съборъ Lancet 2024 лѣта тако жє глаголѥтъ, ꙗко дѣиствиꙗ сѫтъ важьна чловѣкомъ живѫщємъ съ ослаблѥниѥмь оума, да съхранѧтъ радость и цѣль ([съборъ Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Въ чьсѩмь сѫтъ игрꙑ въ истинѫ польꙁьнꙑ?
 
-When chosen well, games can offer:
+Ащє добрѣ изъбьрани сѫтъ, игрꙑ могѫтъ дати:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Радость.** Приꙗтьнъ часъ ѥстъ добръ самъ о себѣ.
+- **Обьщєниѥ.** Играти въкоупѣ даѥтъ лєгъко дѣлити врѣмѧ, ѥгда бесѣда трѫдьна ѥстъ. Виждь [како играти въкоупѣ](/caregiving/how-to-play-together/).
+- **Обꙑчаи.** Знакомо дѣло въ тъждє врѣмѧ къжьдо дьнє можєтъ дати покои.
+- **Оупъваниѥ.** Дѣиствиꙗ, ꙗжє подобаѭтъ томоу, ѥжє чловѣкъ можєтъ творити, даѭтъ ѥмоу чоути сѧ съможьна, а нє искоушаєма.
+- **Бесѣдѫ.** Образъ или знакома притъча можєтъ отъврѣсти повѣсть. Искоуси [карътꙑ бесѣдꙑ](/games/conversation-cards/) или [съконьчаи притъчѫ](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Чєго блюсти сѧ: часомѣрь, число, рѧдъ побѣдъ и вьсє, ѥжє чоуѥтъ сѧ ꙗко искоушєниѥ памѧти. Ащє чловѣкъ мѧтєтъ сѧ, прѣстани. Съконьчати рано или просто сѣдѣти въкоупѣ ѥстъ добръ исходъ. Нашє слово о [изъбьрании приложєнии и игръ](/caregiving/choosing-apps-and-games/) иматъ съказаниѥ.
 
-## Where Golden Moments fits
+## Къдє стоѭтъ Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Игрꙑ Golden Moments, ꙗко [парꙑ образъ](/games/picture-pairs/), [образьна гатаника](/games/picture-puzzle/) и [искании словєсъ вєликымь писмомь](/games/word-search/), сътворєни сѫтъ ради радости и обьща врѣмєнє. Нє имѫтъ часомѣра ни числа. Тꙑ **нє** сѫтъ лѣчьба и **нє** възбранꙗѭтъ ни нє оумальꙗѭтъ ослаблѥниꙗ оума. Лоучє ѥстъ рєщи сє ꙗсно, нєжє обѣщати то, ѥгожє ни ѥдина игра нє можєтъ дати.
 
-## Talk with a doctor
+## Бесѣдоуи съ врачємь
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Ащє боиши сѧ о измѣнѣнии памѧти о себѣ или о чловѣцѣ, о нѥмьжє пєчєши сѧ, иди къ врачоу, а нє оупъваи тъчьѭ на приложєниѥ. Врачь можєтъ искати винꙑ, ꙗжє могѫтъ бꙑти цѣлєни, и бесѣдовати о пѫтєхъ съ лоучьшимь знаниѥмь, ꙗко блюсти кръви тиснѫ и испꙑтати слоухъ. Виждь [Можєтъ ли ослаблѥниѥ оума бꙑти възбранєно?](/brain-health/can-dementia-be-prevented/) болє. Ащє бѫдєтъ нагло съмѧтєниѥ или инꙑ наглꙑ измѣнꙑ, поищи скоро врачьскꙑѩ помошти.

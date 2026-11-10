@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Деменция қаупі факторлары: Ланцет атаған 14 фактор"
+seoTitle: "Деменция қаупі: Ланцет атаған 14 фактор"
+description: "2024 жылғы Ланцет комиссиясы атаған деменцияның 14 өзгертуге болатын қаупі факторы, өмір кезеңдері және дәрігермен нені талқылауға болатыны."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 жылғы Ланцет комиссиясы деменцияның ықтимал өзгертуге болатын 14 қаупі
+  факторын атады: аз білім алу, есту қабілетінің төмендеуі, қандағы жоғары ЛТТХ
+  холестерині, депрессия, бас жарақаты, қозғалыс белсенділігінің аздығы, қант
+  диабеті, темекі шегу, жоғары қан қысымы, семіздік, шамадан тыс алкоголь ішу,
+  әлеуметтік оқшаулану, ауаның ластануы және түзетілмеген көру қабілетінің
+  төмендеуі. Олар бірге әлем бойынша деменция жағдайларының шамамен 45%-ымен
+  байланысты, бірақ бұл бір нақты адамға кепілдік бермейді.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Бұл 14 фактор бүкіл өмір кезеңін қамтиды: біреуі ерте жаста, оны ересек шақта, үшеуі кейінгі жаста."
+  - "Ересек шақтағы есту қабілетінің төмендеуі және қандағы жоғары ЛТТХ холестерині әлем бойынша деменция жағдайларының әрқайсысы шамамен 7%-ымен байланысты, бұл — жеке факторлар арасындағы ең жоғары үлес."
+  - "Бұл пайыздар — себеп-салдар бар деп есептейтін, халыққа арналған бағалаулар. Кейбір байланыстар ішінара ғана себептік болуы мүмкін."
+  - "Жасы мен тұқымқуалаушылық — ешкім өзгерте алмайтын маңызды қаупі факторлары. Осы 14 қаупі факторын азайту ешкімде деменция болмайды деген кепілдік бермейді."
+  - "Қан қысымын, есту және көру қабілетін тексеру сияқты қадамдардың көбісі денсаулыққа басқа жағынан да пайдалы, сондықтан оларды дәрігермен талқылаған жөн."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Деменцияның өзгертуге болатын 14 қаупі факторы қандай?"
+    a: "2024 жылғы Ланцет комиссиясы аз білім алуды, есту қабілетінің төмендеуін, қандағы жоғары ЛТТХ холестеринін, депрессияны, бас миының жарақатын, қозғалыс белсенділігінің аздығын, қант диабетін, темекі шегуді, жоғары қан қысымын, семіздікті, шамадан тыс алкоголь ішуді, әлеуметтік оқшаулануды, ауаның ластануын және түзетілмеген көру қабілетінің төмендеуін атады. Олар бірге әлем бойынша деменция жағдайларының жартысына жуығымен байланысты."
+  - q: "Деменцияның қай қаупі факторы ең маңызды?"
+    a: "Әлем халқы ауқымында комиссия ересек шақтағы есту қабілетінің төмендеуі мен қандағы жоғары ЛТТХ холестеринінің әрқайсысы жағдайлардың шамамен 7%-ымен, ал аз білім алу мен әлеуметтік оқшауланудың әрқайсысы шамамен 5%-ымен байланысты деп бағалады. Бір нақты адам үшін қай факторлар маңыздырақ екені оның денсаулығына байланысты, сондықтан ең дұрыс бағыт беретін — дәрігер."
+  - q: "2024 жылы екі жаңа қаупі факторы қосылды ма?"
+    a: "Иә. 2024 жылғы есеп 2020 жылы аталған 12 факторға ересек шақтағы жоғары ЛТТХ («жаман») холестерині мен кейінгі жастағы түзетілмеген көру қабілетінің төмендеуін қосты. Комиссия оларды тиісінше жағдайлардың шамамен 7%-ы және 2%-ымен байланыстырды."
+  - q: "Жас — өзгертуге болатын қаупі факторы ма?"
+    a: "Жоқ. Жас — Альцгеймер ауруының белгілі ең үлкен қаупі факторы, оны өзгерту мүмкін емес. Тұқымқуалаушылық та өз рөлін атқарады. Бұл беттегі 14 фактор — зерттеулер ықтимал өзгертуге болады деп көрсететін факторлар."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,132 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Қаупі факторы — белгілі бір жағдайдың даму ықтималдығының жоғары болуымен
+байланысты нәрсе. Бұл әр жағдайда себеп дегенді білдірмейді, және ондай фактордың
+болуы сізде деменция дамиды деген сөз емес. Бұл бетте 2024 жылғы Ланцет
+комиссиясы ықтимал өзгертуге болады деп көрсеткен деменцияның 14 қаупі факторы,
+зерттеулер олармен нені байланыстыратыны және дәрігермен нені талқылауға
+болатыны берілген.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Жалпы түсінік алу және ірі зерттеулер не көрсеткенін білу үшін
+[Деменцияның алдын алуға бола ма? Зерттеулер не дейді](/brain-health/can-dementia-be-prevented/)
+деген материалдан бастаңыз. Бұл — жалпы ақпарат, медициналық кеңес емес; біздің
+[медициналық жауапкершіліктен бас тарту](/medical-disclaimer/) бетімізді
+қараңыз.
 
-## What are the 14 risk factors for dementia?
+## Деменцияның 14 қаупі факторы қандай?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+Деменцияны зерттейтін 27 ғалым жазған [2024 жылғы Ланцет комиссиясы](https://doi.org/10.1016/S0140-6736(24)01296-0)
+ықтимал өзгертуге болатын 14 қаупі факторы бірге әлем бойынша деменция
+жағдайларының шамамен 45%-іне қатысы бар деп бағалады. Төмендегі әр фактор
+үшін көрсетілген пайыз — комиссияның сол фактормен байланысты жағдайлар үлесіне
+арналған бағалауы, бүтін санға дейін дөңгелектелген. Бұл сандар бір-бірімен
+қабаттасады, себебі көптеген адамдарда бірнеше қаупі бірден болады, сондықтан
+олардың қосындысы 45% болады.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Қаупі факторы | Өмір кезеңі | Жағдайлар үлесі | Зерттеулер не байланыстырады | Не істеуге болады |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Аз білім алу | Ерте жас | 5% | Мектепте аз оқу жоғары қаупімен байланысты. Ересек шақта ақыл-ой белсенділігін сақтау, тіпті аз оқыған адамдар үшін де, қорғаныс әсері бар сияқты. | Кез келген жаста үйренуді және ойландыратын нәрселермен айналысуды жалғастырыңыз: оқу, хобби, курстар, басқалармен бірге ойындар. |
+| Есту қабілетінің төмендеуі | Ересек шақ | 7% | Түзетілмеген есту проблемалары жоғары қаупімен байланысты. Адамдарды уақыт өте бақылайтын зерттеулер есту аппаратын қолдануды төмен қаупімен байланыстырады. | Есту қабілетіңізді тексертіңіз. Есту аппараты көмектесе ме деп сұраңыз және тағайындалса, қолданыңыз. Құлақты қатты дыбыстан қорғаңыз. |
+| Жоғары ЛТТХ холестерині | Ересек шақ (шамамен 40 жастан) | 7% | Ересек шақтағы жоғары ЛТТХ («жаман») холестерині жоғары қаупімен байланысты. Бақылау зерттеулері статин қолдануды төмен қаупімен байланыстырады, бірақ кейінгі жастағы сынақтар мұны көрсетпеді. | Холестериніңізді тексеру керек пе және қажет болса не істеу керегін дәрігерден сұраңыз. |
+| Депрессия | Ересек шақ | 3% | Депрессия жоғары қаупімен байланысты. Кейінгі жаста депрессия деменцияның ерте белгісі де болуы мүмкін. | Көңіл-күйдің төмендеуі немесе қызығушылықтың жоғалуы екі аптадан артық созылса, дәрігерге айтыңыз. Депрессияны емдеуге болады. |
+| Бас миының жарақаты | Ересек шақ | 3% | Кез келген жаста және кез келген себеппен, соның ішінде контактылы спортта алынған бас жарақаты жоғары қаупімен байланысты. | Велосипед тепкенде және контактылы спортпен айналысқанда дулыға киіңіз. Құлауды алдын алу туралы сұраңыз. Бас жарақатынан кейін демалып, тексеріліңіз. |
+| Қозғалыс белсенділігінің аздығы | Ересек шақ | 2% | Жаттығу жасайтын және спортпен айналысатын адамдарда деменция дамуы сирек байқалады. Сынақ деректері әлі шектеулі. | Сізге қандай белсенділік қауіпсіз екенін сұраңыз және ұнайтын нәрсені табыңыз. Біздің [жаттығу жөніндегі нұсқаулықты](/brain-health/exercise/) қараңыз. |
+| Қант диабеті | Ересек шақ | 2% | Қант диабеті, әсіресе ересек шақта басталса немесе ұзаққа созылса, жоғары қаупімен байланысты. | Қандағы қант деңгейін тексертіңіз. Егер қант диабеті болса, оны қауіпсіз бақылау үшін медициналық мамандармен бірге жұмыс істеңіз. |
+| Темекі шегу | Ересек шақ | 2% | Темекі шегу жоғары қаупімен байланысты. Зерттеулер көрсеткендей, темекіні тастаған адамдарда шегуді жалғастырушылардағыдай жоғары қауіп сақталмайды. | Тастауға көмек туралы сұраңыз. Кез келген жаста тастаудың пайдасы бар. |
+| Жоғары қан қысымы | Ересек шақ | 2% | Ересек шақтағы жоғары қан қысым жоғары қаупімен байланысты. Қан қысымын төмендететін дәрілерді сынау деменция немесе танымдық бұзылыс қаупінің сәл төмендеуін көрсетеді. | Өз көрсеткіштеріңізді біліңіз. Комиссия шамамен 40 жастан бастап жоғарғы көрсеткішті 130 немесе одан төмен ұстауды ұсынады; сізге қандай мақсат сәйкес келетінін сұраңыз. |
+| Семіздік | Ересек шақ | 1% | Ересек шақтағы семіздік жоғары қаупімен байланысты және қант диабеті қаупін де арттырады. | Сізге сай сау салмақ туралы дәрігерден сұраңыз. Егде жастағы адамдар медициналық кеңессіз салмақ тастау үшін диета ұстауы тиіс емес. |
+| Шамадан тыс алкоголь | Ересек шақ | 1% | Көп мөлшерде алкоголь ішу жоғары қаупімен байланысты. Көп ішуді азайту төмен қаупімен байланысты. | Сізге қауіпсіз мөлшер қандай екенін, әсіресе қабылдап жүрген дәрілеріңізді ескере отырып, сұраңыз. |
+| Әлеуметтік оқшаулану | Кейінгі жас | 5% | Адамдармен сирек араласу жоғары қаупімен байланысты. | Өзіңізге ұнайтын жолдармен байланыста болыңыз. Біздің [әлеуметтік байланыс жөніндегі нұсқаулықты](/brain-health/social-connection/) қараңыз. |
+| Ауаның ластануы | Кейінгі жас | 3% | Ауасы көбірек ластанған жерде тұру жоғары қаупімен байланысты. Зерттеулер таза ауаны төмен қаупімен байланыстырады. | Бұл көбіне қоғамдық саясатқа байланысты мәселе. Жергілікті ауа сапасы туралы ескертулерді тексеріңіз және ауа өте ластанған күндері далада аз болыңыз. |
+| Түзетілмеген көру қабілетінің төмендеуі | Кейінгі жас | 2% | Түзетілмеген көру проблемалары жоғары қаупімен байланысты. АҚШ-тағы бір үлкен зерттеу катаракта операциясын төмен қаупімен байланыстырды. | Көзді жүйелі түрде тексертіңіз. Катаракта сияқты проблемаларды емдеуге бола ма деп сұраңыз. |
 
-## How should I read these percentages?
+## Бұл пайыздарды қалай түсіну керек?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Мұқият. Комиссияның өз есебінде есте ұстаған жөн бірнеше маңызды ой бар:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Олар адамдарды емес, халықты сипаттайды.** University College London
+  [есептің қысқаша мазмұнында](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  қауіпті азайту халық деңгейінде әсер ететінін, бірақ бір нақты адамның
+  деменциядан сақтанып қалатынына кепілдік бермейтінін атап өтеді.
+- **Олар себеп-салдар бар деп есептейді.** Авторлар тек сенімді деректері бар
+  факторларды ғана енгізді, бірақ кейбір байланыстар ішінара ғана себептік
+  болуы мүмкін дейді.
+- **Бұл — әлемдік көрсеткіштер.** Деректердің көбі табысы жоғары елдерден
+  алынған, сондықтан кез келген ел немесе қауымдастық үшін нақты үлес басқаша
+  болуы мүмкін.
+- **Кіші пайыздардың да маңызы бар.** Әлем бойынша жағдайлардың 2%-ымен
+  байланысты фактордың өзі де өте көп адамға әсер етеді.
 
-## Which risk factors were added in 2024?
+## 2024 жылы қандай қаупі факторлары қосылды?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 жылғы есеп 2020 жылы аталған 12 факторға тағы екеуін қосты:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Ересек шақтағы жоғары ЛТТХ холестерині**, жағдайлардың шамамен 7%-ымен
+  байланысты.
+- **Кейінгі жастағы түзетілмеген көру қабілетінің төмендеуі**, жағдайлардың
+  шамамен 2%-ымен байланысты.
 
-## What risk factors cannot be changed?
+## Қандай қаупі факторларын өзгерту мүмкін емес?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Ұлттық қартаю институты [жасты Альцгеймер ауруының белгілі ең үлкен қаупі факторы](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)
+деп атайды және оны ешкім өзгерте алмайды. Тұқымқуалаушылық та өз рөлін
+атқарады; Альцгеймер қаупіне әсер ететін белгілі бір ген — APOE деп аталады.
+NIA ғалымдар көптеген адамдарда Альцгеймердің не себептен дамитынын әлі толық
+түсінбейтінін де айтады. Ланцет комиссиясы ықтимал өзгертуге болатын
+қауіптерді адамның тұқымқуалайтын қаупіне қарамастан төмендетуге болатынын
+атап өтеді.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Жас пен тұқымқуалаушылықтың рөлі үлкен болғандықтан, 14 қаупі факторының ешқайсысы
+жоқ көптеген адамдарда да деменция дамиды. Бұл ешкімнің кінәсі емес.
 
-## What does the trial evidence say about changing these risks?
+## Осы қаупі факторларын өзгерту туралы сынақ деректері не дейді?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Қаупі факторын деменциямен байланыстыру — оны өзгертудің деменция қаупін
+төмендететінін дәлелдеумен бірдей емес. Сынақ деректерінің қазіргі жағдайына
+бірнеше мысал:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Қан қысымы.** SPRINT MIND зерттеуінде қан қысымының төменгі мақсаты жеңіл
+  танымдық бұзылысты айтарлықтай азайтты. Алайда ықтимал деменцияны айтарлықтай
+  азайтпады, дегенмен бұл әсерді көрсету үшін зерттеу тым шағын болған болуы
+  мүмкін ([JAMA-дағы SPRINT MIND](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Есту аппараттары.** Ланцет комиссиясы үш жылға созылған есту аппаратын
+  сынауды сипаттайды: ол жалпы ойлау қабілетіне әсер етпеген, бірақ қаупі
+  жоғары адамдар тобында пайда болған. Адамдарды уақыт өте бақылайтын
+  зерттеулер есту аппаратын қолдануды төмен қаупімен байланыстырады. Толығырақ
+  біздің [есту жөніндегі нұсқаулықта](/brain-health/hearing/).
+- **Дене белсенділігі.** Ұлттық қартаю институты жаттығудың жеңіл танымдық
+  бұзылыстың немесе Альцгеймердің алдын ала алады немесе оны баяулата алады деп
+  қорытынды жасауға жеткілікті клиникалық сынақ деректері жоқ екенін айтады,
+  бірақ кейбір зерттеулер оның жасқа байланысты төмендеуге көмектесуі мүмкін
+  деп көрсетеді
+  ([NIA: Альцгеймердің алдын алу](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Деменция дамуын күтіп жүргізілетін ұзақ сынақтар баяу әрі қымбат, сондықтан
+көптеген факторлар бойынша ең жақсы деректер адамдарды жылдар бойы бақылайтын
+зерттеулерден алына береді. Мұндай деректер пайдалы, бірақ сынақ деректеріне
+қарағанда әлсіздеу.
 
-## What about sleep and diet?
+## Ұйқы мен тамақтану ше?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Комиссия ұйқы мен тамақтануды қарастырды, бірақ деректер жеткілікті түрде
+күшті немесе бірізді болмағандықтан, оларды тізімге қоспады. Біздің
+[ұйқы](/brain-health/sleep/) және [тамақтану](/brain-health/diet/)
+жөніндегі нұсқаулықтарымызда не белгілі екені түсіндірілген.
 
-## Talk with a doctor
+## Дәрігермен сөйлесіңіз
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Жыл сайынғы тексеріс — осы тақырыптарды көтеруге жақсы мүмкіндік. Осы тізімді
+алып келіп, мынаны сұрауға болады:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Менің қан қысымым, қандағы қант және холестерин көрсеткіштерім қандай, олардың
+  қайсысы көңіл бөлуді қажет етеді?
+- Есту және көру қабілетімді тексерткенім дұрыс па?
+- Мен айналысып жүрген белсенділік маған қауіпсіз бе және жеткілікті ме?
+- Қабылдап жүрген дәрілерімнің қайсыбірі жадыға немесе ойлауға әсер етуі мүмкін
+  бе?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Дәрілерді, тамақтануды, ораза ұстауды, жаттығуды немесе қоспаларды өзгертпес
+бұрын алдымен дәрігермен кеңесіңіз. Егер сізде немесе қамқорлық жасайтын
+адамыңызда кенет абыржу, дененің бір жағының әлсіреуі немесе сөйлеу қиындауы
+байқалса, 112 жедел қызметіне хабарласыңыз.

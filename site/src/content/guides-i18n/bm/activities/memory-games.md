@@ -1,34 +1,33 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Hakili sɛbɛnnikɛ dementia bolo ye: Hɛrɛ-hɛrɛ ɲɛfɛ, tɛ kɛ kɛlɛ ye"
+seoTitle: "Dementia bolo hakili sɛbɛnnikɛ, hɛrɛ-hɛrɛ ɲɛfɛ"
+description: "Sɛbɛnnikɛ, sɛbɛnnikɛ-kɛlɛ ani kaarit sɛbɛnnikɛ dementia bolo ye, ani u kɛli cogo min na ka kɛ ka dɔ kɛ k'a sɔrɔ ko ka ɲɛfɛ: sɛbɛnnikɛ ɲɛfɛ, tɛ kɛ ɲɛfɛ, kɔnɔ tɛ kɛ kɛlɛ ye, ani u kɛ ɲɛnamasan ye."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Hakili sɛbɛnnikɛ dementia bolo ye, u bɛ kɛ ɲɛfɛ ni u tɛ kɛ hakili ɲɛfɛ ye.
+  Sɛbɛnnikɛ dɔ kɛ sɛbɛnnikɛ-kɛlɛ, kaarit naani ni wɔɔrɔ ye, ka kɛ ɲɛnamasan ye ka
+  kɛ cogo min na, ani kɛ ɲɛfɛ ni kɛlɛ tɛ ye. Sɛbɛnni ka ɲɛfɛ ye ka kɛ sɛbɛnnikɛ
+  ni hakili ɲɛfɛ ye, o tɛ kɛ kɛlɛ ye. Ɲɛnamaya ye kɛlɛ ye, sɔrɔ tɛ kɛ kɛlɛ ye.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Sɛbɛnnikɛ klasiki bɛ kaarit datugu, o bɛ hakili tɛgɛ min dementia bɛ ka gɛlɛya ka tɛmɛ dɔ ye. Kaarit ɲɛ kɛ a bɛ ka kɛ ɲɛfɛ."
+  - "Kaarit tɛmɛnen, sɛbɛnnikɛ fɛlɛfɛlɛ ani kɛ dɔ-dɔ ɲɛfɛ bɛ ka sɛbɛnni kɛ ɲɛnamasan ye."
+  - "Kɛ ɲɛnamasan ye, ka ɲɛfɛ dɔ ka ko kɔnɔ, ani ka ɲɔgɔn dɛmɛ. Sɔrɔ ɲɛ tɛ ɲɔgɔn ka ko kɔnɔ."
+  - "Sɛbɛnnikɛ dɔ tɛ jɛkulu ka dementia kɛ, ka ɲɔ, walima ka ɲɛ. Kɛ ɲɛnamasan ye, ka kɛ ɲɛnabɔ ye."
+  - "Ka ɲɛnamaya ɲɛfɛ ka sɛbɛnni kɔnɔ. Kɔnɔ ka kaarit kɔnɔ kuma ye ɲɛnabɔ ɲɛfɛ ye."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Sɛbɛnnikɛ jɔn ye dementia bolo ye min ka ɲɛfɛ?"
+    a: "Sɛbɛnnikɛ min bɛ kɛ ni kaarit ɲɛfɛ ni kaarit dɔnnen ye, o bɛ kɛ ni kaarit ye min bɛ ɲɛ kɔnɔ, i n'a fɔ Picture pairs ka kaarit naani walima wɔɔrɔ. Kaarit min i bɛ ɲɛ, o ɲɔgɔn sɔrɔ ka kɛ ɲɛfɛ ye, o tɛ hakili tɛgɛ gɛlɛya ye. Find the same kɛ ko fitinin ye: kaarit kelen ka ɲɔgɔn sɔrɔ kaarit naani kɔnɔ."
+  - q: "Sɛbɛnnikɛ bɛ dementia dɛmɛ wa?"
+    a: "Sɛbɛnnikɛ dɔ tɛ jɛkulu ka dementia kɛ, ka ɲɔ, walima ka ɲɛ. Cochrane sɛbɛnni ko sɔrɔ ko kɔmpiyuutɛri hakili sɛbɛnnikɛ ka ɲɛfɛ tɛ ɲɛɲɛnɛ ka ɲɛfɛ ko dementia tɛ ka ɲɔ. Sɛbɛnnikɛ bɛ se ka kɛ ɲɛnamaya ɲɛfɛ ye ni mɔgɔ ye, o ka kɛ ɲɛnamasan ni ɲɔgɔnya ye."
+  - q: "Ne ka kɛ Concentration klasiki ye dementia bolo ni ye wa?"
+    a: "A fɔlɔ kɔnɔ, mɔgɔ dɔw bɛ a nisɔndiya, kɔsɛgɛn kaarit dɔgɔ kɔnɔ. Ni kaarit ɲɛ kɛ bɔ hakili kɔnɔ kɛ ka gɛlɛya ni kɔnɔ, kaarit ɲɛ ka kɛ ɲɛ kɔnɔ, ka dɔ ɲɛ ka kɔrɔ ɲɔgɔn ye. O bɛ ka sɛbɛnnikɛ to, o bɛ hakili sɛbɛnni bɔ."
+  - q: "Sɛbɛnnikɛ jɔn bɛ ɲɛfɛ mɔgɔ-caman ɲɛ kɔnɔ kɛ cogo di?"
+    a: "Sɛbɛnni ni sɛbɛnnikɛ-kɛlɛ, kumaw min bɛ kɛ ni kɛmɛ ye, ani kaarit kumaw ye, o bɛ ɲɛfɛ mɔgɔ-caman ɲɛ kɔnɔ. Ka kɛ ɲɛfɛ ka se ka kaarit bɛɛ fɛ, ani kaarit ɲɛ kɔnɔ mɔgɔ dɔ ka jaabi ko ɲɔgɔn fɔ, o ka kɛ ko ɲɛfɛ ye."
+  - q: "Sɛbɛnnikɛ jɔn bɛ sɔrɔ ka tɛ wari kɛ internet kɔnɔ mɔgɔ kɔmɔnin ye?"
+    a: "Ɔwɔ. Sɛbɛnnikɛ min bɛ site in kɔnɔ, o kɔnɔ Picture pairs, Find the same, Photo pairs ani Picture puzzle, o tɛ wari. U tɛ kɛ ni kɔnɔ ɲɛ ye, u bɛ kɛ telefɔni, tabulɛt ani kɔmpiyuutɛri kɔnɔ. Dɔ kɔnɔ tɛ ni waati walima ni ɲɛnamasan ye."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +49,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Ni i ye "memory games for seniors" ɲini, i bɛ sɛbɛnnikɛ caman ɲɛ, u bɛ kɛ hakili ka ɲɛ-kɛlɛ ye: kaarit datugu, waati ka tɛmɛnen ni sɛbɛnnikɛ ni ɲɛnamasan. Dementia bolo ka kɛ, o kɛlɛ bɛ kɛ hakili ka gɛlɛya ye, o min bɛ gɛlɛya kɛ a ka kɛ-kɛlɛ ye. Sɛbɛnnikɛ jɔnw bɛ se ka kɛ cogo tɛmɛnen ye. Pɔrɔgaramu in bɛ jira cogo min na, ani o bɛ sɛbɛnnikɛ jɔnw jira min bɛ kɛ ɲɛfɛ stade bɛɛ kɔnɔ.
 
-## Why do classic memory games frustrate people with dementia?
+## Mun na sɛbɛnnikɛ klasiki bɛ dementia bolo gɛlɛya ka kɛ?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+A bɛ kɛ o ye ko u bɛ hakili kɔnɔ kuma kura ɲɛ ka ɲini, o min ye fɔlɔ ye ka kɛ gɛlɛya ye Alzheimer kɔnɔ, o min ye dementia dɔ ye min bɛ kɛ ka caman ye. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) fɔra ko Alzheimer jɛyɔrɔ fɔlɔ min bɛ ɲɛfɛ, o ye kuma kura sɛbɛn ye min kɛra kura ɲɛ. Concentration klasiki kɔnɔ, i bɛ kaarit fila tilali, i bɛ kaarit jɔnw sɛbɛn, ani i bɛ o hakili kɔnɔ kɔ tɛmɛnen kɔfɛ. O ye kuma kura ye min bɛ hakili kɔnɔ, ka kɔfɛ ka kɛlɛ.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Waati dɔ ni kɛlɛ tɛmɛ ni kɔnɔ, o bɛ mɔgɔ hakili ɲɔgɔn ni ka kɛlɛ ɲɛ ni a bɛ kɛ ye, ani mɔgɔ min ka kɛnɛ, o ye a ka kɔnɔ ye. Mɔgɔ caman bɛ sɛbɛnnikɛ ɲɛ mɔgɔ ye, a bɛ sɛbɛnnikɛ bɔ.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Ko min bɛ ɲɛ, o kɛlɛ ye kɛlɛ ɲɛfɛ ye, ani a bɛ kɛ ɲɛfɛ ni o ye. Ni kaarit ɲɛ kɛ ɲɛ kɔnɔ ka ɲɛ, a bɛ kɛ ɲɛfɛ ye. O kɔ, kɛ ka sɛbɛnni ni ɲɛnamasan ye, ka kɛ ka hakili ka kɛlɛ ɲɛfɛ ye.
 
-## How do you make a memory game gentle?
+## Cogo di i bɛ sɛbɛnnikɛ kɛ ɲɛnamasan ye?
 
-These adjustments work for card games, board games and games on a screen.
+Kɛ ɲɛnamasan ye ni nin kɛlɛ dɔw ye, u bɛ kɛ kaarit sɛbɛnnikɛ, sɛbɛnnikɛ-kɛlɛ ani ɲɛnamasan ye.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Kaarit ɲɛ kɛ ɲɛ kɔnɔ.** Kaarit min i bɛ ɲɛ, o ɲɔgɔn sɔrɔ ka kɛ sɛbɛnnikɛ ye, ani a bɛ kɛ ɲɛfɛ ye.
+2. **Kaarit dɔgɔ kɛ.** Fɔlɔ kɛ kaarit saba walima fila ye. Ni a bɛ kɛ ka fɛn caman ye ka kɛ, o kɔ ka kaarit caman kɛ.
+3. **Kaarit nɔgɔnw ni mɔgɔ kɔnɔ kaarit ɲɛfɛ sugandi.** Kɔsɔ ni kɔnɔ, fitinin ni kɔnɔ fitini. Kaarit sɛbɛnnikɛ tɛ, ani kaarit dɔ min kɔnɔ mɔgɔ caman bɛ kɛ, o tɛ.
+4. **Kɛ ɲɛnamasan ye.** "An ka dɔgɔnw ɲɛ" ye "a ka i ka kɛli" ka ɲɛ. Ka ɲɛfɛ ka kɛ, ka dɛmɛ.
+5. **Ka ɲɛ fɔlɔ bɛ kɛ.** Mɔgɔ bɛɛ tɛ kɛ ka sɔrɔ ka ɲɛ. Ni mɔgɔ dɔ bɛ ɲininka, "an ye ɲɛ" ka fɔ, o ye ɲɛfɛ.
+6. **Waati ka tɛmɛnen tɛ.** Waati tɛmɛnen tɛ, ani kɛlɛ kɔ kɔfɛ tɛ.
+7. **Kaarit kuma.** "Ko ɲɛfɛ, dɔnin. I ye dɔ ka sɛbɛn kɛ, i bɛ sumaya ka kɛ wa?" Kuma ye ɲɛnamasan fɛnɛ ye caman.
+8. **Ɲɛfɛ kɛ ka ɲɛnamasan ye.** Sɛbɛnnikɛ fɔlɔ ka kɔ kɛ, ka ɲɛnabɔ ni ɲɛfɛ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ ɲɛnamasan kɛwale ɲɛfɛ fɔ cogo min na: ka kɛlɛ mɔgɔ ka se ni o ye, ka ɲɛ ko ɲɛnamasan, ani ka mɔgɔ ka ɲɛnamaya kɛ ka ɲɛfɛ.
 
-## Gentle memory and matching games to try
+## Sɛbɛnnikɛ hakili ni sɛbɛnnikɛ ɲɛfɛ min bɛ ka kɛ ka kɛ
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (sɛbɛnnikɛ ni kaarit ɲɛ kɔnɔ)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) ye sɛbɛnnikɛ ye min bɛ kaarit nɔgɔnw ni kaarit 4 fo 12 ye. Kaarit bɛ ɲɛ kɔnɔ ka kɛ, o kɔ, a ye kɛlɛ ye ka kaarit ɲɔgɔn sɔrɔ, o tɛ kaarit min bɛ ɲɛ hakili kɔnɔ. Fɔlɔ kɛ kaarit naani ye. Mɔgɔ min bɛ stade fɔlɔ kɔnɔ ka ɲɛnamaya, o bɛ se ka **Hidden pictures** kɛ, nka a ka kɛlɛ tɛ ka nisɔndiya tuma ɲɛ, kaarit ɲɛ kɔnɔ ka sɔrɔ.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) bɛ kaarit kelen jira kɔnɔ kɔ fɛ, ani kaarit fila ka se naani fɔ kɔ kɔfɛ. I bɛ kaarit min ɲɔgɔn ye, o kɛ. O ye sɛbɛnnikɛ dɔgɔ ye sitɛ kɔnɔ, ani o bɛ kɛ ɲɛfɛ mɔgɔ min bɛ kaarit bɛɛ kɔnɔ ka gɛlɛya, o bɛ kɛ mɔgɔ dɔw ye min bɛ stade kɔfɛ kɔnɔ, mɔgɔ min bɛ a fɛ.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (sɛbɛnnikɛ ni yɔrɔ ka sɛbɛnnikɛ)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) bɛ sɛbɛnnikɛ ye ni sɛbɛn min i ye a sugandi: sɔgɔ, sogo, bolo ka so. Mɔgɔw ni yɔrɔw min ka dɔnnen ye, u bɛ kuma caman ɲɛ ka tɛmɛ kaarit wɛrɛw ka kan. Sɛbɛnnikɛ bɛ kɛ i ka browser kɔnɔ, u tɛ ɲɛ ni ɲɛnabɔ ye.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) bɛ kaarit kelen-kelen ka don sɔrɔ ni kɔ min ye a ka yɔrɔ ye, i n'a fɔ dɔgɔtɔrɔ walima sogo. Sɔrɔ kɛli bɛ kɛ ni duniya cogo dɔnnen ye min bɛ mɔgɔ kɔnɔ fɔ ka se ɲɔgɔn, o tɛ hakili kɔnɔ kɛlɛ ye.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) bɛ sɛbɛnnikɛ ye ka kɛ kaarit naani walima kɔnɔntɔ ye. I bɛ kaarit fila tilali ka ɲɛ kɔnɔ fo a ka ɲɛ sɔrɔ. Ɲɛ kɔnɔ kaarit bɛɛ bɛ ɲɛ ka kɛ kɛlɛ ɲɛnabɔ ye.
 
-### Real cards on the table
+### Kaarit tabulɛ kan
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+I ka ɲɛ tɛ wajibi ye. I bɛ kaarit ɲɔgɔn sɔrɔ kaarit sɛbɛn fila kɔnɔ walima kaarit sɛbɛn ka dɔ kɔnɔ. U ɲɛ kɔnɔ ka kɛ tabulɛ kan, ka kɛ kɔnɔ fila, ka ɲɔgɔn sɔrɔ. Kɔfɛ, u ka kɛ ka sɔrɔ kɛ ni nɔgɔn walima ni kɛlɛ ye. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bɛ kaarit sɛbɛnnikɛ ni sɛbɛnnikɛ tabulɛ ye stade fɔlɔ kɔnɔ sɛbɛnnikɛ ɲɔgɔn ye.
 
-## Which memory games suit each stage?
+## Sɛbɛnnikɛ jɔn bɛ stade o stade ka ɲɛ?
 
-Stages are loose labels. Go by what the person enjoys today.
+Stade ye sɛn ye min tɛ jɛkulu. Mɔgɔ min ka kɛlɛ ye bi, o ka ɲɛfɛ ye ka kɛ.
 
-| Stage | Games that often fit | How to set them up |
+| Stade | Sɛbɛnnikɛ min bɛ ɲɛ | Cogo min na u ka kɛ |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Fɔlɔ | Picture pairs, Photo pairs, Picture puzzle kaarit 9, kaarit sɛbɛnnikɛ dɔnnen | A ka sugandi. Kaarit bɛ se ka lɔ ni a bɛ kɛ ɲɛfɛ ye; ni ko bɛ a gɛlɛya, ka ɲɔ tɛmɛ |
+| Kɔnɔ | Picture pairs kaarit 4 fo 6 ni kaarit ɲɛ kɔnɔ, Find the same, Sort together | Kaarit bɛɛ bɛ ɲɛ kɔnɔ. Sigi a fɛ ka ɲɔgɔn dɛmɛ |
+| Laban | Find the same ni jaabi fila, sɛbɛn kelen ka ɲɛ ni ɲɔgɔn ye | Ɲɛnabɔ tɛmɛnen. I bɛ tabulɛti sɔrɔ; a bɛ kɛ kɔ, walima a bɛ ɲɛ ka ɲɛ kɔnɔ |
 
-## Do memory games help with dementia?
+## Sɛbɛnnikɛ hakili dɛmɛ dementia bolo ye wa?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Sɛbɛnnikɛ dɔ tɛ jɛkulu ka dementia kɛ, ka ɲɔ, walima ka ɲɛ. [Cochrane sɛbɛnni](https://pubmed.ncbi.nlm.nih.gov/30864747/) ko kɔmpiyuutɛri hakili sɛbɛnnikɛ ka mɔgɔw ye min bɛ hakili gɛlɛya ye fitinin ye, o ye ko ɲɛfɛ tɛ ɲɛɲɛnɛ ka ɲɛfɛ ko dementia tɛ ka ɲɔ. Site in kɔnɔ kuma min bɛ [sɛbɛnnikɛ hakili ni dementia](/brain-health/brain-games/) kɔnɔ, o bɛ fɔ min bɛ sɛbɛnni kɔnɔ ni min tɛ.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+O tɛ ko sɛbɛnnikɛ bɛ kɛ ka tɛmɛ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bɛ fɔ ko ka ɲɛnamasan ta, ka tɛ ka sɔrɔ ni kɛlɛ. Waati tɛmɛnen ni kaarit ɲɛ ni kuma kɛ, o bɛ kɛ don ɲɛfɛ dɔ ye.
 
-## What about memory games for seniors without dementia?
+## Mun na sɛbɛnnikɛ bɛ mɔgɔ kɔnɔ min tɛ dementia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Ni mɔgɔ min tɛ hakili gɛlɛya, a bɛ sɛbɛnnikɛ min waati bɛ, kɛlɛ ni kaarit caman bɛ, o tɛ ko kɔnɔ. Nka aw kana dɛsɛ ni o ye ka dementia dɔgɔya; sɛbɛnnikɛ tɛ ko min bɛ o dɔgɔya ka sɛbɛn. Ɲɛnamasan sɛbɛnnikɛ min kɔnɔ, ni mɔgɔ-kɛlɛ dɔw bɛ kɛ ka kɛ, ka fɔ dementia bolo ni ɲɛmɔgɔ fitini, u bɛ se ka sɛbɛnnikɛ ɲɛfɛ ni kaarit ɲɛ kɔnɔ, ni tɛ ko min bɛ kɛ kɛlɛ ye.
 
-## When should you stop or change the game?
+## Mun na i bɛ ka sɛbɛnnikɛ bɔ walima ka o ɲɔgɔn?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Ni mɔgɔ bɛ sɛ, ni a bɛ tabulɛti ɲɔ, ni a bɛ fɔ ko "ne tɛ se ka o kɛ", walima ni a bɛ ɲɛnabɔ, o ye ko ka ɲɛ walima ka bɔ. Kaarit kɛ dɔgɔ, kaarit ɲɛ kɔnɔ ka kɛ, [Find the same](/games/find-the-same/) ka kɛ, walima kaarit ɲɛ ka kuma. Ni a tɛ sɛbɛnnikɛ fɛ, o tɛ ko ɲɔgɔn. Site in kɔnɔ [ka ɲɛnamasan ka cogo](/caregiving/how-to-play-together/) kɔnɔ kuma caman bɛ wærɛ ka waati ni dɛmɛ kɔnɔ.

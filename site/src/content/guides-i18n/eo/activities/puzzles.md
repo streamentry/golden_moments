@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzloj por homoj kun demenco: mozaikpuzloj, vortpuzloj kaj facilaj retaj puzloj"
+seoTitle: "Puzloj por demenco: mozaikoj kaj vortpuzloj"
+description: "Kiel elekti mozaikajn, vortajn kaj retajn puzlojn por iu kun demenco: pecograndeco, bildoj, granda preso, kuna farado kaj kiam simpligi."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  La plej bona puzlo por iu kun demenco estas tiu, kiun la persono povas fini
+  kun iom da helpo kaj ĝui dum la procezo. Elektu mozaikpuzlojn kun malpli da,
+  pli grandaj pecoj kaj klara bildo por plenkreskuloj, tenu la bildon de la
+  skatolo videbla, kaj unue ordigu la randpecojn. Vortserĉoj kaj krucvortenigmoj
+  plej bone funkcias en granda preso. Facilaj retaj puzloj kun kvar pecoj taŭgas
+  por la meza stadio. Ĉesu dum ĝi estas agrabla.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Elektu laŭ tio, kiel ĝi iras, ne laŭ stadi-etikedoj: se puzlo ŝajnas laboro, provu unu kun malpli da pecoj."
+  - "Grandaj, fortikaj pecoj kaj klara bildo kun distingaj koloraj areoj estas pli facilaj ol etaj pecoj kaj grandaj ĉieloj."
+  - "Bildoj por plenkreskuloj gravas. Ĝardenoj, kuirejoj, aŭtoj kaj bestoj, ne bildstrioj."
+  - "Kuna farado estas la celo. Donu pecojn, ordigu randpecojn, tenu la kovrilon de la skatolo videbla."
+  - "Vortserĉoj kun granda preso kaj facilaj retaj puzloj kun 4 aŭ 9 pecoj estas senpagaj en ĉi tiu retejo."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Kiom da puzlpecoj estas plej taŭgaj por iu kun demenco?"
+    a: "Ne ekzistas unu ĝusta nombro. Iu, kiu antaŭe faris 1 000-pecajn puzlojn, eble ankoraŭ ĝuos kelkcent pecojn frue, dum aliaj plej bone fartas kun proksimume dekduo da grandaj pecoj. Se puzlo ŝajnas laboro aŭ kaŭzas ĉagrenon, transiru al malpli da pecoj. Nia reta Bildpuzlo havas 4 aŭ 9 pecojn."
+  - q: "Ĉu mozaikpuzloj estas bonaj por homoj kun demenco?"
+    a: "Multaj homoj ĝuas ilin, precipe se ili ŝatis puzlojn antaŭe. Puzlo donas al la manoj ion por fari, klaran celon kaj bildon, pri kiu oni povas paroli. Neniu puzlo montriĝis kuraci aŭ malrapidigi demencon, do elektu ilin pro ĝuo kaj kunestado."
+  - q: "Kion mi povas fari, kiam iu ne plu kapablas fari mozaikpuzlon?"
+    a: "Faru ĝin pli malgranda kaj faru pli da ĝi mem: donu po unu pecon, aŭ lasu nur la lastajn kelkajn pecojn por la persono. Provu 4-pecan retan puzlon, ordigadon de pecoj laŭ koloro, aŭ simple rigardadon de la finita bildo kune."
+  - q: "Ĉu krucvortenigmoj kaj vortserĉoj taŭgas por demenco?"
+    a: "Ili povas taŭgi en la frua stadio, en granda preso. Vortserĉoj kun vortoj nur horizontale kaj vertikale estas pli facilaj ol tiuj kun diagonalaj aŭ malantaŭenaj vortoj. Laŭtlegu la indikojn aŭ la vortliston kaj laboru pri ĝi kune."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Mozaikpuzlo etendita sur la manĝotablo estas unu el la plej facilaj agadoj por kunhavi. Vi povas sidi kune sen devi paroli, la bildo donas ion, pri kio babili, kaj enmeti la lastan pecon donas bonan senton. Tamen puzloj devas ŝanĝiĝi, kiam demenco ŝanĝiĝas. Puzlo, kiu estas tro malfacila, povas transformi trankvilan posttagmezon en ĉagrenigan. Ĉi tiu paĝo klarigas, kiel elekti kaj pretigi mozaikpuzlojn, vortpuzlojn kaj facilajn retajn puzlojn, kaj kion fari, kiam ili fariĝas malfacilaj.
 
-## Are puzzles good for people with dementia?
+## Ĉu puzloj estas bonaj por homoj kun demenco?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Multaj homoj ĝuas ilin, precipe tiuj, kiuj faris puzlojn antaŭe. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) listigas vortserĉojn, kartludojn kaj tabulludojn inter agadoj por la frua stadio, kaj la [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mencias retajn ludojn kaj puzlojn sur tabulkomputiloj kiel unu manieron resti okupata.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzloj ne estas kuracado. Neniu puzlo montriĝis malrapidigi aŭ haltigi demencon; nia gvidilo pri [cerboludoj kaj demenco](/brain-health/brain-games/) klarigas la esploron. La kialo fari puzlon estas, ke ĝi povas esti agrabla, absorba horo kune. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) resumas tion jene: fokusiĝu al ĝuo, ne al atingo.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Kiel elekti mozaikpuzlon por iu kun demenco?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Gvidu vin laŭ tio, kion la persono ĝuas kaj kiel iris la lasta puzlo, ne laŭ stadi-etikedoj.
 
-### Number of pieces
+### Nombro de pecoj
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ne ekzistas ĝusta nombro. Dumviva puzlemulo eble ankoraŭ ĝuos kelkcent pecojn frue, dum iu alia estas plej feliĉa kun proksimume dekduo. Praktika regulo: se la lasta puzlo ŝajnis laboro, elektu unu kun proksimume duono de la pecoj. Se ĝi finiĝis rapide kaj la persono volis pli, iru iom supren.
 
-### Piece size and feel
+### Grandeco kaj sento de la pecoj
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Pli grandaj pecoj** estas pli facile videblaj, preneblaj kaj turneblaj.
+- **Dikaj, fortikaj pecoj** restas surloke kaj eltenas falon.
+- **Mata surfaco** malpliigas brilon sub lampoj kaj fenestroj.
+- **Evitu etajn pecojn**, se la persono eble metas aferojn en la buŝon, kio povas okazi pli poste en demenco.
 
-### The picture
+### La bildo
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Temoj por plenkreskuloj.** Ĝardenoj, kuirejoj, malnovaj aŭtoj, farmbestoj, marborda urbeto, ŝatata sporto. Ne bildstrioj aŭ io, kio aspektas kiel infana ludilo.
+- **Distingaj koloraj areoj.** Ruĝa garbejo, blua boato kaj verda kampo estas pli facilaj ol ĉielo, kiu plenigas duonon de la puzlo.
+- **Konata kaj persona.** Bildo de loko, kie la persono vivis, aŭ de ŝatokupo, kiun la persono amis, donas al vi multe por priparoli. Kelkaj presejoj povas fari mozaikpuzlon el familia foto.
 
-## How do you do a puzzle together?
+## Kiel fari puzlon kune?
 
-Set it up so the person can get straight to the enjoyable part.
+Pretigu ĝin tiel, ke la persono povu tuj iri al la agrabla parto.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Elektu bonan lokon.** Bona lumo, seĝo kun brakapogiloj, kaj tablo aŭ pleto, kie la puzlo povas resti.
+2. **Metu la kovrilon de la skatolo** tiel, ke vi ambaŭ povas vidi ĝin.
+3. **Turnu la pecojn supren** antaŭ ol vi komencas.
+4. **Ordigu la randpecojn** mem, aŭ faru unue la kadron kaj lasu la mezon por la persono.
+5. **Grupigu pecojn laŭ koloro** en kelkajn malprofundajn pletojn aŭ telerojn.
+6. **Donu po unu pecon**, se la amaso estas troa. "Mi pensas, ke ĉi tiu estas parto de la garbejo."
+7. **Parolu pri la bildo,** ne pri la progreso. "Tio aspektas kiel la boato, kiun havis mia patro."
+8. **Lasu ĝin ekstere.** Revenu al ĝi dum pluraj tagoj. Ne estas urĝo.
+9. **Ĉesu je bona momento,** post kiam peco estas enmetita, dum ĝi ankoraŭ ŝajnas agrabla.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) konsilas helpi la personon komenci, atenti pri ĉagreno kaj lasi la personon simple rigardi, se tio plaĉas pli. Rigardi vin enmeti pecojn kaj montri, kien unu povus iri, ankaŭ estas partopreno.
 
-## Easy online puzzles
+## Facilaj retaj puzloj
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Tabulkomputila puzlo havas kelkajn verajn avantaĝojn: neniuj perditaj pecoj, grandaj bildoj, kiuj plenigas la ekranon, kaj neniu tablo por malplenigi.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Nia senpaga [Bildpuzlo](/games/picture-puzzle/) tranĉas bildon en 4 aŭ 9 pecojn. Tuŝetu du pecojn por interŝanĝi ilin, ĝis la bildo estas kompleta. La kompleta bildo restas sur la ekrano kiel gvido, ne estas tempomezurilo, kaj vi povas ĉesi iam ajn. Kvar pecoj taŭgas por multaj homoj en la meza stadio kun iu apud si.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Por eĉ pli simpla bildludo, provu [Trovu la samon](/games/find-the-same/), kie vi tuŝetas la bildon, kiu kongruas kun tiu supre, aŭ [Ordigu kune](/games/sort-together/), kie bildoj iras en korbojn kiel la kuirejo aŭ la ĝardeno.
 
-## Word puzzles: word searches and crosswords
+## Vortpuzloj: vortserĉoj kaj krucvortenigmoj
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Vortpuzloj taŭgas por homoj, kiuj ĉiam ĝuis ilin, kutime pli frue en demenco.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Vortserĉo kun granda preso.** Nia senpaga [Vortserĉo](/games/word-search/) uzas grandajn literojn kaj nur kelkajn vortojn, kiuj iras horizontale kaj vertikale, neniam diagonale aŭ malantaŭen. Ludu ĝin sur ekrano aŭ presu ĝin.
+- **Laŭtlegu la liston.** Unu persono legas vorton, la alia serĉas ĝin. Ĉirkaŭi nur la unuan literon estas tute bone.
+- **Krucvortenigmoj kun granda preso** el puzlolibroj povas funkcii frue. Laŭtlegu la indikojn, kunhavu la skribilon kaj plenigu respondojn kune. Facilaj, temaj krucvortenigmoj estas pli bonaj ol komplikaj.
+- **Parolu pri la vortoj.** "Ĝardeno" povas konduki al dek minutoj da parolado pri tomatoj.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Por pliaj paperaj agadoj kaj pri kiel presi ilin tiel, ke ili estu facile videblaj kaj teneblaj, vidu [senpagajn preteblajn agadojn por demenco](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Kiuj puzloj taŭgas por ĉiu stadio?
 
-Stages overlap, and good and hard days are normal.
+Stadioj interkovras sin, kaj bonaj kaj malfacilaj tagoj estas normalaj.
 
-| Stage | Puzzles that often fit | Your role |
+| Stadio | Puzloj, kiuj ofte taŭgas | Via rolo |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Frua | Konataj mozaikpuzloj kun malpli da pecoj ol antaŭe, krucvortenigmoj kaj vortserĉoj kun granda preso, 9-pecaj retaj puzloj | Partnero: lasu la personon elekti, helpu kiam oni petas |
+| Meza | Mozaikpuzloj kun proksimume dekduo da grandaj pecoj, 4-pecaj retaj puzloj, vortserĉo laŭtlegata kune | Pretigu, ordigu pecojn, donu po unu pecon |
+| Malfrua | Rigardado de finita bildo kune, Trovu la samon kun du bildoj, manipulado de kelkaj grandaj pecoj | Alportu ĝin al la persono; via kunestado estas la agado |
 
-## When should you make a puzzle easier, or stop?
+## Kiam vi devus fari puzlon pli facila, aŭ ĉesi?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Atentu pri suspirado, forpuŝado de pecoj, ripetata "Mi ne povas" aŭ maltrankvilaj rigardoj. Tiuj estas signoj por ŝanĝi ion, ne por insisti.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Faru ĝin pli malgranda.** Malpli da pecoj, aŭ lasu nur la lastajn kelkajn por la persono.
+- **Faru pli da ĝi mem** kaj invitu la personon helpi pri la facilaj partoj.
+- **Transiru al io proksima:** ordigado de pecoj laŭ koloro, 4-peca reta puzlo, aŭ [kolorigado](/games/coloring/).
+- **Ĉesu.** Metu ĝin flanken kaj trinku tason da teo. Vi povas reveni al ĝi alian tagon, aŭ tute ne.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Se puzloj komencas sentiĝi kiel memorigo pri tio, kio estas malfacila, estas tute bone forlasi ilin. Estas multaj aliaj manieroj pasigi bonan tempon kune; niaj [101 ideoj por agadoj](/activities/ideas/) estas bona loko por rigardi.

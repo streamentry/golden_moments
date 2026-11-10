@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Attività per dimenzia avanzata, in lettu o in sedia"
+seoTitle: "Attività per dimenzia avanzata: idee in lettu è in sedia"
+description: "Attività dolce per a dimenzia in stadiu avanzatu, ancu per qualchissia in lettu o in sedia: musica, toccu, lettura à voce alta, soni è esse inseme, cù note di sicurità."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  In a dimenzia in stadiu avanzatu, l'attività si centranu nant'à i sensi è
+  nant'à a vostra cumpagnia: mette a musica preferita, tene a manu, fà un
+  massagiu lentu à e mane, leghje à voce alta, fighjà e foto, sente soni di a
+  natura è stà vicinu à una finestra o fora. Queste idee vanu bè in lettu o in
+  sedia. Fate mumenti corti, fighjate u visu è e mane per vede s'ellu ci hè
+  cunfortu, è ricordatevi chì esse presenti hè digià un'attività.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "A cunnessione hè sempre pussibule. In u stadiu avanzatu, u mondu si vive soprattuttu à traversu i sensi."
+  - "A musica, u toccu dolce, e voce famigliari è l'uggetti morbidi da tene spessu ghjunghjenu à e persone quandu e parolle ùn bastanu più."
+  - "Quasi tutte l'idee quì ponu esse fatte cù qualchissia in lettu o in sedia."
+  - "Fighjate i segni di cunfortu o di malessere in u visu, in e mane è in a respirazione, è fermatevi à u minimu segnu di disagiu."
+  - "Evitate l'uggetti chjuchi è prupunite da manghjà o da beie solu cum'è cunsiglia l'equipa di cura, perchè ingolle pò diventà menu sicuru."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Chì attività si pò fà cù una persona chì campa cù a dimenzia in stadiu avanzatu è hè in lettu?"
+    a: "Pudete mette a so musica preferita, tene a so manu, fà un massagiu lentu à e mane cù una crema, leghje à voce alta un libru o una preghiera ch'ella ama, mustrà e foto, o mette soni dolce di a natura. Apertite e tende perchè possi vede fora. I mumenti corti è calmi, cù una sola cosa à a volta, spessu funzionanu megliu."
+  - q: "E persone chì campanu cù a dimenzia in stadiu avanzatu ponu sempre piace a musica?"
+    a: "Parechje ponu. L'Alzheimer's Association nota chì ancu in u stadiu avanzatu, una persona pò esse capace di batte u ritimu o di cantà inseme una canzona di a so zitellina. Sceglite a musica ch'ella amava quandu era più ghjovana è tenite u vulume bassu."
+  - q: "Cumu possu sapè s'ella piace l'attività?"
+    a: "Fighjate i picculi segni: spalle rilassate, un visu più dolce, sguardu, mormoriu, una stretta di manu o una respirazione più lenta. Una smorfia, u fattu di tirassi in daretu, l'agitazione o i lamenti ponu indicà malessere o dolore. S'è vo videte questi segni, fermatevi è parlatene à l'equipa di cura s'elli cuntinueghjanu."
+  - q: "Vale a pena di visità s'ella ùn mi ricunnosce più?"
+    a: "Iè. U National Institute on Aging nota chì a sola presenza pò esse calmante, è chì u toccu, a musica è e storie ponu sempre purtà cunfortu in a dimenzia avanzata. A vostra voce è u vostru toccu ponu esse famigliari ancu quandu u vostru nome ùn l'hè più."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+In u stadiu avanzatu di a dimenzia, una persona pò parlà assai pocu, avè bisognu d'aiutu per tutte e cure di ogni ghjornu è passà una grande parte di a ghjurnata in lettu o in sedia. Si pò avè l'impressione chì ùn ci sia più nunda da fà inseme. Ma ci hè sempre qualcosa. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) nota chì una parte impurtante di ciò ch'ella hè pò sempre esse presente, è chì in stu stadiu u mondu si vive soprattuttu à traversu i sensi. A musica, u toccu, una voce famigliante è a vostra cumpagnia calma ponu sempre purtà cunfortu è picculi mumenti di cunnessione.
 
-## What activities help in late-stage dementia?
+## Chì attività aiutanu in a dimenzia in stadiu avanzatu?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+In u stadiu avanzatu, aiutanu soprattuttu l'attività sensoriale simplici è a cumpagnia tranquilla. L'Alzheimer's Association prupone di mette a musica preferita, leghje pezzi di libri impurtanti, massà a pelle cù una crema d'un profumu ch'ella piace, è stà fora inseme in una bella ghjurnata. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) aghjunghje di cuntà storie, mustrà foto, fà un toccu o un massagiu dolce, è mette musica, rumore biancu o soni di a natura, è dice chì a vostra sola presenza pò esse calmante.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+L'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nota chì e persone in u stadiu avanzatu anu spessu un forte bisognu di tene qualcosa vicinu à elli per cunfortu, è prupone attività sensoriale simplici, stiramenti dolci, movimenti cù un sciallu, musica, visite d'animali, toccu umanu è arte libera.
 
-## Activities for someone in bed or a chair
+## Attività per qualchissia in lettu o in sedia
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Mettite a so musica.** Sceglite canzone di quandu era ghjovana adulta, di a so fede o di a so famiglia. Tenite u vulume bassu è stà vicinu. Ancu avà, certe persone battenu un ditu o mormorianu. Vidite [attività cù a musica](/activities/music/).
+2. **Tenite a manu.** Tene solu a manu, cù una carezza dolce di u police, hè digià un'attività. Dite prima ciò chì site per fà.
+3. **Fate un massagiu lentu à e mane.** Scaldate un pocu di crema in e vostre palme è scurrite da u polsu finu à a punta di i diti. Sceglite una crema senza profumu, o un profumu ch'ella hà sempre amatu s'è a so pelle u supporta.
+4. **Leghjite à voce alta.** Una puesia preferita, un passagiu d'un libru amatu, una preghiera o una pagina di sport. U ritimu di a vostra voce conta più chè e parolle.
+5. **Cuntate una storia.** Parlà d'un viaghju in famiglia o di u ghjornu di u so matrimoniu. Ùn avete micca bisognu di risposte.
+6. **Mustrà e foto.** Tenite una sola foto grande à a volta à l'altezza di i so ochji è descrivitela cù calore. Evitate di dumandà quale ci hè.
+7. **Prupunite qualcosa di morbidu da tene.** Un pannu piegatu, un pezzu di pile o un animale di peluche morbidu. U NIA prupone di dà à a persona un pannu da tene mentre si move, cusì hè menu prubabile ch'ella s'aggrappi à voi o à i mobili.
+8. **Mettite soni di a natura.** A piogia, l'onde o u cantu di l'acelli à bassu vulume ponu rende una stanza rumorosa più dolce.
+9. **Fate entre fora dentru.** Apertite e tende, mettite una manghjatoghja per l'acelli fora di a finestra, o purtate qualchì fiore frescu o foglia da fighjà è da tuccà.
+10. **Andate fora.** S'è a persona pò stà in una sedia à rotule, qualchì minutu à l'ombra in una ghjurnata dolce pò esse piacevule.
+11. **Pettinatela o prupunite un pannu caldu.** A cura lenta è dolce è un pannu caldu per e mane è u visu ponu dà un sensu di attenzione.
+12. **Muvitevi dolcemente cù a musica.** Agitate inseme un sciallu ligeru, o muvite e mane à u ritimu d'una canzona. Per i stiramenti è i muvimenti di l'articulazioni, dumandate prima à un fisioterapista o à un infermieru di mustrà vi modi sicuri.
+13. **Fate arte libera.** Stendite pittura non tossica nant'à una grande foglia cù una spugna o cù una manu, guidata da a vostra. Ùn ci hè micca un risultatu ghjustu.
+14. **Accuglite e visite d'animali.** Un animale calmu nant'à u lettu o nantu à i ghjinochji, s'è a persona amava l'animali è s'è u locu u permette.
+15. **Respirate pianu inseme.** Stà vicinu è respirate pianu, in modu chì si senti. [Respirazione calma](/games/calm-breathing/) pò aiutà vi à tene u ritimu, è site voi à cumincià è à fermà.
+16. **Siate solu presenti.** Stà vicinu, mormurià, fà a maglia o leghje in silenziu. A vostra presenza basta.
 
-## How to share an activity at this stage
+## Cumu sparte un'attività in stu stadiu
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Avvicinatevi da davanti.** Dite u so nome è u vostru, è parlate pianu è dolcemente prima di tuccà.
+- **Prupunite una sola cosa à a volta.** Spenghjte a televisione prima di mette a musica. Fate una sola cosa à a volta per i sensi.
+- **Fate mumenti corti.** Qualchì minutu pò bastà. Parechji picculi mumenti in a ghjurnata vanu megliu chè una longa sessione.
+- **Mettite prima u cunfortu.** Verificate chì a persona sia ben sustenuta. U NIA prupone un tavulinu per e ghjinochja per appughjà e bracce è sustene a parte alta di u corpu quandu hè assittata.
+- **Fighjate a reazione.** E mane rilassate, un visu più dolce, u sguardu o u mormoriu ponu esse segni di cunfortu. U NIA nota chì i lamenti, e smorfie, u fattu di prutege una parte di u corpu o un'agitazione subita ponu esse segni di dolore. Fermatevi è parlatene à l'equipa di cura.
 
-## A quick guide by sense
+## Una guida rapida per sensu
 
-| Sense | Ideas | Take care |
+| Sensu | Idee | Attenzione |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Uditu | Musica preferita, a vostra voce chì leghje, soni di a natura | Tenite u vulume bassu; un solu sonu à a volta |
+| Toccu | Massagiu à e mane, tene a manu, tessutu morbidu, pannu caldu | Dumandate o avvisate prima; verificate chì a pelle ùn sia micca addulurita o ferita |
+| Vista | Foto, fiori, a vista da una finestra, un video lentu di a natura | Tenite l'uggetti à l'altezza di i ochji; bona luce, senza abbagliamentu |
+| Odoratu | Una crema preferita, fiori freschi, caffè chì si prepara vicinu | Evitate i profumi forti; verificate allergie è respirazione |
+| Gustu | Un picculu tastu d'un sapore preferitu | Solu cibi è texture chì l'equipa di cura dice chì sò sicuri |
 
-## Safety at this stage
+## Sicurità in stu stadiu
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+In u stadiu avanzatu, ingolle pò diventà più difficiule, è u NIA avverte chì questu pò aumentà u risicu di suffucazione. Ùn lasciate micca uggetti chjuchi à a so purtata, è prupunite da manghjà o da beie solu in e texture è in e pusizioni cunsigliate da l'equipa di cura. Durante l'attività di toccu, verificate a pelle cù delicatezza, perchè pò strappassi o fà lividi più facilmente. Per più idee sensoriale sicure, vidite [attività sensoriale](/activities/sensory/).
 
-## Looking after yourself too
+## Pigliate cura ancu di voi
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Piglià cura di qualchissia in u stadiu avanzatu di a dimenzia hè dumanda assai, in corpu è in core, sia in casa sia durante e visite in una struttura di cura. E squadre di cure palliative è d'ospiziu ponu aiutà cù u cunfortu, u sustegnu è l'urganizazione, è u NIA e cita cum'è una fonte d'aiutu. E visite corte è calme anu valore; vidite [visitare una persona chì campa cù a dimenzia](/activities/visiting/). S'è vo guidate gruppi, [attività di gruppu in una struttura di cura](/activities/care-home-groups/) hà idee per adattà e sessioni. È pigliate ancu tempu per leghje [a cura di sè per e persone chì si occupanu di qualchissia](/caregiving/caregiver-self-care/): u riposu face parte di una bona cura.

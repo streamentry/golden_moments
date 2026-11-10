@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Awgrymiadau Cyfathrebu gyda Rhywun sy'n Byw gyda Dementia"
+seoTitle: "Cyfathrebu gyda Dementia: Beth i'w Ddweud"
+description: "Ffyrdd ymarferol o siarad â rhywun sy'n byw gyda dementia: sut i baratoi sgwrs, beth i'w ddweud yn lle holi neu gywiro, a sut i wrando."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Siaradwch mewn man tawel, gwynebwch y person, defnyddiwch ei enw, a siaradwch
+  yn araf mewn brawddegau byr a syml. Gofynnwch un cwestiwn ar y tro, cynigiwch
+  ddau ddewis yn lle cwestiynau agored, ac arhoswch yn hirach nag sy'n teimlo'n
+  naturiol. Peidiwch â dadlau, cywiro na holi. Ymatebwch i'r teimlad y tu ôl i'r
+  geiriau, a defnyddiwch gyffyrddiad, lluniau ac ystumiau wrth i siarad ddod yn
+  anoddach.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Lleihewch sŵn cefndir a gwnewch gyswllt llygad cyn dechrau siarad."
+  - "Defnyddiwch frawddegau byr, un syniad ar y tro, ac enwau yn lle ef, hi neu nhw."
+  - "Cynigiwch ddewis rhwng dau beth, neu gwestiwn ie neu na, yn lle cwestiynau agored."
+  - "Arhoswch am ateb. Os nad ydynt yn cael eu deall, ailadroddwch yr un geiriau, yna rhowch gynnig ar eiriau newydd."
+  - "Peidiwch â dadlau na chywiro. Ymatebwch i'r teimlad y tu ôl i'r hyn maent yn ei ddweud."
+  - "Wrth i eiriau bylu, cyfathrebwch drwy gyffyrddiad, tôn, mynegiant wyneb a lluniau a rennir."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Beth ddylech chi beidio â'i ddweud wrth rywun â dementia?"
+    a: "Ceisiwch osgoi holi (\"Ydych chi'n cofio...?\"), cywiro (\"Mae hynny'n anghywir\"), eu hatgoffa o golledion (\"Dw i eisoes wedi dweud wrthych chi\") a siarad amdanynt fel pe na baent yno. Ceisiwch osgoi siarad fel â phlentyn. Mae'r rhain yn tueddu i achosi embaras neu ofid heb helpu."
+  - q: "A ddylwn i eu cywiro pan fyddant yn camgymryd ffeithiau?"
+    a: "Fel arfer, na. Os yw ffaith anghywir yn ddiniwed, gadewch iddi fynd. Anaml y bydd dadlau yn newid meddwl y person ac yn aml mae'n eu cynhyrfu. Canolbwyntiwch ar sut maent yn teimlo a beth sydd ei angen arnyn nhw nawr."
+  - q: "Beth ddylwn i ei wneud pan na allant ddod o hyd i'r gair?"
+    a: "Rhowch amser iddynt yn gyntaf. Os ydynt yn amlwg yn cael trafferth, mae'n iawn cynnig gair yn dyner neu ddyfalu beth maent yn ei olygu a gofyn. Gall pwyntio, ystumiau a lluniau helpu hefyd."
+  - q: "Sut mae siarad â rhywun â dementia cam hwyr sy'n siarad yn anaml?"
+    a: "Ewch atynt o'r tu blaen, dywedwch pwy ydych chi, a defnyddiwch lais tawel a chyffyrddiad tyner. Gwyliwch wynebau ac iaith y corff am deimladau. Gall eich presenoldeb, cân gyfarwydd neu ddal dwylo gyfathrebu llawer heb eiriau."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Gall dementia ei gwneud hi'n anoddach dod o hyd i eiriau, dilyn brawddeg hir, neu anwybyddu sŵn cefndir. Nid yw hynny'n golygu bod y person wedi rhoi'r gorau i fod eisiau cysylltu. Gall newidiadau bach yn y ffordd rydych chi'n paratoi sgwrs, yn y ffordd rydych chi'n siarad ac yn y ffordd rydych chi'n gwrando wneud siarad yn haws ac yn dawelach i'r ddau ohonoch.
 
-## What are the most important tips for talking with someone who has dementia?
+## Beth yw'r awgrymiadau pwysicaf ar gyfer siarad â rhywun sy'n byw gyda dementia?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Tynnwch eu sylw, cadwch bethau'n syml, a byddwch yn amyneddgar. Os cofiwch chi ddim ond pum peth:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Tawelwch yr ystafell a gwynebwch nhw.** Diffoddwch y teledu, eisteddwch ar yr un lefel â'u llygaid, a defnyddiwch eu henw.
+2. **Dwedwch un peth ar y tro.** Brawddegau byr, un syniad, un cwestiwn.
+3. **Cynigiwch ddewis rhwng dau beth.** Mae „Te neu goffi?” yn haws na „Beth hoffech chi?”.
+4. **Arhoswch.** Rhowch fwy o amser i ateb nag sy'n teimlo'n naturiol, a cheisiwch beidio â thorri ar eu traws.
+5. **Peidiwch byth â dadlau na holi.** Ymatebwch i sut maent yn teimlo, nid i ba un a yw'r ffeithiau'n gywir.
 
-## How should I start a conversation?
+## Sut ddylwn i ddechrau sgwrs?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Paratowch bethau fel bod y person yn gallu canolbwyntio arnoch chi. Mae [canllaw Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) yn argymell lleihau sŵn yn gyntaf: diffoddwch y radio neu'r teledu, caewch y llenni neu'r drws, neu symudwch i rywle tawelach.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Ewch atynt o'r tu blaen.** Gall dod o'r tu ôl neu o'r ochr eu dychryn.
+- **Dywedwch pwy ydych chi.** „Helo Dad, Sarah dy ferch sy'n siarad.” Mae hyn yn eu harbed rhag gorfod chwilio am eich enw.
+- **Eisteddwch ar eu lefel.** Os ydynt yn eistedd, eisteddwch neu benliniwch fel bod eich llygaid ar yr un lefel.
+- **Sylwch ar eich wyneb a'ch tôn.** Mae'r [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) yn cynghori bod yn ymwybodol o'ch tôn, eich sain, mynegiant eich wyneb ac iaith eich corff, ac anelu at ddull cynnes a phlaen.
+- **Gwnewch yn siŵr bod sbectol a chymhorthion clyw ymlaen.** Mae'n anodd dilyn sgwrs nad ydych chi'n gallu ei gweld na'i chlywed yn iawn.
 
-## How should I phrase what I say?
+## Sut ddylwn i eirio'r hyn rwy'n ei ddweud?
 
-Use simple words, short sentences and a calm, low voice.
+Defnyddiwch eiriau syml, brawddegau byr a llais tawel, isel.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Un syniad ym mhob brawddeg.** „Dewch i ni roi dy gôt ymlaen. Yna awn ni allan.” Nid y ddau mewn un anadl.
+- **Defnyddiwch enwau, nid rhagenwau.** Mae „Ffoniodd Modryb Siân” yn gliriach na „Ffoniodd hi”.
+- **Gostyngwch eich llais, nid ei godi.** Mae Family Caregiver Alliance yn awgrymu llais is yn hytrach nag un uwch.
+- **Ailadroddwch, yna ail-eiriwch.** Os na wnaethant ddeall, ailadroddwch yr un geiriau unwaith. Os nad yw hynny'n gweithio, arhoswch am ennyd a rhowch gynnig ar eiriau gwahanol.
+- **Dangoswch yn ogystal â dweud.** Pwyntiwch at y cwpan, daliwch y ddau siwmper i fyny, neu dangoswch y cam cyntaf.
+- **Siaradwch â nhw, nid amdanynt.** Mae'r NIA yn rhybuddio rhag siarad am y person fel pe na baent yno, ac rhag siarad fel â phlentyn.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+Mae'r NIA yn awgrymu fersiynau symlach o gwestiynau cyffredin. Dyma enghreifftiau yn yr un ysbryd:
 
-| Instead of | Try |
+| Yn lle | Rhowch gynnig ar |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| „Beth hoffech chi i swper?” | „Hoffech chi bysgodyn neu gyw iâr?” |
+| „Sut ydych chi'n teimlo?” | „Ydych chi'n teimlo'n flinedig?” |
+| „Oes eisiau bwyd arnoch chi?” | „Bydd swper yn barod mewn pum munud.” |
+| „Dydy hynny ddim y ffordd i'w wneud e.” | „Dewch i ni roi cynnig arni fel hyn.” |
+| „Ydych chi'n cofio ein taith ni i'r llyn?” | „Roeddwn i'n meddwl am ein taith ni i'r llyn. Dywedwch wrtha i beth oeddech chi'n ei hoffi amdani.” |
+| „Dw i eisoes wedi dweud wrthych chi.” | Atebwch eto, yn garedig, fel petai am y tro cyntaf. |
 
-## How do I listen well?
+## Sut mae gwrando'n dda?
 
-Listen for the meaning and the feeling, not just the words.
+Gwrandewch am yr ystyr a'r teimlad, nid dim ond y geiriau.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Arhoswch.** Yn aml, amser meddwl yw distawrwydd. Cyfrifwch yn araf i ddeg cyn camu i mewn.
+- **Cynigiwch air dim ond os ydynt yn sownd.** Mae Family Caregiver Alliance yn dweud ei bod hi'n iawn awgrymu geiriau pan fydd rhywun yn cael trafferth.
+- **Gwiriwch yr hyn a glywsoch chi.** Mae [canllaw cyfathrebu'r Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) yn awgrymu chwilio am yr ystyr y tu ôl i'w geiriau a'i ailadrodd i wirio eich bod wedi deall. „Ydych chi'n poeni am y car?”
+- **Gwyliwch eu hwyneb a'u corff.** Wrth i siarad ddod yn anoddach, mae'r NIA yn nodi y gall mynegiant wyneb ddangos tristwch, dicter neu rwystredigaeth yn gliriach na geiriau.
+- **Cymerwch bryderon o ddifrif.** Hyd yn oed os yw pryder yn seiliedig ar ffaith anghywir, mae'r teimlad yn real.
 
-## What if they say something that is not true?
+## Beth os ydynt yn dweud rhywbeth nad yw'n wir?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Peidiwch â dadlau. Mae'n annhebygol y byddwch chi'n ennill, ac efallai y bydd y person yn teimlo embaras neu ofn. Yn lle hynny, cysylltwch â'r teimlad, yna symudwch ymlaen yn dyner.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Mae Family Caregiver Alliance yn awgrymu cydnabod yr emosiwn cyn ailgyfeirio. Er enghraifft, os yw eich mam yn mynnu bod angen iddi fynd i nôl y plant o'r ysgol:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Yn lle: „Mam, mae dy blant wedi tyfu. Roedd hynny ddeugain mlynedd yn ôl.”
+- Rhowch gynnig ar: „Roeddet ti wastad yn fam mor ofalgar. Dywed wrtha i am eu nôl nhw. Ga i ni gael byrbryd yn gyntaf?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Mae'r Alzheimer's Association hefyd yn cynghori peidio â dadlau dros ddatganiadau nad ydych chi'n cytuno â nhw. Dewiswch eich adegau: os yw cred anghywir yn ddiniwed, gadewch iddo fod.
 
-## How does communication change as dementia progresses?
+## Sut mae cyfathrebu'n newid wrth i dementia symud ymlaen?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Mae anghenion yn newid dros amser, felly addaswch eich dull. Mae'r Alzheimer's Association yn disgrifio tri cham bras:
 
-| Stage | What helps |
+| Cam | Beth sy'n helpu |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Cynnar | Peidiwch â chymryd yn ganiataol na allant gyfathrebu. Cynhwyswch nhw mewn sgyrsiau, siaradwch â nhw'n uniongyrchol, gofynnwch pa gefnogaeth maent ei eisiau, a defnyddiwch hiwmor os yw'n helpu. |
+| Canol | Sgyrsiau un i un mewn man tawel. Siaradwch yn araf, cadwch gyswllt llygad, defnyddiwch gwestiynau ie neu na, rhowch gyfarwyddiadau cam wrth gam, a cheisiwch beidio â beirniadu na chywiro. |
+| Hwyr | Ewch atynt o'r tu blaen a dywedwch pwy ydych chi. Anogwch bwyntio ac ystumiau. Defnyddiwch gyffyrddiad, synau, golygfeydd ac arogleuon. Peidiwch byth â siarad fel pe na baent yno. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Mae pob person yn wahanol, a gall yr un person gael dyddiau da a dyddiau anodd. Ymatebwch i sut maent ar hyn o bryd, nid i label.
 
-## Can pictures and activities make conversation easier?
+## A all lluniau a gweithgareddau wneud sgwrsio'n haws?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Gallant. Mae llun a rennir yn lleihau'r pwysau ac yn rhoi rhywbeth i'r ddau ohonoch edrych arno a phwyntio ato.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Anogwyr llun.** Mae [Conversation Cards](/games/conversation-cards/) yn cynnig lluniau gyda chwestiynau agored nad ydynt byth yn holi.
+- **Lluniau teulu.** Mae [Photo Pairs](/games/photo-pairs/) yn troi lluniau rydych chi'n eu dewis yn gêm baru dyner, sy'n aml yn sbarduno straeon.
+- **Dywediadau cyfarwydd.** Mae [Finish the Saying](/games/finish-the-saying/) yn defnyddio dywediadau cyfarwydd, ac yna cwestiwn i sgwrsio amdano.
+- **Gemau paru fel cefndir.** Mae [Picture Pairs](/games/picture-pairs/) yn rhoi rhywbeth i'ch dwylo ei wneud wrth i chi sgwrsio.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Gweler [sut i chwarae gemau gyda'ch gilydd](/caregiving/how-to-play-together/) a [gweithgareddau atgofion](/activities/reminiscence/) am ragor. Ar gyfer ymweliadau a galwadau, darllenwch ein canllawiau ar [ymweld](/activities/visiting/) ac [alwadau ffôn a fideo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Beth os byddaf i'n colli fy amynedd?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Mae'n digwydd i bawb. Mae'r NIA yn awgrymu, os byddwch chi'n teimlo'n rhwystredig, eich bod yn cymryd ychydig o amser i ymdawelu. Ewch i ystafell arall, cymerwch ychydig o anadliadau araf, a dewch yn ôl pan allwch chi. Gallwch chi bob amser ddechrau'r sgwrs eto, ac mae'n ddigon posibl y bydd y person yn ymateb i'ch hwyliau tawelach. Os yw rhwystredigaeth yn dod yn rhywbeth cyson, mae hynny'n arwydd bod angen mwy o gefnogaeth arnoch chi, nid eich bod yn methu. Mae ein canllaw ar [ofal personol i ofalwyr](/caregiving/caregiver-self-care/) yn cynnwys lleoedd i droi atynt.

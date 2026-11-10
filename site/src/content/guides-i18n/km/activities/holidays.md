@@ -1,33 +1,35 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "សកម្មភាពថ្ងៃបុណ្យសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង"
+seoTitle: "គំនិតថ្ងៃបុណ្យសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង"
+description: "សកម្មភាពថ្ងៃបុណ្យសាមញ្ញសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង៖ ការងារធ្វើម្ហូប ការតុបតែង តន្ត្រី រូបថត និងការហៅវីដេអូ រួមទាំងវិធីរៀបចំថ្ងៃបុណ្យឱ្យស្ងប់ជាងមុន។"
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  រក្សាការប្រារព្ធថ្ងៃបុណ្យឱ្យតូចជាងមុន ធ្វើនៅពេលព្រឹក ឬពេលថ្ងៃល្ងាចមុន
+  និងនៅជិតទម្លាប់ប្រចាំថ្ងៃរបស់អ្នកដែលអ្នកថែទាំ។ ផ្តល់ការងារពិតប្រាកដ
+  និងមានសុវត្ថិភាពដូចជា ការរៀបចំតុ ការលាងបន្លែ ការខ្ចប់កាដូរ
+  ឬការព្យួររបស់តុបតែង។ ចែករំលែកតន្ត្រីដែលquen និងរូបថតចាស់ៗ
+  រៀបចំប្រាប់ភ្ញៀវជាមុន និងរៀបចំបន្ទប់ស្ងប់មួយ។ ធ្វើត្រឹមតែអ្វីដែល
+  អ្នកអាចគ្រប់គ្រងបានសមហេតុផល ព្រោះការប្រារព្ធខ្លីៗ និងស្ងប់ស្ងាត់
+  ក៏ជាការប្រារព្ធដ៏ល្អមួយដែរ។
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "ប្រារព្ធនៅពេលព្រឹក ឬពេលថ្ងៃល្ងាចមុន ដូចជាអាហារថ្ងៃត្រង់ ឬអាហារពេលព្រឹកយឺតៗ ប្រសិនបើការភាន់ច្រឡំចុងថ្ងៃកើតឡើងញឹកញាប់។"
+  - "ផ្តល់ការងារពិតប្រាកដ៖ ការរៀបចំតុ ការលាងបន្លែ ការខ្ចប់កាដូរ ការតុបតែង ឬការរៀបបង្អែម។"
+  - "តន្ត្រីquen បទចម្រៀងបុណ្យ និងអាល់ប៊ុមរូបថតចាស់ៗ គឺជាវិធីងាយស្រួលក្នុងការចែករំលែកអារម្មណ៍ថ្ងៃបុណ្យ។"
+  - "ប្រាប់ភ្ញៀវជាមុនអំពីអ្វីដែលគេអាចរំពឹងទុក និងបង្ហាញរូបថតអ្នកដែលនឹងមកឱ្យអ្នកដែលអ្នកថែទាំមើល។"
+  - "រៀបចំបន្ទប់ស្ងប់មួយដែលមានភួយ ឬអាវដែលគេចូលចិត្ត និងរក្សាចំនួនភ្ញៀវឱ្យតិចក្នុងពេលតែមួយ។"
+  - "ជៀសវាងអ្វីដែលអាចធ្វើឱ្យលើសលប់ រួមទាំងការតុបតែងដែលមើលទៅដូចអាហារ និងភ្លើងលោតភ្លឹបភ្លែតច្រើន។"
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "តើអ្នកដែលរស់នៅជាមួយជំងឺវង្វេងអាចធ្វើអ្វីខ្លះនៅថ្ងៃបុណ្យអរគុណ (Thanksgiving)?"
+    a: "ផ្តល់ការងារសាមញ្ញ និងមានសុវត្ថិភាពដែលសមនឹងសមត្ថភាពរបស់គេនៅថ្ងៃនោះ៖ ការលាងបន្លែ ការកូរទឹកជ្រលក់ cranberry ការរៀបចំតុ ការបត់កន្សែង ឬការដាក់បង្អែមលើចាន។ បន្ទាប់មក អាចមើលរូបថតគ្រួសារចាស់ៗ ឬច្រៀងបទចម្រៀងquenៗជាមួយគ្នា។ ការចូលរួមក្នុងថ្ងៃនោះមានសារៈសំខាន់ជាងលទ្ធផលនៃការងារ។"
+  - q: "តើយើងគួរបន្តមានការជួបជុំគ្រួសារធំដែរឬទេ?"
+    a: "ធ្វើតែប្រសិនបើអ្នកអាចគ្រប់គ្រងបាន។ ហ្វូងមនុស្ស និងសំឡេងរំខានអាចធ្វើឱ្យលើសលប់ ដូច្នេះគ្រួសារជាច្រើនជ្រើសរើសការជួបជុំតូចជាងមុន សាមញ្ញជាងមុន អាហារមុនម៉ោង ឬឱ្យភ្ញៀវមកជាក្រុមតូចៗ។ Alzheimer's Association លើកទឹកចិត្តឱ្យអ្នកថែទាំធ្វើតែអ្វីដែលពួកគេអាចគ្រប់គ្រងបានសមហេតុផល និងដោយសុវត្ថិភាព។"
+  - q: "តើខ្ញុំត្រូវរៀបចំសមាជិកគ្រួសារដែលមិនបានមកលេងយូរដោយរបៀបណា?"
+    a: "ប្រាប់ពួកគេមុនពេលមកដល់អំពីការផ្លាស់ប្តូរដែលពួកគេអាចកត់សម្គាល់ឃើញ និងថាការផ្លាស់ប្តូរទាំងនេះកើតចេញពីជំងឺ មិនមែនមកពីបុគ្គលនោះទេ។ សូមឱ្យពួកគេកុំកែ ឬសាកសួរសំណួរដូចជាការប្រឡង និយាយម្តងមួយៗ និងផ្តល់ពេលឱ្យគេឆ្លើយ។ ការបង្ហាញរូបថតភ្ញៀវឱ្យអ្នកដែលអ្នកថែទាំមើលជាមុនក៏អាចជួយបានដែរ។"
+  - q: "តើអំណោយថ្ងៃបុណ្យអ្វីខ្លះដែលសមស្របសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង?"
+    a: "របស់សាមញ្ញ និងមានសុវត្ថិភាពដែលគេអាចរីករាយបានឥឡូវនេះ៖ អាហារសម្រន់ដែលគេចូលចិត្ត ភួយ ឬអាវទន់ៗ តន្ត្រីquenៗ ឬអាល់ប៊ុមរូបថតគ្រួសារ។ ជៀសវាងឧបករណ៍អេឡិចត្រូនិកស្មុគស្មាញ ឧបករណ៍ផ្សេងៗ និងល្បែងក្តារដែលពិបាក។ ការឱ្យគេចូលរួមក្នុងការផ្តល់អំណោយ ដូចជាការខ្ចប់កាដូរ ឬការដាក់ខូគីដែលគេបានជួយធ្វើចូលប្រអប់ ក៏អាចជាអំណោយដ៏មានន័យមួយដែរ។"
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +42,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+ថ្ងៃបុណ្យអាចនាំមកនូវអនុស្សាវរីយ៍ដ៏កក់ក្ដៅ ហើយក៏អាចនាំមកនូវសំឡេងរំខាន ហ្វូងមនុស្ស និងការផ្លាស់ប្តូរពីទម្លាប់ប្រចាំថ្ងៃផងដែរ។ សម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង ការប្រារព្ធដែលល្អបំផុតជាទូទៅគឺតូចជាងមុន យឺតជាងមុន និងផ្តោតលើរឿងដែលគេនៅតែអាចរីករាយបាន។ គំនិតទាំងនេះអាចប្រើបានសម្រាប់ថ្ងៃបុណ្យអរគុណ (Thanksgiving) បុណ្យណូអែល (Christmas) បុណ្យ Hanukkah ឆ្នាំថ្មី និងថ្ងៃខួបកំណើតគ្រួសារដូចគ្នា។
 
-## How do I plan a calmer holiday?
+## តើខ្ញុំត្រូវរៀបចំថ្ងៃបុណ្យឱ្យស្ងប់ជាងមុនដោយរបៀបណា?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+ចាប់ផ្តើមពីទម្លាប់ប្រចាំថ្ងៃរបស់អ្នកដែលអ្នកថែទាំ ហើយរៀបចំថ្ងៃនោះជុំវិញទម្លាប់ទាំងនោះ។ [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) ណែនាំឱ្យប្រារព្ធនៅពេលព្រឹក ឬពេលថ្ងៃល្ងាចមុន ព្រោះការភាន់ច្រឡំ និងការមិនស្ងប់ចិត្តច្រើនតែកើនឡើងនៅពេលរសៀលចុងថ្ងៃ និងពេលល្ងាច (ដែលជួនកាលហៅថា sundowning)។ អាហារថ្ងៃត្រង់ ឬអាហារពេលព្រឹកយឺតៗក្នុងថ្ងៃបុណ្យអាចងាយស្រួលជាងអាហារពេលល្ងាច។
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **រក្សាទំហំឱ្យសមរម្យ។** ការជួបជុំតូចជាងមុន សាមញ្ញជាងមុន ឬឱ្យភ្ញៀវមកម្តងមួយៗក្នុងក្រុមតូចៗ ជារឿយៗងាយស្រួលជាងការជួបជុំមនុស្សច្រើននៅតុតែមួយ។
+- **ចែកការងារ។** សុំឱ្យសាច់ញាតិយកម្ហូបមកមួយមុខ ទៅទិញអីវ៉ាន់ ឬនៅជាមួយអ្នកដែលអ្នកថែទាំខណៈពេលអ្នកចម្អិន។ ប្រាប់ឱ្យច្បាស់ថាអ្វីដែលនឹងជួយបាន។
+- **រក្សាការតុបតែងឱ្យសាមញ្ញ។** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) កត់សម្គាល់ថា ភ្លើងលោតភ្លឹបភ្លែតអាចធ្វើឱ្យភាន់ច្រឡំ ហើយស្ករគ្រាប់ ឬផ្លែឈើសិប្បនិម្មិតដែលប្រើសម្រាប់តុបតែងអាចត្រូវបានគេយល់ច្រឡំថាជាអាហារ។
+- **សម្រេចចិត្តថាត្រូវលះបង់អ្វីខ្លះ។** ប្រសិនបើប្រពៃណីណាមួយក្លាយជារឿងគួរឱ្យតានតឹង ឬមានហានិភ័យ អ្នកអាចរំលងវា ឬសាកល្បងធ្វើអ្វីដែលស្ងប់ជាងមុន។
 
-## What holiday activities can we do together?
+## តើមានសកម្មភាពថ្ងៃបុណ្យអ្វីខ្លះដែលយើងអាចធ្វើជាមួយគ្នាបាន?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+ជ្រើសរើសការងារ និងសកម្មភាពដែលសមនឹងសមត្ថភាពរបស់អ្នកដែលអ្នកថែទាំនៅថ្ងៃនោះ។ ការចូលរួមក្នុងថ្ងៃនោះមានសារៈសំខាន់ជាងលទ្ធផល។
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **រៀបចំតុជាមួយគ្នា។** ដាក់ចានជាមុនសិន បន្ទាប់មកកន្សែង ហើយបន្ទាប់មកពែង។ ការបត់កន្សែងគឺជាការងារល្អដែលអាចធ្វើអង្គុយបាន។
+2. **លាង និងតម្រៀបបន្លែ។** ការលាងដំឡូង ឬការដកសរសៃសណ្តែកបៃតងនៅតុផ្ទះបាយគឺមានសុវត្ថិភាព និងquenសម្រាប់មនុស្សជាច្រើនដែលធ្លាប់ចម្អិនអាហារ។
+3. **កូរ លាយ ឬរៀបចាន។** ការកូរទឹកជ្រលក់ cranberry ការលាយម្សៅសាមញ្ញ ឬការដាក់ខូគីលើចាន អាចធ្វើឱ្យដៃមានការងារធ្វើ ហើយនៅឆ្ងាយពីចង្រ្កាន និងកាំបិត។
+4. **ខ្ចប់កាដូរ។** កាត់ក្រដាស និងស្កុតជាមុនសិន ហើយឱ្យអ្នកដែលអ្នកថែទាំបត់ និងរាបឱ្យเรียบ។ ការខ្ចប់ឱ្យស្អាតមិនមែនជាគោលបំណងទេ។
+5. **ព្យួររបស់តុបតែងមួយចំនួន។** ជ្រើសរើសរបស់តុបតែងដែលមិនងាយបែក និងតែមួយកន្លែងតូចមួយ ដូចជាកម្រងផ្កា ឬដើមឈើតូចមួយ។
+6. **ធ្វើសិប្បកម្មសាមញ្ញ។** ខ្សែសង្វាក់ក្រដាស ការបិទផ្កាឬស្លឹក ឬកាតថ្ងៃបុណ្យដែលប្រើត្រា គឺសមស្រប។ មគ្គុទ្ទេសក៍ [សិល្បៈ និងសិប្បកម្ម](/activities/arts-and-crafts/) របស់យើងមានគំនិតបន្ថែម។
+7. **ច្រៀង និងស្តាប់។** បទចម្រៀងបុណ្យ និងបទចម្រៀងថ្ងៃបុណ្យដែលquenងាយស្រួលចូលរួម ទោះបីជាអ្នកដែលអ្នកថែទាំនិយាយតិចជាងមុនក៏ដោយ។ សូមមើល [មគ្គុទ្ទេសក៍តន្ត្រី](/activities/music/) របស់យើងសម្រាប់ការបង្កើតបញ្ជីចម្រៀង។
+8. **មើលរូបថតថ្ងៃបុណ្យចាស់ៗ។** យកអាល់ប៊ុមពីការប្រារព្ធកន្លងមកមើល ហើយលើកទឹកចិត្តឱ្យនិទានរឿង («ប្រាប់ខ្ញុំអំពីតុនេះ») ជាជាងសួរថានរណាក្នុងរូបថត។ [មគ្គុទ្ទេសក៍រំលឹកអនុស្សាវរីយ៍](/activities/reminiscence/) របស់យើងពន្យល់បន្ថែម។
+9. **លេងល្បែងស្រាលៗជាក្រុម។** [Picture bingo](/games/picture-bingo/) អាចបោះពុម្ពបានក្នុងរយៈពេលប៉ុន្មាននាទី និងសមស្របសម្រាប់គ្រប់វ័យ ហើយ [conversation cards](/games/conversation-cards/) ផ្តល់ប្រធានបទឱ្យអ្នករាល់គ្នាជជែកគ្នា។
+10. **ដាក់ពណ៌ជាមួយគ្នា។** [ទំព័រដាក់ពណ៌](/games/coloring/) សាមញ្ញអាចបោះពុម្ពឱ្យកុមារ និងមនុស្សវ័យចំណាស់ចែករំលែកនៅតុជាមួយគ្នា។
+11. **មើលភាពយន្តថ្ងៃបុណ្យដែលគេចូលចិត្ត។** ភាពយន្តដែលquenអាចជួយឱ្យសម្រាកបាន ហើយមិនអីទេប្រសិនបើមើលតែមួយផ្នែក។
+12. **ជិះឡានខ្លីៗទៅមើលភ្លើងតុបតែង។** ការជិះឡានស្ងប់ៗកាត់ផ្ទះដែលមានការតុបតែងអាចងាយស្រួលជាងការទៅកន្លែងដែលមានមនុស្សច្រើន។
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+ប្រសិនបើការចម្អិនអាហារធ្លាប់ជាផ្នែកសំខាន់ក្នុងជីវិតរបស់អ្នកដែលអ្នកថែទាំ មគ្គុទ្ទេសក៍របស់យើងអំពី [ការងារផ្ទះជាសកម្មភាព](/activities/household-tasks/) មានវិធីបន្ថែមដើម្បីធ្វើឱ្យការងារក្នុងផ្ទះបាយមានសុវត្ថិភាព និងគួរឱ្យពេញចិត្ត។
 
-## How do I prepare guests?
+## តើខ្ញុំត្រូវរៀបចំភ្ញៀវដោយរបៀបណា?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+ប្រាប់ភ្ញៀវជាមុនអំពីអ្វីដែលពួកគេអាចរំពឹងទុក ជាពិសេសសាច់ញាតិដែលមិនបានមកលេងយូរ។ Alzheimer's Association ណែនាំឱ្យពន្យល់ថា ការផ្លាស់ប្តូរនៃការចងចាំ និងឥរិយាបថកើតចេញពីជំងឺ មិនមែនមកពីបុគ្គលនោះទេ។
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **ចែករំលែកគន្លឹះសាមញ្ញមួយចំនួន៖** និយាយម្តងមួយៗ ផ្តល់ពេលឱ្យគេបញ្ចប់គំនិត កុំកែ ឬសាកសួរ និងឆ្លើយតបទៅនឹងសំឡេងអារម្មណ៍របស់គេ ប្រសិនបើពាក្យពិបាកយល់។
+- **ប្រាប់ថាអ្វីដែលជួយ និងអ្វីដែលធ្វើឱ្យមិនស្រួល។** ប្រសិនបើសំឡេងខ្លាំង ការប្រញាប់ ឬប្រធានបទមួយចំនួនធ្វើឱ្យពិបាកចិត្ត សូមប្រាប់ជាមុន។
+- **ណែនាំភ្ញៀវជាមុន។** បង្ហាញរូបថតអ្នកដែលនឹងមកឱ្យអ្នកដែលអ្នកថែទាំមើល និងចែករំលែករឿងខ្លីៗមួយចំនួន ឬរៀបចំការហៅទូរស័ព្ទ ឬវីដេអូខ្លីៗមុនថ្ងៃនោះ។
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+[គន្លឹះក្នុងការទំនាក់ទំនង](/caregiving/communication-tips/) របស់យើងមានព័ត៌មានលម្អិតបន្ថែម។
 
-## What if it gets to be too much?
+## ចុះប្រសិនបើអ្វីៗក្លាយជាលើសលប់?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+រៀបចំបន្ទប់ស្ងប់មួយមុនពេលភ្ញៀវមកដល់ ឆ្ងាយពីសំឡេងរំខាន និងមានរបស់ដែលquenដែលផ្តល់ភាពស្រួល ដូចជាភួយ ឬអាវដែលគេចូលចិត្ត ឬសកម្មភាពសាមញ្ញមួយ។ សូមណែនាំឱ្យទៅបន្ទប់នោះមុនៗ និងញឹកញាប់៖ «តើយើងទៅអង្គុយកន្លែងស្ងប់ជាងនេះមួយភ្លែតបានទេ?»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+ការចាកចេញពីតុ ទៅដេកមុនម៉ោង ឬមិនចូលរួមផ្នែកខ្លះនៃថ្ងៃនោះ គឺជាលទ្ធផលល្អ មិនមែនជាការបរាជ័យទេ។ ប្រសិនបើអ្នកដែលអ្នកថែទាំចាប់ផ្តើមមិនស្រួលចិត្ត សំឡេងស្ងប់ស្ងាត់ បទចម្រៀងquen ឬការដើរទៅបន្ទប់ផ្សេងជារឿយៗអាចជួយបានច្រើនជាងការពន្យល់វែកញែក។ មគ្គុទ្ទេសក៍របស់យើងអំពី [ការមិនស្ងប់ចិត្តចុងថ្ងៃ](/caregiving/late-day-restlessness/) មានគំនិតបន្ថែមសម្រាប់ពេលល្ងាច។
 
-## How can family far away take part?
+## តើសាច់ញាតិដែលនៅឆ្ងាយអាចចូលរួមដោយរបៀបណា?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+ការហៅវីដេអូអាចឱ្យសាច់ញាតិចូលរួមបានដោយមិនបន្ថែមហ្វូងមនុស្ស។ Alzheimer's Association ណែនាំឱ្យរៀបចំការហៅឱ្យមានរចនាសម្ព័ន្ធបន្តិច ឧទាហរណ៍ ច្រៀងបទចម្រៀងថ្ងៃបុណ្យជាមួយគ្នា ចែករំលែករូបថតពីការជួបជុំកន្លងមក ចម្អិនម្ហូបដូចគ្នាជាមួយគ្នា ឬមើលភាពយន្តថ្ងៃបុណ្យក្នុងពេលតែមួយ។ រក្សាការហៅឱ្យខ្លី ហើយសុំឱ្យមនុស្សនិយាយម្តងមួយៗ ព្រោះការនិយាយត្រួតគ្នាពិបាកតាមទាន់។ [មគ្គុទ្ទេសក៍ការហៅទូរស័ព្ទ និងវីដេអូ](/activities/phone-and-video-calls/) របស់យើងមានគំនិតជាជំហានៗ។
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+ប្រសិនបើអ្នកដែលអ្នកថែទាំរស់នៅក្នុងមជ្ឈមណ្ឌលថែទាំអនុស្សាវរីយ៍ សូមពិនិត្យមើលគោលការណ៍នៃការមកលេង និងសុំឱ្យបុគ្គលិកជួយរៀបចំការហៅ។ មគ្គុទ្ទេសក៍របស់យើងអំពី [ការទៅលេងអ្នកនៅមជ្ឈមណ្ឌលថែទាំអនុស្សាវរីយ៍](/activities/visiting/) ពន្យល់អំពីអ្វីដែលគួរយកមក និងរបៀបចាកចេញឱ្យបានល្អ។
 
-## What gifts suit someone with dementia?
+## តើអំណោយអ្វីខ្លះដែលសមស្របសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+អំណោយសាមញ្ញ និងមានសុវត្ថិភាពដែលគេអាចរីករាយបានឥឡូវនេះជាទូទៅសមស្របបំផុត៖ អាហារសម្រន់ដែលគេចូលចិត្ត ភួយ ឬអាវក cardigan ទន់ៗ តន្ត្រីquenៗ ប្រតិទិនអក្សរធំ ឬអាល់ប៊ុមរូបថតគ្រួសារ។ Alzheimer's Association ណែនាំឱ្យជៀសវាងឧបករណ៍ដែលអាចមានគ្រោះថ្នាក់ ឧបករណ៍អេឡិចត្រូនិកស្មុគស្មាញ និងល្បែងក្តារដែលពិបាក។
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+ការផ្តល់អំណោយអាចមានន័យដូចការទទួលអំណោយដែរ។ ការដាក់ខូគីដែលអ្នកដែលអ្នកថែទាំបានជួយធ្វើចូលប្រអប់ ឬឱ្យគេខ្ចប់កាដូរដែលអ្នកបានទិញ អាចឱ្យគេចូលរួមក្នុងអារម្មណ៍ថ្ងៃបុណ្យ។ ល្បែងរូបថតគ្រួសារក៏ជាគំនិតមួយផងដែរ៖ [photo pairs](/games/photo-pairs/) ប្រែរូបថតមួយចំនួនដែលបានជ្រើសរើសទៅជាល្បែងផ្គូផ្គងស្រាលៗក្នុងកម្មវិធីរុករក។
 
-## Look after yourself too
+## ថែទាំខ្លួនឯងផងដែរ
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+ថ្ងៃបុណ្យបន្ថែមការងារលើការថែទាំ។ អនុញ្ញាតឱ្យអ្នកផ្សេងធ្វើជាម្ចាស់ផ្ទះ ឬចម្អិនម្ហូប បដិសេធព្រឹត្តិការណ៍ដែលពិបាក និងសម្រាកខណៈពេលអ្នកផ្សេងនៅជាមួយអ្នកដែលអ្នកថែទាំ។ ប្រសិនបើអ្នក ឬអ្នកដែលអ្នកថែទាំមិនស្រួលខ្លួន ការគ្រវីដៃពីចម្ងាយ ឬការហៅវីដេអូក៏ជាការមកលេងដ៏ល្អមួយដែរ។ មគ្គុទ្ទេសក៍របស់យើងអំពី [ការថែទាំខ្លួនឯងសម្រាប់អ្នកថែទាំ](/caregiving/caregiver-self-care/) មានការគាំទ្របន្ថែម។

@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Dementzia duen pertsona bisitatzea egoitzan edo ospitalean"
+seoTitle: "Dementzia duen pertsona bisitatzea: zer egin"
+description: "Dementzia duen pertsona egoitzan, zaharren etxean edo ospitalean bisitatzean: zer eraman, jarduera errazak, bisita laburrak eta agur lasaia."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Dementzia duen pertsona bat memoria-unitatean edo ospitalean bisitatzen
+  duzunean, mantendu gauzak sinple: esan zure izena iristean, eraman zerbait
+  elkarrekin partekatzeko, hala nola argazkiak, musika edo gustuko mokadu bat,
+  eta egin gauza erraz bat elkarrekin. Bisita labur eta ohikoek askotan hobeto
+  funtzionatzen dute bisita luze eta bakanek baino. Prestatu agur lasai eta
+  ohikoa, agurra biontzat errazagoa izan dadin.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Agurtu pertsona izenez eta esan nor zaren, asmatu behar ez dezan: «Kaixo, ama, ni naiz, Susan, zure alaba»."
+  - "Eraman elkarrekin partekatzeko gauza bat edo bi, hala nola argazki-album bat, gustuko musika, manta leun bat edo langileek onartutako mokadu bat."
+  - "Bisita labur eta ohikoek askotan hobeto funtzionatzen dute bisita luze eta bakanek baino. Zure presentziak gehiago balio du esaten duzunak baino."
+  - "Ospitalean, eman langileei pertsonari buruzko orri bat eta esan medikuari berehala bat-bateko aldaketarik nabaritzen baduzu."
+  - "Prestatu irteera: esan zenbat denbora geratuko zaren, erabili agur bera aldi bakoitzean, eta joan luzatu gabe."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Zer eraman behar dut dementzia duen pertsona bat bisitatzera noaenean?"
+    a: "Eraman elkarrekin partekatzeko zerbait, ez hitz egiteko zerbait. Argazki-album txiki bat, gustuko abestien zerrenda bat, manta leun bat, esku-krema, aspaldiko zaletasun bati buruzko aldizkari bat edo langileek onartutako mokadu bat aukera onak dira. Zaintza-etxe batean, familiako argazkiek eta objektu ezagunek ere gela etxeagoa sentiaraz dezakete."
+  - q: "Zenbat denbora geratu behar naiz dementzia duen pertsona bat bisitatzean?"
+    a: "Ez dago iraupen egokirik. Familia askok ikusten dute bisita laburragoak eta maizagoak hobeto doazela bisita luze eta bakanak baino, pertsona azkar nekatu baitaiteke eta agian ez baitu gogoratuko zenbat denbora egon zaren. Begiratu neke-zantzuei eta joan bisita oraindik atsegina den bitartean."
+  - q: "Zer esan etxera joan nahi duela esaten duenean?"
+    a: "Erantzun sentimenduari, ez hitzei. «Etxera joan nahi dut» esateak askotan «ez naiz eroso edo seguru sentitzen» esan nahi du. Saiatu esaten: «Kontaidazu zure etxeari buruz», begiratu argazkiak elkarrekin edo eskaini paseo bat edo mokadu bat. Eztabaidatzeak edo zergatik ezin den joan azaltzeak normalean larritasuna areagotzen du."
+  - q: "Eta ez banau ezagutzen?"
+    a: "Mina eman dezake, baina saiatu ez zuzentzen edo ez galdetzen «Ez al dakizu nor naizen?». Aurkeztu zeure burua modu atsegin eta sinplean, eta gozatu elkarrekin igarotako denboraz. Pertsona askok oraindik gustura izaten dute konpainia eta bisita baten berotasuna sentitzen dute, nahiz eta ezin duten asmatu nor zaren."
+  - q: "Nola lagun dezaket ospitaleko egonaldi batean?"
+    a: "Egon pertsonarekin ahal duzunean, lagundu jaten eta edaten, eta eraman objektu ezagunak, hala nola argazkiak. Eman langileei pertsonaren errutina, nahiago duen izena, gustukoak, gustuko ez dituenak eta min-zantzuak jasotzen dituen orri bat. Esan medikuari berehala pertsona bat-batean okerrago edo desberdin ikusten baduzu, bat-bateko nahasmenduak arazo mediko baten seinale izan baitaitezke."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Maite duzun pertsona bat memoria-unitatean, zaharren etxean edo ospitalean bisitatzeak sentimendu asko eragin ditzake. Agian zalantzak dituzu zer esan, zer eraman edo bisitak merezi duen ala ez, berak gero ez badu gogoratuko. Bai, merezi du. National Institute on Aging erakundeak dio Alzheimerra duten pertsonek [askotan gustura izaten dutela konpainia](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), nahiz eta bisitaria nor den ez gogoratu. Orrialde honek bisita baten aurretik, bitartean eta ondoren jarraitu beharreko urrats praktikoak ematen ditu, baita ospitaleko egonaldietarako aholku zehatzak ere.
 
-## How do I get ready for a visit?
+## Nola presta naiteke bisita baterako?
 
-A little planning makes the visit easier for both of you.
+Plangintza apur batek bisita errazagoa egiten du bientzat.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Aukeratu une egokia.** Dementia Australiak iradokitzen du pertsona normalean erneago egoten denean bisitatzea, askorentzat goizez edo eguerdi aldean. Family Caregiver Alliance erakundeak iradokitzen du egoitzaren ordutegia ezagutzea eta [jarduera librerako denboran bisitatzea, jarduera-orduan baino](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Galdetu langileei.** Galdetu pertsona gaur nola egon den, eta begiratu janariari, maskotei edo irteerei buruzko araurik dagoen.
+- **Prestatu bisita-poltsa txiki bat.** Nahikoa da elkarrekin partekatzeko gauza bat edo bi (ikus beheko zerrenda).
+- **Pentsatu gai batzuk.** Baliteke pertsonak berririk ez izatea kontatzeko; eraman zeureak: familiako berriak, eguraldia, kirol-partida bat edo istorio dibertigarri bat.
+- **Doitu zure itxaropenak.** Bisita batzuk beroak eta berriketalariak izango dira. Beste batzuk lasaiak edo zailak. Biak arruntak dira.
 
-## What should I bring?
+## Zer eraman behar dut?
 
-Bring things to share, not things that test. Good choices include:
+Eraman partekatzeko gauzak, ez frogatzekoak. Aukera onak hauek dira:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Argazki-album txiki bat**, argazki handi eta argiekin. Idatzi informazioa atzealdean langileentzat.
+- **Zerrenda bat** gustuko abestiekin telefonoan, entzungailu errazekin edo bozgorailu txiki batekin.
+- **Eusteko zerbait leuna**, hala nola manta, zapi edo jertse ezagun bat.
+- **Esku-krema** esku-masaje leun baterako, pertsonak ukitua gustuko badu.
+- **Aldizkari bat edo irudi-liburu bat** aspaldiko interes bati buruzkoa, hala nola lorezaintza, autoak, txoriak edo sukaldaritza.
+- **Gustuko mokadu bat**, langileek segurua dela esaten badute.
+- **Gelako objektu ezagunak.** Family Caregiver Alliance erakundeak loreak, landareak, familiako argazkiak eta artelanak iradokitzen ditu, edo iraganeko familiako argazkien poster handi bat.
+- **Tableta bat**, familiako argazkiak elkarrekin ikusteko edo joko lasai bat egiteko.
 
-## What can we do together during a visit?
+## Zer egin dezakegu elkarrekin bisitan?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Elkarrekin zerbait egiteak elkarrizketaren presioa arintzen du. Dementia Australiak iradokitzen du argazkiak ikustea, eskulan erraz bat egitea, landaretxoak landatzea, musika entzutea, mokadu bat partekatzea edo lorategian paseatzea. Beste ideia batzuk:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Begiratu argazkiak.** Esan ikusten duzuna: «Begira kapela hori». «Hondartza hau polita da». Utzi pertsonari gidatzen. Saihestu «Nor da hau?» galdetzea.
+2. **Jarri musika eta abestu.** Abesti ezagunek aldartea jaso dezakete eta une partekatua sortu, hitz egitea zaila denean ere.
+3. **Eman paseo labur bat.** Family Caregiver Alliance erakundeak egoitzan paseatzea iradokitzen du, batez ere lorategian, baldin badago. Gurpil-aulkian emandako paseoak ere balio du.
+4. **Egin esku-masaje bat.** Krema pixka bat eta eskuetan emandako igurtzi motelak lasaigarriak izan daitezke.
+5. **Lagundu apaintzen.** Dementia Australiak ilea orraztea, azazkalak margotzea edo gustuko arropa bat janzten laguntzea aipatzen du, pertsonak gustuko badu.
+6. **Egin joko erraz bat.** Family Caregiver Alliance erakundeak kartak, dominoa edo pertsonak lehen jolasten zuena iradokitzen ditu. Tabletan, [Picture Pairs](/games/picture-pairs/) irudiak ikusgai utzita eta denboragailurik gabe joka daiteke. [Photo Pairs](/games/photo-pairs/) jokoak zuk aukeratutako argazkiak parekatzeko joko bihurtzen ditu, eta argazkiak zure nabigatzailean geratzen dira.
+7. **Ikusi zerbait elkarrekin.** Family Caregiver Alliance erakundeak komediak eta film zaharrak iradokitzen ditu. Pertsonak istorioa jarraitu ezin badu ere, elkarrekin eseri eta denbora parteka dezakezue.
+8. **Irakurri ozen.** Poema labur bat, pasarte gustuko bat edo familiako kide baten gutun bat.
+9. **Eseri elkarrekin, besterik gabe.** Eskutik helduta egotea edo isilik eseritzea benetako bisita da. Alzheimer's Association erakundeak dio ondo dagoela zer esan ez jakitea, eta zure presentzia dela garrantzitsuena.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) lagungarria izan daiteke zer esan gabe geratzen zarenean. Txartel bakoitzak irudi bat eta galdera ireki bat ditu.
 
-## How should I talk during the visit?
+## Nola hitz egin behar dut bisitan?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Aurkeztu zeure burua aldi bakoitzean.** «Kaixo, aita, ni naiz, Mark, zure semea». NIAk iradokitzen du bisitariek beren burua labur aurkeztea elkarrizketa hasteko.
+- **Hurbildu aurretik** eta eseri begien parean.
+- **Ez zuzendu eta ez eztabaidatu.** NIAk aholkatzen die bisitariei pertsona ez zuzentzeko akats bat egiten badu edo zerbait ahazten badu.
+- **Izan pazientzia** hitzak aurkitzea zaila denean. Eman denbora asko.
+- **Erantzun sentimenduei.** Pertsona triste edo kezkati ikusten baduzu, aitortu hori gaia aldatu aurretik.
+- **Saihestu galdeketa-galderak**, hala nola «Gogoratzen al zara nitaz?» edo «Zer jan duzu bazkaltzeko?».
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Ikus gure [komunikazio-aholkuak](/caregiving/communication-tips/) informazio gehiagorako.
 
-## What do I do when they say "I want to go home"?
+## Zer egin behar dut «etxera joan nahi dut» esaten duenean?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Erantzun hitzen atzean dagoen sentimenduari (gure gidak [norbaitek behin eta berriz etxera joan nahi duela esaten duenean](/caregiving/asking-to-go-home/) sakonago azaltzen du). Family Caregiver Alliance erakundeak azaltzen du «etxera joan nahi dut» esateak normalean «ez naiz eroso» esan nahi duela, eta honelako erantzunak iradokitzen ditu: «Kontaidazu zure etxeari buruz» edo «Zer da zure etxean gehien gustatzen zaizuna?». Dementia Australiak gehitzen du «etxea» pertsona seguru sentitu zen garai edo leku bat izan daitekeela, hala nola haurtzaroa.
 
-Try:
+Saiatu:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- sentimendua aitortzen: «Etxea faltan botatzen duzula ematen du».
+- erosotasuna eskaintzen ukituaren bidez, ongi etorria bada
+- argazkiak ikusten edo familiako etxeari buruz hitz egiten
+- paseo bat, edari bat edo mokadu bat eskaintzen
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Saihestu eztabaidatzea edo zergatik ezin den joan azaltzea. Gutxitan laguntzen du, eta askotan larritasuna areagotzen du.
 
-## How long should a visit be?
+## Zenbat iraun behar du bisita batek?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Laburragoak eta maizagoak izatea askotan hobeto doa. Family Caregiver Alliance erakundeak dio pertsonak normalean ez duela gogoratzen bost minutu edo bost ordu egon zaren, eta iradokitzen du astean hiru bisita labur bisita luze bat baino hobeak izan daitezkeela. Dementia Australiak dio ez dagoela bisita kopuru egokirik ez iraupen egokirik.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Memoria-unitatera aldatu ondorengo lehen asteetan, Family Caregiver Alliance erakundeak maiz bisitatzea iradokitzen du, eta gero pixkanaka ohiko erritmo batera egokitzea. Galdetu langileei zer ikusten ari diren.
 
-## How do I leave without upsetting them?
+## Nola joan naiteke hura larritu gabe?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Joatea da askotan zatirik zailena. Dementia Australiak honako hau iradokitzen du:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Esan iristean zenbat denbora geratuko zaren.** «Ordubetez geratu naiteke, eta gero erosketak egitera joango naiz».
+- **Erabili jarduera bat amaiera natural gisa.** «Abesti hau amaitzen dugunean, joango naiz».
+- **Egokitu irteera otordu edo jarduera baten ordura**, edo eskatu langileei beste zerbaitetan laguntzen.
+- **Mantendu agurra labur eta berdin aldi bakoitzean.** Luzatzeak, barkamena eskatzeak edo «pixka bat gehiago» geratzeak etorkizuneko agurrak zailagoak egin ditzake.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Joan ondoren, normala da triste sentitzea. Eman atseden hartzeko denbora. Pertsona larritu bada, langileek normalean lasaitzen lagun dezakete handik gutxira.
 
-## Visiting someone with dementia in the hospital
+## Dementzia duen pertsona bat ospitalean bisitatzea
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Ospitalea zaratatsua da, ezezaguna eta jendez betea, eta hori oso zaila izan daiteke dementziarekin bizi den pertsona batentzat. NIAren [Alzheimerra duen pertsona bat ospitalera eramateari buruzko gidak](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) honako hau gomendatzen du:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Saiatu norbait pertsonarekin egoten** ahal den neurrian: familiako kide bat, lagun fidagarri bat edo kontratatutako zaintzaile bat.
+- **Eman langileei informazio pertsonaleko orri bat**, pertsonaren errutina, nahiago duen izena, gustukoak eta gustuko ez dituenak, egoera zailak sor ditzaketen gauzak eta minean daudenean egiten dituen keinuak jasota. Utzi kopiak gelan eta erizainen postuan.
+- **Lagundu jaten eta edaten.** Adineko pertsonak desnutrizioa izan dezakete ospitalean. Ireki ontziak, lagundu otorduetan, jan elkarrekin eta eskaini edariak.
+- **Eraman objektu lasaigarriak**, hala nola argazkiak edo esanahi bereziko objektuak.
+- **Jaitsi zarata.** Itzali telebista eta jaitsi telefonoaren eta megafoniaren bolumena.
+- **Saiatu erritual lasaigarriekin**, hala nola musika leuna, irakurtzea, otoitz egitea, abestea edo argazki zaharrak ikustea.
+- **Bultzatu mugitzera** seguru den neurrian, langileen onespenarekin.
+- **Esan medikuari berehala pertsona bat-batean okerrago edo desberdin ikusten baduzu.** NIAk azaltzen du bat-bateko nahasmendu larriari, delirium izenekoa, infekzioa, sukarra, deshidratazioa edo sendagaien albo-ondorioak bezalako arazoek eragin diezaioketela, eta arreta medikoa behar duela.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Aurpegi ezagun batekin eta abesti gustuko batekin egindako bisita labur eta lasai bat izan daiteke ospitaleko egun bateko unerik atseginena.
 
-## Bringing children on a visit
+## Haurrak bisitara eramatea
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Haurrek berotasun handia ekar dezakete. Prestatu aurretik hitz sinple eta zintzoekin, mantendu bisita laburra eta eman egiteko lan bat, adibidez marrazki bat erakustea edo argazki bat ematea. NIAk iradokitzen du haurrek eta Alzheimerra duten pertsonek elkarrekin jarduera errazak egin ditzaketela, hala nola argazki-album bat ikustea edo musika entzutea. Dementia Australiak iradokitzen du poltsa txiki bat prestatzea mokaduekin edo gauza lasaiekin haur txikiak entretenituta egoteko.
 
-## Take care of yourself too
+## Zaindu zeure burua ere
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Bisitatzea nekagarria eta emozionalki zaila izan daiteke, batez ere pertsona asko aldatu bada. Ondo dago gutxiagotan bisitatzea behar baduzu, lagun bat laguntzeko ekartzea edo egun zail batean lehenago joatea. Zeure burua zaintzeko ideiak nahi badituzu, ikus [zaintzaileen autozaintza](/caregiving/caregiver-self-care/). Urrun bizi bazara, ikus gure [telefono- eta bideo-deiei](/activities/phone-and-video-calls/) buruzko gida.

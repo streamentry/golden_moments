@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Cur Shilley er Persoon lesh Meenaghtys ayns Kiarail"
+seoTitle: "Cur Shilley er Persoon lesh Meenaghtys: Coyrle"
+description: "Cre dy yannoo tra t’ou cur shilley er persoon lesh meenaghtys ayns kiarail cooinaghtyn, thie kiarail ny yn ospital: cre dy chur lesh, reddyn aashagh as faagail dy kiune."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Tra t’ou cur shilley er persoon lesh meenaghtys ayns kiarail cooinaghtyn ny
+  yn ospital, jean eh aashagh: abbyr dty ennym tra t’ou roshtyn, cur lesh
+  red ennagh dy rheynn, myr sampleyrr jalloyn, kiaull ny millag by vie lhieu,
+  as jean un red aashagh ry cheilley. Ta shilleyyn giare as reiltagh dy mennick
+  goll ny share na shilleyyn liauyr as anvennick. Jean plann son slane kiune as
+  cadjin, dy bee eh ny sassey diuish y ve faagail.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Cur oltaghey da’n persoon liorish e ennym as abbyr quoi oo, nagh lhisagh da obbraghey eh magh: ‘Fastyr mie Vammy, mish Susan, dty inneen.’"
+  - "Cur lesh un red ny jees dy rheynn, myr sampleyrr albym jalloyn, kiaull by vie lhieu, blaaik bog ny millag ta’n skimmee er lowal."
+  - "Ta shilleyyn giare as reiltagh dy mennick goll ny share na shilleyyn liauyr as anvennick. Ta’n ayrn t’ou ayns shen ny smoo scanshoil na ny focklyn."
+  - "Ayns yn ospital, cur da’n skimmee duillag mychione y persoon as insh da’n lhiaghtee chelleeragh my vee caghlaa obbyr ayn."
+  - "Jean plann son faagail: abbyr cre cho foddey as oddys oo fuirriaght, jean ymmyd jeh’n slane cheddin dagh keayrt, as immee gyn fuirriaght ro foddey."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Cre lhisin cur lhiam tra ta mee cur shilley er persoon lesh meenaghtys?"
+    a: "Cur lesh red ennagh dy rheynn, cha nee red dy loayrt my-e-chione. Ta albym jalloyn beg, rolley kiaullee jeh ny arraneyn oc by vie lhieu, blaaik bog, ola laue, earisheyr mychione shenn chummey, ny millag ta’n skimmee er lowal ooilley cooie. Ayns thie kiarail, foddee jalloyn lught-thie as reddyn ennoil cur er y çhamyr gennaghtyn ny smoo goll rish thie."
+  - q: "Cre cho foddey lhisin fuirriaght tra ta mee cur shilley er persoon lesh meenaghtys?"
+    a: "Cha nel fad kiart ayn. Ta ymmodee lughtyn-thie feddyn magh dy vel shilleyyn giare as mennic goll ny share na shilleyyn liauyr as anvennick, er-yn-oyr dy vod y persoon skee dy tappee as foddee nagh bee cooinaghtyn oc cre cho foddey v’ou ayns shen. Jeeagh son cowraghyn dy vel ad skee, as immee choud’s ta’n shilley foast gennal."
+  - q: "Cre lhisin gra tra t’ad briaght dy gholl thie?"
+    a: "Cur freggyrt da’n ennaghtyn, cha nee da ny focklyn. Ta ‘By vie lhiam goll thie’ dy mennick çheet er ‘Cha nel mee gennaghtyn aashagh ny sauçhey.’ Foddee oo gra, ‘Insh dou mychione dty hie,’ jeeagh er jalloyn ry cheilley, ny cur shooyl ny millag daue. Cha nel arganey ny soilshaghey cre’n fa nagh vod ad goll dy mennick cooney, as foddee eh cur orroo ve ny s’trimshagh."
+  - q: "Cre my nagh vel ad cur enney orrym?"
+    a: "Foddee eh goaill ort, agh jean dty chooid share gyn ad y chur erash ny briaght ‘Nagh vel enney ayd orrym?’ Cur oo hene stiagh dy çheeoil as dy aashagh, as gow soylley jeh’n traa ry cheilley. Ta ymmodee sleih foast goaill soylley jeh sheshaght as gennaghtyn çhiarit yn shilley, ga nagh vod ad cooinaghtyn quoi oo."
+  - q: "Kys oddym cooney choud’s t’ad ayns yn ospital?"
+    a: "Fuirree marish y persoon tra oddys oo, cooin lhieu gee as giu, as cur lesh reddyn ennoil myr jalloyn. Cur da’n skimmee duillag ta cur-my-ner nyn ghroutine, yn ennym by vie lhieu, reddyn by vie lhieu as nagh by vie lhieu, as cowraghyn pian. Insh da’n lhiaghtee chelleeragh my t’ad jeeaghyn dy doaltattym ny s’trimshagh ny anchasley, er-yn-oyr dy vod caghlaa obbyr cowraghey doilleeid slaynt."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Foddee cur shilley er persoon deyr t’ayd ayns kiarail cooinaghtyn, thie kiarail ny yn ospital cur lane ennaghtyn ort. Foddee oo smooinaghtyn cre dy ghra, cre dy chur lesh, ny my ta’n shilley scanshoil ga nagh bee cooinaghtyn oc er. T’eh scanshoil. Ta’n National Institute on Aging gra dy vel sleih lesh galar Alzheimer [dy mennick goaill soylley jeh sheshaght](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ga nagh vel cooinaghtyn oc quoi yn çheeteyr. Ta’n duillag shoh cur coyrle aashagh roish, choud’s as lurg shilley, as coyrle er lheh son tannaghtyn ayns yn ospital.
 
-## How do I get ready for a visit?
+## Kys neem’s aarloo son shilley?
 
-A little planning makes the visit easier for both of you.
+Ta beggan plannal cur er y shilley ve ny sassey diuish y ve.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Reih traa mie.** Ta Dementia Australia coyrlaghey dy chur shilley tra ta’n persoon dy cadjin ny s’dooisht, ta shen moghrey ny mygeayrt y laa son ymmodee sleih. Ta’n Family Caregiver Alliance coyrlaghey gynsaghey claare yn ynnyd as cur shilley ayns [traa seyr, cha nee tra ta reddyn goll er](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Loayr rish y skimmee.** Briagh kys t’eh er ve jiu, as jean shickyr jeh reillyn mychione bee, beiyn ny goll magh.
+- **Jean bag shilley beg aarloo.** Ta un red ny jees dy rheynn dy liooar (jeeagh er y rolley heese).
+- **Smooinee er kuse dy chooishyn.** Foddee nagh bee naight noa ec y persoon, myr shen cur lhiat dty naight hene: naight lught-thie, yn emshir, cloie spoart, ny skeeal taitnyssagh.
+- **Cur jerkalys rea ort hene.** Bee kuse dy hilleyyn çheeoil as lane coloayrtys. Bee feallagh elley feagh ny creoi. Ta’n daa jeu cadjin.
 
-## What should I bring?
+## Cre lhisin cur lhiam?
 
-Bring things to share, not things that test. Good choices include:
+Cur lesh reddyn dy rheynn, cha nee reddyn dy phrowal. Ta reihyn mie goaill stiagh:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Albyl jalloyn beg** lesh jalloyn mooarey as soilshey. Screeu enmyn er y chúl son y skimmee.
+- **Rolley kiaullee** jeh ny arraneyn oc by vie lhieu er çhellvane, lesh claasyn aashagh ny loayreyder beg.
+- **Red ennagh bog dy chummal,** myr sampleyrr blaaik, sgarff ny geay ennoil.
+- **Ola laue** son massage laue meein, my s’laik lesh y persoon bentyn.
+- **Earisheyr ny lioar jalloyn** mychione shenn aigh vie, myr sampleyrr garey, gleashtanyn, eeanlee ny coo키rraghey.
+- **Millag by vie lhieu,** my ta’n skimmee gra dy vel eh sauçhey.
+- **Reddyn ennoil son y çhamyr.** Ta’n Family Caregiver Alliance coyrlaghey blaaghyn, lossreeyn, jalloyn lught-thie as ellyn, ny poster mooar jeh jalloyn lught-thie veih’n traa t’er gholl shaghey.
+- **Tablet,** son jeeaghyn er jalloyn lught-thie ny cloie gamman meein ry cheilley.
 
-## What can we do together during a visit?
+## Cre oddys mayd y yannoo ry cheilley choud’s ta’n shilley goll er?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Ta jannoo red ennagh ry cheilley goaill y trimmid ersooyl veih coloayrtys. Ta Dementia Australia coyrlaghey jeeaghyn er jalloyn, obbyr-lauee aashagh, cuirr lossreeyn, kiaull, rheynn millag, ny shooyl beg mygeayrt y thalloo. Reddyn elley:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Jeeagh er jalloyn.** Cur-my-ner ny t’ou fakin: “Jeeagh er yn edd shen.” “Ta’n traie shen feer aalin.” Lig da’n persoon stiurey. Ny jean ymmyd jeh “Quoi eh shoh?”
+2. **Cloie kiaull as goaill arrane.** Foddee arraneyn ennoil cur er y çhree as cur sheese traa ry cheilley, eer tra ta loayrt doillee.
+3. **Gow shooyl ghiare.** Ta’n Family Caregiver Alliance coyrlaghey shooyl mygeayrt yn ynnyd, ayns y gharey my ta fer ayn. Ta shooyl ayns caayr roihagh cooie myrgeddin.
+4. **Cur massage laue.** Foddee beggan ola as strookyn meein er ny laueyn ve feagh.
+5. **Cooin lesh jannoo aarloo.** Ta Dementia Australia gimraa cresh folt, peintey ingnyn ny cooney lesh y persoon chur orroo coamrey by vie lhieu, my s’laik lhieu eh.
+6. **Cloie gamman aashagh.** Ta’n Family Caregiver Alliance coyrlaghey kaartyn, dominoes, ny cre-erbee v’ad cliaghtey cloie. Er tablet, foddee [Picture Pairs](/games/picture-pairs/) ve cloït lesh jalloyn ry-akin as gyn timer. Ta [Photo Pairs](/games/photo-pairs/) jannoo gamman cochiangley jeh jalloyn t’ou reih, as ta ny jalloyn tannaghtyn ayns dty yeeagheyder.
+7. **Jeeagh er red ennagh ry cheilley.** Ta’n Family Caregiver Alliance coyrlaghey skeealyn-greannee as shenn scannanyn. Ga nagh vod y persoon geiyrt er y skeeal, foddee shiu soie ry cheilley as rheynn y traa.
+8. **Lhaih magh.** Arrane veg, ayrn by vie lhieu, ny screeuyn veih oltey y lught-thie.
+9. **Ny jean agh soie ry cheilley.** Ta cummal laueyn ny soie dy feagh ny shilley firrinagh. Ta’n Alzheimer’s Association gra dy vel eh mie nagh vel fys ayd cre dy ghra, as dy vel dty hene ayns shen ny smoo scanshoil.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+Foddee [Conversation Cards](/games/conversation-cards/) cooney tra nagh vel fys ayd cre dy ghra. Ta jalloo as feysht foshlit er dagh kaart.
 
-## How should I talk during the visit?
+## Kys lhisin loayrt choud’s ta’n shilley goll er?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Cur oo hene stiagh dagh keayrt.** “Fastyr mie Ayr, mish Mark, dty vac.” Ta’n NIA coyrlaghey dy jean çheeteeryn ad hene y chur stiagh dy tappee dy ghra “hello”.
+- **Tar er y hoshiaght** as soie ec corrym sooilley.
+- **Ny jean ad y chur erash ny arganey.** Ta’n NIA coyrlaghey nagh jean çheeteeryn y persoon y chur erash my t’ad jannoo marran ny jarrood red ennagh.
+- **Bee surransagh** tra ta focklyn doillee dy gheddyn. Cur traa dy liooar daue.
+- **Cur freggyrt da ennaghtyn.** My ta’n persoon jeeaghyn trimshagh ny imneagh, gow rish shen roish my vel oo caghlaa cooish.
+- **Ny jean ymmyd jeh feyshtyn prowaltagh** myr “Vel enney ayd orrym?” ny “Cre v’ou gee son y vunlaa?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Jeeagh er nyn [coyrle mychione loayrt](/caregiving/communication-tips/) son tooilley.
 
-## What do I do when they say "I want to go home"?
+## Cre neem’s tra t’ad gra “By vie lhiam goll thie”?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Cur freggyrt da’n ennaghtyn ta fo ny focklyn (ta nyn goyrle mychione [tra ta persoon kinjagh briaght dy gholl thie](/caregiving/asking-to-go-home/) goll ny s’odjey). Ta’n Family Caregiver Alliance soilshaghey dy vel “By vie lhiam goll thie” dy mennick çheet er “Cha nel mee gennaghtyn aashagh,” as t’eh coyrlaghey freggyrtyn myr “Insh dou mychione dty hie” ny “Cre’n red s’fayr lhiat ec y thie?” Ta Dementia Australia gra myrgeddin dy vod “thie” çheet er traa ny boayl raad va’n persoon sauçhey, myr nyn aegid.
 
-Try:
+Foddee oo:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- goaill rish yn ennaght: “T’eh jeeaghyn dy vel cooinaghtyn thie ort.”
+- cur gerjagh trooid bentyn, my s’laik lhieu eh
+- jeeaghyn er jalloyn ny loayrt mychione yn thie lught-thie
+- cur shooyl, jough ny millag daue
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Ny jean arganey ny soilshaghey cre’n fa nagh vod ad goll. Cha nel eh dy mennick cooney as foddee eh cur orroo ve ny s’trimshagh.
 
-## How long should a visit be?
+## Cre cho foddey lhisagh shilley ve?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Ta shilleyyn ny s’girrey as ny smenkey dy mennick ny share. Ta’n Family Caregiver Alliance gra nagh vel cooinaghtyn ec y persoon dy cadjin my d’fuirree oo queig minnidyn ny queig ooryn, as t’eh coyrlaghey dy vod three shilleyyn giare ’sy çhiaghtin ve ny share na un shilley liauyr. Ta Dementia Australia gra nagh vel earroo kiart ny fad kiart ayn.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Ayns ny chied shiaghtinyn lurg goll gys kiarail cooinaghtyn, ta’n Family Caregiver Alliance coyrlaghey cur shilley dy mennick, as eisht goll dy reiltagh. Briagh jeh’n skimmee cre t’ad fakin.
 
-## How do I leave without upsetting them?
+## Kys neem’s faagail gyn cur orroo ve trimshagh?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Foddee faagail ve yn ayrn s’doillee. Ta Dementia Australia coyrlaghey:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Abbyr cre cho foddey as oddys oo fuirriaght tra t’ou roshtyn.** “Oddym fuirriaght oor, as eisht ta mee goll dy yannoo shopping.”
+- **Jean ymmyd jeh red ennagh dy chur jerrey dooghyssagh er.** “Tra ta’n arrane shoh erreish, bee’m goll roym.”
+- **Jean eh myr shen ec traa bee ny reddyn,** ny briagh jeh’n skimmee dy chooney lhieu goll gys red ennagh elley.
+- **Jean y slane giare as y slane cheddin dagh keayrt.** Foddee fuirriaght ro foddey, leshtal ny fuirriaght “just tammylt beg elley” jannoo eh ny s’doillee yn chied cheayrt elley.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Lurg dhyt faagail, t’eh cadjin gennaghtyn trimshagh. Cur aash ort hene. My va’n persoon trimshagh, foddee yn skimmee dy mennick cooney lhieu goll dy kiune reesht dy tappee.
 
-## Visiting someone with dementia in the hospital
+## Cur shilley er persoon lesh meenaghtys ayns yn ospital
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Ta’n ospital feiyr, joarree as lane sleih nagh vel enney oc orroo, as foddee shen ve feer chreoi da persoon ta beaghey lesh meenaghtys. Ta coyrle yn NIA mychione [goll lesh persoon lesh galar Alzheimer gys yn ospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) gra:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Cur er persoon ennagh fuirriaght marish y persoon** cho mennick as oddys eh: oltey lught-thie, carrey treishtagh ny kiaralagh failt.
+- **Cur da’n skimmee duillag fys persoonagh** lesh routine y persoon, yn ennym by vie lhieu, reddyn by vie lhieu as nagh by vie lhieu, reddyn oddys cur orroo ve seaghnit, as cowraghyn pian nagh vel loayrit. Cur coip ayns y çhamyr as ec stashyoon ny bantee.
+- **Cooin lhieu gee as giu.** Foddee sleih shinney ve dy laccal beaghey ayns ospital. Foshil co-chasteylyn, cooin lhieu lesh bee, gee ry cheilley, as cur jough daue.
+- **Cur lesh reddyn gerjoil** myr jalloyn ny reddyn spyrrydoil.
+- **Jean y feiyr ny sloo.** Cur yn çhellveeish er magh as jean y çhellvane as y ghlare-eddrym ny sloo.
+- **Prowal cliaghtaghyn kiune,** myr kiaull meein, lhaih, padjer, goaill arrane ny jeeaghyn trooid shenn jalloyn.
+- **Cur moyrn orroo dy ghleashaghey** cho mennick as t’eh sauçhey, lesh kied y skimmee.
+- **Insh da’n lhiaghtee chelleeragh my t’ad jeeaghyn dy doaltattym ny s’trimshagh ny anchasley.** Ta’n NIA soilshaghey dy vod caghlaa obbyr çhelleeragh, enmyssit delirium, ve kyndagh rish reddyn myr doghan, chiass, laccal ushtey ny fo-illyn jeh saaseyn, as ta feme er kiarail lhiaghtee.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Foddee shilley ghiare as chiune lesh eddin ennoil as arrane by vie lhieu ve yn ayrn s’gerjoil jeh laa ayns ospital.
 
-## Bringing children on a visit
+## Paitçhyn y chur lesh er shilley
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Foddee paitçhyn cur lane çhiarit lesh. Jean ad aarloo ro-laue lesh focklyn aashagh as onneragh, cum y shilley giare, as cur obbyr beg daue, myr sampleyrr jalloo y yeeaghyn ny jalloo y chur harrish. Ta’n NIA gra dy vod paitçhyn as sleih lesh galar Alzheimer goaill soylley jeh reddyn aashagh ry cheilley, myr jeeaghyn trooid albym jalloyn ny geaishtagh rish kiaull. Ta Dementia Australia coyrlaghey bag beg dy reddyn millish ny reddyn feagh y chur lesh dy chummal paitçhyn aegey goaill ymmyd.
 
-## Take care of yourself too
+## Gow kiarail jeed hene myrgeddin
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Foddee cur shilley ve deinagh as lane ennaghtyn, er lheh my ta’n persoon er n’gholl trooid caghlaa mooar. T’eh mie cur shilley ny sloo dy mennick my t’ou feme, carrey y chur mayrt son cooney, ny faagail ny s’leaie er laa doillee. Son coyrle mychione kiarail ort hene, jeeagh er [kiarail-hene son kiaraleyderyn](/caregiving/caregiver-self-care/). My t’ou cummal foddey ersooyl, jeeagh er nyn goyrle mychione [çhellvane as eamyn-fyssee](/activities/phone-and-video-calls/).

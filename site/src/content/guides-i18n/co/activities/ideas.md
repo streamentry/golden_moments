@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Attività per e persone cù dimenza : 101 idee semplici"
+seoTitle: "Idee d’attività per a dimenza : 101 attività"
+description: "101 attività semplici è adulte per e persone chì campanu cù una dimenza, da piegà l’asciugamani à a musica è e foto, cù cumu adattà ognuna."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  E bone attività per e persone chì campanu cù una dimenza sò famigliari,
+  adulte è facili à sparte : piegà a bughjata, sorte, cucinà, musica, guardà
+  e foto, camminà, giardinà, passà tempu cù un animali è ghjochi simplici.
+  Sceglite ciò chì a persona hà sempre amatu, pigliatevi cura di e parte più
+  difficiule, è fermatevi quandu hè stanca. Un bellu mumentu inseme conta più
+  chè compie qualcosa.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Partite da a vita di a persona : u so travagliu, i so passatempi, a so fede è a so musica preferita sò a megliu guida."
+  - "Rendite ogni attività più chjuca s’ellu ci vole : menu tappe, menu scelte, fate voi a parte più difficiule."
+  - "Fighjulà, tene qualcosa in manu o stà simpliciamente accantu contanu ancu cum’è participazione."
+  - "Fermatevi o cambiate quandu vidite stanchezza, frustrazione o noia. Finisce prima hè un bonu risultatu."
+  - "Fà a cosa inseme conta più chè falla bè."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Chì attività vanu bè per qualchissia chì campa cù una dimenza ?"
+    a: "Attività famigliari chì a persona face dapoi anni, rese un pocu più simplici : piegà a bughjata, mette a tavula, cucinà, musica, guardà e foto, camminà, giardinà è passà tempu cù un animali. Sceglite cose chì parenu adulte è utile, è fatele inseme."
+  - q: "Quantu tempu deve durà un’attività ?"
+    a: "Ùn ci hè micca una durata ghjusta. Qualchì minutu à piegà asciugamani pò bastà un ghjornu, è una stonda in giardinu pò esse faciule un altru. Lasciate à a persona sceglie u so ritmu è finite mentre a cosa hè sempre piacevule."
+  - q: "È s’è a persona ùn vole fà un’attività ?"
+    a: "Ùn furzate micca. Un nò pò vulè dì chì u compitu pare troppu difficiule, chì ùn hè micca u bonu mumentu, o chì a persona hè stanca o à u malessu. Pruvate più tardi, prupunite una versione più simplice, o cuminciate voi accantu à ella è invitatela à aiutà."
+  - q: "I ghjochi per u cerbellu vanu bè per e persone chì campanu cù una dimenza ?"
+    a: "I ghjochi ponu esse un modu piacevule di passà tempu inseme, ma nisun ghjocu hà dimustratu di trattà, rallentà o fermà a dimenza. Sceglite ghjochi senza cronometru, senza puntuazione è senza soni di risposta sbagliata, è cunsiderateli cum’è un’attività cumuna, micca cum’è una prova."
+  - q: "Cumu fà per chì l’attività ùn parinu micca infantili ?"
+    a: "Aduprate materiale veri è adulti : veri asciugamani, vere ricette, musica è materiale artisticu per adulti, è imagine cù temi adulti. Presentate i compiti cum’è un aiutu di u quale avete veramente bisognu, è parlate à a persona cum’è l’adultu ch’ella hè."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+A megliu attività per una persona chì campa cù una dimenza hè di solitu qualcosa ch’ella sà dighjà fà, resa un pocu più simplice è fatta accantu à qualchissia di u quale si fida. Quì sottu truverete 101 idee, riunite per tipu, ognuna cù cumu preparalla è cumu rendela più faciule quandu a cosa diventa più difficiule. Ùn avete micca bisognu di materiale speziale, è ùn avete micca bisognu di compie nunda. Un bellu dopu meziornu pò esse un paneru d’asciugamani è un caffè inseme.
 
-## How do you choose the right activity?
+## Cumu sceglie l’attività ghjusta ?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Sceglite secondu a persona, micca secondu a lista : partite da ciò ch’ella hà sempre amatu è da ciò ch’ella pò fà cun cunfortu oghje.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Pensate à u so travagliu è à i so passatempi.** L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggerisce chì una persona chì hà travagliatu in un uffiziu pò esse cuntenta di sorte munete o di preparà lettere, è una persona chì hà amatu u giardinu pò esse cuntenta di travaglià fora.
+- **Fate casu à ciò ch’ella face dighjà.** S’è u vostru babbu spazza a veranda ogni matina senza chì nimu a li dica, fatene una parte di a ghjurnata.
+- **Pensate à i so limiti.** A stanchezza, a vista, l’uditu, e mane indulurite è l’equilibriu contanu tutti.
+- **Fighjate u so umore.** Attività animate è rumurose vanu bè à certe persone è ne disturbanu d’altre.
+- **Date un scopu à l’attività.** Piegà salviette per una cena di a chjesa pare più utile chè un eserciziu fattu solu per fà qualcosa.
 
-### A rough guide by stage
+### Una guida generale per tappa
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+A dimenza hè spessu discritta in tappe iniziale, media è tardiva. Sò etichette larghe, micca scatule, è parechje persone anu ghjorni più faciuli è ghjorni più difficiuli ; allora basatevi nantu à ciò chì vidite oghje. A [lista per tappe di l’Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) seguita un mudellu simile.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Tema | Tappa iniziale | Tappa media | Tappa tardiva |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Ciò chì pudete nutà | A persona hè soprattuttu autonoma ; pianificà, truvà nomi novi è i lochi affollati sò più difficiuli | Hà bisognu d’aiutu per cumincià è per seguità e tappe ; e parolle venenu menu faciule | Hà bisognu d’aiutu per a maiò parte di i gesti di ogni ghjornu ; i sensi contanu di più |
+| Attività chì vanu spessu bè | Carte, ghjochi di tavulinu, cucina, giardinu, scrive, surtite, gruppi | Piegà a bughjata, sorte, tappe simplici in cucina, cantà, album di foto, camminate accumpagnate | Musica preferita, massaghju di e mane, cose dolce da tene, sente leghje, stà fora à pusà |
+| U vostru rolu | Partenariu : dumandate di chì aiutu hà bisognu | Preparate, mustrate, pigliatevi cura di e parte più difficiule | Purtate l’attività finu à ella ; a vostra presenza hè l’attività |
+| Più idee | [Tappa iniziale](/activities/early-stage/) | [Tappa media](/activities/middle-stage/) | [Tappa tardiva](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Cumu cumincià un’attività cù qualchissia chì campa cù una dimenza ?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Cuminciate chjucu, cuminciate accantu à a persona, è rendite faciule di dì di sì. Parechje persone anu sempre voglia di participà, ma li hè difficiule di pianificà o di cumincià.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Sceglite u so megliu mumentu,** spessu a matina.
+2. **Preparate tuttu nanzu** per pudè cumincià subitu.
+3. **Dumandate un aiutu, micca una prova :** « Mi puderiate dà una manu cù què ? »
+4. **Cuminciate voi stessu.** Piegate u primu asciugamanu è lasciate ch’ella si aghjunghji. Mustrà vale più chè spiegà.
+5. **Prupunite una tappa à a volta.**
+6. **Pigliatevi cura di a parte più difficiule.** L’Alzheimer’s Association suggerisce di misurà voi l’ingredienti, è poi di dà a cucchiara per girà.
+7. **Lasciate chì a cosa sia fatta à u so modu.** Asciugamani piegati in un altru modu vanu bè dinù.
+8. **Fermatevi quandu a cosa ùn hè più piacevule.** Movimenti nervosi, una faccia chjusa o « Ùn ci la facciu » sò segni per cambià o ripusà.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Vidite dinù [cumu ghjucà inseme](/caregiving/how-to-play-together/) è [cunsiglii per cumunicà](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## I travagli di ogni ghjornu in casa
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+I travagli di casa sò famigliari è utili, è sò dunque un bonu puntu di partenza. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) cita lavà i piatti, mette a tavula, spazzà, sorte u currieru è piegà a bughjata trà l’attività chì certe persone ponu apprezzà. Più idee in [travagli di casa](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Piegà asciugamani caldi.** Vutate un paneru di a seccatrice nantu à a tavula è piegate fiancu à fiancu. Più tardi, liscià è impilà hè altrettantu utile.
+2. **Fà e coppii di calzette.** Cuminciate cù culori assai diversi. Più tardi, sorte e chjare da e scure basta.
+3. **Mette a tavula.** Date un tipu d’ughjettu à a volta. Preparate voi un postu cum’è mudellu.
+4. **Lavà o asciuvà i piatti.** Acqua calda è insapunata è piatti chì ùn si rompenu micca. Asciuvà pusatu hè più faciule per e gambe.
+5. **Nettà a tavula.** Date un pannu umitu dopu à manghjà. Hè un travagliu veru per e mane chì volenu move.
+6. **Sorte u currieru.** Cataloghi è publicità in « tene » è « riciclà ». Lasciate fora e vere fatture.
+7. **Taglià i buoni di riduzzione.** Forbice à punte tonde è volantini. Più tardi, fà un tondulu intornu à l’alimenti preferiti va bè dinù.
+8. **Sorte e munete.** Mettite a muneta in tazze o in rotuli. Lasciate perde l’uggetti chjuchi s’è a persona si mette e cose in bocca.
+9. **Spazzà o spulverà.** Una scopa ligera nant’à a veranda, o un spulveratore à manicu longu adupratu da una sedia.
+10. **Aiutà à preparà un pastu.** Lavà e ligume, strappà a lattuga, girà. Pigliatevi cura voi di i cultelli è di u calore.
+11. **Cucinà una ricetta di famiglia.** Aduprate a carta scritta da a persona s’è l’avete. Più tardi, pò esse quella chì tasta.
+12. **Fà picculi travagli d’uffiziu.** Piegà lettere, mette lettere in buste è francalle, o scrive inseme a lista di a spesa.
 
-## Music
+## Musica
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+A musica famigliara pò toccà e persone ancu quandu e parolle sò difficiule. I [cunsiglii di musica di l’Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggeriscenu canzone famigliari, senza publicità è cù a televisione spenta. Vidite [attività cù a musica](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Creà una lista di musica persunale.** Musica di l’adulescenza è di i vint’anni, di u matrimoniu, di a chjesa è di a so cultura.
+14. **Cantà inseme.** Cuminciate voi à cantà. Murmurà o ascultà contanu dinù.
+15. **Seguità u ritimu.** Batte e mane, picchighjà nantu à i ghjinochji o nantu à un picculu tamburu. Si pò fà pusatu è ancu in tappe tardive.
+16. **Ballà.** Un ballu lentu in cucina, o un picculu dondulu pusatu tenendu e mane.
+17. **Ascultà un album sanu.** Un discu preferitu da u principiu à a fine, cù un caffè è nunda altru.
+18. **Parlà di a musica.** Invitate i ricordi, micca i fatti : « Parlami di i balli induve andavate. »
+19. **Fighjulà un musical o un cuncertu arregistratu.** Un spettaculu ch’ella hà amatu face una bella serata. Pudete mette in pausa in ogni mumentu.
+20. **Sunà un strumentu famigliaru.** Una persona chì hà sunatu u pianò pò esse cuntenta di pezzi simplici ; più tardi, qualchì nota inseme.
+21. **Ascultà musica in diretta.** Un picculu cuncertu o una prova di coru. Pusatevi vicinu à l’esciuta.
 
-## Reminiscence: photos, objects and stories
+## Ricordi : foto, oggetti è storie
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Sparte u passatu inseme senza mettelu à a prova. Lasciate perde « Ti arricordi...? » è « Quale hè què ? » è aduprate inviti aperti. Vidite [attività di ricordi](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Fighjulà un album di foto.** Dite ciò chì vidite : « Chì bellu vistitu. Parlami di stu ghjornu. » Accettate i nomi ch’ella adopra.
+23. **Fà una scatula di ricordi.** Una scatula cù oggetti di a so vita, cum’è un badge di travagliu o una carta di ricetta. Pigliate l’uggetti unu à a volta.
+24. **Cumincià un libru di a so storia.** Qualchì foto per pagina cù didascalie in lettere grandi. Pò aiutà e persone nove à cunnosce a persona.
+25. **Aduprà carte di cunversazione.** [Conversation cards](/games/conversation-cards/) assucianu una stampa à una dumanda aperta.
+26. **Fà un ghjocu cù e foto di famiglia.** [Photo pairs](/games/photo-pairs/) trasforma e vostre foto in un ghjocu d’associi.
+27. **Fighjulà filmi di famiglia o vechji prugrammi.** Cummentate inseme invece di fà dumande.
+28. **Tene in manu oggetti di a so vita di travagliu.** Una chjave, un stetoscopiu, un registru. Spessu sò e mane à guidà a storia.
+29. **Cucinà un piattu di a so zitellina.** Pò girà, tastà o simpliciamente stà in cucina cun voi.
+30. **Fighjulà una carta di i lochi induve hà campatu.** Seguitate e strade famigliari in un atlas cù lettere grandi mentre parlate.
 
-## Creative activities
+## Attività creative
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+L’arte si face per u piacè di fà, micca per u risultatu finale. Aduprate materiale adultu è sicuru. Vidite [arti è attività manuale](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Pitturà à l’acquarellu.** Carta spessa è qualchì culore. S’ellu hè difficiule di cumincià, guidate inseme i primi tratti.
+32. **Culurisce disegni per adulti.** Fiori o coperte, micca disegni per zitelli. E nostre [pagine da culurisce](/games/coloring/) funzionanu nant’à u screnu o stampate.
+33. **Fà un collage.** Strappate imagine di riviste cù giardini, vitture o cibu è incullatele. Più tardi, sceglie solu e stampe basta.
+34. **Mette fiori in un vasu.** Un mazzulu è un vasu. Più tardi, qualchì fiore in un bichjeru.
+35. **Tricuttà o fà l’uncinettu inseme.** File simplici cù aguglie grosse. Più tardi, fà palline di lana.
+36. **Fà carte per a famiglia.** Timbri, firme o decorazioni per carte d’ anniversariu o d’incuragimentu per persone vere.
+37. **Mudellà argilla chì si secca à l’aria.** Fate un picculu piattinu. Aduprate materiale micca tossicu è state vicinu.
+38. **Liscià è finisce u legnu.** Un picculu nidu d’acelli dighjà tagliatu è carta vetrata, senza apparechji elettrichi. Vidite [attività per l’omi](/activities/for-men/).
+39. **Scrive o dittà una lettera.** À un nipote o à un vechju amicu. S’è scrive hè difficiule, a persona parla è voi scrivite.
 
-## Outdoors and gardening
+## Fora è in giardinu
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+L’aria fresca è a luce di u ghjornu facenu bona cumpagnia. Vidite [attività fora è in giardinu](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Annaffià e piante.** Una piccula annaffiatura è qualchì vasu. Annaffià ogni ghjornu dà un ritimu à a ghjurnata.
+41. **Piantà un vasu.** Mettitelu nantu à una tavula per ùn avè micca à inginucchiassi. E piantine sò più faciule chè e sementi.
+42. **Coglie e cattive erbe o i fiori secchi.** Guanti à e mane, un picculu spicchiu à a volta.
+43. **Rastrellà e foglie.** Un picculu spaziu. Più tardi, tene apertu u saccu hè un veru compitu.
+44. **Camminà nantu à un percorsu famigliaru.** Intornu à a casa o finu à a casella di e lettere. Più cortu va bè dinù.
+45. **Stà fora inseme.** Una sedia nant’à a veranda in una ghjurnata dolce. Fighjulà e nuvole o a ghjente chì passa.
+46. **Dà da manghjà à l’acelli.** Riempite una manghjatora inseme è fighjulà da a finestra.
+47. **Lavà a vittura.** Un secchiu, una spugna è un dopu meziornu dolce. Sciacquà i cerchioni hè un bonu compitu in una sola tappa.
 
-## Sensory activities
+## Attività sensoriale
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+U toccu, l’odore, u gustu, u sonu è a vista contanu di più à misura chì a dimenza avanza. U [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) cita a musica, l’uggetti da tene in manu è u massaghju di e mane per e tappe più tardive. Verificate prima l’allergie è i risichi di suffucazione ; vidite [attività sensoriale](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Fà un massaghju di e mane.** Dumandate prima è aduprate un pocu di crema. Sceglite una crema senza profumu s’è ùn site micca sicuru per a pelle o l’allergie.
+49. **Toccà tessuti diversi.** Un paneru cù vellutu, vellutu à coste, lana è satinu da accarezzà è piegà.
+50. **Sente l’odore di l’erbe è di u caffè.** Stropicciate menta fresca o rusmarinu trà e dite. Evitate l’odori forti s’ellu ci sò prublemi di respiru.
+51. **Spazzulà i capelli.** Lentamente è cù delicatezza, s’è a persona l’apprezza.
+52. **Sparte un pannu caldu.** Per e mane è a faccia in un ghjornu fretu. Verificate prima a temperatura.
+53. **Pruvà un grembiule d’attività.** Grossi buttoni è chiusure cusciti bè. Verificate chì nunda si possa staccà.
+54. **Tastà un piacè preferitu.** Una piccula cucchiarata, in una struttura ch’ella pò manghjà senza periculu.
+55. **Mette soni di a natura.** Piogia, onde o canti d’acelli à vulume bassu.
+56. **Fighjulà qualcosa di calmu.** Un aquariu, un filmu nantu à a natura o a neve chì casca.
 
-## Games and puzzles
+## Ghjochi è puzzle
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+I ghjochi vanu bè quandu ùn ci hè nè cronometru, nè puntuazione, nè pressione. S’è un ghjocu cumencia à parè una prova, mettitelu da cantu. Vidite [cumu sceglie app è ghjochi](/caregiving/choosing-apps-and-games/) è [ghjochi per u cerbellu](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Assucià stampe.** [Picture pairs](/games/picture-pairs/) permette di lascià e stampe à faccia in sopra, cusì si tratta d’osservà, micca di arricurdassi.
+58. **Truvà a listessa stampa.** [Find the same](/games/find-the-same/) prupone duie à quattru scelte. Parlate di ogni stampa.
+59. **Sorte in paneri.** [Sort together](/games/sort-together/) hè cum’è sorte e calzette nant’à u screnu.
+60. **Fà un puzzle cù pezzi grossi.** Imagine adulte è un numeru di pezzi faciule. [Picture puzzle](/games/picture-puzzle/) lascia sempre vede l’imagine sana. Più idee in [puzzle per a dimenza](/activities/puzzles/).
+61. **Ghjucà à un vechju ghjocu di carte.** Quellu chì a persona hà ghjucatu per anni. Più tardi, sorte u mazzu per culore hè dighjà un ghjocu.
+62. **Ghjucà à i dominò.** Assuciate e punte. Più tardi, mette e pezze in fila va bè dinù.
+63. **Pruvà una ricerca di parolle in lettere grandi.** U nostru [word search](/games/word-search/) hà parolle solu in orizuntale è in verticale, è si pò stampà.
+64. **Compie detti cunnisciuti.** [Finish the saying](/games/finish-the-saying/) permette di mustrà a fine in ogni mumentu.
+65. **Ghjucà à u bingo cù stampe.** [Picture bingo](/games/picture-bingo/) va bè per e famiglie è i gruppi. Aiutate à marcà e carte senza prublema.
+66. **Ghjucà à e dame.** Lasciate e regule più flessibili. Move e pezze mentre parlate conta dinù.
 
-## Movement
+## Muvimentu
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+U NIA suggerisce camminate, una bicicletta fissa, elastichi per stirà, lancià una palla dolce o un pallone, alzà latte di suppa è video d’eserciziu per adulti anziani. Parlate cù un duttore prima di cumincià qualcosa di novu, soprattuttu s’ellu ci sò prublemi d’equilibriu.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Lancià un pallone.** Pusatevi unu di faccia à l’altru. Si move lentamente, allora hè faciule da piglià.
+68. **Seguità un video d’eserciziu pusatu** fattu per adulti anziani, fiancu à fiancu.
+69. **Stirà cù un elasticu.** Muvimenti dolci di e bracce cù un elasticu ligeru, pusatu.
+70. **Alzà latte di suppa.** Alzate lente di e bracce, forse cù musica.
+71. **Andà nantu à una bicicletta fissa.** Qualchì minutu faciule, cun voi vicinu.
+72. **Ballà cù sciarpe.** Move sciarpe ligere à u ritimu di a musica, pusatu o in piedi.
+73. **Camminà cù un scopu.** Per mandà una lettera o cumprà un caffè. Avè una ragione per sorte pare naturale.
+74. **Fà una pausa di respiru inseme.** Rallentate inseme cù [calm breathing](/games/calm-breathing/).
 
-## Social activities
+## Attività suciale
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+A cumpagnia conta ancu quandu i nomi sò difficiuli, è i picculi gruppi sò più faciuli chè i grandi. U NIA nota chì una persona pò ùn arricurdassi micca quale hè un visitatore, ma pò sempre apprezzà a so cumpagnia. Vidite [visite](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Riceve una o duie persone à a volta.** Visite corte in una stanza calma, cù foto da fighjulà.
+76. **Fà una videuchjamata à a famiglia.** Chjamate corte, una voce à a volta. Vidite [telefunate è videuchjamate](/activities/phone-and-video-calls/).
+77. **Pruvà un caffè memoria.** Incontri simplici è aperti per e persone chì campanu cù una dimenza è per quelle chì si ne occupanu. Dumandate à i servizii suciali lucali o à u vostru CCAS ciò chì ci hè vicinu.
+78. **Manghjà fora in un mumentu calmu.** U NIA suggerisce un risturante famigliaru è tranquillu fora di l’ore di punta, cù una tavula vicinu à a toilette.
+79. **Visità un centru per anziani o un serviziu di ghjornu.** Cumpagnia per a persona è una pausa per voi.
+80. **Passà tempu cù i zitelli.** Una visita corta è calma di i nipoti, o leghje un libru cù stampe à un zitellu chjucu.
+81. **Sparte u ghjurnale cù un caffè.** Leghjite i tituli à voce alta. U rituale conta più chè e nutizie.
+82. **Aiutà qualchissia altru.** Piegà i prugrammi di a chjesa o fà una carta per un vicinu.
 
-## Faith and spiritual activities
+## Attività di fede è spirituale
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Seguitate a tradizione di a persona, o nisuna. U NIA suggerisce celebrazioni famigliari, letture, musica sacra, preghiera, meditazione è rituali di e feste.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Andà à una celebrazione famigliara.** Sceglite un mumentu più calmu, pusatevi vicinu à u curridore, è dite à e persone di u locu chì a persona campa cù una dimenza.
+84. **Fighjulà una celebrazione in linea** in i ghjorni induve sorte hè troppu.
+85. **Pregà o leghje inseme.** Parolle famigliari, lette pianu. A persona pò aghjunghjesi nantu à e parte ch’ella cunnosce.
+86. **Cantà inni o musica sacra** di a so tradizione.
+87. **Mantene i rituali di e feste.** Candele à pila, una benedizzione, e decorazioni ch’ella hà sempre adupratu.
+88. **Sparte un mumentu calmu.** Stà in giardinu o fighjulà u tramontu inseme.
 
-## Pets and animals
+## Animali
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+U NIA suggerisce di dà da manghjà à un animali, di spazzullallu, di purtallu à spassu, o di stà pusatu cun ellu è di tenelu.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Spazzulà un cane o un ghjattu calmu** cù movimenti longhi è lenti.
+90. **Dà da manghjà à l’animali inseme.** Misurate voi ; a persona versa.
+91. **Purtà u cane à spassu inseme.** Tenite voi u guinzagliu.
+92. **Tene un animali nantu à e ghjinochje.** Un ghjattu calmu nantu à una cuverta pò esse assai calmante.
+93. **Accoglie animali in visita.** Certi centri è servizii di ghjornu accoglienu visite d’animali. Dumandate vicinu à voi.
+94. **Prupone un animali dolce chì pare veru.** S’ellu ùn ci hè micca un animali, certe persone sò cuntente di tene un ghjattu o un cane di peluche realisticu. Prupunitelu simpliciamente, mai cum’è un ghjoculu, è accettate un nò.
 
-## Seasonal activities
+## Attività di stagione
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Mantinite e tradizioni, ma più simplici. U NIA suggerisce di esse realistichi è di avè un spaziu calmu per fà pause durante e feste affollate.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Decorà secondu a stagione.** Una zucca, una curona o fiori freschi nantu à a tavula.
+96. **Preparà un piacè di festa.** Stende a pasta o mette a crema nantu à i biscotti. Pigliatevi cura voi di u fornu.
+97. **Appiccà e decorazioni.** Decorazioni chì ùn si rompenu micca, date una à a volta.
+98. **Andà in vittura à vede e luci.** Una corta surtita di sera ùn dumanda altru chè a cumpagnia.
+99. **Piantà bulbi di primavera.** Mettite i bulbi in un vasu à l’autunnu è fighjate quandu spuntanu.
+100. **Spannà u granone o sgranà i piselli.** Un travagliu d’estate nant’à a veranda, cù una tazza nantu à e ghjinochje.
+101. **Preparà e carte di festa.** A persona firma, francà o chjode ; voi vi occupate di l’indirizzi.
 
-## What if an activity is not working?
+## È s’è un’attività ùn funziona micca ?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Fermatevi, è pruvate qualcosa d’altru un altru mumentu. U NIA suggerisce di fà casu à a frustrazione è di lascià a persona simpliciamente fighjulà s’ella preferisce. Un nò vole spessu dì chì u compitu hè troppu difficiule, chì ùn hè micca u bonu mumentu, o chì qualcosa d’altru a disturba, cum’è u dolore, a fame o u rumore. Renditelu più chjucu, pruvate più prestu in a ghjurnata, o cuminciate voi è vidite s’ella si aghjunghji. Vidite [quandu a persona dice di nò](/caregiving/when-they-say-no/) è [agitazione à a fine di a ghjurnata](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Per mette l’attività trà i pasti è u riposu, vidite [una rutina ghjurnalia dolce](/activities/daily-routine/). Per avè cose pronte, vidite [attività da stampà](/activities/printable/), è s’è guidate un gruppu, [attività di gruppu in casa di cura](/activities/care-home-groups/). U vostru riposu conta dinù : vidite [cura di sè per e persone chì aiutanu](/caregiving/caregiver-self-care/).

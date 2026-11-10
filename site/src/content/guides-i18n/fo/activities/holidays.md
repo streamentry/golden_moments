@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Hálíðarvirksemi hjá onkrum við demens, frá thanksgiving og frameftir"
+seoTitle: "Hugskot til høgtíðir og thanksgiving við demens"
+description: "Einfalt virksemi til høgtíðir hjá onkrum við demens: uppgávur í køkinum, prýði, tónleikur, myndir og videosamtølur, og hvussu tú skapar eitt róligari thanksgiving ella jól."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Hald høgtíðirnar smærri, tíðliga á degi og tætt upp at vanligu gerandisdegnum
+  hjá persóninum. Gev honum eina veruliga, trygga uppgávu, so sum at seta
+  borðið, vaska grønmeti, pakka eina gávu inn ella hengja prýði upp. Deil kendan
+  tónleik og gamlar myndir, fyrireika gestir frammanundan og ger eitt stilli
+  rúm klárt. Ger bert tað, tú rímiliga megnar; ein stutt, rólig hátíðarhald er
+  ein góð hátíðarhald.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Hald hátíðarhaldið tíðliga á degi, til dømis sum døgurða ella morgunverð, um órógv seint á degi er vanligur."
+  - "Bjóða veruligar uppgávur: seta borðið, vaska grønmeti, pakka inn, prýða ella leggja eftirrætt á tallerk."
+  - "Kendur tónleikur, jólaløg og gomul myndaalbum eru lættar mátar at deila hátíðina á."
+  - "Fortel gestum, hvat teir kunnu vænta, og vís persóninum myndir av teimum, sum koma."
+  - "Ger eitt stilli rúm klárt við yndis teppi ella troyggju, og lat bert fáar vitjanir koma í senn."
+  - "Lat vera við tí, sum kann gerast ov nógv, eisini prýði, sum líkist mati, og nógv blinkandi ljós."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Hvat kann onkur við demens gera um thanksgiving?"
+    a: "Gev honum eina einfalda, trygga uppgávu, sum passar til tað, hann megnar í dag: vaska grønmeti, røra í tranuberjasós, seta borðið, falda serviettir ella leggja eftirrættir á ein tallerk. Eftir tað kunnu tit hyggja at gomlum familjumyndum ella syngja kend løg saman. Tað at vera partur av degnum hevur meira at siga enn, hvussu uppgávan endar."
+  - q: "Skulu vit framvegis hava eina stóra familjusamankoming?"
+    a: "Bert um tað er gjørligt. Fólkahópar og gangur kunnu gerast ov nógv, so nógvar familjur velja heldur eina minni, meira avslappaða samankoming, ein tíðligari máltíð ella vitjanir, sum koma í smáum bólkum. Alzheimer’s Association leggur dent á, at tann, ið umsorgar, bert ger tað, sum rímiliga og trygt ber til."
+  - q: "Hvussu fyrireiki eg familju, sum ikki hevur vitjað í eina tíð?"
+    a: "Fortel teimum, áðrenn tey koma, um broytingar, tey møguliga leggja til merkis, og at hesar koma av sjúkuni, ikki av persóninum. Bið tey ikki rætta ella spyrja próvandi spurningar, men tosa ein í senn og geva tíð til svar. Tað kann eisini hjálpa at vísa persóninum myndir av gestunum frammanundan."
+  - q: "Hvørjar hátíðargávur hóskandi til onkran, ið livir við demens?"
+    a: "Einfaldir, tryggir lutir, sum hann kann njóta nú: eitt yndis góðgæti, eitt mjúkt teppi ella ein troyggja, kendur tónleikur ella eitt myndaalbum við familjumyndum. Lat vera við flóknum tólum, tólum, ið kunnu vera vandamikil, og torførum borðspølum. At lata hann vera við til at geva, til dømis at pakka eina gávu inn ella pakka køkur, sum hann hjálpti við at baka, kann í sjálvum sær vera ein gáva."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Høgtíðir kunnu vekja heitar minnir, og tær kunnu eisini hava við sær gang, fólkahópar og broytingar í vanligu degnum. Hjá onkrum, ið livir við demens, eru bestu hátíðarhøldini vanliga smærri, spakuligari og bygd upp um ting, sum persónurin framvegis kann njóta. Hesir hugskot virka til thanksgiving, jól, hanukka, nýggjár og familjuføðingardagar.
 
-## How do I plan a calmer holiday?
+## Hvussu skipi eg fyri eini róligari høgtíð?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Byrja við gerandisdegi persónsins og skipa dagin eftir tí. [Alzheimer’s Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) mælir til at halda hátíðarhaldið tíðliga á degi, tí órógv og ókyrrleiki ofta vaksa seint um eftirmiðdagin og um kvøldið (stundum nevnt sólsetursórógv). Ein hátíðardøgurði ella eitt morgunverð kann vera lættari enn ein sein nátturði.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Halt rætta støddina.** Ein minni, meira avslappað samankoming, ella gestir, sum koma fáir í senn, er ofta lættari enn eitt fult borð.
+- **Být uppgávur út.** Bið familjulimir taka ein rætt við, handla inn ella vera saman við persóninum, meðan tú gert mat. Ver greið/ur um, hvat hevði hjálpt.
+- **Halt prýðið einfalt.** [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/holidays) viðmerkir, at blinkandi ljós kunnu vera ørkymlandi, og at søtgæti ella tilgjørt frukt sum prýði kunnu verða hildin fyri at vera matur.
+- **Ger av, hvat tú letur vera.** Um ein siður er vorðin strongd ella hevur við sær váða, er tað í lagi at sleppa honum ella royna ein spakuligari sið.
 
-## What holiday activities can we do together?
+## Hvat høgtíðarvirksemi kunnu vit gera saman?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Vel uppgávur og stuttleikar, sum passa til tað, persónurin megnar í dag. Tað at vera partur av degnum hevur meira at siga enn, hvussu tað endar.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Set borðið saman.** Legg fyrst tallerkar fram, síðan serviettir og so koppar. At falda serviettir er ein góð uppgáva at gera sitandi.
+2. **Vaska og skil grønmeti.** At skola epli ella bróta baunir við køksborðið er trygt og kent hjá nógvum, sum fyrr vóru vón at gera mat.
+3. **Rør, blanda ella legg á tallerk.** At røra í tranuberjasós, blanda ein einfaldan deig ella leggja smákøkur á ein tallerk heldur hondunum uppi at gera uttan at vera nærindis grýtum og knívum.
+4. **Pakka eina gávu inn.** Klipp pappír og límband til frammanundan, og lat persónin falda og strúka. Tað skiptir ikki máli, um tað verður rætt.
+5. **Heng nakrar fáar prýðislutir upp.** Vel prýði, sum ikki brotnar lætt, og bert eitt lítið øki, til dømis ein krans ella eitt lítið træ.
+6. **Ger eina einfalda handgerð.** Pappírsketur, eitt laufkollasj ella eitt hátíðarkort við stempum virka væl. Vegleiðingin hjá okkum um [handgerð og skapandi virksemi](/activities/arts-and-crafts/) hevur fleiri hugskot.
+7. **Syng og lurta.** Kend jólaløg og hátíðarløg eru løtt at vera við til, eisini hjá onkrum, sum tosar minni nú. Sí [tónleikavegleiðingina](/activities/music/) hjá okkum um at gera ein spællista.
+8. **Hygg at gomlum hátíðarmyndum.** Tak myndaalbum fram frá eldri hátíðarhøldum og bjóða søgum („Sig mær frá hesum borðinum“) heldur enn at spyrja, hvør er hvør. Vegleiðingin hjá okkum um [minnisvirksemi](/activities/reminiscence/) greiðir nærri frá, hvussu.
+9. **Spæl ein spakuligan felagsspæl.** [Myndabingó](/games/picture-bingo/) ber til at prenta á fáum minuttum og riggar fyri allar aldursbólkar, og [samrøðukort](/games/conversation-cards/) geva øllum okkurt at tosa um.
+10. **Lita saman.** Einfaldar [litimyndir](/games/coloring/) kunnu prentast, so børn og ommur og abbar kunnu deila teir við borðið.
+11. **Hygg at einum yndis hátíðarfilmi.** Ein kendur filmur kann vera avslappandi, og tað er heilt í lagi bert at hyggja ein part av honum.
+12. **Tak ein stuttan túr í bili at síggja ljós.** Ein stillur túr framvið prýddum húsum kann vera lættari enn eitt tiltak við nógvum fólki.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Um matgerð hevði ein stóran leiklut í lívi persónsins, hevur vegleiðingin hjá okkum um [húsarhaldsuppgávur sum virksemi](/activities/household-tasks/) fleiri hættir at gera køksuppgávur tryggar og mennandi.
 
-## How do I prepare guests?
+## Hvussu fyrireiki eg gestir?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Fortel gestum, hvat teir kunnu vænta, áðrenn teir koma, serliga familjulimum, sum ikki hava vitjað í eina tíð. Alzheimer’s Association mælir til at greiða frá, at broytingar í minni og atburði koma av sjúkuni, ikki av persóninum.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Deil nakrar einfaldar góð ráð:** tosa ein í senn, geva tíð at gera eina hugsan lidna, ikki rætta ella spyrja próvandi spurningar, og svara tónanum hjá persóninum, um orðini eru trupul at skilja.
+- **Sig frá, hvat hjálpir og hvat órógvar.** Um hart mál, skundi ella ávís evni elva til órógv, so sig frá tí.
+- **Kynna gestir frammanundan.** Vís persóninum myndir av teimum, sum koma, og deil eina søgu ella tvær, ella skipa fyri einum stuttum telefon- ella videosamrøðu áðrenn dagin.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Vegleiðingin hjá okkum um [ráð um samskifti](/caregiving/communication-tips/) fer nærri inn í hetta.
 
-## What if it gets to be too much?
+## Hvat um tað gerst ov nógv?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Ger eitt stilli rúm klárt, áðrenn gestirnir koma, burtur frá ganginum, við kendum, hugnaligum lutum so sum yndis teppi, troyggju ella einum einfaldum virkisøki. Bjóða tað tíðliga og ofta: „Skulu vit seta okkum eitt róligari stað eitt sindur?“
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+At fara frá borðinum, fara tíðliga at leggja seg ella sleppa einum parti av degnum er eitt gott úrslit, ikki eitt mistak. Um persónurin gerst ógvuliga órógvaður, hjálpir ein rólig rødd, eitt kent lag ella ein túr í eitt annað rúm ofta meira enn at royna at greiða frá. Vegleiðingin hjá okkum um [órógv seint á degi](/caregiving/late-day-restlessness/) hevur fleiri hugskot til kvøldini.
 
-## How can family far away take part?
+## Hvussu kunnu familjulimir langt burturi vera við?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Videosamtølur lata familjulimir vera við uttan at gera hópin størri. Alzheimer’s Association mælir til at geva samtølunum eitt sindur av leisti, til dømis at syngja hátíðarløg, deila myndir frá eldri samankomingum, gera sama uppskrift saman ella hyggja at einum hátíðarfilmi samstundis. Hald samtølurnar stuttar, og bið fólk tosa ein í senn, tí tað er torført at fylgja við, tá fleiri tosa um hvør annan. [Vegleiðingin hjá okkum um telefon- og videosamtølur](/activities/phone-and-video-calls/) hevur stig-fyri-stig hugskot.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Um persónurin býr á einum búøki við serligari umsorgan fyri fólk við minnistrupulleikum, kanna vitjanarreglur og bið starvsfólk hjálpa við at seta eina samtalu upp. Vegleiðingin hjá okkum um [at vitja onkran í minniumsorgan](/activities/visiting/) fevnir um, hvat tú kanst hava við, og hvussu tú tekur farvæl á góðan hátt.
 
-## What gifts suit someone with dementia?
+## Hvørjar gávur hóskandi til onkran við demens?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Einfaldar, tryggar gávur, sum persónurin kann njóta nú, rigga oftast best: eitt yndis góðgæti, eitt mjúkt teppi ella ein troyggja, kendur tónleikur, ein stórprentaður kalendari ella eitt album við familjumyndum. Alzheimer’s Association ráðgevur frá at geva vandamikil amboð, flókin tól og torfør borðspøl.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+At geva kann hava líka nógv at siga sum at fáa. At pakka smákøkur, sum persónurin hjálpti við at baka, ella lata hann pakka inn eina gávu, sum tú hevur keypt, letur hann vera við í hátíðini. Eitt familjumyndaspæl er eisini ein møguleiki: [myndapør](/games/photo-pairs/) ger nakrar fáar valdar myndir til ein spakuligan samsvarandi spæl í kaganum.
 
-## Look after yourself too
+## Ansa eisini eftir tær sjálvum/sjálvari
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Høgtíðir leggja meira arbeiði afturat umsorganini. Lat onkran annan hýsa ella gera mat, sig nei til tiltøk, sum verða strígandi, og tak steðg, meðan onnur eru saman við persóninum. Um tú ella tann, tú umsorgar fyri, ikki eru frísk, er ein veiving frá innkoyringarbreytini ella ein videosamtala eisini ein heilt góður vitjan. Vegleiðingin hjá okkum um [egnumsorg hjá tí, ið umsorgar](/caregiving/caregiver-self-care/) hevur meira stuðul.

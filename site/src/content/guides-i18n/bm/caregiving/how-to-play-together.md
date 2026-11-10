@@ -1,34 +1,30 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Kɛlɛ ni mɔgɔ min bɛ dementia la"
+description: "Kɛlɛ ɲuman kɛcogo ni mɔgɔ min bɛ dementia la: kɛlɛ sigi, waati ɲɛ, ka mɔgɔ ɲɛfɔ kɔrɔ tɛ, kɛlɛ kɛ ka ɲɛ, ani ka kɛlɛ dɔn ka ban."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Kɛlɛ bɛ kɛ waati ye ni mɔgɔ ye, o tɛ prɔfɛ ye. Waati ɲuman sugandi, tɔɔrɔ dɔ fɛ, ka sigi ni mɔgɔ fila ye, ka kɛlɛ kelen sugandi. Mɔgɔ ka kɛlɛ waati a yɛrɛ ka ɲɛ, ka mɔgɔ ka dɔɲɔgɔnman dɔw ɲɛfɔ kɔrɔ tɛ, ka kɛlɛ ka ɲɛ ni a jɛ kɔnɔ ka dɔgɔya, ani ka sɛbɛw kɛ kumakan ye. A ban ka kɛlɛ, a tɛ dɔ ye ni a bɛ ɲɛ. Kɛlɛ ban ka ɲɛ ka ɲɛ kɔrɔ, o ka ɲɛ ye ka ɲɛfɛ.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Kɛlɛ ka ɲɛ ye kɛlɛ ni ka ɲɛ ye, o tɛ ka ban ni ka jaabi tiɲɛ ye."
+  - "Sigi fɔlɔ: sigi lafiya kɔnɔ, sɛbɛ fitinin, ɲɛ ni tulo ka ɲɛbɛn, TV kɔnɔ, kɛlɛ kelen ka ɲɛ."
+  - "Ka dɔɲɔgɔnman kɔrɔ tɛ. Aw ka “An ka o kɛ nin cogo la” fɔ, walasa aw ka kɛlɛ tugu."
+  - "Ka kɛlɛ dɔgɔya sani tɔɔrɔ ka ɲɛ: sɛbɛ dɔgɔ, sugandi dɔgɔ, sɛbɛ ka to ɲɛ."
+  - "Sɛbɛ ye kumakan fɔlɔ ye ka kuma ni “Ka ɲɛfɔ…” ɲɛ, “I ye ... ka ɲɛfɔ tɛ wa?” ɲɛ."
+  - "Ka ban waati tɔɔrɔ walima jɛɲɔgɔnya fɛ. Ka ban fɔlɔ ye ka ban ye, o tɛ ka ɲɔgɔn ye."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "An ka kɛlɛ ka se cogo di?"
+    a: "Waati tɛ bɛn ye. Mɔgɔ caman bɛ se ka kɛlɛ dɔ kɛ ni miniti dɔw ye, ani tile dɔ dɛ bɛ se ka ɲɛ. Mɔgɔ ɲɛ, saa tɛ ɲɛ. Ka ban ni a bɛ sɔrɔ a bɛ ɲɛ."
+  - q: "Ka kɛlɛ ka kɛ ka mɔgɔ ka nɔ ɲɛ wa, walima ka dan ɲɛ?"
+    a: "Kɛlɛ min bɛ kɛ ni ɲɔgɔn ye, tɔɔrɔ tɛ yen, nka nɔ tɛ yen. Dan min tɛ mɔgɔ ɲɛ, o ka bɔ ɲɛ. Ni a bɛ mɔgɔ ɲɛ, dɛmɛ wa ka kɛlɛ dɔgɔya kɔrɔ, dan ɲɛfɔ kɔrɔ tɛ."
+  - q: "Ni a fɛ ka n ka kɛlɛ ɲɛ kosɔn ka sɛbɛ ɲɛ?"
+    a: "A ka ɲuman. National Institute on Aging bɛ fɔ ko ni mɔgɔ bɛ a ɲɛ ka tɛmɛ a ka sɛbɛ ɲɛ kɔrɔ, a ka sɛbɛ ɲɛ ka ban. An ka sɛbɛ kɔrɔ ko kuma, ani a ka ci walima sugandi a fɛ ka ɲɛ."
+  - q: "Kɛlɛ nin bɛ kɛ memwari ɲɛ wa?"
+    a: "Ɔwɔ, a tɛ. An ka kɛlɛw ye kɛlɛ ɲuman ye ka ɲɛ ni kuma ye. A tɛ memwari ɲɛ kɛlɛ ye, a tɛ dɔ ɲɛ, a tɛ dementia ka dɔ ye."
+  - q: "Kɛlɛ juru ye di ka fɔlɔ kɛ?"
+    a: "Kɛlɛ ɲɛ ka ɲɛ min bɛ mɔgɔ ye. Picture Pairs ni tile naani ni sɛbɛ to ɲɛ, walima Find the Same ni sugandi fila, bɛ ɲɛ ɲuman. Conversation Cards bɛ ɲɛ ni mɔgɔ bɛ kuma ka ɲɛ ka tɛmɛ sɛbɛ ɲɛ kɔrɔ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +43,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Kɛlɛ ɲuman ni mɔgɔ min bɛ dementia la, o tɛ i ko kɛlɛ ka ɲɛ ye. A bɛ i ko mɔgɔ fila bɛ sigi ɲɛ kɔnɔ, bɛ sɛbɛ fɛ ka ɲɛ, bɛ kuma ka ɲɛ, ani bɛ kuma o kuma bɛ ka kɛ. Kɛlɛ ye waati ye min bɛ mɔgɔ fila ka kɛ ɲɛ kɔnɔ.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Nin kalan bɛ kɛcogo fɔ: sigi kɛcogo, kɛlɛ ka waati kɛcogo, mun fɔ ni a ma kɔrɔ, kɛlɛ dɔgɔya walima ka ɲɛ kɛlɛ ka ɲɛ, kɛlɛ ka kuma kɛ, ani cogo min na ka kɛlɛ ban. A bɛ kɛ an [kɛlɛw](/games/) ni kartɛ, sɛbɛ ni kɛlɛ wɛrɛw ye min aw bɛ sɛbɛ.
 
-## What is the best way to play a game with someone who has dementia?
+## Mun ye kɛlɛ ɲuman ye mɔgɔ min bɛ dementia la ni a bɛ kɛlɛ?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Ka ɲɛ ka ɲɛ kɛ, o tɛ ka ɲɛ ka kɛ. Nin ye [Alzheimer's Association ka kalan ko kɛlɛw kɔnɔ](https://www.alz.org/help-support/caregiving/daily-care/activities) ka fɔ fɔlɔ: ka kɛ ni mɔgɔ ka dɔn min bɛ a yɛrɛ la, ka dɛmɛ a ka ɲɛ fɔlɔ, ka kɔrɔ ka ɲɛ yɛrɛ ye, ani ka kɛlɛ min tɛ kɛ kɔrɔ tɛ, ka mɔgɔ ɲɛfɔ kɔrɔ tɛ.
 
-In practice that means:
+Nin kɛ cogo di:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Ka sigi a fɛ, ka sigi a yɛrɛ ka fɛ.** Ni aw sigi kelen kelen fɛ, aw bɛ se ka sɛbɛ walima tabili ye ɲɛ, ani dɛmɛ bɛ kɛ i ko ɲɔgɔn dɛmɛ.
+- **Kɛlɛ kelen kɛ waati kelen.** Menu ni sugandi caman bɛ kɛ ko i ka ɲɛfɔ, kɛlɛ tɛ fɔlɔ.
+- **A ka kuma tugu.** Ni a bɛ sɛbɛ ɲɛ a yɛrɛ ka ɲɛ, ni a bɛ sɛbɛ kelen kan miniti tan, walima ni a bɛ sigi ka kɛ fila kɔfɛ, o ye kɛlɛ bi ye.
+- **Ka ɲuman ka ɲɛ, kɛlɛ ka ɲɛ tɛ.** Ni a bɛ ɲɛ, ni a bɛ hɛrɛ kɛ, ni waati ɲuman dɔ ka tɔɔrɔ tɛ, o ye waati ɲuman ye min an bɛ ɲɛ.
 
-## How do I set up before we start?
+## Mun ye ka kɛ a ɲɛ fɔlɔ?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Ka sigi ɲuman kɛ, o bɛ ɲɛ ka bɛn tɔɔrɔ dɔw ɲɛ min bɛ kɛ kɛlɛ ɲɔgɔn ye.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Waati ɲuman sugandi.** [National Institute on Aging (NIA) ka kalan ko kɛlɛw kɔnɔ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ fɔ ko ka waati sugandi mɔgɔ ka ɲɛ waati ye. Mɔgɔ caman bɛ ɲɛ dɔgɔ dɔgɔ kɔnɔ. Tile ka ɲɛ kɔfɛ kɛlɛ bɛ tɔɔrɔ; a bɛ ka kalan ko [tile kɔnɔ kɛlɛ](/caregiving/late-day-restlessness/) ɲɛ.
+2. **Ka trɔ lakana.** A bɛ sɛgɛ ka TV ni radiyo. Ni i bɛ se, ka da datugu. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) bɛ fɔ ko ka sɔgɔsɔgɔ ni ɲɔgɔn ka dɔgɔya ka fɔ kuma kɔfɛ.
+3. **Ka mɔgɔ ka ɲɛ ka ɲɛ.** Ji ka sɛgɛ a ɲɛ, bolo ka lafiya ka sɔrɔ kɛlɛ kɔ, sigi ka ɲɛ, ani ɲɛbɛn ni tulo ka ɲɛbɛn.
+4. **Ka trɔ ka ɲɛ.** Ka kanu ɲuman, ka kanu ye ɲɛbɛn ɲɛ kɔrɔ, o bɛ ɲɛ ka sɛbɛ ɲɛ.
+5. **Ka kɛlɛ sigi sani aw sigi.** Ka a da, ka sugandi ni sɔrɔ yɛrɛ ye, ka sɔgɔ ka ɲɛ. Ka ɲɛbɛn ka sɛgɛ ɲɛ. Tabulɛti walima telefɔni ka ɲɛfɔ bɛ [tabulɛti ni telefɔni sigi kɔnɔ](/caregiving/tablets-and-screens/).
+6. **Ka ekran ka sigi.** Stand walima case min bɛ tabulɛti ka sigi ɲɛ, o bɛ ka mɔgɔ si tɛ ka ɲɛ, ani o bɛ ka sɛbɛ ɲɛ ka sɔrɔ.
 
-## How do I invite them without pressure?
+## Mun na ka a ka ɲɛ kɛ ka ɲɛ kɔrɔ tɛ?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Ka kuma kɛ ka ɲɛ, ka ɲɛ kɛ ka sɔrɔ. Kuma ɲuman dɔw:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- “Ne ye sɛbɛ dɔw sɔrɔ ni sigi. I bɛ se ka o ɲɛ ne fɛ wa?”
+- “I bɛ se ka dɛmɛ ne ye ni nin ka ɲɛ? Ne bɛ ɲɛ.”
+- “I fɛ ka flɔri walima sɛnɛ sɛbɛ ye bi? (sugandi fila ka ɲɛ, o bɛ ɲɛ ka mɔgɔ kɛ ni sugandi ye)”
+- “Ne bɛ kaart kɛ i balimamuso ye. Nin ka kɔrɔ ye mun ye?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association bɛ fɔ ko kɛlɛ ka ɲɛfɔ kɛ, i ko kaart kɛ teri ye, o bɛ kɛlɛ ka ɲɛ, bawo sababu bɛ kɛ ka ɲɛ. Dɛmɛ ɲini nɔ bɛ ɲɛ, bawo mɔgɔ bɛ a yɛrɛ ka kɛ ka ɲɛ.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Ni a ko ɔwɔ, ka a ɲɛ. Waati tɔɔrɔ ka kɔfɛ walima kɛlɛ wɛrɛ ɲɛ. Ni a ko “ɔwɔ” tɛ, a bɛ se ka ɲɛ, ka a kɛ ka kɔrɔ ye. A ka kalan bɛ [mun na ka kɛ ni a ko ɔwɔ tɛ](/caregiving/when-they-say-no/) ɲɛ.
 
-## How long should a game last, and how fast should we go?
+## Kɛlɛ bɛ mun waati, ani an bɛ ɲɛ cogo di?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Ka mɔgɔ ka ɲɛ ka waati sugandi, ani ka kɛlɛ kɛ ka ɲɛ kɔrɔ. Kɛlɛ ɲuman waati tɛ bɛn ye ka bɔ kalan la. Miniti fila ni duuru kɛlɛ dɔ ye kɛlɛ kelen ye.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Ka tɛmɛ ka tɛmɛ ka ɲɛ a fɛ.** NIA bɛ fɔ ko waati ɲɛ ka tɛmɛ mɔgɔ ka jaabi kɛ. Ka tɛmɛ ka ɲɛ ka kɔrɔ, ka dɛmɛ kɛ.
+- **Ka kɛlɛ kelen kɛ kɔrɔ.** Ka kuma gɛlɛn kelen fɔ (“Ka sɛbɛ kelen tile”), ka waati ɲɛ. Ka ɲɛfɔ kɛ ka ɲɛ tɛ, ka kɛ fɛ: ka ɲɛ ka ɲɛ, ka ɲɛfɛ.
+- **Ka kɛlɛ ka ɲɛ ka ɲɛ.** Ni a bɛ kɔrɔ ka kuma kɛ sɛbɛ kɔnɔ, kɛlɛ bɛ se ka tɛ ka tɛ ɲɛ. Waati tɛ gɛlɛn ni ɲɛ.
+- **Ka a ka ɲɛ ka sɔrɔ.** NIA bɛ fɔ ko mɔgɔ dɔw bɛ ɲɛ ka ɲɛ, o ye sugandi ye.
 
-## Should I correct wrong answers?
+## Ni mɔgɔ jaabi kɔrɔ, ne bɛ a ka kɔrɔ wa?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ayi. Ka mɔgɔ ka kɔrɔ ka ɲɛ tuma caman, o bɛ a fɔ ko a tɛ kɛ ɲuman. Alzheimer's Association bɛ fɔ ko kɛlɛ min tɛ kɛ ɲuman, ka a kɔrɔ tɛ. Kɛlɛ kɔnɔ, ɲɔgɔn ɲɛ tɛ kɛ ɲuman.
 
-| Instead of | Try |
+| A ɲɛ | Ka a kɛ |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| “Ayi, o tɛ ɲuman.” | “An ka o kɛ nin cogo la.” (NIA bɛ nin fɔ) |
+| “O tɛ ɲɔgɔn ye. Ka a ɲɛ kɔrɔ.” | Ka kuma tɛ, ka sugandi tugu walima “O kelen bɛ ɲɔgɔn ye, o ye jɛ ye.” |
+| “I bɛ mɔgɔ nin dɔn wa?” | “Ka ɲɛfɔ nin sɛbɛ kɔrɔ.” |
+| “I ye o kɛ kɔ.” | “O ye ɲuman ye. An ka o kɛ ka tɛmɛ.” |
+| “Ayi, i bɛ o dɔn.” | “I fɛ ka kɛlɛ laban ka ɲɛ wa?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Ni kɛlɛ bɛ a ka hakili gɛlɛya kosɛbɛ, ka dɛmɛ ka kɛ a kɔnɔ. Ka sɛbɛ ɲuman ɲɛ, walima i yɛrɛ sugandi kɛ, walima kɛlɛ dɔgɔya tɛmɛ sugandi kɔfɛ. Ni kuma kɔnɔ ye kuma dɔ ye min bɛ ɲɛ, ka a ka kuma ɲɛ. A ka jaabi bɛ se ka ɲuman ni a fɛ ni i fɛ.
 
-## How do I make a game easier or harder?
+## Mun na ka kɛlɛ dɔgɔya walima ka ɲɛ?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Ka kɛlɛ ka kɛ ni mɔgɔ ka tile ye, o tɛ ka kɛ ni tɔɔrɔ ka ɲɛ ye. Mɔgɔ kelen bɛ se ka kɛlɛ dɔgɔ ni sɔgɔma, ka kɛlɛ dɔgɔ ni kalan. NIA ka fɔlɔ ye ko kɛlɛ ka ɲɛ ni mɔgɔ ka se ka kɛ, ani ka a ka ɲɛ ka ɲɛ ka sɔrɔ.
 
-| Game | Make it easier | Make it a little harder |
+| Kɛlɛ | Ka dɔgɔya | Ka ɲɛ dɔgɔ |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Tile naani ni sɛbɛ to ɲɛ | Tile caman, walima sɛbɛ tɛ to ni a ko ɲɛ |
+| [Find the Same](/games/find-the-same/) | Sugandi fila | Sugandi naani fɔ |
+| [Sort Together](/games/sort-together/) | I bɛ sɛbɛ ɲɛ, a bɛ kɔrɔ ɲɛ | A bɛ sɛbɛ ni kɔrɔ ɲɛ a yɛrɛ ka fɛ |
+| [Picture Puzzle](/games/picture-puzzle/) | Pasiɛn naani, sɛbɛ bɛɛ kuma fɔlɔ | Pasiɛn kɔɔnɔ |
+| [Finish the Saying](/games/finish-the-saying/) | Ka laban yɛrɛ ɲɛ, ka ɲɔgɔn ni fɔ | A ka laban fɔ tile kɔfɛ |
+| [Word Search](/games/word-search/) | Ka a bila, ka kuma kelen ɲɛ ni ɲɔgɔn ye, ka a fɔlɔ jaabi ɲɛ | A ka kuma kelen sugandi |
+| [Coloring](/games/coloring/) | I ka kɔrɔ fila sugandi, a bɛ sugandi ɲɛ | A bɛ kɔrɔ bɛɛ sugandi |
+| [Conversation Cards](/games/conversation-cards/) | Ka sɛbɛ ɲɛ ni ɲɔgɔn ye | Ka kuma ɲɛ kaart kɔnɔ |
+| [Photo Pairs](/games/photo-pairs/) | Mɔgɔw ka sɛbɛ dɔw | Sɛbɛ caman |
+| [Picture Bingo](/games/picture-bingo/) | Dɛmɛbaga sigi ɲɔgɔn fɛ | Kɛlɛbɔlɔ bɛ a yɛrɛ ka kaart ɲɛ |
+| [Calm Breathing](/games/calm-breathing/) | Ka sigi ni ɲɔgɔn ye, ka ɲɛ | Ka fɛ ka kɛ ni a ka fɛ |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Kɛlɛ bɛ gɛlɛn kosɛbɛ ni: ɲɛ dɔgɔ min bɛ hakili ka ɲɛ tɛ, ɲɛ min bɛ siɲɛ, “Ne tɛ se” caman, ekran bɔ ka sɛgɛ, walima tɔɔrɔ min bɛ mɔgɔ ɲɛ. Kɛlɛ bɛ dɔgɔ ni: dusu, walima a fɔ ko kɛlɛ bɛ fɛn ye min bɛ bɔ denw ye. Ni o kɛ, a ka fɛ ka kɛ ni kɛlɛ dɔ min bɛ mɔgɔ ka hakili ɲɛ, i ko kuma wɛrɛ, sɛbɛ kɔrɔ, walima ka sɛbɛ kɔrɔ ka fɛ min ye a ka baara ye.
 
-## How do I turn a game into a conversation?
+## Mun na ka kɛlɛ kɛ kuma ye?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Ka sɛbɛ kelen kelen ye kuma ye, ka mɔgɔ ka jaabi kɛ ka ɲɛ. Mɔgɔ caman bɛ o ɲɛ ka ɲɛ kosɛbɛ.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Ka kuma ɲɛ ni ka jaabi tɛ.** “I bɛ mun ɲɛ?” “I bɛ mun fɛ?” “Ka kɔrɔ kɔnɔ kɛlɛ dɔ fɔ.”
+- **Ka kuma ɲɛfɔ fɔlɔ.** “Ne ka fa bɛ nin ko kɛ.” I ka kuma bɛ a ka kuma fɛ ka kuma ɲɛ.
+- **Ka kɛlɛ tugu kuma kɔfɛ.** Ni sɛbɛ kɔnɔ kuma bɛ ɲɛ kuma tɔgɔ ka ɲɛ, kuma ye kɛlɛ ye. Kɛlɛ bɛ sigi.
+- **Ka ɲɛ tɛ.** Dɛmɛ kɔnɔ, kuma ɲuman bɛ ɲɛ ka tɛmɛ ka tiɲɛ. Ni kuma ka bɔ ka ɲɛ, a ka kuma kɔrɔ kɛlɛ, ka ɲɛ.
+- **Ka kɛlɛ tɛmɛ ka tɛmɛ.** [Finish the Saying](/games/finish-the-saying/) bɛ kuma ɲɛ ni a ka kuma ka ɲɛ, ani [Conversation Cards](/games/conversation-cards/) bɛ kɛ o kɛlɛ ye. [Photo Pairs](/games/photo-pairs/) bɛ aw ka sɛbɛ ye, o bɛ kuma ɲuman ɲɛ.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Kalan wɛrɛw bɛ [memwari kɛlɛ](/activities/reminiscence/) ni [kuma kɛcogo](/caregiving/communication-tips/) kɔnɔ.
 
-## When should we stop?
+## Waati mun na an bɛ ka ban?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Ka ban tɔɔrɔ fɔlɔ ka ɲɛ, ka ɲɛ kɔfɛ. Alzheimer's Association bɛ fɔ ko ka ban walima ka kɛlɛ dɔgɔya, hakili bɛ bɔ walima dusu bɛ kɔrɔ.
 
-Watch for:
+Ka ɲɛ:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- sɔrɔ, ka dogo, walima ɲɛ bɛ bɔ ekran ɲɛ;
+- ka kɛ kɔrɔ, ka sigi, walima ka bɔ;
+- ka siɲɛ, jaabi gɛlɛn, walima “Ne tɛ se ka o kɛ”;
+- ka ekran bɔ ka si, walima ka sɛgɛ ni ɲɛ;
+- ka nɔ, ka dusu, walima hakili bɛ kɔrɔ.
 
-How to stop well:
+Ka ban ɲuman:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Ka ban ni kuma ɲuman.** Sugandi kelen min a bɛ se ka ɲɛ, walima sɛbɛ kelen a bɛ ka ɲɛ.
+- **Ka ban ni mi ɲɛ.** “Ne ka tee bɛ na. An ka ban yɔrɔ nin na wa?” O tɛ ka kɔrɔ ko a tɛ kɛ ɲuman.
+- **Ka kɛlɛ kɛ min bɛ se ka kɛ ni kɛnɛ, kɛlɛ, ɲɛ bɔ, ɲɛ ka ɲɛ, walima mɔgɔ.** Kɛlɛ bɛ se ka kɛ ni nɔ ɲɛ, walima dun, walima mini.
+- **Ka kuma ɲuman fɔ.** “Ne ka ɲɛ nin ka kɛ ni i ye.” Kɛlɛ ka ɲɛ tɛ, ka ɲɛ ye ko ka sɔrɔ.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Kɛlɛ ka ban, ka kɛlɛ ka ɲɛ, walima ka kɛlɛ ka ban ani ka sigi ɲɔgɔn fɛ, o bɛɛ ye ka ɲuman ye.
 
-## Can we play in a group or over a video call?
+## Aw bɛ se ka kɛlɛ ni mɔgɔ caman walima video kɛlɛ kɔnɔ wa?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ɔwɔ, ka ɲɛ ka ɲɛ kɛ. Mɔgɔ caman kɔnɔ, mɔgɔ dɔw ɲɛ ka sigi, dɛmɛbaga ka sigi dɔɲɔgɔn fɛ min bɛ mɔgɔ ɲɛ, ani kɛlɛ ka ɲɛ ka kɛ ni ɲɔgɔn ye. [Picture Bingo](/games/picture-bingo/) bɛ kaart bɔ ni ɲɛ, ani kɛlɛ bɛ kɛ ni caman ye. Ka ɲɛ [sigi-so mɔgɔ kɛlɛw](/activities/care-home-groups/) kɔnɔ.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Video kɛlɛ kɔnɔ, mɔgɔ min bɛ video kɔnɔ, a bɛ se ka sɛbɛ fɔ, ani mɔgɔ min bɛ yɔrɔ kɔnɔ, a bɛ se ka sɛbɛ ɲɛ, ka sɛbɛ kɛ. Ka kɛlɛ ka ɲɛ ka tɛmɛ, ani ka ɲɛ ka ɲuman. Kalan ko [telefɔni ni video kuma](/activities/phone-and-video-calls/) kɔnɔ, a bɛ kɛ ka tɛmɛ.
 
-## What if a game just isn't working?
+## Ni kɛlɛ tɛ kɛ ka ɲɛ, mun na?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Tile dɔw, kɛlɛ dɔ tɛ kɛ ka ɲɛ, o tɛ ka kɛ i ka sɔrɔ walima mɔgɔ ka sɔrɔ. Kɛlɛ bɛ bɔ, waati wɛrɛ ka kɛ, kɛlɛ wɛrɛ kɛ, walima kɛlɛ tɛ kɛ. Kɛlɛ caman tɛ ekran ye: dɛgɛ, nɔ ka sɔrɔ, sɛbɛ albɔm ɲɛ, walima kɛlɛ gɛlɛn kɔrɔ. Aw bɛ se ka [kɛlɛ ɲɛfɔw](/activities/ideas/) ɲɛ.

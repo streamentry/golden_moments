@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Наведванне блізкага з дэменцыяй у доглядзе ці бальніцы"
+seoTitle: "Наведванне блізкага з дэменцыяй: што рабіць і што ўзяць"
+description: "Што рабіць, калі наведваеце блізкага з дэменцыяй у доглядзе, доме састарэлых ці бальніцы: што ўзяць з сабой, простыя заняткі, кароткія візіты і спакойнае развітанне."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Калі вы наведваеце блізкага з дэменцыяй у доглядзе ці бальніцы, трымайцеся
+  простага: назавіцеся, калі прыйшлі, прынясіце што-небудзь, чым можна падзяліцца,
+  напрыклад фотаздымкі, музыку або любімую смаканку, і зрабіце разам адну лёгкую
+  справу. Кароткія, рэгулярныя візіты часта праходзяць лепш за доўгія і рэдкія.
+  Прадумайце спакойнае, аднолькавае развітанне, каб вам абаім было лягчэй
+  выйсці.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Звярніцеся да чалавека па імені і назавіцеся, каб яму не даводзілася здагадвацца: „Прывітанне, мама, гэта Сюзан, твая дачка.“"
+  - "Прынясіце адну-дзве рэчы, якімі можна падзяліцца: альбом з фотаздымкамі, любімую музыку, мяккі плед або перакус, які дазволіў персанал."
+  - "Кароткія, рэгулярныя візіты часта праходзяць лепш за доўгія і рэдкія. Ваша прысутнасць важнейшая за тое, што вы скажаце."
+  - "У бальніцы аддайце персаналу аркуш на адну старонку пра чалавека і адразу паведаміце доктару пра любую раптоўную змену."
+  - "Прадумайце, як пайсці: скажыце, колькі можаце застацца, кожны раз выкарыстоўвайце адно і тое ж развітанне і сыходзьце, не зацягваючы."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Што ўзяць з сабой, калі наведваеце чалавека з дэменцыяй?"
+    a: "Бярыце тое, чым можна падзяліцца, а не тое, пра што трэба размаўляць. Добра падыдуць невялікі альбом з фотаздымкамі, плэйліст з любімымі песнямі, мяккі плед, крэм для рук, часопіс пра даўняе захапленне або перакус, які дазволіў персанал. У доглядавай установе сямейныя фотаздымкі і знаёмыя рэчы могуць зрабіць пакой больш падобным на дом."
+  - q: "Як доўга заставацца з чалавекам з дэменцыяй?"
+    a: "Адзінай правільнай працягласці няма. Многія сем’і сцвярджаюць, што кароткія і частыя візіты працуюць лепш за доўгія і рэдкія, бо чалавек можа хутка стаміцца і можа не запомніць, колькі вы былі. Сачыце за прыкметамі стомы і сыходзьце, пакуль візіт яшчэ добры для абодвух."
+  - q: "Што сказаць, калі яны просяцца дадому?"
+    a: "Адказвайце на пачуццё, а не на словы. „Хачу дадому“ часта азначае „мне няўтульна або небяспечна“. Паспрабуйце сказаць: „Расскажы мне пра свой дом“, паглядзіце фотаздымкі разам або прапануйце прагулку ці перакус. Спрэчкі і тлумачэнні, чаму яны не могуць пайсці, звычайна толькі павялічваюць трывогу."
+  - q: "Што рабіць, калі яны мяне не пазнаюць?"
+    a: "Гэта можа балець, але старайцеся не папраўляць і не пытацца: „Ты што, не ведаеш, хто я?“ Прадстаўцеся па-добраму і проста атрымлівайце задавальненне ад часу разам. Многія людзі ўсё роўна любяць кампанію і адчуваюць цеплыню візіту, нават калі не могуць успомніць, хто вы."
+  - q: "Як дапамагчы падчас знаходжання ў бальніцы?"
+    a: "Calі магчыма, заставайцеся з чалавекам, дапамагайце яму есці і піць і прынясіце знаёмыя рэчы, напрыклад фотаздымкі. Дайце персаналу аркуш са спісам распарадку дня, імя, якім чалавека звычайна клічуць, яго ўпадабанняў, таго, што яму не падабаецца, і прыкмет болю. Калі чалавек раптам стаў горш або выглядае іншым, адразу скажыце доктару, бо раптоўная блытаніна можа сведчыць пра медычную праблему."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Наведванне блізкага ў доглядзе, доме састарэлых ці бальніцы можа выклікаць многа пачуццяў. Вы можаце не ведаць, што сказаць, што ўзяць або ці мае сэнс візіт, калі чалавек усё роўна не запомніць яго. Мае. Нацыянальны інстытут старэння адзначае, што людзі з хваробай Альцгеймера [часта любяць кампанію](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), нават калі не памятаюць, хто да іх прыйшоў. На гэтай старонцы вы знойдзеце практычныя парады для таго, што рабіць да, падчас і пасля візіту, а таксама асобныя падказкі для знаходжання ў бальніцы.
 
-## How do I get ready for a visit?
+## Як падрыхтавацца да візіту?
 
-A little planning makes the visit easier for both of you.
+Трошкі планавання робіць візіт лягчэйшым для вас абодвух.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Выберыце добры час.** Dementia Australia раіць прыходзіць тады, калі чалавек звычайна найбольш уважлівы, што для многіх людзей азначае ранак або каля поўдня. Family Caregiver Alliance раіць даведацца пра распарадак установы і прыходзіць у [час вольнага адпачынку, а не ў час заняткаў](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Пагутарыце з персаналам.** Спытайце, як чалавек сябе адчувае сёння, і ўдакладніце правілы наконт ежы, хатніх жывёл і выхадаў на вуліцу.
+- **Сабярыце невялікую сумку для візіту.** Дастаткова адной-дзвюх рэчаў, якімі можна падзяліцца (гл. спіс ніжэй).
+- **Прадумайце некалькі тэм.** Чалавек можа не мець навін, таму прынясіце сваё: навіны сям’і, надвор’е, футбольны матч, смешную гісторыю.
+- **Ставцеся да візіту рэальна.** Адны візіты будуць цёплымі і гаманлівымі, іншыя — ціхімі або цяжкімі. Абодва варыянты натуральныя.
 
-## What should I bring?
+## Што можна ўзяць?
 
-Bring things to share, not things that test. Good choices include:
+Бярыце рэчы, якімі можна падзяліцца, а не тое, што выпрабоўвае. Добрыя варыянты:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Невялікі альбом з фотаздымкамі** з буйнымі, выразнымі відарысамі. Падпішыце іх на адваротным баку для персаналу.
+- **Плэйліст** з любімымі песнямі на тэлефоне, з простымі навушнікамі або невялікай калонкай.
+- **Што-небудзь мяккае для трымання,** напрыклад знаёмы плед, шалік або светр.
+- **Крэм для рук** для лёгкага масажу далоней, калі чалавеку падабаецца дотык.
+- **Часопіс або кнігу з малюнкамі** пра даўняе захапленне, напрыклад пра садоўніцтва, машыны, птушак або кулінарыю.
+- **Любімую смаканку**, калі персанал кажа, што яна бяспечная.
+- **Знаёмыя рэчы для пакоя.** Family Caregiver Alliance раіць кветкі, расліны, сямейныя фотаздымкі і малюнкі або вялікі плакат з фота сям’і з мінулага.
+- **Планшэт** для прагляду сямейных фота або для лёгкай гульні разам.
 
-## What can we do together during a visit?
+## Чым можна займацца разам падчас візіту?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Калі вы робіце нешта разам, размова становіцца менш напружанай. Dementia Australia раіць разглядаць фотаздымкі, рабіць простыя дробязі рукамі, садзіць расаду, слухаць музыку, падзяліцца перакусам або прайсціся па тэрыторыі. Яшчэ некалькі ідэй:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Разглядайце фотаздымкі.** Паказвайце, што бачыце: «Глядзі, які капялюш». «Гэты пляж выглядае цудоўна». Дайце чалавеку весці. Не пытайцеся: «Хто гэта?»
+2. **Слухайце музыку і спявайце.** Знаёмыя песні могуць падняць настрой і даць агульны момант, нават калі размаўляць цяжка.
+3. **Зрабіце кароткую прагулку.** Family Caregiver Alliance раіць прайсціся па ўстанове, асабліва па садзе, калі ён ёсць. Прагулка ў інвалідным крэсле таксама падыходзіць.
+4. **Зрабіце масаж рук.** Крыху крэму і павольныя рухі па далонях могуць супакоіць.
+5. **Дапамажыце з догля.** Dementia Australia згадвае расчэсванне валасоў, размалёўку пазногцяў або дапамогу апрануць любімае адзенне, калі чалавеку гэта падабаецца.
+6. **Згуляйце ў простую гульню.** Family Caregiver Alliance раіць карты, даміно або тое, у што чалавек гуляў раней. На планшэце можна згуляць у [Picture Pairs](/games/picture-pairs/), дзе карткі застаюцца адкрытымі і без таймера. [Photo Pairs](/games/photo-pairs/) ператварае выбраныя вамі фотаздымкі ў гульню на пошук пар, і фота застаюцца ў вашым браўзеры.
+7. **Паглядзіце што-небудзь разам.** Family Caregiver Alliance раіць камедыі і старыя фільмы. Нават калі чалавек не можа сачыць за сюжэтам, вы можаце сядзець побач і дзяліцца часам.
+8. **Чытайце ўголас.** Кароткі верш, любімы ўрывак або ліст ад блізкага.
+9. **Проста пасядзіце разам.** Трыманне за рукі або ціхае сядзенне побач — гэта сапраўдны візіт. Alzheimer's Association адзначае, што нармальна не ведаць, што сказаць, і што ваша прысутнасць важнейшая за ўсё.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) могуць дапамагчы, калі вам не стае тэм для размовы. Кожная картка мае малюнак і адкрытае пытанне.
 
-## How should I talk during the visit?
+## Як размаўляць падчас візіту?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Назавіцеся кожны раз.** «Прывітанне, тата, гэта Марк, твой сын». NIA раіць госцям коратка прадстаўляцца, каб пачаць размову.
+- **Падыходзьце спераду** і садзіцеся на ўзроўні вачэй.
+- **Не папраўляйце і не спрачайцеся.** NIA раіць не папраўляць чалавека, калі ён памыліўся або нешта забыў.
+- **Будзьце цярплівыя,** калі словы даюцца цяжка. Дайце шмат часу.
+- **Адказвайце на пачуцці.** Калі чалавек выглядае смутным або трывожным, прызнайце гэта, перш чым змяніць тэму.
+- **Пазбягайце экзаменацыйных пытанняў,** такіх як «Ты мяне памятаеш?» або «Што ты еў на абед?»
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Больш парад пра зносіны — у нашых [парадах для зносін](/caregiving/communication-tips/).
 
-## What do I do when they say "I want to go home"?
+## Што рабіць, калі яны кажуць: «Хачу дадому»?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Адказвайце на пачуццё, што стаіць за словамі (больш падрабязна — у нашым дапаможніку пра [тое, як быць, калі чалавек працяглы час просіцца дадому](/caregiving/asking-to-go-home/)). Family Caregiver Alliance тлумачыць, што «Хачу дадому» звычайна азначае «мне няўтульна», і раіць адказы кшталту «Расскажы мне пра свой дом» або «Што табе найбольш падабаецца ў доме?». Dementia Australia дадае, што «дом» можа азначаць час або месца, дзе чалавек адчуваў сябе ў бяспецы, напрыклад дзяцінства.
 
-Try:
+Паспрабуйце:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- прызнаць пачуццё: «Здаецца, ты сумуеш па дому».
+- суцяшыць дотыкам, калі гэта дарэчы
+- разгледзець фотаздымкі або пагутарыць пра сямейны дом
+- прапанаваць прагулку, пітво або перакус
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Не спрачайцеся і не тлумачце, чаму яны не могуць выйсці. Гэта рэдка дапамагае і часта толькі дадае трывогі.
 
-## How long should a visit be?
+## Якой павінна быць працягласць візіту?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Кароткія і частыя візіты часта працуюць лепш. Family Caregiver Alliance адзначае, што чалавек звычайна не памятае, ці вы прабылі пяць хвілін або пяць гадзін, і раіць, што тры кароткія візіты на тыдзень могуць быць лепшыя за адзін доўгі. Dementia Australia кажа, што адзінай правільнай колькасці візітаў або іх працягласці няма.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+У першыя тыдні пасля пераезду ў доглядавую ўстанову Family Caregiver Alliance раіць прыходзіць часта, а потым паступова выпрацаваць рэгулярны рытм. Спытайце персанал, што яны бачаць.
 
-## How do I leave without upsetting them?
+## Як пайсці, не засмучаючы іх?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Развітанне можа быць самай цяжкай часткай. Dementia Australia раіць:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Скажыце, колькі можаце застацца, калі прыходзіце.** «Я магу пабыць гадзіну, потым мне трэба ў краму».
+- **Выкарыстоўвайце занятак як натуральнае завяршэнне.** «Калі мы даслухаем гэтую песню, я пайду».
+- **Звяжыце развітанне з ежай або заняткам,** або папрасіце персанал дапамагчы чалавеку заняцца чым-небудзь іншым.
+- **Трымайце развітанне кароткім і аднолькавым кожны раз.** Зацяжка, вінаватыя прабачэнні або «пабуду яшчэ трошкі» могуць зрабіць будучыя развітанні цяжэйшымі.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Пасля ад’езду нармальна адчуваць смутак. Дайце сабе адпачыць. Калі чалавек засмуціўся, персанал звычайна можа хутка яго супакоіць.
 
-## Visiting someone with dementia in the hospital
+## Візіт да чалавека з дэменцыяй у бальніцы
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Бальніца шумная, незнаёмая і поўная незнаёмцаў, і для чалавека з дэменцыяй гэта можа быць вельмі цяжка. Дапаможнік NIA пра [тое, як весці чалавека з хваробай Альцгеймера ў бальніцу](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) рэкамендуе:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Каб з чалавекам заставаўся хтосьці** як мага часцей: член сям’і, давераны сябар або наняты даглядальнік.
+- **Дайце персаналу асабісты інфармацыйны аркуш** з распарадкам дня чалавека, імем, якім яго клічуць, упадабаннямі і тым, што яму не падабаецца, магчымымі трыгерамі і нявербальнымі прыкметамі болю. Пакіньце копіі ў пакоі і на посце медсясцёр.
+- **Дапамагайце з ежай і пітвом.** Пажылыя людзі ў бальніцы могуць недаядаць. Адкрывайце ёмістасці, дапамагайце з прыёмам ежы, ешце разам і прапаноўце піць.
+- **Прынясіце рэчы, якія суцяшаюць,** напрыклад фотаздымкі або прадметы, важныя для веры.
+- **Знізьце шум.** Выключыце тэлевізар і памяншайце гучнасць тэлефонаў і каміунікатараў.
+- **Паспрабуйце спакойныя рытуалы,** напрыклад супакойлівую музыку, чытанне, малітву, спеў або праглядванне старых фотаздымкаў.
+- **Заахвочвайце рух** наколькі гэта бяспечна, з дазволу персаналу.
+- **Адразу скажыце доктару, калі чалавек раптам стаў горш або выглядае іншым.** NIA тлумачыць, што раптоўная моцная блытаніна, якую называюць дэлірыем, можа быць выкліканая такімі прычынамі, як інфекцыя, высокая тэмпература, адвадненне або пабочныя эфекты лекаў, і патрабуе медычнай дапамогі.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Кароткі спакойны візіт з знаёмым тварам і любімай песняй можа быць самай суцяшальнай часткай бальнічнага дня.
 
-## Bringing children on a visit
+## Калі бярэце з сабой дзяцей
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Дзеці могуць прынесці шмат цяпла. Падрыхтуйце іх загадзя простымі і шчырымі словамі, зрабіце візіт кароткім і дайце ім заданне, напрыклад паказаць малюнак або перадаць фота. NIA адзначае, што дзеці і людзі з хваробай Альцгеймера могуць разам атрымліваць задавальненне ад простых заняткаў, напрыклад ад разгляду альбома або слухання музыкі. Dementia Australia раіць узяць невялікі набор ласункаў або ціхіх заняткаў, каб малыя не сумавалі.
 
-## Take care of yourself too
+## Клапаціцеся і пра сябе
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Візіты могуць быць стомлівымі і эмацыйна цяжкімі, асабліва калі чалавек моцна змяніўся. Нармальна рабіць візіты радзей, калі вам трэба, прыводзіць з сабой сябра для падтрымкі або сыходзіць раней у цяжкі дзень. Парады, як клапаціцца пра сябе, — у [догляду за сабой як даглядальніка](/caregiving/caregiver-self-care/). Калі вы жывяце далёка, гл. наш дапаможнік пра [тэлефонныя і відэазванкі](/activities/phone-and-video-calls/).

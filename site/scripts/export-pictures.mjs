@@ -57,16 +57,40 @@ execFileSync('python3', ['-c', [
 rmSync(work, { recursive: true, force: true });
 writeFileSync(join(OUT, 'manifest.json'), `${JSON.stringify({ size: SIZE, pictures: manifest }, null, 2)}\n`);
 
-// Names: English from pictures.ts, the rest from the site's play files.
-// Site codes use a hyphen (pt-BR); the app's locale names use an underscore.
+// English names for the two libraries come from their source files. Each
+// locale's play file holds translations for both; the app's locale names use
+// underscores while the site codes use hyphens (pt-BR).
+const ILLUSTRATIONS = JSON.parse(
+  readFileSync(join(REPO, 'assets/images/illustrations/manifest.json'), 'utf8'),
+).illustrations;
 const ids = new Set(PICTURES.map((p) => p.id));
-const names = { en: Object.fromEntries(PICTURES.map((p) => [p.id, p.name])) };
+const illustrationIds = new Set(ILLUSTRATIONS.map((i) => i.id));
+const englishIllustrations = JSON.parse(readFileSync(join(PLAY, 'en.json'), 'utf8')).illustrations ?? {};
+if (
+  Object.keys(englishIllustrations).length !== ILLUSTRATIONS.length ||
+  ILLUSTRATIONS.some((illustration) => englishIllustrations[illustration.id] !== illustration.name)
+) {
+  throw new Error('English illustration names in play/en.json do not match the illustration manifest');
+}
+const names = {
+  en: {
+    ...Object.fromEntries(PICTURES.map((p) => [p.id, p.name])),
+    ...englishIllustrations,
+  },
+};
 for (const file of readdirSync(PLAY).filter((f) => f.endsWith('.json')).sort()) {
   const code = file.slice(0, -5);
   if (code === 'en') continue;
-  const pictures = JSON.parse(readFileSync(join(PLAY, file), 'utf8')).pictures ?? {};
-  const own = Object.entries(pictures).filter(([id, name]) => ids.has(id) && typeof name === 'string' && name.trim());
+  const dictionary = JSON.parse(readFileSync(join(PLAY, file), 'utf8'));
+  const pictures = Object.entries(dictionary.pictures ?? {}).filter(([id, name]) => ids.has(id) && typeof name === 'string' && name.trim());
+  const illustrations = Object.entries(dictionary.illustrations ?? {}).filter(([id, name]) => illustrationIds.has(id) && typeof name === 'string' && name.trim());
+  const own = [...pictures, ...illustrations];
   if (own.length) names[code.replace('-', '_')] = Object.fromEntries(own);
+}
+
+// Raster drawings made later with the Codex CLI live in their own manifest.
+for (const i of ILLUSTRATIONS) {
+  if (ids.has(i.id)) throw new Error(`illustration id ${i.id} collides with a picture`);
 }
 
 const q = (s) => `'${s.replaceAll('\\', '\\\\').replaceAll("'", "\\'").replaceAll('$', '\\$')}'`;
@@ -80,6 +104,7 @@ const dart = [
   '/// The drawings shared with the website, in the website\'s order.',
   'const pictureLibrary = <ActivityPicture>[',
   ...PICTURES.map((p) => `  ActivityPicture(id: ${q(p.id)}, label: ${q(p.name)}, asset: ${q(`assets/images/pictures/${p.id}.webp`)}),`),
+  ...ILLUSTRATIONS.map((i) => `  ActivityPicture(id: ${q(i.id)}, label: ${q(i.name)}, asset: ${q(`assets/images/illustrations/${i.id}.webp`)}),`),
   '];',
   '',
   '/// Picture names by app locale name (en, pt_BR, zh_Hans). A language that',
@@ -91,4 +116,4 @@ const dart = [
   '',
 ].join('\n');
 writeFileSync(DART, dart);
-console.log(`Exported ${PICTURES.length} pictures at ${SIZE}px; names in ${Object.keys(names).length} languages.`);
+console.log(`Exported ${PICTURES.length} pictures and ${ILLUSTRATIONS.length} illustrations at ${SIZE}px; names in ${Object.keys(names).length} languages.`);

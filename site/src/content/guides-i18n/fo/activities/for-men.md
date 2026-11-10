@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Virksemi hjá monnum við demens"
+seoTitle: "Virksemi hjá monnum við demens: hugskot úr gerandisdegnum"
+description: "Hugskot til virksemi hjá monnum, ið liva við demens, bygd á arbeiði, áhugamál og gerandisdag heldur enn fordómar, við ráð um at laga hvørt trygt."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Bestu virkisuppgávurnar hjá einum manni, ið livir við demens, koma úr hansara
+  egna lívi: arbeiðinum, hann gjørdi, áhugamálunum, hann hevði, og
+  gerandisdegnum, hann fylgdi. Ein fyrrverandi skrivstovuarbeiðari kann hava
+  hug at skipa pappír, ein mekanikari kann hava hug at handfara rein amboð, og
+  ein ítróttarfjeppari kann hava hug at síggja ein gamlan dyst. Áhugamál eru
+  ymisk frá manni til mann, so byrja við persóninum, ikki við kyninum.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Byrja við lívssøguni hjá hesum manni: arbeiði, áhugamál, gerandisdagur og tað, hann var errin av."
+  - "Uppgávur við einum veruligum endamáli, so sum at skilja amboð, vaska bilin ella slipa træ, lokka ofta meira enn virksemi, ið kennist sum ein flokkur."
+  - "Ikki øll menn dáma amboð ella ítrótt. Nógvir njóta at matgera, lurta eftir tónleiki, garðsløg, list ella at taka sær av øðrum. Spyr, fylg við og fylg hansara leið."
+  - "Ger arbeiðslíkar uppgávur tryggar við at taka burtur hvøss amboð og hava eftirlit, og ger tær einfaldari, eftir sum førimuni broytast."
+  - "Tað er í lagi at siga nei. Bjóða ein leiklut, ikki eina uppgávu, og royn aftur ein annan dag."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Hvat slag av virksemi dáma menn við demens?"
+    a: "Tað er eingin ein listi, tí áhugamál hjá monnum eru líka ymisk sum hjá øðrum. Góðir byrjanarstøðir eru uppgávur, ið knýta seg at hansara fyrrverandi arbeiði, so sum at skipa pappír ella skilja mutrar og boltar, saman við áhugamálum, hann hevði dámt, so sum fiskiskap, bilar, tónleik, matgerð ella ítrótt. Fylg við, hvat hann tekur sær fyri uttan at verða biðin, og bygg víðari á tað."
+  - q: "Pápi mín noktar at vera við í felags virksemi. Hvat kann eg gera?"
+    a: "Nógv, bæði menn og kvinnur, siga nei til virksemi, ið kennist sum ein flokkur ella kann tykjast barnsligt. Royn í staðin at bjóða eina uppgávu: „Kanst tú hjálpa mær at skilja hetta?“ Smærri bólkar ella tíð saman ein og ein kunnu eisini kenna rúmligari enn eitt stórt rúm."
+  - q: "Er tað trygt at lata hann brúka amboð?"
+    a: "Bert við eftirliti og tryggum amboðum. Tak burtur elamboð, knívar og alt, ið er hvast, og bjóða uppgávur sum at slipa ein trækloss, skilja rein amboð ella herða stórar boltar við hondunum. Alzheimer’s Association mælir til at taka vandamiklar lutir burtur úr eini amboðssmiðju, so ein uppgáva sum at slipa framvegis kann gerast á tryggan hátt."
+  - q: "Hann var fakfólk. Kunnu einfaldar uppgávur kenna mótgangandi?"
+    a: "Tað kunnu tær, um tær verða lagdar fram sum uppihaldsarbeiði. Legg uppgávuna fram sum veruliga hjálp, brúka tilfar fyri vaksin, og vel okkurt, ið liggur tætt at hansara gamla leikluti, so sum at hyggja ígjøgnum ein lista, skipa eina skjálu ella hjálpa til at seta eitt sendibræv saman. Um hann var sera dugnaligur til okkurt, kann eitt líknandi, men annað slag av virksemi kenna minni sum ein samanbering."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Fólk leita ofta eftir „virksemi hjá monnum við demens“, tí tey vanligu uppskotini tykjast ikki passa til mannin í teirra lívi. Tað er ein skilagóð hugsan. Men svarið er ikki ein listi við „mannfólkavirksemi“. Tað er at byrja við júst henda mannin: hvat hann arbeiddi við, hvat hann gjørdi í frítíðini, og hvat fekk hann at kenna seg gagnligan. Áhugamál eru ymisk hjá øllum. Nógvir menn dáma at matgera, garðsløg, mála ella syngja, og nógvar kvinnur dáma bilar og baseball.
 
-## How do I find activities he will actually enjoy?
+## Hvussu finni eg virksemi, sum hann veruliga hevur hug at gera?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Byrja við hansara lívssøgu. Alzheimer’s Association mælir til at byggja ein [dagligan ætlan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) út frá tí, persónurin dámar og ikki dámar, styrkjum og áhugamálum, og hvussu hann plagdi at skipa dagin. Spyr teg sjálva/n:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Hvat var hansara arbeiði?** Skrivstova, bóndagarður, virki, handverk, herur, søla, undirvísing, koyring, heimið?
+- **Hvat gjørdi hann í frítíðini?** Fiskiskap, kort, træarbeiði, ítróttur, kirkja, tónleikur, matgerð, ein bilur í garasjuni?
+- **Hvørjir vóru hansara vanar?** Kaffi og blað á hvørjum morgni? Kannað veðrið? Vaskað bilin leygardagar?
+- **Hvat tekur hann enn fyri seg sjálvur?** Felagið leggur dent á, at um ein persónur byrjar uppgávur uttan at verða biðin, til dømis at sopa gólvið, kunnu tær gerast partur av gerandisdegnum.
+- **Hvat heldur hann seg frá?** Summi dáma at hyggja at ítrótti; onnur finna ferðina og larmið órógvandi. Gev gætur eftir, nær hann tykist glaður, stúrin ella irriteraður.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Tosa eisini við familju og gamlar vinir. Tey minnast kanska áhugamál, sum ikki longur eru partur av gerandisdegnum.
 
-## Activity ideas based on past work
+## Hugskot til virksemi út frá fyrrverandi arbeiði
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer’s Association gevur eitt greitt dømi: ein fyrrverandi skrivstovuarbeiðari kann hava hug at skipa uppgávur, so sum at leggja mynt í ein haldara, hjálpa til at seta eitt sendibræv saman ella gera ein arbeiðslista, meðan ein fyrrverandi bóndi ella garðyrkjari kann hava hug at arbeiða uttanfyri. Sama hugsan kann nýtast til nógv sløg av arbeiði.
 
-| Past work | Activity ideas | Simpler version |
+| Fyrrverandi arbeiði | Hugskot til virksemi | Einfaldari útgáva |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Skrivstova ella vinnulív | Skilja pappír í skjálur, stempla bræv, hyggja ígjøgnum ein lista, skipa eina skriviborðsskuffu | Stabla bræv; leggja bindistift í ein kassa |
+| Handverk ella mekanikari | Skilja reinar mutrar, boltar og skivur; herða stórar boltar við hondunum; hyggja í amboðsskráir | Skilja eftir stødd í tveir bollar |
+| Bóndagarður ella garðsløga | Vanna, seta plantur í pottar, raka bløð, kanna garðin | Sita uttanfyri, meðan tú arbeiðir; halda fræposar |
+| Herur | Pussa skógvar, skipa eina skuffu, hyggja at myndum frá tænastuni, um hann hevur hug at gera tað | Lurta eftir tónleiki frá tí tíðini |
+| Søla ella kundatænastu | Heilsa upp á vitjandi, bjóða innbit, skilja kupongar | Sita við dyrnar og siga hey |
+| Undirvísing | Lesa hart, skipa bøkur, skilja myndir eftir evni | Hyggja ígjøgnum eina myndabók saman |
+| Koyring ella flutningur | Hyggja á kort ella gomul bilblað, vaska bilin | Hyggja eftir bilum, sum koyra framvið, frá einum veranda |
+| Heim og familja | Falda vaskarí, dekka borðið, hjálpa til við døgurðanum | Slætta serviettir; róra í einum sósi |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Summar minnir, so sum hertænastan, kunnu vekja sterkar kenslur. Fylg hansara leið, halt tosið um fortíðina positivt, og broyt evnið varliga, um hann tykist óglaður.
 
-## Activity ideas based on hobbies
+## Hugskot til virksemi út frá áhugamálum
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Træarbeiði.** Slipa ein slættan trækloss ella mála eitt fuglahús úr eini byggisett. Alzheimer’s Association mælir til at taka vandamikil tilfar og amboð burtur úr amboðssmiðjuni, so ein uppgáva sum at slipa kann vera stuttleikafull og trygg.
+2. **Fiskiskap.** Skilja ein fiskikassa, har krókar eru tiknir úr, hyggja ígjøgnum fiskibløð ella sita saman við ein tjørn.
+3. **Bilar.** Vaska bilin, pussa króm, hyggja at myndum av gomlum bilum ella fara ein túr sum ferðafólk.
+4. **Ítróttur.** Hyggja at einum gomlum dysti ella samandráttum, kasta ein bløtan bólt, putta golfbóltar á eitt teppi ella skilja baseballkort.
+5. **Kort og spøl.** Ein einfaldur umfar av einum kendum kortspæli, dominobrickur ella at venda kort fyri at finna eitt par. Halt tað avslappað og legg stigatal frá.
+6. **Tónleikur.** Sangir frá hansara tannárum og tjúguárum, eitt yndisband ella ein sálmur. Sí okkara [leiðbeining um tónleikavirksemi](/activities/music/).
+7. **Matgerð og grilling.** Vaska grønmeti, róra í einum sósi, forma burgarar ella greiða frá, hvussu hann gjørdi sítt kendu chili, meðan tú gerðar tað.
+8. **Blaðið.** Alzheimer’s Association leggur dent á, at ein persónur, sum altíð las blaðið, enn kann hava hug at gera tað, sjálvt um hann ikki heilt fatar innihaldið. Kaffi og blaðið kunnu framvegis vera partur av morgninum.
+9. **Bygging.** Modellsett við stórum bitum ella einfaldar byggisett fyri vaksin. Vel bitar, sum eru lættir at halda um.
+10. **At taka sær av onkrum.** Geva einum kelidýri at eta, fylla fuglaføðaran ella vanna plantur. NIA nevnir [at geva, stelja ella ganga við einum kelidýri](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sum virksemi, ið fólk kunnu njóta.
 
-## How do I offer an activity without it feeling like busywork?
+## Hvussu bjóði eg eina uppgávu uttan at hon kennist sum uppihaldsarbeiði?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Legg hana fram sum veruliga hjálp. Alzheimer’s Association mælir til at spyrja „Kanst tú hjálpa mær?“ og knýta uppgávur at einum endamáli. Ber saman:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- „Hevur tú hug at skilja hesar boltarnar?“ (kann kenna sum ein roynd)
+- „Eg keypti ein blandaðan posa við amboðum, og eg havi brúk fyri at fáa hetta skilt, áðrenn eg umvæli hillina. Kanst tú hjálpa mær?“ (kann kenna sum ein uppgáva)
 
-Other tips:
+Onnur ráð:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Brúka tilfar fyri vaksin.** Verulig amboð, har hvassar kantir eru tiknar burtur, veruligar skráir, verulig bræv.
+- **Arbeiðið síð um síð.** Tvey fólk, ið arbeiða saman, er felagsskapur. Ein persónur, ið hyggur at einum øðrum, er eftirlit.
+- **Rættleið ikki.** Um boltarnir enda í skeivum bolli, so lat tað vera. Tað, sum hevur týdning, er tíðin saman og kenslan av at vera gagnligur.
+- **Hjálp honum at byrja.** Alzheimer’s Association leggur dent á, at nógv fólk enn hava hug at gera ting, men hava trupult við at skipa og byrja. Ger tað fyrsta saman.
 
-## How do I adapt as things change?
+## Hvussu lagi eg til, tá ið førimunir broytast?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Tá ið demens gongur fram, mælir Alzheimer’s Association til at taka einfaldari og meira endurtakandi uppgávur í nýtslu og vera til reiðar at lata persónin taka ein minni virknan lut. Ein maður, sum áður endurbyggdi motorar, kann nú hava hug at halda um ein reinan skrallulykil og tosa um bilar, ella hyggja at tær arbeiða. At hyggja er eisini at luttaka.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Um hann var sera dugnaligur til okkurt, kann eitt líknandi virksemi kenna betri enn hansara gamla handverk. Felagið leggur dent á, at ein yrkismálari kann gerast frustreraður av broytingum í sínum arbeiði, meðan ein amatørur kann njóta eitt nýtt útrásarveg. Sama kann galda fyri ein meistarasmíð.
 
-## Safety with work-style tasks
+## Trygd við arbeiðslíkum uppgávum
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Tak elamboð, knívar, neglur og skrúvur við hvøssum oddum burtur.
+- Læs til málingsvætur, bensin og kemisk evni.
+- Halt billyklar burtur úr eygsjón, um hann ikki longur koyrir.
+- Hav eftirlit við øllum uppgávum í amboðssmiðjuni og uttanfyri.
+- Vel stórar lutir, sum ikki kunnu verða gloypdir.
 
-## What if he says no?
+## Hvat, um hann sigur nei?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Virða tað. Eitt nei kann merkja, at uppgávan kennist ov torfør, ov barnslig ella bara ikki rætt í dag. Alzheimer’s Association ávarar ímóti at noyða. Royn eina aðra uppgávu, eina aðra tíð ella ver bara saman. Sí [hvat tú kanst gera, tá ið tey siga nei](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Spøl og samtala, sum passa
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) brúkar kend orðatøk og leiðir til samtalu. [Conversation Cards](/games/conversation-cards/) hevur opin og royndarlaus boð eftir evni, sum kunnu lata søgur um arbeiði og áhugamál koma fram. [Picture Puzzle](/games/picture-puzzle/) letur alt myndin vera sjónlig, meðan tit flyta bitar, og [Word Search](/games/word-search/) við stórum stavum kann prentast og gerast við penni við kjøkinborðið. Fyri hættir at tosa um hansara fortíð uttan at royna hann, sí okkara [leiðbeining um minnisvirksemi](/activities/reminiscence/).

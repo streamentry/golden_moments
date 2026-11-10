@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Ne Ame Si Le Dementia Me Gblɔna Be Yeayi Aƒeme"
+seoTitle: "Dementia: Ne Wogblɔna Be Yeayi Aƒeme"
+description: "Nu si tae ame si le agbe nɔm kple dementia gblɔna be yeayi aƒeme, nu si nàgblɔ, nu bɔbɔewo siwo nàte ŋu awɔ, kple ale si nàkpɔ wo ta ne wodi be yewoadzo."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Ne ame si le agbe nɔm kple dementia gblɔna enuenu be yeayi aƒeme la, zi geɖe
+  la, «aƒeme» fia dedienɔnɔ ƒe seselelãme alo teƒe aɖe si le tsã, menye xɔ aɖe
+  ko o. Mègawɔ nyaʋiʋli be ele aƒeme o. Se seselelãmea gɔme, ka ɖe edzi nɛ be
+  ele dedie, bia nu tso aƒeme ŋu, eye emegbe nàtsɔe ayi foto, ha, nuɖuɖu,
+  azɔlizɔzɔ alo dɔ bɔbɔe aɖe gbɔ blewuu. Kpɔe ɖa be dɔ le ewum, tsikɔ le ewum,
+  ehiã be yeayi nugododeƒe, alo vevesese aɖe le eŋu hã. Ne edze egɔme kpata la,
+  yɔ woƒe dɔdala.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "Zi geɖe la, «Medi be mayi aƒeme» fia «Nyemese le ɖokuinye me be mele dedie alo mefa akɔ o», menye biabia tso adrɛs aɖe ŋu o."
+  - "Nyaʋiʋli alo ɖeɖefia be ele aƒeme nana nuxaxa dzina ɖe edzi wu. Ðo ŋu ɖe seselelãmea ŋu."
+  - "Biae be wòagblɔ nu tso aƒeme ŋu na wò, eye emegbe nàtsɔ foto, ha, nuɖuɖu, azɔlizɔzɔ alo dɔ bɔbɔe aɖe vɛ."
+  - "Kpɔ nu siwo woate ŋu aɖɔ ɖo ɖa: dɔwuame, tsikɔ, nugododeƒe, vevesese, dzoxɔxɔ alo vuvɔ akpa, toɣliɖeɖe, alo ɖeɖiteameŋu."
+  - "Ne edzɔna gbe sia gbe le ŋdɔ me lɔƒo la, ate ŋu anye fiẽ me tɔtɔ; ɖoɖo si li ke kple kekeli nyui ate ŋu akpe ɖe ŋu."
+  - "Wɔ ɖoɖo ɖe dedienɔnɔ ŋu ne wodi be yewoadzo, eye yɔ woƒe dɔdala ne tɔtrɔ aɖe dzɔ kpata."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Nu ka tae danye si le dementia me gblɔna enuenu be yeayi aƒeme evɔ ele aƒeme?"
+    a: "Dementia ate ŋu ana xɔ siwo ŋu wònya nyuie nadze abe teƒe bubu ene, eye ɣeaɖewoɣi la, amewo sena le wo ɖokui me be yewole agbe ƒe ɣeyiɣi aɖe si va yi me. «Aƒeme» ate ŋu afia woƒe ɖevime aƒe alo dedienɔnɔ kple akɔfafa ƒe seselelãme ko. Ne èɖo ŋu ɖe seselelãme ma ŋu la, ewɔa dɔ nyuie wu be nàfia teƒe si wòle."
+  - q: "Nu ka magblɔ ne wobia be yewoayi aƒeme?"
+    a: "Àte ŋu agblɔ be «Èle dedie le afisia, eye mele gbɔwò», emegbe nàbia be «Gblɔ nu tso wò aƒe ŋu nam.» Se nya la, fia foto alo ɖo ha aɖe, eye nàna nu woano alo nàzɔ azɔlii kpuie. Ƒo asa na «Èle aƒeme» si wogblɔna abe ɖɔɖɔɖo ene, elabena esia ate ŋu ana wòase le wo ɖokui me be yewole gbegblẽm."
+  - q: "Enyo be magblɔ be míayi aƒeme emegbe a?"
+    a: "Ƒomewo kple habɔbɔ siwo kpɔa dementia dzi la ƒe susu to vovo. Geɖe dzea egɔme kple akɔfafanyawo siwo nye nyateƒe kple mɔfiafia bɔbɔe, eye wodzraa aʋatso fafɛ ɖo na ɣeyiɣi siwo me nyateƒea agblẽ nu le ame si ŋu nèle kpɔm ŋu ko. Nu ka ke nètia hã, wɔ nu kple dɔmenyo eye nànɔ anyi ɖe eŋu, eye mègaɖe alɔme le woƒe nukpɔsusu ŋu o."
+  - q: "Nuka mawɔ ne wodi be yewoadzo le aƒea me?"
+    a: "Fa tu eye nàzɔ kpli wo ɖeɖe be màxe mɔ na wo o; azɔlizɔzɔ kpui aɖe ɖea dzodzroa dzi zi geɖe. Wɔ dedienɔnɔ ƒe afɔɖeɖewo do ŋgɔ, abe alidziblanu si dzi ŋkɔ kple wò telefon xexlẽdzesi le, ʋɔtru ƒe gbeɖiɖi, kple foto yeye ene. Ne womekpɔ wo o la, dze didi gɔme enumake, eye ne mèkpo wo le aɖabaƒoƒo 15 megbe o la, yɔ 112 eye nàgblɔ be dementia le ame si ŋu nèle kpɔm ŋu."
+  - q: "Ɣekaɣie wòle be mayɔ dɔdala?"
+    a: "Yɔ woƒe dɔdala enumake ne biabia alo tɔtɔ dze egɔme kpata alo va le gbegblẽm wu le gaƒoƒo alo ŋkeke ʋɛ aɖewo me, vevietɔ ne dzoxɔxɔ, atike yeye alo adudɔléle ƒe dzesiwo le wo ŋu. Tɔtɔ si dzɔna kpata ate ŋu anye delirium, si hiã beléle kaba. Yɔ 112 ne ame aɖe le afɔku me."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Medi be mayi aƒeme.» Na ƒome geɖe la, esia nye nya sesẽtɔwo dometɔ ɖeka si woase, vevietɔ ne ame si ŋu nèle kpɔm bɔbɔ nɔ woawo ŋutɔ ƒe akpata me. Edzɔna edziedzi, ate ŋu adzɔ le dementia ƒe afɔɖeɖe ɖe sia ɖe me, eye mɔ siwo fa tu eye woate ŋu awɔ dɔe li siwo dzi nàto aɖo eŋu. Axa sia ƒo nu tso nu si nya siawo fia zi geɖe, nu si nàgblɔ, nu siwo nàte ŋu awɔ le ɣeyiɣi ma me, kple ale si mianɔ dedie ŋu.
 
-## Why does someone with dementia keep asking to go home?
+## Nu ka tae ame si le dementia me gblɔna enuenu be yeayi aƒeme?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Zi geɖe la, «aƒeme» nye seselelãme wu teƒe aɖe. Alzheimer's Society ɖe eme be efia akɔfafa kple dedienɔnɔ ƒe seselelãme, alo tsã ƒe aƒe, menye xɔa ŋutɔ o. Dementia ate ŋu ana xɔ siwo ŋu wònya nyuie nadze abe teƒe bubu ene, eye ame aɖe ate ŋu ase le eɖokui me be yele agbe ƒe ɣeyiɣi aɖe si va yi me, ɣeyiɣi si me woƒe aƒe nye woƒe ɖevime aƒe alo teƒe si wona wo viwo tsi le.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Nya siawo ate ŋu afia hã be nu bubu aɖe gblẽ le ɣeyiɣi sia me: dɔ le ewum, tsikɔ le ewum, ehiã be yeayi nugododeƒe, vevesese le eŋu, dzoxɔxɔ alo vuvɔ le ewum akpa, ɖeɖiteameŋu le eŋu, eɖe eɖokui ɖe aga, vɔvɔ̃ le eƒom, alo toɣliɖeɖe na wòtɔtɔ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) yɔ vevesese, toɣliɖeɖe, aɖeɖeɖeaga, tɔtrɔ le gbesiagbe ɖoɖowo me kple atikewo be wonye nu siwo hea dzimaɖitsitsi vɛ.
 
-## What should I say when they ask to go home?
+## Nu ka magblɔ ne wobia be yewoayi aƒeme?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Ðo ŋu ɖe seselelãmea ŋu, menye nyaawo ŋu o. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ɖo aɖaŋu be mègate kpɔ be yeaɖee afia be amea ƒe susu medze o: woƒe seselelãmewo nye nyateƒe, eya ta gbã la, tsɔ akɔfafa kple kakaɖedzi ɖo eŋu, emegbe nàfia mɔe yi nu bubu gbɔ blewuu.
 
-Phrases that often help:
+Nyagbɔgblɔ siwo kpena ɖe ame ŋu zi geɖe:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Yɔ seselelãmea ŋkɔ.** «Edze abe ɖe nèle aƒeme dim vevie ene.»
+- **Ka ɖe edzi nɛ.** «Èle dedie le afisia, eye mele gbɔwò.» [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ɖo nya bɔbɔe siawo ɖa be: «Èle dedie le afisia.»
+- **Kpe wo be woaɖo ŋku nuwo dzi.** «Gblɔ nu tso wò aƒe ŋu nam. Aleke wò nuɖaze nɔ?» Biabia tso tsã ƒe nuwo ŋu fa akɔ na ame wu biabia tso egbe ŋu.
+- **Na mianɔ nu wɔm ɖekae.** «Mína míano tii gbã,» alo «Àte ŋu akpe ɖe ŋunye le awu siawo ŋu a?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Gbe fafɛ kple asi dada ɖe alɔ ŋu, ne wolɔ̃ asikaka, ate ŋu agblɔ nu geɖe wu nyaawo.
 
-## What should I avoid?
+## Nu kawoe mele be mawɔ o?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Nyaʋiʋli alo numeɖeɖe.** «Afisiae nènɔna fifia» alo «Aƒe siae nye wò ƒe blaene sɔŋ» bia tso wo si be woaxɔ nu si dementia nana wòsesẽna be woaxɔ, eye esia ate ŋu ana woase le wo ɖokui me be yewole gbegblẽm.
+- **Nyabiabia fũu akpa.** «Mèɖo ŋku edzi oa?» alo «Adrɛs kae nye ema?» tsɔa nyaƒoɖeamenu kpena ɖe eŋu.
+- **Ʋɔtru tutunu kple dziku.** Ne wodo ta ɖa be yewoadzo la, fa tu eye nàzɔ kpli wo. Azɔlizɔzɔ kpui aɖe ɖekae zi geɖe ɖea dzodzroa dzi.
+- **Nuwɔwɔ kaba.** Na ɣeyiɣi wo be woaƒo nu tso aƒeme ŋu hafi nàtrɔ nya la.
 
-## Activities that can help in the moment
+## Nu siwo nàte ŋu awɔ le ɣeyiɣi ma me
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Ne èse woƒe seselelãmea gɔme vɔ la, nu bɔbɔe aɖe si ŋu wònya, si fa tu, ate ŋu aɖe woƒe susu ayi nu bubu dzi evɔ mègbe woƒe seselelãmea o.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Kpɔ aƒeme kple ƒome ƒe fotowo.** Trɔ axawo eye nàgblɔ nya ʋɛ aɖewo (abe «Kpɔ abɔ ma ɖa» ene) ɖe nyabiabia teƒe. Le telefon alo tablɛt dzi la, [Photo pairs](/games/photo-pairs/) trɔa mia ŋutɔ ƒe ƒomefotoawo zua foto sɔsɔ kple foto ƒe fefe bɔbɔe, eye fotowo nɔa wò mɔ̃a dzi.
+2. **Ƒo nu tso aƒeme ŋu.** [Conversation cards](/games/conversation-cards/) naa dzeɖonya siwo ku ɖe aƒewo, nuɖazewo, aƒelikawo kple azãŋkekewo ŋu, eye ŋuɖoɖo si sɔ alo mesɔ o aɖeke meli o.
+3. **Ɖo ha siwo wolɔ̃na.** National Institute on Aging yɔ ha siwo fa akɔ na ame be wonye mɔ siwo dzi woato aɖe dzimaɖitsitsi dzi. Kpɔ míaƒe [ha ƒe nuwɔnawo](/activities/music/).
+4. **Na nuɖuɖu alo nunono wo.** Dɔwuame kple tsikɔ ate ŋu adze abe dzimaɖitsi ene. Tii alo nuɖuɖu si wolɔ̃na hã nye aƒeme ƒe dzidzɔ sue aɖe.
+5. **Yi azɔlizɔzɔ alo nɔ gota.** Zɔzɔ kple ŋkekea ƒe kekeli kpena ɖe ame ŋu, vevietɔ ne wòle ŋkeke me kaba.
+6. **Na dɔ aɖe si ŋu wonya.** Awu lolɔ̃, gatagbadzɛwo ɖoɖo ɖe ɖoɖo nu alo numiemiewo tsɔtsɔ tsi ate ŋu agbugbɔ aƒeme ƒe seselelãmea vɛ.
+7. **Wɔ nu sia nu blewuu.** Tsi television, ɖe toɣliɖeɖe kple kekeli sesẽ dzi kpɔtɔ, eye miate ŋu awɔ [gbɔgbɔtsɔtsɔ fafɛ](/games/calm-breathing/) ƒe ɣeyiɣi kpui aɖe ɖekae.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Ne susu ɖeka mewɔ dɔ o la, gate bubu kpɔ emegbe. Ne mia kple evea mienɔ anyi kpoo ɖekae la, eya hã nye nu nyui.
 
-## Check for a cause you can fix
+## Kpɔ nu si nàte ŋu aɖɔ ɖo
 
-| Check | What to try |
+| Kpɔ nu sia ɖa | Nu si nàte ŋu awɔ |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Dɔ alo tsikɔ le ewum | Na nunono kple nuɖuɖu sue aɖe wo |
+| Ehiã nugododeƒe | Kpe wo be woayi nugododeƒe, kple fafɛ, evɔ màna woase ŋukpe o |
+| Vevesese alo nuxaxa le wo ŋu | Kpɔ dzesiwo abe mo ʋlili, asi dada ɖe ŋutilã ƒe akpa aɖe dzi, alo midoɖoɖo ene ɖa, eye nàgblɔe na woƒe dɔdala |
+| Dzoxɔxɔ alo vuvɔ le wo wum akpa | Trɔ awu alo xɔa ƒe dzoxɔxɔ |
+| Toɣliɖeɖe alo ame gbogbo aɖewo | Yi xɔ si me ɖoɖoe zi wu la me, tsi television |
+| Ɖeɖiteameŋu alo nu geɖe wu wo | Dzudzɔ, na xɔa naɖo viviti vie, ɖo ha fafɛ |
+| Ŋdɔ me lɔƒo | Kpɔ akpa si ku ɖe fiẽ me tɔtɔ ŋu le ete |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society ɖo aɖaŋu be nàŋlɔ ɣeyiɣi siwo me biabia sia dzɔna ɖi, abe do ŋgɔ na nuɖuɣi, le amedzrowo ƒe vava megbe, alo le fiẽ me ene. Ne èkpɔ ɖoɖo aɖe la, ana wòanɔ bɔbɔe be nàwɔ ɖoɖo do ŋgɔ.
 
-## Is it okay to tell a white lie?
+## Enyo be magblɔ aʋatso fafɛ a?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Esia nye nya si ŋu wodzroa nu le vevie, eye ƒome siwo bua ame ƒe nyawo va ɖoa teƒe vovovowo. Alzheimer's Society gblɔ be ŋuɖoɖo ɖeka si sɔ na ame sia ame aɖeke meli o: aʋatso ate ŋu ana ame aɖewo nagaɖo ŋu ɖe ame ŋu wu, eya ta tia nu si nyo na ame si ŋu nèle kpɔm eye nànɔ anyi ɖe eŋu. Le Penn Memory Center la, mɔfiafiala eveawo dometɔ ɖeka ƒe susu enye be nyateƒea nye gɔmedzedze, eye aʋatso fafɛ dze ko ne amea mate ŋu ase nyateƒe aɖe gɔme o, eye be mele be nàɖe alɔme le woƒe nukpɔsusu ŋu gbeɖe o.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Ame geɖe siwo le ame dzi kpɔm kpɔe be mɔ titina aɖe wɔa dɔ: akɔfafa si nye nyateƒe kple mɔfiafia bɔbɔe gbã («Míanɔ afisia egbe fiẽ, eye mele gbɔwò tututu»), evɔ womawɔ nyaʋiʋli tso teƒe si aƒea le ŋu o.
 
-## What if it happens every afternoon or evening?
+## Nuka mawɔ ne edzɔna gbe sia gbe le ŋdɔ me alo fiẽ me?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Ne dzimaɖitsi dzea egɔme alo gblẽna ɖe edzi le ŋdɔ me lɔƒo la, woyɔa eŋkɔ zi geɖe be fiẽ me tɔtɔ (sundowning). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ɖo aɖaŋu be ɖoɖo si li ke nanɔ anyi, ŋdɔkutsu ƒe kekeli kple nuwɔna nanɔ gbesiagbe, ŋdɔlɔlɔ̃ geɖe megaɖo fiẽ o, eye coffee alo aha megano fiẽ o. Kekeli siwo wosi do ŋgɔ na fiẽɖoɖo hã ate ŋu akpe ɖe ŋu. Míaƒe mɔfiame si ku ɖe [nuwɔna siwo fa tu le ŋdɔ me lɔƒo](/caregiving/late-day-restlessness/) ŋu la gblɔ nu geɖe wu.
 
-## Keeping them safe if they try to leave
+## Ale si nàkpɔ wo ta ne wodi be yewoadzo
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Ne wogblɔ be yewoayi aƒeme la, ate ŋu ana woatsa azɔli ayi teƒe bubu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) bu akɔnta be ame siwo le agbe nɔm kple dementia dome ame ade le ewo ɖe sia ɖe me atsa azɔli ayi teƒe bubu zi ɖeka ya teti.
 
-**Prepare ahead:**
+**Wɔ ɖoɖo do ŋgɔ:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Alidziblanu alo dɔnɔkɔdziblanu si dzi woƒe ŋkɔ kple wò telefon xexlẽdzesi le, kple ŋkɔdzesiwo le woƒe awuwo me. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) yɔ MedicAlert kple Alzheimer's Association Safe and Found ƒe ɖoɖoa ŋkɔ, si ate ŋu abia ga.
+- Ʋɔtru ƒe gbeɖiɖi alo nuxlɔ̃ame, kple gaƒoƒowo siwo woda ɖe dzi alo anyi. Mègatu ame si ŋu nèle kpɔm ɖe aƒe me ɖeɖe o.
+- Foto yeye si te ɖe wo ŋu, kple teƒe siwo woate ŋu ayi, abe woƒe tsã aƒe alo dɔwɔƒe ene, ƒe xexlẽdzesi.
+- Gblɔe na aƒelikawo siwo dzi nèka ɖo, eye nàna wò telefon xexlẽdzesi wo.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Ne womekpɔ wo o:** dze didi gɔme enumake; Alzheimer's Association gblɔ be wokpɔa ame geɖe le kilometa 2.4 me. Ne mèkpo wo le aɖabaƒoƒo 15 megbe o la, yɔ 112 eye nàgblɔ be dementia le ame si ŋu nèle kpɔm ŋu. Yɔ 112 enumake ne ame aɖe le afɔku me.
 
-## When should I call a doctor?
+## Ɣekaɣie wòle be mayɔ dɔdala?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Yɔ woƒe dɔdala enumake ne biabia alo tɔtɔ dze egɔme kpata, alo va le gbegblẽm wu le gaƒoƒo alo ŋkeke ʋɛ aɖewo me. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) gblɔ be ele be woakpɔ nuwɔna si trɔ kpata alo si le tɔtrɔm kabakaba, vevietɔ le dɔléle alo atike ƒe tɔtrɔ megbe, enumake. Tɔtɔ si dzɔna kpata ate ŋu anye delirium, si [NHS](https://www.nhs.uk/symptoms/confusion/) gblɔ be ehiã kpekpeɖeŋu kaba; adudɔléle nye nu si hea esia vɛ zi geɖe le ame tsitsiwo ŋu.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Enyo hã be nàgblɔ ɖoɖo si li ke ŋu nya le kpekpe si kplɔe ɖo me, elabena vevesese, nuxaxa, alɔ̃dɔdɔ ƒe kuxiwo alo atike ƒe ŋusẽkpɔɖeamedzi ate ŋu akpɔ gome le eme.

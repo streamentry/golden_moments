@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Erdiko faseko dementziarako jarduerak"
+seoTitle: "Erdiko faseko dementziarako jarduera errazak"
+description: "Erdiko faseko dementziarako jarduera errazak: etxeko lanak, musika, argazkiak eta joko sinpleak, pausoz pauso prestatzeko aholkuak."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Erdiko faseko dementzian, jarduerarik egokienak laburrak, ezagunak eta pauso
+  bakarrean banatuak izaten dira: arropa tolestea, galtzerdiak parekatzea,
+  ontziak garbitzea, abestea, paseo gidatuak, argazki-albumak eta irudi-joko
+  errazak. Prestatu dena, erakutsi lehen pausoa, hartu zati zailenak eta eman
+  helburu bat jarduerari. Gelditu atsegina izateari uzten dionean.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Etxeko lan ezagunak askotan ondo funtzionatzen dute, erabilgarri eta heldu sentiarazten dutelako."
+  - "Erakutsi hitz egin beharrean, eskaini pauso bat aldi bakoitzean, eta eman bi aukera erraz galdera irekien ordez."
+  - "Hartu zatirik zailena, zaintzen duzun pertsonak zati atsegina egin dezan."
+  - "Urratsik ez izateak askotan zerbait egiteko beharra adierazten du. Eskaini jarduera egoki bat, ezetz esan beharrean."
+  - "Begira egotea, pixka bat laguntzea edo lehenago gelditzea guztiz ondo dago."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Zein jarduera dira egokiak erdiko faseko dementziarako?"
+    a: "Laburrak, ezagunak eta eskuekin egiteko jarduerak izaten dira egokienak: eskuoihalak tolestea, galtzerdiak parekatzea, ontziak garbitzea, mahaia jartzea, abesti ezagunak abestea, paseo gidatuak, argazki-albumak ikustea eta irudi-joko errazak. Banatu jarduera bakoitza pauso bakarretan eta egin elkarrekin."
+  - q: "Nola bultzatu dezaket dementzia duen pertsona bat jarduera bat hasteko?"
+    a: "Prestatu dena aurretik, hasi zuk jarduera eta gonbidatu laguntzera: «Esku bat emango didazu eskuoihal hauekin?». Askok parte hartu nahi dute, baina zaila egiten zaie hastea. Lehen pausoa erakustea azaltzea baino eraginkorragoa izaten da."
+  - q: "Zer egin dezaket gauza bera behin eta berriz egiten jarraitzen badu?"
+    a: "Errepikatzea askotan kaltegabea da, eta pertsonak lanpetuta egoteko edo lasaitasuna sentitzeko beharra duela adieraz dezake. Zuzendu beharrean, eskaini mugimendu horrekin bat datorren jarduera bat, adibidez, tolesteko eskuoihal-saski bat edo elkarrekin abesteko abesti bat."
+  - q: "Zer gertatzen da jarduera gaizki egiten badu?"
+    a: "Kaltegabea bada, utzi horrela. Ez du axola eskuoihalak beste era batera tolesten baditu edo koilarak leku okerrean uzten baditu. Zuzentzeak kritika gisa senti daiteke; bere erara egiten uzteak, berriz, gai eta erabilgarri sentiarazten dio."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Dementziaren erdiko fasea askotan luzeena izaten da, eta jarduerek benetako laguntza behar izaten hasten diren garaia ere bai. Hitzak aurkitzea zailagoa da, pausoak nahastu egiten dira, eta zerbait hastea nekeza izan daiteke. Baina erabilgarri eta parte hartzen jarraitzeko gogoa, oro har, mantendu egiten da. Prestaketa pixka batekin, erdiko fasean dagoen pertsonak oraindik ere gauza askorekin gozatu dezake, batez ere zure ondoan egiten dituen lan ezagunekin, musikarekin eta irudiekin.
 
-## What activities work well in middle-stage dementia?
+## Zein jarduera funtzionatzen dute ondo erdiko faseko dementzian?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Laburrak, ezagunak eta eskuekin egiteko jarduerak dira egokienak, pauso bakarretan banatuta. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) erakundearen arabera, ez duzu jarduera berririk asmatu behar: eguneroko bizitzaren parte izan daitezke, hala nola elkarrekin afaltzea prestatzea, lorategian aritzea, musika entzutea edo paseo bat ematea.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) erakundeak dio fase honetan dauden pertsonek askotan helburua izateko edo norbait zaintzeko premia handia dutela, eta laguntza behar dutela jarduerak hasteko edo jarraitzeko. Erdiko faserako proposamenen artean daude arropa tolestea, ontziak garbitzea, galtzerdiak parekatzea, ariketa erraza egitea, musika ezagunarekin dantzatzea, paseo gidatuak, elkarrekin abestea, margolan errazak egitea eta argazki-albumak ikustea.
 
-## How do you set up an activity so it works?
+## Nola prestatu jarduera bat ondo irteteko?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Jarduera gehienak prestaketan arrakastatsuak edo zailak izaten dira. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) eta [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) erakundeek proposatutako ohitura hauek laguntza handia eman dezakete:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Garbitu espazioa.** Itzali telebista, itxi atea eta jarri mahai gainean jarduerarako behar dena soilik.
+2. **Hasi zuk.** Hasi tolesten edo nahasten eta gonbidatu parte hartzera: «Lagunduko didazu honekin?»
+3. **Erakutsi, eta itxaron.** Erakutsi pauso bat. Erabili hatza edo eskua gidatzeko, adibidez, platera non jarri erakusteko.
+4. **Eman pauso bat aldi bakoitzean.** «Tolestu erditik» errazagoa da «tolestu hauek eta pilatu kolorearen arabera» baino.
+5. **Eman bi aukera, ez galdera irekiak.** «Eskuohail urdinak ala zuriak?» errazagoa da erantzuteko «Zer egin nahi duzu?» baino.
+6. **Egin zuk zati zaila.** Zuk neurtzen duzu, berak edo hark nahasten du. Zuk haria pasatzen duzu, berak edo hark haria biltzen du.
+7. **Eman zentzua jarduerari.** «Zapi hauek igandeko afarirako dira» esateak benetako helburua ematen dio lanari.
+8. **Utzi begira egoten nahiago badu.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) erakundeak gogorarazten du begira egotea ere atsegina izan daitekeela.
 
-## Activity ideas for the middle stage
+## Jarduera proposamenak erdiko faserako
 
-### Useful jobs
+### Etxeko lan erabilgarriak
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Tolestu eskuoihalak eta esku-zapiak.** Ehun txiki eta lauak dira errazenak. Esku-zapi beroz betetako saski bat tolestu, lautu eta berriro tolestu daiteke.
+- **Parekatu galtzerdiak.** Hasi oso desberdinak diren pare gutxi batzuekin. Kolorearen arabera sailkatzea ere nahikoa da.
+- **Garbitu edo lehortu apurtzen ez diren ontziak.** Ur epel eta xaboiaren sentsazioa atsegina da eskuetan. Eserita lehortzea errazagoa da hankentzat.
+- **Jarri mahaia.** Eman elementu mota bat aldi bakoitzean, eta jarri zuk leku bat eredu gisa.
+- **Lagundu afaria prestatzen.** Patatak garbitzea, uraza urratzea edo ontzi batean nahastea. Labana eta beroa zuk kudeatu.
+- **Erratza pasatzea, hautsa kentzea edo garbitzea.** Zapi bat mahairako, erratza arin bat atarirako.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Ikusi [etxeko lanak](/activities/household-tasks/) ideia gehiagorako.
 
-### Music and movement
+### Musika eta mugimendua
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Abestu abesti ezagunak.** Hasi zuk abesten; askok hamarkadetan ezagutzen dituzten abestiekin bat egiten dute. Ikusi [musika-jarduerak](/activities/music/).
+- **Dantzatu askatasunez.** Kulunkatu, txalo egin edo mugitu ondo sentiarazten duen moduan. Eserita ere egin daiteke.
+- **Puxika bat jaurti.** Astiro mugitzen da eta erraza da aulkitik harrapatzea.
+- **Eman paseo gidatu bat.** Egin elkarrekin ibilbide labur eta ezagun bat, besotik helduta lagungarria bada.
 
-### Pictures and stories
+### Irudiak eta istorioak
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Begiratu argazki-album bat.** Egin ikusten duzunari buruzko iruzkinak, galderak egin beharrean: «Begira auto hori. Esadazu zer gogorarazten dizun». Ikusi [oroitzapen-jarduerak](/activities/reminiscence/).
+- **Erabili elkarrizketa-txartelak.** [Conversation cards](/games/conversation-cards/) jokoak irudi bat eta galdetegi modukoa ez den galdera ireki bat eskaintzen ditu.
+- **Ikusi elkarrekin film zahar bat.** Aukeratu ezaguna den bat, egon ondoan eta egin atsedenaldiak behar denean.
 
-### Simple, pressure-free games
+### Jolas errazak, presiorik gabe
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Irudi bikoteak, irudiak ikusgai.** [Picture pairs](/games/picture-pairs/) jokoan irudiak ikusgai gera daitezke; beraz, arreta jartzea da garrantzitsua, ez gogoratzea.
+- **Aurkitu berdina.** [Find the same](/games/find-the-same/) jokoak irudi bat eta bi edo lau aukera besterik ez ditu erakusten.
+- **Sailkatu elkarrekin.** [Sort together](/games/sort-together/) arropa pantailan sailkatzea bezalakoa da: ukitu irudi bat, eta gero haren saskia.
+- **Irudi-bingoa.** [Picture bingo](/games/picture-bingo/) egokia da familia-bileretarako eta taldeentzat.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Jolas batek ezinegona sortzen hasten bada, gelditu eta egin beste zerbait. Ikusi [nola jolastu elkarrekin](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Urratsik eza jarduera bihurtzea
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Urratsik ez izateak edo jokabide errepikakorrek askotan arrazoiren bat izaten dute. Family Caregiver Alliance erakundeak dio armairu bat behin eta berriz husten ari den pertsona lanpetuta eta erabilgarri sentitzeko beharrari erantzuten saiatzen ari dela. Alzheimer's Association erakundeak gomendatzen du energia hori antzeko jarduera batera bideratzea, geldiarazten saiatzea baino.
 
-| What you see | Something to offer |
+| Ikusten duzuna | Eskaintzeko zerbait |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Mahaia igurzten edo hazkatzen | Zapi heze bat eta mahaia garbitzeko eskea |
+| Hankak geldi ez egotea edo tak-tak egitea | Erritmo argiko musika, erritmoa jarraitzeko edo txaloak emateko |
+| Tiraderak edo armairuak husten | Arropa- edo eskuoihal-saski bat, tolesteko eta sailkatzeko |
+| Galdera bera behin eta berriz egitea | Lasaitasuna eman, eta gero abesti bat edo elkarrekin egiteko lan bat |
+| Alde batetik bestera ibiltzea | Elkarrekin paseo bat, edo gauzak eramatea dakarren lan bat |
+| Arratsalde amaierako ezinegona | Lan lasai eta ezagun bat, argi onean; ikusi [arratsalde amaierako ezinegona](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Noiz gelditu edo norabidea aldatu
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Gelditu nekea, ezinegona, lotsa edo asperdura ikusten duzunean: ezinegon fisikoa, kopeta zimurtzea, gauzak baztertzea edo «ezin dut» esatea. Alzheimer's Association erakundeak iradokitzen du eguneko beste une batean berriro saiatzea edo jarduera errazagoa egitea. Ez behartu. Ezezko batek beldurretik edo zeregina zailegia izatetik etor daiteke; ikusi [ezetz esaten duenean](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Lehenago amaitzea ondo dago. Baita elkarrekin eseri eta te bat hartzea ere. Gaitasunak gehiago aldatzen diren heinean, [azken faseko jarduerak](/activities/late-stage/) egokiagoak izan daitezke, eta [101 jarduera](/activities/ideas/) atalean ideia gehiago aurkituko dituzu.

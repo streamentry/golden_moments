@@ -1,34 +1,29 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "ཉིམ་ཕྱེད་རྗེས་ཀྱི་ཞི་འཇགས་བྱེད་ལས།"
+seoTitle: "ཉིམ་ཕྱེད་རྗེས་ཀྱི་ཞི་འཇགས་བྱེད་ལས།"
+description: "དྲན་ཤེས་ཉམས་པའི་མི་ཚུ་ལུ་ ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་ཉུང་བཅུག་ནི་ལུ་ ཉིན་རེའི་ལམ་ལུགས་དང་ཁང་མིག་བསྒྱུར་བཅོས། ཞི་འཇགས་བྱེད་ལས་ཚུ་དང་ ནད་རྟགས་གསརཔ་ཡང་ན་ཚབས་ཆེར་འགྱོ་བའི་སྐབས་སྨན་པ་ལུ་འབོད་དགོ་པའི་སྐོར།"
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་ (Sundowning) ཟེར་མི་འདི་ ཉིམ་ཕྱེད་རྗེས་སམ་དགོང་མོ་ལུ་ མི་བདེ་བ། སེམས་ཁྲལ། ཡང་ན་ཁོང་ཁྲོ་ལྡན་ཏེ་ འགོ་བཙུགས་པའམ་ཚབས་ཆེར་འགྱོ་བའི་གནས་སྟངས་ལུ་ཟེརཝ་ཨིན། ཕན་ཐོགས་འབྱུང་སྲིད་པའི་ལམ་སྟོན་ཚུ་ནང་ ཉིན་རེའི་ལམ་ལུགས་གཅིག་མཚུངས་བཞག་པ། ཉིནམ་གུ་ཉི་འོད་དང་བྱེད་ལས་བྱེད་པ། ཉིམ་ཕྱེད་རྗེས་ཉལ་གཞི་ཉུང་བཅུག་པ། ཀ་ཕི་ལ་སོགས་པ་ཉུང་བཅུག་པ། ས་རུབ་མ་འགྱོ་བའི་ཧེ་མ་ནང་ན་གློག་འོད་བཏོན་པ། ཁང་མིག་ཁ་རྒྱབ་ཞི་འཇགས་བཟོ་བ། དེ་ལས་ རོལ་དབྱངས་ཉན་པ། པར་བལྟ་བ། ཡང་ན་གོས་ཆུང་བལྟབ་པ་བཟུམ་གྱི་ཞི་འཇགས་བྱེད་ལས་ཚུ་བྱེད་པ་ཚུ་ཨིན། ནད་རྟགས་གསརཔ་ཡང་ན་ཧེ་མ་ལས་ཚབས་ཆེར་འགྱོ་བ་ཅིན་ སྨན་པ་ལུ་ཞིབ་དཔྱད་འབད་དགོ།
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་ཟེར་མི་འདི་ ཉིམ་གསོག་ཏེ་འགྱོ་བའི་སྐབས་ མི་བདེ་བའམ་སེམས་ཁྲལ་འགོ་བཙུགས་པའམ་ཚབས་ཆེར་འགྱོ་བ་ལུ་ཟེར།"
+  - "དཀའ་ངལ་དང་ལས་ཀ་ཚབས་ཆེ་བ། ཕྱི་ཁར་འགྱོ་ནི། ཁྲུས་གཏང་ནི་ཚུ་ ཞོགས་པ་ཡང་ན་ཉིམ་ཕྱེད་སྔ་པོ་ལུ་བྱེད།"
+  - "ཉི་འོད་ལེན་པ། ཉིན་རེ་འགྲུལ་བཞུད་འབད་བ། ཉིམ་ཕྱེད་རྗེས་ཉལ་གཞི་ཉུང་བཅུག་པ། དེ་ལས་ཉིམ་ཕྱེད་རྗེས་ཀ་ཕི་ལ་སོགས་པ་ཉུང་བཅུག་མི་འདི་གིས་ དགོང་མོ་ཞི་འཇགས་སྦེ་འགྱོ་ནི་ལུ་ཕན་ཐོགས་འབྱུང་སྲིད།"
+  - "ས་རུབ་མ་འགྱོ་བའི་ཧེ་མ་ནང་གློག་འོད་བཏོན། སྒྲ་སྐད་ཉུང་བཅུག དེ་ལས་ངོས་ཤེས་ཡོད་པའི་ཞི་འཇགས་བྱེད་ལས་ལུ་བསྒྱུར།"
+  - "ག་ཅི་གིས་མི་བདེ་བ་བཟོ་མི་ཨིན་ན་ཧ་གོ་ནི་ལུ་ ཉིནམ་ལ་ལོ་ཅིག་གི་དོན་ལུ་ཐུང་ཀུ་སྦེ་བརྗེད་ཐོ་བཀོད། མི་བདེ་བ་འགོ་བཙུགས་པའི་སྐབས་ ཁྱོད་ར་ཞི་འཇགས་དང་སེམས་གསོ་སྦེ་སྡོད།"
+  - "ནད་རྟགས་གསརཔ་ཡང་ན་ཧེ་མ་ལས་ཚབས་ཆེར་འགྱོ་བ་ཅིན་ སྨན་པ་ལུ་ཞིབ་དཔྱད་འབད་དགོ། ན་ཟུག ནད་འབུ་ཡང་ན་སྨན་གྱིས་ཀྱང་ཆ་ཤས་བྱེད་སྲིད།"
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་འདི་ སྤྱིར་བཏང་ཉིནམ་གྱི་དུས་ཚོད་ག་དུས་འབྱུང་སྲིད?"
+    a: "འདི་སྤྱིར་བཏང་ ཉིམ་ཕྱེད་རྗེས་སམ་དགོང་མོ་སྔ་པོ་ལུ་ ཉིམ་གསོག་ཏེ་འགྱོ་བའི་སྐབས་འགོ་བཙུགས་པའམ་ཚབས་ཆེར་འགྱོཝ་ཨིན། དུས་ཚོད་ཏག་ཏག་འདི་ མི་རེ་རེ་ལུ་སོ་སོ་ཨིན། དེ་འབདཝ་ལས་ བདུན་ཕྲག་གཅིག་གམ་གཉིས་ཀྱི་རིང་ལུ་ཐུང་ཀུ་སྦེ་བརྗེད་ཐོ་བཀོད་པ་ཅིན་ ཕན་ཐོགས་འབྱུང་སྲིད།"
+  - q: "ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་ལུ་ བྱེད་ལས་ག་ཅི་ཚུ་གིས་ཕན་ཐོགས་འབྱུང་སྲིད?"
+    a: "ཉིམ་ཕྱེད་རྗེས་ལུ་ ངོས་ཤེས་ཡོད་པའི་ཞི་འཇགས་དང་ ལཱ་ཁག་མི་ཆེ་བའི་བྱེད་ལས་ཚུ་གིས་ལེགས་ཤོམ་འབདཝ་ཨིན། དཔེར་ན་ སེམས་གསོ་འབད་མི་རོལ་དབྱངས་ཉན་པ། པར་བལྟ་བ། དགའ་མི་རྒྱང་འཕྲིན་ལས་རིམ་བལྟ་བ། གོས་ཆུང་བལྟབ་པ། ཐུང་ཀུ་སྦེ་འགྲུལ་བཞུད་འབད་བ། ཡང་ན་མཉམ་དུ་ཟས་ཕྲུག་ཟ་བ་ཚུ་ཨིན། བྱེད་ལས་གསརཔ་ཡང་ན་དཀའ་ངལ་ཅན་ཚུ་ ཉིནམ་གྱི་སྔ་པོ་ལུ་བྱེད།"
+  - q: "ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་འདི་ གཟུགས་ཁམས་ཀྱི་གནད་དོན་ཅིག་གི་རྟགས་ཨིན་སྲིད་ག?"
+    a: "ན་ཟུག གཅིན་ལམ་ནད་འབུ་བཟུམ་གྱི་ནད་འབུ། ཉལ་གཞིའི་དཀའ་ངལ། ཡང་ན་སྨན་གྱི་ནུས་པ་ལ་སོགས་པའི་ གཟུགས་ཁམས་ཀྱི་དཀའ་ངལ་ཚུ་གིས་ འདི་ཚབས་ཆེར་བཟོ་སྲིད། མི་བདེ་བ་འདི་གསརཔ་ཨིན་པ་ཅིན། ཡང་ན་ཧོད་ལས་འགོ་བཟུང་ཡོད་པ་ཅིན། ཡང་ན་ཚབས་ཆེར་འགྱོ་དོ་ཡོད་པ་ཅིན་ ཁོང་གི་སྨན་པ་ལུ་འབྲེལ་བ་འཐབ།"
+  - q: "ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་ཀྱི་དོན་ལུ་ སྨན་པ་ལུ་སྨན་གྱི་སྐོར་ལས་དྲི་དགོཔ་ཨིན་ན?"
+    a: "འདི་སྨན་པ་དང་གཅིག་ཁར་གྲོས་བསྡུར་འབད་དགོ་པའི་གནད་དོན་ཅིག་ཨིན། Alzheimer's Association གིས་ སྤྱིར་བཏང་སྨན་མེད་པའི་ཐབས་ཤེས་ཚུ་དང་པ་ར་འབད་ནི་ལུ་གདམ་ཁ་རྐྱབ་ཟེར་སླབ་ཨིན། དེ་ལས་ དགོང་མོའི་མི་བདེ་བ་ཀྱི་དོན་ལུ་སྨན་འདི་ ཉེན་ཁ་དང་ཕན་ཐོགས་ཞིབ་དཔྱད་འབད་ཞིནམ་ལས་ རྗེས་མ་ལུ་བསམ་བཞག་འབད་དགོ་ཟེར་ཡང་སླབ་ཨིན། ཤོག་ལེབ་འདི་ནང་ སྨན་གྱི་སྐོར་ལས་སླབ་སྟོན་མི་འབད།"
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +42,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+བཟའ་ཚང་མང་ཤོས་ཅིག་གིས་ ལམ་ལུགས་གཅིག་པ་འདི་མཐོངམ་ཨིན: ཞོགས་པ་ལུ་བདེ་ཏོག་ཏོ་སྦེ་འགྱོཝ་ཨིན་རུང་ ཉིམ་ཕྱེད་རྗེས་ལུ་ ཁྱོད་ཀྱིས་བདག་འཛིན་འཐབ་མི་ དྲན་ཤེས་ཉམས་ཏེ་ཡོད་པའི་མི་དེ་ མི་བདེ་བ། སེམས་ཁྲལ། སེམས་ཁྲལ་འཐོམ་པ། ཡང་ན་ཁོང་ཁྲོ་ལྡན་ནི་ཚུ་འགོ་བཙུགསཔ་ཨིན། ཁོང་གིས་ འཆག་འཆགཔ་འབད་སྲིད། ཁང་མིག་ནང་སྡོད་རུང་ “ཁྱིམ་ལུ་འགྱོ་དགོ” སྦེ་དྲི་སྲིད། ཡང་ན་ འཇམ་ཏོག་ཏོ་སྦེ་ཁོང་ཁྲོ་ལང་སྲིད། འདི་ལུ་ སྤྱིར་བཏང་ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་ (sundowning) ཟེར་སླབ་ཨིན།
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+འདི་ལུ་ ཐབས་ཤེས་གཅིག་རྐྱང་མེད་རུང་ ཉིནམ་གྱི་ལམ་ལུགས། ཁང་མིག་གི་གནས་སྟངས། དེ་ལས་ཁྱོད་ཀྱིས་ཕུལ་མི་བྱེད་ལས་ཀྱི་རིགས་ཚུ་བསྒྱུར་བཅོས་འབད་བ་ཅིན་ ཉིམ་ཕྱེད་རྗེས་ཞི་འཇགས་སྦེ་འགྱོ་ནི་ལུ་ཕན་ཐོགས་འབྱུང་སྲིད། ཤོག་ལེབ་འདི་ནང་ National Institute on Aging དང་ Alzheimer's Association ལས་ སྨན་མེད་པའི་ལག་ལེན་བསྟར་བཏུབ་པའི་བསླབ་བྱ་ཚུ་བསྡུ་ཡོདཔ་ཨིན། འདི་སྨན་བཅོས་ཀྱི་སླབ་སྟོན་མེན། ནད་རྟགས་འདི་གསརཔ་ཨིན་པ་ཅིན། ཡང་ན་ཧོད་ལས་འགོ་བཟུང་ཡོད་པ་ཅིན། ཡང་ན་ཚབས་ཆེར་འགྱོ་དོ་ཡོད་པ་ཅིན་ ཁོང་གི་སྨན་པ་དང་གཅིག་ཁར་གྲོས་བསྡུར་འབད།
 
-## What is sundowning?
+## ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་ཟེར་མི་འདི་ག་ཅི་སྨོ?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་ཟེར་མི་འདི་ ཉིམ་ཕྱེད་རྗེས་སམ་དགོང་མོ་སྔ་པོ་ལུ་ ཉིམ་གསོག་ཏེ་འགྱོ་བའི་སྐབས་ མི་བདེ་བ། སེམས་ཁྲལ། ཁོང་ཁྲོ། ཡང་ན་སེམས་ཁྲལ་འཐོམ་པ་ཚུ་འགོ་བཙུགས་པའམ་ཚབས་ཆེར་འགྱོ་བ་ལུ་ཟེརཝ་ཨིན། [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) གིས་ ཐང་ཆད་དྲགས་པ་ཅིན་ ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་འཕར་སྲིད་ཟེར་སླབ་ཨིན།
 
-## What can make late-day restlessness worse?
+## ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་ཚབས་ཆེར་བཟོ་མི་ག་ཅི་ཚུ་ཨིན་སྲིད?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+རྒྱུ་མཚན་ལེ་ཤ་ཅིག་མཉམ་དུ་ཆ་ཤས་བྱེད་སྲིད། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) གིས་ འོག་གི་རྒྱུ་མཚན་ཚུ་བརྗོད་ཡོད:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- ཉིནམ་ཧྲིལ་བུ་ལས་ཀ་འབད་ཞིནམ་ལས་ཐང་ཆད་པ།
+- ས་ཁོངས་གསརཔ་ཡང་ན་སེམས་ཁྲལ་འཐོམ་མི།
+- ལུས་ཀྱི་ནང་ཁུལ་གྱི་དུས་ཚོད་ (body clock) མི་མཐུན་པས་ ཉིནམ་གུ་ཉལ་འདོདཔ་དང་མཚན་མོ་མིག་དཀར་འབྱུང་བ།
+- གློག་འོད་ཉུང་བ་དང་གྲིབ་མ་ཚུ་གིས་སེམས་ཁྲལ་འཐོམ་བཟོ་བ།
+- མཐའ་འཁོར་གྱི་མི་ཚུ་གི་སེམས་ཁྲལ་དང་བློ་ཕམ་ཚོར་བ།
+- ཉལ་གཞི་ཉུངམ་སྦེ་དགོཔ་ འདི་ག་རྒས་ཆེ་བའི་མི་ལུ་སྤྱིར་བཏང་མཐོངམ་ཨིན།
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA གིས་ མི་བདེ་བ་ཡར་རྒྱས་འགྱོ་བའི་རྒྱུ་མཚན་གཞན་ཚུ་ཡང་སླབ་ཨིན། དཔེར་ན་ ན་ཟུག སེམས་ཁྲལ་ཡང་ན་དཀའ་ངལ། ངལ་གསོ་མ་ལངམ། ལོངས་མ་བཤལ་བ། སྒྲ་སྐད་དྲགས་པའམ་མི་མང་དྲགས་པ། དེ་ལས་སྨན་ཁ་ཤས་ཡང་ན་སྨན་གྱི་ཕན་ཚུན་ནུས་པ་ཚུ་ཨིན།
 
-## How can I plan the day to make evenings calmer?
+## དགོང་མོ་ཞི་འཇགས་སྦེ་འགྱོ་ནི་ལུ་ ཉིནམ་གྱི་ལམ་ལུགས་ག་དེ་སྦེ་འཆར་གཞི་བཟོ་དགོ?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+ལཱ་ཁག་ཆེ་བའི་བྱེད་ལས་ཚུ་ཉིནམ་གྱི་སྔ་པོ་ལུ་བསྒྱུར་ཞིནམ་ལས་ ཉིམ་ཕྱེད་རྗེས་འདི་ ཞི་འཇགས་དང་སྔོན་ཤེས་འབད་བཏུབ་སྦེ་བཞག། NIA དང་ Alzheimer's Association གཉིས་ཆ་རང་གིས་ ཉིན་རེའི་ལམ་ལུགས་གཅིག་མཚུངས་བཞག་ནི་ལུ་སླབ་ཨིན། ཁྱོད་རའི་གནས་སྟངས་དང་བསྟུན་ཏེ་བསྒྱུར་བཏུབ་པའི་ཉིནམ་གྱི་དཔེ་གཞི་ཅིག:
 
-| Time | What may help |
+| དུས་ཚོད | ཕན་ཐོགས་འབྱུང་སྲིད་པའི་བྱ་བ |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| ཞོགས་པ | མི་མང་ཤོས་ཀྱིས་དྲན་ཤེས་གསལ་བའི་སྐབས་ ཐུག་འཕྲད། ཁྲུས་གཏང་ནི། ཕྱི་ཁར་འགྱོ་ནི། དེ་ལས་ལཱ་ཁག་ཆེ་བའི་ལས་ཀ་ཚུ་བྱེད། |
+| ཞོགས་ཀས་ཕྱེད | ཕྱི་ཁར་ཡང་ན་ཉི་འོད་འཐོར་སའི་སྒེའུ་ཁུང་གི་ཁ་ཐུག་ལུ་དུས་ཚོད་སྤྱད། འགྲུལ་བཞུད་ཡང་ན་བྱེད་ལས་གཞན་འབད། |
+| ཉིན་གུང | ཉིན་གུང་གི་ཟས་མང་ཙམ་ཟ། (Alzheimer's Association གིས་ ཉིན་གུང་ཟས་མང་ཙམ་དང་དགོང་ཟས་ཡངས་ཤོས་ཟ་ནི་ལུ་སླབ་ཨིན།) |
+| ཉིམ་ཕྱེད་སྔ་པོ | དགོས་མཁོ་ཡོད་པ་ཅིན་ངལ་གསོ་སྦེ་སྡོད་རུང་ ཉིམ་ཕྱེད་རྗེས་རིངམ་སྦེ་མི་ཉལ་ནི་ལུ་གཟབ། |
+| ཉིམ་ཕྱེད་བར་མ | ངོས་ཤེས་ཡོད་པའི་ཞི་འཇགས་བྱེད་ལས། ཟས་ཕྲུག་དང་འཐུང་ནི་ཅིག། ཀ་ཕི་ལ་སོགས་པ་མི་འཐུང་། |
+| ས་རུབ་མ་འགྱོ་བའི་ཧེ་མ | ས་མ་རུབ་པའི་ཧེ་མ་ནང་ ནང་གི་གློག་འོད་བཏོན་ཞིནམ་ལས་ཡོལ་ཐིག་བཀག |
+| དགོང་མོ | ཡངས་ཤོས་ཀྱི་ཟས། ཁ་རྒྱབ་ཀྱི་རོལ་དབྱངས། བརྩོན་ཤུགས་ཉུང་བ། ཉལ་ནིའི་ལམ་ལུགས་གཅིག་མཚུངས་བཞག། |
 
-A few specific points from the sources:
+འབྱུང་ཁུངས་ནང་ལས་གལ་ཆེ་བའི་གནད་དོན་ལ་ལོ་ཅིག:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **ཉི་འོད།** NIA གིས་ ཉིན་རེ་ཕྱི་ཁར་ཡང་ན་སྒེའུ་ཁུང་གི་ཁ་ཐུག་ལུ་ ཉི་འོད་ལེན་ནིའི་དུས་ཚོད་འཆར་གཞི་བཟོ་ནི་ལུ་སླབ་ཨིན།
+- **ཉིན་རེའི་ལུས་སྦྱོང་།** ཉིན་རེ་ལུས་སྦྱོང་འབད་རུང་ བྱེད་ལས་མང་དྲགས་པ་མི་འཆར་ནི་ལུ་ NIA གིས་སླབ་ཨིན།
+- **ཉིམ་ཕྱེད་རྗེས་ཀྱི་འཐུང་ནི།** ཉིམ་ཕྱེད་རྗེས་ཆང་དང་ ཀ་ཕི་ཡང་ན་ཀོ་ལ་བཟུམ་གྱི་ཀ་ཕི་ཡོད་པའི་འཐུང་ནི་ཚུ་ཟ་ནི་ལས་འཛེམ། (NIA) Alzheimer's Association གིས་ ཏམ་ཁུ་ཡང་བརྗོད་ཡོད།
+- **ཉལ་གཞི།** ཉིམ་ཕྱེད་རྗེས་རིངམ་སྦེ་ཉལ་ནི་དང་ ཉལ་འདོདཔ་སྦེ་སྡོད་ནི་ལས་འཛེམ། (NIA) མཚན་མོ་ཉལ་གཞི་ལེགས་ཤོམ་མི་འབབ་པ་ཅིན་ ཉིནམ་གུ་ཉལ་ནི་ཉུང་བཅུག་ནི་ལུ་ Alzheimer's Association གིས་སླབ་ཨིན།
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+ཉིན་རེའི་ལམ་ལུགས་བརྟན་པོ་བཟོ་ནིའི་སྐོར་ལུ་ [ཉིན་རེའི་ལམ་ལུགས་ཀྱི་བྱེད་ལས་](/activities/daily-routine/) བལྟ།
 
-## How can I make the home calmer in the late afternoon?
+## ཉིམ་ཕྱེད་རྗེས་ཁང་མིག་ནང་ཞི་འཇགས་སྦེ་ག་དེ་སྦེ་བཟོ་དགོ?
 
-Reduce noise, add light and keep familiar things close.
+སྒྲ་སྐད་ཉུང་བཅུག གློག་འོད་ཁ་སྐོང་འབད། དེ་ལས་ངོས་ཤེས་ཡོད་པའི་ཅ་ཆས་ཚུ་ཉེ་འཁོར་ལུ་བཞག
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **གསལ་ཏོག་ཏོ་དང་མཉམ་སྦེ་གློག་འོད།** Alzheimer's Association གིས་ དགོང་མོ་ཁང་མིག་ནང་གློག་འོད་ལེགས་ཤོམ་སྦེ་བཞག་ནི་ལུ་སླབ་ཨིན། གྲིབ་མ་མ་འབྱུང་པའི་ཧེ་མ་ནང་གློག་འོད་བཏོན།
+- **སྒྲ་སྐད་ཉུང་བཅུག།** རྒྱང་འཕྲིན་དང་རེ་ཌིའོ་གི་སྒྲ་ཉུང་བཅུགཔ་ཡང་ན་ཁ་བསྡམ། དེ་ལས་ དུས་ཚོད་དེ་ཁར་ མགྲོན་པོ་ཡང་ན་ཁང་མིག་ནང་གི་ལས་ཀ་མང་དྲགས་པ་མི་འབད་ནི་ལུ་གཟབ། Alzheimer's Association གིས་ དགོང་མོ་རྒྱང་འཕྲིན། ཁང་མིག་གི་ལས་ཀ། ཡང་ན་སྒྲ་ཆེ་བའི་རོལ་དབྱངས་ཚུ་ཉུང་བཅུག་ནི་ལུ་སླབ་ཨིན།
+- **ངོས་ཤེས་ཡོད་པའི་ཅ་ཆས།** NIA གིས་ སེམས་གསོ་འབད་མི་རོལ་དབྱངས་གཏང་ནི་དང་ དགའ་མི་ཅ་ཆས་དང་པར་ཚུ་ཉེ་འཁོར་ལུ་བཞག་ནི་ལུ་སླབ་ཨིན།
+- **བདེ་ཏོག་ཏོ་ཡོད་མེད་བལྟ་བ།** Alzheimer's Association གིས་ ན་ཟུག གྲོད་ཁོག་ལྟོགས་པ། སྐོམ་པ། ལོངས་མ་བཤལ་བ། གཅིན་གྱི་ཁུང་གང་བ། ཐང་ཆད་པ། ནད་འབུ། དེ་ལས་པགས་པའི་ཉེན་ཁ་ཚུ་ཞིབ་དཔྱད་འབད་ནི་དང་ ཁང་མིག་ནང་དྲོན་གྲང་ཚད་བདེ་ཏོག་ཏོ་སྦེ་བཞག་ནི་ལུ་སླབ་ཨིན།
+- **ཁྱོད་རའི་སེམས་ཁམས།** མི་ཚུ་གིས་ མཐའ་འཁོར་གྱི་སེམས་ཁྲལ་ཚོརཝ་ཨིན། ཁྱོད་རའི་སེམས་ཁྲལ་གྱིས་ གནས་སྟངས་ཚབས་ཆེར་བཟོ་དོ་ཡོད་པ་ཅིན་ དལཝ་སྦེ་འབད་ཞིནམ་ལས་ཞི་འཇགས་སྦེ་སྡོད་ནི་ལུ་ NIA གིས་སླབ་ཨིན།
 
-## What calm activities can we do in the late afternoon?
+## ཉིམ་ཕྱེད་རྗེས་ལུ་ ང་བཅས་ཀྱིས་ཞི་འཇགས་བྱེད་ལས་ག་ཅི་བྱེད་ཚུགས?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+ངོས་ཤེས་ཡོད་པ། མགྱོགས་དྲགས་མེད་པ། དེ་ལས་འཇམ་ཏོག་ཏོ་སྦེ་བཞག་ཚུགས་པའི་བྱེད་ལས་ཚུ་གདམ། Alzheimer's Association གིས་ ཁ་རྒྱབ་ཀྱི་རོལ་དབྱངས། པར་བལྟ་བ། ཡང་ན་དགའ་མི་གློག་བརྙན། དེ་ལས་མཉམ་དུ་འགྲུལ་བཞུད་འབད་མི་ཚུ་བཟུམ་གྱི་ཞི་འཇགས་བྱེད་ལས་ཚུ་གིས་ མི་བདེ་བ་ཉུང་བཅུག་ནི་ལུ་ཕན་ཐོགས་འབྱུང་སྲིད་ཟེར་སླབ་ཨིན། NIA གིས་ ཟས་ཕྲུག་ཡང་ན་འཐུང་ནི། དགའ་མི་རྒྱང་འཕྲིན་ལས་རིམ། རོལ་དབྱངས། འགྲུལ་བཞུད། དཔེ་དེབ་ལྷག་པ། ཡང་ན་གོས་ཆུང་བལྟབ་པ་བཟུམ་གྱི་ཁྱིམ་ཚང་གི་ལས་ཀ་འཇམ་ཙམ་ཅིག་བྱེད་ནི་ལུ་སླབ་ཨིན།
 
-Ideas to try:
+འབད་བལྟ་བཏུབ་པའི་བསླབ་བྱ་ཚུ:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **མཉམ་དུ་གོས་ཆུང་བལྟབ།** NIA གིས་ འདི་བཟུམ་གྱི་ཁྱིམ་ཚང་གི་ལས་ཀ་འཇམ་ཙམ་ཅིག་བྱེད་ནི་ལུ་སླབ་ཨིན། གོས་བཏུམ་ཚུ་འཇམ་ཏོག་ཏོ་སྦེ་བལྟབ་ཚུགསཔ་དང་ ལས་ཀ་འདི་མཇུག་བསྡུ་ས་གསལ་པོ་འོང་།
+2. **དགའ་མི་རོལ་དབྱངས་གཏང་།** ཁོང་གི་ལོ་གཞོན་པའི་སྐབས་ཀྱི་ངོས་ཤེས་ཡོད་པའི་རོལ་དབྱངས་ཚུ་ སྒྲ་མཐོན་པོ་མེད་པར་གཏང་། མཉམ་དུ་གཞས་གཏང་མི་འདི་ཡང་ལེགས་ཤོམ་ཨིན། བསླབ་བྱ་ཁ་གསལ་གྱི་དོན་ལུ་ [རོལ་དབྱངས་ཀྱི་བྱེད་ལས་](/activities/music/) བལྟ།
+3. **པར་བལྟ་བ།** པར་དེབ་ཅིག་ ཡང་ན་ [Photo Pairs](/games/photo-pairs/) ནང་ བཟའ་ཚང་གི་པར་ལ་ལོ་ཅིག་པར་མཐོང་སྦེ་བཞག་སྟེ་བལྟ་བ་ཅིན་ ཁ་རྒྱབ་ཀྱི་གླེང་མོལ་འབྱུང་སྲིད།
+4. **ཐུང་ཀུ་སྦེ་འགྲུལ་བཞུད་འབད།** ས་མ་རུབ་པའི་ཧེ་མ་ ལྡུམ་རའི་ནང་། ལམ་གཞུང་ནང་། ཡང་ན་ཁང་མིག་གི་ནང་འཁོར་ལུ་འགྲུལ་བཞུད་འབད།
+5. **མཉམ་དུ་ཟས་ཕྲུག་དང་འཐུང་ནི་ཟ།** འཇམ་ཏོག་ཏོ་དང་དྲོན་པོ། ཀ་ཕི་མེད་པའི་ཟས་ཕྲུག་ ཅོག་ཙེའི་ཐོག་ལུ་མཉམ་དུ་ཟ།
+6. **འཇམ་ཏོག་ཏོ་སྦེ་མཐུན་པ་འཚོལ་ནི།** [Picture Pairs](/games/picture-pairs/) ནང་ ཊ་ཡིལ་བཞི་དང་པར་མཐོང་སྦེ་བཞག་མི་འདི་ འགོ་བཙུགས་ནི་ལུ་འཇམ་ཏོག་ཏོ་དང་བཞག་ནི་ལུ་ཡང་འཇམ་ཏོག་ཏོ་ཨིན།
+7. **ཚོས་གཞི་བཀོད་པ།** གློག་ཀླད་ནང་ཡང་ན་ཤོག་ལེབ་གུ་ [Coloring](/games/coloring/) འབད་ནི། མཇུག་བསྡུ་དགོ་པའི་དམིགས་ཡུལ་མེད་པར་བྱེད།
+8. **བལྟ་ཞིནམ་ལས་གླེང་མོལ་འབད་ནི།** [Conversation Cards](/games/conversation-cards/) ནང་ པར་དང་ཁ་ཕྱེ་བའི་དྲི་བ་ཅིག་ཡོདཔ་ཨིན། བལྟ་ཏེ་སྡོད་མི་རང་ལངམ་ཨིན།
+9. **དབུགས་རིངམ་སྦེ་བཏང་ནིའི་དུས་ཚོད།** [Calm Breathing](/games/calm-breathing/) འདི་ ཁྱོད་ར་གིས་འགོ་བཙུགས་ཞིནམ་ལས་བཞག་ཚུགས་པའི་ དལཝ་དང་ཁ་རྒྱབ་ཀྱི་དུས་ཚོད་ཅིག་ཨིན།
+10. **ལགཔ་གི་ལས་ཀ།** ཨེབ་རྟ་ཡང་ན་མུ་ཏ་སེལ་འཐུ་འབད་ནི། འཇམ་ཏོག་ཏོ་ཡོད་པའི་ཉལ་ཆས་མཉེན་ནི། ཡང་ན་ངོས་ཤེས་ཡོད་པའི་ཅ་ཆས་ཅིག་འཆང་ནི་ཚུ་ཨིན། ཁ་གསལ་གྱི་དོན་ལུ་ [ཚོར་བའི་བྱེད་ལས་](/activities/sensory/) བལྟ།
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+ཉིམ་ཕྱེད་རྗེས་ལུ་ རྩེདམོ་གསརཔ། ཕྱི་ཁར་འགྱོ་ནི་མང་པོ། ཡང་ན་དྲན་ཤེས་དང་དོ་སྣང་མང་དྲགས་པ་དགོ་པའི་བྱེད་ལས་ཚུ་ལས་འཛེམ། དེ་ཚུ་ཞོགས་པ་ལུ་བྱེད།
 
-## What should I do when restlessness starts?
+## མི་བདེ་བ་འགོ་བཙུགས་པའི་སྐབས་ ང་གིས་ག་ཅི་འབད་དགོ?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+ཞི་འཇགས་སྦེ་སྡོད་ཞིནམ་ལས་ སེམས་གསོ་འབད། དེ་ལས་འཇམ་ཏོག་ཏོ་སྦེ་བྱེད་ལས་གཞན་ལུ་བསྒྱུར། NIA གིས་ ཁ་རྒྱབ་སྦེ་སླབ་པ། ཁོང་གི་སེམས་ཁྲལ་ཉན་པ། རྩོད་པ་མི་རྩོད་པ། ཁོང་ཉེན་ཁ་མེད་པའི་ས་ཁོངས་ནང་ཡོད་ཟེར་སེམས་གསོ་འབད་པ། དེ་ལས་ཕན་ཐོགས་ཡོད་པ་ཅིན་ འཇམ་ཏོག་ཏོ་སྦེ་ལགཔ་ཐུགས་ནི་ལུ་སླབ་ཨིན། དེ་ལས་ ཟས་ཕྲུག་ཡང་ན་འཐུང་ནི། རོལ་དབྱངས། ཡང་ན་འགྲུལ་བཞུད་འབད་ནི་བཟུམ་གྱི་ཐབས་ཤེས་གཞན་ཅིག་ལུ་འབད་བལྟ།
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association གིས་ “ཁྱོད་ནཱ་ལུ་ཉེན་ཁ་མེད” དང་ “ཁྱོད་སེམས་ཁྲལ་འཐོམ་མི་འདི་ང་ལུ་ཡང་སེམས་ཁྲལ་ཚུགས་སོ་ཡོད” བཟུམ་གྱི་ཚིག་ཚུ་ལག་ལེན་འཐབ་ནི་ལུ་སླབ་ཨིན། དེ་ལས་ གློག་འོད་ཁ་སྐོང་འབད་པ། དལཝ་སྦེ་འབད་པ། དེ་ལས་བརྩོན་ཤུགས་ཉུང་བཅུག་པ་ཚུ་ལུ་ཡང་སླབ་ཨིན། ཁོང་ལུ་ཐད་ཀར་དུ་བཀག་ནི། མཐའ་འཁོར་ལུ་མི་མང་དྲགས་པ་བཟོ་ནི། འཛིན་ནི། ཡང་ན་རྩོད་པ་མི་བརྩོད།
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+གལ་སྲིད་ ཁོང་ཁོང་ཁྲོ་ཚ་བའི་སྒོ་ལས་སྤེལ་འགྱོ་བ་ཅིན་ NIA གིས་ སྤེལ་སྟངས་དེ་མཇུག་མ་བསྡུ་ཚུན་ཚོད་ ཉེན་ཁ་མེད་པའི་རྒྱང་ཚད་ཅིག་ལུ་སྡོད་ནི་ལུ་སླབ་ཨིན། ཛ་དྲག་གི་གནས་སྟངས་ཅིག་ནང་ འབྲོག་ཁྱབ་ཉེན་སྲུང་ཨང་ **112** ལུ་འབོད་ཞིནམ་ལས་ ཁོང་ལུ་དྲན་ཤེས་ཉམས་པ་ཡོད་ཟེར་གསལ་བཤད་འབད།
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+ཁ་རྒྱབ་ཀྱི་ཚིག་གི་སྐོར་ལུ་ ང་བཅས་ཀྱི་ [གླེང་མོལ་གྱི་བསླབ་བྱ་](/caregiving/communication-tips/) དང་ [ཁོང་གིས་མི་འབད་ཟེར་སླབ་པའི་སྐབས་ག་ཅི་འབད་དགོ་པའི་སྐོར་](/caregiving/when-they-say-no/) བལྟ།
 
-## How do I find the triggers?
+## རྒྱུ་མཚན་ཚུ་ག་དེ་སྦེ་ཧ་གོ་ནི?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+བདུན་ཕྲག་གཅིག་གམ་གཉིས་ཀྱི་རིང་ལུ་ ཐུང་ཀུ་སྦེ་བརྗེད་ཐོ་བཀོད། Alzheimer's Association གིས་ ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་མ་འབྱུང་པའི་ཧེ་མ་ག་ཅི་འབྱུང་ཡོདཔ་ཨིན་ན་ བརྗེད་ཐོ་བཀོད་ནི་ལུ་སླབ་ཨིན། མི་བདེ་བ་འགོ་བཙུགས་པའི་དུས་ཚོད། ཆུ་ཚོད་གཅིག་གི་ཧེ་མ་ག་ཅི་འབྱུང་ཡི། ཉལ་གཞི། ཟས་དང་འཐུང་ནི། མགྲོན་པོ། སྒྲ་སྐད་དང་གློག་འོད་ཚུ་བཀོད། བརྗེད་ཐོ་དེ་ སྨན་པ་ལུ་སྟོན། NIA གིས་ སྤེལ་སྟངས་ཀྱི་འགྱུར་བ་ཚུ་བརྗེད་ཐོ་བཀོད་པ་ཅིན་ བདག་འཛིན་པ་དང་གསོ་བའི་ཞབས་ཏོག་པ་ཚུ་གིས་ ལམ་ལུགས་ཅིག་ཧ་གོ་ནི་ལུ་ཕན་ཐོགས་འབྱུང་ཟེར་སླབ་ཨིན།
 
-## When should I call a doctor about sundowning?
+## ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་ཀྱི་སྐོར་ལུ་ ནམ་སྨན་པ་ལུ་འབོད་དགོ?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+མི་བདེ་བ་འདི་གསརཔ་ཨིན་པ་ཅིན། ཡང་ན་ཧོད་ལས་ཚབས་ཆེར་འགྱོ་དོ་ཡོད་པ་ཅིན། ཡང་ན་འགྱུར་བ་གཞན་དང་མཉམ་དུ་འབྱུང་དོ་ཡོད་པ་ཅིན་ ཁོང་གི་སྨན་པ་ལུ་འབྲེལ་བ་འཐབ། NIA གིས་ སྤེལ་སྟངས་ནང་འགྱུར་བ་ཧོད་ལས་ཡང་ན་མགྱོགས་དྲགས་སྦེ་འབྱུང་མི་ ལྷག་པར་དུ་ནད་འབུ་ཕོག་པའི་ཤུལ་ལས་ཡང་ན་སྨན་གྱི་འགྱུར་བ་འབད་བའི་ཤུལ་ལས་འབྱུང་མི་འདི་ འཕྲལ་ལུ་སྨན་པ་ལུ་ཞུ་དགོ་ཟེར་སླབ་ཨིན།
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+དགོང་མོ་དཀའ་ངལ་ཚབས་ཆེར་བཟོ་མི་གནད་དོན་ཚུ་ སྨན་པ་ལུ་ཞིབ་དཔྱད་འབད་ནི་ལུ་ཞུ། Alzheimer's Association གིས་ གཅིན་ལམ་ནད་འབུ། གཅིན་མི་བཟུང་བ། རྐངམ་གཡོ་འགུལ་མི་བདེ་བ། དེ་ལས་ཉལ་གཞིའི་སྐབས་དབུགས་བཀག་པ་བཟུམ་གྱི་གཟུགས་ཁམས་ཀྱི་དཀའ་ངལ་ཚུ་བརྗོད་ཡོདཔ་ལས་ སྨན་རེ་རེ་བཞིན་དུ་ ཉིནམ་གྱི་དུས་ཚོད་ག་དེ་ཁར་ཟ་ན་ལེགས་ག་ཟེར་དྲི་ནི་ལུ་སླབ་ཨིན། NIA གིས་ ན་ཟུག ལོངས་མ་བཤལ་བ། དེ་ལས་སྨན་གྱི་ནུས་པ་ཡང་ན་ཕན་ཚུན་གྱི་ནུས་པ་ཚུ་ མི་བདེ་བ་ཡར་རྒྱས་འགྱོ་བའི་རྒྱུ་མཚན་ནང་བརྗོད་ཡོད།
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association གིས་ དྲན་ཤེས་ཉམས་པ་དང་འབྲེལ་བའི་ཉལ་གཞིའི་དཀའ་ངལ་ལུ་ སྤྱིར་བཏང་སྨན་མེད་པའི་ཐབས་ཤེས་ཚུ་གདམ་ཁ་རྐྱབ་ཨིན་ཟེར་སླབ་ཨིན། དེ་ལས་ ཉིམ་ཕྱེད་རྗེས་ཀྱི་མི་བདེ་བ་ཀྱི་དོན་ལུ་སྨན་འདི་ ཉེན་ཁ་དང་ཕན་ཐོགས་ཞིབ་དཔྱད་འབད་ཞིནམ་ལས་ དེ་ཚུ་མ་ལེགས་པའི་སྐབས་རྐྱངམ་ཅིག་བསམ་བཞག་འབད་དགོ་ཟེར་ཡང་སླབ་ཨིན། གྲོས་ཐག་དེ་ སྨན་པ་དང་གཅིག་ཁར་འབད་དགོ། སྨན་བཅོས་ཀྱི་སླབ་སྟོན་མེད་པར་ སྨན་གང་རུང་། ཉལ་གཞིའི་སྨན། ཡང་ན་ཁ་སྐོང་སྨན་ཚུ་ འགོ་མ་བཙུགས། མི་བཞག ཡང་ན་མི་བསྒྱུར།
 
-## How do I get through the evenings myself?
+## དགོང་མོའི་དུས་ཚོད་ནང་ ང་ར་ག་དེ་སྦེ་སྡོད་དགོ?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+ཉིམ་ཕྱེད་རྗེས་འདི་ བདག་འཛིན་པ་ལུ་ཉིནམ་གྱི་ནང་དཀའ་ཤོས་ཀྱི་དུས་ཚོད་ཨིན་སྲིད། ཚུགས་པ་ཅིན་ བདུན་ཕྲག་ནང་ཉིནམ་ལ་ལོ་ཅིག་ ཆུ་ཚོད་གཅིག་གི་དོན་ལུ་ཡང་རུང་ བཟའ་ཚང་གི་མི། ཆ་རོགས། ཡང་ན་གླ་ལེན་པའི་གྲོགས་རམ་པ་ལུ་ ཉིམ་ཕྱེད་རྗེས་ཀྱི་དུས་ཚོད་བདག་འཛིན་འབད་ནི་ལུ་ཞུ། ངལ་གསོ་དང་གྲོགས་རམ་གྱི་ཐབས་ལམ་གྱི་དོན་ལུ་ ང་བཅས་ཀྱི་ [བདག་འཛིན་པའི་རང་གི་བདག་འཛིན་](/caregiving/caregiver-self-care/) ལམ་སྟོན་ནང་ Alzheimer's Association གི་ཉིནམ་ཉུང་གཉིས་ཆུ་ཚོད་རིན་མེད་གྲོགས་རམ་ཁ་པར་ཨང་ཡང་བཀོད་ཡོད།

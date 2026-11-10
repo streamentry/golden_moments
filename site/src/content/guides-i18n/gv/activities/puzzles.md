@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Jig-sowyn son Sleih lesh Coayl Cooinaghtyn"
+seoTitle: "Jig-sowyn as Feyshtyn Focklyn: Coayl Cooinaghtyn"
+description: "Kys dy reih jig-sowyn, feyshtyn focklyn as jig-sowyn er-linney son peiagh lesh coayl cooinaghtyn: mooadys, jallooyn, clou mooar as cloie ry-cheilley."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Yn jig-sow share son peiagh lesh coayl cooinaghtyn, she fer t’ad abyl dy
+  chur jeh lesh beggan dy chooney as goaill soylley jeh rish y traa. Reih
+  jig-sowyn lesh ny sloo meeraghyn mooarey as jalloo aasit son deiney aasit,
+  freill jalloo y voggaid ry-akin, as sorch ny meeraghyn corryl hoshiaght.
+  Ta shirrey focklyn as crosh-focklyn gobbraghey share ayns clou mooar. Ta
+  jig-sowyn er-linney aashagh lesh kiare meeraghyn cooie son y cheim veanagh.
+  Scuirr choud’s t’eh taitnyssagh.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Reih liorish kys t’eh goll, cha nee liorish label cheim: my ta jig-sow gennaghtyn gollrish obbyr, jean eab er fer lesh ny sloo meeraghyn."
+  - "Ta meeraghyn mooarey, lajer as jalloo soilshagh lesh rheynnyn daaghyn dy lheh ny sassey na meeraghyn beggey as mooarane speyr."
+  - "Ta jallooyn son deiney aasit scanshoil. Gareydyn, coggyllyn, gleashtanyn as beiyn, cha nee cartoonyssyn."
+  - "She cloie ry-cheilley yn red scanshoil. Cur meeraghey harrish, sorch ny corryllyn, freill caa y voggaid ry-akin."
+  - "Ta shirrey focklyn ayns clou mooar as jig-sowyn er-linney aashagh lesh 4 ny 9 meeraghyn ry-gheddyn nastee er y ynnyd shoh."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Cre whilleen meeraghey jig-sow t’er y chooid share son peiagh lesh coayl cooinaghtyn?"
+    a: "Cha nel un earroo cair ann. Foddee dy jean peiagh ren jannoo jig-sowyn 1,000 meeraghey foast goaill soylley jeh kuse dy cheeadyn dy leah ayns y toshiaght, choud’s ta feallagh elley gobbraghey share lesh dussan ny ghaa dy veeraghyn mooarey. My ta jig-sow gennaghtyn gollrish obbyr ny cur er doilleeid, gow gys ny sloo meeraghyn. Ta 4 ny 9 meeraghyn ayns y Jig-sow Jalloo er-linney ain."
+  - q: "Vel jig-sowyn mie son sleih lesh coayl cooinaghtyn?"
+    a: "Ta ymmodee sleih goaill soylley jeu, er lheh my by vie lhieu jig-sowyn roie. Ta jig-sow cur red ennagh da ny laueyn dy yannoo, obbyr soilshagh as jalloo dy loayrt my-e-chione. Cha nel eh er ny hoilshaghey dy vel jig-sow erbee dy lheihys ny dy moalley coayl cooinaghtyn, myr shen reih ad son taitnys as sheshaght."
+  - q: "Cre oddym y yannoo tra nagh vod peiagh jannoo jig-sow arragh?"
+    a: "Jean eh ny sloo as jean ny smoo jeh uss hene: cur harrish un veeraghey ec y traa, ny faag ynrican ny meeraghyn s’jerree daue. Jean eab er jig-sow er-linney 4 meeraghyn, sorch meeraghyn liorish daah, ny jeeagh er y jalloo criochnit ry-cheilley."
+  - q: "Vel crosh-focklyn as shirrey focklyn cooie son coayl cooinaghtyn?"
+    a: "Foddee ad ve, ayns y cheim toshee, ayns clou mooar. Ta shirrey focklyn lesh focklyn harrish as sheese ynrican ny sassey na adsyn lesh focklyn lhiattagh ny er-ash. Lhaih ny cleaynyn ny yn rolley focklyn magh as obbree er ry-cheilley."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Ta jig-sow er ny skeayley magh er y voayrd vee ny ghaa jeh ny reddyn sassey dy rheynn. Foddee shiu soie ry-cheilley gyn feme er loayrt, ta’n jalloo cur red ennagh diu dy loayrt my-e-chione, as ta cur yn veeraghey s’jerree stiagh gennaghtyn mie. Agh lhisagh jig-sowyn caghlaa myr ta coayl cooinaghtyn caghlaa. Foddee jig-sow ta ro ghoillee fastyr sheeoil y hyndaa dys fastyr doillee. Ta’n duillag shoh soilshaghey kys dy reih as dy chiartaghey jig-sowyn, feyshtyn focklyn as jig-sowyn er-linney aashagh, as cre dy yannoo tra t’ad goll er doillee.
 
-## Are puzzles good for people with dementia?
+## Vel jig-sowyn mie son sleih lesh coayl cooinaghtyn?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Ta ymmodee sleih goaill soylley jeu, er lheh adsyn ren jannoo jig-sowyn roie. Ta [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) gymmyrkey shirrey focklyn, gammanyn kaartyn as gammanyn boayrd mastey reddyn son y cheim toshee, as ta’n [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) cur sheese gammanyn er-linney as jig-sowyn er tabletyn myr aght dy ve goaill ayrn.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Cha nel jig-sowyn ny lheihys. Cha nel eh er ny hoilshaghey dy vel jig-sow erbee dy moalley ny dy scuirr coayl cooinaghtyn; ta’n stiurey ain er [gammanyn inchyn as coayl cooinaghtyn](/brain-health/brain-games/) soilshaghey yn rannsagh. Yn oyr dy yannoo jig-sow, dy fod eh ve oor taitnyssagh, geiyrtagh ry-cheilley. Ta’n [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) gra eh dy ghiare: cur geill er taitnys, cha nee er cosney.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Kys t’ou reih jig-sow son peiagh lesh coayl cooinaghtyn?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+ Gow liorish ny ta’n persoon goaill soylley jeh as kys hie yn jig-sow s’jerree, cha nee liorish label cheim.
 
-### Number of pieces
+### Earroo dy veeraghyn
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Cha nel earroo cair ann. Foddee dy jean peiagh ren jannoo jig-sowyn ooilley e vea foast goaill soylley jeh kuse dy cheeadyn dy veeraghyn dy leah, choud’s ta peiagh elley s’maynrey lesh dussan ny ghaa. Rule yindyssagh: my ren yn jig-sow s’jerree gennaghtyn gollrish obbyr, reih fer lesh mysh lieh ny meeraghyn. My va eh jeant dy tappee as by vie lhieu ny smoo, gow seose beggan.
 
-### Piece size and feel
+### Mooadys as ennaghtyn ny meeraghyn
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Meeraghyn ny smoo**: ny sassey dy akin, dy chroghey as dy hyndaa.
+- **Meeraghyn çhiu, lajer**: t’ad tannaghtyn ayns ynnyd as t’ad shassoo da tuittym.
+- **Cooish gyn soilshey**: ta shen cur er soilshey ve ny sloo fo lampyn as uinnagyn.
+- **Jean shaghey meeraghyn beggey** my foddee yn persoon cur reddyn ayns e veeal, red foddee taghyrt ny s’anmey ayns coayl cooinaghtyn.
 
-### The picture
+### Yn jalloo
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Cooishyn son deiney aasit.** Gareydyn, coggyllyn, shenn ghleashtanyn, beiyn y valley, balley er y traie, spoyrt by vie lhieu. Cha nee cartoonyssyn ny red erbee ta jeeaghyn gollrish gaih paitçhey.
+- **Rheynnyn daaghyn dy lheh.** Ta thie-soalt jiarg, baatey gorrym as magher glass ny sassey na speyr ta lhieeney lieh yn jig-sow.
+- **Ennoil as persoonagh.** Ta jalloo jeh boayl ren ad cummal ayn ny spoyrt by vie lhieu cur mooarane diu dy loayrt my-e-chione. Foddee paart dy hroaryn clou jalloo lught-thie y hyndaa dys jig-sow.
 
-## How do you do a puzzle together?
+## Kys t’ou jannoo jig-sow ry-cheilley?
 
-Set it up so the person can get straight to the enjoyable part.
+Cur eh er aght dy vod yn persoon goll er yn çhooid taitnyssagh chelleeragh.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Reih boayl mie.** Soilshey mie, caair lesh roihaghyn, as boayrd ny claare raad foddee yn jig-sow tannaghtyn magh.
+2. **Cur caa y voggaid seose** raad foddee shiuish ny-neesht eh y akin.
+3. **Chyndaa ny meeraghyn lesh nyn eddinyn seose** roish my toshiu.
+4. **Sorch ny corryllyn** uss hene, ny jean yn oirr hoshiaght as faag y vean daue.
+5. **Cruinnaghey meeraghyn liorish daah** ayns kuse dy hraaghyn ny claaryn tanney.
+6. **Cur harrish un veeraghey ec y traa** my ta’n cruinnaghey ro vooar. “Ta mee smooinaghtyn dy vel shoh bentyn rish y thie-soalt.”
+7. **Loayr mychione yn jalloo,** cha nee yn aght ta shin goll er. “Ta shen jeeaghyn gollrish y baatey va ec m’ayyrey.”
+8. **Faag eh magh.** Tar er ash huggey harrish kuse dy laaghyn. Cha nel veg y siyr.
+9. **Scuirr er note mie,** lurg da veeraghey gholl stiagh, choud’s t’eh foast taitnyssagh.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+Ta’n [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) coyrlaghey dy chooney lesh yn persoon dy gholl er, dy yeeaghyn son doilleeid as dy lhiggey daue jeeaghyn ynrican my s’mie lhieu shen ny smoo. Ta jeeaghyn ort cur meeraghyn stiagh, as soilshaghey raad oddagh fer gholl, foast goaill ayrn.
 
-## Easy online puzzles
+## Jig-sowyn er-linney aashagh
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Ta vondeishyn firrinagh ec jig-sow er tablet: cha nel meeraghyn caillit ayn, ta jallooyn mooarey lhieeney yn scaailan, as cha nel feme er boayrd y ghlenney.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Ta’n [Jig-sow Jalloo](/games/picture-puzzle/) nastee ain giarey jalloo ayns 4 ny 9 meeraghyn. Crank er daa veeraghey dy chaghlaa ad derrey ta’n jalloo slane. Ta’n jalloo criochnit tannaghtyn er y scaailan myr cooney, cha nel traa-earroo ayn, as foddee oo scuirr ec traa erbee. Ta kiare meeraghyn cooie son ymmodee sleih ayns y cheim veanagh lesh peiagh ennagh nyn mast’ oc.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Son cloie jalloo ny sassey foast, jean eab er [Fow yn un red](/games/find-the-same/), raad t’ou crankal er y jalloo ta corrym rish fer ec y vullagh, ny [Sort ry-cheilley](/games/sort-together/), raad ta jallooyn goll ayns baskadyn gollrish y choggey ny yn garey.
 
-## Word puzzles: word searches and crosswords
+## Feyshtyn focklyn: shirrey focklyn as crosh-focklyn
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Ta feyshtyn focklyn cooie son sleih ren rieau goaill soylley jeu, dy cliaghtey ny s’leaie ayns coayl cooinaghtyn.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Shirrey focklyn ayns clou mooar.** Ta’n [Shirrey focklyn](/games/word-search/) nastee ain gymmydey lettyryn mooarey as ynrican kuse dy ocklyn, goll harrish as sheese, rieau lhiattagh ny er-ash. Cloie eh er scaailan ny clou eh.
+- **Lhaih yn rolley magh.** Ta un persoon lhaih fockle, ta’n fer elley jeeaghyn er e hon. Ta cur cruinnaghey mygeayrt yn chied lettraghey ynrican dy liooar.
+- **Crosh-focklyn ayns clou mooar** ass lioaryn feyshtyn foddee ad gobbraghey dy leah. Lhaih ny cleaynyn magh, rheynn yn phenn, as lhieen stiagh ny freggyrtyn ry-cheilley. Ta crosh-focklyn aashagh lesh cooishyn ny share na adsyn doillee.
+- **Loayr mychione ny focklyn.** Foddee “garey” leeideil gys jeih minnidyn mychione tamataanyn.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Son tooilley reddyn er pabyr as kys dy chlou ad dy vel ad aashagh dy akin as dy chummal, jeeagh er [reddyn dy yannoo son coayl cooinaghtyn dy chlou nastee](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Cre ny jig-sowyn ta cooie son dagh cheim?
 
-Stages overlap, and good and hard days are normal.
+Ta ceimyn goll harrish y cheilley, as ta laaghyn mie as doillee cadjin.
 
-| Stage | Puzzles that often fit | Your role |
+| Cheim | Jig-sowyn ta cooie dy mennick | Dty churrym |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Toshee | Jig-sowyn ennoil lesh ny sloo meeraghyn na roie, crosh-focklyn as shirrey focklyn ayns clou mooar, jig-sowyn er-linney 9 meeraghyn | Sheshey: lhig daue reih, cur cooney tra t’ad geearree eh |
+| Veanagh | Jig-sowyn lesh dussan ny ghaa dy veeraghyn mooarey, jig-sowyn er-linney 4 meeraghyn, shirrey focklyn lhaiht magh ry-cheilley | Cur er, sorch meeraghyn, cur harrish un veeraghey ec y traa |
+| Anmagh | Jeeaghyn er jalloo criochnit ry-cheilley, Fow yn un red lesh daa halloo, laueyn er kuse dy veeraghyn mooarey | Cur eh huc; she dty heshaght yn obbyr |
 
-## When should you make a puzzle easier, or stop?
+## Tra lhisagh oo jig-sow y yannoo ny sassey, ny scuirr?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Jeeagh son osnaghyn, meeraghyn er nyn stroie ersooyl, “Cha noddym” er ny ghra dy mennick ny eddinyn imneagh. She cowraghyn ad shen dy chaghlaa red ennagh, cha nee dy gholl er.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Jean eh ny sloo.** Ny sloo meeraghyn, ny faag ynrican ny meeraghyn s’jerree daue.
+- **Jean ny smoo jeh uss hene** as cuirrey ad dy chooney lesh ny ronnaghyn aashagh.
+- **Gow gys red er-gerrey:** sorch meeraghyn liorish daah, jig-sow er-linney 4 meeraghyn, ny [daahghoo](/games/coloring/).
+- **Scuirr.** Cur eh er lhieu as gow cappan dy hey. Foddee oo cheet er ash laa elley, ny gyn cheet er ash eddyr.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+My ta jig-sowyn toshiaght dy ve myr cooinaghtyn er ny ta doillee, ta shen dy liooar dy lhiggey daue goll. Ta ymmodee aghtyn elley dy cheau traa mie ry-cheilley; ta’n duillag ain [101 eabyn dy reddyn dy yannoo](/activities/ideas/) ynnyd mie dy yeeaghyn.

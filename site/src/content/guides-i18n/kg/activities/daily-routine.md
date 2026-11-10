@@ -1,32 +1,34 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Luyindulu ya kilumbu sambu na muntu ti dimentia"
+seoTitle: "Luyindulu ya kilumbu: Mbandu ya pete"
+description: "Mbandu ya pete ya kilumbu sambu na muntu yina ke zingaka ti dimentia: madia, bisalu mpi kupema, ti mutindu ya kuyidika yo mpi kusoba yo na bilumbu ya mpasi."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Luyindulu ya lembila ke vandaka ti ntangu ya mutindu mosi ya kutelama na
+  mpongi, kudia, kudiyudika mpi kulala, ke tulaka kisalu ya mfunu na ntangu
+  yina muntu ke vandaka ti ngolo mingi, mpi ke vandaka ti ndambu ya kisalu ti
+  ndambu ya kupema. Sala yo na kintulumukina ya bikalulu ya muntu banda ntama,
+  bika yo kuvanda pete kansi ve ya kufuluka mingi, baka mwini ya kilumbu mpi
+  kutambula konso kilumbu, mpi soba manaka na kimpwanza ntangu kilumbu ke lomba
+  yo.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Ntangu ya mutindu mosi ya kutelama, kudia, kudiyudika mpi kulala ke pesaka kilumbu mutindu ya kuzaba mbote."
+  - "Tula kisalu ya mfunu na ntangu ya mbote ya muntu, mbala mingi na suka."
+  - "Kufulusa ve konso minuta. Kupema mpi ntangu ya pima kele ndambu ya luyindulu."
+  - "Mwini ya kilumbu, kutambula konso kilumbu, mpi kubuya kulala mingi na nima ya midi to kunwa bima ya ke pesaka ngolo na mpimpa lenda sadisa na kuvanda ve ti mavwanga na nkokila."
+  - "Luyindulu kele lutwadisu, kansi ve nsiku. Soba, kufika, to kuleka kisalu yonso na bilumbu ya mpasi."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Sambu na nki luyindulu ke sadisaka muntu yina ke zingaka ti dimentia?"
+    a: "Kilumbu yina muntu lenda zaba mbote ke pesaka mabanza ti bima ya kuyituka mingi ve, mpi bantu mingi yina ke zingaka ti dimentia ke monaka yo bonso kima ya kupesa kikesa. Alzheimer’s Association ke tuba nde kilumbu ya kuyidika ke sadisaka nge na kusadila ntangu mingi ve na kuzaba mambu ya kusala, kansi kusadila yo na bima yina beno zole ke sepelaka na yo. Yo ke sadisaka mpi bansadi na kuyidika kilumbu na bo."
+  - q: "Luyindulu ya mbote ya kilumbu sambu na muntu yina ke zingaka ti dimentia kele nki?"
+    a: "Luyindulu mosi ya sikisiki ya mbote sambu na bantu yonso kele ve. Ya mbote ke vandaka ti ntangu ya mutindu mosi ya kutelama, kudia mpi kulala, ke tulaka kudiyudika ti kisalu ya mfunu na ntangu yina muntu ke vandaka mbote, ke vandaka ti ntangu ya kubasika na nganda to kuvanda pene-pene ya fenetre, mpi ke bikaka kisika sambu na kupema. Sala yo na kintulumukina ya mutindu muntu vandaka kuzinga ntama."
+  - q: "Keti muntu yina ke zingaka ti dimentia fwete lala ndambu na mwini?"
+    a: "Kupema ya nkufi lenda sadisa, mingi-mingi na nima ya madia ya midi. National Institute on Aging ke pesa ndongisila ya kubuya kulala mingi to kusala pongi mingi na nima ya midi, sambu kulemba mingi to kulala mbote ve lenda yika mavwanga ya nkokila. Kana kulala kele diambu ya mpasi mpenza, tubila yo ti munganga na yandi."
+  - q: "Keti beto sala nki kana yandi ke buya kulanda luyindulu?"
+    a: "Bika yo sambu na ntangu yai mpi meka diaka na nima to na mutindu ya nkaka. Kubuya lenda monisa nde yandi ke lembaka, ke bela, ke waka mpasi to yandi me yilama ntete ve. Luyindulu kele sambu na kusala kilumbu pete, yo yina soba yo kansi ve kupondisila yo."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +47,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Luyindulu ya lembila ke pesaka kilumbu mutindu ya kuzaba mbote: kutelama, kudia, kisalu ya fioti, kupema mpi kulala na ntangu ya kiteso ya mutindu mosi. Yo ke kulumusa mabanza ti bima ya kuyituka mingi, mpi yo ke pesaka nge manaka sambu na bantangu yina nge ta yindula nde nge sala nki. Luyindulu yina ke landa kele mbandu, kansi ve nsiku. Sadila yo bonso luyantiku, na nima soba yo na kintulumukina ya muntu yina nge ke sansaka.
 
-## Why does a daily routine help?
+## Sambu na nki luyindulu ya kilumbu ke sadisaka?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Luyindulu ya mutindu mosi ke sadisaka sambu bikalulu ya kuzaba kele pete na kulanda kuluta bima ya mpa. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ke tuba nde kilumbu ya kuyidika ke kulumusa ntangu ya kuzaba mambu ya kusala mpi ke pesaka ntangu mingi sambu na bisalu ya kiese, mpi ke monisa nde ntangu ya mutindu mosi ya kutelama mpi ya kulala lenda sadisa na bampasi ya kulala mpi na mavwanga ya nkokila. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ke pesa ndongisila ya kuyobila, kulwata bilele mpi kudia na ntangu ya mutindu mosi konso kilumbu bonso ndambu ya nzo ya pima, mpi [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ke pesa mpi ndongisila ya kubumba bikalulu ya mutindu mosi.
 
-## A sample gentle day
+## Mbandu ya kilumbu ya lembila
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Bantangu kele mbandu kaka. Kwenda yo ntama to nima sambu na kukangama ti luyindulu ya muntu.
 
-| Time | What happens | Ideas | On a harder day |
+| Ntangu | Mambu ya ke salama | Bandongisila | Na kilumbu ya mpasi |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 ya suka | Kutelama, kuyobila, kulwata | Mutindu mosi konso kilumbu; tula bilele na ndonga yina yandi ta lwata yo | Bumba kudiyudika pete; lele ya mpa me lunga |
+| 8:45 ya suka | Madia ya suka | Kafe mpi zulunalu ya kutanga na ndinga ya ngolo, to radio | Dia kumosi na pima, kukangama ve na kusolula |
+| 9:30 ya suka | Kisalu ya mfunu | Kuta bilele, kulamba, kusala bilanga, kubasika fioti to kutambula | Muntu mosi ya nkufi, to bika yandi tala nge ntangu nge ke sala yo |
+| 10:30 ya suka | Ntangu ya pima | Miziki, albume ya bafoto, to kuvanda pene-pene ya fenetre | Pema na kiti yina yandi ke zolaka |
+| 11:00 ya suka | Kusadisa na madia ya midi | Kuyobisa bandunda, kuyidika mesa | Nge lamba; yandi vanda ti nge |
+| 12:00 ya midi | Madia ya midi mpi kuyidika | Kupangusa mesa, kuyumisa balongo fioti | Leka bisalu ya nzo |
+| 1:00 ya midi | Kupema ya nkufi | Kutula makulu na zulu, miziki ya lembila | Mutindu mosi |
+| 2:00 ya midi | Kubasika to kusala kisalu ya nzutu | Kutambula, kuvanda na varanda, kunokisa banti, kubula ballon | Vanda pene-pene ya fenetre ti mwini |
+| 3:00 ya midi | Kusolula to kusala bima ya maboko | Kutala mbote, kubinga na telefone, [picture pairs](/games/picture-pairs/), kupenta, bakarte | Kunwa ti kudia kima ya fioti kumosi |
+| 4:30 ya nkokila | Ntangu ya kuvanda pima | Kukanga barido, kupela bamwinda, kisalu ya lembila bonso kuta bitambala ya fioti | Miziki ya kuzaba, makelele fioti |
+| 5:30 ya nkokila | Madia ya nkokila | Kusadisa na kunikisa to kuyidika mesa | Madia ya pete, ya kuzaba |
+| 6:30 ya nkokila | Mpimpa kumosi | Kuyibuka mambu na nima ya madia ya sukadi, bakarte, programe ya ke zolamaka, kumasa maboko | Kuvanda kumosi na pima |
+| 8:00 ya nkokila | Luyindulu ya kulala | Kuyobila to kubuta nzutu, bilele ya kulala, miziki ya lembila, bamwinda ya fioti | Kufika mambu yonso; kikesa ya nzutu na ntete |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Mbandu yai ke landa mutindu ya plan ya mbandu ya Alzheimer’s Association sambu na bitambi ya luyantiku ti ya kati, yina ke banda na kudiyudika ti madia ya suka, ke luta na bisalu ya nzo, kutambula, miziki, kupema ti batala mbote, tii na madia ya nkokila, kuyibuka mambu mpi kuyilama sambu na kulala.
 
-## How do you build your own routine?
+## Nge lenda sala nki luyindulu na nge mosi?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Yantika na mutindu muntu vandaka kuzinga ntama, kansi ve na tablo. Alzheimer’s Association ke pesa ndongisila ya kuyindula mambu yai ntete ya kusala manaka:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Mambu yina yandi ke zolaka, yina yandi ke zolaka ve, ngolo na yandi ti mambu yina ke sepedisaka yandi.**
+- **Mutindu yandi vandaka kulutisa kilumbu na yandi ntama.** Muntu yina vandaka kutelama ntama mpi kutambula ntama ti mbwa na yandi fwete landa kutambula ntama. Muntu yina vandaka kuzola kuvanda na mpongi tii na nima lenda zola ve kuyantika na 8:00 ya suka.
+- **Ntangu ya mbote ya kilumbu sambu na yandi.** Tula kuyobila, kubasika mpi kisalu ya mfunu na ntangu yina.
+- **Ntangu ya kufwana** sambu na kudia, kuyobila mpi kulwata, sambu kima mosi ve kuvanda na nswalu.
+- **Ntangu ya mutindu mosi ya kutelama mpi ya kulala.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Kisika ya mutindu mosi ke pesa ndongisila ya kutula ndambu ya bisalu ya nzo, madia, kudiyudika, bisalu ya maboko, kisalu ya nzutu, ntangu ya kusolula ti bantu, bisalu ya kimpeve mpi bantangu ya kukonda kuyidika, bonso nduku yina ke kwisa kutala mbote.
 
-### Try it for a week, then adjust
+### Meka yo sambu na mposo mosi, na nima soba yo
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Sonika mambu ya fioti konso kilumbu. Alzheimer’s Association ke pesa ndongisila ya kuyula bisalu yina me sala mbote mpi sambu na nki, kana kuvandaka ti bantangu ya mambu mingi to ya kima mosi ve ya kusala, mpi kana mambu ya kukonda kuyidika vandaka ya kiese to ya kupesa mavwanga. Bumba mambu yina ke salaka mpi soba mambu yina ke salaka ve.
 
-### Make it visible
+### Sala yo ya kumonana
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Kana muntu lenda tanga kaka, tablo ya mpembe to karte ya nsonama ya nene ti manaka ya kilumbu lenda pesa kikesa. Bumba yo nkufi: « Madia ya suka. Kutambula ti Sarah. Madia ya midi. Kupema. » Bantu ya nkaka ke vandaka mbote kana bo zaba ve mambu mingi na ntwala; Family Caregiver Alliance ke pesa ndongisila ya kutubila manaka kaka ntangu yo ke finama, kana yo ke pesaka mavwanga.
 
-## How to adapt the routine
+## Mutindu ya kusoba luyindulu
 
-### Leave room to breathe
+### Bika kisika ya kupema
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Kufulusa ve konso minuta. Alzheimer’s Association ke monisa nde muntu fwete vanda ti ndambu ya kisalu ti ndambu ya kupema mpi lenda vanda na mfunu ya kupema mbala mingi. Kana yandi ke monana bonso kele ve ti kima ya kusala, ke kangama ve to ke waka makasi, soba kisalu to pesa ntangu ya kupema.
 
-### Protect the late afternoon
+### Tanina nima ya midi
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Bantu mingi ke kumaka ti mavwanga ntangu mwini ke kwenda na kulala. NIA ke pesa ndongisila ya kuvanda na nganda to pene-pene ya fenetre sambu na mwini konso kilumbu, kuvanda ti kisalu ya nzutu konso kilumbu kansi kukanga ve manaka mingi, kubuya kafe mpi malafu na nima ya midi, mpi kubuya kulala mingi na nima ya midi. Mabuta ya nkaka ke monaka mpi nde yo ke sadisa kukanga barido mpi kupela bamwinda ntete ya mpimpa. Tala [mavwanga ya nkokila](/caregiving/late-day-restlessness/) mpi [kulala](/brain-health/sleep/).
 
-### Change it as needs change
+### Soba yo ntangu mfunu ke soba
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Kitambi ya luyantiku:** sala manaka ya luyindulu kumosi. Muntu lenda zola manaka ya kusonama yina yandi lenda landa yandi mosi.
+- **Kitambi ya kati:** nge ke twadisa mingi. Bisalu ya nkufi, kupema mingi mpi bisalu mingi ya kuzaba; tala [bisalu sambu na kitambi ya kati](/activities/middle-stage/).
+- **Kitambi ya nsuka:** luyindulu ke tulaka dikebi na kikesa ya nzutu, madia mpi lusansu, ti bantangu ya nkufi ya kuwakanisa bima bonso miziki to kumasa maboko na kati; tala [bisalu sambu na kitambi ya nsuka](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Soba bisalu, kansi bumba nzonzi ya mutindu mosi
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Bumba madia, kupema mpi ntangu ya kulala na mutindu mosi, mpi soba bisalu na kati. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ke pesa ndongisila ya kumeka bisalu ya kuswaswana na bilumbu ya kuswaswana sambu na kubumba mambu ya mpa. Nge lenda lamba na Kilumbu ya yantete, sala bilanga na Kilumbu ya zole mpi tala bafoto na Kilumbu ya tatu. [101 bandongisila ya bisalu](/activities/ideas/) mpi [bisalu ya nzo](/activities/household-tasks/) na beto lenda fulusa bisika yina.
 
-## When the day goes sideways
+## Ntangu kilumbu ke soba mpenza
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Bilumbu ya nkaka ta landa manaka mosi ve. Kubela, mpongi ya mbi, kutala ya munganga to nsoba ya ntangu lenda balula mambu yonso. Bika manaka, bumba mambu ya mfunu (madia, kunwa, kupema, kikesa ya nzutu) mpi meka diaka mbasi. Kana muntu ke buya kima mosi, tala [ntangu yandi ke tuba nde ve](/caregiving/when-they-say-no/). Kupema malembe kumosi, bonso [calm breathing](/games/calm-breathing/), lenda sadisa beno zole na kuvutuka na pima.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Luyindulu na nge mosi kele mpi mfunu. Tula bantangu ya kupema sambu na nge mosi, mpi lomba bantu ya dibuta to kisalu ya kupema na kusadisa nge na kubaka ntangu ya kupema mbala na mbala. Tala [kuditanina ya muntu yina ke sansaka](/caregiving/caregiver-self-care/).

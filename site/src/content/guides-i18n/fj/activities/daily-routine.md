@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Tuvatuva Malumu ni Veisiga me Baleta e Dua e Bula Vata kei na Mate ni Guilecavi"
+seoTitle: "Tuvatuva ni Veisiga: iVakaraitaki e Rawarawa ni Veisautaki"
+description: "iVakaraitaki ni siga e rawarawa ni veisautaki me baleta e dua e bula vata kei na mate ni Guilecavi, kei na sala ni bulia ka veisautaka ena veisiga dredre."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  E dua na tuvatuva malumu ni veisiga e maroroya na gauna ni yadra, kana,
+  qaravi koya, kei na moce me voleka ni tautauvata, e viria na itaviqaravi
+  levu ena gauna e yadra vinaka kina o koya o qaravi, ka vakatautauvatataka
+  na itaviqaravi kei na vakacegu. Buli mai na nona ivakarau ni bula tudei,
+  maroroya me rawarawa ka sega ni osooso, rawata na rarama ni siga kei na
+  toso ena veisiga, ka veisautaka na ituvatuva ena gauna e gadrevi kina.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Na gauna tudei ni yadra, kana, qaravi koya, kei na moce e solia vei na siga e dua na ivakarau kilai."
+  - "Viria na itaviqaravi levu ena gauna vinaka duadua ni siga vei koya o qaravi, e vakavuqa ena mataka."
+  - "Kakua ni vakasinaita na gauna kece. Na vakacegu kei na gauna ni vakacegu e tiki tale ga ni tuvatuva."
+  - "Na rarama ni siga, na toso ena veisiga, kei na levei ni moce balavu ena yakavi kei na kofi ena yakavi e rawa ni vukea na sega ni vakacegu ena yakavi."
+  - "Na tuvatuva e dua na idusidusi, sega ni lawa. Veisautaka, vakalekalekataka, se biuta laivi e dua na ka ena veisiga dredre."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Na cava e yaga kina e dua na tuvatuva vei e dua e bula vata kei na mate ni guilecavi?"
+    a: "E dua na siga e namaki rawa e kena ibalebale e lailai na digidigi kei na ka e sega ni namaki, ka vuqa na tamata era bula vata kei na mate ni guilecavi era vakacegui kina. E kaya na Alzheimer's Association ni dua na siga tuvanaki e lailai kina na gauna o vakayagataka mo vakasamataka na ka mo cakava, ka levu cake na gauna me baleta na ka drau marautaka vata. E vukei tale ga na dauqaravi me tuvata vakavinaka na nona siga."
+  - q: "Na cava e dua na tuvatuva vinaka ni veisiga me baleta e dua e bula vata kei na mate ni guilecavi?"
+    a: "E sega ni dua na tuvatuva e dodonu duadua. E dua e vinaka e maroroya na gauna ni yadra, kana, kei na moce me voleka ni tautauvata, e viria na qaravi koya kei na itaviqaravi levu ena gauna e vinaka duadua kina o koya, e oka kina na gauna e tautuba se volekata e dua na katubaleka, ka biuta na vanua me vakacegu kina. Buli me salavata kei na nona ivakarau ni bula."
+  - q: "E dodonu me moce vakalailai o koya e bula vata kei na mate ni guilecavi ena siga?"
+    a: "E dua na vakacegu lekaleka e rawa ni yaga, vakabibi ni oti na kana e sigalevu. E vakatura na National Institute on Aging me kakua ni vakayacori na moce balavu kei na moce vakalailai ena yakavi, ni oca se sega ni moce vinaka e rawa ni vakalevutaka na sega ni vakacegu ena yakavi. Kevaka e dua na leqa dina na moce, veivosaki kei na nona vuniwai."
+  - q: "Na cava me caka kevaka e sega ni via muria na tuvatuva?"
+    a: "Biuta me vakadua ka tovolea tale e muri se ena dua tale na sala. Na sega ni via muria e rawa ni kena ibalebale ni o koya e oca, tauvimate, mosi, se sega ni vakarautaki. Na tuvatuva e tu me vakamamadataka na siga, gona mo veisautaka ka kakua ni vakasaurarataki."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+E dua na tuvatuva malumu e solia vei na siga e dua na ivakarau kilai: na yadra, kana, e dua na itaviqaravi lailai, vakacegu, kei na moce ena gauna e voleka ni tautauvata. E vakalailaitaka na digidigi kei na ka e sega ni namaki, ka solia vei iko e dua na ituvatuva ena gauna o na vakasamataka kina na ka mo cakava tarava. Na tuvatuva e koto e ra e dua na ivakaraitaki, sega ni lawa. Vakayagataka me tekivu, oti mo bulia me salavata kei o koya o qaravi.
 
-## Why does a daily routine help?
+## Na cava e vuke kina e dua na tuvatuva ni veisiga?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+E vuke e dua na tuvatuva tudei baleta ni na ivakarau kilai e rawarawa cake me muri mai na ka vou. Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) e kaya ni dua na siga tuvanaki e kena ibalebale e lailai na gauna e vakayagataki me digidigi kina na ka me caka ka levu cake na gauna me baleta na itaviqaravi e marautaki, ka e tukuna tale ga ni na gauna tudei ni yadra kei na moce e rawa ni vukea na leqa ni moce kei na sega ni vakacegu ena yakavi. Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) e vakatura na silisili, vakaisulu, kei na kana ena gauna vata ena veisiga me tiki ni dua na vale vakacegu, kei na [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e vakatura tale ga me maroroi na ivakarau tudei.
 
-## A sample gentle day
+## iVakaraitaki ni dua na siga malumu
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Na gauna e ivakaraitaki wale ga. Toso na siga taucoko me liu se me muri me salavata kei na nona ivakarau o koya.
 
-| Time | What happens | Ideas | On a harder day |
+| Gauna | Na cava e yaco | iVakasala | Ena dua na siga dredre |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Yadra, sili, vakaisulu | Na ituvatuva vata ena veisiga; viria na isulu me vaka na nodra ituvaki | Maroroya na qaravi me rawarawa; e rauta e dua na sote vou |
+| 8:45 a.m. | Kana ni mataka | Kofi kei na niusipepa e wiliki cake, se na retio | Kana vata vakamalua, sega ni vakasaurarataki me vosa |
+| 9:30 a.m. | iTaviqaravi levu | Lobika na isulu, vakasaqa, teitei, e dua na ilakolako lekaleka se taubale | E dua na kena ivakarau lekaleka, se laiva me raica nomu cakava |
+| 10:30 a.m. | Gauna ni vakacegu | Sere, dua na albamu ni iyaloyalo, se tikotiko volekata e dua na katubaleka | Vakacegu ena dua na idabedabe taleitaki |
+| 11:00 a.m. | Veivuke ena kana e sigalevu | Vuasuka na kakana draudrau, viria na teveli | O iko o vakasaqa; o koya e tiko vata kei iko |
+| 12:00 p.m. | Kana e sigalevu kei na samaki | Quia na teveli, vakamamacataki e vica na peleti | Biuta na itaviqaravi ni vale |
+| 1:00 p.m. | Vakacegu lekaleka | Vakacegui na yava, sere malumu | Tautauvata |
+| 2:00 p.m. | Tautuba se itaviqaravi ni toso | Taubale, tikotiko ena valenisili, sui na kau, viritaka e dua na polo ni cagi | Tikotiko volekata e dua na katubaleka rarama |
+| 3:00 p.m. | Veimaliwai se itaviqaravi ni cakacaka | E dua na sikovi, e dua na qiri, [picture pairs](/games/picture-pairs/), rokataki, se qito ni kadi | E dua na gunu kei na kakana lailai vata |
+| 4:30 p.m. | Gauna ni vakamalumalumutaki | Sogo na lili ni katubaleka, waqa na cina, e dua na itaviqaravi vakacegu me vaka na lobika na taulo lailai | Sere kilai, rorogo lailai |
+| 5:30 p.m. | Kana ni yakavi | Veivuke me tavia se viria na teveli | Kakana rawarawa, kilai |
+| 6:30 p.m. | Yakavi vata | Nanuma lesu na veika e liu ni kana na kakana kamikamica, qito ni kadi, dua na parokaramu taleitaki, se dua na lomani ni liga | Tiko vata vakamalua |
+| 8:00 p.m. | Tuvatuva ni moce | Silisili se sili, isulu ni moce, sere malumu, cina lailai | Vakalekalekataka na ka kece; na vakacegu e liu |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Na ivakaraitaki oqo e muria na ivakarau ni nodra ivakaraitaki ni tuvatuva na Alzheimer's Association me baleta na itabatamata taumada kei na loma ni itabatamata, ka toso mai na qaravi koya kei na kana ni mataka ki na itaviqaravi ni vale, taubale, sere, vakacegu, kei na sikovi ki na kana ni yakavi, nanuma lesu, kei na vakarautaki ni moce.
 
-## How do you build your own routine?
+## O na bulia vakacava na nomu tuvatuva?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Tekivu mai na nona ivakarau ni bula o koya, sega mai na dua na ituvatuva volai. Na Alzheimer's Association e vakatura mo vakasamataka na veika oqo ni bera ni o tuvatuva:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Na ka e taleitaka, na ka e sega ni taleitaka, na nona kaukauwa kei na ka e taleitaka.**
+- **Na nona ivakarau ni vakayagataka na nona siga e liu.** E dua e dau yadra totolo ka dau taubale vata kei na nona koli me taubale tikoga ena mataka. E dua e dau yadra vakamuri ena sega ni marautaka na tekivu ena 8 a.m.**
+- **Na nona gauna vinaka duadua ni siga.** Viria kina na silisili, ilakolako, kei na itaviqaravi levu.
+- **Gauna rauta** me baleta na kana, silisili, kei na vakaisulu, me kakua ni caka vakatotolo.
+- **Gauna tudei ni yadra kei na moce.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Na ivurevure vata ga e vakatura me okati kina e dua na veiwaki ni itaviqaravi ni vale, kana, qaravi koya, itaviqaravi ni cakacaka, itaviqaravi ni toso, gauna ni veimaliwai, itaviqaravi vakayalo, kei na gauna e sega ni tuvanaki, me vaka na sikovi vakasauri mai vei e dua na itokani.
 
-### Try it for a week, then adjust
+### Tovolea me dua na macawa, oti mo veisautaka
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Volai e dua na ivakamacala rawarawa ena veisiga. Na Alzheimer's Association e vakatura mo taroga na itaviqaravi cava e vinaka duadua kei na cava na vuna, se tiko na gauna e levu sara na ka e yaco se lailai sara na ka me caka, kei na se marautaki na ituvatuva e sega ni namaki se vakavuna na leqa. Maroroya na ka e cakacaka ka veisautaka na ka e sega ni cakacaka.
 
-### Make it visible
+### Vakaraitaka me laurai rawa
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Kevaka e rawa tiko vei koya me wilika, e dua na papa vulavula se dua na kadi volai levu e tiko kina na ituvatuva ni siga e rawa ni vakaceguya. Maroroya me lekaleka: „Kana ni mataka. Taubale kei Sera. Kana e sigalevu. Vakacegu.” Eso na tamata era vinaka cake ni sega ni kila e liu na veika e tuvanaki; na Family Caregiver Alliance e vakatura me kakua ni veivosakitaki na ituvatuva me yacova ga na gauna e voleka ni yaco kina kevaka e vakavuna na leqa.
 
-## How to adapt the routine
+## Na sala ni veisautaka na tuvatuva
 
-### Leave room to breathe
+### Biuta na vanua me cegu kina
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Kakua ni vakasinaita na gauna kece. Na Alzheimer's Association e vakabibitaka ni o koya e gadreva e dua na vakatautauvatataki ni itaviqaravi kei na vakacegu, ka ena rawa ni gadreva na vakacegu vakawasoma. Kevaka e vaka me cegu ca, sega ni vakasama tiko, se cudrucudru, veisautaka na itaviqaravi se vakacegu.
 
-### Protect the late afternoon
+### Taqomaka na yakavi
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+E vuqa na tamata era sega ni vakacegu vakalevu ni sa lako sobu na rarama ni siga. Na NIA e vakatura na gauna e tautuba se volekata e dua na katubaleka me baleta na rarama ni siga ena veisiga, na toso ena veisiga ka kakua ni tuvatuva e levu sara, na levei ni kofi kei na alakaolo ena yakavi, kei na levei ni moce balavu ena yakavi. Eso na matavuvale era kunea tale ga ni yaga na sogo ni lili kei na waqa ni cina ni bera na bogi. Raica na [sega ni vakacegu ena yakavi](/caregiving/late-day-restlessness/) kei na [moce](/brain-health/sleep/).
 
-### Change it as needs change
+### Veisautaka ni sa veisau na gagadre
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **iTabatamata taumada:** tuvatuva vata. O koya ena rawa ni vinakata e dua na tuvatuva volai me lewa vakataki koya.
+- **Loma ni itabatamata:** o iko o liutaka vakalevu. iTaviqaravi lekaleka, vakacegu levu cake, kei na vuqa na itaviqaravi kilai; raica na [itaviqaravi ena loma ni itabatamata](/activities/middle-stage/).
+- **iTabatamata e muri:** na tuvatuva e vakanamata ki na vakacegu, kana, kei na qaravi, vata kei na gauna lekaleka ni veika e rogoci se raici me vaka na sere se na lomani ni liga e loma; raica na [itaviqaravi ena itabatamata e muri](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Veisautaka na itaviqaravi, sega na ivakarau levu
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Maroroya na kana, vakacegu, kei na moce me tudei, ka veisautaka na itaviqaravi e loma. Na [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e vakatura me tovolei na duidui itaviqaravi ena duidui siga me maroroi kina na taleitaki. O rawa ni vakasaqa ena Moniti, teitei ena Tusiti, ka raica na iyaloyalo ena Vukelulu. Na noda [101 na vakasama ni itaviqaravi](/activities/ideas/) kei na [itaviqaravi ni vale](/activities/household-tasks/) e rawa ni vakasinaita na vanua oqo.
 
-## When the day goes sideways
+## Ni sega ni yaco vinaka na siga
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Eso na siga ena sega ni muria e dua na ituvatuva. Na tauvimate, e dua na bogi ca, e dua na sikovi mai vei na vuniwai, se na veisau ni draki e rawa ni veisautaka na ka kece. Biuta na ituvatuva, maroroya na veika yaga (kakana, wai, vakacegu, vakacegui), ka tovolea tale ni mataka. Kevaka e sega ni via cakava e dua na ka o koya, raica na [ni kaya „sega” o koya](/caregiving/when-they-say-no/). E dua na cegu vakalekaleka ni icegucegu vata, me vaka na [icegucegu vakamalua](/games/calm-breathing/), e rawa ni vukei kemudrau ruarua mo tekivu tale.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Na nomu tuvatuva e yaga tale ga. Okata kina na nomu vakacegu, ka kerea vei na matavuvale se e dua na veiqaravi ni vakacegu me taqomaka na nomu gauna ni cegu. Raica na [qaravi koya vei na dauqaravi](/caregiving/caregiver-self-care/).

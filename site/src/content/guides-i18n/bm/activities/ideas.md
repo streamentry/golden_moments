@@ -1,34 +1,34 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Hakilijiginin bana na mɔgɔw ka baara: hakilina 101"
+seoTitle: "Hakilijiginin bana baara hakilinaw: baara 101"
+description: "Baara nɔgɔman 101 hakilijiginin bana na mɔgɔw ye, finiko ka taa fɔli ni jaw ni ye, ani u bɛ ladilan cogo min na ni kow ka gwɛlɛya."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Baara ɲumanw hakilijiginin bana na mɔgɔw ye, olu ye baara dɔw ye minnu bɛ dɔn,
+  minnu bɛ bɛn baliku ma, ani minnu kɛli ka nɔgɔn ɲɔgɔn fɛ: finiko, fɛn sugandili,
+  tobili, fɔli, jaw lajɛli, taama, nakɔsɛnɛ, baganw fɛ waati kɛli ani tulon nɔgɔmanw.
+  Mɔgɔ in tun bɛ min kanu tuma bɛɛ, o sugandi, baara gwɛlɛmanw ta i yɛrɛ ye, ka dabila
+  ni a sɛgɛnna. Waati diya ɲɔgɔn fɛ ka fisa ni fɛn o fɛn dafali ye.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "A daminɛ mɔgɔ in ka ɲɛnamaya la: a ka baara, a ka diyabɔfɛnw, a ka dannaya ani a ka fɔli kanulenw ye bilasirali ɲuman ye."
+  - "Baara o baara kɛ ka dɔgɔya ni a mago bɛ o la: sen dɔgɔya, sugandili dɔgɔya, baara gwɛlɛman kɛ i yɛrɛ ye."
+  - "A lajɛli dɔrɔn, fɛn dɔ minɛli bolo la walima sigili kɛrɛfɛ, olu bɛɛ ye sen dona ye."
+  - "A dabila walima ka baara wɛrɛ kɛ ni i ye sɛgɛn, dusukasi walima ɲɛnajɛbaliya ye. Dabila joona, o ye sira ɲuman ye."
+  - "Kɛli ɲɔgɔn fɛ ka fisa ni kɛli cogo ɲuman na ye."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Baara jumɛnw ka ɲi hakilijiginin bana na mɔgɔ dɔ ma?"
+    a: "Baara dɔw minnu mɔgɔ in bɛ kɛ saan caman, nka u kɛra nɔgɔya dɔɔnin: finiko, tabali labɛnni, tobili, fɔli, jaw lajɛli, taama, nakɔsɛnɛ ani bagan fɛ waati kɛli. Baara minnu bɛ i n'a fɔ baliku ta ani minnu nafa ka bon, olu sugandi, k'u kɛ ɲɔgɔn fɛ."
+  - q: "Baara ka kan ka mɛn waati joli?"
+    a: "Waati ɲuman tɛ yen. Sɛrviyɛti finiko miniti damadɔ bɛ se ka wasa tile dɔ la, waati kelen na nakɔ lɛrɛ kelen bɛ se ka nɔgɔnya tile wɛrɛ la. A to mɔgɔ in ka a yɛrɛ ka teliya ta, ka dabila ni a bɛ ka diya hali bi."
+  - q: "Ni mɔgɔ in banna ka baara dɔ kɛ?"
+    a: "Kana a ɲini a fɛ. «Ayi» bɛ se k'a jira ko baara in ka gwɛlɛ kojugu, waati ma bɛn, walima a sɛgɛnnen don walima a ma lafiya. A ɲini kɔfɛ, baara fitinin dɔ di, walima i yɛrɛ ka baara daminɛ a kɛrɛfɛ ka a wele ka dɛmɛ don."
+  - q: "Hakilina tulonw ka ɲi hakilijiginin bana na mɔgɔw ma wa?"
+    a: "Tulonw bɛ se ka kɛ waati diyabɔ sira ye ɲɔgɔn fɛ, nka tulon si ma jira ko a bɛ hakilijiginin bana furakɛ, ka a sumaya walima k'a jɔ. Tulon minnu tɛ ni waatijateminɛnan ye, jateminɛnan tɛ, jaabi jugu mankan tɛ, olu sugandi, k'u ta i n'a fɔ baara kɛlen ɲɔgɔn fɛ, a tɛ kɛ kɔrɔbɔli ye."
+  - q: "Ne bɛ se ka baara kɛ cogo di walasa a kana kɛ i n'a fɔ denmisɛn ta?"
+    a: "Baliku ka minɛn tiɲɛnenw ta: sɛrviyɛti tiɲɛnenw, tobilikɛfɛnw tiɲɛnenw, baliku ka fɔliw ni sekoyaminɛnw, ani jaw minnu kunko bɛ bɛn baliku ma. Baara fɔ i n'a fɔ dɛmɛ min nafa bɛ i la tiɲɛ na, ka kuma mɔgɔ in fɛ i n'a fɔ baliku min a ye."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +50,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Baara ɲuman min ka ɲi hakilijiginin bana na mɔgɔ dɔ ma, a ka ca a la o ye baara dɔ ye min kɛli a dɔn kaban, min kɛra nɔgɔya dɔɔnin ani min bɛ kɛ mɔgɔ dɔ fɛ min na a bɛ da. Duguma, hakilina 101 bɛ yen, u tilalen don suguya caman na, kelen kelen bɛɛ n'a labɛncogo ani a nɔgɔyacogo bɛ yen ni a gwɛlɛyara. Minɛn kɛrɛnkɛrɛnnen tɛ mago i la, wa a tɛ wajibiyalen ye ka fɛn si dafa. Tilewula diya bɛ se ka kɛ sɛrviyɛti kɔnɔ kelen ani kafe min kelen ɲɔgɔn fɛ.
 
-## How do you choose the right activity?
+## I bɛ se ka baara bɛnnen sugandi cogo di?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Sugandili kɛ ka da mɔgɔ in kan, a tɛ da sɛbɛn in kan: a daminɛ ni fɛn minnu a tun bɛ olu kanu tuma bɛɛ ani minnu kɛli bɛ se ka kɛ a fɛ bi.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Miiri a ka baara ni a ka diyabɔfɛnw la.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) b'a jira ko biro baarakɛla kɔrɔ bɛ se ka diya wari sugandili la walima batakiw dalajɛli la, nakɔsɛnɛkɛla bɛ se ka diya nakɔ baaraw la.
+- **Fɛn minnu a bɛ kɛ kaban, olu kɔlɔsi.** Ni i fa bɛ baranda furalan sɔgɔma o sɔgɔma, o don o baara la a ka don o don kɔnɔ.
+- **Labɛn kɛ ka da a ka seko danw kan.** Sɛgɛn, ɲɛ bɔli, tulo mɛnni, bolow dimi ani jɔli sabatili, olu bɛɛ nafa ka bon.
+- **A ka dusukunnataw kɔlɔsi.** Baara caman ni mankan caman bɛ diya mɔgɔ dɔw ye, nka u bɛ mɔgɔ wɛrɛw lasiran.
+- **Kunun di a ma.** Sɛrviyɛtiw dalajɛli ka kɛ dumuni dɔ ye ka nafa sɔrɔ ka tɛmɛ degeli dɔ kan min kun tɛ foyi ye.
 
-### A rough guide by stage
+### Bilasirali surun ka da bana taabolo kan
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Hakilijiginin bana bɛ fɔ tuma caman na a daminɛ, a cɛmancɛ ani a laban taabolow la. Olu ye tɔgɔ nɔgɔmanw ye, u tɛ kɛ kɛsu ye, wa mɔgɔ caman bɛ tile nɔgɔman ni gwɛlɛman sɔrɔ, o la i ye min ye bi, o de kan ka i bilasira. [Alzheimer's Foundation of America ka sɛbɛn min bɛ baara jira taabolo kelen kelen bɛɛ la](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bɛ taa sira kelen fɛ.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Kunko | Daminɛ taabolo | Cɛmancɛ taabolo | Laban taabolo |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| I bɛ se ka min ye | A bɛ se ka baara caman kɛ a yɛrɛ ye; labɛnni, tɔgɔ kuraw ani yɔrɔ mankanmaw bɛ gwɛlɛya | Dɛmɛ mago bɛ a la ka daminɛ ani ka senw tugu; kumaw bɔli bɛ gwɛlɛya | Dɛmɛ mago bɛ a la don o don ladonni fanba la; mɛnni ni dusukunnataw nafa ka bon kosɛbɛ |
+| Baara minnu bɛ bɛn tuma caman na | Karti tulonw, tabali tulonw, tobili, nakɔsɛnɛ, sɛbɛnni, bɔli kɛnɛma, jɛkulu dɔw | Finiko, fɛn sugandili, tobili sen nɔgɔmanw, dɔnkilida, foto gafew, taama bilasiralenw | Fɔli kanulenw, bolo masajili, fɛn nɔgɔman minɛli, kalanli a ye, sigili kɛnɛma |
+| I ka baara | Jɛɲɔgɔn: a ɲininka dɛmɛ suguya min b'a fɛ | Labɛn, a jira, baara gwɛlɛmanw ta i yɛrɛ ye | Baara lase a ma; i ka kɛrɛfɛli ye baara ye |
+| Hakilina wɛrɛw | [Daminɛ taabolo](/activities/early-stage/) | [Cɛmancɛ taabolo](/activities/middle-stage/) | [Laban taabolo](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## I bɛ se ka baara daminɛ cogo di ni hakilijiginin bana na mɔgɔ dɔ ye?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+A daminɛ ka dɔgɔya, a daminɛ a kɛrɛfɛ, k'a nɔgɔya ka sɔn. Mɔgɔ caman bɛ fɛ hali bi ka sen don, nka labɛnni walima daminɛ bɛ gwɛlɛya u ma.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **A ka waati ɲuman sugandi,** tuma caman na sɔgɔma.
+2. **Fɛn bɛɛ labɛn ka kɔn a ɲɛ** walasa ka se ka daminɛ joona.
+3. **Dɛmɛ ɲini, a tɛ kɛ kɔrɔbɔli ye:** «I bɛ se ka bolo dɔ di ne ma ninw na wa?»
+4. **I yɛrɛ k'a daminɛ.** Sɛrviyɛti fɔlɔ dala, k'a to a ka fara i kan. Jirali ka fisa ni ɲɛfɔli ye.
+5. **Sen kelen di siɲɛ kelen.**
+6. **Baara gwɛlɛman ta i yɛrɛ ye.** Alzheimer's Association b'a jira ka fɛn sumanikɛminɛnw suman i yɛrɛ ye, ka kuturu di a ma k'a lamaga.
+7. **A to a ka kɛ a yɛrɛ ka sira la.** Sɛrviyɛti dalalen cogo wɛrɛ la, o ka ɲi.
+8. **A dabila ni a tɛ diya tugun.** Yɛrɛyɛrɛli, ɲɛda gwin walima «Ne tɛ se» ye taamasiɲɛw ye ka baara wɛrɛ kɛ walima ka lafiɲɛ.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+A lajɛ fana [tulon kɛcogo ɲɔgɔn fɛ](/caregiving/how-to-play-together/) ani [kumacogo ladilikanw](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Don o don baaraw so kɔnɔ
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+So baara dɔw bɛ dɔn ani nafa bɛ u la, o b'a to u ye daminɛyɔrɔ ɲuman ye. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ minɛnko, tabali labɛnni, furali, bataki sugandili ani finiko fɔ baara dɔw la minnu bɛ se ka diya mɔgɔw ye. Caman wɛrɛ bɛ [so baaraw](/activities/household-tasks/) kɔnɔ.
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Sɛrviyɛti gbangbannenw dala.** Kɔnɔ dɔ bɔ finijalan na ka bila tabali kan, ka dala ɲɔgɔn fɛ. Kɔfɛ, u lamini ni u dalajɛli dɔrɔn fana nafa bɛ o la.
+2. **Susɛtiw fara ɲɔgɔn kan.** A daminɛ ni kulɛri danfaraninw ye. Kɔfɛ, jɛman ni finman sugandili dɔrɔn bɛ se ka wasa.
+3. **Tabali labɛn.** Fɛn suguya kelen di siɲɛ kelen. Yɔrɔ kelen labɛn i yɛrɛ ye ka kɛ misaliya ye.
+4. **Minɛnw ko walima k'u ja.** Ji gbangban ni safinɛ, ani minɛn minnu tɛ kari. Jali sigilen na ka nɔgɔn senw na.
+5. **Tabali ko.** Finɛ ji la min di a ma dumuni kɔfɛ. O ye baara tiɲɛnen ye bolo minnu tɛ sigi.
+6. **Batakiw sugandi.** Gafew ni bataki nafama tɛw bila «mara» ni «bɔ» kɔnɔ. Bataki nafamaw to yɔrɔ wɛrɛ la.
+7. **Kuponw tigɛ.** Sizo ni sɔrɔdaminɛnw, ani dumunifɛnw ka gafew. Kɔfɛ, dumuni kanulenw lamini fana bɛ se ka kɛ.
+8. **Wari sugandi.** Wari fitininw sugandi ka bila kɔpɔw kɔnɔ walima k'u siri. Fɛn fitininw tɔ yen ni mɔgɔ in bɛ fɛn don a da la.
+9. **Furali walima buguri bɔli.** Furalan fɛgɛman baranda kan, walima buguribɔlan jan min bɛ se ka baara kɛ sigilan na.
+10. **Dɛmɛ don tobili la.** Nakɔfɛnw ko, salati tigɛtigɛ, a lamaga. I bɛ muruw ni funteni minɛ.
+11. **Sofacɛ ka tobilifɛn dɔ tobi.** Karti min bɛ ni a ka bolosɛbɛnni ye, o ta ni a bɛ yen. Kɔfɛ, a bɛ se ka kɛ nɛmɛbaga ye.
+12. **Biro baara kɛ.** Batakiw dala, k'u don anbalopu kɔnɔ ani k'u tampɔnw bila, walima ka sanni sɛbɛn sɛbɛn ɲɔgɔn fɛ.
 
-## Music
+## Fɔli
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Fɔli dɔw minnu dɔnnen don, olu bɛ se ka mɔgɔw sɔrɔ hali ni kumaw ka gwɛlɛ. [Alzheimer's Association ka fɔli ladilikanw](https://www.alz.org/help-support/caregiving/daily-care/art-music) b'a jira ka fɔli dɔw sugandi minnu dɔnnen don, ka feerekɛyɔrɔ kunnafoniw tɔ yen, ani ka tele bɔ. A lajɛ [fɔli baaraw](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **A yɛrɛ ka fɔlisɛbɛn dɔ labɛn.** Fɔli minnu bɛ bɔ a ka denmisɛnya ni a ka kamalenya waatiw la, a ka furu, a ka dannaya ani a ka ladamuni na.
+14. **Dɔnkilida ɲɔgɔn fɛ.** I yɛrɛ ka dɔnkilida daminɛ. A lamini walima a lamɛnni fana ye sen dona ye.
+15. **Kunkan minɛ.** Tegɛ gosi, wotoro gosi walima dundun fitinin gosi. A bɛ se ka kɛ sigilen na ani laban taabolo la.
+16. **Dɔn.** Dɔn sumalen kɛ tobilikɛyɔrɔ la, walima yɛrɛyɛrɛ sigilen na ni bolo minɛlen ye.
+17. **Alibɔmu kelen dafalen lamɛn.** Fɔlisen kanulen dɔ ka bɔ daminɛ ka taa laban na, ni kafe ye, baara wɛrɛ tɛ.
+18. **Kuma fɔli kan.** Maanaw wele, kunnafoni tigitigiw tɛ: «I tun bɛ taa dɔn minnu na, o ɲɛfɔ ne ye.»
+19. **Mizikali walima kɔnserɛ wideyo dɔ lajɛ.** Lajɛli min a tun b'a kanu, o bɛ se ka kɛ su diya ye. A jɔ waati o waati.
+20. **Fɔliminnan dɔ fɔ min dɔnnen don.** Piyano fɔla kɔrɔ bɛ se ka diya fɔli nɔgɔmanw la; kɔfɛ, noti damadɔ ɲɔgɔn fɛ.
+21. **Fɔli ɲɛnamaya lamɛn.** Kɔnserɛ surun sigida la walima dɔnkilidalajɛkulu degeli. Sigi bɔda kɛrɛfɛ.
 
-## Reminiscence: photos, objects and stories
+## Hakilijigin segin: fotow, fɛnw ani maanaw
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Diyabɔ kɔfɛ waatiw la ɲɔgɔn fɛ, nka kana o kɔrɔbɔ. «I hakili b'a la wa...?» ani «Jɔn don nin?» to yen, ka baara kɛ ni weli dafalenw ye. A lajɛ [hakilijigin segin baaraw](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Foto gafe dɔ lajɛ.** I ye min ye, o fɔ: «Finiko nin ka ɲi kosɛbɛ. Nin tile in ɲɛfɔ ne ye.» Tɔgɔ o tɔgɔ a bɛ fɔ, sɔn o ma.
+23. **Hakilijigin kɛsu dɔ dilan.** Sanbarabolo kɛsu dɔ ni fɛnw ye minnu bɛ bɔ a ka ɲɛnamaya la, i n'a fɔ baara badji walima tobilifɛn karti. Fɛn kelen bɔ siɲɛ kelen.
+24. **Ɲɛnamaya maana gafe dɔ daminɛ.** Foto damadɔ ɲɛ kelen kelen bɛɛ kan ni sɛbɛnni jɛlenw ye. O bɛ dɛmɛ don walasa dɛmɛbaga kuraw ka mɔgɔ in dɔn.
+25. **Barokuma kartiw ta.** [Barokuma kartiw](/games/conversation-cards/) bɛ ja ni ɲininkali dafalen fara ɲɔgɔn kan.
+26. **Denbaya foto tulon dɔ dilan.** [Foto fila fila](/games/photo-pairs/) bɛ i yɛrɛ ka fotow kɛ bɛnkan tulon ye.
+27. **So wideyow walima tele kɔrɔw lajɛ.** Kuma ɲɔgɔn fɛ, nka kana ɲininkali kɛ.
+28. **A ka baara fɛnw minɛ.** Kili, dɔgɔtɔrɔso lamɛnminɛn, walima jatebɔsɛbɛn. Tuma caman na bolo bɛ maana daminɛ.
+29. **Denmisɛnya dumuni dɔ tobi.** A bɛ se k'a lamaga, k'a nɛmɛ walima ka sigi tobilikɛyɔrɔ la dɔrɔn i fɛ.
+30. **Yɔrɔ minnu na a sigira, olu ka karta lajɛ.** Sira dɔw minnu dɔnnen don, olu tugu atlas belebele dɔ kɔnɔ ni i bɛ kuma.
 
-## Creative activities
+## Seko ni dɔnko baaraw
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Sekoyako ye kɛli ko ye, a tɛ baara dafalen ye. Minɛnw to baliku ta la ani ka lakana. A lajɛ [sekoyako ni bololabaara](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Jipɛnseli kɛ.** Papiye gɛlɛn, kulɛri damadɔ. Ni daminɛ ka gwɛlɛ, fɔlɔ taamasiyɛnw kɛ ɲɔgɔn fɛ.
+32. **Baliku ka ja kulɛri kɛ.** Fulaw walima darafiniw, a tɛ denmisɛnw ka ja ye. An ka [kulɛrikɛyɔrɔ ɲɛw](/games/coloring/) bɛ baara kɛ ekran kan walima sɛbɛnnen na.
+33. **Kolaji dilan.** Nakɔ ja, mobili walima dumuni jaw tigɛtigɛ ka bɔ gafe kɔnɔ ka nɔrɔ. Kɔfɛ, ja sugandili dɔrɔn bɛ se ka wasa.
+34. **Fulaw labɛn.** Sɔrɔdaminɛ kɔnɔ fula kura ni vazi. Kɔfɛ, jiri fitinin damadɔ buteli dɔ kɔnɔ.
+35. **Tiriko walima kuroshe kɛ ɲɔgɔn fɛ.** Kɔnɔ nɔgɔmanw ni bisa jamanw. Kɔfɛ, jiri siri ka kɛ bulonw ye.
+36. **Karti dilan denbaya ye.** Tampo kɛ, tɔgɔ sɛbɛn walima ka sanbɔn ani kɛnɛyakartiw masiri mɔgɔ tiɲɛnenw ye.
+37. **Bɔgɔ min bɛ ja a yɛrɛ ma, o cogoya di.** Tasa fitinin dɔ digi. Minɛn minnu tɛ baga ni foyi ye, olu ta, ka to kɛrɛfɛ.
+38. **Lɔgɔ ka ko ka a laban.** Kɔnɔw ka so fitinin kiti labɛnnen ni papier de verre, masin minɛn tɛ. A lajɛ [cɛw ka baaraw](/activities/for-men/).
+39. **Bataki sɛbɛn walima k'a fɔ.** Mɔden walima teri kɔrɔ dɔ ye. Ni sɛbɛnni ka gwɛlɛ, a bɛ kuma i bɛ sɛbɛn.
 
-## Outdoors and gardening
+## Kɛnɛma ni nakɔsɛnɛ
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Fiɲɛ kura ni tile yeɲɛ ye teri ɲumanw ye. A lajɛ [kɛnɛma ni nakɔsɛnɛ baaraw](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Falaw ji la.** Arɔzwaaro fitinin ni jiri damadɔ. Don o don jilala bɛ don in labɛn.
+41. **Jiri dɔ turu minɛn kɔnɔ.** A bila tabali kan walasa mɔgɔ si kana kɔnkɔn. Jiri denmisɛnw ka nɔgɔn ka tɛmɛ kisɛw kan.
+42. **Bin bɔ walima fula salenw bɔ.** Ganw don, ka nakɔ fitinin kelen kɛ siɲɛ kelen.
+43. **Furufuru lajɛ.** Yɔrɔ fitinin kelen. Kɔfɛ, bɔrɔ minɛli da wulilen na, o ye baara tiɲɛnen ye.
+44. **Taama kɛ sira dɔ kan min dɔnnen don.** Kɛnɛba lamini walima ka taa batakibɔyɔrɔ la. Surunya ka ɲi.
+45. **Sigi kɛnɛma ɲɔgɔn fɛ.** Baranda sigilan kan tile nɔgɔman dɔ la. Sankaba walima tɛmɛbagaw lajɛ.
+46. **Kɔnɔw dumuni.** Kɔnɔdumanlan fa ɲɔgɔn fɛ, k'u lajɛ finɛtiri kɛrɛfɛ.
+47. **Mobili ko.** Sani, eponji, tile gbangban. Wotoroninw ko ka ɲi i n'a fɔ sen kelen baara.
 
-## Sensory activities
+## Dusukunnata baaraw
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Magali, kasili, nɛmɛli, mankan mɛnni ani yeli nafa bɛ bonya ni hakilijiginin bana bɛ taa ɲɛfɛ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bɛ fɔli, fɛnw minɛli ani bolo masajili fɔ laban taabolow la. A filɛ ni faritan walima kɔnɔgosi faratiw tɛ ka kɔn; a lajɛ [dusukunnata baaraw](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Bolo masajili kɛ.** A ɲininka ka kɔn, ka tulu fitinin dɔ ta. Kasilima tɛ ta ni i ma sigi farikolo walima faritan ko la.
+49. **Finimuguw maga.** Kɔnɔ dɔ ni velours, korduroi, sagasi ani satin ye ka maga ka dala.
+50. **Nakɔfɛnniw ni kafe kasa.** Naanaa walima romarin kura digi i bolow cɛ. Kasa gɛlɛn tɔ yen ni ninakilibana bɛ yen.
+51. **A ka kunsigi bɔrɔsi.** Dɔɔni dɔɔni ani nɔgɔya la, n'o b'a diya a ye.
+52. **Finɛ gbangban tila ɲɔgɔn na.** Bolow ni ɲɛda la nɛnɛ tile dɔ la. Funteni kɔrɔbɔ ka kɔn.
+53. **Baara tabliye dɔ lajɛ.** Butɔn jamanw ni zipw sirilen gɛlɛya la. A lajɛ fɛn si tɛ se ka bɔ.
+54. **Dumuni diya fitinin dɔ nɛmɛ ɲɔgɔn fɛ.** Kulu fitinin kelen, cogo min na a bɛ se k'a dun lakana la.
+55. **Sigida mankanw lamɛn.** Sanji, kɔgɔjida jikuruw walima kɔnɔw dɔnkilida, mankan dɔgɔman na.
+56. **Fɛn dɔ lajɛ min bɛ taa dɔɔni dɔɔni.** Jɛgɛ minɛn, sigida wideyo walima sanji finman bɛnni.
 
-## Games and puzzles
+## Tulonw ni kunkanko baaraw
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Tulonw bɛ baara kɛ ni waatijateminɛnan, jateminɛnan walima degun tɛ. Ni dɔ daminɛna ka kɛ i n'a fɔ kɔrɔbɔli, a bila kɛrɛfɛ. A lajɛ [apuruw ni tulonw sugandicogo](/caregiving/choosing-apps-and-games/) ani [hakilina tulonw](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Jaw bɛn ɲɔgɔn ma.** [Ja fila fila](/games/picture-pairs/) bɛ to jaw ka da ɲɛ sanfɛ, o la a ye kɔlɔsili ye, a tɛ hakilijigin ye.
+58. **Ja kelen ɲɔgɔn sɔrɔ.** [Kelen ɲɔgɔn sɔrɔ](/games/find-the-same/) bɛ sugandili fila fo naani di. Baro kɛ ja kelen kelen bɛɛ kan.
+59. **Fɛnw sugandi ka bila kɔnɔw kɔnɔ.** [Sugandi ɲɔgɔn fɛ](/games/sort-together/) bɛ i n'a fɔ susɛti sugandili ekran kan.
+60. **Puzzle belebele dɔ kɛ.** Baliku jaw, kunkanko hakɛ nɔgɔman. [Ja puzzle](/games/picture-puzzle/) bɛ ja dafalen to yelen na. Caman wɛrɛ bɛ [hakilijiginin bana ka puzzlew](/activities/puzzles/) kɔnɔ.
+61. **Karti tulon kɔrɔ dɔ kɛ.** Fɛn o fɛn a bɛ kɛ saan caman. Kɔfɛ, kartiw sugandili ka da kulɛri kan, o yɛrɛ ye tulon ye.
+62. **Domino tulon kɛ.** Dakunw bɛn ɲɔgɔn ma. Kɔfɛ, kartiw dalajɛli ɲɔgɔn kɔ dɔrɔn ka ɲi.
+63. **Daɲɛgafe ɲinini belebele dɔ lajɛ.** An ka [daɲɛ ɲinini](/games/word-search/) bɛ daɲɛw di kinin fɛ ni duguma dɔrɔn, wa a bɛ se ka sɛbɛn.
+64. **Kumasen dɔw minnu dɔnnen don, olu dafa.** [Kumasen dafa](/games/finish-the-saying/) bɛ to i ka laban jira waati o waati.
+65. **Ja bingo tulon kɛ.** [Ja bingo](/games/picture-bingo/) ka ɲi denbaya ni jɛkulu ma. Dɛmɛ don ka kartiw taamasiyɛn ni dusu diya ye.
+66. **Damu tulon kɛ.** Sariyaw to nɔgɔya la. Kunkankow lamagali ni baro kɛli ɲɔgɔn fɛ, o ye sen dona ye.
 
-## Movement
+## Lamagali
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA b'a jira ka taama, wotoronin kɛ sigilen na, yɛrɛyɛrɛli, balɔn nɔgɔman walima balɔn fiɲɛma fili, supu bɔrɔw kɔrɔta ani baliku ka degeli wideyow kɛ. Dɔgɔtɔrɔ ɲininka ka kɔn ka baara kura daminɛ, kɛrɛnkɛrɛnnenya la ni jɔli sabatili gɛlɛyaw bɛ yen.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Balɔn fiɲɛma fili.** Sigi ɲɔgɔn ɲɛ na. A bɛ taa dɔɔni dɔɔni, o la a minɛli ka nɔgɔn.
+68. **Baliku ka degeli wideyo dɔ tugu** sigilen na, kɛrɛfɛ ɲɔgɔn na.
+69. **Yɛrɛyɛrɛli kɛ ni lastiki ye.** Bolo sama nɔgɔmanw ni lastiki fɛgɛman ye sigilen na.
+70. **Supu bɔrɔw kɔrɔta.** Bolo kɔrɔtali dɔɔni dɔɔni, fɔli sen fɛ n'a bɛ se ka kɛ.
+71. **Wotoronin kɛ sigilen na.** Miniti damadɔ nɔgɔya la, i kɛrɛfɛ.
+72. **Dɔn ni finɛ fitininw ye.** Finɛ fɛgɛmanw lamaga fɔli sen fɛ, sigilen walima jɔlen.
+73. **Taama kɛ ni kun ye.** Bataki ci walima ka kafe san. Taa kun dɔ bɛ a to a ka kɛ ko dacogo la.
+74. **Ninakilila waati tila ɲɔgɔn na.** Sumaya ɲɔgɔn fɛ ni [ninakilila hɛɛrɛma](/games/calm-breathing/) ye.
 
-## Social activities
+## Jɛkulu ni sigida baaraw
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Jɛɲɔgɔnya nafa ka bon hali ni tɔgɔw ka gwɛlɛ, wa jɛkulu fitininw ka nɔgɔn ka tɛmɛ jɛkulu belebelebaw kan. NIA b'a jira ko mɔgɔ bɛ se ka dɔnbaga tɔgɔ ɲinɛ nka a bɛ diya a ka jɛɲɔgɔnya na hali bi. A lajɛ [dɔnbagaw ladonni](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Dɔnbaga kelen walima fila sɔrɔ siɲɛ kelen.** Don surunw so fiɲɛma kɔnɔ, ni fotow ye ka lajɛ.
+76. **Wideyo weleli kɛ denbaya ye.** Weleli surunw, kan kelen siɲɛ kelen. A lajɛ [telefɔni ni wideyo weleliw](/activities/phone-and-video-calls/).
+77. **Hakilijigin kafe dɔ lajɛ.** Jɛkulu lajɛw minnu dabɔra hakilijiginin bana na mɔgɔw ni u ka ladonnibagaw ye. I ka sigida ka kɔrɔmuso ni cɛkɔrɔba ladɛmɛyɔrɔ ɲininka k'a dɔn min bɛ kɛrɛfɛ.
+78. **Dumuni kɛ kɛnɛma waati fiɲɛma la.** NIA b'a jira ka dumunikɛyɔrɔ dɔ sugandi min dɔnnen don ani min fiɲɛma don, waati minnu na mɔgɔ caman tɛ, ka tabali sugandi kɛnɛyaso kɛrɛfɛ.
+79. **Kɔrɔmuso ni cɛkɔrɔba yɔrɔ walima tile ladonni porogaramu dɔ lajɛ.** Jɛɲɔgɔnya b'a ye, lafiɲɛ waati bɛ i ye.
+80. **Waati kɛ denmisɛnw fɛ.** Mɔdenw ka don surun ni hɛɛrɛ, walima ka ja gafe dɔ kalan denmisɛn fitinin dɔ ye.
+81. **Kibaru gafew tila ɲɔgɔn na ni kafe ye.** Kibarukunw kalan ka kanba. O kɛcogo nafa ka bon ka tɛmɛ kibaru kan.
+82. **Dɛmɛ don mɔgɔ wɛrɛ dɔ la.** Alabatoso porogaramuw dala walima ka kɛnɛyakarti dilan siginɔgɔn dɔ ye.
 
-## Faith and spiritual activities
+## Dannaya ni dusukunnata baaraw
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Mɔgɔ in ka dannaya tugu, walima foyi tɛ ni a t'a fɛ. NIA bɛ delili lajɛ dɔw minnu dɔnnen don, kalanw, dannaya fɔliw, delili, hakilijakabɔ ani seliba kɛwalew fɔ.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Delili lajɛ dɔ dɔ min dɔnnen don.** Dɔ sugandi min fiɲɛma don, sigi sira kɛrɛfɛ, k'a fɔ mɔgɔw ye yen ko hakilijiginin bana bɛ yen.
+84. **Delili lajɛ dɔ lajɛ ɛntɛrinɛti kan** tile minnu na bɔli kɛnɛma ka gwɛlɛ kojugu.
+85. **Delili kɛ walima ka kalan kɛ ɲɔgɔn fɛ.** Kumaw minnu dɔnnen don, kalan dɔɔni dɔɔni. A bɛ se ka fara i kan yɔrɔ minnu a dɔnna.
+86. **Dɔnkilidaw walima dannaya fɔliw da** a ka dannaya la.
+87. **Seliba kɛwalew mara.** Batiri mɛnɛnenw, dubaden, masiri minnu a tun bɛ ta tuma bɛɛ.
+88. **Waati fiɲɛma tila ɲɔgɔn na.** Sigi nakɔ kɔnɔ walima ka tilebin lajɛ ɲɔgɔn fɛ.
 
-## Pets and animals
+## Baganw ni danfɛnw
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA b'a jira ka bagan dumuni, k'a bɔrɔsi, k'a taama, walima ka sigi k'a minɛ.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Wulu walima jakuma hɛɛrɛma bɔrɔsi** ni taamasiyɛ janw ni sumalenw ye.
+90. **Bagan dumuni ɲɔgɔn fɛ.** I bɛ suman; a bɛ fili.
+91. **Wulu taama ɲɔgɔn fɛ.** I bɛ kɔrɔjuru minɛ.
+92. **Bagan minɛ wotoro kan.** Jakuma hɛɛrɛma dɔ kɔnɔbɔlan kan bɛ se ka lafiya kosɛbɛ.
+93. **Bagan dɔnbagaw bisimila.** Ladonniyɔrɔ ni tile porogaramu dɔw bɛ baganw ka dɔnni kɛ. A ɲininka i sigida la.
+94. **Bagan nɔgɔman dɔ di min bɛ i n'a fɔ tiɲɛ.** Ni bagan tɛ yen, mɔgɔ dɔw bɛ diya ka jakuma walima wulu nɔgɔman minɛ min bɛ i n'a fɔ tiɲɛ. A di nɔgɔya la, a kana kɛ tulonfɛn ye, ka sɔn «ayi» ma.
 
-## Seasonal activities
+## Waati ni san kɔnɔ baaraw
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Ladamuniw mara, nka u kɛ ka nɔgɔya. NIA b'a jira ka tiɲɛnya ye ani ka yɔrɔ fiɲɛma dɔ mara lafiɲɛ kama seliba mankanmaw waati la.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Masiri kɛ waati in kama.** Nakɔ fɛn, furufuru masirilan walima fula kura tabali kan.
+96. **Seliba dumuni diya dɔ dilan.** Pati lami walima bisikiw masiri. I bɛ furu minɛ.
+97. **Masirifɛnw siri.** Masirifɛnw minnu tɛ kari, di kelen kelen siɲɛ kelen.
+98. **Taama kɛ mobili la ka yeɲɛnw lajɛ.** Su taama surun min bɛ jɛɲɔgɔnya dɔrɔn de wajibiya.
+99. **Fula kisɛw turu sɔnni waati la.** Kisɛw don minɛn kɔnɔ tilebinyanfan waati la, k'u bɔli makɔnɔ.
+100. **Kaba fara walima sɔ bɔ.** Samiyanfan baranda baara dɔ ni tasa ye wotoro kan.
+101. **Seliba kartiw ladɛrɛsi.** A bɛ tɔgɔ sɛbɛn, ka tampɔn bila walima k'a datugu; i bɛ ladɛrɛsiw minɛ.
 
-## What if an activity is not working?
+## Ni baara dɔ ma diya?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+A dabila, ka fɛn wɛrɛ lajɛ waati wɛrɛ la. NIA b'a jira ka dusukasi kɔlɔsi ani k'a to mɔgɔ in ka lajɛ dɔrɔn n'o b'a fɛ. «Ayi» bɛ se k'a jira ko baara ka gwɛlɛ, waati ma bɛn, walima fɛn wɛrɛ bɛ a tɔɔrɔ, i n'a fɔ dimi, kɔngɔ walima mankan. A kɛ ka dɔgɔya, a lajɛ sɔgɔma joona, walima i yɛrɛ k'a daminɛ k'a filɛ ni a bɛna fara i kan. A lajɛ [ni a ko ayi](/caregiving/when-they-say-no/) ani [sufɛ haminankow](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Walasa ka baara don dumuni ni lafiɲɛ cɛ, a lajɛ [don o don kɛwale nɔgɔman](/activities/daily-routine/). Fɛn minnu ka kan ka labɛn, a lajɛ [baaraw minnu bɛ se ka sɛbɛn](/activities/printable/), ni i bɛ jɛkulu dɔ ɲɛminɛ, [ladonniyɔrɔ jɛkulu baaraw](/activities/care-home-groups/). I yɛrɛ ka lafiɲɛ fana nafa ka bon: a lajɛ [ladonnibaga ka yɛrɛladonni](/caregiving/caregiver-self-care/).

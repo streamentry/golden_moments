@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "नींद आ दिमागी सेहत: रिसर्च का कहेला आ का मदद करेला"
+seoTitle: "नींद आ डिमेंशिया: रिसर्च का कहेला"
+description: "नींद आ डिमेंशिया के खतरा प रिसर्च का कहेला, दिमाग के सफाई वाला रिसर्च काहे अभी शुरुआती बा, आ बुजुर्गन आ देखभाल करे वालन खातिर नींद के आदत।"
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  कुछ लमहर समय के अध्ययन अधेड़ उमिर में कम नींद के डिमेंशिया के जादे खतरा से जोड़ेलन, आ लैब रिसर्च से पता चलेला कि नींद से दिमाग के कचरा साफ करे में मदद मिल सकेला। ई सबूत अभी शुरुआती बाड़ें, आ 2024 के लैंसेट कमीशन नींद के बदले जोग खतरा के कारक में शामिल नइखे कइले। नियम से सुते के आदत रोजमर्रा के जिंदगी में बढ़िया महसूस करावे में मदद करेला। डिमेंशिया में नींद के दिक्कत आम बात बा आ एह बारे में डॉक्टर से बात कइल जरूरी बा।
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "यूके में लगभग 8,000 लोगन प 25 बरिस ले भइल एगो अध्ययन में अधेड़ उमिर में छह घंटा या ओकरा से कम सुतेला के डिमेंशिया के बेसी खतरा से जोड़ल गइल बा।"
+  - "नींद में बदलाव डिमेंशिया के एगो शुरुआती लच्छन भी हो सकेला, एहसे कारन आ असर के बीच फरक बतावल मुस्किल बा।"
+  - "नींद के दौरान दिमाग से बीटा-एमिलॉयड साफ होखे प भइल रिसर्च असली बा बाकी शुरुआती बा, जेहमे से जादेतर चूहों प भइल बा।"
+  - "स्लीप एपनिया आम बा, एकर इलाज संभव बा आ अध्ययनन में एकरा के डिमेंशिया से जोड़ल गइल बा; तेज खर्राटा आ दिन में सुस्ती के जांच करवावल जरूरी बा।"
+  - "डॉक्टर से पूछले बिना कवनो नींद के दवाई या मदद करे वाला चीज कब्बो शुरू, बंद या बदलल ना चाहीं।"
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "का खराब नींद से अल्जाइमर हो जाला?"
+    a: "अइसन कवनो बात साबित नइखे भइल। कुछ अध्ययन कम नींद के डिमेंशिया के बेसी खतरा से जोड़ेले, बाकी डिमेंशिया खुद भी नींद में खलल डाले ला, अक्सर बीमारी के पता चले से कइयौ बरिस पहिले। 2024 के लैंसेट कमीशन एह सबूतन के एतना असंगत मनलस कि नींद के बदले जोग खतरा के कारन में शामिल ना कइल गइल।"
+  - q: "बुजुर्गन के केतना नींद के जरूरत होखेला?"
+    a: "नेशनल इंस्टीट्यूट ऑन एजिंग के कहब बा कि बुजुर्ग लोगन के भी बाकी बड़ लोग जइसन ही, हर रात करीब 7 से 9 घंटा के नींद के जरूरत होखेला। बहुते बुजुर्ग पहिले के मुकाबला जल्दी सुतेलन आ जल्दी जागेलन, जे एकदम आम बात बा।"
+  - q: "डिमेंशिया से जूझ रहल कवनो बेकत दिन में काहे सुते ला आ रात में काहे जाग जाला?"
+    a: "डिमेंशिया शरीर के अंदरूनी घड़ी के प्रभावित क सकेला, जेकरा से सुते आ जागे के समय गड़बड़ा जाला। दरद, ऊब, भूख या दवाई के साइड इफेक्ट भी एकर कारन हो सकेला। दिन के घाम, रोजमर्रा के काम आ साँझ के शांत माहौल से मदद मिल सकेला। डॉक्टर अइसन कारन खोज सकेलन जेकर इलाज हो सके।"
+  - q: "का हमरा जेकर हम देखभाल कर रहल बानी, ओकरा के नींद के कवनो दवाई देवे के चाहीं?"
+    a: "पहिले उनकर डॉक्टर से बात करीं, बिना परची के मिले वाली दवाइयन खातिर भी। नेशनल इंस्टीट्यूट ऑन एजिंग चेतावे ला कि नींद के कुछ दवाई अल्जाइमर से प्रभावित लोगन में चक्कर आवे, गिरे आ भ्रम के खतरा बढ़ा सकेली।"
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+नींद आ दिमागी सेहत साफ तौर प एगो दोसरा से जुड़ल बाड़ें, बाकी ई कइसे जुड़ल बाड़ें एकरा प अभी काम चल रहल बा। कुछ अध्ययन कम नींद के डिमेंशिया के बेसी खतरा से जोड़ेले। ओही तरे, डिमेंशिया भी अक्सर नींद में खलल डाले ला। ई पन्ना बतावे ला कि रिसर्च का देखावे ला आ का ना, सुते के सहज आदतन के जानकारी देवे ला, आ डिमेंशिया में आम तौर प होखे वाली नींद के दिक्कतन के बारे में बतावे ला। ई नींद के दवाई के बारे में कवनो सलाह नइखे देत; एह बारे में डॉक्टर से बात कइल चाहीं।
 
-## Is poor sleep linked with dementia?
+## का खराब नींद डिमेंशिया से जुड़ल बा?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+कुछ लमहर समय के अध्ययन कम नींद के डिमेंशिया के बेसी खतरा से जोड़ेले, बाकी ई सबूत अभी पूरी तरे पक्का नइखे।
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **यूके में 25 बरिस के एगो अध्ययन।** रिसर्चर लोग [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2) में करीब 8,000 बड़ लोगन के निगरानी कइल। 50 या 60 बरिस के उमिर में छह घंटा या ओकरा से कम सुते वाला लोगन में बाद में चल के सात घंटा सुते वाला लोगन के तुलना में डिमेंशिया के बेसी खतरा देखल गइल। जवन लोग 50, 60 आ 70 के उमिर में छह घंटा या ओकरा से कम सुतत रहे, उनकरा में नियम से सात घंटा सुते वालन के तुलना में करीब 30% बेसी खतरा रहे। ई एगो अवलोकनात्मक अध्ययन रहे, एहसे ई खाली जुड़ाव देखावे ला, कारन ना।
+- **लैंसेट कमीशन के नजरिया।** [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) अपना 14 गो बदले जोग खतरा के कारनन के लिस्ट में नींद के शामिल ना कइलस। एकर मानना रहे कि सबूत एतना सुसंगत नइखे। एगो कारन "उल्टा कारन" बा: डिमेंशिया से दिमाग में होखे वाला बदलाव जांच से कइयौ बरिस पहिले शुरू हो जाला आ ई नींद में बाधा डाल सकेला। एगो बड़हन अध्ययन में, जादे देर ले सुते आ डिमेंशिया के बीच के जुड़ाव तब खतम हो गइल जब सुरुआती पाँच बरिस के निगरानी के अलग क दिहल गइल।
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+एहसे कबो-कभार एगो रात कम नींद भइल कवनो चिंता के बात नइखे। रोज नियम से बढ़िया नींद लेवे के कोसिस कइल जरूरी बा काहें से कि ई आज आपके मिजाज, सतर्कता आ सुरक्षा में मदद करेला।
 
-## What is the "brain-clearing" sleep research?
+## दिमाग के कचरा साफ करे वाला रिसर्च का बा?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+रउआ पढ़ले होखब कि नींद दिमाग के "सफाई" करेला। ई बात असली रिसर्च से आइल बा, बाकी ई अभी सुरुआती दौर में बा।
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **चूहों में।** [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) 2013 के एगो अध्ययन में पावल गइल कि चूहों के सुतला प दिमाग के कोशिका के बीच के जगह करीब 60% बढ़ गइल। दिमाग में तरल पदार्थ आसानी से बहे लागल, जेकरा के रिसर्चर लोग ग्लाइम्फैटिक सिस्टम कहेला। अल्जाइमर से जुड़ल प्रोटीन, बीटा-एमिलॉयड, सुतत चूहों के दिमाग से तेजी से साफ भइल।
+- **मनई में।** एगो छोट [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) में 22 से 72 बरिस के 20 गो तंदुरुस्त लोगन के सामान्य रात के बाद आ बिना सुतल वाली रात के बाद स्कैन कइल गइल। बिना सुतल वाली रात के बाद, याददाश्त खातिर जरूरी हिस्सा हिप्पोकैम्पस सहित एगो इलाका में बीटा-एमिलॉयड के स्कैन सिग्नल करीब 5% बढ़ गइल। रिसर्चर लोग एकरा के सुरुआती सबूत बतवलस। उनकरा ई ना मालूम रहे कि आराम कइला के बाद ई बदलाव खतम हो जाला कि ना, भा ई धीमी सफाई के देखावे ला या जादे एमिलॉयड बने के।
+- **ई दुनों तरफ से काम करेला।** लैंसेट कमीशन नोट करे ला कि बुजुर्गन में एमिलॉयड के जमाव खुद भी नींद में बाधा डाल सकेला।
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+ई नतीजा समझावे में मदद करेला कि रिसर्चर लोग नींद में काहे रुचि ले रहल बा। बाकी एहसे ई साबित नइखे होत कि बढ़िया नींद अल्जाइमर से बचावे ला।
 
-## What sleep habits may help?
+## सुते के कवन आदत मदद क सकेली?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) के मोताबिक, बुजुर्गन के भी बाकी बड़ लोगन जइसन ही हर रात करीब 7 से 9 घंटा के नींद के जरूरत होखेला। उनकर सलाह में शामिल बा:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **नियम से एगो समय तय राखीं।** रोज एक्के समय प सुतीं आ जागीं, छुट्टी के दिन भी।
+- **सुते से पहिले मन शांत करे के आदत बनाईं।** सुते से पहिले कुछ पढ़ीं, धीमा संगीत सुनीं भा गुनगुना पानी से नहा लीं।
+- **सुते के कमरा आरामदायक बनाईं,** ना जादे गरम ना जादे ठंढा।
+- **दिन ढलला के बाद कैफीन कम करीं।** कॉफी, चाय, सोडा आ चॉकलेट रउआ के जगा के रख सकेली।
+- **शराब से बचीं,** एनआईए के सलाह बा कि तनी सा भी शराब ना पीवे के चाहीं।
+- **सुते के दू से तीन घंटा पहिले भारी खाना से बचीं,** आ दिन ढलला के बाद जादे पानी या पेय ना पीहीं।
+- **नियम से कसरत करीं, बाकी सुते से 3 घंटा पहिले ना।** हमनी के [exercise guide](/brain-health/exercise/) देखीं।
+- **सुते के कमरा से स्क्रीन दूर राखीं।** एनआईए सलाह देवे ला कि उहाँ टीवी ना देखीं आ कंप्यूटर, फोन या टैबलेट के इस्तेमाल ना करीं।
+- **सँझउती या साँझ बेरा झपकी लेवे से बचीं** अगर हो सके त।
 
-## Sleep problems in dementia
+## डिमेंशिया में नींद के दिक्कत
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+डिमेंशिया में नींद में बदलाव आम बात बा। [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) में बहुते जादे या बहुते कम सुतल, रात में बार-बार जागल, आ दिन में ढेर झपकी लेहल शामिल बा। ई सनडाउनिंग के भी बतावे ला: दिन ढलला प बेचैनी, चिड़चिड़ापन या भ्रम के शुरू होखल भा बढ़ जाइल।
 
-Caregiver tips from the NIA include:
+एनआईए से देखभाल करे वालन खातिर कुछ सुझाव:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **सुरुआती दिन में धूप आ हलचल के मौका दीं।** दिन में बहरी जाईं भा खिड़की भीरी बइठीं, आ जेकर रउआ देखभाल कर रहल बानी उनकरा के हर रोज सक्रिय रहे में मदद करीं। तेज घाम शरीर के अंदरूनी घड़ी के ठीक करे में मदद क सकेला।
+2. **फुर्ती वाला काम सबेरे खातिर तय करीं।** सबेरे नहवावे के कोसिस करीं भा दुपहरिया में भरपेट खाना खाईं।
+3. **झपकी छोट आ दिन में जल्दी रखे के चाहीं।** दिन ढलला प उनकरा उंघाई लेवे से रोकीं।
+4. **साँझ के माहौल शांत राखीं।** बत्ती धीमा करीं, हल्ला-गुल्ला कम करीं आ अगर उनकरा नीक लागे त धीमा संगीत बजाईं। हमनी के [late-day restlessness](/caregiving/late-day-restlessness/) गाइड में अउरी उपाय बाड़ें।
+5. **सुते के नियम एक बराबर राखीं।** हर रात एगो तय समय प बोल-बोल के पढ़ल एनआईए के एगो उदाहरण बा। एगो [steady daily routine](/activities/daily-routine/) भी मदद करेला।
+6. **कैफीन आ शराब सीमित राखीं।**
+7. **कम रोशनी वाली नाइटलाइट के इस्तेमाल करीं** सुते के कमरा, दालान आ पाखाना में।
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+रात में जागल से निपटे खातिर, एनआईए के [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) में नाइटलाइट या अपने-आप जरे वाला लाइट सेंसर, पाखाना में पकड़े वाला हैंडल, सीढ़ी के कोर प चटक रंग के टेप, आ दवाई के ताला बंद जगह प रखल शामिल बा।
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+साँझ के एगो छोट, शांत गतिविधि रउआ दुनों जाने के सहज होखे में मदद क सकेला। एगो धीमा [Calm Breathing](/games/calm-breathing/) भा कुछ आरामदायक [Conversation Cards](/games/conversation-cards/) आजमाईं। सुते के समय दिमाग के जादे उत्तेजित करे वाला कवनो भी काम से बचीं, आ जब उनकर मन भर जाव त ओही घरी रोक दीं।
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+नींद टूटे से देखभाल करे वाला लोग भी थक जाला। हमनी के [caregiver self-care guide](/caregiving/caregiver-self-care/) में आराम पावे आ मदद लेवे के तरीका बतावल गइल बा।
 
-## What about sleep apnea?
+## स्लीप एपनिया के बारे में का?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+स्लीप एपनिया में सुतते घरी सांस कुछ पल खातिर रुक जाला, अक्सर रात में कइयौ बेर। एनआईए के कहब बा कि अगर एकर इलाज ना करावल जाव, त एकरा से हाई ब्लड प्रेशर, स्ट्रोक भा याददाश्त कमजोर होखे जइसन समस्या हो सकेला। लच्छन में तेज खर्राटा आ दिन में सुस्ती महसूस होखल शामिल बा, आ बहुते लोग के पता भी ना चले कि उनकरा ई बीमारी बा। लैंसेट कमीशन 11 गो अध्ययनन के एगो समीक्षा के बारे में बतावे ला जेहमे स्लीप एपनिया वाला लोग में डिमेंशिया के खतरा करीब 43% बेसी देखल गइल। बाकी एहमे से बहुत कम अध्ययन में वजन के ध्यान में रखल गइल रहे, एहसे ई जुड़ाव अनिश्चित बा।
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+स्लीप एपनिया के जांच आ इलाज हो सकेला। एनआईए नोट करे ला कि सीपैप मशीन से लगभग हमेशा फायदा मिलेला। अगर रउआ या जेकर रउआ देखभाल कर रहल बानी ऊ तेज खर्राटा लेत बाड़े, सुतते घरी सांस रुक जात बा, भा दिन में बहुते नींद आवत बा, त डॉक्टर के बताईं।
 
-## A note about sleep medicines
+## नींद के दवाई के बारे में एगो बात
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+हमनी के नींद के दवाई या सप्लीमेंट्स के बारे में कवनो सलाह नइखे देत। एनआईए बतावे ला कि नींद के दवाई कुछ समय खातिर त मदद क सकेली बाकी ई अनिद्रा के पक्का इलाज ना हवें। ई एह बात प भी ध्यान दिलावे ला कि अल्जाइमर से प्रभावित लोगन के सुतावे खातिर दिहल जाए वाली कुछ दवाई चक्कर आवे, गिरे आ भ्रम के खतरा बढ़ा सकेली। कवनो डॉक्टर या फार्मासिस्ट से बात कइले बिना कवनो नींद के दवाई, जेहमे बिना परची के मिले वाली दवाई भी शामिल बा, कब्बो शुरू, बंद या बदलल ना चाहीं।
 
-## Talk with a doctor
+## डॉक्टर से बात करीं
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+अगर रउआ या जेकर रउआ देखभाल कर रहल बानी ऊ हमेशा थकल रहेला, जादेतर रात सुते में दिक्कत होखेला, तेज खर्राटा लेवेला, भा रात में सांस रुक जाला, त डॉक्टर से मिलीं। अगर डिमेंशिया में नींद के समस्या लगातार बनल रहे, त [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) कि डॉक्टरी सलाह लीं। जांच से दरद, नींद से जुड़ल कवनो दोसर बीमारी, कवनो बेमारी या दवाई के साइड इफेक्ट जइसन कारन के पता चल सकेला। अचानक भ्रम होखल, या भ्रम के साथे नींद में अचानक बदलाव आवल, एकरा खातिर तुरंत इमरजेंसी देखभाल के जरूरत होखेला। पढ़ीं [when to see a doctor](/brain-health/warning-signs/)।
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ई पन्ना सामान्य जानकारी खातिर बा, डॉक्टरी सलाह ना ह। हमनी के [medical disclaimer](/medical-disclaimer/) देखीं।

@@ -1,33 +1,32 @@
 ---
-title: "Kegiatan Mengenang Masa Lalu: Kotak Kenangan, Kisah Hidup, dan Foto"
-seoTitle: "Kegiatan Mengenang Masa Lalu untuk Demensia, Tanpa Kuis"
-description: "Cara mengenang masa lalu bersama orang dengan demensia tanpa menguji: mengobrol soal foto, kotak kenangan, buku kisah hidup, dan kalimat yang membuat santai."
+title: "Kegiatan Mengenang: Kotak Kenangan, Kisah Hidup, Foto"
+seoTitle: "Kegiatan Mengenang Demensia: Ide Tanpa Kuis"
+description: "Cara berbagi kenangan bersama orang yang hidup dengan demensia tanpa kuis: obrolan foto, kotak kenangan, dan buku kisah hidup dengan kalimat santai."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Mengenang masa lalu berarti menikmati masa lalu bersama lewat foto, benda,
-  musik, dan cerita. Buat kotak kenangan, susun buku kisah hidup yang
-  sederhana, atau lihat foto berdampingan. Jangan pernah menguji: hindari
-  “Ingat tidak?” dan “Ini siapa?”, dan gunakan ajakan terbuka seperti
-  “Ceritakan tentang ini.” Obrolan yang hangat lebih penting daripada fakta
-  yang tepat.
+  Mengenang berarti menikmati masa lalu bersama melalui foto, benda, musik,
+  dan cerita. Buat kotak kenangan, susun buku kisah hidup sederhana, atau
+  lihat foto berdampingan. Jangan pernah menguji: hindari “Apakah Anda ingat?”
+  dan “Siapa ini?” lalu gunakan ajakan terbuka seperti “Ceritakan tentang
+  ini.” Percakapan yang hangat lebih penting daripada ketepatan fakta.
 keyPoints:
-  - "Mengenang masa lalu adalah obrolan, bukan ujian. Ketepatan tidak penting; kesenangan yang penting."
-  - "Ganti “Ingat tidak…?” dan “Ini siapa?” dengan komentar dan ajakan seperti “Ceritakan tentang hari ini.”"
-  - "Kotak kenangan berisi benda-benda dari kehidupan orang tersebut memberi tangan dan obrolan sesuatu untuk dipegang."
-  - "Buku kisah hidup membantu keluarga, tamu, dan staf perawat mengenal orangnya, bukan hanya diagnosisnya."
-  - "Jika sebuah kenangan membawa kesedihan, hibur beliau lebih dulu lalu beralih dengan lembut."
+  - "Mengenang adalah percakapan, bukan tes. Ketepatan tidak penting; yang penting adalah kenyamanan."
+  - "Ganti “Apakah Anda ingat...?” dan “Siapa ini?” dengan komentar dan ajakan seperti “Ceritakan tentang hari ini.”"
+  - "Kotak kenangan berisi benda-benda dari kehidupan orang tersebut memberi tangan dan percakapan sesuatu untuk dipegang."
+  - "Buku kisah hidup membantu keluarga, tamu, dan staf perawatan mengenal orangnya, bukan hanya diagnosisnya."
+  - "Jika sebuah kenangan membawa kesedihan, berikan kenyamanan dulu lalu alihkan dengan lembut."
 faq:
-  - q: "Apa itu kegiatan mengenang masa lalu bagi orang dengan demensia?"
-    a: "Mengenang masa lalu adalah berbagi kenangan dan pengalaman masa lalu, sering kali dengan bantuan foto, benda, musik, atau video. Kegiatan ini bisa dilakukan berdua atau dalam kelompok. Tujuannya adalah obrolan yang menyenangkan dan bermakna, bukan menguji apa yang bisa diingat orang tersebut."
-  - q: "Mengapa sebaiknya tidak bertanya “Ingat tidak?”"
-    a: "Pertanyaan yang menguji ingatan bisa membuat seseorang merasa malu atau cemas ketika jawabannya tidak kunjung muncul. National Institute on Aging menyebut bertanya apakah seseorang ingat sesuatu atau seseorang sebagai hal yang perlu dihindari. Sebagai gantinya, komentari apa yang Anda lihat, dan biarkan beliau menambahkan apa saja yang beliau mau."
-  - q: "Apa yang sebaiknya dimasukkan ke kotak kenangan?"
-    a: "Pilih benda yang aman dan kokoh yang terkait dengan kehidupan orang tersebut: barang dari pekerjaannya, perlengkapan hobi, selendang kesayangan, kartu pos, kartu resep, suvenir olahraga, atau salinan foto. Hindari benda tajam, benda kecil yang bisa tertelan, dan barang asli yang tidak tergantikan."
-  - q: "Bagaimana jika beliau salah menyebut fakta?"
-    a: "Biarkan saja. Jika ibu Anda bilang foto itu menunjukkan adiknya padahal itu sepupunya, tidak apa-apa. Mengoreksi mengubah momen yang hangat menjadi ujian. Ikuti cerita yang sedang beliau sampaikan dan nikmati bersama."
+  - q: "Apa itu kegiatan mengenang bagi orang yang hidup dengan demensia?"
+    a: "Mengenang adalah berbagi kenangan dan pengalaman masa lalu, sering kali dengan bantuan foto, benda, musik, atau video. Kegiatan ini bisa dilakukan berdua atau dalam kelompok. Tujuannya adalah percakapan yang menyenangkan dan bermakna, bukan menguji apa yang dapat diingat oleh orang tersebut."
+  - q: "Mengapa saya tidak perlu bertanya “Apakah Anda ingat?”"
+    a: "Pertanyaan yang menguji ingatan dapat membuat seseorang merasa malu atau cemas ketika jawabannya tidak muncul. National Institute on Aging mencantumkan pertanyaan tentang apakah seseorang mengingat sesuatu atau seseorang sebagai hal yang sebaiknya dihindari. Berikan komentar tentang apa yang Anda lihat, lalu biarkan orang tersebut menambahkan apa pun yang ia inginkan."
+  - q: "Apa yang sebaiknya saya masukkan ke kotak kenangan?"
+    a: "Pilih benda yang aman dan kokoh yang terkait dengan kehidupan orang tersebut: perlengkapan kerja, alat hobi, syal favorit, kartu pos, kartu resep, suvenir olahraga, atau salinan foto. Hindari benda tajam, benda kecil yang bisa tertelan, dan barang asli yang tidak tergantikan."
+  - q: "Bagaimana jika ia salah menyebutkan fakta?"
+    a: "Biarkan saja. Jika ibu Anda mengatakan foto itu menunjukkan adiknya padahal itu sepupunya, tidak apa-apa. Mengoreksi mengubah momen hangat menjadi tes. Ikuti cerita yang sedang ia sampaikan dan nikmati bersama."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -42,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Mengenang masa lalu sekadar berarti menikmati masa lalu bersama. Bagi banyak orang dengan demensia, kenangan dari puluhan tahun lalu tetap lebih jelas daripada apa yang terjadi tadi pagi. Foto, benda yang akrab, musik, dan cerita bisa membuka kenangan itu dan memberi Anda sesuatu yang hangat untuk dinikmati bersama. Satu aturannya: ini adalah obrolan, tidak pernah kuis.
+Mengenang berarti menikmati masa lalu bersama. Bagi banyak orang yang hidup dengan demensia, kenangan dari puluhan tahun lalu bisa terasa lebih jelas daripada kejadian pagi ini. Foto, benda yang akrab, musik, dan cerita dapat membuka kenangan itu dan memberi Anda sesuatu yang hangat untuk dibagikan. Satu aturan utama: ini adalah percakapan, bukan kuis.
 
-## Apa itu mengenang masa lalu, dan apa bedanya dengan menguji?
+## Apa itu kegiatan mengenang, dan apa bedanya dengan kuis?
 
-Mengenang masa lalu adalah berbagi kenangan lewat foto, benda, musik, atau video, dengan tempo orang itu sendiri. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) menggambarkannya sebagai berbagi pengalaman dan cerita masa lalu dengan bantuan foto, benda, video, atau musik, dalam sebuah buku atau di tablet. Menguji itu berbeda: menguji meminta orang tersebut memberikan jawaban yang benar, dan hal itu bisa menimbulkan rasa malu alih-alih kesenangan.
+Mengenang adalah berbagi kenangan melalui foto, benda, musik, atau video, dengan mengikuti tempo orang tersebut. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) menggambarkannya sebagai berbagi pengalaman dan cerita masa lalu dengan bantuan foto, benda, video, atau musik, dalam sebuah buku atau di tablet. Kuis berbeda: kuis meminta orang tersebut memberikan jawaban yang benar, dan hal itu dapat menimbulkan rasa malu alih-alih kenyamanan.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) menyebut bertanya kepada seseorang apakah ia ingat sesuatu atau seseorang sebagai hal yang perlu dihindari. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) menyarankan untuk menghindari pertanyaan yang mengandalkan ingatan jangka pendek dan membicarakan masa lalu yang lebih jauh sebagai gantinya.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) mencantumkan pertanyaan tentang apakah seseorang mengingat sesuatu atau seseorang sebagai hal yang sebaiknya dihindari. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) menyarankan untuk menghindari pertanyaan yang bergantung pada ingatan jangka pendek dan berbicara tentang masa lalu yang lebih jauh.
 
-| Alih-alih | Coba |
+| Daripada | Coba |
 | --- | --- |
-| “Ingat tidak ini?” | “Kelihatannya ini hari yang bahagia. Ceritakan dong.” |
-| “Ini siapa?” | “Ini Bude Ani di pantai. Lihat topinya.” |
-| “Ini tahun berapa?” | “Sepertinya ini rumah yang lama. Bagaimana rasanya tinggal di sana?” |
-| “Bukan, itu bukan Om Budi, itu Om Joko.” | “Kelihatannya beliau orang yang asyik.” |
-| “Cerita itu sudah pernah diceritakan.” | “Saya suka sekali cerita itu.” |
+| “Apakah Anda ingat ini?” | “Ini terlihat seperti hari yang menyenangkan. Ceritakan tentang hari itu.” |
+| “Siapa ini?” | “Ini Bibi Rose di pantai. Lihat topinya.” |
+| “Tahun berapa ini?” | “Ini terlihat seperti rumah lama. Bagaimana rasanya tinggal di sana?” |
+| “Bukan, itu bukan Pak Budi, itu Pak Andi.” | “Ia terlihat sangat ceria.” |
+| “Anda sudah cerita tadi.” | “Saya suka cerita itu.” |
 
-## Bagaimana membicarakan foto tanpa menguji?
+## Bagaimana cara membicarakan foto tanpa menguji?
 
-Awali dengan apa yang Anda lihat, lalu beri ruang bagi orang tersebut untuk menambahkan sesuatu jika beliau mau.
+Mulailah dengan apa yang Anda lihat, lalu beri ruang bagi orang tersebut untuk menambahkan sesuatu jika ia mau.
 
 1. **Duduk berdampingan.** Pegang album di antara Anda berdua agar Anda melihat bersama, bukan menguji dari seberang meja.
-2. **Pilih beberapa foto.** Lima foto yang bagus lebih baik daripada satu kotak penuh. Cetakan yang besar dan jelas paling cocok.
-3. **Sebutkan sendiri nama orangnya.** “Ini Ibu dan Bapak di hari pernikahan” menghilangkan tekanan.
-4. **Komentari detailnya.** Pakaian, mobil, makanan, cuaca, wajah. “Wah, mobilnya. Mengilap sekali.”
-5. **Ajak, jangan menuntut.** “Ceritakan tentang…” atau “Apa yang Anda perhatikan?” Diam pun tidak apa-apa.
-6. **Ikuti arahannya.** Jika beliau membicarakan hal yang sama sekali lain, ikuti saja.
-7. **Berhentilah selagi masih menyenangkan.** Tutup albumnya sebelum rasa lelah datang.
+2. **Pilih beberapa foto.** Lima foto yang baik lebih membantu daripada satu kotak penuh. Cetakan besar dan jelas paling mudah dilihat.
+3. **Sebutkan nama orangnya sendiri.** “Ini Anda dan Ayah di hari pernikahan Anda” mengurangi tekanan.
+4. **Berikan komentar tentang detail.** Pakaian, mobil, makanan, cuaca, wajah. “Mobil yang bagus. Terlihat sangat mengilap.”
+5. **Ajak, jangan menuntut.** “Ceritakan tentang...” atau “Apa yang Anda lihat?” Diam sejenak juga tidak apa-apa.
+6. **Ikuti arah ceritanya.** Jika ia berbicara tentang hal lain, ikuti saja.
+7. **Berhenti saat masih menyenangkan.** Tutup album sebelum ia mulai lelah.
 
-Untuk ajakan bergambar yang sudah siap pakai, coba [kartu obrolan](/games/conversation-cards/). Untuk mengubah foto keluarga Anda sendiri menjadi permainan mencocokkan yang lembut, coba [pasangan foto](/games/photo-pairs/); foto yang Anda pilih tetap berada di peramban Anda.
+Untuk kartu gambar siap pakai yang dapat memicu obrolan, coba [conversation cards](/games/conversation-cards/). Untuk mengubah foto keluarga Anda sendiri menjadi permainan mencocokkan yang lembut, coba [photo pairs](/games/photo-pairs/); foto yang Anda pilih tetap berada di peramban Anda.
 
-## Bagaimana membuat kotak kenangan?
+## Bagaimana cara membuat kotak kenangan?
 
 Kotak kenangan adalah wadah berisi benda-benda dari kehidupan orang tersebut untuk dipegang dan dibicarakan.
 
 1. **Pilih kotak yang kokoh** dan mudah dibuka, seperti kotak sepatu, kotak topi, atau peti kayu kecil.
-2. **Pilih tema atau campuran.** Pekerjaan, hobi, sebuah tempat, satu dasawarsa, atau sedikit dari semuanya.
+2. **Pilih satu tema atau campuran.** Pekerjaan, hobi, tempat, satu masa tertentu, atau sedikit dari semuanya.
 3. **Kumpulkan benda yang aman.** Lima sampai sepuluh benda sudah cukup untuk memulai.
-4. **Gunakan salinan untuk barang berharga.** Salin foto dan dokumen yang tidak tergantikan dan simpan yang asli di tempat aman.
-5. **Keluarkan benda satu per satu.** Berikan satu, katakan sesuatu tentangnya, dan lihat ke mana obrolannya mengalir.
+4. **Gunakan salinan untuk barang berharga.** Salin foto dan dokumen yang tidak tergantikan, lalu simpan barang aslinya dengan aman.
+5. **Keluarkan satu benda dalam satu waktu.** Serahkan satu benda, katakan sesuatu tentang benda itu, dan lihat ke mana obrolan mengalir.
 
-Ide isinya:
+Ide benda yang bisa dimasukkan:
 
-- **Pekerjaan:** tanda pengenal, perkakas kecil, lencana seragam, buku kas, pin perawat, buku resep dari warung makan.
-- **Rumah:** kartu resep tulisan tangan beliau, serbet dapur, selendang atau dasi kesayangan.
-- **Hobi:** umpan pancing tanpa kail, bola sepak, segulung benang, bungkus benih tanaman.
-- **Tempat:** kartu pos, peta, suvenir wisata, potongan koran dari kampung halaman.
-- **Keluarga:** salinan foto, gambar buatan anak, undangan pernikahan.
+- **Pekerjaan:** kartu nama, alat kecil, emblem seragam, buku catatan, pin perawat, buku resep dari warung makan.
+- **Rumah:** kartu resep dengan tulisan tangannya, serbet dapur, syal atau dasi favorit.
+- **Hobi:** umpan pancing tanpa kail, bola, gulungan benang, bungkus benih.
+- **Tempat:** kartu pos, peta, suvenir perjalanan, potongan koran dari kampung halaman.
+- **Keluarga:** salinan foto, gambar anak, undangan pernikahan.
 
-Jangan masukkan benda tajam, benda kecil yang bisa tertelan, dan apa pun yang mungkin membawa kenangan menyakitkan, kecuali Anda tahu benda itu disambut baik.
+Jangan masukkan benda tajam, benda kecil yang bisa tertelan, atau apa pun yang mungkin membangkitkan kenangan menyakitkan kecuali Anda tahu benda itu diterima dengan baik.
 
-## Bagaimana membuat buku kisah hidup?
+## Bagaimana cara membuat buku kisah hidup?
 
-Buku kisah hidup adalah album sederhana berisi foto dan keterangan singkat tentang kehidupan orang tersebut. Buku ini untuk dilihat bersama, dan membantu tamu serta staf perawat melihat orang itu secara utuh.
+Buku kisah hidup adalah album sederhana berisi foto dan keterangan singkat tentang kehidupan orang tersebut. Buku ini dapat dilihat bersama, dan membantu tamu serta staf perawatan melihat sosoknya secara utuh.
 
-1. **Pilih bentuknya.** Map bercincin dengan plastik pelindung, buku foto cetak, atau tayangan slide di tablet.
-2. **Rencanakan beberapa bagian.** Masa kecil, sekolah, pekerjaan, keluarga, tempat tinggal, keyakinan, hobi, makanan, dan musik kesukaan.
-3. **Tambahkan satu atau dua foto per halaman** dengan keterangan singkat bercetak besar: “Sri, usia 22 tahun, mulai bekerja di bank.”
-4. **Sertakan kesukaan dan kebiasaan.** “Minum kopi pakai susu. Suka lagu rohani. Tidak suka TV yang keras.” Ini membantu siapa pun yang merawatnya.
-5. **Libatkan beliau** sejauh yang beliau mau, entah memilih foto, bercerita, atau sekadar melihat bukunya terbentuk.
-6. **Terus tambahkan.** Buku ini tidak perlu selesai untuk bisa berguna.
+1. **Pilih formatnya.** Binder dengan pelindung lembar, buku foto cetak, atau tayangan slide di tablet.
+2. **Rencanakan beberapa bagian.** Masa kecil, sekolah, pekerjaan, keluarga, tempat tinggal, keyakinan, hobi, makanan dan musik favorit.
+3. **Tambahkan satu atau dua foto per halaman** dengan keterangan singkat berhuruf besar: “Sari, usia 22 tahun, mulai bekerja di bank.”
+4. **Sertakan kesukaan dan rutinitas.** “Minum kopi dengan susu. Suka lagu rohani hari Minggu. Tidak suka TV dengan suara keras.” Ini membantu siapa pun yang merawatnya.
+5. **Libatkan orang tersebut** sebisa dan semau ia, memilih foto, bercerita, atau sekadar melihat buku itu tersusun.
+6. **Terus tambahkan.** Buku ini tidak perlu selesai agar tetap berguna.
 
-## Ide lain untuk mengenang masa lalu
+## Ide mengenang lainnya
 
 - **Putar musik dari masa mudanya** dan bicarakan ke mana musik itu membawanya. Lihat [kegiatan musik](/activities/music/).
-- **Tonton video keluarga atau acara TV** dari dasawarsa kesukaannya.
-- **Masak hidangan masa kecilnya** dan biarkan aromanya memandu obrolan.
+- **Tonton film rumah atau acara TV** dari dekade favoritnya.
+- **Masak hidangan masa kecil** dan biarkan aromanya memulai percakapan.
 - **Lihat peta** kampung halamannya dan telusuri jalan-jalan yang akrab.
-- **Buka-buka katalog atau majalah lama** dan bicarakan harga, mode, dan mobil.
-- **Rekam cerita-ceritanya** di ponsel, dengan izinnya, untuk keluarga.
-- **Berbagi saat menelepon.** Tunjukkan satu foto saat panggilan video; lihat [telepon dan panggilan video](/activities/phone-and-video-calls/).
+- **Pegang katalog atau majalah lama** dan bicarakan harga, gaya, dan mobil pada masa itu.
+- **Rekam ceritanya** di ponsel, dengan izinnya, untuk keluarga.
+- **Bagikan saat menelepon.** Tunjukkan satu foto saat panggilan video; lihat [telepon dan panggilan video](/activities/phone-and-video-calls/).
 - **Bawa foto atau benda saat berkunjung.** Ini memberi kunjungan fokus yang mudah; lihat [berkunjung](/activities/visiting/).
 
-## Bagaimana jika sebuah kenangan menyakitkan?
+## Bagaimana jika sebuah kenangan terasa menyakitkan?
 
-Sebagian kenangan membawa duka, penyesalan, atau rasa takut. Jika orang tersebut menjadi sedih atau gelisah, berhentilah, hibur beliau, dan dengan lembut alihkan topik atau kegiatannya. Jangan berdebat tentang apa yang terjadi. Family Caregiver Alliance menyarankan untuk tidak berusaha meyakinkan seseorang bahwa ia keliru, dan menyarankan untuk menanggapi perasaan yang ditunjukkannya, karena perasaan itu nyata. Jika beliau membicarakan seseorang yang sudah meninggal seolah-olah masih hidup, tanggapi perasaannya: “Kangen beliau, ya. Ceritakan tentang beliau.”
+Beberapa kenangan dapat membawa duka, penyesalan, atau rasa takut. Jika orang tersebut tampak sedih, berhenti, beri kenyamanan, lalu alihkan dengan lembut ke topik atau kegiatan lain. Jangan berdebat tentang apa yang terjadi. Family Caregiver Alliance menyarankan agar tidak mencoba meyakinkan seseorang bahwa ia salah dan menyarankan untuk merespons perasaan yang ia tunjukkan, karena perasaan itu nyata. Jika ia berbicara tentang seseorang yang sudah meninggal seolah-olah orang itu masih hidup, tanggapi perasaannya: “Anda merindukannya. Ceritakan tentang dia.”
 
 ## Apa kata penelitian?
 
-Sebuah [tinjauan Cochrane tentang terapi mengenang masa lalu](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), yang mencakup 22 uji klinis dan 1.972 orang, menemukan bahwa efeknya tidak konsisten, kecil, dan berbeda-beda menurut tempat dan bentuk kegiatannya. Tinjauan itu tidak menemukan bukti adanya bahaya bagi orang dengan demensia. Kami menyarankan kegiatan mengenang masa lalu karena kegiatan ini bisa menghadirkan waktu bersama yang hangat dan bermakna, bukan sebagai pengobatan. Untuk lebih lanjut tentang obrolan yang mudah, lihat [tips berkomunikasi](/caregiving/communication-tips/).
+[Tinjauan Cochrane tentang reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), yang mencakup 22 uji coba dan 1.972 orang, menemukan bahwa hasilnya tidak konsisten, kecil, dan berbeda-beda tergantung tempat serta bentuk kegiatannya. Tinjauan ini tidak menemukan bukti adanya bahaya bagi orang yang hidup dengan demensia. Kami menyarankan kegiatan mengenang karena dapat menjadi waktu bersama yang hangat dan bermakna, bukan sebagai pengobatan. Untuk panduan percakapan yang lebih mudah, lihat [tips komunikasi](/caregiving/communication-tips/).

@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Vahelduv paastumine ja dementsus: mida uuringud näitavad"
+seoTitle: "Vahelduv paastumine ja dementsus: uuringute info"
+description: "Inimuuringute tõendid vahelduva paastumise ja dementsuse kohta on piiratud ja varased. Loe vanemate inimeste riskidest ja sellest, miks piisav toitumine on dementsuse korral olulisem."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Heade tõendite järgi ei aita vahelduv paastumine dementsust ära hoida ega
+  aeglustada. Suur osa uuringutest on tehtud loomadel ning vanemate inimeste
+  seas tehtud inimuuringud on väikesed ja lühiajalised. Paastumine võib vanemate
+  inimeste jaoks olla riskantne: kaalu- ja lihaskao, mõnede diabeediravimitega
+  madala veresuhkru, vedelikupuuduse ning kukkumiste tõttu. Dementsusega inimeste
+  puhul on tavaliselt olulisem, et nad saaksid piisavalt süüa ja juua. Rääkige
+  enne arstiga.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging ütleb, et tõendeid ei ole piisavalt, et soovitada mõnda paastu- või kaloripiiranguga toitumisviisi, eriti vanematele inimestele."
+  - "Suur osa paastumise ja vananemise uuringutest on tehtud loomadel ning nende tulemused ei pruugi inimestele kehtida."
+  - "Vanemate inimeste võimalikud riskid on tahtmatu kaalulangus, lihaskadu, mõnede diabeediravimite kasutamisel madal veresuhkur, vedelikupuudus, peapööritus ja kukkumised."
+  - "Dementsusega inimesed unustavad sageli süüa või juua või arvavad, et on seda juba teinud. Tavaliselt on palju olulisem aidata neil piisavalt süüa ja juua kui see, millal nad söövad."
+  - "Ärge kasutage paastumist dementsusega inimese puhul. Enne söömisharjumuste muutmist rääkige arsti või toitumisspetsialistiga."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Kas vahelduv paastumine hoiab ära Alzheimeri tõbe?"
+    a: "Selle kohta ei ole häid tõendeid. Suur osa uuringutest on tehtud loomadel ning inimuuringud on enamasti olnud lühikesed, tehtud nooremate või ülekaaluliste täiskasvanutega ja keskendunud kaalulangusele. National Institute on Aging ütleb, et tõendeid ei ole piisavalt, et soovitada paastumistoitumist laiemalt."
+  - q: "Kas vahelduv paastumine on vanematele inimestele ohutu?"
+    a: "See ei pruugi olla. Paastumine võib põhjustada tahtmatut kaalu- ja lihaskadu, vedelikupuudust, peapööritust ja kukkumisi ning insuliini või mõnda muud diabeediravimit kasutavatel inimestel ohtlikult madalat veresuhkrut. Mayo Clinic märgib, et see ei pruugi sobida inimestele, kellel on suur luukao ja kukkumiste oht. Enne proovimist rääkige arstiga."
+  - q: "Kas dementsusega inimene võiks paastumist proovida?"
+    a: "Ei. Dementsusega inimestel on sageli raskusi piisava söögi ja joogiga ning ebapiisav toitumine võib käitumuslikke sümptomeid suurendada ja kaalulangust põhjustada. Paastumine lisab riski ilma tõestatud kasuta. Pöörake tähelepanu hoopis regulaarsetele söögikordadele, neile meeldivatele suupistetele ja piisavale vedelikule."
+  - q: "Millised märgid viitavad sellele, et dementsusega inimene ei saa piisavalt süüa või juua?"
+    a: "Pöörake tähelepanu kaalulangusele, avaramaks muutuvatele riietele, väsimusele, nõrkusele, kõhukinnisusele või toidust keeldumisele. National Institute on Aging loetleb vedelikupuuduse tunnustena muu hulgas suukuivuse, peapöörituse, kiire südamerütmi ja hallutsinatsioonid. Kui märkate neid, rääkige inimese arstiga."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,136 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Vahelduv paastumine, näiteks ainult kaheksatunnise ajavahemiku jooksul söömine
+või kalorite järsk vähendamine kahel päeval nädalas, pälvib palju tähelepanu.
+Mõned artiklid vihjavad, et see võib aju kaitsta. Kui olete vanem inimene või
+hoolitsete dementsusega inimese eest, siis siin on see, mida uuringud tegelikult
+näitavad ja miks ettevaatus on oluline.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+See on üldine teave, mitte meditsiiniline nõuanne. Ärge alustage paastumist ega
+muutke hooldatava inimese toitumist ilma arsti või toitumisspetsialistiga
+rääkimata. Vaadake meie [meditsiinilist lahtiütlust](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Kas vahelduv paastumine hoiab dementsust ära?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Heade tõendite järgi ei aita vahelduv paastumine dementsust ära hoida ega
+aeglustada. National Institute on Aging (NIA) ütleb, et tõendeid ei ole
+piisavalt, et soovitada mõnda kaloripiirangu- või paastutoitumist, ning et
+nende tõhususe ja ohutuse kohta on vaja palju rohkem teada, eriti vanemate
+inimeste puhul ([NIA kaloripiirangu ja paastumise kohta](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Miks on tõendid nii piiratud
 
-The NIA gives several reasons:
+NIA toob välja mitu põhjust:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Enamik uuringuid on tehtud loomadel.** Uuringud ussidel, kärbestel, hiirtel
+  ja ahvidel on andnud huvitavaid tulemusi, kuid need leiud ei pruugi inimestele
+  kehtida. Ka loomadel on tulemused segased; mõnel hiiretõul lühendas
+  kaloripiirang eluiga.
+- **Inimuuringud on olnud lühikesed.** Enamik kestis mõnest nädalast mõne kuuni.
+- **Enamik inimuuringuid keskendus kaalulangusele** ülekaalulistel
+  täiskasvanutel, mitte mälule ega dementsusele.
+- **Vanemaid inimesi kaasatakse harva.** Paljudes uuringutes osalesid inimesed
+  vanuses 60 aastat või nooremad.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026. aasta süstemaatiline ülevaade vaatles vahelduvat paastumist spetsiaalselt
+60-aastaste ja vanemate täiskasvanute seas. Selle kohaselt on tõendid selles
+vanuserühmas endiselt piiratud: uuringud on väikesed, järelhindamine lühike ja
+lähenemised erinevad. Mõtlemise ja mälu kohta käivad leiud pärinesid üksikutest
+uuringutest, mitte koondatud katsetulemustest. Ülevaade märkis ka, et mõnes
+uuringus seostati väga lühikesi söömise ajavahemikke või pikki paastuperioode
+halvemate tulemustega, ning autorid kutsusid vanemate inimeste puhul üles
+ettevaatusele ([2026. aasta ülevaade ajakirjas Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Mõned teadlased arvavad, et keha üleminek paastu ajal rasva põletamisele võib
+aju mõjutada, kuid see on endiselt uurimisel olev teooria. NIA märgib, et teadus
+on ebakindel.
 
-## What are the risks of fasting for older adults?
+## Millised on paastumise riskid vanemate inimeste jaoks?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Paastumine ei ole paljude vanemate inimeste jaoks kahjutu katsetus. Võimalikud
+riskid on muu hulgas:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Tahtmatu kaalulangus.** Kui süüakse vähem, kui keha vajab, võib see viia
+  kaalulanguse ja lihasjõu vähenemiseni, mis võib inimese hapramaks muuta.
+- **Lihas- ja luukadu.** NIA toetatud kaheaastases kaloripiirangu uuringus noorte
+  ja keskikka jõudnud täiskasvanute seas täheldati osalejatel kerget luutiheduse
+  ja lahja kehakoesluse vähenemist.
+- **Madal veresuhkur diabeediravimitega.** [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia)
+  andmetel võib insuliini või mõnda muud diabeediravimit kasutavatel inimestel
+  veresuhkur söögikorra vahelejätmise või edasilükkamise tõttu liiga madalaks
+  langeda. Madal veresuhkur võib põhjustada peapööritust, segadust ja
+  ärrituvust.
+- **Vedelikupuudus.** Kui koos söögiga jäetakse vahele ka joogid, võib inimesel
+  tekkida vedelikupuudus.
+- **Peapööritus ja kukkumised.** Mayo Clinic märgib, et vahelduv paastumine võib
+  põhjustada väga suurt väsimust ja peapööritust ning et see ei pruugi olla
+  tervislik toitumisviis inimestele, kellel on suur luukao ja kukkumiste oht
+  ([Mayo Clinic vahelduva paastumise kohta](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Muud mõjud.** Mayo Clinic nimetab ka peavalu, tujukõikumisi ja
+  kõhukinnisust ning märgib, et mõnede andmete järgi võib 16-tunnine paast ja
+  8-tunnine söömise ajavahemik suurendada südamehaiguste riski võrreldes teiste
+  söömise ajavahemikega. Need tõendid ei ole lõplikud.
 
-## Why is eating enough the bigger concern with dementia?
+## Miks on piisav toitumine dementsuse korral olulisem mure?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Dementsusega inimeste puhul on tavalisem probleem see, et nad saavad **piisavalt**
+süüa ja juua, mitte liiga palju. Alzheimer's Association selgitab, et haiguse
+keskmises ja hilisemas staadiumis võivad inimesed toiduvalikutest ülekoormatuna
+tunda, unustada söömist või arvata, et on juba söönud. Samuti lisab organisatsioon,
+et ebapiisav toitumine võib käitumuslikke sümptomeid suurendada ja kaalulangust
+põhjustada ([Alzheimer's Association toidu ja söömise kohta](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society märgib, et ebapiisav söömine võib viia kaalulanguse,
+lihasejõu vähenemise, väsimuse ja nõrkuseni, mistõttu inimene võib muutuda
+hapramaks ja taastuda nakkustest raskemini ([Alzheimer's Society isu kohta](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Nendel põhjustel ei ole paastumine dementsusega inimese jaoks hea mõte.**
+Vahelejäetud söögikorrad võivad kergesti muutuda söömata söögikordadeks. Iga
+muudatus dementsusega inimese toitumises peaks toimuma arsti või
+toitumisspetsialisti juhendamisel.
 
-## What are the warning signs of poor eating or drinking?
+## Millised on ebapiisava söögi või joomise hoiatusmärgid?
 
-Watch for:
+Pöörake tähelepanu järgmisele:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Kaalulangus** või avaramaks muutuvad riided.
+- **Toidu söömata jätmine või söögist keeldumine** või toidu suus hoidmine.
+- **Väsimus või nõrkus.**
+- **Kõhukinnisus**, mis võib olla seotud toitumise ja vedelikupuudusega.
+- **Vedelikupuuduse tunnused.** NIA loetleb suukuivuse, peapöörituse, kiire
+  südamerütmi ja hallutsinatsioonid, mida võib põhjustada ka dementsus ise
+  ([NIA levinud terviseprobleemide kohta](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Isupuudusel võib olla palju võimalikke põhjuseid: valusad hambad või
+logisevad hambaproteesid, uued ravimid, masendus, kõhukinnisus, väiksem
+liikumine või muutused maitse- ja lõhnatajus. Rääkige inimese arstiga kõigist
+sellistest märkidest. Arst saab otsida põhjust ja võib soovitada
+toitumisspetsialisti või toidulisandeid.
 
-## How can you help someone eat and drink enough?
+## Kuidas aidata inimesel piisavalt süüa ja juua?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Pakkuge sageli väikeseid sööke ja suupisteid**, mitte kolme suurt söögikorda.
+- **Pakkuge lemmiktoite** ja olge paindlik, sest maitse-eelistused võivad
+  muutuda. Kui isu on väike, võivad magusamad toidud sobida; küsige arstilt, kas
+  suhkru piiramiseks on tervislikke põhjuseid.
+- **Hoidke joogid käeulatuses** ja pakkuge päeva jooksul väikestes kogustes
+  jooke. Ka supid, puuviljad, smuutid ja piimakokteilid lähevad arvesse.
+- **Sööge võimaluse korral koos.** Söögikorrad on võimalus koos olemiseks, mitte
+  ülesanne, millega ruttama peab.
+- **Proovige näputoitu**, näiteks võileibu, puuviljaviile või kanatükke, kui
+  söögiriistade kasutamine on muutunud keeruliseks.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Meie [toitumisjuhendist](/brain-health/diet/) leiate rohkem mõtteid
+söögikordade kohta. Toidu valmistamises abistamine võib samuti olla meeldiv
+ühine tegevus; vaadake lehte [kodutööd](/activities/household-tasks/).
 
-## Talk with a doctor
+## Rääkige arstiga
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Enne mis tahes paastukava proovimist rääkige oma arsti või
+toitumisspetsialistiga, eriti kui kasutate diabeedi- või vererõhuravimeid, olete
+hiljuti kaalu kaotanud või olete kukkunud. Dementsusega inimese puhul küsige
+tema arstilt, kui palju ta peaks päevas sööma ja jooma, mitte paastumise kohta.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Vajalik on kiire arstiabi äkilise segasuse, minestuse või väga madala
+veresuhkru tunnuste korral, mis kiiresti ei taandu.

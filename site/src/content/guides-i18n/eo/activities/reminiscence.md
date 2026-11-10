@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Rememoraj aktivecoj: memoraj skatoloj, vivrakontoj kaj fotoj"
+seoTitle: "Rememoraj aktivecoj por demenco: sen kvizoj"
+description: "Kiel dividi memorojn kun homo vivanta kun demenco sen kvizado: fotaj babiladoj, memoraj skatoloj kaj vivrakontaj libroj, kun frazoj por trankvila etoso."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Rememorado signifas kune ĝui la pasintecon per fotoj, objektoj, muziko kaj
+  rakontoj. Faru memor-skatolon, kreu simplan vivrakontan libron aŭ rigardu
+  fotojn flanke apud flanke. Neniam kvizu: evitu „Ĉu vi memoras?” kaj „Kiu
+  estas ĉi tiu?” kaj uzu malfermitajn invitojn kiel „Rakontu al mi pri ĉi
+  tio.” Varma interparolo gravas pli ol ĝustaj faktoj.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Rememorado estas interparolo, ne testo. Ĝusteco ne gravas; ĝuo gravas."
+  - "Anstataŭigu „Ĉu vi memoras...?” kaj „Kiu estas ĉi tiu?” per komentoj kaj invitoj kiel „Rakontu al mi pri tiu tago.”"
+  - "Memor-skatolo kun objektoj el la vivo de la persono donas al la manoj kaj al la interparolo ion konkretan."
+  - "Vivrakonta libro helpas familianojn, vizitantojn kaj zorgantojn ekkoni la personon, ne nur la diagnozon."
+  - "Se memoro vekas malĝojon, unue donu komforton kaj milde transiru al io alia."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Kio estas rememorado por homoj vivantaj kun demenco?"
+    a: "Rememorado estas la kundividado de memoroj kaj pasintaj spertoj, ofte helpe de fotoj, objektoj, muziko aŭ filmetoj. Ĝi povas okazi unu kontraŭ unu aŭ en grupo. La celo estas agrabla, signifa interparolo, ne kontrolo de tio, kion la persono povas rememori."
+  - q: "Kial mi ne demandu „Ĉu vi memoras?”"
+    a: "Demandoj, kiuj testas memoron, povas igi personon senti sin embarasita aŭ maltrankvila, kiam la respondo ne venas. La National Institute on Aging listas inter la evitindaj aferoj demandi, ĉu iu memoras ion aŭ iun. Anstataŭe, komentu tion, kion vi vidas, kaj lasu la personon aldoni tion, kion li aŭ ŝi volas."
+  - q: "Kion mi metu en memor-skatolon?"
+    a: "Elektu sekurajn, fortikajn objektojn ligitajn al la vivo de la persono: laborilojn, hobiaĵojn, plej ŝatatan koltukon, bildkartojn, receptkartojn, sportajn memoraĵojn aŭ kopiojn de fotoj. Evitu akrajn objektojn, malgrandajn objektojn, kiujn oni povus engluti, kaj neanstataŭigeblajn originalojn."
+  - q: "Kio, se la persono eraras pri faktoj?"
+    a: "Lasu tion pasi. Se via patrino diras, ke la foto montras ŝian fratinon, dum fakte temas pri ŝia kuzino, tio estas en ordo. Korektado transformas varman momenton en teston. Sekvu la rakonton, kiun la persono rakontas, kaj ĝuu ĝin kune."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Rememorado simple signifas kune ĝui la pasintecon. Por multaj homoj vivantaj kun demenco, memoroj de antaŭ jardekoj restas pli klaraj ol tio, kio okazis ĉi-matene. Fotoj, konataj objektoj, muziko kaj rakontoj povas malfermi tiujn memorojn kaj doni al vi ion varman por kundividi. La sola regulo: temas pri interparolo, neniam pri kvizo.
 
-## What is reminiscence, and how is it different from quizzing?
+## Kio estas rememorado, kaj kiel ĝi diferencas de kvizado?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Rememorado estas la kundividado de memoroj per fotoj, objektoj, muziko aŭ filmetoj, laŭ la propra ritmo de la persono. La [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) priskribas ĝin kiel kundividadon de pasintaj spertoj kaj rakontoj helpe de fotoj, objektoj, filmetoj aŭ muziko, en libro aŭ sur tabulkomputilo. Kvizado estas alia afero: ĝi petas la personon doni ĝustan respondon, kaj tio povas kaŭzi embarason anstataŭ ĝuon.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) listas inter la evitindaj aferoj demandi personon, ĉu li aŭ ŝi memoras ion aŭ iun. La [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sugestas eviti demandojn, kiuj dependas de mallongdaŭra memoro, kaj anstataŭe paroli pri pli malproksima pasinteco.
 
-| Instead of | Try |
+| Anstataŭ | Provu |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| „Ĉu vi memoras ĉi tion?” | „Ĉi tio aspektas kiel feliĉa tago. Rakontu al mi pri ĝi.” |
+| „Kiu estas ĉi tiu?” | „Jen onklino Roza ĉe la plaĝo. Rigardu tiun ĉapelon.” |
+| „En kiu jaro estis ĉi tio?” | „Ĉi tio aspektas kiel la malnova domo. Kiel estis vivi tie?” |
+| „Ne, tio ne estas Bill, tio estas Frank.” | „Li aspektas tre gaja.” |
+| „Vi jam rakontis tion al mi.” | „Mi tre ŝatas tiun rakonton.” |
 
-## How do you talk about photos without quizzing?
+## Kiel paroli pri fotoj sen kvizado?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Komencu per tio, kion vi vidas, kaj poste lasu spacon, por ke la persono povu aldoni ion, se li aŭ ŝi volas.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Sidu flanke apud flanke.** Tenu la albumon inter vi, por ke vi rigardu kune, ne por ke vi testu trans tablo.
+2. **Elektu kelkajn fotojn.** Kvin bonaj fotoj estas pli bonaj ol tuta skatolo. Grandaj, klaraj presaĵoj funkcias plej bone.
+3. **Nomu homojn vi mem.** „Jen vi kaj paĉjo en via geedziĝa tago” forigas la premon.
+4. **Komentu detalojn.** Vestaĵoj, aŭtoj, manĝaĵoj, vetero, vizaĝoj. „Kia aŭto. Ĝi aspektas tiel brila.”
+5. **Invitu, ne postulu.** „Rakontu al mi pri...” aŭ „Kion vi rimarkas?” Silento estas en ordo.
+6. **Sekvu la gvidon de la persono.** Se li aŭ ŝi ekparolas pri tute alia afero, iru kun tio.
+7. **Ĉesu, dum ankoraŭ estas agrable.** Fermu la albumon antaŭ ol aperos laceco.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Por pretaj bildaj instigoj, provu [conversation cards](/games/conversation-cards/). Por fari el viaj propraj familiaj fotoj mildan kongruigan ludon, provu [photo pairs](/games/photo-pairs/); la fotoj, kiujn vi elektas, restas en via retumilo.
 
-## How do you make a memory box?
+## Kiel fari memor-skatolon?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Memor-skatolo estas ujo kun objektoj el la vivo de la persono, kiujn oni povas preni en la manojn kaj priparoli.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Elektu fortikan skatolon**, kiun estas facile malfermi, ekzemple ŝu-skatolon, ĉapel-skatolon aŭ malgrandan lignan kesteton.
+2. **Elektu temon aŭ miksaĵon.** Laboro, hobio, loko, jardeko, aŭ iom da ĉio.
+3. **Kolektu sekurajn objektojn.** Kvin ĝis dek objektoj sufiĉas por komenci.
+4. **Uzu kopiojn de valoraj aĵoj.** Kopiu neanstataŭigeblajn fotojn kaj dokumentojn kaj tenu la originalojn sekure.
+5. **Prenu objektojn unu post alia.** Donu unu, diru ion pri ĝi, kaj vidu, kien iras la interparolo.
 
-Ideas to include:
+Ideoj por enmeti:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Laboro:** nomsigno, malgranda ilo, uniforma peceto, registro, flegista pinglo, kuirlibro el manĝejeto.
+- **Hejmo:** receptkarto en la manskribo de la persono, teakuko, plej ŝatata koltuko aŭ kravato.
+- **Hobioj:** fiŝkaptista logilo sen hoko, basbalpilko, fadenbulo, semopako.
+- **Lokoj:** bildkartoj, mapoj, turisma memoraĵo, gazetotranĉaĵo el la hejmurbo.
+- **Familio:** kopioj de fotoj, desegnaĵo de infano, geedziĝa invito.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Ne enmetu akrajn objektojn, malgrandajn aĵojn, kiujn oni povus engluti, aŭ ion, kio povus veki dolorajn memorojn, krom se vi scias, ke tio estas bonvena.
 
-## How do you make a life-story book?
+## Kiel fari vivrakontan libron?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Vivrakonta libro estas simpla albumo kun fotoj kaj mallongaj priskriboj pri la vivo de la persono. Ĝi estas io por rigardi kune, kaj ĝi helpas vizitantojn kaj zorgantojn vidi la tutan personon.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Elektu formon.** Ringlibro kun plastaj ingoj, presita fotolibro aŭ bildserio sur tabulkomputilo.
+2. **Planu kelkajn partojn.** Infanaĝo, lernejo, laboro, familio, loĝlokoj, kredo, hobioj, plej ŝatataj manĝaĵoj kaj muziko.
+3. **Aldonu unu aŭ du fotojn sur paĝo** kun mallonga, grandlitera priskribo: „Maria, 22-jara, ekkomencas laboron en la banko.”
+4. **Inkluzivu ŝatojn kaj kutimojn.** „Trinkas kafon kun lakto. Ŝatas dimanĉajn himnojn. Ne ŝatas laŭtan televidon.” Tio helpas ĉiujn, kiuj zorgas pri la persono.
+5. **Impliku la personon** tiom, kiom li aŭ ŝi volas: elektante fotojn, rakontante historiojn aŭ simple rigardante, kiel la libro formiĝas.
+6. **Daŭre aldonu.** Ĝi ne bezonas esti finita por esti utila.
 
-## More reminiscence ideas
+## Pliaj ideoj por rememorado
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Ludu muzikon el la juneco de la persono** kaj parolu pri tio, kien ĝi kondukas lin aŭ ŝin. Vidu [muzikajn aktivecojn](/activities/music/).
+- **Spektu familiajn filmojn aŭ televidajn programojn** el la jardekoj, kiujn la persono plej ŝatas.
+- **Kuiri infanaĝan manĝaĵon** kaj lasu la odorojn gvidi la interparolon.
+- **Rigardu mapon** de la hejmurbo de la persono kaj sekvu konatajn stratojn.
+- **Prenu en la manojn malnovajn katalogojn aŭ revuojn** kaj parolu pri prezoj, modo kaj aŭtoj.
+- **Registru la rakontojn de la persono** per telefono, kun lia aŭ ŝia permeso, por la familio.
+- **Kundividu dum vokoj.** Montru unu foton dum videovoko; vidu [telefonajn kaj videovokojn](/activities/phone-and-video-calls/).
+- **Portu foton aŭ objekton, kiam vi vizitas.** Tio donas al la vizito facilan fokuson; vidu [vizitado](/activities/visiting/).
 
-## What if a memory is painful?
+## Kio, se memoro estas dolora?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Kelkaj memoroj vekas malĝojon, bedaŭron aŭ timon. Se la persono maltrankviliĝas, haltu, donu komforton kaj milde ŝanĝu la temon aŭ aktivecon. Ne disputu pri tio, kio okazis. La Family Caregiver Alliance konsilas ne provi konvinki personon, ke li aŭ ŝi eraras, kaj sugestas respondi al la sentoj, kiujn la persono montras, ĉar ili estas realaj. Se la persono parolas pri iu forpasinta, kvazaŭ tiu ankoraŭ vivus, respondu al la sento: „Vi sopiras ŝin. Rakontu al mi pri ŝi.”
 
-## What does the research say?
+## Kion diras la esplorado?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Revizio de Cochrane pri rememorado](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), kiu inkluzivis 22 studojn kaj 1 972 homojn, trovis, ke la efikoj estis malkonsekvencaj, malgrandaj kaj malsamaj laŭ medio kaj formo. Ĝi ne trovis indikaĵojn pri malutilo por homoj vivantaj kun demenco. Ni sugestas rememoradon ĉar ĝi povas krei varman, signifan tempon kune, ne kiel kuracilon. Por pli pri facila interparolo, vidu [konsiletojn pri komunikado](/caregiving/communication-tips/).

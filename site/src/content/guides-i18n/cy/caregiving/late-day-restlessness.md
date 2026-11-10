@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Gweithgareddau Hwylus yn Hwyr y Prynhawn"
+seoTitle: "Sundowning: Gweithgareddau Hwylus yn Hwyr"
+description: "Awgrymiadau ymarferol, newidiadau i’r ystafell a gweithgareddau tawel a all helpu i leddfu aflonyddwch gyda’r nos mewn dementia, a phryd i ffonio meddyg."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Mae sundowning yn aflonyddwch, dryswch neu lid sy’n dechrau neu’n gwaethygu
+  yn hwyr yn y prynhawn neu gyda’r nos. Gall camau ymarferol a all helpu
+  gynnwys trefn ddyddiol gyson, golau dydd a gweithgaredd yn gynharach yn y
+  dydd, llai o gysgu yn hwyr yn y prynhawn, llai o gaffein, goleuadau llachar
+  dan do cyn iddi dywyllu, cartref tawelach, a gweithgareddau tawel fel
+  cerddoriaeth, lluniau neu blygu dillad. Mae angen i feddyg wirio symptomau
+  newydd neu symptomau sy’n gwaethygu.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Mae sundowning yn golygu aflonyddwch neu ddryswch sy’n dechrau neu’n gwaethygu wrth i olau dydd bylu."
+  - "Rhowch dasgau heriol, apwyntiadau ac ymdrochi yn y bore neu’n gynnar yn y prynhawn."
+  - "Gall golau dydd, taith gerdded ddyddiol, llai o gysgu yn hwyr yn y prynhawn a llai o gaffein yn hwyr yn y dydd helpu gyda’r hwyr."
+  - "Trowch y goleuadau ymlaen cyn iddi dywyllu, gostyngwch y sŵn, a newidiwch at weithgareddau tawel, cyfarwydd."
+  - "Cadwch gofnod i weld beth sy’n sbarduno’r aflonyddwch, ac arhoswch yn dawel ac yn gysurlon pan fydd aflonyddwch yn dechrau."
+  - "Ewch at feddyg am symptomau newydd neu symptomau sy’n gwaethygu: gall poen, haint neu feddyginiaethau chwarae rhan."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Pa amser o’r dydd mae sundowning fel arfer yn digwydd?"
+    a: "Mae fel arfer yn dechrau neu’n gwaethygu yn hwyr yn y prynhawn neu’n gynnar gyda’r nos, wrth i olau dydd bylu. Mae’r union amser yn amrywio o un person i’r llall, a dyna pam gall cadw cofnod byr am wythnos neu ddwy helpu."
+  - q: "Pa weithgareddau sy’n helpu gyda sundowning?"
+    a: "Mae gweithgareddau tawel, cyfarwydd, sy’n hawdd eu gwneud fel arfer yn gweithio orau yn hwyr yn y prynhawn: cerddoriaeth dawel, edrych ar luniau, hoff raglen deledu neu ffilm, plygu dillad, taith gerdded fer, neu fwyd ysgafn gyda’ch gilydd. Cadwch weithgareddau newydd neu heriol ar gyfer yn gynharach yn y dydd."
+  - q: "A all sundowning fod yn arwydd o rywbeth meddygol?"
+    a: "Gall problemau iechyd ei wneud yn waeth, fel poen, heintiau fel heintiau’r llwybr wrinol, problemau cysgu neu sgil-effeithiau meddyginiaethau. Os yw’r aflonyddwch yn newydd, yn sydyn neu’n gwaethygu, cysylltwch â meddyg yr unigolyn."
+  - q: "A ddylwn i ofyn i’r meddyg am feddyginiaeth ar gyfer sundowning?"
+    a: "Mae hynny’n sgwrs i’w chael gyda’r meddyg. Mae Cymdeithas Alzheimer yn dweud bod dulliau nad ydynt yn cynnwys meddyginiaeth yn cael eu ffafrio fel arfer yn gyntaf, ac y dylid ystyried unrhyw feddyginiaeth ar gyfer aflonyddwch gyda’r nos dim ond ar ôl pwyso a mesur y risgiau a’r manteision. Nid yw’r dudalen hon yn rhoi cyngor am feddyginiaeth."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Mae llawer o deuluoedd yn sylwi ar yr un patrwm: mae’r boreau’n weddol dawel, ond wrth i’r prynhawn fynd yn ei flaen, mae’r unigolyn sy’n byw gyda dementia yn mynd yn aflonydd, yn bryderus, yn ddryslyd neu’n llidiog. Efallai y bydd yn cerdded yn ôl ac ymlaen, yn gofyn am “fynd adref” hyd yn oed pan fydd adref, neu’n cynhyrfu’n hawdd. Yn aml, gelwir hyn yn sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Nid oes un ateb sy’n gweithio i bawb, ond gall newidiadau i drefn y dydd, yr ystafell a’r math o weithgareddau rydych chi’n eu cynnig helpu i wneud prynhawniau hwyr yn dawelach. Mae’r dudalen hon yn casglu syniadau ymarferol, nad ydynt yn feddygol, gan y Sefydliad Cenedlaethol ar Heneiddio a Chymdeithas Alzheimer. Nid cyngor meddygol yw hwn. Os yw’r symptomau’n newydd, yn sydyn neu’n gwaethygu, siaradwch â meddyg yr unigolyn.
 
-## What is sundowning?
+## Beth yw sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Mae sundowning yn aflonyddwch, cynhyrfu, llid neu ddryswch sy’n dechrau neu’n gwaethygu wrth i olau dydd bylu, yn hwyr yn y prynhawn neu’n gynnar gyda’r nos. Mae’r [Sefydliad Cenedlaethol ar Heneiddio (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) yn nodi y gall bod yn rhy flinedig gynyddu aflonyddwch yn hwyr yn y dydd.
 
-## What can make late-day restlessness worse?
+## Beth all wneud aflonyddwch yn hwyr yn y dydd yn waeth?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Gall sawl peth gyfrannu, yn aml gyda’i gilydd. Mae [Cymdeithas Alzheimer](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) yn rhestru ffactorau fel:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- blinder ar ôl diwrnod llawn;
+- lleoedd newydd neu ddryslyd;
+- “cloc corff mewnol” nad yw’n cyd-fynd, gan adael yr unigolyn yn gysglyd yn ystod y dydd ac yn effro yn y nos;
+- golau gwan a chysgodion, a all fod yn ddryslyd;
+- codi ar straen neu rwystredigaeth y bobl o’u cwmpas;
+- angen llai o gwsg, sy’n gyffredin ymhlith oedolion hŷn.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+Mae’r NIA yn ychwanegu achosion cynhyrfu yn fwy cyffredinol, gan gynnwys poen, iselder neu straen, gormod ychydig o orffwys, rhwymedd, gormod o sŵn neu ormod o bobl, a rhai meddyginiaethau neu ryngweithiadau rhwng meddyginiaethau.
 
-## How can I plan the day to make evenings calmer?
+## Sut gallaf gynllunio’r dydd i wneud y hwyr yn dawelach?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Symudwch bethau heriol yn gynharach a chedwch y prynhawn hwyr yn dyner ac yn rhagweladwy. Mae’r NIA a Chymdeithas Alzheimer ill dau yn argymell trefn reolaidd. Dyma ddiwrnod enghreifftiol, i’w addasu i’ch sefyllfa chi:
 
-| Time | What may help |
+| Amser | Beth all helpu |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Bore | Apwyntiadau, ymdrochi, mynd allan ac unrhyw dasg sy’n cymryd ymdrech, pan fydd llawer o bobl ar eu mwyaf effro |
+| Hwyr yn y bore | Amser yn yr awyr agored neu wrth ffenestr heulog; taith gerdded neu weithgaredd arall |
+| Canol dydd | Cinio mwy (mae Cymdeithas Alzheimer yn awgrymu cinio mwy a phryd ysgafnach gyda’r nos) |
+| Yn gynnar yn y prynhawn | Gorffwys os oes angen, ond ceisiwch osgoi cysgu’n hir yn hwyr yn y dydd |
+| Canol i hwyr y prynhawn | Gweithgareddau tawel, cyfarwydd; byrbryd a diod; dim caffein |
+| Cyn iddi dywyllu | Trowch y goleuadau dan do ymlaen a chau’r llenni cyn iddi dywyllu |
+| Gyda’r nos | Pryd ysgafnach, cerddoriaeth dawel, llai o symbyliad, trefn amser gwely gyson |
 
-A few specific points from the sources:
+Ychydig o bwyntiau penodol o’r ffynonellau:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Golau dydd.** Mae’r NIA yn awgrymu trefnu amser yn yr awyr agored neu wrth ffenestr i gael golau haul bob dydd.
+- **Symud bob dydd, ond nid gormod.** Anelwch at fod yn gorfforol actif bob dydd heb gynllunio gormod o weithgareddau, meddai’r NIA.
+- **Diodydd yn hwyr yn y dydd.** Osgowch alcohol a diodydd sy’n cynnwys caffein, fel coffi neu cola, yn hwyr yn y dydd (NIA). Mae Cymdeithas Alzheimer hefyd yn sôn am nicotin.
+- **Cysgu yn ystod y dydd.** Anogwch yr unigolyn i beidio â chysgu’n hir nac yn hwyr yn y dydd (NIA). Mae Cymdeithas Alzheimer yn awgrymu cyfyngu ar gysgu yn ystod y dydd os yw cysgu yn y nos yn broblem.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Am fwy o syniadau ar greu diwrnod cyson, gweler [gweithgareddau trefn ddyddiol](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Sut gallaf wneud y cartref yn dawelach yn hwyr yn y prynhawn?
 
-Reduce noise, add light and keep familiar things close.
+Lleihewch y sŵn, ychwanegwch olau a chedwch bethau cyfarwydd yn agos.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Goleuadau llachar, cyson.** Mae Cymdeithas Alzheimer yn argymell cadw’r cartref wedi’i oleuo’n dda gyda’r nos. Trowch y goleuadau ymlaen cyn i’r cysgodion ymddangos.
+- **Llai o sŵn.** Diffoddwch neu gostyngwch y teledu a’r radio, a cheisiwch gyfyngu ar ymwelwyr neu waith cartref prysur ar yr adeg hon. Mae Cymdeithas Alzheimer yn awgrymu lleihau symbyliad gyda’r nos fel y teledu, tasgau cartref a cherddoriaeth uchel.
+- **Cysur cyfarwydd.** Mae’r NIA yn awgrymu cerddoriaeth dawel a chadw hoff bethau a lluniau o gwmpas y cartref.
+- **Gwiriadau cysur.** Mae Cymdeithas Alzheimer yn argymell gwirio am boen, newyn, syched, rhwymedd, pledren lawn, blinder, heintiau a llid ar y croen, a chadw’r ystafell ar dymheredd cyfforddus.
+- **Eich hwyliau chi.** Mae pobl yn codi ar straen. Mae’r NIA yn awgrymu arafu a cheisio ymlacio os gall eich pryderon chi fod yn ychwanegu at y tensiwn.
 
-## What calm activities can we do in the late afternoon?
+## Pa weithgareddau tawel gallwn ni eu gwneud yn hwyr yn y prynhawn?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Dewiswch weithgareddau sy’n gyfarwydd, yn ddigynnwrf ac yn hawdd eu stopio. Mae Cymdeithas Alzheimer yn awgrymu gweithgareddau tawel fel cerddoriaeth dawel, lluniau neu hoff ffilm, a thaith gerdded gyda’ch gilydd i leddfu aflonyddwch. Mae’r NIA yn awgrymu byrbryd neu ddiod, hoff raglen deledu, cerddoriaeth, taith gerdded, darllen, neu dasg gartref syml fel plygu dillad.
 
-Ideas to try:
+Syniadau i’w rhoi ar brawf:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Plygu dillad gyda’ch gilydd.** Mae’r NIA yn awgrymu’r math hwn o dasg gartref syml. Mae tywelion yn hawdd eu trin, ac mae gan y dasg ddiwedd clir.
+2. **Chwarae hoff gerddoriaeth.** Caneuon cyfarwydd o’u blynyddoedd iau, ar sain isel. Mae hwmian gyda’r gân yn ddigon. Mae mwy o syniadau yn [gweithgareddau cerddoriaeth](/activities/music/).
+3. **Edrych ar luniau.** Gall albwm lluniau, neu ychydig o luniau teulu yn [Parau Lluniau](/games/photo-pairs/) gyda’r lluniau’n weladwy, arwain at sgwrs dawel.
+4. **Mynd am dro byr.** O amgylch yr ardd, y stryd neu’r cyntedd, cyn iddi dywyllu.
+5. **Rhannu byrbryd a diod.** Rhywbeth syml, cynnes a heb gaffein, wrth y bwrdd gyda’ch gilydd.
+6. **Paru ysgafn.** Mae [Parau Lluniau](/games/picture-pairs/) gyda phedwar teilsen a’r lluniau’n weladwy yn hawdd ei ddechrau ac yn hawdd ei stopio.
+7. **Lliwio.** Mae [Lliwio](/games/coloring/) ar y sgrin neu ar dudalen wedi’i hargraffu, heb unrhyw nod i orffen.
+8. **Edrych a siarad.** Mae [Cardiau Sgwrs](/games/conversation-cards/) yn cynnig llun a chwestiwn agored. Mae edrych yn unig yn ddigon.
+9. **Seibiant anadlu.** Mae [Anadlu Tawel](/games/calm-breathing/) yn saib araf, tawel rydych chi’n ei ddechrau a’i stopio eich hun.
+10. **Tasgau i’r dwylo.** Trefnu botymau neu sanau, llyfnu blanced feddal, neu ddal rhywbeth cyfarwydd. Gweler [gweithgareddau synhwyraidd](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Ceisiwch osgoi gemau newydd, mynd allan i lefydd prysur ac unrhyw beth sy’n gofyn am lawer o gof neu ganolbwyntio yn hwyr yn y dydd. Cadwch y rheini ar gyfer y bore.
 
-## What should I do when restlessness starts?
+## Beth ddylwn i ei wneud pan fydd aflonyddwch yn dechrau?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Arhoswch yn dawel, rhowch gysur, a cheisiwch dynnu sylw’n dyner. Mae’r NIA yn awgrymu siarad yn dawel, gwrando ar bryderon yr unigolyn, osgoi dadlau, eu sicrhau eu bod yn ddiogel, a defnyddio cyffyrddiad ysgafn os yw’n helpu. Yna rhowch gynnig ar dynnu eu sylw: byrbryd, diod, cerddoriaeth neu daith gerdded.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Mae Cymdeithas Alzheimer yn awgrymu brawddegau fel “Rydych chi’n ddiogel yma” a “Mae’n ddrwg gen i eich bod chi wedi cynhyrfu,” ac yn argymell ychwanegu golau, arafu a chyfyngu ar symbyliad. Peidiwch â chornelu, gwasgu nac atal yr unigolyn, nac â dadlau â nhw.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Os yw’r unigolyn yn mynd yn ymosodol, mae’r NIA yn cynghori aros ar bellter diogel nes bod yr ymddygiad yn stopio. Mewn argyfwng, ffoniwch 999 ac eglurwch fod gan yr unigolyn ddementia.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Mae ein canllawiau ar [gyfathrebu](/caregiving/communication-tips/) a [beth i’w wneud pan fyddant yn dweud na](/caregiving/when-they-say-no/) yn cynnwys mwy o syniadau am eiriau tawelu.
 
-## How do I find the triggers?
+## Sut ydw i’n dod o hyd i’r sbardunau?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Cadwch gofnod byr am wythnos neu ddwy. Mae Cymdeithas Alzheimer yn argymell nodi beth sy’n digwydd cyn digwyddiadau sundowning er mwyn adnabod sbardunau. Nodwch yr amser y dechreuodd yr aflonyddwch, beth ddigwyddodd yn yr awr cyn hynny, cysgu yn ystod y dydd, prydau bwyd a diodydd, ymwelwyr, sŵn a golau. Dewch â’r cofnod at y meddyg. Mae’r NIA yn nodi y gall cadw golwg ar newidiadau mewn ymddygiad helpu gofalwyr a darparwyr gofal iechyd i weld patrwm.
 
-## When should I call a doctor about sundowning?
+## Pryd ddylwn i ffonio meddyg am sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Cysylltwch â meddyg yr unigolyn os yw’r aflonyddwch yn newydd, yn waeth yn sydyn, neu’n dod gyda newidiadau eraill. Mae’r NIA yn dweud y dylid rhoi gwybod i feddyg ar unwaith am newidiadau sydyn neu newidiadau cyflym mewn ymddygiad, yn enwedig ar ôl haint neu newidiadau diweddar i feddyginiaeth.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Gofynnwch i’r meddyg wirio am bethau a all wneud y hwyr yn anoddach. Mae Cymdeithas Alzheimer yn sôn am broblemau corfforol fel heintiau’r llwybr wrinol, anymataliad, coesau aflonydd ac apnoea cwsg, ac yn awgrymu gofyn pa amseroedd o’r dydd sydd orau ar gyfer pob meddyginiaeth. Mae’r NIA yn rhestru poen, rhwymedd a sgil-effeithiau neu ryngweithiadau meddyginiaethau ymhlith achosion posibl cynhyrfu.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Mae Cymdeithas Alzheimer yn dweud bod dulliau nad ydynt yn cynnwys meddyginiaeth yn cael eu ffafrio fel arfer ar gyfer problemau cysgu sy’n gysylltiedig ag Alzheimer, ac y dylid ystyried meddyginiaeth ar gyfer aflonyddwch yn hwyr yn y dydd dim ond os nad yw’r dulliau hynny’n gweithio, ar ôl pwyso a mesur y risgiau a’r manteision. Penderfyniad i’r meddyg yw hwnnw. Peidiwch â dechrau, stopio na newid unrhyw feddyginiaeth, cymorth cysgu na chyflenwad heb gyngor meddygol.
 
-## How do I get through the evenings myself?
+## Sut ydw i’n ymdopi gyda’r hwyr fy hun?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Gall prynhawniau hwyr fod yn rhan anoddaf dydd gofalwr. Os gallwch chi, gofynnwch i aelod o’r teulu, ffrind neu gynorthwyydd tâl helpu yn hwyr yn y prynhawn ychydig ddyddiau’r wythnos, hyd yn oed am awr. Mae ein canllaw i [ofal personol i ofalwyr](/caregiving/caregiver-self-care/) yn rhestru dewisiadau seibiant a Llinell Gymorth 24/7 ddi-dâl Cymdeithas Alzheimer.

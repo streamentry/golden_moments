@@ -1,33 +1,33 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Kas ajumängud ennetavad dementsust? Mida uuringud näitavad"
+seoTitle: "Kas ajumängud ennetavad dementsust? Uuringud"
+description: "Mida uuringud räägivad ajumängudest ja dementsusest: kognitiivne ergutamine, arvutipõhine ajutreening, ACTIVE-uuring ja Lumosity juhtum, lihtsalt seletatuna."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Ükski ajumäng ei ole näidanud, et see ennetaks dementsust. Arvutipõhine
+  ajutreening parandab enamasti neid ülesandeid, mida inimesed harjutavad. Üks
+  ACTIVE-uuringu analüüs seostas kindlat kiirustreeningut koos kordustundidega
+  20 aasta jooksul väiksema arvu dementsusdiagnoosidega, mis on kitsas leid. Dementsusega
+  elavate inimeste puhul on rühmades tehtaval kognitiivsel ergutamisel väikesed
+  lühiajalised kasud. Mängudest tasub rõõmu tunda eelkõige lõbu ja seltsi pärast.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Ajutreeningu uuringud näitavad, et inimesed lähevad paremaks neis ülesannetes, mida nad harjutavad, kuid palju vähem on tõendeid, et see kandub edasi igapäevaellu."
+  - "ACTIVE-uuringus oli 20 aasta jooksul vähem dementsusdiagnoose ainult neil inimestel, kes tegid kindlat kiirustreeningut ja osalesid ka kordustundides. Kiirustreening ilma kordustundideta ning mälu- ja loogikatreening seda mõju ei näidanud."
+  - "2016. aastal maksis Lumosity tootja 2 miljonit dollarit, et lõpetada FTC süüdistus, mille kohaselt puudus teaduslik alus väidetele dementsuse edasilükkamise kohta."
+  - "Kerge või mõõduka dementsusega inimestel on kognitiivsetel ergutusrühmadel väikesed lühiajalised kasud mõtlemisele ning selgemad kasud suhtlemisele ja sotsiaalsele tegevusele."
+  - "Golden Moments mängud on mõeldud naudingu ja ühise aja jaoks. Need ei ole ravi ega ennetaks ega aeglustaks dementsust."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Kas ajumängud ennetavad Alzheimeri tõbe?"
+    a: "Ükski ajumäng ei ole tõestanud, et see ennetaks Alzheimeri tõbe või muud dementsust. USA riiklik vananemisinstituut (National Institute on Aging) ütleb, et pole piisavalt tõendeid, et kaubanduslikel ajutreeningu rakendustel oleks sama mõju kui teadusuuringutes katsetatud treeningutel. Mängud võivad siiski olla meeldiv viis aja veetmiseks."
+  - q: "Mida leidis ACTIVE-uuring kiirustreeningu ja dementsuse kohta?"
+    a: "2026. aasta analüüs seostas ACTIVE-uuringus osalejad 20 aastaks Medicare'i andmetega. Inimestel, kes tegid infotöötluskiiruse treeningut ja osalesid vähemalt ühel kordustunnil, diagnoositi dementsust harvemini kui treeninguta rühmas. Kiirustreening ilma kordustundideta ning mälu- või loogikatreening märkimisväärset mõju ei näidanud."
+  - q: "Kas mõistatused ja mängud sobivad inimesele, kellel on juba dementsus?"
+    a: "Võivad sobida, kui inimene tunneb neist rõõmu. Rühmas tehtav kognitiivne ergutamine, mis hõlmab sõnamänge, mõistatusi, muusikat ja vestlust, näitab mõtlemisele väikseid lühiajalisi kasusid ning selgemaid kasusid suhtlemisele ja sotsiaalsele tegevusele. Õige eesmärk on rõõm, mitte testitulemus."
+  - q: "Miks FTC määras Lumosityle trahvi?"
+    a: "2016. aastal esitas USA föderaalne kaubanduskomisjon (Federal Trade Commission) Lumos Labsile süüdistuse, et ettevõte väitis oma mängude kohta, sealhulgas et need lükkavad edasi vanusega seotud taandarengut ja dementsust, ilma neid väiteid toetava teadusliku aluseta. Ettevõte nõustus maksma 2 miljonit dollarit ja esitama edaspidi selliste väidete jaoks usaldusväärseid teaduslikke tõendeid."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +58,101 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Ajumänge on kõikjal ja paljud lubavad hoida mõistuse noorena. Kui hoolitsete dementsusega elava inimese eest või olete mures oma mälu pärast, on loomulik mõelda, kas mängimisest võiks abi olla. Siin on see, mida uuringud tegelikult näitavad, sealhulgas nii julgustavad kui ka vähem julgustavad pooled.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+See on üldine teave, mitte meditsiiniline nõu. Vaadake ka meie
+[meditsiinilist lahtiütlust](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Kas ajumängud ennetavad dementsust?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ükski ajumäng ei ole tõestanud, et see ennetaks dementsust. USA riiklik vananemisinstituut (NIA) soovitab olla ettevaatlik väidetega, et arvuti- ja veebimängud võivad mälu parandada, ning ütleb, et pole piisavalt tõendeid, et mõnel kaubanduslikul ajutreeningu rakendusel oleks sama mõju kui kliinilistes uuringutes katsetatud treeningul ([NIA dementsuse ennetamisest](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+See ei tähenda, et mängudest pole kasu. See tähendab, et nende väärtus on naudingus, seltsis ja rutiinis, mitte selles, et nad kedagi dementsuse eest kaitseksid.
 
-## What is "near transfer", and why does it matter?
+## Mis on „lähisiire” ja miks see on oluline?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Kui harjutate mõnd ülesannet, lähete tavaliselt selles paremaks. Teadlased nimetavad seda treeningumõjuks. Raskem küsimus on, kas see paranemine **kandub** ka mujale: sarnastele ülesannetele (lähisiire) või igapäevaellu, näiteks kohtumiste meelespidamisele või rahaasjade korraldamisele (kaugesiire).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Üks suur 2016. aasta ülevaade vaatas läbi uuringud, mida ajutreeningu ettevõtted nimetasid oma parimateks tõenditeks. See leidis rohkelt tõendeid, et inimesed lähevad harjutatud ülesannetes paremaks, vähem tõendeid, et nad lähevad paremaks ka lähedalt seotud ülesannetes, ning vähe tõendeid, et treening parandaks igapäevast mõtlemist. Paljudel uuringutel oli ka ülesehituslikke puudusi, mis tegid kindlad järeldused võimatuks
+([Simons ja kolleegid, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Mida ütlevad ülevaated arvutipõhisest ajutreeningust?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane'i ülevaated, mis koondavad parimaid olemasolevaid uuringuid, on vaadanud vähemalt 12 nädalat kestnud arvutipõhist treeningut:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Terved 65-aastased ja vanemad täiskasvanud:** kaheksa uuringut 1183 inimesega. Tõendite kvaliteet oli madal või väga madal. Kohe pärast treeningut võib olla väike kasu, kuid pole selgeid tõendeid, et see püsiks
+  ([Cochrane'i ülevaade, terved vanemad täiskasvanud](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Kerge kognitiivse häirega inimesed:** kaheksa uuringut 660 inimesega. Ükski uuring ei teatanud, kas inimestel tekkis hiljem dementsus, ja tõendid olid järelduste tegemiseks liiga nõrgad
+  ([Cochrane'i ülevaade, kerge kognitiivne häire](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Mida leidis ACTIVE-uuring?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE on suur USA uuring, mis algas 1998. aastal 2802 iseseisvalt elava 65-aastase ja vanema täiskasvanuga, kellel polnud märkimisväärseid mälu- ega mõtlemisprobleeme. Inimesed jaotati juhuslikult ühte kolmest väikerühmas toimuva treeningu liigist (infotöötluskiirus, mälu või loogika) või rühma, kellega ühendust ei võetud. Treeningut oli kuni kümme korda viie kuni kuue nädala jooksul. Mõnele inimesele, kes lõpetas suurema osa kohtumistest, pakuti juhuslikult ka **kordustunde** umbes ühe ja kolme aasta pärast.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Kiirustreeningus tuli märgata ja töödelda visuaalset teavet järjest lühemate pilkude jooksul ning raskusaste kohandus vastavalt inimese edusammudele.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026. aastal seostasid teadlased 2021 osaleja andmed 20 aastaks nende Medicare'i andmetega ([ACTIVE 20 aasta analüüs](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Siin on see, mida nad täpselt leidsid:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Kiirustreening koos vähemalt ühe kordustunniga:** diagnoositud dementsust esines harvemini kui rühmas, kellega ühendust ei võetud (riskisuhe 0,75, mis tähendab ligikaudu 25% madalamat esinemissagedust).
+- **Kiirustreening ilma kordustundideta:** madalamat esinemissagedust ei olnud.
+- **Mälu- või loogikatreening:** märkimisväärset mõju dementsusdiagnoosidele ei olnud.
+- **Iga treeningurühm tervikuna võrreldes rühmaga, kellega ühendust ei võetud:** esinemissagedus oli veidi madalam, kuid statistiliselt mitte märkimisväärne.
 
-### The limits of this finding
+### Selle leiu piirangud
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- See kehtib **ühe kindla järelevalvatud kiirustreeningu ja kordustundide** kohta, mitte ajumängude kohta üldiselt.
+- Märkimisväärne tulemus tuli **alarühmast** (inimestest, kes lõpetasid suurema osa esimestest kohtumistest ja kellele pakuti kordustunde), mitte kogu kiirustreeningu rühmast.
+- Dementsust hinnati **Medicare'i nõuete diagnoosikoodide** põhjal, mitte iga inimese eraldi uurimisega. Ligikaudu veerand algsetest osalejatest jäeti välja, sest nad kuulusid Medicare Advantage'i programmi, mille kohta pole täielikke nõuete andmeid.
+- Osalejatel polnud uuringu alguses märkimisväärseid mõtlemisprobleeme. Tulemused ei ütle midagi mängude kohta inimeste puhul, kellel **on juba dementsus**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+See on huvitav tulemus, mis vajab rohkem uurimist. See ei ole tõend, et mõni rakendus ennetaks dementsust.
 
-## What did the FTC say about Lumosity?
+## Mida ütles FTC Lumosity kohta?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016. aasta jaanuaris nõustus Lumosity tootja Lumos Labs maksma 2 miljonit dollarit, et lõpetada USA föderaalse kaubanduskomisjoni süüdistus eksitavas reklaamis. FTC sõnul väitis ettevõte ilma piisava teadusliku aluseta, et selle mängud võivad parandada sooritust tööl ja koolis ning lükata edasi vanusega seotud taandarengut, kerget kognitiivset häiret, dementsust ja Alzheimeri tõbe. Otsus kohustab ettevõtet omama edaspidi selliste väidete esitamiseks pädevaid ja usaldusväärseid teaduslikke tõendeid ([FTC pressiteade](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Õppetund peredele: suhtuge skeptiliselt igasse mängu, rakendusse või programmi, mis lubab mälu kaitsta või dementsust ennetada.
 
-## Can games help someone who already has dementia?
+## Kas mängudest võib olla abi inimesele, kellel on juba dementsus?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Need võivad muuta päeva paremaks ja see on väga oluline. Kõige paremini uuritud lähenemine on **kognitiivne ergutamine**: nauditavad rühmategevused, nagu arutelu, meenutamine, sõnamängud, mõistatused ja muusika, tavaliselt väikeses rühmas juhendaja käe all.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023. aasta Cochrane'i ülevaade 37 uuringust 2766 kerge või mõõduka dementsusega inimesega leidis
+([Cochrane'i ülevaade kognitiivsest ergutamisest](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **väikese lühiajalise kasu** mõtlemistestides (mõõduka kvaliteediga tõendid);
+- **kliiniliselt olulist paranemist suhtlemises ja sotsiaalses tegevuses**
+  (kõrge kvaliteediga tõendid, väiksemast arvust uuringutest);
+- **väikest kasu** elukvaliteedile, meeleolule ja käitumisele.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Kasu mõõdeti enamasti vahetult pärast umbes kümme nädalat kestnud programme ning vähesed uuringud kontrollisid, kas see püsis. Kognitiivne ergutamine on korraldatud rühmaprogramm, seega ei kehti need tulemused automaatselt inimese kohta, kes mängib üksi tahvelarvutis.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024. aasta Lancet'i komisjon ütleb samuti, et tegevusprogrammid on dementsusega elavate inimeste jaoks olulised, et säilitada naudingut ja eesmärgitunnet
+([Lancet'i komisjon](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Milleks mängud tegelikult head on?
 
-When chosen well, games can offer:
+Hästi valitud mängud võivad pakkuda:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Naudingut.** Meeldiv pool tundi on iseenesest väärtuslik.
+- **Koosolemist.** Kõrvuti mängimine annab lihtsa ühise tegevuse ka siis, kui vestlemine on raske. Vaadake juhendit [kuidas koos mängida](/caregiving/how-to-play-together/).
+- **Rutiini.** Tuttav tegevus igal päeval samal ajal võib tuua rahu.
+- **Enesekindlust.** Tegevused, mis sobivad sellega, mida inimene veel hästi teha oskab, aitavad tal tunda end toimetulevana, mitte kontrollitavana.
+- **Vestlust.** Pilt või tuttav vanasõna võib avada loo. Proovige
+  [vestluskaarte](/games/conversation-cards/) või
+  [lõpeta vanasõna](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Mida vältida: taimerid, punktid, järjestikused päevad ja kõik, mis tundub nagu mälu kontrollimine. Kui inimene muutub rahutuks, lõpetage. Varajane lõpetamine või lihtsalt koos istumine on hea tulemus. Meie juhendis
+[rakenduste ja mängude valimine](/caregiving/choosing-apps-and-games/) on nimekiri.
 
-## Where Golden Moments fits
+## Kuhu Golden Moments sobib
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments mängud, nagu [pildipaarid](/games/picture-pairs/),
+[pildimõistatus](/games/picture-puzzle/) ja
+[suurte tähtedega sõnaotsing](/games/word-search/), on tehtud naudingu ja ühise aja jaoks. Neil pole kellaaega ega punkte. Need **ei ole** ravi ega **ennetaks** ega aeglustaks dementsust. Me eelistame seda otse öelda, mitte lubada midagi, mida ükski mäng ei saa pakkuda.
 
-## Talk with a doctor
+## Rääkige arstiga
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Kui olete mures oma või hooldatava inimese mälumuutuste pärast, pöörduge arsti poole, mitte ärge lootke rakendusele. Arst saab otsida ravitavaid põhjuseid ning rääkida läbi sammud, millel on parimad tõendid, näiteks vererõhu jälgimine ja kuulmise kontroll. Lisateavet leiate lehelt
+[Kas dementsust saab ennetada?](/brain-health/can-dementia-be-prevented/). Äkilise segasuse või muude äkiliste muutuste korral pöörduge kiiresti arsti poole.

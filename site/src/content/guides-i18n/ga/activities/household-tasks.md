@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Tascanna tí mar ghníomhaíochtaí do dhaoine le néaltrú"
+seoTitle: "Gníomhaíochtaí tí do néaltrú: tascanna laethúla"
+description: "Is féidir le fillteadh, sórtáil, an bord a leagan agus cócaireacht shimplí a bheith ina ngníomhaíochtaí fiúntacha. Conas iad a ullmhú, a oiriúnú agus iad a choinneáil sábháilte."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Is féidir le gnáthghnóthaí tí ar nós tuáillí a fhilleadh, stocaí a shórtáil,
+  an bord a leagan, cuntair a ghlanadh, plandaí a uisce agus cabhrú le
+  cócaireacht shimplí bealach fíor a thabhairt don duine atá ag maireachtáil le
+  néaltrú cabhrú amach. Roghnaigh tascanna atá ar eolas acu, bris ina gcéimeanna
+  aonair iad, bain guaiseacha géara nó te as an mbealach, agus tabhair luach don
+  pháirt a ghlacadh seachas é a dhéanamh “i gceart”.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Is féidir le gnáthghnóthaí cabhrú le duine mothú go bhfuil siad úsáideach agus mar chuid den teach, rud a bhíonn níos tábhachtaí go minic ná cé chomh maith a dhéantar an jab."
+  - "Bris gach tasc ina chéimeanna aonair, taispeáin seachas a rá, agus glac ceann de na céimeanna go ciúin má tá sé deacair anois."
+  - "Cuir sceana, táirgí glantacháin agus podanna glantacháin faoi ghlas, agus cuir clúdaigh ar chnaipí an sorn nó lasc uathoibríoch múchta leis sula mbíonn sibh ag cócaireacht le chéile."
+  - "Ní gá tuáillí fillte a athfhilleadh os comhair an duine. Má chaithfidh tú rud éigin a dhéanamh arís, déan níos déanaí é agus as radharc."
+  - "Má bhíonn frustrachas ag baint le tasc, athraigh go céim níos éasca, bain triail eile as am eile, nó suí le chéile."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Cad iad na gnáthghnóthaí ar féidir le duine le néaltrú cabhrú leo fós?"
+    a: "Is féidir le go leor daoine níocháin a fhilleadh fós, stocaí a mheaitseáil, sceanra a shórtáil, an bord a leagan, cuntar a ghlanadh, deannach a bhaint, scuabadh, plandaí a uisce nó babhla taos a chorraí. Roghnaigh tascanna a rinne an duine san am atá caite agus cuir in oiriúint iad don mhéid is féidir leo a dhéanamh anois. I gcéimeanna níos déanaí, d’fhéadfadh go mbeadh gluaiseacht shimplí arís is arís eile, ar nós naipcíní a smúdáil, go leor."
+  - q: "An bhfuil sé sábháilte do dhuine le néaltrú cabhrú sa chistin?"
+    a: "Is féidir, le maoirseacht ghéar agus an socrú ceart. Coinnigh sceana, táirgí glantacháin agus aon rud te as aimsiú, bain úsáid as clúdaigh ar chnaipí an sorn nó lasc uathoibríoch múchta, agus tabhair jab sábháilte don duine ar nós glasraí a ní, corraí nó plátaí a leagan amach. Ná fág ina n-aonar iad riamh agus an sorn ar siúl."
+  - q: "Cad a tharlaíonn má fhilleann siad rudaí go mícheart nó má dhéanann siad praiseach?"
+    a: "Lig dó. Is é an aidhm atá ann ná am le chéile agus mothú a bheith úsáideach, ní toradh foirfe. Má chaithfear rud éigin a dhéanamh arís i ndáiríre, fan go dtí níos déanaí agus déan é nuair nach bhfuil an duine ag féachaint, ionas nach mbraithfidh siad go bhfuil siad á gceartú."
+  - q: "Cad a tharlaíonn má dhiúltaíonn siad cabhrú?"
+    a: "D’fhéadfadh go gciallódh “níl” go mbraitheann an tasc ró-dheacair, mearbhall nó tuirsiúil faoi láthair. Ná brúigh orthu. Bain triail as leagan níos simplí, tabhair cuireadh dóibh coinneáil leat ina ionad sin, nó fiafraigh arís ag am níos fearr den lá."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Chaith go leor daoine atá ag maireachtáil le néaltrú blianta fada ag rith tí, ag tógáil clainne nó ag coinneáil ord ar an láthair oibre. Is féidir le cuireadh cabhrú le fíorghnóthaí an teachtaireacht “tá tú fós mar chuid den teach seo” a thabhairt ar bhealach nach féidir le mórán gníomhaíochtaí eile. Clúdaíonn an leathanach seo na tascanna a oibríonn go maith de ghnáth, conas iad a ullmhú, conas iad a oiriúnú de réir mar a athraíonn rudaí, agus conas an chistin agus an seomra níocháin a choinneáil sábháilte.
 
-## Why do everyday chores work well as activities?
+## Cén fáth a n-oibríonn gnáthghnóthaí chomh maith sin mar ghníomhaíochtaí?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Oibríonn gnáthghnóthaí mar go bhfuil siad ar eolas agus go bhfuil cuspóir soiléir leo. Liostaíonn an National Institute on Aging soithí a ní, an bord a leagan, scuabadh, deannach a bhaint, post a shórtáil, níocháin a fhilleadh agus athchúrsáil a shórtáil i measc na [ngníomhaíochtaí laethúla a bhféadfadh taitneamh a bhaint as daoine le galar Alzheimer](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Tugann an Alzheimer’s Association faoi deara gur féidir le tascanna ar nós an bord a leagan cabhrú le duine [mothú gur cuid luachmhar den teach iad](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Tagann cúis féin le gnáthghnó freisin. Is fusa “aontú” le “An bhféadfá cabhrú liom leis na tuáillí seo?” ná le “Ar mhaith leat gníomhaíocht a dhéanamh?”
 
-## Which household tasks are good to try?
+## Cad iad na tascanna tí ar fiú triail a bhaint astu?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Tosaigh le tascanna a rinne an duine san am atá caite, ansin cuir in oiriúint iad don mhéid is féidir leo a dhéanamh inniu.
 
-### Laundry and linens
+### Níocháin agus línéadach
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Tuáillí agus tuáillíní a fhilleadh.** Tabhair ciseán d’earraí beaga, cothroma dóibh. Bíonn tuáillí sofhulaingthe: níl bealach mícheart chun ceann a fhilleadh.
+- **Stocaí a mheaitseáil.** Cuir carn measctha ar an mbord. Má bhíonn sé deacair péirí a aimsiú, bain úsáid as dhá nó trí dhath an-éagsúil amháin.
+- **Smúdáil agus cruachadh.** Is féidir naipcíní, clúdaigh piliúir nó tuáillí soithí a smúdáil cothrom agus a chruachadh. Oibríonn sé seo go maith níos déanaí, nuair a bhíonn an iomarca céimeanna i gceist le fillteadh.
 
-### Table and kitchen
+### An bord agus an chistin
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **An bord a leagan.** Leag socrú boird amháin mar shampla agus lig don duine é a chóipeáil. Má tá an iomarca ann, tabhair mír amháin ag an am dóibh: “Seo forc do gach pláta.”
+- **Sceanra a shórtáil.** Measc foirc, spúnóga agus sceana ime glana i dtobán agus sórtáil isteach i dtráidire roinnte iad. Fág sceana géara as.
+- **Soithí a thriomú.** Déanann soithí plaisteacha nó do-bhriste agus tuáille bog jab sábháilte de seo.
+- **An bord nó na cuntair a ghlanadh.** Éadach tais agus dromchla glan. Molann an Alzheimer’s Association éadach a thairiscint má tá duine ag cuimilt an bhoird lena lámh cheana féin, agus gluaiseacht shuaite a iompú ina jab úsáideach.
 
-### Around the house
+### Timpeall an tí
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Deannach a bhaint.** Dustaire bog agus cúpla dromchla daingean, ar nós bord caife nó seilf leabhar.
+- **An post a shórtáil.** Tabhair dramhphost agus catalóga dóibh le sórtáil ina chairn: coinnigh, athchúrsáil, oscail níos déanaí. Coinnigh billí agus seiceanna fíora in áit eile.
+- **Athchúrsáil a shórtáil.** Canaí, buidéil agus páipéar glana isteach i mboscaí ar leith.
+- **Scuabadh.** Scuab bheag ar phaitió nó ar urlár na cistine, má tá an chothromaíocht seasmhach.
+- **Plandaí a uisce.** Cana uisce beag, éadrom agus cúpla planda atá éasca a bhaint amach.
 
-### Simple cooking with supervision
+### Cócaireacht shimplí le maoirseacht
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Is féidir le cócaireacht mothúcháin láidre, taitneamhacha a thabhairt ar ais. Molann an NIA ligean don duine comhábhair a bhailiú, a thomhas, a mheascadh agus a dhoirteadh, nó an chaoi a ndéanfaí an t-oideas is fearr leo a mhíniú do dhuine eile. I measc na jabanna maithe tá:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- glasraí nó torthaí a ní
+- taos nó sailéad fuar a chorraí
+- leitís a stróiceadh
+- arán tósta a imrú le scian mhaol
+- taos fianán a chur ar thráidire
+- barráin a chur ar phíotsa
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Má éiríonn sé deacair tomhas a dhéanamh, molann an Alzheimer’s Association duit an tomhas a chríochnú agus ansin céim eile a thabhairt dóibh, ar nós corraí.
 
-## How do I set up a chore so it goes well?
+## Conas is féidir liom gnáthghnó a ullmhú ionas go n-éireoidh go maith leis?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Roghnaigh an t-am ceart.** Roghnaigh cuid den lá ina mbíonn an duine scíthe agus socair de ghnáth. Maidin a bhíonn ann do go leor daoine.
+2. **Glan an spás.** Tasc amháin, dromchla amháin, gan aon rud breise ar an mbord.
+3. **Tabhair cuireadh, ná tabhair ordú.** Oibríonn “D’fhéadfainn lámh chúnta a úsáid leis seo” níos fearr ná “Tá sé in am an níochán a fhilleadh.”
+4. **Taispeáin an chéad cheann.** Fill tuáille amháin go mall, ansin tabhair an chéad cheann eile dóibh. Bíonn taispeáint níos soiléire ná míniú.
+5. **Tabhair céim amháin ag an am.** Is féidir le barraíocht treoracha ag an am céanna a bheith ró-mhór. Fan go mbeidh céim amháin críochnaithe sula n-ainmníonn tú an chéad cheann eile.
+6. **Oibrigh taobh le taobh.** Mothaíonn an jab céanna a dhéanamh in aice le chéile cosúil le comhluadar, ní maoirseacht.
+7. **Labhair faoin tasc, ní faoin toradh.** Tugann rudaí ar nós “Tá siad seo chomh bog” nó “Inis dom conas ba mhaith leat an cófra línéadaigh a choinneáil” cuireadh do chomhrá gan tástáil a chur ar aon duine.
 
-## How do I adapt chores as abilities change?
+## Conas is féidir liom gnáthghnóthaí a oiriúnú de réir mar a athraíonn cumais?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Athraíonn cumais le himeacht ama agus fiú ó lá go lá. Molann an Alzheimer’s Association bogadh i dtreo tascanna níos simplí, níos athráití de réir mar a théann an galar ar aghaidh.
 
-| If this has become hard | Try this instead |
+| Má tá sé seo deacair anois | Bain triail as seo ina áit |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Brait mhóra a fhilleadh | Tuáillíní a fhilleadh nó naipcíní a smúdáil |
+| Bord iomlán a leagan | Naipcín amháin a chur ag gach suí |
+| Post a shórtáil ina chatagóirí | Clúdaigh litreach a chruachadh i gcarn amháin |
+| Oideas a leanúint | Corraí, nó féachaint agus blaiseadh agus tú ag cócaireacht |
+| Urlár iomlán a scuabadh | Bord beag amháin a ghlanadh |
+| An tasc a dhéanamh ar chor ar bith | Suí leat agus coinneáil leat agus tú á dhéanamh |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Is leor breathnú. Tugann an NIA faoi deara go mbaineann daoine áirithe taitneamh as breathnú amháin, agus is bealach breá é sin chun páirt a ghlacadh.
 
-## How do I keep household tasks safe?
+## Conas a choinním tascanna tí sábháilte?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Tagann an tsábháilteacht ar dtús, go háirithe sa chistin. I measc [leideanna sábháilteachta tí an NIA do chúramóirí Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) tá:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Táirgí glantacháin a chur faoi ghlas nó a bhaint, lena n-áirítear podanna glantacháin níocháin, a d’fhéadfadh a bheith cosúil le milseáin.
+- Sceana, siosúir agus uirlisí cumhachta a stóráil in áit faoi ghlas.
+- Cnaipí sábháilteachta agus lasc uathoibríoch múchta a chur ar an sorn.
+- Comharthaí “Stop” nó “An-te” a chur in aice leis an oigheann, an tóstaer agus an t-iarann, sa chaoi nach féidir leo dul trí thine.
+- An téitheoir uisce a shocrú go 49°C chun an riosca scallta a laghdú.
+- Torthaí saorga agus maighnéid ar chruth bia a bhaint, a d’fhéadfadh a bheith inite le feiceáil.
 
-A few more practical habits help:
+Cuidíonn roinnt nósanna praiticiúla eile freisin:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Fan sa seomra aon uair a bhíonn an sorn, an t-oigheann nó uirlis ghéar in úsáid.
+- Bain úsáid as soithí do-bhriste chun soithí a thriomú agus an bord a leagan.
+- Coinnigh urláir tirim agus glan agus tú ag scuabadh nó ag mopuáil.
+- Má d’úsáid an duine uirlisí tráth, molann an Alzheimer’s Association earraí guaiseacha a bhaint as an gceardlann ionas gur féidir taitneamh a bhaint as tasc sábháilte fós, ar nós píosa adhmaid a ghreamú.
 
-## What if they do it "wrong"?
+## Cad a tharlaíonn má dhéanann siad é “go mícheart”?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Lig dó. Is tuáille fhillte í tuáille atá fillte ina dtrí chuid seachas ina dhá leath fós. Cuireann an Alzheimer’s Association in iúl go soiléir: is é an rud is tábhachtaí ná am a chaitheamh le chéile agus go mbraitheann an duine go bhfuil siad úsáideach, ní cibé an bhfuil na tuáillí fillte i gceart. Má chaithfear rud éigin a dhéanamh arís i ndáiríre, fan go dtí níos déanaí agus déan as radharc é.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Is féidir le ceartú sa nóiméad jab thaitneamhach a iompú ina mheabhrúchán ar a bhfuil caillte. Is é “Go raibh maith agat, is mór an chabhair é sin” an rud ceart le rá beagnach i gcónaí.
 
-## When should we stop?
+## Cathain ar cheart dúinn stopadh?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Stop nó athraigh nuair a fheiceann tú comharthaí frustrachais, tuirse nó caillte suime. Is toradh maith é críochnú luath, ní teip. Is féidir leat:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- athrú go céim níos éasca
+- bogadh chuig rud socair, ar nós ceoil nó cupán caife
+- triail eile a bhaint as níos déanaí nó lá eile
+- suí le chéile go simplí
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Má deir an duine “níl”, ná brúigh orthu. Féach [cad atá le déanamh nuair a deir siad níl](/caregiving/when-they-say-no/) le haghaidh bealaí cineálta le freagairt.
 
-## Low-effort extras for a quieter moment
+## Rudaí breise éasca le haghaidh nóiméid níos ciúine
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Nuair nach féidir gnáthghnóthaí fisiciúla a dhéanamh, is féidir sórtáil agus meaitseáil a dhéanamh fós agus tú i do shuí. Ligeann [Sort Together](/games/sort-together/) duit pictiúir a thapáil isteach i gciseáin cistine nó gairdín, agus is cluiche meaitseála socair é [Picture Pairs](/games/picture-pairs/) le pictiúir mhóra agus gan lasc ama. Tá leideanna oscailte faoi theach agus faoi theaghlach in [Conversation Cards](/games/conversation-cards/) a oibríonn go maith le cupán caife tar éis an jab a bheith déanta.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Chun cabhair a fháil le gnáthghnóthaí a chur isteach sa lá, féach ár dtreoir ar [ghnáthamh laethúil socair](/activities/daily-routine/). Le haghaidh tuilleadh smaointe de réir céime, féach [gníomhaíochtaí don lárchéim](/activities/middle-stage/).

@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Oilonga yomake yovakulunhu hava kala nokudimbwa"
+seoTitle: "Oilonga yomake yokudimbwa: yovakulunhu"
+description: "Omayele oilonga yomake yovakulunhu hava kala nokudimbwa, ngaashi okufaneka nomeva, okulonga omifano, okutula eengala, nanghee to dulu oku i longekida."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Oilonga yomake iwa yovakulunhu hava kala nokudimbwa oi na okumonika nokukala
+  ya fa yovakulunhu: okufaneka nomeva, okulonga omifano da kufwa moifo,
+  okutula eengala, okulongifa edu lokuma, okuninga oukalata vapa ile omapandja
+  okuwavafeka ovakulunhu. Tula po oinima inini, kwafela mokutameka nge sha
+  pumbiwa, popyeni fimbo tamu longo, nokutala efimbo olo tamu kala pamwe li li
+  oshinima sha fimanenena. Okumanifa oshilonga kashi fi shimwe sha pumbiwa.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Hoolola oinima nomitwe da fa dovakulunhu, ngaashi ombapila yokufanekela, eengala dashili nomafano omoifo, ndele ha oinima ya fa younona ngaashi omaliudo a yela, oukamanya ile omapandja okudana ounona."
+  - "Yandja elitulemo konghedi yokulonga: komaluvala, kokukwata edu lokuma, nokomakundafanwa. Oshipelende sha manwa osho oshinima sha wedwa po, ndele kashi fi elalakano."
+  - "Pa elalakano nge tashi shiiva, ngaashi okalakata komutekulu ile oshinima shokuwapeka poshitaafula."
+  - "Kwafela omunhu a tameke, opo nee mu efa a twikile ye mwene. Okutameka pamwe oshikando shimwe noshikombe otashi dulu okukwana."
+  - "Oilonga inai pumbwa okumanifwa pefimbo limwe alike, nokuhulifa nale okwa pitikwa alushe."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ohandi dulu ngahelipi okuhenuka oilonga yomake i kale ya fa younona?"
+    a: "Longifa oinima yokufaneka yashili, omitwe dovakulunhu nelihumbato lefimano. Pingena po omaliudo a yela nomapandja okudana ounona nombapila yokufanekela, oiyata, eengala, omafano omoifo nomapandja okuwavafeka a fa ovakulunhu. Ino pandula oshilonga ngaashi to pandula okaana; popya kombinga yasho ngaashi to popi nakaume koye omukulunhu."
+  - q: "Oilonga yoludi lilipi tai longo nawa nge okudimbwa okwa kula?"
+    a: "Nge okudimbwa okwa kula, oilonga ipu oyo tai kumu omaliudo oi li nawa unene: okufaneka nomikalo minene noshikombe shinene, okufininika edu lokuma la nanga, okutula eengala dinini movase, ile okutopola oipambu yoiyata pamukalo tai udika. Otashi dulika wa pumbwa okutameka okweenda pamwe naye. Okutala eshi to faneke nokupopya kombinga yomaluvala nayo oyo onghedi yokukufa ombinga."
+  - q: "Oshike ndi na okuninga nge ota ti ke shii okufaneka?"
+    a: "Kufa po oudjuu. Kendabala oilonga ihe na enyamukulo la puka, ngaashi okufaneka nomeva la yelakana, okulonga omifano, ile okutula eengala. Oto dulu yo okutya owa pumbwa ekwafo moshinima shonhumba, ngaashi okuhoolola omaluvala okalakata, opo oshilonga shi kale sha fa ekwafo ndele hashi fa ekonakono."
+  - q: "Omapandja okuwavafeka otaa monika a fa ounona kovakulunhu?"
+    a: "Ahowe, nge okwa ningilwa ovakulunhu. Hoolola omapandja e na omitwe dovakulunhu ngaashi oshikunino, oiyata yomumbidja, eetuwa ile omahala, ndele e yandja e li onghedi yokumwenena ndele ha elihongo. Omapandja etu okuwavafeka otaa dulu okushangwa ile okuwavafekwa kokatableta."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Oilonga yomake oi pa ovanhu hava kala nokudimbwa onghedi yokuholola omaliudo avo inava pumbwa okumona oitya ya yuka. Alzheimer's Association oya ti kutya oilonga youhongo otai dulu okweeta [omaliudo okukala wa pondola nelalakano](https://www.alz.org/help-support/caregiving/daily-care/art-music) nosh机会 yokuliholola, kwaao ta file oshisho nosho yo komunhu e na okudimbwa. Oshinima sha fimana osho okukaleka oinima i li yovakulunhu, ipu noihe na oudjuu. Epandja eli otali yandje oilonga ya yooloka, nanghee to dulu oku i longekida nokulundulula nge oinima tai lunduluka.
 
-## What makes an art activity adult and not childish?
+## Oshike tashi ningi oshilonga shouhongo shi kale shovakulunhu, ndele hashi kala sha fa shounona?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Oshilonga shouhongo shovakulunhu ohashi longifa oinima yashili, omitwe dovakulunhu nelihumbato lefimano. Alzheimer's Association otai kumaida okukaleka oilonga pefimbo lovakulunhu nokuhenuka keshe shimwe tashi dulu okumonika sha fa okudina ile sha fa shounona.
 
-| Feels childish | Feels adult |
+| Osha fa shounona | Osha fa shovakulunhu |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Omaliudo a yela, oukamanya vounona, omesho oipupulu | Ombapila yokufanekela, oiyata, eengala da panywa |
+| Omapandja okudana ounona okufaneka | Omapandja okuwavafeka oshikunino, oiyata yomumbidja, eetuwa ile omahala |
+| Okupandula "Owa ninga nawa" koshinima keshe | Eenghundafana dashili: "Oluvala olo olutalelapo oliwa popepi nolitalelapo" |
+| Oshilonga shihe na elalakano | Okalakata kokaume, oshinima shokuwapeka poshitaafula, oshali |
+| Omalombwelo a fa elihongo | Eshivo: "Oto dulu okukwafa nge musho?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Diladila kombinga yomahalo omunhu mwene. Omunhu oo a li e hole okuhondja otashi dulika a hafele okukwata oiyata. Omunhu oo a li ha longo ouinjiniya otashi dulika a hoolole okulongifa oipambu inene ile okutopola oinima yoshilonga. Omunhu oo a li omuhongi otashi dulika a hafele okuninga oukalata.
 
-## Why focus on the process, not the product?
+## Omolwashike tu na okuyandja elitulemo konghedi yokulonga, ndele haka shilonga sha pwa?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Omolwaashi efimbo olo tamu kala pamwe olo la fimanenena. Omukanda waAlzheimer's Association kombinga [yoilonga peumbo](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) otau ti tu yandje elitulemo konghedi yokulonga, ndele haka shilonga sha pwa. Efano li li "olutalelapo alike" natango olo efano. Okulonga omifano nomafano atatu natango oku li okulonga omifano.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Ehangano otali ti yo kutya omufaneki omunongo otashi dulika a udife nai omolwelunduluko moilonga yaye, ofimbo omunhu oo ehe shi omunongo ta dulu okuhafela omhito ipe yokuliholola. Nge omunhu okwa li omufaneki omunongo, kendabala onghedi imwe i lili inai fa oyo a li e shii nawa, opo shi kale sha fa okudana ndele hashi fa okuyelekanifa.
 
-## Arts and crafts ideas to try
+## Omayele oilonga yomake okukendabala
 
-Each idea includes how to make it simpler if it becomes hard.
+Ediladilo keshe oli na nanghee to dulu oku i ninga ipu nge oya ninga idjuu.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Okufaneka nomeva la yelakana.** Teya ombapila idjuu yokufanekela nomeva ndele to efa omunhu a tule oluvala kombada yayo noshikombe shinene. Omaluvala ohaa tandavela oo vene, onghee kape na oshilonga sha puka. *Shipu:* yandja omaluvala avali aeke, ile faneka nomeva kombapila ilaula oyo tai ulike oinima ya teya.
+2. **Okulonga omifano omoifo.** Teta omafano nale okudja moifo kombinga yoshikunino, okuteleka, eetuwa, omalweendo ile oinima oyo omunhu a li e hole nale. Mu efa a hoolole nokunamifa omafano kombapila ikukutu. *Shipu:* yandja omafano ane a tetwa nale noshinima shokunamifa, ndele tamu namifa pamwe.
+3. **Okutula eengala.** Alzheimer's Foundation of America otai kumaida [okutula eengala noihati](https://alzfdn.org/dementia-activity-gardening/) momikalo dipu dopafimbo lomudo. Longifa ovase idjuu ya kanghama nawa noihati ya tetwa nale. *Shipu:* tula oihati inini mokakopi, imwe pefimbo.
+4. **Oukalata veengala da panywa.** Panya eengala dokoshivilo pokati komapandja embo oshivike shimwe, opo nee di namifa koukalata va petwa. *Shipu:* ove to tula oshinima shokunamifa, ye ta fininike ongala.
+5. **Omapandja okuwavafeka ovakulunhu.** Hoolola omapandja e na omikala da yela noinima yashili. Omapandja etu okuwavafeka [Coloring](/games/coloring/) otaa dulu yo okuwavafekwa koskrini mokutinya oluvala, opo nee oshitukulwa shefano. *Shipu:* oipambu inene, omaluvala manini, eepenna dinene.
+6. **Edu lokuma ile edu lokudana la nanga.** Shingila, fininika nokuma edu lokuma la kukuta ile edu lokudana la nanga. Okufininika oshifo medu lokuma otashi ningi oshipambu shipu. *Shipu:* okufininika nokushingila akuke oko oshilonga sha wana. Takamifa omunhu aha tule edu lokuma mokanya.
+7. **Okuninga oukalata.** Alzheimer's Association otai kumaida oku shi tala shi li oshilonga sholela: "Otatu tumine kaume ketu okalakata kokutala nawa. Oto dulu okukwafa nge?" Ombapila ya tetwa nale noukamanya vanini veengala ile voustampu otai longo nawa.
+8. **Okulonga omambo omafano.** Tuleni pamwe eekopi domafano akulu, oupositikata ile oukalata veetiketi komapandja embo. Popyeni kombinga yashimwe keshe fimbo tamu shi ningi. Tala ewiliko letu [okudimbulukwa oinima yonale](/activities/reminiscence/) omolwomikalo da ngungumana dokupopya kombinga yoinima yonale.
+9. **Oipambu yoiyata nomalududi.** Namifa oipambu yoiyata ngaashi corduroy, velvet, burlap nosilk kombapila ikukutu. Oku i ninga osho oshilonga; oku i kuma konima otashi dulu okukala oshilonga shikwao. Omayele makwao oku li mewiliko letu [oilonga tai kumu omaliudo](/activities/sensory/).
+10. **Okulonga oipilangi ipu.** Komunhu oo a li e hole okulonga oipilangi, okupukulula oshipilangi sha lalakana ile okuwavafa okanduda kounyuni otashi dulu okumukwafa a dimbuluke oinima oyo a li e shii. Kufa po oilongifo ya twa ndele kala popepi eshi ta longo.
+11. **Okufaneka pamwe nomusika.** Dana omusika oyo omunhu e hole ndele tamu faneke omikalo ile omaluvala taa ulike omaliudo omusika. Osho otashi kwatakanifa oilonga ivali oyo ovanhu vahapu hava hafele. Tala [oilonga domusika](/activities/music/).
 
-## How do I set up an art session?
+## Ohandi longekida ngahelipi efimbo lokufaneka?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Longekida tete.** Teta, longekida nokutula po keshe shimwe manga inoo shiva omunhu. Okuteelela fimbo to kongo omak scissors otashi dulu okukanifa omhito oyo.
+2. **Kaleka oinima inini.** Omaluvala avali ile atatu, oshikombe shimwe, ombapila imwe. Eehoololo dihapu otadi dulu okunyongifa omunhu.
+3. **Amenena otaafula.** Oshiyata shoplastika ile oshiyata shikulu otashi ningi opo uha kale noshisho noudjuu.
+4. **Kaleni omutumba mu li pambapene.** Longa oshilonga shoye popepi nashaye. Otashi kala sha fa tamu longo pamwe, ndele hashi kala sha fa ta pashukilwa.
+5. **Mu kwafela a tameke.** Alzheimer's Association otai ti kutya otashi dulika wa pumbwa okutameka okweenda kwoshikombe pamwe nomunhu. Nge okwa tamekwa, ovanhu vahapu ohava twikile.
+6. **Popyeni fimbo tamu longo.** Popya kombinga yomaluvala nomalududi, ile efa ouhongo u ete omahokololo. Henuka omapulo a fa ekonakono ngaashi "Eshi oshike?"
+7. **Yandja efimbo la wana.** Oshilonga inashi pumbwa okumanifwa pefimbo limwe alike.
 
-## How do I adapt art as dementia changes?
+## Ohandi lundulula ngahelipi ouhongo nge okudimbwa otaku ende komesho?
 
-| Stage | What tends to work | What to adjust |
+| Opefimbo | Osho hashi longo nawa | Osho u na okulundulula |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Petameko | Eengudu, omapandja okuwavafeka a kwata moihapu, omambo omafano, okuninga oukalata, okufaneka okudja kefano | Yandja ehoololo loilonga; kaleka shi li pamwe navakwao |
+| Pokati | Okulonga omifano a tetwa nale, okufaneka nomeva la yelakana, okutula eengala, okuwavafeka noinima inene | Oshinima shimwe pefimbo; ove to teta nokunamifa |
+| Konima | Okufaneka nomikalo minene, okufininika edu lokuma, okukuma oiyata, okutala eshi to faneke | Yandja elitulemo komaliudo; wilika eke pangungumana nge okwa tambula ko |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS otai kumaida kutya pefimbo lokonima, oilonga ohai ningwa ipu unene nohayi yandje elitulemo komaliudo. Okutala omunhu umwe ta faneke nokupopya kombinga yomaluvala nayo oyo onghedi yashili yokukufa ombinga. Omayele mahapu okweenda nopefimbo keshe oku li apa [oilonga yopefimbo keshe](/activities/ideas/).
 
-## Safety with art supplies
+## Eameno noinima yokufaneka
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Hoolola oipenda, eepenna noinima yokunamifa ihe na oshiponga.
+- Kaleka omak scissors, eembele dokuteta noilongifo yokunamifa ipyu kokule. Teta keshe shimwe ove mwene, nale.
+- Takamifa nge omunhu ota tula edu lokuma, oipenda ile oinima inini mokanya.
+- Longifa oikwatelwa yomeva novase idjuu ya kanghama nawa.
 
-## When should we stop?
+## Onaini tu na okuhulifa?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Hulifa nge elitulemo ola kana ile nge omunhu okwa nyemata. Alzheimer's Association otai kumaida okuhulifa ile okulundulula oshilonga nge elitulemo ola shuna pedu ile omunhu okwa nyemata. Tula oshilonga ponhele ya amenwa ndele to yandje sha shokumwenena. Oto dulu okualuka kusho mongula, ile ino aluka kusho nande. Aishe oi li nawa.
 
-## Display the work, if the person wants
+## Ulika oshilonga, nge omunhu okwa hala
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Okupameka efano kefilidja ile okutula oshilonga mefulemu otashi dulu okukala onghedi ya ngungumana yokulika efimano. Pula tete. Vamwe ohava hafele okumona oilonga yavo kekuma; vamwe inava hala.
 
-## Pair art with our games
+## Longifa pamwe noidano yetu
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Omafiku oo okulongekida oipenda tashi monika shidjuu, [Coloring](/games/coloring/) ohai longo kokatableta ihe na oudjuu. [Picture Puzzle](/games/picture-puzzle/) ohai kaleke efano alishe li liwetike li li ewiliko fimbo tamu lundulula oipambu. [Conversation Cards](/games/conversation-cards/) otai yandje omapulo a manguluka oo taa dulu okweeta ehokololo okudja kefano. Aishe kai na efimbo ile oitwa. Oto dulu yo okushanga omapandja okudja moilonga yetu [printable activities](/activities/printable/).

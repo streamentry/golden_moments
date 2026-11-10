@@ -1,33 +1,32 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Kenslulig virksemi fyri fólk við demens"
+seoTitle: "Kenslulig virksemi við demens: ráð og trygd"
+description: "Kenslulig virksemi fyri fólk, ið liva við demens, frá seinni hondakræm til tøykluppur og náttúrljóð, við greiðum trygdaráðum um kvøl, allergi og ilmar."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Kenslulig virksemi nýtir snerting, ilmandi, smak, ljóð og sjón: eitt seint hondakræm,
+  ein korg við mjúk tøy, ferskar urtir at lúta, náttúrljóð ella at hyggja út eftir fuglum.
+  Hon hóskar til øll stig og er serliga virðismikið seinni. Kanna fyrst fyri kvølum, allergi,
+  húðtrupulleikum og følsni fyri ilmi, bjóða bert einum lut í senn, og steðga, um tann
+  tú varðar um tykist óttafullur ella ikki væl.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Kenslulig virksemi krevur ongar rætt svar, tí virkar hon á øllum stigum, eisini í song ella stóli."
+  - "Bjóða bert einum sansi í senn í einum stillum rúmi, og bið ella kunnger áðrenn tú snertir."
+  - "Undansí smá lutir og alt, sum líkist ella luktar sum mat, men ikki er mat, tí tann tú varðar um kann seta lutir í munnin."
+  - "Kanna fyri allergi, húðtrupulleikum og andatrupulleikum áðrenn tú nýtir krem, ilmar ella mat."
+  - "Einki sannførandi prógv vísir, at aromaterapi hjálpir við demenssymptomum. Nýt bert ilmar til einfaldan gleði, um yvirhøvur."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Hvat eru góðar kensluligar virksemir fyri nakran við demens?"
+    a: "Einfaldar hugskot eru seint hondakræm við kremi, at handfara mjúk tøy, at lúta ferskar urtir ella kaffi, at lurta eftir yndisljóðum ella náttúrljóðum, at hyggja eftir fuglum ella í fiskatanki, og at smakka yndismat í eini trygdari konsistensu. Bjóða bert einum lut í senn og fylg væl eftir, hvussu tann tú varðar um reagerar."
+  - q: "Eru kensluligar virksemir trygdar fyri nakran, sum setur lutir í munnin?"
+    a: "Tær kunnu vera, við nógvari umhyggju. Nýt bert stórar lutir, sum ikki kunnu sløkjast, undansí smáar ella brotskar lutir, og halt krem, sápu og ilmandar vørur burtur aftaná, tí tær kunnu líkjast ella lukta sum mat. Ver altíð hjá honum ella henni."
+  - q: "Hjálpir aromaterapi við demens?"
+    a: "Ein Cochrane-gjøgnumgongd fann einki sannførandi prógv fyri, at aromaterapi hjálpir fólki við demens, hóast rannsóknirnar vóru smáar og úrslitini vóru ósamráðandi. Um tann tú varðar um njótur ein miltan, kendan ilmandi, kann tað vera í lagi, men undansí sterkum essentiellum oljum, serliga um hann ella hon hevur andatrupulleikar ella allergi."
+  - q: "Hvat er ein fidget- ella virksemiaprón?"
+    a: "Tað er eitt stykki tøy, ein aprón ella eitt skøtuteknikk við lutum, sum eru væl saumaðir fast á tað, so sum stórar knappur, lynjur, borðar og ymisk flík við ólíkari áferð. Tað gevur aktívum hondum okkurt at kanna. Kanna tað ofta fyri, um okkurt er løst og kundi takast av."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +47,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Kenslulig virksemi nýtir fimm sansar: snerting, ilmandi, smak, ljóð og sjón. Hon krevur onga minni, eingar stig og ongar rætt svar, so hon kann virka á øllum stigum. Hon er serliga týdningarmikil seinni í gongdini. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) greiðir frá, at á síðasta stigi verður heiminum upplevdur mest gjøgnum sansarnar, og at tú kanst vísa umhyggju gjøgnum snerting, ljóð, sjón, smak og ilmandi. Nakrar einfaldar trygdarkanningar gera hesar virksemir róligar fyri báðar partar.
 
-## What are sensory activities for dementia?
+## Hvat eru kensluligar virksemir fyri fólk við demens?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Kensluligar virksemir eru einfaldar upplivingar, sum eru grundaðar á einum sansi í senn, so sum at fáa í hond tøy, at lúta urtum ella at lurta eftir regni. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) sigur, at virksemi á síðari stigum ofta skulu snúgva seg um sansarnar, og nevnir tónleik, lutir at handfara og hondakræm. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) leggur dent á, at fólk á síðasta stigi kunnu hava ein sterkan tørv á at halda okkurt nær at fáa sær ró.
 
-## Sensory ideas, sense by sense
+## Hugskot til kensluligar virksemir, eftir sansi
 
-### Touch
+### Snerting
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Seint hondakræm.** Varm eitt lítið sindur krem í hondunum og strjúka seint frá úlnanum til fingraspísarnar. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) nevnir hondakræm við óilmandi kremi til ró.
+- **Tøykluppur.** Stórir fermetrar av fløjel, korduroy, fleece, satin og ull at strjúka, fáa saman og tosast um.
+- **Varmur klútur.** Ein varmur, fuktigur klútur til hendurnar eina kølda dagin. Royn hita á tínum egna úlnanum fyrst.
+- **Virksemiaprón ella skøtuteknikk.** Stórir knappur, lynjur, borðar og strukturerað flíkir væl saumaðir fast á.
+- **At leggja saman og sløtta.** Ein korg við reinar vaskiklútar ella serviettum at leggja saman, stabla og leggja saman umaftur.
+- **Okkurt mjúkt at halda.** Ein fleece-teppi, eitt koddi ella eitt realistiskt mjúkt dýr, bjóða einfølt, ikki sum eitt leiktók.
 
-### Smell
+### Ilmandi
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Ferskar urtir.** Gnig mynta, rosmarin, basilikum ella lavendelbløð millum fingrarnar og før tey fram.
+- **Ilmar úr køkinum.** Kóka kaffi, rista breyð, kanil ella at skræla eina appelsínu nærindis.
+- **Blómu.** Tak nakrar ferskar blómur úr garðinum ella úr matvøruhandlinum.
+- **Eitt kent vørumerki.** Tann sápa ella tað krem, sum hann ella hon altíð hevur brúkt, um húðin tólir tað.
 
-### Taste
+### Smak
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Eitt yndismaksfelag.** Ein lítil skeið av okkuri, sum hann ella hon hevur dámt, so sum eplasós, búðing ella ís, í eini konsistensu, sum er trygd at eta.
+- **Hjálp við at baka.** At smakka ávøkst ella eitt lítið sindur glasur, meðan tit baka saman.
+- **Árstíðabundnir góðgæti.** Vatnmelón um summarið, varm saft um heystið, veittur við trygdari hita.
 
-### Sound
+### Ljóð
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Yndistónleikur.** Kendar songir við blíðari ljóðstyrki; sí [virksemi við tónleiki](/activities/music/).
+- **Náttúrljóð.** Regn, aldur ella fuglasangur. National Institute on Aging gevur okkum at skilja, at tónleikur, hvítur larmur og náttúrljóð kunnu gera nakrar róligari.
+- **Tín rødd.** At lesa upp, nynna ella fortelja eina søgu.
+- **Einfaldir ljóðfeløg.** Ein handtromma, rista ella bjalla at spæla saman við tónleikinum.
 
-### Sight
+### Sjón
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **At hyggja út vindeyga.** Ein fuglafóðrarastøð uttanfyri vindeygað, børn á veg heim ella snjó, sum fellur.
+- **Fiskatankur ella seint myndband.** Blíð rørslur uttan høgan larm.
+- **Stórar myndir.** Ein klár mynd í senn, hildin í eyga hædd.
+- **Litur og mynstur.** At flokka bjartar tøyflísar, blómur ella litligar serviettum, ella ein einfaldan litisíðu úr okkara [litisetinum](/games/coloring/).
+- **Utandyra.** NHS leggur til rættis kensluligar urtagarðar við aromatiskum plantum, ymiskri áferð og vatnføstum. Sí [virksemi utandyra og við urtagarði](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Hvussu ger tú ein kenslulukku
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Vel eitt evni** knýtt at lívinum hjá honum ella henni: strondina, garðin, køkið, arbeiðsvøllin ella saumaskap.
+2. **Vel fimm ella seks stórar, trygdar lutir.** So sum ein stórur skel, ein træsker, ein mjúkur skórt, ein litli posa við turkaðari lavendel saumaður aftur, ella ein slættur trælutur.
+3. **Kanna hvørja lut** fyri smáum pørtum, hvössum kantum, løstum tróðum og øllum, sum kundi brotast.
+4. **Tak ein lut í senn fram.** Rætta honum fram, lýs hann, og lat hann ella hana kanna sjálv/ur.
+5. **Goym lukku aftaná.** Soleiðis verður hon serstøk, og lutirnir kunnu kannast umaftur, áðrenn tær verða brúktar næstu ferð.
 
-## Safety first
+## Trygd fyrst
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Kenslulig virksemi er blíð, men nakrir vandar eru týdningarmiklir. Nakrir, ið liva við demens, kunnu taka lutir, sum ikki eru mat, fyri mat, og at sløkja kann gerast verri við tíðina. National Institute on Aging varnar fyri, at vandin fyri at kvøl vast á síðasta stigi verður størri.
 
-| Risk | What to do |
+| Vandur | Hvat skal gerast |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Kvol | Nýt bert lutir, sum eru ov stórir at sløkja. Ongar knappur, perlur, myntir, marmarin ella smá leiktók loystir í lukkunni. Bjóða mat bert í teimum konsistensum, sum umráðandi arbeiðsbólkur sigur eru trygdar. |
+| Lutir, sum líkjast mat | National Institute on Aging ráðger at læsa inni krem, sápu, sjampó og parfymer, sum kunnu líkjast ella lukta sum mat, og at taka kunstig ávøkst burtur. Goym kensluvørur burtur aftaná brúkslu. |
+| Allergi | Kanna fyri allergi móti nøtum, latexi, ulli, plantum ella ilmandi vørum áðrenn tú byrjar. |
+| Sterkir ilmar | Undansí sterkum parfymerum og essentiellum oljum, serliga um andatrupulleikar eru. Milde, náttúrligir ilmar eru trygdari. |
+| Húð | Kanna fyri sárum, opnum ella skjørum húð áðrenn hondakræm. Brúka blíða trýst og steðga, um hann ella hon rýkur saman. |
+| Hita | Royn varmar klútar og drekka á tínum egna úlnanum fyrst. |
+| Hvassar ella evnisevniligir lutir | Ongin hvøss amboð, glas ella evnisevniliga handverksvørur. |
 
-## Does aromatherapy help?
+## Hjálpir aromaterapi?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Tíkilig ikki á nøkrum máleligum hætti. Ein [Cochrane-gjøgnumgongd um aromaterapi við demens](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) leit í 13 rannsóknir við 708 fólkum, allar í røktarheimum, og fann einki sannførandi prógv fyri ágóðanum. Rannsóknirnar vóru smáar, úrslitini vóru misjavn, og bíingareftir verkanir vóru ikki væl fráboðaðar. Um tann tú varðar um njótur ein miltan, kendan ilmandi, so sum lavendel úr garðinum, er tað ein góð orsøk at deila honum. Tað er ikki ein viðgerð.
 
-## How to offer a sensory activity
+## Hvussu bjóðar tú eina kensluliga virksemi fram?
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Vel ein stillan løt** og sløkk sjónvarpið.
+- **Kom framannyvir,** sig navnið á honum ella henni, og bið ella kunnger áðrenn tú snertir: "Eg havi krem. Vilt tú hava eitt hondakræm?"
+- **Bjóða bert einum lut í senn,** so tað ikki verður ov nógv.
+- **Fylg væl eftir verkanini.** Ein blíðari ásjón, róligar hendur ella eitt bros eru góð tekin. Um hann ella hon vendir sær burtur, reynir at fáa burtur ella gerst óróligur, steðga tá.
+- **Halt tað stutt.** Fimm róligar minuttir eru ofta nóg.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Ein seint andarhald saman, so sum [róligt andarhald](/games/calm-breathing/), kann vera ein blíður endi á virkseminni. Fyri fleiri hugskot við songini, sí [virksemi á síðasta stigi](/activities/late-stage/), og fyri órósegi seint á dag, sí [órósegi seinni partin av degi](/caregiving/late-day-restlessness/).

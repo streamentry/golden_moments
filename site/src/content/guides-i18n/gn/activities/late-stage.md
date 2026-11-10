@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Tembiapo demencia pahápe, tupa térã apyka guive"
+seoTitle: "Tembiapo demencia pahápe: tupa ha apyka"
+description: "Tembiapo mbovyʼa demencia pahápe guarã, tupa térã apyka guive: purahéi, jepoko, ñemoñeʼẽ hatã, tyapu ha oĩjoa, tekorosã reheve."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Demencia pahápe, tembiapo oñecentra umi andu rehe ha nde ropýpe:
+  ñembopu purahéi ohayhúva, pojopy, ipo ñemokyreʼỹ mbegue, ñemoñeʼẽ hatã,
+  taʼanga jehecha, ñande tyapu ha ñeguapy ovetã ypýpe térã okápe. Koʼãva
+  ikatu ojejapo tupa térã apyka guive. Ejejapo sapyʼa, ehecha hova ha ipo
+  oĩ porãpa, ha nemanduʼa oĩjoa hína upe tembiapo.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Jeike joapýpe ikatu gueteri. Etapa pahápe, yvóra oñanduve umi andu rupive."
+  - "Purahéi, jepoko mbovyʼa, ñeʼẽ ojekuaáva ha mbaʼe mbykymi oñembotyva ikatu og̃uahẽ umi tapichápe oñeʼẽveʼỹ jave."
+  - "Hetave tembiapo koʼápe ikatu ojejapo tapicha oĩva tupa térã apyka guive."
+  - "Ehecha hova, ipo ha pytu oĩ porãpa térã hasýpa, ha epyta oiméramo mbaʼe ivaíva."
+  - "Ani remeʼẽ mbaʼe michĩva ha ani remeʼẽ tembiʼu térã y emomaranduʼỹrõ aty rerekuaávape, omokõ ikatu ndahaʼéi hekorosã."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Mbaʼe tembiapo ikatu ojejapo tapicha oikoveva demencia pahápe ndive oĩva tupápe?"
+    a: "Embopu purahéi ohayhúva, ejapyhy ipo, emokyreʼỹ ipo mbegue lotion reheve, emoñeʼẽ hatã aranduka térã ñeʼẽmeʼẽ ohayhúva, ehechauka taʼanga térã embopu ñande tyapu mbovyʼa. Embojepeʼe ovetã ohecha hag̃ua okápe. Sapyʼa ha pyʼaguapy, peteĩ mbaʼe peteĩ jave, haʼevéicha iporãve jepi."
+  - q: "Umi tapicha oikoveva demencia pahápe ikatu gueteri ovyʼa purahéi rehe?"
+    a: "Heta ikatu. Alzheimer's Association heʼi etapa pahápe jepe tapicha ikatu ombopu peteĩ mbopu térã opurahéi peteĩ purahéi imitãrusúpe ohendúva reheve. Eiporavo purahéi ohayhúva imitãrusu jave ha eguereko tyapu mbovyʼa."
+  - q: "Mbaʼéichapa aikuaa vyʼápa upe tembiapópe?"
+    a: "Ehecha umi ñeʼẽ michĩva: atiʼy pyʼaguapy, hova mbykymi, resa jehecha, ñepurahéi kirirĩhápe, ipo ñejopy térã pytu mbegue. Hova ñemyatyrõ, jeipeʼa, ñemyakãvai térã ñeʼẽnguru ikatu heʼise hasy térã ñandupy. Rehecháramo kóva, epyta ha emombeʼu aty rerekuaávape opytáramo."
+  - q: "Iporãpa ajehechauka hendive che reikuaaʼỹramo jepe?"
+    a: "Hẽe. National Institute on Aging heʼi oĩjoa hína ikatu omopyʼaguapy, ha jepoko, purahéi ha tembiasakue ikatu omeʼẽ gueteri pyʼaguapy demencia itenondevévape. Nde ñeʼẽ ha nde jepoko ikatu ojekuaa ne réra nojekuaaʼéiramo jepe."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Demencia pahápe, tapicha ikatu oñeʼẽ saʼive, oikotevẽ pytyvõ opa ára rupi ha ohasa hetave ára tupa térã apyka ári. Ikatu ñandéve ndaiporivéima mbaʼe jajapokuaáva oñondive. Oĩ gueteri. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) heʼi oĩkuaa gueteri pe tapicha haʼeha, ha ko etapa rupi yvóra oñanduve umi andu rupive. Purahéi, jepoko, peteĩ ñeʼẽ ojekuaáva ha nde ropy pyʼaguapy ikatu omeʼẽ gueteri pyʼaguapy ha jeike joapýpe sapyʼaite.
 
-## What activities help in late-stage dementia?
+## Mbaʼe tembiapo ikatu opytyvõ demencia pahápe?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Tembiapo andu rehegua ha oĩjoa pyʼaguapýpe opytyvõve etapa pahápe. Alzheimer's Association heʼi embopu hag̃ua purahéi ohayhúva, emoñeʼẽ hag̃ua pehẽngue aranduka iñimportánteva, emokyreʼỹ hag̃ua pire lotion ohayhúva rykue reheve ha eguapy hag̃ua oñondive okápe ára iporãramo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ombojuaju tembiasakue ñemombeʼu, taʼanga jehechauka, jepoko mbovyʼa térã ñemokyreʼỹ, ha purahéi, tyapu morotĩ térã ñande tyapu, ha heʼi nde ropy añoite ikatu omopyʼaguapy.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) heʼi umi tapicha etapa pahápe oĩva oikotevẽve jepi oñemboty hag̃ua mbaʼe rehe oiko hag̃ua pyʼaguapy, ha omeʼẽ tembiapokue andu rehegua, ñemokyreʼỹ mbegue, ao ñemonguʼe, purahéi, mymba jehechauka, jepoko tapicha rehe ha arte isãsóva.
 
-## Activities for someone in bed or a chair
+## Tembiapo tapicha oĩva tupa térã apyka guive guarã
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Embopu ipurahéi.** Eiporavo purahéi imitãrusu jave ohendúva, ijerovia rehegua térã ifamilia rehegua. Eguereko tyapu mbovyʼa ha eguapy hiʼaguĩ. Koʼág̃a jepe, oĩ tapicha ombopúva ikuã kirirĩhápe térã oñepurahéiva. Ehecha [tembiapo purahéi rehegua](/activities/music/).
+2. **Ejapyhy ipo.** Ejapyhy hag̃ua ipo, kuãme ñemokyreʼỹ mbeguére, haʼe avei peteĩ tembiapo. Emombeʼu raẽ mbaʼépa rejapóta.
+3. **Emokyreʼỹ ipo mbegue.** Emombyaku lotion michĩ nde pópe ha emokyreʼỹ jyva guive ikuã peve. Eiporavo lotion ndorekóiva rykue, térã peteĩ rykue akóinte ohayhúva ipire omoneĩrõ.
+4. **Emoñeʼẽ hatã.** Peteĩ ñeʼẽpoty ohayhúva, peteĩ pehẽngue aranduka ohayhuetéva, ñeʼẽmeʼẽ térã ñembosarái kuatiahaipyre. Nde ñeʼẽ mbopu tuicha nde ñeʼẽ raʼãgui.
+5. **Emombeʼu peteĩ tembiasakue.** Eñeʼẽ peteĩ familia jeho térã pe ára omenda hague rehe. Natekotevẽi oñembohovái.
+6. **Ehechauka taʼanga.** Eguereko peteĩ taʼanga tuicháva resápe ha emombeʼu mborayhúpe. Ani eporandu mávapa oĩ upepe.
+7. **Emeʼẽ mbaʼe mbykymi oñemboty hag̃ua.** Peteĩ ao ñemopotĩva oñembyatýva, peteĩ ao fleece térã peteĩ mymba mbykymi. NIA heʼi emeʼẽ hag̃ua tapichápe ao ñemopotĩva oñemboty hag̃ua oñemonguʼe jave, ani hag̃ua opoko ndéve térã mbaʼyru rehe.
+8. **Embopu ñande tyapu.** Ama, yguasu térã guyra ñeʼẽ tyapu kirirĩháme ikatu ombykymi koty tyapu hetáva.
+9. **Eru oka okápe.** Embojepeʼe ovetã, emoĩ guyra karuha ovetã okápe térã eru poty térã hogue rogue michĩva rehecha ha jepoko hag̃ua.
+10. **Eho okápe.** Pe tapicha ikatu oguapýramo apyka jerére, sapyʼaite kuarahyʼãme ára pyʼaguapýpe ikatu iporã.
+11. **Eñeakã peʼa térã emeʼẽ ao haku.** Ñemopotĩ mbegue ha pyʼaguapy ha peteĩ ao haku ipo ha hova hag̃ua ikatu oñandu porã.
+12. **Emonguʼe mbegue purahéi ndive.** Pemonguʼe peteĩ ao ipehẽnguéva oñondive térã pepejuajua ipo purahéi mbopu reheve. Ñemokyreʼỹ ha joaju ñemonguʼerã, eporandu peteĩ fisioterapeuta térã tapicha rerekuaávape ohechauka hag̃ua ndéve mbaʼéichapa ojejapo tekorosãme raẽ.
+13. **Ejapo arte isãsóva.** Emosarambi pintura ndahaʼéiva pohã kuatia tuichávape peteĩ esponja térã pópe, nde popytyvõ reheve. Ndaipóri apopyrã oĩporãva.
+14. **Emoneĩ mymba jehechauka.** Peteĩ mymba pyʼaguapy tupápe térã apyteʼýpe, pe tapicha ohayhuramoguare mymba ha pe tenda omoneĩrõ.
+15. **Pepytu mbegue oñondive.** Eguapy hiʼaguĩ ha pepytu mbegue ha hatãme. [Pytu pyʼaguapy](/games/calm-breathing/) ikatu omeʼẽ pe mbopu peẽme mokõivéva, ha nde repyrũ ha repyta.
+16. **Eĩnte hína hendive.** Eguapy hiʼaguĩ, eñepurahéi kirirĩhápe, ejapo ao térã emoñeʼẽ kirirĩhápe. Oĩjoa hína añetehápe.
 
-## How to share an activity at this stage
+## Mbaʼéichapa ikatu jaike tembiapópe ko etapa rupi
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Eja tenonde guive.** Ehenói héra ha nde réra, ha eñeʼẽ mbegue ha kirirĩhápe rejepoko mboyve.
+- **Emeʼẽ peteĩ mbaʼe peteĩ jave.** Embogue televisión rembopu mboyve purahéi. Ejapo peteĩ andu peteĩ jave.
+- **Eguereko sapyʼa.** Ikatu peteĩ aravoʼi michĩ añetehápe. Heta áraʼi michĩ ára pukukue ikatu iporãve peteĩ tembiapo pukúgui.
+- **Ejapo oiko hag̃ua pyʼaguapy raẽ.** Ehecha pe tapicha oĩ porãpa. NIA heʼi peteĩ tabla apyteʼýpe guarã ikatu opytyvõ ojoko hag̃ua jyva ha oipytyvõ hag̃ua tete yvategua oguapývo.
+- **Ehecha mbaʼéichapa oñandu.** Ipo pyʼaguapy, hova mbykymi, resa jehecha térã ñepurahéi kirirĩháme ikatu heʼise oĩ porãha. NIA heʼi ñeʼẽnguru, hova ñemyatyrõ, peteĩ tenda ñangareko térã ñemyakãvai sapyʼa ikatu haʼe hasy ñeʼẽ. Epyta ha emombeʼu aty rerekuaávape.
 
-## A quick guide by sense
+## Ñeʼẽñemi pyaʼe andu rehehápe
 
-| Sense | Ideas | Take care |
+| Andu | Tembiapokue | Eñangareko |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Ñehendu | Purahéi ohayhúva, nde ñeʼẽ ñemoñeʼẽ, ñande tyapu | Eguereko tyapu kirirĩháme; peteĩ tyapu peteĩ jave |
+| Jepoko | Ipo ñemokyreʼỹ, ipo ñejapyhy, ao mbykymi, ao haku | Ejerure térã emombeʼu raẽ; ehecha ipire ndahasyi térã ndojekaʼípa |
+| Jehecha | Taʼanga, poty, jehecha ovetã guive, taʼangamýi ñande rehegua mbegue | Eguereko mbaʼe resápe; tesape porã, avei hatãʼỹ |
+| Tyakuã | Lotion ohayhúva, poty pyahu, café oñemboguapýva hiʼaguĩ | Ani rykue hatã; ehecha alergia ha pytu rehegua |
+| Tyte | Peteĩ tembiʼu michĩ hete ohayhúva | Umi tembiʼu ha ijapu reheve aty rerekuaáva heʼíva añónte hekorosãha |
 
-## Safety at this stage
+## Tekorosã ko etapa rupi
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Omokõ ikatu hasyve etapa pahápe, ha NIA heʼi kóva ombohetave pe arriesgo ojepyʼajokuaaha. Ani reheja mbaʼe michĩ hiʼaguĩ, ha emeʼẽ tembiʼu térã y ijapu ha teko aty rerekuaáva heʼívape añoite. Ehecha ipire mbovyʼaitépe jepoko tembiapópe, ipire ikatu osoro térã oñehunga pyaʼe. Hetave tembiapo andu rehegua hekorosãva rehegua, ehecha [tembiapo andu rehegua](/activities/sensory/).
 
-## Looking after yourself too
+## Eñangareko nde avei
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Ñangareko etapa pahápe hasyete hetépe ha ñeʼãme, ógape térã eho jave oikohápe. Aty hospice ha palliative care ikatu opytyvõ pyʼaguapy, pytyvõ ha ñembosakoʼípe, ha NIA omombeʼu chupekuéra pytyvõháramo. Jehechauka sapyʼa ha pyʼaguapy oreko mbaʼe tuicháva; ehecha [ehecha tapicha oikoveva demencia ndive](/activities/visiting/). Rembohapéramo aty, [tembiapo aty oikohápe guarã](/activities/care-home-groups/) oreko tembiapokue ñemboheko hag̃ua. Ha emoñeʼẽ [ñangarekohára ñañangareko](/caregiving/caregiver-self-care/): pytu haʼe avei ñangareko porã.

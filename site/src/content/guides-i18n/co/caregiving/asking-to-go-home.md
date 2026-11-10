@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Quandu una persona cù dimenza vole vultà in casa"
+seoTitle: "Dimenza: vole vultà in casa, chì dì"
+description: "Perchè una persona chì campa cù a dimenza chjere di vultà in casa ancu s'ella ci hè digià, chì dì, attività calmanti da pruvà è cumu tenela à sicuru."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Quandu qualchissia chì campa cù a dimenza chjere spessu di vultà in casa, « casa »
+  vole spessu dì un sintimu di sicurità o un locu di u passatu, micca un
+  bastimentu. Ùn discuttite micca per pruvà ch'ella hè digià in casa. Ricunniscite
+  ciò ch'ella sente, rassicuratela ch'ella hè à sicuru, dumandateli di parlà di a
+  casa, poi passate pianu pianu à ritratti, musica, un spuntinu, una spassighjata
+  o un compitu simplice. Verificate s'ella hà fame, sete, bisognu d'andà à i
+  servizii o dulore. S'ellu principia di colpu, chjamate u so duttore.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "« Vogliu vultà in casa » vole spessu dì « Ùn mi sentu micca à sicuru o tranquillu », micca una dumanda per un indirizzu."
+  - "Discutà o pruvà ch'ella hè in casa rende di solitu a pena più forte. Rispondite piuttostu à ciò ch'ella sente."
+  - "Dumandateli di parlavvi di a casa, poi prupunite ritratti, musica, un spuntinu, una spassighjata o un compitu simplice."
+  - "Verificate s'ellu ci hè qualcosa da risolve: fame, sete, bisognu d'andà à i servizii, dulore, troppu caldu o troppu fretu, rumore, stanchezza."
+  - "S'ellu accade ogni fine di dopu meziornu, pò esse ligatu à l'inquietudine di fine di ghjurnata; una rutina regulare è una bona luce ponu aiutà."
+  - "Preparatevi per a sicurità s'ella prova à partesi, è chjamate u so duttore per ogni cambiamentu subitu."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Perchè a mo mamma cù dimenza chjere sempre di vultà in casa quandu ci hè digià?"
+    a: "A dimenza pò fà chì e stanze cunnisciute parinu strane, è certe persone si sentenu à volte in un altru mumentu di a so vita. « Casa » pò vuler dì a casa di a zitellina o sempliciamente u sintimu d'esse à sicuru è tranquillu. Risponde à quellu sintimu funziona di solitu megliu cà d'insiste nantu à induve ella si trova."
+  - q: "Chì devu dì quandu chjere di vultà in casa?"
+    a: "Pruvate cù « Site à sicuru quì, è eiu restu cun voi », poi « Parlàtemi di a vostra casa ». Ascultate, spartite un ritrattu o una canzona, è prupunite qualcosa da beie o una corta spassighjata. Evitate di dì « Site in casa » cum'è una currezzione, perchè pò fà sente à a persona ch'ella hà tortu."
+  - q: "Hè bè di dì chì anderemu in casa più tardi?"
+    a: "E famiglie è l'urganisazioni chì si occupanu di dimenza ùn sò micca tutte d'accordu. Parechje principianu cù un cunfortu onestu è una redirezzione dolce, è tenenu una piccula bugia dolce solu per i mumenti induve a verità causerebbe una pena chì a persona ùn pò micca gestisce. Qualunque sia a vostra scelta, siate gentile è custante, è ùn vi fate mai beffe di a so manera di vede a realità."
+  - q: "È s'ella prova à sortesi da casa?"
+    a: "Restate calmu è spassighjate cun ella invece di bluccalla; una corta spassighjata calma spessu l'envia. Mettite in piazza misure di sicurità in anticipu, cum'è un braccialettu d'identità, una campanella à a porta è una foto recente. S'ella sparisce, principiate à circalla subitu, è chjamate u 112 s'ella ùn hè micca stata truvata dopu à 15 minuti, spiegendu chì a persona campa cù a dimenza."
+  - q: "Quandu devu chjamà un duttore?"
+    a: "Chjamate prestu u so duttore se e dumande o a cunfusione principianu di colpu o peggioranu assai in poche ore o ghjorni, soprattuttu s'ellu ci hè frebba, una medicina nova o segni d'infezzione urinaria. A cunfusione subita pò esse un deliriu, chì hà bisognu d'una cura rapida. Chjamate u 112 s'ellu ci hè un periculu per qualchissia."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+« Vogliu vultà in casa. » Per parechje famiglie, hè una di e cose più dure à sente, soprattuttu quandu a persona chì vo accudite hè assittata in u so propiu salottu. Hè qualcosa chì accade spessu, pò accade à ogni tappa di a dimenza, è ci sò manere calme è pratiche per risponde. Questa pagina spiega ciò chì ste parolle volenu spessu dì, chì pudete dì, attività chì ponu aiutà in quellu mumentu, è cumu stà à sicuru.
 
-## Why does someone with dementia keep asking to go home?
+## Perchè una persona chì campa cù a dimenza chjere sempre di vultà in casa?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Di solitu, « casa » hè più un sintimu cà un locu. L'Alzheimer's Society a descrive cum'è un sintimu di cunfortu è di sicurità, o una casa di u passatu, piuttostu cà u bastimentu stessu. A dimenza pò fà chì e stanze cunnisciute parinu strane, è a persona pò avè l'impressione di campà in un mumentu più anticu di a so vita, quandu a casa era quella di a zitellina o u locu induve hà crisciutu i so figlioli.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+E parolle ponu ancu mustrà chì qualcosa d'altru ùn va micca bè in quellu mumentu: a persona hà fame, sete, bisognu d'andà à i servizii, hà dulore, hà troppu caldu o troppu fretu, hè stanca, sola, spaventata, o sopraccaricata da u rumore. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) cita u dulore, u rumore, a sulitudine, i cambiamenti di rutina è e medicine trà e cause di l'agitazione.
 
-## What should I say when they ask to go home?
+## Chì devu dì quandu chjere di vultà in casa?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Rispondite à ciò chì a persona sente, micca à e parolle. A [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) cunsiglia di ùn circà micca di cunvince a persona ch'ella hà tortu: ciò ch'ella sente hè reale, allora rispondite prima cù cunfortu è rassicurazione, poi redirigite pianu pianu.
 
-Phrases that often help:
+Frasi chì ponu aiutà:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Date un nome à ciò ch'ella sente.** « Mi pare chì a casa vi manca. »
+- **Rassicurate.** « Site à sicuru quì, è eiu restu cun voi. » L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) prupone e parolle simplice « Site à sicuru quì. »
+- **Invitate i ricordi.** « Parlàtemi di a vostra casa. Com'era a vostra cucina? » Dumandà di u passatu luntanu hè di solitu più faciule cà dumandà di oghje.
+- **Pruprite qualcosa da fà inseme.** « Pigliemu prima una tazza di tè », o « Mi puderiate aiutà cù sti asciugamani? »
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Un tonu caldu è una manu nantu à u bracciu, s'ella li piace u cuntattu, ponu dì più chè e parolle.
 
-## What should I avoid?
+## Chì devu evità?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Discutà o spiegà.** « Avà campate quì » o « Hè a vostra casa dapoi 40 anni » dumanda à a persona d'accettà qualcosa chì a dimenza rende difficiule da accettà, è pò fà la sente cum'è s'ella avessi tortu.
+- **Fà dumande cum'è un esame.** « Ùn vi arricurdate micca? » o « Chì hè l'indirizzu? » aghjunghje pressione.
+- **Bluccà a porta cù rabbia.** S'ella vole sorte, restate calmu è spassighjate cun ella. Una corta spassighjata inseme calma spessu l'envia.
+- **Andà troppu in furia.** Lasciateli u tempu di parlà di a casa nanzu di cambià sughjettu.
 
-## Activities that can help in the moment
+## Attività chì ponu aiutà in quellu mumentu
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Dopu avè ricunnisciutu ciò chì a persona sente, una attività calma è cunnisciuta pò aiutà à cambià l'attenzione senza ignuralla.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Fighjà ritratti di a casa è di a famiglia.** Girasciate e pagine è fate cummenti (« Fighjate stu giardinu ») invece di fà dumande. Nant'à un telefuninu o una tavuletta, [Photo pairs](/games/photo-pairs/) trasforma i vostri ritratti di famiglia in un ghjocu dolce d'abbinamentu, è i ritratti restanu nant'à u vostru apparechju.
+2. **Parlà di a casa.** [Conversation cards](/games/conversation-cards/) prupone idee aperte nantu à e case, e cucine, i vicini è e feste, senza risposte ghjuste o sbagliate.
+3. **Mette a musica ch'ella ama.** U National Institute on Aging cita a musica dolce trà i modi per calmà l'agitazione. Fighjate e nostre [attività cù a musica](/activities/music/).
+4. **Prupone un spuntinu o qualcosa da beie.** A fame è a sete ponu pare inquietudine. Una tazza di tè o un spuntinu chì li piace hè ancu un picculu rituale chì face sente in casa.
+5. **Andà à spassighjà o pusà fora.** U muvimentu è a luce di u ghjornu aiutanu, soprattuttu à l'iniziu di a ghjurnata.
+6. **Dà un compitu cunnisciutu.** Piegà a biancheria, mette in ordine e pusate o innaffià e piante pò fà vultà u sintimu di occupassi di a casa.
+7. **Rallentà tuttu.** Spenghje a televisione, calà u rumore è a luce troppu forte, è pruvate una pausa di [respirazione calma](/games/calm-breathing/) inseme.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+S'è una idea ùn funziona micca, pruvatene un'altra più tardi. Stà tranquilli inseme hè ancu un bellu risultatu.
 
-## Check for a cause you can fix
+## Verificate s'ellu ci hè una causa chì pudete risolve
 
-| Check | What to try |
+| Da verificà | Ciò chì pudete pruvà |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Fame o sete | Prupone qualcosa da beie è un picculu spuntinu |
+| Bisognu d'andà à i servizii | Pruprite d'andà à u bagnu, cun calma è senza imbarazzu |
+| Dulore o fastidiu | Fighjate i segni cum'è una smorfia, u fattu di tene una parte di u corpu o a stiticità, è dite lu à u so duttore |
+| Troppu caldu o troppu fretu | Aghjustate un vestitu o a temperatura di a stanza |
+| Rumore o troppa ghjente | Andate in una stanza più tranquilla, spenghje a televisione |
+| Stanchezza o troppu stimulazione | Riposu, luce più dolce, musica tranquilla |
+| Fine di dopu meziornu | Fighjate a sezzione quì sottu nantu à l'inquietudine di fine di ghjurnata |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+L'Alzheimer's Society cunsiglia di tene un picculu registru di quandu accadenu ste dumande, per esempiu nanzu à i pasti, dopu à e visite o à u calà di u sole. I mudelli aiutanu à preparassi megliu.
 
-## Is it okay to tell a white lie?
+## Hè bè di dì una piccula bugia dolce?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Hè un dibattitu reale, è e famiglie attente ponu fà scelte diverse. L'Alzheimer's Society dice chì ùn ci hè micca una sola risposta ghjusta: e cose micca vere ponu rende certe persone più suspettose, allora decidite ciò chì hè megliu per a persona è siate custanti. À u Penn Memory Center, u parè di u co-direttore hè chì a verità hè a scelta di basa è chì una piccula bugia dolce hè accettevule solu quandu a persona ùn pò micca capisce una certa verità, è chì ùn si deve mai fà beffe di a so realità.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Parechje persone chì accudiscenu trovanu una via di mezu: prima un cunfortu onestu è una redirezzione dolce (« Staremu quì sta sera, è eiu sò quì cun voi »), senza discute nantu à induve hè a casa.
 
-## What if it happens every afternoon or evening?
+## È s'ellu accade ogni dopu meziornu o ogni sera?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+L'inquietudine chì principia o peggiora à a fine di u dopu meziornu hè spessu chjamata « sundowning », o inquietudine di fine di ghjurnata. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) cunsiglia un orariu regulare, luce di u sole è attività ogni ghjornu, menu sonnellini tardi, è nunda caffeina o alcolu à a fine di a ghjurnata. Accende e luci nanzu à u calà di u sole pò ancu aiutà. A nostra guida nantu à [attività calme à a fine di u dopu meziornu](/caregiving/late-day-restlessness/) hà più idee.
 
-## Keeping them safe if they try to leave
+## Mantene a persona à sicuru s'ella prova à partesi
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Chjere di vultà in casa pò purtà à alluntanassi. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) stima chì sei persone nantu à dece chì campanu cù a dimenza si alluntaneranu almenu una volta.
 
-**Prepare ahead:**
+**Preparatevi in anticipu:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Un braccialettu d'identità o medicale cù u so nome è u vostru numeru di telefunu, è etichette in i so vestiti. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) cita u prugramma MedicAlert and Alzheimer's Association Safe and Found, chì pò avè un costu.
+- Una campanella o un alarme à a porta, è serrature messe in altu o in bassu. Ùn chjude mai a persona sola dentru.
+- Una foto recente, di primu pianu, è una lista di i lochi induve puderebbe andà, cum'è una casa o un locu di travagliu d'una volta.
+- Dite lu à i vicini di fiducia, è dateli u vostru numeru.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**S'ella sparisce:** principiate à circalla subitu; l'Alzheimer's Association nota chì parechje persone sò truvate in menu di 1,5 miglia (circa 2,4 chilometri). S'ella ùn hè micca stata truvata dopu à 15 minuti, chjamate u 112 è spiegate chì a persona campa cù a dimenza. Chjamate u 112 subitu s'ellu ci hè un periculu per qualchissia.
 
-## When should I call a doctor?
+## Quandu devu chjamà un duttore?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Chjamate prestu u so duttore se e dumande o a cunfusione principianu di colpu, o peggioranu assai in poche ore o ghjorni. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dice chì un cumpurtamentu chì cambia di colpu o in furia, soprattuttu dopu à una infezzione o un cambiamentu di medicina, deve esse verificatu subitu. A cunfusione subita pò esse un deliriu, chì u [NHS](https://www.nhs.uk/symptoms/confusion/) dice chì hà bisognu d'aiutu rapidu; l'infezzioni urinarie sò una causa cumuna in e persone più anziane.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Hè ancu utile parlà di un mudellu regulare à u prossimu appuntamentu, perchè u dulore, a tristezza, i prublemi di sonnu o l'effetti di e medicine ponu tutti avè un rolu.

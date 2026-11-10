@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Деменция хәүеф факторҙары: Лансет комиссияһының 14 факторы"
+seoTitle: "Деменция хәүеф факторҙары: Лансет 14 факторы"
+description: "2024 йылғы Лансет комиссияһы билдәләгән, үҙгәртергә мөмкин булған 14 деменция хәүеф факторы: йәшәү осоро буйынса, фәндә нимә күрһәтелгән һәм табиб менән нимә хаҡында һөйләшергә."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 йылғы Лансет комиссияһы үҙгәртергә мөмкин булған 14 деменция хәүеф
+  факторын атаны: әҙерәк белем, ишетеү кәмлеге, юғары LDL холестерин,
+  депрессия, баш миенә йәрәхәт, хәрәкәтһеҙлек, сикәр диабеты, тәмәке тартыу,
+  юғары ҡан баҫымы, семеҙлек, артыҡ алкоголь, социаль изоляция, һауа
+  пычрануы һәм дауаланмаған күреү кәмлеге. Бергә алғанда улар донъяла
+  осраған осраҡтарҙың яҡынса 45%-ы менән бәйләнгән, әммә береһе өсөн дә
+  гарантия бирмәй.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "14 фактор тормоштоң бөтә осорон ҡаплай: береһе балалыҡта, ун һаны урта йәштә һәм өсөһө өлкән йәштә."
+  - "Урта йәштә ишетеү кәмлеге һәм юғары LDL холестерин һәр береһе донъяла осраған осраҡтарҙың яҡынса 7%-ы менән бәйләнгән; был иң юғары өлөш ул ғына бер факторҙан."
+  - "Был проценттар халыҡ буйынса баһалау булып тора һәм сәбәп-эҙмә-эҙлекле бәйләнеш фаразлай. Ҡайһы бер бәйләнештәр бер өлөшөнә генә сәбәпле булыуы мөмкин."
+  - "Йәш һәм генетика, уларҙы беркем дә үҙгәртә алмай, шулай уҡ мөһим хәүеф факторҙары. 14 хәүефте кәметеү беркемгә деменцияны гарантия менән кисермәйәсәк."
+  - "Күп кенә ағымдар, мәҫәлән ҡан баҫымын, ишетеүҙе һәм күреүҙе тикшереү, башҡа яҡтан да сәләмәтлеккә файҙалы һәм табиб менән һөйләшергә лайыҡ."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Деменцияның 14 үҙгәртергә мөмкин булған хәүеф факторы нимәләр?"
+    a: "2024 йылғы Лансет комиссияһы ошоларҙы атаны: әҙерәк белем, ишетеү кәмлеге, юғары LDL холестерин, депрессия, баш миенә йәрәхәт, хәрәкәтһеҙлек, сикәр диабеты, тәмәке тартыу, юғары ҡан баҫымы, семеҙлек, артыҡ алкоголь, социаль изоляция, һауа пычрануы һәм дауаланмаған күреү кәмлеге. Бергә алғанда улар донъяла деменция осраҡтарының яҡынса яртыһы менән бәйләнгән."
+  - q: "Деменцияға ҡайһы хәүеф факторы иң мөһим?"
+    a: "Донъя халҡы буйынса комиссия урта йәштә ишетеү кәмлеге һәм юғары LDL холестерин һәр береһе яҡынса 7% осраҡ менән бәйләнгән тип баһаланы, аҙаҡ әҙерәк белем һәм социаль изоляция һәр береһе яҡынса 5% менән. Бер кеше өсөн ҡайһы факторҙар мөһим булыуы уның үҙ сәләмәтлегенә бәйле, шуға күрә иң яҡшы кәңәшсе — табип."
+  - q: "2024 йылда өҫтәлгән ике яңы хәүеф факторы бармы?"
+    a: "Эйе. 2024 йыл докладына урта йәштә юғары LDL («яман») холестерин һәм өлкән йәштә дауаланмаған күреү кәмлеге 2020 йылда атаған 12 факторҙан тыш өҫтәлде. Комиссия уларҙы тейешенсә яҡынса 7% һәм 2% осраҡ менән бәйләне."
+  - q: "Йәш үҙгәртергә мөмкин булған хәүеф факторымы?"
+    a: "Юҡ. Йәш — Альцгеймер сиренең иң ҙур билдәле хәүеф факторы, уны үҙгәртеп булмай. Генетика ла роль уйнай. Был биттәге 14 фактор — тикшеренеүҙәр буйынса үҙгәртергә мөмкин булғандары."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Хәүеф факторы — ниндәйҙер сирҙең булыу ихтималлығын арттырған нәмәрсә. Ул һәр осраҡта сәбәп түгел, һәм уның булыуы деменция алырһың тигәнде аңлатмай. Был бит 2024 йылғы Лансет комиссияһы үҙгәртергә мөмкин тип атаған 14 деменция хәүеф факторын, уларҙы фән нимә менән бәйләгәнен һәм табиб менән нимә хаҡында һөйләшергә мөмкинлеген күрһәтә.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Киңерәк күренеш өсөн, шул исәптән ҙур сынауҙар нимә тапҡанын белеү өсөн, [Деменцияны профилактикалап булырмы? Фән нимә әйтә](/brain-health/can-dementia-be-prevented/) биттән башлағыҙ. Был — дөйөм мәғлүмәт, медицина кәңәше түгел; ҡарағыҙ: [медицина иҫкәртеүе](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Деменцияның 14 хәүеф факторы нимәләр?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 йылғы Лансет комиссияһы](https://doi.org/10.1016/S0140-6736(24)01296-0), 27 деменция буйынса белгес яҙҙы, һәм 14 үҙгәртергә мөмкин булған хәүеф факторы бергә донъяла деменция осраҡтарының яҡынса 45%-ын тәшкил итә тип баһаланы. Түбәндә һәр фактор өсөн процент — комиссиянаң донъяла шул фактор менән бәйләнгән осраҡтар өлөшөнең баһаһы, бөтөн һандарға түңәрәкләнгән. Был күрһәткестәр бер-береһе менән өҫтәлә, сөнки күп кешенең бер үк ваҡытта берничә хәүефе бар, шуға күрә улар 45%-тан артыҡ түгел, 45%-ҡа тигеҙ сығалар.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Хәүеф факторы | Йәшәү осоро | Осраҡтар өлөшө | Фән нимә менән бәйли | Нимә эшләргә мөмкин |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Әҙерәк белем | Балалыҡ | 5% | Мәктәптә аҙыраҡ йыл уҡыу юғары хәүеф менән бәйләнгән. Урта йәштә аҡыл эшмәкәрлеге лә һаҡлай, хатта мәктәпкә аҙ йөргән кешеләрҙә лә. | Теләһә ни йәштә өйрәнеүҙе дауам итегеҙ: уҡыу, хоббиҙар, курстар, башҡалар менән уйындар. |
+| Ишетеү кәмлеге | Урта йәш | 7% | Дауаланмаған ишетеү кәмлеге юғары хәүеф менән бәйләнгән. Вакыт буйынса кешеләрҙе күҙәткән тикшеренеүҙәр ишетеү аппараты ҡулланыуҙы түбән хәүеф менән бәйләй. | Ишетеүегеҙҙе тикшерттерегеҙ. Ишетеү аппараты кәрәкмәҫме тип һорағыҙ, ҡушылһа — кейегеҙ. Ҡолаҡтарҙы ҡаты тауыштан һаҡлағыҙ. |
+| Юғары LDL холестерин | Урта йәш (яҡынса 40-тан) | 7% | Урта йәштә юғары LDL («яман») холестерин юғары хәүеф менән бәйләнгән. Күҙәтеү тикшеренеүҙәре статин ҡулланыуҙы түбән хәүеф менән бәйли, әммә өлкән йәштә үткәрелгән сынауҙар был нәтиҗәне раҫламаған. | Табибтан һорағыҙ: холестерин тикшерелергә тейешме, һәм уға ниндәй эш кәрәк, әгәр кәрәк булһа. |
+| Депрессия | Урта йәш | 3% | Депрессия юғары хәүеф менән бәйләнгән. Өлкән йәштә депрессия деменцияның алғы билдәһе лә булырға мөмкин. | Ике аҙнанан ашыу түбән кәйефте йәки ҡыҙыҡһыныу юғалыуын табибҡа һөйләгеҙ. Депрессия дауалана. |
+| Баш миенә йәрәхәт | Урта йәш | 3% | Теләһә ни йәштә һәм теләһә ни сәбәптән баш йәрәхәте, шул исәптән контакт спорты, юғары хәүеф менән бәйләнгән. | Велосипедта һәм контакт спортта шлем кейегеҙ. Ҡолауҙан һаҡланыу тураһында һорағыҙ. Баш йәрәхәтенән һуң ял итегеҙ һәм тикшерелегеҙ. |
+| Хәрәкәтһеҙлек | Урта йәш | 2% | Физик шөғөлләнгән һәм спорт менән шөғөлләнгән кешеләр деменцияға бирелергә ҡыйыныраҡ. Сынау дәлилдәре әлегә сикләнгән. | Һеҙгә ниндәй хәрәкәт хәүефһеҙ булыуын һорағыҙ һәм ошо яраҡлы нәмәне табығыҙ. Беҙҙең [физкультура буйынса ҡулланма](/brain-health/exercise/) ҡарағыҙ. |
+| Сикәр диабеты | Урта йәш | 2% | Сикәр диабеты, айырыуса урта йәштә башланһа йә оҙаҡ барһа, юғары хәүеф менән бәйләнгән. | Ҡан шикәрен тикшерегеҙ. Диабет булһа, уны хәүефһеҙ контролдә тотоу өсөн дауалау командаһы менән эшләгеҙ. |
+| Тәмәке тартыу | Урта йәш | 2% | Тәмәке тартыу юғары хәүеф менән бәйләнгән. Тәмәке тартыуҙы ташлаған кешеләрҙә тәмәке тартыусылар кеүек юғары хәүеф юҡ икәне табылған. | Туҡтатырға ярҙам тураһында һорағыҙ. Теләһә ни йәштә лә тәмәкеҙҙе ташлау файҙалы. |
+| Юғары ҡан баҫымы | Урта йәш | 2% | Урта йәштә юғары ҡан баҫымы юғары хәүеф менән бәйләнгән. Ҡан баҫымы дарыуҙары менән үткәрелгән сынауҙар деменцияның йәки танып-белеү боҙолоуының бер аҙ түбәнерәк хәүефе тураһында фараз яһай. | Һандарығыҙҙы белегеҙ. Комиссия 40 йәштән башлап өҫкө һанды 130 йәки аҙыраҡ тип тәҡдим итә; һеҙгә ниндәй маҡсат тура килгәнен һорағыҙ. |
+| Семеҙлек | Урта йәш | 1% | Урта йәштә семеҙлек юғары хәүеф менән бәйләнгән, ул диабет хәүефен дә арттыра. | Табибтан һеҙгә ҡулай булған сәләмәт ауырлыҡты һорағыҙ. Өлкән кешеләр табип кәңәшенән башҡа ауырлыҡ төшөрөр өсөн иҫерекмәһен. |
+| Артыҡ алкоголь | Урта йәш | 1% | Ауыр эсеү юғары хәүеф менән бәйләнгән. Ауыр эсеүҙе кәметеү түбән хәүеф менән бәйләнгән. | Һеҙгә иң хәүефһеҙ сиктең ниндәй булыуын һорағыҙ, айырыуса дарыуҙар менән. |
+| Социаль изоляция | Өлкән йәш | 5% | Аҙ аралашыу юғары хәүеф менән бәйләнгән. | Һеҙгә ояҡлы булған рәүештә кешеләр менән аралашып торорға. Беҙҙең [социаль бәйләнеш буйынса ҡулланма](/brain-health/social-connection/) ҡарағыҙ. |
+| Һауа пычрануы | Өлкән йәш | 3% | Күп һауа пычрануы менән йәшәү юғары хәүеф менән бәйләнгән. Таҙараҡ һауа түбән хәүеф менән бәйләнгән тип тикшеренеүҙәр күрһәтә. | Нигеҙҙә иғтибар йәмәғәт сәйәсәтенә бәрелә. Урындағы һауа сифаты иҫкәртмәләрен тикшерегеҙ һәм бик пычраҡ көндәрҙә тышта булыуҙы сикләгеҙ. |
+| Дауаланмаған күреү кәмлеге | Өлкән йәш | 2% | Төҙәтелмәгән күреү проблемалары юғары хәүеф менән бәйләнгән. Бер ҙур АҠШ тикшеренеүе катаракта операцияһын түбән хәүеф менән бәйләй. | Даими күҙ тикшерелеүе үткәрегеҙ. Катаракта кеүек проблемаларҙы дауалап булмайыноғонон һорағыҙ. |
 
-## How should I read these percentages?
+## Был проценттарҙы нисек аңларға?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Иғтибарлы. Комиссияның үҙ доклады иҫтә тотарлыҡ берничә фекер әйтә:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Улар халыҡты һүрәтләй, кешеләрҙе түгел.** Университет колледжы Лондон (University College London) [доклад тураһында ҡыҫҡа мәғлүмәте](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) хәүефте кәметеү халыҡ күләмендә эшләүен, әммә беренең дә деменцияға ҡалмауын гарантия итмәүен билдәләй.
+- **Улар сәбәп-эҙмә-эҙлекле бәйләнеш фаразлай.** Авторҙар бары ышаныслы дәлилдәре булған факторҙарҙы ғына индерҙе, әммә ҡайһы бер бәйләнештәр бер өлөшөнә генә сәбәпле булыуы мөмкин, тип яҙа.
+- **Улар донъя күләмендәге һандар.** Күп мәғлүмәт юғары килемле илдәрҙән килә, һәм һәр ил йәки осро өсөн асыл өлөш айырыла ала.
+- **Бәләкәй процент та мөһим булырға мөмкин.** Донъяла 2% осраҡ менән бәйләнгән фактор әле бик ҙур һандағы кешеләргә тәьҫир итә.
 
-## Which risk factors were added in 2024?
+## 2024 йылда ниндәй хәүеф факторҙары өҫтәлде?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 йыл доклады 2020 йылда атаған 12 факторға ике фактор өҫтәне:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Урта йәштә юғары LDL холестерин**, яҡынса 7% осраҡ менән бәйләнгән.
+- **Өлкән йәштә дауаланмаған күреү кәмлеге**, яҡынса 2% осраҡ менән бәйләнгән.
 
-## What risk factors cannot be changed?
+## Ниндәй хәүеф факторҙарын үҙгәртеп булмай?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Милли гериатрия институты (National Institute on Aging) [йәштең Альцгеймер өсөн иң ҙур билдәле хәүеф факторы булыуын](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) әйтә, һәм уны беркем дә үҙгәртә алмай. Генетика ла роль уйнай; Альцгеймер хәүефенә йоғонто яһаған билдәле генетик ген APOE тип атала. Институт шулай уҡ күп кешелә Альцгеймерҙың сәбәбен ғалимдар әлегә тулыһынса аңламауын өҫтәй. Лансет комиссияһы үҙгәртергә мөмкин булған хәүефтәрҙе кешенең генетик хәүефенән ҡәтғи нәҙәр, кәметергә мөмкин тип билдәләй.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Йәш һәм генетика ҙур роль уйнағанға, 14 хәүеф факторының береһе лә булмаған күп кеше бәхәсһеҙ деменция ала. Был беребеҙҙең ғәйебе түгел.
 
-## What does the trial evidence say about changing these risks?
+## Был хәүефтәрҙе үҙгәртеү тураһында сынау дәлилдәре нимә әйтә?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Хәүеф факторын деменция менән бәйләү уны үҙгәртеү деменция хәүефен кәметеүен раҫлау менән бер түгел. Сынау дәлилдәренең торошона ҡарата берничә миҫал:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Ҡан баҫымы.** SPRINT MIND сынауында түбәнерәк ҡан баҫымы маҡсаты еңелсә танып-белеү боҙолоуын әһәмиәтле кәметте. Ул ихтимал деменцияны әһәмиәтле кәметмәне, әммә сынау был күрһәтеү өсөн бик бәләкәй булырға мөмкин ([SPRINT MIND, JAMA-ла](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Ишетеү аппараттары.** Лансет комиссияһы өс йыллыҡ ишетеү аппараты сынауын тасуирлай: уның барлыҡ фекерләүгә йоғонтоһо табылмаған, әммә юғары хәүефтәге төркөмдә файҙа булған. Вакыт буйынса кешеләрҙе күҙәткән тикшеренеүҙәр ишетеү аппараты ҡулланыуҙы түбән хәүеф менән бәйләй. Беҙҙең [ишетеү буйынса ҡулланма](/brain-health/hearing/) күберәк мәғлүмәт бирә.
+- **Физик хәрәкәт.** Милли гериатрия институты әйтеүенсә, йөрөү-хәрәкәт менән шөғөлләнеү еңелсә танып-белеү боҙолоуын йәки Альцгеймерҙы профилактикалай йә һуҙҙыра алыуын раҫлаған клиник сынау дәлилдәре етерлек түгел, әммә ҡайһы бер тикшеренеүҙәр ул йәш менән бәйле кәмеүгә ярҙам итергә мөмкин тип күрһәтә ([NIA: Альцгеймерҙы профилактикалау тураһында](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Деменция барлыҡҡа килгәнен көтөп торған оҙон сынаулар әкрен һәм ҡиммәт, шуға күп факторҙар өсөн иң яҡшы дәлил йылдар буйына кешеләрҙе күҙәткән тикшеренеүҙәрҙән килер. Ул дәлил файҙалы, әммә сынаунан һуҙылған.
 
-## What about sleep and diet?
+## Йоҡо һәм ашамлыҡ тураһында нимә?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Комиссия йоҡоно һәм ашамлыҡты тикшерҙе, әммә уларҙы исемлеккә өҫтәмәне, сөнки дәлилдәр етерлек ныҡ йәки тотошло түгел ине. Беҙҙең [йоҡо](/brain-health/sleep/) һәм [ашамлыҡ](/brain-health/diet/) буйынса ҡулланмалар нимә билдәле икәнен аңлата.
 
-## Talk with a doctor
+## Табиб менән һөйләшегеҙ
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Йыллыҡ тикшереү был темаларҙы күтәрергә яҡшы ваҡыт. Был исемлекте алып барырға һәм ошоларҙы һорарға мөмкин:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Минең ҡан баҫымым, ҡан шикәрем һәм холестерин күрһәткестәре нисек, һәм берәүһенә иғтибар кәрәкме?
+- Ишетеүемде һәм күҙҙәрemде тикшертергә кәрәкме?
+- Мин эшләгән хәрәкәт миңә хәүефһеҙме һәм етерлекме?
+- Минең дарыуҙарҙың береһе хәтергә йәки фекерләүгә йоғонто яһай аламы?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Дарыуҙарҙы, ашамлыҡты, ас тороуҙы, физик шөғөлдө йәки витаминдарҙы үҙгәртер алдынан, элек табиб менән һөйләшегеҙ. Әгәр һеҙ йәки һеҙ ҡайғыртҡан кеше кинәт аптырағанлыҡ, бер яҡ тәне көсһөҙләнеү йәки һөйләшеүҙә ҡыйынлыҡ кисерә икән, 112 нөмерына шылтыратығыҙ.

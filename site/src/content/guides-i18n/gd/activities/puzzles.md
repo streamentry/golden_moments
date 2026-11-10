@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Tòimhseachain do dhaoine le trom-inntinn: mìrean-measgaichte, faclan is tòimhseachain air loidhne"
+seoTitle: "Tòimhseachain airson trom-inntinn: mìrean is faclan"
+description: "Mar a thaghas tu mìrean-measgaichte, tòimhseachain fhaclan is feadhainn air loidhne do chuideigin le trom-inntinn: meud nam pìosan, dealbhan, clò mòr is dèanamh còmhla."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  ’S e an tòimhseachan as fheàrr do chuideigin le trom-inntinn fear as urrainn
+  dhaibh crìochnachadh le beagan taic agus a mhealtainn air an t-slighe.
+  Taghaibh mìrean-measgaichte le nas lugha de phìosan nas motha agus dealbh
+  soilleir inbheach, cùmaibh dealbh a’ bhogsa ri fhaicinn, agus cuiribh na
+  pìosan-iomall air leth an toiseach. Tha lorg-fhaclan is crois-fhaclan nas
+  fheàrr ann an clò mòr. Tha tòimhseachain furasta air loidhne le ceithir
+  pìosan iomchaidh aig ìre mheadhanach. Sguiribh fhad ’s a tha e spòrsail.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Taghaibh a rèir mar a thèid e, chan ann a rèir bileag ìre: ma tha tòimhseachan a’ faireachdainn mar obair, feuchaibh fear le nas lugha de phìosan."
+  - "Tha pìosan mòra, làidir agus dealbh soilleir le raointean datha sònraichte nas fhasa na pìosan beaga bìodach agus speuran mòra."
+  - "Tha dealbhan inbheach cudromach. Gàrraidhean, cidsinean, càraichean is beathaichean, chan e cartùnaichean."
+  - "’S e dèanamh còmhla a tha cudromach. Thoiribh seachad pìosan, cuiribh na h-iomallan air leth, cùmaibh mullach a’ bhogsa ri fhaicinn."
+  - "Tha lorg-fhaclan ann an clò mòr agus tòimhseachain furasta air loidhne le 4 no 9 pìosan rim faighinn an-asgaidh air an làrach seo."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Cia mheud pìos tòimhseachain as fheàrr do chuideigin le trom-inntinn?"
+    a: "Chan eil aon àireamh cheart ann. Dh’fhaodadh cuideigin a chleachd tòimhseachain le 1,000 pìos a bhith fhathast a’ còrdadh ri beagan cheudan tràth san t-slighe, agus bidh feadhainn eile nas toilichte le dusan no dhà de phìosan mòra. Ma tha tòimhseachan a’ faireachdainn mar obair no a’ togail dragh, gluaisibh gu nas lugha de phìosan. Tha 4 no 9 pìosan anns an tòimhseachan Dealbh air loidhne againn."
+  - q: "A bheil mìrean-measgaichte math do dhaoine le trom-inntinn?"
+    a: "Tha mòran dhaoine a’ còrdadh riutha, gu h-àraidh ma bha iad dèidheil orra roimhe. Bheir tòimhseachan rudeigin don làmhan, amas soilleir agus dealbh airson bruidhinn mu dheidhinn. Cha deach sealltainn gu bheil tòimhseachan sam bith a’ làimhseachadh no a’ slaodadh trom-inntinn, mar sin taghaibh iad airson tlachd is companas."
+  - q: "Dè nì mi nuair nach urrainn do chuideigin mìrean-measgaichte a dhèanamh tuilleadh?"
+    a: "Dèanaibh nas lugha dheth agus dèanaibh barrachd dheth fhèin: thoiribh seachad aon phìos aig an àm, no fàgaibh dìreach na pìosan mu dheireadh dhaibh. Feuchaibh tòimhseachan air loidhne le 4 pìosan, a’ cur phìosan ann an òrdugh a rèir datha, no dìreach a’ coimhead còmhla air an dealbh chrìochnaichte."
+  - q: "A bheil crois-fhaclan is lorg-fhaclan freagarrach airson trom-inntinn?"
+    a: "Faodaidh iad a bhith, aig ìre thràth, ann an clò mòr. Tha lorg-fhaclan le faclan a’ dol dìreach tarsainn is sìos a-mhàin nas fhasa na feadhainn le faclan air an trasn no air ais. Leughaibh na sanasan no liosta nam faclan a-mach agus obraichibh air còmhla."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+’S e tè de na dòighean as fhasa air ùine a chur seachad còmhla a bhith a’ sgaoileadh mìrean-measgaichte air bòrd na bìdh. Faodaidh sibh suidhe còmhla gun fheum air mòran cainnt, bheir an dealbh rudeigin dhuibh airson bruidhinn mu dheidhinn, agus tha e math a bhith a’ cur a’ phìos mu dheireadh na àite. Feumaidh tòimhseachain atharrachadh, ge-tà, mar a bhios trom-inntinn ag atharrachadh. Faodaidh tòimhseachan a tha ro dhoirbh feasgar ciùin a thionndadh gu fear frionasach. Air an duilleag seo tha stiùireadh air mar a thaghas is a shuidhicheas sibh mìrean-measgaichte, tòimhseachain fhaclan agus tòimhseachain furasta air loidhne, agus dè nì sibh nuair a dh’fhàsas iad doirbh.
 
-## Are puzzles good for people with dementia?
+## A bheil tòimhseachain math do dhaoine le trom-inntinn?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Tha mòran dhaoine a’ còrdadh riutha, gu h-àraidh an fheadhainn a rinn tòimhseachain roimhe. Tha [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ag ainmeachadh lorg-fhaclan, geamannan chairtean agus geamannan bùird am measg ghnìomhan airson ìre thràth, agus tha an [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) a’ toirt iomradh air geamannan is tòimhseachain air loidhne air tablaidean mar dhòigh air a bhith an sàs.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Chan e leigheas a th’ ann an tòimhseachain. Cha deach sealltainn gu bheil tòimhseachan sam bith a’ slaodadh no a’ cur stad air trom-inntinn; tha an stiùireadh againn mu [gheamannan eanchainn is trom-inntinn](/brain-health/brain-games/) a’ mìneachadh an rannsachaidh. ’S e an t-adhbhar airson tòimhseachan a dhèanamh gum faod e a bhith na uair a thìde thaitneach, shùbailte còmhla. Tha [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ga chur gu sìmplidh: cuiribh fòcas air tlachd, chan ann air coileanadh.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Ciamar a thaghas mi mìrean-measgaichte do chuideigin le trom-inntinn?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Taghaibh a rèir na tha a’ còrdadh ris an neach agus mar a chaidh an tòimhseachan mu dheireadh, chan ann a rèir bileag ìre.
 
-### Number of pieces
+### Àireamh nam pìosan
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Chan eil àireamh cheart ann. Dh’fhaodadh cuideigin a rinn tòimhseachain fad am beatha a bhith fhathast a’ còrdadh ri beagan cheudan pìos tràth san t-slighe, agus bidh cuideigin eile nas toilichte le dusan no dhà. Riaghailt phractaigeach: ma bha an tòimhseachan mu dheireadh a’ faireachdainn mar obair, taghaibh fear le mu leth nan pìosan. Ma chaidh crìochnachadh gu luath agus bha iad ag iarraidh barrachd, àrdaichibh beagan.
 
-### Piece size and feel
+### Meud is faireachdainn nam pìosan
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Pìosan nas motha** nas fhasa fhaicinn, a thogail agus a thionndadh.
+- **Pìosan tiugh, làidir** a dh’fhanas nan àite agus a mhaireas ma thuiteas iad.
+- **Crìochnachadh neo-dhealrach** a lughdaicheas deàrrsadh fo lampaichean is uinneagan.
+- **Seachnaibh pìosan beaga bìodach** ma dh’fhaodadh an neach rudan a chur nam beul, rud a dh’fhaodas tachairt nas fhaide air adhart le trom-inntinn.
 
-### The picture
+### An dealbh
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Cuspairean inbheach.** Gàrraidhean, cidsinean, seann chàraichean, beathaichean tuathanais, baile-cladaich, no spòrs a tha còrdadh riutha. Chan e cartùnaichean no rud sam bith a tha coltach ri dèideag cloinne.
+- **Rointean datha sònraichte.** Tha sabhal dearg, bàta gorm agus achadh uaine nas fhasa na speur a lìonas leth an tòimhseachain.
+- **Eòlach is pearsanta.** Bheir dealbh de dh’àite far an do dh’fhuirich iad no cur-seachad a bha gaol aca air mòran dhuibh airson bruidhinn mu dheidhinn. Faodaidh cuid de bhùithtean clò-bhualaidh dealbh teaghlaich a thionndadh gu mìrean-measgaichte.
 
-## How do you do a puzzle together?
+## Ciamar a nì mi tòimhseachan còmhla ri cuideigin?
 
-Set it up so the person can get straight to the enjoyable part.
+Suidhichibh e gus an urrainn don neach tòiseachadh dìreach air a’ phàirt thaitneach.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Taghaibh àite math.** Solas math, cathair le gàirdeanan, agus bòrd no treidhe far am faod an tòimhseachan fuireach a-mach.
+2. **Cuiribh mullach a’ bhogsa** an àirde far am faic sibh le chèile e.
+3. **Tionndaibh na pìosan aghaidh suas** mus tòisich sibh.
+4. **Cuiribh na pìosan-iomall air leth** fhèin, no dèanibh an oir an toiseach agus fàgaibh am meadhan dhaibh-san.
+5. **Cuiribh pìosan ann am buidhnean a rèir datha** ann am beagan threidhean no truinnsearan eu-domhainn.
+6. **Thoiribh seachad aon phìos aig an àm** ma tha a’ chruach a’ faireachdainn cus. “Saoilidh mi gu bheil am fear seo mar phàirt den t-sabhal.”
+7. **Bruidhinnibh mun dealbh,** chan ann mun adhartas. “Tha sin coltach ris a’ bhàta a bha aig m’ athair.”
+8. **Fàgaibh a-mach e.** Tillibh thuige thairis air grunn làithean. Chan eil cabhag ann.
+9. **Sguiribh air deagh nòta,** an dèidh do phìos a dhol a-steach, fhad ’s a tha e fhathast taitneach.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+Tha [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a’ moladh taic a thoirt don neach tòiseachadh, sùil a chumail airson frionas, agus leigeil leotha dìreach coimhead ma tha sin nas fheàrr leotha. Tha a bhith a’ coimhead ort a’ cur phìosan a-steach, agus a’ comharrachadh far am faodadh fear a dhol, fhathast a’ gabhail pàirt.
 
-## Easy online puzzles
+## Tòimhseachain furasta air loidhne
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Tha buannachdan practaigeach aig tòimhseachan air tablaid: chan eil pìosan air chall, tha dealbhan mòra a lìonas an sgrion, agus chan fheumar bòrd a ghlanadh.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Bidh an [tòimhseachan Dealbh](/games/picture-puzzle/) an-asgaidh againn a’ gearradh dealbh ann an 4 no 9 pìosan. Thoiribh gnogag air dà phìos gus an iomlaid gus am bi an dealbh slàn. Bidh an dealbh slàn fhathast air an sgrion mar stiùireadh, chan eil timer ann, agus faodaidh sibh stad aig àm sam bith. Tha ceithir pìosan iomchaidh do mhòran dhaoine aig ìre mheadhanach le cuideigin ri an taobh.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Airson cluich dealbh a tha eadhon nas sìmplidh, feuchaibh [Lorg an aon rud](/games/find-the-same/), far an toir sibh gnogag air an dealbh a tha a’ freagairt ris an fhear aig a’ bhàrr, no [Cuiribh ann an òrdugh còmhla](/games/sort-together/), far a thèid dealbhan ann am basgaidean leithid a’ chidsin no a’ ghàrradh.
 
-## Word puzzles: word searches and crosswords
+## Tòimhseachain fhaclan: lorg-fhaclan is crois-fhaclan
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Tha tòimhseachain fhaclan freagarrach do dhaoine a bha an-còmhnaidh dèidheil orra, mar as trice nas tràithe le trom-inntinn.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Lorg-fhaclan ann an clò mòr.** Bidh an [Lorg-fhaclan](/games/word-search/) an-asgaidh againn a’ cleachdadh litrichean mòra agus dìreach beagan fhaclan, a’ dol tarsainn is sìos, gun a bhith air an trasn no air ais idir. Cluichibh air an sgrion e no clò-bhuailibh e.
+- **Leughaibh an liosta a-mach.** Leugh aon neach facal, agus coimhead an neach eile air a shon. Tha e ceart gu leòr dìreach a’ chiad litir a chuairteachadh.
+- **Faodaidh crois-fhaclan ann an clò mòr** à leabhraichean thòimhseachan obrachadh tràth san t-slighe. Leughaibh na sanasan a-mach, roinnibh am peann agus lìonaibh na freagairtean còmhla. Tha crois-fhaclan furasta le cuspair nas fheàrr na feadhainn cruaidh-dhìomhair.
+- **Bruidhinnibh mu na faclan.** Faodaidh “gàrradh” leantainn gu deich mionaidean mu thomàtothan.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Airson barrachd ghnìomhan pàipeir agus mar a chlo-bhuailicheas sibh iad gus am bi iad furasta am faicinn is an cumail, faicibh [gnìomhan trom-inntinn an-asgaidh airson clò-bhualadh](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Dè na tòimhseachain a tha freagarrach do gach ìre?
 
-Stages overlap, and good and hard days are normal.
+Bidh ìrean a’ dol thairis air a chèile, agus tha làithean matha is làithean duilghe àbhaisteach.
 
-| Stage | Puzzles that often fit | Your role |
+| Ìre | Tòimhseachain a bhios gu tric freagarrach | Do dhleastanas |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Tràth | Mìrean-measgaichte eòlach le nas lugha de phìosan na b’ àbhaist, crois-fhaclan is lorg-fhaclan ann an clò mòr, tòimhseachain air loidhne le 9 pìosan | Com-pàirtiche: leig leotha taghadh, cuidich nuair a dh’iarras iad |
+| Meadhanach | Mìrean-measgaichte le dusan no dhà de phìosan mòra, tòimhseachain air loidhne le 4 pìosan, lorg-fhaclan air an leughadh a-mach còmhla | Suidhichibh e, cuiribh pìosan air leth, thoiribh seachad aon phìos aig an àm |
+| Anmoch | Coimhead còmhla air dealbh crìochnaichte, Lorg an aon rud le dà dhealbh, làimhseachadh beagan phìosan mòra | Thoiribh thugad e; is e ur companas an gnìomh |
 
-## When should you make a puzzle easier, or stop?
+## Cuin a bu chòir dhomh tòimhseachan a dhèanamh nas fhasa, no stad?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Thoiribh an aire do osnaidhean, do phìosan gan putadh air falbh, do “chan urrainn dhomh” a-rithist is a-rithist, no do sheallaidhean iomagaineach. Tha iad sin nan comharran airson rudeigin atharrachadh, chan ann airson leantainn air adhart.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Dèanaibh nas lugha dheth.** Nas lugha de phìosan, no fàgaibh dìreach na pìosan mu dheireadh dhaibh.
+- **Dèanaibh barrachd dheth fhèin** agus thoiribh cuireadh dhaibh cuideachadh leis na pàirtean furasta.
+- **Atharraichibh gu rudeigin faisg air làimh:** a’ cur phìosan ann an òrdugh a rèir datha, tòimhseachan air loidhne le 4 pìosan, no [dathadh](/games/coloring/).
+- **Sguiribh.** Cuiribh air taobh e agus gabhaibh cupa tì. Faodaidh sibh tilleadh thuige latha eile, no gun tilleadh idir.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ma thòisicheas tòimhseachain a’ faireachdainn mar chuimhneachan air na tha doirbh, tha e ceart gu leòr leigeil leotha falbh. Tha iomadh dòigh eile ann air deagh àm a chur seachad còmhla; tha ar [101 beachd gnìomh](/activities/ideas/) na dheagh àite airson tòiseachadh.

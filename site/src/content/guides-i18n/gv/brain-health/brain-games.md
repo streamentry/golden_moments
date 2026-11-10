@@ -1,33 +1,32 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Vel cloie yn aigney scughey ny erree ny ymmoodee?"
+seoTitle: "Vel cloie yn aigney scughey ny erree?"
+description: "Cre t'eh gynsaghey as cloie yn aigney as erree ny ymmoodee: stiurey yn aigney, traeney co-earrooagh, trial ACTIVE as case FTC Lumosity, er nyn insh dy meeley."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Cha nel erbee dy chloieyn aigney er ve er ny hoilshaghey dy vel ad scughey ny erree ny ymmoodee.
+  Ta traeney co-earrooagh son yn chooid smoo jannoo sleih ny s'shares ec ny cur-valjyn t'ad er n'ymmyd.
+  Liorish yn studeyr veih trial ACTIVE, va kiangley eddyr traeney er lheeah-yindyssagh as sessiooneyn verchaghey as n'y ghraih erbee dy erree ny ymmoodee er nyn screeu sheese rish 20 blein, agh shen kiangley caaghit.
+  Son sleih ta cummal lesh erree ny ymmoodee hannah, ta possanyn stiurey aigney er hoilshaghey vondeishyn beggan, giare-traaagh.
+  She son taitnys as co-chummal t'er nyn jannoo ny cloieyn, cha nel ad dy ve ny lhiasaghey ny dy scughey ny erree ny ymmoodee.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Ta studeyryn traeney aigney soilshaghey dy vel sleih geddyn ny s'shares ec ny cur-valjyn t'ad er n'ymmyd, agh cha nel ymmyd dy liooar dy hoilshaghey dy vel shen goll erash gys bea laa-ry-laa."
+  - "Ayms trial ACTIVE, ny sleih nagh ren agh traeney er lheeah-yindyssagh as red beg dy sessiooneyn verchaghey ren gheddyn n'y ghraih erbee dy erree ny ymmoodee er nyn screeu sheese rish 20 blein. Cha ren traeney er lheeah-yindyssagh gyn sessiooneyn verchaghey, ny traeney cooishyn-cooinaghtyn ny resoonaght, shoh y cheddin."
+  - "Sy vlein 2016, hooar jannoo Lumosity $2 milleon dy gheddyn seose cooilleeney voish yn FTC er son coyrt greinnaghey gyn yn eiyrtys asseeagh va feme er."
+  - "Son sleih lesh erree ny ymmoodee mee-chramp ny vean-chramp, ta possanyn stiurey aigney soilshaghey vondeishyn beggan, giare-traaagh er son smooinaghtyn as vondeishyn sodjey soilshagh er son loayrt as co-chummal."
+  - "Ta cloieyn Golden Moments son taitnys as traa ry-cheilley. Cha nel ad ny lhiasaghey as cha nel ad scughey ny slowaghey erree ny ymmoodee."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Vel cloieyn aigney scughey Alzheimer's?"
+    a: "Cha nel erbee dy chloieyn aigney er ve er ny hoilshaghey dy vel ad scughey Alzheimer's ny erree ny ymmoodee elley. Ta yn Oik Coonseil Ersmooinaghtyn yn Steat gra nagh vel yn eiyrtys dy liooar ayn dy vel appyn traeney co-earrooagh dy chooid-vayrn ayns shoh ny cheddin rish ny va er ny phrowal ayns trialyn clinicky. Foddee cloieyn foast ve ny raad taitnysagh dy chummal traa."
+  - q: "Cre ren trial ACTIVE feddyn magh mychione traeney er lheeah-yindyssagh as erree ny ymmoodee?"
+    a: "Liorish scaaney yn vlein 2026 va possaneyn ACTIVE er nyn kiangley rish cooishyn Medicare rish 20 blein. Va n'y ghraih erbee dy erree ny ymmoodee er ny screeu sheese ayns caa ny sloo ec ny sleih ren traeney er lheeah-yindyssagh as jeat sessioon verchaghey ny sodjey na un cheayrt na reddyn elley jeh'n phossan nagh ren traeney erbee. Cha ren traeney er lheeah-yindyssagh gyn sessiooneyn verchaghey, as cha ren traeney cooishyn-cooinaghtyn ny resoonaght, soilshaghey drogh-yannoo mooar."
+  - q: "Vel fuillagyn as cloieyn mie da peiagh ta erree ny ymmoodee echey hannah?"
+    a: "Foddee ad ve, my s'taitnys da'n dooinney ad. Ta stiurey aigney yn phossan, as ta fuillagyn-fockle, puzzles, kiaull as loayrt stiurit stiagh ayn, er hoilshaghey vondeishyn beggan giare-traaagh er son smooinaghtyn as vondeishyn sodjey soilshagh er son loayrt as co-chummal. She taitnys, cha nee cooishyn prowree, y caa cair."
+  - q: "Cre'n fa va Lumosity er ny cherraghey liorish yn FTC?"
+    a: "Myn Jerrey Geuree 2016, ren Lumos Labs, jannoo Lumosity, cordail dy eeck $2 milleon dy gheddyn seose cooilleeney voish yn Federal Trade Commission er son coyrt magh greinnaghey sollagh. Dooyrt yn FTC dy ren yn sheshaght gra, gyn eiyrtys feer vie, dy voddagh ny cloieyn oc jannoo sleih ny s'shares ec obbyr as scoill as dy voddagh ad cur lhiettal da caghlaa eashagh, mee-chramp cooishyn aigney, erree ny ymmoodee as Alzheimer's. Ta'n sarey gerjagh yn sheshaght dy ve ec eiyrtys firrinagh as ynricagh gyn loght roish coyrt greinnaghey lheid shoh yn traa ry-heet."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +57,89 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Ta cloieyn er yn aigney dy bollagh mygeayrt, as ta ymmodee dy gheddyn greinnaghey dy vod ad jannoo yn aigney ny s'aeg. My t'ou cur cree da dooinney ta cummal lesh erree ny ymmoodee hannah, ny my t'ou imneagh mychione dty chooish hene, t'eh dooghyssagh briaght vel cloie ad shin dy lhiassaghey. Shoh cre t'eh gynsaghey er ny hoilshaghey dy firrinagh, goaill stiagh ny ayrnyn ta gerjagh as ny nagh vel.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Shoh fys cadjin, cha nee coyrle slaynt. Jeeagh er nyn [gobbraghey leighagh](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Vel cloieyn aigney scughey ny erree ny ymmoodee?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Cha nel erbee dy chloieyn aigney er ve er ny hoilshaghey dy vel ad scughey ny erree ny ymmoodee. Ta yn Oik Coonseil Ersmooinaghtyn yn Steat (NIA) coyrt coyrle da sleih ve kiarailagh jeh greinnagheyn dy vod cloieyn co-earrooagh as er-linney jannoo yn chooinaghtyn ny s'shares, as gra nagh vel yn eiyrtys dy liooar ayn nagh vel appyn traeney co-earrooagh dy chooid-vayrn ayns shoh ny cheddin rish yn traeney va er ny phrowal ayns trialyn clinicky ([NIA mychione scughey Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Cha nee shen dy vel cloieyn gyn ymmyd. Ta'n vree oc ayns taitnys, co-chummal as cliaghtey, cha nee ayns coadee peiagh erbee voish erree ny ymmoodee.
 
-## What is "near transfer", and why does it matter?
+## Cre t'eh "transfer er-gerrey", as cre'n fa t'eh scanshoil?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Tra t'ou er n'ymmyd cur-valj ayn, t'ou dy mennick geddyn ny s'shares ec y cur-valj shen. Ta rannsooderyn enmys shen ny eiyrtys traeney. Yn chied smoo doillee t'eh fakin vel yn improved shen goll erash gys reddyn elley: gys cur-valjyn co-chosoylagh (transfer er-gerrey) ny gys bea laa-ry-laa, myr cooinaghtyn er appoyntyssyn ny stiurey argid (transfer foddey).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Ren scaaney mooar sy vlein 2016 scrutaghey ny studeyryn va sheshaghtyn traeney aigney er chur magh myr nyn eiyrtys share. Hooar ad soilshaghey mooar dy vel sleih geddyn ny s'shares er ny cur-valjyn va er nyn n'ymmyd, soilshaghey ny sloo dy vel ad geddyn ny s'shares er cur-valjyn co-chosoylagh dy heyr, as beggan dy soilshaghey dy vel traeney jannoo sleih ny s'shares ayns smooinaghtyn laa-ry-laa. Va dreeym neuyssit er ymmodee jeh ny studeyryn nagh ren cur lesh kiarailyn firrinagh ([Simons as co-heshaghtyn, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Cre t'ad co-heshaghtyn Cochrane gra mychione traeney co-earrooagh?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Ta co-heshaghtyn Cochrane, t'ad cur ny trialyn share ry-cheilley, er ve jeeaghyn er traeney co-earrooagh rish jeat wheiggoo ny sodjey:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Daaue slaynt er yn eash jeh 65 as ny s'shiney:** jeih wheiggoo trial lesh 1,183 dooinney. Va'n eiyrtys er ny hoilshaghey lowal ny feer lowal. Foddee dy vel vondeish beggan jeeragh lurg y traeney, agh cha nel soilshaghey firrinagh ayn dy vel eh mayrn
+  ([Scaaney Cochrane, daaue slaynt shinney](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Sleih lesh mee-chramp cooishyn aigney mee-chramp:** jeih wheiggoo trial lesh 660 dooinney. Cha ren erbee jeh ny trialyn insh cre haink jeh sleih va goll er erree ny ymmoodee, as va'n eiyrtys ro-lheeah dy chur lesh kiarail firrinagh
+  ([Scaaney Cochrane, mee-chramp cooishyn aigney mee-chramp](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Cre ren trial ACTIVE feddyn magh?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+She trial mooar ny Steatyn Unnaneysit va ACTIVE ren goaill toshiaght ayns 1998 lesh 2,802 dooinney eash 65 as ny s'shiney va cummal liorish ad hene as gyn çhymney mooar ny feyshtey ayns cooinaghtyn ny smooinaghtyn. Va sleih er nyn rheynn gyn tort dy ghoaill ayns un jeh three çheeraghyn traeney veg (lheeah-yindyssagh, cooinaghtyn, ny resoonaght) ny ayns possan gyn traeney erbee. Va'n traeney gys jeih sessioon er yn oyr jeh queig ny she shiaghtin. Va sleih er dy row va er chur nish geiyrt da ny sessiooneyn share er nyn cur tort dy gheddyn **sessiooneyn verchaghey** mysh un vlein as three bleeaney lurg shen.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Va'n traeney er lheeah-yindyssagh goaill stiagh feddyn magh as jannoo arrey er fys fakin ayns greimmey giarey, ayns cair va caghlaa myr va sleih geddyn ny s'shares.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Ayns 2026, ren rannsooderyn cooneyrtyn 2,021 jeh ny rannseyderyn rish ny cooishyn oc ayns Medicare rish 20 blein ([Scaaney 20 blein ACTIVE](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Shoh y firrinys jeeragh hooar ad:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Traeney er lheeah-yindyssagh as jeat sessioon verchaghey ny sodjey na un cheayrt:** va n'y ghraih erbee dy erree ny ymmoodee er ny screeu sheese na va ayns y phossan gyn traeney erbee (co-chaslys aggle jeh 0.75, ta shen çheet dy ve mysh 25% sloo).
+- **Traeney er lheeah-yindyssagh gyn sessiooneyn verchaghey:** cha ren shen ve sloo.
+- **Traeney cooinaghtyn ny resoonaght:** cha ren drogh-yannoo firrinagh soilshaghey er screeu-down erree ny ymmoodee.
+- **Dy chooid slane dagh possan traeney co-chasylt rish y phossan gyn traeney erbee:** va claare gys sloo, agh cha nee dy firrinagh.
 
-### The limits of this finding
+### Caghlaaghyn jeh'n feddyn shoh
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Ta eh cur lesh **un sorch dy traeney er lheeah-yindyssagh cairit lesh sessiooneyn verchaghey**, cha nee da cloieyn aigney dy chooid slane.
+- Haink y feddyn firrinagh veih **fo-phossan** (sleih va er chur geiyrt da ny sessiooneyn toshiaght as va er gheddyn sessiooneyn verchaghey), cha nee veih y possan lheeah-yindyssagh dy slane.
+- Va erree ny ymmoodee er ny thalloo ynricagh myr **coadyn diagnosys ayns cooishyn Medicare**, cha nee liorish jeeaghyn er dagh dooinney dy leih. Va mysh cair-cargan jeh ny rannseyderyn toshiaght faagit magh er yn oyr dy row ad nyn mieyn ayns Medicare Advantage, nagh vel cooishyn lane ayn.
+- Cha row feme mooar er cooishyn smooinaghtyn ec ny rannseyderyn tra ren ad toshiaght. Cha nel y feddyn gra red erbee mychione cloieyn da sleih **ta cummal lesh erree ny ymmoodee hannah**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+She feddyn feer interessagh eh as ta feme er y red shen ve jeeaghit ny sodjey. Cha nel eh eiyrtys dy vel app erbee scughey ny erree ny ymmoodee.
 
-## What did the FTC say about Lumosity?
+## Cre ren yn FTC gra mychione Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Myn Jerrey Geuree 2016, ren Lumos Labs, jannoo Lumosity, cordail dy eeck $2 milleon dy gheddyn seose cooilleeney voish Federal Trade Commission er son greinnaghey sollagh. Dooyrt yn FTC dy ren yn sheshaght gra, gyn eiyrtys ynricagh dy liooar, dy voddagh ny cloieyn oc jannoo sleih ny s'shares ec obbyr as scoill as dy voddagh ad cur lhiettal da caghlaa eashagh, mee-chramp cooishyn aigney mee-chramp, erree ny ymmoodee as Alzheimer's. Ta'n sarey cur er yn sheshaght dy ve ec eiyrtys firrinagh as ymmydoil roish coyrt greinnagheyn lheid shoh yn traa ry-heet ([Greinnaghey yn FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Yn çhaghteraght da moiraghyn as careyderyn: bee kiarailagh jeh cloie erbee, app ny programe ta greinnaghey dy vel eh coadee cooinaghtyn ny scughey ny erree ny ymmoodee.
 
-## Can games help someone who already has dementia?
+## Foddee cloieyn cooney da dooinney ta erree ny ymmoodee echey hannah?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Foddee ad cur rish laa mie, as ta shen scanshoil dy mooar. Yn çhenn-çheerey smoo er ny studeyr t'eh **stiurey aigney**: cloieyn taitnysagh yn phossan lheid as loayrt, cooinaghtyn, cloieyn-fockle, puzzles as kiaull, dy mennick ayns possan veg fo choyrle ainjin.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Hooar scaaney Cochrane jeh 37 trial lesh 2,766 dooinney lesh erree ny ymmoodee mee-chramp ny vean-chramp ayns 2023 ([Scaaney Cochrane jeh stiurey aigney](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **Vondeish beggan, giare-traaagh** er proovail smooinaghtyn (eiyrtys mean-çhymmey);
+- **Vondeishyn scanshoil er son loayrt as co-chummal** (eiyrtys ard-çhymmey, veih earroo ny sloo dy studeyryn);
+- **Vondeishyn beggan** er son bea, mood as ymmyrkey.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Va ny vondeishyn er nyn thalloo dy mennick jeeragh lurg programeyn mysh jeih shiaghtin, as va studeyryn beggan jeeaghyn vel ad mayrn. She programe possan cairit t'eh ayns stiurey aigney, myr shen cha nel ny feddynyn shoh cur lesh dy h-auto-maghtagh da dooinney cloie myr unane er tablet.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Ta Co-heshaghtyn Lancet jeh 2024 gra neesht dy vel programeyn ymmydoil scanshoil da sleih ta cummal lesh erree ny ymmoodee, dy chummal taitnys as oyr ([Co-heshaghtyn Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Cre'n fa t'ad cloieyn mie son?
 
-When chosen well, games can offer:
+Tra t'ad er nyn reih dy mie, foddee cloieyn cur:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Taitnys.** Ta lieh oor taitnysagh feeu er e hon hene.
+- **Co-chummal.** Cloie ry-cheilley cur red aashagh dy rheynn tra t'eh doillee loayrt. Jeeagh er [moddey cloie ry-cheilley](/caregiving/how-to-play-together/).
+- **Cliaghtey.** Foddee cloie cadjin ec yn un traa dagh laa cur gerjagh.
+- **Treisht.** Tra t'ou cur cloieyn co-chosoylagh rish ny ta dooinney foast abyl dy yannoo dy mie, t'ad feddyn dy vel ad abyl, cha nee dy vel ad er nyn phrowal.
+- **Loayrt.** Foddee jalloo ny raue cadjin fosley skeeal. Shirrey er [cairt loayrt](/games/conversation-cards/) ny [crack y raue](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Shir cur lhiettal da taymeryn, skeayllyn, streakyn as red erbee ta cheet dy ve myr prowrey cooinaghtyn. My t'eh goll seose er dooinney, jean scuirr. Cur jerrey ro-laue, ny ynricagh shassoo ry-cheilley, t'eh dy mie. Ta'n leigh ain mychione [reih appyn as cloieyn](/caregiving/choosing-apps-and-games/) ec caghlaa screeu.
 
-## Where Golden Moments fits
+## C'raad t'eh Golden Moments cheet stiagh?
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Ta cloieyn Golden Moments, myr [cummal jallooyn](/games/picture-pairs/), [puzzle jallooyn](/games/picture-puzzle/) as [shirrey-fockle mooar-clou](/games/word-search/), er nyn yannoo son taitnys as traa ry-cheilley. Cha nel taymer ny skeayl ayn. Cha nel ad **ny lhiasaghey**, as cha nel ad **scughey ny slowaghey erree ny ymmoodee**. By vie lhiam gynsaghey shoh dhyt dy meeley na greinnaghey red nagh vod cloie erbee y yannoo.
 
-## Talk with a doctor
+## Loayr rish docht oyr
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+My t'ou imneagh mychione caghlaaghyn cooinaghtyn aynyd hene ny ayns dooinney t'ou cur cree da, gow magh rish docht oyr cha leah as oddys oo, cha nee rish app. Foddee docht oyr jeeaghyn son oyr dy vod ve er ny lhiasaghey as loayrt mychione ny caaghyn share ta ec eiyrtys, lheid as stiurey bluid-chosh as jeeaghyn er clashtyn. Jeeagh er [Vel erree ny ymmoodee er ny scughey?](/brain-health/can-dementia-be-prevented/) son sodjey. Son confideyssyn doaltattyssagh ny caghlaaghyn doaltattyssagh elley, gow cooney dy siyr.

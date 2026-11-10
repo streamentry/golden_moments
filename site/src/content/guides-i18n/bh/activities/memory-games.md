@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "डिमेंशिया वाले बुजुर्गों के लिए नरम याददाश्त खेल"
+seoTitle: "डिमेंशिया के लिए याददाश्त खेल, नरम सुझाव"
+description: "डिमेंशिया वाले बुजुर्गों के लिए मिलान, तस्वीर और कार्ड के खेल, और इन्हें ऐसे खेलने का तरीका कि किसी को परीक्षा जैसा न लगे: तस्वीरें खुली रहें, जोड़े कम हों, कोई स्कोर न हो, और सब मिलकर खेलें।"
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  डिमेंशिया वाले बुजुर्गों के लिए याददाश्त के खेल तब सबसे अच्छे चलते हैं, जब वे याददाश्त पर निर्भर न हों। मिलान वाले खेल तस्वीरें खुली रखकर खेलें, चार से छह टाइल लें, सब मिलकर खेलें और स्कोर को भूल जाएँ। कोई तस्वीर पहचानना उसे याद करने से आसान होता है, इसलिए ऐसे खेल चुनें जिनमें सब कुछ नज़र के सामने रहे। मकसद नतीजा नहीं, बल्कि मन बहलाना है।
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "क्लासिक याददाश्त वाले खेलों में कार्ड छिपे रहते हैं, और यही वह चीज़ है जो डिमेंशिया में सबसे मुश्किल होती है। इसकी जगह तस्वीरें खुली रखें।"
+  - "कम टुकड़े, बड़ी तस्वीरें और एक बार में एक ही चुनाव, इससे खेल सुकून भरा रहता है।"
+  - "मिलकर खेलें, बारी-बारी से मदद करें और स्कोर हटा दें। किसी को भी शर्मिंदा महसूस नहीं होना चाहिए।"
+  - "किसी भी याददाश्त वाले खेल से डिमेंशिया का इलाज, उसकी रफ़्तार कम होना या उसे रोकना साबित नहीं हुआ है। इसे साथ बिताए अच्छे समय के लिए खेलें।"
+  - "मज़ा आते-आते रोक दें। तस्वीरों के बारे में बात करना भी एक अच्छा नतीजा है।"
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "डिमेंशिया वाले व्यक्ति के लिए कौन सा याददाश्त खेल अच्छा है?"
+    a: "बड़ी, जानी-पहचानी तस्वीरों वाला मिलान का खेल, जिसमें तस्वीरें खुली रह सकें, जैसे चार या छह टाइल वाले तस्वीर जोड़े। जो तस्वीर आप सामने देख रहे हैं, उसका जोड़ा ढूँढना अच्छा लगता है और इसमें छोटी अवधि की याददाश्त की परीक्षा नहीं होती। एक ही जैसी तस्वीर ढूँढना और भी आसान है, जिसमें दो से चार विकल्पों में से एक तस्वीर मिलानी होती है।"
+  - q: "क्या याददाश्त के खेल डिमेंशिया में मदद करते हैं?"
+    a: "नहीं। किसी भी याददाश्त वाले खेल से डिमेंशिया का इलाज, उसकी रफ़्तार कम होना या उसे रोकना साबित नहीं हुआ है। कोक्रेन समीक्षा (Cochrane review) में पाया गया कि कंप्यूटर वाले दिमागी प्रशिक्षण के सबूत इतने कम हैं कि यह कहना मुश्किल है कि यह डिमेंशिया को रोकता है या नहीं। फिर भी खेल साथ समय बिताने का एक प्यारा तरीका हो सकते हैं। इन्हें मज़े और साथ के लिए चुनें।"
+  - q: "क्या डिमेंशिया वाले व्यक्ति के साथ क्लासिक कॉन्संट्रेशन खेलना चाहिए?"
+    a: "शुरुआती अवस्था में कुछ लोग इसे अभी भी पसंद करते हैं, खासकर जब कार्ड कम हों। अगर कार्ड कहाँ रखे हैं, यह याद रखना परेशानी देने लगे, तो कार्ड खोल दें और साथ मिलकर जोड़े ढूँढें। इससे मिलान बना रहता है और याददाश्त की परीक्षा हट जाती है।"
+  - q: "बुजुर्गों के समूह के लिए कौन से याददाश्त खेल अच्छे हैं?"
+    a: "स्क्रीन पर बोलने वाले के साथ तस्वीर बिंगो, जानी-पहचानी कहावतें ज़ोर से पूरी करना, और बातचीत वाले कार्ड, ये सब समूह के लिए ठीक हैं। हर कार्ड भरने तक खेलें और यह न बोलें कि किसने सही जवाब दिया, ताकि कोई अलग न महसूस करे।"
+  - q: "क्या बुजुर्गों के लिए ऑनलाइन मुफ्त याददाश्त खेल मिलते हैं?"
+    a: "हाँ। इस साइट के खेल, जिनमें Picture pairs, Find the same, Photo pairs और Picture puzzle शामिल हैं, मुफ्त हैं, इनके लिए साइन-अप नहीं करना पड़ता और ये फ़ोन, टैबलेट और कंप्यूटर पर चलते हैं। किसी में भी टाइमर या स्कोर नहीं है।"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+"बुजुर्गों के लिए याददाश्त खेल" खोजेंगे तो ज़्यादातर चीज़ें ऐसी मिलेंगी जो दिमाग़ की कसरत के लिए बनी हैं: छिपे कार्ड, उलटी गिनती वाली घड़ी, स्तर और स्कोर। डिमेंशिया के साथ जीने वाले व्यक्ति के लिए ये चीज़ें उसी बात की परीक्षा बन जाती हैं जो अब मुश्किल हो गई है। वही खेल एक नरम तरीके से भी खेले जा सकते हैं। इस पेज में बताया गया है कि कैसे, और हर अवस्था में कौन से खेल अच्छे रहते हैं।
 
-## Why do classic memory games frustrate people with dementia?
+## क्लासिक याददाश्त वाले खेल डिमेंशिया वाले लोगों को परेशान क्यों करते हैं?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+क्योंकि ये खेल नई जानकारी को मन में थामकर रखने पर टिके होते हैं, और यही सबसे पहले प्रभावित होता है। [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) के अनुसार अल्ज़ाइमर्स का सबसे आम शुरुआती लक्षण है नई सीखी बात याद रखने में दिक्कत। जो अल्ज़ाइमर्स डिमेंशिया का सबसे आम कारण है। क्लासिक कॉन्संट्रेशन में दो कार्ड पलटे जाते हैं, उनकी जगह याद रखनी होती है, और एक मिनट बाद उसी याद का इस्तेमाल करना होता है। यह नई जानकारी को थामना और याद करना है।
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+अब इसमें एक टाइमर, स्कोर या गलत जवाब पर बज़र जोड़ दीजिए, तो व्यक्ति को उसकी कमी की याद दिलाई जाती है, वह भी उसके सामने जिसे वह प्यार करता है। कई लोग चुपचाप खेलना ही छोड़ देते हैं।
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+जो चीज़ सामने दिख रही हो, उसे पहचानना एक अलग और आम तौर पर आसान काम है। जब दो में से दूसरी चाय की प्याली दिख रही हो, तो उसे इशारे से बताना अच्छा लगता है। तो तरकीब यह है कि मिलान रहने दें और याददाश्त की परीक्षा हटा दें।
 
-## How do you make a memory game gentle?
+## खेल को नरम कैसे बनाएँ?
 
-These adjustments work for card games, board games and games on a screen.
+ये बदलाव कार्ड के खेल, बोर्ड गेम और स्क्रीन वाले खेल, तीनों में काम करते हैं।
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **तस्वीरें खुली रखें।** जो तस्वीरें दिख रही हों, उनका जोड़ा मिलाना भी एक असली खेल है, और अक्सर इसमें बहुत मज़ा आता है।
+2. **कम टुकड़े रखें।** दो या तीन जोड़ों से शुरू करें। ज़्यादा तभी जोड़ें जब खेल बहुत आसान लगे और वे और चाहें।
+3. **बड़ी, जानी-पहचानी, वयस्क तस्वीरें चुनें।** चाय की प्याली, सूरजमुखी, नाव। कार्टून नहीं, और भीड़भाड़ वाले दृश्य नहीं।
+4. **टीम बनाकर खेलें।** "चलिए कुत्ते ढूँढते हैं," कहें, "अब आपकी बारी" नहीं। बारी-बारी से इशारा करें और मदद करें।
+5. **स्कोर हटा दें।** किसी को जीतना ज़रूरी नहीं है। कोई पूछे तो "हमने कर दिखाया" कहना काफ़ी है।
+6. **घड़ी से होड़ न करें।** कोई टाइमर नहीं, और बारी के बीच जल्दबाज़ी भी नहीं।
+7. **तस्वीरों के बारे में बात करें।** "यह नाव देखिए। आप कभी नाव चलाने गए हैं?" बातचीत अक्सर सबसे अच्छा हिस्सा होती है।
+8. **अच्छे पल में रुकें।** एक जोड़ा मिलने के बाद, जब खेल अभी भी अच्छा लग रहा हो, तब खत्म करें।
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) भी आम सलाह के तौर पर यही भावना देता है: गतिविधि को उस चीज़ के हिसाब से रखें जो व्यक्ति कर सकता है, परेशानी के संकेत देखें, और यह पक्का करें कि उसे सफलता का एहसास हो।
 
-## Gentle memory and matching games to try
+## नरम याददाश्त और मिलान वाले खेल, जिन्हें आज़माया जा सकता है
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (तस्वीरें दिखते हुए मिलान)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) बड़ी तस्वीरों और 4 से 12 टाइल वाला मिलान का खेल है। तस्वीरें दिखती रह सकती हैं, इसलिए इसमें जोड़े ढूँढने होते हैं, यह याद नहीं रखना होता कि वे कहाँ थे। चार टाइल से शुरू करें। शुरुआती अवस्था में जो व्यक्ति थोड़ी और चुनौती पसंद करता है, उसके लिए आप **Hidden pictures** पर जा सकते हैं, लेकिन जैसे ही खेल परेशान करने लगे, तस्वीरें फिर से दिखाने लगें।
 
-### Find the same
+### Find the same (एक जैसी तस्वीर ढूँढें)
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) ऊपर एक तस्वीर दिखाता है और नीचे दो से चार विकल्प। जो एक जैसा हो, उस पर टैप करें। साइट का यह सबसे सरल मिलान का खेल है, और उन लोगों के लिए ठीक है जिन्हें पूरी ग्रिड बहुत भरी लगती है, जिसमें बाद की अवस्था में साथ बैठे कई लोग भी शामिल हैं।
 
-### Photo pairs (family photo memory game)
+### Photo pairs (परिवार की तस्वीरों वाला याददाश्त खेल)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) आपकी चुनी हुई तस्वीरों से मिलान का खेल बनाता है: कुत्ता, बगीचा, झील वाला घर। जानी-पहचानी शक्लें और जगहें अक्सर किसी भी स्टॉक तस्वीर से ज़्यादा बातचीत छेड़ती हैं। ये तस्वीरें आपके ब्राउज़र में रहती हैं और कभी अपलोड नहीं होतीं।
 
-### Sort together
+### Sort together (मिलकर छाँटें)
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) में हर तस्वीर को उसकी सही टोकरी में रखना होता है, जैसे रसोई या बगीचा। छाँटना उस लंबे समय से जमा जानकारी पर टिका होता है कि दुनिया कैसे चलती है, न कि छोटी अवधि की याददाश्त पर।
 
-### Picture puzzle
+### Picture puzzle (तस्वीर पहेली)
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) एक तस्वीर को 4 या 9 टुकड़ों में काटता है। दो टुकड़ों पर टैप करके उन्हें बदलें, जब तक पूरी तस्वीर न बन जाए। पूरी तस्वीर मार्गदर्शन के लिए स्क्रीन पर दिखती रहती है।
 
-### Real cards on the table
+### मेज़ पर असली कार्ड
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+इसके लिए स्क्रीन की ज़रूरत नहीं है। दो गड्डियों के कार्ड से या तस्वीर वाले कार्ड सेट से एक जैसे जोड़े निकालें। उन्हें दो कतारों में खोलकर रखें और साथ मिलकर जोड़े ढूँढें। बाद में रंग या पत्ते के हिसाब से छाँटें। [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) शुरुआती अवस्था की गतिविधियों में कार्ड और बोर्ड गेम को शामिल करता है।
 
-## Which memory games suit each stage?
+## कौन से याददाश्त खेल किस अवस्था में ठीक बैठते हैं?
 
-Stages are loose labels. Go by what the person enjoys today.
+अवस्थाएँ मोटे लेबल हैं। देखें कि व्यक्ति आज क्या पसंद करता है।
 
-| Stage | Games that often fit | How to set them up |
+| अवस्था | अक्सर ठीक बैठने वाले खेल | कैसे सेट करें |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| शुरुआती | Picture pairs, Photo pairs, 9 टुकड़ों वाली Picture puzzle, जानी-पहचानी कार्ड गेम | उन्हें चुनने दें। पसंद हो तो टाइल पलटी जा सकती हैं; स्कोर परेशान करे तो हटा दें |
+| बीच की | 4 से 6 टाइल वाले Picture pairs, जो खुले हों, Find the same, Sort together | तस्वीरें हमेशा दिखें। पास बैठें और बारी-बारी से मदद करें |
+| बाद की | 2 विकल्पों वाला Find the same, एक बड़ी तस्वीर साथ देखना | बहुत छोटा रखें। आप टैबलेट पकड़ें; वे इशारा करें, या बस देखें और सुनें |
 
-## Do memory games help with dementia?
+## क्या याददाश्त के खेल डिमेंशिया में मदद करते हैं?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+किसी भी याददाश्त वाले खेल से डिमेंशिया का इलाज, उसकी रफ़्तार कम होना या उसे रोकना साबित नहीं हुआ है। हल्के संज्ञानात्मक कमजोरी (mild cognitive impairment) वाले लोगों के लिए कंप्यूटर वाले दिमागी प्रशिक्षण पर [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) ने पाया कि इसके सबूत इतने कम हैं कि यह कहना मुश्किल है कि यह डिमेंशिया को रोकता है या नहीं। [दिमागी खेल और डिमेंशिया](/brain-health/brain-games/) पर हमारी गाइड बताती है कि अध्ययन क्या दिखाते हैं और क्या नहीं।
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+इसका मतलब खेल छोड़ देना नहीं है। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) सलाह देता है कि उपलब्धि की बजाय मज़े पर ध्यान दें। तस्वीरें मिलाने और उनके बारे में बात करने में दस मिनट भी दिन का एक सच में अच्छा हिस्सा हो सकते हैं।
 
-## What about memory games for seniors without dementia?
+## याददाश्त की समस्या न होने वाले बुजुर्गों के लिए याददाश्त के खेल कैसे हैं?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+अगर किसी बुजुर्ग को याददाश्त की दिक्कत नहीं है और उन्हें समय वाले खेल, स्कोर और कठिन स्तर पसंद हैं, तो इसमें कुछ गलत नहीं है। बस यह मत मान लीजिए कि इससे डिमेंशिया से बचाव होगा; ऐसा कोई खेल साबित नहीं हुआ है। ऊपर बताए नरम तरीके तब भी अच्छे काम करते हैं जब पीढ़ियाँ साथ खेलती हैं: डिमेंशिया वाले दादा-दादी और छोटा पोता या पोती मिलकर तस्वीरें मिला सकते हैं, और दोनों में से कोई भी परीक्षा नहीं ले रहा होता।
 
-## When should you stop or change the game?
+## कब रुकें या खेल बदलें?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+आह भरना, टैबलेट दूर धकेलना, "मुझसे नहीं होगा" कहना या बेचैन दिखना, ये सब संकेत हैं कि खेल आसान करें या रोक दें। कम टाइल आज़माएँ, तस्वीरें खोल दें, [Find the same](/games/find-the-same/) पर जाएँ, या बस तस्वीरें देखें और बात करें। अगर उनका मन बिल्कुल न हो, तो वह भी ठीक है। रफ़्तार और मदद के बारे में और जानकारी के लिए हमारी गाइड [साथ मिलकर कैसे खेलें](/caregiving/how-to-play-together/) देखें।

@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Oviungura vyomuziki kovandu mbe hupa nouvera wokuripurira"
+seoTitle: "Omuziki nouvera wokuripurira: Omaplaylist nondunge"
+description: "Omuano wokunyanda omuziki nomundu ngu hupa nouvera wokuripurira: okutunga oplaylist yomundu, oviungura 15 vyomuziki, nondunge kovikando avihe."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Omuziki oumwe woviungura mbya pupirera okunyanda pamwe nomundu ngu hupa
+  nouvera wokuripurira. Tunga oplaylist yomundu okuza komuziki wouṱiṱi we,
+  wongamburiro ye neṱunḓu re, u puratene nokuhina omareklame poo ombosiro
+  yarwe, nu mu imbure, mu tone omake, mu rikutuke poo mu puratene uriri.
+  Toorora omuziki mbwa porimana poo mbwa nyanda okutara koruveze, ṱiza
+  ombosiro ya ri pehi, nu kurama indu eimburiro tji ra hihamisa omundu.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Omuziki womundu omuini u ungura nawa: omihoko vyomiziki mbya suverere tja ri omuṱiṱi, pamwe nomuziki wongamburiro, wotjiwaṋa neṱunḓu re."
+  - "Purata otjiṋa tjimwe poruveze rumwe, nokuhina omareklame nu tjiṱiroṱiro tja zimisiwa."
+  - "Okuimbura, okutona omake, okurikutuka nokupuratena uriri avihe omiano vyokukara norupa."
+  - "Ungurisa omuziki mbwa porimana okuturisa omutima pehi nomuziki mbwa nyanda okuvatera omutima, nu tara omuano omundu ma ziri."
+  - "Omapekaapeko wokurongwa komiziki mbya hongwa ye ri nouṱiṱiṱiṱi; matu ṋanga omuziki otjotjiṋa otjiwa tji mu nyanda pamwe, ka tjiṋa tjokupanga."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Omuziki mbwa sana pi u ungura nawa komundu ngu hupa nouvera wokuripurira?"
+    a: "Omuziki omundu mbwa tjiwa nokusuvera orure, potuingi okuza mouṱiṱi we, pamwe nomuziki wongamburiro ye, otjiwaṋa tje nomikandi vyeṱunḓu. Tji tji tjiṱika, mu esa a toorore. Tara omurungu we norutu rwe okutjiwa imbi mbya nyanda, nu isa imbi mbi mape ya avi mu hihamisa."
+  - q: "Hi sokuyandja omaheadphone?"
+    a: "Ovandu tjiva ve nyanda omaheadphone mena rokutja ye tjaera ombosiro, nu varwe ve ye muna ye hihamisa poo ye ve pindikisa. Rora nospeaker rutenga kokutja mu puratene pamwe. Tji mo ungurisa omaheadphone, ṱiza ombosiro pehi nu kara popezu."
+  - q: "Omuziki mau yenene okuvatera indu omundu tja ha kara poruveze rumwe poo tja hihamwa momutima?"
+    a: "Omuziki mbwa porimana nu mbwa tjiukwa mau yenene okuvatera okutunga ombepo yomutima mbwa porimana, nu Alzheimer's Association mai ṋanga okuungurisa omuziki okutunga ombepo ndji mo vanga. Kau ungura aruhe. Indu omundu tja hihamwa momutima, tara wina omihihamo, ondjara, ombosiro poo ouruvi."
+  - q: "Ovandu mbe ri mokikando otjisembasemba tjouvera wokuripurira mave yenene okuhinya omuziki?"
+    a: "Ovengi mave yenene. Alzheimer's Association mai tja omundu ngu ri mokikando otjisembasemba ma yenene okutona omuteto poo okuimbura pamwe neimburiro okuza kouṱiṱi. Kara popezu, purata omuziki nombosiro onḓiṱi nu kambura eke re poo mu rikutuke pamwe."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Omuziki oumwe woviṋa ovisemwa mbi mo yenene okunyanda nomundu ngu hupa nouvera wokuripurira. Kau ningira otjiṋa: kapa nomaziriro nge ri mondjira, kapa nozondambo zokukongorera. Eimburiro ndi tjiukwa ri yenena okuyeta onyemeno, ombaze ndji mai tono poo omambo omatiti nga imburwa pamwe, nandarire meyuva ehungiriro tji ri ouzeu. Otjiṋa tji mo hepa porwe omuziki mbwa pwira omundu ngwi nu oruveze rwombepo onḓeu okuu purata.
 
-## What music activities work for people with dementia?
+## Oviungura vyomuziki viṋe mbi ungura kovandu mbe hupa nouvera wokuripurira?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Okupuratena, okuimbura, okutona omake, okurikutuka nokuhungirira ohunga nomuziki avihe vi ungura nawa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mai ṋanga okupurata omuziki, okuhungirira ohunga nomuziki nomuimbure, okuimbura poo okupunda komaimburiro nga tjiukwa nawa, nokuya komikandi vyomiziki motjirongo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) mai weza ko kutja omanyinganyingiro tjimuna okutona omake poo okupunda mae yenene okuweza ondjoroka, nokutja omuziki mau yenene okurira omuano wokukwatana omambo tji ya hiti.
 
-## How do you build a personal playlist?
+## Mo tungu vi oplaylist yomundu?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Otjiṋa otjinanḓengu tji mo yenene okutunga oplaylist yomiziki mbi norupa nomundu ngwi. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) wina mai hungirire omuziki mbu norupa nomundu. Ngwi omuano omupupu okutunga imwe.
 
-### Start with their life
+### Uta nehupo re
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Ouṱiṱi noumutanda we.** Ripura ohunga na imbi mbya ri koradio, pozombunda nokomafilme tja ri omuṱiṱi.
+- **Oruveze orunanḓengu.** Omuziki porukupo rwe, okupunda kwotjihorera, poo oalbuma ndja suverere pomarundurukiro weṱunḓu.
+- **Ongamburiro notjiwaṋa.** Omaimburiro woukriste, ogospel, omuziki omuyapuke, poo omaimburiro meraka re rotjihorera.
+- **Oviungura noukarere.** Ozombandaa zombarutiro, omaimburiro woviungura, poo omuziki mbwa tuamisiwa koruveze movita.
+- **Imbi eṱunḓu mbi ma zemburuka.** Pura ovakwao, ovanatje nomapanga omakuru kutja aruhe aa purata poo aa imbi tjike.
 
-### Think in genres, not just songs
+### Ripura momihoko vyomiziki, ka momaimburiro uriri
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Tji u hi nokutjiwa kutja mo utu pi, rora ouminutu outiṱi okuza motjimwe tjomihoko mbi nu tara omuano omundu ma ziri: big band na swing, doo-wop, Motown na soul, early rock and roll, country na western, bluegrass, gospel nomaimburiro woukriste, omaimburiro wBroadway, jazz standards, omuziki waLatin tjimuna boleros poo mariachi, polka, folk na classical. Ṱiza imbi mbi yeta onyemeno poo ombaze ndji mai tono; isa imbi mbi yeta omurungu mbwa hihama.
 
-### Make it easy to play
+### Tjita kutja i puratwe noupupu
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Nokuhina omareklame.** Alzheimer's Association mai rakiza kutja omareklame mae yenene okuyeta omapindikiro. Ungurisa omuziki mbwa rundururwa, oCD, ovinamuziki vyakuru poo oservice nokuhina omareklame.
+- **Otjirwise tjimwe otjipupu.** Ospeaker nombandi imwe onene, poo oplaylist ndja ṱizirwa ya rirongerwa, kokutja auhe ma yenene okui uta.
+- **Ozoṋḓu mbari ozosupi.** Oṋḓu imwe yomutima mbwa porimana noṋḓu imwe yokuvatera omutima.
+- **I tjangera ena.** Tjanga ena romundu no „omuziki mbwa suvera“ kotjirwise kokutja eṱunḓu ndi mari ya okukaryangera novatjevere wina ve yenene okui ungurisa.
 
-## 15 music activities to try
+## Oviungura 15 vyomuziki okuyezera
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Puratene pamwe.** Kara popezu nokuhina otjiṋa tjarwe tji matji tjitwa. Okupuratena otjiungura tji tja yenenisiwa.
+2. **Imbura pamwe.** Uta okuimbura ove omuini. Okutjitira ombosiro mominyo poo okunyengura omayo wina okurupa.
+3. **Tona omake poo tona omuteto.** Tona komarama, tona potjihavero, poo ungurisa ongoma onḓiṱi poo oshaker.
+4. **Punda nombepo onḓeu.** Kamburene omake nu mu rikutuke motjikunino tjokurongera, poo punda amu haamene, amu nyinganyingisa omaoko pamwe.
+5. **Okupunda nozongwava.** Nyinganyingisa ozongwava ozombomba okutara komuziki, amu kuramene poo amu haamene.
+6. **Hungirira ohunga nomuziki.** Ṋanga, o roro: „Ihi tji posa tjimuna oruveze rwombunda. Ndji raera ohunga nozombunda.“ O ningire nawa „Mo zemburuka eimburiro ndi?“
+7. **Purata oalbuma aihe.** Ṱiza oalbuma ndja suverere, okuza kombutiro nga komaandero, nekofi.
+8. **Tara omavava wozoalbuma.** Omavava womavinamuziki omakuru omawa okuhungirira ohunga nozombanda, ozohihaṋḓe nomirungu.
+9. **Tara omusical.** Omusical poo omukandi womiziki mbwa kamburwa okuza moruveze rwe u ungura nawa ongurova. Kuramisa okusuvira.
+10. **Tona otjihumba tje tji tja tjiwa.** Omundu ngwa ri omutone wopiano poo wogitara mape ya a nyande okutona oupupu. Kombunda, okutona ouṋoṱe outiṱi pamwe kwa yenene.
+11. **Omuziki tji mo ungura.** Purata omaimburiro nga suvera tji mo peta ozombanda poo tji mo ṱunisa otjihavero.
+12. **Eimburiro romuhuka.** Uta eyuva arihe neimburiro rimwe ndi nyandisa otjorupa rwomberoo yoruveze.
+13. **Imburira omaimburiro wongamburiro poo omuziki omuyapuke.** Purata omuziki okuza mongamburiro ye nu mu imbure pamwe.
+14. **Kara norupa motjimbembera tjokwiimbura.** NHS mai hungirire ovimbembera vyokwiimbura otjoviṋa oviwa komutima nokuhupa nawa. Pura popezu ohunga novimbembera mbya pwira ovandu mbe hupa nouvera wokuripurira.
+15. **Yenda komuziki mbu nomuinyo.** Omukandi omusupi womiziki motjirongo poo obandaa pondje. Kara popezu nomuvero wokupita nu pita aruhe tji mo vanga.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Kotjiungura otjipupu tjomambo nomambo nga tjiukwa, rora [finish the saying](/games/finish-the-saying/), ku mo yenene aruhe okuraisa omaandero.
 
-## Matching music to the moment
+## Okutwapo omuziki noruveze
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association mai ṋanga okuungurisa omuziki okutunga ombepo ndji mo vanga: omuziki mbwa porimana kombepo yomutima mbwa porimana, neimburiro ndi nyanda okuza mouṱiṱi womundu okuvatera omutima.
 
-| Moment | Try | Tip |
+| Oruveze | Rora | Ondunge |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Okupenduka | Eimburiro ndi tjiukwa, ndi nyandisa | Eimburiro rimwe omuhuka auhe ri rira otjiraisiro otjiporimana |
+| Oviungura vyonganda | Imbi mbya suvererwa mbi nyanda | Omuziki mau yenene okutjita oviungura vi kare tjimuna ove u nomapanga |
+| Ovikurya | Omuziki omuporimana nokuhina omambo | Ṱiza u ri pehi kokutja au ru kondjisa nokurya |
+| Omapeta weyuva | Omuziki mbwa porimana nu mbwa tjiukwa monḓjerera ombwa | Tara [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Okurara | Omuziki ombouṱiṱi, omuporimana | Rururisa ombosiro nozonyutji pamwe |
+| Okikando otjisembasemba | Omaimburiro we nga suverere tjinene, nombosiro onḓiṱi tjinene | Kara popezu nu kambura eke |
 
-## Tips for a good experience
+## Ondunge zoruhupo oruwa
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Zimisa ombosiro yarwe.** Alzheimer's Association mai ṋanga okupata omavero nozombapa nokuzimisa otjiṱiroṱiro kokutja omuziki ombosiro aihe porwayo.
+- **Ṱiza ombosiro ya ri pehi.** Omuziki mau sokukara ouwa, ka nomungunda. Indu omundu tji ma ungurisa ovitjiviro vyokuzuva, tara kutja vi ri mo nu mavi ungura; tara [hearing](/brain-health/hearing/).
+- **Tara omatuiro wouṱuṱu.** Omaimburiro tjiva ye eta oruhoze, ovita poo ondjambi. Indu eimburiro tji ra hihamisa omundu, mu huhumiṋa nu ri rundurura.
+- **Mu esa a hongorere.** Tji tji tjiṱika, esa omundu a toorore omuziki, nu yakura indu tja tja kako.
+- **Kurama aruhe.** Ouminutu vitano vyomuziki otjiungura otjiwa. Okuuzima nokukara pamwe nombepo onḓeu wina otjiṋa otjiwa.
 
-## What does the research say about music and dementia?
+## Omapekaapeko maye tja vi ohunga nomuziki nouvera wokuripurira?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Oumbangi ouṱiṱi. [Cochrane review ya 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) ya tara omapekaapeko 30 worurongwa rwomiziki mbwa hongwa, potuingi novimbumba mozonganda zovatjindu. Ya muna kutja orurongwa ndwi mape ya rwa vatera okuṱuna ouṱiṱi ozongendo zouṱuṱu okuṱizira kokutjevera okujandjewa, posi ya ha muna otjiraisiro otjikahu ohunga nokuhakara poruveze rumwe, ombango ombwa poo okuripura nokuzemburuka, nu kapa nozondjandja nḓa karerere kombunda yorurongwa.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Eṱe tu nyanda omuziki mena rokutja omuano omuwa, nokuhina ombundu wokukara pamwe, ka otjotjiṋa tjokupanga. Kovimbumba, tara [care home group activities](/activities/care-home-groups/); okungurisa omuziki pamwe noviperendero nozohungiriro, tara [reminiscence activities](/activities/reminiscence/).

@@ -1,33 +1,29 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Attività per e vacanze cù una persona chì vive cù a dementia, da u Ringraziamentu innanzi"
+seoTitle: "Idee per e vacanze è u Ringraziamentu cù a dementia"
+description: "Attività simplici per e vacanze cù una persona chì vive cù a dementia: travaglii in cucina, decorazioni, musica, foto è videochjamate, è cumu pianificà un Ringraziamentu o Natale più tranquillinu."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Megliu fà e vacanze più chjuche, più prestu in ghjornu è accantu à a rutina abituale di a persona chì accudite. Datele un travagliu veru è sicuru, cum'è mette a tavula, lavà l'ortaggi, impaccà un rigalu o appiccà una decorazione. Sparte musica cunnisciuta è vechje foto, avvisate l'ospiti in anticipu è preparate una stanza tranquilla. Fà solu ciò chì pudete gestisce; una festa corta è tranquilla hè dighjà una bona festa.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Fate a festa più prestu in ghjornu, per esempiu un pranzu o un brunch, s'è a cunfusione hè più forte à a fine di ghjornu."
+  - "Offrite travaglii veri: mette a tavula, lavà l'ortaggi, impaccà rigali, decorà o mette i dolci nantu à un piattu."
+  - "Musica cunnisciuta, canti di vacanze è vechji albumi di foto sò modi faciuli per sparte a stagione."
+  - "Avvisate l'ospiti di ciò chì li aspetta, è mustrate à a persona chì accudite e foto di quelli chì venenu."
+  - "Preparate una stanza tranquilla cù una coperta o un maglione preferitu, è limitate l'ospiti à pochi à a volta."
+  - "Saltate ciò chì pò esse troppu, cum'è decorazioni chì parenu alimenti o troppe luci chì lampeghjanu."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Chì pò fà una persona chì vive cù a dementia à u Ringraziamentu?"
+    a: "Datele un travagliu simplice è sicuru chì currisponde à ciò chì pò fà oghje: lavà l'ortaggi, remenà a salsa di mirtilli, mette a tavula, piegà tovaglioli o mette i dolci nantu à un piattu. Dopu, fighjate inseme vechje foto di famiglia o cantate canzoni cunnisciute. Esse parte di a ghjurnata conta di più chè u risultatu di u travagliu."
+  - q: "Duveriamu sempre fà una grande riunione di famiglia?"
+    a: "Solu s'ella hè gestibile. A folla è u rumore ponu esse troppu, allora parechje famiglie preferiscenu una riunione più chjuca è più simplice, un pranzu più prestu, o fà vene l'ospiti in gruppi chjuchi. L'Alzheimer's Association incuragisce à fà solu ciò chì si pò gestisce in modu sicuru è ragionevule."
+  - q: "Cumu possu preparà i membri di a famiglia chì ùn venenu da tantu tempu?"
+    a: "Avvisateli nanzu ch'elli ghjunghjenu di i cambiamenti ch'elli ponu nutà, è spiegateli ch'elli venenu da a malatia, micca da a persona. Dumandateli di ùn curreghje, di ùn interrugà, di parlà unu à unu è di dà tempu per risponde. Mustrà à a persona chì accudite e foto di l'ospiti in anticipu pò dinù aiutà."
+  - q: "Chì rigali sò adatti à una persona chì vive cù a dementia?"
+    a: "Cose simplici è sicure ch'ella pò apprezzà oghje: un spuntinu preferitu, una coperta o un pullove morbidu, musica cunnisciuta, o un albumu di foto di famiglia. Evitate l'apparecchi elettronichi cumplicati, l'attrezzi è i ghjoculi di tavula troppu difficiuli. Falla participà à u rigalu, cum'è impaccà un rigalu o mette i biscotti ch'ella hà aiutatu à fà, pò esse dinù un rigalu in sè stessu."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +36,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+E vacanze ponu purtà ricordi caldi, ma ponu dinù purtà rumore, folla è cambiamenti à a rutina abituale. Per una persona chì vive cù a dementia, e feste megliu sò spessu quelle più chjuche, più lente è custruite annantu à ciò ch'ella pò sempre apprezzà. Sti idee funziunanu per u Ringraziamentu, u Natale, Chanukkah, l'Annu Novu è dinù per i anniversarii di famiglia.
 
-## How do I plan a calmer holiday?
+## Cumu pianificà una festa più tranquilla?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Principiate da a rutina di a persona chì accudite è pianificate a ghjurnata in funzione di quessa. L'[Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) cunsiglia di fà a festa più prestu in ghjornu, parchì a cunfusione è l'agitazione spessu crescenu versu a fine di dopu meziornu è a sera (qualchì volta chjamatu "sundowning"). Un pranzu di vacanze o un brunch pò esse più faciule chè una cena tardi.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Fate una festa di a dimensione adatta.** Una riunione più chjuca è più simplice, o fà vene l'ospiti pochi à a volta, hè spessu più faciule chè una tavula troppu piena.
+- **Distribuite i travaglii.** Dumandate à i parenti di purtà un piattu, di fà a spesa o di stà cù a persona chì accudite mentre voi cucinate. Siate precisi nantu à ciò chì seria d'aiutu.
+- **Fate decorazioni simplici.** L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) nutà chì e luci chì lampeghjanu ponu esse cunfuse, è chì i dolci o i frutti artificiali usati cum'è decorazione ponu esse presi per alimenti veri.
+- **Decidite ciò chì pudete rinunzià.** S'è una tradizione hè diventata troppu stressante o troppu rischiosa, hè benissimu di saltalla o di pruvà una versione più tranquilla.
 
-## What holiday activities can we do together?
+## Chì attività di vacanze pudemu fà inseme?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Sceglite travaglii è passatempi chì currispondenu à ciò chì a persona chì accudite pò fà oghje. Esse parte di a ghjurnata conta di più chè u risultatu di u travagliu.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Mette a tavula inseme.** Principiate cù i piatti, dopu cù i tovaglioli, dopu cù i bicchieri. Piegà i tovaglioli hè un bellu travagliu da fà assittatu.
+2. **Lavà è selezziunà l'ortaggi.** Lavà e patate o scuzzulà i fasgioli verdi à a tavula di cucina hè sicuru è cunnisciutu per parechje persone chì prima cucinavanu.
+3. **Remenà, mischjà o mette nantu à un piattu.** Remenà a salsa di mirtilli, mischjà un impastu simplice o mette i biscotti nantu à un piattu permette di tene e mani occupate luntanu da u focu è da i cutelli.
+4. **Impaccà un rigalu.** Tagliate in anticipu a carta è u nastro adesivu, è lasciatela piegà è liscià. Ùn ci vole micca à impaccà perfettamente.
+5. **Appiccà qualchì decorazione.** Sceglite decorazioni infrangibile è fate lu in una piccula zona, cum'è una ghirlanda o un arburu chjucu.
+6. **Fà un lavorettu simplice.** Catene di carta, un collage di foglie o una carta di vacanze cù timbri funziunanu benissimu. A nostra guida [à l'arti è à i lavoretti](/activities/arts-and-crafts/) dà più idee.
+7. **Cantà è ascultà.** I canti di vacanze cunnisciuti sò faciuli da unisce, ancu s'è a persona parla menu oghje. Fighjate a nostra guida [à a musica](/activities/music/) per custruisce una lista di canzoni.
+8. **Fighjà vechje foto di vacanze.** Tirate fora l'albumi di e feste passate è invitate a parlà ("Raccontami di sta tavula") piuttostu chè dumandà "Chì hè quellu?". A nostra guida [à a rimembranza](/activities/reminiscence/) spiega cumu fà.
+9. **Ghjucà à un ghjocu dolce in gruppu.** [Picture bingo](/games/picture-bingo/) si stampa in pochi minuti è pò ghjucà cù tutte l'età, è [e carte di cunversazione](/games/conversation-cards/) dannu à tutti qualcosa di di chì parlà.
+10. **Colorà inseme.** E pagine di culurazione simplici di [culurazione](/games/coloring/) si ponu stampà per chì i zitelli è i nonni culurinu inseme à a tavula.
+11. **Fighjà un filmu di vacanze preferitu.** Un filmu cunnisciutu hè riposu, è hè benissimu di fighjà ne solu una parte.
+12. **Fà una corta girata in vittura per fighjà e luci.** Una girata tranquilla per e strade decorate pò esse più faciule chè un avvenimentu troppu affullatu.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+S'è a cucina era una parte impurtante di a vita di a persona chì accudite, a nostra guida [à i travaglii di casa cum'è attività](/activities/household-tasks/) dà più modi per fà i travaglii in cucina sicuri è soddisfacenti.
 
-## How do I prepare guests?
+## Cumu preparà l'ospiti?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Avvisate l'ospiti di ciò chì li aspetta nanzu ch'elli ghjunghjenu, soprattuttu quelli chì ùn sò micca venuti da tantu tempu. L'Alzheimer's Association cunsiglia di spiegà chì i cambiamenti di memoria è di cumpurtamentu venenu da a malatia, micca da a persona.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Date qualchì cunsigliu simplice:** parlà unu à unu, dà tempu per finisce un pinsamentu, ùn curreghje è ùn interrugà, è seguitate u tonu di a persona s'ella hà difficultà à truvà e parolle.
+- **Spiegate ciò chì aiuta è ciò chì pò disturbà.** S'è e voce alte, a fretta o certi temi causanu fastidiu, dite lu chjaru.
+- **Presentate l'ospiti in anticipu.** Mustrate à a persona chì accudite e foto di quelli chì venenu è racontate una storia o duie, o fate una corta videochjamata o telefonata nanzu u ghjornu.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+A nostra guida [à i cunsiglii di cumunicazione](/caregiving/communication-tips/) dà più detagli.
 
-## What if it gets to be too much?
+## Chì fà s'è diventa troppu?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Preparate una stanza tranquilla nanzu ch'aghjunghjenu l'ospiti, luntanu da u rumore, cù cose chì cunsolanu cum'è una coperta preferita, un maglione o un'attività simplice. Offritela prestu è spessu: "Vulemu andà in un locu un pocu più tranquillu per un mumentu?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Andà via da a tavula, andà à corcà più prestu o saltà una parte di a ghjurnata hè un bonu risultatu, micca un fallimentu. S'è a persona si mette agitata, una voce calma, una canzona cunnisciuta o andà in un'altra stanza aiuta spessu più chè pruvà à ragionà. A nostra guida [à l'agitazione di fine di ghjornu](/caregiving/late-day-restlessness/) dà più idee per a sera.
 
-## How can family far away take part?
+## Cumu ponu participà quelli chì sò luntanu?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+E videochjamate permettenu à i parenti luntani di participà senza aghjunghje folla. L'Alzheimer's Association cunsiglia di dà un pocu di struttura à e chjamate, per esempiu cantà inseme canti di vacanze, sparte foto di riunioni passate, fà u listessu ricettu inseme o fighjà un filmu di vacanze à u stessu tempu. Fate chjamate corte, è dumandate à tutti di parlà unu à unu, parchì parechje persone chì parlanu inseme sò difficiuli da seguità. A nostra guida [à e telefonate è à e videochjamate](/activities/phone-and-video-calls/) dà idee passu à passu.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+S'è a persona vive in una casa per persone cù dementia, verificate u regulamentu di visite è dumandate à u persunale d'aiutà à preparà a videochjamata. A nostra guida [à e visite à una persona in casa per dementia](/activities/visiting/) spiega ciò da purtà è cumu andàvene bè.
 
-## What gifts suit someone with dementia?
+## Chì rigali sò adatti à una persona chì vive cù a dementia?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+I rigali simplici è sicuri chì ella pò apprezzà oghje sò quelli chì funziunanu megliu: un spuntinu preferitu, una coperta o un cardigan morbidu, musica cunnisciuta, un calendariu in grandi caratteri, o un albumu di foto di famiglia. L'Alzheimer's Association cunsiglia di evità l'attrezzi periculosi, l'apparecchi elettronichi cumplicati è i ghjoculi di tavula troppu difficiuli.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Dà pò esse impurtante quant'è riceve. Impaccà i biscotti chì a persona hà aiutatu à fà, o lascialla impaccà un rigalu chì avete compru, li permette di participà à a stagione. Un altru idea hè un ghjocu di foto di famiglia: [photo pairs](/games/photo-pairs/) trasforma uni pochi di foto scelte in un ghjocu dolce d'accoppiamentu in u navigatore.
 
-## Look after yourself too
+## Prendite cura di voi stessi dinù
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+E vacanze aghjunghjenu travagliu à l'accudimentu. Lasciate qualcunu altru fà da ospite o cucinà u tacchinu, dite nò à l'avvenimenti chì seranu troppu difficiuli, è pigliate riposu mentre l'altri stanu cù a persona chì accudite. S'è voi o a persona chì accudite site malati, un salutu da a strada o una videochjamata hè dighjà una visita perfetta. A nostra guida [à a cura di sè per quelli chì accudisenu](/caregiving/caregiver-self-care/) dà più aiutu.

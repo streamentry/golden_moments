@@ -1,33 +1,35 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Dementiaqarunik misigissutsit atornerlugit"
+seoTitle: "Dementiaqarunik misigissutsimut suliat"
+description: "Dementiaqarunik misigissutsimut suliat: assakkut ujaasineq, annoraat, naasut tippissusaannik najaaneq, nipit nuannersut takorluukkat. Toqqortaatsumut malittarisassat."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Misigissutsit atornerlugit suliassat aktuaatit, tippissutsit, nerisassat,
+  nipit isiginnaarnerillu atorlugit saqqummertarput: assakkut arrusumik
+  ujaasineq, annoraat aqitsut qalerualimmik, naasut nuttaat tippaarlugit,
+  pinngorsuaq nipaanik tusarnaaneq imaluunniit igalaakkut timmissanik
+  isiginnaarneq. Killiffiit tamarmik atorsinnaavaat, kingulliunerunnullu
+  pingaaruteqaqaat. Siullermik qulaaniartarneq, allergi, amerliartornerit
+  tippissutsit amertuunerillu misissukkit, ataaseq ataatsimut neqerooruk,
+  inullu iluaqutissaqanngitsutut misigisimanera unitsiguk.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Misigissutsit atornerlugit suliassanik akissuteqarnissamut pisariaqanngilaq, tamatumuunarlu killiffiit tamarmik atorsinnaavaat, inissermi issiavimmiluunniit."
+  - "Misigissuseq ataaseq ataatsimut neqerooruk nipaarluinnarni, aktuaatinnginninnillu apeqqutit imaluunniit nalunaarutiguk."
+  - "Mikisuut qulaaniarsinnaasut nerisassatut tippissuseqartulluunniit isikkoqartussat atussanngilat, inuk qanormik allamik amerlanertigut immikkut pisussinnaammat."
+  - "Ujaasissaq, tippissuseq nerisassulluunniit atorninnginni allergi, amerliartornerit anersaartarnermillu ajornartorsiutit misissukkit."
+  - "Uppernarsaatigisinnaasumik uppernarsaatissaqanngilaq aromaterapi dementia peqqutigalugu ajornartorsiutinik iluaqutaasinnaasoq; tippissutsit nuannersinnaasut atugukkit, taamaattoqartillugu."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Suna dementiaqartoq misigissutsimut iluaqutissaqarsinnaavoq?"
+    a: "Suliassat ajornanngitsut tassaasinnaapput assakkut arrusumik ujaasineq, annoraat aqitsut aktuaarlugit, naasut nuttaat imaluunniit kaffi tippaarlugit, erinarsuutit nuannarinerpaat pinngortitamilluunniit nipai tusarnaarlugit, timmissanik aalisaasanilluunniit isiginnaarneq, nerisassorlu nuannarineqartoq toqqortaatsikkut nerineqarsinnaasoq. Ataaseq ataatsimut neqerooruk qanoq paasisullu takujumaarlugu."
+  - q: "Inuk suna tamanik kanimmut iliussaasoq misigissutsimut suliaqartoqarsinnaavoq?"
+    a: "Aamma, mianersortumik. Angisuut qulaaniarsinnaanngitsut kisimik atoruk, mikisuut aserorsinnaasulluunniit atussanngilat, ujaasissat, soqutit tippissuseqartullu kingornatigut toqqorsinnaanngikkit, nerisassatut isigisinnaammata tippissuseqaratillu. Inuk najorluguk."
+  - q: "Aromaterapi dementiaqarunik iluaqutaassaaq?"
+    a: "Cochrane-mit misissuinermi uppernarsaatitsineq uppernarsaatigisinnaasoq aromaterapi dementiaqarunik iluaqutaasinnaasoq nassaarineqanngilaq, misissuinernilli mikisuullutik aaqqissuussaanatik. Inuk tippissuseq mamarnaq ilikkaminik nuannariguni isumaqanngilaq, kisianni tippissutsit sakkortusut, oil-it assigiinngitsut, atussanngilat, ingasinnerusukkullu anersaartarnermi ajornartorsiuteqarunik allergieqarunilluunniit."
+  - q: "Suna aaqqissuussaq aaqqitassatullu atassut?"
+    a: "Tassaavoq annoraaq imaluunniit qipput, assaatinut mikisuunngitsut atortussat akueruttut nipitassatullu allallu ilanngullugit qilersorneqarsimasut, soorlu napparut angisuut, lukkersakkat, qalipaatit assatulluunniit ulikkaat. Assaanik soqutigisamik misissueqqissaartitsissinnaavoq. Regularimik misissoruk loosarsinnaasut."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +50,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Misigissutsit atornerlugit suliassat tallimat atorlugit ineriartortinneqarput: aktuanneq, tippaarneq, nerineq, tusarnaarneq isiginnaarnerlu. Eqqaamasat, qitiusumik ilerfiaqarneq imaluunniit akissuteqarnissaq pisariaqartinneqanngilaq, tamatumuunarlu killiffiit tamarmik atorsinnaavaat. Kingulliunerusumi pingaaruteqarnerupput. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) erseqqippaa kingulliunerusumi silarsuaq misigissutsikkut pingaarnersigut misigisariaqaralugu, asanninnerlu aktuanermut, nipimut, isiginnaarnermullu, nerinermullu tippaarnernullu ersersitsisinnaallugu. Mianersorluni pilersaarusiorneq suliassaq tamassi eqqissisitsisinnaavaa.
 
-## What are sensory activities for dementia?
+## Dementiaqarunik misigissutsimut suliassat suut?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Misigissutsimut suliassat misigissuseq ataaseq sammineqartarpoq, soorlu annoraamik aktuanneq, naasunik tippaarneq imaluunniit sialummik tusarnaarneq. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) erseqqippaa kingulliunerusumi suliassat misigissutsinut qitiutinnegarnertik pingaartillugu, erinarsuutinik, atortunik aktuaasinnaasunik kiisalu assanik ujaasinermik taaneqartarluni. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) erseqqippaa inuit kingulliunerusumiittut immikkuullarissuumik soqutigisinnaasut suna tamanik nuannaartitsisumik tigummiaqqajaarlutik.
 
-## Sensory ideas, sense by sense
+## Misigissutsimut siunnersuut, misigissuseq ataatsimut
 
-### Touch
+### Aktuanneq
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Assakkut ujaasineq.** Ujaasissaq mamarnaq assannut ilikkit assallu arrusumik ujaallugit, talinnit tikkuanut. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) nuannaartitsiniarluni ujaasissaq tippissuseqanngitsoq atorlugu assanik ujaasinissaq taaneqarpoq.
+- **Annoraanik qalerualik.** Annoraat angisuut aqitsut soorlu velvet, kordfløjl, fleece, satin aamma savaat, ujaallugit, immikkoortarlugit oqaloqatiginerusullugit.
+- **Toqqitseq kiattoq.** Ulloq issittoq assanut toqqitseq kiattoq maqinneqartoq. Kiassuseqarfissaq talivinni misissoruk.
+- **Aaqqitassatulluunniit atassut.** Napparut angisuut, lukkersakkat, qalipaatit assatulluunniit ulikkaat akuerullugit qilersorneqarsimasut.
+- **Immikkoortarneq assullu eqqortumik illersorneq.** Qalerualik toqqitsanik imaluunniit napkininik imeqqutaqanngitsunik imalik, immikkoortassallugit, qaleriiaallugit immikkortarlugillu.
+- **Suna tamanik aqisoq tigumiarineqarsinnaasoq.** Savaasoq, akissaq imaluunniit uumasoq aqisoq, kiisalu pingaaruteqanngitsumik neqerooruk, pinnguartaatinngorlugu.
 
-### Smell
+### Tippaarneq
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Naasut nuttaat.** Minta, rosmarin, basilikum imaluunniit laventeli assaniit aqullugit inummut tippaarniarlugit.
+- **Igaavimmi tippissutsit.** Kaffi imerneqartoq, iffiaq siarlerneqartoq, kaneli imaluunniit appelsiinit amerlineqartoq.
+- **Naasut.** Naasut amerlallit naatsiiviit ilaanni pisiniarfimmiilluunniit pisuussutit aallaruk.
+- **Atortussat ilikkatut.** Soqut imaluunniit ujaasissaq atorsimasaat, ameq tolereriguniuk.
 
-### Taste
+### Nerineq
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Taama nuannarineqartoq.** Mikisuuvoq nuannarinerpaaminik, soorlu æblesovs, budding imaluunniit is, neriuminarsatullu toqqortaatsikkut naammattoorsinnaasut.
+- **Iffiamik sanani ikiueqartinneq.** Paarnanik nerisaqarlutit imaluunniit frosting mikisooq misigilugu ataatsimoorlusi iffialiortillusi.
+- **Ukiumut naleqqiussat nerisassat.** Vandmelon aasami, æblejuice kiattoq ukiaqqami, kiassuseqarlu naammattoq.
 
-### Sound
+### Tusarnaarneq
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Erinarsuutit nuannarinerpaat.** Erinarsuutit ilikkat nipaarluinnartumik; takuuk [ernersuutit atorlugit suliassat](/activities/music/).
+- **Pinngortitami nipit.** Sialuk, imaq imaluunniit timmissat erinarsornerat. NIA erseqqippaa erinarsuutit, nipi aqqusaarneq pinngortitamilu nipai inuit ilaat eqqissisitsisinnaasutut isikkoqartarlutik.
+- **Nipit.** Atuarneq, erinarsorneq imaluunniit oqaluttuaq.
+- **Sakkukitsunik nipilersuutit.** Trome, shaker imaluunniit sianeq, erinarsuut peqatigisinnaasut.
 
-### Sight
+### Isiginnaarneq
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Igalaakkut isiginnaarneq.** Timmissat nerisassaannik igalaap sillataani, meeqqat angerlartut, imaluunniit aput naqittoq.
+- **Aalisaaqarfissaq imaluunniit video arrụsaaq.** Aalanera nipaarluinnaq tusarnaatitsissuteqarnani.
+- **Assit angisuut.** Assimik ataaseq ersarissumik isimut sanilliullugu takutiguk.
+- **Qalipaatit ersarissutsit.** Annoraat mikisuut qalipaatit ersarissutsit immikkoortillugit, naasut napkinilluunniit qalipaatillit, imaluunniit qalipaaserfik सरल [qalipaaserfiup](/games/coloring/) immikkoortortaani.
+- **Silami.** NHS siunnersuutigaa naatsiivimmi naasut tippissuseqartut, ulikkaat imeqaqatiluunniit. Takuuk [silami naatsiivimmilu suliassat](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Misigissutsimut box qanoq sanaajuarneqarsinnaavoq
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Sammisaq toqqaruk** inummut inuunerminut atassuteqartoq: sissami, naatsiiviimmi, igaavimmi, sanaartornermi, mersornermi.
+2. **Tamatuma iluani tallimanik arfinilinilluunniit angisunik, toqqortanik atortunik toqqaagit,** soorlu ujarak angisoq sissamiit, alussaq qisissoq, qalipaat aqisoq, laventelimik panertumik mersorneqarsimasumik imaluunniit kisimik qisissoq.
+3. **Tamarmik misissukkit** mikisunik, ipernartunik, nujalinnik loosinnaasunilluunniit.
+4. **Ataaseq ataatsimut neqerooruk.** Tunniuk, nassuiaatillu, inullu misissueqqissaaruk.
+5. **Kingornatigut toqqoruk** immikkut immikkuullarissinnaallugu, kingornalu atorneqartussanngorlugu misissoqqissaartassallugu.
 
-## Safety first
+## Toqqortaatsut siullertut
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Misigissutsimut suliassat arrusaapput, kisianni ulorianartunik arpaliisoqarsinnaavoq. Dementiaqarartut ilaat nerisaanngitsut nerisassatut paasisinnaavaat, nerinerlu piffissaq nalaani ajornakusoorluni; NIA mianersoqqussuteqarpoq kingulliunerusumi neriarnermi ajornartorsiutit qulaaniarnermut ulorianarnerulersitsisinnaasut.
 
-| Risk | What to do |
+| Ulorianartoq | Suleriaaseq |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Qulaaniartarneq | Atortussat qulaaniarsinnaanngitsut angisuussusillit kisimik atoruk. Napparut, sapangat, aningaasanik, marmori imaluunniit pinnguarutit mikisuut box-imi loosinnaasut atussanngilat. Nerisassat pitsaasut aalajangersimasut peqataasunut isumannaatsunik naammattoorsinnaasut kisimik tunniukkit. |
+| Nerisassatut isikkoqartussat | NIA siunnersuutigaa ujaasissat, soqutit, sampuu aammalu parfume mattussallugit, nerisassatut tippissuseqaratillu isigisinnaammata, kiisalu paarnat sananeqanngitsut peerukkat. Atortussat kingornatigut toqqukkit. |
+| Allergi | Aallarnerni nutsat, lateksi, savaat, naasut imaluunniit tippissutsit allergiatut misissukkit. |
+| Tippissutsit sakkortusut | Parfumerit sakkortusut oil-illu assigiinngitsut atussanngilat, ingasakinnerusarli astma imaluunniit anersaartarnermi ajornartorsiuteqarpat. Tippissutsit mamarnaasut pinngorsuaqarnikkut piareersimasut toqqortaanerupput. |
+| Amissaq | Assakkut ujaasinnginninni ameq navianartoq, quppimasoq imaluunniit killilersoq misissoruk. Arrusaarlutit aktuaagit unitsillutillu naalliuppat. |
+| Kiassuseq | Toqqitsit kiattut imerlu kiattoq talivinni misissoruk. |
+| Ipernartut toqunartussallu | Sakkussat ipernartut, igalaat imaluunniit sanaartornikkut atortussat toqunartut atussanngilat. |
 
-## Does aromatherapy help?
+## Aromaterapi iluaqutaassava?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Naliginnaasumik uuttuutigisinnaasumik iluaqutaanngilaq. [Cochrane-mit misissuinermi aromaterapi dementia pillugit](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) 13-it misissuinernit inuit 708-it paarsiveqartut ingerlavoq, taakkulu tamarmik najugaqarfissuaqarnikkut sumiiffimmiittut, uppernarsaatissarlu uppernarsaatigisinnaasoq iluaqutaasoq nassaarineqanngilaq. Misissuinernit mikisuupput, inernerilu assigiinngillat, kingunerisanillu naammaginartumik nalunaarutigineqarsimanngillat. Inuk tippissuseq mamarnaq ilikkami nuannariguniuk, soorlu laventeli naatsiiviimmit, taava taamaattoorpoq qujasarneqartumut pissutaalluni. Katsorsaanermut atorneganngilaq.
 
-## How to offer a sensory activity
+## Misigissutsimut suliassaq qanoq neqeroorsinnaallugu
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Piffissaq eqqissisoq toqqaagit** TV-llu qamiguk.
+- **Saavaanniit saaffiguk,** atsi tikkuaruk, aktuaatinnginninnillu apeqqutit imaluunniit nalunaarutiguk: "Ujaasissamik peqarlunga. Assannut ujaasineqarusuppit?"
+- **Ataaseq ataatsimut neqerooruk** amerlasoorujussuanngorlugu.
+- **Qanoq pissutsimut takujumaaruk.** Kiinaq eqqissisoq, assat eqqissisut imaluunniit qungujut neriorsuutinngillat. Tunniaraaqqippoq, qisuaraarpoq imaluunniit eqqissinngikkuni unitsigit.
+- **Sivikitsumiinnarlutit.** Minutsit tallimat eqqissisimanerat suliniutigineqarsinnaavoq.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Peqataalluni anersaartorneq arrusaaq, soorlu [anersaartoq eqqissisoq](/games/calm-breathing/), naammassinissamut pissaaq pillugu. Inissinniittut siunnersuutit allat takukkit [kingulliunerusumi suliassat](/activities/late-stage/), unnukkut eqqumaffiginnginnerullu pillugit takukkit [unnukkut eqqissinnginneq](/caregiving/late-day-restlessness/).

@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Деменципе пурăнакансем валли ÿнер тата ĕç"
+seoTitle: "Деменци тĕлĕшпе: аслă çын валли, ачасен пек мар"
+description: "Деменципе пурăнакан аслă çынсем валли акварельпе, коллажпа, чечек йĕркелевĕпе ÿнер ĕçĕсем, хатĕрлев тата ĕçе йĕркелеме пулăшакан сăмахсем."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Деменципе пурăнакан аслă çынсем валли лайăх ÿнер ĕçĕсем аслă çынсене
+  кура кăна тухаççĕ тата çавăн пекех туйăнаççĕ: акварель, журналсенчен
+  коллаж, чечек йĕркелесси, глина, ансат открытка тăвасси е аслă çынсем
+  валли сăрлама листисем. Сахал материал хатĕрлĕр, кирлĕ пулсан пĕрремĕш
+  штрихра пулăшăр, ĕçленĕ чухне калаçăр тата пĕрле ирттернĕ вăхăта
+  тĕп шутлăр. Вĕçленнĕ ĕç кирлĕ мар.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Аслă çынсене кура кăна тухакан материалсемпе темăсем суйлăр: акварель хутăмĕ, чăн чечексем, журнал сăнӳкерчĕкĕсем. Блесткасем, наклейкăсем е мультфильмла ĕç листисем кирлĕ мар."
+  - "Процес çине тимлĕ пулăр: тĕссем, глинăна тытнин туйăмĕ, калаçу. Вĕçленнĕ ĕç — хушма япала, тĕллев мар."
+  - "Пултарсан, ĕçе тĕллев парăр: ачаллăха открытка е сĕтел çине чечек йĕркелевĕ."
+  - "Çынна пуçлама пулăшăр, кайран каялла тăрăр. Кистьпе пĕрле пĕрремĕш штрих туртасси чылай чухне çителĕклĕ."
+  - "Ĕçсене пĕр хутпа вĕçлемелле мар, вăхăтсăр та чарăнма юрать."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ĕçе ачасен ĕçĕ пек туйăнтарассĕн анчах эпĕ мĕн тумаллă?"
+    a: "Чăн ÿнер материалĕсемпе, аслă çынсем валли темăсемпе, хисеплĕ калаçу усă курăр. Блесткăпа мультфильм листисен вырăнне акварель хутăмĕ, пир-авăр, чечексем, журнал сăнӳкерчĕкĕсемпе тĕрлĕ сăрлама страницисем илĕр. Ача ÿкерчĕкне мухтанă пек мухтамăр; хăш-пĕр аслă туспа калаçнă пек калаçăр."
+  - q: "Деменци юлашки тапхăрĕнче мĕнле ÿнер ĕçĕсем килĕшеççĕ?"
+    a: "Кайранрах ансат, туйăмсене çывăхаракан ĕçсем лайăх ĕçлеççĕ: пысăк кистьпе сарлакан йĕркесем туртасси, çемçе глинăна пусасси, вазăна сахал чечек лартасси е пир-авăр кусăксене тытнин туйăмĕпе уйăрасси. Чухне хускануна пĕрле пуçламалла пулать. Эсир сарланă чухне пăхасси тата тĕссем çинчен калаçасси те хутшăну."
+  - q: "Вăл «эпĕ ÿкерейместĕп» тесен мĕн тумалла?"
+    a: "Йывăрлăха кăларăр. Тĕрĕс хуравĕ кирлĕ мар ĕçсене тăрăшăр: акварель суламĕ, коллаж е чечек йĕркелесси. Енчен те эсир ятарлăса ыйтăр: открытка валли тĕс суйлама пулăшма ыйтăр, ĕç тĕрĕслеве пек мар, пулăшу пек пултăр."
+  - q: "Сăрлама листисем аслă çынсем валли ачасен ĕçĕ пек-и?"
+    a: "Вĕсем аслă çынсем валли хатĕрленнĕ пулсан — çук. Сад, утăмлăх, машина е пейзаж пек аслă темăллă страницăсем суйлăр тата вĕсене вĕренӳ мар, лăпкă ĕç пек парăр. Пирĕн сăрлама страницисене пичетлеме е планшет çинче сăрлама пулать."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Ӳнерпе пултарулăх ĕçĕсем деменципе пурăнакан çынсене тĕрĕс сăмах тупма кирлĕ мар майпа хăйсен шухăшĕсене кăтартма пулăшаççĕ. Alzheimer's Association палăртнă тăрăх, ÿнер ĕçĕсем [тĕллĕнӳпе тĕллев туйăмĕ](https://www.alz.org/help-support/caregiving/daily-care/art-music) тата хăйне кăтартма май параççĕ — çавăн пекех пăхса тăракан çынна та. Тĕпнех ĕçсене аслă çынсем валли, ансат тата йывăрлăхсăр тытса тăмалла. Ку страница çынна юрăхлă ĕçсем, вĕсене мĕнле хатĕрлемелли тата лару-тăрăв улшăннă чухне мĕнле йĕркелемелли çинчен калать.
 
-## What makes an art activity adult and not childish?
+## Ӳнер ĕçĕ аслă çын валли пулнине, ачалăх ĕçĕ пек маррине, мĕн палăртать?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Аслă çын валли ÿнер ĕçĕнче чăн материалсем, аслă темăсемпе хисеплĕ калаçу пур. Alzheimer's Association ĕçсене аслă шайĕнче тытма тата вăй кĕмен е ача пек курăнма пултаракан япаласене ан усă курма сĕнет.
 
-| Feels childish | Feels adult |
+| Ачасен ĕçĕ пек туйăнать | Аслă çын валли пек туйăнать |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Блесткасем, поролон наклейкисем, куçлă хăйăвсем | Акварель хутăмĕ, пир-авăр, типĕтнĕ чечексем |
+| Мультфильмлă сăрлама листисем | Сад, утăмлăх, машина е пейзаж сăрлама страницисем |
+| Кашни йĕркене «питĕ лайăх» тени | Чăн калаçу: «Ку кăвак тĕс çав симĕс тĕспе питĕ илемлĕ курăнать» |
+| Усăсăр пултаракан ĕç | Тусшăн валли открытка, сĕтел çинчи чечек, парне |
+| Вĕрентекен пек инструкцисем | Йыхрав: «Кунта манăн пата пулăшма пултарар-и?» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Çын хăйĕн кăмăлне шутла. Çĕрĕпе ĕçлеме юратнă çын пир-авăрпа ĕçлеме килĕшет. Пенсине тухнă инженер пысăк пайрăмлă модель е проекта валли хатĕрсем уйăрасси юратма пултарать. Вĕрентекен ĕçленĕ çын открытка тăвассине хавас курма пултарать.
 
-## Why focus on the process, not the product?
+## Мĕншĕн процесс çине тимлĕ пулмалла, результат çине мар?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Мĕншĕн тесен пĕрле ирттернĕ вăхăт — çакă тĕп. Alzheimer's Association [килти ĕç-хĕлсем çинчен](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) пани çинче результат çине мар, процесс çине тимлĕ пулма сĕнет. «Кăвак кăна» ÿкерчĕк те ÿкерчĕк. Виç сăнӳкерчĕклĕ коллаж та коллаж.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Ассоциаци палăртнă тăрăх, ÿнере паллă çын хăйĕн ĕçĕ улшăннине курса йывăрлăх туйма пултарать, анчах паллă мар çын хăйне кăтартма çĕнĕ май тупма пултарать. Çын ÿнере лайăх пĕлнĕ пулсан, вăл лайăх пĕлнĕ хатĕрĕнчен урăх хатĕрпе ĕçлеме сĕнĕр: çапла ĕç танлаштару мар, вăйă пек туйăнĕ.
 
-## Arts and crafts ideas to try
+## Тăрăшма пултаракан ÿнерпе пултарулăх ĕçĕсем
 
-Each idea includes how to make it simpler if it becomes hard.
+Кашни сĕнӳре ĕç йывăрлансан мĕнле ансатлатмаллине çырнă.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Акварель суламĕсем.** Хулăм акварель хутăмне шыв парăр тата çынна пысăк кистьпе тĕс кăтартма ирĕк парăр. Тĕссем хăйсенеçех сарăлаççĕ, çавна май йăнăш результат çук. *Ансатрах:* икĕ тĕс кăна парăр е тĕксĕм хут çине шывпа сарлăр — шывлă йĕркесем курăнĕç.
+2. **Журнал коллажĕ.** Сад, апат-çимĕç хатĕрлени, машина, çул ҫӳревĕ е çынăн юратнă ĕçĕсем çинчен журналсенчен сăнӳкерчĕксене малтан касăр. Вăл картон çинче сăнӳкерчĕксене суйласа çыпăçтартăр. *Ансатрах:* таса каснă тăватă сăнӳкерчĕкпе клей-карандаш парăр тата пĕрле çыпăçтарăр.
+3. **Чечек йĕркелесси.** Alzheimer's Foundation of America [каснă чечекпе çулçăсемпе ансат йĕркелӳсем](https://alzfdn.org/dementia-activity-gardening/) тума сĕнет. Йывăр, шăтăксăр ваза тата малтан хатĕрленĕ чечек тăррисем усă курăр. *Ансатрах:* пĕчĕк куркăна пĕр-пĕр тăррипе чечек лартăр.
+4. **Типĕтнĕ чечеклĕ открыткасем.** Чечек букетĕнчен чечексене эрне вăхăтĕ кĕнеке страницисем хушшинче типĕтĕр, кайран çавăртнă картон çине çыпăçтарăр. *Ансатрах:* эсир клей лартатăр, вăл чечеке пусать.
+5. **Аслă çынсем валли сăрлама страницисем.** Уçă кĕскесемпе чăн темăллă страницăсем суйлăр. Пирĕн [сăрлама страницисене](/games/coloring/) пичетлеме те, экран çинче тĕсе суйласа сăн ÿкерчĕк пайне пусса сăрлама та пулать. *Ансатрах:* пысăкрах вырăнсем, сахалрах тĕс, хулăм маркерсем.
+6. **Глина е çемçе масса.** Шывра типмен глинăна е çемçе массăна тунсăхлатăр, пусăр, тăвăр. Çулçăна глина çине пусни ансат ÿкерчĕк парать. *Ансатрах:* пусасси тата тунсăхлатни кăна та тулли ĕç. Çын глинăна е сарăна çăварне ан илтĕр тесе тĕрĕслĕр.
+7. **Открытка хатĕрлени.** Alzheimer's Association ĕçе чăн тĕллев пек кăтартма сĕнет: «Эпир тусăн пата сывлăх ыйтакан открытка яратпăр. Пулăшма пултарар-и?» Таса каснă картонпа чечек е марка пек наклейкăсем лайăх ĕçлеççĕ.
+8. **Скрапбук.** Кивĕ сăнӳкерчĕксен кописене, открыткасемпе билет кусăксене пĕрле альбом страницисене лартăр. Кашнине калаçса иртĕр. Ирткене лăпкă калаçма сĕнӳсем пирĕн [аса илӳ çинчен сăмахра](/activities/reminiscence/) пур.
+9. **Пир-авăрпа туйăм хатĕрĕсем.** Вельвет, кăтра, мешок пирĕ е чĕрке пир-авăр кусăксене хытă картон çине çыпăçтарăр. Хатĕрлесси те ĕç, каярах тытса пăхасси те урăх ĕç. Ытти сĕнӳсем пирĕн [туйăм ĕçĕсем çинчен сăмахра](/activities/sensory/).
+10. **Ансат йывăç ĕçĕ.** Йывăçпа ĕçлеме юратнă çын валли йывăç блокне шăлăртасси е кайăк пӳртне сарласси паллă туйăм парать. Çивĕч хатĕрсене кăларса хурăр тата пăхса тăрăр.
+11. **Кĕвĕпе сарласси.** Юратнă кĕвĕ янăратăр тата кăмăла килĕшӳллĕ тĕссемпе формăсем туртăр. Ку икĕ ĕçе пĕрлештерет. [Кĕвĕпе ĕçсем](/activities/music/) пăхăр.
 
-## How do I set up an art session?
+## Ӳнер вăхăтне мĕнле хатĕрлемелле?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Малтан хатĕрлĕр.** Çынна чĕнме ыйтнăччен пурне те касăр, хатĕрлĕр, вырăнне лартăр. Хачă шыраса кĕтсе тăни вăхăта çухатма пултарать.
+2. **Сахалрах тытăр.** Икĕ-виç тĕс, пĕр кисть, пĕр хутăм. Ытла нумай суйлав çына йывăрлатма пултарать.
+3. **Сĕтел хӳтĕлĕр.** Пластик пит е кивĕ чаршау ĕç пача тухсан та пăшăрханусăр тăма пулăшать.
+4. **Пĕр пекенче ларар.** Хăвăн ĕçӳ çинче ун патĕнче ĕçлĕр. Çапла пĕрле ĕçлени пек туйăнать, тĕрĕслени пек мар.
+5. **Пуçлама пулăшăр.** Alzheimer's Association палăртнă тăрăх, чухне кисть хусканăвне пĕрле пуçламалла пулать. Пуçласан, нумай çын малалла ĕçлет.
+6. **Ĕçленĕ чухне калаçăр.** Тĕссемпе туйăмсем çинчен калаçăр е ÿкерчĕке калавсем çине ертсе ярăр. «Ку мĕнле?» пек ыйтусенчен пăрăнăр.
+7. **Вăхăт парăр.** Ĕçе пĕр хутпа вĕçлемелле мар.
 
-## How do I adapt art as dementia changes?
+## Деменци улшăннă чухне ÿнер ĕçне мĕнле йĕркелемелле?
 
-| Stage | What tends to work | What to adjust |
+| Тапхăр | Килĕшекен ĕçсем | Мĕн улшăнмалла |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Малтанхи | Уроксем, тĕплĕ сăрламалли страницăсем, скрапбуксем, открыткасем, сăнӳкерчĕк тăрăх сарласси | Ĕç суйлама парăр; пĕрле ĕçлеме тăрăшăр |
+| Вăтам | Таса каснă коллаж, акварель суламĕсем, чечек йĕркелесси, пысăк вырăнлă сăрлама | Пĕрре-пĕрре; каснипе çыпăçтарнине эсир тăвăр |
+| Юлашки | Сарлакан йĕркесем, глинăна пусасси, пир-авăра тытса пăхасси, эсир сарланине пăхасси | Туйăмсем çине тимлĕ пулăр; килĕшсен алăна çемçе ертсе пырăр |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS сĕннĕ тăрăх, юлашки тапхăрсенче ĕçсем ансатланса, туйăмсем çине тимлĕ пулса тăраççĕ. Тепĕр çын сарланине пăхасси тата тĕссем çинчен калаçасси те хутшăну майĕ. Тапхăрсене кура хатĕрленĕ ытти сĕнӳсем валли [кашни тапхăр валли ĕç-хĕлсем](/activities/ideas/) пăхăр.
 
-## Safety with art supplies
+## Ӳнер материалĕсемпе хăрушлăхсăрлăх
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Сывлăшра усă курма юрăхсăр сарăсем, маркерсемпе клейсем суйлăр.
+- Хачăсене, макет ножне тата ăшă клей приборне çитмен вырăнта тытăр. Касмаллине эсир малтан хатĕрлĕр.
+- Çын глинăна, сарăна е пĕчĕк япаласене çăварне илнине тĕрĕслĕр.
+- Шыв валли тата вазăсем валли йывăр, шăтăксăр савăтсем усă курăр.
 
-## When should we stop?
+## Хăçан чарăнмалла?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Тимлĕх çухалсан е йывăрлăх курăнсан чарăнăр. Alzheimer's Association тимлĕх чаксан е йывăрлăх ÿссен ĕçе вĕçлеме е улăштарма сĕнет. Ĕçе хăрушсăр вырăна хурăр тата лăпкăрах япала сĕнĕр. Ыран та каялла таврăнма пулать, е нихăçан та. Иккĕшĕ те юрăхлă.
 
-## Display the work, if the person wants
+## Ĕçе кăтартăр, çын килĕшсен
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Сарнă ÿкерчĕкне холодильник çине çакни е коллажа рамкăна хурни хисеп кăтартнин лăпкă майĕ. Малтан ыйтăр. Хăш-пĕрисем хăйсен ĕçĕсене стена çинче курма юратаççĕ; ыттисем çапла тумаççĕ.
 
-## Pair art with our games
+## Ӳнере пирĕн вăйăсемпе çыхăнтарăр
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Сарăсем хатĕрлесси йывăр пулсан, [Сăрлама](/games/coloring/) планшет çинче пача пачаксăр ĕçлет. [Сăн ÿкерчĕк пазлĕ](/games/picture-puzzle/) пайăсене куçарнă чухне тулли ÿкерчĕке тĕрĕсленмелле кăтартса тăрать. [Калаçу карточкисем](/games/conversation-cards/) сăнӳкерчĕкрен калав патне ертме пултаракан уçă ыйтусем параççĕ. Вĕсенче вăхăт е очко çук. Пирĕн [пичетлеме юрăхлă ĕçсем](/activities/printable/) пуххинчен страницăсене пичетлеме те пулать.

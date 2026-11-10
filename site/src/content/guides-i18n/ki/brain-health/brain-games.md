@@ -1,33 +1,35 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Maciũkũ ma meciiria na ndwara ya kwaga kũririkana"
+seoTitle: "Maciũkũ ma meciiria: Ũtaũku wonanagia atĩa?"
+description: "Ũtaũku wonanagia atĩa igũrũ rĩa maciũkũ ma meciiria na ndwara ya kwaga kũririkana: kũruta meciiria wĩra, ACTIVE, na ciira wa FTC wa Lumosity."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Gũtirĩ mũciũkũ wa meciiria ũonanĩtio kũgirĩrĩria ndwara ya kwaga kũririkana.
+  Kũruta meciiria wĩra na kombiũta mũno mũno kwongagĩrĩria ũhoti wa mawĩra marĩa
+  andũ merutagĩra. Ũthuthuria ũmwe kuuma kĩrĩ gĩthomo kĩa ACTIVE nĩ wahananirie
+  kũruta wĩra kwa mĩtũkĩ kwa mwanya hamwe na mathomo ma kwongerera na
+  kũnyiihithio kwa andũ arĩa maamenyekire na ndwara ĩyo ihinda rĩa mĩaka 20,
+  ũrĩ woni mũnini. Kũrĩ andũ arĩa matũũraga na ndwara ya kwaga kũririkana,
+  kũruta meciiria wĩra marĩ gĩkundi kuonanagia maumĩrĩra manini ma ihinda
+  inini. Maciũkũ mega nĩ ma gũkenania na gũikarania na andũ.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Mĩthuthuria ya kũruta meciiria wĩra yonanagia atĩ andũ nĩ magĩaga na ũhoti mũingĩ mawĩra-inĩ marĩa merutagĩra, no ũira wa atĩ ũndũ ũcio nĩ ũteithagia maũndũ-inĩ ma o mũthenya nĩ mũnini."
+  - "Thĩinĩ wa gĩthomo kĩa ACTIVE, no arĩa meekire kũruta wĩra kwa mĩtũkĩ kwa mwanya hamwe na mathomo ma kwongerera nĩo maamenyekire na ndwara ya kwaga kũririkana mataarĩ aingĩ ihinda rĩa mĩaka 20. Kũruta wĩra kwa mĩtũkĩ hatarĩ mathomo ma kwongerera, o na kũruta wĩra kwa kũririkana kana kwa gwĩcirĩria, gũtionanirie ũndũ ũyũ."
+  - "Mwaka-inĩ wa 2016, kambuni ya Lumosity nĩ yarĩhire miliyoni 2 cia dora nĩguo ĩtigane na thitango cia FTC atĩ ndĩarĩ na ũtaũku wa gũtiirĩrĩra ciugo ciayo cia gũtindĩrĩria ndwara ya kwaga kũririkana."
+  - "Kũrĩ andũ arĩa matũũraga na ndwara ya kwaga kũririkana ĩtarĩ nene mũno, ikundi cia kũruta meciiria wĩra cionanagia maumĩrĩra manini ma ihinda inini kũrĩ gwĩciria na maumĩrĩra makĩoneka wega kũrĩ kwaria na gũkũyũkana na andũ."
+  - "Maciũkũ ma Golden Moments nĩ ma gũkenania na gũikarania ihinda hamwe. Ti ũrigitani, na matingĩgirĩrĩria kana gũtindĩrĩria ndwara ya kwaga kũririkana."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Hihi maciũkũ ma meciiria nĩ magiragĩrĩria ndwara ya Alzheimer?"
+    a: "Gũtirĩ mũciũkũ wa meciiria ũonanĩtio kũgirĩrĩria ndwara ya Alzheimer kana ndwara ingĩ cia kwaga kũririkana. National Institute on Aging yugaga atĩ gũtirĩ ũira wa kũigana wonanagia atĩ mapurogiramu ma kũruta meciiria wĩra marĩa mendagio marĩ na maumĩrĩra ta marĩa monirwo mĩthuthuria-inĩ ya ũtaũku. No rĩrĩ, maciũkũ no makorwo marĩ njĩra njega ya gũtũmĩra ihinda."
+  - q: "Gĩthomo kĩa ACTIVE kĩonanirie atĩa igũrũ rĩa kũruta wĩra kwa mĩtũkĩ na ndwara ya kwaga kũririkana?"
+    a: "Ũthuthuria wa 2026 nĩ wahananirie andũ arĩa maanyiitanĩire gĩthomo-inĩ kĩa ACTIVE na marekodi ma Medicare ihinda rĩa mĩaka 20. Andũ arĩa meekire kũruta wĩra kwa mĩtũkĩ na magĩĩka ithomo rĩmwe kana makĩria ma kwongerera maarĩ na mũigana mũnini wa ndwara ya kwaga kũririkana ĩmenyekete gũkĩra gĩkundi kĩrĩa gĩtaarutirwo wĩra. Kũruta wĩra kwa mĩtũkĩ hatarĩ mathomo ma kwongerera, o na kũruta wĩra kwa kũririkana kana kwa gwĩcirĩria, gũtionanirie ũgarũrũku ũrĩa ũkĩoneka."
+  - q: "Hihi maciũkũ na mathaithai nĩ mega kũrĩ mũndũ ũrĩa ũtũũraga na ndwara ya kwaga kũririkana?"
+    a: "No makorwo mega, angĩkorwo mũndũ ũcio nĩ amakenagĩra. Kũruta meciiria wĩra marĩ gĩkundi, kũrĩa kũbatanagia maciũkũ ma ciugo, mathaithai, nyĩmbo na mĩario, kuonanagia maumĩrĩra manini ma ihinda inini kũrĩ gwĩciria na maumĩrĩra makĩoneka wega kũrĩ kwaria na gũkũyũkana na andũ. Kũkena nĩkuo kũagĩrĩirwo nĩ gũtuĩka muoroto, ti moimĩrĩra ma kĩgerio."
+  - q: "Nĩkĩ Lumosity yaarĩhĩirio nĩ FTC?"
+    a: "Mwaka-inĩ wa 2016 Federal Trade Commission nĩ yathitangire atĩ Lumos Labs nĩ yaarĩtie ciugo igũrũ rĩa maciũkũ mayo, hamwe na gũtindĩrĩria gũkua kwa meciiria tondũ wa ũkũrũ na ndwara ya kwaga kũririkana, ĩtarĩ na ũtaũku wa kũcihaanĩria. Kambuni ĩyo nĩ yetĩkĩrire kũrĩha milioni 2 cia dora na gũkorwo na ũira wa ũtaũku mũrũmu mbere ya kwaria ciugo ta icio rĩngĩ."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +60,93 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Maciũkũ ma meciiria nĩ maingĩ kũndũ guothe, na maingĩ nĩ meranagĩria gũtũma meciiria maikarage merũ. Angĩkorwo nĩ ũroraga mũndũ ũrĩa ũtũũraga na ndwara ya kwaga kũririkana, kana ũkĩigua ũgwĩtigĩra ũhoro wa kũririkana gwaku, nĩ maũndũ ma ndũire kwĩyũria kana kũmathaithia no gũteithie. Haha nĩho harĩ ũrĩa ũtaũku wonanagia kũna, hamwe na maũndũ marĩa mekĩrĩtwo hinya na marĩa matarĩ.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Maya nĩ ũhoro wa kũmenyithia, ti mataaro ma ndagĩtarĩ. Rora [kĩmenyithia giitũ gĩa ũrigitani wa ndagĩtarĩ](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Hihi maciũkũ ma meciiria nĩ magiragĩrĩria ndwara ya kwaga kũririkana?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Gũtirĩ mũciũkũ wa meciiria ũonanĩtio kũgirĩrĩria ndwara ya kwaga kũririkana. National Institute on Aging (NIA) ĩtaaraga andũ makorwo mehaarĩirie na ciugo iria ciugaga atĩ maciũkũ ma kombiũta na ma intaneti no mongerere ũhoti wa kũririkana, na ĩkoiga atĩ gũtirĩ ũira wa kũigana wonanagia atĩ harĩ purogiramu o na ĩrĩkũ ya kũruta meciiria wĩra ĩrĩa ĩendagio ĩrĩ na maumĩrĩra ta marĩa mageririo mĩthuthuria-inĩ ya ũtaũku ([NIA igũrũ rĩa kũgirĩrĩria ndwara ya Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Ũndũ ũcio ti kuuga atĩ maciũkũ matirĩ bata. Ũrĩa ũkuuga no atĩ bata wamo ũrĩ gũkenanio-inĩ, gũikaranio-inĩ na andũ, na mũtugo-inĩ, ti kũgitĩra mũndũ o na ũrĩkũ ndwara ya kwaga kũririkana.
 
-## What is "near transfer", and why does it matter?
+## „Near transfer” nĩ kĩĩ, na nĩkĩ ĩrĩ bata?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Rĩrĩa werutagĩra wĩra wa mũthemba mũna, kaingĩ nĩ wongagĩrĩria ũhoti waku wĩra-inĩ ũcio. Athuthuria metaga ũndũ ũyũ maumĩrĩra ma kwĩruta. Kĩũria kĩrĩa kĩrũmu makĩria nĩ kana kwongererwo kũu **nĩ gũtambagio** kũrĩ maũndũ mangĩ: kũrĩ mawĩra mahaanaine (near transfer) kana kũrĩ maũndũ ma o mũthenya, ta kũririkana mahinda ma kũonana na ndagĩtarĩ kana kũrũgamĩrĩra mbeca (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Ũthuthuria mũnene wa mwaka wa 2016 nĩ wathuthuririe mĩthuthuria ĩrĩa kambuni cia kũruta meciiria wĩra ciataũkagia ta ũira wao mwega mũno. Nĩ wonire ũira mũingĩ atĩ andũ nĩ mongagĩrĩria ũhoti mawĩra-inĩ marĩa merutagĩra, ũira mũnini atĩ nĩ mongagĩrĩria ũhoti mawĩra-inĩ marĩa mahaanaine, na ũira mũnini mũno atĩ kwĩruta kũu nĩ kwongagĩrĩria gwĩciria kwa o mũthenya. Mĩthuthuria mĩingĩ ningĩ nĩ yarĩ na mathĩna ma mũbango marĩa maatũmire itũũrwo itua iria ikinyĩte
+([Simons na arĩa angĩ, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Ũthuthuria wa mĩthuthuria yugaga atĩa igũrũ rĩa kũruta meciiria wĩra na kombiũta?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Mĩthuthuria ya Cochrane, ĩrĩa ĩcookanagĩrĩria magerio marĩa mega mũno marĩ kuo, nĩ ĩthuthurĩtie kũruta wĩra na kombiũta gwa ihinda rĩa ciumia 12 kana makĩria:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Andũ agima arĩa marĩ na mĩaka 65 na makĩria:** magerio 8 marĩ na andũ 1,183. Ūira warĩ wa mũthemba wa rungu kana wa rungu mũno. No gũkorwo kũrĩ na uumithio mũnini o ihinda-inĩ rĩu thuutha wa kwĩruta, na gũtirĩ ũira mũkinyanĩru wonanagia atĩ nĩ ũikaraga ihinda iraaya
+  ([Ũthuthuria wa Cochrane, andũ akũrũ agima](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Andũ arĩa marĩ na thĩna mũnini wa gwĩciria:** magerio 8 marĩ na andũ 660. Gũtirĩ kĩgerio kĩandĩkire kana andũ nĩ maathiire na mbere magĩa na ndwara ya kwaga kũririkana, na ũira warĩ mũnini mũno wa gũtũma itũũrwo itua
+  ([Ũthuthuria wa Cochrane, thĩna mũnini wa gwĩciria](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Gĩthomo kĩa ACTIVE kĩonanirie atĩa?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE nĩ gĩthomo kĩnene kĩa US kĩambĩrĩirie mwaka-inĩ wa 1998 kĩrĩ na andũ akũrũ 2,802 arĩa maarĩ na mĩaka 65 na makĩria, maatũũraga meyathimaga na matiarĩ na mathĩna manene ma kũririkana kana ma gwĩciria. Andũ nĩ maagayirwo na njĩra ya mũtũmbe kũrĩ ũmwe wa mĩthemba ĩtatũ ya kwĩrutwo marĩ ikundi nini (mĩtũkĩ ya gũtaũkĩrwo nĩ maũndũ, kũririkana, kana gwĩcirĩria) kana gĩkundi kĩrĩa gĩtaarutirwo wĩra. Kwĩruta kwarĩ na mathomo nginya ikũmi ihinda rĩa ciumia ithano nginya ithathatũ. Andũ amwe arĩa maarĩkirie mathomo maingĩ ma mbere ningĩ nĩ maheetwo mweke wa gũthoma **mathomo ma kwongerera** ta thuutha wa mwaka ũmwe na ĩtatũ.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Kũruta wĩra kwa mĩtũkĩ kwarĩ na kuona na gũtaũkĩrwo nĩ ũhoro wa maũndũ marĩa monekaga ihinda inini mũno mũno, mũthemba ũrĩa wagarũragwo o ta ũrĩa andũ maathiaga na mbere.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Mwaka-inĩ wa 2026, athuthuria nĩ mahananirie andũ 2,021 arĩa maanyiitanĩire na marekodi mao ma Medicare ihinda rĩa mĩaka 20 ([Ũthuthuria wa ACTIVE wa mĩaka 20](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Maya nĩmo moimĩrĩra marĩa moonire o kũna:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Kũruta wĩra kwa mĩtũkĩ hamwe na ithomo rĩmwe kana makĩria ma kwongerera:** mũigana mũnini wa ndwara ya kwaga kũririkana ĩmenyekete gũkĩra gĩkundi kĩrĩa gĩtaarutirwo wĩra (hazard ratio ya 0.75, ũrĩa ũkuuga ta mũigana mũnini na gĩcunjĩ kĩa 25%).
+- **Kũruta wĩra kwa mĩtũkĩ hatarĩ mathomo ma kwongerera:** gũtirĩ kũnyiihithio kwa mũigana.
+- **Kũruta wĩra kwa kũririkana kana kwa gwĩcirĩria:** gũtirĩ ũgarũrũku ũrĩa ũkĩoneka kũrĩ mũigana wa andũ arĩa maamenyekire na ndwara ĩyo.
+- **O gĩkundi o gĩothe kĩa kwĩrutwo gĩkĩringithanio na gĩkundi kĩrĩa gĩtaarutirwo wĩra:** kwarĩ na mwerekera wa mĩigana mĩnini, no ndwarĩ ũkinyanĩru wa tarakimu.
 
-### The limits of this finding
+### Mĩhaka ya woni ũyũ
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Ũkoniĩ **mũthemba ũmwe mwanya wa kũruta wĩra kwa mĩtũkĩ ũrĩa ũtongoragio hamwe na mathomo ma kwongerera**, ti maciũkũ mothe ma meciiria.
+- Moimĩrĩra marĩa marĩ ũkinyanĩru moimire **gĩkundi-inĩ kĩnini** (andũ arĩa maarĩkirie mathomo maingĩ ma mbere na makĩheo mweke wa kwongerera), ti kuuma kũrĩ gĩkundi gĩothe kĩa mĩtũkĩ.
+- Ndwara ya kwaga kũririkana yathimĩirwo na **kũhũthĩra macodi ma ũmenyeki marĩa marĩ marekodi-inĩ ma Medicare**, ti na gũthuthuria o mũndũ o mũndũ. Ta gĩcunjĩ kĩa inya kĩa andũ arĩa maambĩrĩirie gĩthomo gĩtiarĩirio tondũ maarĩ Medicare Advantage, ĩrĩa ĩtarĩ na marekodi mothe ma ciugo.
+- Andũ arĩa maanyiitanĩire matiarĩ na mathĩna manene ma gwĩciria rĩrĩa maambĩrĩirie. Moimĩrĩra maya matirĩ ũhoro ũkoniĩ maciũkũ kũrĩ andũ arĩa **matũũraga na ndwara ya kwaga kũririkana rĩu**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Nĩ woni ũrĩ bata wa gũthuthurio makĩria. Ti ũira wa atĩ purogiramu o na ĩrĩkũ nĩ ĩgiragĩrĩria ndwara ya kwaga kũririkana.
 
-## What did the FTC say about Lumosity?
+## FTC yoigire atĩa igũrũ rĩa Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Mweri wa Mũgwanja 2016, Lumos Labs, kambuni ĩrĩa ĩthondekaga Lumosity, nĩ yetĩkĩrire kũrĩha milioni 2 cia dora nĩguo ĩtigane na thitango cia Federal Trade Commission cia kũheenania na matangazo. FTC yoigire atĩ kambuni ĩyo nĩ yaarĩtie ciugo, ĩtarĩ na ũtaũku wa kũigana, atĩ maciũkũ mayo no mongerere wĩra mwega wĩra-inĩ na cukuru-inĩ na no matindĩrĩrie gũkua kwa meciiria tondũ wa ũkũrũ, thĩna mũnini wa gwĩciria, ndwara ya kwaga kũririkana na ndwara ya Alzheimer. Watho ũcio wendaga kambuni ĩkorwo na ũira wa ũtaũku mũrũmu na wa kwĩhokeka mbere ya kwaria ciugo ta icio rĩngĩ ([Ũhoro wa FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Ũrutani kũrĩ ciana cia mũciĩ: koragwo na nganja igũrũ rĩa mũciũkũ, purogiramu kana mũbango o wothe ũrĩa wĩranagĩria kũgitĩra kũririkana kana kũgirĩrĩria ndwara ya kwaga kũririkana.
 
-## Can games help someone who already has dementia?
+## Hihi maciũkũ no mateithie mũndũ ũrĩa ũtũũraga na ndwara ya kwaga kũririkana?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+No mongerere maũndũ mega mũthenya-inĩ mwega, na ũndũ ũcio nĩ wa bata mũno. Njĩra ĩrĩa ĩthuthurĩtio mũno nĩ **kũruta meciiria wĩra** (cognitive stimulation): maũndũ ma gĩkundi marĩa makenagia ta mĩario, kũririkana maũndũ ma tene, maciũkũ ma ciugo, mathaithai na nyĩmbo, kaingĩ marĩ gĩkundi kĩnini gĩtongoretio nĩ mũndũ ũmwe.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Ũthuthuria wa 2023 wa Cochrane wa magerio 37 marĩ na andũ 2,766 arĩa maatũũraga na ndwara ya kwaga kũririkana ĩtarĩ nene mũno nĩ wonire
+([Ũthuthuria wa Cochrane wa kũruta meciũkũ wĩra](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **uumithio mũnini wa ihinda inini** kũgerio-inĩ cia gwĩciria (ũira wa mũthemba wa gatagatĩ);
+- **kwongererwo kũrĩa kũoneka kũrĩ kwaria na gũkũyũkana na andũ** (ũira wa mũthemba wa igũrũ, kuuma mĩthuthuria-inĩ mĩnini);
+- **uumithio mũnini** kũrĩ mũtũũrĩre mwega, ngoro, na mĩtugo.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Uumithio wathimĩirwo mũno mũno o thuutha wa mĩbango ya ta ciumia ikũmi, na mĩthuthuria mĩnini nĩyo yarorire kana nĩ waikarire. Kũruta meciiria wĩra nĩ mũbango wa gĩkundi ũrĩa ũbangĩtwo, nĩ ũndũ ũcio moimĩrĩra maya matingĩhũthĩka o rĩmwe kũrĩ mũndũ ũrĩa ũrathaithagia mũciũkũ wiki ihinda-inĩ rĩa kĩbaũ.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
+Ripotĩ ya 2024 ya Lancet Commission ningĩ yugaga atĩ mĩbango ya maũndũ ma gwĩka nĩ ya bata kũrĩ andũ arĩa matũũraga na ndwara ya kwaga kũririkana, nĩguo matũũrie gĩkeno na muoroto
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Maciũkũ marĩ na bata kũrĩ kĩĩ kũna?
 
-When chosen well, games can offer:
+Maciũkũ mathuurĩtwo wega no mahe:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Gĩkeno.** Nuthu ya thaa ĩrĩa njagĩrĩru nĩ ya bata nĩ ũndũ wa yo mwene.
+- **Kũnyiitanĩra.** Kũthaithia mũrĩ hamwe nĩ kũheanaga ũndũ ũhũthũ wa kũgayana rĩrĩa kwaria kũrĩ hinya. Rora [ũrĩa mũngĩthaithia hamwe](/caregiving/how-to-play-together/).
+- **Mũtugo.** Ũndũ wa gwĩka ũrĩa mũmenyereire ihinda o rĩmwe o mũthenya no ũrehere ũhooreri.
+- **Kwĩĩhokera.** Maũndũ ma gwĩka marĩa maigananĩtio na ũrĩa mũndũ no ahote gwĩka wega nĩ matũmaga eigue ahotete, ti ta mũndũ ũragerio.
+- **Mĩario.** Mbica kana mũhĩnga ũrĩa ũmenyereirwo no ĩhingũre rũgano. Geria [makarita ma mĩario](/games/conversation-cards/) kana [rĩkia mũhĩnga](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Maũndũ ma gwĩthemba: mathaa ma gũthima ihinda, amanoti, mĩtaratara ya kũrũmanĩrĩra, na kĩndũ o gĩothe kĩrĩa kĩhaana ta kĩgerio kĩa kũririkana. Mũndũ angĩigua arakarĩtio, tigai. Kũrĩkia tene, kana o gũikara hamwe, nĩ moimĩrĩra mega. Kĩonereria giitũ kĩa [gũthuura mapurogiramu na maciũkũ](/caregiving/choosing-apps-and-games/) kĩrĩ na mũtaratara wa maũndũ ma kũrora.
 
-## Where Golden Moments fits
+## Golden Moments ĩikaraga ha?
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Maciũkũ ma Golden Moments, ta [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) na [kũgũetha ciugo na ndemwa nene](/games/word-search/), mathondeketwo nĩ ũndũ wa gũkenania na gũikarania ihinda hamwe. Matirĩ thaa wa gũthima ihinda na matirĩ amanoti. **Ti** ũrigitani, na **matingĩ**girĩrĩria kana gũtindĩrĩria ndwara ya kwaga kũririkana. Nĩ tũkwenda kũmwĩra ũguo hatarĩ kũhitha handũ ha kwĩranĩra ũndũ ũrĩa mũciũkũ ũtangĩhota kũhingia.
 
-## Talk with a doctor
+## Aria na ndagĩtarĩ
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Ũngĩkorwo nĩ ũretigĩra ũgarũrũku wa kũririkana harĩ wee mwene kana harĩ mũndũ ũrĩa ũroraga, thiĩ kũrĩ ndagĩtarĩ handũ ha kwĩhoka purogiramu. Ndagĩtarĩ no arore ciitĩki iria ingĩhonio na kwaria ũhoro wa makinya marĩa marĩ na ũira mwega mũno, ta kũrũgamĩrĩra thitima wa thakame na gũthuthuria ũhoti wa kũigua. Rora [Hihi ndwara ya kwaga kũririkana no ĩgirĩrĩrio?](/brain-health/can-dementia-be-prevented/) nĩguo ũmenye makĩria. Harĩ kũrigwo nĩ meciiria o narua kana magarũrũku mangĩ ma narua, caria ũteithio wa ndagĩtarĩ o narua; hũra thimũ 999 kana 112.

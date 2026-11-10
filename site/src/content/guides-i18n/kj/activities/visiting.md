@@ -1,34 +1,30 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Okutalela po omunhu ta kala nokudimbwa"
+seoTitle: "Okutalela po omunhu ta kala nokudimbwa: Nhumbi to ningi"
+description: "Osho to ningi ngeenge to talele po omunhu ta kala nokudimbwa: osho to eta, oilonga ilula nosho to lekele nawa."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Ngeenge to talele po omunhu ta kala nokudimbwa keumbo lovakulunhu ile koshipangelo, kaleka oinima i li paunafangwa: mu popifa nedina laye eshi to fiki, eta sha mu dule okukala tamu longifa pamwe ngaashi omafano, omusika ile oushilo oo a hokwa, ndele tamu longo oshinima shimwe shipu pamwe. Omatalelepo maxupi taa ningwa luhapu ohaa kala mawa e dule omafimbo male taa ningwa omalupita. Lilongekidila okulekela nombili opo okudja po ku kale kupu kunye amushe.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Popifa omunhu nedina laye ndele to lombwele kutya oove lyelye, opo aha kendabale okushiiva: „Meme, aame Susan, okamonakadona koye.“"
+  - "Eta oshinima shimwe ile ivali mu dule okukala tamu longifa pamwe, ngaashi embo lomafano, omusika oyo a hokwa, oshiyata shongaho ile oushilo oo ovafilishisho va pitika."
+  - "Omatalelepo maxupi taa ningwa luhapu ohaa kala mawa e dule omafimbo male taa ningwa omalupita. Okukala po kwoye okwa fimana shi dulife osho to popi."
+  - "Moshipangelo, pa ovafilishisho epandja limwe li na ouyelele womunhu oo, ndele lombwela ndokotola diva ngeenge pa holoka elunduluko la kwata moiti."
+  - "Lilongekidila okudja po kwoye: tya kutya oto kala ko efimbo li fike peni, longifa ondjovo yelaleko ya faafana efimbo keshe, ndele to di po ino ongaonga."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Oshike ndi na okweeta ngeenge handi talele po omunhu ta kala nokudimbwa?"
+    a: "Eta sha mu dule okukala tamu longifa pamwe, shihe fi sha okupopya kombinga yasho ashike. Embo lomafano linini, omusholondodo womaimbilo oo a hokwa, oshiyata shongaho, omaadi okulola omake, oshifo shi na sha noinima oyo a li e hole nale, ile oushilo oo ovafilishisho va pitika, aishe otai longo nawa. Keumbo lovakulunhu, omafano oukwaneumbo noinima oyo a ikilila otai dulu yo okuninga onduda i kale ya fa eumbo."
+  - q: "Ondi na okukala ko efimbo li fike peni ngeenge handi talele po omunhu ta kala nokudimbwa?"
+    a: "Kapu na efimbo la puka ile la yuka. Omaumbo mahapu ohaa mono kutya omatalelepo maxupi taa ningwa luhapu ohaa longo nawa e dule omafimbo male taa ningwa omalupita, molwaashi omunhu ota dulu okuloloka diva nota dulu okuha dimbuluka kutya owa kala ko efimbo li fike peni. Tala omadidiliko okololoko ndele to di po ofimbo etalelopo natango tali kala liwa."
+  - q: "Ohandi ti shike ngeenge ta pula okuya keumbo?"
+    a: "Nyamukula komaliudo, ha koitya. „Onda hala okuya keumbo“ luhapu otashi ti „Inandi manguluka ile inandi udite nda amenwa.“ Kendabala okutya, „Lombwele nge kombinga yeumbo leni,“ taleni omafano pamwe, ile mu pe epataneko lokweenda ile oushilo. Okukondjifa ile okuyelifa kutya omolwashike ita dulu okuya otashi dulu okweta oupyakadi muhapu."
+  - q: "Ngeenge ita dimbuluka nge?"
+    a: "Otashi dulu okuudifa nai, ashike kendabala ino mu yukifa ile to pula „Ku shi nge?“ Liyelifa nombili nopaunafangwa, ndele tamu hafele efimbo pamwe. Ovanhu vahapu natango ohava hafele okukala pamwe novanhu nokumona oufyuululwakalo wetalelopo nonande itava dimbuluka kutya oove lyelye."
+  - q: "Ohandi dulu okukwafa ngahelipi pefimbo lokukala moshipangelo?"
+    a: "Kala pamwe nomunhu ngeenge to dulu, mu kwafa okulya nokunwa, ndele eta oinima oyo a ikilila ngaashi omafano. Pa ovafilishisho epandja li na onghedi yaye yakeshe efiku, edina olo a hokwa, osho a hokwa, osho ehe hole nomadidiliko ouyahame. Lombwela ndokotola diva ngeenge omunhu ta monika a naipala ile a lunduluka ombadilila, molwaashi edimbakano la kwata moiti otali dulu okuulika oupyakadi wopaunamiti."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Okutalela po omunhu oo u hole keumbo lovakulunhu, keumbo lovapofi ile koshipangelo otashi dulu okueta omaliudo mahapu. Otashi dulika u lipule kutya oto popi shike, oto eta shike, ile ngeenge etalelopo otali kwafa ngoo nonande ke shi ku dimbuluka. Otali kwafa shili. National Institute on Aging oya ti kutya ovanhu tava kala nokudimbwa [luhapu ohava hafele okukala pamwe novanhu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nonande itava dimbuluka kutya omutalelipo oye lyelye. Epandja eli otali yandje omayele taa longo ofimbo ino ya, pefimbo letalelopo nokonima, pamwe nomayele e likalekelwa omolwokukala moshipangelo.
 
-## How do I get ready for a visit?
+## Ohandi lilongekida ngahelipi etalelopo?
 
-A little planning makes the visit easier for both of you.
+Okulilongekida kanini otaku ningi etalelopo li kale lipu kunye amushe.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Hoolola efimbo liwa.** Dementia Australia otai kumagida okutalela po omunhu pefimbo olo ha kala a penduka nawa, olo luhapu meengula ile pokati komutenya. Family Caregiver Alliance otai kumagida okulihonga ondungedililo yeumbo olo nokutalela po pefimbo [lihe na oilonga ikwao](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Pula ovafilishisho.** Pula kutya omunhu okwa kala ngahelipi nena, ndele to konakona omilandu di na sha noikulya, oinamwenyo ile okudja mo.
+- **Longekida okandjato kanini ketalelopo.** Oshinima shimwe ile ivali mu dule okukala tamu longifa pamwe osha wana (tala omusholondodo u li pedu).
+- **Diladila oinima yokupopya.** Omunhu otashi dulika aha kale e na eenghundana, onghee eta doye mwene: eenghundana doukwaneumbo, onghalo yomhepo, oudanau ile ehokololo liwa.
+- **Litulila po omateelelo opandjele.** Omatalelepo amwe otaa kala mawa nomupopyo muhapu. Amwe otaa kala a mwena ile madjuu. Aeshe aa okwa yuka.
 
-## What should I bring?
+## Ohandi eta shike?
 
-Bring things to share, not things that test. Good choices include:
+Eta oinima mu dule okukala tamu longifa pamwe, ha oinima tai yeleke. Oinima iwa oi li ngaashi:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Embo lomafano linini** li na omafano manene a yela. Shanga oitya konima yao opo ovafilishisho va kwafwe.
+- **Omusholondodo womaimbilo** oo a hokwa kongodi, pamwe noukwatwa womomakutsi u li paunafangwa ile okaspika kanini.
+- **Sha shongaho okukwata,** ngaashi oshiyata, okashali ile ohema oyo a ikilila.
+- **Omaadi okulola omake** okulola omake nombili, ngeenge omunhu oku hole okukumwafwa.
+- **Oshifo ile embo lomafano** li na sha noinima oyo a li e hole nale, ngaashi okulonga moshikunino, eehauto, eedila ile okuteleka.
+- **Oushilo oo a hokwa,** ngeenge ovafilishisho tava ti owa amenwa.
+- **Oinima oyo a ikilila monduda.** Family Caregiver Alliance otai kumagida eengala, oimeno, omafano oukwaneumbo noilonga yoiketi, ile epandja linene li na omafano oukwaneumbo onale.
+- **Okatableta,** okutala omafano oukwaneumbo ile okudanau pamwe oudano u li paunafangwa.
 
-## What can we do together during a visit?
+## Oshike hatu dulu okulonga pamwe pefimbo letalelopo?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Okulonga sha pamwe ohashi kufa po omutengi wokupopya. Dementia Australia otai kumagida okutala omafano, oshilonga shipu shomake, okutwika ouimeno, omusika, okulya sha pamwe, ile okweenda kanini. Omatomheno amwe vali:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Taleni omafano.** Ulika osho to mono: „Tala ehutukulwa olo.“ „Efuta eli ola fa liwa.“ Efa omunhu a wilike. Henuka epulo „Olyelye ou?“
+2. **Dana omusika ndele tamu imbi.** Omaimbilo oo a ikilila otaa dulu okuhafifa nokweeta efimbo liwa pamwe, nonande okupopya okudjuu.
+3. **Endeni kanini.** Family Caregiver Alliance otai kumagida okweenda meumbo olo, unene moshikunino ngeenge shi li po. Okweendwa noshitutuma shovakulupe osha wana yo.
+4. **Lola omake.** Omaadi manini nokulola omake kanini otashi dulu okungungumaneka.
+5. **Kwafa mokuliwapeka.** Dementia Australia otai popi kombinga yokukomba eexwiki, okuvava eenghaku ile okukwafa omunhu a djale oikutu oyo a hokwa, ngeenge oku shi hole.
+6. **Daneni oudano u li paunafangwa.** Family Caregiver Alliance otai kumagida oukalata, oodomino, ile keshe osho omunhu a li ha danau nale. Kokatableta, [Picture Pairs](/games/picture-pairs/) otau dulu okudanwa nomafano a kala e li puyelele nopehe na efimbo la tulwa po. [Photo Pairs](/games/photo-pairs/) ohau ningi omafano oo wa hoolola oudano wokufaafana, nomafano ohaa kala moshikongifo shoye shokutalela.
+7. **Taleni sha pamwe.** Family Caregiver Alliance otai kumagida oufilima vai yoleka noufilima vonale. Nonande omunhu ita dulu okulandula ehokololo, otamu dulu okukala popepi nokukala efimbo pamwe.
+8. **Lesha mokule.** Okatevo kaxupi, okatukulwa oko a hokwa, ile onhumwafo ya dja komunhu moukwaneumbo.
+9. **Kaleni omutumba pamwe ashike.** Okukwata omake ile okukala omutumba nombili nayo etalelopo lashili. Alzheimer's Association otai ti oshi li nawa ngeenge ku shi shike to popi, nokukala po kwoye oko kwa fimanenena.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) otai dulu okukwafa ngeenge wa pwa oinima yokupopya. Okakalata keshe oke na efano nepulo la manguluka.
 
-## How should I talk during the visit?
+## Ohandi popi ngahelipi pefimbo letalelopo?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Liyelifa efimbo keshe.** „Tate, aame Mark, omonamati woye.“ NIA otai kumagida ovatalelipo va liyelife pauxupi va tameke eenghundafana.
+- **Ehena komesho** ndele to kala omutumba u li pefimbo laye lomesho.
+- **Ino yukifa ile okukondjifa.** NIA otai lombwele ovatalelipo vaha yukife omunhu ngeenge a ninga epuko ile a dimbwa sha.
+- **Kala nomutima mule** ngeenge oitya tadi mu nyenge. Mu pa efimbo la wana.
+- **Nyamukula komaliudo.** Ngeenge omunhu ta monika a nyika oluhodi ile a limbililwa, shi tambula ko ofimbo ino lundulula oshipalanyole.
+- **Henuka omapulo taa yeleke** ngaashi „Oto dimbuluka nge?“ ile „Owa li wa lya shike komutenya?“
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Tala [omayele okupopya](/caregiving/communication-tips/) u mone ouyelele muhapu.
 
-## What do I do when they say "I want to go home"?
+## Ohandi ningi shike ngeenge ta ti „Onda hala okuya keumbo“?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Nyamukula komaliudo oo e li konima yoitya (ewiliko letu li na sha [nokupula luhapu okuya keumbo](/caregiving/asking-to-go-home/) otali yelifa shihapu). Family Caregiver Alliance otai yelifa kutya „Onda hala okuya keumbo“ luhapu otashi ti „Inandi manguluka,“ ndele tai kumagida omanyamukulo ngaashi „Lombwele nge kombinga yeumbo leni“ ile „Oshike u hole unene keumbo?“ Dementia Australia otai weda ko kutya „eumbo“ otali dulu okutya efimbo ile onhele opo omunhu a li e udite a amenwa, ngaashi mounona.
 
-Try:
+Kendabala:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- okutambula ko omaliudo: „Oshi li ngaha wa fa wa djuulukwa eumbo.“
+- okuyandja ehekeleko okupitila mokukumwafa, ngeenge okwe shi tambula ko
+- okutala omafano ile okupopya kombinga yeumbo loukwaneumbo
+- okuyandja epataneko lokweenda, okunwa ile oushilo
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Henuka okukondjifa ile okuyelifa kutya omolwashike ita dulu okuya. Hasho hashi kwafa luhapu, nohashi eta oupyakadi muhapu.
 
-## How long should a visit be?
+## Etalelopo oli na okukala lile shi fike peni?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Omaxupi taa ningwa luhapu ohaa longo nawa. Family Caregiver Alliance otai ti kutya omunhu luhapu iha dimbuluka ngeenge owa kala ko oule weeminute nhano ile eevili nhano, ndele tai kumagida kutya omatalelepo atatu maxupi moshivike otaa dulu okukala mawa e dule limwe lile. Dementia Australia otai ti kutya kape na omuvalu wa yuka ile efimbo la yuka.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Moivike yotete konima eshi omunhu a tembukila keumbo lovakulunhu, Family Caregiver Alliance otai kumagida okutalela po luhapu, ndele to ende to ya monghedi ya yuka. Pula ovafilishisho kutya otava mono shike.
 
-## How do I leave without upsetting them?
+## Ohandi di po ngahelipi ndihe mu nyematife?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Okudja po otaku dulu okukala oshinima shidjuu unene. Dementia Australia otai kumagida:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Tya kutya oto kala ko efimbo li fike peni eshi to fiki.** „Ohandi dulu okukala ko oule wevili limwe, opo nee handi i kokangeshefa.“
+- **Longifa oshilonga shi li po ngaashi exulifo la yuka.** „Ngeenge twa mane eimbilo eli, ohandi di po.“
+- **Yukifa efimbo netifokulya ile oshilonga shimwe,** ile pula ovafilishisho va kwafe omunhu a ye moshinima shikwao.
+- **Kaleka elaleko lixupi nola faafana efimbo keshe.** Okukala po efimbo lile, okupula ombili ile okukala „okafimbo kanini natango“ otashi dulu okuninga omalaleko omonakwiiwa a kale madjuu.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Konima eshi wa di po, oshi li paunafangwa okuudifa oluhodi. Litulila po efimbo lokupumula. Ngeenge omunhu okwa li a nyemata, ovafilishisho luhapu ohava dulu oku mu kwafa a ngungumane diva konima.
 
-## Visiting someone with dementia in the hospital
+## Okutalela po omunhu ta kala nokudimbwa moshipangelo
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Oshipangelo oshi na omuungo, oshinima shipe novanhu vahapu vehe shiivike, osho tashi dulu okukala shidjuu unene komunhu ta kala nokudimbwa. Ewiliko la NIA li na sha [nokutwala omunhu ta kala nokudimbwa koshipangelo](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) otali kumagida:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Kala u na omunhu pamwe naye** efimbo alishe ngaashi tashi dulika: oshilyo shoukwaneumbo, kaume e lineekelwa ile omufilishisho a futwa.
+- **Pa ovafilishisho epandja louyelele womunhu** li na onghedi yaye yakeshe efiku, edina olo a hokwa, osho a hokwa, osho ehe hole, oinima tai mu udifa nai, nomadidiliko ouyahame ehe li melaka. Tula eekopi monduda nopoipundi yovapangi.
+- **Kwafa mokulya nokunwa.** Ovakulunhu otava dulu okuha kala ve na eendja da wana moshipangelo. Patulula oikwatelwa, kwafa pefimbo lokulya, lyeni pamwe, ndele to mu pe sha okunwa.
+- **Eta oinima tai hekeleke** ngaashi omafano ile oinima yopalongelokalunga.
+- **Shunifa omuungo pedu.** Dima o-TV ndele to shunifa omuungo wongodi nosho yo womalombwelo pedu.
+- **Kendabala oinima tai ngungumaneke,** ngaashi omusika tai ngungumaneke, okulesha, okwiilikana, okwiimba ile okutala omafano onale.
+- **Twa omukumo okweendaenda** ngaashi tashi dulika notashi amenwa, nomapitikilo ovafilishisho.
+- **Lombwela ndokotola diva ngeenge omunhu ta monika a naipala ile a lunduluka ombadilila.** NIA otai yelifa kutya edimbakano la kwata moiti, hali ifanwa delirium, otali dulu okweetwa komaupyakadi ngaashi omukifi, ombadu, okuhe na omeva a wana ile oilanduliko yoiti, notali pumbwa ekwafo lopaunamiti.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Etalelopo lixupi nombili pamwe noshipala sha ikililwa neimbilo olo a hokwa otali dulu okukala oshinima tashi hekeleke unene mefiku loshipangelo.
 
-## Bringing children on a visit
+## Okweeta ounona ketalelopo
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Ounona otava dulu okweeta oufyuululwakalo muhapu. Va longekidila komesho noitya ilula noyoshili, kaleka etalelopo lixupi, ndele to va pe oshilonga, ngaashi okuulika efano va faneka ile okuyandja efano. NIA otai ti kutya ounona novanhu tava kala nokudimbwa otava dulu okuhafela oilonga ilula pamwe, ngaashi okutala embo lomafano ile okupwilikina komusika. Dementia Australia otai kumagida okulongekida okandjato kanini ke na oinima iwa ile oinima ya mwena opo ounona vanini va kale ve lipyakidila.
 
-## Take care of yourself too
+## Lihumbata yo nawa ove mwene
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Okutalela po otaku dulu okulolifa nokuninga omunhu a kale e udite oudjuu pamaliudo, unene ngeenge omunhu okwa lunduluka neenghono. Oshi li nawa okutalela po ishona ngeenge wa pumbwa, okweeta kaume e ku yambidide, ile okudja po diva mefiku lidjuu. U mone omadiladilo okukulihumbata nawa, tala [okulihumbata nawa kwomufilishisho](/caregiving/caregiver-self-care/). Ngeenge ou li kokule, tala ewiliko letu li na sha [neengodi nomatalelepo okupitila movidiyo](/activities/phone-and-video-calls/).

@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Mogwati ma Kĩrũme kia Kwĩriganĩrwo: 14 ma Lancet"
+seoTitle: "Mogwati ma Kĩrũme kia Kwĩriganĩrwo: 14 ma Lancet"
+description: "Mogwati 14 ma kĩrũme kia kwĩriganĩrwo marĩa mangĩgarũrwo marĩa maandĩkĩtwo nĩ Kamĩtĩ ya Lancet ya 2024, na ũrĩa ũringithanio ũkuonania na ũrĩa mũngĩaria na ndagĩtarĩ."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Kamĩtĩ ya Lancet ya 2024 nĩ yandĩkire mogwati 14 ma kĩrũme kia kwĩriganĩrwo
+  marĩa mangĩgarũrwo: gĩthomo kĩnini, kũigua na hinya, cholesterol ya LDL
+  mũingĩ, kĩeha kĩa ngoro, mĩtino ya mũtwe, kwaga gwĩtĩkĩra mwĩrĩ, mũrimũ wa
+  thakame, kũnyua ndawa cia mũkawa, thakame ya mwanya mũingĩ, ũritũ mũingĩ wa
+  mwĩrĩ, kũnyua njoohi nyingĩ, gũikara wiki, riera rĩũru na mathĩna ma maitho
+  matarathimagwo. Hamwe makoragwo na ũhoti wa gũkorwo na mũrimũ ũcio ta 45% ya
+  andũ thĩinĩ wa thĩ yothe, na gũtirĩ kĩrĩkanĩro kũrĩ mũndũ o wothe.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Mogwati macio 14 makoragwo matukũ-inĩ mothe ma muoyo: ũmwe ũrĩ wĩthĩ-inĩ, ikũmi matukũ-inĩ ma gatagatĩ na ithatũ matukũ-inĩ ma ũkũrũ."
+  - "Kũigua na hinya na cholesterol ya LDL mũingĩ matukũ-inĩ ma gatagatĩ ma muoyo, o ũmwe wamo, ũkoragwo na ũhoti ta 7% wa andũ arĩa magĩaga na kĩrũme kia kwĩriganĩrwo thĩinĩ wa thĩ yothe, nacio nĩcio igai inene mũno harĩ mogwati o ũmwe."
+  - "Iganjo ici nĩ cia andũ aingĩ na ciĩtĩkĩtie atĩ nĩ kũrĩ ũhoti wa gũtũma ũndũ ũcio woneke. Ũhoti ũmwe no ũkorwo ũtarĩ wa gũkinyanĩria biũ."
+  - "Ũkũrũ na mĩthemba ya thoguo, marĩa mũndũ atangĩhota kũgarũra, o namo nĩ mogwati manene. Kũnyiihia mogwati macio 14 gũtiheaga mũndũ kĩrĩkanĩro atĩ ndakanagĩe na kĩrũme kia kwĩriganĩrwo."
+  - "Mĩthiĩre mĩingĩ ĩrĩ ho, ta gũthima thakame ya mwanya, ũhoti wa kũigua na maitho, nĩ mĩega kũrĩ ũgima wa mwĩrĩ na njĩra ingĩ, na nĩ wega mũmĩarie na ndagĩtarĩ."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Mogwati 14 marĩa mangĩgarũrwo ma kĩrũme kia kwĩriganĩrwo nĩ marĩkũ?"
+    a: "Kamĩtĩ ya Lancet ya 2024 nĩ yandĩkire gĩthomo kĩnini, kũigua na hinya, cholesterol ya LDL mũingĩ, kĩeha kĩa ngoro, mĩtino ya mũtwe, kwaga gwĩtĩkĩra mwĩrĩ, mũrimũ wa thakame, kũnyua ndawa cia mũkawa, thakame ya mwanya mũingĩ, ũritũ mũingĩ wa mwĩrĩ, kũnyua njoohi nyingĩ, gũikara wiki, riera rĩũru na mathĩna ma maitho matarathimagwo. Hamwe makoragwo na ũhoti wa gũkorwo na ta nuthu ya andũ arĩa magĩaga na kĩrũme kia kwĩriganĩrwo thĩinĩ wa thĩ yothe."
+  - q: "Nĩ mogwati ũrĩkũ wa kĩrũme kia kwĩriganĩrwo ũrĩ na bata mũingĩ makĩria?"
+    a: "Thĩinĩ wa andũ a thĩ yothe, Kamĩtĩ nĩ yataranirie atĩ kũigua na hinya na cholesterol ya LDL mũingĩ matukũ-inĩ ma gatagatĩ ma muoyo, o ũmwe wamo, ũkoragwo na ũhoti ta 7% wa andũ arĩa magĩaga na mũrimũ ũcio, magacooka kũrũmĩrĩrwo nĩ gĩthomo kĩnini na gũikara wiki ta 5% o ũmwe. Mogwati marĩa marĩ bata makĩria kũrĩ mũndũ ũmwe marĩa ũgima wake, nĩ ũndũ ũcio ndagĩtarĩ nĩwe ũngĩhota kũmũtaarĩria wega."
+  - q: "Nĩ mogwati meerĩ merũ mongereirwo mwaka wa 2024?"
+    a: "Ĩĩ. Rĩporiti ya 2024 nĩ yongereire cholesterol ya LDL (ĩrĩa ĩĩtagwo njũru) mũingĩ matukũ-inĩ ma gatagatĩ ma muoyo na mathĩna ma maitho matarathimagwo matukũ-inĩ ma ũkũrũ harĩ mogwati 12 marĩa maandĩkĩtwo mwaka wa 2020. Kamĩtĩ nĩ yamekoranirie na ta 7% na 2% wa andũ arĩa magĩaga na mũrimũ ũcio."
+  - q: "Ũkũrũ nĩ ũmwe wa mogwati marĩa mangĩgarũrwo?"
+    a: "Aca. Ũkũrũ nĩ ũmwe wa mogwati marĩa manene mũno marĩa moĩkaine ma mũrimũ wa Alzheimer's, na ndũngĩhota kũgarũrwo. Mĩthemba ya thoguo o nayo ĩrĩ na handũ hayo. Mogwati 14 marĩa marĩ gĩcunjĩ-inĩ gĩkĩ nĩ marĩa ũringithanio ũkuonania atĩ no mangĩgarũrwo."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,120 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Mogwati nĩ ũndũ ũkoragwo na ũhoti wa gũtũma mũndũ akorwo na mũrimũ ũmwe na ũhũthũ. Ti gĩtũmi kũrĩ mũndũ o wothe, na gũkorwo naguo gũtiugĩte atĩ mũndũ no mũhaka akorwo na kĩrũme kia kwĩriganĩrwo. Gĩcunjĩ gĩkĩ kĩonania mogwati 14 ma kĩrũme kia kwĩriganĩrwo marĩa Kamĩtĩ ya Lancet ya 2024 ĩkuuga atĩ no mangĩgarũrwo, ũrĩa ũringithanio ũmekoranagia namo, na ũrĩa mũngĩaria na ndagĩtarĩ.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Nĩguo ũmenye maũndũ makĩria, hamwe na ũrĩa magerio manene moonanirie, ambĩrĩria na
+[Githĩ kĩrũme kia kwĩriganĩrwo no kĩgirĩrĩrwo? Ūrĩa ũringithanio ũkuuga](/brain-health/can-dementia-be-prevented/).
+Aya nĩ ũhoro wa kũmenyithania tu, ti ũtaaro wa ndagĩtarĩ; rora
+[kĩmenyithia gĩa ũrigitani](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Mogwati 14 ma kĩrũme kia kwĩriganĩrwo nĩ marĩkũ?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Kamĩtĩ ya Lancet ya 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+ĩrĩa yandĩkirwo nĩ aringithia 27 a kĩrũme kia kwĩriganĩrwo, nĩ yataranirie atĩ
+mogwati 14 marĩa mangĩgarũrwo hamwe makoragwo na ũhoti wa ta 45% ya andũ arĩa
+magĩaga na kĩrũme kia kwĩriganĩrwo thĩinĩ wa thĩ yothe. Igai rĩa o ũmwe wa
+mogwati macio rĩrĩa rĩandĩkĩtwo haha nĩ rĩa Kamĩtĩ, rĩkoragwo rĩtaraniirio ta
+igai rĩa andũ arĩa magĩaga na mũrimũ ũcio thĩinĩ wa thĩ yothe, rĩigananĩirio
+na namba cia ũguo. Namba icio nĩihĩtanĩtie, tondũ andũ aingĩ makoragwo na
+mogwati makĩria ma ũmwe ihinda rĩmwe, na nĩkĩo cionganaga ikinya 45% no ti
+makĩria.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Mogwati | Ihinda rĩa muoyo | Igai rĩa andũ arĩa magĩaga na mũrimũ ũcio | Ūrĩa ũringithanio ũkuonania | Ūrĩa ũngĩhota gwĩka |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Gĩthomo kĩnini | Ũrĩ wĩthĩ-inĩ | 5% | Miaka mĩnini ya gũthoma ĩkoragwo na ũhoti wa mũrimũ ũcio. Kũrũgamĩrĩria meciiria matukũ-inĩ ma gatagatĩ ma muoyo o nako nĩkuonekaga ta gũteithagia, o na kũrĩ arĩa mataathomire mũno. | Thiĩ na mbere kũruta maũndũ merũ na gwĩka maũndũ marĩa marahũũra meciiria ihinda o rĩothe: gũthoma, maũndũ ma kwĩkenia, mathomo, na mĩthako hamwe na andũ angĩ. |
+| Kũigua na hinya | Matukũ-inĩ ma gatagatĩ ma muoyo | 7% | Kũigua na hinya kũtarathimagwo gũkoragwo na ũhoti wa mũrimũ ũcio. Ũringithanio ũrĩa ũrũmagĩrĩra andũ ihinda iraaya ũkoranagia kũhũthĩra indo cia kũigua na ũhoti mũnini. | Thima ũhoti waku wa kũigua. Ũria kana indo cia kũigua no igũteithie, na ũcihũthĩre watuĩrwo nĩ ndagĩtarĩ. Gitĩra matũ maku harĩ inegene inene. |
+| Cholesterol ya LDL mũingĩ | Matukũ-inĩ ma gatagatĩ ma muoyo (kuuma ta mĩaka 40) | 7% | Cholesterol ya LDL (ĩrĩa ĩĩtagwo njũru) mũingĩ matukũ-inĩ ma gatagatĩ ma muoyo ĩkoragwo na ũhoti wa mũrimũ ũcio. Ūringithanio wa kũrora andũ ũkoranagia kũhũthĩra ndawa cia statin na ũhoti mũnini, no magerio ma ndawa matukũ-inĩ ma ũkũrũ matiyonanirie ũguo. | Ũria ndagĩtarĩ waku kana cholesterol yaku yagĩrĩirwo nĩ gũthimwo na kana harĩ ũndũ ũngĩeka. |
+| Kĩeha kĩa ngoro | Matukũ-inĩ ma gatagatĩ ma muoyo | 3% | Kĩeha kĩa ngoro gĩkoragwo na ũhoti wa mũrimũ ũcio. Matukũ-inĩ ma ũkũrũ, kĩeha kĩa ngoro no gĩkorwo kĩrĩ rũũri rwa mbere rwa kĩrũme kia kwĩriganĩrwo. | Ĩra ndagĩtarĩ ũhoro wa kĩeha kĩa ngoro kana kwaga kwenda maũndũ marĩa wendete gwa kahinda karaihu gũkĩra ciumia igĩrĩ. Kĩeha kĩa ngoro no gĩthimagwo. |
+| Mĩtino ya mũtwe | Matukũ-inĩ ma gatagatĩ ma muoyo | 3% | Mĩtino ya mũtwe ihinda o rĩothe rĩa muoyo na kuuma kũndũ o guothe, hamwe na mĩthako ya kũhũũrana, ĩkoragwo na ũhoti wa mũrimũ ũcio. | Ĩkĩra ngũbia ya mũtwe rĩrĩa ũkũhaica baisikili kana ũkũruta mĩthako ya kũhũũrana. Ũria ũrĩa ũngĩgirĩrĩria kũgũa. Hurũka na ũthimagwo thutha wa mĩtino ya mũtwe. |
+| Kwaga gwĩtĩkĩra mwĩrĩ | Matukũ-inĩ ma gatagatĩ ma muoyo | 2% | Andũ arĩa metĩkagĩra mwĩrĩ na makaruta mĩthako matikoragwo na ũhoti mũingĩ wa kũgĩa na kĩrũme kia kwĩriganĩrwo. Ũira wa kuuma magerio-inĩ ma ndawa no ũkorwo ũrĩ mũnini. | Ũria ndagĩtarĩ waku ũrĩa ũtarĩ wa ũgwati kũrĩ we, na wĩthagĩre ũndũ wendete gwĩka. Rora [mũtaratara witũ wa gwĩtĩkĩra mwĩrĩ](/brain-health/exercise/). |
+| Mũrimũ wa thakame | Matukũ-inĩ ma gatagatĩ ma muoyo | 2% | Mũrimũ wa thakame, makĩria ũngĩambĩrĩria matukũ-inĩ ma gatagatĩ ma muoyo kana ũgĩikara ihinda iraaya, ũkoragwo na ũhoti wa mũrimũ ũcio. | Thimithia cukari ya thakame. Ũngĩkorwo na mũrimũ wa thakame, ruta wĩra na aruti aku a ũgima wa mwĩrĩ nĩguo ũũmenyagĩrĩre wega. |
+| Kũnyua ndawa cia mũkawa | Matukũ-inĩ ma gatagatĩ ma muoyo | 2% | Kũnyua ndawa cia mũkawa gũkoragwo na ũhoti wa mũrimũ ũcio. Ūringithanio ũkuonania atĩ arĩa matigire kũnyua matikoragwo na ũhoti ũcio mũingĩ ta arĩa mathiiaga na mbere kũnyua. | Ũria ũteithio wa gũtiga. Nĩ wega gũtiga ihinda o rĩothe rĩa muoyo. |
+| Thakame ya mwanya mũingĩ | Matukũ-inĩ ma gatagatĩ ma muoyo | 2% | Thakame ya mwanya mũingĩ matukũ-inĩ ma gatagatĩ ma muoyo ĩkoragwo na ũhoti wa mũrimũ ũcio. Magerio ma ndawa cia thakame ya mwanya monanagia atĩ no kũnyiihie na hanini ũhoti wa kũgĩa na kĩrũme kia kwĩriganĩrwo kana mathĩna ma meciiria. | Menya namba ciaku. Kamĩtĩ ĩkuuga namba ya igũrũ ĩkorwo 130 kana thĩ wa hau kuuma ta mĩaka 40; ũria namba ĩrĩa yagĩrĩire harĩ we. |
+| Ũritũ mũingĩ wa mwĩrĩ | Matukũ-inĩ ma gatagatĩ ma muoyo | 1% | Ũritũ mũingĩ wa mwĩrĩ matukũ-inĩ ma gatagatĩ ma muoyo ũkoragwo na ũhoti wa mũrimũ ũcio, na ningĩ ũtongoragia ũhoti wa mũrimũ wa thakame. | Ũria ndagĩtarĩ waku ũhoro wa ũritũ wa mwĩrĩ ũrĩa mwagĩrĩru harĩ we. Andũ akũrũ matigĩrĩirwo nĩ kũrĩa irio nĩguo mahunye mwĩrĩ matarĩ na ũtaaro wa ndagĩtarĩ. |
+| Kũnyua njoohi nyingĩ | Matukũ-inĩ ma gatagatĩ ma muoyo | 1% | Kũnyua njoohi nyingĩ gũkoragwo na ũhoti wa mũrimũ ũcio. Kũnyiihia njoohi kuuma kũrĩ ũnyui mũingĩ gũkoranagio na ũhoti mũnini. | Ũria mũigana ũrĩa ũtarĩ wa ũgwati harĩ we, makĩria ũkĩringithania na ndawa ciaku. |
+| Gũikara wiki | Matukũ-inĩ ma ũkũrũ | 5% | Kũkorwo na mĩcemanio mĩnini na andũ angĩ gũkoragwo na ũhoti wa mũrimũ ũcio. | Ikaraga ũkĩaranĩria na andũ na njĩra iria wendete. Rora [mũtaratara witũ wa ngwatanĩro na andũ angĩ](/brain-health/social-connection/). |
+| Riera rĩũru | Matukũ-inĩ ma ũkũrũ | 3% | Gũtũũra handũ harĩ riera rĩũru gũkoragwo na ũhoti wa mũrimũ ũcio. Ūringithanio ũkoranagia riera rĩtheru na ũhoti mũnini. | Mũingĩ nĩ ũndũ wa wathani wa mũingĩ wa bũrũri. Roraga ũhoro wa riera rĩa kũrĩa mũtũũraga na ũnyiihie ihinda rĩa gũikara nja mĩthenya ĩrĩa riera rĩrĩ rĩũru mũno. |
+| Mathĩna ma maitho matarathimagwo | Matukũ-inĩ ma ũkũrũ | 2% | Mathĩna ma maitho matarathimagwo makoragwo na ũhoti wa mũrimũ ũcio. Ūringithanio ũmwe mũnene wa Amerika nĩ wakoraniirie kũrutwo cataract na ũhoti mũnini. | Gĩaga na magerio ma maitho ma kahinda na kahinda. Ũria kana mathĩna ta cataract no mathimagwo. |
 
-## How should I read these percentages?
+## Ndagĩrĩirwo nĩ gũtaũkĩrwo igai ici atĩa?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Na ũmenyereri. Rĩporiti ya Kamĩtĩ ĩyene nĩ ĩheanĩte maũndũ mamwe ma bata ma kũririkana:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Cionanagia ũhoro wa andũ aingĩ, ti wa mũndũ ũmwe.** [Ũhoro mũkuhĩ wa rĩporiti](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) kuuma University College London ũkuuga atĩ kũnyiihia mogwati kũrutaga wĩra harĩ andũ aingĩ na gũtiheaga mũndũ ũmwe kĩrĩkanĩro atĩ ndakanagĩe na kĩrũme kia kwĩriganĩrwo.
+- **Ciĩtĩkĩtie atĩ nĩ kũrĩ ũhoti wa gũtũma ũndũ ũcio woneke.** Aandĩki nĩ mathurire tu mogwati marĩa marĩ na ũira mũingĩ wa kũiguĩka, no makiuga atĩ ũhoti ũmwe no ũkorwo ũtarĩ wa gũkinyanĩria biũ.
+- **Nĩ namba cia thĩ yothe.** Ūhoro mũingĩ uumĩte mabũrũri-inĩ marĩa marĩ na ũtonga mũingĩ, na igai rĩa ma kũrĩ bũrũri ũmwe kana kĩrĩndĩ kĩmwe no rĩkorwo rĩtariĩ ta rĩu.
+- **Igai inini no ikorwo na bata.** Mogwati marĩa makoragwo na ũhoti wa 2% wa andũ arĩa magĩaga na mũrimũ ũcio thĩinĩ wa thĩ yothe no makorwo marĩ na bata harĩ andũ aingĩ mũno.
 
-## Which risk factors were added in 2024?
+## Nĩ mogwati marĩkũ mongereirwo mwaka wa 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Rĩporiti ya 2024 nĩ yongereire mogwati meerĩ harĩ macio 12 marĩa maandĩkĩtwo mwaka wa 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Cholesterol ya LDL mũingĩ matukũ-inĩ ma gatagatĩ ma muoyo**, ĩkoragwo na ũhoti ta 7% wa andũ arĩa magĩaga na mũrimũ ũcio.
+- **Mathĩna ma maitho matarathimagwo matukũ-inĩ ma ũkũrũ**, makoragwo na ũhoti ta 2% wa andũ arĩa magĩaga na mũrimũ ũcio.
 
-## What risk factors cannot be changed?
+## Nĩ mogwati marĩkũ matangĩgarũrwo?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging ĩkuuga atĩ
+[ũkũrũ nĩ ũmwe wa mogwati marĩa manene mũno ma mũrimũ wa Alzheimer's marĩa moĩkaine](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+na gũtirĩ mũndũ ũngĩhota kũũgarũra. Mĩthemba ya thoguo o nayo ĩrĩ na handũ
+hayo; rũciaro rũmwe rũrĩa rũĩkaine rũrĩa rũkoragwo na ũhoti harĩ mũrimũ wa
+Alzheimer's rwĩtagwo APOE. NIA ĩkuuga o na atĩ aringithia matirĩ mataũkĩirwo
+biũ nĩ kĩĩ gĩtũmaga Alzheimer's kũrĩ andũ aingĩ. Kamĩtĩ ya Lancet ĩkuuga atĩ
+mogwati marĩa mangĩgarũrwo no manyiihio o na mũndũ angĩkorwo arĩ na ũhoti wa
+kũgwatwo nĩ ũndũ wa mĩthemba ya thoguo.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Tondũ ũkũrũ na mĩthemba ya thoguo irĩ na handũ hanene, andũ aingĩ arĩa matarĩ na
+mogwati macio 14 o na ningĩ nĩmagĩaga na kĩrũme kia kwĩriganĩrwo. Ũcio ti
+wĩhia wa mũndũ o wothe.
 
-## What does the trial evidence say about changing these risks?
+## Ũringithanio wa magerio ũkuuga atĩa ũhoro wa kũgarũra mogwati maya?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Gũkorania mogwati na kĩrũme kia kwĩriganĩrwo ti kuuga atĩ nĩkũonanĩtie na ma atĩ
+kũmũgarũra nĩkũnyiihagia ũhoti wa kũgĩa na kĩrũme kia kwĩriganĩrwo. Mĩharia ĩmwe
+ya ũrĩa ũira wa magerio ũhaana:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Thakame ya mwanya.** Thĩinĩ wa igerio rĩa SPRINT MIND, mũigana mũnini wa
+  thakame ya mwanya nĩ wanyiihirie na njĩra ĩonekaga mathĩna manini ma
+  meciiria. Ndũanyiihirie na njĩra ĩonekaga ũhoti wa kũgĩa na kĩrũme kia
+  kwĩriganĩrwo, o na gũtuĩka igerio rĩu no rĩkorwo rĩarĩ inini mũno rĩkwonanĩria
+  ũguo ([SPRINT MIND thĩinĩ wa JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Indo cia kũigua.** Kamĩtĩ ya Lancet ĩheanaga ũhoro wa igerio rĩa mĩaka ĩtatũ
+  rĩa indo cia kũigua rĩrĩa ritonire ũgarũrũku wa meciiria harĩ andũ othe, no
+  rĩkionania ũteithio harĩ gĩkundi kĩmwe kĩa andũ arĩa maarĩ na ũhoti mũingĩ
+  makĩria. Ūringithanio ũrĩa ũrũmagĩrĩra andũ ihinda iraaya ũkoranagia kũhũthĩra
+  indo cia kũigua na ũhoti mũnini. [Mũtaratara witũ wa kũigua](/brain-health/hearing/)
+  ũrĩ na ũhoro makĩria.
+- **Gwĩtĩkĩra mwĩrĩ.** National Institute on Aging ĩkuuga atĩ gũtirĩ na ũira
+  wa kũigana kuuma magerio-inĩ ma ndawa wa kuuga atĩ gwĩtĩkĩra mwĩrĩ no kũgirĩrĩrie
+  kana gũtithie mathĩna manini ma meciiria kana Alzheimer's, o na gũtuĩka
+  ũringithanio ũmwe ũkuonania atĩ no ũteithie harĩ kũnyiihia kwa meciiria kũrĩa
+  gũũkaga nĩ ũkũrũ
+  ([NIA ũhoro wa kũgirĩrĩria Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Magerio maraaya marĩa metagĩrĩra kĩrũme kia kwĩriganĩrwo kuoneka nĩ ma kahinda
+karaaya na marĩ thogora mũingĩ, nĩ ũndũ ũcio harĩ mogwati maingĩ ũira mũrĩa
+mwega makĩria no ũthiĩ na mbere kuuma ũringithanio-inĩ ũrĩa ũrũmagĩrĩra andũ
+mĩaka mĩingĩ. Ūira ũcio nĩ wa bata, no ti mũingĩ ta wa igerio rĩa ndawa.
 
-## What about sleep and diet?
+## Ĩ toro na irio ikĩ?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Kamĩtĩ nĩ yathuthuririe toro na irio no ndĩaciongereire mũtaratara-inĩ, tondũ
+ũira ndwarĩ mũingĩ kana mũrũmu wega kũigana. Mĩtaratara ĩtũ ya
+[toro](/brain-health/sleep/) na [irio](/brain-health/diet/) nĩ ĩtaaragĩria
+ũrĩa ũĩkaine.
 
-## Talk with a doctor
+## Aria na ndagĩtarĩ
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Gũthimwo kwa mwĩrĩ kwa o mwaka nĩ kahinda keega ga kwaria maũndũ maya. No ũtware
+mũtaratara ũyũ na ũrie:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Namba ciakwa cia thakame ya mwanya, cukari ya thakame na cholesterol nĩ irĩkũ, na nĩ harĩ ĩmwe ĩbataire kũrorwo?
+- Nĩ njagĩrĩirwo nĩ gũthimithia ũhoti wakwa wa kũigua na maitho?
+- Gwĩtĩkĩra mwĩrĩ kũrĩa njĩkaga nĩ gũtarĩ ũgwati na nĩ kũiganu kũrĩ niĩ?
+- Nĩ harĩ ndawa ciakwa ingĩhota gũthũkia ũririkani kana meciiria?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Mbere ya kũgarũra ndawa, irio, kwĩima irio, gwĩtĩkĩra mwĩrĩ kana ndawa cia
+kũongerera, aria na ndagĩtarĩ mbere. We kana mũndũ ũrĩa ũmenyagĩrĩra mũngĩona
+mũrimũ wa kũrigwo nĩ meciiria o rĩmwe, kwaga hinya mwena ũmwe wa mwĩrĩ, kana
+thĩna wa kwaria, hũrũka thimu 999 kana 112.

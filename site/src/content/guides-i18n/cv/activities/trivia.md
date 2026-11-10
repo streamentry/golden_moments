@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Деменципе пурӑнакансем валли ҫӑмӑл викторина"
+seoTitle: "Деменци пур чухне ватӑ ҫынсем валли викторина"
+description: "Деменципе пурӑнакан ватӑ ҫынсем валли 50 ҫӑмӑл ыйту, хурав вариантӗсемпе сӳтсе явмалли темӑсем. Викторинӑна ексчексӗр ирттермелли майсем."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Деменципе пурӑнакан ҫынсем валли ҫӑмӑл викторина калаҫу пек пулсан лайӑх
+  юлать, ексчек мар. Авалтан пӗлнине, сӑмахран, авалхи юррисене, сӑмахсене,
+  уявсене тата пурнӑҫри яланхи ӗҫсене ыйтӑр, яланах икӗ е виҫӗ вариант
+  парӑр. Хуравне ырӑ кӑмӑлпа калӑр, пӗр ҫынне те уйӑрса ыйтмарӑр, очкӑ
+  шутламарӑр, кашни хуравпа калав суйласăр. Хурав суйламаллине ҫӑмӑл
+  пулсан, тӗрӗс хурав кирлӗ мар «ку е вӑл?» ыйтӑвсене усӑ курӑр.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Авалтан паллӑ япала ыйтӑр: юрӑсем, сӑмахсем, уявсем, апат-ҫимӗҫ тата пурнӑҫри ӗҫсем."
+  - "Икӗ е виҫӗ вариант парӑр, ҫапла хуравне аса илме мар, çуйлама ҫӑмӑлрах пулӗ."
+  - "Хуравне ырӑ кӑмӑлпа калӑр та малалла куҫӑр. Калав суйласа яракан кашни шухӑш та лайӑх."
+  - "Очкӑ та, вӑй хывакан ушкӑнсем те, пӗр ҫынна чӗнни те ҫук. Хуравсем пӗтӗм ушкӑнран килтӗр."
+  - "Хурав суйласси йывӑр пулсан, тӗрӗс хурав кирлӗ мар «ку е вӑл?» ыйтӑвсем ҫине куҫӑр."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Деменципе пурӑнакан ҫынсем валли викторина лайӑх ӗҫ-и?"
+    a: "Ҫапла, вӑл ырӑ майпа иртсен. Alzheimer's Foundation of America викторинӑна авалхи тапхӑрти ӗҫсем шутне кӗртет. Ыйтӑвсене авалтан паллӑ темӑсем çинчен ытар, вариантсем парăр, пĕр çынна та ыйтса хăвармарăр, хуравсене ексчек пек мар, калаçу пуçламалли май пек пăхăр."
+  - q: "Деменци пур чухне мӗнле темӑсем лайӑхраха пултараҫҫӗ?"
+    a: "Чылай чухне авалтан вӗреннӗ япаласем лайӑхраха пӗр килеҫҫӗ: ҫын ҫамрӑклӑхӗнчи юрӑсемпе юрракансем, паллӑ сӑмахсем, уявсем, апат-ҫимӗҫ, спорт тата пурнӑҫри ӗҫсем, сӑмахран, ҫӗт ҫитерни е чарӑну чарманлӑ телефон. Ҫӗнӗ хыпарсене тата ҫак вӑхӑтра пуҫӗнчен пулнӑ япала аса илмеллине ан ыйтӑр."
+  - q: "Пӑхса тӑракан пӳлӗмре пӗрне те намӑссар викторина мӗнле ирттермелле?"
+    a: "Кашни ыйтӑва пӗтӗм ушкӑна вуласа парӑр, вариантсене кӑтартӑр е калӑр, хуравне кам та пулсан калама пултарнине палӑртӑр. Пӗр ҫынна уйӑрса ан ыйтӑр, очкӑ ан шутлӑр. Мӗн каланине пӑхмасӑрах, хуравне кулса калӑр та, сӑмахран, «Кунта кам та йӗретпе кино курнӑ-и?», — тесе ыйтса, калаҫӑва калавсем ҫине куҫарӑр."
+  - q: "Юлашки тапхӑрсенче викторина вырӑнне мӗн тума пулать?"
+    a: "Тӗрӗс хурав кирлӗ мар ыйтӑвсем ҫине куҫӑр, сӑмахран, «Кофе е чей?» е «Тинӗс ҫыранӗ е ту?», е пӗрле паллӑ сӑмахсене тата юрӑсене вӗҫлеме пуҫлӑр. Сӑнӳкерчӗксене пӑхса, вӗсене пӗрле сӑнланине те лайӑх пултарать."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Викторина — пӑхса тӑракан пӳлӗмсенче тата кунти программӑсенче чылай чухне ыйтакан ӗҫсенчен пӗри. Ҫемьесем те ӑна хӑвӑрт хушшинче выляҫҫӗ. Ахаль чухне очкӑпа тата пӗр ҫын хуравлакан майпа ирттерсен, деменципе пурӑнакан ҫын хӑйне ыйтса хӑварнӑ пек туйма пултарать. Ырӑ майпа ирттерсен, вӑл калавсене илтме хаваслӑ ҫул пулать. Аяларах 50 ҫӑмӑл ыйту, кашнине валли хурав вариантӗсемпе сӳтсе явма майсем пур, кайран вӑхӑта мӗнле ирттермеллине ҫырнӑ.
 
-## How do you make trivia work for someone with dementia?
+## Деменципе пурӑнакан ҫын валли викторинӑна мӗнле лайӑхлатма пулать?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Ӗҫе авалхи япаласене çуйласа аса илме тивӗҫтерӗр, кашни хурав та хирӗҫсӗр пултӑр.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Авалхи вӑхӑта ыйтӑр.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) палӑртнӑ тӑрӑх, Альцгеймер чирӗн чи паллӑ пуҫламӑш паллисене чылай чухне ҫӗнӗ пӗлӗве аса илес йывӑрлӑх кӑтартать. Унтаран илсен, темиҫе ҫул ҫинченхи юрӑсем, сӑмахсем тата пурнӑҫри ӗҫсем ҫӑмӑлрах пулма пултараҫҫӗ.
+2. **Яланах вариантсем парăр.** Икӗ е виҫӗрен тӗррисене суйласси хӑй тӗллӗн хурав тупассинчен ҫӑмӑлрах.
+3. **Ыйтӑвсене сасӑпа вуласа парӑр тата пысӑкра кӑтартӑр.** Хӑма е планшета çӳллӗн тытса кӑтартни начар илтекенсене пулӑшать.
+4. **Хуравне ырӑ кӑмӑлпа калӑр.** Пӗр ҫын та пӗлмест пулсан, ӑна ырӑ кӑмӑлпа калӑр та малалла куҫӑр. «Кунӑн, санӑн пӗлмелле» ан калӑр.
+5. **Очкӑ ан шутлӑр.** Пӗр ҫын валли те, сӗтелсем валли те мар. Ҫынсем хисеп кӑнаҫ пулсан, пӗтӗм ушкӑн валли пӗр шуту анчах тытӑр.
+6. **Пӗр ҫынна ан чӗнӗр.** Хуравсем камран та пулсан килтӗр. Пӗр-пӗр ҫынпа вылӑкан чухне пӗрле шухӑшласа хуравлӑр: «Ман шутпа, ку пианино. Эсир мӗн тетӗр?»
+7. **Сӳтсе явмалли сӑмахпа усӑ курӑр.** Хурав — вӗҫӗ мар, пуҫламӑш. Тӗп япала — калавсем.
+8. **Кӗскерех тытӑр.** Вун ыйту, хушшинче калавсемпе, ҫителӗклӗ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) тӗп йӗркене ҫӑмӑл калать: йӑлтахланнине сӑнаса тӑрӑр тата ҫын хӑйне ӑнӑҫлӑ туйтӑр. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) викторинӑна авалхи тапхӑрти ӗҫсем шутне кӗртет. Вӑтам тапхӑрӗнче икӗ вариантпа анчах усӑ курӑр та сӳтсе явмалли сӑмахсене ытларах куллен илӗр. Каярах икӗсӗ вырӑнӗнче кӑтартнӑ «ку е вӑл?» ыйтӑвсем ҫине куҫӑр.
 
-## Music and entertainment trivia
+## Музыка тата култура ҫинчен викторина
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Тӗрӗс хурав **хулӑм шрифтпа** палӑртнӑ. Ыйтӑвсене ҫынна майласа илӗр: Motown музыкӑппе ӳснӗ ҫын валли пӗр юрракансем кирлӗ, «big band» музыкӑппе ӳснӗ ҫын валли тепӗрсем.
 
-| Question | Choices | Talk about |
+| Ыйту | Вариантсем | Калаҫма |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Кама рок-н-ролл патши тесе чӗннӗ? | **Элвис Пресли**, Фрэнк Синатра, Бинг Кросби | Элвиса телевизорра курнӑ-и? |
+| Камӑн ятне «Кӑвак куçлă» тесе чӗннӗ? | Дин Мартин, **Фрэнк Синатра**, Перри Комо | Синатрӑн хӑш юрринче эсир ытларах юрататӑр? |
+| Бинг Кросби шур... | **Раштавне**, туйне, çуртне | Пӗр йӗркене пӗрле юрлӑр |
+| Луи Армстронг «Чи хитре...» | кун, **тӗнче**, пурнӑҫ | Эсир валли тӗнчере мӗн хитре? |
+| «Асамат ҫийӗнчи» юррине Джуди Гарланд хӑш фильмра юрланӑ? | **«Оз мӑнтӑр ҫынни»**, «Чӗререн тухса кайрӗ», «Ҫумӑр хушшинче юрланӑ» | Юратнӑ фильмсене ӑҫта курнӑ? |
+| «Эпӗ Люси юрататӑп» сериалӗнче Люси вырӑнне кам вылянӑ? | **Люсиль Болл**, Дорис Дэй, Бетти Уайт | Ҫемье пӗрле хӑш передачӑсене пӑхнӑ? |
+| Хӑш ковбой Триггер ятлӑ лашана улшӑннӑ? | **Рой Роджерс**, Джин Отри, Джон Уэйн | Ача чухне ковбойсемпе вылянӑ-и? |
+| 30 ҫул хушши «The Tonight Show» передачӑна кам ирттернӗ? | Эд Салливан, **Джонни Карсон**, Боб Хоуп | Каҫхи вӑхӑт таран телевизор пӑхма ларасчӗ-и? |
+| Хӑш инструмента 88 клавиш? | Гитара, **пианино**, труба | Ҫемьерен кам та калама пӗлнӗ-и? |
+| Хӑш ташӑна пӗрре-иккӗ-виҫҫӗ, пӗрре-иккӗ-виҫҫӗ тесе шутлаҫҫӗ? | **Вальс**, твист, танго | Ӑҫта ташлама кайса ҫӳренӗ? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Музыка ҫинчен ытларах темиҫе сӑн валли [деменци пур чухне музыка ӗҫӗсем](/activities/music/) страницӑна пӑхӑр.
 
-## Everyday life trivia
+## Пурнӑҫри ӗҫсем ҫинчен викторина
 
-| Question | Choices | Talk about |
+| Ыйту | Вариантсем | Калаҫма |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Холодильниксем ҫук чухне чылай чухне апат-ҫимӗҫе мӗнре сивӗтетнӗ? | **Пӑр пайӑрккинче**, пӗҫерме урайӗнче, черетре | Пӑра кам ҫитернӗ? |
+| Ҫӗтӗ кӳленче шклӑ ӗневе кам илсе килнӗ? | Почтальон, **ҫӗтҫӗ**, хаҫатҫӑ | Киле урӑх мӗн ҫитерсе панӑ? |
+| Чарӑну чарманлӑ телефона мӗнле çавӑртнӑ? | Кнопкӑсене пусса, **чарманне уҫса**, унпа калаҫса | Килти телефон ҫинчен каласа парӑр |
+| «Model T» машшинӑна хӑш компани тунӑ? | **Форд**, Шевроле, Бьюик | Юратнӑ машина ҫинчен каласа парӑр |
+| Сода шыввипе ӗҫлекене ӑҫта тупма пулнӑ? | **Сода шывви лавккинче**, ҫӑкӑр лавккинче, банкра | Прилавӑкран мӗн илнӗ? |
+| Хӑш вылякан япала — сӗмрен илсе каяллакан тимиҫкӗ улма? | Йо-йо, **Слинки**, хулахуп | Мӗнле вылякан япаласене юратнӑ? |
+| «Йӗретпе кино» вӑл... | **Машшинӑран кино пӑхасси**, туп уйӑвӗсем, парадсем | Кампа пӗрле кайса ҫӳренӗ? |
+| Пӗр доллар купюрӑ ҫинче камӑн сӑнӗ? | Линкольн, **Джордж Вашингтон**, Джефферсон | Ун чухне пӗр долларпа мӗн туянма пулнӑ? |
+| Пӗр цент укҫи ҫинче камӑн сӑнӗ? | **Авраам Линкольн**, Вашингтон, Франклин | Ун чухне центсене банка ҫине пухнӑ-и? |
+| Шкул автобусӗ чылай чухне мӗнле тӗслӗ? | Хӗрлӗ, **сарӑ**, кӑвак | Шкула мӗнпе кайса ҫӳренӗ? |
 
-## Holidays, nature and places
+## Уявсем, ҫутҫанталӑк тата вырӑнсем
 
-| Question | Choices | Talk about |
+| Ыйту | Вариантсем | Калаҫма |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Ноябрӗн тӑваттӑмӗш кӗҫнерни кунӗ хӑш уява ирттереҫҫӗ? | Labor Day, **Пархатар уявӗ**, Memorial Day | Сӗтел ҫинче яланах мӗн пулнӑ? |
+| Тыкӑран тунӑ кӑшкӑр ҫинченхи ҫутатӑва хӑш уява хатӗрлеҫҫӗ? | **Хэллоуин**, Пасха, Раштав | Ҫамрӑклӑхра Хэллоуин мӗнле иртнӗ-ши? |
+| Июлӗн 4-мӗшӗнче мӗнле Пӑлхарулӑх декларацийӗн уявне паллӑ тӑваҫҫӗ? | Правосен, **Пӑлхарулӑхӑн**, Ирӗклӗхӗн | Салютсене ӑҫта пӑхнӑ? |
+| Аннен уявӗ хӑш уйӑхра? | Ака уйӑхӗнче, **Ҫу уйӑхӗнче**, Ҫӗртме уйӑхӗнче | Ҫемье мӗнле уявланӑ? |
+| Америка ялавӗ ҫинче миҫе ҫӑлтӑр? | 48, **50**, 52 | 1959 ҫул таран ялав ҫинче 48 ҫӑлтӑр пулнӑ. Иккӗшӗ те аса илӳ валли лайӑх хурав |
+| Хӗвелтухӑҫ ҫыранӗ хушшинче хӑш океан? | Лӑпкӑ, **Атлантика**, Ҫурҫӗр | Тинӗс ҫыранне кайса курнӑ-и? |
+| Ирӗклӗх статуйӗ хӑш хулара? | Бостонра, **Нью-Йоркра**, Филадельфире | Нью-Йоркра пулнӑ-и? |
+| Вӗлле хурчӗсем мӗн тӑваҫҫӗ? | Ҫӗт, **пыл**, тутӑр | Ҫӑкӑр ҫинче пыл юрататӑр-и, чечекренче-и? |
+| Пӗру ӑмӑртнине мӗнле теҫҫӗ? | Лаша чаки, **пӑру**, качака | Ферма патӗнче пурӑннӑ-и? |
+| Хӗвел ҫине ҫавӑрса тӑракан ҫӳллӗ сарӑ чечеке мӗнле ятлӑ? | Роза, **хӗвел ҫинчи чечек**, тюльпан | Пахчара мӗн ӳснӗ? |
+| Куҫаракан ҫулта миҫе кун? | 365, **366**, 360 | Аса юлнӑ ҫуралнӑ кун ҫинчен каласа парӑр |
+| Хӗллеччен хӑш вӑхӑт килет? | Кӗркунне, **ҫуркунне**, ҫулла | Хӑш вӑхӑта ытларах юрататӑр? |
 
-## Food and sports trivia
+## Апат-ҫимӗҫ тата спорт ҫинчен викторина
 
-| Question | Choices | Talk about |
+| Ыйту | Вариантсем | Калаҫма |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Изюм вӑл типӗтнӗ... | Слива, **иҫӗм**, чие | Изюма апатран илсе кайса ҫӳренӗ-и? |
+| Чернослив вӑл типӗтнӗ... | **Слива**, смоква, пан улми | Ҫемьере кам чернослива юратнӑ? |
+| Арахис майӗпе... | **Джем**, чакӑт, кашкӑ аш | Пӗҫӗк тӗрӗлли-и, ҫӑмӑл-и? |
+| Гуакамол чылай чухне мӗнрен тӑваҫҫӗ? | Кӑк пуҫран, **авокадоран**, хӑярран | Уявсенче мӗнле соуссем тӑратчӗҫ? |
+| Хӑш пирок Пархатар уявӗнче чи юратнӑ? | **Кӑвар пирокӗ**, лимонлӑ, чие пирокӗ | Эсир хӑш пирока хатӗрленӗ? |
+| Бейсбол командинчен уйра мӗн чухлӗ вылякан пур? | 7, **9**, 11 | Хӑш командашӑн пурнӑҫланӑ? |
+| Бейсболта миҫе «страйк» ҫынна кӑларасси пулать? | Иккӗ, **виҫҫӗ**, тӑваттӑ | Бейсболпа вылянӑ-и? |
+| Бейб Рут хӑш спортапа паллӑ? | Бокс, **бейсбол**, гольф | Уйӑвсене пӑхма кайса ҫӳренӗ-и? |
+| Стандартлӑ гольф уйӗнче миҫе шӑтӑк? | 9, **18**, 24 | Гольфпа е мини-гольфпа вылянӑ-и? |
+| Хӑш спортра тачдаун шутлаҫҫӗ? | **Америкӑри футбол**, хоккей, баскетбол | Килте кам америкӑри футбол пӑхнӑ? |
 
-## Familiar sayings
+## Паллӑ сӑмахсем
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Сӑмах вӗҫне вӗҫлесси авалтан вӗреннӗ чӗлхене ҫавӑрать, унта чылай чухне ҫӑмӑл пулать. Пирӗн [Сӑмах вӗҫне вӗҫлӗр](/games/finish-the-saying/) вӑййинче ытларах нумай сӑмах пур, вӗҫне кӑтартма пусма та пулать.
 
-| Saying | Choices | Talk about |
+| Сӑмах пуҫламӑшӗ | Вариантсем | Калаҫма |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Кашни кун пӗр пан улми туххипе калаҫнине... | **Пысӑклатать**, ҫумӑра вӑратать, кушака хӑратать | Кама сана кунӑн каланӑ? |
+| Ирех тӑракан кайӑк... | автобуса, **нӑмӑна**, поезда | Эсир ирхи ҫын-и? |
+| Чӗпӗсем тухиччен вӗсене... | **Ан шутлӑ**, ан ҫывӑрт, ан юрлат | Ҫемьере чӗпӗсем пулнӑ-и? |
+| Упранӑ пӗр цент —... | **ӗҫленӗ цент**, ҫухатнӑ цент, укса кайнӑ цент | Ҫемьере упраканни кам пулнӑ? |
+| Кил — чӗре мӗнле вырӑнта... | пахча пур, **ырӑ**, кухня пур | Вырӑна кил пек туйтаракан япала мӗн? |
+| Каҫ ирттерни нимех те пулинчен... | ирех пулнинчен, **аван**, каҫарса кӗнинчен | Кам яланах каҫ килнӗ? |
+| Кашни пӗлӗтре те хӗрлӗ... | **айӗнче пур**, кашӑк пур, укҫа пур | Аван вырнакан сӑлтав ҫинчен каласа парӑр |
+| Ӗҫсем сӑмахсенчен ытларах... | **янӑраҫҫӗ**, юрлаҫҫӗ, аслатса каҫаҫҫӗ | Ҫапла калакан ҫын ҫинчен каласа парӑр |
 
-## This-or-that questions with no wrong answer
+## Тӗрӗс хурав кирлӗ мар «ку е вӑл?» ыйтӑвсем
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Ку ыйтӑвсем кашни тапхӑр валли, каяраххи вӑхӑтшӑн та, лайӑх, мӗншӗн тесен йӑнӑш пулма май ҫук. Ыйтӑр, итлӗр тата хӑвӑн хуравӑра та каласа парӑр.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Кофе е чей?
+- Тинӗс ҫыранӗ е ту?
+- Йытӑсем е кушаксем?
+- Ҫулла е хӗлле?
+- Пирок е торт?
+- Ташласси е пӑхасси?
+- Хӗвел тухни е хӗвел анни?
+- Малти терраса е кайри картиш?
+- Радио е пластинкасем?
+- Блинсем е ҫӑмарта?
+- Розӑсем е нывӑл чечексем?
+- Поездпа ҫӳрев е машинапа ҫӳрев?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Сӑнӳкерчӗксемпе пӗрле усӑ курма пултаракан калаҫу ыйтӑвӗсем валли пирӗн пичетлемелли [Калаҫу карточкисем](/games/conversation-cards/) вӑййине пӑхӑр.
 
-## How do you run a trivia session in a care home or group?
+## Пӑхса тӑракан пӳлӗмре е ушкӑнра викторинӑна мӗнле ирттермелле?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Ҫынсене курма тата илтме майлӑ вырӑна лартӑр.** Илтесси хатӗрӗсемпе, куҫлӑхкӑсемпе, телевизор сӳнтернӗ.
+2. **Ӗҫе калаҫу пек йӗркелӗр.** «Манӑн авалхи вӑхӑт ҫинчен ыйтӑвсем пур, эсир манран лайӑхрах пӗлетӗр тесе шутлатӑп».
+3. **Кашни ыйтӑва икӗ хут вуласа парӑр тата вариантсене пысӑкра кӑтартӑр.**
+4. **Пӳлӗмӗн кай енчен те хурав килнине йышӑнӑр.** Лайӑх хуравсене пурте илтес тесе тепӗр хут калӑр.
+5. **Тӗрӗс хуравне пурте валли калӑр,** кайран сӳтсе явмалли ыйтӑва пӳлӗме пырса ыйтӑр.
+6. **Ушкӑн хӑйне мӗнле туйнине сӑнаса тӑрӑр.** Пӗр ыйту вун минут калав суйлатса кайсан, ӑна ан чарӑр.
+7. **Вӗҫӗнче юрӑ е «ку е вӑл?» тапхӑрӗ,** ҫапла пурте ҫӑмӑл япалана пӗрле вӗҫлет.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Ушкӑн валли урӑх ӗҫсем, сӑмахран, сӑнӳкерчӗклӗ бинго тата пӗрле юрлани, валли [пӑхса тӑракан пӳлӗмсем валли ушкӑн ӗҫӗсем](/activities/care-home-groups/) страницӑна пӑхӑр.
 
-## When to change the plan
+## Мӗнле чухне плана улӑштармалла
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Ҫын йӑлтахланнине кӑтартсан, шӑплансан е темиҫе хут «пӗлместӗп» тесе каласан, ӗҫе ҫӑмӑллатӑр: икӗ варианта анчах хӑварӑр, пӗрле хуравлӑр е «ку е вӑл?» ыйтӑвсем ҫине куҫӑр. Ушкӑн пӗр ыйту ҫинчен каҫӑн пӗтӗмӗшпе калаҫма кӑмӑллатса тӑрать пулсан, ку та ӑнӑҫу. Тӗллев тӗрӗс хуравсенче марччӗ. Тӗллев — ырӑ кампанире пӗрле вӑхӑт ирттерессинче.

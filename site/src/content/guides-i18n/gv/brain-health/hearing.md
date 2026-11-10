@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Coayl Clashtyn as Gaue Coayl Cooinaghtyn: Ny Ta Ronsaghey Soilshaghey"
+seoTitle: "Coayl Clashtyn as Coayl Cooinaghtyn: Ronsaghey"
+description: "Cre'n fa ta coayl clashtyn ny choyrle gaue mooar son coayl cooinaghtyn, cre ren prowal ACHIEVE feddyn magh, as kys dy gheddyn clashtyn er ny hirrey."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Ta Co-chruinnaghey Lancet 2024 enmys coayl clashtyn myr fer jeh ny coyrleyn gaue smoo oddys v'er
+  ny chaghlaa son coayl cooinaghtyn. Ayns y phrowal ACHIEVE, cha ren saaseyn clashtyn moalley
+  coayl tushtey ayns cooidjagh, ga dy row coayl ny sloo ec fo-phossan lesh gaue ny smoo. Ta saaseyn
+  clashtyn cooney lesh coloayrtys as bea gaghlaa foast. Gow clashtyn er ny hirrey, smooinee er saaseyn
+  clashtyn lesh oardagh ny gyn oardagh, as loayr rish lhiaghtee.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Ta Co-chruinnaghey Lancet goaill rish dy vel coayl clashtyn currit da mysh 7% jeh coayl cooinaghtyn er y theihll, co-chorrym rish y chorran smoo mastey 14 coyrleyn."
+  - "Ayns y phrowal ACHIEVE jeh 977 sleih shinney, cha ren saaseyn clashtyn caghlaa coayl tushtey harrish three bleeaney ayns cooidjagh."
+  - "Ayns fo-phossan ny sloo, lesh gaue ny smoo, ayns ACHIEVE, va coayl tushtey 48% ny sloo lesh saaseyn clashtyn; ta feme er shoh v'er ny hickyraghey."
+  - "Neayr's Jerrey Fouyir 2022, foddee sleih aasit ayns ny Steatyn Unnaneysit lesh coayl clashtyn beg ny meanagh (myr t'ad er ny h-ennaghtyn) saaseyn clashtyn reillit liorish yn FDA y chionnaghey gyn oardagh."
+  - "Hie coayl rish gyn kiarail er ny chur rish myr choyrle gaue son coayl cooinaghtyn ayns 2024, myr shen ta scrutaghtyn sooilley scanshoil myrgeddin."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Vel saaseyn clashtyn jannoo lhiettrimys er coayl cooinaghtyn?"
+    a: "Cha nel shen er ny phrowal. Ren y phrowal ACHIEVE feddyn magh nagh row ymmyd erbee er coayl tushtey harrish three bleeaney ayns cooidjagh, ga dy ren fo-phossan lesh gaue ny smoo ny share. Ta saaseyn clashtyn foast feeu smooinaghtyn orroo er-yn-oyr dy vel ad jannoo coloayrtys, sauçhys as bea gaghlaa ny sassey."
+  - q: "Quoi oddys saaseyn clashtyn y chionnaghey gyn oardagh?"
+    a: "Ta'n FDA cur kied da sleih aasit 18 bleeaney d'eash as ny shinney lesh coayl clashtyn beg ny meanagh (myr t'ad er ny h-ennaghtyn) saaseyn clashtyn gyn oardagh y chionnaghey ayns siopyn ny er-linney gyn oardagh. Cha nel ad kiarit son coayl clashtyn trom. Lhisagh peiagh erbee lesh pian 'sy chleaysh, liqyr ass y chleaysh, mee-ourys ny caghlaaghyn clashtyn obbragh fakin lhiaghtee hoshiaght."
+  - q: "Vod coayl clashtyn jeeaghyn gollrish coayl cooinaghtyn?"
+    a: "Ny keayrtyn. Ta Instityd Ashoonagh er Lhingys (NIA) gra dy vel sleih shinney nagh vod clashtyn dy mie ny keayrtyn smooinit dy vel ad mee-ouryssagh ny nagh vel ad co-obbraghey, ga nagh vel shen yn aght. Ta scrutaght clashtyn ny cheum fondagh tra ta peiagh ennaghtyn goll er ash ny chaill ad ny t'er ny ghra."
+  - q: "Cha mennick lhisagh sleih shinney cur scrutaght er ny sooillyn oc?"
+    a: "Ta Instityd Ashoonagh er Lhingys coyrlaghey scrutaght sooilley lhean dagh blein ny daa vlein lurg 60 bleeaney d'eash, ny myr ta dty 'er-kiarail sooilley coyrlaghey. Ta feme ec sleih lesh diabeytys ny brastyl-folley ard er y chooid smoo er fer ec y chooid sloo un cheayrt 'sy vlein."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Ta coayl clashtyn cadjin ayns bea ny s'aaney, as ta ronsaghtee goaill eh dy dowin myr choyrle gaue son coayl cooinaghtyn. Cha nel shen dy ghra dy vel saaseyn clashtyn er ny phrowal myr aght dy lhiettal coayl cooinaghtyn; va eiyrtyssyn mestit ec y phrowal share derrey nish. Ta'n duillag shoh soilshaghey ny ta ronsaghey gra, kys dy gheddyn clashtyn er ny hirrey, cre ta saaseyn clashtyn gyn oardagh ayns ny Steatyn Unnaneysit, as kys dy yannoo coloayrtys ny sassey.
 
-## Why does hearing matter for brain health?
+## Cre'n fa ta clashtyn scanshoil son slaynt yn inchyn?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Ta coayl clashtyn kianglt rish gaue ny smoo dy choayl cooinaghtyn. Ta [Co-chruinnaghey Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) goaill rish dy vel eh currit da mysh 7% jeh coayl cooinaghtyn er y theihll. Ta shen cur eh co-chorrym rish LDL cholesterol ard son y chorran smoo mastey ny 14 coyrleyn gaue oddys v'er ny chaghlaa ayns cummey y Cho-chruinnaghey, rere [coontey giare UCL jeh'n tuarastal](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Reddyn scanshoil voish y Cho-chruinnaghey:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Gaue ny smoo lesh coayl clashtyn.** Ayns e cho-hronsoaghey jeh shey studeyrys ard-ghooagh, va gaue coayl cooinaghtyn mysh 37% ny smoo ec sleih lesh coayl clashtyn na ec sleih lesh clashtyn cadjin.
+- **Ny smoo coayl, ny smoo gaue.** Hooar studeyrys ren jeeaghyn er y cheim dy ren y gaue gaase myr va'n clashtyn ny smessey.
+- **Oyryn foddey, foast gyn prowal.** Ta smooinaghtyn goaill stiagh lhieenidys as goll er ash, trimshey, ny sloo greinnaghey son yn inchyn, as y streeu imneagh ta clashtyn goaill.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Ta coayl clashtyn cadjin. Ta [Instityd Ashoonagh er Lhingys (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) gra dy vel eh ec mysh un trian jeh sleih shinney, as ta'n caa gaase lesh eash.
 
-## What did the ACHIEVE hearing aid trial find?
+## Cre ren prowal saaseyn clashtyn ACHIEVE feddyn magh?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+She ACHIEVE y chied phrowal gyn tort er saaseyn clashtyn as coayl tushtey. Ta ny eiyrtyssyn echey dy mennick er nyn insh dy neu-chiart, myr shen shoh ny feyshtyn veih [tuarastal y phrowal er ny chur magh](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Quoi ghow ayrn:** 977 sleih aasit eddyr 70 as 84 bleeaney d'eash lesh coayl clashtyn gyn kiarail as gyn drogh ghuilley smooinee, ec kiare buill ayns boallaghyn ayns ny Steatyn Unnaneysit.
+- **Cre v'er ny choyrle:** Hooar lieh saaseyn clashtyn as shirveishyn coyrlee marish audiologist. Hooar y lieh elley claare ynsagh slaynt mysh shennaghey slayntoil.
+- **Prif eiyrtys:** Lurg three bleeaney, cha row **caghlaa erbee** ayns coayl tushtey eddyr y daa phossan ayns cooidjagh.
+- **Eiyrtys fo-phossan:** Ren y phrowal recrooteil veih daa oyr. Haink 238 peiagh voish studeyrys slaynt cree foddey-farraghtyn (ARIC), as myr phossan va gaue ny smoo oc dy choayl tushtey. Ayns y phossan shoh, va coayl **48% ny sloo** lesh saaseyn clashtyn. Mastey ny 739 obbree arryltagh slayntoil voish y cho-phobble, cha row ymmyd baghtal erbee.
 
-How to read this honestly:
+Kys dy lhaih shoh dy onneragh:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Va'n freggyr cooidjagh gyn ymmyd.
+- Va'n feddyn fo-phossan kiarit ro-laue, agh haink eh voish ronsoaghey ny s'aaney jeh possan ny sloo. Ta feme eh v'er ny hickyraghey ayns studeyrys elley.
+- Va fys ec ny h-olteynee cre'n claare v'ad ayn, as foddee shen cur er eiyrtyssyn.
+- Ta Co-chruinnaghey Lancet lhaih y stoo dy vel eh soilshaghey dy vel saaseyn clashtyn jeeaghyn dy ve er-lheh cooneyagh son sleih ta coayl clashtyn oc marish coyrleyn gaue elley son coayl cooinaghtyn.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Yn chooid smoo scanshoil shoh: cha nel saaseyn clashtyn er ny phrowal myr aght dy lhiettal coayl cooinaghtyn. T'ad cooney lesh sleih clashtyn, goaill ayrn ayns coloayrtys as tannaghtyn kianglt, as ta shen oyr fondagh dy smooinaghtyn orroo.
 
-## How do I know if hearing should be checked?
+## Kys neem's toiggal dy lhisagh clashtyn v'er ny hirrey?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+Ta NIA coyrlaghey fakin lhiaghtee my t'ou hene ny yn persoon t'ou cur kiarail daue:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Feddyn eh doillee sleih y hoiggal er y çhellvane
+- Feddyn eh doillee eiyrt er coloayrtys tra ta daa pheiagh ny ny smoo loayrt
+- Dy mennick briaght er sleih gra eh reesht
+- Cur yn çhellveeishan seose cha ard dy vel sleih elley jannoo plaint
+- Feddyn eh doillee glare y hoiggal tra ta feiyr cooyl
+- Smooinaghtyn dy vel sleih elley jeeaghyn dy vel ad meebyl
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Toshiaght lesh lhiaghtee kiarail bunneydagh, oddys oo y chur huggey audiologist (fer-oayllee clashtyn) ny lhiaghtee cleaysh, stroin as scoarnagh. Ta troggal coan-cleaysh ny oyr cadjin son coayl clashtyn oddys lhiaghtee scrutaghey. **Ta coayl clashtyn obbragh ny chooish lhiasaghey**, as ta NIA coyrlaghey fakin lhiaghtee chelleeragh.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Foddee coayl clashtyn v'er ny mheanaghey son mee-ourys. Ta NIA gra dy vel sleih shinney nagh vod clashtyn dy mie ny keayrtyn smooinit dy vel ad mee-ouryssagh, nagh vel ad freggyrt ny nagh vel ad co-obbraghey. My ta peiagh deyr dhyt jeeaghyn dy vel eh ny ee goll er ash ny chaill ad ny t'er ny ghra, ta scrutaght clashtyn ny cheum mie dy toshiaghey.
 
-## What are over-the-counter hearing aids?
+## Cre ta saaseyn clashtyn gyn oardagh?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Neayr's 17 Jerrey Fouyir 2022, ta'n [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) er chur kied da sorçh dy haaseyn clashtyn gyn oardagh (OTC). Shoh kys t'ad cosoylaghey rish saaseyn lesh oardagh:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Tro | Saaseyn clashtyn gyn oardagh | Saaseyn clashtyn lesh oardagh |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Quoi t'ad daue | Sleih aasit 18 bleeaney d'eash as ny shinney lesh coayl clashtyn beg ny meanagh (myr t'ad er ny h-ennaghtyn) | Coayl clashtyn erbee, eash erbee |
+| Raad dy gheddyn ad | Siopyn ny er-linney, gyn scrutaght ny oardagh | Trooid fer-oayllee clashtyn kieddit |
+| Coyrleaghey | T'ou hene cur ny reaghaghyn er ash, dy mennick lesh app | Ta fer-oayllee geddyn ad er nyn gaghlaa son dty chlashtyn |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+Ta'n FDA gra nagh vel saaseyn OTC kiarit son coayl clashtyn trom ny feer hrome. T'eh coyrlaghey fakin lhiaghtee, goaill rish fer-oayllee cleaysh, stroin as scoarnagh, roish kionnaghey my ta ayd:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Pian ny mee-ourys 'sy chleaysh
+- Liqyr, pus ny fuill ass y chleaysh ayns ny shey meeghyn s'jerree
+- Caghlaaghyn clashtyn obbragh ny caghlaa
+- Clashtyn ny smessey ayns un chleaysh, ny sheean ayns un chleaysh ny lomarcan
+- Mee-ourys ny vertigo
+- Mooarane coan-cleaysh
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Ta feme er cleayn dy gholl er lesh saaseyn clashtyn, myr shen jean scrutaghey er y pholasee chur-back roish my vel oo kionnaghey, myr ta'n FDA coyrlaghey. Ta NIA coyrlaghey briaght vel dty churrymys-shickyrys cooney lesh paart jeh'n chostys. Son peiagh ta cummal marish coayl cooinaghtyn, foddee audiologist cooney dy reaghey cre'n sorçh saase as coyrleaghey vees ny sassey dy chur lesh gagh laa.
 
-## How can I talk more easily with someone who has hearing loss?
+## Kys oddym loayrt ny sassey rish peiagh ta coayl clashtyn echey ny eck?
 
-The NIA suggests:
+Ta NIA coyrlaghey:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Jeeagh er y pheiagh as cum sooill er sooill**, ayns soilshey mie, myr shen dy vod ad dty veillyn as dty eddin y akin.
+2. **Fow boayl feagh.** Cur yn çhellveeishan magh ny gow ersooyl veih feiyr.
+3. **Loayr beggan ny s'ard, agh ny jean gyllaghey.** Loayr dy dooghyssagh as ec tappeeaght reasoonagh.
+4. **Cum dty veeal foshlit.** Ny jean gee, caghlaghey gam ny coodaghey dty veeal choud's t'ou loayrt.
+5. **Abbyr eh rere aght elley ayns ynnyd jeh gra eh reesht** tra ta red ennagh caillit.
+6. **Un pheiagh ec y traa.** Ayns possan, jean shickyr dy vel yn persoon goaill ayrn.
+7. **Bee surransagh as briaght kys oddys oo cooney.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ta ny coyrleyn shoh gobbraghey dy mie marish nyn [coyrleyn coloayrtys son coayl cooinaghtyn](/caregiving/communication-tips/). Ta obbraghyn lesh jallooyn myrgeddin goaill ersooyl trimmid clashtyn. Ta [Picture Pairs](/games/picture-pairs/) as [Conversation Cards](/games/conversation-cards/) gobbraghey trooid ny t'ou fakin, as ta [Finish the Saying](/games/finish-the-saying/) lhiggey dhyt y jerrey y hoilshaghey ayns ynnyd jeh gra eh. Son çhellvanyn, jeeagh er nyn lioar mychione [çhellvanyn as çhellvanyn-fysseree](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Ta rish scanshoil myrgeddin
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Ayns 2024, ren Co-chruinnaghey Lancet cur coayl rish gyn kiarail rish myr choyrle gaue noa. Ta coontey giare UCL cur eh ec mysh 2% jeh cooishyn coayl cooinaghtyn, as ta'n Cho-chruinnaghey coyrlaghey dy ve scrutaghey as kiarail ry-gheddyn son doilleeidyn rish da dy chooilley pheiagh. Ta [NIA coyrlaghey](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) scrutaght sooilley lhean dagh blein ny daa vlein lurg 60 bleeaney d'eash, as scrutaghey oardaghyn speckeyryn myrgeddin. Foddee eer caghlaaghyn beggey ayns rish cur er gaue tuittym.
 
-## Talk with a doctor
+## Loayr rish lhiaghtee
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Briaght er lhiaghtee mychione scrutaghtyn clashtyn as rish my t'ou cur tastey da cowragyn erbee erskyn. Shir kiarail chelleeragh son coayl clashtyn obbragh, pian 'sy chleaysh, ny liqyr ass y chleaysh. My t'ou cur kiarail da peiagh ta cummal marish coayl cooinaghtyn, insh da'n lhiaghtee oc mychione caghlaaghyn clashtyn ny rish, oddys cur er imnea, sauçhys as kys oddys yn persoon goaill ayrn.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+She fysseree cadjin yn duillag shoh, cha nee coyrle lhiasaghey. Jeeagh er nyn [gobbal lhiasaghey](/medical-disclaimer/). Lhaih tooilley mychione [kiangley sheshoil as slaynt yn inchyn](/brain-health/social-connection/).

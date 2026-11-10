@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Kuyidika tableti to telefone sambu na muntu yina ke na démence"
+seoTitle: "Yidika tableti to telefone sambu na muntu yina ke na démence"
+description: "Bandu na bandu ya kuyidika tableti to telefone: kanga na programe mosi, sonika masonama ya nene, katula bansangu, yidika ekran mpi kubumba bansangu ya muntu."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Sala nde tableti to telefone kuvanda pete na ntwala ya kupesa yo na muntu.
+  Kanga yo na programe mosi ti Guided Access na iPad mpi iPhone to ti kukanga
+  programe na Android, to sadila Assistive Access ya Apple sambu na mbandu ya
+  pete. Sala masonama ya nene, katula bansangu, bika baprograme ya fioti kaka
+  na ekran ya ntete, yidika makelele, sadila kisika ya kutula yo, mpi tadila
+  nswa ya baprograme. Sadila yo kumosi, pembeni ya bisalu ya kukonda ekran.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) mpi kukanga programe (Android) ke bikisaka ekran na programe mosi tii nge kangula yo."
+  - "Assistive Access ya Apple ke pesaka mbandu ya pete yina bo salaka sambu na bantu yina ke zingaka ti démence."
+  - "Sala masonama ya nene mpi katula bansangu ti bima yina ke basikaka, sambu kima mosi ve kukatula to kuvukisa dikebi."
+  - "Bika baprograme ya fioti yina muntu me yikanaka na ekran mosi, mpi yidika makelele na ntwala ya kubanda."
+  - "Kisika ya kutula tableti mpi kisika ya kucharja yina ke sobaka ve ke sadisaka nde bo mona yo mpi sadila yo na pete."
+  - "Tadila nswa ya baprograme mpi mutindu bo ke kabulaka bansangu: mbala mingi HIPAA ke taninaka ve bansangu yina ke vandaka na kisadilu ya muntu yandi mosi."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Inki mutindu mono lenda kangisa muntu yina ke na démence na kubasika na programe na iPad?"
+    a: "Kangula Guided Access na Settings > Accessibility > Guided Access mpi tula kode ya nsweki. Kangula programe, niema mbala tatu na buto ya zulu (to buto ya Home na ba iPad ya ntama), mpi niema Start. iPad ke bikala na programe yina tii muntu mosi sonika kode ya nsweki."
+  - q: "Inki mutindu mono lenda kanga tableti ya Android na programe mosi?"
+    a: "Kangula kukanga programe na programe ya Settings, mbala mingi na nsi ya Security (bantangu ya nkaka Security & location) > Advanced > App pinning. Na nima, kangula programe, kangula Overview, niema kidimbu ya programe na zulu mpi niema Pin. PIN, mutindu ya kubaka to nsinga ya nsweki ya nge kele mfunu sambu na kukatula yo."
+  - q: "Keti yo kele mbote na kusadila Guided Access na telefone ya muntu yandi mosi?"
+    a: "Vanda ti dikebi. Apple ke tuba nde Crash Detection mpi bisalu ya nsadisa ya nswalu ke salaka ve ntangu Guided Access kele na kisalu. Kana muntu ke sadilaka telefone sambu na kubinga nsadisa ya nswalu, sadila Guided Access kaka ntangu nge kele ti yandi, to tadila Assistive Access."
+  - q: "Ntangu ya kufwana ya kusadila ekran sambu na muntu yina ke na démence kele bonso inki?"
+    a: "Ntalu ya sikisiki ya ntangu kele ve. Bantangu ya nkufi, ya kusala kumosi, ya kuvukana ti kutambula, miziki, bisalu ya nzo mpi masolo ke salaka kilumbu ya mbote kuluta bantangu ya nda ya kuvanda yandi mosi na ekran. Kana kisadilu ke nataka kimakasi to ke katulaka bisalu ya nkaka, sadila yo fioti."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tableti lenda vanda mutindu ya kitoko ya kukabula bifwanisu, miziki mpi bansaka ya pete. Kansi yo lenda vanda mpi mpasi: kuniema mosi ya mbi ke kangulaka programe ya nkaka, nsangu ke basikaka, masonama kele ya fioti, to ekran ke zimaka na kati ya nsaka. Kuyidika yo fioti na ntwala ke manisaka mingi na mambu yai.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Bandu yai ke sadilaka baparametre yina kele na kati ya iPhone, iPad mpi Android. Bazina ya bima lenda soba na baversio ya programe mpi na bamasini ya kuswaswana, yo yina kana kima mosi ke monana ya kuswaswana, landa lutiti ya Apple to ya Google yina kele awa na nsi sambu na masini ya nge. Sala mambu yai nge mosi, na ntwala ya kuvanda kumosi.
 
-## Should someone with dementia use a tablet or phone?
+## Keti muntu yina ke na démence fwete sadila tableti to telefone?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Yo ke tadila muntu yina. Bantu mingi ke sepelaka na kusadila tableti ti muntu mosi pembeni na bo, ata kana bo lenda sadila yo ve bo mosi. Banda na kusadila yo kumosi, ti programe mosi ya kukanguka, sambu na bantangu fioti. Kana yo ke nata kiese mpi masolo, landa. Kana yo ke nata kuvukisa mabanza to kimakasi, albume ya bifwanisu, balutiti ya kuprinta to miziki lenda fwana mingi sambu na yandi. [Bisalu ya kuprinta](/activities/printable/) na beto kele nzila ya nkaka.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Mbala mingi tableti kele pete kuluta telefone: ekran mpi bifwanisu kele ya nene, mpi yo kele ve nzila ya muntu ya kubinga nsadisa ya nswalu.
 
-## How do I lock a tablet or phone to one app?
+## Inki mutindu mono lenda kanga tableti to telefone na programe mosi?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Sadila Guided Access na iPhone mpi iPad, to kukanga programe na Android. Nzila nyonso zole ke bikisaka ekran na programe mosi tii nge sonika kode, yo yina kuniema to kupusa ya mbi lenda kangula ve kima ya nkaka.
 
-### iPad and iPhone: Guided Access
+### iPad mpi iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Landila [bandu ya Apple sambu na Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Kangula **Settings**, niema **Accessibility**, na nima niema **Guided Access** mpi kangula yo.
+2. Na nsi ya **Passcode Settings**, tula kode ya nsweki ya Guided Access. Nge lenda mpi ndima Face ID to Touch ID.
+3. Kana nge zola: na nsi ya **Display Auto-Lock**, pona ntangu yina ekran fwete kangama na ntangu ya kisalu, sambu yo kuzima ve na kati ya nsaka.
+4. Kangula programe yina nge zola kusadila.
+5. Niema mbala tatu na buto ya lweka (iPhone), buto ya zulu (iPad), to buto ya Home na bamasini ya ntama.
+6. Kana nge zola: zinga bitini ya ekran yina nge zola nde yo vanda kukonda kuyamba kuniema. Niema **Options** (to **Session Settings**) sambu na kukatula babuto ya makelele to kukanga ekran na kubaluka.
+7. Niema **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Sambu na kumanisa kisalu, niema diaka mbala tatu buto ya mutindu mosi, sonika kode ya nsweki, mpi niema **End**. Apple ke tuba nde na baversio ya nkaka ya ntama ya programe nge fwete niema mbala zole.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Mfunu:** Apple ke tuba nde Crash Detection mpi bisalu ya nsadisa ya nswalu ke salaka ve ntangu Guided Access kele na kisalu. Bikisa ve Guided Access na telefone yina muntu lenda vanda na mfunu ya yo sambu na kubinga nsadisa ya nswalu.
 
-### Android: app pinning
+### Android: kukanga programe
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Landila [lusadisu ya Google Android sambu na kukanga ba ekran](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Kangula programe ya **Settings**.
+2. Niema **Security** (to **Security & location**), na nima **Advanced**, na nima **App pinning**. Kana nge mona yo ve, tala balutiti ya lusadisu ya mubuki ya masini ya nge.
+3. Kangula **App pinning**. PIN, mutindu ya kubaka to nsinga ya nsweki ya nge ta vanda mfunu sambu na kukatula yo.
+4. Kangula programe yina nge zola. Pusa na zulu tii na kati ya ekran mpi simba sambu na kukangula Overview (to niema Overview kana nge ke sadila banavigasio ya babuto tatu).
+5. Na zulu ya ntalu ya programe, niema kidimbu ya programe, na nima niema **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Sambu na kukatula yo ti banavigasio ya kupusa, pusa na zulu mpi simba. Ti banavigasio ya babuto tatu, simba Back mpi Overview. Ti banavigasio ya babuto zole, simba Back mpi Home. Na nima sonika PIN, mutindu ya kubaka to nsinga ya nsweki ya nge.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Keti mutindu ya pete kele sambu na iPhone to iPad ya mvimba?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Ee. Assistive Access ya Apple ke sobaka ekran ya mbote ya ntangu yonso ti ekran ya pete mingi. [Apple ke tendulaka yo](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) bonso kima yina bo salaka sambu na kusala nde iPhone vanda pete sambu na bantu yina ke zingaka ti démence na kusadila yo bo mosi, ti bima ya nene na ekran mpi bisalu yina ke talama mbote. Apple ke pesaka [kisalu ya mutindu mosi na iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Nani ke yidikaka yo.** Apple ke pesaka ngindu nde muntu ya kutudila ntima, bonso muntu ya dibuta to muntu yina ke kebaka, sadisa na kupona baprograme mpi bisalu.
+- **Kisika ya kubandila.** Kwenda na **Settings > Accessibility > Assistive Access**, niema **Set Up Assistive Access**, na nima **Continue**.
+- **Baprograme.** Nge ke ponaka baprograme yina fwete monana. Baprograme ya nkaka ya Apple kele ti baversio ya pete, mpi mingi ya baprograme ya nkaka lenda vanda na mbandu na bo ya ntangu yonso.
+- **Mbandu.** Pona **Rows** (ndandani ya pete na kutanga) to **Grid** (bima ya nene yina ke monisaka bifwanisu mpi bidimbu).
+- **Kode ya nsweki.** Nge ke tulaka kode ya nsweki ya nkaka ya Assistive Access sambu na kukota, kubasika to kusoba baparametre. Apple ke pesaka ngindu ya kutula konti ya Apple ya kuvutula na ntangu ya kuyidika, sambu kana kode ya nsweki me vilama mpi konti yina kele ve, yo lenda lomba nde bo yidika diaka masini.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access lenda fwana sambu na muntu yina ke sadilaka masini na yandi konso kilumbu. Guided Access to kukanga programe kele nswalu sambu na ntangu ya nsaka ya kukabula.
 
-## How do I make text and pictures bigger?
+## Inki mutindu mono lenda sala masonama mpi bifwanisu ya nene?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Yidika nene ya masonama mpi ya bima yina ke monanaka na ekran, na nima tala kana babuto ke monanaka mbote na ekran.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone mpi iPad.** Landila [bandu ya Apple sambu na nene ya masonama](https://support.apple.com/en-us/102453), kwenda na **Settings > Display & Brightness > Text Size** mpi pusa curseur. Sambu na masonama ya nene mingi, kwenda na **Settings > Accessibility > Display & Text Size > Larger Text**. Apple ke tuba nde masonama ya nene mingi lenda sala nde babuto ya nkaka kuvanda mpasi na kuniema, yo yina soba yo kana kele mfunu.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Landila [lusadisu ya Google sambu na baparametre ya masonama mpi ya bima yina ke monanaka](https://support.google.com/accessibility/android/answer/11183305?hl=en), kangula **Settings** mpi sosa **Font size**, na nima pusa curseur. Sosa **Display size** sambu na kusala bima yonso ya nene na ekran. Nge lenda mpi kangula **Bold text** na nsi ya **Accessibility > Display size and text**. Baprograme ya nkaka ke landaka ve baparametre yai.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Na bansaka bonso [Picture Pairs](/games/picture-pairs/) mpi [Find the Same](/games/find-the-same/), nge lenda mpi pona bitini to baponama ya fioti, yina ke bikisaka mambu ya pete na ekran.
 
-## How do I stop notifications and pop-ups?
+## Inki mutindu mono lenda katula bansangu mpi bima yina ke basikaka?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Katula bansangu sambu na baprograme yina nge kele na mfunu ve, mpi sadila Do Not Disturb na ntangu ya bisalu.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone mpi iPad.** Kwenda na **Settings > Notifications**, niema programe mosi na nsi ya **Notification Style**, mpi katula **Allow Notifications** ([lutiti ya Apple sambu na baparametre ya bansangu](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Sambu na kukanga makelele ya babingi, balukebisu mpi bansangu sambu na mwa ntangu, kangula Control Center mpi kangula **Do Not Disturb** na buto ya **Focus** ([lusadisu ya Apple sambu na Do Not Disturb](https://support.apple.com/en-us/105112)). Nge lenda yidika ntangu na yo na nsi ya **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Pusa na nsi banda na zulu ya ekran mpi niema **Do Not Disturb**, to kwenda na **Settings > Modes > Do Not Disturb** ([lusadisu ya Google sambu na Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Na nsi ya **Notification filters** nge lenda pona bantu mpi baprograme yina lenda baka nzila ya kukwisa. Baparametre ke sobaka na kutadila mubuki ya masini.
 
-## How do I make a simple home screen?
+## Inki mutindu mono lenda sala ekran ya mbote ya pete?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Bika baprograme ya fioti yina muntu me yikanaka na ekran mosi mpi bumba ya nkaka. Parametre mosi ya sikisiki kele ve sambu na yo; yo ke tendula kukatula bima yina kele mingi.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Pona baprograme tatu ti sambanu.** Mu mbandu, bifwanisu, miziki, programe ya kubinga na video mpi nsaka mosi.
+- **Tula bo na ekran ya ntete,** na bisika ya mutindu mosi ntangu yonso, mpi tula ya nkaka na ekran ya zole to na dosie.
+- **Sadila kifwanisu ya nima ya pete, ya kuswaswana mbote,** bonso mukubu mosi to kifwanisu mosi yina muntu me yikanaka, sambu bidimbu kumonana mbote.
+- **Katula baprograme yina nge kele na mfunu ve.** Baprograme ya fioti ke tendula mabaku ya fioti ya kuvukisa mabanza mpi bansangu ya fioti yina bo ke bakaka.
+- **Tadila Assistive Access** na bamasini ya Apple kana nge zola nde masini sala yo sambu na nge.
 
-## What about volume and sound?
+## Inki beto fwete sala sambu na makelele?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Yidika makelele na ndambu ya mbote na ntwala ya kupesa masini. Ti Guided Access, nge lenda katula babuto ya makelele sambu yo kusoba ve na kati ya kisalu. Tala kana bima ya kuwidikila makelele (kana muntu ke sadilaka yo) kele na kisika mpi ke salaka mbote.
 
-## Where should the tablet live?
+## Kisika ya inki tableti fwete vandaka?
 
-Give it a stand and a permanent charging spot.
+Pesa yo kisika ya kutula yo mpi kisika mosi ya kucharja yina ke sobaka ve.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Kisika ya kutula to mbambi** yina ke simbisaka tableti na mesa ke sadisaka nde muntu mosi ve kusimba yo, mpi yo ke vandaka pete na kusonga bima.
+- **Kisika mosi ya kucharja** yina ke sobaka ve, mbote mingi kisika ya kucharja na mesa na suku yina nge ke sadilaka konso kilumbu. Tableti ke vandaka ntangu yonso ti courant mpi ntangu yonso na kisika ya mutindu mosi.
+- **Longula ntemo ya mingi.** Tula ekran ntama ti fenetre yina ke pesaka ntemo ya ngolo.
 
-## How much screen time is okay?
+## Ntangu ya kufwana ya kusadila ekran kele bonso inki?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Ntalu ya sikisiki ya baminute kele ve. Sosa bantangu ya nkufi, ya kusala kumosi, bonso kitini mosi ya kilumbu ya mbote yina ke vandaka mpi ti kunikana, miziki, bisalu ya nzo, masolo mpi ntangu na nganda. Sambu mambu mingi na nkokila lenda yika mpasi ya kukonda mavundu na ntangu yina, nge lenda tadila kubika bisalu ya ekran na ntangu ya ntwala ya kilumbu. Tala [bisalu ya pima na nima ya midi](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Kusadila tableti kumosi, kansi ve bonso kima ya kubumba ntangu, ke bikisaka yo kuvanda kisalu ya kumosi. Lutiti na beto ya [kusakana bansaka kumosi](/caregiving/how-to-play-together/) ke tendula mutindu ya kusala yo.
 
-## How do I protect their privacy on the device?
+## Inki mutindu mono lenda tanina bansangu ya muntu na masini?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Longula mambu yina baprograme lenda baka, mpi kudimona ve nde bansiku ya kubumba bansangu ya mavimpi ke taninaka yo. Biro ya Mavimpi mpi ya Bantu ya États-Unis (HHS) [ke tendulaka](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) nde mbala mingi bansiku ya HIPAA ke taninaka ve bansangu ya mavimpi yina bo ke bumbaka to bo ke monaka na nzila ya batelefone mpi batableti ya muntu mosi. Na mambu mingi, HIPAA ke taninaka mpi ve bansangu yina bo sonikaka na baprograme sambu na kusadila ya muntu mosi, longola kaka kana programe ke katuka na mupesi ya lusansu, ndonga ya mavimpi to bantu yina ke salaka ti bo.
 
-HHS suggests:
+HHS ke pesaka ngindu:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- kubuya baprograme yina kele ve mfunu to ya kintulumukina, mingi-mingi yina ya "ofele";
+- kupesa ve baprograme nzila ya kumona kisika ya nge kele longola kaka kana yo kele mpenza mfunu, bonso na bakarte.
 
-Also consider:
+Tadila mpi:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Sadila kode ya nsweki** na masini, mpi bumba yo na kisika mosi ya mbote.
+- **Tadila banswa** sambu na bifwanisu, kamera, mikro, bakontakti mpi kisika yina nge kele, mpi katula konso nswa yina programe kele na mfunu ve.
+- **Tala mambu yina programe ke bakaka** na ntwala ya kutula yo. Lutiti na beto ya [kupona baprograme mpi bansaka sambu na bantu yina ke na démence](/caregiving/choosing-apps-and-games/) kele ti ndandani ya kutala mambu ya kubumba bansangu.
+- **Vanda ti dikebi ti bifwanisu ya dibuta.** Kabula kaka bifwanisu yina muntu ta vanda ti kiese na yo, mpi zaba kisika yina programe ke bumbaka yo. Na [Photo Pairs](/games/photo-pairs/), bifwanisu yina nge ke ponaka ke bikalaka na navigateur ya nge.
+- **Katula kusumba na kati ya programe** to katula bansangu ya kufuta na bakonti yina muntu ke sadilaka.

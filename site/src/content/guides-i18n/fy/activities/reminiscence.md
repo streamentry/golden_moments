@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Oantinkens diele: ûnthâlddoazen, libbensferhalen en foto's"
+seoTitle: "Oantinkens diele by demintens: ideeën sûnder toetse"
+description: "Hoe't jo oantinkens diele mei in persoan dy't mei demintens libbet, sûnder te toetsjen: prate oer foto's, ûnthâlddoazen en libbensferhalen."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Oantinkens diele betsjut dat jo tegearre genietsje fan it ferline mei
+  foto's, foarwerpen, muzyk en ferhalen. Meitsje in ûnthâlddoaze, set in
+  ienfâldich libbensferhaalboek byinoar of sjoch tegearre nei foto's. Toets
+  nea: lit fragen lykas „Witte jo dat noch?” en „Wa is dit?” weilitte en
+  brûk iepen útnoegings lykas „Fertel my hjir mear oer.” In waarm petear
+  is wichtiger as de feiten krekt hawwe.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Oantinkens diele is in petear, gjin toets. Of de details krekt binne, docht er net ta; it genot wol."
+  - "Ferfang „Witte jo noch...?” en „Wa is dit?” troch opmerkingen en útnoegings lykas „Fertel my oer dizze dei.”"
+  - "In ûnthâlddoaze mei foarwerpen út it libben fan de persoan jout hannen en petear wat om fêst te hâlden."
+  - "In libbensferhaalboek helpt famylje, besikers en soarchmeiwurkers de persoan te kennen, net allinnich de diagnoaze."
+  - "As in oantinken fertriet bringt, bied dan earst treast en gean sêft wat oars dwaan."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Wat betsjut oantinkens diele foar minsken dy't mei demintens libje?"
+    a: "Oantinkens diele is praten oer oantinkens en eardere ûnderfiningen, faak mei help fan foto's, foarwerpen, muzyk of fideo's. It kin ûnder fjouwer eagen of yn in groep. It doel is in noflik, sinfol petear, net testen wat de persoan noch wit."
+  - q: "Wêrom moat ik net freegje: „Witte jo dat noch?”"
+    a: "Fragen dy't it ûnthâld teste, kinne meitsje dat in persoan him ferlegen of ûnrêstich fielt as it antwurd net komt. It National Institute on Aging neamt it freegjen oft immen wat of immen noch wit as iets om te mijen. Meitsje ynstee in opmerking oer wat jo sjogge, en lit de persoan tafoegje wat hy of sy wol."
+  - q: "Wat kin ik yn in ûnthâlddoaze dwaan?"
+    a: "Kies feilige, stevige foarwerpen dy't by it libben fan de persoan hearre: dingen fan it wurk, hobbyspul, in favorite sjaal, ansichtkaarten, reseptkaarten, sportoantinkens of kopyen fan foto's. Mij skerpe dingen, lytse foarwerpen dy't trochslokt wurde kinne en ûnferfangbere orizjinelen."
+  - q: "Wat as de feiten net klopje?"
+    a: "Lit it der mar by. As jo mem seit dat de foto har susster toant wylst it har nicht is, dan is dat goed. Ferbetterjen makket fan in waarm momint in toets. Folgje it ferhaal dat de persoan fertelt en genietsje der tegearre fan."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Oantinkens diele betsjut gewoan tegearre genietsje fan it ferline. Foar in protte minsken dy't mei demintens libje, bliuwe oantinkens fan jierren lyn faaks dúdliker as wat der fan 'e moarn bard is. Foto's, bekende foarwerpen, muzyk en ferhalen kinne dy oantinkens iepenje en jo wat waars jaan om te dielen. De iene regel: it is in petear, nea in toets.
 
-## What is reminiscence, and how is it different from quizzing?
+## Wat is oantinkens diele, en hoe is it oars as toetse?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Oantinkens diele is praten oer oantinkens mei foto's, foarwerpen, muzyk of fideo, yn it eigen tempo fan de persoan. De [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) beskriuwt it as it dielen fan eardere ûnderfiningen en ferhalen mei help fan foto's, foarwerpen, fideo's of muzyk, yn in boek of op in tablet. Toetse is wat oars: dêrby wurdt de persoan frege om in goed antwurd te jaan, en dat kin ynstee fan genot ferlegenens bringe.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+It [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) neamt it freegjen oft in persoan wat of immen noch wit as iets om te mijen. De [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) stelt foar om fragen te mijen dy't op it koarte ûnthâld leane, en ynstee dêrfan te praten oer it fierdere ferline.
 
-| Instead of | Try |
+| Ynstee fan | Probearje |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| „Witte jo dit noch?” | „Dit liket in fleurige dei. Fertel my der mear oer.” |
+| „Wa is dit?” | „Dit is tante Rose op it strân. Sjoch dy hoed ris.” |
+| „Hokker jier wie dit?” | „Dit liket it âlde hûs. Hoe wie it om dêr te wenjen?” |
+| „Nee, dat is net Bill, dat is Frank.” | „Hy liket in soad wille te hawwen.” |
+| „Dat hawwe jo al ferteld.” | „Ik hâld fan dat ferhaal.” |
 
-## How do you talk about photos without quizzing?
+Foar kant-en-klare foto-útnoegings kinne jo [petearkaarten](/games/conversation-cards/) probearje. As jo fan jo eigen famyljefoto's in rêstich koppelspultsje meitsje wolle, probearje dan [fotopearen](/games/photo-pairs/); de foto's dy't jo kieze, bliuwe yn jo browser.
 
-Lead with what you see, then leave room for the person to add something if they wish.
+## Hoe kinne jo oer foto's prate sûnder te toetse?
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+Begjin mei wat jo sjogge, en lit dan romte foar de persoan om wat ta te foegjen as hy of sy dat wol.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+1. **Sit njonkeninoar.** Hâld it album tusken jo yn, sadat jo tegearre sjogge en net as in toets oer in tafel hinne.
+2. **Kies in pear foto's.** Fiif goede foto's binne better as in hiele doaze. Grutte, dúdlike ôfdrukken wurkje it bêste.
+3. **Neam minsken sels.** „Dit binne jo en heit op jim trouwdei” nimt de druk fuort.
+4. **Meitsje opmerkingen oer details.** Klean, auto's, iten, waar, gesichten. „Wat in auto. Hy glinstert sa moai.”
+5. **Noegje út, easkje net.** „Fertel my oer...” of „Wat falt jo op?” Stilte is prima.
+6. **Folgje it spoar fan de persoan.** As hy of sy oer wat hiel oars begjint, gean dêr dan yn mei.
+7. **Stopje wylst it noch noflik is.** Slút it album foardat wurgens komt.
 
-## How do you make a memory box?
+## Hoe meitsje jo in ûnthâlddoaze?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+In ûnthâlddoaze is in bak mei foarwerpen út it libben fan de persoan om fêst te hâlden en oer te praten.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Kies in stevige doaze** dy't maklik iepen te meitsjen is, lykas in skuondoaze, in hoededoaze of in lyts houten kistke.
+2. **Kies in tema of in miks.** Wurk, in hobby, in plak, in desennia, of in bytsje fan alles.
+3. **Sammelje feilige foarwerpen.** Fiif oant tsien dingen binne genôch om mei te begjinnen.
+4. **Brûk kopyen fan djoere dingen.** Meitsje kopyen fan ûnferfangbere foto's en dokuminten en bewarje de orizjinelen feilich.
+5. **Helje de dingen ien foar ien tefoaren.** Jou der ien oer, sis der wat oer en sjoch wêr't it petear hinne giet.
 
-Ideas to include:
+Ideeën om ta te foegjen:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Wurk:** in nammebadge, in lyts ark, in stikje fan in unifoarm, in kasboek, in ferpleechspeld, in kookboek út in eethûs.
+- **Thús:** in reseptkaart yn it eigen hânskrift, in theedoek, in favorite sjaal of strikdas.
+- **Hobby's:** in fiskerslokje sûnder heak, in honkbal, in bol wol, in siedpakketsje.
+- **Plakken:** ansichtkaarten, kaarten, in souvenir fan in reis, in kranteknipsel út de wenplak.
+- **Famylje:** kopyen fan foto's, in tekening fan in bern, in trouwútnoeging.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Lit skerpe foarwerpen, lytse dingen dy't trochslokt wurde kinne en alles wat pynlike oantinkens oproppe kin weilitte, útsein as jo witte dat it wolkom is.
 
-## How do you make a life-story book?
+## Hoe meitsje jo in libbensferhaalboek?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+In libbensferhaalboek is in ienfâldich album mei foto's en koarte byskriften oer it libben fan de persoan. It is wat om tegearre nei te sjen, en it helpt besikers en soarchmeiwurkers de hiele persoan te sjen.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Kies in foarm.** In map mei ynstekhoezen, in printe fotoboek of in ôfbyldingshow op in tablet.
+2. **Plan in pear dielen.** Bernetiid, skoalle, wurk, famylje, wenplakken, leauwen, hobby's, favorite iten en muzyk.
+3. **Set ien of twa foto's op elke side** mei in koart byskrift yn grutte letters: „Mary, 22 jier, begjint te wurkjen by de bank.”
+4. **Nim ek dingen op dy't de persoan leuk fynt en gewoanten.** „Drinkt kofje mei molke. Hâldt fan psalmen op snein. Hâldt net fan lûde tv.” Dit helpt elkenien dy't foar de persoan soarget.
+5. **Doch de persoan der safolle by as hy of sy wol**, troch foto's te kiezen, ferhalen te fertellen of gewoan te sjen hoe't it ûntstiet.
+6. **Bliuw deroan tafoegje.** It hoecht net klear te wêzen om nuttich te wêzen.
 
-## More reminiscence ideas
+## Mear ideeën om oantinkens te dielen
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Draai muzyk út harren jeugd** en praat oer wêr't dy muzyk harren hinne bringt. Sjoch [muzykaktiviteiten](/activities/music/).
+- **Sjoch thúsfilms of tv-programma's** út harren favorite desennia.
+- **Kook in gerjocht út harren bernetiid** en lit de geuren it petear liede.
+- **Sjoch nei in kaart** fan harren wenplak en folgje bekende strjitten.
+- **Blêdzje troch âlde katalogussen of tydskriften** en praat oer prizen, moade en auto's.
+- **Nim harren ferhalen op** mei in telefoan, mei harren tastimming, foar de famylje.
+- **Diel wat tidens in petear op ôfstân.** Hâld ien foto foar de kamera by in fideopetear; sjoch [telefoan- en fideopetearen](/activities/phone-and-video-calls/).
+- **Nim in foto of foarwerp mei as jo op besite geane.** Dat jout it besite in maklik omtinken; sjoch [op besite gean](/activities/visiting/).
 
-## What if a memory is painful?
+## Wat as in oantinken pynlik is?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Guon oantinkens bringe fertriet, spyt of eangst mei. As de persoan oerstjoer rekket, stopje dan, bied treast en feroarje sêft fan ûnderwerp of aktiviteit. Giet net yn diskusje oer wat der bard is. De Family Caregiver Alliance riedt ôf om te besykjen in persoan te oertsjûgjen dat hy of sy ferkeard is, en stelt foar om te reagearjen op de gefoelens dy't de persoan toant, want dy binne echt. As de persoan praat oer immen dy't ferstoarn is alsof dy noch libbet, reagearje dan op it gefoel: „Jo misse har. Fertel my oer har.”
 
-## What does the research say?
+## Wat seit it ûndersyk?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+In [Cochrane-oersjoch fan oantinkens diele](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), mei 22 ûndersiken en 1.972 minsken, fûn dat de effekten net altyd itselde wiene, lyts wiene en ferskilden troch de setting en de foarm. Der waard gjin bewiis fûn fan skea foar minsken dy't mei demintens libje. Wy stelle oantinkens diele foar om't it liede kin ta waarme, sinfolle tiden tegearre, net as in behanneling. Foar mear oer maklik petear, sjoch [tips foar kommunikaasje](/caregiving/communication-tips/).

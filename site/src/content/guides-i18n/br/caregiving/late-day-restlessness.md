@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Oberiantizoù kalm an abardaez"
+seoTitle: "Sundowning: Oberiantizoù kalm an abardaez"
+description: "Hentoù pemdeziek, kemmoù er gambr ha dibreñvoù kalm a c'hall lakaat ar fretted a-fed an noz da vezañ dic'hlanoc'h, ha pryd kas da ur mezeg."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning a zo fretted, sammdi pe enkrez a gommenç pe a jom gwashoc'h a-dreuz
+  an abardaez pe an noz. Hentoù pleustrel a c'hall servijout a sell ouzh un
+  deiz stabil, golo hag oberiantiz abred en deiz, dornaouegoù diwezhat nebeutoc'h,
+  kafe nebeutoc'h, goleier e-kerzh an abardaez a-raok an noz, ur ger dic'hlanoc'h,
+  ha dibreñvoù kalm evel sonerezh, skeudennoù pe dornaouegoù. Ar symptomoù nevez
+  pe o kreskiñ a gav bezañ gwelet gant ur mezeg.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning a dalv ouzh fretted pe sammdi a gommenç pe a jom gwashoc'h pa vez ar sklaerdeiz o vont da vezañ dlalet."
+  - "Lakait an oberiantizoù boulc'h, ar c'herzhioù ha ar bagadennoù er mintin pe e-kerzh an deiz a-raok."
+  - "Ar sklaerdeiz, un heñvel bale bemdez, dornaouegoù diwezhat nebeutoc'h ha kafe nebeutoc'h a-dreuz an abardaez a c'hall lakaat an abardaezioù da vont gwelloc'h."
+  - "Lakait ar goleier a-raok an noz, diminuit an tirvad, ha cheñchit d'oberiantizoù kalm ha anavezet."
+  - "Miret ur gelaouenn evit gwelet pe zo kaset ar fretted, hag bezit kalm ha reizhus pa gommenç ar fretted."
+  - "Gwelit ur mezeg evit symptomoù nevez pe o kreskiñ: poan, heintiad pe medisinoù a c'hall bezañ en-dro."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Pegoulz eo emdroadus sundowning, da vihanañ?"
+    a: "Emdroadus e kommenç pe e vez gwashoc'h a-dreuz an abardaez pe an nozvezh, pa vez sklaerdeiz o vont da vezañ dlalet. Peseurt eur a vez a zisheñvel diouzh an hini, setu perak e c'hall bezañ dalc'h ur gelaouenn berr a-hed un devezh pe daou a c'hall skoazellañ."
+  - q: "Peseurt oberiantizoù a skoazell a-enep sundowning?"
+    a: "Oberiantizoù kalm, anavezet ha ne fell ket ar boan ebet anezho a vez ar re wellañ a-dreuz an abardaez: sonerezh lenn, sellet ouzh skeudennoù, ur seurt pe ur film a garet, ur bale dornaouegoù, ur gerzhed berr pe ur bred ha ur merenn asambles. Miret an oberiantizoù nevez pe ar re a glask ur bern labour evit an deiz."
+  - q: "Ha sundowning a c'hall bezañ ur sinadur medisinel?"
+    a: "Gwashoc'h e c'hall mont dre gwall ar c'hlenvedoù evel ar poan, an heintiadoù evel heintiadoù an dourioù, ar c'hunvezh kousket pe efedoù kostez ar medisinoù. Ma vez fretted nevez, buan pe o kreskiñ, kevreit ouzh mezeg an den."
+  - q: "Ha rankan goulenn ouzh ar mezeg diwar-benn ur medisin evit sundowning?"
+    a: "Kaozeadenn eo da gaout gant ar mezeg. Kevredigezh Alzheimer a lavar e vez dibabet alies an dibreñvoù ne vezont ket medisinel da gentañ, ha ne vez soñjet en ur medisin evit ar fretted a-dreuz an nozvezh nemet goude pouezañ ar riskoù hag ar stlejoù. An pajenn-mañ a ro ket keloù medisinel."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Kavet a ra kalz a familhoù an hevelep patrom: an deizhioù a zo stabil betek an deiz, met pa vez an abardaez o vont ouzhpenn, an den a vev gant an dementiezh a zeu da vezañ fretus, enkrez, sotaet pe krenv. Mont a ra a-gleiz-kleiz, lavar a ra « Mont d'ar gêr » pa vez er gêr dija, pe e vez prest da zerc'hel kounnar aes. Galvet e vez sundowning an dra-se.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+N'eus digemm nemet ebet, met cheñchamantoù en rannadenn an deiz, er gambr ha war ar seurtoù oberiantizoù a gynig a c'hall lakaat an abardaezioù da vezañ dic'hlanoc'h. Ar bajenn-mañ a zastum hentoù pleustrel, ne vezont ket medisinel, goude an National Institute on Aging hag ar Alzheimer's Association. Ne dalv ket evel kuzul medisinel. Ma vez symptomoù nevez, buan pe o kreskiñ, komzit gant mezeg an den.
 
-## What is sundowning?
+## Petra eo sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning a zo fretted, enkrez, sotadenn pe sammdi a gommenç pe a jom gwashoc'h pa vez ar sklaerdeiz o vont da vezañ dlalet, a-dreuz an abardaez pe an nozvezh. Mention a ra an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) e c'hall bezañ un aoun a-walc'h ouzhpenn a gas da gresk ar fretted a-dreuz an deiz.
 
-## What can make late-day restlessness worse?
+## Petra a c'hall gwashaat ar fretted a-dreuz an deiz?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Diverradoù a c'hall kaout ur pezh e-keñver, alies asambles. Rollet e vez gant [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) traoù evel:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- skuizhder war-lerc'h un deiz leun;
+- kreizenn nevez pe dic'hlan;
+- ur « horolaj bewiskaer diouzhtu » a zo dic'hoari, o lakaat an den da vezañ kousk e-kerzh an deiz ha dihun e-kerzh an nos;
+- skeudennoù ha sklaerdeiz izel, a c'hall bezañ dic'hlan;
+- sentiñ ar straß pe an enkrez eus an dud en-dro dezhañ;
+- dreist-holl kousk nebeutoc'h, a zo boas e-touez an dud kozh.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+Ouzhpennañ a ra an NIA kaozioù all enkrez e-doare ginerel, en o zouez poan, digalonekaat pe straß, diouer a gousk, deridenn, ur gorf re lent pe ur mell tred, ha medisinoù pe kemmañ etrezh medisinoù.
 
-## How can I plan the day to make evenings calmer?
+## Penaos kemmañ an deiz evit ma vo an abardaezioù dielfennoc'h?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Lakait an traoù pouezus abred ha derc'hit an abardaez gourdrouz hag urzhiet. An NIA hag ar Alzheimer's Association a argoulenn un deiz urzhiet. Setu un deiz skouer, da addasaat d'ho puhez:
 
-| Time | What may help |
+| Eur | Petra a c'hall skoazellañ |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Mintin | Emvodoù, bagadennoù, deroù ha kement tra a bouez labour, pa vez an den bev-spont abred |
+| Dreist ar mintin | Amzer en-diabarzh pe e-kichen ur prenestr heol; ur bale pe un oberiantiz all |
+| Kreiz-deiz | Debriad brasoc'h (Alzheimer's Association a c'hontell ur merenn brasoc'h ha ur sistr nevezh) |
+| Deiz-hanter | Diskuizh ma vez ezhomm, met evit kouskiñ hir a-ziwezhat na vezit ket |
+| Kreiz pe diwezhat an abardaez | Oberiantizoù kalm, anavezet; ur bred ha dour; hep kafe |
+| A-raok an noz | Goleier en-diabarzh ha serriñ al lien a-raok ma vo tevel |
+| Abardaez | Ur merenn skañv, sonerezh distro, kemm izel, ur mare gousk stabil |
 
-A few specific points from the sources:
+Kelien dibar eus ar vammennoù:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Sklaerdeiz.** An NIA a gont ober plas d'an heol bemdez, dre-vezh en-dro pe e-kichen ur prenestr.
+- **Ober a-bep-devezh, met n'eo ket re.** Klask a ra bezañ fizus bemdez hep kalz oberiantizoù, a lavar an NIA.
+- **Diodoù a-ziwezhat.** Diskouezit diouzh an alkol ha diouzh ar fraezhoù gant kafe pe kola, diwezhat en deiz (NIA). Alzheimer's Association a verk ivez ar nikotin.
+- **Kousk.** Diskouragit ouzh kouskoù hir ha kousket a-ziwezhat en deiz (NIA). Alzheimer's Association a bropoz bevennañ ar c'housk en deiz ma'z eo problem an nozvezh.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Evit muioc'h a-zivout sevel un deiz sioul, gwelit [oberiantizoù ar bemdez](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Penaos kemmañ ar gêr evit bezañ kalmoc'h a-dreuz an abardaez?
 
-Reduce noise, add light and keep familiar things close.
+Lezit ar sturlu da vihanaat, ouzhpennit sklaerder ha lakait traoù anavezet tost.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Goleier kempenn hag ekennek.** Alzheimer's Association a bropoz derc'hel ar gêr gant goleier mat an nozvezh. Goleiit al lec'h a-raok ma vo skeudennoù.
+- **Sturlu nebeutoc'h.** Diskar pe lakaat dibar ar skignerezh hag ar radio, ha bevennit an emweladennoù pe al labourioù ti e-kerzh an amzer-se. Alzheimer's Association a bropoz lakaat dibar ar stumm sturlu evel ar skignerezh, al labourioù ha ar sonerezh bouzar.
+- **Kizidigezhioù anavezet.** An NIA a bropoz sonerezh lenn ha lakaat traoù ha skeudennoù a garer en ti.
+- **Gwiriañ an holl.** Alzheimer's Association a bropoz gwiriañ ma'z eus poan, naon, sec'hed, deriadenn, ur vezikenn leun, skuizhder, heintiadoù hag irritadenn ar c'roc'hen, hag derc'hel ar gambr en un temperadur kempenn.
+- **Ho yec'hed ho-unan.** Sentiñ a ra an dud ar straß. An NIA a bropoz arafiñ ha klask lezel ho c'hoarvezhioù en-dro ma'z eo ho soñjoù ho-unan a aoz ar pouez.
 
-## What calm activities can we do in the late afternoon?
+## Pe oberiantizoù kalm a c'hallfemp ober a-dreuz an abardaez?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Dibabit oberiantizoù anavezet, hep bezañ prim ha aes da baouezañ. Alzheimer's Association a bropoz oberiantizoù kalm evel sonerezh kalm, skeudennoù pe ur film a garet, ha ur bale asambles evit lakaat ar fretted da vezañ dic'hlanoc'h. An NIA a bropoz ur merenn pe un evaj, ur program teledi, sonerezh, ur bale, lenn, pe ul labour ti dic'hlan evel dornaouegoù.
 
-Ideas to try:
+Traoù da glask:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Dornaouegoù asambles.** An NIA a bropoz ar seurt labour ti dic'hlan-se. Aes eo trin ar lienoù-dourn, ha ur fin klir zo d'ar labour.
+2. **Sonerezh a garont.** Sonioù anavezet eus o yaouankiz, e-doare izel. Kanañ gant a gont. Muioc'h a sonerezhioù e [oberiantizoù sonerezh](/activities/music/).
+3. **Sellet ouzh skeudennoù.** Un albom skeudennoù, pe kelien skeudennoù tud ar familh e [Photo Pairs](/games/photo-pairs/) gant ar skeudennoù gwelus, a c'hall kas d'ur gaozeadenn dic'hlan.
+4. **Ur bale berr.** En ti-jardin, war an hent pe en ur gorridor, a-raok ma vo tevel.
+5. **Rannañ ur merenn hag un evaj.** Un dra simpl, tomm ha hep kafe, war an taol asambles.
+6. **Kevatalaat dinerzh.** [Picture Pairs](/games/picture-pairs/) gant pevar teuliad ha skeudennoù gwelus a zo aes da gregi ennañ ha aes da baouezañ.
+7. **Livañ.** [Coloring](/games/coloring/) war ar skramm pe war ur bajenn moullet, hep ped da echuiñ.
+8. **Sellet ha kaozeal.** [Conversation Cards](/games/conversation-cards/) a ro ur skeudenn ha ur bedadenn digor. Sellet a-walc'h eo.
+9. **Ur bausadenn anall.** [Calm Breathing](/games/calm-breathing/) a zo ur bausadenn lent ha dinerzh, a gregit hag a baouezit ho-unan.
+10. **Labourioù a zorn.** Dibab botoù pe chadoù, lakaat ur blankedenn vleu da vezañ lis, pe krenañ un dra anavezet. Gwelit [oberiantizoù sentiñ](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Chomit hep oberiantizoù nevez, emvodoù prizus ha kement tra a c'houlenn kalz a gof pe a attantion a-ziwezhat en deiz. Mirit anezho evit ar mintin.
 
-## What should I do when restlessness starts?
+## Petra a rankan ober pa gommenç ar fretted?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Derc'hit kalm, lakait ar fiañs, ha kasit an den diwar-benn adarre dre viskoazh. An NIA a bropoz kaozeal gant kalm, selaou kredennoù an den, chom hep argudiñ, lakaat an den da c'houzout ez eo diogel, ha dornaouegoù teneroc'h ma skoazell. Neuze, klaskit ur gouezeledigezh: ur merenn, un evaj, sonerezh pe ur bale.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association a bropoz kemennadennoù evel « Diogel out amañ » ha « Eñ, Kaer eo din e vefes trist », hag a gont lakaat sklaerdeiz ouzhpenn, mont pemp pell gant ar stumm, ha bevennañ ar stumm. Arabat en ur lakaat en ur c'horn, en ur c'hlostañ pe en ur harzañ an den, nag argudiñ gantañ.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Mar bez an den o kaout un dremm dre gargi, an NIA a lavar chom da vezañ pell a-walc'h, betek ma vo echuet ar giz. Er gwall-stad, galvit 112 ha lavarit e kav an den dementiezh.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Ar [gourc'hemennoù](/caregiving/communication-tips/) hag [petra ober pa lavar an den ne fell ket](/caregiving/when-they-say-no/) a zo muioc'h a c'houzout diwar-benn gerioù kalmaat.
 
-## How do I find the triggers?
+## Penaos kavout an diskar-kas?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Dalc'hit ur gelaouenn berr a-hed un devezh pe daou. Alzheimer's Association a bropoz heuliañ petra a zo a-raok an abardaezioù fretted evit kavout an dic'hasourien. Notit an eur e kommenc ar fretted, petra a zo bet an eurvezh a-raok, ar c'housk, ar merennoù hag an evajoù, an emweladennoù, ar sturlu hag ar sklaerdeiz. Degasit ar gelaouenn d'ar mezeg. An NIA a notenn e c'hall miret ar gelaouenn sikour ar re a ro soñj d'an den hag ar re a ro ar yec'hed, evit gwelet ur patrom.
 
-## When should I call a doctor about sundowning?
+## Pryd e rankan galv ur mezeg diwar-benn sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kevreit gant mezeg an den mar eo fretted nevez, buan kreñvoc'h pe e vez kemmoù all ganti. An NIA a lavar e rankont kas ar kemmoù buan pe a zo fluktuus buan d'ar mezeg, dreist-holl goude un heintiad pe kemmoù nevez er medisinoù.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Goulennit ouzh ar mezeg gwiriañ traoù a c'hall lakaat an abardaezioù da vezañ kaletoc'h. Alzheimer's Association a lavar ez eus kudennoù yec'hed evel heintiadoù an dourioù, diskaezh an dourioù, troadoù spontus ha kousk-apnea, ha lavarit d'an den pegoulz a zo gwellañ evit pep medisin. An NIA a rollañ ar poan, ar c'hleiz ha efedoù kostez pe kemmañ etrezh medisinoù e-touez an aoun a c'hall kas d'ar fretted.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association a lavar e vez dibabet alies an dibreñvoù ne vezont ket medisinel evit kudennoù kousk kevreet ouzh Alzheimer, ha ne vez soñjet en ur medisin evit fretted an abardaez nemet ma ne dalvez ket ar re-se, goude pouezañ ar riskoù hag ar stlejoù. Ar mezeg a zo ar gwir-ober diwar-benn ar sell-se. Arabat kregiñ, sachañ pe cheñch medisin ebet, sed kousk pe atizher, hep kuzul medisinel.
 
-## How do I get through the evenings myself?
+## Penaos e c'hallan tremen an abardaezioù va-unan?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+An abardaezioù a c'hall bezañ ar pezh kaletañ en deiz ur merour. Ma c'hallit, goulennit ouzh ur familh, ur mignon pe ur skoazeller paeet da skoazellañ an abardaez ur pezh deiz bennak er sizhun, hyd ha ma vefe nemet un eur. Hon kelenn war [prederiadenn ho-unan](/caregiving/caregiver-self-care/) a ro ar seurtoù skoazell e-kerzh ar seurt, ha helpenn Alzheimer's Association 24/7 digoust.

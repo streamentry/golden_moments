@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Geamannan Cuimhne le Trom-inntinn: Gun Deuchainn"
+seoTitle: "Geamannan Cuimhne Ciùin airson Trom-inntinn"
+description: "Geamannan maidseadh, dealbh is cairtean do dhaoine le trom-inntinn, agus mar a chluicheas tu iad gun duine a bhith fo dheuchainn."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Bidh geamannan cuimhne airson daoine le trom-inntinn ag obair nas fheàrr nuair
+  nach eil iad an urra ri cuimhne. Cluich geamannan maidseadh leis na dealbhan
+  aghaidh-suas, cleachd ceithir gu sia leacan, cluich mar sgioba agus leig às
+  an sgòr. Tha e nas fhasa dealbh aithneachadh na cuimhneachadh air, mar sin
+  tagh geamannan far am bi a h-uile càil ri fhaicinn. ’S e an tlachd, chan e
+  toradh, an t-amas.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Bidh geamannan cuimhne clasaigeach a’ falach nan cairtean, agus tha sin a’ dèanamh deuchainn air dìreach na tha trom-inntinn a’ dèanamh doirbh. Fàg na dealbhan aghaidh-suas an àite sin."
+  - "Nas lugha de phìosan, dealbhan nas motha agus aon roghainn aig an aon àm a’ cumail a’ gheama tlachdmhor."
+  - "Cluich mar sgioba, gabh cùisean mu seach a’ cuideachadh agus leig às an sgòr. Cha bu chòir duine sam bith a bhith fo chuideam."
+  - "Cha deach a shealltainn gu bheil geama cuimhne sam bith a’ làimhseachadh, a’ slaodadh no a’ cur stad air trom-inntinn. Cluich leis gur e àm tlachdmhor còmhla a th’ ann."
+  - "Stad fhad ’s a tha e fhathast spòrsail. Tha bruidhinn mu na dealbhan na thoradh math."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Dè a th’ ann an deagh gheama cuimhne do chuideigin le trom-inntinn?"
+    a: "Geama maidseadh le dealbhan mòra, eòlach a dh’fhaodas fuireach aghaidh-suas, leithid Paidhrichean dhealbhan air a shuidheachadh gu ceithir no sia leacan. Tha e sàsachail an dealbh càraid a lorg nuair a chì thu e, gun deuchainn a dhèanamh air cuimhne ghoirid. Tha Lorg an aon rud eadhon nas sìmplidhe, le aon dealbh ri mhaidseadh bho dhà gu ceithir roghainnean."
+  - q: "A bheil geamannan cuimhne a’ cuideachadh le trom-inntinn?"
+    a: "Cha deach a shealltainn gu bheil geama cuimhne sam bith a’ làimhseachadh, a’ slaodadh no a’ cur stad air trom-inntinn; lorg lèirmheas Cochrane gu robh an fhianais mu thrèanadh eanchainn air coimpiutair ro chuingealaichte airson a ràdh a bheil e a’ casg trom-inntinn. Faodaidh geamannan a bhith fhathast nan dòigh bhlàth air ùine a chur seachad còmhla. Tagh iad airson tlachd is companas."
+  - q: "Am bu chòir dhomh Concentration clasaigeach a chluich le cuideigin aig a bheil trom-inntinn?"
+    a: "Tràth san t-slighe, faodaidh cuid de dhaoine fhathast tlachd fhaighinn às, gu h-àraidh le àireamh bheag de chairtean. Ma thòisicheas cuimhneachadh càite a bheil na cairtean ag adhbhrachadh frustrachas, tionndaidh na cairtean aghaidh-suas agus dìreach lorg na paidhrichean còmhla. Bidh sin a’ cumail a’ mhaidseadh agus a’ leigeil às an deuchainn cuimhne."
+  - q: "Dè na geamannan cuimhne a tha math do sheann daoine ann am buidheann?"
+    a: "Bidh bingo dhealbhan le glaodhaire air an sgrion, crìochnachadh abairtean eòlach a-mach, agus cairtean còmhraidh ag obair gu math do bhuidhnean. Cluich gus am bi a h-uile cairt làn agus seachain a bhith ag ainmeachadh cò a fhuair freagairt, gus nach bi duine a’ faireachdainn fa leth."
+  - q: "A bheil geamannan cuimhne an-asgaidh ann do sheann daoine air-loidhne?"
+    a: "Tha. Tha na geamannan air an làrach seo, a’ gabhail a-steach Paidhrichean dhealbhan, Lorg an aon rud, Paidhrichean dhealbhan pearsanta agus Tòimhseachan dealbh, an-asgaidh, chan eil feum air clàradh agus bidh iad ag obair air fònaichean, tablaidean is coimpiutairean. Chan eil timer no sgòr aig gin dhiubh."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Nuair a nì thu lorg airson “geamannan cuimhne do sheann daoine”, ’s ann airson daoine a tha ag iarraidh eacarsaich inntinn a chaidh a’ mhòr-chuid de na gheibh thu a dhèanamh: cairtean falaichte, clocaichean cunntais sìos, ìrean agus sgòran. Do chuideigin a tha a’ fuireach le trom-inntinn, bidh na feartan sin a’ tionndadh geama gu bhith na dheuchainn air dìreach an rud a tha air fàs doirbh. Faodar na h-aon gheamannan a chluich ann an dòigh nas ciùine. Tha an duilleag seo a’ sealltainn mar a nì thu sin, agus a’ liostadh gheamannan a tha ag obair gu math aig gach ìre.
 
-## Why do classic memory games frustrate people with dementia?
+## Carson a bhios geamannan cuimhne clasaigeach a’ cur frustrachas air daoine le trom-inntinn?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Leis gu bheil iad an urra ri fiosrachadh ùr a chumail san inntinn, agus mar as trice ’s e sin a’ chiad rud air a bheil Alzheimer, an adhbhar trom-inntinn as cumanta, a’ toirt buaidh. Tha [Comann Alzheimer](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ag ràdh gur e duilgheadas cuimhneachadh fiosrachaidh ùr-ionnsaichte an comharra tràth as cumanta de Alzheimer. Ann an Concentration clasaigeach, tionndaidhidh thu dà chairt, cuimhnichidh tu càite an robh iad, agus cleachdaidh tu sin mionaid às dèidh sin. ’S e fiosrachadh ùr a tha sin, air a chumail is air a chuimhneachadh.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Cuir ris timer, sgòr no fuaim airson freagairtean ceàrr, agus tha an neach air a bheil thu a’ toirt cùram air a chuimhneachadh na rudan nach urrainn dhaibh a dhèanamh, air beulaibh cuideigin a tha gràdhach dhaibh. Bidh mòran dhaoine a’ sgur gu sàmhach a bhith ag iarraidh cluich.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+’S e obair eadar-dhealaichte agus mar as trice nas fhasa a th’ ann an rud aithneachadh as urrainn dhut fhaicinn. Tha e a’ faireachdainn math comharrachadh an dàrna cupa tì nuair a tha an dà chuid ri fhaicinn. Mar sin, ’s e an cleas a bhith a’ cumail a’ mhaidseadh agus a’ leigeil às an deuchainn cuimhne.
 
-## How do you make a memory game gentle?
+## Ciamar a nì thu geama cuimhne ciùin?
 
-These adjustments work for card games, board games and games on a screen.
+Bidh na h-atharrachaidhean seo ag obair airson geamannan cairtean, geamannan bùird agus geamannan air sgrion.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Fàg na dealbhan aghaidh-suas.** Tha maidseadh dhealbhan as urrainn dhut fhaicinn fhathast na fhìor gheama, agus gu tric na gheama sàsachail.
+2. **Cleachd nas lugha de phìosan.** Tòisich le dhà no trì paidhrichean. Cuir barrachd ris dìreach ma tha e a’ faireachdainn ro fhurasta agus ma tha iad ag iarraidh barrachd.
+3. **Tagh dealbhan mòra, eòlach, inbheach.** Cupa tì, neòinean-grèine, bàta-siùil. Chan e cartùnaichean, agus chan e seallaidhean trang.
+4. **Cluich mar sgioba.** “Lorgamaid na coin” an àite “do thuras.” Gabh cùisean mu seach a’ comharrachadh agus a’ cuideachadh.
+5. **Leig às an sgòr.** Chan fheum duine sam bith buannachadh. Ma dh’fhaighneas cuideigin, tha “rinn sinn e” gu leòr.
+6. **Na dèan rèis an aghaidh a’ chleoc.** Gun timers, agus gun cabhag eadar cuairtean.
+7. **Bruidhinn mu na dealbhan.** “Seall air a’ bhàta sin. An deach thu a-riamh a sheòladh?” Gu tric ’s e an còmhradh am pàirt as fheàrr.
+8. **Stad air nota math.** Cuir crìoch air às dèidh maidse, fhad ’s a tha e fhathast tlachdmhor.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+Tha [Institiud Nàiseanta an Aosdaidh](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a’ toirt an aon spiorad mar chomhairle choitcheann: freagair an gnìomh air na dh’fhaodas an neach a dhèanamh, thoir an aire do fhrustrachas, agus dèan cinnteach gu bheil iad a’ faireachdainn soirbheachail.
 
-## Gentle memory and matching games to try
+## Geamannan cuimhne is maidseadh ciùine airson feuchainn
 
-### Picture pairs (matching with pictures showing)
+### Paidhrichean dhealbhan (maidseadh le dealbhan ri fhaicinn)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+’S e geama maidseadh le dealbhan mòra agus 4 gu 12 leacan a th’ ann an [Paidhrichean dhealbhan](/games/picture-pairs/). Faodaidh na dealbhan fuireach ri fhaicinn, mar sin tha e mu dheidhinn càraidean a lorg, chan ann a bhith a’ cuimhneachadh càite an robh iad. Tòisich le ceithir leacan. Do chuideigin aig ìre thràth a tha a’ faighinn tlachd à beagan barrachd dùbhlain, faodaidh tu tionndadh gu **Dealbhan falaichte**, ach till gu bhith a’ sealltainn dhealbhan a’ chiad mhionaid nach eil e spòrsail tuilleadh.
 
-### Find the same
+### Lorg an aon rud
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+Bidh [Lorg an aon rud](/games/find-the-same/) a’ sealltainn aon dealbh aig a’ bhàrr agus dhà gu ceithir roghainnean gu h-ìosal. Tap air an fhear a tha a’ maidseadh. ’S e seo an geama maidseadh as sìmplidhe air an làrach agus tha e freagarrach do dhaoine a tha a’ faighinn cliath làn ro thrang, a’ gabhail a-steach mòran aig na h-ìrean nas fhaide air adhart le cuideigin ri an taobh.
 
-### Photo pairs (family photo memory game)
+### Paidhrichean dhealbhan pearsanta (geama cuimhne le dealbhan teaghlaich)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+Bidh [Paidhrichean dhealbhan pearsanta](/games/photo-pairs/) a’ tionndadh dhealbhan a thaghas tu gu geama maidseadh: an cù, an gàrradh, an taigh aig an loch. Gu tric bidh aghaidhean is àiteachan eòlach a’ brosnachadh còmhraidh nas motha na dealbh sam bith à stoc. Bidh na dealbhan a’ fuireach sa bhrabhsair agad agus cha tèid iad a luchdachadh suas a-riamh.
 
-### Sort together
+### Seòrsaich còmhla
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+Tha [Seòrsaich còmhla](/games/sort-together/) ag iarraidh ort gach dealbh a chur sa bhasgaid far a bheil e a’ buntainn, leithid a’ chidsin no an gàrradh. Bidh seòrsachadh a’ tarraing air eòlas fad-ùine mu mar a tha an saoghal ag obair, chan ann air cuimhne ghoirid.
 
-### Picture puzzle
+### Tòimhseachan dealbh
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+Bidh [Tòimhseachan dealbh](/games/picture-puzzle/) a’ gearradh dealbh gu 4 no 9 pìosan. Tap air dà phìos gus an iomlaid gus am bi an dealbh slàn. Bidh an dealbh slàn a’ fuireach air an sgrion mar stiùireadh.
 
-### Real cards on the table
+### Cairtean fìor air a’ bhòrd
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Chan eil feum agad air sgrion. Tarraing paidhrichean maidseach à dà dheic chairtean no bho sheata chairtean dhealbhan. Cuir iad aghaidh-suas ann an dà shreath agus lorg na paidhrichean còmhla. Nas fhaide air adhart, seòrsaich a rèir datha no seòrsa an àite sin. Tha [Bunait Alzheimer Ameireaga](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a’ liostadh gheamannan cairtean is gheamannan bùird am measg ghnìomhan airson na h-ìre tràth.
 
-## Which memory games suit each stage?
+## Dè na geamannan cuimhne a tha freagarrach do gach ìre?
 
-Stages are loose labels. Go by what the person enjoys today.
+’S e bileagan sgaoilte a th’ ann an ìrean. Rach a rèir na tha a’ còrdadh ris an neach an-diugh.
 
-| Stage | Games that often fit | How to set them up |
+| Ìre | Geamannan a bhios gu tric iomchaidh | Mar a shuidhicheas tu iad |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Tràth | Paidhrichean dhealbhan, Paidhrichean dhealbhan pearsanta, Tòimhseachan dealbh le 9 pìosan, geamannan cairtean eòlach | Leig leotha taghadh. Faodaidh na leacan tionndadh ma chòrdas e riutha; leig às an sgòr ma tha e a’ cur dragh orra |
+| Meadhanach | Paidhrichean dhealbhan le 4 gu 6 leacan aghaidh-suas, Lorg an aon rud, Seòrsaich còmhla | Dealbhan ri fhaicinn an-còmhnaidh. Suidh ri an taobh agus gabh cùisean mu seach a’ cuideachadh |
+| Anmoch | Lorg an aon rud le 2 roghainn, coimhead còmhla air aon dealbh mòr | Glè ghoirid. Cumaidh tusa an tablaid; bidh iadsan a’ comharrachadh, no dìreach a’ coimhead is ag èisteachd |
 
-## Do memory games help with dementia?
+## A bheil geamannan cuimhne a’ cuideachadh le trom-inntinn?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Cha deach a shealltainn gu bheil geama cuimhne sam bith a’ làimhseachadh, a’ slaodadh no a’ cur stad air trom-inntinn. Lorg [lèirmheas Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) air trèanadh inntinneil coimpiutairichte do dhaoine le lagachadh inntinneil tlàth gu robh an fhianais ro chuingealaichte airson a ràdh a bheil e a’ casg trom-inntinn. Tha an stiùireadh againn mu [gheamannan eanchainn is trom-inntinn](/brain-health/brain-games/) a’ mìneachadh dè a tha agus nach eil sgrùdaidhean a’ sealltainn.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Chan eil sin na adhbhar geamannan a sheachnadh. Tha [Comann Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) a’ moladh fòcas a chur air tlachd, chan e coileanadh. Faodaidh deich mionaidean a’ maidseadh dhealbhan agus a’ bruidhinn mun deidhinn a bhith nam pàirt fìor mhath den latha.
 
-## What about memory games for seniors without dementia?
+## Dè mu dheidhinn geamannan cuimhne do sheann daoine gun trom-inntinn?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Ma tha inbheach nas sine gun duilgheadasan cuimhne a’ faighinn tlachd à tòimhseachain le tìm, sgòran agus ìrean nas duilghe, chan eil dad ceàrr air sin. Dìreach na cuir earbsa ann gun dìon e an aghaidh trom-inntinn; cha deach a shealltainn gu bheil geama sam bith a’ dèanamh sin. Bidh na tionndaidhean ciùine gu h-àrd cuideachd ag obair gu math nuair a bhios ginealaichean a’ cluich còmhla: faodaidh sean-phàrant le trom-inntinn agus ogha òg dealbhan a mhaidseadh mar sgioba, gun duine fo dheuchainn.
 
-## When should you stop or change the game?
+## Cuin a bu chòir dhut stad no an geama atharrachadh?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+’S e comharran a th’ ann an osnaich, an tablaid a phutadh air falbh, “chan urrainn dhomh seo a dhèanamh” no coltas iomagaineach gum bu chòir dhut a dhèanamh nas fhasa no stad. Feuch nas lugha de leacan, tionndaidh na dealbhan aghaidh-suas, atharraich gu [Lorg an aon rud](/games/find-the-same/), no dìreach coimhead air na dealbhan agus dèan còmhradh. Mura h-eil iad airson cluich idir, tha sin ceart gu leòr cuideachd. Tha barrachd san stiùireadh againn mu [mar a chluicheas tu còmhla](/caregiving/how-to-play-together/) mu astar agus cuideachadh.

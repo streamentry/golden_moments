@@ -1,34 +1,34 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Aktiviti blong ol man we oli gat dementia: 101 aidia"
+seoTitle: "Aidia blong aktiviti long dementia: 101 isi aktiviti"
+description: "101 isi aktiviti blong ol adalt we oli gat dementia, from fol ol towel go long miusik mo fotogref, wetem fasin blong jenjenem long taem we i kam had."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Ol gud aktiviti blong ol man we oli gat dementia oli samting we oli save finis
+  mo oli isi blong serem: fol laondri, sotem ol samting, kukum kaikai, miusik,
+  lukluk long fotogref, wokabaot, gaden, taem wetem ol animol mo ol isi gem. Jusum
+  wanem man ya i bin laekem long laef blong hem, mo tekem ol hevi wok, mo stopem
+  taem hem i taed. Ol gud taem tugeta i impoten moa long finisim eni wan wok.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Stat from laef blong man ya: wok blong hem, ol hobi blong hem, fet blong hem mo miusik we hem i laekem, oli gud gaed blong yu."
+  - "Mekem eni aktiviti i smol moa taem i nidem: ol step oli less, ol jus i less, yu tekem hevi wok."
+  - "Lukluk, holem samting o jes sindaon klosap, oli stap kaontem olsem yu join ia."
+  - "Stopem o jenjenem taem yu lukim hem i taed, i kros o i bored. Stopem i erly i gud rizolt."
+  - "Duim tugeta i impoten moa long duim i stret."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Wanem aktiviti i gud long wan man we i gat dementia?"
+    a: "Ol aktiviti we oli familiar, we man ya i bin duim long planti yia, be yu mekem i isi smol: fol laondri, setem tebol, kukum kaikai, miusik, lukluk long fotogref, wokabaot, gaden mo taem wetem wan animol. Jusum ol samting we oli fil olsem adalt mo oli yusum, mo duim tugeta."
+  - q: "Hamas taem I mas stap long wan aktiviti?"
+    a: "I no gat wan stret lengt. Sam minis blong fol ol towel maet i nogud long wan dei, mo wan aoa long gaden maet i isi long narafala dei. Letem man ya setem spid mo finisim taem i stap yet i gud."
+  - q: "Wanem if man ya i no laekem duim wan aktiviti?"
+    a: "No fosem hem. Wan 'nomo' i ken minim se wok ya i hevi tumas, taem i no raet, o hem i taed o i no fil gud. Traem bihaen, ofarem wan smol vesen, o yu stat wok ya klosap, mo askem hem blong helpem."
+  - q: "Ol gem blong brein i gud long ol man we oli gat dementia?"
+    a: "Ol gem i ken blong spenem taem tugeta long wan gud fasin, be i no gat eni gem we oli prufum finis se i save hilim, slouem o stopem dementia. Jusum ol gem we i no gat taem, skoa o ol saon blong rong ansa, mo tekem olsem wan aktiviti blong tugeta, no wan test."
+  - q: "Hao blong mi save stopem ol aktiviti long i no fil olsem ol pikinini?"
+    a: "Yusum ol samting blong adalt we oli stret: ol towel we oli stret, ol resipi we oli stret, miusik blong ol adalt mo ol samting blong pentem, mo ol piksa wetem ol tem blong adalt. Setemap wok olsem help we yu save nidim, mo toktok long man ya olsem adalt we hem i stap."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +50,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Gud aktiviti blong wan man we i gat dementia, hemi usually wan samting we hem i save finis long duim, be we i isi smol mo we wan man we hem i trastem i stap wetem hem. Oli gat 101 aidia i stap belo, oli grupum long kaen, mo long eseh wan oli gat fasin blong setemap mo blong mekem i isi taem i kam hadwan. Yu no nidim ol spesol tul, mo yu no nidim blong finisim eni samting. Wan gud aftanun i ken jes wan basket blong ol towel mo wan kap kofi we yufala i drink tugeta.
 
-## How do you choose the right activity?
+## Hao blong jusum gud aktiviti?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Jusum long man ya, no long lisi: stat wetem wanem hem i bin laekem long oltaem mo wanem hem i save duim gud long disfala dei.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Tingem wok mo ol hobi blong hem.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i sugestem se wan man we hem i bin wok long ofis, hem i save laekem blong sotem ol kointi o blong redi ol mail, mo wan man we hem i bin gaden, hem i save laekem wok long gaden.
+- **Lukluk long wanem hem i already duim.** Sipos papa blong yu i swipim vera long moning i no wet blong yu talem hem, putum dat long wan dei blong yu.
+- **Planim klosap ol limit.** Taed, lukluk, herin, han we i sore mo balans, oli ol samting we oli impoten.
+- **Lukluk long fil blong hem.** Ol aktiviti we oli bisi mo oli no kwaet oli gud long sam man, be oli frightenem sam narafala.
+- **Givim wan purpos.** Fol ol napkin blong wan dinner long jos i fil moa gud long wan exercise we i no gat eni purpos.
 
-### A rough guide by stage
+### Wan rof gaed long ol stej
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Ol man oli talem dementia i gat ol erly, midol mo leit stej. Ol nem ia oli loose nomo, oli no ol bokis, mo planti man oli gat ol gud dei mo ol hadwan dei, so lukluk long wanem yu lukim tede. [Alzheimer's Foundation of America i gat lisi blong ol aktiviti long ol stej](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) we i folem wan sem pata.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Topik | Erly stej | Midol stej | Leit stej |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Wanem yu save lukim | Hem i mostly stanap yet; plan, nyunyu nem mo ol bisi ples i kam had | I nidim help blong stat mo long ol step; ol toktok i kam hard blong hem | I nidim help long ol bigfala wok blong kea long ded; ol sens oli impoten moa |
+| Ol aktiviti we oli stap fit | Ol kad, ol bod gem, kukum kaikai, gaden, rekodem ol tingting long buk, ol trip, ol klab | Fol laondri, sotem ol samting, ol step blong kukum isi, singsing, ol album blong fotogref, wokabaot wetem gaed | Miusik we hem i laekem, masaj long han, ol soft samting blong holem, man i ridim buk long hem, sindaon aotsaed |
+| Rol blong yu | Pata: askem wanem sapot hem i laekem | Setemap, soem, tekem ol hevi wok | Kasem aktiviti i kam long hem; yu stap wetem hem hemi aktiviti |
+| Moa aidia | [Erly stej](/activities/early-stage/) | [Midol stej](/activities/middle-stage/) | [Leit stej](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Hao blong stat wan aktiviti wetem man we i gat dementia?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Stat smol, stat klosap long hem, mo mekem i isi blong hem i save seiyes. Planti man oli wantem stap long wok be oli hadwan blong plan o stat.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Jusum taem we hem i gat bes fil,** usually long moning.
+2. **Setemap evri samting finis** blong yu save stat kwiktaem.
+3. **Askem help, no wan soa:** "Yu save givim mi wan han long ol ia?"
+4. **Stat wok ya yu wan.** Fol fasbaot towel mo letem hem i joinim. Soem i stret moa long eksplenem.
+5. **Ofarem wan step wan taem.**
+6. **Tekem hevi wok.** Alzheimer's Association i sugestem se yu mesurem ol kaikai yu wan, mo bihaen givim hem spun blong stirem.
+7. **Letem i kam aot long fasin blong hem.** Towel we oli fol long narafala fasin i oraet.
+8. **Stopem taem i no moa i gud.** Hem i wigil, i frong o i talem "mi no save" oli sain blong jenjenem o resis.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Lukluk tu long [hao blong pleiem tugeta](/caregiving/how-to-play-together/) mo [tips blong toktok](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Ol wok long haos blong ol dei
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Ol wok long haos oli save finis mo oli yusum, so oli wan gud fasin blong stat long hem. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i lisim ol plet, setemap tebol, swipim, sotem mail mo fol laondri olsem ol aktiviti we ol man oli ken enjoem. Moa long [ol wok long haos](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Fol ol warm towel.** Tipem basket blong drae long tebol mo fol klosap wetem. Bihaen, smoothim mo stakem hemi help tu.
+2. **Mekem ol sok i pea.** Stat wetem ol kala we oli difren tumas. Bihaen, sotem ol laet kala long ol dak kala i enaf nomo.
+3. **Setem tebol.** Givim wan kaen samting wan taem. Setem wan plet yu wan olsem samting blong soem.
+4. **Wasem o drae ol plet.** Warm wota we i gat sop mo ol plet we oli no save brek. Drae taem man i sindaon i isi long ol leg.
+5. **Klinim tebol.** Givim wan wet kloth bihaen long kaikai. Hemi wan wok we i stret blong ol han we oli no save stap.
+6. **Sotem mail.** Katalog mo junk mail i go long "kipem" mo "recyklem." Kipem ol bill we oli stret aot.
+7. **Katem ol kupon.** Sisa we i gat raon tip mo ol flaea blong gres. Bihaen, sekolem ol kaikai we hem i laekem i wok tu.
+8. **Sotem ol kointi.** Sotem sensis long ol kap o rolem i go insaed long ol paper. Lusim ol smol samting sipos man i putum samting long maos.
+9. **Swipim o dastem.** Wan leit broom long fran blong haos, o wan dasta we i gat longfala hanol we hem i yusum taem hem i sindaon long wan jea.
+10. **Helpem mekem wan kaikai.** Wasem ol vej, bruk lettis, stirem. Yu hanemaot ol naef mo faea.
+11. **Bekem wan famili resipi.** Yusum kad we i gat han raetin blong hem sipos yu gat. Bihaen, hem i ken kakae.
+12. **Duim ofis wok.** Fol ol leta, putum envelop insaed mo sitem stem, o raetem lisi blong maket tugeta.
 
-## Music
+## Miusik
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Familiar miusik i save kasem ol man, even taem ol toktok oli hard. [Alzheimer's Association ol tips long miusik](https://www.alz.org/help-support/caregiving/daily-care/art-music) i sugestem ol singsing we oli familiar, no ol advertising mo TV i lokem. Lukluk long [ol aktiviti long miusik](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Mekem wan personal playlist.** Miusik blong taem we hem i yang, taem blong mared blong hem, jos blong hem mo kastom blong hem.
+14. **Singsing wetem hem.** Stat singsing yu wan. Hambarem o herin i kaontem tu.
+15. **Holem bit.** Klap, pat ol nis o plei wan hand drum. Hemi wok taem man i sidaon mo long leit stej.
+16. **Dans.** Slou dans long kitsen, o swae i sidaon taem yufala i holem han.
+17. **Plei wan album finis.** Wan rekod we hem i laekem long stat go long finis, wetem kofi mo no eni narafala samting i raonem.
+18. **Toktok long miusik.** Askem ol stori, no ol fakta: "Talem mi long ol dans we yu bin go long hem."
+19. **Lukim wan filmed musical o konsot.** Wan sow we hem i laekem i mekem wan gud naet. Pausem taem nomo.
+20. **Pleim wan instrumen we hem i save.** Wan pianis we i bin stap i ken laekem ol isi pis; long leit stej, jes sam nout tugeta.
+21. **Herem laev miusik.** Wan smol konsot long komuniti o wan choir rihes. Sidaon klosap long doa.
 
-## Reminiscence: photos, objects and stories
+## Ol tingting, ol samting mo ol stori blong bifo
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Enjoem bifo tugeta, be no testem hem. Lusim "Yu tingting...?" mo "Hu nao i stap long piksa ia?" mo yusum ol invitesen we oli oupen. Lukluk long [ol aktiviti blong ol tingting bifo](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Lukluk long wan album blong fotogref.** Talem wanem yu lukim: "Wan gud drese ia. Talem mi long dei ia." Tekem ol nem we hem i yusum.
+23. **Mekem wan bokis blong memoris.** Wan sus bokis blong ol samting long laef blong hem, olsem wan wok badge o kad blong resipi. Tekem ol samting aot wan wan taem.
+24. **Stat wan buk blong laef stori.** Sam fotogref long wan pej wetem ol bigfala raetin klosap. Hemi helpem niu helpa blong save man ya.
+25. **Yusum ol kad blong toktok.** [Ol kad blong toktok](/games/conversation-cards/) i pea wan piksa wetem wan oupen askem.
+26. **Mekem wan famili fotogref gem.** [Photo pairs](/games/photo-pairs/) i jenjenem ol fotogref blong yu blong mekem wan gem blong fitim.
+27. **Lukim ol homemuvi o ol olfala TV.** Komentem tugeta, no askem ol kwestin.
+28. **Holem ol samting long wok blong hem.** Wan spana, wan stetoskop, wan buk blong akaont. Hanem ofen i lidim stori.
+29. **Kukum wan kaikai blong pikinini taem.** Hem i ken stirem, testem o jes sidaon long kitsen wetem yu.
+30. **Lukluk long ol map blong ol ples we hem i bin stap.** Traehem ol rod we hem i save long wan big atlas taem yu toktok.
 
-## Creative activities
+## Ol kriesen aktiviti
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Ol kraft i stap long duim, no long finis piis. Kipem ol materiel blong adalt mo i sef. Lukluk long [ol aktiviti blong ol ateskat mo kraft](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Pentem wetem watercolor.** Pepa we i tik, sam kala nomo. Sipos i hard blong stat, gaedem ol fes stroks tugeta.
+32. **Kalarem ol adalt disaen.** Ol flaoa o ol kwilt, no ol katun. Ol [pej blong kalarem](/games/coloring/) i wok long skrin o long print.
+33. **Mekem wan kolas.** Brokem ol piksa blong gaden, ol kar o kaikai long ol magasin mo pastem. Bihaen, jus jusum ol piksa i enaf.
+34. **Setemap ol flaoa.** Wan bandel long gris stoa mo wan vas. Bihaen, sam stik long wan jar.
+35. **Naetem o krosem tugeta.** Ol simpol rou wetem ol bigfala nidel. Bihaen, waendem yani i go long ol bol.
+36. **Mekem ol kad blong famili.** Stempem, saenem o dekoretem ol kad blong bataday o blong sindaon kwiktaem long ol man we oli stap rieli.
+37. **Mekem sipe long klei we i draem long eya.** Presem wan smol dis. Yusum ol materiel we i no toksik mo stap klosap.
+38. **Sanem mo finisim wud.** Wan pre-kat birdhaus kit mo sanpepa, no pawa tul. Lukluk long [ol aktiviti blong ol man](/activities/for-men/).
+39. **Raetem o talem wan leta.** Long wan pikinini blong pikinini o wan fren blong bifo. Sipos raeting i hard, hem i toktok mo yu i raetem.
 
-## Outdoors and gardening
+## Aotsaed mo gaden
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Fresh eya mo leit blong san i gud kampani. Lukluk long [ol aktiviti aotsaed mo gaden](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Wota ol plant.** Wan smol kan mo sam pot. Daily wota i givim dei ya wan ritm.
+41. **Planem wan pot.** Putum long tebol blong nobodi i nidim nilim. Ol seedling i isi moa long ol sid.
+42. **Ridim gras o katem ol flaoa we oli dae.** Glov i stap, wan smol gaden wan taem.
+43. **Rekem ol lif.** Wan smol ples. Bihaen, holem wan bag we i opem hemi wan rial wok.
+44. **Wokabaot long wan rod we i familiar.** Raon long bloc o go long mel bokis. Smol i oraet.
+45. **Sidaon aotsaed tugeta.** Wan jea long fran blong haos long wan wan warm dei. Lukluk long ol klaud o ol man we oli wokabaot.
+46. **Fidim ol pisin.** Fulumap wan fida tugeta mo lukluk long wan windo sit.
+47. **Wasem ka.** Wan bokis, wan spans, wan aftanun we i warm. Rinsim ol hubkap hemi wan gud wan step wok.
 
-## Sensory activities
+## Ol sensori aktiviti
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Taj, smel, teis, saon mo sight oli kam moa impoten taem dementia i go haed. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i menisimaot miusik, ol samting blong holem mo masaj long han long ol leit stej. Jekem ol alajik mo ol risk blong jokem fas; lukluk long [ol sensori aktiviti](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Givim masaj long han.** Askem fes mo yusum wan smol lotion. Jusum wan we i no gat smel sipos yu no save long skin o alajik.
+49. **Fil ol kloth.** Wan basket blong velvet, korduroy, wul mo satin blong strok mo fol.
+50. **Smelem herbs mo kofi.** Rabem fresh mint o rosemary long fingas. Skipem strong smel sipos man i gat trabol blong win.
+51. **Brasem ol gris blong hem.** Slou mo soft, sipos hem i laekem.
+52. **Sheraem wan warm wasklot.** Blong han mo fes long wan kol dei. Testem tempretja fas.
+53. **Lukim wan aktiviti apron.** Bigfala batan mo sip we oli sol gud. Jekem nating i save lus.
+54. **Teistem wan fevret smol kaikai.** Wan smol spun, long wan tekstja we hem i save kakae sef.
+55. **Plei saon blong nature.** Ren, wef o bod saon long wan smol vol.
+56. **Lukim wan samting we i slou.** Wan fish tank, wan video blong nature o snou we i foldaon.
 
-## Games and puzzles
+## Ol gem mo ol puzol
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Ol gem i wok taem i no gat taem, skoa o presa. Sipos wan i stat fil olsem wan test, putum i go. Lukluk long [jusum ol app mo gem](/caregiving/choosing-apps-and-games/) mo [gem blong brein](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Makem piksa.** [Picture pairs](/games/picture-pairs/) i letem ol piksa stap wetem fes i go antap, so hemi long lukluk, no long rimembem.
+58. **Faenem sem piksa.** [Find the same](/games/find-the-same/) i ofarem tu o fo ol jus. Toktok long wan wan piksa.
+59. **Sotem long ol basket.** [Sort together](/games/sort-together/) i olsem sotem sok long skrin.
+60. **Duim wan bigfala pis jigsaw.** Adalt ol piksa, wan isi namba blong pis. [Picture puzzle](/games/picture-puzzle/) i kipim hol piksa i stap luk. Moa long [ol puzol blong dementia](/activities/puzzles/).
+61. **Pleim wan olfala kad gem.** Wanem we hem i bin pleim long planti yia. Bihaen, sotem ol kad long kala hemi wan gem long hemsef.
+62. **Pleim domino.** Makem ol ende. Bihaen, jes lainimap ol tael hemi oraet.
+63. **Traem wan word search we i bigfala print.** Ol [word search](/games/word-search/) blong yumi i gat ol word long sankam mo long dong nomo, mo oli print.
+64. **Finisim ol sekson we oli familiar.** [Finish the saying](/games/finish-the-saying/) i letem yu soem ol en long eni taem.
+65. **Pleim picture bingo.** [Picture bingo](/games/picture-bingo/) i fit long famili mo grup. Helpem mak ol kad we oli fri.
+66. **Pleim checkers.** Holem ol rul i loos. Muvem ol pis taem yu toktok i kaontem.
 
-## Movement
+## Muvmen
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA i sugestem wokabaot, wan stationary sakol, ol strech band, tossem wan soft bol o balun, lifim ol kan blong suup mo ol exercise video blong ol olfala. Askem ol doktor bifo yu stat eni niu samting, espesol sipos i gat balans trabol.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Tosem wan balun.** Sidaon fes long fes. Hemi muv slou, so hemi isi blong katsem.
+68. **Folem wan seated exercise video** we i mekem blong ol olfala, klosap long yu.
+69. **Strechem wetem band.** Gud hanbak pulim wetem wan laet band taem i sidaon.
+70. **Lifim ol kan blong suup.** Slou raes blong han, sam taem wetem miusik.
+71. **Raed wan stationary sakol.** Sam isi minis, yu klosap.
+72. **Dans wetem ol skaf.** Wevem ol laet skaf long miusik, i sidaon o i stanap.
+73. **Wokabaot wetem wan samting blong duim.** Blong sendem wan leta o baem kofi. Wan rison blong go hemi fil nat.
+74. **Serem wan briting pos.** Slou daon tugeta wetem [kalm breathing](/games/calm-breathing/).
 
-## Social activities
+## Sosol aktiviti
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Kampani i impoten even taem nem oli hard, mo smol grup i isi moa long bigfala. NIA i talem se wan man i ken no rimembem wan visita hu hemi, be hem i save laekem kampani. Lukluk long [visiting](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Gat wan o tu vesitas long wan taem.** Sot vosit long wan kwaet rum, wetem ol fotogref blong lukluk.
+76. **Video kol famili.** Sot kol, wan vois long wan taem. Lukluk long [kol blong fon mo video](/activities/phone-and-video-calls/).
+77. **Traem wan memori kafe.** Informol drop-in gedring blong ol man we oli gat dementia mo ol man we oli kea long olgeta. Askem long ol lokol Area Agency on Aging wanem i stap klosap.
+78. **Go kaikai aotsaed long wan kwaet taem.** NIA i sugestem wan familiar, kwaet restorent long ol taem we no bisi, wetem wan tebol klosap long toilet.
+79. **Vesitim wan senior senta o adalt dei program.** Kampani blong hem mo wan brek blong yu.
+80. **Spenem taem wetem ol pikinini.** Wan sot kol vosit blong ol pikinini blong pikinini, o ridim wan pikja buk long wan smol pikinini.
+81. **Sherem nyuspeper long kofi.** Ridim ol hed lain long vois hae. Ritual i impoten moa long nyus.
+82. **Helpem narafala man.** Fol ol program blong jos o mekem wan kad blong wan neba.
 
-## Faith and spiritual activities
+## Fet mo spirichual aktiviti
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Folem tradisen blong man ya, o no eni. NIA i sugestem ol servis we i familiar, ol ridin, miusik we i holi, prea, meditesen mo ol ritual blong hol de.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Atendem wan servis we i familiar.** Jusum wan we i kwaet moa, sidaon klosap long pasej, mo letem ol man long there save long dementia.
+84. **Lukim wan servis online** long ol dei taem i tumas blong go aot.
+85. **Prea o ridim tugeta.** Ol famili wod, ridim slou. Hem i ken joinim long ol pat we hem i save.
+86. **Singsing ol jos singsing o holi miusik** blong tradisen blong hem.
+87. **Holem ol ritual blong hol de.** Ol kandel we oli ran long batri, wan blesing, ol dekorasen we hem i yusum oltaem.
+88. **Sherem kwaet taem.** Sidaon long gaden o lukluk long san i godaon tugeta.
 
-## Pets and animals
+## Ol animol mo ol bisin
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA i sugestem fidim, grumim, wokabaot, o sidaon klosap mo holem wan animol.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Brasem wan kwaet dog o pusi** wetem ol long slou strok.
+90. **Fidim animol tugeta.** Yu mesurem; hem i pourem.
+91. **Wokabaot wetem dog tugeta.** Yu holem leash.
+92. **Holem wan animol long lap.** Wan kwaet pusi long wan blanket i ken mekem hem i fil kwaet tumas.
+93. **Velkamem ol visiting animol.** Sam kea hom mo dei program i gat ol visit blong animol. Askem long lokol ples.
+94. **Ofarem wan soft animol we i olsem rial.** Sipos i no gat animol blong haos, sam man i laekem holem wan plush pusi o dog we i luk olsem rial. Ofarem hem wetem sipal fasin, nating olsem wan toy, mo aksept sipos hem i talem nomo.
 
-## Seasonal activities
+## Ol seasonal aktiviti
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Holem ol tradisen, be simpol moa. NIA i sugestem blong stap realistik mo gat wan kwaet ples blong brek long ol bisi holiday.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Dekoretem blong seson.** Wan pamkin, wan wrif o ol nyu flaoa long tebol.
+96. **Mekem wan holiday kaikai.** Rolem dough o ais ol kuki. Yu hanem ven.
+97. **Hangem ol dekorasen.** Ol ornament we i no save brek, ol i givim wan wan taem.
+98. **Drevem blong lukim ol lait.** Wan smol naet drevem i askem nating bat kampani.
+99. **Plantem ol spring bulb.** Pressem ol bulb long wan pot long fol mo lukluk long ol nyu shoot.
+100. **Kraksem kon o seselem pis.** Wan summa jea wok wetem wan bol long lap.
+101. **Raetem ol holiday kad.** Oli saenem, stempem o seilem; yu hanem ol adres.
 
-## What if an activity is not working?
+## Wanem if wan aktiviti i no wok?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Stopem, mo traem wan narafala samting long narafala taem. NIA i sugestem blong lukluk long frustresen mo letem man ya jes lukluk sipos hem i wantem. Wan "nomo" i ken minim se wok ya i hevi tumas, taem i no raet, o samting narafala i bodarem hem, olsem pein, hangre o nojis. Mekem i smol moa, traem long moning, o stat wok ya yu wan mo lukluk sipos hem i joinim. Lukluk long [taem we hem i talem nomo](/caregiving/when-they-say-no/) mo [hevi taem long aftanun](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Blong fitim ol aktiviti long midol blong kaikai mo rest, lukluk long [wan isi dei rutin](/activities/daily-routine/). Blong ol samting we yu save redim, lukluk long [ol prinsbol aktiviti](/activities/printable/), mo sipos yu lidim wan grup, lukluk long [grup aktiviti long kea hom](/activities/care-home-groups/). Rest blong yu tu i impoten: lukluk long [kea blong yu wan](/caregiving/caregiver-self-care/).

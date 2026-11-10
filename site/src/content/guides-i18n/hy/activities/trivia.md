@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Հեշտ վիկտորինա դեմենցիա ունեցող մեծահասակների համար՝ առանց ճնշման"
+seoTitle: "Վիկտորինայի հարցեր դեմենցիա ունեցող մեծահասակների համար"
+description: "50 հեշտ վիկտորինայի հարց դեմենցիա ունեցող մեծահասակների համար՝ պատասխանների տարբերակներով և զրույցի գաղափարներով, plus ինչպես անցկացնել վիկտորինա, որպեսզի ոչ ոք չզգա, թե ստուգվում է։"
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Դեմենցիա ունեցող մեծահասակների համար հեշտ վիկտորինան աշխատում է, երբ այն
+  նման է զրույցի, ոչ թե ստուգման։ Հարցրեք վաղուց սովորած բաների մասին, օրինակ՝
+  հին երգեր, ասացվածքներ, տոներ և առօրյա կյանք, և միշտ առաջարկեք երկու կամ երեք
+  տարբերակ։ Պատասխանը ասեք ջերմությամբ, երբեք մի առանձնացրեք որևէ մեկին,
+  բաց թողեք միավորների հաշվարկը և յուրաքանչյուր պատասխան օգտագործեք պատմություն
+  սկսելու համար։ «Սա, թե՞ այն» հարցերը, որոնք սխալ պատասխան չունեն, հարմար են
+  ավելի ուշ փուլերի համար։
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Հարցրեք վաղուց ծանոթ բաների մասին՝ երգեր, ասացվածքներ, տոներ, սնունդ և տարիներ առաջվա առօրյա կյանք։"
+  - "Առաջարկեք երկու կամ երեք տարբերակ, որպեսզի պատասխանը հնարավոր լինի ճանաչել, ոչ թե հիշելով գտնել։"
+  - "Պատասխանը ասեք ջերմությամբ և անցեք առաջ։ Ցանկացած ենթադրություն, որից պատմություն է սկսվում, լավ ենթադրություն է։"
+  - "Ոչ միավորներ, ոչ մրցող թիմեր, ոչ մեկին առանձին հարցնել։ Թույլ տվեք, որ պատասխանները հնչեն ամբողջ խմբից։"
+  - "Երբ պատասխան ընտրելը դժվարանում է, անցեք «սա, թե՞ այն» հարցերի, որոնք ճիշտ պատասխան չունեն։"
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Վիկտորինան լա՞վ զբաղմունք է դեմենցիա ունեցող մարդկանց համար։"
+    a: "Կարող է լինել, եթե այն անցկացվում է նրբանկատորեն։ Alzheimer's Foundation of America-ն վիկտորինան նշում է վաղ փուլի զբաղմունքների շարքում։ Հարցերը պահեք վաղուց ծանոթ թեմաների շուրջ, առաջարկեք տարբերակներ, երբեք մի՛ դրեք մեկ անձի անհարմար положении մեջ և պատասխանները դիտեք որպես զրույց սկսելու հնարավորություն, ոչ թե ստուգում։"
+  - q: "Ո՞ր թեմաներն են լավագույնը դեմենցիայի վիկտորինայի համար։"
+    a: "Սովորաբար ամենալավն աշխատում են վաղուց սովորած բաները՝ մարդու երիտասարդության տարիների հայտնի երգեր և երգիչներ, ծանոթ ասացվածքներ, տոներ, սնունդ, սպորտ և առօրյա կյանք, օրինակ՝ կաթի առաքումը կամ սկավառակով հեռախոսները։ Խուսափեք վերջին նորություններից և այն ամենից, ինչը պահանջում է հիշել հանդիպման ընթացքում ավելի վաղ ասվածը։"
+  - q: "Ինչպե՞ս անցկացնել վիկտորինա խնամքի տանը՝ առանց որևէ մեկին ամաչեցնելու։"
+    a: "Յուրաքանչյուր հարց կարդացեք ամբողջ խմբի համար, տարբերակները ցույց տվեք կամ ասեք և ընդունեք ցանկացածի պատասխանը։ Մի՛ հարցրեք առանձին մարդկանց և միավորներ մի՛ հաշվեք։ Պատասխանը ասեք ժպիտով՝ անկախ նրանից, թե ինչ էր ենթադրվել, և հարցրեք շարունակող հարց, օրինակ՝ «Ո՞վ է այստեղ երբևէ եղել ավտոկինոթատրոնում», որպեսզի զրույցը վերածվի պատմությունների։"
+  - q: "Ի՞նչ կարող եմ անել վիկտորինայի փոխարեն ավելի ուշ փուլերում։"
+    a: "Անցեք այնպիսի հարցերի, որոնք սխալ պատասխան չունեն, օրինակ՝ «Սու՞րճ, թե՞ թեյ» կամ «Ծո՞վափ, թե՞ լեռներ», ինչպես նաև միասին ավարտեք ծանոթ ասացվածքներ կամ երգեր։ Լավ է աշխատում նաև նկարներին միասին նայելը և դրանք նկարագրելը։"
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Վիկտորինան խնամքի տներում և ցերեկային ծրագրերում ամենաշատ խնդրվող խմբային զբաղմունքներից է, և շատ ընտանիքներ այն խաղում են նաև խոհանոցային սեղանի շուրջ։ Եթե այն անցկացվում է սովորական ձևով՝ միավորներով և մեկ անձի պատասխանով, դեմենցիա ունեցող մարդը կարող է զգալ, թե spotlight-ի տակ է։ Եթե այն անցկացվում է նրբանկատորեն, այն դառնում է պատմություններ լսելու կենդանի միջոց։ Ստորև բերված են 50 հեշտ հարց՝ պատասխանների տարբերակներով և յուրաքանչյուրի համար զրույցի գաղափարով, իսկ հետո՝ ինչպես անցկացնել հանդիպումը։
 
-## How do you make trivia work for someone with dementia?
+## Ինչպե՞ս այնպես անել, որ վիկտորինան հարմար լինի դեմենցիա ունեցող մարդու համար։
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Դարձրեք այն վաղուց ծանոթ բաները ճանաչելու և հիշելու մասին, և այնպես արեք, որ յուրաքանչյուր պատասխան स्वागतելի լինի։
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Հարցրեք հեռավոր անցյալի մասին։** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers)-ը նշում է, որ Ալցհայմերի ամենատարածված վաղ ախտանիշը նոր սովորած տեղեկությունը հիշելու դժվարությունն է։ Տասնամյակներ առաջվա երգերը, ասացվածքները և առօրյա կյանքը հաճախ ավելի հեշտ հիմք են։
+2. **Միշտ տվեք տարբերակներ։** Երկու կամ երեք տարբերակից ճիշտը ընտրելը շատ ավելի հեշտ է, քան պատասխանը ինքնուրույն գտնելը։
+3. **Հարցերը կարդացեք բարձրաձայն և ցույց տվեք մեծ տառերով։** Գրատախտակը կամ վերև պահված պլանշետը կարող է օգնել նրանց, ովքեր ավելի դժվար են լսում։
+4. **Պատասխանը ասեք ազատորեն։** Եթե ոչ ոք չգիտի, ասեք այն ջերմությամբ և անցեք առաջ։ Երբեք մի՛ ասեք «Դե, դու սա գիտես»։
+5. **Միավորներ մի՛ հաշվեք։** Ո՛չ առանձին մարդկանց, ո՛չ սեղանների համար։ Եթե մարդիկ թիվ են ուզում, պահեք մեկ ընդհանուր խմբային թիվ։
+6. **Երբեք մի՛ հարցրեք մեկ անձի։** Թույլ տվեք, որ պատասխանները հնչեն ցանկացածից։ Մեկը մեկի հանդիպման ժամանակ պատասխանեք միասին. «Կարծում եմ՝ դաշնամուրն է։ Դուք ի՞նչ եք կարծում»։
+7. **Օգտագործեք զրույցի գաղափարը։** Պատասխանը սկիզբն է, ոչ թե վերջը։ Իրական նպատակը պատմություններն են։
+8. **Կարճ պահեք։** Տասը հարց՝ միջևում պատմություններով, լիովին բավարար է։
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)-ը հիմնական կանոնը ձևակերպում է պարզ. ուշադրություն դարձրեք հիասթափությանը և համոզվեք, որ մարդը իրեն հաջողակ է զգում։ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/)-ն վիկտորինան նշում է վաղ փուլի զբաղմունքների շարքում։ Միջին փուլում պահեք երկու տարբերակ և ավելի շատ հենվեք զրույցի գաղափարների վրա։ Ավելի ուշ անցեք ստորև բերված «սա, թե՞ այն» հարցերին։
 
-## Music and entertainment trivia
+## Երաժշտության և ժամանցի վիկտորինա
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Պատասխանը նշված է **թավատառ**։ Այս հարցերը հարմարեցրեք մարդուն. ով մեծացել է Motown-ի երաժշտությամբ, կարող է այլ երգիչներ ցանկանալ, քան նա, ով մեծացել է big band նվագախմբերի ժամանակ։
 
-| Question | Choices | Talk about |
+| Հարց | Տարբերակներ | Զրույցի թեմա |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Ո՞ւմ էին անվանում ռոք-ն-ռոլի արքա։ | **Elvis Presley**, Frank Sinatra, Bing Crosby | Դուք երբևէ հեռուստացույցով տեսե՞լ եք Էլվիսին։ |
+| Ո՞ր երգչին էին կոչում Ol' Blue Eyes։ | Dean Martin, **Frank Sinatra**, Perry Como | Սինատրայի ո՞ր երգն եք ամենաշատը սիրում։ |
+| Bing Crosby-ն երազում էր սպիտակ... | **Սուրբ Ծննդի**, հարսանիքի, տան մասին | Միասին երգեք մեկ տող |
+| Louis Armstrong-ը երգում էր «What a Wonderful...» | Day, **World**, Life | Ի՞նչն է աշխարհը Ձեզ համար հրաշալի դարձնում։ |
+| «Over the Rainbow»-ը Judy Garland-ը երգել է ո՞ր ֆիլմում։ | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Որտե՞ղ եք դիտել Ձեր սիրելի ֆիլմերը։ |
+| Ո՞վ էր խաղում Լյուսիի դերը «I Love Lucy»-ում։ | **Lucille Ball**, Doris Day, Betty White | Ի՞նչ հաղորդումներ էր Ձեր ընտանիքը միասին դիտում։ |
+| Ո՞ր կովբոյն էր հեծնում Trigger անունով ձիու։ | **Roy Rogers**, Gene Autry, John Wayne | Դուք երեխա ժամանակ կովբոյներ խաղացի՞ք։ |
+| Ո՞վ էր 30 տարի վարում «The Tonight Show»-ն։ | Ed Sullivan, **Johnny Carson**, Bob Hope | Դուք ուշ մնում էիք հեռուստացույց դիտելու՞ համար։ |
+| Ո՞ր գործիքն ունի 88 ստեղն։ | Կիթառ, **դաշնամուր**, շեփոր | Ձեր ընտանիքում որևէ մեկը նվագու՞մ էր։ |
+| Ո՞ր պարը հաշվում են մեկ-երկու-երեք, մեկ-երկու-երեք։ | **Վալս**, twist, տանգո | Որտե՞ղ եք գնում պարելու։ |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Երաժշտության մասին ավելին կարող եք կարդալ [երաժշտական զբաղմունքներ դեմենցիայի դեպքում](/activities/music/) էջում։
 
-## Everyday life trivia
+## Առօրյա կյանքի վիկտորինա
 
-| Question | Choices | Talk about |
+| Հարց | Տարբերակներ | Զրույցի թեմա |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Մինչև սառնարանները շատ տներում սնունդը սառը էին պահում... | **Սառցապահարանում**, ջեռոցում, ձեղնահարկում | Ո՞վ էր սառույցը բերում։ |
+| Ո՞վ էր կաթը բերում դռան մոտ՝ ապակե շշերով։ | Փոստատարը, **կաթնավաճառը**, թերթ բերողը | Տուն էլ ի՞նչ էին բերում։ |
+| Ինչպե՞ս էին համար հավաքում սկավառակով հեռախոսով։ | Կոճակներ սեղմելով, **անիվը պտտելով**, հեռախոսին խոսելով | Պատմեք Ձեր տան հեռախոսի մասին |
+| Ո՞ր ընկերությունն է պատրաստել Model T մեքենան։ | **Ford**, Chevrolet, Buick | Պատմեք մի մեքենայի մասին, որը Ձեզ դուր էր գալիս |
+| Որտե՞ղ կարելի էր գտնել soda jerk-ին։ | **Գազավորված ըմպելիքների վաճառասեղանի մոտ**, հացատանը, բանկում | Ի՞նչ էիք պատվիրում վաճառասեղանի մոտ։ |
+| Ո՞ր խաղալիքն է մետաղյա զսպանակ, որը կարող է քայլել աստիճաններով ներքև։ | Yo-yo, **Slinky**, hula hoop | Ո՞ր խաղալիքներն էիք սիրում։ |
+| Drive-in-ը մի տեղ էր, որտեղ դիտում էին... | **Ֆիլմեր մեքենայից**, գնդակով խաղեր, շքերթներ | Ո՞ւմ հետ էիք գնում։ |
+| Ո՞ւմ դիմանկարն է մեկ դոլարանոցի վրա։ | Lincoln, **George Washington**, Jefferson | Այդ ժամանակ մեկ դոլարով ի՞նչ կարելի էր գնել։ |
+| Ո՞ւմ դիմանկարն է մեկ ցենտանոցի վրա։ | **Abraham Lincoln**, Washington, Franklin | Դուք այն ժամանակ ցենտերը բանկայի մեջ հավաքու՞մ էիք։ |
+| Դպրոցական ավտոբուսը սովորաբար ի՞նչ գույնի է լինում։ | Կարմիր, **դեղին**, կապույտ | Ինչպե՞ս էիք գնում դպրոց։ |
 
-## Holidays, nature and places
+## Տոներ, բնություն և վայրեր
 
-| Question | Choices | Talk about |
+| Հարց | Տարբերակներ | Զրույցի թեմա |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Ո՞ր տոնն է նոյեմբերի չորրորդ հինգշաբթի օրը։ | Labor Day, **Thanksgiving**, Memorial Day | Ձեր սեղանին ի՞նչ էր միշտ լինում։ |
+| Jack-o'-lantern-ները պատրաստում են ո՞ր տոնի համար։ | **Halloween**, Easter, Christmas | Պատմեք, թե ինչպես էր անցնում Halloween-ը այնտեղ, որտեղ մեծացել եք |
+| Հուլիսի 4-ը նշում է... հռչակագիրը։ | Իրավունքների, **Անկախության**, Ազատության | Որտե՞ղ եք դիտել հրավառությունը։ |
+| Մայրերի օրը ո՞ր ամսին է։ | Ապրիլ, **մայիս**, հունիս | Ինչպե՞ս էր Ձեր ընտանիքը նշում։ |
+| Քանի՞ աստղ կա ամերիկյան դրոշի վրա։ | 48, **50**, 52 | Մինչև 1959 թվականը դրոշի վրա 48 աստղ էր։ Երկու պատասխանն էլ լավ հիշողություն է |
+| Ո՞ր օվկիանոսն է Արևելյան ափին։ | Խաղաղ, **Ատլանտյան**, Հյուսիսային Սառուցյալ | Դուք երբևէ ծովափ գնացի՞ք։ |
+| Ո՞ր քաղաքում է Ազատության արձանը։ | Boston, **New York**, Philadelphia | Դուք եղե՞լ եք Նյու Յորքում։ |
+| Ի՞նչ են պատրաստում մեղուները։ | Կաթ, **մեղր**, մետաքս | Մեղրը տոստի վրա՞, թե՞ թեյի մեջ։ |
+| Կովի ձագին ինչպես են անվանում։ | Քուռակ, **հորթ**, ուլ | Դուք երբևէ ապրե՞լ եք ֆերմայի մոտ։ |
+| Ո՞ր բարձր դեղին ծաղիկն է հայտնի նրանով, որ շրջվում է դեպի արևը։ | Վարդ, **արևածաղիկ**, կակաչ | Ի՞նչ էր աճում Ձեր այգում։ |
+| Քանի՞ օր կա նահանջ տարում։ | 365, **366**, 360 | Պատմեք մի ծննդյան օր, որը հիշում եք |
+| Ձմեռից հետո ո՞ր եղանակն է գալիս։ | Աշուն, **գարուն**, ամառ | Ձեր սիրելի եղանակը ո՞րն է։ |
 
-## Food and sports trivia
+## Սննդի և սպորտի վիկտորինա
 
-| Question | Choices | Talk about |
+| Հարց | Տարբերակներ | Զրույցի թեմա |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Չամիչը չորացրած... է։ | Սալոր, **խաղող**, բալ | Դուք ճաշի տուփի մեջ չամիչ դնու՞մ էիք։ |
+| Չիրը չորացրած... է։ | **Սալոր**, թուզ, խնձոր | Ձեր ընտանիքում ո՞վ էր սիրում չիր։ |
+| Գետնանուշի կարագ և... | **Ջեմ**, պանիր, խոզապուխտ | Փշրուն, թե՞ հարթ։ |
+| Գուակամոլեն հիմնականում պատրաստվում է... | Ոլոռից, **ավոկադոյից**, վարունգից | Խնջույքներում ի՞նչ սոուսներ էին դնում։ |
+| Ո՞ր կարկանդակն է Thanksgiving-ի սիրելիներից։ | **Դդմով**, կիտրոնով, բալով | Ո՞ր կարկանդակն էիք պատրաստում։ |
+| Բեյսբոլի թիմը դաշտում քանի՞ խաղացող ունի։ | 7, **9**, 11 | Ո՞ր թիմի համար էիք wholeheartedly ուրախանում։ |
+| Քանի՞ strike է պետք բեյսբոլում out-ի համար։ | Երկու, **երեք**, չորս | Դուք երբևէ գնդակ խաղացի՞ք։ |
+| Babe Ruth-ը հայտնի էր ո՞ր սպորտով։ | Բռնցքամարտ, **բեյսբոլ**, գոլֆ | Դուք գնացի՞ք բեյսբոլի խաղերի։ |
+| Սովորական գոլֆի դաշտում քանի՞ անցք կա։ | 9, **18**, 24 | Դուք երբևէ գոլֆ խաղացի՞ք, կամ մինի գոլֆ։ |
+| Ո՞ր սպորտում են touchdown հավաքում։ | **Ամերիկյան ֆուտբոլ**, հոկեյ, բասկետբոլ | Ձեր տանը ո՞վ էր դիտում ամերիկյան ֆուտբոլ։ |
 
-## Familiar sayings
+## Ծանոթ ասացվածքներ
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Ասացվածքի ավարտը հենվում է վաղուց սովորած լեզվի վրա և հաճախ հեշտ է ստացվում։ Մեր [Ավարտիր ասացվածքը](/games/finish-the-saying/) խաղում կարող եք գտնել շատ ավելին, իսկ ցանկացած ավարտը կարելի է ցույց տալ մեկ հպումով։
 
-| Saying | Choices | Talk about |
+| Ասացվածք | Տարբերակներ | Զրույցի թեմա |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Օրական մի խնձոր, և... | **Բժիշկը հեռու**, անձրևը հեռու, կատուն հեռու | Ո՞վ էր սա ասում Ձեզ։ |
+| Վաղ արթնացող թռչունը բռնում է... | Ավտոբուսը, **ճիճուն**, գնացքը | Դուք առավոտյա մարդ ե՞ք։ |
+| Մի՛ հաշվիր ճտերդ, քանի դեռ չեն... | **Դուրս եկել**, քնել, երգել | Ձեր ընտանիքը հավեր պահու՞մ էր։ |
+| Խնայված կոպեկը վաստակած... է։ | **Կոպեկ**, կորցրած, ծախսված | Ձեր ընտանիքում ո՞վ էր խնայողը։ |
+| Տունն այնտեղ է, որտեղ... | Այգին է, **սիրտն է**, խոհանոցն է | Ի՞նչն է մի տեղը տուն դարձնում։ |
+| Ուշ՝ քան... | Շուտ, **երբեք**, ափսոս | Ո՞վ էր միշտ ուշանում։ |
+| Յուրաքանչյուր ամպ ունի արծաթե... | **Եզր**, գդալ, մետաղադրամ | Պատմեք մի հաջող պատահարի մասին |
+| Գործերը ավելի բարձր են խոսում, քան... | **Բառերը**, երաժշտությունը, որոտը | Պատմեք մեկի մասին, ով այդպես էր ասում |
 
-## This-or-that questions with no wrong answer
+## «Սա, թե՞ այն» հարցեր՝ առանց սխալ պատասխանի
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Այս հարցերը հարմար են յուրաքանչյուր փուլում, նաև ավելի ուշ, որովհետև ճիշտ պատասխան չկա։ Հարցրեք, լսեք և պատմեք նաև Ձեր սեփական պատասխանը։
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Սու՞րճ, թե՞ թեյ։
+- Ծո՞վափ, թե՞ լեռներ։
+- Շնե՞ր, թե՞ կատուներ։
+- Ամա՞ռ, թե՞ ձմեռ։
+- Կարկանդա՞կ, թե՞ տորթ։
+- Պարե՞լ, թե՞ դիտել։
+- Արևածա՞գ, թե՞ մայրամուտ։
+- Առջևի պատշգամբ, թե՞ հետնաբակ։
+- Ռադիո՞, թե՞ ձայնապնակներ։
+- Նրբաբլիթնե՞ր, թե՞ ձվածեղ։
+- Վարդե՞ր, թե՞ մարգարտածաղիկներ։
+- Գնացքով ճանապարհորդությու՞ն, թե՞ մեքենայով։
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Նկարների հետ զրույց սկսելու գաղափարների համար կարող եք փորձել մեր տպվող [Զրույցի քարտերը](/games/conversation-cards/)։
 
-## How do you run a trivia session in a care home or group?
+## Ինչպե՞ս անցկացնել վիկտորինա խնամքի տանում կամ խմբում։
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Մարդկանց նստեցրեք այնպես, որ տեսնեն և լսեն։** Լսողական սարքերը՝ տեղում, ակնոցները՝ դրված, հեռուստացույցը՝ անջատված։
+2. **Ներկայացրեք այն որպես զրույց։** «Ես մի քանի հարց ունեմ հին օրերի մասին, և կարծում եմ՝ դուք ինձանից շատ ավելին գիտեք»։
+3. **Յուրաքանչյուր հարց կարդացեք երկու անգամ և տարբերակները ցույց տվեք մեծ տառերով։**
+4. **Ընդունեք պատասխաններ սենյակի ցանկացած կողմից։** Լավ պատասխանները կրկնեք, որպեսզի բոլորը լսեն։
+5. **Պատասխանը ասեք բոլորի համար,** ապա խմբին հարցրեք զրույցի գաղափարը։
+6. **Հետևեք տրամադրությանը։** Եթե մի հարցը տասը րոպե պատմությունների սկիզբ է դառնում, թույլ տվեք։
+7. **Ավարտեք երգով կամ «սա, թե՞ այն» փուլով,** որպեսզի բոլորը ավարտեն ինչ-որ հեշտ բանով։
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Խմբային այլ ձևաչափերի համար, ներառյալ նկարներով բինգոն և միասին երգելը, տես [խմբային զբաղմունքներ խնամքի տների համար](/activities/care-home-groups/)։
 
-## When to change the plan
+## Ե՞րբ փոխել պլանը
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Եթե որևէ մեկը անհանգիստ է թվում, լռում է կամ մեկից ավելի անգամ ասում է «չգիտեմ», դարձրեք ավելի հեշտ. իջեցրեք երկու տարբերակի, պատասխանեք միասին կամ անցեք «սա, թե՞ այն» հարցերի։ Եթե խումբը նախընտրում է մի հարցի շուրջ ամբողջ կեսօր խոսել, դա հաջողություն է։ Նպատակը երբեք ճիշտ պատասխանները չեն եղել։ Նպատակը լավ ընկերակցությամբ անցկացված ժամանակն էր։

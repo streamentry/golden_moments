@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Fyrstu merki heilabilunar og hvenær á að leita til læknis"
+seoTitle: "Fyrstu merki heilabilunar og hvenær á að leita til læknis"
+description: "Algeng fyrstu merki heilabilunar, munur á þeim og eðlilegum öldrunarbreytingum, meðhöndlanlegar orsakir minnistruflana og undirbúningur fyrir læknisheimsókn."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Minnistap sem truflar daglegt líf, erfiðleikar við kunnugleg verkefni, rugl um tíma eða stað
+  og breytingar á skapi eða dómgreind geta verið fyrstu merki heilabilunar. Margar aðrar aðstæður, þar á meðal
+  vandamál með skjaldkirtil, lágt B12-vítamín, aukaverkanir lyfja, þunglyndi og svefnvandamál, geta valdið
+  svipuðum breytingum. Aðeins hæfur heilbrigðisstarfsmaður getur greint heilabilun. Skyndilegt rugl kallar á bráðaaðstoð.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Stöku gleymskutilvik eru algeng með aldrinum, en breytingar sem trufla daglegt líf er vert að láta skoða."
+  - "Alzheimer‘s Association lýsir 10 viðvörunarmerkjum og ber hvert þeirra saman við dæmigerðar breytingar sem fylgja aldri."
+  - "Vandamál með skjaldkirtil, lágt B12-vítamín, aukaverkanir lyfja, þunglyndi, sýkingar og svefnvandamál geta öll haft áhrif á minni, og sumt er hægt að meðhöndla."
+  - "Aðeins hæfur heilbrigðisstarfsmaður getur greint heilabilun, netpróf og sjálfspróf duga ekki til."
+  - "Rugl sem kemur skyndilega fram, á nokkrum klukkustundum eða dögum, getur verið óráð og kallar á bráðaaðstoð."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Er gleymska eðlilegur hluti af öldrun?"
+    a: "Að vissu marki já. National Institute on Aging segir að það að týna hlutum eða gleyma reikningi öðru hvoru sé yfirleitt væg, aldurstengd gleymska. Heilabilun er ekki eðlilegur hluti af öldrun. Minnisvandamál sem gera hversdagsverk eins og akstur, símanotkun eða að rata heim erfiða er vert að láta lækni skoða."
+  - q: "Geta minnisvandamál stafað af einhverju öðru en heilabilun?"
+    a: "Já. National Institute on Aging nefnir meðal annars vandamál með skjaldkirtil, nýru eða lifur, aukaverkanir lyfja, þunglyndi og kvíða, lágt B12-vítamín, áfenglisnotkun, svefnvandamál, sýkingar og höfuðáverka. Sumt af þessu batnar þegar það er meðhöndlað og því skiptir máli að fá læknisskoðun."
+  - q: "Get ég prófað einhvern fyrir heilabilun heima?"
+    a: "Nei. Aðeins hæfur heilbrigðisstarfsmaður getur greint heilabilun með því að nota sjúkrasögu, líkamsskoðun, próf á minni og hugsun, blóðprufur og stundum heilaskanna. Jafnvel stuttu prófin sem læknar nota duga ekki ein og sér til að greina heilabilun."
+  - q: "Hvað á ég að gera ef einhver verður skyndilega ruglaður?"
+    a: "Leitaðu læknishjálpar strax. Skyndilegt rugl getur verið óráð, sem VA lýsir sem læknisfræðilegu neyðarástandi. Hringdu strax í heilbrigðisstarfsmann viðkomandi eða í 112, vertu hjá honum og skráðu hvaða lyf hann tekur."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Það getur verið ógnvekjandi að taka eftir breytingum á eigin minni eða minni einhvers sem þú hefur ást af. Þessi síða getur hjálpað þér að meta hvenær sé rétt að panta tíma hjá lækni og hvernig þú getur undirbúið heimsóknina. Hún getur ekki sagt til um hvort einhver sé með heilabilun. **Aðeins hæfur heilbrigðisstarfsmaður getur greint heilabilun**, og margar aðstæður sem valda minnisvandamálum eru alls ekki heilabilun. Vinsamlegast reiða þig ekki á netpróf eða sjálfspróf.
 
-## What are the early signs of dementia?
+## Hver eru fyrstu merki heilabilunar?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer‘s Association](https://www.alz.org/alzheimers-dementia/10_signs) lýsir 10 fyrstu merkjum. Þar er hverju merki parað saman við dæmigerða breytingu sem fylgir aldri til samanburðar. Í okkar eigin orðum:
 
-| Sign worth checking | More typical with age |
+| Merki sem vert er að láta skoða | Algengara með aldri |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Minnistap sem truflar daglegt líf, eins og að gleyma nýlegum atburðum eða spyrja aftur og aftur sömu spurningarinnar | Að gleyma nafni eða tíma öðru hvoru og muna það síðar |
+| Erfiðleikar við að skipuleggja eða leysa vandamál, eins og að fylgja kunnuglegri uppskrift eða halda utan um reikninga | Stök mistök við að greiða heimilisreikninga |
+| Erfiðleikar við að ljúka kunnuglegum verkefnum heima, í vinnu eða úti | Að þurfa öðru hvoru aðstoð við stillingu á örbylgjuofni eða upptöku á sjónvarpsþætti |
+| Að missa tökin á dagsetningum, árstíðum eða staðsetningu | Að rugla vikudegi og átta sig á því síðar |
+| Nýir erfiðleikar með að meta fjarlægð, lesa eða greina liti | Sjónbreytingar vegna dreru |
+| Ný vandamál með orð, eins og að stoppa mitt í samtali eða kalla hluti röngu nafni | Að eiga stundum erfitt með að finna rétta orðið |
+| Að setja hluti á óvenjulega staði og geta ekki rakið sig aftur til þeirra | Að týna hlutum öðru hvoru og finna þá með því að rekja sig aftur |
+| Léleg dómgreind, til dæmis varðandi peninga eða persónulegt hirðulag | Að taka einstaka lélega ákvörðun |
+| Að draga sig í hlé frá áhugamálum, vinnu eða félagslegum samskiptum | Að hafa stundum ekki lyst til að fara í fjölskyldu- eða félagsviðburð |
+| Breytingar á skapi eða persónuleika, eins og að verða ruglaður, tortrygginn, hræddur eða kvíðinn | Að vera vanabundinn og pirrast þegar venjum er raskað |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Eitt merki eitt og sér þýðir ekki heilabilun. Lykilatriðið er **breyting frá því sem er eðlilegt fyrir viðkomandi**, sérstaklega ef hún gerir daglegt líf erfiðara.
 
-## How is normal aging different from dementia?
+## Hvernig er eðlileg öldrun öðruvísi en heilabilun?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) segir að margir eldri einstaklingar taki eftir því að þeir muni hluti hægar eða týni stundum hlutum eða gleymi reikningi. Þetta eru yfirleitt merki um væga gleymsku. **Heilabilun er ekki eðlilegur hluti af öldrun.** Alvarleg minnisvandamál gera hversdagsverk erfið, eins og akstur, símanotkun eða að rata heim.
 
-The NIA suggests talking with a doctor if someone:
+NIA mælir með því að ræða við lækni ef einhver:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Spyr sömu spurninganna aftur og aftur
+- Villist á stöðum sem hann þekkti vel áður
+- Á í erfiðleikum með að fylgja uppskriftum eða leiðbeiningum
+- Verður ruglaðri varðandi tíma, fólk og staði
+- Hættir að sjá um sig, til dæmis með lélegu mataræði, án þess að baða sig eða með óöruggri hegðun
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Sumir eru með **væg vitræn skerðing (MCI)**. Það þýðir meiri minnis- eða hugsunarvandamál en hjá öðrum á sama aldri, en viðkomandi ræður samt við daglegt líf. NIA segir að MCI geti verið snemmtákn um Alzheimer-sjúkdóm, en ekki allir sem eru með MCI fá sjúkdóminn.
 
-## What else can cause memory problems?
+## Hvað annað getur valdið minnisvandamálum?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Margt annað en heilabilun getur haft áhrif á minni og sumt batnar með meðferð. NIA nefnir:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Vandamál með skjaldkirtil, nýru eða lifur**
+- **Aukaverkanir lyfja**
+- **Þunglyndi og kvíða**
+- **Lágt B12-vítamín** eða ónógt hollt mataræði
+- **Svefnvandamál**
+- **Misnotkun áfengis eða annarra efna**
+- **Sýkingar, blóðtappa eða æxli** í heila
+- **Höfuðáverka**, til dæmis heilahristing
+- **Mikið álag eða sorg**, eins og starfslok eða missir maka
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Heyrnar- og sjónvandamál geta einnig verið misskilin sem rugl, sjá [leiðbeiningar okkar um heyrn](/brain-health/hearing/). Þess vegna skiptir máli að fá læknisskoðun. Samkvæmt [Alzheimer‘s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) biðja læknar oft um blóðprufur til að kanna vandamál með skjaldkirtil, vítamínskort og sýkingar. Gott er líka að nefna [svefn](/brain-health/sleep/) og meðferð við þunglyndi.
 
-## Sudden confusion is an emergency
+## Skyndilegt rugl er neyðarástand
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Rugl sem kemur skyndilega fram, á nokkrum klukkustundum eða dögum, kallar á bráðaaðstoð.** Það getur verið óráð. [VA lýsir óráði](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) sem læknisfræðilegu neyðarástandi og ráðleggur að hringja strax í heilbrigðisstarfsmann viðkomandi eða í 112. Merki geta verið:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Sveiflur í getu til að hugsa skýrt
+- Erfiðleikar með að halda athygli
+- Óskipulögð hugsun
+- Óvenju mikil syfja, eða óvenju mikil eirðarleysi og óróleiki
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Þetta getur komið fyrir hjá hverjum sem er, þar á meðal fólki sem þegar lifir með heilabilun. Samkvæmt [NHS](https://www.nhs.uk/symptoms/confusion/) eru algengar orsakir meðal annars sýkingar (þvagfærasýkingar eru algengar hjá eldra fólki og fólki sem lifir með heilabilun), heilablóðfall, lágt blóðsykur hjá fólki með sykursýki, höfuðáverkar og sum lyf. Meðan beðið er eftir aðstoð skaltu vera hjá viðkomandi og róa hann með stuttum, einföldum orðum. Ekki spyrja margra spurninga og skráðu hvaða lyf hann tekur.
 
-## How do I prepare for the doctor's appointment?
+## Hvernig undirbý ég mig fyrir læknisheimsókn?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Góð heimsókn hefst á góðum glósum. [Alzheimer‘s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) leggur til að þú takir með:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Lista yfir breytingar** á minni, skapi og hegðun, með skýrum dæmum og um það bil hvenær þær hófust
+2. **Fyrri og núverandi heilsufarsvandamál**, þar á meðal fjölskyldusögu um minnisvandamál
+3. **Öll lyfseðilsskyld og lausasölulyf**
+4. **Öll vítamín eða fæðubótarefni**
+5. **Spurningarnar þínar**, til dæmis hvaða próf verða gerð, hversu langan tíma þau taka og hvenær niðurstöður liggja fyrir
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Það hjálpar líka að taka með fjölskyldumeðlim eða vin sem þekkir viðkomandi vel. [NIA útskýrir](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) að læknar geti spurt bæði viðkomandi og fjölskyldumeðlim um heilsufar, lyf, daglega athafnir og breytingar á hegðun. Læknar geta einnig:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Gert próf á minni, lausnaleit, athygli, talningu og máli
+- Beðið um blóð-, þvag- og aðrar rannsóknir til að leita að öðrum orsökum
+- Kannað hvort um þunglyndi eða önnur geðræn vandamál sé að ræða
+- Beðið um heilaskanna eins og tölvusneiðmynd eða segulómun
+- Vísað til sérfræðings, eins og öldrunarlæknis, taugalæknis, geðlæknis öldraðra eða taugasálfræðings
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA bendir á að vitræn matsskoðun sé nauðsynlegur hluti af árlegri heilsufarsskoðun hjá Medicare, sem getur verið eðlilegur tími til að koma áhyggjum á framfæri. Jafnvel stuttu prófin sem læknar nota duga ekki ein og sér til að greina heilabilun. Þau eru fyrsta skref í átt að ítarlegri skoðun og greining getur tekið fleiri en eina heimsókn. NIA ráðleggur fólki með minnisvandamál að fara aftur til læknis á 6 til 12 mánaða fresti.
 
-## Raising the subject kindly
+## Að ræða málið af nærgætni
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Ef þú hefur áhyggjur af einhverjum öðrum skaltu velja rólegt og einkarlegt augnablik. Talaðu um ákveðna hluti sem þú hefur tekið eftir, út frá áhyggjum af heilsu hans frekar en gagnrýni. Að stinga upp á almennri heilsufarsskoðun getur virst minna ógnandi. Hafðu viðkomandi með í ákvörðunum og talaðu við hann sem þann fullorðna einstakling sem hann er. [Ráð okkar um samskipti](/caregiving/communication-tips/) geta hjálpað.
 
-## Talk with a doctor
+## Ræddu við lækni
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Ef þú tekur eftir breytingum á minni, hugsun, skapi eða getu í daglegu lífi sem eru nýjar og viðhalda sér skaltu panta tíma hjá heimilislækni. Ef um skyndilegt rugl er að ræða skaltu hringja í 112 eða í heilbrigðisstarfsmann viðkomandi strax. Að láta athuga málið snemma þýðir að hægt er að finna meðhöndlanlegar orsakir og, ef um heilabilun er að ræða, er meiri tími til að skipuleggja og finna stuðning. Mundu líka að sjá um þig sjálfan í þessu ferli, sjá [leiðbeiningar okkar um sjálfsumönnun aðstandenda](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Þessi síða er almennar upplýsingar, ekki læknisráðgjöf. Sjá [yfirlýsingu okkar um læknisfræðilegar upplýsingar](/medical-disclaimer/).

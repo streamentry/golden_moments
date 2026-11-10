@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Pran swen tèt ou: Repo, sipò ak siy epwizman"
+seoTitle: "Pran swen tèt ou lè w akonpaye demans"
+description: "Siy epwizman, kijan pou jwenn repo ak gwoup sipò, ak liy èd gratis Ozetazini, tankou Liy Èd 24/7 Alzheimer’s Association ak Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Pran swen yon moun k ap viv ak demans pa fasil, epi pran swen tèt ou fè pati
+  travay la. Fè atansyon ak siy avètisman tankou fatig ekstrèm, iritabilite,
+  move dòmi ak lè w kòmanse retire w devan zanmi. Mande èd pou bagay presi,
+  sèvi ak sèvis repo, epi antre nan yon gwoup sipò. Èd gratis Ozetazini gen ladan
+  Liy Èd 24/7 Alzheimer’s Association nan 1-800-272-3900 ak Eldercare Locator
+  nan 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Epwizman souvan parèt kòm fatig ekstrèm, iritabilite, move dòmi, tristès ak lè w neglije swen sante pwòp tèt ou."
+  - "Sèvis repo ba ou yon ti repo, soti nan kèk èdtan rive plizyè semèn, lakay ou oswa nan yon etablisman swen."
+  - "Mande èd pou travay presi; anpil moun vle ede men yo pa konnen kijan."
+  - "Liy Èd 24/7 Alzheimer’s Association (1-800-272-3900) ofri sipò gratis ak konfidansyèl nenpòt ki lè."
+  - "Eldercare Locator (1-800-677-1116) konekte ou ak sèvis lokal yo, tankou Ajans Zòn ou pou Granmoun Aje."
+  - "Si w santi w nan kriz, rele oswa voye tèks bay 988. Nan yon ijans, rele nimewo ijans lokal ou."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Ki siy epwizman lè w ap bay swen?"
+    a: "Siy komen yo gen ladan santi w fatige anpil, akable oswa enkyete, fache oswa pèdi pasyans fasil, gen pwoblèm pou dòmi, santi w tris oswa san espwa, retire w devan zanmi, souvan gen maltèt oswa doulè, epi sote pwòp repa ou, egzèsis ou oswa swen medikal ou. Si siy tankou sa yo rive souvan, pale ak doktè ou."
+  - q: "Kijan pou m jwenn sèvis repo toupre mwen?"
+    a: "Kòmanse ak Eldercare Locator (1-800-677-1116 oswa eldercare.acl.gov) pou jwenn Ajans Zòn ou pou Granmoun Aje, ARCH National Respite Locator Service, oswa Liy Èd Alzheimer’s Association nan 1-800-272-3900. Fanmi, zanmi ak volontè ka bay sèvis repo tou."
+  - q: "Èske Medicare peye pou sèvis repo?"
+    a: "Pou yon moun k ap resevwa swen ospis, Medicare kouvri pi fò pri pou jiska senk jou repo youn dèyè lòt nan yon lopital oswa yon etablisman swen enfimyè kalifye, dapre National Institute on Aging. Pifò asirans sante prive pa kouvri sèvis repo; Medicaid ak kèk plan asirans swen alontèm ka ede."
+  - q: "Èske Liy Èd Alzheimer’s Association vrèman gratis epi disponib lannwit?"
+    a: "Wi. Alzheimer’s Association di Liy Èd li nan 1-800-272-3900 gratis, konfidansyèl, epi gen moun ki la pou ede 24 sou 24, 365 jou pa ane, ak èd ki disponib nan plizyè lang. Konpoze 711 pou yon sèvis relè."
+  - q: "Èske li egoyis pou m pran yon ti repo nan bay swen?"
+    a: "Non. Repo ede w kontinye bay swen, epi sèvis repo ka bay moun w ap pran swen an yon chanjman nan konpayi ak aktivite tou. Anpil moun ki bay swen di pita yo ta swete yo te mande èd pi bonè."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Si w ap pran swen yon moun k ap viv ak demans, ou gen anpil chans w ap li sa a ta, fatige, epi ak yon lis bagay ou poko fè. Sa nòmal. Pran swen tèt ou se pa yon liks ni yon rekonpans lè w fin fè tout bagay. Se sa ki ede w kontinye.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Paj sa a pale sou siy avètisman epwizman, kijan pou jwenn yon vrè repo, ki kote pou jwenn sipò, ak liy èd gratis Ozetazini ou ka rele jodi a.
 
-## What are the signs of caregiver burnout?
+## Ki siy epwizman lè w ap bay swen?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Epwizman souvan vini dousman, kidonk li ede pou w konnen pwòp siy avètisman pa w. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) bay lis siy estrès lè w ap bay swen, tankou:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- santi w fatige anpil, akable oswa enkyete;
+- fache oswa pèdi pasyans fasil;
+- santi w poukont ou oswa dekonekte ak lòt moun;
+- gen pwoblèm pou dòmi, oswa pa dòmi ase;
+- santi w tris oswa san espwa, oswa pèdi enterè nan bagay ou te konn renmen;
+- souvan gen maltèt, doulè oswa lòt pwoblèm fizik;
+- pa gen tan pou fè egzèsis oswa prepare manje ki bon pou sante ou;
+- sote douch oswa lòt swen pèsonèl;
+- mal sèvi ak alkòl oswa dwòg, tankou medikaman sou preskripsyon.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ajoute lòt siy, tankou refize aksepte maladi a, fache sou moun nan (« li jis ap fè tèt di »), enkyetid sou lavni, difikilte pou konsantre, ak pwoblèm sante k ap pran sou ou. Yo konseye pou w pale ak doktè ou si w gen siy tankou sa yo souvan.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Konsèy NIA a se pou w pa tann jiskaske w santi w nèt ale. Remake siy ou yo bonè epi pran aksyon.
 
-## What can I do today, in five minutes?
+## Kisa m ka fè jodi a, nan senk minit?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Ti repo yo konte. Okenn nan bagay sa yo pa rezoud epwizman, men yo ka ede w pase yon apremidi difisil.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Soti deyò.** Chita sou galri a oswa mache al jwenn bwat lèt la pandan moun nan an sekirite epi poze.
+- **Respire dousman.** Pran kèk respirasyon dousman anvan ou reponn yon kesyon difisil. Ou ka pataje yon ti poz [Respirasyon kalm](/games/calm-breathing/) ak moun w ap pran swen an tou.
+- **Bwè dlo epi manje yon ti bagay.** Li fasil pou w bliye pwòp repa ou.
+- **Voye yon tèks bay yon zanmi.** Se pa pou mande anyen, jis pou rete konekte.
+- **Di tèt ou yon bagay janti.** [Gid NIA a sou kijan pou pran swen tèt ou](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) sijere fraz tankou « M ap fè pi bon mwen kapab », « Mwen pa pafè, epi sa pa gen pwoblèm », ak « M ap jwi moman kote nou ka ansanm anpè ».
 
-## What is respite care, and how do I get it?
+## Kisa sèvis repo ye, epi kijan pou m jwenn li?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Sèvis repo se swen pou kout tan pou moun w ap okipe a, pou ou ka repoze. [Paj NIA a sou sèvis repo](https://www.nia.nih.gov/health/caregiving/what-respite-care) eksplike li ka dire soti nan kèk èdtan rive plizyè semèn epi li ka fèt lakay, nan yon etablisman swen sante oswa nan yon sant swen lajounen pou granmoun.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) dekri kèk kalite komen:
 
-| Type | What it is |
+| Kalite | Kisa li ye |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Èd lakay | Yon zanmi, yon manm fanmi, yon volontè oswa yon konpayon oswa èd ki peye vin lakay la |
+| Sant lajounen pou granmoun | Aktivite ki planifye tankou mizik ak atizay nan yon gwoup ki an sekirite; yo souvan ofri transpò ak repa |
+| Rete lannwit oswa kout sejou | Yon kominote swen alontèm pran swen moun nan pou yon nwit, kèk jou oswa kèk semèn |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Kiyès ki peye?** Dapre NIA, sèvis repo ki soti nan fanmi, zanmi oswa volontè ka gratis. Sèvis pwofesyonèl yo mande lajan pa èdtan oswa pa jou. Pou yon moun k ap resevwa swen ospis, Medicare kouvri pi fò pri pou jiska senk jou repo youn dèyè lòt nan yon lopital oswa yon etablisman swen enfimyè kalifye. Medicaid ka ede. Pifò asirans sante prive pa kouvri sèvis repo, men kèk plan asirans swen alontèm fè sa.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Ti konsèy:** Alzheimer's Association sijere pou w eseye founisè sèvis repo yo lè se pa yon ijans, konsa yo pare si ou bezwen èd toudenkou.
 
-## Where can I find help near me?
+## Ki kote mwen ka jwenn èd toupre mwen?
 
-Several free US services can point you to local help.
+Plizyè sèvis gratis Ozetazini ka montre w ki kote pou jwenn èd lokal.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Liy Èd 24/7 Alzheimer’s Association: 1-800-272-3900.** [Liy Èd la](https://www.alz.org/help-support/resources/helpline) gratis epi konfidansyèl, gen moun ki la pou ede 24 sou 24, chak jou nan ane a, ak èd nan plis pase 200 lang grasa anplwaye ki pale de lang oswa entèprèt. Konpoze 711 pou yon sèvis relè. Ou ka pale sou chanjman nan konpòtman, estrès lè w ap bay swen, opsyon sèvis repo, pwogram lokal yo ak plis ankò, epi mande pou gen yon konvèsasyon ki pi long ak yon konsiltan swen. Anplwaye yo pa bay konsèy medikal.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), yon sèvis piblik Administration for Community Living, konekte ou ak sèvis pou granmoun aje ak fanmi yo. Ou ka rele, voye tèks, diskite sou entènèt oswa voye imèl bay anplwaye ki resevwa fòmasyon, oswa chèche selon kote ou ye a. Li ka montre w Ajans Zòn ou pou Granmoun Aje.
+- **ARCH National Respite Locator Service.** [Zouti ARCH pou jwenn sèvis repo](https://archrespite.org/caregiver-resources/respitelocator/) ede w jwenn founisè sèvis repo pa eta, epi li sijere pou w kontakte State Respite Coalition oswa pwogram Lifespan Respite nan eta ou anvan si eta ou genyen youn. ARCH fè konnen li pa verifye founisè yo, kidonk gade eksperyans yo ak istwa yo ou menm.
 
-## How do I find a support group?
+## Kijan pou m jwenn yon gwoup sipò?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Mande Liy Èd la oswa chèche sou entènèt pou jwenn gwoup toupre ou. Alzheimer's Association [òganize gwoup sipò](https://www.alz.org/help-support/community/support-groups) pou moun ki bay swen ak moun k ap viv ak demans, an pèsòn ak sou entènèt, ak animatè ki resevwa fòmasyon. Anpil kote ofri gwoup espesyalize tou, pa egzanp pou moun ki bay swen ki granmoun oswa pou moun k ap viv ak Alzheimer ki kòmanse pi bonè oswa ki nan etap bonè. Yo òganize ALZConnected tou, yon kominote gratis sou entènèt kote moun ki bay swen pataje konsèy.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Gwoup sipò yo ka yon kote pou w vide kè w san jijman, pran konsèy pratik nan men moun ki deja pase ladan l, epi santi w mwens poukont ou. Si premye gwoup la pa bon pou ou, eseye yon lòt.
 
-## How do I ask family and friends for help?
+## Kijan pou m mande fanmi ak zanmi pou èd?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Fè demann ou klè. Anpil moun vle ede men yo pa konnen kisa pou yo ofri. NIA sijere:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Kenbe yon lis** travay lòt moun ta ka pran, epi kite moun chwazi.
+- **Kòmanse piti** si li difisil pou w mande.
+- **Chwazi travay la dapre moun nan.** Kouzen ki renmen kwit manje pote dine jedi. Vwazen ki bon ak papye ede ak fòmilè yo.
+- **Voye tèks oswa imèl** si li pa alèz pou w mande an pèsòn.
+- **Prepare yon repons** pou lè yon moun ofri èd: « Mèsi paske w mande. Men sa ou ka fè. »
+- **Atann kèk non** epi eseye pa pran yo pèsonèlman.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Lòt lide: mande yon moun pou rete ak moun nan pandan yon apremidi pa semèn, mennen l nan yon ti soti kout, oswa vin vizite epi jwe yon jwèt ansanm. [Gid nou an sou kijan pou jwe ansanm](/caregiving/how-to-play-together/) fasil pou pataje ak vizitè yo.
 
-## What if something happened to me?
+## E si yon bagay ta rive m?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Fè yon plan senp pou ranplasman kounye a. NIA sijere pou w deside ak fanmi oswa zanmi pwòch kiyès ki ta ka pran relè, epi kenbe yon kaye ak nimewo ijans, medikaman, konsèy sou konpòtman ki mache, ak aktivite moun nan renmen. Alzheimer's Association rekòmande tou pou w kenbe kontak medikal moun nan ak yon lis medikaman ki ajou nan yon kote ki fasil pou jwenn.
 
-## When should I get professional or urgent help?
+## Kilè pou m chèche èd pwofesyonèl oswa ijans?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Pale ak doktè ou si siy estrès yo vini souvan, si w santi w deprime, oswa si w gen difikilte pou fè fas. Di doktè ou ke w ap bay swen. NIA fè konnen konseye ak travayè sosyal ka ede ak santiman difisil ak planifikasyon, epi Medicare, Medicaid ak kèk asirans prive ka kouvri kèk depans pou sante mantal.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Si w santi w nan kriz oswa w gen panse pou fè tèt ou mal, rele oswa voye tèks bay 988 pou jwenn [988 Suicide & Crisis Lifeline](https://988lifeline.org/), yon sèvis gratis ki disponib 24 sou 24, 7 jou sou 7. Si nenpòt moun an danje kounye a, rele nimewo ijans lokal ou.
 
-## Can shared activities give me a break too?
+## Èske aktivite nou fè ansanm ka ban m yon ti repo tou?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Pafwa. Yon aktivite kalm nou toude renmen ka fè yon pati nan jounen an pi dous pou ou tou, menm jan ak pou moun w ap pran swen an: tande vye chante, gade foto, oswa yon jwèt tankou [Kat konvèsasyon](/games/conversation-cards/) ki pa bezwen bon repons. Si moun nan renmen gen konpayi, yon sesyon an gwoup ak [Bingo foto](/games/picture-bingo/) nan yon sant pou granmoun oswa yon pwogram lajounen pou granmoun ka ba ou yon èdtan repo. Gade [aktivite pou gwoup nan kay swen](/activities/care-home-groups/) pou plis lide.

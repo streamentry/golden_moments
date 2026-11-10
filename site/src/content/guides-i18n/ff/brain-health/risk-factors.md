@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Piiji 14 baawɗi ɓeydaade majjugol hakkille"
+seoTitle: "Piiji 14 Lancet holli baawɗi ɓeydaade majjugol"
+description: "Piiji 14 baawɗi waylaade ɗi Komisee Lancet 2024 holli, e ko njannguude jokkondiri e mum en, e ko mbaawɗaa yewtude e doktoor."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Komisee Lancet 2024 hollii piiji 14 baawɗi waylaade ɗi waawi jokkondirde e
+  majjugol hakkille: jaŋde famɗunde, ŋakkere nannde, kolesterol LDL toowɗo,
+  sokola hakkille, barme hoore, ŋakkere dillere ɓandu, diyabeetes, jarlugol
+  sigaar, toowgol ƴiiƴam, ɓeydagol teddeendi ɓandu, yarugol mandila ɓurɗo,
+  wuurde feere, jiidgol henndu e ŋakkere yiide nde safraaka. Fof e mum en ena
+  jokkondiri e ko ɓuri 45% e kaalisuuji e aduna on, kono alaa fawaade nde
+  laaɓnde wonande gooto fof.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Piiji 14 ɗii ena njokki nguurndam fof: gootel e nder sukaaku, sappo e nder hakkundeejo nguurndam e tati e nder duubi ɓaawɗi."
+  - "Ŋakkere nannde e kolesterol LDL toowɗo e nder hakkundeejo nguurndam fof ena jokkondiri e ko ɓuri 7% e kaalisuuji majjugol hakkille e aduna on, ko ɗum ɓuri mawnude e piiji gootel fof."
+  - "Limtooji ɗii ko kiisaaji renndo, tee ena paama noon wonde ena woodi sabaabu. Won e jokkondire ɗee ena mbaawi wonde sabaabu tan seeɗa."
+  - "Duuɓi e aslol, ɗi hay gooto waawaa waylude, ko piiji mawɗi kadi baawɗi ɓeydaade hulde. Ustude piiji 14 ɗii waawataa fawde wonde neɗɗo fof heɓataa majjugol hakkille."
+  - "Ko heewi e peeje gonɗe heen, wano ƴeewtaade toowgol ƴiiƴam, nannde e yiide, ena moƴƴi e cellal e laabi goɗɗi tee ena foti yewteede e doktoor."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Hol ko woni piiji 14 baawɗi waylaade ɗi ɓeydata hulde majjugol hakkille?"
+    a: "Komisee Lancet 2024 hollii jaŋde famɗunde, ŋakkere nannde, kolesterol LDL toowɗo, sokola hakkille, barme hoore, ŋakkere dillere ɓandu, diyabeetes, jarlugol sigaar, toowgol ƴiiƴam, ɓeydagol teddeendi ɓandu, yarugol mandila ɓurɗo, wuurde feere, jiidgol henndu e ŋakkere yiide nde safraaka. Fof e mum en ena jokkondiri e ko ɓuri feccere e kaalisuuji majjugol hakkille e aduna on."
+  - q: "Hol piiyol ɓurɗol himmude e hulde majjugol hakkille?"
+    a: "E renndo aduna on, Komisee kiisi wonde ŋakkere nannde e kolesterol LDL toowɗo e nder hakkundeejo nguurndam fof ena jokkondiri e ko ɓuri 7% e kaalisuuji, caggal mum jaŋde famɗunde e wuurde feere ko ɓuri 5% fof. Piiji ɓurɗi himmude wonande neɗɗo gooto ena fawii e cellal mum kanko, ɗum noon doktoor ko moƴƴo ngam wallitde."
+  - q: "Piiji ɗiɗi kesi ɗii ɓeydaaɗi e 2024 naa?"
+    a: "Eey. Ciimtol 2024 ngol ɓeydii kolesterol LDL (bonɗo) toowɗo e nder hakkundeejo nguurndam e ŋakkere yiide nde safraaka e nder duubi ɓaawɗi e piiji 12 ɗi hollanooɗi e 2020. Komisee jokkondiniri ɗi e ko ɓuri 7% e 2% e kaalisuuji e deeyde mum en."
+  - q: "Duuɓi ena jeyaa e piiji baawɗi waylaade naa?"
+    a: "Alaa. Duuɓi ko piiyol ɓurɗol anndeede baawngol ɓeydaade hulde ñawu Alzheimer, tee waawetaake wayleede. Aslol kadi ena jogii geɗal. Piiji 14 wonɗi e ngoo hello ko ɗi njannguude holli waawi waylaade."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,126 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Piiyol ɓeydoowel hulde ko huunde jokkondirnde e fartaŋŋe ɓurɗo mawnude ngam
+heɓde caɗeele cellal. Ndee wonaa sabaabu e kala sahaa, tee jogagol heen gootel
+firtaani ma a heɓ majjugol hakkille. Ngoo hello ena winndii piiji 14 ɓeydooji
+hulde majjugol hakkille ɗi Komisee Lancet 2024 wi'i ena mbaawi waylaade, ko
+njannguude jokkondiri e mum en, e ko mbaawɗaa yewtude e doktoor.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Ngam yiyde natal ɓurngal yaajde, e ko ƴeewndooji mawɗi tawi, fuɗɗo e
+[Majjugol hakkille ena waawi haɗeede? Ko njannguude wi'i](/brain-health/can-dementia-be-prevented/).
+Ɗum ko humpito kuuɓal tan, wonaa wasiyaaji doktoor; ƴeew
+[renndinde amen laawol cellal](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Hol ko woni piiji 14 ɓeydooji hulde majjugol hakkille?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Komisee Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+winndaande yimɓe 27 wiɗtooɓe e majjugol hakkille, kiisi wonde piiji 14 baawɗi
+waylaade fof e mum en ena jokkondiri e ko ɓuri 45% e kaalisuuji majjugol
+hakkille e aduna on. Limtol kala piiyol les ɗoo ko kiisol Komisee wonande geɗal
+kaalisuuji e aduna on jokkondirɗi e mum, timminaangol e limoore timmunde. Limtooji
+ɗii ena njuɓɓondiri, sabu yimɓe heewɓe ena njogii piiji keewɗi e sahaa gooto, ko
+ɗum waɗi ɗi kawra 45% wonaa ɓurɗum.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Piiyol ɓeydoowel hulde | Sahaa nguurndam | Geɗal kaalisuuji | Ko njannguude jokkondiri | Ko mbaawɗaa waɗde |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Jaŋde famɗunde | Sukaaku | 5% | Famɗugol duuɓi jaŋde ena jokkondiri e hulde ɓurnde. Waɗde geɗe naftooje hakkille e nder hakkundeejo nguurndam ena nanndi e reende, hay wonande yimɓe jaŋɓe seeɗa. | Jokku jaŋde e waɗde geɗe naftooje hakkille e kala duuɓi: janngude, geɗe welaaɗe, cuuɗi ekkitinol, fijirde e woɗɓe. |
+| Ŋakkere nannde | Hakkundeejo nguurndam | 7% | Ŋakkere nannde nde safraaka ena jokkondiri e hulde ɓurnde. Ƴeewndooji jokkiiɗi yimɓe e nder duuɓi ena njokkondiri huutoraade masiŋaaji nannde e hulde famɗunde. | Ƴeewto nannde maa. Naamno so masiŋaaji nannde ena mbaawi wallitde, tee huutoro ɗi so doktoor yamiri ɗi. Reen noppi maa e daande toownde. |
+| Kolesterol LDL toowɗo | Hakkundeejo nguurndam (gila ko ɓuri duuɓi 40) | 7% | Kolesterol LDL («bonɗo») toowɗo e nder hakkundeejo nguurndam ena jokkondiri e hulde ɓurnde. Ƴeewndooji ƴeewooji ena njokkondiri huutoraade statin en e hulde famɗunde, kono ƴeewndooji e duubi ɓaawɗi hollaani ɗum. | Naamno doktoor maa so kolesterol maa ena foti ƴeewteede e ko, so woodii, foti waɗeede. |
+| Sokola hakkille | Hakkundeejo nguurndam | 3% | Sokola hakkille ena jokkondiri e hulde ɓurnde. E duubi ɓaawɗi, sokola hakkille ena waawi kadi wonde maande adannde majjugol hakkille. | Haal doktoor so aɗa jogii ɓernde mettuɗe walla a accii hatojinde e geɗe ko ɓuri yontere ɗiɗi. Sokola hakkille ena waawi safraneede. |
+| Barme hoore | Hakkundeejo nguurndam | 3% | Barme hoore e kala duuɓi e kala no iwri, hay fijirde memotoonde ɓandu, ena jokkondiri e hulde ɓurnde. | Ɓorno huufnere hoore so aɗa waɗa welo walla fijirde memotoonde ɓandu. Naamno no haɗirtaa yanaade. Fofto tee ƴeewto caggal barme hoore. |
+| Ŋakkere dillere ɓandu | Hakkundeejo nguurndam | 2% | Yimɓe dillooɓe ɓandu e fijoobe pijirɗe ɓandu ena ŋakki heɓde majjugol hakkille. Seedeeji ƴeewndooji kadi ena famɗi tawo. | Naamno hol dillere hisnde wonande maa, tee yiytu ko wela maa. Ƴeew [deftere amen dillere ɓandu](/brain-health/exercise/). |
+| Diyabeetes | Hakkundeejo nguurndam | 2% | Diyabeetes, tentini so nde fuɗɗii e hakkundeejo nguurndam walla nde juuti, ena jokkondiri e hulde ɓurnde. | Ƴeewto siiwre ɓandu. So aɗa jogii diyabeetes, gollodir e dental toppitoongal maa ngam toppitaade nde e kisal. |
+| Jarlugol sigaar | Hakkundeejo nguurndam | 2% | Jarlugol sigaar ena jokkondiri e hulde ɓurnde. Ƴeewndooji ena kawri wonde ɓeen accuɓe jarlude ngonaa e hulde toownde wano ɓeen jokkuɓe. | Naamno ballal ngam accude. Ena moƴƴi accude e kala duuɓi. |
+| Toowgol ƴiiƴam | Hakkundeejo nguurndam | 2% | Toowgol ƴiiƴam e nder hakkundeejo nguurndam ena jokkondiri e hulde ɓurnde. Ƴeewndooji lekki toowgol ƴiiƴam ena kolli hulde famɗunde majjugol hakkille walla ŋakkere hakkille. | Anndu limoore maa. Komisee ena wasiyoo limoore dowrowre 130 walla les mum gila ko ɓuri duuɓi 40; naamno hol faandaare moƴƴere wonande maa. |
+| Ɓeydagol teddeendi ɓandu | Hakkundeejo nguurndam | 1% | Ɓeydagol teddeendi ɓandu e nder hakkundeejo nguurndam ena jokkondiri e hulde ɓurnde, tee ena ɓeyda kadi hulde diyabeetes. | Naamno doktoor maa ko woni teddeendi ɓandu moƴƴere wonande maa. Mawɓe potaani dieteede ngam ustude teddeendi tawa alaa wasiya doktoor. |
+| Yarugol mandila ɓurɗo | Hakkundeejo nguurndam | 1% | Yarugol mandila keewngol ena jokkondiri e hulde ɓurnde. Ustude so aɗa yarnoo ko heewi ena jokkondiri e hulde famɗunde. | Naamno hol keeri hisndi wonande maa, tentini e lekki maa. |
+| Wuurde feere | Duubi ɓaawɗi | 5% | Jokkondiral yimɓe famɗungal ena jokkondiri e hulde ɓurnde. | Jokku jokkondirde e yimɓe e laabi ɗi wela maa. Ƴeew [deftere amen jokkondiral renndo](/brain-health/social-connection/). |
+| Jiidgol henndu | Duubi ɓaawɗi | 3% | Wuurde e henndu ɓurndu jiideede ena jokkondiri e hulde ɓurnde. Ƴeewndooji ena njokkondiri henndu ɓurngu laaɓde e hulde famɗunde. | Ko huunde paatuɗe e laawol renndo ko heewi. Ƴeewto jeertinaaji ngonka henndu nokkuure maa tee ustu sahaa yaltugol e ñalawmaaji jiidɗi no feewi. |
+| Ŋakkere yiide nde safraaka | Duubi ɓaawɗi | 2% | Caɗeele yiide ɗe ñawndaaka ena njokkondiri e hulde ɓurnde. Ƴeewndere mawnde gooto to Amerik jokkondinirii ŋawndugol katarakte e hulde famɗunde. | Ƴeewto gite maa sahaa kala. Naamno so caɗeele wano katarakte ena mbaawi safraneede. |
 
-## How should I read these percentages?
+## Hol no pot-mi janngirde limtooji ɗii?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+E hakkil. Ciimtol Komisee tigi ngol ena holli huunde keewɗe potɗe teskeede:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Ena kollira renndooji, wonaa yimɓe keeriiɓe.** [Tonngol University College London e ciimtol ngol](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  ena teskitina wonde ustude hulde ena golla e renndo fof tee waawataa fawde
+  wonde neɗɗo gooto heɓataa majjugol hakkille.
+- **Ena paama noon wonde ena woodi sabaabu.** Winnduɓe ɓen cuɓii tan piiji
+  jogiiɗi seedeeji tiiɗɗi, kono ɓe mbiyi won e jokkondire ɗee ena mbaawi wonde
+  sabaabu tan seeɗa.
+- **Ko limtooji aduna on ɗii.** Ko heewi e keɓe ɗee iwi ko e leyɗe aldunooje,
+  tee geɗal goonga wonande leydi walla renndo gooto ena waawi seertude.
+- **Limtooji famɗuɗi kadi ena mbaawi himmude.** Piiyol jokkondirngol e 2% e
+  kaalisuuji e aduna on ena mema kadi yimɓe heewɓe no feewi.
 
-## Which risk factors were added in 2024?
+## Hol piiji ɓeydooji hulde ɓeydaano e 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Ciimtol 2024 ngol ɓeydii piiji ɗiɗi e piiji 12 ɗi hollanooɗi e 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Kolesterol LDL toowɗo e nder hakkundeejo nguurndam**, jokkondirɗo e ko
+  ɓuri 7% e kaalisuuji.
+- **Ŋakkere yiide nde safraaka e nder duubi ɓaawɗi**, jokkondirɗo e ko ɓuri
+  2% e kaalisuuji.
 
-## What risk factors cannot be changed?
+## Hol piiji ɓeydooji hulde ɗi mbaawetaake wayleede?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging ena wi'a
+[duuɓi ko piiyol ɓurɗol anndeede baawngol ɓeydaade hulde ñawu Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+tee hay gooto waawaa ɗum waylude. Aslol kadi ena jogii geɗal; aslol gootol
+anndaangal naftoowal e hulde Alzheimer ena wiyee APOE. NIA ena ɓeyda heen wonde
+wiɗtooɓe faamaani tawo haa timmi ko saabata Alzheimer e ko heewi e yimɓe.
+Komisee Lancet ena teskitina wonde piiji baawɗi waylaade ena mbaawi ustudeede
+kala no aslol neɗɗo wa'i fof.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Sabu duuɓi e aslol ena njogii geɗal mawngal, yimɓe heewɓe ɓe ngalaa hay gootel
+e piiji 14 ɗii ena keɓa kadi majjugol hakkille. Ɗum wonaa feloore hay gooto.
 
-## What does the trial evidence say about changing these risks?
+## Hol ko seedeeji ƴeewndooji mbi'i e waylude piiji ɗii?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Jokkondinde piiyol ɓeydoowel hulde e majjugol hakkille wonaa gootum e hollude
+wonde waylude ɗum ena usta hulde majjugol hakkille. Yeruuji seeɗa ko ɗoo to
+seedeeji ƴeewndooji njooɗii:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Toowgol ƴiiƴam.** E ƴeewndere SPRINT MIND, faandaare toowgol ƴiiƴam lesre
+  ustii no feewi ŋakkere hakkille famɗunde. Nde ustaani no feewi majjugol
+  hakkille cikkangel, kono ƴeewndere ndee ena waawi wonde nde famɗaani ngam
+  hollude ɗum ([SPRINT MIND e JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Masiŋaaji nannde.** Komisee Lancet ena sifora ƴeewndere masiŋaaji nannde
+  duuɓi tati nde tawaani batte kuuɓal e miijagol, kono nde tawi nafoore e
+  dental yimɓe ɓurɓe huldeede. Ƴeewndooji jokkiiɗi yimɓe e nder duuɓi ena
+  njokkondiri huutoraade masiŋaaji nannde e hulde famɗunde. [Deftere amen
+  nannde](/brain-health/hearing/) ena jogii kabaruuji goɗɗi.
+- **Dillere ɓandu.** National Institute on Aging ena wi'a alaa seedeeji
+  ƴeewndooji yonɗe ngam wiyde wonde dillere ɓandu ena waawi haɗde walla
+  neɓɓitinde ŋakkere hakkille famɗunde walla Alzheimer, hay so ƴeewndooji goɗɗi
+  ena kolli nde ena waawi wallitde e ŋakkere jokkondirnde e duuɓi
+  ([NIA e haɗde Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Ƴeewndooji juutɗi ɗi sabbotoo majjugol hakkille fuɗɗaade ena leela tee ena
+nawi, ɗum noon e piiji heewɗi seedeeji ɓurɗi moƴƴude maa njokku iwide e
+ƴeewndooji jokkiiɗi yimɓe e nder duuɓi. Seedeeji ɗii ena nafa, kono ɗi ɓuri
+lo'ude ƴeewndere ƴeewndoore.
 
-## What about sleep and diet?
+## Hol to ɗaanagol e ñaamduye ngonata?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Komisee ƴeewtino ɗaanagol e ñaamduye kono ɓeydanaani ɗi e doggol ngol, sabu
+seedeeji ɗii tiiɗaani walla njaadaani no feewi. Defte amen e
+[ɗaanagol](/brain-health/sleep/) e [ñaamduye](/brain-health/diet/) ena
+kollita ko anndaaka.
 
-## Talk with a doctor
+## Yewtid e doktoor
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Ƴeewndagol hitaande ena foti wonde sahaa moƴƴo ngam yewtude e ɗee-ɗoo huunde.
+Aɗa waawi addude ngol doggol tee naamno:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Hol ko woni limoore toowgol ƴiiƴam am, siiwre ɓandu e kolesterol, tee ena
+  woodi heen fof nde foti toppiteede?
+- Ena foti mi ƴeewta nannde e gite am?
+- Dillere nde waɗi-mi ndee ena hisi tee ena yonii wonande am?
+- Ena woodi e lekki am baawɗi memde maanditaare walla miijagol?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Hade maa waylude lekki, ñaamduye, hoore mum, dillere ɓandu walla ɓeyditte
+ñaamduye, yewtid e doktoor tawo. So an walla mo toppitotoɗaa ena jogii jiiɓru
+ko yaawi, lo'ere bannge gooto, walla caɗeele haalde, noddu limoore urjansi
+nokkuure maa.

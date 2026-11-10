@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Attività di rimembranza: scatule di ricordi è foto"
+seoTitle: "Attività di rimembranza per a dimenza: senza quiz"
+description: "Cumu sparte i ricordi cù una persona chì campa cù a dimenza senza interrugà: ritratti, scatule di ricordi è libri di vita, cù frasi simplici è calme."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  A rimembranza vole dì gode di u passatu inseme, cù ritratti, ogetti, musica
+  è storie. Pudete fà una scatula di ricordi, creà un libru di vita simplice o
+  fighjà i ritratti fiancu à fiancu. Ùn interrugate mai: lasciate cascà « Vi
+  ricordate ? » è « Quale hè ? » è aduprate inviti aperti cum'è « Parlàtemi di
+  questu ». Una cunversazione calda conta più chè avè tutti i fatti ghjusti.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "A rimembranza hè una cunversazione, micca una prova. A precisione ùn conta micca ; ciò chì conta hè u piacè."
+  - "Rimpiazzate « Vi ricordate...? » è « Quale hè ? » cù cummenti è inviti cum'è « Parlàtemi di stu ghjornu »."
+  - "Una scatula di ricordi cù ogetti di a vita di a persona dà qualcosa à tene in manu è di chè parlà."
+  - "Un libru di vita aiuta a famiglia, i visitori è u persunale di cura à cunnosce a persona, micca solu a diagnosi."
+  - "S'è un ricordu porta tristezza, cunsulate prima è poi cambiate pianu pianu."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Chì hè a rimembranza per e persone chì campanu cù a dimenza ?"
+    a: "A rimembranza hè u fattu di sparte ricordi è sperienze di u passatu, spessu cù l'aiutu di ritratti, ogetti, musica o video. Pò accade trà duie persone o in gruppu. U scopu hè una cunversazione piacevule è significativa, micca di verificà ciò chì a persona pò rammentà."
+  - q: "Perchè ùn devu micca dumandà « Vi ricordate ? » ?"
+    a: "E dumande chì mettenu à prova a memoria ponu fà sente a persona imbarazzata o in ansietà quandu a risposta ùn vene micca. U National Institute on Aging mette trà e cose da evitā u fattu di dumandà s'ellu qualchissia si ricorda di qualcosa o di qualchissia. Cummentate ciò chì vedite, è lasciate a persona aghjunghje ciò ch'ella vole."
+  - q: "Chì devu mette in una scatula di ricordi ?"
+    a: "Sceglite ogetti sicuri è solidi, ligati à a vita di a persona : cose di u travagliu, ogetti di passatempi, una sciarpa preferita, cartuline, ricette, suveniri sportivi o copie di ritratti. Evitate l'ogetti taglienti, i picculi ogetti chì si puderianu ingolle, è l'urighinali chì ùn si ponu rimpiazzà."
+  - q: "È s'ella sbaglia i fatti ?"
+    a: "Lasciate corre. S'è a vostra mamma dice chì u ritrattu mostra a so surella mentre ch'ella hè a so cuginetta, ùn face nunda. Currisgendula, un mumentu caldu diventa una prova. Seguitate a storia ch'ella conta è gudìtela inseme."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+A rimembranza vole sempliciamente dì gode di u passatu inseme. Per parechje persone chì campanu cù a dimenza, i ricordi di decine d'anni fà restanu più chjari chè ciò chì hè accadutu sta mane. I ritratti, l'ogetti familiari, a musica è e storie ponu apre sti ricordi è dà vi qualcosa di caldu da sparte. Ci hè una sola regula : hè una cunversazione, mai una prova.
 
-## What is reminiscence, and how is it different from quizzing?
+## Chì hè a rimembranza, è in chì hè diversa da un quiz ?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+A rimembranza hè u fattu di sparte ricordi cù ritratti, ogetti, musica o video, à u ritimu di a persona. U [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) a descrive cum'è sparte sperienze è storie di u passatu cù l'aiutu di ritratti, ogetti, video o musica, in un libru o nantu à una tavuletta. Un quiz hè diversu : dumanda à a persona di truvà una risposta ghjusta, è què pò purtà imbarazzu invece di piacè.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) mette trà e cose da evitā u fattu di dumandà à una persona s'ella si ricorda di qualcosa o di qualchissia. A [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) prupone d'evità e dumande chì si basanu nantu à a memoria di cortu termine è di parlà piuttostu di u passatu più luntanu.
 
-| Instead of | Try |
+| Invece di | Pruvate |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| « Vi ricordate di questu ? » | « Pare una bella ghjurnata. Parlàtemi ne. » |
+| « Quale hè ? » | « Eccu a zia Rose à a spiaghja. Fighjate stu cappellu. » |
+| « Di chì annu hè ? » | « Pare a vechja casa. Comu era di campà culà ? » |
+| « Innò, ùn hè micca Bill, hè Frank. » | « Pare una persona assai simpatica. » |
+| « Dighjà m'avete dettu què. » | « Mi piace assai sta storia. » |
 
-## How do you talk about photos without quizzing?
+## Cumu parlà di i ritratti senza interrugà ?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Cuminciate cù ciò chì vedite, è lasciate dopu spaziu à a persona per aghjunghje qualcosa, s'ella vole.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Piazzate vi fiancu à fiancu.** Tenite l'album trà voi per fighjà inseme, micca per fà una prova da una parte à l'altra di u tavulinu.
+2. **Sceglite pochi ritratti.** Cinque belli ritratti sò megliu chè una scatula sana. E stampe grande è chjare vanu megliu.
+3. **Nominate e persone voi stessu.** « Eccu voi è Babbu u ghjornu di u vostru matrimoniu » toglie a pressione.
+4. **Cummentate i detagli.** Vestiti, vitture, cibu, tempu, facce. « Chì bella vittura. Pare cusì lucente. »
+5. **Invitate, ùn dumandate micca à forza.** « Parlàtemi di... » o « Chì nutate ? » U silenziu ùn hè micca un prublema.
+6. **Seguitate a so direzzione.** S'ella parla d'altra cosa, andate cun ella.
+7. **Fermate vi mentre hè piacevule.** Chjudite l'album prima ch'ella sia stanca.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Per idee pronte cù imaghjini, pruvate e [carte di cunversazione](/games/conversation-cards/). Per trasfurmà i vostri ritratti di famiglia in un ghjocu di coppie dolce, pruvate [coppie di ritratti](/games/photo-pairs/) ; i ritratti chì sceglite restanu in u vostru navigatore.
 
-## How do you make a memory box?
+## Cumu fà una scatula di ricordi ?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Una scatula di ricordi hè un contenitore cù ogetti di a vita di a persona, da tene in manu è di i quali parlà.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Sceglite una scatula solida** è faciule à apre, cum'è una scatula di scarpi, una scatula à cappellu o un picculu forzieru di legnu.
+2. **Sceglite un tema o un mischiu.** U travagliu, un passatempu, un locu, un decenniu, o un pocu di tuttu.
+3. **Raccoglite ogetti sicuri.** Cinque à dece ogetti bastanu per principià.
+4. **Aduprate copie per e cose preziose.** Fate copie di i ritratti è di i ducumenti chì ùn si ponu rimpiazzà, è tenite l'urighinali in sicuru.
+5. **Tirate fora un ogettu à a volta.** Dàtelu, dite qualcosa annantu à ellu, è fighjate induve a cunversazione vi porta.
 
-Ideas to include:
+Idee da mette dentru :
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Travagliu :** un badge cù u nome, un picculu strumentu, un pezzu d'uniforme, un registru, una spilla d'infermiera, un libru di ricette d'un risturante.
+- **Casa :** una ricetta scritta da ella, un pannu di cucina, una sciarpa o una cravatta preferita.
+- **Passatempi :** un esca di pesca senza ganciu, una palla di baseball, una palla di lana, una bustina di sementi.
+- **Lochi :** cartuline, carte geografiche, un suveniru di viaghju, un ritagliu di ghjurnale di u paese d'origine.
+- **Famiglia :** copie di ritratti, un disegnu di zitellu, un invitu à un matrimoniu.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Lasciate fora l'ogetti taglienti, e cose piccule chì si puderianu ingolle, è tuttu ciò chì puderia purtà ricordi dulorosi, fora di s'è vo site sicuru ch'ella li vole vede.
 
-## How do you make a life-story book?
+## Cumu fà un libru di vita ?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Un libru di vita hè un album simplice cù ritratti è corte didascalie nantu à a vita di a persona. Hè qualcosa da fighjà inseme, è aiuta i visitori è u persunale di cura à vede a persona sana.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Sceglite un furmatu.** Un raccoglitore cù bustine trasparenti, un libru di ritratti stampatu, o una presentazione nantu à una tavuletta.
+2. **Prevedite qualchì sezzione.** Infanzia, scola, travagliu, famiglia, lochi induve hà campatu, fede, passatempi, cibi è musica preferiti.
+3. **Mettite unu o dui ritratti per pagina** cù una didascalia corta è in caratteri grandi : « Maria, 22 anni, u so primu ghjornu à a banca. »
+4. **Aghjunghjite ciò ch'ella li piace è e so abitudine.** « Beie u caffè cù u latte. Li piace u cantu di dumenica. Ùn li piace a televisione troppu forte. » Què pò aiutà e persone chì s'occupanu d'ella.
+5. **Implicate a persona** quant'ella vole : sceglie i ritratti, conta storie o fighjà solu u libru piglià forma.
+6. **Cuntinuate à aghjunghje.** Ùn hà micca bisognu d'esse finitu per esse utile.
 
-## More reminiscence ideas
+## Altre idee di rimembranza
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Mettite a musica di a so ghjuventù** è parlate di induve a porta. Fighjate l'[attività cù a musica](/activities/music/).
+- **Fighjate filmi di famiglia o prugrammi di televisione** di i decennii ch'ella preferisce.
+- **Cucinate un piattu di a so infanzia** è lasciate chì l'odori aprinu a cunversazione.
+- **Fighjate una carta** di u so paese d'origine è seguitate e strade ch'ella cunnosce.
+- **Fighjate vechji cataloghi o riviste** è parlate di prezzi, mode è vitture.
+- **Arregistrate e so storie** nantu à un telefunu, cù u so accunsentu, per a famiglia.
+- **Spartite durante e chjamate.** Mustrate un ritrattu durante una videochjamata ; fighjate [telefunate è videochjamate](/activities/phone-and-video-calls/).
+- **Purtate un ritrattu o un ogettu quandu andate in visita.** Dà à a visita un puntu simplice nantu à u quale cuncentrà si ; fighjate [visite](/activities/visiting/).
 
-## What if a memory is painful?
+## È s'è un ricordu hè dulorosu ?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Certi ricordi portanu dulore, dispiaceri o paura. S'è a persona si turba, firmate vi, cunsulàtela è cambiate pianu pianu sughjettu o attività. Ùn discutite micca di ciò chì hè accadutu. A Family Caregiver Alliance cunsiglia di ùn pruvà micca à cunvince una persona ch'ella hà tortu è prupone di risponde à i sentimenti ch'ella mostra, chì sò veri. S'ella parla d'una persona morta cum'è s'ella fussi viva, rispundite à u sintimu : « Vi manca assai. Parlàtemi ne. »
 
-## What does the research say?
+## Chì dice a ricerca ?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Una [rivista Cochrane nantu à a rimembranza](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), chì copre 22 studi è 1,972 persone, hà trovu chì l'effetti eranu incustanti, chjuchi è variavanu secondu u cuntestu è u furmatu. Ùn hà trovu nisuna prova di dannu per e persone chì campanu cù a dimenza. Prupunimu a rimembranza perchè pò aiutà à passà mumenti caldi è significativi inseme, micca cum'è un trattamentu. Per sapè ne di più nantu à a cunversazione faciule, fighjate i [cunsiglii di cumunicazione](/caregiving/communication-tips/).

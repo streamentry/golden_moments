@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Dumalalo i Taotao ni Demensia gi Memory Care pat Ospital"
+seoTitle: "Dumalalo i Taotao ni Demensia: Hafa Debi Hit Un Chule"
+description: "Hafa debi di u fa'tinas kuando dumalalo i taotao ni demensia gi memory care, nursing home pat ospital: hafa debi di u chule, mamaila'na na aktibidat, mamaila'na na dumalalo yan mamalågo ya un chule."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Kuando dumalalo hao i taotao ni demensia gi memory care pat ospital, pologo
+  mama'lu: ninnana'an-hao kuando manaina, chule sumaosiao put i litråtu, musika
+  pat i ma'gustu na snack, yan fa'tinas mamaila'na na guaha yan. I mamaila'na,
+  mas påtte na dumalalo siha, siha mas ma'alok kesi i dinanko na dumalalo.
+  Fa'tinas mamaila'na na despidida ni kalma yan mangga, para i mamaila'na ya
+  ti mås dipisil ni para hamyo.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Gusto i taotao yan i nana'an-mu, yan sengsong hao hayi hao, ni para ti siha debi di u tiempo para u fa'tinas: 'Hafa Adai Nana, si Susan yu', i palao'an-mu.'"
+  - "Chule unu pat dos na kosas para mamaisi, taiguini: album ni litråtu, musika ni ma'gustu, un kumot ni ma'nåkkao, pat un snack ni i staff ma'aprueba."
+  - "Mamaila'na na dumalalo, na påtte pat regular, siha mas ma'alok kesi i dinanko yan mas malaguan. I presensiå-mu mas importånte kesi i ma'gaigi-mu."
+  - "Gi ospital, na'i i staff un papél ni guaha i impotmasion put i taotao, yan ågang i doktot kumu mas ligåo kuando guaha minagof na kanmamåna na changes."
+  - "Plana i salida-mu: sångan hafa tiempo hao ma'gaigi, månu i ma'mismo na despidida kada biahe, yan tumalo ti gi kalulu."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Hafa debi di u chule kuando dumalalo i taotao ni demensia?"
+    a: "Chule un kosas ni para mamaisi ya ti kosas ni para hamyo ha'na. Un album ni litråtu ki'ko', un playlist ni kanta ni ma'gustu, un kumot ni ma'nåkkao, lotion para i ga'lamo, un magasin put un antigu na hobby, pat un snack ni i staff ma'aprueba, todu esta ma'å'annok. Gi care home, litråtu ni familia yan kosas ni ma'kontråt siha sina ma'cho'gue i kuatto kumu guåho."
+  - q: "Taiguini malago' dumalalo i taotao ni demensia?"
+    a: "Ti guaha tiempo ni mana'lotmi. Ma'nå'an na familia siha na mas ma'alok i påtte na dumalalo, mas malaguan, kumu i taotao sina ma'kkanno mamaila'na, yan ti sina ha dinanko i ma'gaigi-mu. Bconfigura i sinåftan ni ma'kkanno kansåncio, yan tumalo mientras i dumalalo gof ma'gustu."
+  - q: "Hafa debi di u sangan kuando mamaisi na ha'lo' na ha'lo' u fanhålum?"
+    a: "Responde i sentimiento, ti i pininagu. 'Hu malago' u fanhålum' siempre sumusungun 'Ti ma'komfot pat ti sigura yu'.' Sangan, 'Sanguan yu' put i guåhan-mu,' ta'lo litråtu, pat ofresi un lakad pat un snack. Ma'alok na mambisaya pat ma'eksplika taiguini ti sina hao lumalåkka ha'ani manhåhalom na distres."
+  - q: "Kuando ti ha konosi yu'?"
+    a: "Ma'kkanno måtto, lao tumalo na ti u chågo pat sumangan 'Ti un konosi yu'?' Hafa Adai ni kalidad yan gof simple, yan gosa i tiempo hamyo. Ma'å'annok na taotao siha todavia ma'gosa i kumpania yan ma'siente i kalan-ginen i dumalalo, mientras ti ha konosi hayi ha'na hao."
+  - q: "Hafa debi di u fa'tinas para ayudå gi tiempo ni ospital?"
+    a: "Ma'gaigi yan i taotao kuando sina, ayuda manhånao yan manhånom, yan chule i kosas ni familiat kumu i litråtu. Na'i i staff un papél ni guaha i rutinan-ña, i nombre ni ma'gusto, i ma'gustu yan i ti ma'gustu, yan i sinåftan dinanko. Ågang i doktot ligåo kuando i taotao parehu mas malaguan pat diferente, pues i minagof na konfusion sina ha sigimiento un problema medikat."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Dumalalo hao i guinåhan-mu gi memory care, nursing home pat ospital, kulang gi måtto na sentimiento. Siempre mana'lo' hao put hafa debi di u sangan, hafa debi di u chule, pat taiguini i dumalalo mantienen importancia kuando ti sina ha rekuerda. Importånte kesi. I National Institute on Aging ha sangan na i taotao ni Alzheimer's [ma'gosa i kumpania](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bulålo kao ti sina ha konosi i dumalalo. Este na pahina ha na'i pasu praktikat para antes, gi tiempo yan despues di un dumalalo, yan espesiåt na tips para i tiempo ni ospital.
 
-## How do I get ready for a visit?
+## Kumu hu fa'tinas para un dumalalo?
 
-A little planning makes the visit easier for both of you.
+Un pokke na plånu ha fa'fanmamaila'na i dumalalo para hamyo todu.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Chule un maolek na tiempo.** Dementia Australia ha sangan dumalalo kuando i taotao gof ma'alerta, ya para ma'nå'an na taotao, ya mañaina pat alas dies. I Family Caregiver Alliance ha sangan na'huma'lag i iskedulan i facility yan dumalalo gi [tiempo libre ti gi tiempo aktibidat](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Hatsa i staff.** Pregunta kumu i taotao gi åsaga, yan kenloko' i areklamento put fagi'ina, animåt, pat lakad.
+- **Ha'tsåni un kiheru na bag para dumalalo.** Un pat dos na kosas para mamaisi kulang na (ågang i lista gi baba).
+- **Plana sumåga' na tema.** Puede ti guaha i taotao i nuebu na sinangan, entonses chule i pinakamamåsi-mu: nuebu familia, tiempo, un partidu, un chiste.
+- **Plana i ekspektasion-mu.** Sigun na dumalalo guaha mamaisi yan chinchinik, ya guaha ti ma'chåtli pat mabibida. Ha'ani siha normåt.
 
-## What should I bring?
+## Hafa debi di u chule?
 
-Bring things to share, not things that test. Good choices include:
+Chule kosas ni para mamaisi, ti kosas ni para umotmot. Maolek siha na kosas:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Un album ni litråtu ki'ko'** yan dangkolo, klåru na litråtu. Ålok i lenguahen para i staff.
+- **Un playlist** ni kanta ni ma'gustu gi telefon, yan simple na headphones pat un ki'ko' na speaker.
+- **Un kosas ni ma'nåkkao para hålum,** kumu un kumot, bufanda pat sweater ni familiat.
+- **Lotion para i ga'lamo,** para un nåkkao na masahe, kuando ma'gusto i taotao i tumutuka.
+- **Un magasin pat libron litråtu** put un antigu na interes, kumu agrikutura, kottche, pajaru pat kusina.
+- **Un ma'gustu na snack,** kuando sinangan i staff ti sigura.
+- **Kosas familiat para i kuatto.** I Family Caregiver Alliance ha sangan flores, tanom, litråtu familia yan artes, pat un dangkolo na poster ni litråtu familia gi pasao.
+- **Un tablet,** para ta'lo litråtu familia pat ta'lo un ma'nåkkao na hagu.
 
-## What can we do together during a visit?
+## Hafa siña ta fa'tinas hamyo gi tiempo ni dumalalo?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Fa'tinas hamyo kosas hamyo para ti todu gi konbetsasion. Dementia Australia ha sangan ta'lo litråtu, un simple na craft, tanom na sumåga', musika, komparti un snack, pat un lakad gi tånom. Mås ideas:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Ta'lo litråtu.** Sångan hafa un nina'siente-mu: "Hayi ha'ani na sombrero!" "Ha'ani na palaya ma'nåkkao!" Dingu i taotao i manlidder. Ti pumregunta "Hayi este?"
+2. **Ta'lo musika yan kanta.** Kanta ni familiat siña na ma'nåkkao i animu yan mapåsa un ma'komparti na momento, ta'si ti puede ta'chatlo.
+3. **Ta'lakad mamaila'na.** I Family Caregiver Alliance ha sangan lakad gi tånom i facility, ilek gi garden kuando guaha. Un lakad gi silla de ruedas kuenta.
+4. **Un masahe gi lima.** Un pokkelu lotion yan dinanko na mangga na hagon gi lima siña na mamatuhu.
+5. **Ayuda gi aseo.** Dementia Australia ha sangan na sisihon i buok, pinta i ufa, pat ayuda i taotao para ha'chatlo un ma'gustu na uyas, kuando ma'gusto.
+6. **Ta'lo un simple na ga'me.** I Family Caregiver Alliance ha sangan karetan, domino, pat todo kosas ni ma'gosa i taotao. Gi tablet, [Picture Pairs](/games/picture-pairs/) siña ma'chuli ya ma'gosa ni litråtu ma'hatsa visible yan ti guaha timer. [Photo Pairs](/games/photo-pairs/) ha tulaika i litråtu ni hao ha pili kumu un ga'me ni pareha, yan i litråtu gi browser-mu.
+7. **Ma'chåtli un palåsyo hamyo.** I Family Caregiver Alliance ha sangan kumedia yan antigu na pelikula. Sigun na ti sina ha sigi i kuenton, sumåga ya ta'lo i tiempo hamyo.
+8. **Ta'lo alto.** Un kottu na poema, un siñålon ni ma'gustu, pat un karta put familia.
+9. **Sumåga hamyo.** Ma'gaigi lima pat ma'gaigi kalladu sina un tunas na dumalalo. I Alzheimer's Association ha sangan na maolek na ti ha sabi hao hafa para sumångan, yan i presensiå-mu i pinakamåsi importånte.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) siña ayuda kuando nasåsaga hao put sinangan. Kada karta guaha un litråtu yan un pregunta ni ti kuntesta.
 
-## How should I talk during the visit?
+## Kumu debi di u sumångan gi tiempo ni dumalalo?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Na'i hafa hao, sumangan ni kada biahe.** "Hafa Adai Tata, si Mark yu', i lahi-mu." I NIA ha sangan na i dumalalo debi di u ha na'i anåkku i nanå'an-ñiha para u tutuhon i sumåga.
+- **Tuhon gi unuk na lugat** yan sumåsångan gi mismo nivel i mata.
+- **Ti ta'chågo pat ti chumuchule.** I NIA ha sangan na i dumalalo debi di ti ta'chågo i taotao kuando sumåsaga pat ti sina ha rekuerda.
+- **Ma'pasensia** kuando dikike i sinangan. Na'i bastånte tiempo.
+- **Responde i sentimiento.** Kuando i taotao parehu mamamåsi pat ma'nanå'e, rekoknisi i sentimiento åntes di ta'chånge i tema.
+- **Ti ta'lo i pregunta siha kumu "Ta rekoknisi yu'?" pat "Hafa un kumi-mu gi almuetsu?"**
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Sangan i [tips put komunikasion](/caregiving/communication-tips/) para måtto.
 
-## What do I do when they say "I want to go home"?
+## Hafa debi di u fa'tinas kuando sangan "Malago' yu' u fanhålum"?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Responde i sentimiento ni guaha gi mangkuenta i sinangan (ma'gosa i guia-mu put [kuando i taotao ma'sigi ma'pregunta put u fanhålum](/caregiving/asking-to-go-home/) para mås). I Family Caregiver Alliance ha eksplika na "Malago' yu' u fanhålum" normålmente sina mangkuenta "Ti ma'komfot yu'," yan ha sugiere respuestas kumu "Sangan yu' put i guåhan-mu" pat "Hafa i pinakamaolek na kosas gi guåhan-mu?" Dementia Australia ha uyon na "guåhan" siña na mangsangan un tiempo pat lugat ni i taotao ma'sisi, kumu i mamaisi.
 
-Try:
+Eståba:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- rekoknisi i sentimiento: "Parehu ha'lom håfa gi guåhan-mu."
+- ofresi kumprendi ni tumutuka, kuando maolek
+- ta'lo litråtu pat sumångan put i guåhan familia
+- ofresi un lakad, un inu pat un snack
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Ti debi di u ta'chågo pat ta'eksplika taiguini ti sina lumalåkka. Ti ha ayuda kasi siempre yan kasi ha agrega distres.
 
-## How long should a visit be?
+## Kuånto tiempo debi di u sigi i dumalalo?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Mas påtte yan mas frekuente kasi mas maolek. I Family Caregiver Alliance ha sangan na i taotao normålmente ti ha rekuerda kuånto minutos hao sumångga pat kuånto oras, yan ha sugiere na tres påtte na dumalalo gi simåna siña na mas maolek kesi un nina'lågo. Dementia Australia ha sangan na ti guaha tinaigi na numero ni para dumalalo pat tinaigi na kuånto tiempo.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Gi primeru siha na semånan despues di un muda para memory care, i Family Caregiver Alliance ha sugiere dumalalo frekuente, despues dinanko ha'ilek un regular na pattern. Pregunta i staff kumu sina ma'chatli.
 
-## How do I leave without upsetting them?
+## Kumu hu salidi sin ma'chaddek?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+I salida kasi i pinakamåtto na parte. Dementia Australia ha sugiere:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Sangan kuånto tiempo sina hao ma'gaigi kuando manaina.** "Sina yu' ma'gaigi un oras, despues hu tutuhon hu fana'gåsi."
+- **Usa un aktibidat kumu natural na fin.** "Kuando ma'acaba esta na kanta, hu tatalo."
+- **Ayuda i momento ni un manhånom pat aktibidat,** pat pidi i staff ayuda i taotao para ha'chatlo otro aktibidat.
+- **Mamaila'na yan ma'mismo na despidida kada biahe.** I lågo pat i disculpa pat "un poco mås" sina ha ayuda ti maolek para i sigiente na despidida.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Despues di salida, normåt na ma'siente hao tristi. Tumalo yan hao tumunga. Kuando i taotao ma'chaddek, i staff kasi siempre siña ayuda gi mamaisi dinanko.
 
-## Visiting someone with dementia in the hospital
+## Dumalalo i taotao ni demensia gi ospital
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+I ospital guaha gualo, ti familiat, yan guaha mafaloksi na taotao, ya siña na mås måtto para i taotao ni demensia. I gia ni NIA put [ma'chule i taotao ni Alzheimer's para ospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ha rekomenda:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Guaha ma'gaigi i taotao** mås kuando sina: un miembron familia, un manåmko' na taotao pat un nina'siente na kuidadot.
+- **Na'i i staff un papél ni impotmasion** put i rutinan i taotao, i nombre ni ma'gusto, i ma'gustu yan i ti ma'gustu, i posibleng kosas ni sina ma'chagan, yan i sinåftan dinanko ni ti ma'sångan. Na'i kopia gi kuatto yan gi nurses' station.
+- **Ayuda gi manhånao yan manhånom.** I manggaigi di mås edåt sina ma'nakanno nutrisiona gi ospital. Ma'abre i kontenedot, ayuda gi tiempo ni chimas, manhånao hamyo, yan ofresi inu.
+- **Chule kosas ni para mamaisi,** kumu litråtu pat kosas ispirituåt.
+- **Ma'baha i ruido.** Ma'apaga i TV yan ma'baha i volumen i telepono yan i intercom.
+- **Tumuttuka kalma na rituåt,** kumu musika ni ma'kalma, lektura, manalangin, kanta pat ta'lo litråtu antigu.
+- **Anima i mamaila'na na mobimiento** ya sigun na sigura, kon aprubasion i staff.
+- **Ågang i doktot ligåo kuando i taotao parehu mas malaguan pat diferente.** I NIA ha eksplika na i minagof na konfusion, ni ma'nåmmat na delirium, sina ha sigi di problema kumu impeksion, lalåkon, dehidrasion pat efekto i medisina yan debi di u tratamientu medikat.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Un kottu, kalma na dumalalo yan un faisen familiat yan un ma'gustu na kanta sina i pinakamalago' na parte ni un kuåtto na ospital.
 
-## Bringing children on a visit
+## Ma'chule i chiquitos gi dumalalo
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+I chiquitos siña na mana'chule hålom na ma'ayuda. Prepåra sigun ni simple yan onesto na sinangan, mantiene i dumalalo kottu, yan na'i sinen un trabajo, kumu ma'sosoda un dibuhu pat ma'na'i un litråtu. I NIA ha sugiere na i chiquitos yan i taotao ni Alzheimer's siña ma'gosa simple na aktibidat hamyo, kumu ta'lo album ni litråtu pat ma'nakkilan musika. Dementia Australia ha sugiere ma'chule un kiheru na bag ni dulse pat kosas kalma para mantiene i ti dikike na chiquitos ocupådu.
 
-## Take care of yourself too
+## Kuida hao sumåga
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Dumalalo siña na ma'fa'gåhet yan ma'sinenti, espesiålmente kuando ma'kanno i taotao. Mafaloksi na dumalalo mas raro kuando nisisita, mantiene un amigu para sumåga hao, pat fanhålum tempranu gi mafagu na åsaga. Para ideas put kuidao i kuerpo-mu, sangan i [caregiver self-care](/caregiving/caregiver-self-care/). Kuando guaha hao lugat, sangan i guia-mu put [telefono yan video calls](/activities/phone-and-video-calls/).

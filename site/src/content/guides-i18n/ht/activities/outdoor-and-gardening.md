@@ -1,32 +1,32 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Aktivite deyò ak jadinaj pou moun k ap viv ak demans"
+seoTitle: "Jadinaj ak aktivite deyò pou demans"
+description: "Lide jadinaj ak aktivite deyò pou moun k ap viv ak demans, ak kabann wo, jaden nan po, ak konsèy sekirite pou chalè, solèy ak mache san kote."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Jadinaj ak tan pase deyò ka vin yon aktivite kalm epi abityèl pou yon moun
+  k ap viv ak demans. Ou ka eseye wouze plant, plante ti zèb nan po, retire
+  flè ki fennen, oswa fè yon ti mache nan yon lakou ki fèmen. Sèvi ak kabann
+  wo oswa yon tab pou pèsonn pa bezwen mete ajenou, evite zouti ki file ak
+  plant ki toksik, soti lè tanperati a pi fre, epi rete toujou ak moun nan.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Ti travay senp nan jaden tankou wouze, plante grenn, pran sant zèb ak keyi flè ka fèt kanpe oswa chita."
+  - "Kabann wo, po ak yon tab ki kouvri pote jaden an nan wotè ren, sa ki ka diminye risk pou tonbe."
+  - "Evite zouti ki file, plant ki gen pikan oswa ki ka irite, ak tout sa ki pwazon. Veye pou moun nan pa pran tè pou manje."
+  - "Chalè ka danjere pou granmoun aje. Soti bonè oswa pita, pote dlo ak lonbraj, epi antre lakay imedyatman si ou wè premye siy malèz."
+  - "Anpil moun k ap viv ak demans ka mache san kote nan yon moman. Rete ak moun nan lè nou deyò, epi kenbe yon foto resan ak yon pyès idantite toupre."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Ki aktivite jadinaj yon moun ki gen demans ka fè?"
+    a: "Wouze plant, plante grenn nan ti po, pran sant epi manyen zèb, retire flè ki fennen, keyi legim, ranje flè koupe ak bale yon chemen se bon chwa. Andedan kay la, yon ti po zèb sou rebò fenèt oswa yon plato tè sou yon tab ki kouvri ka mache byen. Chwazi travay la selon sa moun nan te renmen fè anvan ak sa li ka fè alèz kounye a."
+  - q: "Kijan pou m kenbe yon moun ki gen demans an sekirite lè fè cho?"
+    a: "Planifye tan deyò pou bonè nan maten oswa nan aswè lè li pi fre, kenbe l kout, epi ofri dlo souvan. Chwazi lonbraj, yon chapo ki gen gwo rebò, rad lejè ki pa sere ak krèm solèy. Granmoun aje gen plis risk pou maladi ki lye ak chalè, epi konfizyon, tèt vire oswa kè plen ka siy avètisman. Antre lakay epi refwadi kò a touswit si ou remake sa."
+  - q: "Kijan nou ka soti deyò si moun nan gen tandans mache san kote?"
+    a: "Rete ak moun nan tout tan an, sèvi ak yon lakou oswa jaden ki fèmen ak yon pòtay ki fèmen byen, epi asire w moun nan mete yon braslè idantite oswa pote yon pyès idantite. Kenbe yon foto resan toupre. Si moun nan disparèt, Alzheimer's Association konseye rele 114 si yo pa jwenn li nan 15 minit."
+  - q: "E si nou pa gen yon jaden?"
+    a: "Kèk po sou yon galri, yon bwat fenèt, oswa yon plato zèb sou tab kwizin nan ase. Ou ka vizite tou yon pak, yon jaden piblik oswa yon jaden kominotè. Chita deyò epi tande zwazo chante konte kòm yon aktivite deyò tou."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +51,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Pou anpil moun, jaden an se youn nan kote ki pi abityèl pou yo. Fouye, wouze ak keyi flè sèvi ak ladrès yo te aprann depi lontan, epi lè yo deyò yo jwenn lè fre, limyè solèy ak chante zwazo. National Institute on Aging mete pran swen plant, plante flè ak legim, epi [pale sou fason plant yo ap grandi](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pami aktivite moun ki gen maladi alzaymè ka renmen. Paj sa a pale sou sa ou ka eseye, kijan pou fè yon jaden pi fasil pou itilize, ak kijan pou rete an sekirite ak chalè, solèy ak mache san kote.
 
-## What outdoor and gardening activities work well?
+## Ki aktivite deyò ak jadinaj ki mache byen?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Pi bon travay yo se sa ki senp, abityèl, epi ki ka fèt kanpe oswa chita. Chwazi selon sa moun nan te konn renmen.
 
-### In the garden
+### Nan jaden an
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Wouze.** Yon ti awozwa ki lejè oswa yon bouch kawotchou ki dous ak kèk po ki fasil pou rive. Wouze gen yon kòmansman ak yon fen klè, epi li difisil pou fè l mal.
+2. **Plante grenn nan po.** Alzheimer's Foundation of America sijere plante grenn nan ti po epi [gade yo grandi](https://alzfdn.org/dementia-activity-gardening/). Gwo grenn tankou pwa, tounsòl oswa ti pwa pi fasil pou kenbe.
+3. **Retire flè ki fennen.** Rale ti flè ki fennen ak men se yon travay dous ki repete. Chwazi plant ki pa gen pikan.
+4. **Keyi legim oswa zèb.** Ti tomat, pwa ak zèb fasil pou keyi epi yo bon pou goute. Pote yo anndan pou sèvi ak yo nan manje midi.
+5. **Pran sant epi manyen zèb.** Romaren, mant ak lavand gen sant fò ki agreyab. Fwote yon fèy ant dwèt ou epi pase l pou moun nan pran sant lan.
+6. **Bale yon chemen oswa yon teras.** Yon balej ki lejè sou yon sifas plat ak sèk, si moun nan kanpe byen.
+7. **Ranpli yon manje pou zwazo.** Apre sa, chita ansanm epi gade ki zwazo ki vin vizite.
 
-### Indoors, when going out is not possible
+### Andedan kay la, lè nou pa ka soti
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Yon ti jaden zèb sou rebò fenèt** ak bazilik, pèsi oswa siv.
+- **Plante nan po sou yon tab ki kouvri.** AFA sijere sèvi ak plato ki sanble ak sa yo itilize nan kafeterya pou kenbe tè a nan yon sèl kote, epi sèvi ak ti gode pou deplase tè a.
+- **Ranje flè koupe** ak flè ak fèy vèt ki soti nan lakou a oswa nan yon makèt.
+- **Flè prese** ki soti nan yon bouke, pou kole sou kat pita. Gade [atizana ak aktivite kreyatif](/activities/arts-and-crafts/) pou plis lide.
+- **Fè ti sache lavand oswa roz**, yon lòt lide AFA ki pote sant jaden an anndan kay la.
 
-### Getting out and about
+### Soti epi fè yon ti vwayaj
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Yon ti mache** nan katye a, nan yon pak oswa nan yon sant jaden, nan yon vitès dous ak yon kote pou chita.
+- **Chita deyò** sou yon galri oswa yon ban pou tande zwazo epi santi briz la. Sa se yon aktivite konplè poukont li.
+- **Vizite yon jaden piblik** nan yon lè ki pi trankil nan jounen an. NHS fè remake kèk kote gen jaden sansoryèl ak plant ki gen sant, diferan teksti ak dlo.
+- **Bay kanna manje oswa gade zwazo** bò yon letan lokal, pandan nou rete lwen rebò dlo a.
 
-## How do I make a garden easier to use?
+## Kijan pou m fè yon jaden pi fasil pou itilize?
 
-Bring the garden up to the person, not the other way around.
+Pote jaden an vin pi pre moun nan, pa fòse moun nan ale jwenn jaden an.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Kabann wo oswa gwo plantè** nan wotè ren fè moun nan pa bezwen mete ajenou oswa bese twòp.
+- **Po sou yon tab** mache byen pou moun ki sèvi ak chèz woulant oswa ki pito chita.
+- **Chemen laj ak plat** san wòch ki lach oswa kawotchou ki kouche sou yo ka diminye risk pou moun nan bite.
+- **Chèz ki gen bra ak lonbraj** sou wout la, pou repoze toujou yon opsyon.
+- **Zouti ki gen manch epè ak mou** ki fasil pou kenbe. Pa sèvi ak sizo pou taye branch, kouto oswa nenpòt zouti ki file.
+- **Yon espas ki fèmen ak yon pòtay ki fèmen byen** kote moun nan ka eksplore lib pandan ou rete toupre.
 
-## Which plants should I avoid?
+## Ki plant mwen ta dwe evite?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Chwazi plant ki pa danjere pou manyen, epi si posib, ki pa danjere si yo goute yo. AFA konseye sèvi ak plant ki pa irite po souvan, verifye si gen alèji, epi veye byen nenpòt moun ki ta ka pran tè pou manje. Konsèy sekirite lakay NIA a gen ladan retire oswa fèmen plant pwazon byen lwen.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Evite roz ki gen pikan, kaktis, ak plant ki gen sèv ki ka irite po.
+- Verifye nenpòt plant ou pa sèten sou li ak yon sant kontwòl pwazon oswa yon sant jaden lokal anvan ou plante li.
+- Plant abityèl moun nan te renmen ka pote bon santiman. AFA site roz ak kaktis Nwèl kòm egzanp. Chwazi varyete ki pa gen pikan.
+- Kenbe angrè, pestisid ak pwodui pou raje fèmen byen lwen, epi pa sèvi ak yo nan kote moun nan ka rive.
 
-## How do I stay safe in the heat and sun?
+## Kijan pou m rete an sekirite ak chalè ak solèy?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Planifye tan deyò dapre move tan an. NIA eksplike granmoun aje gen plis risk pou [maladi ki lye ak chalè](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), an pati paske kò a adapte mwens byen ak chanjman tanperati epi kèk medikaman afekte fason kò a jere chalè.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Soti bonè oswa pita.** Evite mitan jounen an nan mwa ki cho. Gade endis chalè a, pa sèlman tanperati a.
+- **Ofri dlo souvan.** Pa tann moun nan di li swaf. Evite alkòl ak bwason ki gen kafeyin lè fè cho.
+- **Abiye kòmsadwa.** Rad ki gen koulè klè, ki lejè, ki pa sere, yon chapo ki gen gwo rebò ak linèt solèy.
+- **Sèvi ak krèm solèy.** NIA rekòmande krèm solèy ki pwoteje kont plizyè kalite reyon, ak SPF 15 oswa plis, epi mete l ankò pandan jounen an.
+- **Chwazi lonbraj.** Mete tab pou plante a anba yon pye bwa oswa yon parapli.
+- **Kenbe l kout.** Yon ti tan kout deyò ka ase, sitou lè jou a cho.
+- **Veye siy avètisman.** NIA site maltèt, konfizyon, tèt vire oswa kè plen kòm siy posib maladi ki lye ak chalè. Yon moun k ap viv ak demans ka pa di ou li pa santi l byen, kidonk gade figi l ak konpòtman li. Antre lakay, refwadi kò a ak dlo ak yon twal fre, epi chèche èd medikal si moun nan pa vin pi byen byen vit. Koudchalè, ak siy tankou endispoze, konfizyon, oswa po sèk ak wouj, se yon ijans medikal: rele 114.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Tanperati frèt enpòtan tou. Nan sezon fredi, kenbe tan deyò a kout epi asire men ak pye moun nan rete cho ak sèk.
 
-## How do I handle wandering when we go outside?
+## Kijan pou m jere mache san kote lè nou soti deyò?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Rete ak moun nan chak fwa li deyò. Alzheimer's Association di [6 sou 10 moun k ap viv ak demans](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ap mache san kote omwen yon fwa, epi anpil fè sa plis pase yon fwa. Sa ka rive nan nenpòt etap.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+[Konsèy NIA pou mache san kote ak pèdi wout](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) gen ladan:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Asire w moun nan mete yon braslè idantite oswa braslè medikal ak non li, adrès li ak nimewo telefòn ou, oswa mete etikèt sou rad li.
+- Kenbe yon foto oswa videyo resan moun nan.
+- Fè vwazen yo konnen moun nan ka mache san kote.
+- Sekirize lakou a ak yon kloti ak yon pòtay ki fèmen ak kle.
+- Pa kite yon moun ki deja gen abitid mache san kote poukont li.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association sijere tou kreye espas andedan ak deyò moun nan ka eksplore san danje, epi planifye aktivite pou lè nan jounen an kote ajitasyon gen plis chans rive. Yon ti mache nan yon jaden ki an sekirite epi ki fèmen ka bon pou ajitasyon nan fen jounen an. Gade gid nou an sou [ajitasyon nan fen jounen an](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Si moun nan disparèt, Alzheimer's Association konseye fouye zòn ki toupre a touswit epi rele 114 si yo pa jwenn li nan 15 minit. Di lapolis moun nan gen demans.
 
-## How do I adapt gardening as things change?
+## Kijan pou m adapte jadinaj lè bagay yo chanje?
 
-| If this has become hard | Try this instead |
+| Si sa vin difisil | Eseye sa pito |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Plante tout yon kabann | Plante yon grenn nan yon po |
+| Rache move zèb (distenge move zèb ak plant) | Wouze, oswa retire flè ki fennen ki fasil pou wè |
+| Mache toutotou nan jaden an | Chita bò yon tab ak yon plato tè ak yon plant |
+| Soti deyò nèt | Yon po zèb sou tab kwizin nan, oswa yon chèz bò yon fenèt ki louvri |
+| Fè nenpòt travay | Chita deyò ansanm, tande epi gade |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Gen kèk moun ki pito gade ou travay. NIA fè remake li pa gen pwoblèm pou kite moun nan gade sèlman si se sa li renmen.
 
-## When should we head inside?
+## Kilè nou ta dwe antre lakay?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Antre lè moun nan sanble fatige, cho, frèt, pa alèz oswa pare pou fini. Dis minit kout ki agreyab pi bon pase yon apremidi long ki fini ak malèz. Sispann bonè se yon bon rezilta.
 
-## Bring the garden indoors on screen
+## Pote jaden an anndan sou ekran
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Lè lapli ap tonbe, [Sort Together](/games/sort-together/) gen yon panye jaden pou klase foto, epi [Conversation Cards](/games/conversation-cards/) gen kesyon ouvè ki ka mennen nan istwa sou jaden. Si nou rantre soti nan chalè a epi nou santi nou prese, [Calm Breathing](/games/calm-breathing/) ofri yon ti poz dous ak trankil nou ka pataje. Pou plis lide ki baze sou manyen, sant ak son, gade gid nou an sou [aktivite sansoryèl](/activities/sensory/).

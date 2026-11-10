@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Teitei kei na Cakacaka e Taudaku"
+seoTitle: "Teitei kei na Cakacaka e Taudaku"
+description: "Vakasama ni teitei kei na cakacaka e taudaku vei ira era bula vata kei na mate ni vakanananu, kei na ivakasala ni taqomaki mai na katakata kei na lako tani."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Na teitei kei na gauna e taudaku e rawa ni dua na ka marau ka matau vei na
+  tamata e bula vata kei na mate ni vakanananu. Vakatovolea na suinivai, na
+  teivutukau ni kaukamea lalai, na kauta laivi na senikau sa mate, se na taubale
+  lekaleka ena lomanibai e bai tu. Vakayagataka na teitei cecere se na teveli me
+  kakua ni tekiduru e dua, levea na iyaya kaukaua kei na kau gaga, lako yani e
+  taudaku ena gauna batabata ni siga, ka tiko vata ga kei koya na tamata.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Na cakacaka rawarawa ni teitei me vaka na suinivai, teivutukau, reguca na kaukamea, kei na tomika na senikau e rawa ni caka ni tucake se dabe."
+  - "Na teitei cecere, na koniteina, kei na teveli e ubi e kauta cake na teitei ki na ivakatagedegede ni tolona ka vakalailaitaka na rerevaki ni bale."
+  - "Levea na iyaya kaukaua, na kau e vakalatilati se vakacudrui, kei na ka gaga. Raica me kakua ni nanumi na qele me kakana."
+  - "Na katakata e rawa ni rerevaki vei ira na qase. Lako yani ena mataka se yakavi, kauta na wai kei na ivakaruru, ka lesu i loma ni laurai e dua na ka e sega ni vinaka."
+  - "E vuqa na tamata era bula vata kei na mate ni vakanananu era dau lako tani ena so na gauna. Tiko vata ga kei koya e taudaku ka kauta e dua na itaba vou kei na ivakadinadina."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Na cakacaka ni teitei cava e rawa ni cakava e dua na tamata e bula vata kei na mate ni vakanananu?"
+    a: "Na suinivai, teivutukau ena koniteina lalai, reguca ka tarai na kaukamea, kauta laivi na senikau sa mate, tomika na kakana mai na teitei, tuvai vata na senikau sa tamusuki, kei na tavulica na sala, era veiganiti vinaka taucoko. E loma ni vale, e vinaka na koniteina ni kaukamea ena katubaleka ni matapailala se dua na tirei ni qele ena teveli e ubi. Digitaka na cakacaka me vaka na ka a dau taleitaka o koya e liu kei na ka e rawata vinaka ena gauna oqo."
+  - q: "Au na taqomaka vakacava e dua e mate ni vakanananu ena katakata?"
+    a: "Vakarautaka na gauna e taudaku ena mataka se yakavi ni siga e batabata, vakalekalekataka, ka solia wasoma na wai. Digitaka na ivakaruru, dua na isala e raba na uluna, isulu mamare ka luluqa, kei na wai ni taqomaki ni mata ni katakata. Na qase era rawa ni leqa vakalevu mai na katakata, ka na veilecayaki, na matabuto, se na dau via lua e rawa ni ivakatakilakila ni leqa, mani lesu totolo i loma ka vakabatabata."
+  - q: "Keitou na lako yani vakacava e taudaku kevaka e dau lako tani?"
+    a: "Tiko vata kei koya na tamata ena gauna taucoko, vakayagataka e dua na lomanibai se teitei e bai tu ka sogo vinaka na katuba, ka raica me daramaka e dua na ivau ni ivakadinadina se kauta na ivakadinadina. Maroroya e dua na itaba vou. Kevaka e yali na tamata, e vakatura na Alzheimer's Association me qiri na naba ni veivuke vakatotolo kevaka e sega ni kune ena loma ni 15 na miniti."
+  - q: "Vakacava kevaka e sega na noda teitei?"
+    a: "E rauta ga e vica na koniteina ena varada, e dua na kato ni matapailala, se dua na tirei ni kaukamea ena teveli ni valenisili. E rawa talega ni o sikova e dua na vanua ni gade, e dua na teitei raraba, se e dua na teitei ni itikotiko. Na dabe e taudaku ka rogoca na domo ni manumanu vuka e dua talega na cakacaka vinaka e taudaku."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Veika vuqa na tamata, na teitei e dua na vanua era dau kila vinaka. Na kelikeli, suinivai, kei na tomika na senikau era vakayagataka na kila a vulici taumada, ka na tiko e taudaku e kauta mai na cagi vou, na rarama ni matanisiga, kei na domo ni manumanu vuka. Na National Institute on Aging e vakaraitaka na qaravi ni kau, teivutukau ni senikau kei na kakana, kei na [veitalanoa me baleta na tubu ni kau](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) me vaka eso na ka era rawa ni taleitaka na tamata e tauvi Alzheimer. Na tabana oqo e vakamacalataka na ka mo tovolea, na sala mo vakamamadataka kina na teitei, kei na sala mo taqomaki kina mai na katakata, na rarama ni matanisiga, kei na lako tani.
 
-## What outdoor and gardening activities work well?
+## Na cakacaka cava e taudaku kei na teitei e vinaka?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Na cakacaka vinaka duadua era rawarawa, matau, ka rawa ni caka ni tucake se dabe. Digitaka me vaka na ka a dau taleitaka o koya na tamata.
 
-### In the garden
+### Ena teitei
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Suinivai.** E dua na bilo ni wai lailai ka mamada se dua na iyaya ni suinivai malumu kei na vica na koniteina voleka. Na suinivai e tiko kina na itekitekivu kei na itinitini matata, ka sega ni rawarawa me cala.
+2. **Teivutukau ena koniteina.** Na Alzheimer's Foundation of America e vakatura na teivutukau ena koniteina lalai ka [raica ni ra tubu](https://alzfdn.org/dementia-activity-gardening/). Na sore lelevu me vaka na pini, sanifula, se pi era rawarawa me tauri.
+3. **Kauta laivi na senikau sa mate.** Na kinikini vakamalua ni senikau sa malai e dua na cakacaka rawarawa ka toso tikoga. Digitaka na kau e sega ni vakalatilati.
+4. **Tomika na kakana se na kaukamea.** Na tomato lalai, pini, kei na kaukamea era rawarawa me tomi ka vinaka me kania. Kauti ira mai ki loma me vakayagataki ena kana e sigalevu.
+5. **Reguca ka tarai na kaukamea.** Na rosemari, mini, kei na lavenda e tiko na iboi vinaka ka kaukaua. Vakasigalevuya e dua na drauna ena nomu liga ka solia yani.
+6. **Tavulica na sala se na varada.** E dua na isasavu mamada ena dela ni vanua e tautauvata ka mamaca, kevaka e tudei vinaka na tucake.
+7. **Vakasinaita na vale ni manumanu vuka.** Oti qai dabe vata ka raica o cei e lako mai.
 
-### Indoors, when going out is not possible
+### E loma ni vale, kevaka e dredre na lako yani e taudaku
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **E dua na teitei ni kaukamea ena katubaleka ni matapailala** me vaka na beseli, paseli, se saivi.
+- **Teivutukau ena teveli e ubi.** Na AFA e vakatura na vakayagataki ni tirei me vaka na tirei ni valenisili me maroroi kina na qele ena dua ga na vanua kei na tosoi ni qele ena bilo lalai.
+- **Tuvai vata na senikau** e tamusuki kei na draunikau mai na teitei se mai na sitoa.
+- **Senikau tabe** mai na dua na ivau senikau, ka biuta ena kad ena dua na gauna. Raica na [cakacaka ni liga](/activities/arts-and-crafts/) me baleta eso tale na vakasama.
+- **Cakava na taga boi ni lavenda se rosi**, e dua tale na vakasama ni AFA e kauta mai na iboi ni teitei ki loma ni vale.
 
-### Getting out and about
+### Na lako tani
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **E dua na taubale lekaleka** wavoki ena tikina, ena vanua ni gade, se ena sitoa ni teitei, ena toso malua kei na vanua mo dabe kina.
+- **Dabe e taudaku** ena varada se dua na idabedabe mo rogoca na domo ni manumanu vuka ka vakila na cagi. Oqo e dua na cakacaka taucoko.
+- **Sikova e dua na teitei raraba** ena gauna e vakacegu kina na siga. Na NHS e kaya ni so na vanua era tiko na teitei ni vakilai e tiko kina na kaukamea e boivinaka, na veimataqali tara, kei na wai.
+- **Vakania na pato se raica na manumanu vuka** ena dua na tobu voleka, ka tiko ga vakayawa mai na bati ni wai.
 
-## How do I make a garden easier to use?
+## Au na cakava vakacava me rawarawa na teitei?
 
-Bring the garden up to the person, not the other way around.
+Kauta mai na teitei vei koya na tamata, sega ni kauti koya ki na teitei.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Na teitei cecere se na koniteina cecere** ena rauta ni ivakatagedegede ni tolona e kena ibalebale ni sega na tekiduru se cuva sobu.
+- **Na koniteina ena teveli** e vinaka vei ira era vakayagataka na idabedabe vavolo se era vinakata me ra dabe.
+- **Na sala raba ka tautauvata** ka sega na vatu e veiseyaki se na paipo e davo tu e vakalailaitaka na tarabe.
+- **Na idabedabe e tiko na liga kei na ivakaruru** ena sala, me rawa ni vakacegu ena veigauna.
+- **Na iyaya ni cakacaka e vavaku ka malumu na kena itautauri** ka rawarawa me tauri. Kakua ni vakayagataka na isele ni kau, na isele, se na ka kaukaua.
+- **E dua na vanua e bai tu ka sogo vinaka na katuba** me rawa ni lako voli kina na tamata ka o tiko voleka.
 
-## Which plants should I avoid?
+## Na kau cava me’u levea?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Digitaka na kau e taqomaki me tarai, ka kevaka e rawa, e taqomaki kevaka e tovolea. Na AFA e vakatura na vakayagataki ni kau era sega ni dau vakacudruya na kuli, vakadeitaka kevaka e tiko na mate ni kacabote, ka raica vakavinaka o koya e rawa ni nanuma na qele me kakana. Na ivakasala ni taqomaki ni vale mai na NIA e okati kina na kauta tani se lokataki na kau gaga.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Levea na rosi e vakalatilati, na kakiti, kei na kau e tiko na wai e vakacudruya na kuli.
+- Dikeva na kau o sega ni vakadeitaka kina kei na vale ni veivuke ni gaga se na sitoa ni teitei ni bera ni teivutukau.
+- Na kau era dau taleitaki e rawa ni kauta lesu mai na nanuma vinaka. Na AFA e cavuta na rosi kei na Christmas cactus me ivakaraitaki. Digitaka na mataqali e sega ni vakalatilati.
+- Maroroya na wai ni vakabulabula, na wainimate ni manumanu lalai, kei na wainimate ni co ca ka lokataki, ka kakua ni vakayagataka ena vanua e rawa ni yacova na tamata.
 
-## How do I stay safe in the heat and sun?
+## Au na taqomaki vakacava mai na katakata kei na rarama ni matanisiga?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Vakarautaka na gauna e taudaku me vaka na draki. Na NIA e vakamacalataka ni na qase era leqa vakalevu mai na [mate e vu mai na katakata](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), baleta ni sega ni rawarawa na veisau ni yago ki na katakata kei na so na wainimate era vakayarayarataka na ivakarau ni yago ena katakata.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Lako yani ena mataka se yakavi.** Levea na loma ni siga ena vula katakata. Raica na ivakatagedegede ni katakata taucoko, sega walega na ivakatagedegede ni katakata.
+- **Solia wasoma na wai.** Kakua ni waraka me kaya na tamata ni sa viagunu. Levea na gunu kaukaua kei na gunu e tiko na kafeini ena katakata.
+- **Vakalalaga me veiganiti.** Isulu mamare ka luluqa, e dua na isala e raba na uluna, kei na iloilo ni mata.
+- **Vakayagataka na wai ni taqomaki ni mata ni katakata.** Na NIA e vakatura na SPF 15 se sivia, ka vakayagataki tale ena loma ni siga.
+- **Digitaka na ivakaruru.** Vakarautaka na teveli ni teivutukau e ruku ni vunikau se dua na ivakaruru.
+- **Vakalekalekataka.** E dua na gauna lekaleka e taudaku e rauta, vakabibi ena siga katakata.
+- **Raica na ivakatakilakila ni leqa.** Na NIA e vakaraitaka na mosi ni ulu, veilecayaki, matabuto, se na dau via lua me ivakatakilakila ni leqa mai na katakata. E dua na tamata e bula vata kei na mate ni vakanananu e rawa ni sega ni tukuna ni sa sega ni vinaka na nona vakila, mani raica na matana kei na nona ivakarau. Lesu i loma, vakabatabata ena wai kei na isulu batabata, ka kerea na veivuke vakavuniwai kevaka e sega ni vinaka totolo. Na katakata levu sara, kei na ivakatakilakila me vaka na bale vakasauri, veilecayaki, se na kuli mamaca ka damudamu, e dua na leqa tubukoso ni bula: qiri na naba ni veivuke vakatotolo.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Na draki batabata e bibi talega. Ena vula batabata, vakalekalekataka na gauna e taudaku ka raica me katakata ka mamaca na liga kei na yava.
 
-## How do I handle wandering when we go outside?
+## Au na qarava vakacava na lako tani ni da lako e taudaku?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Tiko vata kei koya na tamata ena veigauna e tiko kina e taudaku. Na Alzheimer's Association e kaya ni [ono ena tini na tamata era bula vata kei na mate ni vakanananu](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) era na lako tani vakadua se sivia, ka vuqa era cakava vakawasoma. E rawa ni yaco ena dua ga na ivakatagedegede.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Na [ivakasala ni NIA me baleta na lako tani kei na yali](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) e okati kina:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Raica me daramaka na tamata e dua na ivakadinadina se ivau vakavuniwai e tiko kina na yacana, itikotiko, kei na nomu naba ni talevoni, se volai na ivakadinadina ena nona isulu.
+- Maroroya e dua na itaba se vidio vou ni tamata.
+- Tukuna vei ira na itokani ni tikina ni rawa ni lako tani na tamata.
+- Taqomaka na lomanibai ena bai kei na katuba e sogo vinaka.
+- Kakua ni biuta duadua e dua e sa dau lako tani.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Na Alzheimer's Association e vakatura talega na kena tauyavutaki na vanua e loma kei na taudaku me rawa ni laurai vakataqomaki, kei na vakarautaki ni itaviqaravi ena gauna ni siga e dau yaco kina na sega ni vakacegu. E dua na taubale ena teitei taqomaki e rawa ni veiganiti kei na sega ni vakacegu ena yakavi. Raica na noda ivakasala me baleta na [sega ni vakacegu ena yakavi](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Kevaka e yali na tamata, na Alzheimer's Association e vakatura na vakasaqaqara totolo ena vanua voleka kei na qiri ni naba ni veivuke vakatotolo kevaka e sega ni kune ena loma ni 15 na miniti. Tukuna vei ira na ovisa ni tamata e bula vata kei na mate ni vakanananu.
 
-## How do I adapt gardening as things change?
+## Au na veisautaka vakacava na teitei ni sa veisau na ka?
 
-| If this has become hard | Try this instead |
+| Kevaka e sa dredre oqo | Tovolea oqo |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Teivutukau ena dua na loga taucoko | Teivutukau e dua na sore ena dua na koniteina |
+| Vakasavasavataka na co ca (wilitaka na co ca mai na kau) | Suinivai, se kauta laivi na senikau sa mate sara |
+| Taubale wavoki ena teitei | Dabe ena teveli kei na tirei ni qele kei na dua na kau |
+| Lako yani e taudaku | E dua na koniteina ni kaukamea ena teveli ni valenisili, se dabe volekata na katubaleka e dola |
+| Cakava e dua na cakacaka | Dabe vata e taudaku, rogoca ka raica |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Eso na tamata era vinakata me ra raica walega nomu cakacaka. Na NIA e kaya ni vinaka me raica walega na tamata kevaka oya na ka e taleitaka.
 
-## When should we head inside?
+## Ena gauna cava me da lesu kina i loma?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Lesu i loma ni sa oca, katakata, batabata, sega ni vakacegu, se sa via oti na tamata. E vinaka cake e tini na miniti lekaleka ka marautaki mai na dua na yakavi balavu e yaco kina na rarawa. Na tarova taumada e dua na ka vinaka.
 
-## Bring the garden indoors on screen
+## Kauta mai na teitei ki loma ena sikirini
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Ena siga ni uca, na [Sort Together](/games/sort-together/) e tiko kina na kato ni teitei me tuvai vata na iyaloyalo, kei na [Conversation Cards](/games/conversation-cards/) e tiko kina na taro e rawa ni yavutaka na italanoa ni teitei. Kevaka o lesu mai na katakata ka o vakila ni o totolo, na [Calm Breathing](/games/calm-breathing/) e solia e dua na cegu malua mo veiwasei vata. Me baleta eso tale na vakasama e yavutaki ena tarai, boi, kei na rorogo, raica na noda [ivakasala ni cakacaka ni vakilai](/activities/sensory/).

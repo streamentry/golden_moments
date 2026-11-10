@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Okuwapaleka otablet ile ongodi yomunhu e na oudu wokudimbwa"
+seoTitle: "Wapaleka otablet ile ongodi yomunhu e na oudu wokudimbwa"
+description: "Omukalo wokuwapaleka otablet nongodi yomunhu e na oudu wokudimbwa: idila mo app imwe, kulifa eendada, mweneka omatumwalaka, kaleka eshina li li pauxupi."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Ningila otablet ile ongodi i kale ipu ofimbo ino i mu pa. I idila mo app
+  imwe to longifa Guided Access ko-iPad noko-iPhone ile app pinning ko-Android,
+  ile longifa Assistive Access yaApple i kale nomupe wa yeluka. Kulifa
+  eendada, dima omatumwalaka noipopi tai holoka, kaleka ashike omaapp manini
+  e shiivike koshi yefano limwe, tula ewi manga ino hovela, longifa oshiyambifo
+  nokungabeka epitikilo lomaapp. Longifa pamwe naye, pamwe noilonga imwe i he
+  li kokombiyuta.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) na app pinning (Android) ohai kaleke eshina mo app imwe fiyo wa i patulula."
+  - "Assistive Access yaApple ohai yandje omupe wa yeluka wa nuninwa ovanhu ve na oupyakadi wokudimbwa."
+  - "Kulifa eendada nokudima omatumwalaka noipopi tai holoka opo paha kale sha tashi piyaaneke ile tashi nyemateke."
+  - "Kaleka ashike omaapp manini e shiivike koshi yefano limwe, nokutula ewi manga ino hovela."
+  - "Oshiyambifo noshifulo shokuchaja shaa lunduluka ohashi ningi eshina li kale lipu okulongifa nokumona."
+  - "Tala nawa epitikilo lomaapp nokutukulilafana omauyelele: HIPAA luhapu ihai amene osho sha tuvikilwa moshinima shopaumwene."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Ongahelipi handi kelele omunhu e na oudu wokudimbwa a dje mo app ko-iPad?"
+    a: "Patulula Guided Access mu Settings > Accessibility > Guided Access nokutula okapasscode. Patulula app, finina oikando itatu okambapila kokombada (ile okambapila koHome koomashina akulu), ndele to finina Start. O-iPad otai kala mo app oyo fiyo umwe a tula okapasscode."
+  - q: "Ongahelipi handi idile mo otablet yaAndroid mo app imwe?"
+    a: "Patulula app pinning mo Settings app, luhapu kohi ya Security (ile Security & location) > Advanced > App pinning. Opo nee patulula app, patulula Overview, finina oshikalimo sha app pombada ndele to finina Pin. PIN, omusholondodo ile oshitya shoye shoshiholekwa osha pumbiwa opo i mangululwe."
+  - q: "Osha amenwa tuu okulongifa Guided Access mongodi yomunhu mwene?"
+    a: "Kala wa lungama. Apple ota ti Crash Detection nOmayakulo Omeendelelo iha longo eshi Guided Access ya patuluka. Ngeenge omunhu ohe lineekele ongodi yaye komangodi omeendelelo, longifa Guided Access ashike eshi u li pamwe naye, ile diladila okulongifa Assistive Access ponhele."
+  - q: "Ominute ngapi dokulongifa eshina da wana komunhu e na oudu wokudimbwa?"
+    a: "Kape na omuvalu wa tulwa po. Oikando i fupi ya longwa pamwe, ya lumbakana nokweenda, omusika, oilonga yomeumbo neenghundafana, otai eta efiku liwa li dule efimbo lile omunhu e li oye aeke noshina. Ngeenge eshina otali eta ehandu ile otali kufa po efimbo loilonga imwe, li longifa kanini."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Otablet otai dulu okukala onghedi iwa yokutukulilafana omafano, omusika nomaudano mayele. Otai dulu yo okunyemateka: ekuma la puka otali patulula app imwe, etumwalaka otali holoka, eendada oda ninipala, ile eshina otali dimi pokati komaudano. Okuwapaleka kanini oko to ningi otaku kandula po oinima ihapu ya tya ngaho.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Oitwa ei ohai longifa omalongekido e li mo nale mo-iPhone, mo-iPad nomo-Android. Omadina omenu otaa dulu okulunduluka pokati keengudu domashina noilongifo, onghee ngeenge sha monika sha yooloka, landula epandja laApple ile laGoogle la tulwa apa loshinima shoye. Longa omalongekido ove mwene, ofimbo inamu kala omutumba pamwe.
 
-## Should someone with dementia use a tablet or phone?
+## Omunhu e na oudu wokudimbwa na longife tuu otablet ile ongodi?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Osha ikolelela komunhu. Ovanhu vahapu ohava hafele okulongifa otablet eshi umwe e li puvo, nonande itave i dulu okulongifa voovene. Hovela oku i longifa pamwe naye, mu na app imwe ya patuluka, oule wominute dinini. Ngeenge otashi eta ehafo neenghundafana, twikileni. Ngeenge otashi eta enyemateko ile ehandu, embo lomafano, omapandja a printwa ile omusika otashi dulu oku mu wapalela nawa. [Oilonga yetu ya printwa](/activities/printable/) oi li onghedi imwe.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Otablet luhapu oipu i dule ongodi: oshikwa shayo nomafano ayo oinini, no kai fi yo onghalamwenyo yomeendelelo yomunhu.
 
-## How do I lock a tablet or phone to one app?
+## Ongahelipi handi idile mo otablet ile ongodi mo app imwe?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Longifa Guided Access ko-iPhone noko-iPad, ile app pinning ko-Android. Aishe oi ikolelela moshiwana sha shimwe fiyo wa tula okakode, opo ekuma ile okupukulula kwa puka itaku dulu okupatulula sha shimwe.
 
-### iPad and iPhone: Guided Access
+### iPad no-iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+She likolelela [komalombwelo aApple e na sha naGuided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Patulula **Settings**, finina **Accessibility**, opo nee finina **Guided Access** ndele to i patulula.
+2. Kohi ya **Passcode Settings**, tula okapasscode kaGuided Access. Oto dulu yo okweefa Face ID ile Touch ID.
+3. Ngeenge wa hala: kohi ya **Display Auto-Lock**, hoolola kutya eshina nali idile diva shi fike peni pefimbo loshikando, opo liha dimi pokati komaudano.
+4. Patulula app oyo wa hala okulongifa.
+5. Finina oikando itatu okambapila kopombada (iPhone), okambapila kokombada (iPad), ile okambapila koHome koomashina akulu.
+6. Ngeenge wa hala: dingilila oitukulwa yoshikwa oyo ino hala i nyamukule ekuma. Finina **Options** (ile **Session Settings**) opo u dime oikutu yewi ile u kelele eshina liha pungulukile.
+7. Finina **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Opo u xulife oshikando, finina natango oikando itatu okambapila oko tuu oko, tula okapasscode, ndele to finina **End**. Apple ota ti kutya koilongifo ikulu vamwe ohava finina oikando mbali ponhele.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Sha fimana:** Apple ota ti Crash Detection nOmayakulo Omeendelelo iha longo pefimbo loshikando shaGuided Access. Ino fiya Guided Access ya patuluka mongodi oyo omunhu tashi dulika a pumbwe komangodi omeendelelo.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+She likolelela [kekwafo laGoogle laAndroid li na sha nokupina oshiwana](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Patulula **Settings** app.
+2. Finina **Security** (ile **Security & location**), opo nee **Advanced**, opo nee **App pinning**. Ngeenge ito i mono, tala omapandja ekwafo omuhangi woshinima shoye.
+3. Patulula **App pinning**. PIN, omusholondodo ile oshitya shoye shoshiholekwa otashi ka pumbiwa opo i mangululwe.
+4. Patulula app oyo wa hala. Pupukulila pombada pokati koshikwa ndele to kwata opo u patulule Overview (ile finina Overview ngeenge to longifa 3-button navigation).
+5. Pombada yefano la app, finina oshikalimo sha app, opo nee finina **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Opo u mangulule ngeenge to longifa gesture navigation, pupukulila pombada ndele to kwata. No 3-button navigation, kwata Back na Overview. No 2-button navigation, kwata Back na Home. Opo nee tula PIN, omusholondodo ile oshitya shoye shoshiholekwa.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Ope na tuu onghedi ipu i dule aishe yo-iPhone ile yo-iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Heeno. Assistive Access yaApple ohai pingena po oshikwa shopeumbo sha ikalela nomupe wa yeluka. [Apple ote i fatulula](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ya nuninwa okuninga iPhone i kale ipu kovanhu ve na oupyakadi wokudimbwa va i longife voovene, noinima inini ya kula koshiwana noinima ya yela nawa. Apple oku na [oshinima sha faafana ko-iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Olyelye he i wapaleke.** Apple ota ti omuyambididi e lineekelwa, ngaashi oshilyo shoukwaneumbo ile omufilishisho ou e shii omunhu, na kwafele mokuhoolola omaapp noinima.
+- **Apa to hovele.** Inda ku **Settings > Accessibility > Assistive Access**, finina **Set Up Assistive Access**, opo nee **Continue**.
+- **Omaapp.** Oove to hoolola kutya omaapp elipi taa holoka. Omaapp amwe aApple oku na omalupe a yeluka e likalekelwa, nomahangano mahapu amwe otaa dulu okuwedwa mo nomupe wao wa ikalela.
+- **Omupe.** Hoolola **Rows** (omusholondodo uipu okulesha) ile **Grid** (oinima inini ya kula tai ulike unene omafano noikalimo).
+- **Okapasscode.** Oto tula okapasscode kaAssistive Access ke likalekelwa opo u ye mo, u dje mo ile u lundulule omalongekido. Apple ota ti nawa okutula po ehangano laApple lokuhanga po pefimbo lokuwapaleka, osheshi ngeenge kapa li limwe, okapasscode ka dimbuwa otaka pula eshina li tulululwe.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access otashi dulu okuwapalela omunhu oo ha longifa oshinima shaye efiku keshe. Guided Access ile app pinning oya endelela ngeenge tamu dana pamwe oule wokafimbo.
 
-## How do I make text and pictures bigger?
+## Ongahelipi handi kulifa eendada nomafano?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Kulifa eendada noshikwa, opo nee tala ngeenge oikutu natango otai wanene moshikwa.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone no-iPad.** Pa [omalombwelo aApple e na sha nounene weendada](https://support.apple.com/en-us/102453), inda ku **Settings > Display & Brightness > Text Size** ndele to kokola omukokoli. Opo u mone eendada dinene unene, inda ku **Settings > Accessibility > Display & Text Size > Larger Text**. Apple ota ti kutya eendada dinene unene otadi dulu okuningifa oikutu imwe i kale idjuu okufininwa, onghee lundulula ngeenge sha pumbiwa.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Pa [ekwafo laGoogle li na sha nomalongekido eendada noshikwa](https://support.google.com/accessibility/android/answer/11183305?hl=en), patulula **Settings** ndele to kongo **Font size**, opo nee to endifa omukokoli. Konga **Display size** opo u kulife ashishe shoshikwa. Oto dulu yo okupatulula **Bold text** kohi ya **Accessibility > Display size and text**. Omaapp amwe ihaa landula omalongekido aa.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Momaudano ngaashi [Picture Pairs](/games/picture-pairs/) na [Find the Same](/games/find-the-same/), oto dulu yo okuhoolola oipambu ile omahoololo manini, osho tashi kaleke oinima i li pauxupi moshikwa.
 
-## How do I stop notifications and pop-ups?
+## Ongahelipi handi kelele omatumwalaka noipopi tai holoka?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Dima omatumwalaka omaapp oo ino pumbwa, nokulongifa Do Not Disturb pefimbo loilonga.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone no-iPad.** Inda ku **Settings > Notifications**, finina app kohi ya **Notification Style**, ndele to dima **Allow Notifications** ([omukalo waApple womatumwalaka](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Opo u mweneke omangodi, omalondwelo nomatumwalaka okafimbo, patulula Control Center ndele to patulula **Do Not Disturb** mokambapila ka **Focus** ([ekwafo laApple li na sha naDo Not Disturb](https://support.apple.com/en-us/105112)). Oto dulu oku i tulila efimbo kohi ya **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Pupukulila pedu okudja pombada yoshikwa ndele to finina **Do Not Disturb**, ile inda ku **Settings > Modes > Do Not Disturb** ([ekwafo laGoogle li na sha naDo Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Kohi ya **Notification filters** oto dulu okuhoolola ovanhu nomaapp elipi taa dulu natango okuuya. Omalongekido otaa yooloka pamuhangi woshinima.
 
-## How do I make a simple home screen?
+## Ongahelipi handi ningi oshikwa shopeumbo shi kale shipu?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Kaleka omaapp manini e shiivike koshikwa shimwe ndele to lundululile makwao kokule. Kape na elongekido limwe alike laashi; osha kwatela mo okukufa po oinima ihapu.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Hoolola omaapp atatu fiyo ahamano.** Pashihopaenenwa, omafano, omusika, app yomangodi ovidio nomaudano amwe.
+- **A tula koshikwa shotete,** meenhele dimwe alike efimbo keshe, ndele to tula keshe shimwe koshikwa oshitivali ile mofolda.
+- **Longifa efano lopeumbo la yela noliyela nawa,** ngaashi olwaala limwe alike ile efano limwe le shiivike, opo oikalimo i holoke nawa.
+- **Dima po omaapp oo ino pumbwa.** Omaapp manini otaa ti omhito dinini dokunyemateka nomauyelele manini taa ongelwa.
+- **Diladila Assistive Access** koishina yaApple ngeenge wa hala eshina li ku ningile eshi.
 
-## What about volume and sound?
+## Ongahelipi shi na sha newi nomawi?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Tula ewi liwa manga ino yandja eshina. NaGuided Access, oto dulu okudima oikutu yewi opo iha lunduluka pokati koilonga. Tala ngeenge oikwafifo yokuuda oi li mo notai longo nawa.
 
-## Where should the tablet live?
+## Openi otablet nai kale?
 
-Give it a stand and a permanent charging spot.
+I pa oshiyambifo noshifulo shokuchaja shaa lunduluka.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Oshiyambifo ile okapakete** oko taka kwatele otablet ya yukilila potafel, otashi ti kape na ou e noku i kwata, nokulikola oshipu.
+- **Onhele imwe yokuchaja** yaa lunduluka, unene oshiyambifo shokuchaja potafel monduda omo hamu kala efiku keshe. Otablet alushe oi na eenghono noalushe oi li monhele imwe.
+- **Ninipika ouyelele tau vema.** Tula oshikwa kokule nekende li na ouyelele muhapu.
 
-## How much screen time is okay?
+## Ominute ngapi dokulongifa eshina da wana?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Kape na omuvalu wa yuka wominute. Kendabala okutula mo oikando i fupi ya longwa pamwe, shi li oshitukulwa shefiku li yadi olo li na yo okweenda, omusika, oilonga yomeumbo, eenghundafana nefimbo pondje. Molwaashi omafiku onguloshi taa dulu okuwedela ehandu lokonguloshi, diladila okukaleka oilonga yoshikwa komutenya. Tala [oilonga ya ngungumana yokomatango](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Okulongifa otablet pamwe, ponhele yoku i fiya i kale omupashukili, otashi i kaleke ya kwatakanena. Omukalo wetu wokudana [omaudano pamwe](/caregiving/how-to-play-together/) otau yelifa nghee.
 
-## How do I protect their privacy on the device?
+## Ongahelipi handi amene oufemba wopaumwene wavo moshinima?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Ngabeka osho omaapp taa dulu okuongela, ndele ino diladila kutya oveta youfemba wouhaku otai shi amene. O-U.S. Department of Health and Human Services (HHS) [otai yelifa](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) kutya omilandu daHIPAA luhapu ihadi amene omauyelele ouhaku a tuvikilwa ile taa monika moongodi ile mootablet dopaumwene. Moikando ihapu, HIPAA ihai amene yo omauyelele a tulwa moomaapp omolwelongifo lopaumwene, kakele ngeenge app oya dja komuyandji wouhaku, ehangano louhaku ile kuvamwe ve va kwatakanena.
 
-HHS suggests:
+HHS otai ti:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- henuka omaapp inaa pumbiwa ile aa epuko, unene aa "osho";
+- ino pa omaapp epitikilo konhele yoye kakele ngeenge oku i pumbwa shili, ngaashi omamepu.
 
-Also consider:
+Diladila yo:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Longifa okapasscode** koshinima, ndele to i kwatele monhele ya amenwa.
+- **Tala epitikilo** lomafano, okamera, omakrofona, omakwatafano nonhele, ndele to dima keshe osho app inai pumbwa.
+- **Tala osho app tai ongele** ofimbo ino i tula mo. Omukalo wetu wokuhoolola [omaapp nomaudano oudu wokudimbwa](/caregiving/choosing-apps-and-games/) ou na omusholondodo woufemba wopaumwene.
+- **Kala wa lungama nomafano oukwaneumbo.** Tukulila ashike omafano oo omunhu ta kala a manguluka nao, nokushiiva kutya app otai a tuvikile peni. Mu [Photo Pairs](/games/photo-pairs/), omafano oo wa hoolola ohaa kala moshikongifo shoye shokutalela ko.
+- **Dima okulanda mo mo-app** ile kufa mo omauyelele okufuta momahangano oo omunhu ta longifa.

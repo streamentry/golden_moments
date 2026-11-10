@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "ᐏᒋᐦᐃᐍᐏᐣ ᒥᓇ ᒪᒥᑐᓀᓂᒋᑲᐣ ᒥᔪᐦᐃᔭᐍᐏᐣ: ᐯᔭᑯᐏᐣ ᒥᓇ ᐘᔭᐑᐏᐣ"
+seoTitle: "ᐯᔭᑯᐏᐣ, ᐘᔭᐑᐏᐣ ᒥᓇ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᐣ"
+description: "ᑖᓂᓯ ᐯᔭᑯᐏᐣ ᒥᓇ ᐘᔭᐑᐏᐣ ᑲ ᐃᓯ ᐏᒋᐦᐃᑯᐠ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ, ᑭᒋ ᒫᐢᑭᐦᑭᐤ ᐅᐦᒋ ᐊᑐᓀᐸᐠ, ᒥᓇ ᑖᓂᓯ ᒫᒥᑐᓇᒧᐸᐠ."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ ᐃᑌᐘᐠ ᐘᔭᐑᐏᐣ ᒥᓇ ᐯᔭᑯᐏᐣ ᑭᐦᒋ ᐊᔭᐘᐠ ᐅᐦᒋ ᐊᔭᐘᐠ ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ.
+  2024 ᐅᐦᒋ Lancet Commission ᐃᑌᐤ ᐘᔭᐑᐏᐣ ᒫᑲ ᐊᐱᑕᐣ 5% ᐅᐦᒋ ᐃᑌᐦᑕᒧᐤ, ᒫᑲ ᐊᑕᐘᐠ ᑲ ᓂᑲᓂ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᐣ
+  ᐅᐦᒋ ᐘᔭᐑᐏᐣ. ᐏᒋᐦᐃᐍᐏᐣ, ᒫᒥᑐ ᐊᑐᐢᑫᐏᓇ, ᒥᓇ ᐯᐦᑖᑯᓯᐏᐣ ᒥᓇ ᐘᐱᒪᐏᐣ ᐏᒋᐦᐃᐍᐏᓇ ᐏᒋᐦᐃᐍᐏᓂᐘᐠ.
+  ᐊᐘᓂᐦᐃᐠ ᑲ ᐏᒋᐦᐃᐟ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ, ᒫᒥᑐ ᐊᑐᐢᑫᐏᓇ ᒥᔪ ᐃᑌᐦᑕᒧᐏᓂᐘᐠ ᒥᓇ ᒥᔪ ᐱᒪᑎᓯᐏᐣ ᐅᐦᒋ;
+  ᐏᒋᐦᐃᐍᐏᐣ ᒥᔪ ᐃᑌᐦᑕᒧᐤ, ᓇᒨᐏᐣ ᑭᔭ ᐱᒧᐦᑌᐏᐣ.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet Commission ᐃᑌᐤ ᐘᔭᐑᐏᐣ ᑭᐦᒋ ᐊᔭᐘᐠ ᐅᐦᒋ ᐯᔭᑯ 14 ᑲ ᑭ ᒦᓇᐦᐃᑯᐠ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ, ᒫᑲ ᐊᐱᑕᐣ 5%."
+  - "ᐅᐢ 2023 ᐅᐦᒋ ᑭᒋ ᒫᐢᑭᐦᑭᐤ ᐅᐦᒋ ᐊᑐᓀᐸᐣ ᐃᑌᐤ ᑭᓄᐍ ᐯᔭᑯᐏᐣ ᒥᓇ ᐘᔭᐑᐏᐣ ᒫᑲ ᐊᐱᑕᐣ 50% ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ ᑭᐦᒋ ᐊᔭᐘᐠ ᐅᐦᒋ."
+  - "ᒥᐢᑕᐦᐃ ᐆᒪ ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ ᑲ ᐘᐸᐦᑕᒧᐠ ᐃᑌᐦᑕᒧᐤ, ᒥᓇ ᑲ ᓂᑲᓂ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᐣ ᐅᐦᒋ ᐊᐘᐣ ᐘᔭᐑᐤ."
+  - "ᐯᐦᑖᑯᓯᐏᐣ ᒥᓇ ᐘᐱᒪᐏᐣ ᐊᔭᐏᒪᑲᓇ, ᐯᔭᑯ ᐏᑭᐏᐣ, ᒥᓇ ᐱᒥᐸᔨᐦᑕᒧᐏᐣ ᓇᐢᑕ ᐃᑌᐦᑕᒧᐏᓂᐘᐠ ᐘᔭᐑᐏᐣ."
+  - "ᐊᐘᓂᐦᐃᐠ ᑲ ᐏᒋᐦᐃᐟ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ, ᒥᔪ ᒫᒥᑐ ᐊᑐᐢᑫᐏᓇ ᐏᒋᐦᐃᐍᐏᓂᐘᐠ ᒥᔪ ᐱᒪᑎᓯᐏᐣ; ᐏᒋᐦᐃᐍᐏᐣ ᒥᔪ ᐃᑌᐦᑕᒧᐤ, ᓇᒨᐏᐣ ᑭᔭ ᐱᒧᐦᑌᐏᐣ."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "ᒋᐦᑭ ᓇ ᐯᔭᑯᐏᐣ ᐅᐦᒋ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᐣ?"
+    a: "ᓇᒨᐏᐣ ᐅᐦᒋ ᑭᐢᑫᔨᐦᑕᒧᐤ ᐋᐸᑎᓯᐤ. ᒥᐢᑕᐦᐃ ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ ᐃᑌᐘᐠ ᐯᔭᑯᐏᐣ ᒥᓇ ᐘᔭᐑᐏᐣ ᐏᒋᐦᐃᑯᐠ ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ, ᒫᑲ ᑲ ᓂᑲᓂ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ ᒥᔮᓯᓇᐦᐃᑲᓇ ᐅᐦᒋ ᐊᐘᐣ ᐘᔭᐑᐤ ᑲ ᐅᐦᒋ ᐏᒋᐦᐃᐍᐟ. ᐏᒋᐦᐃᐍᐏᐣ ᒥᔪ ᐏᒋᐦᐃᐍᐏᐣ ᒥᔪ ᒪᒥᑐᓀᓂᒋᑲᐣ ᒥᓇ ᒥᔪ ᐱᒪᑎᓯᐏᐣ ᐅᐦᒋ, ᐁᑿ ᒥᔪ ᑲ ᐏᒋᐦᐃᑯᐠ."
+  - q: "ᑖᓂᓯ ᐯᔭᑯᐏᐣ ᒥᓇ ᐘᔭᐑᐏᐣ ᐱᑐᓇ ᐃᑌᐦᑕᒧᐤ?"
+    a: "ᐘᔭᐑᐏᐣ ᐃᑌᐦᑕᒧᐤ ᒋᒥᑕ ᐊᐘᓂᐦᐃᐠ ᑲ ᐏᒋᐦᐃᐟ ᑕᐦᑯᐏ ᐱᓯᒪᐤ. ᐯᔭᑯᐏᐣ ᐃᑌᐦᑕᒧᐤ ᒫᒋ ᐃᑌᐦᑕᒧᐏᐣ ᐯᔭᑯ ᑲ ᐃᑌᐦᑕᒧᐣ. ᐊᐘᐣ ᐯᔭᑯ ᐏᑭᐤ ᒥᓇ ᓇᒨᐏᐣ ᐯᔭᑯᐤ, ᒪᐢᑲᐦᒡ ᐊᐘᐣ ᐯᔭᑯᐤ ᒥᐢᑕᐦᐃ ᒥᐦᒉᐟ ᐊᐘᓂᐦᐃᐠ ᐊᔭᐘᐠ."
+  - q: "ᑖᓂᓯ ᓂᑲ ᐏᒋᐦᐃᐣ ᓂᐹᐹ ᐅᑭᒫᒪ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ ᒋ ᐏᒋᐦᐃᐍᐟ?"
+    a: "ᒋᒥᑕ, ᑕᐦᑯᐏ ᐏᒋᐦᐃᐍᐏᐣ ᒥᔪ ᐃᓯᓈᑯᐣ. ᑯᒋ ᐱᓯᒪᐤ ᐊᔭᒥᐦᐁᐏᐣ ᐅᑭ ᑕᐦᑯᐏ ᐱᓯᒪᐤ, ᒫᒥᑐ ᐊᑐᐢᑫᐏᐣ ᒥᓯᐢᐸᐦᑯᐦᐨ ᐅᐦᒋ, ᒪᒥᑐᓀᓂᒋᑲᐣ ᒫᒥᑐᐏᐣ, ᒪᐢᑲᐦᒡ ᐱᔨᓯᓯᐢ ᐅᑭ ᐅᓱᓯᒫ ᑲ ᓇᑐᐢᑲᐸᐟ. ᒋᒥᑕ ᐊᐘᓂᐦᐃᐠ ᒥᓇ ᐸᔭᑕᐠ ᐃᑌᐦᑕᒧᐤ, ᒥᓇ ᐊᐘᐣ ᐱᒧᐦᑌᐏᐣ ᐅᐦᒋ ᐱᒧᐦᑌᐤ."
+  - q: "ᑖᓂᑌ ᓂᑲ ᒥᐢᑲᐣ ᐏᒋᐦᐃᐍᐏᐣ ᑭᐦᒋ ᐊᔭᐘᐠ ᐅᐦᒋ ᑲ ᐘᔭᐑᐟ?"
+    a: "Eldercare Locator ᐏᒋᐦᐃᐍᐏᐣ ᐃᑌᐤ, ᐏᒋᐦᐃᐍᐏᓂᐘᐠ ᐅᐦᒋ ᐊᔭᐏᒪᑲᓇ ᒥᓇ ᐅᑌᓈᐤ ᐅᐦᒋ ᐊᑐᐢᑫᐏᓇ. ᑲ ᓇᑐᐢᑲᐸᐟ 800-677-1116 ᒪᐢᑲᐦᒡ eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+ᐊᐘᓂᐦᐃᐠ ᓇᑕᐍᔨᐦᑕᒧᐘᐠ ᐏᒋᐦᐃᐍᐏᐣ, ᒥᓇ ᐁᑯᑕ ᓇᒨᐏᐣ ᒥᔮᓯᓇᐦᐃᑲᐣ ᑲ ᐃᓯ ᑭᐦᒋ ᐊᔭᐘᐠ. ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ ᐃᑌᐘᐠ ᐯᔭᑯᐏᐣ ᒥᓇ ᐘᔭᐑᐏᐣ ᑭᐦᒋ ᐊᔭᐘᐠ ᐅᐦᒋ ᐏᒋᐦᐃᑯᐠ ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ, ᒥᓇ ᒥᑌᐦ ᐊᔭᐏᒪᑲᐣ ᒥᓇ ᒫᒋ ᒪᒥᑐᓀᓂᒋᑲᐣ. ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ ᓇᒨᐏᐣ ᐁᑿ ᐅᐦᒋ ᑭᐢᑫᔨᐦᑕᒧᐤ ᑖᓂᑌᐦ ᐆᒪ ᑲ ᐃᓯ ᐅᐦᒋ ᐃᑌᐦᑕᒧᐠ. ᐆᒪ ᒪᓯᓇᐦᐃᑲᐣ ᐘᐦᑕᒪᑫᐤ ᑖᓂᓯ ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ ᐃᑌᐦᑕᒧᐠ, ᑖᓂᓯ ᒋ ᐏᒋᐦᐃᑯᐠ, ᒥᓇ ᑖᓂᐦᑭ ᒫᒥᑐ ᐊᑐᐢᑫᐏᓇ ᒥᔪ ᐃᑌᐦᑕᒧᐏᓂᐘᐠ ᐊᐘᓂᐦᐃᐠ ᑲ ᐏᒋᐦᐃᐟ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ.
 
-## Are loneliness and isolation linked with dementia?
+## ᒋᐦᑭ ᓇ ᐯᔭᑯᐏᐣ ᒥᓇ ᐘᔭᐑᐏᐣ ᐏᒋᐦᐃᑯᐠ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+ᐁᐦᐁ, ᒥᐢᑕᐦᐃ ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ ᐏᒋᐦᐃᑯᐠ, ᒫᑲ ᓇᒨᐏᐣ ᐁᑿ ᒥᔮᐢᑲᐤ ᑭᐢᑫᔨᐦᑕᒧᐤ. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) ᐃᑌᐤ ᐘᔭᐑᐏᐣ ᑭᐦᒋ ᐊᔭᐘᐠ ᐅᐦᒋ ᐯᔭᑯ 14 ᑲ ᑭ ᒦᓇᐦᐃᑯᐠ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ. [UCL ᐅᐦᒋ ᐊᑐᓀᐸᐣ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ᐃᑌᐤ ᒫᑲ ᐊᐱᑕᐣ 5% ᐅᐦᒋ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ ᒥᓯᐍ ᐊᐢᑭᕀ.
 
-What the evidence shows:
+ᑖᓂᓯ ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ ᐃᑌᐦᑕᒧᐠ:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **ᒋᒥᑕ ᐏᒋᐦᐃᐍᐏᐣ, ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ.** Commission ᐘᐦᑕᒪᑫᐤ ᓃᓱ ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ ᑲ ᐏᒋᐦᐃᑯᐠ ᒋᒥᑕ ᐏᒋᐦᐃᐍᐏᐣ ᒥᓇ ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ. ᐯᔭᑯ ᒥᐢᑲᐤ ᒫᑲ ᐊᐱᑕᐣ 57% ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ, ᑭᐦᑕ ᐯᔭᑯ ᒫᑲ ᐊᐱᑕᐣ 18%.
+- **ᐯᔭᑯᐏᐣ ᒫᓇ.** ᐯᔭᑯᐏᐣ, ᒫᒋ ᐃᑌᐦᑕᒧᐏᐣ ᐘᔭᐑᐏᐣ, ᐏᒋᐦᐃᑯᐠ ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ ᒥᐢᑕᐦᐃ ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ.
+- **ᑭᒋ ᒫᐢᑭᐦᑭᐤ ᐅᐦᒋ ᐃᑌᐦᑕᒧᐏᐣ.** ᐅᐢ May 2023, ᑭᒋ ᒫᐢᑭᐦᑭᐤ ᒥᔼ ᐊᑐᓀᐸᐣ [ᐯᔭᑯᐏᐣ ᒥᓇ ᐘᔭᐑᐏᐣ ᐅᐦᒋ](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). ᐃᑌᐤ ᑭᓄᐍ ᐯᔭᑯᐏᐣ ᒥᓇ ᐘᔭᐑᐏᐣ ᒫᑲ ᐊᐱᑕᐣ 50% ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ ᑭᐦᒋ ᐊᔭᐘᐠ ᐅᐦᒋ. ᒥᓇ ᐏᒋᐦᐃᑯᐠ ᒫᑲ 29% ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᒥᑌᐦ ᐊᔭᐏᒪᑲᐣ ᒥᓇ 32% ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᐊᐢᑭᐦᑯ ᐊᔭᐏᒪᑲᐣ.
+- **ᑖᓂᑌᐦ ᒥᐢᑕᐦᐃ ᐃᑌᐦᑕᒧᐤ.** [National Academies ᐅᐦᒋ ᒪᓯᓇᐦᐃᑲᐣ](https://www.ncbi.nlm.nih.gov/books/NBK557972/) ᒥᐢᑲᐤ ᒫᑲ 24% ᐊᐘᓂᐦᐃᐠ 65 ᐊᐢᑭᐩ ᒥᓇ ᐊᐘᓯᒪ ᐅᑌᓈᐤ ᐅᐦᒋ ᑲ ᐏᑭᐟ ᐘᔭᐑᐘᐠ.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+ᒥᔪ ᑲ ᑭᐢᑫᔨᐦᑕᒧᐠ: Lancet Commission ᐃᑌᐤ ᐊᐘᓂᐦᐃᐠ ᓇᐢᑕ ᐘᔭᐑᐘᐠ ᐏᒋᐦᐃᐍᐏᓇ ᑲ ᓂᑲᓂ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᐣ ᐁᑿ ᓇᒨᐏᐣ ᑭᐢᑫᔨᐦᑕᒧᐤ. ᐁᑿ ᐊᑕᐘᐠ ᐆᒪ ᐏᒋᐦᐃᑯᐠ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᐣ ᐅᐦᒋ ᐘᔭᐑᐏᐣ, ᓇᒨᐏᐣ ᐯᔭᑯ ᐘᔭᐑᐏᐣ ᐅᐦᒋ ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ. ᒥᐢᑕᐦᐃ ᐆᒪ ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ ᑲ ᐘᐸᐦᑕᒧᐠ ᐅᐦᒋ ᐃᑌᐦᑕᒧᐤ.
 
-## What is the difference between loneliness and isolation?
+## ᑖᓂᓯ ᐯᔭᑯᐏᐣ ᒥᓇ ᐘᔭᐑᐏᐣ ᐱᑐᓇ ᐃᑌᐦᑕᒧᐤ?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) ᐁᑿ ᐃᑌᐤ. **ᐘᔭᐑᐏᐣ** ᐃᑌᐦᑕᒧᐤ ᒋᒥᑕ ᐊᐘᓂᐦᐃᐠ ᑲ ᐏᒋᐦᐃᐟ ᐅᑭ ᒋᒥᑕ ᑲ ᐏᒋᐦᐃᐟ ᑕᐦᑯᐏ ᐱᓯᒪᐤ. **ᐯᔭᑯᐏᐣ** ᐃᑌᐦᑕᒧᐤ ᒫᒋ ᐃᑌᐦᑕᒧᐏᐣ ᐯᔭᑯ ᑲ ᐃᑌᐦᑕᒧᐣ ᒪᐢᑲᐦᒡ ᐘᔭᐑᐏᐣ. ᐊᐘᐣ ᐯᔭᑯ ᐏᑭᐤ ᒥᔪ ᐃᑌᐦᑕᒧᐤ, ᒥᓇ ᐊᐘᐣ ᐯᔭᑯᐤ ᒥᐢᑕᐦᐃ ᒥᐦᒉᐟ ᐊᐘᓂᐦᐃᐠ ᐊᔭᐘᐠ.
 
-The NIA lists factors that raise the risk of both:
+NIA ᐘᐦᑕᒪᑫᐤ ᑲ ᓇᐢᑕ ᐃᑌᐦᑕᒧᐠ ᐯᔭᑯᐏᐣ ᒥᓇ ᐘᔭᐑᐏᐣ:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- ᐯᐦᑖᑯᓯᐏᐣ ᒥᓇ ᐘᐱᒪᐏᐣ ᐊᔭᐏᒪᑲᓇ
+- ᐊᔭᐏᒪᑲᐣ ᐱᒧᐦᑌᐏᐣ ᐅᐦᒋ, ᒪᐢᑲᐦᒡ ᓇᒨᐏᐣ ᐱᒧᐦᑌᐏᐣ
+- ᐯᔭᑯ ᐏᑭᐏᐣ, ᒪᐢᑲᐦᒡ ᒥᐢᑕᐦᐃ ᐘᓂᐦᐃᑯᐏᐣ ᑲ ᐃᓯ ᐅᐦᒋ ᓂᐱᐤ ᐅᑭ ᐊᑐᐢᑫᐏᐣ
+- ᒪᒥᑐᓀᓂᒋᑲᐣ ᒥᓇ ᒪᒥᑐᓀᓂᒋᑲᐣ ᒥᔮᓯᓇᐦᐃᑲᓇ
+- ᐱᒥᐸᔨᐦᑕᒧᐏᐣ ᐊᐘᐣ ᑲ ᐊᑲᓯᐟ
+- ᓱᓂᔮᐤ ᐊᔭᐏᒪᑲᓇ ᒪᐢᑲᐦᒡ ᐱᑭᐢᑵᐏᐣ ᐊᔭᐏᒪᑲᓇ
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+ᐯᐦᑖᑯᓯᐏᐣ ᒥᐢᑕᐦᐃ ᐃᑌᐦᑕᒧᐤ. NIA ᐃᑌᐤ ᐊᐘᓂᐦᐃᐠ ᑲ ᓇᒨᐏᐣ ᒥᔪ ᐯᐦᑖᑯᓱᐟ ᓇᐢᑕ ᐘᔭᐑᐤ, ᐊᔭᒥᐦᐁᐏᐣ ᒫᑲ ᐊᔭᐏᒪᑲᐣ ᒪᐢᑲᐦᒡ ᓀᐦᐃᔭᐍᐏᐣ ᐅᐦᒋ. ᓂᐢᑕ [ᐯᐦᑖᑯᓯᐏᐣ ᒥᓇ ᒪᒥᑐᓀᓂᒋᑲᐣ ᒥᔪᐦᐃᔭᐍᐏᐣ ᒪᓯᓇᐦᐃᑲᐣ](/brain-health/hearing/) ᐘᐦᑕᒪᑫᐤ ᐯᐦᑖᑯᓯᐏᐣ ᑲ ᓇᓇᑐᐦᑖᑯᒋᐠ ᒥᓇ ᐯᐦᑖᑯᓯᐏᐣ ᐊᐸᒋᐦᐃᑲᓇ.
 
-## Practical ways to stay connected
+## ᑖᓂᓯ ᒋ ᐏᒋᐦᐃᑯᐠ
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA ᒥᔼ ᒥᐢᑕᐦᐃ ᐃᑌᐦᑕᒧᐏᓇ. ᐯᔭᑯ ᒪᐢᑲᐦᒡ ᓃᓱ ᐅᑎᓇ ᑲ ᒥᔪ ᐃᓯᓈᑯᐠ:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **ᑕᐦᑯᐏ ᐏᒋᐦᐃᐍᐏᐣ ᑯᒋᐦᑕ.** ᑕᐦᑯᐏ ᐱᓯᒪᐤ ᒪᐢᑲᐦᒡ ᑕᐦᑯᐏ ᐱᓯᒪᐤ ᐊᔭᒥᐦᐁᐏᐣ, ᒪᓯᓇᐦᐃᑲᐣ, ᒪᐢᑲᐦᒡ ᒪᓯᓇᐦᐃᑲᐣ ᐅᐦᒋ ᐏᒋᐦᐃᐍᐏᐣ ᐏᐦᑭᐦᐃᐧᐊᐠ, ᐏᒋᐦᐃᐍᐘᐠ, ᒪᐢᑲᐦᒡ ᐅᑌᓈᐤ ᐊᐘᓂᐦᐃᐠ.
+- **ᐘᐱᒪᐏᐣ ᐊᔭᒥᐦᐁᐏᐣ ᒪᐢᑲᐦᒡ ᒪᓯᓇᐦᐃᑲᐣ ᐊᐸᒋᐦᐃᑲᓇ ᐊᐸᒋᐦᐃᐠ.** ᑭᔭ ᐅᐢᑭ ᐊᐸᒋᐦᐃᑲᐣ, ᒥᐢᑕᐦᐃ ᒪᓯᓇᐦᐃᑲᓂᑲᒥᐠ ᒥᓇ ᐅᑌᓈᐤ ᐅᐦᒋ ᐊᑐᐢᑫᐏᓇ ᒥᔼᐘᐠ ᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ. ᐘᐸᐦᑕ [ᐊᔭᒥᐦᐁᐏᐣ ᒥᓇ ᐘᐱᒪᐏᐣ ᐊᔭᒥᐦᐁᐏᐣ ᒪᓯᓇᐦᐃᑲᐣ](/activities/phone-and-video-calls/).
+- **ᐏᒋᐦᐃᐍᐏᐣ ᐅᐦᒋ ᐃᑌᐦᑕᒧ.** ᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ, ᐊᔭᒥᐦᐁᐏᐣ ᒫᒥᑐᐏᐣ, ᐱᒧᐦᑌᐏᐣ ᒫᒥᑐᐏᐣ, ᒪᐢᑲᐦᒡ ᐏᒋᐦᐃᐍᐏᐣ ᐊᑐᐢᑫᐏᐣ ᒥᔼᐤ ᐏᒋᐦᐃᐍᐏᐣ ᒥᓇ ᒥᔪ ᐃᑌᐦᑕᒧᐏᐣ.
+- **ᒥᓇ ᐊᑐᐢᑫᐏᐣ ᑲ ᐊᑐᐢᑫᔭᐣ** ᒪᐢᑲᐦᒡ ᐅᐢᑭ ᐊᑐᐢᑫᐏᐣ ᑲ ᑭᐢᑭᓄᐦᐊᒪᑯᐣ ᐏᒋᐦᐃᐍᐘᐠ ᐅᐦᒋ.
+- **ᐱᒧᐦᑌ ᐏᒋᐦᐃᐍᐘᐠ ᐅᐦᒋ.** ᐱᒧᐦᑌ ᐏᒋᐦᐃᐍᐘᐠ ᒪᐢᑲᐦᒡ ᒫᒥᑐᐏᐣ ᐅᐦᒋ. ᓂᐢᑕ [ᐱᒧᐦᑌᐏᐣ ᒪᓯᓇᐦᐃᑲᐣ](/brain-health/exercise/) ᒥᔼᐤ ᔭᐦᑭ ᐊᑐᐢᑫᐏᓇ.
+- **ᐱᔨᓯᓯᐢ ᓇᓇᑐᐦᑖ** ᑭᔭ ᑲ ᑭ ᐱᒥᐸᔨᐦᑕᒪᐟ.
+- **ᐅᑌᓈᐤ ᐅᐦᒋ ᐏᒋᐦᐃᐍᐏᓇ ᐊᐸᒋᐦᐃᐠ.** ᑭᐦᒋ ᐊᔭᐘᐠ ᐅᐦᒋ ᒫᒥᑐᐏᓇ, Area Agencies on Aging, ᒥᓇ Eldercare Locator (800-677-1116) ᐏᒋᐦᐃᐍᐏᓂᐘᐠ ᐊᑐᐢᑫᐏᓇ ᒥᓇ ᐱᒧᐦᑌᐏᓇ ᐅᐦᒋ.
 
-## Why do shared activities matter in dementia?
+## ᑖᓂᐦᑭ ᒫᒥᑐ ᐊᑐᐢᑫᐏᓇ ᒥᔪ ᐃᑌᐦᑕᒧᐏᓂᐘᐠ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+ᐊᐘᐣ ᑲ ᐏᒋᐦᐃᐟ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ, ᐏᒋᐦᐃᐍᐏᐣ ᐅᐦᒋ ᐃᑌᐦᑕᒧᐤ ᒥᔪ ᐃᑌᐦᑕᒧᐏᐣ, ᒥᔪ ᒪᒥᑐᓀᓂᒋᑲᐣ, ᒥᓇ ᐏᒋᐦᐃᐍᐏᐣ, ᓇᒨᐏᐣ ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᑲ ᐱᒧᐦᑌᐦᐃᑯᐠ. Lancet Commission ᐃᑌᐤ ᐊᑐᐢᑫᐏᓇ ᐏᒋᐦᐃᐍᐏᓂᐘᐠ ᐊᐘᓂᐦᐃᐠ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ ᒋ ᑲᓇᐍᔨᐦᑕᒧᐠ ᒥᔪ ᐃᑌᐦᑕᒧᐏᐣ ᒥᓇ ᒥᔪ ᐅᐦᒋ ᐃᑌᐦᑕᒧᐏᐣ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ᐃᑌᐤ ᐊᑐᐢᑫᐏᓇ ᓇᐢᑕ ᐏᒋᐦᐃᐍᐏᓂᐘᐠ ᒥᔪ ᐱᒪᑎᓯᐏᐣ, ᒥᓇ ᓇᐢᑕ ᐱᒧᐦᑌᐦᐃᑯᐠ ᐊᔭᐏᒪᑲᓇ ᑲ ᐃᓯ ᐱᒧᐦᑌᐠ ᒪᐢᑲᐦᒡ ᓀᐦᐃᔭᐍᐏᐣ. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ᒥᓇ ᐃᑌᐤ ᐊᐘᓂᐦᐃᐠ ᑲ ᐏᒋᐦᐃᐟ Alzheimer's ᓇᑕᐍᔨᐦᑕᒧᐘᐠ ᒋ ᐱᒧᐦᑌᐟ ᒥᓇ ᒋ ᐊᑐᐢᑫᐟ ᑲ ᒥᔪ ᐃᑌᐦᑕᒧᐟ.
 
-Ideas that work well:
+ᐃᑌᐦᑕᒧᐏᓇ ᑲ ᒥᔪ ᐃᓯᓈᑯᐠ:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **ᒫᒥᑐ ᒪᓯᓇᐦᐃᑲᓇ ᐘᐸᐦᑕᒧᐠ.** [Conversation Cards](/games/conversation-cards/) ᒥᔼᐤ ᐊᔭᒥᐦᐁᐏᓇ ᓇᒨᐏᐣ ᑲᑲᐧᐁᒋᒧᐏᐣ, ᑲ ᐃᓯ ᐃᑌᐠ «ᐘᐦᑕᒪᐏᐣ…». ᐘᐸᐦᑕ [ᒪᒥᑐᓀᓂᒋᑲᐣ ᒪᓯᓇᐦᐃᑲᐣ](/activities/reminiscence/).
+2. **ᒫᒥᑐ ᒥᑕᐦᐊᐏᐣ.** [Picture Pairs](/games/picture-pairs/) ᒪᓯᓇᐦᐃᑲᓇ ᓇᑲᓇᐤ ᐘᐸᐦᑕᒧᐏᓂᐘᐠ, ᓇᒨᐏᐣ ᐱᓯᒪᐤ ᐊᑭᑕᓱᐏᐣ ᒪᐢᑲᐦᒡ ᐊᑭᐦᑕᓱᐏᐣ, ᐁᑿ ᓇᒨᐏᐣ ᐊᔭᐏᒪᑲᐣ. ᓂᐢᑕ [ᑖᓂᓯ ᒫᒥᑐ ᒥᑕᐦᐊᐏᐣ](/caregiving/how-to-play-together/) ᒪᓯᓇᐦᐃᑲᐣ ᒥᔼᐤ ᐏᒋᐦᐃᐍᐏᓇ.
+3. **ᐏᐦᑭᐦᐃᐧᐊᐠ ᒪᓯᓇᐦᐃᑲᓇ ᐊᐸᒋᐦᐃᐠ.** [Photo Pairs](/games/photo-pairs/) ᒪᓯᓇᐦᐃᑲᓇ ᑲ ᐅᑎᓇᐣ ᒥᑕᐦᐊᐏᐣ ᐃᑌᐦᑕᒧᐤ, ᒥᓇ ᒪᓯᓇᐦᐃᑲᓇ ᑭᔭ ᐊᐸᒋᐦᐃᑲᓂᐠ ᐅᐦᒋ ᑲᓇᐍᔨᐦᑕᒧᐘᐠ.
+4. **ᐊᐘᓂᐦᐃᐠ ᒫᒥᑐ ᐃᑌᐦᑕ.** [Picture Bingo](/games/picture-bingo/) ᒥᔪ ᐃᓯᓈᑯᐣ ᐏᐦᑭᐦᐃᐧᐊᐠ ᒫᒥᑐᐏᓇ ᒥᓇ [ᐱᒥᐸᔨᐦᑕᒧᐏᐣ ᐅᐦᒋ ᒫᒥᑐᐏᓇ](/activities/care-home-groups/).
+5. **ᒫᒥᑐ ᓂᑲᒧᐏᐣ, ᐊᑐᐢᑫᐏᓇ, ᒪᐢᑲᐦᒡ ᑭᐢᑌᑲᐣ.** ᐘᐸᐦᑕ [ᓂᑲᒧᐏᐣ ᐊᑐᐢᑫᐏᓇ](/activities/music/), [ᐏᑭ ᐊᑐᐢᑫᐏᓇ](/activities/household-tasks/) ᒥᓇ [ᐊᑐᐢᑫᐏᓇ ᐃᑌᐦᑕᒧᐏᓇ](/activities/ideas/).
+6. **ᓇᑐᐢᑲᐸᐏᓇ ᔭᐦᑭ ᐃᑌᐦᑕ.** ᓂᐢᑕ [ᓇᑐᐢᑲᐸᐏᐣ ᒪᓯᓇᐦᐃᑲᐣ](/activities/visiting/) ᐘᐦᑕᒪᑫᐤ ᒋᒥᑕ, ᐸᔭᑕᐠ ᓇᑐᐢᑲᐸᐏᓇ ᑲ ᒥᔪ ᐃᑌᐦᑕᒧᐠ ᑲᑭᔭᐤ.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+ᒋᒥᑕ ᒥᓇ ᐸᔭᑕᐠ ᐃᑌᐦᑕ. ᐸᔭᑕᐠ ᐏᑭ ᐯᔭᑯ ᒪᐢᑲᐦᒡ ᓃᓱ ᐊᐘᓂᐦᐃᐠ ᐅᐦᒋ ᒥᔪ ᐃᓯᓈᑯᐣ ᒥᐢᑕᐦᐃ ᒫᒥᑐᐏᐣ. ᑭᔭ ᐊᐘᐣ ᐊᔭᐢᑭᓯᐤ ᒪᐢᑲᐦᒡ ᓇᒨᐏᐣ ᓇᑕᐍᔨᐦᑕᒧᐤ, ᒥᔪ ᐃᑌᐦᑕᒧᐤ ᒋ ᐳᓂᐟ. ᒫᒥᑐ ᐊᐱᐏᐣ ᒥᓂᐦᑵᐸᐦᑯᐣ ᐅᐦᒋ ᒫᓇ ᒥᔪ ᐃᑌᐦᑕᒧᐤ.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+ᐊᐘᐣ ᐯᔭᑯ ᐏᑭᐤ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ, NIA ᐃᑌᐤ ᒋ ᒥᐢᑲᒪᐟ ᐊᐘᐣ ᑲ ᐊᐢᐸᔨᒧᐟ ᑲ ᑭ ᓇᑐᐢᑲᐸᐟ ᐅᑭ ᐘᐱᒪᐏᐣ ᐊᔭᒥᐦᐁᐏᐣ ᑕᐦᑯᐏ ᐱᓯᒪᐤ ᒥᓇ ᑲ ᑭ ᐏᒋᐦᐃᐍᐟ ᐊᔭᐏᒪᑲᐣ ᐅᐦᒋ. ᒥᓇ ᐘᐦᑕᒪᑫᐤ ᐅᑌᓈᐤ ᒪᒥᑐᓀᓂᒋᑲᐣ ᒫᒥᑐᐏᐣ, ᐸᔭᑕᐠ ᒫᒥᑐᐏᐣ ᐊᐘᓂᐦᐃᐠ ᑲ ᐘᓂᐦᐃᑭᓱᐟ ᒪᒥᑐᓀᓂᒋᑲᓂᐏᐠ ᒥᓇ ᐏᐦᑭᐦᐃᐧᐊᐘᐠ ᐅᐦᒋ.
 
-## Caregivers get lonely too
+## ᐱᒥᐸᔨᐦᑕᒧᐘᐠ ᒫᓇ ᐯᔭᑯᐘᐠ
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA ᐃᑌᐤ ᐱᒥᐸᔨᐦᑕᒧᐏᐣ ᐊᐘᐣ ᑲ ᐊᑲᓯᐟ ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᐘᔭᐑᐏᐣ. ᑲᓇᐍᔨᐦᑕ ᐱᓯᒪᐤ ᑭᔭ ᐏᒋᐦᐃᐍᐏᓇ, ᐏᒋᐦᐃᐍᐏᐣ ᒫᒥᑐᐏᓇ, ᒥᓇ ᐊᔭᐤᐱᐏᐣ ᐅᐦᒋ. ᓂᐢᑕ [ᐱᒥᐸᔨᐦᑕᒧᐘᐠ ᐱᒥᐸᔨᐦᑕᒧᐏᐣ ᒪᓯᓇᐦᐃᑲᐣ](/caregiving/caregiver-self-care/) ᒥᔼᐤ ᐏᒋᐦᐃᐍᐏᓇ.
 
-## Talk with a doctor
+## ᐊᔭᒥᐦᐋ ᒫᐢᑭᐦᑭᐤ
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+ᑭᔭ ᒪᐢᑲᐦᒡ ᐊᐘᐣ ᑲ ᐱᒥᐸᔨᐦᑕᒪᐟ ᐯᔭᑯᐤ ᒪᐢᑲᐦᒡ ᐘᔭᐑᐤ ᒥᐢᑕᐦᐃ ᐱᓯᒪᐤ, ᐘᐦᑕᒪᐏ ᒫᐢᑭᐦᑭᐤ. NIA ᐃᑌᐤ ᐊᐘᓂᐦᐃᐠ ᒋ ᐘᐦᑕᒪᐘᐟ ᒥᐢᑕᐦᐃ ᒥᔮᓯᓇᐦᐃᑲᓇ ᐱᒪᑎᓯᐏᐣ ᐅᐦᒋ, ᑲ ᐃᓯ ᓂᐱᐏᐣ ᐏᐦᑭᐦᐃᐧᐊᐤ ᐅᐦᒋ, ᐁᑿ ᒫᐢᑭᐦᑭᐤ ᒋ ᑭᐢᑫᔨᐦᑕᒧᐟ ᑲᑭᔭᐤ. ᒫᒋ ᒪᒥᑐᓀᓂᒋᑲᐣ ᒥᐢᑕᐦᐃ ᐱᓯᒪᐘ ᐅᐦᒋ ᓇᐢᑕ ᐃᑌᐦᑕᒧᐤ ᒫᒋ ᐱᒪᑎᓯᐏᐣ, ᑲ ᑭ ᐱᒧᐦᑌᐦᐃᑯᐠ. ᑭᔭ ᑭᐦᒋ ᐊᔭᐤ ᐅᐢᑭ ᐘᔭᐑᐤ ᐏᒋᐦᐃᐍᐘᐠ ᒪᐢᑲᐦᒡ ᐊᑐᐢᑫᐏᓇ ᑲ ᒥᔪ ᐃᑌᐦᑕᒧᐟ, ᐁᑯᑕ ᒥᔪ ᐃᑌᐦᑕᒧᐤ ᒋ ᐘᐦᑕᒪᐘᐟ ᒫᐢᑭᐦᑭᐤ. ᐊᔭᒥᐦᑕ [ᓂᑲᓂ ᑭᐢᑭᓄᐦᐊᒪᑯᐏᓇ ᒥᓇ ᑖᓂᑌ ᒋ ᓇᑐᐢᑲᐸᐟ ᒫᐢᑭᐦᑭᐤ](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ᐆᒪ ᒪᓯᓇᐦᐃᑲᐣ ᒥᐢᑕᐦᐃ ᑭᐢᑭᓄᐦᐊᒪᑯᐏᐣ ᐃᑌᐦᑕᒧᐤ, ᓇᒨᐏᐣ ᒫᐢᑭᐦᑭᐤ ᐅᐦᒋ ᐘᐦᑕᒪᑯᐏᐣ. ᐘᐸᐦᑕ [ᒫᐢᑭᐦᑭᐤ ᐅᐦᒋ ᐘᐦᑕᒪᑯᐏᐣ](/medical-disclaimer/).

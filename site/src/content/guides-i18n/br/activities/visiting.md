@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Gweladenn d'unan gant demañs en ospital pe en ti soin"
+seoTitle: "Gwelet unan gant demañs: petra ober ha petra gas"
+description: "Petra ober pa weloc'h unan gant demañs en ti soin, en ospital pe e-kichen: petra gas, c'hoarioù simpl, gweladennoù berr ha dibenn mat."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Pa weloc'h unan gant demañs en ti soin pe en ospital, dalc'it aesaet: lavarit
+  hoc'h anv pa vo deuet, degasit tra da rannañ, evel luniennoù, sonerezh pe ur
+  pred karet, ha graet unan dra simpl asambles. Gweladennoù berr ha re
+  gempenn a lak alies traoù da vont gwell eget re hir ha re dremenet. Lakit ur
+  disoc'h kalm ha da vezañ peurheñvel, evit ma vo aesoc'h evit an div-tu.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Degemerit an den dre e anv ha lavarit piv oc'h, evit na rank ket e soñjal ennañ: « Demat Mamm, Susan on, da merc'h. »"
+  - "Degasit un nebeut tra da rannañ, evel un albom luniennoù, sonerezh karet, ur blankedenn fin pe ur pred aprouet gant ar re a labour."
+  - "Gweladennoù berr ha kempenn a vez alies gwelloc'h eget re hir ha re dremenet. Ho presañs a bouez muioc'h eget ar pezh a lavarit."
+  - "En ospital, roit d'ar re a labour ur bajenn asambles a ditouroù diwar-benn an den, ha lavarit d'ar medisin darbet ma vez kemm disoc'h diwar-benn an den."
+  - "Soñjit penaos mont kuit: lavarit peseurt pad a c'hallit chom, implijit an hevelep kenavo bep gwech ha monit kuit hep dale."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Petra a zeuio gant din pa weloc'h unan gant demañs?"
+    a: "Degasit tra da rannañ, n'eo ket tra da gaozeal diwar-benn. Un albom luniennoù bihan, ul lestr sonerezh gant ar c'hanaouennoù karet, ur blankedenn fin, ur stokad krem-dorn pe ur gazetenn diwar-benn ur c'hoari a oa dedennus gant an den, a zo mat. Er ti soin, luniennoù an tiegezh hag traoù anavezet a c'hell lakaat ar gambr da vezañ kenkoulz un ti."
+  - q: "Pet pad a dle din chom pa weloc'h unan gant demañs?"
+    a: "N'eus ket un hirder reizh. Kalz a dud a gav gweladennoù berr ha alies gwelloc'h eget re hir ha re dremenet, rak an den a c'hell bezañ skuizh buan ha n'eo ket sur e kofe ped pad ho peus chomet. Gwelit ar c'hizier skuizh ha monit kuit pa vez c'hoazh mat an darvoud."
+  - q: "Petra a lavarin pa c'houlenn mont d'ar gêr?"
+    a: "Respontit d'ar fromm, n'eo ket d'ar geriou. « Mont a ran d'ar gêr » a dalvez alies « Ne santan ket a-walc'h en ur gêr-mañ pe e surentez. » Klaskit lavarout « Lavarit din diwar-benn ho ti », sellet ouzh luniennoù asambles, pe kinnig ur sae pe ur pred. Disputiñ pe displegañ perak n'hallont ket mont kuit a grog alies ar boan."
+  - q: "Ha ma n'hom anavezfe ket?"
+    a: "Kas a ra poan, met klaskit na reizhit ket anezhañ na lavarit ket « Ha ne anavezit ket piv on? ». Lavarit piv oc'h gant tenerded ha lakit ho amzer asambles da vezañ plijus. Kalz a dud a blij c'hoazh dezho kompagnunezh ha santout tommder ur weladenn, ha ma ne c'hallont ket lakaat piv oc'h."
+  - q: "Penaos e c'hallan skoazellañ e-pad ur chom en ospital?"
+    a: "Chomit gant an den pa c'hallit, skoazellit anezhañ da zebriñ ha da evañ, ha degasit traoù anavezet evel luniennoù. Roit d'ar re a labour ur bajenn a ziskouez hervez petra a ra an den bemdeiz, an anv a fell dezhañ, petra a blij dezhañ, petra na blij ket dezhañ hag arwezioù boan. Lavarit d'ar medisin darbet ma vez an den bruderus pe disheñvel, rak ur gaouiegezh a zeu alies eus un nec'hamant yec'hed."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Gweladenn ouzh un hini a garit en ur gêr-vag, en ur ti soin pe en ospital a c'hell degas kalz a fromoù. Soñjal a rit petra lavarout, petra zegas, pe ma'z eo talvoudus ar gweladenn ma ne gofe ket anezhi. Talvoudus eo. Ar « National Institute on Aging » a notenn e [blij alies dezho ar gompagnunezh](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) an dud a zo gant Alzheimer's, hyd pa ne soñjont ket piv eo an dremenerien. Er bajenn-mañ e weler dra-ha-dra penaos paraat evit ar gweladenn, en ur gweladenn hag goude, ha kilhoarzhoù evit chomadoù en ospital.
 
-## How do I get ready for a visit?
+## Penaos paraat evit ur weladenn?
 
-A little planning makes the visit easier for both of you.
+Ur c'hemm bihan a gustum a ra ar gweladenn aesoc'h evit an div-tu.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Dibabit un eur mat.** Dementia Australia a gemm da weladenn pa vez an den dedennusañ, a zo, evit kalz tud, d'ar mintin pe war-dro kreiz-deiz. Family Caregiver Alliance a lak da soñj deskiñ amzeroù ar ti ha gweladenn e-pad an amzer dieub, [ha n'eo ket e-pad an oberiantizoù](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Kontrollit gant ar re a labour.** Goulennit penaos eo bet an den hiziv, ha gwelit an reolennoù diwar-benn boued, loened pe sortioù.
+- **Pakit ur sac gweladenn bihan.** Un nebeut tra da rannañ a zo a-walc'h (gwelit al listenn a-is).
+- **Soñjit war un nebeud dodennoù.** Marteze n'en deus ket an den keloù da rannañ, neuze degasit deoc'h: keloù an tiegezh, an amzer, ur c'hoari pilpouz, un istor fentus.
+- **Lakit ho c'hortozioù da vezañ reizh.** Gweladennoù a vo c'hoazh karantez hag evezh, re all a vo digompez pe dic'hortoz. Normal eo an eil hag an egile.
 
-## What should I bring?
+## Petra zegas?
 
-Bring things to share, not things that test. Good choices include:
+Degasit traoù da rannañ, ha n'eo ket traoù a laka an den da gemer poan. Dibabit traoù mat evel:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Un albom luniennoù bihan** gant luniennoù bras ha klar. Skrivit an anvioù war an tu all evit ar re a labour.
+- **Ul listenn c'hanaouennoù karet** war ur pellgomzer, gant kleierioù simpl pe ur seniel bihan.
+- **Un dra mein da zal,** evel ur blankedenn, ur gwarel pe ur c'hardigan anavezet.
+- **Krem-dorn** evit ur sae dorn douget, ma blij an den ar c'hontakt.
+- **Ur gazetenn pe ul levr luniennoù** diwar-benn ur c'hoarvezh kozh, evel al liorzhaouriezh, ar c'harr, al evned pe debriñ.
+- **Ur pred karet**, mar lavar ar re a labour e c'hall bezañ diogel.
+- **Traoù anavezet evit ar gambr.** Family Caregiver Alliance a gemm flourioù, plant, luniennoù an tiegezh hag artaloù, pe ur bannieloù bras gant luniennoù an tiegezh eus an amzer dremenet.
+- **Ur ploenenn**, evit sellet ouzh luniennoù an tiegezh pe ober ur c'hoari simpl asambles.
 
-## What can we do together during a visit?
+## Petra a c'hellfemp ober asambles e-pad ar gweladenn?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Ober un dra asambles a lamm ar poan diwar ar gaozeal. Dementia Australia a gemm sellet ouzh luniennoù, ober un dra-dorn simpl, plantañ krennlojoù, sonerezh, rannañ ur pred, pe ur sae en tachennoù ar ti. Ur bern all a zo ivez:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Sellet ouzh luniennoù.** Lakit da welout an hyn a welit: « Sellit ouzh ar c'hapel-se. » « Ar gwenodenn-se a zo kaer. » Lezit an den da gemer ar stern. Chomit hep lavarout « Piv eo an hini-mañ? »
+2. **Seniñ ha kanañ.** Ar c'hanaouennoù anavezet a c'hell sevel ar spered ha degas un amzer rannet, hyd pa vez an discuizh diaes.
+3. **Mont da sae berr.** Family Caregiver Alliance a gemm mont en-dro en ti soin, dreist-holl en liorzh mar en deus unan. Ur sae gant ur c'harr-roud a zo ivez ur sae.
+4. **Ober ur sae dorn.** Un nebeud krem-dorn ha bleinadoù lent war an daouarn a c'hell lakaat an den da vezañ kalmet.
+5. **Skoazellañ evit ober ur bleo.** Dementia Australia a zo ur bleo: kribañ ar blev, pentañ an ivinelloù pe skoazellañ an den da wiskañ un dilhad karet, mar plij dezhañ.
+6. **Ober ur c'hoari simpl.** Family Caregiver Alliance a gemm kartoù, domino, pe ar pezh a implije an den da c'hoari. War ur pellgomzer e c'hall [Picture Pairs](/games/picture-pairs/) bezañ c'hoariet gant al luniennoù gwelus hep amzer-kont. [Photo Pairs](/games/photo-pairs/) a laka al luniennoù dibabet ganeoc'h da vezañ ur c'hoari kevatal, hag al luniennoù a chom en ho merdeer.
+7. **Gwelet un dra asambles.** Family Caregiver Alliance a gemm filmoù fentus ha filmoù kozh. Ha ne c'hall ket an den heuliañ ar istor, e c'hallit chom tost ha rannañ an amzer.
+8. **Lenn gant mouezh uhel.** Ur barzhonegenn berr, ur pennad karet, pe ul lizher gant unan eus an tiegezh.
+9. **Chom asambles hep lavarout netra.** Daliañ an daouarn pe chom en distaolerezh a zo ur weladenn gwir. Ar Alzheimer's Association a notenn n'eus ket ezhomm ober gant ar gaozeal bep amzer, ha ho presañs a bouez an muiañ.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) a c'hell skoazellañ pa vez echu ganeoc'h ar pezh a lavarfec'h. Pep karta he deus ur skeudenn ha ur goulenn digor.
 
-## How should I talk during the visit?
+## Penaos e komzin e-pad ar gweladenn?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Lavarit piv oc'h bep gwech.** « Demat Tad, Mark on, da vab. » Ar NIA a gemm ma lavar ar weladennerien o anv berr evit kregiñ ouzh ar gaozeal.
+- **Dont adalek ar raok** ha chomit war an uhelder eus al daoulagad.
+- **Na reizhit ket ha na disputit ket.** Ar NIA a gemm na reizhit ket an den pa wall ur fazi pe pa ankouaät un dra.
+- **Bezit pasiant** pa vez diaes kavout ar geriou. Roit amzer a-walc'h.
+- **Respontit d'ar fromm.** Ma welit an den tristik pe iaouank, anavezit se a-raok kemmañ ar sujed.
+- **Disec'hit an holl goulennoù kaez** evel « Ac'hanon a zo soñj ganeoc'h? » pe « Petra debriñt deiz-mañ? ».
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Gwelit hor [awennoù kaozeal](/caregiving/communication-tips/) evit muioc'h a dra.
 
-## What do I do when they say "I want to go home"?
+## Petra ober pa lavar « Mont a ran d'ar gêr »?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Respontit d'ar fromm a zo dindan ar geriou (hor produ a [ar mare pa c'houlenn an den mont d'ar gêr](/caregiving/asking-to-go-home/) a ya pelloc'h). Family Caregiver Alliance a zisplega e vez alies « Mont a ran d'ar gêr » evel « Ne santan ket a-walc'h ». Ha ne c'houlennont ket lavarout « Lavarit din diwar-benn ho ti » pe « Petra eo ar pezh a blij ac'hanoc'h en ti? ». Dementia Australia a ouzhpenn e c'hall « ar gêr » t裁 ur prantad pe ul lec'h m'en doa an den santet diogel, evel e vugaleaj.
 
-Try:
+Klaskit:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- anzav ar fromm: « Ur gwir fazi ho peus eus ho ti. »
+- kinnig kempenn dre an dourn, mar plij
+- sellet ouzh luniennoù pe komz diwar-benn ti an tiegezh
+- kinnig ur sae, ur banne pe ur pred
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Na ziskouezit ket fazi ha na displegit ket perak n'hallont ket mont kuit. Ne ser ket alies, hag alies e kresk ar boan.
 
-## How long should a visit be?
+## Pet pad a dle bezañ ur weladenn?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Berroc'h ha pelloc'h a vez alies gwelloc'h. Family Caregiver Alliance a notenn n'eo ket sur e kofe an den ha pemp munud pe pemp eur ho peus chomet, ha a gemm tri weladenn berr dre sizhun a c'hell bezañ gwelloc'h eget unan hir. Dementia Australia a lavar n'eus ket un niver reizh a weladennoù nag un hirder reizh.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Er c'hentañ sizhunioù goude bezañ bet lakaet en ur ti soin, Family Caregiver Alliance a gemm mont alies, ha diwezhatoc'h kavout ur patrom reizh. Goulennit ouzh ar re a labour petra welont.
 
-## How do I leave without upsetting them?
+## Penaos mont kuit hep reiñ poan d'ezhañ?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Monet kuit a c'hell bezañ ar pezh a zo diaesañ. Dementia Australia a gemm:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Lavarit pegement a c'hallit chom pa dizhit.** « Gallout a ran chom un eurvezh, neuze e vezin o vont da brenañ traoù. »
+- **Implijit un oberiant evel fin naturel.** « Pa vo echuet ar c'hanaouenn-mañ, e vin kuit. »
+- **Kemmit an eur gant ur boued pe un oberiant,** pe goulennit ouzh ar re a labour skoazellañ an den da chom en ul labour all.
+- **Miret ar c'henavo berr ha par bep gwech.** Pa vez hir pe pa vez graet pardonoù pe pa vez lavaret « chom un nebeut pelloc'h », e c'hell ar c'henavoioù da zont bezañ kaletoc'h.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Goude monet kuit, normal eo bezañ tristik. Lezit ho spered da bezhiañ. Ma'z eo bet dic'hontent an den, a-vremañ e c'hell ar re a labour skoazellañ anezhañ da zont en-dro en he stad a vadelezh.
 
-## Visiting someone with dementia in the hospital
+## Gweladenn ouzh unan gant demañs en ospital
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Ur gêr-spitaal a zo tabut, dianav hag leun a dud dianav, ha se a c'hell bezañ diaes-tre evit un den a chom gant demañs. Ar gidog a ra ar NIA diwar-benn [degas un den gant Alzheimer's d'an ospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) a gemm:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Kaout unan a chom gant an den** kement ha ma c'hallit: un aelod eus an tiegezh, ur mignon a fiziañs pe un tuduer paeet.
+- **Reiñ d'ar re a labour ur bajenn a ditouroù personel** diwar-benn ar vuhez pemdeziek, an anv a fell d'an den, ar pezhioù a blij ha na blij ket dezhañ, an traoù a c'hell lakaat anezhañ da vezañ dic'hontent ha arwezioù boan dre ar c'horf ha ne vez ket lavaret. Lakit eilskridoù er gambr hag e lec'h ar vrizhonezed.
+- **Skoazellañ evit debriñ ha evañ.** Ar re gozh a c'hell bezañ diboell e-pad ur chom en ospital. Digeriñ ar pakadoù, skoazellañ ar boued, debriñ asambles ha kinnig dour.
+- **Degasit traoù a glok** evel al luniennoù pe traoù spirituel.
+- **Lakit an dourlamm da vezañ izelloc'h.** Diweredit an TV ha lakit izelloc'h mouezh ar pellgomzerioù ha ar c'hengomzerioù.
+- **Klaskit goulennoù kalmañ,** evel sonerezh lenn, pedadennoù, kanañ pe sellet ouzh luniennoù kozh.
+- **Lakit an den da vont en-dro** kement ha ma c'hall bezañ diogel, gant aprobadur ar re a labour.
+- **Lavarit d'ar medisin darbet ma vez an den bruderus pe disheñvel.** Ar NIA a zisplega e c'hall ur gaouiegezh vras, a vez graet « delirium », dont dre gudennoù evel un infekt, ur fiev, ur sec'hder pe dre effetoù ur medisin, ha rekis eo kaout soin medisinel.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Ur weladenn berr ha kalm gant ur fenn anavezet ha ur sonerezh karet a c'hell bezañ ar pezh a gonfort an muiañ en un deiz en ospital.
 
-## Bringing children on a visit
+## Degas bugale d'ur weladenn
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Bugale a c'hell degas kalz a yezhadur. Preparit anezho a-raok gant gerioù simpl ha gwir, miret ar weladenn berr, ha roit deskar dezho, evel diskouez ur marilh pe lakaat ur luniennig en duilhou. Ar NIA a gemm e c'hall ar vugale ha tud gant Alzheimer's c'hoari gant oberiantizoù simpl asambles, evel sellet ouzh un albom luniennoù pe harzel sonerezh. Dementia Australia a gemm degas ur sac bihan gant gourmantizoù pe traoù tev evit derc'hel ar bugale yaouank en-dro.
 
-## Take care of yourself too
+## Miret ac'hanoc'h ivez
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ar weladenn a c'hell bezañ skuizhus ha diaes war an spered, dreist-holl ma'z eo cheñchet kalz an den. Mat eo gweladenniñ nebeutoc'h alies ma'z eus ezhomm, degas ur mignon evit skoazell, pe mont kuit a-raok ma vo un deiz kaled. Evit kavout ideoù evit en em evezhiañ, gwelit [en em evezhiañ an tadeg](/caregiving/caregiver-self-care/). Ma chomit pell, gwelit hor c'hidenn diwar-benn [galvoù dre bellgomzer pe dre video](/activities/phone-and-video-calls/).

@@ -1,32 +1,32 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Arto e manuo-labori por adulti kun dementeso"
+seoTitle: "Arto e labori por dementeso: por adulti"
+description: "Idei pri arto e manuo-labori por adulti vivanta kun dementeso, de aquarelo e kolaĵo til flor-aranjo, kun konsili pri preparo, adapto e plezuro di la ago."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Bona arto e manuo-labori por adulti vivanta kun dementeso semblas e sentesas
+  por adulti: aquarelo, kolaĵo ek revui, flor-aranjo, argilo, simpla karto-
+  fabriko o kolorizar-pagini por adulti. Preparez kelka materiali, helpez kun
+  l’unesma streko se necesa, parolez dum ke vu laboras, e konsideres la tempo
+  pasigita kune kom la precipua skopo. Finita verko esas fakultativa.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Selektez materiali e temi qui semblas por adulti, exemple aquarel-papero, vera flori e imaji ek revui, ne bril-pulvero, etiketi o puerala desegnuri."
+  - "Centrizez vu sur la ago: la kolori, la sento dil argilo, la konverso. Finita verko esas nur plusajo, ne la skopo."
+  - "Donez utila skopo kande posibla, exemple karto por nepot(in)o o tablo-centrajo por la manjo-tablo."
+  - "Helpez la persono komencar, pose retroirez. Komencar brusho-streko kune esas ofte suficanta."
+  - "Projeti ne bezonas finigesar en un sola sidado, e haltar frue esas sempre aceptinda."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Quale me povas evitar ke la manuo-labori sembles puerala?"
+    a: "Uzez vera arto-materiali, temi por adulti e respektinda tono. Remplacez bril-pulvero e puerala pagini per aquarel-papero, stofo, flori, fotografuri ek revui e detaloza kolorizar-pagini. Ne laudez la verko quale on laudas desegnuro di infanto; parolez pri olu quale vu parolus kun irga adulta amiko."
+  - q: "Qua arto-agadi funcionas bone en plu tarda stadio di dementeso?"
+    a: "Simpla, sensala projeti funcionas maxim bone plu tarde: piktar larja streki per granda brusho, presar mola argilo, aranjar kelka flori en vazo, o klasifikar peci di stofo segun lia sento. Vu forsan devas komencar la movo kune. Regardar vu dum ke vu piktas e parolar pri la kolori anke esas maniero partoprenar."
+  - q: "Quo facar se la persono dicas ke lu ne povas desegnar?"
+    a: "Forprenez la preso. Probez projeti sen justa respondo, quale aquarela koloro-lavuro, kolaĵo o flor-aranjo. Vu anke povas dicar ke vu bezonas helpo pri specifika kozo, exemple selektar kolori por karto, por ke la tasko sembles kom favoro e ne kom provo."
+  - q: "Ka kolorizar-pagini esas tro puerala por adulti?"
+    a: "No, kande li esas facita por adulti. Selektez pagini kun temi por adulti, exemple gardeni, kovrili, automobili o peizaji, e prezentez li kom relaxiganta, ne kom leciono. Nia kolorizar-pagini povas imprimesar o kolorizesar sur tabuleto."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Arto e manuo-labori donas a personi vivanta kun dementeso maniero expresar su sen dependar de trovar la justa vorti. L’Alzheimer’s Association notas ke arto-projeti povas donar [sento di suceso e skopo](https://www.alz.org/help-support/caregiving/daily-care/art-music) e chanco por su-expreso, por la sucianto same kam por la persono kun dementeso. La precipua afero esas mantenar la kozi simpla, por adulti e sen preso. Ca pagino donas konkreta projeti, quale preparar li e quale adaptar li kande la kozi chanjas.
 
-## What makes an art activity adult and not childish?
+## Quo facas ke arto-agado semblas por adulti e ne puerala?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Arto-agado por adulti uzas vera materiali, temi por adulti e respektinda tono. L’Alzheimer’s Association konsilas mantenar projeti ye adulta nivelo e evitar irgo quo povus semblar humiliganta o puerala.
 
-| Feels childish | Feels adult |
+| Semblas puerala | Semblas por adulti |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Bril-pulvero, spumo-etiketi, movanta okuli | Aquarel-papero, stofo, presita flori |
+| Puerala kolorizar-pagini | Kolorizar-pagini pri gardeni, kovrili, automobili o peizaji |
+| Laudar omna streko per «bone facita» | Reala konverso: «Ta blua koloro esas bela apud la verda» |
+| Manuo-laboro sen utileso | Karto por amiko, tablo-centrajo, donaco |
+| Instrucioni qui semblas kom leciono | Invito: «Ka vu volus helpar me pri to?» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Pensez pri la propra gusto di la persono. Ulu qua amis kudrado forsan prizos tushar stofo. Ex-injenioro forsan preferos modelo-konstrukto kun granda peci o klasifikar utensili por projeto. Ex-instruisto forsan prizos facar karti.
 
-## Why focus on the process, not the product?
+## Pro quo centrizar sur la ago, e ne sur la rezulto?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Pro ke la tempo pasigita kune esas la precipua skopo. La guidilo di l’Alzheimer’s Association pri [agadi en hemo](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) dicas ke on debe koncentrar sur la ago, ne sur la rezulto. Pikturo qua esas «nur blua» esas tamen pikturo. Kolaĵo kun tri imaji esas tamen kolaĵo.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+L’Asocio anke notas ke profesionala artisto povus sentar su frustrata pro chanji en sua laboro, dum ke amatoro povus juar nova chanco expresar su. Se la persono esis habila artisto, probez diferanta moyeno kam ta quan lu dominacis, por ke olu semblas kom ludo e ne kom komparo.
 
-## Arts and crafts ideas to try
+## Idei pri arto e manuo-labori por probar
 
-Each idea includes how to make it simpler if it becomes hard.
+Singla ideo inkluzas quale simpligar olu se olu divenas desfacila.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Aquarela koloro-lavuri.** Humidigez folio de dika aquarel-papero e lasez la persono faligar koloro sur olu per granda brusho. La kolori difuzas su ipsa, do existas nula mala rezulto. *Plu simple:* ofrez nur du kolori, o piktar per aquo sur obskura papero qua montras la humidaj marki.
+2. **Kolaĵo ek revui.** Tranchez imaji ante ek revui pri gardenado, koquado, automobili, voyajo o anciena hobii di la persono. Lasez lu selektar e gluar imaji sur kartono. *Plu simple:* ofrez quar ante-tranchita imaji e glu-stiko, e gluez kune.
+3. **Flor-aranjo.** L’Alzheimer’s Foundation of America sugestas [aranjar tranchita flori e verda folii](https://alzfdn.org/dementia-activity-gardening/) en simpla sezonala aranji. Uzez pezoza, stabila vazo e stele jam tranchita. *Plu simple:* pozar kelka stele en mikra taso, un pos altra.
+4. **Karti kun presita flori.** Presar flori ek buketo inter pagini di libro dum un semano, pose gluar li sur faldita kartono. *Plu simple:* vu pozas la gluo, lu presas la floro.
+5. **Kolorizar-pagini por adulti.** Selektez pagini kun klara konturi e reala temi. Nia imprimebla [kolorizar-pagini](/games/coloring/) anke povas kolorizesar sur ekrano per tuchetar koloro, pose parto di la imajo. *Plu simple:* plu granda arei, min kolori, dika felto-plumi.
+6. **Argilo o mola pasto.** Rular, presar e formizar aero-sekiganta argilo o mola model-pasto. Presar folio en argilo facas simpla imprimita kahelo. *Plu simple:* nur presar e rular esas kompleta agado. Atencez ke la persono ne pozas argilo en sua boko.
+7. **Karto-fabriko.** L’Alzheimer’s Association sugestas prezentar olu kom reala tasko: «Ni sendas karto "bon-saneskez" a amiko. Ka vu helpos?» Ante-tranchita kartono e kelka etiketi kun flori o stampi funcionas bone.
+8. **Albumo-fabriko.** Pozar kune kopii di anciena fotografuri, karti-postala o bileti sur albumo-pagini. Parolez pri singlu dum ke vu avancas. Videz nia [guidilo pri rememoro](/activities/reminiscence/) por dolca manieri parolar pri la pasinto.
+9. **Stofa e sento-tabeli.** Gluar peci di korduro, veluro, juto e silko sur rigida kartono. Facar olu esas l’agado; tushar olu pose esas altra. Plu multa idei esas en nia [guidilo pri sensala agadi](/activities/sensory/).
+10. **Simpla ligno-finizo.** Por ulu qua prizis ligno-laboro, sablizar glata bloko di ligno o piktar ucel-dometo povas semblar familiara. Forprenez akuta utensili e suciar la agado.
+11. **Piktar kun muziko.** Pleez favorata muzik-peco e piktar formi o kolori qui kongruas kun la sento. To kunigas du agadi quin multa personi prizas. Videz [muzikala agadi](/activities/music/).
 
-## How do I set up an art session?
+## Quale me preparas arto-sesiono?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Preparez ante.** Tranchez, ajustez e aranjez omno ante invitar la persono. Vartar dum ke vu serchas cizeli povas perdar la momento.
+2. **Mantenar olu mikra.** Du o tri kolori, un brusho, un folio di papero. Tro multa selekti povas esar tro multa.
+3. **Protektez la tablo.** Plastika toalo o anciena lintolo helpas ke desordino ne divenas zorgo.
+4. **Sidez un flanke di altra.** Laboras sur vua propra peco apud lua. To semblas kom ago facita kune, ne kom suciado.
+5. **Helpez komencar.** L’Alzheimer’s Association notas ke vu forsan devas komencar la brusho-movo kun la persono. Pos komenco, multa personi duras.
+6. **Parolez dum ke vu laboras.** Komentez pri kolori e texturi, o lasez l’arto duktar a rakonti. Evitez questioni quale provo, exemple «Quo esas to?»
+7. **Permisez suficanta tempo.** Projeto ne bezonas finigesar en un sola sidado.
 
-## How do I adapt art as dementia changes?
+## Quale me adaptas arto kande dementeso chanjas?
 
-| Stage | What tends to work | What to adjust |
+| Stadio | Quo ofte funcionas | Quo ajustar |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Frua | Kursi, detaloza kolorizo, albumi, karto-fabriko, piktar segun fotografuro | Ofrez selekto di projeti; mantenar olu sociala |
+| Meza | Ante-tranchita kolaĵo, aquarela lavuri, flor-aranjo, kolorizo kun granda arei | Un etapo singlfoye; vu facas la trancho e gluado |
+| Tarda | Larja brusho-streki, presar argilo, tushar stofo, regardar vu piktar | Centrizez vu sur la sensi; gidez la manuo dolce se to esas bonvenata |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS sugestas ke en plu tarda stadii, agadi esas ofte simpligita e centrigas sur la sensi. Regardar altru dum ke lu piktas, e parolar pri la kolori, esas reala maniero partoprenar. Por plu multa idei segun stadio, videz [agadi por omna stadii](/activities/ideas/).
 
-## Safety with art supplies
+## Sekureso pri arto-materiali
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Selektez pikturi, felto-plumi e glu-stiki sen toxiki.
+- Mantenar cizeli, trancho-kulteli e varma glu-pistoli for di ating-ebleso. Facez omna trancho vu ipsa, ante.
+- Atencez se ulu pozas argilo, pikturo o mikra objekti en sua boko.
+- Uzez stabila, pezoza uji por aquo e vazi.
 
-## When should we stop?
+## Kande ni devas haltar?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Haltez kande la atenco vagas o kande frustrado aparas. L’Alzheimer’s Association sugestas finar o chanjar agado kande la atenco diminutas o frustrado kreskas. Pozar la projeto en sekura loko e ofrez irgo quieta. Vu povas retrovenar ad olu morge, o nultempe. Amba esas bone.
 
-## Display the work, if the person wants
+## Montrez la verko, se la persono volas
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Fiksar pikturo sur la frigidizilo o enkadrigar kolaĵo povas esar quieta maniero montrar respekto. Questionez ante. Kelka personi prizas vidar sua verko sur la muro; altri preferas ne.
 
-## Pair art with our games
+## Kombinez arto kun nia ludi
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+En dii kande preparar pikturi esas tro multa, [Kolorizo](/games/coloring/) funcionas sur tabuleto sen desordino. [Imajo-puzlo](/games/picture-puzzle/) mantenas la tota imajo videbla kom guidilo dum ke vu chanjas peci. [Konverso-karti](/games/conversation-cards/) ofras apertita questioni qui povas duktar de imajo a rakonto. Omnu havas nula tempizilo o puntizo. Vu anke povas imprimar pagini de nia kolekto di [imprimebla agadi](/activities/printable/).

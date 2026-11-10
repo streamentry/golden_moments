@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Pühadetegevused dementsusega inimesele"
+seoTitle: "Pühade- ja tänupühaideed dementsuse korral"
+description: "Lihtsad pühadetegevused dementsusega inimesele: köögitööd, kaunistamine, muusika, fotod ja videokõned ning nõuanded rahulikuma püha planeerimiseks."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Pidage pühi väiksemalt, päeva varasemas osas ja inimese tavapärase
+  rutiini lähedal. Andke talle päris ja ohutu ülesanne, näiteks laua
+  katmine, köögiviljade pesemine, kingituse pakkimine või kaunistuse
+  riputamine. Jagage tuttavat muusikat ja vanu fotosid, valmistage külalisi
+  ette ning tehke valmis vaikne tuba. Tehke ainult seda, millega saate
+  mõistlikult toime tulla; lühike ja rahulik tähistamine on hea tähistamine.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Tähistage päeva varasemas osas, näiteks lõuna või hilise hommikusöögiga, kui segadus õhtupoolikul on sage."
+  - "Pakkuge päris ülesandeid: laua katmine, köögiviljade pesemine, pakkimine, kaunistamine või magustoidu taldrikule panemine."
+  - "Tuttav muusika, laulud ja vanad fotoalbumid on lihtsad viisid pühade jagamiseks."
+  - "Rääkige külalistele ette, mida oodata, ja näidake inimesele fotosid neist, kes tulevad."
+  - "Tehke valmis vaikne tuba lemmikteki või kampsuniga ning laske külalistel käia korraga vähestes."
+  - "Jätke vahele kõik, mis võib üle koormata, sealhulgas kaunistused, mis näevad välja nagu toit, ning palju vilkuvaid tulesid."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Mida saab dementsusega inimene tänupühal teha?"
+    a: "Andke talle lihtne ja ohutu ülesanne, mis sobib sellega, mida ta täna teha suudab: köögiviljade pesemine, jõhvikakastme segamine, laua katmine, salvrätikute voltimine või magustoitude taldrikule panemine. Hiljem vaadake koos vanu perefotosid või laulge tuttavaid laule. Olulisem on päeva osa olla kui see, kuidas ülesanne välja tuleb."
+  - q: "Kas peaksime siiski korraldama suure perekokkutuleku?"
+    a: "Ainult siis, kui see on jõukohane. Rahvahulgad ja müra võivad üle koormata, mistõttu paljud pered valivad väiksema ja vabama kokkutuleku, varasema söögikorra või külalised, kes käivad väikeste gruppidena. Alzheimer's Association julgustab hooldajaid tegema ainult seda, millega nad saavad mõistlikult ja ohutult toime tulla."
+  - q: "Kuidas valmistada ette pereliikmeid, kes pole ammu külas käinud?"
+    a: "Rääkige neile enne saabumist muutustest, mida nad võivad märgata, ja et need tulenevad haigusest, mitte inimesest endast. Paluge neil mitte parandada ega küsitleda, rääkida ükshaaval ja anda vastamiseks aega. Abiks võib olla ka see, kui näitate inimesele külaliste fotosid juba varem."
+  - q: "Millised pühadekingitused sobivad dementsusega inimesele?"
+    a: "Lihtsad ja ohutud asjad, millest ta saab praegu rõõmu tunda: lemmiksnäkk, pehme tekk või kampsun, tuttav muusika või pere fotoalbum. Vältige keerukaid elektroonikaseadmeid, tööriistu ja nõudlikke lauamänge. Ka kingiandmisse kaasamine, näiteks kingituse pakkimine või küpsiste karpi panemine, mida ta aitas küpsetada, võib iseenesest kingitus olla."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Pühad võivad tuua tagasi sooje mälestusi, aga ka müra, rahvahulki ja muudatusi tavapärases päevaplaanis. Dementsusega inimese jaoks on parimad tähistamised tavaliselt väiksemad, rahulikumad ja üles ehitatud sellele, millest ta saab veel rõõmu tunda. Need ideed sobivad nii tänupühaks, jõuludeks, hanukaks, uueks aastaks kui ka pere sünnipäevadeks.
 
-## How do I plan a calmer holiday?
+## Kuidas planeerida rahulikum püha?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Alustage inimese tavapärasest rutiinist ja planeerige päev selle ümber. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) soovitab pidada tähistamist päeva varasemas osas, sest segadus ja rahutus suurenevad sageli hilisel pärastlõunal ja õhtul (seda nimetatakse mõnikord õhtuseks rahutuseks). Pühade lõuna või hiline hommikusöök võib olla kergem kui hiline õhtusöök.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Hoidke kogus paras.** Väiksem ja vabam kokkutulek või külalised, kes saabuvad väheste kaupa, on sageli kergem kui üks rahvarohke laud.
+- **Jagage ülesandeid.** Paluge sugulastel tuua mõni toit, teha sisseoste või veeta aega inimesega, samal ajal kui teie süüa teete. Öelge täpselt, mis aitaks.
+- **Hoidke kaunistused lihtsad.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) märgib, et vilkuvad tuled võivad segadust tekitada ning kommid või kunstviljad kaunistustena võivad toiduga segi minna.
+- **Otsustage, millest loobuda.** Kui mõni traditsioon on muutunud pingeliseks või riskantseks, on täiesti sobiv see vahele jätta või proovida midagi rahulikumat.
 
-## What holiday activities can we do together?
+## Mida saame koos teha?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Valige ülesandeid ja tegevusi, mis sobivad sellega, mida inimene täna teha suudab. Olulisem on päeva osa olla kui see, kuidas see välja tuleb.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Katke koos laud.** Pange kõigepealt taldrikud, siis salvrätikud ja seejärel tassid. Salvrätikute voltimine on hea istudes tehtav ülesanne.
+2. **Peske ja sorteerige köögivilju.** Kartulite loputamine või aedoalillede murdmine köögilaua ääres on turvaline ja tuttav paljudele, kes on varem süüa teinud.
+3. **Segage, miksige või asetage taldrikule.** Jõhvikakastme segamine, lihtsa taigna segamine või küpsiste taldrikule panemine hoiab käed hõivatud eemal pliidist ja nurgest.
+4. **Pakkige kingitus.** Lõigake paber ja teip ette ning laske inimesel voltida ja siluda. Paki ilusa väljanägemise pärast pole vaja muretseda.
+5. **Riputage üles mõned kaunistused.** Valige purunematud ehted ja üks väike koht, näiteks pärg või väike kuusk.
+6. **Tehke lihtne käsitöö.** Paberketid, lehekollaaž või pühadetervitus templitega sobivad hästi. Meie [kunsti- ja käsitööjuhendist](/activities/arts-and-crafts/) leiate rohkem ideid.
+7. **Laulge ja kuulake.** Tuttavaid jõulu- ja pühadelaule on lihtne kaasa laulda ka siis, kui inimene räägib nüüd vähem. Vaadake meie [muusikajuhendit](/activities/music/) esitusloendi koostamiseks.
+8. **Vaadake vanu pühadefotosid.** Võtke välja albumid varasematest tähistamistest ja kutsuge üles lugusid jutustama („Räägi mulle sellest lauast”), selle asemel et küsida, kes on pildil. Meie [mälestuste jagamise juhend](/activities/reminiscence/) selgitab, kuidas seda teha.
+9. **Mängige rahulikku ühist mängu.** [Pilbingo](/games/picture-bingo/) saab mõne minutiga välja printida ja sobib igas vanuses mängijatele ning [vestluskaardid](/games/conversation-cards/) annavad kõigile jututeema.
+10. **Värvige koos.** Lihtsaid [värvimislehti](/games/coloring/) saab printida, et lapsed ja vanavanemad saaksid laua ääres koos tegutseda.
+11. **Vaadake lemmikpühadefilmi.** Tuttav film on rahustav ja sellest on täiesti piisav vaadata ka ainult osa.
+12. **Tehke lühike autosõit tulede vaatamiseks.** Rahulik sõit kaunistatud majade juures võib olla kergem kui rahvarohke üritus.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Kui toiduvalmistamine oli inimese elus tähtsal kohal, leiate meie juhendist [kodutööd tegevustena](/activities/household-tasks/) rohkem viise, kuidas teha köögitöid turvaliselt ja rahuldust pakkuvalt.
 
-## How do I prepare guests?
+## Kuidas külalisi ette valmistada?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Rääkige külalistele enne nende saabumist, mida oodata, eriti sugulastele, kes pole ammu külas käinud. Alzheimer's Association soovitab selgitada, et muutused mälus ja käitumises tulenevad haigusest, mitte inimesest endast.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Jagage paar lihtsat nõuannet:** rääkigu korraga üks inimene, andke aega mõtte lõpetamiseks, ärge parandage ega küsidelge ning vastake inimese toonile, kui sõnadest on raske aru saada.
+- **Öelge, mis aitab ja mis häirib.** Kui valjud hääled, kiirustamine või teatud teemad tekitavad pinget, rääkige sellest.
+- **Tutvustage külalisi ette.** Näidake inimesele fotosid neist, kes tulevad, ja jagage paar lugu või tehke enne püha lühike telefonikõne või videovestlus.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Meie [suhtlemisnõuanded](/caregiving/communication-tips/) annavad selle kohta rohkem teavet.
 
-## What if it gets to be too much?
+## Mis siis, kui kõigest saab liiga palju?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Tehke enne külaliste saabumist valmis vaikne tuba, mürast eemal, koos tuttavate mugavusasjadega, näiteks lemmikteki, kampsuni või lihtsa tegevusega. Pakuge seda võimalust varakult ja sageli: „Kas istume korraks kuskile vaiksemasse kohta?”
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Lauast lahkumine, varem magama minek või osa päevast vahelejätmine on hea tulemus, mitte ebaõnnestumine. Kui inimene muutub rahutuks, aitab rahulik hääl, tuttav laul või jalutuskäik teise tuppa sageli rohkem kui selgitamine. Meie juhend [õhtusest rahutusest](/caregiving/late-day-restlessness/) pakub õhtuteks rohkem ideid.
 
-## How can family far away take part?
+## Kuidas saavad kaugel elavad pereliikmed osa võtta?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Videokõned võimaldavad sugulastel kaasa lüüa ilma rahvahulka lisamata. Alzheimer's Association soovitab anda kõnedele veidi struktuuri, näiteks laulda koos pühadelaule, jagada pilte varasematest kokkutulekutest, valmistada koos sama retsepti järgi toitu või vaadata samal ajal pühadefilmi. Hoidke kõned lühikesed ja paluge inimestel rääkida ükshaaval, sest üksteisele rääkimist on raske jälgida. Meie [telefonikõnede ja videokõnede juhend](/activities/phone-and-video-calls/) pakub samm-sammult ideid.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Kui inimene elab mäluhoolduskeskuses, uurige külastamise korda ja paluge töötajatel kõne üles seada. Meie juhend [mäluhoolduskeskuses külastamisest](/activities/visiting/) annab nõu, mida kaasa võtta ja kuidas külastust hästi lõpetada.
 
-## What gifts suit someone with dementia?
+## Millised kingitused sobivad dementsusega inimesele?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Lihtsad ja ohutud kingitused, millest inimene saab praegu rõõmu tunda, sobivad tavaliselt kõige paremini: lemmiksnäkk, pehme tekk või kampsun, tuttav muusika, suure trükiga kalender või pere fotoalbum. Alzheimer's Association soovitab vältida ohtlikke tööriistu, keerukaid elektroonikaseadmeid ja nõudlikke lauamänge.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Andmine võib olla sama oluline kui saamine. Küpsiste karpi panemine, mida inimene aitas küpsetada, või tema kaasamine ostetud kingituse pakkimisse laseb tal pühadest osa saada. Veel üks idee on pere fotomäng: [fotopaarid](/games/photo-pairs/) muudab mõned valitud fotod brauseris rahulikuks paaritamismänguks.
 
-## Look after yourself too
+## Hoolitsege ka enda eest
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Pühad lisavad hooldamisele tööd. Laske kellelgi teisel võõrustada või kalkunit küpsetada, öelge ära üritustele, mis on rasked, ja tehke pause, samal ajal kui teised veedavad aega inimesega. Kui teie või inimene, kelle eest te hoolitsete, on haige, on sissesõiduteelt lehvitamine või videokõne täiesti sobiv külastus. Meie juhend [hooldaja enesehoolest](/caregiving/caregiver-self-care/) pakub rohkem tuge.

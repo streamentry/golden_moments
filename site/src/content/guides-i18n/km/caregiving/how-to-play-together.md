@@ -1,34 +1,34 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "របៀបលេងល្បែងជាមួយអ្នកដែលមានជំងឺបាត់បង់ការចងចាំ"
+description: "មគ្គុទ្ទេសក៍ជាក់ស្តែងសម្រាប់លេងល្បែងជាមួយអ្នកដែលមានជំងឺបាត់បង់ការចងចាំ៖ ការរៀបចំ ការកំណត់ល្បឿន ការមិនកែតម្រូវ ការធ្វើឱ្យល្បែងងាយស្រួល និងការដឹងពេលណាដែលគួរឈប់។"
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  ចាត់ទុកល្បែងជាពេលវេលានៃការនៅជាមួយគ្នា មិនមែនជាការសាកល្បងទេ។ ជ្រើសរើសពេលវេលាស្ងប់ស្ងាត់ក្នុងមួយថ្ងៃ
+  អង្គុយក្បែរគ្នានៅក្នុងបន្ទប់ស្ងប់ស្ងាត់ ហើយស្នើល្បែងសាមញ្ញមួយ។ អនុញ្ញាតឱ្យអ្នកដែលអ្នកថែទាំកំណត់ល្បឿនផ្ទាល់ខ្លួន
+  កុំកែតម្រូវកំហុសដែលមិនបង្កបញ្ហា ធ្វើឱ្យល្បែងងាយស្រួលនៅពេលចាប់ផ្តើមមានភាពតានតឹង
+  ហើយប្រែក្លាយរូបភាពទៅជាការសន្ទនា។ ឈប់នៅពេលដែលនៅតែមានអារម្មណ៍ល្អ។
+  ការបញ្ចប់មុនពេលកំណត់ ឬគ្រាន់តែមើលជាមួយគ្នា គឺជាលទ្ធផលល្អ។
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "គោលបំណងគឺការរីករាយ និងការទាក់ទងជាមួយគ្នា មិនមែនការបញ្ចប់ ឬឆ្លើយបានត្រឹមត្រូវទេ។"
+  - "រៀបចំជាមុន៖ បន្ទប់ស្ងប់ស្ងាត់ ពន្លឺគ្រប់គ្រាន់ ពាក់វ៉ែនតា និងឧបករណ៍ជំនួយការស្តាប់ បិទទូរទស្សន៍ ហើយរៀបចំល្បែងមួយរួចជាស្រេច។"
+  - "កុំកែតម្រូវកំហុសដែលមិនបង្កបញ្ហា។ អាចនិយាយថា «តោះសាកល្បងវិធីនេះ» ឬគ្រាន់តែបន្តទៅមុខ។"
+  - "ធ្វើឱ្យល្បែងងាយស្រួលមុនពេលភាពមិនស្រួលកើនឡើង៖ កាត់បន្ថយចំនួនរូបភាព កាត់បន្ថយជម្រើស ឬទុករូបភាពឱ្យមើលឃើញ។"
+  - "ប្រើរូបភាពជាចំណុចចាប់ផ្តើមសម្រាប់ការនិយាយរឿង ដោយសួរថា «សូមប្រាប់អំពី...» ជំនួសឱ្យ «តើអ្នកចាំទេ...?»"
+  - "ឈប់នៅពេលចាប់ផ្តើមមានសញ្ញានៃភាពអស់កម្លាំង ឬមិនស្រួលចិត្ត។ ការឈប់មុនពេលកំណត់គឺជាជោគជ័យ មិនមែនជាការបរាជ័យទេ។"
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "តើយើងគួរលេងល្បែងរយៈពេលប៉ុន្មាន?"
+    a: "មិនមានរយៈពេលត្រឹមត្រូវជាក់លាក់ទេ។ សម្រាប់មនុស្សជាច្រើន ពេលពីរបីនាទីគឺគ្រប់គ្រាន់ ហើយមានថ្ងៃខ្លះដែលលេងតែមួយជុំក៏គ្រប់គ្រាន់ដែរ។ សង្កេតមើលអ្នកដែលអ្នកថែទាំជាជាងមើលនាឡិកា ហើយឈប់នៅពេលដែលពួកគេនៅតែហាក់ដូចជាសម្រាក។"
+  - q: "តើខ្ញុំគួរអនុញ្ញាតឱ្យពួកគេឈ្នះ ឬធ្វើពុតជាមិនឃើញកំហុសទេ?"
+    a: "នៅក្នុងល្បែងដែលលេងជាមួយគ្នាដោយគ្មានសម្ពាធ មិនមានអ្នកឈ្នះ ឬអ្នកចាញ់ទេ។ ប្រសិនបើកំហុសមិនធ្វើឱ្យអ្នកនោះមិនស្រួលចិត្ត សូមទុកវាចោល។ ប្រសិនបើវាធ្វើឱ្យពួកគេមិនស្រួលចិត្ត សូមជួយស្ងាត់ៗ ឬធ្វើឱ្យល្បែងងាយស្រួល ដោយមិនចង្អុលបង្ហាញអំពីកំហុសនោះ។"
+  - q: "ចុះបើពួកគេចូលចិត្តមើលខ្ញុំលេងជាង?"
+    a: "មិនអីទេ។ National Institute on Aging ណែនាំឱ្យអនុញ្ញាតឱ្យអ្នកនោះគ្រាន់តែមើល ប្រសិនបើពួកគេចូលចិត្តរបៀបនោះជាង។ និយាយអំពីអ្វីដែលអ្នកឃើញ ហើយអញ្ជើញឱ្យពួកគេចង្អុល ឬជ្រើសរើសនៅពេលណាដែលពួកគេចង់។"
+  - q: "តើល្បែងទាំងនេះជាវិធីសាកល្បងការចងចាំដែរឬទេ?"
+    a: "ទេ។ ល្បែងរបស់យើងគឺជាសកម្មភាពសាមញ្ញសម្រាប់ធ្វើរួមគ្នា ដើម្បីភាពរីករាយ និងការសន្ទនា។ វាមិនមែនជាការសាកល្បងការចងចាំ មិនវាស់អ្វីទាំងអស់ ហើយក៏មិនមែនជាការព្យាបាលជំងឺបាត់បង់ការចងចាំដែរ។"
+  - q: "តើល្បែងមួយណាល្អបំផុតសម្រាប់ចាប់ផ្តើម?"
+    a: "ចាប់ផ្តើមជាមួយល្បែងសាមញ្ញបំផុតដែលសាកសមនឹងអ្នកនោះ។ Picture Pairs ដែលមាន 4 ក្រឡា ហើយទុករូបភាពឱ្យមើលឃើញ ឬ Find the Same ដែលមាន 2 ជម្រើស គឺជាចំណុចចាប់ផ្តើមស្រួលៗ។ Conversation Cards សាកសមប្រសិនបើអ្នកនោះចូលចិត្តនិយាយជាងការចុច។"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +47,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+ល្បែងល្អមួយជាមួយអ្នកដែលមានជំងឺបាត់បង់ការចងចាំ មិនមើលទៅដូចជាការប្រកួតប្រជែងទេ។ វាមើលទៅដូចជាមនុស្សពីរនាក់អង្គុយជិតគ្នា ចង្អុលរូបភាព សើចជាមួយសម្តីស្រុក និងនិយាយអំពីអ្វីៗដែលលេចឡើង។ ល្បែងគ្រាន់តែជាហេតុផលមួយសម្រាប់ចំណាយពេលជាមួយគ្នា។
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+មគ្គុទ្ទេសក៍នេះពន្យល់អំពីរបៀបរៀបចំ របៀបកំណត់ល្បឿនល្បែង អ្វីដែលគួរនិយាយនៅពេលមានអ្វីមួយ «មិនត្រឹមត្រូវ» របៀបធ្វើឱ្យល្បែងណាមួយងាយស្រួល ឬពិបាកបន្តិច របៀបប្រែក្លាយវាទៅជាការសន្ទនា និងរបៀបដឹងថាពេលណាដែលគួរឈប់។ វាអាចប្រើបានសម្រាប់[ល្បែងរបស់យើង](/games/) និងសម្រាប់កាត ល្បែងផ្គុំរូប និងល្បែងក្តារដែលអ្នកមានស្រាប់។
 
-## What is the best way to play a game with someone who has dementia?
+## តើវិធីល្អបំផុតក្នុងការលេងល្បែងជាមួយអ្នកដែលមានជំងឺបាត់បង់ការចងចាំគឺជាអ្វី?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+ផ្តោតលើការរីករាយ មិនមែនលើលទ្ធផលសម្រេចបានទេ។ នេះគឺជាការណែនាំសំខាន់ពី[ការណែនាំអំពីសកម្មភាពរបស់ Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities)៖ ពង្រឹងលើជំនាញដែលអ្នកនោះនៅមាន ជួយពួកគេក្នុងការចាប់ផ្តើម ធ្វើផ្នែកដែលពិបាកជំនួសពួកគេ ហើយកុំរិះគន់ ឬកែតម្រូវសកម្មភាពដែលមិនបង្កបញ្ហា។
 
-In practice that means:
+ក្នុងការអនុវត្តជាក់ស្តែង នេះមានន័យថា៖
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **អង្គុយក្បែរពួកគេ មិនមែននៅទល់មុខ។** នៅពេលអង្គុយក្បែរគ្នា អ្នកទាំងពីរអាចមើលឃើញអេក្រង់ ឬតុបាន ហើយការជួយនឹងមានអារម្មណ៍ដូចជាការសហការគ្នា ជាជាងការត្រួតពិនិត្យ។
+- **ស្នើល្បែងម្តងមួយប៉ុណ្ណោះ។** ការមានជម្រើសច្រើនអាចធ្វើឱ្យមានអារម្មណ៍ដូចជាការសាកល្បងមុនពេលចាប់ផ្តើម។
+- **ធ្វើតាមការដឹកនាំរបស់ពួកគេ។** ប្រសិនបើពួកគេចង់ចុចរូបភាពតាមលំដាប់របស់ខ្លួន និយាយអំពីរូបភាពមួយរយៈពេលដប់នាទី ឬឈប់បន្ទាប់ពីពីរវេន នោះនั่นគឺជាល្បែងសម្រាប់ថ្ងៃនេះ។
+- **រាប់ពេលវេលាល្អៗ មិនមែនចំនួនជុំដែលបានបញ្ចប់។** ស្នាមញញឹម រឿងមួយ ឬពេលវេលាស្ងប់ស្ងាត់កន្លះម៉ោង គឺជាលទ្ធផលដែលអ្នកកំពុងស្វែងរក។
 
-## How do I set up before we start?
+## តើខ្ញុំគួររៀបចំអ្វីខ្លះមុនពេលចាប់ផ្តើម?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+ការរៀបចំប៉ុន្មាននាទីអាចជួយការពារភាពមិនស្រួលភាគច្រើនដែលមនុស្សច្រើនតែសន្មត់ថាបណ្តាលមកពីល្បែងខ្លួនឯង។
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **ជ្រើសរើសពេលវេលាដែលល្អបំផុតសម្រាប់ពួកគេ។** [ការណែនាំរបស់ National Institute on Aging (NIA) អំពីការសម្របសម្រួលសកម្មភាព](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ណែនាំឱ្យរៀបចំសកម្មភាពនៅពេលដែលអ្នកនោះមានអារម្មណ៍ល្អបំផុត។ សម្រាប់មនុស្សជាច្រើន ពេលនោះគឺពាក់កណ្តាលព្រឹក។ ពេលរសៀលជួនកាលពិបាកជាង សូមមើល[សកម្មភាពស្ងប់ស្ងាត់នៅពេលរសៀល](/caregiving/late-day-restlessness/)។
+2. **ធ្វើឱ្យបន្ទប់ស្ងប់ស្ងាត់។** បិទទូរទស្សន៍ និងវិទ្យុ ហើយបិទទ្វារបើអាចធ្វើបាន។ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ណែនាំឱ្យកាត់បន្ថយសំឡេងរំខាន និងការរំខានមុនពេលព្យាយាមនិយាយ។
+3. **ពិនិត្យមើលភាពស្រួលស្រាយជាមុន។** ដាក់ទឹកនៅក្បែរ ទៅបន្ទប់ទឹកជាមុន កៅអីស្រួលសម្រាប់អង្គុយ និងពាក់វ៉ែនតា និងឧបករណ៍ជំនួយការស្តាប់។
+4. **ធ្វើឱ្យបន្ទប់មានពន្លឺគ្រប់គ្រាន់។** ពន្លឺភ្លឺស្មើគ្នា និងមិនចាំងចូលអេក្រង់នឹងជួយឱ្យមើលរូបភាពបានកាន់តែងាយស្រួល។
+5. **រៀបចំល្បែងឱ្យរួចរាល់មុនពេលអង្គុយ។** បើកល្បែង ជ្រើសរើសការកំណត់ និងកំណត់កម្រិតសំឡេងដោយខ្លួនឯង។ បន្ទាប់មកបង្វែរអេក្រង់មករកពួកគេ។ សម្រាប់គន្លឹះអំពីថេប្លេត សូមមើល[ការរៀបចំថេប្លេត ឬទូរស័ព្ទ](/caregiving/tablets-and-screens/)។
+6. **ដាក់ឧបករណ៍ឱ្យមានជំនួយ។** ការប្រើជើងទ្រ ឬស្រោមដែលអាចទ្រថេប្លេតឱ្យឈរបាន មានន័យថាគ្មាននរណាម្នាក់ត្រូវកាន់វាទេ ហើយក៏ងាយស្រួលក្នុងការចង្អុលផងដែរ។
 
-## How do I invite them without pressure?
+## តើខ្ញុំគួរអញ្ជើញពួកគេដោយរបៀបណាដោយគ្មានសម្ពាធ?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+ធ្វើការអញ្ជើញឱ្យមានលក្ខណៈធម្មតា និងងាយស្រួលក្នុងការបដិសេធ។ ខាងក្រោមនេះជាឃ្លាខ្លះដែលជារឿយៗសមស្រប៖
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «ខ្ញុំរកឃើញរូបភាពសួនមួយចំនួន។ ចង់មើលជាមួយខ្ញុំទេ?»
+- «តើអ្នកអាចជួយខ្ញុំនៅល្បែងផ្គុំរូបនេះបានទេ? ខ្ញុំជាប់នៅត្រង់នេះ។»
+- «ថ្ងៃនេះអ្នកចង់មើលផ្កា ឬសត្វបក្សី?» (ការជ្រើសរើសពីរជម្រើសងាយស្រួលជាងសំណួរបើកចំហ)
+- «ខ្ញុំកំពុងធ្វើកាតសម្រាប់បងស្រីរបស់អ្នក។ តើគួរជ្រើសពណ៌មួយណា?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association ណែនាំឱ្យពន្យល់អំពីគោលបំណងនៃសកម្មភាព ដូចជាការធ្វើកាតសម្រាប់មិត្តភក្តិ ព្រោះហេតុផលអាចផ្តល់អត្ថន័យដល់សកម្មភាពនោះ។ ការសុំជំនួយក៏មានប្រយោជន៍ផងដែរ ព្រោះវាធ្វើឱ្យអ្នកនោះមានអារម្មណ៍ថាមានប្រយោជន៍។
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+ប្រសិនបើពួកគេនិយាយថាទេ សូមទទួលយក។ សាកល្បងម្តងទៀតនៅពេលក្រោយ ឬស្នើអ្វីផ្សេង។ មគ្គុទ្ទេសក៍របស់យើងអំពី[អ្វីដែលត្រូវធ្វើនៅពេលពួកគេនិយាយថាទេ](/caregiving/when-they-say-no/) មានព័ត៌មានបន្ថែម។
 
-## How long should a game last, and how fast should we go?
+## តើល្បែងគួរមានរយៈពេលប៉ុន្មាន និងគួរលេងលឿនប៉ុណ្ណា?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+អនុញ្ញាតឱ្យអ្នកដែលអ្នកថែទាំកំណត់ល្បឿនផ្ទាល់ខ្លួន ហើយរៀបចំសម្រាប់រយៈពេលខ្លីៗ។ មិនមានរយៈពេលល្អបំផុតដែលមានភស្តុតាងសម្រាប់ល្បែងរួមគ្នាទេ។ ពីរទៅប្រាំនាទីស្ងប់ស្ងាត់អាចជាសកម្មភាពពេញលេញមួយ។
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **រង់ចាំយូរជាងអ្វីដែលអ្នកមានអារម្មណ៍។** NIA ណែនាំឱ្យផ្តល់ពេលវេលាបន្ថែមសម្រាប់ឱ្យអ្នកនោះឆ្លើយតប ហើយព្យាយាមកុំរំខាន។ រាប់ដល់ដប់ក្នុងចិត្តមុនពេលជួយ។
+- **ម្តងមួយជំហាន។** ផ្តល់ការណែនាំខ្លីៗតែមួយ («ចុចរូបភាពមួយ») បន្ទាប់មករង់ចាំ។ បង្ហាញជាជាងពន្យល់៖ ចង្អុលទៅកន្លែងដែលគួរចុច។
+- **ផ្អាកបានដោយសេរី។** ប្រសិនបើពួកគេឈប់ដើម្បីនិយាយអំពីរូបភាពមួយ ល្បែងអាចរង់ចាំបាន។ មិនចាំបាច់ប្រញាប់ទេ។
+- **អនុញ្ញាតឱ្យពួកគែមើល។** NIA ចង្អុលបង្ហាញថាមនុស្សខ្លះចូលចិត្តមើល ហើយនោះជាជម្រើសដែលអាចទទួលយកបាន។
 
-## Should I correct wrong answers?
+## តើខ្ញុំគួរកែតម្រូវចម្លើយខុសទេ?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+ទេ។ ការកែតម្រូវនរណាម្នាក់ម្តងហើយម្តងទៀត សូម្បីតែដោយចេតនាល្អ ក៏អាចធ្វើឱ្យពួកគេមានអារម្មណ៍ថាកំពុងបរាជ័យដែរ។ Alzheimer's Association ណែនាំកុំឱ្យរិះគន់ ឬកែតម្រូវសកម្មភាពដែលមិនបង្កបញ្ហា។ នៅក្នុងល្បែង ស្ទើរតែគ្រប់កំហុសទាំងអស់មិនបង្កបញ្ហាទេ។
 
-| Instead of | Try |
+| ជំនួសឱ្យ | សាកល្បង |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «ទេ នោះខុស។» | «តោះសាកល្បងវិធីនេះ។» (ឧទាហរណ៍ដែល NIA ផ្តល់) |
+| «នោះមិនត្រូវគ្នាទេ។ មើលម្តងទៀត។» | មិននិយាយអ្វី ហើយបន្តវេនបន្ទាប់ ឬ «អូ ទាំងពីរនេះមានពណ៌ក្រហមដូចគ្នា។» |
+| «តើអ្នកចាំទេថានេះជានរណា?» | «សូមប្រាប់អំពីរូបភាពនេះ។» |
+| «អ្នកបានធ្វើរូបនេះរួចហើយ។» | «រូបនេះល្អណាស់។ តោះធ្វើម្តងទៀត។» |
+| «មកហើយ អ្នកដឹងរឿងនេះ។» | «ចង់ឱ្យខ្ញុំបង្ហាញចុងសម្តីទេ?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+ប្រសិនបើកំហុសមួយធ្វើឱ្យពួកគេមិនស្រួលចិត្តយ៉ាងច្បាស់ សូមជួយស្ងាត់ៗ។ ចង្អុលទៅរូបភាពត្រឹមត្រូវ លេងវេនជំនួសពួកគេ ឬធ្វើឱ្យល្បែងងាយស្រួលនៅជុំបន្ទាប់។ ប្រសិនបើសម្តីស្រុកមួយមានចុងបញ្ចប់ខុសប៉ុន្តែគួរឱ្យអស់សំណើច សូមសើចជាមួយគ្នា។ ចុងបញ្ចប់របស់ពួកគេអាចល្អជាងក៏បាន។
 
-## How do I make a game easier or harder?
+## តើខ្ញុំអាចធ្វើឱ្យល្បែងងាយស្រួល ឬពិបាកបន្តិចដោយរបៀបណា?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+សម្របល្បែងទៅតាមអ្នកដែលអ្នកថែទាំនៅថ្ងៃនោះ មិនមែនទៅតាមស្លាកកម្រិតណាមួយទេ។ មនុស្សដដែលអាចត្រូវការកំណែងាយជាងនៅពេលល្ងាចជាងនៅពេលព្រឹក។ គន្លឹះដំបូងរបស់ NIA គឺត្រូវផ្គូផ្គងសកម្មភាពទៅតាមអ្វីដែលអ្នកនោះអាចធ្វើបាន និងធ្វើឱ្យប្រាកដថាពួកគេមានអារម្មណ៍ជោគជ័យ។
 
-| Game | Make it easier | Make it a little harder |
+| ល្បែង | ធ្វើឱ្យងាយស្រួល | ធ្វើឱ្យពិបាកបន្តិច |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | ចាប់ផ្តើមជាមួយ 4 ក្រឡា ហើយទុករូបភាពឱ្យមើលឃើញ | បន្ថែមក្រឡា ឬលាក់រូបភាព ប្រសិនបើមានអារម្មណ៍ស្រួល |
+| [Find the Same](/games/find-the-same/) | 2 ជម្រើស | រហូតដល់ 4 ជម្រើស |
+| [Sort Together](/games/sort-together/) | អ្នកកាន់រូបភាព ហើយឱ្យពួកគេចង្អុលទៅកន្ត្រក | ឱ្យពួកគេចុចទាំងរូបភាព និងកន្ត្រកដោយខ្លួនឯង |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 បំណែក និយាយអំពីរូបភាពទាំងមូលជាមុន | 9 បំណែក |
+| [Finish the Saying](/games/finish-the-saying/) | បង្ហាញចុងសម្តី រួចនិយាយជាមួយគ្នា | អនុញ្ញាតឱ្យពួកគេនិយាយចុងសម្តីមុនពេលចុច |
+| [Word Search](/games/word-search/) | បោះពុម្ពវា រកពាក្យមួយជាមួយគ្នា ចង្អុលទៅអក្សរដំបូងរបស់វា | អនុញ្ញាតឱ្យពួកគេជ្រើសរើសពាក្យបន្ទាប់ដែលត្រូវរក |
+| [Coloring](/games/coloring/) | អ្នកជ្រើសរើសពីរពណ៌ ហើយឱ្យពួកគេជ្រើសរើសពីក្នុងនោះ | ឱ្យពួកគេជ្រើសរើសពណ៌ទាំងអស់ |
+| [Conversation Cards](/games/conversation-cards/) | គ្រាន់តែមើលរូបភាពជាមួយគ្នា | ប្រើសំណួរបើកចំហនៅលើកាត |
+| [Photo Pairs](/games/photo-pairs/) | រូបថតគ្រួសារដែលពួកគេស្រឡាញ់មួយចំនួន | បន្ថែមរូបថតច្រើនទៀត |
+| [Picture Bingo](/games/picture-bingo/) | មានអ្នកជួយអង្គុយជាមួយអ្នកលេងម្នាក់ៗ | ឱ្យអ្នកលេងសម្គាល់កាតដោយខ្លួនឯង |
+| [Calm Breathing](/games/calm-breathing/) | គ្រាន់តែអង្គុយមើលជាមួយគ្នា | ដកដង្ហើមជាមួយគ្នាយឺតៗ |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+សញ្ញាដែលបង្ហាញថាល្បែងពិបាកពេក៖ ការឈប់យូរដែលមើលទៅដូចជាព្រួយបារម្ភជាជាងកំពុងគិត ការនិយាយថា «ខ្ញុំមិនអាចធ្វើបានទេ» ម្តងហើយម្តងទៀត ការរុញឧបករណ៍ចេញ ឬកំហុសដែលធ្វើឱ្យពួកគេមិនស្រួលចិត្ត។ សញ្ញាដែលបង្ហាញថាវាអាចងាយពេក៖ អារម្មណ៍ធុញ ឬពួកគេនិយាយថាវាដូចជារបស់កុមារ។ ប្រសិនបើមានដូច្នោះ សូមគោរពអារម្មណ៍នោះ ហើយប្តូរទៅសកម្មភាពដែលមានអារម្មណ៍សមស្របសម្រាប់មនុស្សពេញវ័យ ដូចជាល្បែងស្វែងរកពាក្យ ល្បែងផ្គុំរូបថតពិត ឬការនិយាយអំពីរូបភាពនៃការងារចាស់របស់ពួកគេ។
 
-## How do I turn a game into a conversation?
+## តើខ្ញុំអាចប្រែក្លាយល្បែងទៅជាការសន្ទនាដោយរបៀបណា?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+ប្រើរូបភាពនីមួយៗជាការអញ្ជើញឱ្យនិយាយ ហើយចាត់ទុកអ្វីដែលពួកគេនិយាយថាជាចម្លើយល្អ។ សម្រាប់គ្រួសារជាច្រើន នេះគឺជាផ្នែកល្អបំផុតនៃការលេង។
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **សួរសំណួរបើកចំហដែលមិនមានចម្លើយខុស។** «អ្នកសង្កេតឃើញអ្វីខ្លះ?» «អ្នកចូលចិត្តរូបមួយណា?» «សូមប្រាប់អំពីផ្ទះបាយដូចនេះ។»
+- **ចែករំលែកជាមុន។** «យាយរបស់ខ្ញុំធ្លាប់មានឆ្កែមួយដូចនេះ។» រឿងរបស់អ្នកអាចជួយឱ្យពួកគែងាយស្រួលក្នុងការចែករំលែករឿងរបស់ខ្លួន។
+- **អនុវត្តតាមការនិយាយដែលបែរទិស។** ប្រសិនបើរូបភាពឡានមួយនាំទៅរករឿងអំពីការធ្វើដំណើរ នោះរឿងនោះគឺជាសកម្មភាព។ ទុកល្បែងឱ្យផ្អាកសិន។
+- **កុំពិនិត្យភាពត្រឹមត្រូវនៃព័ត៌មាន។** នៅក្នុងការនិយាយរំលឹកអតីតកាល ការសន្ទនាដែលរីករាយមានសារៈសំខាន់ជាងព័ត៌មានលម្អិតត្រឹមត្រូវ។ ប្រសិនបើរឿងប្រែប្រួលពីលើកមុន សូមរីករាយជាមួយកំណែថ្មី។
+- **ប្រើសំណួរណែនាំដែលមានក្នុងល្បែង។** [Finish the Saying](/games/finish-the-saying/) មានសំណួរសន្ទនាបន្ទាប់ពីសម្តីស្រុកនីមួយៗ ហើយ [Conversation Cards](/games/conversation-cards/) ត្រូវបានបង្កើតឡើងសម្រាប់គោលបំណងនេះ។ [Photo Pairs](/games/photo-pairs/) ប្រើរូបថតគ្រួសាររបស់អ្នកផ្ទាល់ ដែលជារឿយៗអាចបង្កើតរឿងរ៉ាវយ៉ាងសម្បូរបែប។
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+គំនិតបន្ថែមមាននៅក្នុងមគ្គុទ្ទេសក៍របស់យើងអំពី[សកម្មភាពរំលឹកអតីតកាល](/activities/reminiscence/) និង[គន្លឹះក្នុងការប្រាស្រ័យទាក់ទង](/caregiving/communication-tips/)។
 
-## When should we stop?
+## តើយើងគួរឈប់នៅពេលណា?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+ឈប់នៅពេលចាប់ផ្តើមមានសញ្ញានៃភាពអស់កម្លាំង ឬមិនស្រួលចិត្ត ហើយប្រសិនបើអាចឈប់មុនបន្តិចក៏ល្អ។ Alzheimer's Association ណែនាំឱ្យឈប់ ឬប្តូរសកម្មភាព នៅពេលការផ្តោតអារម្មណ៍ថយចុះ ឬភាពមិនស្រួលកើនឡើង។
 
-Watch for:
+សូមសង្កេតមើល៖
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- ស្អែក អង្គុយធ្លាក់ខ្លួន ឬភ្នែកចរចរចេញពីអេក្រង់
+- មិនអង្គុយស្ងៀម ក្រោកឈរ ឬសុំចាកចេញ
+- ដកដង្ហើមធំ ឆ្លើយតបខ្លីៗ ឬនិយាយថា «ខ្ញុំមិនពូកែរឿងនេះទេ»
+- ចុចដោយចៃដន្យ ឬរុញឧបករណ៍ចេញ
+- ភ្នែកមានទឹក ភាពរម៉ាស ឬការប្រែប្រួលអារម្មណ៍ភ្លាមៗ
 
-How to stop well:
+របៀបឈប់ឱ្យបានល្អ៖
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **បញ្ចប់ជាមួយអ្វីដែលងាយស្រួល។** ផ្គូផ្គងចុងក្រោយមួយដែលពួកគេអាចធ្វើបាន ឬរូបភាពចុងក្រោយមួយសម្រាប់មើល។
+- **និយាយថាដោយសារអ្នក។** «ខ្ញុំចង់ផឹកតែមួយពែង។ យើងឈប់នៅទីនេះ好ទេ?» វាជួយជៀសវាងការធ្វើឱ្យពួកគេមានអារម្មណ៍ថាពួកគេធ្វើមិនបានល្អ។
+- **ប្តូរទៅសកម្មភាពរាងកាយ ឬសកម្មភាពស្ងប់ស្ងាត់។** ដើរខ្លីៗ ញ៉ាំអាហារសម្រន់ បត់សម្លៀកបំពាក់ ឬស្តាប់តន្ត្រី។
+- **និយាយពាក្យកក់ក្ដៅ។** «ខ្ញុំរីករាយដែលបានធ្វើរឿងនេះជាមួយអ្នក។» មិនចាំបាច់សរសើរថា «ធ្វើបានត្រឹមត្រូវ» ទេ គ្រាន់តែបង្ហាញពីការរីករាយចំពោះពេលវេលាជាមួយគ្នា។
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+ការបញ្ចប់មុនពេលកំណត់ ការប្តូរផែនការ ឬការឈប់លេងល្បែងហើយគ្រាន់តែអង្គុយជាមួយគ្នា សុទ្ធតែជាលទ្ធផលល្អ។
 
-## Can we play in a group or over a video call?
+## តើយើងអាចលេងជាក្រុម ឬតាមរយៈការហៅវីដេអូបានទេ?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+បាន ដោយមានការរៀបចំបន្ថែមបន្តិច។ នៅក្នុងក្រុម សូមរក្សាចំនួនមនុស្សឱ្យតិច អង្គុយអ្នកជួយនៅក្បែរអ្នកដែលត្រូវការ ហើយជ្រើសរើសល្បែងដែលមានការផ្តោតអារម្មណ៍រួមច្បាស់លាស់។ [Picture Bingo](/games/picture-bingo/) មានកាតសម្រាប់បោះពុម្ព និងអ្នកប្រកាសនៅលើអេក្រង់សម្រាប់ក្រុម។ សូមមើល[សកម្មភាពសម្រាប់ក្រុមនៅមជ្ឈមណ្ឌលថែទាំ](/activities/care-home-groups/) សម្រាប់ព័ត៌មានបន្ថែម។
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+តាមរយៈការហៅវីដេអូ អ្នកនៅក្នុងការហៅអាចពិពណ៌នារូបភាព ខណៈដែលអ្នកនៅក្នុងបន្ទប់ជួយចង្អុល និងចុច។ រក្សាការហៅឱ្យខ្លី និង quen។ មគ្គុទ្ទេសក៍របស់យើងអំពី[ការហៅទូរស័ព្ទ និងវីដេអូ](/activities/phone-and-video-calls/) មានគន្លឹះបន្ថែម។
 
-## What if a game just isn't working?
+## ចុះបើល្បែងមួយមិនដំណើរការទាល់តែសោះ?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+មានថ្ងៃខ្លះដែលគ្មានអ្វីសាកសមទេ ហើយនោះមិនមែនជាកំហុសរបស់អ្នក ឬរបស់ពួកគេទេ។ សូមទុកល្បែងចោលសិន ហើយសាកល្បងម្តងទៀតនៅពេលផ្សេងក្នុងថ្ងៃ ជាមួយល្បែងផ្សេង ឬមិនលេងល្បែងសោះ។ សកម្មភាពល្អៗជាច្រើនមិនទាក់ទងនឹងអេក្រង់ទេ៖ តន្ត្រី ការបត់កន្សែង ការមើលអាល់ប៊ុមរូបថត ឬការដើរខ្លីៗ។ សូមរកមើល[គំនិតសកម្មភាព](/activities/ideas/) របស់យើងសម្រាប់បន្ថែម។

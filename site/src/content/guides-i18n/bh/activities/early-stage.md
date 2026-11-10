@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "शुरुआती चरण के डिमेंशिया खातिर गतिविधि"
+seoTitle: "शुरुआती डिमेंशिया खातिर गतिविधि: काम के आइडिया"
+description: "शुरुआती चरण के डिमेंशिया खातिर गतिविधि के आइडिया: शौक, खेल, बाहर घूमल, लिखल आ साथ मिलके योजना बनावल, कुछ छोटे बदलाव के साथ, जेसे व्यक्ति के मजा मिलत रहे आ उहे फैसला लेत रहस।"
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  शुरुआती चरण के डिमेंशिया में ज्यादातर लोग अपना पसंद के काम करत रह सकेला:
+  शौक, ताश आ बोर्ड गेम, खाना बनावल, बागवानी, टहलल, क्लब, धर्म-कर्म आ सेवा के
+  काम। जरूरी बदलाव बस ई बा कि समूह छोटा रहे, बाहर जाए के समय छोटा रहे, सरल
+  लिखल योजना बनावल जाव आ एगो साथी पास में रहे। व्यक्ति से पूछीं कि उनके
+  कइसन मदद चाहीं, आ उनके अगुआई करे दीं।
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "शुरुआती चरण में ज्यादातर लोग काफी हद तक अपना से जिनगी जियेला। गतिविधि आम तौर पर बदले के ना, ठीक करे के होला।"
+  - "व्यक्ति से पूछीं कि उनके कइसन सहारा चाहीं, आ मदद कब चाहीं, एकर एगो सरल इशारा तय कर लीं।"
+  - "छोटा समूह, शांत समय आ छोटा बाहर जाए के कार्यक्रम अक्सर बड़ा फर्क डाल देला।"
+  - "ई समय व्यक्ति खातिर अपना जिनगी के बारे में काम खुद अगुआई करे के बढ़िया समय बा, जइसे डायरी या जीवन-कहानी के किताब।"
+  - "खेल मजा खातिर चुनीं। ओह चीज से बचीं जे परीक्षा जइसन लागे लागे।"
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "शुरुआती चरण में कवन गतिविधि अच्छा होखेला?"
+    a: "आम तौर पर उहे गतिविधि जे व्यक्ति पहिलहीं से पसंद करेला: ताश, बोर्ड गेम, खाना बनावल, बागवानी, टहलल, गाना-बजाना, धार्मिक काम, क्लब आ सेवा के काम। एके छोटा, शांत या आसान बनावे के पड़ सकेला। डायरी लिखल, चिट्ठी लिखल आ जीवन-कहानी के किताब बनावल भी ई चरण खातिर बढ़िया बा।"
+  - q: "सब कुछ अपना हाथ में लेले बिना कइसे मदद करीं?"
+    a: "पूछीं कि व्यक्ति कइसन मदद चाहत बा, आ बीच-बीच में हाल-चाल लेत रहीं। कवनो इशारा या शब्द तय कर लीं जेसे पता चले कि अब हस्तक्षेप ठीक बा, जइसे जब कवनो शब्द या नाम याद ना आवे। कवनो खतरा ना होखे त उनके अपना तरीका से करे दीं, भले देर लागे।"
+  - q: "शुरुआती डिमेंशिया वाला व्यक्ति नया गतिविधि आज़मा सकेला?"
+    a: "हँ, अगर उ चाहे त। पुरान शौक सबसे आसान होला, बाकिर बहुत लोग नया चीज भी पसंद करेला, जइसे डिमेंशिया-मित्र टहलल समूह, कला के क्लास या गाना के समूह। दबाव बिना एक बार आज़मा के देखीं कि कइसन लागत बा।"
+  - q: "शुरुआती चरण में दिमाग-प्रशिक्षण वाला ऐप के फायदा बा?"
+    a: "कुछ लोग पहेली आ शब्द वाला खेल पसंद करेला, आ ओकरे मजा खातिर ई काफी बा। कवनो ऐप या खेल के बारे में ई साबित नइखे भईल कि ऊ डिमेंशिया के इलाज करे, धीमा करे या रोके। अगर कवनो खेल से तनाव होखे या व्यक्ति के लागे कि उ फेल हो रहल बा, त ओके छोड़ दीं।"
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+शुरुआती चरण के डिमेंशिया में बहुत लोग पहिले जइसन ही जिनगी जीयत रहेला। उ काम करेला, सेवा के काम करेला, दोस्त-यार से मिलेला आ अपना दिन के ज्यादातर काम खुद संभारेला। गतिविधि के बदले के जरूरत ना होखे; बस कुछ छोटा-मोटा बदलाव करे के होला, जेसे उ मजेदार बनल रहे। आप उनके देखभाल करे वाला से जादा साथी बनीं: जे सहारा देव, उनके साथे योजना बनाईं आ तबे आगे आईं जब उ कहस।
 
-## What activities are good in early-stage dementia?
+## शुरुआती चरण में कवन गतिविधि ठीक बा?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+शुरुआती चरण में सबसे बढ़िया गतिविधि आम तौर पर उहे होला जवन व्यक्ति पहिलहीं से पसंद करेला, बस तनी आसान बना दिहल जाव। [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) में अइसन आइडिया गिनावल गइल बा: ताश आ बोर्ड गेम, शब्द खोज, टहलल, नाच, बागवानी, फूल सजावल, कहानी सुनावल, चित्रकारी, गाना-बजाना, डायरी लिखल, चिट्ठी लिखल, स्क्रैपबुक बनावल, खाना बनावल आ त्योहार के परंपरा।
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+अक्सर बदलाव गतिविधि में ना, जगह आ माहौल में होला। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) बतावत बा कि शुरुआती चरण में लोग पहिले के मजेदार काम से पीछे हटे लागेला। उ एगो उदाहरण देला कि बड़ा पार्टी में घबराये वाला व्यक्ति छोटा समूह में बढ़िया रहेला। जवन मुश्किल लागे ओकरा के खुल के बोलीं, आ साथे मिलके बदलाव करीं।
 
-## Ask first, and agree on how to help
+## पहिले पूछीं, आ मदद के तरीका तय करीं
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association के शुरुआती चरण वाला मार्गदर्शन](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) में कुछ आदत सुझावल गइल बा, जे गतिविधि पर भी लागू होला:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **सीधे पूछीं।** “बुक क्लब में आपके का आसान लागी?” पूछला से अंदाजा लगावे से बढ़िया जवाब मिलेला।
+- **मान के चलीं कि उ कर सकेला।** कवनो खतरा ना होखे त व्यक्ति के कोशिश करे दीं, आ हौसला दीं, खुद सब कुछ ना ले लीं।
+- **एगो इशारा तय करीं।** कवनो शब्द या सिर हिलावे के इशारा रखीं, जे बतावे कि “अब बीच में आ जाईं,” जइसे ताश खेलत समय कवनो नाम याद ना आवे।
+- **नियमित हाल-चाल लीं।** पूछीं कि मदद के मात्रा ठीक लागत बा, जादा त नइखे, कम त नइखे।
 
-## Activity ideas for the early stage
+## शुरुआती चरण खातिर गतिविधि के आइडिया
 
-### Keep up roles and hobbies
+### रोजमर्रा के भूमिका आ शौक जारी रखीं
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **नियमित काम बनाए रखीं।** हफ्ता में एक दिन सेवा के काम, गाना-बजाना या क्लब से हफ्ता के एगो ढांचा बनल रहेला। अगर ई तनाव देवे लागे त छोटा या शांत काम ज्यादा ठीक हो सकेला।
+- **खाना के योजना साथे बनाईं।** किराना खरीदल मुश्किल होखे लागे त, Alzheimer's Association सुझावत बा कि व्यक्ति से हफ्ता के मेनू तय करे आ सूची लिखे के कहल जाव।
+- **खाना बनाईं आ पकवान बनाईं।** कवनो पसंदीदा नुस्खा साथे मिलके बनाईं। शुरू करे से पहिले सब सामान क्रम से सजा लीं, जेसे कदम साफ-साफ दिखे।
+- **बागवानी करीं।** एगो क्यारी के योजना बनाईं, बीज या पौधा चुनीं आ काम साथे करीं। हफ्ता के बागवानी के काम के एगो लिखल सूची मदद करेला।
+- **शिल्प जारी रखीं।** लकड़ी के काम, सिलाई, बुनाई या मॉडल बनावल आसान नमूना आ अच्छा रोशनी में जारी रह सकेला।
 
-### Games for enjoyment
+### मजा खातिर खेल
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **ताश आ बोर्ड गेम खेलीं।** जानल-पहचानल खेल सबसे आसान होला। टीम बनाके खेलीं, जेसे कवनो एक जने पर दबाव ना आवे, आ स्कोर ढीला राखीं या बिल्कुल मत राखीं।
+- **बड़ा छपाई वाला शब्द खोज आज़माईं।** हमार [शब्द खोज](/games/word-search/) स्क्रीन पर खेलल जा सकेला या शांत समय खातिर छाप लिहल जा सकेला।
+- **जिगसॉ पहेली करीं।** अइसन टुकड़ा संख्या चुनीं जवन आराम देव, परेशान ना करे। [चित्र पहेली](/games/picture-puzzle/) एगो छोटा स्क्रीन वाला रूप बा, आ [डिमेंशिया खातिर पहेली](/activities/puzzles/) वाला गाइड से चुनल आसान होई।
+- **मजा खातिर ट्रिविया खेलीं।** कुछ लोग टीम ट्रिविया रात पसंद करेला। अगर ई परीक्षा जइसन लागे लागे त कुछ दोसर चुनीं, या [आसान ट्रिविया सवाल](/activities/trivia/) आज़माईं, जेमे जवाब के विकल्प होला आ स्कोर ना होखे।
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+हियाँ खेल खाली मजा खातिर बा। कवनो खेल के बारे में ई साबित नइखे भईल कि ऊ डिमेंशिया के इलाज करे या धीमा करे। अधिक जाने खातिर पढ़ीं [दिमागी खेल: शोध का कहत बा](/brain-health/brain-games/)।
 
-### Write, reflect and record
+### लिखीं, सोचीं आ दर्ज करीं
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **डायरी लिखीं।** Alzheimer's Association डायरी के एक तरीका बतावत बा जवन निदान के बाद भावना से निपटे में मदद करेला। रोज कुछ लाइन काफी होला।
+- **जीवन-कहानी के किताब के अगुआई व्यक्ति से करवाईं।** शुरुआती चरण ई काम खातिर बढ़िया समय ह, जब व्यक्ति अपना फोटो खुद चुनस आ ओकरा पीछे के कहानी लिखस या बोल के लिखवावस। देखीं [यादों पर आधारित गतिविधि](/activities/reminiscence/)।
+- **चिट्ठी लिखीं।** नाती-पोता, पुरान दोस्त या पहिले के सहकर्मी के चिट्ठी दोनो खातिर अर्थपूर्ण हो सकेला।
+- **फोटो पर बात करीं।** [फोटो जोड़ी](/games/photo-pairs/) परिवार के फोटो के एगो हल्का मिलान वाला खेल बना देला, आ [बातचीत कार्ड](/games/conversation-cards/) से बातचीत शुरू करे में आसानी होला।
 
-### Go out and move
+### बाहर जाईं आ हिलल-डोलल
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) सुझावत बा कि जब तक दुनो जने सहज होखे, तब तक जानल-पहचानल बाहर घूमे के काम जारी राखल जाव। दिन के सबसे बढ़िया समय में योजना बनाईं, आ ओके बहुत लमहर ना होवे दीं।
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **छोटा सांस्कृतिक दौरा।** संग्रहालय, दोपहर के फिल्म या कला प्रदर्शनी, जब भीड़ कम होखे।
+- **तैराकी।** NIA सुझावत बा कि दिन के धीमा समय में स्विमिंग पूल जाईं।
+- **टहलल समूह आ नाच क्लास।** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) नाच, ताई-ची, योग, तैराकी आ टहलल समूह के नाम लेता, आ जहाँ उपलब्ध होखे, डिमेंशिया-मित्र सत्र भी।
+- **गाना समूह आ मेमरी कैफे।** आराम से मिले वाला समूह जहाँ डिमेंशिया वाला लोग आ उनकर साथी दोसरा समान हालात वाला लोग से मिल सकेला।
 
-## Small changes that keep activities enjoyable
+## छोटे बदलाव जे गतिविधि के मजेदार बनवले रखेला
 
-| If this is getting harder | Try this |
+| जब ई मुश्किल होखे | ई आज़मावल जाव |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| भीड़ वाला या शोर वाला जगह | शांत समय में जाईं, छोटा समूह चुनीं, कमरा के किनारे बइठीं |
+| नया नाम याद रखल | हर बार नाम बता के परिचय करावीं; समूह में नाम के बैज लगावे के कहीं |
+| कई कदम वाला योजना के पालन | कदम लिख लीं, या पहिले सब कुछ क्रम से सजा लीं |
+| थकावट | छोटा बाहर जाए के कार्यक्रम, बाद में आराम, ओह दिन कुछ अउर ना रखीं |
+| खेल में अंक रखल | टीम में खेलीं, नियम सरल करीं, या स्कोर रखल छोड़ दीं |
+| शब्द खोजल | समय दीं; अगर तय इशारा कहे तभे कवनो शब्द बतावीं |
 
-## When to slow down
+## कब धीमा करे के चाहीं
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+जब गतिविधि से खुशी से जादा तनाव होखे, तब रोक दीं या बदल दीं। बार-बार झुंझलाहट, शौक से दूर भागल, या “अब हमरा से ना होई” कहल नरमी से बात करे के चीज ह, जबरदस्ती करे के ना। अक्सर जवाब होला उहे काम के छोटा रूप। जब व्यक्ति के कदम शुरू करे या क्रम से चलावे में जादा मदद चाहीं, तब [मध्य चरण के गतिविधि](/activities/middle-stage/) वाला आइडिया बेसी ठीक हो सकेला। बातचीत में सहारा खातिर [संवाद के सुझाव](/caregiving/communication-tips/) पढ़ीं, आ अउर बहुत आइडिया खातिर [101 गतिविधि](/activities/ideas/) देखीं।
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+देखभाल करे वाला के भी सहारा चाही। शुरुआती चरण अपना खातिर मदद के नेटवर्क बनावे के बढ़िया समय बा; देखीं [देखभाल करे वाला खातिर अपना ख्याल](/caregiving/caregiver-self-care/)।

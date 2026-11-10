@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Obbraghyn Kiune Fastyr Beg son Meenaghtys"
+seoTitle: "Sundowning: Obbraghyn Kiune Fastyr Beg"
+description: "Cliaghtaghyn meein, caghlaaghyn sy chamyr as obbraghyn kiune foddee dy chooney lesh neu-vea jerrey-laa ayns meenaghtys, as tra dy eamagh er lhiaghteyr."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Ta sundowning çheet rish neu-vea, corraa-mish ny fargys ta goaill toshiaght
+  ny ta goll ny smessey ’sy fastyr beg ny ’syn astyr. Foddee cur-choyrleyn
+  ymmydoil dy chooney goaill stiagh cliaghtey laaoil shickyr, soilshey-laa as
+  obbraghey ny s’leaie ’sy laa, ny sloo ansooryn fastyr, ny sloo caffee,
+  soilshaghyn sollyss goll er roish y lhiggey-hene, thie ny s’chiune, as
+  obbraghyn kiune myr kiaull, jalloonyn ny filleydy eaddagh. Ta feme ec
+  cowraghyn noa ny cowraghyn ta goll ny smessey er jeeaghyn liorish lhiaghteyr.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Ta sundowning çheet rish neu-vea ny corraa-mish ta goaill toshiaght ny ta goll ny smessey myr ta’n soilshey goll magh."
+  - "Cur obbraghyn doillee, troailtyn as niee ’sy voghrey ny ’sy fastyr leaie."
+  - "Foddee soilshey-laa, shooyl gagh laa, ny sloo ansooryn fastyr as ny sloo caffee ’sy fastyr beg cur er astyryn goll ny s’shee."
+  - "Cur soilshaghyn er roish y lhiggey-hene, lheie y feiyr, as gow obbraghyn kiune as ennoil."
+  - "Jean coontey giare dy hoiggal cre ta cur er, as freill dty hurrys as cur gerjagh tra ta neu-vea goaill toshiaght."
+  - "Loayr rish lhiaghteyr my vees cowraghyn noa ny goll ny smessey: foddee pian, doghan ny saaseyn-lheeys ve goaill ayrn."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Cre’n traa jeh’n laa ta sundowning taghyrt dy cadjin?"
+    a: "T’eh dy cadjin goaill toshiaght ny goll ny smessey ’sy fastyr beg ny ’syn astyr hoshiaght, myr ta’n soilshey goll magh. Ta’n traa caghlaa veih persoon dy persoon, as shen-y-fa foddee coontey giare son shiaghtin ny jees ve ymmydoil."
+  - q: "Cre ny obbraghyn ta cooney lesh sundowning?"
+    a: "Ta obbraghyn kiune, ennoil as aashagh dy chooilleeney gobbraghey share ’sy fastyr beg: kiaull sheeoil, jeeaghyn er jalloonyn, claare çhellveeish ny scannane mie, filleydy eaddagh, shooyl giare, ny bee beg ry-cheilley. Freill obbraghyn noa ny doillee son ny s’leaie ’sy laa."
+  - q: "Vod sundowning ve cowrey jeh red ennagh bentyn rish slaynt?"
+    a: "Foddee eh ve ny smessey kyndagh rish kuse dy chooishyn slayntay, myr pian, doghanyn (goaill stiagh doghanyn ’sy chorys uill-ushtey), feyshtyn cadlee ny fo-astyr saaseyn-lheeys. My ta neu-vea noa, doaltattym ny goll ny smessey, cur fys er lhiaghteyr yn phersoon."
+  - q: "Lhisagh dou briaght jeh’n lhiaghteyr mychione saase-lheeys son sundowning?"
+    a: "She co-loayrtys eh shen dy yannoo marish y lhiaghteyr. Ta’n Alzheimer’s Association gra dy vel saaseyn nagh vel bentyn rish saase-lheeys dy cadjin ny share hoshiaght, as lhisagh saase-lheeys erbee son neu-vea ’syn astyr ve smooinit er ny lurg jeeaghyn er ny gaueyn as ny vondeishyn. Cha nel y duillag shoh cur coyrle mychione saase-lheeys."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Ta ram lught-thie cur tastey da’n un chliaghtey: ta moghreeyn dy mennick sheeoil dy liooar, agh myr ta’n fastyr goll shaghey, ta’n persoon ta cummal lesh meenaghtys cheet dy ve neu-veaagh, imneagh, corraa-mish ny fargagh. Foddee ad shooyl er nyn doshiaght as er nyn yei, briaght dy gholl “thie” ga dy vel ad thie hannah, ny goll ersooyl dy aashagh. T’eh shoh enmyssit dy mennick sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Cha nel un reaghey ayn, agh foddee caghlaaghyn ayns rythym y laa, y chamyr as y dooghys obbraghyn t’ou cheb jannoo fastyryn beg ny s’chiune. Ta’n duillag shoh çhymsey smooinaghtyn ymmydoil, nagh vel bentyn rish saase-lheeys, veih’n National Institute on Aging as yn Alzheimer’s Association. Cha nel eh coyrle slaynt. My ta cowraghyn noa, doaltattym ny goll ny smessey, loayr rish lhiaghteyr yn phersoon.
 
-## What is sundowning?
+## Cre ta sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Ta sundowning çheet rish neu-vea, corraa, fargys ny corraa-mish ta goaill toshiaght ny ta goll ny smessey myr ta’n soilshey-laa goll magh, ’sy fastyr beg ny ’syn astyr hoshiaght. Ta’n [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) gra dy vod ve ro skee cur er neu-vea jerrey-laa ve ny smessey.
 
-## What can make late-day restlessness worse?
+## Cre oddys jannoo neu-vea jerrey-laa ny smessey?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Foddee ram reddyn cur stiagh, dy mennick ry-cheilley. Ta’n [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) cur coontey jeh reddyn myr:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- skeeys lurg laa lane;
+- boaylyn noa ny corraa-mishagh;
+- “cleaysh-chorp sthie” nagh vel co-chiart, as ta’n persoon cadlagh ’sy laa as doostey ’syn oie;
+- soilshey faase as scaaghyn, foddee ad ve corraa-mishagh;
+- goaill tastey da streeu ny fargys veih sleih mygeayrt-y-moo;
+- feme er ny sloo cadley, ta shen cadjin mastey sleih shinney.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+Ta’n NIA cur rish bun-oyryn corraa er-lheh, goaill stiagh pian, trimshey ny streeu, ro veg dy vea, castys, ro vooar dy heiyr ny ro ymmodee sleih, as kuse dy haaseyn-lheeys ny obbraghyn eddyr saaseyn-lheeys.
 
-## How can I plan the day to make evenings calmer?
+## Kys oddym plannal y laa dy yannoo astyryn ny s’chiune?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Cur reddyn doillee ny s’leaie as freill y fastyr beg meein as shickyr. Ta’n NIA as yn Alzheimer’s Association ny-neesht coyrlaghey cliaghtey reiltagh. Ta shoh sampleyr jeh laa, dy chaghlaa son oo hene:
 
-| Time | What may help |
+| Traa | Cre oddys cooney |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Moghrey | Coardailyn, niee, troailtyn as obbyr erbee ta geearree streeu, tra ta ram sleih ny s’astyragh |
+| Moghrey anmagh | Traa mooie ny liorish uinnag ghrianagh; shooyl ny obbraghey elley |
+| Laa-veanagh | Longey ny smoo (ta’n Alzheimer’s Association coyrlaghey longey ny smoo as bee astyree ny s’eddrym) |
+| Fastyr leaie | Fea my ta feme er, agh jean shickyr nagh vel ansooryn foddey ’sy fastyr |
+| Mean y fastyrey gys fastyr beg | Obbraghyn kiune as ennoil; bee beg as jough; gyn caffee |
+| Roish y lhiggey-hene | Cur soilshaghyn er as dooney ny curtanyn roish my jig eh dorraghey |
+| Astyr | Bee ny s’eddrym, kiaull chiune, ny sloo greinnaghey, cliaghtey shickyr roish cadley |
 
-A few specific points from the sources:
+Kuse dy phointyn er-lheh veih ny bunyn:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Soilshey-laa.** Ta’n NIA coyrlaghey traa mooie ny liorish uinnag son soilshey-ghrian gagh laa.
+- **Gleashaght gagh laa, agh cha nel ro vooar.** Jean obbraghey corpagh gagh laa gyn plannal ro ymmodee reddyn, ta’n NIA gra.
+- **Jioghyn ’sy fastyr beg.** Jean shickyr nagh vel alcohol ny jioghyn lesh caffee, myr kay ny cola, ’sy fastyr beg (NIA). Ta’n Alzheimer’s Association myrgeddin cur enn er nicotine.
+- **Ansooryn.** Jean shickyr nagh vel ansooryn foddey ny cadley giare ’sy fastyr (NIA). Ta’n Alzheimer’s Association coyrlaghey dy yannoo ansooryn laaoil ny sloo my ta feyshtyn cadlee ’syn oie.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Son tooilley cooney lesh laa shickyr, jeeagh er [obbraghyn son cliaghtey laaoil](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Kys oddym jannoo y thie ny s’chiune ’sy fastyr beg?
 
-Reduce noise, add light and keep familiar things close.
+Lheie feiyr, cur soilshey er, as freill reddyn ennoil er-gerrey.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Soilshey sollyss as cairagh.** Ta’n Alzheimer’s Association coyrlaghey dy chummal y thie dy mie soilsheanagh ’syn astyr. Cur soilshey er roish my jig scaaghyn.
+- **Ny sloo feiyr.** Cur y çhellveeish as y radio magh ny ny s’inshley, as jean ny sloo çheet er sleih ny obbyr thie ’sy traa shoh. Ta’n Alzheimer’s Association coyrlaghey dy lheie greinnaghey ’syn astyr, myr çhellveeish, obbyr thie as kiaull ard.
+- **Reddyn ennoil as gerjoil.** Ta’n NIA coyrlaghey kiaull sheeoil as freill nheeghyn as jalloonyn deyr mygeayrt y thie.
+- **Jeeaghyn er gerjagh.** Ta’n Alzheimer’s Association coyrlaghey dy yeeaghyn son pian, accrys, paays, castys, bladder lane, skeeys, doghanyn as corraa craue, as dy chummal y chamyr ec çhiass gerjoil.
+- **Dty ourys hene.** Ta sleih goaill tastey da streeu. Ta’n NIA coyrlaghey dy gholl ny s’moal as dy phrowal dy scuirr, my ta dty imnea hene cur er y streeu ve ny smessey.
 
-## What calm activities can we do in the late afternoon?
+## Cre ny obbraghyn kiune oddys mayd jannoo ’sy fastyr beg?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Reih obbraghyn ta ennoil, gyn siyr, as aashagh dy scuirr. Ta’n Alzheimer’s Association coyrlaghey obbraghyn sheeoil myr kiaull chiune, jalloonyn ny scannane mie, as shooyl ry-cheilley dy lheie neu-vea. Ta’n NIA coyrlaghey bee beg ny jough, claare çhellveeish mie, kiaull, shooyl, lhaih, ny obbyr thie aashagh myr filleydy eaddagh.
 
-Ideas to try:
+Smooinaghtyn dy phrowal:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Filley eaddagh ry-cheilley.** Ta’n NIA coyrlaghey yn lheid y churrym thie aashagh shoh. Ta towllyn aashagh dy chumrail, as ta jerrey baghtal ec y churrym.
+2. **Cloie kiaull ennoil.** Arraneyn ennoil veih ny bleeantyn aegey oc, ec feiyr injil. Ta craa maroo dy liooar. Tooilley smooinaghtyn ayns [obbraghyn kiaull](/activities/music/).
+3. **Jeeaghyn er jalloonyn.** Foddee lioar-jalloo, ny kuse dy jalloonyn lught-thie ayns [Photo Pairs](/games/photo-pairs/) lesh ny jalloonyn ry-akin, cur er co-loayrtys sheeoil.
+4. **Gow shooyl giare.** Mygeayrt y gharey, y straid ny cooyrt, roish my jig eh dorraghey.
+5. **Bee beg as jough ry-cheilley.** Red ennagh aashagh, çheh as gyn caffee, ec y voayrd ry-cheilley.
+6. **Co-chosney meein.** Ta [Picture Pairs](/games/picture-pairs/) lesh kiare brikkyn as jalloonyn ry-akin aashagh dy gholl toshiaght er as aashagh dy scuirr.
+7. **Dath.** Ta [Coloring](/games/coloring/) er y scaalhean ny er duillag prentit, gyn jerrey erbee dy yannoo.
+8. **Jeeaghyn as loayrt.** Ta [Conversation Cards](/games/conversation-cards/) cur jalloo as feysht foshlit. Ta jeeaghyn ny lomarcan dy liooar.
+9. **Tammyl ennal.** Ta [Calm Breathing](/games/calm-breathing/) ny phause moal, sheeoil t’ou goaill toshiaght er as scuirr jeh oo hene.
+10. **Obbyr lauee.** Sorçhey crammanyn ny stoggaaneyn, jannoo plaiynt eddrym er, ny cummal nhee ennoil. Jeeagh er [obbraghyn ennaghtagh](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Jean shickyr nagh vel gammanyn noa, troailtyn imneagh ny red erbee ta geearree mooarane cooinaghtyn ny geill ’sy laa anmagh. Freill ad shen son y voghrey.
 
-## What should I do when restlessness starts?
+## Cre lhisagh dou jannoo tra ta neu-vea goaill toshiaght?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Freill dty hurrys, cur gerjagh, as cur-lesh y geill dy meein dys red elley. Ta’n NIA coyrlaghey loayrt dy kiune, clashtyn rish imnea yn phersoon, shaghney arganeyn, cur gerjagh daue dy vel ad sauçhey, as bentyn dy meein my ta shen cooney. Eisht jean eab dy chur red elley er: bee beg, jough, kiaull ny shooyl.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Ta’n Alzheimer’s Association coyrlaghey raaghyn myr “T’ou sauçhey ayns shoh” as “S’treih lhiam dy vel oo seaghnit”, as coyrlaghey dy chur soilshey er, goll ny s’moal as lheie greinnaghey. Ny jean corneil, ny lhieen mygeayrt, ny lhiettal y persoon, ny arganey maroo.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+My ta’n persoon cheet dy ve eulyssagh, ta’n NIA coyrlaghey tannaghtyn foddey sauçhey derrey scuirr y ymmyrkey. Ayns stayd anchasley, cur feysht er 999 as insh dy vel meenaghtys ec y persoon.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Ta tooilley ayns nyn goyrlaghyn mychione [cummeeys](/caregiving/communication-tips/) as [cre dy yannoo tra ta’d gra nagh vel](/caregiving/when-they-say-no/) mychione focklyn sheeoil.
 
-## How do I find the triggers?
+## Kys oddym feddyn magh cre ta cur er?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Jean coontey giare son shiaghtin ny jees. Ta’n Alzheimer’s Association coyrlaghey dy chur sheese cre taghyrt roish cooishyn sundowning dy hoiggal cre ta cur orroo. Screeu sheese y traa ren neu-vea goaill toshiaght, cre haghyr ’sy oor roish, ansooryn, bee as jioghyn, çheet er sleih, feiyr as soilshey. Cur lhiet y coontey dys y lhiaghteyr. Ta’n NIA gra dy vod coontey caghlaaghyn ymmyrkey cooney lesh kiarailtee as fir-chaarjyn slayntay fakin cliaghtey.
 
-## When should I call a doctor about sundowning?
+## Tra lhisagh dou cur feysht er lhiaghteyr mychione sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Cur fys er lhiaghteyr yn phersoon my ta neu-vea noa, ny smessey dy doaltattym, ny çheet marish caghlaaghyn elley. Ta’n NIA gra lhisagh caghlaaghyn doaltattym ny tappee ayns ymmyrkey, er-lheh lurg doghan ny caghlaaghyn er saaseyn-lheeys er y gherrid, ve currit da tastey lhiaghteyr dy leah.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Briaght jeh’n lhiaghteyr dy yeeaghyn son reddyn oddys jannoo astyryn ny s’doillee. Ta’n Alzheimer’s Association cur enn er cooishyn corpagh myr doghanyn ’sy chorys uill-ushtey, neu-reill er y vladder, cassyn neu-veaagh as apnea cadlee, as coyrlaghey dy vriaght cre ny traaghyn jeh’n laa ta share son dagh saase-lheeys. Ta’n NIA cur pian, castys as fo-astyr saase-lheeys ny obbraghyn eddyr saaseyn-lheeys mastey bun-oyryn corraa.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Ta’n Alzheimer’s Association gra dy vel saaseyn nagh vel bentyn rish saase-lheeys dy cadjin ny share son feyshtyn cadlee bentyn rish galar Alzheimer, as lhisagh saase-lheeys son neu-vea ’sy fastyr beg ve smooinit er ny lomarcan my ta ny saaseyn shen failleil, lurg jeeaghyn er ny gaueyn as ny vondeishyn. Ta’n chooish shen bentyn rish y lhiaghteyr. Ny gow toshiaght er, ny scuirr veih, ny jean caghlaa erbee er saase-lheeys, cooney cadlee ny supplement gyn coyrle slaynt.
 
-## How do I get through the evenings myself?
+## Kys oddym goll trooid ny hastyryn mee hene?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Foddee fastyryn beg ve yn ayrn s’doillee jeh laa kiaraltee. My oddys oo, briaght jeh oltey lught-thie, carrey ny cooneyder eeckit dy chooney ’sy fastyr beg kuse dy laaghyn ’sy chiaghtin, eer son oor. Ta nyn goyrle mychione [kiarail er oo hene son kiarailtee](/caregiving/caregiver-self-care/) cur coontey jeh saaseyn dy ghoaill fea as y çhellvane 24/7 ec Alzheimer’s Association.

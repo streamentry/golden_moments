@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Maandeeji gadiiɗi majjere hakkil e ndee ñaawoto-ɗaa doktoor"
+seoTitle: "Maandeeji gadiiɗi majjere hakkil e ndee ñaawoto-ɗaa doktoor"
+description: "Maandeeji gadiiɗi majjere hakkil, no ɗi ceertiri e nayeejo ɓooygol, caabuuji sifaaji baawɗi ñawndeede, e no heɓirirtaa njillu doktoor."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Yejjitaare hakkil nde haɗata golle ñalnde kala, caɗeele e golle anndaaɗe, jiiɓru e sahaa walla nokku,
+  e waylooji e ngonka ɓernde walla pellital ina mbaawi wonde maandeeji gadiiɗi majjere hakkil. Caɗeele goɗɗe
+  keewɗe, ena jeyaa heen caɗeele tiroyiid, ustagol witamiin B12, battane lekki, ɓillaare ɓernde e caɗeele ɗaanagol,
+  ina mbaawi addude bayle nannduɗe. Kuutorgal peŋngal tan waawi teskude ɗum. Jiiɓru arnde kisan ina foti ballal jaawngal.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Yejjitaade sahaa-sahaa ina heewi e ɓooygol; bayle haɗooje golle ñalnde kala ina foti ƴeewteede."
+  - "Alzheimer's Association ina sifa maandeeji 10 jeertinooje, gooto fof e baylol ɓooygol ngal heewi ngam yerondirde."
+  - "Caɗeele tiroyiid, ustagol witamiin B12, battane lekki, ɓillaare ɓernde, ñabbuuli e caɗeele ɗaanagol fof ina mbaawi memminde hakkil, tee won e ɗeen ina mbaawi ñawndeede."
+  - "Kuutorgal peŋngal tan waawi teskude majjere hakkil; ƴeewndorɗe e ƴeewtagol hoore mum en ka enternet mbaawaa."
+  - "Jiiɓru arnde kisan, e nder waktuuji walla balɗe, ina waawi wonde deliriyoom tee ina foti ballal jaawngal."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Hara yejjitaade ko huunde nde heewi e ɓooygol?"
+    a: "Won e mum ko huunde nde heewi. National Institute on Aging ina wi'a wonde majjinde piiji sahaa-sahaa walla yejjitaade yoɓde ina heewi wonde yejjitaare fartaŋnde nde ƴellitaare addi. Majjere hakkil wonaa huunde nde heewi e ɓooygol. Caɗeele hakkil waɗooje golle ñalnde kala, hono wuurde oto, huutoraade telefon walla yiytude laawol galle, ina foti ƴeewteede e doktoor."
+  - q: "Hara caɗeele hakkil ina mbaawi iwde e huunde wonaa majjere hakkil?"
+    a: "Eey. National Institute on Aging ina jeyaa heen caɗeele tiroyiid, ɗe kañƴe walla heeñere, battane lekki, ɓillaare ɓernde e kulol, ustagol witamiin B12, huutoraade mandilaaji no feewaani, caɗeele ɗaanagol, ñabbuuli e barme hoore, e goɗɗe. Won e ɗeen ina mbaawi moƴƴude caggal ñawndugol, ɗum ko goʼo sabaabu nde ƴeewndo safaara ina himmi."
+  - q: "Miɗo waawi ƴeewtaade neɗɗo majjere hakkil ka galle?"
+    a: "Alaa. Kuutorgal peŋngal tan waawi teskude majjere hakkil, huutoraade daartol cellal, ƴeewndo ɓandu, ƴeewndorɗe hakkil e miijagol, ƴeewndorɗe laboratuwaar e sahaa-sahaa nate hakkil. Hay ƴeewndorɗe daɓɓuɗe ɗe doktoorooɓe kuutortoo mbaawaa tan teskude majjere hakkil."
+  - q: "Hol ko mbaɗ-mi so neɗɗo jiiɓii kisan?"
+    a: "Heɓ ballal safaara kisan. Jiiɓru arnde kisan ina waawi wonde deliriyoom, nde VA sifii ko caɗeele jaawɗe safaara. Noddu kuutorgal cellal neɗɗo o kisan walla noddu limoore ŋakke jonnde e nokku mon, heddo e makko, tee winndito lekkiiji ɗi o ɓamta."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Teskaade bayle e hakkil maa, walla e hakkil neɗɗo mo aɗa yiɗi, ina waawi hulɓinde. Hello ngo ina waawi wallude ma suɓaade ndee ñaawoto-ɗaa njillu doktoor e no heɓirirtaa ɗum. Ngo waawaa haalande ma so neɗɗo no jogii majjere hakkil. **Kuutorgal peŋngal tan waawi teskude majjere hakkil**, tee caɗeele keewɗe addooje caɗeele hakkil wonaa majjere hakkil hay so seeɗa. Tiiɗno, hoto fawoo e ƴeewndorɗe walla ƴeewtagol hoore mum en ka enternet.
 
-## What are the early signs of dementia?
+## Hol ko woni maandeeji gadiiɗi majjere hakkil?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) ina sifa maandeeji 10 gadiiɗi. E ngo renndina kala heen e baylol ɓooygol ngal heewi ngam yerondirde. E konguɗi amen ɗii:
 
-| Sign worth checking | More typical with age |
+| Maande nde foti ƴeewteede | Ko heewi e ɓooygol |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Yejjitaare hakkil nde haɗata golle ñalnde kala, hono yejjitaade piiji kewɗi walla naamnaade huunde wootere kadi e kadi | Yejjitaade innde walla njillu sahaa-sahaa, caggal ɗuum anditaade |
+| Caɗeele e teeltaare walla ñawndugol caɗeele, hono rewde e deftere defte anndaande walla toppitaade yoɓe | Juumre fartaŋnde e yoɓe galle sahaa-sahaa |
+| Caɗeele timminde golle anndaaɗe ka galle, ka gollirdu walla so a yahiima yaasi | Soklude ballal sahaa-sahaa e teelte mikro-ond walla winnditaade fii televisiyoŋ |
+| Majjude ñalɗe, dumunnaaji hitaande walla nokku mo ngon-ɗaa | Juumre e ñalawma yontere, caggal ɗuum anditaade |
+| Caɗeele kese e ɓetde woɗɗiteendi, janngude walla senndinde noone | Bayle gite iwɗe e katarakt |
+| Caɗeele kese e konguɗi, hono dartagol hakkunde haala walla noddirde piiji inɗe feewaani | Caɗeele yiytude helmere moƴƴere sahaa-sahaa |
+| Waɗde piiji e nokkuuji ɗi ŋakkuɗi, tee waawaa teskitaade laawol | Majjinde piiji sahaa-sahaa, caggal ɗuum yiytude ɗi so a teskitiima laawol |
+| Pellital moƴƴaani, hono e kaalisi walla toppitagol hoore mum | Ƴettude pellital moƴƴaani sahaa-sahaa |
+| Woɗɗitaade e weltaare, gollal walla jokkondire renndo | Waasaade yiɗde yahde e joljolal ɓesngu walla renndo sahaa-sahaa |
+| Bayle e ngonka ɓernde walla jikku, hono wonde jiiɓɗo, tuumɗo, hulɗo walla annduɗo | Jogaade fannuuji keeriiɗi, tee ɓillitaade so golle ñalnde waylii |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Maande wootere tan firtaani majjere hakkil. Ko himmi ko **baylol iwngol e ko heewi wonande neɗɗo o**, haa teeŋti e ngol saɗtinngol nguurndam ñalnde kala.
 
-## How is normal aging different from dementia?
+## Hol no ɓooygol ngal heewi seertiri e majjere hakkil?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) ina wi'a yimɓe ɓooyɓe heewɓe ina teskoo ɓe ciftora piiji seeɗa-seeɗa, walla ɓe majja piiji sahaa-sahaa walla ɓe yejjita yoɓde. Ɗee ko maandeeji yejjitaare fartaŋnde. **Majjere hakkil wonaa huunde nde heewi e ɓooygol.** Caɗeele hakkil tiiɗɗe ina saɗtina golle ñalnde kala, hono wuurde oto, huutoraade telefon walla yiytude laawol galle.
 
-The NIA suggests talking with a doctor if someone:
+NIA ina wasiyaa yo en haaldu e doktoor so neɗɗo:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Naamnii naamne goote kadi e kadi
+- Majjii e nokkuuji ɗi o anndunoo no feewi
+- Heɓii caɗeele rewde e defte walla yamirooje
+- Ɓeydiima jiiɓaade e sahaa, yimɓe e nokkuuji
+- Dartiima toppitaade hoore mum, hono ñaamde no feewaani, waasaade lootde walla waɗde piiji ɗi ŋakka kisal
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Won e yimɓe ina njogii **barme hakkil fartaŋnde (MCI)**. Ɗum firti ko caɗeele hakkil walla miijagol ɓurɗe ɗe woɗɓe e duuɓi mum, tawi ɓe ina njogii kadi mbaawka toppitaade nguurndam ñalnde kala. NIA ina wi'a MCI ina waawi wonde maande gaddiinde Alzaymeer, kono wonaa kala jogiiɗo MCI heɓata ɗum.
 
-## What else can cause memory problems?
+## Hol piiji goɗɗi baawɗi addude caɗeele hakkil?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Piiji keewɗi, wonaa majjere hakkil tan, ina mbaawi memminde hakkil, tee won e ɗiin ina ɓeydoo moƴƴude caggal ñawndugol. NIA ina jeyaa heen:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Caɗeele tiroyiid, ɗe kañƴe walla heeñere**
+- **Battane lekki**
+- **Ɓillaare ɓernde e kulol**
+- **Ustagol witamiin B12** walla ñaamde ñamri celluɗo no feewaani
+- **Caɗeele ɗaanagol**
+- **Huutoraade mandilaaji walla kadi lekkiiji no feewaani**
+- **Ñabbuuli, ɓoggi ƴiiƴam walla ŋaluuji** e hakkil
+- **Barme hoore**, hono kooki hoore
+- **Annde tiiɗnde walla suno**, hono fowtaade golle walla sortaade moɗɗuɗo
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Caɗeele nanagol e yiyde ina mbaawi jaggireede ko jiiɓru; yillo e [jannginoore amen nde nanagol](/brain-health/hearing/). Ko ɗum saabii ƴeewndo safaara ina himmi. Hade [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doktoorooɓe ina keewi yamirde ƴeewndorɗe ƴiiƴam ngam ƴeewde caɗeele tiroyiid, ŋakkere witamiinuuji e ñabbuuli. [Ɗaanagol](/brain-health/sleep/) moƴƴol e ñawndugol ɓillaare ɓernde ina foti kaalaade kadi.
 
-## Sudden confusion is an emergency
+## Jiiɓru arnde kisan ko caɗeele jaawɗe
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Jiiɓru arnde kisan, e nder waktuuji walla balɗe, ina foti ballal safaara jaawngal.** Ina waawi wonde deliriyoom. [VA ina sifaa deliriyoom](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) ko caɗeele jaawɗe safaara tee ina wasiyaa yo noddee kuutorgal cellal neɗɗo o kisan walla noddee limoore ŋakke jonnde e nokku mon. Maandeeji ina jeyaa heen:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Bayle e mbaawka miijaade no laaɓi
+- Caɗeele e huccaade hakkil
+- Miijagol jiingol
+- Ɗaanagol no feewaani, walla jiiɓgol e anndugol no feewaani
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Ɗum ina waawi heɓde kala neɗɗo, hay ɓeen wuurɓe gila ko ɓooyi e majjere hakkil. Hade [NHS](https://www.nhs.uk/symptoms/confusion/), caabuuji keewɗi ina jeyaa heen ñabbuuli (ñabbuuli laawol tuuba ina keewi e yimɓe ɓooyɓe e yimɓe wuurɓe e majjere hakkil), seekle hakkil, ustagol suukara ƴiiƴam e yimɓe jogiiɓe diyabeet, barme hoore e won lekkiiji. Tawi aɗa heɗii ballal, heddo e neɗɗo o tee deƴƴin mo e konguɗi daɓɓuɗi, laaɓtuɗi. Hoto naamno mo naamne keewɗe, tee winndito lekkiiji ɗi o ɓamta.
 
-## How do I prepare for the doctor's appointment?
+## Hol no heɓirir-mi njillu doktoor?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Njillu moƴƴo ina fuɗɗoo e ciife moƴƴe. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) ina wasiyaa yo a addu:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Doggol bayle** e hakkil, ngonka ɓernde e jikku, e yeru feewɗe e ndee fuɗɗii nii
+2. **Caɗeele cellal ɓennuɗe e gonɗe jooni**, ena jeyaa heen daartol ɓesngu baɗte caɗeele hakkil
+3. **Kala lekki ɗoktaaɗi e ɗi soodetee tawa doktoor yamiraani**
+4. **Kala witamiinuuji walla ɓeyditte**
+5. **Naamne maa**, hono hol ƴeewndorɗe maa mbaɗe, ɗe ɓeta ko juuti, e ndee jaabawuuji arata
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Ina moƴƴi kadi yo a addu terɗe ɓesngu walla yigiɗo annduɗo neɗɗo o no feewi. [NIA ina sifta](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) wonde doktoorooɓe ina mbaawi naamnaade neɗɗo o e terɗe ɓesngu baɗte cellal, lekkiiji, golle ñalnde kala e bayle jikku. Doktoorooɓe ina mbaawi kadi:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Ɓamtaade ƴeewndorɗe hakkil, ñawndugol caɗeele, huccaade hakkil, limoore e ɗemngal
+- Yamirde ƴeewndorɗe ƴiiƴam, tuuba e goɗɗe ngam yiytude caabuuji goɗɗi
+- Ƴeewde ɓillaare ɓernde walla caɗeele goɗɗe hakkil
+- Yamirde nate hakkil hono CT walla MRI
+- Neldude e to karallo, hono doktoor mawɓe, karallo hakkil, karallo hakkil mawɓe walla karallo hakkil e jikku
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA ina teskii ƴeewndo hakkil ko huunde nde foti waɗeede e njillu hitaande cellal Medicare, ɗum ina waawi wonde sahaa moƴƴo ngam udditde haala. Hay ƴeewndorɗe daɓɓuɗe ɗe doktoorooɓe kuutortoo mbaawaa tan teskude majjere hakkil. Ɗe ko daawal gadanol feewde e ƴeewndo timmungo, tee teskaade ina waawi ɓamde ko ɓuri njillu gooto. NIA ina wasiyaa yimɓe jogiiɓe caɗeele hakkil yo ɓe ngartu to doktoor kala lebbi 6 haa 12.
 
-## Raising the subject kindly
+## Udditde haala e newaare
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+So aɗa anndi fii neɗɗo goɗɗo, suɓo sahaa deƴƴo, mo suturo. Haal fii piiji keeriiɗi ɗi a teskike, e no hollirtaa aɗa faalaa cellal makko, wonaa felde mo. Wasiyyaade ƴeewndo cellal kuuɓtodinngo ina waawi wonaade huunde hulɓinnde seeɗa. Naatnu neɗɗo o e pellitte tee haaldan mo ko mawɗo mo o woni. [Ballal amen ngam haaldude](/caregiving/communication-tips/) ina waawi wallude.
 
-## Talk with a doctor
+## Haaldu e doktoor
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+So a teskike bayle e hakkil, miijagol, ngonka ɓernde walla mbaawkaaji ñalnde kala ɗi kesi ɗi jokki, ñaawo njillu e doktoor kuuɓtodinngo. So tawii ko jiiɓru arnde kisan, noddu limoore ŋakke jonnde e nokku mon walla noddu kuutorgal cellal neɗɗo o kisan. Ƴeewtaade law ina addana yiytude caabuuji baawɗi ñawndeede, tee so tawii ko majjere hakkil, ina waɗa sahaa ɓurɗo ngam teeltaade e heɓde ballal. Toppito kadi hoore maa e ndee sahaa; yillo e [jannginoore amen toppitagol hoore mum en](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Hello ngo ko humpito kuuɓtodinngo, wonaa wasiya safaara. Yillo e [renndinoore amen safaara](/medical-disclaimer/).

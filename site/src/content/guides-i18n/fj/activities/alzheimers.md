@@ -1,35 +1,37 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "iTaviqaravi kei na Qito me baleta na Alzheimer's"
+seoTitle: "iTaviqaravi ni Alzheimer's: Vakasama ena iWasewase"
+description: "iTaviqaravi kei na qito me baleta na tamata e tiko vua na Alzheimer's ena veiwasewase, e yavutaki ena kila kei na nanuma e se tiko, kei na qito wale e rawa ni caka vata."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Na itaviqaravi vinaka me baleta e dua e tiko vua na Alzheimer's e vakayagataka
+  na veika e se tiko vakadede: na kila e dau caka tu vakawasoma, na sere makawa,
+  na cakacaka ni vale e kilai, kei na veika e rogoci se raici. Ena itekitekivu,
+  na qito karata, na qito ni teveli, na vakasaqa kei na lako e rawa ni se
+  yaga. Ena loma ni gauna, tovolea na lobika, na veiwasei, na lagasere, na
+  albamu ni iyaloyalo kei na qito iyaloyalo rawarawa. Ena gauna e sivia, na
+  ivakatagi, na tarai kei na tiko vata e bibi duadua. Muria na ituvaki ni
+  tamata ena siga oqo.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Na Alzheimer's e vu levu duadua ni mate guiguilecavi, ka na vakasama ni itaviqaravi ni mate guiguilecavi e yaga talega kina."
+  - "Na itukutuku vou e dau dredre taumada, ia na kila kei na sere e vulici vakadede sa oti e rawa ni tiko vakabalavu cake. Vakayagataka na veika oqori."
+  - "Na veiwasewase e veicurumaki ka e kena ivakarau na siga vinaka kei na siga dredre. Digitaka me vaka na ka e rawa ka marautaka na tamata nikua."
+  - "Digitaka na qito e sega na iwiliwili ni gauna, na maka, se na tarotarogi, ka laiva na iyaloyalo me rairai tiko."
+  - "Na sarasara, na taura e dua na ka, se na tiko ga vata e wili talega me vaka na veika e caka vata."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Na cava na itaviqaravi e vinaka me baleta e dua e tiko vua na Alzheimer's?"
+    a: "Na itaviqaravi e kilai ka vakawaraki vakalailai: na lobika isulu, na tuvana na teveli, na vakasaqa vata, na ivakatagi kei na lagasere, na raica na iyaloyalo, na taubale, na teitei kei na gauna vata kei na manumanu ni vale. Na qito iyaloyalo rawarawa, na jigsaw rawarawa kei na kadi ni veitalanoa e rawa ni yaga talega vei eso. Digitaka na ka e dau taleitaka na tamata ka caka vata kei koya."
+  - q: "E vinaka na qito vei ira era tiko vua na Alzheimer's?"
+    a: "Na qito e rawa ni sala vinaka me vakayacora vata na gauna ke marautaka na tamata. E sega ni dua na qito e vakaraitaki ni sa veivakarautaki, vakaberaberataka, se tarova na Alzheimer's, gona digitaka na qito me baleta na marau: iyaloyalo levu, digidigi lailai, ka sega na iwiliwili ni gauna, na maka, se na rorogo ni sa cala."
+  - q: "E duidui beka na itaviqaravi ni mate guiguilecavi kei na itaviqaravi ni Alzheimer's?"
+    a: "Vakalekaleka, e sega. Na mate ni Alzheimer's e vu levu duadua ni mate guiguilecavi, ka na vata ga na vakasama ni itaviqaravi e yaga. Na ka e vukea na Alzheimer's na kila ni na nanuma vou e dau yali taumada, gona na itaviqaravi e yavutaki ena kila makawa, na sere kei na ivakarau e dau rawarawa cake."
+  - q: "Na cava e rawa ni marautaka e dua e tiko ena iotioti ni iwasewase ni Alzheimer's?"
+    a: "Na sere e taleitaka, na masaji malumu ni liga, na ka malumu me taura, na wiliwili vua, na tiko e tautuba, kei na tiko vata kei e dua e nuitaka. Vakalekaleka ka vakacegu, ka vakaraica na mata kei na yago me kila na ka e taleitaka."
+  - q: "Au na uqeti koya vakacava e dua e tiko vua na Alzheimer's me vakaitavi ena itaviqaravi?"
+    a: "Kerea na nona veivuke ka kua ni tukuna ga ni dua na itaviqaravi, vakarautaka na veika kece taumada, ka tekivu o iko mo rawa ni curu mai. Na digitaka ni gauna ena siga e vinaka cake kina vua e rawa ni veisautaka vakalevu. Ke kaya e sega, tovolea tale ena dua na gauna se solia e dua na kena mata rawarawa cake."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +56,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ke dua na tamata o lomana e tiko vua na Alzheimer's, o rairai sa raica ni so na ka e yali totolo ia so e se tiko ga. E rawa ni guilecava na qiri ena talevoni ena mataka oqo ia e se lagata rawa na vosa kece ni dua na sere, lobika na tauleni me vaka ga e dau cakava, se wasea na qito karata ka sega ni vakasamataka. Na itaviqaravi vinaka e yavutaki ena kila oqo e se tiko. Na tabana oqo e vakamacalataka na vuna, qai solia na vakasama me baleta na veiwasewase kei na qito wale ena vanua oqo e veiganiti.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## E duidui beka na Alzheimer's mai na mate guiguilecavi ni sa baleta na itaviqaravi?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+E sega soti. Na mate guiguilecavi e vosa raraba, ka na mate ni Alzheimer's e vu levu duadua kina: na [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) e kaya ni 60 ki na 80 na pasede ni mate guiguilecavi e vakavuna. Voleka ni ka kece e volai me baleta na itaviqaravi ni mate guiguilecavi e yaga talega ki na Alzheimer's, oka kina na neitou [101 na vakasama ni itaviqaravi](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Na ka e yaga me kilai na kena ituvaki ni veisau e dau yaco. Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) e vakamacalataka ni Alzheimer's e vakacacana taumada na tiki ni mona e baleta na nanuma, qai tarai muri na vosa, na vakasama kei na itovo ni veimaliwai. Na Alzheimer's Association e kaya ni ivakatakilakila taumada e dau laurai na dredre ni nanuma na itukutuku vou. E duidui na tamata yadua, ka vuqa era tiko vei ira e sivia na dua na vu, ia na ituvaki oqo e vukea na ka e dau yaga.
 
-## What kinds of activities suit Alzheimer's best?
+## Na mataqali itaviqaravi cava e veiganiti vinaka kei na Alzheimer's?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Na itaviqaravi e vakararavi ki na kila makawa, e dau caka vakawasoma, e dau rawarawa cake mai na ka e gadrevi kina me vulici ka maroroi e dua na ka vou ena vakasama.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Na kila e dau caka vakawasoma.** Na Alzheimer's Association e kaya ni dua na tamata e rawa ni se lagata na sere rawarawa e vulica ena piano ena gauna sa oti. Na culacula, na olo kau, na veiwaseyaki ni karata, na bukia na madrai kei na lobika isulu e tautauvata.
+- **Na sere makawa kei na ivakatagi e kilai.** Vuqa era se kila na vosa kece ni sere mai na nodra gauna ni cauravou, na sere lotu kei na sere ni nodra vakamau. Raica na [itaviqaravi ni ivakatagi](/activities/music/).
+- **Na cakacaka ni veisiga e tiko na kena inaki.** Na [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e wilika na sava peleti, na tuvana na teveli, na veiwasei ni sokeni kei na lobika isulu me itaviqaravi era rawa ni marautaka. Na nanuma ni yaga e bibi.
+- **Na kila lesu ka sega ni nanuma vakataki koya.** Na dusia na iyaloyalo e veidonui e rawarawa cake mai na tukuna na kena yaca mai na nanuma. Oqo na vuna e vinaka cake kina na qito iyaloyalo ke rairai kece na ka mai na tarogusuva.
+- **Na veika e rogoci se raici.** Na tarai, na iboi, na katakata, na kena itovo kei na rorogo e se bibi ga ni sa dredre na vosa. Raica na [itaviqaravi ni veika e rogoci se raici](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Na ka e dau sega ni rawarawa: na ka e tiko na kaloko, na lawa vou me vulici, e vuqa na ikalawa me nanumi, se na taro e vakatovolea na nanuma, me vaka na "O nanuma beka o cei oqo?" Na ka oqori e kauta na tiki dredre ni Alzheimer's ki liu.
 
-## Activities for early-stage Alzheimer's
+## iTaviqaravi me baleta na itekitekivu ni iwasewase ni Alzheimer's
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Ena itekitekivu ni iwasewase, na [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) e kaya ni dua na tamata e rawa ni se draiva, cakacaka ka vakaitavi ena itaviqaravi ni veimaliwai, ia e raica na guiguilecavi lalai me vaka na guilecava na vosa e kilai se na vanua ni veika. Na sala vinaka duadua na cakacaka vata: taroga na ka e via tomana ka na veivuke cava e vinakata.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Tomana na ka e dau taleitaka.** Golf, bridge, culacula, matasere kei na ilawalawa ni lotu, kei na veisau lalai me vaka na ilawalawa lailai kei na gauna vakacegu.
+2. **Qitotaka na qito karata kei na qito ni teveli e kilai.** Na [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e wilika na trivia, na vakasaqara vosa, na qito karata kei na qito ni teveli me baleta na itekitekivu ni iwasewase. Qito me timi ke tekivu me veivakasosataki na wiliki ni maka, se biuta sara na maka.
+3. **Vakasaqa vata.** Laiva me cicivaka e dua na ivakarau ni kakana e kila vinaka, ia o iko mo wiliwili na ikalawa.
+4. **Tekivuna e dua na cakacaka ni italanoa ni bula.** iYaloyalo, ivakarau ni kakana kei na italanoa ena dua na scrapbook e liutaka. Raica na [itaviqaravi ni nanuma lesu](/activities/reminiscence/).
+5. **Lako yani ki tautuba.** Ki na vale ni kana e taleitaka ena dua na gauna vakacegu, ki na valeniyaya ni tukutuku makawa me dua na sikovi lekaleka, se taubale ena paaka.
+6. **Tovolea na puzzle e digitaka.** Na crossword e levu na matanivola, na vakasaqara vosa kei na jigsaw. Raica na [puzzle me baleta na mate guiguilecavi](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Eso tale na vakasama: [itaviqaravi ena itekitekivu ni iwasewase](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## iTaviqaravi me baleta na loma ni iwasewase ni Alzheimer's
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Na Alzheimer's Association e vakamacalataka na loma ni iwasewase me dau balavu duadua, ka rawa ni vo e vica vata na yabaki. Na vosa e veicurumaki, na rarawa e dau yaco totolo, ka na tamata e gadreva e levu cake na qaravi. Na Alzheimer's Foundation of America e kuria ni vuqa era gadreva na veivuke me tekivu se tomana na itaviqaravi. Na nomu itavi e veisau ki na vakarautaki ni veika, na vakaraitaki ka sega ni vakamacalataka wale, kei na taura na tiki dredre.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Lobika, veiwaseya ka veidonuiya.** Tauleni, sokeni, iyaya ni kana, batani me vaka na roka. Cakacaka dina, e caka vata.
+2. **Lagasere ka toso vata kei na ivakatagi.** Qiqi, yavala se danisi ena valenisili. Tekivu lagasere o iko ka laiva me curu mai.
+3. **Raica vata na albamu ni iyaloyalo.** Vakamacalataka na ka o raica ka sureta na italanoa: "Sa totoka na motoka oqori. Talanoataka mada vei au." Vakadonuya na yaca cava ga e vakayagataka.
+4. **Qitotaka na qito iyaloyalo rawarawa.** [Picture pairs](/games/picture-pairs/) kei na va ki na ono na tile ka laivi na iyaloyalo me rairai, se [Find the same](/games/find-the-same/) kei na rua se tolu na digidigi.
+5. **Vakacavara na vosa kilai.** "An apple a day keeps the..." Na vosa kilai e vulici vakadede e dau rawarawa. Tovolea [Finish the saying](/games/finish-the-saying/), e rawa ni vakaraitaki kina na icavacava ena dua ga na tara.
+6. **Suvuya ka qarava na kau.** Na kau ena loma ni vale se ena were cere, kei na tavaya lailai ni wai.
+7. **Caka e dua na qito veidonui mai na iyaloyalo ni matavuvale.** [Photo pairs](/games/photo-pairs/) e vakayagataka na iyaloyalo o digitaka ena nomu misini, ka sega ni biu mai kina.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Eso tale na vakasama: [itaviqaravi ena loma ni iwasewase](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## iTaviqaravi me baleta na iotioti ni iwasewase ni Alzheimer's
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Ena iotioti ni iwasewase, na Alzheimer's Association e kaya ni tamata era yali na nodra rawa ni sauma lesu na veika e vakavolivoliti ira kei na tomana na veitalanoa, ia era rawa ni se cavuta eso na vosa se malanivosa. Na itaviqaravi ena gauna oqo e kena ibalebale na vakacegui kei na veiwekani, e kau yani ki na vanua e vakacegu tiko kina na tamata.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Vakatagitaka na sere e taleitaka** vakamalua, ka sega na retioyaloyalo me veiqati.
+2. **Solia e dua na masaji malumu ni liga** kei na waiwai e tiko na iboi e taleitaka.
+3. **Solia na ka malumu me taura:** isulu katakata, isulu malumu, se vatu mamare.
+4. **Wiliwili vakadomoilevu** na same, na serekali se dua na italanoa e kilai. Na kena itovo e bibi cake mai na kena ibalebale.
+5. **Tiko e tautuba** ena ruku, se volekata na katubaleka me sarava na manumanu vuka.
+6. **Raica vata e dua na iyaloyalo levu.** E dua na senikau se koli e sinai na sikirini ni tablet, ka o iko mo tukuna na ka o raica.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Eso tale na vakasama: [itaviqaravi ena iotioti ni iwasewase](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Na qito cava e yaga me baleta e dua e tiko vua na Alzheimer's?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Digitaka na qito e sega ni dua na ka e rawa ni druka kina. Na qito kece ena vanua oqo e wale, e cici ena barausa ka sega na iwiliwili ni gauna, na maka se na sainitaki.
 
-| Game | What you do | Often suits |
+| Qito | Na cava e caka | E dau veiganiti |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Veidonuiya na iyaloyalo levu; e rawa ni tu e dela | iTekitekivu kei na loma ni iwasewase |
+| [Find the same](/games/find-the-same/) | Tarai na iyaloyalo e tautauvata kei na kena e cake | Loma kei na iotioti ni iwasewase, kei na veivuke |
+| [Finish the saying](/games/finish-the-saying/) | Digitaka na iotioti ni vosa ni dua na vosa kilai, se vakaraitaka | iTekitekivu kei na loma ni iwasewase |
+| [Picture puzzle](/games/picture-puzzle/) | Veisautaka na 4 se 9 na tiki ki na vanua dodonu, kei na iyaloyalo e vakaraitaki | iTekitekivu kei na loma ni iwasewase |
+| [Conversation cards](/games/conversation-cards/) | E dua na iyaloyalo kei na taro ni veitalanoa | Dua ga na iwasewase, kei e dua me veitalanoa vata |
+| [Photo pairs](/games/photo-pairs/) | E dua na qito veidonui e caka mai na nomu iyaloyalo | iTekitekivu kei na loma ni iwasewase |
+| [Coloring](/games/coloring/) | Tarai e dua na roka, qai tarai e dua na tiki ni iyaloyalo; se tabaka | Dua ga na iwasewase, kei na veivuke |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Me baleta na tiko vata, na levu ni veivuke, kei na gauna me cegu kina, wilika [na sala ni qito vata kei e dua e tiko vua na mate guiguilecavi](/caregiving/how-to-play-together/). Ke o vakasamataka na "qito ni nanuma", raica [na qito ni nanuma me baleti ira na qase era tiko vua na mate guiguilecavi](/activities/memory-games/).
 
-## How to make any activity easier
+## Na sala me vakarawarawataka kina e dua ga na itaviqaravi
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Na ivakasala ni NIA e yaco ki na vica na ivakarau: veiganitiya na itaviqaravi kei na ka e rawa ni cakava na tamata, vukei koya me tekivu, vakaraica na rarawa, vakadeitaka ni vakila na rawaka, ka laiva me sarasara ga ke oya e taleitaka.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Digitaka na gauna ena siga e vinaka cake kina vua,** ka vakalekalekataka na gauna.
+- **Vakarautaka kece na ka taumada** mo rawa ni tekivu totolo.
+- **Sureti, kua ni vakaroti.** "O rawa ni vukei au mada?" e vinaka cake mai na "Sa gauna ni itaviqaravi."
+- **Cakava o iko na imatai ni ikalawa** ka laiva me curu mai.
+- **Solia e dua ga na ikalawa kei na dua ga na digidigi ena dua na gauna.**
+- **Laiva me caka ena nona sala.** Na tauleni e sega ni tautauvata e vinaka ga.
+- **Cegu ni se marau tiko.** Na tinia vakatotolo e macala vinaka, e sega ni druka. Ke bese, raica [ni dua e tiko vua na mate guiguilecavi e kaya e sega](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e kaya vakamatata: vakanamata ki na marau, ka sega ni ki na rawaka.

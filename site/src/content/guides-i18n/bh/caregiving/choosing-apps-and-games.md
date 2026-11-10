@@ -1,35 +1,35 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "डिमेंशिया खातिर ऐप आ खेल कइसे चुनीं"
+seoTitle: "डिमेंशिया ऐप आ खेल कइसे चुनीं: एगो चेकलिस्ट"
+description: "देखभाल करे वालन खातिर डिमेंशिया ऐप आ खेल चुने के चेकलिस्ट: मकसद तय करीं, टाइमर आ विज्ञापन से बचीं, प्राइवेसी जांचीं आ दावों के ध्यान से परखीं।"
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  पहिले तय करीं कि रउआ ऐप से का चाहत बानी: हलुक मानसिक जुड़ाव, पुरान याद,
+  सुकून या आपस में बातचीत। फेर अइसन ऐप चुनीं जे आज ओह व्यक्ति के क्षमता के मुताबिक होखे,
+  जेह में बड़हन तस्वीर होखें, टाइमर, स्कोर या विज्ञापन ना होखे, आ बंद कइल आसान होखे।
+  जांचीं कि ऊ कवन डेटा लेत बा आ का ओकरा के मिटावल जा सकेला। कवनो ऐप डिमेंशिया से बचावे
+  या ओकर इलाज करे के दावा करे त सावधान रहीं; एके गो अध्ययन कवनो पक्का सबूत ना होला।
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "पहिले मकसद तय करीं: मानसिक जुड़ाव, याद ताजा करे, सुकून या बातचीत खातिर अलग-अलग ऐप के जरूरत होला।"
+  - "व्यक्ति के आज के क्षमता के हिसाब से चुनीं, कवनो स्टेज के लेबल देख के ना, आ खेल के तरीका एकदम सीधा राखीं।"
+  - "टाइमर, स्कोर, लाइफ, स्ट्रीक, विज्ञापन या खरीदारी के दबाव वाला ऐप छोड़ दीं।"
+  - "डेटा के जुटावे, शेयर करे आ मिटावे के नियम जांचीं। आम उपभोक्ता ऐप पर अकसर HIPAA लागू ना होला।"
+  - "\"डिमेंशिया से बचाव\" वाला दावों पर भरोसा मत करीं। एगो ट्रायल या ऐप में बेहतर स्कोर कवनो सबूत ना हवे।"
+  - "Golden Moments खाली मन बहलावे खातिर एगो गतिविधि हवे। ई कवनो चिकित्सकीय दावा ना करेला।"
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "का दिमागी खेलन से डिमेंशिया से बचाव हो सकेला?"
+    a: "अइसन कवनो पुख्ता सबूत नइखे कि बाजार में मौजूद ब्रेन-गेम ऐप डिमेंशिया से बचा सकेला या ओकर गति धीमा कर सकेला। National Institute on Aging के कहल बा कि बाजारू ब्रेन-ट्रेनिंग ऐप कवनो बड़हन रिसर्च ट्रायल जइसन असर देखावेले, एकर पर्याप्त सबूत नइखे। ऐप के मनोरंजन आ आपसी जुड़ाव खातिर चुनीं, दवाई समझ के ना।"
+  - q: "का डिमेंशिया ऐप HIPAA के सुरक्षा के दायरा में आवेला?"
+    a: "अकसर ना। HIPAA आमतौर पर स्वास्थ्य सेवा प्रदाता, स्वास्थ्य योजना आ उनकरा से जुड़ल कारोबारन पर लागू होला। जवन ऐप रउआ खुद डाउनलोड करिला, ऊ आमतौर पर एह दायरा में ना आवेला जब तक कि ऊ लोग खुद ओकरा के ना देवे। FTC के Health Breach Notification Rule अइसन कई गो हेल्थ ऐप के कवर करेला जे HIPAA के दायरा में नइखे आवत।"
+  - q: "डिमेंशिया खातिर एगो बढ़िया खेल कइसन होखे के चाहीं?"
+    a: "बड़हन आ साफ तस्वीर आ अच्छर, हर स्क्रीन पर खाली एगो साफ काम, कवनो टाइमर या स्कोर ना, गलती पर कवनो बीप या अलार्म ना, विज्ञापन ना, आ खेल रोके या बंद करे के आसान तरीका। ई बड़ लोगन खातिर बनल दिखे के चाहीं आ दोसर केहू भी आसानी से एह में शामिल हो सके।"
+  - q: "का Golden Moments याददाश्त सुधारे के दावा करेला?"
+    a: "ना। Golden Moments खाली आनंद आ बातचीत खातिर साधारण साझा गतिविधियन के सुविधा देला। ई डिमेंशिया के न त पहचान करेला, न इलाज करेला, न रोकेला आ न नापेला, आ हमनी के याददाश्त या सोच-विचार के लेके कवनो दावा ना करीं।"
+  - q: "का हमरा कवनो डिमेंशिया ऐप खातिर पइसा देवे के चाहीं?"
+    a: "पहिले बिना खरचा वाला विकल्प या फ्री ट्रायल आजमाईं, आ दू हफ्ता देखरेख करीं कि ऊ कइसन महसूस कर रहल बाड़े। पइसा दे देला से कवनो ऐप जादे असरदार ना बन जाला। सब्सक्रिप्शन लेवे से पहिले ई जरूर देख लीं कि ओकरा के रद्द कइसे कइल जाला।"
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +60,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+ऐप स्टोर अइसन खेलन से भरल बाड़ें जिनहन पर बुजुर्गन, याददाश्त या डिमेंशिया के लेबल लागल रहेला। कुछ ऐप बहुत सोच-समझ के बनावल गइल बाड़ें। बाकिर कुछ में दवाई जइसन वादा कइल जाला, टाइमर लगा के खेल के परीक्षा बना दिहल जाला, या विज्ञापन आ डेटा बटोरल जाला। ई पन्ना रउआ के कवनो ऐप के खुद परखे के समझ देला। हमनी के दोसरा उत्पाद के कवनो रैंकिंग या समीक्षा ना करीं।
 
-## What should I decide before choosing a dementia app?
+## डिमेंशिया ऐप चुने से पहिले का तय करे के चाहीं?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+पहिले ई तय करीं कि रउआ ऐप से का चाहत बानी। "माई खातिर एगो खेल" के कई गो मतलब हो सकेला, आ एगो मकसद खातिर जवन ऐप सबसे बढ़िया बा, ऊ दोसरा मकसद खातिर एकदम बेकार साबित हो सकेला।
 
-| Goal | What it looks like | What to look for |
+| मकसद | ई कइसन दिखेला | का देखे के चाहीं |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| हलुक मानसिक जुड़ाव | मिलावे वाला, छांटे वाला, आसान पहेली, शब्द के खेल | बदले लायक कठिनाई, नजर के सोझा रहे वाली तस्वीर, समय के कवनो दबाव ना |
+| पुरान याद | पुरान फोटो, जानी-पहचानी कहावत, जवानी के गीत-संगीत | रउआ आपन फोटो, खुल के बात करे के मौका, कवनो सवाल-जवाब ना |
+| सुकून | धीमा दृश्य, शांत आवाज, सांस लेवे के ताल, प्रकृति | शुरू आ बंद कइल आसान, कवनो चमकत-दमकत चीज ना, कवनो अचानक झटका ना |
+| आपस में जुड़ाव | संगे खेलल या बतियावल, आमने-सामने या वीडियो पर | दू लोगन खातिर बनल, बातचीत शुरू करावे वाला सहारा |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+डिमेंशिया के साथ जी रहल लोग खातिर व्यवस्थित "संज्ञानात्मक जुड़ाव" (कॉग्निटिव स्टिमुलेशन) पर भइल अधिकतर रिसर्च में ट्रेंड स्टाफ द्वारा समूह में करावल सत्र शामिल रहेला, जेह में बातचीत, शब्द खेल, पहेली, संगीत आ रचनात्मक काम होखेला। एगो [Cochrane समीक्षा](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) में औसतन छोट फायदा पावल गइल, जवन अलग-अलग अध्ययनों में अलग रहल। अइसन सामाजिक आ विविधता वाला कार्यक्रम एकेला चलावे वाला ऐप जइसन ना होला, एहसे कवनो भी ऐप के बस साझा गतिविधियन में से एगो हिस्सा मानीं।
 
-## How do I know if an app fits the person's abilities?
+## कइसे जानीं कि कवनो ऐप उनकर क्षमता के हिसाब से ठीक बा?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+कवनो बीमारी के नाम या स्टेज के लेबल पर जाए के बजाय ई देखीं कि ऊ कइसन प्रतिक्रिया दे रहल बाड़े। "एके स्टेज" के दू लोगन के नजर, सुने के क्षमता, हाथ के हरकत, भाषा आ स्क्रीन के समझ में बहुत अंतर हो सकेला। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) के सलाह बा कि उनकर पुरान पसंद आ आज के क्षमता के ध्यान में राखीं, आ जीत-हार के जगह खाली खुशी पर ध्यान दीं।
 
-Signs of a good fit:
+बढ़िया तालमेल के संकेत:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- बिना ढेर मनावे के ऊ खेल शुरू कर देवेले या शामिल हो जाले;
+- ऊ मुस्कुरावेले, कवनो बात कहेले या कवनो किस्सा सुनावेले;
+- गलती भइला पर उनुका कवनो परेशानी ना होखे;
+- समय पूरा भइला पर ऊ खेल बंद करे खातिर आराम से तैयार हो जाले।
 
-Signs it is a poor fit:
+तालमेल ठीक ना होखे के संकेत:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- बार-बार कहेलें कि "हमसे ना होई" या "ई सब बेकार बा";
+- कहाँ छुवे के बा, ई समझ में ना आइल;
+- चिड़चिड़ाहट, असहजता या स्क्रीन के दूर हटा देवे के मन;
+- ई तबे चल पावे जब लगभग सब काम रउआ के करे के पड़े।
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+बेचैनी या चिढ़ एगो संकेत हवे, जबरदस्ती जारी रखे के चीज ना हवे। देखीं [जब ऊ ना कहें त का करीं](/caregiving/when-they-say-no/)। ऐप से हट के स्टेज के हिसाब से विचार खातिर देखीं [शुरुआती दौर](/activities/early-stage/) आ [आखिरी दौर](/activities/late-stage/) के गतिविधियां।
 
-## What design features should I look for or avoid?
+## कइसन डिजाइन फीचर देखे के चाहीं आ कवना से बचे के चाहीं?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+शांत, सहज आ बड़ों के सुहावे वाला डिजाइन खोजीं, आ हर ओह चीज से बचीं जे तनाव बढ़ावे।
 
-| Look for | Be wary of |
+| ई खोजीं | एहसे बचीं |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| बड़हन तस्वीर आ अच्छर, साफ अंतर (हाई कंट्रास्ट) | छोट-छोट आइकन, भरल-पुरल स्क्रीन |
+| हर स्क्रीन पर खाली एगो साफ काम | ढेर सारा बटन, मेनू या लंबा-चौड़ा निर्देश |
+| कवनो टाइमर ना, या टाइमर बंद करे के सुविधा | उल्टी गिनती, रफ्तार पर बोनस, "समय के मात दीं" |
+| कवनो स्कोर ना, या एकदम हलुक हौसला-अफजाई | अंक, लाइफ, स्ट्रीक, रैंकिंग, "दिमागी उमिर" |
+| गलती पर कवनो हो-हल्ला ना | बीप के आवाज, लाल रंग के गलत निसान, "गलत" के संदेश |
+| बड़ों के पसंद आवे वाली, असली दुनिया के तस्वीर | कार्टून जइसन या लइकन वाला डिजाइन |
+| बिना इंटरनेट चले, शुरुआत में अकाउंट के जरूरत ना | पहिले साइन अप, लॉग इन या सामग्री डाउनलोड करे के मजबूरी |
+| खेल रोके आ बंद करे के आसान तरीका | खेलत रहे या रेटिंग देवे खातिर बार-बार आवे वाला पॉप-अप |
+| बिना विज्ञापन, एक बार में या साफ सब्सक्रिप्शन के दाम | विज्ञापन, लकी बॉक्स, बार-बार खरीदारी के सुझाव |
+| दोसर व्यक्ति के जुड़े के आसान सुविधा | खाली एके खिलाड़ी खातिर बनल, मुकाबला वाला खेल |
 
-Ads and purchase prompts are easy to tap by accident.
+विज्ञापन आ खरीदारी के बटन पर अनजाने में उंगली दब गइल बहुत आसान होला।
 
-## How do I check an app's privacy?
+## कवनो ऐप के प्राइवेसी कइसे जांचीं?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+जांचीं कि ऐप का जुटावत बा, केकरा संगे शेयर करत बा, आ का ओकरा के हटावल जा सकेला। इंस्टॉल करे से पहिले:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **स्टोर पर दिहल प्राइवेसी ब्योरा पढ़ीं।** Google Play के [डेटा सुरक्षा सेक्शन](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) आ App Store के [प्राइवेसी जानकारी सेक्शन](https://support.apple.com/en-us/102399) में बतावल गइल बा कि ऐप कवन-कवन डेटा ले सकेला आ साझा कर सकेला। दुनो कंपनी साफ कहेली कि ई जानकारी डेवलपर खुद देलें, एहसे ई खाली सुरुआती जानकारी हवे, कवनो सरकारी जांच ना।
+2. **सोचीं कि का सच में अकाउंट के जरूरत बा।** अगर कवनो ऐप खाली तस्वीर या आसान खेल देखावत बा, त ओकरा रउआ नाम, ईमेल या जनम दिन जाने के कवनो जरूरत नइखे।
+3. **परमिशन जांचीं।** का तस्वीर मिलावे वाला खेल के लोकेशन, संपर्क सूची, माइक्रोफोन या पूरा फोटो गैलरी के जरूरत बा? जवना के जरूरत नइखे, ओकरा के बंद कर दीं।
+4. **विज्ञापन आ ट्रैकिंग के देखरेख करीं।** विज्ञापन आ एनालिटिक्स टूल ऐप के इस्तेमाल से जुड़ल जानकारी दोसरा कम्पनियन के भेज सकेलें।
+5. **पता लगाईं कि फोटो कहाँ जाला।** अगर रउआ परिवार के फोटो डालत बानी, त का ऊ मोबाइल में ही रहेला कि सर्वर पर अपलोड हो जाला? का रउआ ओकरा के हटा सकिला?
+6. **डेटा मिटावे के सुविधा देखीं।** प्राइवेसी पॉलिसी या डेटा समरी में देखीं कि डेटा आ अकाउंट कइसे मिटावल जाला। जवन ऐप कहे कि डेटा ना मिटावल जा सकेला, ओहसे खास तौर पर सावधान रहीं, खासकर तब जब ओह में फोटो या सेहत से जुड़ल जानकारी होखे।
+7. **प्राइवेसी पॉलिसी पढ़ीं** ताकि साफ पता चले कि का जुटावल जा रहल बा, काहे, कब तक, आ केकरा संगे साझा कइल जाई।
 
-### Does HIPAA protect information in dementia apps?
+### का डिमेंशिया ऐप में मौजूद जानकारी के HIPAA सुरक्षित राखेला?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+आमतौर पर ना, जेकरा से बहुत लोग हैरान रह जाला। U.S. Department of Health and Human Services [समझावेला](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) कि HIPAA स्वास्थ्य योजना, ज्यादातर डॉक्टर-अस्पताल, हेल्थकेयर क्लियरिंगहाउस आ उनकरा से जुड़ल व्यापारिक पार्टनर्स पर लागू होला। निजी इस्तेमाल खातिर ऐप में डालल गइल डेटा के ई कानून ज्यादातर मामिला में सुरक्षित ना राखेला, जब तक कि ऊ ऐप कवनो अस्पताल या स्वास्थ्य संस्था से ना दिहल गइल होखे। ऐप स्टोर से डाउनलोड कइल "डिमेंशिया ऐप" अकसर HIPAA के दायरा से बाहर रहेला, भले ऊ सेहत से जुड़ल बात करत होखे।
 
-### What protects health data in apps that HIPAA does not cover?
+### जवना ऐप पर HIPAA लागू ना होला, ओह में सेहत के डेटा के सुरक्षा कइसे होला?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission के Health Breach Notification Rule अइसन कई गो ऐप पर लागू होला। 2024 में FTC [बदलाव अंतिम रूप से तय कइलस](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) जेह में साफ कइल गइल कि ई नियम अइसन स्वास्थ्य ऐप आ तकनीकों पर लागू होला जे HIPAA के दायरा में नइखे आवत। "ब्रीच" (सुरक्षा में सेंध) में बिना इजाजत डेटा साझा कइल भी शामिल बा, खाली हैकिंग ना, आ कम्पनियन के प्रभावित लोगन आ FTC के खबर देवे के पड़ेला। ई कवनो दुर्घटना भइला के बाद के सुरक्षा बा, एह बात के गारंटी ना कि ऐप खाली जरूरी डेटा ही जुटावेला।
 
-## How should I read claims about research and evidence?
+## रिसर्च आ सबूतन से जुड़ल दावों के कइसे समझे के चाहीं?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+सबूतन से जुड़ल दावों के धीरे-धीरे आ ध्यान से पढ़ीं, आ सबसे बड़हन वादों पर सबसे जादे सवाल उठाईं। एह बातन पर ध्यान दीं:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **आखिर रिसर्च कवना चीज पर भइल रहे?** एगो ट्रेनिंग प्रोग्राम पर भइल रिसर्च से ई साबित ना होला कि ऐप के हर खेल ओसहीं काम करी।
+- **रिसर्च केकरा पर भइल रहे?** सेहतमंद बुजुर्ग लोगन पर मिले वाला नतीजा डिमेंशिया के साथ जी रहल व्यक्ति पर शायद ओसहीं लागू ना होखे।
+- **नापल का गइल रहे?** खेल में बेहतर होखल अलग चीज हवे, आ रोजमर्रा के जिनगी, बातचीत, मिजाज या आत्मनिर्भरता में सुधार एकदम अलग चीज हवे।
+- **स्टडी केतना मजबूत बा?** रैंडमाइज्ड कंट्रोल्ड ट्रायल (RCT) में ऐप चलावे वाला ग्रुप के तुलना बिना ऐप वाला ग्रुप से कइल जाला। ई तरीका बढ़िया हवे, बाकिर एगो छोट या कम दिन के RCT पक्का सबूत ना हवे। ई देखीं कि का कई गो स्वतंत्र शोधकर्ता एह बात से सहमत बाड़ें।
+- **का ई बीमारी के बदले के दावा करत बा?** कवनो टेस्ट में छोट-मोट सुधार ई साबित ना करेला कि ऊ ऐप डिमेंशिया के धीमा कर सकेला, रोक सकेला या ओकर इलाज कर सकेला।
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Aging के [मानसिक सेहत आ बुजुर्ग लोग](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) वाला पन्ना में NIH के मदद से भइल एगो बड़हन दिमागी ट्रेनिंग ट्रायल के चर्चा बा, आ ओकरा बाद पाठकों के आगाह कइल गइल बा कि ऊ अइसन दावों से सावधान रहें कि कुछ कंप्यूटर आ ऑनलाइन खेल याददाश्त आ सोच-विचार सुधार सकेलें। ओह में कहल गइल बा कि बाजार में मिले वाला ब्रेन-ट्रेनिंग ऐप ओह ट्रायल जइसन असर दिखावेले, एकर पर्याप्त सबूत नइखे। रउआ हमनी के गाइड [दिमागी खेल आ सबूत](/brain-health/brain-games/) आ [डिमेंशिया से बचाव पर रिसर्च का कहेला](/brain-health/can-dementia-be-prevented/) में अउरी पढ़ सकिला।
 
-### What is a public example of a misleading claim?
+### भ्रामक दावा के कवनो जानल-मानल उदाहरण का बा?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+जनवरी 2016 में, FTC "ब्रेन ट्रेनिंग" प्रोग्राम चलावे वाली Lumosity कंपनी के साथ एगो [समझौता के एलान कइलस](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)। FTC आरोप लगवले रहे कि कंपनी बिना कवनो ठोस सबूत के दावा कइलस कि ओकर खेल उमिर के साथ दिमाग के कमजोरी रोक सकेला आ माइल्ड कॉग्निटिव इम्पेयरमेंट, डिमेंशिया आ अल्जाइमर से बचा सकेला। कंपनी 20 लाख डॉलर भरे खातिर राजी भइल आ ओकरा के कहल गइल कि भविष्य में अइसन दावा करे से पहिले पुख्ता वैज्ञानिक सबूत जुटावे के पड़ी। ई मामला ई याद करावे खातिर काफी बा कि प्रचार के भाषा कवनो वैज्ञानिक सबूत ना होला।
 
-### Which words are red flags?
+### कवन-कवन शब्द चेतावनी के संकेत हवें?
 
-Be cautious when an app or ad says it:
+सावधान हो जाईं जब कवनो ऐप या विज्ञापन कहे कि ई:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- डिमेंशिया या अल्जाइमर से "बचावेला", "पलट देवेला", "रोक देवेला" या "इलाज करेला";
+- बिना रिसर्च, प्रतिभागी आ नतीजों के जानकारी दिहले "क्लिनिकली प्रमाणित" कहेला;
+- "दिमागी उमिर" या याददाश्त के अइसन स्कोर देवेला जवना से कवनो बीमारी के जांच के भ्रम होखे;
+- दिमाग के "तेज करी", "बूस्ट करी" या "ट्रेन करी";
+- कुछ लोगन के तारीफ (टेस्टिमोनियल) के सबूत के रूप में पेश करेला।
 
-If you are unsure about a claim, ask the person's doctor.
+कवनो दावा पर शक होखे त जेकर रउआ देखभाल करिला, उनकर डॉक्टर से जरूर पूछीं।
 
-## Where does Golden Moments fit?
+## एह सब में Golden Moments कहाँ बइठेला?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments साधारण साझा गतिविधियन के सुविधा देला, कवनो याददाश्त के टेस्ट, थेरेपी या डॉक्टरी सलाह ना हवे। हमनी के खेल, जइसे कि [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) आ [Calm Breathing](/games/calm-breathing/), खाली मनोरंजन आ बातचीत खातिर बनावल गइल बाड़ें। ई डिमेंशिया के पहचान, इलाज, बचाव या पैमाइश ना करेले, आ हमनी के याददाश्त या सोच-विचार के लेके कवनो दावा ना करीं।
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+हमनी के एगो मुफ्त ऐप भी बनवले बानी, [iPhone, iPad आ Android खातिर Golden Moments](/app/)। एह में बड़हन टाइल्स के साथ सहज तस्वीर मिलान, रउआ चुनल पारिवारिक फोटो वाला खेल, आ बिना इंटरनेट चले वाला पिक्चर पैक बाड़ें, जेह में कवनो अकाउंट, विज्ञापन, टाइमर या स्कोर नइखे। एके चेकलिस्ट हमनियों पर लागू होला: एकर App Store प्राइवेसी लेबल "Data Not Collected" कहेला, आ [ऐप प्राइवेसी पॉलिसी](/app-privacy/) समझावेला कि फोटो के कॉपी कहाँ राखल जाला।
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+हमनी के चाहब कि रउआ हमनी पर आंख मूंद के भरोसा करे के बजाय हमनी के परखीं। एह पन्ना पर दिहल चेकलिस्ट के इस्तेमाल करीं, हमनी के [प्राइवेसी पन्ना](/privacy/) आ [मेडिकल डिस्क्लेमर](/medical-disclaimer/) पढ़ीं, आ जवन चीज जेकर रउआ देखभाल करिला उनुका पसंद ना आवे, ओकरा के तुरंत बंद कर दीं—चाहे ऊ हमनिये के खेल काहे ना होखे।
 
-## What is a sensible way to try a new app?
+## कवनो नया ऐप आजमावे के सही तरीका का बा?
 
-Try it together for a couple of weeks and watch what happens.
+दू हफ्ता खातिर संगे खेल के आजमाईं आ देखीं कि का असर हो रहल बा।
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **पहिले से सेट करीं,** हमनी के [टैबलेट आ फोन सेटअप गाइड](/caregiving/tablets-and-screens/) के मदद लीं, आ सबसे आसान लेवल से शुरू करीं।
+2. **सत्र छोट राखीं,** मुस्कान, बातचीत आ सुकून पर ध्यान दीं, आ एगो बढ़िया पल पर खेल खत्म करीं।
+3. **चिड़चिड़ाहट होखे त छोड़ दीं,** चाहे ओह ऐप के रेटिंग केतनो बढ़िया काहे ना होखे।

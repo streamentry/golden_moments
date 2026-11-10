@@ -1,33 +1,29 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Aktibidåt Fiesta para i Taotao yan Demensia"
+seoTitle: "Ideas para Fiesta yan Thanksgiving para Demensia"
+description: "Simple na aktibidåt fiesta para i taotao yan demensia: ayudan tinaepe, dekorasion, musika, retratu yan video call, yan plånu para tranquilu na Thanksgiving pat Kristmas."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Fan ma'ti i fiesta, mås ki'ihu yan mås tempranu gi pa'go, ya manmatatanges ni rutina i taotao. Na'hu hu traba-ña ni tiniket yan sigura, tahgu i mesa, hugas i fresku, ayuda ma'empake i regalu pat ma'nå'i dekorasion. Ha'chålik mu'sika ni familia gustu ma'usa yan lepblu ni antigu na retratu, prepåra i bisita nu hu'ulu, yan planea un kuarto ni tranquilu. Hålom ha'ta hu ma'ayuda ni makanno; un kalma yan kotta na selebrasion ginen i tenneng.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Fama'ti i fiesta gi mas tempranu gi pa'go, tahgu un almuerzu pat brunch, ti kumu ma'ayu i konfusion gi åntes di chumalan."
+  - "Na'hu traba ni tiniket: tahgu i mesa, hugas fresku, ma'empake regalu, ma'nå'i dekorasion pat ma'pone dulse gi plato."
+  - "I mu'sika ni familia, kantan Kristmas yan lepblu ni antigu na album retratu, ha'ña mu'uni na sinepblu para ma'na'ena i tiempon fiesta."
+  - "Ma'tatiyi i bisita ni hinasso-ñiha, yan ma'gigimi i taotao i retratu ni manhuhulu."
+  - "Planea un kuarto ni tranquilu yan i gustu-ña na manta pat chaketa, yan siempre dos pat tres na bisita di una vez."
+  - "Tåya' i kualkiera ni ma'ekkon, anggen i dekorasion ni parehu ni fina'kåsi pat hinanom yan manglulu-lulu na luses."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Hafa siña hu fa'na'i i taotao yan demensia gi Thanksgiving?"
+    a: "Na'hu traba-ña ni simpre yan sigura ni maâtiyi i kinalamten ni siña ha'na gi ayer: hugas fresku, hålo' i sausa ni cranberry, tahgu i mesa, fold i napkin pat pone dulse gi plato. Despues, ta li'e' i antigu na retratu familia pat ta kanta i mu'sika ni familia. I parehu ni parte gi fiesta mås importante ki i kumu manmatutuge i traba."
+  - q: "Debe hit ta fa'na'i un dangkulu na fiesta familia?"
+    a: "Sigi ta'lo, sino manmaneha. I ma'ayu yan i lulu-lulu siña ma'abruma, ya mås manmaneha i familia tumulaika ni mas simple, un fiesta mås tempranu, pat i bisita mamåsa-masa. I Alzheimer's Association ha'anåo i kuidadot-ña para hu fa'na'i ni manmaneha yan sigura ni siña ha'na."
+  - q: "Kumu hu prepåra i familia ni låo ha'ta mana'bisita?"
+    a: "Hu sångan-ñiha åntes di manmaninu i kambion ni siña mana'mafilo, ya manmaninu gi nengkanno'ta i demensia, lao ti i taotao. Hu'anåo sila ni ti ta'mas-ña pat ta'tanya, ni mamumuno kada una na tiempo, yan hånao na tiempo para tumuntuna. Ma'ayuda hit i retratu i bisita ni manhuhulu åntes."
+  - q: "Hafa na regalu ni fiesta ti manmakatu para i taotao ni gaige yan demensia?"
+    a: "Simple yan sigura na kosas ni siña ha'na gi tiempo ayi: un gustu-ña na tinaepe, manta pat chaketa ni suave, mu'sika ni familia, pat album ni retratu familia. Ti na'hu i elektroniko ni komplikådu, kosas tiniket yan kuåntu sandånu. I ma'na'i gi regalu, kumu ma'empake un regalu pat ma'tatåk galletas ni tinulong-ñiha, siña dumåña ya i regalu mismo."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +36,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+I fiesta siña ha'na'ña i nengkanno' di mañe'lu, lao siña tatte ha'na i ma'ayu, i tatanggu yan i kambion gi kumu manma'usa na tiempo. Para i taotao ni gaige yan demensia, i mas maolek na selebrasion gaige mås ki'ihu, mås mampos, yan ma'gof gi kosas ni siña ha'na todabia. Esta na ideas siña para Thanksgiving, Kristmas, Hanukkah, Bagong Åñu yan fiesta cumpleaños familia.
 
-## How do I plan a calmer holiday?
+## Hafa i kumu hu planea un tranquilu na fiesta?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Tuge' ni rutina i taotao yan planea i tiempo siha gi kumu manmaneha. I [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) ha'anåo para ma'hånao i selebrasion gi mas tempranu gi jornada, ya i konfusion yan ma'ayu siña ma'fa'tinas gi kabales mas kuatro yan gi aknga (ginagaigi "sundowning"). Un almuerzu pat brunch na fiesta siña mas fasil ki un kusina gi åñu.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Ma'chålik i tamaño.** Un kotta ti kinalamten na fiesta, pat i bisita mamåsa-masa, siña mas fasil ki un mesa ni mamo'pulan.
+- **Na'hu kosas ni traba.** Hu'anåo i pariente para ma'trai un plåto, ma'na'i i kompras pat ma'gasta tiempo yan i taotao gi tiempo ni ma'kutina. Ma'espesifiko hit i ayudan siña.
+- **Ma'gof i dekorasion.** I [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) ha'nota na i luses ni manlulu-lulu siña ma'konfusa, yan i dulse pat finahnasan prutas ni dinekorasion siña mañe'lu ni manma'kuenta kumu kumida.
+- **Put i tinago.** Anggen un tradision ma'estrisa pat peligru, siña ti ha'na pat ma'prueba un mås tranquilu.
 
-## What holiday activities can we do together?
+## Hafa i aktibidåt fiesta siña ta fa'na'i unu?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Hu'agang i traba yan kosas ni ma'gustu ni siña ha'na i taotao gi tiempo ayi. I parehu ni parte gi fiesta mås importante ki i kumu manmatutuge.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Tahgu i mesa unu. ** Hu'ayuda i plato mambåba, despues i napkin, despues i baso. I fold i napkin ayi un traba ni siña ha'na sentao.
+2. **Hugas yan ma'separa i fresku.** Ma'hugas i patata pat ma'chalek i habas gi lamisa ni kusina siña sigura yan familiår para gai na taotao ni manmanå'i kumusina.
+3. **Hålo', mezkla pat pone gi plato.** I hålo' i sausa ni cranberry, mezkla i simple na batter pat pone galletas gi plato, ma'pacha i manu-ña i taotao ginen i kalan yan kuchiyu.
+4. **Ma'empake un regalu.** Hu'ana i papel yan tape ginen åntes, ya tuge' i taotao ma'fold yan ma'na'i chanchan. I maolek na empake ti i importante.
+5. **Ma'nå'i sumåsaga na dekorasion.** Hu'agang i ornamento ni ti siña mabanda yan un tiyan ni lugåt, kumu un wreath pat chikiki na Kristmas tree.
+6. **Ma'gasi un simple na kraft.** Paper chains, leaf collage pat kåttan fiesta ni sinelyo siña ma'gasi. I [arts and crafts guide](/activities/arts-and-crafts/) ha'anåo mås ideas.
+7. **Kanta yan tungok.** I Kristmas carol yan kanta fiesta ni familia siña fasil ma'sigi, anggen låo ti mås gof mangungu'ong i taotao. Ha'anåo i [music guide](/activities/music/) para ma'fa'tinas un playlist.
+8. **Li'e' i antigu na retratu fiesta.** Na'hu i album ginen i mås antes na selebrasion yan hu'anåo i kuentos ("Kuenta yu' hao este na mesa"), ti pumregunta hafa sigun-ña. I [reminiscence guide](/activities/reminiscence/) ha'anåo kumu.
+9. **Ma'gasi un simple na tinaepe grupo.** I [picture bingo](/games/picture-bingo/) ma'imprenta gi minuton siña, ya ma'usa para todu i edad, yan i [conversation cards](/games/conversation-cards/) manma'nå'i kosas para ma'kuenta.
+10. **Ma'pinta kuntiga.** I simple na [coloring pages](/games/coloring/) siña ma'imprenta para i famagu'un yan i lola/lalu para ma'sha'ring gi mesa.
+11. **Li'e' un gustu-ña na pelikula fiesta.** Un pelikula familiår ma'eskansa, ya sigi ti mamumuno hit yan ti todu.
+12. **Ma'fan i kotches para li'e' i luses.** Un tranquilu na kotche ginen i dekoradu na chalan siña mas fasil ki un ma'bisita na evento.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Anggen i kusina dankulu na parte gi kinalamten i taotao, i guia-ta para [household tasks as activities](/activities/household-tasks/) mås ideas para sigura yan satisfechu na traba gi kusina.
 
-## How do I prepare guests?
+## Kumu hu prepåra i bisita?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Ma'sångan i bisita åntes di manmaninu, espesialmente i pariente ni låo ha'ta mana'bisita. I Alzheimer's Association ha'anåo na ma'eksplika na i kambion gi memoria yan kumpottamienton manmaninu gi demensia, lao ti gi taotao.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Ma'na'i sumåsaga na simple na tips:** mamumuno kada una, hånao tiempo para ma'komplota i kuentos, ti ma'ta'mas pat ma'tanya, yan ma'sagiti i tono i taotao anggen dififil ma'entiende i palabras.
+- **Sångan hafa i ayuda yan hafa i ma'ekkon.** Anggen i mañe'lu na lengguahe, prisa pat sinåsangan manmaninu para i taotao, sångan hit.
+- **Ma'introdusa i bisita åntes.** Ma'gigimi i taotao i retratu i manmaninu, ya ma'kuenta un pat dos istorian, pat ma'planea un kotta na telepon pat video chat åntes di fiesta.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+I nuestra [communication tips](/caregiving/communication-tips/) ha'anåo mås detalyo.
 
-## What if it gets to be too much?
+## Hafa anggen ma'demasiao?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Ma'planea un kuarto ni tranquilu åntes di manmaninu i bisita, lehu i ruido, yan kosas ni konfotable kumu gustu-ña na manta, chaketa pat un simple na aktibidåt. Ma'ofresi ghaefos yan siempre: "¿Ta sånga kumu ta'ina un tiempo gi lugåt ni tranquilu?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Ma'fanhandulu i lamisa, mama'ngi ginen i chalan, pat ma'tachuna pat-tiempo na parte gi jornada, para maolek na resulta, ti chagi. Anggen i taotao ma'ilek, un kalmo na tinige', un kanta ni familia pat un lakad gi otro kuarto ma'ayuda mås ki i ma'razona. I nuestra guia para [late-day restlessness](/caregiving/late-day-restlessness/) ha'anåo mås ideas para gi aktaket.
 
-## How can family far away take part?
+## Kumu i familia ni lehu siña ma'tungok?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+I video call ma'ayuda i pariente para ma'tungok sin ma'aumenta i tumulaika. I Alzheimer's Association ha'anåo na ma'dulan i call ni estrukturå, pot ehemplo kumanta kanta fiesta, ma'sharing retratu ginen i antigu na gathering, mama'hålo' i mismo na resipi huyong, pat malina'la un pelikula fiesta gi mismo tiempo. Ha'chålik i call, ya ma'sångan i manmaninu para mamumuno kada una, pot i ma'sisla'ta na siempre makomplikao. I nuestra [phone and video call guide](/activities/phone-and-video-calls/) ha'anåo i ideas kada paso.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Anggen i taotao gaige gi memory care, ma'chatsi i policy i bisita yan ma'sångan i staff para ayuda ma'prepåra un call. I nuestra guia para [visiting someone in memory care](/activities/visiting/) ha'anåo hafa para lalan yan kumu para umalu' gi maolek.
 
-## What gifts suit someone with dementia?
+## Hafa i regalu ni manmakatu para i taotao ni gaige yan demensia?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Simple yan sigura na regalu ni siña ha'na gi tiempo ayi manmaneha ma'usa: un gustu-ña na snack, manta pat cardigan ni suave, mu'sika ni familia, un kalendaryo ni dankulu i letra, pat album retratu familia. I Alzheimer's Association ha'anåo na ti ma'usa i peligru na tools, elektroniko ni komplikådu yan board games ni dififil.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Ma'gasi hit ma'na'i i regalu siña mismo ni ma'risibi. Ma'empake galletas ni tinulong-ñiha ma'tatåk, pat ha'na i taotao ma'empake un regalu ni ma'famalao-ta, ha'na i taotao ma'parte gi tiempo fiesta. Un juegu ni retratu familia ti siña ma'siguidu: [photo pairs](/games/photo-pairs/) ma'chalek i sumåsaga na retratu ni ma'chachaina gi un suave na juegu gi browser.
 
-## Look after yourself too
+## Kuida hao mismo gi mesmo
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+I fiesta ma'na'i traba gi kuidadot. Ha'ta ma'dåña ni otro para ma'hånao pat ma'na'i i turkey, kåtlo i evento ni dififil, yan ha'ta hu tuge' na dinankulu gi tiempo ni otro ma'gasta tiempo yan i taotao. Anggen hao pat i taotao ni ma'kuida ti maolek, un maneng ginen i driveway pat un video call ma'sigi na maolek na bisita. I nuestra guia para [caregiver self-care](/caregiving/caregiver-self-care/) ha'anåo mås suporta.

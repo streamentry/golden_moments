@@ -1,36 +1,37 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Féinchúram do Chúramóirí: Sos agus Tacaíocht"
+seoTitle: "Féinchúram do Chúramóirí Néaltraithe: Sos, Tacaíocht"
+description: "Comharthaí traochta do chúramóirí, conas sos agus grúpaí tacaíochta a aimsiú, agus cabhair saor in aisce sna Stáit Aontaithe."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Tá sé deacair aire a thabhairt do dhuine atá ag maireachtáil le néaltrú, agus
+  is cuid den obair í aire a thabhairt duit féin. Bí ag faire amach do
+  chomharthaí mar thuirse, greannúlacht, codladh lag agus tarraingt siar ó
+  chairde. Iarr cabhair shonrach, bain úsáid as cúram faoisimh, agus bí páirteach
+  i ngrúpa tacaíochta. I measc na gcabhracha saor in aisce sna Stáit Aontaithe tá
+  Beolíne 24/7 an Alzheimer's Association ag 1-800-272-3900 agus an Eldercare
+  Locator ag 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Is minic a thagann traochadh chun solais mar thuirse, greannúlacht, codladh lag, brón agus faillí ar do chúram sláinte féin."
+  - "Tugann cúram faoisimh sos duit, ó chúpla uair an chloig go dtí roinnt seachtainí, sa bhaile nó i suíomh cúraim."
+  - "Iarr cabhair le tascanna sonracha; ba mhaith le go leor daoine cabhrú ach ní bhíonn a fhios acu conas."
+  - "Tugann Beolíne 24/7 an Alzheimer's Association (1-800-272-3900) tacaíocht saor in aisce, faoi rún, am ar bith."
+  - "Ceanglaíonn an Eldercare Locator (1-800-677-1116) tú le seirbhísí áitiúla, lena n-áirítear do Ghníomhaireacht Aoisithe Ceantair."
+  - "Má bhraitheann tú go bhfuil géarchéim ort, glaoigh nó cuir téacs chuig 988. I gcás éigeandála, glaoigh ar 112 nó 999."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Cad iad na comharthaí a bhíonn ar thraochadh cúramóra?"
+    a: "I measc na gcomharthaí coitianta tá tuirse mhór, mothú faoi léigear nó imní, fearg nó mífhoighne gan mhoill, deacrachtaí codlata, brón nó éadóchas, tarraingt siar ó chairde, tinneas cinn nó pian go minic, agus faillí ar do bhéilí, aclaíocht nó cúram leighis féin. Má tharlaíonn comharthaí mar seo go rialta, labhair le do dhochtúir."
+  - q: "Conas a aimsím cúram faoisimh in aice liom?"
+    a: "Tosaigh leis an Eldercare Locator (1-800-677-1116 nó eldercare.acl.gov) chun teagmháil a dhéanamh le do Ghníomhaireacht Aoisithe Ceantair áitiúil, le Seirbhís Lóraitheora Náisiúnta Faoisimh ARCH, nó le Beolíne an Alzheimer's Association ag 1-800-272-3900. Is féidir le teaghlach, cairde agus oibrithe deonacha sos a thabhairt duit freisin."
+  - q: "An n-íocann Medicare as cúram faoisimh?"
+    a: "Do dhuine atá ag fáil cúraim ospáis, clúdaíonn Medicare an chuid is mó den chostas ar feadh suas le cúig lá as a chéile de chúram faoisimh in ospidéal nó in áis altranais oilte, de réir an National Institute on Aging. De ghnáth ní chlúdaíonn árachas sláinte príobháideach cúram faoisimh; d’fhéadfadh Medicaid agus roinnt pleananna árachais cúraim fhadtéarmaigh cabhrú."
+  - q: "An bhfuil Beolíne an Alzheimer's Association saor in aisce i ndáiríre agus ar fáil san oíche?"
+    a: "Tá. Deir an Alzheimer's Association go bhfuil a Beolíne ag 1-800-272-3900 saor in aisce, faoi rún agus le foireann ar fáil an lá is an oíche, 365 lá sa bhliain, le cabhair ar fáil i go leor teangacha. Diailigh 711 le haghaidh seirbhíse sealaíochta."
+  - q: "An bhfuil sé santach sos a ghlacadh ón gcúram?"
+    a: "Níl. Cuidíonn scíth leat leanúint ar aghaidh ag tabhairt cúraim, agus is féidir le cúram faoisimh athrú compánaigh agus gníomhaíochta a thabhairt don duine a bhfuil cúram á thabhairt agat dó freisin. Deir go leor cúramóirí níos déanaí gur mhian leo gur iarr siad cabhair níos luaithe."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +68,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Má tá tú ag tabhairt aire do dhuine atá ag maireachtáil le néaltrú, is dócha go bhfuil tú ag léamh seo go déanach, tuirseach ort, agus liosta rudaí agat nár chríochnaigh tú fós. Is gnách é sin. Ní sómas ná luach saothair é aire a thabhairt duit féin tar éis gach rud a dhéanamh. Is é an rud a chabhraíonn leat leanúint ar aghaidh.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Clúdaíonn an leathanach seo na comharthaí rabhaidh a bhaineann le traochadh, conas sos ceart a fháil, cá háit le tacaíocht a aimsiú, agus beolínte saor in aisce sna Stáit Aontaithe ar féidir leat glaoch orthu inniu.
 
-## What are the signs of caregiver burnout?
+## Cad iad na comharthaí a bhíonn ar thraochadh cúramóra?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Is minic a thagann traochadh isteach go mall, mar sin cabhraíonn sé a bheith eolach ar do chomharthaí féin. Liostaíonn an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) comharthaí struis do chúramóirí, lena n-áirítear:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- mothú tuirseach, faoi léigear nó imníoch;
+- fearg nó mífhoighne a bheith ort go héasca;
+- mothú uaigneach nó scoite ó dhaoine eile;
+- deacracht codlata, nó gan go leor codlata a fháil;
+- brón nó éadóchas, nó spéis a chailleadh i rudaí a thaitin leat;
+- tinneas cinn, pian nó fadhbanna coirp eile go minic;
+- gan am agat aclaíocht a dhéanamh nó bia folláin a ullmhú duit féin;
+- faillí ar chithfholcadáin nó ar chúram pearsanta eile;
+- mí-úsáid alcóil nó drugaí, lena n-áirítear cógais ar oideas.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+Cuireann an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) comharthaí leis mar shéanadh faoin ngalar, fearg leis an duine („tá sé díreach ceanndána"), imní faoin todhchaí, deacracht ag díriú, agus fadhbanna sláinte ag cur isteach ort. Molann sé labhairt le do dhochtúir má bhíonn comharthaí mar seo ort go rialta.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Is é comhairle an NIA gan fanacht go dtí go mbraitheann tú go hiomlán faoi léigear. Tabhair faoi deara do chomharthaí go luath agus déan rud éigin fúthu.
 
-## What can I do today, in five minutes?
+## Cad is féidir liom a dhéanamh inniu, i gceann cúig nóiméad?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Tá luach i sosanna beaga. Ní réitíonn aon cheann díobh seo an traochadh, ach d’fhéadfadh siad cabhrú leat tráthnóna deacair a chur díot.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Téigh amach.** Suigh ar an bpóirse nó siúil go dtí an bosca poist fad is atá an duine sábháilte socraithe.
+- **Tóg anáil go mall.** Cúpla anáil mhall sula bhfreagraíonn tú ceist dheacair. Is féidir leat sos [Análú Ciúin](/games/calm-breathing/) a roinnt leis an duine a bhfuil cúram á thabhairt agat dó freisin.
+- **Ól uisce agus ith rud éigin.** Is furasta dearmad a dhéanamh ar do bhéilí féin.
+- **Cuir téacs chuig cara amháin.** Ní chun rud ar bith a iarraidh, ach chun nasc a dhéanamh.
+- **Abair rud cineálta leat féin.** Molann [treoir an NIA maidir le haird a thabhairt ort féin](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) frásaí mar „Tá an méid is fearr is féidir liom á dhéanamh agam", „Níl mé foirfe, agus tá sé sin ceart go leor", agus „Bainfidh mé taitneamh as na nóiméid nuair is féidir linn a bheith le chéile i suaimhneas."
 
-## What is respite care, and how do I get it?
+## Cad is cúram faoisimh ann, agus conas a fhaighim é?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Is cúram gearrthéarmach é cúram faoisimh don duine a bhfuil cúram á thabhairt agat dó, ionas gur féidir leat scíth a ligean. Míníonn [leathanach an NIA faoi chúram faoisimh](https://www.nia.nih.gov/health/caregiving/what-respite-care) gur féidir leis maireachtáil ó chúpla uair an chloig go dtí roinnt seachtainí agus go bhféadfadh sé tarlú sa bhaile, in áis chúraim sláinte nó in ionad cúraim lae do dhaoine fásta.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+Déanann an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) cur síos ar chineálacha coitianta:
 
-| Type | What it is |
+| Cineál | Cad é |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Cabhair sa bhaile | Tagann cara, gaol, oibrí deonach nó compánach nó cúntóir íoctha go dtí an baile |
+| Ionad lae do dhaoine fásta | Gníomhaíochtaí pleanáilte ar nós ceoil agus ealaíne i suíomh grúpa sábháilte; is minic a chuirtear iompar agus béilí ar fáil |
+| Fanacht thar oíche nó gearr-fhanacht | Tugann pobal cúraim fhadtéarmaigh aire don duine ar feadh oíche, cúpla lá nó cúpla seachtain |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Cé a íocann?** De réir an NIA, b’fhéidir nach gcosnóidh cúram faoisimh ó theaghlach, ó chairde nó ó oibrithe deonacha aon rud. Gearrann seirbhísí gairmiúla táille in aghaidh na huaire nó an lae. Do dhuine atá ag fáil cúraim ospáis, clúdaíonn Medicare an chuid is mó den chostas ar feadh suas le cúig lá as a chéile de chúram faoisimh in ospidéal nó in áis altranais oilte. D’fhéadfadh Medicaid cabhrú. De ghnáth ní chlúdaíonn árachas sláinte príobháideach cúram faoisimh, cé go bhfuil roinnt pleananna árachais cúraim fhadtéarmaigh ann a chlúdaíonn é.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Leid:** Molann an Alzheimer's Association soláthraithe cúraim faoisimh a thriail i gcás nach géarchéim é, ionas go mbeidh siad réidh má bhíonn cabhair uait go tobann.
 
-## Where can I find help near me?
+## Cá háit a bhfaighidh mé cabhair in aice liom?
 
-Several free US services can point you to local help.
+Is féidir le roinnt seirbhísí saor in aisce sna Stáit Aontaithe tú a threorú chuig cabhair áitiúil.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Beolíne 24/7 an Alzheimer's Association: 1-800-272-3900.** Tá an [Bheolíne](https://www.alz.org/help-support/resources/helpline) saor in aisce agus faoi rún, le foireann ar fáil an lá is an oíche gach lá den bhliain, le cabhair i níos mó ná 200 teanga trí fhoireann dhátheangach nó ateangairí. Diailigh 711 le haghaidh seirbhíse sealaíochta. Is féidir leat labhairt faoi athruithe iompraíochta, strus cúramóra, roghanna cúraim faoisimh, cláir áitiúla agus tuilleadh, agus iarr ar chomhrá níos faide le comhairleoir cúraim. Ní thugann an fhoireann comhairle leighis.
+- **Eldercare Locator: 1-800-677-1116.** Ceanglaíonn an [Eldercare Locator](https://eldercare.acl.gov/), seirbhís phoiblí de chuid an Administration for Community Living, tú le seirbhísí do dhaoine aosta agus dá dteaghlaigh. Is féidir leat glaoch, téacs a chur, comhrá ar líne a dhéanamh nó ríomhphost a sheoladh chuig foireann oilte, nó cuardach de réir suímh. Is féidir leis tú a threorú chuig do Ghníomhaireacht Aoisithe Ceantair áitiúil.
+- **Seirbhís Lóraitheora Náisiúnta Faoisimh ARCH.** Cuidíonn [lóraitheoir faoisimh ARCH](https://archrespite.org/caregiver-resources/respitelocator/) leat soláthraithe cúraim faoisimh a aimsiú de réir stáit, agus molann sé teagmháil a dhéanamh le do Chomhghuaillíocht Stáit Faoisimh nó le clár Lifespan Respite ar dtús má tá ceann ag do stát. Tugann ARCH faoi deara nach ndéanann sé soláthraithe a sheiceáil, mar sin déan athbhreithniú ar a dtaithí agus ar a gcúlra tú féin.
 
-## How do I find a support group?
+## Conas a aimsím grúpa tacaíochta?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Iarr ar an mBeolíne nó féach ar líne le haghaidh grúpaí in aice leat. Reáchtálann an Alzheimer's Association [grúpaí tacaíochta](https://www.alz.org/help-support/community/support-groups) do chúramóirí agus do dhaoine atá ag maireachtáil le néaltrú, go pearsanta agus ar líne, faoi stiúir éascaitheoirí oilte. Cuireann go leor áiteanna grúpaí speisialaithe ar fáil freisin, mar shampla do chúramóirí fásta nó do dhaoine atá ag maireachtáil le néaltrú Alzheimer a thosaíonn níos óige nó ag céim luath. Reáchtálann sé ALZConnected freisin, pobal ar líne saor in aisce ina roinneann cúramóirí comhairle.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Is féidir le grúpaí tacaíochta a bheith ina n-áit chun do mhothúcháin a roinnt gan bhreithiúnas, leideanna praiticiúla a fháil ó dhaoine a bhfuil taithí acu, agus mothú nach bhfuil tú i d’aonar. Mura n-oireann an chéad ghrúpa duit, bain triail as ceann eile.
 
-## How do I ask family and friends for help?
+## Conas a iarraim cabhair ar theaghlach agus ar chairde?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Bí sonrach. Ba mhaith le go leor daoine cabhrú ach ní bhíonn a fhios acu cad ba cheart dóibh a thairiscint. Molann an NIA:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Coinnigh liosta** de thascanna a d’fhéadfadh daoine eile a dhéanamh, agus lig do dhaoine rogha a dhéanamh.
+- **Tosaigh beag** má bhraitheann tú go bhfuil sé deacair iarraidh.
+- **Meaitseáil an tasc leis an duine.** Tugann an col ceathrar a bhfuil grá aige don chócaireacht dinnéar Déardaoin. Cabhraíonn an comharsa atá maith le foirmeacha leis an bpáipéarachas.
+- **Cuir téacs nó ríomhphost** mura mbraitheann tú compordach iarraidh duine le duine.
+- **Cleachtaigh freagra** nuair a thairgeann duine cabhair: „Go raibh maith agat as fiafraí. Seo an rud is féidir leat a dhéanamh."
+- **Bí ag súil le roinnt ‘níl’** agus déan iarracht gan iad a ghlacadh go pearsanta.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Smaointe eile: iarr ar dhuine suí leis an duine ar feadh tráthnóna amháin sa tseachtain, iad a thabhairt ar thuras gairid, nó cuairt a thabhairt agus cluiche a imirt le chéile. Tá ár [dtreoir maidir le himirt le chéile](/caregiving/how-to-play-together/) éasca le roinnt le cuairteoirí.
 
-## What if something happened to me?
+## Cad a tharlódh dá mbeadh rud éigin ag tarlú domsa?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Déan plean simplí cúltaca anois. Molann an NIA cinneadh a dhéanamh le teaghlach nó le dlúthchairde cé a thabharfadh aire sa chás sin, agus leabhar nótaí a choinneáil le huimhreacha éigeandála, cógais, leideanna iompraíochta a oibríonn, agus gníomhaíochtaí is fearr leo. Molann an Alzheimer's Association freisin teagmhálaithe leighis an duine agus liosta cothrom le dáta de na cógais a choinneáil in áit atá éasca le fáil.
 
-## When should I get professional or urgent help?
+## Cathain ar cheart dom cabhair ghairmiúil nó phráinneach a lorg?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Labhair le do dhochtúir má bhíonn comharthaí struis ann go rialta, má bhraitheann tú dubhach, nó má tá deacracht agat déileáil leis an scéal. Inis do do dhochtúir gur cúramóir thú. Tugann an NIA faoi deara gur féidir le comhairleoirí agus oibrithe sóisialta cabhrú le mothúcháin dheacra agus le pleanáil, agus go bhféadfadh Medicare, Medicaid agus roinnt árachas príobháideach cuid de na costais meabhairshláinte a chlúdach.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Má bhraitheann tú go bhfuil géarchéim ort nó má bhíonn smaointe agat faoi dhíobháil a dhéanamh duit féin, glaoigh nó cuir téacs chuig 988 chun teagmháil a dhéanamh leis an [988 Suicide & Crisis Lifeline](https://988lifeline.org/), atá saor in aisce agus ar fáil 24/7. Má tá aon duine i mbaol láithreach, glaoigh ar 112 nó 999.
 
-## Can shared activities give me a break too?
+## An féidir le gníomhaíochtaí comhroinnte sos a thabhairt domsa freisin?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Uaireanta. Is féidir le gníomhaíocht chiúin a thaitníonn libh beirt a bheith ina cuid níos séimhe den lá duit féin chomh maith leis an duine a bhfuil cúram á thabhairt agat dó: éisteacht le seanamhráin, féachaint ar ghrianghraif, nó cluiche ar nós [Cártaí Comhrá](/games/conversation-cards/) nach bhfuil aon fhreagraí cearta ag teastáil uaidh. Má thaitníonn comhluadar leis an duine, is féidir le seisiún grúpa le [Biongó Pictiúr](/games/picture-bingo/) in ionad sinsearach nó i gclár lae do dhaoine fásta uair an chloig faoisimh a thabhairt duit. Féach [gníomhaíochtaí do ghrúpaí i dtithe cúraim](/activities/care-home-groups/) le haghaidh smaointe.

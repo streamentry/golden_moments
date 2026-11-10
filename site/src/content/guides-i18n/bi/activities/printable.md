@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Fri Printable Aktiviti blong Dementia"
+seoTitle: "Fri Printable Aktiviti blong Dementia: Bigfala Leta"
+description: "Fri printable aktiviti blong dementia: wod sejak wetem bigfala leta, pija blong kalarem, kadi blong toktok, mo bingo wetem piksa, plus tips blong printim gud."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments i gat ol fri printable aktiviti blong dementia: wod sejak wetem
+  bigfala leta, pija blong kalarem, kadi blong toktok wetem piksa, mo bingo kad
+  wetem piksa. Opnem eni gem page mo yusum Print button. Printim long bigfala mo
+  klia leta long hevi pepa, putum wan wok nomo long wan pej, mo laminetem ol pej
+  we yu wantem yusum bakegen. Ol homemade printable olsem wan lif-stori pej o wan
+  dei skejul, oli yusful tu.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Ol printable aktiviti blong mifala oli fri: Word Search, Coloring, Conversation Cards mo Picture Bingo. Long eni gem page i gat wan Print button."
+  - "Printim long bigfala mo klia leta wetem strong kala, mo putum wan wok nomo long wan pej."
+  - "Hevi pepa o card stock i isi blong holem mo i no isi blong kraswan. Laminetem ol pej blong yusum bakegen wetem dry-erase marka."
+  - "Ol homemade printable olsem wan lif-stori pej, wan dei skejul, o piksa leba blong ol rum i simpol mo i yusful."
+  - "Wan printed pej i wan invitesen, no wan homwok. Taem yu mekem wan pat blong hem, o no mekem enikaet, i oraet."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Ol printable aktiviti blong dementia oli fri?"
+    a: "Yes. Ol pej blong Word Search, Coloring, Conversation Cards mo Picture Bingo long saet ya oli fri blong yusum mo printim. Opnem gem page mo yusum Print button."
+  - q: "Wanem printable aktiviti i gud long dementia?"
+    a: "Ol gud printable oli simpol, klia, mo oli blong ol man we oli bigfala: wan wod sejak wetem bigfala leta we ol wod oli stap nomo long saed mo long hem, pija blong kalarem we ol laen oli klia, kadi wetem piksa we oli kasem wan toktok, mo bingo wetem piksa blong ol grup. Mekem aktiviti i kamap wetem ol intres mo ol abiliti we man i gat naoia, mo putum wan wok nomo long wan pej."
+  - q: "Hao blong mekem ol printable i isi blong luk mo yusum?"
+    a: "Yusum bigfala mo plen leta, dak ink long waet o kriem pepa, mo spes we i plenti. Printim long hevi pepa o card stock blong pej i stap flet, jusum matte pepa blong stopem glea, mo yusum clipboard o non-slip mat blong pej i no muv. Laminetem i hem blong ol pej i stap lelebet."
+  - q: "Ka mi save printim ol aktiviti blong yu blong wan care home o wan day program?"
+    a: "Yes. Ol man blong aktiviti oli wlkam blong printim ol pej blong mifala blong ol resiedens mo ol grup. Picture Bingo i mekem blong ol grup mo i gat wan man we i kolem namba long screen we yu ken soem long TV o projector."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Sometaem, namba wan aktiviti i wan pija pepa mo wan pen long tebol long kitjen. Ol printable oli no nidim jaj, pasvod, o skrin, mo oli isi blong karem long wan visit o wan grup. Pej ia i talem abaot ol fri printable aktiviti long saet blong mifala, hao blong printim olgeta blong oli isi blong luk mo holem, mo sam homemade printable we ol famili mo ol man blong aktiviti oli luk i yusful.
 
-## What free printable activities do you offer?
+## Wanem fri printable aktiviti nao yumi offerem?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Yumi gat fo fri printable. Opnem eni long ol gem page ia mo yusum **Print** button blong kasem wan versen we i gud blong printim.
 
-| Printable | What it is | Good for |
+| Printable | Wanem i olsem | Gud blong |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Wan wod sejak wetem bigfala leta, wetem ol wod nomo long saed mo long hem | Kwaet taem wetem pen; man we i laekem ol puzzle |
+| [Coloring](/games/coloring/) | Ol pej blong kalarem, blong printim o blong kalarem long screen | Taem we i relax mo i krietiv; eni stej wetem sapot |
+| [Conversation Cards](/games/conversation-cards/) | Kadi wetem piksa mo ol open prompt, no kwesten blong test, long ol tема | Visit, kol, famili kaikai, grup blong tingbak |
+| [Picture Bingo](/games/picture-bingo/) | Bingo kad wetem piksa, no namba, mo wan man we i kolem long screen | Care home, day program, famili kaderin |
 
-### Large-print word search
+### Bigfala leta wod sejak
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) i gat bigfala leta mo i kipim ol wod nomo long saed mo long hem, no diagonal no ol wod we oli go bak. Waka wetem narafala: wan man i ridim wan wod long lis, narafala i lukem. Sipos i had blong faenem ol wod, traem blong sekol long fasta leta blong ach wod togeta, o jas ridim ol wod long lis long vois hae mo toktok abaot ech wod.
 
-### Coloring pages
+### Ol pej blong kalarem
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Ol [Coloring](/games/coloring/) pej i ken printim blong ol marka o ol kalas pensel, o yu ken kalarem long tablet long taj wan kala, afta wan pat blong piksa. Long ol printed pej, givim ol tik marka mo sam kala nomo long wan taem. Lukim [gaed blong arts and crafts](/activities/arts-and-crafts/) blong mekem kalarem i stap i olsem wan aktiviti blong man i adalt mo i relax.
 
-### Conversation cards
+### Kadi blong toktok
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) i putum wan klia piksa wetem wan open prompt, olsem "Talem mi abaot..." o "Wanem yu lukim?" Ol i raetem olsem open invitesen, no kwesten blong kwis. Printim wan set, katem ol kadi, mo kipim sam long wan beg long visit, o long sed blong fon long taem blong kol. Ol i gud tu long ol grup blong [tingbak](/activities/reminiscence/).
 
-### Picture bingo cards
+### Bingo kad wetem piksa
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Picture Bingo](/games/picture-bingo/) kad i yusum piksa instead blong namba. Printim wan kad long wan man long wan taem mo yusum man we i kolem long screen long laptop, TV o projector. Mifala i advaesem blong kolem kasem ol kad blong evriwan i fulap, so no wan i stap aotsaed. Lukim [grup aktiviti blong care home](/activities/care-home-groups/) blong hao blong ranem wan sesen.
 
-## How do I print activities so they are easy to use?
+## Hao blong printim aktiviti blong olgeta i isi blong yusum?
 
-Small changes in how you print make a big difference.
+Ol smol jenjes long hao blong printim i save mekem bigfala defren.
 
-### Make it easy to see
+### Mekem i isi blong luk
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Bigfala mo plen leta.** Yusum bigfala setting we i stil fit long pej. Avoidem ol fansi o script fon.
+- **Strong kontrast.** Dak ink long waet o kriem pepa. Lusum ol les grey o kala bakgraon.
+- **Matte pepa** i redyusim glea anda long braet lait.
+- **Jekem glas mo lait.** Alzheimer's Association i talem se ol problem long ae mo ia i save mekem komuniken i hadwan, mo i sujestem blong jekem olgeta regula. Wan braet, i even lamp i yusful tu.
 
-### Make it easy to hold
+### Mekem i isi blong holem
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Hevi pepa o card stock** i stap flet, i isi blong kasem, mo i stap gud long yusum bakegen.
+- **Wan clipboard** o non-slip placemat i stopem pej blong no slaed.
+- **Tik marka o fat pensel** i isi blong holem winim ol tin pen.
 
-### Make it reusable
+### Mekem i ken yusum bakegen
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Laminetem ol pej** o putum long ol klia sheet protector. Yusum dry-erase marka long ol word search mo bingo kad, afta i wipe klin.
+- **Jusum matte pauch** sapos glea i wan problem, mo **raontem ol kona** blong laminated kadi wetem sisa blong i kamfotebol blong holem.
+- **Kipim wan folda** blong ol fevrit blong yu blong no printim sem pej evri wik.
 
-### Keep it simple
+### Mekem i simpol
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Wan wok long wan pej.** Wan wod sejak nomo, o wan piksa nomo, no ol aktiviti i stap kolosap long wan pej.
+- **Plenti waet spes.** Wan pej we i bisi i ken mekem man i filim i tu moa.
+- **No ol intrakson blong ridim, sipos i posibol.** Soem man wanem blong mekem instead.
+- **Katem ol sit i smol.** Sipos wan fulpej i tumas, katem i hafwe o fodem blong jas sam pat i soem.
 
-## Other useful printables you can make at home
+## Ol narafala gud printable we yu ken mekem long hom
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+No evri gud printable i wan gem. Ol ia i isi blong mekem wetem wan word processor mo wan printa.
 
-### A life-story page
+### Wan lif-stori pej
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Wan pej blong "abaot mi" wetem wan foto, nem we man i laekem blong kolem, ples we hem i bon long hem, wok blong hem, famili, kaikai we i fevrit, miusik, mo ol samting we i save kamfotem o hevhevem hem. Dementia Australia i sujestem wan [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) wetem ol detail abaot laef blong man, ol laekem blong hem, mo ol important man, blong helpem ol visitor mo ol kea-givim, mo blong mekem toktok i kamap.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Hem i gud spesol long ol hospitol mo ol niu care setting. NIA i tokstrong blong givim ol hospitol staff wan [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) we i kavremap ol rutin blong man, nem we hem i laekem, ol laekem mo ol no-laekem, ol samting we ken triggerem hem, mo ol nonverbal saen blong pen.
 
-### A daily schedule
+### Wan dei skejul
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Wan bigfala, simpol skejul blong dei wetem taem, sam wod, mo wan smol piksa long ech pat: brekfas, wakabaot, lanj, rest, miusik, dina. Alzheimer's Association i gat wan [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) we i sujestem blong planem aroun ol bes taem blong man long dei, wetem regula taem blong kirap mo slip, mo wan balans blong aktiviti mo rest. Putum long wan ples we ai i luk isi, olsem long fridge, mo mekem i stap flexibol. Lukim [gaed blong daily routine](/activities/daily-routine/) blong moa.
 
-### Picture labels for rooms and drawers
+### Piksa leba blong ol rum mo draor
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA i sujestem blong yusum ol braet kala sain o simpol piksa blong [leba bathroom, bedroom mo kitjen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Sem aidia i wok long ol draor mo ol kabod: wan piksa blong sok long draor blong sok, kap long kabod blong kap. Printim, laminetem, mo tapem ol.
 
-### A sorting set
+### Wan sortim set
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Printim piksa blong tu simpol kateri, olsem fruit mo flaoa o tul mo kitjen samting, long kad pepa. Katem ol i apat mo sortim ol long tu basket togeta. Vesen long screen blong hemia i [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Ol sing lirik pej
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Printim ol wod blong sam fevrit song long bigfala tAIP blong wan sing-along. Evin ol man we oli no ridim plenti oli ken enjoy holem pej ia.
 
-### A family photo page
+### Wan famili foto pej
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Wan pej wetem fo long sikis bigfala famili foto, long wan i gat wan fastnem andanit. Hem i ken stap long tebol blong eniwan blong katem mo toktok abaot. Ol leba i helpem ol visitor mo staff blong joen long toktok, mo no wan i nidim blong askem "Hu i hu ia?"
 
-### A recipe card
+### Wan resipi kad
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Printim wan fevrit famili resipi long bigfala leta. Yusum hem blong kuk togeta, o jas blong toktok abaot ol kaikai long taem bifo.
 
-## How do I offer a printable without it feeling like homework?
+## Hao blong ofarem wan printable we i no filim olsem homwok?
 
-Present it as something to share, not a test.
+Presentim hem olsem samting blong sea, no wan test.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Sidaon mo stat hem yu wan.** "Mi stap mekem disfala word search. Yu wantem helpem mi blong faenem 'garden'?"
+- **Waka togeta.** Teken taem, o wan i faenem mo narafala i sekol.
+- **Nating maki i rong o i rait.** Gaed blong Alzheimer's Association long [aktiviti long hom](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) i advaesem blong fokas long pasej, no long rizaltri, mo long wanem i mekem man i enjoy, no wanem i winim.
+- **Lusum ol pej.** Sem gaed ia i sujestem blong putum ol scrapbook, foto album, o ol olfala magasin long ples we i isi blong kasem. Ol printed kadi mo foto pej i ken stap long wan saed tebol long sem wei.
+- **Stopem taem eni taem yu wantem.** Hafwe blong wan kalarem pej i gud wan aftenun. Mo putum pej i go, mo kolsem wan kap tii, i gud tu.
 
-## Where to find more
+## Ol narafala samting
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Lukim ol [gem mo printable](/games/) blong yumi olgeta, o lukim [aktiviti blong evri stej](/activities/ideas/) blong moa aedia, wetem mo no wetem pepa.

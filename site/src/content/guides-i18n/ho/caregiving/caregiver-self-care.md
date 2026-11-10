@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Naria Tauna Sibona Naria: Laga-ani, Heduru bona Burnout"
+seoTitle: "Dementia Naria Tauna Sibona Naria: Laga-ani bona Heduru"
+description: "Caregiver burnout ena toana, respite bona support group davana dalana, bona US helpline gaukara lasi, Alzheimer's Association 24/7 Helpline bona Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Dementia ia abia tauna naria karana be auka, bona oi sibomu naria karana be
+  unai gaukara badina ta. Toana oi itaia: tauanina, badu herea, mahuta namonamo
+  lasi, bona turamu oi raka lao. Heduru oi noia gaukara ta ta dekenai, respite
+  care oi gaukaralaia, bona support group ta oi vareai. US ai heduru gaukara
+  lasi be Alzheimer's Association 24/7 Helpline (1-800-272-3900) bona Eldercare
+  Locator (1-800-677-1116).
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Burnout ena toana be tauanina, badu herea, mahuta namonamo lasi, laloa metau bona oi sibomu health naria oi rakatania."
+  - "Respite care ese oi laga-ani ta ia henia, hour haida ela week haida, ruma ai o naria gabuna ai."
+  - "Heduru oi noia gaukara ta ta dekenai; taunimanima momo be heduru henia ura, to dia diba lasi dahaka dia karaia."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) ese heduru gaukara lasi bona hereva hegeregere ia henia, nega ibounai."
+  - "Eldercare Locator (1-800-677-1116) ese oi ia koua gabumu ena gaukara dekenai, Area Agency on Aging danu."
+  - "Bema oi laloa kerere, 988 oi tohoa o text karaia. Emergency ai, 111 oi tohoa."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Caregiver burnout ena toana be dahaka?"
+    a: "Toana momo be tauanina, laloa hegegemadai o gari, badu herea o heau helulu lasi, mahuta namonamo lasi, laloa metau o kerere lasi, turamu oi raka lao, kwarana hisihisi o gini hegegemadai, bona oi sibomu aniani, exercise o doctor itaia oi rakatania. Bema unai toana be nega momo ia vara, oi sibomu doctor ida oi herevalaia."
+  - q: "Edena dala ai lau respite care lau davaria lau gabugu kahirakahira?"
+    a: "Eldercare Locator (1-800-677-1116 o eldercare.acl.gov) amo oi matamaia, gabumu ena Area Agency on Aging oi davaria totona, ARCH National Respite Locator Service, o Alzheimer's Association Helpline 1-800-272-3900. Raru taudia, turamu bona volunteer danu be respite dia henia diba."
+  - q: "Medicare ese respite care ia davana, a?"
+    a: "Bema oi naria tauna be hospice naria ia abia, Medicare ese respite care dina 5 lalonai hospital o skilled nursing facility ai ena davana badina ia koua, National Institute on Aging ia gwau. Private health insurance momo be respite ia davana lasi; Medicaid bona long-term care insurance plan haida be dia heduru diba."
+  - q: "Alzheimer's Association Helpline be momokani gaukara lasi bona hanuaboi danu ia noho, a?"
+    a: "Oibe. Alzheimer's Association ia gwau, Helpline 1-800-272-3900 be gaukara lasi, hereva hegeregere, bona dina ibounai, lagani ibounai, nega ibounai ia gaukara, gado momo ai heduru ia noho. Relay service totona 711 oi tohoa."
+  - q: "Naria gaukara amo lau laga-ani be sibogu sibogu ura, a?"
+    a: "Lasi. Laga-ani ese oi ia durua naria gaukara oi karaia lou, bona respite ese oi naria tauna danu tauna ma haida ida bona gaukara ma haida ia abia diba. Naria taudia momo be gabeai dia gwau, dia ura heduru dia noia guna."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Bema oi be dementia ia abia tauna ta oi naria, reana oi be hanuaboi ai inai hereva oi duahia, tauanimu, bona gaukara haida oi karaia lasi. Unai be kerere lasi. Oi sibomu naria karana be gaukara ia ore vadaeni murinai davana lasi. Unai ese oi ia durua oi lao noho.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Inai pesi ai burnout ena toana, momokani laga-ani davana dalana, heduru davana gabuna, bona US helpline gaukara lasi harihari oi tohoa diba ai itaia.
 
-## What are the signs of caregiver burnout?
+## Caregiver burnout ena toana be dahaka?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Burnout be nega daudau lalonai ia vara diba, unai dainai oi sibomu ena toana oi diba namonamo be namo. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) ese caregiver stress ena toana haida ia gwauraia, inai bamona:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- tauanina, laloa hegegemadai o gari;
+- badu herea o heau helulu lasi;
+- sibomu o noho o turamu amo oi heto; 
+- mahuta namonamo lasi, o mahuta ia hegeregere lasi;
+- laloa metau o kerere lasi, o gunaguna oi moalelaia gaukara dekenai ura lasi;
+- kwarana hisihisi, gini o tau ena hekwakwanai haida;
+- exercise o aniani namona sibomu totona nega lasi;
+- digu o sibomu naria haida oi rakatania;
+- alcohol o muramura oi gaukaralaia kerere, doctor ia henia muramura danu.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ese toana ma haida ia gwauraia, hegeregerena gorere ia abia lasi, oi naria tauna dekenai badu (bema "ia ura lasi sibona"), daudau totona gari, laloa tamona karana auka, bona tau ena hekwakwanai. Bema unai toana be nega momo ia vara, doctor ida oi herevalaia.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA ena sisiba be, oi naria lasi ela oi tauanina momokani. Toana oi itaia guna bona dahaka oi karaia.
 
-## What can I do today, in five minutes?
+## Harihari dahaka lau karaia diba, minute 5 lalonai?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Laga-ani maragi danu be mai anina. Inai be burnout ia hamaoroa lasi, to adorahi auka ta ai ia durumu diba.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Murimuri ai oi lao.** Porch ai oi helai o mailbox dekenai oi raka lao, bema oi naria tauna be namo bona naria namonamo ai ia noho.
+- **Laga-laga ai oi hahoma.** Henanadai auka ta oi haere laia neganai, oi hahoma laga-laga. [Calm Breathing](/games/calm-breathing/) amo oi naria tauna ida laga-ani ta oi abia diba danu.
+- **Ranu oi inu bona dahaka oi ania.** Oi sibomu aniani oi lalohisihisi diba.
+- **Turamu ta dekenai text oi siaia.** Dahaka oi noia lasi, hereva moale totona.
+- **Oi sibomu dekenai hereva namona oi gwauraia.** NIA ena [sibomu naria dalana](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) ia gwauraia hereva bamona: "Lau karaia diba gaukara lau karaia," "Lau be namonamo momokani lasi, unai be namo," bona "Ita ruaosi hebou namonamo ai ita noho negadia lau moalelaia."
 
-## What is respite care, and how do I get it?
+## Respite care be dahaka, bona edena dala ai lau abia?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Respite care be nega kwadogi ai naria, unai ese oi laga-ani oi abia. NIA ena [respite care pesi](https://www.nia.nih.gov/health/caregiving/what-respite-care) ia hahedinaraia, unai be hour haida ela week haida ia noho diba, ruma ai, health naria gabuna ai o adult day care center ai.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) ese dala momo ia gwauraia:
 
-| Type | What it is |
+| Dala | Dahaka unai |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Ruma ai heduru | Turamu, raru tauna, volunteer o davana tauna ta ia mai ruma ai |
+| Adult day center | Ane, art bona gaukara ma haida, taudia momo ida gabuna namona ai; dalana bona aniani danu dia henia diba |
+| Hanuaboi o nega kwadogi noho | Long-term care gabuna ta ese tauna ia naria hanuaboi ta, dina haida o week haida |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Daika be ia davana?** NIA ia gwau, raru taudia, turamu o volunteer amo respite be gaukara lasi diba. Gaukara taudia be hour o dina dekenai dia davana. Bema hospice naria ia abia tauna, Medicare ese respite dina 5 lalonai hospital o skilled nursing facility ai ena davana badina ia koua. Medicaid be ia heduru diba. Private health insurance momo be respite ia davana lasi, to long-term care insurance plan haida be dia davana diba.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Siba:** Alzheimer's Association ia gwau, respite taudia oi gaukaralaia toho emergency lasi neganai, unai bamona bema harihari heduru oi ura, idia be hegaegae.
 
-## Where can I find help near me?
+## Lau gabugu ai heduru edena bamona lau davaria?
 
-Several free US services can point you to local help.
+US gaukara lasi haida ese gabumu ena heduru dekenai oi hakaua diba.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) be gaukara lasi bona hereva hegeregere, dina ibounai, lagani ibounai, nega ibounai ia gaukara, gado 200 mai momo ai heduru ia noho, bilingual taudia o interpreter amo. Relay service totona 711 oi tohoa. Kara kerere, caregiver stress, respite dalana, gabumu ena program bona gaukara ma haida oi herevalaia diba, bona care consultant ida hereva daudau oi noia diba. Taudia be doctor ena sisiba dia henia lasi.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living ena public service, ese tau badadia bona idia edia raru taudia totona gaukara dekenai oi ia koua. Oi tohoa, text, online chat o email oi karaia diba, o gabumu oi tahua. Gabumu ena Area Agency on Aging dekenai oi hakaua diba.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) ese state dekenai respite taudia davana ia durumu, bona ia gwau, bema oi emu state ai State Respite Coalition o Lifespan Respite program ia noho, idia oi hereva henia guna. ARCH ia gwau, idia be respite taudia dia itaia namonamo lasi, unai dainai idia edia gaukara bona diba oi itaia sibomu.
 
-## How do I find a support group?
+## Support group edena bamona lau davaria?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Helpline oi nanadaia o online ai oi tahua gabumu kahirakahira. Alzheimer's Association ese [support group ia karaia](https://www.alz.org/help-support/community/support-groups) naria taudia bona dementia ia abia taudia totona, hedinaraia o online ai, hedinarai taudia amo. Gabuna momo ai group ta ta danu, hegeregerena tau badadia naria taudia totona, o younger-onset o early-stage Alzheimer's ia abia taudia totona. ALZConnected danu, online community gaukara lasi, naria taudia idia edia diba dia herevalaia.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Support group be gabuna namona, oi hereva diba hebou lasi, gaukara momokani ena siba oi abia taunimanima edia dala amo, bona sibomu oi noho lasi oi diba. Bema ginigunana group be namo lasi, ma ta oi toho.
 
-## How do I ask family and friends for help?
+## Raru taudia bona turagu edena bamona heduru lau noia?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Gaukara ta ta oi gwauraia. Taunimanima momo be heduru henia ura, to dia diba dahaka dia henia. NIA ia gwau:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **List ta oi karaia** gaukara haida ma taudia dia karaia diba, bona idia sibodia dia abia hidi.
+- **Maragimaragi ai oi matamaia** bema noinoi be auka.
+- **Tauna bona gaukara oi hegeregerea.** Nadimu ta be aniani ia ura henia, Thursday ai ia mailaia. Noho kahirakahira tauna ta be form ia diba, pepa gaukara ai ia heduru.
+- **Text o email** oi gaukaralaia bema hedinaraia be namo lasi.
+- **Haere oi hegaegae** bema tauna ta ia gwau ia heduru: "Tanikiu oi nanadai. Inai oi karaia diba."
+- **Lasi haida oi abia dae** bona laloa bada lasi.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Dala ma haida: tauna ta oi noia week ta ai adorahi ta oi naria tauna ida ia noho, nega kwadogi ai ia hakaua lao, o ia mai bona ita ruaosi game ta ita gadaraia. Emai [hebou gadaraia dalana](/caregiving/how-to-play-together/) be vadivadi taudia dekenai oi henia diba.
 
-## What if something happened to me?
+## Bema lau dekenai dahaka ia vara?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Hari backup plan maragi ta oi karaia. NIA ia gwau, raru taudia o turamu namodia ida oi herevalaia daika be ia heduru, bona notebook ta ai emergency namba, muramura, kara namodia, bona gaukara ia moalelaia oi atoa. Alzheimer's Association danu ia gwau, oi naria tauna ena doctor contact bona muramura list matamata davaria diba.
 
-## When should I get professional or urgent help?
+## Edana negai professional o harihari heduru lau tahua?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Doctor ida oi herevalaia bema stress ena toana be nega momo ia vara, bema oi laloa metau, o bema oi naria diba lasi. Doctor dekenai oi gwauraia oi be naria tauna. NIA ia gwau, counselor bona social worker be laloa auka bona plan karana ai dia heduru diba, bona Medicare, Medicaid bona private insurance haida be mental health davana haida dia koua diba.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Bema oi laloa kerere momokani o oi sibomu oi hadikaia laloa ia noho, 988 oi tohoa o text karaia, [988 Suicide & Crisis Lifeline](https://988lifeline.org/) oi davaria totona, gaukara lasi bona nega ibounai 24/7. Bema tauna ta be harihari dika bada ai ia noho, 111 oi tohoa.
 
-## Can shared activities give me a break too?
+## Hebou gaukara ese lau danu laga-ani ia henia diba, a?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Nega haida ai, oibe. Laga-laga gaukara ta umui ruaosi moalelaia be dina ai gabuna namona, oi bona oi naria tauna totona: ane gunadia umui kamonai, ladana umui itaia, o game bamona [Conversation Cards](/games/conversation-cards/) be haere maoromaoro ia ura lasi. Bema oi naria tauna be taudia ida noho ia moalelaia, [Picture Bingo](/games/picture-bingo/) bamona hebou gadara senior center o adult day program ai be respite hour ta ia henia diba. Diba ma haida totona [care home group gaukara](/activities/care-home-groups/) oi itaia.

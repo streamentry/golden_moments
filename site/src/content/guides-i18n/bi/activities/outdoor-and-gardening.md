@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Aktiviti long garden mo aotdoa blong ol man long dementia"
+seoTitle: "Garden mo aotdoa aktiviti long dementia"
+description: "Ol aktiviti long garden mo aotdoa blong ol man we oli gat dementia, wetem ol bed we oli hae, ol pot, mo tips blong seftiwan long hit, san mo taem we oli waka aroun nomo."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Garden mo taem long aotdoa i save kasem wan man we i gat dementia long wan
+  kalmmm mo fababa wei. Traem wota plant, potem ol plant long kaontena, kilim
+  ol flaoa we oli dae finis, o wan lilbit waka long wan yad we i gat fens. Yusum
+  ol bed we oli hae o wan tebol blong nating man i mas kneel, no yusum ol sap
+  tul mo ol plant we oli gat pwason, go aot long taem we i no hot tumas, mo
+  stap wetem man ya oltaem.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Ol simpol taskis long garden olsem wota, plantem sid long pot, smelem ol herb mo pikim ol flaoa, oli save duim taem yu stanap o yu sidaon."
+  - "Ol raised bed, ol kontena mo wan tebol we i gat ruf oli karem garden i kasem midol bodi, mo oli save redyusim risk blong foldaon."
+  - "Avoidim ol sap tul, ol plant we oli gat thon o oli save irritatem skin, mo eni samting we i gat pwason. Lukaotem fasin blong ol man we oli save kakae graon olsem kaikai."
+  - "Hit i save kamaot danis long ol olfala. Go aot long moning o aftanun, karem wota mo samting blong seil, mo kambak insaed long fes saen blong sik o no kamfotebol."
+  - "Plante man we oli gat dementia oli save waka aroun nomo long sam taem. Stap wetem man ya long aotdoa mo karem wan niu fota mo ID raon long yu."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Wanem aktiviti long garden we man we i gat dementia i save duim?"
+    a: "Wota ol plant, plantem sid long ol smol pot, smelem mo tajem ol herb, kilim ol flaoa we oli dae finis, pikim ol kaikai plant, arenjem ol katem flaoa mo klinim wan rod, olgeta oli gud jus. Insaed haos, wan pot herb long windo sil o wan tre blong graon long wan tebol we i gat ruf i wok gud. Jusum aktiviti ya bihaen long samting we man ya i laekem bifo mo wanem we hem i save duim naoia nomo."
+  - q: "Hao blong mi save protektem man we i gat dementia long hit?"
+    a: "Planem taem blong aotdoa long moning we i kol, o long aftanun, mo mekem i no longfala. Givim wota plente taem. Jusum ples we i gat seed, wan hat we i gat bigfala brim, klos we i lus mo i no hot tumas, mo sanskrin. Ol olfala oli moa stret long risk blong sik from hit, mo sik long hed, kanfiuz, dizi o spak oli save olsem fas saen. Sipos yu lukim ol saen ya, karem man ya insaed kwik mo kolem daon."
+  - q: "Yumi save go aot olsem wei sipos hem i save waka aroun nomo?"
+    a: "Stap wetem man ya taem olgeta long aotdoa, yusum wan yad o garden we i gat fens mo get we i gat lok, mo sure hem i wearem wan ID bracelet o karem ID. Karem wan niu fota long yu. Sipos man ya i lusum rod, Alzheimer's Association i advaesem blong kolem emergency namba blong ples ya sipos ol i no faendem hem insaed long 15 minit."
+  - q: "Wanem sipos yumi no gat garden?"
+    a: "Sam pot long vefanda, wan box blong plant long windo, o wan tre blong herb long kitchen tebol i stret finis. Yu save go long wan pak, wan pablik garden o wan community garden tu. Sidaon aotdoa mo lisin long ol pisin, i kaontem olsem wan aktiviti aotdoa tu."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Long ful laef blong ol man, garden i wan long ol ples we oli save gud moa. Digim graon, wota plant mo pikim ol flaoa oli yusum ol skil we oli bin lanem long taem i bin longwe. Taem yu stap aotdoa, yu gat fres eya, san mo ol pisin oli singsing. Nasonal Institute on Aging i lisim wok long ol plant, plantem flaoa mo ol kaikai plant, mo [toktok long hao ol plant oli grow](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) olsem ol aktiviti we ol man we oli gat Alzheimer's i save laekem. Pej ia i talem wanem blong traem, hao blong mekem garden i isi blong yusum, mo hao blong stap seif long hit, san, mo taem oli waka aroun nomo.
 
-## What outdoor and gardening activities work well?
+## Wanem nao aktiviti long garden mo aotdoa i wok gud?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Ol gud taskis oli simpol, oli famili, mo oli save duim taem yu stanap o yu sidaon. Jusum long samting we man ya i bin laekem bifo.
 
-### In the garden
+### Long garden
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Wota.** Wan smol lait wota kan o wan gentol hose nozol mo sam pot we oli stap klosap. Wota i gat wan klia stat mo finis, mo i no hard blong mekem rong.
+2. **Plantem sid long pot.** Alzheimer's Foundation of America i sajestem blong plantem sid long smol pot mo [lukluk i grow](https://alzfdn.org/dementia-activity-gardening/). Ol bigfala sid olsem bins, san-flaoa o pis i isi blong hanemaot.
+3. **Kilim ol flaoa we oli dae finis.** Pinjim ol flaoa we oli dae finis wetem han i wan gentol, wan wan taskis. Jusum ol plant we oli no gat thon.
+4. **Pikim ol kaikai plant o herb.** Ol cherry tomato, bins mo ol herb oli isi blong pikim mo oli gud blong kaikai. Karem i go insaed blong yusum long lanj.
+5. **Smelem mo tajem ol herb.** Rosemary, mint mo lavender oli gat strong mo gud smel. Rabem wan lif long ol fingga blong yu mo pasem i kolsap long nose.
+6. **Klinim wan rod o patio.** Wan laet broom long wan stret mo draem graon, sipos balans i stret.
+7. **Fulumap wan bird feeder.** Then sidaon togeta mo lukluk long ol pisin we oli kam.
 
-### Indoors, when going out is not possible
+### Insaed, taem i no possible blong go aot
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Wan herb garden long windo sil** blong basil, parsley o chives.
+- **Potem long wan tebol we i gat ruf.** AFA i sajestem blong yusum ol tre blong kafeteria blong kipim graon long wan ples, mo muvum graon wetem ol smol kap.
+- **Arenjem flaoa** wetem ol katem flaoa mo grin ol lif long yad o long stoa.
+- **Pressed flaoa** long wan bukit, bihaen yu save pastem long ol kad. Lukim [ol kraf](/activities/arts-and-crafts/) blong moa.
+- **Mekem ol sachet blong lavender o rose**, wan nara AFA aedia we i kipim smel blong garden insaed.
 
-### Getting out and about
+### Go aot mo waka aroun
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Wan smol waka** aroun blok, long wan pak o wan garden senta, long wan slo pes wetem ples blong sidaon.
+- **Sidaon aotdoa** long vefanda o bench blong lisin long ol pisin mo filim win. Olsem ia i wan aktiviti we i ful long hem wan.
+- **Visitim wan pablik garden** long wan kwaet taem blong de. NHS i talem se sam ples oli gat sensory garden wetem ol plant we oli gat smel, ol taj mo ol wota fitja.
+- **Fidim ol dak o lukluk long ol pisin** long wan lokol pond, wetem sef distans from ej blong wota.
 
-## How do I make a garden easier to use?
+## Hao blong mekem garden i isi blong yusum?
 
-Bring the garden up to the person, not the other way around.
+Karem garden i kasem man, no man i mas go kasem garden.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Raised bed o ol tol planta** long midol bodi, olsem no mas kneel o bend.
+- **Ol kontena long wan tebol** i gud long man we i yusum wheelchair o we i laekem sidaon.
+- **Ol wase, fles rod** we no gat ston o hose i lae i kros, blong redyusim risk blong trip.
+- **Ol seat we oli gat hand rest mo sed** long rod, blong oltaem i gat ples blong resis.
+- **Tul we oli gat tik, sof handol** we i isi blong holem. Lusum ol prunas, naef mo eni samting we i sap.
+- **Wan ples we i gat fens mo get we i gat lok** we man ya i save wakabaot long hem fri, wetem yu stap klosap.
 
-## Which plants should I avoid?
+## Wanem ol plant mi mas avoidim?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Jusum ol plant we i seif blong tajem mo, sipos i save, i seif sipos man i kakae. AFA i advaesem blong yusum ol plant we oli no save irritatem skin, mekem ol test blong alajik, mo lukaotem gud ol man we i save kakae graon olsem kaikai. Advaes blong NIA long seif long haos i talem blong kilim o lokem ol pwason plant.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Avoidim ol rose we oli gat thon, ol kaktus, mo ol plant we oli gat sap we i irritatem skin.
+- Jekem eni plant we yu no save long hem wetem wan poison kontrol senta o wan lokol garden senta bifo yu plantem.
+- Ol plant we man i laekem finis i save karem ol gud fil bak. AFA i talem ol rose mo Christmas cactus olsem eksampol. Jusum ol vesen we oli no gat thon.
+- Kipim ol fertilizer, pesticide mo weed killer i stap long lok, mo no yusum long ol ples we man ya i save kasem.
 
-## How do I stay safe in the heat and sun?
+## Hao blong stap seif long hit mo san?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Planem taem blong aotdoa aroun long wetta. NIA i eksplenem se ol olfala oli moa stret long risk blong [sik from hit](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), sam taem from bodi i no save jenis gud long jenis long hit mo sam medisin i save jenisem wei bodi i handle hit.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Go aot long moning o aftanun.** Avoidim midol de long ol hot mans. Jekem heat index, no jus temperatua.
+- **Givim wota plente taem.** No wet we man ya i talem hem i traostem. Avoidim alkol mo ol drink we i gat kafein long hit.
+- **Dres i stret long hit.** Klos we i laet kala mo i lus, wan hat we i gat bigfala brim, mo sanglas.
+- **Yusum sanskrin.** NIA i rikomendem broad-spectrum SPF 15 o moa, mo putum bakegen long taem blong de.
+- **Jusum seil.** Setemap tebol blong potem anda long tre o umbrela.
+- **Mekem i no longfala.** Wan smol taem aotdoa i inaf, espesol long hot de.
+- **Lukaotem ol saen blong danis.** NIA i lisim hed, kanfiuz, dizi o spak olsem ol saen we i save minim sik from hit. Man we i gat dementia i save no talem yu se hem i no fil gud, so lukluk long fes mo tingting blong hem. Karem hem i go insaed, kolem daon wetem wota mo wan kol klos, mo kasem medikol help sipos hem i no save gud kwik. Heat stroke, wetem saen olsem fainting, kanfiuz, o dray mo redfes skin, i wan medikol emergency: kolem emergency namba blong ples ya.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Kol taem tu i impoten. Long winta, mekem taem aotdoa i sot mo lukaotem se han mo lek oli stap wom mo drae.
 
-## How do I handle wandering when we go outside?
+## Hao blong hanemaot taem man i waka aroun nomo taem yumi go aot?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Stap wetem man ya taem olgeta we hem i stap aotdoa. Alzheimer's Association i talem se [sikis long ol 10 man we oli gat dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) bambae oli waka aroun nomo wan taem long lowes, mo plante oli mekem olsem moa dan wan taem. Hemia i save hepen long eni stej.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Ol [tips blong waka aroun mo lusum rod](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) blong NIA i inkludum:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Mekem sua se man ya i wearem ID o medikol bracelet we i gat nem, adres mo namba blong fon blong yu, o putum leba long klos blong hem.
+- Kipim wan niu fota o vidio blong man ya.
+- Talem ol neba se man ya i save waka aroun nomo.
+- Secure yad ya wetem fens mo wan get we i gat lok.
+- No lusum wan man we i bin waka aroun nomo finis taem i stap yet long ples nomo.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association i advaesem tu blong mekem ol ples insaed mo aotdoa we man i save wakabaot seif long hem, mo blong planem ol aktiviti long taem we i moa kaen blong hem i save gat restlesnes. Wan wok long wan seif, endosd garden i save gud long late-day restlessness. Lukim gaed blong mifala long [late-day restlessness](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Sipos man ya i lusum rod, Alzheimer's Association i advaesem blong raet kwik sem long ples we i klosap mo kolem emergency namba blong ples ya sipos ol i no faendem hem insaed long 15 minit. Tellem ol polis se man ya i gat dementia.
 
-## How do I adapt gardening as things change?
+## Hao blong jenjem garden taem ol samting i jenis?
 
-| If this has become hard | Try this instead |
+| Sipos disfala i kam had nao | Traem disfala instead |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Plantem wan bed hul | Plantem wan sid long wan pot |
+| Weeding (save ol weed from ol plant) | Wota, o kilim ol flaoa we oli dae finis we i isi blong luk |
+| Wakabaot aroun long garden | Sidaon long wan tebol wetem wan tre graon mo wan plant |
+| Go aotdoa nating | Wan pot herb long kitchen tebol, o wan seat klosap long windo we i opem |
+| Duim eni wan taskis | Sidaon aotdoa togeta, lisin mo lukluk |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Sam man oli laekem lukluk yu wok. NIA i talem se i gud nomo blong letem man ya jus lukluk sipos hemia i wan samting we hem i laekem.
 
-## When should we head inside?
+## Wanem taem mo yumi mas go insaed?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Go insaed taem man ya i lukluk i tajed, i hot, i kol, i no fil gud o i redi blong finis. Wan smol, gud ten minit i gud moa dan wan longfala aftanun we i end long hat. Stop bifo i wan gud rizolt.
 
-## Bring the garden indoors on screen
+## Karim garden i go insaed long skrin
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Long ren de, [Sort Together](/games/sort-together/) i gat wan basket blong garden blong sotem ol fota, mo [Conversation Cards](/games/conversation-cards/) i gat ol open kwesten we oli save lidim i go long ol stori blong garden. Sipos yu kambak insaed from hot mo yu filim yu hari, [Calm Breathing](/games/calm-breathing/) i givim wan slo, kwaet pos we yu save sheremap. Blong moa aedia we i baremap long tas, smel mo saon, lukim [gaed blong sensory aktiviti](/activities/sensory/) blong mifala.

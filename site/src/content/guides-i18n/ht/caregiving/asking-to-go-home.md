@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Lè yon moun ki gen demans vle ale lakay"
+seoTitle: "Demans: Lè moun nan vle ale lakay, sa pou di"
+description: "Poukisa yon moun k ap viv ak demans mande pou ale lakay menm lè li lakay, sa pou di, aktivite pou kalme li, epi kijan pou kenbe li an sekirite."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Lè yon moun ki gen demans toujou ap mande pou ale lakay, "lakay" souvan vle
+  di yon santiman sekirite oswa yon kote nan tan pase a, pa yon bilding. Pa
+  diskite pou di li lakay deja. Rekonèt sa li santi, fè li konnen li an
+  sekirite, mande l pale sou lakay, epi pase dousman nan foto, mizik, yon ti
+  goute, yon ti mache oswa yon travay senp. Verifye si li grangou, swaf, si li
+  bezwen twalèt oswa si li gen doulè. Si sa kòmanse toudenkou, rele doktè li.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "\"Mwen vle ale lakay\" souvan vle di \"Mwen pa santi m an sekirite oswa alèz,\" pa yon demann pou yon adrès."
+  - "Diskite oswa eseye pwouve li lakay deja anjeneral fè moun nan vin pi detounen. Reponn a sa li santi pito."
+  - "Mande l rakonte ou sou lakay li, epi ofri foto, mizik, yon ti goute, yon ti mache oswa yon travay senp."
+  - "Tcheke pou yon bagay ou ka regle: grangou, swaf, twalèt, doulè, twò cho oswa twò frèt, bri, fatig."
+  - "Si sa rive chak fen apremidi, li ka ajitasyon nan fen jounen; yon woutin regilye ak bon limyè ka ede."
+  - "Fè plan pou sekirite si moun nan eseye soti, epi rele doktè li pou nenpòt chanjman ki rive toudenkou."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Poukisa manman m ki gen demans toujou ap mande pou ale lakay menm lè li lakay?"
+    a: "Demans ka fè chanm ki abitye sanble etranj, epi pafwa moun santi yo nan yon lòt moman nan lavi yo. \"Lakay\" ka vle di kay kote yo te grandi oswa tou senpleman santiman pou yo santi yo an sekirite ak alèz. Reponn a santiman sa a anjeneral mache pi byen pase montre li kote li ye."
+  - q: "Kisa pou m di lè moun nan mande pou ale lakay?"
+    a: "Eseye di \"Ou an sekirite isit la, epi mwen la avèk ou,\" epi \"Pale m de lakay ou.\" Koute, pataje yon foto oswa yon chante, epi ofri yon ti bwason oswa yon ti mache kout. Evite di \"Ou lakay\" kòm yon koreksyon, paske sa ka fè moun nan santi yo di li gen tò."
+  - q: "Èske li bon pou m di n ap ale lakay pita?"
+    a: "Fanmi ak òganizasyon ki travay ak demans pa toujou dakò sou sa. Anpil kòmanse ak konfò onèt ak redireksyon, epi sèlman sèvi ak yon ti manti dous nan moman kote laverite ta sèlman lakòz detrès moun nan pa ka jere. Kèlkeswa sa ou chwazi, rete janti epi rete konsistan, epi pa janm pase reyalite moun nan nan rizib."
+  - q: "E si moun nan eseye soti nan kay la?"
+    a: "Rete kalm epi mache avèk li olye ou bloke li; yon ti mache kout souvan ede kalme anvi a. Mete mezi sekirite an plas davans, tankou yon braslè idantifikasyon, yon sonèt sou pòt ak yon foto resan. Si li disparèt, kòmanse chèche touswit, epi rele 114 si ou pa jwenn li nan 15 minit, epi di moun nan gen demans."
+  - q: "Kilè pou m rele yon doktè?"
+    a: "Rele doktè li san pèdi tan si demann lan oswa konfizyon an kòmanse toudenkou oswa vin pi mal anpil pandan kèk èdtan oswa kèk jou, sitou si gen lafyèv, yon nouvo medikaman oswa siy enfeksyon nan aparèy irin. Konfizyon ki rive toudenkou ka yon delirium, ki bezwen swen ijan. Rele 114 si nenpòt moun an danje."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"Mwen vle ale lakay." Pou anpil fanmi, se youn nan pawòl ki pi difisil pou tande, sitou lè moun ou pran swen an chita nan pwòp sal li. Sa rive souvan, li ka rive nan nenpòt etap demans, epi gen fason kalm ak pratik pou reponn. Paj sa a eksplike sa pawòl yo souvan vle di, sa pou di, aktivite ki ka ede nan moman an, epi kijan pou rete an sekirite.
 
-## Why does someone with dementia keep asking to go home?
+## Poukisa yon moun ki gen demans toujou ap mande pou ale lakay?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Anjeneral, "lakay" se yon santiman plis pase yon kote. Alzheimer's Society dekri li kòm yon santiman konfò ak sekirite, oswa yon kay nan tan pase a, olye kay la li ye kounye a. Demans ka fè chanm ki abitye sanble etranj, epi yon moun ka santi li ap viv nan yon lòt epòk nan lavi li, tankou lè li te rete lakay paran li oswa lè li t ap elve pitit li.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Pawòl yo ka montre tou gen lòt bagay k ap deranje moun nan kounye a: li grangou, li swaf, li bezwen twalèt, li gen doulè, li twò cho oswa twò frèt, li fatige, li santi li poukont li, li pè, oswa bri ak twòp aktivite ap fatige li. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) mete doulè, bri, solitid, chanjman nan woutin ak medikaman pami kòz ajitasyon.
 
-## What should I say when they ask to go home?
+## Kisa pou m di lè moun nan mande pou ale lakay?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Reponn a sa moun nan santi, pa pawòl li yo sèlman. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) konseye pou pa eseye konvenk moun nan li gen tò: sa li santi a reyèl, kidonk bay konfò ak rasirans an premye, epi answit dousman ofri yon lòt bagay pou fè.
 
-Phrases that often help:
+Fraz ki souvan ede:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Nonmen santiman an.** "Mwen konprann ou manke lakay ou."
+- **Bay rasirans.** "Ou an sekirite isit la, epi mwen la avèk ou." [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) sijere pawòl senp sa yo: "Ou an sekirite isit la."
+- **Envite souvni.** "Pale m de lakay ou. Kijan kwizin lakay ou te ye?" Mande sou tan pase lontan anjeneral pi fasil pase kesyon sou jounen jodi a.
+- **Ofri fè yon bagay ansanm.** "Ann pran yon ti te anvan," oswa "Èske ou ta ka ede m ak sèvyèt sa yo?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Yon vwa dou ak yon ti manyen sou bra, si moun nan renmen sa, ka di plis pase pawòl.
 
-## What should I avoid?
+## Kisa pou m evite?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Diskite oswa bay anpil eksplikasyon.** "Se isit la ou rete kounye a" oswa "Sa fè 40 ane ou rete isit la" mande moun nan pou l aksepte yon bagay demans rann difisil pou aksepte, epi sa ka fè l santi yo di li gen tò.
+- **Poze kesyon tankou yon egzamen.** "Ou pa sonje?" oswa "Ki adrès la?" mete plis presyon.
+- **Bloke pòt la ak kòlè.** Si moun nan vle soti, rete kalm epi mache avèk li. Yon ti mache ansanm souvan ede kalme anvi a.
+- **Prese l.** Kite l gen tan pale sou lakay anvan ou chanje sijè a.
 
-## Activities that can help in the moment
+## Aktivite ki ka ede nan moman an
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Apre ou fin rekonèt sa moun nan santi, yon aktivite kalm ak abitye ka chanje atansyon li san ou pa inyore santiman li.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Gade foto lakay ak fanmi.** Vire paj yo epi fè ti kòmantè ("Gade bèl jaden sa a") olye ou poze kesyon. Sou yon telefòn oswa tablèt, [Photo pairs](/games/photo-pairs/) fè foto fanmi ou yo tounen yon jwèt senp pou matche, epi foto yo rete sou aparèy ou.
+2. **Pale sou lakay.** [Conversation cards](/games/conversation-cards/) bay sijè senp sou kay, kwizin, vwazen ak jou fèt, san okenn bon oswa move repons.
+3. **Jwe mizik moun nan renmen.** National Institute on Aging mete mizik dou pami fason pou kalme ajitasyon. Gade [aktivite mizik](/activities/music/) nou yo.
+4. **Bay yon ti goute oswa yon ti bwason.** Grangou ak swaf ka sanble ak ajitasyon. Yon tas te oswa yon ti bagay moun nan renmen se tou yon ti rityèl ki fè moun santi li lakay.
+5. **Fè yon ti mache oswa chita deyò.** Mouvman ak limyè lajounen ka ede, sitou pi bonè nan jounen an.
+6. **Bay yon ti travay abitye.** Pliye rad, ranje kouvè oswa wouze plant ka fè moun nan santi li ap okipe kay la ankò.
+7. **Ralanti tout bagay.** Fèmen televizyon an, diminye bri ak limyè ki twò fò, epi eseye fè yon ti poz [respirasyon kalm](/games/calm-breathing/) ansanm.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Si yon lide pa mache, eseye yon lòt pita. Chita ansanm an silans se yon bon rezilta tou.
 
-## Check for a cause you can fix
+## Tcheke pou yon kòz ou ka regle
 
-| Check | What to try |
+| Kisa pou tcheke | Kisa pou eseye |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Grangou oswa swaf | Ofri yon ti bwason ak yon ti goute |
+| Bezwen twalèt | Ofri pou ale nan twalèt, ak kalm epi san prese |
+| Doulè oswa malèz | Chèche siy tankou grimase, kenbe yon pati nan kò a oswa konstipasyon, epi pale ak doktè li |
+| Twò cho oswa twò frèt | Ajiste rad la oswa tanperati chanm nan |
+| Bri oswa twòp moun | Ale nan yon chanm ki pi trankil, fèmen televizyon an |
+| Fatig oswa twòp estimilasyon | Repoze, diminye limyè a, mete mizik dou |
+| Fen apremidi | Gade seksyon sou ajitasyon nan fen jounen an pi ba a |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society sijere pou kenbe yon ti nòt sou lè demann lan rive, tankou anvan manje, apre vizit, oswa lè solèy ap kouche. Lè ou wè yon modèl, li pi fasil pou prepare davans.
 
-## Is it okay to tell a white lie?
+## Èske li bon pou m di yon ti manti dous?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Sa a se yon kesyon reyèl, epi fanmi ki gen bon entansyon pa toujou pran menm desizyon. Alzheimer's Society di pa gen yon sèl bon repons: pou kèk moun, sa ki pa vre ka fè yo vin plis defyan, kidonk chwazi sa ki pi bon pou moun nan epi rete konsistan. Nan Penn Memory Center, vizyon ko-direktè a se ke laverite se chwa nòmal la, epi yon ti manti dous ka akseptab sèlman lè moun nan pa ka konprann yon laverite an patikilye, epi ou pa dwe janm pase reyalite li nan rizib.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Anpil moun ki bay swen jwenn yon chemen nan mitan ki mache: bay konfò onèt ak redireksyon an premye ("N ap rete isit la aswè a, epi mwen la avèk ou"), san diskite sou kote lakay la ye.
 
-## What if it happens every afternoon or evening?
+## E si sa rive chak apremidi oswa chak aswè?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Ajitasyon ki kòmanse oswa vin pi mal nan fen apremidi souvan rele ajitasyon nan fen jounen. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) sijere yon orè regilye, limyè solèy ak aktivite chak jou, mwens ti dòmi ta nan fen jounen an, epi pa pran kafeyin oswa alkòl ta nan jounen an. Limen limyè anvan solèy kouche ka ede tou. Gid nou sou [aktivite kalm nan fen apremidi](/caregiving/late-day-restlessness/) gen plis enfòmasyon.
 
-## Keeping them safe if they try to leave
+## Kenbe moun nan an sekirite si li eseye soti
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Mande pou ale lakay ka mennen nan mache san objektif klè. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estime sis sou dis moun k ap viv ak demans ap mache san objektif klè omwen yon fwa.
 
-**Prepare ahead:**
+**Prepare davans:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Yon braslè idantifikasyon oswa medikal ak non moun nan ak nimewo telefòn ou, ansanm ak etikèt nan rad li. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mansyone pwogram MedicAlert ak Alzheimer's Association Safe and Found, ki ka koute lajan.
+- Yon sonèt oswa alam sou pòt, ak kadna ki mete wo oswa ba. Pa janm fèmen moun nan lakay poukont li.
+- Yon foto resan ki montre figi l byen, ak yon lis kote li ta ka ale, tankou yon ansyen kay oswa ansyen travay.
+- Pale ak vwazen ou fè konfyans, epi ba yo nimewo telefòn ou.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Si moun nan disparèt:** kòmanse chèche touswit; Alzheimer's Association note anpil moun yo jwenn nan mwens pase 1.5 mil. Si ou pa jwenn li nan 15 minit, rele 114 epi di moun nan gen demans. Rele 114 touswit si nenpòt moun an danje.
 
-## When should I call a doctor?
+## Kilè pou m rele yon doktè?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Rele doktè li san pèdi tan si demann lan oswa konfizyon an kòmanse toudenkou, oswa vin pi mal anpil pandan kèk èdtan oswa kèk jou. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) di chanjman nan konpòtman ki rive toudenkou oswa ki chanje vit, sitou apre yon enfeksyon oswa yon chanjman medikaman, dwe verifye touswit. Konfizyon ki rive toudenkou ka yon delirium, epi [NHS](https://www.nhs.uk/symptoms/confusion/) di li bezwen èd ijan; enfeksyon nan aparèy irin se yon kòz komen nan mitan granmoun aje.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Li itil tou pou mansyone yon modèl ki repete nan pwochen randevou a, paske doulè, tristès, pwoblèm dòmi oswa efè segondè medikaman ka jwe yon wòl tou.

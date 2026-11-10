@@ -1,33 +1,34 @@
 ---
-title: "Attività sensoriali per persone con demenza"
-seoTitle: "Demenza: attività sensoriali e sicurezza"
-description: "Attività sensoriali per persone con demenza, dal massaggio alle mani ai cesti di stoffe, con note di sicurezza su soffocamento, allergie e profumi."
+title: "Attività sensoriali per chi vive con demenza"
+seoTitle: "Attività sensoriali e demenza: idee e sicurezza"
+description: "Attività sensoriali per chi vive con demenza: dal massaggio delle mani ai cestini di tessuti e suoni della natura, con note chiare sulla sicurezza."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Le attività sensoriali usano tatto, olfatto, gusto, udito e vista: un lento
-  massaggio alle mani, un cesto di stoffe morbide, erbe aromatiche fresche da
-  annusare, suoni della natura o gli uccelli guardati da una finestra. Vanno
-  bene in ogni fase e sono particolarmente preziose più avanti. Controlli prima
-  rischi di soffocamento, allergie, problemi della pelle e sensibilità ai
-  profumi, proponga una cosa alla volta e si fermi se la persona sembra a disagio.
+  Le attività sensoriali coinvolgono tatto, olfatto, gusto, udito e vista: un
+  lento massaggio alle mani, un cestino di tessuti morbidi, erbe fresche da
+  annusare, suoni della natura o guardare gli uccelli alla finestra. Sono
+  adatte a ogni fase e sono particolarmente utili nelle fasi più avanzate.
+  Verificate prima i rischi di soffocamento, allergie, problemi della pelle e
+  sensibilità agli odori, proponete una cosa alla volta e fermatevi se la
+  persona sembra a disagio.
 keyPoints:
-  - "Le attività sensoriali non hanno risposte giuste, quindi vanno bene in ogni fase, anche a letto o in poltrona."
-  - "Proponga un senso alla volta in una stanza tranquilla, e chieda o annunci prima di toccare."
-  - "Eviti gli oggetti piccoli e tutto ciò che sembra o profuma di cibo ma non lo è, perché le persone possono portare le cose alla bocca."
-  - "Controlli allergie, problemi della pelle e difficoltà respiratorie prima di usare creme, profumi o alimenti."
-  - "Non ci sono prove convincenti che l’aromaterapia aiuti i sintomi della demenza; usi i profumi solo per un semplice piacere, se proprio."
+  - "Le attività sensoriali non richiedono risposte giuste, per questo funzionano in ogni fase, anche a letto o in poltrona."
+  - "Proponete un senso alla volta in una stanza tranquilla, e chiedete il permesso o avvisate prima di toccare."
+  - "Evitate oggetti piccoli e tutto ciò che sembra o profuma di cibo ma non lo è, perché la persona potrebbe metterlo in bocca."
+  - "Verificate la presenza di allergie, problemi della pelle e difficoltà respiratorie prima di usare lozioni, profumi o cibi."
+  - "Non ci sono prove convincenti che l’aromaterapia aiuti con i sintomi della demenza; usate i profumi solo per un semplice piacere, se lo desiderate."
 faq:
-  - q: "Quali sono buone attività sensoriali per una persona con demenza?"
-    a: "Idee semplici sono un lento massaggio alle mani con una crema, toccare stoffe morbide, annusare erbe fresche o il caffè, ascoltare musica preferita o suoni della natura, guardare gli uccelli o un acquario e assaggiare un cibo preferito in una consistenza sicura. Proponga una cosa alla volta e osservi come reagisce la persona."
-  - q: "Le attività sensoriali sono sicure per chi porta le cose alla bocca?"
-    a: "Possono esserlo, con attenzione. Usi solo oggetti grandi che non si possono ingoiare, eviti tutto ciò che è piccolo o fragile e, dopo, tenga fuori portata creme, saponi e prodotti profumati, perché possono sembrare o profumare di cibo. Resti con la persona per tutto il tempo."
-  - q: "L’aromaterapia aiuta nella demenza?"
-    a: "Una revisione Cochrane non ha trovato prove convincenti che l’aromaterapia aiuti le persone con demenza, anche se gli studi erano piccoli e incoerenti. Se alla persona piace un profumo lieve e familiare va bene, ma eviti gli oli essenziali forti, soprattutto in caso di problemi respiratori o allergie."
+  - q: "Quali sono buone attività sensoriali per una persona che vive con demenza?"
+    a: "Idee semplici includono un lento massaggio alle mani con la lozione, toccare tessuti morbidi, annusare erbe fresche o caffè, ascoltare musica preferita o suoni della natura, guardare gli uccelli o un acquario, e assaggiare un cibo preferito in una consistenza sicura. Proponete una cosa alla volta e osservate come reagisce la persona."
+  - q: "Le attività sensoriali sono sicure per chi mette gli oggetti in bocca?"
+    a: "Possono esserlo, con attenzione. Usate solo oggetti grandi che non possono essere ingeriti, evitate tutto ciò che è piccolo o fragile, e tenete lozioni, saponi e prodotti profumati fuori portata dopo l’uso, perché possono sembrare o profumare di cibo. Restate con la persona per tutta l’attività."
+  - q: "L’aromaterapia aiuta in caso di demenza?"
+    a: "Una revisione Cochrane non ha trovato prove convincenti che l’aromaterapia aiuti le persone che vivono con demenza, anche se gli studi erano piccoli e non coerenti tra loro. Se alla persona piace un profumo delicato e familiare, va bene, ma evitate oli essenziali intensi, soprattutto in presenza di problemi respiratori o allergie."
   - q: "Che cos’è un grembiule o una coperta sensoriale?"
-    a: "È un pezzo di stoffa, un grembiule o una coperta per le ginocchia con oggetti da toccare cuciti saldamente, come bottoni grandi, cerniere, nastri e toppe ruvide o morbide. Dà alle mani irrequiete qualcosa da esplorare. Lo controlli spesso per vedere se c’è qualcosa di allentato che si potrebbe staccare."
+    a: "È un pezzo di stoffa, un grembiule o una coperta da mettere sulle ginocchia con oggetti da manipolare cuciti saldamente, come bottoni grandi, cerniere, nastri e toppe con diverse consistenze. Offre alle mani impegnate qualcosa da esplorare. Controllatelo spesso per assicurarvi che nulla si sia allentato."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,88 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
-
 ---
 
-Le attività sensoriali usano i cinque sensi: tatto, olfatto, gusto, udito e vista. Non richiedono memoria, né passaggi da seguire, né risposte giuste, quindi possono andare bene in qualsiasi fase. Contano soprattutto più avanti. L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) osserva che nella fase avanzata il mondo si vive soprattutto attraverso i sensi, e che si può dimostrare affetto con il tatto, i suoni, la vista, il gusto e l’olfatto. Alcuni controlli di sicurezza rendono queste attività rilassanti per tutti.
+Le attività sensoriali coinvolgono i cinque sensi: tatto, olfatto, gusto, udito e vista. Non richiedono memoria, passaggi da seguire né risposte giuste, quindi possono funzionare in qualsiasi fase. Sono particolarmente importanti nelle fasi più avanzate. L’[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) osserva che, nella fase avanzata, il mondo viene vissuto soprattutto attraverso i sensi e che si può dimostrare affetto attraverso il tatto, l’udito, la vista, il gusto e l’olfatto. Qualche semplice accorgimento di sicurezza può rendere queste attività rilassanti per tutti.
 
 ## Che cosa sono le attività sensoriali per la demenza?
 
-Le attività sensoriali sono semplici esperienze costruite intorno a un senso alla volta, come toccare una stoffa, annusare delle erbe o ascoltare la pioggia. Il [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dice che le attività della fase avanzata devono spesso puntare sui sensi, e cita la musica, gli oggetti da toccare e maneggiare e il massaggio alle mani. L’[Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) osserva che nella fase avanzata le persone possono avere un forte bisogno di tenere qualcosa stretto a sé per conforto.
+Le attività sensoriali sono esperienze semplici incentrate su un senso alla volta, come toccare un tessuto, annusare delle erbe o ascoltare il rumore della pioggia. L’[NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) spiega che, nelle fasi più avanzate, le attività spesso devono concentrarsi sui sensi e cita la musica, gli oggetti da toccare e maneggiare e il massaggio alle mani. L’[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) osserva che, nella fase avanzata, alcune persone possono sentire un forte bisogno di tenere qualcosa vicino per sentirsi confortate.
 
 ## Idee sensoriali, senso per senso
 
 ### Tatto
 
-- **Massaggio alle mani.** Scaldi un po’ di crema tra le mani e accarezzi lentamente dal polso alla punta delle dita. Il [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) cita il massaggio con una crema senza profumo per dare conforto.
-- **Cesto di stoffe.** Grandi quadrati di velluto, velluto a coste, pile, raso e lana da accarezzare, piegare e commentare.
-- **Panno caldo.** Un panno caldo e umido per le mani nelle giornate fredde. Provi prima la temperatura sul Suo polso.
+- **Massaggio alle mani.** Scaldate un po’ di lozione tra le mani e massaggiate lentamente dal polso alla punta delle dita. Il [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) suggerisce il massaggio con lozione senza profumo per dare conforto.
+- **Cestino di tessuti.** Grandi pezzi di velluto, velluto a coste, pile, raso e lana da accarezzare, piegare e di cui parlare.
+- **Panno caldo.** Un panno caldo e umido per le mani nelle giornate fredde. Controllate prima la temperatura sul vostro polso.
 - **Grembiule o coperta sensoriale.** Bottoni grandi, cerniere, nastri e toppe con diverse consistenze cuciti saldamente.
-- **Piegare e lisciare.** Un cesto di strofinacci o tovaglioli puliti da piegare, impilare e piegare di nuovo.
-- **Qualcosa di morbido da tenere.** Una coperta di pile, un cuscino o un animale di peluche realistico, offerti con semplicità, mai come un giocattolo.
+- **Piegare e lisciare.** Un cestino di panni o tovaglioli puliti da piegare, impilare e piegare di nuovo.
+- **Qualcosa di morbido da tenere.** Una coperta di pile, un cuscino o un morbido animale di peluche dall’aspetto realistico, offerto con semplicità, mai come un giocattolo.
 
 ### Olfatto
 
-- **Erbe aromatiche fresche.** Strofini tra le dita foglie di menta, rosmarino, basilico o lavanda e le passi alla persona.
-- **Odori di cucina.** Il caffè che si prepara, il pane che si tosta, la cannella o un’arancia sbucciata lì vicino.
-- **Fiori.** Porti qualche fiore fresco dal giardino o dal fiorista.
-- **Un prodotto familiare.** Il sapone o la crema che la persona ha sempre usato, se la pelle lo sopporta.
+- **Erbe fresche.** Strofinate tra le dita foglie di menta, rosmarino, basilico o lavanda e avvicinatele alla persona.
+- **Profumi della cucina.** Il caffè che sale, il pane che tosta, la cannella o un’arancia sbucciata nelle vicinanze.
+- **Fiori.** Portate in casa qualche fiore fresco dal giardino o dal negozio.
+- **Un prodotto familiare.** Il sapone o la lozione che la persona ha sempre usato, se la pelle lo tollera.
 
 ### Gusto
 
-- **Un sapore preferito.** Un cucchiaino di qualcosa che la persona ama, come composta di mele, budino o gelato, in una consistenza che può gestire in sicurezza.
-- **Aiuto con i dolci.** Assaggiare un po’ di frutta o di glassa mentre fate i dolci insieme.
-- **Dolcezze di stagione.** Anguria d’estate, mele cotte in autunno, serviti a una temperatura sicura.
+- **Un sapore preferito.** Un piccolo cucchiaio di qualcosa che piace molto, come purea di mele, budino o gelato, in una consistenza sicura.
+- **Aiutare in cucina.** Assaggiare un po’ di frutta o un po’ di glassa mentre preparate qualcosa insieme.
+- **Gusti di stagione.** Anguria in estate, sidro caldo in autunno, serviti a una temperatura sicura.
 
 ### Udito
 
-- **Musica preferita.** Canzoni conosciute a volume dolce; veda le [attività con la musica](/activities/music/).
-- **Suoni della natura.** Pioggia, onde o canto degli uccelli. Il NIA osserva che musica, rumore bianco e suoni della natura sembrano rilassare alcune persone.
-- **La Sua voce.** Leggere ad alta voce, canticchiare o raccontare una storia.
-- **Strumenti semplici.** Un tamburello, un sonaglio o una campanella con cui accompagnare la musica.
+- **Musica preferita.** Canzoni familiari a volume basso; vedi le [attività con la musica](/activities/music/).
+- **Suoni della natura.** Pioggia, onde o canto degli uccelli. Il NIA osserva che la musica, il rumore bianco e i suoni della natura sembrano aiutare alcune persone a rilassarsi.
+- **La vostra voce.** Leggere ad alta voce, canticchiare o raccontare una storia.
+- **Strumenti semplici.** Un tamburello, uno shaker o un campanello da suonare insieme alla musica.
 
 ### Vista
 
-- **Guardare dalla finestra.** Una mangiatoia per uccellini fuori dalla finestra, bambini che tornano a casa o la neve che cade.
-- **Un acquario o un video lento.** Un movimento delicato senza suoni forti.
-- **Foto grandi.** Un’immagine chiara alla volta, tenuta all’altezza degli occhi.
-- **Colori e disegni.** Dividere ritagli di stoffa colorata, fiori o tovaglioli colorati, oppure una semplice pagina dalla nostra raccolta di [disegni da colorare](/games/coloring/).
-- **All’aperto.** Il NHS suggerisce giardini sensoriali con piante profumate, superfici da toccare e fontane. Veda le [attività all’aperto e di giardinaggio](/activities/outdoor-and-gardening/).
+- **Guardare fuori dalla finestra.** Una mangiatoia per uccelli fuori dalla finestra, i bambini che tornano a casa o la neve che cade.
+- **Un acquario o un video lento.** Movimenti dolci senza suoni forti.
+- **Foto grandi.** Una sola immagine chiara alla volta, tenuta all’altezza degli occhi.
+- **Colori e forme.** Ordinare ritagli di stoffa colorati, fiori o tovaglioli colorati, oppure una semplice pagina da colorare del nostro set di [disegni da colorare](/games/coloring/).
+- **All’aperto.** L’NHS suggerisce giardini sensoriali con piante profumate, diverse consistenze e giochi d’acqua. Vedi le [attività all’aperto e in giardino](/activities/outdoor-and-gardening/).
 
 ## Come preparare una scatola sensoriale
 
-1. **Scelga un tema** legato alla vita della persona: il mare, il giardino, la cucina, il laboratorio, il cucito.
-2. **Scelga cinque o sei oggetti grandi e sicuri,** come una grossa conchiglia, un cucchiaio di legno, una sciarpa morbida, un sacchetto di lavanda secca ben cucito o un blocchetto di legno liscio.
-3. **Controlli ogni oggetto** per parti piccole, bordi taglienti, fili sciolti e qualsiasi cosa fragile.
-4. **Tiri fuori un oggetto alla volta.** Lo consegni, lo descriva e lasci che la persona lo esplori.
-5. **Riponga la scatola dopo l’uso,** così resta speciale e gli oggetti vengono ricontrollati prima della volta successiva.
+1. **Scegliete un tema** legato alla vita della persona: la spiaggia, il giardino, la cucina, il laboratorio, il cucito.
+2. **Scegliete cinque o sei oggetti grandi e sicuri,** come una grande conchiglia, un cucchiaio di legno, una sciarpa morbida, un sacchettino di lavanda essiccata cucito e chiuso, o un blocco di legno liscio.
+3. **Controllate ogni oggetto** per verificare che non ci siano parti piccole, bordi appuntiti, fili allentati o elementi fragili.
+4. **Proponete un oggetto alla volta.** Porgetelo, descrivetelo e lasciate che la persona lo esplori.
+5. **Riponete la scatola dopo l’uso** così resta speciale e gli oggetti possono essere controllati di nuovo prima della volta successiva.
 
-## Prima di tutto, la sicurezza
+## La sicurezza prima di tutto
 
-Le attività sensoriali sono delicate, ma alcuni rischi contano. Alcune persone con demenza scambiano oggetti non commestibili per cibo, e deglutire può diventare più difficile con il tempo; il NIA avverte che i problemi di deglutizione della fase avanzata aumentano il rischio di soffocamento.
+Le attività sensoriali sono delicate, ma alcuni rischi sono importanti. Alcune persone che vivono con demenza possono scambiare oggetti non commestibili per cibo, e con il tempo la deglutizione può diventare più difficile; il NIA avverte che i problemi di deglutizione nelle fasi avanzate aumentano il rischio di soffocamento.
 
-| Rischio | Che cosa fare |
+| Rischio | Cosa fare |
 | --- | --- |
-| Soffocamento | Usi solo oggetti troppo grandi per essere ingoiati. Niente bottoni, perline, monete, biglie o giocattoli piccoli sciolti in una scatola. Offra cibo solo nelle consistenze che l’équipe di assistenza considera sicure. |
-| Cose che sembrano cibo | Il NIA consiglia di chiudere a chiave creme, saponi, shampoo e profumi, che possono sembrare o profumare di cibo, e di togliere la frutta artificiale. Riponga i prodotti sensoriali dopo l’uso. |
-| Allergie | Controlli prima di cominciare eventuali allergie a frutta secca, lattice, lana, piante o profumi. |
-| Profumi forti | Eviti profumi e oli essenziali forti, soprattutto in caso di asma o altri problemi respiratori. Odori lievi e naturali sono più sicuri. |
-| Pelle | Controlli che la pelle non sia dolorante, lesionata o fragile prima del massaggio. Usi una pressione delicata e si fermi se la persona fa una smorfia. |
-| Temperatura | Provi panni caldi e bevande prima sul Suo polso. |
-| Oggetti taglienti o tossici | Niente attrezzi taglienti, vetro o materiali tossici per i lavoretti. |
+| Soffocamento | Usate solo oggetti troppo grandi per essere ingeriti. Niente bottoni, perline, monete, biglie o piccoli giocattoli sciolti in una scatola. Offrite cibo solo nelle consistenze indicate come sicure dal team di cura. |
+| Oggetti che sembrano cibo | Il NIA consiglia di tenere sotto chiave lozioni, saponi, shampoo e profumi, che possono sembrare o profumare di cibo, e di togliere la frutta artificiale. Riponete i prodotti sensoriali dopo l’uso. |
+| Allergie | Verificate la presenza di allergie a frutta a guscio, lattice, lana, piante o profumi prima di iniziare. |
+| Odori forti | Evitate profumi intensi e oli essenziali, soprattutto in caso di asma o altri problemi respiratori. Gli odori delicati e naturali sono più sicuri. |
+| Pelle | Controllate la presenza di pelle irritata, lesionata o fragile prima di un massaggio. Usate una pressione delicata e fermatevi se la persona mostra fastidio. |
+| Temperatura | Controllate prima la temperatura di panni caldi e bevande sul vostro polso. |
+| Oggetti appuntiti o tossici | Niente strumenti appuntiti, vetro o materiali per attività manuali tossici. |
 
 ## L’aromaterapia aiuta?
 
-Probabilmente no, almeno non in modo misurabile. Una [revisione Cochrane sull’aromaterapia nella demenza](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ha esaminato 13 studi con 708 persone, tutte in strutture di assistenza, e non ha trovato prove convincenti di beneficio. Gli studi erano piccoli, i risultati discordanti e gli effetti collaterali riportati male. Se alla persona piace un odore lieve e familiare, come la lavanda del giardino, è un buon motivo per condividerlo. Non è una cura.
+Probabilmente non in modo misurabile. Una [revisione Cochrane sull’aromaterapia per la demenza](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ha esaminato 13 studi con 708 persone, tutti in case di cura, e non ha trovato prove convincenti di benefici. Gli studi erano piccoli, i risultati non concordavano e gli effetti collaterali erano poco documentati. Se alla persona piace un odore delicato e familiare, come la lavanda del giardino, condividerlo può essere un bel momento. Non è un trattamento.
 
 ## Come proporre un’attività sensoriale
 
-- **Scelga un momento tranquillo** e spenga la televisione.
-- **Si avvicini di fronte,** dica il nome della persona e chieda o dica prima di toccare: «Ho una crema. Le va un massaggio alle mani?»
-- **Proponga una cosa alla volta** perché non sia troppo.
-- **Osservi la reazione.** Un viso più disteso, mani rilassate o un sorriso sono buoni segni. Ritrarsi, aggrottare la fronte o essere irrequieti significano fermarsi.
-- **Lo tenga breve.** Cinque minuti tranquilli sono una buona sessione.
+- **Scegliete un momento tranquillo** e spegnete la televisione.
+- **Avvicinatevi di fronte,** dite il suo nome e chiedete o avvisate prima di toccare: «Ho un po’ di lozione. Ti va un massaggio alle mani?».
+- **Proponete una cosa alla volta** per non sovraccaricare.
+- **Osservate la reazione.** Un volto più disteso, mani rilassate o un sorriso sono buoni segnali. Se la persona si ritrae, aggrotta la fronte o si agita, fermatevi.
+- **Tenete l’attività breve.** Cinque minuti sereni sono una buona durata.
 
-Una pausa di respiro lento insieme, come [Respiro calmo](/games/calm-breathing/), può essere un modo delicato per concludere. Per altre idee da fare accanto al letto, veda le [attività per la fase avanzata](/activities/late-stage/), e per il disagio della sera, l’[irrequietezza di fine giornata](/caregiving/late-day-restlessness/).
+Una breve pausa di respirazione lenta insieme, come [respirazione calma](/games/calm-breathing/), può essere un modo delicato per concludere. Per altre idee da fare accanto al letto, vedi le [attività per le fasi avanzate](/activities/late-stage/) e, per l’inquietudine serale, vedi [l’inquietudine nel tardo pomeriggio](/caregiving/late-day-restlessness/).

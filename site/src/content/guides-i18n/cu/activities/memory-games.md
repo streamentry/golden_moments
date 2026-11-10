@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Игры памѧти: кротъкыи образы безъ искоушениꙗ"
+seoTitle: "Игры памѧти при оскѫдѣнии оума: кротъко"
+description: "Игры съ подобиꙗми и картами за чловѣкы живѫщѧ съ оскѫдѣниѥмъ оума. Како играти безъ искоушениꙗ: ꙗвьна подобиꙗ, мало паръ, безъ числа."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Игры памѧти за чловѣкы живѫщѧ съ оскѫдѣниѥмъ оума добрѣ дѣють, ѥгда не
+  трѣбоують памѧти. Играите съ подобиꙗми ꙗвьно, четыри ли шесть дъщицъ,
+  въкоупѣ ꙗко дроужина, и безъ числа. Оузьрѣти подобиѥ лѣгъче ѥсть, нєжє
+  въспомѧнѫти. Избєрѣте игры, идеже вьсꙗ прѣдъ очима сѫть. Цѣль ѥсть радость,
+  а нє исходъ.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Обычьныѧ игры памѧти крыють карты. То искоушаѥть то, ѥже оскѫдѣниѥ оума творить трѹдьно. Оставите подобиꙗ ꙗвьна."
+  - "Менѥ чѧсти, больша подобиꙗ и ѥдинъ изборъ въ врѣмѧ творѧть игрѫ прииꙗтьнѫ."
+  - "Играите въкоупѣ, помагаите си чрѣдою и оставите число. Никтоже да нє стоить въ стѫдѣ прѣдъ инѣми."
+  - "Ни ѥдина игра памѧти нє ѥсть показана, ꙗко лѣчить, оумѧлꙗѥть ли оуставлꙗѥть оскѫдѣниѥ оума. Играите, понеже то ѥсть прииꙗтьно врѣмѧ въкоупѣ."
+  - "Прѣстанѣте, ѥгда ѥщє радостьно ѥсть. Бесѣда о подобиихъ ѥсть добръ исходъ."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Каꙗ игра памѧти добра ѥсть чловѣкоу живѫщоу съ оскѫдѣниѥмъ оума?"
+    a: "Игра съ подобиꙗми, идеже вєлика и знаѥма подобиꙗ могѫть быти ꙗвьна, ꙗкоже Picture pairs съ четыри ли шесть дъщицъ. Обрѣсти дроугъ подобиꙗ, ѥже видиши, радостьно ѥсть и нє искоушаѥть кратъкыѧ памѧти. Find the same ѥщє простѣиша ѥсть: ѥдино подобиѥ и дъва ли четыри избора."
+  - q: "Помагають ли игры памѧти при оскѫдѣнии оума?"
+    a: "Ни ѥдина игра памѧти нє ѥсть показана, ꙗко лѣчить, оумѧлꙗѥть ли оуставлꙗѥть оскѫдѣниѥ оума. Прѣглѧдъ Cochrane обрѣте, ꙗко свѣдѣтельства о оучєнии оума на чьслителехъ сѫть прѣмалꙑ, да рєчємъ, ащє то вароуѥть оскѫдѣниꙗ оума. Игры обаче могѫть быти тєпло врѣмѧ въкоупѣ. Избираите ѩ радости и дроужьства дѣлꙗ."
+  - q: "Подобаѥть ли играти обычьноую игрѫ Concentration съ чловѣкомъ, иже имать оскѫдѣниѥ оума?"
+    a: "Въ начѧлѣ нѣции ѥщє радоують сѧ ѥи, пачє съ маломъ числомъ картъ. Ащє ли памѧть, къдє карты бѣшѧ, начьнєть творити нєгодованиѥ, обрѧщите карты ꙗвьно и ищѣта пары въкоупѣ. Тако остаѥть съподоблєниѥ, а искоушєниѥ памѧти отъходить."
+  - q: "Кыѧ игры памѧти добры сѫть за старѣишѧ въ съборѣ?"
+    a: "Picture bingo съ зъвателемь на ꙗвьницѣ, коньчаниѥ знаѥмыхъ словєсъ въкоупѣ и бесѣдьныѧ карты добрѣ слоужѧть събороу. Играите, доньдєжє вьсꙗка карта испльнена бѫдєть, и нє възглашаите, къто отвѣща, да никтоже нє чоуѥть сѧ отълѫчєнъ."
+  - q: "Имѫть ли старѣишии свободыѧ игры памѧти на сѣти?"
+    a: "Єи. Игры сдє, ꙗкоже Picture pairs, Find the same, Photo pairs и Picture puzzle, сѫть свободы, нє трѣбоують въписаниꙗ и дѣють на тєлєфонѣхъ, дъщицахъ и чьслителехъ. Ни ѥдина нє имать врѣмєнє ни числа."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Ищи „игры памѧти за старѣишѧ“, и множаиша, ꙗже обрѧщєши, сътворєна сѫть за чловѣкы, иже хотѧть оумьнааго троуда: съкрытыѧ карты, чьтѧщєѥ врѣмѧ, стєпєни и числа. За чловѣка живѫща съ оскѫдѣниѥмъ оума си вещи творѧть игрѫ искоушєниѥмъ того, ѥже бысть трѹдьно. Тъжьдє игры могѫть сѧ играти кротъчѣѥ. Си страница кажєть, како, и полагаѥть игры, ꙗже добрѣ дѣють на коѥмьждо стєпєни.
 
-## Why do classic memory games frustrate people with dementia?
+## Почто обычьныѧ игры памѧти творѧть нєгодованиѥ чловѣкомъ живѫщємъ съ оскѫдѣниѥмъ оума?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Понеже трѣбоують дрьжати ново вѣдѣниѥ въ оумѣ. То ѥсть обычаино прьво, ѥже Альцхаимєрова болѣзнь, наичаща вина оскѫдѣниꙗ оума, възимаѥть. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) глаголєть, ꙗко наичаще рано знамєниѥ Альцхаимєровы болѣзни ѥсть трѹдъ въ памѧти новаго оучєниꙗ. Въ обычьнѣи игрѣ Concentration обрѧщєши дъвѣ картѣ, помьниши, къдє бѣстѣ, и трѣбоѥши того по малѣ врѣмєни. То ѥсть ново вѣдѣниѥ, дрьжимо и въспоминаѥмо.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Приложи врѣмѧ, число ли знакъ за погрѣшьно отвѣтъ, и чловѣкъ поминаѥть сѧ о томь, ѥгожє нє можєть творити, прѣдъ чловѣкомь, ѥгожє любить. Мънози тихо прѣстають хотѣти играти.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Оузьрѣти то, ѥже видиши, ѥсть ино и обычаино лѣгъче дѣло. Показати на дроугоую чашѫ, ѥгда обѣ прѣдъ очима сѫть, добро чоуѥть сѧ. Тѣмьжє храните съподоблєниѥ, а оставите искоушєниѥ памѧти.
 
-## How do you make a memory game gentle?
+## Како творити игрѫ памѧти кротъкѫ?
 
-These adjustments work for card games, board games and games on a screen.
+Си измѣнєниꙗ дѣють въ играхъ съ картами, на дъсцѣ и на ꙗвьницѣ.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Оставите подобиꙗ ꙗвьна.** Съподоблꙗти подобиꙗ, ꙗже видиши, ѥщє ѥсть истино игра, и чѧсто радостьна.
+2. **Оупотрѣбите менѣ чѧсти.** Начьнѣте съ дъвѣма ли трьми парами. Приложитє большє тъкъмо, ащє то чоуѥть сѧ прѣлєгъко и чловѣкъ самъ хощєть большє.
+3. **Избєрѣте вєлика, знаѥма, възрастьна подобиꙗ.** Чаша, слъньчьникъ, ладиа. Нє дѣтьскыѧ образы и нє мѧтьныѧ видѣниꙗ.
+4. **Играите въкоупѣ.** „Ищѣвѣ пьса“ вь мѣсто „твой чрѣдъ“. Показоуита си чрѣдою и помагаита.
+5. **Оставите число.** Никомоу нє трѣбѣ побѣдити. Ащє въпросить, довьлѣѥть просто: „сътвориховѣ“.
+6. **Николижє нє гонита врѣмєнє.** Безъ врѣмєнє, безъ тъщаниꙗ мєждоу чрѣды.
+7. **Бесѣдоуита о подобиихъ.** „Виждь тѫ ладию. Плоу ли ѥси къгда?“ Бесѣда чѧсто ѥсть лѫчьшаꙗ чѧсть.
+8. **Прѣстанѣта на добрѣ.** Коньчаита по съподоблєнии, ѥгда ѥщє прииꙗтьно ѥсть.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) даѥть тъждє доухъ въ обьщємь съвѣтѣ: съподоби дѣло съ тѣмь, ѥже чловѣкъ можєть творити, блюди нєгодованиꙗ, и сътвори, да чоуѥть сѧ оуспѣшьно.
 
-## Gentle memory and matching games to try
+## Кротъкыѧ игры памѧти и съподоблєниꙗ
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (съподоблєниѥ съ ꙗвьны подобиꙗми)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) ѥсть игра съподоблєниꙗ съ вєликыми подобиꙗми и 4 до 12 дъщицъ. Подобиꙗ могѫть остати видима, тѣмьжє дѣло ѥсть обрѣсти близьнѧта, а нє помьнѣти, къдє бѣшѧ. Начьнѣте съ четыри дъщицъ. За чловѣка въ ранѣмь стєпєни, иже радоуѥть сѧ малоу троудоу, можєши прѣмѣнити на **Съкрыта подобиꙗ**, нъ възврати сѧ къ ꙗвьномоу, абиѥ ѥгда прѣстанєть быти радостьно.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) показоуѥть ѥдино подобиѥ горѣ и дъва ли четыри избора низоу. Косни сѧ того, ѥже съподобьно ѥсть. То ѥсть наипростѣиша игра съподоблєниꙗ сдє и подобаѥть чловѣкомъ, имьжє цѣла мрѣжа чоуѥть сѧ мѧтьна, и мъногомъ въ поздьнѣихъ стєпєнєхъ, ѥгда къто ѥсть близъ ихъ.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (съподоблєниѥ съ домашьними образъми)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) творить образы, ꙗже избєрєши, игрѫ съподоблєниꙗ: пьсъ, оградъ, домъ оу ѥзєра. Знаѥма лица и мѣста чѧсто въжигають бесѣдѫ большє, нєжє коѥ любо чюждєє подобиѥ. Образи остають въ твоѥмь съмотрьницѣ и николижє нє посылають сѧ.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) просить положити коѥжьдо подобиѥ въ кошьницѫ, къ нєиже подобаѥть, ꙗкоже въ коухьнѭ ли въ оградъ. Рѧдити опираѥть сѧ на дльго дрьжимо вѣдѣниѥ о мирѣ, а нє на кратъкоую памѧть.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) сѣчєть подобиѥ на 4 ли 9 чѧсти. Косни сѧ дъвѣма чѧстєма, да ѩ измѣниши, доньдєжє подобиѥ бѫдєть цѣло. Цѣло подобиѥ остаѥть на ꙗвьницѣ ꙗко водь.
 
-### Real cards on the table
+### Истиньныѧ карты на трапєзѣ
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Нє трѣбоуѥши ꙗвьницѧ. Възьми пары изъ дъвоу коупъ картъ ли изъ събора образьныхъ картъ. Положи ѩ ꙗвьно въ дъва рѧда и ищѣта пары въкоупѣ. Послѣжди рѧдита по цвѣтоу ли знамєнию. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) полагаѥть игры съ картами и на дъсцѣ мєждоу дѣлы за ран҄ии стєпєнь.
 
-## Which memory games suit each stage?
+## Кыѧ игры памѧти подобають коѥмоу стєпєни?
 
-Stages are loose labels. Go by what the person enjoys today.
+Стєпєни сѫть слободьна имєна. Съмотри, чєсого чловѣкъ радоуѥть сѧ дьньсь.
 
-| Stage | Games that often fit | How to set them up |
+| Стєпєнь | Игры, ꙗже чѧсто подобають | Како ѩ оустроити |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Раньнии | Picture pairs, Photo pairs, Picture puzzle съ 9 чѧстьми, знаѥмыѧ игры съ картами | Да изберєть самъ. Дъщицѧ могѫть сѧ обрѧщати, ащє томоу радоуѥть сѧ. Остави число, ащє ѥмоу то тѧжько ѥсть |
+| Срѣдьнии | Picture pairs съ 4 до 6 дъщицъ ꙗвьно, Find the same, Sort together | Подобиꙗ вьсєгда видима. Сѣди близъ ѥго и помагаита си чрѣдою |
+| Поздьнии | Find the same съ 2 изборама, съмотрѣниѥ ѥдиного вєликааго подобиꙗ въкоупѣ | Прѣкратъко. Ты дрьжиши дъщицѫ. Тъ показоуѥть, ли просто зьрить и слоушаѥть |
 
-## Do memory games help with dementia?
+## Помагають ли игры памѧти при оскѫдѣнии оума?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ни ѥдина игра памѧти нє ѥсть показана, ꙗко лѣчить, оумѧлꙗѥть ли оуставлꙗѥть оскѫдѣниѥ оума. [Прѣглѧдъ Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) о оучєнии оума на чьслителехъ за чловѣкы съ лєгъкымъ оумьнымъ оскѫдѣниѥмь обрѣте свѣдѣтельства прѣмалꙑ, да рєчємъ, ащє то вароуѥть оскѫдѣниꙗ оума. Нашь проводьникъ [игры оума и оскѫдѥниѥ оума](/brain-health/brain-games/) сказоуѥть, чьто иꙁслѣдованиꙗ показоують и чєсо нє показоують.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+То нє ѥсть вина оставити игры. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) съвѣтоуѥть дрьжати сѧ радости, а нє оуспѣха. Дєсѧть минѫтъ съподоблєниꙗ подобии и бесѣды о нихъ могѫть быти истино добра чѧсть дьнє.
 
-## What about memory games for seniors without dementia?
+## А что о играхъ памѧти за старѣишѧ безъ оскѫдѣниꙗ оума?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Ащє старѣишии чловѣкъ безъ троуда памѧти радоуѥть сѧ съплєтєниѥмъ съ врѣмєнємь, числомь и трѹдьнѣишими стєпєньми, въ томь нѣсть зъла. Нъ нє надѣи сѧ, ꙗко то съхранить отъ оскѫдѣниꙗ оума; ни ѥдина игра нє ѥсть показана, ꙗко то творить. Кротъкыѧ образы горѣ такожє добрѣ дѣють, ѥгда роди играють въкоупѣ: дѣдъ ли баба, живѫщии съ оскѫдѣниѥмъ оума, и младъ въноукъ могѫть съподоблꙗти подобиꙗ ꙗко дроужина, и никтоже отъ нию нє ѥсть искоушаѥмъ.
 
-## When should you stop or change the game?
+## Къгда прѣстати ли измѣнити игрѫ?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Въздыхаениѥ, отътлачи дъщицѧ, слово „нє могоу сєго“ ли видъ страха сѫть знамєниꙗ, да сътвориши лєгъчѣѥ ли прѣстанєши. Покоуси менѣ дъщицъ, обрѧти подобиꙗ ꙗвьно, прѣиди къ [Find the same](/games/find-the-same/), ли просто зьрита подобиꙗ и бесѣдоуита. Ащє чловѣкъ въсє нє хощєть играти, то такожє добро ѥсть. Нашь проводьникъ [како играти въкоупѣ](/caregiving/how-to-play-together/) имать большє о мѣрѣ и помощи.

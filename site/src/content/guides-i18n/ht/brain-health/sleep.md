@@ -1,31 +1,31 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Dòmi ak sante sèvo: sa rechèch sijere ak sa ki ede"
+seoTitle: "Dòmi ak demans: sa rechèch sijere"
+description: "Sa rechèch sijere sou dòmi ak risk demans, poukisa rechèch sou netwayaj sèvo a toujou bonè, ak abitid dòmi pratik pou granmoun aje ak moun k ap bay swen."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Gen kèk etid alontèm ki lye kout dòmi nan mitan lavi ak yon pi gwo risk demans, epi rechèch
+  nan laboratwa sijere dòmi ka ede sèvo a retire fatra. Prèv sa yo toujou bonè, epi Komisyon
+  Lancet 2024 la pa t mete dòmi nan lis faktè risk yo ka modifye. Abitid dòmi regilye ede jan
+  ou santi ou chak jou. Pwoblèm dòmi nan demans yo komen, epi li bon pou pale de yo ak yon doktè.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Yon etid nan Wayòm Ini ki te swiv anviwon 8,000 moun pandan 25 ane te lye dòmi sis èdtan oswa mwens nan mitan lavi ak yon pi gwo risk demans."
+  - "Chanjman nan dòmi ka tou yon siy bonè demans, kidonk li difisil pou di ki sa ki lakòz ak ki sa ki efè."
+  - "Rechèch sou fason dòmi retire beta-amyloid nan sèvo a reyèl, men li toujou bonè, anpil ladan l fèt sou sourit."
+  - "Apne dòmi komen, li ka trete, epi etid yo lye l ak demans; wonfle fò ak dòmi pandan jounen an merite yo verifye."
+  - "Pa janm kòmanse, sispann oswa chanje yon medikaman oswa yon èd pou dòmi san pale ak yon doktè."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Èske move dòmi lakòz maladi alzayme?"
+    a: "Sa pa montre. Gen kèk etid ki lye kout dòmi ak yon pi gwo risk demans, men demans li menm deranje dòmi, souvan plizyè ane anvan dyagnostik la. Komisyon Lancet 2024 la te jije prèv yo twò pa regilye pou mete dòmi nan lis faktè risk yo ka modifye."
+  - q: "Konbyen dòmi granmoun aje bezwen?"
+    a: "National Institute on Aging di granmoun aje bezwen apeprè menm kantite ak lòt granmoun, 7 a 9 èdtan chak swa. Anpil granmoun aje al kouche epi leve pi bonè pase anvan, sa ki komen."
+  - q: "Poukisa yon moun k ap viv ak demans dòmi pandan jounen an epi reveye nan mitan lannwit?"
+    a: "Demans ka afekte revèy entèn kò a, kidonk lè pou dòmi ak lè pou reveye vin melanje. Doulè, annwi, grangou oswa efè segondè medikaman ka jwe yon wòl tou. Limyè lajounen, aktivite chak jou ak yon woutin trankil nan aswè ka ede. Yon doktè ka chèche kòz ki ka trete."
+  - q: "Èske mwen ta dwe bay moun mwen ap pran swen an yon èd pou dòmi?"
+    a: "Pale ak doktè li an premye, enkli sou pwodwi yo vann san preskripsyon. National Institute on Aging fè konnen kèk medikaman pou dòmi ka ogmante risk vètij, tonbe ak konfizyon nan moun k ap viv ak maladi alzayme."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +56,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Dòmi ak sante sèvo klèman gen rapò youn ak lòt, men fason yo gen rapò a yo toujou ap etidye li. Gen kèk etid ki lye kout dòmi ak yon pi gwo risk demans. Demans, nan lòt men, souvan deranje dòmi. Paj sa a eksplike sa rechèch montre ak sa li pa montre, li bay abitid dòmi pratik, epi li pale sou pwoblèm dòmi ki komen nan demans. Li pa bay konsèy sou medikaman pou dòmi; konvèsasyon sa a dwe fèt ak yon doktè.
 
-## Is poor sleep linked with dementia?
+## Èske move dòmi gen lyen ak demans?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Gen kèk etid alontèm ki lye kout dòmi ak yon pi gwo risk demans, men prèv yo pa klè nèt.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Yon etid nan Wayòm Ini ki te dire 25 ane.** Chèchè yo te swiv anviwon 8,000 granmoun nan [etid Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Moun ki te dòmi sis èdtan oswa mwens nan laj 50 oswa 60 te gen yon pi gwo risk demans pita pase moun ki te dòmi sèt èdtan. Moun ki te dòmi sis èdtan oswa mwens nan laj 50, 60 ak 70 te gen anviwon 30% pi gwo risk pase moun ki te dòmi sèt èdtan regilyèman. Se te yon etid obsèvasyon, kidonk li montre yon lyen, pa yon kòz.
+- **Pwen de vi Komisyon Lancet la.** [Komisyon Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) la pa t ajoute dòmi nan lis 14 faktè risk li yo ki ka modifye. Li te jije prèv yo pa t ase regilye. Youn nan rezon yo se "kozalite ranvèse": chanjman nan sèvo ki soti nan demans kòmanse plizyè ane anvan dyagnostik la epi yo ka deranje dòmi. Nan yon gwo etid, yon lyen ant dòmi lontan ak demans te disparèt lè yo te mete premye senk ane swiv la sou kote.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Donk, yon kout nwit dòmi detanzantan pa yon rezon pou enkyete w. Li bon pou vize yon dòmi regilye ak bon kalite paske li ede atitid, vijilans ak sekirite jodi a.
 
-## What is the "brain-clearing" sleep research?
+## Ki sa rechèch sou "netwayaj sèvo a" ye?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Ou ka te li ke dòmi "netwaye" sèvo a. Lide sa a soti nan rechèch reyèl, men li toujou bonè.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Nan sourit.** Yon etid an 2013 [NIH te dekri](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) te jwenn espas ant selil sèvo yo te grandi anviwon 60% lè sourit yo t ap dòmi. Likid te sikile pi fasil nan sèvo a, atravè sa chèchè yo rele sistèm glinfatik la. Beta-amyloid, yon pwoteyin ki gen lyen ak maladi alzayme, te retire pi vit nan sèvo sourit ki t ap dòmi yo.
+- **Nan moun.** Yon ti [etid 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) te fè eskanè sou 20 granmoun ki an sante, ki te gen laj 22 a 72, apre yon nwit nòmal ak apre yon nwit san dòmi. Apre nwit san dòmi a, yon siy eskanè sèvo pou beta-amyloid te ogmante anviwon 5% nan yon zòn ki enkli ipokanp la, yon pati ki enpòtan pou memwa. Otè yo te rele sa prèv preliminè. Yo pa t konnen si chanjman an disparèt apre repo, oswa si li montre netwayaj ki pi dousman oswa plis amyloid k ap pwodui.
+- **Sa mache nan toude sans.** Komisyon Lancet la fè konnen akimilasyon amyloid ka li menm deranje dòmi nan granmoun aje.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Rezilta sa yo ede eksplike poukisa chèchè yo enterese nan dòmi. Yo pa montre ke pi bon dòmi anpeche maladi alzayme.
 
-## What sleep habits may help?
+## Ki abitid dòmi ki ka ede?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Granmoun aje bezwen anviwon 7 a 9 èdtan dòmi chak swa, menm jan ak lòt granmoun, dapre [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Sijesyon li yo enkli:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Kenbe yon orè regilye.** Al kouche epi leve a menm lè chak jou, menm nan wikenn.
+- **Mete yon woutin pou detann ou.** Li, koute mizik dous oswa pran yon beny tyèd anvan ou al kouche.
+- **Fè chanm lan konfòtab,** ni twò cho ni twò frèt.
+- **Limite kafeyin pita nan jounen an.** Kafe, te, soda ak chokola ka anpeche ou dòmi.
+- **Evite alkòl,** menm ti kantite, NIA konseye sa.
+- **Evite gwo repa nan lespas de a twa èdtan anvan ou al dòmi,** ak gwo bwason pita nan jounen an.
+- **Fè egzèsis regilyèman, men pa nan lespas 3 èdtan anvan ou al dòmi.** Gade [gid egzèsis](/brain-health/exercise/) nou an.
+- **Pa kite ekran nan chanm lan.** NIA sijere pou pa gade televizyon oswa itilize òdinatè, telefòn oswa tablèt la.
+- **Evite ti dòmi nan fen apremidi oswa nan aswè** si ou kapab.
 
-## Sleep problems in dementia
+## Pwoblèm dòmi nan demans
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Chanjman nan dòmi komen nan demans. [NIA bay lis](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sa yo: dòmi anpil oswa twò piti, reveye anpil fwa nan mitan lannwit, ak fè anpil ti dòmi pandan jounen an. Li dekri tou ajitasyon nan aswè (sundowning): ajitasyon, enkyetid oswa konfizyon ki kòmanse oswa vin pi mal lè limyè lajounen ap diminye.
 
-Caregiver tips from the NIA include:
+Konsèy NIA bay moun k ap bay swen yo enkli:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Pran limyè lajounen ak mouvman bonè.** Soti deyò oswa chita bò yon fenèt pandan jounen an, epi ede moun nan rete aktif chak jou. Limyè klere ka ede remete revèy entèn kò a.
+2. **Planifye aktivite ki gen plis enèji pou maten an.** Eseye benyen nan maten oswa pran pi gwo repa a nan mitan jounen an.
+3. **Kenbe ti dòmi yo kout epi bonè.** Limite dòmi detanzantan pita nan jounen an.
+4. **Fè aswè a trankil.** Bese limyè yo, diminye bri epi mete mizik dous si moun nan renmen sa. Gid nou an sou [ajitasyon nan fen jounen an](/caregiving/late-day-restlessness/) gen plis lide.
+5. **Kenbe yon woutin regilye anvan dòmi.** Li awotvwa a menm lè chak swa se youn nan egzanp NIA bay. Yon [woutin chak jou ki stab](/activities/daily-routine/) ede tou.
+6. **Limite kafeyin ak alkòl.**
+7. **Itilize ti limyè lannwit** nan chanm lan, koulwa a ak twalèt la.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Pou reveye nan mitan lannwit, [konsèy sekirite lakay NIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) yo enkli ti limyè lannwit oswa detèktè limyè otomatik, ba pou kenbe nan twalèt la, tep ki gen koulè klere sou bò mach eskalye yo, ak medikaman ki sere nan yon kote ki fèmen akle.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Yon ti aktivite kout e trankil nan aswè ka ede nou toude detann nou. Eseye yon ti poz dous ak [Calm Breathing](/games/calm-breathing/) oswa kèk [Conversation Cards](/games/conversation-cards/) nan yon fason rilaks. Evite nenpòt bagay ki eksite twò pre lè pou dòmi, epi kanpe nenpòt lè moun nan santi li ase.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Dòmi kase fatige moun k ap bay swen tou. [Gid nou an pou pran swen tèt ou lè w ap bay swen](/caregiving/caregiver-self-care/) pale sou fason pou jwenn repo ak èd.
 
-## What about sleep apnea?
+## E apne dòmi?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Apne dòmi lakòz kout poz nan respirasyon pandan dòmi, souvan anpil fwa nan yon nwit. NIA di si yo pa trete li, li ka mennen nan pwoblèm tankou tansyon wo, konjesyon serebral oswa pèt memwa. Siy yo enkli wonfle fò ak santi ou gen dòmi pandan jounen an, epi anpil moun pa konnen yo genyen li. Komisyon Lancet la dekri yon revizyon 11 etid kote moun ki te gen apne dòmi te gen anviwon 43% pi gwo risk demans. Poutan, kèk nan etid sa yo te pran pwa an kont, kidonk lyen an pa sètèn.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Yo ka fè dyagnostik apne dòmi epi trete li. NIA fè konnen yon machin CPAP prèske toujou ede. Si ou menm oswa moun ou ap pran swen an wonfle fò, sispann respire pandan dòmi, oswa gen anpil dòmi pandan jounen an, pale ak yon doktè.
 
-## A note about sleep medicines
+## Yon nòt sou medikaman pou dòmi
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Nou pa bay konsèy sou medikaman oswa sipleman pou dòmi. NIA fè konnen medikaman pou dòmi ka ede pou yon kout tan, men yo pa yon gerizon pou lensomni. Li fè konnen tou kèk medikaman yo bay pou ede moun k ap viv ak maladi alzayme dòmi ka ogmante risk vètij, tonbe ak konfizyon. Pa kòmanse, sispann oswa chanje okenn medikaman pou dòmi, enkli èd pou dòmi yo vann san preskripsyon, san ou pa pale ak yon doktè oswa yon famasyen.
 
-## Talk with a doctor
+## Pale ak yon doktè
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Al wè yon doktè si ou menm oswa moun ou ap pran swen an toujou fatige, gen pwoblèm pou dòmi pifò nwit, wonfle fò, oswa gen poz nan respirasyon nan mitan lannwit. Si pwoblèm dòmi nan demans kontinye, [NIA konseye](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) pou chèche konsèy medikal. Yon egzamen ka jwenn kòz tankou doulè, yon lòt pwoblèm dòmi, yon maladi oswa yon efè segondè medikaman. Konfizyon toudenkou, oswa yon chanjman toudenkou nan dòmi ansanm ak konfizyon, bezwen swen ijan. Li [kilè pou wè yon doktè](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Paj sa a se enfòmasyon jeneral, li pa konsèy medikal. Gade [avi medikal nou an](/medical-disclaimer/).

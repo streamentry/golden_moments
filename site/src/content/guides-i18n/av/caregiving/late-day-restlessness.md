@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Сандаунинг: деменция бугеб инсанасей ракӀалъ дицӀарал ругӀунал"
+seoTitle: "Сандаунинг: ракӀалъ дицӀарал ругӀунал"
+description: "Гьабулеб рекъон, къватӀиб ва ракӀалъ дицӀарал ругӀунал, бугеб рукӀалъ, цӀалъ ва меседал рахъ дирхьизабизе бегьулеб. Жаниб гьоркьор бегьулеб гьабулеб тӀалъа, докторал хабар бараб цӀалъ."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Сандаунинг гьабулеб рахъ-кӀалъ, ракӀ-кӀалъ ва къанагьи-гӀоданде, бакӀал
+  кьеда гьанжесеб рукӀалъ, рекъон гьабулеб ругӀунал. РугӀун гьабулеб
+  бегьулеб бутӀаралде: кӀицӀ ругӀунал, рукӀалъ гьабулеб рекъон, дидуб цӀалъ
+  гьабулеб харъ, гьабулеб цӀалъ дигеб ракӀ-кӀалъ, бакӀалъ гьарахъ бегьулеб
+  ракӀалъ, бугеб рукӀалъ ругӀун, ракӀалъ гьарал ругӀунал, музыка, сурат, къадал
+  тӀарабиялъ. ТӀаде хьел кьеялъ ругӀун дибиялъ докторасеб хабар бечӀо.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Сандаунинг гьабулеб рахъ-кӀалъ ё ракӀ-кӀалъ, рукӀалъ сундул гьанжесеб рукӀалъ кьеда."
+  - "Бугеб ва рукӀалъ кӀицӀ ругӀунал, бакӀал ва кьеда мехъеб ругӀунал гьабулеб бакӀалда сверде."
+  - "ЦӀалъ, рекъон гьабулеб пухъ ва дидуб мегӀ ва шаркьазе дирхьизабизе бегьулеб гьабулел харъ."
+  - "РукӀалъ сундул раккьабиялъ лампаяз, гьабулеб лекӀо дирхьизабиялъ ва ракӀалъ гьарал ругӀунал гьабулел."
+  - "РугӀунал дилъейялъ журнал гьабулел, гьабулел ракӀ-кӀалъ гьакъабиялъ рахъ-кӀалъ дирхьизабиялъ."
+  - "Гьанжесеб ё кӀицӀ дирхьизаб ругӀунал гьабулел: докторасе бечӀо. Гьабулел цӀалъ, гьабулел гӀарай ё гьабулел дарман бегьула."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Сандаунинг гьабулел бакӀалда ругӀуналъ гьарал?"
+    a: "Гьабулел кьеда гьанжесеб рукӀалъ ё гьанжесеб рукӀалъ, цӀалъ раккьабиялъ. ЦӀалъ рахъ-кӀалъ инсанасеб гьабулеб кьеда. Гьабулел рекъон ругӀун дилъейялъ гьоркьоб нухъ журнал гьабулел цӀалъ гьарал."
+  - q: "Сандаунинг гьабулел рахъ ругӀунал бегьула?"
+    a: "Кьеда гьабулеб, таниялъ ва кӀицӀ гьабулеб ругӀунал гьанжесеб рукӀалъ гьабулеб рахъ-кӀалъ бугеб ругӀунал: тӀалъа музыка, сурат дилъей, гьабулеб телевизор ё фильм, къадал тӀарабиялъ, кӀицӀ тапиялъ, ракӀалъ кӀицӀ рахъ ё сундул мегӀ гьабулел. РукӀалъ гьарал ё кьеда мехъеб ругӀунал бакӀалда сверде."
+  - q: "Сандаунинг гьабулел цӀалъ ракӀалъ дицӀарал ругӀуналъ гьарал?"
+    a: "Гьабулел бугеб гӀарай, бакӀалъ гьарал дарман (мисал, мочевой путь), тӀалъабулеб рекъон ё дарманазе гьабулел тесер гьарал. Гьанжесеб, рукӀалъ ё кьеда гьабулел рахъ-кӀалъ гьабулел бечӀо, инсанасеб докторасе хабар бечӀо."
+  - q: "Сандаунинг дарманалде докторасе хабар бечӀо?"
+    a: "Гьабулел докторасе хабар беч. Alzheimer's Association гьабулел: дарманалде гьанжесеб бакӀалда гьабулел дарман гьарал гьоркьоб рекъон бегьула, гьабулел дарман рахъ-кӀалъ гьабулел рукӀалъ. ТӀаде хьел кьеялъ гьабулел мугьрал кӀодолъ. Гьабулел дарман гьарал гьакъабиялъ ва гьабулел хабар бечӀо."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Гьабулеб инсанал гьоркьоб ругӀун бегьула: рукӀалъ тӀаде гьарал ругӀунал, амма ракӀалъ дицӀарал цӀалъ, деменция бугеб инсанаб гьанжесеб рукӀалъ ракӀ-кӀалъ, кьеда, ракӀалъ гьабулеб ё рахъ-кӀалъ гьабулел. Гьабулел кӀолъаялъ «гӀадин лъуна» гьабулеб, лъугьуна гьабулел. РугӀун гьабулел дарман рахъ-кӀалъ, тӀаде сандаунинг гьабулел.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Гьабулел дарман бугеб бакӀалъ бечӀо, амма гьабулеб рукӀалъ, бугеб ва гьабулеб ругӀуналъ дирхьизабиялъ кьеда рукӀалъ бакӀалъ дирхьизабизе бегьула. Гьабулеб рекъон гьарал ругӀунал National Institute on Aging ва Alzheimer's Association гьабулел. РугӀун докторасе хабар бечӀо. Гьанжесеб, кӀицӀ ё кьеда гьабулел ругӀунал дибиялъ, инсанасеб докторасе бечӀо.
 
-## What is sundowning?
+## Сандаунинг гьабулел?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Сандаунинг гьабулеб рахъ-кӀалъ, ракӀ-кӀалъ, ракӀалъ дицӀарал ё ругӀун, гьанжесеб рукӀалъ кьеда ё кьеда рукӀалъ. РугӀун [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) гьабулеб: рукӀалъ гьабулеб ругӀун дирхьизабиялъ рахъ-кӀалъ кьеда.
 
-## What can make late-day restlessness worse?
+## Гьабулеб ракӀалъ дирхьизабиялъ гьабулел ругӀунал?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Гьабулел ругӀунал рахъ-кӀалъ гьарал, гьоркьоб гьабулел. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) гьабулеб:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- бугеб бакӀалда дегьеб цӀалъ;
+- кӀицӀ ё ракӀалъ гьарал бакӀал;
+- «гьабулеб гӀурхъ гьаб» кӀолъаялъ, инсанасеб рукӀалъ ругӀун кьеда, тӀаде бугеб гӀарай;
+- кӀица ё рахъ-кӀалъ гьабулеб, рукӀалъ гьабулеб ракӀ-кӀалъ;
+- гьабулеб инсанасе тӀарабиялъ ракӀ-кӀалъ ё дидуб гӀарай;
+- гьабулел цӀалъ дирхьизабиялъ, мехъеб гьабулел.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA гьабулеб: дарман, кьеда гьабулел ё гьабулеб дирхьизабиялъ, гьабулеб рукӀалъ гьабулел, гьабулеб гӀоданде, гӀарай, гьабулеб дарман ё дарман гьарал гьабулел.
 
-## How can I plan the day to make evenings calmer?
+## Гьабулеб рукӀалъ гьабулел бакӀалда рекъон гьарал?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Гьабулеб харъ рукӀалъ сверде, кьеда мехъеб ва рекъон гьабулеб. NIA ва Alzheimer's Association гьабулел рекъон пухъ гьарал. Гьабулел рекъон бакӀалъ:
 
-| Time | What may help |
+| ТӀалъа | Гьабулел бегьула |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| БакӀалда | Гьанжесеб ругӀун, пухъ, дидуб ва гьабулеб гьабулел, ракӀ-кӀалъ гьабулеб |
+| БакӀал рукӀалъ | ЦӀалъ ё лекӀо дидуб; пухъ ё кӀицӀ гьабулеб |
+| БакӀалъ гьоркьоб | Гьабулел мегӀ, рахъ-кӀалъ рукӀалъ гьабулеб ё рахъ гьарал |
+| БакӀалъ рахъ | ГӀадин кьеда рукӀалъ ё кӀицӀ рахъ, амма гьабулел хьел къаялъ |
+| Гьабулеб бакӀал | Рахъ-кӀалъ гьабулеб, кӀицӀ тапиялъ, цӀалъ рукӀалъ гьабулеб харъ |
+| Гьабулеб тӀалъа | КӀицӀ мегӀ, гӀадин гьабулеб, кӀицӀ дидуб, гьабулеб рекъон пухъ |
+| БакӀал рекъон дарман | Гьабулел лампаяз раккьабиялъ, гьабулел тӀарабиялъ |
 
-A few specific points from the sources:
+Гьабулел харъ, рекъон гьарал:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Рахъ.** NIA гьабулеб: гьабулеб бакӀалда, бакӀалъ гьарал цӀалъ гьабулеб.
+- **Гьабулеб харъ, амма кӀицӀ.** Гьабулеб рукӀалъ гьабулеб харъ, кӀицӀ ругӀун гьабулел.
+- **Гьабулеб гьарал ракӀ.** БакӀалъ гьарал алкоголь ва кофе, кола кьеда гьабулел (NIA). Alzheimer's Association никотин гьабулеб.
+- **ТӀарабиялъ.** БакӀалъ гьарал кӀицӀ дидуб гьабулел (NIA). Alzheimer's Association гьабулеб: цӀалъ дегьеб бакӀал гьабулел тӀарабиялъ.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Гьабулел гьабулел [рекъон харъ](/activities/daily-routine/) тӀалъабиялъ.
 
-## How can I make the home calmer in the late afternoon?
+## БакӀалда гьабулел бугеб гьарал?
 
-Reduce noise, add light and keep familiar things close.
+Лампа дирхьизабиялъ, гьабулел кӀицӀ, гьабулел гьарал.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **ГӀадин ва раккьаб лампа.** Alzheimer's Association гьабулеб: бакӀалда лампа гьабулеб. Гьабулел лампа рахъ бакӀалъ гьабулеб.
+- **КӀицӀ рахъ.** Телевизор ё радио кьеда ё кӀицӀ гьабулеб, гьабулел кӀолъаялъ тӀарабиялъ. Alzheimer's Association гьабулеб: телевизор, харъ, дидуб музыка кьеда.
+- **Гьабулел цӀалъ.** NIA гьабулеб: гьабулеб музыка, гьабулел суратал ва рахъ-кӀалъ гьабулел бакӀалъ.
+- **ЦӀалъ гьабулел.** Alzheimer's Association гьабулеб: дарман, гьабулеб, ракӀ, тӀалъа, гьабулеб, гӀарай, кожа гьабулел, бакӀал гьабулел.
+- **ТӀалъабулеб рукӀалъ.** Инсанасеб гьабулеб ракӀ-кӀалъ ругӀунал. NIA гьабулеб: рукӀалъ гьабулел, гьабулеб цӀалъ гьабулел.
 
-## What calm activities can we do in the late afternoon?
+## БакӀалда гьабулел тӀалъа цӀалъ гьабулел?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Гьабулел ругӀунал: таниялъ, кьеда мехъеб, кьеда гьабулел. Alzheimer's Association гьабулеб: музыка, сурат, фильм, пухъ. NIA гьабулеб: гьабулеб ракӀ, телевизор, музыка, пухъ, кӀицӀ харъ, гьабулеб къадал тӀарабиялъ.
 
-Ideas to try:
+ТӀаде ругӀунал:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Къадал тӀарабиялъ.** NIA гьабулеб. ТӀалъ тӀарабиялъ, гьабулеб къадал.
+2. **Гьабулеб музыка.** Гьабулеб рукӀалъ гьабулел, кӀицӀ рахъ. Гьабулел гьабулеб. РугӀун [музыка ругӀунал](/activities/music/).
+3. **Сурат дилъей.** Сурат, ё [Photo Pairs](/games/photo-pairs/) гьабулел, гьабулел суратал гьабулел.
+4. **КӀицӀ пухъ.** Гьабулеб гьабулеб, бакӀалъ гьабулел.
+5. **Гьабулел ракӀ.** Гьабулеб харъ, гьабулеб, дидуб, ракӀ гьабулел.
+6. **Гьабулеб гьарал.** [Picture Pairs](/games/picture-pairs/): гьабулеб дилъей, гьабулел суратал гьабулеб.
+7. **Суратал тӀарабиялъ.** [Coloring](/games/coloring/): экран ё бумага, гьабулел тӀалъа.
+8. **Дилъейялъ ва гьабулеб.** [Conversation Cards](/games/conversation-cards/): сурат ва гьабулел харъ. Гьабулеб дилъей кьеда.
+9. **Рахъ-кӀалъ.** [Calm Breathing](/games/calm-breathing/): кӀицӀ, гьабулеб тӀалъа.
+10. **Къадал харъ.** ТӀарабиялъ, гьабулеб къадал, гьабулеб гьабулел. [Sensory activities](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Гьабулеб гьабулел, гьабулел харъ, гьабулеб рукӀалъ гьабулел ругӀунал. Гьабулел бакӀалда гьабулел.
 
-## What should I do when restlessness starts?
+## РакӀалъ дицӀарал гьабулел ругӀун гьабулел?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Рахъ гьабулеб, рекъон гьабулеб, кӀицӀ гьабулеб. NIA гьабулеб: рахъ-кӀалъ гьабулеб, инсанасе дилъей, гьабулел харъ, гьабулеб рахъ гьарал, гьабулеб, гьабулел цӀалъ. Гьабулел ракӀ, музыка, пухъ ё кӀицӀ харъ.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association гьабулеб: «Вуго бакӀалда рахъ» ва «Вуго рахъ-кӀалъ гьабулеб» кӀолъаялъ. Гьабулеб лампа, кӀицӀ гьабулеб ва гьабулел кьеда. Инсанасе бакӀал гьабулел, гьабулел харъ, гьабулел кьеда.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Инсан тӀалъа гьабулеб бакӀалда, NIA гьабулеб: гьабулеб дистанция, ругӀун гьабулел. ГӀарай гьабулеб, 112 гьабулеб, инсанасе деменция бугебулел.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+[Гьабулел харъ](/caregiving/communication-tips/) ва [ракӀалъ дицӀарал харъ](/caregiving/when-they-say-no/) гьабулел.
 
-## How do I find the triggers?
+## Гьабулел ругӀун бегьулеб?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Журнал гьабулеб нухъ, цӀалъ ё шаркьа. Alzheimer's Association гьабулеб: ругӀун гьабулел цӀалъ гьарал. Гьабулел цӀалъ: ракӀ-кӀалъ гьабулеб, цӀалъ гьабулел, рукӀалъ, гьабулел ракӀ, гьабулел инсанал, кӀицӀ ва рахъ. Журнал докторасе гьабулеб. NIA гьабулеб: ругӀун гьабулел дирхьизабиялъ, гьабулел инсанал ва докторал рекъон гьабулел.
 
-## When should I call a doctor about sundowning?
+## Сандаунинг гьабулел докторасе хабар бечӀо?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Гьабулеб докторасе хабар бечӀо, гьанжесеб, кӀицӀ дирхьизаб ё гьабулел ругӀунал гьабулеб. NIA гьабулеб: кӀицӀ ё гьанжесеб рахъ-кӀалъ гьабулел, гьабулел дарман гьарал гьабулел — докторасе гьабулеб.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Докторасе гьабулеб: гьабулел цӀалъ ё гьабулел гӀарай. Alzheimer's Association гьабулеб: мочевой путь гӀарай, рукӀалъ гьабулеб, гьабулеб цӀалъ, апноэ. NIA гьабулеб: гӀарай, гьабулеб дарман гьарал.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association гьабулеб: дарман гьабулел рахъ-кӀалъ дарманалде гьабулеб, гьабулел дарман рукӀалъ. Дарман гьабулел докторасе гьабулеб. Гьабулеб дарман, тӀалъа, цӀалъ ё добавка докторасе хабар бечӀо.
 
-## How do I get through the evenings myself?
+## Къанагьи-гӀодо дирхьизабиялъ гьабулел?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Гьабулеб тӀалъа ругӀун гьабулеб. Бегьулеб, гьабулеб, дидуб, гьабулел инсанал, гьабулел тӀарабиялъ. Гьабулел, [гьабулеб рахъ](/caregiving/caregiver-self-care/) гьабулел, Alzheimer's Association 24/7 Helpline гьабулел.

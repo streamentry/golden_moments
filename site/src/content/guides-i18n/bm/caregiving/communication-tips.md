@@ -1,33 +1,29 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Kuma ɲɛfɛ dimansiya bɛ mɔgɔ la"
+seoTitle: "Dimansiya kumakan: min fɔ ani min ma fɔ"
+description: "Kumakan ɲɛfɛ dimansiya bɛ mɔgɔ la: kuma sigi ka ɲɛfɛ, min bɛ kɛ kuma kɛlɛ ma, min bɛ kɛ ka ɲɛfɛ ani ka ɲɛ ye kuma la."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Kuma kɛ yɔrɔ ɲɛmɔgɔ la, mɔgɔ ɲɛ la, ka a tɔgɔ fɔ, ani ka kuma kɛ ka tɛmɛ ka ɲɛ, ka kuma ɲɛfɛ dɔ kɛ. Ka ɲɛmɔgɔ kelen ɲɛfɛ ka kɛ, ka kuma sɛnɛ ni ɲɛfɛ ye. Ka ɲɛ ɲɛmɔgɔ ye ko cɛ ɲɛ ye, ka min bɛ fɔ kɛ ɲɛ ɲɛfɛ. Ka kuma kɛ kɔrɔ, ka a kɛ ɲɛmɔgɔ dɔ ye. Ka a bɛ kɛ ɲɛfɛ ka ɲɛfɛ kɛ. Ka mɔgɔ ɲɛ kɛ ɲɛmɔgɔ ye, ani ka ɲɛfɛ ka kɛ ɲɛmɔgɔ tɛmɛ la.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Kuma kɛ ɲɛ kɔrɔ, ka ɲɛ ɲɛmɔgɔ ye ka a ɲɛ ye."
+  - "Ka kuma sɛnɛ ni ɲɛfɛ ye, ka kuma kelen kɛ, ani ka tɔgɔ kɛ cɛ, muso, walima ɲɛmɔgɔ ye."
+  - "Ka sɛnɛ ni ɲɛ ye, walima ka ɲɛfɛ ni ɲɛfɛ ye, ka ɲɛfɛ ka kɛ."
+  - "Ka tɛmɛ ka kuma sɔrɔ. Ni a ma faamu, ka kuma kelen ɲɛfɛ, ka kuma kura ɲɛfɛ."
+  - "Ka kuma ɲɛfɛ ka ɲɛ kɛ. Ka a ɲɛ ɲɛfɛ ka kɛ kuma la."
+  - "Ni kuma ka ɲɛ, ka sɛnɛ ni ɲɛ ye, ni ɲɛmɔgɔ ye ka a ɲɛ ye ka a ɲɛ kɛ."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Mun ye min ma fɔ dimansiya bɛ mɔgɔ ye?"
+    a: "Ka ɲɛ ɲɛmɔgɔ ye ka kuma ɲɛfɛ (\"I bɛ tɔgɔ ɲɛfɛ?\"), ka kuma ɲɛfɛ (\"O ye ɲɛfɛ\"), ka a ɲɛ ɲɛfɛ ka kɛ (\"Ne ye o fɔ\") ani ka kuma kɛ ka ɲɛfɛ ka ɲɛfɛ. Ka kuma kɛ ka ɲɛfɛ ka kɛ, ka ɲɛfɛ. Ka ɲɛfɛ ka kɛ ka sɛnɛ ni ɲɛ ye."
+  - q: "Ni a bɛ kuma ɲɛfɛ, ne ka a ɲɛ kɛ wa?"
+    a: "Dɔrɔn, ayi. Ni kuma ɲɛfɛ tɛ kɛ ɲɛmɔgɔ dɔ ye, ka a ɲɛ ye. Kuma ɲɛfɛ tɛ ɲɛmɔgɔ ka hakili ɲɛfɛ, a bɛ kɛ ɲɛmɔgɔ ye ka ɲɛ. Ka tɛmɛ a ka ɲɛ ni a ka kɛlɛ ɲɛfɛ."
+  - q: "Ni a ma sɛnɛ kuma ɲɛfɛ, ne bɛ min kɛ?"
+    a: "Ka tɛmɛ a ɲɛ kɔrɔ. Ni a bɛ ɲɛ kɛ dɔrɔn, ka kuma ɲɛfɛ ka a ɲɛ, walima ka min bɛ fɔ ɲɛfɛ ka a ɲɛ. Ka ɲɛ, sɛnɛ ni ɲɛfɛ bɛ se ka kɛ."
+  - q: "Ne bɛ min kɛ ni a bɛ kuma ɲɛfɛ dimansiya kɔrɔ, ka ɲɛfɛ?"
+    a: "Ka ɲɛ ɲɛmɔgɔ ye, ka a tɔgɔ fɔ, ka sɛnɛ ni ɲɛ ye ani ka kuma ɲɛfɛ ka ɲɛ. Ka ɲɛ ɲɛfɛ ka a ɲɛ. Ka mɔgɔ ɲɛ ka kuma ɲɛfɛ ka kɛ ɲɛmɔgɔ ye, ka ɲɛfɛ ka ɲɛ."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +39,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dimansiya bɛ ka kɛ ka kuma ɲɛfɛ, ka kuma sɛnɛ, walima ka ɲɛ kɛ kuma ɲɛfɛ. O tɛ wili ko mɔgɔ tɛ kuma kɛ. Kuma sigi ka ɲɛfɛ, ka kuma ɲɛfɛ ka ɲɛ, ani ka ɲɛ ɲɛmɔgɔ ye, o bɛ kuma kɛ ɲɛ ani ɲɛmɔgɔ ye.
 
-## What are the most important tips for talking with someone who has dementia?
+## Kuma ɲɛfɛ min bɛ kɛ ɲɛ ye dimansiya bɛ mɔgɔ la?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Ka ɲɛ kɛ, ka kuma sɛnɛ, ka tɛmɛ. Ni i bɛ ɲɛfɛ kelen, o bɛ kɛ:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Ka yɔrɔ ɲɛmɔgɔ kɛ, ka ɲɛ ye.** Ka TV kɛ, ka sigi ɲɛ kɔrɔ, ka a tɔgɔ fɔ.
+2. **Ka kuma kelen fɔ.** Sɛnɛ gɛlɛn, kuma kelen, ɲɛfɛ kelen.
+3. **Ka kuma fila sɔrɔ.** "Ji walima kafe?" bɛ ɲɛ ka tɛ "I bɛ mun fɛ?"
+4. **Ka tɛmɛ.** Ka waati caman di a ka jaabi ma, ka kuma kɛ ka tɛ.
+5. **Ka kuma tɛ ni kuma ɲɛfɛ.** Ka ɲɛ ye a ka hakili ye, ka tɛ kuma ɲɛfɛ.
 
-## How should I start a conversation?
+## Ka kuma daminɛ cogo di?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Ka yɔrɔ kɛ, ka mɔgɔ ka hakili bɛ ɲɛ kɔrɔ. [Family Caregiver Alliance ka sɛbɛn](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ka fɔ ko ka ɲɛ kɛ dɔrɔn: ka radio walima TV kɛ, ka fɛn kɛ, walima ka yɔrɔ dɔ kɛ.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Ka kuma ɲɛ kɔrɔ.** Ni i bɛ kɔ ɲɛ, a bɛ ɲɛ.
+- **Ka fɔ ni i ye jɔ ye.** "Aw ni ce, ne ye Sarah ye, i denmuso." O bɛ a ka tɔgɔ ɲɛ ɲɛfɛ.
+- **Ka sigi a ka yɔrɔ kɔrɔ.** Ni a sigilen bɛ, i sigi walima i sigi kɔrɔ ka ɲɛ ɲɛ.
+- **Ka i ka ɲɛ ni i ka kuma ɲɛ.** [National Institute on Aging (NIA) ka sɛbɛn](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ka fɔ ko ka i ka kuma, i ka ɲɛ, i ka ɲɛfɛ ni i ka dɔ ɲɛ.
+- **Ka a ɲɛ ka ɲɛ kɛ.** Ni a ka ɲɛ walima a ka tulonkɛ bɛ, ɲɛ ɲɛ ka ɲɛfɛ.
 
-## How should I phrase what I say?
+## Ka min fɔ, o cogo di?
 
-Use simple words, short sentences and a calm, low voice.
+Ka kuma ɲɛfɛ, ka sɛnɛ gɛlɛn, ka kuma dɔrɔn ni ɲɛ.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Sɛnɛ kelen, kuma kelen.** "An ka kɔnɔ, an bɛ taa ... " Ka ɲɛ.
+- **Ka kɛlɛ maa ka ɲɛ tɛ.** "Ɲɛmɔgɔ Jean ye wele." O bɛ ɲɛ ka tɛ "A ye wele."
+- **Ka kuma dɔrɔn kɛ.** Family Caregiver Alliance ka fɔ ko ka kuma dɔrɔn kɛ, ka tɛ kuma kɛ.
+- **Ka kuma kura, ka kuma ɲɛfɛ.** Ni a ma faamu, ka kuma kelen ɲɛfɛ. Ni o tɛ kɛ, ka tɛmɛ ka kuma kura.
+- **Ka ɲɛ ye ni kuma ye.** Ka ɲɛ, ka fɛn kɛ, walima ka ɲɛfɛ ka kɛ.
+- **Ka kuma a kɔrɔ, ka tɛ kuma a ɲɛfɛ.** NIA ka fɔ ko ka mɔgɔ ɲɛ kɛ ko a tɛ yɔrɔ, ani ka "dimansiya kuma" kɛ.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA ka fɔ ko ka kuma ɲɛfɛ dɔ kɛ ka sɛnɛ ni ɲɛ ye. Nin ye misali ye:
 
-| Instead of | Try |
+| Min tɛ fɔ | Min fɔ |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "I bɛ mun fɛ ka di?" | "I bɛ jɛgɛ walima kɔnɔ fɛ wa?" |
+| "I bɛ cogo min na?" | "I bɛ sɛgɛn wa?" |
+| "I bɛ dumuni fɛ wa?" | "Dumuni bɛ se ka kɛ miniti duuru kɔfɛ." |
+| "O tɛ cogo ye." | "An ka a kɛ nin cogo la." |
+| "I ka hakili bɛ sɔrɔ ka ... " | "Ne bɛ hakilina ka ... " |
+| "Ne ye o fɔ ɲɛ." | Ka jaabi ka ɲɛ, i ka ɲɛfɛ, i bɛ kɛ ko o ye kuma kura ye. |
 
-## How do I listen well?
+## Ka ɲɛ kɛ cogo di?
 
-Listen for the meaning and the feeling, not just the words.
+Ka ɲɛ ka hakili ni kuma ɲɛ, tɛ kuma kelen kɔrɔ.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Ka tɛmɛ.** Ka kuma tɛ ɲɛ ye waati ye. Ka sɛnɛ ka tɛmɛ, ka ɲɛfɛ ka kɛ.
+- **Ka kuma di ni a ye gɛlɛya ye dɔrɔn.** Family Caregiver Alliance ka fɔ ko ka kuma di ni mɔgɔ bɛ gɛlɛya.
+- **Ka a ka kuma ɲɛfɛ.** [Alzheimer's Association ka kuma sɛbɛn](https://www.alz.org/help-support/caregiving/daily-care/communications) ka fɔ ko ka kuma kɔrɔ ni a ka hakili, ka a fɔ ka ɲɛfɛ ko i ye faamu. "I bɛ siki la wa?"
+- **Ka a ka ɲɛ ni a ka dɔ ɲɛ.** NIA ka fɔ ko ni kuma gɛlɛn, a ka ɲɛ bɛ ɲɛ ka tɛmɛ ka tɛ kuma.
+- **Ka a ka hɛɛrɛ tɛmɛ.** Hɛɛrɛ ka ɲɛ, a bɛ ɲɛfɛ.
 
-## What if they say something that is not true?
+## Ni a fɔ kuma tɛ tiɲɛ, o bɛ min kɛ?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ka kuma kɛ tɛ. I bɛ ɲɛ kɛ dɔrɔn, a bɛ ɲɛ ka kɛ ka ɲɛ ni ɲɛ. O bɛ kɛ ka hakili ɲɛ ni ɲɛ. Ka hakili ɲɛ ka kɛ, ka a ɲɛ, ka tɛmɛ.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance ka fɔ ko ka hakili ɲɛ ka kɛ kuma kɔfɛ. Misali: ni i ya ka fɔ ko a bɛ ɲɛ den ɲɛ ka taa ɲɛ:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Min tɛ fɔ: "Ne ka, i denw ye ka kɛ ... " 
+- Min fɔ: "I ye ɲɛmɔgɔ ye kosɛbɛ. Aw ka den ɲɛ ka kuma fɔ. An bɛ jɛgɛ ka kɛ kɔrɔ wa?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association ka fɔ ko ka kuma ɲɛfɛ ni a ka kuma ka tiɲɛ tɛ. Ka waati sugandi: ni hakilina tɛ ɲɛ, a tɛ ɲɛ, ka a to.
 
-## How does communication change as dementia progresses?
+## Dimansiya bɛ kɛ cogo di ka taa?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ka sɛnɛ kɛ waati ni waati, ka i ka cogo ɲɛ. Alzheimer's Association ka fɔ ko dimansiya bɛ ɲɛ kɛ sɔrɔ ka taa:
 
-| Stage | What helps |
+| Waati | Min bɛ dɛmɛ |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Fɔlɔ | Ka a hakili ɲɛ. Ka kuma kɛ ni a ye, ka kuma ɲɛfɛ ka ɲɛ, ka kuma kɛ ka ɲɛ. |
+| Ɲɛ | Ka kuma kɛ yɔrɔ ɲɛmɔgɔ la. Ka sɛnɛ, ka ɲɛfɛ ni "ɔn" walima "ayi", ka kuma kɔrɔ, ka tɛ kuma kɛ. |
+| Ka taa | Ka kuma ɲɛ kɛ, ka a tɔgɔ fɔ. Ka ɲɛ ka kuma kɛ ni sɛnɛ ni ɲɛfɛ. Ka tɛ kuma kɛ ko a tɛ yɔrɔ. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Mɔgɔ bɛ kɛ ɲɛmɔgɔ dɔ ye, ani ɲɛmɔgɔ dɔ bɛ ɲɛ dɔ ni dɔ. Ka kuma kɛ ni a bɛ kɛ bi, ka tɛ a tɔgɔ ɲɛ.
 
-## Can pictures and activities make conversation easier?
+## Sɛbɛn ni ɲɛfɛ bɛ kuma kɛ ka ɲɛ wa?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ɔn. Ɲɛ kelen bɛ hakilina kɛ, ani a bɛ fɛn kɛ ka ɲɛ ni ɲɛ.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Sɛbɛn ɲɛfɛ.** [Conversation Cards](/games/conversation-cards/) bɛ sɛbɛn ni kuma ɲɛfɛ ye, ka tɛ kuma kɛ.
+- **Ɲɛmɔgɔ sɛbɛn.** [Photo Pairs](/games/photo-pairs/) bɛ sɛbɛn min i ye sugandi, ka kɛ o ye ɲɛ ye, ani o bɛ kuma sɔrɔ.
+- **Kuma ɲɛfɛ.** [Finish the Saying](/games/finish-the-saying/) bɛ kuma ɲɛfɛ ye, ka kuma tɛmɛ ka kɛ.
+- **Ɲɛ ka kɛ, kuma kɛ.** [Picture Pairs](/games/picture-pairs/) bɛ i ka bolo kɛ ka kuma kɛ.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+[Ka o kɛ ka o kɛ](/caregiving/how-to-play-together/) ani [ka kuma ɲɛfɛ](/activities/reminiscence/) bɛ kɛ ka ɲɛ. Ni i bɛ taa ka ɲɛ walima ka wele, i ka [taa ɲɛ](/activities/visiting/) ni [wele](/activities/phone-and-video-calls/) ɲɛfɛ.
 
-## What if I lose my patience?
+## Ni ne ka hakili bɛ ban?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+O bɛ kɛ mɔgɔ bɛɛ la. NIA ka fɔ ko ni i ka hakili bɛ ban, i ka waati ta ka hakili ɲɛ. I ka kɔnɔ ka sɔrɔ, ka dɔrɔn ka fɛn kɛ, ka kɔfɛ ka sɛgɛn. I bɛ kuma daminɛ kɔfɛ. Mɔgɔ bɛ ɲɛ ka ɲɛ ni i ka hakili ɲɛ. Ni hakili bán bɛ kɛ dɔrɔn, o bɛ kɛ ko i ka dɛmɛ caman kɛ, i tɛ ɲɛ ye. [Caregiver self-care](/caregiving/caregiver-self-care/) ka sɛbɛn bɛ yɔrɔ caman di.

@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Golle ngam hakkiilo hakkundeewo"
+seoTitle: "Golle hakkiilo hakkundeewo: miijooji newaaji"
+description: "Golle newaaji ngam hakkiilo hakkundeewo: kuuɗe galleeji, jimɗi, nate e fije newaaje, e no feewnortoo e no waylitirde hankadi e huunde nde waɗetee."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  E hakkiilo hakkundeewo, golle ɓurɗe moƴƴude ko ɗe juutataa, ko ɗe anndiraaɗe
+  tee ko ɗe taƴiraaɗe e palle gootel gootel: joɓɓinde dolokkaaji, suɓaade
+  calze, looƴude laaɓe, yimde, yahde yahngo e wallondiral, albamaa nate e fije
+  nate newaaje. Feewnoro ɗum, hollu palol aranol, ar e palle ɓurɗe sattude tee
+  hokku golle ngal faandaare. Dartin so ɗum nattii welde.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Kuuɗe galleeji anndiraaɗe ina golla no feewi sabaabu ina nanndi ko nafa e ko neɗɗaagal."
+  - "Hollu ɗoon e ɗoon, hokka palol gootol sahaa fof, tee hokka cuɓe ɗiɗi newiɗe ɗo naamnaango udditiingo."
+  - "Ar e palol ɓurɗngol sattude mbele neɗɗo o ina waawa waɗde palol welngol."
+  - "Jikku hankadi ena waawi firtude wonde neɗɗo o ina sokli huunde nde waɗata. Hokkir mo golle nde yahdi e ɗum ɗo wi'ude «alaa»."
+  - "Ndaarde, wallitde seeɗa, walla dartannde law ina moƴƴi fof."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Hol golle ina moƴƴi ngam hakkiilo hakkundeewo?"
+    a: "Golle juutataaɗe, anndiraaɗe, ɗe juuɗe kuutorii ina golla no feewi: joɓɓinde tawle, jokkondirde calze, looƴude laaɓe, feewnude taabal, yimde e jimɗi ɓennuɗi, yahde yahngo e wallondiral, ndaarde albamaa nate e fije nate newaaje. Taƴu heen fof e palle gootel gootel tee waɗee ɗum e wondude."
+  - q: "Hol no mbaawmi wallirde neɗɗo wonnduɗo e hakkiilo fuɗɗaade golle?"
+    a: "Feewnoro fof, caggal ɗuum fuɗɗo golle ngal e hoore maa tee noddiraa mo wallude: «Aɗa waawi wallude kam e ɗee tawle?» Yimɓe heewɓe ina yiɗi tawtoreede kono ina ɓe sattana fuɗɗaade. Hollude palol aranol ina golla ɓuri sifaade."
+  - q: "Hol ko mbaɗatmi so o ina jokki waɗde huunde wootere sahaa kala?"
+    a: "Fillitagol ina waawi wonaade bone tee ena waawi wonde maande wonde neɗɗo o ina yiɗi humpitaade walla ina sokli hoolaare. Ɗo jaɓɓitde, hokkir mo golle nde yahdi e dille makko, yeru kondo tawle looƴaaɗe ngam joɓɓinde walla jimol ngam yimde e wondude."
+  - q: "Hol so o waɗii golle ngal feewaani?"
+    a: "So wonaa bone, accu ɗum hono nii. Tawle joɓɓinaaɗe no feewaani walla kuccuɗe ɗe ngonaani e nokku mum alanaa hay huunde. Jaɓɓitgol ena waawi nannde wa ko felnaango, kono waɗde ɗum no o yiɗiri nii ina walla mo waɗtude hoore makko mo waawi e mo nafa."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Tolno hakkundeewo hakkiilo ko heewi wonde tolno ɓurngo juutde, tee ko tolno ngo golle puɗɗotoo soklude ballal goongawal. Konngol ina ustoo weeɓde, palle ina jiltoo, tee fuɗɗaade hay huunde ina waawi sattude. Kono faale nafa e tawtoreede ina heewi heddude. E feewnugol seeɗa, neɗɗo wonɗo e hakkiilo hakkundeewo ina waawi haa jooni weltaade e geɗe keewɗe, haa teeŋti e kuuɗe galleeji anndiraaɗe, jimɗi e nate ɗe waɗetee kañje e maa.
 
-## What activities work well in middle-stage dementia?
+## Hol golle ina moƴƴi no feewi e hakkiilo hakkundeewo?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Golle juutataaɗe, anndiraaɗe, ɗe juuɗe kuutorii, taƴiraaɗe e palle gootel gootel ina ɓuri moƴƴude. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) ina wi'a a soklaani miijtaade geɗe kese ngam waɗde: golle ena mbaawi wonde e nguurndam ñalnde kala, yeru defirde ñaametee e wondude, remude, heɗaade jimɗi walla yahde yahngo.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ina hollita wonde yimɓe wonɓe e ngoo tolno ina heewi jogiinde sokla tiiɗɗo faandaare walla toppitaade huunde, tee ina ɓe sokli ballal ngam fuɗɗaade walla jokkude golle. Doggol majje ngam tolno hakkundeewo ina waɗi joɓɓinde dolokkaaji, looƴude laaɓe, suɓaade calze, dillere newnde, wijjude e jimɗi anndiraaɗi, yahde yahngo e wallondiral, yimde e wondude, natirde newnde e ndaarde albamaa nate.
 
-## How do you set up an activity so it works?
+## Hol no feewnortoo golle mbele ina golla?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Golle keewɗe ina moƴƴa walla ina lora ko e feewnugol. Ɗee jikkuuji, ƴettaaɗi e [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), ina mbaɗa waylowaylo ɓurɗo mawnude:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Laɓɓin nokku o.** Ñif tele o, ombin baafal ngal tee waɗu toon tan ko golle ngal sokli.
+2. **Fuɗɗo e hoore maa.** Fuɗɗo joɓɓinde walla woɗɗude tee noddiraa mo naatde: «Aɗa waawi wallude kam e ɗum?»
+3. **Hollu, caggal ɗuum sabbo.** Hollu palol gootol. Tinnoro walla ɗowu e juŋngo maa, yeru hollude ɗo lahal ngal fawetee.
+4. **Hokku palol gootol sahaa fof.** «Joɓɓin ɗum rewrude e ɗiɗi» ina ɓuri weeɓde e «joɓɓin ɗeeɗoo tee joɗɗin ɗe no nooneeji mum en nih».
+5. **Hokku cuɓe ɗiɗi, wonaa naamnaango udditiingo.** «Tawle bule ɗe walla ɗe daneeje ɗe?» ina ɓuri weeɓde jaabaade e «Hol ko njiɗɗaa waɗde?»
+6. **Waɗ palol sattungol e hoore maa.** Aan a ɓetat, kañum o woɗɗita. Aan a naatira meselaagal ngal, kañum o winda gaara ngal.
+7. **Hokku ɗum sabaabu.** «Ɗee sarwette ko ngam ñaametee ñalnde alet» ina waɗa golle ngal nannde ko goonga.
+8. **Accu mo ndaara so o yiɗii.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ina hollita wonde ndaarde tan kadi ena waawi welde.
 
-## Activity ideas for the middle stage
+## Miijooji golle ngam tolno hakkundeewo
 
-### Useful jobs
+### Kuuɗe nafooje
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Joɓɓinde tawle e tawle looƴaaɗe.** Piiji pamarɗi, leppiɗi ko ɗi ɓurɗi weeɓde. Kondo tawle looƴaaɗe nguli ina waawi joɓɓineede, leŋteede tee joɓɓiteede kadi.
+- **Jokkondirde calze.** Fuɗɗoro e calze ɗiɗi walla tati ɗe ceertuɗe no feewi. Suɓaade tan no nooneeji mum en nih ina moƴƴi kadi.
+- **Looƴude walla yoorude laaɓe ɗe ɓosoaani.** Ndiyam ngulam, saabuundu ina weli e juuɗe. Yoorude e jooɗaade ina ɓuri weeɓde e koyɗe.
+- **Feewnude taabal.** Hokku fannu piiji gooto sahaa fof, tee feewnu nokku gooto e hoore maa ngam yerondirde.
+- **Wallude e defirde ñaametee.** Looƴude pute, seekaade salaat walla woɗɗude e bol. Aan a toppitii mbelkaaji e nguleeki.
+- **Fiɗaade, ittaade mbullaari walla momtude.** Wutte ngam taabal ngal, fiɗotoongal pammareengal ngam baloŋ ngal.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Yah to [kuuɗe galleeji](/activities/household-tasks/) ngam heɓde goɗɗe keewɗe.
 
-### Music and movement
+### Jimɗi e dille
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Yimde jimɗi ɓennuɗi.** Fuɗɗo yimde e hoore maa; yimɓe heewɓe ina naata e jimɗi ɗi ɓe anndi gila duuɓi keewɗi. Yah to [golle jimɗi](/activities/music/).
+- **Wijjude no welaa fof.** Yeeɓaade, fiyde juuɗe walla dillude no welaa fof. Jooɗaade ina moƴƴi.
+- **Bugude balloŋ.** Ina dilla seeɗa seeɗa tee ina weeɓi nangde e jooɗaade.
+- **Yahde yahngo e wallondiral.** Yahee laawol daɓɓol, anndangol e wondude, juŋngo e juŋngo so ɗum ina walla.
 
-### Pictures and stories
+### Nate e daartol
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Ndaarde albamaa nate.** Haal ko njiɗɗaa e ko ɗum hollata ɗo naamnaade naamne: «Ndaare ngol oto. Haalan kam fii mum.» Yah to [golle ciftorgol](/activities/reminiscence/).
+- **Huutoraade karte yeewtere.** [Karte yeewtere](/games/conversation-cards/) ina jokkondira natal e naamnal udditiingal, ngal aldaa e ƴeewndo.
+- **Ndaarde fiilu ɓennundu e wondude.** Suɓo mo anndiraa, wonu ɓadii mum tee dartin ngam fowtaade.
 
-### Simple, pressure-free games
+### Fije newaaje, ɗe aldaa e tiiɗnugol
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Jokkondire nate ɗe nate mum en hollata.** [Jokkondire nate](/games/picture-pairs/) ina accu nate ɗe ina kollaa, ɗum noon ko teskaade, wonaa siftorde.
+- **Yiytu nanndo.** [Yiytu nanndo](/games/find-the-same/) ina hollu natal gootol e cuɓe ɗiɗi haa nayi tan.
+- **Suɓaade e wondude.** [Suɓaade e wondude](/games/sort-together/) ina nanndi e suɓaade dolokkaaji e yaynirde: tappu natal, caggal ɗuum kondo mum.
+- **Bingo nate.** [Bingo nate](/games/picture-bingo/) ina moƴƴi ngam mottondiral ɓesngu e dental yimɓe.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+So fijere fuɗɗiima addude mettu, dartin tee waɗ huunde woɗnde. Yah to [hol no fijirtee e wondude](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Waylitde hankadi e golle
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Jikkuuji hankadi walla fillitagol ina heewi jogiinde sabaabu. Family Caregiver Alliance ina hollita wonde neɗɗo jokkuɗo ittude huɗe e almariire ena waawi wonde ko etaade heɓde sokla humpitaade e nafa. Alzheimer's Association ina wasiyaa yoo ngol semmbe wayliree e golle nde yahdi e mum, ɗo dartinde ɗum tan.
 
-| What you see | Something to offer |
+| Ko njiɗɗaa | Huunde nde hokkortaa |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Momtude walla suɓɓude taabal | Wutte nguɗɗo e tornde yo o momtu taabal ngal |
+| Koyɗe dillooje walla fiyde | Jimol jogiingol doba moƴƴa ngam fiyde walla tappude e mum |
+| Ittude huɗe e almariije walla kaɓorɗe | Kondo dolokkaaji walla tawle looƴaaɗe ngam joɓɓinde e suɓaade |
+| Naamndaade naamnal gootal kadi | Hoolaare, caggal ɗuum jimol walla golle nde lollirɗon |
+| Yahde e dow e les | Yahngo e wondude, walla golle nde waɗi roondude piiji |
+| Mettugol kikiiɗe | Golle deeƴnde, anndiraande e ndaygu moƴƴo; yah to [hankadi kikiiɗe](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Tuma dartintee walla waylita laawol
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Dartin so a yiyii maande tampere, mettu, hersa walla aafo, yeru dillagol, siirtugol yeeso, duñƴude piiji walla wi'ugol «Mi waawataa». Alzheimer's Association ina wasiyaa etaade kadi e sahaa goɗɗo e ñalawma o walla weeɓnande golle ngal. Waññin mo. Salaade ena waawi iwrude e kulol walla e golle ngal ɓurde sattude; yah to [so o wi'i alaa](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Dartannde law ina moƴƴi. Jooɗaade tan e wondude e kadi teewu ina moƴƴi kadi. So mbaawkaaji ɓeydiima waylaade, miijooji wonɗi e [golle tolno sakkitiingo](/activities/late-stage/) ena mbaawi ɓurde yahdude, tee [golle 101](/activities/ideas/) ina jogii goɗɗe keewɗe ngam etaade.

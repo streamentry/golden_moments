@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Бясплатныя друкаваныя заняткі пры дэменцыі"
+seoTitle: "Бясплатныя друкаваныя заняткі пры дэменцыі: буйны шрыфт"
+description: "Бясплатныя друкаваныя заняткі пры дэменцыі: пошук слоў буйным шрыфтам, размалёўкі, карткі для размовы і бінга з малюнкамі, і парады, як іх добра надрукаваць."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments прапаноўвае бясплатныя друкаваныя заняткі пры дэменцыі:
+  пошук слоў буйным шрыфтам, размалёўкі, карткі для размовы з малюнкамі і
+  карткі бінга. Адкрыйце любую старонку гульні і націсніце кнопку «Друк».
+  Друкуйце вялікім простым шрыфтам на цяжкім аркушы, на адной старонцы —
+  адно заданне, і ламіруйце старонкі, якія хочаце выкарыстоўваць паўторна.
+  Простыя самаробныя матэрыялы, напрыклад старонка жыццёвай гісторыі ці
+  распісанне дня, таксама дапамагаюць.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Нашы друкаваныя заняткі бясплатныя: пошук слоў, размалёўкі, карткі для размовы і бінга. На кожнай старонцы гульні ёсць кнопка «Друк»."
+  - "Друкуйце вялікім простым шрыфтам з добрым кантрастам і на адной старонцы — адно заданне."
+  - "Цяжкі аркуш або картон лягчэй трымаць і цяжэй памяць. Старонкі можна ламінаваць і выкарыстоўваць паўторна з маркерамі для сухой дошкі."
+  - "Самаробныя матэрыялы, такія як старонка жыццёвай гісторыі, распісанне дня або падпісы з малюнкамі на дзвярах, простыя і карысныя."
+  - "Надрукаваная старонка — гэта запрашэнне, а не хатняе заданне. Калі зроблена толькі частка або нічога, гэта таксама добра."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Ці бясплатныя вашы друкаваныя заняткі пры дэменцыі?"
+    a: "Так. Пошук слоў, размалёўкі, карткі для размовы і бінга з малюнкамі на гэтым сайце можна бясплатна выкарыстоўваць і друкаваць. Адкрыйце старонку гульні і націсніце кнопку «Друк»."
+  - q: "Якія друкаваныя заняткі найлепшыя пры дэменцыі?"
+    a: "Найлепшыя друкаваныя матэрыялы — простыя, зразумелыя і прызначаныя для дарослых: пошук слоў буйным шрыфтам са словамі толькі па гарызанталі і вертыкалі, размалёўкі з выразнымі контурамі, карткі з малюнкамі, якія пачынаюць размову, і бінга з малюнкамі для групаў. Падбірайце занятак пад інтарэсы і цяперашнія магчымасці чалавека і трымайце па адным заданні на старонцы."
+  - q: "Як зрабіць друкаваныя матэрыялы лягчэй бачыць і выкарыстоўваць?"
+    a: "Выкарыстоўвайце вялікі просты шрыфт, цёмны колер на белым або крэмавым фоне і шмат прасторы. Друкуйце на цяжкім аркушы або картоне, каб старонка заставалася роўнай, выбірайце матавую паперу, каб зменшыць бліск, і выкарыстоўвайце планшэт або ніжнюю накладку, якая не слізгае, каб старонка не рухалася. Ламінаванне дапамагае захаваць старонкі даўжэй."
+  - q: "Ці можна друкаваць вашы заняткі для дома догляду або дзённай праграмы?"
+    a: "Так. Персанал па занятках можа друкаваць нашы старонкі для жыхароў і груп. Бінга з малюнкамі створана для груп і мае вядучага на экране, якога можна паказваць на тэлевізары або праектары."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Іноді лепшае заняткі — гэта аркуш паперы і ручка за кухоннym сталом. Для друкаваных матэрыялаў не патрэбна зарадка, пароль ці экран, і іх лёгка ўзяць з сабой на візіт або ў групу. Гэтая старонка апісвае бясплатныя друкаваныя заняткі на нашым сайце, як іх надрукаваць, каб іх было лёгка бачыць і трымаць, і некалькі простых самаробных матэрыялаў, якія сем'і і супрацоўнікі дзённых цэнтраў лічаць карыснымі.
 
-## What free printable activities do you offer?
+## Якія бясплатныя друкаваныя заняткі мы прапануем?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Мы прапануем чатыры бясплатныя друкаваныя матэрыялы. Адкрыйце любую з гэтых старонак гульні і націсніце кнопку **Друк**, каб атрымаць версію для друку.
 
-| Printable | What it is | Good for |
+| Матэрыял | Што гэта | Чаму добра |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Пошук слоў](/games/word-search/) | Пошук слоў буйным шрыфтам, дзе словы размешчаны толькі па гарызанталі і вертыкалі | Ціхі час з ручкай; для таго, хто любіў галаваломкі |
+| [Размалёўкі](/games/coloring/) | Старонкі для размалёўкі, якія можна надрукаваць або раскрасіць на экране | Спакойны творчы час; на любым этапе з дапамогай |
+| [Карткі для размовы](/games/conversation-cards/) | Карткі з малюнкамі і адкрытымі пытаннямі па тэмах, без экзамену | Візіты, званкі, сямейныя абеды, групы ўспамінаў |
+| [Бінга з малюнкамі](/games/picture-bingo/) | Карткі бінга з малюнкамі замест лічбаў і вядучы на экране | Дзённыя цэнтры, праграмы, сямейныя сустрэчы |
 
-### Large-print word search
+### Пошук слоў буйным шрыфтам
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Пошук слоў](/games/word-search/) выкарыстоўвае вялікія літары і захоўвае словы толькі па гарызанталі і вертыкалі, без дыяганалей і слоў задам наперад. Працуйце разам: адзін чытае слова са спісу, другі шукае яго. Калі знаходзіць словы цяжка, паспрабуйце разам абвесці першую літару кожнага слова або проста прачытаць спіс слоў услых і пагутарыць пра кожнае слова.
 
-### Coloring pages
+### Старонкі для размалёўкі
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Размалёўкі](/games/coloring/) можна надрукаваць для маркераў або каляровых алоўкаў, або раскрасіць на планшэце, націскаючы колер, а потым частку малюнка. Для друкаваных старонак прапануйце тоўстыя маркеры і некалькі колераў за раз. Глядзіце наш [дапаможнік па мастацтве і рукадзеллі](/activities/arts-and-crafts/), каб размалёўка заставалася дарослым і спакойным заняткам.
 
-### Conversation cards
+### Карткі для размовы
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Карткі для размовы](/games/conversation-cards/) спалучаюць выразны малюнак з адкрытым пытаннем, напрыклад «Расскажыце пра...» або «Што вы заўважаеце?». Яны напісаны як адкрытыя запрашэнні, а не як пытанні экзамену. Надрукуйце камплект, разрэжце карткі і трымайце некалькі ў сумцы для візітаў або каля тэлефона для званкоў. Яны таксама добра падыходзяць для групаў [успамінаў](/activities/reminiscence/).
 
-### Picture bingo cards
+### Карткі бінга з малюнкамі
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Карткі [бінга з малюнкамі](/games/picture-bingo/) выкарыстоўваюць малюнкі замест лічбаў. Надрукуйце адну картку на аднаго ўдзельніка і выкарыстоўвайце вядучага на экране ноўтбука, тэлевізара або праектара. Мы раім працягваць гульню, пакуль у кожнага не запоўніцца картка, каб ніхто не застаўся без увагі. Глядзіце [групавыя заняткі для дамоў догляду](/activities/care-home-groups/), як правесці сесію.
 
-## How do I print activities so they are easy to use?
+## Як друкаваць заняткі, каб імі было лёгка карыстацца?
 
-Small changes in how you print make a big difference.
+Невялікія змены ў друку маюць вялікае значэнне.
 
-### Make it easy to see
+### Каб было лёгка бачыць
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Вялікі просты шрыфт.** Выкарыстоўвайце найбуйнейшы памер, які ўмяшчаецца на старонку. Пазбягайце ўзорыстых і рукапісных шрыфтаў.
+- **Добры кантраст.** Цёмны колер на белым або крэмавым аркушы. Не выкарыстоўвайце бляклы шэры ці каляровы фон.
+- **Матавая папера** змяншае бліск пад яркім святлом.
+- **Праверце акуляры і асвятленне.** Alzheimer's Association адзначае, што праблемы са зрокам і слыхам могуць ускладняць зносіны, і раіць рэгулярна правяраць іх. Добрая яркая лямпа таксама дапамагае.
 
-### Make it easy to hold
+### Каб было лёгка трымаць
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Цяжкі аркуш або картон** не скручваецца, лягчэй узяць і вытрымлівае паўторнае выкарыстанне.
+- **Планшэт з заціскам** або ніжняя накладка, якая не слізгае, не дае старонцы зрушвацца.
+- **Тоўстыя маркеры або масіўныя алоўкі** лягчэй захопліваць, чым тонкія ручкі.
 
-### Make it reusable
+### Каб можна было выкарыстоўваць паўторна
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Ламінуйце старонкі** або ўкладвайце іх у празрыстыя кішэні. Выкарыстоўвайце маркеры для сухой дошкі на пошуку слоў і картках бінга, а потым выцірайце.
+- **Выбірайце матавыя плёнкі**, калі бліск замінае, і **закругліце вуглы** ламінаваных картак ножніцамі, каб імі было зручна карыстацца.
+- **Захоўвайце папку** з улюбёнымі матэрыяламі, каб не друкаваць адну і тую ж старонку кожны тыдзень.
 
-### Keep it simple
+### Трымайце проста
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Адно заданне на старонку.** Адзін пошук слоў або адзін малюнак, а не некалькі заняткаў, сабраных разам.
+- **Шмат белай прасторы.** Перагружаная старонка можа здавацца прыгнятальнай.
+- **Без інструкцый для чытання, дзе магчыма.** Пакажыце чалавеку, што рабіць.
+- **Скарачайце аркушы.** Калі цэлая старонка занадта шмат, разрэжце яе напалову або складзіце, каб было відаць толькі частку.
 
-## Other useful printables you can make at home
+## Іншыя карысныя друкаваныя матэрыялы, якія можна зрабіць дома
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Не кожны карысны друкаваны матэрыял — гэта гульня. Гэтыя лёгка зрабіць у тэкставым рэдактары і на прынтары.
 
-### A life-story page
+### Старонка жыццёвай гісторыі
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Старонка «пра мяне» на адным аркушы з фота, імем, якім чалавек любіць, каб яго называлі, месцам, дзе ён вырас, працай, сям'ёй, любімымі стравамі, музыкай, а таксама тым, што суцешвае або засмучае. Dementia Australia раіць [кнігу ўспамінаў](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) з падрабязнасцямі пра жыццё, любімыя рэчы і важных людзей, каб дапамагчы наведвальнікам і тым, хто даглядае, і падтрымаць размову.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Яна асабліва карысная ў бальніцах і новых установах догляду. NIA рэкамендуе даваць персаналу бальніцы [аркуш асабістай інфармацыі](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital), які змяшчае распарадак дня чалавека, пераважнае імя, любімае і нелюбімае, тое, што можа ўзбудзіць або засмучаць, і нявербальныя прыкметы болю.
 
-### A daily schedule
+### Распісанне дня
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Вялікі просты распарадак дня з часам, некалькімі словамі і маленькім малюнкам для кожнай часткі: сняданак, прагулка, абед, адпачынак, музыка, вячэра. [План штодзённага догляду](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) Alzheimer's Association раіць планаваць вакол лепшых часоў дня чалавека, са стабільным часам уставання і сну і балансам актыўнасці і адпачынку. Павесіце яго на ўзроўні вачэй, напрыклад на халадзільніку, і не рабіце з яго жорсткі рэжым. Глядзіце наш [дапаможнік па распарадку дня](/activities/daily-routine/) для больш падрабязнасцей.
 
-### Picture labels for rooms and drawers
+### Падпісы з малюнкамі для пакояў і шуфляд
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA раіць выкарыстоўваць яркія знакі або простыя малюнкі, каб [пазначыць ванную, спальню і кухню](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Тая ж ідэя працуе і для шуфляд і шафак: малюнак шкарпэтак на шуфляду з шкарпэткамі, кубкаў на шафу з посудам. Надрукуйце, ламінуйце і прыклейце.
 
-### A sorting set
+### Набор для сартавання
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Надрукуйце малюнкі з дзвюх простых катэгорый, напрыклад фрукты і кветкі або інструменты і кухонныя рэчы, на картон. Разрэжце іх і разам раскладзіце ў два кошыкі. Версія на экране — гэта [Сартаванне разам](/games/sort-together/).
 
-### Song lyric sheets
+### Тэксты песень
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Надрукуйце словы некалькіх любімых песень вельмі вялікім шрыфтам для сумеснага спеву. Нават людзі, якія ўжо мала чытаюць, могуць атрымліваць задавальненне, трымаючы аркуш.
 
-### A family photo page
+### Старонка з фотаздымкамі сям'і
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Адна старонка з чатырма-шасцю вялікімі фота сям'і, пад кожным — імя. Яна можа стаяць на стале, каб кожны мог узяць і пагаварыць пра яе. Подпісы дапамагаюць наведвальнікам і персаналу далучыцца да размовы, і нікому не трэба пытацца: «Хто гэта?»
 
-### A recipe card
+### Картка з рэцэптам
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Надрукуйце любімы сямейны рэцэпт вялікім шрыфтам. Выкарыстоўвайце яго, каб гатаваць разам або проста гутарыць пра стравы з мінулага.
 
-## How do I offer a printable without it feeling like homework?
+## Як прапанаваць друкаваны матэрыял, каб ён не выглядаў як хатняе заданне?
 
-Present it as something to share, not a test.
+Прадстаўце яго як нешта, чым можна падзяліцца, а не як тэст.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Сядзьце і пачніце самі.** «Я раблю гэты пошук слоў. Дапаможаце мне знайсці «сад»?»
+- **Працуйце разам.** Чаргуйцеся або адзін знаходзіць, а другі абводзіць.
+- **Ніколі не адзначайце правільна ці няправільна.** Кіраўніцтва Alzheimer's Association па [занятках дома](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) раіць засяроджвацца на працэсе, а не на выніку, і на задавальненні, а не на дасягненні.
+- **Пакідайце матэрыялы на відным месцы.** Тое ж кіраўніцтва раіць класці скрапбукі, фотаальбомы або старыя часопісы ў даступныя месцы. Надрукаваныя карткі і старонкі з фота могуць ляжаць на бакавым століку так жа.
+- **Спыняйцеся, калі захочаце.** Палова старонкі размалёўкі — добры пасляабедзенны час. Добра таксама адкласці старонку і выпіць гарбаты.
 
-## Where to find more
+## Дзе знайсці больш
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Прагледзьце ўсе [гульні і друкаваныя матэрыялы](/games/) або [заняткі для кожнага этапу](/activities/ideas/) для больш ідэй, з паперай і без яе.

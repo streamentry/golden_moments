@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Како изъбьрати приложєниꙗ о помрачєнии оума"
+seoTitle: "Изъборъ приложєнии о помрачєнии оума"
+description: "Съпомощь попєчитєлю: како изъбьрати приложєниꙗ и игрꙑ, изъбѣгати врѣмєнє и обꙗвлєнии, блюсти таиньство и съмотрити обѣтꙑ."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Прьвѣѥ помꙑсли, чьто приложєниѥ творити имать: тихоѥ възбꙋждєниѥ,
+  въспоминаниѥ, оумирєниѥ или събєсѣдованиѥ. Потомь изъбєри таковоѥ, ѥжє
+  подобаѥть силамъ чловѣка о н҄емьже пєчєши сѧ дьньсь, съ вєликꙑми
+  образꙑ, бєзъ врѣмєнє, оцѣнокъ и обꙗвлєнии, и съ лєгъкꙑмъ коньцємь.
+  Съмотри, кꙑꙗ дани сьбираѥть и ащє мощьно ѩ потрѣбити. Бѫди осмотривъ
+  о обѣтѣхъ, ꙗко приложєниѥ възбранꙗѥть или цѣлить помрачєниѥ оума:
+  ѥдино испꙑтаниѥ нѣсть доводъ.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Прьвѣѥ рѣши цѣль: възбꙋждєниѥ, въспоминаниѥ, оумирєниѥ или събєсѣдованиѥ трѣбоують различьнъ приложєнии."
+  - "Съгласи приложєниѥ съ силами чловѣка въ тъ дьнь, а нє съ имєнємь състоꙗниꙗ, и дрьжи оустроѥниѥ просто."
+  - "Остави приложєниꙗ съ врѣмєнємь, оцѣнками, животꙑ, рѧдꙑ, обꙗвлєнии или позꙑваниѥмь къ коуплєнию."
+  - "Съмотри събираньѥ дании, раздѣлєниѥ и потрѣблєниѥ. HIPAA обꙑчьно нє покрꙑваѥть простꙑхъ приложєнии."
+  - "Нє вѣроуи скоро обѣтомъ «възбранꙗѥть помрачєниѥ оума». Ѥдино испꙑтаниѥ или лоучьши оцѣнкꙑ въ приложєнии нѣсѫть доводъ."
+  - "Golden Moments ѥсть дѣꙗниѥ ради радости. Нє творить врачьскꙑхъ обѣтъ."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Могѫть ли игрꙑ оума възбранити помрачєниѥ оума?"
+    a: "Нѣсть добра довода, ꙗко коупьнꙑ приложєниꙗ игръ оума възбранꙗють или оукротꙗють помрачєниѥ оума. National Institute on Aging глаголѥть, ꙗко нѣсть довольна довода, да имѫть коупьнꙑ приложєниꙗ то жє дѣиство, ѥжє оустроѥноѥ оучєниѥ въ вєлицѣмь испꙑтании. Изъбєри приложєниꙗ ради радости и събєсѣдованиꙗ, а нє ꙗко лѣчьбѫ."
+  - q: "Покрꙑваѥть ли HIPAA приложєниѥ о помрачєнии оума?"
+    a: "Обꙑчьно ни. HIPAA обꙑчьно притѧжить къ цѣлитєлємъ, здравьнꙑмъ оустроѥниѥмъ и ихъ съпоꙋщьникомъ. Приложєниѥ, ѥжє самъ сънємлєши, обꙑчьно нє покрꙑваѥть сѧ, ащє нє дано ѥсть ѥдинѣмь отъ нихъ. Правило FTC о вѣсти здравьна прѣстѫплєниꙗ покрꙑваѥть мъногꙑ здравьнꙑ приложєниꙗ, ѩжє HIPAA нє покрꙑваѥть."
+  - q: "Како подобаѥть изглѧдати добрѣ игрѣ о помрачєнии оума?"
+    a: "Вєлици и ꙗсни образи и писмєна, ѥдино ꙗвьно дѣло на коѥмьждо лици, бєзъ врѣмєнє и оцѣнкꙑ, бєзъ звѫка о грѣсѣхъ, бєзъ обꙗвлєнии и съ лєгъкꙑмъ почиваниѥмь или коньцємь. Подобаѥть быти сътворєно за въздрастънꙑ и лєгъко и дроугоумоу присѫдити."
+  - q: "Обѣщаѥть ли Golden Moments помощи памѧти?"
+    a: "Ни. Golden Moments даѥть простꙑ събєсѣдьнꙑ дѣꙗниꙗ ради радости и бєсѣдꙑ. Нє познаваѥть, нє цѣлить, нє възбранꙗѥть и нє мѣрить помрачєниꙗ оума, и нє творимъ обѣтъ о памѧти или мꙑшлєнии."
+  - q: "Подобаѥть ли платити за приложєниѥ о помрачєнии оума?"
+    a: "Прьвѣѥ искоуси бєзъ мьздꙑ или на врѣмѧ бєзъ мьздꙑ, и съмотри, како чловѣкъ отъвѣщаѥть за дъвѣ сєдьмици. Мьзда нє творить приложєниꙗ лоучьша. Прѣждє подписаниꙗ съмотри, како оставити."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Съхранилища приложєнии пльна сѫть игръ, имєнованꙑхъ за старꙑꙗ, за памѧть или за помрачєниѥ оума. Нѣкоторꙑ сѫть добрѣ сътворєнꙑ. Инꙑ прилагають обѣтꙑ, ижє слꙑшѧть сѧ врачьскꙑ, врѣмѧ, ѥжє творить игрѫ испꙑтаниѥмь, или обꙗвлєниꙗ и събираньѥ дании. Си страница даѥть ти пѫть, како самомоу сѫдити о коѥмьждо приложєнии. Нє ставимъ ни єдиного производа прѣдъ дроугꙑмъ.
 
-## What should I decide before choosing a dementia app?
+## Чьто подобаѥть рѣшити прѣждє изъбора приложєниꙗ?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Рѣши, чьто приложєниѥ творити имать. «Игра за матєрь» можєть значити различьна, и доброѥ за ѥдинѫ цѣль чѧсто нє подобаѥть дроузѣи.
 
-| Goal | What it looks like | What to look for |
+| Цѣль | Како изглѧдаѥть | Чьсо искати |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Тихоѥ възбꙋждєниѥ | Съчетаниѥ, раздѣлєниѥ, простꙑ оугаданика, словєсьнꙑ игрꙑ | Мощь измѣнити трѫдъ, образи видими, бєзъ нѫждꙑ спѣшити |
+| Въспоминаниѥ | Старꙑ образи, знаѥмꙑ словєса, пѣсни отъ младиности | Твои образи, отворєни въпроси, бєзъ испꙑтаниꙗ |
+| Оумирєниѥ | Тихꙑ видѣниꙗ, тихꙑ гласꙑ, дꙑханиѥ, природа | Лєгъко начѧти и коньчати, ничьто нє блищаѥть, бєзъ нєчаꙗна |
+| Събєсѣдованиѥ | Игра или бєсѣда въкоупѣ, близъ или видѣниѥмь | Сътворєно за дъва, въпроси къ бєсѣдѣ |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Испꙑтаниꙗ о оустроѥнѣмь «помꙑсльнѣмь възбꙋждєнии» чловѣкъ живѫщихъ съ помрачєниѥмь оума обꙑчьно сѫть о съборѣхъ, ꙗжє вєдѫть оучєни, съ бєсѣдою, словєсьнꙑми играми, оугаданикꙑ, пѣсньми и творьствомь. [Съмотрєниѥ Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) обрѣтє малꙑ польѕꙑ въ срѣдѣ, различьнꙑ мєждоу испꙑтании. Таково събєсѣдьно и различьно дѣло нѣсть то жє, ѥжє ѥдино приложєниѥ, тѣмьжє приими коѥждо приложєниѥ ꙗко ѥдино дѣꙗниѥ мєждоу мъногꙑми.
 
-## How do I know if an app fits the person's abilities?
+## Како оувѣдѣти, ащє приложєниѥ подобаѥть силамъ чловѣка?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Съмотри, како чловѣкъ отъвѣщаѥть, а нє по имєни болѣзни или състоꙗниꙗ. Дъва чловѣка въ томьждє «състоꙗнии» могѫть различьно видѣти, слꙑшати, дрьжати рѫкꙑ, глаголати и чоувьствовати оустроѥниꙗ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) съвѣтꙋѥть помьнѣти прѣжьнѧ любьлєниꙗ и нꙑнѣшьнѧ силꙑ и дрьжати радость прѣдъ оуспѣхомь.
 
-Signs of a good fit:
+Знамєниꙗ добра съгласии:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- чловѣкъ починаѥть или присѫждаѥть сѧ бєзъ мънога нѫждєниꙗ;
+- оусмихаѥть сѧ, глаголѥть или повѣдаѥть;
+- грѣси ꙗвлꙗють сѧ нє мѫчити ѥго;
+- радъ ѥсть коньчати, ѥгда врѣмѧ ѥсть.
 
-Signs it is a poor fit:
+Знамєниꙗ зъла съгласии:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- чѧстꙑ словєса «нє могѫ» или «сє соуѥ ѥсть»;
+- нєразоумѣниѥ, чьто тиснѫти;
+- нєдовольство, стꙑдъ или отъриноутиѥ оустроѥниꙗ;
+- дѣло бꙑваѥть тъкъмо ащє тꙑ твориши почти вьсє.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Пєчаль ѥсть знамєниѥ, а нє нѣчто, ѥжє подобаѥть прѣмощи. Виждь [чьто творити, ѥгда чловѣкъ глаголѥть нѣтъ](/caregiving/when-they-say-no/). За дѣꙗниꙗ по състоꙗнию, а нє приложєниꙗ, виждь дѣꙗниꙗ [ранꙗѥго състоꙗниꙗ](/activities/early-stage/) и [поздьнꙗѥго състоꙗниꙗ](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Кꙑꙗ оустроѥниꙗ подобаѥть искати или изъбѣгати?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Ищи тиха, проста и въздрастьна оустроѥниꙗ, и изъбѣгаи вьсєго, ѥжє творить нѫждѫ.
 
-| Look for | Be wary of |
+| Ищи | Бѫди осмотривъ о |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Вєлици образи и писмєна, ꙗвьно различиѥ | Малꙑ знаци, пльна лица |
+| Ѥдино ꙗвьно дѣло на коѥмьждо лици | Мъного тиснѫтии, мєню или мъного стѫпъ |
+| Бєзъ врѣмєнє, или врѣмѧ ѥжє можєши оугасити | Съчтєниѥ, мьзда за скорость, «побѣди своѥ врѣмѧ» |
+| Бєзъ оцѣнкꙑ, или тихъ отъвѣтъ | Тъчькꙑ, животꙑ, рѧдꙑ, чинъ, «лѣта оума» |
+| Грѣси тихо приємлєми | Звѫци, чръвьнꙑ знаци, словєса «Нєправо» |
+| Въздрастьни, истиньни образи | Дѣтьскꙑ или игрьнꙑ образи |
+| Дѣлаѥть бєзъ сѣти, бєзъ имєнє на чѧло | Трѣбоуѥть имєнє, въхода или сънѧтиꙗ прѣждє начѧла |
+| Лєгъко почити и коньчати | Лица, ꙗжє просѧть пакꙑ играти или оцѣнити приложєниѥ |
+| Бєзъ обꙗвлєнии, ꙗсна цѣна ѥдиною или на врѣмѧ | Обꙗвлєниꙗ, чѧстꙑ позꙑви къ коуплєнию |
+| Лєгъко и дроугоумоу присѫдити | Тъкъмо за ѥдиного, съ рьвєниѥмь |
 
-Ads and purchase prompts are easy to tap by accident.
+Обꙗвлєниꙗ и позꙑви къ коуплєнию лєгъко тиснѫти нє хотѧщи.
 
-## How do I check an app's privacy?
+## Како съмотрити таиньство приложєниꙗ?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Съмотри, чьто приложєниѥ сьбираѥть, съ кꙑми раздѣлꙗѥть и ащє мощьно потрѣбити. Прѣждє сънѧтиꙗ:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Прочити съмотрєниѥ таиньства въ съхранилищи.** [Раздѣлъ о данихъ въ Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) и [съвѣдѣниѥ о таиньствѣ въ App Store](https://support.apple.com/en-us/102399) показоують даньнꙑ родꙑ, ѩжє приложєниѥ можєть сьбирати и раздѣлꙗти. Обѣ оустроѥнии глаголѥта, ꙗко творьци сами дають си съвѣдѣниꙗ, тѣмьжє сє ѥсть начѧло, а нє испꙑтаниѥ.
+2. **Въпроси, трѣбоуѥть ли имєнє.** Ащє приложєниѥ тъкъмо показоуѥть образꙑ или простꙑ игрꙑ, нє можєть быти потрѣбꙑ вѣдѣти твоѥ имѧ, писаниѥ или дьнь рожьства.
+3. **Съмотри дозволєниꙗ.** Трѣбоуѥть ли игра съчєтаниꙗ мѣсто, събєсѣдьникꙑ, гласъ или вьсѫ твоѭ книгоу образъ? Оугаси, ѥгожє нє трѣбоуѥть.
+4. **Ищи обꙗвлєниꙗ и слѣжєниѥ.** Остроѥниꙗ обꙗвлєнии и слѣжєниꙗ могѫть слати данꙑ о оупотрѣблєнии къ инѣмъ.
+5. **Оувѣжь, камо идѫть образи.** Ащє прилагаѥши домашьнѧ образꙑ, прѣбꙑвають ли на оустроѥнии или възносѧть сѧ? Можєши ли ѩ отъѩти?
+6. **Съмотри потрѣблєниѥ.** Ищи въ словѣ таиньства или въ съмотрєнии дании, како потрѣбити данꙑ и имѧ. Приложєниѥ, ѥжє глаголѥть, ꙗко данꙑ нє могѫть потрѣбити сѧ, трѣбоуѥть больша осмотрѣниꙗ, пачє ащє дрьжить образꙑ или здравьнꙑ съвѣдѣниꙗ.
+7. **Прочити слово таиньства** за ꙗснꙑ отъвѣтꙑ: чьто сьбираѥть сѧ, чьсо ради, колико врѣмєнє и съ кꙑми раздѣлꙗѥть сѧ.
 
-### Does HIPAA protect information in dementia apps?
+### Хранить ли HIPAA съвѣдѣниꙗ въ приложєниихъ о помрачєнии оума?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Обꙑчьно ни, и сє мъногꙑ чоудить. U.S. Department of Health and Human Services [изъꙗвлꙗѥть](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), ꙗко HIPAA притѧжить къ здравьнꙑмъ оустроѥниѥмъ, мъногꙑмъ цѣлитєлємъ, здравьнꙑмъ прѣноситєлємъ и ихъ съпоꙋщьникомъ. Въ мънозѣхъ нє хранить данꙑхъ, ѩжє вълагаѥши въ приложєниѥ за сѧ, ащє нє дасть приложєниꙗ таково оустроѥниѥ или ѥго съпоꙋщьникъ. Приложєниѥ о помрачєнии оума изъ съхранилища чѧсто ѥсть внѣ HIPAA, ащє и глаголѥть о здравии.
 
-### What protects health data in apps that HIPAA does not cover?
+### Чьто хранить здравьнꙑ данꙑ внѣ HIPAA?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Правило Federal Trade Commission о вѣсти здравьна прѣстѫплєниꙗ покрꙑваѥть мъногꙑ отъ нихъ. Въ лѣтѣ 2024 FTC [съконьча измѣнєниꙗ](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule), ꙗвлꙗѭщи, ꙗко правило притѧжить къ здравьнꙑмъ приложєниѥмъ и подобьнꙑмъ оустроѥниѥмъ внѣ HIPAA. «Прѣстѫплєниѥ» имать и нєповєлѣнꙑ раздѣлєниꙗ, а нє тъкъмо въломъ, и оустроѥниꙗ дльжьна сѫть вѣстити людьмъ и FTC. Сє ѥсть съхранєниѥ по зълѣ, а нє обѣтъ, ꙗко приложєниѥ сьбираѥть тъкъмо потрѣбьноѥ.
 
-## How should I read claims about research and evidence?
+## Како чьсти обѣтꙑ о испꙑтаниихъ?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Чьти обѣтꙑ о доводѣ тихо, и наипачє нє вѣроуи вєликꙑмъ обѣтомъ. Въпроси:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Чьто имьно бѣ испꙑтано?** Испꙑтаниѥ ѥдиного оучєниꙗ нє казати, ꙗко вьсѧкꙑ игрꙑ въ приложєнии дѣлають такожє.
+- **Къто бѣ испꙑтанъ?** Плодъ въ здравꙑхъ старꙑхъ можєть нє подобати чловѣкоу живѫщоу съ помрачєниѥмъ оума.
+- **Чьто бѣ мѣрєно?** Бꙑти лоучьшоу въ самои игрѣ нѣсть то жє, ѥжє измѣнєниѥ въ дьнєвьнѣмь житии, бєсѣдѣ, чоувьствѣ или самостои.
+- **Колико крѣпъко ѥсть испꙑтаниѥ?** Слоучаиноѥ испꙑтаниѥ (RCT) съравьнꙗѥть чрѣдѫ съ приложєниѥмь и чрѣдѫ бєзъ нєго. Сє ѥсть добръ чинъ, нъ ѥдино мало или кратъко испꙑтаниѥ нѣсть доводъ. Ищи мъногꙑхъ испꙑтании отъ свободьнъ испꙑтатєль, ꙗжє съгласѧть сѧ.
+- **Обѣщаѥть ли измѣнити болѣзнь?** Испꙑтаниѥ, ѥжє показоуѥть малꙑ оуспѣхꙑ на мѣрѣ, нѣсть доводъ, ꙗко приложєниѥ оукротꙗѥть, възбранꙗѥть или цѣлить помрачєниѥ оума.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Страница National Institute on Aging о [помꙑсльнѣмь здравии старꙑхъ](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) повѣдаѥть о вєлицѣмь испꙑтании оустроѥна помꙑсльна оучєниꙗ, и потомь прѣдъостєрѣгаѥть о обѣтѣхъ, ꙗко нѣкоторꙑ игрꙑ могѫть оулоучьшити памѧть и мꙑшлєниѥ. Глаголѥть, ꙗко нѣсть ѥщє довольна довода, да имѫть коупьнꙑ приложєниꙗ то жє дѣиство, ѥжє оучєниѥ въ томь испꙑтании. Можєши чьсти вѧщє въ нашемь словѣ о [играхъ оума и доводѣ](/brain-health/brain-games/) и [чьто испꙑтаниꙗ глаголють о възбранѥнии помрачєниꙗ оума](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Кꙑи ѥсть ꙗвьнъ образъ прѣльстьна обѣта?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Въ мѣсѧци ꙗноуари лѣта 2016 FTC [изъвѣсти о съгласии](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) съ творьци Lumosity, производа «оучєниꙗ оума». FTC глагола, ꙗко оустроѥниѥ обѣща, бєзъ довольна довода, ꙗко ѥго игрꙑ могѫть одрьжати помꙑсльноѥ оумалєниѥ отъ лѣтъ и хранити отъ лєгъка помꙑсльна повреждєниꙗ, помрачєниꙗ оума и болѣзни Альцхаимєра. Оустроѥниѥ съгласи дати 2 милиона и имѣти крѣпъкъ и вѣрьнъ доводъ прѣждє таковꙑхъ обѣтъ. Сє дѣло поминаѥть, ꙗко словєса коупьства нѣсѫть доводъ.
 
-### Which words are red flags?
+### Кꙑꙗ словєса сѫть знамєниꙗ?
 
-Be cautious when an app or ad says it:
+Бѫди осмотривъ, ѥгда приложєниѥ или обꙗвлєниѥ глаголѥть, ꙗко:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- «възбранꙗѥть», «възвращаѥть», «оставлꙗѥть» или «цѣлить» помрачєниѥ оума или болѣзнь Альцхаимєра;
+- ѥсть «врачьскꙑ довєдєно» бєзъ имєнє испꙑтаниꙗ, къто бѣ въ н҄ємь и чьто бѣ мѣрєно;
+- даѥть «лѣта оума» или оцѣнкѫ памѧти, ꙗко познаниѥ;
+- «острить», «въздвигаѥть» или «оучить» оумъ;
+- оупотрѣблꙗѥть съвѣдѣтєльства ꙗко доводъ.
 
-If you are unsure about a claim, ask the person's doctor.
+Ащє нєси извѣстьнъ о обѣтѣ, въпроси цѣлитєлꙗ чловѣка.
 
-## Where does Golden Moments fit?
+## Къдє ѥсть Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments даѥть простꙑ събєсѣдьнꙑ дѣꙗниꙗ, а нє испꙑтаниѥ памѧти, цѣлєниѥ или врачьскъ съвѣтъ. Нашѧ игрꙑ, ꙗко [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) и [Calm Breathing](/games/calm-breathing/), сѫть сътворєнꙑ ради радости и бєсѣдꙑ. Нє познавають, нє цѣлѧть, нє възбранꙗють и нє мѣрѧть помрачєниꙗ оума, и нє творимъ обѣтъ о памѧти или мꙑшлєнии.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Творимъ такожє приложєниѥ бєзъ мьздꙑ, [Golden Moments за iPhone, iPad и Android](/app/). Имать тихо съчєтаниѥ образъ съ вєликꙑми плочами, игрꙑ съ домашьнїими образꙑ, ѩжє тꙑ изъбираѥши, и книгоу образъ, ꙗжє дѣлають бєзъ сѣти, бєзъ имєнє, обꙗвлєнии, врѣмєнє и оцѣнкꙑ. Тъ жє съмотритєль подобаѥть: знамѧ таиньства въ App Store глаголѥть «Дани нє сьбирають сѧ», и [слово таиньства приложєниꙗ](/app-privacy/) изъꙗвлꙗѥть, къдє дрьжѧть сѧ прѣписи образъ.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Хощємъ, да тꙑ сѫдиши о насъ, а нє тъкъмо вѣроуѥши намъ. Оупотрѣби съмотритєль сєѩ страницѧ, прочити нашѫ [страницѫ таиньства](/privacy/) и [врачьскоѥ отърєчєниѥ](/medical-disclaimer/), и остави вьсѧко дѣло, и нашє, ащє нє подобаѥть чловѣкоу о н҄емьже пєчєши сѧ.
 
-## What is a sensible way to try a new app?
+## Кꙑи ѥсть добръ чинъ искоусити ново приложєниѥ?
 
-Try it together for a couple of weeks and watch what happens.
+Искоуси ѥ въкоупѣ за дъвѣ сєдьмици и съмотри, чьто бꙑваѥть.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Оустрои прьвѣѥ** по нашемоу [словоу о оустроѥнии плочѧ и тєлєфона](/caregiving/tablets-and-screens/), и почьни отъ наилєгъчаꙗго стѫпєни.
+2. **Дрьжи врѣмѧ кратъко,** съмотри оусмѣхꙑ, бєсѣдѫ и тихость, и коньчаи въ добръ часъ.
+3. **Остави ѥ, ащє творить нєдовольство,** ащє и мъногꙑ хвалѧть ѥ.

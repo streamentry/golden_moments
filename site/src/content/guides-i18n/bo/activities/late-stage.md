@@ -1,32 +1,28 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "བརྗེད་ནད་མཐའ་མའི་ཉམས་ལེན། ཉལ་ཁང་དང་སྟན་ལ་ཡང་ལྡན།"
+seoTitle: "བརྗེད་ནད་མཐའ་མའི་ཉམས་ལེན། ཉལ་སྟན་གྱི་བསམ་ཚུལ།"
+description: "བརྗེད་ནད་མཐའ་མའི་ཞི་བདེའི་ཉམས་ལེན། ཉལ་ཁང་པའམ་སྟན་ལ་བཞུགས་པའི་མི་ལ་ཡང་ཆོག་པ། རོལ་མོ། ལག་རེག། ཀློག་པ། སྒྲ་དང་། ཁྱེད་ཀྱི་ཉེ་འབྲེལ་རང་ཉིད་ཀྱང་ཉམས་ལེན་ཡིན། སྲུང་སྐྱོབ་ཀྱི་གནད་དོན་དང་བཅས།"
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  བརྗེད་ནད་མཐའ་མའི་སྐབས་སུ། ཉམས་ལེན་ཚང་མ་ལ་དབང་བ་ནི་སྐར་ལྟའི་ཤེས་རྟོགས་དང་ཁྱེད་ཀྱི་ཉེ་འབྲེལ་ཡིན། དཔེར་ན། སྣང་བདེའི་རོལ་མོ་གཟེངས་ཀྱིས་ཁ་ཤས་ལག་པ་འཛིན་པ། ལག་པ་ཉེ་བར་བསྐུ་བ། ཀློག་པ་ཁ་ཤས་ཀློག་པ། པར་ཁ་ཤས་ལྟ་བ། སྒྲ་ཆུ་རླུང་དང་ཤར་ཕྱོགས་ཀྱི་སྒྲ་ཉན་པ། དེ་བཞིན་སྒོ་མ་ནས་ཉི་མ་ལྟ་བ་སོགས་ཡིན། འདི་དག་ཉལ་ཁང་དང་སྟན་གཉིས་ལ་ཡང་ཆོག་ཡོད། ཉམས་ལེན་ཐུང་ངུ་བྱེད། ཞལ་དང་ལག་པ་ལ་བལྟས་ནས་སྐྱིད་སྡུག་ལ་ཞིབ་ཆ་བྱེད། ཁྱེད་ཀྱི་ཉེ་འབྲེལ་རང་ཉིད་ཀྱང་ཉམས་ལེན་ཡིན་པ་ཤེས་པར་བྱོས།
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "མཇུག་མ་ལྟ་བུའི་སྐབས་སུ་འབྲེལ་བ་ཡོད་པ་ཉིད་ཡོད། མཐའ་མར་འཇིག་རྟེན་ནི་ཤེས་རྟོགས་ཀྱི་སྒོ་ནས་བརྟག་ཞིབ་བྱེད།"
+  - "རོལ་མོ། ལག་པའི་ཉེ་བའི་རེག་ཚོར། ངག་གི་ཉེ་བའི་སྒྲ་དང་། ལག་ཏུ་བཟུང་བའི་ཡོ་ཆ་ཉེ་བ་ཞིག་ཡང་། ཚིག་ཡོད་པར་མ་ཟད། མི་ཞིག་ལ་ཡང་སྣང་བ་བྱེད་ཡོད།"
+  - "འདིའི་ཉམས་ལེན་གྱི་ཁ་ཤས་ལ་ཉལ་ཁང་ངམ་སྟན་ལ་བཞུགས་པའི་མི་ལ་ཡང་ཆོག་པ་ཡིན།"
+  - "མདོག་དང་ལག་པ་དང་ཁ་བརྡའི་ལས་ཀྱིས་ཞི་བདེ་ཡིན་པ་ཡང་སྡུག་པ་ཡིན་པ་ཡང་ལྟ། སྡུག་པའི་རྟགས་ཅི་ཡང་སྣང་ན་ཞིང་དེར་བཞག་པ་ཡིན།"
+  - "གྲུ་མ་དང་ཁ་ཆུ་ལ་སྐོར་བ་བྱེད་པ་ནི་ཁ་གསུང་གི་ཁ་ལས་ཀྱི་ཀླད་ཀ་ཡིན་ན་འཁྲུལ་པ་ཡོང་ཞིང་། སྲོག་ཆགས་ཀྱི་ཁ་གཏོང་བྱ་དགོས་པ་ཡིན་ཚེ། སྲུང་སྐྱོབ་ཀྱི་ཁ་བྱེད་ཀྱི་ཤེས་པ་ལས་ཀྱང་སྤོ་བ་བྱེད་དགོས།"
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "བརྗེད་ནད་མཐའ་མ་ཡོད་པའི་ནད་པ་ཉལ་ཁང་དུ་ཡོད་ན། ཉམས་ལེན་ཅི་བྱེད་ཆོག་ཡོད་དམ།"
+    a: "རང་ལ་དགའ་བའི་རོལ་མོ་གཟེངས་ནས་ཉན་ཐུབ། ལག་པ་ཉེ་བར་བསྐུ་ཐུབ། ཞུ་ཀ་དང་བཅས་པའི་ཟླ་བ་ལ་ཉེ་བར་བསྐུ་བ་ཞིག་བྱེད་ཐུབ། དེ་ནས་དགའ་བའི་དེབ་ཡང་ཡང་ཁ་ཤས་ཀློག་ཐུབ། པར་ལྟ་བ་ཡང་བྱེད་ཐུབ། སྒྲ་ཆུ་རླུང་ཞི་བདེ་ཅན་ཡང་ཁ་ཤས་གཟེངས་ཐུབ། སྒོ་མ་ཕྱེ་ནས་ཕྱིའི་ཉི་མ་ལྟ་བའི་སྐབས་ཀྱང་སྤྲོ་བཏང་ཐུབ། ཉམས་ལེན་ཐུང་ངུ་དང་ཞི་བདེ་ཅན་ནང་ཚན་གཅིག་གི་ལས་ཀྱིས་ཡང་ཡང་ལེགས་པ་སྣང་ཡོད།"
+  - q: "བརྗེད་ནད་མཐའ་མ་ཡོད་པའི་མི་ལ་རོལ་མོ་དགའ་ཐུབ་ཡོད་དམ།"
+    a: "ཁ་ཤས་ཐུབ། Alzheimer's Association ནས་བཀོད་པ་ལྟར། མཐའ་མའི་སྐབས་སུ་ཡང་མི་ཞིག་གིས་རོལ་མོའི་རྒྱུན་ལ་ལག་པ་བརྡུང་ཐུབ་པ་དང་། ཆུང་ངུའི་སྐབས་ཀྱི་གླུ་ལ་གཟེངས་ཐུབ་པ་སྲིད་ཡོད། ཁོ་ཚོ་ཆུང་ངུའི་སྐབས་སུ་དགའ་བའི་རོལ་མོ་ཁོ་ན་འདེམས་ལ། སྒྲ་ཆུང་ངུར་བཞག་ན་ལེགས་སོ།"
+  - q: "ཁོ་ཚོས་ཉམས་ལེན་ཞིག་ལ་དགའ་བ་ཡོད་མེད་ཇི་ལྟར་ཤེས་ཐུབ།"
+    a: "ཕྲ་མོའི་རྟགས་ཁ་ཤས་ལ་ལྟ་དགོས། དཔེར་ན། ཕྲུད་མདོག་ལ་གཏོང་བ། ཞལ་དང་ཕྲ་མོ་ཞི་བ། མིག་ཕྱོགས་ཀྱི་མཐུན་པ། ཚིག་ཚུལ་ལ་གླུ་ཁ་སྒྲོག་པ། ལག་པ་ཉེ་བར་བསྐུ་བ། ཡང་ན་ཕྲ་མོ་ལྷོད་པ་སོགས་ཡིན། ཞལ་རྣམས་སྡུག་པའམ་སྐྱོ་བ་བྱེད་པ། ལུས་ཕྱོགས་ལས་འགྱུར་བ། སེམས་ཤུགས་སྨྲང་པ་སོགས་སྡུག་པའི་རྟགས་ཡིན་ཐུབ། འདི་དག་སྣང་ན་ལས་ཞིང་ཁྲིམས་ཀྱི་ཚོགས་ལ་བརྡ་སྤྲོད་དགོས་ཚེ་ཉེན་ཁ་ཆེན་པོ་འགྲོ་སྲིད།"
+  - q: "ཁོ་ཚོས་ང་ལ་ངོས་མ་འཛིན་ཡང་། ཁྱེད་ཀྱིས་ཐུག་འཕྲད་ཀྱི་ཡོང་སྲིད་ཡོད་དམ།"
+    a: "ཡོད། National Institute on Aging ནས་བཀོད་པ་ལྟར། སྐྱེ་བོ་ཁྱེད་ཀྱི་ཉེ་འགྲོ་ཙམ་ཡང་ཞི་བདེ་ཡིན་ཐུབ། བརྗེད་ནད་མཐའ་མར་ཡང་རེག་ཚོར། རོལ་མོ་དང་ཆ་ལུགས་ཀྱིས་སྐྱིད་བདེ་སྟེར་ཐུབ་པ་ཡིན། ཁྱེད་ཀྱི་མིང་ངོས་མ་འཛིན་ཡང་ཁྱེད་ཀྱི་སྐད་དང་ལག་རེག་ལ་གྲགས་པ་ཡིན་སྲིད།"
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +44,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+བརྗེད་ནད་མཐའ་མའི་སྐབས་སུ། མི་ཞིག་གིས་ཚིག་ཉུང་ངུ་སྨྲ་ཐུབ་ཅིང་། སྤྱོད་ལམ་ཚང་མ་ལ་རོགས་རམ་དགོས་ཞིང་། ཉིན་མོའི་ཆ་ཤས་མང་པོ་ཉལ་ཁང་ངམ་སྟན་ལ་བཞུགས་སོ། དེ་ལྟར་ན་ཁྱེད་ལ་མཉམ་ཉམས་ལེན་གྱི་ཚུལ་མེད་པ་ལྟར་སེམས་ཤུགས་སྐྱེ་ཐུབ། འོན་ཀྱང་ཉམས་ལེན་ཡོད་ཀྱི་ཡོད། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ནས་བཀོད་པ་ལྟར། མི་ཞིག་གི་རང་ཉིད་ཀྱི་གཙོ་བོའི་ཆ་ཤས་ཡང་ཡོད་སྲིད་པ་དང་། སྐབས་འདིར་འཇིག་རྟེན་ནི་ཤེས་རྟོགས་ཀྱི་སྒོ་ནས་ཆེ་ཤོས་བརྟག་ཞིབ་བྱེད་པ་ཡིན། རོལ་མོ། ལག་རེག། སྐད་དགའ་བ་དང་ཁྱེད་ཀྱི་ཞི་བདེའི་ཉེ་འབྲེལ་གྱིས་ཡང་སྐྱིད་བདེ་དང་ཉེ་འབྲེལ་ཀྱི་སྐད་ཆ་སྟེར་ཐུབ།
 
-## What activities help in late-stage dementia?
+## བརྗེད་ནད་མཐའ་མ་ལ་ཉམས་ལེན་གང་ཕན་ནམ།
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+ཤེས་རྟོགས་ཀྱི་ཉམས་ལེན་ཕྲ་མོ་དང་ཉེ་འགྲོའི་ཉེ་གནས་ནི་མཐའ་མའི་སྐབས་སུ་ཤིན་ཏུ་ཕན་པ་ཡིན། Alzheimer's Association ནས་རང་ལ་དགའ་བའི་རོལ་མོ། དགའ་བའི་དེབ་ཀྱི་ཁ་ཤས་ཀློག་པ། ནུ་སྦྱོར་ཡིད་འོང་བའི་ལག་སྦྱོར་དང་བཅས་པའི་ཕྱི་ལུས་སྦྱོར། ཉི་མ་བདེ་བའི་སྐབས་ཕྱི་རོལ་ཏུ་མཉམ་དུ་འདུག་པ་སོགས་བཀོད་ཡོད། [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ནས་གཏམ་རྒྱུད་ཀློག་པ། པར་ལྟ་བ། ཉེ་བའི་རེག་ཚོར་དང་སྦྱོར་བ། རོལ་མོ་དང་ཆུ་རླུང་གི་སྒྲ་སོགས་ཁ་སྣོན་བྱས་ཞིང་། ཁྱེད་ཀྱི་སྤྱན་སྔར་ཡོད་པ་ཉིད་ཀྱང་ཞི་བདེ་སྟེར་ཐུབ་ཅེས་བཤད།
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ནས་བཀོད་པ་ལྟར། མཐའ་མའི་སྐབས་སུ་མི་ཡི་ཚོར་བ་ནང་དུ་གཏད་ནས་སྐྱིད་བདེའི་དོན་དུ་ལག་ཏུ་གང་ཞིག་འཛིན་པའི་འདོད་ཤུགས་ཆེན་པོ་ཡོད་ཅིང་། ཤེས་རྟོགས་ཀྱི་ཉམས་ལེན་ཕྲ་མོ། ལུས་ཀྱི་སྦྱོར་བ་ཞུ་ཞུ། ཞལ་བཅད་ཀྱི་སྒྱུ་རྩལ། རོལ་མོ། ཕྱུགས་ཀྱི་ལྟས་ཀྱི་ཞལ་འཕྲད། མི་ཡི་རེག་ཚོར་དང་རང་སྐྱེས་ཀྱི་པར་རིས་སོགས་བརྗོད་དོ།
 
-## Activities for someone in bed or a chair
+## ཉལ་ཁང་ངམ་སྟན་ལ་བཞུགས་པའི་མི་ལ་ཉམས་ལེན།
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **ཁོང་གི་རོལ་མོ་གཟེངས་པ།** ཁོང་གི་ཆུང་ཆུང་གི་ལོ་ཚོད་དང་། ཆོས་ལུགས་དང་། ཁྱིམ་ཚང་གི་གླུ་འདེམས་ཤིག ཁ་གསལ་གྱི་སྒྲ་ཆུང་ངུར་བཞག་ནས་ཉེ་གནས་སུ་འདུག ཁ་ཤས་ཀྱི་མི་ཚོ་ད་ལྟའང་མཛུབ་མོས་རྒྱུན་བརྡུང་ཐུབ་པ་དང་གླུ་ཁ་སྒྲོག་ཐུབ་པ་ཡོད། འདི་ལ་[རོལ་མོའི་ཉམས་ལེན](/activities/music/) ལ་ལྟ་ཤིག
+2. **ལག་པ་ཉེ་བར་བསྐུ་བ།** ལག་པ་ཉེ་བར་འཛིན་པ་དང་། མཐེ་བོང་གིས་ཉེ་བར་རེག་པ་ཡང་ཉམས་ལེན་ཞིག་ཡིན། སྔོན་ནས་ཁོང་ལ་བཤད་ཅིག ང་ཚོ་ག་རེ་ཞིག་བྱེད་པ་ཡིན།
+3. **ལག་པའི་ཉེ་བའི་སྦྱོར་བ།** ཕྱག་མཐིལ་ལ་ཞུ་ཀ་ཆུང་ཀུ་ཞིག་དྲོད་ཅིང་། མཐིལ་ནས་ཁྲུ་མགོ་ལ་བར་དུ་ཉེ་བར་བསྐུ། ཞིམ་པ་མེད་པའི་ཞུ་ཀ་འདེམས། ཁོང་གིས་ཡིད་འོང་བའི་དྲི་ཞིམ་ཞིག་ཡོད་ན། ལུས་པགས་ལ་རྒྱུ་མེད་ན་དེ་ཡང་ཆོག།
+4. **ཚིག་གི་སྒྲ་ཕྱེ་ཀློག་པ།** སྡེ་ཚན་གྱི་སྒྲུང་ཞིག དགའ་བའི་དེབ་གི་ཁ་ཤས། ཆོས་ཀྱི་གསུང་རབ་ཡང་ན་དུས་ཚོད་གྱི་གསར་ཤོག་སོགས། ཚིག་ནི་ལས་ཀྱི་རྒྱུ་མ་ཡིན་པར་དབྱངས་ཀྱི་རྩེ་མོ་ཆེ་བ་ཡིན།
+5. **གཏམ་ཞིག་སྨྲ་བ།** ཁྱིམ་ཚང་གི་ཕྱི་ལ་རྒྱུགས་པའམ། ཁོང་གི་རྒན་གྱིས་བཟུང་བའི་ཉིན་མོ་ལ་སོགས་པ་བཤད། ལན་ཡོད་དགོས་པ་མ་ཡིན།
+6. **པར་ལྟ་བ།** པར་ཆེན་གཅིག་སྤྱན་མཉམ་གྱི་མཐོ་ལ་བཟུང་ནས་དྲན་དྲིན་གྱིས་བཤད། གང་ཞིག་གི་ངོ་རྟགས་དྲིས་མ་བྱེད་པ་བཟོ།
+7. **མཐོང་ཆུང་གི་འཛིན་ཡོ་ཆ་སྟེར་བ།** བསིལ་ཁ་ཆུང་ངུ་ཤིག་དང་། རྡོ་ཤུགས་ཀྱི་སྦུག་མགོ། འཕྱོག་ཁ་ཅི་འདྲའི་ལུགས། NIA ནས་མཁྱེན་ཞིང་། ཁོང་ལ་བསིལ་ཁ་ཞིག་འཛིན་ན་སྤོ་བ་སྟེ་སྐབས་ཁོང་གིས་ཁྱེད་ལ་ཡང་ཡང་ཕོ་ཉ་འདུག་དུས་བསྣན་དགོས་པའི་ཉེན་ཁ་ཉུང་ཐུབ་ཅེས་བཀོད།
+8. **རང་སྐྱེས་ཀྱི་སྒྲ་རོལ་བ།** ཆར་པ། རྒྱ་མཚོའི་རླབས་ཀྱི་སྒྲ། ཤར་གྱི་སྒྲ་སོགས་སྒྲ་ཆུང་ངུར་བཞག་ན། ཁང་པ་ཁ་སྐད་ཆེ་བ་དེ་ཞི་ཐུབ།
+9. **ཕྱིའི་ཤིང་སྡེའི་བྱ་ཁེབས་སྦྱོར།** སྒོ་མ་ཕྱེ་ནས། སྒོ་མའི་ཕྱི་ཁར་བྱ་ཟས་ཀྱི་སྲོལ་ཆས་བཞག་པ། ཡང་ན་མེ་ཏོག་གསར་པ་ཁ་ཤས་དང་ལོ་མ་ལ་བལྟས་ཤིག་དང་རེག་ཤིག ནང་དུ་ཁ་སྣོན་བྱོས།
+10. **ཕྱིར་འབྲས་ཀྱི་ཉམས་ལེན།** མི་ཞིག་གིས་འཁྱམ་སྟེགས་ལ་ཞོན་ཐུབ་ན། ཉི་མ་བདེ་བའི་སྐབས་སྐྱེས་པའི་སྟེང་སྦྱོར་ལ་ཆུང་ཀུ་ཞིག་ཞལ་སྐོར་བྱེད་ན་ཡིད་འོང་ཡོད།
+11. **སྐྲ་བྱི་བ་ངམ་ཆུ་དྲོད་ཆགས་པ་སྟེར་བ།** ཞི་ཞིང་དམན་པའི་སྐྲ་བྱི་དང་། ལག་པ་དང་ཞལ་ལ་ཆུ་དྲོད་ཀྱི་བསིལ་ཁ་ཞིག་བསྐུ་ན་སེམས་ཚོར་སྐྱེ་བ་ཡོད།
+12. **རོལ་མོ་དང་འཁྲིག་པ་ཞུ་བ།** སྐྲ་ཤེལ་ཅུང་ཟད་བརྡུང་། ཡང་ན་གླུའི་ཆ་ཚད་ལ་ལག་པ་བཞག་ནས་སྤོ་བ། ཡང་སྦྱོར་བ་དང་མཆིན་པའི་ལས་ཀྱི་ཚེ་རྒྱུ་དང་ཤེས་ཆ། དེ་ཁྲིད་ཀྱི་ཉེན་ཁ་མེད་པའི་ཐབས་ལ་སྨན་པ་ནམ་སྨན་མཁན་ལ་ཞུ་སྲིད།
+13. **རང་སྐྱོང་ཡི་ཡིག་རོལ་བ།** ཤོག་བུ་ཆེན་པོ་ལ་མི་ཚུགས་པའི་ཁ་བ་དང་། ལག་པའི་སྤྱི་བ་ཁ་ཤས་ཀྱིས་སྨན་བཏང་། ཁྱེད་ཀྱི་ལག་ཚུལ་གྱིས་ཀྱང་སྐྱོང་ཐུབ། ཡོད་པའི་ཆིག་བྱ་གང་ཡང་ཡིན་པ་མ་ཡིན།
+14. **ཕྱུགས་ཀྱི་ལྟས་ཀྱི་ཞལ་འཕྲད་འབོད་བ།** ཁོང་ལ་ཕྱུགས་ལ་དགའ་བ་ཡོད་ན། ཁང་པའི་གནས་ཚུལ་ཡང་ཆོག་ན། ཞི་བདེའི་ཕྱུགས་ཁྱེད་ཀྱི་གོང་པར་ཡང་ཡང་ངེད།
+15. **ཞི་བདེས་ཁ་ཅིག་ཞུ་བ།** ཉེ་བར་སྡོད་ནས་ཞི་ཞིང་ཁ་སྐད་ཆེ་བ་ཞུ་བ། [ཞི་བདེའི་དབུགས་འཐུང་](/games/calm-breathing/) གིས་རང་གཉིས་ཀྱི་འགྲོ་ཚུལ་སྦྱོར་ཐུབ། ཁྱེད་ཀྱིས་ལྷག་ཆད་ཀྱང་བཏང་ཐུབ།
+16. **ཉེ་འགྲོར་གནས་པ་ཙམ་ཡང་ཡོད།** ཉེ་བར་འདུག་ནས། ཞི་ཞིང་ཁ་སྐད་བྱེད། ཐེབས་ལ་རྩེད་མོ་བྱེད། ཀློག་པ་ཞི་ཞི་བྱེད། ཁྱེད་གནས་ཡོད་པ་ཉིད་ཀྱང་ལེགས་པ་ཡིན།
 
-## How to share an activity at this stage
+## ཁོང་ཚོའི་སྐབས་འདིར་ཉམས་ལེན་མཉམ་སྤྱོད་བྱེད་ཚུལ།
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **ཕྱོགས་མདུན་ནས་ཉེ་བ།** ཁོང་གི་མིང་དང་ཁྱེད་ཀྱི་མིང་ཞུ། རེག་མ་ཐག་ཏུ་ཆོ་ག་ནས་ཞི་ཞིང་ལེ་ལོ་ཅན་གྱི་སྐད་ཀྱིས་བཤད།
+- **ཉམས་ལེན་གཅིག་ནས་ཞུ་བ།** རོལ་མོ་བཏང་མ་ཐག་ཏུ་བརླག་སྣང་བཅད། ཤེས་རྟོགས་གཅིག་རེ་རེ་ཡིན་པར་བྱོས།
+- **ཐུང་ངུར་བྱེད།** ལམ་སྐད་ཆུང་ཀུ་ཤིག་ལ་ཡང་ཆོག། ཉིན་མོར་ཐུང་ངུ་ཡང་ཡང་དུ་བྱས་པ་ཡང་ཁ་ཅིག་རིང་པོའི་ལས་ཀྱི་ལྷག་པོ་ཡིན།
+- **སྔར་ཚབས་སུ་ཞི་བདེ་བཟོ་བ།** ཁོང་ལ་རྒྱབ་སྟེགས་དང་ཐོགས་ཀྱི་རྒྱབ་སྐྱོར་ལེགས་པོ་ཡོད་པར་བལྟ་བྱོས། NIA ནས་བཤད་པ་ལྟར། ལྷེ་རྟོག་སྟེང་ལ་འདུག་ནས་ལག་པ་ངོས་ལ་ངོས་གནས་གཏོང་བའི་སྟེགས་ཀྱི་རྒྱབ་སྐྱོར་ཡོད་ཚེ་ལེགས་སོ།
+- **ཁོང་གི་ཕྱག་ལེན་ལ་ལྟ་བ།** ལག་པ་ཞི་བ། ཞལ་ཞི་བ། མིག་ཕྱོགས་མཐུན་པ་དང་། ཕྲུད་མདོག་འདྲ་བ་སོགས་དགའ་བའི་ལེགས་རྟགས་ཡིན། NIA ནས་སྡུག་པའི་སྒྲ་སྤྲོ་བ། ཞལ་སྐྲོད་པ། ལུས་ཀྱི་ཆ་ཤས་སྲུང་བ་ཡང་ན་མདུན་སྤྱོད་མི་འདྲ་བ་སོགས་སྡུག་པའི་རྟགས་ཡིན་ཚེ་ཞིང་དེར་བཞག་ནས་སྐྱོང་ཆས་ཚོགས་ལ་བརྡ་སྤྲོད་དགོས།
 
-## A quick guide by sense
+## སྣ་ཚོགས་ཀྱི་མདོ་ཡིག་ཅུང་ཟད།
 
-| Sense | Ideas | Take care |
+| ཚོར་བ | ཐབས་ཤེས་ | ཐོ་ཡིག་སྐྱོབ་ཚུལ། |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| ཉན་ཚོར | རང་ལ་དགའ་བའི་རོལ་མོ། ཁྱེད་ཀྱིས་ཀློག་པའི་སྐད། ཆུ་རླུང་གི་སྒྲ་ | སྒྲ་ཆུང་ཅིག་གསོག་པ། སྒྲ་གཅིག་རེ་རེ་ཁོ་ན། |
+| རེག་ཚོར | ལག་པ་ཉེ་བར་བསྐུ་བ། ལག་པ་འཛིན་པ། ཡོ་ལ་ཞིམ་རྨ། ཆུ་དྲོད་ཀྱི་བསིལ་ཁ། | སྔོན་ནས་དྲིས་ཤིག་ཡང་ན་བརྡ་སྤྲོད་བྱོས། ལུས་པགས་ཚབ་ཤོར་མེད་པ་ལ་ལྟ་བྱོས། |
+| མིག་ཚོར | པར་རིས། མེ་ཏོག། ཁྲི་སྟེང་གི་སྣང་བ། རང་ཆུང་ཀུ་ཡི་བྱ་རིས་བརྙན། | དངོས་པོ་མིག་མཐོ་ལ་བཟུང་ནས་སྟོན་པ། གསལ་སྣང་ཡག་པོ། སྣང་བ་འཁེར་བ་མེད་པ། |
+| དྲི་ཚོར | ཞུ་ཀ་དགའ་བའི་དྲི་ཞིམ། མེ་ཏོག་གསར་པ། ཞི་བདེའི་སྐབས་ཀྱི་བྲེ་བཅེས། | དྲི་འཚམ་པོ་སྐྲ་བ་ལས་ཞོར་བ། ནད་འཕྲལ་དང་ཕྲ་མོ་ཐོག་སྤྱོད་ན་འཁྲུལ་མེད་པ་ལ་ལྟ། |
+| རོ་མཚན | དགའ་བའི་རོ་ཅན་གཅིག་གི་ཕྲན་ཆུང་། | ཁ་བརྡས་བཤད་པའི་ལེགས་པའི་ཟས་དང་སྲོལ་དང་རྣམ་པ་ཁོ་ན། |
 
-## Safety at this stage
+## སྐབས་འདིའི་སྲུང་སྐྱོབ།
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+མཇུག་མ་ལྟ་བུའི་སྐབས་སུ་ཁ་གསུང་ཀྱི་ལས་ཀྱི་ཤུགས་བཟང་བ་མེད་པ་སྲིད་པ་དང་། NIA ནས་འདི་ལ་ཁ་ཐོག་ལ་འཁྲུལ་བའི་ཉེན་ཁ་ཆེ་བ་ཡིན་པ་ཁ་གསུང་གྱིས་བཀག་ཡོད། ལག་པ་ཉེ་བའི་ཁ་མེད་ཁ་ནང་དུ་ཆུང་ཀུང་བཞག་པ་ཡང་མེད་པར་བྱོས། སྐྱོང་ཆས་ཚོགས་ཀྱིས་བཤད་པའི་ཟས་ཚོད་དང་ལུས་སྟོབས་ཀྱི་ཚུལ་ནས་ཁ་ཟས་ཚོད་བཀོད་པ་ཁོ་ན། རེག་ཚོར་ཉམས་ལེན་གྱི་སྐབས་ལ་ལུས་པགས་ཀྱི་སྐྱོན་བཅོས་པ་དགོས། ལུས་པགས་ཐེབ་ནས་ཤོར་བ་དང་། ཁ་གོས་ཤོར་བ་སྐྱེ་སྲིད་པས་ཉེ་བར་ལྟ་བྱོས། སྐྱེད་པ་ཐག་རིང་སྐྱོང་ཆས་གྱི་ཉམས་ལེན་ལ་ཞིབ་ཆ་དགོས་ན། [ཚོར་བའི་ཉམས་ལེན](/activities/sensory/) ལ་ལྟ་ཤིག
 
-## Looking after yourself too
+## ཁྱེད་རང་ཉིད་ཀྱང་སྐྱོང་བ།
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+མཐའ་མའི་སྐྱོང་སྐྱོབ་ནི་ལུས་དང་སེམས་ལ་གནོན་ཤུགས་ཆེ་བ་ཡིན་པ་ཁྱིམ་ཚང་ནམ་སྨན་ཁང་གི་གནས་སུ་ཡང་ཡོད། ཤི་འགྲོའི་སྐྱོང་སྐྱོབ་དང་། ཕྱི་སྐྱོང་ཚོགས་ཀྱིས་ཞི་བདེ་དང་རྒྱབ་སྐྱོར་དང་། ཚུལ་ཆད་ལ་སྐྱོང་ཐུབ། NIA ནས་རྒྱབ་སྐྱོར་གྱི་ཐབས་ཞིག་ཏུ་བཀོད། ཐུང་ངུ་དང་ཞི་བདེའི་འགྲོ་ཚུལ་ཡང་ཡང་ལེགས་པ་ཡིན། [བརྗེད་ནད་ཀྱི་ཁྱེད་ཀྱི་མི་ལ་ཞལ་འཕྲད་བྱེད་པ](/activities/visiting/) ལ་ལྟ་ཤིག ཁྱེད་ཚོགས་སྡེ་ཞིག་དབུ་བཞེས་ན། [སྨན་ཁང་གི་ཚོགས་ཀྱི་ཉམས་ལེན](/activities/care-home-groups/) ལ་ཁ་ཅིག་ཡོད། དེ་ལས་[ཁྱེད་རང་ཉིད་ཀྱི་སྐྱོང་སྐྱོབ་](/caregiving/caregiver-self-care/) ཀྱང་བལྟ་ཞིག། ཞི་ཞིང་ངལ་གསོ་བྱེད་པ་ཡང་ལེགས་པའི་སྐྱོང་སྐྱོབ་ཀྱི་ཆ་ཤས་ཡིན།

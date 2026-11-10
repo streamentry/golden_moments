@@ -1,32 +1,34 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Gnìomhan dha Fir le Trom-inntinn"
+seoTitle: "Gnìomhan dha Fir le Trom-inntinn: Beachdan Fìor"
+description: "Beachdan air gnìomhan do fhir a tha a’ fuireach le trom-inntinn, stèidhichte air an obair, na cur-seachadan agus na cleachdaidhean aca, le molaidhean sàbhailte."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Tha na gnìomhan as fheàrr do dhuine a tha a’ fuireach le trom-inntinn a’ tighinn
+  bho a bheatha fhèin: an obair a rinn e, na cur-seachadan a bha measail air, agus
+  na cleachdaidhean làitheil a bha aige. Is dòcha gum bi neach-obrach oifis a’
+  còrdadh ri pàipearan a chur ann an òrdugh, is dòcha gum bi meacanaig a’ còrdadh
+  ri innealan glan a làimhseachadh, agus is dòcha gum bi neach-leantainn spòrs a’
+  còrdadh ri seann gheama. Tha ùidhean eadar-dhealaichte bho dhuine gu duine, mar
+  sin tòisich leis an duine fhèin, chan ann le a ghnè.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Tòisich le eachdraidh an duine seo fhèin: an obair, na cur-seachadan, na cleachdaidhean agus na rudan a thug pròis dha."
+  - "Gu tric bidh gnìomhan le adhbhar fìor, leithid bathar-cruaidh a sheòrsachadh, an càr a nighe no fiodh a lìomadh, nas tarraingiche na gnìomhan a tha coltach ri clas."
+  - "Chan eil innealan no spòrs a’ còrdadh ris a h-uile duine. Tha còcaireachd, ceòl, gàirnealaireachd, ealain no cùram dhaoine eile a’ còrdadh ri mòran. Faighnich, coimhead agus lean a stiùir."
+  - "Dèan gnìomhan coltach ri obair sàbhailte le bhith a’ toirt air falbh innealan biorach agus le bhith a’ cumail sùil, agus dèan nas sìmplidhe iad mar a dh’atharraicheas comasan."
+  - "Tha e ceadaichte ‘chan eil’ a ràdh. Tairg pàirt dha, chan e obair èigneachail, agus feuch a-rithist latha eile."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Dè na gnìomhan a chòrdas ri fir le trom-inntinn?"
+    a: "Chan eil aon liosta ann, oir tha ùidhean fir cho eadar-dhealaichte ri ùidhean duine sam bith. Is urrainn tòiseachadh le gnìomhan co-cheangailte ris an obair a rinn e roimhe, leithid pàipearan a chur ann an òrdugh no cnothan is boltaichean a sheòrsachadh, agus le cur-seachadan a bha measail air, leithid iasgach, càraichean, ceòl, còcaireachd no spòrs. Coimhead air na nì e leis fhèin agus tog air sin."
+  - q: "Tha m’ athair a’ diùltadh gnìomhan buidhne. Dè as urrainn dhomh a dhèanamh?"
+    a: "Bidh mòran dhaoine, fireannaich is boireannaich le chèile, a’ diùltadh gnìomhan a tha coltach ri clas no a tha a’ faireachdainn leanabail. Feuch ri obair a thairgsinn an àite sin: ‘An cuidicheadh tu mi seo a sheòrsachadh?’ Is dòcha gum bi buidhnean nas lugha no ùine aon ri aon nas cofhurtaile na seòmar mòr."
+  - q: "A bheil e sàbhailte leigeil leis innealan a chleachdadh?"
+    a: "A-mhàin le sùil agus le innealan sàbhailte. Thoir air falbh innealan cumhachd, lannan agus rud sam bith biorach, agus tairg gnìomhan leithid bloc fiodha a lìomadh, bathar-cruaidh glan a sheòrsachadh, no boltaichean mòra a theannachadh le làimh. Tha an Alzheimer’s Association a’ moladh stuthan cunnartach a thoirt air falbh bho bhùth-obrach gus an gabh gnìomh mar lìomadh a mhealtainn gu sàbhailte fhathast."
+  - q: "Bha e na phroifeiseanta. Am bi gnìomhan sìmplidh a’ faireachdainn tàmailteach?"
+    a: "Faodaidh, ma tha iad air an taisbeanadh mar obair gun bhrìgh. Cuir an gnìomh an cèill mar chuideachadh fìor, cleachd stuthan inbheach, agus tagh rudeigin faisg air a sheann dreuchd, leithid liosta a sgrùdadh, faidhle a chur ann an òrdugh no cuideachadh le postadh a chur ri chèile. Ma bha e fìor sgileil aig rudeigin, dh’fhaodadh gnìomh co-cheangailte ach eadar-dhealaichte a bhith nas fheàrr na coimeas dìreach."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +47,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Bidh daoine gu tric a’ lorg “gnìomhan dha fir le trom-inntinn” oir chan eil coltas gu bheil na molaidhean àbhaisteach iomchaidh airson an duine nam beatha. Tha sin na dhragh reusanta. Ach chan e liosta de ghnìomhan “fireannach” am freagairt. ’S e tòiseachadh leis an duine shònraichte seo: dè an obair a rinn e, dè a rinn e aig na deireadh-sheachdainean, agus dè a thug faireachdainn fheumail dha. Tha ùidhean eadar-dhealaichte aig a h-uile duine. Tha còcaireachd, gàirnealaireachd, peantadh no seinn a’ còrdadh ri mòran fhireannach, agus tha càraichean is ball-coise a’ còrdadh ri mòran bhoireannach.
 
-## How do I find activities he will actually enjoy?
+## Ciamar a lorgas mi gnìomhan a chòrdas ris gu fìrinneach?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Tòisich le sgeulachd a bheatha. Tha an Alzheimer’s Association a’ moladh [plana làitheil](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) a thogail timcheall air na rudan a tha a’ còrdadh ris an duine agus nach eil, a neartan agus na h-ùidhean aige, agus mar a chleachd e an latha a chur air dòigh. Faighnich dhut fhèin:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Dè an obair a rinn e?** Oifis, tuathanas, factaraidh, ciùird, arm, reic, teagasg, dràibheadh, an dachaigh?
+- **Dè a rinn e na ùine shaor?** Iasgach, cairtean, obair-fiodha, spòrs, eaglais, ceòl, còcaireachd, càr sa gharaids?
+- **Dè na cleachdaidhean a bha aige?** Cofaidh agus am pàipear gach madainn? A’ sgrùdadh na sìde? An càr a nighe Disathairne?
+- **Dè a thòisicheas e fhathast leis fhèin?** Tha an Association a’ toirt fa-near ma thòisicheas duine air gnìomhan gun iarraidh, leithid an làr a sguabadh, gum faod na gnìomhan sin a bhith nam pàirt den chleachdadh.
+- **Dè a sheachnas e?** Tha cuid de dhaoine a’ còrdadh ri spòrs fhaicinn; tha cuid eile a’ faighinn dragh bhon luaths agus bhon fhuaim. Thoir an aire cuin a tha e coltach ri toileachas, iomagain no mì-thlachd.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Bruidhinn cuideachd ri teaghlach agus ri seann charaidean. Is dòcha gu bheil cuimhne aca air ùidhean a dh’fhalbh à beatha làitheil.
 
-## Activity ideas based on past work
+## Beachdan air gnìomhan stèidhichte air obair roimhe
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Tha an Alzheimer’s Association a’ toirt eisimpleir shoilleir: dh’fhaodadh gum bi neach-obrach oifis a’ còrdadh ri gnìomhan eagrachaidh, leithid buinn a chur ann an neach-gleidhidh, cuideachadh le postadh a chur ri chèile no liosta ri dhèanamh a sgrìobhadh, agus dh’fhaodadh gum bi tuathanach no gàirnealair a’ còrdadh ri bhith ag obair sa ghàrradh. Tha an aon bheachd a’ freagairt air mòran obraichean.
 
-| Past work | Activity ideas | Simpler version |
+| Obair roimhe | Beachdan air gnìomhan | Dreach nas sìmplidhe |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Oifis no gnìomhachas | Pàipearan a sheòrsachadh ann am pasgain, stampaichean a chur air cèisean, liosta a sgrùdadh, drathair deasg a chur ann an òrdugh | Cèisean a chruachadh; criomagan pàipeir a chur ann am bogsa |
+| Ciùird no meacanaigeachd | Cnothan, boltaichean agus nigheadairean glan a sheòrsachadh; boltaichean mòra a theannachadh le làimh; coimhead tro chatalogan innealan | Seòrsachadh a rèir meud ann an dà chupa |
+| Tuathanachas no obair-tìre | Uisgeachadh, lusan a chur ann am poitean, duilleagan a ràcadh, sgrùdadh a dhèanamh air a’ ghàrradh | Suidhe a-muigh fhad ’s a tha sibh ag obair; pacaidean sìl a chumail |
+| Arm | Brògan a lìomadh, drathair a chur ann an òrdugh, coimhead air dealbhan bhon t-seirbheis ma chòrdas sin ris | Èisteachd ri ceòl bhon àm sin |
+| Reic no seirbheis do luchd-ceannach | Fàilte a chur air aoighean, greimean-bìdh a thoirt seachad, cùpain a sheòrsachadh | Suidhe faisg air an doras airson halò a ràdh |
+| Teagasg | Leughadh os àrd, leabhraichean a chur ann an òrdugh, dealbhan a sheòrsachadh a rèir cuspair | Coimhead tro leabhar dhealbhan còmhla |
+| Dràibheadh no còmhdhail | Coimhead air mapaichean no seann irisleabhraichean chàraichean, an càr a nighe | Coimhead air càraichean a’ dol seachad bho phoirdse |
+| Dachaigh is teaghlach | Aodach a phasgadh, am bòrd a shuidheachadh, cuideachadh le dinnear | Napcannan a dhèanamh rèidh; rud a thionndadh ann am poit |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Faodaidh cuid de chuimhneachain, leithid seirbheis san arm, faireachdainnean làidir a thogail. Lean a stiùir, cùm còmhradh mun àm a dh’fhalbh dòigheil, agus atharraich an cuspair gu socair ma tha coltas gu bheil e troimh-chèile.
 
-## Activity ideas based on hobbies
+## Beachdan air gnìomhan stèidhichte air cur-seachadan
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Obair-fiodha.** Bloc rèidh fiodha a lìomadh no pasgan taigh-eòin a pheantadh. Tha an Alzheimer’s Association a’ moladh stuthan agus innealan cunnartach a thoirt air falbh bhon bhùth-obrach gus an gabh gnìomh mar lìomadh a mhealtainn gu tlachdmhor agus gu sàbhailte.
+2. **Iasgach.** Bogsa acainnean a sheòrsachadh às aonais dhubhan, coimhead tro irisleabhraichean iasgaich, no suidhe ri taobh lòin còmhla.
+3. **Càraichean.** An càr a nighe, cròm a lìomadh, coimhead air dealbhan de chàraichean clasaigeach, no a dhol air turas sa chàr mar neach-siubhail.
+4. **Spòrs.** Coimhead air seann gheama no geàrr-chunntasan, ball bog a thilgeil, bàlaichean goilf a chur air brat-ùrlair, no cairtean ball-coise a sheòrsachadh.
+5. **Cairtean is geamannan.** Cuairt shìmplidh de gheama chairtean aithnichte, dominoes, no cairtean a thionndadh airson paidhir a lorg. Cùm e socair agus na cùm cunntas air sgòran.
+6. **Ceòl.** Òrain bho dheugairean agus ficheadan, còmhlan as fheàrr leis, no laoidh. Faic ar [stiùireadh air gnìomhan ciùil](/activities/music/).
+7. **Còcaireachd is grileadh.** Glasraich a nighe, sabhs a thionndadh, burgairean a chumadh, no bhith ag innse mar a rinn e a chili ainmeil fhad ’s a tha sibh ga chòcaireachd.
+8. **Am pàipear-naidheachd.** Tha an Alzheimer’s Association a’ toirt fa-near gum faod duine a bha an-còmhnaidh a’ leughadh a’ phàipeir a bhith a’ còrdadh ris fhathast, eadhon mura h-urrainn dha leantainn air a h-uile càil. Faodaidh cofaidh agus am pàipear fuireach mar phàirt den mhadainn.
+9. **Togail.** Pasgain mhodail le pìosan mòra no seataichean togail sìmplidh do dh’inbhich. Tagh pìosan a tha furasta an greimeachadh.
+10. **Cùram mu rudeigin.** Peata a bhiadhadh, biadhadh eòin a lìonadh, no lusan a dh’uisgeachadh. Tha an NIA a’ liostadh [biadhadh, sgioblachadh no coiseachd le peata](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) am measg gnìomhan a dh’fhaodadh a bhith tlachdmhor.
 
-## How do I offer an activity without it feeling like busywork?
+## Ciamar a thairgeas mi gnìomh gun a bhith coltach ri obair gun bhrìgh?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Cuir an cèill e mar chuideachadh fìor. Tha an Alzheimer’s Association a’ moladh faighneachd “An cuidicheadh tu mi?” agus gnìomhan a cheangal ri adhbhar. Dèan coimeas:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- “A bheil thu airson na boltaichean seo a sheòrsachadh?” (tha sin coltach ri deuchainn)
+- “Cheannaich mi poca measgaichte de bhathar-cruaidh agus feumaidh mi iad seo a sheòrsachadh mus càraich mi an sgeilp. An toir thu làmh dhomh?” (tha sin coltach ri obair)
 
-Other tips:
+Molaidhean eile:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Cleachd stuthan inbheach.** Fìor innealan às aonais oirean biorach, fìor chatalogan, fìor chèisean.
+- **Obraich taobh ri taobh.** Tha dithis ag obair air gnìomh còmhla na chompanaidh. Tha aon neach a’ coimhead air neach eile na stiùireadh.
+- **Na ceartaich.** Ma thig boltaichean gu crìch sa chupa cheàrr, leig leis. ’S e an ùine còmhla agus am faireachdainn a bhith feumail a tha cudromach.
+- **Cuidich leis tòiseachadh.** Tha an Alzheimer’s Association a’ toirt fa-near gu bheil miann fhathast aig mòran dhaoine rudan a dhèanamh, ach gu bheil e doirbh dhaibh eagrachadh agus tòiseachadh. Dèan a’ chiad fhear còmhla.
 
-## How do I adapt as things change?
+## Ciamar a nì mi atharrachadh mar a dh’atharraicheas cùisean?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Mar a thèid trom-inntinn air adhart, tha an Alzheimer’s Association a’ moladh gnìomhan nas sìmplidhe is nas ath-aithriseach a thoirt a-steach agus a bhith deiseil airson pàirt nas lugha gnìomhach a ghabhail. Dh’fhaodadh duine a bha uair ag ath-thogail einnseanan a bhith a-nis a’ còrdadh ri sreang ghlan a chumail agus bruidhinn mu chàraichean, no coimhead ort ag obair. Tha coimhead cuideachd na dhòigh air pàirt a ghabhail.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Ma bha e fìor sgileil aig rudeigin, dh’fhaodadh gnìomh co-cheangailte a bhith nas fheàrr na a sheann cheàird. Tha an Association a’ toirt fa-near gum faodadh neach-ealain proifeiseanta a bhith frionasach ri atharrachaichean san obair aige, fhad ’s a dh’fhaodadh neach neo-phroifeiseanta tlachd fhaighinn à dòigh ùr. Tha an aon rud fìor airson sàr-shaoir.
 
-## Safety with work-style tasks
+## Sàbhailteachd le gnìomhan coltach ri obair
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Thoir air falbh innealan cumhachd, lannan, tairngean agus sgriothan le bàrran biorach.
+- Cuir glas air tanachadh peant, peatrail agus ceimigean.
+- Cùm iuchraichean a’ chàir a-mach à sealladh mura h-eil e a’ dràibheadh tuilleadh.
+- Cùm sùil air a h-uile gnìomh sa bhùth-obrach agus sa ghàrradh.
+- Tagh pìosan mòra nach gabh a shlugadh.
 
-## What if he says no?
+## Dè ma chanas e ‘chan eil’?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Thoir urram dha. Faodaidh ‘chan eil’ a bhith a’ ciallachadh gu bheil an gnìomh ro dhoirbh, ro leanabail no dìreach nach eil e ceart an-diugh. Tha an Alzheimer’s Association a’ toirt rabhadh gun a bhith ga sparradh. Feuch gnìomh eile, àm eile, no dìreach suidh còmhla. Faic [dè nì thu nuair a chanas iad ‘chan eil’](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Geamannan agus còmhradh a tha iomchaidh
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+Bidh [Crìochnaich an t-Seanfhacal](/games/finish-the-saying/) a’ cleachdadh seanfhaclan aithnichte agus a’ leantainn gu còmhradh. Tha [Cairtean Còmhraidh](/games/conversation-cards/) le ceistean fosgailte, gun deuchainn, a rèir cuspair, a dh’fhaodas sgeulachdan mu obair agus cur-seachadan fhosgladh. Bidh [Tòimhseachan Dealbh](/games/picture-puzzle/) a’ cumail an deilbh slàn ri fhaicinn fhad ’s a bhios sibh ag atharrachadh phìosan, agus faodar an [Lorg Facail](/games/word-search/) le clò mòr a chlò-bhualadh agus a dhèanamh le peann aig bòrd a’ chidsin. Airson dòighean air bruidhinn mun àm a dh’fhalbh gun a bhith ga dhearbhadh, faic ar [stiùireadh air ath-chuimhneachadh](/activities/reminiscence/).

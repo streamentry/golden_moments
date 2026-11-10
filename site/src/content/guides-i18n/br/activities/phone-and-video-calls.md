@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Gweredoù evit galvoù video ha telefon"
+seoTitle: "Gweredoù galv video evit dementia"
+description: "Gweredoù galv video ha telefon evit tud a zo pell diouzh un den gant dementia: diskouez, lenn gant mouezh uhel, kanañ, c'hoarioù war ur skramm rannet ha keleier evit ar skoazellerien."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Ar galvoù gant un den a vev gant dementia a vez gwelloc'h pa vezont berr,
+  a-viskoazh ha savet a-dro d'un dra da rannañ, evel diskouez ul loen pe ul
+  liorzh, sellet ouzh skeudennoù, lenn gant mouezh uhel, kanañ ur sonenn a
+  garont pe c'hoari ur c'hoari suav war ur skramm rannet. Galvit en un heure
+  bevennet bep devezh ma c'hallit, derc'hit ur mouezh d'an neuz, ha goulennit
+  ouzh an hini a zo war al lec'h da skoazellañ.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Un ober a ro ur stumm d'ar galv ha a lamm ar pouez diwar ar gaozeadenn. Kemerit ur pezh simpl da rannañ."
+  - "Galvoù berr, a-viskoazh, da vare ar memes deiz a zo alies gwelloc'h eget galvoù hir ha dibunus."
+  - "Unan a gom d'an amzer. Ar galvoù a-live gant meur a dud a zo diaes da heuilhañ, dreist-holl pa vez kollet ar c'hlev."
+  - "Ur skoazeller war al lec'h a c'hall staliañ ar binvidig, azezañ e-kichen an den, ha bezañ « an daouarn » evit ur c'hoari pe ur skeudenn."
+  - "Mar n'eo ket mat ar galv hiziv, serrit anezhañ gant ur gerig kaer. Adklask a-zeiz a zo mat."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Petra a c'hallan ober en ur galv video gant un den gant dementia?"
+    a: "Kemerit ur pezh obererezh simpl: diskouezit ho liorzh, ho loen pe ho kegin; sellit ouzh hen skeudennoù kozh asambles; lennit ur baradoz berr pe ul lizher a-benn; kanit ur sonenn a garont; kozhit ar memes krogenn en ur wezh gant an hini all; pe c'hoarit ur c'hoari skeudenn suav war ur skramm rannet. An obererezhioù a ro un dro d'ar galv evit na rank ket an den dougen ar gaozeadenn en he fenn."
+  - q: "Pegement a bad a zlefe ur galv video?"
+    a: "Alies berroc'h eget ma soñjit. Un nebeud munutenn gaer a c'hall bezañ a-walc'h, dreist-holl ma vez skuizh an den buan. Galvañ a-viskoazh, war an heure memes, a c'hall bezañ pouezusoc'h eget pegement a badfe pep galv."
+  - q: "Petra a c'hallfe ober ma vez kollet pe digalonekaet an den gant ar galvoù video?"
+    a: "Kavout a ra tud e-just ur figur war ur skramm. Klaskit ur galv telefon simpl, ur gemennadenn video enrollet a c'hall ar skoazeller lakaat e-pad un eil ar seurt, pe kartennoù ha skeudennoù d'ober o-unan e-post. Ma aotre ar galv en ur fazi, serrit anezhañ gant kaezh ha klaskit en-dro un deiz all pe en un eil heure."
+  - q: "Penaos e c'hallan skoazellañ ma mamm da c'halvañ dre video pa na c'hall ket implijout an telefon?"
+    a: "Goulennit ouzh ur real pe ur gweziadur, ur skoazeller en ti pe un den labourat e-barzh un ti kont. Lakaat ar galv e-kreiz ha derc'hel pe staliañ ar binvidig a ra ar pezh a zo. Alies e skoazell ar rener ar familh gant ar galvoù video, neuzeit petra a gynnig. Ur valan war ur stêr, gant ur skramm bras ha ur mouezh a c'hall bezañ klevet, a ra ar pezh a zo aesoc'h evit an holl."
+  - q: "Hag ni a c'hall c'hoari ur c'hoari asambles dre video?"
+    a: "Ya. Ar fazi aesañ eo ma rann unan ar skramm en arload video, hag an eil a lâr dezhañ pe dezhi pe skeudenn da vouskañ. Pe ar skoazeller war al lec'h a c'hall digeriñ ar memes c'hoari war ur valan, hag e vouskañ evit an den tra ma komzit outañ. Dibabit c'hoarioù hep amzer-kont na sammad ebet."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Chom pell diouzh un den gant dementia a c'hall lakaat ac'hanoc'h da vezañ didalvoud. Galvoù telefon ha video n'int ket a blij da gerzh hag ur gourc'hemenn, met gallout a reont kenderc'hel da zegas eeunderioù gwir a glotaded pa vezont savet mat. Ar pezh a bouez eo chom eus klask ur gaozeadenn kerkent-all, ha kemer ur pezh simpl da rannañ. Er bajenn-mañ e kavit an obererezhioù a zo mat dre video ha telefon, penaos staliañ ar galv, ha petra a c'hall ar skoazeller war al lec'h ober evit skoazellañ.
 
-## Why plan an activity for a call?
+## Perak kemer un ober evit ur galv?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Un ober a ro stumm d'ar galv. "Penaos emaout? Petra out bet o ober hiziv?" a c'houlenn ouzh an den kofiañ ha disklêrial, ar pezh a c'hall bezañ diaes ha poanius. "Sellit, ar tomatezed a zo kreñv" n'eo ket goulenn ebet ganto.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Kemenn a ra Alzheimer's Association e c'hall bezañ diaesoc'h kaozeal gant strolladoù brasoc'h dre video, hag a gunig [ouzhpennañ un urzh d'ar galv](https://www.alz.org/help-support/caregiving/holidays) gant traoù evel kanañ ar sonennoù pe rannañ skeudennoù.
 
-## What activities work on a video call?
+## Pe obererezhioù a labour en ur galv video?
 
-### Show and tell
+### Diskouez ha lâret
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Degasit ho bed d'ezhañ. Tremenit ar gamera a-zoare war ho liorzh, presantit ar c'hi, diskouezit petra a gozhit, daliit ur marteze ur bugel en he skeudenn, pe lakit ar fon en-dro d'ar prenestr da ziskouez an erc'h. Deskrivit an hini a welit gant gerioù simpl ha lezit ur pad a dawelder evit ma c'hallint respont. Ret ebet a c'houlennoù.
 
-### Look at photos together
+### Sellet ouzh skeudennoù asambles
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Daliit ur skeudenn kozh ouzh ar gamera, pe rannit ho skramm evit diskouez un nebeud skeudennoù bras unan-ha-unan. Komzit diwar-benn an traoù a welit: "Sellit, ar c'hapel a Dad-kozh." Chomit distro diwar "Piv eo hennezh?" pe "Kofiout a rit?". Ma lavar an den un anv fall, dalc'hit ouzh e lavar. Gwelit hon [gide kof](/activities/reminiscence/) evit sujestioù twek.
 
-### Read aloud
+### Lenn gant mouezh uhel
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Lennit ur baradoz berr, ur psalm, ul lodenn levr bugale a garit d'ur bugel war ar memes galv, ul lizher a-berzh ur c'herent, pe ur bajenn eus al levr a blije d'ezhañ. Lenn gant mouezh uhel a ro d'an den un dra kalm da glevout hep ret respont.
 
-### Sing or listen to music together
+### Kanañ pe selaou ar mouezhioù asambles
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Kanit ur sonenn a ouezo mat, pe c'hoarit un disk a blij dezhañ e-pad an hanter. Kanañ a zo aesoc'h eget kaozeal evit kalz a dud. Gwelit hon [gide kanaouennoù](/activities/music/).
 
-### Cook or bake at the same time
+### Kozhit pe pobañ ur bezh asambles
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Kenderc'hiñ a ra Alzheimer's Association da lakaat ur galv video da gozhañ pe da bobañ ur bezh dibar gant an dud. Staliit ar galv e kegin an eil hag egile. Ar skoazeller war al lec'h a c'hall lakaat un tamm sod pe blaz, pa vez an hini all o heuilhañ ho gartenn-resevout kozh.
 
-### Watch something together
+### Gwelet un dra asambles
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Kenderc'hiñ a ra ar Gevredigezh ivez da welet ur filmig a blij dezhañ en ur wezh adal ur c'hiz all, en ur gaozeal dre bellgomz pe video. Evit un den gant dementia, ur skeudenn berr, ur rann kozh a deleviad pe ur c'hoari pilpous a c'hall bezañ gwelloc'h eget ur film a-bezh.
 
-### Play a gentle game on a shared screen
+### C'hoari ur c'hoari suav war ur skramm rannet
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Kalz a arload galv video a lak ac'hanoc'h da rannañ ho skramm. Digorit ar c'hoari hag hoc'h-unan, pa vezit o vouskañ, lâret a ra an den d'ober pe lakaat ho bissoc'h war ar skeudenn da zibab. Pe ar skoazeller war al lec'h a c'hall digeriñ ar memes c'hoari war ur valan hag e vouskañ evit an den, tra ma komzit gantañ.
 
-Games that work well this way:
+C'hoariioù a labour mat evel-se:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** lennit ar geriad anat, hag an hini all a lâr an dibenn, ha ur sujest kaozeal a heul.
+- **[Picture Pairs](/games/picture-pairs/):** ur c'hoari heñveladur suav gant skeudennoù bras a c'hall chom gwelus, hep amzer-kont na sammad ebet.
+- **[Conversation Cards](/games/conversation-cards/):** ur skeudenn ha ur goulenn digor da gaozeal diwar-benn asambles.
+- **[Photo Pairs](/games/photo-pairs/):** ur c'hoari heñveladur savet gant skeudennoù a zibabit war ho pollad. Ar skeudennoù a chom en ho sailher, hag an den a wel anezho dre ho skramm rannet.
 
-### Recorded messages
+### Kemennadennoù enrollet
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Pa vez diaes ar galvoù war-eeun, enrollit ur berr video: ur saludenn, ur sonenn, ur sae en ho liorzh. Ar skoazeller a c'hall e lakaat e-pad un eil ar seurt, kement gwech ha ma blij an den dezhañ. Kemenn Alzheimer's Association e c'hall bezañ enrollet ha kaset dibaboù arbennik, evel bugale o tigeriñ o zraoù.
 
-## What about plain phone calls?
+## Penaos e vez gwelet ar galvoù telefon hepken?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Ar galvoù telefon a bouez c'hoazh. Kemenn Dementia Australia da [galvañ da vare ar memes deiz](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) hag en ur vezañ ket bras, peogwir e c'hall an dud gant dementia kemer amzer a-raok ma vezint o kemer perzh. Dre an telefon:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Lavarit ho anv hag ho c'hevrenti kerkent: "Demat Tad, Jenny emaon, da verc'h."
+- Komzit gant treuzkaozh, gerioù berr, un hevelep dra d'ar wech.
+- Roit keleier kentoc'h eget goulenn anezhañ: "Kozhet em eus ho podrez kig rostet a-greiz d'an noz."
+- Lennit ur baradoz berr, pe kanit ur rann eus ur sonenn a garit.
+- Chomit berr ha serrit gant ur gerig kaer.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia a notenn ivez e c'hall ar galvoù video skoazellañ pa vez diaesoc'h kaozeal, peogwir e c'hall an den gwelet ho c'hrenn. Ma vez dic'hortoz ar galvoù telefon, klaskit video, pe an tu all.
 
-## How do I set up a video call that works?
+## Penaos staliañ ur galv video a labour?
 
-**Before the call:**
+**A-raok ar galv:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Dibabit un eur bennak** pa vez an den war-dro gortozet, ha tennit ouzh an eur-se. Ar gwiadur a skoaz.
+2. **Kenlabourit gant ar skoazeller war al lec'h.** Ur bostel an deiz a-raok a sikour anezhañ da gempenn.
+3. **Gwiriit an dibarr.** Ur valan war ur stêr a zo aesoc'h eget ur telefon daliet en ur zorn. Gwiriit ez eo karget, ez eo luget ar skramm ha ma'z eo digor ar mouezh a-walc'h. Pleget ar skritelloù ma roit an arload, ma lenn an den mat.
+4. **Dibabit un obererezh** ha lakait an holl traoù prest.
 
-**During the call:**
+**En dro d'ar galv:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Azezit tost ouzh ar gamera** e sklêrijenn vat, o tremen d'ar prenestr hag ar c'hefn en ho kein.
+- **Lakit ho anv hag ho c'hevrenti bep gwech**.
+- **Un nebeud a dud a-gavell bep pred.** Alioù e lavar Alzheimer's Association e c'hall bezañ diaes an deskrivañ d'an dud gant dementia pe ar re a zo kollet ar c'hlev. Ma tiwall meur a unan ar galv, grit un eil ouzh egile pe chomit gant daou pe tri den.
+- **Goulennit unan goulenn bep gwech.** Kenderc'hiñ a ra Family Caregiver Alliance da [ober goulennoù simpl gant respontoù ya pe ne vern](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), ha da ziskouez dibaboù pa c'hallit.
+- **Roit amzer d'an dud.** Gortozit ur respont. Mat eo kinnig ur ger ma klaskont.
+- **Implijit ho fenn ha ho mouezh.** Rit ur fri, stlakit ho fenn ha mirit ho ton tener. Alies e lavar ar fenn kalz muioc'h eget ar gerioù.
+- **Na reizhit ket.** Ma lavar an den tra ne vez ket reizh, lezit anezhi da chom evel m'emañ.
 
-**Ending the call:**
+**Serriñ ar galv:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Serrit a-raok ma vez skuizh an den, dre vrasañ mat ma c'hallit.
+- Implijit an hevelep kenavo bep gwech: "Galvin ac'hanout warc'hoazh da greizdeiz. Kared a ran ac'hanout."
+- Na dalc'hit ket pell.
 
-## Tips for the helper on site
+## Gwelloc'h gant ar skoazellerien war al lec'h
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Mar oc'h an dibri, an dimezet, ar vreur pe ar vaouez, ar skoazeller pe ar rener a skoaz ar galv, c'hwi a laka anezhañ da vezañ posupl.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Staliit ul lec'h distaol.** Diweredit an TV ha serrit an nor.
+- **Lakit ar galv e-unan,** ha neuze roit an tabutell war ur stêr d'an den pe daliit anezhañ e-kichen al lagad.
+- **Azezit tost dezhañ, n'eo ket dirak.** Ho presañs a laka anezhañ da vezañ fiziet. Sikouriit trawalc'h ma vez ret: "Sellit, Jenny eo."
+- **Bezit an daouarn.** Daliit skeudennoù, pouezit war ar c'hoari, troit an tabutell da ziskouez ar c'hambr.
+- **Bezit war-wel an skuizhder pe ar c'hlac'har,** ha lavarit d'ar galver pa vez amzer da echuiñ.
+- **Lavarit d'ar galver petra a oa mat.** "Karet e oa gant ar c'hi" a skoaz da gempenn ar galv a zeu.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+Lavar NIA e c'hall kerent a bell skoazellañ un den kozh da [ober anaoudegezh gant berzhioù an telefon](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), evel ar galvoù video. Diwezhatoc'h e rankfe ar skoazeller merañ an dibarr hollel, ha se a zo mat.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Ma chom an den en ur gêr-kuzh, kemenn Alzheimer's Foundation of America goulenn ouzh ar gêr ma skoaz ar familhoù gant ar gaozeadennoù video. Lavar an AFA ivez ez a ar familhoù da gas skeudennoù eus an eil d'egile gant ar skoazellerien, ha da gas gourdrouzoù pe gourc'hemennoù bihan, goude bezañ gwiriet petra a aotre ar gêr.
 
-## What if the call doesn't go well?
+## Petra a reer ma n'eo ket aet mat ar galv?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Galvoù a vo diaes, diaezus pe trist. Ne vez ket ho fazi ebet, ha n'eo ket tra ma vefe fall ar galvoù.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Ma welfe an den diaes gant ar skramm, troit ouzh ur galv telefon pe ur gemennadenn enrollet.
+- Ma vez digalonekaet, asantit ar fraezh, lavarit ur ger a gonforto ha serrit gant kaezh.
+- Ma vez fazi ar galvoù alies un eur bennak eus an deiz, klaskit un eur all.
+- Ma soñj an den e vez unan all ennhi, kenderc'hit ouzh e lavar gant kaezh.
 
-It is fine to end early. A short, warm call is a good outcome.
+Mat eo serriñ abred. Ur galv berr ha tener a zo un disoc'h mat.
 
-## Between calls
+## Etre ar galvoù
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Chomit e-kreiz e meur a fenn all. Kemenn Dementia Australia kas kartoù, postelioù, skeudennoù pe kinnigoù bihan. Ur gartenn-post bep sizhun gant ur skeudenn bras hag un notenn berr a c'hall bezañ lennet adarre hag adarre. Kartennoù kaozeal [da zilec'hiañ](/games/conversation-cards/) kaset d'ar skoazeller a c'hall reizhañ ur sujed parat evit ar galv a zeu.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Evit kinnigoù diwar-benn dibab ha staliañ ur valan, gwelit [valanoù ha skramm](/caregiving/tablets-and-screens/). Evit an amzer a-dreuz war-raok, gwelit hon [gide weladenn](/activities/visiting/).

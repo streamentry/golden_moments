@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+A musica ye una de las cosas mas simples que puede compartir con una persona que viu con demencia. No pide nada: ni respuestas correctas, ni pasos a seguir. Una cancion familiar puede sacar una sonrisa, un pie que zapatea o unas poquetas palabras cantadas, incluso en un día en que hablar cuesta. Solo necesita la musica adecuada pa esta persona y un momento tranquilo pa ponerla.
 
-## What music activities work for people with dementia?
+## Qué activitatz musicals funcionan pa las personas con demencia?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Escuitar, cantar, aplaudir, balanzar-se y charrar de musica funcionan bien. El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggiere poner musica, charrar de la musica y de l'artista, cantar o bailar cancions conoxidas, y ir a conciertos o programas musicals de la comunidat. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) añade que o movimiento, como aplaudir o bailar, puede aumentar o gozo, y que la musica puede ser una manera de conectar cuando las palabras se fan difiziles.
 
-## How do you build a personal playlist?
+## Como se fa una lista personal?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Lo mas util que puede fer ye una lista de musica que signifique alguna cosa pa esta persona. El [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) tamién destaca la musica con significato personal. Aquí tiene una manera simple de fer-ne una.
 
-### Start with their life
+### Empezar por a suya vida
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **A suya adolescencia y os veinte anyos.** Piense en qué sonaba en a radio, en os bailes y en as pelicullas cuan eran chovens.
+- **Momentos importantes.** A musica de a suya boda, o primer baile, un disco favorito de viache en familia.
+- **Fe y cultura.** Himnos, gospel, musica sacra, o cancions en a suya primera lengua.
+- **Trabajo y servicio.** Bandas de marcha, cancions de trabajo, o musica ligada a una época en o servicio militar.
+- **Lo que recuerda a familia.** Pregunte a hermanos, fillos y viellos amigos qué ponía u cantaba siempre.
 
-### Think in genres, not just songs
+### Pensar en cheners, no solo en cancions
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Si no sabe por dónde empezar, prebe unos minutos de cada uno d'estos cheners y mire la reaczión: big band y swing, doo-wop, Motown y soul, primer rock and roll, country y western, bluegrass, gospel y himnos, cancions de Broadway, jazz standards, musica latina como boleros o mariachi, polka, folk y clasica. Guarde lo que saque una sonrisa o un pie que zapatea; deixe lo que ponga cara de disgusto.
 
-### Make it easy to play
+### Fer-lo fazil de poner
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Sin anuncios.** A Alzheimer's Association alerta que los anuncios pueden causar confusión. Use musica descargada, CD, discos o un servicio sin publicidat.
+- **Un aparato simple.** Un altavoz con un boton grande, o una lista guardada y lista, pa que cualquiera pueda empezar-la.
+- **Dos listas cortas.** Una lista tranquila pa calmar y una lista viva pa alzar o humor.
+- **Ponerle nombre.** Escriba o nombre de la persona y "musica favorita" en o aparato, pa que a familia que visita y o personal de cuidados puedan usar-lo tamién.
 
-## 15 music activities to try
+## 15 activitatz musicals pa probar
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Escuitar chunto.** Sientense uno al lado de l'atro sin nada mas de fondo. Escuitar ya ye una activitat completa.
+2. **Cantar chunto.** Empiece a cantar uno mesmo. Tararear o mover los beils con as palabras tamién cuenta.
+3. **Aplaudir o marcar o ritmo.** Dar palmadas en as chenolls, golpetear a taula, o usar un tamborín pequeño u una maraca.
+4. **Balons lentos.** Dar-se as mans y balanzar-se en a cocina, o bailar sentados, movendo os brazos chuntos.
+5. **Bailar con pañuelos.** Agitar pañuelos lebiancos al ritmo de a musica, de pie u sentados.
+6. **Charrar de la musica.** Convide, no examine: "Esta musica sona a sala de baile. Cuénteme d'os bailes." No pregunte nunca "Se recuerda d'esta cancion?"
+7. **Poner un disco entero.** Ponga un disco que le gustaba, de principio a fin, con un café.
+8. **Mirar as portadas de los discos.** As funderas de los discos viellos son ideals pa charrar de a moda, os coches y as caras.
+9. **Ver un musical.** Un musical u concierto grabau de a suya época puede fer una buena tarde. Faga pausas.
+10. **Tocar un instrumento que conoix.** Una persona que antes tocaba o piano u a guitarra puede disfrutar de tocar cosas simples. Mas adelante, con sacar unas poquetas notas chuntos basta.
+11. **Musica mientres trabaja.** Ponga cancions favoritas mientres dobla a ropa o pone a mesa.
+12. **Cancion de a mañana.** Empiece cada día con a mesma cancion alegre como parte d'a rutina.
+13. **Cantar himnos o musica sacra.** Ponga musica de a suya tradición de fe y canten chuntos.
+14. **Unirse a un grupo de canto.** El NHS describe os grupos de canto como buenos pa l'animo y o bienestar. Pregunte en a suya localidat por coros adaptatos a a demencia.
+15. **Ir a musica en vivo.** Un concierto corto de a comunidat o una banda al aire libre. Sientese cerca d'a salida y vaya-se cuando quiera.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Pa una actividat mas ligera de palabras con frases conoxidas, prebe [acabar o refrán](/games/finish-the-saying/), onde siempre puede mostrar o final.
 
-## Matching music to the moment
+## Escoller a musica segun o momento
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+A Alzheimer's Association suggiere usar a musica pa crear l'ambient que quiere: musica tranquila pa un ambient en paz, y una cancion alegre de a juventut de la persona pa alzar l'animo.
 
-| Moment | Try | Tip |
+| Momento | Qué probar | Consello |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Levantar-se | Una cancion familiar y alegre | A mesma cancion cada mañana se fa un aviso suau |
+| Quefaceres | Favoritas alegres | A musica puede fer que o trabajo parezca compañía |
+| Comidas | Musica instrumental suau | Manténgala baxa pa que no compita con o minchar |
+| Fin de tarde | Musica tranquila y familiar con buena luz | Veya [inquietut de fin de tarde](/caregiving/late-day-restlessness/) |
+| Ir a dormir | Musica lenta y suau | Baixe o volumen y as luces a una |
+| Etapa avanzada | As cancions mas querias, muy baxetas | Sientese cerca y tienga-le a man |
 
-## Tips for a good experience
+## Consellos pa una buena experiencia
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Apague otros ruidos.** La Alzheimer's Association suggiere zarrar as fenestras y as puertas y apagar a television pa que a musica sea o unico sonido.
+- **Mantienga o volumen suau.** A musica ha de estar a gusto, no fuerte. Si la persona usa audifonos, asegure-se de que estan puestos y funcionan; veya [audición](/brain-health/hearing/).
+- **Veya as asociacions tristes.** Algunas cancions traen duelo, guerra o perdida. Si una cancion disgusta a persona, consuele-la y cambie-la.
+- **Deixe que elechi.** Si se puede, deixe que a persona escoya a musica, y acepte un no.
+- **Pare cuando quiera.** Cinco minutos de musica son una buena activitat. Tamién lo ye apagar-la y sentarse en silencio.
 
-## What does the research say about music and dementia?
+## Qué diz a investigación sobre a musica y a demencia?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+A evidencia ye limitada. Una [revisión Cochrane de 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) estudió 30 estudios de sesions de musica estructuradas, en su mayoría en grupos en residencias. Trobó que estas sesions probablement alivianaron un poco os sintomas depresivos comparadas con os cuidados habituals, pero no trobó un efecto claro sobre a agitación, o bienestar, ni sobre o pensamiento y a memoria, y no hubo efectos que duraran despues de terminar as sesions.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Compartimos a musica porque ye una manera agradable y sin presión de pasar o tiempo chuntos, no como un tratamiento. Pa entornos de grupo, veya [activitatz de grupo en residencias](/activities/care-home-groups/); pa usar a musica chunto con fotos e historias, veya [activitatz de reminiscencia](/activities/reminiscence/).

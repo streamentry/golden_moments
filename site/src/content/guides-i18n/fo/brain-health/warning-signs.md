@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Tey fyrstu tekin á demens og nær tú skalt fara til lækna"
+seoTitle: "Tey fyrstu tekin á demens og nær tú skalt fara til lækna"
+description: "Vanlig fyrstu tekin á demens, hvussu tey eru øðrvísi enn vanligt aldring, viðgerðarhægir orsøkir til minnistrupulleikar og hvussu tú fyrireikar eina læknavitjan."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Minnistap, sum órógvar gerandisdagin, trupulleikar við kendum uppgávum, ørkymlan um tíð ella stað
+  og broytingar í lagnum ella dómigleika kunnu vera fyrstu tekin á demens. Nógvar aðrar líkamligar
+  støður, eitt nú trupulleikar við skjoldbrúskkirtlinum, lágt B12-vitamin, árin av heilivági, tunglyndi
+  og svevntrupulleikar, kunnu elva til líknandi broytingar. Einans ein útbúgvin heilsustarvsfólk kann
+  gera eina greining. Bráðfeingis ørkymlan krevur skjóta hjálp.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Av og á at gloyma er vanligt við aldrinum; broytingar, sum órógva gerandisdagin, er vert at kanna."
+  - "Alzheimer's Association lýsir 10 ávaringartekin, hvørt við einari vanligari aldringstengari broyting til samanberingar."
+  - "Trupulleikar við skjoldbrúskkirtlinum, lágt B12-vitamin, árin av heilivági, tunglyndi, infektiónir og svevntrupulleikar kunnu øll ávirka minnið, og nøkur kunnu viðgerast."
+  - "Einans ein útbúgvin heilsustarvsfólk kann gera eina greining av demens; spurnarkanningar og sjálvroynir á netinum duga ikki."
+  - "Ørkymlan, sum kemur brádliga, á fáum tímun ella døgum, kann vera delirium og krevur skjóta læknahelp."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Er tað vanligt at gloyma nakað, tá ein gerst eldri?"
+    a: "Nakað er vanligt. National Institute on Aging sigur, at av og á at leggja lutir burtur ella gloyma ein rokning vanliga er mild, aldringstengd gloymska. Demens er ikki ein vanligur partur av aldring. Minnistrupulleikar, sum gera gerandisuppgávur sum at koyra bil, brúka telefon ella finna heim aftur torførar, er vert at kanna hjá lækna."
+  - q: "Kunnu minnistrupulleikar standast av øðrum enn demens?"
+    a: "Ja. National Institute on Aging nevnir millum annað trupulleikar við skjoldbrúskkirtli, nýrum ella livur, árin av heilivági, tunglyndi og stúran, lágt B12-vitamin, ovurnýtslu av alkoholi, svevntrupulleikar, infektiónir og høvuðsskaðar. Nøkur av hesum kunnu batna, tá tey verða viðgjørd, og tað er ein orsøk til, at ein læknaeftirlit er týdningarmikið."
+  - q: "Kann eg royna onkran fyri demens heima?"
+    a: "Nei. Einans ein útbúgvin heilsustarvsfólk kann gera eina greining av demens við einari sjúkrasøgu, einari kropsligari kanning, royndum av minni og hugsan, blóðroyndum og av og á skanningum av heilanum. Sjálvt tær stuttu royndirnar, sum læknar brúka, duga ikki einsamallar at staðfesta demens."
+  - q: "Hvat skal eg gera, um onkur brádliga gerst ørkymlaður?"
+    a: "Fá skjótt læknahelp. Bráðfeingis ørkymlan kann vera delirium, sum VA lýsir sum eitt læknaligt neyðartilburð. Ring beinanvegin til heilsustarvsfólkið hjá viðkomandi ella ring 112, ver hjá teimum, og skriva niður, hvørjan heilivág tey taka."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+At varnast broytingar í egnum minni, ella í minninum hjá onkrum, tú hevur kær, kann vera ræðandi. Hendan síðan kann hjálpa tær at avgera, nær tú skalt avtala eina tíð hjá lækna, og hvussu tú fyrireikar teg til hana. Hon kann ikki siga, um onkur hevur demens. **Einans ein útbúgvin heilsustarvsfólk kann gera eina greining av demens**, og nógvar líkamligar støður, sum elva til minnistrupulleikar, eru als ikki demens. Vinarliga stuðla ikki upp undir spurnarkanningar ella sjálvroynir á netinum.
 
-## What are the early signs of dementia?
+## Hvørji eru tey fyrstu tekinini á demens?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) lýsir 10 fyrstu tekin. Teir seta hvørt tekin upp ímóti einari vanligari aldringstengdari broyting til samanberingar. Við okkara egnu orðum:
 
-| Sign worth checking | More typical with age |
+| Tekin, sum er vert at kanna | Meira vanligt við aldrinum |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Minnistap, sum órógvar gerandisdagin, so sum at gloyma hendingar, sum nýliga vóru, ella spyrja um tað sama aftur og aftur | Av og á at gloyma eitt navn ella eina avtalu og minnast tað seinni |
+| Trupulleikar við at leggja ætlanir ella loysa trupulleikar, so sum at fylgja einari kendari uppskrift ella halda skil á rokningum | Av og á at gera ein feil á húshaldsrokningunum |
+| Torført at gera kendar uppgávur lidnar heima, á arbeiði ella uttan fyri húsið | Av og á at hava brúk fyri hjálp við einari mikroovnainnstilling ella at taka eitt sjónvarpssending upp |
+| At missa kensluna av dato, árstíðum ella hvar ein er | At taka feil av vikudegnum og síðani finna útav tí |
+| Nýggir trupulleikar við at meta frástøðu, lesa ella skilja litir sundur | Sýnisbroytingar orsakað av stari |
+| Nýggir trupulleikar við orðum, so sum at steðga mitt í einum samrøðu ella nevna lutir við skeivum navni | Av og á at stríðast við at finna rætta orðið |
+| At leggja lutir á óvanlig støð og ikki megna at finna veg aftur til teirra | Av og á at leggja lutir burtur og finna teir aftur við at hugsa seg aftur |
+| Vánaligur dómigleiki, til dømis í sambandi við pengar ella persónligan reinføri | Av og á at taka eina vánaliga avgerð |
+| At draga seg undan frítíðarítrivi, arbeiði ella sosialum virksemi | Av og á ikki at hava hug at fara til eina familju- ella sosiala tiltøk |
+| Broytingar í lagnum ella persónleika, so sum at gerast ørkymlaður, illgrunaður, bangin ella stúrin | At hava fastar vanar og gerast pirraður, tá ein vani verður broyttur |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Eitt tekin einsamalt merkir ikki demens. Tað, sum hevur týdning, er ein **broyting í mun til tað, sum er vanligt fyri tann persónin**, serliga um hon ger gerandisdagin torførari.
 
-## How is normal aging different from dementia?
+## Hvussu er vanlig aldring øðrvísi enn demens?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) sigur, at nógvir eldri leggja til merkis, at teir minnast lutir hægri, ella av og á leggja lutir burtur ella gloyma ein rokning. Hetta eru vanliga tekin um milda gloymsku. **Demens er ikki ein vanligur partur av aldring.** Álvarsligir minnistrupulleikar gera gerandisvirksemi torfør, so sum at koyra bil, brúka telefon ella finna heim aftur.
 
-The NIA suggests talking with a doctor if someone:
+NIA mælir til at tosa við ein lækna, um onkur:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Spyr um tey somu spurningarnar aftur og aftur
+- Villist á støðum, sum tey áður kendu væl
+- hevur trupulleikar við at fylgja uppskriftum ella vegleiðingum
+- Gerst meira ørkymlaður um tíð, fólk og støð
+- Steðgar við at taka sær av sær sjálvum, til dømis við at eta illa, ikki baða sær ella bera seg ótrygt at
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Summir fólk hava **mild kognitiv ískoyti (MCI)**. Tað merkir fleiri trupulleikar við minni ella hugsan enn onnur á sama aldri, men tey megna enn at røkja gerandisdagin. NIA sigur, at MCI kann vera eitt fyrstu tekin um Alzheimer, men ikki øll við MCI fáa sjúkuna.
 
-## What else can cause memory problems?
+## Hvat annað kann elva til minnistrupulleikar?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Nógv annað enn demens kann ávirka minnið, og nøkur av hesum kunnu batna við viðgerð. NIA nevnir:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Trupulleikar við skjoldbrúskkirtli, nýrum ella livur**
+- **Árin av heilivági**
+- **Tunglyndi og stúran**
+- **Lágt B12-vitamin** ella ov lítið av heilsugóðum mati
+- **Svevntrupulleikar**
+- **Ovurnýtsla av alkoholi ella rúsevnum**
+- **Infektiónir, blóðtappar ella vøkstur** í heilanum
+- **Høvuðsskaði**, so sum heilahristingur
+- **Stórt strongd ella sorg**, so sum pensjón ella at missa makan
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Hoyrn- og sjóntrupulleikar kunnu eisini verða misskiltir sum ørkymlan; sí okkara [vegleiðing um hoyrn](/brain-health/hearing/). Tí er ein læknaeftirlit týdningarmikil. Sambært [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) biður læknar ofta um blóðroyndir fyri at kanna eftir trupulleikum við skjoldbrúskkirtlinum, vitamintroti og infektión. Góður [svevnur](/brain-health/sleep/) og viðgerð av tunglyndi er eisini vert at taka upp.
 
-## Sudden confusion is an emergency
+## Bráðfeingis ørkymlan er eitt neyðartilburð
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Ørkymlan, sum kemur skjótt, á fáum tímun ella døgum, krevur skjóta læknahelp.** Tað kann vera delirium. [VA lýsir delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) sum eitt læknaligt neyðartilburð og mælir til at ringja beinanvegin til heilsustarvsfólkið hjá viðkomandi ella ringja 112. Tekin kunnu vera:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Upp- og niðurtúrar í førleikanum at hugsa greitt
+- Trupulleikar við at halda uppmerksemi
+- Óskipað hugsan
+- Óvanliga syfjaður, ella óvanliga óróligur og ørkymlaður
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Hetta kann henda øllum, eisini fólki, sum longu liva við demens. Sambært [NHS](https://www.nhs.uk/symptoms/confusion/) eru vanligar orsøkir infektiónir (urinvegsinfektiónir eru vanligar hjá eldri og fólki við demens), heilabløðing, lágt blóðsukur hjá fólki við sukursjúku, høvuðsskaði og ávísir heilivágur. Meðan tú bíðar eftir hjálp, ver hjá persóninum og róð hann við stuttum, einfaldum orðum. Spyr ikki nógvar spurningar, og skriva niður, hvørjan heilivág tey taka.
 
-## How do I prepare for the doctor's appointment?
+## Hvussu fyrireiki eg meg til læknavitjanina?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Ein góð læknavitjan byrjar við góðum notatum. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) mælir til at hava við:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Ein lista yvir broytingar** í minni, lagni og atburði, við ítøkiligum dømum og umleið hvat tíð tær byrjaðu
+2. **Fyrrverandi og núverandi heilsutrupulleikar**, eisini møguliga familjusøgu við minnistrupulleikum
+3. **Alt reseptheilivág og handkeypsheilivág**
+4. **Øll vitamin ella kostískoyti**
+5. **Tínar spurningar**, so sum hvørjar royndir verða gjørdar, hvussu leingi tær taka og nær úrslitini koma
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Tað hjálpir eisini at hava ein familjulim ella vin við, sum kennir persónin væl. [NIA greiðir frá](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), at læknar kunnu spyrja bæði persónin og ein familjulim um heilsu, heilivág, gerandisvirksemi og broytingar í atburði. Læknar kunnu eisini:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Gera royndir av minni, trupulleikloysing, uppmerksemi, taling og máli
+- Biða um blóð-, landa- og aðrar royndir fyri at leita eftir øðrum orsøkum
+- Kanna fyri tunglyndi ella aðrar sálarligar støður
+- Biða um skanningar av heilanum, so sum CT ella MR
+- Vísa víðari til ein serfrøðing, so sum ein ellislækna, taugalækna, ellissálarlækna ella taugasálarfrøðing
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA viðmerkir, at ein kognitiv meting er ein kravdur partur av Medicare Annual Wellness Visit, sum kann vera eitt natúrligt høvi at taka evnið upp. Sjálvt tær stuttu royndirnar, sum læknar brúka, duga ikki einsamallar at staðfesta demens. Tær eru eitt fyrsta stig ímóti eini gjøllari kanning, og tað kann taka meira enn eina vitjan at fáa eina greining. NIA mælir til, at fólk við minnistrupulleikum fara aftur til læknan hvønn 6. til 12. mánað.
 
-## Raising the subject kindly
+## At taka evnið upp á ein vinaligan hátt
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Ert tú stúrin fyri onkran annan, so vel eitt róligt og einsligt løta. Tos um ávísar lutir, tú hevur lagt til merkis, og set orð á tað sum stúran fyri heilsuni hjá teimum heldur enn sum atvold. Tað kann kenna millum at biðja um eina vanliga heilsukanning. Lat persónin vera við í avgerðum og tosa við hann sum tann vaksni persónin, hann er. Okkara [ráð um samskifti](/caregiving/communication-tips/) kunnu møguliga hjálpa.
 
-## Talk with a doctor
+## Tos við ein lækna
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Um tú varnast broytingar í minni, hugsan, lagni ella gerandisførleikum, sum eru nýggjar og halda fram, avtala so eina tíð hjá einum kommunulækna. Um talan er um bráðfeingis ørkymlan, ring 112 ella til heilsustarvsfólkið hjá viðkomandi beinanvegin. At lata seg kanna tíðliga merkir, at viðgerðarhægir orsøkir kunnu finnast, og um talan er um demens, er meira tíð at leggja ætlanir og finna stuðul. Tak eisini væl hond um teg sjálvan í hesum; sí okkara [vegleiðing um egnarøkt hjá avvarðandi](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Hendan síðan er almenn kunning, ikki læknafaklig ráðgeving. Sí okkara [læknaligu frágreiðing](/medical-disclaimer/).

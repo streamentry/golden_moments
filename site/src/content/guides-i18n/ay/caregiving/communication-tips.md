@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Demencia jaqimpi parlañ yatiyawinaka"
+seoTitle: "Demencia parlañ: kunsa parlañ, kunsa jan parlañ"
+description: "Demencia ukampi jakkiri jaqimpi parlañ thakinakaw: kunjamsa parlañ qalltañ, kunsa jan sasiñ jan ukax jan yatichañ ukat kunjamsa ist'añ."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Ch'iqha sarañ uñtasiñ, jaqimpi uñ-uñtasiñ, sutip uñt'añ ukat sapa qhanañ
+  arunakampi, sayt'asa parlañ. Sapa kuti maynir jutiri, iwxa kimsa ukat
+  jiskt'asiñ, llamp'u arunakat sipansa, sarnaqañ uñjañ. Jan jark'añ, jan
+  jan wali sasiñ ukat jan yatiqañ. Arunakan ch'ikhipa amuyt'añ, ukat arunakaw
+  jaltanakan jan wali sasinakaw yanapt'añ.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Parlañ qalltañ uka qhipa ch'iqha sarañ uñtasiñ ukat uñ-uñtasiñ."
+  - "Qhanañ arunaka, sapa ideanaka ukat sutip uñt'añ, jupa jupa ukax jupa jupa sañ ukhamarak jupanaka sañ jaqinakatakix jan."
+  - "Iwxa kimsa ukat jiskt'asiñ, jan sapa jiskt'añ arunakat sipansa."
+  - "Jutirinakar suyt'añ. Jan ist'atäñapataki, sapa arunak kutiyañ, ukat ukatxa mayjt'a arunak yatiqañ."
+  - "Jan jark'añ jan ukax jan wali sasiñ. Arunakan ch'ikhipa amuyt'añ."
+  - "Arunakax jaltañ qalltaski ukhax, ch'iqhampi, uñjañampi, lupi uñtasiñampi ukat sapa uñjañ thakinakampi parlañ."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "¿Kunsa jan sasiñ demencia ukan jaqimpi?"
+    a: "Jan jaqimpi yati yatiqañ (\"¿Yatiñamapuniwa...?\"), jan jark'añ (\"Akax jan wali\"), jan ukax taqi chuymaw jaltañ (\"Nayax ukax sapa kuti sawkta\") ukat jupa jan utjaski ukhama parlañ. Jan llamp'u arunaka ocupañ. Akanakax jan yanapt'añapataki, llakisiñ jan ukax kunaymana ch'amañchañ utjaspa."
+  - q: "¿Jupanakan jan wali sasiñapataki jark'añ utjaspati?"
+    a: "Janiw kunapachas. Jan wali yatiñanakax jan kunatsa, jan jark'añ. Jark'añax janiw jaqi amuyt'añ mayjtañ, ukat jupa llakisiyañ. Jupa kunsa amuyasi, ukat kunsa munasi uka uñjañ."
+  - q: "¿Kunsa lurasa uka jaqix arunak jan jaysaski ukhax?"
+    a: "Nayraw jupaxa sayt'añ. Jupa jan jaytañ ukhax, jiwasa arunak yanapt'aña jan ukax kunsa munasi uka amuyasa, ukat chiqapar uñjañ. Uñtañanaka, uñjañanaka ukat yatiyawinaka kunaymana yanapt'iñ."
+  - q: "¿Kunjamsa parlaraki jupamp, demenciaxa qhipa qunawiwa, jan sapa parlaski ukhaxa?"
+    a: "Mayjt'añ uñtasiñ, sutimaw jupaman sañ, ch'iqha arunakampi ukat ch'uqi sarañ. Jaqin jaltanakaparu, ch'iqha uñjañampi ukat ch'iqhampi amuyaña. Jupamp utjaña, jiwasa uñt'ata yaw jan arunakampi lurañanakaw yatiyaña."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +43,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Demencia ukax arunak thaqañ, jisk'a arunakan ist'añ jan ukax ch'iqhan jaqukipañ ukar jarkaqañ luraspa. Ukanakax janiw jupax parlañ munañ tukuskiti sasa. Parlañ qalltañ, arunak parlañ ukat ist'añ kunjamasa uka ch'amanchañanakax, kimsa mayni ukat jupanakatakix lurasiñ sayt'asiñ.
 
-## What are the most important tips for talking with someone who has dementia?
+## ¿Kunsa wali thakinakax demencia jaqimpi parlañatakix?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Uñt'añ, sayt'asiñ ukat suyt'añ. Jiwasa kunas yatiñ munaspa ukhax:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Ch'iqha sarañ uñtasiñ ukat uñjasiñ.** Radio jan ukax TV apagasiñ, uñjañ ukat sutip uñt'asiñ.
+2. **Sapa kuti sapa arump parlañ.** Jisk'a arunaka, sapa amuyu, sapa jisk'a jawsäwi.
+3. **Iwxa kimsa jiskt'asiñ.** "¿Té jan ukax kafé?" sasa "¿Kunsa munasa?" sipansa sasiñapataki.
+4. **Suyt'añ.** Jutirinakar suyt'añ, ukat jan ch'iqha arunakan jan tuqisiñ.
+5. **Jan jark'añ ni yati yatiqañ.** Amuyasa uka jaltañ, jan chiqapar jan ukax jan chiqapar sasa.
 
-## How should I start a conversation?
+## ¿Kunjamsa parlañ qalltaraka?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Jupa jan parlañ uka jaqi chiqa uñtasiñ. [Family Caregiver Alliance guía](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) yatiyi: nayrar ch'iqha sarañ jisk'achaña, radio jan ukax TV apagaña, puerta jan ukax ventana katuña, jan ukax jisk'a chiqar sarañ.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Ch'iqhat uñjasiñ.** Qhipat jan ukax tuqit mistuñax llakisiñ utji.
+- **Kawkir jaqitasa uñt'asiñ.** "Hola Papá, nayaw Sarah, imill." Ukhamaw jupax sutim jan thaqañapataki.
+- **Jupa uka chiqar sarañ.** Jupa tiyasa ukhax, ukat kunka ch'iqha uñtasiñ.
+- **Uñjañ ukat arunak uñt'añ.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) yatiyi: arunak, ch'iqhan uñjañ, jaltañ ukat laq'ampi uñjañ yatiñamawa, ch'iqha ukat sayt'a arunakampi parlañ.
+- **Uñtasiñ ukat uñjañanaka.** Jupa uñjañ uka jan ukax jisk'a llakisiñ, jaqinakan ist'añ ukat uñjañ utji.
 
-## How should I phrase what I say?
+## ¿Kunjamsa arunak uñt'asiñ?
 
-Use simple words, short sentences and a calm, low voice.
+Jisk'a arunak, jisk'a jawsäwinak ukat ch'iqha, jisk'a arumpi parlañ.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Sapa amuyu sapa jawsäwi.** "Jaketaxa aptasim. Ukat jawsaraqañ." Janiw sapa kuti.
+- **Sutinakaw ch'iqha uñt'añ, janiw jupa jupa ukat.** "Jean tía jawsatawa" ukax "Jupaw jawsäwi" sipansa wali uñt'ayi.
+- **Jisk'at parlañ, janiw jachañ.** Family Caregiver Alliance yatiyi: ch'iqha arumpi janiw, jisk'at arumpiw.
+- **Suyt'añ, jupa ukat jan ist'ayañ.** Jupa jan amuyasa ukhax, sapa arunak kutiyañ, ukat ukatxa wali arunak uñt'añ.
+- **Uñt'añ ukat lurañ.** Ch'alla uñjañ, ukhamarak sapa lurañ uñjañ.
+- **Jupamp parlañ, janiw jupat parlañ.** NIA yatiyi: jupa jan utjaski ukhama jan parlañ, ukat "wawa arunak" jan ukax uñtasiñ jan lurañ.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA yatiyi: taqi jark'añ arunanakan jisk'a jiskt'asiñanaka. Akanakax ukhamaw utji:
 
-| Instead of | Try |
+| Ukax jan sasiñ | Ukax sasiñ |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "¿Kunsa munasta manq'añataki?" | "¿Ch'alla jan ukax wallpa munasta?" |
+| "¿Kunjamasa sarsta?" | "¿Lup'ita sarsta?" |
+| "¿Manq'añ munasta?" | "Manq'a pä phaxsi sapa kuti jutaraki." |
+| "Ukax janiw ukhamäkiti." | "Ukham lurasiñ ukat yatiqañ." |
+| "¿Yatiñamapuniwa lago sarañ?" | "Lago sarañ amuyapxsma. Ukat sapa kuna wali uñtasmat parlamti." |
+| "Nayax sapa kuti sawkta." | Kuna chiqapar, ch'iqha jutiri sasiñ, kunjamsa mayni kuti ukhama. |
 
-## How do I listen well?
+## ¿Kunjamsa wali ist'añ?
 
-Listen for the meaning and the feeling, not just the words.
+Amuyu ukat llakisiñ ist'añ, janiw arunak mayjt'añ.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Suyt'añ.** Ch'uqi jan ukax muspha sayt'añ, jisk'a sum amuyt'añ.
+- **Jupa jan sayt'asa ukhax, sapa arunak yanapt'añ.** Family Caregiver Alliance yatiyi: jaqi jan wali sasa ukhax, arunak yanapt'añ wali.
+- **Amuyt'aña jan ukax ist'añ.** [Alzheimer's Association guía de comunicación](https://www.alz.org/help-support/caregiving/daily-care/communications) yatiyi: jupanakan amuyuparu uñjañ ukat ist'añ, "¿Auto pachpat llakisiñ?" sasa.
+- **Jupan uñjañaparu ukat laq'aparu uñjañ.** NIA yatiyi: arunak jan ukax ch'uqi jaltañ jan ukax jaltañ jiskt'asiñ.
+- **Llakisiñanakar wali uñjañ.** Jan chiqapar amuyañanakan utjaspa jan ukax, llakisiñ chiqapar utji.
 
-## What if they say something that is not true?
+## ¿Kunsa lurasa jupa jan chiqapar sasa ukhax?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Jan jark'añ. Janiw mayjt'añ utjaspati ukat jupa llakisiyañ ukat ch'amañchañ utji. Ukax, jupa llakisiñ ukar uñt'ayañ ukat ukatxa sapa arumpi qhipaqañ.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance yatiyi: jupan llakisiñapar uñjañ, nayrar qhipat jiskt'asiñ. Akatjamawa: mamaxa wawanakap jawsañ munaspa:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Jan sasiñ: "Mamá, wawanakamaw jaqichasipxi. Akax 40 maranakaw sawkta."
+- Sasiñ: "Yatiyatawa jaqi wawanakamp uñt'asiñ. Yatiyasmawa jawsañ uka. ¿Jan ukax manq'a pä?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association yatiyi: arunakar jan mayjt'añ. Jan chiqapar arunak jan wali utjaski ukhax, jupa janiw mayjt'añ.
 
-## How does communication change as dementia progresses?
+## ¿Kunjamsa demencia qhipa qunawiwa ukax parlañ uñjañ?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Taqi uñjañ mayjt'añ utji. Alzheimer's Association kimsa qhipanakar uñt'ayi:
 
-| Stage | What helps |
+| Qalltat | Ukax yanapt'i |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Qalltat | Jupax parlañ jan utjaski sasa amuyañamaw. Parlañ, jupar parlañ, ukhamarak yanapt'aña munasa uka jawsañ, ukat sum q'iñu ukat uñjañ. |
+| Taypi | Ch'iqha sarañ parlañ ukat jupa mä. Sayt'asa parlañ, laq'aparu uñjañ, aruw jan ukax janiw sasiñ, sapa lurañ jiskt'asiñ, ukat jan jark'añ jan ukax jan jark'añ. |
+| Qhipa | Jaltañ qalltaña ukat sutip uñt'añ. Uñtañanak uñjañ, jaltañ ukat laq'ampi uñtasiñ. Ch'iqhan, qhanañ ukat jaqi uñtañanaka parlañ. Janiw jupat utjaski sasa. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Taqi jaqi sapa ukhamaw, ukat sapa jaqimpi wali uru ukat jan wali uru utji. Jupa kunsa uka uru, janiw sutip sasa.
 
-## Can pictures and activities make conversation easier?
+## ¿Uñtañanaka ukat lurañanakax parlañ sayt'ayañ?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ari. Mä uñtañan llakisiñ sayt'ayi ukat jupanaka uñjañataki ukat uñjañataki.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Uñtañanaka.** [Conversation Cards](/games/conversation-cards/) uñtañanakan jiskt'asiñ arunakampi, janiw yati yatiqañ.
+- **Familiar uñtañanaka.** [Photo Pairs](/games/photo-pairs/) munasa uñtañanakampi wali jach'a jiskt'asiñ.
+- **Yatiyata arunaka.** [Finish the Saying](/games/finish-the-saying/) jach'a yatiyata arunak, ukat parlañ yanapt'iri.
+- **Pareja jiskt'asiñ.** [Picture Pairs](/games/picture-pairs/) amparanakam lurañ, parlañ uka qhipa.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+[Jaqinakampi kunjamsa lurasa](/caregiving/how-to-play-together/) ukat [kunapachaki amtaña](/activities/reminiscence/) uñjañ. Jaqinakar uñjañ ukat jawsañ uñjañ, [uñjañ](/activities/visiting/) ukat [jawsäwi ukat video](/activities/phone-and-video-calls/) uñjañ.
 
-## What if I lose my patience?
+## ¿Ukax kunsa jan ch'amanchañ?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Taqinakan utjaraki. NIA yatiyi: llakisim ukhaxa, jisk'a samarasiñ. Jiwasa wasitat sarañ, ch'uqi samarañ ukat ukat kutiñ. Jupa parlañ ukax sapa kuti qalltañ, ukat jupa ch'iqha amuyuparu tuqinakar uñjañ. Llakisiñax taqi uru utji ukhax, yanapt'iri wali mayjt'añ, janiw ch'amañchañ kunjamasa. Jiwasa [jiwasan jaqichañ](/caregiving/caregiver-self-care/) uñjañ.

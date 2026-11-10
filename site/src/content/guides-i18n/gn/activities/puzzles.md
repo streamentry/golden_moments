@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Rompecabezas umi tapichápe oikovéva demencia ndive"
+seoTitle: "Rompecabezas demencia hag̃ua: jigsaw ha ñe’ẽ rehegua"
+description: "Mba’éichapa eiporavóta rompecabezas jigsaw, ñe’ẽ rehegua ha online umi tapichápe oikovéva demencia ndive: pehẽngue tuichakue, ta’anga ha ñembyaty oñondive."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Rompecabezas iporãvéva peteĩ tapicha oikovéva demencia ndive ha’e upe
+  ikatúva omohu’ã michĩ pytyvõ reheve ha ovy’áva upe aja. Eiporavo jigsaw
+  sa’ive ha tuichavéva pehẽngue reheve, ta’anga hesakãva kakuaa rehegua,
+  ehecha hag̃ua kaja ta’anga, ha eñepyrũ pehẽngue jerére reheguágui.
+  Ñe’ẽ jeheka ha crucigrama iporãve ojehecháramo tai tuicháva reheve.
+  Rompecabezas online hasy’ỹva 4 pehẽnguére reheve ikatu oiko porã
+  mbyte tendápe. Epyta ovy’a aja gueteri.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Eiporavo mba’éichapa oho, ndaha’éi peteĩ téra reheve: rompecabezas hasýramo, eha’ã sa’ive pehẽngue reheve."
+  - "Pehẽngue tuicha ha hatãva, ha ta’anga hesakãva sa’y iñambuéva reheve, ndahasyivéva pehẽngue michĩ ha yvytúngui."
+  - "Ta’anga kakuaa rehegua tuicha mba’e. Yvotyty, kosina, mba’yrumýi ha mymba, ndaha’éi ta’anga mitãme g̃uarã."
+  - "Ñembyaty oñondive ha’e pe mba’e tuichavéva. Eme’ẽ pehẽngue, emohenda jerére, ehechauka kaja ta’anga."
+  - "Ñe’ẽ jeheka tai tuicháva reheve ha rompecabezas online hasy’ỹva 4 térã 9 pehẽnguére reheve reipota’ỹre ko tendápe."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Mboy pehẽngue iporãvéva peteĩ tapicha oikovéva demencia ndive?"
+    a: "Ndaipóri peteĩ papapy añoite. Peteĩ tapicha omba’apova’ekue 1,000 pehẽngue reheve ikatu gueteri ovy’a heta pehẽngue reheve oñepyrũvo, ha ambuépe iporãve peteĩ aty michĩ pehẽngue tuicháva. Rompecabezas hasýramo térã ombyai’ỹramo, ehasa sa’ive pehẽngue reheve. Ore rompecabezas Ta’anga online oreko 4 térã 9 pehẽngue."
+  - q: "¿Iporãpa jigsaw rompecabezas umi tapichápe oikovéva demencia ndive?"
+    a: "Heta tapicha ovy’a hendive, oipotáramo rompecabezas yma guare. Rompecabezas ome’ẽ po rupive mba’e ojapo hag̃ua, peteĩ tembipota hesakãva ha peteĩ ta’anga oñe’ẽ hag̃ua. Ndaipóri rompecabezas ojehechaukáva omonguera térã omombegueha demencia, upévare eiporavo vy’a ha jeiko oñondive rehehápe."
+  - q: "¿Mba’épa ikatu ajapo peteĩ tapicha ndaikatúiramo gueteri ojapo jigsaw?"
+    a: "Ejapo michĩve ha nde rejapo hetave: eme’ẽ peteĩ pehẽngue peteĩteĩ, térã eheja ipahápe g̃uarã pehẽngue michĩmíme. Eha’ã peteĩ rompecabezas online 4 pehẽnguére reheve, emohenda pehẽngue sa’y reheve, térã peẽ pehecha pe ta’anga oĩmbámava oñondive."
+  - q: "¿Iporãpa crucigrama ha ñe’ẽ jeheka demencia hag̃ua?"
+    a: "Ikatu oñepyrũvo, tai tuicháva reheve. Ñe’ẽ jeheka oguerekóva ñe’ẽ oho akatúape ha yvýpe añoite ndahasyivéva umi oguerekóva ijyke térã tapykue gotyo. Emoñe’ẽ hatã pe porandu térã ñe’ẽ tysýi ha peẽ pejapo oñondive."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Peteĩ jigsaw oñemosarambíva karu mesa ári ha’e peteĩ tembiapo ndahasýiva ojejapo hag̃ua oñondive. Ikatu peguapy oñondive ñe’ẽ’ỹre, pe ta’anga ome’ẽ mba’e oñe’ẽ hag̃ua, ha pehẽngue paha oñemoĩvo vy’a. Upevére, rompecabezas tekotevẽ oñemoambue demencia oñemoambuéramo. Rompecabezas hasyetereíva ikatu omoambue peteĩ ka’aru py’aguapy peteĩ ka’aru ñemondyi rehegua. Ko kuatiarogue ohechauka mba’éichapa eiporavo ha embohekopyahu jigsaw, rompecabezas ñe’ẽ rehegua ha rompecabezas online hasy’ỹva, ha mba’épa ejapóta oñepyrũramo hasy.
 
-## Are puzzles good for people with dementia?
+## ¿Iporãpa rompecabezas umi tapichápe oikovéva demencia ndive?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Heta tapicha ovy’a hendive, oipotáramo rompecabezas yma guare. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) omombe’u ñe’ẽ jeheka, karéta ñembosarái ha mesa ári ñembosarái tembiapo oñepyrũvo hag̃ua, ha [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) omombe’u ñembosarái ha rompecabezas online tableta rupive peteĩ hendáicha ikatu hag̃uáicha oiko hendy.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Rompecabezas ndaha’éi pohã. Ndaipóri rompecabezas ojehechaukáva omombegue térã omondoha demencia; ore ñembo’e [ñembosarái apytu’ũ rehegua ha demencia rehegua](/brain-health/brain-games/) omyesakã pe jehapereka. Rompecabezas ojejapo ikatu hag̃uáicha peteĩ aravo porã ha hendy oñondive. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ombykymi kóicha: ema’ẽ vy’áre, ndaha’éi pe apopyrére.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Mba’éichapa eiporavóta peteĩ jigsaw rompecabezas peteĩ tapicha oikovéva demencia ndive?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Ehecha mba’épa ovy’a upe tapichápe ha mba’éichapa oho kuri rompecabezas paha, ndaha’éi peteĩ téra reheve.
 
-### Number of pieces
+### Pehẽngue papapy
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ndaipóri papapy hekopete. Peteĩ tapicha oipotaitereíva rompecabezas ikatu gueteri ovy’a heta ary pehẽngue reheve oñepyrũvo, ha ambue ovy’ave peteĩ aty michĩ reheve. Peteĩ tape porã: rompecabezas pahaitéva hasýramo, eiporavo peteĩ oguerekóva nunga pokõi gotyo sa’ive pehẽngue. Opa pya’eramo ha oipotáramo hetave, eipe’a michĩve.
 
-### Piece size and feel
+### Pehẽngue tuichakue ha mba’éichapa ojejoko
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Pehẽngue tuichavéva** ndahasyive ojehecha, ojeipyhy ha ojejere hag̃ua.
+- **Pehẽngue hatã ha anambusu** opyta hendápe ha noñembyaíri okañýramo.
+- **Hova hesakã’ỹva** omomichĩ tesape lámpara ha ovetã guýpe.
+- **Ani eipuru pehẽngue michĩeterei** upe tapicha omoĩramo mba’e ijuru ryepýpe, ikatúva oiko demencia ipahávo.
 
-### The picture
+### Ta’anga
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Tembiporu kakuaa rehegua.** Yvotyty, kosina, mba’yrumýi tuja, mymba ñemitỹme, táva rembe’ýpe, térã peteĩ ñembosarái oipotáva. Ndaha’éi ta’anga mitãme g̃uarã térã ojehecháva mitã rembiapoháramo.
+- **Sa’y iñambuéva hesakãva.** Óga pytã, yga hovy ha ñu hovyũ ndahasyive yvytúngui omyenyhẽva rompecabezas mbyte reheve.
+- **Ojekuaáva ha tee rehegua.** Ta’anga peteĩ tenda oikohaguépe térã peteĩ mba’e oipotava’ekue ome’ẽ heta mba’e oñe’ẽ hag̃ua. Oĩ mbo’eharã ikatúva omoambue familia ra’anga peteĩ jigsaw-pe.
 
-## How do you do a puzzle together?
+## Mba’éichapa pejapóta peteĩ rompecabezas oñondive?
 
-Set it up so the person can get straight to the enjoyable part.
+Embohekopyahu ikatu hag̃uáicha upe tapicha oñepyrũ pe pehẽ vore reheguágui.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Eiporavo peteĩ tenda porã.** Tesape porã, apyka ijyva reheve, ha mesa térã bandeja pe rompecabezas ikatu hag̃uáicha opyta.
+2. **Emoĩ hesa’ỹijo kaja ta’anga** mokõivéva pehecha hag̃ua.
+3. **Ejere pehẽngue hova gotyo** peẽ peñepyrũ mboyve.
+4. **Emohenda jerére rehegua** nde, térã ejapo jerére raẽ ha eheja mbyte hendive g̃uarã.
+5. **Embyaty pehẽngue sa’y reheve** peteĩ aty bandeja térã pláto pypuku’ỹvape.
+6. **Eme’ẽ peteĩ pehẽngue peteĩteĩ** pe aty tuichaitereíramo. “Aimo’ã ko’ãva ha’e óga pehẽngue.”
+7. **Eñe’ẽ pe ta’anga rehe,** ndaha’éi pe tenondegua rehe. “Kóva ojehecha che ru yga rehe.”
+8. **Eheja oĩvo.** Ejevy hese heta ára pukukue. Ndaipóri pya’e.
+9. **Epyta peteĩ ára porãme,** peteĩ pehẽngue oike rire, ovy’a aja gueteri.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) omombe’u eipytyvõ hag̃ua oñepyrũvo, emaña ñemondyíre ha eheja omaña añoite ovy’averamo péicha. Omaña nde remoĩvo pehẽngue ha ohechauka moõpa ikatu oike, upe avei ha’e jeike.
 
-## Easy online puzzles
+## Rompecabezas online hasy’ỹva
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Tableta rupive rompecabezas oguereko mba’e porã: ndaipóri pehẽngue okañýva, ta’anga tuicha omyenyhẽva pantalla, ha ndaipóri mesa oñemopotĩ hag̃ua.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Ore [Rompecabezas ta’anga](/games/picture-puzzle/) reipota’ỹva oikytĩ peteĩ ta’anga 4 térã 9 pehẽnguére. Epoko mokõi pehẽngue emoambue hag̃ua pe ta’anga oñembyaty peve. Pe ta’anga opa’ỹva opyta pantalla ári ñepytyvõrã, ndaipóri aravoha, ha ikatu repyta ejapose vove. Irundy pehẽngue ikatu oiko porã heta tapichápe mbyte tendápe, oĩramo peteĩ tapicha ykére.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Ta’anga ñembosarái ndahasýivétaramo, eha’ã [Ejuhu pe ojueheguáva](/games/find-the-same/), epoko pe ta’anga ojueheguáva peteĩ oĩva yvate, térã [Ñemohenda oñondive](/games/sort-together/), ta’anga oho ajakápe kosina térã yvotyty rupi.
 
-## Word puzzles: word searches and crosswords
+## Rompecabezas ñe’ẽ rehegua: ñe’ẽ jeheka ha crucigrama
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Rompecabezas ñe’ẽ rehegua ikatu oiko porã umi tapichápe oipotava’ekuévape, hetavejey demencia oñepyrũvo.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Ñe’ẽ jeheka tai tuicháva reheve.** Ore [Ñe’ẽ jeheka](/games/word-search/) reipota’ỹva oipuru tai tuicha ha ñe’ẽ michĩmíme, oho akatúape ha yvýpe, araka’eve ijyke térã tapykue gotyo. Eñembosarái pantalla ári térã emonguatia.
+- **Emoñe’ẽ hatã pe tysýi.** Peteĩ omoñe’ẽ peteĩ ñe’ẽ, ambue oheka. Ojeréramo pe tai peteĩha añoite, iporã avei.
+- **Crucigrama tai tuicháva reheve** aranduka rompecabezas rehegua ikatu oiko oñepyrũvo. Emoñe’ẽ hatã pe porandu, pejopyru pe haiha ha pemyenyhẽ pe mbohovái oñondive. Crucigrama hasy’ỹva ha peteĩ téma rehegua iporãve umi iñañáva reheve.
+- **Eñe’ẽ pe ñe’ẽ rehe.** “Yvotyty” ikatu ogueraha pa minuto oñe’ẽ hag̃ua tomate rehe.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Hetave tembiapo kuatiápe ha mba’éichapa emonguatia ndahasyive hag̃ua ojehecha ha ojejoko, ehecha [tembiapo demencia rehegua oñemonguatiáva reipota’ỹre](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Mba’e rompecabezaspa oiko porã peteĩteĩ tendápe?
 
-Stages overlap, and good and hard days are normal.
+Umi tenda ojoaju, ha ára porã ha hasy ha’e mba’e oikóva meme.
 
-| Stage | Puzzles that often fit | Your role |
+| Tenda | Rompecabezas ikatúva oiko porã | Nde rembiapo |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Oñepyrũvo | Jigsaw ojekuaáva sa’ive pehẽngue yma reheve, crucigrama ha ñe’ẽ jeheka tai tuicháva reheve, rompecabezas online 9 pehẽnguére reheve | Irũnguára: eheja toiporavo, eipytyvõ ojeruréramo |
+| Mbyte | Jigsaw peteĩ aty michĩ pehẽngue tuicháva reheve, rompecabezas online 4 pehẽnguére reheve, ñe’ẽ jeheka oñemoñe’ẽva hatã oñondive | Embohekopyahu, emohenda pehẽngue, eme’ẽ peteĩteĩ |
+| Ipahápe | Peẽ pehecha peteĩ ta’anga opa’ỹva oñondive, Ejuhu pe ojueheguáva mokõi ta’anga reheve, ejoko peteĩ aty pehẽngue tuicháva | Egueru hendápe; nde reime hese ha’e pe tembiapo |
 
-## When should you make a puzzle easier, or stop?
+## Araka’épa ikatu rejapo rompecabezas ndahasyivétava, térã repyta?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Emaña pytũ, pehẽngue ñemomýi, “ndaikatúi” je’e jeyjey térã tesa py’apy. Umíva ohechauka oñemoambue va’erã mba’e, ndaha’éi oñeñongatu va’erã.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Ejapo michĩve.** Sa’ive pehẽngue, térã eheja ipahápe g̃uarã pehẽngue michĩmíme.
+- **Ejapo hetave nde** ha eipepirũ toipytyvõ pe hasy’ỹvévape.
+- **Ehasa ambue mba’epépe:** emohenda pehẽngue sa’y reheve, rompecabezas online 4 pehẽnguére reheve, térã [mbosa’y](/games/coloring/).
+- **Epyta.** Eheja ha’eño ha hoy’u peteĩ ka’ay. Ikatu pejevy ambue árape, térã ndajeveínte.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Rompecabezas oñepyrũramo ojehecha peteĩ mandu’a hasy rehegua, iporã ojehejarei. Oĩ heta ambue hendáicha ikatu hag̃uáicha piko porã oñondive; ore [101 tembiapo ñe’ẽporã](/activities/ideas/) ha’e peteĩ tenda porã ojeheka hag̃ua.

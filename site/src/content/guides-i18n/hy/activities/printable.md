@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Դեմենցիայի համար անվճար տպվող զբաղմունքներ"
+seoTitle: "Դեմենցիայի անվճար տպվող զբաղմունքներ"
+description: "Դեմենցիայի համար անվճար տպվող զբաղմունքներ՝ մեծ տառերով բառախաղ, գունազարդման էջեր, զրույցի քարտեր և նկարներով բինգո, ինչպես նաև տպելու օգտակար խորհուրդներ։"
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments-ը առաջարկում է դեմենցիայի համար անվճար տպվող զբաղմունքներ՝
+  մեծ տառերով բառախաղ, գունազարդման էջեր, զրույցի նկարներով քարտեր և
+  նկարներով բինգոյի քարտեր։ Բացեք ցանկացած խաղի էջ և օգտագործեք դրա
+  «Տպել» կոճակը։ Տպեք մեծ, պարզ տառատեսակով՝ հաստ թղթի վրա, յուրաքանչյուր
+  էջում պահեք մեկ առաջադրանք, իսկ բազմակի օգտագործման էջերը լամինացրեք։
+  Օգտակար են նաև տանը պատրաստված պարզ նյութերը, օրինակ՝ կյանքի պատմության
+  էջը կամ օրվա ժամանակացույցը։
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Մեր տպվող զբաղմունքները անվճար են՝ Word Search, Coloring, Conversation Cards և Picture Bingo։ Յուրաքանչյուր խաղի էջում կա «Տպել» կոճակ։"
+  - "Տպեք մեծ, պարզ տառատեսակով՝ հստակ հակադրությամբ, և յուրաքանչյուր էջում պահեք մեկ առաջադրանք։"
+  - "Հաստ թղթը կամ ստվարաթուղթը ավելի հեշտ է բռնել և ավելի դժվար է ճմլել։ Լամինացրեք էջերը, որպեսզի կարողանաք դրանք կրկին օգտագործել ջնջվող մարկերներով։"
+  - "Տանը պատրաստված պարզ նյութերը, օրինակ՝ կյանքի պատմության էջը, օրվա ժամանակացույցը կամ դռների նկարներով պիտակները, պարզ են և օգտակար։"
+  - "Տպված էջը հրավեր է, ոչ թե տնային աշխատանք։ Նորմալ է, եթե այն արվում է մասամբ կամ ընդհանրապես չի արվում։"
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Ձեր տպվող զբաղմունքները դեմենցիա ունեցող մարդկանց համար անվճար են՞։"
+    a: "Այո։ Այս կայքի Word Search, Coloring, Conversation Cards և Picture Bingo էջերը կարելի է անվճար օգտագործել և տպել։ Բացեք խաղի էջը և օգտագործեք «Տպել» կոճակը։"
+  - q: "Ո՞ր տպվող զբաղմունքներն են ավելի հարմար դեմենցիայի դեպքում։"
+    a: "Ավելի հարմար են պարզ, հստակ և մեծահասակներին վայել տպվող նյութերը՝ մեծ տառերով բառախաղ, որտեղ բառերը идут միայն աջ և ներքև, հստակ ուրվագծերով գունազարդման էջեր, զրույց սկսող նկարներով քարտեր և խմբերի համար նկարներով բինգո։ Ընտրեք զբաղմունքը՝ հաշվի առնելով Ձեր խնամքի տակ գտնվող մարդու հետաքրքրություններն ու տվյալ պահին նրա կարողությունները, և յուրաքանչյուր էջում պահեք մեկ առաջադրանք։"
+  - q: "Ինչպե՞ս տպվող նյութերն ավելի հեշտ դարձնել տեսնելու և օգտագործելու համար։"
+    a: "Օգտագործեք մեծ, պարզ տառատեսակ, մուգ թանաք՝ սպիտակ կամ կրեմագույն թղթի վրա, և բավականաչափ ազատ տարածք։ Տպեք հաստ թղթի կամ ստվարաթղթի վրա, որպեսզի էջը հարթ մնա, ընտրեք անփայլ թուղթ՝ փայլը նվազեցնելու համար, և օգտագործեք սեղմակ կամ չսահող հիմք, որպեսզի էջը տեղում մնա։ Լամինացումը օգնում է, որ էջերը ավելի երկար ծառայեն։"
+  - q: "Կարո՞ղ եմ Ձեր զբաղմունքները տպել խնամքի տան կամ ցերեկային ծրագրի համար։"
+    a: "Այո։ Զբաղմունքներ կազմակերպող աշխատակիցները կարող են մեր էջերը տպել բնակիչների և խմբերի համար։ Picture Bingo-ն նախատեսված է խմբերի համար և ունի էկրանի վրա ցուցադրվող հաղորդավարի բաժին, որը կարող եք ցույց տալ հեռուստացույցով կամ պրոյեկտորով։"
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Երբեմն ամենալավ զբաղմունքը խոհանոցի սեղանի շուրջ թղթի թերթիկն ու գրիչն են։ Տպվող նյութերը լիցքավորման կարիք չունեն, գաղտնաբառեր չեն պահանջում և էկրան չեն օգտագործում, իսկ այցելության կամ խմբային հանդիպման ժամանակ դրանք հեշտ է վերցնել հետը։ Այս էջում ներկայացված են մեր կայքի անվճար տպվող զբաղմունքները, ինչպես նաև խորհուրդներ, թե ինչպես դրանք տպել այնպես, որ հեշտ լինի տեսնել և բռնել, և մի քանի պարզ տպվող նյութեր, որոնք ընտանիքներն ու զբաղմունքներ կազմակերպող աշխատակիցները կարող են օգտակար համարել։
 
-## What free printable activities do you offer?
+## Ի՞նչ անվճար տպվող զբաղմունքներ եք առաջարկում։
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Մենք առաջարկում ենք չորս անվճար տպվող նյութ։ Բացեք այս խաղերից ցանկացածի էջը և օգտագործեք **Տպել** կոճակը՝ տպման համար հարմար տարբերակը ստանալու համար։
 
-| Printable | What it is | Good for |
+| Տպվող նյութ | Ինչ է դա | Ո՞ւմ համար է հարմար |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Մեծ տառերով բառախաղ, որտեղ բառերը идут միայն աջ և ներքև | Հանգիստ ժամանակ գրիչով, երբ մարդը նախկինում սիրել է հանելուկներ |
+| [Coloring](/games/coloring/) | Գունազարդման էջեր՝ տպելու կամ էկրանին գունազարդելու համար | Հանգիստ, ստեղծագործ ժամանակ, ցանկացած փուլում՝ օգնությամբ |
+| [Conversation Cards](/games/conversation-cards/) | Նկարներով քարտեր՝ թեմաներով բաց, առանց հարցումների զրույցի հուշումներով | Այցելություններ, զանգեր, ընտանեկան ճաշեր, հիշողությունների խմբեր |
+| [Picture Bingo](/games/picture-bingo/) | Բինգոյի քարտեր՝ թվերի փոխարեն նկարներով, ինչպես նաև էկրանին ցուցադրվող հաղորդավար | Խնամքի տներ, ցերեկային ծրագրեր, ընտանեկան հավաքներ |
 
-### Large-print word search
+### Մեծ տառերով բառախաղ
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) խաղում օգտագործվում են մեծ տառեր, իսկ բառերը идут միայն աջ և ներքև՝ առանց անկյունագծերի և հետադարձ բառերի։ Աշխատեք միասին. մի մարդը կարդում է բառը ցանկից, մյուսը փնտրում է այն։ Եթե բառեր գտնելը դժվարանում է, փորձեք միասին շրջանագծել յուրաքանչյուր բառի առաջին տառը կամ պարզապես բարձրաձայն կարդալ բառացանկը և զրուցել յուրաքանչյուր բառի մասին։
 
-### Coloring pages
+### Գունազարդման էջեր
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Coloring](/games/coloring/) էջերը կարելի է տպել՝ մարկերներով կամ գունավոր մատիտներով գունազարդելու համար, կամ գունազարդել պլանշետի վրա՝ սեղմելով նախ գույնը, ապա նկարի հատվածը։ Տպված էջերի համար առաջարկեք հաստ մարկերներ և միաժամանակ մի քանի գույն։ Մեր [արվեստի և ձեռագործի ուղեցույցում](/activities/arts-and-crafts/) կարող եք գտնել գաղափարներ, թե ինչպես գունազարդումը պահել մեծահասակներին վայել և հանգիստ։
 
-### Conversation cards
+### Զրույցի քարտեր
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) քարտերում հստակ նկարը զուգորդվում է բաց հուշման հետ, օրինակ՝ «Պատմեք ինձ մասին...» կամ «Ի՞նչ եք նկատում»։ Դրանք գրված են որպես բաց հրավեր, ոչ թե հարցման հարցեր։ Տպեք հավաքածուն, կտրատեք քարտերը և մի քանիսը պահեք պայուսակում՝ այցելությունների համար, կամ հեռախոսի մոտ՝ զանգերի ժամանակ։ Դրանք լավ են աշխատում նաև [հիշողությունների](/activities/reminiscence/) խմբերում։
 
-### Picture bingo cards
+### Նկարներով բինգոյի քարտեր
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Picture Bingo](/games/picture-bingo/) քարտերում թվերի փոխարեն օգտագործվում են նկարներ։ Տպեք մեկ քարտ յուրաքանչյուր խաղացողի համար և էկրանի վրա ցուցադրվող հաղորդավարի բաժինը բացեք նոթբուքով, հեռուստացույցով կամ պրոյեկտորով։ Մենք առաջարկում ենք խաղալ այնքան, մինչև բոլորի քարտերը լցվեն, որպեսզի ոչ ոք դուրս չմնա։ Տեսեք [խնամքի տների խմբային զբաղմունքները](/activities/care-home-groups/)՝ հանդիպումը անցկացնելու խորհուրդների համար։
 
-## How do I print activities so they are easy to use?
+## Ինչպե՞ս տպել զբաղմունքները, որպեսզի դրանք հեշտ լինի օգտագործել։
 
-Small changes in how you print make a big difference.
+Տպելու ձևի փոքր փոփոխությունները կարող են մեծ տարբերություն ստեղծել։
 
-### Make it easy to see
+### Դարձրեք հեշտ տեսնելու համար
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Մեծ, պարզ տառատեսակ։** Օգտագործեք ամենամեծ տպման չափը, որը դեռ տեղավորվում է էջի վրա։ Խուսափեք զարդարուն կամ ձեռագիր ոճի տառատեսակներից։
+- **Հստակ հակադրություն։** Մուգ թանաք՝ սպիտակ կամ կրեմագույն թղթի վրա։ Խուսափեք բաց մոխրագույնից կամ գունավոր ֆոնից։
+- **Անփայլ թուղթը** նվազեցնում է փայլը ուժեղ լույսի տակ։
+- **Ստուգեք ակնոցն ու լուսավորությունը։** Alzheimer's Association-ը նշում է, որ տեսողության և լսողության դժվարությունները կարող են շփումն ավելի բարդ դարձնել, և խորհուրդ է տալիս դրանք պարբերաբար ստուգել։ Օգնում է նաև պայծառ, հավասար լույսը։
 
-### Make it easy to hold
+### Դարձրեք հեշտ բռնելու համար
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Հաստ թուղթը կամ ստվարաթուղթը** հարթ է մնում, ավելի հեշտ է վերցնել և դիմանում է բազմակի օգտագործմանը։
+- **Սեղմակը** կամ չսահող հիմքը օգնում է, որ էջը չսահի։
+- **Հաստ մարկերները կամ հաստ մատիտները** ավելի հեշտ է բռնել, քան բարակ գրիչները։
 
-### Make it reusable
+### Դարձրեք կրկին օգտագործելի
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Լամինացրեք էջերը** կամ դրեք դրանք թափանցիկ թղթապանակների մեջ։ Word Search-ի և բինգոյի քարտերի վրա օգտագործեք ջնջվող մարկերներ, ապա մաքրեք։
+- **Ընտրեք անփայլ պատյաններ**, եթե փայլը խնդիր է, և **կլորացրեք լամինացված քարտերի անկյունները** մկրատով, որպեսզի դրանք ավելի հարմար լինեն բռնելու համար։
+- **Պահեք սիրելի նյութերի թղթապանակ**, որպեսզի ամեն շաբաթ նույն էջը նորից չտպեք։
 
-### Keep it simple
+### Պահեք պարզ
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Յուրաքանչյուր էջում մեկ առաջադրանք։** Մեկ բառախաղ կամ մեկ նկար, ոչ թե մի քանի զբաղմունք՝ նույն էջում կուտակված։
+- **Բավականաչափ ազատ տարածք։** Խիտ էջը կարող է ծանր զգացվել։
+- **Հնարավորության դեպքում առանց կարդալու հրահանգների։** Ցույց տվեք, թե ինչ անել, բառերով բացատրելու փոխարեն։
+- **Կտրեք թերթիկը։** Եթե ամբողջ էջը շատ է, կտրեք այն կիսով չափ կամ ծալեք այնպես, որ միայն մի մասը տեսանելի լինի։
 
-## Other useful printables you can make at home
+## Ի՞նչ այլ օգտակար տպվող նյութեր կարող եք պատրաստել տանը։
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ամեն օգտակար տպվող նյութը խաղ չէ։ Սրանք հեշտ է պատրաստել տեքստային խմբագրիչով և տպիչով։
 
-### A life-story page
+### Կյանքի պատմության էջ
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Մեկ էջանոց «իմ մասին» թերթիկ՝ լուսանկարով, այն անունով, որով մարդը սիրում է, որ իրեն դիմեն, որտեղ է մեծացել, ինչ աշխատանք է կատարել, ընտանիքի, սիրելի ուտելիքների, երաժշտության, ինչպես նաև նրան հանգստացնող կամ անհանգստացնող բաների մասին։ Dementia Australia-ն առաջարկում է [հիշողությունների գիրք](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia)՝ մարդու կյանքի, նախասիրությունների և կարևոր մարդկանց մասին տեղեկություններով, որպեսզի այցելուներին ու խնամողներին օգնի և զրույց սկսելու առիթ դառնա։
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Այն հատկապես օգտակար է հիվանդանոցներում և նոր խնամքի միջավայրերում։ NIA-ն խորհուրդ է տալիս հիվանդանոցի աշխատակիցներին տալ [անձնական տեղեկությունների թերթիկ](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital), որտեղ նշված են մարդու առօրյան, նախընտրած դիմելաձևը, սիրած և չսիրած բաները, հնարավոր գրգռիչները և ցավի ոչ խոսքային նշանները։
 
-### A daily schedule
+### Օրվա ժամանակացույց
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Օրվա մեծ և պարզ ժամանակացույց՝ ժամերով, մի քանի բառով և յուրաքանչյուր մասի համար փոքր նկարով. նախաճաշ, զբոսանք, ճաշ, հանգիստ, երաժշտություն, ընթրիք։ Alzheimer's Association-ի [օրվա խնամքի պլանը](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) առաջարկում է պլանավորել՝ հաշվի առնելով օրվա այն ժամերը, երբ մարդն իրեն ավելի լավ է զգում, պահել արթնանալու և քնելու կանոնավոր ժամեր, ինչպես նաև հավասարակշռել զբաղմունքն ու հանգիստը։ Կպցրեք այն աչքի մակարդակին, օրինակ՝ սառնարանին, և պահեք ճկուն։ Լրացուցիչ տեղեկությունների համար տեսեք մեր [օրվա առօրյայի ուղեցույցը](/activities/daily-routine/)։
 
-### Picture labels for rooms and drawers
+### Սենյակների և դարակների նկարներով պիտակներ
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA-ն առաջարկում է օգտագործել վառ գույնի նշաններ կամ պարզ նկարներ՝ [լոգարանը, ննջասենյակն ու խոհանոցը նշելու համար](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips)։ Նույն գաղափարը հարմար է նաև դարակների և պահարանների համար. գուլպաների նկարը՝ գուլպաների դարակին, բաժակների նկարը՝ բաժակների պահարանին։ Տպեք, լամինացրեք և կպցրեք։
 
-### A sorting set
+### Դասավորելու հավաքածու
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Տպեք երկու պարզ խմբի նկարներ, օրինակ՝ մրգեր և ծաղիկներ կամ գործիքներ և խոհանոցային իրեր, ստվարաթղթի վրա։ Կտրատեք և միասին դասավորեք երկու զամբյուղի մեջ։ Այս զբաղմունքի էկրանի տարբերակը [Sort Together](/games/sort-together/) խաղն է։
 
-### Song lyric sheets
+### Երգերի բառերով թերթիկներ
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Տպեք մի քանի սիրելի երգերի բառերը շատ մեծ տառատեսակով՝ միասին երգելու համար։ Նույնիսկ նրանք, ովքեր այլևս շատ չեն կարդում, կարող են հաճույք ստանալ թերթիկը ձեռքում պահելուց։
 
-### A family photo page
+### Ընտանեկան լուսանկարների էջ
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Մեկ էջ՝ չորսից վեց մեծ ընտանեկան լուսանկարով, յուրաքանչյուրի տակ փոքր անունով։ Այն կարող է դրված մնալ սեղանին, որպեսզի ով ցանկանում է, վերցնի և զրուցի դրանց մասին։ Պիտակները օգնում են այցելուներին և աշխատակիցներին միանալ զրույցին, և ոչ ոք ստիպված չի լինում հարցնել՝ «Սա ո՞վ է»։
 
-### A recipe card
+### Բաղադրատոմսի քարտ
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Տպեք ընտանիքի սիրելի բաղադրատոմսը մեծ տառատեսակով։ Օգտագործեք այն միասին պատրաստելու համար կամ պարզապես անցյալի կերակուրների մասին զրուցելու համար։
 
-## How do I offer a printable without it feeling like homework?
+## Ինչպե՞ս առաջարկել տպվող նյութը, որպեսզի այն տնային աշխատանքի պես չզգացվի։
 
-Present it as something to share, not a test.
+Ներկայացրեք այն որպես միասին անելու բան, ոչ թե ստուգում։
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Նստեք և ինքներդ սկսեք։** «Ես այս բառախաղն եմ անում։ Կօգնե՞ք ինձ գտնել «garden» բառը»։
+- **Աշխատեք միասին։** Հերթով կատարեք կամ մեկը գտնի, մյուսը՝ շրջանագծի։
+- **Երբեք մի նշեք ճիշտ կամ սխալ։** Alzheimer's Association-ի [տանը զբաղմունքների ուղեցույցը](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) խորհուրդ է տալիս ուշադրությունը դարձնել գործընթացի, ոչ թե արդյունքի վրա, և կարևորել հաճույքը, ոչ թե ձեռքբերումը։
+- **Թողեք էջերը տեսանելի տեղում։** Նույն ուղեցույցը առաջարկում է լուսանկարների ալբոմները, թերթերը կամ հին ամսագրերը դնել հեշտ հասանելի տեղերում։ Տպված քարտերն ու լուսանկարների էջերը կարելի է նույն կերպ թողնել փոքր սեղանի վրա։
+- **Դադարեցրեք, երբ ցանկանում եք։** Կես գունազարդված էջը նույնպես լավ անցկացված կեսօր է։ Նույնքան լավ է նաև էջը մի կողմ դնելն ու մի բաժակ թեյ խմելը։
 
-## Where to find more
+## Որտե՞ղ գտնել ավելին
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Դիտեք մեր բոլոր [խաղերն ու տպվող նյութերը](/games/) կամ տեսեք [զբաղմունքներ յուրաքանչյուր փուլի համար](/activities/ideas/)՝ թղթով և առանց թղթի ավելի շատ գաղափարների համար։

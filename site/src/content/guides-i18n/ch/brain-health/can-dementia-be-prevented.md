@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Mapreniyi I Demensia? Hafa Sumasaga I Investigasion"
+seoTitle: "Mapreniyi I Demensia? Hafa Dinanña' I Investigasion"
+description: "Hafa i 2024 Lancet Commission yan i dinanña' na tinitiyi-ña gi fanhinasso i peligru ni demensia, yan hafa ti sumaga, yan i manma'an na guinaiya para u fanhinasso yan dokto."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Taya' taotao ni sumasaga na manmapreniyi i demensia. I 2024 Lancet Commission
+  nu i estimasion na casi maitai na kuentos demensia gi mundo manma'laknos yan
+  14 na peligru ni siña mana'chachanges, taiguini i altu na presion, ti
+  mañaina, yan ti guaiyi'. I tinitiyi-ña ni'e' ti sumasaga para i tenga'
+  nu mas ti ma'estima, lao ti prueba na mas ti kuentos demensia. Mas i taotao ni
+  manmana'i ginen maseha ni "matuette" manmapuenta i demensia, yan taya' kulpa.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "I 2024 Lancet Commission ma'fasa'gua i casi 45% na kuentos demensia gi mundo yan 14 na peligru ni siña mana'chachanges. Esti na estimasion pupuenblasion, ti garantia para hafa mismo na taotao."
+  - "Fanhinasso i peligru ilek'-ña i chances gi kuantos taotao gi hinasso na ha'ani, lao ti ilek'-ña para un taotao ti u ma'evita i demensia."
+  - "Dinanña' na trial kao FINGER, US POINTER yan SPRINT MIND ma'hahalom i ti dankolo na benifisio gi thinking tests pat mild cognitive impairment, lao taya' ni'e' nu ma'prueba na i fan lifestyle program ma'prepreniyi i demensia."
+  - "I edad i pumalu'ña na kumu peligru para Alzheimer's, yan ti siña mana'chachanges. Mas i taotao ni manmanna'i ginen maseha ni fan ma'ekspiñiyi i demensia."
+  - "I hinasso na masa'gua' mas ma'estudiyan, kumu manmata'lo' i altu na presion, uson hearing aids yan manmamaila', manmaloffa' na pa'go para u siña ha'alok ni dokto, ya ma'fanhinasso lokkue i hinasso."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Mapreniyi ha' i demensia?"
+    a: "Taya' ni' manma'prueba na fama'nanaogue para u ma'prepreniyi i demensia para un taotao. I investigasion muna'guaiya na i ma'fanhinasso i peligru kumu altu na presion, ti manmaseha na ti mañaina, yan i fumuma', siña ha'ahalom i chances ni demensia gi hinasso na taotao pat u ma'agupu i tiempo ni manmaloffa' i demensia. Esti manma'estima, taya' promesa."
+  - q: "Hafa i 45% gi Lancet Commission?"
+    a: "I 2024 Lancet Commission nu i estimasion na casi 45% na kuentos demensia gi mundo manma'laknos yan 14 na peligru ni siña, gi teoria, mana'chachanges. I estimasion ha'nu na i esti na peligru manmaloffa' i demensia, yan i manma'estudiyan manna'tuge' na sa' sumaga i kinalamten. Ha' ilek' i hinasso na taotaolago, ya ti ha'ana' i peligru para un taotao."
+  - q: "Kao i tatan-miu mana'hinasso na ma'estudiyan, sa' ha' manmana'i demensia?"
+    a: "I edad, i tinituhon, yan manmaseha siha ni taya' taotao ni manmakontrola, manmadakkolo' na parte gi demensia. I manma'estudiyan gi Lancet Commission manna'tuge' na i ma'fanhinasso i peligru gi hinasso taya' garantia na ti u ma'evita i demensia para un taotao. I dayon ni diagnosis taya' sinienta na may nahuelong hafa mismo."
+  - q: "Pot hafa esta ti mas direpiso u ma'fanhinasso i peligru ni demensia despues di 65 na edad?"
+    a: "I Lancet Commission ha' na taya' mas ti dikike' pat dikike' u ma'fanhinasso i peligru, maski dankolo na parte i pruenba manmaloffa' gi mamaila' na edad. Ma'estudiyan i ma'fanmaentiende yan ma'fanhinasso i ti guaiyi' yan i ti manmaloffa' na taotao, yan i hinasso na ha'ani yan manmamaila' na hinasso. Ha'alok ni dokto kao i ha' fitme para hamyo."
+  - q: "Siña ha' ma'prepreniyi i demensia ni gaiyan na juegu pat i espesiyat na dieta?"
+    a: "Taya' juegu, fa'nana', suplemento pat dieta ni manmaprueba na ma'prepreniyi i demensia. Un tres anos na trial gi MIND diet ti nu i dinanña' na diperensia gi thinking kumpara ni control diet, yan i commercial na brain-training apps taya' nu ma'prueba na manmaseha na efekto kumu gi research trials."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Kao ha' guaiya hao gi taotao ni gaige ni demensia, pat kao ha' li'e' i tatan-miu ni gaige gi demensia, siña nina'ma'pos hao kumu sa' maisa ma'prepreniyi esta, yan kumu sa' siña ha' ma'prepreniyi para hagu. Esti na pa'hina ma'hahalom i investigasion ni sumasaga, gi lengguahen ni mamaila'. I kontestasion kortu: taya' taotao ni sumasaga na mamomprometi na ma'prepreniyi i demensia, lao i investigasion muna'guaiya na siña ma'fanhinasso guafi na peligru, yan i ma'fanhinasso esti gi hinasso na taotaolago siña ha'ahalom i kuentos taotao ni manmana'i demensia, pat manmana'i ginen maseha na tiempo.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Esti i hinasso na inpormasion, taya' i konsehu medikat. Put fabot, lalaiyi i [medical disclaimer](/medical-disclaimer/) ya' ha'alok ni dokto put i kundision-miu.
 
-## Can dementia be prevented?
+## Siña ha' ma'prepreniyi i demensia?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Taya' ni' manma'prueba na fama'nanaogue para u ma'prepreniyi i demensia para hafa mismo na taotao. I National Institute on Aging (NIA) ha' na maseha ni [taya' todabia ni' manma'prueba na ma'prepreniyi i Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), i manma'estudiyan manmakonsigi i manmaprometi na estratehia yan manma'estudiyan hafa siña yan hafa ti siña.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Hafa i investigasion *ma'prueba* ha' na sumasaga na manma'lalaknos na kondision yan kostumbre manma'lalaknos ni altu na chanse ni demensia. Kuando i peligru manmaloffa' gi hinasso na taotaolago, siña ha'ahalom i kuentos taotao ni manmana'i demensia, pat manmana'i ginen maseha na tiempo gi tiempo-ñiha. Esti dankolo na diperensia ginen i garantia.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Un maisa' na sinienta: i 2024 Lancet Commission nu i ha'anao na gi sumaga na dinanña' na nasion, kumu i US yan i UK, i katbon mañaina' ni kuentos demensia ha' manmaloffa'. I manma'estudiyan manma'ekspiñiyi na mas i sinangan gi edukasion, mas buenu na ma'aseguran salut, yan menos damage gi ugat-tahga gi hinasso ni ha'ani, segun i [UCL summary ginen i report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Hafa i 2024 Lancet Commission nu manma'chuli'?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+I Lancet Commission gi dementia prevention, intervention yan care ha' un grupon 27 na manma'estudiyan demensia ni ma'rebisa i prueba kada ni dos pat tres na anos. I 2024 report-ña ma'nomina i **14 na peligru** ni siña mana'chachanges, yan ma'estima na sumasaga i **casi ma'agupu (gi 45%) na kuentos demensia gi mundo**. Gi kinalamten i manma'estudiyan, esti na kuentos siña, gi teoria, ma'prepreniyi pat ma'agupu i tiempo ni manmaloffa' si manmakonsigi i peligru (ginen [2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+I 14 na peligru, ma'grupu ginen i tiempon i vida ni mas dikike' i prueba:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Tiempon ti dankolo:** menos edukasion.
+- **Tiempon dankolo (kasi edad 40 asta 65):** ti mañaina, altu na LDL ("malu") kolesterol, depresion, daño gi ulu, ti manmamaila', dayabetes, fumuma', altu na presion, sobra' na tinituhon, yan dinanña' na ma'inumu.
+- **Tiempon ma'pos:** sosiedat na ti manmamaila' yan manmamaila', kontaminasion gi aire, yan ti ma'aseguran ti guaiyi'-ta.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+I dos ma'nuebu gi 2024 ha' altu na LDL kolesterol yan ti ma'aseguran i ti guaiyi'. I peligru ni mas dankolo na parte ha' ti mañaina yan altu na LDL kolesterol (kasi 7% kada uno), dispues i menos edukasion yan sosiedat ni ti manmamaila' (kasi 5% kada uno).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+I [risk factors guide](/brain-health/risk-factors/) nuestro ha' ma'kuenta i 14 gi un tabla, yan hafa i manma'chuli' i investigasion yan hafa siña un hana' ya' hamyo.
 
-### What the 45% figure does not mean
+### Hafa i 45% ti ha' minanaosge
 
-It is easy to misread this number, so it helps to be precise:
+Ma'fasa'gua esti na numero, ya' sen ma'prinepara:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Esti estimasion ginen populasion.** Ma'chuli' i kuentos demensia gi mundo, ti i chanse-mu pat i chanse ni tatan-miu.
+- **Ma'asumi na causa yan efekto.** I manma'estudiyan manna'tuge' na sumasaga ha' sumetmi i peligru ni tiniyi' prueba, lao sa' sumaga na manmaloffa' i relasion. Pot ehemplo, i depresion gi dankolo na edad siña a'ayi un sintoma ni ma'pos na demensia ya' ti kao kinalamten.
+- **Taya' garantia para un taotao.** I UCL summary ha' na i ma'fanhinasso i peligru ha' tumutuge' gi nivet populasion, ya ti garantia para hafa mismo na taotao ti u ma'evita i demensia.
+- **I maseha na meddia taya' esplikasion gi esti na peligru.** I edad, i tinituhon yan i kinalamten siha ti ma'estudiyan todabia ha' muna'siña i manmaseha na ma'fanhinasso.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Hafa i diperensia entre "fanhinasso i peligru" yan "prebension"?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Fanhinasso i peligru** ha' ma'baba i chanse. Kuando un dankolo na grupon taotao ma'baba i presion-ñiha, menos ni'e' siña manmana'i demensia gi dakkolo na tiempo kumpara ni kao siña ma'pasa. Sumasaga na taotao gi grupon esta todabia manmana'i.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Prebension** ma'sangan na pumara hafa mismo na ti u mapasa. Para i demensia, taya' ni' i investigasion siña ma'garantia para hafa mismo gaige gi gaige.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+I manma'estudiyan ha'ana' ginen **dinanña'** tambien. I Lancet Commission ha' na i nuebu prueba manma'sangan na i ma'fanhinasso i peligru siña ma'agupu i tiempo ni manmaloffa' i demensia, yan ma'agupu i tiempon i taotao manmaloffa' gi maluyu na salut. Maski un pokkon tiempo para dinanña' siña dankolo na mapropotsiona para i taotao yan i familia-ña.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Gi kanton website, ta na'han "fanhinasso i peligru" yan "mana'chuli' ya" gi manmaseha. Kuando hamyo manmatungo' un produktu, suplemento pat programa ni ma'sangan "ma'prepreniyi i Alzheimer's", ha' tiningo'. I NIA ma'sangan na ha' ha'alok ni dokto antes di manmapos ni fama'nanaogue pat tratamiento ni ma'sangan ma'prepreniyi i Alzheimer's, sa' i manmaseha siña ti sigura, dinanña' ni chinatlao, pat dos.
 
-## What have large trials found?
+## Hafa i dankolo na trial manmanma'chuli'?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+I obserbasion na studies (ni ma'matungo' hafa mapasa gi taotao gi hinasso) siña ma'chuli' i relasion. I randomized trials, kao i taotao ma'asigna para un programa pat un grupon ni ma'kompara ginen chansa, ha' i mas fuetset na prueba. Esti i mas dinanña' na trial-ña:
 
-### FINGER (Finland)
+### FINGER (Finlandia)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+I FINGER trial ma'enrolan 1,260 na adulto edad 60 asta 77 ni mas altu peligru ni demensia. Mitad manmaresibe un dos anos na programa ni konsehu sa' dieta, ehetsisio, ehetsisiun gi kompiuter ni para i ulu, yan tsekeo i salut gi tugan yan ugat-tahga; i otro mitad manmaresibe konsehu heneral sa' salut. I grupon ni programa un poco mas buenu gi sinangan thinking tests, dinanña' ti dankolo lao ma'estadistika na sinifikante ([FINGER trial gi The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). I trial ma'mide i resulta ni test, taya' diagnosis ni demensia.
 
-### US POINTER (United States)
+### US POINTER (Estados Unidos)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER ma'enrolan 2,111 na adulto edad 60 asta 79 ni taya' ehetsisio, manmakomi' menos na tinituhon, yan manmaseha na peligru. Kada grupon manmaadyeyi para mas ehetsisio gi fisikat yan ulu, mas buenu na tinituhon, mas manmamaila', yan tsekeo i salut gi tugan. Un grupon manmaresibe un koachin na programa; i otro manggaige gi kuenta-ñiha. Gi dos anos, i resulta gi thinking tests manmaloffa' gi **dos** na grupo, yan kasi mas gi grupon ni estructura ([US POINTER trial gi JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). I manma'estudiyan ha' na nisisita mas dinanña' na tiempo para u matungo' si i diperensia sumasaga gi tinaegu-ta. Sa' taya' grupon ni "ti hafa" pat ti kinanai', i trial siña ti ha' chuli' kuanto i ayudu ni kada programa kumpara ni ti hafa mismo na tinugi'.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (presion gi tugan)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+I SPRINT MIND ma'estudiyan 9,361 na adulto Estados Unidos edad 50 pat dankolo ni altu i presion gi tugan. Ma'asigna para un meta ni mas baho na presion (numiro ni dikike' di 120) pat i estandat na meta (dikike' di 140). I meta ni mas baho ma'fanma'mengo signifikante i **mild cognitive impairment**, un etapa ni pinilan i memoria yan thinking ni siña umaftet i demensia. Para i **probable dementia**, mas dikike' ni kuentos gi grupon ni mas baho na meta, lao taya' sinifikante estadistika i diperensia. I trial ma'para kumalo' ya' mas dikike' kuentos demensia kumpara ni manmatugi, anggen esta mas dikike' gi tamaño para u ma'chuli' esti na pregunta ([SPRINT MIND gi JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Hafa i manma'suma' i reviews
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Un 2021 Cochrane review ma'kombina nuebe dankolo na trial ni programa ni tumutungo' i siha na peligru yan kumu un hinasso, ya' ma'mangga'cha' mas 18,000 na taotao. Ma'hana' un pokkon benifisio gi thinking tests, lao **taya' klaru na diperensia gi kuanto na taotao manmana'i demensia** gi dos trial ni ma'mide esti ([Cochrane review gi multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Un 2017 review ginen National Academies of Sciences, Engineering, and Medicine, ma'sumalay ginen NIA, ma'hana' "ma'ekspiñiyi pero ti sigu" na prueba para tres na estratehia: ma'kontrola i altu na presion, ma'aomenta i fisikat na ehetsisio, yan cognitive training.
 
-## Does it matter when you start?
+## Mamaila' ha' i tiempo ni umatdende?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+I Lancet Commission ha' i ma'aseha na ma'fanhinasso i peligru gi mas tiempo na siña yan ma'fanmantieni baho gi mas tiempo na siña: "mas mamaila', mas buenu" yan "mas dinanña', mas buenu." Ha' manhasso na taya' ni' mas tiempo mas dikike' u ma'fanhinasso i peligru. Dankolo na parte i prueba ma'chuli' i tiempon dankolo, kasi edad 40 asta 65, lao i manmaseha na peligru kumu i ti guaiyi' yan i sosiedat ti manmamaila' ha' peligru ni tiempon ma'pos kao manmaloffa' i aksion todabia manmaaonao.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+I report ma'hana' na gaige ni mas fuetset na prueba na i dinanña' na peligru manmaloffa' mas dankolo na efekto. Pot ehemplo, i dayabetes ni mana'mamaila' gi tiempon dankolo ha' manmaloffa' mas kumpara ni i dayabetes ni mana'ma'pos.
 
-## Is dementia risk the same for everyone?
+## Ha' i peligru i demensia taiguini para todu?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Taya'. I Commission nu i taotao gi nasion ni dikike' i ganancia na kuenta yan mediano na ganancia, i grupon minoridat yan i taotao ni dikike' i kuarta, ha' manmana'manmapos manmaseha peligru, ya' gi siha manmamaila' na edad i demensia. Dankolo na peligru ma'konekta gi sinangan ni taya' manmakonsigi i taotao, kumu i kalidat ni edukasion ni manmaseha gi tiempon mamaila', i aire gi lugat-ñiha, yan kon siña ma'gasta i fina'nana' ni salut yan i sumasaga gi kanton ya' manmaseha.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Esti i ha' fa'tinas i rekomendasion ni Commission manmasaga gi gobietno sumasaga ni gi taotao gi kada uno: buenu na edukasion para todu i mamaila', aire ni mas lipiu, aksion para mafa'mengo i fumuma', menos asukat yan asen gi fina'nana' ni manmaloffa' gi tenda yan restauran, yan hearing aids para todu ni nisisita. I iniwa-miu importante, lao importante lokkue i lugat ni manggaige i taotao. Ti kulpa para hafa mismo na taotao gi dayon ni diagnosis.
 
-## What are the honest limits of this research?
+## Hafa i minagahet na limitasion esti na investigasion?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **I demensia nina'a' dekada,** lao maseha na trial manma'fanmaisa dos asta singko anos. Ma'mide i demensia mismo, taya' i resulta ni test sola, nisisita dankolo na studies yan dankolo tamaño.
+- **Dankolo na trial ma'mide i thinking tests.** Un pokkon mas buenu gi test taya' sigun na manmaloffa' i kuentos demensia pat na mas malago' i tinaegu-ta.
+- **I manmamaila' ma'ayuda' manmaseha yan mas edukado** ki i publiko. I Lancet Commission ha' na dankolo na prueba todabia ginen nasion ni dankolo i kuarta, yan i grupon minoridat ti ma'rekolekta.
+- **Maseha na relasion manmamaila' gi dos dinanña'.** Ti manmamaila' pat ti sosiedat siña ha' sumaga kumu un maisa' na efekto ni demensia, ti solu kumu causa.
+- **Ma'dinanña' i trial sa' dieta ha' ti manmaseha.** Un tres anos na trial gi MIND diet ti nu i dinanña' na diperensia gi thinking kumpara ni control diet. Li'e' i [diet guide](/brain-health/diet/) nuestro.
+- **I brain games taya' manmaprueba na ma'prepreniyi i demensia.** Li'e' i guia-ta sa' [brain games yan demensia](/brain-health/brain-games/).
+- **I fasting ti gaige ni manmaprueba gi taotao,** yan siña ha' peligru para i dankolo na edad. Li'e' i [fasting guide](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Kao siña un taotao ni manmanna'i ginen maseha ni "matuette," sa' ha' manmana'i demensia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Sa' i demensia taya' manhasso ginen i kinalamten. I NIA ha' na [i edad i mas dankolo na peligru para i Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), yan taya' siña ma'chanchanges. I genes pumalu'ña na parte. Yan i manma'estudiyan taya' todabia kumprende kumplidu hafa umaguaiyi i Alzheimer's gi dankolo na taotao. Maski ma'hana' todu i 14 na peligru, i kuenta ni Lancet Commission ma'estima dinanña' ni kuentos demensia ti ma'eksplika.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Entonses, kao ha' guaiya hao gi taotao ni manma'ehetsisio, manmakomi' maseha, taya' ni' fumuma', lao manmana'i demensia, taya' ni' i lina'la' gi parte-ña pat gi hayi. Kao hamyo mismo gaige gi demensia, taya' kulpa-mu. I kulpa komun gi familia, lao taya' ya' merese. Ni manmaprisisa ha' i konfot, i kinasi, yan i buenu na kalan; i [activity ideas](/activities/ideas/) yan i [caregiver self-care guide](/caregiving/caregiver-self-care/) nuestro siña i buenu na kumensa.
 
-## What steps can you talk over with a doctor?
+## Hafa i pasu ni siña hamyo mana'ha' ni dokto?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Esti i areas ni mas manmaestudiyan. Manmamamaila' gi check-up porke mas gi ayu manmaseha para i salut ni kinalamten-ñiha, i mood yan i independensia, anggen hafa mismo i efekto gi demensia.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Presion gi tugan.** Matungo' i numeron-miu yan hafa i meta ni manmaseha para hamyo. I Lancet Commission ha' ma'sugiere na ma'apunta i numiro ni 130 pat dikike' ginen kasi edad 40, lao i meta para un dankolo na taotao depende gi salut-ñiha gi tinatano'.
+2. **Ti mañaina.** Matungo' ni check-up ni mañaina, yan si i hearing aids siña ayuda. I [hearing guide](/brain-health/hearing/) nuestro ha' esplika i investigasion.
+3. **Guaiyi'.** Manmaseha i regular na eye exams yan matungo' si i problema kao i cataracts siña ma'tratatu.
+4. **Kolesterol.** Matungo' si i LDL kolesterol-mu debe ma'chequea yan si hafa debe chumanchanges.
+5. **Asukat gi dugu.** Kao hamyo gaige ni dayabetes, matungo' kumu siña ma'maneha sigun.
+6. **Mood.** I depresion komun yan siña ma'tratatu. Gigimen ni dokto-mu kao ha' sinienta mamaloffa' pat ti ha' gana i kosas ginen mas di dos simanas.
+7. **Fumuma' yan ma'inumu.** Matungo' i suporta para para u ti fumuma' yan i sinangan ni maseha para i ma'inumu.
+8. **Muebimiento.** Matungo' kao i klasen ehetsisio ni maseha para hamyo. I [exercise guide](/brain-health/exercise/) nuestro ha' tinaegu.
+9. **Protektor para i ulu.** Usa helmet para i bisikleta yan i contact sports, yan matungo' put i fall prevention.
+10. **Manmaguaiya ni tumungo'.** I tiempo gi otro taotao parte gi maseha na vida. Li'e' i guia-ta sa' [social connection](/brain-health/social-connection/), yan [sleep](/brain-health/sleep/) lokkue.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Antes di chumanchanges i medisina, dieta, suplementos, fasting pat ehetsisio, ha'alok ni dokto kumprende, espesialmente si hamyo gaige gi heart disease, dayabetes, kumplidu gi fall, pat ya' gaige gi demensia.
 
-## Talk with a doctor
+## Ha'alok ni dokto
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Si hamyo mana'siña gi chanchanges gi memoria pat thinking ni nina'sustu hamyo, gi hamyo mismo pat gi otro taotao, para un appointment. I NIA ma'sangan na [i problema gi memoria siña gaige otro rason](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), kumu i efekto ni medisina, problema gi thyroid, depresion, pat baho na vitamin B12, yan manmaseha ni problema manmamaila' kuando ma'tratatu i rason. I [warning signs guide](/brain-health/warning-signs/) nuestro ha' esplika hafa debe ma'obserba.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Tungo' ayuda ni urgente** para i chanchanges ni sudden: sudden confusion, ti fuetsa pat ti sumiente gi uno na lado, ti siña ha' gaige, pat dankolo na sakkan ulu siña sinienta ni stroke pat otro emergency. Tilifon gi 911.
 
-## Where Golden Moments fits
+## Ania i Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments ha' manmaseha na simple na shared activities, kumu [conversation cards](/games/conversation-cards/), [picture bingo](/games/picture-bingo/) yan un [calm breathing pause](/games/calm-breathing/). Esti para kinasi yan tiempo kumuniku. Taya' esti tratamiento, yan ti ma'prepreniyi pat ma'agupu i demensia.

@@ -1,32 +1,34 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Oilonga yokudimbulukwa: Oshikefa, ehokololo nomafano"
+seoTitle: "Oilonga yokudimbulukwa: Omaetepo ehe fi omapulo"
+description: "Nghee to dulu okupopya omadimbuluko nomunhu ta kala nokudimbuluka nopehe na omapulo: okupopya omafano, oshikefa shomadimbuluko nomambo ehokololo."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Okudimbulukwa otashi ti okutyapula pamwe oinima yonale okupitila momafano,
+  moinima, momusika nomomahepu. Ningeni oshikefa shomadimbuluko, tungeni embo
+  li li paunafangwa lehokololo longhalamwenyo, ile taleni omafano omutumba
+  pamwe. Inamu pula nande omapulo okulola: efeni po “Oto dimbuluka?” na “Olyelye
+  ou?” ndele tamu longifa omashivo a manguluka ngaashi “Lombwele nge kombinga
+  yaashi.” Eenghundafana diwa oda fimana shi dulife okumona oushili aushe
+  mondjila.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Okudimbulukwa eenghundafana, kashi fi ekonakono. Okumona oushili aushe mondjila inashi fimana; okutyapula oko kwa fimana."
+  - "Ponhele ya ‘Oto dimbuluka…?’ na ‘Olyelye ou?’, longifa omautumbulilo nomashivo ngaashi ‘Lombwele nge kombinga yefiku eli.’"
+  - "Oshikefa shomadimbuluko shi na oinima yomonghalamwenyo yomunhu otashi pe omake neenghundafana sha oku kwata."
+  - "Embo lehokololo longhalamwenyo otali kwafele ovapambele, ovaenda novafile voshisho va shiive omunhu, ndele haku tala ashike oupyakadi wokudimbuluka."
+  - "Ngeenge edimbuluko otali eta oluhodi, hekeleka tete ndele to lundulula oshikundafanwa noukeka."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Okudimbulukwa oshike kovantu tava kala nokudimbuluka?"
+    a: "Okudimbulukwa okutukulilafana omadimbuluko noinima ya pita, luhapu kwa kwafelwa komafano, koinima, komusika ile kouvidio. Otashi dulu okuningwa pokati kovanhu vavali ile mongudu. Elalakano okukala neenghundafana diwa nodi na eityo, ndele haku konakona osho omunhu ta dulu okudimbuluka."
+  - q: "Omolwashike inandi pumbwa okupula ‘Oto dimbuluka?’"
+    a: "Omapulo oo taa konakona edimbuluko otaa dulu okuningifa omunhu a kale e udite ohoni ile a limbililwe ngeenge enyamukulo itali uya. National Institute on Aging oya tumbula okupula ngeenge omunhu ota dimbuluka sha ile umwe womoinima oyo i na okweefiwa. Ponhele yaasho, tonga osho to mono ndele to efa omunhu a wede ko keshe osho a hala."
+  - q: "Oshike ndi na okutula moshikefa shomadimbuluko?"
+    a: "Hoolola oinima ya amenwa, ya kola noya pambafana nonghalamwenyo yomunhu: oinima yoilonga, oinima yoihafifa, oshali ya hoololwa, oukalata, oukalata vomalongekido oikulya, oinima yokudimbulukwa yomaudano ile eekopi domafano. Henuka oinima i na omutwe wa twa, oinima inini oyo tai dulu okup swallowed, noinima yolela oyo itai dulu oku pingwa po."
+  - q: "Oshike ngeenge ta puka moushili?"
+    a: "Efa shi pite. Ngeenge nyoko ta ti efano otali ulike omumwainakadona waye ofimbo oli li omutekulu waye, osho oshi li nawa. Okuyukifa otaku lundulula okafimbo kawa ke ninge ekonakono. Shikula ehokololo olo ta hokolola ndele tamu li tyapula pamwe."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +43,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Okudimbulukwa otashi ti ashike okutyapula pamwe oinima yonale. Kovantu vahapu tava kala nokudimbuluka, omadimbuluko omido dihapu da pita otaa dulu okukala e li nawa shi dulife osho sha ningwa ongula ei. Omafano, oinima ya ikililwa, omusika nomahepu otaa dulu okupatulula omadimbuluko oo ndele tae mu pe sha shiwa mu tukulilafane. Epangelo limwe alike: eenghundafana, hakonakono.
 
-## What is reminiscence, and how is it different from quizzing?
+## Okudimbulukwa oshike, nolwashike sha yooloka kokupula omapulo okulola?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Okudimbulukwa okutukulilafana omadimbuluko okupitila momafano, moinima, momusika ile mouvidio, pefimbo olo omunhu mwene a hala. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) otai shi fatulula onga okutukulilafana oimoniwa nomahepu onale kwa kwafelwa komafano, koinima, kouvidio ile komusika, membo ile mokatableta. Okupula omapulo okulola okwa yooloka: otaku pula omunhu a yandje enyamukulo li li mondjila, naasho otashi dulu okweeta ohoni ponhele yokutyapula.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) oya tumbula okupula omunhu ngeenge ota dimbuluka sha ile umwe onga shimwe shoinima oyo i na okweefiwa. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) otai ladipike okweefa po omapulo oo a ikolelela kedimbuluko lopokafimbo nokupopya kombinga yoinima yonale kokule.
 
-| Instead of | Try |
+| Ponhele ya | Kendabala |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| “Oto dimbuluka eshi?” | “Eshi otashi monika sha fa efiku liwa. Lombwele nge kombinga yasho.” |
+| “Olyelye ou?” | “Ou Meme Rose komutuni. Tala ohat oyo.” |
+| “Osha li modula ilipi?” | “Eshi otashi monika sha fa eumbo likulu. Okukala oko okwa li kwa tya ngahelipi?” |
+| “Ahawe, ou haye Bill, oFrank.” | “Ota monika a li ha hafifa.” |
+| “Owe shi lombwela nge nale.” | “Ondi hole ehokololo olo.” |
 
-## How do you talk about photos without quizzing?
+## Ongahelipi to dulu okupopya omafano nopehe na omapulo okulola?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Hovela naasho to mono, ndele to efa omunhu a wede ko sha ngeenge a hala.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Kaleni omutumba pamwe.** Kwatei embo lomafano pokati keni opo mu tale pamwe, ndele hamu konakona mu li kombinga ikwao yotafule.
+2. **Hoololeni omafano manini.** Omafano atano mawa oku dule oshikefa ashishe. Omafano manene a yela ohaa longo nawa.
+3. **Tumbula ovanhu ove mwene.** “Oove naTate mefiku leni leengoma” otashi kufa po omutengi.
+4. **Tonga ouyelele.** Oikutu, eehauto, oikulya, onghalo yomhepo, oipala. “Ehauto liwa. Otali monika la vilima.”
+5. **Shiva, ino fininika.** “Lombwele nge kombinga ya…” ile “Oshike to didilike?” Okumwena oshi li nawa.
+6. **Shikula ewiliko laye.** Ngeenge ta popi kombinga ya sha shilili filufilu, enda naye.
+7. **Xulifa po fimbo shi li nawa.** Pata embo lomafano ofimbo ouloloko inau uya.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Ngeenge mwa hala omashivo omafano a longekidwa nale, kendabaleni [conversation cards](/games/conversation-cards/). Ngeenge mwa hala okulundulula omafano eni oukwaneumbo a ninge omudalo tau endele pamwe wokufaneka, kendabaleni [photo pairs](/games/photo-pairs/); omafano oo mwa hoolola otaa kala mombrowser yeni.
 
-## How do you make a memory box?
+## Ongahelipi to dulu okuninga oshikefa shomadimbuluko?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Oshikefa shomadimbuluko oshikefa shi na oinima yomonghalamwenyo yomunhu i kwatwe nokupopiwa kombinga yayo.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Hoolola oshikefa sha kola** osho shipu okupatululwa, ngaashi oshikefa shoikutu, oshikefa shohat ile okashikefa kanini koiti.
+2. **Hoolola oshipalanyole ile oinima ya lumbakana.** Oilonga, oshihafifa, onhele, efimbo lonhumba, ile oinima aishe kanini.
+3. **Ongela oinima ya amenwa.** Oinima itano fiyo omulongo oya wana okuhovela.
+4. **Longifa eekopi doinima ya fimana unene.** Kopifa omafano nomishangwa oyo itai dulu oku pingwa po ndele to di amene nawa.
+5. **Kufa mo oshinima shimwe pefimbo limwe.** Shi yandja, tonga sha kombinga yasho, ndele to tale apa eenghundafana tadi i.
 
-Ideas to include:
+Omaetepo oinima yokutula mo:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Oilonga:** okaadilongo kedina, oshilongifo shinini, oshilapi shoshikutu shoilonga, embo lomishangwa, okapini komupangi, embo lomalongekido oikulya lokoresitola.
+- **Keumbo:** okakalata komalongekido oikulya ka shangwa neke laye, etawulo lotee, oshali ile outai ya hoololwa.
+- **Oihafifa:** ekutu lokuyula eeshi lihe na ohuka, etanga lomba, ongodi yokuninga oinima, okapakete kombuto.
+- **Eenhele:** oukalata, eemeva, oshinima shokudimbulukwa shomondjila, oshipambu shoshifo shomoshitukulwa shavo.
+- **Oukwaneumbo:** eekopi domafano, efano la fanekwa kokanona, oshihiyo shohango.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Efeni po oinima i na omutwe wa twa, oinima inini oyo tai dulu okup swallowed, naashishe osho tashi dulu okweeta omadimbuluko mai, okuninga ashike u shi shii kutya sha tambulwa ko.
 
-## How do you make a life-story book?
+## Ongahelipi to dulu okuninga embo lehokololo longhalamwenyo?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Embo lehokololo longhalamwenyo embo lomafano li li paunafangwa li na omafano nomashangelo maxupi kombinga yonghalamwenyo yomunhu. Oshinima osho tamu dulu okutala pamwe, notashi kwafele ovaenda novafile voshisho va mone omunhu aushe.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Hoolola omukalo.** Obinda i na oipakete yomapandja, embo lomafano la nyanyangidwa, ile elandulafano lomafano mokatableta.
+2. **Longekida oitukulwa inini.** Ounona, ofikola, oilonga, oukwaneumbo, eenhele omo mwa kala, eitavelo, oihafifa, oikulya nomusika oyo a hoolola.
+3. **Tula efano limwe ile avali pepandja keshe** noshinyolwa shixupi, sha shangwa noondanda dinene: “Mary, e na omido 22, ta hovele oilonga mobanka.”
+4. **Weda ko osho a hole neenghedi dakeshe efiku.** “Oha nu okofi nomashini. Oha kala e hole omaimbilo Osoondaxa. Ina hala oTV tai popi pombada.” Eshi otashi kwafele keshe ou te mu file oshisho.
+5. **Kufa mo ombinga yomunhu** ngaashi a hala, mokuhoolola omafano, mokuhokolola omahepu ile ashike mokutala eshi tashi tungwa.
+6. **Twikila okweda ko.** Inali pumbwa okupewa eshi la pwa opo li kale li na oshilonga.
 
-## More reminiscence ideas
+## Omaetepo makwao okudimbulukwa
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Daneni omusika yefimbo lounyasha waye** ndele tamu popi apa tai mu twala. Tala [oilonga yomusika](/activities/music/).
+- **Taleni ouvidio vomoukwaneumbo ile oiprograma yoTV** yomafimbo oo a li e hole unene.
+- **Telekeni oshikulya shounona waye** ndele tamu efa edimba li wilike eenghundafana.
+- **Taleni emeva** loshitukulwa shavo ndele tamu shikula eendjila odo va ikilila.
+- **Kwateni oukatoloko ile omagazini onale** ndele tamu popi kombinga yeendado, omifindalandu doikutu neehauto.
+- **Kwateni omahepu aye** mongodi, nepitikilo laye, omolwoukwaneumbo.
+- **Tukuleni pefimbo leengodi.** Yelula efano limwe pefimbo longodi youvidio; tala [eengodi dongodi noyavidio](/activities/phone-and-video-calls/).
+- **Eta efano ile oshinima ngeenge to talele po.** Otashi pe etalelepo sha shipu okulongifa; tala [okutalela po](/activities/visiting/).
 
-## What if a memory is painful?
+## Oshike ngeenge edimbuluko otali udifa nai?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Omafimbo amwe omadimbuluko otaa eta oluhodi, okulivela ombedi ile outile. Ngeenge omunhu okwa kala a nyika oluhodi, kanghama, mu hekeleka ndele to lundulula noukeka oshikundafanwa ile oshilonga. Inamu kondjifa kombinga yaasho sha ningwa. Family Caregiver Alliance otai ladipike okweefa po okutomha omunhu kutya okwa puka notai kumaida okuyamukula komaliudo oo ta ulike, oo e li oshili. Ngeenge ta popi kombinga yaumwe a fya onga e li momwenyo, yamukula komaliudo: “Owe mu hala unene. Lombwele nge kombinga yaye.”
 
-## What does the research say?
+## Omapekapeko otaa ti shike?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Ekongo laCochrane kombinga yokudimbulukwa](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), la kwatela mo omakonakono 22 novanhu 1,972, ola mona kutya oidjemo kaya li ya faafana, oya li inini noya li ya yooloka she likolelela keenhele nokomikalo. Inali mona oumbangi wokuhongaula ovanhu tava kala nokudimbuluka. Ohatu ladipike okudimbulukwa molwaashi otashi dulu okweeta efimbo liwa noli na eityo pamwe, ndele haku li tala onga epango. Ngeenge mwa hala okumona shihapu kombinga yeenghundafana dipu, taleni [omayele okupopya](/caregiving/communication-tips/).

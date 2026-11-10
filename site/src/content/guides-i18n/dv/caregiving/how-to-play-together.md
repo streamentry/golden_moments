@@ -1,34 +1,30 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހާއާއެކު ގޭމްތައް ކުޅެން"
+description: "ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހާއާއެކު ގޭމްތައް ކުޅެން ތައްޔާރުވުން، ސަލާމަތް ގޮތުގައި ކުރިއަށް ގެންދިއުން، ރަނގަޅުނުކުރުން ހުއްޓުވުން އަދި ނިންމުން ދެނެގަތުމަށް އެހީތެރި މަގުދަނޑި."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  ގޭމެއް ބަލަންވާނީ އިމްތިހާނެއްގެ ގޮތުގައި ނޫން، އެކުގައި ހޭދަކުރާ ވަގުތެއްގެ ގޮތުގައި. ދުވަހުގެ ހަމަޖެހޭ ވަގުތެއް ހޮވާ، ހަމަޖެހޭ ކޮޓަރިއެއްގައި އަތްތިލައިގައި އިށީ، އަދި ސާދާ އެއް ގޭމެއް ހުށަހަޅާ. އެމީހާގެ އަވަސް މިނަށް ކުރިއަށް ދާ، ގެއްލުން ނުވާ ކުޑަ ކުޑަ ކަންކަން ރަނގަޅު ނުކުރާ، ދަތިވާ އެންމެ ފުރަތަމަ ލަފާއެއް ފެނުމުން ގޭމް ފަސޭހަ ކުރާ، އަދި ތަސްވީރުތައް ވާހަކަދެއްކުމުގެ ފެށުމެއް ކަމުގައި ބޭނުން ކުރާ. އަދިވެސް ރަނގަޅު އިހުސާސް ކުރަމުން ދާ ވަގުތު ނިންމާ. ކުރިން ނިންމުން، ނުވަތަ ހަމައެކަނި އެކުގައި ބަލަމުން ހުރުން ވެސް ރަނގަޅު ނަތީޖާއެކެވެ.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "މަގްސަދަކީ އުފާވެރިކަމާއި ގުޅުން، ނިންމުން ނުވަތަ ރަނގަޅު ޖަވާބު ދިނުން ނޫނެވެ."
+  - "ފުރަތަމަ ތައްޔާރުކުރޭ: ހަމަޖެހޭ ކޮޓަރި، ރަނގަޅު އަލި، އައިނާއި ކަންފަތުގެ އެހީތެރި ސާމާނު އަޅާ، ޓީވީ ނިއްވާ، އެއް ގޭމެއް ތައްޔާރުކޮށް."
+  - "ގެއްލުން ނުވާ ކުޑަ ކުޑަ ކަންކަން ރަނގަޅު ނުކުރާ. ”މިހެން މަސައްކަތް ކުރަމާ“ ބުނުމަށް ފަހު، ނުވަތަ ހަމަ ކުރިއަށް ދިޔުމަށް ފަހު."
+  - "ދަތިވުން ގިނަވުމުގެ ކުރިން ގޭމް ފަސޭހަ ކުރާ: ތަސްވީރު މަދުކޮށް، އިޚްތިޔާރު މަދުކޮށް، ތަސްވީރުތައް ފެންނަ ގޮތަށް ބަހައްޓައިގެން."
+  - "ތަސްވީރުތައް ވާހަކަދެއްކުމުގެ ފެށުމެއް ކަމުގައި ބޭނުން ކުރާ. ”މި ހަނދާން އަންނަނީ ހެއްޔެވެ؟“ ގެ ބަދަލުގައި ”މިކަމާ ގުޅޭ ކޮންކަމެއް ކިޔާލައްވާ“ ދަންނަވާ."
+  - "ހަރަކާތްތެރިކަން މަދުވުމުގެ ނުވަތަ ހިތްހަމަ ނުޖެހުމުގެ އެންމެ ފުރަތަމަ ލަފާތަކުގައި ނިންމާ. ކުރިން ނިންމުން ކާމިޔާބެކެވެ، ނާކާމިޔާބެއް ނޫނެވެ."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "ގޭމެއް ކުޅެންވީ ކިހާ ވަގުތަކަށް ހެއްޔެވެ؟"
+    a: "ރަނގަޅު ވަގުތެއް ކަނޑައެޅިފައެއް ނެތެވެ. ގިނަ މީހުންނަށް މިނިޓު ކުޑަކޮޅެއް ފުދޭ، އަދި ބައެއް ދުވަސްވަރު އެއް ބުރެއް ފުދެދާނެ. ގަޑި ބަލާކަށް ނުވަތަ އެމީހާ ބަލައި، އަދިވެސް ހަމަޖެހިފަ ހުރި ވަގުތު ނިންމާ."
+  - q: "އެމީހާ ބަލިކުރުމަށް ފަހު ކުޅެވުމަށް ދޫކޮށްލަން ވީތޯ؟ ނުވަތަ ކުށް ނުފެންނަ ހެން ހީކުރަން ވީތޯ؟"
+    a: "އެކުގައި، ފިތުން ނެތި ކުޅޭ ގޭމެއްގައި ބަލިވާ ނުވަތަ ކާމިޔާބުވާ ކަމެއް ނެތެވެ. ކުށަކުން އެމީހަށް ހިތްހަމަ ނުޖެހޭނަމަ، އެކަން ދޫކޮށްލާ. އެކަމުން ހިތްހަމަ ނުޖެހޭކަން ފެނިއްޖެނަމަ، އެކަން ފާހަގަ ނުކުރައްވައި ހަމަޖެހިފައިވާ ގޮތަކަށް އެހީތެރިވެ ދިނުމަށް ފަހު، ނުވަތަ ގޭމް ފަސޭހަ ކުރުމަށް ފަހު."
+  - q: "އެމީހާ ބޭނުންވަނީ ތިމަންނާ ކުޅެން ބަލަން ނަމަ ކީއްކުރަން ވީތޯ؟"
+    a: "އެއީ ރަނގަޅު ކަމެކެވެ. National Institute on Aging އިރުޝާދު ދެނީ އެމީހާ ބެލުމަށް ވަރަށް ބޭނުންފުޅުވާ ކަން ފެންނަ ނަމަ ބެލެވުމަށް ފުރުސަތު ދިނުމަށެވެ. ތިޔަ ފެންނަ ކަންކަމާ ބެހޭ ވާހަކަ ދައްކާ، އަދި އެމީހާ ބޭނުންވާ ވަގުތެއްގައި އަތްޕުޅުން ދައްކާލުމަށް ނުވަތަ އިޚްތިޔާރުކުރުމަށް ދައުވަތު ދީ."
+  - q: "މި ގޭމްތައް ހަނދާން ބެލުމުގެ ގޮތެއް ހެއްޔެވެ؟"
+    a: "ނޫނެވެ. އަޅުގަނޑުމެންގެ ގޭމްތަކަކީ އުފާވެރިކަމާއި ވާހަކަދެއްކުމަށް އެކުގައި ކުޅޭ ސާދާ ހަރަކާތްތަކެކެވެ. މިއީ ހަނދާން ބެލުމުގެ އިމްތިހާނެއް ނޫން، އެއްވެސް ކަމެއް މިނެކުރާ އެއްޗެއް ނޫން، އަދި ޑިމެންޝިއާ އަށް ފަރުވާއެއް ވެސް ނޫނެވެ."
+  - q: "ފެށުމަށް އެންމެ ރަނގަޅު ގޭމަކީ ކޮބައިތޯ؟"
+    a: "އެމީހާއާ އެންމެ އެއްގޮތްވާ އެންމެ ސާދާ ގޭމުން ފަށާ. 4 ޓައިލް އާއި ތަސްވީރުތައް ފެންނަ ގޮތަށް ބަހައްޓާފައިވާ Picture Pairs، ނުވަތަ 2 އިޚްތިޔާރެއް ހުރި Find the Same އަކީ ހަމަޖެހޭ ފެށުމެކެވެ. އެމީހާ އޮންލައިން ފިއްތަވަން ވުރެ ވާހަކަ ދެއްކުމަށް ބޭނުންފުޅުވާ ނަމަ Conversation Cards ވަރަށް ރަނގަޅެވެ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +43,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހާއާއެކު ކުޅޭ ރަނގަޅު ގޭމެއް ފެންނަނީ މުބާރާތެއްގެ ގޮތުގައި ނޫނެވެ. އެއީ ދެ މީހުން ކައިރިކައިރިން އިށީގެން، ތަސްވީރުތަކަށް އަތްޕުޅުން ދައްކާ، މަސައްކަތެއްގައި ހިނި އަރާ، އަދި ފެންނަ ކޮންމެ ކަމެއްގެ ވާހަކަ ދައްކާ މަންޒަރެކެވެ. ގޭމަކީ ހަމައެކަނި އެކުގައި ވަގުތު ހޭދަކުރުމުގެ ސަބަބެކެވެ.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+މި މަގުދަނޑިން ތައްޔާރުވާ ގޮތް، ގޭމް ކުރިއަށް ގެންދާ އަވަސް މިން، ކަމެއް ”ރަނގަޅެއް ނޫން“ ވީއިރު ބުނަންވީ ބަސްތައް، ކޮންމެ ގޭމެއް ފަސޭހަ ނުވަތަ މަދުމައްޗަށް އުނދަގޫ ކުރާ ގޮތް، އެކަން ވާހަކައަކަށް ހަދާ ގޮތް، އަދި ނިންމަންޖެހޭ ވަގުތު ދެނެގަންނާ ގޮތް ޝާމިލުވެގެންވެއެވެ. މިއީ އަޅުގަނޑުމެންގެ [ގޭމްތަކަށާއި](/games/) ތިޔަބޭފުޅުންގެ އަތުގައި ހުރި ކާޑުތަކަށާއި ޕަޒްލްތަކަށާއި ބޯޑު ގޭމްތަކަށް ވެސް ބޭނުންކުރެވޭ ގޮތެކެވެ.
 
-## What is the best way to play a game with someone who has dementia?
+## ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހާއާއެކު ގޭމެއް ކުޅޭ އެންމެ ރަނގަޅު ގޮތަކީ ކޮބައިތޯ؟
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+ކާމިޔާބުކަމަށް ވުރެ އުފާވެރިކަމަށް ސަމާލުކަން ދީ. އެއީ [ހަރަކާތްތަކާ ބެހޭ Alzheimer’s Association ގެ އިރުޝާދުގައި](https://www.alz.org/help-support/caregiving/daily-care/activities) ދެވޭ މުހިންމު ލަފާއެވެ: އެމީހާ އަދިވެސް ކުރެވޭ ކަންތައްތަކުގެ މައްޗަށް ބިނާކުރާ، ފަށާން އެހީތެރިވެ ދީ، އުނދަގޫ ބައިތައް ތިޔަބޭފުޅާ ނިންމަވާލާ، އަދި ގެއްލުން ނުވާ ހަރަކާތްތައް ކުށްވެސް ނުކިޔާ ނުވަތަ ރަނގަޅު ނުކުރާ.
 
-In practice that means:
+އެކަން އަމަލީގޮތުން މާނަ ކުރަނީ:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **އެމީހާގެ ކުރިމަތީގައި ނޫން، އަތްތިލައިގައި އިށީ.** އަތްތިލައިގައި އިނދެވޭނީ ދެމީހުންނަށް ސްކްރީން ނުވަތަ މޭޒު ފެންނަ ގޮތަށް، އަދި އެހީތެރިވުން ފެންނަނީ ބަލަހައްޓަން އިންނުން ކަމަށް ނޫން، ޓީމްވޯކަށް އެއްގޮތްވާ ކަމަކަށެވެ.
+- **އެއްފަހަރު އެއް ގޭމެއް ހުށަހަޅާ.** އިޚްތިޔާރުތަކުގެ މެނޫއެއް ފެނުމުން އެއްވެސް ކަމެއް ނުފެށެނީ އިމްތިހާނެއް ފެށި ހެން އިހުސާސް ކުރެވިދާނެ.
+- **އެމީހާގެ އަގަށް ބަލައި ކުރިއަށް ދާ.** އެމީހާ ތަސްވީރުތަކަށް އަމިއްލަ ތަރުތީބަކުން ފިއްތަވަން ބޭނުންފުޅުވިޔަސް، އެއް ތަސްވީރެއް ގެ ވާހަކަ ދިގުވަގުތަކަށް ދެއްކެވިޔަސް، ނުވަތަ ދެ ބުރަށް ފަހު ހުއްޓިވަޑައިގަތްނަމަ، މިއަދުގެ ގޭމަކީ އެއީއެވެ.
+- **ނިމުނު ބުރުތަކަށް ނޫން، ރަނގަޅު ވަގުތުތަކަށް ބަލާ.** ހިނި އަރުމެއް، ވާހަކައެއް، ނުވަތަ ހަމަޖެހިފައިވާ ބައި ގަޑިއިރެއް އަކީ ތިޔަބޭފުޅާ ބޭނުންވާ ނަތީޖާއެވެ.
 
-## How do I set up before we start?
+## ފެށުމުގެ ކުރިން ތައްޔާރުވާނީ ކިހިނެއް؟
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+މިނިޓު ކުޑަކޮޅެއް ތައްޔާރުވުމުން، ގިނަ ފަހަރަށް ގޭމަށް ދައުވާ ކުރާ ދަތިވުން ހުއްޓޭނެ.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **އެމީހާއަށް އެންމެ ރަނގަޅު ވަގުތު ހޮވާ.** [ހަރަކާތްތައް އެކަށީގެންވާ ގޮތަށް ބަދަލުކުރުމާ ބެހޭ National Institute on Aging (NIA) ގެ އިރުޝާދުގައި](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ބޭރަށް ދިއުމާއި ހަރަކާތްތައް ހަމަޖައްސަން ލަފާ ކުރަނީ އެމީހާ އެންމެ ރަނގަޅު ހާލުގައި ވާ ވަގުތަށެވެ. ގިނަ މީހުންނަށް އެއީ ހެނދުނުގެ މެދުކެނޑުމެވެ. ހަވީރުގެ ފަހުކޮޅު ގިނަ ފަހަރަށް އުނދަގޫވެދާނެ؛ [ހަވީރު ފަހުކޮޅު ހަމަޖެހޭ ހަރަކާތްތައް](/caregiving/late-day-restlessness/) ބައްލަވާ.
+2. **ކޮޓަރި ހަމަޖައްސާ.** ޓީވީއާއި ރޭޑިއޯ ނިއްވާ، އަދި ވީނަމަ ދޮރު ލައްޕާ. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) އިރުޝާދު ދެނީ ވާހަކަ ދެއްކުމުގެ ކުރިން އަޑާއި ސަމާލުކަން ނަގާ ކަންކަން މަދުކުރުމަށެވެ.
+3. **ފުރަތަމަ އެމީހާގެ އަރާމުކަން ބަލާ.** ކައިރީގައި ބުއިމެއް، ކުރިން ބޭނުންތެރިކަން ފުއްދުން، އަރާމު ގޮނޑިއެއް، އަދި އައިނާއި ކަންފަތުގެ އެހީތެރި ސާމާނު އަޅާފައިވާ ކަން ކަށަވަރުކުރޭ.
+4. **ތަން ރަނގަޅަށް އަލިކުރޭ.** ސްކްރީން މަތީގައި އަލި ރިފްލެކްޝަން ނުވާ، ހަމަހަމަ އަލި ތަސްވީރު ފެނުން ފަސޭހަ ކުރެއެވެ.
+5. **އިންދެވިގެން މީގެ ކުރިން ގޭމް ތައްޔާރުކުރޭ.** ހުޅުވާ، ސެޓިންގްސް ހޮވާ، އަދި އަޑު ތިޔަބޭފުޅާ އެކަށީގެންވާ މިނަށް ހަދާ. ދެން ސްކްރީން އެމީހާއަށް އަނބުރާ. ޓެބްލެޓް ބޭނުންކުރުމުގެ ލަފާތަކަށް [ޓެބްލެޓް ނުވަތަ ފޯނު ތައްޔާރުކުރުން](/caregiving/tablets-and-screens/) ބައްލަވާ.
+6. **ޑިވައިސް ބެލުމަށް ހުރި ގޮތަށް ބަހައްޓާ.** ޓެބްލެޓް ސީދާކޮށް ބަހައްޓާ ސްޓޭންޑެއް ނުވަތަ ކޭސެއް ބޭނުންކުރުމުން އެއްވެސް މީހަކަށް ހިފައިގެން ހުރަން ނުޖެހޭ، އަދި އަތްޕުޅުން ދައްކާލުން ވެސް ފަސޭހަވެއެވެ.
 
-## How do I invite them without pressure?
+## ފިތުން ނެތި ގޮތަކަށް ދައުވަތު ދޭނީ ކިހިނެއް؟
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+ދައުވަތު ދޭނީ އާދައިގެ ގޮތަކަށާއި، ނޫން ކިޔަން ފަސޭހަ ގޮތަކަށެވެ. ގިނަ ފަހަރަށް ރަނގަޅަށް އަޑު އަހަން އެހީތެރިވާ ބަސްތަކެއް:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- ”ބަގީޗާގެ ތަސްވީރު ބައެއް ފެނުނު. އެކުގައި ބަލަންވީތަ؟“
+- ”މި ޕަޒްލް ހަދަން އެހީތެރިވެދެއްވާންވީތަ؟ އަހަރެން ހުރީ އަސްވެފައި.“
+- ”މިއަދު މާތަކާ ކުޅަނދިލް ބޭނުންތަ، ނުވަތަ ދޫނިތަ؟“ (ހުޅުވާލެވިފައިވާ ސުވާލަކަށް ވުރެ ދެ އިޚްތިޔާރެއް ފަސޭހަ)
+- ”ތިޔަބޭފުޅާގެ ކޮއްކޮއަށް ކާޑެއް ހަދަނީ. މިއަށް ކޮން ކުލައަކުން ކުރަން ހެއްޔެވެ؟“
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer’s Association ލަފާ ދެނީ ހަރަކާތެއްގެ މަގްސަދު ދައްކާލުމަށެވެ، މިސާލަކަށް ރަހުމަތްތެރިޔަކަށް ކާޑެއް ހަދަން ކަމަށް ބުނުމުން، އެކަމަށް މާނަ ލިބިގެންދެއެވެ. އެހީ އެދުން ވެސް ކުރިއަށް ދެއެވެ، އެހެންކަމުން އެމީހަށް ބޭނުންތެރި ކަމެއް އިހުސާސް ކުރެވޭނެ.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+އެމީހާ ނޫން ކިވެއްޖެނަމަ، އެކަން ޤަބޫލުކުރޭ. ފަހުން އަލުން މަސައްކަތް ކުރޭ، ނުވަތަ އެހެން ކަމެއް ހުށަހަޅާ. [އެމީހާ ނޫން ކިޔާއިރު ކުރާނެ ކަން](/caregiving/when-they-say-no/) އާ ބެހޭ އަޅުގަނޑުމެންގެ މަގުދަނޑިން އިތުރު އެހީ ލިބޭނެ.
 
-## How long should a game last, and how fast should we go?
+## ގޭމެއް ކުޅެންވީ ކިހާ ދިގުކޮށް، އަދި ކިހާ އަވަހަކަށް ކުރިއަށް ދާންވީތޯ؟
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+އަވަސް މިން ކަނޑައެޅުމަށް އެމީހާއަށް ދޫކޮށްލާ، އަދި ކުރު ވަގުތު ތަކަކަށް ހަމަޖައްސާ. އެކުގައި ކުޅޭ ގޭމެއްގެ ރަނގަޅު ދިގުމިނެއް ކަނޑައެޅިފައިވާ ތަނެއް ނެތެވެ. ހަމަޖެހިފައިވާ ދެ ނުވަތަ ފަސް މިނިޓަކީ ފުރިހަމަ ހަރަކާތެއް ވެދާނެ.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **ގިނަ ފަހަރަށް އިހުސާސް ކުރާ ވަރަށް ވުރެ ދިގުކޮށް މަޑުކުރޭ.** NIA ލަފާ ދެނީ ޖަވާބު ދިނުމަށް އިތުރު ވަގުތު ދިނުމަށާއި، މެދުގައި ވާހަކަ ނުކެނޑުމަށް މަސައްކަތް ކުރުމަށެވެ. އެހީތެރިވުމުގެ ކުރިން ހިތުގައި ދިހައަށް ގުނާ.
+- **އެއްފަހަރަށް އެއް ފިޔަވަޅު.** ކުރު، ސާދާ އެއް އިރުޝާދެއް ދީ (”ތަސްވީރަކަށް ފިއްތަވާ“)، ދެން މަޑުކުރޭ. ބުނެދިނުމަށް ވުރެ ދައްކާލާ: ކޮން ތަނަކަށް ފިއްތަވަންވީތޯ އަތްޕުޅުން ދައްކާ.
+- **ބޭނުންވާ ވަރަކަށް މަޑުކުރޭ.** ތަސްވީރެއްގެ ވާހަކަ ދެއްކެވުމަށް ހުއްޓިވަޑައިގަތްނަމަ، ގޭމް މަޑުކޮށްލެވޭނެ. އަވަސްވުމަކީ ކޮންމެހެން ބޭނުންވާ ކަމެއް ނޫނެވެ.
+- **ބެލުމަށް ހުރިގޮތް ދޫކޮށްލާ.** NIA ފާހަގަ ކުރަނީ ބައެއް މީހުން ބެލުމަށް ވަރަށް ބޭނުންވާ ކަމަށާއި، އެއީ ޤަބޫލުކުރެވޭ އިޚްތިޔާރެއް ކަމަށެވެ.
 
-## Should I correct wrong answers?
+## ނުބައި ޖަވާބު ރަނގަޅު ކުރަންވީތޯ؟
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+ނޫނެވެ. އެއްފަހަރަށް ފަހު އެއްފަހަރު ހަމަޖެހިފައިވާ ގޮތަކަށް ރަނގަޅުކުރުމުން، ރަނގަޅު ނިޔަތެއް ހުރި ނަމަވެސް، އެމީހަށް ނާކާމިޔާބުވަނީ ކަމަށް އިހުސާސް ކުރައްވައެވެ. Alzheimer’s Association ލަފާ ދެނީ ގެއްލުން ނުވާ ހަރަކާތްތައް ކުށްވެސް ނުކިޔައި ނުވަތަ ރަނގަޅު ނުކުރުމަށެވެ. ގޭމެއްގައި ގާތްގަނޑަކަށް ހުރި ކޮންމެ ކުށަކީ ގެއްލުން ނުވާ ކުށެކެވެ.
 
-| Instead of | Try |
+| މިބަސްތަކުގެ ބަދަލުގައި | މިހެން މަސައްކަތް ކުރޭ |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| ”ނޫން، އެއީ ނުބައެވެ.“ | ”މިހެން މަސައްކަތް ކުރަމާ.“ (NIA ދޭ މިސާލެއް) |
+| ”އެއީ އެއް ޖިންސެއް ނޫން. އަލުން ބަލާލައްވާ.“ | އެއްވެސް ކަމެއް ނުދައްކައި ދެން އަންނަ ބުރު ނަގާ، ނުވަތަ ”އޭ، ދެބައި ވެސް ރަތް ކުލައިގެ.“ |
+| ”މިއީ ކާކުކަން ހަނދާން އަންނަނީ ހެއްޔެވެ؟“ | ”މި ތަސްވީރާ ބެހޭ ކޮންކަމެއް ކިޔާލައްވާ.“ |
+| ”އެ ތަސްވީރު އެންމެ ކުރީގައި ވެސް ކުރެއްވިއެވެ.“ | ”އެއީ ރަނގަޅު ތަސްވީރެކެވެ. އަލުން ކުރަމާ.“ |
+| ”އަންނާށެވެ، މިކަން ތިޔަބޭފުޅާއަށް އެނގެން ވާނެއެވެ.“ | ”ނިމުން ދައްކާލާންވީތަ؟“ |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+ކުށެއް ސާފުކޮށް އެމީހަށް ހިތްހަމަ ނުޖެހޭ ކަން ފެނިއްޖެނަމަ، ހަމަޖެހިފައިވާ ގޮތަކަށް އެހީތެރިވެ ދީ. ރަނގަޅު ތަސްވީރަށް އަތްޕުޅުން ދައްކާލާ، ތިޔަބޭފުޅާ ބުރެއް ނަގާ، ނުވަތަ ދެން އަންނަ ބުރުގައި ގޭމް ފަސޭހަ ކުރާ. މަސައްކަތެއްގެ ނިމުން ހިނދުމުގެ ތަރުހައިގައި ކުށެއް ވެއްޖެ ނަމަ، އެކުގައި ހިނި އަރާ. އެމީހާގެ ނިމުން އެއަށްވުރެ ރަނގަޅު ވެދާނެ.
 
-## How do I make a game easier or harder?
+## ގޭމެއް ފަސޭހަ ނުވަތަ އުނދަގޫ ކުރަނީ ކިހިނެއް؟
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+ގޭމް އެދުވަހު އެމީހާއަށް އެއްގޮތްވާ ގޮތަށް ހަދާ، މަރުޙަލާއެއްގެ ނަނަކަށް ނޫނެވެ. އެއް މީހަކަށް ހެނދުނު ބޭނުންވާ ވަރަށް ވުރެ ފަސޭހަ ބައެއް ހަވީރު ބޭނުންވެދާނެ. NIA ގެ ފުރަތަމަ ލަފާއަކީ ހަރަކާތް އެމީހާ ކުރެވޭ ކަމާ އެއްގޮތްވާ ގޮތަށް ހަދާ، އަދި އެމީހަށް ކާމިޔާބު ކަމެއް އިހުސާސް ކުރެވޭ ކަން ކަށަވަރުކުރުމެވެ.
 
-| Game | Make it easier | Make it a little harder |
+| ގޭމް | ފަސޭހަ ކުރުމަށް | މަދުމައްޗަށް އުނދަގޫ ކުރުމަށް |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | 4 ޓައިލްއިން ފަށާ، ތަސްވީރުތައް ފެންނަ ގޮތަށް ބަހައްޓާ | ޓައިލް އިތުރުކުރޭ، ނުވަތަ ރަނގަޅު އިހުސާސް ކުރެވޭނަމަ ތަސްވީރު ފޮރުވާ |
+| [Find the Same](/games/find-the-same/) | 2 އިޚްތިޔާރު | 4 އިޚްތިޔާރަށް ދާން |
+| [Sort Together](/games/sort-together/) | ތަސްވީރު ތިޔަބޭފުޅާ ހިފައިގަންނަވާ، އެމީހާ ޓޮކަށް އަތްޕުޅުން ދައްކާ | އެމީހާ އަމިއްލައަށް ތަސްވީރާއި ޓޮކަށް ފިއްތަވާ |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 ހިސާބު، ފުރަތަމަ މުޅި ތަސްވީރާ ބެހޭ ވާހަކަ ދައްކާ | 9 ހިސާބު |
+| [Finish the Saying](/games/finish-the-saying/) | ނިމުން ދައްކާ، ދެން އެކުގައި ކިޔާ | ފިއްތަވުމުގެ ކުރިން ނިމުން ކިޔައްވާ |
+| [Word Search](/games/word-search/) | ޕްރިންޓްކޮށް، އެކުގައި އެއް ބަސް ހޯދާ، އެމީހާގެ ފުރަތަމަ އަކުރަށް އަތްޕުޅުން ދައްކާ | ދެން ހޯދާނެ ބަސް އެމީހާ އިޚްތިޔާރު ކުރެއްވުމަށް ދޫކޮށްލާ |
+| [Coloring](/games/coloring/) | ތިޔަބޭފުޅާ ދެ ކުލައެއް ހޮވާ، އެމީހާ އެ ދެކުލައިން އިޚްތިޔާރު ކުރެއްވުމަށް ދޫކޮށްލާ | ހުރިހާ ކުލައެއް އެމީހާ އިޚްތިޔާރު ކުރެއްވުމަށް ދޫކޮށްލާ |
+| [Conversation Cards](/games/conversation-cards/) | ހަމައެކަނި އެކުގައި ތަސްވީރު ބަލާ | ކާޑުގައި ހުރި ހުޅުވާލެވިފައިވާ ސުވާލުތައް ބޭނުންކުރޭ |
+| [Photo Pairs](/games/photo-pairs/) | އާއިލާގެ ވަރަށް ލޯބިވާ މަދު ފޮޓޯތަކެއް | އިތުރު ފޮޓޯ އިތުރުކުރޭ |
+| [Picture Bingo](/games/picture-bingo/) | ކުޅެން އިން ކޮންމެ މީހަކާ އެކު އެހީތެރިއަކު އިށީ | ކުޅެން އިން މީހުން އަމިއްލައަށް ކާޑުތަކަށް ނިޝާން ޖައްސަވާ |
+| [Calm Breathing](/games/calm-breathing/) | ހަމައެކަނި އިށީގެން އެކުގައި ބަލާ | ހަމަޖެހިފައިވާ އަވަހަކަށް ނޭވާލާ |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+ގޭމް މާ އުނދަގޫވެފައިވާ ލަފާތައް: ވިސްނާފައި ދެކެން ނޫން، ހިތާމަ ފެންނަ ދިގު ހުއްޓުންތައް، ތަކުރާރުކޮށް ”އަހަންނަކަށް ނުކުރެވޭނެ“ ކިޔުން، ޑިވައިސް ދުރަށް އެއްކޮށްލުން، ނުވަތަ އެމީހަށް ހިތްހަމަ ނުޖެހޭ ކުށްތައް. މާ ފަސޭހަވެދާނެ ކަމަށް ދައްކާ ލަފާތައް: ހުސްވުން، ނުވަތަ އެއީ ކުޑަކުދިންނަށް ހެން ކަމަށް ބުނުން. އެހެން ވެއްޖެ ނަމަ، އެކަން ޤަބޫލުކޮށް ބޮޑެތި މީހުންނަށް އެއްގޮތްވާ ކަމަކަށް ބަދަލުކުރޭ، މިސާލަކަށް ބަހުން ހޯދާ ގޭމެއް، ހަގީގީ ފޮޓޯއެއްގެ ޕަޒްލެއް، ނުވަތަ ކުރީގައި ކުރި ވަޒީފާއެއްގެ ތަސްވީރެއް ބެހޭ ވާހަކަ ދެއްކުން.
 
-## How do I turn a game into a conversation?
+## ގޭމެއް ވާހަކައަކަށް ހަދަނީ ކިހިނެއް؟
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+ކޮންމެ ތަސްވީރެއް ވެސް ވާހަކަ ދެއްކުމަށް ދައުވަތެއް ކަމުގައި ބޭނުންކުރޭ، އަދި އެމީހާ ކިޔާ ކޮންމެ ކަމެއް ރަނގަޅު ޖަވާބެއް ކަމުގައި ބަލާ. ގިނަ އާއިލާތަކަށް، މިއީ ކުޅެމުން ދިޔުމުގެ އެންމެ ރަނގަޅު ބައެވެ.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **ހުޅުވާލެވިފައިވާ، ނުބައި ޖަވާބެއް ނެތް ސުވާލުތައް ކުރޭ.** ”ކޮން ކަމެއް ފެންނަނީ؟“ ”ކޮން އެއްޗެއް އެންމެ ރަނގަޅު؟“ ”މިފަދަ ބަދިގެއެއްގެ ވާހަކައެއް ކިޔާލައްވާ.“
+- **ތިޔަބޭފުޅާ ފުރަތަމަ ހިއްސާކުރޭ.** ”އަހަރެންގެ ކާފައަށް މިފަދަ ބަޅުއެއް އުޅުނެވެ.“ ތިޔަބޭފުޅާގެ ވާހަކައިން އެމީހަށް ވެސް ހިއްސާކުރަން ފަސޭހަވެއެވެ.
+- **އެހެން މައުޟޫއަކަށް ދިޔުމަށް ދޫކޮށްލާ.** ކާރެއްގެ ތަސްވީރަކުން ދަތުރެއްގެ ވާހަކައަކަށް ދިޔައިފިނަމަ، އެ ވާހަކައަކީ ހަރަކާތެވެ. ގޭމް މަޑުކޮށްލާ.
+- **ތެދުކަން ބެލުމަށް ނުދާ.** ހަނދާންތައް ހިއްސާކުރުމުގައި، ރަނގަޅު ވާހަކައަކީ ތެދު ތަފްސީލުތަކަށް ވުރެ މުހިންމު ކަމެކެވެ. ވާހަކަ އެންމެ ފަހަރުގެ ވާހަކައާ ތަފާތުވެއްޖެ ނަމަ، އައު ބައިވަރުގައި އުފާވެލައްވާ.
+- **ގޭމުގައި ހުރި އެހީތައް ބޭނުންކުރޭ.** [Finish the Saying](/games/finish-the-saying/) ކޮންމެ މަސައްކަތަކަށް ފަހު ވާހަކަ ދެއްކުމަށް ދައުވަތެއް ދެއެވެ، އަދި [Conversation Cards](/games/conversation-cards/) ހަދާފައި ވަނީ މިކަމަށް ޚާއްސަ ކޮށެވެ. [Photo Pairs](/games/photo-pairs/) ގައި ބޭނުންކުރަނީ ތިޔަބޭފުޅުންގެ އަމިއްލަ އާއިލާގެ ފޮޓޯތައް، އެއީ ގިނަ ފަހަރަށް އެންމެ ޝައުޤުވެރި ވާހަކަތައް އުފެދޭ ކަންކަމެވެ.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+އިތުރު ޚިޔާލުތަކަށް އަޅުގަނޑުމެންގެ [ހަނދާން ހިއްސާކުރުމުގެ ހަރަކާތްތައް](/activities/reminiscence/) އަދި [މުއާމަލާތު ކުރުމުގެ ލަފާތައް](/caregiving/communication-tips/) އާ ބެހޭ މަގުދަނޑިތައް ބައްލަވާ.
 
-## When should we stop?
+## ނިންމަންވީ ކޮން އިރަކުން؟
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+ހަރަކާތްތެރިކަން މަދުވުމުގެ ނުވަތަ ހިތްހަމަ ނުޖެހުމުގެ އެންމެ ފުރަތަމަ ލަފާތަކުގައި ނިންމާ، އެއަށް ވުރެ ކުރިން ނިންމުމަކީ ރަނގަޅު ކަމެކެވެ. Alzheimer’s Association ލަފާ ދެނީ ސަމާލުކަން މަދުވެއްޖެ ނަމަ ނުވަތަ ދަތިވުން ގިނަވެއްޖެ ނަމަ ހަރަކާތެއް ހުއްޓުވަން ނުވަތަ ބަދަލުކުރުމަށެވެ.
 
-Watch for:
+މި ކަންކަމަށް ސަމާލުކަން ދީ:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- ހާއިލާސް ނަގުން، ކަށިނދެގެން އިށީނުދެވުން، ނުވަތަ ސްކްރީނުން ލޮލު ދުރަށް ދިއުން؛
+- ހަރަކާތްތެރިވެ އިށީނުދެވުން، ހުއްޓިވަޑައިގަތުން، ނުވަތަ ދަންނަވަން އެދުން؛
+- ހޫނު ނެގުން، ކުރު ޖަވާބު، ނުވަތަ ”މިކަން އަހަންނަކަށް ރަނގަޅެއް ނުވޭ“ ކިޔުން؛
+- ވަކިން ކޮންމެ ތަނަކަށް ފިއްތަވުން ނުވަތަ ޑިވައިސް ދުރަށް އެއްކޮށްލުން؛
+- ލޮލުން ކަޅިއަރުން، ކަންބޮޑުވުން، ނުވަތަ ހިތްވަރުގައި އަވަސް ބަދަލެއް އައުން.
 
-How to stop well:
+ރަނގަޅަށް ނިންމާ ގޮތް:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **ފަސޭހަ ކަމަކުން ނިންމާ.** ކުރެވޭނެ އެންމެ ފަހު އެއް ޖޯޑުކުރުމެއް، ނުވަތަ ބެލުމަށް އެންމެ ފަހު ތަސްވީރެއް.
+- **އެކަން ތިޔަބޭފުޅާގެ ކަމަކަށް ހަދާ.** ”ސައި އަރާން ހީވެފައި. މިތާ ހުއްޓާނަންތަ؟“ މިހެން ކިޔުމުން އެމީހާ ރަނގަޅަށް ނުކުރި ކަމަށް އިހުސާސް ނުކުރައްވައެވެ.
+- **ހަރަކާތްތެރި ނުވަތަ ހަމަޖެހޭ ކަމަކަށް ދާ.** ކުރު ހިނގާލުމެއް، ކާން ކަމެއް، އަންދުން ފުރަން އެޅުން، ނުވަތަ މިއުޒިކެއް.
+- **ހިތްހަމަޖެހޭ ބަހެއް ކިޔާ.** ”އެކުގައި މިކަން ކުރުމަށް އަހަރެން ވަރަށް ބޭނުންވި.“ ”ރަނގަޅަށް ކުރެއްވި“ ކަމަށް ތައުރީފު ނުކުރައްވައި، އެކުގައި ހޭދަކުރި ވަގުތުގައި އުފާވެލައްވާ.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+ކުރިން ނިންމުން، ޕްލޭން ބަދަލުކުރުން، ނުވަތަ ގޭމް ދޫކޮށްލައި ހަމައެކަނި އެކުގައި އިށީހުރުން، މިހުރިހާ ކަމަކީ ރަނގަޅު ނަތީޖާތަކެކެވެ.
 
-## Can we play in a group or over a video call?
+## ގްރޫޕެއްގައި ނުވަތަ ވީޑިއޯ ކޯލެއްގައި ކުޅެވޭނެތަ؟
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+އާދެ، މަދު ތައްޔާރީއަކާއެކު ކުޅެވޭނެ. ގްރޫޕެއްގައި ކުޅޭނަމަ، މީހުން މަދު ބަޔަކު ބައިވެރިކުރޭ، އެހީ ބޭނުންވާ މީހުންގެ ކައިރީގައި އެހީތެރިން އިށީނދެވުމަށް ހަމަޖައްސާ، އަދި އެންމެން އެކުގައި ސަމާލުކަން ދެވޭނެ ސާފު ގޭމެއް ހޮވާ. [Picture Bingo](/games/picture-bingo/) ގައި ގްރޫޕްތަކަށް ޕްރިންޓް ކުރެވޭ ކާޑުތަކާއި ސްކްރީނުގައި ފެންނަ ކޯލަރެއް ހިމެނެއެވެ. އިތުރަށް [ކެއަރ ހޯމް ގްރޫޕްތަކަށް ހަރަކާތްތައް](/activities/care-home-groups/) ބައްލަވާ.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+ވީޑިއޯ ކޯލެއްގައި ކުޅޭނަމަ، ކޯލުގައި ހުރި މީހާއަށް ތަސްވީރެއް ބަޔާންކޮށް ދެވޭނެ، އަދި ކޮޓަރީގައި ހުރި މީހަކު އެ ތަނަށް އަތްޕުޅުން ދައްކައި ފިއްތަވާނެ. ކޯލުތައް ކުރުކޮށް، އާދަކޮށްފައިވާ ގޮތަކަށް ބަހައްޓާ. [ފޯނު އަދި ވީޑިއޯ ކޯލުތައް](/activities/phone-and-video-calls/) އާ ބެހޭ އަޅުގަނޑުމެންގެ މަގުދަނޑިން އިތުރު ލަފާ ލިބޭނެ.
 
-## What if a game just isn't working?
+## ގޭމެއް އެއްކޮށް ކުރިއަށް ނުދާނަމަ ކީއްކުރަން ވީތޯ؟
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+ބައެއް ދުވަސްވަރު އެއްވެސް ކަމެއް ރަނގަޅަށް ނުދާނެ، އަދި އެއީ ތިޔަބޭފުޅާގެ ނުވަތަ އެމީހާގެ ކުށެއް ކަމަށް ނުބަލައިގަންނަވާ. ގޭމް އެއްކޮށްލައި، ދުވަހުގެ އެހެން ވަގުތެއްގައި، އެހެން ގޭމެއް، ނުވަތަ އެއްވެސް ގޭމެއް ނެތި އަލުން މަސައްކަތް ކުރޭ. ގިނަ ރަނގަޅު ހަރަކާތްތަކަށް ސްކްރީނެއްގެ ބޭނުމެއް ނެތެވެ: މިއުޒިކް، ޓަވަލު ފުރަން އެޅުން، ފޮޓޯ އަލްބަމެއް ބަލާލުން، ނުވަތަ ކުރު ހިނގާލުމެއް. އިތުރަށް [ހަރަކާތްތަކުގެ ޚިޔާލުތައް](/activities/ideas/) ބައްލަވާ.

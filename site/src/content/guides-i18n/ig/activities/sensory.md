@@ -1,32 +1,33 @@
 ---
-title: "Ọrụ Ahụ Mmetụta maka Ndị Nwere Dementia"
-seoTitle: "Ọrụ Ahụ Mmetụta maka Dementia: Echiche na Nchekwa"
-description: "Ọrụ ahụ mmetụta maka ndị na-ebi ná dementia, site n'ịkpa aka ruo nkata akwa na ụda okike, tinyere ihe nchekwa doro anya banyere ilo, allergy na isi."
+title: "Ihe omume metụtara mmetụta maka ndị nwere nkwarụ ncheta"
+seoTitle: "Ihe omume mmetụta maka nkwarụ ncheta: Atụmatụ na nchekwa"
+description: "Ihe omume metụtara mmetụta maka ndị bi na nkwarụ ncheta, site na ịhịa aka nwayọọ ruo na ịkpọ isi ahịhịa, tinyere ndụmọdụ nchekwa doro anya."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ọrụ ahụ mmetụta na-eji imetụ aka, isi, ụtọ, ụda na ihe a na-ahụ: ịgbanye aka nwayọọ,
-  nkata akwa dị nro, ahịhịa ọgwụ ọhụrụ ịnụ isi, ụda okike, ma ọ bụ ilele
-  nnụnụ n'windo. Ha dabara n'ọkwa niile ma baara uru karịsịa n'oge ndị ọzọ.
-  Buru ụzọ lelee ihe egwu ilo, allergy, nsogbu akpụkpọ ahụ na isi na-esiri ya
-  ike, nye otu ihe n'otu oge, ma kwụsị ma ọ bụrụ na obi adịghị onye ahụ mma.
+  Ihe omume metụtara mmetụta na-eji mmetụ aka, ísì, uto, ụda na ịhụ ụzọ: ịhịa
+  aka nwayọọ, nkata nke akwa dị nro, ahịhịa ọhụrụ a ga-akpọ isi, ụda
+  okike, ma ọ bụ ile nnụnụ n’akụkụ windo. Ha dabara na ọkwa ọ bụla ma
+  baara uru karịsịa n’oge ikpeazụ. Buru ụzọ lelee maka ihe nwere ike ịkpachi
+  akpịrị, nfụkasị ahụ, nsogbu akpụkpọ ahụ na mmetụta ísì, nye otu ihe n’otu
+  oge, ma kwụsị ma ọ bụrụ na onye ahụ adịghị atọ ụtọ.
 keyPoints:
-  - "Ọrụ ahụ mmetụta adịghị achọ azịza ziri ezi, nke na-eme ka ha rụọ ọrụ n'ọkwa niile, gụnyere n'àkwà ma ọ bụ n'oche."
-  - "Nye otu ahụ mmetụta n'otu oge n'ime ụlọ dị jụụ, ma jụọ ma ọ bụ kwuo tupu imetụ ya aka."
-  - "Zere obere ihe na ihe ọ bụla na-adị ka nri ma ọ bụ na-esi ísì ka nri ma ọ bụghị nri, n'ihi na ndị mmadụ nwere ike itinye ihe n'ọnụ."
-  - "Lelee allergy, nsogbu akpụkpọ ahụ na nsogbu iku ume tupu iji mmanụ ahụ, isi ma ọ bụ nri."
-  - "Enweghị ihe ngosi na-eme mmadụ ntụkwasị obi na aromatherapy na-enyere ihe mgbaàmà dementia aka; jiri isi naanị maka obi ụtọ dị mfe, ma ọ bụrụ na ị ga-eji ya."
+  - "Ihe omume metụtara mmetụta achọghị azịza ziri ezi, nke mere na ha na-arụ ọrụ n’ọkwa ọ bụla, gụnyere mgbe onye nọ n’akwa ma ọ bụ n’oche."
+  - "Nye otu mmetụta n’otu oge n’ime ọnụ ụlọ dị jụụ, ma jụọ ma ọ bụ gwa onye ahụ tupu ị metụọ ya aka."
+  - "Zere obere ihe na ihe ọ bụla yiri nri ma ọ bụ nke na-esi isi dị ka nri ma ọ bụghị nri, n’ihi na ndị mmadụ nwere ike itinye ihe n’ọnụ."
+  - "Lelee maka nfụkasị ahụ, nsogbu akpụkpọ ahụ na nsogbu iku ume tupu iji ude, ísì ma ọ bụ nri."
+  - "Enweghị ihe akaebe doro anya na aromatherapy na-enyere aka belata mgbaàmà nkwarụ ncheta; jiri ísì naanị maka ịnụ ụtọ dị mfe, ma ọ bụrụ na ọ dị mkpa."
 faq:
-  - q: "Ọrụ ahụ mmetụta ndị gịnị dị mma maka onye nwere dementia?"
-    a: "Echiche dị mfe gụnyere ịgbanye aka nwayọọ site na mmanụ ahụ, ijide akwa dị nro, ịnụ isi ahịhịa ọgwụ ọhụrụ ma ọ bụ kọfị, ige egwu o kachasị masị ma ọ bụ ụda okike, ilele nnụnụ ma ọ bụ ọdọ azụ, na ịnụ ụtọ nri o hụrụ n'anya n'ụdị dị nchebe. Nye otu ihe n'otu oge ma lee otú onye ahụ si zaghachi."
-  - q: "Ọrụ ahụ mmetụta ndị a ọ̀ dị nchebe maka onye na-etinye ihe n'ọnụ?"
-    a: "Ha nwere ike ịdị, ma ọ bụrụ na e lezie anya. Jiri naanị ihe buru ibu nke a na-enweghị ike ilo, hapụ ihe ọ bụla pere mpe ma ọ bụ nke nwere ike ịgbaji, debekwa mmanụ ahụ, ncha na ihe nwere isi n'ebe aka ya na-adịghị eru mgbe e mesịrị, n'ihi na ha nwere ike ịdị ka nri ma ọ bụ na-esi ísì ka nri. Nọnyere onye ahụ n'oge niile."
-  - q: "Aromatherapy ọ̀ na-enyere dementia aka?"
-    a: "Nyocha Cochrane chọtara na enweghị ihe ngosi na-eme mmadụ ntụkwasị obi na aromatherapy na-enyere ndị nwere dementia aka, ọ bụ ezie na nyocha ndị ahụ pere mpe ma na-adịghị otu. Ọ bụrụ na onye ahụ na-enwe obi ụtọ n'isi dị nro, a maara, nke ahụ dị mma, mana zere mmanụ isi siri ike, karịsịa ma ọ bụrụ na e nwere nsogbu iku ume ma ọ bụ allergy."
-  - q: "Gịnị bụ akwa ọrụ aka ma ọ bụ akwa ihe a na-eji aka egwu?"
-    a: "Ọ bụ mpempe akwa, akwa e ji ekpuchi ahụ ma ọ bụ akwa e ji ekpuchi ikpere nwere ihe a ga-ejide e sere ike n'elu ya, dị ka bọtịn buru ibu, zipa, ribọn na mpempe akwa nwere ụdị dị iche iche. Ọ na-enye aka ndị na-enweghị ike ịnọ jụụ ihe ha ga-enyocha. Lelee ya ugboro ugboro maka ihe ọ bụla na-adịghị ike nke enwere ike ịdọpụ."
+  - q: "Kedu ihe omume metụtara mmetụta dị mma maka onye nwere nkwarụ ncheta?"
+    a: "Echiche dị mfe gụnyere ịhịa aka nwayọọ na ude, ijide akwa dị nro, ịkpọ isi ahịhịa ọhụrụ ma ọ bụ kọfị, ige egwu mmasị ma ọ bụ ụda okike, ile nnụnụ ma ọ bụ tankị azụ, na ịtụ ụtọ nri mmasị n’ụdị dị mma maka iri. Nye otu ihe n’otu oge ma lelee ka onye ahụ si meghachi omume."
+  - q: "Ihe omume metụtara mmetụta ọ dị mma maka onye na-etinye ihe n’ọnụ?"
+    a: "Ha nwere ike ịdị mma, ma a ga-akpachapụ anya. Jiri naanị nnukwu ihe a na-apụghị ilo, hapụ ihe ọ bụla dị obere ma ọ bụ nke nwere ike ịgbaji, ma debe ude, ncha na ihe na-esi isi ebe a na-apụghị iru ha mgbe e mesịrị, n’ihi na ha nwere ike iyi nri ma ọ bụ isi dị ka nri. Nọrọnyere onye ahụ mgbe niile."
+  - q: "Aromatherapy ọ na-enyere aka na nkwarụ ncheta?"
+    a: "Nyocha Cochrane achọpụtaghị ihe akaebe doro anya na aromatherapy na-enyere ndị nwere nkwarụ ncheta, n’agbanyeghị na ọmụmụ ndị ahụ dị obere ma na-ekwekọghị. Ọ bụrụ na onye ahụ na-enwe mmasị n’ísì dị nro ma mara ya nke ọma, nke ahụ dị mma, mana zere mmanụ esenshial siri ike, karịsịa n’ebe nsogbu iku ume ma ọ bụ nfụkasị ahụ dị."
+  - q: "Gịnị bụ apron ma ọ bụ blanket na-eme ka aka na-arụ ọrụ?"
+    a: "Ọ bụ akwa, apron ma ọ bụ blanket a na-etinye n’apata nwere ihe a ga-eji aka jide nke a dunyere nke ọma n’elu ya, dị ka nnukwu bọtịnụ, zịpa, rịbọn na patches nwere ụdị dị iche iche. Ọ na-enye aka ndị na-achọ ihe ime ihe ha ga-enyocha. Lelee ya ugboro ugboro maka ihe ọ bụla rụrụ arụ nke nwere ike ịdọpụ."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -47,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Ọrụ ahụ mmetụta na-eji ahụ mmetụta ise: imetụ aka, isi, ụtọ, ụda na ihe a na-ahụ. Ha anaghị achọ ncheta, ọ dịghị usoro ọ ga-agbaso, ọ dịghịkwa azịza ziri ezi, ya mere ha nwere ike ịrụ ọrụ n'ọkwa ọ bụla. Ha dị mkpa karịsịa n'oge ndị ọzọ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) na-ekwu na n'oge ikpeazụ a na-enweta ụwa kachasị site n'ahụ mmetụta, na ị nwere ike igosi nlekọta site n'imetụ aka, ụda, ihe a na-ahụ, ụtọ na isi. Nlele nchekwa ole na ole na-eme ka ọrụ ndị a bụrụ ihe na-eme ka onye ọ bụla zuru ike.
+Ihe omume metụtara mmetụta na-eji mmetụta ise: mmetụ aka, ísì, uto, ụda na ịhụ ụzọ. Ha achọghị ncheta, usoro nzọụkwụ ma ọ bụ azịza ziri ezi, ya mere ha nwere ike ịrụ ọrụ n’ọkwa ọ bụla. Ha bara uru karịsịa n’oge ikpeazụ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) na-ekwu na n’ọkwa ikpeazụ, a na-enweta ụwa site na mmetụta, nakwa na ị nwere ike igosi nlekọta site na mmetụ aka, ụda, ịhụ ụzọ, uto na ísì. Nlele nchekwa ole na ole na-eme ka ihe omume ndị a nwee udo maka onye ọ bụla.
 
-## Gịnị bụ ọrụ ahụ mmetụta maka dementia?
+## Kedu ihe bụ ihe omume metụtara mmetụta maka nkwarụ ncheta?
 
-Ọrụ ahụ mmetụta bụ ahụmahụ dị mfe e wuru gburugburu otu ahụ mmetụta n'otu oge, dị ka ịmetụ akwa, ịnụ isi ahịhịa ọgwụ ma ọ bụ ige ntị n'ụda mmiri ozuzo. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) na-ekwu na ọrụ n'oge ikpeazụ na-achọkarị lekwasị anya n'ahụ mmetụta, na-ekwukwa egwu, ihe a ga-emetụ ma jide, na ịgbanye aka. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) na-ekwu na ndị nọ n'oge ikpeazụ nwere ike inwe mkpa siri ike ịjide ihe nso maka nkasi obi.
+Ihe omume metụtara mmetụta bụ ahụmịhe dị mfe e wuru gburugburu otu mmetụta n’otu oge, dị ka imetụ akwa aka, ịkpọ isi ahịhịa ma ọ bụ ige ụda mmiri ozuzo. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) na-ekwu na ihe omume n’ọkwa ikpeazụ na-adịkarị mkpa ka ha lekwasị anya na mmetụta, ma kwuo egwu, ihe a ga-eji aka metụ ma jide, na ịhịa aka. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) na-ekwu na ndị nọ n’ọkwa ikpeazụ nwere ike inwe ọchịchọ siri ike ijide ihe nso ha maka nkasi obi.
 
-## Echiche ahụ mmetụta, ahụ mmetụta site n'ahụ mmetụta
+## Echiche metụtara mmetụta, site n’otu mmetụta gaa na nke ọzọ
 
-### Imetụ aka
+### Mmetụ aka
 
-- **Ịgbanye aka.** Mee ka obere mmanụ ahụ dị ọkụ ọkụ n'aka gị, wee jiri nwayọọ gbanye site n'ọnụ aka ruo n'isi mkpịsị aka. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) kwuru ịgbanye aka site na mmanụ ahụ na-enweghị isi ísì maka nkasi obi.
-- **Nkata akwa.** Mpempe akwa buru ibu nke velvet, corduroy, fleece, satin na ajị anụ ka e metụ, pịkọta ma kwurịta.
-- **Akwa nhicha dị ọkụ.** Akwa nhicha dị ọkụ ọkụ, dị mmiri mmiri maka aka n'ụbọchị oyi. Nwalee ọkụ ya n'aka gị buru ụzọ.
-- **Akwa ọrụ aka ma ọ bụ akwa e ji ekpuchi ikpere.** Bọtịn buru ibu, zipa, ribọn na mpempe akwa nwere ụdị dị iche iche e sere ike.
-- **Ịpịkọta na ime ka ihe dị larịị.** Nkata nke akwa nhicha ma ọ bụ akwa nhicha ọnụ a saworo ka e pịkọta, chịkọta ma pịkọta ọzọ.
-- **Ihe dị nro ijide.** Akwa fleece, ọdụ dị nro (cushion), ma ọ bụ anụmanụ dị nro yiri ezigbo, e nyere ya n'ụzọ dị mfe, ọ bụghị dị ka ihe egwuregwu.
+- **Ịhịa aka.** Mee ka obere ude dị ọkụ n’aka gị ma hịa ya nwayọọ site na nkwoji aka ruo na mkpịsị aka. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) na-ekwu maka ịhịa ahụ na ude na-enweghị ísì maka nkasi obi.
+- **Nkata akwa.** Akwa ukwu nke velvet, corduroy, fleece, satin na ajị anụ ka e wee hịa, pịachaa ma kwuo okwu banyere ha.
+- **Akwa nhicha dị ọkụ.** Akwa nhicha dị ọkụ ma dị mmiri mmiri maka aka n’ụbọchị oyi. Buru ụzọ nwalee okpomọkụ ya n’akụkụ nkwoji aka gị.
+- **Apron ma ọ bụ blanket na-eme ka aka na-arụ ọrụ.** Nnukwu bọtịnụ, zịpa, rịbọn na patches nwere ụdị dị iche iche a dunyere nke ọma.
+- **Ịpịachi na ime ka ihe dị larịị.** Nkata nke akwa nhicha ma ọ bụ akwa tebụl dị ọcha ka e wee pịachaa, kwakọba ma pịachaa ọzọ.
+- **Ihe dị nro a ga-eji jide.** Blanket fleece, ohiri isi ma ọ bụ anụmanụ dị nro yiri nke eziokwu, nke e nyere n’ụzọ dị mfe, ọ bụghị dị ka ihe egwuregwu.
 
-### Isi
+### Ísì
 
-- **Ahịhịa ọgwụ ọhụrụ.** Jiri mkpịsị aka gị metụ akwụkwọ mint, rosemary, basil ma ọ bụ lavender nwayọọ ka isi pụta, wee nyefee ya.
-- **Isi nke ụlọ nri.** Kọfị a na-esi, achịcha a na-ere, ma ọ bụ oroma a na-ehichapụ n'akụkụ.
-- **Ifuru.** Kpọbata ifuru ọhụrụ ole na ole site n'ubi ma ọ bụ n'ahịa.
-- **Ihe a maara.** Ncha ma ọ bụ mmanụ ahụ ọ na-eji mgbe niile, ma ọ bụrụ na akpụkpọ ahụ ya anabata ya.
+- **Ahịhịa ọhụrụ.** Kpọọ mint, rosemary, basil ma ọ bụ akwụkwọ lavender n’etiti mkpịsị aka gị ma nyefee ya nso.
+- **Ísì si n’ime ụlọ oriri.** Kọfị na-esi isi, achịcha a na-eghe, cinnamon ma ọ bụ oroma a na-akpụ n’akụkụ.
+- **Okooko osisi.** Weta okooko ole na ole ọhụrụ si n’ubi ma ọ bụ n’ụlọ ahịa.
+- **Ngwaahịa maara nke ọma.** Ncha ma ọ bụ ude onye ahụ na-ejibu mgbe niile, ma ọ bụrụ na akpụkpọ ahụ ya na-anabata ya.
 
-### Ụtọ
+### Uto
 
-- **Ụtọ ọ hụrụ n'anya.** Obere ngaji nke ihe ọ hụrụ n'anya, dị ka mkpụrụ osisi a gwakọtara dị nro ma ọ bụ nri dị nro ọzọ, n'ụdị o nwere ike ilo n'enweghị ize ndụ.
-- **Inyere aka n'ime achịcha.** Ịnụ ụtọ mkpụrụ osisi ma ọ bụ obere ihe mkpuchi achịcha mgbe unu na-eme achịcha ọnụ.
-- **Nri nke oge.** Mkpụrụ osisi dị ụtọ n'oge okpomọkụ, ihe ọṅụṅụ dị ọkụ ọkụ n'oge oyi, e nyere n'ọkụ dị nchebe.
+- **Uto mmasị.** Obere ngaji nke ihe onye ahụ hụrụ n’anya, dị ka applesauce, pudding ma ọ bụ ice cream, n’ụdị onye ahụ nwere ike iri n’enweghị nsogbu.
+- **Enyemaka n’ime achịcha.** Ịtụ ụtọ mkpụrụ osisi ma ọ bụ obere frosting mgbe unu na-eme achịcha ọnụ.
+- **Ihe ụtọ nke oge.** Anyụ ndị a n’oge okpomọkụ, cider dị ọkụ n’oge udu mmiri, nke e nyere n’okpomọkụ dị mma.
 
 ### Ụda
 
-- **Egwu o kachasị masị.** Abụ a maara n'olu dị nwayọọ; lee [ọrụ egwu](/activities/music/).
-- **Ụda okike.** Mmiri ozuzo, ebili mmiri ma ọ bụ ụda nnụnụ. NIA na-ekwu na egwu, ụda ọcha (white noise) na ụda okike yiri ka ha na-eme ka ụfọdụ ndị zuru ike.
-- **Olu gị.** Ịgụ n'olu elu, ịgbụ ụda n'ọnụ, ma ọ bụ ịkọ akụkọ.
-- **Ngwa egwu dị mfe.** Obere ịgba aka, ichaka ma ọ bụ mgbịrịgba ka onye ahụ soro egwu kpọọ.
+- **Egwu mmasị.** Abụ ndị maara nke ọma n’olu dị nro; lee [ihe omume egwu](/activities/music/).
+- **Ụda okike.** Mmiri ozuzo, ebili mmiri ma ọ bụ ụda nnụnụ. NIA na-ekwu na egwu, white noise na ụda okike yiri ka ha na-enyere ụfọdụ ndị mmadụ zuru ike.
+- **Olu gị.** Ịgụpụta akwụkwọ n’olu dara ụda, ịma abụ nwayọọ, ma ọ bụ ịkọ akụkọ.
+- **Ngwá egwú dị mfe.** Ịgba drum aka, shaker ma ọ bụ mgbịrịgba iji soro egwu.
 
-### Ihe a na-ahụ
+### Ịhụ ụzọ
 
-- **Ilele n'windo.** Ebe a na-enye nnụnụ nri n'èzí windo, ụmụaka na-alaghachi n'ụlọ, ma ọ bụ mmiri ozuzo na-ezo.
-- **Ọdọ azụ ma ọ bụ vidiyo na-aga nwayọọ.** Mmegharị dị nro n'enweghị ụda dị ike.
-- **Foto buru ibu.** Otu foto doro anya n'otu oge, ejide ya n'ókè anya.
-- **Agba na ụkpụrụ.** Ịhazi mpempe akwa nwere agba na-egbu ìhè, ifuru ma ọ bụ akwa nhicha ọnụ nwere agba, ma ọ bụ ibe maka ịcha agba dị mfe sitere na [ịcha agba](/games/coloring/) anyị.
-- **N'èzí.** NHS na-atụ aro ogige ahụ mmetụta nwere osisi na-esi ísì ụtọ, ihe dị iche iche ịmetụ na mmiri na-asọ. Lee [ọrụ n'èzí na ọrụ ubi](/activities/outdoor-and-gardening/).
+- **Ile anya site na windo.** Ebe a na-etinye nri nnụnụ n’èzí windo, ụmụaka na-alaghachi ụlọ, ma ọ bụ snow na-ada.
+- **Tankị azụ ma ọ bụ vidiyo na-eji nwayọọ aga.** Mmegharị dị nwayọọ na-enweghị ụda dara ụda.
+- **Foto buru ibu.** Otu foto doro anya n’otu oge, jidere ya n’ogo anya.
+- **Agba na ụkpụrụ.** Ịhazi iberibe akwa nwere agba dị iche iche, okooko osisi ma ọ bụ akwa tebụl nwere agba, ma ọ bụ peeji agba dị mfe si na setị [coloring](/games/coloring/) anyị.
+- **N’èzí.** NHS na-atụ aro ubi metụtara mmetụta nke nwere ahịhịa na-esi isi, ụdị dị iche iche na mmiri. Lee [ihe omume n’èzí na n’ubi](/activities/outdoor-and-gardening/).
 
-## Otu esi eme igbe ahụ mmetụta
+## Otu esi eme igbe metụtara mmetụta
 
-1. **Họrọ isiokwu** jikọtara na ndụ onye ahụ: ọnụ oké osimiri, ubi, ụlọ nri, ụlọ ọrụ aka, ịkwa uwe.
-2. **Họrọ ihe ise ma ọ bụ isii buru ibu, dị nchebe,** dị ka nnukwu shel mmiri, ngaji osisi, akwa ntụ dị nro (scarf), obere akpa lavender akọrọ e sechiri, ma ọ bụ mpempe osisi dị nro.
-3. **Lelee ihe ọ bụla** maka obere akụkụ, akụkụ dị nkọ, eri na-ata ata na ihe ọ bụla nwere ike ịgbaji.
-4. **Wepụta otu ihe n'otu oge.** Nyefee ya, kọwaa ya, ka onye ahụ nyochaa ya.
-5. **Chekwaa igbe ahụ mgbe e mesịrị** ka ọ bụrụ ihe pụrụ iche ma e lelee ihe ndị ahụ ọzọ tupu oge ọzọ.
+1. **Họrọ isiokwu** metụtara ndụ onye ahụ: osimiri, ubi, ụlọ oriri, ebe ọrụ aka, ịdụ akwa.
+2. **Họrọ ihe ise ma ọ bụ isii buru ibu ma dị mma,** dị ka nnukwu shei osimiri, ngaji osisi, ichafu dị nro, obere akpa lavender akpọnwụwo a dunyere nke ọma, ma ọ bụ ngọngọ osisi dị larịị.
+3. **Lelee ihe ọ bụla** maka obere akụkụ, akụkụ dị nkọ, eriri rụrụ arụ na ihe ọ bụla nwere ike ịgbaji.
+4. **Wepụta otu ihe n’otu oge.** Nyefee ya, kọwaa ya, ma hapụ onye ahụ ka ọ nyochaa ya.
+5. **Debe igbe ahụ mgbe e mesịrị** ka ọ bụrụ ihe pụrụ iche ma lelee ihe ndị dị n’ime ya ọzọ tupu oge ọzọ.
 
 ## Nchekwa buru ụzọ
 
-Ọrụ ahụ mmetụta dị nwayọọ, mana ihe egwu ole na ole dị mkpa. Ụfọdụ ndị na-ebi ná dementia na-eche na ihe ndị na-abụghị nri bụ nri, ilo nri nwekwara ike ịsiwanye ike ka oge na-aga; NIA na-adọ aka ná ntị na nsogbu ilo n'oge ikpeazụ na-eme ka ihe egwu nke ilo ihe gbochiri ụzọ iku ume (choking) ka ukwuu.
+Ihe omume metụtara mmetụta dị nwayọọ, mana ihe ize ndụ ole na ole dị mkpa. Ụfọdụ ndị bi na nkwarụ ncheta nwere ike iche na ihe na-abụghị nri bụ nri, ilo nri nwekwara ike isi ike ka oge na-aga; NIA na-adọ aka ná ntị na nsogbu ilo nri n’ọkwa ikpeazụ na-eme ka ohere nke ịkpachi akpịrị dịkwuo elu.
 
-| Ihe egwu | Ihe ị ga-eme |
+| Ihe ize ndụ | Ihe ị ga-eme |
 | --- | --- |
-| Ihe gbochiri ụzọ iku ume (choking) | Jiri naanị ihe buru ibu nke a na-enweghị ike ilo. Enweghị bọtịn, beads, mkpụrụ ego, marble ma ọ bụ obere ihe egwuregwu na-agbasa n'ime igbe. Nye nri naanị n'ụdị otu ndị nlekọta na-ekwu na ọ dị nchebe. |
-| Ihe na-adị ka nri | NIA na-adụ ọdụ ịkpọchi mmanụ ahụ, ncha, shampoo na mmanụ isi, nke nwere ike ịdị ka nri ma ọ bụ na-esi ísì ka nri, na iwepụ mkpụrụ osisi e mere emere. Chekwaa ihe ahụ mmetụta mgbe e jiri ha gasịrị. |
-| Allergy | Lelee allergy maka mkpụrụ osisi, latex, ajị anụ, osisi ma ọ bụ isi tupu ịmalite. |
-| Isi siri ike | Zere mmanụ isi siri ike, karịsịa ma ọ bụrụ na e nwere ụkwara ume ma ọ bụ nsogbu iku ume ndị ọzọ. Isi dị nro, nke okike dị nchebe karị. |
-| Akpụkpọ ahụ | Lelee akpụkpọ ahụ nwere ọnya, nke gbawara ma ọ bụ nke adịghị ike tupu ịgbanye aka. Jiri nwayọọ pịa ma kwụsị ma ọ bụrụ na ihu ya gbagọrọ agbagọ. |
-| Okpomọkụ | Nwalee akwa nhicha na ihe ọṅụṅụ dị ọkụ n'aka gị buru ụzọ. |
-| Ihe dị nkọ ma ọ bụ na-egbu egbu | Ewepụla ngwa dị nkọ, iko ma ọ bụ ihe ọrụ aka na-egbu egbu. |
+| Ịkpachi akpịrị | Jiri naanị ihe buru ibu nke a na-apụghị ilo. Enweghị bọtịnụ, chaplet, mkpụrụ ego, marbul ma ọ bụ obere ihe egwuregwu tọgbọrọ n’ime igbe. Nye nri naanị n’ụdị ndị otu na-elekọta kwuru na ọ dị mma. |
+| Ihe yiri nri | NIA na-adụ ọdụ ka e kpọchie ude, ncha, shampoo na mmanụ isi, nke nwere ike iyi nri ma ọ bụ isi dị ka nri, ma wepụ mkpụrụ osisi adịgboroja. Debe ngwaahịa metụtara mmetụta mgbe e jiri ya mechaa. |
+| Nfụkasị ahụ | Lelee maka nfụkasị ahụ na mkpụrụ, latex, ajị anụ, ahịhịa ma ọ bụ ísì tupu ị malite. |
+| Ísì siri ike | Zere mmanụ isi siri ike na mmanụ esenshial, karịsịa ma ọ bụrụ na enwere ụkwara ume ọkụ ma ọ bụ nsogbu iku ume ndị ọzọ. Ísì dị nro, nke okike ka dị mma. |
+| Akpụkpọ ahụ | Lelee maka akpụkpọ ahụ nwere ọnya, gbawara agbawa ma ọ bụ nke na-esighị ike tupu ịhịa aka. Jiri nrụgide dị nro ma kwụsị ma ọ bụrụ na ha gosiri mgbu. |
+| Okpomọkụ | Buru ụzọ nwalee akwa nhicha na ihe ọṅụṅụ dị ọkụ n’akụkụ nkwoji aka gị. |
+| Ihe dị nkọ ma ọ bụ na-egbu egbu | Enweghị ngwá ọrụ dị nkọ, iko ma ọ bụ ihe nka na-egbu egbu. |
 
-## Aromatherapy ọ̀ na-enyere aka?
+## Aromatherapy ọ na-enyere aka?
 
-O yikarịrị ka mba, n'ụzọ ọ bụla enwere ike ịtụ ya. [Nyocha Cochrane banyere aromatherapy maka dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) lere nyocha 13 nke gụnyere mmadụ 708, ha niile n'ụlọ nlekọta, wee chọta na enweghị ihe ngosi na-eme mmadụ ntụkwasị obi nke uru. Nyocha ndị ahụ pere mpe, nsonaazụ adịghị otu, a kọọkwa mmetụta ndị ọzọ nke ọma. Ọ bụrụ na onye ahụ na-enwe obi ụtọ n'isi dị nro, a maara, dị ka lavender site n'ubi, nke ahụ bụ ezigbo ihe mere ị ga-eji kerịta ya. Ọ bụghị ọgwụgwọ.
+O yikarịrị ka ọ naghị enyere aka n’ụzọ a pụrụ ịtụle. [Nyocha Cochrane banyere aromatherapy maka nkwarụ ncheta](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) lere ọmụmụ 13 nwere mmadụ 708, ha niile nọ n’ụlọ nlekọta, ma achọpụtaghị ihe akaebe doro anya nke uru. Ọmụmụ ndị ahụ dị obere, nsonaazụ ha ekwekọghị, ma a kọwaghị mmetụta ọjọọ nke ọma. Ọ bụrụ na onye ahụ na-enwe mmasị n’ísì dị nro ma mara ya nke ọma, dị ka lavender si n’ubi, nke ahụ bụ ezigbo ihe kpatara ịkekọrịta ya. Ọ bụghị ọgwụgwọ.
 
-## Otu esi enye ọrụ ahụ mmetụta
+## Otu esi enye ihe omume metụtara mmetụta
 
-- **Họrọ oge dị jụụ** wee gbanyụọ TV.
-- **Bịaruo n'ihu ya,** kpọọ aha ya, jụọ ma ọ bụ gwa ya tupu imetụ ya aka: "Enwere m mmanụ ahụ. Ị ga-achọ ka m gbanye gị aka?"
-- **Nye otu ihe n'otu oge** ka ọ ghara ịdị ya ukwuu.
-- **Lee otu o si zaghachi.** Ihu dị nro, aka ndị zuru ike ma ọ bụ ọchị bụ ezigbo ihe ịrịba ama. Ịdọpụ onwe ya, ịtụgharị ihu ma ọ bụ enweghị izu ike pụtara na ị kwesịrị ịkwụsị.
-- **Mee ya mkpụmkpụ.** Nkeji ise dị jụụ bụ ezigbo oge.
+- **Họrọ oge dị jụụ** ma gbanyụọ TV.
+- **Bịa site n’ihu,** kpọọ aha ha, ma jụọ ma ọ bụ gwa ha tupu ị metụọ ha: „Enwere m ude. Ị ga-achọ ka m hịa aka gị?“
+- **Nye otu ihe n’otu oge** ka ọ ghara ibu ibu karịa.
+- **Lelee mmeghachi omume.** Ihu dị nro, aka zuru ike ma ọ bụ ọnụ ọchị bụ ihe ịrịba ama dị mma. Ịdọpụ onwe, ịkpọchi ihu ma ọ bụ enweghị udo pụtara ka ị kwụsị.
+- **Mee ya ka ọ dị mkpụmkpụ.** Nkeji ise dị jụụ bụ oge dị mma.
 
-Obere nkwụsị iku ume nwayọọ ọnụ, dị ka [iku ume nwayọọ](/games/calm-breathing/), nwere ike ịbụ ụzọ dị nro isi kwụsị. Maka echiche ndị ọzọ n'akụkụ àkwà, lee [ọrụ n'oge ikpeazụ](/activities/late-stage/), maka enweghị izu ike n'abalị lee [enweghị izu ike n'ịgbụ mgbede](/caregiving/late-day-restlessness/).
+Oge ezumike iku ume nwayọọ ọnụ, dị ka [calm breathing](/games/calm-breathing/), nwere ike ịbụ ụzọ dị nwayọọ isi mechie. Maka echiche ndị ọzọ n’akụkụ akwa, lee [ihe omume n’ọkwa ikpeazụ](/activities/late-stage/), nakwa maka enweghị udo n’oge mgbede, lee [enweghị udo n’oge mgbede](/caregiving/late-day-restlessness/).

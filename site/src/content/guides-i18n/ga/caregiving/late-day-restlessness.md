@@ -1,34 +1,36 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Corraíl tráthnóna: Gníomhaíochtaí ciúine déanacha"
+seoTitle: "Corraíl tráthnóna: Gníomhaíochtaí ciúine"
+description: "Gnáthaimh shimplí, athruithe sa seomra agus gníomhaíochtaí ciúine a d’fhéadfadh suaimhneas a thabhairt tráthnóna, agus cathain glaoch ar dhochtúir."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Is éard is corraíl tráthnóna ann ná míshuaimhneas, mearbhall nó greann a
+  thosaíonn nó a éiríonn níos measa sa tráthnóna déanach nó san oíche.
+  D’fhéadfadh sé cabhrú gnáthamh laethúil seasta a bheith agat, solas an lae
+  agus gníomhaíocht níos luaithe sa lá, níos lú codlata déanach, níos lú
+  caiféine, soilse geala laistigh roimh dhorcha, teach níos ciúine, agus
+  gníomhaíochtaí ciúine cosúil le ceol, grianghraif nó éadaí a fhilleadh. Má
+  thosaíonn comharthaí nua nó má éiríonn siad níos measa, ba cheart dochtúir a
+  fheiceáil.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Ciallaíonn corraíl tráthnóna míshuaimhneas nó mearbhall a thosaíonn nó a éiríonn níos measa agus solas an lae ag dul i léig."
+  - "Déan tascanna a éilíonn iarracht, turais agus folcadh ar maidin nó go luath sa tráthnóna."
+  - "D’fhéadfadh solas an lae, siúlóid laethúil, níos lú codlata déanach agus níos lú caiféine níos déanaí sa lá cabhrú le tráthnóna níos ciúine."
+  - "Cuir soilse ar siúl laistigh roimh dhorcha, laghdaigh torann, agus aistrigh chuig gníomhaíochtaí ciúine aitheanta."
+  - "Coinnigh nóta gairid chun spreagthóirí a aithint, agus fan socair agus dearbhaitheach nuair a thosaíonn an míshuaimhneas."
+  - "Téigh chuig dochtúir má thagann comharthaí nua nó má éiríonn siad níos measa: d’fhéadfadh ról a bheith ag pian, ionfhabhtú nó cógais."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Cén tráth den lá a tharlaíonn corraíl tráthnóna de ghnáth?"
+    a: "De ghnáth tosaíonn sé nó éiríonn sé níos measa sa tráthnóna déanach nó go luath san oíche, agus solas an lae ag dul i léig. Athraíonn an t-am cruinn ó dhuine go duine, agus is féidir le nóta gairid ar feadh seachtaine nó dhó cabhrú leis sin a thuiscint."
+  - q: "Cén cineál gníomhaíochtaí a chabhraíonn le corraíl tráthnóna?"
+    a: "Is minic a oibríonn gníomhaíochtaí ciúine, aitheanta, nach n-éilíonn mórán iarrachta is fearr sa tráthnóna déanach: ceol suaimhneach, breathnú ar ghrianghraif, clár teilifíse nó scannán is maith leo, éadaí a fhilleadh, siúlóid ghearr, nó sneaic le chéile. Fág gníomhaíochtaí nua nó dúshlánacha go dtí níos luaithe sa lá."
+  - q: "An féidir le corraíl tráthnóna a bheith bainteach le rud éigin leighis?"
+    a: "Is féidir le fadhbanna sláinte cur leis, mar shampla pian, ionfhabhtuithe ar nós ionfhabhtuithe sa chonair urinary, fadhbanna codlata nó fo-iarsmaí cógais. Má tá an míshuaimhneas nua, tobann nó ag dul in olcas, déan teagmháil le dochtúir an duine."
+  - q: "Ar cheart dom labhairt leis an dochtúir faoi chógas le haghaidh corraíl tráthnóna?"
+    a: "Is comhrá é sin le bheith agat leis an dochtúir. Deir an Alzheimer's Association gur fearr de ghnáth cur chuige gan chógais a thriail ar dtús, agus nár cheart smaoineamh ar chógas le haghaidh corraíl tráthnóna ach tar éis na rioscaí agus na buntáistí a mheas. Ní thugann an leathanach seo comhairle faoi chógais."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +49,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Tugann go leor teaghlach faoi deara an patrún céanna: bíonn maidineacha measartha socair, ach de réir mar a théann an tráthnóna ar aghaidh, éiríonn an duine atá ag maireachtáil le néaltrú míshuaimhneach, imníoch, mearbhlach nó greannach. D’fhéadfadh sé go siúlfaidh siad timpeall, go n-iarrfaidh siad “dul abhaile” fiú nuair atá siad sa bhaile, nó go n-éireoidh siad trína chéile go héasca. Tugtar corraíl tráthnóna air seo go minic.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Níl aon réiteach amháin ann, ach d’fhéadfadh athruithe ar rithim an lae, ar an seomra agus ar an gcineál gníomhaíochtaí a thairgeann tú tráthnónaí a dhéanamh níos ciúine. Bailíonn an leathanach seo smaointe praiticiúla, neamhleighis ón National Institute on Aging agus ón Alzheimer's Association. Ní comhairle leighis é seo. Má tá comharthaí nua, tobann nó ag dul in olcas, labhair le dochtúir an duine.
 
-## What is sundowning?
+## Cad is corraíl tráthnóna ann?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Is éard is corraíl tráthnóna ann ná míshuaimhneas, corraíl, greann nó mearbhall a thosaíonn nó a éiríonn níos measa agus solas an lae ag dul i léig, sa tráthnóna déanach nó go luath san oíche. Tugann an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) faoi deara gur féidir le bheith róthuirseach cur le míshuaimhneas níos déanaí sa lá.
 
-## What can make late-day restlessness worse?
+## Cad a d’fhéadfadh míshuaimhneas tráthnóna a dhéanamh níos measa?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+D’fhéadfadh roinnt rudaí cur leis, go minic le chéile. Liostaíonn an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) tosca mar:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- tuirse tar éis lá iomlán;
+- timpeallacht nua nó mearbhallach;
+- “clog inmheánach an choirp” as áit, rud a fhágann go mbíonn an duine codlatach i rith an lae agus ina dhúiseacht san oíche;
+- solas íseal agus scáthanna, a d’fhéadfadh a bheith mearbhallach;
+- strus nó frustrachas a bhraith ó na daoine timpeall orthu;
+- níos lú codlata a bheith ag teastáil, rud atá coitianta i measc daoine níos sine.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+Luann an NIA cúiseanna corraíola níos ginearálta freisin, lena n-áirítear pian, dúlagar nó strus, gan go leor scíthe, buinneach, an iomarca torainn nó an iomarca daoine, agus cógais áirithe nó idirghníomhaíochtaí idir cógais.
 
-## How can I plan the day to make evenings calmer?
+## Conas is féidir liom an lá a phleanáil chun tráthnónaí a dhéanamh níos ciúine?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Bog rudaí a éilíonn iarracht go dtí níos luaithe sa lá agus coinnigh an tráthnóna déanach ciúin agus intuartha. Molann an NIA agus an Alzheimer's Association araon gnáthamh rialta. Seo sampla de lá, le cur in oiriúint do do chás féin:
 
-| Time | What may help |
+| Am | Cad a d’fhéadfadh cabhrú |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Maidin | Coinní, folcadh, turais agus aon tasc a éilíonn iarracht, nuair a bhíonn go leor daoine is airdeallach |
+| Deireadh na maidine | Am amuigh faoin aer nó cois fuinneoige ghrianmhaire; siúlóid nó gníomhaíocht eile |
+| Meán lae | Lón níos mó (molann an Alzheimer's Association lón níos mó agus béile tráthnóna níos éadroime) |
+| Go luath sa tráthnóna | Scíth más gá, ach seachain codladh fada níos déanaí sa lá |
+| Lár an tráthnóna déanach | Gníomhaíochtaí ciúine, aitheanta; sneaic agus deoch; gan chaiféin |
+| Roimh dhorcha | Cuir soilse laistigh ar siúl agus dún na cuirtíní sula n-éiríonn sé dorcha |
+| Tráthnóna | Béile níos éadroime, ceol ciúin, níos lú spreagtha, gnáthamh seasta codlata |
 
-A few specific points from the sources:
+Roinnt pointí sonracha ó na foinsí:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Solas an lae.** Molann an NIA am a chur in áirithe amuigh faoin aer nó cois fuinneoige gach lá chun solas na gréine a fháil.
+- **Gluaiseacht laethúil, ach gan an iomarca.** Déan iarracht a bheith gníomhach go fisiciúil gach lá gan an iomarca gníomhaíochtaí a phleanáil, a deir an NIA.
+- **Deochanna níos déanaí sa lá.** Seachain alcól agus deochanna le caiféin, mar chaife nó cóla, níos déanaí sa lá (NIA). Luann an Alzheimer's Association nicitín freisin.
+- **Codladh gearr.** Ná spreag codladh fada ná suanóga déanacha sa lá (NIA). Molann an Alzheimer's Association codladh lae a theorannú má bhíonn fadhb ann le codladh san oíche.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Chun tuilleadh eolais a fháil faoi lá seasta a chruthú, féach [gníomhaíochtaí gnáthaimh laethúla](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Conas is féidir liom an teach a dhéanamh níos ciúine sa tráthnóna déanach?
 
-Reduce noise, add light and keep familiar things close.
+Laghdaigh torann, cuir solas leis, agus coinnigh rudaí aitheanta gar dóibh.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Soilsiú geal, cothrom.** Molann an Alzheimer's Association an teach a choinneáil soilsithe go maith tráthnóna. Las an spás sula bhfeictear scáthanna.
+- **Níos lú torainn.** Múch nó ísligh an teilifís agus an raidió, agus teorannaigh cuairteoirí nó jabanna gnóthacha tí ag an am seo. Molann an Alzheimer's Association spreagadh tráthnóna a laghdú, mar an teilifís, obair tí agus ceol ard.
+- **Compord aitheanta.** Molann an NIA ceol suaimhneach agus rudaí agus grianghraif a bhfuil grá acu dóibh a choinneáil timpeall an tí.
+- **Seiceálacha compoird.** Molann an Alzheimer's Association seiceáil le haghaidh pian, ocrais, tarta, buinnigh, lamhnán lán, tuirse, ionfhabhtuithe agus greannú craicinn, agus an seomra a choinneáil ag teocht compordach.
+- **Do ghiúmar féin.** Braitheann daoine strus. Molann an NIA moilliú síos agus iarracht a dhéanamh scíth a ligean má tá do bhuairt féin ag cur leis an teannas.
 
-## What calm activities can we do in the late afternoon?
+## Cén cineál gníomhaíochtaí ciúine is féidir linn a dhéanamh sa tráthnóna déanach?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Roghnaigh gníomhaíochtaí atá aitheanta, gan deifir agus éasca le stopadh. Molann an Alzheimer's Association gníomhaíochtaí suaimhneacha ar nós ceol ciúin, grianghraif nó scannán is fearr leo, agus siúlóid le chéile chun an míshuaimhneas a mhaolú. Molann an NIA sneaic nó deoch, clár teilifíse is fearr leo, ceol, siúlóid, léamh, nó obair shimplí tí cosúil le héadaí a fhilleadh.
 
-Ideas to try:
+Smaointe le triail:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Fill éadaí le chéile.** Molann an NIA an cineál seo oibre simplí tí. Tá tuáillí éasca le láimhseáil, agus tá deireadh soiléir leis an tasc.
+2. **Seinn ceol is maith leo.** Amhráin aitheanta óna n-óige, ar thoirt íseal. Is leor crónán a dhéanamh leo. Tuilleadh smaointe in [gníomhaíochtaí ceoil](/activities/music/).
+3. **Breathnaigh ar ghrianghraif.** Is féidir le halbam grianghraf, nó cúpla pictiúr teaghlaigh in [Photo Pairs](/games/photo-pairs/) agus na pictiúir fágtha le feiceáil, comhrá ciúin a spreagadh.
+4. **Téigh ar shiúlóid ghearr.** Timpeall an ghairdín, an bhloc nó halla, sula n-éiríonn sé dorcha.
+5. **Roinn sneaic agus deoch.** Rud simplí, te agus gan chaiféin, ag an mbord le chéile.
+6. **Meaitseáil shocair.** Tá [Picture Pairs](/games/picture-pairs/) le ceithre thíl agus pictiúir le feiceáil éasca le tosú agus éasca le stopadh.
+7. **Dathú.** [Coloring](/games/coloring/) ar an scáileán nó ar leathanach clóite, gan sprioc críochnaithe.
+8. **Breathnú agus comhrá.** Tugann [Conversation Cards](/games/conversation-cards/) pictiúr agus leid oscailte. Is leor breathnú air.
+9. **Sos análaithe.** Is sos mall, ciúin é [Calm Breathing](/games/calm-breathing/) a thosaíonn agus a stopann tú féin.
+10. **Tascanna láimhe.** Cnaipí nó stocaí a shórtáil, blaincéad bog a smúdáil, nó rud aitheanta a choinneáil. Féach [gníomhaíochtaí céadfacha](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Seachain cluichí nua, turais ghnóthacha agus aon rud a éilíonn go leor cuimhne nó comhchruinnithe níos déanaí sa lá. Fág iad sin don mhaidin.
 
-## What should I do when restlessness starts?
+## Cad ba cheart dom a dhéanamh nuair a thosaíonn an míshuaimhneas?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Fan socair, tabhair dearbhú dóibh, agus atreoraigh go réidh. Molann an NIA labhairt go socair, éisteacht le hábhair imní an duine, argóintí a sheachaint, a chur in iúl dóibh go bhfuil siad sábháilte, agus teagmháil shocair a úsáid má chabhraíonn sé. Ansin bain triail as rud éigin eile: sneaic, deoch, ceol nó siúlóid.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Molann an Alzheimer's Association frásaí mar “Tá tú sábháilte anseo” agus “Tá brón orm go bhfuil tú trína chéile,” agus molann sé níos mó solais a chur ar siúl, moilliú síos agus spreagadh a theorannú. Ná coinnigh an duine i gcúinne, ná brú timpeall orthu, ná bac orthu, ná bí ag argóint leo.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Má éiríonn an duine ionsaitheach, molann an NIA fanacht fad sábháilte uaidh go dtí go stopann an t-iompar. I gcás éigeandála, glaoigh ar 112 nó 999 agus mínigh go bhfuil néaltrú ar an duine.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Tá tuilleadh eolais faoi fhocail shuaimhneacha inár dtreoracha faoi [chumarsáid](/caregiving/communication-tips/) agus [cad atá le déanamh nuair a deir siad nach bhfuil](/caregiving/when-they-say-no/).
 
-## How do I find the triggers?
+## Conas a aimsím na spreagthóirí?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Coinnigh nóta gairid ar feadh seachtaine nó dhó. Molann an Alzheimer's Association a thaifeadadh cad a tharlaíonn roimh thréimhsí corraíola tráthnóna chun spreagthóirí a aithint. Tabhair faoi deara cén t-am ar thosaigh an míshuaimhneas, cad a tharla san uair roimhe sin, codladh gearr, béilí agus deochanna, cuairteoirí, torann agus solas. Tabhair an nóta leat chuig an dochtúir. Tugann an NIA faoi deara gur féidir le hathruithe iompraíochta a thaifeadadh cabhrú le cúramóirí agus le soláthraithe cúraim sláinte patrún a aithint.
 
-## When should I call a doctor about sundowning?
+## Cathain ar cheart dom glaoch ar dhochtúir faoi chorraíl tráthnóna?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Déan teagmháil le dochtúir an duine má tá an míshuaimhneas nua, má tá sé níos measa go tobann, nó má thagann athruithe eile leis. Deir an NIA gur cheart athruithe tobanna nó athruithe a thagann agus a imíonn go tapa san iompar, go háirithe tar éis ionfhabhtaithe nó athruithe ar chógais le déanaí, a chur in iúl do dhochtúir láithreach.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Iarr ar an dochtúir seiceáil le haghaidh rudaí a d’fhéadfadh tráthnónaí a dhéanamh níos deacra. Luann an Alzheimer's Association fadhbanna fisiciúla ar nós ionfhabhtuithe sa chonair urinary, neamhchoinneáil, siondróm na gcos míshuaimhneach agus apnea codlata, agus molann sé fiafraí cén t-am den lá is fearr do gach cógas. Liostaíonn an NIA pian, buinneach agus fo-iarsmaí nó idirghníomhaíochtaí cógais i measc cúiseanna féideartha corraíola.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Deir an Alzheimer's Association gur fearr de ghnáth cur chuige gan chógais le haghaidh fadhbanna codlata a bhfuil baint acu le Alzheimer’s, agus nár cheart smaoineamh ar chógas le haghaidh corraíola níos déanaí sa lá ach mura n-oibríonn na cur chuige sin, tar éis na rioscaí agus na buntáistí a mheas. Is leis an dochtúir atá an cinneadh sin. Ná tosaigh, ná stop, ná ná hathraigh aon chógas, cúnamh codlata ná forlíonadh gan comhairle leighis.
 
-## How do I get through the evenings myself?
+## Conas is féidir liom féin teacht tríd na tráthnónaí?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Is féidir gurb iad na tráthnónaí déanacha an chuid is deacra den lá do chúramóir. Más féidir, iarr ar bhall teaghlaigh, ar chara nó ar chúntóir íoctha cabhrú sa tráthnóna déanach cúpla lá sa tseachtain, fiú ar feadh uair an chloig. Liostaíonn ár dtreoir faoi [féinchúram cúramóirí](/caregiving/caregiver-self-care/) roghanna faoisimh agus Líne Chabhrach 24/7 saor in aisce an Alzheimer's Association.

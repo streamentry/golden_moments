@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "សញ្ញាដំបូងនៃជំងឺវង្វេង និងពេលគួរទៅជួបវេជ្ជបណ្ឌិត"
+seoTitle: "សញ្ញាដំបូងនៃជំងឺវង្វេង និងពេលគួរទៅជួបវេជ្ជបណ្ឌិត"
+description: "សញ្ញាដំបូងទូទៅនៃជំងឺវង្វេង ភាពខុសពីភាពចាស់ធម្មតា មូលហេតុផ្សេងៗដែលអាចព្យាបាលបាន និងរបៀបរៀបចំមុនពេលទៅជួបវេជ្ជបណ្ឌិត។"
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  ការបាត់បង់ការចងចាំដែលរំខានដល់ជីវិតប្រចាំថ្ងៃ ការមានបញ្ហាក្នុងការធ្វើកិច្ចការដែលធ្លាប់ស្គាល់
+  ភាន់ច្រឡំអំពីពេលវេលា ឬទីកន្លែង និងការផ្លាស់ប្តូរអារម្មណ៍ ឬការវិនិច្ឆ័យ អាចជាសញ្ញាដំបូងនៃជំងឺវង្វេង។
+  បញ្ហាសុខភាពផ្សេងៗជាច្រើន រួមមានបញ្ហាក្រពេញទីរ៉ូអ៊ីត កម្រិតវីតាមីន B12 ទាប ផលប៉ះពាល់ពីថ្នាំ
+  ជំងឺធ្លាក់ទឹកចិត្ត និងបញ្ហាការគេង ក៏អាចបង្កឱ្យមានការផ្លាស់ប្តូរស្រដៀងគ្នាដែរ។ មានតែគ្រូពេទ្យដែលមានសមត្ថភាពប៉ុណ្ណោះ
+  ដែលអាចធ្វើការធ្វើរោគវិនិច្ឆ័យបាន។ ភាពច្របូកច្របល់ដែលកើតឡើងភ្លាមៗត្រូវការការថែទាំជាបន្ទាន់។
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "ការភ្លេចម្តងម្កាលជារឿងធម្មតានៅពេលចាស់ឡើង ប៉ុន្តែការផ្លាស់ប្តូរដែលរំខានដល់ជីវិតប្រចាំថ្ងៃគួរតែត្រូវបានពិនិត្យ។"
+  - "Alzheimer's Association រៀបរាប់អំពីសញ្ញាព្រមានចំនួន 10 ដែលនីមួយៗមានការប្រៀបធៀបជាមួយការផ្លាស់ប្តូរធម្មតាតាមវ័យ។"
+  - "បញ្ហាក្រពេញទីរ៉ូអ៊ីត កម្រិតវីតាមីន B12 ទាប ផលប៉ះពាល់ពីថ្នាំ ជំងឺធ្លាក់ទឹកចិត្ត ការឆ្លងមេរោគ និងបញ្ហាការគេង សុទ្ធតែអាចប៉ះពាល់ដល់ការចងចាំ ហើយខ្លះអាចព្យាបាលបាន។"
+  - "មានតែគ្រូពេទ្យដែលមានសមត្ថភាពប៉ុណ្ណោះដែលអាចធ្វើរោគវិនិច្ឆ័យជំងឺវង្វេងបាន ការធ្វើតេស្តតាមអ៊ីនធឺណិត ឬតេស្តដោយខ្លួនឯងមិនអាចធ្វើបានទេ។"
+  - "ភាពច្របូកច្របល់ដែលកើតឡើងភ្លាមៗក្នុងរយៈពេលពីរបីម៉ោង ឬពីរបីថ្ងៃ អាចជាជំងឺ delirium ហើយត្រូវការការថែទាំវេជ្ជសាស្ត្រជាបន្ទាន់។"
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "តើការភ្លេចជារឿងធម្មតានៃភាពចាស់ទេ?"
+    a: "ខ្លះជារឿងធម្មតា។ National Institute on Aging បញ្ជាក់ថា ការភ្លេចរបស់របរម្តងម្កាល ឬភ្លេចបង់វិក្កយបត្រមួយ គឺជាធម្មតាជាការភ្លេចស្រាលដែលទាក់ទងនឹងវ័យ។ ជំងឺវង្វេងមិនមែនជាផ្នែកធម្មតានៃភាពចាស់ទេ។ បញ្ហាចងចាំដែលធ្វើឱ្យកិច្ចការប្រចាំថ្ងៃដូចជា ការបើកបរ ការប្រើទូរស័ព្ទ ឬការរកផ្លូវត្រឡប់ទៅផ្ទះពិបាក គួរតែទៅពិនិត្យជាមួយវេជ្ជបណ្ឌិត។"
+  - q: "តើបញ្ហាចងចាំអាចបង្កឡើងដោយមូលហេតុផ្សេងក្រៅពីជំងឺវង្វេងដែរឬទេ?"
+    a: "បាន។ National Institute on Aging រាប់បញ្ចូលបញ្ហាក្រពេញទីរ៉ូអ៊ីត តម្រងនោម ឬថ្លើម ផលប៉ះពាល់ពីថ្នាំ ជំងឺធ្លាក់ទឹកចិត្ត និងកង្វល់ កម្រិតវីតាមីន B12 ទាប ការប្រើប្រាស់គ្រឿងស្រវឹងខុសប្រមាណ បញ្ហាការគេង ការឆ្លងមេរោគ និងការរងរបួសក្បាល ជាដើម។ បញ្ហាមួយចំនួនក្នុងចំណោមនេះអាចប្រសើរឡើងបន្ទាប់ពីបានព្យាបាល ហើយនេះជាមូលហេតុមួយដែលការពិនិត្យវេជ្ជសាស្ត្រមានសារៈសំខាន់។"
+  - q: "តើខ្ញុំអាចធ្វើតេស្តរកជំងឺវង្វេងនៅផ្ទះបានទេ?"
+    a: "មិនបានទេ។ មានតែគ្រូពេទ្យដែលមានសមត្ថភាពប៉ុណ្ណោះដែលអាចធ្វើរោគវិនិច្ឆ័យជំងឺវង្វេង ដោយប្រើប្រវត្តិសុខភាព ការពិនិត្យរាងកាយ ការធ្វើតេស្តអំពីការចងចាំ និងការគិត ការធ្វើតេស្តមន្ទីរពិសោធន៍ និងជួនកាលការថតស្កេនខួរក្បាល។ សូម្បីតែតេស្តខ្លីៗដែលវេជ្ជបណ្ឌិតប្រើក៏មិនគ្រប់គ្រាន់ដើម្បីធ្វើរោគវិនិច្ឆ័យតែមួយមុខបានដែរ។"
+  - q: "តើខ្ញុំគួរធ្វើដូចម្តេច ប្រសិនបើនរណាម្នាក់ភ្លាមៗច្របូកច្របល់?"
+    a: "សូមស្វែងរកជំនួយវេជ្ជសាស្ត្រភ្លាមៗ។ ភាពច្របូកច្របល់ភ្លាមៗអាចជាជំងឺ delirium ដែល VA រៀបរាប់ថាជាគ្រាអាសន្នវេជ្ជសាស្ត្រ។ សូមទូរស័ព្ទទៅកាន់អ្នកផ្តល់សេវាថែទាំសុខភាពរបស់បុគ្គលនោះភ្លាមៗ ឬហៅទៅលេខសង្គ្រោះបន្ទាន់ 119 សូមនៅជាមួយពួកគាត់ ហើយកត់ចំណាំថ្នាំដែលពួកគាត់កំពុងប្រើ។"
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+ការកត់សម្គាល់ឃើញការផ្លាស់ប្តូរនៅក្នុងការចងចាំរបស់ខ្លួនឯង ឬរបស់មនុស្សដែលអ្នកស្រលាញ់ អាចធ្វើឱ្យព្រួយបារម្ភបាន។ ទំព័រនេះអាចជួយអ្នកសម្រេចចិត្តថាពេលណាគួរណាត់ជួបវេជ្ជបណ្ឌិត និងរបៀបរៀបចំសម្រាប់ការណាត់នោះ។ ទំព័រនេះមិនអាចប្រាប់អ្នកបានទេថានរណាម្នាក់មានជំងឺវង្វេងឬអត់។ **មានតែគ្រូពេទ្យដែលមានសមត្ថភាពប៉ុណ្ណោះដែលអាចធ្វើរោគវិនិច្ឆ័យជំងឺវង្វេងបាន** ហើយមានបញ្ហាជាច្រើនដែលបង្កឱ្យមានបញ្ហាចងចាំដែលមិនមែនជាជំងឺវង្វេងទាល់តែសោះ។ សូមកុំពឹងផ្អែកលើការធ្វើតេស្តតាមអ៊ីនធឺណិត ឬការធ្វើតេស្តដោយខ្លួនឯង។
 
-## What are the early signs of dementia?
+## តើសញ្ញាដំបូងនៃជំងឺវង្វេងមានអ្វីខ្លះ?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) រៀបរាប់អំពីសញ្ញាដំបូងចំនួន 10។ សញ្ញានីមួយៗត្រូវបានប្រៀបធៀបជាមួយការផ្លាស់ប្តូរធម្មតាតាមវ័យ។ សរុបជាពាក្យរបស់យើង៖
 
-| Sign worth checking | More typical with age |
+| សញ្ញាដែលគួរពិនិត្យ | ជារឿយៗធម្មតានៅពេលចាស់ឡើង |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| បាត់បង់ការចងចាំដែលរំខានដល់ជីវិតប្រចាំថ្ងៃ ដូចជាភ្លេចព្រឹត្តិការណ៍ថ្មីៗ ឬសួររឿងដដែលៗម្តងហើយម្តងទៀត | ជួនកាលភ្លេចឈ្មោះ ឬការណាត់ជួប ប៉ុន្តែចាំបានវិញនៅពេលក្រោយ |
+| មានបញ្ហាក្នុងការធ្វើផែនការ ឬដោះស្រាយបញ្ហា ដូចជាធ្វើតាមរូបមន្តម្ហូបដែលធ្លាប់ធ្វើ ឬតាមដានវិក្កយបត្រ | ធ្វើខុសម្តងម្កាលនៅពេលគិតលុយក្នុងផ្ទះ |
+| ពិបាកបញ្ចប់កិច្ចការដែលធ្លាប់ស្គាល់នៅផ្ទះ នៅកន្លែងធ្វើការ ឬនៅពេលនៅខាងក្រៅ | ជួនកាលត្រូវការជំនួយក្នុងការកំណត់មីក្រូវ៉េវ ឬថតកម្មវិធីទូរទស្សន៍ |
+| ភាន់ច្រឡំអំពីកាលបរិច្ឆេទ រដូវកាល ឬទីតាំងដែលខ្លួនស្ថិតនៅ | ច្រឡំថ្ងៃក្នុងសប្តាហ៍ ប៉ុន្តែអាចគិតបានវិញ |
+| មានបញ្ហាថ្មីក្នុងការវាយតម្លៃចម្ងាយ ការអាន ឬការបែងចែកពណ៌ | ការផ្លាស់ប្តូរចក្ខុវិស័យដោយសារជំងឺភ្នែកឡើងបាយ |
+| មានបញ្ហាថ្មីជាមួយពាក្យ ដូចជាឈប់និយាយកណ្តាលប្រយោគ ឬហៅវត្ថុខុសឈ្មោះ | ជួនកាលពិបាករកពាក្យត្រឹមត្រូវ |
+| ដាក់របស់របរនៅកន្លែងមិនធម្មតា ហើយមិនអាចតាមរកឃើញវិញបាន | ដាក់របស់របរខុសកន្លែងម្តងម្កាល ប៉ុន្តែអាចរកឃើញវិញដោយតាមដានជំហាន |
+| ការវិនិច្ឆ័យមិនល្អ ដូចជាការគ្រប់គ្រងលុយ ឬការថែរក្សាខ្លួនឯង | ធ្វើការសម្រេចចិត្តមិនល្អម្តងម្កាល |
+| ដកខ្លួនចេញពីចំណូលចិត្ត ការងារ ឬសកម្មភាពសង្គម | ជួនកាលមិនចង់ចូលរួមកម្មវិធីគ្រួសារ ឬសង្គម |
+| ការផ្លាស់ប្តូរអារម្មណ៍ ឬបុគ្គលិកលក្ខណៈ ដូចជាក្លាយជាមនុស្សច្របូកច្របល់ សង្ស័យ ភ័យខ្លាច ឬកង្វល់ | មានទម្លាប់ធ្វើរឿងតាមបែបចាស់ និងមានអារម្មណ៍មិនពេញចិត្តនៅពេលទម្លាប់ត្រូវបានរំខាន |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+សញ្ញាតែមួយមុខមិនមានន័យថាជាជំងឺវង្វេងទេ។ ចំណុចសំខាន់គឺ **ការផ្លាស់ប្តូរពីអ្វីដែលធម្មតាសម្រាប់បុគ្គលនោះ** ជាពិសេសនៅពេលវាធ្វើឱ្យជីវិតប្រចាំថ្ងៃកាន់តែពិបាក។
 
-## How is normal aging different from dementia?
+## តើភាពចាស់ធម្មតាខុសពីជំងឺវង្វេងយ៉ាងដូចម្តេច?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) បញ្ជាក់ថា មនុស្សវ័យចំណាស់ជាច្រើនកត់សម្គាល់ឃើញថា ពួកគាត់ចាំរឿងต่างៗបានយឺតជាងមុន ឬជួនកាលដាក់របស់របរខុសកន្លែង ឬភ្លេចបង់វិក្កយបត្រ។ ទាំងនេះជាធម្មតាជាសញ្ញានៃការភ្លេចស្រាល។ **ជំងឺវង្វេងមិនមែនជាផ្នែកធម្មតានៃភាពចាស់ទេ។** បញ្ហាចងចាំធ្ងន់ធ្ងរធ្វើឱ្យសកម្មភាពប្រចាំថ្ងៃពិបាក ដូចជាការបើកបរ ការប្រើទូរស័ព្ទ ឬការរកផ្លូវត្រឡប់ទៅផ្ទះ។
 
-The NIA suggests talking with a doctor if someone:
+NIA ណែនាំឱ្យនិយាយជាមួយវេជ្ជបណ្ឌិត ប្រសិនបើនរណាម្នាក់៖
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- សួរសំណួរដដែលៗម្តងហើយម្តងទៀត
+- វង្វេងផ្លូវនៅកន្លែងដែលពួកគាត់ធ្លាប់ស្គាល់ច្បាស់
+- មានបញ្ហាក្នុងការធ្វើតាមរូបមន្តម្ហូប ឬការណែនាំ
+- កាន់តែច្របូកច្របល់អំពីពេលវេលា មនុស្ស និងទីកន្លែង
+- ឈប់ថែរក្សាខ្លួនឯង ដូចជាបរិភោគអាហារមិនល្អ មិនងូតទឹក ឬមានអាកប្បកិរិយាដែលគ្រោះថ្នាក់
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+មនុស្សខ្លះមាន **ជំងឺពិការភាពប៉pravចិត្តស្រាល (MCI)**។ នេះមានន័យថា មានបញ្ហាចងចាំ ឬការគិតច្រើនជាងអ្នកដទៃដែលមានវ័យដូចគ្នា ប៉ុន្តែនៅតែអាចគ្រប់គ្រងជីវិតប្រចាំថ្ងៃបាន។ NIA បញ្ជាក់ថា MCI អាចជាសញ្ញាដំបូងនៃជំងឺអាល់ហ្សៃមើ ប៉ុន្តែមិនមែនអ្នកដែលមាន MCI ទាំងអស់នឹងកើតជំងឺនោះទេ។
 
-## What else can cause memory problems?
+## តើអ្វីផ្សេងទៀតអាចបង្កឱ្យមានបញ្ហាចងចាំ?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+មានរឿងជាច្រើនក្រៅពីជំងឺវង្វេងដែលអាចប៉ះពាល់ដល់ការចងចាំ ហើយខ្លះអាចប្រសើរឡើងបន្ទាប់ពីបានព្យាបាល។ NIA រាប់បញ្ចូល៖
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **បញ្ហាក្រពេញទីរ៉ូអ៊ីត តម្រងនោម ឬថ្លើម**
+- **ផលប៉ះពាល់ពីថ្នាំ**
+- **ជំងឺធ្លាក់ទឹកចិត្ត និងកង្វល់**
+- **កម្រិតវីតាមីន B12 ទាប** ឬការមិនបានបរិភោគអាហារដែលមានសុខភាពល្អគ្រប់គ្រាន់
+- **បញ្ហាការគេង**
+- **ការប្រើប្រាស់គ្រឿងស្រវឹង ឬថ្នាំខុសប្រមាណ**
+- **ការឆ្លងមេរោគ កំណកឈាម ឬដុំសាច់** នៅក្នុងខួរក្បាល
+- **ការរងរបួសក្បាល** ដូចជាការឆក់ក្បាល
+- **ភាពតានតឹង ឬការសោកសៅខ្លាំង** ដូចជាការចូលនិវត្តន៍ ឬការបាត់បង់គូស្នេហ៍
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+បញ្ហាការស្តាប់ និងការមើលឃើញក៏អាចត្រូវបានយល់ច្រឡំថាជាការច្របូកច្របល់ដែរ សូមមើល [មគ្គុទ្ទេសក៍អំពីការស្តាប់](/brain-health/hearing/) របស់យើង។ នេះជាមូលហេតុដែលការពិនិត្យវេជ្ជសាស្ត្រមានសារៈសំខាន់។ យោងតាម [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) វេជ្ជបណ្ឌិតជារឿយៗណែនាំឱ្យធ្វើតេស្តឈាមដើម្បីពិនិត្យមើលបញ្ហាក្រពេញទីរ៉ូអ៊ីត កង្វះវីតាមីន និងការឆ្លងមេរោគ។ [ការគេង](/brain-health/sleep/) ឱ្យបានល្អ និងការព្យាបាលជំងឺធ្លាក់ទឹកចិត្តក៏គួរត្រូវបានលើកឡើងផងដែរ។
 
-## Sudden confusion is an emergency
+## ភាពច្របូកច្របល់ភ្លាមៗជាគ្រាអាសន្ន
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**ភាពច្របូកច្របល់ដែលកើតឡើងយ៉ាងឆាប់រហ័ស ក្នុងរយៈពេលពីរបីម៉ោង ឬពីរបីថ្ងៃ ត្រូវការការថែទាំវេជ្ជសាស្ត្រជាបន្ទាន់។** វាអាចជាជំងឺ delirium។ [VA រៀបរាប់អំពី delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) ថាជាគ្រាអាសន្នវេជ្ជសាស្ត្រ និងណែនាំឱ្យទូរស័ព្ទទៅកាន់អ្នកផ្តល់សេវាថែទាំសុខភាពរបស់បុគ្គលនោះភ្លាមៗ ឬហៅទៅលេខសង្គ្រោះបន្ទាន់ 119។ សញ្ញារួមមាន៖
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- សមត្ថភាពក្នុងការគិតឱ្យច្បាស់ឡើងចុះមិនស្ថិតស្ថេរ
+- ពិបាកក្នុងការផ្តោតអារម្មណ៍
+- ការគិតមិនមានរបៀបរៀបរយ
+- មានអาการងងុយគេងខុសពីធម្មតា ឬមានអារម្មណ៍មិនស្ងប់ និងរំជើបរំជួលខុសពីធម្មតា
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+បញ្ហានេះអាចកើតឡើងចំពោះមនុស្សគ្រប់គ្នា រួមទាំងអ្នកដែលកំពុងរស់នៅជាមួយជំងឺវង្វេងផងដែរ។ យោងតាម [NHS](https://www.nhs.uk/symptoms/confusion/) មូលហេតុទូទៅរួមមាន ការឆ្លងមេរោគ (ការឆ្លងមេរោគផ្លូវទឹកនោមជារឿយៗកើតមានចំពោះមនុស្សវ័យចំណាស់ និងអ្នកដែលមានជំងឺវង្វេង) ជំងឺដាច់សរសៃឈាមខួរក្បាល កម្រិតជាតិស្ករក្នុងឈាមទាបចំពោះអ្នកមានជំងឺទឹកនោមផ្អែម ការរងរបួសក្បាល និងថ្នាំមួយចំនួន។ ខណៈពេលរង់ចាំជំនួយ សូមនៅជាមួយបុគ្គលនោះ និងផ្តល់ការលួងលោមដោយប្រើពាក្យខ្លីៗ និងសាមញ្ញ។ សូមកុំសួរសំណួរជាច្រើន ហើយកត់ចំណាំថ្នាំដែលពួកគាត់កំពុងប្រើ។
 
-## How do I prepare for the doctor's appointment?
+## តើខ្ញុំគួររៀបចំយ៉ាងដូចម្តេចសម្រាប់ការណាត់ជួបវេជ្ជបណ្ឌិត?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+ការណាត់ជួបល្អចាប់ផ្តើមពីកំណត់ត្រាល្អ។ [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) ណែនាំឱ្យយកមកជាមួយ៖
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **បញ្ជីនៃការផ្លាស់ប្តូរ** ទាក់ទងនឹងការចងចាំ អារម្មណ៍ និងអាកប្បកិរិយា ដោយមានឧទាហរណ៍ច្បាស់លាស់ និងពេលវេលាប្រហែលដែលវាចាប់ផ្តើម
+2. **បញ្ហាសុខភាពពីមុន និងបច្ចុប្បន្ន** រួមទាំងប្រវត្តិគ្រួសារទាក់ទងនឹងបញ្ហាចងចាំ ប្រសិនបើមាន
+3. **ថ្នាំទាំងអស់ដែលវេជ្ជបណ្ឌិតចេញវេជ្ជបញ្ជា និងថ្នាំដែលទិញដោយខ្លួនឯង**
+4. **វីតាមីន ឬអាហារបំប៉នណាមួយ** ដែលកំពុងប្រើ
+5. **សំណួររបស់អ្នក** ដូចជាតើនឹងធ្វើតេស្តអ្វីខ្លះ តើវាចំណាយពេលប៉ុន្មាន និងពេលណានឹងទទួលបានលទ្ធផល
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+ការយកសមាជិកគ្រួសារ ឬមិត្តភក្តិដែលស្គាល់បុគ្គលនោះបានល្អមកជាមួយក៏មានប្រយោជន៍ផងដែរ។ [NIA ពន្យល់](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) ថា វេជ្ជបណ្ឌិតអាចសួរទាំងបុគ្គលនោះ និងសមាជិកគ្រួសារ អំពីសុខភាព ថ្នាំ សកម្មភាពប្រចាំថ្ងៃ និងការផ្លាស់ប្តូរនៃអាកប្បកិរិយា។ វេជ្ជបណ្ឌិតក៏អាច៖
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- ធ្វើតេស្តអំពីការចងចាំ ការដោះស្រាយបញ្ហា ការផ្តោតអារម្មណ៍ ការរាប់ និងភាសា
+- ណែនាំឱ្យធ្វើតេស្តឈាម ទឹកនោម និងតេស្តផ្សេងទៀតដើម្បីរកមូលហេតុផ្សេងៗ
+- ពិនិត្យរកជំងឺធ្លាក់ទឹកចិត្ត ឬបញ្ហាសុខភាពផ្លូវចិត្តផ្សេងទៀត
+- ណែនាំឱ្យថតស្កេនខួរក្បាលដូចជា CT ឬ MRI
+- បញ្ជូនទៅជួបអ្នកឯកទេស ដូចជា វេជ្ជបណ្ឌិតឯកទេសថែទាំមនុស្សចាស់ វេជ្ជបណ្ឌិតសរសៃប្រសាទ វេជ្ជបណ្ឌិតចិត្តសាស្ត្រមនុស្សចាស់ ឬអ្នកជំនាញចិត្តវិទ្យាសរសៃប្រសាទ
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA កត់សម្គាល់ថា ការវាយតម្លៃសមត្ថភាពប៉pravចិត្តជាផ្នែកចាំបាច់នៃការពិនិត្យសុខភាពប្រចាំឆ្នាំ Medicare ដែលអាចជាពេលវេលាសមស្របមួយដើម្បីលើកឡើងការព្រួយបារម្ភ។ សូម្បីតែតេស្តខ្លីៗដែលវេជ្ជបណ្ឌិតប្រើក៏មិនគ្រប់គ្រាន់ដើម្បីធ្វើរោគវិនិច្ឆ័យតែមួយមុខបានដែរ។ វាជាជំហានដំបូងឆ្ពោះទៅរកការវាយតម្លៃពេញលេញ ហើយការធ្វើរោគវិនិច្ឆ័យអាចត្រូវការច្រើនជាងមួយដងនៃការណាត់ជួប។ NIA ណែនាំថា អ្នកដែលមានបញ្ហាចងចាំគួរត្រឡប់ទៅជួបវេជ្ជបណ្ឌិតវិញរៀងរាល់ 6 ទៅ 12 ខែម្តង។
 
-## Raising the subject kindly
+## របៀបលើកឡើងប្រធានបទដោយការយកចិត្តទុកដាក់
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+ប្រសិនបើអ្នកព្រួយបារម្ភអំពីអ្នកដទៃ សូមជ្រើសរើសពេលវេលាស្ងប់ស្ងាត់ និងឯកជន។ និយាយអំពីរឿងជាក់លាក់ដែលអ្នកបានកត់សម្គាល់ឃើញ ដោយបង្ហាញពីការយកចិត្តទុកដាក់ចំពោះសុខភាពរបស់ពួកគាត់ ជាជាងការរិះគន់។ ការណែនាំឱ្យទៅពិនិត្យសុខភាពទូទៅអាចធ្វើឱ្យពួកគាត់មានអារម្មណ៍ស្រួលជាង។ សូមឱ្យបុគ្គលនោះចូលរួមក្នុងការសម្រេចចិត្ត និងនិយាយជាមួយពួកគាត់ក្នុងនាមជាមនុស្សពេញវ័យ។ [គន្លឹះក្នុងការទំនាក់ទំនង](/caregiving/communication-tips/) របស់យើងអាចជួយបាន។
 
-## Talk with a doctor
+## សូមនិយាយជាមួយវេជ្ជបណ្ឌិត
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+ប្រសិនបើអ្នកកត់សម្គាល់ឃើញការផ្លាស់ប្តូរនៅក្នុងការចងចាំ ការគិត អារម្មណ៍ ឬសមត្ថភាពក្នុងជីវិតប្រចាំថ្ងៃដែលថ្មី និងកើតឡើងជាបន្តបន្ទាប់ សូមណាត់ជួបជាមួយវេជ្ជបណ្ឌិតថែទាំបឋម។ ចំពោះភាពច្របូកច្របល់ភ្លាមៗ សូមហៅទៅលេខសង្គ្រោះបន្ទាន់ 119 ឬទូរស័ព្ទទៅអ្នកផ្តល់សេវាថែទាំសុខភាពរបស់បុគ្គលនោះភ្លាមៗ។ ការពិនិត្យមុនអាចជួយឱ្យរកឃើញមូលហេតុដែលអាចព្យាបាលបាន ហើយប្រសិនបើវាជាជំងឺវង្វេង ក៏មានពេលវេលាច្រើនជាងក្នុងការរៀបចំផែនការ និងស្វែងរកការគាំទ្រ។ សូមថែរក្សាខ្លួនឯងផងដែរ សូមមើល [មគ្គុទ្ទេសក៍អំពីការថែរក្សាខ្លួនឯងសម្រាប់អ្នកថែទាំ](/caregiving/caregiver-self-care/) របស់យើង។
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ទំព័រនេះជាព័ត៌មានទូទៅ មិនមែនជាដំបូន្មានវេជ្ជសាស្ត្រទេ។ សូមមើល [ការបដិសេធផ្នែកវេជ្ជសាស្ត្រ](/medical-disclaimer/) របស់យើង។

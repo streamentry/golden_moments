@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Spurningakeppni án pressu fyrir eldri með heilabilun"
+seoTitle: "Spurningar fyrir eldri með heilabilun, með svörum"
+description: "50 auðveldar spurningar fyrir eldri með heilabilun, með svarmöguleikum og umræðuefni, auk ráða um hvernig hægt er að halda keppnina án pressu."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Auðveld spurningakeppni fyrir eldri með heilabilun gengur best þegar hún
+  líkir meira samtali en prófi. Spyrjið um hluti sem hafa verið kunnuglegir
+  lengi, eins og gömul lög, málshætti, hátíðir og daglegt líf, og bjóðið alltaf
+  upp á tvo eða þrjá valkosti. Segið svarið hlýlega, komið aldrei einum
+  einstaklingi í vandræði, sleppið stigagjöf og notið hvert svar til að hefja
+  sögu. „Þetta eða hitt“ spurningar án réttra svara henta vel á síðari stigum.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Spyrjið um kunnuglega hluti: lög, málshætti, hátíðir, mat og daglegt líf frá fyrri tíð."
+  - "Bjóðið upp á tvo eða þrjá valkosti svo auðveldara sé að þekkja svarið en að muna það."
+  - "Segið svarið hlýlega og haldið áfram. Sérhver ágiskun sem leiðir af sér sögu er góð ágiskun."
+  - "Engin stig, engin keppni milli liða, enginn kallaður sérstaklega á. Leyfið svörum að koma frá öllum."
+  - "Þegar erfitt verður að velja á milli svara, skiptið yfir í „þetta eða hitt“ spurningar án réttra svara."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Er spurningakeppni góð virkni fyrir fólk sem lifir með heilabilun?"
+    a: "Það getur verið, ef farið er varlega með hana. Alzheimer's Foundation of America nefnir spurningakeppni meðal virkni á fyrstu stigum. Hafið spurningar um kunnugleg efni, bjóðið upp á valkosti, komið aldrei einum einstaklingi í vandræði og notið svörin sem leið inn í samtal frekar en sem próf."
+  - q: "Hvaða viðfangsefni henta best í spurningakeppni fyrir fólk með heilabilun?"
+    a: "Hlutir sem lærðir voru fyrir löngu virðast oft henta best: vinsæl lög og söngvarar frá æsku viðkomandi, kunnuglegir málshættir, hátíðir, matur, íþróttir og daglegt líf eins og mjólkurbílar og snúningssímar. Forðist fréttir frá nýlegum tíma og allt sem krefst þess að muna eitthvað frá fyrr í setunni."
+  - q: "Hvernig get ég haldið spurningakeppni á hjúkrunarheimili án þess að valda neinum vandræðum?"
+    a: "Lesið hverja spurningu fyrir allan hópinn, sýnið eða segið valkostina og fagnað öllum svörum. Ekki kallið á einstaka einstaklinga og haldið ekki stig. Segið svarið brosandi, sama hvað var giskað á, og spyrjið svo framhaldsspurningar eins og „Hver hérna hefur farið á bílakvikmyndahús?“ til að breyta þessu í sögur."
+  - q: "Hvað get ég gert í stað spurningakeppni á síðari stigum?"
+    a: "Skiptið yfir í spurningar án réttra svara, eins og „Kaffi eða te?“ eða „Strönd eða fjöll?“, og í að klára kunnuglega málshætti eða lög saman. Það getur líka gengið vel að skoða myndir saman og lýsa þeim."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Spurningakeppni er ein vinsælasta hópvirknin á hjúkrunarheimilum og í dagþjónustu, og margar fjölskyldur spila hana líka við eldhúsborðið. Þegar hún er haldin á hefðbundinn hátt, með stigum og einum aðila sem svarar, getur hún látið fólki sem lifir með heilabilun líða illa. Þegar hún er haldin gætilega getur hún verið lifandi leið til að heyra sögur. Hér að neðan eru 50 auðveldar spurningar með svarmöguleikum og umræðuefni fyrir hverja þeirra, og síðan leiðbeiningar um hvernig best er að halda svona setu.
 
-## How do you make trivia work for someone with dementia?
+## Hvernig er hægt að láta spurningakeppni ganga vel fyrir einhvern með heilabilun?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Leggið áherslu á að þekkja og rifja upp hluti frá löngu síðan, og látið öll svör vera vel þegin.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Spyrjið um fjarlæga fortíð.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) segir að algengasta fyrsta einkenni Alzheimer-sjúkdóms sé erfiðleiki við að muna nýjar upplýsingar. Lög, málshættir og daglegt líf frá fyrir áratugum eru oft auðveldari viðfangsefni.
+2. **Bjóðið alltaf upp á valkosti.** Auðveldara er að velja rétta svarið úr tveimur eða þremur en að finna það upp úr þurru.
+3. **Lesið spurningar upphátt og sýnið þær stórar.** Töfluspjald eða spjaldtölva sem haldið er upp hjálpar fólki sem heyrir illa.
+4. **Segið svarið hiklaust.** Ef enginn veit svarið, segið það hlýlega og haldið áfram. Segið aldrei: „Æjæj, þú veist þetta.“
+5. **Engin stig.** Hvorki fyrir einstaklinga né borð. Ef fólk vill fá tölu, haldið einn sameiginlegan hópstigafjölda.
+6. **Kallið aldrei á einn einstakling.** Leyfið svörum að koma frá hverjum sem er. Þegar þið eruð tvö saman, svarið saman: „Ég held að þetta sé píanóið. Hvað finnst þér?“
+7. **Notið umræðuefnið.** Svarið er upphafið, ekki endirinn. Sögurnar eru raunverulega markmiðið.
+8. **Haldið þessu stuttu.** Tíu spurningar með sögum á milli duga vel.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) setur grundvallarregluna fram á einfaldan hátt: fylgist með hvort viðkomandi verði svekktur og tryggið að honum líði eins og hann nái árangri. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nefnir spurningakeppni meðal virkni á fyrstu stigum. Á miðstigum er best að halda sig við tvo valkosti og styðjast við umræðuefnin. Seinna er hægt að skipta yfir í „þetta eða hitt“ spurningarnar hér að neðan.
 
-## Music and entertainment trivia
+## Spurningar um tónlist og afþreyingu
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Svarið er í **feitletruðu**. Aðlagið spurningarnar að viðkomandi: sá sem ólst upp við Motown-tónlist vill kannski heyra af öðrum söngvurum en sá sem ólst upp við stórhljómsveitir.
 
-| Question | Choices | Talk about |
+| Spurning | Valkostir | Umræðuefni |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Hver var kallaður konungur rokk og róls? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Sástu Elvis einhvern tíma í sjónvarpinu? |
+| Hvaða söngvari var kallaður Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Hvaða lag eftir Sinatra finnst þér best? |
+| Bing Crosby dreymdi um hvíta... | **jólin**, brúðkaup, hús | Syngið línu saman |
+| Louis Armstrong söng „What a Wonderful...“ | Day, **World**, Life | Hvað finnst þér gera heiminn yndislegan? |
+| „Over the Rainbow“ var sungið af Judy Garland í hvaða kvikmynd? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Hvar sástu uppáhaldskvikmyndirnar þínar? |
+| Hver lék Lucy í „I Love Lucy“? | **Lucille Ball**, Doris Day, Betty White | Hvaða þætti horfði fjölskyldan þín saman á? |
+| Hvaða kúrekamaður reið hestinum Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Lékt þú þér kúreka sem barn? |
+| Hver stýrði „The Tonight Show“ í 30 ár? | Ed Sullivan, **Johnny Carson**, Bob Hope | Fórstu seint að sofa til að horfa á sjónvarp? |
+| Hvaða hljóðfæri hefur 88 lykla? | Gítar, **píanó**, trompet | Spilaði einhver í fjölskyldunni þinni á hljóðfæri? |
+| Hvaða dans er talinn einn-tveir-þrír, einn-tveir-þrír? | **Vals**, tvist, tangó | Hvert fórstu að dansa? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Fyrir meira um tónlist, sjá [tónlistartengda virkni fyrir fólk með heilabilun](/activities/music/).
 
-## Everyday life trivia
+## Spurningar um daglegt líf
 
-| Question | Choices | Talk about |
+| Spurning | Valkostir | Umræðuefni |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Áður en ísskápar komu til sögunnar geymdu mörg heimili matinn kaldan í... | **Ískassa**, ofni, háalofti | Hver kom með ísinn? |
+| Hver kom með mjólk í glerflöskum að dyrum? | Pósturinn, **mjólkurstrákurinn**, blaðadrengurinn | Hvað annað var komið með heim? |
+| Hvernig sneri maður númeri í snúningssíma? | Með því að ýta á takka, **með því að snúa skífu**, með því að tala við hann | Segðu mér frá símanum heima hjá þér |
+| Hvaða fyrirtæki framleiddi bílinn Model T? | **Ford**, Chevrolet, Buick | Segðu mér frá bíl sem þér þótti vænt um |
+| Hvar myndir þú finna sósubartender (soda jerk)? | **Í sósubar**, í bakaríi, í banka | Hvað pantaðir þú við borðið? |
+| Hvaða leikfang er málmgormur sem getur gengið niður stiga? | Jójó, **Slinky**, hringtittur | Hvaða leikföng voru í uppáhaldi hjá þér? |
+| Bílakvikmyndahús var staður þar sem fólk horfði á... | **Kvikmyndir úr bílnum sínum**, boltaleiki, skrúðgöngur | Með hverjum fórstu? |
+| Hver er á eins dollara seðlinum? | Lincoln, **George Washington**, Jefferson | Hvað fékk maður fyrir einn dollara þá? |
+| Hver er á pennanum (penny)? | **Abraham Lincoln**, Washington, Franklin | Sparaðir þú peningum í krukku þá? |
+| Á hvaða lit er skólarúta venjulega? | Rauð, **gul**, blá | Hvernig fórstu í skólann? |
 
-## Holidays, nature and places
+## Hátíðir, náttúra og staðir
 
-| Question | Choices | Talk about |
+| Spurning | Valkostir | Umræðuefni |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Hvaða hátíðardagur er á fjórða fimmtudegi í nóvember? | Verkalýðsdagurinn, **Þakkargjörðarhátíðin**, Memorial Day | Hvað var alltaf á borðinu hjá ykkur? |
+| Hrekkjavökugrasker eru gerð fyrir hvaða hátíð? | **Hrekkjavöku**, páska, jólin | Segðu mér frá hrekkjavöku þar sem þú ólst upp |
+| Fjórði júlí fagnar sjálfstæðisyfirlýsingunni... | um réttindi, **um sjálfstæði**, um frelsi | Hvar horfðir þú á flugeldana? |
+| Í hvaða mánuði er mæðradagurinn? | Apríl, **maí**, júní | Hvernig fagnaði fjölskyldan þín? |
+| Hversu margar stjörnur eru á bandaríska fánanum? | 48, **50**, 52 | Fáninn hafði 48 stjörnur til ársins 1959. Hvort svarið sem er getur vakið góðar minningar |
+| Hvaða úthaf er við austurströndina? | Kyrrahafið, **Atlantshafið**, Norður-Íshafið | Hefurðu einhvern tíma farið á ströndina? |
+| Í hvaða borg er Frelsisstyttan? | Boston, **New York**, Philadelphia | Hefurðu komið til New York? |
+| Hvað búa býflugur til? | Mjólk, **hunang**, silki | Hunang á ristuðu brauði eða í tei? |
+| Kálfur er ungi... | folalds, **kýr**, geitar | Bjóstu einhvern tíma nálægt bæ? |
+| Hvaða háa gula blóm er þekkt fyrir að snúa sér að sólinni? | Rós, **sólblóm**, túlípaní | Hvað óx í garðinum þínum? |
+| Hversu margir dagar eru á hlaupári? | 365, **366**, 360 | Segðu mér frá afmæli sem þú manst eftir |
+| Hvaða árstíð kemur á eftir vetri? | Haust, **vor**, sumar | Hvaða árstíð finnst þér best? |
 
-## Food and sports trivia
+## Spurningar um mat og íþróttir
 
-| Question | Choices | Talk about |
+| Spurning | Valkostir | Umræðuefni |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Rúsínur eru þurrkaðar... | plómur, **vínber**, kirsuber | Settir þú rúsínur í nestið? |
+| Sveskjur eru þurrkaðar... | **plómur**, fíkjur, epli | Hver í fjölskyldunni þinni var hrifinn af sveskjum? |
+| Hnetusmjör og... | **sulta**, ostur, skinka | Stökk eða mjúk? |
+| Gvakamóli er aðallega gert úr... | ertum, **avókadó**, gúrkum | Hvaða sósur voru bornar fram í boðum? |
+| Hvaða baka er eftirlætisréttur á Þakkargjörðarhátíðinni? | **Graskersbaka**, sítrónubaka, kirsuberjabaka | Hvaða böku gerðir þú? |
+| Hversu margir leikmenn í hafnaboltaliði eru á vellinum? | 7, **9**, 11 | Hvaða liði hélstu með? |
+| Hversu mörg högg (strikes) þurfa til að leikmaður sé útleikinn í hafnarbolta? | Tvö, **þrjú**, fjögur | Spilaðir þú einhvern tíma bolta? |
+| Babe Ruth var frægur fyrir hvaða íþrótt? | Hnefaleika, **hafnarbolta**, golf | Fórstu á boltaleiki? |
+| Hversu margar holur eru á venjulegum golfvelli? | 9, **18**, 24 | Hefurðu einhvern tíma spilað golf eða púttgolf? |
+| Í hvaða íþrótt er skorað mark með „touchdown“? | **Amerískum fótbolta**, íshokkí, körfubolta | Hver horfði á fótbolta heima hjá ykkur? |
 
-## Familiar sayings
+## Kunnuglegir málshættir
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Að klára málshátt byggir á tungumáli sem lærðist fyrir löngu og kemur oft auðveldlega. Leikurinn okkar [Ljúktu við málsháttinn](/games/finish-the-saying/) býður upp á marga fleiri, með möguleika á að ýta til að sjá endinguna.
 
-| Saying | Choices | Talk about |
+| Málsháttur | Valkostir | Umræðuefni |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Betra er seint en... | snemma, **aldrei**, leiðinlegt | Hver var alltaf seinn? |
+| Góð byrjun er... | auðveld, **hálfnað verk**, lokaverkefnið | Hvað finnst þér gott að byrja á? |
+| Blindur er... | steinn, **bóklaus maður**, fugl | Hver hvatti þig til að lesa? |
+| Enginn verður óbarinn... | ríðandi, **biskup**, fljótur | Hvaða draumur fylgdi þér lengi? |
+| Sjaldan er ein... | gleði, **báran stök**, nótt | Hver hefur stutt þig þegar illa gekk? |
+| Það er ekki gull allt... | sem skartar, **sem glóir**, sem lýsir | Hefurðu einhvern tíma orðið á óvart? |
+| Í felum... | fer vel, **er best að vera**, gleymist allt | Hvar fannst þér best að vera sem barn? |
+| Árinni kennir... | tíðin, **illur ræðari**, lærdómurinn | Hver kenndi þér eitthvað mikilvægt? |
 
-## This-or-that questions with no wrong answer
+## „Þetta eða hitt“ spurningar án réttra svara
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Þessar spurningar henta á öllum stigum, einnig seinna meir, því ekkert er rétt eða rangt. Spyrjið, hlustið og deilið líka eigin svari.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kaffi eða te?
+- Strönd eða fjöll?
+- Hundar eða kettir?
+- Sumar eða vetur?
+- Baka eða kaka?
+- Dansa eða horfa?
+- Sólarupprás eða sólsetur?
+- Verönd að framan eða garður að aftan?
+- Útvarp eða plötur?
+- Pönnukökur eða egg?
+- Rósir eða fíflar?
+- Lestarferð eða bílferð?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Fyrir umræðuefni sem tengjast myndum, prófið prentanlegu [Spjöldin okkar til að byrja samtal](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Hvernig er hægt að halda spurningakeppni á hjúkrunarheimili eða í hópi?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Setjið fólk þannig að það sjái og heyri.** Heyrnartæki í lagi, gleraugu á og slökkt á sjónvarpinu.
+2. **Kynnið þetta sem spjall.** „Ég er með nokkrar spurningar um gamla daga og ég veit að þið vitið meira en ég.“
+3. **Lesið hverja spurningu tvisvar og sýnið valkostina stóra.**
+4. **Fagnað svörum hvaðan sem þau koma í herberginu.** Endurtakið góð svör svo allir heyri.
+5. **Segið svarið fyrir alla** og spyrjið svo umræðuefnisins fyrir allan hópinn.
+6. **Fylgið stemningunni.** Ef ein spurning leiðir af sér tíu mínútna sögur, leyfið því að gerast.
+7. **Endið á lagi eða „þetta eða hitt“ umferð** svo allir ljúki á einhverju auðveldu.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Fyrir aðrar gerðir hópvirkni, þar á meðal myndabingó og sameiginlegan söng, sjá [hópvirkni fyrir hjúkrunarheimili](/activities/care-home-groups/).
 
-## When to change the plan
+## Hvenær á að breyta planinu
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Ef einhver virðist áhyggjufullur, verður þögull eða segir „ég veit það ekki“ oftar en einu sinni, gerið það auðveldara: dragið úr í tvo valkosti, svarið saman eða skiptið yfir í „þetta eða hitt“ spurningar. Ef hópurinn vill frekar tala um eina spurningu allan síðdegið er það vel heppnað. Markmiðið voru aldrei rétt svör. Markmiðið var að eyða tíma í góðu yfirlæti.

@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Bakardadea, isolamendua eta dementzia arriskua"
+seoTitle: "Bakardadea, isolamendua eta dementzia arriskua"
+description: "Bakardadea eta isolamendu soziala dementzia arriskuarekin nola lotzen diren, Zirujau Nagusiaren txostena eta elkarrekin harremanetan egoteko modu errazak."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Ikerketek lotura ikusi dute adinean bakardadearen eta isolamendu sozialaren eta dementzia izateko arrisku handiagoaren artean.
+  2024ko Lancet Batzordeak kalkulatzen du isolamenduak kasuen % 5 inguru azaltzen dituela, nahiz eta
+  loturaren zati bat hasierako dementziak eragindako erretiratzea izan daitekeen. Harremanetan jarraitzeak, zaletasunak partekatzeak eta
+  entzumenean laguntzeak harremanak babesten dituzte. Dementzia duten pertsonentzat, jarduera partekatuek
+  gozamenari eta bizi-kalitateari laguntzen diete.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet Batzordeak adineko isolamendu soziala aipatzen du dementziaren 14 arrisku-faktore aldagarrietako bat dela, kasuen % 5 inguru."
+  - "AEBetako Zirujau Nagusiaren 2023ko txostenak adineko helduen artean bakardade eta isolamendu kronikoak dementzia izateko arriskua % 50 inguru handitzearekin lotu zituen."
+  - "Ebidentzia honen zatirik handiena behaketazkoa da, eta hasierako dementziak berak pertsonak bestengandik urruntzea eragin dezake."
+  - "Entzumen- eta ikusmen-arazoek, bakarrik bizitzeak eta zaintzaile izateak isolamendurako arriskua handitzen dute."
+  - "Dementzia duten pertsonentzat, gozatzeko moduko jarduera partekatuek bizi-kalitatea babesten dute; helburua harremana da, ez errendimendua."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Bakardadeak dementzia eragiten al du?"
+    a: "Hori ez da frogatu. Ikerketa askok lotura ikusi dute bakardadearen eta isolamenduaren eta dementzia izateko arrisku handiagoaren artean, baina garuneko hasierako aldaketek ere pertsonak besteengandik urruntzea eragin dezakete. Harremanetan egoteak beste onura asko ditu aldartearentzat eta osasunarentzat; beraz, edonola ere merezi du babestea."
+  - q: "Zein da bakardadearen eta isolamendu sozialaren arteko aldea?"
+    a: "Isolamendu sozialak esan nahi du ohiko harremana izateko pertsona gutxi izatea. Bakardadea bakarrik edo besteengandik urrun egotearen sentipen mingarria da. Bakarrik bizi zaitezke bakardadea sentitu gabe, edo bakardadea senti dezakezu jendez inguratuta egonda ere."
+  - q: "Nola lagun diezaioket dementzia duen guraso bati harremanetan jarraitzen?"
+    a: "Kontaktu laburrek eta erregularrek ondo funtzionatzen dute. Saiatu asteko dei edo bideo-dei bat ezartzen, sukaldeko mahaian elkarrekin jarduera bat egiten, oroimen-kafe batera joaten edo maskota edo biloba batekin bisita bat egiten. Mantendu taldeak txikiak eta lasaiak, eta utzi zaintzen duzun pertsonari erritmoa markatzen."
+  - q: "Non aurki dezaket laguntza adineko pertsona bakarti batentzat?"
+    a: "Eldercare Locator zerbitzu publikoak familiei tokiko zahartze-agentziekin eta komunitateko programekin lotzen laguntzen die. 800-677-1116 zenbakian edo eldercare.acl.gov helbidean dago eskuragarri."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Pertsonak konpainiarako sortuak gara, eta hori ez da adinarekin aldatzen. Ikerketek lotura ikusi dute adinean bakardadearen eta isolamendu sozialaren eta dementzia izateko arrisku handiagoaren artean, baita bihotzeko gaixotasunen eta depresioaren artean ere. Ikerketek oraindik ezin dute esan zenbateraino den kausa-ondorio lotura. Orrialde honek azaltzen du zer erakusten duen ebidentziak, harremanetan jarraitzeko modu praktikoak eta zergatik diren hain garrantzitsuak jarduera partekatuak dagoeneko dementzia duten pertsonentzat.
 
-## Are loneliness and isolation linked with dementia?
+## Lotuta al daude bakardadea eta isolamendua dementziarekin?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Bai, ikerketa askok lotura ikusi dute, baina norabidea ez dago erabat argi. [2024ko Lancet Batzordeak](https://doi.org/10.1016/S0140-6736(24)01296-0) adineko isolamendu soziala aipatzen du 14 arrisku-faktore aldagarrietako bat dela. [UCLek txostenari buruz egindako laburpenean](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) mundu osoko dementzia kasuen % 5 inguru dela kalkulatzen du.
 
-What the evidence shows:
+Ebidentziak erakusten duena:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Harreman gutxiago, arrisku handiagoa.** Batzordeak bi berrikuspen deskribatzen ditu, harreman sozial gutxiagok dementzia izateko arrisku handiagoarekin lotzen zituztenak. Batek % 57 inguruko arrisku handiagoa aurkitu zuen, eta besteak % 18 ingurukoa.
+- **Bakardadea ere bai.** Bakardadea, hau da, besteengandik urrun egotearen sentipena, hainbat berrikuspenetan dementzia izateko arrisku handiagoarekin lotu zen.
+- **Zirujau Nagusiaren ikuspegia.** 2023ko maiatzean, AEBetako Zirujau Nagusiak [bakardadeari eta isolamenduari buruzko txosten](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) bat argitaratu zuen. Bertan adierazten da bakardade eta isolamendu kronikoek adineko helduen artean dementzia izateko arriskua % 50 inguru handitu dezaketela. Halaber, harreman sozial eskasek bihotzeko gaixotasunak izateko arriskua % 29 handitzearekin eta iktusa izateko arriskua % 32 handitzearekin lotu zituen.
+- **Zenbat den ohikoa.** [National Academiesen txosten](https://www.ncbi.nlm.nih.gov/books/NBK557972/) batek aurkitu zuen komunitatean bizi diren 65 urteko edo gehiagoko estatubatuarren % 24 inguru sozialki isolatuta daudela.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Kontuz ibiltzeko ohar garrantzitsua: Lancet Batzordeak dio balitekeela pertsonek jarduera sozialak murriztea dementziaren hasierako fasean, oraindik diagnostikatu gabe dagoenean. Horrek esan nahi du loturaren zati bat dementziak eragindako erretiratzea izan daitekeela, eta ez bakarrik erretiratzeak arriskua handitzea. Ebidentzia hau ia osorik behaketa-ikerketetatik dator.
 
-## What is the difference between loneliness and isolation?
+## Zein da bakardadearen eta isolamenduaren arteko aldea?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) erakundeak honela azaltzen du. **Isolamendu sozialak** esan nahi du harreman sozial gutxi izatea edo ohiko harremana izateko pertsona gutxi izatea. **Bakardadea** bakarrik edo urrun egotearen sentipen mingarria da. Norbait pozik bizi daiteke bakarrik, eta beste norbaitek bakardadea senti dezake gela betean.
 
-The NIA lists factors that raise the risk of both:
+NIAk bietarako arriskua handitzen duten faktoreak zerrendatzen ditu:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Entzumen- edo ikusmen-arazoak
+- Mugitzeko zailtasunak edo garraiorik eza
+- Bakarrik bizitzea, edo galera handia, hala nola bikotekidearen heriotza edo erretiratzea
+- Memoria- edo pentsamendu-aldaketak
+- Ondo ez dagoen pertsona maite bat zaintzea
+- Diru-kezkak edo hizkuntza-oztopoak
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Entzumena oso garrantzitsua da. NIAk dio ondo entzuten ez duten pertsonek urrundu egin daitezkeela, elkarrizketak frustragarriak edo deserosoak bihurtzen direlako. Gure [entzumenari eta garunaren osasunari buruzko gida](/brain-health/hearing/)k entzumen-azterketak eta errezetarik gabeko audifonoak azaltzen ditu.
 
-## Practical ways to stay connected
+## Harremanetan jarraitzeko modu praktikoak
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIAk hainbat ideia proposatzen ditu. Aukeratu bat edo bi zure egoerara egokitzen direnak:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Planifikatu ohiko harremana.** Egunero edo astero ordu jakin bat jarri familiarekin, lagunekin edo auzokideekin deitzeko, mezuak bidaltzeko, posta elektronikoa idazteko edo txartel bat bidaltzeko.
+- **Erabili bideo-deiak edo bozgorailu adimendunak.** Teknologia berria bada zuretzat, liburutegi publiko eta komunitate-zentro askok ikastaroak eskaintzen dituzte. Ikusi gure [telefono- eta bideo-deiei buruzko gida](/activities/phone-and-video-calls/).
+- **Sartu zerbaitetan.** Ikastaro batek, fede-komunitate batek, ibilaldi-talde batek edo boluntariotza batek harremanak eta helburu-sentsazioa eman diezazkizuke.
+- **Berreskuratu aspaldiko zaletasun bat** edo ikasi zerbait berria besteekin.
+- **Mugitu zaitez besteekin.** Egin ariketa lagun batekin edo talde batean. Gure [ariketa fisikoari buruzko gida](/brain-health/exercise/)k aukera leunak eskaintzen ditu.
+- **Pentsatu maskota batean**, zaindu ahal baduzu.
+- **Erabili tokiko zerbitzuak.** Adinekoentzako zentroek, Area Agencies on Aging erakundeek eta Eldercare Locator zerbitzuak (800-677-1116) programetara eta garraiora bideratu zaitzakete.
 
-## Why do shared activities matter in dementia?
+## Zergatik dira garrantzitsuak jarduera partekatuak dementzian?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Dagoeneko dementzia duen pertsona batentzat, harremanak gozamenerako, erosotasunerako eta barne sentitzeko dira, ez arriskua murrizteko. Lancet Batzordeak dio jarduerek laguntzen dietela dementzia duten pertsonei gozamena eta helburua mantentzen. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) erakundeak dio, bizi-kalitatea hobetzeaz gain, jarduerek noraezean ibiltzea edo asaldatzea bezalako jokabideak murrizten lagun dezaketela. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)k gaineratzen du Alzheimerra duten pertsonek aktibo egon eta gozatzen dituzten gauzak egin behar dituztela.
 
-Ideas that work well:
+Ondo funtzionatzen duten ideiak:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Begiratu irudiak elkarrekin.** [Conversation Cards](/games/conversation-cards/) jokoak galderarik gabeko gonbite irekiak eskaintzen ditu, adibidez «Kontaidazu honi buruz...». Ikusi gure [oroitzapenei buruzko gida](/activities/reminiscence/).
+2. **Jolastu elkarren ondoan.** [Picture Pairs](/games/picture-pairs/) jokoan irudiak ikusgai daude, eta ez du kronometrorik ez puntuaziorik; beraz, ez dago presiorik. Gure [elkarrekin jolasteko gida](/caregiving/how-to-play-together/)k aholkuak ditu.
+3. **Erabili familiako argazkiak.** [Photo Pairs](/games/photo-pairs/) jokoak zuk aukeratutako argazkiak parekatzeko joko bihurtzen ditu, eta argazkiak zure gailuan geratzen dira.
+4. **Bildu jendea.** [Picture Bingo](/games/picture-bingo/) familia-bileretarako eta [zaintza-etxeetako taldeetarako](/activities/care-home-groups/) egokia da.
+5. **Partekatu musika, etxeko lanak edo lorategia.** Ikusi [musika-jarduerak](/activities/music/), [etxeko lanak](/activities/household-tasks/) eta [jarduera-ideien](/activities/ideas/) zerrenda osoa.
+6. **Egin bisitak errazagoak.** Gure [bisitei buruzko gida](/activities/visiting/)k bisita labur eta lasaiak azaltzen ditu, denontzat atseginak izan daitezen.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Mantendu dena txikia eta lasaia. Gela lasai bat, pertsona batekin edo birekin, askotan hobeto funtzionatzen du talde handi batek baino. Zaintzen duzun pertsona nekatzen bada edo interesa galtzen badu, gelditzea ondo dago. Tea hartzen elkarrekin eserita egotea ere emaitza ona da.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Dementzia duen eta bakarrik bizi den pertsona batentzat, NIAk iradokitzen du konfiantzazko pertsona bat aurkitzea, erregularki bisitatu edo bideo-dei bidez harremanetan jar daitekeena eta larrialdietarako kontaktu gisa aritu daitekeena. Halaber, tokiko oroimen-kafe bat aipatzen du, memoria-galera duten pertsonentzat eta haien familientzat giro sozial lasaia eskaintzen duen tokia.
 
-## Caregivers get lonely too
+## Zaintzaileak ere bakarrik senti daitezke
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIAk dio pertsona maite bat zaintzea isolamendurako arrisku-faktorea dela. Babestu zure adiskidetasunerako, laguntza-taldeetarako eta atseden hartzeko denbora pixka bat. Gure [zaintzaileen autolaguntzari buruzko gida](/caregiving/caregiver-self-care/)k ideia praktikoak ditu.
 
-## Talk with a doctor
+## Hitz egin mediku batekin
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Zu edo zaintzen duzun norbait denbora luzez bakarrik edo isolatuta sentitzen bada, esan mediku bati. NIAk gomendatzen du bizitzako aldaketa garrantzitsuak partekatzea, hala nola familiako heriotza bat, medikuak egoera osoa uler dezan. Asteetan zehar triste sentitzea depresioa izan daiteke, eta tratatu daiteke. Adineko pertsona bat bat-batean lehen gozatzen zituen lagunengandik edo jardueretatik urruntzen hasi bada, aldaketa hori ere komeni da medikuari aipatzea. Irakurri [hasierako seinaleak eta noiz joan medikuarengana](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Orrialde hau informazio orokorra da, ez aholku medikoa. Ikusi gure [mediku-oharra](/medical-disclaimer/).

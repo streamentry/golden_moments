@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Fefewo na Ame siwo le Tagbɔdɔléle Me: Akpaƒoƒo, Nyafefewo kple Internet Dzi Fefewo"
+seoTitle: "Fefewo na Tagbɔdɔléle: Akpaƒoƒo kple Nyawo"
+description: "Ale si nàtia akpaƒoƒo, nyafefewo kple Internet dzi fefewo na ame si le tagbɔdɔléle me: akpa ƒe lolome, nɔnɔmetatawo, agbalẽ gã, wɔwɔ ɖekae, kple ɣeyiɣi si wòle be nàwɔe bɔbɔe."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Fefe nyuitɔ kekeake na ame si le tagbɔdɔléle me enye esi wòate ŋu awu enu kple
+  kpekpeɖeŋu sue aɖe eye wòakpɔ dzidzɔ le eme. Tia akpaƒoƒo si me akpaawo mesɔ gbɔ
+  o, eye wololo, kple nɔnɔmetata si dze ƒãa. Na aɖaka la ƒe nɔnɔmetata nanɔ ŋkuwòme,
+  eye nàƒo akpa siwo le go dzi nu ƒu gbã. Nyadidi kple nyabiabiafefewo nyo wu ne
+  woŋlɔ wo ɖe agbalẽ gã dzi. Internet dzi fefewo bɔbɔe siwo me akpa 4 le sɔ na
+  titina ƒe ɣeyiɣia. Dzudzɔ esime wògakpɔtɔ le vivi sem.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Tia le ale si wòle yiyim nu, menye le ŋkɔ aɖe si wotsɔ na ɣeyiɣia ta o: ne fefe aɖe le abe dɔ sesẽ ene la, te esi me akpaawo mesɔ gbɔ o kpɔ."
+  - "Akpa gã, sesẽwo kple nɔnɔmetata si dze ƒã si me amadede vovovowo le la bɔbɔ wu akpa suewo kple dziŋgɔli gã aɖe."
+  - "Ele vevie be nɔnɔmetataawo nasɔ na ame tsitsiwo: abɔwo, nuɖuzikpowo, ʋuwo kple lãwo, menye nɔnɔmetata siwo sɔ na ɖeviwo o."
+  - "Wɔwɔ ɖekae ye nye taɖodzinu la. Tsɔ akpaawo nɛ, ƒo goawo nu ƒu, eye na aɖaka la ƒe nutsyɔnu nanɔ ŋkuwòme."
+  - "Nyadidi siwo woŋlɔ ɖe agbalẽ gã dzi kple Internet dzi fefewo bɔbɔe siwo me akpa 4 alo 9 le la le axa sia dzi femaxee."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Akpa neni ye nyo wu na ame si le tagbɔdɔléle me?"
+    a: "Xexlẽme ɖeka si sɔ na ame sia ame aɖeke meli o. Ame si wɔ akpa 1,000 ƒe fefewo tsã la ate ŋu agakpɔ dzidzɔ le akpa alafa ʋɛ aɖewo ŋu le gɔmedzedzea, evɔ ame bubuwo ya kpɔa dzidzɔ wu le akpa wui evelia aɖewo siwo lolo ŋu. Ne fefe aɖe le abe dɔ sesẽ ene alo le dzimaɖitsitsi hem vɛ la, yi akpa siwo mesɔ gbɔ o dzi. Míaƒe Internet dzi Nɔnɔmetata ƒe fefe la me akpa 4 alo 9 le."
+  - q: "Ðe akpaƒoƒo nyo na ame siwo le tagbɔdɔléle mea?"
+    a: "Ame geɖe kpɔa dzidzɔ le wo ŋu, vevietɔ ne wolɔ̃a fefewo tsã. Fefe naa nane asi be wòawɔ, taɖodzinu si dze ƒã, kple nɔnɔmetata si ŋu woaƒo nu tsoe. Womeɖee fia kpɔ be fefe aɖe daa dɔ na alo ɖea tagbɔdɔléle dzi kpɔtɔna o, eyata tia wo ɖe dzidzɔkpɔkpɔ kple hadede ta."
+  - q: "Nukae mate ŋu awɔ ne ame aɖe magate ŋu awɔ akpaƒoƒo azɔ o?"
+    a: "Wɔe sue wu eye nàwɔ eƒe akpa gãtɔ: tsɔ akpa ɖeka nɛ ɣesiaɣi, alo gblẽ akpa mamlɛawo ko ɖi nɛ. Te Internet dzi fefe si me akpa 4 le kpɔ, ƒo akpaawo nu ƒu le woƒe amadede nu, alo miakpɔ nɔnɔmetata si wowu enu la ɖekae ko."
+  - q: "Ðe nyabiabiafefewo kple nyadidiwo sɔ na tagbɔdɔlélea?"
+    a: "Woate ŋu asɔ le gɔmedzedze ƒe ɣeyiɣia, ne woŋlɔ wo ɖe agbalẽ gã dzi. Nyadidi siwo me nyawo le tsitre alo le anyime ko la bɔbɔ wu esiwo me nyawo le tsia dzi alo le megbe. Xlẽ nyabiabiaawo alo nyawo ƒe xexlẽdzesi la sesĩe eye miawɔe ɖekae."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Akpaƒoƒo si wokaka ɖe nuɖukplɔ̃ dzi nye nusiwo bɔbɔ wu siwo miate ŋu awɔ ɖekae dometɔ ɖeka. Miate ŋu anɔ anyi ɖekae evɔ mehiã be miaƒo nu geɖe o, nɔnɔmetata la naa nane mi si ŋu miaƒo nu tsoe, eye akpa mamlɛtɔ dada ɖe eme naa dzidzɔ. Ke hã, ele be fefewo natrɔ ne tagbɔdɔléle le tɔtrɔm. Fefe si sesẽ akpa la ate ŋu atrɔ ŋdɔkutsu fafɛ aɖe wòazu nusi hea dzimaɖitsitsi vɛ. Axa sia ƒo nu tso ale si nàtia eye nàdzra akpaƒoƒo, nyafefewo kple Internet dzi fefewo bɔbɔe ɖo ŋu, kple nusi nàwɔ ne wova sesẽ.
 
-## Are puzzles good for people with dementia?
+## Ðe fefewo nyo na ame siwo le tagbɔdɔléle mea?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Ame geɖe kpɔa dzidzɔ le wo ŋu, vevietɔ ame siwo wɔ fefewo tsã. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yɔ nyadidiwo, agbalẽvi ƒe fefewo kple kplɔ̃ dzi fefewo be wonye nusiwo woate ŋu awɔ le gɔmedzedze ƒe ɣeyiɣia, eye [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) hã ƒo nu tso Internet dzi fefewo kple akpaƒoƒowo ŋu le tablɛt dzi abe mɔ ɖeka si dzi woato anɔ eme ene.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Fefewo menye atike o. Womeɖee fia kpɔ be fefe aɖe ɖea tagbɔdɔléle dzi kpɔtɔna alo tɔa te o; míaƒe mɔfiame si ku ɖe [tagbɔfefewo kple tagbɔdɔléle](/brain-health/brain-games/) ŋu la ɖe numekukua me. Susu si ta miawɔ fefe enye be ate ŋu anye gaƒoƒo vivi aɖe si miawɔ ɖekae. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) gblɔe kpuie be: miɖo ŋku dzidzɔkpɔkpɔ dzi, menye nuwuwu dzi o.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Aleke nàtia akpaƒoƒo na ame si le tagbɔdɔléle me?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Wɔ ɖe nusi doa dzidzɔ na amea kple ale si fefe mamlɛtɔ yi la dzi, menye le ŋkɔ si wotsɔ na ɣeyiɣia dzi o.
 
-### Number of pieces
+### Akpaawo ƒe xexlẽme
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Xexlẽme si sɔ tututu aɖeke meli o. Ame si wɔa fefe ƒe geɖe la ate ŋu agakpɔ dzidzɔ le akpa alafa ʋɛ aɖewo ŋu le gɔmedzedzea, evɔ ame bubu ya akpɔ dzidzɔ wu le akpa wui evelia aɖewo ko ŋu. Mɔ bɔbɔe aɖe enye: ne fefe mamlɛtɔ le abe dɔ sesẽ ene la, tia esi me akpaawo ƒe xexlẽme ɖiɖi le mama dedie nu. Ne wowu enu kaba eye wòdi be yeawɔ bubu la, tsɔ ʋɛ aɖe kpee.
 
-### Piece size and feel
+### Akpaawo ƒe lolome kple ale si wole
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Akpa gãwo** bɔbɔ na kpɔkpɔ, tsɔtsɔ kple tɔtrɔ.
+- **Akpa titri, sesẽwo** nɔa teƒe ɖeka eye womegbãna bɔbɔe ne woge o.
+- **Akpa siwo ƒe ŋkume mekɔna akpa o** ɖea keklẽ dzi kpɔtɔna le akaɖiwo kple fesrewo te.
+- **Ƒo asa na akpa suewo** ne ate ŋu adzɔ be amea atsɔ nane ade nu me, si ate ŋu adzɔ emegbe le tagbɔdɔléle me.
 
-### The picture
+### Nɔnɔmetata la
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Nusiwo sɔ na ame tsitsiwo.** Abɔwo, nuɖuzikpowo, ʋu xoxowo, agblelãwo, ƒuta du aɖe, alo fefe si wòlɔ̃na. Menye nɔnɔmetata siwo sɔ na ɖeviwo alo esiwo le abe ɖeviwo ƒe fefe ene o.
+- **Teƒe siwo me amadede vovovowo le ƒã.** Agblexɔ dzĩ, tɔdziʋu blɔ kple agble mumu bɔbɔ wu dziŋgɔli si xɔ fefe la ƒe afã.
+- **Nusiwo ŋu amea nya nu tsoe eye wòlɔ̃na.** Nɔnɔmetata si nye teƒe si wònɔ alo nusi wòlɔ̃ wɔwɔ la naa nu geɖe si ŋu miaƒo nu tsoe. Agbalẽtataƒe aɖewo ate ŋu atrɔ ƒomea ƒe foto wòazu akpaƒoƒo.
 
-## How do you do a puzzle together?
+## Aleke miawɔ fefe la ɖekae?
 
-Set it up so the person can get straight to the enjoyable part.
+Dzrae ɖo ale be amea nate ŋu adze akpa si doa dzidzɔ na eya ŋutɔ gɔme tẽ.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Tia teƒe nyui aɖe.** Kekeli nyui, zikpui si si alɔ le, kple kplɔ̃ alo agba si dzi fefe la ate ŋu anɔ.
+2. **Tsɔ aɖaka la ƒe nutsyɔnu da ɖi** afi si mia kple evea miate ŋu akpɔe le.
+3. **Trɔ akpaawo katã woƒe ŋkume nanya** hafi miadze egɔme.
+4. **Ƒo akpa siwo le go dzi nu ƒu** wò ŋutɔ, alo wɔ goawo gbã eye nàgblẽ titina la ɖi nɛ.
+5. **Ƒo akpaawo nu ƒu le woƒe amadede nu** ɖe agba gbadza alo agba sue aɖewo me.
+6. **Tsɔ akpa ɖeka nɛ ɣesiaɣi** ne akpaawo ƒe ƒuƒoƒo sɔ gbɔ akpa. „Mesusu be akpa sia nye agblexɔ la ƒe akpa aɖe.“
+7. **Miaƒo nu tso nɔnɔmetata la ŋu,** menye ale si miele ŋgɔ yim ŋu o. „Esia ɖi tɔdziʋu si nɔ fofonye si la.“
+8. **Gblẽe ɖe teƒea.** Miate ŋu atrɔ ayi egbɔ le ŋkeke geɖe me. Mede kaba o.
+9. **Dzudzɔ le ɣeyiɣi nyui aɖe dzi,** ne akpa aɖe ge ɖe eme vɔ, esime wògakpɔtɔ le vivi sem.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ɖoa aɖaŋu be nàkpe ɖe amea ŋu wòadze egɔme, nàlé ŋku ɖe dzimaɖitsitsi ŋu, eye nàɖe mɔ nɛ be wòakpɔe ko ne esia doa dzidzɔ nɛ wu. Esi wòle kpɔwòm nèle akpaawo dem eme eye wòle afisi akpa aɖe ate ŋu ayi fiam hã nye gomekpɔkpɔ.
 
-## Easy online puzzles
+## Internet dzi fefewo bɔbɔe
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Tablɛt dzi fefe aɖewo ƒe viɖe ŋutɔŋutɔwo le: akpa aɖeke mebuna o, nɔnɔmetata gãwo xɔa screen la katã, eye kplɔ̃ aɖeke mehiã be woakɔ o.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Míaƒe [Nɔnɔmetata ƒe fefe](/games/picture-puzzle/) femaxee la tsɔa nɔnɔmetata aɖe mãa akpa 4 alo 9 me. Zi akpa eve dzi be nàtrɔ wo nɔƒe va se ɖe esime nɔnɔmetata la blibo. Nɔnɔmetata bliboa nɔa screen la dzi abe mɔfiame ene, gaƒoƒodzidzenu aɖeke meli o, eye àte ŋu adzudzɔ ɣesiaɣi. Akpa 4 sɔ na ame geɖe le titina ƒe ɣeyiɣia ne ame aɖe le wo gbɔ.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Ne èdi nɔnɔmetata ƒe fefe si bɔbɔ wu la, te [Di esi sɔ kplii](/games/find-the-same/) kpɔ, afi si nèzia nɔnɔmetata si sɔ kple esi le etame dzi, alo [Miaƒo nu ƒu ɖekae](/games/sort-together/), afi si wodea nɔnɔmetatawo kusiwo abe nuɖuzikpo alo abɔ ene me.
 
-## Word puzzles: word searches and crosswords
+## Nyafefewo: nyadidi kple nyabiabiafefewo
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Nyafefewo sɔ na ame siwo lɔ̃a wo ɣesiaɣi, zi geɖe la le tagbɔdɔléle ƒe gɔmedzedzea.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Nyadidi si woŋlɔ ɖe agbalẽ gã dzi.** Míaƒe [Nyadidi](/games/word-search/) femaxee la zãa ŋɔŋlɔdzesi gãwo kple nya ʋɛ aɖewo ko, siwo le tsitre alo le anyime, menye le tsia dzi alo le megbe gbeɖe o. Wɔe le screen dzi alo nàtãe.
+- **Xlẽ xexlẽdzesi la sesĩe.** Ame ɖeka xlẽa nya aɖe, eye evelia diae. Enyo be woaƒo xlã ŋɔŋlɔdzesi gbãtɔ ko hã.
+- **Nyabiabiafefewo siwo woŋlɔ ɖe agbalẽ gã dzi** tso fefe ƒe agbalẽwo me ate ŋu awɔ dɔ le gɔmedzedzea. Xlẽ nyabiabiaawo sesĩe, miama nuŋlɔti la, eye miaŋlɔ ŋuɖoɖowo ɖekae. Nyabiabiafefewo bɔbɔe siwo ƒe tanya ɖeka le la nyo wu esiwo sesẽ.
+- **Miaƒo nu tso nyawo ŋu.** „Abɔ“ ate ŋu ahe dzeɖoɖo aɖe si axɔ miniti ewo vɛ tso tomatos ŋu.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Ne èdi agbalẽ dzi dɔwɔna bubuwo kple ale si nàtãe be woabɔbɔ na kpɔkpɔ kple léle la, kpɔ [tagbɔdɔléle ŋu dɔwɔna siwo woate ŋu ata femaxee](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Fefe kawoe sɔ na ɣeyiɣi ɖe sia ɖe?
 
-Stages overlap, and good and hard days are normal.
+Ɣeyiɣiawo ƒoa ƒu, eye ŋkeke nyuiwo kple esiwo sesẽ la nye nusi dzɔna.
 
-| Stage | Puzzles that often fit | Your role |
+| Ɣeyiɣi | Fefewo siwo sɔna zi geɖe | Wò akpa |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Gɔmedzedze | Akpaƒoƒo siwo amea nya, siwo me akpaawo mesɔ gbɔ abe tsã ene o, nyabiabiafefewo kple nyadidiwo siwo woŋlɔ ɖe agbalẽ gã dzi, Internet dzi fefe siwo me akpa 9 le | Hati: na wòatia, kpe ɖe eŋu ne ebiae |
+| Titina | Akpaƒoƒo siwo me akpa gã wui evelia aɖewo le, Internet dzi fefe siwo me akpa 4 le, nyadidi si míexlẽna sesĩe ɖekae | Dzrae ɖo, ƒo akpaawo nu ƒu, tsɔ akpa ɖeka nɛ ɣesiaɣi |
+| Mamlɛ | Mikpɔ nɔnɔmetata si wowu enu ɖekae, Di esi sɔ kplii kple nɔnɔmetata eve, akpa gã ʋɛ aɖewo léle | Tsɔe vɛ nɛ; wò anyinɔnɔ gbɔe nye dɔwɔna la |
 
-## When should you make a puzzle easier, or stop?
+## Ɣekaɣie wòle be nàwɔ fefe aɖe bɔbɔe wu, alo adzudzɔ?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Lé ŋku ɖe gbɔgbɔtsixexee, akpaawo tutu ɖa, „Nyemate ŋui o“ gbɔgblɔ enuenu alo dzimaɖi ƒe dzesiwo ŋu. Esiawo nye dzesiwo be nàtrɔ nane, menye be nàyi edzi sesĩe o.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Wɔe sue wu.** Akpaawo mede nenema gbɔ o, alo gblẽ akpa mamlɛawo ko ɖi nɛ.
+- **Wò ŋutɔ nàwɔ akpa gãtɔ** eye nàkpee be wòakpe ɖe ŋuwò le akpa siwo bɔbɔ la me.
+- **Trɔ yi nane bubu si te ɖe ŋuwò gbɔ:** akpaawo ƒoƒo nu ƒu le woƒe amadede nu, Internet dzi fefe si me akpa 4 le, alo [amadede](/games/coloring/).
+- **Dzudzɔ.** Gblẽe ɖi eye miano tii. Miate ŋu atrɔ ayi egbɔ ŋkeke bubu, alo miawɔe nenema o hã.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ne fefewo va le abe ŋkuɖoɖo nusiwo sesẽ ene la, enyo be miadzudzɔ wo. Mɔ bubu geɖewo li siwo dzi miato anɔ ɣeyiɣi nyuiwo ɖekae; míaƒe [dɔwɔna 101 ƒe susuwo](/activities/ideas/) nye teƒe nyui aɖe si miadze egɔme tsoe.

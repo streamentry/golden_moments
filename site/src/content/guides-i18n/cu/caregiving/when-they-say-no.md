@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Ѥгда человѣкъ съ помрачениѥмъ оума отъмещетъ дѣло"
+seoTitle: "Ѥгда человѣкъ съ помрачениѥмъ оума отъмещетъ дѣло"
+description: "Почто человѣкъ съ помрачениѥмъ оума можетъ отъмещи дѣло или разгнѣвати сѧ, что искоусити, чегο избѣгати и къгда нагыбъ потрѣбоуѥтъ врача."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Ѥгда человѣкъ съ помрачениѥмъ оума речетъ «нѣ», приимѣте то тихо и
+  покоусите сѧ пакы по томь или прѣдъложите ино. Отъмєтаниѥ часто иматъ
+  винѫ: дѣло мьнитъ сѧ трѹдьно или дѣтьско, человѣкъ трѹдьнъ ѥстъ, въ
+  болѣзни, въ алъчьбѣ, или отъ шоума отѧгъчєнъ. Нє прѣрѣкаите ни
+  настоите. Оулєгьчите дѣло, прѣдъложите дъва избора или просите ѥго о
+  помошти. Нагыбъ или скоро мѣнѧѭщиѥ сѧ обычаи, паче по болѣзни или
+  новѣмь лѣчьбѣ, потрѣбоуѭтъ врача безъ отълаганиꙗ.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "«Нѣ» ѥстъ отвѣтъ, ѥгоже подобаѥтъ чьстити, а нє бѣда, ѭже подобаѥтъ одолѣти."
+  - "Отъмєтаниѥ обꙑчьно иматъ винѫ: прѣтрѹдьно, дѣтьско, трѹдъ, нєздравиѥ, нєлѣпота или прѣмъного."
+  - "Отъстѫпите, пожьдите и покоусите сѧ по томь, въ ино врѣмѧ или съ лєгъчаишимь видъмь."
+  - "Прошєниѥ о помошти лѣпьше дѣлаѥтъ нєжєли прошєниѥ показати сѧ."
+  - "Николиже не прѣрѣкаите, нє настоите, нє въпрашаите ни исправлꙗите. Възьрите и на сѧ, аще тъщите сѧ или тѣсните."
+  - "Нагыбъ или скоро мѣнѧѭщиѥ сѧ обычаи, паче съ болѣзниѭ или новꙑми лѣчьбами, подобаѥтъ безъ отълаганиꙗ показати врачоу."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Добрѣ ли ѥстъ оставити ѥмоу дѣла съвьсѣмь?"
+    a: "Да, въ кыижьдо дьнь. Сѣдѣти въкоупѣ, слоушати пѣсни или зьрѣти на миръ около можетъ быти довьльно. Аще ли кто прѣстанєтъ радовати сѧ вьсѣмь за нѣколико нєдѣль, рьцѣте о томь врачоу, понєжє оуныниѥ, болѣзнь или инꙑ недѫзи могутъ быти чѧсть того."
+  - q: "Почто отъмєщѫтъ то, ѥже прѣждє люблꙗахѫ?"
+    a: "Старо любимо дѣло можетъ быти мѫчьно, ѥгда трѣбоуѥтъ оумѣнии, ꙗже помрачєниѥ оума сътвори трѹдьнѣиша, и человѣкъ можетъ стꙑдѣти сѧ. Покоусите сѧ о лєгъчаиши чѧсти того жє дѣла, на примѣръ разъбирати пѫговицѧ вьмѣсто шитиꙗ, или зьрѣти на образꙑ врьта вьмѣсто саждєниꙗ."
+  - q: "Подобаѥтъ ли мѧ оувѣщавати ѩ?"
+    a: "Нѣ. Нѫдити человѣка творити то, ѥже помрачєниѥ оума сътвори трѹдьно, ѥстъ вѣдома вина смѫщєниꙗ. Приимѣте «нѣ», измѣните бєсѣдѫ и прѣдъложите пакы по томь или инакымь образъмь."
+  - q: "Къгда измѣнєниѥ обычая ѥстъ нѫжда?"
+    a: "Призовите скорѫѭ помошть, аще кто ѥстъ въ бѣдѣ или иматъ знамєниꙗ лѣчьбьнꙑꙗ нѫждꙑ. Аще ли нагыбъ помрачєниꙗ оума или обычаи скоро измѣнѧтъ сѧ за часꙑ или дьни, паче съ огниѥмь, болѣзниѭ или новоѭ лѣчьбоѭ, съвѣщаитє сѧ съ врачьмь ѥго безъ отълаганиꙗ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Вꙑ оуготовасте вьсє, прѣдъложисте игрѫ или проходъ и слꙑшитє «Нѣ». Или дѣло начѧ сѧ добрѣ, а коньча сѧ отъриноутоѭ дъскоѭ и остръмь словъмь. То ѥстъ мѫчьно, и то ѥстъ зѣло обьщє. Отъмєтаниѥ и мѫка обꙑчьно сѫтъ вѣсть, а нє оупрѧмьство. Аще разоумѣѥмъ, что та вѣсть глаголєтъ, часто оувидимъ, что покоусити сѧ далє.
 
-## Why does someone with dementia refuse activities?
+## Почто человѣкъ съ помрачениѥмъ оума отъмєщєтъ дѣла?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Обꙑчьно ѥстъ вина, аще и человѣкъ нє можетъ ꙗ изрєщи словєсꙑ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) глаголєтъ, ꙗко съпротивлєниѥ можетъ знати, ꙗко человѣкъ нє можетъ сътворити дѣла или боитъ сѧ покоусити сѧ. Обьщѧ винꙑ сѫтъ:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Мьнитъ сѧ прѣтрѹдьно.** Дѣло нꙑнѣ трѣбоуѥтъ оумѣнии, ꙗже помрачєниѥ оума сътвори трѹдьнѣиша, и не оуспѣти прѣдъ инѣмь ѥстъ стꙑдьно.
+- **Мьнитъ сѧ дѣтьско.** Възрастьнии чоуѭтъ дѣтьскꙑѧ образꙑ, пѣвьчьскꙑ гласꙑ и дѣла, ꙗже мьнѧтъ сѧ сътворєна дѣтьмъ.
+- **Трѹдъ.** Мъногꙑ имѫтъ мьнє силꙑ къ вєчєроу. Видите [тихꙑѧ дѣла къ поздьноуоумоу полоудьни](/caregiving/late-day-restlessness/).
+- **Тѣлєсьна нєлѣпота.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) поминаѥтъ болѣзнь, нєдостатъкъ съна, трѹдъ видѣти или слꙑшати, запьртиѥ, алъчьбѫ, жѧждѫ и послѣдьствиꙗ новꙑихъ лѣчьбъ ꙗко можьнꙑ винꙑ мѫкꙑ.
+- **Прѣмъного около.** Громъкꙑи гласъ, нѣколико бєсѣдъ или пльнъ домъ могутъ отѧгъчити.
+- **Чоуѥтъ сѧ нѫдимъ.** NIA мѣнитъ нѫждєниѥ творити то, ѥже болѣзнь Альцхаимєра сътвори зѣло трѹдьно, или поминати събꙑтиꙗ и людии, винѫ смѫщєниꙗ.
+- **Оуныниѥ.** Погоублєниѥ радости о вєщєхъ можетъ быти знамєниѥ оуныниꙗ, о нємьжє подобаѥтъ рєщи врачоу.
+- **Просто нє хощєтъ.** Възрастьнии имѫтъ власть рєщи «нѣ».
 
-## What should I try when they say no?
+## Что покоусити сѧ, ѥгда речєтъ «нѣ»?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Приимѣте «нѣ» тихо, потомь измѣните нѣчто: врѣмѧ, дѣло, лєгъкость или образъ прошєниꙗ.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Оставите нꙑнѣ.** «Добрѣ ѥстъ. Можєтъ быти по томь.» Потомь прѣидѣте къ иномоу безъ въздъханиꙗ.
+2. **Покоусите сѧ пакы по томь.** Alzheimer's Association съвѣтоуѥтъ покоусити сѧ пакы по томь или въ ино врѣмѧ дьнє.
+3. **Сътворите мало.** Ѥдино съвъпадєниѥ вьмѣсто вьсєꙗ игрꙑ. Ѥдинъ платъ вьмѣсто кошьницѧ. Мьнє образъ, мьнє изборъ, образꙑ оставьнꙑ видимꙑ.
+4. **Прѣдъложите дъва избора.** «Хощєши ли зьрѣти на образꙑ птиць или послоушати пѣснии?» Изборъ възвращаѥтъ чоуѥниѥ власти.
+5. **Просите о помошти, а нє о показании.** «Можєши ли помошти ми разъбьрати сиꙗ?» или «Можєши ли рєщи, кꙑи цвѣтъ лѣпьшии мьнитъ сѧ?» Быти потрѣбьнѹ зѣло ино ѥстъ нєжєли быти искоушаѥмѹ.
+6. **Начьнѣте сами.** Начьнѣте дѣло при нємь безъ прошєниꙗ. Мъногꙑ пристѫпаѭтъ, ѥгда нѣчто оужє бываѥтъ, а аще ли не пристѫпѧтъ, вꙑ оубо бѣстє въкоупѣ.
+7. **Прѣидѣте къ тѣлєсьноуоумоу или тихомоу.** Кратъкъ проходъ, пѣсни, ꙗдь, съгꙑбаниѥ платъ или съвъкоупьна [тиха паоуза дъханиꙗ](/games/calm-breathing/). NIA съвѣтоуѥтъ обрѧтити вьниманиѥ къ пѣсньмъ, кънигѣ или проходоу.
+8. **Оставите ѥмоу творити своимь образъмь.** Аще хощєтъ играти инакоже нєжєли правила глаголѭтъ, идѣте съ тимь. Alzheimer's Association съвѣтоуѥтъ быти гъвъкѹ.
 
-## What should I say when they get frustrated?
+## Что рєщи, ѥгда мѫчитъ сѧ?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Оумѣрите сѧ, понизите гласъ и оутѣшите. [Съвѣтъ Alzheimer's Association о смѫщєнии](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) съвѣтоуѥтъ отъстѫпити и просити позволєниꙗ, глаголати тихꙑ и добрꙑ рѣчи и прѣдъложити избранъ изборъ мєждоу дъвѣма. Рѣчи въ томь жє доусѣ:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Прости мѧ, сє дѣло мѫчитъ. Останѣмъ.»
+- «Добрѣ твориши. Азъ ѥсмь сь тобоѭ.»
+- «Имаши ли врѣмѧ помошти ми о иномь?»
+- «Хощєши ли чашѫ чаꙗ вьмѣсто того?»
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Потомь коньчаите дѣло безъ вєлика дѣла. Нашꙙ [съвѣти о бєсѣдѣ](/caregiving/communication-tips/) имѫтъ большє о томь, что рєщи.
 
-## What should I avoid?
+## Чегο избѣгати?
 
-Some natural reactions tend to make things worse.
+Нѣкотора прѧма отвѣщаниꙗ обꙑчьно творѧтъ горє.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Прѣрѣканиꙗ или настоꙗниꙗ.** «Нꙋ, ѥщє ѥдино» или «Тꙑ сє любиши» рѣдъко помагаѥтъ.
+- **Въпрашаниꙗ или исправлꙗниꙗ.** «Тꙑ вѣси, что сє ѥстъ» или «Нѣ, то нє право» прилагаѥтъ тѧгость.
+- **Приимати на сѧ.** NIA напомѧнѹѥтъ пєкѫщимъ сѧ, ꙗко болѣзнь, а нє человѣкъ, творитъ сиꙗ измѣнєниꙗ.
+- **Тѣснєниꙗ или тъщаниꙗ.** Alzheimer's Association съвѣтоуѥтъ нє възвꙑшати гласа, нє ꙗвлꙗти страха, нє затварати, нє тѣснити, нє оудрьжати, нє оукарꙗти, нє нєбрѣщи и нє прѣрѣкати, и избѣгати нагꙑихъ движєнии изъ нєвидима ѥмоу мѣста.
+- **Оупотрѣблѧти винѫ.** «Азъ вьсє сє оуготовахъ тебѣ» оставлꙗѥтъ оба въ горьши чоуѥнии.
+- **Именовати.** «Оупрѧмъ» или «трѹдьнъ» крꙑѥтъ истиньнѫ винѫ и творитъ трѹдьнѣише разрѣшєниѥ.
 
-## How can I find out what is behind repeated refusals?
+## Како разоумѣти, что за чѧстꙑми отъмєтании стоить?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Вєдѣте простѫ запискѫ за нєдѣлѭ или дъвѣ. NIA глаголєтъ, ꙗко слѣжєниѥ измѣнєниємъ обычая можетъ помошти пєкѫщимъ сѧ и врачьмъ познати образъ и разоумѣти винѫ.
 
-Jot down:
+Запишитє:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- врѣмѧ дьнє;
+- что прѣдъложисте и како просисте;
+- что бывашє около (шоумъ, гости, гласъ);
+- како съпа, ꙗстъ и пи, и къгда послѣдьнєѥ идє къ нѫждѣ;
+- новꙑѧ лѣчьбꙑ или нєдавьнѭѭ болѣзнь.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Образи часто ꙗвлꙗѭтъ сѧ скоро: отъмєтаниꙗ тъкъмо по четврьтѣмь часѣ полоудьнє, тъкъмо при нѣкоѥи игрѣ или тъкъмо ѥгда гласъ слꙑшимъ ѥстъ. [Настаѥниѥ Family Caregiver Alliance о обꙑчаихъ при помрачєнии оума](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) глаголєтъ просто: нє можємъ измѣнити человѣка, нъ можємъ измѣнити своѥ дѣланиѥ и окрѫжєниѥ.
 
-## When should I talk to a doctor about refusal or frustration?
+## Къгда подобаѥтъ глаголати съ врачьмь о отъмєтании или мѫцѣ?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Глаголите съ врачьмь, ѥгда обычаи измѣнѧтъ сѧ нагъло, скоро или съ знамєнии болѣзни. NIA глаголєтъ, ꙗко нагълꙑѧ или скоро мѣнѧѭщѧѧ сѧ измѣнєниꙗ обычая, паче аще чловѣкъ имѣ болѣзнь или нєдавьнѧ измѣнєниꙗ лѣчьбъ, подобаѥтъ безъ отълаганиꙗ показати врачоу.
 
-Contact their doctor promptly if you notice:
+Съвѣщаитє сѧ съ врачьмь ѥго безъ отълаганиꙗ, аще видите:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- нагълъ смѫтъ оума или вєликѫ измѣнѫ за часꙑ или дьни;
+- знамєниꙗ болѣзни, ꙗко помрьщєниѥ, хранєниѥ чѧсти тѣла или новъ трѹдъ движєниꙗ;
+- огнь или инꙑѧ знамєниꙗ болѣзни;
+- новꙑѧ или измѣнєнꙑѧ лѣчьбꙑ, по нихъжє измѣни сѧ обычаи;
+- погоублєниѥ радости о почти вьсємь, сльзꙑ или оудалєниѥ болє дъвою нєдѣль;
+- отъмєтаниѥ ꙗди или питиꙗ.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association съвѣтоуѥтъ пльно лѣчьбьно искоушєниѥ вьсѣмъ, иже имѫтъ знамєниꙗ обычая, паче ѥгда ꙗвлѧѭтъ сѧ нагъло. Family Caregiver Alliance тако жє съвѣтоуѥтъ прьвѣѥ съвѣщати сѧ съ врачьмь, понєжє бѣдꙑ обычая могутъ имѣти лѣчьбьнѫ винѫ. Нє начинаите, нє прѣстаите и нє мѣнꙗите лѣчьбꙑ безъ съвѣта врача или лѣчьбьника.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Аще кто ѥстъ въ бѣдѣ или ꙗвлѧѭтъ сѧ знамєниꙗ лѣчьбьнꙑꙗ нѫждꙑ, призовите скорѫѭ помошть. NIA съвѣтоуѥтъ рєщи зовѫщємоу помошть, ꙗко чловѣкъ иматъ помрачєниѥ оума.
 
-## Is it okay if we do nothing at all?
+## Добрѣ ли ѥстъ, аще нє творимъ ничєсогоже?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Да. Въ нѣкотꙑ дьни добрѣишєѥ дѣло ѥстъ бєзъ дѣла: сѣдѣти въкоупѣ, дрьжати рѫкѫ, слоушати любимоѭ пѣснь или зьрѣти на птицѧ за окънъмь. То нѣстъ падєниѥ. Нашє [настаѥниѥ о съвъкоупьнѣи игрѣ](/caregiving/how-to-play-together/) изъяснꙗѥтъ, почто прѣстати рано, или нє начѧти, можетъ быти право рѣшєниѥ.

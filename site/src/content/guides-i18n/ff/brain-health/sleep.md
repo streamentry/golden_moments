@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Ɗaanagol e cellal hakkille: ko wiɗtooji mbiyi e ko wallata"
+seoTitle: "Ɗaanagol e nyaw majjere hakkille: ko wiɗtooji mbiyi"
+description: "Ko wiɗtooji mbiyi ko fayti e ɗaanagol e hoolaare nyaw majjere hakkille, ko wiɗtooji laɓɓingol hakkille ngol fuɗɗiima tawo, e waɗde ɗaanagol moƴƴol."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Wiɗtooji yoga juutɗi njokkii ɗaanagol raɓɓiɗungal e hakkunde nduu e hoolaare ɓurnde toowde
+  nyaw majjere hakkille, kadi wiɗtooji labo eɗe cikki ɗaanagol ina waawi wallude hakkille laɓɓinde
+  ko bonnata. Ɗee seedeeji ena fuɗɗiima tawo, kadi Dental Lancet 2024 limtaani ɗaanagol e
+  geɗe hoolaare baawɗe wayleede. Waɗde ɗaanagol moƴƴol ina walla no mbiy-ɗaa e nder ñalnde
+  kala. Caɗeele ɗaanagol e nder nyaw majjere hakkille ena keewi, ina foti yeewteede e doktoor.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Wiɗto UK ndewindoowo ko ɓuri yimɓe 8 000 e nder duuɓi 25 jokkondirii ɗaanagol waktuuji 6 walla ko jaasi e hakkunde nduu e hoolaare nyaw majjere hakkille ɓurnde toowde."
+  - "Waylooji ɗaanagol kadi ena mbaawi wonde maande adannde nyaw majjere hakkille, ɗum waɗi ina saɗi anndude ko saabii e ko ɗum addi."
+  - "Wiɗtooji ko fayti e ɗaanagol laɓɓingol beta-amyloid e hakkille ena goonga, kono ena fuɗɗiima tawo, ko heewi e ko e ɓurguuji."
+  - "Heɓɓugol fooftere ɗaanagol (sleep apnea) ena keewi, ina waawi safaareede, ina jokkondiraa e nyaw majjere hakkille e wiɗtooji; xoore tiiɗnde e ɗaanagol e nder ñalawma ina foti ƴeewteede."
+  - "Taa fuɗɗo, taa dartin, taa waylu lekki walla ballal ɗaanagol hay so gooto, so wonaa e doktoor."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Mbar ɗaanagol mo moƴƴaani ina addana nyaw Alzheimer?"
+    a: "Ɗum holliraaka tawo. Wiɗtooji yoga njokkii ɗaanagol raɓɓiɗungal e hoolaare nyaw majjere hakkille ɓurnde toowde, kono nyaw majjere hakkille kanko tigi ina bonna ɗaanagol, ko heewi duuɓi keewɗi hade anndeede. Dental Lancet 2024 yiɗi seedeeji ɗii ngonaa goonga tan haa limta ɗaanagol e geɗe hoolaare baawɗe wayleede."
+  - q: "Waktuuji ɗaanagol jelu mawɓe cokli?"
+    a: "National Institute on Aging wiyi mawɓe ena cokli ko nanndi e yimɓe heddiiɓe, waktuuji 7 haa 9 e jemma. Mawɓe heewɓe ena ɗaanoo law e finnoo law ɓurɗo ko ɓe wontunoo, ɗum ena heewi."
+  - q: "Ko waɗi neɗɗo wonɗo e nyaw majjere hakkille ɗaanorta e ñalawma, finnotta e jemma?"
+    a: "Nyaw majjere hakkille ina waawi memminde waktuuji ɓandu, ɗum waɗa ɗaanagol e finnde mbaylita. Muuseendi, tiiɗal, weelo walla battane lekki kadi ena mbaawi wallitde heen. Ndaygu, dille ñalnde kala e waɗde jamma deƴƴere ina mbaawi wallude. Doktoor ina waawi ƴeewde sabaabuuji baawɗi safaareede."
+  - q: "Mbar mi foti okkude neɗɗo mo toppit-mi ballal ɗaanagol?"
+    a: "Yeewtu e doktoor makko tawo, hay so ko geɗe coodeteeɗe tawa alaa yamiroore. National Institute on Aging wiyi won lekkiiji ɗaanagol ena mbaawi ɓeydude hoolaare jiingol hoore, yanaade e jiijol hakkille e yimɓe wonɓe e nyaw Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Ɗaanagol e cellal hakkille ena njokkii no laaɓi, kono no ɓe njokkondiri nii ena golliree tawo. Wiɗtooji yoga njokkii ɗaanagol raɓɓiɗungal e hoolaare nyaw majjere hakkille ɓurnde toowde. Nyaw majjere hakkille kadi ena heewi bonnude ɗaanagol. Ngoo hello ena sifta ko wiɗtooji kolliri e ko ɓe kolliraani, ena hokka waɗde ɗaanagol moƴƴol, kadi ena yewta caɗeele ɗaanagol keewɗe e nder nyaw majjere hakkille. Ngoo hello hokkataa tinndinoore ko fayti e lekkiiji ɗaanagol; ɗuum foti yeewteede e doktoor.
 
-## Is poor sleep linked with dementia?
+## Mbar ɗaanagol mo moƴƴaani ena jokkondiraa e nyaw majjere hakkille?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Wiɗtooji yoga juutɗi njokkii ɗaanagol raɓɓiɗungal e hoolaare nyaw majjere hakkille ɓurnde toowde, kono seedeeji ɗii laaɓaaki haa timmi.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Wiɗto UK ndewindoowo duuɓi 25.** Wiɗtooɓe ndewinii ko ɓuri yimɓe mawɓe 8 000 e nder [wiɗto Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Yimɓe ɗaanoɓe waktuuji 6 walla ko jaasi so ɓe njoginoo duuɓi 50 walla 60 njoginoo hoolaare nyaw majjere hakkille ɓurnde toowde yeeso e ɓeen ɗaanoɓe waktuuji 7. Yimɓe ɗaanoɓe waktuuji 6 walla ko jaasi e duuɓi 50, 60 e 70 njoginoo hoolaare ɓurnde toowde ko ɓuri 30% e ɓeen ɗaanoɓe waktuuji 7 no woowiri. Ɗum wonnoo ko wiɗto ndewindagol tan, ɗum holli jokkondiral, wonaa saababu.
+- **Miijo Dental Lancet.** [Dental Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ɓeydaani ɗaanagol e doggol mum geɗe 14 hoolaare baawɗe wayleede. Ɗe yiɗi seedeeji ɗii ngonaa goonga tan. Gooto e sababuuji ko "ruttaade caggal": waylooji hakkille iwɗi e nyaw majjere hakkille ena puɗɗoo duuɓi keewɗi hade anndeede, ina mbaawi kadi bonnude ɗaanagol. E wiɗto mawngo gooto, jokkondiral hakkunde ɗaanagol juutngol e nyaw majjere hakkille majji tuma duuɓi 5 adanɗi ndewindagol ndii ndittaama.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Ɗuum waɗi jemma gooto mo moƴƴaani wonaa huunde hulbinnde. Ɗaanagol moƴƴol, mo woowiri ina foti etaade sabu ina walla wonde e weytaare, tiiɗal hakkille e kisal hannde.
 
-## What is the "brain-clearing" sleep research?
+## Ko honɗun woni wiɗtooji "laɓɓingol hakkille" ɗii?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Aɗa waawi janngude ɗaanagol "ina laɓɓina" hakkille. Ndee miijo ummorii ko wiɗtooji goonga, kono ena fuɗɗiima tawo.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **E ɓurguuji.** Wiɗto 2013 [ngo NIH siftii](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) yiɗi boowal hakkunde piɓe hakkille ɓeydiima ko ɓuri 60% tuma ɓurguuji ɗaanii. Ndiyam yahii no ɓuri newaade e hakkille, e nder ko wiɗtooɓe mbiyata njuɓɓudi glymphatic. Beta-amyloid, proteen jokkondiraaɗo e nyaw Alzheimer, momti no ɓuri yaawde e hakkille ɓurguuji ɗaanoɗi.
+- **E yimɓe.** [Wiɗto 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) pamaroowo ƴeewii yimɓe 20 celluɓe, duuɓi 22 haa 72, caggal jemma moƴƴo e caggal jemma tawa ɗaanaaka. Caggal jemma ɗaanagol alaa oo, maande ƴeewndo hakkille ko fayti e beta-amyloid ɓeydiima ko ɓuri 5% e nokku gooto jeyaaɗo e hippocampus, nokku moƴƴo e teskagol. Winnduɓe ɓee mbiyi ɗum ko seedee fuɗɗoode. Ɓe nganndaaka so waylo ngoo ina motta caggal fowtaare, walla so ngo holli laɓɓingol leeltungol walla beta-amyloid ɓurɗo waɗeede.
+- **Ina yahra seeɗa-seeɗa.** Dental Lancet wiyi joɗnde amyloid kadi ina waawi bonnude ɗaanagol e mawɓe.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Ɗee ko njiytaaɗi ina mballa faamde ko waɗi wiɗtooɓe njiɗi ɗaanagol. Ɗe kolliraani ɗaanagol moƴƴungol ina haɗa nyaw Alzheimer.
 
-## What sleep habits may help?
+## Hol waɗde ɗaanagol baawɗe wallude?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Mawɓe ena cokli ko ɓuri waktuuji 7 haa 9 ɗaanagol e jemma, ko nanndi e yimɓe heddiiɓe, wiya [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Wasiyaaji mum ena jeyaa heen:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Reen sahaa mo woowiri.** Ɗaanodaa e finnodaa e sahaa gooto ñalnde kala, hay so ko aset.
+- **Waɗ waɗde deƴƴere.** Janngu, heɗo jimɗi deƴƴuɗi walla loot e ndiyam ngulɗam hade ɗaanagol.
+- **Waɗ suudu ɗaanagol nde ndeyƴiri,** tawa wonaa wulɗundu walla jaangundu no feewi.
+- **Ustu kafee laaɓtunde ñalawma.** Kafe, saa, soodaa e sokolaa ena mbaawi haɗde ma ɗaanagol.
+- **Reen e njaram,** hay so ko seeɗa, NIA wasiya.
+- **Reen ñaamdu mawndu e nder waktuuji 2 haa 3 hade ɗaanagol,** e njaram mawndam laaɓtunde ñalawma.
+- **Waɗ dille no woowiri, kono wonaa e nder waktuuji 3 hade ɗaanagol.** Yiy [hello amen dille](/brain-health/exercise/).
+- **Reen jaynirɗe e suudu ɗaanagol.** NIA wasiya tawo hollirde tele, walla huutoraade ordinateer, cinndel walla alluwel toon.
+- **Reen ɗaanagol kikiiɗe laaɓtunde ñalawma** so aɗa waawi.
 
-## Sleep problems in dementia
+## Caɗeele ɗaanagol e nder nyaw majjere hakkille
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Waylooji ɗaanagol ena keewi e nder nyaw majjere hakkille. [NIA ina limta](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) ɗaanagol no feewi walla seeɗa no feewi, finnde laabi keewɗi e jemma, e ɗaanagol heewngol e ñalawma. Ena sifta kadi sundowning: annde alaa, mbugal walla jiijol hakkille fuɗɗoowo walla ɓeydoowo tuma ndaygu ina majja.
 
-Caregiver tips from the NIA include:
+Wasiyaaji NIA wonande toppitooɓe ena jeyaa heen:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Heɓ ndaygu e dille law.** Yah boowal walla jooɗo takko henorde e ñalawma, mballaa neɗɗo oo waɗde dille ñalnde kala. Ndaygu jalbugu ina waawi wallude feewnitde waktuuji ɓandu.
+2. **Teelto dille tiiɗuɗe e subaka.** Eto lootde e subaka walla ñaamde ñaamdu ɓurndu mawnude e hakkunde ñalawma.
+3. **Reen ɗaanagol kikiiɗe tawa ko raɓɓiɗe, ko law.** Ustu ɗaanagol laaɓtunde ñalawma.
+4. **Waɗ jamma nde ndeyƴiri.** Ustu annoore, ustu hito, fijo jimɗi deƴƴuɗi so neɗɗo oo ina yiɗi ɗum. Hello amen ko fayti e [annde alaa laaɓtunde ñalawma](/caregiving/late-day-restlessness/) ena jogii miijooji goɗɗi.
+5. **Reen waɗde ɗaanagol mo woowiri.** Janngude e dow daande e sahaa gooto jemma kala ko yeru NIA. [Waɗde ñalnde nde woowiri](/activities/daily-routine/) ina walla kadi.
+6. **Ustu kafee e njaram.**
+7. **Huutoro annoore jemma seeɗa** e suudu ɗaanagol, e laawol, e suudu lootirdu.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Wonande finnde e jemma, [wasiyaaji kisal suudu](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) NIA ena jeyaa heen annoore jemma walla annoore hurmitoore e hoore mum, jogorɗe nanndirɗe e suudu lootirdu, leppi jalbuɗi e ceŋe tolno, e lekki mooftaɗi e nokku sokaaku.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Golle raɓɓiɗe, deƴƴere e jamma ina mbaawi wallude on fof ɗeƴƴude. Eto fowtaare leeltunde [Fooftere Deƴƴere](/games/calm-breathing/) walla [Karte Yeewtere](/games/conversation-cards/) seeɗa e jamma. Reen ko welnata hakkille no feewi ɓadtiiɗe ɗaanagol, dartin tuma kala neɗɗo oo yonii.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Ɗaanagol taƴaaɗo ina tampina toppitooɓe kadi. [Hello amen toppitagol hoore mum](/caregiving/caregiver-self-care/) ena yewta laawol heɓde fowtaare e ballal.
 
-## What about sleep apnea?
+## Hol ko fayti e heɓɓugol fooftere ɗaanagol?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Heɓɓugol fooftere ɗaanagol (sleep apnea) ina addana dartagol fooftere seeɗa e nder ɗaanagol, ko heewi laabi keewɗi e jemma. NIA wiyi so safaaka, ina waawi addude caɗeele hono ɓeydagol toowngol ƴiiƴam, fokkitere walla majjere teskagol. Maandeeji ena jeyaa heen xoore tiiɗnde e ɗaanagol e ñalawma, kadi yimɓe heewɓe nganndaa ɓe njogii ɗum. Dental Lancet ena sifta ƴeewndo wiɗtooji 11, tawa yimɓe jogiiɓe sleep apnea njoginoo hoolaare nyaw majjere hakkille ɓurnde toowde ko ɓuri 43%. Wiɗtooji ɗii keewaani ƴeewde teddeendi ɓandu, ɗuum waɗi jokkondiral ngal laaɓaaki.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sleep apnea ina waawi anndeede e safaareede. NIA wiyi masiŋ CPAP ina walla ko heewi. So an walla neɗɗo mo toppit-ɗaa ina xoora tiiɗɗe, ina darta foofaade e ɗaanagol, walla ina ɗaanoo no feewi e ñalawma, haal doktoor.
 
-## A note about sleep medicines
+## Ciifol ko fayti e lekkiiji ɗaanagol
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Min ndokkataa tinndinoore ko fayti e lekkiiji walla ɓeyditte ɗaanagol. NIA wiyi lekkiiji ɗaanagol ena mbaawi wallude e sahaa seeɗa kono ngonaa safaara insomnia. Ena wiya kadi won lekkiiji dokkiraaɗi wallude yimɓe wonɓe e nyaw Alzheimer ɗaanagol ena mbaawi ɓeydude hoolaare jiingol hoore, yanaade e jiijol hakkille. Taa fuɗɗo, taa dartin, taa waylu lekki ɗaanagol hay so gooto, hay so ko coodeteeɗo tawa alaa yamiroore, so wonaa e yeewtere e doktoor walla toowɗo lekki.
 
-## Talk with a doctor
+## Yeewtu e doktoor
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Yah to doktoor so an walla neɗɗo mo toppit-ɗaa ina tampi sahaa kala, ina jogii caɗeele ɗaanagol ko heewi e jemmunaaji, ina xoora tiiɗɗe, walla ina darta foofaade e jemma. So caɗeele ɗaanagol e nder nyaw majjere hakkille ina njokkii, [NIA ina wasiya](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ƴeewde ballal doktoor. Ƴeewndo ina waawi yiytude sabaabuuji hono muuseendi, nyaw ɗaanagol goɗɗo, ñawu walla battane lekki. Jiijol hakkille jaawngol, walla waylo jaawngol ɗaanagol wondude e jiijol hakkille, ena foti ballal jaawngol. Janngu [tuma yahde to doktoor](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ngoo hello ko humpito kuuɓal tan, wonaa tinndinoore safroo. Yiy [renndo amen safroo](/medical-disclaimer/).

@@ -1,34 +1,36 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "ޑިމެންޝިއާ ހުންނަ މީހުންނަށް 101 ސާދާ މަޝްޣޫލު"
+seoTitle: "ޑިމެންޝިއާ މަޝްޣޫލުތައް: 101 ސާދާ ޚިޔާލު"
+description: "ޑިމެންޝިއާއާ އެކު ދިރިއުޅޭ ބަލިމީހުންނަށް ތައުލު އެޅުމުން ފެށިގެން މިއުޒިކާއި ފޮޓޯތަކަށް ދާންދެން 101 ސާދާ މަޝްޣޫލާއި، ކޮންމެ މަޝްޣޫލެއް ފަސޭހަކުރާ ގޮތް."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  ޑިމެންޝިއާ ހުންނަ މީހުންނަށް ރަނގަޅު މަޝްޣޫލުތަކަކީ އާދަކޮށްފައިވާ، ބަލިމީހަކަށް އެކަށީގެންވާ،
+  އަދި އެކުވެގެން ފަސޭހައިން ކުރެވޭ ކަންކަން: ފެހިކުލަ އެޅުން، ތަކެތި ވަކިކުރުން،
+  ކެއުން ތައްޔާރުކުރުން، މިއުޒިކް، ފޮޓޯ ބެލުން، ހިނގާލުން، ބަގީޗާ މަސައްކަތް،
+  އަނިމަލުންނާ އެކު ވަގުތު ހޭދަކުރުން، އަދި ސާދާ ގޭމްތައް. އެ މީހަކު އަބަދުވެސް
+  ކުރަން ބޭނުންވާ ކަންތައް ހޮވާ، އުނދަގޫ ބައިތައް ތިޔަބޭފުޅުން ކުރައްވާ، އަދި މަޑިކަމުން
+  ދެންނެވޭ ހިނދު ހުއްޓާލާ. ކޮންމެވެސް ކަމެއް ނިންމުމަށްވުރެ، އެކުވެގެން ފުރިހަމަ
+  ވަގުތެއް ހޭދަކުރުން މާ މުހިންމު.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "އެ މީހާގެ ދިރިއުޅުމުން ފަށާ: އެ މީހާގެ މަސައްކަތް، ޝައުޤުވެރިކަން، ދީން އަދި ބޭނުންވާ މިއުޒިކަކީ އެންމެ ރަނގަޅު މަގުދައްކާ އެއްޗެހި."
+  - "ބޭނުންވާ ވަރަށް ކޮންމެ މަޝްޣޫލެއް ކުޑަކުރާ: މަރުހަލާތައް މަދުކޮށް، އިޚްތިޔާރުތައް މަދުކޮށް، އުނދަގޫ ބައި ތިޔަބޭފުޅުން ކުރައްވާ."
+  - "ބަލަމުން އިނުން، އެއްޗެއް ހިފައިގެން އިނުން، ނުވަތަ ކައިރީގައި ހަމައެކަނި އިނުންވެސް ބައިވެރިވުމެއްގެ ގޮތުގައި ހިމެނޭ."
+  - "މަޑިކަން، ކުޅެން ނުޖެހޭކަން، ނުވަތަ މުސްކުޅިވުން ފެންނަ ހިނދު ހުއްޓާލާ ނުވަތަ ބަދަލުކުރާ. ކުރިން ނިންމުން ރަނގަޅު ނަތީޖާއެއް."
+  - "ރަނގަޅަށް ކުރުމަށްވުރެ، އެކުވެގެން ކުރުން މާ މުހިންމު."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "ޑިމެންޝިއާ ހުންނަ މީހަކަށް ރަނގަޅު މަޝްޣޫލުތަކަކީ ކޮބައިތޯ؟"
+    a: "އެ މީހަކު އަހަރުތަކެއް ތެރޭ ކޮށްފައިވާ، ކުޑަކޮށް ފަސޭހަކުރެވޭ އާދަކޮށްފައިވާ މަޝްޣޫލުތައް: ފެހިކުލަ އެޅުން، މޭޒު ތައްޔާރުކުރުން، ކެއުން ތައްޔާރުކުރުން، މިއުޒިކް، ފޮޓޯ ބެލުން، ހިނގާލުން، ބަގީޗާ މަސައްކަތް، އަދި އަނިމަލަކާ އެކު ވަގުތު ހޭދަކުރުން. ބަލިމީހަކަށް އެކަށީގެންވާ، ބޭނުންތެރި ކަންތައް ހޮވައި، އެކުވެގެން ކުރާ."
+  - q: "މަޝްޣޫލެއް ކިހާ ދުވަސް ކުރަން ވީހެއްޔެވެ؟"
+    a: "ރަނގަޅު ވަގުތެއް ކަނޑައެޅިފައެއް ނުވެއެވެ. އެއް ދުވަހަކު ތައުލު ކުޑަ ޓޯކުރިއެއް އެޅުމަށް މިނެޓުކޮޅެއް ފުދޭނެ، އަދި އެހެން ދުވަހަކު ބަގީޗާގައި ގަޑިއެއް ފަސޭހައިން ހޭދަވާނެ. އެ މީހާގެ ރިތުމާ އެއްގޮތަށް ދިޔުމަށް ދޫކޮށް، އަދިވެސް ފުރިހަމަ ކަމުން ދެންނެވޭ ހިނދު ނިންމާ."
+  - q: "އެ މީހަކު މަޝްޣޫލެއް ނުކުރަން ބުންނަނީ ކީއްކުރާނީހެއްޔެވެ؟"
+    a: "މަޖުބޫރު ނުކުރާ. ނޫން ކިޔުމުގެ މާނަ އެކަން މާ އުނދަގޫކަން، ވަގުތު ރަނގަޅެއް ނޫންކަން، ނުވަތަ މަޑިކަމާއި ނުރައްކާތެރިކަން ދެންނެވިދާނެ. ފަހަތަށް އަލުން މަސައްކަތް ކުރާ، ކުޑަ ބަޔަކަށް ހުށަހެޅާ، ނުވަތަ ތިޔަބޭފުޅުން ކައިރީގައި ފަށައިގެން އެހީތެރިވުމަށް ދައުވަތު ދީ."
+  - q: "ޑިމެންޝިއާ ހުންނަ މީހުންނަށް ބްރެއިން ގޭމްތައް ރަނގަޅުހެއްޔެވެ؟"
+    a: "ގޭމްތަކަކީ އެކުވެގެން ފުރިހަމަ ވަގުތެއް ހޭދަކުރުމުގެ ވަސީލަތަކަށް ވެދާނެ، އެކަމަކު އެއްވެސް ގޭމެއް ޑިމެންޝިއާ ފަރުވާކުރާ، މަޑުކުރާ، ނުވަތަ ހުއްޓުވާކަން ދައްކާލާފައެއް ނުވެއެވެ. ޓައިމަރެއް، ސްކޯރެއް، ނުވަތަ ނުބައި ޖަވާބުގެ އަޑެއް ނެތް ގޭމްތައް ހޮވައި، އިމްތިހާނެއްގެ ގޮތުގައި ނޫން، އެކުވެގެން ކުރާ މަޝްޣޫލެއްގެ ގޮތުގައި ބަލާ."
+  - q: "މަޝްޣޫލުތައް ކުޑަކުދިންނަށް ކުރާ ކަމެއްފަދައިން ނުވުމަށް ކުރަންޖެހޭނީ ކީއްހެއްޔެވެ؟"
+    a: "ހަގީގީ، ބަލިމީހުންނަށް އެކަށީގެންވާ ތަކެތި ބޭނުންކުރާ: ހަގީގީ ތައުލު، ހަގީގީ ރެސިޕީތައް، ބަލިމީހުންގެ މިއުޒިކާއި ކުލަ ތަކެތި، އަދި ބަލިމީހުންނަށް އެކަށީގެންވާ ފޮޓޯތައް. ތިޔަބޭފުޅުންނަށް ހަގީގަތުގައި ބޭނުންވާ އެހީއެއްގެ ގޮތުގައި މަސައްކަތް ހުށަހެޅާ، އަދި އެ މީހަކީ ބަލިމީހެއްކަން ހަނދާންކޮށްގެން ވާހަކަ ދައްކާ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +52,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+ޑިމެންޝިއާއާ އެކު ދިރިއުޅޭ މީހަކަށް އެންމެ ރަނގަޅު މަޝްޣޫލަކީ، އެ މީހަކު މިހާރުވެސް ކުރަން ދަންނަ ކަމެއް، ކުޑަކޮށް ފަސޭހަކޮށް، އިތުބާރު ކުރާ މީހަކާ އެކު ކުރާ ކަމެއް ކަމުގައި ވާނެ. ތިރީގައި 101 ޚިޔާލު ބާވަތަށް ބަހާލާފައިވާއިރު، ކޮންމެ މަޝްޣޫލެއް ތައްޔާރުކުރާ ގޮތާއި އުނދަގޫވުމުން ފަސޭހަކުރާ ގޮތް ވެސް ބަޔާންކޮށްދީފައިވާނެ. ޚާއްސަ ސާމާނެއް ބޭނުން ނުވެއެވެ، އަދި ކޮންމެވެސް ކަމެއް ނިންމަން ވެސް ބޭނުމެއް ނެތެވެ. ރަނގަޅު މެންދުރެއް ކަމަށް ވެދާނެ ތައުލު ޓޯކުރިއެއް އަދި ކޮފީއެއް އެކުވެގެން ބޯުމަށް.
 
-## How do you choose the right activity?
+## ރަނގަޅު މަޝްޣޫލެއް ހޮވާނީ ކިހިނެއް؟
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+ލިސްޓުން ނޫން، އެ މީހާގެ ކަމުން ހޮވާ: އެ މީހަކު އަބަދުވެސް ކުރަން ބޭނުންވާ ކަންތަކާއި، މިއަދު ރައްކާތެރިކަމާ އެކު ކުރެވޭ ކަންތަކުން ފަށާ.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **އެ މީހާގެ މަސައްކަތާއި ޝައުޤުވެރިކަން ހަނދާން ކުރައްވާ.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ބުނާ ގޮތުގައި، ކުރިން އޮފީހުގައި މަސައްކަތް ކުރި މީހަކަށް ފައިސާ ވަކިކުރުމަށް ނުވަތަ ލިޔުން އެތެރެކުރުމަށް ކަމުދާނެ، އަދި ބަގީޗާ މަސައްކަތް ކުރާ މީހަކަށް ބަގީޗާގެ މަސައްކަތަށް ކަމުދާނެ.
+- **އެ މީހަކު މިހާރު ކުރާ ކަންތައް ބަލާ.** ތިޔަބޭފުޅުންގެ ބައްޕަ ކޮންމެ ހެނދުނެއް އެދިގެން ނޫން ބޭރުގަނޑު ސާފުކުރަން ދާނަމަ، އެ ކަން ދުވަހުގެ ޕްލޭނަށް ހިމަނާލާ.
+- **ދަތިތައް ހަނދާން ކުރައްވާ.** މަޑިކަން، ނުފެނުން، ނުއިވުން، އަތުގެ ވޭން، އަދި ތެދުވެ ހުރުމުގެ ދަތި ހުރިހާ ކަމެއް މުހިންމު.
+- **އެ މީހާގެ މޫޑު ބަލާ.** ހަލަބޮލި، އަޑު ގިނަ މަޝްޣޫލުތައް ބައެއް މީހުންނަށް އެކަށީގެންވެ، އަނެއްބަޔަކަށް ބިރު އުފެދިދާނެ.
+- **މަޤްޞަދެއް ދީ.** މަސްޖިދުގެ ކެއުމަކަށް ނެޕްކިން އެޅުން، ހަމައެކަނި ކުރާ މަސައްކަތަކަށްވުރެ ބޭނުންތެރި ކަމެއްގެ ގޮތުގައި އިހުސާސް ކުރެވޭނެ.
 
-### A rough guide by stage
+### މަރުހަލާއަށް ބަލާއިރު ކުރު މަގުދައްކާ އެއްޗެއް
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+ޑިމެންޝިއާ އާންމުކޮށް ފަށާ، މެދު އަދި ފަހު މަރުހަލާގެ ގޮތުގައި ބަޔާންކުރެވޭ. މިއީ ތަންކޮޅެއް ނޫން ހަމައެކަނި މަގުދައްކާ ނަންތަކެއް، އަދި ގިނަ މީހުންނަށް ރަނގަޅު ދުވަސްތަކާއި އުނދަގޫ ދުވަސްތައް އެއްފަހަރާ އަނެއްފަހަރު ވާތީ، މިއަދު ފެންނަ ކަމަށް ބަލައިގެން ދިޔުން ރަނގަޅެވެ. [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ވެސް މިފަދަ ގޮތެއް ދައްކާލައެވެ.
 
-| Topic | Early stage | Middle stage | Late stage |
+| ކަންތައް | ފަށާ މަރުހަލާ | މެދު މަރުހަލާ | ފަހު މަރުހަލާ |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| ފެންނަން އެކަށީގެންވާ ކަންތައް | ގިނަ ކަންތައް އަމިއްލައަށް ކުރެވޭ؛ ޕްލޭންކުރުން، އާ ނަންތައް އަދި ހަލަބޮލި ތަންތަން އުނދަގޫވެދާނެ | ފަށަން އަދި މަރުހަލާތަކަށް އެހީ ބޭނުންވެދާނެ؛ ބަސްތައް ފަސޭހައިން ނުއަންނާނެ | ގިނަ ދުވަހުން ކުރާ ކަންތަކަށް އެހީ ބޭނުންވެދާނެ؛ ހިސްތަކުން ލިބޭ ތަޖުރިބާ މާ މުހިންމު |
+| އެކަށީގެންވާ މަޝްޣޫލުތައް | ކާޑު، ބޯޑު ގޭމް، ކެއުން ތައްޔާރުކުރުން، ބަގީޗާ މަސައްކަތް، ލިޔުން، ބޭރަށް ނުކުން، ޖަމާއަތްތައް | ފެހިކުލަ އެޅުން، ތަކެތި ވަކިކުރުން، ކެއުމުގެ ސާދާ މަރުހަލާތައް، ލަވަ ކިޔުން، ފޮޓޯ އަލްބަމް، އެހީތެރިކަމާ އެކު ހިނގާލުން | ބޭނުންވާ މިއުޒިކް، އަތް މަސާޖު، ހިފާލުމަށް ނުރައްކާތެރި ތަކެތި، ކިޔައިދިނުން، ބޭރުގައި އިށީނދެލުން |
+| ތިޔަބޭފުޅުންގެ ބައި | އެކުވެރިޔާ: ކޮން އެހީއެއް ބޭނުންތޯ އަހާ | ތައްޔާރުކޮށް، ދައްކައިދީ، އުނދަގޫ ބައިތައް ކުރައްވާ | މަޝްޣޫލު އެ މީހާގެ އަރިހަށް ގެންދީ؛ ތިޔަބޭފުޅުން އެކުގައި ހުރުމަކީވެސް މަޝްޣޫލެއް |
+| އިތުރު ޚިޔާލު | [ފަށާ މަރުހަލާ](/activities/early-stage/) | [މެދު މަރުހަލާ](/activities/middle-stage/) | [ފަހު މަރުހަލާ](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## ޑިމެންޝިއާ ހުންނަ މީހަކާ އެކު މަޝްޣޫލެއް ފަށާނީ ކިހިނެއް؟
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+ކުޑަކޮށް ފަށާ، އެކުގައި ފަށާ، އަދި އާން ކިޔުން ފަސޭހަ ކޮށްދީ. ގިނަ މީހުން ބައިވެރިވަން ބޭނުންވިޔަސް، ޕްލޭންކުރުން ނުވަތަ ފެށުން އުނދަގޫވެދާނެ.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **އެންމެ ރަނގަޅު ވަގުތު ހޮވާ،** ގިނަ ފަހަރަށް ހެނދުނު.
+2. **ހުރިހާ ތަކެއްޗެއް ކުރިން ތައްޔާރުކޮށްލާ** އެހެންކަމުން ވަގުތުން ފެށޭނެ.
+3. **ދައްކާލުމެއް ނޫން، އެހީއެއް އެދުމަށް ދައުވަތު ދީ:** ”މި ކަމާ ކުޑަ އެހީއެއް ދެއްވާލަންތޯ؟“
+4. **ތިޔަބޭފުޅުން ފަށައިގެން ދޭ.** ފުރަތަމަ ތައުލު އެޅުމަށްފަހު އެ މީހަކު ބައިވެރިވުމަށް ދޫކޮށްލާ. ދައްކައިދިނުން ބަޔާންކުރުމަށްވުރެ ފަސޭހަ.
+5. **އެއް ފަހަރަކު އެއް މަރުހަލާ ދީ.**
+6. **އެންމެ އުނދަގޫ ބައި ތިޔަބޭފުޅުން ކުރައްވާ.** Alzheimer's Association ދައްކާ ގޮތުގައި، ތިޔަބޭފުޅުން ތަކެތި މިނުމަށްފަހު ހަލުވަން ތަޅުދަނޑި އެ މީހާގެ އަތަށް ދެއްވާ.
+7. **އެ މީހާގެ ގޮތަށް ކުރުމަށް ދޫކޮށްލާ.** ތައުލު ތަފާތު ގޮތަކަށް އެޅިއްޔަސް ކަމެއް ނެތް.
+8. **ފުރިހަމަ ކަން ހުއްޓުމުން ހުއްޓާލާ.** ހަރަކާތް ގިނަވުން، ކޮތް މަޑުކުރުން، ނުވަތަ ”އަހަންނަކަށް ނުކުރެވޭ“ ކިޔުން އަކީ ބަދަލުކުރަން ނުވަތަ އަރާމުކުރަން ވަގުތު އައިކަމުގެ އިޝާރާތް.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+[އެކުވެގެން ކުރާ ގޮތް](/caregiving/how-to-play-together/) އަދި [ވާހަކަ ދެއްކުމުގެ އިރުޝާދު](/caregiving/communication-tips/) ވެސް ބައްލަވާ.
 
-## Everyday tasks at home
+## ގޭގެ ދުވަހުން ކުރާ ކަންތައް
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+ގޭގެ މަސައްކަތްތަކަކީ އާދަކޮށްފައިވާ، ބޭނުންތެރި ކަންތައް، އެހެންކަމުން ފެށުމަށް ރަނގަޅު ތަނެކެވެ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ތަށި ދުއްވުން، މޭޒު ތައްޔާރުކުރުން، ސާފުކުރުން، ސިޓީ ވަކިކުރުން އަދި ފެހިކުލަ އެޅުން ފަދަ ކަންތައް މީހުން ކުރަން ބޭނުންވާނެ ކަމަށް ބަޔާންކުރެއެވެ. [ގޭގެ މަސައްކަތްތައް](/activities/household-tasks/) ގައި އިތުރު ބައްލަވާ.
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **ހޫނު ތައުލު އެޅުން.** ޑްރަޔަރުން ނެގި ޓޯކުރިއެއް މޭޒަށް އަޅާފައި ކައިރިކައިރިން އެޅުން. ފަހަތަށް، ހަމަ ފިނިކޮށް އެއްތަނަކުރުން ވެސް ބޭނުންތެރި އެހީއެކެވެ.
+2. **މޭޔާޖު ޖޯޑުކުރުން.** ވަރަށް ތަފާތު ކުލަތަކުން ފަށާ. ފަހަތަށް، ހުދު އަދި ކަޅު ވަކިކުރުން ފުދޭނެ.
+3. **މޭޒު ތައްޔާރުކުރުން.** އެއް ފަހަރަކު އެއް ބާވަތުގެ ތަކެއްޗެއް ދީ. ނަމޫނާއަކަށް ތިޔަބޭފުޅުން އެއް ތަނެއް ތައްޔާރުކޮށްދޭ.
+4. **ތަށި ދުއްވުން ނުވަތަ ހިއްކުން.** ހޫނު ސާބުނީ ފެނާއި ނުބެހޭ ތަށި. އިށީނދެލައިގެން ހިއްކުން ފަސޭހަ.
+5. **މޭޒު އޮޅުން.** ކެއުމަށްފަހު އޮޑި ކަޅެއް ދީ. ދަތިވާ އަތްތަކަށް މިއީ ހަގީގީ މަސައްކަތެކެވެ.
+6. **ސިޓީ ވަކިކުރުން.** ކެޓަލޮގާއި ބޭނުން ނުވާ ސިޓީ ”ބަހައްޓާ“ އަދި ”އުކާލާ“ ގޮތަށް ވަކިކުރުން. ހަގީގީ ބިލްތައް ދުރުކޮށްލާ.
+7. **ކޫޕަން ކަނޑުން.** ރައުންޑު އަނެއްކޮޅު ކަތުރާއި ކާބޯތަކެތީގެ ފްލަޔަރު. ފަހަތަށް، ބޭނުންވާ ކާނާ ވަށައިގެން ރައުންޑު ކުރުން ވެސް ކުރެވޭނެ.
+8. **ފައިސާ ވަކިކުރުން.** ޗޭންޖު ކަޕުތަކަށް ވަކިކުރުން ނުވަތަ ރޯލުކުރުން. އެ މީހަކު ކުޑަ ތަކެތި އަނގައަށް ނަގާ ކަމަށް ވާނަމަ، ކުޑަ ތަކެތި ދޫކޮށްލާ.
+9. **ސާފުކުރުން ނުވަތަ ދޫލި ނަގުން.** ބޭރުގަނޑުގައި ފުރާލާ ހިލައިކޮޅެއް، ނުވަތަ ގޮނޑިއެއް މަތީ އިށީނދެލައިގެން ދިގު ދަތި ދޫލި ނަގާފަތިއެއް.
+10. **ކެއުން ތައްޔާރުކުރުމަށް އެހީތެރިވުން.** ތަރުކާރީ ދޮވުން، ލެޓިސް ވަރަށްކުރުން، ހަލުވުން. ކަތުރާއި ހޫނުކަން ތިޔަބޭފުޅުން ބަލަހައްޓާ.
+11. **އާއިލާގެ ރެސިޕީއެއް ތައްޔާރުކުރުން.** އެ މީހާގެ އަތުލިޔުމުން އޮތް ކާޑެއް އޮތްނަމަ ބޭނުންކުރާ. ފަހަތަށް، ރަހަ ބަލާ މީހާގެ ގޮތުގައި ބައިވެރިވެވޭނެ.
+12. **އޮފީސް މަސައްކަތް ކުރުން.** ސިޓީ އެޅުން، ލިފާފައަށް ތަކެތި ޖައްސައި ސްޓޭމްޕު ޖެހުން، ނުވަތަ އެކުވެގެން ބާޒާރު ލިސްޓު ލިޔުން.
 
-## Music
+## މިއުޒިކް
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+އާދަކޮށްފައިވާ މިއުޒިކަށް ބަސްތައް އުނދަގޫވެފައި ހުރި ހިނދުވެސް ހިތަށް އަރާނެ. [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) އިރުޝާދު ދެނީ އާދަކޮށްފައިވާ ލަވަތައް، ވިޔަފާރީގެ އިޝްތިހާރު ނެތްކަން، އަދި ޓީވީ ނިއްވާލުމަށެވެ. [މިއުޒިކް މަޝްޣޫލުތައް](/activities/music/) ބައްލަވާ.
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **އެ މީހާއަށް ޚާއްސަ ޕްލޭލިސްޓެއް ހަދާ.** ޒުވާން ދުވަސްވަރު، ކައިވެނީގެ، ދީނީ އަދި ސަޤާފީ މިއުޒިކް.
+14. **އެކުގައި ލަވަ ކިޔުން.** ތިޔަބޭފުޅުން ފަށައިގެން ދޭ. ހަމައެކަނި އަޑު ނަގުން ނުވަތަ އަޑު އަޑުއަހާ އިނުން ވެސް ބައިވެރިވުމެކެވެ.
+15. **ތާލު ބަހައްޓާ.** އަތް ޖެހުން، ކަކޫ ޖެހުން، ނުވަތަ ހަތުގައި ބަހައްޓާ ޑްރަމެއް. އިށީނދެލައިގެން ކުރެވޭތީ ފަހު މަރުހަލާގައި ވެސް އެކަށީގެންވޭ.
+16. **ނަށާ.** ކިޗަންގައި މަޑުމައިތިރިން ނަށާ، ނުވަތަ އަތް ހިފައިގެން އިށީނދެލައިގެން ލަސްލަހުން ހަރަކާތްތެރިވުން.
+17. **މުޅި އަލްބަމެއް އަޑުއަހާ.** ބޭނުންވާ ރެކޯޑެއް ފެށުން ނިމުން އަސްލު، ކޮފީއާ އެކު، އެހެން އެއްވެސް ކަމެއް ނެތި.
+18. **މިއުޒިކާ ބެހޭ ގޮތުން ވާހަކަ ދައްކާ.** ހަގީގަތް ނޫން، ވާހަކަ އެދުމަށް ދައުވަތު ދީ: ”އެ ދުވަސްވަރު ދިޔަ ނަށާ ހަފްލާތަކުގެ ވާހަކަ ކިޔައިދެއްވާލަންތޯ.“
+19. **ރެކޯޑުކޮށްފައިވާ މިއުޒިކަލް ނުވަތަ ކޮންސަޓެއް ބަލާ.** އެ މީހަކު ބޭނުންވި ޝޯއެއް ރަނގަޅު ރޭގަނޑަކަށް ވެދާނެ. ކޮންމެ ވަގުތެއްގައި ހުއްޓާލެވޭނެ.
+20. **އާދަކޮށްފައިވާ ވާދިޔައެއް ޖަހާ.** ކުރިން ޕިއާނޯ ޖެހި މީހަކަށް ސާދާ ލަވަތަކުން ކަމުދާނެ؛ ފަހަތަށް، އެކުވެގެން ކުޑަ ނޯޓުކޮޅެއް ޖެހުން ފުދޭނެ.
+21. **ދިރިހުރި މިއުޒިކް އަޑުއަހާ.** ކުޑަ މުޖުތަމައީ ކޮންސަޓެއް ނުވަތަ ކޯރަސް ތަމްރީނެއް. ނުކުމެވޭ ދޮރާ ކައިރީގައި އިށީނދެލާ.
 
-## Reminiscence: photos, objects and stories
+## ހަނދާން އާކުރުން: ފޮޓޯ، ތަކެތި އަދި ވާހަކަ
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+މާޒީ އިމްތިހާން ނުކޮށް، އެކުވެގެން އަލުން ހަނދާން ކުރާ. ”ހަނދާން އަރަނީތަ؟“ އަދި ”މިއީ ކޮން މީހެއް؟“ ފަދަ ސުވާލުތައް ދޫކޮށްލައި، ހުޅުވާލެވޭ ދައުވަތު ދީ. [ހަނދާން އާކުރުމުގެ މަޝްޣޫލުތައް](/activities/reminiscence/) ބައްލަވާ.
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **ފޮޓޯ އަލްބަމެއް ބަލާ.** ފެންނަ ކަން ބުނާ: ”މިއީ ކިހާ ރީތި ގައުމެއް. މި ދުވަހުގެ ވާހަކަ ކިޔައިދެއްވާލަންތޯ.“ އެ މީހަކު ބޭނުންކުރާ ކޮންމެ ނަމެއް އެގޮތަށް ބަލާލާ.
+23. **ހަނދާން ފޮށިއެއް ހަދާ.** އެ މީހާގެ ދިރިއުޅުމުން ތަކެތި ހިމެނޭ ފޮށިއެއް، މިސާލަކަށް މަސައްކަތުގެ ބެޖެއް ނުވަތަ ރެސިޕީ ކާޑެއް. އެއް ފަހަރަކު އެއް ތަކެއްޗެއް ނެގުން.
+24. **ދިރިއުޅުމުގެ ވާހަކަ ފޮތެއް ފަށާ.** ކޮންމެ ޞަފްޙާއަކަށް ފޮޓޯ ކުޑަ އަދަދަކާއި ބޮޑު އަކުރުގައި ކުރު ބަޔާނެއް. މިއީ އާ އެހީތެރިންނަށް އެ މީހާ ދެނެގަންނަން ވެސް އެހީތެރިވެދާނެ.
+25. **ވާހަކަ ކާޑު ބޭނުންކުރާ.** [Conversation cards](/games/conversation-cards/) ފޮޓޯއެއް އަދި ހުޅުވާލެވޭ ސުވާލެއް އެއްކޮށްދެއެވެ.
+26. **އާއިލާގެ ފޮޓޯ ގޭމެއް ހަދާ.** [Photo pairs](/games/photo-pairs/) ތިޔަބޭފުޅުންގެ އަމިއްލަ ފޮޓޯތައް ޖޯޑުކުރާ ގޭމަކަށް ހަދައެވެ.
+27. **ގޭގެ ވީޑިއޯ ނުވަތަ ކުރީގެ ޓީވީ ޕްރޮގްރާމް ބަލާ.** ސުވާލު ނުކޮށް އެކުވެގެން ކޮމެންޓް ކުރާ.
+28. **އެ މީހާގެ މަސައްކަތާ ގުޅޭ ތަކެތި ހިފާލާ.** ރެނޗެއް، ސްޓެތަސްކޯޕެއް، ލެޖަރެއް. ގިނަ ފަހަރަށް އަތުން ހިފުމުން ވާހަކަ ފެށޭ.
+29. **ކުދިންގެ ދުވަސްވަރު ކައި ކަމެއް ތައްޔާރުކުރުން.** އެ މީހަކަށް ހަލުވާލެވޭނެ، ރަހަ ބަލާލެވޭނެ، ނުވަތަ ހަމައެކަނި ތިޔަބޭފުޅުންނާ އެކު ކިޗަންގައި އިށީނދެލެވޭނެ.
+30. **ދިރިއުޅުއްވި ތަންތަނުގެ މެޕެއް ބަލާ.** ބޮޑު އެޓްލަސެއްގައި އާދަކޮށްފައިވާ މަގުތައް އިނގިލިން ދައްކައިގެން ވާހަކަ ދައްކާ.
 
-## Creative activities
+## ހުނަރުވެރި މަޝްޣޫލުތައް
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+ކުލަ މަސައްކަތަކީ ކުރުމުގެ ތަޖުރިބާ، ނިމުނު ތަކެއްޗެއް ނޫން. ތަކެތި ބަލިމީހުންނަށް އެކަށީގެންވާ އަދި ރައްކާތެރި ގޮތަށް ބަހައްޓާ. [ކުލަ އަދި ހަތްކަންތައް](/activities/arts-and-crafts/) ބައްލަވާ.
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **ވޯޓަރ ކަލަރުން ކުލަ ޖަހާ.** ބުރު ކަރުދާސް، ކުޑަ ކުލަ އަދަދެއް. ފެށުން އުނދަގޫވާނަމަ، ފުރަތަމަ ރޮނގުތައް އެކުގައި ޖައްސާ.
+32. **ބަލިމީހުންނަށް އެކަށީގެންވާ ޑިޒައިން ކުލަ ޖަހާ.** މާ، ގުއިލްތް ފަދަ ކަންތައް، ކާޓޫން ނޫން. އަޅުގަނޑުމެންގެ [ކުލަ ޖެހުމުގެ ޞަފްޙާތައް](/games/coloring/) ސްކްރީނުގައްޔާއި ޕްރިންޓުކޮށް ބޭނުންކުރެވޭ.
+33. **ކޮލާޖެއް ހަދާ.** ބަގީޗާ، ކާރު ނުވަތަ ކާނާގެ މެގަޒީން ފޮޓޯ ވަރަށްކޮށް ގު ޖަހާ. ފަހަތަށް، ފޮޓޯ ހޮވުން އެކަނި ފުދޭނެ.
+34. **މާ ތައްޔާރުކުރުން.** ކާބޯތަކެތީގެ ފިހާރައިން ގަނެވޭ މާ ބަނޑެލެއް އަދި ފްލަވަރ ވޭސެއް. ފަހަތަށް، ޖާޑެއްގައި ކުޑަ ދަގަނޑު ކޮޅެއް.
+35. **އެކުވެގެން ބުނުން ނުވަތަ ކްރޮޗެ ކުރުން.** ބޮޑު ސިޔާކުރުން ސާދާ ރޯތައް. ފަހަތަށް، ނޫލު ބޯޅަކަށް އެޅުން.
+36. **އާއިލާއަށް ކާޑު ހަދާ.** ހަގީގީ މީހުންނަށް އުފަންދުވަސް ނުވަތަ ދުއާ ކާޑު ސްޓޭމްޕުކޮށް، ސޮއިކޮށް، ނުވަތަ ކުލަ ޖަހާ.
+37. **ހަވާއިން ހިކޭ މަށިން ކަންތައްކުރުން.** ކުޑަ ތަށިއެއް ފިއްތާ. ޒަހަރު ނެތް ތަކެތި ބޭނުންކޮށް، ކައިރީގައި ހުރާ.
+38. **ލަކުޑި ސޭންޑްކޮށް ނިންމާ.** ކުރިން ކަނޑާފައިވާ ދޫނި ގެއެއްގެ ކިޓާއި ސޭންޑްޕޭޕަރ، ޕަވަރ ޓޫލް ނެތި. [ފިރިހެނުންނަށް މަޝްޣޫލުތައް](/activities/for-men/) ބައްލަވާ.
+39. **ސިޓީއެއް ލިޔުން ނުވަތަ ކިޔައިދިނުން.** ދަރިފުޅަކަށް ނުވަތަ ކުރީގެ ރަހުމަތްތެރިޔަކަށް. ލިޔުން އުނދަގޫވާނަމަ، އެ މީހަކު ކިޔާ ބަސް ތިޔަބޭފުޅުން ލިޔުއްވާ.
 
-## Outdoors and gardening
+## ބޭރު މަސައްކަތާއި ބަގީޗާ
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+ތާޒާ ވައިރޯޅިއާއި ދުވާލުގެ އަލި ރަނގަޅު އެކުވެރިންނެވެ. [ބޭރާއި ބަގީޗާގެ މަޝްޣޫލުތައް](/activities/outdoor-and-gardening/) ބައްލަވާ.
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **ގަސްގަހާގެހިންނަށް ފެން ޖެހުން.** ކުޑަ ކެންއެއް އަދި ކުޑަ ވާހަކަ އަދަދެއް. ކޮންމެ ދުވަހަކު ފެން ޖެހުން ދުވަހަށް ރިތުމެއް ގެނެސްދޭ.
+41. **ވާހަކައެއްގައި ގަސް އިންދުން.** ކޮންމެ މީހަކު ވެސް ކޮނު ޖެހުމަކަށް ނުޖެހޭ ގޮތަށް މޭޒެއް މަތީ ބަހައްޓާ. ބިތުން ފަށާތަށްވުރެ ކުދަ ގަސްކޮޅު އިންދުން ފަސޭހަ.
+42. **ރޫޓާ ނަގުން ނުވަތަ ވެއްޓިފައިވާ މާ ނަގުން.** ގްލަވްސް އަޅައިގެން، އެއް ފަހަރަކު ކުޑަ ބަޔެއް.
+43. **ގަސްފަތް އެއްކުރުން.** ކުޑަ ތަނެއް. ފަހަތަށް، ކޮތަޅު ހުޅުވާލައިގެން ހުރުން ވެސް ހަގީގީ މަސައްކަތެކެވެ.
+44. **އާދަކޮށްފައިވާ މަގެއްގައި ހިނގާލުން.** ގެސަރަހައްދު ވަށައިގެން ނުވަތަ ސިޓީ ފޮށި އަރިހަށް. ކުރު ހިނގާލުމެއް ވެސް ރަނގަޅެވެ.
+45. **އެކުވެގެން ބޭރުގައި އިށީނދެލުން.** ރަނގަޅު މޫސުމެއްގައި ބޭރުގަނޑުގެ ގޮނޑިއެއްގައި. ވިލާތައް ނުވަތަ ދަތުރުވެރިން ބަލާލާ.
+46. **ދޫނިތަކަށް ކާނާ ދިނުން.** އެކުވެގެން ފީޑަރު ފުރުވައި، ދޮރުމަތީ އިނދިގެން ބަލާ.
+47. **ކާރު ދޮއްވުން.** ބާލްޑި، ސްޕޮންޖު، ހޫނު މެންދުރެއް. ހަބްކެޕް ދޮއްވުން ރަނގަޅު އެއް މަރުހަލާގެ މަސައްކަތެކެވެ.
 
-## Sensory activities
+## ހިސްތަކަށް ބުރަ ކުރާ މަޝްޣޫލުތައް
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+ޑިމެންޝިއާ ކުރިއަށް ދާއިރު، ހިފުން، ވަހުން، ރަހުން، އަޑު އަދި ފެނުން މާ މުހިންމުވެދާނެ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ފަހު މަރުހަލާތަކުގައި މިއުޒިކް، ހިފާލުމަށް ތަކެތި، އަދި އަތް މަސާޖު ފަދަ ކަންތައް ދައްކާލައެވެ. ކުރިން އެލާޖީއާއި ގޮވާލިދާނެ ކަންކަން ބަލާ؛ [ހިސްތަކަށް ބުރަ ކުރާ މަޝްޣޫލުތައް](/activities/sensory/) ބައްލަވާ.
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **އަތް މަސާޖު ކުރުން.** ކުރިން އަހާލައި، ކުޑަ ލޯޝަނެއް ބޭނުންކުރާ. ހަމުގެ ނުވަތަ އެލާޖީގެ ކަން ޔަޤީން ނޫންނަމަ ވަހެއް ނެތް ލޯޝަނެއް ހޮވާ.
+49. **ތަފާތު ފެހިކުލަ ހިފާލާ.** ވެލްވެޓް، ކޯޑުރޯއި، ވޫލް އަދި ސެޓިން ހިމެނޭ ޓޯކުރިއެއް، ހިފާލުމަށާއި އެޅުމަށް.
+50. **ހެދުން އަދި ކޮފީގެ ވަހުން އަހާ.** ތާޒާ ކޮއްކޯފަތް ނުވަތަ ރޯޒްމެރީ އިނގިލިން ހިފާ. ނޭފަތުގެ މައްސަލަ އޮތްނަމަ ބާރު ވަހެއް ދޫކޮށްލާ.
+51. **އިސްތަށި ބުރުޝްކުރުން.** އެ މީހަކު ބޭނުންވާނަމަ، މަޑުމައިތިރިން އަދި ލަސްލަހުން.
+52. **ހޫނު ވޮއްޓަ ކަޅެއް ބޭނުންކުރުން.** ފިނި ދުވަހެއްގައި އަތާއި މޫނަށް. ކުރިން ހޫނުމިން ބަލާ.
+53. **އެކްޓިވިޓީ އެޕްރަނެއް ބަލާ.** ބޮޑު ބުޓަނާއި ޒިޕް ރަނގަޅަށް ފަހަލާފައިވާ. އެއްވެސް ތަކެއްޗެއް ވަކިވެގެން ނުދާނެ ކަން ބަލާ.
+54. **ބޭނުންވާ ކާނާއެއް އެކުވެގެން ރަހަ ބަލާ.** ކުޑަ ޗަމުޗެއް، އެ މީހަކަށް ރައްކާތެރިކަމާ އެކު ކެވޭ ބާވަތެއްގައި.
+55. **ތިމާވެށީގެ އަޑު އަޑުއަހާ.** ވިއްސާރަ، ރާޅު ނުވަތަ ދޫނިތަކުގެ އަޑު، ދަށް އަޑުން.
+56. **މަޑުމައިތިރި ކަމެއް ބަލާ.** މަހުގެ ޓޭންކެއް، ތިމާވެށީގެ ވީޑިއޯއެއް ނުވަތަ ވެހޭ ވައިސްފިނި.
 
-## Games and puzzles
+## ގޭމް އަދި ޕަޒްލް
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+ޓައިމަރެއް، ސްކޯރެއް ނުވަތަ ފިއްތާލުމެއް ނެތް ހިނދު ގޭމްތައް ކުރެވޭ. އިމްތިހާނެއްފަދައިން ދެންނެވުމުން އެއްކޮޅަށް ބަހައްޓާ. [އެޕް އަދި ގޭމް ހޮވުން](/caregiving/choosing-apps-and-games/) އަދި [ބްރެއިން ގޭމްތައް](/brain-health/brain-games/) ބައްލަވާ.
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **ފޮޓޯ ޖޯޑުކުރުން.** [Picture pairs](/games/picture-pairs/) ފޮޓޯ ހުޅުވާލައިގެން ބެހެއްޓޭ، އެހެންކަމުން މިއީ ހަނދާން ކުރުމެއް ނޫން، ބަލައި ދެނެގަތުމެކެވެ.
+58. **ހަމަ ފޮޓޯ ހޯދުން.** [Find the same](/games/find-the-same/) ދޭނީ ދެއިން ހަތަރަށް އިޚްތިޔާރު. ކޮންމެ ފޮޓޯއެއްގެ ވާހަކަ ކުރާ.
+59. **ޓޯކުރިތަކަށް ވަކިކުރުން.** [Sort together](/games/sort-together/) މޭޔާޖު ވަކިކުރުމާ އެއްގޮތް ސްކްރީނުގައި.
+60. **ބޮޑު ޓުކުރި ޖިގްސޯ ކުރުން.** ބަލިމީހުންނަށް އެކަށީގެންވާ ފޮޓޯ، ފަސޭހަ އަދަދެއް. [Picture puzzle](/games/picture-puzzle/) މުޅި ފޮޓޯ ފެންނަ ގޮތަށް ބަހައްޓާ. [ޑިމެންޝިއާއަށް ޕަޒްލް](/activities/puzzles/) ގައި އިތުރު.
+61. **ކުރީގައި ކުޅެމުން ގޮސްފައިވާ ކާޑު ގޭމެއް ކުޅުން.** އަހަރުތަކެއް ކުޅެފައިވާ ގޭމް. ފަހަތަށް، ޑެކް ކުލައަށް ވަކިކުރުން ވެސް ގޭމެއް ކަމުގައި ވެދާނެ.
+62. **ޑޮމިނޯ ކުޅުން.** އަނެއްކޮޅު ޖޯޑުކުރުން. ފަހަތަށް، ހަމަ ޓައިލް އެއްފަހަރާ އަނެއްފަހަރު އެތެރެކުރުން ވެސް ރަނގަޅެވެ.
+63. **ބޮޑު އަކުރުގެ ވޯޑް ސަރޗެއް މަސައްކަތް ކުރާ.** އަޅުގަނޑުމެންގެ [ވޯޑް ސަރޗް](/games/word-search/) ގައި ބަސްތައް ހުރީ ހަމައެކަނި ކަނާތާއި ތިރިއަށް، އަދި ޕްރިންޓު ކުރެވޭ.
+64. **އާދަކޮށްފައިވާ މަސަލަވެރި ބަސް ނިންމާ.** [Finish the saying](/games/finish-the-saying/) ކޮންމެ ވަގުތެއްގައި ނިމުން ދައްކާލެވޭ.
+65. **ފޮޓޯ ބިންގޯ ކުޅުން.** [Picture bingo](/games/picture-bingo/) އާއިލާއާއި ގްރޫޕްތަކަށް އެކަށީގެންވޭ. ކާޑު މާކުކުރުމަށް ހިތްހަމަޖެހޭ ގޮތަށް އެހީތެރިވާ.
+66. **ޗެކަރސް ކުޅުން.** ގަވާއިދު ލަސް ބަހައްޓާ. ވާހަކަ ދައްކަމުން ގެންދިޔުމުން ޓުކުރި ހަރަކާތްތެރިކުރުން ވެސް ބައިވެރިވުމެކެވެ.
 
-## Movement
+## ހަރަކާތްތެރިވުން
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA އިރުޝާދު ދެނީ ހިނގާލުން، ސްޓޭޝަނަރީ ބައިސްކަލް، ސްޓްރެޗިންގ ބޭންޑް، ނުރައްކާތެރި ބޯޅަ ނުވަތަ ބެލޫން އުކާލުން، ސޫޕް ޓިން އުފުލުން، އަދި ދުވަސްވީ ބޭފުޅުންނަށް ކަސްރަތު ވީޑިއޯ ފަދަ ކަންކަމަށެވެ. އާ ކަމެއް ފެށުމުގެ ކުރިން ޑޮކްޓަރަކާ މަޝްވަރާ ކުރައްވާ، ޚާއްޞަކޮށް ތެދުވެ ހުރުމުގައި ދަތިތަކެއް އޮތްނަމަ.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **ބެލޫން އުކާލުން.** ދެބޭފުޅުން ދިމާލަށް އިށީނދެލާ. މިއީ މަޑުމައިތިރިން ދާތީ ހިފުން ފަސޭހަ.
+68. **ދުވަސްވީ ބޭފުޅުންނަށް ހަދާފައިވާ އިށީނދެލައިގެން ކުރާ ކަސްރަތު ވީޑިއޯއެއް** ކައިރިކައިރިން ބަލައިގެން ކުރުން.
+69. **ބޭންޑަކުން ސްޓްރެޗް ކުރުން.** އިށީނދެލައިގެން ފުރާލާ ބޭންޑަކުން މަޑުމައިތިރިން އަތް ދިގުކުރުން.
+70. **ސޫޕް ޓިން އުފުލުން.** މަޑުމައިތިރިން އަތް މައްޗަށް އުފުލުން، މިއުޒިކާ އެކު ކުރެވިދާނެ.
+71. **ސްޓޭޝަނަރީ ބައިސްކަލް ދުއްވުން.** ފަސޭހަ މިނެޓުކޮޅެއް، ތިޔަބޭފުޅުން ކައިރީގައި.
+72. **ސްކާފާ އެކު ނަށާ.** ފުރާލާ ސްކާފް މިއުޒިކާ އެކު ހަރަކާތްތެރިކުރުން، އިށީނދެލައިގެން ނުވަތަ ހުރެގެން.
+73. **މަޤްޞަދަކާ އެކު ހިނގާލުން.** ސިޓީ ފޮނުވަން ނުވަތަ ކޮފީ ގަންނަން. ދިއުމަށް ސަބަބެއް އޮތުމުން އާދައިގެ ކަމެއްފަދައިން އިހުސާސް ކުރެވޭ.
+74. **އެކުވެގެން ނެވުމުގެ ވަގުތެއް ހޭދަކުރުން.** [ހަމަޖެހޭ ނެވުން](/games/calm-breathing/) އާ އެކު މަޑުމައިތިރިވުން.
 
-## Social activities
+## އިޖްތިމާއީ މަޝްޣޫލުތައް
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+ނަން ހަނދާން ނުކުރެވުނު ކަމުގައި ވީނަމަވެސް އެކުވެރިކަން މުހިންމު، އަދި ބޮޑު ޖަމާއަތްތަކަށްވުރެ ކުޑަ ޖަމާއަތްތައް ފަސޭހަ. NIA ބުނާ ގޮތުގައި، މީހަކަށް ޒިޔާރަތްކުރި މީހާ ކާކުކަން ހަނދާން ނުކުރެވުނު ކަމުގައި ވީނަމަވެސް، އެ އެކުވެރިކަމުން އުފާ ލިބިދާނެ. [ޒިޔާރަތް](/activities/visiting/) ބައްލަވާ.
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **އެއް ފަހަރަކު އެއް ނުވަތަ ދެ މީހަކު ޒިޔާރަތް ކުރުން.** ހަމަހިމަ ކޮޓަރިއެއްގައި ކުރު ޒިޔާރަތެއް، ބަލާލުމަށް ފޮޓޯތަކާ އެކު.
+76. **އާއިލާއާ ވީޑިއޯ ކޯލް ކުރުން.** ކުރު ކޯލް، އެއް ފަހަރަކު އެއް އަޑެއް. [ފޯނާއި ވީޑިއޯ ކޯލް](/activities/phone-and-video-calls/) ބައްލަވާ.
+77. **ހަނދާން ކެފޭއެއް މަސައްކަތް ކުރާ.** ޑިމެންޝިއާއާ އެކު ދިރިއުޅޭ މީހުންނާއި ބެލެނިވެރިންނަށް އާދައިގެ ބައްދަލުވުމުގެ ޖަމާއަތްތައް. ގާތްތެރި ދުވަސްވީ މީހުންގެ ޚިދުމަތް މަރުކަޒަކަށް ނުވަތަ ކައުންސިލަކަށް އަހާލައި ކައިރީގައި ހުރި ތަނެއް ހޯދާ.
+78. **ހަމަހިމަ ވަގުތެއްގައި ބޭރުގައި ކެއުން.** NIA އިރުޝާދު ދެނީ އާދަކޮށްފައިވާ، ހަމަހިމަ ރެސްޓޯރަންޓެއް، މީހުން މަދު ވަގުތެއްގައި، ބައިތުޅަށް ކައިރި މޭޒެއް ހޮވުމަށެވެ.
+79. **ސީނިއާ ސެންޓަރެއް ނުވަތަ ދުވަހުގެ ޕްރޮގްރާމެއް ޒިޔާރަތް ކުރުން.** އެ މީހަކަށް އެކުވެރިކަމާއި، ތިޔަބޭފުޅުންނަށް އަރާމުކުރުމުގެ ވަގުތެއް.
+80. **ކުދިންނާ އެކު ވަގުތު ހޭދަކުރުން.** ދަރިފުޅުންގެ ކުރު، ހަމަހިމަ ޒިޔާރަތެއް، ނުވަތަ ކުޑަކުއްޖަކަށް ފޮޓޯ ފޮތެއް ކިޔައިދިނުން.
+81. **ކޮފީއާ އެކު ނޫސް ހިއްސާކުރުން.** ސުރުޚީ ބޮޑަށް ކިޔައިދީ. ޚަބަރަށްވުރެ އެ ރިތުން މުހިންމު.
+82. **އެހެން މީހަކަށް އެހީތެރިވުން.** މަސްޖިދުގެ ޕްރޮގްރާމް އެޅުން ނުވަތަ އަވަށްޓެރިޔަކަށް ކާޑެއް ހަދާ.
 
-## Faith and spiritual activities
+## ދީނީ އަދި ރޫޙާނީ މަޝްޣޫލުތައް
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+އެ މީހާގެ އަމިއްލަ ދީނާއި ރިވެތި ގޮތަށް ދިޔުން، ނުވަތަ އެއްވެސް ދީނެއް ނުވާނަމަ އެގޮތަށް ދޫކޮށްލުން. NIA އިރުޝާދު ދެނީ އާދަކޮށްފައިވާ އިބާދަތް، ކިޔެވުން، ރޫޙާނީ މިއުޒިކް، ދުއާ، މެޑިޓޭޝަން އަދި އީދު ރިވެތިތަކަށެވެ.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **އާދަކޮށްފައިވާ އިބާދަތެއްގައި ބައިވެރިވުން.** މީހުން މަދު، ހަމަހިމަ ވަގުތެއް ހޮވާ، މަގުމަތީ އިންދެލާ، އަދި ބޭނުންވާނަމަ އެތަނުގެ މީހުންނަށް ޑިމެންޝިއާގެ ކަން އަންގާ.
+84. **ބޭރަށް ނުކުމެވޭ ދުވަސްތަކުގައި އޮންލައިންކޮށް އިބާދަތެއް ބަލާ.**
+85. **އެކުވެގެން ދުއާ ކިޔެވުން ނުވަތަ ކިޔައިދިނުން.** އާދަކޮށްފައިވާ ބަސްތައް، މަޑުމައިތިރިން ކިޔެވުން. ދަންނަ ބައެއްގައި އެ މީހަކު ބައިވެރިވެދާނެ.
+86. **އެ މީހާގެ ރިވެތިން ދުއާ ނުވަތަ ރޫޙާނީ ލަވަ ކިޔުން.**
+87. **އީދު ރިވެތި ދެމެހެއްޓުން.** ބެޓަރީ ބޭނުންކުރާ ބަތި، ދުއާއެއް، އަބަދުވެސް ބޭނުންކުރާ ޒީނަތްތެރިކަން.
+88. **ހަމަހިމަ ވަގުތެއް ހިއްސާކުރުން.** ބަގީޗާއެއްގައި އިށީނދެލުން ނުވަތަ އެކުވެގެން އިރުއޮއްސުން ބަލާ.
 
-## Pets and animals
+## އަނިމަލުން އަދި ދިރުންތައް
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA އިރުޝާދު ދެނީ އަނިމަލަކަށް ކާނާ ދިނުން، ބުރުޝްކުރުން، ހިނގާލުން، ނުވަތަ ކައިރީގައި އިށީނދެލައި ހިފައިގެން ހުރުމަށެވެ.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **ހަމަޖެހިފައިވާ ކުއްތާ ނުވަތަ ބުޅާ ބުރުޝްކުރުން** ދިގު، މަޑުމައިތިރި ހަރަކާތްތަކުން.
+90. **އެކުވެގެން އަނިމަލަށް ކާނާ ދިނުން.** ތިޔަބޭފުޅުން މިނުވައިދީ، އެ މީހަކު އެޅުވާލާ.
+91. **އެކުވެގެން ކުއްތާ ހިނގާލުން.** ލީޝް ހިފަހައްޓަނީ ތިޔަބޭފުޅުން.
+92. **ކަކޫމަތީ އަނިމަލެއް ހިފައިގެން އިށީނދެލުން.** އޮޅިގަނޑެއް މަތީ ހަމަޖެހިފައިވާ ބުޅަލަކަށް ވަރަށް ހަމަޖެހުން ލިބިދާނެ.
+93. **ޒިޔާރަތް ކުރާ އަނިމަލުން މަރުހަބާ ކިޔުން.** ބައެއް ބެލެނިވެރި ގޭތަކާއި ދުވަހުގެ ޕްރޮގްރާމްތަކުގައި އަނިމަލުންގެ ޒިޔާރަތް ހުންނާނެ. ގާތްތެރިންނަށް އަހާލަވާ.
+94. **ހަގީގީ ފެނުމެއް ހުރި ނުރައްކާތެރި އަނިމަލެއް ހުށަހެޅުން.** އަނިމަލެއް ނެތްނަމަ، ބައެއް މީހުންނަށް ހަގީގީ ފެނުމެއް ހުރި ނުރައްކާތެރި ބުޅަލެއް ނުވަތަ ކުއްތަކު ހިފައިގެން ހުރުމުން ކަމުދާނެ. ސާދާކޮށް ހުށަހެޅުން، ކުޅޭ ތަކެއްޗެއްގެ ގޮތުގައި ނޫން، އަދި ނޫން ކިޔުން ޤަބޫލުކުރާ.
 
-## Seasonal activities
+## މޫސުމީ މަޝްޣޫލުތައް
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+ރިވެތި ދެމެހެއްޓުން، އެކަމަކު ފަސޭހަ ގޮތަކަށް. NIA އިރުޝާދު ދެނީ ހަޤީޤަތް ދެނެގަނެ، ހަލަބޮލި އީދު ދުވަސްތަކުގައި އަރާމުކުރުމަށް ހަމަހިމަ ތަނެއް ބަހައްޓަން ހުށަހެޅުމަށެވެ.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **މޫސުމަށް ޒީނަތްތެރިކުރުން.** ބަރަބޯ، ރީތް ނުވަތަ ތާޒާ މާ މޭޒުމަތީ.
+96. **އީދު ކާނާއެއް ތައްޔާރުކުރުން.** ފުޅި އެޅުން ނުވަތަ ކުކީޒް ފްރޮސްޓް ކުރުން. އަވަން ތިޔަބޭފުޅުން ބަލަހައްޓާ.
+97. **ޒީނަތް އެލުވާލުން.** ނުބެހޭ އޯނަމެންޓް، އެއް ފަހަރަކު އެއް ތަކެއްޗެއް ދީ.
+98. **ބަތި ބަލަން ޑްރައިވް ކުރުން.** ކުރު ރޭގަނޑު ޑްރައިވެއް، އެކުވެރިކަމުން މެނުވީ އެއްވެސް ކަމެއް ނުބޭނުން.
+99. **ސްޕްރިންގ ބަލްބް އިންދުން.** ފޯރު މޫސުމުގައި ވާހަކައެއްގައި ބަލްބް އިންދައި، ކުދި ގަސް ނުކުތުން ބަލާ.
+100. **ޒުވާރި ހަންދުން ނުވަތަ ގޮރަންސް ހަންދުން.** ހަވީރު ބޭރުގަނޑުގެ މަސައްކަތެއް، ކަކޫމަތީ ބާތިލީއެއް އަރުވައިގެން.
+101. **އީދު ކާޑުގެ އެޑްރެސް ލިޔުން.** އެ މީހަކު ސޮއިކޮށް، ސްޓޭމްޕު ޖަހައި، ނުވަތަ ސީލް ކުރާ؛ އެޑްރެސް ތިޔަބޭފުޅުން ބެލެހައްޓާ.
 
-## What if an activity is not working?
+## މަޝްޣޫލެއް ރަނގަޅަށް ނުދާނަމަ ކީއްކުރާނީ؟
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+ހުއްޓާލައި، އެހެން ވަގުތެއްގައި އެހެން ކަމެއް މަސައްކަތް ކުރާ. NIA އިރުޝާދު ދެނީ ކުޅެން ނުޖެހޭ ކަން ބަލައި، އެ މީހަކު ބޭނުންވާނަމަ ހަމައެކަނި ބަލަމުން އިނުމަށް ދޫކޮށްލުމަށެވެ. ނޫން ކިޔުމުގެ މާނަ ގިނަ ފަހަރަށް މަސައްކަތް މާ އުނދަގޫކަން، ވަގުތު ރަނގަޅެއް ނޫންކަން، ނުވަތަ ވޭން، ބަނޑުހައިވުން ނުވަތަ އަޑު ފަދަ އެހެން ކަމެއް ހުރިކަމަށް ވެދާނެ. ކުޑަކޮށް މަސައްކަތް ކުރާ، ދުވަހުގެ ކުރީ ވަގުތެއްގައި މަސައްކަތް ކުރާ، ނުވަތަ ތިޔަބޭފުޅުން ފަށައިގެން އެ މީހަކު ބައިވެރިވެވޭތޯ ބަލާ. [ނޫން ކިޔާ ހިނދު](/caregiving/when-they-say-no/) އަދި [ހަވީރު ދަތިވުން](/caregiving/late-day-restlessness/) ބައްލަވާ.
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+ކެއުމާއި އަރާމުކުރުމުގެ މެދުގައި މަޝްޣޫލުތައް އެކުލެވޭ ގޮތަށް، [ހަމަޖެހޭ ދުވަހުން ކުރާ ކަންތައް](/activities/daily-routine/) ބައްލަވާ. ތައްޔާރުކޮށް ބަހައްޓަން ބޭނުންވާ ކަންތަކަށް [ޕްރިންޓް ކުރެވޭ މަޝްޣޫލުތައް](/activities/printable/) ބައްލަވާ، އަދި ގްރޫޕެއް ބެލެހެއްޓެވިނަމަ [ބެލެނިވެރި ގޭގެ ގްރޫޕް މަޝްޣޫލުތައް](/activities/care-home-groups/) ބައްލަވާ. ތިޔަބޭފުޅުންގެ އަމިއްލަ އަރާމު ވެސް މުހިންމު: [ބެލެނިވެރިޔާގެ އަމިއްލަ ބަލަހައްޓަން ކުރާ ކަންތައް](/caregiving/caregiver-self-care/) ބައްލަވާ.

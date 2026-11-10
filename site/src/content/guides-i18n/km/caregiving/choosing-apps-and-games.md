@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "របៀបជ្រើសរើសកម្មវិធីនិងល្បែងសម្រាប់ជំងឺវង្វេង"
+seoTitle: "បញ្ជីជ្រើសរើសកម្មវិធីនិងល្បែងសម្រាប់ជំងឺវង្វេង"
+description: "បញ្ជីសម្រាប់អ្នកថែទាំក្នុងការជ្រើសរើសកម្មវិធីនិងល្បែងសម្រាប់ជំងឺវង្វេង៖ ចាប់ផ្តើមពីគោលបំណង ជៀសវាងម៉ោងរាប់ថយក្រោយនិងការផ្សាយពាណិជ្ជកម្ម ពិនិត្យឯកជនភាព និងអានការអះអាងអំពីភស្តុតាងដោយប្រុងប្រយ័ត្ន។"
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  ចាប់ផ្តើមពីអ្វីដែលអ្នកចង់ឱ្យកម្មវិធីធ្វើ៖ ការជំរុញស្រាលៗ ការរំលឹកអតីតកាល
+  ភាពស្ងប់ ឬការតភ្ជាប់។ បន្ទាប់មកជ្រើសរើសកម្មវិធីដែលសមនឹងសមត្ថភាពរបស់មនុស្សដែលអ្នកថែទាំ
+  នៅពេលបច្ចុប្បន្ន ដោយមានរូបភាពធំៗ គ្មានម៉ោងរាប់ថយក្រោយ ពិន្ទុ ឬការផ្សាយពាណិជ្ជកម្ម
+  និងមានវិធីងាយស្រួលក្នុងការបញ្ឈប់។ ពិនិត្យមើលថាកម្មវិធីប្រមូលទិន្នន័យអ្វីខ្លះ
+  និងតើអ្នកអាចលុបទិន្នន័យនោះបានដែរឬទេ។ ត្រូវប្រុងប្រយ័ត្នចំពោះការអះអាងថាកម្មវិធីអាចការពារ
+  ឬព្យាបាលជំងឺវង្វេង។ ការសិក្សាតែមួយមិនមែនជាភស្តុតាងទេ។
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "កំណត់គោលបំណងជាមុនសិន៖ ការជំរុញ ការរំលឹកអតីតកាល ភាពស្ងប់ ឬការតភ្ជាប់ ត្រូវការកម្មវិធីខុសគ្នា។"
+  - "ជ្រើសរើសឱ្យសមនឹងសមត្ថភាពរបស់មនុស្សដែលអ្នកថែទាំនៅថ្ងៃនោះ មិនមែនតាមស្លាកដំណាក់កាលទេ ហើយរក្សាការបញ្ជាឱ្យសាមញ្ញ។"
+  - "ជៀសវាងកម្មវិធីដែលមានម៉ោងរាប់ថយក្រោយ ពិន្ទុ ចំនួនជីវិត ចំនួនថ្ងៃជាប់គ្នា ការផ្សាយពាណិជ្ជកម្ម ឬការជម្រុញឱ្យទិញ។"
+  - "ពិនិត្យការប្រមូលទិន្នន័យ ការចែករំលែក និងការលុបទិន្នន័យ។ ជាទូទៅ HIPAA មិនគ្របដណ្តប់លើកម្មវិធីសម្រាប់អ្នកប្រើប្រាស់ទូទៅទេ។"
+  - "ត្រូវមានការសង្ស័យចំពោះការអះអាងថា «ការពារជំងឺវង្វេង»។ ការសាកល្បងតែមួយ ឬពិន្ទុល្អជាងមុនក្នុងកម្មវិធី មិនមែនជាភស្តុតាងទេ។"
+  - "Golden Moments គឺជាសកម្មភាពកម្សាន្ត។ កម្មវិធីនេះមិនធ្វើការអះអាងផ្នែកវេជ្ជសាស្ត្រទេ។"
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "តើល្បែងហាត់ខួរក្បាលអាចការពារជំងឺវង្វេងបានទេ?"
+    a: "មិនមានភស្តុតាងល្អដែលបង្ហាញថាកម្មវិធីល្បែងហាត់ខួរក្បាលពាណិជ្ជកម្មអាចការពារ ឬពន្យឺតជំងឺវង្វេងបានទេ។ National Institute on Aging បញ្ជាក់ថា មិនមានភស្តុតាងគ្រប់គ្រាន់ដើម្បីបង្ហាញថាកម្មវិធីហាត់ខួរក្បាលដែលមានលក់ជាសាធារណៈមានឥទ្ធិពលដូចការហ្វឹកហាត់ដែលមានរចនាសម្ព័ន្ធដែលត្រូវបានសាកល្បងក្នុងការស្រាវជ្រាវធំមួយនោះទេ។ សូមជ្រើសរើសកម្មវិធីសម្រាប់ភាពរីករាយនិងការតភ្ជាប់ មិនមែនជាថ្នាំព្យាបាលទេ។"
+  - q: "តើកម្មវិធីសម្រាប់ជំងឺវង្វេងត្រូវបានគ្របដណ្តប់ដោយ HIPAA ដែរឬទេ?"
+    a: "ជាទូទៅគឺមិនទេ។ ជាទូទៅ HIPAA អនុវត្តចំពោះអ្នកផ្តល់សេវាថែទាំសុខភាព គម្រោងសុខភាព និងដៃគូអាជីវកម្មរបស់ពួកគេ។ កម្មវិធីដែលអ្នកទាញយកដោយខ្លួនឯងជាទូទៅមិនត្រូវបានគ្របដណ្តប់ទេ លុះត្រាតែវាត្រូវបានផ្តល់ដោយភាគីណាមួយក្នុងចំណោមភាគីទាំងនោះ។ ច្បាប់ Health Breach Notification Rule របស់ FTC គ្របដណ្តប់កម្មវិធីសុខភាពជាច្រើនដែល HIPAA មិនគ្របដណ្តប់។"
+  - q: "តើល្បែងល្អសម្រាប់ជំងឺវង្វេងគួរមានលក្ខណៈដូចម្តេច?"
+    a: "រូបភាពនិងអក្សរធំៗ ច្បាស់លាស់ មានរឿងតែមួយគត់ដែលត្រូវធ្វើនៅលើអេក្រង់នីមួយៗ គ្មានម៉ោងរាប់ថយក្រោយ ឬពិន្ទុ គ្មានសំឡេងរំខានសម្រាប់កំហុស គ្មានការផ្សាយពាណិជ្ជកម្ម និងមានវិធីងាយស្រួលក្នុងការផ្អាក ឬបញ្ឈប់។ កម្មវិធីគួរតែបង្ហាញថាត្រូវបានបង្កើតសម្រាប់មនុស្សពេញវ័យ និងងាយស្រួលសម្រាប់មនុស្សទីពីរចូលរួមជាមួយ។"
+  - q: "តើ Golden Moments អះអាងថាជួយការចងចាំដែរឬទេ?"
+    a: "ទេ។ Golden Moments ផ្តល់សកម្មភាពសាមញ្ញៗដែលធ្វើរួមគ្នាសម្រាប់ភាពរីករាយនិងការសន្ទនា។ កម្មវិធីនេះមិនធ្វើការវិនិច្ឆ័យ ព្យាបាល ការពារ ឬវាស់វែងជំងឺវង្វេងទេ ហើយយើងមិនធ្វើការអះអាងណាមួយអំពីការចងចាំ ឬការគិតទេ។"
+  - q: "តើខ្ញុំគួរបង់ប្រាក់សម្រាប់កម្មវិធីសម្រាប់ជំងឺវង្វេងដែរឬទេ?"
+    a: "សូមសាកល្បងជម្រើសឥតគិតថ្លៃ ឬការសាកល្បងឥតគិតថ្លៃជាមុនសិន ហើយសង្កេតមើលរបៀបដែលមនុស្សដែលអ្នកថែទាំមានប្រតិកម្មក្នុងរយៈពេលពីរបីសប្តាហ៍។ ការបង់ប្រាក់សម្រាប់កម្មវិធីមិនធ្វើឱ្យវាមានប្រសិទ្ធភាពជាងឡើយ។ សូមពិនិត្យរបៀបបោះបង់មុនពេលអ្នកជាវ។"
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+ហាងកម្មវិធីមានល្បែងជាច្រើនដែលត្រូវបានដាក់ស្លាកសម្រាប់មនុស្សចាស់ ការចងចាំ ឬជំងឺវង្វេង។ ខ្លះត្រូវបានបង្កើតឡើងដោយយកចិត្តទុកដាក់។ ខ្លះទៀតបន្ថែមការអះអាងដែលស្តាប់ទៅដូចជាវេជ្ជសាស្ត្រ ម៉ោងរាប់ថយក្រោយដែលប្តូរការលេងទៅជាការសាកល្បង ឬការផ្សាយពាណិជ្ជកម្មនិងការប្រមូលទិន្នន័យ។ ទំព័រនេះផ្តល់វិធីសម្រាប់អ្នកក្នុងការវាយតម្លៃកម្មវិធីណាមួយដោយខ្លួនឯង។ យើងមិនចាត់ថ្នាក់ ឬវាយតម្លៃផលិតផលផ្សេងទៀតទេ។
 
-## What should I decide before choosing a dementia app?
+## តើខ្ញុំគួរសម្រេចចិត្តអ្វីខ្លះមុនពេលជ្រើសរើសកម្មវិធីសម្រាប់ជំងឺវង្វេង?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+សូមកំណត់ថាអ្នកចង់ឱ្យកម្មវិធីធ្វើអ្វី។ «ល្បែងសម្រាប់ម៉ាក់» អាចមានន័យខុសគ្នាច្រើន ហើយជម្រើសល្អសម្រាប់គោលបំណងមួយអាចមិនសមសម្រាប់គោលបំណងមួយទៀតទេ។
 
-| Goal | What it looks like | What to look for |
+| គោលបំណង | រូបរាងដូចម្តេច | អ្វីដែលគួរស្វែងរក |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| ការជំរុញស្រាលៗ | ការផ្គូផ្គង ការតម្រៀប ល្បែងផ្គុំសាមញ្ញៗ ល្បែងពាក្យ | កម្រិតលំបាកដែលអាចកែបាន រូបភាពនៅតែមើលឃើញ គ្មានសម្ពាធពេលវេលា |
+| ការរំលឹកអតីតកាល | រូបថតចាស់ៗ សម្តីដែលធ្លាប់ស្គាល់ តន្ត្រីពីយុវវ័យ | អាចប្រើរូបថតរបស់អ្នក សំណួរបើកចំហ គ្មានសំណួរប្រឡង |
+| ភាពស្ងប់ | រូបភាពយឺតៗ សំឡេងស្ងាត់ៗ ការដកដង្ហើម ធម្មជាតិ | ងាយស្រួលចាប់ផ្តើមនិងបញ្ឈប់ គ្មានអ្វីលោតភ្លឹបភ្លែត គ្មានភាពភ្ញាក់ផ្អើល |
+| ការតភ្ជាប់ | លេង ឬនិយាយជាមួយគ្នា ដោយជួបផ្ទាល់ ឬតាមវីដេអូ | ត្រូវបានរចនាសម្រាប់មនុស្សពីរនាក់ មានសំណួរជំរុញឱ្យសន្ទនា |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+ការស្រាវជ្រាវអំពី «ការជំរុញការយល់ដឹង» ដែលមានរចនាសម្ព័ន្ធសម្រាប់មនុស្សដែលមានជំងឺវង្វេងភាគច្រើនពាក់ព័ន្ធនឹងសកម្មភាពជាក្រុមដែលដឹកនាំដោយបុគ្គលិកដែលបានទទួលការបណ្តុះបណ្តាល មានការពិភាក្សា ល្បែងពាក្យ ល្បែងផ្គុំ តន្ត្រី និងសកម្មភាពច្នៃប្រឌិត។ [ការពិនិត្យឡើងវិញរបស់ Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) បានរកឃើញអត្ថប្រយោជន៍តិចតួចជាមធ្យម ដែលខុសគ្នាពីការសិក្សាមួយទៅការសិក្សាមួយទៀត។ កម្មវិធីបែបសង្គមនិងចម្រុះបែបនេះមិនដូចគ្នានឹងកម្មវិធីដែលលេងតែម្នាក់ឯងទេ ដូច្នេះសូមចាត់ទុកកម្មវិធីណាមួយថាជាសកម្មភាពរួមមួយក្នុងចំណោមសកម្មភាពជាច្រើន។
 
-## How do I know if an app fits the person's abilities?
+## តើខ្ញុំដឹងដោយរបៀបណាថាកម្មវិធីសមនឹងសមត្ថភាពរបស់មនុស្សដែលអ្នកថែទាំ?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+សូមសង្កេតមើលរបៀបដែលពួកគេមានប្រតិកម្ម ជាជាងពឹងផ្អែកលើការធ្វើរោគវិនិច្ឆ័យ ឬស្លាកដំណាក់កាល។ មនុស្សពីរនាក់នៅ «ដំណាក់កាលដូចគ្នា» អាចខុសគ្នាយ៉ាងខ្លាំងក្នុងការមើលឃើញ ការស្តាប់ ការគ្រប់គ្រងដៃ ភាសា និងភាពសុខស្រួលក្នុងការប្រើអេក្រង់។ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ណែនាំឱ្យគិតពីចំណាប់អារម្មណ៍ពីមុន និងសមត្ថភាពបច្ចុប្បន្ន ហើយផ្តោតលើភាពរីករាយជាជាងសមិទ្ធផល។
 
-Signs of a good fit:
+សញ្ញាដែលបង្ហាញថាសមស្រប:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- ពួកគេចាប់ផ្តើម ឬចូលរួមដោយមិនចាំបាច់បញ្ចុះបញ្ចូលច្រើន
+- ពួកគេញញឹម ផ្តល់មតិ ឬប្រាប់រឿងរ៉ាវ
+- កំហុសហាក់ដូចជាមិនរំខានពួកគេទេ
+- ពួកគេសប្បាយចិត្តក្នុងការបញ្ឈប់នៅពេលដល់ម៉ោង
 
-Signs it is a poor fit:
+សញ្ញាដែលបង្ហាញថាមិនសមស្រប:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- និយាយថា «ខ្ញុំមិនអាច» ឬ «រឿងនេះមិនសមហេតុផល» ម្តងហើយម្តងទៀត
+- មានភាពច្របូកច្របល់អំពីអ្វីដែលត្រូវចុច
+- មានការខឹងសម្បារ អាម៉ាស់ ឬរុញឧបករណ៍ចេញ
+- ដំណើរការបានលុះត្រាតែអ្នកធ្វើស្ទើរតែអ្វីៗទាំងអស់
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+ភាពមិនស្រួលគឺជាសញ្ញាមួយ មិនមែនជាអ្វីដែលត្រូវបង្ខំឱ្យបន្តទេ។ សូមមើល [អ្វីដែលត្រូវធ្វើនៅពេលពួកគេនិយាយថាទេ](/caregiving/when-they-say-no/)។ សម្រាប់គំនិតសកម្មភាពផ្សេងទៀតតាមដំណាក់កាល សូមមើលសកម្មភាពសម្រាប់ [ដំណាក់កាលដំបូង](/activities/early-stage/) និង [ដំណាក់កាលចុងក្រោយ](/activities/late-stage/)។
 
-## What design features should I look for or avoid?
+## តើខ្ញុំគួរស្វែងរក ឬជៀសវាងលក្ខណៈរចនាអ្វីខ្លះ?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+សូមស្វែងរកការរចនាដែលស្ងប់ សាមញ្ញ និងសមស្របសម្រាប់មនុស្សពេញវ័យ ហើយជៀសវាងអ្វីៗដែលបង្កើតសម្ពាធ។
 
-| Look for | Be wary of |
+| គួរស្វែងរក | គួរប្រុងប្រយ័ត្នចំពោះ |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| រូបភាពនិងអក្សរធំៗ កម្រិតពណ៌ច្បាស់ | រូបតំណាងតូចៗ អេក្រង់ច្របូកច្របល់ |
+| សកម្មភាពច្បាស់លាស់មួយក្នុងមួយអេក្រង់ | ប៊ូតុងច្រើន ម៉ឺនុយ ឬការណែនាំច្រើនជំហាន |
+| គ្មានម៉ោងរាប់ថយក្រោយ ឬមានម៉ោងដែលអាចបិទបាន | ការរាប់ថយក្រោយ ពិន្ទុបន្ថែមល្បឿន «ឈ្នះពេលវេលារបស់អ្នក» |
+| គ្មានពិន្ទុ ឬមានមតិត្រឡប់ស្រាលៗ | ពិន្ទុ ចំនួនជីវិត ចំនួនថ្ងៃជាប់គ្នា ចំណាត់ថ្នាក់ «អាយុខួរក្បាល» |
+| ដោះស្រាយកំហុសដោយស្ងប់ស្ងាត់ | សំឡេងរំខាន សញ្ញាខ្វែងក្រហម ពាក្យ «ខុស» |
+| រូបភាពពិតប្រាកដសម្រាប់មនុស្សពេញវ័យ | រូបភាពគំនូរជីវចល ឬស្បែកក្មេងៗ |
+| ដំណើរការបានដោយគ្មានអ៊ីនធឺណិត មិនចាំបាច់មានគណនីដើម្បីចាប់ផ្តើម | ត្រូវចុះឈ្មោះ ចូលគណនី ឬទាញយកមាតិកាជាមុន |
+| ងាយស្រួលផ្អាកនិងបញ្ឈប់ | ផ្ទាំងលេចឡើងដែលសួរឱ្យលេងបន្ត ឬវាយតម្លៃកម្មវិធី |
+| គ្មានការផ្សាយពាណិជ្ជកម្ម តម្លៃច្បាស់លាស់ម្តង ឬជាវ | ការផ្សាយពាណិជ្ជកម្ម ប្រអប់រង្វាន់ ការជម្រុញឱ្យទិញញឹកញាប់ |
+| ងាយស្រួលសម្រាប់មនុស្សទីពីរចូលរួម | លេងបានតែម្នាក់ឯង មានការប្រកួតប្រជែង |
 
-Ads and purchase prompts are easy to tap by accident.
+ការផ្សាយពាណិជ្ជកម្មនិងការជម្រុញឱ្យទិញអាចត្រូវបានចុចដោយចៃដន្យយ៉ាងងាយស្រួល។
 
-## How do I check an app's privacy?
+## តើខ្ញុំគួរពិនិត្យឯកជនភាពរបស់កម្មវិធីដោយរបៀបណា?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+សូមពិនិត្យមើលថាកម្មវិធីប្រមូលទិន្នន័យអ្វីខ្លះ ចែករំលែកទៅអ្នកណា និងតើអ្នកអាចលុបទិន្នន័យបានដែរឬទេ។ មុនពេលអ្នកដំឡើង៖
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **អានសេចក្តីសង្ខេបអំពីឯកជនភាពនៅក្នុងហាងកម្មវិធី។** [ផ្នែកសុវត្ថិភាពទិន្នន័យរបស់ Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) និង [ផ្នែកព័ត៌មានឯកជនភាពរបស់ App Store](https://support.apple.com/en-us/102399) បង្ហាញប្រភេទទិន្នន័យដែលកម្មវិធីអាចប្រមូលនិងចែករំលែក។ ក្រុមហ៊ុនទាំងពីរបញ្ជាក់ថាអ្នកអភិវឌ្ឍន៍ជាអ្នកផ្តល់ព័ត៌មាននេះដោយខ្លួនឯង ដូច្នេះវាជាចំណុចចាប់ផ្តើម មិនមែនជាការត្រួតពិនិត្យពេញលេញទេ។
+2. **សួរថាតើវាត្រូវការគណនីដែរឬទេ។** ប្រសិនបើកម្មវិធីគ្រាន់តែបង្ហាញរូបភាព ឬល្បែងសាមញ្ញៗ វាអាចមិនចាំបាច់ដឹងឈ្មោះ អ៊ីមែល ឬថ្ងៃខែឆ្នាំកំណើតរបស់អ្នកទេ។
+3. **ពិនិត្យការអនុញ្ញាត។** តើល្បែងផ្គូផ្គងពិតជាត្រូវការទីតាំង ទំនាក់ទំនង មីក្រូហ្វូន ឬបណ្ណាល័យរូបថតទាំងមូលរបស់អ្នកមែនទេ? សូមបិទអ្វីដែលវាមិនត្រូវការ។
+4. **ស្វែងរកការផ្សាយពាណិជ្ជកម្មនិងការវិភាគទិន្នន័យ។** ឧបករណ៍ផ្សាយពាណិជ្ជកម្មនិងតាមដានអាចផ្ញើទិន្នន័យអំពីរបៀបប្រើកម្មវិធីទៅក្រុមហ៊ុនផ្សេងទៀត។
+5. **ស្វែងយល់ថារូបថតទៅនៅឯណា។** ប្រសិនបើអ្នកបន្ថែមរូបថតគ្រួសារ តើវានៅតែមានក្នុងឧបករណ៍ ឬផ្ទុកឡើងទៅម៉ាស៊ីនមេ? តើអ្នកអាចលុបវាបានដែរឬទេ?
+6. **ពិនិត្យការលុបទិន្នន័យ។** សូមរកមើលនៅក្នុងគោលការណ៍ឯកជនភាព ឬសេចក្តីសង្ខេបទិន្នន័យអំពីរបៀបលុបទិន្នន័យនិងគណនី។ កម្មវិធីដែលបញ្ជាក់ថាទិន្នន័យមិនអាចលុបបានទេ គួរឱ្យមានការប្រុងប្រយ័ត្នបន្ថែម ជាពិសេសប្រសិនបើវារក្សារូបថត ឬព័ត៌មានសុខភាព។
+7. **អានគោលការណ៍ឯកជនភាព** ដើម្បីស្វែងរកចម្លើយច្បាស់លាស់អំពីអ្វីដែលត្រូវបានប្រមូល ហេតុអ្វីបានជាប្រមូល រយៈពេលប៉ុន្មាន និងចែករំលែកជាមួយអ្នកណា។
 
-### Does HIPAA protect information in dementia apps?
+### តើ HIPAA ការពារព័ត៌មានក្នុងកម្មវិធីសម្រាប់ជំងឺវង្វេងដែរឬទេ?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+ជាទូទៅគឺមិនទេ ហើយរឿងនេះធ្វើឱ្យមនុស្សជាច្រើនភ្ញាក់ផ្អើល។ U.S. Department of Health and Human Services [ពន្យល់](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ថា HIPAA អនុវត្តចំពោះគម្រោងសុខភាព អ្នកផ្តល់សេវាថែទាំសុខភាពភាគច្រើន មជ្ឈមណ្ឌលសម្អាតទិន្នន័យថែទាំសុខភាព និងដៃគូអាជីវកម្មរបស់ពួកគេ។ ក្នុងករណីភាគច្រើន វាមិនការពារទិន្នន័យដែលអ្នកបញ្ចូលទៅក្នុងកម្មវិធីសម្រាប់ការប្រើប្រាស់ផ្ទាល់ខ្លួនទេ លុះត្រាតែភាគីដែលត្រូវបានគ្របដណ្តប់ដោយ HIPAA ឬដៃគូអាជីវកម្មរបស់ពួកគេបានផ្តល់កម្មវិធីនោះ។ «កម្មវិធីសម្រាប់ជំងឺវង្វេង» ពីហាងកម្មវិធីជាញឹកញាប់ស្ថិតនៅក្រៅ HIPAA ទោះបីវានិយាយអំពីសុខភាពក៏ដោយ។
 
-### What protects health data in apps that HIPAA does not cover?
+### តើអ្វីដែលការពារទិន្នន័យសុខភាពក្នុងកម្មវិធីដែល HIPAA មិនគ្របដណ្តប់?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+ច្បាប់ Health Breach Notification Rule របស់ Federal Trade Commission គ្របដណ្តប់កម្មវិធីជាច្រើនក្នុងចំណោមនោះ។ នៅឆ្នាំ 2024 FTC [បានបញ្ចប់ការផ្លាស់ប្តូរ](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) ដើម្បីបញ្ជាក់ថាច្បាប់នេះអនុវត្តចំពោះកម្មវិធីសុខភាពនិងបច្ចេកវិទ្យាស្រដៀងគ្នាដែលមិនត្រូវបានគ្របដណ្តប់ដោយ HIPAA។ «ការបំពាន» រួមមានការបង្ហាញទិន្នន័យដោយគ្មានការអនុញ្ញាត មិនមែនមានតែការលួចចូលប៉ុណ្ណោះទេ ហើយក្រុមហ៊ុនត្រូវតែជូនដំណឹងដល់អ្នកដែលរងផលប៉ះពាល់និង FTC។ នេះគឺជាបណ្តាញសុវត្ថិភាពបន្ទាប់ពីមានអ្វីមួយខុសប្រក្រតី មិនមែនជាការសន្យាថាកម្មវិធីប្រមូលតែអ្វីដែលចាំបាច់ប៉ុណ្ណោះទេ។
 
-## How should I read claims about research and evidence?
+## តើខ្ញុំគួរអានការអះអាងអំពីការស្រាវជ្រាវនិងភស្តុតាងដោយរបៀបណា?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+សូមអានការអះអាងអំពីភស្តុតាងដោយយឺតៗ ហើយមានការសង្ស័យខ្លាំងជាពិសេសចំពោះការសន្យាធំៗ។ សំណួរដែលគួរសួរ៖
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **តើអ្វីដែលត្រូវបានសិក្សាជាក់លាក់?** ការសិក្សាអំពីកម្មវិធីហ្វឹកហាត់មួយមិនបង្ហាញថាល្បែងគ្រប់ល្បែងក្នុងកម្មវិធីដំណើរការដូចគ្នាទេ។
+- **តើអ្នកណាត្រូវបានសិក្សា?** លទ្ធផលចំពោះមនុស្សចាស់ដែលមានសុខភាពល្អអាចមិនអនុវត្តចំពោះមនុស្សដែលមានជំងឺវង្វេងទេ។
+- **តើអ្វីដែលត្រូវបានវាស់វែង?** ការលេងល្បែងបានកាន់តែល្អឡើងខុសពីការផ្លាស់ប្តូរក្នុងជីវិតប្រចាំថ្ងៃ ការសន្ទនា អារម្មណ៍ ឬភាពឯករាជ្យ។
+- **តើការសិក្សាមានភាពរឹងមាំប៉ុនណា?** ការសាកល្បងគ្រប់គ្រងដោយចៃដន្យ (RCT) ប្រៀបធៀបក្រុមដែលប្រើកម្មវិធីជាមួយក្រុមដែលមិនប្រើ។ វាជារចនាសម្ព័ន្ធល្អ ប៉ុន្តែ RCT តូចមួយ ឬខ្លីមួយមិនមែនជាភស្តុតាងទេ។ សូមស្វែងរកការសិក្សាជាច្រើនដោយអ្នកស្រាវជ្រាវឯករាជ្យដែលមានលទ្ធផលស្របគ្នា។
+- **តើវាអះអាងថាផ្លាស់ប្តូរជំងឺដែរឬទេ?** ការសិក្សាដែលបង្ហាញការកែលម្អតិចតួចលើការធ្វើតេស្តមិនមែនជាភស្តុតាងថាកម្មវិធីអាចពន្យឺត ការពារ ឬព្យាបាលជំងឺវង្វេងទេ។
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+ទំព័ររបស់ National Institute on Aging អំពី [សុខភាពការយល់ដឹងនិងមនុស្សចាស់](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ពិពណ៌នាអំពីការសាកល្បងធំមួយដែលទទួលមូលនិធិពី NIH អំពីការហ្វឹកហាត់ការយល់ដឹងដែលមានរចនាសម្ព័ន្ធ ហើយបន្ទាប់មកព្រមានអ្នកអានឱ្យប្រុងប្រយ័ត្នចំពោះការអះអាងថាល្បែងកុំព្យូទ័រនិងអនឡាញមួយចំនួនអាចកែលម្អការចងចាំនិងការគិត។ វាបញ្ជាក់ថាមិនទាន់មានភស្តុតាងគ្រប់គ្រាន់ដែលបង្ហាញថាកម្មវិធីហាត់ខួរក្បាលដែលមានលក់ជាសាធារណៈមានឥទ្ធិពលដូចការហ្វឹកហាត់ដែលត្រូវបានសាកល្បងក្នុងការសាកល្បងនោះទេ។ អ្នកអាចអានបន្ថែមនៅក្នុងមគ្គុទ្ទេសក៍របស់យើងអំពី [ល្បែងហាត់ខួរក្បាលនិងភស្តុតាង](/brain-health/brain-games/) និង [អ្វីដែលការស្រាវជ្រាវនិយាយអំពីការការពារជំងឺវង្វេង](/brain-health/can-dementia-be-prevented/)។
 
-### What is a public example of a misleading claim?
+### តើមានឧទាហរណ៍សាធារណៈអំពីការអះអាងដែលបញ្ឆោតទេ?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+នៅខែមករា ឆ្នាំ 2016 FTC [បានប្រកាសអំពីការដោះស្រាយ](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) ជាមួយក្រុមហ៊ុនផលិត Lumosity ដែលជាកម្មវិធី «ហាត់ខួរក្បាល»។ FTC បានចោទប្រកាន់ថាក្រុមហ៊ុនបានអះអាងដោយគ្មានភស្តុតាងគ្រប់គ្រាន់ថាល្បែងរបស់ខ្លួនអាចពន្យឺតការធ្លាក់ចុះនៃការយល់ដឹងដែលទាក់ទងនឹងអាយុ និងការពារបញ្ហាការយល់ដឹងស្រាល ជំងឺវង្វេង និងជំងឺ Alzheimer's។ ក្រុមហ៊ុនបានយល់ព្រមបង់ប្រាក់ 2 លានដុល្លារ និងត្រូវមានភស្តុតាងវិទ្យាសាស្ត្រដែលគួរឱ្យទុកចិត្តនិងមានសមត្ថភាពមុនពេលធ្វើការអះអាងបែបនេះនៅពេលអនាគត។ ករណីនេះជាការរំលឹកដែលមានប្រយោជន៍ថាភាសានៃការផ្សព្វផ្សាយមិនមែនជាភស្តុតាងទេ។
 
-### Which words are red flags?
+### តើពាក្យណាខ្លះជាសញ្ញាព្រមាន?
 
-Be cautious when an app or ad says it:
+សូមមានការប្រុងប្រយ័ត្ននៅពេលកម្មវិធី ឬការផ្សាយពាណិជ្ជកម្មនិយាយថាវា៖
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- «ការពារ» «បញ្ច្រាស» «បញ្ឈប់» ឬ «ព្យាបាល» ជំងឺវង្វេង ឬជំងឺ Alzheimer's
+- «ត្រូវបានបញ្ជាក់តាមគ្លីនិក» ដោយមិនបញ្ជាក់ការសិក្សា អ្នកណាស្ថិតនៅក្នុងការសិក្សានោះ និងអ្វីដែលត្រូវបានវាស់វែង
+- ផ្តល់ «អាយុខួរក្បាល» ឬពិន្ទុការចងចាំដែលបង្ហាញពីការធ្វើរោគវិនិច្ឆ័យ
+- នឹង «ធ្វើឱ្យមុត» «បង្កើន» ឬ «ហ្វឹកហាត់» ខួរក្បាល
+- ប្រើសក្ខីកម្មជាភស្តុតាង
 
-If you are unsure about a claim, ask the person's doctor.
+ប្រសិនបើអ្នកមិនច្បាស់អំពីការអះអាងណាមួយ សូមសួរគ្រូពេទ្យរបស់មនុស្សដែលអ្នកថែទាំ។
 
-## Where does Golden Moments fit?
+## តើ Golden Moments ស្ថិតនៅទីតាំងណា?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments ផ្តល់សកម្មភាពសាមញ្ញៗដែលធ្វើរួមគ្នា មិនមែនជាការធ្វើតេស្តការចងចាំ ការព្យាបាល ឬដំបូន្មានវេជ្ជសាស្ត្រទេ។ ល្បែងរបស់យើង ដូចជា [Picture Pairs](/games/picture-pairs/) [Conversation Cards](/games/conversation-cards/) [Photo Pairs](/games/photo-pairs/) [Picture Bingo](/games/picture-bingo/) និង [Calm Breathing](/games/calm-breathing/) ត្រូវបានបង្កើតឡើងសម្រាប់ភាពរីករាយនិងការសន្ទនា។ ល្បែងទាំងនេះមិនធ្វើការវិនិច្ឆ័យ ព្យាបាល ការពារ ឬវាស់វែងជំងឺវង្វេងទេ ហើយយើងមិនធ្វើការអះអាងណាមួយអំពីការចងចាំ ឬការគិតទេ។
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+យើងក៏មានកម្មវិធីឥតគិតថ្លៃផងដែរ គឺ [Golden Moments សម្រាប់ iPhone, iPad និង Android](/app/)។ វាមានល្បែងផ្គូផ្គងរូបភាពស្រាលៗជាមួយក្រឡាធំៗ ល្បែងដែលប្រើរូបថតគ្រួសារដែលអ្នកជ្រើសរើស និងកញ្ចប់រូបភាពដែលដំណើរការបានដោយគ្មានអ៊ីនធឺណិត ដោយគ្មានគណនី ការផ្សាយពាណិជ្ជកម្ម ម៉ោងរាប់ថយក្រោយ ឬពិន្ទុ។ បញ្ជីត្រួតពិនិត្យដូចគ្នានេះអនុវត្តចំពោះកម្មវិធីនេះដែរ៖ ស្លាកឯកជនភាពនៅលើ App Store បង្ហាញថា «មិនប្រមូលទិន្នន័យ» ហើយ [គោលការណ៍ឯកជនភាពរបស់កម្មវិធី](/app-privacy/) ពន្យល់អំពីកន្លែងដែលច្បាប់ចម្លងរូបថតត្រូវបានរក្សាទុក។
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+យើងចង់ឱ្យអ្នកវាយតម្លៃយើង ជាជាងគ្រាន់តែជឿយើង។ សូមប្រើបញ្ជីត្រួតពិនិត្យនៅលើទំព័រនេះ អាន [ទំព័រឯកជនភាព](/privacy/) និង [ការបដិសេធផ្នែកវេជ្ជសាស្ត្រ](/medical-disclaimer/) របស់យើង ហើយឈប់ប្រើអ្វីៗទាំងអស់ រួមទាំងកម្មវិធីរបស់យើង ប្រសិនបើវាមិនសមស្របសម្រាប់មនុស្សដែលអ្នកថែទាំ។
 
-## What is a sensible way to try a new app?
+## តើវិធីសមហេតុផលក្នុងការសាកល្បងកម្មវិធីថ្មីគឺជាអ្វី?
 
-Try it together for a couple of weeks and watch what happens.
+សូមសាកល្បងជាមួយគ្នាក្នុងរយៈពេលពីរបីសប្តាហ៍ ហើយសង្កេតមើលអ្វីដែលកើតឡើង។
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **រៀបចំជាមុនសិន** ដោយប្រើ [មគ្គុទ្ទេសក៍រៀបចំថេប្លេតនិងទូរស័ព្ទ](/caregiving/tablets-and-screens/) របស់យើង ហើយចាប់ផ្តើមនៅកម្រិតងាយបំផុត។
+2. **រក្សាពេលវេលាឱ្យខ្លី** សង្កេតមើលស្នាមញញឹម ការសន្ទនា និងភាពស្ងប់ ហើយបញ្ចប់នៅពេលដែលអារម្មណ៍ល្អ។
+3. **ឈប់ប្រើប្រសិនបើវាបង្កឱ្យមានការខឹងសម្បារ** មិនថាវាត្រូវបានវាយតម្លៃខ្ពស់ប៉ុនណានោះទេ។

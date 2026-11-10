@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Soin ho-unan: discuilh, skoazell ha sinadoù bec'h"
+seoTitle: "Soin ho-unan evit an hini a labour: discuilh ha skoazell"
+description: "Sinadoù bec'h an hini a labour, penaos kavout ur discuilh ha strolladoù skoazell, ha linennoù skoazell dieub e Stadoù-Unanet."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Labourat evit an den a zo o vevañ gant ur c'hleñved dementia zo kalet, ha
+  soliñ ouzh ho-unan a zo ur pezh eus al labour. Sellit ouzh sinadoù kentañ evel
+  skuizder, kounnaredigezh, kousked fall ha dilezel ho mignoned. Goulennit
+  skoazell resis, implijit ur discuilh (respite) ha kevrit ur strollad skoazell.
+  Skoazell dieub e Stadoù-Unanet a sañs e-barzh linenn 24/7 Alzheimer's
+  Association 1-800-272-3900 ha Eldercare Locator 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Ar sinadoù bec'h a zeu alies e-mod skuizder, kounnaredigezh, kousked fall, tristidigezh ha dilezel ho yec'hed hoc'h-unan."
+  - "Ar discuilh (respite) a ro deoc'h ur seurt bec'h, eus un nebeud eurioù betek meur a sizhun, en ho ti pe en ur c'hreizenn soin."
+  - "Goulennit skoazell evit labourioù resis; kalz a dud a fell dezho skoazellañ met na ouzont ket penaos."
+  - "Linenn 24/7 Alzheimer's Association (1-800-272-3900) a ro skoazell dieub ha kuzh en amzer ebet."
+  - "Eldercare Locator (1-800-677-1116) a gevreb ac'h ouzh servijoù lec'hel, en o zouez ho Area Agency on Aging."
+  - "Ma'h emaoc'h e kaousted, galvit pe skrivit 988 (e Stadoù-Unanet). En ur ponner, galvit 112 e Frañs."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Petra eo sinadoù bec'h an hini a labour?"
+    a: "Sinadoù boutin int: bezañ skuizh, dismegañs pe nec'het en-dro, bezañ fromet pe mall-spered aes, kousked fall, bezañ tristet pe disec'hus, dilezel ho mignoned, poanioù pen alies pe poanioù all, ha lezel da dremen ho lodenn-debriñ, ho kerzhadegoù pe ho soin yec'hed. Ma'h a sinadoù evel-se a zeu alies, komzit ouzh ho medisin."
+  - q: "Penaos kavout discuilh tost tro-dro din?"
+    a: "Kregit gant Eldercare Locator (1-800-677-1116 pe eldercare.acl.gov) evit kevreviñ ouzh ho Area Agency on Aging lec'hel, pe ouzh ARCH National Respite Locator Service, pe linenn skoazell Alzheimer's Association 1-800-272-3900. Tud-kin, mignoned ha yalc'hidi a c'hell ivez ober ar discuilh."
+  - q: "Ha Medicare a baey ar discuilh soin?"
+    a: "Evit un den a gav soin hospice, Medicare a zoug ar pezh vrasañ eus ar c'hostezh betek pemp devezh kenstag en un hospital pe en ur c'hreizenn soin skiltet, dre ma lavar an National Institute on Aging. Ar c'hempredoù asurañs yec'hed prevez ne zougont ket ar discuilh peurliesañ; Medicaid ha kelc'h kempredoù asurañs soin hirdermen a c'hell skoazellañ."
+  - q: "Ha linenn skoazell Alzheimer's Association a zo dieub ha digor en nozvezh ivez?"
+    a: "Ya. Alzheimer's Association a lavar ez eo dieub, kuzh ha bevennet d'al labourerien en-dro d'an eur, 365 devezh er bloavezh, gant skoazell e kalz yezhoù. Galvit 711 evit ur servij relaezh."
+  - q: "Ha fall eo kemer ur discuilh diouzh ar soin?"
+    a: "Ne vez ket. Ar repos a skoazell ac'h da zalc'hout, ha ar discuilh a c'hell ober ivez ur c'hemm en kevredigezh hag en oberiantiz evit an den a zo dindan ho paludamant. Kalz a dud a soin a lavar diwezhatoc'h ec'h hoant bezañ goulennet skoazell gwelloc'h."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Ma'h emaoc'h o tegemer soin un den a vev gant ur c'hleñved dementia, marteze e lennit ar pennad-mañ diwezhat, skuizh, ha gant ur roll a draoù n'hoc'h eus ket graet c'hoazh. Un dra normal eo. Soliñ ouzh ho-unan n'eo ket ul luxus pe ur fazi da zeuziñ ar pezh a zo da wneud. Ur pezh a laka ac'h da zalc'hout a zo ann.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ar bajenn-mañ a ziskouez sinadoù ar bec'h, penaos kaout ur discuilh gwirion, pelec'h kavout skoazell, ha linennoù skoazell dieub e Stadoù-Unanet a c'hallit galvout hiziv.
 
-## What are the signs of caregiver burnout?
+## Petra eo sinadoù bec'h an hini a labour?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Ar bec'h a zeu alies a-especk, neuze ur pezh talvoud eo gouzout ho sinadoù personel. An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) a zegas da c'houzout sinadoù dismegañs an hini a labour, en o zouez:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- bezañ skuizh, fromet pe nec'het;
+- bezañ dismegus pe fromet aes;
+- bezañ unan-ha-unan pe dilezet diouzh an dud all;
+- kousked fall pe n'ho peus ket kousket a-walc'h;
+- bezañ tristet pe disec'hus, pe kollet an enor e traoù a blijent deoc'h kent;
+- poanioù pen, poanioù korf pe kudennoù yec'hed all alies;
+- n'ho peus amzer ebet da vaga pe da zebriñ boued fiziet evit ho-unan;
+- lezel da dremen ho lodenn-gwallreizh pe ho c'hlanded;
+- implijout alkol pe drogoù a-gaoz, en o zouez medisinoù an destrad.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) a ouzhpenn sinadoù evel diskredo a-zivout ar c'hleñved, fier outo an den (« n'eo nemet fent »), nec'hded diwar-benn an amzer a zeu, kalz soursi, ha kleñvedoù yec'hed a zo o pouezhiñ warnoc'h. Kinniga a ra ac'h da gomz ouzh ho medisin ma'h emaoc'h gant sinadoù evel-se alies.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Hent an NIA eo chom da c'hortoz betek ma'h emaoc'h kreñv saourus. Gwelet ho sinadoù a-raok ha reizhañ ouzhto.
 
-## What can I do today, in five minutes?
+## Petra a c'hallan ober hiziv, en pemp munut?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Ar pezhioù bihan a bouez. Ne c'hallont ket reizhañ ar bec'h, met a c'hallont ho skoazellañ d'ober un eurvezh dizhañv.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Mont d'an awel.** Chom war an dor pe kerzhet betek ar postel en ur sell ma'h eo an den e surentez hag en un ene kempenn.
+- **Analañ gant lañs.** Un nebeud anaelioù lent a-raok respont ur goulenn diaes. Gallout a rit ivez rannañ ur pause [Calm Breathing](/games/calm-breathing/) gant an den a labourit evit-han.
+- **Evañ dour ha debriñ un dra.** Aes eo ankouaat ho boued.
+- **Skrivañ ouzh ur mignon.** Na vezit ket goulennet netra, nemet kevreviñ.
+- **Lavarout un dra vad deoc'h-hoc'h-unan.** Gant [kanllevr NIA evit soliñ ouzh ho-unan](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) e kinnig gerioù evel « Ober a rin ar pezh a c'hallan », « N'on ket perfed, ha n'eo ket diaes », ha « Plijadur a gavin en amzerioù pa vezimp asambles e peoc'h ».
 
-## What is respite care, and how do I get it?
+## Petra eo ar discuilh (respite) hag penaos e kavout?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Ar discuilh a zo ur soin berr evit an den a labourit evit-han, evit ma c'hallit repozi. Pajenn an NIA [diwar-benn ar discuilh](https://www.nia.nih.gov/health/caregiving/what-respite-care) a ziskouez e c'hall padout eus un nebeud eurioù betek meur a sizhun, hag e c'hall ober en ho ti, en ur c'hreizenn yec'hed pe en ur c'hreizenn dervez soin evit tud o-unan.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) a ziskouez ar seurtoù boutin:
 
-| Type | What it is |
+| Seurt | Petra eo |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Skoazell en ti | Ur mignon, ul lignez, ur volontour pe un implijer paet a zeu d'ar ti |
+| Kreizenn dervez evit tud kozh | Obererezhioù kempenn evel sonerezh ha arz en ur strollad surentez; alies e vez roet kas hagboued |
+| Chom un nozvezh pe ur prantad berr | Ur gumuniezh soin hirdermen a sikour an den ur nozvezh, un nebeud devezhioù pe un nebeud sizhunioù |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Piv a baea?** Hervez an NIA, ar discuilh gant familh, mignoned pe volontourien a c'hall bezañ dieub. Servijoù proraet a vez paeet dre an eur pe an deiz. Evit un den a gav soin hospice, Medicare a zoug ar pezh vrasañ eus ar c'hostezh betek pemp devezh kenstag en un hospital pe en ur c'hreizenn soin skiltet. Medicaid a c'hall skoazellañ. Kalz kempredoù asurañs yec'hed prevez ne zougont ket ar discuilh, met kelc'h kempredoù asurañs soin hirdermen a ra.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Awennadenn:** An Alzheimer's Association a lavar ez eus mat klask ar servijerien discuilh en ur sitwasion n'eo ket a-bouez bras, evit ma vezint parat ma'h hoc'h eus ezhomm sikour a-brim.
 
-## Where can I find help near me?
+## Pelec'h kavout skoazell tost tro-dro din?
 
-Several free US services can point you to local help.
+Servijoù dieub e Stadoù-Unanet a c'hall lakaat ac'h war an hent d'ar skoazell lec'hel.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Linenn 24/7 Alzheimer's Association: 1-800-272-3900.** Dieub hag kuzh eo al [linenn skoazell](https://www.alz.org/help-support/resources/helpline), staget ganti en amzer ebet pep deiz er bloavezh, gant skoazell e muioc'h eget 200 yezh dre al labourerien daouyezhek pe dre dreizerien. Galvit 711 evit ur servij relaezh. Gallout a rit komz diwar-benn kemmoù kefridi, straed an hini a labour, dibarzhioù discuilh, programmoù lec'hel ha muioc'h c'hoazh, hag goulenn ur gaozeadenn hirroc'h gant ur c'heloberer soin. An dud a labour er linenn ne roont ket kuzulioù medisinel.
+- **Eldercare Locator: 1-800-677-1116.** Ar [Eldercare Locator](https://eldercare.acl.gov/), ur servij publik eus an Administration for Community Living, a gevreb ac'h ouzh servijoù evit tud kozh hag o familhoù. Galvout a rit, skrivañ, kaozeal war al linenn pe klask dre al lec'hiadur gant tud staget. Ur gwir: gallout a ra ac'h digas da Area Agency on Aging lec'hel.
+- **ARCH National Respite Locator Service.** Skoazell a ra an [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) ac'h da gavout servijerien discuilh dre stad, hag e kinnig da gontañ gant ar State Respite Coalition pe ar programm Lifespan Respite a zo en ho stad, ma'h eus unan. Evit ARCH ne wirio ket ar servijerien, neuze gwelet pe zo ganto ar profiziantelezh hag ar c'hefluniadur evit-hoc'h-unan.
 
-## How do I find a support group?
+## Penaos kavout ur strollad skoazell?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Goulennit ar linenn skoazell pe klaskit en internet strolladoù tost deoc'h. An Alzheimer's Association [a ren strolladoù skoazell](https://www.alz.org/help-support/community/support-groups) evit an dud a labour ha evit an dud a vev gant ur c'hleñved dementia, war al lec'h pe enlinenn, dindan gidañs tud desket. Lec'hioù all a ro ivez strolladoù dibar, da skouer evit an dud a labour bras pe evit an dud a vev gant Alzheimer en ur c'hoant yaouankoc'h pe en ur c'hamm kentañ. Un lec'h enlinenn dieub, ALZConnected, a zo ivez, lec'h m'a rann ar re a labour kuzuliadennoù.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Ur strollad skoazell a c'hall bezañ ul lec'h da vont en-dro diwar ho spered hep bezañ barnet, da gaout awennadennoù pleustrus gant tud a zo bet e heñvel ho sitwasion, ha da vezañ nebeutoc'h unan. Ma ne ya ket ar strollad kentañ da c'hoant deoc'h, klaskit unan all.
 
-## How do I ask family and friends for help?
+## Penaos goulenn skoazell diouzh familh ha mignoned?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Bezit resis. Kalz a dud a fell dezho skoazellañ met ne ouzont ket petra kinnig. An NIA a zegas:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Miret ul listenn** eus al labourioù a c'hallfe tud all kemer warno, hag laoskit an dud dibab.
+- **Kregit gant tra bihan** ma'h eo diaes deoc'h goulenn.
+- **Sevel al labour d'an den.** Ar c'huzhenn a gar kozh a zeu da zebriñ d'ar Yaou; ar c'hi a c'hoarvez gant an dud a zo mat gant ar pennadoù a zeu da skoazellañ gant ar pennadoù.
+- **Skrivañ pe kas ur postel** ma'h eo diaes deoc'h goulenn e-keit ha beza en un tu-ha-tu.
+- **Kemer ur respont en ur santad** evit pa ginnig unan dielfenn deoc'h: « Trugarez da c'houlenn. Setu ar pezh a c'hallit ober. »
+- **Chom gant ur seurt nann.** Klaskit na gemerit ket anat ar re a lavar nann.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Ideoù all: goulennit ouzh unan da chom gant an den un eurvezh bep sizhun, da gas anezhañ en ur gerzhadenn berr, pe da weladenniñ ha lakaat ur c'hêm asambles. Ni an [kanllevr degas asambles](/caregiving/how-to-play-together/) a zo aes da rannañ gant ar weladennerien.
 
-## What if something happened to me?
+## Petra a c'hoarvez ma'h eo ret din tremen?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Lakait ur c'hynllun skoazell simpl bremañ. An NIA a gemer ar soñj da zibab gant ar familh pe mignoned tost piv a zeufe da skoazellañ, ha da skrivañ ur gourlenn gant niverennoù kefridi, medisinoù, awennadennoù a labour mat, hag ar c'hefluniadur a blij an den. An Alzheimer's Association a lavar ivez e vezo lakaet ar c'hetali gant ar medisinoù nevez hag ar c'hiniver gant ar c'hontakt yec'hed en un doare hag a vo aes da gavout.
 
-## When should I get professional or urgent help?
+## Pryd e tlefe din kaout skoazell proifes pe skoazell a-brim?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Komzit ouzh ho medisin ma'h eus sinadoù bec'h ahanoc'h alies, ma'h emaoc'h e kaousted, pe ma'h emaoc'h o kaout enkrez da zalc'hout ar bec'h. Lavarit d'ho medisin e labourit evit un den. An NIA a zegas e c'hall mestr-kuzuliañ ha labourerien an arvest sikour gant ar yezhadoù fromus hag ar c'heflunioù, ha ne ya ket gant an dra-se ur gwir ez a Medicare, Medicaid pe kempredoù asurañs prevez da baeañ kostezioù yec'hed ar spered.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Ma'h emaoc'h e kaousted pe ma'h emaoc'h gant soñjoù da wallac'hiñ ho-unan, galvit pe skrivit 988 evit mont en-dro ouzh al [linenn skoazell 988 Suicide & Crisis Lifeline](https://988lifeline.org/), dieub ha kuzh 24/7 (e Stadoù-Unanet). Mar eo en arvar un den, galvit 112 e Frañs.
 
-## Can shared activities give me a break too?
+## Ha gweladennoù boutin a c'hall ober ur discuilh deoc'h ivez?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Weithiau, ya. Un obererezh kalm a blijfe deoc'h, pe d'ho-daou, a c'hall bezañ un hanter-deiz gwelloc'h evit ho-unan hag evit an den a labourit evit-han: skoazhañ kanaouennoù kozh, sellet ouzh luc'hskeudennoù, pe ur c'hêm evel [Conversation Cards](/games/conversation-cards/) n'eus ezhomm a respontoù mat ebet. Ma'h eo plijet an den gant tud a zo asambles, ur gerzhadenn strollad gant [Picture Bingo](/games/picture-bingo/) en ur greizenn oadoù kozh pe ur programm dervez kozh a c'hall roiñ deoc'h un eurvezh discuilh. Gwelet [obererezhioù evit strolladoù ur gêr-kreizenn soin](/activities/care-home-groups/) evit kinnigoù.

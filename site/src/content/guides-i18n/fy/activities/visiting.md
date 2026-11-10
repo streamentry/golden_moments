@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Besite bringe oan immen mei demens"
+seoTitle: "Besite bringe oan immen mei demens: tips"
+description: "Wat jo dwaan kinne by in besite oan immen mei demens yn de ferpleechsoarch of it sikehûs: wat jo meinimme, ienfâldige aktiviteiten en ôfskied nimme."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  As jo immen mei demens besykje yn de ferpleechsoarch of it sikehûs, hâld it
+  ienfâldich: sis jo namme as jo oankomme, nim iets mei om te dielen, lykas
+  foto's, muzyk of in favorite snack, en doch ien maklik ding tegearre. Koarte,
+  reguliere besites geane faak better as lange, seldsume besites. Plan in rêstich,
+  bekend ôfskied, sadat fuortgean foar jim beiden makliker is.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Groetsje de persoan mei de namme en sis wa't jo binne, sadat dy der net oer nei hoecht te tinken: 'Hoi mem, ik bin Susan, dyn dochter.'"
+  - "Nim ien of twa dingen mei om te dielen, lykas in fotoalbum, favorite muzyk, in sêfte tekkens of in snack dêr't it personiel goedkarring foar jûn hat."
+  - "Koarte, reguliere besites geane faak better as lange, seldsume besites. Jo oanwêzigens telt mear as wat jo sizze."
+  - "Yn it sikehûs: jou it personiel in briefke fan ien side oer de persoan en fertel de dokter daliks oer elke hommelse feroaring."
+  - "Plan jo ôfskied: sis hoe lang jo bliuwe kinne, brûk eltse kear itselde ôfskied en gean fuort sûnder lang te bliuwen stean."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Wat moat ik meinimme as ik immen mei demens besykje?"
+    a: "Nim iets mei om te dielen, net iets om oer te praten. In lyts fotoalbum, in playlist mei favorite ferskes, in sêfte tekkens, hânlotion, in tydskrift oer in âlde hobby, of in snack dêr't it personiel goedkarring foar jûn hat, kin wol passe. Yn in ferpleechhûs kinne famyljefoto's en bekende dingen de keamer ek mear as thús fiele litte."
+  - q: "Hoe lang moat ik bliuwe as ik immen mei demens besykje?"
+    a: "Dêr is gjin juste lingte foar. In protte famyljes fine dat koartere, faker besites better wurkje as lange, seldsume besites, om't de persoan gau wurch wurde kin en miskien net ûnthâldt hoe lang jo bleaunen. Sjoch nei tekens fan wurgens en gean fuort wylst it besite noch goed fielt."
+  - q: "Wat sis ik as de persoan freget om nei hûs te gean?"
+    a: "Reagearje op it gefoel, net op de wurden. 'Ik wol nei hûs' betsjut faak 'Ik fiel my net noflik of feilich.' Besykje te sizzen: 'Fertel my oer jo hûs', sjoch tegearre nei foto's, of bied in kuierke of in snack oan. Tsjinprate of útlizze wêrom't de persoan net fuort kin, jout meastentiids mear spanning."
+  - q: "Wat as de persoan my net werkent?"
+    a: "Dat kin sear dwaan, mar besykje de persoan net te ferbetterjen of te freegjen: 'Witte jo net wa't ik bin?' Stel josels waarm en ienfâldich foar en genietsje gewoan fan de tiid tegearre. In protte minsken fine selskip noch noflik en fiele de waarmte fan in besite, ek as se net witte wa't jo binne."
+  - q: "Hoe kin ik helpe by in ferbliuw yn it sikehûs?"
+    a: "Bliuw sa folle mooglik by de persoan, help mei iten en drinken, en nim bekende dingen mei, lykas foto's. Jou it personiel in briefke mei de dei-yndieling, de namme dêr't de persoan graach mei oansprutsen wurdt, wat de persoan wol en net wol mjocht, en tekens fan pine. Fertel de dokter daliks as de persoan hommels minder liket of oars is, want hommelse betizing kin wize op in medysk probleem."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+In besite bringe oan immen dy't jo leaf hawwe yn de ferpleechsoarch, in ferpleechhûs of it sikehûs kin in protte gefoelens oprolje. Jo freegje josels miskien ôf wat jo sizze moatte, wat jo meinimme kinne, of it besite wol wat útmakket as de persoan it net ûnthâldt. It makket wol wat út. It National Institute on Aging seit dat minsken mei de sykte fan Alzheimer [faak genietsje fan selskip](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), ek as se net ûnthâlde wa't de besiker is. Dizze side jout praktyske stappen foar, tidens en nei in besite, plus spesjale tips foar in ferbliuw yn it sikehûs.
 
-## How do I get ready for a visit?
+## Hoe kin ik in besite tariede?
 
-A little planning makes the visit easier for both of you.
+In bytsje tarieding makket it besite foar jim beiden makliker.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Kies in goed momint.** Dementia Australia riedt oan om te kommen as de persoan meastentiids it meast alert is, wat foar in protte minsken de moarns of om 'e middei is. De Family Caregiver Alliance riedt oan om it skema fan de ynstelling te kennen en te kommen yn [frije tiid yn stee fan aktiviteitentiid](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Nim kontakt op mei it personiel.** Freegje hoe't it hjoed mei de persoan giet, en kontrolearje regels oer iten, húsdieren of útstapkes.
+- **Pak in lytse besitesek.** Ien of twa dingen om te dielen is genôch (sjoch de list hjirûnder).
+- **Tink oan in pear ûnderwerpen.** De persoan hat miskien gjin nij nijs te fertellen, dus nim jo eigen ûnderwerpen mei: famyljenijs, it waar, in sportwedstriid, in grappich ferhaal.
+- **Stel jo eigen ferwachtings by.** Guon besites sille waarm en petearich wêze. Oare sille stil of lestich wêze. Beide is normaal.
 
-## What should I bring?
+## Wat moat ik meinimme?
 
-Bring things to share, not things that test. Good choices include:
+Nim dingen mei om te dielen, net dingen dy't teste. Goede karren binne:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **In lyts fotoalbum** mei grutte, dúdlike foto's. Skriuw op 'e efterkant derop wat derop stiet, foar it personiel.
+- **In playlist** mei favorite ferskes op in telefoan, mei ienfâldige koptelefoan of in lytse sprekker.
+- **Iets sêfts om fêst te hâlden,** lykas in bekende tekkens, sjaal of trui.
+- **Hânlotion** foar in sêfte hânmassaazje, as de persoan oanrekking noflik fynt.
+- **In tydskrift of prenteboek** oer in âlde belangstelling, lykas túnwurk, auto's, fûgels of iten meitsje.
+- **In favorite snack**, as it personiel seit dat it feilich is.
+- **Bekende dingen foar de keamer.** De Family Caregiver Alliance neamt blommen, planten, famyljefoto's en keunst, of in grutte poster mei famyljefoto's fan earder.
+- **In tablet**, om tegearre nei famyljefoto's te sjen of in rêstich spultsje te spyljen.
 
-## What can we do together during a visit?
+## Wat kinne wy tegearre dwaan tidens in besite?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Iets tegearre dwaan nimt de druk fan it petear fuort. Dementia Australia neamt it sjen nei foto's, in maklik knutselprojekt, siedlingen plantsje, muzyk, tegearre in snack ite, of in kuierke oer it terrein. Noch in pear ideeën:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Sjoch nei foto's.** Wiis op wat jo sjogge: „Sjoch dy hoed ris." „Dit strân liket moai." Lit de persoan liede. Foarkom „Wa is dit?"
+2. **Spylje muzyk en sjong.** Bekende ferskes kinne de stimming ferbetterje en in dield momint bringe, ek as praten lestich is.
+3. **Meitsje in koart kuierke.** De Family Caregiver Alliance riedt oan om in rûntsje troch de ynstelling te meitsjen, benammen yn 'e tún as dy der is. In kuierke yn in rolstoel telt ek.
+4. **Jou in hânmassaazje.** In bytsje lotion en stadige bewegingen oer de hannen kinne kalmerend wêze.
+5. **Help mei fersoargjen.** Dementia Australia neamt hier boarsteljen, neilak oanbringe of de persoan helpe in favorite set klean oan te dwaan, as de persoan dat noflik fynt.
+6. **Spylje in ienfâldich spultsje.** De Family Caregiver Alliance neamt kaarten, domino, of wat de persoan earder spile. Op in tablet kinne jo [Picture Pairs](/games/picture-pairs/) spylje mei de plaatjes sichtber en sûnder tiidklok. [Photo Pairs](/games/photo-pairs/) makket fan foto's dy't jo kieze in matchspultsje, en de foto's bliuwe yn jo browser.
+7. **Sjoch tegearre nei wat.** De Family Caregiver Alliance neamt komeedzjes en âlde films. Ek as de persoan it ferhaal net folgje kin, kinne jo ticht byinoar sitten en de tiid diele.
+8. **Lês hurdop foar.** In koart gedicht, in favorite passazje, of in brief fan in famyljelid.
+9. **Sit gewoan tegearre.** Hannen fêsthâlde of stil byinoar sitten is ek in echt besite. De Alzheimer's Association seit dat it goed is as jo net witte wat jo sizze moatte, en dat jo oanwêzigens it wichtichste is.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) kinne helpe as jo net mear witte wat jo sizze moatte. Elke kaart hat in plaatje en in iepen fraach.
 
-## How should I talk during the visit?
+## Hoe moat ik prate tidens it besite?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Stel josels eltse kear foar.** „Hoi heit, ik bin Mark, dyn soan." It NIA riedt besikers oan om har koart foar te stellen om in petear te begjinnen.
+- **Kom fan foaren ôf** en sit op eachhichte.
+- **Ferbetterje net en gean net yn diskusje.** It NIA riedt besikers oan om de persoan net te ferbetterjen as dy in flater makket of wat ferjit.
+- **Wês geduldich** as wurden dreech te finen binne. Jou genôch tiid.
+- **Reagearje op gefoelens.** As de persoan tryst of soargen liket, erken dat foardat jo fan ûnderwerp feroarje.
+- **Foarkom kontrarollefragen** lykas „Witte jo noch wa't ik bin?" of „Wat hawwe jo foar it middeimiel iten?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Sjoch ek ús [tips foar kommunikaasje](/caregiving/communication-tips/) foar mear.
 
-## What do I do when they say "I want to go home"?
+## Wat doch ik as de persoan seit: „Ik wol nei hûs"?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Reagearje op it gefoel efter de wurden (ús gids oer [as immen bliuwend freget om nei hûs te gean](/caregiving/asking-to-go-home/) giet hjir fierder op yn). De Family Caregiver Alliance leit út dat „Ik wol nei hûs" meastentiids in manier is om te sizzen „Ik fiel my net noflik", en suggerearret antwurden lykas „Fertel my oer jo hûs" of „Wat fine jo it moaiste oan hûs?" Dementia Australia foeget ta dat „hûs" ek in tiid of plak betsjutte kin dêr't de persoan him feilich fielde, lykas de bernetiid.
 
-Try:
+Besykje:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- it gefoel te erkennen: „It liket derop dat jo hûs misse."
+- treast te bieden troch oanrekking, as dat wolkom is
+- tegearre nei foto's te sjen of oer it famyljehûs te praten
+- in kuierke, in drankje of in snack oan te bieden
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Foarkom tsjinprate of útlizze wêrom't de persoan net fuort kin. It helpt selden en jout faak mear spanning.
 
-## How long should a visit be?
+## Hoe lang moat in besite duorje?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Koarter en faker wurket faak better. De Family Caregiver Alliance seit dat de persoan meastentiids net ûnthâldt oft jo fiif minuten of fiif oeren bleaunen, en suggerearret dat trije koarte besites yn 'e wike better wêze kinne as ien lang besite. Dementia Australia seit dat der gjin juste tal besites of juste lingte is.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Yn 'e earste wiken nei in ferhuzing nei de ferpleechsoarch riedt de Family Caregiver Alliance oan om faak te kommen en dan stadichoan in fêst patroan te finen. Freegje it personiel wat sy sjogge.
 
-## How do I leave without upsetting them?
+## Hoe gean ik fuort sûnder de persoan fan 'e streek te meitsjen?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Fuortgean kin it dreechste diel wêze. Dementia Australia riedt oan:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Sis by it oankommen hoe lang jo bliuwe kinne.** „Ik kin in oere bliuwe, dan gean ik boadskippen dwaan."
+- **Brûk in aktiviteit as natuerlik ein.** „As dit ferske klear is, gean ik fuort."
+- **Plan it om in mieltiid of aktiviteit hinne,** of freegje it personiel om de persoan te helpen mei wat oars dwaan te gean.
+- **Hâld it ôfskied koart en eltse kear itselde.** Lang trochhingje, ferûntskuldigje of „noch efkes" bliuwe kin takomstige ôfskieden dreger meitsje.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Nei't jo fuort binne, is it normaal om jo tryst te fielen. Jou josels rêst. As de persoan fan 'e streek rekke, kin it personiel meastentiids gau helpe om wer ta rêst te kommen.
 
-## Visiting someone with dementia in the hospital
+## Ien mei demens besykje yn it sikehûs
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+In sikehûs is drok, ûnbekend en fol mei frjemde minsken, wat tige lestich wêze kin foar in persoan dy't mei demens libbet. De NIA-gids oer it [meinimme fan in persoan mei de sykte fan Alzheimer nei it sikehûs](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) riedt oan:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Soargje dat der sa folle mooglik immen by de persoan bliuwt**: in famyljelid, in fertroude freon of in ynhuurde fersoarger.
+- **Jou it personiel in persoanlik ynformaasjeblêd** mei de dei-yndieling fan de persoan, de namme dêr't de persoan graach mei oansprutsen wurdt, wat de persoan wol en net wol mjocht, mooglike oarsaken fan spanning, en net-ferbale tekens fan pine. Liz kopyen yn 'e keamer en by it ferpleechstee.
+- **Help mei iten en drinken.** Aldere minsken kinne yn it sikehûs te min iten krije. Iepenje ferpakkingen, help by mieltiiden, yt tegearre, en bied drinken oan.
+- **Nim treastlike dingen mei,** lykas foto's of geastlike foarwerpen.
+- **Meitsje it rêstiger.** Doch de tv út en set it lûd fan telefoans en omroppen leger.
+- **Besykje kalmerende gewoanten,** lykas kalme muzyk, foarlêzen, bidden, sjonge of tegearre âlde foto's besjen.
+- **Stimulearje beweging** safolle as feilich is, mei goedkarring fan it personiel.
+- **Fertel de dokter daliks as de persoan hommels minder liket of oars is.** It NIA leit út dat hommelse, slimme betizing, delirium neamd, komme kin troch problemen lykas in ynfeksje, koarts, útdroeging of side-effekten fan medisinen, en medyske oandacht nedich hat.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+In koart, rêstich besite mei in bekend gesicht en in favorite ferske kin it treastlikste diel fan in dei yn it sikehûs wêze.
 
-## Bringing children on a visit
+## Bern meinimme op besite
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Bern kinne in protte waarmte bringe. Tariede se derfanôf mei ienfâldige, earlike wurden, hâld it besite koart, en jou se in taak, lykas in tekening sjen litte of in foto oerjaan. It NIA seit dat bern en minsken mei de sykte fan Alzheimer tegearre genietsje kinne fan ienfâldige aktiviteiten, lykas tegearre in fotoalbum besjen of nei muzyk harkje. Dementia Australia riedt oan om in lytse tas mei snoep of stille dingen mei te nimmen om jonge bern dwaande te hâlden.
 
-## Take care of yourself too
+## Soargje ek foar josels
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+In besite bringe kin wurch en emosjoneel wêze, benammen as de persoan in protte feroare is. It is goed om minder faak te kommen as jo dat nedich hawwe, in freon mei te nimmen foar stipe, of op in drege dei earder fuort te gean. Foar ideeën oer hoe't jo foar josels soargje kinne, sjoch [selssoarch foar fersoargers](/caregiving/caregiver-self-care/). As jo fier fuort wenje, sjoch ús gids oer [telefoan- en fideopetearen](/activities/phone-and-video-calls/).

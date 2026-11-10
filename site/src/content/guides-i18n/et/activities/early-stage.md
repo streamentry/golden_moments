@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Tegevused dementsuse varajases staadiumis"
+seoTitle: "Tegevused varajases dementsuses: sobivad ideed"
+description: "Tegevusideed dementsuse varajases staadiumis: hobid, mängud, väljasõidud, kirjutamine ja ühine planeerimine väikeste kohandustega."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Dementsuse varajases staadiumis saavad enamik inimesi jätkata tegevusi, mis
+  neile meeldivad: hobid, kaardi- ja lauamängud, toiduvalmistamine,
+  aiandus, jalutamine, klubid, usulised tegevused ja vabatahtlik töö.
+  Peamised muudatused on väiksemad seltskonnad, lühemad väljasõidud,
+  lihtsad kirjalikud plaanid ja lähedane inimene kõrval. Küsige inimeselt,
+  millist abi ta soovib, ja laske tal juhtida.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Enamik inimesi elab varajases staadiumis üsna iseseisvalt. Tavaliselt tuleb tegevusi kohandada, mitte asendada."
+  - "Küsige inimeselt, millist tuge ta soovib, ja leppige kokku lihtne märk, mis näitab, millal abi on teretulnud."
+  - "Väiksemad seltskonnad, rahulikum aeg ja lühemad väljasõidud võivad palju muuta."
+  - "See on hea aeg, kui inimene saab ise juhtida oma eluga seotud projekte, näiteks päevikut või elulooraamatut."
+  - "Valige mänge naudingu pärast. Jätke kõrvale kõik, mis hakkab tunduma nagu kontroll."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Millised tegevused sobivad dementsuse varajases staadiumis?"
+    a: "Tavaliselt samad, mis inimesele juba meeldivad: kaardid, lauamängud, toiduvalmistamine, aiandus, jalutamine, muusika, usulised tegevused, klubid ja vabatahtlik töö. Võib-olla tuleb neid teha lühemalt, rahulikumalt või lihtsamalt. Päeviku pidamine, kirjade kirjutamine ja elulooraamatu koostamine sobivad sellesse staadiumisse samuti hästi."
+  - q: "Kuidas aidata, ilma üle võtmata?"
+    a: "Küsige, millist abi inimene soovib, ja uurige sageli järele. Leppige kokku fraas või noogutus, mis tähendab, et sekkuda on sobiv, näiteks kui sõna või nimi ei tule meelde. Kui turvariski ei ole, laske inimesel teha omal viisil, isegi kui see võtab kauem aega."
+  - q: "Kas dementsuse varajases staadiumis tasub proovida uusi tegevusi?"
+    a: "Jah, kui inimene ise seda soovib. Tuttavad hobid on tavaliselt kõige lihtsamad, kuid paljudele meeldivad ka uued tegevused, näiteks dementsussõbralik jalutusrühm, kunstiklass või laulukoor. Proovige üks kord ilma surveta ja vaadake, kuidas see tundub."
+  - q: "Kas ajutreeningu rakendustest on varajases staadiumis kasu?"
+    a: "Mõnele inimesele meeldivad pusled ja sõnamängud ning see nauding on juba iseenesest hea põhjus. Ükski rakendus ega mäng ei ole näidanud, et see raviks, aeglustaks või peataks dementsust. Kui mäng tekitab pinget või paneb inimese tundma, et tal ei õnnestu, jätke see kõrvale."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Dementsuse varajases staadiumis elavad paljud inimesed üsna samamoodi nagu varem. Nad võivad töötada, teha vabatahtlikku tööd, kohtuda sõpradega ja korraldada suure osa oma päevast. Tavaliselt ei ole vaja tegevusi asendada, vaid teha mõni kohandus, et need jääksid nauditavaks. Teie roll on pigem partner kui hooldaja: inimene, kes toetab, planeerib koos teiega ja sekkub ainult siis, kui seda palutakse.
 
-## What activities are good in early-stage dementia?
+## Millised tegevused sobivad dementsuse varajases staadiumis?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Parimad tegevused varajases staadiumis on tavaliselt need, mida inimene juba armastab, ainult veidi lihtsamaks tehtuna. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) toob näiteid nagu kaardi- ja lauamängud, sõnaotsingud, jalutamine, tantsimine, aiandus, lillede seadmine, lugude jutustamine, maalimine, muusika, päeviku pidamine, kirjade kirjutamine, märkmike koostamine, toiduvalmistamine ja pühadetraditsioonid.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Sageli muutub tegevuse keskkond, mitte tegevus ise. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) märgib, et varajases staadiumis võivad inimesed hakata vältima asju, mis neile varem meeldisid, ja toob näite inimesest, kes tunneb end suures peol ülekoormatuna, kuid saab väiksemas seltskonnas paremini hakkama. Rääkige avatult sellest, mis tundub raskem, ja tehke koos muudatusi.
 
-## Ask first, and agree on how to help
+## Küsige enne ja leppige kokku, kuidas aidata
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Associationi juhised varajase staadiumi kohta](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) pakuvad mõned harjumused, mis sobivad ka tegevuste puhul:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Küsige otse.** „Mis teeks raamatuklubi teile lihtsamaks?” annab parema vastuse kui oletamine.
+- **Eeldage, et inimene saab hakkama.** Kui turvariski ei ole, laske inimesel proovida ja julgustage, mitte ärge võtke üle.
+- **Leppige kokku märk.** Valige fraas või noogutus, mis tähendab „võid nüüd sekkuda”, näiteks kui nimi ei tule kaardimängu ajal meelde.
+- **Uurige regulaarselt järele.** Küsige, kas abi kogus tundub sobiv, liiga suur või liiga väike.
 
-## Activity ideas for the early stage
+## Tegevusideed varajase staadiumi jaoks
 
-### Keep up roles and hobbies
+### Hoidke alles rolle ja hobisid
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Säilitage regulaarne kohustus.** Iganädalane vabatahtlik töö, koorilaul või klubi annab nädalale struktuuri. Kui see muutub pingeliseks, võib sobida lühem või rahulikum roll.
+- **Planeerige koos toidukordi.** Kui toidupoodides käimine on muutunud kurnavaks, soovitab Alzheimer's Association paluda inimesel aidata planeerida nädala menüüd ja kirjutada ostunimekiri.
+- **Kokkamine ja küpsetamine.** Järgige koos lemmikretsepti. Pange koostisosad enne alustamist järjekorda, et sammud oleksid näha.
+- **Aiandus.** Planeerige peenar, valige seemned või taimed ja tehke tööd koos. Kirjalik nimekiri nädala aiatöödest aitab.
+- **Jätkake käsitööga.** Puidutöö, õmblemine, kudumine või mudelite valmistamine võivad jätkuda lihtsamate mustrite ja hea valgusega.
 
-### Games for enjoyment
+### Mängud naudingu jaoks
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Mängige kaardi- ja lauamänge.** Tuttavad mängud on kõige lihtsamad. Mängige võistkondades, et keegi ei tunneks end proovile panduna, ja pidage skoori vabalt või üldse mitte.
+- **Proovige suurte tähtedega sõnaotsingut.** Meie [sõnaotsingut](/games/word-search/) saab mängida ekraanil või printida rahulikuks hetkeks.
+- **Pange kokku puslesid.** Valige tükkide arv, mis tundub lõõgastav, mitte keeruline. [Pildipusle](/games/picture-puzzle/) on lühike ekraaniversioon ja meie juhend [puslede kohta dementsuse korral](/activities/puzzles/) aitab sobivat valida.
+- **Osalege viktoriinis lõbu pärast.** Mõnele inimesele meeldib meeskonnaga viktoriiniõhtu. Kui see hakkab tunduma nagu kontroll, valige midagi muud või proovige meie [lihtsaid viktoriiniküsimusi](/activities/trivia/), millel on vastusevariandid ja skoor puudub.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Mängud on siin mõeldud rõõmuks. Ükski mäng ei ole näidanud, et see raviks või aeglustaks dementsust; lugege rohkem lehelt [ajumängud: mida uuringud näitavad](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Kirjutage, mõtisklege ja jäädvustage
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Pidage päevikut.** Alzheimer's Association soovitab päeviku pidamist ühe viisina, kuidas pärast diagnoosi tunnetega toime tulla. Piisab paarist reast päevas.
+- **Juhtige elulooraamatu koostamist.** Varajane staadium on hea aeg, et inimene saaks ise valida fotod ning kirjutada või ette öelda nende taga olevad lood. Vaadake [meenutustegevusi](/activities/reminiscence/).
+- **Kirjutage kirju.** Kiri lapselapsele, vanale sõbrale või endisele kolleegile võib olla tähenduslik mõlemale poolele.
+- **Rääkige fotode põhjal.** [Fotopaarid](/games/photo-pairs/) muudab perefotod õrnaks sobitamismänguks ja [vestluskaardid](/games/conversation-cards/) annavad lihtsad lähtekohad vestluseks.
 
-### Go out and move
+### Käige väljas ja liikuge
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) soovitab jätkata tuttavaid väljasõite nii kaua, kuni see on teile mõlemale mugav. Planeerige need inimese parimaks ajaks päevas ja ärge tehke neid liiga pikaks.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Lühikesed kultuurikäigud.** Muuseum, päevaetendus või kunstinäitus, ideaalis rahulikumal ajal.
+- **Ujumine.** NIA soovitab basseini vaiksemal ajal päevas.
+- **Jalutusrühmad ja tantsuklassid.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mainib tantsu, tai chi'd, joogat, ujumist ja jalutusrühmi ning dementsussõbralikke tegevusi, kui need on saadaval.
+- **Laulmise rühmad ja mälukohvikud.** Rahulikud kokkusaamised, kus dementsusega inimesed ja nende lähedased saavad kohtuda teistega samas olukorras.
 
-## Small changes that keep activities enjoyable
+## Väikesed muudatused, mis hoiavad tegevused nauditavana
 
-| If this is getting harder | Try this |
+| Kui see muutub raskemaks | Proovige seda |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Rahvarohked või lärmakad kohad | Minge rahulikumal ajal, valige väiksemad seltskonnad, istuge ruumi serva |
+| Uute nimede meeldejätmine | Tutvustage inimesi igal korral nimepidi; paluge rühmadel kasutada nimesilte |
+| Mitmeastmeliste plaanide järgimine | Kirjutage sammud üles või pange kõik enne alustamist järjekorda |
+| Väsimine | Lühemad väljasõidud, pärast puhkamine, samale päevale muud ei planeerita |
+| Mängus järje pidamine | Mängige võistkondades, lihtsustage reegleid või jätke punktiarvestus ära |
+| Sõnade leidmine | Andke aega; pakkuge sõna ainult siis, kui teie kokkulepitud märk seda lubab |
 
-## When to slow down
+## Millal tasub tempot aeglustada
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Lõpetage või muutke tegevust siis, kui see tekitab rohkem pinget kui rõõmu. Korduv pettumus, hobi vältimine või ütlemine „ma lihtsalt ei jaksa enam” väärivad õrna vestlust, mitte surumist. Sageli on lahenduseks sama tegevuse väiksem versioon. Kui inimene vajab rohkem abi alustamiseks ja sammude järgimiseks, võivad sobida ideed lehelt [tegevused keskmises staadiumis](/activities/middle-stage/). Toetava vestluse kohta leiate rohkem lehelt [suhtlemisnõuanded](/caregiving/communication-tips/) ning palju rohkem ideid lehelt [101 tegevust](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Lähedased vajavad samuti tuge. Varajane staadium on hea aeg oma tugivõrgustiku loomiseks; vaadake [hooldaja enesehooldust](/caregiving/caregiver-self-care/).

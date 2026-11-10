@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Consellos para falar con alguén que vive con demencia"
+seoTitle: "Falar con demencia: que dicir e que evitar"
+description: "Formas prácticas de falar con unha persoa que vive con demencia: como preparar a conversa, que dicir en vez de preguntar ou corrixir, e como escoitar."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Fale nun lugar tranquilo, mire a persoa de fronte, use o seu nome e fale
+  amodo con frases curtas e sinxelas. Faga unha pregunta de cada vez, ofreza
+  dúas opcións en vez de preguntas abertas e agarde máis tempo do que lle
+  pareza natural. Non discuta, non corrixa nin faga probas de memoria.
+  Responda ao sentimento que hai detrás das palabras e, cando falar sexa máis
+  difícil, use o tacto, as imaxes e os xestos.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Reduza o ruído de fondo e consiga contacto visual antes de empezar a falar."
+  - "Use frases curtas, unha idea de cada vez, e nomes en vez de el, ela ou eles."
+  - "Ofreza dúas opcións, ou unha pregunta de si ou non, en vez de preguntas abertas."
+  - "Agarde unha resposta. Se non a entenden, repita as mesmas palabras e despois probe con outras."
+  - "Non discuta nin corrixa. Responda ao sentimento que hai detrás do que di."
+  - "Cando as palabras escasean, comuníquese co tacto, o ton, a expresión facial e imaxes compartidas."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Que non debería dicirlle a unha persoa que vive con demencia?"
+    a: "Evite facer probas de memoria («Lémbraste de...?»), corrixir («Iso non é así»), lembrarlle perdas («Xa cho dixen») e falar dela como se non estivese presente. Evite falarlle como a un neno ou nena. Isto adoita causar vergoña ou malestar sen axudar."
+  - q: "Debería corrixila cando se equivoca cos feitos?"
+    a: "Normalmente non. Se un feito equivocado non causa dano, déixeo pasar. Discutir case nunca cambia a opinión da persoa e moitas veces faille sentir mal. Céntrese en como se sente e no que necesita agora mesmo."
+  - q: "Que fago cando non atopa unha palabra?"
+    a: "Déalle tempo primeiro. Se ve que lle está custando moito, pode suxerirlle unha palabra con suavidade ou adiviñar o que quere dicir e comprobalo. Sinalar, facer xestos e usar imaxes tamén pode axudar."
+  - q: "Como falo cunha persoa nunha fase avanzada da demencia que case non fala?"
+    a: "Achégueselle de fronte, diga quen é e use unha voz tranquila e un tacto suave. Observe a cara e a linguaxe corporal para entender como se sente. A súa presenza, unha canción coñecida ou collerlle a man poden comunicar moito sen palabras."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+A demencia pode dificultar atopar as palabras, seguir unha frase longa ou ignorar o ruído de fondo. Nada disto significa que a persoa deixase de querer conectar. Pequenos cambios na forma de preparar unha conversa, de falar e de escoitar poden facer que conversar sexa máis doado e tranquilo para ambas as persoas.
 
-## What are the most important tips for talking with someone who has dementia?
+## Cales son os consellos máis importantes para falar cunha persoa que vive con demencia?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Chame a súa atención, simplifique e teña paciencia. Se só lembra cinco cousas:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Acale o espazo e mírea de fronte.** Apague a televisión, séntese á súa altura e use o seu nome.
+2. **Diga unha cousa de cada vez.** Frases curtas, unha idea, unha pregunta.
+3. **Ofreza dúas opcións.** «Té ou café?» é máis doado que «Que che apetece tomar?».
+4. **Agarde.** Déalle máis tempo para responder do que lle pareza natural e tente non interromper.
+5. **Non discuta nin faga probas de memoria.** Responda a como se sente, non a se os feitos son correctos.
 
-## How should I start a conversation?
+## Como comezo unha conversa?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Prepare a situación para que a persoa poida centrarse en vostede. A [guía da Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recomenda reducir primeiro o ruído: apague a radio ou a televisión, peche as cortinas ou a porta, ou vaian a un lugar máis tranquilo.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Achégueselle de fronte.** Chegar por detrás ou polo lado pode asustala.
+- **Diga quen é.** «Ola, papá, son Sara, a túa filla». Así evita que teña que buscar o seu nome.
+- **Póñase á súa altura.** Se está sentada, sente ou axeonlle para quedar cos ollos ao mesmo nivel.
+- **Coide a súa expresión e o seu ton.** O [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) aconsella prestar atención ao ton, ao volume, á expresión facial e á linguaxe corporal, e manter un xeito amable e natural.
+- **Asegúrese de que leva as lentes e os audífonos.** É difícil seguir unha conversa que non se pode ver ou oír ben.
 
-## How should I phrase what I say?
+## Como debo expresar o que digo?
 
-Use simple words, short sentences and a calm, low voice.
+Use palabras sinxelas, frases curtas e unha voz tranquila e grave.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Unha idea por frase.** «Imos poñer o abrigo. Despois saímos fóra». Non todo de vez.
+- **Use nomes, non pronomes.** «Chamou a tía Xoana» é máis claro que «Chamou ela».
+- **Fale máis grave, non máis alto.** A Family Caregiver Alliance suxire usar unha voz máis grave en vez de subir o volume.
+- **Repita e despois reformule.** Se non entendeu, repita as mesmas palabras unha vez. Se iso non funciona, agarde un momento e probe con outras palabras.
+- **Mostre ademais de dicir.** Sinale a cunca, ensine os dous xerseis ou mostre o primeiro paso.
+- **Fale con ela, non dela.** O NIA recomenda non falar da persoa como se non estivese presente e non falarlle como a un neno ou nena.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+O NIA suxire versións máis sinxelas de preguntas comúns. Velaquí algúns exemplos nese mesmo sentido:
 
-| Instead of | Try |
+| En vez de | Probe con |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Que queres cear?» | «Queres peixe ou polo?» |
+| «Como te sentes?» | «Sínteste cansa?» |
+| «Tes fame?» | «A cea estará lista en cinco minutos». |
+| «Así non se fai». | «Imos probalo deste xeito». |
+| «Lémbraste da nosa viaxe ao lago?» | «Estaba pensando na nosa viaxe ao lago. Cóntame que che gustou dela». |
+| «Xa cho dixen». | Respóndalle outra vez, con amabilidade, como se fose a primeira vez. |
 
-## How do I listen well?
+## Como escoito ben?
 
-Listen for the meaning and the feeling, not just the words.
+Escoite o significado e o sentimento, non só as palabras.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Agarde.** O silencio adoita ser tempo para pensar. Conte amodo ata dez antes de intervir.
+- **Ofreza unha palabra só se está atascada.** A Family Caregiver Alliance indica que está ben suxerir palabras cando alguén ten dificultades.
+- **Comprobe o que escoitou.** A [guía de comunicación da Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) suxire buscar o significado detrás das palabras e repetilo para comprobar que entendeu. «Estás preocupada polo coche?».
+- **Observe a súa cara e o seu corpo.** Cando falar se fai máis difícil, o NIA sinala que as expresións faciais poden mostrar tristeza, enfado ou frustración con máis claridade que as palabras.
+- **Tome en serio as súas preocupacións.** Mesmo se unha preocupación se basea nun feito equivocado, o sentimento é real.
 
-## What if they say something that is not true?
+## E se di algo que non é certo?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Non discuta. É pouco probable que cambie de idea, e a persoa pode acabar sentíndose avergoñada ou asustada. No seu lugar, conéctese co sentimento e despois siga adiante con suavidade.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+A Family Caregiver Alliance suxire recoñecer a emoción antes de redirixir a conversa. Por exemplo, se a súa nai insiste en que ten que ir buscar os nenos ao colexio:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- En vez de: «Mamá, os teus fillos xa son maiores. Iso foi hai corenta anos».
+- Probe con: «Sempre fuches unha nai moi agarimosa. Cóntame como ibas buscala. Queres que merendemos antes?».
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+A Alzheimer's Association tamén recomenda non discutir por afirmacións coas que non estea de acordo. Elixa os momentos: se unha crenza equivocada non causa dano, déixea pasar.
 
-## How does communication change as dementia progresses?
+## Como cambia a comunicación a medida que avanza a demencia?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+As necesidades cambian co tempo, así que adapte a súa forma de comunicarse. A Alzheimer's Association describe tres fases xerais:
 
-| Stage | What helps |
+| Fase | Que pode axudar |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Inicial | Non dea por feito que non pode comunicarse. Inclúaa nas conversas, fálle directamente, pregúntelle que apoio quere e use o humor se lle axuda. |
+| Intermedia | Conversas dun en un nun lugar tranquilo. Fale amodo, manteña o contacto visual, faga preguntas de si ou non, dea instrucións paso a paso e non a critique nin a corrixa. |
+| Avanzada | Achégueselle de fronte e diga quen é. Anímea a sinalar e facer xestos. Use o tacto, os sons, as imaxes e os cheiros. Non fale nunca como se non estivese presente. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Cada persoa é diferente, e a mesma persoa pode ter días bos e días difíciles. Responda a como está agora mesmo, non a unha etiqueta.
 
-## Can pictures and activities make conversation easier?
+## Poden as imaxes e as actividades facer a conversa máis doada?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Si. Unha imaxe compartida quita presión e dálle a ambas as persoas algo que mirar e sinalar.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Imaxes para conversar.** [Conversation Cards](/games/conversation-cards/) ofrece imaxes con preguntas abertas que non poñen a proba a memoria.
+- **Fotos da familia.** [Photo Pairs](/games/photo-pairs/) converte as fotos que vostede escolle nun xogo suave de parellas, que a miúdo esperta historias.
+- **Ditos coñecidos.** [Finish the Saying](/games/finish-the-saying/) usa ditos populares, seguidos dunha proposta para conversar.
+- **Xogos de parellas como apoio.** [Picture Pairs](/games/picture-pairs/) dálle ás mans algo que facer mentres conversan.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Vexa [como xogar xuntos](/caregiving/how-to-play-together/) e as [actividades de reminiscencia](/activities/reminiscence/) para saber máis. Para visitas e chamadas, consulte as nosas guías sobre [visitas](/activities/visiting/) e [chamadas de teléfono e vídeo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## E se perdo a paciencia?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Pásalle a todo o mundo. O NIA suxire que, se se sente frustrada, se tome un tempo para acougar. Vaia a outra habitación, respire amodo unhas cantas veces e volva cando poida. Sempre pode retomar a conversa, e é posible que a persoa responda mellor ao seu estado máis tranquilo. Se a frustración se fai constante, é un sinal de que necesita máis apoio, non de que estea a fallar. A nosa guía sobre [autocoidado da persoa coidadora](/caregiving/caregiver-self-care/) ofrece lugares onde buscar axuda.

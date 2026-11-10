@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Memory Gem long Dementia: Gentol Fasin we No Testim"
+seoTitle: "Ol Best Memory Gem long Dementia, Gentol Aedia"
+description: "Gem blong mecim pikja, kad mo pea blong olfala long dementia, mo wei blong pleim we no eniwan i filim se oli testim hem: pikja i stap aotsaed, no score."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Memory gem blong olfala we oli gat dementia oli wok gud taem oli no depend
+  long memory. Pleim matching gem wetem ol pikja i stap aotsaed, yusum fo i
+  kasem sikis kad, pleim olsem wan tim mo lusum score. Rekognaes wan pikja i
+  isi moa long rimemba wan. So jusum ol gem we evri samting i stap long vyu.
+  Hapi taem tugeta hemi goal, no wan rizol.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Klasik memory gem oli holem ol kad aotsaed, we i testim samting we dementia i mekem hard. Lego ol pikja i stap aotsaed instead."
+  - "Fewfala pis, bigfala pikja mo wan jes wan sut i mekem gem i stap pleasant."
+  - "Pleim olsem wan tim, tekem tan halpem mo lusum score. Nobodi i shud putum long pozisin we i hard."
+  - "No memory gem i prufum yet se i tritim, slowem o stopem dementia. Pleim from i pleasant taem tugeta."
+  - "Stopem taem i stap fun yet. Toktok abaot ol pikja hemi wan gudfala aotkam."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Wanem nao i gud memory gem blong man we i gat dementia?"
+    a: "Wan mecing gem wetem bigfala, save-pinis pikja we oli save stap aotsaed, olsem Pikja pea we i setemap long fo o sikis kad. Faenem twin blong pikja we yu save lukim i mekem man i hapi, nating i testim shotfala memory. Faenem sem i moa simpol, wetem wan pikja blong mecim from tru to fo jes."
+  - q: "Ol memory gem i halpem dementia?"
+    a: "Nating memory gem we i prufum se i save tritim, slowem o stopem dementia. Wan Cochrane review i faenem se ol evidens long kompiuta cognitive training i no stret fulfala blong talem sapos i save prevent dementia. Ol gem i save stil i wan warm wei blong spendem taem tugeta. Jusum from pleasure mo kampani."
+  - q: "Mi suppose pleim klasik Concentration wetem man we i gat dementia?"
+    a: "Long fes taem, sam man i stil enjoem, speseli sapos i gat smol namba blong kad. Sapos rimemba ples blong ol kad i stat kosem fruseson, tanem ol kad i stap aotsaed mo just faenem ol pea tugeta. Hemia i holem mecing mo i lusum memory test."
+  - q: "Wanem memory gem i gud long olfala long grup?"
+    a: "Pikja bingo wetem wan kola long skrin, finisim ol fomas we oli save long vois, mo kad blong toktok, olgeta i gud long grup. Pleim kasem olgeta kad i fulap mo no kolem aot hu i gat ansa, so no wan i filim se oli putum hem aot long ol narafala."
+  - q: "Hemi gat fri memory gem blong olfala long intanet?"
+    a: "Yes. Ol gem long saet ya, inkludim Pikja pea, Faenem sem, Foto pea mo Pikja puzel, oli fri, oli no nidim sain-ap, mo oli wok long fon, tablet mo kompiuta. Nating wan i gat taem o score."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Taem yu serjem "memory games for seniors" long intanet, bigfala namba blong ol samting we yu save faenem hemi gem we oli mekem blong man we i wantem wok long tingting blong hem: kad we oli haedem, klok we i countdown, levol mo score. Long man we i gat dementia, ol fasin ya i mekem gem i kam wan test long samting we i stap hard finis. Be ol sem gem ya oli save pleim long wan gentol wei. Pej ya i showem hao, mo i lisim ol gem we oli gud long ea stage.
 
-## Why do classic memory games frustrate people with dementia?
+## From wanem ol klasik memory gem oli hadem long ol man we oli gat dementia?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+From we oli dipen long holem nyufala samting long tingting, we hemi wan long fes samting we Alzheimer, we hemi kaosnem blong dementia we i pipol tumas, i kasem fes. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) i talem se fes sain blong Alzheimer we i kamaot tumas hemi hard blong rimemba nyufala samting we man i lanem finis. Long klasik Concentration, yu flip tufala kad, yu rimemba wea ol kad ya i stap, mo yu yusum dat wan minit bihaen. Hemia i nyufala samting, we man i holem mo i rikolektem.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Yu putum taem, score, o baza blong ol rong ansa, mo man i fielim se hem i no save wanem we hem i no save mekem, long fran blong hem we hem i laekem tumas. Plenti man oli stop filim se oli wantem pleim.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Rekognaes wan samting we yu save lukim hemi wan narafala wok, mo usually i isi moa. Pointim sekan kap taem tufala i stap long ai i gud. So trik hemi blong kipim mecing mo lusum memory test.
 
-## How do you make a memory game gentle?
+## Hao blong mekem wan memory gem i gentol?
 
-These adjustments work for card games, board games and games on a screen.
+Ol fasin ya i wok long ol kad gem, ol bod gem mo ol gem long wan skrin.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Lego ol pikja i stap aotsaed.** Mecim ol pikja we yu save lukim i stap wan gud gem, mo oftenem i intarestem tumas.
+2. **Yusum fewfala pis.** Stat wetem tru o tri pea. Putum moa sapos i isi tumas mo oli wantem moa.
+3. **Jusum bigfala, save-pinis, adalt pikja.** Wan kap blong ti, wan sunflower, wan sel-bot. No kaktun, no ol busi sin.
+4. **Pleim olsem wan tim.** "Yumi faenem ol dog" nao, no "tan blong yu." Tekem tan blong pointim mo halpem.
+5. **Lusum score.** Nobodi i nidim win. Sapos wan i askem, wan simpol "yumi wina" i gud finis.
+6. **Nevva rasim klok.** No taem, no hari long tan.
+7. **Toktok long ol pikja.** "Lukim dat bot. Yu bin save go seling?" Toktok ya ofen i gud wan long ol samting.
+8. **Stopem long gudfala taem.** Finisim afta long wan mecing, taem i stap pleasant yet.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i givim sem spirit olsem janeral advaes: mekem akti i stret wetem wat man i save mekem, lukaotem fruseson, mo mekem sua se hem i filim se hem i succeed.
 
-## Gentle memory and matching games to try
+## Ol gentol memory mo mecing gem blong traem
 
-### Picture pairs (matching with pictures showing)
+### Pikja pea (mecing wetem pikja we i sho)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Pikja pea](/games/picture-pairs/) hemi wan mecing gem wetem bigfala pikja mo 4 i kasem 12 kad. Ol pikja oli save stap i showem, so i abaotem faenem ol tuin, no rimemba ples blong olgeta. Stat wetem fo kad. Long man we i long erli stage mo i laekem wan bit moa jalenj, yu save swichem i go long **Ol pikja we oli haed**, be go bak long showem ol pikja taem i stop bihaen i pleasant.
 
-### Find the same
+### Faenem sem
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Faenem sem](/games/find-the-same/) i showem wan pikja antap mo tufala to fo jes i stap daon. Tap long wan we i sem. Hemi nao i simpol moa long saet blong ol mecing gem, mo i gud long ol man we oli faenem wan fulfala grid i bisi tumas, inkludim plenti long ol late stage taem wan man i stap klosap.
 
-### Photo pairs (family photo memory game)
+### Foto pea (famili foto memory gem)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Foto pea](/games/photo-pairs/) i turnem ol foto we yu jusum i kam wan mecing gem: dog, garden, lekhaos. Ol famili fes mo ples oftenem i sparkem toktok moa tumas long ol stoc pikja. Ol foto oli stap long browser blong yu mo oli no save salem go long narafala ples.
 
-### Sort together
+### Sortem wan tugeta
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sortem wan tugeta](/games/sort-together/) i askem yu blong putum ea pikja long basket we i stret, olsem kitchen o garden. Sortem i yusum save we i stap long hed longtaem abaot hao samting i wok long wol, no shotfala memory.
 
-### Picture puzzle
+### Pikja puzel
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Pikja puzel](/games/picture-puzzle/) i katem wan pikja i kam 4 o 9 pis. Tap long tufala pis blong switsem olgeta go kasem pikja i kambak fulfala. Fulfala pikja i stap long skrin olsem wan gaed.
 
-### Real cards on the table
+### Ol real kad long tebol
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Yu no nidim skrin. Tekem ol pea kad from tufala deck o from wan set blong pikja kad. Putum olgeta i stap aotsaed long tu rop mo faenem ol pea tugeta. Bihaen, sortem long kala o long sut. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i lisim ol kad gem mo ol bod gem i stap long ol akti blong erli stage.
 
-## Which memory games suit each stage?
+## Wanem memory gem i fit long ea stage?
 
-Stages are loose labels. Go by what the person enjoys today.
+Stage oli loose label nomo. Go bihaen long wanem man i enjoem tudei.
 
-| Stage | Games that often fit | How to set them up |
+| Stage | Ol gem we oftenem i fit | Hao blong setemap |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Erli | Pikja pea, Foto pea, Pikja puzel wetem 9 pis, ol famili kad gem | Letem olgeta jusum. Tail i save tanem sapos i laekem; lusum score sapos i kasem olgeta |
+| Middle | Pikja pea wetem 4 i kasem 6 tail aotsaed, Faenem sem, Sortem wan tugeta | Pikja i stap oltaem i lukim. Sidaon klosap mo tekem tan halpem |
+| Late | Faenem sem wetem 2 jes, lukluk long wan bigfala pikja tugeta | Veri sot. Yu holem tablet; hem i pointim, o just i lukim mo i harem |
 
-## Do memory games help with dementia?
+## Ol memory gem oli halpem long dementia?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Nating memory gem we i prufum se i save tritim, slowem o stopem dementia. [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) blong computerised cognitive training long ol man we oli gat mael cognitive impairment i faenem se ol evidens i no stret fulfala blong talem sapos i save prevent dementia. Gaed blong yumi long [brain games and dementia](/brain-health/brain-games/) i eksplenem wanem ol stadi i showem mo wanem oli no showem.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Hemia i no wan rison blong skip ol gem. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i advaesem blong fokas long pleasure, no achievement. Ten minit blong mecim ol pikja mo toktok abaot olgeta i save kam wan gudfala pat blong dei.
 
-## What about memory games for seniors without dementia?
+## Wanem abaotem memory gem blong olfala we oli no gat dementia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Sapos wan olfala we i no gat promlem long memory i laekem timed pazel, score mo haedfala level, i no gat rong long hem. Jes no tingting se bae i protektem hem long dementia; no gem i prufum yet. Ol gentol vesen we i stap abov i wok gud tu taem ol jenerasen i pleim tugeta: wan grandpa o grandmama we i gat dementia mo wan yangfala pikinini i save mecim ol pikja olsem tim, nating wan i stap long test.
 
-## When should you stop or change the game?
+## Wanem taem yu sud stopem o jenisem gem?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Sigh, pusum tablet i go, talem "mi no save mekem disfala", o i lukim i worri, ol sign ya i minim yu mas mekem i isi moa o stopem. Traem fewfala kad, tanem ol pikja i stap aotsaed, swichem i go long [Faenem sem](/games/find-the-same/), o just lukim ol pikja mo toktok. Sapos olgeta oli no wantem pleim nating, hemia i stret tu. Gaed blong yumi long [hao blong pleim tugeta](/caregiving/how-to-play-together/) i gat moa samting abaotem pes mo halpem.

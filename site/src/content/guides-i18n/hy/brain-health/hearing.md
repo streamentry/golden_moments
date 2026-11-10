@@ -1,31 +1,31 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Լսողության կորուստը և դեմենցիայի ռիսկը. ինչ է ցույց տալիս"
+seoTitle: "Լսողության կորուստ և դեմենցիա. ինչ է հայտնի գիտությանը"
+description: "Ինչու լսողության կորուստը դեմենցիայի գլխավոր ռիսկի գործոն է, ինչ գտավ ACHIEVE փորձարկումը, և ինչպես ստուգել լսողությունը ու խոսել ավելի հեշտ։"
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024-ի Lancet հանձնաժողովը լսողության կորուստը նշում է որպես դեմենցիայի ամենամեծ փոփոխելի ռիսկի գործոններից մեկը։
+  ACHIEVE փորձարկումում լսողական ապարատները ընդհանուր առմամբ չդանդաղեցրին ճանաչողական անկումը, թեև ավելի բարձր
+  ռիսկի ենթախումբն ավելի քիչ անկում ցույց տվեց։ Լսողական ապարատները ամեն դեպքում օգնում են զրույցին և առօրյա
+  կյանքին։ Ստուգեք լսողությունը, դիտարկեք դեղատոմսով կամ առանց դեղատոմսի ապարատները և խոսեք բժշկի հետ։
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet հանձնաժողովը գնահատում է, որ լսողության կորուստը կազմում է ամբողջ աշխարհում դեմենցիայի դեպքերի մոտ 7%-ը՝ 14 գործոնների շարքում ամենամեծ մասնաբաժինը կիսելով առաջին տեղը։"
+  - "977 տարեց մեծահասակների հետ ACHIEVE փորձարկումում լսողական ապարատները ընդհանուր առմամբ չփոխեցին երեք տարվա ընթացքում ճանաչողական անկումը։"
+  - "ACHIEVE-ի ներսում ավելի փոքր, ավելի բարձր ռիսկի խմբում լսողական ապարատներով ճանաչողական անկումը 48%-ով ավելի դանդաղ էր։ Սա պետք է հաստատվի։"
+  - "2022 թվականի հոկտեմբերից ԱՄՆ-ում մեծահասակները, ովքեր իրենց լսողությունը համարում են թեթևից միջին խանգարված, կարող են առանց դեղատոմսի գնել FDA-ի կողմից կարգավորվող լսողական ապարատներ։"
+  - "2024 թվականին չբուժված տեսողության կորուստը ավելացվեց որպես դեմենցիայի ռիսկի գործոն, ուստի աչքերի ստուգումը նույնպես կարևոր է։"
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Արդյո՞ք լսողական ապարատները կանխում են դեմենցիան։"
+    a: "Դա ապացուցված չէ։ ACHIEVE փորձարկումը երեք տարվա ընթացքում ընդհանուր առմամբ ազդեցություն չգտավ ճանաչողական անկման վրա, թեև մի ավելի բարձր ռիսկի խումբ ավելի լավ արդյունք ունեցավ։ Այնուամենայնիվ լսողական ապարատները արժե դիտարկել, որովհետև դրանք հեշտացնում են զրույցը, անվտանգությունը և առօրյա կյանքը։"
+  - q: "Ովքե՞ր կարող են առանց դեղատոմսի լսողական ապարատներ գնել։"
+    a: "FDA-ն թույլ է տալիս 18 և բարձր տարիքի մեծահասակներին, ովքեր իրենց լսողությունը համարում են թեթևից միջին խանգարված, առանց դեղատոմսի OTC լսողական ապարատներ գնել խանութներից կամ առցանց։ Դրանք նախատեսված չեն ծանր լսողության կորստի համար։ Ով ունի ականջի ցավ, ականջից արտահոսք, գլխապտույտ կամ լսողության հանկարծակի փոփոխություններ, նախ պետք է դիմի բժշկի։"
+  - q: "Կարո՞ղ է լսողության կորուստը նմանվել դեմենցիայի։"
+    a: "Երբեմն այո։ Ծերացման ազգային ինստիտուտը նշում է, որ տարեց մարդիկ, ովքեր լավ չեն լսում, երբեմն սխալմամբ համարվում են շփոթված կամ չհամագործակցող։ Լսողության ստուգումը խելամիտ քայլ է, երբ մարդը կարծես քաշվում է իր մեջ կամ բաց է թողնում ասվածը։"
+  - q: "Որքա՞ն հաճախ պետք է տարեց մեծահասակները ստուգեն իրենց աչքերը։"
+    a: "Ծերացման ազգային ինստիտուտը խորհուրդ է տալիս 60 տարեկանից հետո ամեն տարի կամ երկու տարին մեկ անցնել աչքի ընդլայնված հետազոտություն կամ այնպես, ինչպես խորհուրդ է տալիս ձեր ակնաբույժը։ Շաքարախտ կամ բարձր արյան ճնշում ունեցող մարդիկ սովորաբար պետք է անցնեն այն առնվազն տարին մեկ անգամ։"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +50,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Լսողության կորուստը տարիքին զուգընթաց տարածված երևույթ է, և հետազոտողները լուրջ են վերաբերվում դրան որպես դեմենցիայի ռիսկի գործոն։ Դա չի նշանակում, որ լսողական ապարատները դեմենցիան կանխելու ապացուցված միջոց են։ Մինչ այժմ լավագույն փորձարկումը խառը արդյունքներ է տվել։ Այս էջը բացատրում է, թե ինչ է ցույց տալիս հետազոտությունը, ինչպես ստուգել լսողությունը, ինչ են ԱՄՆ-ի առանց դեղատոմսի լսողական ապարատները և ինչպես հեշտացնել զրույցը։
 
-## Why does hearing matter for brain health?
+## Ինչու՞ է լսողությունը կարևոր ուղեղի առողջության համար
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Լսողության կորուստը կապված է դեմենցիայի ավելի բարձր ռիսկի հետ։ [2024-ի Lancet հանձնաժողովը](https://doi.org/10.1016/S0140-6736(24)01296-0) գնահատում է, որ այն կազմում է ամբողջ աշխարհում դեմենցիայի դեպքերի մոտ 7%-ը։ Դա այն հավասարեցնում է բարձր LDL խոլեստերինին՝ հանձնաժողովի մոդելի 14 փոփոխելի ռիսկի գործոնների շարքում ամենամեծ մասնաբաժինը կիսելու համար, ըստ [UCL-ի՝ զեկույցի ամփոփման](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)։
 
-Key findings from the Commission:
+Հանձնաժողովի հիմնական արդյունքները.
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Ավելի բարձր ռիսկ լսողության կորստի դեպքում։** Վեց բարձրորակ հետազոտությունների համակցված վերլուծության մեջ լսողության կորուստ ունեցող մարդկանց դեմենցիայի ռիսկը մոտ 37%-ով ավելի բարձր էր, քան նորմալ լսողություն ունեցողներինը։
+- **Ավելի շատ կորուստ՝ ավելի շատ ռիսկ։** Ծանրությունը ուսումնասիրած հետազոտությունները գտան, որ ռիսկը աճում էր լսողության վատանալուն զուգընթաց։
+- **Հնարավոր պատճառներ, որոնք դեռ ապացուցված չեն։** Վարկածների թվում են մենակությունը և ինքնամեկուսացումը, դեպրեսիան, ուղեղի ավելի քիչ խթանումը և լսելու համար պահանջվող լրացուցիչ մտավոր ջանքը։
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Լսողության կորուստը տարածված է։ [Ծերացման ազգային ինստիտուտը (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) նշում է, որ տարեց մեծահասակների մոտ մեկ երրորդն ունի այն, և հավանականությունը մեծանում է տարիքի հետ։
 
-## What did the ACHIEVE hearing aid trial find?
+## Ինչ գտավ ACHIEVE լսողական ապարատների փորձարկումը
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE-ն լսողական ապարատների և ճանաչողական անկման վերաբերյալ առաջին պատահականացված փորձարկումն էր։ Դրա արդյունքները հաճախ սխալ են ներկայացվում, ուստի ահա մանրամասները [հրապարակված փորձարկման զեկույցից](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/)։
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Ովքեր մասնակցեցին.** 70-ից 84 տարեկան 977 մեծահասակներ՝ չբուժված լսողության կորստով և առանց էական մտածողության խնդիրների, ԱՄՆ-ի չորս համայնքային կենտրոններում։
+- **Ինչ էր համեմատվում.** Կեսը ստացավ լսողական ապարատներ և խորհրդատվական հանդիպումներ աուդիոլոգի հետ։ Մյուս կեսը ստացավ առողջ ծերացման մասին առողջապահական կրթական ծրագիր։
+- **Հիմնական արդյունք.** Երեք տարի անց ընդհանուր առմամբ ճանաչողական անկման մեջ **տարբերություն չկար** երկու խմբերի միջև։
+- **Ենթախմբի արդյունք.** Փորձարկումը հավաքագրեց երկու աղբյուրից։ 238 մարդ եկավ երկարաժամկետ սրտի առողջության հետազոտությունից (ARIC), և որպես խումբ նրանք ճանաչողական անկման ավելի բարձր ռիսկի տակ էին։ Այս խմբում լսողական ապարատներով անկումը **48%-ով ավելի դանդաղ** էր։ 739 առողջ համայնքային կամավորների շրջանում հստակ ազդեցություն չկար։
 
-How to read this honestly:
+Ինչպես սա ազնվորեն հասկանալ.
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Ընդհանուր արդյունքում ազդեցություն չկար։
+- Ենթախմբի արդյունքը նախապես ծրագրված էր, սակայն այն ստացվել է ավելի փոքր խմբի երկրորդական վերլուծությունից։ Այն պետք է հաստատվի այլ հետազոտություններում։
+- Մասնակիցները գիտեին, թե որ ծրագրում են, ինչը կարող է ազդել արդյունքների վրա։
+- Lancet հանձնաժողովը ապացույցները մեկնաբանում է այնպես, որ լսողական ապարատները հատկապես օգտակար են թվում այն մարդկանց համար, ովքեր լսողության կորստի հետ միասին ունեն դեմենցիայի այլ ռիսկի գործոններ։
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Եզրակացությունն այն է, որ լսողական ապարատները դեմենցիան կանխելու ապացուցված միջոց չեն։ Դրանք իրոք օգնում են մարդկանց լսել, մասնակցել զրույցներին և կապի մեջ մնալ, ինչը բավական պատճառ է դրանք դիտարկելու համար։
 
-## How do I know if hearing should be checked?
+## Ինչպես իմանալ՝ արդյոք պետք է ստուգել լսողությունը
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA-ն խորհուրդ է տալիս դիմել բժշկի, եթե դուք կամ ձեր խնամքի տակ գտնվող մարդը.
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Դժվարանում է հասկանալ մարդկանց հեռախոսով
+- Դժվարանում է հետևել զրույցին, երբ խոսում են երկու կամ ավելի մարդ
+- Հաճախ խնդրում է մարդկանց կրկնել
+- Այնքան է բարձրացնում հեռուստացույցի ձայնը, որ ուրիշները դժգոհում են
+- Դժվարանում է հասկանալ խոսքը, երբ ֆոնային աղմուկ կա
+- Կարծում է, որ ուրիշները կարծես մրմնջում են
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Սկսեք ընտանեկան բժշկից, որը կարող է ձեզ ուղղորդել աուդիոլոգի (լսողության մասնագետ) կամ ականջի, քթի և կոկորդի բժշկի մոտ։ Ականջի խցանի կուտակումը լսողության կորստի տարածված պատճառներից մեկն է, որը բժիշկը կարող է ստուգել։ **Լսողության հանկարծակի կորուստը բժշկական շտապ օգնություն է պահանջում**, և NIA-ն խորհուրդ է տալիս անմիջապես դիմել բժշկի։
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Լսողության կորուստը կարելի է շփոթել շփոթվածության հետ։ NIA-ն նշում է, որ տարեց մարդիկ, ովքեր լավ չեն լսում, երբեմն սխալմամբ համարվում են շփոթված, չարձագանքող կամ չհամագործակցող։ Եթե ձեր սիրելին կարծես քաշվում է իր մեջ կամ բաց է թողնում ասվածը, լսողության ստուգումը լավ վաղ քայլ է։
 
-## What are over-the-counter hearing aids?
+## Ինչ են առանց դեղատոմսի լսողական ապարատները
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+2022 թվականի հոկտեմբերի 17-ից [FDA-ն](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) թույլատրել է առանց դեղատոմսի (OTC) լսողական ապարատների առանձին կատեգորիա։ Ահա թե ինչպես են դրանք տարբերվում դեղատոմսով ապարատներից.
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Առանձնահատկություն | Առանց դեղատոմսի լսողական ապարատներ | Դեղատոմսով լսողական ապարատներ |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Ում համար են | 18 և բարձր տարիքի մեծահասակներ, ովքեր իրենց լսողությունը համարում են թեթևից միջին խանգարված | Լսողության կորստի ցանկացած աստիճան, ցանկացած տարիք |
+| Որտեղից ձեռք բերել | Խանութներից կամ առցանց, առանց հետազոտության կամ դեղատոմսի | Լիցենզավորված լսողության մասնագետի միջոցով |
+| Կարգավորում | Դուք ինքներդ եք կարգավորում կարգավորումները, հաճախ հավելվածով | Մասնագետը դրանք ծրագրավորում է ձեր լսողության համար |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA-ն նշում է, որ OTC ապարատները նախատեսված չեն ծանր կամ խորը լսողության կորստի համար։ Այն խորհուրդ է տալիս գնելուց առաջ դիմել բժշկի, նախընտրելի է ականջի, քթի և կոկորդի մասնագետի, եթե ունեք.
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Ականջի ցավ կամ անհանգստություն
+- Վերջին վեց ամսվա ընթացքում ականջից հեղուկ, թարախ կամ արյուն
+- Լսողության հանկարծակի կամ տատանվող փոփոխություններ
+- Ավելի վատ լսողություն մեկ ականջում կամ ականջահնչյուն ականջներից միայն մեկում
+- Գլխապտույտ կամ վերտիգո
+- Ականջի խցանի մեծ կուտակում
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Լսողական ապարատներին ընտելանալը պրակտիկա է պահանջում, ուստի գնելուց առաջ ստուգեք վերադարձի քաղաքականությունը, ինչպես խորհուրդ է տալիս FDA-ն։ NIA-ն խորհուրդ է տալիս հարցնել՝ արդյոք ձեր ապահովագրությունը ծածկում է ծախսի մի մասը։ Դեմենցիայով ապրող մարդու համար աուդիոլոգը կարող է օգնել որոշել, թե ապարատի որ տեսակն ու կարգավորումն ամենահեշտը կլինի կառավարել առօրյայում։
 
-## How can I talk more easily with someone who has hearing loss?
+## Ինչպես ավելի հեշտ խոսել լսողության կորուստ ունեցող մարդու հետ
 
-The NIA suggests:
+NIA-ն խորհուրդ է տալիս.
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Շրջվեք դեմքով դեպի մարդը և պահեք աչքերի կապը**, լավ լույսի ներքո, որպեսզի նա տեսնի ձեր շուրթերն ու դիմախաղը։
+2. **Գտեք հանգիստ տեղ։** Անջատեք հեռուստացույցը կամ հեռացեք աղմուկից։
+3. **Խոսեք մի փոքր բարձր, բայց մի գոռացեք։** Խոսեք բնական և չափավոր արագությամբ։
+4. **Ձեր բերանը զերծ պահեք։** Մի կերեք, մի ծամեք մաստակ կամ մի ծածկեք բերանը խոսելիս։
+5. **Փոխեք ձևակերպումը, փոխարենը կրկնելու**, երբ ինչ-որ բան բաց է թողնվում։
+6. **Մեկ հոգի միաժամանակ։** Խմբում միտումնավոր ընդգրկեք այդ մարդուն։
+7. **Եղեք համբերատար և հարցրեք՝ ինչպես կարող եք օգնել։**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Այս խորհուրդները լավ աշխատում են մեր [դեմենցիայի շուրջ հաղորդակցության խորհուրդների](/caregiving/communication-tips/) կողքին։ Նկարների վրա հիմնված զբաղմունքները նույնպես թեթևացնում են լսելու ճնշումը։ [Picture Pairs](/games/picture-pairs/) և [Conversation Cards](/games/conversation-cards/) աշխատում են այն բանի շուրջ, ինչ տեսնում եք, իսկ [Finish the Saying](/games/finish-the-saying/) թույլ է տալիս ցույց տալ վերջավորությունը՝ փոխարենը ասելու։ Զանգերի համար տեսեք մեր ուղեցույցը [հեռախոսային և տեսազանգերի](/activities/phone-and-video-calls/) մասին։
 
-## Vision matters too
+## Տեսողությունը նույնպես կարևոր է
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 թվականին Lancet հանձնաժողովը չբուժված տեսողության կորուստը ավելացրեց որպես նոր ռիսկի գործոն։ UCL-ի ամփոփումը այն գնահատում է դեմենցիայի դեպքերի մոտ 2%-ը, և հանձնաժողովը խորհուրդ է տալիս տեսողության խնդիրների սքրինինգն ու բուժումը հասանելի դարձնել բոլորին։ [NIA-ն խորհուրդ է տալիս](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) 60 տարեկանից հետո ամեն տարի կամ երկու տարին մեկ անցնել աչքի ընդլայնված հետազոտություն և ստուգել նաև ակնոցի դեղատոմսերը։ Նույնիսկ տեսողության փոքր փոփոխությունները կարող են մեծացնել ընկնելու ռիսկը։
 
-## Talk with a doctor
+## Խոսեք բժշկի հետ
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Հարցրեք բժշկին լսողության և տեսողության ստուգումների մասին, եթե նկատեք վերը նշված նշաններից որևէ մեկը։ Անմիջապես դիմեք օգնության՝ լսողության հանկարծակի կորստի, ականջի ցավի կամ ականջից արտահոսքի դեպքում։ Եթե խնամում եք դեմենցիայով ապրող մարդու, պատմեք նրա բժշկին լսողության կամ տեսողության փոփոխությունների մասին, որոնք կարող են ազդել տրամադրության, անվտանգության և այն բանի վրա, թե որքան լավ կարող է մարդը մասնակցել։
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Այս էջը ընդհանուր տեղեկատվություն է, ոչ թե բժշկական խորհրդատվություն։ Տեսեք մեր [բժշկական հրաժարումը](/medical-disclaimer/)։ Կարդացեք ավելին [սոցիալական կապի և ուղեղի առողջության](/brain-health/social-connection/) մասին։

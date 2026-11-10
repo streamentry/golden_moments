@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Geamannan a chluich le cuideigin le trom-inntinn"
+description: "Stiùireadh practaigeach airson geamannan a chluich le cuideigin a tha a’ fuireach le trom-inntinn: ullachadh, astar, gun cheartachadh, geamannan a dhèanamh nas fhasa, agus fios cuin a stadas tu."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Dèilig ris a’ gheama mar ùine còmhla, chan e deuchainn. Tagh àm ciùin den
+  latha, suidh ri taobh a chèile ann an seòmar sàmhach, agus tairg aon gheama
+  sìmplidh. Leig leis an neach an astar a shuidheachadh, na ceartaich
+  mearachdan nach eil a’ dèanamh cron, dèan an geama nas fhasa aig a’ chiad
+  chomharra gu bheil e doirbh, agus cleachd dealbhan mar thoiseach tòiseachaidh
+  airson còmhradh. Stad fhad ’s a tha e fhathast a’ faireachdainn math. Tha
+  stad tràth, no dìreach coimhead còmhla, na thoradh math.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "’S e an amas tlachd agus ceangal, chan e crìochnachadh no freagairtean ceart fhaighinn."
+  - "Ullaich an toiseach: seòmar sàmhach, solas math, speuclairean agus innealan-claisneachd air, Tbh dheth, aon gheama deiseil."
+  - "Na ceartaich mearachdan nach eil a’ dèanamh cron. Abair «Feuchamaid e mar seo» no dìreach lean air adhart."
+  - "Dèan geama nas fhasa mus tog frustrachas: nas lugha de dhealbhan, nas lugha de roghainnean, dealbhan air am fàgail ri fhaicinn."
+  - "Cleachd dealbhan mar thoiseach tòiseachaidh airson sgeulachdan le «Innis dhomh mu dheidhinn...» an àite «A bheil cuimhne agad air...?»"
+  - "Stad aig a’ chiad chomharran gu bheil an neach sgìth no troimh-chèile. Tha stad tràth na shoirbheachadh, chan e fàilligeadh."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Dè cho fada ’s a bu chòir dhuinn geama a chluich?"
+    a: "Chan eil fad ceart ann. Dha mòran dhaoine, chan eil ach beagan mhionaidean gu leòr, agus uaireannan tha aon chuairt gu leòr. Coimhead air an neach seach air a’ ghleoc, agus stad fhad ’s a tha iad fhathast a’ coimhead socair."
+  - q: "Am bu chòir dhomh leigeil leotha buannachadh no leigeil air nach eil mi a’ mothachadh mearachdan?"
+    a: "Ann an geama co-roinnte, gun chuideam, chan eil dad ri bhuannachadh no ri chall. Mura h-eil mearachd a’ cur dragh air an neach, leig seachad i. Ma tha i coltach gu bheil i a’ cur dragh orra, cuidich gu sàmhach no dèan an geama nas fhasa gun a bhith ga chomharrachadh."
+  - q: "Dè ma b’ fheàrr leotha coimhead orm fhìn a’ cluich?"
+    a: "Tha sin ceart gu leòr. Tha an National Institute on Aging a’ moladh leigeil le neach dìreach coimhead ma tha coltas gu bheil iad a’ faighinn barrachd tlachd às. Bruidhinn mu na chì sibh agus thoir cuireadh dhaibh comharrachadh no taghadh uair sam bith a thogras iad."
+  - q: "An e dòigh gus cuimhne a dhearbhadh a tha anns na geamannan seo?"
+    a: "Chan e. ’S e gnìomhan sìmplidh co-roinnte a tha anns na geamannan againn airson tlachd agus còmhradh. Chan eil iad nan deuchainn cuimhne, chan eil iad a’ tomhas dad, agus chan eil iad nan leigheas airson trom-inntinn."
+  - q: "Dè an geama as fheàrr airson tòiseachadh?"
+    a: "Tòisich leis a’ gheama as sìmplidh a fhreagras air an neach. Tha Picture Pairs le ceithir leacagan agus dealbhan air am fàgail ri fhaicinn, no Find the Same le dà roghainn, nan àiteachan tòiseachaidh socair. Bidh Conversation Cards ag obair gu math ma tha an neach a’ còrdadh ri bruidhinn nas motha na ri tapadh."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Chan eil geama math le cuideigin a tha a’ fuireach le trom-inntinn coltach ri farpais. Tha e coltach ri dithis dhaoine nan suidhe faisg air a chèile, a’ comharrachadh dhealbhan, a’ gàireachdainn ri seanfhacal, agus a’ bruidhinn mu rud sam bith a thig am bàrr. Chan eil anns a’ gheama ach adhbhar airson ùine a chur seachad còmhla.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Tha an stiùireadh seo a’ mìneachadh mar a nì thu ullachadh, mar a chumas tu astar geama, dè a chanar nuair a thèid rudeigin «ceàrr», mar a nì thu geama sam bith nas fhasa no beagan nas duilghe, mar a thionndaidheas tu e gu còmhradh, agus mar a bhios fios agad cuin a stadas tu. Bidh e ag obair airson ar [geamannan](/games/) agus airson cairtean, tòimhseachain is geamannan-bùird a th’ agad mu thràth.
 
-## What is the best way to play a game with someone who has dementia?
+## Dè an dòigh as fheàrr air geama a chluich le cuideigin le trom-inntinn?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Cuir fòcas air tlachd, chan e air coileanadh. Is e sin a’ phrìomh chomhairle bho [stiùireadh Alzheimer’s Association mu ghnìomhan](https://www.alz.org/help-support/caregiving/daily-care/activities): tog air na sgilean a th’ aig an neach fhathast, cuidich iad gus tòiseachadh, dèan na pàirtean duilich thu fhèin, agus na càin no na ceartaich gnìomhan nach eil a’ dèanamh cron.
 
-In practice that means:
+Ann am pràctica, tha sin a’ ciallachadh:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Suidh ri an taobh, chan ann mu choinneamh.** Ri taobh a chèile, chì sibh le chèile an sgrion no am bòrd, agus tha cuideachadh a’ faireachdainn mar obair-sgioba seach mar stiùireadh.
+- **Tairg aon gheama aig an aon àm.** Faodaidh clàr roghainnean faireachdainn mar dheuchainn mus tòisich dad.
+- **Lean an stiùir aca.** Ma tha iad airson na dealbhan a thapadh san òrdugh aca fhèin, bruidhinn mu aon dealbh airson deich mionaidean, no stad às dèidh dà thuras, is e sin an geama an-diugh.
+- **Cunnt na deagh mhionaidean, chan e na cuairtean deiseil.** Is e gàire, sgeulachd no leth-uair shocair an toradh a tha thu a’ sireadh.
 
-## How do I set up before we start?
+## Ciamar a nì mi ullachadh mus tòisich sinn?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Bheir beagan mhionaidean de dh’ullachadh casg air a’ mhòr-chuid den fhrustrachas a bhios daoine a’ cur às leth a’ gheama fhèin.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Tagh an àm den latha as fheàrr dhaibh.** Tha [stiùireadh an National Institute on Aging (NIA) mu bhith ag atharrachadh ghnìomhan](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a’ moladh gnìomhan a phlanadh airson àm den latha nuair a tha an neach aig an fheàrr. Dha mòran dhaoine, ’s e meadhan na maidne a th’ ann. Bidh anmoch feasgar nas duilghe gu tric; faic [gnìomhan socair anmoch feasgar](/caregiving/late-day-restlessness/).
+2. **Cùm an seòmar sàmhach.** Cuir dheth an Tbh agus an rèidio, agus dùin an doras mas urrainn dhut. Tha an [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a’ moladh fuaim is buaireadh a chuingealachadh mus feuch thu ri bruidhinn.
+3. **Thoir sùil air comhfhurtachd an toiseach.** Deoch faisg air làimh, turas dhan taigh-beag ro làimh, cathair chofhurtail, agus speuclairean is innealan-claisneachd air.
+4. **Soillsich an t-àite gu math.** Tha solas soilleir, cothromach gun deàrrsadh air an sgrion a’ dèanamh dhealbhan nas fhasa fhaicinn.
+5. **Ullaich an geama mus suidh thu sìos.** Fosgail e, tagh na roghainnean agus suidhich an fhuaim thu fhèin. An uairsin tionndaidh an sgrion thugadsa. Airson molaidhean mu thablet, faic [tablet no fòn a chur air dòigh](/caregiving/tablets-and-screens/).
+6. **Cuir taic fon inneal.** Tha seasamh no cùis a chumas an tablet dìreach a’ ciallachadh nach fheum duine sam bith a chumail, agus tha e nas fhasa comharrachadh.
 
-## How do I invite them without pressure?
+## Ciamar a bheir mi cuireadh dhaibh gun chuideam?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Cùm an cuireadh casual agus furasta a dhiùltadh. Seo cuid de dh’abairtean a bhios gu tric ag obair gu math:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Lorg mi dealbhan gàrraidh. Am bu toil leat coimhead orra còmhla rium?»
+- «An cuidicheadh tu mi leis an tòimhseachan seo? Tha mi an sàs.»
+- «Am bu toil leat na flùraichean no na h-eòin an-diugh?» (tha roghainn eadar dhà nas fhasa na ceist fhosgailte)
+- «Tha mi a’ dèanamh cairt do phiuthar. Dè an dath a bu chòir a bhith air seo?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Tha Alzheimer’s Association a’ moladh adhbhar gnìomhachd a mhìneachadh, leithid cairt a dhèanamh do charaid, oir tha adhbhar a’ toirt brìgh dha. Tha iarrtas cuideachaidh ag obair cuideachd oir leigidh e leis an neach a bhith feumail.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Ma chanas iad nach eil, gabh ris. Feuch a-rithist nas anmoiche no tairg rudeigin eile. Tha barrachd san stiùireadh againn mu [dè a nì thu nuair a chanas iad nach eil](/caregiving/when-they-say-no/).
 
-## How long should a game last, and how fast should we go?
+## Dè cho fada ’s a bu chòir do gheama mairsinn, agus dè cho luath ’s a bu chòir dhuinn a dhol?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Leig leis an neach an astar a shuidheachadh, agus planaich airson seiseanan goirid. Chan eil fad freagarrach stèidhichte air fianais ann airson geama co-roinnte. Faodaidh dhà gu còig mionaidean socair a bhith nan gnìomhachd iomlan.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Fuirich nas fhaide na tha nàdarrach.** Tha an NIA a’ comhairleachadh barrachd ùine a thoirt do neach freagairt agus gun a bhith a’ briseadh a-steach. Cunnt gu deich nad cheann mus cuidich thu.
+- **Aon cheum aig an aon àm.** Thoir aon stiùireadh goirid («Tap air dealbh»), an uairsin fuirich. Seall seach mìneachadh: comharraich far an tap iad.
+- **Gabh fois gu saor.** Ma stadas iad gus bruidhinn mu dhealbh, faodaidh an geama feitheamh. Chan eil feum air cabhag.
+- **Leig leotha coimhead.** Tha an NIA a’ toirt fa-near gur fheàrr le cuid de dhaoine coimhead, agus is e roghainn dhligheach a tha sin.
 
-## Should I correct wrong answers?
+## Am bu chòir dhomh freagairtean ceàrr a cheartachadh?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Cha bu chòir. Ma cheartaicheas tu cuideigin gu socair a-rithist is a-rithist, innsidh sin dhaibh gu bheil iad a’ fàiligeadh, eadhon nuair a tha deagh rùn agad. Tha Alzheimer’s Association a’ comhairleachadh gun a bhith a’ càineadh no a’ ceartachadh ghnìomhan nach eil a’ dèanamh cron. Ann an geama, tha cha mhòr a h-uile mearachd gun chron.
 
-| Instead of | Try |
+| An àite | Feuch |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Chan eil, tha sin ceàrr.» | «Feuchamaid e mar seo.» (eisimpleir a tha an NIA a’ toirt) |
+| «Chan eil sin nan paidhir. Thoir sùil a-rithist.» | Na can dad agus gabh an ath thuras, no «O, tha an dithis sin dearg.» |
+| «A bheil cuimhne agad cò tha seo?» | «Innis dhomh mu dheidhinn an deilbh seo.» |
+| «Rinn thu sin mu thràth.» | «Tha sin math. Dèanaimid a-rithist e.» |
+| «Siuthad, tha fios agad air seo.» | «Am bu toil leat gun seallainn an deireadh?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Ma tha mearachd gu soilleir a’ cur frustrachais orra, cuidich gu sàmhach. Comharraich an dealbh ceart, gabh turas thu fhèin, no dèan an geama nas fhasa an ath chuairt. Ma gheibh seanfhacal deireadh èibhinn ceàrr, dèan gàire còmhla. Dh’fhaodadh gum bi an deireadh aca fhèin nas fheàrr.
 
-## How do I make a game easier or harder?
+## Ciamar a nì mi geama nas fhasa no nas duilghe?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Atharraich an geama don neach air an latha, chan ann a rèir bileag ìre. Dh’fhaodadh gum feum an aon neach dreach nas sìmplidh feasgar na sa mhadainn. Is e a’ chiad chomhairle aig an NIA an gnìomhachd a fhreagairt air na dh’fhaodas an neach a dhèanamh agus dèanamh cinnteach gu bheil iad a’ faireachdainn soirbheachail.
 
-| Game | Make it easier | Make it a little harder |
+| Geama | Dèan nas fhasa | Dèan beagan nas duilghe |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Tòisich le 4 leacagan agus fàg dealbhan ri fhaicinn | Barrachd leacagan, no falaich dealbhan ma tha sin comhfhurtail |
+| [Find the Same](/games/find-the-same/) | 2 roghainn | Suas gu 4 roghainnean |
+| [Sort Together](/games/sort-together/) | Cumaidh tu fhèin an dealbh, comharraichidh iadsan am basgaid | Tapadh iad air an dealbh agus air a’ bhasgaid leotha fhèin |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 pìosan, bruidhinn mun dealbh slàn an toiseach | 9 pìosan |
+| [Finish the Saying](/games/finish-the-saying/) | Seall an deireadh, an uairsin can e còmhla | Leig leotha an deireadh a ràdh mus tap iad |
+| [Word Search](/games/word-search/) | Clò-bhuail e, coimhead airson aon fhacal còmhla, comharraich a’ chiad litir | Leig leotha an ath fhacal a thaghadh |
+| [Coloring](/games/coloring/) | Tagh thusa dà dhath, taghaidh iadsan eatorra | Taghaidh iad na dathan uile |
+| [Conversation Cards](/games/conversation-cards/) | Dìreach coimhead air an dealbh còmhla | Cleachd na ceistean fosgailte air a’ chairt |
+| [Photo Pairs](/games/photo-pairs/) | Beagan dhealbhan teaghlaich a tha gràdhaichte | Cuir barrachd dhealbhan ris |
+| [Picture Bingo](/games/picture-bingo/) | Suidh neach-cuideachaidh ri taobh gach cluicheadair | Comharraichidh na cluicheadairean na cairtean aca fhèin |
+| [Calm Breathing](/games/calm-breathing/) | Dìreach suidh agus coimhead air còmhla | Gabh anail còmhla gu slaodach |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Comharran gu bheil an geama ro dhoirbh: stadan fada a tha coltach ri iomagain seach smaoineachadh, «chan urrainn dhomh» a-rithist is a-rithist, an t-inneal a phutadh air falbh, no mearachdan a tha gan cur troimh-chèile. Comharran gur dòcha gu bheil e ro fhurasta: dòrainn, no iad ag ràdh gu bheil e cloinneil. Ma thachras sin, thoir urram dha agus atharraich gu rudeigin a tha a’ faireachdainn inbheach, leithid lorg fhaclan, tòimhseachan de dhealbh fìor, no bruidhinn mu dhealbh den t-seann obair aca.
 
-## How do I turn a game into a conversation?
+## Ciamar a thionndaidheas mi geama gu còmhradh?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Cleachd gach dealbh mar chuireadh gu bruidhinn, agus gabh ris na chanas iad mar fhreagairt mhath. Dha mòran theaghlaichean, is e seo am pàirt as fheàrr de chluich.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Faighnich ceistean fosgailte, gun fhreagairt cheàrr.** «Dè a chì thu?» «Dè am fear as toil leat?» «Innis dhomh mu chidsin mar seo.»
+- **Roinn an toiseach.** «Bha cù mar seo aig mo sheanmhair.» Tha do sgeulachd fhèin ga dhèanamh nas fhasa dhaibh fear a roinn.
+- **Lean an claonadh.** Ma tha dealbh de chàr a’ leantainn gu sgeulachd mu thuras rathaid, is e an sgeulachd an gnìomhachd. Fàg an geama air stad.
+- **Na dearbhaich na fìrinnean.** Ann an ath-chuimhneachadh, tha còmhradh tlachdmhor nas cudromaiche na mion-fhiosrachadh ceart. Ma dh’atharraicheas an sgeulachd bhon uair mu dheireadh, gabh tlachd às an dreach ùr.
+- **Cleachd na molaidhean a tha ann.** Bidh [Finish the Saying](/games/finish-the-saying/) a’ leantainn gach seanfhacal le ceist còmhraidh, agus tha [Conversation Cards](/games/conversation-cards/) air an dèanamh dìreach airson seo. Bidh [Photo Pairs](/games/photo-pairs/) a’ cleachdadh do dhealbhan teaghlaich fhèin, a bhios gu tric a’ dùsgadh nan sgeulachdan as beairtiche.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Tha barrachd bheachdan anns na stiùiridhean againn mu [ghnìomhan ath-chuimhneachaidh](/activities/reminiscence/) agus [molaidhean conaltraidh](/caregiving/communication-tips/).
 
-## When should we stop?
+## Cuin a bu chòir dhuinn stad?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Stad aig a’ chiad chomharran gu bheil an neach sgìth no troimh-chèile, agus mas fheàrr beagan roimhe sin. Tha Alzheimer’s Association a’ comhairleachadh stad no gnìomhachd atharrachadh nuair a dh’fhalbhas aire no nuair a dh’èiricheas frustrachas.
 
-Watch for:
+Thoir an aire do:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- mèananaich, lùbadh sìos no sùilean a’ gluasad air falbh bhon sgrion;
+- gluasad gun fhois, seasamh suas, no iarraidh falbh;
+- osnaidhean, freagairtean goirid, no «chan eil mi math air seo»;
+- tapadh air thuaiream no an t-inneal a phutadh air falbh;
+- deòir, irioslachd, no atharrachadh obann ann an sunnd.
 
-How to stop well:
+Mar a stadas tu gu math:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Crìochnaich air rudeigin furasta.** Aon mhaids mu dheireadh as urrainn dhaibh dèanamh, no dealbh mu dheireadh airson coimhead air.
+- **Dèan mu do dheidhinn fhèin e.** «B’ fheàirrde mi cupa tì. An stad sinn an seo?» a’ seachnadh comharra sam bith gun do rinn iad gu dona.
+- **Gluais gu rudeigin corporra no socair.** Cuairt ghoirid, greim bìdh, aodach a phasgadh no ceòl.
+- **Abair rudeigin blàth.** «Chòrd e rium sin a dhèanamh còmhla riut.» Chan eil moladh ann airson «a bhith ceart», dìreach tlachd às an ùine còmhla.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Tha stad tràth, planaichean atharrachadh, no an geama a leigeil seachad agus dìreach suidhe còmhla uile nan toraidhean matha.
 
-## Can we play in a group or over a video call?
+## An urrainn dhuinn cluich ann am buidheann no thar gairm bhidio?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+’S urrainn, le beagan ullachaidh a bharrachd. Ann am buidheann, cùm e gu beagan dhaoine, suidhich luchd-cuideachaidh ri taobh neach sam bith a dh’fheumas iad, agus tagh geama le fòcas co-roinnte soilleir. Tha cairtean clò-bhuailte agus gairmeir air-sgrion aig [Picture Bingo](/games/picture-bingo/) airson buidhnean. Faic [gnìomhan airson buidhnean ann an dachaigh-chùraim](/activities/care-home-groups/) airson tuilleadh.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Thar gairm bhidio, faodaidh an neach air a’ ghairm dealbh a mhìneachadh fhad ’s a bhios cuideigin san t-seòmar a’ comharrachadh is a’ tapadh. Cùm gairmean goirid is eòlach. Tha barrachd mholaidhean san stiùireadh againn mu [ghairmean fòn is bhidio](/activities/phone-and-video-calls/).
 
-## What if a game just isn't working?
+## Dè mura h-eil geama ag obair idir?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Uaireannan cha bhith dad a’ freagairt, agus chan eil sin mar fhaireachdainn ortsa no orra. Cuir an geama air falbh agus feuch a-rithist aig àm eile den latha, le geama eile, no gun gheama idir. Tha mòran deagh ghnìomhan gun cheangal ri scrionaichean: ceòl, tubhailtean a phasgadh, coimhead tro chlàr dhealbhan, no cuairt ghoirid. Faic barrachd ann an [beachdan gnìomhachd](/activities/ideas/).

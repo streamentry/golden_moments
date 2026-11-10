@@ -1,0 +1,762 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Jàng ci kàddu gu jàll",
+      "stopReading": "Taxawal njàng mi",
+      "region": "Po",
+      "restart": "Tàmbaliwaat",
+      "soundOn": "Taal baat yu lewet yi",
+      "soundOff": "Fay baat yu lewet yi",
+      "done": "Yem na léegi",
+      "feedbackQuestion": "Ndax lii jariñ na tey?",
+      "feedbackYes": "Waaw",
+      "feedbackNo": "Du loolu",
+      "feedbackThanks": "Jërëjëf ci li nga nu ko wax."
+    },
+    "tile": {
+      "named": "{name}, kare {n}",
+      "hidden": "Nataal bu làqu, kare {n}",
+      "withState": "{label}, {state}",
+      "matched": "Tolloo nañu",
+      "selected": "Tann nañu ko",
+      "picture": "Nataal",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Mbooleem ñaar-ñaar yi dëppoo nañu. Mën nga poowaat walla nga noppaliku tuuti.",
+      "photoPair": "Ñaari foto yu ànd.",
+      "picturePair": "Ñaari nataalu {name|lower}, ñu ànd.",
+      "selected": "{name}. Léegi seetal moroom ma.",
+      "mismatch": "Ndànk-ndànk. Bësal ci benn nataal ngir wéy.",
+      "mismatchNamed": "{a} ak {b}. Ndànk-ndànk. Bësal ci benn nataal ngir wéy."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Bësal ci benn nataal, teppi bës ci moroom ma ko niróo.",
+      "guidanceHidden": "Bësal ci ñaari kare ngir dëppël leen. Seetal ñaar yu niróo.",
+      "restart": "Nataal yu bees",
+      "sizeLegend": "Ñata kare",
+      "size": {
+        "other": "{n} kare"
+      },
+      "viewLegend": "Ni ñuy poowe",
+      "viewShowing": "Nataal yi feeñ",
+      "viewHidden": "Nataal yi làqu",
+      "playAgain": "Poowaat ak nataal yu bees",
+      "talk": "Waxtaan ci nataal yi ànd"
+    },
+    "choose": {
+      "countLegend": "Ñata nataal",
+      "count": "{n} yu nga mëna tann",
+      "thatOne": "Kooku mooy {name|lower}. Ndànk-ndànk."
+    },
+    "findTheSame": {
+      "guidance": "Xoolal nataal bi ci kow. Bësal ci bi ci niróo ci suuf.",
+      "yes": "Waaw, benn {name|lower} la.",
+      "next": "Nataal bi ci tegu"
+    },
+    "shadowMatch": {
+      "guidance": "Xoolal takkandeer bi ci kow. Bësal ci nataal bi ko def.",
+      "yes": "Waaw, {name|lower} moo def takkandeer boobu.",
+      "next": "Takkandeer bi ci tegu",
+      "shadowAlt": "Takkandeer bu ñu wara dëppale",
+      "foundAlt": "Takkandeeru {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Bësal ci benn nataal, teppi bës ci panseer bi mu bokk.",
+      "restart": "Nataal yu bees",
+      "themeLegend": "Téem",
+      "selected": "{name}. Léegi bësal ci panseer bi mu war a dem.",
+      "pickFirst": "Bala ngaa def dara, bësal ci benn nataal, door a bës ci benn panseer.",
+      "hint": "{name|lower} mën na dem ci \"{basket}\". Bësal ci panseer boobu ngir def ko fa.",
+      "placed": "{name|lower} nekk na ci \"{basket}\".",
+      "sorted": "Lépp tegu na ci yoon. Xool-xoolleen panseer yi ànd, walla ngeen tànn weneen téem.",
+      "basket": {
+        "other": "Panseer \"{basket}\", am na {count} nataal ci biir"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Bësal ci benn cér, teppi bës ci beneen. Dañuy soppaliku palaas.",
+      "restart": "Jaxasewaat",
+      "pictureLegend": "Nataal",
+      "pictures": {
+        "sailboat": "Gaalu weer",
+        "house": "Kër",
+        "balloon": "Baloŋ",
+        "sunflower": "Tóor-tóoru jant",
+        "lighthouse": "Faar",
+        "cat": "Muus"
+      },
+      "sizeLegend": "Cér yi",
+      "size": {
+        "other": "{n} cér"
+      },
+      "pickedUp": "Cér bi yeek na. Léegi bësal fu mu war a dem.",
+      "whole": "{name|lower} dajalowaat na. Tànnal beneen nataal bu la neexee.",
+      "swapped": {
+        "other": "Soppi nañu ko. {correct} ci {total} cér nekk na ci fa mu war a nekk."
+      },
+      "guideAlt": "Nataal bi yépp: {name}",
+      "guideText": "Nii la nataal bi mel bu dajaloo.",
+      "piece": "Cér bi nekk ci {place}",
+      "pieceInPlace": ", ci palaas bu baax ba",
+      "piecePickedUp": ", jël nañu ko",
+      "places4": [
+        "kow ci cammooñ",
+        "kow ci ndeyjoor",
+        "suuf ci cammooñ",
+        "suuf ci ndeyjoor"
+      ],
+      "places9": [
+        "kow ci cammooñ",
+        "kow ci digg bi",
+        "kow ci ndeyjoor",
+        "digg bi ci cammooñ",
+        "digg bi",
+        "digg bi ci ndeyjoor",
+        "suuf ci cammooñ",
+        "suuf ci digg bi",
+        "suuf ci ndeyjoor"
+      ],
+      "done": "Nataal bi dajalowaat na. Mën nga poowaat walla nga noppaliku tuuti.",
+      "playAgain": "Jaxasewaat ko"
+    },
+    "finishTheSaying": {
+      "guidance": "Jàngleen léeb bi ànd, teppi bës ci baat bi koy motali.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Waaw, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" itam baax na. Waaye léeb bi dafa koy jéxalee \"{end}\".",
+      "revealed": "Léeb bi mooy \"{start} {end}.\"",
+      "choicesLabel": "Tannal baat bi koy motali",
+      "show": "Woneel jéxital gi",
+      "talk": "Waxtaan ci loolu: ",
+      "next": "Léeb bi ci tegu"
+    },
+    "wordSearch": {
+      "guidance": "Baat yi dañuy tëdd walla ñu taxaw. Bësal ci araf bu jëkk ci baat bi, door a bës ci araf bu mujj bi.",
+      "restart": "Po mu bees",
+      "themeLegend": "Téem",
+      "sizeLegend": "Dayoo wërngal bi",
+      "size": {
+        "other": "{n} ci {n} ({words} baat)"
+      },
+      "print": "Móol po mii",
+      "letterChosen": "Arafu {letter} tànn nañu ko. Léegi bësal ci araf bu mujj ci baat bi.",
+      "found": "Gis nañu {word}.",
+      "foundAll": "Gis nañu {word}. Baat yépp mat nañu léegi. Mën nga poowaat walla nga noppaliku tuuti.",
+      "tryAgain": "Ndànk-ndànk. Bësal ci araf bu jëkk ci baat bi, door a bës ci araf bu mujj bi.",
+      "gridLabel": "Taablu araf, {n} rànk ci {n} araf. Jëfandikool buuton yu bët yi ngir dox ci diggante araf yi.",
+      "cell": "{letter}, rànk {row}, kolonn {col}",
+      "cellFound": ", bokk na ci baat bu ñu gis",
+      "wordsHeading": "Baat yi ñuy seet",
+      "wordFound": " (gis nañu ko)",
+      "sheetTitle": "Seet baat: {theme}",
+      "sheetNote": "Baat yi dañuy tëdd walla ñu taxaw.",
+      "unavailable": "Kaare bu am araf yi dëppowul ak làkk wii, moo tax duñu ko fi wone. Jéemleen po yu am nataal yi ci seen palaas."
+    },
+    "coloring": {
+      "guidance": "Bësal ci benn kooloor, teppi bës ci benn wàll ci nataal bi.",
+      "restart": "Dindi kooloor yi",
+      "cleared": "Xët wi setaat na wecc.",
+      "pageLegend": "Xët",
+      "print": "Móol xët wii",
+      "colorsLabel": "Kooloor yi",
+      "paintChosen": "Tann nañu {paint}.",
+      "painted": "{part} am na {paint|lower} léegi.",
+      "artLabel": "{page}, {count} wàll yu ñu wara def kooloor",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, amagul kooloor",
+      "paints": {
+        "red": "Xonq",
+        "orange": "Oorans",
+        "yellow": "Mboq",
+        "green": "Wert",
+        "blue": "Blet",
+        "purple": "Wiyolet",
+        "pink": "Roos",
+        "brown": "Maron",
+        "sky-blue": "Blet asamaan",
+        "cream": "Kereem",
+        "gray": "Guri",
+        "white": "Weex"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Jàngleen kaart bi ci kàddu gu jàll. Amul tontu bu baax walla bu bon.",
+      "position": "Kaart {n} ci {total}",
+      "themeLegend": "Téem",
+      "next": "Kaart bi ci tegu",
+      "previous": "Kaart bi jàll",
+      "print": "Móol kaart yépp",
+      "sheetTitle": "Kaartu waxtaan"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Tàmbaleel ci tann say foto.",
+      "guidance": "Bësal ci benn foto, teppi bës ci bi ko niróol.",
+      "restart": "Jaxasewaat leen",
+      "intro": "**Tannal 2 ba 6 foto** ci masin bii. Ci xët wii kese lañu leen di wone, te duñu leen yeb ci internet walla denc leen mukk.",
+      "choose": "Tann ay foto",
+      "chooseDifferent": "Tann yeneen foto",
+      "clear": "Dindi foto yi",
+      "cleared": "Dindi nañu foto yi ci xët wii.",
+      "atLeastTwo": "Tannal lu néew néew ñaari foto.",
+      "usingFirst": "Jëfandikoo {max} foto yu jëkk yi.",
+      "skipped": {
+        "other": "{count} dencukaay du foto boo xam ni mën nañu ko wone."
+      },
+      "playAgain": "Poowaat ak foto yii",
+      "empty": "Say foto da fay feeñ, bu ci nekk ñaari yoon."
+    },
+    "pictureBingo": {
+      "guidance": "Móolleén kaart yi bala lépp. Door a wone kiy woo ci seetu bi gën a rëy bu ngeen am.",
+      "called": {
+        "other": "{name}. Woo nañu {called} ci {total} nataal."
+      },
+      "start": "Bësal ci \"Nataal bi ci tegu\" ngir woo nataal bu jëkk bi.",
+      "restart": "Door po mu bees",
+      "squaresLegend": "Kaare yi nekk ci kaart bu nekk",
+      "squares": "{n} kaare ({side} ci {side})",
+      "cardsLegend": "Ñata kaart lañuy móol",
+      "cards": {
+        "other": "{n} kaart"
+      },
+      "print": {
+        "other": "Móol {n} kaartu biŋgo"
+      },
+      "ready": "Pare nañu bu la neexee",
+      "next": "Nataal bi ci tegu",
+      "allCalled": "Woo nañu mbooleem nataal yi",
+      "alreadyCalled": "Woo nañu ko ba noppi",
+      "sheetTitle": "Biŋgo ak nataal · kaart {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Nooyil bu wërngal giy màgg, génne nooyi buy tuuti. Day taxaw boppam bu matee juróom-benn nooyi.",
+      "paceLegend": "Gaawaay",
+      "paceSlow": "Ndànk (sekond 5 buy duggu ak buy génn)",
+      "paceGentle": "Dal (sekond 4 buy duggu ak buy génn)",
+      "ready": "Bu la nexee, nu tàmbali",
+      "in": "Nooyil",
+      "hold": "Noppalul",
+      "out": "Génne nooyi",
+      "start": "Tàmbali",
+      "stop": "Taxawal",
+      "started": "Tàmbali na. Nooyil bu wërngal giy màgg.",
+      "stopped": "Taxaw na.",
+      "finished": "Juróom-benn nooyi yu ndànk la woon. Mën nga ko tàmbaliwaat bu la nexee."
+    }
+  },
+  "pictures": {
+    "teacup": "Kaasu ataaya",
+    "kettle": "Baradaw ndox",
+    "bread": "Mburu",
+    "frying-pan": "Tawa ak nen",
+    "cake": "Gatow bisu juddu",
+    "sunflower": "Tóor-tóoru jant",
+    "tulip": "Tulip bu xonq",
+    "watering-can": "Arrosuwaar",
+    "potted-plant": "Gàncax ci pot",
+    "tree": "Garab",
+    "bird": "Picc ci car",
+    "butterfly": "Lëpp-lëpp",
+    "dog": "Xaj",
+    "cat": "Muus",
+    "fish": "Jën",
+    "apple": "Pom bu xonq",
+    "pear": "Puwóor",
+    "strawberry": "Frees",
+    "banana": "Banaana",
+    "lemon": "Limoŋ",
+    "cherries": "Saris",
+    "house": "Kër",
+    "lamp": "Laampu taabal",
+    "armchair": "Faatëy",
+    "key": "Caabi bu yàgg",
+    "umbrella": "Paraapli",
+    "sailboat": "Gaalu wual",
+    "car": "Woto bu yàgg",
+    "bicycle": "Welo",
+    "balloon": "Mòngolfiyeer",
+    "lighthouse": "Faar",
+    "sun": "Jant",
+    "moon": "Weer ak biddiiw yi",
+    "teapot": "Baradaw ataaya",
+    "apple-pie": "Taartu pom",
+    "honey-jar": "Potu lem",
+    "boiled-egg": "Nen ci kaas",
+    "toaster": "Masiinu toos",
+    "cheese": "Dogub fóromaas",
+    "milk-jug": "Potu meew",
+    "cupcake": "Gato bu ndaw",
+    "orange": "Lomaas",
+    "grapes": "Reseŋ",
+    "watermelon": "Xal",
+    "pineapple": "Anaanaas",
+    "peach": "Pees",
+    "rose": "Róos",
+    "daisies": "Tóor-tóor yu weex",
+    "mushroom": "Sampiñoo",
+    "wheelbarrow": "Buruwet",
+    "birdhouse": "Këru picc",
+    "cactus": "Kaktus ci pot",
+    "acorn": "Dojum garab",
+    "autumn-leaf": "Xob wu mboq",
+    "rabbit": "Lëg",
+    "duck": "Kanaara",
+    "hen": "Gannaar",
+    "sheep": "Xar",
+    "owl": "Lëk-lëk",
+    "ladybird": "Koccinel",
+    "snail": "Xonx",
+    "frog": "Mbott",
+    "bee": "Yamb",
+    "clock": "Montor",
+    "vase-of-flowers": "Vaasu tóor-tóor",
+    "radio": "Rajo bu yàgg",
+    "books": "Téere yu dajé",
+    "candle": "Tàndal",
+    "glasses": "Lineti jàng",
+    "telephone": "Telefon",
+    "ball-of-wool": "Lëmësu wul",
+    "straw-hat": "Tengade",
+    "train": "Saxe",
+    "bus": "Kaar",
+    "airplane": "Aroplan",
+    "suitcase": "Walis",
+    "tractor": "Trakteer",
+    "rowing-boat": "Gaalug jëf",
+    "rainbow": "Ramboo",
+    "rain-cloud": "Niirub taw",
+    "snowflake": "Layti",
+    "kite": "Seer-wolaan",
+    "sunrise": "Penku jant"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIJKLMNOPRSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Meññeef",
+          "words": [
+            "POM",
+            "MANGO",
+            "BANAAN",
+            "LIMOO",
+            "DITAX",
+            "MADD",
+            "XAL",
+            "DAQAR",
+            "KOKO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Tool",
+          "words": [
+            "GARAB",
+            "ROOS",
+            "XOB",
+            "SUUF",
+            "JIWU",
+            "TOOR",
+            "YAMB",
+            "POT",
+            "NDOX"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Wañ",
+          "words": [
+            "MBURU",
+            "KAAS",
+            "KUDDU",
+            "TAAL",
+            "BOLL",
+            "PAAN",
+            "NEN",
+            "MEEW",
+            "SUKAAR"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Asamaan",
+          "words": [
+            "JANT",
+            "TAW",
+            "NGELAW",
+            "NIIR",
+            "NAWET",
+            "NOOR",
+            "WEER",
+            "LAAY",
+            "ASAMAN"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Mala",
+          "words": [
+            "XAJ",
+            "MUUS",
+            "PICC",
+            "FAS",
+            "NAG",
+            "XAR",
+            "MBAM",
+            "GANAR",
+            "BEY"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Kër",
+          "words": [
+            "BUNT",
+            "TOOGU",
+            "LAAMP",
+            "LAL",
+            "TEPI",
+            "NEEG",
+            "WAAT",
+            "TAABAL",
+            "CAABI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kàrt yépp",
+        "food": "Ñam",
+        "home": "Kër",
+        "outdoors": "Biti",
+        "animals": "Mala yi",
+        "travel": "Tukki",
+        "work": "Liggéey ak po",
+        "music": "Woy ak bànneex",
+        "seasons": "Jamono yi"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ban xetu wañ nga gën a bëgg?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ban xeetu gato nga gën a bëgg bu amee bànneex?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Nettalil ma ci meññeef walla neexal gu la daan neex lool."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Naka nga bëgge sa ataaya walla sa kafe?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Lan moo lay gënël ci ndekki?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Mës ngaa yeecci meññeef tekk ci garab gi?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Lu saf suukër walla lu saf wex: ban nga gën a bëgg?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ban ñam moo lay fàttali noor?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Nettalil ma ci kër goo xam ne dafa la neexon a dëkk."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Fan nga gën a bëgg a toog ngir noppalu?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Loo bëgg a def bu ngoon gi dale te am jàmm?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Loo am lu am solo goo xam ne danga ko denc ci koo gu sell?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Kan nga bëggoon a woo ngir ngeen séddoo kaasug ataaya?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Loo bëgg a def bu taw bi di tooyal suuf?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ban tóor-tóor nga bëggoon a ji ci tool?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Nettalil ma ci garab walla jardiŋ boo bëgg."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Lan moo gën a neex bu nit toogee ci biir jardiŋ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Ban melokaanu tóor-tóor nga gën a bëgg?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ndax bëgg nga am ay gàncax ci biir kër gi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Naka la bés bu am naaj neexe ci yaw?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Nettalil ma ci xaj boo xamoon."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Muus walla xaj, ban nga gën a bëgg? Lan nga bëgg ci ñoom?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Ban picc ngay gën a gis walla dégg ci biti?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Mës ngaa napp jën walla denc jën ci boker?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ban mala moo gën a rafet ci yoo mas a gis?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Nettalil ma ci woto boo mas a bëgg."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ndax gën ngaa bëgg a yendoo ci tefes gi walla ci tund yi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Fan nga bëggoon a dem ngir doxantu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Su fekkoon mën ngaa naaw ci kow bepp barab, fan nga doon tànn?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Nettalil ma ci tukki bu la neexon lool."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Ban xeetu liggéey nga daan bëgg a def?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ban po walla mbir nga mën a toog ay waxtu diko def?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Lan lañu la xame woon ci lu ngay defar walla jékxal?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ban digle nga bëgg a jox xale buy dog a tàmbali liggéey?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Ban xeetu woy moo lay def nga bëgg a fecc?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Lan moo lay defal dajé bu neex te am bànneex?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ban waykat nga bëgg a dégluu?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ban fiilm walla emisyon nga bëggoon a seetaat?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Lan nga gën a bëgg ci jamonoy tàngaay?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Lan lafa neex ci jamonoy noor bu xob yi di rot?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Loo bëgg a def ngir tàkk bu seddaay bi tàmballee?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Nan ngay xamee ne jamono tàmbali na neexaat?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Taw, layti walla naaj: ban nga gën a bëgg?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Tóor-tóor ci pot",
+          "regions": {
+            "sky": "Gannaaw",
+            "table": "Taabal",
+            "stem": "Car",
+            "leaf-left": "Xob bu cammooñ",
+            "leaf-right": "Xob bu ndeyjoor",
+            "petal-1": "Xobug tóor-tóor 1",
+            "petal-2": "Xobug tóor-tóor 2",
+            "petal-3": "Xobug tóor-tóor 3",
+            "petal-4": "Xobug tóor-tóor 4",
+            "petal-5": "Xobug tóor-tóor 5",
+            "petal-6": "Xobug tóor-tóor 6",
+            "petal-7": "Xobug tóor-tóor 7",
+            "petal-8": "Xobug tóor-tóor 8",
+            "center": "Diggu tóor-tóor",
+            "pot": "Pot",
+            "pot-rim": "Rumbaxu pot"
+          }
+        },
+        "house": {
+          "name": "Kër",
+          "regions": {
+            "sky": "Asamaan",
+            "sun": "Jant",
+            "grass": "Ñax",
+            "chimney": "Simne",
+            "walls": "Miir yi",
+            "roof": "Taas",
+            "door": "Bunt",
+            "window-left": "Palanteer bu cammooñ",
+            "window-right": "Palanteer bu ndeyjoor",
+            "path": "Yoon"
+          }
+        },
+        "teacup": {
+          "name": "Kaasu ataaya",
+          "regions": {
+            "background": "Gannaaw",
+            "saucer": "Sotàs",
+            "handle": "Tëyeukaay",
+            "cup": "Kaas",
+            "band": "Rëdd ci kaas gi",
+            "tea": "Ataaya"
+          }
+        },
+        "butterfly": {
+          "name": "Lëpp-lëpp",
+          "regions": {
+            "background": "Gannaaw",
+            "wing-top-left": "Laaf bu kow bu cammooñ",
+            "wing-top-right": "Laaf bu kow bu ndeyjoor",
+            "wing-bottom-left": "Laaf bu suuf bu cammooñ",
+            "wing-bottom-right": "Laaf bu suuf bu ndeyjoor",
+            "spot-left": "Tomb bu cammooñ",
+            "spot-right": "Tomb bu ndeyjoor",
+            "body": "Yaram"
+          }
+        },
+        "sailboat": {
+          "name": "Gaalu wual",
+          "regions": {
+            "sky": "Asamaan",
+            "sea": "Géej",
+            "sail-big": "Wual bu mag",
+            "sail-small": "Wual bu tuuti",
+            "mast": "Garabu wual",
+            "hull": "Gaal",
+            "flag": "Drapo"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Wañ ak tool",
+          "baskets": [
+            "Ci waañ wi",
+            "Ci tool bi"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Doomi garab ak mala",
+          "baskets": [
+            "Doomi garab yi",
+            "Mala yi"
+          ]
+        },
+        "home-travel": {
+          "label": "Kër ak tukki",
+          "baskets": [
+            "Ci kër gi",
+            "Ci biti"
+          ]
+        }
+      }
+    }
+  }
+}

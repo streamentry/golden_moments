@@ -1,35 +1,31 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Hamas Fasin Blong Jusum Ap mo Gem Blong Dementia"
+seoTitle: "Hamas Fasin Blong Jusum Ap mo Gem Blong Dementia: Wan Jeklis"
+description: "Wan jeklis blong ol famili we oli lukaotem wan man o woman. Stat wetem gol blong yu, no yusum ol taem, skor, o advertisement, jekem privasi, mo tingting gud long ol klaem."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Stat wetem wanem yu wantem ap ya i mekem: wan isi stimulesen, tingting blong bifo, kalm, o fren blong tok tugeta. Afta, jusum wan we i fit long ol abiliti blong man o woman ya long dei ya, wetem ol piksa we i bik, no ol taem, skor, o advertisement, mo wan isi fasin blong stop. Jekem wanem data i kolektem mo sipos yu save dilitim. Stap kea long ol klaem se wan ap i stopem o i kiuem dementia; wan stadi i no pruf.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Fastaem, disaed gol blong yu: stimulesen, tingting blong bifo, kalm, o fren blong tok tugeta i nidim ol difren ap."
+  - "Fitim abiliti blong man o woman long dei ya, no long stej lebel, mo kipim ol kontrol i isi."
+  - "Lusim ol ap we i gat taem, skor, laef, streak, advertisement, o prompt blong pemen."
+  - "Jekem data we i kolektem, sherem mo dilitim. HIPAA i no kavremap ol consumer ap we i mekem long ol man blong jenerol."
+  - "Stap wari long ol klaem se \"i stopem dementia\". Wan trial, o ol gud skor insaed long ap, i no pruf."
+  - "Golden Moments i wan recreational aktiviti. I no mekem eni klinikol klaem."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Ol brain gem i ken stopem dementia?"
+    a: "I no gat gud pruf se ol brain-gem ap blong saed i stopem o i slowem dementia. Nasonal Institiut long Eging i tok se i no gat sufisen pruf se ol ap blong brain-training we i stap long maket i gat sem efekt olsem stretjed training we oli test long wan bigfala stadi. Jusum ol ap blong gat fasin mo fren tugeta, no blong medisin."
+  - q: "Eni dementia ap i kavremap long HIPAA?"
+    a: "Olgeta taem nating. HIPAA i jenerol i aplae long ol man blong helt kea, ol helt plan, mo ol man we oli wokem wetem olgeta. Wan ap we yu daonlodem yu wan i olgeta taem i no kavremap, sakem sipos wan long olgeta i givim. FTC blong Hels Brij Notifikeson Rul i kavremap planti helt ap we HIPAA i no kavremap."
+  - q: "Wanem nao wan gud dementia gem i lukim olsem?"
+    a: "Ol piksa mo ol wed we i bik mo i klia, wan samting we i klia blong yu duim long eseri skrin, no taem o skor, no sound blong ol mistek, no advertisement, mo wan isi fasin blong pos o stop. I mas lukluk olsem i wokem blong ol adalt mo i isi blong wan narafala man i joen."
+  - q: "Ka Golden Moments i klaem se i halpem memori?"
+    a: "Nating. Golden Moments i givim ol isi aktiviti blong ol famili blong sherem blong fasin mo blong tok tugeta. I no mekem dayagnosis, i no kiuem, i no stopem, o i no mesarem dementia, mo mifala i no mekem eni klaem long memori o tingting."
+  - q: "Mi mas peim blong wan dementia ap?"
+    a: "Fastaem traem ol ap we i fri o ol fri trael, mo lukluk long fasin blong man o woman long sam wik. Peim blong wan ap i no mekem i stret moa. Jekem hao blong kanselem bifo yu saenem."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +56,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Ol stoa blong ap i fulap ol gem we oli tokem se oli blong ol olfala, blong memori, o blong dementia. Sam oli gud tumas we oli wokem. Narafala oli putum ol promis we i sawem olsem medisin, ol taem we i mekem gem i kanem fasin blong wan test, o ol advertisement mo ol data we oli kolektem. Pej ya i givim yu wan fasin blong jajem eni ap yu wantem. Mifala i no rankem o revyuem ol narafala prodak.
 
-## What should I decide before choosing a dementia app?
+## Wanem nao mi mas disaed bifo mi jusum wan ap blong dementia?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Disaed wanem yu wantem ap ya i mekem. "Wan gem blong mama blong mi" i ken minim ol difren samting, mo gud jusum blong wan gol olsem i ken i no gud long narafala gol.
 
-| Goal | What it looks like | What to look for |
+| Gol | Wat i lukem olsem | Wat blong lukaot long hem |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Isi stimulesen | Mekem ol piksa i pea, sortim, ol isi puzzle, ol gem blong wed | Ka i ken jenisim lelebet, ol piksa i stap i luk klia, no presa blong taem |
+| Tingting blong bifo | Ol olfala fotos, ol kastom tok, ol singsing blong taem we oli yang | Ol fotos blong yu, ol kwestin we i opem, no ol kwis kwestin |
+| Kalm | Ol slow piksa, ol soft saon, bret, natura | Isi blong stat mo stop, nating we i flas, no ol surprise |
+| Fren blong tok tugeta | Pleiem o tok tugeta, long fes o long video | Dizaen blong tu man, ol prompt blong tok |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Ol stadi long "kognitiv stimulesen" blong ol man wetem dementia, planti taem oli involvim grup sesen we ol trening wakman i lidim, wetem tok, ol wed gem, puzzle, singsing mo ol kriesen aktiviti. Wan [Cochrane revyu](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) i faenem smol benefit long avresij, we i jenisim long ol stadi. Kaen program ya we i sosol mo i gat planti samting i no sem olsem wan ap we yu yusum yu wan. So, luk long wan ap olsem wan sea aktiviti long planti narafala.
 
-## How do I know if an app fits the person's abilities?
+## Hao mi save sipos wan ap i fit long abiliti blong man o woman?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Lukluk long hao oli rispon, no bihaenem wan dayagnosis o stej lebel. Tu man we oli "long sem stej" oli save difren tumas long fasin blong luk, ere, hand kontrol, tok, mo kumfot long ol skrin. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i sajestem se yu mas kipim long tingting ol intres blong bifo mo ol abiliti blong naoia, mo fokas long gud fil, no long ol achivmen.
 
-Signs of a good fit:
+Ol saen we i sho wan gud fit:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- oli stat o joen i kam, no yu nidim plante toktok;
+- oli smael, oli koment o oli tok wan stori;
+- ol mistek i no seem i wari olgeta;
+- oli hapi blong stop taem i taem blong stop.
 
-Signs it is a poor fit:
+Ol saen we i sho i no fit:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- oli tok olgeta "mi no save" o "hemia i silih";
+- oli no save wanem nao blong tajem;
+- oli kros, oli sem, o oli pusum divaes i go nao;
+- i wok nomo sipos yu duim jiga samting.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Distres i wan saen, i no wan samting blong pusum. Luk long [wanem nao yu mas duim taem oli talem no](/caregiving/when-they-say-no/). Blong ol aktiviti blong stej we i no long ap, luk long [early-stage](/activities/early-stage/) mo [late-stage](/activities/late-stage/) aktiviti.
 
-## What design features should I look for or avoid?
+## Wanem design fitja nao mi mas lukaot o lusim?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Lukaot long kalm, isi, adalt design, mo lusim eni samting we i putum presa.
 
-| Look for | Be wary of |
+| Lukaot long | Stap long wan | 
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Ol piksa mo wed we i bik, kontrast we i strong | Ol smol aekon, ol skrin we i fulap |
+| Wan klia wok long wan skrin | Planti batan, menu, o ol instraksen we i gat planti step |
+| No taem, o taem we yu ken stopem | Kaontdaon, bonas blong spit, "bitim taem blong yu" |
+| No skor, o gud fidbak we i smol | Pointis, laef, streak, ranking, "brein eij" |
+| Ol mistek i stap kwaet | Ol sound, rent X mak, mesej "Rong" |
+| Ol adalt, ol pikja blong long saed laef | Ol tema we i pikinini o i silih |
+| I wok oflaen, no akaon nid blong stat | I mas sain-ap, login, o daonlodem kontent fastaem |
+| Isi blong pos mo stop | Ol pop-ap we i askem blong kipim pleiing o blong rebem ap |
+| No advertisement, wan klia peiment blong wan taem o sabskripsen | Advertisement, lok bokis, planti prompt blong peim |
+| Isi blong wan narafala man i joen | Oni wan man nomo, ol gem we i kompitiv |
 
-Ads and purchase prompts are easy to tap by accident.
+Advertisement mo prompt blong peim i isi blong tajem nating.
 
-## How do I check an app's privacy?
+## Hao mi tjekem privasi blong wan ap?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Lukluk long wanem data i kolektem, we i sherem long, mo sipos yu save dilitim. Bifo yu instolem:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Ridim sumari blong privasi long stoa.** Google Play i gat [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) mo App Store i gat [privacy information section](https://support.apple.com/en-us/102399), wea i lis ol kaen data we wan ap i ken kolektem mo sherem. Tufala kampani i talem se ol developa oli givim ol infomesen ya oli wan olgeta, so i wan stat nomo, i no wan odit.
+2. **Askem sipos i nidim akaon.** Sipos wan ap i soem nomo ol piksa o ol simpol gem, i ken no gat rison blong i save nem blong yu, imel, o bataplas.
+3. **Jekem ol pemisen.** Eni matjing gem i nidim lokesen, kontakt, maekrofon, o ful fotolaebri blong yu? Ofem eni samting we i no nid.
+4. **Lukaot long advertisement mo analitiks.** Ol tul blong advertisement mo trakin i ken sendem data long hao ap i yusum long ol narafala kampani.
+5. **Faenem wea ol fotos i go.** Sipos yu putim famili fotos, oli stap long divaes o oli apluodem long wan sava? Yu ken rimuvum?
+6. **Jekem dilit.** Lukluk long privasi polisi o data sumari blong faenem hao blong dilitim data mo akaon. Wan ap we i tok se data i no ken dilitim i mas gat moa kea, espesol sipos i holem fotos o helt infomesen.
+7. **Ridim privasi polisi** blong klia ansa long wanem i kolektem, wae, hao long taem, mo we i sherem long.
 
-### Does HIPAA protect information in dementia apps?
+### Eni HIPAA i protektem infomesen long ol dementia ap?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Olgeta taem nating, mo planti man i no save long hem. Ofis blong Helt mo Human Services blong U.S. [i eksplenem](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) se HIPAA i aplae long ol helt plan, planti man blong helt kea, ol helt kea klirinhaos mo ol man we oli wokem wetem olgeta. Long planti kes, i no protektem data we yu putum long wan ap blong yu wan. Wan "dementia ap" we yu kasem long stoa i ofen aotsaed HIPAA, sem olsem i tok long helt.
 
-### What protects health data in apps that HIPAA does not cover?
+### Wanem nao i protektem helt data long ol ap we HIPAA i no kavremap?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+FTC blong Hels Brij Notifikeson Rul i kavremap planti long olgeta. Long 2024, FTC [i finalaesem jenis](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) we i klia se rul ya i aplae long helt ap mo ol sem tekonoloji we HIPAA i no kavremap. Wan "brij" i inklud ol disklosa we oli no orra, i no jas hakin, mo ol kampani i mas talem ol man we i involv mo FTC. Ya i wan sef net afta wan samting i rong, i no wan promis se wan ap i kolektem nomo wanem i nidim.
 
-## How should I read claims about research and evidence?
+## Hao mi mas ridim ol klaem long ol risej mo ol pruf?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Ridim ol klaem long pruf slou, mo wok strong long ol bigfala promis. Ol kwestin blong askem:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Wanem nao i bin stadi?** Wan stadi long wan trening program i no soem se evri gem long wan ap i wok sem wei.
+- **Hu nao i bin stadi?** Ol risalt long ol strong olfala man i ken no aplae long wan man we i stap wetem dementia.
+- **Wanem nao i bin mesarem?** Fasin blong gud long gem blong hem wan i difren long jenis long laef blong dei, tok, fil o wanem i ken yu duim yu wan.
+- **Hao strong nao stadi ya?** Wan randomaesd kontrol trael (RCT) i kompea wan grup we i yusum ap wetem wan grup we i no yusum. Hemia wan gud dizaen, bat wan smol o sot RCT i no pruf. Lukaot long planti stadi, long independen risej, we oli hasem.
+- **Hem i klaem se i jenisim sik ya?** Wan stadi we i soem smol impruvmen long wan test i no pruf se wan ap i slowem, i stopem, o i kiuem dementia.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Pej blong National Institute on Aging long [kognitiv helt mo ol olfala man](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) i diskraebem wan bigfala trael blong NIH long stretjed kognitiv trening, been i warnem ol ridaz blong lukaot long ol klaem se sam kompyuta mo ol onlaen gem i ken impruvim memori mo tingting. I tok se i no gat sufisen pruf yet se ol brain-training ap we i stap long maket i gat sem impak olsem trening we oli tesem long trael ya. Yu ken ridim moa long gaed blong mifala long [brain gem mo ol pruf](/brain-health/brain-games/) mo [wanem risej i talem long preventem dementia](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Wanem nao wan pablik eksampel blong wan misliding klaem?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Long Januari 2016, FTC [i anaosem wan seteleman](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) wetem ol mekaer blong Lumosity, wan "brain training" program. FTC i talem se kampani i klaem, wetem no gud pruf, se ol gem blong hem i save slowem kognitiv disalaen we i kam wetem eij mo protektem agensem mael kognitiv impeiment, dementia mo Alzheimer's disis. Kampani i agri blong peim $2 milen mo i mas gat kompitent mo strong saen pruf bifo i mekem sem klaem long fiuja. Kes ya i wan gud rimaenda se langwis blong maket i no pruf.
 
-### Which words are red flags?
+### Wanem wed i red flag?
 
-Be cautious when an app or ad says it:
+Stap wari sipos wan ap o advertisement i talem se i:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- "prevents," "reverses," "stops," o "cures" dementia o Alzheimer's;
+- "klinikli pruvem" we i no nemem stadi, ol man we oli stap long hem, mo wanem nao oli mesarem;
+- givim wan "brein eij" o wan memori skor we i minim wan dayagnosis;
+- bae i "sharpen," "boost," o "train" brein;
+- yusum ol tesmoni olsem pruf.
 
-If you are unsure about a claim, ask the person's doctor.
+Sipos yu no sua long wan klaem, askem doktad blong man o woman ya.
 
-## Where does Golden Moments fit?
+## Wea nao Golden Moments i stap?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments i givim ol isi sea aktiviti, no wan memori test, no terapi, no medikol advaes. Ol gem blong mifala, olsem [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) mo [Calm Breathing](/games/calm-breathing/), oli mekem blong gud fasin mo tok. Oli no mekem dayagnosis, oli no kiuem, oli no stopem, o oli no mesarem dementia, mo mifala i no mekem eni klaem long memori o tingting.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Mifala i mekem tu wan fri ap, [Golden Moments blong iPhone, iPad mo Android](/app/). I gat gentle piksa pea wetem ol bik tail, ol gem wetem famili fotos we yu jusum, mo ol piksa pak we i wok oflaen, no akaon, no advertisement, no taem, no skor. Sem jeklis i aplae: App Store privasi label i ridim "Data Not Collected", mo [app privasi polisi](/app-privacy/) i eksplenem wea ol kopi blong fotos oli stap.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Mifala i laekem blong yu jajem mifala, i no blong trastem mifala nomo. Yusum jeklis long pej ya, ridim [privasi pej](/privacy/) mo [medikol disklema](/medical-disclaimer/) blong mifala, mo stopem eni samting, nating i mifala, we i no suitim man o woman yu lukaotem.
 
-## What is a sensible way to try a new app?
+## Wanem nao i wan gud fasin blong traem wan niu ap?
 
-Try it together for a couple of weeks and watch what happens.
+Traem wetem narafala man long sam wik mo lukluk long wanem i hapen.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Setemap fastaem** long [tablet mo fon setap gaed](/caregiving/tablets-and-screens/), mo stat long isiest level.
+2. **Holem ol sesen i smol,** lukim ol smael, tok, mo kalm, mo finisim long wan gud taem.
+3. **Lusim sipos i kasem frustresen,** no matta hao hae i stap long ol ridin.

@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Ni Goleva Wasoma na Vale e Dua e Tiko Vua na Dementia"
+seoTitle: "Dementia: Goleva Wasoma na Vale — Na Ka Mo Kaya"
+description: "Na vuna e kerea kina na vale e dua e tiko vua na dementia, na ka mo kaya, na ka me vakaceguya, kei na sala me taqomaki kina ke via lako tani."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Ni dau kerea wasoma na vale e dua e tiko vua na dementia, na « vale » e dau
+  kena ibalebale na noda nanuma ni taqomaki se dua na vanua mai na gauna e liu,
+  sega ni dua na vale dina. Kakua ni veiletitaka ni sa tiko ena vale. Vakadeitaka
+  na nona nanuma, vakadeitaka ni sa taqomaki, taroga me baleta na vale, qai toso
+  vakamalua ki na itaba, na sere, na kakana lailai, na taubale se dua na
+  cakacaka rawarawa. Raica ke sa viakana, viagunu, via lako ki na valelailai se
+  sa mosi. Ke tekivu vakasauri, qiri na nona vuniwai.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "Na « Au via lako ki vale » e dau kena ibalebale « Au sega ni nanuma ni’u taqomaki se vakacegu, » sega ni kerekere me baleta e dua na itikotiko."
+  - "Na veiletitaki se na vakaraitaki ni sa tiko ena vale e dau vakalevutaka ga na rarawa. Sa vinaka cake mo sauma na nona nanuma."
+  - "Kerea me talanoataka na vale, qai solia na itaba, na sere, na kakana lailai, na taubale se dua na cakacaka rawarawa."
+  - "Raica e dua na ka e rawa ni walia: na viakana, na viagunu, na valelailai, na mosi, na katakata se batabata, na rorogo, na oca."
+  - "Ke yaco ena veisiga ena yakavi, e rawa ni sundowning; e rawa ni vukea e dua na ivakarau tudei kei na rarama vinaka."
+  - "Vakarautaka na taqomaki ke via lako tani, qai qiri na nona vuniwai ke dua na veisau e yaco vakasauri."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Na cava e dau kerea wasoma kina na vale o tinaqu e tiko vua na dementia, dina ga ni sa tiko ena nona vale?"
+    a: "Na dementia e rawa ni vakavuna me vaka na sega ni kilai na rumu e kilai tu. Eso na gauna e nanuma e dua na tamata ni sa tiko ena dua na gauna e liu ni nona bula. Na « vale » e rawa ni kena ibalebale e dua na vale ni gauna gone se na nanuma ni taqomaki kei na vakacegu. Na saumi ni nanuma oqori e dau yaga cake mai na vakaraitaki ni vanua e tiko kina."
+  - q: "Na cava me’u kaya ni kerea na vale?"
+    a: "Tovolea na « O sa taqomaki eke, au na tiko vata kei iko, » qai « Talanoataka mada vei au na nomu vale. » Rogoca, wasea e dua na itaba se dua na sere, qai solia e dua na gunu se dua na taubale lekaleka. Levea na « O sa tiko ena nomu vale » ni kaya me vaka e dua na veivakadodonutaki, baleta e rawa ni nanuma kina ni sa cala."
+  - q: "E dodonu beka me’u kaya ni da na lako ki vale e muri?"
+    a: "E duidui na rai ni matavuvale kei na isoqosoqo ni dementia ena ka oqo. E vuqa era tekivu ena veivakacegui dina kei na veisautaki vakamalua, ka maroroya na lasu malumalumu me baleta wale ga na gauna e na vakavuna ga na rarawa na ka dina ka sega ni rawa ni cakava kina e dua na ka na tamata. Na cava ga o digitaka, mo yalololoma ka tudei, ka kakua ni vakalialiai na nona rai."
+  - q: "Vakacava ke via biuta na vale?"
+    a: "Tiko ga vakacegu ka taubale vata kei koya, kakua ni tarova; e dau vakamalumutaka na gagadre e dua na taubale lekaleka. Vakarautaka taumada na ituvatuva ni taqomaki, me vaka na ivovo ni ID, na ivakatagi ni katuba kei na dua na itaba vou. Ke yali, tekivu vakasaqara sara, ka qiri na 911 ke o se bera ni kunea ena loma ni 15 na miniti, ka tukuna ni tiko vua na tamata na dementia."
+  - q: "Na gauna cava me’u qiri kina na vuniwai?"
+    a: "Qiri vakatotolo na nona vuniwai ke tekivu vakasauri na kerekere se na veilecayaki, se sa ca sara vakalevu ena vica na aua se siga, vakabibi ke tiko na katakata, e dua na wainimate vou se na ivakatakilakila ni mate ni urinary tract. Na veilecayaki vakasauri e rawa ni delirium, ka gadrevi kina na veiqaravi totolo. Qiri na 911 ke dua e tiko ena rerevaki."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+« Au via lako ki vale. » Vei vuqa na matavuvale, oqo e dua na ka dredre sara me rogoci, vakabibi ni tiko ga ena rumu ni tiko na tamata o qaravi tiko. E ka e dau yaco, e rawa ni yaco ena dua ga na ituvaki ni dementia, ka tiko na sala vakacegu ka rawarawa mo sauma kina. Na tabana oqo e vakamacalataka na kena ibalebale na vosa oqo, na ka mo kaya, na ka e rawa ni vukea ena gauna oqori, kei na sala mo taqomaki kina.
 
-## Why does someone with dementia keep asking to go home?
+## Na cava e dau kerea wasoma kina na vale e dua e tiko vua na dementia?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Vakavuqa, na « vale » e dua na nanuma, sega ni dua na vanua. Na Alzheimer's Society e vakamacalataka me dua na nanuma ni vakacegu kei na taqomaki, se dua na vale mai na gauna e liu, sega ni na vale dina. Na dementia e rawa ni vakavuna me vaka na sega ni kilai na rumu e kilai tu, ka rawa ni nanuma e dua na tamata ni sa bula tiko ena dua na gauna e liu ni nona bula, ni « vale » o ya na vale ni nona gauna gone se na vanua a susuga kina na luvena.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Na vosa oqo e rawa tale ga ni ivakatakilakila ni dua tale na ka e yaco tiko ena gauna oqo: sa viakana, viagunu, via lako ki na valelailai, sa mosi, sa katakata se batabata, sa oca, sa tu duadua, sa rere, se sa lomalomarua ena rorogo. Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) e cavuta na mosi, na rorogo, na tu duadua, na veisau ena ivakarau kei na wainimate me vu ni yalolailai.
 
-## What should I say when they ask to go home?
+## Na cava me’u kaya ni kerea na vale?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Sauma na nona nanuma, sega na nona vosa. Na [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e vakasalataki me kakua ni tovolei me vakadinadinataka ni sa cala na tamata: e dina na nona nanuma, o koya gona mo sauma taumada ena veivakacegui, qai toso vakamalua ki na dua tale na ka.
 
-Phrases that often help:
+Na vosa e rawa ni vukea:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Vakayacora na nanuma.** « E vaka ni o nanumi tiko na nomu vale. »
+- **Vakadeitaka.** « O sa taqomaki eke, au na tiko vata kei iko. » Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) e vakatura na vosa rawarawa « O sa taqomaki eke. »
+- **Sureta na vakanananu.** « Talanoataka mada vei au na nomu vale. A vakaevei na nomu valenisili? » Na taro me baleta na gauna e liu e dau rawarawa cake mai na taro me baleta na nikua.
+- **Solia e dua na ka me caka vata.** « Me da gunuva mada e dua na ti taumada, » se « O rawa ni vukei au ena isulu oqo? »
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+E dua na domo ni vosa malumalumu kei na tarai ni ligana, ke vinakata, e rawa ni vosa vakaukauwa cake mai na vosa.
 
-## What should I avoid?
+## Na cava me’u levea?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Na veiletitaki se na vakamacalataka vakabalavu.** « O sa tiko eke oqo » se « Oqo na nomu vale ena 40 na yabaki » e kerea vua me ciqoma e dua na ka e vakadredretaka na dementia, ka rawa ni nanuma kina ni tukuni vua ni sa cala.
+- **Na veitarogi.** « O sega beka ni nanuma? » se « Na cava na nomu itikotiko? » e kuria na leqa.
+- **Na tarovi ni katuba ena cudru.** Ke via lako tani, tiko ga vakacegu ka taubale vata kei koya. E dau vakamalumutaka na gagadre e dua na taubale lekaleka vata.
+- **Na totolo.** Solia na gauna me talanoa kina me baleta na vale ni bera ni o veisautaka na ulutaga.
 
-## Activities that can help in the moment
+## Na ka e rawa ni vukea ena gauna oqori
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Ni o sa vakadeitaka oti na nona nanuma, e dua na ka vakacegu ka kilai e rawa ni veisautaka na nona vakasama ka sega ni beca.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Raica na itaba ni vale kei na matavuvale.** Vukica na tabana ka tukuna e dua na vosa (« Raica na iteitei oqori ») ka kakua ni taro. Ena talevoni se tablet, na [Photo pairs](/games/photo-pairs/) e veisautaka na nomu itaba ni matavuvale me dua na qito veiganiti malumalumu, ka na itaba e tiko ga ena nomu misini.
+2. **Talanoa me baleta na vale.** Na [Conversation cards](/games/conversation-cards/) e solia na veitarogi wavoki me baleta na vale, na valenisili, na itokani voleka kei na solevu, ka sega na isau dodonu.
+3. **Vakatagi na sere e taleitaka.** Na National Institute on Aging e cavuta na sere malumu me dua na sala me vakaceguya na yalolailai. Raica na noda [ka me baleta na sere](/activities/music/).
+4. **Solia e dua na kakana lailai se dua na gunu.** Na viakana kei na viagunu e rawa ni vaka na sega ni dau dabe vakacegu. E dua na bilo ti se dua na kakana e taleitaka e dua tale ga na ivakarau lailai ni tiko e vale.
+5. **Lako ena taubale se dabe e tautuba.** Na toso kei na rarama ni siga e vukea, vakabibi ena imatai ni siga.
+6. **Solia e dua na cakacaka e kilai.** Na lobika ni isulu, na tuvatuva ni iyaya ni kana se na suiva ni kau e rawa ni vakalesuya tale na nanuma ni qarava na vale.
+7. **Vakamalumalumutaka na ka kece.** Bokoca na retioyaloyalo, vakalailaitaka na rorogo kei na rarama kaukauwa, ka tovolea e dua na cegu lailai ni [icegucegu vakamalua](/games/calm-breathing/) vata.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Ke sega ni yaga e dua na ka, tovolea tale e dua ena dua tale na gauna. Na dabe vata ga vakadua e dua tale ga na ka vinaka.
 
-## Check for a cause you can fix
+## Raica e dua na vu ni leqa o rawa ni walia
 
-| Check | What to try |
+| Raica | Na ka mo tovolea |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Viakana se viagunu | Solia e dua na gunu kei na kakana lailai |
+| Via lako ki na valelailai | Solia me lako ki na valelailai, vakamalua ka sega na leqa |
+| Mosi se sega ni vakacegu | Raica na ivakatakilakila me vaka na matabibi, na taura e dua na tiki ni yago se na berabera ni tobo ni kete, ka tukuna ki na nona vuniwai |
+| Katakata se batabata | Veisautaka e dua na isulu se na katakata ni rumu |
+| Rorogo se levu na tamata | Toso ki na dua na rumu vakanomodi, bokoca na retioyaloyalo |
+| Oca se levu na ka e yaco | Vakacegu, vakamalumalumutaka na rumu, vakatagi na sere malumu |
+| Yakavi | Raica na iwasewase ni sundowning e ra |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Na Alzheimer's Society e vakatura mo maroroya e dua na ivolatukutuku lekaleka ni gauna e yaco kina na kerekere, me vaka ni bera ni kana, ni oti na ilakolako ni vulagi, se ni sa yakavi. Na ivakarau e vakarawarawataka na vakarautaki taumada.
 
-## Is it okay to tell a white lie?
+## E dodonu beka me tukuna e dua na lasu malumalumu?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Oqo e dua na veivosaki dina, ka duidui na vanua era yacova kina na matavuvale yalololoma. Na Alzheimer's Society e kaya ni sega e dua na isau dodonu duadua: na ka sega ni dina e rawa ni vakavuna eso me vakatataro vakalevu cake, o koya mo vakatulewa na ka e vinaka duadua vei koya ka mo tudei. Ena Penn Memory Center, na rai ni co-director ni na ka dina na ivakarau, ka e rawa ni vinaka na lasu malumalumu wale ga ni sega ni rawa ni ciqoma e dua na ka dina na tamata, ka mo kakua sara ni vakalialiai na nona rai.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+E vuqa na dauqaravi era kunea e dua na sala e loma donu: na veivakacegui dina kei na veisautaki vakamalua taumada (« Eda na tiko eke ena bogi nikua, au sa tiko eke vata kei iko »), ka sega ni veiletitaki me baleta na vanua e tiko kina na vale.
 
-## What if it happens every afternoon or evening?
+## Vakacava ke yaco ena veiyakavi?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Na sega ni dabe vakacegu e tekivu se ca cake ena yakavi e dau vakatokai me sundowning. Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) e vakatura e dua na ituvatuva tudei, na rarama ni siga kei na cakacaka ena veisiga, me lailai na moce ena yakavi, kei na levei ni kofi se alakaolo ena yakavi. Na waqa ni cina ni bera ni butobuto e rawa tale ga ni vukea. Na noda ivakasala me baleta na [ka vakacegu ena yakavi](/caregiving/late-day-restlessness/) e tiko kina eso tale na ka.
 
-## Keeping them safe if they try to leave
+## Taqomaka na nona bula ke via lako tani
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Na kerekere me lako ki vale e rawa ni yaco me lako vakaveitalia. Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) e vakadiria ni ono ena tini na tamata era bula vata kei na dementia era na lako vakaveitalia ena dua na gauna.
 
-**Prepare ahead:**
+**Vakarautaka taumada:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- E dua na ivovo ni ID se ivovo ni bula e tiko kina na yacana kei na nomu naba ni talevoni, kei na ivakatakilakila ena nona isulu. Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) e cavuta na MedicAlert kei na parokaramu ni Alzheimer's Association Safe and Found, ka rawa ni saumi kina eso na ilavo.
+- E dua na ivakatagi ni katuba se alarm, kei na loka e biu e cake se e ra. Kakua sara ni loka vua na tamata ni sa tu duadua.
+- E dua na itaba vou ni matana, kei na dua na lisi ni vanua e rawa ni lako kina, me vaka na nona vale se vanua ni cakacaka e liu.
+- Tukuna vei ira na itokani voleka o nuitaka, ka solia vei ira na nomu naba.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Ke yali:** tekivu vakasaqara sara; na Alzheimer's Association e tukuna ni vuqa era kune ena loma ni 1.5 na maile. Ke o se bera ni kunea ena loma ni 15 na miniti, qiri na 911 ka tukuna ni tiko vua na tamata na dementia. Qiri na 911 sara ga ke dua e tiko ena rerevaki.
 
-## When should I call a doctor?
+## Na gauna cava me’u qiri kina na vuniwai?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Qiri vakatotolo na nona vuniwai ke tekivu vakasauri na kerekere se na veilecayaki, se sa ca sara vakalevu ena vica na aua se siga. Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) e kaya ni na itovo e veisau vakasauri se totolo, vakabibi ni oti e dua na mate se na veisau ni wainimate, e dodonu me raici vakatotolo. Na veilecayaki vakasauri e rawa ni delirium, ka na [NHS](https://www.nhs.uk/symptoms/confusion/) e kaya ni gadrevi kina na veivuke totolo; na mate ni urinary tract e dua na vu ni leqa e dau yaco vei ira na qase.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+E yaga tale ga mo tukuna na ivakarau tudei ena sikovi ni vuniwai tarava, baleta na mosi, na lomabibi, na leqa ni moce se na revurevu ni wainimate e rawa ni vakavuna tale ga.

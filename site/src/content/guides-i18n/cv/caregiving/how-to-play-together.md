@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Деменциллӗ ҫынпа мӗнле вӑйӑ вылмалла"
+seoTitle: "Деменциллӗ ҫынпа мӗнле вӑйӑ вылмалла"
+description: "Деменципе пурӑнакан ҫынпа вӑйӑ вылма пулӑшакан канашсем: хатӗрленӳ, темп, йӑнӑшсене тӳрлетменни, вӑййине ҫӑмӑллатни тата хӑҫан чарӑнмалли."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Вӑййине пӗрле вӑхӑт ирттермелли май пек йышӑнӑр, тӗрӗс хуравсем тупмалли
+  тӗллев пек мар. Кунӑ лайӑх вӑхӑт суйлӑр, шӑп сӑмахсӑр пулӗмре пӗр
+  енчен ларӑр та пӗр ҫӑмӑл вӑйӑ сӗнӗр. Ҫын хӑй темпне палӑртма тивӗ, пысӑк
+  йӑнӑшсене ан тӳрлетӗр, йывӑрлӑх курӑнсанах вӑййине ҫӑмӑллатӑр, сӑнӳкерчӗксене
+  калаҫу пуҫламӑшӗ туса усӑ курӑр. Хальхинче тата хаваслӑ чухне чарӑнӑр.
+  Ирхине чарӑнни те, пӗрле пӑхни те — лайӑх результат.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Тӗллев — киленӳ тата ҫыхӑну, вӑййине вӗҫлеме тивӗссине е тӗрӗс хуравлама тивӗссине мар."
+  - "Пуҫламас умӗн хатӗрленӗр: шӑп пулӗм, лайӑх ҫутӑ, куҫлӑх тата илтӳ хӑпарӑмӗсем, сӳнтернӗ телевизор, хатӗр пӗр вӑйӑ."
+  - "Пысӑк йӑнӑшсене ан тӳрлетӗр. «Ҫапла туса пӑхӑпӑр» терӗр е малалла вылма тӑрӑр."
+  - "Камен данни пуҫланиччен вӑййине ҫӑмӑллатӑр: сахал сӑнӳкерчӗк, сахал вариант, сӑнӳкерчӗксене курӑнакан тытӑр."
+  - "Сӑнӳкерчӗксене калав пуҫламӑшӗ туса усӑ курӑр: «Ҫакӑн пирки каласа парсамччӗ» терӗр, «Астуса илни-и?» ан терӗр."
+  - "Ывӑнни е чӑтӑлни палӑрӑмӗсем курӑнсанах чарӑнӑр. Ирхине чарӑнни — ӑнӑҫлӑх, йӑнӑш мар."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Вӑйӑ мӗн чухлӗ вӑхӑт тӑсмалла?"
+    a: "Тӗрӗс вӑхӑт ҫук. Нумай ҫын валли темиҫе минут та ҫителӗклӗ, хӑш-пӗр кун пӗр тапхӑр ҫеҫ те пулать. Сехет ҫине мар, ҫын ҫине пӑхӑр та вӑл хальхинче лару-тӑру чухне чарӑнӑр."
+  - q: "Вӑл ҫӗнтерсе ан йӑнӑшне шута ан илмелле-и?"
+    a: "Пӗрле, йӗплессӗр вылякан вӑйӑра ҫӗнтермелли те, ҫухатмалли те ним ҫук. Йӑнӑш ҫынна пӑтраштармасть пулсан, шута ан илӗр. Вӑна пӑтраштарать пулсан, ӑна каламасӑр кӑшт вӑрттӑн пулӑшӑр е вӑййине ҫӑмӑллатӑр."
+  - q: "Вӑл эпӗ вылянине ҫеҫ пӑхасшӑн пулсан мӗн тумалла?"
+    a: "Ку юрӑхсӑр. National Institute on Aging ҫын куна юратать пулсан, ӑна пӑхма ҫеҫ хӑварма пултараканине палӑртать. Эсир курни пирки калаҫӑр та ҫынна кирле вӑхӑтра пӑхса е суйлса кӑтартма сӗнӗр."
+  - q: "Ку вӑйӑсем — ас тӑвас тӗрӗсленӳ-и?"
+    a: "Ҫук. Пирӗн вӑйӑсем — киленӳпе калаҫу валли ҫӑмӑл пӗрле ӗҫсем. Вӗсем ас тӗрӗсленӗвӗ мар, нимӗн те виҫмест, деменци валли сиплев те мар."
+  - q: "Хӑш вӑйӑран пуҫламалла?"
+    a: "Ҫын валли чи ҫӑмӑлӗнчен пуҫлӑр. Picture Pairs 4 плиткӑпа тата сӑнӳкерчӗксене курӑнакан тытса е Find the Same 2 вариантпа — ҫӑмӑл пуҫламӑшсем. Conversation Cards ҫын калаҫма юратать пулсан лайӑх."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Деменципе пурӑнакан ҫынпа лайӑх вӑйӑ — ӑмӑрту мар. Ку икӗ ҫын пӗрер енне ларать, сӑнӳкерчӗксене кӑтартать, ваттисен самахӗсем ҫине кулать тата мӗн килни пирки калаҫать. Вӑйӑ — пӗрле вӑхӑт ирттерме сӑлтав ҫеҫ.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ку канашра мӗнле хатӗрленмелли, мӗнле темп тытмалли, нимӗн те «йӑнӑш» пулсан мӗн каламалли, вӑййине мӗнле ҫӑмӑллатмалли е кашт йывӑрлатмалли, ӑна мӗнле калаҫу тума пултараканни тата хӑҫан чарӑнмаллине кӑтартнӑ. Ку канашсем пирӗн [вӑйӑсем](/games/) валли те, сирӗн патра пур картсемпе, пазлсемпе тата пуҫтах вылямалли вӑйӑсем валли те усӑллӑ.
 
-## What is the best way to play a game with someone who has dementia?
+## Деменциллӗ ҫынпа вӑйӑ вылмалли чи лайӑх мел мӗнле?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Килӗшӳре тӑрӑр, результат умӗнче мар. [Alzheimer's Association-ӑн ӗҫсем пирки канашӗ](https://www.alz.org/help-support/caregiving/daily-care/activities) ҫакна сӗнет: ҫын хальлӗхе пӗлтерекен хӑнӑхӑвсене усӑ курӑр, пуҫлама пулӑшӑр, йывӑр пайсене хӑвӑр тӑвӑр, пысӑк ӗҫсене ан ятласа ан тӳрлетӗр.
 
-In practice that means:
+Чӑннипе ку ҫапла пулать:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Ун патӗнче ларӑр, хирӗҫ мар.** Пӗр енчен ларассан иксӗр те экрана е сӗтел ҫине курма пултаратӑр, пулӑшни тӗрӗсленӳ мар, пӗрле ӗҫленӳ пек туйӑнать.
+- **Пӗр хутра пӗр вӑйӑ сӗнӗр.** Нумай суйлав — вӑйӑ пуҫланичченех тӗрӗсленӳ пек туйӑнма пултарать.
+- **Ҫын хыҫҫӑн пырӑр.** Вӑл сӑнӳкерчӗксене хӑй мелӗпе пусса пӑхасшӑн, пӗр сӑнӳкерчӗк ҫине вунӑ минут калаҫасшӑн е икӗ тапхӑр хыҫҫӑн чарӑнасшӑн пулсан — пахал ку вӑйӑ ҫапла.
+- **Лайӑх самантсене шутлӑр, вӗҫленнӗ тапхӑрсене мар.** Кулӑш, калав е лӑпкӑ ҫур ҫӗр — эсир курасшӑн результатсем.
 
-## How do I set up before we start?
+## Пуҫламас умӗн мӗнле хатӗрленмелле?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Темиҫе минут хатӗрленни — вӑййине ятласа каларнӑ йывӑрлӑхсен нумайӗшне пӗтерет.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Ҫын валли чи лайӑх вӑхӑта суйлӑр.** [National Institute on Aging (NIA) ӗҫсене йӗркелеме канашӗ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ҫын чи лайӑх туйӑннӑ кун вӑхӑтне планлама сӗнет. Нумай ҫын валли ку — ирхи каҫ. Каҫхи кун — чылай чухне йывӑррах; [каҫхи кун вӑхӑтӗн лӑпкӑ ӗҫӗсем](/caregiving/late-day-restlessness/) пӑхӑр.
+2. **Пулӗме шӑп тӑвӑр.** Телевизорпа радиона сӳнтерӗр, май пур пулсан алӑка хупӑр. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) калаҫма пуҫламас умӗн сасӑсене тата вӑйӑ тавӑрса илнине чакарма сӗнет.
+3. **Малтан хӑтлӑха тӗрӗслӗр.** Айӗнче ӗҫмелли, умӗн тӑванмалли вырӑн ҫине кайни, лӑпкӑ пукан, куҫлӑх тата илтӳ хӑпарӑмӗсем.
+4. **Пулӗме лайӑх ҫутатӑр.** Ҫутӑ, тӳрӗ ҫутӑ, экран ҫинче ялкӑшсӑр, сӑнӳкерчӗксене курма ансатлатать.
+5. **Вӑййине ларас умӗн хатӗрлӗр.** Ӑна уҫӑр, ӗнерлевсене суйлӑр тата сасӑмне хӑвӑр палӑртӑр. Кайран экрана ҫын патне кӑтартӑр. Планшет валли канашсемпе [планшета е телефона мӗнле йӗркелемелли](/caregiving/tablets-and-screens/) паллашӑр.
+6. **Хатӗре ҫаклатӑр.** Планшета тӳрӗ тытса тӑракан сӗнекен е чехол унта нимӗн те тытма кирлӗ мар, кӑтартма та ҫӑмӑлрах.
 
-## How do I invite them without pressure?
+## Мӗнле йӗплемесӗр сӗнмелле?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Сӗнӳ кӑткӑс тата ансат килӗшмен пулмалла. Усӑллӑ пулма пултаракан самахсем:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Эпӗ пахча сӑнӳкерчӗкӗсем тупрӑм. Манпа пӗрле пӑхасшӑн-и?»
+- «Ку пазла манпа пӗрле туса пама пултаратӑр-и? Ман валли йывӑр.»
+- «Паян чечексем-и, е кайӑксем-и килӗшет?» (икӗ суйлав — уҫӑ ыйтӑвран ҫӑмӑлрах)
+- «Эпӗ йӑмӑка валли открытка тӑватӑп. Кунта мӗнле тӗс лайӑх?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association ӗҫӗн тӗллевне ӑнлантарма сӗнет, сӑмахран, тус валли открытка тӑвассине. Тӗллев пур чухне ӗҫ пӗлтерӗшлӗрех. Пулӑшма ыйтни те лайӑх, мӗншӗн тесен ҫын хӑйне кирлӗ туйма пултарать.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Вӗсем «ҫук» тесен, ҫавна йышӑнӑр. Каярах тепре ыйтӑр е ыттискер сӗнӗр. [Ҫын «ҫук» тесен мӗн тумалли](/caregiving/when-they-say-no/) пирки канашра ытларах пур.
 
-## How long should a game last, and how fast should we go?
+## Вӑйӑ мӗн чухлӗ тӑсмалла, мӗнле хӑвӑрт вылямалла?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Темпне ҫын палӑртмалла, кӗске вӑхӑт планлӑр. Пӗрле вӑйӑ валли тӗрӗсленнӗ «тӗрӗс» вӑхӑт ҫук. Икӗрен пилӗк минут таран лӑпкӑ выляни те тулли ӗҫ пулма пултарать.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Чӑнтанхине кӗтнирен ытларах кӗтӗр.** NIA ҫынна хуравлама ытларах вӑхӑт парма тата вӑтам ҫине кӗрес мар туса хупма сӗнет. Пулӑшиччен шухӑшра вуннӑ шутлӑр.
+- **Пӗр хутра пӗр йӗрке.** Пӗр кӗске ыйтӑв калӑр («Сӑнӳкерчӗке пусӑр»), кайран кӗтӗр. Ӑнлантарнине мар, кӑтартнине усӑ курӑр: ӑҫта пусмаллине кӑтартӑр.
+- **Ирӗклӗ чарӑнӑр.** Ҫын сӑнӳкерчӗк ҫинчен калаҫма чарӑнса тӑрать пулсан, вӑйӑ кӗтме пултарать. Хӑваламалла мар.
+- **Пӑхма ирӗк парӑр.** NIA хӑш-пӗр ҫын пӑхма юратнине тата ку та юрӑхлӑ суйлав пулнине палӑртать.
 
-## Should I correct wrong answers?
+## Йӑнӑш хуравсене тӳрлетмелле-и?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ҫук. Ҫынна час-часах кӑшт тӳрлетни — эсир лайӑх шутпа тӑвакан пулин те — вӑл ӑнӑҫсӑрлӑх туйнине ҫирӗплетет. Alzheimer's Association пысӑк ӗҫсене ан ятласа ан тӳрлетме сӗнет. Вӑйӑра пӗр йӑнӑш та пысӑк мар.
 
-| Instead of | Try |
+| Ҫавӑн вырӑнне | Ҫапла туса пӑхӑр |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Ҫук, ку тӗрӗс мар.» | «Ҫапла туса пӑхӑпӑр.» (NIA панӑ тӗслӗх) |
+| «Ку пӗр килӗшни мар. Тепре пӑхӑр.» | Ним каламасӑр малалли тапхӑра тытӑр е «О, иккӗшӗ те хӗрлӗ.» |
+| «Кам пулнине астуса илни-и?» | «Ҫак сӑнӳкерчӗк пирки каласа парсамччӗ.» |
+| «Эсир ҫавна тунӑ та.» | «Ку лайӑх. Тепре туса пӑхӑпӑр.» |
+| «Тархасшӑн, эсир пӗлетӗр ҫакна.» | «Вӗҫӗсене эпӗ кӑтартсам-и?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Йӑнӑш ҫынна чӑннипех пӑтраштарать пулсан, вӑрттӑн пулӑшӑр. Тӗрӗс сӑнӳкерчӗке кӑтартӑр, хӑвӑр пӗр тапхӑр тытӑр е тепӗр хутра вӑййине ҫӑмӑллатӑр. Ваттисен самахӗн кулӑшла вӗҫӗ пулсан, пӗрле кулӑр. Ҫын каланӑ вӗҫӗ ырӑрах пулма пултарать.
 
-## How do I make a game easier or harder?
+## Вӑййине мӗнле ҫӑмӑллатмалли е кашт йывӑрлатмалли?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Вӑййине ҫынпа кун тӑрӑх йӗркелӗр, ярлӑк ҫине пӑхмасӑр. Пӗр ҫын каҫхине ирхинчен йывӑррах вариант кирлӗ тума пултарать. NIA-н пӗрремӗш канашӗ — ӗҫе ҫын мӗн тума пултараканӗпе ҫыхӑнтармалла тата вӑл хӑйне ӑнӑҫлӑ туймалла.
 
-| Game | Make it easier | Make it a little harder |
+| Вӑйӑ | Ҫӑмӑллатма | Кашт йывӑрлатма |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | 4 плиткӑпа пуҫлӑр, сӑнӳкерчӗксене курӑнакан тытӑр | Ытларах плиткӑ, е хӑтлӑ пулсан пытантарӑр |
+| [Find the Same](/games/find-the-same/) | 2 вариант | 4 вариант таран |
+| [Sort Together](/games/sort-together/) | Сӑнӳкерчӗке эсир тытӑр, ҫын корзинӑна кӑтартать | Ҫын сӑнӳкерчӗке те, корзинӑна та хӑй пусать |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 пай, малтан тулли сӑнӳкерчӗк ҫинчен калаҫӑр | 9 пай |
+| [Finish the Saying](/games/finish-the-saying/) | Вӗҫӗсене кӑтартӑр, кайран пӗрле калӑр | Пусиччен хӑйне калама хӑварӑр |
+| [Word Search](/games/word-search/) | Пичетлӗр, пӗр сӑмаха пӗрле шырар, унӑн пӗрремӗш саспаллине кӑтартӑр | Тепӗр сӑмаха хӑй суйлама хӑварӑр |
+| [Coloring](/games/coloring/) | Эсир икӗ тӗс суйлӑр, ҫын вӗсенчен пӗрине суйлать | Вӗсене пурне те хӑй суйласан |
+| [Conversation Cards](/games/conversation-cards/) | Сӑнӳкерчӗке пӗрле пӑхӑр | Карта ҫинчи уҫӑ ыйтӑвсене усӑ курӑр |
+| [Photo Pairs](/games/photo-pairs/) | Юратнӑ ҫемье сӑнӳкерчӗкӗсем | Ытларах сӑнӳкерчӗк хушӑр |
+| [Picture Bingo](/games/picture-bingo/) | Кашни вылякан патӗнче пулӑшакан | Вӑйӑҫсем картине хӑйсене палӑртассе |
+| [Calm Breathing](/games/calm-breathing/) | Пӗрле ларар та пӑхӑр | Майӗпен сывлӑшӑр |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Вӑйӑ йывӑр пулнине палӑртакан япаласем: шухӑшлакан мар, пӑшӑрханакан вӑрӑм вӑхӑт, «эпӗ пултараймастӑп» тени, хатӗре хӳтерсе яни е ҫынна пӑтраштаракан йӑнӑшсем. Вӑйӑ ытти чухне ҫӑмӑл пулма пултарать: йӑлтахланни е ҫын ҫакна «ача вылявӗ» тени. Ҫапла пулсан, ҫавна йышӑнӑр та аслисем валли лайӑхрах туйӑнакан ӗҫе куҫӑр: сӑмах шыравӗ, чӑн сӑнӳкерчӗкрен пазл е ҫын ҫывӑххи ӗҫӗ пирки сӑнӳкерчӗкпе калаҫни.
 
-## How do I turn a game into a conversation?
+## Вӑйӑран мӗнле калаҫу тума пултарать?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Кашни сӑнӳкерчӗке калаҫма сӗнӳ пек йышӑнӑр, ҫын мӗн каланине те лайӑх хурав пек илӗр. Нумай ҫемье валли ку — вылянин чи телейлӗ пайӗ.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Уҫӑ, тӗрӗс-йӑнӑшсӑр ыйтӑвсем парӑр.** «Мӗн курнине шута илтӗр?» «Хӑшне юратнине?» «Ҫакӑн пек кухня пирки каласа парсамччӗ.»
+- **Малтан хӑвӑр каласа парӑр.** «Манӑн асаннӗн ҫапла йытӑ пулнӑ.» Сирӗн калав ҫынна хӑйӗн калавне калама пулӑшма пултарать.
+- **Калав хыҫҫӑн пырӑр.** Машина сӑнӳкерчӗкӗ ҫул ҫӳревӗ пирки каҫа куҫарсан — вӑл калав вара ӗҫ. Вӑййине чарӑнса хӑварӑр.
+- **Калаври тӗрӗслӗх шырамасть.** Аса илни чухне хаваслӑ калаҫу — тӗрӗс кӑтартусемрен пӗлтерӗшлӗрех. Калав умӗнхи калавран уйрӑлса тӑрать пулсан, ҫӗннине те хавас кӗтӗр.
+- **Вӑйӑри хатӗр ыйтӑвсене усӑ курӑр.** [Finish the Saying](/games/finish-the-saying/) кашни самах хыҫҫӑн калаҫу валли ыйтӑв парать, [Conversation Cards](/games/conversation-cards/) вара ҫав тӗллевпе хатӗрленнӗ. [Photo Pairs](/games/photo-pairs/) сирӗн ҫемье сӑнӳкерчӗкӗсене усӑ курать, вӗсем чылай чухне чи лайӑх калаҫӑва пуҫарассе.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Ытларах сӗнӳсене [аса илӳ ӗҫӗсем](/activities/reminiscence/) тата [калаҫу канашӗсем](/caregiving/communication-tips/) пайӗсенче тупма пулать.
 
-## When should we stop?
+## Хӑҫан чарӑнмалла?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Ывӑнни е чӑтӑлни пӗрремӗш палӑрӑмӗсем курӑнсанах чарӑнӑр, авалтарах чарӑнни лайӑхрах. Alzheimer's Association тимлӗх чакнӑ чухне е камалла тухнӑ чухне ӗҫе чарӑнма е улӑштарма сӗнет.
 
-Watch for:
+Ҫак палӑрӑмсене шута илӗр:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- евӗтленни, кайса кайни е куҫсем экранран уйрӑлни;
+- вырӑнӗнче ларма пӗлменни, тӑрса тухни е каясшӑнни;
+- сывлани, кӗске хуравсем е «эпӗ кунта лайӑх мар» тени;
+- ҫёртен пусни е хатӗре хӳтерсе яни;
+- куҫҫуль тухни, ҫилленни е кӑмӑл тӳрех улшӑнни.
 
-How to stop well:
+Мӗнле лайӑх чарӑнмалла:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Ҫӑмӑл ӗҫпе вӗҫлӗр.** Ҫын тума пултаракан юлашки пӗр ҫыхӑнтару е пӑхса киленмелли юлашки сӑнӳкерчӗк.
+- **Сӑлтава хӑвӑр ҫийӗн хуҫӑр.** «Эпӗ пӗр курка чей ӗҫесшӗн. Кунта чарӑнӑпӑр-и?» — ку ҫын лайӑх мар тӑвӑнчӗ тесе шутлама ирӗк памасть.
+- **Хускануллӑ е лӑпкӑ ӗҫе куҫӑр.** Кӗске утни, ҫимӗҫ, тумтир хурлантарни е кӗвӗ.
+- **Ҫӑмӑл самах калӑр.** «Манӑн санпа пӗрле тӑни килӗшрӗ.» «Тӗрӗс тунӑ» тени мар, пӗрле ирттернӗ вӑхӑтшӑн савӑнни.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Ирхине чарӑнни, плана улӑштарни е вӑййине хӑварса пӗрле ларасси — пурте те лайӑх результат.
 
-## Can we play in a group or over a video call?
+## Ушкӑнпа е видео пӗлтерӳпе выляма май пур-и?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ҫапла, каштрах хатӗрленмелле. Ушкӑнпа пулсан сахал ҫын суйлӑр, кирлӗ ҫын патӗнче пулӑшакан лартӑр тата уҫӑм, пӗрле пӑхмалли вӑйӑ суйлӑр. [Picture Bingo](/games/picture-bingo/) ушкӑн валли пичетлемелли картсемпе экранри пӗлтерекен пур. Ытларах [пӑхса тӑракан пӳлӗм ушкӑнӗсем валли ӗҫсем](/activities/care-home-groups/) пӑхӑр.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Видео пӗлтерӳ вӑхӑтӗнче калаҫакан ҫын сӑнӳкерчӗке ӑнлантарма пултарать, пулӗмри ҫын вара кӑтартать тата пусать. Пӗлтерӳсене кӗске тата паллӑ тытӑр. [Телефонпа видео пӗлтерӳсем](/activities/phone-and-video-calls/) пирки канашра ытларах пур.
 
-## What if a game just isn't working?
+## Вӑйӑ нихӑҫан та килӗшмест пулсан мӗн тумалла?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Хӑш-пӗр кун нимӗн те килӗшмест, ку сире те, ҫынна та ятламасть. Вӑййине хупӑр та кунӑн урӑх вӑхӑтӗнче, урӑх вӑйӑпа е вӑйӑсӑр туса пӑхӑр. Экрансӑр нумай лайӑх ӗҫ пур: кӗвӗ итлесси, тумтир хурлантарни, фото альбома пӑхни е кӗске утни. Ытларах [ӗҫ сӗнӗвӗсем](/activities/ideas/) пӑхӑр.

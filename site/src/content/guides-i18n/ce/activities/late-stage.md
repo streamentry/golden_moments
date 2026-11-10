@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Деменцин кхийолу стадин ларамаш, йохьа я кресло хьалха"
+seoTitle: "Деменцин кхийолу стадин ларамаш: йохьа, кресло"
+description: "Деменцин кхийолу стадин жима ларамаш, шайна йохьа я кресло хьалха: музыка, хьанакха, дешнаш, гергара дуьйцург, дуьйцург кечам, безам, къаьсттина къамелан гуо тохарах."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Деменцин кхийолу стадин хьолехь ларамаш цуьнан дагахь ву: шайна дика музыка,
+  кхетамна хьанакха, дешнаш хьан хьоьжуш, къонахчун дешнаш, сурт хьоьжуш,
+  бурдахь-кхоьнан дуьйцург хьоьжуш я кресло, я хьан ахь тохар. Ларамаш йохьа
+  я кресло хьалха дика хиларан таьлла. Жима хан тохар, хьоьжуш цуьнан бехк
+  я дарбан хьалха, а гергарчу ларам цхьана хиллера.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Цуьнца кхетам бен ма лела. Кхийолу стадинехь дуьнен цхьана дагахь-оьрсан шиъ тайна, дагахь дешнаш."
+  - "Музыка, жима дахар, кхетамна дешнаш а, дуьйцург тайна а зама дешнаш царах дуьйцург хьоьжуш даьлла."
+  - "Ахь пишай дукъ ларамаш йохьа я кресло хьалха дика бу."
+  - "Хьоьжуш цуьнан бехк, цуьнан хьоьжуш я дарбан, дахарах дуьйцург, хьоьжуш нисса гергарчу хилла."
+  - "Жима олу ойлуш хьоьжуш лаьтта, къамелан гуо хьан масал хьоьжуш цхьана, цуьнан къамел цхьа хьан тохар."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Деменцин кхийолу стадин хьолехь, йохьа хьан мел ларам ду?"
+    a: "Цуьнан дика музыка дуьйцург, цуьнан кхетам, цуьнан дукъ сурт дакъа, цуьнан лаьтта хьоьжуш. Жима хан тохар, шайна дика сурт хьоьжуш. Жима, шуьйра ларам, цхьа бакъа дукъ ларам йохьа дика бу."
+  - q: "Кхийолу стадин хьолехь адам музыкин йохьа безам хилла?"
+    a: "Бохучу адамаш дукъ ду. Alzheimer's Association олу, кхийолу стадинехь адамо дар бен ма лела, цуьнан дахарехь садола дика дешнаш ма ларда. Дика музыка харжа, жима мерзан."
+  - q: "Ахь хьоьжуш цуьнан безам ду, вала ахь хьан хьоьжуш ма ду?"
+    a: "Ахь хьоьжуш, цуьнан тайна кхетам: цуьнан сан гаьхал, цуьнан хьалха, хьоьжуш, къамелан ойлуш. Цуьнан бехк, дарбан, дахарах дуьйцург, хьоьжуш ахь хьан. Ахь стаг хьан ма хилла, хьоьжуш ахь бехк хилла, цуьнан дарбан хьалха, дагахь хьалха дика."
+  - q: "Цуьнан кхетам ма ду, тайна стаг хьан хьоьжуш ма ду?"
+    a: "Хьо. National Institute on Aging олу, гергара бен ма лела. Дешнаш, музыка, дуьйцург кхетам тайна. Хьо дуьйцург, хьо хьан цуьнан кхетам — ахь цуьнан ма хилла, ахь хьоьжуш ма хилла."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Деменцин кхийолу стадинехь адам жима дуьйцу, цуьнан бен дахар дика дуьйцург хьан кхетам, я кресло хьалха, дийнахь дукъ дахар хилла. Хьо ойланаш, цуьнца ларам бен ма лела. Ларам лела. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) олу, адамо цуьнан дахарехь цхьа дика дакъа лела, а кхийолу стадинехь дуьнен кхетам кхийолу тайна. Музыка, хьанакха, дика гергарчу дешнаш я хьан тохар, безам я жима кхетам дуьйцург, гергара ларам хьан.
 
-## What activities help in late-stage dementia?
+## Мо ларамаш кхийолу стадинехь дика бу?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Жима кхетамна ларамаш я цуьнан гергар тохар дика бу кхийолу стадинехь. Alzheimer's Association олу: цуьнан дика музыка йохьа, дешнаш цуьнан дика хьоьжуш, цуьнан дика сурт хьоьжуш, мехала дийнахь гергара оьхуш дика бу. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) олу, дуьйцург, сурт хьоьжуш, безам я хьанакха, музыка, я гергара хьоьжуш я дуьйцург, а ахь гергара хьан дика бу.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) олу, кхийолу стадинехь адам дика цхьана тайна дукъ бен хьоьжуш ма лела, а жима ларамаш харжа: жима тайна ларамаш, жима кечам, шарфан тохар, музыка, жима хьанакха, а кхетамна ларам.
 
-## Activities for someone in bed or a chair
+## Йохьа я кресло хьалха ларамаш
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Цуьнан музыка дуьйцург.** Харжа цуьнан бохучу хан, цуьнан дин я цуьнан гергарчу музыка. Жима мерзан, ахь хьан гергара. Садола адам цхьа тоба я дуьйцу. См. [музыкин ларамаш](/activities/music/).
+2. **Кечам кечам.** Цуьнан кечам жима тохар, кечам кечам — хьан ларам. Йохьа хьо ойланаш.
+3. **Жима хьанакха.** Цуьнан кхетам тайна лосьон барш, цуьнан тохаршца жима хьанакхаш. Дика лосьон харжа, я цуьнан дика хьоьжуш, цуьнан кхетам тайна.
+4. **Дешнаш йохьа.** Дика дешнаш, дика книгах, дин я спорт тохар. Ахь хьан дешнаш цхьана тайна.
+5. **Дуьйцург.** Гергарчу тоба я цуьнан бохучу тоба дуьйцург. Жима жоп харжа ду.
+6. **Сурт хьоьжуш.** Цхьа бохучу сурт цуьнан кхетам хьалха, жима дуьйцург. Цу адам хьан ма дуьйцург.
+7. **Хьо кхетам тайна.** Кхетам йоцу шарф, сабо я кхетам-шарф. NIA олу, адамо кечам харжа, цуьнан хьанакха ахь я кресло ма кхетам.
+8. **Дуьнен бакъонаш.** Бузалла, шурда я тохар дика бу, цхьа жима хьан.
+9. **Дуьнен ахь дахар.** Тоьхарш хьан, куьйгаш дуьхьала цхьа ларам, я цхьа кхетам тоха.
+10. **Дуьнен тохар.** Адам кресло хьалха, мехала дийнахь жима хан, аьхк хьан дика бу.
+11. **Хьан тарш я жима кечам.** Жима кечам, цуьнан кечам я кечам, дика бу.
+12. **Музыка хьалха жима хьоьжуш.** Шарфан тохар, музыка тайна кечам. Хьан тохаршца физиотерапевт я медсестра харжа.
+13. **Дика сурт тохар.** Дика бумага, губка я кечам тохар. Дика цхьа бакъа ду.
+14. **Жанаш хьан.** Жима жанаш, адам безам хилла, а ахь хьоьжуш.
+15. **Цхьана хьан.** Жима хьан, хьанакха. [Калмо дахар](/games/calm-breathing/) цуьнан хьанакха дика бу.
+16. **Ахь хьан.** Цуьнца хьан, дешнаш оьхуш, кечам хьан. Ахь хьан бен ма лела.
 
-## How to share an activity at this stage
+## Цу хьолехь ларам мо тохар
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Хьалха дуьйцург.** Цуьнан цуьнан ц1е, хьан ц1е. Жима, дика дуьйцург, кечам кечам.
+- **Цхьа тохар.** Музыка йохьа телевизор цхьа ларам. Цхьа тохар, цхьа тохар.
+- **Жима хан.** Жима хан дика бу. Дийнахь жима ларамаш дика.
+- **Хьо хьан дика.** Ахь хьо къа дика хилла. NIA олу, кресло хьалха жима бахьна хьан дика.
+- **Хьоьжуш цуьнан бехк.** Жима кечам, дарбан я цуьнан бехк хьоьжуш. NIA олу, йохьа, оьрсийн я цуьнан хьоьжуш, кечам хьалха, дарбан хилла.
 
-## A quick guide by sense
+## Цхьа дешнаш хьоьжуш
 
-| Sense | Ideas | Take care |
+| Кхетам | Ларамаш | Цуьнан бехк |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Дуьйцург | Дика музыка, ахь дешнаш, дуьнен бакъонаш | Мерзан, цхьа дуьйцург |
+| Тохар | Кечам кечам, гергара кечам, жима кечам, я хьанакха | Харжа я хьалха, кхетам тайна |
+| Хьоьжуш | Сурт, тоьхарш, кресло хьалха дуьнен, дика сурт | Дика хьалха, дика кхетам |
+| Бехк | Дика лосьон, тоьхарш, дика бехк | Дика бехк харжа, аллергия, дахар |
+| Таам | Цуьнан дика таам | Бен кхетам безам тохар |
 
-## Safety at this stage
+## Цу хьолехь безам
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Кхийолу стадинехь бузалла цуьнца хьан бу, а NIA олу, цуьнан бехк дуьнен кхечу хьан бу. Жима тохар цуьнан хьан ма тохар, дика бузалла хьан. Ахь кечам ма хилла, кечам жима. Жима дуьйцург, цуьнан бехк. Ахь [сенсорни ларамаш](/activities/sensory/) хьоьжуш.
 
-## Looking after yourself too
+## Ахь хьо хьан
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Кхийолу стадинехь хьо дахар хьан кхетам. Хьо ахь хьан ма хилла, цуьнан дукъ хьан. Хоспис я паллиатив хьан дика бу, NIA олу. Жима, жима хьан, [деменцин цуьнан хьан](/activities/visiting/). Групп хьан, [кхечу ларамаш](/activities/care-home-groups/). А [ахь хьо хьан](/caregiving/caregiver-self-care/): хьо ахь дахар дика хьан.

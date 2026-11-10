@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Aktiviti Long Lastem Stej Blong Dementia, Long Bed o Jea"
+seoTitle: "Aktiviti Long Lastem Stej: Ideas Long Bed mo Jea"
+description: "Ol soft aktiviti long lastem stej blong dementia, long man we i stap long bed o jea: musik, tas, ridim stori, sawn mo stap wetem. Wetem ol tingting long seif."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Long lastem stej blong dementia, ol aktiviti oli bes long ol sens mo long
+  kompani blong yu: pleyem musik we man i laekem, holem han, masejem han slou,
+  ridim stori, lukim ol foto, ol nature sawn mo sitdaon klosap long windo o
+  aotsaed. Ol ia oli wok long bed o jea. Mekem ol seson i short, lukaotem fes mo
+  han blong luk se i kamfot, mo tingim se stap wetem hem i wan aktiviti tu.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Konekson i stap yet. Long lastem stej, man i ekspiriens wol blong hem plenti long ol sens."
+  - "Musik, soft tas, ol vois we i familiar mo ol soft samting blong holem oli ofen kasem man taem ol wod oli no save wok moa."
+  - "Klosap evri aedia long hia i save wok long man we i stap long bed o jea."
+  - "Lukaotem fes, han mo wei blong brif blong luk se man i kamfot o i no kamfot, mo stopem taem yu lukim eni saen blong hadtaem."
+  - "Yu no mas putum smol samting klosap long hem, mo givim kakae o drink nomo olsem wanem tim blong hel i talem, from kaken i save kamap no seif."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Wanem aktiviti yu save mekem wetem man we i gat dementia long lastem stej mo i stap long bed?"
+    a: "Pleyem musik we hem i laekem, holem han blong hem, masejem han slou wetem loson, ridim wan buk o prea we hem i laekem, soem ol foto, o pleyem ol soft nature sawn. Opna ol katen blong hem blong hem i ken lukim aotsaed. Ol seson we oli short mo kwiet, wan samting long wan taem, oli usually i gud moa."
+  - q: "Ol man we oli gat dementia long lastem stej oli save stap enjoe musik?"
+    a: "Plante oli save. Alzheimer's Association i talem se evn long lastem stej, man i save tapem bit blong musik o singsing wetem wan song blong taem blong hem i yang. Jusum musik we hem i laekem taem hem i yang, mo kipim vol i soft."
+  - q: "Hao mi save se hem i enjoe wan aktiviti?"
+    a: "Lukaotem ol smol saen: solda blong hem i relaks, fes i soft moa, hem i luk long yu, hem i hum, hem i sakisaki han blong yu, o brif blong hem i slou moa. Sapos hem i kraes fes, i pulum wei, i no save stap kwiet, o i griz, samting olsem i ken minim hem i feel nogud o i pen. Sapos yu lukim olsem, stopem mo talem long ol man we oli lukaotem hem sapos i kontinyu."
+  - q: "Hem i gud blong mi visitim hem sapos hem i no save mi moa?"
+    a: "Yes. National Institute on Aging i talem se jes stap wetem hem i ken kwietem hem, mo tas, musik mo stori oli ken givim komfot long advans dementia. Vois blong yu mo tas blong yu oli ken save hem, evn sapos nem blong yu i no save."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Long lastem stej blong dementia, man i save toktok tumas smol nomo, i nidim help long evri wok blong dei, mo hem i spen plante taem long bed o jea. Hem i save feel olsem i nogat wanem we i stap blong mekem tugeta. Be i gat samting. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) i talem se sam part blong yu blong man ia i save stap yet, mo long stej ia, wol i ekspiriens mainly long ol sens. Musik, tas, wan vois we i familiar, mo kompani blong yu we i kwiet, oli save givim komfot mo ol taem blong konekson.
 
-## What activities help in late-stage dementia?
+## Wanem aktiviti oli help long lastem stej blong dementia?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Ol sensory aktiviti we oli simpol mo kompani we i kwiet oli help moa long lastem stej. Alzheimer's Association i sajestem blong pleyem musik we man i laekem, ridim ol part blong ol buk we oli minim long hem, rabem loson we i gat smel we hem i laekem long skin, mo sitdaon aotsaed tugeta long wan gud dei. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) i ademap telem ol stori, soem ol foto, soft tas o masej, mo musik, wait noes o nature sawn, mo i talem se jes stap wetem hem i ken kwietem hem.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i talem se ol man long lastem stej oli gat strong nid blong holem wanem samting klosap long olgeta blong komfot, mo i sajestem ol simpol sensory aktiviti, ol soft stretj, muv wetem sikaf, musik, visit blong ol anamol, human tas mo free-form at.
 
-## Activities for someone in bed or a chair
+## Aktiviti blong man we i stap long bed o jea
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Pleyem musik blong hem.** Jusum ol song blong taem hem i yang, blong fet blong hem o famli blong hem. Kipim vol i soft mo sindaon klosap. Evn nao, sam man i save tapem fingga o humum. Lukim [aktiviti blong musik](/activities/music/).
+2. **Holem han.** Jes holem wan han, wetem wan soft tom we i muvum, hemi wan aktiviti. Talem fastaem wanem we yu stap mekem.
+3. **Masejem han slou.** Warmem smol loson long palm blong yu mo stroki long wrist kasem ol fingatip. Jusum loson we i no gat smel, o smel we hem i alwe laekem sapos skin blong hem i save tulum.
+4. **Ridim stori long vois.** Wan poem we hem i laekem, wan pat blong wan gud buk, skripja o spot pej blong nius. Rythm blong vois blong yu i impoten moa long ol wod.
+5. **Talem wan stori.** Toktok long wan famli trip o long dei we hem i maret. Yu no nidim ol ansa.
+6. **Soem ol foto.** Holem wan bigfala foto long wan taem long level blong ae blong hem mo talem long hem wetem wod we i waf. Yu no mas askem hu i stap long hem.
+7. **Givim wanem samting soft blong holem.** Wan washcloth we yu fold, wan fleece skwea o wan soft animol. NIA i sajestem blong givim man wan washcloth blong holem taem oli muvum hem, from then hem i no save kasem yu o furnitja.
+8. **Pleyem nature sawn.** Ren, wes o bed sawn long low vol i save kwietem wan rum we i nois.
+9. **Bringim aotsaed insaed.** Opena ol katen, putum wan bed fidim aotsaed long windo, o karim ol fres flaoa o lif blong lukim mo tajem.
+10. **Go aotsaed.** Sapos man i save sitdaon long wheelchair, sam minit long sed long wan mail dei i ken i nice tumas.
+11. **Brass hea blong hem o givim warm washcloth.** Slou mo soft gruming, mo warm washcloth long han mo fes, i ken i fīl olsem wan kea.
+12. **Muv slou wetem musik.** Wevem wan lait sikaf tugeta, o muvum han long rythm blong wan song. Long ol stretj mo muv blong joen, askem wan fisiotherapist o nes blong soem yu ol sef wei fastaem.
+13. **Mekem free-form at.** Sprednem non-toxic pent long wan bigfala pepa wetem wan sponj o han, we yu gaedem. Nating i gat wan krek rasta.
+14. **Welkamem ol anamol we oli visit.** Wan kwiet pet long bed o lap blong hem, sapos man i laekem ol anamol mo ples i alaod.
+15. **Brif slou tugeta.** Sindaon klosap mo brif slou mo i talem aot. [Kalm brif](/games/calm-breathing/) i ken helpem tufala blong stap long sem spid, mo yu i stat mo stopem.
+16. **Jes stap.** Sindaon klosap, humum, nitim o ridim long kwaet. Stap wetem hem i nog finis.
 
-## How to share an activity at this stage
+## Hao blong sherem wan aktiviti long stej ia
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Kam long fes.** Talem nem blong hem mo nem blong yu, mo toktok slou mo soft fastaem yu tajem hem.
+- **Givim wan samting long wan taem.** Lokem TV bifo yu pleyem musik. Mekem wan sens long wan taem.
+- **Kipim i short.** Sam minit i ken i nog. Sam smol taem long evri dei i gud moa dan wan longfala seson.
+- **Mekem hem i kamfot fastaem.** Jekem se man i sapotem gud. NIA i sajestem wan lap bod blong putum ol han mo sapotem bodi taem hem i sitap.
+- **Lukaotem ria blong hem.** Han we i relaks, fes we i soft moa, ae we i luk long yu, o humum i soemaot komfot. NIA i talem se groan, kraes fes, prodem wan pat blong bodi, o sudden agitesen i save minim pen. Stopem, mo talem long ol man we oli lukaotem.
 
-## A quick guide by sense
+## Wan kwik gaed long sens
 
-| Sense | Ideas | Take care |
+| Sens | Ideas | Lukaot |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Hiring | Musik we hem i laekem, vois blong yu we i ridim, nature sawn | Kipim vol i low; wan sawn long wan taem |
+| Tas | Masej long han, holem han, soft kloth, warm washcloth | Askem o talemaot fastaem; jekem skin i no sor o i no bruk |
+| Lukim | Foto, flaoa, luk long windo, wan slou nature vidio | Holem ol samting long level blong ae; gud laet, no glea |
+| Smel | Loson we hem i laekem, fres flaoa, kofi we i kuk klosap | Lukaot long strong smel; jekem alaji mo brif |
+| Tesi | Smol tes blong wan kaen flevo we hem i laekem | Nomo ol kakae mo tekstja we tim blong hel i talem i seif |
 
-## Safety at this stage
+## Seif long stej ia
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Kaken i save kamap i hadtaem long lastem stej, mo NIA i warnem se hem i raesem risk blong sok. No letem smol samting i stap klosap long hem, mo givim kakae o drink nomo long ol tekstja mo ol posisen we tim blong hel i sajestem. Jekem skin i soft long ol aktiviti blong tas, from skin i ken ripe o bruk isi. Blong moa long ol seif sensory aidia, lukim [sensory aktiviti](/activities/sensory/).
 
-## Looking after yourself too
+## Lukaotem yu tu
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Lastem stej blong kea i hevi long bodi mo long fil, long haos o taem yu visit wan care home. Hospis mo palliative kea tim oli save helpem wetem komfot, sapot mo planing, mo NIA i lisem olgeta olsem ples blong help. Ol seten, kwiet visit oli wot blong mekem; lukim [visitim wan man we i gat dementia](/activities/visiting/). Sapos yu lidim ol grup, [aktiviti blong grup long care home](/activities/care-home-groups/) i gat ol aidia blong jenjem ol seson. Mo plis ridim [seleftcea blong ol man we i kea](/caregiving/caregiver-self-care/): rest i pat blong gud kea.

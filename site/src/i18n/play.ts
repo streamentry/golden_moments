@@ -57,6 +57,8 @@ export interface PlayProps {
 interface PlayFile {
   ui: PlayUi;
   pictures: Record<string, string>;
+  /** App-only raster illustration labels, copied by export-pictures.mjs. */
+  illustrations?: Record<string, string>;
   content: PlayContent;
 }
 

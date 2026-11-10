@@ -1,34 +1,36 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Ñehenói pumbyry ha video rupive: tembiapo ojejapóva"
+seoTitle: "Tembiapo video rupive deménsia reheve"
+description: "Tembiapo pumbyry ha video rupive pe guarã pe nde reñangarekóva oikoveha deménsia reheve: jehechauka, ñemoñeʼẽ, purahéi ha ñembosarái."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Ñehenói pe ava oikoveha deménsia reheve ndive iporãve oiko jave mbyky,
+  jepiveguáicha ha oĩ peteĩ mbaʼe ojejapóva oñondive, techapyrãramo jehechauka
+  peteĩ mymba térã yvotyty, jehecha taʼanga, ñemoñeʼẽ hatã, purahéi peteĩ
+  purahéi ojehayhúva térã ñembosarái mbykymi peteĩ ñembosarái oñembojaʼóva
+  pantalla rupive. Ehenói ikatu vove peteĩ aravoicha ára ha ára, eheja peteĩ
+  tapicha oñeʼẽ hag̃ua peteĩ jave, ha ejerure peteĩ tapicha oĩva henda peve
+  nepytyvõ hag̃ua.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Peteĩ tembiapo omeʼẽ pe ñehenóipe peteĩ tape ha omombyky pe kyhyje oñeʼẽ hag̃ua. Eñehaʼã peteĩ mbaʼe mbyky emoherakuã hag̃ua."
+  - "Ñehenói mbyky ha jepiveguáicha, peteĩ aravoicha ára ha ára, ikatu iporãve umi ñehenói puku ha sapyʼánteva."
+  - "Peteĩ tapicha oñeʼẽ peteĩ jave. Ñehenói atyhápe, opa oñeʼẽ jave oñondive, hasy oñehendu hag̃ua, koʼýte oñehendu porãʼỹva."
+  - "Peteĩ tapicha oĩva henda peve ikatu omboheko pe mbaʼeʼoka, oguapy pe tapicha ykére ha haʼe ojejapo hag̃ua umi tembiapo térã taʼanga."
+  - "Pe ñehenói ndoikóiramo ko árape, embotuichave mborayhu reheve. Ikatu ehaʼã jey koʼẽrõ."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Mbaʼe ikatu ajapo peteĩ ñehenói video rupive peteĩ tapicha oikoveha deménsia reheve ndive?"
+    a: "Eñehaʼã peteĩ tembiapo mbyky: ehechauka ne yvotyty, ne mymba térã ne kosina; ehecha taʼanga ymaguare oñondive; emoñeʼẽ hatã peteĩ ñeʼẽpoty mbyky térã kuatiañeʼẽ; epurahéi peteĩ purahéi ohayhúva; ejapo peteĩ tembiʼu peteĩ aravoicha; térã eñembosarái peteĩ ñembosarái mbykymi taʼangáre oñembojaʼóva pantalla rupive. Umi tembiapo omeʼẽ pe ñehenóipe peteĩ mbaʼe oñemotenondéva, upéicha pe tapicha noikotevẽi oñangareko opa ñeʼẽme."
+  - q: "Mboy aravópa ipuku vaʼerã peteĩ ñehenói video rupive?"
+    a: "Hetave jey, ipukuveʼe pe nde reimoʼãvagui. Michĩmi aravo mborayhu reheve ikatu iporãma, koʼýte pe tapicha ikaneʼõ vove pyaʼe. Ehenói jepiveguáicha peteĩ aravoicha ára ha ára ikatu tuichave mbaʼe ipukúkue peteĩteĩ ñehenói."
+  - q: "Mbaʼe ajapokuaa oñembotavy térã oñemyangekói ramo video rupive?"
+    a: "Oĩ tapicha ohecha iñapañuái peteĩ tova pantalla rehe. Ehaʼã peteĩ ñehenói pumbyry añoite, peteĩ video oñembohyapýva pe pytyvõhára ikatu ohechaukáva peteĩ aravo pyʼaguapýpe, térã kuatiaʼatã ha taʼanga oñemondóva correo rupive. Peteĩ ñehenói ndoikóiramo porã, embotuichave mborayhu reheve ha ehaʼã jey ambue árape térã ambue aravópe."
+  - q: "Mbaʼéicha ikatu aipytyvõ che sy oñehenói hag̃ua video rupive ndaikatúiramo oipuru pumbyry?"
+    a: "Ejerure peteĩ pehẽngue, pytyvõhára ógape térã tembiguái tendaguasu pegua omoñepyrũ hag̃ua pe ñehenói ha oipyhy térã omoĩ hag̃ua pe mbaʼeʼoka. Heta tenda ñangarekoguasu oipytyvõ umi pehẽnguérape video rupive, upévare eporandu mbaʼépa omeʼẽ. Peteĩ tableta peteĩ yvyraʼanga ári, pantalla tuicháva reheve ha hatã oñehendu hag̃ua, ombohasyʼive opavavépe."
+  - q: "Ikatu ñañembosarái oñondive video rupive?"
+    a: "Ikatu. Pe hasyʼỹvéva haʼe peteĩ tapicha oñembojaʼo hag̃ua ipantalla pe tembipuruʼi video pegua rupive ha ambue heʼi chupe mbaʼe taʼangápa ojopy vaʼerã. Térã pe pytyvõhára henda peve ombojurujakuaa pe ñembosarái peteĩchagua peteĩ tabletápe ha ojopy pe tapicha rehehápe peẽ peñomongeta aja hese. Eiporavo ñembosarái ndorekóiva aravopapaha térã papapy."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +52,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Oiko mombyry peteĩ tapicha oikoveha deménsia reheve ikatu oñandu hasyete. Ñehenói pumbyry ha video rupive ndahaʼéi peteĩ jahu, ha katu ikatu ogueru aravo porã jeike rehegua ojejapo porãramo. Pe mbaʼe iporãva haʼe anive eñehaʼã eñomongeta tapiagua ha eñehaʼãrangue emoherakuã peteĩ mbaʼe mbyky oñondive. Ko kuatiarogue omombeʼu tembiapo oikóva video ha pumbyry rupive, mbaʼéichapa oñembosakoʼi pe ñehenói ha mbaʼépa ikatu ojapo pe tapicha oĩva henda peve oipytyvõ hag̃ua.
 
-## Why plan an activity for a call?
+## Mbaʼérepa iporã oñehaʼã peteĩ tembiapo ñehenói aja?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Peteĩ tembiapo omeʼẽ pe ñehenóipe peteĩ tape. “Mbaʼéichapa reime? Mbaʼépa rejapo ko árape?” ojerure pe tapichágui omanduʼa ha omombeʼu, ha kóva ikatu hasy ha ombyai. “Ehecha, tomate hiʼájama” ndojeruréi mbaʼeve chupe.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association heʼi ñomongeta aty tuicháva video rupive ikatu hasy, ha omokyreʼỹ [omeʼẽ hag̃ua peteĩ ysaja pe ñehenóipe](https://www.alz.org/help-support/caregiving/holidays) mbaʼe ramo purahéi térã taʼanga oñembojaʼóva rupive.
 
-## What activities work on a video call?
+## Mbaʼe tembiapopa oiko video rupive?
 
-### Show and tell
+### Ehechauka ha emombeʼu
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Egueru ne rekoha chupekuéra. Eguata mbeguekatu pe cámara reheve ne yvotytypápe, ehechauka ne jagua, ehechauka mbaʼépa rejapo kosináme, ehechaukami peteĩ taʼanga jejapopyre peteĩ mitãmegua, térã ehechauka okẽ guive pe yrypyʼa. Emombeʼu mbaʼépa rehecha ñeʼẽ mbykýpe ha eheja aravo oñembohovái hag̃ua. Natekotevẽi porandu.
 
-### Look at photos together
+### Ehecha taʼanga oñondive
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Ejagarra peteĩ taʼanga oñembohérava cámara rovái, térã embojaʼo ne pantalla ehechauka hag̃ua michĩmi taʼanga tuicha peteĩteĩ. Eñeʼẽ mbaʼépa rehecha rehe: “Ehecha tuvaʼi akãngao.” Ani eporandu “Mávapa kóva?” térã “Remanduʼápa?” Pe tapicha ombohéra jave ambue tapicha hendapeʼỹva, eheja péicha. Ehecha ore [ñeʼẽmondo manduʼarã rehegua](/activities/reminiscence/) ikatu hag̃uáicha eguereko ñeʼeporã mbykymi.
 
-### Read aloud
+### Emoñeʼẽ hatã
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Emoñeʼẽ peteĩ ñeʼẽpoty mbyky, peteĩ ñeʼẽnga, peteĩ aranduka mitãmegua peteĩ mitã ndive pe ñehenói aja, peteĩ kuatiañeʼẽ pehẽnguégui, térã peteĩ kuatiarogue rogue ohayhúva. Ñemoñeʼẽ hatã omeʼẽ pe tapichápe peteĩ mbaʼe pyʼaguapy oñehendu hag̃ua oikotevẽʼỹre ombohovái.
 
-### Sing or listen to music together
+### Epurahéi térã ehendu purahéi oñondive
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Epurahéi peteĩ purahéi oikuaa porãva, térã embopu peteĩ purahéi ohayhúva nde rógui. Purahéi oñondive ikatu ndahasýi oñeʼẽgui heta tapichápe guarã. Ehecha ore [ñeʼẽmondo purahéi rehegua](/activities/music/).
 
-### Cook or bake at the same time
+### Ejapo tembiʼu térã mbaʼe heʼẽva peteĩ aravoicha
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association omokyreʼỹ ejapo hag̃ua peteĩ ñehenói video rupive ejapo hag̃ua tembiʼu térã mbaʼe heʼẽva peteĩ tembiʼu tee reheve oñondive. Emboheko pe ñehenói mokõi kosináme. Pe tapicha oĩva henda peve ikatu ombyatýi térã ohaʼã pe tembiʼu, ha nde rehapykueho pe kuatia tembiʼu ymaguare.
 
-### Watch something together
+### Ehecha peteĩ mbaʼe oñondive
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Pe atyha omokyreʼỹ avei ehecha hag̃ua peteĩ taʼangamýi térã pelíkula ohayhúva peteĩ aravoicha, peteĩteĩ hógape, oñeʼẽ aja pumbyry térã video rupive. Peteĩ tapicha oikoveha deménsia reheve guarã, peteĩ vore mbyky, peteĩ tembiaporã TV ymaguare térã peteĩ ñembosarái ikatu iporãve peteĩ pelíkula pukugui.
 
-### Play a gentle game on a shared screen
+### Eñembosarái peteĩ ñembosarái mbykymi oñembojaʼóva pantalla rupive
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Heta tembipuruʼi ñehenói video pegua oheja embojaʼo hag̃ua ne pantalla. Nde rembojuruja pe ñembosarái ha rejopy; pe tapicha heʼi térã ohechauka mbaʼe taʼangápa oiporavo vaʼerã. Térã pe pytyvõhára henda peve ombojuruja pe ñembosarái peteĩchagua peteĩ tabletápe ha ojopy chupekuéra rehehápe peẽ peñomongeta aja.
 
-Games that work well this way:
+Ñembosarái oikóva porã koʼáicha:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** nde remoñeʼẽ pe ñeʼẽ ojekuaa porãva, haʼekuéra heʼi pe pahague, ha upéi oúva peteĩ ñeʼeporã oñeʼẽva.
+- **[Picture Pairs](/games/picture-pairs/):** peteĩ ñembosarái mbykymi joaju hag̃ua taʼanga tuicháva reheve, ikatu ojehecha tapiaite, ndorekói aravopapaha ha ndorekói papapy.
+- **[Conversation Cards](/games/conversation-cards/):** peteĩ taʼanga ha peteĩ porandu ijurujáva oñeʼẽ hag̃ua oñondive.
+- **[Photo Pairs](/games/photo-pairs/):** peteĩ ñembosarái joaju hag̃ua taʼanga nde reiporavóva nde mbaʼeʼokápe. Umi taʼanga opyta ne kundahárape, ha pe tapicha ohecha ne pantalla oñembojaʼóva rupive.
 
-### Recorded messages
+### Marandu oñembohyapýva
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Ñehenói oikovéva hasy jave, embohyapy peteĩ video mbyky: peteĩ maitei, peteĩ purahéi, peteĩ jeguata ne korapýpe. Pe pytyvõhára ikatu ohechauka peteĩ aravo pyʼaguapýpe, hetajey pe tapicha ovyʼa jave rehe. Alzheimer's Association omombeʼu oñembohyapykuaa ha oñemondokuaa hag̃ua aravo iporãva, techapyrãramo mitã ombojuruja jave ijeguaka.
 
-## What about plain phone calls?
+## Mbaʼépa umi ñehenói pumbyry añoite rehegua?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Ñehenói pumbyry añoite gueteri tuicha mbaʼe. Dementia Australia omokyreʼỹ [ehenói hag̃ua peteĩ aravoicha ára ha ára](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ha anive rekyhyje pyaʼe, umi tapicha oikoveha deménsia reheve ikatu oikotevẽ aravo oike hag̃ua ñomongetáme. Pumbyry rupive:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Emombeʼu ne réra ha nde ava piko chupe upepete: “Mbaʼéichapa, Túva, che haʼe Jenny, ne rajy.”
+- Eñeʼẽ mbeguekatu, ñeʼẽjoaju mbykýpe, peteĩ mbaʼe peteĩ jave.
+- Emombeʼu marandu, ani eporandu: “Chetuʼu aju tembiʼu nde tembiʼu tee rupi.”
+- Emoñeʼẽ peteĩ ñeʼẽpoty mbyky, térã epurahéi peteĩ vore peteĩ purahéi ohayhúva rehegua.
+- Emboajemi mbyky ha embotuichave mborayhu reheve.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia avei heʼi ñehenói video rupive ikatu oipytyvõ oñeʼẽ hasyve jave, pe tapicha ohechakuaávo nde rova. Ñehenói pumbyry oñembotavy jave, ehaʼã video rupive, térã juavy.
 
-## How do I set up a video call that works?
+## Mbaʼéichapa añembosakoʼi peteĩ ñehenói video oikóva porã hag̃ua?
 
-**Before the call:**
+**Ñehenói mboyve:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Eiporavo peteĩ aravo jepiveguáicha** pe tapicha opytuʼúramo jepi, ha epytaso upépe. Jepivegua oipytyvõ.
+2. **Eñomongeta pe pytyvõhára ndive henda peve.** Peteĩ marandu ára mboyve ikatu oipytyvõ chupe oñembosakoʼi hag̃ua.
+3. **Emaʼẽ pe mbaʼeʼokáre.** Peteĩ tableta peteĩ yvyraʼanga ári ndahasýi peteĩ pumbyry ojepyhyvaʼerãgui. Ehecha oĩpa carga, pe pantalla tesakãpa ha pe tyapu oñehendupa hag̃uáicha. Emboguejy jehaipy (captions) pe tembipuruʼi omeʼẽramo ha pe tapicha omoñeʼẽ porãramo.
+4. **Eñehaʼã peteĩ tembiapo** ha embosakoʼi opa mbaʼe.
 
-**During the call:**
+**Ñehenói aja:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Eguapy kamera ypýpe** tesape porãme, ovetã gotyo ha ani ovetã tapykuépe.
+- **Eñemombeʼu** peteĩteĩ jave, nde réra ha nde ava piko chupe.
+- **Peteĩ ñeʼẽ peteĩ jave.** Alzheimer's Association heʼi oñeʼẽ oñondive jave hasy umi tapicha oikoveha deménsia reheve ha umi nahendúiva porã. Heta pehẽngue oike jave, peñembojoapy térã peiko mokõi térã mbohapy tapicha añoite.
+- **Eporandu peteĩ mbaʼe peteĩ jave.** Family Caregiver Alliance omokyreʼỹ [porandu mbyky heʼíva heẽ térã nahániri reheve](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), ha ehechauka hag̃ua poravorã ikatúramo.
+- **Eheja aravo puku oñembohovái hag̃ua.** Ehaʼarõ. Oĩ porã eremi peteĩ ñeʼẽ oñeheka aja.
+- **Eipuru nde rova ha nde ñeʼẽ.** Epukavy, embohovái akã reheve ha eheja ne ñeʼẽ mborayhu reheve. Pe jehechauka hetave jey heʼi hetave ñeʼẽgui.
+- **Ani emoĩporã.** Pe tapicha heʼíramo peteĩ mbaʼe ndoikóiva, eheja péicha.
 
-**Ending the call:**
+**Ñehenói ñembotuicha:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Embotuichave pe tapicha ikaneʼõ mboyve, iporãvéva peteĩ aravo vyʼapýpe.
+- Eipuru peteĩchagua ñeʼẽ embotuirã hag̃ua: “Ahenoikóta ndéve koʼẽrõ karu aja. Rohayhu.”
+- Ani emboipukueterei.
 
-## Tips for the helper on site
+## Ñeʼeporã pe pytyvõhára oĩva henda peve guarã
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Nde rireménte, pytyvõhára, joykeʼy térã tembiguái reipytyvõva pe ñehenóipe, nde rejapo ikatu hag̃uáicha.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Embosakoʼi peteĩ tenda kirirĩháme.** Embogue pe tele ha emboty pe okẽ.
+- **Emoñepyrũ ne ae pe ñehenói,** ha upéi emeʼẽ pe tapichápe peteĩ tableta peteĩ yvyraʼanga ári térã ejagarra tesa renondépe.
+- **Eguapy hikuái ykére, ndahaʼéi henonde.** Nde reime oipytyvõ. Emomanduʼami mbeguekatu ikatúramo: “Ehecha, haʼe Jenny.”
+- **Nde rejapo hag̃ua ipo rupive.** Ejagarra taʼanga, ejopy pe ñembosarái, emboguevi pe tableta ehechauka hag̃ua pe koty.
+- **Emaʼẽ kaneʼõ térã ñemyangekói rehe,** ha emombeʼu pe oñehenóiva arakaʼépa oñembotuicha vaʼerã.
+- **Emombeʼu pe oñehenóivape mbaʼépa oiko porã.** “Ovyʼaiterei jagua rehe” oipytyvõ oñembosakoʼi hag̃ua pe ñehenói tenondéva.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA omokyreʼỹ umi pehẽngue oikóva mombyry ikatu oipytyvõ peteĩ kakuaáva [oikuaa hag̃ua ipumbyry mbaʼe](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), techapyrãramo ñehenói video rupive. Tenonde gotyo, pe pytyvõhára tekotevẽta oñangareko opa mbaʼeʼokáre. Upéva oĩ porã.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Pe tapicha oikóramo peteĩ tendaguasu ñangarekoguasúpe, Alzheimer's Foundation of America omokyreʼỹ eporandu hag̃ua pe tenda oipytyvõpa umi pehẽnguére ñehenói video rupive. AFA avei omombeʼu umi pehẽngue ikatuha omondo taʼanga tembiguái rupive, ha omondo tembiʼu ohayhúva térã mbaʼe mbykymi ombovyʼáva, eporandu rire mbaʼépa pe tenda ohejáva.
 
-## What if the call doesn't go well?
+## Mbaʼépa ajapo pe ñehenói ndoikóiramo porã?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Oĩ ñehenói ikatúva ombotavy, ndoikói térã omyangekói. Ndahaʼéi nde rembiapo vaíva, ha avei ndoʼiséi ñanihenói vaʼerãha.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Pe tapicha oñembotavy jave pantalla rehe, ehasa peteĩ ñehenói pumbyry añoitépe térã peteĩ marandu oñembohyapývape.
+- Oñemyangekói jave, emoneĩ mbaʼépa oñandu, ere chupe peteĩ mbaʼe ombopyʼaguapýva ha embotuichave mborayhu reheve.
+- Ñehenói ndoikói porã jave peteĩ aravópe, ehaʼã ambue aravópe.
+- Oimoʼãramo nde haʼe ambue tapicha, eheja mborayhu reheve.
 
-It is fine to end early. A short, warm call is a good outcome.
+Oĩ porã embotuichave pyaʼe. Peteĩ ñehenói mbyky ha mborayhu reheve haʼe peteĩ mbaʼe porã.
 
-## Between calls
+## Ñehenói paʼũme
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Eime hendive ambue hendáicha avei. Dementia Australia omokyreʼỹ emondo hag̃ua kuatiaʼatã, correo electrónico, taʼanga térã jeguaka mbyky. Peteĩ tarjeta jasyguáva peteĩ taʼanga tuicha reheve ha peteĩ marandu mbyky ikatu oñemoñeʼẽ jey ha jey. [Conversation Cards](/games/conversation-cards/) oñembohérava ikatu oñemondo pe pytyvõhárape omeʼẽ hag̃ua peteĩ téma pe ñehenói tenondévape.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Rehecha hag̃ua ñeʼeporã mbaʼéichapa eiporavo ha emboheko peteĩ tableta, ehecha [tabletas ha pantallas](/caregiving/tablets-and-screens/). Pe aravo oñondivepa rehegua, ehecha ore ñeʼẽmondo [jeho rehegua](/activities/visiting/).

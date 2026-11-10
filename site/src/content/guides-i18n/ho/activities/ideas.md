@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Dementia Taunimanima Edia Gaukara: 101 Isi Idea"
+seoTitle: "Dementia Gaukara Idea: 101 Isi Gaukara"
+description: "101 isi, tau badadia edia gaukara dementia ida noho taunimanima totona, taul edia towel fold amo music bona foto dekenai, bona edia hereva be ede hetohoa."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Dementia ida noho taunimanima totona namo gaukara be edia dala ai diba gauna,
+  tau badadia totona, bona mai isi ai karaia diba: taul edia laundry fold,
+  gaukara sort, aniani hagoa, music, foto itaia, raka lao, gaden gaukara,
+  rabana animal ida noho, bona isi game. Tauna na ia lalokau ela bona ia karaia
+  gauna amo hamatamaia, auka gaukara oi abia, bona ia gogoa neganai oi dokona.
+  Umui hebou noho mai moale be gaukara ia ore lasi ena hereva bada.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Tauna ena mauri amo hamatamaia: ena gaukara, ena lalokau, ena tomadiho bona ena music be namo dala."
+  - "Gaukara be mai isi ai karaia diba: step haida sibona, choice haida sibona, auka gaudia oi karaia."
+  - "Itaia, gaukara ta dogoatao, eiava kahana ai noho sibona be gaukara ai vareai diba."
+  - "Gogoa, badu eiava ura lasi oi itaia neganai, oi dokona eiava oi haidaua. Ginigunai dokona be namo."
+  - "Hebou karaia be namo hereva, maoromaoro karaia lasi."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Dementia ida noho tauna totona dahaka gaukara be namo?"
+    a: "Tauna na lagani momo ia karaia ela gauna, mai isi ai hahetohoa: taul edia laundry fold, table hegaegae, aniani hagoa, music, foto itaia, raka lao, gaden gaukara bona rabana animal ida noho. Tau badadia totona bona gaukara mauri gauna oi abia hidi, bona hebou oi karaia."
+  - q: "Gaukara be nega daudau ai noho be namo?"
+    a: "Namo nega ta be lasi. Dina ta ai minute haida ai towel fold be hegeregere, bona ma dina ta ai gaden ai hora ta be mai isi. Tauna ia ura dalana ai ia lao, bona ia moale noho neganai dokona."
+  - q: "Tauna be gaukara ta ia ura lasi bema, dahaka oi karaia?"
+    a: "Oio siaia lasi. Ia gwau lasi be gaukara be auka, nega be namo lasi, eiava ia gogoa eiava ia namo lasi. Gabeai oi hahetohoa lou, mai isi gauna oi henia, eiava kahana ai oi hamatamaia bona ia durua totona oi noia."
+  - q: "Brain game be dementia ida noho taunimanima totona namo, a?"
+    a: "Game be hebou nega namona karaia diba, to ma game ta ese dementia ia hanamoa, ia hadoa, eiava ia dokona lasi. Timer, score eiava kerere hereva lasi game oi abia hidi, bona hebou gaukara bamona oi karaia, test lasi."
+  - q: "Gaukara be mero bamona ia laloa lasi totona ede oi karaia diba?"
+    a: "Momokani, tau badadia edia gaukara gaudia oi gaukaralaia: momokani towel, momokani recipe, tau badadia edia music bona art gaudia, bona tau badadia edia foto. Oiemu durua momokani oi ura gauna bamona oi herevalaia, bona tauna be tau badana bamona oi hereva henia."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Dementia ida noho tauna totona namo gaukara be ia diba ela gauna, mai isi ai hahetohoa, bona ia abidadama henia tauna ida hebou karaia. Henuai be 101 idea, edia lalo ta ta ai, edia hegaegae dalana bona auka ia vara neganai ede hetohoa diba. Gaukara gaudia idauidau oi ura lasi, bona gaukara ta oi ore be namo lasi. Namo adorahi ta be towel basket ta bona kofi ta hebou inua.
 
-## How do you choose the right activity?
+## Ede oi namo gaukara oi abia hidi diba?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Tauna amo oi abia hidi, lista amo lasi: ia lalokau ela gauna bona harihari ia karaia diba namonamo gauna amo hamatamaia.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Ena gaukara bona ena lalokau oi laloa.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ese ia gwau, ofisi ai gaukara tauna be moni sort eiava mail hegaegae ia lalokau diba, bona gaden tauna be gaden gaukara ia lalokau diba.
+- **Ia sibona ia karaia gauna oi itaia.** Oiemu tama na daba mairivei ai ia brooms, ia noia lasi, unai gaukara be dina ai oi atoa.
+- **Ena diba lasi gaudia oi laloa.** Gogoa, mata, taia, ima bona gini laloa be hereva bada.
+- **Ena lalo oi itaia.** Taunimanima haida be gaukara momo bona regena bada ia lalokau, haida be unai ese ia hagaria.
+- **Anina gauna oi henia.** Ekalesia aniani totona napkin fold be gaukara sibona totona namo herea.
 
-### A rough guide by stage
+### Stage edia dala isi
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Dementia be nega momo ginigunai, bogaraginai bona dokona stage ai ia herevalaia. Unai be dala isi sibona, kahu lasi, bona taunimanima momo edia dina be namo bona auka ia idau. Harihari oi itaia gauna oi badinaia. [Alzheimer's Foundation of America ena stage edia lista](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) be unai dala ta ai ia lao.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Hereva | Ginigunai stage | Bogaraginai stage | Dokona stage |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Oi itaia diba | Ia sibona ia karaia diba; plan karaia, ladana matamata bona gabuna momo be auka | Hamatamaia bona step ai durua ia ura; hereva be auka | Dina mauri gaukara momo ai durua ia ura; kamonai gauna be hereva bada |
+| Namo gaukara | Card, board game, aniani hagoa, gaden, journal, lao, club | Laundry fold, sort, aniani hagoa step isi, ane abia, foto album, raka lao ida durua | Ia lalokau music, ima massage, malumu gauna dogoatao, ia duahia, murimuri ai noho |
+| Oiemu gaukara | Hebou tauna: dahaka durua ia ura oi nanadaia | Oi hegaegae, oi hahedinaraia, auka gaudia oi abia | Gaukara be ia dekenai oi mailaia; oiemu noho be gaukara |
+| Idea ma haida | [Ginigunai stage](/activities/early-stage/) | [Bogaraginai stage](/activities/middle-stage/) | [Dokona stage](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Dementia ida noho tauna ida gaukara ede oi hamatamaia diba?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Isi ai hamatamaia, ia kahana ai hamatamaia, bona «io» gwau be mai isi ai karaia. Taunimanima momo be gaukara ai vareai ia ura, to plan bona hamatamaia be auka.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Namo nega oi abia hidi,** nega momo daba.
+2. **Gaudia ibounai oi hegaegae guna** harihari hamatamaia totona.
+3. **Durua oi noia, gaukara namona lasi:** «Inai gaukara ai oi durua diba, a?»
+4. **Oiemu oi hamatamaia.** Towel ginigunai oi fold, ia vareai. Hahedinaraia be hereva herea.
+5. **Step ta ta oi henia.**
+6. **Auka hereana oi abia.** Alzheimer's Association ese ia gwau, aniani gaudia oi measure, gabeai sipunu oi henia ia haloia totona.
+7. **Ena dalana ai ia karaia.** Towel fold dalana ia idau be namo.
+8. **Moale ia dokona neganai oi dokona.** Ia hemarai, ia vairana ia hahedinaraia eiava «Lau diba lasi» be haidaua eiava lagaani edia tohu.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Ia itaia [hebou gadara dalana](/caregiving/how-to-play-together/) bona [herevahereva edia dala](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Ruma ai dina mauri gaukara
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Ruma gaukara be diba gauna bona anina gauna, unai dainai namo gabuna ai hamatamaia diba. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ese dish uro, table hegaegae, brooms, mail sort bona laundry fold ia gwauraia, taunimanima haida ia lalokau diba gaukara bamona. Ma haida [ruma gaukara](/activities/household-tasks/) ai.
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Siahu towel fold.** Dryer amo basket ta table ai oi halata, hebou oi fold. Gabeai, ia hamaoromaoroa bona ia atoa be namo durua.
+2. **Soks hebou toa.** Color idau momo amo hamatamaia. Gabeai, diari bona dubu sort be hegeregere.
+3. **Table hegaegae.** Gauna ta ta oi henia. Gabuna ta oi hegaegae guna hahedinaraia totona.
+4. **Dish uro eiava hagoevaia.** Siahu, sopu ranu bona bubu lasi dish. Helai ai hagoevaia be aena totona mai isi.
+5. **Table huria.** Aniani murinai paripari ta oi henia. Ima be gaukara ia ura neganai, inai be momokani gaukara.
+6. **Mail sort.** Katalog bona mail kerere be «dogoa» bona «recycle» ai. Momokani bill oi dogoa lasi.
+7. **Kupon utua.** Bogea lasi sisis bona aniani pepa. Gabeai, ia lalokau aniani oi torea diba.
+8. **Moni sort.** Moni maragidia be kapu ai sort eiava oi koua. Gaukara maragidia oi rakatania bema, maragi oi gaukaralaia lasi.
+9. **Brooms eiava dubu huria.** Veranda ai maragi brooms, eiava helai ai duster daudau oi gaukaralaia.
+10. **Aniani hagoa ai durua.** Aniani uro, letis hahisia, haloia. Naifi bona siahu be oiemu gaukara.
+11. **Ruma bese recipe oi hagoa.** Ena imana torea recipe card bema, oi gaukaralaia. Gabeai, ia be tasta tauna.
+12. **Ofisi gaukara karaia.** Revareva fold, envelope ai atoa bona stamp atoa, eiava hebou shopping list torea.
 
 ## Music
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Diba music ese taunimanima ia davaria diba, hereva be auka neganai danu. [Alzheimer's Association ena music edia dala](https://www.alz.org/help-support/caregiving/daily-care/art-music) ese diba ane, komesial lasi bona TV dokona ia gwauraia. [Music gaukara](/activities/music/) itaia.
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Tauna ena playlist oi karaia.** Ena mero bona tau matamata negadia edia music, ena headava, ena ekalesia bona ena kastom music.
+14. **Hebou ane abia.** Oiemu ane oi hamatamaia. Hum eiava kamonai sibona be namo.
+15. **Biti oi dogoatao.** Imada oi pata, tui oi bota eiava drum maragi oi bota. Helai ai bona dokona stage ai namo.
+16. **Mavaru.** Kisin ai isi mavaru, eiava helai ai ima dogoatao hebou heudeheude.
+17. **Album ta idoinai oi kamonai.** Ia lalokau rekod ta amo matamaia dokona, kofi ida, gaukara ma haida lasi.
+18. **Music dekenai oi hereva.** Sivarai oi noia, facts lasi: «Oi lao ela mavaru edia sivarai oi hamaoroa.»
+19. **Musical eiava konset vidio oi itaia.** Ia lalokau show be namo adorahi. Nega ibounai pause diba.
+20. **Ia diba ela instrument oi gadara.** Piano tauna gunana be isi ane ia lalokau diba; gabeai, hebou note haida.
+21. **Mauri music oi kamonai.** Komiuniti konset maragi eiava choir practice. Ikoudia kahana ai oi noho.
 
-## Reminiscence: photos, objects and stories
+## Laloa lou: foto, gaudia bona sivarai
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Guna nega oi moalelaia hebou, test lasi. «Oi laloa, a...?» bona «Daika be inai?» oi rakatania, bona buka henia hereva oi gaukaralaia. [Laloa lou gaukara](/activities/reminiscence/) itaia.
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Foto album oi itaia.** Oi itaia gauna oi gwauraia: «Namo dabua. Inai dina dekenai oi hereva.» Ia gaukaralaia ladana oi abia dae.
+23. **Laloa kahu oi karaia.** Ena mauri amo gaudia ai hahonua kahu ta, hetoho gaukara badji eiava recipe card. Gaudia ta ta oi abia.
+24. **Mauri sivarai buka oi hamatamaia.** Pesi ta ai foto haida, hereva badadia ida. Durua matamata taudia ese tauna idiba totona ia durua.
+25. **Herevahereva card oi gaukaralaia.** [Conversation cards](/games/conversation-cards/) ese foto ta bona buka henia hereva ta ia heboua.
+26. **Ruma bese foto game oi karaia.** [Photo pairs](/games/photo-pairs/) ese oiemu foto ai match game ta ia karaia.
+27. **Ruma vidio eiava guna TV oi itaia.** Henanadai lasi, hebou oi hereva.
+28. **Ena gaukara amo gaudia oi dogoatao.** Spana, stetoskop, ledger. Ima ese sivarai ia hakaula nega momo.
+29. **Mero negana aniani oi hagoa.** Ia haloia, ia tasta, eiava kisin ai oi ida ia noho sibona.
+30. **Ia noho ela gabuna edia map oi itaia.** Atlas badana ai diba dala oi badinaia, oi hereva neganai.
 
-## Creative activities
+## Kerema gaukara
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Art be karaia dalana, ore gauna lasi. Gaukara gaudia be tau badadia totona bona namo. [Art bona craft](/activities/arts-and-crafts/) itaia.
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Watercolor oi paint.** Pepa roborobo, color haida. Hamatamaia be auka bema, hebou ginigunai stroke oi karaia.
+32. **Tau badadia edia design oi kala.** Au eiava quilt, cartoon lasi. Emai [coloring pages](/games/coloring/) be screen ai eiava print ai diba.
+33. **Kolaj oi karaia.** Magazin amo gaden, motuka eiava aniani edia foto oi hahisia bona oi glu. Gabeai, foto abia hidi sibona be hegeregere.
+34. **Au oi hegaegae.** Stoa amo au bando ta bona vase ta. Gabeai, jar ai au haida.
+35. **Hebou nit eiava krose.** Nil badadia ai isi lain. Gabeai, yarn be bolo ai koua.
+36. **Ruma bese totona card oi karaia.** Momokani taunimanima totona birthday bona namo hereva card oi stamp, oi sain eiava oi kerema.
+37. **Air-dry klei oi karaia.** Disi maragi ta oi haheauka. Poison lasi gaudia oi gaukaralaia, kahana ai oi noho.
+38. **Au oi sand bona oi hagoa namonamo.** Pre-cut birdhouse kit bona sandpaper, paoa tool lasi. [Tau taudia edia gaukara](/activities/for-men/) itaia.
+39. **Revareva oi torea eiava oi gwauraia.** Tubuna eiava guna turana totona. Tore be auka bema, ia hereva oi torea.
 
-## Outdoors and gardening
+## Murimuri bona gaden
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Mauri air bona dina diari be namo turadia. [Murimuri bona gaden gaukara](/activities/outdoor-and-gardening/) itaia.
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Au oi ranu henia.** Ranu kapu maragi ta bona pot haida. Dina ibounai ranu henia ese dina ia hahegaegae.
+41. **Pot ta oi hagoa.** Table ai oi atoa, ta be tui diho lasi. Seedling be seed herea mai isi.
+42. **Gadoa oi abia eiava au gagevagageva oi utua.** Glav oi atoa, gaden maragi ta ta.
+43. **Au rau oi rake.** Gabuna maragi ta. Gabeai, begs dogoatao be momokani gaukara.
+44. **Diba dala ai oi raka lao.** Blok kahirakahira eiava mailbox dekenai. Daudau lasi be namo.
+45. **Murimuri ai hebou oi noho.** Namo dina ai veranda helai. Ori eiava lao taunimanima oi itaia.
+46. **Manu oi ubua.** Hebou feeder oi hahonua bona window kahana amo oi itaia.
+47. **Motuka oi huria.** Baket, spanj, siahu adorahi. Hubkap ranu huria be namo step ta gaukara.
 
-## Sensory activities
+## Laloa kamonai gaukara
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Dogoatao, bono, aniani kamonai, regena bona itaia be dementia ia bada neganai hereva bada. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ese music, dogoatao gaudia bona ima massage ia gwauraia dokona stage totona. Alerji bona gado mauri auka oi itaia guna; [laloa kamonai gaukara](/activities/sensory/) itaia.
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Ima massage oi henia.** Guna oi nanadaia bona losen maragi oi gaukaralaia. Kopi bona alerji oi diba lasi bema, bono lasi gauna oi abia.
+49. **Dabua oi dogoatao.** Velvet, corduroy, vul bona satin edia basket ta, dogoatao bona fold totona.
+50. **Herbs bona kofi oi bono.** Mint eiava rosemary matamata oi gigi imamu ai. Laga auka bema, bono goada oi rakatania.
+51. **Ena hui oi brash.** Isi bona malumu, ia lalokau bema.
+52. **Siahu paripari oi hebou gaukaralaia.** Kerukeru dina ai ima bona vairana totona. Guna siahu oi tohohoa.
+53. **Gaukara apron oi gaukaralaia.** Batan badadia bona zip goada ai humia. Gaukara ta ia moru lasi totona oi itaia.
+54. **Ia lalokau aniani maragi oi henia.** Sipun maragi ta, ia ania namonamo diba dalana ai.
+55. **Natura regena oi abia.** Medu, davara eiava manu regena, regena maragi ai.
+56. **Isi gauna oi itaia.** Qarume tangki, natura vidio eiava sno ia moru.
 
-## Games and puzzles
+## Game bona puzzle
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Timer, score eiava siaia lasi neganai, game be namo. Test bamona ia vara bema, oi atoa. [App bona game abia hidi](/caregiving/choosing-apps-and-games/) bona [brain game](/brain-health/brain-games/) itaia.
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Foto match.** [Picture pairs](/games/picture-pairs/) ese foto be vairana ai noho diba, unai dainai itaia gaukara, laloa lasi.
+58. **Foto tamona oi tahua.** [Find the same](/games/find-the-same/) ese rua amo hani choice ia henia. Foto ta ta dekenai oi hereva.
+59. **Basket ai oi sort.** [Sort together](/games/sort-together/) be soks sort bamona, screen ai.
+60. **Gaukara badana jigsaw oi karaia.** Tau badadia edia foto, isi pieces. [Picture puzzle](/games/picture-puzzle/) ese foto idoinai ia hahedinaraia. Ma haida [dementia edia puzzle](/activities/puzzles/) ai.
+61. **Guna card game oi gadara.** Lagani momo ia gadara ela gauna. Gabeai, dek sort be game ta.
+62. **Domino oi gadara.** Dokona oi match. Gabeai, tile lain atoa be namo.
+63. **Hereva badana word search oi hahetohoa.** Emai [word search](/games/word-search/) ese hereva be kahirakahira bona diho sibona ai, bona print diba.
+64. **Diba hereva oi haore.** [Finish the saying](/games/finish-the-saying/) ese dokona hereva oi hahedinaraia diba nega ibounai.
+65. **Picture bingo oi gadara.** [Picture bingo](/games/picture-bingo/) be ruma bese bona group totona namo. Card mak totona oi durua.
+66. **Dama oi gadara.** Taravatu be mai isi. Hebou hereva neganai pieces haheauka be gaukara.
 
-## Movement
+## Heauka
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA ese raka lao, stationary bike, stretch band, balun malumu eiava balun throw, sup kapu abia isi bona tau badadia edia exercise vidio ia gwauraia. Gaukara matamata oi hamatamaia lasi guna, dokta oi nanadaia, gini auka bema.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Balun oi tahoa.** Hebou helai oi henihegogoa. Ia lao be isi, unai dainai abia dae be mai isi.
+68. **Tau badadia edia helai exercise vidio** oi badinaia, hebou.
+69. **Band ida oi stretch.** Helai ai ima isi abia band maragi ida.
+70. **Sup kapu oi abia isi.** Ima isi abia, music ida diba.
+71. **Stationary bike oi raka.** Minute haida isi, oiemu kahana ai.
+72. **Dabua ida oi mavaru.** Music dekenai dabua maragi oi haheudeheude, helai eiava gini ai.
+73. **Anina gauna ida oi raka lao.** Revareva atoa eiava kofi hoia totona. Lao dalana be naturala.
+74. **Hebou laga pause.** [Calm breathing](/games/calm-breathing/) ida hebou isi oi lao.
 
-## Social activities
+## Hebou noho gaukara
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Ladana be auka neganai danu, hebou noho be hereva bada, bona group maragidia be badadia herea mai isi. NIA ese ia gwau, tauna be vadivadi tauna ia diba lasi diba, to hebou noho ia moalelaia diba. [Vadivadi](/activities/visiting/) itaia.
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Nega ta ai tauna ta eiava rua sibona.** Lasi gabuna ai vadivadi daudau lasi, foto ida itaia totona.
+76. **Ruma bese ida video call.** Call daudau lasi, nega ta ai regena ta sibona. [Phone bona video call](/activities/phone-and-video-calls/) itaia.
+77. **Memory café oi hahetohoa.** Dementia ida noho taunimanima bona edia naria taudia totona isi hebou gabuna. Emu gabuna ai dahaka ia noho oi diba totona, kahana ai noho health eiava komiuniti durua ofisi oi nanadaia.
+78. **Lasi nega ai murimuri ai aniani.** NIA ese ia gwau, diba bona lasi restoranu, taunimanima momo lasi neganai, toileti kahana ai table.
+79. **Tau badadia edia senta eiava dina program oi vadivadi.** Ia totona hebou noho, oi totona lagaani maragi.
+80. **Mero ida nega oi karaia.** Natuna tubudia ida vadivadi maragi bona lasi, eiava natuna maragi ta dekenai picture buka oi duahia.
+81. **Kofi ida niuspepa oi hebou duahia.** Hetoa hereva oi duahia bada. Dalana be nius herea hereva bada.
+82. **Ma ta ta oi durua.** Ekalesia program oi fold eiava kahana tauna totona card oi karaia.
 
-## Faith and spiritual activities
+## Tomadiho bona lauma gaukara
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Tauna ena diba dalana oi badinaia, eiava lasi. NIA ese diba lotu, duahiduahi, lauma ane, guriguri, meditation bona holide dalana ia gwauraia.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Diba lotu oi lao.** Lasi gauna oi abia hidi, kahana ai oi noho, bona taudia dekenai dementia oi hamaoroa.
+84. **Lao be auka dina ai lotu online** oi itaia.
+85. **Hebou guriguri eiava duahiduahi.** Diba hereva, isi ai duahia. Ia diba kahana ia vareai diba.
+86. **Ena dalana amo him bona lauma ane** oi abia.
+87. **Holide dalana oi dogoatao.** Bateri kandel, hanamoa, ia gaukaralaia ela kerema.
+88. **Lasi nega oi hebou.** Gaden ai oi noho eiava dina ia diho hebou oi itaia.
 
-## Pets and animals
+## Rabana animal bona animal
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA ese rabana animal ubua, brash, raka lao, eiava ia ida noho bona dogoatao ia gwauraia.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Lasi sisia eiava puse oi brash** daudau, isi stroke ida.
+90. **Hebou rabana animal oi ubua.** Oiemu oi measure; ia oi pour.
+91. **Hebou sisia oi raka lao.** Les be oiemu imamu ai.
+92. **Rabana animal oi dogoatao lap ai.** Lasi puse ta blanket ai be ia hamaoromaoroa diba.
+93. **Vadivadi animal oi abia dae.** Naria ruma haida bona dina program haida ese animal vadivadi ia karaia. Kahana oi nanadaia.
+94. **Mauri bamona malumu animal oi henia.** Rabana animal lasi bema, taunimanima haida be momokani bamona puse eiava sisia malumu dogoatao ia lalokau diba. Isi ai oi henia, gadara gauna bamona lasi, bona «lasi» be namo.
 
-## Seasonal activities
+## Sison edia gaukara
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Dalana oi dogoatao, to mai isi. NIA ese ia gwau, momokani ai laloa bona holide momo ai lagaani gabuna ta oi hegaegae.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Sison totona oi kerema.** Pankin, wreath eiava au matamata table ai.
+96. **Holide aniani maragi oi hagoa.** Dough oi koua eiava kuki oi frost. Oveni be oiemu gaukara.
+97. **Kerema oi atoa.** Bubu lasi ornamen, ta ta oi henia.
+98. **Diari itaia totona draiv.** Adorahi draiv maragi ese hebou noho sibona ia ura.
+99. **Spring bulb oi hagoa.** Fola ai pot ai bulb oi atoa bona gabeai ia tubu oi itaia.
+100. **Kon oi abia eiava pi oi abia.** Vara negana veranda gaukara, lap ai bolo ida.
+101. **Holide card oi hegaegae.** Ia sain, stamp eiava ia koua; adres be oiemu gaukara.
 
-## What if an activity is not working?
+## Gaukara be ia lao namonamo lasi bema, dahaka?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Oi dokona, bona nega ma ta ai idau gauna oi hahetohoa. NIA ese ia gwau, badu oi itaia bona tauna be itaia sibona ia ura bema, ia noho. «Lasi» be gaukara be auka, nega be namo lasi, eiava gaukara ma ta ia hekwarahi, hetoho hisihisi, hitolo eiava regena. Mai isi ai karaia, daba mairivei ai oi hahetohoa lou, eiava oiemu oi hamatamaia bona ia vareai eiava lasi oi itaia. [Ia gwau lasi neganai](/caregiving/when-they-say-no/) bona [adorahi gini lasi](/caregiving/late-day-restlessness/) itaia.
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Aniani bona lagaani huanai gaukara atoa totona, [isi dina dalana](/activities/daily-routine/) itaia. Hegaegae gauna totona, [print diba gaukara](/activities/printable/) itaia, bona group oi hakaula bema, [naria ruma group gaukara](/activities/care-home-groups/) itaia. Oiemu lagaani danu be hereva bada: [naria tauna ena naria sibona](/caregiving/caregiver-self-care/) itaia.

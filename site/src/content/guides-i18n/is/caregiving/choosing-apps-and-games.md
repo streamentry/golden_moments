@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Hvernig á að velja forrit og leiki við heilabilun"
+seoTitle: "Hvernig á að velja forrit og leiki: Gátlisti"
+description: "Gátlisti fyrir aðstandendur: veldu forrit og leiki við heilabilun út frá markmiði, án tímamæla og auglýsinga, með gagnavernd og gagnrýnum huga."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Byrjaðu á því hvað þú vilt að forritið geri: veita væga örvun, vekja
+  minningar, skapa ró eða tengingu. Veldu síðan forrit sem hentar getu
+  viðkomandi í dag, með stórum myndum, án tímamæla, stiga eða auglýsinga, og
+  með auðveldri leið til að hætta. Athugaðu hvaða gögnum forritið safnar og
+  hvort þú getir eytt þeim. Vertu varkár með fullyrðingar um að forrit komi
+  í veg fyrir eða meðhöndli heilabilun. Ein rannsókn er ekki sönnun.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Ákveddu markmiðið fyrst: örvun, minningar, ró eða tenging krefjast mismunandi forrita."
+  - "Lagaðu valið að getu viðkomandi á hverjum degi, ekki stigi sjúkdóms, og haltu stjórntækjunum einföldum."
+  - "Forðastu forrit með tímamælum, stigum, lífum, raðsigri, auglýsingum eða kauptilboðum."
+  - "Athugaðu söfnun gagna, miðlun og eyðingu. HIPAA nær yfirleitt ekki til neytendaforrita."
+  - "Vertu tortryggin gagnvart fullyrðingum um að eitthvað „komi í veg fyrir heilabilun“. Ein rannsókn, eða betri árangur í forritinu, er ekki sönnun."
+  - "Golden Moments er afþreying. Við gerum engar klínískar fullyrðingar."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Geta heilaleikir komið í veg fyrir heilabilun?"
+    a: "Það eru engar góðar vísbendingar um að heilaleikjaforrit í atvinnuskyni komi í veg fyrir eða hægi á heilabilun. National Institute on Aging segir að ekki liggi nægjanlegt að baki að heilaleikjaforrit í almennri sölu hafi sömu áhrif og skipulögð þjálfun sem prófuð var í stórri rannsókn. Veldu forrit til ánægju og samveru, ekki sem læknismeðferð."
+  - q: "Falla forrit við heilabilun undir HIPAA?"
+    a: "Yfirleitt ekki. HIPAA á almennt við um heilbrigðisstofnanir, sjúkratryggingar og viðskiptafélaga þeirra. Forrit sem þú sækir sjálf fellur yfirleitt ekki undir lögin nema aðili sem fellur undir þau bjóði það upp á. Health Breach Notification Rule hjá FTC nær til margra heilbrigðisforrita sem HIPAA nær ekki til."
+  - q: "Hvernig lítur góður leikur við heilabilun út?"
+    a: "Stórar, skýrar myndir og texti, eitt augljóst verkefni á hverjum skjá, enginn tímamælir eða stig, engin hljóð við mistök, engar auglýsingar og auðveld leið til að gera hlé eða hætta. Forritið ætti að vera hannað fyrir fullorðna og vera auðvelt fyrir annan að taka þátt."
+  - q: "Fullyrðir Golden Moments að það hjálpi minninu?"
+    a: "Nei. Golden Moments býður upp á einfaldar sameiginlegar athafnir til ánægju og samræðna. Við greinum ekki, meðhöndlum ekki, komum ekki í veg fyrir né mælum heilabilun, og við gerum engar fullyrðingar um minni eða hugsun."
+  - q: "Ætti ég að borga fyrir forrit við heilabilun?"
+    a: "Prófaðu ókeypis valkosti eða ókeypis prufutíma fyrst og fylgstu með hvernig viðkomandi bregst við í nokkrar vikur. Það að borga fyrir forrit gerir það ekki áhrifaríkara. Athugaðu hvernig þú segir upp áskrift áður en þú skráir þig."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Forritaverslanir eru fullar af leikjum sem ætlaðir eru öldruðum, minninu eða fólki sem lifir með heilabilun. Sumir eru vel hannaðir. Aðrir nota læknisfræðilega hljómandi loforð, tímamæla sem gera leik að prófi, eða auglýsingar og gagnasöfnun. Þessi síða hjálpar þér að meta hvaða forrit sem er sjálf. Við röðum ekki né dæmum aðrar vörur.
 
-## What should I decide before choosing a dementia app?
+## Hvað ætti ég að ákveða áður en ég vel forrit við heilabilun?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Ákveddu hvað þú vilt að forritið geri. „Leikur fyrir mömmu“ getur þýtt mjög mismunandi hluti, og besti kosturinn fyrir eitt markmið hentar oft illa fyrir annað.
 
-| Goal | What it looks like | What to look for |
+| Markmið | Hvernig það lítur út | Hvað á að leita að |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Væg örvun | Pörun, flokkun, einföld þrautaleiki, orðaleikir | Stillanlegur erfiðleikastig, myndir sem haldast sýnilegar, enginn tímapressa |
+| Minningar | Gamlar ljósmyndir, kunnugleg orðatiltæki, tónlist frá æskuárum | Þínar eigin myndir, opnar spurningar, engar spurningakeppnir |
+| Ró | Hæg myndbrot, hljóðlát hljóð, öndunaræfingar, náttúra | Auðvelt að byrja og hætta, ekkert sem blikkar, engar óvæntar breytingar |
+| Tengsl | Að spila eða tala saman, í eigin persónu eða í myndsímtali | Hannað fyrir tvo, spurningar sem hvetja til samræðna |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Rannsóknir á skipulagðri „vitrænni örvun“ fyrir fólk sem lifir með heilabilun fara aðallega fram í hópastarfi undir leiðsögn þjálfaðs starfsfólks, með umræðum, orðaleikjum, þrautum, tónlist og skapandi verkefnum. [Yfirlitsgrein Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) fann litla jákvæða áhrif að meðaltali, en árangur var mismunandi milli rannsókna. Slíkt félagslegt og fjölbreytt starf er ekki það sama og að nota forrit eitt, svo líttu á forrit sem eina sameiginlega athöfn af mörgum.
 
-## How do I know if an app fits the person's abilities?
+## Hvernig veit ég hvort forrit hentar getu viðkomandi?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Fylgstu með viðbrögðum viðkomandi í stað þess að fara eftir greiningu eða stigi sjúkdóms. Tveir einstaklingar á „sama stigi“ geta verið mjög ólíkir hvað varðar sjón, heyrn, fínhreyfingar, mál og þægindi við að nota skjái. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) leggur til að hafa fyrri áhugamál og núverandi getu í huga og leggja áherslu á ánægju fremur en árangur.
 
-Signs of a good fit:
+Merki um að forritið henti:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- viðkomandi byrjar eða tekur þátt án mikillar hvatningar;
+- viðkomandi brosir, setur fram athugasemdir eða segir sögu;
+- mistök virðast ekki valda vanlíðan;
+- viðkomandi er sáttur við að hætta þegar tími er kominn.
 
-Signs it is a poor fit:
+Merki um að forritið henti illa:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- endurtekið „ég get þetta ekki“ eða „þetta er asnalegt“;
+- ruglingur um hvað á að ýta á;
+- pirringur, skömm eða að tækið er ýtt frá sér;
+- það virkar aðeins ef þú gerir næstum allt.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Vanlíðan er merki, ekki eitthvað sem á að þrýsta í gegn um. Sjá [hvað á að gera þegar viðkomandi segir nei](/caregiving/when-they-say-no/). Fyrir hugmyndir sem tengjast stigi sjúkdóms en ekki forritum, sjá athafnir á [snemmbúnu stigi](/activities/early-stage/) og [síðbúnu stigi](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Hvaða hönnunarþætti ætti ég að leita að eða forðast?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Leitaðu að rólegri, einfaldri hönnun fyrir fullorðna og forðastu allt sem skapar pressu.
 
-| Look for | Be wary of |
+| Leitaðu að | Vertu varkár með |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Stórum myndum og texta, skörpum birtuskilum | Litlum táknum, troðfullum skjám |
+| Einni skýrri aðgerð á hverjum skjá | Mörgum hnöppum, valmyndum eða flóknum leiðbeiningum |
+| Engum tímamæli, eða tímamæli sem hægt er að slökkva á | Niðurtellingum, bónus fyrir hraða, „sláðu tímann þinn“ |
+| Engum stigum, eða mildri endurgjöf | Stigum, lífum, raðsigri, stigatöflum, „heilaaldri“ |
+| Mistökum er mætt hljóðlega | Hljóðmerkjum, rauðum X-merkjum, „Rangt“-skilaboðum |
+| Raunverulegum myndum fyrir fullorðna | Teiknimynda- eða barnalegu útliti |
+| Virkar án nettengingar, enginn aðgangur nauðsynlegur til að byrja | Þarf að skrá sig, skrá sig inn eða sækja efni fyrst |
+| Auðvelt að gera hlé og hætta | Sprettigluggar sem biðja um að halda áfram eða gefa forritinu einkunn |
+| Engar auglýsingar, skýrt eitt skipti fyrir öll eða áskrift | Auglýsingar, kaup í leikjum, tíð kauptilboð |
+| Auðvelt fyrir annan að taka þátt | Aðeins fyrir einn spilara, samkeppnishönnun |
 
-Ads and purchase prompts are easy to tap by accident.
+Auðvelt er að ýta óvart á auglýsingar og kauptilboð.
 
-## How do I check an app's privacy?
+## Hvernig athuga ég persónuvernd forrits?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Athugaðu hvaða gögnum forritið safnar, með hverjum það deilir þeim og hvort þú getir eytt þeim. Áður en þú setur forrit upp:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Lestu yfirlit verslunarinnar um persónuvernd.** [Gagnaöryggishluti Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) og [upplýsingar um persónuvernd í App Store](https://support.apple.com/en-us/102399) sýna hvaða gerðum gagna forrit kann að safna og deila. Bæði fyrirtækin taka fram að þróunaraðilar veiti þessar upplýsingar sjálfir, svo þetta er upphafspunktur, ekki endurskoðun.
+2. **Spurðu hvort aðgangur sé nauðsynlegur.** Ef forrit sýnir aðeins myndir eða einfalda leiki er kannski engin ástæða fyrir því að vita nafn þitt, netfang eða fæðingardag.
+3. **Athugaðu heimildir.** Þarf pörunarleikur í raun aðgang að staðsetningu, tengiliðum, hljóðnema eða öllum myndasafninu þínu? Slökktu á öllu sem forritið þarf ekki.
+4. **Leitaðu að auglýsingum og greiningartólum.** Auglýsinga- og rakningartól geta sent öðrum fyrirtækjum gögn um hvernig forritið er notað.
+5. **Finndu út hvert myndir fara.** Ef þú bætir við fjölskyldumyndum, eru þær þá geymdar í tækinu eða hlaðið upp á netþjón? Geturðu fjarlægt þær?
+6. **Athugaðu eyðingu.** Leitaðu í persónuverndarstefnu eða gagna yfirliti að upplýsingum um hvernig á að eyða gögnum og aðgangi. Forrit sem segir að ekki sé hægt að eyða gögnum kallar á aukna varkárni, sérstaklega ef það geymir myndir eða heilsufarsupplýsingar.
+7. **Lestu persónuverndarstefnuna** til að fá skýr svör um hvað er safnað, hvers vegna, hversu lengi og með hverjum er deilt.
 
-### Does HIPAA protect information in dementia apps?
+### Verndar HIPAA upplýsingar í forritum við heilabilun?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Yfirleitt ekki, sem kemur mörgum á óvart. Heilbrigðisráðuneyti Bandaríkjanna (U.S. Department of Health and Human Services) [útskýrir](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) að HIPAA gildi um sjúkratryggingar, flestar heilbrigðisstofnanir, greiðslumiðlun heilbrigðisþjónustu og viðskiptafélaga þeirra. Í flestum tilfellum verndar HIPAA ekki gögn sem þú slærð inn í forrit til eigin nota, nema aðili sem fellur undir lögin eða viðskiptafélagi hans hafi boðið forritið upp á. „Forrit við heilabilun“ úr forritaverslun fellur oft utan HIPAA, jafnvel þótt það fjalli um heilbrigði.
 
-### What protects health data in apps that HIPAA does not cover?
+### Hvað verndar heilbrigðisgögn í forritum sem HIPAA nær ekki til?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Health Breach Notification Rule hjá Federal Trade Commission nær til margra þeirra. Árið 2024 [lauk FTC breytingum](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) sem skýra að reglan gildi um heilbrigðisforrit og svipaða tækni sem HIPAA nær ekki til. „Brot“ felur í sér óheimila miðlun, ekki bara tölvuinnbrot, og fyrirtæki verða að tilkynna þeim sem verða fyrir áhrifum og FTC. Þetta er öryggisnet eftir að eitthvað fer úrskeiðis, ekki loforð um að forrit safni aðeins því sem nauðsynlegt er.
 
-## How should I read claims about research and evidence?
+## Hvernig ætti ég að lesa fullyrðingar um rannsóknir og vísbendingar?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Lestu fullyrðingar um vísbendingar hægt og vertu sérstaklega tortryggin gagnvart stærstu loforðunum. Spurningar sem þú getur spurt:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Hvað var nákvæmlega rannsakað?** Rannsókn á einni þjálfunaraðferð sýnir ekki að allir leikir í forriti virki á sama hátt.
+- **Hverjir voru rannsakaðir?** Niðurstöður hjá heilbrigðu eldra fólki eiga ekki endilega við um einstakling sem lifir með heilabilun.
+- **Hvað var mælt?** Að ná betri árangri í leiknum sjálfum er ekki það sama og breytingar í daglegu lífi, samræðum, skapi eða sjálfstæði.
+- **Hversu sterk er rannsóknin?** Slembiraðað samanburðarrannsókn (RCT) ber saman hóp sem notar forritið við hóp sem gerir það ekki. Þetta er góð rannsóknaraðferð, en ein lítil eða stutt RCT-rannsókn er ekki sönnun. Leitaðu að nokkrum rannsóknum, gerðar af óháðum rannsakendum, sem benda í sömu átt.
+- **Er fullyrt að forritið breyti sjúkdómnum?** Rannsókn sem sýnir litlar framfarir á prófi er ekki sönnun þess að forrit hægi á, komi í veg fyrir eða meðhöndli heilabilun.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Síða National Institute on Aging um [vitræna heilsu og eldra fólk](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) lýsir stórri rannsókn, styrktri af NIH, á skipulagðri vitrænni þjálfun og varar síðan lesendur við fullyrðingum um að tilteknir tölvu- og netleikir geti bætt minni og hugsun. Þar segir að ekki liggi enn nægjanlegt að baki að heilaleikjaforrit í almennri sölu hafi sömu áhrif og þjálfunin sem prófuð var í þeirri rannsókn. Þú getur lesið meira í leiðbeiningunum okkar um [heilaleiki og vísbendingar](/brain-health/brain-games/) og [hvað rannsóknir segja um að koma í veg fyrir heilabilun](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Hvað er opinbert dæmi um villandi fullyrðingu?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Í janúar 2016 [kynnti FTC sátt](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) við framleiðendur Lumosity, „heilaleikja“-forrits. FTC taldi að fyrirtækið hafi fullyrt, án nægilegra vísbendinga, að leikir þess gætu seinkað vitrænni hnignun tengda aldri og verndað gegn vægri vitrænni skerðingu, heilabilun og Alzheimer-sjúkdómi. Fyrirtækið samþykkti að greiða 2 milljónir Bandaríkjadala og verður að hafa traustar og áreiðanlegar vísindalegar sannanir áður en það setur fram slíkar fullyrðingar í framtíðinni. Málið er gagnleg áminning um að markaðsmál er ekki það sama og vísbendingar.
 
-### Which words are red flags?
+### Hvaða orð eru viðvörunarmerki?
 
-Be cautious when an app or ad says it:
+Vertu varkár þegar forrit eða auglýsing segir að það:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- „komi í veg fyrir“, „snúi við“, „stöðvi“ eða „læknar“ heilabilun eða Alzheimer-sjúkdóm;
+- sé „klínískt sannað“ án þess að nefna rannsóknina, hverjir tóku þátt og hvað var mælt;
+- gefi „heilaaldur“ eða minnisstig sem gefur til kynna greiningu;
+- muni „skerpa“, „efla“ eða „þjálfa“ heilann;
+- noti umsagnir sem sönnun.
 
-If you are unsure about a claim, ask the person's doctor.
+Ef þú ert óviss um fullyrðingu skaltu spyrja lækni viðkomandi.
 
-## Where does Golden Moments fit?
+## Hvar passar Golden Moments inn?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments býður upp á einfaldar sameiginlegar athafnir, ekki minnispróf, meðferð eða læknisfræðileg ráðgjöf. Leikirnir okkar, eins og [Myndapör](/games/picture-pairs/), [Spjallspjöld](/games/conversation-cards/), [Ljósmyndapör](/games/photo-pairs/), [Myndabingó](/games/picture-bingo/) og [Róleg öndun](/games/calm-breathing/), eru gerðir til ánægju og samræðna. Þeir greina ekki, meðhöndla ekki, koma ekki í veg fyrir né mæla heilabilun, og við gerum engar fullyrðingar um minni eða hugsun.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Við gerum einnig ókeypis forrit, [Golden Moments fyrir iPhone, iPad og Android](/app/). Það býður upp á væga myndapörun með stórum flísum, leiki með fjölskyldumyndum sem þú velur og myndapakka sem virka án nettengingar, án aðgangs, auglýsinga, tímamælis eða stiga. Sami gátlisti á við: persónuverndarmerki forritsins í App Store segir „Engum gögnum safnað“ og [persónuverndarstefna forritsins](/app-privacy/) útskýrir hvar afrit af myndum eru geymd.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Við viljum heldur að þú metir okkur en treystir okkur blindni. Notaðu gátlistann á þessari síðu, lestu [persónuverndarsíðu okkar](/privacy/) og [lækningafyrirvara](/medical-disclaimer/), og hættu að nota hvað sem er, þar á meðal okkar efni, ef það hentar ekki þeim sem þú annast.
 
-## What is a sensible way to try a new app?
+## Hver er skynsamleg leið til að prófa nýtt forrit?
 
-Try it together for a couple of weeks and watch what happens.
+Prófaðu það saman í nokkrar vikur og fylgstu með því sem gerist.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Settu það upp fyrst** með hjálp [leiðbeininga um uppsetningu spjaldtölvu og síma](/caregiving/tablets-and-screens/) og byrjaðu á auðveldasta stigi.
+2. **Haltu lotunum stuttum,** taktu eftir brosi, samræðum og ró og ljúktu á góðri stund.
+3. **Hættu notkun ef það veldur pirringi,** sama hversu vel forritið er metið.

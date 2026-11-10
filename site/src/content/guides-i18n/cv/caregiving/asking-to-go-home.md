@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Деменциллӗ ҫын киле кайма ыйнӑ чух"
+seoTitle: "Деменциллӗ ҫын киле кайма ыйнать: мӗн каламалла"
+description: "Деменципе пурӑнакан ҫын хӑйӗн килӗнче пулсан та мӗншӗн киле кайма ыйнать, мӗн каламалла, лӑплантарас ӗҫсемпе хӑрушсӑрлӑха мӗнле упрамалла."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Деменциллӗ ҫын киле кайма ыйнӑ чух, «кил» тесе хӑрушсӑрлӑх туйӑмне е
+  иртнӗ вӑхӑтри вырӑна калаҫма пултарать, ҫуртра мар. Ҫын килӗнче пулнине
+  ҫирӗплетме ан тӑрӑшӑр. Унӑн туйӑмне йышӑнӑр, хӑрушсӑр пулнине калӑр,
+  кил пирки ыйтӑр, ун хыҫҫӑн ҫемҫе сӑнӳкерчӗксемпе пӑхма, кӗвӗ илтме, ҫимӗҫ
+  ҫиме, уҫӑлса ҫӳреме е ансат ӗҫ тума сӗнӗр. Выҫӑлнине, ывӑннине, туалета
+  кайас кӑмӑл пуррине е ыратнине тӗрӗслӗр. Ку ӗҫ йӑнӑшсӑр пуҫланнӑ пулсан,
+  врачне шӑнкӑравлӑр.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Эпӗ киле кайасшӑн» сӑмахсем час-часах «Эпӗ хӑрушсӑр мар, лӑпкӑ мар» пӗлтерме пултараҫҫӗ, адрес ыйни мар."
+  - "Киле кайма ыйнакан ҫынпа ҫирӗплетсе е унӑн килӗнче пулнине ҫирӗплетсе калаҫни час-часах хуйхӑра ытларах вӑратарать. Унӑн туйӑмне хуравлӑр."
+  - "Ҫынран хӑйӗн килӗ пирки каласа пама ыйтӑр, ун хыҫҫӑн сӑнӳкерчӗксем, кӗвӗ, ҫимӗҫ, уҫӑлса ҫӳрени е ансат ӗҫ сӗнӗр."
+  - "Тӳрлетме май пуррине тӗрӗслӗр: выҫни, ывӑнни, туалета кайасси, ыратни, ытла хӗрлӗ е сивӗ пулни, шав, ӗшенни."
+  - "Ку ӗҫ кашни каҫ каҫхине пуҫланнӑ пулсан, вӑл «каҫхи лӑплантарӑнни» (sundowning) пулма пултарать; йӗркеллӗ режимпа лайӑх ҫутӑ пулӑшма пултарать."
+  - "Ҫын тухма тӑрӑшнӑ чух хӑрушсӑрлӑха малтанах тивӗстерӗр, йӑнӑшсӑр улшӑну пуҫланнӑ пулсан врачне шӑнкӑравлӑр."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Деменциллӗ аннем килӗнче пулсан та мӗншӗн киле кайма ыйнать?"
+    a: "Деменци паллӑ пӳлӗмсене те унсӑрт тума пултарать, ҫынсем хӑйсене пурнӑҫӗн ытти тапхӑрӗнче туйма пултараҫҫӗ. «Кил» тесе ача чухнехи ҫурт е хӑрушсӑр та лайӑх туйӑм калама пултарать. Ҫын ҫынна мӗнле вырӑнта пурри пирки калаҫнинчен, ҫав туйӑма хуравлани ытларах лайӑх усӑ курать."
+  - q: "Вӑл киле кайма ыйнӑ чух мӗн каламалла?"
+    a: "«Эсир кунта хӑрушсӑр, эпӗ эсир патӗнче» тесе калама тӑрӑшӑр, ун хыҫҫӑн «Хӑвӑрӑн кил пирки каласа парӑр-ха» тесе ыйтӑр. Итлӗр, сӑнӳкерчӗкпе е кӗвӗпе пайлашӑр, ҫимӗҫ е кӗске уҫӑлса ҫӳрени сӗнӗр. «Эсир ҫакӑ килте» тесе тӳрлетсе калани ҫынна хӑйӗн тӗрӗс мар тесе калаҫнӑ пек туйӑнма пултарать."
+  - q: "«Каялла эпир киле кайӑпӑр» тесе калани юрӑхлӑ-и?"
+    a: "Ҫемьесемпе деменци пирки ӗҫлекен организацийӗсен шухӑшӗ пӗр-пӗринпе пӗрешкел мар. Нумайӑшӗ чӑнлӑха лӑплантарса каласа тытӑннипе пуҫланаҫҫӗ, чӑнлӑх ҫын тӳрлетеймен хуйхӑра кӑна куҫарать тесе шутланӑ чух ҫемҫе улталаҫнине усӑ кураҫҫӗ. Мӗн суйласан та, ырӑ кӑмӑлпа та йӗркеллӗ пулӑр, ҫынӑн туйӑмӗпе нихӑҫан та ан кулӑр."
+  - q: "Ҫын ҫуртран тухма тӑрӑшнӑ чух мӗн тӑвас?"
+    a: "Лӑпкӑ пулӑр та унӑн урлӑ чарӑнса тӑнинчен, унпа пӗрле уҫӑлса ҫӳрӗр; кӗске ҫӳрени час-часах шухӑша лӑплантарать. Малтанах хӑрушсӑрлӑх валли паллӑ браслет, алӑк чӑнӗ тата нумай пулман сӑнӳкерчӗк хатӗрлӗр. Ҫын ҫухалнӑ пулсан, тӳрех шырама пуҫлӑр; 15 минут хушшинче тупман пулсан, ҫынпа деменци пуррине каласа, 112 номерӗпа шӑнкӑравлӑр."
+  - q: "Хӑҫан врачне шӑнкӑравламалла?"
+    a: "Киле кайма ыйни е пӗлтерӳлӗхпе йӑнӑшни йӑнӑшсӑр пуҫланнӑ е сехетсенче-кунсенче чылай йывӑрланнӑ пулсан, сӑвай манӑн темпӗратури, ҫӗнӗ эмел е шӑк инфекцийӗн паллисӗсем пур чух, врача хӑвӑртрах шӑнкӑравлӑр. Йӑнӑшсӑр пуҫланнӑ пӗлтерӳлӗх делирий пулма пултарать, вӑл хӑвӑрт пулӑшу ыйтать. Тахӑшӗ те хӑрушлӑхра пулсан, 112 номерӗпа шӑнкӑравлӑр."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Эпӗ киле кайасшӑн». Нумай ҫемье валли ку итме йывӑр сӑмахсенчен пӗри, сӑвай манӑн эсир пӑхса тӑракан ҫын хӑйӗн хӑна пӳлӗмӗнче ларать пулсан та. Ку тӗлӗнмелле ӗҫ, вӑл деменцин мӗнле тапхӑрӗнче те пулма пултарать, унпа лӑпкӑ та усӑллӑ ӗҫлеме май пур. Ку страницӑра ҫак сӑмахсем мӗн пӗлтерме пултарнине, мӗн каламаллине, ҫак самантра пулӑшма пултаракан ӗҫсене тата хӑрушсӑрлӑха мӗнле упрамаллине пирки каланать.
 
-## Why does someone with dementia keep asking to go home?
+## Деменциллӗ ҫын мӗншӗн киле кайма ыйнать?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Чылай чухне «кил» — вырӑнран ытларах туйӑм. Alzheimer's Society вӑл ҫуртран мар, лӑплану тата хӑрушсӑрлӑх туйӑмӗ е иртнӗ вӑхӑтри кил тесе ӑнлантарать. Деменци паллӑ пӳлӗмсене те унсӑрт тума пултарать, ҫын хӑйне пурнӑҫӗн ытти тапхӑрӗнче, сӑмахран, ача чухнехи ҫуртра е ачасене ӑсра-хӑвара хӑпарнӑ вырӑнта туйма пултарать.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Ҫак сӑмахсем унта урӑх йывӑрлӑх пуррине те пӗлтерме пултараҫҫӗ: ҫын выҫнӑ, ывӑннӑ, туалета кайас килет, ыратать, ытла хӗрлӗ е сивӗ, ӗшеннӗ, пӗччен, хӑраса кайнӑ е шаваран йӑлӑхтарнӑ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ырату, шав, пӗчченлӗх, режим улшӑнни тата эмелсем хуйхӑрланӑвӑн сӑлтавӗсем пулма пултарнине палӑртать.
 
-## What should I say when they ask to go home?
+## Вӑл киле кайма ыйнӑ чух мӗн каламалла?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Сӑмахсене мар, туйӑма хуравлӑр. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ҫынна тӗрӗс мар тесе ӗнентерме ан тӑрӑшма сӗнет: унӑн туйӑмӗ чӑн, ҫавна май малтан лӑплантарса, шанчӑклатса хуравлӑр, ун хыҫҫӑн ҫемҫе ҫӗнӗ ӗҫ патне куҫарӑр.
 
-Phrases that often help:
+Пулӑшма пултаракан сӑмахсем:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Туйӑма палӑртӑр.** «Эсир килшӗн кӑмӑл тунине куратӑп».
+- **Шанчӑклӑр.** «Эсир кунта хӑрушсӑр, эпӗ эсир патӗнче». [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) «Эсир кунта хӑрушсӑр» тесе ансат калама сӗнет.
+- **Аса илӳсене уҫӑр.** «Хӑвӑрӑн кил пирки каласа парӑр-ха. Кухни мӗнлеччӗ?» Инҫе иртнӗ вӑхӑт пирки ыйтни паянхи кун пирки ыйтнинчен час-часах ҫӑмӑлрах пулать.
+- **Пӗрле ӗҫлеме сӗнӗр.** «Малтан пӗр чашӑк чей ӗҫер-ха», е «Ку тӑхӑнчӑксене витӗрлеме пулӑшас-и эсӗ мана?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Ҫын юратнӑ пулсан, ҫемҫе сасӑпа калаҫнипе аллинчен ҫакни сӑмахсенчен те ытларах калама пултарать.
 
-## What should I avoid?
+## Мӗн тунӑ чух ан пулмалла?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Ҫирӗплетсе калаҫни е ăнлантарни.** «Эсир халӗ кунта пурӑнатӑр» е «Ку эсир килӗ 40 ҫултанпа» тесе калани ҫынран деменци пуррипе йышӑнассине ыйтать, вӑл хӑйӗн тӗрӗс мар тесе калаҫнӑ пек туйӑнма пултарать.
+- **Ыйтса тӗрӗслени.** «Аса илместӗр-и?» е «Адресӗ мӗнле?» ыйтӑвӗсем пусӑм ҫине йывӑрлӑх хуҫаҫҫӗ.
+- **Усӑлса алӑка чарни.** Ҫын тухма пуҫланӑ пулсан, лӑпкӑ пулӑр та унпа пӗрле уҫӑлса ҫӳрӗр. Кӗске ҫӳрени час-часах шухӑша лӑплантарать.
+- **Васкани.** Тема улӑштариччен ҫынна кил пирки калаҫма вӑхӑт парӑр.
 
-## Activities that can help in the moment
+## Ҫак самантра пулӑшма пултаракан ӗҫсем
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Эсир ҫынӑн туйӑмне йышӑннӑ хыҫҫӑн, лӑпкӑ та паллӑ ӗҫ тимлӗн вӑл туйӑма пӑхмасӑрах вӑйне урӑх енне куҫарма пултарать.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Килпе ҫемье сӑнӳкерчӗкӗсемпе пӑхӑр.** Страницӑсене куҫарӑр та ыйтусӑр калаҫӑр («Мӗнле хитре пахча»). Телефонта е планшетра [Photo pairs](/games/photo-pairs/) хӑвӑрӑн ҫемье сӑнӳкерчӗкӗсене ҫемҫе тупса лартмалли вӑйӑ патне улӑштарать, сӑнӳкерчӗксем хатӗрӗнче калаҫҫӗ.
+2. **Кил пирки калаҫӑр.** [Conversation cards](/games/conversation-cards/) ҫурт, кухни, сусӗдсемпе уявсем пирки уҫӑ калаҫу валли ыйтӑвсем парать, вӗсен тӗрӗс хуравӗ ҫук.
+3. **Ҫын юратнӑ кӗвӗсене янӑратӑр.** National Institute on Aging хуйхӑра лӑплантарас тӗлӗшпе лӑпкӑ кӗвӗсене палӑртать. Пирӗн [кӗвӗпе ӗҫлемелли предложенисене](/activities/music/) пӑхӑр.
+4. **Ҫимӗҫ ҫиме е ӗҫме парӑр.** Выҫнипе ывӑнни лӑпланмасть пек курӑнма пултарать. Пӗр чашӑк чей е юратнӑ апат ҫавӑн пекех килти лӑпкӑ йӑла пулать.
+5. **Уҫӑлса ҫӳрӗр е тула ларӑр.** Хускану тата кун ҫути пулӑшаҫҫӗ, уйрӑмах кун ирттереймен.
+6. **Паллӑ ӗҫ парӑр.** Пÿрне тӑхӑнни, панӑ-тиркке уйӑрни е ӳсентӑрансене шывлани килти ӗҫ тӑвас туйӑма тавӑрма пултарать.
+7. **Пурне те вӑрахлатӑр.** Телевизора сӳнтерӗр, шава тата йӑлтӑр ҫутӑ чакарӑр, пӗрле [лӑпкӑ сывлани](/games/calm-breathing/) тӑвӑр.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Пӗр предложени килӗшмен пулсан, тепӗр вӑхӑтра ыттине тӑрӑшӑр. Пӗрле лӑпкӑ ларасси те лайӑх.
 
-## Check for a cause you can fix
+## Тӳрлетме май пур сӑлтава тӗрӗслӗр
 
-| Check | What to try |
+| Мӗн тӗрӗсмелле | Мӗн тӑвас |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Выҫнӑ е ывӑннӑ | Ҫимӗҫ тата пӗчӗк апат парӑр |
+| Туалета кайас килет | Лӑпкӑ, ытлашши шумсӑр, туалета кайма сӗнӗр |
+| Ыратни е кансӗрленни | Пичченни, ҫынӑн утӑмне тытса тӑни е вар хытнине пӑхӑр та врачне калӑр |
+| Ытла хӗрлӗ е сивӗ | Тумне е пӳлӗм температурине улӑштӑрӑр |
+| Шав е нумай ҫын | Лӑпкӑрах пӳлӗме куҫӑр, телевизора сӳнтерӗр |
+| Ӗшенни е ытлашши йӗрленни | Канма парӑр, ҫутӑ вӑрахлатӑр, ҫемҫе кӗвӗ янӑратӑр |
+| Каҫ каҫхине | Аяларах каҫхи лӑплантарӑнни пирки пайӑнчи текста пӑхӑр |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society киле кайма ыйни хӑҫан пуҫланнине кӗске ҫырса хӑварассине сӗнет, сӑмахран, апатччен, ҫынсем килнӗ хыҫҫӑн е каҫ ҫухалнӑ чух. Йӗркесене курни малтанах йӗркелеме пулӑшать.
 
-## Is it okay to tell a white lie?
+## Пӗчӗк улталаҫу калани юрӑхлӑ-и?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Ку чӑннипе ҫав шухӑш ҫине таврӑнмалли ыйту, ырӑ ҫемьесем те пӗр-пӗринпе пӗрешкел мар шутне килеҫҫӗ. Alzheimer's Society пӗр тӗрӗс хурав ҫуккине калать: улталаҫу хӑш-пӗр ҫынсене ытларах шанманлӑха куҫарма пултарать, ҫавна май ҫын валли мӗн лайӑхрине шутласа тытӑр та йӗркеллӗ пулӑр. Penn Memory Center витӗмлӗхӗ чӑнлӑха малтан хӑварассине, ҫын хӑш-пӗр чӑнлӑха тӳрлетеймен чух кӑна ҫемҫе улталаҫма юранине, ҫынӑн тӗнчине нихӑҫан та кулӑшпа ан пӑхмаллине калать.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Нумай ҫын хушшинчи ҫул тупнине лайӑхрах тӗлӗнеҫҫӗ: малтан чӑнлӑха лӑплантарса шанчӑкласси («Эпир ҫӑк каҫа кунта ларӑпӑр, эпӗ кунта эсир патӗнче»), анчах та кил ҫинчен ҫирӗплетсе калаҫмасӑр.
 
-## What if it happens every afternoon or evening?
+## Ку ӗҫ кашни каҫхине пуҫланнӑ чух мӗн тӑвас?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Каҫ каҫхине пуҫланакан е вӑйланакан лӑплантарӑннине час-часах каҫхи лӑплантарӑнни (sundowning) теҫҫӗ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) йӗркеллӗ режим, кашни кун кун ҫутинче тӑнипе хускану, каҫхине сахалрах ҫывӑрасси, каҫ каҫхине кофеин тата эрехлӗ ӗҫмеллисем ӗҫмесси пулӑшма пултарнине палӑртать. Кун ҫухаличчен ҫутӑ ҫутатасси те лайӑх. Пирӗн [каҫ каҫхинче лӑплантаракан ӗҫсем пирки](/caregiving/late-day-restlessness/) ытларах пур.
 
-## Keeping them safe if they try to leave
+## Ҫын тухма тӑрӑшнӑ чух хӑрушсӑрлӑха мӗнле упрамалла
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Киле кайма ыйни ҫынӑн ҫӳре тухнине (wandering) кӑларса пӑрахма пултарать. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) деменципе пурӑнакан ҫынсен алты ҫынран темиҫӗ пӗррехинте ҫӳре тухма пултарнине палӑртать.
 
-**Prepare ahead:**
+**Малтанах хатӗрленӗр:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Ячӗпе телефон номерӗ ҫырнӑ паллӑ е медицина браслетӗ тата тумти этикеткӑсем. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) MedicAlert тата Alzheimer's Association Safe and Found программине аса илтерет, вӗсем укҫа ыйтма пултараҫҫӗ.
+- Алӑк чӑнӗ е сигнализаци, ҫӳлте е аялта вырнаҫтарнӑ йӑпӑлтатӑсем. Ҫынна пӗчченех ҫӳпере ан йӑпӑлтатӑр.
+- Нумай пулман ҫӑнӳкерчӗк тата ҫын кайма пултаракан вырӑнсен списокӗ, сӑмахран, малтанхи килӗ е ӗҫ вырӑнӗ.
+- Шанчӑклӑ сусӗдсене пӗлтерӗр, вӗсене хӑвӑрӑн номерне парӑр.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Ҫын ҫухалнӑ пулсан:** тӳрех шырама пуҫлӑр; Alzheimer's Association ҫынсене чылайӑшне 2,4 км (1,5 милӗ) хушшинче тупнине палӑртать. 15 минут хушшинче тупман пулсан, ҫынпа деменци пуррине каласа, 112 номерӗпа шӑнкӑравлӑр. Тахӑшӗ те хӑрушлӑхра пулсан, 112 номерӗпе тӳрех шӑнкӑравлӑр.
 
-## When should I call a doctor?
+## Хӑҫан врачне шӑнкӑравламалла?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Киле кайма ыйни е пӗлтерӳлӗхпе йӑнӑшни йӑнӑшсӑр пуҫланнӑ е сехетсенче-кунсенче чылай йывӑрланнӑ пулсан врача хӑвӑртрах шӑнкӑравлӑр. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) йӑнӑшсӑр е хӑвӑрт улшӑнакан хӑтлану, сӑвай манӑн инфекци е эмел улшӑннӑ хыҫҫӑн, тӳрех тӗрӗсленмелле тесе калать. Йӑнӑшсӑр пуҫланнӑ пӗлтерӳлӗх делирий пулма пултарать, [NHS](https://www.nhs.uk/symptoms/confusion/) ҫакӑ хӑвӑрт пулӑшу ыйтнине калать; ватӑ ҫынсенче шӑк инфекцийӗ час-часах сӑлтав пулать.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Тепӗр пӗлтерӳре йӗркеллӗ йӗркене каласси те лайӑх, мӗншӗн тесен ырату, кӑмӑл ӳкни, ҫывӑрас йывӑрлӑхӗсем е эмел вайӗ унта пулма пултараҫҫӗ.

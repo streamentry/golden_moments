@@ -1,33 +1,28 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Okulya nokafimbo noshitwa shokudimbwa"
+seoTitle: "Okulya nokafimbo noshitwa shokudimbwa"
+description: "Oumbangi wovanhu kombinga yokulya nokafimbo noshitwa shokudimbwa owa shonopala natango. Tala oiponga kovakulunhu nomolwaasho okulya nawa kwa fimana unene."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Kaku na oumbangi wa wana okuulika kutya okulya nokafimbo otaku dulu oku kelela ile okushunifa ko oshitwa shokudimbwa. Oihongwa ihapu oya ningwa moitondokelwa, ndele omaxunganeko ovanhu ovakulunhu omaakulu nokwa xepeka. Okwiindila okulya otashi dulu okukala oshiponga kovakulunhu: okulya kashona shi he na omhumbwe, okukanifa omhunhu nomashikolo, omhepo i he li po nawa ngeenge omunhu ta longifa omiti donhinda yopombada, omwenyo itau dulu okulya nawa nomaludalo. Kovanu hava kala noshitwa shokudimbwa, oshinima sha fimana unene oku va kwafela va lye nokunwa sha wana. Popya nomudohotola tete.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Ehangano loNational Institute on Aging ola ti kaku na oumbangi wa wana wokudidilika omaludiro okoongeleka ile okulya nokafimbo, unene tuu kovakulunhu."
+  - "Oihongwa ihapu kombinga yokulya nokafimbo noyopakulu oya ningwa moitondokelwa, nomauyelele oo itaa yandje oumbangi kutya otaa longo ngaaka movanhu."
+  - "Oiponga tai dulu okuholoka kovakulunhu otashi dulika ya kwatelenge okulya kashona shi he na omhumbwe, okukanifa omhunhu nomashikolo, omhepo i he li po nawa ngeenge ta longifa omiti donhinda yopombada, omwenyo itau dulu, omutwe tau tengauka nomaludalo."
+  - "Ovanhu hava kala noshitwa shokudimbwa otashi dulika va dimbwe okulya ile okunwa, ile va diladile kutya ova ninga nale. Oku va kwafela va lye nokunwa sha wana otashi fimanenene unene shi dulife efimbo olo hava li."
+  - "Ino ningifa omunhu e na oshitwa shokudimbwa a kale nokulya nokafimbo. Popya nomudohotola ile nomupangeli woulithikamumwe wokolya fimbo ino lundulula omaludiro okolya."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Mbela okulya nokafimbo otaku dulu oku kelela oshitwa shAlzheimer?"
+    a: "Ahowe, kaku na oumbangi wa wana wokutya otashi kelele. Oihongwa ihapu oya ningwa moitondokelwa, nomaxunganeko ovanhu omaakulu, omashiku mashona nokwa li taa tala unene kokulya kashona ponhele yokudimbulukwa ile noshitwa shokudimbwa. Ehangano loNational Institute on Aging ola ti kaku na oumbangi wa wana wokudidilika omaludiro okolya nokafimbo kovanhu aveshe."
+  - q: "Mbela okulya nokafimbo oshi li oupafi kovakulunhu?"
+    a: "Otashi dulika aha kale oupafi. Okulya nokafimbo otashi dulu oku eta okulya kashona shi he na omhumbwe, okukanifa omhunhu nomashikolo, omwenyo itau dulu, omutwe tau tengauka nomaludalo, nosho yo omhepo itai longo nawa ngeenge omunhu ta longifa insulin ile omiti dimwe donhinda yopombada. Mayo Clinic ola ti otashi dulika aha wapalele ovanhu ve li moshiponga shokukanifa omashikolo nokwaaluka. Popya nomudohotola fimbo ino shi ninga."
+  - q: "Mbela omunhu e na oshitwa shokudimbwa oku na okulya nokafimbo?"
+    a: "Ahowe. Ovanhu hava kala noshitwa shokudimbwa otashi dulika va kale va pipika okulya nokunwa sha wana, nounandjawo wokolya itau wapalele otau dulu oku eta oikala ya loloka nokukanifa ombelela. Okulya nokafimbo otaku wedekele oiponga kehe na ouwa wa yela. Ponhele yao, yandja omalye olule, oikulya oyo a hole nokunwa sha wana."
+  - q: "Oshike hatu dulu okumona ngeenge omunhu e na oshitwa shokudimbwa ita li ile ita nu nawa?"
+    a: "Tala ngeenge ombelela otai kana po, oikutu tai ningi inene, omunhu ta loloka, e na oungone, e na etwali ile ta anya okulya. Oihako yokuhenoukolelewayo tai hololwa kEhangano loNational Institute on Aging oyo omakaya taa kukuta, omutwe tau tengauka, omitima tadi endelela nokumona oinima ihe po. Lombwela omudohotola ngeenge to mono oinima ei."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +50,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Okulya nokafimbo, ngaashi okulya ashike moule weedula hetatu ile okweendja po okulya omivike mbali, osha tameka okuninga sha fimana, novanhu vamwe otava ti otashi dulu okwaamena okanhu kombe. Ngeenge ove omukulunhu, ile to file oshisho omunhu e na oshitwa shokudimbwa, tala osho omaxunganeko taa ulike lelalela, nomolwaasho oupafi wa pumbiwa.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Ou ouyelele wa yela, ha ewiliko lopamiti. Ino tameka okulya nokafimbo, ile ino lundulula omaludiro okolya yomunhu oo to mu file oshisho, inaaku popya nomudohotola ile nomupangeli woulithikamumwe wokolya. Tala [ewiliko lopamiti](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Mbela okulya nokafimbo otaku dulu oku kelela oshitwa shokudimbwa?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Ahowe, kaku na oumbangi wa wana wokutya okulya nokafimbo otaku dulu oku kelela ile okushunifa ko oshitwa shokudimbwa. Ehangano loNational Institute on Aging (NIA) ola ti kaku na oumbangi wa wana wokudidilika omaludiro okoongeleka ile okulya nokafimbo, nokutya okwa pumbiwa okudilonga shihapu kombinga youwa nao oupafi wado, unene tuu kovakulunhu ([NIA kombinga yokweendja po omikalo dokulya nokweendja po okulya](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Omolwaasho oumbangi wa shonopala ngaho
 
-The NIA gives several reasons:
+NIA ota yandje omatomheno taa landula:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Oihongwa ihapu oya ningwa moitondokelwa.** Omaxunganeko moikangha, oinamwenyo inini, ombelela noikanghamwedhi oya eta omauyelele a hokiwa, ndele oo inaa shiivika ngeenge otaa longo ngaaka movanhu. Nonande moitondokelwa, omauyelele okwa yoolokafana; momaludiko amwe oomwedi, okweendja po okulya okwa xulifa nomwenyo mufupi.
+- **Omaxunganeko ovanhu okwa li maakulu.** Omahapu okwa li oomwedhi amwe ile eemwedi dishona.
+- **Omaxunganeko ovanhu okwa li taa tala unene kokulya kashona** movanhu ve na ombelela ihapu, ha kombinga yokudimbulukwa ile noshitwa shokudimbwa.
+- **Ovakulunhu ova kufwa po ashike shihapu.** Omaxunganeko mahapu okwa kufa mo ovanhu ve na omido 60 ile inaa pita po.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Omaxunganeko a ningwa mo 2026 kombinga yokulya nokafimbo kovakulunhu ve na omido 60 lwaapo okwa ulika kutya oumbangi natango owa shonopala, nomaxunganeko maakulu, omafiku maakulu okutala ko nomaludiko a yoolokafana. Omauyelele kombinga yokudilonga nokudimbulukwa okwa li taa di momaxunganeko oye alike, ha momauyelele a ongwa kumwe. Omaxunganeko wo okwa ti omaludiko amwe okwa yandja oumbangi kutya okulya moule weedula lixupi unene ile okwiindila okulya okwa eta omauyelele ahapu iwinya, nova shanga kutya oupafi owa pumbiwa kovakulunhu ([omaxunganeko a ningwa mo 2026 muNutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Ovanongo vamwe otava diladila kutya olutu ngeenge tali hovele okulongifa omakoto eshi tali kala inaali lya, otashi dulu oku eta osho sha kwata ko okanhu kombe, ndele natango osho oshinima sha li ashike mondjila yokudilonga. NIA ola ti ounongononi natango inau wanenena.
 
-## What are the risks of fasting for older adults?
+## Oiponga ilipi ya kwatelwa mokulya nokafimbo kovakulunhu?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Okulya nokafimbo ha oshinima shi he na oshiponga kovantu vahapu ovakulunhu. Oiponga tai dulu okuholoka oyo ei:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Okulya kashona shi he na omhumbwe.** Okulya shihapu shi dulife omhumbwe yolutu otashi dulu oku eta okulya kashona shi he na omhumbwe nokukanifa eenghono, osho tashi dulu oku eta omunhu a kale omunhafufu.
+- **Okukanifa omhunhu nomashikolo.** Momaxunganeko a kwafelwa kNIA eemudo mbali kovantu ovanyasha novanhu ve li pokati komido, ovo va li tava endja po okulya, okwa monika oshinima shinini shokukanifa omashikolo noshipa sholutu.
+- **Omhepo i he li po nawa ngeenge ta longifa omiti donhinda yopombada.** Ovo hava longifa insulin ile omiti dimwe donhinda yopombada otashi dulika omhepo yavo yehonde i ye pevi unene ngeenge ova indila ile ova ongaonga okulya, ngaashi sha popiwa kEhangano loNational Institute of Diabetes and Digestive and Kidney Diseases ([Ehangano loNational Institute of Diabetes and Digestive and Kidney Diseases kombinga yomhepo i he li po nawa](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia)). Omhepo i he li po nawa otai dulu oku eta omutwe tau tengauka, eenghundafana da nyemateka nosho yo ehandu.
+- **Omwenyo itau dulu.** Ngeenge okunwa itaku ningwa pamwe nokulya, omunhu otashi dulika a kale e na omwenyo itau dulu.
+- **Omutwe tau tengauka nomaludalo.** Mayo Clinic ola ti okulya nokafimbo otashi dulu oku eta omunhu a loloke unene nokukala e na omutwe tau tengauka, nokutya otashi dulika aha wapalele ovanhu ve li moshiponga shinene shokukanifa omashikolo nokwaaluka ([Mayo Clinic kombinga yokulya nokafimbo](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Iikwawo.** Mayo Clinic yo ola yandje omauyelele kombinga yomutwe tau vele, omhepo ya lunduluka nokutwali, nokutya ope na oumbangi oo tau ulike kutya okufinda okulya moule weedula 16 nokulya moule weedula 8 otashi dulika shi wedekele oshiponga shomutima shi dulife omaludiro amwe okolya. Oumbangi oo natango inau yela nawa.
 
-## Why is eating enough the bigger concern with dementia?
+## Omolwaasho okulya nawa sha fimana unene kovanu hava kala noshitwa shokudimbwa?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Kovanu hava kala noshitwa shokudimbwa, oshidjuu lelalela oku va kwafela va **lye nokunwa sha wana**, ha okulya shihapu. Ehangano loAlzheimer's Association ola yelifa kutya movanhu ve li moule ile mefimbo laxuuninwa loshitwa, otashi dulika va kale va nyengwa okulonga oshihopaenenwa shekulya, va dimbwe okulya, ile va diladile kutya ova li nale va lya. Ola weda ko yo kutya ounandjawo wokolya itau wapalele otau dulu oku eta oikala ya loloka nokukanifa ombelela ([Alzheimer's Association kombinga yokulya nokulya](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Ehangano loAlzheimer's Society ola ti okuhenakulya nawa otashi dulu oku eta okukanifa ombelela, eenghono dinini, oluhodi nokunyenya, osho tashi ningifa omunhu a kale omunhafufu nokwa nyengwa okuveluka mepandavanda ([Alzheimer's Society kombinga yehumbilo lokulya](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Omolwaasho, okulya nokafimbo ha oshinima shiwa komunhu e na oshitwa shokudimbwa.** Okwiindila omalye otashi dulu oku xula po neenghono nokukala omalye inaa liwa. Keshe olundululo momaludiro okolya yomunhu e na oshitwa shokudimbwa oku na okukwafelwa komudohotola ile nomupangeli woulithikamumwe wokolya.
 
-## What are the warning signs of poor eating or drinking?
+## Oihako ilipi tai ulike kutya omunhu ita li ile ita nu nawa?
 
-Watch for:
+Tala ngeenge ope na oinima ei:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Okukanifa ombelela**, ile oikutu tai ningi inene.
+- **Okushiya po oikulya ile okuxulifa po okulya**, ile okudjala oikulya mukanwa.
+- **Oluhodi ile oungone.**
+- **Etwali**, olo tali dulu okukwatafana nounandjawo wokolya nokuhenoukolelewayo.
+- **Iihako yokuhenoukolelewayo.** NIA ola yandja omakaya taa kukuta, omutwe tau tengauka, omitima tadi endelela nokumona oinima ihe po, oyo yo tai dulu okuholoka molwashitwa shokudimbwa mwene ([NIA kombinga yomikundu da yoolokafana moshiitwa shAlzheimer](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Ehumbo lokulya otali dulu okukala molwomatomheno mahapu: omayoo taa vele ile omayoo ina e li nawa, omiti mape, oluhodi, etwali, eenghono dinini dokulonga oinima, ile olundululo melihumbato nokunuka. Lombwela omudohotola womunhu ngeenge to mono oihako ei. Oye ota dulu okutala omatomheno nokudidilika ngeenge omupangeli woulithikamumwe wokolya ile oikulya ya wedwa po oi na okulongifwa.
 
-## How can you help someone eat and drink enough?
+## Nghee to dulu okukwafela omunhu a lye nokunwa sha wana?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Yandja oikulya inini nomakende omafiku mahapu**, ponhele yomalye matatu manene.
+- **Yandja oikulya oyo a hole**, nokukala wa manguluka ngeenge omalihumbato okolya taa lunduluka. Oikulya i na ouhwi otashi dulika i mu hafife ngeenge ehumbo lokulya ola shonopala; pula omudohotola ngeenge ope na omatomheno ookondadima ounwi.
+- **Kala u na omatokolo popepi** nokuyandja oinakuwanifwa inini efiku alishe. Eshikako, oshimeno, osho sha shangwa nawa, omashini otaa dulu yo okukala oshinima shokunwa.
+- **Lyaneni kumwe** ngeenge tashi shiiva. Omalye otaa dulu okukala efimbo lokukala pamwe, ha oshilonga tashi endelelifa.
+- **Longifa oikulya tai dulu okulya nomake**, ngaashi omakende, omashitwi ile ombelela yoshikandanhu, ngeenge okulongifa oiniwe sha ninga oshidjuu.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Oukwatelo wetu wokolya [oulithikamumwe wokulya](/brain-health/diet/) ou na omadiladilo mahapu okomesa. Okukwafela mokutokola oikulya yo otashi dulu okukala oshinima sha hokiwa sha kwatelwa kumwe; tala [oilonga yomombelewa](/activities/household-tasks/).
 
-## Talk with a doctor
+## Popya nomudohotola
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Fimbo ino tameka omaludiro okoongeleka okweendja po okulya mwene, popya nomudohotola ile nomupangeli woulithikamumwe wokolya, unene tuu ngeenge to longifa omiti donhinda yopombada, ngeenge wa kanifa ombelela mefimbo lixupi, ile ngeenge wa ninga nale omaludalo. Komunhu e na oshitwa shokudimbwa, pula omudohotola kutya oshike sha pumbiwa mokulya nokunwa efiku alishe, ponhele yokupula kombinga yokulya nokafimbo.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Inda mepandavanda lopaukiu ngeenge ope na eenghundafana da nyemateka meendelelo, ta wile po, ile oihako yokomhepo i he li po nawa inai xupa ko diva.

@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Može li se demencija spriječiti? Šta kaže istraživanje"
+seoTitle: "Može li se demencija spriječiti? Šta kažu istraživanja"
+description: "Šta su Lancet komisija iz 2024. i velika ispitivanja pokazala o smanjenju rizika od demencije, šta nisu i koje korake vrijedi razgovarati s ljekarom."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Niko ne može obećati da će spriječiti demenciju. Lancet komisija iz 2024.
+  procijenila je da je gotovo polovina slučajeva demencije u svijetu povezana s
+  14 faktora rizika koji se potencijalno mogu mijenjati, poput visokog krvnog
+  pritiska, gubitka sluha i nedovoljne tjelesne aktivnosti. Ispitivanja pokazuju
+  male efekte na testove razmišljanja, a ne dokaz da ima manje slučajeva
+  demencije. Mnogi ljudi koji rade sve „kako treba“ ipak oboljevaju od demencije,
+  i to nije ničija krivica.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Lancet komisija iz 2024. povezala je oko 45% slučajeva demencije u svijetu s 14 faktora rizika koji se potencijalno mogu mijenjati. Riječ je o procjeni za populaciju, a ne o ličnoj garanciji."
+  - "Smanjenje rizika znači smanjenje izgleda na nivou cijele populacije. Ne znači da neka pojedina osoba može izbjeći demenciju."
+  - "Velika ispitivanja, poput FINGER, US POINTER i SPRINT MIND, našla su male koristi na testovima razmišljanja ili blagom kognitivnom oštećenju, ali nijedno nije dokazalo da program životnih navika sprječava demenciju."
+  - "Starost je najveći poznati faktor rizika za Alzheimerovu bolest i ne može se promijeniti. Mnogi ljudi sa zdravim navikama ipak oboljevaju od demencije."
+  - "Koraci koji se najčešće proučavaju, poput liječenja visokog krvnog pritiska, korištenja slušnih aparata i ostajanja aktivnim, vrijedi razgovarati s ljekarom jer pomažu i zdravlju u drugim oblastima."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Može li se demencija spriječiti?"
+    a: "Ne postoji dokazan način da se demencija spriječi kod bilo koje pojedine osobe. Istraživanja sugerišu da smanjenje nekih rizika, poput visokog krvnog pritiska, neliječenog gubitka sluha i pušenja, može smanjiti šansu za demenciju u populaciji ili odgoditi njen početak. Riječ je o izgledima, a ne o obećanjima."
+  - q: "Šta znači postotak od 45% iz Lancet komisije?"
+    a: "Lancet komisija iz 2024. procijenila je da je oko 45% slučajeva demencije u svijetu povezano s 14 faktora rizika koji se, u teoriji, mogu mijenjati. Procjena pretpostavlja da ti faktori uzrokuju demenciju, a autori napominju da su neke veze možda samo djelimično uzročne. Ona opisuje cijele populacije i ne govori ništa o riziku pojedinca."
+  - q: "Ako je moj roditelj živio zdravo, zašto je oboljeo od demencije?"
+    a: "Starost, geni i mnogi faktori na koje niko ne može uticati igraju veliku ulogu u demenciji. Autori Lancet komisije napominju da smanjenje rizika na nivou populacije ne garantuje da će pojedinac izbjeći demenciju. Dijagnoza nije znak da je bilo čija greška."
+  - q: "Je li kasno da se smanji rizik od demencije nakon 65. godine?"
+    a: "Lancet komisija kaže da nikad nije prerano ni prekasno da se smanji rizik, mada se većina dokaza odnosi na srednje životno doba. Liječenje problema sa sluhom i vidom, ostajanje aktivnim i održavanje kontakta s ljudima primjeri su koraka u kasnijem životu koji su proučavani. Razgovarajte s ljekarom o tome šta odgovara vašem zdravlju."
+  - q: "Mogu li igre za mozak ili posebne dijete spriječiti demenciju?"
+    a: "Nijedna igra, hrana, dodatak ishrani ni dijeta nisu dokazano spriječili demenciju. Trogodišnje ispitivanje MIND dijete nije pokazalo značajnu razliku u razmišljanju u poređenju s kontrolnom dijetom, a komercijalne aplikacije za trening mozga nisu pokazale efekte kakvi su viđeni u istraživačkim ispitivanjima."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Ako brinete o nekome ko ima demenciju ili ste gledali kako roditelj živi s njom, vjerovatno ste se pitali da li se moglo spriječiti i da li to može zadesiti i vas. Ova stranica iznosi šta istraživanja zaista kažu, jasnim jezikom. Kratak odgovor: niko ne može obećati da će spriječiti demenciju, ali istraživanja sugerišu da se neki rizici mogu smanjiti, a smanjenje tih rizika na nivou cijele populacije može značiti da manje ljudi oboli od demencije ili da obole kasnije.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Ovo su opće informacije, a ne medicinski savjet. Molimo pročitajte naše [medicinsko odricanje odgovornosti](/medical-disclaimer/) i razgovarajte s ljekarom o svom zdravlju.
 
-## Can dementia be prevented?
+## Može li se demencija spriječiti?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Ne postoji dokazan način da se demencija spriječi kod bilo koje pojedine osobe. Nacionalni institut za starenje (NIA) kaže da, iako [još nije dokazano ništa što sprječava Alzheimerovu bolest](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), istraživači su pronašli obećavajuće strategije i uče šta može, a šta ne mora da funkcioniše.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Ono što istraživanja *zaista* pokazuju jeste da su neka zdravstvena stanja i navike povezani s većom šansom za demenciju. Kada su ti rizici niži na nivou cijele populacije, možda oboli manje ljudi, ili će se demencija javiti kasnije u životu. To je veoma različito od garancije.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Jedan ohrabrujući znak: Lancet komisija iz 2024. navela je da se u nekim zemljama visokog dohotka, uključujući SAD i Veliku Britaniju, udio starijih osoba s demencijom smanjio. Autori smatraju da je to vjerovatno dijelom zbog boljeg obrazovanja, bolje zdravstvene zaštite i manjeg oštećenja krvnih žila tokom života, prema [sažetku izvještaja Univerzitetskog koledža u Londonu](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Šta je utvrdila Lancet komisija 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet komisija o prevenciji, liječenju i njezi demencije grupa je od 27 istraživača demencije koji pregledaju dokaze svakih nekoliko godina. Njihov izvještaj iz 2024. označio je **14 faktora rizika** koji se potencijalno mogu mijenjati i procijenio da zajedno čine **gotovo polovinu (oko 45%) slučajeva demencije u svijetu**. Po riječima autora, ti slučajevi bi se *teoretski* mogli spriječiti ili odgoditi ako bi se rizici uklonili ([izvještaj Lancet komisije iz 2024.](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Faktori od 14, grupisani prema životnoj fazi u kojoj su dokazi najjači:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Rani život:** manje obrazovanja.
+- **Srednje doba (otprilike od 40. do 65. godine):** gubitak sluha, visok LDL ("loš") holesterol, depresija, povreda glave, tjelesna neaktivnost, dijabetes, pušenje, visok krvni pritisak, gojaznost i pretjerano pijenje alkohola.
+- **Kasniji život:** društvena izolacija, zagađenje zraka i neliječen gubitak vida.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Dva najnovija dodatka u 2024. bili su visok LDL holesterol i neliječen gubitak vida. Faktori povezani s najvećim udjelom slučajeva bili su gubitak sluha i visok LDL holesterol (oko 7% svaki), a zatim manje obrazovanja i društvena izolacija (oko 5% svaki).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Naš [vodič o faktorima rizika](/brain-health/risk-factors/) prolazi kroz svih 14 u tabeli, s onim što istraživanja povezuju i šta možete učiniti.
 
-### What the 45% figure does not mean
+### Šta 45% ne znači
 
-It is easy to misread this number, so it helps to be precise:
+Lako je pogrešno protumačiti ovaj broj, pa je korisno biti precizan:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **To je procjena za populaciju.** Opisuje slučajeve demencije širom svijeta, a ne vaše izglede ili izglede vašeg roditelja.
+- **Pretpostavlja uzrok i posljedicu.** Autori kažu da su uključili samo faktore rizika s uvjerljivim dokazima, ali da neke veze mogu biti samo djelimično uzročne. Na primjer, depresija u kasnijem životu ponekad može biti rani simptom demencije, a ne uzrok.
+- **Ne garantuje ništa za jednu osobu.** Sažetak UCL-a navodi da smanjenje rizika djeluje na nivou populacije i ne garantuje da će pojedinac izbjeći demenciju.
+- **Druga polovina nije objašnjena ovim faktorima.** Starost, geni i uzroci koje naučnici još ne razumiju čine ostatak.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Koja je razlika između „smanjenja rizika“ i „prevencije“?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Smanjenje rizika** znači smanjenje izgleda. Ako veća grupa ljudi snizi krvni pritisak, tokom mnogo godina manje njih može oboljeti od demencije nego inače. Neki pojedinci u toj grupi ipak će je dobiti.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Prevencija** znači spriječiti da se nešto uopšte dogodi. Kod demencije to istraživanje danas nikome ne može obećati.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Istraživači govore i o **odgađanju**. Lancet komisija navodi nove dokaze da smanjenje rizika može odgoditi početak demencije i skratiti vrijeme koje osoba provodi živeći s lošim zdravljem. Čak i odgoda od nekoliko godina može mnogo značiti osobi i njenoj porodici.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Na ovoj stranici namjerno koristimo „smanjiti rizik“ i „povezano s“. Kada vidite proizvod, dodatak ishrani ili program koji obećava da „sprječava Alzheimerovu bolest“, pristupite s oprezom. NIA savjetuje da se prije uzimanja bilo kog lijeka ili tretmana koji obećava prevenciju Alzheimerove bolesti provjeri kod ljekara, jer takvi proizvodi mogu biti nesigurni, nepotrebni ili oboje.
 
-## What have large trials found?
+## Šta su pokazala velika ispitivanja?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Opservacijske studije (koje prate šta se dešava s ljudima tokom vremena) mogu pokazati veze. Randomizovana ispitivanja, u kojima se ljudi slučajno raspoređuju u program ili u uporednu grupu, jači su test. Evo šta su pokazala neka od najpoznatijih ispitivanja.
 
-### FINGER (Finland)
+### FINGER (Finska)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Ispitivanje FINGER obuhvatilo je 1.260 odraslih od 60 do 77 godina koji su bili u većem riziku od demencije. Polovina je dobila dvogodišnji program savjeta o ishrani, vježbanja, kompjuterskih vježbi za mozak i provjera zdravlja srca i krvnih žila; druga polovina dobila je opće zdravstvene savjete. Grupa u programu bila je nešto bolja na skupu testova razmišljanja, što je mala, ali statistički značajna razlika ([ispitivanje FINGER u časopisu The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Ispitivanje je mjerilo rezultate testova, a ne dijagnoze demencije.
 
-### US POINTER (United States)
+### US POINTER (Sjedinjene Američke Države)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER obuhvatio je 2.111 odraslih od 60 do 79 godina koji su bili neaktivni, imali manje zdravu ishranu i druge faktore rizika. Obje grupe bile su podsticane da budu fizički i mentalno aktivnije, zdravije se hrane, ostanu u društvu i prate zdravlje srca. Jedna grupa dobila je strukturisani program uz trenera; druga je radila samostalno. Tokom dvije godine rezultati testova razmišljanja poboljšali su se u **obje** grupe, a nešto više u strukturisanoj grupi ([ispitivanje US POINTER u časopisu JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Autori kažu da je potrebno duže praćenje da bi se znalo da li razlika ima značaja u svakodnevnom životu. Pošto nije postojala grupa koja „ne radi ništa“, ispitivanje ne može reći koliko je svaki program pomogao u poređenju s bez ikakve promjene.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (krvni pritisak)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND proučavao je 9.361 odraslu osobu u SAD starију od 50 godina s visokim krvnim pritiskom. Dodijeljen im je niži cilj krvnog pritiska (gornji broj ispod 120) ili standardni cilj (ispod 140). Niži cilj značajno je smanjio **blago kognitivno oštećenje**, stanje problema s pamćenjem i razmišljanjem koje može prethoditi demenciji. Što se tiče **vjerovatne demencije**, u grupi s nižim ciljem bilo je manje slučajeva, ali razlika nije bila statistički značajna. Ispitivanje je prekinuto ranije i imalo je manje slučajeva demencije nego što se očekivalo, pa je možda bilo premalo da odgovori na to pitanje ([SPRINT MIND u časopisu JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Šta zbirni pregledi pokazuju
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Cochrane pregled iz 2021. objedinio je devet velikih ispitivanja programa koji se bave s više rizika istovremeno, s više od 18.000 ljudi. Pronašao je malu korist na testovima razmišljanja, ali **nema jasne razlike u broju ljudi koji su oboljeli od demencije** u dva ispitivanja koja su to mjerila ([Cochrane pregled višedomenskih intervencija](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Pregled iz 2017. Nacionalnih akademija nauka, inženjerstva i medicine SAD, koji je sažeo NIA, pronašao je „ohrabrujuće, ali neuvjerljive“ dokaze za tri pristupa: kontrolu visokog krvnog pritiska, povećanje tjelesne aktivnosti i kognitivni trening.
 
-## Does it matter when you start?
+## Da li je važno kada počnete?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Savjet Lancet komisije je da se rizici smanje što ranije i da se drže niskim što duže: „što ranije, to bolje“ i „što duže, to bolje“. Komisija kaže i da nikad nije prerano ni prekasno da se rizik smanji. Većina dokaza odnosi se na srednje doba, otprilike od 40. do 65. godine, ali neki faktori, poput gubitka vida i društvene izolacije, rizici su kasnijeg života kod kojih djelovanje i dalje može imati smisla.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Izvještaj kaže da sada postoje jači dokazi da duže izlaganje riziku ima veći efekat. Na primjer, dijabetes koji počne u srednjem dobu čini se važnijim od dijabetesa koji počne kasnije.
 
-## Is dementia risk the same for everyone?
+## Da li je rizik od demencije isti za sve?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Nije. Komisija je utvrdila da ljudi u zemljama s niskim i srednjim dohotkom, ljudi iz manjinskih grupa i ljudi s manje novca često nose više ovih rizika, pa se demencija često javlja u mlađoj dobi. Mnogi rizici vezani su za okolnosti koje ljudi nisu birali, poput kvaliteta školovanja u djetinjstvu, zraka u mjestu gdje žive i toga da li je zdrava hrana dostupna i pristupačna.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Zato su preporuke Komisije usmjerene vladama koliko i pojedincima: dobro obrazovanje za svu djecu, čistiji zrak, mjere za smanjenje pušenja, manje šećera i soli u hrani koja se prodaje u prodavnicama i restoranima, te slušni aparati za sve kojima su potrebni. Lični trud je važan, ali je važan i svijet u kojem ljudi žive. To je još jedan razlog da se nikoga ne krivi za dijagnozu.
 
-## What are the honest limits of this research?
+## Koja su iskrena ograničenja ovih istraživanja?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Demencija se razvija decenijama**, a većina ispitivanja traje dvije do pet godina. Mjerenje same demencije, a ne samo rezultata testova, zahtijeva vrlo duge i vrlo velike studije.
+- **Većina ispitivanja mjeri testove razmišljanja.** Malo poboljšanje na testu ne znači nužno da će manje ljudi oboljeti od demencije ili da će svakodnevni život biti lakši.
+- **Dobrovoljci su često zdravijeg stanja** i obrazovaniji od opće populacije. Lancet komisija navodi da većina dokaza i dalje dolazi iz zemalja visokog dohotka i da su manjinske grupe nedovoljno zastupljene.
+- **Neke veze djeluju u oba smjera.** Manje aktivnosti ili manje druženja može biti rani efekat demencije, a ne samo njen uzrok.
+- **Ispitivanja ishrane su do sada razočaravajuća.** Trogodišnje ispitivanje MIND dijete nije pokazalo značajnu razliku u razmišljanju u odnosu na kontrolnu dijetu. Pogledajte naš [vodič o ishrani](/brain-health/diet/).
+- **Igre za mozak nisu dokazano spriječile demenciju.** Pogledajte naš vodič o [igrama za mozak i demenciji](/brain-health/brain-games/).
+- **Post ima vrlo ograničene dokaze kod ljudi**, a može biti rizičan za starije odrasle. Pogledajte naš [vodič o postu](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Ako je neko radio sve „kako treba“, zašto je ipak oboljeo od demencije?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Zato što demencija nije jednostavno rezultat izbora. NIA kaže da [je starost najveći poznati faktor rizika za Alzheimerovu bolest](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), a niko je ne može promijeniti. Geni također igraju ulogu. A naučnici još uvijek ne razumiju u potpunosti šta kod većine ljudi uzrokuje Alzheimerovu bolest. Čak i kada bi svih 14 faktora rizika bilo uklonjeno, procjena same Lancet komisije ostavlja više od polovine slučajeva neobjašnjenim.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Dakle, ako brinete o nekome ko je vježbao, zdravo jeo, nikad nije pušio i ipak je oboljeo od demencije, nije se ništa pogrešno desilo ni s njegove strane ni s vaše. Ako sami živite s demencijom, to nije vaša krivica. Osjećaj krivice čest je među porodicama, ali nije zaslužen. Sada je važno ono što donosi utjehu, povezanost i dobre dane. Naše [ideje za aktivnosti](/activities/ideas/) i [vodič o brizi o sebi za njegovatelje](/caregiving/caregiver-self-care/) dobro su mjesto za početak.
 
-## What steps can you talk over with a doctor?
+## Koje korake možete razgovarati s ljekarom?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Ovo su oblasti koje se najčešće proučavaju. Vrijedi ih pokrenuti na pregledu, jer većina njih pomaže i zdravlju srca, raspoloženju i samostalnosti, bez obzira na to kakav će im efekat na demenciju na kraju biti.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Krvni pritisak.** Pitajte koje su vam vrijednosti i koji cilj vam odgovara. Lancet komisija predlaže da se od oko 40. godine teži gornjem broju 130 ili nižem, ali pravi cilj za starijeg odraslog zavisi od njegovog općeg zdravlja.
+2. **Sluh.** Zatražite test sluha i pitajte bi li slušni aparati pomogli. Naš [vodič o sluhu](/brain-health/hearing/) objašnjava istraživanja.
+3. **Vid.** Redovno obavljajte preglede očiju i pitajte da li se problemi poput katarakte mogu liječiti.
+4. **Holesterol.** Pitajte da li treba provjeriti LDL holesterol i da li nešto treba promijeniti.
+5. **Šećer u krvi.** Ako imate dijabetes, pitajte kako ga sigurno kontrolisati.
+6. **Raspoloženje.** Depresija je česta i može se liječiti. Recite ljekaru ako ste se duže od nekoliko sedmica osjećali potišteno ili ste izgubili interes za stvari.
+7. **Pušenje i alkohol.** Pitajte o podršci za prestanak pušenja i o sigurnim granicama za alkohol.
+8. **Kretanje.** Pitajte koja vrsta aktivnosti je sigurna za vas. Naš [vodič o vježbanju](/brain-health/exercise/) donosi ideje.
+9. **Zaštita glave.** Nosite kacigu pri vožnji bicikla i kontaktnim sportovima, i pitajte o prevenciji padova.
+10. **Ostati povezan.** Vrijeme s drugim ljudima dio je zdravog života. Pogledajte naš vodič o [društvenoj povezanosti](/brain-health/social-connection/) i [o snu](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Prije promjene lijekova, ishrane, dodataka ishrani, posta ili vježbanja, posavjetujte se s ljekarom, naročito ako imate bolest srca, dijabetes, historiju padova ili već živite s demencijom.
 
-## Talk with a doctor
+## Razgovarajte s ljekarom
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Ako primijetite promjene pamćenja ili razmišljanja koje vas brinu, kod sebe ili kod nekoga drugog, zakažite pregled. NIA napominje da [problemi s pamćenjem mogu imati druge uzroke](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), poput nuspojava lijekova, problema sa štitnom žlijezdom, depresije ili niskog nivoa vitamina B12, te da neki od tih problema nestanu kada se uzrok liječi. Naš [vodič o znacima upozorenja](/brain-health/warning-signs/) objašnjava na šta treba paziti.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Potražite hitnu pomoć** za iznenadne promjene: iznenadnu zbunjenost, slabost ili utrnulost s jedne strane tijela, poteškoće s govorom ili jaku glavobolju mogu biti znaci moždanog udara ili drugog hitnog stanja. Pozovite 112.
 
-## Where Golden Moments fits
+## Gdje se uklapa Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments pravi jednostavne zajedničke aktivnosti, poput [kartica za razgovor](/games/conversation-cards/), [bingo-a sa slikama](/games/picture-bingo/) i [mirne pauze za disanje](/games/calm-breathing/). Namijenjene su uživanju i zajedničkom vremenu. Nisu terapija i ne sprječavaju niti usporavaju demenciju.

@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Երբ դեմենցիայով ապրող մարդը հրաժարվում է զբաղմունքից"
+seoTitle: "Երբ դեմենցիայով ապրող մարդը հրաժարվում է զբաղմունքից"
+description: "Ինչու դեմենցիայով ապրող մարդը կարող է հրաժարվել կամ նեղանալ զբաղմունքից, ինչ փորձել, ինչից խուսափել և երբ կտրուկ փոփոխությունը բժշկի խորհրդատվություն է պահանջում։"
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Երբ դեմենցիայով ապրող մարդը ասում է «ոչ», հանգիստ ընդունեք դա և փորձեք ավելի
+  ուշ կամ առաջարկեք այլ բան։ Հրաժարվելը հաճախ պատճառ ունի. զբաղմունքը կարող է
+  շատ դժվար կամ մանկական թվալ, մարդը կարող է հոգնած լինել, ցավ ունենալ, քաղցած
+  լինել կամ աղմուկից գերծանրաբեռնված։ Մի վիճեք և մի պնդեք։ Պարզեցրեք
+  զբաղմունքը, առաջարկեք երկու ընտրություն կամ խնդրեք նրա օգնությունը։ Հանկարծակի
+  կամ արագ փոփոխվող վարքը, հատկապես վարակից կամ նոր դեղորայքից հետո, անհապաղ
+  բժշկի խորհրդատվություն է պահանջում։
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "«Ոչ»-ը հարգանքի արժանի պատասխան է, ոչ թե հաղթահարման խնդիր։"
+  - "Հրաժարվելն սովորաբար պատճառ ունի. շատ դժվար է, շատ մանկական է, հոգնածություն, վատ ինքնազգացողություն, անհարմարություն կամ գերծանրաբեռնում։"
+  - "Նահանջեք, սպասեք և փորձեք ավելի ուշ, այլ ժամի կամ ավելի պարզ տարբերակով։"
+  - "Օգնություն խնդրելն ավելի լավ է գործում, քան ինչ-որ բան «կատարել» խնդրելը։"
+  - "Երբեք մի վիճեք, մի պնդեք, մի հարցաքննեք և մի ուղղեք։ Ուշադրություն դարձրեք նաև ձեզ վրա՝ արդյոք չե՞ք շտապում կամ շատ մոտենում։"
+  - "Հանկարծակի կամ արագ փոփոխվող վարքի դեպքում, հատկապես վարակից կամ նոր դեղորայքից հետո, պետք է անմիջապես դիմել բժշկի։"
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Լա՞վ է, եթե մարդը միանգամայն բաց թողնի զբաղմունքները։"
+    a: "Այո, առանձին օրերին դա նորմալ է։ Միասին նստելը, երաժշտություն լսելը կամ պարզապես պատուհանից դուրս նայելը կարող է բավական լինել։ Եթե մարդը շաբաթների ընթացքում դադարում է ամեն ինչից հաճույք ստանալ, տեղեկացրեք նրա բժշկին, քանի որ տրամադրության անկումը, ցավը կամ առողջական այլ խնդիրները կարող են դրա մի մասը լինել։"
+  - q: "Ինչու՞ է նա հրաժարվում այն բաներից, որոնք առաջ սիրում էր։"
+    a: "Հին նախասիրությունը կարող է հիասթափեցնող դառնալ, երբ դրա համար այժմ անհրաժեշտ են հմտություններ, որոնք դեմենցիան դժվարացրել է, և մարդը կարող է ամաչել։ Փորձեք նույն զբաղմունքի ավելի պարզ մասը, օրինակ՝ կոճակները դասավորել կարելու փոխարեն կամ այգու նկարներին նայել տնկելու փոխարեն։"
+  - q: "Պե՞տք է փորձեմ համոզել նրան։"
+    a: "Ոչ։ Մարդուն ստիպելը անել մի բան, որը դեմենցիան դժվարացրել է, հայտնի պատճառ է գրգռվածության համար։ Ընդունեք «ոչ»-ը, փոխեք խոսակցության թեման և ավելի ուշ կամ այլ ձևով կրկին առաջարկեք։"
+  - q: "Ե՞րբ է վարքի փոփոխությունը անհետաձգելի վիճակ։"
+    a: "Զանգահարեք 911, եթե մարդը վտանգի մեջ է կամ ունի բժշկական անհետաձգելի վիճակի նշաններ։ Հանկարծակի շփոթության կամ ժամերի կամ օրերի ընթացքում արագ փոխվող վարքի դեպքում, հատկապես ջերմության, վարակի կամ նոր դեղորայքի առկայությամբ, անմիջապես կապվեք նրա բժշկի հետ։"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Դուք ամեն ինչ պատրաստում եք, առաջարկում եք խաղ կամ զբոսանք և լսում եք՝ «Ոչ»։ Կամ զբաղմունքը լավ է սկսվում, բայց ավարտվում է մի կողմ հրված պլանշետով և կտրուկ խոսքով։ Դա հիասթափեցնող է, և դա շատ տարածված է։ Հրաժարումն ու նյարդայնությունը սովորաբար հաղորդագրություն են, ոչ թե համառություն։ Երբ փորձում եք հասկանալ, թե ինչ է ասում այդ հաղորդագրությունը, հաճախ պարզ է դառնում, թե ինչ փորձել հետո։
 
-## Why does someone with dementia refuse activities?
+## Ինչու՞ է դեմենցիայով ապրող մարդը հրաժարվում զբաղմունքներից։
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Սովորաբար պատճառ կա, նույնիսկ եթե մարդը չի կարողանում այն բառերով արտահայտել։ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities)-ը նշում է, որ դիմադրությունը կարող է նշանակել, որ մարդը չի կարողանում կատարել առաջադրանքը կամ վախենում է փորձել։ Հաճախ հանդիպող պատճառներից են.
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Շատ դժվար է թվում։** Զբաղմունքն այժմ պահանջում է հմտություններ, որոնք դեմենցիան դժվարացրել է, և ուրիշի ներկայությամբ չհաջողելը ամոթալի է։
+- **Մանկական է թվում։** Մեծահասակները նկատում են մուլտհերոսային նկարներ, մանկական տոնով խոսք և այնպիսի զբաղմունքներ, որոնք կարծես երեխաների համար են արված։
+- **Հոգնածություն։** Շատ մարդիկ օրվա երկրորդ կեսին ավելի քիչ ուժ են ունենում։ Տես՝ [ուշ կեսօրվա հանգիստ զբաղմունքներ](/caregiving/late-day-restlessness/)։
+- **Մարմնական անհարմարություն։** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)-ն թվարկում է ցավը, քնի պակասը, տեսնելու կամ լսելու դժվարությունները, փորկապությունը, քաղցը, ծարավը և նոր դեղորայքի կողմնակի ազդեցությունները որպես անհանգստության հնարավոր պատճառներ։
+- **Շատ բան է կատարվում միաժամանակ։** Բարձր միացված հեռուստացույցը, մի քանի զրույցները կամ մարդաշատ սենյակը կարող են գերծանրաբեռնել։
+- **Ճնշման զգացում։** NIA-ն նշում է, որ գրգռվածության պատճառ կարող է լինել մարդուն ստիպելը անել մի բան, որը Ալցհեյմերի հիվանդությունը շատ դժվարացրել է, կամ հիշել իրադարձություններ կամ մարդկանց։
+- **Տրամադրության անկում։** Ամեն ինչի նկատմամբ հետաքրքրության կորուստը կարող է դեպրեսիայի նշան լինել, որի մասին արժե խոսել բժշկի հետ։
+- **Նա պարզապես չի ուզում։** Մեծահասակները իրավունք ունեն «ոչ» ասելու։
 
-## What should I try when they say no?
+## Ի՞նչ փորձել, երբ նա ասում է «ոչ»։
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Հանգիստ ընդունեք «ոչ»-ը, ապա փոխեք ինչ-որ բան. ժամը, զբաղմունքը, դժվարության մակարդակը կամ առաջարկելու ձևը։
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Առայժմ թողեք։** «Լավ է։ Գուցե ավելի ուշ»։ Ապա առանց հոգոց հանելու անցեք ուրիշ բանի։
+2. **Փորձեք ավելի ուշ։** Alzheimer's Association-ը խորհուրդ է տալիս կրկին փորձել ավելի ուշ կամ օրվա այլ ժամին։
+3. **Փոքրացրեք առաջադրանքը։** Մեկ համընկնում՝ ամբողջ խաղի փոխարեն։ Մեկ սրբիչ՝ լվացքի զամբյուղի փոխարեն։ Ավելի քիչ նկարներ, ավելի քիչ ընտրություն, նկարները թողեք տեսանելի։
+4. **Առաջարկեք երկու տարբերակ։** «Ուզու՞մ եք նայել թռչունների նկարները, թե՞ երաժշտություն լսել»։ Ընտրությունը մարդուն վերադարձնում է վերահսկողության զգացումը։
+5. **Կատարելու փոխարեն օգնություն խնդրեք։** «Կկարողանա՞ք օգնել ինձ դրանք դասավորել» կամ «Կասե՞ք, թե որ գույնն է ավելի լավը»։ Պետքական զգալը շատ տարբեր է ստուգվելու զգացումից։
+6. **Սկսեք դուք։** Սկսեք զբաղմունքը նրա կողքին՝ առանց հարցնելու։ Շատ մարդիկ միանում են, երբ ինչ-որ բան արդեն սկսված է, իսկ եթե չեն միանում, դուք միևնույն է միասին ժամանակ եք անցկացրել։
+7. **Անցեք ֆիզիկական կամ հանգստացնող բանի։** Կարճ զբոսանք, երաժշտություն, թեթև ուտեստ, լվացք ծալել կամ միասին մի փոքր [հանգիստ շնչառություն](/games/calm-breathing/) անել։ NIA-ն առաջարկում է ուշադրությունը ուղղել երաժշտության, գրքի կամ զբոսանքի վրա։
+8. **Թույլ տվեք անել իր ձևով։** Եթե մարդը ցանկանում է խաղալ ոչ այնպես, ինչպես կանոններն են ասում, ընդունեք դա։ Alzheimer's Association-ը խորհուրդ է տալիս ճկուն լինել։
 
-## What should I say when they get frustrated?
+## Ի՞նչ ասել, երբ նա նյարդայնանում է։
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Դանդաղեցրեք, խոսեք ավելի մեղմ ձայնով և հանգստացրեք։ [Alzheimer's Association-ի՝ գրգռվածության վերաբերյալ ուղեցույցը](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) խորհուրդ է տալիս մի փոքր նահանջել և թույլտվություն խնդրել, օգտագործել հանգիստ, դրական խոսքեր և առաջարկել երկու տարբերակի միջև ուղղորդված ընտրություն։ Այդ ոգով կարելի է ասել.
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Ներողություն, սա իսկապես նյարդայնացնող է։ Եկեք դադարենք»։
+- «Դուք լավ եք անում։ Ես ձեր կողքին եմ»։
+- «Ժամանակ կունենա՞ք ինձ ուրիշ բանում օգնելու»։
+- «Գուցե ավելի լավ է թեյ խմե՞նք»։
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Այնուհետև ավարտեք զբաղմունքը՝ առանց այն մեծ խնդիր դարձնելու։ Մեր [շփման խորհուրդները](/caregiving/communication-tips/) էջում կարող եք գտնել ավելի շատ մտքեր, թե ինչ ասել։
 
-## What should I avoid?
+## Ինչի՞ց պետք է խուսափել։
 
-Some natural reactions tend to make things worse.
+Որոշ բնական արձագանքներ սովորաբար իրավիճակը ավելի են բարդացնում։
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Վիճել կամ պնդել։** «Եկեք, էլի մեկ անգամ» կամ «Դուք սա սիրում եք» խոսքերը հազվադեպ են օգնում։
+- **Հարցաքննել կամ ուղղել։** «Դուք գիտեք՝ սա ինչ է» կամ «Ոչ, դա սխալ է» խոսքերը ճնշում են ավելացնում։
+- **Անձնական ընդունել։** NIA-ն հիշեցնում է խնամողներին, որ այս փոփոխությունների պատճառը հիվանդությունն է, ոչ թե մարդը։
+- **Շատ մոտենալ կամ շտապեցնել։** Alzheimer's Association-ը խորհուրդ է տալիս չբարձրացնել ձայնը, տագնապ չցուցաբերել, մարդուն անկյուն չմղել, շատ չմոտենալ, չսահմանափակել նրա շարժումները, չքննադատել, չանտեսել և նրա հետ չվիճել, ինչպես նաև խուսափել նրա տեսադաշտից դուրս հանկարծակի շարժումներից։
+- **Մեղքի զգացում առաջացնել։** «Ես այս ամենը ձեր համար պատրաստեցի» խոսքը երկու կողմին էլ ավելի վատ է զգալ տալիս։
+- **Պիտակավորել։** «Համառ» կամ «դժվար» բառերը թաքցնում են իրական պատճառը և ավելի են դժվարացնում լուծում գտնելը։
 
-## How can I find out what is behind repeated refusals?
+## Ինչպե՞ս հասկանալ, թե ինչն է կրկնվող հրաժարումների հետևում։
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Մեկ կամ երկու շաբաթ պարզ գրառումներ կատարեք։ NIA-ն ասում է, որ վարքի փոփոխությունները հետևելը կարող է օգնել խնամողներին և առողջապահական մասնագետներին նկատել օրինաչափությունը և հասկանալ պատճառը։
 
-Jot down:
+Գրանցեք.
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- օրվա ժամը,
+- ինչ եք առաջարկել և ինչպես եք հարցրել,
+- ինչ էր կատարվում շուրջը (աղմուկ, հյուրեր, հեռուստացույց),
+- ինչպես է մարդը քնել, կերել և խմել, և երբ է վերջին անգամ օգտվել զուգարանից,
+- նոր դեղորայք կամ վերջերս տարած հիվանդություն։
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Սովորաբար օրինաչափությունները արագ են երևում. հրաժարումներ, որոնք լինում են միայն ժամը 16:00-ից հետո, միայն որոշակի խաղի ժամանակ կամ միայն այն դեպքում, երբ հեռուստացույցը միացված է։ Family Caregiver Alliance-ի [դեմենցիայի վարքագծի ուղեցույցը](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) պարզ ասում է. մենք չենք կարող փոխել մարդուն, բայց կարող ենք փոխել մեր վարքն ու շրջապատը։
 
-## When should I talk to a doctor about refusal or frustration?
+## Ե՞րբ պետք է բժշկի հետ խոսել հրաժարման կամ նյարդայնության մասին։
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Բժշկի հետ խոսեք, երբ վարքը փոխվում է հանկարծակի, արագ կամ հիվանդության նշանների հետ մեկտեղ։ NIA-ն ասում է, որ վարքի հանկարծակի կամ արագ տատանվող փոփոխությունների մասին, հատկապես եթե մարդը վարակ է ունեցել կամ վերջերս փոխվել են դեղորայքները, պետք է անմիջապես տեղեկացնել բժշկին։
 
-Contact their doctor promptly if you notice:
+Անհապաղ դիմեք նրա բժշկին, եթե նկատում եք.
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- հանկարծակի շփոթություն կամ ժամերի կամ օրերի ընթացքում մեծ փոփոխություն,
+- ցավի նշաններ, օրինակ՝ կկզում, մարմնի մի մասը պաշտպանել կամ շարժվելու նոր դժվարություն,
+- ջերմություն կամ վարակի այլ նշաններ,
+- նոր կամ փոխված դեղորայք, որին հաջորդել է վարքի փոփոխություն,
+- գրեթե ամեն ինչի նկատմամբ հետաքրքրության կորուստ, հուզմունք կամ փակվելը, որը տևում է մի քանի շաբաթից ավելի,
+- սնունդից կամ խմիչքից հրաժարում։
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association-ը խորհուրդ է տալիս վարքային ախտանիշներ ունեցող ցանկացած մարդու համար կատարել բժշկական մանրակրկիտ զննում, հատկապես եթե դրանք հայտնվում են հանկարծակի։ Family Caregiver Alliance-ը նույնպես խորհուրդ է տալիս նախ խորհրդակցել բժշկի հետ, քանի որ վարքային խնդիրները կարող են ունենալ բժշկական պատճառ։ Մի սկսեք, մի դադարեցրեք և մի փոխեք որևէ դեղորայք առանց բժշկի կամ դեղագործի հետ խոսելու։
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Եթե որևէ մեկը վտանգի մեջ է կամ կան բժշկական անհետաձգելի վիճակի նշաններ, զանգահարեք 911։ NIA-ն առաջարկում է օպերատորին հայտնել, որ մարդը դեմենցիա ունի։
 
-## Is it okay if we do nothing at all?
+## Լա՞վ է, եթե ընդհանրապես ոչինչ չանենք։
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Այո։ Որոշ օրեր լավագույն զբաղմունքը զբաղմունք չանելն է. միասին նստել, ձեռք բռնել, սիրելի երգ լսել կամ պատուհանից թռչուններին նայել։ Դա ձախողում չէ։ Մեր [միասին խաղալու ուղեցույցը](/caregiving/how-to-play-together/) բացատրում է, թե ինչու զբաղմունքը շուտ ավարտելը կամ ընդհանրապես չսկսելը կարող է ճիշտ որոշում լինել։

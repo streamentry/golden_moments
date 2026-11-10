@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Деменци йолу адамна байрамийн ханаш, Thanksgiving-ах тӀаьхьа"
+seoTitle: "Байрамийн ханаш деменци йолу адамна"
+description: "Деменци йолу адамна сихо-сихо байрамийн ханаш: кхачаш, хьалхара декорации, музыка, сурт, видеозов, Thanksgiving йа Рождество лаьцна кечам."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Байрамаш жима, дийнахь хьалхара, адамах дӀаоьхучу хенан тӀехь дан. Адаман
+  тӀаьхьа дерзо бохучу бӀаьстенан белхан хьоьхуш: дӀаяздан, Ӏаьшонийн
+  пхьаьрсаш кхачан, пакет дӀакховдан йа декорации дӀаяхьар. Сайна музыка а,
+  хӀуманан сурташ а дӀаела; хьалха гӀирсаш хьоьхуш, цхьана мохк долу кеп
+  тӀехь. Шена дӀаца кхочушдан лаьттина дела дӀадаккхар; жима, сихо-сихо
+  байрам — дика байрам.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Байрам дийнахь хьалхара дан, масала, тӀаьхьа Ӏаьшонашкахь йа кхузо-бӀаьхьа, деменци йолу адамна дийнахь тӀаьхьа дӀаоьхуш хилча."
+  - "Дика белхаш дан: дӀаяздан, мох кхачан, пакет дӀакховдан, декорации йа дессерт дӀаяхьар."
+  - "Сайна музыка, рождественски йырзаш а, хьалхара суьртийн дакъош а — байрамийн шайн ехаш ала."
+  - "Госташ хьалха хьоьхуш, ша дӀадаккхар мотт, адамна хьалхара гостийн суьрташ кхочушдан."
+  - "Жима кеп, шен сийсанаш йа цхьа кепен ӀаьткӀаш тӀехь, цхьана хенахь цхьаъ-шийтта адам кхиа."
+  - "Цхьаъ дӀаоьцуш долу, цхьана даьхнаш тӀехь йа бӀаьстенан декорации долу, хьалхара гӀирсаш долу кепаш дӀаяздан."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Thanksgiving-ах деменци йолу адам мичара ша дан дарий?"
+    a: "Адамна дика, безам баран дела дӀадала, тӀаьхьа ша дан дарий: мох кхачан, Ӏаьшонашкахь пхьаьрсаш кхачан, пакет дӀакховдан, Ӏаьшонийн тӀе парнаш дӀаяхьар. Ӏаьшонашкахь хьалхара суьрташ йа хьалха кхузо музыка а дан дарий. Байрамах дӀаоьцуш хилар дела дикахь ду, а хӀумма кхо дела йа цхьана хьоьхуш."
+  - q: "ТӀаьхьа ханна шайн стеношка хӀун тайп бӀаьхьа хиларх?"
+    a: "Ма-дарра, адам хьоьхуш ду. ГӀирсаш а, цхьана хенахь адамаш а тоба дӀалаьтта; шен тайп дӀаоьцуш шен сийсанаш йа хан дӀаязна, йа госташ жима бакхиш дӀахьо. Alzheimer's Association шуна чохь дарий йа хьоьхуш дӀаоьцуш ма-дарра."
+  - q: "Ханна, дукха хан хилла ма вахар адамна хьалха мича дӀаяздан?"
+    a: "Жима, кхин ма-дарра дӀаяздан. Беран дӀадаьхьа адамна мича кхета, хьалхара беллаш ма-дарра, тӀехь. Кхо диагноз ду, адам дӀалаьттина ду, ша дӀаоьцуш. Госташ хьалха шайна дӀакхуьйсу кхин кхачан болх, ма кхуьцу, цхьаъ хьоьхуш, жам бе. Адамна госташ суьрташ хьалха дӀаела дӀахьо."
+  - q: "Деменци йолу адамна байрамийн совгаташ мича дика?"
+    a: "Хьалхара, безам баран, Ӏаьшонашкахь дика: дӀакхочур дика, йа кховдан пакет, мохк баран йа йоцу сурт, хӀуманан музыка, йа шена дика сурташ. Хьалха техника, йа дукха дӀаоьцу арш, Ӏаьшонийн сайн дӀакхочу сийсанаш яздан бе. Совгат дӀахьо, шена хьалхара дӀаховдарш, йа адаман тӀехь берашна дахар хьоьхуш — иштта кхин дика совгат ду."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Байрамийн ханаш сайна дахарехь хилла хьаькӀан ойланаш дӀакхочуш ду, а хӀумма цхьана хьоьхуш, нийса хан, адаман дийнахь ханна тӀехь дӀахьаьжнаш дӀакхочуш ду. Деменци йолу адамна, байрамаш жима, йожа а, адамах оьцу дела тӀехь дан хиларе дика. Иштта кечамаш Thanksgiving, Рождество, Ханука, Январь 1 а, тӀекхаьтта мацалш а лаьцна хилла кхузош ду.
 
-## How do I plan a calmer holiday?
+## Байрам нийсабан хан дӀаяздан мича дӀадаккхар?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Адаман дийнахь тӀаьхьа хан дӀалаьтта, ша дӀадаккхар. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) кхетар дӀадоькху байрам дийнахь хьалхара дан, ала, дӀакхуьйсу хан тӀехь адамна тӀаьхьа йа ма-дарра Ӏаьшонийн тӀаьхьа дӀакхетарш тӀехь «sundowning» бохучух. Кхузо-бӀаьхьа йа Ӏаьшонашкахь кхузо дика.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Дика кеп дӀахьо.** Жима, сихо-сихо тоба, йа госташ цхьана хенахь бакхиш, цхьана дукха тоба тӀеххьара дика.
+- **Белхаш дӀаела.** Берашна мохк йа Ӏаьшонаш дӀакхочу, ма-дарра цхьа адам кхузо ша дан. Шуна кхиъ дика дела дӀакхетар.
+- **Декорации жима дан.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) кхетар дӀадоькху, кхохо лампаш тӀехь адамна дӀакхетар дан ма дарра, а хӀумма кхин ма-дарра, декорацин кхуьйсу кхин Ӏаьшонаш йа кхин дукха мохк.
+- **Мича дӀахьо дӀакхуьйсу.** Дукха тӀаьхьа Ӏаьшонаш йа кхин, хьоьхуш дика хан йа кхин цхьана, хенан дӀакхуьйсу — хьалхара дела дацар дика.
 
-## What holiday activities can we do together?
+## Байрамашкахь мича тоба дан тӀаьхьа дела?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Адаман дешан дӀаоьцу дела дӀахьо, хьаькӀан дела дика. Дела дӀакхочу хан тӀехь дика, хьоьхуш хилар цхьа дика дела ду.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Ӏаьшонаш тоба дӀаяздан.** БӀаьхьа тарелкаш, тӀаьхьа салфеткаш, тӀаьхьа кубкаш дӀаяздан. Салфеткаш кхачан — хьалха дӀадаьхьа дика болх.
+2. **Мох дӀаметан а, дӀаяздан а.** Картофель дӀаметан йа фасоль дӀакхачан Ӏаьшонашкахь дика, тӀаьхьа Ӏаьшонийн кхуьцу адамаш тӀе дика.
+3. **ДӀакхачан, дӀакхуьйсан, тарелкаш тӀе дӀаяздан.** Клюквен соус дӀакхачан, йа гӀиттина бисквит тарелкашкахь дӀаяздан — кӀорданна а, пачаьхьа а тӀе буьйса.
+4. **Совгат дӀакховдан.** Пакет дӀахьо, лента а, ленто а дӀасхьа. Цхьа дика дела — дӀакховдар, дӀакхачан а, хьаькӀан бӀаьхьа, цкъа дика хилар йоцу ду.
+5. **Цхьа декораци дӀаяздан.** ДӀайоьхуш йоцу дойлаш, цхьа жима кепа, масала, гӀоь йа жима Ӏаьшонаш тӀехь.
+6. **Жима бохкар дан.** Тоба дӀахьо, Ӏаьшонийн йа кхелан бухаш, кхелан дӀадоккхучу суьртан тӀе Ӏаьшонийн открытка. [Хьалхара дӀакхетарш](/activities/arts-and-crafts/) — кхин дукха дешан.
+7. **Йырзаш йырзан, хьоьхуш.** Рождественски йырзаш а, байрамийн йырзаш а, адамаш ма-дарра кхо тӀаьхьа а дӀакхетар. Ахьа [музыкин кхузош](/activities/music/) дӀадоькху.
+8. **Хьалхара байрамийн суьрташ.** Хьалха байрамашкахь тоба дан Ӏаьшонаш кхочуш: «Кхузо хьалха тӀе хьоьхуш» бохуш, цхьаъ кто ду бохучу йа ала. Кхин дела дӀахьо [дешан тӀаьхьа кхузош](/activities/reminiscence/) дӀадаккхар.
+9. **Цхьа жима тоба дан.** [Сурташ бингоа](/games/picture-bingo/) минутан ӀаьткӀа дӀахьо, цхьаннан а гӀо дика. [Хьалхара карточки](/games/conversation-cards/) цхьа дела тӀехь дӀакхочу тоба дика.
+10. **Тоба бояр.** Жима [раскраскаш](/games/coloring/) гӀирсан дӀахьо, берашна йа Ӏаьшонийн тӀе.
+11. **Байрамийн дика фильм кхузо.** Цхьа хьалхара фильм ма-дарра кхузо дика, ша дӀасхьа цхьаъ дукха.
+12. **Жима ӀаьткӀа дӀа-хьо, суьрташ дӀадоккхар.** Декорацин кхуьйсу ӀаьткӀа тоба хьоьхуш, тӀехь ӀаьткӀа дикхан дӀакхочу тайпа.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Адаман дешан дукха Ӏаьшонаш хилла, кхузо кхин цхьа [дахарехь болх дела](/activities/household-tasks/) дӀахьо, Ӏаьшонийн белхан дика кепаш дӀакхочуш.
 
-## How do I prepare guests?
+## Госташ мича дӀахьо?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Госташ ӀаьткӀа хьалха дӀаела, шу дукха хан ма вахарш. Alzheimer's Association кхетар дӀадоькху: дешан а, кхелан а дӀакхуьйсу дийцар адамах йоцу, а хӀумма дӀакхуьйсу сан.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Жима кхин ӀаьткӀа дӀаела:** цхьаъ-шийтта хьоьхуш, хьалха дешан дӀаеха, ма тӀе дӀакхуьйсу, кхин дика хан дӀахьо, ала йа хьалха дешан тӀехь.
+- **Мича дика, мича дӀакхуьйсу дийцар.** Хьоьхуш дешан тайп, ма-дарра, а дӀа, а тӀехь дӀакхуьйсу хенаш, дийцар.
+- **Госташ хьалха дӀаоьцу.** Суьрташ дӀаела, хьалха госташ кто ду бохуш, цхьа кхин ма-дарра, йа байрам хьалха телефон йа видео дӀахьо.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+[Шуна кхин кхузош](/caregiving/communication-tips/) дукха дӀадоькху.
 
-## What if it gets to be too much?
+## Хан хьо дӀакхуьйсу хила, мичара хьо?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Жима кхелан тӀехь ӀаьткӀа кхин тӀехь, хьоьхуш, ма-дарра кхин, цхьа тӀаьхьа адамна кхузо, бедарехь шен йа ӀаьткӀа. Хьалха дӀаела: «Кхин ма-дарра, жима хан ма сийсан, кхуьйсу хьо?»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Тоба дӀаяхьар, дика хан а, тӀаьхьа дӀакхачар дика — дика кепа ду, йоцу гӀо ца ду. Адам дӀакхуьйсу хилча, йожа дешан а, йырзаш а, кхин ӀаьткӀа ала хьоьхуш, кхиа тӀехь. [Ӏаьшонийн дӀакхуьйсу хан](/caregiving/late-day-restlessness/) лаьцна кхин дукха.
 
-## How can family far away take part?
+## Хьалха вахара ахьа адамаш мича тоба хилар?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Видео ӀаьткӀа тоба кхачаш. Alzheimer's Association кхетар дӀадоькху: видео ӀаьткӀа тоба дика кепа дӀахьо, масала, байрамийн йырзаш йырзан, хьалхара суьрташ дӀаела, цхьана рецепт ма-дарра тоба кхачан, йа цхьа байрамийн фильм тоба кхузо. Видео жима дан, цхьаъ-шийтта хьоьхуш, хьалха дӀа дош хьоьхуш. [Телефон а, видео а лаьцна кечам](/activities/phone-and-video-calls/) дукха дика ду.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Адам memory care хьахара ма-дарра, хьалха хьоьхуш хан тӀехь дӀаела, персонал тӀе видео тоба дӀахьо. [Memory care хьахара адамна вахар](/activities/visiting/) лаьцна кечам — мичара кхачан а, мичара дӀакхачар а.
 
-## What gifts suit someone with dementia?
+## Деменци йолу адамна совгаташ мича дика?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Дика, безам баран совгаташ: цхьа дика Ӏаьшонаш, мохк баран йа йоцу сурт, хӀуманан музыка, хьалха суьртан альбом ма-дарра. Alzheimer's Association кхетар дӀадоькху: дукха, кхо хьахийна кепа техника, хьалхара дела хьоьхуш, дуьхьа йоцу кхелан тайпаш дӀаяхьар дика.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Совгат дӀакховдан а, хьалха дӀакхачан а — кхин дика ду. Адамна гӀирсан Ӏаьшонаш, йа адаман дӀакховдан совгат, шен белхан мичара хилар дика. [Сурташ ӀаьткӀа](/games/photo-pairs/) — цхьа дика тоба дела: шуна дика суьрташ ӀаьткӀа дӀакхетар, браузерехь, цхьа дика тоба.
 
-## Look after yourself too
+## Ахьа ша хьо лаьцна
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Байрамаш болх дӀаоьхуш ду. Цхьаъ дӀаела хьо кхуьйсу хилча кхузо йа Ӏаьшонаш; дика кеп дӀаяздан; тӀаьхьа хьоьхуш дела яхьа. Адам йа шу хьахара маьӀна, дӀакхачан дика, йоцу а — видео ма-дарра, хьалха дӀадаккхар ма-дарра, кхин дика кепаш дӀахьо. [Ахьа ша хьо лаьцна кечам](/caregiving/caregiver-self-care/) дукха дӀадоькху.

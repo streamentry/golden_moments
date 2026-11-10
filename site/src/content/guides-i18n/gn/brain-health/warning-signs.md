@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Demencia ñepyrũha ha arakaʼépa ejehechauka pohanohárape"
+seoTitle: "Demencia ñepyrũha ha arakaʼépa ejehechauka pohanohárape"
+description: "Demencia ñepyrũha, mbaʼéicha iñambue pe iñemoarandu hag̃ua jepiveguágui, ha mbaʼépa ejapóta reho mboyve pohanohárape."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Nderesaráiramo umi mbaʼe rejapovaʼerã ára ha ára, hasýramo rejapo jey umi tembiapo
+  reikuaáva, ndereikuaáiramo arakaʼépa térã moõpa reime, térã oñemoambuéramo nde
+  rembiapokue ha nde pyʼaguasu, ikatu hína upe haʼe demencia ñepyrũha. Heta ambue mbaʼe,
+  peteĩháicha tiroides apañuái, vitamina B12 saʼive, pohã rembiapoʼi vai, pyʼaho ha ke
+  apañuái, ikatu avei omoambue pe manduʼa. Peteĩ pohanohára katupyry añónte ikatu heʼi
+  mbaʼépa oiko. Pe sapyʼaite oñepyrũva ñemokõi oñeñangareko vaʼerã pyaʼe.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Sapyʼánte nderesarái haʼe mbaʼe oikóva jepiveguápe; pe ñemoambue ombohasýva ára ha ára tembiapo ikatu oñehecha."
+  - "Alzheimer's Association ohechauka 10 demencia ñepyrũha, peteĩteĩ oñembojoaju peteĩ ñemoambue jepivegua rehe."
+  - "Tiroides apañuái, vitamina B12 saʼive, pohã rembiapoʼi vai, pyʼaho, mbaʼasy mbyai ha ke apañuái ikatu ombyai pe manduʼa, ha heta oñemyatyrõkuaa."
+  - "Peteĩ pohanohára katupyry añónte ikatu heʼi demencia oĩpa; umi ñeporandu térã jehecha ñandutípe ndaikatúi."
+  - "Pe ñemokõi oñepyrũva sapyʼaite, aravo térã ára pukukue, ikatu haʼe delirium ha oñeñangareko vaʼerã pyaʼe."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "¿Nderesarái haʼe mbaʼe oikóva jepiveguápe?"
+    a: "Sapyʼánte hẽe. National Institute on Aging heʼi sapyʼánte oñehundi mbaʼe térã oñemboyke peteĩ kuatia jehepymeʼẽ haʼe jepi manduʼa michĩ. Demencia ndahaʼéi mbaʼe oikóva jepiveguápe. Mbaʼe manduʼa apañuái ombohasýva tembiapo ára ha ára, peteĩháicha mbaʼyrumýi jejapo, pumbyry jeipuru térã óga rape jejuhu, ikatu oñehecha pohanohára ndive."
+  - q: "¿Manduʼa apañuái ikatu ou ambue mbaʼégui, ndahaʼéiramo demencia?"
+    a: "Hẽe. National Institute on Aging omombeʼu tiroides, pitikiriʼái térã akã memby apañuái, pohã rembiapoʼi vai, pyʼaho ha jepyʼapy, vitamina B12 saʼive, kaguy jepuru vai, ke apañuái, mbaʼasy mbyai ha akã ñembyai, ambue apytépe. Heta koʼãva ikatu iporãve oñepohano rire, upévare iporã oñehecha pohanohárape."
+  - q: "¿Ikatúpa rohecha óga guive oĩpa demencia peteĩ tapichápe?"
+    a: "Nahániri. Peteĩ pohanohára katupyry añónte ikatu heʼi demencia oĩpa, oipurúvo tekove rembiasakue, jehecha rete rehegua, manduʼa ha ñeimoʼã jehecha, laboratóriorehegua jehecha ha sapyʼánte akã raʼãnga. Umi jehecha mbykýva pohanohára oipurúva avei ndaikatúi heʼi añónte demencia oĩpa."
+  - q: "¿Mbaʼépa ajapóta peteĩ tapicha oñemokõi sapyʼáramo?"
+    a: "Eheka pytyvõ pyaʼe. Pe ñemokõi sapyʼaite ikatu haʼe delirium, ha VA heʼi haʼe peteĩ mbaʼe oñeñangareko vaʼerã pyaʼe. Ehenói pyaʼe pe tapicha pohanohára térã nde tenda pytyvõ pyaʼe papaha, eime hese, ha ehai umi pohã hoʼúva."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Rehechávo ñemoambue nde manduʼápe térã peteĩ tapicha rehayhúva manduʼápe, ikatu nemondýi. Ko kuatia ikatu ne pytyvõ reikuaa hag̃ua arakaʼépa ejapo peteĩ cita pohanohára ndive ha mbaʼéichapa ñembosakoʼi. Ndaikatúi heʼi oĩpa demencia mavavépe. **Peteĩ pohanohára katupyry añónte ikatu heʼi demencia oĩpa**, ha heta mbaʼe omoambuéva manduʼa ndahaʼéi demencia. Ani ejerovia umi ñeporandu térã jehecha ñandutípe.
 
-## What are the early signs of dementia?
+## Mbaʼe umi demencia ñepyrũha?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) ohechauka 10 ñepyrũha. Peteĩteĩ oñembojoaju peteĩ ñemoambue jepivegua rehe. Ñane ñeʼẽme:
 
-| Sign worth checking | More typical with age |
+| Ñemoambue ikatúva oñehecha | Hetave jey oikóva jepiveguápe |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Manduʼa ñehundi ombohasýva ára ha ára, peteĩháicha nderesarái mbaʼe oiko ramóva térã eporandu jey jey peteĩ mbaʼe | Sapyʼánte nderesarái peteĩ téra térã cita ha upéi nemanduʼa jey |
+| Iñepysangáramo ejapo tembiaporã térã emyatyrõ apañuái, peteĩháicha ehapykueho peteĩ tembiʼu rejapovaʼerã térã eñangareko kuatia jehepymeʼẽ rehe | Sapyʼánte peteĩ jejavy michĩ kuatia jehepymeʼẽme |
+| Iñepysangáramo remohuʼã tembiapo reikuaáva óga, tembiapohápe térã okápe | Sapyʼánte eikotevẽ pytyvõ peteĩ mbaʼe hendyreko térã taʼãngamýi ñongatu hag̃ua |
+| Nderesaráiramo ára, áraʼarýi térã moõpa reime | Ejevýramo arapokõindy rehe ha upéi reikuaa jey |
+| Iñepyrũramo apañuái ehaʼã hag̃ua mombyry, emoñeʼẽ térã eikuaa saʼykuéra | Tesa ñemoambue tesaʼi rehegua |
+| Iñepyrũramo apañuái ñeʼẽ rehe, peteĩháicha epaʼũ ñemongeta paʼũme térã henói vai peteĩ mbaʼe | Sapyʼánte nderejuhúi pe ñeʼẽ rehekáva |
+| Emoĩramo mbaʼe tendaʼípe ha nderejuhúikuaáivo tape eguatávo jey | Sapyʼánte oñehundi mbaʼe ha ejuhu eheka jeyvo |
+| Jejapose vai, peteĩháicha viru térã jeñangareko tee rehe | Sapyʼánte ejapo peteĩ jejapose naiporãiva |
+| Eñemomombyrýramo umi tembiapo vyʼa, tembiapo térã ava atyguasu | Sapyʼánte ndereséiva reho peteĩ aty ogayguáva térã ava atyguasúpe |
+| Ñemoambue pyʼaguasúpe térã tekovépe, peteĩháicha oñepyrũ ñemokõi, jeroviaʼỹ, kyhyje térã jepyʼapy | Eguereko nde jepokuaa ha ndavyʼái oñemoambuéramo peteĩ jepokuaa |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Peteĩ ñepyrũha añoite ndahaʼéi demencia. Iporãva haʼe pe **ñemoambue pe tapicha jepokuaágui**, koʼýte ombohasýramo ára ha ára tekove.
 
-## How is normal aging different from dementia?
+## Mbaʼéicha iñambue pe jepivegua demenciágui?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) heʼi heta tapicha ijedáva ohechakuaa imanduʼa mbeguekuevéva, térã sapyʼánte ohundi mbaʼe térã omboyke peteĩ kuatia jehepymeʼẽ. Koʼãva haʼe jepi manduʼa michĩ. **Demencia ndahaʼéi mbaʼe oikóva jepiveguápe.** Mbaʼe manduʼa apañuái vai ombohasy tembiapo ára ha ára, peteĩháicha mbaʼyrumýi jejapo, pumbyry jeipuru térã óga rape jejuhu.
 
-The NIA suggests talking with a doctor if someone:
+NIA heʼi iporã oñemongeta pohanohára ndive peteĩ tapicha:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Oporandujey jey jey peteĩ mbaʼe
+- Okañy tenda oikuaaporãvape
+- Iñepysanga ohapykueho hag̃ua tembiʼu rape térã tape rape
+- Oñemokõi hetave ára, tapicha ha tenda rehe
+- Noñangarekóivoi hesegue, peteĩháicha hoʼu vai, ndojahuái térã ojapo mbaʼe iñapañuáiva
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Oĩ tapicha oguerekóva **ñeimoʼã apañuái michĩ (MCI)**. Kóva heʼise oguereko manduʼa térã ñeimoʼã apañuái hetave ambue ijedyva rehe, ha katu omboguata gueteri ára ha ára tekove. NIA heʼi MCI ikatu haʼe Alzheimer ñepyrũha, ha katu opavave MCI reheve ndoguerekói upe mbaʼe.
 
-## What else can cause memory problems?
+## Mbaʼe ambuépa ikatu omoambue manduʼa?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Heta mbaʼe, ndahaʼéiramo demencia, ikatu ombyai manduʼa, ha heta iporãve oñepohano rire. NIA omombeʼu:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Tiroides, pitikiriʼái térã akã memby apañuái**
+- **Pohã rembiapoʼi vai**
+- **Pyʼaho ha jepyʼapy**
+- **Vitamina B12 saʼive** térã ndahaʼúiramo tembiʼu porã
+- **Ke apañuái**
+- **Kaguy térã pohã vai jepuru**
+- **Mbaʼasy mbyai, tuguy ñypa térã akãme ruruʼa**
+- **Akã ñembyai**, peteĩháicha akã ñembota
+- **Jepyʼapy vai térã ñeñandu vai**, peteĩháicha tembiapógui jeheja térã oñehundi peteĩ tembireko
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Ehendu térã hecha apañuái ikatu avei ojehecha ñemokõiramo; ehecha ore [ehendu rehegua mboʼepy](/brain-health/hearing/). Upévare iporã oñehecha pohanohárape. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) heʼi pohanohára sapyʼánte ojerure tuguy jehecha ohecha hag̃ua tiroides apañuái, vitamina saʼive ha mbaʼasy mbyai. Iporã avei oñeñeʼẽ [ke porã](/brain-health/sleep/) rehe ha pyʼaho ñepohano rehe.
 
-## Sudden confusion is an emergency
+## Ñemokõi sapyʼaite haʼe mbaʼe oñeñangareko vaʼerã pyaʼe
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Ñemokõi oñepyrũva pyaʼe, aravo térã ára pukukue, oñeñangareko vaʼerã pyaʼe.** Ikatu haʼe delirium. [VA ohechauka delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) haʼe peteĩ mbaʼe oñeñangareko vaʼerã pyaʼe ha heʼi ehenói pyaʼe pe tapicha pohanohára térã nde tenda pytyvõ pyaʼe papaha. Umi mbaʼe ojehecháva apytépe:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Ojupi ha oguejy pe katupyry oñeimoʼã hesakã hag̃ua
+- Iñepysanga oñeñangareko hag̃ua
+- Ñeimoʼã noĩporãiva
+- Oke hetaiterei térã okyhyje ha noñemoĩporãi
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Kóva ikatu oiko avavépe, umi tapicha oikovéva demencia reheve jepe. [NHS](https://www.nhs.uk/symptoms/confusion/) heʼi umi mbaʼe hetave oikóva apytépe oĩ mbaʼasy mbyai (ty ryru mbaʼasy mbyai oiko jepi tapicha ijedávape ha tapicha oikovéva demencia reheve), akã tuguy ñypa, tuguy eʼỹ diabetes reheve, akã ñembyai ha heta pohã. Rehaʼarõ aja pytyvõ, eime pe tapicha ndive ha emomýi chupe ñeʼẽ mbykýpe ha hesakãme. Ani eporandu heta mbaʼe, ha ehai umi pohã hoʼúva.
 
-## How do I prepare for the doctor's appointment?
+## Mbaʼéichapa añembosakoʼi pohanohára rendápe jeho hag̃ua?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Peteĩ cita iporã oñepyrũ jehai porãgui. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) heʼi iporã regueru:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Peteĩ tysýi ñemoambue rehegua** manduʼa, pyʼaguasu ha teko rehe, techapyrã hesakãme ha mboy árape oñepyrũ
+2. **Mbaʼasy orekovaʼekue ha oguerekóva koʼág̃a**, oikehápe ogaygua rembiasakue manduʼa apañuái rehegua
+3. **Opaite pohã jeruréva ha ndajerureivaʼekue**
+4. **Oimeraẽ vitamina térã moĩmbaha**
+5. **Ne porandukuéra**, peteĩháicha mbaʼe jehechapa ojejapóta, mboy ára ipukúta ha arakaʼépa ojehupytýta pe tembiapokue
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Iporã avei regueru peteĩ ogaygua térã angirũ oikuaaporãva pe tapichápe. [NIA omyesakã](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) pohanohára ikatu oporandu pe tapichápe ha peteĩ ogayguápe resãi, pohã, ára ha ára tembiapo ha teko ñemoambue rehe. Pohanohára ikatu avei:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Omeʼẽ jehecha manduʼa, apañuái ñemyatyrõ, jeñangareko, papaha ha ñeʼẽ rehe
+- Ojerure tuguy, ty ha ambue jehecha oheka hag̃ua ambue mbaʼe
+- Ohecha oĩpa pyʼaho térã ambue pyʼa apañuái
+- Ojerure akã raʼãnga, peteĩháicha CT térã MRI
+- Omondo peteĩ katupyrývape, peteĩháicha tapicha ijedáva pohanohára, akã rasy pohanohára, ijedáva pyʼa pohanohára térã akã reko kuaahára
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA heʼi ñeimoʼã jehecha haʼe peteĩ pehẽ Medicare Arypýi Tesãi Jehechápe, ha ikatu haʼe peteĩ ára iporãva oñeñeʼẽ hag̃ua. Umi jehecha mbykýva pohanohára oipurúva avei ndaikatúi heʼi añónte demencia oĩpa. Haʼe peteĩ ñepyrũ oñehecha porãve hag̃ua, ha ikatu oñeikotevẽ hetave peteĩ jeike. NIA heʼi umi tapicha oguerekóva manduʼa apañuái ojevy vaʼerã pohanohára rendápe 6 térã 12 jasy pukukue.
 
-## Raising the subject kindly
+## Mbaʼéichapa oñeñeʼẽ mborayhúpe
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Reñemondýiramo ambue tapicha rehe, eiporavo peteĩ ára kirirĩ ha ñemíme. Eñeʼẽ mbaʼe hesakã rehecha rehe, eñeʼẽ hag̃ua nde reñangareko hese, ndahaʼéiramo peteĩ ñemombeʼu vai. Ejerureramo peteĩ jehecha tuichakue, ikatu ndopytaʼýi chupe. Eike pe tapicha ndive umi jeʼepyre rehe ha eñeʼẽ chupe peteĩ kakuaáva ramo. Ore [ñemongeta mboʼepy](/caregiving/communication-tips/) ikatu ne pytyvõ.
 
-## Talk with a doctor
+## Eñeʼẽ pohanohára ndive
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Rehecháramo ñemoambue manduʼápe, ñeimoʼãme, pyʼaguasúpe térã ára ha ára tembiapópe, haʼéramo pyahu ha oiko meme, ejapo peteĩ cita pohanohára ypyguáva ndive. Ñemokõi sapyʼaite rehe, ehenói nde tenda pytyvõ pyaʼe papaha térã pe tapicha pohanohára pyaʼe. Oñehesa hag̃ua pyaʼe ikatu ojejuhu mbaʼe oñemyatyrõkuaa ha, haʼéramo demencia, oĩ hetave ára oñemboguata ha ojejuhu pytyvõ hag̃ua. Eñangareko avei ndejehe; ehecha ore [ñangarekohára jeñangareko tee mboʼepy](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ko kuatia omeʼẽ marandu tuichakue, ndahaʼéi pohanohára ñemoñeʼẽ. Ehecha ore [pohanohára ñemomarandu](/medical-disclaimer/).

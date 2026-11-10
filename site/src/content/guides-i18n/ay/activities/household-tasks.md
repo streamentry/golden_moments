@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Uta irnaqañanaka demencia uñtat jaqinakan sarnaqañanakapawa"
+seoTitle: "Demencia uñtat jaqinakatakix uta sarnaqañanaka"
+description: "Toallanaka lunthatañ, medias t'aqaña, mesa uchaña ukat sum manq'añ demencia uñtat jaqinakatakix amuyt'awi sarnaqañanakawa. Kunjamasa uñt'ayañ, walt'ayañ ukat wali waxt'añapataki."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Sapa uru irnaqañanaka, kikpaki toallanaka lunthatañ, medias t'aqaña, mesa
+  uchaña, mesanaka ch'uyaña, quqanaka umaña ukat sum manq'añ, demencia uñtat
+  jaqirux chiqpach yanapt'añ thaqhi purinix. Yatiri kunanaka ajllisim, sapa
+  laya ukat sapa kuti luqtasiñ, jan waltʼañ uñjata kunanaka aparasim, ukat
+  "chiqapar" lurañat sipansa, sarnaqañ jan waltʼayañ sum amuyasim.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Yatiri uta irnaqañanakax jaqir amuyt'awinakaniwa, ukat jupax kunjamas lurat sipansa, familia ukan chiqpach utjañapatakix wali sum."
+  - "Sapa irnaqañ sapa lurawinakanakaruw t'aqhisim, uñacht'ayasim janiw arsutaki, ukat jan atipasiñ lurawi ukax ch'ikhiyasa irnaqasim."
+  - "Cuchillonakar, limpieza productonakar ukat detergente pods ukar imt'asim, ukat cocinañ qalltkipan stove knob covers jan ukax apaqat apagasiñ uchasim."
+  - "Lunthat toallanakax jaqi uñjata jan kutirt'añapäkiti. Yanapt'añasa kuti lurasiñasa, qhipäxan ukat jupa jan uñjkañapataki lurasim."
+  - "Irnaqañax jan kusisiyañ jaqiruw purinixa, nayra lurawi jan ukax sayt'asiñ jan ukat sapa kuti qhipharu jakasiñ."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "¿Kunas uta irnaqañanakan demencia uñtat jaqix chiqpach yanapt'ayañ atipaspa?"
+    a: "Walja jaqinakax toallanakar lunthatañ, medias t'aqañ, cuchara ukat tenedor uñt'añ, mesa uchañ, mesa ch'uyañ, p'uluña, ch'alltañ, quqanakar umañ ukat masa k'arsuñ atipapxi. Nayra lurat irnaqañanakar ajllisim, ukat jupax kunsa ukhamarak atipaspa uka ukar uñjasim. Qhipa pachanakan, sapa kuti luqtañ irnaqañax, dpi., servilleta uñt'añax, ukax walikiñapawa."
+  - q: "¿Demencia uñtat jaqix cocinan yanapt'añax seguro?"
+    a: "Chiqpach ukhamawa, ukat qhanañ uñjasiñ ukat wali uñtat uñjasiñ utjañapawa. Cuchillonak, limpieza productonak ukat kunanaka qhasu jan atipasiñapataki imt'asim, stove knob covers jan ukax apaqat apagasiñ uchasim, ukat sapa jaqir seguro irnaqañ churasim, dpi., verdura ch'uyaña, k'arsuña jan ukax platonak uchaña. Janiw stove kuna jaqi sapaki jaytañamati."
+  - q: "¿Kunas uka jaqi jan walt'ayañ jan ukax q'ara lurasi ukhaxa?"
+    a: "Jan kunsa sarañamati. Amtañaxa mayni pachax jakañ ukat yanapt'añ jaqi sum amuyasiñ, janiw chiqapar lurañapataki. Kunaymana chiqapar lurañapatakix, qhipäxan ukat jupa jan uñjkañapataki lurasim, ukhamat jan jiskt'asiñapataki."
+  - q: "¿Kunas uka jaqi yanapt'añ jan munaspa ukhaxa?"
+    a: "Jan sasa arsuñax, irnaqañax jichhürux jaqi jan sum amuyañapäki, jan ukax askichañ ukat jan kusisiyañ utjañapawa. Jan mayt'asim. Juk'amp sasa irnaqañ yritam, jupar sarnaqañ ukat jupa kuna jaqi muspharañanakar utjañapataki, jan ukax uru sum apasiñ qhipharu mayt'asim."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Walja demencia uñtat jaqinakax maya tuqinakan utax irnaqapxi, familiar uñjasiñ jan ukax trabajo ukan sarnaqapxi. Uta irnaqañanakan yanapt'añax, "jumax janiw uta lurawinakat jithiqtatäkiti" sasaw amuyayistu, ukat jani yaqhip sarnaqañanakas ukham amuyayistu. Akax kuna irnaqañanakas wali sum sarañ, kunjamasa uñt'ayañ, kunjamasa qhipäx pachanakan lurañ ukat cocina ukat lavandería seguro uñjañ yatiñani.
 
-## Why do everyday chores work well as activities?
+## ¿Kunatsa uta irnaqañanakax sarnaqañanakan wali sum?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Uta irnaqañanakax familiar ukat amtampi utjañapatakix wali sum. National Institute on Aging yatiyañaxa, mesa uchaña, p'uluña, qhathañ, mesanaka ch'uyaña, cartas t'aqaña, toallanaka lunthatañ ukat reciclaje t'aqaña sarnaqañanakaw [Alzheimer uñtat jaqinakan sarnaqañanaka](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ukanakan sutiparu. Alzheimer's Association yatiyañaxa, mesa uchañ ukax jaqir [utan wali qhanañ chuymani mayni](https://www.alz.org/help-support/caregiving/daily-care/activities) sasaw amuyayi.
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Uta irnaqañ ukax qalltañatakix sum amtayañ utjañapawa. "¿Jumax toallanak yanapt'askaspa?" sasa arsuñax, "¿Sarnaqañ munasmati?" sasa arsuñat sipansa, sayt'añ juk'ampi.
 
-## Which household tasks are good to try?
+## ¿Kuna uta irnaqañanakas wali sum uñjasiñ?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Nayra lurat irnaqañanakar ajllisim, ukat jichhürux jaqi atipasiñ uka ukat yatiñ.
 
-### Laundry and linens
+### Lunthat toallanaka ukat t'aqañ
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Toallanak ukat k'achanak lunthatañ.** Juk'a, lanq'u toallanak canasta ukan churasim. Toallanakax jan wali chhaqtayañ utjañapawa: janiw sum jan lunthatañ kunapachas utjkiti.
+- **Medias t'aqaña.** Mesa ukan nayra kipka medias churasim. Jupanakax juk'ampi jan amuyasa ukhaxa, pay jan sapa layanakampi t'aqañ.
+- **Lanq'uchañ ukat wali t'aqañ.** Servilletas, almohadas ukat trapo toallanak lanq'uchasim ukat t'aqasim. Akax qhipäxan wali sum, lunthatañax janiw ukjaxa atipasiñapkiti ukhaxa.
 
-### Table and kitchen
+### Mesa ukat cocina
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Mesa uchaña.** Pay uchañ uchaña uñjañapataki, jupa uñjata uchañ thaqasim. Jan ukax sapa kuti mantañ churasim: "Akax sapa platopatakix tenedor."
+- **Cubiertos t'aqaña.** Mayni tenedor, cuchara ukat cuchillo juk'anak sapa tacho ukan mixtasim, ukat bandeja ukan t'aqasim. Jilt'a cuchillonakar jan ukax khuchhinak imt'asim.
+- **Platonak chaqtaña.** Plástico jan ukax jan kuchu platonak ukat wali trapo toallanak irnaqañax seguro.
+- **Mesa jan ukax mesanaka ch'uyaña.** Yunt'a trapo ukat jan qhast'at uñjat uñtat. Alzheimer's Association yatiyañaxa, jaqi mesa ukar mayt'asi ukhaxa, trapo churañax jaqi jan amtat kinsa mayt'asiñ lurañ ukar sum irnaqañaruw tukuyañ.
 
-### Around the house
+### Utan ukat uta pacha
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Ch'ikñ ch'uyaña.** Juk'a escoba ukat wali sayt'at mesa jan ukax estante ukan.
+- **Cartas t'aqaña.** Jan wali cartanak ukat catálogo ukanak t'aqasim: waqt'añ, reciclaje, qhipäx uñjañ. Chiqapar banco jan ukax cheque ukanak yaqhipa uchasim.
+- **Reciclaje t'aqaña.** Limpio latanak, botellanak ukat papel sapa cajanakan mixtasim.
+- **Escoba ukat ch'uyaña.** Juk'a escoba, patio jan ukax cocina ukan, sayt'at jaqi purirkañapataki.
+- **Qurinak umaña.** Juk'a, lanq'u regador ukat jupa sapa uñjañapataki qurinak jan jaqhtayañ uchasim.
 
-### Simple cooking with supervision
+### Cocina sapa uñjasiñ ukan sum lurañ
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Cocina ukax wali sum amuyt'awinak sartayaspa. NIA yatiyañaxa, jaqi uñtat amtañ manq'añ ukat jiwasan yatiñ ukat yanapt'añ. Akanakax wali irnaqañanakawa:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- verdura jan ukax fruta ch'uyaña
+- masa jan ukax ensalada fría ukan lanq'uchaña
+- lechuga p'iqisaña
+- pan ukan mantequilla uchaña jan wali cuchillo ukampi
+- galletanaka bandeja ukan churaña
+- pizza ukan topping uchaña
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Medida lurañax jan sum ukhaxa, Alzheimer's Association yatiyañaxa, jumax medidax tukuyam ukat jupar luqtañ jukʼa irnaqaña mayt'asim, sapaqañ lanq'uchaña ukham.
 
-## How do I set up a chore so it goes well?
+## ¿Kunsa irnaqañ sum sarañapataki uñt'ayaña?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Pacha ajllisim.** Jaqi wali samaraña ukat amuyasiñ pachax ajllisim. Walja jaqinakatakix akax uruw.
+2. **Ukar lipt'añ.** Sapa irnaqañ, sapa mesa, mayni jan uñjañ.
+3. **Mayt'asim, jan kamachañ.** "Akax yanapt'asmawa munaskituwa" sasa arsuñax, "Toallanak lunthatañ pachawa" sasa arsuñat sipansa, wali sum.
+4. **Nayraqat uñacht'ayasim.** Toalla juk'a juk'a lunthatasim, ukatxa jupar mayt'asim. Uñacht'ayañax arsuñat sipansa, wali sum uñjasiñ.
+5. **Sapa lurawi.** Walja arsutanakax jaqir jan atipasiñapataki. Sapa lurawi tukuyañkamaw agarasim, qhipäx lurawir sarañataki.
+6. **Chiqa chiqa irnaqasim.** Kuna irnaqañ ukat chiqpach jumamp sapa mesa ukan lurasiñax, uñjaña jan ukax kuttaña uñjataki.
+7. **Irnaqañ ukat parlasim, jan lurat ukat.** "Akanakax wali sum thaqhasi" jan ukax "Lino ukar kunjamasa wali uñtasmati?" sasa arsuñax, jaqi sum parlañ ukat jan uñjañ.
 
-## How do I adapt chores as abilities change?
+## ¿Kunjamasa uta irnaqañanakax qhipäxan mayjtʼayasiñ?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Atipasiñax pachamp, uruw sapa uruw mayjtʼayi. Alzheimer's Association yatiyañaxa, demencia jiwasan chiqar sarañ uka uñjataki, sasa irnaqañanakar jan wali ukat sapa kuti luqtañ sum uchañ.
 
-| If this has become hard | Try this instead |
+| Jichhür jan atipasiñ uka | Ukax lurañ |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Jach'a sábanas lunthatañ | Juk'a toallanak jan ukax servilletas lanq'uchañ |
+| Taqi mesa uchañ | Sapa asiento ukan juk'a servilleta churañ |
+| Cartas t'aqaña sapa laya | Sobres lanq'uchañ juk'a pilanu |
+| Receta arxataña | Masa k'arsuña, jan ukax lurañ uñjañ ukat katxaña |
+| Taqi utjan escoba | Juk'a mesa jaqhtaña |
+| Irnaqañ sapa ukat jan lurañ | Jumamp sarnaqañ ukat jumamp kuttaña irnaqañ uñjaña |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Uñjañax jan ch'amapa. NIA yatiyañaxa, walja jaqinakax uñjañ kusisiyapxi, ukax wali sum sarañawa.
 
-## How do I keep household tasks safe?
+## ¿Kunjamasa uta irnaqañanaka seguro uñjasiñ?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Seguridad nayraw utjaña, khitisa cocina ukan. [Home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ukan NIA yatiyañaxa, akanakax utjapxi:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Limpieza productonak, detergente pods uka jan ukax dulces uñtat uñjat uka, imt'asim jan ukax apaqat apagasim.
+- Cuchillonak, tijera ukat herramientanak cerradura ukan imt'asim.
+- Stove ukan safety knobs ukat automatic apagado churasim.
+- Horno, tostadora ukat plancha ukan "Stop" jan ukax "Very hot" letreronak churasim, nina jan ukat jan nina mayt'asiñapataki.
+- Calentador ukan 49°C ukar uñt'asim, ukhamat jan k'anchaskañapataki.
+- Jan chiqa fruta ukat comida uñtat imanakanak apaqasim, jan ukax jaqi jan uñjasiñapataki.
 
-A few more practical habits help:
+Yaqha sum lurawinakax:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Stove, horno jan ukax sum jiwasan tool ukar lurasa, jumax sapa kuti ukan utjasim.
+- Platonak chaqtaña ukat mesa uchañ ukhamarak jan kuchu platonak apasim.
+- Ch'uyaña jan ukax escoba ukat qhipäxan lurasa, sayt'at jaqhtañ ukat sayt'at wasitat uñjasim.
+- Jaqi nayra herramientanak lurasa ukhaxa, Alzheimer's Association yatiyañaxa, jan wali apaqasiñ taller ukat sapa sum irnaqañ, dpi., madera lijar, lurasiñapataki.
 
-## What if they do it "wrong"?
+## ¿Kunsa "jan sum" lurasa ukhaxa?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Jan amuyasim. Toalla kimsa parti lunthatata, jan jaya parti ukat, mayni toalla lunthatata. Alzheimer's Association sasaw sisi: wali amtañ ukat jaqi utjañapataki, jan toallanakax sum lunthatata ukat jan. Kunaymana chiqapar lurañapatakix, qhipäxan ukat jupa uñjkañapataki lurasim.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Sapa pachan chiqañchayañax, pacha irnaqañ kusisiyaña ukat jupa kuna chhaqtayatan uka amtaña. "Yuspara, akax wali yanapt'äta" sasa arsuñax, mayni ukax wali sum.
 
-## When should we stop?
+## ¿Kunapachas sayt'asiñ?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Jupa khiti ukat khitinakas jan kusisiñ, jan ukax jan atipasiñ uñjasa, sayt'asim jan ukax yaqha lurawir mayt'asim. Jan ukat qhipäxan sayt'asiñax jan jan sum utjaña; jupax wali sum. Akanakax lurasiñ:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- juk'a sum lurawi mayt'asim
+- musica jan ukax cafecito ukar sarnaqañ jaqhtañ
+- qhipäxan jan ukax yaqha uruw luqtasiñ
+- sapa kuttaña
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Jaqi jan sasa arsuñ ukhaxa, jan mayt'asim. [Jan sasa arsuñax kunjamasa lurañ](/caregiving/when-they-say-no/) ukar uñjasim.
 
-## Low-effort extras for a quieter moment
+## Juk'a irnaqañanaka jan sapa kuti uñjañataki
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Jan lurañ ukat jan atipasiñ ukhaxa, pallt'añ ukat lanq'uchañ jaqhsiñ sapa kuti sarnaqañaw. [Sort Together](/games/sort-together/) ukax jumar uñjañ ukat cocina jan ukax huerta canasta ukan pichanak ch'iqañ, [Picture Pairs](/games/picture-pairs/) ukax jani timer, jach'a pichanakampi lanq'uchañ sarnaqañaw, [Conversation Cards](/games/conversation-cards/) ukax uta ukat familia parlañ tuqinak ukar uñjañ, irnaqañ tukuyatata cafecito ukar wali sum.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Uru uñt'ayañ ukat uta irnaqañ, [sum uru sarnaqañ](/activities/daily-routine/) ukar uñjasim. Pachapacha phasi ukar yaqha ideanakax, [middle-stage activities](/activities/middle-stage/) ukar uñjasim.

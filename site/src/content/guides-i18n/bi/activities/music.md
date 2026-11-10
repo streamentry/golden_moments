@@ -1,32 +1,34 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Miuzik Aktiviti Blong Ol Man mo Woman we Oli Stap Laef wetem Dementia"
+seoTitle: "Miuzik Aktiviti Long Dementia: Lis Singsing mo Aedia"
+description: "Fasin blong sherem miuzik wetem man o woman we oli stap laef wetem dementia: wokem wan lis blong ol singsing blong hem long taem blong yangfala, fet mo famili, 15 simpol miuzik aktiviti, mo tips blong evri stej."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Miuzik i wan long ol aktiviti we i isi moa blong sherem wetem man o woman we
+  oli stap laef wetem dementia. Wokem wan lis blong ol singsing we oli bin
+  stap long taem blong yangfala, long lotu mo long famili. Plei olgeta samting
+  wetem no gat ol advertisment o narafala noes. Singsing, klepim, haf mo jes
+  lisin, evri wan oli ken i tekpat. Jusum miuzik we i kwaet o we i gat laef,
+  long rong taem. Holem volum i isi, mo stopem sipos wan singsing i mekem hem
+  sore.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Miuzik we i gat minin long man o woman i moa gud: ol stael we hem i laekem taem hem i yangfala, mo miuzik blong lotu, kastom mo ol spesol taem blong famili."
+  - "Plei wan samting wan taem, no gat ol advertisment mo TV i olsem ol."
+  - "Singsing, klepim, haf mo jes lisin, olgeta oli ken i wan ptt blong tekpat."
+  - "Yusum miuzik we i kwaet blong mekem hem i kwaet, mo miuzik we i gat laef blong mekem hem i hapi, mo lukaotem hao man ya i rispondem."
+  - "Ol risej long ol sesin blong miuzik we oli plan i no stap moa; mifala i talemaot se miuzik i samting we i plesen blong sherem, i no trit."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Wanem kaen miuzik i moa gud long man o woman we i gat dementia?"
+    a: "Miuzik we man ya i save long hem i lelebet taem, we oli bin laekem long taem blong yangfala, oftenas long taem we hem i gat 13 ko 20 krismas. Sipos i gat hem, letem hem i jusum. Lukluk long fes mo bodi blong hem blong save wanem hem i laekem, mo lusim wanem we i mekem hem i sore."
+  - q: "Eniwe mi shud yusum hedfon?"
+    a: "Sam man oli laekem hedfon from i blokem ol noes, be ol narafala oli no fil gud long hem o oli no save. Traem spika fastaem blong yufala i ken lisin tugeta. Sipos yu yusum hedfon, holem volum i isi mo stap klosap."
+  - q: "Miuzik i ken helpem long restlesnes o long sore?"
+    a: "Miuzik we i kwaet mo we man i save long hem i ken helpem blong mekem wan kwaet fil, mo Alzheimer's Association i sujestem blong yusum miuzik blong mekem atmosfia we yu wantem. Hem i no wok evri taem. Sipos man i stap sore, lukluk tu sipos hem i gat pen, i hangre, i harem noes o i taed."
+  - q: "Ol man mo woman we oli stap long laswan stej blong dementia oli ken stil enjoe miuzik?"
+    a: "Plante oli ken. Alzheimer's Association i talemaot se man long laswan stej i ken stil taepem bit o singsing wetem song we hem i bin save long taem blong pikinini. Sitdaon klosap, plei miuzik i isi, mo holem hand blong hem o haf tugeta."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +47,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Miuzik i wan long ol samting we i isi moa blong sherem wetem man o woman we oli stap laef wetem dementia. Hem i no askem yu blong gat ol rong ansa o blong folem ol stap. Wan singsing we hem i save long hem i ken mekem hem i smael, i ken taepem fut blong hem, o hem i ken singim sam wes wetem yu, even long wan dei we toktok i hard. Yu nidim jes miuzik we i stret long man ya, mo wan kwaet taem blong plei hem.
 
-## What music activities work for people with dementia?
+## Wanem miuzik aktiviti i wok gud long ol man mo woman we oli stap laef wetem dementia?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Lisin, singsing, klepim, haf mo toktok long miuzik, evri wan oli wok gud. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i sujestem blong plei miuzik, toktok long miuzik mo long man we i singsing, singsing o danis long ol save singsing, mo go long ol konsat o ol miuzik program long komuniti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) i ademem se muvmen olsem klepim o danis i ken mekem hem i moa gud, mo se miuzik i ken wan rod blong konektem taem ol toktok i kamap hard.
 
-## How do you build a personal playlist?
+## Hao yu blong wokem wan personal lis blong singsing?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Samting we i moa yusful we yu ken mekem hem i wan lis blong miuzik we i gat minin long man ya. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i talemaot tu miuzik we i gat personal minin. Hia i wan simpol rod blong wokem wan.
 
-### Start with their life
+### Stat wetem laef blong hem
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Taem blong teenage mo blong yangfala.** Tingting long wanem we oli plei long redio, long danis mo long ol movi taem hem i yangfala.
+- **Big taem.** Miuzik long maret blong hem, fes danis, o album we famili oli laekem long trip.
+- **Lotu mo kastom.** Ol himn, gospel, miuzik blong lotu, o ol singsing long ol fastok langwis blong hem.
+- **Wok mo sav.** Band blong mach, ol wok singsing, o miuzik we i kanekt wetem wan taem long ami.
+- **Wanem famili i save.** Askem ol brata mo sista, pikinini mo ol olfala fren wanem oli bin alwe plei o singim.
 
-### Think in genres, not just songs
+### Tingting long ol kaen miuzik, no jes ol singsing
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Sipos yu no save wea blong stat, traem sam minit long ol kaen ya mo lukluk long rispons: big band mo swing, doo-wop, Motown mo soul, earli rock and roll, kantri mo western, bluegrass, gospel mo himn, Broadway show tunes, jazz standards, Latin miuzik olsem bolero o mariachi, polka, folk mo klasikol. Holem wanem we i mekem hem i smael o taepem fut; lusim wanem we i mekem hem i sore.
 
-### Make it easy to play
+### Mekem i isi blong plei
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **No gat advertisment.** Alzheimer's Association i warnem se ol advertisment i ken mekem konfiuzen. Yusum ol miuzik we yu bin daonlodem, CD, rekod o wan servis we no gat advertisment.
+- **Wan simpol divaes.** Wan spika wetem wan bigfala bataen, o wan playlist we i redi finis, blong eniwan i ken stat hem.
+- **Tu slod lis.** Wan kwaet lis blong sedaon mo wan lively lis blong liftem fil.
+- **Raetem nem.** Raetem nem blong man ya mo "miuzik we i laekem" long divaes, blong ol famili we oli kam mo ol wokman blong kea oli ken yusum hem tu.
 
-## 15 music activities to try
+## 15 miuzik aktiviti blong traem
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Lisin tugeta.** Sitdaon sans long sam wetem no wan narafala samting i stap go. Lisin hem i wan fulfulfala aktiviti.
+2. **Singim wetem hem.** Stat singim yu wan. Humim o makem ol tok i gat sans tu.
+3. **Klepim o taepem bit.** Patem ol ni, taepem tebol, o yusum wan smol hand drum o shaker.
+4. **Slow danis.** Holem han mo swe long kitjen, o danis long jea, muvim han tugeta.
+5. **Sikaf danis.** Wevem ol laet sikaf long bit blong miuzik, we yu stap o yu sitdaon.
+6. **Toktok long miuzik.** Invaetem, no testem: "Dis i olsem wan danis holo. Tellem mi long ol danis." Nevà askem "Yu rimemba dis singsing?"
+7. **Plei wan album hol.** Putum wan rekod we hem i bin laekem, from stat kasem finis, wetem kofi.
+8. **Lukluk long album kava.** Ol ol kava blong rekod blong taem i gud blong toktok long fasen, ka mo fes.
+9. **Wajem wan muzikol.** Wan filmd muzikol o konsat long taem blong hem i mekem wan gud evening. Stopem blong sam rest.
+10. **Plei wan instruman we hem i save.** Wan fes pianist o gitarist i ken laekem simpol plei. Afta, pikim sam noten tugeta i stret finis.
+11. **Miuzik taem oli wok.** Plei ol singsing we hem i laekem taem yu fouldem laondri o setem tebol.
+12. **Moning singsing.** Stat evri dei wetem sem hapi singsing olsem wan pat blong rutin.
+13. **Singim himn o miuzik blong lotu.** Plei miuzik long fasten blong lotu mo singim tugeta.
+14. **Joenem wan singsing grup.** NHS i talemaot se ol singsing grup i gud blong fil mo gudfala stetes. Askem long komuniti abaotem ol dementia-frendly kwaea.
+15. **Go long laef miuzik.** Wan smol konsat long komuniti o wan aotdoa band. Sidaon klosap long aot mo go long eni taem yu laekem.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Sipos yu wantem wan lait aktiviti blong tok-plei wetem ol save fres, traem [finish the saying](/games/finish-the-saying/), we yu ken alwe soem en blong tok.
 
-## Matching music to the moment
+## Matjing miuzik long rong taem
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association i sujestem blong yusum miuzik blong mekem atmosfia we yu wantem: miuzik we i kwaet blong mekem wan pis atmosfia, mo wan singsing we i hapi long taem blong yangfala blong lifim spirit.
 
-| Moment | Try | Tip |
+| Taem | Traem | Tip |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Kirap | Wan singsing we man i save long hem, we i hapi | Sem singsing evri moning i kamap wan isi sain |
+| Wok long haos | Ol favrit we i hapi | Miuzik i ken mekem wok i fil olsem i gat kampani |
+| Kaikai | Soft instrumental miuzik | Holem i kwaet blong hem i no kompitim kaikai |
+| Let aftenun | Kwaet, miuzik we i save long hem long gud laet | Lukluk [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Taem blong slip | Slow, isi miuzik | Lusim volum mo laet i go daon tugeta |
+| Laswan stej | Ol singsing we hem i laekem moa, i very soft | Sitdaon klosap mo holem han |
 
-## Tips for a good experience
+## Tips blong wan gud eksperiens
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Stopem ol narafala noes.** Alzheimer's Association i sujestem blong serem ol windo mo doa mo tanem TV i ofu blong miuzik i stap wan nomoa noes.
+- **Holem volum i isi.** Miuzik i mas i gud long ia, no i loud. Sipos man i yusum hiring eid, mekem sua se oli stap insaed mo oli wok; lukluk [hearing](/brain-health/hearing/).
+- **Lukaotem ol sed tingting.** Sam singsing i ken kamaotem sore, faet o les. Sipos wan singsing i mekem hem i sore, kam kea long hem mo jenisim singsing.
+- **Letem hem i lidim.** Sipos i gat hem, letem man ya i jusum miuzik, mo akseptem sipos hem i talem no.
+- **Stopem eni taem.** Faev minit blong miuzik i wan gud aktiviti. Mo tu, ofem hem mo sitdaon kwaet i gud.
 
-## What does the research say about music and dementia?
+## Wanem ol risej i talem abaotem miuzik mo dementia?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Ol risej oli no plante yet. Wan [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) i lukluk long 30 stadi long ol sesin blong miuzik we oli plan, we plante long grup long ol nursing hom. I faenem se ol sesin ya i probabli i helpem smol long ol sign blong sed fil, komperem long ol usual kea, be i no faenem wan klia efkt long agitesen, gudfala fil, o tingting mo memori, mo i no gat ol efkt we i stap afta ol sesin finis.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Mifala i sherem miuzik from hem i wan plesen mo low-pressure rod blong spendem taem tugeta, i no olsem trit. Long ol grup seting, lukluk [care home group activities](/activities/care-home-groups/); long yusum miuzik wetem ol fotos mo ol stori, lukluk [reminiscence activities](/activities/reminiscence/).

@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Aktivnosti i igre za osobe s Alchajmerovom bolešću"
+seoTitle: "Aktivnosti i igre za Alchajmerovu bolest: ideje po fazama"
+description: "Aktivnosti i igre za osobe s Alchajmerovom bolešću u svakoj fazi, zasnovane na vještinama i sjećanjima koja često dugo ostaju, uz besplatne igre."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Dobre aktivnosti za osobu s Alchajmerovom bolešću oslanjaju se na ono što
+  najduže traje: dugo uvježbane vještine, stare pjesme, poznate kućne poslove i
+  čula. U ranoj fazi kartanje, društvene igre, kuvanje i izleti često i dalje
+  dobro funkcioniraju. U srednjoj fazi pokušajte sa savijanjem, razvrstavanjem,
+  pjevanjem, albumima s fotografijama i jednostavnim igrama sa slikama. Kasnije
+  u bolesti najvažniji su muzika, dodir i prisustvo drugih. Vodite se time kako
+  je osoba danas.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alchajmerova bolest je najčešći uzrok demencije, pa se ideje za aktivnosti kod demencije odnose i na nju."
+  - "Nove informacije su obično najteže za zadržati, dok vještine i pjesme naučene davno često duže ostaju. Oslonite se na njih."
+  - "Faze se preklapaju, a dobri i teški dani su normalni. Birajte prema onome što osoba danas može i voli."
+  - "Birajte igre bez tajmera, bodova i kviza, i neka slike ostanu vidljive."
+  - "Gledanje, držanje nečega ili jednostavno sjedenje zajedno također znači učešće."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Koje aktivnosti su dobre za osobu s Alchajmerovom bolešću?"
+    a: "Poznate aktivnosti, malo pojednostavljene: slaganje veša, postavljanje stola, zajedničko kuvanje, muzika i pjevanje, gledanje fotografija, šetnja, baštovanstvo i vrijeme s kućnim ljubimcem. Jednostavne igre sa slikama, lagane slagalice i kartice za razgovor također mnogima odgovaraju. Birajte ono što je osoba oduvijek voljela i radite to zajedno s njom."
+  - q: "Da li su igre dobre za osobe s Alchajmerovom bolešću?"
+    a: "Igre mogu biti ugodan način da provedete vrijeme zajedno ako ih osoba voli. Nije dokazano da i jedna igra liječi, usporava ili zaustavlja Alchajmerovu bolest, pa birajte igre radi zadovoljstva: velike slike, malo izbora i bez tajmera, bodova ili zvukova za pogrešan odgovor."
+  - q: "Postoji li razlika između aktivnosti za demenciju i aktivnosti za Alchajmerovu bolest?"
+    a: "Uglavnom ne. Alchajmerova bolest je najčešći uzrok demencije, pa se iste ideje za aktivnosti primjenjuju. Ono što pomaže kod Alchajmerove bolesti jeste znanje da se nedavna sjećanja obično prva gube, pa aktivnosti zasnovane na starijim vještinama, pjesmama i navikama često protiču lakše."
+  - q: "Šta osoba u kasnoj fazi Alchajmerove bolesti još može da uživa?"
+    a: "Omiljenu muziku, nježnu masažu ruku, mekane stvari za držanje, čitanje naglas, sjedenje na svježem zraku i društvo nekoga kome vjeruje. Neka bude kratko i mirno, a pratite lice i tijelo osobe da vidite šta joj prija."
+  - q: "Kako da osobu s Alchajmerovom bolešću zainteresujem za aktivnost?"
+    a: "Zamolite za pomoć umjesto da najavite aktivnost, sve pripremite unaprijed i započnite sami da se osoba može pridružiti. Izbor doba dana kada je osoba najbolje raspoložena pravi je veliki razlika. Ako kaže ne, pokušajte kasnije ili ponudite manju verziju."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ako neko koga volite ima Alchajmerovu bolest, vjerovatno ste već primijetili da se neke stvari brzo gube, dok se druge drže. Možda neće zapamtiti jutrošnji telefonski poziv, ali će svaku riječ pjesme pjevati bez razmišljanja, složiti peškir kako je oduvijek radio ili podijeliti karte bez oklijevanja. Dobre aktivnosti grade se upravo na tim vještinama koje ostaju. Ova stranica objašnjava zašto, zatim daje ideje za svaku fazu i navodi besplatne igre na ovom sajtu koje im odgovaraju.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Da li se Alchajmerova bolest razlikuje od demencije kada su u pitanju aktivnosti?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Ne mnogo. Demencija je krovni pojam, a Alchajmerova bolest je njen najčešći uzrok: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) navodi da je ona uzrok 60 do 80 posto slučajeva demencije. Gotovo sve što je napisano o aktivnostima kod demencije važi i za Alchajmerovu bolest, uključujući naših [101 ideju za aktivnosti](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Korisno je znati uobičajen redoslijed promjena. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) objašnjava da Alchajmerova bolest prvo oštećuje dijelove mozga koji su uključeni u pamćenje, a kasnije utiče na jezik, rasuđivanje i društveno ponašanje. Alzheimer's Association kaže da je najčešći rani simptom teškoća da se zapamte nedavno naučene informacije. Svi su različiti i mnogi ljudi imaju mješovite uzroke, ali ovaj obrazac oblikuje ono što obično funkcioniše.
 
-## What kinds of activities suit Alzheimer's best?
+## Koje aktivnosti najbolje odgovaraju Alchajmerovoj bolesti?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Aktivnosti koje se oslanjaju na staro, dobro uvježbano znanje obično protiču lakše od onih koje traže da se nešto novo nauči i drži u pamćenju.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Dugo uvježbane vještine.** Alzheimer's Association napominje da osoba i dalje može svirati jednostavne pjesme naučene na klaviru prije mnogo godina. Slično je s pletenjem, brušenjem drveta, miješanjem karata, mijesenjem tijesta i slaganjem veša.
+- **Stare pjesme i poznata muzika.** Mnogi ljudi i dalje znaju svaku riječ pjesama iz mladosti, crkvenih pjesama i pjesama s vjenčanja. Pogledajte [aktivnosti s muzikom](/activities/music/).
+- **Svakodnevni poslovi sa svrhom.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) navodi pranje sudova, postavljanje stola, razvrstavanje čarapa i slaganje veša među aktivnostima koje ljudi mogu voljeti. Osjećaj da su korisni je važan.
+- **Prepoznavanje umjesto prisjećanja.** Pokazati odgovarajuću sliku lakše je nego se sjetiti njenog naziva. Zato igre sa slikama, gdje su sve stvari vidljive, bolje funkcionišu od kvizova.
+- **Čula.** Tekstura, miris, toplina, ukus i zvuk ostaju značajni dugo nakon što riječi postanu teške. Pogledajte [aktivnosti za čula](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Ono što obično ide lošije: sve što ima sat, nova pravila koja treba naučiti, mnogo koraka koje treba zapamtiti ili pitanja koja testiraju pamćenje, kao što je „Sjećate li se ko je ovo?“. Takve stvari stavljaju težak dio Alchajmerove bolesti u prvi plan.
 
-## Activities for early-stage Alzheimer's
+## Aktivnosti za Alchajmerovu bolest u ranoj fazi
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+U ranoj fazi, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) kaže da osoba i dalje može voziti, raditi i učestvovati u društvenim aktivnostima, dok primjećuje propuste u pamćenju, kao što je zaboravljanje poznatih riječi ili mjesta gdje su stvari. Najbolji pristup je partnerstvo: pitajte šta želi i dalje da radi i kakvu pomoć bi željela.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Nastavite s postojećim hobijima.** Golf, bridž, pravljenje patchwork jorgana, hor i crkvene grupe, uz male prilagodbe kao što su manje grupe i mirnije vrijeme.
+2. **Igrajte poznate kartaške i društvene igre.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) navodi kviz, pretragu riječi, kartaške i društvene igre za ranu fazu. Igrajte kao tim ako ih brine bodovanje, ili ga potpuno izostavite.
+3. **Kuvajte zajedno.** Neka vode recept koji znaju napamet, dok vi čitate korake.
+4. **Započnite projekat životne priče.** Fotografije, recepti i priče u albumu koji oni vode. Pogledajte [aktivnosti za prisjećanje](/activities/reminiscence/).
+5. **Idite u izlete.** Omiljeni restoran u tiho doba dana, kratka posjeta muzeju, šetnja parkom.
+6. **Probajte slagalice koje sami biraju.** Ukrštene riječi velikim slovima, pretrage riječi i slagalice. Pogledajte [slagalice za demenciju](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Više ideja: [aktivnosti u ranoj fazi](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Aktivnosti za Alchajmerovu bolest u srednjoj fazi
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association opisuje srednju fazu kao obično najdužu i kaže da može trajati mnogo godina. Riječi se miješaju, frustracija dolazi lakše i osoba treba više njege. Alzheimer's Foundation of America dodaje da mnogi ljudi trebaju pomoć da započnu ili nastave aktivnosti. Vaša uloga se mijenja: pripremate stvari, pokazujete umjesto da objašnjavate i preuzimate teške dijelove.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Savijajte, razvrstavajte i upoređujte.** Peškire, čarape, pribor za jelo, dugmad po boji. Pravi poslovi, rađeni jedno uz drugo.
+2. **Pjevajte i krećite se uz muziku.** Pljeskajte, ljuljajte se ili plešite u kuhinji. Počnite sami da pjevate i pustite ih da se pridruže.
+3. **Gledajte albume s fotografijama.** Opisujte šta vidite i pozovite na priče: „Kakav auto. Recite mi o njemu.“ Pratite imena koja koriste.
+4. **Igrajte jednostavne igre sa slikama.** [Parovi slika](/games/picture-pairs/) sa četiri do šest pločica i slikama koje ostaju vidljive, ili [Pronađi isto](/games/find-the-same/) s dva ili tri izbora.
+5. **Dovršavajte poznate izreke.** „Jabuka dnevno, doktor ne treba...“ Izreke naučene davno često dolaze lako. Probajte [Dovrši izreku](/games/finish-the-saying/), gdje možete pokazati bilo koji završetak jednim dodirom.
+6. **Zalivajte i njegujte biljke.** Saksije u kući ili podignuta gredica, uz malu kantu za zalivanje.
+7. **Napravite igru uparivanja od porodičnih fotografija.** [Parovi fotografija](/games/photo-pairs/) koristi slike koje sami odaberete na uređaju, a one ga nikada ne napuštaju.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Više ideja: [aktivnosti u srednjoj fazi](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Aktivnosti za Alchajmerovu bolest u kasnoj fazi
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+U kasnoj fazi, Alzheimer's Association kaže da ljudi gube sposobnost da reaguju na okolinu i da vode razgovor, mada i dalje mogu izgovoriti pojedine riječi ili fraze. Aktivnost sada znači utjehu i povezanost, donesene tamo gdje osoba odmara.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Pustite omiljenu muziku** tiho, bez televizije koja ometa.
+2. **Masirajte ruke** losionom s mirisom koji osoba voli.
+3. **Ponudite mekane stvari za držanje:** toplo ćebe, runo, glatki kamen.
+4. **Čitajte naglas** psalme, pjesme ili poznatu priču. Ritam je važniji od značenja.
+5. **Sjedite na svježem zraku** u hladu ili kraj prozora s pticama koje se mogu posmatrati.
+6. **Gledajte jednu veliku sliku zajedno.** Suncokret ili psa koji ispunjava ekran tableta, a vi govorite šta vidite.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Više ideja: [aktivnosti u kasnoj fazi](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Koje igre odgovaraju osobi s Alchajmerovom bolešću?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Birajte igre u kojima se ništa ne može „pogriješiti“. Svaka igra na ovom sajtu je besplatna, radi u pregledaču i nema tajmer, bodove ni registraciju.
 
-| Game | What you do | Often suits |
+| Igra | Šta radite | Često odgovara |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Parovi slika](/games/picture-pairs/) | Spajate velike slike; mogu ostati okrenute prema gore | Rana i srednja faza |
+| [Pronađi isto](/games/find-the-same/) | Dodirnete sliku koja odgovara onoj na vrhu | Srednja i kasna faza, uz pomoć |
+| [Dovrši izreku](/games/finish-the-saying/) | Birate posljednju riječ poznate izreke ili je prikažete | Rana i srednja faza |
+| [Slagalica sa slikom](/games/picture-puzzle/) | Vraćate 4 ili 9 dijelova na mjesto, uz prikazanu sliku | Rana i srednja faza |
+| [Kartice za razgovor](/games/conversation-cards/) | Slika i otvoreno pitanje o kojem možete razgovarati | Bilo koja faza, uz nekoga za razgovor |
+| [Parovi fotografija](/games/photo-pairs/) | Igra uparivanja napravljena od vaših fotografija | Rana i srednja faza |
+| [Bojanje](/games/coloring/) | Dodirnete boju, pa dio slike; ili je odštampate | Bilo koja faza, uz pomoć |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Za to kako sjediti zajedno, koliko pomagati i kada stati, pročitajte [kako igrati igre s osobom koja ima demenciju](/caregiving/how-to-play-together/). Ako razmišljate o „igrama za pamćenje“, pogledajte [igre za pamćenje za starije osobe s demencijom](/activities/memory-games/).
 
-## How to make any activity easier
+## Kako olakšati bilo koju aktivnost
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Savjet NIA svodi se na nekoliko navika: prilagodite aktivnost onome što osoba može, pomozite joj da započne, pazite na frustraciju, pobrinite se da se osjeća uspješno i pustite je da samo gleda ako to voli.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Izaberite doba dana kada je osoba najbolje raspoložena** i držite sesije kratkim.
+- **Prvo sve pripremite** da možete odmah početi.
+- **Pozovite, ne naređujte.** „Možete li mi pomoći?“ radi bolje od „Vrijeme je za aktivnost.“
+- **Uradite prvi korak sami** i pustite je da se pridruži.
+- **Ponudite jedan korak i jedan izbor u jednom trenutku.**
+- **Neka bude urađeno na njihov način.** Krivo složen peškir je u redu.
+- **Stanite dok je još prijatno.** Ranije završavanje je dobar ishod, a ne neuspjeh. Ako odbiju, pogledajte [šta raditi kada osoba s demencijom kaže ne](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) to kaže jednostavno: fokusirajte se na zadovoljstvo, a ne na postignuće.

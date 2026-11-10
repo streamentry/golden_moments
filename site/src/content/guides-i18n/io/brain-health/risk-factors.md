@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Risko-faktori di dementeso: La 14 nomizita da Lancet"
+seoTitle: "Risko-faktori di dementeso: La 14 di Lancet"
+description: "La 14 changebla risko-faktori di dementeso nomizita da la komisiono Lancet 2024, segun vivo-etapo, kun quo exploras e quo diskutar kun mediko."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  La komisiono Lancet 2024 nomizis 14 risko-faktori di dementeso qui posible
+  povas chanjesar: min edukeso, aud-problemi, alta LDL-kolesterolo, depreso,
+  kap-vundo, manko di fizik-agado, diabeto, fumado, alta sangopreso, obezeso,
+  troa drinkado di alkoholo, sociala izoleso, aero-polureso e netratita
+  vid-problemi. Kune li esas ligita kun cirkum 45% di kazi en la mondo, sen
+  garantio por irga singla persono.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "La 14 faktori kovras tota vivo: un en frua vivo, dek en meza vivo e tri en plu tarda vivo."
+  - "Aud-problemi e alta LDL-kolesterolo en meza vivo esas singlu ligita kun cirkum 7% di kazi di dementeso en la mondo, la maxim granda parti de irga singla faktoro."
+  - "Ica porcentaji esas populo-estimi qui supozas kauzo ed efiko. Kelka ligili povas esar nur parte kauzala."
+  - "Evo e geni, quin nulu povas chanjar, anke esas importanta risko-faktori. Diminutar la 14 riski ne garantias ke ulu evitos dementeso."
+  - "La maxim multa pazi koncernata, tale kom kontrolar sangopreso, audado e vidado, esas bona por saneso en altra manieri ed esas utila diskutar kun mediko."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Qua esas la 14 changebla risko-faktori di dementeso?"
+    a: "La komisiono Lancet 2024 nomizis min edukeso, aud-problemi, alta LDL-kolesterolo, depreso, traumatala kap-vundo, manko di fizik-agado, diabeto, fumado, alta sangopreso, obezeso, troa drinkado di alkoholo, sociala izoleso, aero-polureso e netratita vid-problemi. Kune li esas ligita kun preske duimo di kazi di dementeso en la mondo."
+  - q: "Qua risko-faktoro di dementeso importas maxim multe?"
+    a: "Por la mondo-populo, la komisiono estimis ke aud-problemi e alta LDL-kolesterolo en meza vivo esas singlu ligita kun cirkum 7% di kazi, sequita da min edukeso e sociala izoleso kun cirkum 5% singlu. Qua faktori importas maxim multe por un persono dependas de lua propra saneso, do mediko esas la maxim bona guidanto."
+  - q: "Ka la du nova risko-faktori adjuntesis en 2024?"
+    a: "Yes. La raporto di 2024 adjuntis alta LDL (mala) kolesterolo en meza vivo e netratita vid-perdo en plu tarda vivo a la 12 faktori nomizita en 2020. La komisiono ligis li kun cirkum 7% e 2% di kazi respektive."
+  - q: "Ka evo esas changebla risko-faktoro?"
+    a: "No. Evo esas la maxim konocata risko-faktoro por Alzheimer-morbo, e ol ne povas chanjesar. Geni anke havas rolo. La 14 faktori en ica pagino esas ti quin explori sugestas ke posible povas chanjesar."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,119 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Risko-faktoro esas ulo ligita kun plu alta chanco developar ula stando. Ol ne
+esas kauzo en omna kazi, e havar un ne signifikas ke vu developos dementeso.
+Ica pagino listigas la 14 risko-faktori di dementeso quin la komisiono Lancet
+2024 dicas ke posible povas chanjesar, kun quo explori ligas li, e quo vu
+povas diskutar kun mediko.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Por plu ampla vidado, inkluzante quo granda probi trovis, komencez kun
+[Ka dementeso povas preventesar? Quo la explori dicas](/brain-health/can-dementia-be-prevented/).
+Ico esas generala informo, ne medikala konsilo; videz nia
+[medikala desresponsizo](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Qua esas la 14 risko-faktori di dementeso?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+La [komisiono Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+skribita da 27 exploristi pri dementeso, estimis ke 14 risko-faktori qui
+posible povas chanjesar kune reprezentas cirkum 45% di kazi di dementeso en la
+mondo. La porcentajo por singla faktoro infre esas la estimo di la komisiono
+pri la parto di kazi en la mondo ligita kun ol, rondigita a tota nombri. La
+cifri koincidas, pro ke multa personi havas plura riski samatempe; pro to li
+sumigas a 45% e ne plu.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Risko-faktoro | Vivo-etapo | Parto di kazi | Kun quo explori ligas ol | Quon vu povas facar |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Min edukeso | Frua vivo | 5% | Min yari di skolo esas ligita kun plu alta risko. Restar mentale aktiva en meza vivo anke semblas protektanta, mem por personi kun poka skolo. | Durigez lernar e facar kozi mentale interesanta ye irga evo: lektado, hobii, kursi, ludi kun altri. |
+| Aud-problemi | Meza vivo | 7% | Netratita aud-problemi esas ligita kun plu alta risko. Studi qui sequas personi dum tempo ligas uzo di aud-helpili kun min risko. | Facez kontrolar vua audado. Questionez ka aud-helpili povus helpar, e portez li se preskriptita. Protektez oreli de lauta bruiso. |
+| Alta LDL-kolesterolo | Meza vivo (de cirkum 40 yari) | 7% | Alta LDL (mala) kolesterolo en meza vivo esas ligita kun plu alta risko. Observala studi ligas uzo di statini kun min risko, ma probi en plu tarda vivo ne montris to. | Questionez vua mediko ka vua kolesterolo devas kontrolesar e quo, se irgo, facar pri ol. |
+| Depreso | Meza vivo | 3% | Depreso esas ligita kun plu alta risko. En plu tarda vivo, depreso anke povas esar frua signo di dementeso. | Informez mediko pri malbona humoro o perdo di intereso qua duras plu kam du semani. Depreso esas tratebla. |
+| Traumatala kap-vundo | Meza vivo | 3% | Kap-vundo ye irga evo e de irga fonto, inkluzante kontakto-sporti, esas ligita kun plu alta risko. | Portez kasko por biciklado e kontakto-sporti. Questionez pri prevento di fali. Reposez e facez vua kontrolo pos kap-vundo. |
+| Manko di fizik-agado | Meza vivo | 2% | Personi qui exercas e ludas sporti havas min chanco developar dementeso. Probo-pruvi esas ankore limitizita. | Questionez qua agado esas sekura por vu, e trovez ulo quan vu prizas. Videz nia [guidilo pri exercado](/brain-health/exercise/). |
+| Diabeto | Meza vivo | 2% | Diabeto, aparte kande ol komencas en meza vivo o duras plu longe, esas ligita kun plu alta risko. | Facez kontrolar sangosukro. Se vu havas diabeto, laboro kun vua sukur-equipo por sekure ajustar ol. |
+| Fumado | Meza vivo | 2% | Fumado esas ligita kun plu alta risko. Studi trovas ke antea fumanti ne havas la sama augmentita risko kam personi qui durigas fumar. | Questionez pri suporto por cesar. Valoras cesar ye irga evo. |
+| Alta sangopreso | Meza vivo | 2% | Alta sangopreso en meza vivo esas ligita kun plu alta risko. Probi pri medikamenti kontre sangopreso sugestas mikre min risko di dementeso o kognala febleso. | Savez vua nombri. La komisiono sugestas supera nombro di 130 o min de cirkum 40 yari; questionez qua skopo konvenas a vu. |
+| Obezeso | Meza vivo | 1% | Obezeso en meza vivo esas ligita kun plu alta risko, e ol anke augmentas la risko di diabeto. | Questionez vua mediko pri sanesa pezo por vu. Olda adulti ne devas dietar por perdar pezo sen medikala konsilo. |
+| Troa drinkado di alkoholo | Meza vivo | 1% | Grava drinkado esas ligita kun plu alta risko. Diminutar pos grava drinkado esas ligita kun min risko. | Questionez qua sekura limito esas por vu, aparte kun vua medikamenti. |
+| Sociala izoleso | Plu tarda vivo | 5% | Ne-frequa sociala kontakto esas ligita kun plu alta risko. | Restar en kontakto kun personi en manieri quin vu prizas. Videz nia [guidilo pri sociala konekto](/brain-health/social-connection/). |
+| Aero-polureso | Plu tarda vivo | 3% | Vivar kun plu aero-polureso esas ligita kun plu alta risko. Studi ligas plu pura aero kun min risko. | Maximparte afero por publika politiko. Kontrolez lokala averti pri aero-qualeso e limitizez tempo exterdome ye tre poluzita dii. |
+| Netratita vid-problemi | Plu tarda vivo | 2% | Nekorektigita vid-problemi esas ligita kun plu alta risko. Un granda studio en Usa ligis katarakto-operaco kun min risko. | Facez regulara okul-examini. Questionez ka problemi quale katarakti povas tratesar. |
 
-## How should I read these percentages?
+## Quale me devas lektar ica porcentaji?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Prudente. La propra raporto di la komisiono montras plura punti qui valoras
+memorar:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Li deskriptas populi, ne personi.** La [rezumo di la raporto](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  da University College London notas ke diminutar risko funcionas tra populo e
+  ne garantias ke irga singla persono evitos dementeso.
+- **Li supozas kauzo ed efiko.** L’autori inkluzis nur faktori kun konvinkanta
+  pruvi, ma dicas ke kelka ligili povas esar nur parte kauzala.
+- **Li esas mondala cifri.** La maxim multa datumi venas de richa landi, e la
+  vera parto por irga singla lando o komunitato esos diferanta.
+- **Mikra porcentaji ankore povas importar.** Faktoro ligita kun 2% di kazi en
+  la mondo ankore afektas tre granda nombro di personi.
 
-## Which risk factors were added in 2024?
+## Qua risko-faktori adjuntesis en 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+La raporto di 2024 adjuntis du faktori a la 12 nomizita en 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Alta LDL-kolesterolo en meza vivo**, ligita kun cirkum 7% di kazi.
+- **Netratita vid-perdo en plu tarda vivo**, ligita kun cirkum 2% di kazi.
 
-## What risk factors cannot be changed?
+## Qua risko-faktori ne povas chanjesar?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+La National Institute on Aging dicas ke [evo esas la maxim konocata risko-faktoro por Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+e nulu povas chanjar ol. Geni anke havas rolo; un bone konocata geno qua
+influas la risko di Alzheimer nomizesas APOE. La NIA adjuntas ke ciencisti
+ankore ne plene komprenas quo kauzas Alzheimer che maxim multa personi. La
+komisiono Lancet notas ke la riski qui posible povas chanjesar povas
+diminutesar, irgakuale la genetala risko di persono.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Pro ke evo e geni havas tanta granda rolo, multa personi qui havas nula de la
+14 risko-faktori ankore developas dementeso. To ne esas kulpo di irgu.
 
-## What does the trial evidence say about changing these risks?
+## Quo la probo-pruvi dicas pri chanjar ica riski?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Ligar risko-faktoro kun dementeso ne esas sama kam pruvar ke chanjar ol
+diminutas la risko di dementeso. Yen kelka exempli pri ube la probo-pruvi esas:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Sangopreso.** En la probo SPRINT MIND, plu basa skopo por sangopreso
+  signifikante diminutis legera kognala febleso. Ol ne signifikante diminutis
+  probabla dementeso, malgre ke la probo povis esar tro mikra por montrar to
+  ([SPRINT MIND en JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Aud-helpili.** La komisiono Lancet deskriptas tri-yara probo pri aud-helpili
+  qua trovis nula generala efiko a pensado, ma avantajo en subgrupo di personi
+  kun plu alta risko. Studi qui sequas personi dum tempo ligas uzo di
+  aud-helpili kun min risko. Nia [guidilo pri audado](/brain-health/hearing/)
+  havas plu informo.
+- **Fizik-agado.** La National Institute on Aging dicas ke ne existas sat multa
+  klinikal probo-pruvi por konkluzar ke exercado povas preventar o lentigar
+  legera kognala febleso o Alzheimer, malgre ke kelka studi sugestas ke ol
+  povas helpar pri evo-relatata febleso
+  ([NIA pri preventar Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Longa probi qui vartas til dementeso developas esas lenta e kustozas, do por
+multa faktori la maxim bona pruvi durigos venar de studi qui sequas personi dum
+yari. Ica pruvi esas utila, ma ol esas min forta kam probo.
 
-## What about sleep and diet?
+## E pri dormo e dieto?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+La komisiono revizis dormo e dieto ma ne adjuntis li a la listo, pro ke la
+pruvi ne esis sat forta o sat konstanta. Nia guidili pri
+[dormo](/brain-health/sleep/) e [dieto](/brain-health/diet/) explikas quon on
+savas.
 
-## Talk with a doctor
+## Parolez kun mediko
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Yara kontrolo esas bona tempo por parlar pri ica temi. Vu povus adportar ica
+listo e questionar:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Qua esas mea nombri pri sangopreso, sangosukro e kolesterolo, e ka irgu bezonas atenco?
+- Ka me devas kontroligar mea audado e mea okuli?
+- Ka la agado quan me facas esas sekura e sat multa por me?
+- Ka irga de mea medikamenti povas afektar memorado o pensado?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Ante chanjar medikamenti, dieto, fastado, exercado o suplei, unesme parolez
+kun mediko. Se vu o la persono quan vu sukuras havas subita konfuzeso, febleso
+ye un latero, o desfacileso parolar, vokas 112 o vua lokala urjanta numero.

@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Oilonga yovanhu ve li pokati kokudimbwa"
+seoTitle: "Oilonga yovanhu ve li pokati kokudimbwa"
+description: "Oilonga i li paunafangwa yovanhu ve li pokati kokudimbwa kwomadiladilo: oilonga yomeumbo, omusika, omafano nomaudano mapu, pamwe nanghee to i longekida."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Pokati kokudimbwa kwomadiladilo, oilonga iwa ohai kala i fupi, ya ikililwa
+  noya tukulwa moitwa imweimwe: okupeta oikutu, okutula ousokisi kumwe,
+  okuyoga oilongifo yokulya, okuimba, okweenda pamwe, okutala omambo omafano
+  nomaudano omafano mapu. Longekida oinima, ulikila onghatu yotete, kwafela
+  moinima idjuu ndele to pe oilonga elalakano. Kanghama ngeenge inai hafifa
+  vali.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Oilonga yomeumbo ya ikililwa luhapu ohai longo nawa osheshi ohai ningifa omunhu a kale e udite ta kwafa nota fimana."
+  - "Ulikila ponhele yokuyelifa unene, yandja onghatu imwe poshikando, ndele to yandje omahoololo avali mapu ponhele yomapulo a manguluka."
+  - "Kwafela moshitukulwa shidjuu opo omunhu a dule okulonga oshitukulwa shi hafifa."
+  - "Okukala inaa ngungumana otashi dulu okuulika kutya omunhu okwa pumbwa sha okulonga. Mu pa oilonga tai wapalele ponhele yokutya ahowe."
+  - "Okutala, okukwafela kanini, ile okukanghama kuyele oshi li nawa."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Oilonga ilipi iwa kovanhu ve li pokati kokudimbwa kwomadiladilo?"
+    a: "Oilonga i fupi, ya ikililwa noya kwatela omake luhapu ohai longo nawa: okupeta eetawulo, okutula ousokisi kumwe, okuyoga oilongifo yokulya, okulongekida oshitaafula, okuimba omaimbilo a ikililwa, okweenda pamwe, okutala omambo omafano nomaudano omafano mapu. Tukula oshilonga keshe moitwa imweimwe ndele tamu longo pamwe."
+  - q: "Ohandi kwafele ngahelipi omunhu e na okudimbwa kwomadiladilo a hovele oilonga?"
+    a: "Longekida oinima aishe, opo nee hovele oilonga ove mwene ndele to mu shivi a kwafe: 'Oto dulu ngaa okukwafela nge neetawulo edi?' Ovanhu vahapu ova hala okukufa ombinga ashike otashi dulu okukala shidjuu okuhovela. Okuulikila onghatu yotete luhapu ohashi longo nawa shi dulife okuyelifa."
+  - q: "Oshike ndi na okuninga ngeenge ota endulula oshinima shimwe lwoikando?"
+    a: "Okweendulula luhapu inashi nyika oshiponga notashi dulu okuulika kutya omunhu okwa hala okukala e na sha okulonga ile okwa pumbwa okuhekelekwa. Ponhele yokumu pukulula, mu pa oilonga tai wapalele, ngaashi okambaba keetawulo dokupukuta ta dulu okupeta ile eimbilo tamu imbi pamwe."
+  - q: "Oshike ngeenge okwa longo oshilonga sha puka?"
+    a: "Ngeenge inashi nyika oshiponga, shi efa ngaho. Eetawulo da petwa monghedi imwe i lili ile oipuna ya tulwa ponhele imwe i lili inashi fimana. Okupukulula otaku dulu okuudiwa ko ngaashi okutongolwa, ofimbo oku shi efa ngaho tashi mu kwafele a kale e udite ta dulu nota kwafa."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Oshitopolwa shopokati shokudimbwa kwomadiladilo luhapu osho shile, nohapo oilonga ohai hovele okupumbwa ekwafo lashili. Eendjovo otadi dulu okukala didjuu okumona, eenghatu otadi dulu okuvongakanifwa, nokuhovela sha otashi dulu okuudiwa shidjuu. Ashike ehalo lokukala ta kwafa nokukufa ombinga luhapu ohali kala po. Nelongekido linini, omunhu e li pokati kokudimbwa kwomadiladilo ota dulu natango okuhafela oinima ihapu, unene oilonga ya ikililwa, omusika nomafano, ngeenge tamu i longo pamwe.
 
-## What activities work well in middle-stage dementia?
+## Oilonga ilipi hai longo nawa pokati kokudimbwa kwomadiladilo?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Oilonga i fupi, ya ikililwa noya kwatela omake, ya tukulwa moitwa imweimwe, ohai longo nawa unene. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) oya ti inamu pumbwa okudiladila oilonga ipe: oilonga otai dulu okukala oshitukulwa shonghalamwenyo yakeshe efiku, ngaashi okuteleka pamwe, okulonga moshikunino, okupwilikina komusika ile okweenda pamwe.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) oya ti kutya ovanhu ve li moshitopolwa eshi luhapu ova pumbwa okuuda ve na elalakano ile ve na sha tava file oshisho, nohava pumbwa ekwafo okuhovela ile okutsikila noilonga. Omuvalu wayo woilonga yopokati owa kwatela mo okupeta oikutu, okuyoga oilongifo yokulya, okutula ousokisi kumwe, omalideulo mapu, okudanauka nomusika ya ikililwa, okweenda pamwe to wilikwa, okuimba pamwe, okupenda omafano paunafangwa nokutala omambo omafano.
 
-## How do you set up an activity so it works?
+## Oto longekida ngahelipi oilonga opo i longe nawa?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Luhapu oilonga ohai pondola ile i nyemateke omolwelongekido. Eenghedi edi, da dja ku [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) noku [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), ohadi eta elunduluko linene:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Yelakanifa onhele.** Dima o-TV, idila omuvelo ndele to tula mo ashike oinima oyo oilonga ya pumbwa.
+2. **Hovela ove mwene.** Hovela okupeta ile okukwata ndele to mu shivi: "Oto dulu okukwafela nge naashi?"
+3. **Ulikila, opo nee teelela.** Ulikila onghatu imwe. Ulika neke ile mu wilike kanini, ngaashi okuulika apa oplate i na okutulwa.
+4. **Yandja onghatu imwe poshikando.** "I peta pokati" oshipu shi dulife "i peta ndele to i tule momihoko domaluvala."
+5. **Yandja omahoololo avali, ha mapulo a manguluka.** "Eetawulo dile ile ditoka?" oshipu okunyamukula shi dulife "Owa hala okulonga shike?"
+6. **Longa oshitukulwa shidjuu ove mwene.** Ove to yeleke, ye ta kwata. Ove to tula ongodi monhumbi, ye ta dingile oshiyata.
+7. **I pa etomheno.** "Eetawulo edi odoshililo shOsoondaxa" otashi ningifa oshilonga shi kale sha kwata moiti.
+8. **Mu efa a tale ngeenge osho a hala.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) oya ti nokutala ashike nako otaku dulu okuhafifa.
 
-## Activity ideas for the middle stage
+## Omaetepo oilonga yoshitopolwa shopokati
 
-### Useful jobs
+### Oilonga ya fimana
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Okupeta eetawulo neetawulo dinini dokupukuta.** Oinima inini, ya yelakana ohai kala ipu. Okambaba keetawulo dokupukuta da pupyala otaka dulu okupetwa, okuyelakanifwa nokupetwa vali.
+- **Okutula ousokisi kumwe.** Hovela noipakete inini ya yooloka nawa. Okuyoolola pamaluvala akuke nako oshi li nawa.
+- **Okuyoga ile okupukuta oilongifo yokulya ihai teka.** Omeva mafudepo e noshikwiipifi oha hafifa komake. Okupukuta u li omutumba oshipu keemhadi.
+- **Okulongekida oshitaafula.** Mu pa oludi limwe loshinima poshikando, ndele to longekida onhele imwe ove mwene onga oshihopaenenwa.
+- **Okukwafela mokuteleka.** Okukosha oiimati, okuteya oleefo ile okukwata mombiya. Ove to kwatele komesho ombele noipyu.
+- **Okukomba, okukufa ondwi ile okupukuta.** Oshiyaha shokoshitaafula, oshikombo shipu kombinga yongulu.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Tala [oilonga yomeumbo](/activities/household-tasks/) u mone omaetepo mahapu.
 
-### Music and movement
+### Omusika nokweenda
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Okuimba omaimbilo a ikililwa.** Hovela okuimba ove mwene; ovanhu vahapu ohava waimine momaimbilo oo va kala ve shii oule womido dihapu. Tala [oilonga yomusika](/activities/music/).
+- **Okudanauka wa manguluka.** Tengeneka, omaaka ile weenda ngaashi to udile nawa. Okukala omutumba nako oshi li nawa.
+- **Okudenga ombalona.** Ohai ende kanini noiipu oku i kwata u li omutumba.
+- **Okweenda pamwe to wilikwa.** Endeni ondjila ixupi ya ikililwa pamwe, mu kwatane komhadi ngeenge otashi kwafa.
 
-### Pictures and stories
+### Omafano neenghundana
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Okutala embo lomafano.** Popya kombinga yaasho to mono ponhele yokupula omapulo: "Tala etukutuku olo. Lombwele nge kombinga yalo." Tala [oilonga dokudimbulukwa](/activities/reminiscence/).
+- **Longifa oukalata veenghundana.** [Oukalata veenghundana](/games/conversation-cards/) ohava ulike efano pamwe nepulo la manguluka, lihe na epulo lokuyeleka eshiivo.
+- **Okutala pamwe omufilima wa kulupa.** Hoolola ou wa ikililwa, kala popepi nokukanghama po opo mu fude po.
 
-### Simple, pressure-free games
+### Omaudano mapu, e he na fininiko
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Omapa omafano taa ulikwa.** [Omapa omafano](/games/picture-pairs/) otaa efa omafano a kale taa monika, onghee oshi na sha nokumona, ha okudimbulukwa.
+- **Konga sha faafana.** [Konga sha faafana](/games/find-the-same/) ohashi ulike efano limwe noma hoololo avali ile ane.
+- **Yoololeni pamwe.** [Yoololeni pamwe](/games/sort-together/) osha fa okuyoolola oikutu kekombiyuta: tofi efano, opo nee okambaba kalyo.
+- **Bingo yomafano.** [Bingo yomafano](/games/picture-bingo/) ohai longo nawa pokwoongala kwoukwaneumbo nomomangudu.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Ngeenge oudano otau hovele okunyemateka, kanghama ndele tamu ningi sha shimwe. Tala [nghee tamu danauka pamwe](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Okulundulula okuhangungumana ku ninge oshilonga
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Okukala inaa ngungumana ile okweendulula oshinima luhapu oku na etomheno. Family Caregiver Alliance oya ti kutya omunhu ta twikile okulandula oinima mokabinete otashi dulika ta kendabala okuwanifa po omhumbwe yokukala e na sha okulonga nokukala ta pondola sha. Alzheimer's Association otai ladipike okulundululila eenghono odo koilonga tai wapalele, ponhele yoku i kangheka.
 
-| What you see | Something to offer |
+| Osho to mono | Sha to dulu okuyandja |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Okupukuta ile okunyanya poshitaafula | Oshiyaha shiteku netindo a pukute oshitaafula |
+| Eemhadi dihe li ngungumana ile okudenga poshi | Omusika i nomulandu wa yela wokudenga omaaka ile okweenda nayo |
+| Okulandula oinima moikabinete ile meedilowa | Okambaka koikutu ile keetawulo dokupukuta di petwe no di yoololwe |
+| Okupula epulo limwe lwoikando | Ehekeleko, opo nee eimbilo ile oshilonga tamu longo pamwe |
+| Okweendaenda | Okweenda pamwe, ile oshilonga sha kwatela okutwala oinima |
+| Okuhe na ombili konguloshi | Oshilonga sha ngungumana, sha ikililwa mouyelele muwa; tala [okuhangungumana konguloshi](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Naini u na okukanghama ile okulundulula ondjila
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Kanghama ngeenge to mono omadidiliko oulapi, okunyemateka, ohoni ile okukwena, ngaashi okukala ita kala nawa, okufinyaneka oshipala, okundubula oinima ile okutya "Itandi dulu." Alzheimer's Association otai ti kendabala vali pefimbo limwe mefiku ile ninga oshilonga shipu. Ino fininika. Okwaanya otaku dulu okudja moumbada ile molwaashi oshilonga oshidjuu unene; tala [ngeenge ta ti ahowe](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Okuxulifa po diva oshi li nawa. Nokukala omutumba pamwe neti ote nayo oshi li nawa. Eshi ounongo tau ende tau lunduluka natango, omaetepo oo e li mu [oilonga yoshitopolwa shaxuuninwa](/activities/late-stage/) otashi dulika a wapalele nawa, nomu [101 oilonga](/activities/ideas/) omu na omaetepo mahapu natango okuyeleka.

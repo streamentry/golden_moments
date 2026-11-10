@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Kys dy reih appyn as gammanyn son meenaghtys"
+seoTitle: "Kys dy reih appyn as gammanyn son meenaghtys"
+description: "Rolley-prowal son kiarailtee: reih appyn as gammanyn son meenaghtys. Toshiaght lesh dty churrym, shaghney timeraghyn as soilshaghey, jeeagh er preevaadjys, as lhaih graaghyn mychione feyshtyn dy kiarailagh."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Toshiaght lesh y red by vie lhiat y chooid dy yannoo: greinnaghey meein,
+  cooinaghtyn, shee ny kiangley. Eisht reih fer ta cooie da ablidyn y pheiagh
+  jiu, lesh jalloyn mooarey, gyn timer, scoryn ny soilshaghey, as aght aashagh
+  dy scuirr. Jeeagh cre’n fysseree t’eh goaill as my oddys oo eshyn y scryssey.
+  Bee kiarailagh mychione graaghyn dy vel app dy haghney ny dy lheihys
+  meenaghtys; cha nel un studeyrys ny prowal.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Reih y churrym hoshiaght: ta greinnaghey, cooinaghtyn, shee ny kiangley feme er appyn elley."
+  - "Cur y chooid da ablidyn y pheiagh er y laa, cha nee da lipaid keim, as cum yn reirey aashagh."
+  - "Shaghney appyn lesh timeraghyn, scoryn, bioys, streakyn, soilshaghey ny cooney dy chionnaghey."
+  - "Jeeagh er cruinnaghey fysseree, rheynn as scryssey. Cha nel HIPAA dy mennick bentyn da appyn cadjin."
+  - "Bee amhettagh mychione graaghyn “dy haghney meenaghtys”. Cha nel un prowal, ny scoryn share ’sy chooid, ny prowal."
+  - "Ta Golden Moments ny obbyr sheshoil. Cha jean eh graaghyn clinish."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Vod gammanyn inchyn meenaghtys y haghney?"
+    a: "Cha nel feanish lajer ayn dy vel appyn gammanyn inchyn creck dy haghney ny dy moalley meenaghtys. Ta’n National Institute on Aging gra nagh vel feanish dy liooar ayn dy vel yn eiyrtys cheddin ec appyn traaney inchyn creck as ec y traaneys coo-ordit va er ny phrowal ayns studeyrys mooar. Reih appyn son taitnys as kiangley, cha nee myr lheeys."
+  - q: "Vel app son meenaghtys fo HIPAA?"
+    a: "Dy mennick, cha nel. Ta HIPAA dy cadjin bentyn da hirveishyn slaynt, plannyn slaynt as nyn sheshaghyn obbree. Cha nel app t’ou hene goaill sheese dy cadjin fo HIPAA, mannagh vel eh currit liorish fer jeu shen. Ta Reill Breech Slaynt yn FTC bentyn da ymmodee appyn slaynt nagh vel HIPAA bentyn daue."
+  - q: "C’red ta gamman mie son meenaghtys jeeaghyn er?"
+    a: "Jalloyn as teks mooarey as soilshagh, un red baghtal dy yannoo er dagh skrin, gyn timer ny score, gyn feiyryn son marranyn, gyn soilshaghey, as aght aashagh dy scuirr ny dy ghoaill tammylt. Lhisagh eh jeeaghyn myr dy row eh jeant son sleih aasit, as ve aashagh da’n nah pheiagh goaill ayrn."
+  - q: "Vel Golden Moments gra dy vel eh coyrt cooney da cooinaghtyn?"
+    a: "Cha nel. Ta Golden Moments cur obbraghyn sheshoil aashagh son taitnys as coloayrtys. Cha jean eh meenaghtys y ghooghys, y lheihys, y haghney ny y vhowal, as cha jean mayd graaghyn erbee mychione cooinaghtyn ny smooinaghtyn."
+  - q: "Lhisagh mee geeck son app son meenaghtys?"
+    a: "Prowal roieyn nastee ny prowalyn nastee hoshiaght, as jeeagh kys ta’n peiagh freggyrt harrish shiaghtin ny ghaa. Cha jean geeck son app eh ny s’fondagh. Jeeagh kys dy scuirr roish my t’ou goaill ayrn."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Ta ymmodee gammanyn ayns ny stoyr appyn lesh enmyn son sleih shinney, cooinaghtyn ny meenaghtys. Ta paart jeu jeant dy kiarailagh. Ta feallagh elley cur graaghyn lheeysagh, timeraghyn ta jannoo prowal jeh cloie, ny soilshaghey as cruinnaghey fysseree. Ta’n duillag shoh cur aght dhyt dy vriwnys er app erbee hene. Cha nel shin cur rang ny aarev er cooidyn elley.
 
-## What should I decide before choosing a dementia app?
+## Cre lhisagh mee reih roish my reihym app son meenaghtys?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Reih cre by vie lhiat y chooid dy yannoo. Foddee “gamman son Moir” ve redyn feer anchasley, as foddee yn reih share son un churrym ve drogh reih son churrym elley.
 
-| Goal | What it looks like | What to look for |
+| Cooish | C’red t’eh jeeaghyn er | Cre dy yeeaghyn er e hon |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Greinnaghey meein | Cochiangley, sorçhal, cluigyn aashagh, gammanyn fockle | Doilleeidys y choarraghey, jalloyn ta fannaghtyn ry-akin, gyn çhionn |
+| Cooinaghtyn | Shenn jallooyn, raaghyn ennagh, kiaull veih’n aegid oc | Dty jallooyn hene, feyshtyn foshlit, gyn feyshtyn quiz |
+| Shee | Jallooyn moal, feiyryn meein, ennal, dooghys | Aashagh dy thoshiaght as dy scuirr, gyn red erbee soilshean, gyn yindys |
+| Kiangley | Cloie ny loayrt ry cheilley, ayns persoon ny er video | Jeant son daa pheiagh, cooney son coloayrtys |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Ta’n chooid smoo jeh’n studeyrys er “greinnaghey smooinee” coo-ordit son sleih ta bio lesh meenaghtys bentyn da shirveishyn possan fo stiurey lught-obbree traanit, lesh coloayrtys, gammanyn fockle, cluigyn, kiaull as obbraghyn elley. Hooar [aarev Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) vondeishyn beggey er y chooid smoo, agh va ad anchasley eddyr studeyryssyn. Cha nel lheid y chlaare sheshoil, lane keintys, yn un red as app er yn eeym, myr shen jean jeeaghyn er app myr un obbyr sheshoil mastey ymmodee.
 
-## How do I know if an app fits the person's abilities?
+## Kys neem’s fakin my ta app cooie da ablidyn y pheiagh?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Jeeagh kys ta’n peiagh freggyrt, ny sloo na goll lurg ghooghys ny lipaid keim. Foddee daa pheiagh ec yn “un cheim” ve feer anchasley ayns shilley, clashtyn, reirey laue, glare as sauçhys lesh skrinyn. Ta’n [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) coyrlaghey dy chur geill da taitnysyn roie as da ablidyn jiu, as dy chur yn taitnys roish y chooilleeney.
 
-Signs of a good fit:
+Cowraghyn dy vel eh cooie:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- t’ad toshiaght ny goaill ayrn gyn monney broo;
+- t’ad craidey, cur fockle ny ginsh skeeal;
+- cha jean marranyn cur imnea orroo;
+- t’ad son scuirr tra ta’n traa ayn.
 
-Signs it is a poor fit:
+Cowraghyn nagh vel eh cooie:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- gra dy mennick “cha noddym” ny “ta shoh ommidjagh”;
+- mee-hushtey cre dy chrankal;
+- corree, nearey ny cur yn saase ersooyl;
+- cha jean eh gobbraghey agh my t’ou uss jannoo bunnys dy chooilley red.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Ta imnea ny trimshey ny cowrey, cha nee red dy phushy. Jeeagh [cre dy yannoo tra ta’d gra nagh vel ad laccal](/caregiving/when-they-say-no/). Son eieyn elley lurg keim, jeeagh er obbraghyn [keim toshiaght](/activities/early-stage/) as [keim anmagh](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Cre’n cummey lhisagh mee yeeaghyn er ny haghney?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Jeeagh son cummey sheeoil, aashagh as aasit, as shaghney red erbee ta cur çhionn er.
 
-| Look for | Be wary of |
+| Jeeagh er e hon | Bee kiarailagh mysh |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Jalloyn as teks mooarey, caghlaa sollys lajer | Cowraghyn beggey, skrinyn lane |
+| Un obbyr baghtal er dagh skrin | Ymmodee cramman, rolleygyn ny sarey mooar |
+| Gyn timer, ny timer oddys oo chyndaa magh | Coontey sheese, leaghyn son siyr, “bee dty hraa” |
+| Gyn score, ny cooney meein | Poyntyn, bioys, streakyn, rangyn, “eash inchyn” |
+| Marranyn currit lesh shee | Feiyryn, croshyn jiargey, çhaghteraghtyn “Neu-chiart” |
+| Jalloyn aasit as feer-chooishagh | Aghtey cartoony ny paitçhey |
+| Gobbraghey gyn eddyr-voggyl, gyn coontey dy thoshiaght | Shegin claaraghey, loggal stiagh ny goaill sheese hoshiaght |
+| Aashagh dy scuirr ny dy ghoaill tammylt | Foshleeyn ta briaght dy hannaghtyn ny dy chur rang |
+| Gyn soilshaghey, praghas baghtal un cheayrt ny gagh laa | Soilshaghey, aghtey kionnaghey, cooney dy mennick |
+| Aashagh da’n nah pheiagh goaill ayrn | Son un chloieder ny ry hoi cohirrey |
 
-Ads and purchase prompts are easy to tap by accident.
+Ta soilshaghey as cooney kionnaghey aashagh dy chrankal gyn jerrey.
 
-## How do I check an app's privacy?
+## Kys neem’s preevaadjys app y jeeaghyn?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Jeeagh cre ta’n app goaill, quoi rish t’eh rheynn, as my oddys oo eshyn y scryssey. Roish my t’ou goaill eh:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Lhaih coontey preevaadjys y stoyr.** Ta [rannag sauçhys fysseree Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) as [rannag fysseree preevaadjys yn App Store](https://support.apple.com/en-us/102399) soilshaghey ny sorçhyn fysseree oddys app y chruinnaghey ny y rheynn. Ta’n daa cheshaght gra dy vel ny troailteyderyn cur y fysseree shoh hene, myr shen toshiaght eh, cha nee scrutaght.
+2. **Feysht my ta feme er coontey.** My ta app ny lomarcan soilshaghey jalloyn ny gammanyn aashagh, foddee nagh vel feme er dty ennym, post-l ny laa ruggyree.
+3. **Jeeagh er kiedyn.** Vel feme ec gamman cochiangley er ynnyd, caarjyn, meicrofoon ny ooilley dty lioar halla? Chyndaa magh red erbee nagh vel feme er.
+4. **Lhaih mychione soilshaghey as towse.** Foddee greienyn soilshaghey as ronsaghey fysseree y chur da cheshaghtyn elley mychione kys ta’n app er ny ymmydey.
+5. **Feysht raad ta jallooyn goll.** My t’ou cur jallooyn lught-thie stiagh, vel ad tannaghtyn er y saase ny goll seose gys server? Oddys oo ad y ghoaill ersooyl?
+6. **Jeeagh er scryssey.** Lhaih ayns y pholasee preevaadjys ny ’sy choontey fysseree kys dy scryssey fysseree as y coontey. Ta app ta gra nagh oddys fysseree ve scrysst foddey kiarail smoo, er lheh my t’eh cummal jallooyn ny fysseree slaynt.
+7. **Lhaih y pholasee preevaadjys** son freggyrtyn baghtal: cre ta goll er cruinnaghey, cre’n fa, son cre cho foddey, as rish quoi t’eh er ny rheynn.
 
-### Does HIPAA protect information in dementia apps?
+### Vel HIPAA coadey fysseree ayns appyn son meenaghtys?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Dy mennick, cha nel, as ta shen yindyssagh da ymmodee sleih. Ta Rheynn Slaynt as Shirveishyn Theayagh ny Steatyn Unnaneysit [soilshaghey](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) dy vel HIPAA bentyn da plannyn slaynt, yn chooid smoo dy hirveishyn slaynt, clearinghouseyn slaynt as nyn sheshaghyn obbree. Ayns y chooid smoo dy chooishyn cha nel eh coadey fysseree t’ou cur stiagh ayns app son ymmyd persoonagh, mannagh row yn app currit liorish reireyder fo HIPAA ny e heshey obbree. Foddee app “son meenaghtys” veih stoyr appyn ve mooie HIPAA, ga dy vel eh loayrt mychione slaynt.
 
-### What protects health data in apps that HIPAA does not cover?
+### Cre ta coadey fysseree slaynt ayns appyn nagh vel HIPAA bentyn daue?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Ta Reill Breech Slaynt yn FTC bentyn da ymmodee jeu. Ayns 2024 ren yn FTC [caghlaaghyn y chooilleeney](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) dy hoilshaghey dy vel y reill bentyn da appyn slaynt as cooid gollrish nagh vel fo HIPAA. Ta “breech” goaill stiagh rheynn gyn kied, cha nee brishey stiagh ny lomarcan, as shegin da cheshaghtyn cur fys da sleih as da’n FTC. Ta shen ny saase sauçhey lurg red dy gholl noi, cha nee gialdyn dy vel app goaill yn fysseree share ny lomarcan.
 
-## How should I read claims about research and evidence?
+## Kys lhisagh mee graaghyn mychione studeyrys as feanish y lhaih?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Lhaih graaghyn feanish dy moal, as bee er dty arrey smoo mychione ny gialdynyn smoo. Feyshtyn dy chur:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Cre va er ny studeyrys dy jarroo?** Cha nel studeyrys er un chlaare traaney soilshaghey dy vel dagh gamman ayns app gobbraghey ’syn un aght.
+- **Quoi va er ny studeyrys?** Foddee nagh vel eiyrtyssyn ayns sleih shinney slane follan bentyn da peiagh ta bio lesh meenaghtys.
+- **Cre va er ny vhowal?** Ta jannoo ny share ’sy ghamman hene anchasley rish caghlaaghyn ayns bea gagh laa, coloayrtys, aigney ny seyrsnys.
+- **Cre cho lajer as ta’n studeyrys?** Ta prowal reaghit gyn tort (RCT) cur cochiangle rish possan ta ymmydey yn app as possan nagh vel. Ta shen cummey mie, agh cha nel un RCT beg ny giare ny prowal. Jeeagh son ymmodee studeyryssyn, liorish ronsaghtee seyr, ta cordail.
+- **Vel eh gra dy vel eh caghlaa yn ghooghys?** Cha nel studeyrys ta soilshaghey caghlaaghyn beggey er prowal ny feanish dy vel app moalley, dy haghney ny dy lheihys meenaghtys.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Ta duillag yn National Institute on Aging er [slaynt smooinee as sleih shinney](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) cur coontey er prowal mooar ta currit liorish NIH er traaneys smooinee coo-ordit, as eisht t’eh cur raaue mychione graaghyn dy vod gammanyn co-earrooaghyn ennagh cooinaghtyn as smooinaghtyn y yannoo ny share. T’eh gra nagh vel feanish dy liooar foast dy vel yn un eiyrtys ec appyn traaney inchyn creck as va ec y traaneys va er ny phrowal ’sy phrowal shen. Foddee oo lhaih tooilley ayns nyn goyrle mychione [gammanyn inchyn as y feanish](/brain-health/brain-games/) as [cre ta studeyrys gra mychione meenaghtys y haghney](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Cre’n sampleyr foshlit ta ayn jeh graa mollitagh?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Ayns Jerrey Geuree 2016, ren yn FTC [cur magh shickyrys](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) marish lught jeantee Lumosity, claare “traaney inchyn”. Dooyrt yn FTC dy ren y cheshaght graaghyn, gyn feanish fondagh, dy voddagh e ghammanyn moalley moalley smooinee bentyn da eash as coadey noi moalley smooinee meein, meenaghtys as ghooghys Alzheimer. Chord y cheshaght $2 villioon y eeck as shegin daue feanish sheeoil as fondagh y ve oc roish graaghyn lheid y yannoo ’sy traa ry heet. Ta’n chooish ny cooinaghtyn dy vel glare margaghey cha nee feanish.
 
-### Which words are red flags?
+### Cre’n focklyn ta cowraghyn raaue?
 
-Be cautious when an app or ad says it:
+Bee kiarailagh tra ta app ny soilshaghey gra dy vel eh:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- “dy haghney,” “dy hyndaa,” “dy scuirr” ny “dy lheihys” meenaghtys ny Alzheimer;
+- “prowit dy clinish” gyn enmys y studeyrys, quoi va ayn, as cre va er ny vhowal;
+- cur “eash inchyn” ny score cooinaghtyn ta soilshaghey googhys;
+- “dy ghlenney,” “dy niartaghey” ny “dy hraaney” yn inchyn;
+- ymmydey fioghysyn myr prowal.
 
-If you are unsure about a claim, ask the person's doctor.
+My t’ou neu-hickyr mychione graa, loayr rish fer-lhee yn pheiagh.
 
-## Where does Golden Moments fit?
+## C’raad ta Golden Moments cooie?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Ta Golden Moments cur obbraghyn sheshoil aashagh, cha nee prowal cooinaghtyn, lheeys ny coyrle lheeysagh. Ta nyn gammanyn, myr sampleyr [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) as [Calm Breathing](/games/calm-breathing/), jeant son taitnys as coloayrtys. Cha jean ad meenaghtys y ghooghys, y lheihys, y haghney ny y vhowal, as cha jean mayd graaghyn erbee mychione cooinaghtyn ny smooinaghtyn.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Ta app nastee ain myrgeddin, [Golden Moments son iPhone, iPad as Android](/app/). T’eh cur cochiangley jallooyn meein lesh leacyn mooarey, gammanyn lesh jallooyn lught-thie t’ou reih, as packyn jallooyn ta gobbraghey gyn eddyr-voggyl, gyn coontey, soilshaghey, timer ny score. Ta’n un rolley-prowal bentyn: ta’n lipaid preevaadjys er yn App Store gra “Fysseree Cha Nel er ny Chruinnaghey”, as ta’n [polasee preevaadjys app](/app-privacy/) soilshaghey raad ta coipyn jallooyn er nyn goadey.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+By vie lhien dy jean oo briwnys orrin, ny sloo na treishteil orrin. Ymmyd y rolley-prowal er y duillag shoh, lhaih nyn [duillag preevaadjys](/privacy/) as [jiooldey lheeysagh](/medical-disclaimer/), as scuirr veih red erbee, goaill stiagh y chooid ainyn, nagh vel cooie da’n peiagh t’ou cur kiarail da.
 
-## What is a sensible way to try a new app?
+## Cre’n aght fondagh dy phrowal app noa?
 
-Try it together for a couple of weeks and watch what happens.
+Prowal eh ry cheilley son shiaghtin ny ghaa as jeeagh cre ta taghyrt.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Cur eh er e hoshiaght** lesh nyn [lhiassaghey tablet as çhellvane](/caregiving/tablets-and-screens/), as toshiaght ec y cheim sassey.
+2. **Cum shirveishyn giare,** cur geill da craidey, coloayrtys as shee, as jerrey er traa mie.
+3. **Cur eh ersooyl my t’eh cur corree,** ga dy vel eh lesh rang mooar.

@@ -1,32 +1,28 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "བརྗེད་ནོར་ནད་པའི་རྩེ་མོ་ཕྲན་ཚོགས: ཤིང་ཟླ་དང་ཚིག་རྩེ་དང་དྲ་ཐོག་རྩེ་མོ"
+seoTitle: "བརྗེད་ནོར་ནད་ལ་རྩེ་མོ: ཤིང་ཟླ་དང་ཚིག་རྩེ།"
+description: "བརྗེད་ནོར་ནད་ཀྱི་མི་ལ་ཤིང་ཟླ་, ཚིག་རྩེ་དང་དྲ་ཐོག་གི་རྩེ་མོ་འོས་འདེམས་ཚུལ་: ཆ་ཤས་གྲངས་, པར་, ཡིག་གཟུགས་ཆེན་པོ་, མཉམ་དུ་བྱེད་ཚུལ་དང་ཆེད་དུ་སླ་བ་བཏང་དུས།"
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  བརྗེད་ནོར་ནད་པའི་མི་ལ་འོས་པ་ཤོས་ནི་ཁོ་ཚོས་རམ་ཚེ་རོགས་ཐུབ་ནས་ཧ་ཅང་ལྷག་པ་ཞིག་ལ་བདེ་བ་ཐོབ་པ་ཡིན། ཆ་ཤས་གྲངས་ཉུང་ཞིང་ཆེ་བ་དང་། པར་སྐབས་གསལ་པོ་ཞིག་ཡོད་པའི་ཤིང་ཟླ་འདེམས་ཤིག ཁ་བྱང་གི་ཆ་ཤས་སྔ་མ་ལ་བསྡུ་བ་ཞིག་བྱོས། ཚིག་རྩེ་དང་ཚིག་ཁྲམ་ལ་ཡིག་གཟུགས་ཆེན་པོ་ཡོད་ན་ཤིན་ཏུ་ལེགས། སྦོ་ཡོན་ཆུང་བའི་དྲ་ཐོག་རྩེ་མོ་ཆ་ཤས་བཞི་པ་ཡང་བར་སྐབས་ཀྱི་མི་ལ་འོས། བདེ་བ་ཡོད་པའི་ཚེ་འགག་པར་བྱོས།
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "སྐབས་ཀྱི་མིང་ལ་མ་ལྟོས་པར་རྩེ་མོ་ཇི་ལྟར་འགྲོ་བ་ལ་ལྟོས་ཤིག ཁ་ཤས་རྩེ་མོ་དེ་ལས་ཀ་ལྟར་སྣང་ན་ཆ་ཤས་ཉུང་བ་ཞིག་བདམ་ཤིག"
+  - "ཆ་ཤས་ཆེ་ཞིང་བཟོ་སྦྱོར་བརན་པ་དང་། པར་ལ་ཁ་བྱང་གསལ་པོ་ཡོད་པ་ནི་ཆ་ཤས་ཆུང་ཞིང་ནམ་མཁའ་ཆེན་པོ་ལས་ལྷག་པ་ལས་སླ་བ་ཡིན།"
+  - "ཁྱིམ་ཚང་ནང་གི་ཐུན་མོང་བའི་ཚོན་ཁྲ་པར་ལ་ལྟོས་ཤིག ཁྱིམ་གྱི་བྱ་ཁང་། ཤིང་ཁང་། ཤིང་རྟ། གླང་དང་རྟ་ལྟ་བུ་ཡིན་ཡང་། ཁ་ཊོན་ལ་མ་ལྟོས་ཤིག"
+  - "མཉམ་དུ་བྱེད་པ་ནི་གལ་ཆེ་བའི་དོན་ཡིན། ཆ་ཤས་སྤྲོད་ཤིག ཁ་བྱང་བསྡུ་ཤིག དྲ་ཁ་སྟེང་ལ་མིག་གི་སྟེང་ནས་བལྟས་ཤིག"
+  - "ཡིག་གཟུགས་ཆེན་པོའི་ཚིག་རྩེ་དང་ཆ་ཤས་བཞི་བའམ་དགུ་བའི་དྲ་ཐོག་རྩེ་མོ་ནི་ཁ་ཡིག་འདིའི་སྐབས་སུ་ཀྲེད་མེད་ཡིན།"
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "བརྗེད་ནོར་ནད་པའི་མི་ལ་ཆ་ཤས་ག་འདྲ་ཡོད་པ་ཤོས་ཡིན་ནམ།"
+    a: "གྲངས་ཀ་ཅིག་གི་ཐད་ནས་ཁས་ལེན་པའི་སྲོལ་མེད། རྒྱུན་སྤྱོད་གྱི་སྐྱེ་བོ་འགའ་ཞིག་ལ་ཆ་ཤས་བརྒྱ་ཕྲག་ཁ་ཤས་ཅུང་ཉུང་བ་ཡང་བདེ་བ་སྐྱེད་ཐུབ། འགའ་ཞིག་ལ་ཆ་ཤས་བཅུ་གཉིས་བའམ་ཆ་ཤས་ཆེ་ཞིང་ཉུང་བ་ཞིག་ཧ་ཅང་ལེགས་པ་ཡིན། རྩེ་མོ་ལས་ཀ་ལྟར་སྣང་ནམ་སྐྱོ་སྐྱབས་འབྱུང་ན་ཆ་ཤས་ཉུང་བ་ལ་བརྗེ་ཤིག ང་ཚོའི་དྲ་ཐོག་པར་རྩེ་མོ་ལ་ཆ་ཤས་ཞིག་དང་དགུ་ཡོད།"
+  - q: "ཤིང་ཟླ་རྩེ་མོས་བརྗེད་ནོར་ནད་པ་ལ་ཕན་ནམ།"
+    a: "མི་མང་པོ་ཞིག་ལ་དགའ་བདེ་སྐྱེད་ཐུབ། ཁྱད་པར་སྔར་ནས་རྩེ་མོ་ལ་དགའ་ན་ཡིན། རྩེ་མོས་ལག་པ་ལ་ལས་ཀ་ཞིག་སྤྲོད་ཅིང་དམིགས་ཡུལ་གསལ་པོ་དང་ཁ་བ་ཟེར་བའི་པར་ཞིག་སྤྲོད་ཐུབ། བརྗེད་ནོར་ནད་སོས་ཐབས་ཡང་ན་མགྱོགས་པ་ཞི་བར་བྱེད་པར་སྟོན་པའི་རྩེ་མོ་གང་ཡང་མེད། དེ་བས་དགའ་བདེ་དང་གྲོགས་པོ་ཐོབ་པའི་དོན་དུ་འདེམས་ཤིག"
+  - q: "མི་ཞིག་ཤིང་ཟླ་རྩེ་མོ་སྒྲིག་ཐུབ་མ་ཐག་པ་ན་ང་ལ་ག་དེ་སྤྱད་ཐུབ།"
+    a: "རྩེ་མོ་ཆུང་ཞིང་རང་ཉིད་ཀྱིས་མང་བ་ལ་ལས་ཀ་བྱོས། ཆ་ཤས་གཅིག་རེ་ཞིག་ཁོ་ཚོར་སྤྲོད་ནས་ཡང་ན་ཆ་ཤས་མཐའ་མ་གང་ཤེས་ཁོ་ཚོ་ལ་བཞག་ཤིག དྲ་ཐོག་རྩེ་མོ་ཆ་ཤས་བཞི་པ་ཡང་ན་ཁ་བྱང་ཁ་ཤས་ཀྱི་སྡེ་ལ་བསྡུ་བ་ཡང་ན་སྟེང་གི་པར་ཚང་མ་ཞིག་མཉམ་དུ་ལྟ་ཤིག"
+  - q: "ཚིག་རྩེ་དང་ཚིག་ཁྲམ་ནི་བརྗེད་ནོར་ནད་ལ་འོས་ཏེ་ཡོད་ནམ།"
+    a: "སྔོན་གྱི་སྐབས་སུ་ཡིག་གཟུགས་ཆེན་པོ་ཡོད་ན་འོས་ཐུབ། ཁ་ཤས་སྟོན་པའི་ཚིག་ཁྲམ་ལ་ཚིག་དེ་ཉིད་སྟོང་ཕྱོགས་དང་ཐད་ཀར་ཡོད་པ་ནི་ཕྱོགས་མཚམས་ཀྱི་ཚིག་དང་ལྡོག་ཕྱོགས་ཀྱི་ཚིག་ལས་སླ་བ་ཡིན། དོན་གྱི་ཚིག་རེ་ཡང་ན་ཚིག་ཐོ་ཁ་ཕྱེ་ནས་དཔྱད་ཅིང་མཉམ་དུ་ལས་ཀ་བྱོས།"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +41,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+ཁྲམ་སྟེང་ལ་བཀྲམ་པའི་ཤིང་ཟླ་ནི་མཉམ་དུ་སྤྱོད་ཐུབ་པའི་ལས་ཀ་ཁ་ཤས་ཀྱི་ནང་ནས་ཤིན་ཏུ་སླ་བ་ཞིག་ཡིན། ཁྱེད་རང་གཉིས་ཀས་གཏམ་མི་བྱེད་པར་མཉམ་དུ་སྡོད་ཐུབ། པར་ལས་གཏམ་ཁ་ཞིག་འབྱུང་ཐུབ། མཐའ་མ་ཆ་ཤས་གནས་སྒྲིག་པའི་སྐབས་ཀྱི་དགའ་བདེ་ཡང་ཡོད། འོན་ཀྱང་བརྗེད་ནོར་ནད་འགྱུར་བའི་ཚེ་རྩེ་མོ་ཡང་འགྱུར་དགོས། རྩེ་མོ་ཞིབ་ཚ་ཁ་ཤས་གཞན་པ་ན་བརྡ་ནང་གི་ཚོ་ནོར་སྐྱོ་སྐྱབས་ཀྱི་ནང་དུ་འགྱུར་ཐུབ། འདིར་ཤིང་ཟླ་, ཚིག་རྩེ་དང་དྲ་ཐོག་གི་རྩེ་མོ་འོས་འདེམས་ཇི་ལྟར་བྱེད་པ་དང་། སྐྱོ་སྐྱབས་འབྱུང་བའི་ཚེ་ག་དེ་བྱ་དགོས་པ་འདིར་བཤད་ཡོད།
 
-## Are puzzles good for people with dementia?
+## བརྗེད་ནོར་ནད་པའི་མི་ལ་རྩེ་མོ་ཡོད་ནམ།
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+མི་མང་པོ་ཞིག་ལ་དགའ་བདེ་སྐྱེད་ཐུབ་པ་ཡིན། ཁྱད་པར་སྔར་ནས་རྩེ་མོ་ལེན་མཁན་ཡིན་ན་ཡིན། [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ནས་སྔ་མའི་སྐབས་ཀྱི་ལས་ཀ་ཁ་ཤས་ཏེ་ཚིག་རྩེ་, ཤོག་བུའི་རྩེ་མོ་དང་སྟོན་རྩེ་ལ་སོགས་པ་ཁྱབ་ཐུབ་ཀྱི་ཚོགས་ནང་བཀོད་ཡོད། [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ནས་ཡང་ལག་ཐོག་གི་དྲ་ཐོག་རྩེ་མོ་དང་ལག་ཆས་ཀྱི་རྩེ་མོ་ནི་མི་ལ་ཞེན་པ་བརྟན་པར་བྱེད་པའི་ཐབས་ཞིག་ཡིན་པ་བཤད་ཡོད།
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+རྩེ་མོ་ནི་སོས་ཐབས་མ་ཡིན། རྩེ་མོ་གང་ཡང་བརྗེད་ནོར་ནད་སོས་ཐབས་དང་ཡང་ན་མགྱོགས་པ་ཞི་བར་བྱེད་པར་སྟོན་པ་མེད། [བརྗེད་ནོར་ནད་དང་ཤེས་རིག་རྩེ་མོ་](/brain-health/brain-games/) ཀྱི་དཔྱད་གཞི་ལ་ལྟ་ཞིབ་བྱེད་ཐུབ། ཁྱེད་རང་གཉིས་ཀས་རྩེ་མོ་བྱེད་པའི་དགོས་པ་ནི་དགའ་བདེ་བ་ཞིག་དང་། ཆུ་ཚོད་ཞིག་ཡིད་ཆེས་པར་མཉམ་དུ་བྱེད་ཐུབ་པ་ཡིན། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ནས་འདི་ལྟར་བཤད་ཡོད། དགའ་བདེ་ལ་ལྟོས་ཤིག ཐོབ་འབྲས་ལ་མ་ལྟོས་ཤིག
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## ཤིང་ཟླ་རྩེ་མོ་འོས་འདེམས་ཇི་ལྟར་བྱེད་དམ།
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+སྐབས་ཀྱི་མིང་ལ་མ་ལྟོས་པར་མི་དེས་དགའ་བ་དང་། སྔ་མའི་རྩེ་མོ་ཇི་ལྟར་སོང་བ་ལ་ལྟོས་ཤིག
 
-### Number of pieces
+### ཆ་ཤས་གྲངས་
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+ཆ་ཤས་གྲངས་ངེས་པ་ཞིག་མེད། རྩེ་མོ་ལ་ཆེ་བའི་མི་ཞིག་ལ་སྔོན་ཆ་ཤས་ཁ་ཤས་བརྒྱ་བ་ཞིག་གི་བར་ལ་དགའ་བདེ་ཐོབ་ཐུབ། གཞན་ཞིག་ལ་ཆ་ཤས་བཅུ་གཉིས་བའམ་དེ་ཙམ་ཡོད་པ་ནི་ཧ་ཅང་བདེ་བ་ཡིན། ཞིབ་ཆ་ཞིག་ཡོད་པ་ནི་སྔ་མའི་རྩེ་མོ་ལས་ཀ་ཞིག་ལྟར་སྣང་ན་ཆ་ཤས་ཆ་ཚང་གི་ཕྱེད་ཙམ་ཡོད་པ་ཞིག་བདམ་ཤིག དེ་མགྱོགས་པོ་ཞིག་ཏུ་གྲུབ་ཅིང་ཁོ་ཚོས་ཤས་ཆེ་བ་ཞིག་འདོད་ན་ཆུང་ངུ་ཞིག་སྔར་ལས་སྒེར་ཤིག
 
-### Piece size and feel
+### ཆ་ཤས་ཆེ་ཆུང་དང་བདེ་བ།
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **ཆ་ཤས་ཆེ་བ་** ནི་མཐོང་སླ་ཞིང་ལེན་སླ། ལོག་ཏུ་བསྐོར་སླ།
+- **བཟོ་སྦྱོར་བརན་པ་ཞིག་གི་ཆ་ཤས་** ནི་གནས་གཞི་ལ་བརྟན་ཞིང་ལྷུང་ན་ཡང་འཇིགས་པ་མེད།
+- **ཞྭ་ཕྱེད་མེད་པའི་ཐུབ་རྡུལ་** ནི་ཟླ་བའི་འོད་དང་སྒོ་སྒྲོམ་ལས་འགྱུར་བའི་སྐྲག་ཚོད་ཆུང་བ་ཡིན།
+- **ཆ་ཤས་ཕྲན་ཚོད་** ནི་སྤེལ་ཐུབ་ཀྱི་མི་ཞིག་ཁ་ནང་དུ་ཞུགས་ཐུབ་པའི་སྐབས་སུ་མི་ཆོག སྔ་མ་ལ་གནས་སྐབས་ཅིག་ཏུ་བྱུང་ཐུབ།
 
-### The picture
+### པར་ཡི་སྣང་བ།
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **མི་ཚེའི་དངོས་པོ།** ཁྱིམ་ཚང་གི་ཤིང་སྐྱེད་, ཁྱིམ་ཕྲན་, རྒྱུད་མ་རྙིང་བ་, ཕྱུག་སྟེ་ཡ་མཚན་འདྲ་བ་, འདོན་ཐོགས་ཀྱི་ཚོགས་ཐ་སྙད། ལྷན་སྐྱེས་ཀྱི་ཤེལ་སྒྲོག་དང་སྐྱོ་བ་ཡོད་པ་མ་ཡིན།
+- **ཁ་བྱང་ཐ་དད་ཅན།** ཁྱིམ་དམར་པོ་, རྒྱ་མཚོ་སྔོན་པོ་དང་ས་སྔོན་པོ་ནི་ནམ་མཁའ་ཆེན་པོ་ཞིག་ཆ་ཤས་ཀུན་ཁྱབ་བྱེད་པ་ལས་ལེགས།
+- **ཤེས་པ་དང་ཕྱི་ཡི་གནས་བབས།** ཁོ་ཚོས་སྡོད་པའི་གནས་ཡང་ན་དགའ་བའི་ལས་དང་འབྲེལ་བའི་པར་ནི་གཏམ་གྱི་སྐྱེ་ཚོགས་ཆེ་བ་ཡིན། གསེབ་པར་དང་ཁྱིམ་ཚང་གི་པར་ལ་ཡང་གསལ་བ་ཡོད།
 
-## How do you do a puzzle together?
+## སྤྱིར་ཁྱེད་རང་གིས་རྩེ་མོ་མཉམ་དུ་བྱེད་ཇི་ལྟར་
 
-Set it up so the person can get straight to the enjoyable part.
+མི་ཞིག་ཕན་ཚུན་བདེ་བའི་ཆ་ཤས་ལ་ཐད་ཀར་ཡོང་ཐུབ་པ་ལྟར་སྒྲིག་ཤིག
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **གནས་ཡུལ་ལེགས་པ་ཞིག་འདེམས་ཤིག** འོད་ལེགས་པ་, ལག་རྐང་ཡོད་པའི་སྡོད་ཁྲི་དང་། རྩེ་མོ་བཞག་ཐུབ་པའི་ཤིང་ཁྲམ་ཡང་ན་རྡོ་ཤིང་།
+2. **ཁ་བྱང་ཚལ་སྒོ་ལ་ཡོད་པའི་ཁ་ཕྱེ་སྟེ་ཕྱོགས་པ་ཞིག་གསལ་ཤིག** ཁྱེད་རང་གཉིས་ཀས་མཐོང་ཐུབ་པར་བྱོས།
+3. **ཆ་ཤས་ཀྱི་ཕྱོགས་ཀ་སྟེང་དུ་ཕྱོགས་ཤིག** རྩེ་མོ་མ་འགོ་བ་ཡོད་པའི་སྔོན་ལ་བྱོས།
+4. **མཐའ་ཆ་ཤས་ཁྱེད་རང་གིས་བསྡུ་ཤིག** ཡང་ན་མཐའ་ནས་ཐོག་མར་བསྡུ་ནས་ནང་ཆས་ཀྱི་ཆ་ཤས་མི་ལ་སྤྲོད་ཤིག
+5. **ཆ་ཤས་ཚོ་ཚོ་ཁ་བྱང་གི་ཚོན་ཁྲ་ལ་ཕྱེ་ནས་** གླ་མ་ཡང་ན་གླིང་ཀྱི་ཤོ་ཤོ་འཇོག་ཤིག
+6. **ཆ་ཤས་གཅིག་རེ་ཞིག་སྤྲོད་ཤིག** ཆ་ཤས་མང་བ་ན་འཁྲུལ་བའི་སྐྱོ་བ་ཡོད་ན། "ཤིང་གི་ཆ་ཤས་དེ་ཡིན་པ་འདྲ་སྙམ།"
+7. **པར་གྱི་ཚོར་དོན་ཁྲིད་ཤིག** ཆ་ཤས་ཀྱི་ཡར་རྒྱས་ལ་མ་ལྟོས་པར་བྱོས། "ཁྱེད་ཀྱི་ཕ་ཁ་ཅིག་འདྲ་བའི་གླིང་ཆེན་དེ་ཡིན་བཞིན་ནོ།"
+8. **སྐབས་ཅིག་ཤོས་ལ་གསལ་ཤིག** ཉིན་ཁ་ཤས་ཀྱི་རྗེས་སུ་ཕྱིར་ལོག་བྱོས། སྐྱོ་སྐྱབས་ཡོད་པ་མ་ཡིན།
+9. **ཆ་ཤས་ཞིག་སྦྱོར་བའི་རྗེས་སུ་བདེ་བ་ཡོད་པའི་སྐབས་སུ་འགག་ཤིག** ཡང་ན་ཚ་ཇ་ཞིག་འཐུང་ཤིག
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ནས་མི་ལ་འགོ་བརྩམས་པར་རོགས་ཐུབ་པ་དང་། སྐྱོ་སྐྱབས་མཐོང་ན་བལྟ་ཞིབ་བྱེད་པ་, མི་ནས་དགའ་བ་ཞིག་ན་ཁོ་ཚོ་ཉིད་ཀྱིས་བལྟས་ན་ཡང་ལེགས་པར་བཤད་ཡོད། ཁྱེད་རང་ཆ་ཤས་སྦྱོར་བའི་བལྟས་ནས་ཆ་ཤས་གང་ན་འཇོག་དགོས་པར་སྟོན་པ་ཡང་། ལས་ཀ་ལ་ཞིག་ཏུ་ཞུགས་པ་ཡིན།
 
-## Easy online puzzles
+## དྲ་ཐོག་གི་རྩེ་མོ་ཡང་སླ་བ་
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+དྲ་ཐོག་རྩེ་མོ་ནི་ཆ་ཤས་བསྐྱར་བསྡུ་ན་དགོས་པ་མེད། པར་ཆེན་པོ་ཆ་ཚང་ཡིད་ལ་དགའ་བ་ཡིན། ཁྱིམ་ཚང་གི་སྟེང་ཡང་སྒྲིག་སླ།
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+ང་ཚོའི་ཁ་ཡོད་པའི་ [རྩེ་མོ་པར་](/games/picture-puzzle/) ནི་པར་ཞིག་ཆ་ཤས་བཞི་པའམ་དགུ་བར་ཆད་ནས་བྱེད་ཡོད། ཆ་ཤས་གཉིས་ཀྱི་མཐར་ཚབ་བྱོས་ཏེ་པར་ཚང་མ་ཡོང་བའི་བར་དུ་བྱོས། པར་ཚང་མ་ཞིག་ནི་ལམ་སྟོན་ཁྱབ་ཐུབ་ཀྱི་སྟེང་ལ་གསལ་ཡོད། དུས་ཚོད་མེད། ཅི་ཡང་གནས་སྐབས་སུ་འགག་ཐུབ། རྩེ་མོ་བཞི་པ་ནི་མི་ཞིག་ཟུར་ཡོད་སྐབས་སྔ་འཁྲུལ་ཡོད་པའི་མི་མང་པོ་ལ་འོས།
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+བདེ་བ་ཡང་ཉུང་བའི་པར་ལས་ཀ་ཞིག་ལ་ཡང་བསམ་ཤིག། [དྲ་ཐོག་སྦྱོར་ཤིག](/games/find-the-same/) ནི་ཐོག་མའི་པར་ལ་མཚུངས་པའི་པར་ཞིག་རེག་ནས་ཡོད་དམ་སྐད་ཅིག།། ཡང་ན་ [མཉམ་དུ་བསྡུ་ཤིག](/games/sort-together/) ནི་པར་ཚོས་ཁྲུང་ཁ་ནང་ཁྱིམ་གྱི་ཐབ་ཁང་ལམ་ཚལ་ལ་སོགས་ནང་དུ་བསྡུ་བ་ཡིན།
 
-## Word puzzles: word searches and crosswords
+## ཚིག་རྩེ་: ཚིག་རྩེ་དང་ཚིག་ཁྲམ།
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+ཚིག་རྩེ་ནི་སྔ་མ་ནས་དགའ་བ་ཡོད་པའི་མི་ལ་འོས་ཏེ་། ཡང་ཁ་ཤས་སྔ་མའི་སྐབས་སུ་མང་བ་ཡིན།
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **ཡིག་གཟུགས་ཆེན་པོའི་ཚིག་ཁྲམ།** ང་ཚོའི་ཁ་ཡོད་པའི་ [ཚིག་ཁྲམ](/games/word-search/) ནི་ཡིག་འབྲུ་ཆེན་པོ་དང་ཚིག་ཉུང་ཉུང་བཟོ་ཡོད། ཕྱོགས་ཀ་རིང་ཐུང་དང་ཐད་ཀར་ཡོད་ཀྱི་ཚིག་ཡིན་གྱི་ཕྱོགས་ཀ་ཕྱོགས་མཚམས་ཀྱི་ཚིག་རྣམས་ནི་ཡོད་མེད། སྟེང་ལ་སྒྲིག་ཐུབ་ཡང་ན་པར་ཆད་ནས་ཀྱང་རུང་།
+- **ཚིག་ཐོ་ཁ་ཕྱེ་སྟེ་ཀློག་ཤིག** མི་གཅིག་གིས་ཚིག་ཞིག་ཀློགས་ནས། གཞན་གྱིས་ཚིག་དེ་འཚོལ་བྱེད། ཡི་གེ་དང་པོ་ཁ་ཤས་ཐོ་ཡང་ལེགས།
+- **ཡིག་གཟུགས་ཆེན་པོའི་དྲ་ཚིག་རྩེ་** ནི་སྔ་སྐབས་ཀྱི་ཤོག་བུའི་རྩེ་མོ་དེབ་ནས་ཡོད་ཐུབ། སྡེ་ཚན་ལྷན་ཞིང་དྲི་བ་ཁ་ཕྱེ་ནས་ཀློག་ཤིག ཕྱོགས་བཅོས་ལ་ཟྭ་སྒྲིག་ཤིག ལན་ཁ་ཤས་མཉམ་དུ་བྱོས། ཀླུ་ཚིག་ལྟར་སླ་བ་དང་ཁ་སྣོན་གྱི་ཚིག་སྟེ་དམིགས་ཡུལ་གསལ་པོ་ནི་ཕྱི་ཁ་དང་མི་འདྲ་ཞིང་ཤིན་ཏུ་སླ།
+- **ཚིག་རྣམས་ཀྱི་གཏམ་བྱོས།** "ཚལ་" ཞེས་པ་ནི་ཏོ་མཱ་ཏོའི་གཏམ་ལ་ཁ་གཅིག་མཐོང་ཐུབ།
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+ཤོག་བུའི་རྩེ་མོ་གཞན་དང་ཁྱེད་རང་ཚོས་ཡིག་ཆ་ཕར་པར་ཐོན་དུ་བཏང་ནས་ཀློག་པ་ཡིག་གཟུགས་མཐོང་སླ་བ་དང་ལག་ཏུ་བཟུང་ཐུབ་པ་ཐུབ་ཀྱི་ཐབས་ལ་ལྟ་བ་ན་ [བརྗེད་ནོར་ནད་ཀྱི་ཤོག་བུའི་ལས་ཀ་](/activities/printable/) ལ་ལྟ་ཞིབ་བྱོས།
 
-## Which puzzles suit each stage?
+## དུས་ཚོད་ཅི་ལྟར་རྩེ་མོ་ལ་འོས་ཡོད་དམ།
 
-Stages overlap, and good and hard days are normal.
+ཆ་ཚོད་གཅིག་ནས་གཅིག་ལ་འཛོམས་ཤིང་ལེགས་པ་དང་སྐྱོ་སྐྱབས་ཀྱི་ཉིན་ཁ་གཉིས་ཀ་ནི་སྤྱིར་བཏང་ཡིན།
 
-| Stage | Puzzles that often fit | Your role |
+| སྐབས | འོས་པའི་རྩེ་མོ | ཁྱེད་རང་གི་འགན་ཁུར |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| སྔ་མ | སྔར་ལས་ཆ་ཤས་ཉུང་བའི་ཤིང་ཟླ་ཤེས་པ་, ཡིག་གཟུགས་ཆེན་པོའི་ཚིག་རྩེ་དང་ཚིག་ཁྲམ་, དགུ་བའི་དྲ་ཐོག་རྩེ་མོ | མཉམ་གྲོགས་: ཁོ་ཚོས་འདེམས་ཐུབ་པ་དང་དགོས་ན་རམ་རོགས་བྱོས། |
+| བར་ | ཆ་ཤས་བཅུ་གཉིས་བའམ་དེ་ཙམ་ཡོད་པའི་ཤིང་ཟླ་, བཞི་པའི་དྲ་ཐོག་རྩེ་མོ, ཚིག་ཁྲམ་ཀློག་མཉམ་དུ་བྱེད་ཀྱི་ཚེ | སྒྲིག་ཤིག ཆ་ཤས་བསྡུ་ཤིག ཆ་ཤས་གཅིག་རེ་སྤྲོད་ཤིག |
+| ཕྱི་མ | ཡིག་མགོ་ཚང་བའི་པར་མཉམ་དུ་ལྟ་ཤིག ཕར་པར་གཉིས་ཀྱི་ཡིན་པའི་མཐོང་བ་མཚུངས་པ་ཞིག ཆ་ཤས་ཉུང་ངུ་ལག་ཏུ་བཟུང་ཤིག | ཁོ་ཚོའི་ཉེ་འདབས་སུ་ཁྱེད་ཡོད་པ་ཉིད་ཀྱི་ལས་ཀ་ཡིན། |
 
-## When should you make a puzzle easier, or stop?
+## རྩེ་མོ་ཉུང་བར་བྱེད་ནམ་འགག་དགོས་དུས་ཇི་ལྟར་ཤེས་དམ།
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+སྤྲེ་སྐད་ཀྱི་སྐྱོ་སྐྱབས་ཆ་ཤས་ཐབ་པ་, མཐའ་མ་ནས་ཁོ་ཚོས་ཆ་ཤས་བཤུད་པ, བསྐྱར་དུ་"ང་ནུས་མེད" ཞེས་སྨྲ་བ་ཡང་ན་སྐྱོ་བའི་མིག་ལྟ་བ་ཡོད་ན་བལྟ་ཤིག། ཁ་ཤས་དེ་ནི་འགྱུར་བ་གང་ཞིག་བྱེད་པའི་རྟགས་ཡིན་གྱི། འབད་པས་དྲང་བའི་རྟགས་མ་ཡིན།
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **ཆུང་བ་ཞིག་ལ་བྱོས།** ཆ་ཤས་ཉུང་བ་ཞིག་, ཡང་ན་མཐའ་མ་ཁ་ཤས་བསྡོམས་ནས་ཁོ་ཚོར་སྤྲོད་ཤིག
+- **ཁྱེད་རང་གིས་མང་བ་བྱོས་ཤིག** དེ་ནས་ཁོ་ཚོར་སླ་བའི་ཆ་ཤས་ལ་རམ་རོགས་ཐོག་ཏུ་གཏོང་ཤིག
+- **ཉེ་འཁོར་གྱི་ལས་ཀ་ལ་སྒྱུར་ཤིག:** ཆ་ཤས་ཁ་བྱང་གི་ཚོན་ཁྲ་སྒྲིག་པ་, དྲ་ཐོག་རྩེ་མོ་ཆ་ཤས་བཞི་པ་ཡང་ན་ [ཚོན་འཇོག](/games/coloring/)།
+- **འགག་ཤིག** ཁོ་ཚོར་དུས་བཞག་ནས་ཇ་ཁ་ཞིག་འཐུང་ཤིག ཉིན་གཞན་ལ་ཕྱིར་ལོག་བྱེད་ཐུབ། ཡང་ན་ཕྱིར་ལོག་མི་དགོས་ཀྱང་ཡིན།
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+རྩེ་མོ་ཚོས་བརྗེད་ནོར་ནད་ཀྱི་ཚེ་ཡིད་ཀྱི་སྐྱོ་བ་ཞིག་ཕྱིར་ལོག་བྱེད་ན། རྩེ་མོ་དོར་བ་ཡང་ནོར་བ་མེད། ཉིན་མོ་བདེ་བ་སྤྱོད་པའི་ཐབས་མང་པོ་ཡོད། ང་ཚོའི་ [འདུ་གཏམ་ལ་ལས་ཀ་ཁྱོད་བྱེད་པའི་ཐབས་ ༡༠༡](/activities/ideas/) ལ་ལྟ་བ་ཡང་ལེགས་པ་ཞིག་ཡིན།

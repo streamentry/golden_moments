@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "កិច្ចការផ្ទះសម្រាប់អ្នករស់នៅជាមួយជំងឺវង្វេង"
+seoTitle: "សកម្មភាពក្នុងផ្ទះសម្រាប់ជំងឺវង្វេង"
+description: "ការបត់ ការតម្រៀប ការរៀបចំតុ និងការចម្អិនម្ហូបសាមញ្ញ អាចជាសកម្មភាពមានន័យសម្រាប់អ្នករស់នៅជាមួយជំងឺវង្វេង។ របៀបរៀបចំ សម្រប និងរក្សាសុវត្ថិភាព។"
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  កិច្ចការប្រចាំថ្ងៃដូចជា ការបត់កន្សែង ការតម្រៀបស្រោមជើង ការរៀបចំតុ
+  ការជូតកន្លែង ការស្រោចដំណាំ និងការជួយចម្អិនម្ហូបសាមញ្ញ អាចផ្តល់ឱកាសឲ្យ
+  អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង បានជួយការងារពិតៗក្នុងផ្ទះ។ ជ្រើសរើសកិច្ចការ
+  ដែលអ្នកនោះធ្លាប់ស្គាល់ បំបែកវាជាជំហានតែមួយៗ ដកវត្ថុមុតស្រួច ឬក្តៅចេញឲ្យឆ្ងាយ
+  និងឲ្យតម្លៃលើការចូលរួមជាជាងការធ្វើឲ្យបាន «ត្រឹមត្រូវ»។
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "កិច្ចការដែលធ្លាប់ស្គាល់ អាចជួយឲ្យអ្នកនោះមានអារម្មណ៍ថាមានប្រយោជន៍ និងជាផ្នែកមួយនៃគ្រួសារ ដែលជារឿយៗសំខាន់ជាងរបៀបដែលការងារនោះត្រូវបានធ្វើ។"
+  - "បំបែកកិច្ចការនីមួយៗជាជំហានតែមួយៗ សូមបង្ហាញជាជាងពន្យល់ ហើយសូមជួយធ្វើជំនួសជំហានណាដែលចាប់ផ្តើមពិបាកដោយស្ងប់ស្ងាត់។"
+  - "ចាក់សោកាំបិទ កូនសាប៊ូសម្អាត និងគ្រាប់សាប៊ូបោកគក់ ហើយដំឡើងគម្របប៊ូតុងចង្រ្កាន ឬឧបករណ៍បិទដោយស្វ័យប្រវត្តិ មុនពេលចម្អិនអាហារជាមួយគ្នា។"
+  - "កន្សែងដែលបានបត់ហើយ មិនចាំបាច់បត់ឡើងវិញនៅចំពោះមុខអ្នកនោះទេ។ បើអ្នកត្រូវតែធ្វើឡើងវិញ សូមធ្វើនៅពេលក្រោយ និងនៅកន្លែងដែលមើលមិនឃើញ។"
+  - "បើកិច្ចការណាមួយបង្កឲ្យមានការខ្វាយខ្វល់ សូមប្តូរទៅជំហានដែលងាយស្រួលជាងនេះ សាកល្បងម្តងទៀតនៅពេលផ្សេង ឬគ្រាន់តែអង្គុយជាមួយគ្នា។"
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "តើអ្នកដែលរស់នៅជាមួយជំងឺវង្វេង នៅតែអាចជួយធ្វើកិច្ចការអ្វីខ្លះ?"
+    a: "មនុស្សជាច្រើននៅតែអាចបត់សម្លៀកបំពាក់ តម្រៀបស្រោមជើងឲ្យបានគូ តម្រៀបសម ស្លាបព្រា និងកាំបិទ រៀបចំតុ ជូតកន្លែង ធ្វើឲ្យស្អាតធូលី អ៊ុតកន្លែង ស្រោចដំណាំ ឬកូរម្សៅលាយ។ ជ្រើសរើសកិច្ចការដែលអ្នកនោះធ្លាប់ធ្វើពីមុន ហើយសម្របវាតាមសមត្ថភាពបច្ចុប្បន្នរបស់អ្នកនោះ។ នៅដំណាក់កាលក្រោយ ចលនាមួយដែលធ្វើម្តងហើយម្តងទៀតដូចជា ការរាបកន្សែងឲ្យរាបស្មើ អាចគ្រប់គ្រាន់ហើយ។"
+  - q: "តើមានសុវត្ថិភាពទេ បើអ្នកដែលរស់នៅជាមួយជំងឺវង្វេង ជួយការងារក្នុងផ្ទះបាយ?"
+    a: "អាចមានសុវត្ថិភាព ប្រសិនបើមានការមើលថែយ៉ាងជិតស្និទ្ធ និងការរៀបចំត្រឹមត្រូវ។ ដាក់កាំបិទ ផលិតផលសម្អាត និងអ្វីៗដែលក្តៅឲ្យឆ្ងាយពីដៃ ប្រើគម្របប៊ូតុងចង្រ្កាន ឬឧបករណ៍បិទដោយស្វ័យប្រវត្តិ ហើយផ្តល់ការងារដែលមានសុវត្ថិភាពដូចជា ការលាងបន្លែ ការកូរ ឬការដាក់ចាន។ កុំទុកអ្នកនោះនៅម្នាក់ឯង ពេលចង្រ្កានកំពុងបើក។"
+  - q: "ចុះបើគាត់បត់ខុស ឬធ្វើរញ៉េរញ៉ៃ?"
+    a: "សូមទុកវាឲ្យនៅដដែល។ គោលបំណងគឺពេលវេលាជាមួយគ្នា និងអារម្មណ៍ថាមានប្រយោជន៍ មិនមែនលទ្ធផលល្អឥតខ្ចោះទេ។ បើមានអ្វីមួយពិតជាត្រូវធ្វើឡើងវិញ សូមរង់ចាំរហូតដល់ពេលក្រោយ ហើយធ្វើនៅពេលដែលអ្នកនោះមិនបានមើល ដើម្បីកុំឲ្យគាត់មានអារម្មណ៍ថាត្រូវបានកែតម្រូវ។"
+  - q: "ចុះបើគាត់បដិសេធមិនជួយ?"
+    a: "ការនិយាយថាទេ អាចមានន័យថាកិច្ចការនោះមានអារម្មណ៍ពិបាក ច្របូកច្របល់ ឬនឿយហត់នៅពេលនេះ។ សូមកុំបង្ខំ។ សាកល្បងកំណែងាយស្រួលជាងនេះ អញ្ជើញគាត់ឲ្យអង្គុយជាមួយអ្នកជំនួសវិញ ឬសួរម្តងទៀតនៅពេលណាដែលសមស្រួលជាង។"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+មនុស្សជាច្រើនដែលរស់នៅជាមួយជំងឺវង្វេង បានចំណាយពេលរាប់សិបឆ្នាំក្នុងការថែរក្សាផ្ទះ ចិញ្ចឹមគ្រួសារ ឬរក្សាការងារឱ្យមានសណ្តាប់ធ្នាប់។ ការត្រូវបានសុំឲ្យជួយធ្វើកិច្ចការពិតៗក្នុងផ្ទះ អាចបង្ហាញថា «អ្នកនៅតែជាផ្នែកមួយនៃគ្រួសារនេះ» តាមរបៀបដែលសកម្មភាពផ្សេងៗទៀតជាច្រើនមិនអាចធ្វើបាន។ ទំព័រនេះពន្យល់អំពីកិច្ចការដែលជារឿយៗសមស្រួល របៀបរៀបចំវា របៀបសម្របវានៅពេលមានការផ្លាស់ប្តូរ និងរបៀបរក្សាសុវត្ថិភាពនៅក្នុងផ្ទះបាយ និងបន្ទប់បោកគក់។
 
-## Why do everyday chores work well as activities?
+## ហេតុអ្វីបានជាកិច្ចការប្រចាំថ្ងៃសមស្រួលជាសកម្មភាព?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+កិច្ចការសមស្រួលព្រោះវាជារឿងដែលធ្លាប់ស្គាល់ និងមានគោលបំណងច្បាស់លាស់។ វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) បានរាយបញ្ជីការងារដូចជា ការលាងចាន ការរៀបចំតុ ការអ៊ុតកន្លែង ការធ្វើឲ្យស្អាតធូលី ការតម្រៀបសំបុត្រ ការបត់សម្លៀកបំពាក់ និងការតម្រៀបសំរាមកែច្នៃ ក្នុងចំណោម[សកម្មភាពប្រចាំថ្ងៃដែលអ្នករស់នៅជាមួយជំងឺវង្វេង Alzheimer អាចរីករាយ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)។ សមាគម Alzheimer (Alzheimer's Association) ក៏បានរៀបរាប់ថា កិច្ចការដូចជា ការរៀបចំតុ អាចជួយឲ្យអ្នកនោះ[មានអារម្មណ៍ថាជាផ្នែកមួយដែលមានតម្លៃក្នុងគ្រួសារ](https://www.alz.org/help-support/caregiving/daily-care/activities)។
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+កិច្ចការមួយក៏មានហេតុផលផ្ទាល់ខ្លួនសម្រាប់ចាប់ផ្តើមផងដែរ។ «តើអ្នកអាចជួយខ្ញុំបត់កន្សែងទាំងនេះបានទេ?» ងាយស្រួលក្នុងការយល់ព្រមជាង «តើអ្នកចង់ធ្វើសកម្មភាពមួយទេ?»
 
-## Which household tasks are good to try?
+## តើកិច្ចការផ្ទះអ្វីខ្លះដែលគួរសាកល្បង?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+ចាប់ផ្តើមជាមួយកិច្ចការដែលអ្នកនោះធ្លាប់ធ្វើពីមុន រួចសម្របវាតាមអ្វីដែលអ្នកនោះអាចធ្វើបានថ្ងៃនេះ។
 
-### Laundry and linens
+### ការបោកគក់ និងគ្រឿងកម្រាល
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **ការបត់កន្សែង និងកន្សែងតូចៗ។** ឲ្យធុងមួយដែលមានវត្ថុតូចៗ និងរាបស្មើ។ កន្សែងងាយបត់៖ មិនមានរបៀបបត់ខុសទេ។
+- **ការតម្រៀបស្រោមជើងឲ្យបានគូ។** ដាក់ស្រោមជើងចម្រុះលើតុ។ បើការរកគូពិបាក សូមប្រើតែពីរ ឬបីពណ៌ដែលខុសគ្នាច្បាស់។
+- **ការរាប និងការដាក់ជាជង់។** កន្សែងជូតមាត់ ស្រោមខ្នើយ ឬកន្សែងផ្ទះបាយ អាចត្រូវបានរាបឲ្យស្មើ និងដាក់ជាជង់។ វាអាចសមស្រួលនៅពេលក្រោយ នៅពេលដែលការបត់មានជំហានច្រើនពេក។
 
-### Table and kitchen
+### តុ និងផ្ទះបាយ
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **ការរៀបចំតុ។** រៀបចំចានសម្លៀកបំពាក់មួយកន្លែងជាគំរូ ហើយឲ្យអ្នកនោះចម្លងតាម។ បើវាច្រើនពេក សូមឲ្យវត្ថុម្តងមួយៗ៖ «នេះជាសមមួយសម្រាប់ចាននីមួយៗ។»
+- **ការតម្រៀបសម ស្លាបព្រា និងកាំបិទ។** លាយសម ស្លាបព្រា និងកាំបិទដែលមិនមុតស្រួចក្នុងធុងមួយ ហើយតម្រៀបវាទៅក្នុងថាសបែងច compartments។ កុំដាក់កាំបិទមុតស្រួច។
+- **ការជូតចានឲ្យស្ងួត។** ចានប្លាស្ទិក ឬចានដែលមិនងាយបែក និងកន្សែងទន់ធ្វើឲ្យនេះជាការងារមានសុវត្ថិភាព។
+- **ការជូតតុ ឬកន្លែងចម្អិនអាហារ។** កន្សែងសើមមួយ និងផ្ទៃមួយដែលទទេ។ សមាគម Alzheimer's Association ណែនាំឲ្យផ្តល់កន្សែង ប្រសិនបើនរណាម្នាក់កំពុងដុសតុដោយដៃរួចហើយ ដើម្បីប្តូរចលនាដែលមិនស្ងប់ទៅជារឿងមានប្រយោជន៍។
 
-### Around the house
+### ជុំវិញផ្ទះ
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **ការធ្វើឲ្យស្អាតធូលី។** ប្រើកន្សែងដុសធូលីទន់មួយ និងផ្ទៃរឹងមួយចំនួនដូចជា តុកាហ្វេ ឬធ្នើសៀវភៅ។
+- **ការតម្រៀបសំបុត្រ។** ឲ្យសំបុត្រផ្សាយពាណិជ្ជកម្ម និងទស្សនាវដ្ដីឲ្យតម្រៀបជាគំនរ៖ ទុក យកទៅកែច្នៃ ឬបើកពេលក្រោយ។ ទុកវិក្កយបត្រពិត និងមូលប្បទានប័ត្រនៅកន្លែងផ្សេង។
+- **ការតម្រៀបសំរាមកែច្នៃ។** ដាក់កំប៉ុង ដប និងក្រដាសដែលបានលាងស្អាតចូលធុងដាច់ដោយឡែក។
+- **ការអ៊ុតកន្លែង។** ប្រើជក់តូចមួយនៅលើកម្រាលឥដ្ឋ ឬជាន់ផ្ទះបាយ ប្រសិនបើការតុល្យភាពរបស់អ្នកនោះនៅមានស្ថេរភាព។
+- **ការស្រោចដំណាំ។** ប្រើធុងស្រោចដំណាំតូចស្រាលមួយ និងដំណាំមួយចំនួននៅកន្លែងដែលងាយស្រួលឈោងដល់។
 
-### Simple cooking with supervision
+### ការចម្អិនម្ហូបសាមញ្ញដោយមានការមើលថែ
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+ការចម្អិនអាហារអាចនាំមកនូវអារម្មណ៍ល្អៗដែលចងចាំបានយូរ។ វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) ណែនាំឲ្យអនុញ្ញាតឲ្យអ្នកនោះប្រមូលគ្រឿងផ្សំ វាស់ លាយ និងចាក់ ឬគ្រាន់តែប្រាប់អ្នកផ្សេងពីរបៀបធ្វើម្ហូបដែលគាត់ចូលចិត្ត។ ការងារដែលសមស្រួលរួមមាន៖
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- លាងបន្លែ ឬផ្លែឈើ
+- កូរម្សៅ ឬសាឡាត់ត្រជាក់
+- ហែកស្លឹកសាឡាត់
+- លាបប័រលើនំប៉័ងដោយប្រើកាំបិទដែលមិនមុត
+- ដាក់ម្សៅនំខូគីលើថាស
+- ដាក់គ្រឿងលើភីហ្សា
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+បើការវាស់ពិបាក សមាគម Alzheimer's Association ណែនាំឲ្យអ្នកបញ្ចប់ការវាស់ ហើយបន្ទាប់មកផ្តល់ជំហានផ្សេងដូចជា ការកូរ។
 
-## How do I set up a chore so it goes well?
+## តើខ្ញុំគួររៀបចំកិច្ចការយ៉ាងដូចម្តេចដើម្បីឲ្យទៅបានល្អ?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **ជ្រើសរើសពេលវេលាដែលសមស្រួល។** ជ្រើសរើសពេលណាដែលអ្នកនោះជាធម្មតាសម្រាកបានល្អ និងស្ងប់។ សម្រាប់មនុស្សជាច្រើន នេះជាពេលព្រឹក។
+2. **រៀបចំកន្លែងឲ្យស្អាត។** កិច្ចការតែមួយ ផ្ទៃតែមួយ មិនមានអ្វីផ្សេងនៅលើតុ។
+3. **អញ្ជើញ មិនមែនចាត់តាំង។** «ខ្ញុំត្រូវការជំនួយបន្តិចលើរឿងនេះ» សមស្រួលជាង «ដល់ពេលបត់សម្លៀកបំពាក់ហើយ។»
+4. **បង្ហាញជំហានដំបូង។** បត់កន្សែងមួយយឺតៗ បន្ទាប់មកឲ្យកន្សែងបន្ទាប់។ ការបង្ហាញច្បាស់ជាងការពន្យល់។
+5. **ផ្តល់ជំហានម្តងមួយៗ។** ការណែនាំច្រើនពេកក្នុងពេលតែមួយ អាចធ្វើឲ្យច្របូកច្របល់។ រង់ចាំឲ្យជំហានមួយចប់ មុននឹងនិយាយអំពីជំហានបន្ទាប់។
+6. **ធ្វើការងារជាមួយគ្នា។** ការធ្វើការងារដូចគ្នានៅក្បែរគ្នា ឲ្យអារម្មណ៍ថាជាការរួមគ្នា មិនមែនជាការមើលថែត្រួតពិនិត្យទេ។
+7. **និយាយអំពីកិច្ចការ មិនមែនអំពីលទ្ធផល។** «នេះទន់ណាស់» ឬ «ប្រាប់ខ្ញុំផង ថាអ្នកធ្លាប់រៀបចំទូកន្សែងយ៉ាងដូចម្តេច» អាចបើកការសន្ទនា ដោយមិនសាកល្បងនរណាម្នាក់ឡើយ។
 
-## How do I adapt chores as abilities change?
+## តើខ្ញុំគួរសម្របកិច្ចការយ៉ាងដូចម្តេច នៅពេលសមត្ថភាពផ្លាស់ប្តូរ?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+សមត្ថភាពអាចផ្លាស់ប្តូរតាមពេលវេលា និងសូម្បីតែពីមួយថ្ងៃទៅមួយថ្ងៃ។ សមាគម Alzheimer's Association ណែនាំឲ្យប្តូរទៅកិច្ចការដែលសាមញ្ញ និងមានការធ្វើម្តងហើយម្តងទៀត នៅពេលដែលជំងឺវឌ្ឍនភាព។
 
-| If this has become hard | Try this instead |
+| បើរឿងនេះចាប់ផ្តើមពិបាក | សាកល្បងរឿងនេះជំនួសវិញ |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| បត់សំពត់ធំៗ | បត់កន្សែងតូចៗ ឬរាបកន្សែងជូតមាត់ |
+| រៀបចំតុពេញមួយកន្លែង | ដាក់កន្សែងជូតមាត់មួយនៅកន្លែងនីមួយៗ |
+| តម្រៀបសំបុត្រជាប្រភេទ | ដាក់ស្រោមសំបុត្រជាជង់តែមួយ |
+| ធ្វើតាមរូបមន្តម្ហូប | កូរ ឬមើល និងភ្លក់ នៅពេលអ្នកចម្អិន |
+| អ៊ុតកន្លែងទាំងមូល | ជូតតុតូចមួយ |
+| ធ្វើកិច្ចការទាំងស្រុង | អង្គុយជាមួយអ្នក និងនៅជាក្រុមហ៊ុន នៅពេលអ្នកធ្វើវា |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+ការមើលក៏រាប់បញ្ចូលផងដែរ។ វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) ចង្អុលបង្ហាញថា មនុស្សខ្លះគ្រាន់តែរីករាយនឹងការមើល ហើយនោះក៏ជាវិធីល្អមួយក្នុងការចូលរួមដែរ។
 
-## How do I keep household tasks safe?
+## តើខ្ញុំគួរធ្វើដូចម្តេចដើម្បីរក្សាសុវត្ថិភាពពេលធ្វើកិច្ចការផ្ទះ?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+សុវត្ថិភាពត្រូវមកមុនគេ ជាពិសេសនៅក្នុងផ្ទះបាយ។ [គន្លឹះសុវត្ថិភាពនៅផ្ទះសម្រាប់អ្នកថែទាំជំងឺវង្វេង Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) របស់វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) រួមមាន៖
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- ចាក់សោ ឬដកផលិតផលសម្អាតចេញ รวมទាំងគ្រាប់សាប៊ូបោកគក់ ដែលអាចមើលទៅដូចស្ករគ្រាប់។
+- ទុកកាំបិទ កន្ត្រៃ និងឧបករណ៍ប្រើភ្លើងក្នុងកន្លែងដែលចាក់សោ។
+- ដំឡើងគម្របប៊ូតុងសុវត្ថិភាព និងឧបករណ៍បិទដោយស្វ័យប្រវត្តិសម្រាប់ចង្រ្កាន។
+- ដាក់ស្លាក «ឈប់» ឬ «ក្តៅខ្លាំង» នៅជិតឡ ចង្ក្រាននំ និងអ៊ុត ដោយដាក់នៅកន្លែងដែលមិនអាចឆាបឆេះបាន។
+- កំណត់ឧបករណ៍កម្តៅទឹកឲ្យនៅ 120°F ដើម្បីកាត់បន្ថយហានិភ័យនៃការរលាកដោយទឹកក្តៅ។
+- ដកផ្លែឈើសិប្បនិម្មិត និងមេដែកតុទូទឹកកកដែលមានរូបរាងដូចអាហារចេញ ព្រោះអាចមើលទៅដូចអាចបរិភោគបាន។
 
-A few more practical habits help:
+ទម្លាប់ជាក់ស្តែងមួយចំនួនទៀតក៏អាចជួយបាន៖
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- នៅក្នុងបន្ទប់ជានិច្ច នៅពេលដែលចង្រ្កាន ឡ ឬឧបករណ៍មុតស្រួចកំពុងប្រើប្រាស់។
+- ប្រើចានដែលមិនងាយបែកសម្រាប់ការជូតឲ្យស្ងួត និងការរៀបចំតុ។
+- រក្សាជាន់ឲ្យស្ងួត និងគ្មានរបស់រារាំង នៅពេលអ៊ុត ឬជូតជាន់។
+- បើអ្នកនោះធ្លាប់ប្រើឧបករណ៍ សមាគម Alzheimer's Association ណែនាំឲ្យដកវត្ថុដែលមានគ្រោះថ្នាក់ចេញពីរោងសិប្បកម្ម ដើម្បីឲ្យនៅតែអាចរីករាយនឹងការងារដែលមានសុវត្ថិភាពដូចជា ការខាត់បន្ទះឈើបាន។
 
-## What if they do it "wrong"?
+## ចុះបើគាត់ធ្វើ «ខុស»?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+សូមទុកវាចោលទៅ។ កន្សែងដែលបត់ជាបីជ្រុងជំនួសពីរជ្រុង នៅតែជាកន្សែងដែលបានបត់ដដែល។ សមាគម Alzheimer's Association និយាយយ៉ាងច្បាស់ថា អ្វីដែលសំខាន់គឺការចំណាយពេលជាមួយគ្នា និងអារម្មណ៍ថាអ្នកនោះមានប្រយោជន៍ មិនមែនថាតើកន្សែងត្រូវបានបត់បានត្រឹមត្រូវឬអត់ទេ។ បើមានអ្វីមួយពិតជាត្រូវធ្វើឡើងវិញ សូមរង់ចាំរហូតដល់ពេលក្រោយ ហើយធ្វើនៅកន្លែងដែលមើលមិនឃើញ។
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+ការកែតម្រូវនៅពេលនោះ អាចប្តូរការងារដែលរីករាយទៅជាការរំលឹកអំពីអ្វីដែលបានបាត់បង់។ «អរគុណណាស់ នេះជាជំនួយដ៏ធំមួយ» ជារឿយៗជារឿងត្រឹមត្រូវដែលគួរនិយាយ។
 
-## When should we stop?
+## តើយើងគួរឈប់នៅពេលណា?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+សូមឈប់ ឬប្តូរ នៅពេលអ្នកឃើញសញ្ញានៃការខ្វាយខ្វល់ ភាពនឿយហត់ ឬការបាត់បង់ចំណាប់អារម្មណ៍។ ការបញ្ចប់មុនពេលកំណត់ គឺជាលទ្ធផលល្អ មិនមែនជាការបរាជ័យទេ។ អ្នកអាច៖
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- ប្តូរទៅជំហានដែលងាយស្រួលជាង
+- ផ្លាស់ទៅសកម្មភាពសម្រាកដូចជា ការស្តាប់តន្ត្រី ឬផឹកកាហ្វេ
+- សាកល្បងម្តងទៀតនៅពេលក្រោយ ឬនៅថ្ងៃផ្សេង
+- គ្រាន់តែអង្គុយជាមួយគ្នា
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+បើអ្នកនោះនិយាយថាទេ សូមកុំបង្ខំ។ សូមមើល[អ្វីដែលควรធ្វើនៅពេលគាត់និយាយថាទេ](/caregiving/when-they-say-no/) សម្រាប់វិធីឆ្លើយតបដោយទន់ភ្លន់។
 
-## Low-effort extras for a quieter moment
+## ជម្រើសសាមញ្ញបន្ថែមសម្រាប់ពេលស្ងប់ស្ងាត់
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+នៅពេលដែលមិនអាចធ្វើកិច្ចការដោយប្រើកាយសម្បទា ការតម្រៀប និងការផ្គូផ្គងនៅតែអាចធ្វើបានដោយអង្គុយ។ [Sort Together](/games/sort-together/) អនុញ្ញាតឲ្យចុចរូបភាពដាក់ចូលក្នុងកន្ត្រកផ្ទះបាយ ឬសួនច្បារ ហើយ [Picture Pairs](/games/picture-pairs/) ជាល្បែងផ្គូផ្គងស្រទន់ៗដែលមានរូបភាពធំៗ និងគ្មានកំណត់ពេល។ [Conversation Cards](/games/conversation-cards/) មានសំណួរបើកចំហអំពីផ្ទះ និងគ្រួសារ ដែលសមស្រួលសម្រាប់ពេលផឹកកាហ្វេបន្ទាប់ពីធ្វើការងាររួច។
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+សម្រាប់ជំនួយក្នុងការដាក់កិច្ចការចូលក្នុងកម្មវិធីប្រចាំថ្ងៃ សូមមើលមគ្គុទ្ទេសក៍របស់យើងអំពី[ទម្លាប់ប្រចាំថ្ងៃដ៏ស្ងប់ស្ងាត់](/activities/daily-routine/)។ សម្រាប់គំនិតបន្ថែមតាមដំណាក់កាល សូមមើល[សកម្មភាពសម្រាប់ដំណាក់កាលកណ្តាល](/activities/middle-stage/)។

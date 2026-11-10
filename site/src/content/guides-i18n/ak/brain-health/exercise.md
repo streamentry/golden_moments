@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Adwuma ne Brain Health: Sɛnea Wobɛtu Ahoɔfɛ"
+seoTitle: "Adwuma ne Dementia: Nea Nhwehwɛmu Kyerɛ"
+description: "Nea nhwehwɛmu kyerɛ wɔ nneyɛe ho adwuma ne dementia asiane ho, ne akwan a ɛyɛ ahoɔfɛ, ɛnyɛ den ma mpanyin ne nnipa a dementia wɔ ho sɛ wɔbɛtu ho."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Nhwehwɛmu kyerɛ sɛ nneyɛe a ɛtra ase daa ma dementia asiane tew, na 2024 Lancet
+  Commission de nneyɛe ahorow a yɛbɛsesa 14 mu sɛ anneyɛe. Nhwehwɛmu no nnye nkɔ
+  so kyerɛ sɛ adwuma no ma dementia nkɔ ho. Nanso ɛboa ma honam ne tumi, ahosɛpɛw,
+  ahoɔden ne daa ho yɛ. Enti, nantew, nnipa a wɔtena mpandua so, ne akɔnnɔ bɛyɛ adwuma
+  a ɛfata sɛ yɛbɛyɛ ho. Kɔkɔ hwɛ dɔkotafo ansa na wofi adwuma foforo ase.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Nnipa a wɔyɛ adwuma daa no wɔ dementia asiane ketewa sɛ wɔn a wɔnyɛ adwuma, nanso yei fi nhwehwɛmu a wɔhwɛ nnipa so mu, na ɛnyɛ nhwehwɛmu a wɔsɔ ho hwɛ."
+  - "Adwuma a wɔyɛɛ mfe ɔpɛpɛ mu wɔ mpanyin mu no nni nkyerɛ a ɛda so sɛ nipa no adwene yɛ papa sen afoforo."
+  - "CDC mmara ma nnipa a wɔn mfe ye 65 anaa ɛboro so kyerɛ adwuma a ɛma honam yɛ den, adwuma a ɛma nipadua yɛ den, ne adwuma a ɛboa ma ɔtena yiye, na ɛkyerɛ sɛ adwuma kakra yɛ papa sen sɛ wonyɛ bi."
+  - "Ma nnipa a dementia atwa wɔn ho ho, adwuma a ɛyɛ ketewa, ɛyɛ nea wɔn ani gye, ne nea wɔbɛyɛ wɔ abusuafoɔ ntam, te sɛ nantew da biara anaa mmɔ a wɔtena ase, ɛsen ɔhaw biara a wɔbɛhwehwɛ."
+  - "Nnipa a wɔn mfe ye sɛ 65 anaa ɛboro so bi, mpem baanu (1 wɔ 4) biara da mfe biara, na adwuma a ɛboa ma wɔtena yiye ne baabi a ɛyɛ anigye ne nea ɛsɛ kan."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Adwuma betumi aboa ma dementia nnyina?"
+    a: "Obiara nnyɛ bɔhyɛ ma saa. Nhwehwɛmu bebree kyerɛ sɛ nnipa a wɔyɛ adwuma wɔ dementia asiane ketewa, nanso ayaresa nhwehwɛmu nnyɛ kyerɛɛ sɛ adwuma ma dementia nnyina. Adwuma no wɔ mfaso bebree a wɔahwehwɛ ho, enti ɛyɛ papa sɛ wobɛyɛ."
+  - q: "Ɛyɛ nea ɛsɛ ma onipa a dementia wɔ ho sɛ ɔyɛ adwuma?"
+    a: "Ɛbɛyɛ, nanso ɛsɛ sɛ wo ho hyehyɛ kan. National Institute on Aging kyerɛ sɛ wobɛkɔkɔ hwɛ dɔkotafo ansa na wofi adwuma foforo ase, wopɛ nsaman a ɛyɛ nnɔbae, wɔmma nsuo, na wɔyɛ mmɔ tiawa. Gyae sɛ onipa no ayɛ sɛ ɔbrɛ, ɔnsɔ ne ho yiye, anaa ɔnnye ne ho."
+  - q: "Adwuma bɛn na wɔbɛtumi ayɛ wɔ atenaa mu?"
+    a: "Adwuma a wɔbɛtumi ayɛ wɔ atenaa mu ne sɛ wɔbɛyɛ sukyerɛ anaa yoga wɔ dwoda so, wɔbɛtow bɔl ketewa anaa bɔl a ɛyɛ nwononwono, wɔbɛyɛ bean bag toss, wɔbɛsɔ nsuo bɔkɔ (soup can) mu, wɔbɛtrɛw mpɛn a wɔbɛtrɛw, ne pedal exercisers. Saa adwuma yi yɛ papa sɛ nantew yɛ den."
+  - q: "Ɛfa sɛ onipa no mmpɛ sɛ ɔbɛtena ase a?"
+    a: "Mma wo ho ntɔ no so. Sɔ hwɛ bio akyiri, fa wo ho ka adwuma no ho, fa nnwom a ɔnim ka ho, anaa fa adwuma sesa sɛ adwuma a ɛte sɛ ntwa fi anaa nnua nsuo. Nantew kakra kɔ asɛmpɔn dua no ho nso yɛ adwuma, na saa ara nso ne sɛ mo nyinaa dwane wɔ kwae mu."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Nneyɛe ho adwuma yɛ biribi a wɔsua ho nhwehwɛmu bebree wɔ brain health ho. Nhwehwɛmu kyerɛ sɛ ɛne dementia asiane tew ba fam, nanso wɔnnya nkɔ so kyerɛ sɛ adwuma no ma dementia nkɔ ho. Nea ɛda so ara ne sɛ adwuma boa ma honam, tumi, ahosɛpɛw ne daa yɛ, wɔ mfe biara mu. Saa asɛm yi kyerɛ nea nhwehwɛmu kyerɛ, adwuma a mpanyin ɛsɛ sɛ wɔyɛ, ne akwan a ɛyɛ ahoɔfɛ a wobɛtu ho ka nnipa a dementia atwa wɔn ho ho.
 
-## Does exercise lower the risk of dementia?
+## Adwuma tew dementia asiane anaa?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Nhwehwɛmu kyerɛ sɛ nnipa a wɔyɛ adwuma no nnya dementia kɛse, nanso nhwehwɛmu no wɔ ne nkyɛn. [2024 Lancet Commission wɔ dementia ho](https://doi.org/10.1016/S0140-6736(24)01296-0) de nneyɛe ho adwuma nnyɛ ho hwɛ sɛ nneyɛe ahorow a yɛbɛsesa 14 mu. Wɔ ne nsusuwii mu no, nneyɛe ahorow yi nyinaa ka dementia a ɛwɔ wiase so ho bi 45%.
 
-Here is what the evidence looks like:
+Eyi ne nea nhwehwɛmu no te:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Nhwehwɛmu a wɔhwɛ nnipa so kyerɛ ɔkwan biako.** Nhwehwɛmu 58 a Commission hwehwɛe no kyerɛ sɛ nnipa a wɔyɛ adwuma no nya dementia asiane bi a ɛyɛ 20% ketewa. Ɛno mu, ɛkɔsi sɛ nnipa a wɔnyɛ adwuma koraa ne nnipa a wɔyɛ adwuma kakra no, ɛyɛ ayaayaa.
+- **Ebia nkitahodi no nam ntam nso.** Commission no kyerɛ sɛ nnipa a wɔnyɛ adwuma betumi ayɛ dementia asiane kɛse. Ɛkyerɛ nso sɛ dementia ne honam nsakrae a ɛtete ase mfe pii ansa na wɔahunu yɛ, ebia ɛma nnipa a ɛwɔ hɔ no nyɛ adwuma kakra.
+- **Nsɔhwɛ a wɔyɛ ho no nnye nkyerɛ pefee.** Nhwehwɛmu bi mu, mpanyin 945 a wɔn mfe yɛ 78 ahyɛ mpanin bɛyɛ mfe baanu, wɔyɛ adwuma a wɔhwɛ ho mprɛnsa wɔ dapɛn mu mprɛnsa. Awiei koraa, ɛnyɛɛ den sɛ adwuma no ma wɔn adwene yɛɛ papa sen afoforo. Nnipa bebree a wɔwɔ afoforo ho nso yɛɛ adwuma, na ɛma nhwehwɛmu no ye ma ɛnyɛ ɔkwan a ɛyɛ mfaso sɛ wɔbɛhwehwɛ.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ka asɛm no pefee. Wɔnnim ɔkwan pefee a adwuma ne Alzheimer's ntam nkitahodi wɔ, na nhwehwɛmu a ɛdi kan no nnye nkyerɛ sɛ adwuma tew anaa ɛma yɛn nkɔ so yɛ ntɛm. Nanso adwuma ka ho sɛ ɛtew nantew ho ahohia, abirebɔ, ɔshia, mmerɛw ne ɛtwerɛ no ho. Ɛfa mmerɛw ne ɛtwerɛ no, nneyɛe ahorow yi no ka adwene nkɔ so ho nso.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Nea ɛsɛ sɛ wohu ne sɛ wotu nkɔ ɛnam sɛ ɛboa wo honam ne tumi ɛnnɛ. Brain no mfaso biara ye sɛ ɛbɛba, nanso ɛnyɛ bɔhyɛ.
 
-## How much activity do older adults need?
+## Mpanyin ɛsɛ sɛ wɔyɛ adwuma bao?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC mmara ma mpanyin a wɔn mfe ye 65 anaa ɛboro so](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) kyerɛ sɛ wɔyɛ adwuma ahorow mmiɛnsa dapɛn biara:
 
-| Type | Weekly amount | Examples |
+| Ɔkwan | Dapɛn mu bɔne | Nhwɛsoɔ |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobic | Ɛnyɛ tɛkrɛma 150 wɔ adwuma a ɛyɛ mmerɛ ɛdɛ, te sɛ nnaadaa 30 wɔ nna 5 mu | Nantew a ɛyɛ ntɛm, sɛ wɔsɛe, nsuo mu adwuma |
+| Honam kɔ so | Ɛnyɛ nna 2, na ɛma nnipa honam nyinaa yɛ den | Ɛtwa nsaman a ɛyɛ nnɔbae anaa nsuo bɔkɔ, mpɛn a wɔtrɛw |
+| Ahoɔden | Daa daa | Nantew a ɛfa ɛdan mu anaa ɛbɔ, ɛsɔre fi mpɛn so |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Eyi yɛ nkɔso, ɛnyɛ nea wɔsɛ sɛ wobɛyɛ. CDC kyerɛ sɛ sɛ wontumi nyɛ saa a, wɔ nea wotumi yɛ ne wo honam ne wo yareɛ mu nyɛ adwuma. Adwuma kakra yɛ papa sen sɛ wonyɛ bi.
 
-## Gentle ways to move for older adults
+## Akwan a ɛyɛ ahoɔfɛ a mpanyin betumi ayɛ adwuma wɔ so
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Nantew wɔ abusuafoɔ anaa adamfoɔ ntam.** Nantew da biara wɔ adamfo, komaa anaa nnipa a wɔtena ase ntam ma nkɔmhyɛ ne ahoɔfɛ.
+- **Adwuma wɔ mpanyin ntam.** Mpanyin ahoɔden a wɔyɛ wɔ mpanyin ntam te sɛ nsa mmɔ, nan ntwɛn ne tiawa mmɔ, ne mmɔ a wɔyɛ wɔ dwoda so no mma honam ho asiane.
+- **Sɛe nnwom.** Fa nnwom a ɔnim no firi ne mmofra ne mfe a ɔyɛ ɔbarima anaa ɔbaa mu ka ho, na ɔnam mmɔ anaa mmɔ a ɛyɛ nkɔm so yɛ. Our [music activities guide](/activities/music/) has ideas.
+- **Yɛ tumi wɔ fie nneɛma so.** Fa nsuo bɔkɔ anaa nsaman a wɔasɔ mu so, bere a wɔrehwɛ ɔdansefo bi a ɔpɛ no.
+- **Yɛ aduan anaa fie adwuma.** Nsuo gu nnuaba so, asensɛ, nsɔre so, ne ntoma sɛe sɛ wɔyɛ adwuma. Hwɛ [outdoor and gardening activities](/activities/outdoor-and-gardening/) ne [household tasks](/activities/household-tasks/).
+- **Adwuma wɔ nsuo mu.** NIA kyerɛ sɛ water aerobics yɛ ɔkwan biako ma wɔn a asɛ wɔ ɔfasu mu adwuma no yɛ wɔn ɔhaw.
 
-## How to exercise with someone living with dementia
+## Sɛnea wobɛyɛ adwuma wɔ onipa a dementia wɔ ho
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Ma onipa a dementia atwa ne ho ho, ɛho hia sɛ ne ho yɛ komm, ɔnya anigye, ne ɔtena ne da biara adwuma ase, na ɛnyɛ sɛ wɔrehwehwɛ dodow. NIA kyerɛ sɛ adwuma boa ma mpanyin honam, nkɔnɔmu ne koma yɛ den wɔ Alzheimer's mu, na ɛboa nso ma wɔn adwene ne ɔdɔ mu asɛm yɛ papa. Fi ase adwuma foforo ansa na wɔkɔkɔ hwɛ wɔn dɔkotafo. Akwan a wɔde ma [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ka ho ne:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Ntena da biara.** Paw ɔkwan a ɛyɛ ahoɔfɛ, a wonim no, a nneɛma nni so. Sɛ onipa no tena ɔno ankasa a, ɛyɛ papa sɛ wɔde ID bracelet a ɛwɔ wo fon nɔma ka ne nsa ho.
+2. **Sɔ mmɔ a wɔyɛ ma mpanyin vidio.** Dififi wo ne no, ɛnyɛ sɛ mo nyinaa dwane anaa mo nyinaa ahyɛ mo ho.
+3. **Ma adwuma nyɛ tenten.** Mmɔ nketewa bebree bɛyɛ papa sen nea ɛyɛ tenten koro.
+4. **Fa nnwom ka ho.** Nnwom a wɔanim boa ma adwuma yɛ anigye, ɛnyɛ adwuma. Sɛ ɔpɛ a, ma ɔnnyan.
+5. **Ma nsuo ne nnɔbae nsaman.** Ma nsuo anaa nsuo a wɔayɛ firi nkɔm mu wɔ adwuma ne akyiri, na fa ntoma a ɛyɛ nnɔbae ne nsaman a ɛfata ma adwuma no hyɛ.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Sɛ ɛyɛ den sɛ wobɛtena a, [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) kyerɛ adwuma a wɔbɛyɛ wɔ dwoda so. Eyi ka sukyerɛ anaa yoga wɔ dwoda so, bean bag toss, bɔl ketewa anaa mpɛn a wɔtrɛw, nsaman a ɛyɛ nnɔbae, pedal exercisers, ne nneɛma ketewa a wɔde yɛ fie adwuma. Adwuma te sɛ sweeping ne dusting nso yɛ adwuma.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Fa nokware hu nea adwuma betumi ayɛ. Lancet Commission hunuu sɛ nhwehwɛmu nni mu sɛ adwuma tew nneyɛe ahorow te sɛ ɔfuw anaa ɔbrɛ. Mo nyinaa dwane ɛnam sɛ ɛbɛyɛ anigye, na ɛnyɛ sɛ ɛbɛsesa ɔhaw a ɛwɔ anwummere bi. Sɛ onipa no ka sɛ daabi a, ɛyɛ mfaso. Gyae adwuma wɔ ɛberɛ a ɛyɛ tenten anaa sɛ mo nyinaa dwane wɔ kwae mu no nso yɛ mfaso. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Wɔ adwuma akyi no, mmɔ ntɛmpɛ a ɛyɛ mmɔ mu te sɛ [Calm Breathing](/games/calm-breathing/) betumi aboa mo nyinaa ada ase. Sɛ ɛyɛ adwuma a wɔtena mu, a ɛyɛ nsa mmɔ, [Sort Together](/games/sort-together/) ne [Picture Bingo](/games/picture-bingo/) yɛ papa wɔ aboɔ so.
 
-## Balance and fall safety
+## Balance ne akwan a ɛyɛ ahoɔfɛ wɔ ntɔ mu
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Ntɔ ho yɛ ɔhaw a ɛyɛ den. [CDC kyerɛ](https://www.cdc.gov/falls/data-research/facts-stats/index.html) sɛ mpanyin a ɛboro mpem baanu (1 wɔ 4) biara ntɔ da mfe biara, nanso ɛyɛ kakra ara a ɛnsoma mpanyin ntɛm kɔ dɔkotafo. Ntɔ baako nso ma ɛyɛ mmaa sɛ ɔbɛtɔ bio. CDC kyerɛ nneyɛe ahorow a ɛma ɔhaw ba:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Ɔyare wɔ nan ne ntwɛn mu
+- Ɔhaw wɔ nantew ne tiawa ho
+- Aduro bi, a ɛka sedatives ne antidepressants bi
+- Ɛhaw wɔ ani hwɛ mu
+- Ɔyare wɔ nan ase anaa nsaman a ɛnyɛ papa
+- Fie ɔhaw te sɛ nneɛma a ɛyɛ ɔkwammɔ, nsɔ a wɔtwa, ne mmɔ a abubu
 
-To move more safely:
+Sɛ wobɛyɛ adwuma ahoɔfɛ:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Fa dwoda a ɛyɛ den a ɛnni ntwene** na, ntena ɔsoro mu, bɛn wo nsa ka nsa ho anaa aboa a wɔde ka ho ama adwuma a wɔyɛ wɔ ɔsoro.
+- **Yi nneɛma ahorow** te sɛ nsɔ, nkɔsoɔ, anaa mmɔ firi baabi a wɔbɛtena.
+- **Kɔ ntɛm bere a wosɔre**, na gyae sɛ onipa no ayɛ sɛ ɔbrɛ anaa ɔnsɔ ne ho yiye.
+- **Fa nsaman a ɛboa mu**, na nnyɛ sɔkɔ anaa sliper a ɛyɛ mmerɛ.
+- **Yɛ balance wɔ aboa a ɛboa mu.** Sɛ wosɔre firi dwoda so ne sɛ wotu nkɔ so no ɛyɛ adwuma a CDC kyerɛ sɛ ɛyɛ balance adwuma.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC kyerɛ sɛ sɛ mpanyin a wɔtɔ ne ti no, ɛnam ne ti so no, ɛsɛ sɛ ɔkɔ dɔkotafo ntɛm, titiriw sɛ ɔfa aduro a ɛpira mogya no.
 
-## Talk with a doctor
+## Ka ho asɛm wɔ dɔkotafo ho
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Kɔkɔ hwɛ dɔkotafo ansa na wofi adwuma foforo ase, titiriw sɛ onipa no yare wɔ n'ɔkɔm, n'ahome anaa ne nkwa mu, anaa ne nantew yɛ ɔhaw, anaa dementia wɔ ne ho. Dɔkotafo anaa physical therapist betumi aka adwuma a ɛyɛ ahoɔfɛ ma wo na wɔhwehwɛ sɛ aduro no nnye nantew. Ka ntɔ biara a ɛbaa, ɛwom sɛ ɛnyɛɛ yaw no. Sɛ ɛhaw wo anaa ɛnyɛ yiye bere a wɔreyɛ adwuma no, gyae. Sɛ ɛyɛ ɔyare a ɛba mfiase wɔ abɛn mu, ahome ho ɔhaw, anaa nkyerɛaseɛ a ɛbaa ntɛmpɛ, frɛ 112.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Saa asɛm yi yɛ ade a wɔde kyerɛ nnipa nyinaa, na ɛnyɛ ayaresa afotu. Hwɛ yɛn [medical disclaimer](/medical-disclaimer/). Sɛ wopɛ ahwehwɛ a ɛsen saa, kenkan [nea nhwehwɛmu kyerɛ wɔ dementia asiane ho](/brain-health/risk-factors/) ne [sɛnea wobɛtumi aban dementia](/brain-health/can-dementia-be-prevented/).

@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Demencia jaqimpi juegunaka: sumpach sarnaqaña"
+description: "Demencia jaqimpi juegunaka lunthatañ: jaqi munañ ukham qalltaña, sarnaqañ thakhi sayt'aña, jan ch'iqachaña, juegu sayt'aña ukat kunapachatixa sayt'añ yatiñ."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Juegu ukax jakañ pachawa, jan yatiqañ pachaqa. Uñt'asiñ pacha ch'ikhi,
+  jaqinakampi chiqa sayt'asa, jan ch'iqaña uta ukan juego ukaxa sayt'añ.
+  Jaqix thakhi sarnaqañapawa, jan ch'iqachañapa, ukat juegu ch'iqapuntañ
+  ukhaxa juegu sayt'añapawa. Lupi uñjañ ukat jist'arañ sayt'aña: "Jupaxa
+  kunsa ukhamarak amuyta?" sasa jaytaña. Sayt'asiñ sumpach sarnaqañ pachana
+  sayt'aña. Juegu jan tukuñ ukat chika sarañ ukax sumawa.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Amtañ ukax jakañ ukat jaqinakampi sarnaqañawa, jan tukuñ ukat jan chiqa jawsaña utjañ muspharañ."
+  - "Qalltañ ukhamaw: jan ch'iqa uta, sumpach k'anaqa, lupi ukat chhullu uñjañ, TV jan sarañ, juego ukax sayt'atawa."
+  - "Jan ch'iqacha sum jan ch'iqaña khitinaka. Sasa: \"Ukham sarnaqañ\" jan ukax sarnaqañ."
+  - "Juego sayt'añ qalltañ mayt'ana: jan ch'iqa uñjañanaka, jan ch'iqa khitinaka, lupi jan ukhamaw uñjañ."
+  - "Uñjatanaka parlañ qalltañ \"Parlamtam...\" sasa, \"Amuyasiñ...?\" sasa jan jaytaña."
+  - "Jan sum ukat ch'iqa uñjañ utjañ ukhaxa sayt'añ. Qhipiñ sayt'añax jan jan sarañapa, sumawa."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "¿Kunas juegu sarañapa?"
+    a: "Juego ukax janiw kunawa ukhamaw wakiskiti. Walja jaqinakax paqallqu minutunaka sumawa, mayni urukasa mä ronda sumawa. Jaqi uñjañ, reloj jan uñjañ, ukat sayt'añ."
+  - q: "¿Jan ukax jupar ukhamaraki ukax jan uñjañ?"
+    a: "Janiw juegu ukax jan yatiqañ ukhamawa. Jan ch'iqa juegu ukax jan jaytañ ukhamawa. Jan sum ukhamawa jan ch'iqachañ, jan ukax yanapt'aña."
+  - q: "¿Kunapachatsa jupax uñjañ munaski ukhaxa?"
+    a: "Sumawa. National Institute on Aging ukax jupax uñjañ munañapa sasaw sañ. Uñjatanakar parlañ ukat uñt'añ."
+  - q: "¿Jupanakax jaqi amuyu uñjañ juegunakasa?"
+    a: "Janiw. Juego ukax jakañ ukat parlañ ukhamawa. Janiw jaqi amuyu uñjañ ukham utjkiti, janiw kuna uñjañ utjkiti, ukat janiw demencia jarkañ kunawa."
+  - q: "¿Khitimpi juego qalltañ sumasa?"
+    a: "Sum jaqimpi sum juego qalltañ. Picture Pairs 4 uñjañanakampi ukat Find the Same 2 ajlliñampi sumawa. Conversation Cards parlañ munañani ukhaxa sumawa."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,129 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Sumpach juego demencia jaqimpi ukax janiw yatiqañ ukham uñjatakiti. Jaqinakax khitimpi kuntix chiqa sayt'asa, lupi uñjapxi, jawsañ sayt'apxi, ukat kuna parlañ puedi ukax parlapxi. Juegu ukax jupanakampi jakañ pachawa.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Uka yatiyañax qalltañ, sarnaqañ thakhi, kunjamasa jan ch'iqachaña, juego sayt'aña, juegu parlañar kunjamasa mayt'aña, ukat kunapachatixa sayt'añ yatiñ uñt'ayi. Uka juego ukax [juegunaka](/games/) ukat nayan cartas, rompecabezas ukat tablero juegunakatakis sumawa.
 
-## What is the best way to play a game with someone who has dementia?
+## Demencia jaqimpi juegunaka sumpach sarnaqañax kunjamasa?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Yatiñ ukax jakañ ukat sumpach sarnaqañ uñjañawa, yatiñ jan tukuñ. Uka [Alzheimer's Association yatiyañ juegunakan](https://www.alz.org/help-support/caregiving/daily-care/activities) sañkasa: jaqin amuyasiñ ukanakar sarnaqañ, qalltañ yanapt'aña, ukat jan ch'iqaña jan ch'iqa juegunakan.
 
-In practice that means:
+Chiqpach ukax akham utjañapawa:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Jupanakan lurimpi sayt'aña, janiw uñtasiñ.** Kuna lurimpi sayt'asaxa, uñjañ pantjasiñ, yanapt'añax sarnaqañ ukhamawa.
+- **Mä juegu mayjt'aña.** Walja ajllañanakax jan yatiñ ukhamaw uñjasa.
+- **Jupanakan sarnaqañ.** Jupax lupi mayjt'asa, mä uñjatak parlasa, jan ukax mä kuti sayt'asa, uka juego ukax uka uruwa.
+- **Sumpach pachanakan ukat jan tukuñ ronda.** Jiwasa k'ajñ ukat chiqpach jakañ ukax sumawa.
 
-## How do I set up before we start?
+## Kunjamasa qalltañ sarnaqañ?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Mä chhaqtayañ minutunaka qalltañat yanapt'aña jan ch'iqachañ.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Sumpach pachan sayt'aña.** [National Institute on Aging (NIA) yatiyañ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sañkasa, jaqi sumpach kawkha pachan sarnaqañ. Walja jaqinakatakix chuymani pacha. Tardi ukax wali ch'amapaka; uñjañ [tardi pacha sumpach juegunaka](/caregiving/late-day-restlessness/).
+2. **Jan ch'iqa uta lurañ.** TV ukat radio jan sarañ, puerta jist'aña sapa. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) yatiyañ sañkasa, jan ch'iqa ukat jan sarañ juegonaka jist'aña.
+3. **Sumpach jakañ uñjaña.** Umaw jupar sayt'aña, uma sarañ, sum sillan sayt'aña, lupi ukat jan jaytañ qhasiñ sayt'aña.
+4. **Sum k'anaqa uñjaña.** Chiqpacha sum k'anaqa, jan jist'arañ ukat jan lupi pantjasiñ uñjatakiti.
+5. **Juego sarañ ukat jan lurañ.** Juegu qalltaña, ajllaña ukat sum sonido yatiña, jupa juegu uñjañ sayt'aña. Ukat uñjañ sayt'aña. [Telefono ukat tablet sayt'aña](/caregiving/tablets-and-screens/) yatiñ.
+6. **Sayt'aña ukat ch'amañ.** Jan jupa ch'amañ ukat jan ch'iqa sayt'aña, uñjañat jan lurañ.
 
-## How do I invite them without pressure?
+## Kunjamasa jan ch'iqachañ mayjt'a?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Sapa mayjt'aña jan jaytañ. Uka mayjt'añ ukax akhamawa:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Walja uñjatanakaw tuqina. ¿Jumax chiqpach uñjañ munta?"
+- "Yanapt'añ munta sapa. Jan yatiqañ."
+- "¿Jumax flores jan ukax pájaros munta? (mä ajllañ ukax sumawa)"
+- "Jupar mayni tarjeta lurañ. ¿Kuna colormi walikiwa?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association sañkasa, juego ukan amtañ sañ, ukhamarak mayni chuymanïñ. Yanapt'añ mayjt'aña ukax jupa wali utjañapawa.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Jan munañ ukaxa, jan ch'iqachaña. Qhipiñ jan ukax mayni juego mayjt'aña. [Jan munañ pachanakan](/caregiving/when-they-say-no/) yatiñ.
 
-## How long should a game last, and how fast should we go?
+## Kunapachatsa juego sarañ, kunjamasa sayt'añ?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Jupa sarnaqañ jaqi ch'iqapun, sayt'aña sayt'añ. Mä juego ukax jakañ pachawa: paqallqu ukat phisqa minuto ukax walikiwa.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Jupaxa uñjatanakan purapacha.** NIA sañkasa, jaqi uñjatanakan jan yatiqañ. Jan ch'iqachañ ukat tunka amuyt'aña.
+- **Mä juego kuti.** Mä jan sumpach sasiña: "Mä uñjatak ch'uqi". Ukat uñjaña.
+- **Jan ch'iqa uñjañ.** Jupax lupi uñjaña ukhaxa, juego ukax uka jakañ.
+- **Uñjañ munaña.** NIA sañkasa, walja jaqinakax uñjañ munapxi, ukax sumawa.
 
-## Should I correct wrong answers?
+## Kunapachatsa sayt'añ ukat jan ch'iqachañ?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Janiw. Kunamtix jan ch'iqachañ, jaqi jan yatiqañ sasa uñjataraki. Alzheimer's Association sañkasa, jan ch'iqachañ jan jaytañ. Juegunakan jan ch'iqachañ ukax sumawa.
 
-| Instead of | Try |
+| Kunsa ukan | Ukhamaw sarnaqañ |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Janiw, ukax jan chiqa." | "Ukham sarnaqañ." (NIA ukan yatiyañ) |
+| "Ukax janiw ch'iqachañ. Uñjañ." | Janiw parlaña, mayni kuti sarnaqañ ukat "Uka ukax ch'uqi ukax jist'arasa." |
+| "¿Jumax kuka ukax amuyta?" | "Uka uñjatanak parlañ." |
+| "Ukax sapa sarnaqatay." | "Walikiwa. Ukham sarnaqañ." |
+| "Ukax jumax yatiyta." | "¿Tukuñ uñjañ munta?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Jaqi jan chiqa sarnaqañ ukaxa, jan sayt'añ. Ch'uqi uñjañ, mayni juego jan lurañ, jan ukax qhipa jaqi lupi. Jan chiqa sarnaqañ ukax jupa ch'uqi kuntix sarnaqañ ukhaxa, uka parlañ sumawa.
 
-## How do I make a game easier or harder?
+## Kunjamasa juego sayt'añ jan ukax lup'añ?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Juego ukax jaqi ukhamawa, jan lunthatañ ukham. Jupax mayni pacha qhipiñ ukhamaw wakiskiti. NIA sañkasa, juego jaqi sum uñjañapa.
 
-| Game | Make it easier | Make it a little harder |
+| Juego | Ukham sayt'añ | Jan ukax lup'añ |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | 4 uñjañanaka, lupi uñjañ | Walja uñjañanaka, jan ukax jan uñjañ |
+| [Find the Same](/games/find-the-same/) | 2 ajllañ | 4 ajllañ |
+| [Sort Together](/games/sort-together/) | Jumax lupi, jupax kesta uñjaña | Jupaw lupi ukat kesta uñjaña |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 p'iqi, jaqi uñjañ parlañ | 9 p'iqi |
+| [Finish the Saying](/games/finish-the-saying/) | Tukuñ uñjaña, mayni parlañ | Jupaw tukuñ parlaña |
+| [Word Search](/games/word-search/) | Imprimir, mä ajllañ uñjaña, mä letra uñjaña | Jupaw ajllañ |
+| [Coloring](/games/coloring/) | 2 color ajllañ | Jupaw walja color ajllaña |
+| [Conversation Cards](/games/conversation-cards/) | Lupi uñjaña | Uñjatanaka ajllañ |
+| [Photo Pairs](/games/photo-pairs/) | Walja wawanakan foto | Walja foto |
+| [Picture Bingo](/games/picture-bingo/) | Yanapt'iri sayt'aña | Jupanakax mayni cartas |
+| [Calm Breathing](/games/calm-breathing/) | Jist'añ ukat uñjaña | Jaqi sayt'añ ukat sawuña |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Juego jan sum ukaxa: lupi jan chuymani, "Janiw atinïkti" sasa, juego jan munañ, jan ukax jan sum jaytaña. Jan ch'iqa ukaxa sayt'añ. Juego chiqa ukaxa, jan ukax lupi uñjaña, uka ukat mayni juego sarnaqañ.
 
-## How do I turn a game into a conversation?
+## Juegu parlañar kunjamasa mayt'añ?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Sapa uñjatax parlañ utjañapa, janiw jan sum sasa. Walja jaqinakatakix sumpach juegunakax ukhamawa.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Jan jaytaña kuntix yatiqañ.** "¿Kuns uñjasta?" "¿Khitim munta?"
+- **Mayni yatiyañ.** "Nayan awkiyan mä uta uñjasiwa."
+- **Parlañ ukat qhipa sarnaqañ.** Jupaw mayni uñjatan parlasa, jaqi juego jist'aña.
+- **Jan chiqa ukat jan ch'iqa.** Parlañ ukax chiqpach.
+- **Juego ukan parlañ.** [Finish the Saying](/games/finish-the-saying/) yatiñ uñjasa, [Conversation Cards](/games/conversation-cards/) parlañatakix ukhamawa. [Photo Pairs](/games/photo-pairs/) jumax foto ukat jaqinakampi.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Walja yatiñanakax [jaqinakan amuyt'aña](/activities/reminiscence/) ukat [parlañ yatiñanakax](/caregiving/communication-tips/) ukanakan.
 
-## When should we stop?
+## Kunapachatsa sayt'añ?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Jupa qhipa kunapacha ch'amani ukhaxa sayt'añ, ukat sumpach mayni pacha. Alzheimer's Association sañkasa, jupa lupi jist'aña jan ukax juego mayjt'añ.
 
-Watch for:
+Uñjañanakax:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- yatiñ, qarjaña ukat uñjañ jan ch'ama;
+- jup'aña, sayariña jan ukax sarañ munañ;
+- jist'aña, jan ch'iqa parlañ ukat "Janiw atinïkti";
+- juego ukat jan sum uñjañ, jupa sarnaqañ;
+- wilaña, jan ch'iqa ukat jan sum parlañ.
 
-How to stop well:
+Sum sayt'añ:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Sumpach uñjañ.** Mä juego jani ch'iqa uñjañ.
+- **Jumax parlañ.** "Jumax tiyi ukat jist'añ?" sasa jan jaytaña.
+- **Jan ch'ama juego.** Sarañ, mä ch'uqi jan ukax t'ant'a.
+- **Sum parlaña.** "Jumampi sarnaqañ sumpach kuna." Jan ch'iqachañ.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Qhipiñ sayt'añ, jan ukax juego sayt'añ, jist'aña ukat jaqinakampi jist'aña, ukax sumawa.
 
-## Can we play in a group or over a video call?
+## Grupo jan ukax video llamada ukhamaw juegaña?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Sumawa, jan mä yatiqañ. Grupo ukan qhipa jaqinakax, yanapt'iri sayt'aña, mä juego sumpach uñjañ. [Picture Bingo](/games/picture-bingo/) cartas ukat grupo ukatakix sumawa. Yatiñanakax [care home grupo juegunaka](/activities/care-home-groups/) ukhamaw.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Video llamada ukan, jaqi uñjañ parlaña, jupa sarnaqañ ukax lurañ. Llamada phisqa minutunaka jist'aña. [Llamadas telefónicas ukat video llamadas](/activities/phone-and-video-calls/) yatiñanakax walja.
 
-## What if a game just isn't working?
+## Juego jan sum sarnaqaski ukhaxa kunas?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Walja urunakax jan sumawa, ukax jumampi jupampi jan ukhamawa. Juego ukax sayt'añ, mayni pacha, mayni juego, jan juego. Walja juego jan TV ukat jan tablet ukhamaw: jaqi uñjañ, toalla lluqaña, foto álbum uñjaña, jan ukax sarañ.
+
+[Juego ideas](/activities/ideas/) yatiñanakax walja.

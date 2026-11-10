@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Kousket ha yec'hed an empenn: petra lavar ar studioù"
+seoTitle: "Kousket ha dementiezh: petra lavar ar studioù"
+description: "Petra lavar ar studioù diwar-benn kousket ha dementiezh, ha ferioù kousket evit tud kozh hag evit ar re a sikour ho c'harantez."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Studioù hir a gevrea kousket berr e kreizoad-oad gant un arvar uheloc'h a zementiezh, ha studioù
+  labour a ziskouez e c'hall ar gousked sikour an empenn da zilojiñ ar fallagr. An testenioù a zo
+  c'hoazh bihan, ha Lancet Commission 2024 n'en deus ket roet ar gousked evel ur riskl kemmadus.
+  Ferioù kousket reoliek a sikour ar santout bemdez. Kousket fall a vez boutin gant ar dementiezh
+  hag a dle bezañ lavaret d'ur veleg.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Ur studi e Breizh-Veur, a heulias tost 8 000 den a-hed 25 bloaz, a gevreas kousket 6 eur pe nebeutoc'h e oadvezh-kreiz gant un arvar uheloc'h a zementiezh."
+  - "Kemmoù er gousked a c'hall bezañ ur arwydd kentañ eus ar dementiezh, neuze e vez diaes gouzout piv a zo an abeg hag piv an disoc'h."
+  - "Ar stlennadennoù a ziskouez kousket a zilam ar beta-amiloid eus an empenn zo gwir met bihan, hag ec'h eus anezho re e-touez al logodennoù."
+  - "Apnea kousket a zo boutin, a c'hall bezañ tretet, ha kevrenn gant ar dementiezh e studioù; kemmit mat ar roñkadennoù kreñv hag ar c'hoant kousket en deiz."
+  - "Arabat kregiñ, paouez pe kemmañ medisin kousket pe skoazell kousket hep kaozeal gant ur veleg."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Ha kousket fall a gaus an alzheimer?"
+    a: "N'eo ket bet diskouezet. Studioù a gevrea kousket berr gant un arvar uheloc'h a zementiezh, met ar dementiezh e-unan a dorr ar gousked, alies kalz bloavezhioù a-raok an diagnostik. Lancet Commission 2024 a soñjas n'oa ket an testenioù rik-kenstal a-walc'h evit rollañ ar gousked en traoù a c'haller kemmañ."
+  - q: "Pet eur kousket a ranko tud kozh?"
+    a: "Hervez an Institut Nasionel Kozhded (NIA), tud kozh a ranko kement ha tud all, da sikour 7 da 9 eur bemnoz. Kalz tud kozh a ya d'ar gwele ha sav a-raok evel a-raok, ar pezh a zo boutin."
+  - q: "Perak ma kousk an den a sikourit en deiz ha ma sav en nozvezh?"
+    a: "Ar dementiezh a c'hall kemmañ ar c'hloc'h biologel, ha setu ma vez kemmet an amzer kousket hag ar sav. Poan, c'hoari, naon pe efedoù ar medisinerezh a c'hall ivez bezañ e-kreiz. Sklêrijenn an deiz, obererezh pemdeziek hag un abadenn fraezh a c'hall sikour. Ur veleg a c'hall klask an abegoù a c'haller tretiñ."
+  - q: "Ha rankout a ran reiñ skoazell kousket d'an den a sikourin?"
+    a: "Kaozeal gant e veleg da gentañ, en o zouez diwar-benn ar produioù a werzher dre-ziouer. An NIA a lavar e c'hall medisinoù kousket kreskiñ ar riskl a zister, a gouezh ha a gollet soñj e tud a zo gant an alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Ar c'housket hag yec'hed an empenn a zo liammet ervat, met c'hoazh n'eo ket bet mezuliet penaos. Studioù a gevrea kousket berr gant un arvar uheloc'h a zementiezh. Ar dementiezh, a-zeskor, a c'hall dielfennañ ar gousked. Pajenn-mañ a ziskouez petra a ziskouez ar stlennadennoù ha petra n'int ket, a ro ferioù kousket aes, ha a gendalc'h ouzh ar gousked fall a vez boutin gant ar dementiezh. Ne ro ket kuzulioù diwar-benn medisinoù kousket; ar gaozeadenn-se a zo gant ho veleg.
 
-## Is poor sleep linked with dementia?
+## Ha kousket fall a zo liammet gant ar dementiezh?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Studioù hir a gevrea kousket berr gant un arvar uheloc'h a zementiezh, met an testenioù n'int ket c'hoazh diskoulmet.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Ur studi 25 bloaz e Breizh-Veur.** Ar renerien a heulias tost 8 000 den e [studi Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Ar re a gouske 6 eur pe nebeutoc'h e 50 pe 60 vloaz a oa un arvar uheloc'h a zementiezh diwezhatoc'h eget ar re a gouske 7 eur. Ar re a gouske 6 eur pe nebeutoc'h e 50, 60 ha 70 vloaz a oa tost da 30% uheloc'h a riskl eget ar re a gouske 7 eur bep tro. Studi evezhiadenn oa-se, ha setu un liamm a ziskouez, n'eo ket un abeg.
+- **Gweledenn Lancet Commission.** Ar [Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) n'en deus ket ouzhpennet ar gousked d'he roll 14 riskl kemmadus. Barnet a reas e oa ar testenioù ket estreget a-walc'h. Un abeg eo «kevredigezh kefeleget»: kemmoù an empenn a zerc'h dre ar dementiezh a gommenço kentoc'h eget an diagnostik ha a c'hall dizegemer ar gousked. Ur studi bras, un liamm etre kousket hir ha dementiezh a zivanas pa vez lamet ar pemp bloavezh kentañ eus ar heuliadur.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Setu ne vez ket da zoujañ ur nozvezh berr a-wechoù. Kousket reoliek ha mat zo tu da glask, rak en deus efed mat war an humor, ar soñj ha surentez hiziv.
 
-## What is the "brain-clearing" sleep research?
+## Petra eo ar studi «diskar an empenn»?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Gallout a rit bezañ lennet e tisklaer ar gousked «a netaas» an empenn. An idee-se a zeu eus ur klask gwir, met bihan eo c'hoazh.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Gant logodennoù.** Ur studi 2013 [meneget gant an NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) a gavas e kreskas ar plas etre ar c'helloù an empenn tost 60% pa gousked al logodennoù. Ar c'hlasenn a red e-barzh an empenn dre ar pezh a vez anvet ar sistem glimfatek. Ar beta-amiloid, ur brotein liammet gant an alzheimer, a dynne buanoc'h eus empennoù al logodennoù o kousked.
+- **Gant tud.** Ur studi bihan [2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) a sikanas 20 den yac'h e 22 da 72 vloaz goude un nozvezh boutin hag ur nozvezh hep kousket. Goude an nozvezh hep kousket, ur sinal skanadur an empenn evit ar beta-amiloid a grog tost 5% en ur lec'h a enfoun ar hipokampus, ur rann pouezus evit ar soñj. An aozerien a zo bet dezho galvet an dra-se testenioù rakvezhiek. Ne ouient ket ma tiskar an dra-se goude ar repos, pe ma tiskouez diskar bras pe ur c'hreskadenn beta-amiloid.
+- **Un dibenn en daou sens.** Lancet Commission a notenn e c'hall ar c'hreskadenn beta-amiloid kemmañ ar gousked tud kozh.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+An traoù-se a skoulm da zeskiñ perak e vez ar skiantourien dedennet gant ar gousked. Ne ziskouezont ket e c'hall ur gousked well lakaat ar c'halz-amzer da zirollañ an alzheimer.
 
-## What sleep habits may help?
+## Petra eo ar ferioù kousket a c'hall sikour?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Tud kozh a ranko 7 da 9 eur kousket bemnoz, memes ar pezh a zo ezhomm d'ar re all, hervez an [Institut Nasionel Kozhded (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Setu ar pezh a ginnig:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Miret un amzeriad rekis.** Monet d'ar gwele ha sevel en ur c'hloc'h bep deiz, memes d'ar fin-sizhun.
+- **Sevel ur fin-deiz.** Lenn, selaou ur sonerezh lazhus pe kemer ur bagad dour tomm kent mont d'ar gwele.
+- **Ober ar c'hambr kousket kompez,** ha n'eo ket re dom na re yen.
+- **Lakaat munud war ar c'hafe hag an tei.** Kafe, te, soda ha chokolad a c'hall dihuniñ ac'hanoc'h.
+- **Dilezel an alkool,** kement ha ma vez nebeut, a lavar an NIA.
+- **Dilezel debriñ brasoc'h tro daou pe tri eur kent kousket,** ha dilezel evañ brasoc'h diwezhat en deiz.
+- **Ober sport alies, met ket e-kerzh 3 eur kent kousket.** Gwelit hon [gidour sport](/brain-health/exercise/).
+- **Lakaat ar skramoù er-maez eus ar c'hambr kousket.** An NIA a gonsell na vefe ket gwelet TV pe implijet ur urzhiataer, ur pellgomzer pe ur tablezenn eno.
+- **Dilezel kousket diwezhat en deiz pe ar fromm-noz ma c'haller.**
 
-## Sleep problems in dementia
+## Kousket diaes e dementiezh
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Kemmoù er gousked a zo boutin e dementiezh. An [NIA a zerzh](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) kousket kalz pe re nebeut, deffroerzh kalz a wechoù en nozvezh, ha kousket kalz en deiz. Deskrivañ a ra ivez «sundowning»: an diskuzh, an kenoberiezh pe ar fazi a grog pe a greskfe pa vez ankouaet ar sklêrijenn.
 
-Caregiver tips from the NIA include:
+Tipoù an NIA evit ar re a sikour:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Kaout sklêrijenn ha obererezh e-kerzh ar mintin.** Mont en-deiz pe azezañ tost d'ur prenestr e-pad an deiz, ha skoazellañ an den da vezañ aktivel bep deiz. Sklêrijenn gleb a c'hall sikour da adregeriñ ar c'hloc'h biologel.
+2. **Steuziñ oberennoù nerzhus evit ar mintin.** Klask bagañ er mintin pe debriñ ar bred brasañ da greisteiz.
+3. **Mirout ar c'housked berr hag en amzer mat.** Pevezh ar gousked diwezhat e-pad an deiz a zeuz.
+4. **Lakaat an fromm-noz re lazh.** Digresk ar sklêrijenn, lakaat koun ar son ha c'hoari ur sonerezh lazhus ma c'hoant d'an den. Hon [gidour war an aon diwezhat en deiz](/caregiving/late-day-restlessness/) a ro muioc'h a sternadoù.
+5. **Miret un abadenn gousked hir.** Lenn gant ar vouezh en un heur heñvel bep noz a zo ur skouer diwar an NIA. Un [abadenn bemdez stabil](/activities/daily-routine/) a sikour ivez.
+6. **Lakaat munud war ar c'hafe hag an alkool.**
+7. **Implijout gouloù nozvezh** en ar c'hambr kousket, an hent hag ar c'hambr-bagnerezh.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Evit dihuniñ en nozvezh, a-zeskor an [dre-ziwall ti](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) an NIA a lak gouloù nozvezh pe sensoriou sklêrijenn emgefre, barrioù-dorn en ar c'hambr-bagnerezh, ur skeud liv kreñv war-zu ar stlejoù, ha medisinoù lakaet en ul lec'h serret.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Un fromm-noz berr ha dizarzh a c'hall skoazellañ ac'hanoc'h an daou da vezañ kalz eeun. Klaskit un [Calm Breathing](/games/calm-breathing/) pe un nebeud [Conversation Cards](/games/conversation-cards/) lent. Skipit an dra all a stard e-tro ar gwele, ha paouez kement ha ma'z eo bet an den ac'hanoc'h hepken.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Ar gousked disteuzh a ziskar ivez ar re a sikour. Hon [gidour evit ar sikour e-unan](/caregiving/caregiver-self-care/) a ginnig ar pezh a c'hall sikour ac'hanoc'h da gousked ha da vezañ skoazellet.
 
-## What about sleep apnea?
+## Petra eo an apnea kousket?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Apnea kousket a gaus pausadennoù berr en analadenn e-pad ar gousked, alies kalz gwezh en un nozvezh. Hervez an NIA, mard ar vez ket soñjet ouzh-se, e c'hall kaout kudennoù evel gwask uhel, ar strok pe kollet soñj. Arwydoù zo ronkadennoù kreñv hag ar c'hoant kousket en deiz, ha kalz tud ne ouient ket ez eus ganto. Ur studi bloavezhioù 2024 a Lancet Commission a zisklêr un adwelet a 11 studi e-pad an hini e oa tud gant apnea kousket tost 43% uheloc'h a riskl a zementiezh. Met e nebeud studioù eo bet kemeret ar bouez e kont, ha setu ne vez ket sur an liamm.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Gallout a rit kavout apnea kousket hag e tretiñ. Hervez an NIA, ur mekanik CPAP a sikour bepred pe aliesañ. Ma ronk ac'hanoc'h pe an den a sikourit ronkadennoù kreñv, ma stok en analadenn en ur gousked, pe ma'z eo kousket kalz en deiz, lavarit d'ur veleg.
 
-## A note about sleep medicines
+## Un notenn diwar-benn medisinoù kousket
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Ne roimp kuzulioù ebet diwar-benn medisinoù kousket pe atebedoù. An NIA a notenn e c'hall medisinoù kousket sikour evit un nebeud amzer, met n'int ket ur remedi evit an insomnia. Notenn a ra ivez e c'hall kelc'hiadoù rentet evit sikour tud a zo gant an alzheimer da gousked kreskiñ ar riskl a zister, a gouezh pe a gollet soñj. Arabat kregiñ, paouez pe kemmañ medisin kousket ebet, en o zouez skoazellioù kousket a werzher dre-ziouer, hep kaozeal gant ur veleg pe ur farmaour.
 
-## Talk with a doctor
+## Kaozeal gant ur veleg
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Gwelit ur veleg ma'z oc'h bepred skuizh, ma ne gousked ket mat ar pep nozvezh, ma ronk kalz pe ma'z eus pausadennoù ana en nozvezh, ac'hanoc'h pe an den a sikourit. Mard a ya war-raok pezhioù kousket e dementiezh, an [NIA a gonsell](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) kaout kuzulio meziek. Ur gwiriadenn a c'hall kavout abegoù evel poan, ur c'hlenvedenn kousket all, ur c'hlenv pe efedoù ur medisin. Ur c'hwallvent buan, pe ur c'hemm buan er gousked ganti, a rank kaout skoazell prim. Lenn [pegoulz kas d'ur veleg](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Pajenn-mañ a zo titouroù hollek, n'eo ket kuzulioù medisinel. Gwelit hon [disklêriadur medisinel](/medical-disclaimer/).

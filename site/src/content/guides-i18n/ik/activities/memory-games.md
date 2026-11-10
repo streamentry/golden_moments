@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Iḷitchuġniq Piŋasut Iñuŋnun Iḷitchuġnik Atuqtunun"
+seoTitle: "Iḷitchuġniq Piŋasut Iḷitchuġnik Atuqtunun"
+description: "Nalautchiḷḷugu, aglakpiat iḷitchuġniq piŋasut iñuŋnun iḷitchuġnik atuqtunun, qanuk piŋallugik naagga iñuk nalupqisuġnaŋitchaa: aglakpiat tautuktillugit, ikitqiat, naakka akitunniq, atautchikun piŋaġlusi."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Iḷitchuġniq piŋasut iñuŋnun iḷitchuġnik atuqtunun nalaunŋaruq iḷitchuġniq
+  atugunnaqtuŋił̣ł̣ugu. Piŋagiñ aglakpiat nalautchiḷḷugu tautuktillugit,
+  sisamat uumaniḷu six-ŋuŋat avatich, atautchikun piŋaġlusi, akitunniġlu
+  piiqsiġlugu. Aglakpiak tautugniq itqanaiqsauq iḷitchuġniġñik. Quviasuġniq,
+  nalupqisuiññiq iñuŋnun, piŋasuuq.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Iḷitchuġniq piŋasut aglakpiat iġġutikkaŋit, taamna iḷitchuġniq atuġnaqtuq iḷitchuġniġñik nutim. Aglakpiat tautuktillugit iġġutikkisigiñ."
+  - "Ikitqiat avatich, aŋivat aglakpiat, atausiullu nalunaiqsiñiq quviasuutigilugu piŋasuq."
+  - "Atautchikun piŋaġlusi, ikayuġlusi, akitunniġlu piiqsiġlugu. Kiñaliqaa nalupqisuġnaŋitchaa."
+  - "Iḷitchuġniq piŋasuunik iḷitchuġniq mamitqunnaqsauŋił̣ł̣ugu, aullaŋanaiqsauŋił̣ł̣ugu, nutqaqunnaqsauŋił̣ł̣ugu nalunaitchuq. Piŋagiñ quviasuġniq atautchikun."
+  - "Nutqaġlusi suli quviasuktillusi. Aglakpiat uqausiġilugit nalaunŋaruq."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Sumi iḷitchuġniq piŋasuaq nalaunŋaruq iñuŋmun iḷitchuġnik atuqtumut?"
+    a: "Nalautchiḷḷugu piŋasuaq aŋivat aglakpiat ilisaġiruat tautuktillugit, sumik Picture pairs sisamaŋnun uumaniḷu six-ŋuŋnun avatich. Aglakpiak aipaa nalautchiguni tautuktillugu quviasuutigilugu iḷitchuġniq nutim nalupqisuiññagu. Find the same suli itqanaiqsauq, atausiq aglakpiak nalautchigñiqsuq malġuŋniñ sisamaŋnun."
+  - q: "Iḷitchuġniq piŋasut ikayuutaġuuqat iḷitchuġmun?"
+    a: "Iḷitchuġniq piŋasuunik iḷitchuġniq mamitqunnaqsauŋił̣ł̣ugu, aullaŋanaiqsauŋił̣ł̣ugu, nutqaqunnaqsauŋił̣ł̣ugu nalunaitchuq; Cochrane-naq uqausiq nalunaiqsiruq qaujimajjutigilugit ikayuutaŋit iḷitchuġniq nutqaqunnaġniġñik. Piŋasut quviasuutigiḷḷuagit atautchikun iñuusukkupsi. Tainna piŋagiñ quviasuġniq ikayuqtuiññiġlu."
+  - q: "Concentration piŋallavikpiuk iñuŋmun iḷitchuġnik atuqtumut?"
+    a: "Aullaqiġmi, iḷaŋit suli quviasuutigilugu, ikitqiat aglakpiat atuġlugit. Iḷitchuġniq sumiq aglakpiat iñiqsaaqatigiŋŋikuuq, aglakpiat iġġutikkisigiñ tautuktillugit, atautchikun nalautchiġlusi. Taamna nalautchinniq itqaummaġaa, iḷitchuġniġlu nalupqisuiññiq piiqsiġlugu."
+  - q: "Sumi iḷitchuġniq piŋasuaq nalaunŋaruq iñuŋnun amisuŋnun atautchikun?"
+    a: "Picture bingo tautuktuaguruq iġġuaq, ilisaġiruat uqausiġit naammaksiḷḷugit, uqallaun piŋasutlu nalaunŋarut amisuŋnun. Piŋagiñ tamaat naammaksitillugit, kiñaliqaa nalupqisuġilugu uqausiġilugit, iñuk atausiq nalupqisuġnaŋitchaa."
+  - q: "Akiḷḷuŋił̣ł̣ugit iḷitchuġniq piŋasut iñuŋnun internet-mi itqaqat?"
+    a: "Ii. Piŋasut uvani, ilaliutigiḷḷugit Picture pairs, Find the same, Photo pairs, Picture puzzle, akiḷḷuŋił̣ł̣utit, atiŋił̣ł̣utit, atuġnaqtuq uqalimaaqtuġmi, tablet-mi, qaluŋmiḷu. Kiñaliqaa akitunniġilaa, nalunaiqsuiññiġilaa."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Uqautigilugu "memory games for seniors", amisuat nalautchigñiqsut iñuŋnun iḷisimaŋiññiqsut piŋasuaq: aglakpiat iġġutikkaŋit, akitunniq, nalunaiqsiñiq. Iñuŋmun iḷitchuġnik atuqtumut, tamatkua piŋasuaq nalupqisuġutaunŋaruq sumik atuġnaqtuq. Tainnatun piŋasut itqanaiqsaunŋarut. Makua uqausiqsat nalunaiqsuq qanuk, iḷisaġlugiḷḷu piŋasut nalaunŋaruat atuni.
 
-## Why do classic memory games frustrate people with dementia?
+## Suuqpa iḷitchuġniq piŋasut nalupqisuiññiġitkaat iñuit iḷitchuġnik atuqtut?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Iḷitchuġniq nutim iḷisimagniq atuġigaat, taamna aullaqiġmi atuġnaqtuuq Alzheimer's-mi, amisuq iḷitchuġniq piŋasuaq. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) uqaqtuq aullaqiġmi nalunaiqsiñiq amisuq Alzheimer's-mi iḷitchuġniq nutim iḷisimaksranik. Concentration-mi, malġuk aglakpiak iġġuviik, iḷisimagniq sumiq iñiqsaaqatigiŋŋik, taamna atuġlugu. Taamna iḷitchuġniq nutim.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Akitunniq, nalunaiqsiñiq, naagga nalaunŋił̣ł̣ugu nipiq ilaliutigiḷḷugu, iñuk iḷisimanaqtuq sumik atuġnaġniġñik, nagliktami tautuktuaguruq. Amisuat piŋasuiññiqsaaġuŋarut.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Aglakpiak tautugniq allaŋŋuq, itqanaiqsauq. Malġuk teacup tautuktillugit nalunaiqsiñiq quviasuutigilugu. Taamna nalautchinniq itqaummaġlugu, iḷitchuġniġlu nalupqisuiññiq piiqsiġlugu.
 
-## How do you make a memory game gentle?
+## Qanuk iḷitchuġniq piŋasuaq itqanaiqsautillugu?
 
-These adjustments work for card games, board games and games on a screen.
+Makuat ikayuutausuurut aglakpiat piŋasuŋni, avguŋni, qaluŋmiḷu.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Aglakpiat tautuktillugit iġġutikkisigiñ.** Nalautchinniq tautuktillugit suli piŋasuaq, quviasuutigilugulu.
+2. **Ikitqiat avatich atuġlugit.** Aullaqtillusi malġuŋniñ piŋasutun nalautchinnik. Ilaliutigik iḷisimaġikpata suli ikitqigigaa.
+3. **Aŋivat, ilisaġiruat aglakpiat iñuŋnun nalunaiqsiñ.** Teacup, sunflower, sailboat. Taiguaġuiññiq, naagga aglakpiat amisuat.
+4. **Atautchikun piŋaġlusi.** "Qimmiŋnik nalautchiġluta" uqallusi, "ilviññiq" uqallak. Ikayuġlusi nalunaiqsiġlusi.
+5. **Akitunniq piiqsiġlugu.** Kiñaliqaa akitutchuiññiqsuq. Apiqqutauguviñ, "naammaksirugut" nalaunŋaruq.
+6. **Akitunniġilaa.** Akitunniq piiqsiġlugu, suŋiḷḷu.
+7. **Aglakpiat uqausiġilugit.** "Tautuk umiak. Umiagruaqpich?" Uqallaun quviasuutigilugu.
+8. **Nutqaġlusi quviasuktillusi.** Nutqaġlusi nalautchinnigmik, suli quviasuktillusi.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) tainnatun uqaqtuq: piŋasuaq iñuk atuġnaqtaa nalunaiqsiġlugu, nalupqisuiññiq kamanaġlugu, iñuk nalunaiqsiruq naammaksiniġmik.
 
-## Gentle memory and matching games to try
+## Iḷitchuġniq nalautchinniġlu piŋasut itqanaiqsat
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (aglakpiat tautuktillugit nalautchinniq)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) nalautchinniq piŋasuaq aŋivat aglakpiat 4-miñ 12-mun avatich. Aglakpiat tautuktillugit iñiqsaunŋarut, nalautchinniq suli, iḷitchuġniġñik iñiqsaatinŋił̣ł̣ugu. Aullaqtillusi sisamat avatich. Aullaqiġmi iñuŋmun ikitqianik atuġnaqtuq quviasuutigilugu, **Hidden pictures** atuġnaġikpiuñ, aglaan tautuktillugu iġġutikkisigiñ quviasuiññiqpata.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) atausiq aglakpiak qulaani tautuktittuq, malġuŋniñ sisamaŋnun ataani. Nalautchiġlugu naliq. Taamna itqanaiqsaunŋaruq nalautchinniq piŋasuaq uvani, iñuŋnun amisuat aglakpiat nalupqisuiññiġitkaat, ilaliutigiḷḷugit kinguliqmi iñuŋnik ikayuqtimun.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (ilagiit aglakpiat iḷitchuġniq piŋasuaq)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) aglakpiat nalunaiqsimatigik nalautchinniq piŋasuanun saġvaqtuq: qimmiq, nautchiagvik, taġiuġvik. Ilisaġiruat inmiḷu nalunaiqsirut uqallaun aullaqtittigiruat. Aglakpiat browser-miñi iñiqsaurut, qaluŋmun aullaqtituiññiqsut.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) aglakpiat nalunaiqsigñiaġlugit iñiqsaatini, sumik igluani naagga nautchiagviŋmi. Nalunaiqsiñiq ilisaġiruamik nunami iḷisimagniq atuġigaa, iḷitchuġniq nutim atuġuiññagu.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) aglakpiak 4-mun naagga 9-mun avatichun avguqtuq. Malġuk avak naliq igluqługit naammaksitillugu. Naammaksiruq aglakpiak tautuktuaguruq ikayuqtuaq.
 
-### Real cards on the table
+### Aglakpiat avguŋni
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Qaluŋmik atuġuiññiqsutin. Nalautchinnik aglakpiat malġuŋniñ avguŋniñ piiqsiġlugit. Malġuŋni tuqqutqusiġlugit nalautchiġlusi. Kinguani, qaluaq naagga nalunaiqsiñiq nalunaiqsiġlugit. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) aglakpiat avguŋni piŋasuat iḷisaġigai aullaqiġmi.
 
-## Which memory games suit each stage?
+## Sumi iḷitchuġniq piŋasut nalaunŋarut atuni?
 
-Stages are loose labels. Go by what the person enjoys today.
+Atuŋit nalunaiqsiñiqsat itqanaiqsaŋŋut. Iñuk uvluakun quviasuutigilugu kamanaġlugu.
 
-| Stage | Games that often fit | How to set them up |
+| Atuŋa | Piŋasut nalaunŋaruat | Qanuk itqanaiqsautillugit |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Aullaqiq | Picture pairs, Photo pairs, Picture puzzle 9 avatich, ilisaġiruat aglakpiat piŋasut | Nalunaiqsisigik. Avatich iġġuqtigun quviasuutigilugu; akitunniq nalupqisuiññiġigaa piiqsiġlugu |
+| Qitqiñiq | Picture pairs 4-miñ 6-mun avatich tautuktillugit, Find the same, Sort together | Aglakpiat tautuktillugit. Saniani aquvitlutin ikayuġlusi |
+| Kinguliq | Find the same malġuŋnik, atausiq aŋivaq aglakpiak atautchikun tautuglugu | Ikitqiaq. Ilviñ tablet-mik tigumiaġikpiuñ; nalunaiqsigun, naagga naalaglugu tautuglugulu |
 
-## Do memory games help with dementia?
+## Iḷitchuġniq piŋasut ikayuutaġuuqat iḷitchuġmun?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Iḷitchuġniq piŋasuunik iḷitchuġniq mamitqunnaqsauŋił̣ł̣ugu, aullaŋanaiqsauŋił̣ł̣ugu, nutqaqunnaqsauŋił̣ł̣ugu nalunaitchuq. [Cochrane-naq uqausiq](https://pubmed.ncbi.nlm.nih.gov/30864747/) iḷitchuġniq nutim ikayuutaŋiññik nalunaiqsiruq iñuŋnun iḷitchuġniq ikitqiamik atuqtunun nalunaitchuq iḷitchuġniq nutqaqunnaġniġñik. Uqausiqput [iḷitchuġniq piŋasut iḷitchuġniġlu](/brain-health/brain-games/) nalunaiqsuq qaujisaat nalunaiqsiraŋit nalunaitchuraŋiḷḷu.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Taamna piŋasuiññiqsaaġutinŋił̣ł̣ugu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) uqaqtuq quviasuġniq kamanaġlugu, naammaksiniq kamanaġuiññagu. Qulit minutes nalautchiġlusi uqallaun quviasuutigilugu uvluakun.
 
-## What about memory games for seniors without dementia?
+## Qanuq iḷitchuġniq piŋasut iñuŋnun iḷitchuġniŋił̣ł̣uŋnun?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Iñuk iñutqaq iḷitchuġniġñik nalupqisuiññigumi akitunniq, nalunaiqsiñiq, atuġnaqtunik quviasuutigilugu, nalaunŋaruq. Aglaan taamna iḷitchuġniq nutqaqunnaġniġñik iñiqsaaŋił̣ł̣ugu; piŋasuunik nalunaitchuq. Itqanaiqsat piŋasut makua nalaunŋarut iñuich atautchikun piŋakkamik: ataatasiq iḷitchuġnik atuqtuq miqłiqtuġlu atautchikun nalautchiġlutik, nalupqisuiññiġlutik.
 
-## When should you stop or change the game?
+## Qakugu nutqaġlusi naagga allaŋŋuqtitilusi piŋasuaq?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Anirniq, tablet-mik aqpatniq, "atuġnaġniaŋitkiga" uqallak, naagga nalupqisuiññiq nalunaiqsiñiqsat itqanaiqsautitquvlugu naagga nutqaġlusi. Ikitqiat avatich atuġlugit, aglakpiat tautuktillugit iġġutikkisigiñ, [Find the same](/games/find-the-same/)-mun saġvaġlusi, naagga aglakpiat tautuglugit uqallaġlusi. Piŋasuiññiqsaaġumi, nalaunŋaruq. Uqausiqput [qanuk atautchikun piŋallusi](/caregiving/how-to-play-together/) ikayuutaġaa.

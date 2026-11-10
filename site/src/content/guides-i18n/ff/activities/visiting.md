@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Yillitaade mo won-ɗaa e majjere cellal walla lopital"
+seoTitle: "Yillitaade mo won-ɗaa e majjere cellal: Ko mbaɗataa"
+description: "Ko mbaɗataa so aɗa yillitoo mo won-ɗaa e majjere cellal, suudu toppitaagu walla lopital: ko addataa, huunde feewnde nde mbaɗon, yillitaade juutɗo naa e yahde no weliri."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  So aɗa yillitoo mo won-ɗaa e majjere cellal walla lopital, waɗ feewi tan:
+  inno innde maa so a yettii, add huunde nde lolliron, wano nate, gaaci walla
+  nyaamdu mo o yiɗi, tee mbaɗon huunde wootere feewnde no wonndude. Yillitaade
+  juutɗo naa kono ɓuri heewde ina waawi yahde no ɓuri moƴƴude e yillitaade
+  juutɗe kono nde heewi. Teelto waynitaare nde weliri, nde waylataa, ngam yahde
+  ina weeɓana on onon fof.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Jaɓɓor mo innde mum tee inno ko hommbo ngoni-ɗaa, ngam o haɓaaka miijtaade ɗum: 'Jaam, Yumma, ko Susan, ɓiy maa debbo.'"
+  - "Add huunde wootere walla ɗiɗi nde lolliron, wano deftere nate, gaaci ɗi o yiɗi, dolokke feewɗo walla nyaamdu mo gollotooɓe ɓen jaɓii."
+  - "Yillitaade juutɗo naa kono ɓuri heewde ina waawi yahde no ɓuri moƴƴude e yillitaade juutɗe kono nde heewi. Wonnde maa e makko ina ɓuri himmude e ko kaalataa."
+  - "To lopital, hokku gollotooɓe ɓen hello wootere winndungo baɗte mo, tee haal feewde dokteer oo so wonii bayle jaawɗe."
+  - "Teelto yahde maa: haal ko foti a wonde toon, huutoro waynitaare wootere sahaa kala, tee yah tawa a luttitaaki."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Ko hommbo mbaɗ-mi addude so miɗo yillitoo mo won-ɗaa e majjere cellal?"
+    a: "Add huunde nde lolliron, wonaa huunde nde kaaldon. Deftere nate tokkere, doggol gaaci ɗi o yiɗi, dolokke feewɗo, nebban ɗannde, deftere nate baɗte huunde nde o yiɗunoo, walla nyaamdu mo gollotooɓe ɓen jaɓii ina moƴƴi. E suudu toppitaagu, nate ɓesngu e piiji ɗi o anndunoo ena mbaawi waɗde suudu ndu ina ɓura nanndude e galle mum."
+  - q: "Ko foti mi wonde toon so miɗo yillitoo mo won-ɗaa e majjere cellal?"
+    a: "Alaa dumunna moƴƴo gooto tan. Ɓesngu heewngu ina tawoyi yillitaade juutɗo naa kono ɓuri heewde ina ɓuri moƴƴude e yillitaade juutɗe kono nde heewi, sabu o ina waawi ŋakkude semmbe ko yaawi, tee o waawaa siftorde ko foti a wonde toon. Reen maantaaɗe ŋakkude semmbe, tee yah tawa yillitaango ngo ina weli haa jooni."
+  - q: "Ko kaal-mi so o naamnii yahde galle?"
+    a: "Jaabo e ko o woni e yiyde e ɓernde, wonaa tan e konguɗi makko. 'Miɗo yiɗi yahde galle' ena waawi firtude 'Miɗo yiyat miɗo weli walla miɗo hisi.' Eto wiyde, 'Haalan baɗte galle maa,' ndaaree nate no wonndude, walla ndokku mo yaawde seeɗa walla nyaamdu seeɗa. Yeddude e makko walla faamninde mo ko waɗi o waawaa yahde ina heewi ɓeydaade annde."
+  - q: "Hol ko mbaɗ-mi so o annditaa kam?"
+    a: "Ina waawi mettaade, kono eto hoto sahtu mo walla naamno 'A anndaa ko hommbo won-mi?' Inno hoore maa no weliri, no feewiri, tee njejjiton sahaa mo wonndon. Yimɓe heewɓe ina cemba jokkondiral tee ina njogii ɓernde welnde e yillitaango, hay so ɓe mbaawaa siftorde ko hommbo ngoni-ɗaa."
+  - q: "Hol no mbaaw-mi wallirde e sahaa lopital?"
+    a: "Wondu e makko so a waawii, wallu mo nyaamde e yarde, tee add piiji ɗi o anndunoo wano nate. Hokku gollotooɓe ɓen hello winndungo jogiingo ngonka makko ñalawma kala, innde nde o yiɗi, ko o yiɗi, ko o yiɗaa, e maantaaɗe muuseede. Haal feewde dokteer oo so a yiyii omo ɓuri bonnde walla omo waylii ko yaawi, sabu jiiɓru jaawndu ena waawi wonde maande caɗeele cellal."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Yillitaade mo yiɗ-ɗaa to suudu toppitaagu, suudu wonɗo walla lopital ina waawi addude miijooji keewɗi. Aɗa waawi miijaade ko kaalataa, ko addataa, walla so yillitaango ngo ina himmi hay so o siftortaa ngo. Ina himmi. National Institute on Aging ina teskii wonde yimɓe wonɓe e Alzheimer's [ina heewi weltaade jokkondiral](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) hay so ɓe siftortaa ko hommbo yilli ɓe. Hello ngoo ina rokka peeje wallitooje hade yillitaango, e nder yillitaango e caggal mum, e ballal keeriiɗo wonande sahaa lopital.
 
-## How do I get ready for a visit?
+## Hol no teeltor-mi yillitaango?
 
-A little planning makes the visit easier for both of you.
+Teeltagol seeɗa ina weeɓnana on onon fof yillitaango ngo.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Suɓo sahaa moƴƴo.** Dementia Australia ina wasiyaa yillitaade so neɗɗo oo ina heewi wonde e hakkille mum no feewi, ko heewi subaka walla hakkunde ñalawma. Family Caregiver Alliance ina wasiyaa anndude time nokku oo tee yillitaade e [sahaa nde alaa huunde teeltaande](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Namnito gollotooɓe ɓen.** Naamno hol no o woni hannde, tee ƴeewto kuulal kala baɗte nyaamdu, kulli walla yaltingol yaasin.
+- **Teelto saak yillitaango tokkooro.** Huunde wootere walla ɗiɗi nde lolliron ina yonata (ndaaraa doggol les ngol).
+- **Teelto fannuji seeɗa.** Neɗɗo oo ina waawi waasde wonde e kabaruuji ngam lollinde, nden add kabaruuji maa: kabaruuji ɓesngu, weeyo, fijirde fuku bal, walla taaliŋkeel welngol.
+- **Teelto miijooji maa.** Won e yillitaaje maa welde tee keewde haala. Won e ɗe maa deeƴde walla saɗtude. Ɗiɗi fof ina heewi.
 
-## What should I bring?
+## Ko hommbo mbaɗ-mi addude?
 
-Bring things to share, not things that test. Good choices include:
+Add piiji ɗi lolliron, wonaa piiji ɗi ƴeewndoo. Suɓaade moƴƴe ina jeyaa heen:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Deftere nate tokkere** jogiinde nate mawɗe, laaɓɗe. Winndu ɗe caggal ngam gollotooɓe ɓen.
+- **Doggol gaaci** ɗi o yiɗi e cinndel, e headphone feewɗe walla kolliro sawto tokkooro.
+- **Huunde feewnde nde jooɗotoo,** wano dolokke, safa walla siweta mo o anndunoo.
+- **Nebban ɗannde** ngam weelitaade juuɗe no feewiri, so neɗɗo oo ina yiɗi meɗdeede.
+- **Deftere nate walla hello** baɗte huunde nde o yiɗunoo, wano remru, motaaji, colli walla defgol.
+- **Nyaamdu mo o yiɗi**, so gollotooɓe ɓen mbiyi ina hisi.
+- **Piiji anndaaɗi e suudu ndu.** Family Caregiver Alliance ina wasiyaa piindi, lekki, nate ɓesngu e nate, walla nate ɓesngu mawɗe ɓennuɗe.
+- **Alluwal**, ngam ndaarde nate ɓesngu walla fijde fijirde feewnde no wonndude.
 
-## What can we do together during a visit?
+## Ko mbaɗen no wonndude e sahaa yillitaango?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Waɗde huunde no wonndude ina ittude teddeengal e haala. Dementia Australia ina wasiyaa ndaarde nate, huunde feewnde nde mahata, aawde puɗi tokki, gaaci, lollinde nyaamdu, walla yaawde seeɗa. Woɗɗi peeje:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Ndaaren nate.** Hollu ko njiy-ɗaa: "Ndaaraa laamba oo." "Weendu nduu ina weli." Accu neɗɗo oo ardina. Hoto naamno "Ko hommbo woni ɗoo?"
+2. **Fijnen gaaci tee njimɗen.** Gaaci anndaaɗi ena mbaawi ɓeydude weltaare tee addude sahaa nde lolliron, hay so haala ka ena saɗti.
+3. **Yaawen seeɗa.** Family Caregiver Alliance ina wasiyaa yaawde e nokku oo, tentini so wonii ko e ngalbi. Yaawde e jooɗorgal pooɗirgel ina moƴƴi kadi.
+4. **Weeliten juuɗe.** Nebban seeɗa e memminde juuɗe no feewiri ina waawi deƴƴinde.
+5. **Wallu e peewnugol.** Dementia Australia ina haalude fii succude gite hoore, diƴƴinde conngu walla wallude mo ɓoornude dolokke mo o yiɗi, so omo weltii ɗum.
+6. **Fijee fijirde feewnde.** Family Caregiver Alliance ina wasiyaa karte, domino, walla ko o fijunoo. E alluwal, [Picture Pairs](/games/picture-pairs/) ina waawi fijireede tawa nate ina kollitaa tee alaa limo sahaa. [Photo Pairs](/games/photo-pairs/) ina waylita nate ɗe cuɓ-ɗaa e fijirde jokkondirnde, tee nate ɗen ina heddoo e wanngorde maa.
+7. **Ndaaren huunde no wonndude.** Family Caregiver Alliance ina wasiyaa fiilmeeji jalkooji e fiilmeeji ɓooyɗi. Hay so neɗɗo oo waawaa reende taali oo, onon mbaawi jooɗaade ɓadii tee lollirde sahaa oo.
+8. **Janngu e dow sawto.** Ɓennungal juutngal naa, taali mo o yiɗi, walla ɓatakuure iwnde e neɗɗo ɓesngu.
+9. **Jooɗen tan no wonndude.** Joggondirde juuɗe walla jooɗaade deƴƴere ko yillitaango goonga. Alzheimer's Association ina wi'a ina moƴƴi so a anndaa ko kaalataa, tee wonnde maa ina ɓuri himmude.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) ina waawi wallude so a heɓaa ko kaalataa. Karte kala ina jogii natal e naamnal udditiingal.
 
-## How should I talk during the visit?
+## Hol no haaldor-mi e sahaa yillitaango?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Inno hoore maa sahaa kala.** "Jaam, Baaba, ko Mark, ɓiy maa gorko." NIA ina wasiyaa yillotooɓe ɓen innaade hoore maɓɓe no yaawiri ngam fuɗɗaade haala.
+- **Ɓado mo yeeso** tee jooɗo to tolno gite makko.
+- **Hoto sahtu walla yeddu.** NIA ina wasiyaa yillotooɓe ɓen hoto ɓe njaɓtina neɗɗo oo so o juumi walla o yejjitii huunde.
+- **Munnu** so konguɗi ena njaɓti heɓaade. Hokku mo sahaa yonɗo.
+- **Jaabo e miijooji makko.** So neɗɗo oo ina wayi no mettuɗo walla annduɗo, jaɓ ɗum hade maa waylude fannu.
+- **Reeno naamne ƴeewndo** wano "Aɗa anndi kam?" walla "Ko nyaam-ɗaa ñallal?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Ndaaraa [peeje jokkondiral](/caregiving/communication-tips/) amen ngam ɓeydaade humpito.
 
-## What do I do when they say "I want to go home"?
+## Ko mbaɗ-mi so o wiyi "Miɗo yiɗi yahde galle"?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Jaabo e miijo wonɗo caggal konguɗi ɗii (ynoore amen baɗte [so goɗɗo ina duumii naamnaade yahde galle](/caregiving/asking-to-go-home/) ina yaajna heen). Family Caregiver Alliance ina faamnii wonde "Miɗo yiɗi yahde galle" ena heewi firtude "Miɗo yiyat miɗo weli," tee ina wasiyaa jaabawuuji wano "Haalan baɗte galle maa" walla "Ko hommbo ɓuri welde maa to galle?" Dementia Australia ina ɓeyda wonde "galle" ina waawi firtude sahaa walla nokku mo neɗɗo oo yiyatno omo hisi, wano paykunngol makko.
 
-Try:
+Eto:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- jaɓde miijo makko: "Ina wayi no aɗa faandaa galle."
+- okkude mo deeƴre rewrude e meɗdeede, so omo yiɗi ɗum
+- ndaarde nate walla haalde baɗte galle ɓesngu
+- okkude mo yaawde seeɗa, yarirde walla nyaamdu seeɗa
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Reeno yeddude walla faamninde ko waɗi o waawaa yahde. Ena heewi wallude seeɗa, kono ina heewi ɓeydaade annde.
 
-## How long should a visit be?
+## Ko foti yillitaango ngo juutde?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Juutɗo naa kono ɓuri heewde ina heewi yahde no ɓuri moƴƴude. Family Caregiver Alliance ina teskii wonde neɗɗo oo ina heewi waasde siftorde so a wonii hojomaaji joyi walla waktuuji joyi, tee ina wasiyaa wonde yillitaaje tati juutɗe naa e yontere ina mbaawi ɓurde yillitaango gooto juutngo. Dementia Australia ina wi'a alaa limo yillitaaje moƴƴo walla dumunna moƴƴo gooto tan.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+E yontere arwanɗe caggal eggude to suudu toppitaagu, Family Caregiver Alliance ina wasiyaa yillitaade ko heewi, caggal mum naatirde e ngonka nde waylataa seeɗa seeɗa. Naamno gollotooɓe ɓen ko ɓe njiyi.
 
-## How do I leave without upsetting them?
+## Hol no mbayr-mi tawa mi mettinaa mo?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Yahde ina waawi wonde geɗal ɓurɗo saɗtude. Dementia Australia ina wasiyaa:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Haal ko foti a wonde toon so a yettii.** "Mi waawi wonde haa waktu gooto, caggal mum miɗo yahde soodde."
+- **Huutoro huunde nde mbaɗon no timmitirde welnde.** "So min timminii jimol ngol, miɗo yahde."
+- **Teelto ɗum e sahaa nyaamdu walla huunde nde waɗata,** walla naamno gollotooɓe ɓen ngam wallude mo naatde e huunde woɗnde.
+- **Waɗ waynitaare nde juutɗo naa, nde waylataa sahaa kala.** Luttitaade, wullitaade walla heddorde "seeɗa tan" ina waawi saɗtinde waynitaaje garooje.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Caggal nde njah-ɗaa, ina heewi mettaade. Accu hoore maa fooftaade. So neɗɗo oo mettii, gollotooɓe ɓen ina keewi waawde wallude mo deeƴtude ko yaawi.
 
-## Visiting someone with dementia in the hospital
+## Yillitaade mo won-ɗaa e majjere cellal to lopital
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Lopital ko nokku hitoowo, keso, tee heewɗo yimɓe ɓe neɗɗo oo anndaa, ɗum ena waawi saɗtude no feewi wonande neɗɗo wonɗo e majjere cellal. Yinoore NIA baɗte [nabbude mo won-ɗaa e Alzheimer's to lopital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ina wasiyaa:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Wondu e makko** no foti fof: neɗɗo ɓesngu, giɗo mo hoolaa walla toppitiiɗo soodaaɗo.
+- **Hokku gollotooɓe ɓen hello humpito** jogiingo ngonka makko ñalawma kala, innde nde o yiɗi, ko o yiɗi, ko o yiɗaa, ko waawi ɓeydaade annde, e maantaaɗe muuseede ɗe kollataa e konguɗi. Waɗ koppi e suudu ndu e nokku nars en.
+- **Wallu e nyaamde e yarde.** Mawɓe ena mbaawi waasde heɓde nyaamdu yonɗo e lopital. Uddit huunde nde udditata, wallu e nyaamdu, nyaamon no wonndude, tee ndokku mo ndiyam.
+- **Add piiji deeƴinooji** wano nate walla piiji diine.
+- **Ustit hito.** Ñif tele, tee ustit sawto cinndel e koltu.
+- **Eto ngonkaaji deeƴinooji,** wano gaaci feewɗi, janngugol, du'aade, jimmude walla ndaarde nate ɓennuɗe.
+- **Walla mo dillude** no foti fof so ina hisi, tawa gollotooɓe ɓen njaɓii.
+- **Haal feewde dokteer oo so a yiyii omo ɓuri bonnde walla omo waylii ko yaawi.** NIA ina faamnii wonde jiiɓru jaawndu, wi'eteende delirium, ina waawi arde e caɗeele wano ñawu jokkondirngu, nguleendi, ŋakkere ndiyam walla battane lekki, tee ina haani toppiteede e cellal.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Yillitaango juutngo naa, deƴƴungo, e yeeso anndaango e jimol mo o yiɗi ina waawi wonde geɗal ɓurɗo deeƴinde e ñalawma lopital.
 
-## Bringing children on a visit
+## Nabbude sukaaɓe e yillitaango
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Sukaaɓe ena mbaawi addude weltaare heewnde. Teelto ɓe ko adii sahaa e konguɗi feewɗi, goonga, waɗ yillitaango ngo juutɗo naa, tee ndokku ɓe golle, wano hollude natal ngal ɓe ŋatni walla jonnude natal. NIA ina wi'a sukaaɓe e yimɓe wonɓe e Alzheimer's ena mbaawi weltaade huunde feewnde no wonndude, wano ndaarde deftere nate walla heɗaade gaaci. Dementia Australia ina wasiyaa nabbugol saak tokkooro jogiingo piiji welɗi walla piiji deeƴɗi ngam sukaaɓe mbaawa wonde e huunde.
 
-## Take care of yourself too
+## Toppito hoore maa kadi
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Yillitaade ina waawi ŋakkinde semmbe tee memminde ɓernde, tentini so neɗɗo oo waylii no feewi. Ina moƴƴi yillitaade seeɗa so aɗa haani, addude giɗo ngam wallitde ma, walla yahde law so ñalawma oo ina saɗti. Ngam heɓde peeje toppitaade hoore maa, ndaaraa [toppitaare hoore toppitiiɗo](/caregiving/caregiver-self-care/). So aɗa woni woɗɗi, ndaaraa yinoore amen baɗte [noddaandu cinndel e widewoo](/activities/phone-and-video-calls/).

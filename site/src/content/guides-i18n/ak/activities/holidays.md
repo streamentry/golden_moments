@@ -1,33 +1,33 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Afahyɛ Adwuma ma Obi a Wɔwɔ Dementia"
+seoTitle: "Afahyɛ ne Kɔsmas Adwuma ma Dementia"
+description: "Afahyɛ adwuma a ɛyɛ ma obi a wɔwɔ dementia: aduane yɛ, kyekyeresɛ, nnwom, nkaeɛ ne frɛ a wɔfrɛ video, ne sɛnea wobɛhyehyɛ afahyɛ a emu bɛyɛ dwoodwoo."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Ma afahyɛ no nyɛ kɛse, fi ase wɔ da mu ntɛm, na ɛbɛn obi no daa adwuma. Ma
+  no adwuma a ɛyɛ nokorɛ a ɛyɛ mmerɛ ne ho bi, te sɛ tebol a wobɛhyehyɛ,
+  nkɔnsɔnkɔnsɔ a wɔbɛsiw, kyene anaa dua a wobɛhyɛ. Fa nnwom a ɔnim ne nkaeɛ
+  ahoɔfɛ bɛkyerɛ, hyehyɛ nkɔmhyɛfo ansa na ɛrebɛba, na hyehyɛ baabi a ɛyɛ
+  dwodwo. Yɛ nea wubetumi ayɛ yiye nkutoo; afahyɛ a ɛyɛ tɛkrɛma ne dwodwo ye.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Yɛ afahyɛ no anɔpa, te sɛ aduane anaa anɔpadaa, sɛ anwummere nnɔnhwerɛ yɛ den a."
+  - "Ma wɔn adwuma nokorɛ: tebol a wobɛhyehyɛ, aba a wobɛhohoro, kyene, kuruwa nkɔnsɔnkɔnsɔ anaa aduan a wobɛhyehyɛ ntoma so."
+  - "Nnwom a wɔn ho ayera, nnwom a wɔnnwom wɔ Kɔsmas mmere mu ne nkaeɛ nwoma a ɛyɛ dedaw, yɛ ntɛm ne nsɛm a yɛbɛka ho wɔ afahyɛ no ho."
+  - "Ka nea nkɔmhyɛfo bɛhunu kyerɛ wɔn, na kyerɛ obi no nkaeɛ mfonini a ɛkyerɛ nea ɔrebɛba."
+  - "Hyehyɛ dan a emu yɛ dwo ne kɔnsɔ anaa nkataa a ɔdɔ, na ma nkɔmhyɛfo mmienu anaa abiɛsa nkutoo bɛba bere biara."
+  - "Gyina nneɛma a ɛyɛ mmerɛ ne nneɛma a ɛma nnipa afiri, te sɛ nhoma a ɛyɛ mmerɛ a ɛte sɛ aduane ne nkyerɛmu a ɛhyerɛn."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Dɛn na obi a wɔwɔ dementia betumi ayɛ wɔ afahyɛ mu?"
+    a: "Fa adwuma a ɛyɛ mmerɛ, a ɛyɛ nokorɛ, ma no, a ɛfata deɛ ɔtumi ayɛ nnɛ: sɛ ɔbɛhohoro aba, ɔbɛkyere nkɔsɔ, ɔbɛhyehyɛ tebol, ɔbɛsiw kyene anaa ɔbɛtow aduan a wɔde sɛ aduane. Akyiri no, hwɛ abusua mfonini a ɛyɛ dedaw anaa nnwom a ɔnim. Sɛ ɔyɛ afahyɛ no mu adwuma no ho hia sen sɛ adwuma no bɛyɛ sɛnea wɔhwɛ kwan."
+  - q: "Yɛbɛyɛ abusua afahyɛ kɛse anaa?"
+    a: "Yɛ no sɛ ɛyɛ mmerɛ nkutoo. Nkɔ ne nnwomnwom betumi ama obi nyɛ yie, enti abusua pii sesa kɔ afahyɛ ketewa a ɛnyɛ den, aduane a wɔde ano ntɛm, anaa nkɔmhyɛfo a wɔbɛba mmienu anaa abiɛsa bere biara. Alzheimer's Association kyerɛ wɔn a wɔhwɛ nipa sɛ wɔnyɛ nea wɔtumi ayɛ yie ne nea ɛnyɛ basabasa."
+  - q: "Ɛdeɛn na meyɛ de ama abusua a wonkɔhwɛ obi bere tenten no ayɛ ahyɛde?"
+    a: "Ka kyerɛ wɔn ansa na wɔrebɛba nsakraeɛ a wɔbɛhu, na kyerɛ wɔn sɛ nsakraeɛ no fi yadeɛ no mu, nnyɛ onipa no ara nti. Srɛ wɔn sɛ wɔnnteɛ anaa nnyɛ mmisa nsɛm, sɛ wɔnkasa baako baako, na ma obi no bere sɛ ɔbɛdi ne mmuae. Ɛboa sɛ wodaa nkɔmhyɛfo mfonini kyerɛ obi no ansa na ɛrebɛba."
+  - q: "Akyɛdeɛ bɛn na ɛfata obi a wɔwɔ dementia wɔ Kɔsmas?"
+    a: "Nneɛma a ɛyɛ mmerɛ ne nea ɛyɛ nokorɛ a wobetumi anni nnɛ: aduane a ɔpɛ, kyene anaa kɔtɔn ntoma, nnwom a ɔnim, anaa nkaeɛ nwoma a ɛwɔ abusua mfonini. Ntwe nneɛma a ɛyɛ den, nnwinnwen a ɛyɛ mmerɛ ne nnwom a ɛyɛ den. Sɛ wobɛma wɔn ahwɛ akyɛdeɛ, te sɛ sɛ wɔbɛhyehyɛ akyɛdeɛ anaa sɛ wɔbɛhyehyɛ nkwanta a wɔaboa ma, ɛbɛyɛ akyɛdeɛ ankasa."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Afahyɛ bere betumi de anigye a atwam ba, nanso ɛbɛma nnipa abɔ mpaemuka, afɔrebɔ ne nsakraeɛ a ɛsakra da no mu nso. Ma obi a wɔwɔ dementia no, afahyɛ a ɛyɛ mmerɛ, a emu yɛ dwo, na ɛfa nea ɔka ho a ɔrepɛ ara ɛyɛ nea ɛboro so. Nsɛm yi yɛ adwuma ma Kɔsmas, Hanukkah, Afe Foforo ne abusua afmaeda.
 
-## How do I plan a calmer holiday?
+## Ɛdeɛn na meyɛ de afahyɛ no ayɛ dwodwo?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Fi ase wɔ obi no daa so, na hyehyɛ da no ho sɛnea ɛbɛyɛ ma no. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) kyerɛ sɛ momma afahyɛ no nyinaa nyɛ anɔpa, efisɛ anwummere a nnɔnhwerɛ ne nnɔnhwerɛ ahoɔden kɔ so dɔɔ (wɔfrɛ no sundowning). Aduane anaa anɔpadaa a wɔyɛ afahyɛ mu betumi ayɛ yie sen anwummere aduane a ɛyɛ akyiri.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Ma ɛnyɛ kɛse.** Afahyɛ ketewa a emu yɛ dwo, anaa nkɔmhyɛfo a wɔbɛba mmienu anaa abiɛsa bere biara, yɛ yie sen tebol a nnipa pii abɔ mu.
+- **Kyɛ adwuma ma wɔn.** Srɛ abusua sɛ wɔnkɔ dua, wɔnnoa nneɛma, anaa wɔnnka obi no ho bere a woreyɛ aduane. Ka nea ɛboa mu kyerɛ wɔn yiye.
+- **Hyehyɛ nneɛma a ɛyɛ mmerɛ.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) kyerɛ sɛ ɔkɔ a ɛhyerɛn ka ho ne nea wɔde yɛ nneɛma a ɛte sɛ aduan anaa nkɔsɛe bɛyɛ ɛbɛma nnipa abɔ mmɔfra anaa aduan.
+- **Yi nneɛma a ɛbɛma mmerɛ.** Sɛ ɛyɛ abusua nkɔso bi ama ɛyɛ den anaa ɛwɔ asiane mu, ɛyɛ yie sɛ wobɛyi no anaa wobɛyɛ bi a emu yɛ dwo.
 
-## What holiday activities can we do together?
+## Afahyɛ adwuma bɛn na yɛbɛyɛ ne wo bom?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Yi adwuma ne anigyeɛ a ɛfata nea obi no betumi ayɛ nnɛ. Ɛyɛ nokorɛ sɛ ɔka afahyɛ no mu, nanso ɛnyɛ sɛ nea ɛbɛba no bɛyɛ papa.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Hyehyɛ tebol bom.** Hyehyɛ nkɔnsɔnkɔnsɔ kan, akyi nkyene, akyi kuruwa. Ɛyɛ adwuma a ɛyɛ yie sɛ wobɛtena fa nkyene a wɔbɛkyekye.
+2. **Hohoro na yi aba.** Sɛ wɔbɛhohoro aba anaa wɔbɛpam nkwan wɔ aduane mpɔtam so, ɛyɛ adwuma a ɛyɛ nokorɛ na ɛyɛ nea nnipa pii a wɔtenaa wɔ aduane ho dɔ ayɛ.
+3. **Hyɛ, kyekyere anaa hyehyɛ nneɛma.** Sɛ wobɛkyekye ahoma aduane, anaa wɔbɛkyekye aduane ketewa, anaa wɔbɛhyehyɛ kɔkɔ wɔ ntoma so, ɛma wɔn nsa di adwuma a ɛyɛ mmerɛ, a ɛnyɛ ɔhyew ne ɔpow ho.
+4. **Kyekye kɔnsɔ.** Yɛ kɔnsɔ no ansa na wobɛhyɛ no, na ma obi no nsa ma ɔsiw ne ahyɛ mu nkɔnsɔnkɔnsɔ. Ɛnyɛ nea ɛyɛ papa ne nea ɛyɛ yiye.
+5. **Hyɛ nneɛma kakra.** Yi nneɛma a ɛnnyɛ ɛrempɛ ne baabi ketewa, te sɛ kɔtɔn ntoma anaa dua ketewa.
+6. **Yɛ adwuma ketewa a ɛyɛ nsɛnkyerɛnne.** Pepa nkɔnsɔnkɔnsɔ, nhaban a wɔde abɔ ahoma, anaa kaad a wɔde nsɛnkyerɛnne ahyɛ mu, yɛ adwuma pa. Yɛn [nsɛnkyerɛnne ne adwuma nkyerɛkyerɛ](/activities/arts-and-crafts/) wɔ nkyerɛkyerɛ pii.
+7. **Nnwom ne tie.** Nnwom a wɔn ho ayera ne Kɔsmas nnwom yɛ nneɛma a ɛyɛ ntɛm sɛ obi bɛka ho, ɛwom sɛ obi no kasa kakra nnɛ. Hwɛ yɛn [nnwom nkyerɛkyerɛ](/activities/music/) de ahyehyɛ nnwom ahyɛdeɛ.
+8. **Hwɛ abusua afahyɛ mfonini a ɛtwam.** Fa mfonini a wɔfa afahyɛ a atwam no ahyɛ, na frɛ obi sɛ ɔnkyerɛ asɛm ("Ka kyerɛ me ɛhɔ tebol yi ho asɛm") sen sɛ ɔbɛka ɔhɔ ne hɔ. Yɛn [nkaeɛ nkyerɛkyerɛ](/activities/reminiscence/) kyerɛ sɛnea wobɛyɛ.
+9. **Yɛ kwan bi a ɛyɛ mmerɛ wɔ nnipa mu.** [Picture bingo](/games/picture-bingo/) betumi asan ayɛ wɔ nkɛntɛnsɛm mmienu mu na ɛyɛ mmerɛ ma nnipa nyinaa, na [kasa kaad](/games/conversation-cards/) ma obiara ntumi wɔ asɛm a ɔbɛka.
+10. **Kɔtɔn ne ho wɔ ne nkɔ mu.** [Kɔtɔn mfonini](/games/coloring/) a wobɛprinti ma mmofra ne agyanom bɛtena tebol so.
+11. **Hwɛ Kɔsmas sini a ɔpɛ.** Sini a ɔnim yɛ ntɛm, na ɛyɛ yie sɛ wobɛhwɛ ne fa bi nko.
+12. **Kɔ akwantuo ketewa hwɛ nkɔnsɔnkɔnsɔ.** Akwantuo ketewa a wobɛkɔ hwɛ fie a wɔahyehyɛ no betumi ayɛ mmerɛ sen afahyɛ bi a nnipa pii wɔ mu.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Sɛ kuruwa adwuma ne onipa no asetena mu asɛm kɛse a, yɛn [nkyerɛkyerɛ wɔ fie adwuma ho sɛ adwuma](/activities/household-tasks/) betumi aboa wo ama aduan adwuma a ɛyɛ nokorɛ.
 
-## How do I prepare guests?
+## Ɛdeɛn na meyɛ de ama nkɔmhyɛfo ayɛ ahyɛde?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Ka kyerɛ nkɔmhyɛfo nea wɔbɛhunu ansa na wɔrebɛba, titiriw abusua a wonkɔhwɛ obi bere tenten no. Alzheimer's Association kyerɛ sɛ momma wo nkyerɛkyerɛ sɛ nsakraeɛ a ɛwɔ adwene ne nneyɛe mu fi yadeɛ no mu, nnyɛ onipa no ara nti.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Ka nkyerɛkyerɛ kakraa bi:** kasa baako baako, ma obi bere sɛ ɔbɛwie ne asɛm, nnteɛ anaa nnyɛ mmisa nsɛm, na sɛ asɛm yɛ den ma obi no a, di ne nsɛm ne ne ho ahoɔden so ahyɛ mu.
+- **Ka nea ɛboa ne nea ɛma obi awerɛhow.** Sɛ nkasa a ɛyɛ den, nneyɛ ntɛm, anaa nsɛm bi ma obi awerɛhow, ka saa.
+- **Kyerɛ nkɔmhyɛfo ansa na wɔrebɛba.** Kyerɛ obi no mfonini a ɛfa nkɔmhyɛfo a wɔbɛba, na ka asɛm baako anaa mmienu ho, anaa hyehyɛ frɛ video ketewa ansa na da no abɛba.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Yɛn [nkitahodie mmara](/caregiving/communication-tips/) hyɛ ho nkyerɛkyerɛ ahyɛde.
 
-## What if it gets to be too much?
+## Dɛn na ɛba sɛ ɛyɛ den nyinaa?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Hyehyɛ dan a emu yɛ dwo ansa na nkɔmhyɛfo bɛba, a ɛwɔ akyiri nkɔnkɔnsɔ ne nnwom ho, de nneɛma a ɛma ɔtena ase ne ho ahoɔden kɔ so, te sɛ kɔtɔn ntoma, kɔtɔn anaa adwuma ketewa a ɛyɛ mmerɛ. Ma wɔn ahunu ntɛm ne ntɛm bio: "Yɛnkɔtena baabi a emu yɛ dwo bere tiaa?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Sɛ obi firi tebol no, ɔkɔ da, anaa ɔnnyina afahyɛ no mu ɛfa, ɛyɛ nea ɛyɛ papa, ɛnyɛ nea ɛyɛ mfomsoɔ. Sɛ obi no nkrɛ mfomso, nsɛm a ɛyɛ dwo, nnwom a ɔnim, anaa akwantuo kɔ dan foforo mu betumi aboa sen nkɔmhyɛ. Yɛn [nkyerɛkyerɛ a ɛfa anwummere ahoɔden ho](/caregiving/late-day-restlessness/) wɔ anwummere ho nkyerɛkyerɛ pii.
 
-## How can family far away take part?
+## Ɛdeɛn na abusua a ɛwɔ akyirikyiri betumi aka ho?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Frɛ video ma abusua betumi aka ho a, na ɛremma nnipa nnɛ dɔɔ. Alzheimer's Association kyerɛ sɛ momma frɛ no nhyehyɛe bi, te sɛ anwomsɛm a ɛfa bere ho, nkaeɛ mfonini a wɔfa afahyɛ a atwam ahyɛ, aduane a wɔbɛyɛ bom wɔ bere koro mu, anaa sini a wɔbɛhwɛ bom. Ma frɛ no nyɛ tenten, na srɛ nnipa sɛ wɔnkasa baako baako, efisɛ sɛ nnipa nyinaa kasa bom a ɛyɛ den sɛ obi bɛte asɛm. Yɛn [nkyerɛkyerɛ a ɛfa telefon ne frɛ video ho](/activities/phone-and-video-calls/) wɔ nkyerɛkyerɛ a ɛyɛ anibɔ ho.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Sɛ obi no te fie a wɔhwɛ nnipa a wɔwɔ dementia mu, hwɛ fie no mmara a ɛfa nkɔhwɛ ho na srɛ adwumayɛfo sɛ wɔnboa wo ma wohyehyɛ frɛ. Yɛn [nkyerɛkyerɛ a ɛfa nkɔhwɛ a wɔyɛ wɔ fie a wɔhwɛ nnipa a wɔwɔ dementia mu](/activities/visiting/) kyerɛ nea wobɛde ba ne sɛnea wobɛkɔ.
 
-## What gifts suit someone with dementia?
+## Dɛn akyɛdeɛ na ɛfata obi a wɔwɔ dementia?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Akyɛdeɛ a ɛyɛ mmerɛ ne nea ɛyɛ nokorɛ a wobetumi anni nnɛ yɛ papa: aduane a ɔpɛ, kyene anaa kɔtɔn ntoma a ɛyɛ mmerɛ, nnwom a ɔnim, kalenda a nkyerɛwde no yɛ kɛse, anaa nkaeɛ nwoma a wɔwɔ abusua mfonini. Alzheimer's Association kyerɛ sɛ momma wo nkɔ nneɛma a ɛyɛ den, nneɛma a ɛyɛ mmerɛ ne nneyɛe a ɛyɛ den, anaa kwan a wɔde ahyɛ nneɛma a ɛyɛ den.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Sɛ wode akyɛdeɛ de ma obi no, ɛyɛ nkɔso. Sɛ obi no boa wo ma wokɔ kɛ tea anaa ɔbɛkyekyere wo kɔnsɔ a wɔwɔ no, ɔbɛma no ahunu sɛ ɔwɔ afahyɛ no mu. [Photo pairs](/games/photo-pairs/) betumi ayɛ abusua mfonini kyerɛ kwan a wobɛfa so de ayɛ nnwom a ɛyɛ mmerɛ wɔ browser mu.
 
-## Look after yourself too
+## Hwɛ wo ho nso
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Afahyɛ ka adwuma ka nkɔhwɛ. Ma obi foforo nhyehyɛ afahyɛ anaa nkyɛ aduane, ka ɔnnyɛ ɛrempɛ dwo ho, na fa bere ma wo ho wo bere a afoforo reka obi no ho. Sɛ wo anaa obi a wohwɛ no nni yie, sɛ wɔbɔ wo nsa wɔ sɔre mu anaa wobɛfrɛ video no, ɛyɛ mmaeɛ a ɛyɛ papa. Yɛn [nkyerɛkyerɛ a ɛfa wo ho hwɛ](/caregiving/caregiver-self-care/) wɔ mmoa pii.

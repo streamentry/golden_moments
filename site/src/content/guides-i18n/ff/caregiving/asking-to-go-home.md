@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "So neɗɗo wuurɗo e majjere hakkille duumiima wi’aade yahde suudu"
+seoTitle: "Majjere hakkille: o duumiima wi’aade yahde suudu"
+description: "Ko saabii neɗɗo wuurɗo e majjere hakkille wi’aade yahde suudu hay so omo suudu mum, ko mbi’ataa, kuugal deeyngal, e no reenaa mo so o etiima yaltude."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  So neɗɗo wuurɗo e majjere hakkille duumiima wi’aade yahde suudu, «suudu» ena
+  waawi firtude ɓuttu kisal walla nokku gila ɓooyɗo, wonaa tan galle. Taa yeddondir
+  e makko wonde omo suudu. Jaɓ heen meere mum, hoolnu mo wonde omo e kisal, naamno
+  mo fii suudu mum, caggal ɗuum nawrir mo sira e nate, gaaci, neema, yaaduye walla
+  golle feewɗe. Ƴeewto so o heɓii, so o ɗomɗii, so o soklii gollirde baafal, walla
+  so omo nawi. So ɗuum fuɗɗiima kisan, noddu safroojo makko.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Mi yiɗi yahde suudu» ena waawi firtude «Mi anndaa kisal walla mi deeyaa», wonaa tan naamnal innde nokku."
+  - "Yeddondirde walla hollude mo wonde omo suudu ena ɓeyda mettel. Jaɓ heen meere mum kadi."
+  - "Naamno mo yo o haalane fii suudu mum, caggal ɗuum hokkir mo nate, gaaci, neema, yaaduye walla golle feewɗe."
+  - "Ƴeewto huunde nde mbaaw-ɗaa waylude: heege, ɗomka, baafal, nawnaare, nguleendi walla jaangol, hito, lohre."
+  - "So ɗuum waɗata ñalnde kala kikiiɗe, ena waawi wonde waylo waylo kikiiɗe; teelte deeyɗe e annoore moƴƴere ena mbaawi wallude."
+  - "Heɓ feere kisal so o etiima yaltude, tee noddu safroojo makko so waylo keso waɗii."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Ko saabii yumma am wuurɗo e majjere hakkille duumii wi’aade yahde suudu hay so omo suudu mum?"
+    a: "Majjere hakkille ena waawi waɗde cuuɗi ɓurɗi anndeede mbayla, tee yimɓe ena mbaawi miijade wonde e ɓooyɗo ngoni. «Suudu» ena waawi firtude suudu ne’aaku walla tan ɓuttu kisal e ɓuttal. Jaabaade e ndeen meere ena heewi moƴƴude ɓurɗe hollude mo nokku mo woni."
+  - q: "Ko mbi’atmi so o wi’i yo o yahu suudu?"
+    a: "Eto wi’de: «Aɗa e kisal ɗoo, mi wonat e maa», caggal ɗuum «Haalan am fii suudu maa». Heɗo mo, hollu mo natal walla beydu ɗoŋgal, tee hokkir mo ndiyam walla yaaduye seeɗa. Reen wi’de «Ko ɗoo suudu maa» no feere fannitaare nii, sabu ena waawi waɗde mo e miijo wonde omo faljaa."
+  - q: "Ena moƴƴi wi’de maa min njah suudu yeeso?"
+    a: "Galleeji e fedde wallooje yimɓe wuurɓe e majjere hakkille ena ceertu e ɗuum. Heewɓe ena puɗɗora ɓuttal goonga e nawrugol hakkille, tee ena cuɓa fenaande deeynde tan so goonga on waɗat mettel tan mo neɗɗo on waawataa faamde. Ko cuɓ-ɗaa fof, wonu moƴƴo tee nduumo, hoto njalu miijo makko fii ko woni goonga."
+  - q: "Hol ko waɗmi so o etiima yaltude suudu?"
+    a: "Heddo, yaadu e makko, hoto haɗu mo e tikke; yaaduye seeɗa ena heewi deeynin’de ɗuum. Heɓ feere kisal law, wano baŋngal innitol, dinde dambugal, e natal makko kesol. So o majjii, fuɗɗo ɗaɓɓude mo kisa, tee noddu 112 so a heɓaani mo caggal hojomaaji 15, wi’a wonde neɗɗo on ena wuurdi e majjere hakkille."
+  - q: "Hol nde noddat-mi safroojo?"
+    a: "Noddu safroojo makko kisa so naamnal ngal walla jiigol hakkille fuɗɗiima kisan walla ɓeydiima no feewi e nder waktuuji walla balɗe seeɗa, tentinii so nguleendi ina woodi, lekki keso walla maale ñawu baafal. Jiigol hakkille kesol ena waawi wonde delirium, ɗum ena sokli ballal kisal. Noddu 112 so hay gooto ina e caɗeele."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Mi yiɗi yahde suudu.» Wonande galleeji keewɗi, ɗum ena waawi wonde huunde mettunde heɗaade, tentinii so neɗɗo mo toppit-ɗaa on jooɗiiɗo e suudu makko kanko. Ɗum ena heewi, ena waawi waɗude e kala tolno majjere hakkille, tee ina woodi laabi deeyɗi e kuuɓtidɗi ngam jaabaade. Hello ngo ena faaminde ko ɗee konngi keewi firtude, ko mbi’ataa, kuugal baawngal wallude e ndeen saanga, e no heddortoo e kisal.
 
-## Why does someone with dementia keep asking to go home?
+## Ko saabii neɗɗo wuurɗo e majjere hakkille duumii wi’aade yahde suudu?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Heewi fof, «suudu» ko ɓuttu ɓurɗo wonde nokku. Alzheimer’s Society ena sifa ɗum no ɓuttu ɓuttal e kisal, walla suudu gila ɓooyɗo, wonaa tan galle ngalle. Majjere hakkille ena waawi waɗde cuuɗi ɓurɗi anndeede mbayla, tee neɗɗo ena waawi miijade wonde omo e sahaa goɗɗo e nguurndam makko, sahaa mo suudu wonnoo suudu ne’aaku walla nokku mo o ne’noo ɓiɓɓe makko.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Ɗee konngi ena kadi mbaawi wonde maande wonde ina woodi huunde woɗnde waɗnde jooni: omo heɓii, omo ɗomɗii, ena sokli gollirde baafal, omo nawi, nguleendi ina heewi walla ina famɗi, omo tampi, omo weelaani, omo hulɓinii, walla hito ina ɓurdi mo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ena limta nawnaare, hito, weelaare, waylo teelte e lekki e sababuuji mettel.
 
-## What should I say when they ask to go home?
+## Ko mbi’atmi so o wi’i yo o yahu suudu?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Jaɓ heen meere mum, wonaa tan konngi ɗii. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ena waajaade taa eto hollude neɗɗo on wonde omo falji: meere makko ina goonga, nden jaaɓor e ɓuttal e hoolaare taho, caggal ɗuum nawrir mo sira.
 
-Phrases that often help:
+Konngi baawɗi wallude:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Inndit meere ndee.** «Ena wayi no aɗa faandinii suudu.»
+- **Hoolnu mo.** «Aɗa e kisal ɗoo, mi wonat e maa.» [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ena wasiyaa konngi feewɗi ɗii: «Aɗa e kisal ɗoo.»
+- **Naamno mo fii siftorde ɓooyɗe.** «Haalan am fii suudu maa. Deftere maa no wonnoo?» Naamnaade fii ɓooyɗo ena heewi newaade ɓurɗe naamnaade fii hannde.
+- **Hokkir mo huunde nde ngonon e mum.** «En njara tee taho,» walla «Aɗa waawi wallude lan e ɗee mbasuji?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Sawto deeyngo e juuɗe e jungo makko, so ena yiɗi memugol, ena mbaawi haalde ko ɓuri konngi.
 
-## What should I avoid?
+## Ko haan-mi reenude?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Yeddondirde walla faaminde no tiiɗi.** «Ko ɗoo nguur-ɗaa jooni» walla «Ko ɗoo wonnoo suudu maa duuɓi 40» ena naamna mo yo o jaɓ huunde nde majjere hakkille waɗata saɗ-tude jaɓde, tee ena waawi waɗde mo e miijo wonde omo faljaa.
+- **Ƴeewndaade e naamne.** «A siftoraaki?» walla «Hol ko woni innde nokku nguu?» ena ɓeyda tiiɗnaare.
+- **Haɗde dambugal e tikke.** So o fuɗɗiima yaltude, heddo tee yaadu e makko. Yaaduye seeɗa wondude ena heewi deeynin’de ɗuum.
+- **Yaawde.** Hokkir mo sahaa yo o haal fii suudu mum hade maa waylude yewtere ndee.
 
-## Activities that can help in the moment
+## Kuugal baawngal wallude e ndeen saanga
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Caggal nde jaɓ-ɗaa meere mum, kuugal deeyngal, anndaaɗo ena waawi nawrirde hakkille mo sira tawa wonaa faalkisaade meere ndee.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Ndaare nate suudu e ɓesngu.** Yiltu kelle ɗee tee haal heen («Ndaare ngal gese»), hoto naamno naamne. E cinndel walla alluwal, [Photo pairs](/games/photo-pairs/) ena wayla nate ɓesngu maa e fijirde yahdinde deeynde, tee nate ɗee ena heddoo e kaɓirgol maa.
+2. **Haalu fii suudu.** [Conversation cards](/games/conversation-cards/) ena hokka naamne udditiiɗe fii cuuɗi, defte, ɓadiiɓe e waktuuji weltaare, tawa alaa jaabawol feewngol.
+3. **Fijnu gaaci ɗi o yiɗi.** National Institute on Aging ena limta gaaci deeyɗi e laabi deeyninirɗi mettel. Ndaare [kuugal gaaci amen](/activities/music/).
+4. **Hokkir mo neema walla njaram.** Heege e ɗomka ena mbaawi nannde no mettel. Koppu tee walla neema mo o yiɗi ena kadi wonde feere seeɗa nde wonde e suudu.
+5. **Njaha yaaduye walla njooɗo yaasin.** Dillaade e annoore nallal ena wallita, tentinii law e nder ñalnde.
+6. **Hokku mo golle anndaaɗe.** Taggude conci, suɓaade kuɓɓe walla ndiyande puɗi ena mbaawi artirde ɓuttu toppitaade suudu.
+7. **Leeltin fof.** Ñif tele, ustu hito e jalbeendi, tee eto wonndude e [calm breathing](/games/calm-breathing/) ngam fowtude seeɗa.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+So feere woore waawaani, eto woɗnde yeeso. Jooɗaade deeyɗe wondude ena kadi jaabawol moƴƴol.
 
-## Check for a cause you can fix
+## Ƴeewto huunde nde mbaaw-ɗaa feewnitde
 
-| Check | What to try |
+| Ƴeewto | Ko mbaaw-ɗaa etoo |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Heege walla ɗomka | Hokkir mo ndiyam e neema seeɗa |
+| Ena sokli baafal | Hokkir mo yahde baafal, e deeyre tawa alaa mettel |
+| Nawnaare walla ɓural | Ƴeewto maale wano tiiɗnaare yeeso, jogitaade terɗe balɗe, walla uddaade reedu, tee haalano safroojo makko |
+| Nguleendi walla jaangol ina heewi | Ɓeydu walla ustit dolokke walla waylu nguleendi suudu nduu |
+| Hito walla yimɓe heewɓe | Nawu mo suudu deeyɗo, ñif tele |
+| Lohre walla tampere heewnde | Fowtu, niɓɓitin suudu nduu, fijnu gaaci deeyɗi |
+| Kikiiɗe | Ndaare taƴre sundowning les ɗoo |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer’s Society ena wasiyaa windude seeɗa sahaa nde naamnal ngal waɗata, wano hade ñaamdu, caggal yilloɓe, walla kikiiɗe. Ɗee teelte ena newnina hebbugol feere law.
 
-## Is it okay to tell a white lie?
+## Ena moƴƴi wi’de fenaande deeynde?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Ɗum ko yeddondiral goongawal, tee galleeji moƴƴi ena ceertu e ɗuum. Alzheimer’s Society ena wi’a wonde alaa jaabawol gootol tan moƴƴol: fenaande ena waawi waɗde won e yimɓe ɓurɗe sikkude, nden cuɓo ko moƴƴani neɗɗo on tee nduumo. To Penn Memory Center, miijo gardiiɗo oo ko wonde goonga ko adii, tee fenaande deeynde ena jaɓee tan so neɗɗo on waawataa faamde goonga goɗɗo, tee hoto njalu miijo makko fii goonga makko.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Toppittooɓe heewɓe ena tawi laawol hakkunde ena moƴƴa: ɓuttal goonga e nawrugol hakkille taho («Maa min njooɗo ɗoo jamma hannde, miɗo ɗoo e maa»), tawa wonaa yeddondirde e nokku suudu nguu.
 
-## What if it happens every afternoon or evening?
+## Hol ko waɗetee so ɗuum waɗata kikiiɗe kala?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Mettel fuɗɗotooɗo walla ɓeydoowo kikiiɗe ena heewi wi’eede sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ena wasiyaa teelte deeyɗe, annoore nallal e kuugal ñalnde kala, ɗaanagol kikiiɗe seeɗa, tee reenude kafee walla mandilaa kikiiɗe. Huɓɓude lampuuji hade niɓɓere ena kadi waawi wallude. Dawro amen fii [kuugal deeyngal kikiiɗe](/caregiving/late-day-restlessness/) ena hokka goɗɗum.
 
-## Keeping them safe if they try to leave
+## No heddortoo e kisal so o etiima yaltude
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Wi’aade yahde suudu ena waawi nabde yaltugol. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ena hiisaade wonde yimɓe 6 e nder 10 wuurɓe e majjere hakkille maa njalto sahaa gooto.
 
-**Prepare ahead:**
+**Heɓ feere law:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Baŋngal innitol walla baŋngal kisal jogiiɗo innde makko e tonngoode maa, e maandeeji e conci makko. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) ena haala fii eɓɓaande MedicAlert e Alzheimer’s Association Safe and Found, ɗe mbaawi naamnaade njoɓdi.
+- Dindol dambugal walla jeertinoowo, e cowe ɓadde dow walla les. Hoto ombu neɗɗo on e nder suudu tan.
+- Natal makko kesol ɓadiiɗo, e doggol nokkuuji ɗi o waawi yahde, wano suudu makko ɓooyɗo walla nokku golle makko.
+- Haalan ɓadiiɓe hoolaaɓe, tee hokku ɓe tonngoode maa.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**So o majjii:** fuɗɗo ɗaɓɓude mo kisa; Alzheimer’s Association ena wi’a heewɓe ena keɓee e nder maayle 1,5. So a heɓaani mo caggal hojomaaji 15, noddu 112 tee wi’a wonde neɗɗo on ena wuurdi e majjere hakkille. Noddu 112 kisa so hay gooto ina e caɗeele.
 
-## When should I call a doctor?
+## Hol nde noddat-mi safroojo?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Noddu safroojo makko kisa so naamnal ngal walla jiigol hakkille fuɗɗiima kisan, walla ɓeydiima no feewi e nder waktuuji walla balɗe seeɗa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ena wi’a wonde jikku wayloowo kisan walla no yaawi, tentinii caggal ñawu walla waylo lekki, ina foti ƴeewteede kisa. Jiigol hakkille kesol ena waawi wonde delirium, mo [NHS](https://www.nhs.uk/symptoms/confusion/) wi’i ena sokli ballal kisal; ñawu baafal ena heewi saabude ɗum e mawɓe.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Ena kadi moƴƴi haalande safroojo fii teelte duumiiɗe e njillu garoowo, sabu nawnaare, mettelaare ɓernde, caɗeele ɗaanagol walla battane lekki ena mbaawi jeye heen.

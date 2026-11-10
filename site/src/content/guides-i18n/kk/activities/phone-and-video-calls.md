@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Деменциясы бар адаммен телефон және бейнеқоңырау"
+seoTitle: "Деменция кезінде бейнеқоңырау әрекеттері"
+description: "Деменциясы бар жақын адаммен алыстан байланысуға арналған бейнеқоңырау және телефон әрекеттері: көрсету, дауыстап оқу, ән айту, ортақ экрандағы ойындар."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Деменциямен өмір сүретін адаммен қоңыраулар қысқа, тұрақты әрі бірге жасауға
+  болатын нәрсеге негізделгенде жақсырақ өтеді. Мысалы, үй жануарын немесе
+  бақшаны көрсету, фотосуреттерді қарау, дауыстап оқу, сүйікті әнді айту немесе
+  ортақ экранда жеңіл ойын ойнау. Мүмкіндігінше күн сайын бір уақытта
+  қоңырау шалыңыз, бір уақытта тек бір адам сөйлесін, ал қасындағылардан
+  құрылғыны реттеуге көмектесуін сұраңыз.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Әрекет қоңырауға бағыт береді және әңгімені жалғастыру қысымын азайтады. Алдын ала бөлісетін бір қарапайым нәрсені жоспарлаңыз."
+  - "Күн сайын бір уақытта шалған қысқа, тұрақты қоңыраулар ұзақ әрі сирек қоңыраулардан жиі тиімдірек болады."
+  - "Бір уақытта тек бір адам сөйлейді. Бірнеше адамның бір мезгілде сөйлесуі, әсіресе есту нашар болса, түсінуді қиындатады."
+  - "Қасында болған көмекші құрылғыны дайындап, адамның қасында отырып, кез келген ойын немесе фотосурет үшін «қол» бола алады."
+  - "Егер бүгін қоңырау сәтті шықпаса, оны жылы сөзбен аяқтаңыз. Ертең қайта әрекет етуге болады."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Деменциясы бар адаммен бейнеқоңырауда не істеуге болады?"
+    a: "Бір қарапайым әрекетті жоспарлаңыз: бақшаңызды, үй жануарыңызды немесе асүйіңізді көрсетіңіз; ескі фотосуреттерді бірге қараңыз; қысқа өлең немесе хатты дауыстап оқыңыз; сүйікті әнін айтыңыз; бір мезгілде бір рецептпен тамақ дайындаңыз немесе ортақ экранда жеңіл суретті ойын ойнаңыз. Әрекет қоңырауға бағыт беріп, адамнан әңгімені өзі жалғастыруды талап етпейді."
+  - q: "Бейнеқоңырау қанша уақытқа созылуы керек?"
+    a: "Әдетте сіз ойлағаннан қысқарақ. Адам тез шаршаса, бірнеше жылы минут та жеткілікті болуы мүмкін. Әр қоңыраудың ұзақтығынан гөрі, күн сайын бір уақытта тұрақты қоңырау шалу маңыздырақ болуы мүмкін."
+  - q: "Егер бейнеқоңырау оны шатастырса немесе мазасыздандырса ше?"
+    a: "Кейбір адамдарға экрандағы бет түсініксіз болуы мүмкін. Кәдімгі телефон қоңырауын, көмекші тыныш сәтте қоса алатын жазылған бейнехабарламаны немесе пошта арқылы жіберілген ашықхаттар мен фотосуреттерді байқап көріңіз. Егер қоңырау қиын өтсе, оны мейіріммен аяқтап, басқа күні немесе басқа уақытта қайталап көріңіз."
+  - q: "Анам телефонды өзі пайдалана алмаса, бейнеқоңырауға қалай көмектесемін?"
+    a: "Туысынан, үйде көмектесетін қызметкерден немесе қамқорлық орталығының қызметкерінен қоңырауды бастап, құрылғыны ұстап тұруын немесе қойып беруін сұраңыз. Көптеген қамқорлық мекемелері отбасыларға бейнеқоңырау жасауға көмектеседі, сондықтан олар не ұсынатынын сұраңыз. Тұғырдағы, экраны үлкен әрі дыбысы жеткілікті планшет барлығына ыңғайлырақ болады."
+  - q: "Бейнеқоңырау арқылы бірге ойын ойнай аламыз ба?"
+    a: "Иә. Ең оңай жолы — бір адам бейнеқоңырау қолданбасында экранын бөлісіп, екіншісі қай суретті басу керегін айтып тұрады. Немесе қасындағылар планшетте сол ойынды ашып, сіз әңгімелесіп тұрғанда адамның орнына баса алады. Таймері мен ұпайы жоқ ойындарды таңдаңыз."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Деменциямен өмір сүретін адамнан алыс тұру өзіңізді дәрменсіз сезінуге себеп болуы мүмкін. Телефон және бейнеқоңыраулар құшақтауды алмастырмайды, бірақ оларды дұрыс ұйымдастырсаңыз, шынайы жақындық сәттерін сыйлай алады. Бастысы — әдеттегі әңгімелесуді жалғастыруға тырыспай, оның орнына бірге бөлісетін қарапайым бір нәрсені жоспарлау. Бұл бетте бейнеқоңырау мен телефон арқылы жасауға болатын әрекеттер, қоңырауды қалай дайындау керек және қасындағылар қалай көмектесе алатыны айтылады.
 
-## Why plan an activity for a call?
+## Неліктен қоңырау үшін әрекет жоспарлаған жөн?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Әрекет қоңырауға бағыт береді. «Қалың қалай? Бүгін не істедің?» деген сұрақтар адамнан есіне түсіріп, айтып беруді талап етеді, бұл қиын әрі ауыр болуы мүмкін. Ал «Міне, қызанақтар піскен» деген сөз ештеңе талап етпейді.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association бейнеқоңырауда үлкен топпен әңгімелесу қиын болуы мүмкін екенін айтып, ән айту немесе суреттерді көрсету сияқты тәсілдермен [қоңырауға құрылым қосуды](https://www.alz.org/help-support/caregiving/holidays) ұсынады.
 
-## What activities work on a video call?
+## Бейнеқоңырауда қандай әрекеттер тиімді?
 
-### Show and tell
+### Көрсетіп, айтып беру
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Өз ортаңызды оларға жақындатыңыз. Камераны бақшада баяу жүргізіңіз, итті таныстырыңыз, не пісіріп жатқаныңызды көрсетіңіз, немеренің суретін көрсетіңіз немесе терезеден сырттағы қарды көрсетіңіз. Көріп тұрғаныңызды қарапайым сөзбен сипаттаңыз және оларға жауап беруге уақыт қалдырыңыз. Сұрақ қою міндетті емес.
 
-### Look at photos together
+### Фотосуреттерді бірге қарау
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Ескі баспа суретті камераға көрсетіңіз немесе экранды бөлісіп, бірнеше үлкен фотосуретті бір-бірлеп көрсетіңіз. Байқаған нәрсеңіз туралы айтыңыз: «Атаның қалпағына қараңызшы». «Бұл кім?» немесе «Есіңе түсіп тұр ма?» деп сұрамаңыз. Егер адам біреуді қате атаса, сонымен келісіп кетіңіз. Жұмсақ ой салу үшін біздің [есте сақтау әрекеттері туралы нұсқаулықты](/activities/reminiscence/) қараңыз.
 
-### Read aloud
+### Дауыстап оқу
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Қысқа өлеңді, дұғаны, сол қоңырауға қосылған немереге арналған сүйікті балалар кітабын, туыстан келген хатты немесе олар жақсы көрген кітаптың бір бетін дауыстап оқыңыз. Дауыстап оқу адамға жауап беруді қажет етпей, тыңдайтын тыныш нәрсе береді.
 
-### Sing or listen to music together
+### Бірге ән айту немесе музыка тыңдау
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Олар жақсы білетін әнді айтыңыз немесе өз жағыңызда сүйікті туындыны қосыңыз. Көптеген адамдар үшін бірге ән айту әңгімелесуден оңайырақ болуы мүмкін. Біздің [музыка әрекеттері туралы нұсқаулықты](/activities/music/) қараңыз.
 
-### Cook or bake at the same time
+### Бір мезгілде тамақ пісіру немесе бәліш дайындау
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association ерекше рецептпен бірге пісіру немесе дайындау үшін бейнеқоңырау жоспарлауды ұсынады. Екі асүйде де қоңырауды дайындаңыз. Қасындағылар араластырып немесе дәмін көріп тұруы мүмкін, ал сіз олардың ескі рецепт жазбасына сүйенесіз.
 
-### Watch something together
+### Бірге бірдеңе көру
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Қауымдастық сондай-ақ бөлек үйлерден отырып, телефон немесе бейнеқоңырау арқылы сөйлесе жүріп, сүйікті фильмді бір уақытта көруді ұсынады. Деменциямен өмір сүретін адам үшін толық фильмнен гөрі қысқа үзінді, ескі телехикая немесе спорт ойыны қолайлырақ болуы мүмкін.
 
-### Play a gentle game on a shared screen
+### Ортақ экранда жеңіл ойын ойнау
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Көптеген бейнеқоңырау қолданбалары экранды бөлісуге мүмкіндік береді. Сіз ойынды ашып, басасыз; ал адам қай суретті таңдау керегін айтып немесе нұсқап отырады. Немесе қасындағылар планшетте сол ойынды ашып, сіз сөйлесіп тұрғанда олардың орнына басады.
 
-Games that work well this way:
+Осылай ойнауға ыңғайлы ойындар:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** сіз таныс сөз тіркесін оқисыз, олар жалғасын айтады, содан кейін дауыстап берілетін ой салу шығады.
+- **[Picture Pairs](/games/picture-pairs/):** суреттер көрініп тұра алатын, таймері мен ұпайы жоқ, үлкен суреттермен жеңіл сәйкестендіру ойыны.
+- **[Conversation Cards](/games/conversation-cards/):** бірге әңгімелесуге арналған сурет және ашық ой салу.
+- **[Photo Pairs](/games/photo-pairs/):** өз құрылғыңызда таңдаған фотосуреттерден жасалған сәйкестендіру ойыны. Фотосуреттер браузеріңізде қалады, ал адам оларды сіздің ортақ экран арқылы көреді.
 
-### Recorded messages
+### Жазылған хабарламалар
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Тікелей қоңыраулар қиын болғанда, қысқа бейнежазба түсіріңіз: сәлемдесу, ән немесе аулаңызда серуен. Көмекші оны тыныш сәтте, адам қалағанынша қайта-қайта қоса алады. Alzheimer's Association балалардың сыйлық ашуы сияқты ерекше сәттерді жазып жіберуді атап өтеді.
 
-## What about plain phone calls?
+## Ал кәдімгі телефон қоңыраулары ше?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Кәдімгі телефон қоңыраулары да маңызды. Dementia Australia [күн сайын бір уақытта қоңырау шалуды](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) және асықпауды ұсынады, себебі деменциямен өмір сүретін адамдарға қосылу үшін уақыт керек болуы мүмкін. Телефонмен сөйлескенде:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Атыңызды және кім екеніңізді бірден айтыңыз: «Сәлеметсіз бе, әке, бұл мен, қызыңыз Айгүл».
+- Баяу, қысқа сөйлемдермен, бір уақытта бір ойды ғана айтыңыз.
+- Жаңалықты сұрамай, өзіңіз айтып беріңіз: «Кеше сіздің рецептіңізбен ет әзірледім».
+- Қысқа өлең оқыңыз немесе сүйікті әннің бір шумағын айтыңыз.
+- Қоңырауды қысқа ұстаңыз және жылы сөзбен аяқтаңыз.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia сондай-ақ сөйлеу қиындай бастағанда бейнеқоңыраулар пайдалы болуы мүмкін екенін айтады, себебі адам сіздің бетіңізді көре алады. Егер телефон қоңыраулары шатастыратын болса, бейнеқоңырауды байқап көріңіз немесе керісінше.
 
-## How do I set up a video call that works?
+## Сәтті бейнеқоңырауды қалай дайындауға болады?
 
-**Before the call:**
+**Қоңырау алдында:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Адам әдетте демалған болатын тұрақты уақытты** таңдаңыз және соны сақтаңыз. Күн тәртібі көмектеседі.
+2. **Қасындағылармен алдын ала келісе қойыңыз.** Алдын ала күнінде жіберілген хабарлама оларға жоспар құруға көмектеседі.
+3. **Құрылғыны тексеріңіз.** Тұғырдағы планшет қолда ұсталған телефоннан оңайырақ. Заряды бар екенін, экраны жарық екенін және дыбысы жеткілікті екенін тексеріңіз. Қолданбада субтитр бар болса және адам жақсы оқи алса, оны қосыңыз.
+4. **Бір әрекетті жоспарлап**, бәрін алдын ала дайындаңыз.
 
-**During the call:**
+**Қоңырау кезінде:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Жарық жақсы түсетін жерде камераға жақын** отырыңыз, терезеге қарсы емес, оған қарап отырыңыз.
+- **Әр жолы өзіңізді таныстырыңыз**, атыңызды және кім екеніңізді айтыңыз.
+- **Бір уақытта тек бір адам сөйлесін.** Alzheimer's Association бір мезгілде сөйлеу деменциямен өмір сүретін адамдарға да, есту нашар адамдарға да қиын екенін айтады. Бірнеше туыс қосылса, кезекпен сөйлеңіз немесе екі-үш адаммен шектеліңіз.
+- **Бір уақытта бір сұрақ қойыңыз.** Family Caregiver Alliance [иә немесе жоқ деп жауап беруге болатын қарапайым сұрақтарды](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) және мүмкіндік болса, таңдауды көрсетуді ұсынады.
+- **Ұзақ үзілістерге уақыт беріңіз.** Жауапты күтіңіз. Егер адам сөзді іздеп тұрса, ақырын көмектесуге болады.
+- **Бет-әлпетіңіз бен даусыңызды қолданыңыз.** Күлімсіреңіз, бас изеңіз және даусыңызды жылы ұстаңыз. Көбіне сөзден гөрі мимика мен үн қаттырақ әсер етеді.
+- **Түзетпеңіз.** Егер адам нақты емес нәрсе айтса, оны жай қабылдаңыз.
 
-**Ending the call:**
+**Қоңырауды аяқтау:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Адам шаршамай тұрып, мүмкін болса, жақсы көңіл-күйде аяқтаңыз.
+- Әр жолы бірдей қоштасу сөзін қолданыңыз: «Ертең түскі аста тағы қоңырау шаламын. Мен сені жақсы көремін».
+- Қоштасуды созбаңыз.
 
-## Tips for the helper on site
+## Қасындағыларға арналған кеңестер
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Егер сіз қоңырауға көмектесіп жүрген жұбай, көмекші, туыс немесе қызметкер болсаңыз, бұл байланысты мүмкін ететініңіз сіз.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Тыныш орын дайындаңыз.** Теледидарды өшіріп, есікті жабыңыз.
+- **Қоңырауды өзіңіз бастап**, содан кейін адамға тұғырдағы планшетті беріңіз немесе оны көз деңгейінде ұстап тұрыңыз.
+- **Оның қасында отырыңыз, алдына емес.** Сіздің жаныңызда болуыңыз сенім береді. Қажет болса, ақырын бағыттаңыз: «Қарашы, бұл Айгүл ғой».
+- **«Қол» болып көмектесіңіз.** Фотосуреттерді көрсетіңіз, ойында басыңыз, бөлмені көрсету үшін планшетті бұрыңыз.
+- **Шаршау немесе мазасыздану белгілерін байқап**, қоңырау шалушыға қоңырауды аяқтау уақыты келгенін айтыңыз.
+- **Не сәтті болғанын қоңырау шалушыға айтыңыз.** «Оған ит өте ұнады» деген сөз келесі қоңырауды жоспарлауға көмектеседі.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA алыс тұратын туыстар егде адамға [телефон мүмкіндіктерін үйренуге](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), мысалы бейнеқоңырау шалуға, көмектесе алатынын айтады. Кейінгі кезеңдерде құрылғыны толықтай қасындағылар басқаруы керек болуы мүмкін. Бұл қалыпты жағдай.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Егер адам қамқорлық орталығында тұрса, Alzheimer's Foundation of America мекеме отбасыларға бейнеқоңырау жасауға көмектесе ме екенін сұрауды ұсынады. Сондай-ақ AFA отбасылардың қамқорлық қызметкерлері арқылы фотосурет алмасуы және мекеме рұқсат етсе, сүйікті тағамдар немесе кішкентай жайлы заттар жіберуі мүмкін екенін атап өтеді.
 
-## What if the call doesn't go well?
+## Егер қоңырау сәтсіз өтсе ше?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Кейбір қоңыраулар шатастыратын, көңілсіз немесе ауыр болуы мүмкін. Бұл сіздің кінәңіз емес және қоңырау шалудың пайдасы жоқ дегенді білдірмейді.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Егер адам экранға таңырқап қараса, кәдімгі телефон қоңырауына немесе жазылған хабарламаға ауысыңыз.
+- Егер мазасызданса, оның сезімін мойындап, жұбата сөйлеп, қоңырауды ақырын аяқтаңыз.
+- Егер қоңыраулар күннің белгілі бір уақытында жиі қиын өтсе, басқа уақытты байқап көріңіз.
+- Егер ол сізді басқа біреу деп ойласа, мейіріммен сонымен келісіп кетіңіз.
 
-It is fine to end early. A short, warm call is a good outcome.
+Қоңырауды ерте аяқтауға болады. Қысқа, жылы қоңырау — жақсы нәтиже.
 
-## Between calls
+## Қоңыраулар арасында
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Басқа жолдармен де байланыста болыңыз. Dementia Australia ашықхаттар, электрондық хаттар, фотосуреттер немесе кішкентай сыйлықтар жіберуді ұсынады. Апта сайын бір үлкен фотосуреті және қысқа жазбасы бар ашықхат жіберсеңіз, оны қайта-қайта оқуға болады. Көмекшіге пошта арқылы жіберілген басып шығарылатын [conversation cards](/games/conversation-cards/) келесі қоңырауға дайын тақырып бере алады.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Планшетті қалай таңдау және реттеу туралы кеңестер үшін [tablets and screens](/caregiving/tablets-and-screens/) бөлімін қараңыз. Жүзбе-жүз кездесулер үшін біздің [visiting](/activities/visiting/) нұсқаулығымызды қараңыз.

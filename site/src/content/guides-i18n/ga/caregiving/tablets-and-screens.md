@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Táibléad nó Fón a Shocrú do Dhuine le Néaltrú"
+seoTitle: "Táibléad nó Fón a Shocrú do Dhuine le Néaltrú"
+description: "Socrú céim ar chéim do tháibléad nó fón: glasáil ar aip amháin, téacs níos mó, gan fógraí, scáileán baile simplí, fuaim agus príobháideacht."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Déan táibléad nó fón níos simplí sula dtugann tú don duine é. Glasáil ar
+  aip amháin é le Guided Access ar iPad agus iPhone nó le greamú aip ar
+  Android, nó bain úsáid as Assistive Access ó Apple le haghaidh leagan amach
+  níos simplí. Déan an téacs níos mó, múch fógraí, coinnigh cúpla aip ar
+  scáileán baile amháin, socraigh an fhuaim, bain úsáid as seastán, agus
+  teorannaigh ceadanna aip. Bain úsáid as le chéile é, in éineacht le
+  gníomhaíochtaí nach bhfuil ar scáileán.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Coimeádann Guided Access (iPhone, iPad) agus greamú aip (Android) an scáileán ar aip amháin go dtí go ndíghlasálann tú é."
+  - "Cuireann Assistive Access ó Apple leagan amach níos simplí ar fáil atá deartha do dhaoine a bhfuil míchumais chognaíocha orthu."
+  - "Déan an téacs níos mó agus múch fógraí agus míreanna aníos ionas nach gcuirfidh aon rud isteach ná mearbhall ar an duine."
+  - "Coinnigh cúpla aip ar an scáileán baile amháin, agus socraigh an fhuaim sula dtosaíonn tú."
+  - "Déanann seastán agus áit luchtaithe nach n-athraíonn sé níos fusa an gléas a úsáid agus a aimsiú."
+  - "Déan athbhreithniú ar cheadanna agus ar chomhroinnt sonraí aip: de ghnáth ní chosnaíonn HIPAA an méid a stóráiltear ar ghléas pearsanta."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Conas is féidir liom duine atá ina chónaí le néaltrú a chosc ó aip a fhágáil ar iPad?"
+    a: "Cuir Guided Access ar siúl i Socruithe > Inrochtaineacht > Guided Access agus socraigh paschód. Oscail an aip, cliceáil faoi thrí ar an gcnaipe barr (nó ar an gcnaipe Baile ar iPadanna níos sine), agus tapáil Tosaigh. Fanann an t-iPad san aip sin go dtí go gcuireann duine éigin an paschód isteach."
+  - q: "Conas is féidir liom táibléad Android a ghlasáil ar aip amháin?"
+    a: "Cuir greamú aip ar siúl san aip Socruithe, de ghnáth faoi Shlándáil (uaireanta Slándáil agus suíomh) > Casta > Greamú aip. Ansin oscail an aip, oscail Forbhreathnú, tapáil deilbhín na haipe ag an mbarr agus tapáil Greamaigh. Beidh do UAP, patrún nó pasfhocal ag teastáil chun é a dhíghreamú."
+  - q: "An bhfuil sé sábháilte Guided Access a úsáid ar fhón féin an duine?"
+    a: "Bí cúramach. Deir Apple nach bhfuil Crash Detection ná Seirbhísí Éigeandála ar fáil nuair atá Guided Access ar siúl. Má bhíonn an duine ag brath ar a fhón le haghaidh glaonna éigeandála, ná húsáid Guided Access ach amháin nuair atá tú in éineacht leis/léi, nó smaoinigh ar Assistive Access ina áit."
+  - q: "Cé mhéad ama scáileáin atá ceart do dhuine atá ina chónaí le néaltrú?"
+    a: "Níl uimhir shocraithe ann. Is fearr lá níos iomláine a bheith agat le seisiúin ghearra a dhéantar le chéile, measctha le siúlóidí, ceol, tascanna tí agus comhrá, ná tréimhsí fada ina aonar le scáileán. Má chuireann an gléas frustrachas ar an duine nó má chuireann sé bac ar ghníomhaíochtaí eile, bain níos lú úsáide as."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Is féidir le táibléad a bheith ina bhealach álainn chun pictiúir, ceol agus cluichí simplí a roinnt. Uaireanta bíonn sé mearbhallach freisin: osclaíonn tapáil thaisme aip eile, tagann fógra aníos, tá an téacs beag bídeach, nó éiríonn an scáileán dorcha i lár cluiche. Réitíonn beagán socraithe ó do thaobh an chuid is mó de sin.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Úsáideann na céimeanna seo na socruithe ionsuite ar iPhone, iPad agus Android. Is féidir le hainmneacha biachláir athrú idir leaganacha bogearraí agus déantóirí gléasanna, mar sin má fhéachann rud éigin difriúil, lean an leathanach nasctha ó Apple nó Google do do ghléas. Déan an socrú tú féin, sula suífidh sibh le chéile.
 
-## Should someone with dementia use a tablet or phone?
+## Ar cheart do dhuine atá ina chónaí le néaltrú táibléad nó fón a úsáid?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Braitheann sé ar an duine. Baineann go leor daoine taitneamh as táibléad a úsáid agus duine éigin in aice leo, fiú mura n-éireodh leo é a úsáid ina n-aonar. Tosaigh trí é a úsáid le chéile, le haip amháin oscailte, ar feadh cúpla nóiméad. Má thugann sé taitneamh agus comhrá, lean ar aghaidh. Má chruthaíonn sé mearbhall nó frustrachas, b'fhéidir go n-oirfeadh albam grianghraf, leathanaigh chlóite nó ceol níos fearr. Is rogha eile iad ár [ngníomhaíochtaí inphriontáilte](/activities/printable/).
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+De ghnáth bíonn táibléad níos éasca ná fón: tá an scáileán agus na pictiúir níos mó, agus ní hé fón éigeandála an duine é ag an am céanna.
 
-## How do I lock a tablet or phone to one app?
+## Conas is féidir liom táibléad nó fón a ghlasáil ar aip amháin?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Bain úsáid as Guided Access ar iPhone agus iPad, nó as greamú aip ar Android. Coimeádann an dá cheann an scáileán ar aip amháin go dtí go gcuireann tú cód isteach, mar sin ní féidir le tapáil nó svaidhpeáil thaisme rud éigin eile a oscailt.
 
-### iPad and iPhone: Guided Access
+### iPad agus iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Ó [threoracha Guided Access Apple](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Oscail **Socruithe**, tapáil **Inrochtaineacht**, ansin tapáil **Guided Access** agus cuir ar siúl é.
+2. Faoi **Socruithe Paschóid**, socraigh paschód Guided Access. Is féidir leat Face ID nó Touch ID a cheadú freisin.
+3. Roghnach: faoi **Uathghlasáil an Taispeántais**, roghnaigh cé chomh tapa agus a ghlasálann an scáileán le linn seisiúin, ionas nach n-éireoidh sé dorcha i lár cluiche.
+4. Oscail an aip is mian leat a úsáid.
+5. Cliceáil faoi thrí ar an gcnaipe taoibh (iPhone), ar an gcnaipe barr (iPad), nó ar an gcnaipe Baile ar ghléasanna níos sine.
+6. Roghnach: tarraing ciorcal timpeall ar aon chuid den scáileán nach mian leat a fhreagróidh do theagmháil. Tapáil **Roghanna** (nó **Socruithe Seisiúin**) chun na cnaipí fuaime a mhúchadh nó chun an scáileán a chosc ó rothlú.
+7. Tapáil **Tosaigh**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Chun an seisiún a chríochnú, cliceáil faoi thrí ar an gcnaipe céanna arís, cuir an paschód isteach, agus tapáil **Críochnaigh**. Tugann Apple faoi deara go gcliceálann tú faoi dhó ar roinnt leaganacha bogearraí níos sine.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Tábhachtach:** Deir Apple nach bhfuil Crash Detection ná Seirbhísí Éigeandála ar fáil le linn seisiúin Guided Access. Ná fág Guided Access ar siúl ar fhón a bhféadfadh glaonna éigeandála a bheith ag teastáil uaidh/uaithi (mar shampla chuig 112 nó 999).
 
-### Android: app pinning
+### Android: greamú aip
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Ó [chabhair Android Google faoi scáileáin a ghreamú](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Oscail an aip **Socruithe**.
+2. Tapáil **Slándáil** (nó **Slándáil agus suíomh**), ansin **Casta**, ansin **Greamú aip**. Mura bhfuil sé le fáil agat, seiceáil leathanaigh chabhrach dhéantóir do ghléis.
+3. Cuir **Greamú aip** ar siúl. Beidh do UAP, patrún nó pasfhocal ag teastáil chun é a dhíghreamú.
+4. Oscail an aip atá uait. Svaidhpeáil suas go lár an scáileáin agus coinnigh síos chun Forbhreathnú a oscailt (nó tapáil Forbhreathnú le nascleanúint 3 chnaipe).
+5. Ag barr réamhamharc na haipe, tapáil deilbhín na haipe, ansin tapáil **Greamaigh**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Chun é a dhíghreamú le nascleanúint gothaí, svaidhpeáil suas agus coinnigh síos. Le nascleanúint 3 chnaipe, teagmháil agus coinnigh Ar Ais agus Forbhreathnú. Le nascleanúint 2 chnaipe, teagmháil agus coinnigh Ar Ais agus Baile. Ansin cuir isteach do UAP, patrún nó pasfhocal.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## An bhfuil mód níos simplí ann don iPhone nó don iPad ar fad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Tá. Cuireann Assistive Access ó Apple leagan amach níos simplí in áit an ghnáthscáileáin baile. [Cuireann Apple síos air](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) mar ghné atá deartha chun iPhone a dhéanamh níos éasca do dhaoine a bhfuil míchumais chognaíocha orthu a úsáid go neamhspleách, le míreanna níos mó ar an scáileán agus gnéithe níos dírithe. Tá [an ghné chéanna ar iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) ag Apple.
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Cé a shocraíonn é.** Molann Apple go gcabhraíonn tacadóir iontaofa, mar bhall teaghlaigh nó cúramóir a bhfuil aithne aige/aici ar an duine, na haipeanna agus na gnéithe a roghnú.
+- **Cá háit le tosú.** Téigh go **Socruithe > Inrochtaineacht > Assistive Access**, tapáil **Socraigh Assistive Access**, ansin **Lean ar aghaidh**.
+- **Aipeanna.** Roghnaíonn tú na haipeanna a fheictear. Tá leaganacha simplí speisialta ag roinnt aip Apple, agus is féidir formhór na n-aip eile a chur leis ina ngnáthdhearadh.
+- **Leagan amach.** Roghnaigh **Sraitheanna** (liosta atá éasca le léamh) nó **Greille** (míreanna níos mó a chuireann béim ar phictiúir agus ar dheilbhíní).
+- **Paschód.** Socraíonn tú paschód Assistive Access ar leith chun dul isteach, imeacht nó socruithe a athrú. Molann Apple Cuntas Apple athshlánaithe a shocrú le linn an tsocraithe, mar mura ndéantar sin, ciallaíonn paschód dearmadta go mbeidh ort an gléas a athshocrú.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+D'fhéadfadh Assistive Access a bheith oiriúnach do dhuine a úsáideann a ghléas féin gach lá. Is tapúla Guided Access nó greamú aip do sheisiún cluiche roinnte.
 
-## How do I make text and pictures bigger?
+## Conas is féidir liom téacs agus pictiúir a dhéanamh níos mó?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Méadaigh méid an téacs agus an taispeántais, ansin seiceáil go n-oireann na cnaipí ar an scáileán fós.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone agus iPad.** De réir [threoracha Apple maidir le méid cló](https://support.apple.com/en-us/102453), téigh go **Socruithe > Taispeáint agus Gile > Méid Téacs** agus tarraing an sleamhnán. Le haghaidh téacs níos mó fós, téigh go **Socruithe > Inrochtaineacht > Taispeáint agus Méid Téacs > Téacs Níos Mó**. Tugann Apple faoi deara gur féidir le téacs an-mhór roinnt cnaipí a dhéanamh níos deacra a thapáil, mar sin athraigh é más gá.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** De réir [chabhair Google maidir le socruithe téacs agus taispeántais](https://support.google.com/accessibility/android/answer/11183305?hl=en), oscail **Socruithe** agus cuardaigh **Méid cló**, ansin bog an sleamhnán. Cuardaigh **Méid taispeántais** chun gach rud ar an scáileán a dhéanamh níos mó. Is féidir leat **Téacs trom** a chur ar siúl freisin faoi **Inrochtaineacht > Méid taispeántais agus téacs**. Ní leanann roinnt aip na socruithe seo.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+I gcluichí ar nós [Picture Pairs](/games/picture-pairs/) agus [Find the Same](/games/find-the-same/), is féidir leat níos lú tíleanna nó roghanna a roghnú freisin, rud a choinníonn rudaí níos simplí ar an scáileán.
 
-## How do I stop notifications and pop-ups?
+## Conas is féidir liom fógraí agus míreanna aníos a stopadh?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Múch fógraí d'aipeanna nach bhfuil ag teastáil uait, agus bain úsáid as Ná Cuir Isteach le linn gníomhaíochtaí.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone agus iPad.** Téigh go **Socruithe > Fógraí**, tapáil aip faoi bhun **Stíl Fógraí**, agus múch **Ceadaigh Fógraí** ([treoir socruithe fógraí Apple](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Chun glaonna, foláirimh agus fógraí a chur ina dtost ar feadh tamaill, oscail Ionad Rialaithe agus cuir **Ná Cuir Isteach** ar siúl ón gcnaipe **Fócas** ([cabhair Ná Cuir Isteach Apple](https://support.apple.com/en-us/105112)). Is féidir leat é a sceidealú faoi **Socruithe > Fócas > Ná Cuir Isteach > Socraigh Sceideal**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Svaidhpeáil síos ó bharr an scáileáin agus tapáil **Ná Cuir Isteach**, nó téigh go **Socruithe > Móid > Ná Cuir Isteach** ([cabhair Ná Cuir Isteach Google](https://support.google.com/android/answer/9069335?hl=en)). Faoi **Scagairí fógraí** is féidir leat a roghnú cé na daoine agus na haipeanna ar féidir leo dul tríd fós. Athraíonn socruithe de réir dhéantóir an ghléis.
 
-## How do I make a simple home screen?
+## Conas is féidir liom scáileán baile simplí a dhéanamh?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Coinnigh cúpla aip ar scáileán amháin agus bog an chuid eile as radharc. Níl socrú amháin ann chuige seo; baineann sé le tranglam a bhaint.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Roghnaigh trí go sé aip.** Mar shampla, grianghraif, ceol, aip físghlaonna agus cluiche amháin.
+- **Cuir ar an gcéad scáileán iad,** sna háiteanna céanna gach uair, agus bog gach rud eile go dara scáileán nó fillteán.
+- **Bain úsáid as cúlbhrat simplí ardchodarsnachta,** mar dhath amháin nó grianghraf aitheanta amháin, ionas go seasfaidh na deilbhíní amach.
+- **Scrios aipeanna nach bhfuil ag teastáil uait.** Ciallaíonn níos lú aip níos lú seansanna mearbhaill agus níos lú sonraí á mbailiú.
+- **Smaoinigh ar Assistive Access** ar ghléasanna Apple más mian leat go ndéanfaidh an gléas é seo duit.
 
-## What about volume and sound?
+## Cad faoin fhuaim?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Socraigh fuaim chompordach sula dtugann tú an gléas don duine. Le Guided Access, is féidir leat na cnaipí fuaime a mhúchadh ionas nach n-athróidh sí i lár gníomhaíochta. Seiceáil go bhfuil áiseanna éisteachta curtha ar siúl agus ag obair.
 
-## Where should the tablet live?
+## Cá háit ar cheart don táibléad a bheith?
 
-Give it a stand and a permanent charging spot.
+Tabhair seastán dó agus áit bhuan luchtaithe.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Ciallaíonn seastán nó cás** a choinníonn an táibléad ina sheasamh ag an mbord nach gá d'aon duine é a shealbhú, agus bíonn sé níos éasca pointeáil.
+- **Áit luchtaithe amháin** nach n-athraíonn, seastán luchtaithe ar bhord i seomra a úsáideann sibh gach lá más fearr. Bíonn an táibléad luchtaithe i gcónaí agus san áit chéanna i gcónaí.
+- **Laghdaigh dalladh.** Cuir an scáileán i bhfad ó fhuinneog gheal.
 
-## How much screen time is okay?
+## Cé mhéad ama scáileáin atá ceart?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Níl an líon ceart nóiméad ann. Dírigh ar sheisiúin ghearra a dhéantar le chéile mar chuid amháin de lá iomlán a chuimsíonn gluaiseacht, ceol, tascanna tí, comhrá agus am amuigh faoin aer freisin. Toisc gur féidir le tráthnóna gnóthacha cur le míshuaimhneas níos déanaí sa lá, smaoinigh ar ghníomhaíochtaí scáileáin a choinneáil níos luaithe sa lá. Féach [gníomhaíochtaí socracha um thráthnóna déanach](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Má úsáidtear táibléad le chéile, seachas mar ionadaí aire, coinnítear sóisialta é. Míníonn ár dtreoir faoi [chluichí a imirt le chéile](/caregiving/how-to-play-together/) conas é sin a dhéanamh.
 
-## How do I protect their privacy on the device?
+## Conas is féidir liom a phríobháideacht a chosaint ar an ngléas?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Teorannaigh an méid is féidir le haipeanna a bhailiú, agus ná glac leis go gclúdaíonn dlí príobháideachta sláinte é. [Míníonn](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) Roinn Sláinte agus Seirbhísí Daonna na Stát Aontaithe (U.S. Department of Health and Human Services, HHS) nach gcosnaíonn rialacha HIPAA faisnéis sláinte a stóráiltear ar fhóin agus ar tháibléid phearsanta ná a rochtaintear tríothu, de ghnáth. I bhformhór na gcásanna, ní chosnaíonn HIPAA sonraí a chuirtear isteach in aip le haghaidh úsáide pearsanta ach amháin mura dtagann an aip ó sholáthraí cúraim sláinte clúdaithe, ó phlean sláinte nó ó cheann dá gcomhlachaithe gnó.
 
-HHS suggests:
+Molann HHS:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- aipeanna nach bhfuil riachtanach nó atá randamach a sheachaint, go háirithe cinn "saor in aisce";
+- gan rochtain ar shuíomh a thabhairt d'aipeanna mura bhfuil sé ag teastáil uathu i ndáiríre, mar atá i gcás léarscáileanna.
 
-Also consider:
+Smaoinigh freisin ar:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Paschód a úsáid** ar an ngléas, agus nóta a choinneáil de in áit shábháilte.
+- **Athbhreithniú a dhéanamh ar cheadanna** do ghrianghraif, ceamara, micreafón, teagmhálaithe agus suíomh, agus aon chead nach bhfuil ag teastáil ó aip a mhúchadh.
+- **Seiceáil cad a bhailíonn aip** sula suiteálann tú í. Tá seicliosta príobháideachta inár dtreoir faoi [aipeanna agus cluichí néaltrú a roghnú](/caregiving/choosing-apps-and-games/).
+- **Bí cúramach le grianghraif teaghlaigh.** Ná roinn ach grianghraif a mbeadh an duine compordach leo, agus bí ar an eolas cá stórálann aip iad. In [Photo Pairs](/games/photo-pairs/), fanann na grianghraif a roghnaíonn tú i do bhrabhsálaí.
+- **Múch ceannacháin in-aip** nó bain sonraí íocaíochta ó chuntais a úsáideann an duine.

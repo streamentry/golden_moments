@@ -1,34 +1,29 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Dementimik naapertuulik akuerinngippat imaluunniit kammajuppat"
+seoTitle: "Dementimik naapertuulik akuerinngippat"
+description: "Sooq inuk dementimik naapertuulik ingerlatitseqqissuulluunniit akuerinngikkaangat imaluunniit kammajukkersinnaanngitsoq, qanoq ilioriaaseqarsinnaanersoq, sumut pinaveersaartariaqarnersoq, kiisalu qanoq pilersaarutit allanngoriartornerat nakorsamut kisianni peqqutissaqarnersoq."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Dementimik naapertuulik „naamik“ oqarmat, eqqissisimanerlutit akueri, kingusinnerusukkullu misileeqqillutit imaluunniit allat amigaataasut neqeroorfigiuk. Akuerinnginneqarnissaq nalinginnaasumik pissuteqareersinnaavoq: suliaassaq ajornartorsuanngorpoq imaluunniit inuusuttunut tulluusimavoq, inuk qasussimavoq, anniarpoq, kaalluni, imeqaluni imaluunniit nipit amerlassusaannik avatangiisinit unittoorpoq. Sakitsaassanngilat imaluunniit piumaffiginnittussanngilatit. Ajornanngortissinnaavat, marlunnik toqqaanissannik neqeroorfigisinnaavat, imaluunniit ikiortittassaguk. Periaatsit tassanngaannaq allanngoriartornerat, ingammik napparsimalernerup kinguneranik imaluunniit nakorsaatit nutaat atornerisa kinguneranik, nakorsamut tassanngaannaq saaffigineqartariaqarput.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "„Naamik“ ataqqinartumik akuerineqartariaqarpoq, ajugaaffigineqartariaqarani."
+  - "Akuerinnginneq nalinginnaasumik pissuteqareersinnaavoq: ajornartorsuaq, meeqqanut tulluusoq, qasuneq, napparsimasoq, ajunngitsumik innarunnaaneq imaluunniit avatangiisit unittoortut."
+  - "Tunniutikkit, utaqqi, kingusinnerusukkulluunniit misileeqqigit, ullup ingerlanerani allaanni imaluunniit ajorunnginnerusumik."
+  - "Ikiortinnissaminik qinnuteqarnissaq naammassisinnissaminik qinnuteqarnermit pitsaaneruvoq."
+  - "Sakitsaassanngilat, piumaffiginnittussanngilatit, apeqqusersuissanngilatit imaluunniit aaqqiissunngilatit. Illit soraarniassammata imaluunniit qanittuallammata misissoruk."
+  - "Periaatsit tassanngaannaq allanngoriartornerat, ingammik napparsimalernerup imaluunniit nakorsaatit nutaat atornerisa kinguneranik, nakorsamut tassanngaannaq saaffigineqartariaqarput."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Iliuutsit ilaanngullugit unitsikkusussinnaavavut?"
+    a: "Aap, ullut ataasiakkaat eqqarsaatigalugit. Eqqilissinermik najuutissineq, nipilersuut tusarnaarneq imaluunniit avatangiisit isiginnaarneq naammaginarsinnaapput. Inuk sapaatit akornanni tamatigut nuannaajunnaarpoq, nakorsamut eqqaassallugu pingaaruteqarpoq, pissutsit ilutigalugu qasuvoq, anniavoq imaluunniit peqqinnerusumut ajornartorsiuteqarami."
+  - q: "Sooq siunertaq asagartik akuerinngileruaqarpa?"
+    a: "Sunngiffimmik nuannarinerusimasoq ajornartorsiorujussuinnarpoq, dementia pissutigalugu ajornarneruleraangat, inummillu kanngusukkusinnaalluni. Suliaatsip ajuarnerujussua taasinnaavat, assersuutigalugu matumaasat ilorraarlugit mersorneq eigiarsinnaallugu, imaluunniit naatsiivimmik assinik isiginnaarlugit naatsiiviuk egissallugu."
+  - q: "Uppernarsarusuppara?"
+    a: "Naamik. Inuk dementia pissutigalugu ajornanngitsumik suliarisinnaajunnaartup qanoq inneraarnissaanik piumaffiginninneq, [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation)-ip allaatigaa kammajunnermut pissutaasinnaasut ilagigaat. Naamik akueri, oqallinnermi allanngortigit, kingusinnerusukkulluunniit neqeroorfigiuk imaluunniit allatut."
+  - q: "Qanoq periaatsit allanngornerat ulorianartorsiussappat?"
+    a: "112-imut sianeruk, inuk ulorianartumiikkuni imaluunniit ulorianartorsiussaq uppernarsagaqarluni. Paasinninnerup imaluunniit periaatsip tassanngaannaq allanngoriartornera, nalunaaquttap-akunnerni imaluunniit ulluni marlunni pingasunniluunniit, ingammik kiassuineq, napparsimalerneq imaluunniit nakorsaat nutaaq peqatigalugit, nakorsaq tassanngaannaq saaffiguk."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +45,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Tamaat piareersarsimavat, spilinilluunniit pisuttuarniarlutit neqeroorfigissavat, „Naamik“ tusaavat. Imaluunniit iliuuseq iluaquteqarluni aallartissaaq, naanerli taabletit ajattorneqarluni oqaaserlu kusanartuunngitsoq tusarneqarpoq. Taanna nikallungaqataavoq, taamaaliornerlu nalinginnaajuvoq. Akuerinnginneq kammajuinnerlu nalinginnaasumik oqaaseqaatipput, peqqusersuilluni pisutaanngilaq. Oqaaseqaatit suut ilimanerannik paasineq, qanoq ilioriaaseqarsinnaanerlutit takutinneqarsinnaavoq.
 
-## Why does someone with dementia refuse activities?
+## Sooq inuk dementimik naapertuulik iliuutsinik akuerinngisaraajuaannarpa?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Nalinginnaasumik pissuteqareersinnaavoq, inup nammineq oqaasertarsinnaanngikkaluaruni. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities)-ip oqaluttuarivaa, akuerinnginneq takutinnissinnaasoq inuk suliassaq atorfinissinnaanngikkaa imaluunniit misileeqqissinnaanngikkaluarluni. Pissutsit nalinginnaasut ukuupput:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Ajornartorsuanngorpoq.** Suliaassaq taakkuassinnaavoq, dementia pissutigalugu, pikkorissarnerit ajornarnerulersimasut atorneqaqqammerlugit, allallu taakkuninnga saani ajorsarnermut kanngusunneqarsinnaalluni.
+- **Meeqqatunut tulluusoq.** Inoornaasut assinik titartakkannik, nipinik meeqqanut sanilliussisartunik aammalu iliuutsinik meeqqat qanoq innarliortillugit sanaajusut malugisinnaavaat.
+- **Qasusoq.** Inuit amerlasuut ullup naanerani nukikinnerulersaraapput. Takuuk [ullup naanerani eqqissillutik iliuuseqartitserineq](/caregiving/late-day-restlessness/).
+- **Timikkut ajunngitsumik innarunnaaneq.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)-ip allaatigai, aniaq, sininngitsoorneq, isiginnaarnermut tusarnaarnermulluunniit ajornartorsiutit, nakkaatinneq, kaaneq, imeqartinneq aammalu nakorsaatit nutaat kinguneriat, unittoornermut pissutaasinnaasut.
+- **Aalajaatsuuvoq.** TV nipituujuvoq, oqaloqatigiinnerit amerlasuut imaluunniit inoqatersuit amerlasuut unittoorsinnaapput.
+- **Piumaffigineqarniarluni misigisoq.** NIA-p erseqqippaa, Alzheimersip ajornartorsiorneri sunniuteqarnissamut piumaffigineqarneq, imaluunniit pisut misilittakkat inuit amerlanerit eqqaamassallugit piumaffigineqarneq, kammajunnermut pissutaasinnaasut.
+- **Isumalunnerulluni.** Sunik nuannaajunnaarneq aliasunnermut malunnartoqarsinnaavoq, nakorsamullu oqaatigineqartariaqarpoq.
+- **Naammiginngilluinnarpaa.** Inoornaasut akuerinngisinnaapput.
 
-## What should I try when they say no?
+## Naamik oqarpat qanoq ilioriaaseqarnersuaava?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Eqqissisimanerlutit naamik akueri, kingornalu allanngortigit: piffissaq, iliuuseq, ajornassusia imaluunniit qanoq aperinerlutit.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Massakkut unitsikkit.** „Ajoruunaaka. Kingusinnerusukkut immaqa.“ Kingornalu allamut ingerlagit annernatigisatiginagu.
+2. **Kingusinnerusukkut misileeqqigit.** Alzheimer's Association-p siunnersuuppaa kingusinnerusukkut misileeqqinnissaq, imaluunniit ullup ingerlanerani allaanni.
+3. **Mikineruleruk.** Iliuuseq ataaseq ataatsimoorluni, spilit naallugu. Ataatisaq ataaseq, ilaaqqanik imalik naallugu. Assit ikinnerit, toqqaanissat ikinnerit, assillu ersittoqqullugit.
+4. **Marlunnik toqqaanissannik neqeroorfigiuk.** „Timmissat assinik takorusuppit imaluunniit nipilersuut tusarusuppit?“ Toqqaanissaq piginninneq misiginneq pillugu ikiorsinnaavoq.
+5. **Ikiortinnissaminik qinnutiguk, naammassisinnissaminik pinngitsutit.** „Uku ilorraallunga ikiorsinnaavinga?“ imaluunniit „Qalipaat isigisaanerpaaq oqarusuppinga?“ Atortornegarnissaq misiligaaneqarnermit allaaneruvoq.
+6. **Illit aallartigit.** Sanianniittoq aperinagu aallartigit. Inuit amerlasuut peqataanissarput aallartinneqareersimappat, peqataaninngikkaluarpatalu, ataatsimoorlusi piffissaq atorsimavarsi.
+7. **Timikkut oqaluttuarisaanermut imaluunniit eqqissinermut allanngortigit.** Pisuttuaq najuitsuk, nipilersuut, neriussaq, ilaaqqanik immiussineq, imaluunniit [eqqissillutik anersaartarneq](/games/calm-breathing/) peqatigalugu. NIA-p siunnersuuppaa nipilersuutimut, atuakkanulluunniit imaluunniit pisuttuanermut sammisitsineq.
+8. **Nammineerluni ilisarisimasaminik iliuuseqarnissaanik akueri.** Malittarisassiat naleqqiussutillugit allatut iliorsinnaappat, akueri. Alzheimer's Association-p siunnersuuppaa naammagittaalliorneq.
 
-## What should I say when they get frustrated?
+## Kammajuppat qanoq oqaluttariaqarpa?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Arrortiguuk, nipit tulliarsarlugu isumaginninnillu erseqqissaruk. [Alzheimer's Association-ip kammajunnermut siunnersuutai](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) siunnersuupput tunniutilernissaq aammalu akuersissummik qinnuteqarnissaq, eqqissisimanerlutillu isumaqatigiinnermik oqaaseqartarnissaq, aammalu marlunnik toqqaanissannik neqeroorfiginninneq. Taanna isumaa malillugu oqaatsit ukuullutik:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- „Utoqqatsissutigara, una kammajuttuuvoq. Unitsikkit.“
+- „Ajunngitsumik ingerlavoq. Maaniippunga.“
+- „Piffissaqarpit allamik ikiorsinnaallunga?“
+- „Tiimik imerumavugut taarsiullugu?“
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Kingorna iliuuseq unitsikkit pingaarutilissanngortinnagu. [Oqaloqatigiinnermut siunnersuutivut](/caregiving/communication-tips/) qanoq oqallinnissaq pillugu suli ajornanngitsunik ujarlernertut imaqassaaq.
 
-## What should I avoid?
+## Suna pinaveersaartariaqarpa?
 
-Some natural reactions tend to make things worse.
+Ilusilersuutit nalinginnaasut ilaannikkut ajornarnerulersitsisinnaapput.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Sakitsaaneq piumaffiginninnerlu.** „Ataasiinnarmik suli“ imaluunniit „Una asavat“ iluaqutaanngilaq.
+- **Apeqqusersuineq aaqqiinerlu.** „Ilisimavat una sunaasoq“ imaluunniit „Naamik, taanna eqqunngilaq“ amerlisaasumik attanneqartutut misigineqarsinnaavoq.
+- **Nammineq pisuusoq isumaqarniarneq.** NIA-p eqqaasitsissarpaa, napparsimalernera, inuk pinngitsoq, allanngornernut taassuminnga pissutaasoq.
+- **Qanittuaneq tuaviinnaqarnissaa.** Alzheimer's Association-p siunnersuuppaa nipit qaffannagu, annilaangassusilissannginnatit, inuk cornersinnginnagu, qanittorsuannginnagu, unitsinnginnagu, unnerluutigineqartissannginnagu, soqutiginagu imaluunniit sakitsaannginnagu, aammalu isigisaanut tassanngaannaq nuussannginnatit.
+- **Pissutsit eqqortumik misiginneqarnissanut sunniuteqarnissaq.** „Illit pissutigalugit tamatuma piareersarpara“ taamaatillusi tamarmik ajornerusumik misiginilersitsissaaq.
+- **Taaguutit atorneqarnerat.** „Peqqusersuuvoq“ imaluunniit „ajornartoq“ pissutaaq ilumoortoq tarrisippaa, aaqqiivalliarnerlu ajornarnerulersissallugu.
 
-## How can I find out what is behind repeated refusals?
+## Akuerinnginnerit uteqattaartartut suut kingunerisiginerannik paasiniarneq qanoq toqqammavigisinnavarpa?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Sapaatip-akunnerni marlunniluunniit nuannarisalimmik allakkit. NIA-p oqarpoq, periaatsit allanngornerinik malinnaalluni isumaginnittunut nakkorsanutulluunniit ilisarnaatitsisinnaasoq oqaatsit iluserisamikkut uteqattaartut pillugit, aammalu pissutaannik paasiniarneq.
 
-Jot down:
+Allakkit:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- ullup nalaani sumik;
+- suna neqeroorfigigakku aammalu qanoq aperinerlutit;
+- avatangiisit qanoq issusut (nipiluarneq, pulaarfiit, TV);
+- qanoq sininneqarnersoq, nerineqarnersoq imernersorlu, aammalu kingullerpaamik anartarfiup qanoq atugaanera;
+- nakorsaatit nutaat imaluunniit kingulliit napparsimalernerit.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Iluuserisat ingerlaannaq ersersinnaapput: akuerinnginneq nal. 16-ngerpat kingornatigut kisimi pisartoq, spilit ataasiakkaanut aalajangersimasunut, imaluunniit TV ikippoqarnermi kisimi. Family Caregiver Alliance-ip [dementiamik periutsit pillugit siunnersuutai](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) isumaqarpoq: inuk allanngortinneqarsinnaavoq, kisianni nammineq iliuuserput avatangiisillu allanngortissinnaavavut.
 
-## When should I talk to a doctor about refusal or frustration?
+## Akuerinnginnerup kammajunnerulluunniit kingorna qaqu nakorsaq saaffigissavara?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Nakorsaq saaffiguk, periaatsit tassanngaannaq allanngoriartorpat, sukkasuumik, imaluunniit napparsimanerup malunnartai peqatigalugit. NIA-p oqarpoq, periaatsit tassanngaannaq allanngoriartornerat imaluunniit sukkasuumik allanngoriartornerat, ingammik napparsimalernerup kinguneranik imaluunniit nakorsaatit nutaat atornerisa kinguneranik, nakorsamut tassanngaannaq nalunaarutigineqartariaqarput.
 
-Contact their doctor promptly if you notice:
+Malunnartai uku malugikkukkit, nakorsaq tassanngaannaq saaffiguk:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- tassanngaannaq paarlattoornerujussuaq imaluunniit nalunaaquttap-akunnerni ulluniluunniit allanngornerujussuaq;
+- aniat malunnartai, assersuutigalugu kissaaneq, timip ilaa illersorneq, imaluunniit nutaanik timinik aalasinnaajunnaarnerit;
+- kiassuineq imaluunniit napparsimalernerup allanik malunnartai;
+- nakorsaatit nutaat imaluunniit allanngortitaasut kingornatigut periaatsit allanngornerat;
+- tamatigut imminnut nuannaajunnaarneq, qiasaarneq imaluunniit ingasalluni uninngasoq sapaatip-akunnerni marlunnit amerlanerusuni;
+- nerisassanik imerluarnissamut akuerinnginneq.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association-p siunnersuuppaa, periaatsinik allannguinernik malunnartoqartut tamarmik nakorsamit misissuiffigineqartariaqartoq, ingammik tassanngaannaq erserpat. Family Caregiver Alliance aamma siunnersuuppaa, siullermik nakorsaq apeqqutigineqartariaqarpoq, periaatsit ajornannginneri nakorsaatit pissutaasinnaammassuk. Nakorsaq imaluunniit nakorsaaneq ilinniartitsisoq oqaloqatiginnagu nakorsaatit nutaat aallartissanngilat, unitsissanngilat imaluunniit allanngortissanngilat.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Inuk ulorianartumiikkuni imaluunniit ulorianartorsiussaq uppernarsagaqarluni, 112-imut sianeruk. NIA-p siunnersuuppaa, sianerfiginninniartoq dementimik naapertuulimmik pillugu saqqummiuk.
 
-## Is it okay if we do nothing at all?
+## Soqutiginngippat, sunilluunniit piginngikkutta ajunnginnerpa?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Aap. Ullut ilaanni iliuuseq pitsaanerpaaq iliuuseqarunannginneqarsinnaavoq: Eqqilissinermik najuutissineq, assakusiisoq tigusallugu, nipilersummik asasaannik tusarnaaneq, imaluunniit timmissat igalaammiittut isiginnaarlugit. Taamaaliorneq ajorsuutaanngilaq. [Iliuuseq peqatigiinnikkut pilersaaruteqarnissaq pillugu siunnersuutivut](/caregiving/how-to-play-together/) nassuiartorpara, unitsinneq siusinnerusukkut imaluunniit aallartinnginneq, illit aalajangersinnaaviuk eqqortoqarsinnaasoq.

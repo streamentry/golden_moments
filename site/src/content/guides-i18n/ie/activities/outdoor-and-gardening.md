@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Jardinage e activitás exter por persones con dementie"
+seoTitle: "Jardinage e activitás exter por dementie"
+description: "Idés por jardinage e activitás in plein aer por persones qui vive con dementie, con alt lettes, plantes in potes e consilies pri securitá contra calore, sole e vagation."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Jardinage e témpor in plein aer posse esser un calm e familiar activitá por
+  un persone qui vive con dementie. Prova dar aqua, plantar herbes in potes,
+  remover flores marchit o far un curt promenade in un jardin cludit. Usa alt
+  lettes o un table por que niquí besona genicular se, evita utensiles acut e
+  plantes toxic, ea exter durant li plu frisc parte del die, e resta sempre con
+  li persone.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Simplic taches in li jardin, quam dar aqua, plantar semes, odorar herbes e colier flores, posse esser fat stant o sedent."
+  - "Alt lettes, potes e un table covrit porta li jardin al altore del hanche e diminui li risca de cader."
+  - "Evita utensiles acut, plantes con spines o iritant, e omnicos venenosi. Atente que terre ne es misprendet quam manjada."
+  - "Calore posse esser dangerosi por adult persones plu old. Ea exter matine o tard, have aqua e ombre, e retorna in hem al prim signe de ínconfort."
+  - "Mult persones qui vive con dementie vaga a quelc moment. Resta con li persone in plein aer e have un recent foto e un identification pret."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Quel activitás de jardinage posse far un persone con dementie?"
+    a: "Dar aqua a plantes, plantar semes in micri potes, odorar e tochar herbes, remover flores marchit, colier legumines, arangear flores talliat e swepar un via es omni bon selectiones. In hem, un pote de herbes sur li fenestre o un plateau con terre sur un covrit table functiona bon. Selecte li tache secun to quo li persone joyat antey e quo it posse far confortabilmen nu."
+  - q: "Qualmen yo posse gardar secur un persone con dementie in li calore?"
+    a: "Planifica li témpor in plein aer por li plu frisc matine o vésper, tene it curt, e oferta aqua sovente. Selecte ombre, un chapel con larg bord, vestimentes levi e larg, e creme contra sole. Adult persones plu old have un plu alt risca de maladie pro calore, e confusion, vertígine o nausea posse esser signes de avertiment, do retorna in hem e refresca vos strax si vu vide les."
+  - q: "Qualmen noi posse ear exter si li persone tende vagar?"
+    a: "Resta con li persone li tot témpor, usa un jardin cludit con un porta serrat, e assecura que li persone porta un bracelette de identification o have un identification con se. Have un recent foto pret. Si li persone desapari, li Alzheimer's Association recomanda vocar li numeró de emergentie si it ne es trovat intra 15 minutes."
+  - q: "E si noi ne have un jardin?"
+    a: "Quelc potes sur un veranda, un cassa de fenestre o un plateau con herbes sur li table del cocine es suficent. Vu posse anc visitar un parc, un public jardin o un jardin comunal. Seder in plein aer e escutar avies conta anc quam un activitá in plein aer."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Por mult persones, li jardin es un del max familiar locos queles save. Cavar, dar aqua e colier flores usa habilitás aprendet long antey, e esser in plein aer aporta fresc aer, luce solar e cantada de avies. Li National Institute on Aging mentiona li cura de plantes, li plantation de flores e legumines, e [parlar pri qualmen li plantes cresce](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inter activitás queles persones con Alzheimer posse joyar. Ti págine monstra quo provar, qualmen far un jardin plu facil a usar, e qualmen restar secur con calore, sole e vagation.
 
-## What outdoor and gardening activities work well?
+## Quel activitás in plein aer e de jardinage functiona bon?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Li max bon taches es simplic, familiar e posse esser fat stant o sedent. Selecte secun to quo li persone joyat antey.
 
-### In the garden
+### In li jardin
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Dar aqua.** Un micri e levi cruch por aqua o un hose con un dulci emboccatura, e quelc potes proxim. Dar aqua have un clar comensa e fine e es desfacil a far mal.
+2. **Plantar semes in potes.** Li Alzheimer's Foundation of America sugere plantar semes in micri potes e [observar les crescer](https://alzfdn.org/dementia-activity-gardening/). Grand semes quam fases, sunflores o pises es plu facil a tener.
+3. **Remover flores marchit.** Pincettar flores marchit con li manu es un dulci e repetitiv tache. Selecte plantes sin spines.
+4. **Colier legumines o herbes.** Ceresi-tomates, fases e herbes es facil a colier e agreabil a gustar. Porta les in hem por usar les al dejuné.
+5. **Odorar e tochar herbes.** Rosmarin, mente e lavande have fort e agreabil aromes. Frictiona un foliette inter vor fingres e passa it.
+6. **Swepar un via o un terrassa.** Un levi balai sur un plan e sic superficie, si li equilibre es stabil.
+7. **Plenar un nutritor por avies.** Poy sedea junt e observa qui veni visitar.
 
-### Indoors, when going out is not possible
+### In hem, quande ear exter ne es possibil
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Un jardin de herbes sur li fenestre** con basilico, petroselin o cibollette.
+- **Plantar sur un covrit table.** Li AFA sugere usar plateaus de cafeteria por tener li terre in un sol loco e mover li terre con micri tasses.
+- **Arangear flores** con flores talliat e verdura ex li jardin o un butíca.
+- **Presser flores** ex un bouquet, por colar les plu tard sur cartes. Vide [arte e manual labores](/activities/arts-and-crafts/) por plu idés.
+- **Far sachettes de lavande o rose**, un altri idé del AFA que porta li arom del jardin in hem.
 
-### Getting out and about
+### Ear exter
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Un curt promenade** circum li quartere, in un parc o in un centre de jardinage, in lent ritme e con un loco por seder.
+- **Seder in plein aer** sur un veranda o un banc por escutar avies e sentir li brise. To es un complet activitá in se self.
+- **Visitar un public jardin** durant un tranquil parte del die. Li NHS nota que quelc locos have jardines sensorial con plantes aromatic, texturas e trates de aqua.
+- **Nutrir anates o observar avies** che un local stagne, con un secur distantie del bord del aqua.
 
-## How do I make a garden easier to use?
+## Qualmen yo posse far un jardin plu facil a usar?
 
-Bring the garden up to the person, not the other way around.
+Porta li jardin vers li persone, ne inversi.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Alt lettes o alt plantatores** a circa li altore del hanche significa que niquí besona genicular se o curvar se.
+- **Potes sur un table** functiona bon por persones qui usa un rot-stul o prefere seder.
+- **Larg e plan vias** sin lax lapides o hoses traversant les diminui li risca de cader.
+- **Sedilles con appoy-brasses e ombre** long li via, por que reposar es sempre un option.
+- **Utensiles con gross e moll anses** queles es facil a tener. Lassa prunatores, cultelles e omnicos acut.
+- **Un area cludit con un porta serrat** quel li persone posse explorar líbermen durant que vu resta proxim.
 
-## Which plants should I avoid?
+## Quel plantes yo deve evitar?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Selecte plantes queles es secur a tochar e, idealmen, secur si ili es gustat. Li AFA recomanda usar plantes queles ne irrita li pelle usualmen, controlar pri allergies, e atenter strictmen a quicunc qui posse misprender terre quam manjada. Li consilies del NIA pri securitá in hem include remover o serrar plantes venenosi.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Evita roses con spines, cactuses e plantes con suco quel irrita li pelle.
+- Controla quelcunc plante pri quel vu ne es cert con un centre de information pri venenes o un local centre de jardinage ante plantar it.
+- Familiar favorites posse revocar agreabil sentimentes. Li AFA mentiona roses e li cactus de Cristfest quam exemples. Selecte varietás sin spines.
+- Tene fertilisatores, pesticides e herbicides serrat, e ne usa les in areas queles li persone posse atinger.
 
-## How do I stay safe in the heat and sun?
+## Qualmen noi posse restar secur in calore e sole?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Planifica li témpor in plein aer secun li tempe. Li NIA explica que adult persones plu old have un plu alt risca de [maladie relatet al calore](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), in parte pro que li córpor adapta se minu bon a changes de temperature e quelc medicines afecta qualmen li córpor tracta calore.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Ea exter matine o tard.** Evita li medie del die in calid mensus. Controla li index de calore, ne solmen li temperature.
+- **Oferta aqua sovente.** Ne atende que li persone di que it have set. Evita alcohol e trincages con cafeina in li calore.
+- **Vesti vos convenentmen.** Vestimentes clar, levi e larg, un chapel con larg bord e oculares de sole.
+- **Usa creme contra sole.** Li NIA recomanda un creme de larg spectre con SPF 15 o plu alt, reaplicat durant li die.
+- **Selecte ombre.** Metta li table por plantar sub un árbor o un parasol.
+- **Tene it curt.** Un curt moment in plein aer posse esser suficent, specialmen in calid dies.
+- **Atente a signes de avertiment.** Li NIA mentiona cefalee, confusion, vertígine o nausea quam possibil signes de maladie pro calore. Un persone con dementie posse ne dir vos que it senti se mal, do observa su facie e conduida. Retorna in hem, refresca vos con aqua e un frisc drap, e sercha medical auxilie si li persone ne meliora rapidmen. Colp de calore, con signes quam sveniment, confusion o pelle sicc e rubi, es un medical emergentie: voca li numeró de emergentie.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Li frigid tempe importa anc. In hiverne, tene li témpor in plein aer curt e assecura que manus e pedes resta calid e sicc.
 
-## How do I handle wandering when we go outside?
+## Qualmen yo tracta li vagation quande noi ea exter?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Resta con li persone sempre quande it es in plein aer. Li Alzheimer's Association di que [six ex deci persones qui vive con dementie](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) va vagar adminim un vez, e multes fa to plu quam un vez. To posse evenir in quelcunc etappe.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Li [consilies del NIA pri vagation e perdir se](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Assecura que li persone porta un identification o un medical bracelette con su nómine, adresse e vor telefon-numeró, o marca su vestimentes.
+- Tene un recent foto o video del persone.
+- Informa vor vicines que li persone posse vagar.
+- Securisa li jardin con un clôture e un serrat porta.
+- Ne lassa sol un persone quel ha ja vagat in li passat.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Li Alzheimer's Association sugere anc crear areas in hem e in plein aer queles posse esser explorat securmen, e planificar activitás por li témpor del die quande inquietitá es max probabil. Un promenade in un secur e cludit jardin posse convenir bon por inquietitá in li tard die. Vide nor guide pri [inquietitá in li tard die](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Si li persone desapari, li Alzheimer's Association recomanda serchar strax in li vicin area e vocar li numeró de emergentie si it ne es trovat intra 15 minutes. Di al police que li persone have dementie.
 
-## How do I adapt gardening as things change?
+## Qualmen yo adapta li jardinage quande li coses cambia?
 
-| If this has become hard | Try this instead |
+| Si to ha devenit desfacil | Prova to vice |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Plantar un tot lette | Plantar un seme in un pote |
+| Extirpar mal herbes (distinguer les de plantes) | Dar aqua, o remover flores marchit queles es clar a vider |
+| Marchar circum li jardin | Seder che un table con un plateau de terre e un plante |
+| Ear exter in general | Un pote de herbes sur li table del cocine, o un sedille che un apert fenestre |
+| Far quelcunc tache | Seder in plein aer junt, escutar e regardar |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Quelc persones prefere regardar vos laborar. Li NIA nota que it es bon lassar li persone simplicmen regardar, si to es quo it joya.
 
-## When should we head inside?
+## Quande noi deve retornar in hem?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Retorna in hem quande li persone sembla fatigat, calid, frigid, ínquiet o pret a finir. Un curt e agreabil deci minutes es melior quam un long posmidí quel fini con pena. Finir tempran es un bon resultate.
 
-## Bring the garden indoors on screen
+## Porta li jardin in hem sur li ecran
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+In dies de pluvie, [Sort Together](/games/sort-together/) have un corb de jardin por ordinar images, e [Conversation Cards](/games/conversation-cards/) include apert questiones queles posse ducter a racontas pri li jardin. Si vu retorna ex li calore e senti vos hastat, [Calm Breathing](/games/calm-breathing/) oferta un lent e tranquil pause quel vu posse partiprender junt. Por plu idés basat sur tucha, arom e son, vide nor [guide pri activitás sensorial](/activities/sensory/).

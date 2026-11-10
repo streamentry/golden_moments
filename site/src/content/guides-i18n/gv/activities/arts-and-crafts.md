@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Ellyn as Obbraghyn-laue son Daoine Assee lesh Dementia"
+seoTitle: "Ellyn as Obbraghyn-laue son Dementia: Assagh"
+description: "Raaidyn ellyn as obbraghyn-laue son sleih ta cummal lesh dementia, veih ushtey-daah gys soiaghey blaa, marish coyrleyn er aght y yannoo as caghlaa."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Ta ellyn as obbraghyn-laue mie son deiney as mraane assee ta cummal lesh
+  dementia jeeaghyn as gennaghtyn gollrish reddyn assagh: ushtey-daah, collage
+  jeh pabyryn-naight, soiaghey blaa, cray, jannoo kaartyn beggey ny duillagyn
+  daah son deiney assee. Cur magh kuse dy stoo, cooin lesh y chied strok
+  my ta feme er, as loayr rish tra t'ou gobbraghey. Ta'n traa ry-cheilley yn
+  red scanshoil. Cha nel feme er red jeant dy bollagh.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Reih stoo as cooishyn ta jeeaghyn assagh, lheid as pabyr ushtey-daah, blaa firrinagh as jallooyn ass pabyryn-naight, cha nee glitçher, stiogeyn ny duillagyn cartooney."
+  - "Cur geill da'n obbyr hene: ny daahghyn, yn ennaghtyn jeh'n chray, yn coloayrtys. Ta red jeant dy bollagh ny share, agh cha nee yn dean."
+  - "Cur dean da'n obbyr my oddys oo, lheid as kaart son ogha ny croo son y voayrd."
+  - "Cooin lesh y persoon dy gholl er y hoshiaght, eisht gow couyr dy meein. Dy mennick ta toshiaght strok brush ry-cheilley dy liooar."
+  - "Cha nel feme er obbraghyn y chur jerrey ayns un cheayrt, as ta dy liooar dy scuirr dy leah."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Kys oddym jannoo shickyr nagh vel obbraghyn-laue gennaghtyn gollrish reddyn paitçhey?"
+    a: "Jean ymmyd jeh stoo ellyn firrinagh, cooishyn assagh as aght meen dwoaieagh. Caghlaa glitçher as duillagyn cartooney son pabyr ushtey-daah, aanrit, blaa, jallooyn ass pabyryn-naight as duillagyn daah lane. Ny jean moylley yn obbyr myr yinnagh oo rish jalloo paitçhey; loayr my-e-chione myr yinnagh oo rish carrey assagh erbee."
+  - q: "Cre ny obbraghyn ellyn ta gobbraghey ayns jerrey-raad dementia?"
+    a: "Ta obbraghyn aashagh ta bentyn rish ny sheeanaghyn gobbraghey share ny s'anmey: strokeyn lhean lesh brush mooar, soie cray bog, soiaghey kuse dy vlaa ayns vaase, ny reaghey meeraghyn aanrit liorish yn ennaghtyn. Foddee dy vel feme ort toshiaght y ghluaise ry-cheilley. Ta jeeaghyn ort jannoo daah as loayrt mychione ny daahghyn myrgeddin aght dy ghoaill ayrn."
+  - q: "Cre my jir ad nagh vod ad jannoo jalloo?"
+    a: "Jean y red eddrym. Prowal obbraghyn gyn freggyrt cair, lheid as daah ushtey-daah, collage, ny soiaghey blaa. Foddee oo gra myrgeddin dy vel cooney lhiat lesh red ennagh er-lheh, lheid as reih daahghyn son kaart, myr shen dy vel eh gennaghtyn myr foayr, cha nee prowaltaghys."
+  - q: "Vel duillagyn daah ro-phaitechagh son deiney assee?"
+    a: "Cha nel, tra t'ad jeant son deiney assee. Reih duillagyn lesh cooishyn assagh lheid as gareyghyn, quiltaghyn, gleashtanyn ny coan. Cur ad myr red sheeoil, cha nee myr lessoon. Foddee oo nyn duillagyn daah y chlou ny y dhaahey er tablet."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Ta ellyn as obbraghyn-laue cur aght da sleih ta cummal lesh dementia ad hene y hoilshaghey gyn feme er ny focklyn cair y gheddyn. Ta'n Alzheimer's Association gra dy vod obbraghyn ellyn cur [ennaght dy chosney as dean](https://www.alz.org/help-support/caregiving/daily-care/art-music) as caa dy hoilshaghey ad hene, son y fer-kiarail chammah as son yn persoon lesh dementia. Yn red scanshoil shen dy reayll reddyn assagh, aashagh as gyn tranlaase. Ta'n duillag shoh cur obbraghyn er-lheh, kys dy yannoo aarloo, as kys dy chaghlaa ad myr ta reddyn caghlaa.
 
-## What makes an art activity adult and not childish?
+## Cre ta jannoo obbyr ellyn assagh as cha nee paitçhagh?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Ta obbyr ellyn assagh gymmydey stoo firrinagh, cooishyn assagh as aght meen dwoaieagh. Ta'n Alzheimer's Association coyrlaghey dy reayll obbraghyn ec leval assagh as dy haghney reddyn erbee oddys gennaghtyn begganagh ny paitçhagh.
 
-| Feels childish | Feels adult |
+| Gennaghtyn paitçhagh | Gennaghtyn assagh |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Glitçher, stiogeyn seose, sooillyn craidee | Pabyr ushtey-daah, aanrit, blaa shirgit |
+| Duillagyn daah cartooney | Duillagyn daah jeh gareyghyn, quiltaghyn, gleashtanyn ny coan |
+| Moylley "Obbyr vie" son dagh cowrey | Coloayrtys firrinagh: "Ta'n gorrym shen feer aalin rish y geayl" |
+| Obbyr-laue gyn ymmyd | Kaart son carrey, croo son y voayrd, gioot |
+| Oardaghyn lhaiht myr lessoon | Cuirrey: "Jean eh cooney lhiam lesh shoh?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Smooinee er aigney yn phersoon hene. Foddee dy jean persoon va graihagh er whaalaghey goaill soylley jeh laue-lioar aanrit. Foddee dy jean inneeneyder er e aastey cur roish kit lesh meeraghyn mooarey ny reaghey stoo son obbyr. Foddee dy jean fer-ynsee er e aastey goaill soylley jeh jannoo kaartyn.
 
-## Why focus on the process, not the product?
+## Cre'n fa dy chur geill da'n obbyr, cha nee yn jerrey?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Er-yn-oyr dy nee yn traa ry-cheilley yn red scanshoil. Ta lioar yn Alzheimer's Association er [obbyr ayns y thie](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) gra dy chur geill da'n obbyr, cha nee yn jerrey. Ta jalloo ta "gorm ny lomarcan" foast ny halloo. Ta collage lesh tree jallooyn foast ny chollage.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Ta'n Cheshaght gra myrgeddin dy vod ellyneyder creeney ve seaghnit liorish caghlaaghyn ayns e obbyr, choud's foddee dy jean persoon nagh vel ny ellyneyder goaill soylley jeh caa noa dy hoilshaghey eh hene. My va'n persoon ny ellyneyder mie, prowal aght ellyn elley, myr shen dy vel eh gennaghtyn myr cloie, cha nee cosoylaghey.
 
-## Arts and crafts ideas to try
+## Raaidyn ellyn as obbraghyn-laue dy phrowal
 
-Each idea includes how to make it simpler if it becomes hard.
+Ta dagh raa cur magh kys dy yannoo eh ny sassey my vees eh goll er doillee.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Daah ushtey-daah lhean.** Jean slane pabyr ushtey-daah trome fliugh as lhig da'n persoon daah y lhiggey er lesh brush mooar. Ta ny daahghyn skeayley ad hene, myr shen cha nel freggyrt cair ny aggair ayn. *Ny sassey:* cur magh daa daah ny lomarcan, ny daah lesh ushtey er pabyr doo ta soilshaghey ny cowraghyn fliugh.
+2. **Collage ass pabyryn-naight.** Jean jallooyn aarloo ro-laue ass pabyryn-naight er garey, cooilleeney, gleashtanyn, troailt ny shenn chiarailyn yn phersoon. Lhig daue reih as glonney jallooyn er pabyr creoi. *Ny sassey:* cur magh kiare jallooyn jeant aarloo as maidjey glonney, as jean y ghlonney ry-cheilley.
+3. **Soiaghey blaa.** Ta'n Alzheimer's Foundation of America coyrlaghey [dy hoiaghey blaa as duillagyn](https://alzfdn.org/dementia-activity-gardening/) ayns croaghyn aashagh. Jean ymmyd jeh vaase trome, shickyr as craaneyn jeant giare ro-laue. *Ny sassey:* cur kuse dy chraaneyn ayns cappan beg, nane ec y traa.
+4. **Kaartyn lesh blaa shirgit.** Shirg blaa ass bouquet eddyr duillagyn lioar rish shiaghtin, eisht glonney ad er pabyr kaart fillit. *Ny sassey:* ta uss cur y ghlonney er, ta adsyn broo y vlaa sheese.
+5. **Duillagyn daah son deiney assee.** Reih duillagyn lesh coryssyn baghtal as cooishyn firrinagh. Foddee oo nyn [duillagyn daah](/games/coloring/) y chlou ny y dhaahey er y scaaish liorish crig er daah, eisht er peesh jeh'n jalloo. *Ny sassey:* ardjyn ny smoo, ny sloo daahghyn, markeyderyn trome.
+6. **Cray ny daagh bog.** Jean rollagey, broo as cummey cray chirrym-hiauill ny daagh bog. Ta broo duillag stiagh ayns cray jannoo brikk cowraghey aashagh. *Ny sassey:* ta soie as rollagey ny lomarcan dy liooar. Jeeagh nagh vel yn persoon cur cray ayns e veeal.
+7. **Jannoo kaartyn.** Ta'n Alzheimer's Association coyrlaghey dy chur eh magh myr obbyr firrinagh: "Ta shin cur kaart slaynt vie da carrey. Jean eh cooney lhiam?" Ta pabyr kaart jeant giare ro-laue as kuse dy stiogeyn blaa ny stampyn gobbraghey dy mie.
+8. **Scrapbooking.** Cur coipaghyn jeh shenn jallooyn, kaartyn-post ny stubbyn ticket er duillagyn albym ry-cheilley. Loayr mychione dagh fer myr t'ou goll er. Jeeagh er y [lioar cooinaghtyn](/activities/reminiscence/) son aghtyn meein dy loayrt mychione yn traa t'er gholl shaghey.
+9. **Buirddyn aanrit as ennaghtyn.** Glonney meeraghyn jeh corduroy, velvet, burlap as siyr er pabyr creoi. Ta jannoo eh ny obbyr; ta bentyn rish ny s'anmey ny obbyr elley. Ta tooilley raaidyn ayns y [lioar obbraghyn ennaghtyn](/activities/sensory/).
+10. **Obbyr fuygh aashagh.** Son persoon va graihagh er obbyr fuygh, foddee screebey block fuygh meein ny daah kit thie-ushag ve ennagh ta enney er. Jean giareyderyn geyre y ghoaill ersooyl as freill arrey.
+11. **Daah marish kiaull.** Cur er recortyss ennoil as daah cummaghyn ny daahghyn ta cochianglt rish yn aignagh. Ta shoh cur daa obbyr ta ymmodee sleih goaill soylley jeu ry-cheilley. Jeeagh er [obbyr kiaull](/activities/music/).
 
-## How do I set up an art session?
+## Kys oddym cur seose cuirrey ellyn?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Jean aarloo hoshiaght.** Jean giarey, cur ayns ord as cur magh dagh red roish my t'ou cuirrey yn persoon. Foddee farraghtyn choud's t'ou shirrey scianyn cur yn traa er coayl.
+2. **Freill eh beg.** Daa ny tree daahghyn, un brush, un duillag pabyr. Foddee rouyr reih cur tooilley er y persoon.
+3. **Coad y voayrd.** Ta brat plastagh ny shenn aanrit jannoo shickyr nagh vel broighid cur imnea ort.
+4. **Soie lhiattee ry-lhiattee.** Jean obbyr er dty pheesh hene ry lhiattee oc. T'eh gennaghtyn cooie, cha nee er ny h-arrey.
+5. **Cooin lhieu toshiaght.** Ta'n Alzheimer's Association gra dy vod feme ve ort toshiaght gluaise y vrush marish y persoon. Erreish da toshiaght, ta ymmodee sleih goll er.
+6. **Loayr myr t'ou gobbraghey.** Jean cowraghyn er daahghyn as ennaghtyn, ny lhig da'n ellyn leeideil gys skeealyn. Jean shickyr nagh vel oo cur feyshtyn myr prowaltaghys, lheid as "Cre ta shoh?"
+7. **Cur traa dy liooar.** Cha nel feme er obbyr y chur jerrey ayns un cheayrt.
 
-## How do I adapt art as dementia changes?
+## Kys oddym caghlaa ellyn myr ta dementia caghlaa?
 
-| Stage | What tends to work | What to adjust |
+| Stayd | Cre ta gobbraghey dy mennick | Cre dy chaghlaa |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Toshiaght | Brastyllyn, daah lane, lioaryn scrap, jannoo kaartyn, daah veih jalloo | Cur reih obbraghyn; freill eh sheshoil |
+| Mean | Collage jeant aarloo, daah ushtey-daah lhean, soiaghey blaa, daah lesh ardjyn mooarey | Un cheim ec y traa; ta uss jannoo y ghiarey as y ghlonney |
+| Jerrey | Strokeyn brush lhean, soie cray, bentyn rish aanrit, jeeaghyn orts daah | Cur geill da ny sheeanaghyn; stiure y laue dy meein my ta shen cooie |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+Ta'n NHS coyrlaghey dy vel obbraghyn, ayns ny staydyn s'anmey, dy mennick jeant ny sassey as cur geill da ny sheeanaghyn. Ta jeeaghyn er persoon elley daah, as loayrt mychione ny daahghyn, ny aght firrinagh dy ghoaill ayrn. Son tooilley raaidyn son dagh stayd, jeeagh er [obbyr son dagh stayd](/activities/ideas/).
 
-## Safety with art supplies
+## Sauçhys lesh stoo ellyn
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Reih daah, markeyderyn as maidjaghyn glonney nagh vel goll er skielley.
+- Freill scianyn, skynnyn obbyr-laue as glonney çheh ass roshley. Jean dagh giarey uss hene, ro-laue.
+- Jeeagh nagh vel persoon erbee cur cray, daah ny reddyn beggey ayns e veeal.
+- Jean ymmyd jeh saaghyn as vaasyn trome, shickyr son ushtey.
 
-## When should we stop?
+## Cuin lhisagh shin scuirr?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Scuirr tra ta geill goll ersooyl ny tra ta seaghyn ry-akin. Ta'n Alzheimer's Association coyrlaghey dy scuirr ny dy chaghlaa obbyr tra ta'n geill goll ny s'leaie ny tra ta seaghyn gaase. Cur yn obbyr ayns boayl sauçhey as cur red sheeoil. Foddee oo cheet erash huggey mairagh, ny gyn dy bragh. Ta ny neesht jeu dy liooar.
 
-## Display the work, if the person wants
+## Soilshaghey yn obbyr, my she shen baillish y persoon
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Foddee cur jalloo er y chreglyss ny cur collage ayns frame ve ny aght meen dy hoilshaghey ooashley. Feysht hoshiaght. Ta paart dy leih goaill soylley jeh fakin nyn obbyr er y voall; by vie lesh feallagh elley gyn.
 
-## Pair art with our games
+## Cur ellyn marish nyn gammaneyn
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Er laghyn tra ta cur magh daah rouyr, ta [Daah](/games/coloring/) gobbraghey er tablet gyn broighid. Ta [Jig-saw Jalloo](/games/picture-puzzle/) freayll yn slane jalloo ry-akin myr cooney choud's t'ou caghlaa meeraghyn. Ta [Kaartyn Coloayrtys](/games/conversation-cards/) cur feyshtyn foshlit oddys leeideil veih jalloo gys skeeal. Cha nel timer ny coontey oc erbee jeu. Foddee oo myrgeddin duillagyn y chlou veih'n chruinnaght [obbyr dy chlou](/activities/printable/).

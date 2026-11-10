@@ -1,31 +1,33 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Kuwa mbote ve mpi kigonsa kia kimbevo kia kuvila mambu"
+seoTitle: "Kuwa mbote ve mpi kimbevo kia kuvila mambu"
+description: "Sambu na nki kuwa mbote ve kele kigonsa ya nene ya kimbevo kia kuvila mambu, mambu ya kiedika ya nzengolo ya ACHIEVE, mpi mutindu ya kutala mawi mpi kusolula mbote."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Komisio ya Lancet ya mvu 2024 ke tanga kuwa mbote ve bonso kigonsa mosi ya nene yina
+  beto lenda soba sambu na kimbevo kia kuvila mambu. Na nzengolo ya ACHIEVE, bima ya kusadisa
+  na kuwa kuyisaki ve kufwa kwa mayele na mutindu ya kimvuka, kansi kimvuka mosi ya fioti
+  yina vandaka na kigonsa ya mingi monisaka kufwa kwa fioti. Bima ya kusadisa na kuwa ke
+  sadisaka na masolo mpi luzingu ya konso kilumbu. Tala mawi na nge, tadila bima ya kusadisa
+  na kuwa ya munganga me pesaka to ya kusumba kukonda ndombe, mpi solula ti munganga.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Komisio ya Lancet ke yindulaka nde kuwa mbote ve ke pesaka kiteso ya 7% ya kimbevo kia kuvila mambu na ntoto ya mvimba, kikunku ya nene bonso bansoniki 13 yankaka na kati ya 14."
+  - "Na nzengolo ya ACHIEVE ya bantu 977 ya mbuta, bima ya kusadisa na kuwa sobaka ve kufwa kwa mayele na nsungi ya bamvu tatu."
+  - "Na kimvuka mosi ya fioti, ya kigonsa ya mingi na kati ya ACHIEVE, kufwa kwa mayele vandaka 48% ya malembe ti bima ya kusadisa na kuwa; diambu yayi fwete ndimisama diaka."
+  - "Banda Oktobri 2022, bantu ya mbuta na États-Unis yina ke bakisaka nde bo ke waka malembe to ya kati lenda sumba bima ya kusadisa na kuwa yina FDA ke talaka, kukonda ndombe ya munganga."
+  - "Kumona mbote ve yina bo ke belulaka ve yikamaka bonso kigonsa ya kimbevo kia kuvila mambu na 2024, yo yina kutala meso kele mpi mfunu."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Keti bima ya kusadisa na kuwa ke kangaka kimbevo kia kuvila mambu?"
+    a: "Bo me ndimisaka diambu yina ve. Nzengolo ya ACHIEVE monisaka nde yo vandaka ve ti bupusulu na kufwa kwa mayele na nsungi ya bamvu tatu, ata kimvuka mosi ya kigonsa ya mingi vandaka mbote. Yo kele kaka mfunu kutadila bima ya kusadisa na kuwa sambu yo ke salaka nde masolo, lutaninu mpi luzingu ya konso kilumbu kuvanda pete."
+  - q: "Nani lenda sumba bima ya kusadisa na kuwa kukonda ndombe ya munganga?"
+    a: "FDA ke pesaka bantu ya mbuta ya bamvu 18 to kuluta yina ke bakisaka nde bo ke waka malembe to ya kati nswa ya kusumba bima ya kusadisa na kuwa na bamagazini to na internet kukonda ndombe. Yo me fwanana ve sambu na bantu yina ke waka mbote ve mingi. Konso muntu yina ke waka mpasi na dikutu, masa na dikutu, kizungu-zungu to nsobolo ya nswalu na kuwa fwete monana ntete ti munganga."
+  - q: "Keti kuwa mbote ve lenda monana bonso kimbevo kia kuvila mambu?"
+    a: "Bantangu yankaka. Institut national sur le vieillissement (NIA) ke tuba nde bantu ya mbuta yina ke waka mbote ve bo lenda bakisa bo mbote ve bonso bantu ya kuvambana to yina ke buya kusadisa. Kutala mawi kele diambu ya mayele kana muntu mosi ke kumaka na pembeni to ke bakisaka ve mambu yina bo ke tubaka."
+  - q: "Mbala ikwa bantu ya mbuta fwete tala meso na bo?"
+    a: "NIA ke pesa ndongisila ya kusala nzengolo ya meso ti ndilu konso mvula mosi to zole na nima ya bamvu 60, to mutindu munganga ya meso ke tubila. Bantu yina kele ti kimbevo kia sukadi to tension ya mingi ya menga mingi-mingi fwete sala yo mbala mosi na mvula."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +52,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Kuwa mbote ve kele diambu ya mingi na bununu, mpi banzengudi ke tadilaka yo mingi bonso kigonsa sambu na kimbevo kia kuvila mambu. Yo ke tendula ve nde bima ya kusadisa na kuwa kele nzila ya ndimisama ya kukanga kimbevo kia kuvila mambu; nzengolo ya kuluta mbote tii bubu pesaka mbutulu ya kuswaswana. Lutiti yayi ke tendula mambu yina nzengolo ke monisa, mutindu ya kutala mawi, mambu yina bima ya kusadisa na kuwa ya kusumba kukonda ndombe kele na États-Unis, mpi mutindu ya kusala masolo pete.
 
-## Why does hearing matter for brain health?
+## Sambu na nki kuwa kele mfunu sambu na mavimpi ya butu?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Kuwa mbote ve me kuwakana ti kigonsa ya kuluta sambu na kimbevo kia kuvila mambu. [Komisio ya Lancet ya 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ke yindulaka nde yo ke pesaka kiteso ya 7% ya kimbevo kia kuvila mambu na ntoto ya mvimba. Yo kele kikunku ya kiteso mosi ti LDL cholesterol ya mingi sambu na kikunku ya kuluta nene na kati ya bansoniki 14 yina bo lenda soba na modele ya Komisio, mutindu [bunkufi ya UCL ya lapolo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ke monisa yo.
 
-Key findings from the Commission:
+Mambu ya nene yina Komisio me mona:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Kigonsa ya kuluta ti kuwa mbote ve.** Na nzengolo na yo ya kuzangisa nzengolo sambanu ya kitoko, bantu yina vandaka kuwa mbote ve vandaka ti kigonsa ya kiteso ya 37% ya kuluta sambu na kimbevo kia kuvila mambu kuluta bantu yina vandaka kuwa mbote.
+- **Kuwa kele mbote ve mingi, kigonsa ke matana.** Nzengolo yina talaka ngolo ya diambu monisaka nde kigonsa vandaka kumata ntangu kuwa vandaka kukuma mbi mingi.
+- **Bantu lenda yindula bantangu yankaka, kansi yo me ndimisama ve tii bubu.** Bantu ke tubilaka kifu ya kuvanda nge mosi mpi kukatuka na bantu, kiadi, kukonda bansangu sambu na butu, mpi kisalu ya mingi yina butu ke salaka ntangu muntu ke wa.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Kuwa mbote ve kele diambu ya mingi. [Institut national sur le vieillissement (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) ke tuba nde kiteso ya ndambu mosi na kati ya bandambu tatu ya bantu ya mbuta kele ti yo, mpi dibaku ke matana ti bamvu.
 
-## What did the ACHIEVE hearing aid trial find?
+## Nzengolo ya ACHIEVE ya bima ya kusadisa na kuwa monisaka inki?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE vandaka nzengolo ya ntete ya kubaka na kintulumukina yina talaka bima ya kusadisa na kuwa mpi kufwa kwa mayele. Mbutulu na yo mingi-mingi bo ke tendulaka yo mbote ve, yo yina talaka mambu ya sikisiki yina kele na [lapolo ya nzengolo yina bo basisaka](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Banani kotaka:** Bantu 977 ya bamvu 70 tii 84 yina vandaka ti kuwa mbote ve yina bo belulaka ve mpi kukonda mpasi ya nene ya kuyindula, na bisika iya ya kimvuka na États-Unis.
+- **Inki bo fwanisaka:** Ndambu bakaka bima ya kusadisa na kuwa ti balukutakanu ya ndongisila ti audiologiste. Ndambu yankaka bakaka programe ya malongi ya mavimpi sambu na kubaka bununu ya mavimpi.
+- **Mbutulu ya nene:** Na nima ya bamvu tatu, **kuswaswana kuvandaka ve** na kufwa kwa mayele na kati ya bimvuka zole na mutindu ya kimvuka.
+- **Mbutulu ya kimvuka mosi ya fioti:** Nzengolo bakaka bantu na bisika zole. Bantu 238 katukaka na nzengolo mosi ya nda ya mavimpi ya ntima (ARIC), mpi bonso kimvuka bo vandaka ti kigonsa ya kuluta sambu na kufwa kwa mayele. Na kimvuka yayi, kufwa vandaka **48% ya malembe** ti bima ya kusadisa na kuwa. Na kati ya bantu 739 ya mavimpi ya kimvuka, bupusulu ya pwelele kuvandaka ve.
 
-How to read this honestly:
+Mutindu ya kutanga yo na masonga:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Mvutu ya kimvuka vandaka nde bupusulu kuvandaka ve.
+- Mbutulu ya kimvuka mosi ya fioti vandaka na lukanu na luyantiku, kansi yo katukaka na nzengolo ya zole ya kimvuka ya fioti. Yo fwete ndimisama na nzengolo yankaka.
+- Bantu yina kotaka zabaka programe yina bo vandaka na kati, mpi yo lenda soba mbutulu.
+- Komisio ya Lancet ke bakisa nde bambangi ke monisa nde bima ya kusadisa na kuwa lenda sadisa mingi bantu yina kele ti kuwa mbote ve ti bansoniki yankaka ya kigonsa sambu na kimbevo kia kuvila mambu.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Mfunu ya nsuka kele nde bima ya kusadisa na kuwa kele ve nzila ya ndimisama ya kukanga kimbevo kia kuvila mambu. Kansi yo ke sadisaka bantu na kuwa, kukota na masolo mpi kuvanda na boyokani ti bankaka, mpi yo kele diambu ya mbote ya kutadila.
 
-## How do I know if hearing should be checked?
+## Mutindu ya kuzaba kana mawi fwete talama?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA ke tubila nde fwete monana ti munganga kana nge to muntu yina nge ke kebaka:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Ke monaka mpasi ya kubakisa bantu na telefone
+- Ke monaka mpasi ya kulanda masolo ntangu bantu zole to kuluta ke tubaka
+- Ke lombaka bantu mingi-mingi nde bo vutukila mambu
+- Ke matisaka ndinga ya televizio mingi tii bankaka ke niunguta
+- Ke monaka mpasi ya kubakisa masolo ntangu makelele kele pene-pene
+- Ke bakisaka nde bankaka ke niunguta ntangu bo ke tuba
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Yantika ti munganga ya mbala na mbala, yina lenda tinda nge na audiologiste (mbuta-mayele ya mawi) to na munganga ya dikutu, mbombo mpi kingongo. Mwanda na dikutu lenda vanda diambu mosi ya mingi yina ke basisaka kuwa mbote ve yina munganga lenda tala. **Kuwa mbote ve ya nswalu kele diambu ya lukau ya mavimpi**, mpi NIA ke pesa ndongisila ya kukwenda ntete na munganga.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Kuwa mbote ve lenda monana bonso kuvambana. NIA ke tuba nde bantu ya mbuta yina ke waka mbote ve bo lenda bakisa bo mbote ve bonso bantu ya kuvambana, yina ke vutula mvutu ve to yina ke buya kusadisa. Kana muntu yina nge ke zolaka ke kumaka na pembeni to ke bakisaka ve mambu yina bo ke tubaka, kutala mawi kele diambu ya mbote ya kusala na luyantiku.
 
-## What are over-the-counter hearing aids?
+## Bima ya kusadisa na kuwa ya kusumba kukonda ndombe ya munganga kele inki?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Banda 17 Oktobri 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) pesaka nswa na kikunku ya bima ya kusadisa na kuwa ya kusumba kukonda ndombe (OTC). Talaka mutindu yo ke swaswanaka ti yina ya ndombe ya munganga:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Kikalulu | Bima ya kusadisa na kuwa OTC | Bima ya kusadisa na kuwa ya ndombe ya munganga |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Sambu na banani | Bantu ya mbuta ya bamvu 18 to kuluta yina ke bakisaka nde bo ke waka malembe to ya kati | Konso ngolo ya kuwa mbote ve, konso mvula |
+| Kisika ya kubaka yo | Na bamagazini to na internet, kukonda nzengolo to ndombe ya munganga | Na nzila ya mbuta-mayele ya mawi yina kele ti nswa |
+| Kuyidika yo | Nge mosi ke yidikaka baparametre, mingi-mingi ti application | Mbuta-mayele ke yidikaka yo sambu na mawi na nge |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA ke tuba nde bima OTC me fwanana ve sambu na kuwa mbote ve ya ngolo to ya ngolo mingi. Yo ke pesa ndongisila ya kumonana ti munganga, mbote-mbote mbuta-mayele ya dikutu, mbombo mpi kingongo, na ntwala ya kusumba kana nge kele ti:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Mpasi to kubeba na dikutu
+- Masa, mpusu to menga na dikutu na bamvula sambanu ya me luta
+- Nsobolo ya nswalu to yina ke sobaka-sobaka na kuwa
+- Kuwa ya mbi mingi na dikutu mosi, to makelele na dikutu mosi mpamba
+- Kizungu-zungu to vertige
+- Mwanda mingi na dikutu
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Kuyikana ti bima ya kusadisa na kuwa ke lombaka ntangu, yo yina talaka nsiku ya kuvutula yo na ntwala ya kusumba, mutindu FDA ke tubila yo. NIA ke tubila nde yula kana assurance ya mavimpi na nge ke futaka ndambu ya ntalu. Sambu na muntu yina ke zingilaka ti kimbevo kia kuvila mambu, audiologiste lenda sadisa na kupona mutindu ya kima mpi mutindu ya kuyidika yo yina ta vanda pete na kusadila konso kilumbu.
 
-## How can I talk more easily with someone who has hearing loss?
+## Mutindu ya kusolula pete ti muntu yina ke waka mbote ve?
 
-The NIA suggests:
+NIA ke tubila nde:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Talana ti muntu mpi bumba disu ti yandi**, na mwini ya mbote, sambu yandi lenda mona bibebu mpi luse na nge.
+2. **Pona kisika ya pima.** Fuka televizio to katuka na kisika ya makelele.
+3. **Tuba ndinga ya mwa ngolo, kansi kuboka ve.** Tuba na mutindu ya mbote mpi na ntinu ya mbote.
+4. **Bumba munoko ya kukangama ve.** Kudia ve, tafi ve to kukanga munoko na ntangu ya kutuba.
+5. **Sobaka mutindu ya kutuba na kisika ya kuvutukila mambu mosi** ntangu mambu me bakisama ve.
+6. **Muntu mosi na mbala mosi.** Na kimvuka, sala bikesa sambu muntu yina kuvanda na kati.
+7. **Vanda na ntima ya malembe mpi yula mutindu nge lenda sadisa.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Bandongisila yayi ke salaka mbote ti [bandongisila na beto ya kusolula ti bantu yina ke zingilaka ti kimbevo kia kuvila mambu](/caregiving/communication-tips/). Bisalu yina ke sadilaka bifwanisu ke katulaka mpi kilo na kuwa. [Picture Pairs](/games/picture-pairs/) mpi [Conversation Cards](/games/conversation-cards/) ke salaka na mambu yina bo ke monaka, mpi [Finish the Saying](/games/finish-the-saying/) ke pesaka nge nzila ya kumonisa nsuka na kisika ya kutuba yo. Sambu na telefone to video, tala lutiti na beto ya [telefone mpi bavidio](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Kumona kele mpi mfunu
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Na 2024 Komisio ya Lancet yikaka kumona mbote ve yina bo ke belulaka ve bonso kigonsa ya mpa. Bunkufi ya UCL ke tula yo na kiteso ya 2% ya bamambu ya kimbevo kia kuvila mambu, mpi Komisio ke tuba nde nzengolo mpi lubelulu sambu na mambu ya meso fwete vanda sambu na bantu yonso. [NIA ke pesa ndongisila](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) ya kusala nzengolo ya meso ti ndilu konso mvula mosi to zole na nima ya bamvu 60, mpi kutala mpi maneti ya meso. Ata bansobolo ya fioti na kumona lenda matisa kigonsa ya kubua.
 
-## Talk with a doctor
+## Solula ti munganga
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Yula munganga sambu na kutala mawi mpi meso kana nge ke mona konso kidimbu ya kele na zulu. Sosa lusadisu ya nswalu sambu na kuwa mbote ve ya nswalu, mpasi na dikutu, to masa na dikutu. Kana nge ke kebaka muntu yina ke zingilaka ti kimbevo kia kuvila mambu, zabisa munganga na yandi bansobolo ya kuwa to ya kumona, sambu yo lenda soba kikalulu ya ntima, lutaninu mpi mutindu muntu lenda kota na mambu.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Lutiti yayi kele bansangu ya kimvuka, kansi yo kele ve ndongisila ya munganga. Tala [ndimbola na beto ya mambu ya mavimpi](/medical-disclaimer/). Tanga diaka sambu na [boyokani ti bantu mpi mavimpi ya butu](/brain-health/social-connection/).

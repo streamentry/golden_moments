@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Herevadia Daladia: Dementia Ida Taunimanima Ida Hereva"
+seoTitle: "Dementia Herevadia Daladia: Dahaka O Gwau, Dahaka Namo"
+description: "Dementia ida e nohova taunimanima ida hereva daladia: hereva o hamatamaia dalana, dahaka o gwau, bona o kamonai dalana."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Gabuna manada ta ai hereva, taunimanima vairana oi itaia, ena ladana oi
+  gwaurai, bona metau bona hereva kwadogi ai oi hereva. Henanadai ta oi
+  henia negana ta, henanadai rua oi henia henanadai daudau namonamo, bona
+  haere danu oi naria. Namo hepapahuahu, namo hamaoromaoro, bona namo
+  nanadai. Ena hereva lalonai ena lalohadai oi haere henia, bona hereva e
+  auka neganai, tauanina, laulau, vairana itaia bona laulau hegwau oi gaukaralaia.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Regerege oi hakauka bona hereva oi hamatamaia neganai ena mata oi itaia."
+  - "Hereva kwadogi, lalohadai ta negana ta, bona ladana oi gaukaralaia, ia, ia, idia namonamo."
+  - "Henanadai daudau namonamo, henanadai rua eiava ioe/lasu henanadai oi henia."
+  - "Haere oi naria. Asi kamonai namonamo, hereva tamona oi lou, murinai hereva ma haida oi tohoa."
+  - "Namo hepapahuahu eiava hamaoromaoro. Ena hereva lalonai ena lalohadai oi haere henia."
+  - "Hereva e auka neganai, tauanina, gadona, vairana itaia bona laulau hebou ai hereva."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Dementia ida e nohova taunimanima dekenai dahaka na namo gwaurai?"
+    a: "Nanadai namo gwaurai (\"Oi laloatao, a?\"), hamaoromaoro (\"Unai be kerere\"), gau e boio idia oi laloatao (\"Lau gwauraia vadaeni\") bona ia be inai lasi bamona hereva. Mero herevadia namo gaukaralaia. Unai herevadia ese hemataurai eiava lalohisihisi e havaraia, to asi durua."
+  - q: "Ene hereva be kerere neganai, lau na hamaoromaoro, a?"
+    a: "Momokani lasi. Kerere ta be asi dika, oi rakatania. Hepapahuahu ese taunimanima ena lalohadai asi haidaua, to ia e lalohisihisi. Harihari ia e lalohadai bona e ura henia gau oi laloa."
+  - q: "Hereva ta e tahua lasi neganai, dahaka lau na karaia?"
+    a: "Ginigunai nega oi henia. Ia e heqarahi momokani, hereva ta oi henia eiava ia e gwauraia oi laloa bona oi nanadai be namo. Dagi, laulau hegwau bona laulau ese danu e durua."
+  - q: "Dementia gabana dokona ai taunimanima ta be hereva momo lasi neganai, ede lau na hereva toma?"
+    a: "Vairana amo oi lao, oi be daika oi gwaurai, bona gadona manada bona tauanina maragi oi gaukaralaia. Ena vairana bona tauanina itaia amo ena lalohadai oi diba. Oi noho, ane diba ta eiava imana oi dogoatao ese hereva lasi danu gau momo e gwauraia diba."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementia ese hereva tahua, hereva daudau kamonai, eiava regerege kokia e haaukadia. Unai be anina lasi ia be taunimanima ida hebou ura e ore. Hereva oi hamatamaia dalana, oi hereva dalana bona oi kamonai dalana ai haidaua maragidia oi karaia neganai, umui ruaosi dekemui hereva e auka bona e manada.
 
-## What are the most important tips for talking with someone who has dementia?
+## Dementia ida e nohova taunimanima ida hereva daladia badadia be dahaka?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Ena lalohadai oi abia, gau oi haidaudia, bona oi naria. Gau ima oi laloatao:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Ruma oi hamanada bona ena vairana oi itaia.** TV oi hakauka, ena mata hegeregerena ai oi helai, bona ena ladana oi gaukaralaia.
+2. **Gau ta negana ta oi gwaurai.** Hereva kwadogi, lalohadai ta, henanadai ta.
+3. **Henanadai rua oi henia.** "Ti eiava kofi?" be e auka, "Dahaka oi uramu?" namonamo.
+4. **Oi naria.** Haere dekenai nega daudau oi henia, bona namo hakauka.
+5. **Namo hepapahuahu eiava nanadai.** Ia e lalohadai dalana oi haere henia, hereva be momokani eiava lasi namonamo.
 
-## How should I start a conversation?
+## Hereva ede lau na hamatamaia?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Taunimanima ese oi do dekenai e itaia diba dalana oi hamatamaia. [Family Caregiver Alliance ena hakaua hereva](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e gwau, gunai regerege oi hakauka: redio eiava TV oi hakauka, windou eiava iduara oi koua, eiava gabuna manada ta ai oi lao.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Vairana amo oi lao.** Murina eiava kahana amo lao be ia e hahegadaia diba.
+- **Oi be daika oi gwaurai.** "Bona dina Tama, lau be Sara, oi natumu hahine." Unai ese oi ladamu ia e tahua e durua.
+- **Ena hegeregerena ai oi helai.** Ia e helai neganai, oi danu oi helai eiava oi tuaruka ena mata hegeregerena ai.
+- **Oi vairamu bona gadomu oi itaia.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) e gwau, oi gadomu, regemu, oi vairamu bona oi tauanimu oi laloa, bona gadona manada bona hereva momokani ai oi hereva.
+- **Mata galasi bona kamonai gauna e karaia oi itaia.** Hereva ta be asi itaia namonamo eiava asi kamonai namonamo, ia e kamonai auka.
 
-## How should I phrase what I say?
+## Lau na hereva dalana be ede?
 
-Use simple words, short sentences and a calm, low voice.
+Hereva daidia, hereva kwadogi bona gadona manada, gabana ai oi gaukaralaia.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Hereva ta ai lalohadai ta.** "Oi kwatua na atoa. Gabeai ita lao murimuri." Hereva ta ai ruaosi namonamo.
+- **Ladana oi gaukaralaia, ladana abia hereva lasi.** "Aunt Jean e phone" be e maoro, "Ia e phone" namonamo.
+- **Gadomu oi habada, regemu namo habada.** Family Caregiver Alliance e gwau, gadona gabana be namo, regena namonamo.
+- **Oi lou, gabeai hereva ma haida.** Ia asi kamonai namonamo, hereva tamona oi lou negana ta. Unai asi durua, nega maragi oi naria bona hereva ma haida oi tohoa.
+- **Oi hahedinaraia danu, oi gwauraia danu.** Kapu oi dagilaia, kwatua rua oi abiaisi, eiava kara ta gunana oi hahedinaraia.
+- **Ia ida oi hereva, ia dekenai lasi.** NIA e gwau, taunimanima dekenai lasi hereva, ia be inai lasi bamona, bona mero herevadia namo gaukaralaia.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA ese henanadai e auka daladia haida e henia. Inai bamona:
 
-| Instead of | Try |
+| Unai namonamo | Inai oi tohoa |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Adorahi ai dahaka oi ania uramu?" | "Qarume eiava kokoroku oi uramu?" |
+| "Ede oi lalohadai?" | "Oi e hekwarahi, a?" |
+| "Oi e hitolo, a?" | "Adorahi be minute 5 murinai e hegaegae." |
+| "Unai dalana be kerere." | "Inai dalana ita tohoa." |
+| "Goada ai ita lao sivarai oi laloatao, a?" | "Goada ai ita lao sivarai lau laloatao. Dahaka oi moalelaia sivaraina oi hamaoroa." |
+| "Lau gwauraia vadaeni." | Oi lou gwaurai, lalokau ida, ginigunana bamona. |
 
-## How do I listen well?
+## Ede lau na kamonai namonamo?
 
-Listen for the meaning and the feeling, not just the words.
+Hereva lalonai anina bona lalohadai oi kamonai, hereva sibona lasi.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Oi naria.** Noho koukouna be laloa negana. Oi helai totona, 10 oi duahia gabeai oi lao.
+- **Hereva ta oi henia, ia e heqarahi neganai sibona.** Family Caregiver Alliance e gwau, taunimanima e heqarahi neganai hereva ta henia be namo.
+- **Oi kamonai gau oi hamaoromaoroa.** [Alzheimer's Association ena herevadia hakaua hereva](https://www.alz.org/help-support/caregiving/daily-care/communications) e gwau, ena hereva lalonai anina oi tahua bona oi lou gwaurai oi kamonai namonamo oi diba totona. "Kara dekenai oi lalohisihisi?"
+- **Ena vairana bona tauanina oi itaia.** Hereva e auka neganai, NIA e gwau, vairana ese lalohisihisi, badu eiava hekwakwanai e hahedinaraia diba, hereva namonamo.
+- **Ena lalohisihisi oi abia momokani.** Lalohisihisi ta be kerere gau ta ai e hamatamaia, to ena lalohadai be momokani.
 
-## What if they say something that is not true?
+## Ia e gwauraia gau be momokani lasi neganai, dahaka lau na karaia?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Namo hepapahuahu. Oi e qalimu karana be maragi, bona taunimanima e hemataurai eiava e gari. Unai namonamo, ena lalohadai ida oi hebou, gabeai maragimaragi oi haidaua.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance e gwau, oi haidaua totona, ginigunai ena lalohadai oi abia dae. Hegeregere, oi sinamu e gwau, natuna mero e abia lao sikuli ai:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Unai namonamo: "Sina, oi natumu be e bada vadaeni. Unai be lagani 40 gunana."
+- Inai oi tohoa: "Oi be sina lalokau ta. Idia abia lao sivaraina oi hamaoroa. Ginigunai aniani maragi ta ita ania, a?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association danu e gwau, oi asi abia dae herevadia dekenai namo hepapahuahu. Nega namodia oi abia hidi: kerere lalohadai ta be asi dika, oi rakatania.
 
-## How does communication change as dementia progresses?
+## Dementia e lao neganai, hereva dalana be ede e haidaua?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ura gauna e haidaua negadiai, oi dalamu danu oi haidaua. Alzheimer's Association ese gabana toi e gwauraia:
 
-| Stage | What helps |
+| Gabana | Dahaka e durua |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Gunana | Ia be hereva diba lasi namo laloa. Hereva lalonai oi hakaua, ia ida oi hereva, dahaka durua e uramu oi nanadaia, bona hemarai e durua neganai oi gaukaralaia. |
+| Huwana | Gabuna manada ai taunimanima ta ida hereva. Metau ai oi hereva, ena mata oi itaia, ioe/lasu henanadai oi gaukaralaia, kara hahekau herevadia oi henia, bona namo koaulaia eiava hamaoromaoro. |
+| Dokona | Vairana amo oi lao bona oi be daika oi gwaurai. Dagi bona laulau hegwau oi hagoadaia. Tauanina, regerege, gau itaia bona bona gauna oi gaukaralaia. Ia be inai lasi bamona hereva namo gwaurai. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Taunimanima ta ta be idauidau, bona taunimanima ta be dina namodia bona dina aukadia e davaria diba. Harihari ia e noho dalana oi itaia, ladana lasi.
 
-## Can pictures and activities make conversation easier?
+## Laulau bona kara ta ese hereva e haaukaia diba, a?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ioe. Laulau ta umui hebou oi itaia neganai hekwakwanai e maragi, bona umui ruaosi gau ta oi itaia bona oi dagilaia diba.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Laulau henanadai.** [Conversation Cards](/games/conversation-cards/) ese laulau bona henanadai daudau e henia, nanadai lasi.
+- **Ruma bese laulau.** [Photo Pairs](/games/photo-pairs/) ese oi abia hidi laulau amo gadara hebou ta e karaia, sivarai momo e havaraia.
+- **Hereva diba.** [Finish the Saying](/games/finish-the-saying/) ese hereva diba e gaukaralaia, gabeai hereva henanadai ta.
+- **Hebou gadara bamona.** [Picture Pairs](/games/picture-pairs/) ese imamu e gaukaralaia hereva neganai.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+[Hebou gadara itaia dalana](/caregiving/how-to-play-together/) bona [laloatao kara](/activities/reminiscence/) oi itaia. Vadivadi bona phone eiava video phone totona, [vadivadi](/activities/visiting/) bona [phone bona video phone](/activities/phone-and-video-calls/) emai hakaua hereva oi duahia.
 
-## What if I lose my patience?
+## Lau lalogu e hisihisi neganai, dahaka lau na karaia?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Unai be taunimanima iboudiai dekenai e vara. NIA e gwau, oi lalomu e hisihisi neganai, nega maragi oi abia oi hamanada totona. Ruma ma ta ai oi lao, lauma maragimaragi oi abia, bona oi giroa neganai oi lou. Hereva oi hamatamaia lou diba, bona taunimanima ese oi gadomu manada e kamonai diba. Lalohisihisi e vara hanaihanai neganai, unai be anina oi durua ma haida oi ura, oi e kerere lasi. [Naria tauna sibona naria](/caregiving/caregiver-self-care/) emai hakaua hereva ai durua gabudia oi itaia diba.

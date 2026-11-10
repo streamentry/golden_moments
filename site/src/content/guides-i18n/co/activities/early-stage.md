@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Attività per a demenza à u stadiu iniziale"
+seoTitle: "Attività per a demenza iniziale: idee adatte"
+description: "Idee d'attività per a demenza iniziale: passatempi, ghjochi, surtite, scrittura è prughjetti inseme, cù picculi cambiamenti chì rispettanu a persona."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  À u stadiu iniziale di a demenza, a maiò parte di e persone pò cuntinuà à
+  fà ciò ch'elli piacenu: passatempi, carte è ghjochi di tavulinu, cucina,
+  giardinaghju, spassighjate, gruppi, vita di fede è vuluntariatu. I
+  cambiamenti principali sò gruppi più chjuchi, surtite più corte, piani
+  scritti simplici è una persona accantu. Dumandate à a persona chì tippu
+  d'aiutu vole, è lasciatela guidà.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "À u stadiu iniziale, a maiò parte di e persone campanu in modu abbastanza indipendente. Di solitu, l'attività anu bisognu d'esse adattate, micca rimpiazzate."
+  - "Dumandate à a persona chì sustegnu vole, è accordatevi nantu à un signale simplice per quandu l'aiutu hè benvenutu."
+  - "Gruppi più chjuchi, mumenti più calmi è surtite più corte facenu spessu una grande differenza."
+  - "Hè un bonu mumentu per chì a persona guidi prughjetti nantu à a so propria vita, cum'è un ghjurnale o un libru di a so storia."
+  - "Sceglite i ghjochi per u piacè. Lasciate cascà tuttu ciò chì cumencia à parè una prova."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Chì attività sò adatte per a demenza à u stadiu iniziale?"
+    a: "Di solitu, sò e listesse attività chì a persona dighjà piace: carte, ghjochi di tavulinu, cucina, giardinaghju, spassighjate, musica, attività di fede, gruppi è vuluntariatu. Pò esse utile falle più corte, più calme o più simplici. Scrive un ghjurnale, lettere è fà un libru di a so storia vanu bè ancu à stu stadiu."
+  - q: "Cumu possu aiutà senza piglià u cuntrollu?"
+    a: "Dumandate chì tippu d'aiutu a persona vole, è verificate spessu. Accordatevi nantu à una frasa o un gestu chì vole dì chì si pò intervene, per esempiu quandu una parolla o un nome ùn vene micca. S'ellu ùn ci hè nisun risicu per a sicurità, lasciatela fà à u so modu, ancu s'ellu ci vole più tempu."
+  - q: "Una persona chì campa cù a demenza à u stadiu iniziale pò pruvà attività nove?"
+    a: "Iè, s'ella vole. I passatempi cunnisciuti sò spessu i più faciuli, ma assai persone piacenu ancu qualcosa di novu, cum'è un gruppu di spassighjata accogliente per e persone chì campanu cù a demenza, un corsu d'arte o un gruppu di cantu. Pruvate una volta senza pressione è fighjate cumu si sente."
+  - q: "L'applicazioni di ghjochi mentali valenu a pena à u stadiu iniziale?"
+    a: "Qualchì persona piace i puzzle è i ghjochi di parolle, è quellu piacè hè digià una bona ragione. Nisuna applicazione o nisun ghjocu hè statu dimustratu capace di trattà, rallentà o fermà a demenza. S'è un ghjocu porta stress o face sente à a persona ch'ella ùn ci riesce, mettetelu da cantu."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+À u stadiu iniziale di a demenza, assai persone campanu sempre in modu assai simile à nanzu. Pò esse ch'elle travaglianu, facenu vuluntariatu, vedenu l'amichi è gestiscenu una bona parte di a so ghjurnata. Di solitu, l'attività ùn anu micca bisognu d'esse rimpiazzate; anu bisognu di qualchì picculu adattamentu per ch'elle ferminu piacevule. U vostru rolu hè più vicinu à quellu d'un cumpagnu cà à quellu di una persona chì accudisce: qualcunu chì sustene, pianifica inseme è intervene solu quandu li hè dumandatu.
 
-## What activities are good in early-stage dementia?
+## Chì attività sò adatte à u stadiu iniziale di a demenza?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+L'attività più adatte à u stadiu iniziale sò di solitu quelle chì a persona dighjà piace, rese un pocu più faciule. L'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) prupone idee cum'è ghjochi di carte è di tavulinu, ricerche di parolle, spassighjate, ballu, giardinaghju, arrangiamentu di fiori, racconti, pittura, musica, scrittura di un ghjurnale, lettere, album di ritagli, cucina è tradizioni di e feste.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Ciò chì cambia hè spessu u cuntestu, micca l'attività. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) nota chì, à u stadiu iniziale, certe persone ponu cumincià à alluntanassi da attività ch'elle piacenu, è face l'esempiu di qualchissia chì si sente sopraffatta à una grande festa ma si trova megliu in un picculu gruppu. Parlate cù calma di ciò chì pare più difficiule, è adattate inseme.
 
-## Ask first, and agree on how to help
+## Dumandate prima, è accordatevi nantu à cumu aiutà
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+E [cunsiglii per u stadiu iniziale di l'Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) pruponenu qualchì abitudine utile ancu per l'attività:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Dumandate direttamente.** « Chì vi aiuteria à rende u club di lettura più faciule? » porta una risposta più chjara chè indovinà.
+- **Partite da l'idea ch'ella pò.** S'ellu ùn ci hè nisun risicu per a sicurità, lasciate a persona pruvà, è incuraghjitela invece di piglià u so postu.
+- **Accordatevi nantu à un signale.** Sceglite una frasa o un gestu chì vole dì « pudete intervene », per esempiu quandu un nome ùn vene micca durante una partita di carte.
+- **Verificate regularmente.** Dumandate se a quantità d'aiutu pare ghjusta, troppa o troppu poca.
 
-## Activity ideas for the early stage
+## Idee d'attività per u stadiu iniziale
 
-### Keep up roles and hobbies
+### Mantene i roli è i passatempi
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Mantene un impegnu regulare.** Un turnu di vuluntariatu, un coru o un club ogni settimana dà una forma à a settimana. S'ellu diventa stressante, un rolu più cortu o più calmu pò andà megliu.
+- **Pianificà i pasti inseme.** S'è fà a spesa hè diventatu frustrante, l'Alzheimer's Association suggerisce di dumandà à a persona d'aiutà à pianificà u menu di a settimana è à scrive a lista.
+- **Cucinà è fà dolci.** Seguitate inseme una ricetta preferita. Mettite l'ingredienti in ordine prima di principià, cusì i passi sò visibili.
+- **Fà giardinaghju.** Pianificate una piantagione, sceglite sementi o piante è fate u travagliu inseme. Una lista scritta di i travaglii di a settimana in u giardinu aiuta.
+- **Cuntinuà un'attività manuale.** Falegnameria, cucitura, maglia o mudellisimu ponu cuntinuà cù mudelli più simplici è una bona luce.
 
-### Games for enjoyment
+### Ghjochi per u piacè
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Ghjugà à carte è à ghjochi di tavulinu.** I ghjochi cunnisciuti sò i più faciuli. Ghjucate in squadra per chì nimu si senti messu à a prova, è tenite i punti in modu ligeru o micca per nunda.
+- **Pruvà una ricerca di parolle à caratteri grandi.** A nostra [ricerca di parolle](/games/word-search/) pò esse fatta nantu à u screnu o stampata per un mumentu calmu.
+- **Fà puzzle.** Sceglite un numeru di pezzi chì pare rilassante, micca difficiule. [Picture puzzle](/games/picture-puzzle/) hè una versione corta nantu à u screnu, è a nostra guida nantu à i [puzzle per a demenza](/activities/puzzles/) spiega cumu scegliene unu.
+- **Participà à un quiz per divertimentu.** Qualchì persona piace assai una serata di quiz in squadra. S'ellu cumencia à parè una prova, sceglite qualcosa d'altru, o pruvate e nostre [dumande di cultura generale faciule](/activities/trivia/), chì venenu cù scelte di risposta è senza puntuazione.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Quì, i ghjochi sò per u piacè. Nisun ghjocu hè statu dimustratu capace di trattà o rallentà a demenza; pudete leghje di più in [ghjochi mentali: ciò chì dice a ricerca](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Scrive, riflette è arregistrà
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Tenè un ghjurnale.** L'Alzheimer's Association prupone u ghjurnale cum'è un modu per mette in ordine i sentimenti dopu à una diagnosi. Qualchì linea à u ghjornu basta.
+- **Guidà un libru di a so storia.** U stadiu iniziale hè un bonu mumentu per chì a persona sceglia e so proprie foto è scriva o detta e storie chì ci sò daretu. Fighjate [attività di reminiscenza](/activities/reminiscence/).
+- **Scrive lettere.** Una lettera à un nipote, à un vechju amicu o à un anzianu cullega pò esse impurtante per tramindui.
+- **Parlà davanti à e foto.** [Photo pairs](/games/photo-pairs/) trasforma e foto di famiglia in un ghjocu dolce d'abbinamentu, è [carte di cunversazione](/games/conversation-cards/) danu punti di partenza simplici per una chjachjarata.
 
-### Go out and move
+### Esce è move si
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggerisce di cuntinuà e surtite cunnisciute finchè tramindui vi sentite à l'agiu. Pianificatele per u mumentu di a ghjurnata in u quale a persona si sente megliu, è ùn e fate durà troppu.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Piccule surtite culturale.** Un museu, un spettaculu di ghjornu o una mostra d'arte, di preferenza à un'ora più calma.
+- **Natà.** U NIA suggerisce una piscina durante un mumentu tranquillu di a ghjurnata.
+- **Gruppi di spassighjata è corsi di ballu.** U [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) cita ballu, tai chi, yoga, natazione è gruppi di spassighjata, è ancu sessioni accoglienti per e persone chì campanu cù a demenza, induve sò dispunibule.
+- **Gruppi di cantu è caffè di memoria.** Gruppi rilassati induve e persone chì campanu cù a demenza è i so cumpagni ponu scuntrà altre persone in a listessa situazione.
 
-## Small changes that keep activities enjoyable
+## Picculi cambiamenti chì mantenenu l'attività piacevule
 
-| If this is getting harder | Try this |
+| S'ellu diventa più difficiule | Pruvate questu |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Lochi affollati o rumorosi | Andate à ore calme, sceglite gruppi più chjuchi, pusatevi à u bordu di a stanza |
+| Arricurdassi di nomi novi | Presentate e persone cù u so nome ogni volta; dumandate à i gruppi d'usà badge cù i nomi |
+| Seguità piani cù parechji passi | Scrivite i passi, o mettite tuttu in ordine prima di principià |
+| Stancassi | Surtite più corte, un riposu dopu, nunda d'altru previstu quellu ghjornu |
+| Seguità una partita | Ghjucate in squadra, simplificate e regule, o lasciate cascà i punti |
+| Truvà e parolle | Lasciate tempu; prupunite una parolla solu s'è u vostru signale cummunu dice di fà lu |
 
-## When to slow down
+## Quandu rallentà
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Fermate o cambiate un'attività quandu porta più stress chè piacè. Frustrazione ripetuta, evità un passatempu o dì « ùn ci riescu più » sò signali chì meritanu una cunversazione dolce, micca pressione. Spessu a risposta hè una versione più chjuca di a listessa cosa. Quandu a persona hà bisognu di più aiutu per principià è seguità i passi, l'idee in [attività per u stadiu mediu](/activities/middle-stage/) ponu andà megliu. Per più cunsiglii nantu à una cumunicazione di sustegnu, fighjate [cunsiglii di cumunicazione](/caregiving/communication-tips/), è per assai altre idee, fighjate [101 attività](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Ancu i cumpagni anu bisognu di sustegnu. U stadiu iniziale hè un bonu mumentu per custruisce a vostra propria reta d'aiutu; fighjate [cura di sè per e persone chì accudiscenu](/caregiving/caregiver-self-care/).

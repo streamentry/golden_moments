@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Nanuma Lesu: Kato ni Nanuma, iTalanoa kei na iYaloyalo"
+seoTitle: "Nanuma Lesu: iTaviqaravi Sega ni Taro-Vakatovolei"
+description: "Sala mo veiwasei kina na nanuma ka sega ni taro-vakatovolei: veitalanoa ena iyaloyalo, kato ni nanuma, kei na ivola ni italanoa ni bula."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Na nanuma lesu e kena ibalebale na marautaka vata na veika sa oti ena
+  iyaloyalo, iyaya, sere, kei na italanoa. Vakarautaka e dua na kato ni nanuma,
+  caka e dua na ivola rawarawa ni italanoa ni bula, se raica vata na iyaloyalo.
+  Kakua ni taro-vakatovolei: levea na «O nanuma tiko li?» kei na «O cei oqo?»
+  ka vakayagataka na veisureti vakadredre me vaka na «Tukuna mai vei au na
+  ka oqo.» E bibi cake na veitalanoa vinaka mai na kena dodonu na ka kece.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Na nanuma lesu e dua na veitalanoa, sega ni dua na veitarogi. E sega ni bibi na dodonu; e bibi na marau."
+  - "Vakasosomitaka na «O nanuma tiko li...?» kei na «O cei oqo?» ena vosa ni vakasama kei na veisureti me vaka na «Tukuna mai vei au na siga oqo.»"
+  - "E dua na kato ni nanuma ka tu kina na iyaya mai na bula ni tamata o qaravi e solia e dua na ka me taura na liga kei na veitalanoa."
+  - "E dua na ivola ni italanoa ni bula e vukei ira na lewe ni vuvale, na dauveilakoyaki, kei na dauqaravi me ra kila na tamata, sega ni ga na mate ni guilecavi."
+  - "Kevaka e kauta mai na rarawa e dua na nanuma, vakacegui taumada ka toso vakamalua ki na dua tale na ka."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Na cava na nanuma lesu vei ira era bula vata kei na mate ni guilecavi?"
+    a: "Na nanuma lesu e kena ibalebale na veiwasei ni nanuma kei na veika a yaco e liu, vakavuqa ena vuke ni iyaloyalo, iyaya, sere se vidio. E rawa ni yaco vakadua ga se ena dua na ilawalawa. Na inaki me dua na veitalanoa marau ka bibi, sega ni veitarogi ni ka e rawa ni nanuma lesu na tamata."
+  - q: "Na cava me'u kakua kina ni taroga na «O nanuma tiko li?»"
+    a: "Na taro e vakatovolea na nanuma e rawa ni vakavuna me madua se lomalomarua na tamata ni sega ni lako mai na isau. Na National Institute on Aging e wilika na taro se nanuma tiko beka e dua na ka se dua na tamata me dua na ka me levei. Vakamacalataka ga na ka o raica, ka laiva na tamata me vakuria na ka e vinakata."
+  - q: "Na cava me'u biuta ena dua na kato ni nanuma?"
+    a: "Digitaka na iyaya taqomaki, kaukauwa ka semati ki na bula ni tamata o qaravi: iyaya ni cakacaka, iyaya ni itaviqaravi taleitaki, isulu ni domobula taleitaki, posikadi, kadi ni vakasaqa, iyaya ni nanuma ni qito se ilavelave ni iyaloyalo. Levea na iyaya gata, na iyaya lalai e rawa ni tilomi, kei na iyaya taumada e sega ni rawa ni sosomitaki."
+  - q: "Na cava kevaka era cala na ka era tukuna?"
+    a: "Biuta ga. Kevaka e kaya o tinamu ni dua na iyaloyalo e vakaraitaka na ganena ni e vakaraitaka na wekana, e vinaka tu ga oqori. Na vakadodonutaki e vukica na gauna vinaka me dua na veitarogi. Muria na italanoa era tukuna ka marautaka vata."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Na nanuma lesu e kena ibalebale rawarawa na marautaka vata na veika sa oti. Vei ira e levu era bula vata kei na mate ni guilecavi, na nanuma mai na vica vata na yabaki sa oti e rawa ni matata cake mai na veika a yaco ena mataka nikua. Na iyaloyalo, na iyaya kilai, na sere, kei na italanoa e rawa ni dolava na nanuma oqori ka solia vei kemudrau e dua na ka vinaka mo drau veiwasei kina. E dua ga na lawa: e dua na veitalanoa, sega ni dua na veitarogi.
 
-## What is reminiscence, and how is it different from quizzing?
+## Na cava na nanuma lesu, kei na cava na kena duidui mai na taro-vakatovolei?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Na nanuma lesu e veiwasei ni nanuma ena iyaloyalo, iyaya, sere se vidio, ena totolo e vinakata kina na tamata o qaravi. Na [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e vakamacalataka me veiwasei ni veika a sotavi kei na italanoa ena vuke ni iyaloyalo, iyaya, vidio se sere, ena dua na ivola se ena dua na tebeleti. Na taro-vakatovolei e duatani: e kerea na tamata me solia e dua na isau dodonu, ka rawa ni kauta mai na madua ka sega na marau.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) e wilika na taro se nanuma tiko beka e dua na tamata e dua na ka se dua na tamata me dua na ka me levei. Na [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e vakatura me levei na taro e vakararavi ki na nanuma lekaleka ka veitalanoa ga me baleta na veigauna sa yawa cake.
 
-| Instead of | Try |
+| Ka sosomitaka na | Tovolea oqo |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «O nanuma tiko li na ka oqo?» | «E rairai marau na siga oqo. Tukuna mai vei au.» |
+| «O cei oqo?» | «Oqo o Aunt Rose ena matasawa. Raica na nona isala.» |
+| «Na yabaki cava oqo?» | «E rairai vaka na vale makawa. A cava na bula kina?» |
+| «Sega, sega ni o Bill oqori, o Frank.» | «E rairai marau sara o koya.» |
+| «O sa tukuna oti mai vei au oqo.» | «Au taleitaka sara na italanoa oqo.» |
 
-## How do you talk about photos without quizzing?
+## Mo veitalanoa vakacava me baleta na iyaloyalo ka sega ni taro-vakatovolei?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Tekivu ena ka o raica, oti qai laiva e dua na vanua me vakuria kina e dua na ka na tamata o qaravi kevaka e vinakata.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Dabe vata ena yasana vata.** Taura na ivola ni iyaloyalo ena maliwa ni kemudrau me drau raica vata, sega ni veitarogi mai na dua na teveli.
+2. **Digitaka e vica na iyaloyalo.** E vinaka cake na lima na iyaloyalo vinaka mai na dua na kato taucoko. Na iyaloyalo lelevu ka matata e vinaka duadua.
+3. **Tukuna ga o iko na yacadra na tamata.** «Oqo o iko kei Tama ena nomudrau siga ni vakamau» e kauta laivi na lomaleqa.
+4. **Vakamacalataka na kena matailalai.** Isulu, motoka, kakana, draki, mata. «Isa, na motoka oqo. E rairai serau sara.»
+5. **Sureta, kakua ni vakasaurarataka.** «Tukuna mai vei au...» se «Na cava o raica?» E vinaka ga na vakanomodi.
+6. **Muria na nona iDusidusi.** Kevaka e veitalanoa me baleta e dua tale na ka, toso vata kei koya.
+7. **Tarova ni se marau tiko.** Sogo na ivola ni iyaloyalo ni bera ni oca.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Mo rawata na veisureti ni iyaloyalo sa vakarautaki tu, tovolea na [conversation cards](/games/conversation-cards/). Mo vukica na iyaloyalo ni nomu vuvale me dua na qito rawarawa ni veiganiti, tovolea na [photo pairs](/games/photo-pairs/); na iyaloyalo o digitaka e tiko ga ena nomu barausa.
 
-## How do you make a memory box?
+## Mo caka vakacava e dua na kato ni nanuma?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Na kato ni nanuma e dua na kato ka tu kina na iyaya mai na bula ni tamata o qaravi me tauri ka veitalanoataki.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Digitaka e dua na kato kaukauwa** e rawarawa na kena dolavi, me vaka e dua na kato ni ivava, kato ni isala se dua na kato kau lailai.
+2. **Digitaka e dua na ulutaga se veiwaki.** Cakacaka, dua na itaviqaravi taleitaki, dua na vanua, dua na yabaki tini, se e so na ka mai na veika kece.
+3. **Kumuna na iyaya taqomaki.** E rauta na lima ki na tini na iyaya mo tekivu kina.
+4. **Vakayagataka na ilavelave ni ka talei.** Lavelavetaka na iyaloyalo kei na ivolatukutuku e sega ni rawa ni sosomitaki ka maroroya na kena taumada.
+5. **Kauta laivi na iyaya vakadua.** Solia e dua, tukuna e dua na ka me baleta, ka raica na vanua e lai toso kina na veitalanoa.
 
-Ideas to include:
+Vakasama mo vakacuruma:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Cakacaka:** dua na beji ni yaca, dua na iyaya lailai ni cakacaka, dua na tiki ni isulu ni cakacaka, dua na ivola ni volivolitaki, dua na pini ni nasi, dua na ivola ni vakasaqa mai na dua na valenikana.
+- **Vale:** dua na kadi ni vakasaqa ena nona volavola, dua na isulu ni tavaya, dua na isulu ni domobula se nekitai taleitaki.
+- **iTaviqaravi taleitaki:** dua na matau ni qoli ka sega na kena ukoukau, dua na polo ni baseball, dua na polo ni vulu, dua na pakete ni sore.
+- **Vanua:** posikadi, mape, dua na iyaya ni nanuma ni veilakoyaki, dua na tiki ni niusipepa mai na nona koro.
+- **Vuvale:** ilavelave ni iyaloyalo, dua na droini ni gone, dua na sureti ni vakamau.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Biuta laivi na iyaya gata, na iyaya lalai e rawa ni tilomi, kei na ka e rawa ni kauta mai na nanuma rarawa vakavo kevaka o kila ni vinakati.
 
-## How do you make a life-story book?
+## Mo caka vakacava e dua na ivola ni italanoa ni bula?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Na ivola ni italanoa ni bula e dua na ivola rawarawa ni iyaloyalo kei na vosa lalai ni ivakamacala me baleta na bula ni tamata o qaravi. E dua na ka mo drau raica vata, ka e vukei ira na dauveilakoyaki kei na dauqaravi me ra raica taucoko na tamata.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Digitaka e dua na ivakarau.** E dua na bainda kei na taqomaki ni pepa, e dua na ivola ni iyaloyalo sa tabaki, se dua na vakaraitaki iyaloyalo ena tebeleti.
+2. **Vakarautaka e vica na iwase.** Gone, vuli, cakacaka, vuvale, vanua a tiko kina, vakabauta, itaviqaravi taleitaki, kakana kei na sere taleitaki.
+3. **Vakurabota e dua se rua na iyaloyalo ena dua na tabana** kei na dua na ivakamacala lekaleka, levu na volavola: «Mary, yabaki 22, tekivu cakacaka ena baqe.»
+4. **Vakurabota na ka e taleitaka kei na nona ivakarau.** «E gunu kofi kei na wai ni sucu. E taleitaka na sere lotu ni Sigatabu. E sega ni taleitaka na TV rorogo.» Oqo e vukei ira kece era qaravi koya.
+5. **Vakayacurumi na tamata o qaravi** ena levu ni ka e vinakata, ena digitaki ni iyaloyalo, tukuni ni italanoa se raica wale ga ni caka tiko.
+6. **Tomana tikoga na kena vakuri.** E sega ni gadrevi me oti me yaga.
 
-## More reminiscence ideas
+## Eso tale na vakasama ni nanuma lesu
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Vakasaqara na sere mai na nodra gauna ni cauravou** ka veitalanoa me baleta na vanua e kauti ira kina. Raica na [itaviqaravi ni sere](/activities/music/).
+- **Sarava na vidio ni vuvale se na parokaramu ni TV** mai na yabaki tini era taleitaka.
+- **Vakarautaka e dua na kakana mai na gauna ni gone** ka laiva na iboi me liutaka na veitalanoa.
+- **Raica e dua na mape** ni nodra koro ka muria na gaunisala era kila.
+- **Taura na katelogu se mekasini makawa** ka veitalanoa me baleta na isau, isulusulu, kei na motoka.
+- **Vola na nodra italanoa** ena talevoni, ena nodra veivakadonui, me baleta na vuvale.
+- **Veiwasei ena gauna ni qiri.** Laveta cake e dua na iyaloyalo ena qiri ni vidio; raica na [qiri ena talevoni kei na vidio](/activities/phone-and-video-calls/).
+- **Kauta mai e dua na iyaloyalo se iyaya ni o sikovi ira.** E solia e dua na inaki rawarawa ki na sikova; raica na [veilakoyaki](/activities/visiting/).
 
-## What if a memory is painful?
+## Na cava kevaka e rarawa e dua na nanuma?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Eso na nanuma e kauta mai na rarawa, veivutuni se rere. Kevaka e rarawa na tamata o qaravi, tarova, vakacegui koya, ka sosomitaka vakamalua na ulutaga se na itaviqaravi. Kakua ni veiba me baleta na ka a yaco. Na Family Caregiver Alliance e vakatura me kakua ni tovolei me vakadinadinataki na tamata ni cala o koya ka vakatura me saumi lesu na yalo e vakaraitaka, ka dina. Kevaka e vosa me baleta e dua sa mate me vaka e bula tiko, sauma lesu na yalo: «O nanumi koya vakalevu. Tukuna mai vei au me baleti koya.»
 
-## What does the research say?
+## Na cava e kaya na vakadidike?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+E dua na [railesu ni Cochrane me baleta na nanuma lesu](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), ka kovuta e 22 na vakatovolei kei na 1,972 na tamata, e kunea ni na kena revurevu e sega ni tautauvata, e lailai, ka duidui ena vanua kei na ivakarau. E sega ni kunea e dua na ivakadinadina ni ca vei ira era bula vata kei na mate ni guilecavi. Keimami vakatura na nanuma lesu baleta ni rawa ni vakavuna e dua na gauna vinaka ka bibi mo drau tiko vata kina, sega ni dua na veiqaravi ni vakabulabula. Mo kila eso tale na ka me baleta na veitalanoa rawarawa, raica na [ivakasala ni veitaratara](/caregiving/communication-tips/).

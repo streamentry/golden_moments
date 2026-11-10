@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Húshâldlike taken as aktiviteiten by demintens"
+seoTitle: "Húshâldlike aktiviteiten by demintens"
+description: "Hânklieden fâlde, sortearje, de tafel dekke en ienfâldich koekje kinne sinfol wêze foar minsken mei demintens. Hoe jo it oanpakke en feilich hâlde."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Deistige húshâldlike taken lykas hânklieden fâlde, sokken sortearje, de tafel
+  dekke, oanrjocht ôfnimme, planten wetter jaan en helpe by ienfâldich koekje
+  kinne de persoan dêr't jo foar soargje in echte manier jaan om mei te helpen.
+  Kies taken dy't er of sy ken, diel se op yn ien stap tagelyk, helje skerpe of
+  hjitte dingen fuort, en sjoch it meidwaan wichtiger as it "goed" dwaan.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Bekende húshâldlike taken kinne in persoan helpe om him of har nuttich te fielen en diel fan it húshâld te wêzen. Dat telt faak mear as hoe goed it wurk dien wurdt."
+  - "Diel elke taak op yn losse stappen, lit it sjen ynstee fan it te ferklearjen, en nim stil in stap oer as dy te dreech wurdt."
+  - "Berg messen, skjinmakmiddels en waskapsules opsletten fuort, en brûk knopbeskermers op it fornuis of in automatyske útskeakeling foardat jo tegearre koekje."
+  - "Opfâlde hânklieden hoege net foar de persoan opnij opfâlden te wurden. As jo eat dochs oandwaan moatte, doch dat dan letter en bûten it sicht."
+  - "As in taak frustraasje jout, gean dan oer op in maklikere stap, besykje it op in oar momint nochris, of sit gewoan tegearre."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Mei hokker húshâldlike taken kin in persoan mei demintens noch helpe?"
+    a: "In protte minsken kinne noch de wask fâlde, sokken byinoar siikje, bistik sortearje, de tafel dekke, in oanrjocht ôfnimme, ôfstofje, feie, planten wetter jaan of yn in kom mei beslach roere. Kies taken dy't de persoan earder die en pas se oan oan wat er of sy no kin. Yn lettere stadia kin ien werheljende beweging, lykas servetten glêdstriken, al genôch wêze."
+  - q: "Is it feilich as immen mei demintens helpt yn 'e keuken?"
+    a: "Dat kin, mei goed tafersjoch en de juste tarieding. Hâld messen, skjinmakmiddels en alles wat hyt is bûten berik, brûk knopbeskermers op it fornuis of in automatyske útskeakeling, en jou de persoan in feilige taak, lykas grienten waskje, roere of borden klearsette. Lit him of har nea allinnich by in oanstien fornuis."
+  - q: "Wat as er of sy dingen ferkeard fâldt of in rommel makket?"
+    a: "Lit it sa. It giet om tiid tegearre en it gefoel nuttich te wêzen, net om in perfekt resultaat. As eat echt opnij dien wurde moat, wachtsje dan oant letter en doch it as de persoan net sjocht, sadat er of sy him of har net ferbettere fielt."
+  - q: "Wat as er of sy net helpe wol?"
+    a: "In nee kin betsjutte dat de taak op dit stuit te dreech, ûndúdlik of wurch fielt. Set net troch. Besykje in maklikere ferzje, freegje oft de persoan jo selskip hâlde wol, of freegje it op in better momint fan 'e dei nochris."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+In protte minsken dy't mei demintens libje hawwe tsientallen jierren in húshâld rûn, in famylje grutbrocht of in wurkplak op oarder hâlden. As jo har freegje om mei echte húshâldlike taken te helpen, kin dat sizze: "Jo hearre noch hieltyd by dit húshâld." Dat kin in gefoel jaan dat in protte oare aktiviteiten net sa maklik biede. Op dizze side lêze jo hokker taken faak goed wurkje, hoe't jo se tariede, hoe't jo se oanpasse as dingen feroarje, en hoe't jo it feilich hâlde yn 'e keuken en de waskromte.
 
-## Why do everyday chores work well as activities?
+## Wêrom wurkje deistige húshâldlike taken goed as aktiviteiten?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Húshâldlike taken wurkje goed omdat se bekend binne en in dúdlik doel hawwe. It National Institute on Aging neamt ôfwaskje, de tafel dekke, feie, ôfstofje, post sortearje, de wask fâlde en ôfval skiede ûnder de [deistige aktiviteiten dêr't minsken mei de sykte fan Alzheimer wol genietsje fan kinne](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). De Alzheimer's Association jout oan dat taken lykas de tafel dekke in persoan helpe kinne om [him of har in weardefol diel fan it húshâld te fielen](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+In húshâldlike taak hat ek in eigen reden om te begjinnen. "Kinne jo my efkes helpe mei dizze hânklieden?" is makliker om ja op te sizzen as "Wolle jo in aktiviteit dwaan?"
 
-## Which household tasks are good to try?
+## Hokker húshâldlike taken kinne jo probearje?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Begjin mei taken dy't de persoan earder die, en pas se oan oan wat er of sy hjoed kin.
 
-### Laundry and linens
+### Wask en linnengoed
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Hânklieden en wasklapkes fâlde.** Jou in koer mei lytse, platte dingen. Hânklieden binne maklike dingen om te fâlden: it kin hast net ferkeard.
+- **Sokken byinoar siikje.** Lis in mingde heap op tafel. As pearen dreech te finen binne, brûk dan mar twa of trije hiel ferskillende kleuren.
+- **Glêdstriken en opstapelje.** Servetten, kessenslopen of theedoeken kinne glêdstreken en opstapele wurde. Dit wurket faak goed letter, as fâlden te folle stappen wurden is.
 
-### Table and kitchen
+### Tafel en keuken
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **De tafel dekke.** Set ien plak as foarbyld klear en lit de persoan it neidwaan. As dat te folle is, jou dan ien ding tagelyk: "Hjir is in foarke foar elk boerd."
+- **Bistik sortearje.** Doch skjinne foarken, liepen en bûtermessen yn in bak en sortearje se yn in bakje mei fakken. Lit skerpe messen fuort.
+- **De ôfwask ôfdroege.** Plestik of net-breekber servies en in sêfte doek meitsje dit in feilige taak.
+- **De tafel of it oanrjocht ôfnimme.** In fûchte doek en in leech oerflak. De Alzheimer's Association stelt foar om in doek oan te bieden as immen al mei de hân oer de tafel wriuwt, sadat in ûnrêstige beweging in nuttige taak wurdt.
 
-### Around the house
+### Yn hûs
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Ofstofje.** In sêfte stoffer en in pear stevige oerflakken, lykas in salontafel of boekekast.
+- **Post sortearje.** Jou reklamepost en tydskriften om te sortearjen yn stapels: bewarje, werbrûk, letter iepenje. Hâld echte rekkens en sjeks op in oare plak.
+- **Ofval skiede.** Skjinne blikjes, flessen en papier yn aparte bakken.
+- **Feie.** In lytse bezem op in patio of keukenflier, as it lykwicht goed genôch is.
+- **Planten wetter jaan.** In lytse, lichte jieter en in pear planten dy't maklik te berikken binne.
 
-### Simple cooking with supervision
+### Ienfâldich tegearre koekje, mei tafersjoch
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Koekje kin sterke, noflike gefoelens werom bringe. It NIA stelt foar om de persoan yngrediïnten byinoar helje te litten, mjitte, minge en skinke, of gewoan in oar fertelle hoe't er of sy in favorite resept makke. Goede taken binne:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- grienten of fruit waskje
+- yn beslach of in kâlde salade roere
+- sla skôgje
+- bôle mei in stompe mes bestriikje
+- koekjesdeech op in bakplaat lizze
+- topping op in pizza lizze
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+As mjitten dreech wurdt, stelt de Alzheimer's Association foar dat jo it mjitten sels dwaan en dêrnei in oare stap oerjaan, lykas roere.
 
-## How do I set up a chore so it goes well?
+## Hoe rjochtsje ik in húshâldlike taak sa yn dat it goed giet?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Kies it goede momint.** Kies in diel fan 'e dei wêrop de persoan meastentiids útrêste en rêstich is. Foar in protte minsken is dat de moarns.
+2. **Meitsje romte.** Ien taak, ien oerflak, neat oars op tafel.
+3. **Freegje, jou gjin opdracht.** "Ik kin wol efkes in hân brûke" wurket better as "It is tiid om de wask te fâlden."
+4. **Lit de earste sjen.** Fâld ien hânkldek stadich op, en jou dan de folgjende. Sjen litte is dúdliker as útlizze.
+5. **Jou ien stap tagelyk.** Te folle oanwizings tagelyk kinne oerweldigjend wêze. Wachtsje oant ien stap klear is foardat jo de folgjende neame.
+6. **Wurkje njonkeninoar.** Itselde wurk njonkeninoar dwaan fielt as selskip, net as tafersjoch.
+7. **Praat oer de taak, net oer it resultaat.** "Dizze binne sa sêft" of "Hoe hâlden jo de linnenkast graach op oarder?" noeget út ta petear sûnder immen te testen.
 
-## How do I adapt chores as abilities change?
+## Hoe pas ik húshâldlike taken oan as dingen feroarje?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Wat immen kin, feroaret yn 'e rin fan 'e tiid en soms ek fan dei ta dei. De Alzheimer's Association stelt foar om stadichoan oer te gean op ienfâldiger, werheljende taken as de sykte foarder rint.
 
-| If this has become hard | Try this instead |
+| As dit te dreech wurdt | Besykje dit dan |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Grutte lekkens fâlde | Wasklapkes fâlde of servetten glêdstriken |
+| In hiele tafel dekke | By elke stoel ien servet lizze |
+| Post yn kategoryen sortearje | Enveloppen yn ien stapel lizze |
+| In resept folgje | Roere, of sjen en priuwe wylst jo koekje |
+| In hiele flier feie | Ien lytse tafel ôfnimme |
+| De taak dwaan | By jo sitten en selskip hâlde wylst jo it dwaan |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Tosjen telt ek mei. It NIA jout oan dat guon minsken gewoan graach sjogge, en dat dat ek in goede manier is om mei te dwaan.
 
-## How do I keep household tasks safe?
+## Hoe hâld ik húshâldlike taken feilich?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Feiligens komt op it earste plak, benammen yn 'e keuken. De [tips foar feilichens yn hûs foar minsken dy't soargje foar immen mei Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) fan it NIA befetsje ûnder oare:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Doch skjinmakmiddels op slot of helje se fuort, ek waskapsules, dy't der útsjen kinne as snoep.
+- Bewarje messen, skjerren en elektrysk ark yn in ôfsletten romte.
+- Set feiligensknoppen en in automatyske útskeakeling op it fornuis.
+- Set buorden mei "Stop" of "Hiel hyt" by de oven, it bôleizzer en it strijkizer, sa pleatst dat se net yn 'e brân fleane kinne.
+- Set de boiler op 120°F (sawat 49°C) om de kâns op skoldwûnen lytser te meitsjen.
+- Helje keunstfruit en magneten yn 'e foarm fan iten fuort, dy't der út sjen kinne as eatber.
 
-A few more practical habits help:
+In pear oare praktyske gewoanten helpe ek:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Bliuw yn 'e keamer as it fornuis, de oven of skerp ark yn gebrûk is.
+- Brûk net-breekber servies foar it ôfdroege en it dekken fan 'e tafel.
+- Hâld flierren droech en frij wylst jo feie of dweilje.
+- As de persoan earder mei ark wurke, stelt de Alzheimer's Association foar om gefaarlike dingen út it wurkplak fuort te heljen, sadat in feilige taak lykas in stik hout skuurje noch wol dien wurde kin.
 
-## What if they do it "wrong"?
+## Wat as er of sy it "ferkeard" docht?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Lit it rinne. In hânkldek dat yn trijen opfâlden is ynstee fan yn twaën, is noch hieltyd in opfâlden hânkldek. De Alzheimer's Association seit it dúdlik: it giet derom dat jo tiid tegearre trochbringe en dat de persoan him of har nuttich fielt, net oft de hânklieden perfekt opfâlden binne. As eat echt opnij dien wurde moat, wachtsje dan oant letter en doch it bûten it sicht.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+As jo op dat stuit ferbetterje, kin in noflike taak feroarje yn in werinnering oan wat der ferlern gien is. "Tankewol, dat helpt my in protte" is hast altyd it goede om te sizzen.
 
-## When should we stop?
+## Wannear moatte wy stopje?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Stopje of wikselje as jo frustraasje, wurgens of minder belangstelling sjogge. Earder stopje is in goed resultaat, net in mislearring. Jo kinne:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- oergean op in maklikere stap
+- wat rêstigers dwaan, lykas muzyk harkje of in kopke kofje drinke
+- it letter op 'e dei of op in oare dei nochris probearje
+- gewoan tegearre sitten
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+As de persoan nee seit, set dan net troch. Sjoch [wat jo dwaan kinne as er of sy nee seit](/caregiving/when-they-say-no/) foar freonlike manieren om dêrop te reagearjen.
 
-## Low-effort extras for a quieter moment
+## Maklike ekstra's foar in rêstich momint
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+As fysike húshâldlike taken net kinne, kin sortearjen en byinoar siikje noch wol sittend dien wurde. Mei [Sort Together](/games/sort-together/) kinne jo op ôfbyldings tikke om se yn keuken- of túnkoerren te lizzen, en [Picture Pairs](/games/picture-pairs/) is in freonlik spultsje om ôfbyldings byinoar te siikjen, mei grutte ôfbyldings en sûnder tiidklok. [Conversation Cards](/games/conversation-cards/) hat iepen fragen oer thús en famylje dy't goed passe by in kopke kofje neidat it wurk dien is.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Foar help om húshâldlike taken yn 'e dei te passen, sjoch ús hantlieding foar in [rêstige deistige routine](/activities/daily-routine/). Foar mear ideeën per stadium, sjoch [aktiviteiten yn it middelste stadium](/activities/middle-stage/).

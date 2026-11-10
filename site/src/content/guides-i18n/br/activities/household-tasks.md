@@ -1,32 +1,28 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Labourioù an ti evel obererezhioù evit tud gant demañs"
+seoTitle: "Obererezhioù an ti evit demañs: labourioù bemdez"
+description: "Pliañ dilhad, treiñ ar gwiñsoù, staliañ an daol pe ober kegin simpl a c'hall bezañ obererezhioù talvoudus evit tud gant demañs. Penaos aozañ ha miret diogel."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Labourioù bemdez evel pliañ lien, treiñ ar gwiñsoù, staliañ an daol, sec'hañ al lestri, dornañ ar voger, dour ar plant ha skoazellañ e kegin simpl a c'hall reiñ d'un den gant demañs ur mod gwir da skoazellañ. Dibabit tachennoù a anavez, rannit anezho e pep pazenn, lamit ar pezhioù lemm pe tomm, ha prizit kemer perzh, ha n'eo ket ober anezhe « mat », an dra pennañ.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Labourioù a vez anavezet a c'hall lakaat an den da santout talvoudus ha lodenn eus an ti, ha se a bouez alies muioc'h eget penaos e vez graet al labour."
+  - "Rannit pep labour e lodennoù bihan, diskouezit kentoc'h eget lâret, ha kemerit war ho kein pa vez diaes un dra."
+  - "Serrit kuzh ar gountelloù, ar produioù glanaat hag ar pakadennoù kanol, ha staliit gwarizioù boutoñ ar fornel pe ur stokerez emgefre a-raok kegin asambles."
+  - "Ne rank ket aozañ dilhad pliet a-nevez a-raok an den. Ma rankit adober un dra, graet kentoc'h diwezhatoc'h ha dre-ziwar he zaoulagad."
+  - "Ma tenn ur labour frustradegezh, kemmit d'ur pazenn hanterioc'h, klaskit en amzer all pe chomit asambles hepken."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Pe labourioù a c'hall an den gant demañs c'hoazh skoazellañ?"
+    a: "Kalz tud a c'hall c'hoazh pliañ dilhad, paral ar c'hozh, lakaat ar strollad taolenn en urzh, staliañ an daol, glanaat ur voger, lemel al lusk diwar ar veubleizh, dour ar plant pe treiñ ur bolzh toaz. Dibabit labourioù a rae an den gwechall, hag azasit anezho d'ar pezh a c'hall ober bremañ. Diwezhatoc'h, ur gwezh n'eo nemet ur gwezh evel lakaat ar gwiñsoù da vezañ leun a c'hall bezañ ret."
+  - q: "Diogel eo evit un den gant demañs skoazellañ er gegin?"
+    a: "Diogel eo, gant gwelet a-dost hag ur staliadur mat. Miret ar gountelloù, ar produioù glanaat ha kement a zo tomm pell diouzh an dorn, lakait gwarizioù boutoñ ar fornel pe ur stokerez emgefre, ha roit d'an den ul labour diogel evel golchañ legumaj, treiñ pe lakaat platoù war an daol. Na lezit ket an den hep kenoberour pa vez ar fornel war-sav."
+  - q: "Ha ma pliont ar pezhioù fall pe ma lakont traoù da vezañ fall?"
+    a: "Lezit kement-se. An dra pennañ eo amzer asambles ha santout ez eus talvoudegezh, n'eo ket ur galloud klok. Ma rankit reiñ tro en-dro d'un dra, gortozit betek diwezhatoc'h hag ober anezhañ pa ne wel ket an den, evit na santo ket bezañ reizhet."
+  - q: "Ha ma nac'h an den skoazellañ?"
+    a: "Un nann a c'hall tenn ar labour da vezañ re galet, dic'hortoz pe skuizh d'an eil pad. Na zalc'hit ket war-lerc'h. Klaskit ur stumm hanterioc'h, pedit anezhañ da zegemer ac'hanoc'h kentoc'h, pe goulennit en amzer all eus an deiz."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +41,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Kalz tud o vevañ gant demañs o deus graet bloavezhioù a-bezh evit mirout un ti, magañ ur familh pe mirout ul labour en urzh. Pa vez goulennet outo skoazellañ gant labourioù gwir, e c'hall ar pezh-se lavarout « c'hoazh emaoc'h e-kreiz an ti » gant ur mod na c'hall nebeut obererezhioù all. Er bajenn-mañ e kavit peseurt labourioù a vez mat, penaos aozañ anezho, penaos kenseveiñ anezho pa chang an traoù, ha penaos miret ar gegin hag ar c'hambr golc'hadur diogel.
 
-## Why do everyday chores work well as activities?
+## Perak e vez mat al labourioù bemdez evel obererezhioù?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Mat int peogwir int anavezet ha peogwir o deus ul lodenn reizh. An National Institute on Aging a enrol golchañ al lestri, staliañ an daol, skubañ, lemel al lusk, lakaat ar lizheroù en urzh, pliañ dilhad ha dibab ar stlennadoù evel [obererezhioù bemdez a c'hall plijout d'an dud gant Alzheimer](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Lavar an Alzheimer's Association e c'hall staliañ an daol [roiñ tu d'an den santout ez eo ur pezh talvoudus eus an ti](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Ur labour a zo ivez ur abeg evit kregiñ. « Ac'hanta, c'hwi a c'hall skoazellañ ac'hanon gant ar dilhad-mañ? » a zo aesoc'h da respont ya dezhañ eget « Ha c'hwi a fell deoc'h ober un obererezh? »
 
-## Which household tasks are good to try?
+## Peseurt labourioù an ti a zo mat da glask?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Kregit gant labourioù a reas an den gwechall, ha azasit anezho d'ar pezh a c'hall ober hiziv.
 
-### Laundry and linens
+### Dilhad ha lien
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Pliañ tovaloù ha tovaloùigoù.** Roit ur basked gant traoù bihan ha tost. Ar tovaloù a zo fur: n'eus forzh penaos e vez pliet unan.
+- **Paral ar c'hozh.** Lakait ur pil kemmesk war an daol. Ma vez diaes gwelet ar pdaouioù, implijit tri pe daou liv a bep seurt hepken.
+- **Lakaat e stank ha pentañ.** Ar golierioù, ar gwiñsoù pe ar toaloù dournañ a c'hall bezañ lakaet plat ha pentet. Mat eo se diwezhatoc'h, pa vez re a bazennoù da bliañ.
 
-### Table and kitchen
+### Taolenn ha kegin
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Staliañ an daol.** Lakait ur plasadur da skouer hag azasit an den da heñvelaat anezhi. Ma vez re, roit un dra per-dro: « Setu ur fourchetenn evit pep platenn. »
+- **Lakaat ar gountelloù en urzh.** Kemmest ar fourchetennoù, al lodennoù hag ar stlennoù kanol en ur bod, ha lakait-hi en ul lodennadur. Lamit er-maez ar gountelloù lemm.
+- **Sec'hañ al lestri.** Lestri plastik pe na dorr ket hag ur toaz mein a wna al labour-mañ diogel.
+- **Dornañ an daol pe ar voger.** Ur gaouenn fleb hag un distro glan. Lavar an Alzheimer's Association e c'hall reiñ ur gaouenn ma vez an den o vrasaat an daol gant e zorn, evit kemmer ar fromder-se en un labour talvoudus.
 
-### Around the house
+### Er-maez eus an ti
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Lemel al lusk.** Ur banne fleb ha nebeud a daolennoù kreñv, evel ur vaezenn-goslec'h pe ul lastez levr.
+- **Lakaat al lizheroù en urzh.** Roit d'an den al lizheroù direizh ha ar catalogoù da lakaat e pileier: mirout, reiñ tro en-dro, digeriñ diwezhatoc'h. Mirit al labourioù bras ha ar gontoù e lec'h all.
+- **Rannañ ar stlennadoù.** Ar boteliou, ar boested hag ar paper glan e binioù dishañv.
+- **Skubañ.** Ur skubell bihan war ur porzh pe war al lur ar gegin, ma vez an den e-stad mirout e stad.
+- **Dour ar plant.** Ur banne dour bihan ha pevar pe pemp plant a-dost.
 
-### Simple cooking with supervision
+### Kegin gant evezh
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Gallout a ra ar gegin dasserzhiñ santimantoù kaer ha plijus. Lavar an NIA e c'hall lakaat an den da dastum ar pezhioù, da iziñ, da stardañ ha da vranaat, pe da lavarout d'un den penaos ec'h eus da gaout ur resevr a blij dezhañ. Labourioù mat int :
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- golchañ legumaj pe frouezh
+- stardañ ur bastez pe ur salad fresk
+- rannañ ar sez
+- smeriñ ur bara-tost gant ur gontell digor
+- lakaat ar paezh-kraen war ur plad
+- lakaat ar pezhioù war ur pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Ma vez diaes an iziñ, lavar an Alzheimer's Association e c'hallit echuiñ an iziñ ha roit ur labour all, evel stardañ.
 
-## How do I set up a chore so it goes well?
+## Penaos aozañ ur labour evit ma vo mat?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Dibab an eur mat.** Dibabit un amzer pa vez an den fresk ha distrump, emichañs er mintin evit kalz tud.
+2. **Diverkit al lec'h.** Un dra hepken, un gorre hepken, netra all war an daol.
+3. **Pedit, na ordrit ket.** « Ho skoazell a faota evit ar pezhioù-mañ » a zo gwelloc'h eget « Amzer eo da bliañ ar dilhad. »
+4. **Diskouezit ar c'hentañ.** Pliit ur sindon kentoc'h ha roit ar re nesañ goude. Diskouez a zo sklaroc'h eget displegañ.
+5. **Ur pazenn ha ne vefe nemet unan.** Re a zoareoù war-un-taol a c'hall lakaat an den da vezañ dirollet. Gortozit betek ma vo echuet ur pazenn a-raok lavarout ar nesañ.
+6. **Labourit a-stlêr.** Ober an hevelep dra ar pezh a vez tost en ho c'hichen a heñvel ouzh kenvroiñ, n'eo ket ouzh evezhiañ.
+7. **Komzit diwar-benn al labour, n'eo ket diwar-benn an disoc'h.** « Re vleunek e vezont » pe « Lavarit din penaos a rae ar genta-mañ dibrez ar gwele » a bed da gomz hep prouiñ netra da zen.
 
-## How do I adapt chores as abilities change?
+## Penaos kenseveiñ al labourioù pa chang galloudoù?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Chench a ra ar galloudoù dre amzer, ha hyd e-barzh an deiz ivez. Lavar an Alzheimer's Association e c'hallit mont war-raok a-zioc'h labourioù ken simpl ha re heñvel ha ma vez re, pa dremen an demañs.
 
-| If this has become hard | Try this instead |
+| Ma vez diaes an dra-mañ | Klaskit an dra-mañ en he lec'h |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Pliañ linselioù bras | Pliañ tovaloù bihan pe lakaat ar gwiñsoù en urzh |
+| Staliañ un daol klok | Lakaat ur golier ouzh pep plas |
+| Rannañ ar lizheroù dre rummoù | Stokañ ar gwiñsoù war ur pil hepken |
+| Heuliañ ur resevr | Stardañ, pe sellet ha tastet pa vez kozhet |
+| Skubañ ul leur a-bezh | Dornañ ur ganol bihan |
+| Ober ar stlennadoù netra | Chom asambles ganeoc'h en ur gompagnunez tra ma rit an dra-se |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Gwelet a ra ivez. Lavar an NIA e c'hall tud sellet pe blijout nemetken, hag hennezh a zo ur mod mat evit kemer perzh.
 
-## How do I keep household tasks safe?
+## Penaos miret al labourioù an ti diogel?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Diogelded a zo kentañ, dreist-holl er gegin. Pennadoù [gwellvezioù surentez an ti evit ar gwirioù a ro kengouezhiad an Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) an NIA a enrol :
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Serrit pe lemit kuit ar produioù glanaat, en o zouez pakadennoù kanol an dilhad, a c'hall bezañ tebet evel bonbonioù.
+- Miret ar gountelloù, ar sizailhoù hag an ostilhoù galloudek en ul lec'h serret.
+- Staliit gwarizioù diogelded hag ur stokerez emgefre war ar fornel.
+- Lakait arwezioù « Stop » pe « Tomm meurbet » tost d'ar fornoù, d'ar grampouezer hag d'ar haearn, en ur blas na c'hallont ket kalz ober tan.
+- Staliit an dour-tomm da 49°C evit lakaat strishoc'h ar riskl a losk.
+- Lemit kuit ar frouezh c'hwitellet hag ar magnetoù stumm boued, a c'hall bezañ tebet evel boued.
 
-A few more practical habits help:
+Ur pezh a zo ivez mat :
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Chomit en ar c'hambr pa vez implijet ar fornel, ar fourn pe un ostilh lemm.
+- Implijit lestri na dorr ket evit sec'hañ hag evit staliañ an daol.
+- Miret al leurioù sec'h ha diskar pa skubit pe pa lanit.
+- Ma vez bet an den o implijout ostilhoù, lavar an Alzheimer's Association e c'hallit lemel an traoù peurliesa diwar al labourva, evit ma c'hallo an den c'hoazh ober ur labour diogel evel lemel ur bennad koad.
 
-## What if they do it "wrong"?
+## Ha ma reont dre « fall »?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Lezit kement-se. Ur sindon pliet en tridalc'h pe en daouzhalc'h n'eo ket nemet ur sindon pliet, neuze. Lavar an Alzheimer's Association ev ur stumm sklaer : an dra bouezusañ eo an amzer asambles ha santout an den talvoudus, n'eo ket penaos e vez pliet ar gwiñsoù. Ma rank bezañ reizhet un dra, gortozit betek diwezhatoc'h ha ober anezhañ dre-ziwar.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Reizhañ en eil an neb a zo bet graet a c'hall troiñ un labour plijus da ur souvenir eus an dra a zo bet kollet. « Trugarez, ur sikour brav eo ! » a zo bepred ar pezh gwellañ da lavarout.
 
-## When should we stop?
+## Pryd e rankomp echuiñ?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Echuit pe kemmit pa welit kompoz a frustradegezh, a skuizh pe a zisfiañs. Echuiñ abred a zo un disoc'h mat, n'eo ket ur fazi. Gallout a rit :
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- kemmañ d'ur pazenn hanterioc'h
+- mont d'un dra a bae, evel mouezhiadur pe ur banne kafe
+- klask en amzer all pe en un deiz all
+- chom asambles hepken
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Ma lâr an den nann, na zalc'hit ket war-lerc'h. Gwelit [penaos respont pa lavar an den nann](/caregiving/when-they-say-no/) evit kavout ur fazon dous da respont.
 
-## Low-effort extras for a quieter moment
+## Traoù bihan ouzhpenn evit un eurvad distawoc'h
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Pa n'eus ket tu da labourioù korf, c'hall ar stlennadoù ha ar paouezhoù bezañ graet azezet c'hoazh. [Sort Together](/games/sort-together/) a laka ac'hanoc'h da bouezhañ war skeudennoù evit gwele ar gegin pe al lennoù, hag [Picture Pairs](/games/picture-pairs/) a zo ur c'hoari heñvelaat dous gant skeudennoù bras ha hep amzer-kont. [Conversation Cards](/games/conversation-cards/) a zo ganti goulennoù digor diwar-benn an ti ha ar familh, a glot mat ouzh ur gafe goude al labour.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Evit kavout skoazell da lakaat al labourioù en an deiz, sellit ouzh hor gidou diwar-benn [ur gourc'hemenn deiz distaw](/activities/daily-routine/). Evit kavout muioc'h a obererezhioù hervez ar c'hamm, sellit ouzh [obererezhioù er c'hamm a-GLAZ](/activities/middle-stage/).

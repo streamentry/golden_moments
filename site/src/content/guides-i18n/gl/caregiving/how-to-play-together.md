@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Como xogar con alguén que vive con demencia"
+seoTitle: "Como xogar con alguén que vive con demencia"
+description: "Guía práctica para xogar con alguén que vive con demencia: preparación, ritmo, sen corrixir, como facilitar os xogos e cando parar."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Concibe o xogo como un tempo compartido, non como unha proba. Escolle un
+  momento tranquilo do día, sentade un ao carón do outro nun lugar calmo e
+  propón un xogo sinxelo. Deixa que a persoa marque o ritmo, non corrixas os
+  erros inofensivos, facilita o xogo ao primeiro sinal de incomodidade e usa as
+  imaxes para conversar. Parade mentres aínda sexa agradable. Acabar antes, ou
+  simplemente mirar xuntos, tamén é un bo resultado.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "O obxectivo é gozar e conectar, non rematar nin acertar as respostas."
+  - "Prepara todo antes: lugar tranquilo, boa luz, lentes e audiófonos postos, televisión apagada e un xogo listo."
+  - "Non corrixas os erros inofensivos. Di «Imos probalo así» ou simplemente segue adiante."
+  - "Facilita o xogo antes de que apareza a frustración: menos imaxes, menos opcións ou imaxes á vista."
+  - "Usa as imaxes como punto de partida para contar historias con «Cóntame sobre...» en vez de «Lémbraste de...?»"
+  - "Para aos primeiros sinais de cansazo ou malestar. Parar antes é un acerto, non un fallo."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Canto tempo deberiamos xogar?"
+    a: "Non hai unha duración correcta. Para moitas persoas, uns poucos minutos son dabondo, e algúns días unha soa rolda é suficiente. Fíxate na persoa máis que no reloxo e para mentres semelle tranquila."
+  - q: "Debería deixarlle gañar ou finxir que non vexo os erros?"
+    a: "Nun xogo compartido e sen presión non hai nada que gañar nin perder. Se un erro non lle molesta á persoa, déixao pasar. Se parece que lle molesta, axúdalle con discreción ou facilita o xogo sen sinalalo."
+  - q: "E se prefire verme xogar a min?"
+    a: "Non pasa nada. O National Institute on Aging suxire deixar que a persoa simplemente mire se semella que o prefire. Falade do que vedes e convídaa a sinalar ou escoller cando lle apeteza."
+  - q: "Estes xogos serven para probar a memoria?"
+    a: "Non. Os nosos xogos son actividades sinxelas para compartir, gozar e conversar. Non son unha proba de memoria, non miden nada e non son un tratamento para a demencia."
+  - q: "Con que xogo é mellor empezar?"
+    a: "Comeza polo máis sinxelo que se adapte á persoa. Picture Pairs con catro pezas e as imaxes á vista, ou Find the Same con dúas opcións, son comezos suaves. Conversation Cards funciona ben se á persoa lle gusta máis falar ca tocar a pantalla."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Un bo xogo con alguén que vive con demencia non se parece a unha competición. Parécese máis a dúas persoas sentadas preto, sinalando imaxes, sorrindo cun refrán e falando do que vaia xurdindo. O xogo é só unha escusa para pasar un tempo xuntos.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Esta guía explica como preparar o momento, como levar o ritmo do xogo, que dicir cando algo sae «mal», como facer calquera xogo máis fácil ou un pouco máis difícil, como convertelo nunha conversa e como saber cando parar. Serve para os nosos [xogos](/games/) e tamén para cartas, crebacabezas e xogos de mesa que xa teñas.
 
-## What is the best way to play a game with someone who has dementia?
+## Cal é a mellor maneira de xogar con alguén que vive con demencia?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Pon o foco no gozo, non no logro. Ese é o consello central da [guía de actividades da Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities): apóiase nas capacidades que a persoa aínda conserva, axúdalle a comezar, fai ti as partes difíciles e non critiques nin corrixas as actividades inofensivas.
 
-In practice that means:
+Na práctica, isto significa:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Sentade un ao carón do outro, non enfronte.** Un ao carón do outro, podedes ver os dous a pantalla ou a mesa, e axudar séntese como traballo en equipo, non como supervisión.
+- **Propón un só xogo de cada vez.** Un menú de opcións pode parecer unha proba antes de empezar.
+- **Segue o seu ritmo.** Se quere tocar as imaxes na súa orde, falar dez minutos sobre unha soa imaxe ou parar despois de dúas quendas, ese é o xogo de hoxe.
+- **Conta os bos momentos, non as roldas rematadas.** Un sorriso, unha historia ou media hora tranquila son o resultado que buscas.
 
-## How do I set up before we start?
+## Como me preparo antes de empezar?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Uns minutos de preparación evitan gran parte da frustración que ás veces se lle bota a culpa ao propio xogo.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Escolle o mellor momento do día para esa persoa.** A [guía do National Institute on Aging (NIA) sobre como adaptar actividades](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suxire planificar as saídas e as actividades para a hora do día en que a persoa estea mellor. Para moita xente é a media mañá. O serán adoita ser máis difícil; consulta [actividades tranquilas para o final da tarde](/caregiving/late-day-restlessness/).
+2. **Procura un lugar tranquilo.** Apaga a televisión e a radio e, se podes, pecha a porta. A [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recomenda reducir o ruído e as distraccións antes de tentar falar.
+3. **Comproba primeiro o benestar.** Unha bebida preto, unha visita ao baño antes de empezar, unha cadeira cómoda e as lentes e os audiófonos postos.
+4. **Ilumina ben o espazo.** Unha luz clara e uniforme, sen reflexos na pantalla, facilita ver as imaxes.
+5. **Ten o xogo listo antes de sentarvos.** Ábreo, escolle os axustes e pon o volume ti. Despois xira a pantalla cara á persoa. Para consellos sobre tabletas, consulta [como preparar unha tableta ou un teléfono](/caregiving/tablets-and-screens/).
+6. **Apoia o dispositivo.** Un soporte ou unha funda que manteña a tableta dereita evita que alguén teña que suxeitala, e tamén é máis fácil sinalar.
 
-## How do I invite them without pressure?
+## Como a convido sen presión?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Fai a invitación de forma sinxela e fácil de rexeitar. Algunhas frases que adoitan funcionar ben:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Atopei unhas fotos de xardíns. Queres miralas comigo?»
+- «Pódesme axudar con este crebacabezas? Atasquei.»
+- «Hoxe prefires flores ou paxaros?» (unha escolla entre dúas opcións é máis fácil ca unha pregunta aberta)
+- «Estou facendo unha tarxeta para a túa irmá. Que cor lle poño aquí?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+A Alzheimer's Association suxire explicar o propósito dunha actividade, como facer unha tarxeta para unha amizade, porque un motivo dálle sentido. Pedir axuda tamén funciona, xa que permite que a persoa se sinta útil.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Se di que non, acéptao. Podes probalo máis tarde ou propoñer outra cousa. A nosa guía sobre [que facer cando di que non](/caregiving/when-they-say-no/) afonda máis.
 
-## How long should a game last, and how fast should we go?
+## Canto debe durar un xogo e a que ritmo imos?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Deixa que a persoa marque o ritmo e pensa en momentos curtos. Non hai unha duración ideal baseada en probas para un xogo compartido. De dous a cinco minutos tranquilos poden ser unha actividade completa.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Agarda máis do que che pareza natural.** O NIA aconsella dar máis tempo á persoa para responder e tentar non interrompela. Conta ata dez na túa cabeza antes de axudar.
+- **Un paso de cada vez.** Dá unha instrución breve e única («Toca unha imaxe») e agarda. Mostra en vez de explicar: sinala onde tocar.
+- **Facede pausas con liberdade.** Se a persoa se detén para falar dunha imaxe, o xogo pode agardar. Non hai présa.
+- **Deixa que mire.** O NIA sinala que algunhas persoas prefiren mirar, e esa tamén é unha opción válida.
 
-## Should I correct wrong answers?
+## Debo corrixir as respostas incorrectas?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Non. Corrixir con suavidade unha e outra vez pode facer que a persoa sinta que está fallando, aínda que o fagas con boa intención. A Alzheimer's Association aconsella non criticar nin corrixir as actividades inofensivas. Nun xogo, case todos os erros son inofensivos.
 
-| Instead of | Try |
+| En vez de | Proba con |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Non, iso está mal.» | «Imos probalo así.» (un exemplo que dá o NIA) |
+| «Iso non coincide. Mira outra vez.» | Non digas nada e fai a seguinte quenda, ou «Ai, eses dous son vermellos.» |
+| «Lémbraste de quen é?» | «Cóntame sobre esta imaxe.» |
+| «Ese xa o fixeches.» | «Ese está ben. Imos facelo outra vez.» |
+| «Veña, iso sábeo.» | «Queres que che mostre o final?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Se un erro claramente lle causa frustración, axuda con discreción. Sinala a imaxe correcta, fai ti unha quenda ou facilita o xogo na seguinte rolda. Se un refrán acaba dun xeito divertido, ríe con ela. Pode que o seu final sexa mellor.
 
-## How do I make a game easier or harder?
+## Como fago un xogo máis fácil ou máis difícil?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Axusta o xogo á persoa nese día, non a unha etiqueta de etapa. A mesma persoa pode necesitar unha versión máis sinxela pola tarde ca pola mañá. O primeiro consello do NIA é adaptar a actividade ao que a persoa pode facer e asegurarse de que se sinta capaz.
 
-| Game | Make it easier | Make it a little harder |
+| Xogo | Para facelo máis fácil | Para facelo un pouco máis difícil |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Comeza con 4 pezas e deixa as imaxes á vista | Máis pezas, ou agocha as imaxes se resulta cómodo |
+| [Find the Same](/games/find-the-same/) | 2 opcións | Ata 4 opcións |
+| [Sort Together](/games/sort-together/) | Ti suxeitas a imaxe e a persoa sinala a cesta | A persoa toca a imaxe e a cesta pola súa conta |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 pezas; falade primeiro da imaxe completa | 9 pezas |
+| [Finish the Saying](/games/finish-the-saying/) | Mostra o final e dídeo xuntos | Deixa que diga o final antes de tocar |
+| [Word Search](/games/word-search/) | Imprímeo, buscade unha palabra xuntos e sinala a súa primeira letra | Deixa que escolla a seguinte palabra para buscar |
+| [Coloring](/games/coloring/) | Ti escolles dúas cores e a persoa elixe entre elas | A persoa escolle todas as cores |
+| [Conversation Cards](/games/conversation-cards/) | Mirade só a imaxe xuntos | Usade as preguntas abertas da tarxeta |
+| [Photo Pairs](/games/photo-pairs/) | Unhas poucas fotos familiares moi queridas | Engade máis fotos |
+| [Picture Bingo](/games/picture-bingo/) | Unha persoa que axuda senta con cada xogador | Cada persoa marca a súa propia tarxeta |
+| [Calm Breathing](/games/calm-breathing/) | Simplemente sentade e mirádeo xuntos | Respirade xuntos devagar |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Sinais de que o xogo é demasiado difícil: pausas longas que parecen de preocupación máis ca de reflexión, repetidos «non podo», apartar o dispositivo ou erros que lle afectan. Sinais de que pode ser demasiado fácil: aburrimento ou comentarios de que lle parece infantil. Se pasa iso, respéctao e cambiade a algo que lle resulte máis propio dunha persoa adulta, como unha sopa de letras, un crebacabezas cunha fotografía real ou falar sobre unha imaxe do seu antigo traballo.
 
-## How do I turn a game into a conversation?
+## Como converto un xogo nunha conversa?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Usa cada imaxe como unha invitación a falar e trata o que diga como unha boa resposta. Para moitas familias, esta é a mellor parte de xogar.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Fai preguntas abertas, sen resposta incorrecta.** «Que ves aquí?» «Cal che gusta máis?» «Cóntame sobre unha cociña coma esta.»
+- **Comparte ti primeiro.** «A miña avoa tiña un can así.» A túa historia pode facilitar que a persoa comparta a súa.
+- **Segue o fío da conversa.** Se unha imaxe dun coche leva a unha historia sobre unha viaxe, esa historia é a actividade. Deixa o xogo en pausa.
+- **Non comprobes os detalles.** Ao lembrar o pasado, unha conversa agradable importa máis ca a exactitude dos detalles. Se a historia cambia respecto da última vez, goza da nova versión.
+- **Usa as preguntas integradas.** [Finish the Saying](/games/finish-the-saying/) engade unha pregunta para conversar despois de cada refrán, e [Conversation Cards](/games/conversation-cards/) están pensadas precisamente para iso. [Photo Pairs](/games/photo-pairs/) usa as vosas propias fotos familiares, que a miúdo dan pé ás historias máis ricas.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Podes atopar máis ideas nas nosas guías sobre [actividades para lembrar](/activities/reminiscence/) e [consellos para comunicar](/caregiving/communication-tips/).
 
-## When should we stop?
+## Cando deberiamos parar?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Para aos primeiros sinais de cansazo ou malestar, e mellor un pouco antes. A Alzheimer's Association aconsella deter ou cambiar unha actividade cando baixa a atención ou aumenta a frustración.
 
-Watch for:
+Fíxate nestes sinais:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- bocexos, corpo encorvado ou mirada que se afasta da pantalla;
+- inquietude, levantarse ou pedir marchar;
+- suspirar, respostas curtas ou «non se me dá ben isto»;
+- tocar ao chou ou apartar o dispositivo;
+- bágoas, irritación ou un cambio repentino de humor.
 
-How to stop well:
+Como parar ben:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Remata con algo fácil.** Un último emparellamento que poida facer ou unha imaxe final para mirar con calma.
+- **Fai que a decisión pareza túa.** «Apetéceme tomar un té. Paramos aquí?» evita calquera idea de que o fixo mal.
+- **Pasade a algo físico ou relaxante.** Un paseo curto, un petisco, dobrar a roupa ou escoitar música.
+- **Di algo cariñoso.** «Gustoume facer isto contigo.» Sen eloxios por «acertar», só o gusto de compartir ese tempo.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Acabar antes, cambiar de plans ou deixar o xogo e simplemente estar xuntos son tamén bos resultados.
 
-## Can we play in a group or over a video call?
+## Podemos xogar en grupo ou por videochamada?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Si, cunha pequena preparación extra. Nun grupo, que sexa pouca xente, senta persoas que axuden ao carón de quen o necesite e escolle un xogo cun foco compartido claro. [Picture Bingo](/games/picture-bingo/) ten tarxetas para imprimir e un presentador en pantalla para grupos. Consulta [actividades para grupos en residencias](/activities/care-home-groups/) para máis ideas.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Nunha videochamada, a persoa que está na chamada pode describir unha imaxe mentres alguén na sala sinala e toca. Fai chamadas curtas e con persoas coñecidas. A nosa guía sobre [chamadas de teléfono e videochamadas](/activities/phone-and-video-calls/) ten máis consellos.
 
-## What if a game just isn't working?
+## E se un xogo simplemente non funciona?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Algúns días nada encaixa, e iso non di nada malo de ti nin da outra persoa. Garda o xogo e proba noutra hora do día, con outro xogo ou sen ningún xogo. Moitas actividades boas non teñen nada que ver coas pantallas: escoitar música, dobrar toallas, mirar un álbum de fotos ou dar un paseo curto. Podes ver máis ideas nas nosas [ideas de actividades](/activities/ideas/).

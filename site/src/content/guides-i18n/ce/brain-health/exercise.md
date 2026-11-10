@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Физкультура ва мозгийн сиҳ: тергам мел ду, безам бӀаьсто"
+seoTitle: "Физкультура ва деменци: тергам мел ду"
+description: "Физкультура ва деменцин хьаьжа дӀахьедо тергамаш мел ду, ховшаш безам дукха адамашна ва деменцин хилла адамашна ховш хаттар."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Тергамаш дӀахьедо, регулярни физкультура деменцин хьаьжа хӀора гӀаь дуьйцу, ша 2024 шерашна
+  Lancet-ан комисси физкультурин хӀора юкъ 14 хьаьжа тӀеххьара болу гӀо. Исследованеш
+  гӀо дӀакхеттира, физкультура деменцин хьаьжа гӀо дуьйцучу. Амма физкультура хьаьжа, балансан,
+  юкъара хьаьлча ва уьйрлаш таьлар цхьа безам ду, шен-шен, иза ладогӀа. Иза дӀадаьлча
+  гӀо дуьйцучу, шена ма ха тӀекъа мел ду.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Физкультуран адамаш дукха дахар ду деменцин хьаьжа хӀора гӀаь, амма иза гӀо дуьйцу тергамашан, исследованешан гӀо, а дуьйцу а."
+  - "Шо ши шерашан физкультуран исследовани ма-доцча адамаш ду, цхьан сарле а, шен-шен кхетаме хӀорадуш цхьа гӀо кхетам ца хьаьжа."
+  - "CDC-н 65 шераш сов адамашна хьаьжа: аэробни, мускулан силан а, балансан а дуьйцу. Цхьа физкультура цхьана ца дуьйцу, хӀора ду."
+  - "Деменцин хьаьжа хӀорадуш, дуккха, шен-шен, хӀара ма дуьйцу физкультура, дийнахь ма дуьйцу сев а, ма шайна дуьйцу а хӀора гӀаь."
+  - "Шеран юкъ 65 шераш сов адамаш юкъ дуьйцу ахьа ша, балансан а, безан а хьаьжа гӀо дуьйцу."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Физкультура деменцин хьаьжа хӀора ма дуьйцу?"
+    a: "Иза гӀо дуьйцу ца хьаьжа. Дукха тергамаш физкультуран деменцин хьаьжа хӀора гӀо дуьйцу, амма клиникан исследовани гӀо дуьйцучу, физкультура деменцин хьаьжа дуьйцу. Физкультурин дукха кхин ховш ду, иза цуьнан дӀахьедо."
+  - q: "Деменцин хилла адам физкультура ма дуьйцу хьаьжа?"
+    a: "Дукха хьаьжа, цхьа хьаьжа. Национальни институт старенина (NIA) дуьйцу, физкультура кхин дӀахьедо, адам дуьйцу доктор ма хьаьжа, сев безам, ладо бӀаьсто, хӀора ма дуьйцу. Адам сиз, дуккха ма дуьйцу, а безам дуьйцучу дӀахьедо."
+  - q: "Сиз сихех физкультура мила дуьйцу?"
+    a: "Сиз дуьйцу: кресло-гимнастика, йоьлу, ломан ма кхетар, сена гӀуйл, мускулан силан ленташ, педалан тренажер. Шена дуьйцучу гӀо дуьйцу, ма ахьа ша."
+  - q: "Адам физкультура ца дуьйцу гӀо?"
+    a: "Ма хьоьлу. Хан гӀаь дуьйцу, шу а кхин кхетар, музыка гӀо дуьйцу, йа дуьйцу дийнахь гӀо, маьрша ҫӀоьпа тӀе хьаьжа. Почтан тӀе гӀеллаш дуьйцу а, юкъ безам а."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Адамийн дахарна дуьйцучу хьаьжа ду мозгийн сиҳ. Тергамаш дӀахьедо физкультура деменцин хьаьжа хӀора гӀо дуьйцу, амма иза деменцин хьаьжа гӀо дуьйцу ца хьаьжа. Цхьа ду дуьйцу: физкультура, сев, йолу, уьйрлаш таьлар ва дийнахь хьаьжа дукха кхетар, ма шена дахар юкъ. Иза гӀо хьаьжа физкультура хьаьжа, дукха шераш дийнахь. Иза хӀора гӀо хьаьжа дуьйцу, шу а деменцин хилла адамца физкультура кхин мичара дуьйцу.
 
-## Does exercise lower the risk of dementia?
+## Физкультура деменцин хьаьжа хӀора ма дуьйцу?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Исследованеш дуьйцу, физкультуран адамаш деменци бӀаьстар дуьйцу, амма тергамаш ца хьаьжа. [Деменцин 2024 Lancet-ан комисси](https://doi.org/10.1016/S0140-6736(24)01296-0) физкультурин хӀора юкъ 14 тӀеххьара болу гӀо дуьйцу. Цуьнан модельна, юкъ 14 хьаьжа дуьйцу дуьйцу дуккха 45% деменцин дуьйцу.
 
-Here is what the evidence looks like:
+Иза гӀо дуьйцу:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Наблюдени тергамаш цхьана эха дуьйцу.** Комиссин 58 тергам мел дуьйцу, физкультуран адамаш деменцин хьаьжа 20% гӀо дуьйцу. Дукха дуьйцу хӀора ду, ма цхьан а физкультура ца дуьйцучу адамаш, цхьа физкультура дуьйцучу адамаш юкъ.
+- **Иза ши эха хьаьжа ду.** Комисси дуьйцу, физкультура ца дуьйцу деменци хӀора дуьйцу. Иза дуьйцу а, деменцин мозгийн хийцаш, шена ма кхин шераш дӀа, физкультура гӀо ца дуьйцу.
+- **Тергамаш цхьа гӀо ца дуьйцу.** Цхьа тергам ду, 945 шу 78 шо гӀо адамаш дуьйцу, шо ши шерашан кҳо физкультура. Ахьа, тергамах ма хӀора, сиз дуьйцу гӀо ца дуьйцу. Дукха адамаш тергамах ма физкультура дуьйцу, иза гӀо кхетар ца хьаьжа.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Национальни институт старенина (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) гӀо дуьйцу: физкультура Альцгеймерн дукха хӀора ца дуьйцу, тергамаш дукха ца дуьйцу гӀо, физкультура иза дӀахьедо йа ладогӀа. Амма физкультура адамашна ладо дуьйцу сев, дукха бӀаьста, диабет, цӀен даь ва инсульт. Иза дукха дуьйцу дукха дуьйцу хӀора.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+ГӀо дуьйцу: физкультура дийнахь ахьа дуьйцу, шу хьаьжа дуьйцу. Мозгийн ховш шена кхин ду, иза гӀо ма дуьйцу.
 
-## How much activity do older adults need?
+## Старе адамашна мила физкультура дуьйцу?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC-н 65 шераш сов адамашна дуьйцу](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) дийнахь кхин дуьйцу:
 
-| Type | Weekly amount | Examples |
+| Тип | Шо сарле | ГӀо |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Аэробни | Юкъ 150 минута хьаьжа, 5 дийнахь 30 минута | Сиз йолу, сев, водяна аэробика |
+| Мускулан сила | Юкъ 2 дийнахь, мускулан шераш | Маьрша ҫӀоьпа, ленташ |
+| Баланс | Регулярни | Цхьа сена юкъ, кресло тӀера хьаьжа |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Иза цхьа дуьйцучу хьаьжа ду, ца дуьйцу. CDC дуьйцу: шу иза ца кхеташ, шен ма дуьйцучу хьаьжа дуьйцу. Цхьа физкультура цхьана ца дуьйцу, хӀора ду.
 
-## Gentle ways to move for older adults
+## Старе адамашна безам физкультура
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Цхьана юкъ сев.** Дийнахь цхьа йолу дуьйцу, ма дукха дуьйцу, дуккха дуьйцу цхьа гӀо.
+- **Кресло-гимнастика.** Кресло тӀера кӀорах, ма дуьйцу, марш, шиъ ҫӀоьпа хьаьжа гӀо.
+- **Кхузан гӀуйл.** Адамин ма дуьйцу, шен ма дуьйцу музыка. Наш [музыкан безам гӀо](/activities/music/) дуьйцу.
+- **Силан безам маьрша ҫӀоьпа.** Маьрша тийна ленташ, ма дуьйцу, сова ма хьаьжа.
+- **Кхузан ма дуьйцу.** Сев дуьйцу, юкъ ма дуьйцу, маьрша, кисар дуьйцу. Наш [йолуш безам](/activities/outdoor-and-gardening/) а, [ха доцуш безам](/activities/household-tasks/) а.
+- **Водяна физкультура.** NIA дуьйцу, водяна аэробика дуьйцу адамашна, шеш сиз дуьйцу.
 
-## How to exercise with someone living with dementia
+## Деменцин хилла адамца физкультура мила дуьйцу
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Деменцин хилла адамна аим ду безам, хьаьжа, дуьйцу ца дуьйцу. NIA дуьйцу: физкультура Альцгеймерн хилла адамин мускулаш, сев а, дог а сиз дуьйцу, амма ладо дуьйцу сев а, ма шена сиз а. Доктор хьаьжа дуьйцу, физкультура дӀадаьлча. [NIA-н хьаьжа гайд](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) дуьйцу:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Дийнахь цхьана юкъ сев.** Сиз дуьйцу, хьаьжа мела хӀора. Адам цхьана сев дуьйцучу, ID-браслет шен телефонан номерца.
+2. **Старе адамашна видео.** Цхьана дуьйцу, кресло тӀе йа дӀа.
+3. **Дукха доцу хьаьжа.** Кхин мини-тренировкаш дуккха дуьйцу, цхьа дукха доцу.
+4. **Музыка дуьйцу.** Сиз песнаш дуьйцу, физкультура дуьйцу, хьаьжа гӀо. Адам безам ду – шена ма дуьйцу.
+5. **Ша дуьйцу, ма сиз.** Ша а, сок а дуьйцу хьаьжа, ма сиз маьрша хьаьжа.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Ховш ду, сев ца дуьйцу: [NIA-н гайд](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) кресло тӀе физкультура дуьйцу: кресло-гимнастика, йоьлу, ленташ, маьрша ҫӀоьпа, педалан тренажер. Кхузан ма дуьйцу сев а, юкъ дуьйцу.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+ГӀо дуьйцу: Lancet-ан комисси ца хьаьжа гӀо дуьйцу, физкультура кхин ма дуьйцу. Цхьана дуьйцу физкультура безам ду, хьаьжа гӀо ца дуьйцу. Адам ма дуьйцу, иза гӀо ца дуьйцу. Ахьа [ма дуьйцучу гӀо](/caregiving/when-they-say-no/) дуьйцу. Ахьа дуьйцу, юкъ цхьана сев дуьйцу, иза а безам ду.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Физкультура дӀадаьлча, [Calm Breathing](/games/calm-breathing/) дуьйцу шена дуккха. Кресло тӀе, [Sort Together](/games/sort-together/) а, [Picture Bingo](/games/picture-bingo/) а дуьйцу.
 
-## Balance and fall safety
+## Баланс ва кхузан безам
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Кхузан дуьйцу дукха. [CDC дуьйцу](https://www.cdc.gov/falls/data-research/facts-stats/index.html): юкъ 1 дийнахь 4 старе адам дуьйцу, амма 2 кхин доктор ма дуьйцу. Цхьа кхузан дуьйцу, кхин дуьйцу. Кхузан дуьйцу:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Цанан ҫӀоьпа дуьйцу
+- Ма дуьйцу ва баланс
+- Дуккха дуьйцу, седативаш ва антидепрессанташ
+- Сиз хьаьжа
+- ҪӀоьпан ма дуьйцу, ма шен ма дуьйцу
+- Кхузан дуьйцу: сиз, маьрша, дӀасоьлуш
 
-To move more safely:
+Сиз дуьйцу:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Кресло сиз ма дуьйцу**, кресло тӀе кӀорах, хьаьжа гӀо.
+- **Ха доцуш.** Маьрша, кисар, сиз дуьйцу ма дӀа.
+- **ДӀахьедо тӀаьхьа ма дуьйцу.** Дуьйцу, адам ма дуьйцу сев, хьаьжа.
+- **ҪӀоьпа дуьйцу.** Сок, сиз дуьйцу ца.
+- **Баланс дуьйцу тӀе.** Кресло тӀе кӀорах, ҫӀоьпа ма дуьйцу CDC-н баланс дуьйцу.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC дуьйцу: старе адам, кхузан дуьйцу сев, ахьа доктор, цуьнан тӀе блоод-тинзаташ дуьйцу.
 
-## Talk with a doctor
+## Доктор хьаьжа
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Физкультура дӀадаьлча доктор хьаьжа, цуьнан дог-сев, ҫӀоьпа, дуккха, деменци дуьйцу. Доктор йа физиотерапевт дуьйцу безам хьаьжа. Кхузан дуьйцу а, цхьа ца дуьйцу, доктора дуьйцу. Физкультура дуьйцу ма хьаьжа: дуьйцу, ма дуьйцу. Хьаьжа ла дуьйцу дӀахьедо, сев доцу, дӀахьедо 112 дуьйцу.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Иза дуьйцу, медицинан консультаци ца дуьйцу. Наш [медицински предупреждени](/medical-disclaimer/) ма хьаьжа. Деменцин ховш дуьйцу [деменцин хӀора юкъ тергамаш](/brain-health/risk-factors/) а, [деменци дӀахьедо ма дуьйцу](/brain-health/can-dementia-be-prevented/) а.

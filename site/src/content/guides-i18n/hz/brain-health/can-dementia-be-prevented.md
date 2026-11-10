@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Oviṋa vyomutjise wokuzemba mape ya okutjindwa? Oure womakonḓononeno"
+seoTitle: "Oviṋa vyomutjise wokuzemba: Oure womakonḓononeno"
+description: "Omakonḓononeno wa Lancet Commission 2024 nawa kweṱe omuano wokuyarura oviṋa vyoumba mbya ṋuṋisa omutjise wokuzemba, na imbi mbi hiya vaza, noviṋa mbya sokuhungirirwa konganga."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Kape nomundu ngu ma yenene okutya omutjise wokuzemba mau tjindwa. Lancet
+  Commission 2024 ya varere kutja oviṋa vyomutjise wokuzemba mouye auhe mbi ri
+  kombanda ya 45% vi ṱuna koumba 14 mbu mau yenene okurundururwa, tjimuna
+  ombinḓu ndji ri kombanda, ouṱiṱi wokuzuva nouharupu. Omakonḓononeno ya raisa
+  ouṋa ouṱiṱi momarorero womazemburukiro, posi ya kayeno ouhatoi wokutja ovandu
+  veṱiṱi mave verwa i yomutjise wokuzemba. Ovandu ovengi mbe tjita oviṋa avihe
+  “nawa” wina mave verwa i yomutjise wokuzemba, nu kape nondjo yomundu.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Lancet Commission 2024 ya ṱuna oviṋa vyomutjise wokuzemba mouye auhe mbi ri kombanda ya 45% koumba 14 mbu mau yenene okurundururwa. Ihi otjivarero tjovandu ovengi, katjiṋa tji tji kwizikira omundu umwe."
+  - "Okuyarura oumba ku heya okuyarura omiano vyokukambura omutjise movandu ovengi. Kaku hee kutja omundu umwe ma yenene okuhina okutjindwa i yomutjise wokuzemba."
+  - "Omakonḓononeno omanene tjimuna FINGER, US POINTER na SPRINT MIND ya muna ouwa ouṱiṱi momarorero womazemburukiro poo momauzeu omaṱiṱi womazemburukiro, posi kape na rimwe nda raisa kutja omuhunga womuinyo u tjinda omutjise wokuzemba."
+  - "Ozombura ozengi otjiṋa otjinene tji matji tjivwa tji tji ṋuṋisa oumba womutjise wa Alzheimer, nu katji yenene okurundururwa. Ovandu ovengi novitjitwa oviwa vyomuinyo wina ve vera omutjise wokuzemba."
+  - "Oviṋa mbi konḓononwa tjinene, tjimuna okuverura ombinḓu ndji ri kombanda, okurihandisa ovitjipahise vyokuzuva nokukara norutu ndu ru ungura, vi sokuhungirirwa konganga mena rokutja vi vatera ouveruke momiano vyarwe wina."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Omutjise wokuzemba mau yenene okutjindwa?"
+    a: "Kape nomuano mbwa raisiwa wokutjinda omutjise wokuzemba komundu auhe. Omakonḓononeno maye raisa kutja okuyarura oumba tjiva, tjimuna ombinḓu ndji ri kombanda, ouṱiṱi wokuzuva mbu hi na okuverurwa nokupitwa omakaya, mape ya okuyarura omiano vyomutjise wokuzemba movandu ovengi poo okutjita kutja u ute kombunda. Oviṋa mbi omiano vyomiano uriri, kaviṋa omakwizikiro."
+  - q: "Ondengu ndji ri 45% okuza ku Lancet Commission mai hee tjike?"
+    a: "Lancet Commission 2024 ya varere kutja oviṋa vyomutjise wokuzemba mouye auhe mbi ri kombanda ya 45% vi ṱuna koumba 14 mbu mau yenene okurundururwa. Otjivarero hi tji kambura kutja oumba mbwo u eta omutjise wokuzemba, nu ovatjange ve tja ouṱunḓu tjiva mau yenene okukara ouṱiṱi uriri. Tji hungira ohunga novandu ovengi nu katji hungirire oumba womundu umwe."
+  - q: "Tate poo mama wandje aa ri nomuinyo omuwa, nu va vera omutjise wokuzemba mena ratjike?"
+    a: "Ozombura, omihoko vyetu noviṋa ovingi omundu mbya hi yenene okuhonaparera vi nouṋa ounene momutjise wokuzemba. Ovatjange va Lancet Commission ve tja okuyarura oumba movandu ovengi kaku kwizikire kutja omundu umwe ke nokutjindwa i womutjise wokuzemba. Okutja omundu wa verwa kaku hee kutja pe nomundu ngwa pandjara."
+  - q: "Pa kapitwa okukara kombunda yokuyarura oumba womutjise wokuzemba kombunda yozombura 65?"
+    a: "Lancet Commission mai tja kaku kapitwa rukuru nu kaku kapitwa okukapita rukuru okuyarura oumba, nandarire kutja ouingi wouhatoi u hungira ohunga nomuinyo pokati kozombura. Okuverura omauzeu wokuzuva nokumuna, okukara norutu ndu ru ungura nokukara noupanga novandu ovyo ovihorera vyoviṋa vyomuinyo kombunda mbi vya konḓononwa. Hungirira konganga kutja otjiṋatjike tji tji tjama kouveruke woye."
+  - q: "Omaṋangero wouongo poo ovikurya vyapeke vi tjinda omutjise wokuzemba?"
+    a: "Kape nomaṋangero, otjikurya, omiti vyokuwedisa poo omuhunga wovikurya mbwa raisiwa kutja u tjinda omutjise wokuzemba. Omakonḓononeno womuinyo wozombura ndatu ohunga nomuhunga wovikurya wa MIND kaya muna ombangu onene momazemburukiro tji ya sasanekwa nomuhunga warwe wovikurya, nu omaṋangero wouongo nge randisiwa kaya raisiwa kutja ye nouwa mbu mwa munika momakonḓononeno wouṱiṱiṱiṱi."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Tji mo tjevere omundu ngwa verwa i yomutjise wokuzemba, poo wa muna iho poo nyoko amave hupu na wo, mape ya ove ripura kutja andaku wa tjindwa, nokutja ove mo yenene okutjinda kutja au ha tjitwa kove. Omukanda mbwi u kahurura imbi omakonḓononeno mbi maye tja tjiri, momambo omapupu. Eziriro ekutu: kape nomundu ngu ma yenene okutya omutjise wokuzemba mau tjindwa, posi omakonḓononeno maye raisa kutja oumba tjiva mau yenene okuyarurwa, nokutja okuyarura oumba movandu ovengi mape ya okutjita kutja ovandu veṱiṱi ve verwe i womutjise wokuzemba poo ve u verwe kombunda.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Oviṋa mbi ombazu yomazuviro uriri, kaviṋa omirari vyonganga. Arikana lesa [omaraise wetu ohunga nomiti nouveruke](/medical-disclaimer/) nu hungirira konganga ohunga nouveruke woye oveni.
 
-## Can dementia be prevented?
+## Omutjise wokuzemba mau yenene okutjindwa?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Kape nomuano mbwa raisiwa wokutjinda omutjise wokuzemba komundu auhe. National Institute on Aging (NIA) mai tja nandarire kutja [kape na tjiṋa tji tja raisiwa okukara tji tji tjinda omutjise wa Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), ovakonḓonone ve muna omiano omiwa nu ve rihonga kutja otjiṋatjike tji matji yenene okuungura na tji matji ha yenene okuungura.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Imbi omakonḓononeno mbi maye raisa otjokutja omauzeu womuinyo novitjitwa tjiva vi ṱuna nomiano ominene vyokukambura omutjise wokuzemba. Oumba mbwo tji wa yarurwa movandu ovengi, ovandu veṱiṱi mave yenene okuverwa i womutjise wokuzemba, poo mave yenene okuu verwa kombunda momuinyo wawo. Ihi tji panguka tjinene nokukwizikira.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Otjiraisiro tjimwe tjomaundjiro: Lancet Commission 2024 ya tja moviwa tjiva mbi nomahupiro omanene, tjimuna US na UK, orupa rwovandu ovanene mbe nomutjise wokuzemba rwa keperuka. Ovatjange ve muna kutja ihi mape ya tji za kohino ndji ri nawa, okutjeverwa kouveruke ku ri nawa nokuyarura omihihamo vyomitjise vyombinḓu momuinyo auhe, otja [keziriro ra University College London ohunga nombapira ndjo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Lancet Commission 2024 ya muna tjike?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission on dementia prevention, intervention and care otjombongo yovakonḓonone vomutjise wokuzemba 27 mbe tara rukwao ouhatoi ozombura azehe ozonḓiṱi. Ombapira yawo ya 2024 ya tamuna **oumba 14** mbu mau yenene okurundururwa, nu ya varere kutja auhe pamwe ye eta **kombanda ya 45% woviṋa vyomutjise wokuzemba mouye auhe**. Momambo wovatjange, oviṋa mbi mavi yenene *momeripura* okutjindwa poo okutjazikwa kombunda andaku oumba mbwo wa isapewa ([ombapira ya Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Oumba 14 mbwo, mau tuwa motupa twomuinyo pu pa munika ouhatoi ounene:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Omutanda womuinyo:** ohino ndji ri kehi.
+- **Pokati komuinyo (tjinene ozombura 40 nga 65):** ouṱiṱi wokuzuva, oruvazu rwa LDL (“orurunde”) ndu ri kombanda, omuhihamo womomutima, okuhihamwa motjiuru, ouharupu, omutjise wosuuka, okupitwa omakaya, ombinḓu ndji ri kombanda, ouṋepo ounene, nokunwa omanuwa omengi.
+- **Kombunda momuinyo:** okuhupa ongwaṱiṱi, ombepo ndji hi nawa, nouṱiṱi wokumuna mbu hi na okuverurwa.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Oviṋa vivari ovipe mu 2024 vya ri oruvazu rwa LDL ndu ri kombanda nouṱiṱi wokumuna mbu hi na okuverurwa. Oviṋa mbi ṱuna norupa orunene rwoviṋa vya ri ouṱiṱi wokuzuva noruvazu rwa LDL ndu ri kombanda (avihe kombanda ya 7%), nu kwa kongorera ohino ndji ri kehi nokuhupa ongwaṱiṱi (avihe kombanda ya 5%).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Omuhunga wetu woumba](/brain-health/risk-factors/) u hungirira oumba 14 auhe motjimbara, nouhatoi nomiano vyokutjita.
 
-### What the 45% figure does not mean
+### Ondengu ndji ri 45% kai hee tjike
 
-It is easy to misread this number, so it helps to be precise:
+Okupenga ondengu ndji ku pupu, notji ri nawa okuyizuva nawa:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Otjivarero tjovandu ovengi.** Tji hungira oviṋa vyomutjise wokuzemba mouye auhe, katji hungire omiano vyoye poo vyaiho poo vyanyoko.
+- **Tji kambura kutja pe notjiṋa tji tji eta otjiṋa tjarwe.** Ovatjange ve tja va toorora oumba mbu nouhatoi mbu mau kwizikwa, posi ouṱunḓu tjiva mau yenene okukara ouṱiṱi uriri. Otjotjihorera, omuhihamo womomutima kombunda momuinyo mau yenene povikando tjiva okukara otjiraisiro otjitenga tjomutjise wokuzemba, katjiṋa tji tji eta omutjise.
+- **Katji kwizikire otjiṋa komundu umwe.** Eziriro ra UCL ri tja okuyarura oumba ku ungura movandu ovengi nu kaku kwizikire kutja omundu umwe ke nokutjindwa i womutjise wokuzemba.
+- **Orupa rwarwe karu kahururirwe i youmba mbwi.** Ozombura, omihoko vyetu noviṋa ovakonḓonone mbi ve hiya zuva nawa vi eta orupa rwarwe.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Ombangu pokati ka “okuyarura oumba” na “okutjinda” iṋe?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Okuyarura oumba** ku heya okuyarura omiano vyomiano. Otjimbumba otjinene tjovandu tji tja yarura ombinḓu yawo ndji ri kombanda, veṱiṱi mu wo mave yenene okuverwa i womutjise wokuzemba mozombura ozengi okukapita imba mbu mave verwa. Ovandu tjiva motjimbumba ho mave yenene okuu verwa.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Okutjinda** ku raisa okutjita kutja otjiṋa atji ha tjitwa kaparukaze. Komutjise wokuzemba, ihi katjiṋa omakonḓononeno tji maye yenene okukwizikira omundu ndino.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ovakonḓonone wina ve hungira ohunga **nokutjazika kombunda**. Lancet Commission mai tja pe nouhatoi oupe wokutja okuyarura oumba mape ya okutjita kutja omutjise wokuzemba u ute kombunda nokutjita kutja oruveze omundu ndwa kara nouveruke mbu u hi nawa ru kare orusupi. Nandarire okutjazikwa kozombura ozonḓiṱi ku nouṋa ounene komundu neṱunḓu re.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Morupa ndwi, eṱe tu ungurisa “okuyarura oumba” na “ku ṱuna na” tjinangara. Tji wa munu otjiṋa, omiti vyokuwedisa poo omuhanga mbu mau kwizike “okutjinda omutjise wa Alzheimer”, ri tjevera na wo. NIA mai tja hungirira konganga ngunda au hiya rora omuti auhe poo okuverura ku ku kwizika okutjinda omutjise wa Alzheimer, mena rokutja oviṋa mbi mavi yenene okukara ovihakohoke, okurihahiza ovimariva, poo aviyevari.
 
-## What have large trials found?
+## Omakonḓononeno omanene ya muna tjike?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Omakonḓononeno nge tara imbi mbi tjitwa kovandu moruveze ye raisa ouṱunḓu. Omakonḓononeno womerorero, mu ovandu mu va tuwa motjimbumba tjomuhunga poo otjimbumba tjokusasaneka, owo omarorero omanamasa. Imba omakonḓononeno tjiva omanamasa tji ya muna.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Omakonḓononeno wa FINGER ya toorora ovandu 1,260 vozombura 60 nga 77 mba ri noumba ounene womutjise wokuzemba. Oruveze rwawo rwa muna omuhunga wozombura mbari womeriyandjerero wovikurya, omanyando worutu, omaṋangero wouongo mokombiuta nokukonḓonona ouveruke womutima nomitjise vyombinḓu; oruveze rwarwe rwa muna omirari vyouveruke uriri. Otjimbumba tjomuhanga tja tjita nawa kaṱiṱi momarorero womazemburukiro, ombangu onḓiṱi posi ndji mai munika ([omakonḓononeno wa FINGER mu The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Omakonḓononeno ya saneka omaziriro womarorero, kaviṋa omatjangero womutjise wokuzemba.
 
 ### US POINTER (United States)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER ya toorora ovandu 2,111 vozombura 60 nga 79 mba ha ri norutu ndu ru ungura, mba ri novikurya mbi hi nawa nu mba ri noumba warwe. Ovandu motjimbumba aviyevari va tunduurirwa okukara norutu ndu ru ungura nomazemburukiro, okuria nawa, okukara novandu nokukonḓonona ouveruke womutima. Otjimbumba tjimwe tja muna omuhunga mbwa hongorerwa nu mbwa vaterwa; otjimbumba tjarwe tje rihongorera atjini. Mozombura mbari, omaziriro womarorero womazemburukiro ye ririra ko nawa **movimbumba aviyevari**, nu kaṱiṱi okukapita motjimbumba tji tja hongorerwa ([omakonḓononeno wa US POINTER mu JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Ovatjange ve tja pa hepa okukongorera rukwao okutjiwa kutja ombangu ndjo i nouṋa mehupo eyuva arihe. Mena rokutja kapa ri notjimbumba “tji hi nokutjita otjiṋa”, omakonḓononeno maye ha yenene okutya omuhunga auhe wa vatera vi tji wa sasanekwa nokuhinokurundurura otjiṋa.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (ombinḓu ndji ri kombanda)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND ya konḓonona ovandu 9,361 vozombura 50 nokombanda mo-US mba ri nombinḓu ndji ri kombanda. Va tuwa kondando yombinḓu ndji ri kehi (ondengu yokombanda kehi ya 120) poo kondando ya pokati (kehi ya 140). Ondando ndji ri kehi ya yarura tjinene **omauzeu omaṱiṱi womazemburukiro**, oruveze rwomauzeu womazemburukiro nomeripura ndu ru yenena okukara komurungu womutjise wokuzemba. Ku **omutjise wokuzemba mbu mau munika**, pa ri noviṋa oviṱiṱi motjimbumba tjondando ndji ri kehi, posi ombangu kaya ri onene momiano vyomarorero. Omakonḓononeno ya yanda rukuru nu pa ri noviṋa oviṱiṱi vyomutjise wokuzemba okukapita pu pa undjirirwa, notji tji heya kutja mape ya ya ri omaṱiṱi okuyandja eziriro kepuriro ndo ([SPRINT MIND mu JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Omatarero omaṱunḓu maye tja tjike pamwe
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Omutarero wa Cochrane wa 2021 wa wana omakonḓononeno omanene muvyu vyomihunga mbi vyarura oumba ouingi pamwe, novandu kombanda ya 18,000. Wa muna ouwa ouṱiṱi momarorero womazemburukiro, posi **kapa ri nombangu ndji mai munika movandu vengapi mba verwa i yomutjise wokuzemba** momakonḓononeno yevari nga saneka otjiṋa ho ([omutarero wa Cochrane wohunga nomihunga vyoviṋa ovingi](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Omutarero wa 2017 okuza ku National Academies of Sciences, Engineering, and Medicine, mbwa kahururwa i NIA, wa muna ouhatoi “mbu mau yandja omaundjiro posi mbu hi ya yenenisiwa” komiano vitatu: okurisa ombinḓu ndji ri kombanda, okuwongera omanyando worutu, nomerihongero womazemburukiro.
 
-## Does it matter when you start?
+## Ma sokutjitwa ruṋe?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Eronga ra Lancet Commission okuyarura oumba tji tji yenena rukuru nokukeeṱa ye ri kehi oure auhe tji tji yenena: “okutenga, opuwo opuwa” na “oure, opuwo opuwa.” Wina ri tja kaku kapitwa rukuru nu kaku kapitwa okukapita rukuru okuyarura oumba. Ouingi wouhatoi u hungira ohunga nomuinyo pokati kozombura, tjinene ozombura 40 nga 65, posi oviṋa tjiva, tjimuna ouṱiṱi wokumuna nokuhupa ongwaṱiṱi, oumba womuinyo wokombunda pu pa sokutjitwa otjiṋa.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Ombapira mai tja nai pe nouhatoi ounamasa wokutja okukara noumba orure ku nounḓengu ounene. Otjotjihorera, omutjise wosuuka mbu wa uta pokati komuinyo mau munika ounaṋḓengu okukapita omutjise wosuuka mbu wa uta kombunda.
 
-## Is dementia risk the same for everyone?
+## Oumba womutjise wokuzemba u ṱeki pamwe kovandu avehe?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Kako. Okomiti ya muna kutja ovandu mohi ozondjona nozo pokati komahupiro, ovandu vozombazu ozonḓiṱi novandu mbe novimariva oviṱiṱi potuingi ve noumba ounene, nomutjise wokuzemba u utu potuingi pozombura ozombura. Oumba ouingi u ṱuna nomaundiro omundu nga ha toorora, tjimuna ouwa wohino ndja muna otjomuatje, ombepo pu va tura, nokutja ovikurya oviwa vi yenena okurandwa nokumunika popezu.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Ongwaye omaronga wa Okomiti maye yandjwa kozohoromende otja tji maye yandjwa kovandu: ohino ombwa kovanatje avehe, ombepo ombomba, omiano vyokuyarura okupitwa omakaya, osuuuka nomongwa oviṱiṱi movikurya mbi randisiwa mozovitura nomozorestoranda, novitjipahise vyokuzuva kovandu avehe mbe vi hepa. Omaz 노력 womundu ye nouṋa, posi nouye ovandu mu ve hupa wina u nouṋa. Ihi otjiṋa tjarwe tji tji tja kutja omundu ke sokupa ondjo ohunga nomutjise.
 
-## What are the honest limits of this research?
+## Ouṋepo wouhatoi mbwi u ri pi?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Omutjise wokuzemba u kambura ozombura ozengi okukura**, posi omakonḓononeno omengi ye kara ozombura mbari nga ndano. Okusaneka omutjise oveni, komurungu womarorero uriri, ku hepa omakonḓononeno omare tjinene nomengi tjinene.
+- **Omakonḓononeno omengi ye saneka omarorero womazemburukiro.** Okurira ko nawa okaṱiṱi momarorero kaku hee kutja ovandu veṱiṱi mave verwa i yomutjise wokuzemba poo kutja ehupo eyuva arihe mari rire epupu.
+- **Ovandu mbe ri tjange okuvatera potuingi ve nouveruke omuwa** nohino onyingi okukapita ovandu avehe. Lancet Commission mai tja ouingi wouhatoi auhe u ya koza moviwa mbi nomahupiro omanene nokutja ovandu vozombazu ozonḓiṱi kave mo tjinene.
+- **Ouṱunḓu tjiva u ryanga momiano vivari.** Okukara nouharupu poo okukara ongwaṱiṱi ku yenena okukara otjiraisiro otjitenga tjomutjise wokuzemba, katjiṋa tji tji eta uriri.
+- **Omakonḓononeno wovikurya ye hi nawa nga mba.** Omakonḓononeno womuinyo wozombura ndatu ohunga nomuhunga wovikurya wa MIND kaya muna ombangu onene momazemburukiro tji ya sasanekwa nomuhunga warwe wovikurya. Tara [omuhunga wetu wovikurya](/brain-health/diet/).
+- **Omaṋangero wouongo kaye raisiwa okutjinda omutjise wokuzemba.** Tara omuhunga wetu [ohunga nomaṋangero wouongo nomutjise wokuzemba](/brain-health/brain-games/).
+- **Okuritjaera ovikurya ku nouhatoi ouṱiṱi movandu**, nu ku yenena okukara ouhakohoke kovandu ovanene. Tara [omuhunga wetu wokuritjaera ovikurya](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Omundu tja tjita oviṋa avihe “nawa”, wa verere omutjise wokuzemba mena ratjike?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Mena rokutja omutjise wokuzemba kau zu komatoororero uriri. NIA mai tja [ozombura ozengi otjiṋa otjinene tji matji tjivwa tji tji ṋuṋisa oumba womutjise wa Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), nu kape nomundu ngu ma yenene okutjirundurura. Omihoko vyetu vi nouṋa. Nu ovakonḓonone ngamba kave ya zuva nawa kutja otjiṋatjike tji tji eta omutjise wa Alzheimer movandu ovengi. Nandarire kutja oumba 14 auhe andaku wa isapewa, otjivarero tja Lancet Commission oveni tji tja imba oviṋa vyomutjise kombanda yorupa nouṱiṱi.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Notji, tji mo tjevere omundu ngwaa nyanda, aa ri ovikurya oviwa, kaa pwita omakaya nu ngwa verwa omutjise wokuzemba, kape na tjiṋa tja ri posyo ku ye, poo kove. Ove tji u nomutjise wokuzemba, kaye ondjo yoye. Ondjo potuingi i kara movandu veṱunḓu, posi kai pwire. Otjiṋa tji tji nouṋa nai ohange, oupanga nomayuva omawa, nomiano vyetu [vyovitjitwa](/activities/ideas/) nomuhunga wetu [wokuritjevera tji u ri omutjevere](/caregiving/caregiver-self-care/) omapu omawa okutenga.
 
-## What steps can you talk over with a doctor?
+## Oviṋatjike mbi mo yenene okuhungirira konganga?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Oviṋa mbi ovyo mbi konḓononwa tjinene. Vi ri nawa okuvitamuna pokuya konganga mena rokutja ovingi mu vyo vi vatera ouveruke womutima, omuinyo womomutima nokuriyama oveni wina, kutja mavi ṱunu vi komutjise wokuzemba.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Ombinḓu ndji ri kombanda.** Pura kutja ozondengu zoye ze ri vi nokutja ondando iṋe ndji mai tjama kove. Lancet Commission mai tja pa sokuripura ondando yombinḓu yokombanda ndji ri 130 poo kehi okuza kombanda yozombura 40, posi ondando ndji ri nawa komundu omunene i ṱuna kouveruke we auhe.
+2. **Okuzuva.** Pura omarorero wokuzuva, nokutja ovitjipahise vyokuzuva mavi yenene okuvatera. [Omuhunga wetu wokuzuva](/brain-health/hearing/) u kahurura omakonḓononeno.
+3. **Okumuna.** Kara nomakonḓononeno womaho aruhe nu pura kutja omauzeu tjimuna omaho omavapa ye yenena okuverurwa.
+4. **Oruvazu rwombinḓu.** Pura kutja oruvazu rwoye rwa LDL ru sokukonḓononwa nokutja pe notjiṋa tji matji sokurunduruka.
+5. **Osuuka yombinḓu.** Tji u nomutjise wosuuka, pura kutja mo yenene vi okuurisa nawa nouṱakame.
+6. **Omuinyo womomutima.** Omuhihamo womomutima u tjitwa potuingi nu u verurwa. Raera onganga yoye tji wa kara nomuhihamo womomutima poo wa pandjara ondjoroka moviṋa oure wovivike vivari poo okukapita.
+7. **Okupitwa omakaya nomanuwa.** Pura ombatero yokuyaruka okupitwa omakaya nohunga nomiano omawa wokunwa omanuwa.
+8. **Omakinyukiro.** Pura kutja omuhingo uṋe womanyando worutu mbu ri omuṱakame kove. [Omuhunga wetu womanyando worutu](/brain-health/exercise/) u nozondunge.
+9. **Okuritjevera otjiuru.** Zara ekori tji mo tjindi okanyati poo tji mo nyanda omanyando nge nomahakaeneno, nu pura ohunga nomiano vyokuritjaera okuwira.
+10. **Okukara novandu.** Oruveze novandu varwe orupa rwomuinyo omuwa. Tara omuhunga wetu [wokukara noupanga novandu](/brain-health/social-connection/), na [omaraṱero](/brain-health/sleep/) wina.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Ngunda au hiya rundurura omiti, ovikurya, omiti vyokuwedisa, okuritjaera ovikurya poo omanyando worutu, hungirira konganga rutenga, tjinene tji u nouzeu womutima, omutjise wosuuka, ombango yokuwira, poo tji u nomutjise wokuzemba nai.
 
-## Talk with a doctor
+## Hungirira konganga
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Tji wa munu omarundurukiro womazemburukiro poo womazemburukiro nge ku ṋiṋika, move poo momundu warwe, ninga eyuva rokuyenda konganga. NIA mai tja [omauzeu womazemburukiro ye yenena okukara nozondando zarwe](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), tjimuna omihihamo vyomiti, omauzeu wehoro rotjiuru (thyroid), omuhihamo womomutima poo ouviṱi wa vitamin B12, nokutja omauzeu tjiva ye yanda tji ondando ya munika ya verurwa. [Omuhunga wetu woviraisiro vyokutjevera](/brain-health/warning-signs/) u kahurura imbi mbi sokutarerwa.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Paha ombatero tjimanga** komarundurukiro nge ya tjimanga: omapitarero nge ya tjimanga, oungundi poo okutja pe hi nokuzuva korupa rumwe rorutu, ouzeu wokuhungira, poo otjipiriko otjinamasa tjotjiuru mavi yenene okukara oviraisiro vyombinḓu ndja pandjara mondjira yotjiuru (stroke) poo ouzeu warwe mbu hepa ombatero tjimanga. Ringera 10111.
 
-## Where Golden Moments fits
+## Golden Moments i kara pi
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments i ungura ovitjitwa oviṱiṱiṱiṱi vyokunyanda pamwe, tjimuna [ozokarte zokuhungira](/games/conversation-cards/), [ombingo yozovirongo](/games/picture-bingo/) noruveze [rwokusuva nawa](/games/calm-breathing/). Ovyokuyorokera nokukara pamwe oruveze. Kaviṋa omiti, nu kavi tjindi poo kavi tjazike omutjise wokuzemba.

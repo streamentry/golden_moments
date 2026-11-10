@@ -1,33 +1,28 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "དྲན་ཤེས་ཉམས་པ་དང་ལྷན་དུ་འཚོ་མི་ཚུ་གི་དོན་ལུ་ཚོར་བའི་བྱ་བ།"
+seoTitle: "དྲན་ཤེས་ཉམས་པའི་ཚོར་བའི་བྱ་བ། བསམ་འཆར་དང་ཉེན་སྲུང་།"
+description: "ལག་པའི་བསྐྱོད་བསྒུལ་ལས་འགོ་བཟུང་རས་ཀྱི་སླེབས་དང་རང་བཞིན་གྱི་སྒྲ་ཚུན་གྱི་ཚོར་བའི་བྱ་བ་ཚུ། མགྲིན་པར་འཁར་ཉེན་དང་མཐོང་སྔོན་རྒྱབ་ལེན། དྲི་བཟོད་མི་ཚུགས་པའི་ཉེན་སྲུང་གསལ་བཤད་བཅས།"
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  ཚོར་བའི་བྱ་བ་ཚུ་གིས་རེག་བྱ་དང་དྲི་བ། བྲོ་བ། སྒྲ་དང་མཐོང་བ་ལག་ལེན་འཐབ་ཨིན། དཔེར་ན། ལག་པ་ལུ་དལ་མོ་གིས་བསྐྱོད་བསྒུལ་འབད་ནི། འཇམ་པོའི་རས་ཀྱི་སླེབས། སྔོ་ཚོད་གསརཔ་གི་དྲི་བ་བཏུམ་ནི། རང་བཞིན་གྱི་སྒྲ་ཉན་ནི། ཡང་ན་སྒེའུ་ཁུང་ནང་ལས་བྱ་རིགས་ལུ་བལྟ་ནི་ཚུ་ཨིན། འདི་ཚུ་གི་རིམ་པ་ག་ར་ལུ་འོས་ཤིང་། ཤུལ་མམ་ལུ་ལྷགཔ་ཕན་ཐོགསཔ་འོང་། འགོ་མ་བཙུགས་པའི་ཧེ་མ་མགྲིན་པར་འཁར་ཉེན་དང་། མཐོང་སྔོན་རྒྱབ་ལེན། པགས་པའི་དཀའ་ངལ། དྲི་བཟོད་མི་ཚུགས་པ་ཚུ་ཞིབ་དཔྱད་འབད། ཚར་གཅིག་ལུ་གཅིག་རྐྱངམ་ཅིག་ཕུལ་ཞིནམ་ལས། གང་ཟག་དེ་གིས་བདེ་མི་ཚུགསཔ་བཟུམ་སྦེ་མཐོང་པ་ཅིན་བཀག་བཞག།
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "ཚོར་བའི་བྱ་བ་ཚུ་ལུ་ངེས་བདེན་གྱི་ལན་དགོ་མི་མེདཔ་ལས། ཉལ་ཁྲིའམ་ཁྲི་ཞི་གུ་ཡོད་པའི་སྐབས་རུང་། རིམ་པ་ག་ར་ལུ་འབད་བཏུབ།"
+  - "སྒྲ་མེད་ཁང་མིག་ནང་ཚོར་བ་གཅིག་ལུ་གཅིག་རྐྱངམ་ཅིག་ཕུལ་ཞིནམ་ལས། རེག་པའི་ཧེ་མ་དྲི་བ་དྲིས་པའམ་སླབ།"
+  - "ཆུང་ཀུའི་དངོས་པོ་དང་ཟ་མ་བཟུམ་མཐོང་ཡོད་རུང་ཟ་མ་མེན་པ་ཚུ་བཀག་བཞག། ག་ཅི་སྦེ་ཟེར་བ་ཅིན་མི་ལ་ལོ་ཅིག་གིས་ཁའི་ནང་བཙུགས་འོང་།"
+  - "སྣུམ་དང་དྲི་བཟོད་དངོས་པོ། ཡང་ན་ཟ་མ་ལག་ལེན་མ་འཐབ་པའི་ཧེ་མ་མཐོང་སྔོན་རྒྱབ་ལེན་དང་པགས་པའི་དཀའ་ངལ། དབུགས་ཀྱི་དཀའ་ངལ་ཚུ་ཞིབ་དཔྱད་འབད།"
+  - "དྲི་བཟོད་སྨན་གྱིས་དྲན་ཤེས་ཉམས་པའི་ནད་རྟགས་ལུ་ཕན་ཐོགསཔ་ཟེར་བའི་སྒྲུབ་བྱེད་ཡོད་མི་མེད། ལག་ལེན་འཐབ་ནི་ཨིན་པ་ཅིན་དགའ་ཏོག་ཏོ་ཙམ་གྱི་དོན་ལུ་རྐྱངམ་ཅིག་ལག་ལེན་འཐབ།"
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "དྲན་ཤེས་ཉམས་པ་དང་ལྷན་དུ་འཚོ་མི་གང་རུང་གི་དོན་ལུ་ཚོར་བའི་བྱ་བ་ག་ཅི་ཚུ་ལེགས་ཤོམ་སྦེ་ཡོད?"
+    a: "འཇམ་སམ་སྦེ་བྱ་བའི་བསམ་འཆར་ཚུ་ནང་། སྣུམ་གྱིས་ལག་པ་ལུ་དལ་མོ་གིས་བསྐྱོད་བསྒུལ་འབད་ནི། འཇམ་པོའི་རས་འཇུག་ནི། སྔོ་ཚོད་གསརཔ་ཡང་ན་ཀ་ཕིའི་དྲི་བ་བཏུམ་ནི། དགའ་མི་གླུ་གཞས་ཡང་ན་རང་བཞིན་གྱི་སྒྲ་ཉན་ནི། བྱ་རིགས་ཡང་ན་ཉ་ཁང་ལུ་བལྟ་ནི། དེ་ལས་ཉེན་ཁ་མེད་པའི་གཟུགས་ཐུང་ནང་དགའ་མི་ཟ་མ་ཅིག་མྱང་ནི་ཚུ་ཚུདཔ་ཨིན། ཚར་གཅིག་ལུ་གཅིག་རྐྱངམ་ཅིག་ཕུལ་ཞིནམ་ལས། གང་ཟག་དེ་གིས་ག་དེ་སྦེ་ལན་འདེབས་མི་འདི་ལུ་བལྟ།"
+  - q: "ཁའི་ནང་དངོས་པོ་བཙུགས་ནི་གི་ལཱ་ཡོད་མི་གི་དོན་ལུ་ཚོར་བའི་བྱ་བ་ཚུ་ཉེན་ཁ་མེདཔ་ཨིན་ན?"
+    a: "གཟབ་གཟབ་འབད་བ་ཅིན་ཉེན་ཁ་མེདཔ་འོང་། མགྲིན་པར་མི་འཁར་ནི་བཟུམ་སྦེ་ཆེ་བའི་དངོས་པོ་རྐྱངམ་ཅིག་ལག་ལེན་འཐབ། ཆུང་ཀུ་ཡང་ན་ཆག་སྲིད་པའི་དངོས་པོ་ཚུ་མ་ལག་ལེན་འཐབ། སྣུམ་དང་ཁྲུས་སྣུམ། དྲི་བཟོད་དངོས་པོ་ཚུ་ཤུལ་ལས་ལག་ཐོག་མི་ལྷོད་པའི་ས་གནས་ལུ་བཞག། ག་ཅི་སྦེ་ཟེར་བ་ཅིན་ཟ་མ་བཟུམ་མཐོང་འོང་། དུས་ཚོད་ག་ར་གང་ཟག་དེ་དང་གཅིག་ཁར་སྡོད།"
+  - q: "དྲི་བཟོད་སྨན་གྱིས་དྲན་ཤེས་ཉམས་པ་ལུ་ཕན་ཐོགསཔ་ཨིན་ན?"
+    a: "Cochrane གི་ཞིབ་དཔྱད་ཅིག་གིས་དྲི་བཟོད་སྨན་གྱིས་དྲན་ཤེས་ཉམས་པ་དང་ལྷན་དུ་འཚོ་མི་ཚུ་ལུ་ཕན་ཐོགསཔ་ཟེར་བའི་སྒྲུབ་བྱེད་ཡོད་མི་མ་ཐོབ། ཞིབ་འཇུག་ཚུ་ཆུང་ཀུ་ཨིན་མི་དང་གྲུབ་འབྲས་མཐུན་པོ་མེདཔ་ལས་ཨིན། གང་ཟག་དེ་གིས་དལ་མོ་དང་གོམས་ཡོད་པའི་དྲི་བ་ལུ་དགའ་བ་ཅིན་ལེགས་ཤོམ་ཨིན། དེ་འབདཝ་ད་དབུགས་ཀྱི་དཀའ་ངལ་ཡང་ན་མཐོང་སྔོན་རྒྱབ་ལེན་ཡོད་པའི་ཉེ་འཁོར་ལུ་དྲག་པོའི་དྲི་བཟོད་སྣུམ་ཚུ་ལག་ལེན་མ་འཐབ།"
+  - q: "འཛིན་ནི་ཡང་ན་བྱ་བའི་གོས་ཐུང་ཟེར་མི་འདི་ག་ཅི་སྨོ?"
+    a: "འདི་གིས་རས་ཀྱི་ལེབ་ཡང་ན་གོས་ཐུང་། ཡང་ན་པང་ཁེབས་ཀྱི་སྒང་ལུ་སྒྲོམ་ཆེན་དང་ཁ་འབྱེད། ཕུགས་རིས་དང་ཚོར་བ་སྣ་ཚོགས་ཡོད་པའི་ལེབ་ཚུ་བརྟན་པོ་སྦེ་བཙེམས་ཡོད་མི་ཅིག་ཨིན། འདི་གིས་ལཱ་འབད་དགོ་མི་ལག་པ་ལུ་འཛིན་ནིའི་དངོས་པོ་ཅིག་བྱིནམ་ཨིན། འདྲུད་སྟོན་ཚུགས་པའི་ལྷོད་ཡོད་མི་ཡོད་མེད་དུས་རྒྱུན་དུ་ཞིབ་དཔྱད་འབད།"
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +43,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+ཚོར་བའི་བྱ་བ་ཚུ་གིས་ཚོར་བ་ལྔ་ལག་ལེན་འཐབ་ཨིན། དེ་ཡང་། རེག་བྱ་དང་དྲི་བ། བྲོ་བ། སྒྲ་དང་མཐོང་བ་ཚུ་ཨིན། འདི་ཚུ་ལུ་དྲན་ཐོ་དང་གོ་རིམ། ངེས་བདེན་གྱི་ལན་དགོ་མི་མེདཔ་ལས། རིམ་པ་ག་ར་ལུ་འབད་བཏུབ། ཤུལ་མམ་ལུ་ལྷགཔ་གལ་ཆེ། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) གིས་ཤུལ་མའི་རིམ་པ་ནང་འཛམ་གླིང་འདི་ཚོར་བའི་ཐོག་ལས་རང་ཉམས་སུ་ལེནམ་ཨིན་ཟེར་སླབ་མི་དང་། རེག་བྱ་དང་སྒྲ། མཐོང་བ། བྲོ་བ་དང་དྲི་བའི་ཐོག་ལས་གཟིགས་སྐྱོང་སྟོན་ཚུགས་ཟེར་སླབ་ཨིན། ཉེན་སྲུང་གི་ཞིབ་དཔྱད་འཇམ་སམ་ཅིག་འབད་བ་ཅིན། བྱ་བ་འདི་ཚུ་ག་ར་གི་དོན་ལུ་བདེ་ཏོག་ཏོ་འབད་ཚུགས།
 
-## What are sensory activities for dementia?
+## དྲན་ཤེས་ཉམས་པའི་དོན་ལུ་ཚོར་བའི་བྱ་བ་ཟེར་མི་འདི་ག་ཅི་སྨོ?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+ཚོར་བའི་བྱ་བ་ཚུ་གིས་ཚོར་བ་གཅིག་ལུ་གཅིག་རྐྱངམ་ཅིག་གནད་དོན་བཟུང་སྟེ་འཇམ་སམ་སྦེ་ཉམས་སུ་ལེན་ནིའི་བྱ་བ་ཨིན། དཔེར་ན། རས་ལུ་རེག་པ། སྔོ་ཚོད་ཀྱི་དྲི་བ་བཏུམ་པ། ཡང་ན་ཆར་བའི་སྒྲ་ཉན་པ་ཚུ་ཨིན། [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) གིས་ཤུལ་མའི་རིམ་པའི་བྱ་བ་ཚུ་ཚོར་བ་ལུ་གནད་དོན་བཟུང་དགོཔ་ཨིན་ཟེར་སླབ་མི་དང་། གླུ་གཞས་དང་རེག་ནི་འཛིན་ནིའི་དངོས་པོ། ལག་པའི་བསྐྱོད་བསྒུལ་ཚུ་གི་སྐོར་ལས་སླབ་ཨིན། [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) གིས་ཤུལ་མའི་རིམ་པའི་མི་ཚུ་ལུ་བདེ་བླག་གི་དོན་ལུ་དངོས་པོ་ག་ཅི་ར་ཅིག་ཉེ་འཁོར་ལུ་འཛིན་དགོ་པའི་དགོས་མཁོ་སྒོམ་ཤུགས་ཅན་ཅིག་འབྱུང་སྲིད་ཟེར་སླབ་ཨིན།
 
-## Sensory ideas, sense by sense
+## ཚོར་བ་རེ་རེ་བཞིན་གྱི་བསམ་འཆར།
 
-### Touch
+### རེག་བྱ།
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **ལག་པའི་བསྐྱོད་བསྒུལ།** ཁྱོད་རའི་ལག་ཐང་ནང་སྣུམ་ཉུང་ཀུ་ཅིག་དྲོམ་སྦེ་བཟོ་ཞིནམ་ལས། ལག་མདུན་ལས་འགོ་བཟུང་ལག་མཛུབ་ཚུན་དལ་མོ་གིས་བཏུམ། [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) གིས་བདེ་བླག་གི་དོན་ལུ་དྲི་བ་མེད་པའི་སྣུམ་གྱིས་བསྐྱོད་བསྒུལ་འབད་ནི་གི་སྐོར་ལས་སླབ་ཨིན།
+- **རས་ཀྱི་སླེབས།** ཝེལ་ཝེཊི་དང་ཀོར་ཌུ་རོཡེ། ཕིལིསི། སེ་ཊིན་དང་བལ་གྱི་རས་ཆེ་བའི་ལེབ་ཚུ་བཏུམ་ནི་དང་ལྡེམ་ནི། སྐོར་ལས་སླབ་ནིའི་དོན་ལུ།
+- **དྲོམ་པོའི་ལག་ཁྲུས་རས།** གནམ་གཤིས་གྲང་མོའི་ཉིནམ་ལུ་ལག་པའི་དོན་ལུ་དྲོམ་ཞིང་ལོག་ཡོད་པའི་རས། འགོ་མ་བཙུགས་པའི་ཧེ་མ་ཁྱོད་རའི་ལག་མདུན་གུ་དྲོད་ཚད་བརྟག་དཔྱད་འབད།
+- **བྱ་བའི་གོས་ཐུང་ཡང་ན་པང་ཁེབས།** སྒྲོམ་ཆེན་དང་ཁ་འབྱེད། ཕུགས་རིས་དང་ཚོར་བ་སྣ་ཚོགས་ཡོད་པའི་ལེབ་ཚུ་བརྟན་པོ་སྦེ་བཙེམས་ཡོད་མི།
+- **ལྡེམ་ནི་དང་མཉེན་ནི།** གཙང་མའི་ལག་ཁྲུས་རས་ཡང་ན་ཁ་སྤྱིའི་རས་ཀྱི་སླེབས་ལྡེམ་ནི་དང་བརྩེགས་ནི། ལོག་ལྡེམ་ནིའི་དོན་ལུ།
+- **འཇམ་པོའི་དངོས་པོ་འཛིན་ནི།** ཕིལིསི་གོན་ཆས་ཡང་ན་སྔས་མགོ། ཡང་ན་འཇམ་པོའི་སེམས་ཅན་རྫུན་མ་ཅིག། འཇམ་སམ་སྦེ་ཕུལ་དགོ་པའི་ལས་རྩེད་མོ་བཟུམ་སྦེ་ནམ་ར་མི་ཕུལ།
 
-### Smell
+### དྲི་བ།
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **སྔོ་ཚོད་གསརཔ།** པོ་དི་ན་དང་རོསི་མེ་རི། བ་སིལ་ཡང་ན་ལ་ཝེན་ཌར་གྱི་ལོ་མ་ཚུ་མཛུབ་མོའི་བར་ན་བཙིར་ཞིནམ་ལས་ཕུལ།
+- **ཐབ་ཚང་གི་དྲི་བ།** ཉེ་འཁོར་ལུ་ཀ་ཕི་བཏུང་ནི། བག་ལེབ་བསྲེག་ནི། སིང་ཙ་མོ་ནམ་ཡང་ན་ཚ་ལུ་མ་ཤུན་བཏོག་ནི་ཚུ།
+- **མེ་ཏོག** ལོ་ཐང་ནང་ལས་ཡང་ན་ཚོང་ཁང་ནང་ལས་མེ་ཏོག་གསརཔ་ཉུང་ཀུ་ཅིག་འཁྱེར་ནི།
+- **གོམས་ཡོད་པའི་དངོས་པོ།** ཁོང་གིས་རྟག་པར་ལག་ལེན་འཐབ་མི་ཁྲུས་སྣུམ་ཡང་ན་སྣུམ། པགས་པ་གིས་བཟོད་ཚུགས་པ་ཅིན།
 
-### Taste
+### བྲོ་བ།
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **དགའ་མི་བྲོ་བ།** ཁོང་གིས་དགའ་མི་ཟ་མ་ཉུང་ཀུ་ཅིག། དཔེར་ན། ཀུ་ཤུའི་སེམ་བཙོགས་ཡང་ན་པུ་ཌིང་། ཡང་ན་ཨའིསི་ཀིརིམ། ཁོང་གིས་ཉེན་ཁ་མེད་པར་ཟ་ཚུགས་པའི་གཟུགས་ཐུང་ནང་།
+- **བག་ལེབ་བཟོ་ནི་ལུ་གྲོགས་རམ་འབད་ནི།** ཁྱོད་གཉིས་མཉམ་དུ་བག་ལེབ་བཟོ་བའི་སྐབས་ཤིང་འབྲས་ཡང་ན་འོག་ཁུག་ཉུང་ཀུ་ཅིག་མྱང་ནི།
+- **དུས་ཚོད་ཀྱི་ཟ་མ།** དབྱར་ཁ་ལུ་ཆུ་ཏར་བུ་ཛ། སྟོན་ཁ་ལུ་དྲོམ་པོའི་ཀུ་ཤུའི་ཆུ། ཉེན་ཁ་མེད་པའི་དྲོད་ཚད་ནང་ཕུལ་ནི།
 
-### Sound
+### སྒྲ།
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **དགའ་མི་གླུ་གཞས།** གོམས་ཡོད་པའི་གླུ་གཞས་ཚུ་སྒྲ་དལ་མོ་སྦེ། [གླུ་གཞས་ཀྱི་བྱ་བ་](/activities/music/) ལུ་བལྟ།
+- **རང་བཞིན་གྱི་སྒྲ།** ཆརཔ་དང་རླབས། ཡང་ན་བྱའི་སྐད། NIA གིས་གླུ་གཞས་དང་དཀར་པོའི་སྒྲ། རང་བཞིན་གྱི་སྒྲ་ཚུ་གིས་མི་ལ་ལོ་ཅིག་ལུ་བདེ་བླག་བྱིན་མི་འདུག་ཟེར་སླབ་ཨིན།
+- **ཁྱོད་ཀྱི་སྐད།** སྒྲ་སྒྲོགས་ཏེ་ཀློག་ནི། གླུ་བཏང་ནི། ཡང་ན་ལོ་རྒྱུས་ཅིག་སླབ་ནི།
+- **འཇམ་སམ་སྦེ་བཏང་ནིའི་རོལ་ཆ།** ལག་ཐོག་རྔ་ཡང་ན་ཤེ་ཀར། ཡང་ན་དྲིལ་བུ་གླུ་གཞས་དང་མཉམ་དུ་བཏང་ནི།
 
-### Sight
+### མཐོང་བ།
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **སྒེའུ་ཁུང་ནང་ལས་བལྟ་ནི།** སྒེའུ་ཁུང་ཕྱི་ཁར་བྱ་ཟ་ས། ལམ་ནང་འགྲོ་མི་ཨ་ལུ་ཚུ། ཡང་ན་ཁ་བ་བབ་ནི།
+- **ཉ་ཁང་ཡང་ན་དལ་མོའི་བརྙན།** སྒྲ་ཆེན་པོ་མེད་པར་འཇམ་སམ་སྦེ་འགུལ་ནི།
+- **པར་རིས་ཆེན་པོ།** ཚར་གཅིག་ལུ་པར་གསལ་ཏོག་ཏོ་ཅིག། མིག་གི་མདུན་ལུ་འཛིན་ནི།
+- **ཚོས་གཞི་དང་དཔེ་གཞི།** ཚོས་གཞི་ཅན་གྱི་རས་ཀྱི་ལེབ་ཆུང་ཀུ་དང་མེ་ཏོག ཡང་ན་ཚོས་གཞི་ཅན་གྱི་ཁ་སྤྱིའི་རས་ཚུ་དབྱེ་སེལ་འབད་ནི། ཡང་ན་ང་བཅས་ཀྱི་ [coloring](/games/coloring/) ནང་ལས་འཇམ་སམ་སྦེ་ཚོས་གཞི་བཀང་ནིའི་ཤོག་ལེབ་ཅིག།
+- **ཕྱི་ཁར།** NHS གིས་དྲི་བཟོད་རྩི་ཤིང་དང་ཚོར་བ་སྣ་ཚོགས། ཆུའི་ཁྱད་ཆོས་ཡོད་པའི་ཚོར་བའི་ལོ་ཐང་གི་སྐོར་ལས་སླབ་ཨིན། [ཕྱི་ཁའི་དང་ལོ་ཐང་གི་བྱ་བ་](/activities/outdoor-and-gardening/) ལུ་བལྟ།
 
-## How to make a sensory box
+## ཚོར་བའི་སྒམ་ག་དེ་སྦེ་བཟོ་ག
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **གང་ཟག་དེ་གི་མི་ཚེ་དང་འབྲེལ་བ་ཡོད་པའི་བརྗོད་གཞི་ཅིག་གདམ་ཁ་རྐྱབ།** དཔེར་ན། རྒྱ་མཚོའི་འགྲམ། ལོ་ཐང་། ཐབ་ཚང་། ལཱ་ཁང་། ཡང་ན་ཚེམ་གྲི།
+2. **ཉེན་ཁ་མེད་པའི་ཆེ་བའི་དངོས་པོ་ལྔ་ལས་དྲུག་ཚུན་གདམ་ཁ་རྐྱབ།** དཔེར་ན། མཚོ་ཁྲག་ཆེན་པོ། ཤིང་གི་ཐུར་མ། འཇམ་པོའི་སྐེ་དཀྲིས། ཁ་བཙེམས་ཡོད་པའི་ལ་ཝེན་ཌར་སྐམ་པོའི་ཁུག་མ། ཡང་ན་མཉེན་པོའི་ཤིང་གི་ལེབ།
+3. **དངོས་པོ་རེ་རེ་བཞིན་ལུ་ཆུང་ཀུའི་ཆ་ཤས་དང་རྣོ་བའི་མཐའ། ལྷོད་ཡོད་པའི་སྐུདཔ། ཆག་སྲིད་པའི་དངོས་པོ་ཡོད་མེད་ཞིབ་དཔྱད་འབད།**
+4. **ཚར་གཅིག་ལུ་དངོས་པོ་གཅིག་རྐྱངམ་ཅིག་ཕྱིར་ཕུལ།** ལག་པ་ལུ་ཕུལ་ཞིནམ་ལས་འགྲེལ་བཤད་རྐྱབས་ཏེ། གང་ཟག་དེ་ལུ་ཉམས་སུ་ལེན་བཅུག།
+5. **ཤུལ་ལས་སྒམ་དེ་བཞག** དེ་འབད་བ་ཅིན་དམིགས་བསལ་སྦེ་འོང་ནི་དང་། ཤུལ་མམ་ལག་ལེན་མ་འཐབ་པའི་ཧེ་མ་དངོས་པོ་ཚུ་ལོག་ཞིབ་དཔྱད་འབད་ཚུགས།
 
-## Safety first
+## ཉེན་སྲུང་སྔོན་ལས་གལ་ཆེ།
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+ཚོར་བའི་བྱ་བ་ཚུ་འཇམ་པོ་ཨིན་རུང་། ཉེན་ཁ་འག་འག་ལུ་གཟབ་དགོ། དྲན་ཤེས་ཉམས་པ་དང་ལྷན་དུ་འཚོ་མི་ལ་ལོ་ཅིག་གིས་ཟ་མ་མེན་པའི་དངོས་པོ་ལུ་ཟ་མ་བཟུམ་སྦེ་བསམ་འོང་། དུས་ཚོད་འགྱོ་བའི་སྐབས་མིད་པ་ལུ་དཀའ་ངལ་འབྱུང་སྲིད། NIA གིས་ཤུལ་མའི་རིམ་པའི་མིད་པའི་དཀའ་ངལ་གྱིས་མགྲིན་པར་འཁར་ནིའི་ཉེན་ཁ་ཡར་སེང་འབདཝ་ཨིན་ཟེར་ཉེན་བརྡ་བཀོད་ཨིན།
 
-| Risk | What to do |
+| ཉེན་ཁ། | ག་དེ་སྦེ་འབད་ག |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| མགྲིན་པར་འཁར་ནི། | མགྲིན་པར་མི་འཁར་ནི་བཟུམ་སྦེ་ཆེ་བའི་དངོས་པོ་རྐྱངམ་ཅིག་ལག་ལེན་འཐབ། སྒམ་ནང་སྒྲོམ་དང་ཕྲུ་གུའི་རིན་ཆེན། དངུལ་ལོ། མར་བྷལ་ཡང་ན་ཆུང་ཀུའི་རྩེད་ཆས་ཚུ་ལྷོད་སྟེ་མ་བཞག། གཟིགས་སྐྱོང་ཚོགས་ཆུང་གིས་ཉེན་ཁ་མེདཔ་ཟེར་སླབ་མི་གཟུགས་ཐུང་ནང་རྐྱངམ་ཅིག་ཟ་མ་ཕུལ། |
+| ཟ་མ་བཟུམ་མཐོང་མི་དངོས་པོ། | NIA གིས་སྣུམ་དང་ཁྲུས་སྣུམ། ཤེམ་པུ་དང་དྲི་བཟོད་ཆུ་ཚུ་ཟ་མ་བཟུམ་མཐོང་སྲིདཔ་ལས་སྒོ་ལྕགས་བརྒྱབ་སྟེ་བཞག་དགོཔ་ཨིན་ཟེར་སླབ་མི་དང་། རྫུན་མའི་ཤིང་འབྲས་ཚུ་ཕྱིར་བཏོན་གནང་། ལག་ལེན་འཐབ་ཚར་བའི་ཤུལ་ལས་ཚོར་བའི་དངོས་པོ་ཚུ་བཞག། |
+| མཐོང་སྔོན་རྒྱབ་ལེན། | འགོ་མ་བཙུགས་པའི་ཧེ་མ་བ་དམ་དང་ལ་ཊེགསི། བལ། རྩི་ཤིང་ཡང་ན་དྲི་བཟོད་ལུ་མཐོང་སྔོན་རྒྱབ་ལེན་ཡོད་མེད་ཞིབ་དཔྱད་འབད། |
+| དྲག་པོའི་དྲི་བ། | དྲག་པོའི་དྲི་བཟོད་ཆུ་དང་དྲི་བཟོད་སྣུམ་ཚུ་མ་ལག་ལེན་འཐབ། ལྷག་པར་དུ་གཡུག་ཆུ་ཡང་ན་དབུགས་ཀྱི་དཀའ་ངལ་གཞན་ཡོད་པའི་སྐབས། དལ་མོ་དང་རང་བཞིན་གྱི་དྲི་བ་ཚུ་ཉེན་ཁ་ཉུང་མི་ཨིན། |
+| པགས་པ། | བསྐྱོད་བསྒུལ་མ་འབད་བའི་ཧེ་མ་པགས་པ་ལུ་ན་ཚ་ཡང་ན་ཆག་ཡོད་མེད་ཞིབ་དཔྱད་འབད། འཇམ་སམ་སྦེ་གནོན་ཤུགས་བཀོལ་ཞིནམ་ལས། ཁོང་གིས་ན་ཚ་བཟུམ་སྦེ་མཐོང་པ་ཅིན་བཀག་བཞག། |
+| དྲོད་ཚད། | དྲོམ་པོའི་རས་དང་བཏུང་ཆུ་ཚུ་འགོ་མ་བཙུགས་པའི་ཧེ་མ་ཁྱོད་རའི་ལག་མདུན་གུ་བརྟག་དཔྱད་འབད། |
+| རྣོ་བ་དང་དུག་ཅན་གྱི་དངོས་པོ། | རྣོ་བའི་ལག་ཆས་དང་ཤེལ། དུག་ཅན་གྱི་ལག་རྩལ་དངོས་པོ་ཚུ་མ་ལག་ལེན་འཐབ། |
 
-## Does aromatherapy help?
+## དྲི་བཟོད་སྨན་གྱིས་ཕན་ཐོགསཔ་ཨིན་ན?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+ཚད་འཇལ་ཚུགས་པའི་ཐོག་ལས་ཕན་ཐོགས་ཡོད་པའི་སྒྲུབ་བྱེད་མེད་དོ་བཟུམ། [Cochrane གི་དྲན་ཤེས་ཉམས་པའི་དོན་ལུ་དྲི་བཟོད་སྨན་གྱི་ཞིབ་དཔྱད་](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ཀྱིས་གཟིགས་སྐྱོང་ཁང་ནང་གི་མི་ 708 ལུ་འབད་མི་ཞིབ་འཇུག་ 13 ལུ་བལྟ་ཞིནམ་ལས། ཕན་ཐོགས་ཡོད་པའི་སྒྲུབ་བྱེད་གསལ་ཏོག་ཏོ་ཅིག་མ་ཐོབ། ཞིབ་འཇུག་ཚུ་ཆུང་ཀུ་ཨིན་མི་དང་། གྲུབ་འབྲས་ཚུ་མ་མཐུན་པར་ཡོད་མི་ལས། ཕྱོགས་ཕན་གྱི་སྐོར་ལས་ཡང་ལེགས་ཤོམ་སྦེ་སླབ་མི་མེདཔ་ཨིན། གང་ཟག་དེ་གིས་ལོ་ཐང་ནང་གི་ལ་ཝེན་ཌར་བཟུམ་མའི་དལ་མོ་དང་གོམས་ཡོད་པའི་དྲི་བ་ལུ་དགའ་བ་ཅིན། མཉམ་དུ་ཉམས་སུ་ལེན་ནི་འདི་རྒྱུ་མཚན་ལེགས་ཤོམ་ཅིག་ཨིན། འདི་སྨན་བཅོས་མེན།
 
-## How to offer a sensory activity
+## ཚོར་བའི་བྱ་བ་ཅིག་ག་དེ་སྦེ་ཕུལ་ག
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **སྒྲ་མེད་དུས་ཚོད་ཅིག་གདམ་ཁ་རྐྱབ་** དེ་ལས་ཊི་བི་ཨོཕ་འབད།
+- **མདུན་ཁ་ལས་ཉེ་འཁོར་འབད་** ཁོང་གི་མིང་སླབ་ཞིནམ་ལས། རེག་པའི་ཧེ་མ་དྲི་བ་དྲིས་པའམ་སླབ། «ང་ལུ་སྣུམ་འདི་འདུག། ལག་པ་ལུ་བསྐྱོད་བསྒུལ་འབད་ནི་དགའ་ག?»
+- **ཚར་གཅིག་ལུ་གཅིག་རྐྱངམ་ཅིག་ཕུལ་** དེ་འབད་བ་ཅིན་མི་བརྗེད་མི་ཚུགས།
+- **ལན་འདེབས་ལུ་བལྟ།** གདོང་འཇམ་ཏོག་ཏོ་འགྱོ་ནི་དང་ལག་པ་ལྷོད་ལུས་འགྱོ་ནི། ཡང་ན་འཛུམ་ནི་ཚུ་རྟགས་ལེགས་ཤོམ་ཨིན། ཕར་འཐེན་ནི་དང་གདོང་བསྡུར་ནི། ཡང་ན་བདེ་མི་ཚུགསཔ་སྦེ་འགྱོ་ནི་ཚུ་གིས་བཀག་དགོཔ་སྟོནམ་ཨིན།
+- **ཐུང་ཀུ་སྦེ་བཞག།** བདེ་ཏོག་ཏོ་སྐར་མ་ལྔ་ཙམ་ཅིག་ཡང་ལེགས་ཤོམ་ཨིན།
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+[བདེ་ཏོག་ཏོ་དབུགས་རྔུབས་](/games/calm-breathing/) བཟུམ་མའི་མཉམ་དུ་དབུགས་རྔུབས་དལ་མོ་འབད་ནི་འདི་མཇུག་བསྡུ་ནིའི་ཐབས་ལམ་འཇམ་སམ་ཅིག་ཨིན། ཉལ་ཁྲིའི་ཉེ་འཁོར་གྱི་བསམ་འཆར་ཧེང་བཀལ་གྱི་དོན་ལུ་ [ཤུལ་མའི་རིམ་པའི་བྱ་བ་](/activities/late-stage/) ལུ་བལྟ་ཞིནམ་ལས། དགོང་མོ་བདེ་མི་ཚུགས་པའི་དོན་ལུ་ [དགོང་མོའི་བདེ་མི་ཚུགས་པ་](/caregiving/late-day-restlessness/) ལུ་བལྟ།

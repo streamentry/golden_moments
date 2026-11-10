@@ -1,33 +1,34 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Actividades en grupo para a demencia: guía para residencias e centros"
+seoTitle: "Actividades en grupo para a demencia: bingo e cancións"
+description: "Actividades en grupo para residencias e centros de día: bingo de imaxes, cancións e lembranzas, con consellos sobre asentos e tamaño do grupo."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  As boas actividades en grupo en residencias e centros de día son curtas,
+  familiares e fáciles de seguir ao ritmo de cada persoa: bingo de imaxes,
+  cancións en grupo, rodas de lembranzas, movementos sinxelos e xogos de
+  palabras compartidos. Cando sexa posible, manteña grupos pequenos, coloque as
+  persoas para que todas vexan e escoiten ben, dea un paso claro de cada vez e
+  teña previsto un papel máis sinxelo e unha saída tranquila para quen o
+  necesite.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Os grupos pequenos adoitan funcionar mellor ca un único evento grande e permiten que máis persoas participen de xeito activo en vez de só observar."
+  - "Coloque as persoas en círculo ou en ferradura, preto de quen guía a actividade, tendo en conta as necesidades de audición e visión e apagando o ruído de fondo."
+  - "Prepare cada actividade con dous ou tres niveis para que poidan participar persoas con distintas capacidades."
+  - "Evite preguntar para comprobar, puntuar e escoller gañadores. O bingo de imaxes pódese facer ata que todas as persoas completen o seu cartón."
+  - "Está ben marchar antes, observar ou adormecer. Teña alguén do equipo dispoñible para acompañar a quen queira ir a un espazo máis tranquilo."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Cal é un bo tamaño de grupo para as actividades de demencia?"
+    a: "Non hai un número único correcto; depende das persoas residentes, da sala e de cantas persoas do equipo hai. Moitos equipos observan que os grupos pequenos permiten ver, escoitar e participar mellor, mentres que nos eventos nunha sala grande adoita haber máis persoas observando. Se organiza un evento grande, engada persoas do equipo ou voluntariado que se senten entre as persoas residentes e poidan axudar a unha ou dúas persoas cada unha."
+  - q: "Como podo facer un grupo con persoas de distintas capacidades?"
+    a: "Pense en máis dunha forma de participar en cada actividade. Nunha sesión de cancións, algunhas persoas cantan todas as palabras, outras baten palmas ou tararean, e outras sosteñen unha maraca. No bingo de imaxes, algunhas persoas atopan as súas propias imaxes mentres alguén que axuda llas sinala a outras. Sente as persoas que precisan máis apoio xunto a alguén do equipo ou do voluntariado."
+  - q: "Como podo facer un bingo de imaxes sen que sexa competitivo?"
+    a: "Nomee todas as imaxes ata que todos os cartóns estean completos, para que ninguén quede fóra. Comente cada imaxe cando apareza e evite premios para quen gaña, ou dea o mesmo pequeno agasallo a todas as persoas. O importante é a atención compartida e a conversa, non quen remata primeiro."
+  - q: "Podo usar os seus xogos nunha pantalla grande nun grupo?"
+    a: "Si. Os nosos xogos funcionan nun navegador web, así que pode abrilos nun portátil ou tableta conectados a un televisor ou proxector. Picture Bingo inclúe cartóns para imprimir e un presentador en pantalla. Finish the Saying e Picture Pairs tamén funcionan ben nunha pantalla grande cunha persoa que toque por todo o grupo."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +53,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Esta guía é para persoas que coordinan actividades, equipos de atención a persoas con demencia e persoas responsables de centros de día. Explica formatos de grupo que funcionan, como preparar a sala, como adaptar unha actividade para persoas con distintas capacidades e como usar os nosos cartóns de bingo para imprimir e os xogos nunha pantalla grande. Todo o que aparece aquí busca o benestar, a conexión e a elección. Nada disto é unha proba.
 
-## What makes a group activity work in memory care?
+## Que fai que unha actividade en grupo funcione na atención a persoas con demencia?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Unha boa actividade en grupo é familiar, curta, fácil de seguir ao ritmo de cada persoa e sen presión. As [recomendacións de práctica para a atención á demencia da Alzheimer's Association](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describen a participación con sentido como algo que apoia os intereses e as preferencias da persoa e que permite escoller e ter éxito, mesmo nas fases máis avanzadas da demencia. O mesmo documento sinala que os programas tradicionais adoitan depender dun ou dous eventos grandes ao día nos que as persoas residentes adoitan participar de forma pasiva.
 
-That points to a few practical rules:
+Isto leva a unhas regras prácticas:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **O familiar funciona mellor ca o novo.** As cancións, os refráns, as imaxes e os obxectos da mocidade das persoas son máis fáciles de seguir.
+- **O curto funciona mellor ca o longo.** Pense en que dure o tempo de atención habitual do grupo, cun punto natural para parar a metade.
+- **Facer algo funciona mellor ca observar.** Déalle a cada persoa algo que poida soster, tocar, escoller ou dicir.
+- **Moitos niveis, unha soa actividade.** Inclúa formas máis fáciles e máis complexas de participar.
+- **Sen gañadores nin puntuacións.** Os formatos competitivos poden facer que algunhas persoas sintan que non o fixeron ben.
 
-## How big should the group be?
+## Canto debe ser de grande o grupo?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Adoita ser máis doado cun grupo pequeno. A Alzheimer's Association sinala que unha persoa que se sente incómoda nunha reunión grande pode participar mellor nun grupo máis pequeno. Non hai un número único correcto. Depende das persoas residentes, da sala e de cantas persoas do equipo e do voluntariado hai dispoñibles.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Unha proba útil: pode cada persoa ver o rostro de quen guía, escoitar con claridade e recibir a axuda de alguén en poucos segundos? Se non, divida o grupo, engada axuda ou cambie a unha sala máis pequena.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Nun evento grande, como un concerto de festa, sente as persoas do equipo e do voluntariado entre as persoas residentes, non pegadas ás paredes.
 
-## How should I set up the room and seating?
+## Como debo preparar a sala e os asentos?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Círculo ou ferradura.** As recomendacións de práctica describen o círculo para compartir como mellor nun espazo suficientemente grande para que todas as persoas se senten en círculo, sen ruído de fondo.
+- **Quen guía, preto e á altura dos ollos.** Sente cando poida, en vez de estar de pé.
+- **A audición e a visión primeiro.** Sente as persoas con perda de audición máis preto de quen guía, polo seu mellor lado. Asegúrese de que leven as lentes e os audífonos postos. A Alzheimer's Association sinala que os problemas de visión e audición poden dificultar a comunicación.
+- **Luz detrás das persoas residentes, non detrás de vostede.** Evite que alguén quede de cara a unha ventá con moita luz.
+- **Apague a televisión e a radio.** A Alzheimer's Association recomenda eliminar os ruídos que compiten durante as actividades con música.
+- **Unha conversa de cada vez.** As conversas cruzadas son difíciles para as persoas que viven con demencia e para as persoas con perda de audición, como indica a Alzheimer's Association na súa [guía para as festas](https://www.alz.org/help-support/caregiving/holidays).
+- **Saídas despexadas e un recuncho tranquilo.** Calquera persoa que queira marchar debe poder facelo con facilidade, acompañada por alguén do equipo.
 
-## Group activity ideas
+## Ideas de actividades en grupo
 
-### Picture bingo
+### Bingo de imaxes
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+O bingo de imaxes usa imaxes claras en vez de números, como unha teteira, un can ou unha rosa, para que ninguén teña que seguir un número longo nin ler letra pequena.
 
-**How to run it:**
+**Como facelo:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Imprima un cartón para cada persoa desde a nosa páxina de [Picture Bingo](/games/picture-bingo/) co botón Imprimir. O papel groso é máis fácil de manexar. Plastifíqueo para reutilizalo.
+2. Reparta marcadores grandes e fáciles de coller, como fichas, tapas de botella ou cadrados de cartolina.
+3. Use o presentador en pantalla nun televisor ou proxector para que todas as persoas vexan a imaxe mentres vostede di o seu nome.
+4. Faga unha pausa despois de cada imaxe e convide a un breve comentario: «A alguén lle gustaría contarnos algo sobre un can que coñeceu?» ou «Que lle chama a atención desta imaxe?».
+5. Siga nomeando imaxes ata que todos os cartóns estean completos. Todas as persoas rematan.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Como adaptalo:** Use menos cadros para as persoas ás que lles resulte demasiado cheo un cartón completo. Alguén que axuda pode sinalar a imaxe correspondente a quen o necesite. Algunhas persoas poden preferir soster a tarxeta da imaxe do presentador e ensinala ao grupo.
 
-### Sing-alongs
+### Cancións en grupo
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+A música é unha das actividades en grupo máis apreciadas. A Alzheimer's Association sinala que, mesmo nas fases avanzadas, unha persoa pode [seguir o ritmo ou cantar unha canción da infancia](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Como facelo:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Escolla cancións da mocidade das persoas residentes, non as favoritas de quen guía. Pregunte ás familias que música lle gustaba a cada persoa.
+- Use música sen anuncios, que segundo a Association poden resultar confusos.
+- Imprima as letras en tamaño grande para quen lea, pero non o esixa.
+- Ofreza maracas, pequenos tambores de man ou panos para mover.
+- Anime a bater palmas e a moverse, e manteña un volume cómodo.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Como adaptalo:** Algunhas persoas cantarán todas as palabras, outras tararearán, outras moverán un pé e outras simplemente escoitarán. Todas estas formas contan. Vexa máis na nosa [guía de actividades con música](/activities/music/).
 
-### Reminiscence groups
+### Grupos de lembranzas
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Un grupo de lembranzas xírase arredor dun tema, como os días de escola, os primeiros coches, as cociñas ou o verán, usando fotos, obxectos e música. O obxectivo é unha conversa agradable, non lembrar datos con precisión.
 
-**How to run it:**
+**Como facelo:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Escolla un tema e leve algúns obxectos que as persoas poidan soster: unha batedora de man, unha luva de béisbol, un sombreiro, un catálogo de sementes.
+2. Pase un obxecto de cada vez. Faga preguntas abertas: «Cónteme algo sobre isto», «Que lle chama a atención?» «Quen usaba algo así?».
+3. Reciba ben todas as respostas. Non corrixa datas nin datos.
+4. Encamiñe a conversa cara a lembranzas agradables. As recomendacións de práctica sinalan que as persoas que coidan deben orientar as lembranzas cara a recordos positivos, non cara a outros que poidan causar malestar.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) ofrece cartóns imprimibles con imaxes e preguntas abertas por temas, que funcionan ben para comezar a conversa. Atopará máis ideas na nosa [guía de lembranzas](/activities/reminiscence/).
 
-### Finish the saying
+### Completar o refrán
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Os refráns coñecidos («Máis vale tarde...») convidan a todas as persoas a dicir xuntas o final. Mostre [Finish the Saying](/games/finish-the-saying/) nunha pantalla grande e deixe que o grupo responda a unha soa voz. Despois de cada refrán hai unha proposta para conversar. Se ninguén di o final, móstreo e siga adiante. Non hai respostas correctas nin incorrectas.
 
-### Large-print word search, together
+### Sopa de letras en letra grande, en grupo
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Proxecte a [Sopa de letras](/games/word-search/) en letra grande nunha pantalla e busquen palabras en grupo, ou imprima copias para quen prefira traballar pola súa conta na mesa. As palabras só van en horizontal e cara abaixo.
 
-### Gentle movement
+### Movemento suave
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Estiramentos sentados, pasar unha pelota ou globo suave, ou bailar sentados con música coñecida. Mostre cada movemento en vez de describilo.
 
-### Sorting and matching at the table
+### Clasificar e emparellar na mesa
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Mesas pequenas de tres ou catro persoas poden clasificar xuntas imaxes, mostras de tea ou cubertos. Na pantalla, [Picture Pairs](/games/picture-pairs/) pódese xogar deixando as imaxes visibles, cunha persoa que toca mentres a mesa comenta cada imaxe.
 
-## How do I use your games on a big screen?
+## Como podo usar os seus xogos nunha pantalla grande?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Os nosos xogos funcionan nun navegador web, así que pode usalos nun televisor ou proxector sen instalar nada.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Abra o xogo nun portátil ou tableta conectados á pantalla por cable ou sen fíos.
+2. Poña o navegador en pantalla completa e axuste o son a un nivel cómodo.
+3. Pida a unha persoa que guíe a actividade que toque na pantalla mentres o grupo di as opcións. Tamén pode pasar unha tableta a unha persoa residente que queira probar.
+4. Pare cando o grupo estea listo. Os xogos non teñen temporizador, puntuación nin final obrigado.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) e [Conversation Cards](/games/conversation-cards/) adoitan funcionar mellor en grupo. Vexa todas as opcións na nosa [páxina de xogos](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Como podo adaptar unha actividade para persoas con distintas capacidades?
 
-Plan at least three ways to join every activity.
+Pense en polo menos tres formas de participar en cada actividade.
 
-| Activity | More independent | Some support | Most support |
+| Actividade | Máis autónoma | Con algo de apoio | Con máis apoio |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo de imaxes | Atopa e cobre as súas imaxes | Alguén que axuda sinala; a persoa cobre | Sostén unha tarxeta con imaxe; escoita e observa |
+| Cancións en grupo | Canta e escolle a seguinte canción | Tararea, bate palmas, usa unha maraca | Escoita, sostén un pano, dá palmiñas |
+| Lembranzas | Conta historias | Responde si ou non ou sinala | Sostén e toca o obxecto |
+| Sopa de letras | Traballa na súa copia impresa | Busca palabras na pantalla grande con axuda | Escoita mentres se len as palabras |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Para as persoas en fases máis avanzadas, o NHS indica que as actividades adoitan ter que ser máis sinxelas e centrarse máis nos sentidos, como a música, os obxectos para tocar e as masaxes nas mans. Un momento individual durante ou despois do grupo pode ser mellor para elas ca o propio grupo. Vexa [actividades para fases avanzadas](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Como deben falar as persoas que guían durante un grupo?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Preséntese cada vez e use o nome que prefire cada persoa.
+- Fale amodo, dea un paso de cada vez e mostre antes de explicar.
+- Faga invitacións abertas («Cónteme algo sobre...») ou opcións sinxelas, nunca preguntas para comprobar («Lembra...?»).
+- Non corrixa. Agradeza cada achega.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Atopará máis información na nosa páxina sobre [consellos de comunicación](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Rematar ben e deixar que as persoas marchen
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Parar é un bo resultado. Estea atento aos sinais de que alguén está canso, inquieto ou molesto, e teña alguén dispoñible para ofrecerlle dar un paseo ou sentar nun lugar máis tranquilo. Unha persoa que adormece durante unha sesión de cancións pode estar simplemente cómoda.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Peche cada grupo sempre da mesma maneira, cunha canción coñecida ou cun agradecemento sinxelo, para que o final resulte tranquilo e esperado. Despois, tome nota do que funcionou e do que lle gustou a cada persoa. Esas notas axudan a mellorar a seguinte sesión.

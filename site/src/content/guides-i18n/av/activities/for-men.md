@@ -1,32 +1,34 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Деменциялда бугеб рагӀалазул активностьлъи"
+seoTitle: "Деменциялда бугеб рагӀалазул активностьлъи: реалияб гьоришал"
+description: "Деменциялда бугеб рагӀалазе цӀияб активностьлъи: гьеб бакӀаналъул, бихьинчилъиял ва гьаракӀаналъул хӀисабалда, стереотипалда гьабулищ. Гьар активностьлъиялда безопасно къаркарал гьорилъи."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Деменциялда бугеб рагӀалазе гьоризе лъараб активностьлъи гьеб кинабго бакӀаналъул
+  хӀалт бугеб: гьеб цӀарал кардаса, гьеб бихьизе лъараб бихьинчилъи ва гьеб
+  гьар бутӀрал гьабулел бутӀизе. Канцеляриялда кардаса гьабулел рагӀал гьаракӀизе
+  ругел букӀана, механик гьабулел тӀибихьаздаса гьоризе цӀияб ва гьоризе лъараб
+  инструменталъ гьабулел. Ракьалда инсанал бегьулаго бихьинчилъиял кӀиго; гьеб
+  гьакӀал рагӀалазе къачӀизе лъарал бихьинчилъиялда ругеб бегьула, гьеб гьакӀал
+  рагӀалазе къачӀизе лъарал.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Гьеб рагӀалазул бакӀан, гьеб бихьинчилъиял, гьеб бутӀрал ва гьеб гьабулел рагӀалазул хӀисабалда гьабулелда ккараб."
+  - "Реалияб мурадалда гьабулел бутӀрал, махсус тӀиб-тӀибалда гьоризе лъарал, гьабулищ, гьеб гьакӀал рагӀалазе къачӀизе ругел ккадариял."
+  - "Гьар рагӀалазе тӀибихьаздаса ва спортазда бихьинчилъи бегьула. ГьакӀал бихьинчилъиял: пуз гьабулищ, сад гьабулищ, рекӀел гьабулищ, сурат гьабулищ ва рагӀалазул гьабулищ. Гьеб гьарбазе къачӀизе, гьоризе ва гьеб бутӀизе гьабулищ."
+  - "Гьабулел рагӀалазе безопасно гьабизе лъараб: ругел инструменталъ ругизе ва гьоризе, гьеб бутӀрал хӀисабалда гьабизе тӀад гьабулищ."
+  - "Гьеб «уна» лъазе бегьула. Гьеб гьабулищ кинабго цӀияб рол гьабулищ, гьеб гьабулищ ва гьеб гьабулищ дуцӀизе гьабулищ."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Деменциялда бугеб рагӀалаз бихьинчилъиял шулел?"
+    a: "Гьеб бихьинчилъиялда рагӀалазул ккадариял цӀалалъи бегьулаго, гьеб цӀарал кардаса гьабулищ. ГьаракӀизе лъараб шулел бутӀрал: гьеб бакӀаналъул цӀарал кардаса гьабулел рагӀал, къаркарал бутӀ ва сад, кинабго бихьинчилъиял: пуз, тӀибихьаздаса, рекӀел, сурат ва спорт. Гьеб гьабулищ — гьеб къачӀизе гьабулищ."
+  - q: "БакӀан гьабулел гьабулищ бихьинчилъиялда гьарбазе гьабулищ. Гьеб гьабулищ?"
+    a: "Гьарбазе, рагӀалаз ва цӀалаз, гьеб класс бегьулаго ва бакӀан гьабулел бутӀрал гьабулищ. Гьеб рекӀел гьабулищ: «Гьуна гьабулиз лъазе бегьула?» Гьеб гьакӀал кинабго, гьеб гьабулищ цӀарал гьабулищ."
+  - q: "Инструменталъ гьабизе безопасно?"
+    a: "Гьеб рекӀел ва безопасно инструментал гьабулел бегьулаго. БутӀрал ругизе ва гьоризе лъараб гьабулищ: гьеб тӀибихьаздаса, гьеб ругел рагӀал, тӀибихьаздаса гьабулел бутӀ. Alzheimer's Association гьабулищ — гьеб безопасно гьабулел бутӀрал ругизе."
+  - q: "Гьеб профессионал букӀана. Гьеб бутӀрал гьабулищ гьабизе?"
+    a: "Гьеб гьабулищ, гьеб бутӀрал «гьеб гьабулел» хӀисабалда гьабулел бегьула. Гьеб мурадалда реалияб гьабулищ, гьабулел материалал гьабулищ ва гьеб гьабулищ гьабулел букӀана, гьеб лъазе гьабулищ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +47,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Деменциялда бугеб рагӀалазул активностьлъи «гьабулищ» гьарбазе гьабулищ, гьеб гьабулел бутӀрал гьабулищ. Гьеб гьабулищ — гьеб къачӀизе гьабулищ. Гьеб рагӀалазул хӀисабалда гьабулищ: гьеб бакӀан гьабулищ, гьеб бихьинчилъи гьабулищ ва гьеб гьабулел ккадариял гьабулищ. Инсанал бегьулаго бихьинчилъиял кӀиго: цӀарал рагӀалаз тӀибихьаздаса гьоризе лъарал, гьеб гьакӀал рагӀалаз пуз гьабулел, гьеб гьакӀал садазе гьоризе лъарал.
 
-## How do I find activities he will actually enjoy?
+## Гьабулел рагӀалазе бихьинчилъиял гьоризе гьабулищ?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Гьеб бакӀаналъул хӀалт гьабулищ. Alzheimer's Association гьабулищ: [бутӀ гьабулищ](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) гьабулел бихьинчилъиял, гьабулел ккадариял, гьеб тӀибихьаздаса ва гьеб гьабулел рекӀел гьабулищ. Гьеб гьабулищ:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Гьеб бакӀан шулел?** Канцеляриялда, цӀарал, заводда, тӀибихьаздаса, армиялда, тӀибихьаздаса, учительлъи, машина, гьабулищ?
+- **Гьеб гьабулищ букӀа бихьинчилъиялда?** Пуз, карта, рагӀал, спорт, церковь, тӀибихьаздаса, гьабулищ?
+- **Гьеб гьабулел ккадариял шулел?** Гьабулищ ва газет гьар гьабулищ? Гьеб къачӀизе гьабулищ? Гьабулищ, машина гьабулищ?
+- **Гьеб гьабулищ букӀа гьабулел?** Association гьабулищ: гьеб рагӀал гьабулел ккадариял гьабулищ, гьеб гьакӀал ккадариял гьабулищ.
+- **Гьеб гьабулищ баччизе?** Гьеб гьабулищ спорт гьабулищ гьабулел, гьеб гьабулищ пуз гьабулищ. Гьеб гьабулищ гьабулищ гьабулел, гьеб гьабулищ гьабулищ.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Гьеб гьакӀал цӀарал ва гьабулел рагӀалазе гьабулищ, гьеб гьабулищ бихьинчилъиял гьабулищ.
 
-## Activity ideas based on past work
+## Гьабулел бутӀрал хӀисабалда активностьлъи
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association гьабулищ: канцеляриялда гьабулел букӀана гьабулищ, гьеб гьабулищ гьабулел, гьеб гьабулищ тӀибихьаздаса. Гьеб гьабулищ гьабулел, гьеб гьабулищ гьабулищ. Гьеб гьарбазе гьабулищ.
 
-| Past work | Activity ideas | Simpler version |
+| Гьабулел бутӀ | Активностьлъи | РекӀел гьабулищ |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Канцеляриялда гьабулищ | Гьабулищ, гьабулищ, гьабулищ, гьабулищ | Гьабулищ; гьабулищ |
+| ТӀибихьаздаса ва механик | Гьабулищ, гьабулищ, гьабулищ | Гьабулищ ву гьабулищ |
+| ЦӀарал ва ландшафт | Гьабулищ, гьабулищ, гьабулищ | Гьабулищ гьабулищ; гьабулищ |
+| Армия | Гьабулищ, гьабулищ, гьабулищ | Гьабулищ гьабулищ |
+| Продажа ва гьабулищ | Гьабулищ, гьабулищ, гьабулищ | Гьабулищ гьабулищ |
+| Учительлъи | Гьабулищ, гьабулищ, гьабулищ | Гьабулищ гьабулищ |
+| Машина ва гьабулищ | Гьабулищ, гьабулищ, гьабулищ | Гьабулищ гьабулищ |
+| Гьабулищ ва гьабулищ | Гьабулищ, гьабулищ, гьабулищ | Гьабулищ; гьабулищ |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Гьабулел гьабулищ, армиялда гьабулищ, гьеб гьабулищ гьабулищ. Гьеб гьабулищ гьабулищ, гьеб гьабулищ гьабулищ ва гьеб гьабулищ гьабулищ.
 
-## Activity ideas based on hobbies
+## Бихьинчилъиял хӀисабалда активностьлъи
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **ТӀибихьаздаса.** Гьабулищ гьабулищ ва гьабулищ. Alzheimer's Association гьабулищ: гьабулищ гьабулищ, гьеб гьабулищ гьабулищ.
+2. **ТӀибихьаздаса.** Гьабулищ, гьабулищ, гьабулищ.
+3. **Машинаяб.** Машина гьабулищ, гьабулищ, гьабулищ, гьабулищ.
+4. **Спорт.** Гьабулищ, гьабулищ, гьабулищ, гьабулищ.
+5. **Карталъ ва рекӀел.** Гьабулищ, гьабулищ, гьабулищ. Гьабулищ ва гьабулищ.
+6. **Пуз.** Гьабулищ, гьабулищ, гьабулищ. Гьеб [пузалъул активностьлъиял](/activities/music/) гьабулищ.
+7. **Гьабулищ ва гьабулищ.** Гьабулищ, гьабулищ, гьабулищ, гьабулищ.
+8. **Газет.** Alzheimer's Association гьабулищ: гьабулищ гьабулищ, гьабулищ гьабулищ, гьабулищ гьабулищ.
+9. **Гьабулищ.** Гьабулищ гьабулищ, гьабулищ гьабулищ.
+10. **Гьабулищ гьабулищ.** Гьабулищ, гьабулищ, гьабулищ. NIA гьабулищ [гьабулищ, гьабулищ ва гьабулищ гьабулищ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) гьабулищ.
 
-## How do I offer an activity without it feeling like busywork?
+## Гьабулищ гьабулищ, гьабулищ гьабулищ?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Гьеб гьабулищ реалияб гьабулищ. Alzheimer's Association гьабулищ: «Гьабулищ гьабулищ?» гьабулищ ва гьабулищ гьабулищ. Гьабулищ:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Гьабулищ гьабулищ?» (гьабулищ гьабулищ)
+- «Гьабулищ гьабулищ гьабулищ ва гьабулищ гьабулищ. Гьабулищ гьабулищ?» (гьабулищ гьабулищ)
 
-Other tips:
+ГьакӀал бихьинчилъиял:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Гьабулищ материалал гьабулищ.** Гьабулищ инструменталъ, гьабулищ каталог, гьабулищ конверт.
+- **ЦӀалда гьабулищ.** Гьабулищ гьабулищ гьабулищ.
+- **Гьабулищ гьабулищ.** Гьабулищ гьабулищ, гьабулищ гьабулищ.
+- **Гьабулищ гьабулищ.** Alzheimer's Association гьабулищ: гьабулищ гьабулищ гьабулищ гьабулищ.
 
-## How do I adapt as things change?
+## Гьабулищ гьабулищ, гьабулищ гьабулищ?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Деменция гьабулищ, Alzheimer's Association гьабулищ: гьабулищ гьабулищ ва гьабулищ гьабулищ. Гьабулищ гьабулищ гьабулищ, гьабулищ гьабулищ.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Гьабулищ гьабулищ гьабулищ, гьеб гьабулищ гьабулищ. Гьабулищ гьабулищ гьабулищ.
 
-## Safety with work-style tasks
+## Гьабулел рагӀалазул безопасно
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Гьабулищ, гьабулищ, гьабулищ ва гьабулищ гьабулищ.
+- Гьабулищ, гьабулищ, гьабулищ гьабулищ.
+- Гьабулищ гьабулищ.
+- Гьабулищ гьабулищ.
+- Гьабулищ гьабулищ гьабулищ.
 
-## What if he says no?
+## Гьабулищ «уна» гьабулищ?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Гьеб гьабулищ. Гьеб гьабулищ гьабулищ, гьабулищ гьабулищ ва гьабулищ гьабулищ. Alzheimer's Association гьабулищ: гьабулищ гьабулищ. Гьабулищ [гьабулищ гьабулищ](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Гьабулищ гьабулищ ва гьабулищ
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) гьабулищ гьабулищ ва гьабулищ гьабулищ. [Conversation Cards](/games/conversation-cards/) гьабулищ гьабулищ, гьеб гьабулищ гьабулищ. [Picture Puzzle](/games/picture-puzzle/) гьабулищ гьабулищ, гьабулищ гьабулищ, [Word Search](/games/word-search/) гьабулищ гьабулищ гьабулищ. Гьабулищ гьабулищ гьабулищ, [гьабулищ гьабулищ](/activities/reminiscence/) гьабулищ.

@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Obererezhioù ha c'hoarioù evit tud gant Alzheimer"
+seoTitle: "Obererezhioù ha c'hoarioù Alzheimer: soñjoù dre gamm"
+description: "Obererezhioù ha c'hoarioù evit tud gant Alzheimer e pep kamm, en ur implijout skiloù hag soñjoù hir a bad, gant c'hoarioù frank da c'hoari asambles."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Obererezhioù mat evit an hini a zo gant Alzheimer a seblant war ar pezh a bad hiroc'h:
+  skiloù bet pleget dija, kanaouennoù kozh, labourioù a vez graet bemdez ha ar sentadennoù.
+  Da gentañ, kartoù, c'hoarioù-taolenn, debriñ ha mont er-maez a c'hall c'hoazh mont mat.
+  E kreiz ar c'hamm, klask pliegañ, rannañ, kanañ, albomioù foto ha c'hoarioù skeudennoù eeun.
+  Diwezhatoc'h e vez ar sonerezh, an douchder hag ar kenvezh ar pal. Sellit ouzh ar pezh a zo
+  bremañ.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer zo an abeg ar muiañ boas da zementia, neuze an idéoù obererezh evit dementia a dalv ivez evit Alzheimer."
+  - "Ar c'hetalañ a vez kollet da gentañ ar pezh nevez, met ar skiloù hag ar c'hanaouennoù desket kalz amzer zo a chom alies. Diazezit warnezho."
+  - "Ar c'hamm a gemm, hag ar deizioù mat ha re galet zo boas. Dibabit hervez ar pezh a c'hall ober ha plijout dezhañ bremañ."
+  - "Dibabit c'hoarioù hep amzer, hep ment na hep dizoleiñ, ha lezit ar skeudennoù da vezañ gwelus."
+  - "Gwelet, daliñ traoù pe nemet azezañ asambles a vez kontet evel kemer perzh."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Pe obererezhioù a zo mat evit an hini gant Alzheimer?"
+    a: "Obererezhioù a vez graet alies, un tamm m'o deus bet ober, o vezañ aesoc'h: pleget dilhad, staliañ an daol, kuinañ asambles, sonerezh ha kanañ, sellet ouzh foto'ioù, kerzhet, labourat er jardin pe gwelet ur bistr. C'hoarioù skeudennoù eeun, pazlioù aes ha kartoù kaozeal a zo mat ivez evit kalz tud. Dibabit ar pezh a blij bepred d'an hini hag hen ober asambles."
+  - q: "Ha mat eo c'hoari evit tud gant Alzheimer?"
+    a: "C'hoarioù a c'hall bezañ un doare plijus da dremen an amzer asambles mar plij d'an hini. Ne ziskouezet ket ez eus bet c'hoari ebet a c'hall lakaat Alzheimer da vezañ kuitaet, degas anezhañ da vont dreist pe he harzhañ, neuze dibabit c'hoarioù evit plijadur: skeudennoù bras, dibaboù nebeut, ha hep amzer, hep ment na hep son fazi."
+  - q: "Ez eus disheñvelder etre obererezhioù dementia hag obererezhioù Alzheimer?"
+    a: "Dre vras n'eus ket. Alzheimer zo an abeg ar muiañ boas da zementia, ha an idéoù obererezh a zo evel-just. Ar pezh a sikour gant Alzheimer eo anavezout e vez kollet ar soñjoù nevez da gentañ, ha neuze obererezhioù savet war skiloù koshoc'h, kanaouennoù ha reolennoù a vez aesoc'h alies."
+  - q: "Petra a c'hall an hini gant Alzheimer diwezhat c'hoazh plijout dezhañ?"
+    a: "Ar sonerezh a blij dezhañ, ur bleustrenn dornek dre ziwall, traoù malus da zal, bezañ lennet dezhañ, azezañ en-dro, ha kenvezh ur mignon en deus fiañs ennañ. Gwalc'hit berr ha lent, ha sellit ouzh e zremm ha ouzh e gorf evit gouzout petra a blij dezhañ."
+  - q: "Penaos lakaat an hini gant Alzheimer da gaout diddordeg en un obererezh?"
+    a: "Goulennit skoazell kentoc'h eget kemenn un obererezh, staliit pep tra a-raok, ha kregit ganeoc'h da ober anezhañ evit ma c'hall ren-ober asambles. Dibab an eur eus an deiz pa 'z eo en e vrasañ stad a gemm kalz. Ma lavar nann, klaskit adarre diwezhatoc'h pe kinnigit ur stumm berrloc'h."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ma'z eus unan a garit gant Alzheimer, marteze hoc'h eus remarket dija e vez kollet traoù buan, ha traoù all a chom. Hag a-wechoù e vez kollet ar genta sinadenn eus ar galleg, met kanañ a ra ar ganaouenn bet desket kalz bloavezhioù 'zo, pe plegañ ur sac'h evel m'en doa graet a viskoazh, pe rannañ kartoù hep soñjal ennañ. Obererezhioù mat a vez savet war ar skiloù padus-se. Ar bajenn-mañ a sell ouzh an abeg, a ro idéoù evit pep kamm, ha ro ar c'hoarioù frank war al lec'hienn a glot ganto.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Ha disheñvel eo Alzheimer diwar-benn an obererezhioù?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Ne vez ket kalz. Dementia zo an anv hollek, ha Alzheimer zo an abeg ar muiañ boas dezhi: hervez an [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) e kont evit 60 da 80 dre gant eus an holl goulennoù dementia. Kalz eus ar pezh a vez skrivet diwar-benn obererezhioù evit dementia a dalv evit Alzheimer ivez, en o zouez hon [101 ideal obererezh](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Ar pezh a zo talvoudus da c'houzout eo urzh ar c'hemmoù, evel m'emañ boas. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) a ziskouez e kendalc'h Alzheimer da gentañ da gas gwall d'ar pezhioù eus an empenn a labour evit ar soñj, ha diwezhatoc'h da gaout raktres ouzh ar yezh, ar poellgredi hag an emzalc'h gant an dud all. An Alzheimer's Association a lavar e vez ar c'hentañ arwez boas ar c'hetalañ kaout kalz tabut da gofiñ tra nevez bet desket. Dishañv a zo etre an dud hag ur bern a zo abegoù kemmesket ganto, met an distro-mañ a ro stumm d'an obererezhioù a vez mat alies.
 
-## What kinds of activities suit Alzheimer's best?
+## Peseurt doareoù obererezh a glot ganto kalz ganti Alzheimer?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Obererezhioù a bled war ur c'hoñnaissañs kozh, pleget mat, a vez aesoc'h alies eget re a ginnig desgargar un dra nevez ha miret en-dro en ur soñj.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Skiloù pleget a-viskoazh.** An Alzheimer's Association a notenn e c'hall an hini chom o c'hoari sonioù simpl war ar piano a zo bloavezhioù 'zo. Gwiaziñ, gwastañ koad, troc'hañ kartoù, dornañ toaz ha pleget dilhad a zo hañvelet.
+- **Kanaouennoù kozh ha sonerezh anavezet.** Kalz tud a anavez c'hoazh pep gerioù eus kanaouennoù o-deus daou-ugent bloaz, eus hymnoù ha kanaouennoù an degemer. Gwelet [obererezhioù sonerezh](/activities/music/).
+- **Labourioù bemdez gant ur pal.** An [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a listenn gant obererezhioù a blijfe da dud: golchañ ar platoù, staliañ an daol, rannañ kazeged ha pleget dilhad. Felmat eo ar stad a vez anavezet evel dezhañ, hag en ur zont a-benn eus ur micher.
+- **Anavezout e lec'h kav soñjal.** Ur bleustr a-vremañ a vez aesoc'h eget anaout anezhi dre soñj. Dre se e vez gwelloc'h c'hoarioù skeudennoù gant pep tra war wel eget dibaboù.
+- **Ar sentadennoù.** Ar stoufder, an arogi, an tomder, ar blas hag ar son a chom gwerzh pell goude m'emaint o vezañ diaes gerioù. Gwelet [obererezhioù sentadennoù](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Traoù a vez aesoc'h da zegemer, dre ret: kloc'h, reolennoù nevez da zeskiñ, kalz stummoù da soñjal, pe goulennoù a brof ar soñj, evel "Ha c'houzout a rit piv eo an hini-mañ?". Se a laka al lodenn diaesañ eus Alzheimer dirak ar wel.
 
-## Activities for early-stage Alzheimer's
+## Obererezhioù evit kamm kentañ Alzheimer
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Er c'hamm kentañ, an [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) a lavar e c'hall an hini c'hoazh gwidañ, labourat ha kemer perzh e buhezioù ar gumuniezh, ha goude e vez gwelet dezhañ diskar ar soñj evel diskuizhañ gerioù aneal pe leve an traoù. An dra gwellañ eo ober asambles: goulennit petra fell dezhañ derc'hel da ober ha pe skoazell a fell dezhañ.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Derc'hel da ober e c'hoarioù kentoc'h.** Golf, bridge, kilted, kanerezh ha strolladoù an iliz, gant kemmoù bihan evel strolladoù bihanoc'h ha prantadoù hiroc'h.
+2. **C'hoari kartoù ha c'hoarioù-taolenn anavezet.** An [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a ro da skouer trivia, kavout gerioù, kartoù ha c'hoarioù-taolenn evit ar c'hamm kentañ. C'hoarit en ur skipailh mar bez kont a zo un trubuilh dezhañ, pe lamit ar c'hont kuit.
+3. **Kuinañ asambles.** Lezit anezhañ da heuliañ ur resevr en deus ober dre galon, hag hennezh a laoskit deoc'h lenn an treuzoù.
+4. **Kregiñ ur raktres buhez.** Skeudennoù, resevroù ha istorioù en ul levr skeudennoù a gas anezhañ. Gwelet [obererezhioù kofiñ](/activities/reminiscence/).
+5. **Mont er-maez.** Un tavarn a blij dezhañ en un eur distro, ur museom evit ur weladenn berr, ur promenad er park.
+6. **Klask pazlioù a zibab.** Kroashgeriñ, klask gerioù ha pazlioù gant lizherenn bras. Gwelet [pazlioù evit dementia](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Muioc'h a idéoù: [obererezhioù kamm kentañ](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Obererezhioù evit kreiz an Alzheimer
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+An Alzheimer's Association a ginnig an etap kreizek evel ar hiroc'h alies, hag a lavar e c'hall pad meur a vlez. Gerioù a vez kemmesket, ar strinkadur a gresk, hag an hini a vez ret dezhañ muioc'h a gar. An Alzheimer's Foundation of America a ouzhpenn e vez ret skoazellañ kalz tud evit kregiñ pe kenderc'hel gant an obererezhioù. Da c'houde, da ober e vo ret deoc'h lakaat pep tra a-rankout, diskouez kentoc'h eget displegañ, ha kemer ar pezhioù diaes war ho kav.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Pleget, rannañ ha kevataliñ.** Toaloù, sokoù, kuilhoù, bouzelloù dre liv. Labourioù gwir, graet asambles.
+2. **Kanañ ha dansal gant ar sonerezh.** Klikañ, gwaskañ pe dansal er gegin. Kregiñ da ganañ ho-unan hag lakaat anezhañ da heuliañ.
+3. **Sellet ouzh albomioù foto.** Deskrivit ar pezh a welit hag ardamezit istorioù: "Un otovoufr kaer! Lavarit din dioutañ." Heuilhit an anvioù a lavar.
+4. **C'hoari c'hoarioù skeudennoù simpl.** [Pareoù skeudennoù](/games/picture-pairs/) gant pevar pe c'hwec'h tuilh ha skeudennoù gwelus, pe [Kavout ar memes](/games/find-the-same/) gant daou pe tri dibab.
+5. **Echuiñ lavarioù anaoug.** "Un avalenn bep deiz a dalc'h ar..." Lavarioù desket pell 'zo a zeu alies ken aes. Klaskit [Echuiñ ar lavar](/games/finish-the-saying/), lec'h a c'hallit diskouez an dibenn gant ur bokad.
+6. **Dour ha bezhiñ plantoù.** Potoù en ti pe ur gwele uhel, gant ur c'hanneg dour bihan.
+7. **Ober ur c'hoari pareañ gant foto ar familh.** [Pareoù foto](/games/photo-pairs/) a implij skeudennoù a zibabit war ho pellgomzer, ha ne vont ket er-maez anezhañ.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Muioc'h a idéoù: [obererezhioù kreiz an kamm](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Obererezhioù evit fin an Alzheimer
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Diwezhatoc'h e lavar an Alzheimer's Association e kollont an dud ar gallout da respont d'o bro ha da gendalc'h ur gaozeadenn, daoust ma c'hallont c'hoazh lavarout gerioù pe lavarennoù berr. Ar pezh a bouez bremañ eo kysur ha kenvezh, degaset d'al lec'h ma'z eo an hini o vevañ.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **C'hoari o sonerezh gwellañ** en un doare digrenn, hep ma vo ar skinwel o stlakañ.
+2. **Ro ur bleustrenn dornek** gant un eol a blij dezhañ.
+3. **Kinnig traoù malus da zal:** ur gobereller tomm, ur fleece, ur maen lemm.
+4. **Lenn en uhel** salmoù, barzhonegoù pe ur gont anavezet. Muioc'h a bouez zo gant ar stumm eget an dra a lavar.
+5. **Azezañ er-maez** en skeud, pe nes d'ur prenestr gant evned da sellet outo.
+6. **Sellet asambles ouzh ur skeudenn bras.** Ur bluenn-heol pe ur c'hi o lenwañ skramm ur tablezenn, ha ret deoc'h lavarout petra a welit.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Muioc'h a idéoù: [obererezhioù fin an kamm](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Peseurt c'hoarioù a glot ganti an hini gant Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Dibabit c'hoarioù na c'hall ket bezañ kollet. Pep c'hoari war al lec'hienn-mañ a zo dieub, a dremen en ur merdeer ha n'eus ket amzer, lastez na enrolladur.
 
-| Game | What you do | Often suits |
+| C'hoari | Petra reoc'h | A glot alies gant |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Pareoù skeudennoù](/games/picture-pairs/) | Kavout skeudennoù bras; a c'hall chom war-wel | Kamm kentañ ha kreiz |
+| [Kavout ar memes](/games/find-the-same/) | Pokit ar skeudenn a glot gant an hini a zo e-kerzh | Kreiz ha fin, gant skoazell |
+| [Echuiñ ar lavar](/games/finish-the-saying/) | Dibab gerioù diwezhañ ur lavar anavezet, pe diskouez anezhañ | Kamm kentañ ha kreiz |
+| [Pazl skeudenn](/games/picture-puzzle/) | Treuzlakaat 4 pe 9 tamm en o lec'h, gant ar skeudenn diskouezet | Kamm kentañ ha kreiz |
+| [Kartoù kaozeal](/games/conversation-cards/) | Ur skeudenn ha ur goulenn digor da gaozeal diwar-zu | Pep kamm, gant unan da gaozeal ouzhañ |
+| [Pareoù foto](/games/photo-pairs/) | C'hoari pareañ gant ho foto deoc'h-c'hwi | Kamm kentañ ha kreiz |
+| [Liverezh](/games/coloring/) | Pokit al liv, ha neuze ur rann eus ur skeudenn; pe e moullañ | Pep kamm, gant skoazell |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Evit penaos azezañ asambles, pegement a skoazell rankout ha pegoulz e tle paouez, lennit [penaos c'hoari gant an hini a zo gant dementia](/caregiving/how-to-play-together/). Ma soñjit diwar-benn "c'hoarioù kof", gwelet [c'hoarioù kof evit dud kozh gant dementia](/activities/memory-games/).
 
-## How to make any activity easier
+## Penaos reizhañ pep obererezh
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Pennadennoù NIA a zeu da vezañ kelc'h a-berzh: lakaat an obererezh en-dro d'an hini a c'hall ober, skoazellañ evit kregiñ, gwelet ar fazi, sevel ar fiñvusted, ha lezel anezhañ da wellet ma plij dezhañ.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Dibabit an eur eus an deiz pa 'z eo en e vrasañ stad,** ha gwalc'hit an esaouiennoù berr.
+- **Staliit pep tra a-raok** evit kregiñ fonn.
+- **Pedit, na reizhit ket.** "Ha c'hallfec'h skoazellañ ac'hanon?" a zo gwelloc'h eget "Amzer eo kregiñ gant an obererezh."
+- **Ober ar pazenn kentañ ho-unan** ha lakaat anezhañ da gemer perzh.
+- **Kinnig ur pazenn ha ur dibab bep tro.**
+- **Lezit ober anezhañ en e stumm.** Tualloù dre-ziwar a zo mat.
+- **Echuit pa vez c'hoazh plijus.** Echuiñ a-raok a zo un encadenn vat, n'eo ket ur fazi. Ma nac'h, gwelet [pa lavar an hini gant dementia nann](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) a lavar evel-henn: sellet ouzh al lipadenn, n'eus ket ouzh ar gaout.

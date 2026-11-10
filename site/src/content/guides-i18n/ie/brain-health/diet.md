@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Dietes MIND e mediterran e dementia: quo di li recerca"
+seoTitle: "Diete MIND e dementia: quo di li recerca"
+description: "Quo di li recerca pri dietes MIND e mediterran e dementia, pro quo un grand prova ne trovat clar beneficie, e qualmen ajudar manjar bon."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Studios observational liga manieres de manjar in stil mediterran e MIND con un
+  plu bass risca de dementia, ma ne sempre. Un prova hasardisat de tri annus pri
+  li diete MIND, publicat in 2023, ne trovat significant diferentie in pense o
+  scannes cerebral in comparation con un diete de control. Null manjage o
+  suplemente es pruvat prevenir dementia. Por persones qui vive con dementia, it
+  es max important manjar e trincar suficent.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Quelc, ma ne omni, studies qui seque persones tra li témpor liga manieres de manjar mediterran e MIND con un plu bass risca de dementia."
+  - "In un prova de 2023 con 604 old adultes, persones sur li diete MIND ne fat plu bon in testes de pense o scannes cerebral quam persones sur un diete de control pos tri annus."
+  - "Li National Institute on Aging di que ne existe evidence que manjar o evitar un specific manjage posse prevenir Alzheimer, e null vitamine o suplemente es pruvat prevenir it."
+  - "Un diete rich in legúmes, fructes, fabes, integral granes e pisca subtene li sanitá del corde e posse ajudar con riscas quam alt pression sanguin e diabetes."
+  - "Por persones qui vive con dementia, manjages por li fingres, plates con contraste, calm repastes e regular trincages sovente importa plu quam quelcunc particular diete."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Esque li diete MIND preveni dementia?"
+    a: "To ne ha esset monstrat. Studios observational ligat li diete MIND con plu bass risca, ma un prova hasardisat de tri annus publicat in 2023 ne trovat significant diferentie in resultates de testes de pense o scannes cerebral inter persones sur li diete MIND e persones sur un diete de control. Ambi gruppes ameliorat se un poc e perdit simil ponder."
+  - q: "Quel es li diferentie inter li diete MIND e li diete mediterran?"
+    a: "Li diete mediterran emfasa legúmes, fructes, integral granes, fabes, pisca e oleo de olive, con poc carne rubi o dulcis. Li diete MIND combina it con li diete DASH por pression sanguin e adjunte un emfasa sur verdi legúmes foliosi e bayes, durant que it limita carne rubi, dulcis, caseo, buttre e frit manjage."
+  - q: "Esque existe manjages o suplementes que preveni Alzheimer?"
+    a: "No. Li National Institute on Aging di que ne existe evidence que manjar o evitar un specific manjage posse prevenir Alzheimer o li declination cognitive relatet al etá, e null vitamine o suplemente ha esset pruvat prevenir Alzheimer. Parla con un medico ante prender suplementes."
+  - q: "Quel manjages es max facil a manjar por un person con dementia?"
+    a: "Micri pecies de manjage por li fingres, quam pecies de sandwich, pecies de gallin, segmentes de orange o pecies de legúmes vaporat, es sovente plu facil quam usar posates. Si masticar o glutir es desfacil, molli manjages quam oves scramblat, sauce de pom o cottage cheese posse ajudar. Questiona li medico pri un evaluation del glutir si tussar o suffocar eveni."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,172 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Vu posse ha leet que un diete «san por li cerebre» posse tener Alzheimer lontan.
+Li ver image es plu modest. Quelc manieres de manjar es ligat con plu bass risca
+in studies que seque persones tra li témpor, ma li max bon prova til nu ne
+trovat un clar beneficie. Ti-ci págine explica ambi coses, e poy parla pri to
+quo sovente importa max por un person qui ja vive con dementia: manjar e trincar
+suficent, e haver joye de to.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+To es general information, ne medical consilie. Parla con un medico o un
+dietist registrat ante cambiar vor diete o li diete de un altri person. Vide nor
+[medical declaration](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Quo es li dietes mediterran e MIND?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+Li National Institute on Aging (NIA) descri ili in ti-ci maniere
+([NIA pri diete e Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Diete mediterran:** mult fructes, legúmes, integral granes, fabes, pisca e
+  fructes de mar, e oleo de olive, con poc quantitás de carne rubi, oves e
+  dulcis.
+- **Diete MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  un mixtura del diete mediterran e del diete DASH por pression sanguin. It
+  contene legúmes, specialmen verdi legúmes foliosi; bayes; integral granes;
+  fabes; nuces; pisca adminim un vez per semane; e oleo de olive. It limita
+  carne rubi, dulcis, caseo, buttre o margarine, e frit o rapid manjage.
 
-## Do these diets lower dementia risk?
+## Esque ti dietes bassi li risca de dementia?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Li evidence es mixt. Li NIA di que quelc, ma ne omni, studios observational ha
+ligat li dietes mediterran e MIND con plu bass risca de dementia in comparation
+con un diete in stil occidental con plu carne rubi, saturat grasse e sucre.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Li Commission Lancet de 2024 examinat li recerca plu detaliat
+([Commission Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Un revise de studios de cohorte ligat alt qualitá de diete con circa 20% plu
+  bass risca de dementia.
+- Un plu grand analyse de tri cohortes ligat un plu strict seque del diete MIND
+  con plu bass risca.
+- Ma un studie svedes quel sequet 28.025 persones de medie etá durant circa 20
+  annus ne trovat plu bass risca ni con recomandat dietes ni con un diete in
+  stil mediterran.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Studios observational ne posse pruvar cause e efecte. Persones qui manja in
+ti-ci maniere sovente difere anc in altri manieres, quam revenu, education,
+exercitie e accesse a medical suore. Li Commission concludet que ne existe
+suficent evidence por dir que san dietes directmen preveni dementia, benque
+manjar mult fructes e legúmes e minu manjage ultra-processat es bon por mult
+conditiones de sanitá e afecte factores de risca quam obesitá, diabetes e alt
+pression sanguin. It ne adjuntet li diete a su liste de
+[14 factores de risca](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Quo trovat li prova pri li diete MIND de 2023?
 
-The strongest test so far was a randomized trial published in the New England
+Li max fort test til nu esset un prova hasardisat publicat in li New England
 Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+([prova pri li diete MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Qui:** 604 adultes de 65 annus o plu in li zones de Chicago e Boston, sin
+  problemas de pense, con un proxim parent con dementia, con tro mult ponder, e
+  con un minu san diete in li comensa.
+- **Quo:** durant tri annus, un demí sequet li diete MIND e li altri demí sequet
+  su usual diete. Ambi gruppes esset petit manjar circa 250 calories minu per
+  die e recivet regular auxilie de dietistes registrat.
+- **Resultate:** li resultates del testes de pense ameliorat se un poc in
+  **ambi** gruppes. Li diferentie inter li gruppes esset micri e **ne
+  statisticmen significant**. Scannes cerebral anc monstrat simil changes in
+  ambi gruppes.
+- **Ponder:** ambi gruppes perdit circa 5 kilogrammes (circa 11 pounds).
 
-### Why might the trial have found no difference?
+### Pro quo li prova posse ne ha trovat un diferentie?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Li recercatores suggeret pluri rasones. Li gruppe de control probabilmen anc
+ameliorat su diete, pro que it perdit un simil quantitá de ponder. Repetit
+testes posse ameliorar resultates sol, quande persones customa se al testes. Tri
+annus posse esser tro curt. Li pluparte del participantes esset bon educat e de
+europan descendentie, do li resultates posse ne aplicar se a omni persones.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Do li honest resumation es: li diete MIND ne fat plu bon quam un rasonabil
+diete con minu calories durant tri annus. To ne significa que san manjada es
+ínutil. To significa que null deve atenter que un specific diete va prevenir
+dementia.
 
-## What about specific foods and supplements?
+## E pri specific manjages e suplementes?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Li NIA di que ne existe evidence que manjar o evitar un specific manjage posse
+prevenir Alzheimer o li declination cognitive relatet al etá. Mirtilles, verdi
+legúmes foliosi e kurkuma omni ha esset studiat, sin pruva. Li NIA di anc que
+null vitamine o suplemente ha esset pruvat prevenir Alzheimer, e null es
+recomandat por ti scope. Li NIA adverti que ínpruvat productos vendit por
+prevenir Alzheimer posse esser ínsecur, un perde de moné, o ambi, e posse
+interferer con prescrit medicinas, do consulta un medico ante provar alquo
+([NIA pri prevenir Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Qualmen manjar posse restar san e agreabil?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Por li pluparte del old adultes, li scope es manjage quel es nutritiv,
+familiar e agreabil, ne un strict plan:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Construe repastes circum manjages quel vu ama** del modelle mediterran:
+  legúmes, fructes, fabes, integral granes, pisca e oleo de olive.
+- **Mantene vor favorit dulcis.** Joye e apetite importa, specialmen plu tard in
+  li vive.
+- **Manja con altres** quande to es possibil. Comun repastes es bon companie.
+- **Cocina junt.** Lavar legúmes o mover un potte es un bon comun activitá; vide
+  [household tasks](/activities/household-tasks/). Un favorit familie recept
+  posse anc evocar [reminiscence](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Old adultes ne deve reducer calories o perder ponder sin parlar con un medico,
+e fastar have extra riscas. Vide nor
+[guide pri fastar](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Qualmen vu posse ajudar un person con dementia manjar bon?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Por persones qui vive con dementia, manjar e trincar **suficent** es usualmen li
+principal afer. Li Alzheimer's Association nota que persones posse obliviar
+manjar, pensar que ili ja ha manjage, o sentir se superchargat de selectiones,
+e que mal nutrition posse augmentar behavioral simptomes e causar perde de
+ponder
+([Alzheimer's Association pri manjage e manjar](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Ti-ci idés veni del Alzheimer's Association, del NIA e del Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Oferta manjages por li fingres.** Micri pecies quel es facil a prender,
+   quam pecies de sandwich, pecies de gallin, bastones de pisca, segmentes de
+   orange o brocoli vaporat, lassa li person nutrir se sin posates.
+2. **Usa contraste sur li table.** Changes in li vision posse far desfacil
+   distinter manjage del plate. Blanc plates o bolles sur un subplate con
+   contraste posse ajudar. Evita plates e tabelle-tuches con mustres.
+3. **Servi un o du manjages in un vez.** Un plen plate posse superchargar.
+4. **Mantene calm repastes.** Extinte li television, mantene li table simplic, e
+   lassa suficent témpor. Li NIA suggeste ne hastar e ne presser.
+5. **Oferta micri repastes e snacks sovente.** Li NIA suggeste plu micri e plu
+   frequent repastes e snacks rich in calories si li person ne manja suficent
+   ([consilies del NIA pri bon manjada](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Auxilia con trincar.** Oferta micri tasses de aqua o altri trincages
+   durant li die, e anc manjages con mult aqua quam fructes, sup, milkshakes e
+   smoothies. Si li person ne vole aqua, li NIA suggeste provar jus, aromatisat
+   aqua, bouillon, lacte, o café o té sin cafein.
+7. **Controla li temperatur.** Un person posse ne remarcar que un manjage o
+   trincage es tro calid.
+8. **Adapta utensiles e tasses.** Bolles in vice de plates, coclares con grand
+   anses, e tasses con covrimentes posse far manjar plu facil. Ne preocupa vos
+   pri nettitá.
+9. **Fa li manjage plu facil a masticar e glutir.** Talle li manjage in micri
+   pecies o oferta molli manjages. Si li person tussar o suffocar quande it
+   manja, di it a su medico.
+10. **Evita fortiar a manjar.** Li NIA nota que li apetite naturalmen declina in
+    li tard stadies de Alzheimer.
 
-### Signs to tell the doctor about
+### Signes pri queles on deve informar li medico
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Perde de ponder, refusar manjage, fatigat sentit o debilesse posse esser signes
+que alquí ne manja suficent. Li Alzheimer's Society nota que dolorosi dentes o
+dentaturas, depression, constipation e changes de medicinas omni posse reducer
+li apetite
+([Alzheimer's Society pri apetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Signes de deshydration listat del NIA include sec bocc, vertígine, un rapid
+cordie-ritme e hallucinationes
+([NIA pri comun medical problemas](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Parla con un medico
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Ante far grand changes a vor propri diete, o a ti de un altri person, parla con
+un medico o un dietist registrat, specialmen si vu have diabetes, maladíe renal,
+problemas de glutir o recent perde de ponder. Por un person qui vive con
+dementia, questiona quant it deve provar manjar e trincar chascun die, e esque
+un dietist o suplementes posse ayudar.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Sercha urgent auxilie si alquí suffoca, o have subit confusion, sever vertígine
+o svimmada.

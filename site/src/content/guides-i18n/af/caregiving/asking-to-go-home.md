@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Demensie en die vraag om huis toe te gaan"
+seoTitle: "Demensie vra om huis toe te gaan: wat om te sê"
+description: "Waarom iemand met demensie vra om huis toe te gaan, wat u kan sê, kalmerende aktiwiteite en hoe u hulle veilig kan hou as hulle wil wegloop."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  As iemand met demensie aanhou vra om huis toe te gaan, beteken “huis” dikwels
+  ’n gevoel van veiligheid of ’n plek uit die verlede, nie ’n gebou nie. Moenie
+  stry dat hulle tuis is nie. Erken die gevoel, verseker hulle dat hulle veilig
+  is, vra hulle oor hul huis, en beweeg dan saggies na foto’s, musiek, ’n
+  hapjie, ’n wandeling of ’n eenvoudige taak. Kyk na honger, dors, die toilet of
+  pyn. As dit skielik begin, bel hulle dokter.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "“Ek wil huis toe gaan” beteken dikwels “ek voel nie veilig of rustig nie”, nie ’n versoek om ’n adres nie."
+  - "Stry of bewys dat hulle tuis is, maak gewoonlik die ontsteltenis erger. Reageer eerder op die gevoel."
+  - "Vra hulle om vir u van hul huis te vertel, en bied dan foto’s, musiek, ’n hapjie, ’n wandeling of ’n eenvoudige taak aan."
+  - "Kyk vir iets wat reggemaak kan word: honger, dors, die toilet, pyn, te warm of koud, geraas, moegheid."
+  - "As dit elke laatmiddag gebeur, kan dit sundowning wees; ’n vaste roetine en goeie lig kan help."
+  - "Beplan vir veiligheid as hulle probeer wegloop, en bel hulle dokter oor enige skielike verandering."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Waarom vra my ma met demensie steeds om huis toe te gaan terwyl sy tuis is?"
+    a: "Demensie kan bekende kamers vreemd laat voel, en mense voel soms dat hulle in ’n vroeëre lewensfase is. “Huis” kan ’n kinderhuis beteken, of net die gevoel om veilig en gemaklik te wees. Om op daardie gevoel te antwoord werk gewoonlik beter as om te wys waar sy is."
+  - q: "Wat moet ek sê as hulle vra om huis toe te gaan?"
+    a: "Probeer “Jy is hier veilig, en ek bly by jou”, en dan “Vertel my van jou huis.” Luister, deel ’n foto of ’n liedjie, en bied ’n drankie of ’n kort wandeling aan. Vermy “Jy is tuis” as ’n regstelling, want dit kan laat voel dat hulle verkeerd is."
+  - q: "Is dit goed om te sê ons gaan later huis toe?"
+    a: "Families en demensie-organisasies verskil hieroor. Baie begin met eerlike troos en ’n ander onderwerp, en bewaar ’n saggies onwaarheid vir oomblikke wanneer die waarheid net ontsteltenis sou veroorsaak wat die persoon nie kan verwerk nie. Wat u ook kies, wees vriendelik en konsekwent, en spot nooit met hulle belewing van die werklikheid nie."
+  - q: "Wat as hulle probeer om die huis te verlaat?"
+    a: "Bly kalm en stap saam met hulle in plaas daarvan om hulle te versper; ’n kort wandeling laat dikwels die drang wegsak. Tref veiligheidsmaatreëls vooraf, soos ’n ID-armband, deurklokkies en ’n onlangse foto. As hulle verlore raak, begin dadelik soek, en bel 10111 of 112 as u hulle nie binne 15 minute gevind het nie, en sê die persoon het demensie."
+  - q: "Wanneer moet ek ’n dokter bel?"
+    a: "Bel hulle dokter dadelik as die vra of verwardheid skielik begin of oor ure of dae baie erger word, veral met koors, ’n nuwe medisyne of tekens van ’n urienweginfeksie. Skielike verwardheid kan deliriум wees, wat dringende sorg nodig het. Bel 10111 of 112 as enigiemand in gevaar is."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+“Ek wil huis toe gaan.” Vir baie families is dit een van die moeilikste dinge om te hoor, veral as die persoon vir wie u sorg in hul eie sitkamer sit. Dit is algemeen, dit kan in enige stadium van demensie gebeur, en daar is rustige, praktiese maniere om te reageer. Hierdie bladsy verduidelik wat die woorde dikwels beteken, wat u kan sê, aktiwiteite wat op die oomblik kan help, en hoe u veilig bly.
 
-## Why does someone with dementia keep asking to go home?
+## Waarom vra iemand met demensie steeds om huis toe te gaan?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+“Huis” is gewoonlik meer ’n gevoel as ’n plek. Die Alzheimer’s Society beskryf dit as ’n gevoel van troos en veiligheid, of ’n huis uit die verlede, eerder as die huis self. Demensie kan bekende kamers vreemd laat lyk, en iemand voel dalk dat hulle in ’n vroeëre lewensfase is, toe die huis ’n kinderhuis was of die plek waar hulle hul kinders grootgemaak het.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Die woorde kan ook ’n teken wees dat iets anders nou verkeerd is: hulle is honger, dors, moet die toilet gebruik, het pyn, is te warm of koud, moeg, eensaam, bang, of oorweldig deur geraas. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) noem pyn, geraas, eensaamheid, veranderinge in die roetine en medisyne as oorsake van onrus.
 
-## What should I say when they ask to go home?
+## Wat moet ek sê as hulle vra om huis toe te gaan?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Reageer op die gevoel, nie op die woorde nie. Die [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) raai af om te probeer oortuig dat die persoon verkeerd is: hulle gevoelens is opreg, so antwoord eers met troos en versekering, en lei dan saggies om.
 
-Phrases that often help:
+Sinne wat dikwels help:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Noem die gevoel.** “Dit klink asof jy jou huis mis.”
+- **Verseker.** “Jy is hier veilig, en ek bly by jou.” Die [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) stel die eenvoudige woorde “Jy is hier veilig” voor.
+- **Nooi herinneringe uit.** “Vertel my van jou huis. Hoe het jou kombuis gelyk?” Om oor die verre verlede te praat is gewoonlik makliker as vrae oor vandag.
+- **Bied iets saam aan.** “Kom ons drink eers ’n koppie tee,” of “Help my tog met hierdie handdoeke?”
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+’n Warm toon en ’n hand op die arm, as hulle van aanraking hou, kan meer sê as die woorde.
 
-## What should I avoid?
+## Wat moet ek vermy?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Stry of verduidelik.** “Jy woon nou hier” of “Dit is al 40 jaar jou huis” vra dat hulle iets aanvaar wat demensie moeilik maak om te aanvaar, en dit kan laat voel dat hulle verkeerd is.
+- **Vrae stel.** “Onthou jy nie?” of “Wat is die adres?” voeg druk by.
+- **Die deur kwaad versper.** As hulle uitloop, bly kalm en stap saam met hulle. ’n Kort wandeling saam laat dikwels die drang wegsak.
+- **Haastig wees.** Gee hulle tyd om oor die huis te praat voordat u die onderwerp verander.
 
-## Activities that can help in the moment
+## Aktiwiteite wat op die oomblik kan help
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Nadat u die gevoel erken het, kan ’n rustige, bekende aktiwiteit die aandag verskuif sonder om die gevoel af te maak.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Kyk na foto’s van huis en familie.** Blaai die bladsye om en maak opmerkings (“Kyk na daardie tuin”) in plaas daarvan om vrae te vra. Op ’n foon of tablet verander [Foto-pare](/games/photo-pairs/) u eie familiefoto’s in ’n sagte pasmaakspel, en die foto’s bly op u toestel.
+2. **Praat oor die huis.** [Gesprekkaarte](/games/conversation-cards/) bied oop vrae oor huise, kombuise, bure en feesdae, sonder regte of verkeerde antwoorde.
+3. **Speel musiek wat hulle geniet.** Die National Institute on Aging noem rustgewende musiek as een van die maniere om onrus te verminder. Sien ons [musiekaktiwiteite](/activities/music/).
+4. **Eet ’n hapjie of drink iets.** Honger en dors kan soos rusteloosheid lyk. ’n Koppie tee of ’n geliefkoosde versnapering is ook ’n klein ritueel van tuis wees.
+5. **Gaan stap of sit buite.** Beweging en daglig help, veral vroeër op die dag.
+6. **Gee ’n bekende taak.** Klere vou, messegoed sorteer of plante natgiet kan die gevoel terugbring dat ’n mens ’n huishouding bestuur.
+7. **Maak alles stadiger.** Skakel die televisie af, verminder geraas en skerp lig, en probeer ’n gedeelde [rustige asemhaling](/games/calm-breathing/)-oomblik.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+As een idee nie aanslaan nie, probeer later ’n ander een. Om saam stil te sit is ook ’n goeie uitkoms.
 
-## Check for a cause you can fix
+## Kyk na ’n oorsaak wat u kan regmaak
 
-| Check | What to try |
+| Kontrole | Wat om te probeer |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Honger of dors | Bied ’n drankie en ’n klein hapjie aan |
+| Moet die toilet gebruik | Bied rustig en sonder omhaal ’n toiletbesoek aan |
+| Pyn of ongemak | Let op tekens soos krimpe, die hand op ’n liggaamsdeel, of hardlywigheid, en vertel hulle dokter |
+| Te warm of te koud | Pas ’n laag klere of die kamertemperatuur aan |
+| Geraas of drukte | Beweeg na ’n stiller kamer, skakel die televisie af |
+| Moeg of oorweldig | Rus, verdof die lig, speel sagte musiek |
+| Laatmiddag | Sien die afdeling oor sundowning hieronder |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Die Alzheimer’s Society raai aan om ’n kort logboek te hou van wanneer die vra gebeur, soos voor maaltye, na besoekers, of by skemering. Patrone maak dit makliker om vooruit te beplan.
 
-## Is it okay to tell a white lie?
+## Is dit goed om ’n wit leuen te vertel?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Dit is ’n werklike debat, en vriendelike families kom op verskillende plekke uit. Die Alzheimer’s Society sê daar is geen enkele regte antwoord nie: onwaarhede kan sommige mense meer agterdogtig maak, so besluit wat in die persoon se beste belang is, en wees konsekwent. By die Penn Memory Center is die mede-direkteur se siening dat die waarheid die standaard is, en dat ’n saggies onwaarheid net aanvaarbaar is wanneer die persoon nie ’n bepaalde waarheid kan verwerk nie. Jy moet ook nooit met hulle werklikheid spot nie.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Baie versorgers vind ’n middeweg werk: eers eerlike troos en ’n ander onderwerp (“Ons bly vanaand hier, en ek is hier by jou”), sonder om te stry oor waar huis is.
 
-## What if it happens every afternoon or evening?
+## Wat as dit elke middag of aand gebeur?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Rusteloosheid wat in die laatmiddag begin of erger word, word dikwels sundowning genoem. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) stel ’n vaste skedule, daagliks sonlig en aktiwiteit, minder laat dutjies, en geen kafeïen of alkohol laat in die dag voor nie. Om ligte aan te skakel voor skemering kan ook help. Ons gids oor [rustige laatmiddag-aktiwiteite](/caregiving/late-day-restlessness/) bevat meer.
 
-## Keeping them safe if they try to leave
+## Hou hulle veilig as hulle probeer wegloop
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Om te vra om huis toe te gaan kan lei tot ronddwaal. Die [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) skat dat ses uit tien mense met demensie minstens een keer sal ronddwaal.
 
-**Prepare ahead:**
+**Berei vooraf voor:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- ’n ID- of mediese armband met hul naam en u telefoonnommer, en etikette in hul klere. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) noem die MedicAlert- en Alzheimer’s Association Safe and Found-program, wat moontlik geld kos.
+- ’n Deurklokkie of alarm, en slotte hoog of laag geplaas. Sluit die persoon nooit alleen op nie.
+- ’n Onlangse naby-foto, en ’n lys plekke waarheen hulle dalk gaan, soos ’n vorige huis of werkplek.
+- Vertel vertroude bure, en gee hulle u nommer.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**As hulle verlore raak:** begin dadelik soek; die Alzheimer’s Association sê baie mense word binne 2,4 km gevind. As u hulle nie binne 15 minute gevind het nie, bel 10111 of 112 en sê die persoon het demensie. Bel dadelik 10111 of 112 as enigiemand in gevaar is.
 
-## When should I call a doctor?
+## Wanneer moet ek ’n dokter bel?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Bel hulle dokter dadelik as die vra of verwardheid skielik begin, of oor ure of dae baie erger word. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) sê skielike of vinnig veranderende gedrag, veral na ’n infeksie of ’n medisyneverandering, moet dadelik nagegaan word. Skielike verwardheid kan deliriums wees, wat volgens die [NHS](https://www.nhs.uk/symptoms/confusion/) dringende hulp nodig het; urienweginfeksies is ’n algemene oorsaak by ouer mense.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Dit help ook om ’n vaste patroon by die volgende afspraak te noem, want pyn, lae gemoed, slaapprobleme of newe-effekte van medisyne kan almal ’n rol speel.

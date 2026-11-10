@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "ការគេង និងសុខភាពខួរក្បាល៖ អ្វីដែលស្រាវជ្រាវបង្ហាញ"
+seoTitle: "ការគេង និងជំងឺវង្វេង៖ អ្វីដែលស្រាវជ្រាវបង្ហាញ"
+description: "អ្វីដែលការស្រាវជ្រាវបង្ហាញអំពីការគេង និងហានិភ័យជំងឺវង្វេង ការស្រាវជ្រាវសម្អាតខួរក្បាលដែលនៅដំណាក់កាលដើម និងទម្លាប់គេងដែលអាចជួយមនុស្សចាស់ និងអ្នកថែទាំ។"
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  ការសិក្សារយៈពេលវែងមួយចំនួនបានបង្ហាញទំនាក់ទំនងរវាងការគេងតិចក្នុងវ័យពាក់កណ្តាលជីវិត
+  ជាមួយហានិភ័យជំងឺវង្វេងខ្ពស់ជាងមុន ហើយការស្រាវជ្រាវក្នុងមន្ទីរពិសោធន៍បង្ហាញថា
+  ការគេងអាចជួយឱ្យខួរក្បាលសម្អាតសារធាតុរំអិល។ ភស្តុតាងនេះនៅតែស្ថិតក្នុងដំណាក់កាលដើម
+  ហើយគណៈកម្មាការ Lancet ឆ្នាំ 2024 មិនបានចុះបញ្ជីការគេងជាកត្តាហានិភ័យដែលអាចកែប្រែបានទេ។
+  ទម្លាប់គេងទៀងទាត់អាចជួយឱ្យអ្នកមានអារម្មណ៍ប្រសើរជាងមុនក្នុងជីវិតប្រចាំថ្ងៃ។
+  បញ្ហាគេងលើមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេងគឺជារឿងធម្មតា ហើយគួរតែពិភាក្សាជាមួយគ្រូពេទ្យ។
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "ការសិក្សាមួយនៅចក្រភពអង់គ្លេសដែលតាមដានមនុស្សប្រហែល 8,000 នាក់អស់រយៈពេល 25 ឆ្នាំ បានបង្ហាញទំនាក់ទំនងរវាងការគេងតិចជាង ឬស្មើ 6 ម៉ោងក្នុងវ័យពាក់កណ្តាលជីវិត ជាមួយហានិភ័យជំងឺវង្វេងខ្ពស់ជាងមុន។"
+  - "ការផ្លាស់ប្តូរទម្លាប់គេងក៏អាចជាសញ្ញាដើមនៃជំងឺវង្វេងផងដែរ ដូច្នេះវាពិបាកក្នុងការបែងចែកថាអ្វីជាមូលហេតុ និងអ្វីជាលទ្ធផល។"
+  - "ការស្រាវជ្រាវអំពីការគេងដែលជួយសម្អាតបេតា-អាមីឡូអ៊ីដ (beta-amyloid) ចេញពីខួរក្បាលគឺពិត ប៉ុន្តែនៅដំណាក់កាលដើម ហើយភាគច្រើនធ្វើលើកណ្តុរ។"
+  - "ការឈប់ដង្ហើមពេលគេង (sleep apnea) គឺជារឿងធម្មតា អាចព្យាបាលបាន និងត្រូវបានបង្ហាញក្នុងការសិក្សាថាមានទំនាក់ទំនងជាមួយជំងឺវង្វេង។ ការក្រោកខ្លាំង និងការងងុយគេងពេលថ្ងៃគួរត្រូវបានពិនិត្យ។"
+  - "កុំចាប់ផ្តើម បញ្ឈប់ ឬផ្លាស់ប្តូរថ្នាំគេង ឬជំនួយការគេងណាមួយដោយគ្មានការណែនាំពីគ្រូពេទ្យ។"
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "តើការគេងមិនលក់បណ្តាលឱ្យកើតជំងឺអាល់ហ្សៃមឺដែរឬទេ?"
+    a: "រឿងនេះមិនទាន់ត្រូវបានបញ្ជាក់ទេ។ ការសិក្សាមួយចំនួនបង្ហាញទំនាក់ទំនងរវាងការគេងតិចជាមួយហានិភ័យជំងឺវង្វេងខ្ពស់ជាងមុន ប៉ុន្តែជំងឺវង្វេងផ្ទាល់ក៏រំខានដល់ការគេង ជាញឹកញាប់ចាប់ផ្តើមជាច្រើនឆ្នាំមុនពេលធ្វើរោគវិនិច្ឆ័យ។ គណៈកម្មាការ Lancet ឆ្នាំ 2024 បានវាយតម្លៃថាភស្តុតាងមិនទាន់គ្រប់គ្រាន់ និងមិនស៊ីសង្វាក់គ្នាទេ ដើម្បីចុះបញ្ជីការគេងជាកត្តាហានិភ័យដែលអាចកែប្រែបាន។"
+  - q: "តើមនុស្សចាស់ត្រូវការគេងប៉ុន្មានម៉ោង?"
+    a: "វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) បញ្ជាក់ថាមនុស្សចាស់ត្រូវការការគេងប្រហែលដូចមនុស្សពេញវ័យដទៃដែរ គឺពី 7 ទៅ 9 ម៉ោងក្នុងមួយយប់។ មនុស្សចាស់ជាច្រើនចូលគេង និងភ្ញាក់ពីគេងមុនពេលធ្លាប់ធ្វើ ដែលជារឿងធម្មតា។"
+  - q: "ហេតុអ្វីបានជាមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេងគេងពេលថ្ងៃ ហើយភ្ញាក់ពេលយប់?"
+    a: "ជំងឺវង្វេងអាចប៉ះពាល់ដល់នាឡិកាជីវសាស្ត្ររបស់រាងកាយ ធ្វើឱ្យម៉ោងគេង និងម៉ោងភ្ញាក់ច្របូកច្របល់។ ការឈឺចាប់ អារម្មណ៍ធុញទ្រាន់ អត់ឃ្លាន ឬផលរំខានពីថ្នាំក៏អាចជាមូលហេតុផងដែរ។ ពន្លឺថ្ងៃ សកម្មភាពប្រចាំថ្ងៃ និងទម្លាប់ពេលល្ងាចស្ងប់ស្ងាត់អាចជួយបាន។ គ្រូពេទ្យអាចជួយស្វែងរកមូលហេតុដែលអាចព្យាបាលបាន។"
+  - q: "តើខ្ញុំគួរផ្តល់ថ្នាំគេងដល់បុគ្គលដែលខ្ញុំថែទាំដែរឬទេ?"
+    a: "សូមពិគ្រោះជាមួយគ្រូពេទ្យរបស់ពួកគេជាមុនសិន រួមទាំងផលិតផលដែលទិញបានដោយមិនចាំបាច់មានវេជ្ជបញ្ជាផងដែរ។ វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) ចង្អុលបង្ហាញថា ថ្នាំគេងមួយចំនួនអាចបង្កើនហានិភ័យនៃការវិលមុខ ដួល និងភាន់ច្រឡំចំពោះមនុស្សដែលរស់នៅជាមួយជំងឺអាល់ហ្សៃមឺ។"
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+ការគេង និងសុខភាពខួរក្បាលពិតជាមានទំនាក់ទំនងគ្នា ប៉ុន្តែរបៀបដែលវាទាក់ទងគ្នានៅតែកំពុងត្រូវបានសិក្សាបន្ថែម។ ការសិក្សាមួយចំនួនបង្ហាញទំនាក់ទំនងរវាងការគេងតិចជាមួយហានិភ័យជំងឺវង្វេងខ្ពស់ជាងមុន។ ផ្ទុយទៅវិញ ជំងឺវង្វេងក៏ជាញឹកញាប់រំខានដល់ការគេងផងដែរ។ ទំព័រនេះពន្យល់ពីអ្វីដែលការស្រាវជ្រាវបានបង្ហាញ និងមិនទាន់បង្ហាញ ផ្តល់ទម្លាប់គេងដែលអាចអនុវត្តបាន និងពិភាក្សាអំពីបញ្ហាគេងដែលជារឿងធម្មតាលើមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង។ ទំព័រនេះមិនផ្តល់ដំបូន្មានអំពីថ្នាំគេងទេ។ ការពិភាក្សារឿងនោះគួរធ្វើជាមួយគ្រូពេទ្យ។
 
-## Is poor sleep linked with dementia?
+## តើការគេងមិនលក់មានទំនាក់ទំនងជាមួយជំងឺវង្វេងដែរឬទេ?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+ការសិក្សារយៈពេលវែងមួយចំនួនបានបង្ហាញទំនាក់ទំនងរវាងការគេងតិចជាមួយហានិភ័យជំងឺវង្វេងខ្ពស់ជាងមុន ប៉ុន្តែភស្តុតាងនៅមិនទាន់ច្បាស់លាស់ទេ។
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **ការសិក្សារយៈពេល 25 ឆ្នាំនៅចក្រភពអង់គ្លេស។** អ្នកស្រាវជ្រាវបានតាមដានមនុស្សពេញវ័យប្រហែល 8,000 នាក់នៅក្នុង [ការសិក្សា Whitehall II](https://www.nature.com/articles/s41467-021-22354-2)។ មនុស្សដែលគេង 6 ម៉ោង ឬតិចជាងនេះនៅអាយុ 50 ឬ 60 ឆ្នាំ មានហានិភ័យកើតជំងឺវង្វេងខ្ពស់ជាងអ្នកដែលគេង 7 ម៉ោង។ មនុស្សដែលគេង 6 ម៉ោង ឬតិចជាងនេះនៅអាយុ 50, 60 និង 70 ឆ្នាំ មានហានិភ័យខ្ពស់ជាងប្រហែល 30% បើប្រៀបធៀបទៅនឹងអ្នកដែលគេង 7 ម៉ោងជាទៀងទាត់។ នេះជាការសិក្សាសង្កេត ដូច្នេះវាបង្ហាញពីទំនាក់ទំនង មិនមែនជាមូលហេតុផ្ទាល់ទេ។
+- **ទស្សនៈរបស់គណៈកម្មាការ Lancet។** [គណៈកម្មាការ Lancet ឆ្នាំ 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) មិនបានបន្ថែមការគេងទៅក្នុងបញ្ជីកត្តាហានិភ័យដែលអាចកែប្រែបានចំនួន 14 ទេ។ គណៈកម្មាការវាយតម្លៃថាភស្តុតាងមិនទាន់ស៊ីសង្វាក់គ្នាគ្រប់គ្រាន់។ មូលហេតុមួយគឺ «មូលហេតុបញ្ច្រាស»៖ ការផ្លាស់ប្តូរនៅក្នុងខួរក្បាលដោយសារជំងឺវង្វេងចាប់ផ្តើមជាច្រើនឆ្នាំមុនពេលធ្វើរោគវិនិច្ឆ័យ ហើយអាចរំខានដល់ការគេង។ នៅក្នុងការសិក្សាធំមួយ ទំនាក់ទំនងរវាងការគេងយូរ និងជំងឺវង្វេងបានបាត់ទៅវិញ នៅពេលដែលរយៈពេលតាមដាន 5 ឆ្នាំដំបូងត្រូវបានដកចេញ។
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+ដូច្នេះ ការគេងមិនលក់មួយយប់ពីរយប់មិនមែនជាហេតុផលដែលត្រូវព្រួយបារម្ភទេ។ ការគេងបានល្អ និងទៀងទាត់គឺមានតម្លៃ ព្រោះវាជួយដល់អារម្មណ៍ ការប្រុងប្រយ័ត្ន និងសុវត្ថិភាពក្នុងជីវិតប្រចាំថ្ងៃ។
 
-## What is the "brain-clearing" sleep research?
+## តើការស្រាវជ្រាវអំពី «ការសម្អាតខួរក្បាល» ពេលគេងគឺជាអ្វី?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+អ្នកអាចធ្លាប់បានអានថាការគេង «សម្អាត» ខួរក្បាល។ គំនិតនេះមកពីការស្រាវជ្រាវពិត ប៉ុន្តែនៅដំណាក់កាលដើម។
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **នៅក្នុងកណ្តុរ។** ការសិក្សាមួយនៅឆ្នាំ 2013 [ដែលត្រូវបានរៀបរាប់ដោយ NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) បានរកឃើញថា ចន្លោះរវាងកោសិកាខួរក្បាលរីកធំឡើងប្រហែល 60% នៅពេលកណ្តុរគេង។ សារធាតុរាវហូរឆ្លងកាត់ខួរក្បាលបានកាន់តែងាយស្រួល តាមរយៈប្រព័ន្ធដែលអ្នកស្រាវជ្រាវហៅថា glymphatic system។ បេតា-អាមីឡូអ៊ីដ (beta-amyloid) ដែលជាប្រូតេអ៊ីនមានទំនាក់ទំនងជាមួយជំងឺអាល់ហ្សៃមឺ ត្រូវបានសម្អាតចេញពីខួរក្បាលកណ្តុរដែលកំពុងគេងបានលឿនជាងមុន។
+- **នៅក្នុងមនុស្ស។** [ការសិក្សាតូចមួយនៅឆ្នាំ 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) បានស្កេនមនុស្សពេញវ័យមានសុខភាពល្អចំនួន 20 នាក់ អាយុពី 22 ទៅ 72 ឆ្នាំ បន្ទាប់ពីគេងមួយយប់ធម្មតា និងបន្ទាប់ពីមួយយប់ដែលមិនបានគេង។ បន្ទាប់ពីយប់ដែលមិនបានគេង សញ្ញាស្កេនខួរក្បាលសម្រាប់បេតា-អាមីឡូអ៊ីដបានកើនឡើងប្រហែល 5% នៅក្នុងតំបន់មួយដែលរួមមាន hippocampus ដែលជាតំបន់សំខាន់សម្រាប់ការចងចាំ។ អ្នកនិពន្ធបានហៅនេះថាជាភស្តុតាងបឋម។ ពួកគេមិនដឹងថាតើការផ្លាស់ប្តូរនេះបាត់ទៅវិញបន្ទាប់ពីសម្រាក ឬថាតើវាឆ្លុះបញ្ចាំងពីការសម្អាតយឺត ឬការផលិតអាមីឡូអ៊ីដកើនឡើងនោះទេ។
+- **វាមានឥទ្ធិពលទៅវិញទៅមក។** គណៈកម្មាការ Lancet កត់សម្គាល់ថា ការប្រមូលផ្តុំអាមីឡូអ៊ីដផ្ទាល់ក៏អាចរំខានដល់ការគេងរបស់មនុស្សចាស់ផងដែរ។
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+ការរកឃើញទាំងនេះជួយពន្យល់ពីមូលហេតុដែលអ្នកស្រាវជ្រាវចាប់អារម្មណ៍លើការគេង។ ប៉ុន្តែវាមិនបង្ហាញថាការគេងបានល្អជាងមុនអាចការពារជំងឺអាល់ហ្សៃមឺបានទេ។
 
-## What sleep habits may help?
+## តើទម្លាប់គេងអ្វីខ្លះដែលអាចជួយបាន?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+យោងតាម [វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) មនុស្សចាស់ត្រូវការការគេងប្រហែល 7 ទៅ 9 ម៉ោងក្នុងមួយយប់ ដូចមនុស្សពេញវ័យដទៃដែរ។ ការណែនាំរបស់ពួកគេរួមមាន៖
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **រក្សាកាលវិភាគទៀងទាត់។** ចូលគេង និងភ្ញាក់ពីគេងនៅម៉ោងដដែលៗជារៀងរាល់ថ្ងៃ ទោះបីជាថ្ងៃចុងសប្តាហ៍ក៏ដោយ។
+- **បង្កើតទម្លាប់សម្រាកមុនគេង។** អានសៀវភៅ ស្តាប់តន្ត្រីស្ងប់ស្ងាត់ ឬងូតទឹកក្តៅមុនចូលគេង។
+- **ធ្វើឱ្យបន្ទប់គេងមានផាសុកភាព** មិនក្តៅពេក ឬត្រជាក់ពេក។
+- **កំណត់កាហ្វេអ៊ីននៅចុងថ្ងៃ។** កាហ្វេ តែ ភេសជ្ជៈប៉ូវកម្លាំង និងសូកូឡា អាចធ្វើឱ្យអ្នកពិបាកគេង។
+- **ជៀសវាងគ្រឿងស្រវឹង** ទោះបីបរិមាណតិចក៏ដោយ ដូចដែល NIA ណែនាំ។
+- **ជៀសវាងអាហារច្រើនក្នុងរយៈពេលពីរទៅបីម៉ោងមុនចូលគេង** និងជៀសវាងភេសជ្ជៈច្រើននៅចុងថ្ងៃ។
+- **ហាត់ប្រាណទៀងទាត់ ប៉ុន្តែកុំហាត់ក្នុងរយៈពេល 3 ម៉ោងមុនចូលគេង។** សូមមើល [មគ្គុទ្ទេសក៍អំពីការហាត់ប្រាណ](/brain-health/exercise/) របស់យើង។
+- **រក្សាឧបករណ៍អេឡិចត្រូនិកចេញពីបន្ទប់គេង។** NIA ណែនាំកុំមើលទូរទស្សន៍ ឬប្រើកុំព្យូទ័រ ទូរសព្ទ ឬថេប្លេតនៅទីនោះ។
+- **ជៀសវាងការគេងលក់ពេលរសៀល ឬពេលល្ងាច** ប្រសិនបើអាចធ្វើបាន។
 
-## Sleep problems in dementia
+## បញ្ហាគេងលើមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+ការផ្លាស់ប្តូរទម្លាប់គេងគឺជារឿងធម្មតាលើមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង។ [NIA រាយបញ្ជី](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) ថាមានការគេងច្រើនពេក ឬតិចពេក ការភ្ញាក់ច្រើនដងពេលយប់ និងការគេងលក់ច្រើនពេលថ្ងៃ។ វាក៏ពិពណ៌នាអំពី «sundowning» ផងដែរ៖ ភាពមិនស្ងប់ ការភ័យច្រឡំ ឬការភាន់ច្រឡំ ដែលចាប់ផ្តើម ឬកាន់តែធ្ងន់ធ្ងរនៅពេលពន្លឺថ្ងៃថយចុះ។
 
-Caregiver tips from the NIA include:
+គន្លឹះសម្រាប់អ្នកថែទាំពី NIA រួមមាន៖
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **ទទួលពន្លឺថ្ងៃ និងធ្វើចលនានៅពេលព្រឹក។** ចេញទៅខាងក្រៅ ឬអង្គុយនៅជិតបង្អួចពេលថ្ងៃ ហើយជួយបុគ្គលនោះឱ្យសកម្មជារៀងរាល់ថ្ងៃ។ ពន្លឺភ្លឺអាចជួយកំណត់នាឡិកាជីវសាស្ត្រឡើងវិញ។
+2. **រៀបចំសកម្មភាពដែលមានថាមពលសម្រាប់ពេលព្រឹក។** សាកល្បងងូតទឹកនៅពេលព្រឹក ឬញ៉ាំអាហារចម្បងនៅពេលថ្ងៃត្រង់។
+3. **រក្សាការគេងលក់ឱ្យខ្លី និងនៅដើមថ្ងៃ។** កំណត់ការងុយគេងនៅចុងថ្ងៃ។
+4. **ធ្វើឱ្យពេលល្ងាចស្ងប់ស្ងាត់។** បន្ថយពន្លឺ កាត់បន្ថយសំឡេងរំខាន និងចាក់តន្ត្រីស្ងប់ស្ងាត់ប្រសិនបើបុគ្គលនោះចូលចិត្ត។ មគ្គុទ្ទេសក៍របស់យើងអំពី [ភាពមិនស្ងប់នៅចុងថ្ងៃ](/caregiving/late-day-restlessness/) មានគំនិតបន្ថែម។
+5. **រក្សាទម្លាប់មុនចូលគេងឱ្យទៀងទាត់។** ការអានឱ្យស្តាប់នៅម៉ោងដដែលៗជារៀងរាល់យប់គឺជាឧទាហរណ៍មួយរបស់ NIA។ [ទម្លាប់ប្រចាំថ្ងៃដែលទៀងទាត់](/activities/daily-routine/) ក៏អាចជួយបានដែរ។
+6. **កំណត់កាហ្វេអ៊ីន និងគ្រឿងស្រវឹង។**
+7. **ប្រើភ្លើងយប់** នៅក្នុងបន្ទប់គេង ច្រករបៀង និងបន្ទប់ទឹក។
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+សម្រាប់ការភ្ញាក់ពេលយប់ [គន្លឹះសុវត្ថិភាពនៅផ្ទះ](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) របស់ NIA រួមមានភ្លើងយប់ ឬឧបករណ៍ចាប់សញ្ញាពន្លឺស្វ័យប្រវត្តិ ដងកាន់នៅក្នុងបន្ទប់ទឹក ក្រដាសកៅស៊ូពណ៌ច្បាស់នៅគែមជណ្តើរ និងការទុកថ្នាំក្នុងកន្លែងចាក់សោ។
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+សកម្មភាពខ្លីៗ និងស្ងប់ស្ងាត់នៅពេលល្ងាចអាចជួយឱ្យអ្នកទាំងពីរសម្រាកបាន។ សាកល្បងការផ្អាក [ការដកដង្ហើមស្ងប់ស្ងាត់](/games/calm-breathing/) យឺតៗ ឬ [កាតសន្ទនា](/games/conversation-cards/) មួយចំនួនដោយសម្រាក។ ជៀសវាងអ្វីដែលរំញោចនៅជិតពេលគេង ហើយឈប់នៅពេលដែលបុគ្គលនោះមានអារម្មណ៍ថាគ្រប់គ្រាន់។
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+ការគេងមិនលក់ក៏ធ្វើឱ្យអ្នកថែទាំអស់កម្លាំងដែរ។ [មគ្គុទ្ទេសក៍ថែទាំខ្លួនឯងសម្រាប់អ្នកថែទាំ](/caregiving/caregiver-self-care/) របស់យើងមានវិធីសម្រាប់សម្រាក និងទទួលបានជំនួយ។
 
-## What about sleep apnea?
+## ចុះបើមានការឈប់ដង្ហើមពេលគេងវិញ?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+ការឈប់ដង្ហើមពេលគេង (sleep apnea) បណ្តាលឱ្យមានការឈប់ដង្ហើមខ្លីៗពេលគេង ជាញឹកញាប់ច្រើនដងក្នុងមួយយប់។ NIA បញ្ជាក់ថាប្រសិនបើមិនបានព្យាបាល វាអាចនាំទៅរកបញ្ហាដូចជាសម្ពាធឈាមខ្ពស់ ជំងឺដាច់សរសៃឈាមខួរក្បាល ឬបញ្ហាចងចាំ។ សញ្ញារួមមានការក្រោកខ្លាំង និងការងងុយគេងពេលថ្ងៃ ហើយមនុស្សជាច្រើនមិនដឹងថាខ្លួនមានបញ្ហានេះទេ។ គណៈកម្មាការ Lancet បានរៀបរាប់ពីការពិនិត្យឡើងវិញនៃការសិក្សាចំនួន 11 ដែលមនុស្សមានការឈប់ដង្ហើមពេលគេងមានហានិភ័យជំងឺវង្វេងខ្ពស់ជាងប្រហែល 43%។ ទោះជាយ៉ាងណា ការសិក្សាទាំងនោះភាគច្រើនមិនបានគិតគូរពីទម្ងន់ខ្លួន ដូច្នេះទំនាក់ទំនងនេះនៅមិនទាន់ច្បាស់លាស់។
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+ការឈប់ដង្ហើមពេលគេងអាចត្រូវបានធ្វើរោគវិនិច្ឆ័យ និងព្យាបាលបាន។ NIA កត់សម្គាល់ថាម៉ាស៊ីន CPAP ស្ទើរតែតែងតែជួយបាន។ ប្រសិនបើអ្នក ឬបុគ្គលដែលអ្នកថែទាំ ក្រោកខ្លាំង ឈប់ដង្ហើមពេលគេង ឬងងុយគេងខ្លាំងពេលថ្ងៃ សូមប្រាប់គ្រូពេទ្យ។
 
-## A note about sleep medicines
+## កំណត់ចំណាំអំពីថ្នាំគេង
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+យើងមិនផ្តល់ដំបូន្មានអំពីថ្នាំគេង ឬអាហារបំប៉នទេ។ NIA កត់សម្គាល់ថាថ្នាំគេងអាចជួយបានក្នុងរយៈពេលខ្លី ប៉ុន្តែមិនមែនជាការព្យាបាលជំងឺគេងមិនលក់ទេ។ វាក៏កត់សម្គាល់ផងដែរថា ថ្នាំមួយចំនួនដែលផ្តល់ដើម្បីជួយមនុស្សដែលរស់នៅជាមួយជំងឺអាល់ហ្សៃមឺឱ្យគេង អាចបង្កើនហានិភ័យនៃការវិលមុខ ដួល និងភាន់ច្រឡំ។ កុំចាប់ផ្តើម បញ្ឈប់ ឬផ្លាស់ប្តូរថ្នាំគេងណាមួយ រួមទាំងថ្នាំគេងដែលទិញបានដោយមិនចាំបាច់មានវេជ្ជបញ្ជា ដោយគ្មានការពិគ្រោះជាមួយគ្រូពេទ្យ ឬឱសថការី។
 
-## Talk with a doctor
+## ពិគ្រោះជាមួយគ្រូពេទ្យ
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+សូមទៅជួបគ្រូពេទ្យ ប្រសិនបើអ្នក ឬបុគ្គលដែលអ្នកថែទាំ មានអារម្មណ៍អស់កម្លាំងជានិច្ច មានបញ្ហាគេងភាគច្រើននៃយប់ ក្រោកខ្លាំង ឬមានការឈប់ដង្ហើមពេលយប់។ ប្រសិនបើបញ្ហាគេងលើមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេងនៅតែបន្ត [NIA ណែនាំ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ឱ្យស្វែងរកដំបូន្មានពីគ្រូពេទ្យ។ ការពិនិត្យសុខភាពអាចជួយរកឃើញមូលហេតុដូចជាការឈឺចាប់ បញ្ហាគេងផ្សេងទៀត ជំងឺ ឬផលរំខានពីថ្នាំ។ ការភាន់ច្រឡំភ្លាមៗ ឬការផ្លាស់ប្តូរទម្លាប់គេងភ្លាមៗរួមជាមួយការភាន់ច្រឡំ ត្រូវការការថែទាំជាបន្ទាន់។ សូមអាន [ពេលណាគួរទៅជួបគ្រូពេទ្យ](/brain-health/warning-signs/)។
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ទំព័រនេះជាព័ត៌មានទូទៅ មិនមែនជាដំបូន្មានវេជ្ជសាស្ត្រទេ។ សូមមើល [ការបដិសេធទំនួលខុសត្រូវផ្នែកវេជ្ជសាស្ត្រ](/medical-disclaimer/) របស់យើង។

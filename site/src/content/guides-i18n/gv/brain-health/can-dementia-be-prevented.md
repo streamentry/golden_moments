@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Vod dementia ve lhiettalit? Ny ta'n rannsagh gra"
+seoTitle: "Vod dementia ve lhiettalit? Rannsagh"
+description: "Ny ren Commission Lancet 2024 as prowalyn mooarey feddyn mychione leodaghey risk dementia, ny nagh ren ad feddyn, as ceumyn dy loayrt rish dooinney lheeys."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Cha vod dooinney erbee gialdyn dementia y lhiettal. Ren Commission Lancet
+  2024 coontey dy row mysh lieh jeh caseyn dementia er feai-ny-cruinney bentyn
+  rish 14 reddyn risk oddys ve caghlaa, myr sampleyr tranlaase yn uill, coayl
+  clashtyn as neu-ghremmeydys. Ta prowalyn soilshaghey eiyrtyssyn beggey er
+  testyn smooinaghtyn, cha nee prowal dy row ny sloo caseyn dementia. Ta ymmodee
+  sleih jannoo dy chooilley nhee “dy kiart” foast geddyn dementia, as cha nee
+  foill dooinney erbee eh.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Ren Commission Lancet 2024 bentyn rish mysh 45% dy caseyn dementia er feai-ny-cruinney rish 14 reddyn risk oddys ve caghlaa. She coontey son pobbleyn slane t'ayn, cha nee gialdyn persoonagh."
+  - "Ta leodaghey risk çheet er lhiasaghey ny oddysyn harrish pobble slane. Cha nel eh çheet er gra dy vod persoon er lheh dementia y haghney."
+  - "Ren prowalyn mooarey myr FINGER, US POINTER as SPRINT MIND feddyn vondeishyn beggey er testyn smooinaghtyn ny moalys smooinaghtyn eddrym, agh cha ren fer erbee jeu prowal dy vel claare beaghey lhiettal dementia."
+  - "She eash y red risk smoo ennoil son galar Alzheimer, as cha vod eh ve caghlaait. Ta ymmodee sleih lesh cliaghtaghyn slayntoil foast geddyn dementia."
+  - "Ta ny ceumyn smoo t'er ny studeyrys, myr sampleyr kiarail er tranlaase yn uill, ymmyd jeh saaseyn-clashtyn as tannaghtyn greimmit, feeu loayrt mychione marish dooinney lheeys, er-yn-oyr dy vel ad cooney lesh slaynt ayns aghtyn elley myrgeddin."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Vod dementia ve lhiettalit?"
+    a: "Cha nel aght erbee prowalit dy lhiettal dementia son persoon er lheh. Ta rannsagh coyrt er ash dy vod leodaghey riskyn ennagh, myr sampleyr tranlaase yn uill, coayl clashtyn nagh vel goll er kiarail as jaaghey, leodaghey yn chaa dy gheddyn dementia harrish pobble ny cur er ash traa t'eh goaill toshiaght. She oddysyn t'ayn, cha nee gialdynyn."
+  - q: "Cre ta'n earroo 45% veih Commission Lancet çheet er?"
+    a: "Ren Commission Lancet 2024 coontey dy row mysh 45% dy caseyn dementia er feai-ny-cruinney bentyn rish 14 reddyn risk oddys, ayns ellyn, ve caghlaa. Ta'n coontey goaill er dy vel ny reddyn shen cur dementia er, as ta ny h-uddyryn gra dy vod paart jeh ny kianglaghyn ve ynrican paart-oayllagh. T'eh cur coontey jeh pobbleyn slane as cha nel eh gra dhyt risk persoon erbee."
+  - q: "My va cliaghtey bea slayntoil ec my ayr ny my voir, cre'n fa ren ad geddyn dementia?"
+    a: "Ta ayrn vooar ec eash, genyn as ymmodee reddyn nagh vel dooinney erbee reill orroo ayns dementia. Ta ughtaryn Commission Lancet gra nagh vel leodaghey risk harrish pobble cur shickyrys dy jean persoon erbee dementia y haghney. Cha nel shirveish çheet er dy ren peiagh erbee failleil."
+  - q: "Vel eh ro anmagh dy leodaghey risk dementia lurg eash 65?"
+    a: "Ta Commission Lancet gra nagh vel eh rieau ro vroo ny ro anmagh dy leodaghey risk, ga dy vel mooarane jeh'n phrowal bentyn rish mean-eash. Ta kiarail er doilleeidyn clashtyn as fakin, tannaghtyn greimmit as freayll kiangley rish sleih ny sampleyryn jeh ceumyn ayns eash ny s'anmey va er ny studeyrys. Loayr rish dooinney lheeys mychione cre'n red ta cooie da dty slaynt."
+  - q: "Vel gammanyn inchyn ny bee er lheh lhiettal dementia?"
+    a: "Cha nel gamman, bee, stoo lheeys ny bee-reilt erbee er ny phrowal dy lhiettal dementia. Cha ren prowal three bleeaney jeh bee-reilt MIND feddyn caghlaa scanshoil ayns smooinaghtyn noi bee-reilt reill, as cha nel eh er ny hoilshaghey dy vel ny eiyrtyssyn cheddin ec appyn trimmey-inchyn creckit as va ry-akin ayns prowalyn rannsagh."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,148 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+My t'ou cur tastey da persoon ta beaghey lesh dementia, ny my honnick oo ayr ny moir beaghey lesh, foddee dy vel oo er smooinaghtyn row eh er ny lhiettal, as vod oo eh y lhiettal veih taghyrt dhyt hene. Ta'n duillag shoh cur magh ny ta'n rannsagh gra dy jarroo, ayns glare aashagh. Yn ansoor giare: cha vod dooinney erbee gialdyn dementia y lhiettal, agh ta rannsagh coyrt er ash dy vod paart dy riskeeghyn ve lhiasit, as dy vod lhiasaghey ad harrish pobble cur er ny sloo sleih geddyn dementia ny eh y gheddyn ny s'anmey.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+She fysseree cadjin t'ayn shoh, cha nee coyrle lheeys. Lhaih my saillt yn
+[fys sheeoil mychione lheeys](/medical-disclaimer/) as loayr rish dooinney lheeys mychione dty slaynt hene.
 
-## Can dementia be prevented?
+## Vod dementia ve lhiettalit?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Cha nel aght erbee prowalit dy lhiettal dementia son persoon er lheh. Ta'n National
+Institute on Aging (NIA) gra, ga nagh vel
+[nhee erbee er ny phrowal foast dy lhiettal galar Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+dy vel rannsheyderyn er gheddyn strateishyn treishteilagh as t'ad gynsaghey cre oddys as nagh vod gobbraghey.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Ny ta'n rannsagh *dy jarroo* soilshaghey, shen dy vel kiangley eddyr staydyn slaynt as cliaghtaghyn ennagh as chaa ny smoo dy gheddyn dementia. Tra ta ny riskyn shen ny sloo harrish pobble slane, foddee dy jean ny sloo sleih geddyn dementia, ny dy jean ad eh y gheddyn ny s'anmey ayns bea. Ta shen feer anchasley rish gialdyn.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Cowrey treishteilagh: ren Commission Lancet 2024 soilshaghey dy vel, ayns paart dy heeraghyn berchagh, goaill stiagh ny Steatyn Unnaneysit as y Reeriaght Unnaneysit, yn ayrn jeh sleih shinney lesh dementia er duittym. Ta ny h-uddyryn smooinaghtyn dy vel shen, ayns ayrn, kyndagh rish ynsagh ny share, kiarail slaynt ny share as ny sloo jeeyl er cuishleynyn uill harrish bea, rere
+[coontey giare University College London jeh'n earroo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Cre ren Commission Lancet 2024 feddyn?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+She possan jeh 27 rannsheydyr dementia ta ayns Commission Lancet er lhiettal, stiurey as kiarail dementia, as t'ad jeeaghyn er yn phrowal dagh kuse dy vleeantyn. Ren yn earroo oc ayns 2024 enmys **14 reddyn risk** oddys ve caghlaa, as ren eh coontey dy vel ad cooidjagh cur stiagh **mysh lieh (mysh 45%) jeh caseyn dementia er feai-ny-cruinney**. Ayns focklyn ny h-uddyryn, oddagh ny caseyn shoh *ayns ellyn* ve lhiettalit ny currit er ash dy beagh ny riskyn goit ersooyl
+([earroo Commission Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Ny 14 reddyn, cruinnit rere yn ayrn jeh bea raad ta'n phrowal smoo lajer:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Bea vroo:** ny sloo ynsagh.
+- **Mean-eash (mysh 40 gys 65 bleeaney d'eash):** coayl clashtyn, cholesterol LDL ard (“drogh” cholesterol), trimsey, assee chione, neu-ghremmeydys, diabeytys, jaaghey, tranlaase yn uill ard, roauyrid, as giu rouyr.
+- **Eash ny s'anmey:** lhiettrimys sheshoil, brockid aer, as coayl fakin nagh vel goll er kiarail.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Y daa red noa ayns 2024 va cholesterol LDL ard as coayl fakin nagh vel goll er kiarail. Ny reddyn va bentyn rish yn ayrn smoo dy caseyn va coayl clashtyn as cholesterol LDL ard (mysh 7% dagh fer), as ny lurg shen ny sloo ynsagh as lhiettrimys sheshoil (mysh 5% dagh fer).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Ta'n [lioarane ain mychione reddyn risk](/brain-health/risk-factors/) goll trooid ooilley ny 14 ayns taabyl, lesh ny ta'n rannsagh bentyn rish as ny oddys oo jannoo.
 
-### What the 45% figure does not mean
+### Ny nagh vel yn earroo 45% çheet er
 
-It is easy to misread this number, so it helps to be precise:
+T'eh aashagh y lhaih shoh dy marranagh, myr shen ta'n foays ry-gheddyn:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **She coontey son pobbleyn t'ayn.** T'eh cur coontey jeh caseyn dementia er feai-ny-cruinney, cha nee ny oddysyn ayds ny oddysyn dty ayr ny dty voir.
+- **T'eh goaill er oyr as eiyrtys.** Ta ny h-uddyryn gra dy dug ad stiagh ynrican reddyn risk lesh prowal fondagh, agh dy vod paart jeh ny kianglaghyn ve ynrican paart-oayllagh. Myr sampleyr, foddee dy vel trimsey ayns eash ny s'anmey ny keayrtyn ny cowrey toshee jeh dementia, cha nee oyr.
+- **Cha nel eh cur shickyrys erbee da persoon er lheh.** Ta coontey giare UCL gra dy vel leodaghey risk gobbraghey ec leval pobble as nagh vel eh cur shickyrys dy jean persoon erbee dementia y haghney.
+- **Cha nel yn lieh elley soilshit liorish ny reddyn shoh.** Ta eash, genyn as oyryn nagh vel toiggit foast ec sheanse cur stiagh yn chooid elley.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Cre'n caghlaa eddyr “leodaghey risk” as “lhiettal”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+Ta **leodaghey risk** çheet er lhiasaghey ny oddysyn. My ta possan mooar dy leih lhiasaghey tranlaase yn uill oc, foddee dy jean ny sloo jeu geddyn dementia harrish ymmodee bleeantyn na veagh er nyannoo gyn y caghlaa shen. Bee paart dy leih ayns y phossan shen foast er ngeddyn eh.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+Ta **lhiettal** soilshaghey dy vel red ennagh er ny chummal veih taghyrt er chor erbee. Son dementia, cha vod rannsagh shen y ghialdyn da dooinney erbee jiu.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ta rannsheyderyn loayrt myrgeddin mychione **cur er ash**. Ta Commission Lancet soilshaghey prowal noa dy vod leodaghey risk cur er ash traa ta dementia goaill toshiaght as giareaghey yn traa ta persoon beaghey lesh drogh slaynt. Foddee dy vel eer mooadaghey kuse dy vleeantyn feer scanshoil da persoon as da e lught-thie.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Er y ynnyd-eggey shoh, ta shin ymmydey “lhiasaghey risk” as “bentyn rish” er purpose. Tra hee oo çhaghteraght, stoo lheeys ny claare gra dy vel eh “lhiettal Alzheimer”, bee imneagh. Ta'n NIA coyrlaghey loayrt rish dooinney lheeys roish prowal pillag ny kiarail erbee ta gialdyn Alzheimer y lhiettal, er-yn-oyr dy vod lheid ny reddyn ve neu-heur, coayl argid, ny ny neesht.
 
-## What have large trials found?
+## Cre ren prowalyn mooarey feddyn?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Foddee dy vel studeyryssyn jeeaghyn (ta jeeaghyn er ny taghyr da sleih harrish traa) soilshaghey kianglaghyn. She prowalyn gyn tort (raad ta sleih currit da claare ny da phossan cosoylaghey er aght gyn tort) y prow stronger. Shoh ny ren paart jeh ny prowalyn smoo ennoil feddyn.
 
-### FINGER (Finland)
+### FINGER (Finnlynn)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Ren prowal FINGER goaill stiagh 1,260 persoon eddyr 60 as 77 bleeaney d'eash va ec risk ny smoo dy gheddyn dementia. Hooar lieh claare daa vlein jeh coyrle bee, gleck, cleaynyn inchyn er co-earrooder as jeeaghyn er slaynt cree as cuishleynyn uill; hooar y lieh elley coyrle slaynt cadjin. Ren y phossan claare beggan ny share er sett dy testyn smooinaghtyn, caghlaa beg agh scanshoil ayns staydraa
+([prowal FINGER ayns The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Ren y prowal towse eiyrtyssyn testyn, cha nee shirveishyn dementia.
 
-### US POINTER (United States)
+### US POINTER (Steatyn Unnaneysit)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+Ren US POINTER goaill stiagh 2,111 persoon eddyr 60 as 79 bleeaney d'eash va neu-ghremmit, va lesh bee ny s'neuslayntoil as va lesh reddyn risk elley. Va'n daa phossan currit er dy ve ny smoo greimmit ayns corp as aigney, gee ny share, tannaghtyn sheshoil as freayll arrey er slaynt cree. Hooar un phossan claare structurit lesh cooney; ren y phossan elley eh hene y stiurey. Harrish daa vlein, ren eiyrtyssyn testyn smooinaghtyn jannoo ny share ayns **y daa** phossan, as beggan ny smoo ayns y phossan structurit
+([prowal US POINTER ayns JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Ta ny h-uddyryn gra dy vel ny smoo eiyrtys er lhiam's dy hoiggal vel y caghlaa scanshoil ayns bea gaghlaa. Er-yn-oyr nagh row possan “jean veg” ayn, cha vod y prowal gra cre wheesh ren dagh claare cooney noi gyn caghlaa erbee.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (tranlaase yn uill)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+Ren SPRINT MIND studeyrys er 9,361 persoon ayns ny Steatyn Unnaneysit 50 bleeaney d'eash as ny shinney lesh tranlaase yn uill ard. Va ad currit da jerrey tranlaase yn uill ny s'isle (earroo heose fo 120) ny da'n jerrey cadjin (fo 140). Ren y jerrey ny s'isle lhiasaghey dy scanshoil **moalys smooinaghtyn eddrym**, stayd dy chooishyn cooinaghtyn as smooinaghtyn oddys çheet roish dementia. Son **dementia tebyl**, va ny sloo caseyn ayns y phossan lesh y jerrey ny s'isle, agh cha row y caghlaa scanshoil ayns staydraa. Hie y prowal er scuirr ro vroo as va ny sloo caseyn dementia ayn na va jerkit, myr shen foddee dy row eh ro veg dy ansoor y question shen
+([SPRINT MIND ayns JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Ny ta ny co-imraaghyn cur ry-cheilley
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Ren co-imraa Cochrane ayns 2021 cruinnaghey nuy prowalyn mooarey jeh claaghyn ta cur er ymmodee riskyn ec y traa cheddin, lesh ny smoo na 18,000 dooinney. Hooar eh magh vondeish veg er testyn smooinaghtyn, agh **cha row caghlaa baghtal ayns cre wheesh dy leih ren geddyn dementia** ayns y daa phrowal ren eh y chowraghey
+([co-imraa Cochrane er stiureyghyn ymmodee-ream](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Ren co-imraa 2017 liorish National Academies of Sciences, Engineering, and Medicine, jeant giare ec NIA, feddyn prowal “greinnaghey agh neu-chiart” son three aghtyn: kiarail er tranlaase yn uill ard, cur rish gleck, as trimmey smooinaghtyn.
 
-## Does it matter when you start?
+## Vel eh scanshoil traa t'ou goaill toshiaght?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Ta coyrle Commission Lancet dy lhiasaghey riskyn cho leah as oddys eh as ad y reayll injil cho foddey as oddys eh: “ny share ny s'leaie” as “ny share ny sodjey”. T'eh gra myrgeddin nagh vel eh rieau ro vroo ny ro anmagh dy leodaghey risk. Ta mooarane jeh'n phrowal bentyn rish mean-eash, mysh 40 gys 65 bleeaney d'eash, agh ta paart dy reddyn, myr sampleyr coayl fakin as lhiettrimys sheshoil, ny riskyn ayns eash ny s'anmey raad oddys goll er jannoo foast ve feeu.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Ta'n earroo gra dy vel prowal ny s'troshey ayn nish dy vel eiyrtys ny smoo ec roshtyn ny sodjey da risk. Myr sampleyr, ta diabeytys ta goaill toshiaght ayns mean-eash jeeaghyn dy ve ny smoo scanshoil na diabeytys ta goaill toshiaght ny s'anmey.
 
-## Is dementia risk the same for everyone?
+## Vel risk dementia yn un red son dy chooilley pheiagh?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Cha nel. Ren y Chommission feddyn dy vel sleih ayns çheeraghyn lesh argid as mean-argid ny s'injil, sleih veih myn-phossanyn as sleih lesh ny sloo argid gymmydey ny smoo jeh ny riskyn shoh, myr shen ta dementia cliaghtey goaill toshiaght ec eash ny s'aa. Ta ymmodee riskyn bentyn rish staydyn nagh ren sleih reih, myr sampleyr ynsagh v'ad er gheddyn myr paitchyn, yn aer raad t'ad beaghey, as vel bee slayntoil er ny gheddyn as er ny eeck.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Shen yn oyr dy vel coyrleyn y Chommission currit da reiltyssyn chammah as da sleih: ynsagh mie da dy chooilley phaitçhey, aer ny s'glenney, saaseyn dy lhiasaghey jaaghey, ny sloo shugyr as sollan ayns bee ta er ny chreck ayns shappyn as bunnityn bee, as saaseyn-clashtyn da dy chooilley pheiagh ta feme oc orroo. Ta streeu persoonagh scanshoil, agh myrgeddin y theihll ta sleih beaghey ayn. She oyr elley eh gyn oill y chur er dooinney erbee son shirveish.
 
-## What are the honest limits of this research?
+## Cre ny cagliaghyn onneragh jeh'n rannsagh shoh?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Ta dementia goaill jeihaghyn dy vleeantyn dy vianaase**, agh ta yn chooid smoo dy phrowalyn tannaghtyn daa gys queig bleeaney. Dy chowraghey dementia hene, cha nee ynrican eiyrtyssyn testyn, ta feme er studeyryssyn feer foddey as feer vooar.
+- **Ta yn chooid smoo dy phrowalyn towse testyn smooinaghtyn.** Cha nel jannoo ny share beg er test necessarily çheet er dy jean ny sloo sleih geddyn dementia ny dy bee bea gaghlaa ny sassey.
+- **Ta arryltee dy mennick ny s'slayntoil** as lesh ny smoo ynsagh na'n pobble cadjin. Ta Commission Lancet gra dy vel yn chooid smoo jeh'n phrowal foast çheet veih çheeraghyn berchagh as nagh vel myn-phossanyn goit stiagh dy liooar.
+- **Ta paart dy chianglaghyn goll daa raad.** Foddee dy vel ve ny sloo greimmit ny ny sloo sheshoil ny eiyrtys toshee jeh dementia, cha nee ynrican oyr.
+- **Ta prowalyn bee er ve mee-voynnagh derrey nish.** Cha ren prowal three bleeaney jeh bee-reilt MIND feddyn caghlaa scanshoil ayns smooinaghtyn noi bee-reilt reill. Jeeagh er y [lioarane ain mychione bee](/brain-health/diet/).
+- **Cha nel gammanyn inchyn er ny phrowal dy lhiettal dementia.** Jeeagh er y lioarane ain mychione
+  [gammanyn inchyn as dementia](/brain-health/brain-games/).
+- **Ta feer veg dy phrowal er deiney ayn mychione trostey**, as foddee eh ve dangeragh da sleih shinney. Jeeagh er y [lioarane ain mychione trostey](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## My ren peiagh dy chooilley nhee “dy kiart”, cre'n fa ren ad foast geddyn dementia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Er-yn-oyr nagh vel dementia ynrican eiyrtys reihyssyn. Ta'n NIA gra
+[she eash y red risk smoo ennoil son galar Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+as cha vod dooinney erbee eh y chaghlaa. Ta ayrn ec genyn. As cha vel toiggal slane ec sheanse foast er ny ta cur er Alzheimer ayns yn chooid smoo dy leih. Dy jarroo dy beagh dagh fer jeh ny 14 reddyn risk goit ersooyl, ta coontey hene Commission Lancet faagail ny smoo na lieh jeh caseyn gyn soilshaghey.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Myr shen, my t'ou cur tastey da persoon ren gleck, gee dy mie, cha ren rieau jaaghey as ren foast geddyn dementia, cha row nhee erbee aggairagh er e choontey hene, ny er dty hon hene. My t'ou beaghey lesh dementia hene, cha nee dty oill eh. Ta co-ennaghtyn dy vel oo foill cadjin mastey lught-thie, agh cha nel eh cairagh. Ny ta scanshoil nish, shen gerjagh, kiangley as laghyn mie, as ta ny [eieyn ain son reddyn dy yannoo](/activities/ideas/) as y
+[lioarane son kiarail-hene da sleih ta cur tastey](/caregiving/caregiver-self-care/) ny ynnydyn mie dy gholl toshiaght.
 
-## What steps can you talk over with a doctor?
+## Cre ny ceumyn oddys oo loayrt mychione marish dooinney lheeys?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Shoh ny reaghyn smoo t'er ny studeyrys. Ta ad feeu cur lesh gys jeeaghyn slaynt er-yn-oyr dy vel yn chooid smoo jeu cooney lesh slaynt cree, mean as seyrsnys myrgeddin, cre erbee ta'n eiyrtys oc er dementia.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Tranlaase yn uill.** Feysht cre ta dty earrooyn as cre'n jerrey ta cooie dhyt. Ta Commission Lancet coyrlaghey dy chur roish earroo heose 130 ny ny sloo veih mysh 40 bleeaney d'eash, agh ta'n jerrey cair da persoon shinney croghey er e slaynt slane.
+2. **Clashtyn.** Feysht son prow clashtyn, as vel saaseyn-clashtyn cooney. Ta'n
+   [lioarane ain mychione clashtyn](/brain-health/hearing/) soilshaghey yn rannsagh.
+3. **Fakin.** Gow prowallyn sooilley dy kinjagh as feysht vel doilleeidyn myr cataracts er nyn lheeys.
+4. **Cholesterol.** Feysht lhisagh dty cholesterol LDL ve jeeaghit er as lhisagh red erbee caghlaa.
+5. **Shugyr yn uill.** My ta diabeytys ort, feysht kys dy reill eh dy sauçhey.
+6. **Mean.** Ta trimsey cadjin as oddys eh ve er ny lheeys. Insh da dty ghooinney lheeys my t'ou er ve trimshagh ny er choayl anaase ayns reddyn rish ny smoo na daa hiaghtin.
+7. **Jaaghey as yough.** Feysht son cooney dy scuirr veih jaaghey as mychione cagliaghyn sauçhey son yough.
+8. **Gleashaght.** Feysht cre'n sorch dy ghleashaght ta sauçhey dhyt. Ta eieyn ayns y
+   [lioarane ain mychione gleck](/brain-health/exercise/).
+9. **Coadey yn chione.** Cur ort bayrn son roie markee as spoyrt-ventyryn, as feysht mychione lhiettal tuittym.
+10. **Tannaghtyn kianglt.** Ta traa marish sleih elley ayrn jeh bea slayntoil. Jeeagh er y lioarane ain mychione
+    [kiangley sheshoil](/brain-health/social-connection/), as
+    [cadley](/brain-health/sleep/) myrgeddin.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Roish caghlaa lheeys, bee, stoo lheeys, trostey ny gleck, loayr rish dty ghooinney lheeys hoshiaght, er lheh my ta doghan cree, diabeytys, shennaghys tuittym ayd, ny my t'ou hannah beaghey lesh dementia.
 
-## Talk with a doctor
+## Loayr rish dooinney lheeys
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+My vel oo cur tastey da caghlaaghyn ayns cooinaghtyn ny smooinaghtyn ta cur imnea ort, ort hene ny er peiagh elley, jean cuirrey. Ta'n NIA gra dy vod
+[doilleeidyn cooinaghtyn ve ec oyryn elley](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+myr sampleyr fo-eiyrtyssyn lheeys, doilleeidyn y thyroid, trimsey ny vitamin B12 injil, as dy vel paart jeh ny doilleeidyn shoh goll ersooyl tra ta'n oyr er ny lheeys. Ta'n
+[lioarane ain mychione cowraghyn](/brain-health/warning-signs/) soilshaghey ny t'ou dy yeeaghyn er e hon.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Gow cooney tappee** son caghlaaghyn doaltattym: anvea doaltattym, annooinid ny meayltys er un cheu, doilleeid loayrt, ny kione-jiarg feer trome — foddee ad ve cowraghyn jeh stroak ny stayd-ergency elley. Cur feysht er 999.
 
-## Where Golden Moments fits
+## Raad ta Golden Moments cooie
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Ta Golden Moments jannoo reddyn cooidjagh aashagh, myr sampleyr
+[kardyn resoonaght](/games/conversation-cards/),
+[bing caslyssyn](/games/picture-bingo/) as
+[sos ennal sheeoil](/games/calm-breathing/). T'ad son taitnys as traa ry-cheilley. Cha nee lheeys ad, as cha nel ad lhiettal ny moalaghey dementia.

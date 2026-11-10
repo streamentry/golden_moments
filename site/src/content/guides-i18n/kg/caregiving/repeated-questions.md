@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Kana muntu ya dimansa ke yulaka diaka ti diaka"
+seoTitle: "Dimansa: Ndinga ya ngyuvu ke vutukila mbala na mbala"
+description: "Sambu na nki muntu ya ke zingila ti dimansa ke yulaka ngyuvu mosi mbala na mbala, mutindu ya kuvutula na pima, bisadilu ya pete, mpi ntangu ya kubinga munganga."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Ngyuvu yina ke vutukila mbala na mbala ke monanaka mingi na dimansa: mbala
+  mingi muntu ke yibukaka ve nde yandi yulaka yo, mpi ngyuvu lenda monisa
+  ntima-mpasi. Vutula na pima mpi na mfunu mosi bonso kana yo kele mbala ya
+  ntete, tadila mawi yina kele na nima ya ngyuvu, mpi tuba ata ve « nge
+  yulaka yo dezia ». Sonika mvutu na kisika yina yandi lenda mona yo, zabisa
+  mambu yina ke kwisa kaka fioti ntangu na ntwala, mpi pesa kisalu mosi ya
+  kiese. Kana mambu sobaka na mbala mosi, bingaka munganga.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Mbala mingi muntu ke yibukaka ve nde yandi yulaka ngyuvu; yandi ke salaka yo na luzolo ve."
+  - "Ngyuvu lenda vanda ti mawi, bonso ntima-mpasi sambu na lukutakanu to mpusa ya kuwa nde yandi kele na lutaninu."
+  - "Vutula na pima, na mfunu mosi mpi na kindness, bonso kana yo kele mbala ya ntete. Tuba ata ve « nge yulaka yo dezia »."
+  - "Nkanda, tablo ya pembe, ntangu to kalandriye na kisika yina yandi ke monaka yo lenda pesa mvutu na kisika na nge."
+  - "Zabisa mambu yina lenda pesa ntima-mpasi kaka fioti ntangu na ntwala ya yo kusalama."
+  - "Baka kupema ya fioti ntangu nge kele na mfunu na yo, mpi bingaka munganga kana mambu sobaka na mbala mosi."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Sambu na nki tata na mono yina ke na dimansa ke landaka kuyula ngyuvu mosi?"
+    a: "Dimansa ke tambulaka mabanza ya ntangu fioti, yo yina yandi lenda vanda mpenza kukonda kuyibuka nde yandi yulaka to yandi waka mvutu. Mbala mingi ngyuvu ke nataka mpi mawi, bonso ntima-mpasi sambu na mambu yina ta landa to mpusa ya kuwa nde mambu ke vanda mbote. Kuvutula na mawi yina mbala mingi ke sadisaka kuluta kuvutukila kaka mambu."
+  - q: "Keti mono fwete songa yandi nde yandi yulaka yo dezia?"
+    a: "Ve. Yo lenda sadisa ve yandi na kuyibuka, mpi yo lenda pesa yandi mawi ya nde bo ke yidika yandi. Mabundu ya dimansa ke pesaka ndongisila ya kuvutula na pima konso ntangu, bonso kana yo kele mbala ya ntete, mpi ya kukanga mvutu nkufi."
+  - q: "Keti kusonika mvutu ke sadisaka?"
+    a: "Yo lenda sadisa, ntangu muntu lenda kaka kutanga. Nkanda, tablo ya pembe ti programe ya bubu, ntangu ya nene to kalandriye na kisika yina yandi ke talaka mingi ke pesa yandi nzila ya kutala mvutu yandi mosi. Songaka yo na mawete na kisika ya kutuba nde « mono songaka nge yo dezia »."
+  - q: "Ntangu ya nki mono fwete tubila mambu ya lukutakanu to ya kukwenda?"
+    a: "Pene-pene ya ntangu. Kutubila vizite ya munganga to nzietelo bilumbu mingi na ntwala lenda kumisa bangunga ya ngyuvu ya ntima-mpasi. Zabisa yandi fioti ntangu na ntwala, na pima, ti mambu yina ta landa."
+  - q: "Ntangu ya nki kuvutukila ngyuvu kele kikuma ya kubinga munganga?"
+    a: "Kana ngyuvu, kisakasaka to bikalulu sobaka na mbala mosi to kumaka mbi mingi na kati ya bangunga to bilumbu, bingaka munganga na yandi nswalu. Maladi ya mikrobe, nkisi ya mpa, mpasi, kubindama ya divumu to kukonda masa na nitu lenda nata kisakasaka ya mbala mosi yina bo ke bingaka delirium, mpi yo ke lombaka lusadisu ya nswalu."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +59,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+« Ntangu ya nki beto ke kwenda na munganga? » Minute kumi na nima: « Ntangu ya nki beto ke kwenda na munganga? » Kuwa ngyuvu mosi mbala na mbala kele mambu mosi ya ke lembisaka mingi ntangu nge ke sunga muntu yina ke zingila ti dimansa. Yo ke salamaka mingi, yo ke salamaka na luzolo ve, mpi kele ti banzila ya pima ya kuvutula yina lenda sadisa kilumbu kuvanda pete sambu na beno nyonso zole.
 
-## Why does someone with dementia ask the same question over and over?
+## Sambu na nki muntu yina ke na dimansa ke yulaka ngyuvu mosi mbala na mbala?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Mbala mingi sambu na mabanza. Dimansa ke tambulaka mabanza ya ntangu fioti, yo yina muntu lenda vanda kukonda kuyibuka nde yandi yulaka, to kukonda kuyibuka mvutu. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) ke tendula nde kuyula ngyuvu mbala mingi kele diambu yina ke monanaka mingi.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Ngyuvu lenda nataka mpi mawi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ke tendula nde ngyuvu yina ke vutukila lenda monisa ntima-mpasi, kulomba lusadisu, to boma mpi kukonda lutaninu, mpi nde mbala mingi muntu ke sosa kikesa mpi mambu ya kuyikana. « Ntangu ya nki beto ta kwenda? » lenda vanda ti ntendula nde « Mono ke wa boma sambu na kukwenda. » Kukonda kisalu, boma, makelele mpi bansoba na luzingu ya konso kilumbu lenda basisa yo, mpi ngyuvu yina ke vutukila lenda monisa mpi mfunu, bonso kukwenda na kabine ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Inki mono fwete tuba?
 
-Answer calmly and briefly, as if it were the first time.
+Vutula na pima mpi na mfunu mosi, bonso kana yo kele mbala ya ntete.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Kangaka mvutu nkufi mpi ya mutindu mosi.** « Beto ta kwenda na munganga na ntangu zole ya nima ya midi. Mono ta vanda ti nge. » Mvutu ya mutindu mosi ke petaka na kubaka.
+- **Vutula na mawi.** « Nge ke yindula sambu na munganga. Yo kele bubu na nima ya midi, mpi mono ta nata beto na kamio. Kele ve ti diambu yina nge fwete sala. »
+- **Sadila ndinga ya mawete mpi kusimba na mawete,** kana yandi ke sepelaka na yo. Alzheimer's Association ke pesaka ndongisila ya kuvanda pima mpi ya kusadila ve bangindu ya ngolo to kuswana.
+- **Pesa mvutu yina yandi ke sosa,** mbala yonso yina kele mfunu. Alzheimer's Association ke tubaka nde vutula yo mbala yonso yina yandi ke yula.
 
-## What should I avoid?
+## Inki mono fwete buya?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **« Nge yulaka mono yo dezia. »** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ke pesaka ndongisila ya kubuya kumonisa nde yandi yulaka kaka ntangu fioti me luta. Yo lenda sadisa ve yandi na kuyibuka, mpi yo lenda pesa mawi ya nde bo ke nganina yandi.
+- **Ntendula ya nda.** Bangogo mingi ke pesaka mambu mingi ya kuvila.
+- **Kupema na ngolo, kunikisa meso to ndinga ya makasi.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ke pesaka ndongisila ya kuvanda na ntima ya nda mpi ya kumonisa ve kiyadi. Yo ke vanda mpasi; tala kitini ya kupema na nsi.
 
-## Simple tools that answer the question for you
+## Bisadilu ya pete yina ke pesaka mvutu na kisika na nge
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Ntangu muntu lenda kaka kutanga, mvutu ya kusonama yina yandi lenda mona mbala mingi ke sadisaka kuluta mvutu ya kutuba.
 
-| Tool | How to use it |
+| Kisadilu | Mutindu ya kusadila yo |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Nkanda ti masonama ya nene | « Munganga bubu na ntangu 2 ya nima ya midi. Marie ta nata na kamio. » Tula yo na kisika yina yandi ke talaka mingi |
+| Tablo ya pembe | Programe ya bubu na ndonga tatu to iya; kusaka mpi sonika diaka konso suka |
+| Ntangu ya nene ti kilumbu mpi dati | Ke sadisaka sambu na « Bubu kele kilumbu ya nki? » mpi « Ntangu me kuma dezia? » |
+| Kalandriye | Katula konso kilumbu; zinga vizite yina ke landa |
+| Bafoto ya kuyikana | Foto ya muntu yina ke kwisa lenda vutula na ngyuvu « Nani ke kwisa? » |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Bangindu yai ke katukaka na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) mpi [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Songaka nkanda na mawete (« Beto tala tablo kintwadi ») na kisika ya kutuba « Mono sonikaka yo sambu na nge. »
 
-## Tell them about events close to the time
+## Tubila mambu pene-pene ya ntangu
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Kutubila lukutakanu to nzietelo bilumbu mingi na ntwala lenda kumisa bangunga ya ngyuvu ya ntima-mpasi. Family Caregiver Alliance mpi Alzheimer's Los Angeles nyonso zole ke pesaka ndongisila ya kutubila bapulani, mingi-mingi yina ke pesaka ntima-mpasi bonso vizite ya munganga to kuyobila, kaka fioti ntangu na ntwala ya yo kusalama. Na nima, tuba mambu yina ta landa, kitambi mosi na ntangu mosi.
 
-## Activities that can shift attention
+## Bisalu yina lenda soba dikebi
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Na nima ya kupesa mvutu mpi ya kuzaba mawi, kisalu mosi ya pima mpi ya kiese lenda sadisa, mingi-mingi kana kukonda kisalu kele na nima ya bangyuvu. Konso nto yina kele na zulu ke pesaka ndongisila ya kusoba dikebi na diambu mosi yina muntu ke zolaka.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Nsaka ya nkufi mpi ya pete kintwadi.** [Picture pairs](/games/picture-pairs/) ke bikaka bafoto na zulu, yo yina kele ve mfunu ya kuyibuka kima.
+2. **Kisalu mosi ya kuyikana.** Kupika badrapo, kuyidika bakosete to kutula mesa. [Sort together](/games/sort-together/) kele mutindu mosi na ekrani.
+3. **Tubila diambu mosi yina yandi ke zolaka mingi.** [Conversation cards](/games/conversation-cards/) ke pesaka bangyuvu ya kukangula masolo, kukonda mvutu ya mbote to ya mbi.
+4. **Miziki, kutambula fioti to kudia fioti.** National Institute on Aging ke tangaka mambu yai na kati ya banzila ya pete ya kusoba dikebi.
+5. **Kupema ya pima.** Vanda kintwadi, tala na fenetre, to meka ntangu ya [calm breathing](/games/calm-breathing/) kintwadi.
 
-If they return to the question, answer it again, kindly. That is fine.
+Kana yandi vutuka na ngyuvu, vutula diaka, na mawete. Yo kele mbote.
 
-## Look for patterns
+## Talaka bikalulu yina ke vutukilaka
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association ke pesaka ndongisila ya kutala kana bangyuvu ke kwisaka na bantangu ya sikisiki ya kilumbu, pene-pene ya bantu ya sikisiki to na bisika ya sikisiki. Kana yo ke bandaka ntangu yonso na ntwala ya bantu kukwisa, to na nima ya midi ya nsuka, nge lenda yidika na ntwala: nkanda sambu na vizite, kisalu mosi ya kuyikana ya kuyilama, to suku mosi ya pima mingi. Lutwadisu na beto ya [bisalu ya pima na nima ya midi ya nsuka](/caregiving/late-day-restlessness/) lenda sadisa kana nkokila ke vanda mpasi mingi.
 
-## Take care of yourself
+## Kuditanina nge mosi
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Kuvutula na ngyuvu mosi mbala ya makumi zole ke lembisaka. Kana nge ke wa nde ntima ya nda na nge ke manaka mpi muntu kele na lutaninu, kota na suku ya nkaka sambu na baminiti fioti mpi pema, mutindu [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) ke pesaka ndongisila. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ke pesaka bantu yina ke sunga kikesa ya kulomba lusadisu mpi ya kuyindula lusadisu ya kupema. Bangindu ya nkaka kele na [lutwadisu na beto sambu na kuditanina muntu yina ke sunga](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Ntangu ya nki mono fwete binga munganga?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Bingaka munganga na yandi nswalu kana ngyuvu, kisakasaka to bikalulu sobaka na mbala mosi to kumaka mbi mingi na kati ya bangunga to bilumbu. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ke tubaka nde bikalulu yina ke sobaka na mbala mosi to nswalu, mingi-mingi na nima ya maladi ya mikrobe to nsoba ya nkisi, fwete zabisama na munganga nswalu. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) ke tendula nde maladi ya mikrobe, bankisi, kukonda masa na nitu, mpasi to kubindama ya divumu lenda nata delirium, kisakasaka ya ngolo yina ke basikaka na mbala mosi mpi yina ke lombaka lusadisu ya nswalu. Bingaka 112 to nimero ya lukanu ya mbala mosi ya kisika na nge kana muntu kele na kigonsa.

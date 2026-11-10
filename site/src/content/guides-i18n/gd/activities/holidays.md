@@ -1,33 +1,35 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Gnìomhan saoraidh do chuideigin le trom-inntinn, bho Latha Taingealachd air adhart"
+seoTitle: "Beachdan saoraidh is Latha Taingealachd airson trom-inntinn"
+description: "Gnìomhan saoraidh sìmplidh do chuideigin le trom-inntinn: obraichean còcaireachd, sgeadachadh, ceòl, dealbhan is gairmean bhidio, agus mar a nì thu Latha Taingealachd no Nollaig nas socraiche."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Cùm na saor-làithean nas lugha, nas tràithe san latha agus faisg air
+  gnàth-chleachdadh an neach. Thoir dhaibh obair fhìor, shàbhailte leithid a’
+  cur a’ bhùird, a’ nighe ghlasraich, a’ pasgadh tìodhlac no a’ crochadh
+  sgeadachaidh. Co-roinn ceòl air a bheil iad eòlach agus seann dealbhan,
+  ullaich aoighean ro làimh, agus cuir seòmar sàmhach air dòigh. Na dèan ach na
+  dh’fhaodas tu a riaghladh gu reusanta; tha comharrachadh goirid, socair na
+  dheagh chomharrachadh.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Comharraich nas tràithe san latha, leithid lòn no bracaist, ma tha mì-chinnt tric anmoch san latha."
+  - "Tairg obraichean fìor: a’ cur a’ bhùird, a’ nighe glasraich, a’ pasgadh, a’ sgeadachadh no a’ cur milseagan air truinnsear."
+  - "Tha ceòl air a bheil iad eòlach, carolan agus seann chlàran dhealbhan nan dòighean furasta air an t-seusan a cho-roinn."
+  - "Innis do aoighean dè bu chòir dhaibh a bhith an dùil, agus seall dealbhan dhan neach den fheadhainn a tha a’ tighinn."
+  - "Cuir seòmar sàmhach air dòigh le plaide no geansaidh as fheàrr leotha, agus cùm aoighean gu beagan aig an aon àm."
+  - "Leig seachad rud sam bith a dh’fhaodadh a bhith cus, a’ gabhail a-steach sgeadachaidhean a tha coltach ri biadh agus mòran sholais a’ priobadh."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Dè as urrainn do chuideigin le trom-inntinn a dhèanamh aig Latha Taingealachd?"
+    a: "Thoir dhaibh obair shìmplidh, shàbhailte a fhreagras air na dh’fhaodas iad a dhèanamh an-diugh: a’ nighe glasraich, a’ toinneamh sabhs cranbaraidh, a’ cur a’ bhùird, a’ pasgadh napcain no a’ cur milseagan air truinnsear. An dèidh sin, coimhead air seann dealbhan teaghlaich no seinn òrain air a bheil sibh eòlach còmhla. Tha e nas cudromaiche a bhith nam pàirt den latha na mar a thig an obair a-mach."
+  - q: "Am bu chòir dhuinn cruinneachadh mòr teaghlaich a chumail fhathast?"
+    a: "A-mhàin ma tha e furasta a riaghladh. Faodaidh sluagh is fuaim a bhith cus, agus mar sin bidh mòran theaghlaichean a’ gluasad gu cruinneachadh nas lugha is nas neo-fhoirmeil, biadh nas tràithe, no aoighean a’ tighinn ann am buidhnean beaga. Tha Comann Alzheimer a’ brosnachadh luchd-cùraim gun a bhith a’ dèanamh ach na dh’fhaodas iad a riaghladh gu reusanta agus gu sàbhailte."
+  - q: "Ciamar a dh’ullaicheas mi teaghlach nach eil air tadhal o chionn fhada?"
+    a: "Innis dhaibh mus ruig iad mu na h-atharrachaidhean a dh’fhaodadh iad fhaicinn, agus gur ann bhon ghalar, chan bhon neach, a tha iad sin. Iarr orra gun a bhith a’ ceartachadh no a’ ceasnachadh, bruidhinn aon aig an aon àm agus ùine a thoirt airson freagairtean. Faodaidh e cuideachadh cuideachd dealbhan de na h-aoighean a shealltainn dhan neach ro làimh."
+  - q: "Dè na tìodhlacan a tha freagarrach do chuideigin a tha a’ fuireach le trom-inntinn?"
+    a: "Rudan sìmplidh, sàbhailte as urrainn dhaibh a mhealtainn an-dràsta: greim bìdh as fheàrr leotha, plaide no geansaidh bog, ceòl air a bheil iad eòlach, no clàr dhealbhan den teaghlach. Seachain innealan dealanach toinnte, innealan obrach agus geamannan-bùird dùbhlanach. Faodaidh e a bhith na thiodhlac ann fhèin a bhith gan toirt a-steach ann a bhith a’ toirt seachad, leithid a’ pasgadh tìodhlac no a’ pacadh bhriosgaidean a chuidich iad a bhruich."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +42,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Faodaidh saor-làithean cuimhneachain blàth a thogail air ais, agus faodaidh iad cuideachd fuaim, sluagh agus atharrachaidhean air an latha àbhaisteach a thoirt leotha. Do chuideigin a tha a’ fuireach le trom-inntinn, mar as trice bidh na comharraidhean as fheàrr nas lugha, nas slaodaiche agus stèidhichte air rudan as urrainn dhaibh a mhealtainn fhathast. Tha na beachdan seo ag obair airson Latha Taingealachd, Nollaig, Hanukkah, a’ Bhliadhna Ùr agus co-làithean-breith teaghlaich.
 
-## How do I plan a calmer holiday?
+## Ciamar a nì mi plana airson saor-làithean nas socraiche?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Tòisich le gnàth-chleachdadh an neach agus dèan plana airson an latha timcheall air. Tha [Alzheimer’s Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) a’ moladh an comharrachadh a chumail nas tràithe san latha, oir bidh mì-chinnt agus mì-fhoisneachd gu tric a’ fàs nas miosa anmoch feasgar agus air an oidhche (uaireannan canar sundowning ris an seo). Faodaidh lòn no bracaist saoraidh a bhith nas fhasa na dìnnear anmoch.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Cùm e aig a’ mheud cheart.** Gu tric tha cruinneachadh nas lugha is nas neo-fhoirmeil, no aoighean a’ ruighinn beagan aig an aon àm, nas fhasa na aon bhòrd làn.
+- **Roinn obraichean.** Iarr air càirdean biadh a thoirt leotha, na ceannachdan a dhèanamh no ùine a chur seachad leis an neach fhad ’s a tha thu a’ còcaireachd. Bi soilleir mu na chuideachadhas.
+- **Cùm sgeadachaidhean sìmplidh.** Tha [Comann Alzheimer](https://www.alz.org/help-support/caregiving/holidays) a’ toirt fa-near gum faod solais a tha a’ priobadh a bhith mì-chinnteach, agus gum faod measan fuadain no siùcairean a thathar a’ cleachdadh mar sgeadachadh a bhith air am mearachdachadh mar bhiadh.
+- **Co-dhùin dè a leigeas tu seachad.** Ma tha traidisean air fàs duilich no cunnartach, tha e gu math ceart a leigeil seachad no fear nas socraiche fheuchainn.
 
-## What holiday activities can we do together?
+## Dè na gnìomhan saoraidh as urrainn dhuinn a dhèanamh còmhla?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Tagh obraichean agus cur-seachadan a fhreagras air na dh’fhaodas an neach a dhèanamh an-diugh. Tha e nas cudromaiche a bhith nam pàirt den latha na mar a thig e a-mach.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Cuir am bòrd còmhla.** Suidhich truinnsearan an toiseach, an uairsin napcain, an uairsin cupannan. Tha pasgadh napcain na dheagh obair ri dhèanamh na shuidhe.
+2. **Nigh is seòrsaich glasraich.** Tha a bhith a’ sruthladh bhuntàta no a’ briseadh phònairean uaine aig bòrd a’ chidsin sàbhailte agus eòlach do mhòran dhaoine a b’ àbhaist a bhith a’ còcaireachd.
+3. **Toinn, measgaich no cuir air truinnsear.** Tha a bhith a’ toinneamh sabhs cranbaraidh, a’ measgachadh batair shìmplidh no a’ cur bhriosgaidean air truinnsear a’ cumail làmhan trang air falbh bhon stòbha is sgeinean.
+4. **Pasg tìodhlac.** Gearr am pàipear is an teip ro làimh, agus leig leis an neach a phasgadh is a dhèanamh rèidh. Chan eil pasgadh grinn na phuing.
+5. **Croch beagan sgeadachaidh.** Tagh sgeadachaidhean nach bris agus aon àite beag, leithid cèarcall dorais no craobh bheag.
+6. **Dèan obair-làimhe shìmplidh.** Bidh slabhraidhean pàipeir, collage dhuilleagan no cairt saoraidh le stampaichean ag obair gu math. Tha barrachd bheachdan san [stiùireadh againn air ealain is obair-làimhe](/activities/arts-and-crafts/).
+7. **Seinn is èist.** Tha carolan is òrain saoraidh air a bheil daoine eòlach furasta a ghabhail a-steach, eadhon do chuideigin a tha a’ bruidhinn nas lugha a-nis. Faic an [stiùireadh againn air ceòl](/activities/music/) airson liosta-chluich a thogail.
+8. **Coimhead air seann dealbhan saoraidh.** Thoir a-mach clàran bho chomharraidhean roimhe agus thoir cuireadh do sgeulachdan (‘Innis dhomh mun bhòrd seo’) an àite a bhith a’ faighneachd cò tha cò. Tha an [stiùireadh againn air ath-chuimhneachadh](/activities/reminiscence/) a’ mìneachadh mar a nì thu sin.
+9. **Cluich geama socair ann am buidheann.** Gabhaidh [bingo dhealbhan](/games/picture-bingo/) a chlò-bhualadh ann am mionaidean agus bidh e ag obair do gach aois, agus bheir [cairtean còmhraidh](/games/conversation-cards/) rudeigin aig a h-uile duine ri bhruidhinn mu dheidhinn.
+10. **Dath còmhla.** Faodar [duilleagan dathte sìmplidh](/games/coloring/) a chlò-bhualadh airson clann is seann-phàrantan a cho-roinn aig a’ bhòrd.
+11. **Coimhead air film saoraidh as fheàrr leibh.** Tha film air a bheil sibh eòlach socair, agus tha e gu math ceart dìreach pàirt dheth fhaicinn.
+12. **Gabh turas goirid san càr a choimhead air solais.** Faodaidh turas sàmhach seachad air taighean sgeadaichte a bhith nas fhasa na tachartas làn sluaigh.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Ma bha còcaireachd na phàirt mhòr de bheatha an neach, tha barrachd dhòighean san stiùireadh againn air [obraichean taighe mar ghnìomhan](/activities/household-tasks/) gus obraichean cidsin a chumail sàbhailte is sàsachail.
 
-## How do I prepare guests?
+## Ciamar a dh’ullaicheas mi aoighean?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Innis do aoighean dè bu chòir dhaibh a bhith an dùil mus ruig iad, gu h-àraidh càirdean nach eil air tadhal o chionn fhada. Tha Comann Alzheimer a’ moladh mìneachadh gu bheil atharrachaidhean ann an cuimhne is giùlan a’ tighinn bhon ghalar, chan bhon neach.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Roinn beagan mholaidhean sìmplidh:** bruidhinn aon aig an aon àm, ùine a thoirt airson smaoineachadh a chrìochnachadh, gun a bhith a’ ceartachadh no a’ ceasnachadh, agus freagairt ri tòna an neach ma tha faclan doirbh a leantainn.
+- **Abair dè a chuidicheas agus dè a dh’fhaodadh dragh a chur orra.** Ma tha guthan àrda, cabhag no cuspairean sònraichte ag adhbhrachadh àmhghar, abair sin.
+- **Cuir aoighean an aithne ro làimh.** Seall dealbhan dhan neach de na tha a’ tighinn agus roinn sgeulachd no dhà, no cuir gairm ghoirid fòn no bhidio air dòigh ron latha.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Tha barrachd fiosrachaidh san [stiùireadh againn air molaidhean conaltraidh](/caregiving/communication-tips/).
 
-## What if it gets to be too much?
+## Dè ma thig e gu bhith cus?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Cuir seòmar sàmhach air dòigh mus ruig aoighean, air falbh bhon fhuaim, le rudan comhfhurtail air a bheil iad eòlach leithid plaide no geansaidh as fheàrr leotha, no gnìomh sìmplidh. Tairg e tràth agus gu tric: ‘An suidh sinn àiteigin nas sàmhaiche airson greis?’
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Tha e na thoradh math, chan na fhàilligeadh, a bhith a’ fàgail a’ bhùird, a’ dol dhan leabaidh tràth no a’ leigeil seachad pàirt den latha. Ma dh’fhàsas an neach troimh-chèile, bidh guth socair, òran air a bheil iad eòlach no coiseachd gu seòmar eile gu tric nas cuideachaile na reusanachadh. Tha barrachd bheachdan san stiùireadh againn air [mì-fhoisneachd anmoch san latha](/caregiving/late-day-restlessness/) airson na h-oidhche.
 
-## How can family far away take part?
+## Ciamar as urrainn do theaghlach fad às pàirt a ghabhail?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Leigidh gairmean bhidio le càirdean a bhith an làthair gun a bhith a’ cur ris an t-sluagh. Tha Comann Alzheimer a’ moladh beagan structair a thoirt do ghairmean, mar eisimpleir òrain ràithe a sheinn, dealbhan bho chomharraidhean roimhe a cho-roinn, an aon reasabaidh a chòcaireachd còmhla no film saoraidh fhaicinn aig an aon àm. Cùm gairmean goirid, agus iarr air daoine bruidhinn aon aig an aon àm, oir tha e doirbh tar-bhruidhinn a leantainn. Tha beachdan ceum air cheum san [stiùireadh againn air gairmean fòn is bhidio](/activities/phone-and-video-calls/).
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Ma tha an neach a’ fuireach ann an cùram cuimhne, thoir sùil air poileasaidh nan tadhail agus iarr air an luchd-obrach cuideachadh le gairm a chur air dòigh. Tha an stiùireadh againn air [tadhal air cuideigin ann an cùram cuimhne](/activities/visiting/) a’ mìneachadh dè a bheir thu leat agus mar a dh’fhàgas tu gu socair.
 
-## What gifts suit someone with dementia?
+## Dè na tìodhlacan a tha freagarrach do chuideigin le trom-inntinn?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Mar as trice bidh tìodhlacan sìmplidh, sàbhailte as urrainn dhaibh a mhealtainn an-dràsta ag obair as fheàrr: greim bìdh as fheàrr leotha, plaide no cairdeagan bog, ceòl air a bheil iad eòlach, mìosachan le clò mòr, no clàr de dhealbhan teaghlaich. Tha Comann Alzheimer a’ comhairleachadh innealan cunnartach, innealan dealanach toinnte agus geamannan-bùird dùbhlanach a sheachnadh.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Faodaidh a bhith a’ toirt seachad a bhith cho cudromach ri bhith a’ faighinn. Le bhith a’ pacadh bhriosgaidean a chuidich an neach a bhruich, no le bhith gan toirt a-steach ann a bhith a’ pasgadh tìodhlac a cheannaich thu, faodaidh iad pàirt a ghabhail san t-seusan. Is e beachd eile geama dhealbhan teaghlaich: bidh [paidhrichean dhealbhan](/games/photo-pairs/) a’ tionndadh beagan dhealbhan taghte gu geama maidsidh socair sa bhrabhsair.
 
-## Look after yourself too
+## Thoir aire ort fhèin cuideachd
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Bidh saor-làithean a’ cur barrachd obrach ri cùram. Leig le cuideigin eile aoigheachd a thoirt seachad no an turcaidh a chòcaireachd, can nach urrainn dhut a dhol gu tachartasan a bhios doirbh, agus gabh fois fhad ’s a bhios feadhainn eile a’ cur seachad ùine leis an neach. Ma tha thu fhèin no an neach air a bheil thu a’ toirt cùram tinn, tha smèid bhon rathad-draibhidh no gairm bhidio gu tur ceart mar thadhal. Tha barrachd taic san stiùireadh againn air [fèin-chùram luchd-cùraim](/caregiving/caregiver-self-care/).

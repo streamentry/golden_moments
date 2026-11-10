@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Տնային գործերը՝ դեմենցիա ունեցող մարդկանց համար"
+seoTitle: "Տնային զբաղմունքներ դեմենցիայի դեպքում"
+description: "Սրբիչ ծալելը, տեսակավորելը, սեղան գցելը և պարզ եփելը կարող են իմաստալից զբաղմունքներ լինել։ Ինչպես նախապատրաստել, հարմարեցնել և անվտանգ դարձնել։"
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Առօրյա գործերը, ինչպիսիք են սրբիչներ ծալելը, գուլպաներ զույգավորելը, սեղան
+  գցելը, մակերեսներ սրբելը, բույսերը ջրելը և պարզ եփելիս օգնելը, կարող են
+  դեմենցիա ունեցող մարդուն իրական հնարավորություն տալ օգնելու։ Ընտրեք իրեն
+  ծանոթ գործեր, բաժանեք դրանք մեկ քայլի, հեռացրեք սուր կամ տաք վտանգները և
+  ավելի կարևոր համարեք մասնակցելը, քան «ճիշտ» անելն։
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Ծանոթ տնային գործերը կարող են օգնել մարդուն իրեն օգտակար և տան մի մաս զգալ, ինչը հաճախ ավելի կարևոր է, քան գործի կատարման որակը։"
+  - "Յուրաքանչյուր գործ բաժանեք առանձին քայլերի, ցույց տվեք, այլ ոչ թե բացատրեք, և հանգիստ ստանձնեք այն քայլը, որը դարձել է դժվար։"
+  - "Դանակները, մաքրող միջոցները և լվացքի կապսուլաները պահեք կողպված, իսկ եփելուց առաջ վառարանի բռնակների պաշտպանիչներ կամ ինքնաշխատ անջատիչ դրեք։"
+  - "Ծալված սրբիչները հարկավոր չէ մարդու դիմաց նորից ծալել։ Եթե ինչ-որ բան իսկապես պետք է ուղղել, արեք դա ավելի ուշ և նրա աչքից հեռու։"
+  - "Եթե գործը հիասթափություն է առաջացնում, անցեք ավելի հեշտ քայլի, փորձեք մեկ այլ անգամ կամ պարզապես նստեք միասին։"
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Ի՞նչ տնային գործերով կարող է դեռ օգնել դեմենցիա ունեցող մարդը։"
+    a: "Շատ մարդիկ դեռ կարող են լվացք ծալել, գուլպաներ զույգավորել, սեղանի սպասք տեսակավորել, սեղան գցել, սեղան սրբել, փոշի մաքրել, ավլել, բույսերը ջրել կամ ամանի մեջ խառնուրդ խառնել։ Ընտրեք այն գործերը, որոնք մարդն արել է անցյալում, և հարմարեցրեք նրան, ինչ կարող է անել հիմա։ Ավելի ուշ փուլերում գուցե բավական լինի մեկ կրկնվող շարժում, օրինակ՝ անձեռոցիկները հարթելը։"
+  - q: "Արդյո՞ք անվտանգ է, որ դեմենցիա ունեցող մարդը օգնի խոհանոցում։"
+    a: "Կարող է անվտանգ լինել, եթե դուք մոտ եք և ճիշտ պայմաններ եք ստեղծել։ Դանակները, մաքրող միջոցները և ամեն տաք բան պահեք անհասանելի, օգտագործեք վառարանի բռնակների պաշտպանիչներ կամ ինքնաշխատ անջատիչ, և մարդուն տվեք անվտանգ աշխատանք, օրինակ՝ բանջարեղեն լվանալ, խառնել կամ ափսեներ դնել։ Երբեք նրան մի թողեք մենակ միացված վառարանի մոտ։"
+  - q: "Ի՞նչ անել, եթե նրանք սխալ են ծալում կամ խառնաշփոթ են անում։"
+    a: "Թույլ տվեք, որ այդպես լինի։ Նպատակը միասին ժամանակ անցկացնելն է և օգտակար զգալը, ոչ թե կատարյալ արդյունքը։ Եթե ինչ-որ բան իսկապես պետք է նորից անել, սպասեք ավելի ուշ և արեք դա, երբ մարդը չի նայում, որպեսզի նա չզգա, թե իրեն ուղղում են։"
+  - q: "Ի՞նչ անել, եթե նրանք չեն ուզում օգնել։"
+    a: "«Ոչ»-ը կարող է նշանակել, որ գործը հիմա շատ դժվար, շփոթեցնող կամ հոգնեցնող է։ Մի պնդեք։ Փորձեք ավելի պարզ տարբերակ, հրավիրեք նրան պարզապես ձեզ ընկերակցել կամ կրկին հարցրեք օրվա ավելի հարմար պահին։"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Դեմենցիա ունեցող շատ մարդիկ տասնյակ տարիներ վարել են տունը, մեծացրել են ընտանիք կամ կարգ ու կանոն պահել աշխատավայրում։ Երբ նրանց խնդրում եք օգնել իսկական տնային գործերում, դա կարող է փոխանցել այն միտքը, որ «դուք դեռ այս տան մի մասն եք», այնպես, ինչպես քիչ այլ զբաղմունքներ կարող են։ Այս էջում կգտնեք, թե որ գործերն են սովորաբար հարմար լինում, ինչպես պատրաստել դրանք, ինչպես հարմարեցնել փոփոխությունների դեպքում և ինչպես ապահով պահել խոհանոցն ու լվացքի տարածքը։
 
-## Why do everyday chores work well as activities?
+## Ինչո՞ւ են առօրյա գործերը հարմար զբաղմունքներ։
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Տնային գործերը հարմար են, որովհետև ծանոթ են և ունեն հստակ նպատակ։ National Institute on Aging-ը ափսեներ լվանալը, սեղան գցելը, ավլելը, փոշի մաքրելը, նամակները տեսակավորելը, լվացք ծալելը և վերամշակվող նյութերը տեսակավորելը նշում է որպես [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)։ Alzheimer's Association-ը նշում է, որ սեղան գցելու նման գործերը կարող են օգնել մարդուն [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities)։
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Տնային գործն ունի նաև սկսելու իր պատճառը։ «Կկարողանա՞ք օգնել ինձ այս սրբիչներով» ասելն ավելի հեշտ է, քան «Կցանկանա՞ք զբաղմունք անել»։
 
-## Which household tasks are good to try?
+## Ո՞ր տնային գործերը կարելի է փորձել։
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Սկսեք այն գործերից, որոնք մարդն արել է անցյալում, ապա հարմարեցրեք այն բանին, ինչ կարող է անել այսօր։
 
-### Laundry and linens
+### Լվացք և սպիտակեղեն
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Սրբիչներ և փոքր անձեռոցիկներ ծալել։** Տվեք փոքր, հարթ իրերով զամբյուղ։ Սրբիչները հարմար են. դրանք սխալ ծալելու ձև չկա։
+- **Գուլպաներ զույգավորել։** Սեղանին դրեք խառը կույտ։ Եթե զույգերը դժվար է նկատել, օգտագործեք միայն երկու կամ երեք շատ տարբեր գույներ։
+- **Հարթել և դարսել։** Անձեռոցիկները, բարձի երեսները կամ խոհանոցային սրբիչները կարելի է հարթել և դարսել։ Սա լավ է աշխատում ավելի ուշ փուլերում, երբ ծալելը արդեն շատ քայլեր է պահանջում։
 
-### Table and kitchen
+### Սեղան և խոհանոց
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Սեղան գցել։** Մի տեղադրություն դնել որպես օրինակ և թող մարդը կրկնօրինակի։ Եթե դա շատ է, տվեք մեկ առարկա միաժամանակ. «Ահա մեկ պատառաքաղ յուրաքանչյուր ափսեի համար»։
+- **Սեղանի սպասք տեսակավորել։** Մաքուր պատառաքաղները, գդալները և կարագի դանակները լցրեք տարայի մեջ և տեսակավորեք բաժանված դարակում։ Սուր դանակները մի ներառեք։
+- **Ափսեներ չորացնել։** Պլաստիկ կամ չկոտրվող ափսեներն ու փափուկ սրբիչը սա դարձնում են անվտանգ աշխատանք։
+- **Սեղանը կամ մակերեսները սրբել։** Խոնավ կտոր և մաքուր մակերես։ Alzheimer's Association-ը առաջարկում է կտոր առաջարկել, եթե մարդն արդեն ձեռքով շփում է սեղանը՝ անհանգիստ շարժումը վերածելով օգտակար գործի։
 
-### Around the house
+### Տան շուրջը
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Փոշի մաքրել։** Փափուկ փոշեհավաք և մի քանի ամուր մակերես, օրինակ՝ սուրճի սեղան կամ գրապահարան։
+- **Նամակներ տեսակավորել։** Տվեք գովազդային նամակներ և կատալոգներ՝ կույտերի բաժանելու համար. պահել, վերամշակել, հետո բացել։ Իրական հաշիվներն ու չեկերը պահեք ուրիշ տեղ։
+- **Վերամշակվող նյութեր տեսակավորել։** Մաքուր տուփերը, շշերը և թուղթը՝ առանձին աղբամանների մեջ։
+- **Ավլել։** Փոքր ավել՝ պատշգամբում կամ խոհանոցի հատակին, եթե հավասարակշռությունը կայուն է։
+- **Բույսերը ջրել։** Փոքր, թեթև ջրցան և մի քանի բույս՝ հեշտ հասանելի տեղում։
 
-### Simple cooking with supervision
+### Պարզ եփում՝ ձեր անմիջական հսկողությամբ
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Եփելը կարող է արթնացնել ուժեղ, հաճելի զգացողություններ։ NIA-ն առաջարկում է թույլ տալ, որ մարդը հավաքի բաղադրիչները, չափի, խառնի, լցնի կամ պարզապես ուրիշին պատմի, թե ինչպես պատրաստել սիրելի ուտեստը։ Լավ աշխատանքներ են.
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- բանջարեղեն կամ միրգ լվանալը
+- խմորը կամ սառը աղցանը խառնելը
+- հազար տերևելը
+- բութ դանակով տոստին կարագ քսելը
+- թխվածքաբլիթի խմորը դարակին դնելը
+- պիցցայի վրա լցոն դնելը
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Եթե չափելը դժվար է դարձել, Alzheimer's Association-ը առաջարկում է, որ դուք ավարտեք չափումը, ապա տվեք այլ քայլ, օրինակ՝ խառնելը։
 
-## How do I set up a chore so it goes well?
+## Ինչպե՞ս պատրաստել գործը, որպեսզի լավ անցնի։
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Ընտրեք ճիշտ ժամանակը։** Ընտրեք օրվա այն մասը, երբ մարդը սովորաբար հանգիստ է և չհոգնած։ Շատ մարդկանց համար դա առավոտն է։
+2. **Մաքրեք տարածքը։** Մի գործ, մի մակերես, սեղանին ավելորդ բաներ չլինեն։
+3. **Հրավիրեք, ոչ թե հանձնարարեք։** «Կօգնե՞ք ինձ սրանցով» ավելի լավ է աշխատում, քան «Հիմա լվացք ծալելու ժամանակն է»։
+4. **Ցույց տվեք առաջինը։** Մեկ սրբիչ դանդաղ ծալեք, հետո տվեք հաջորդը։ Ցույց տալն ավելի հասկանալի է, քան բացատրելը։
+5. **Տվեք մեկ քայլ միաժամանակ։** Միանգամից շատ নির্দেশները կարող են ծանր լինել։ Սպասեք, որ մեկ քայլն ավարտվի, հետո նշեք հաջորդը։
+6. **Աշխատեք կողք կողքի։** Միևնույն գործը միասին անելն ավելի շատ ընկերակցության է նման, քան հսկողության։
+7. **Խոսեք գործի մասին, ոչ թե արդյունքի։** «Սրանք շատ փափուկ են» կամ «Պատմե՞ք, ինչպես եք սիրում պահել սպիտակեղենի պահարանը» խոսակցության հրավեր է՝ առանց որևէ մեկին ստուգելու։
 
-## How do I adapt chores as abilities change?
+## Ինչպե՞ս հարմարեցնել գործերը, երբ կարողությունները փոխվում են։
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Կարողությունները ժամանակի ընթացքում փոխվում են, երբեմն նաև օրվա ընթացքում։ Alzheimer's Association-ը առաջարկում է հիվանդության առաջընթացին զուգընթաց անցնել ավելի պարզ, ավելի կրկնվող գործերի։
 
-| If this has become hard | Try this instead |
+| Եթե սա դարձել է դժվար | Փորձեք փոխարենը սա |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Մեծ սավաններ ծալել | Փոքր անձեռոցիկներ ծալել կամ անձեռոցիկներ հարթել |
+| Ամբողջ սեղան գցել | Յուրաքանչյուր տեղում մեկ անձեռոցիկ դնել |
+| Նամակները տեսակավորել ըստ բաժինների | Ծրարները մեկ կույտի մեջ դարսել |
+| Բաղադրատոմս հետևել | Խառնել, կամ դիտել և համտեսել, մինչ դուք եք եփում |
+| Ամբողջ հատակը ավլել | Մի փոքր սեղան սրբել |
+| Ընդհանրապես գործ անել | Նստել ձեզ հետ և ձեզ ընկերակցել, մինչ դուք եք անում |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Դիտելն էլ մասնակցություն է։ NIA-ն նշում է, որ որոշ մարդիկ պարզապես հաճույքով դիտում են, և դա մասնակցելու լավ ձև է։
 
-## How do I keep household tasks safe?
+## Ինչպե՞ս անվտանգ պահել տնային գործերը։
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Անվտանգությունը առաջին տեղում է, հատկապես խոհանոցում։ NIA-ի [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) առաջարկություններից են.
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Մաքրող միջոցները, այդ թվում՝ լվացքի կապսուլաները, պահեք կողպված կամ հեռացրեք, քանի որ դրանք կարող են կոնֆետի նման լինել։
+- Դանակները, մկրատները և էլեկտրական գործիքները պահեք կողպված տեղում։
+- Վառարանի վրա դրեք անվտանգության բռնակներ և ինքնաշխատ անջատիչ։
+- Ջեռոցի, տոստերի և արդուկի մոտ դրեք «Կանգ» կամ «Շատ տաք է» նշաններ այնպես, որ դրանք չկարողանան բռնկվել։
+- Ջրի տաքացուցիչը դրեք 49°C (120°F), որպեսզի այրվելու վտանգը նվազի։
+- Հեռացրեք արհեստական միրգը և սննդի տեսք ունեցող մագնիսները, որոնք ուտելի կարող են թվալ։
 
-A few more practical habits help:
+Մի քանի գործնական սովորություն նույնպես օգնում է.
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Մնացեք սենյակում, երբ վառարանը, ջեռոցը կամ սուր գործիք է օգտագործվում։
+- Ափսեներ չորացնելու և սեղան գցելու համար օգտագործեք չկոտրվող սպասք։
+- Ավլելու կամ հատակը լվանալու ժամանակ հատակը պահեք չոր և ազատ։
+- Եթե մարդը նախկինում գործիքներ է օգտագործել, Alzheimer's Association-ը առաջարկում է արհեստանոցից հեռացնել վտանգավոր առարկաները, որպեսզի անվտանգ գործը, օրինակ՝ փայտի կտորը հղկելը,仍 հնարավոր լինի։
 
-## What if they do it "wrong"?
+## Ի՞նչ անել, եթե նրանք «սխալ» են անում։
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Թողեք այդպես լինի։ Երեք մասի ծալված սրբիչը դեռ ծալված սրբիչ է։ Alzheimer's Association-ը պարզ ասում է. կարևորն այն է, որ դուք միասին ժամանակ եք անցկացնում, և մարդն իրեն օգտակար է զգում, ոչ թե սրբիչները ճիշտ են ծալված, թե ոչ։ Եթե ինչ-որ բան իսկապես պետք է նորից անել, սպասեք ավելի ուշ և արեք դա նրա աչքից հեռու։
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Այդ պահին ուղղելը հաճելի գործը կարող է վերածել կորցրածի հիշեցման։ «Շնորհակալություն, դա մեծ օգնություն է» գրեթե միշտ ճիշտ խոսքեր են։
 
-## When should we stop?
+## Ե՞րբ պետք է դադարեցնել։
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Դադարեցրեք կամ փոխեք գործը, երբ նկատում եք հիասթափություն, հոգնածություն կամ հետաքրքրության կորուստ։ Վաղ ավարտելը լավ արդյունք է, ոչ թե ձախողում։ Դուք կարող եք.
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- անցնել ավելի հեշտ քայլի
+- տեղափոխվել հանգիստ բանի, օրինակ՝ երաժշտության կամ մի բաժակ թեյի
+- փորձել ավելի ուշ կամ մեկ այլ օր
+- պարզապես նստել միասին
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Եթե մարդը ասում է «ոչ», մի պնդեք։ Նրբորեն արձագանքելու եղանակների համար տես [what to do when they say no](/caregiving/when-they-say-no/)։
 
-## Low-effort extras for a quieter moment
+## Պարզ լրացումներ ավելի հանգիստ պահի համար
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Երբ ֆիզիկական գործերը հնարավոր չեն, տեսակավորելն ու զույգավորելը仍 կարելի է անել նստած։ [Sort Together](/games/sort-together/) հնարավորություն է տալիս նկարները դնել խոհանոցի կամ այգու զամբյուղների մեջ, իսկ [Picture Pairs](/games/picture-pairs/) նուրբ զույգավորման խաղ է՝ մեծ նկարներով և առանց ժամանակաչափի։ [Conversation Cards](/games/conversation-cards/) ունի տան և ընտանիքի մասին բաց հարցեր, որոնք լավ են սազում գործից հետո սուրճի կամ թեյի պահին։
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Գործերը օրվա մեջ տեղավորելու համար տես մեր [calm daily routine](/activities/daily-routine/) ուղեցույցը։ Փուլերին համապատասխան ավելի շատ գաղափարների համար տես [middle-stage activities](/activities/middle-stage/)։

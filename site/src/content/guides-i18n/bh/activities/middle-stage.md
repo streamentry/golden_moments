@@ -1,32 +1,28 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "डिमेंशिया के बीच के चरण खातिर गतिविधि"
+seoTitle: "बीच के चरण में डिमेंशिया: आसान गतिविधि के विचार"
+description: "डिमेंशिया के बीच के चरण खातिर आसान गतिविधि: घर के उपयोगी काम, गाना, फोटो आ सरल खेल, कदम-दर-कदम तइयारी आ बेचैनी के जगह कुछ करे लायक चीज देवे के तरीका।"
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  डिमेंशिया के बीच के चरण में सबसे बढ़िया गतिविधि छोट, जानल-पहचानल आ एक-एक कदम में बँटल होला: कपड़ा तह करल, मोजा छाँटल, बरतन धोवल, गाना गावल, साथ में टहलल, फोटो एलबम आ सरल चित्र वाला खेल। सब कुछ तइयार करीं, पहिला कदम देखाईं, कठिन हिस्सा खुद सँभालीं आ गतिविधि के कवनो मकसद दीं। जब मन ना लागे, त रुक जाईं।
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "घर के जानल-पहचानल काम अक्सर सबसे बढ़िया काम करेला, काहे कि उ उपयोगी आ बड़का लोग जइसन लागेला।"
+  - "बताए से बढ़िया देखा के सिखाईं, एक बार में एक कदम दीं, आ खुला सवाल के जगह दू आसान विकल्प दीं।"
+  - "सबसे मुश्किल हिस्सा खुद सँभालीं, ताकि जवन हिस्सा से संतोष मिलेला, उ उहाँ खुद कर सकस।"
+  - "बेचैनी अक्सर इ बतावेला कि उहाँ के कुछ करे के मन बा। 'ना' कहे के जगह कवनो मेल खात गतिविधि दीं।"
+  - "देखत रहल, थोड़ा मदद कइल, या जल्दी रुक जाइल, सब ठीक बा।"
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "डिमेंशिया के मध्य चरण खातिर कवन गतिविधि ठीक बा?"
+    a: "छोट, जानल-पहचानल, हाथ से होखे वाली गतिविधि अक्सर सबसे बढ़िया काम करेला: तउलिया तह करल, मोजा जोड़ा लगावल, बरतन धोवल, मेज सजावल, पुरान गाना संगे गावल, साथ में टहलल, फोटो एलबम देखल आ सरल चित्र वाला खेल। हर गतिविधि के एक-एक कदम में तोड़ के साथ मिल के करीं।"
+  - q: "डिमेंशिया वाला व्यक्ति के गतिविधि शुरू करे खातिर कइसे मनाईं?"
+    a: "सब सामान तइयार रखीं, फेर खुद शुरू करीं आ उहाँ के मदद खातिर बोलीं: 'का रउरा ई तउलिया तह करे में हाथ बटा देम?' बहुत लोग भाग लेवे चाहेलें, बाकिर शुरू करे में मुश्किल होला। पहिला कदम देखावल अक्सर समझावला से बढ़िया काम करेला।"
+  - q: "उहाँ के एक ही काम बार-बार करत रहस त का करीं?"
+    a: "बार-बार दोहरावल अक्सर नुकसानदेह ना होखे आ इ सुझावत हो सकेला कि उहाँ के व्यस्त लागे के मन बा या भरोसा चाहीं। सुधारे के जगह ओह हरकत से मेल खात गतिविधि दीं, जइसे धोवे वाला कपड़ा के टोकरी तह करे खातिर या साथ में गाना गावे खातिर।"
+  - q: "उहाँ से गतिविधि गलत तरीका से होखे त?"
+    a: "नुकसान ना होखे त छोड़ दीं। तउलिया अलग ढंग से तह भइल या चम्मच गलत जगह पर रखाइल कवनो बात ना ह। सुधारल आलोचना जइसन लाग सकेला, बाकिर उहाँ के अपना ढंग से करे दिहला से उहाँ के सक्षम आ काम के लागे लें।"
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +44,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+डिमेंशिया के मध्य चरण अक्सर सबसे लंबा होला, आ इहे चरण में गतिविधि खातिर असल सहारा के जरूरत पड़े लागेला। शब्द कम मिले लागेलें, कदम गड़बड़ा जाला, आ कवनो काम शुरू करत मुश्किल लागेला। बाकिर उपयोगी होखे आ शामिल रहे के इच्छा आमतौर पर बनल रहेला। थोड़ा तइयारी से मध्य चरण में रहे वाला व्यक्ति घणा कुछ के आनंद ले सकेलें, खासकर जानल-पहचानल काम, गाना आ फोटो, जवन रउरा संगे बइठ के होखे।
 
-## What activities work well in middle-stage dementia?
+## कवन गतिविधि डिमेंशिया के मध्य चरण में ठीक बा?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+छोट, जानल-पहचानल, हाथ से होखे वाली गतिविधि, जवन एक-एक कदम में बँटल होखे, सबसे बढ़िया काम करेला। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) कहेला कि नया-नया चीज खोजे के जरूरत नइखे: गतिविधि रोज के जिनगी के हिस्सा हो सकेला, जइसे साथ में खाना बनावल, बागवानी, गाना सुनल या टहले जाइल।
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) बतावत बा कि इ चरण में लोग के अक्सर उपयोगी होखे या कवनो चीज के देखभाल करे के मजबूत मन होला, आ गतिविधि शुरू करे या जारी रखे में मदद के जरूरत होला। एकर मध्य चरण वाला सूची में कपड़ा तह करल, बरतन धोवल, मोजा छाँटल, आसान कसरत, जानल गाना पर नाचल, निर्देशित टहलाई, संगे गाना गावल, सरल चित्र बनावल आ फोटो एलबम देखल शामिल बा।
 
-## How do you set up an activity so it works?
+## गतिविधि के असरदार बनावे खातिर कइसे तइयार करीं?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+ज्यादातर गतिविधि तइयारी में सफल भा फेल होखेला। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) आ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) से लिहल ई आदत सबसे बड़का फरक लावेली:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **जगह साफ करीं।** टीवी बंद करीं, दरवाजा बंद करीं आ उहे सामान निकालीं जवन गतिविधि में चाहीं।
+2. **खुद शुरू करीं।** तउलिया तह करे या चम्मच चलावे से शुरू करीं आ उहाँ के बोलाईं: "का रउरा हमरा संगे ई में मदद कर देम?"
+3. **देखाईं, फेर रुकीं।** एक कदम देखाईं। हाथ से इशारा करीं या रास्ता देखाईं, जइसे प्लेट कहाँ रखे के बा।
+4. **एक बार में एक कदम दीं।** "एकरा आधा तह करीं" कहल "एकरा रंग के हिसाब से तह करके ढेर लगाईं" से आसान होला।
+5. **दू विकल्प दीं, खुला सवाल ना।** "नीला तउलिया बा कि सफेद?" के जवाब देवल "रउरा का करे के मन बा?" से आसान होला।
+6. **कठिन हिस्सा खुद करीं।** रउरा नाप लीं, उहाँ चलाईं। रउरा सुई में धागा डालीं, उहाँ ऊन लपेटीं।
+7. **एकर कवनो कारण दीं।** "ई रूमाल इतवार के खाना खातिर बा" से काम असली लागेला।
+8. **पसंद होखे त देखे दीं।** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) कहेला कि खाली देखल भी आनंददायक हो सकेला।
 
-## Activity ideas for the middle stage
+## मध्य चरण खातिर गतिविधि के विचार
 
-### Useful jobs
+### उपयोगी काम
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **तउलिया आ धोवे वाला कपड़ा तह करीं।** छोट, चपटा चीज सबसे आसान होला। गरम धोवे वाला कपड़ा के टोकरी तह कइल, चिकन कइल आ फेर तह कइल जा सकेला।
+- **मोजा जोड़ा लगाईं।** कुछ बहुत अलग जोड़ा से शुरू करीं। खाली रंग से छाँटल भी ठीक बा।
+- **बिना टूटे वाला बरतन धोईं या पोंछीं।** गरम साबुन पानी हाथ खातिर सुखद होला। बइठ के पोंछल गोड़ खातिर आसान होला।
+- **मेज सजावल।** एक बार में एक किसिम के चीज दीं, आ एक जगह खुद सजा के नमूना देखाईं।
+- **खाना बनावे में मदद।** आलू धोवल, सलाद तोड़ल या कटोरी में चलावल। चाकू आ आग रउरा सँभालीं।
+- **झाड़ू, धूल या पोंछे के काम।** मेज खातिर कपड़ा, बरामदा खातिर हल्का झाड़ू।
 
-See [household tasks](/activities/household-tasks/) for many more.
+[घर के काम](/activities/household-tasks/) में अउरी बहुत चीज मिली।
 
-### Music and movement
+### गाना आ चाल-ढाल
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **पुरान पसंद के गाना गाईं।** पहिले रउरा खुद गाईं; बहुत लोग दशकन से जानल गाना में शामिल हो जाला। देखीं [गाना वाला गतिविधि](/activities/music/)।
+- **मन से नाचीं।** झूमीं, ताली बजाईं या जइसे मन करे हिलीं। बइठ के भी ठीक बा।
+- **गुब्बारा उछालीं।** इ धीरे चलेला आ कुर्सी पर से पकड़ल आसान होला।
+- **निर्देशित टहलाई करीं।** एक छोट, जानल रस्ता साथ में टहलीं, अगर मदद होखे त बाँह में बाँह डाल के।
 
-### Pictures and stories
+### फोटो आ कहानी
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **फोटो एलबम देखीं।** सवाल पूछे के जगह जवन देखत बानी ओ पर टिप्पणी करीं: "ई कार देखत बानी। एकरा बारे में बताईं।" देखीं [यादगार गतिविधि](/activities/reminiscence/)।
+- **बातचीत वाला कार्ड इस्तेमाल करीं।** [बातचीत वाला कार्ड](/games/conversation-cards/) में चित्र के साथ खुला, बिना परीक्षा वाला सवाल होला।
+- **संगे पुरान फिल्म देखीं।** जानल फिल्म चुनीं, लग में रहीं आ बीच-बीच में आराम खातिर रुकीं।
 
-### Simple, pressure-free games
+### सरल, दबाव बिना खेल
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **चित्र जोड़ा, चित्र देखा के।** [चित्र जोड़ा](/games/picture-pairs/) में चित्र देखावल जाला, त एकर मतलब बा ध्यान देल, याद ना।
+- **एक जइसन खोजीं।** [एक जइसन खोजीं](/games/find-the-same/) में एक चित्र देखावल जाला आ बस दू से चार विकल्प होला।
+- **संगे छाँटीं।** [संगे छाँटीं](/games/sort-together/) जइसे परदा पर कपड़ा छाँटल: एक चित्र छूईं, फेर ओकर टोकरी।
+- **चित्र बिंगो।** [चित्र बिंगो](/games/picture-bingo/) परिवार के जमावड़ा आ समूह खातिर बढ़िया होला।
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+खेल से परेशानी होखे लागे त रुक के कवनो दोसर काम करीं। देखीं [संगे खेले के तरीका](/caregiving/how-to-play-together/)।
 
-## Turning restlessness into an activity
+## बेचैनी के गतिविधि में बदलल
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+बेचैन या बार-बार होखे वाला बेवहार अक्सर कवनो कारण से होला। Family Caregiver Alliance बतावत बा कि जब कवनो व्यक्ति बार-बार अलमारी खाली करत बा, त उहाँ के व्यस्त आ उपयोगी लागे के जरूरत पूरा करे के कोशिश होखत होई। Alzheimer's Association सुझावेला कि अइसन ऊर्जा रोके के जगह ओकरा मेल खात गतिविधि में लगाईं।
 
-| What you see | Something to offer |
+| आप का देखत बानी | का दीं |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| मेज रगड़त या खुरचत | एक भिजल कपड़ा आ मेज पोंछे के आग्रह |
+| पैर हिलावत या थपकी देत | साफ ताल वाला गाना जवना पर ताली या थपकी दीं |
+| दराज या अलमारी खाली करत | तउलिया या धोवे वाला कपड़ा के टोकरी जवन तह आ छाँटे खातिर होखे |
+| एक ही सवाल फेर-फेर पूछत | भरोसा, फेर गाना या काम जवन संगे होखे |
+| इधर-उधर घूमत | साथ में टहलल, या सामान ढोवे वाला काम |
+| साँझ के बेचैनी | सुकून वाला, जानल काम, नीमन रोशनी में; देखीं [साँझ के बेचैनी](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## कब रुके या रस्ता बदलीं
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+थकान, परेशानी, शर्म या ऊब के निशानी देखीं त रुक जाईं, जइसे हिलल-डोलल, माथा सिकोड़ल, चीज हटावल या 'हम ना कर पाएब' कहल। Alzheimer's Association सुझावेला कि दिन के दोसर बखत में फेर कोशिश करीं या गतिविधि के आसान बनाईं। जबर्दस्ती मत करीं। मना कइल डर से भी आ सकेला या काम बहुत कठिन होखे से भी; देखीं [जब उहाँ ना कहेलें](/caregiving/when-they-say-no/)।
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+जल्दी रुक जाईल ठीक बा। चाय के कप लेके साथ में बइठल भी ठीक बा। क्षमता अउरी बदलला पर [बाद के चरण वाला गतिविधि](/activities/late-stage/) के विचार बेसी ठीक बैठ सकेला, आ [101 गतिविधि](/activities/ideas/) में अउरी बहुत कुछ आजमाए खातिर बा।

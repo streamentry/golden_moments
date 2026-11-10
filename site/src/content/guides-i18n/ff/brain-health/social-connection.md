@@ -1,32 +1,33 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Jokkondiral e cellal hakkille: feereede e seernde"
+seoTitle: "Feereede, seernde e hattannde ñawu majjere hakkille"
+description: "No feereede e seernde njokkondiri e hattannde ñawu majjere hakkille, ko jaŋtinol Dokteer Mawɗo leydi Amerik wiyi, e laawol weebɗo ngam jokkondirde."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Ƴeewndeeji njokkii feereede e seernde e duuɓi baɗɗi e hattannde ɓurnde toowde heɓde
+  ñawu majjere hakkille. Komisee Lancet 2024 hiisa wonde seernde ina waawi heɓeede e
+  ko ɓuri 5% e kuuɓal ngal, kono yoga e jokkondiral ngal ina waawi wonde ñawu majjere
+  hakkille adannde ina addana neɗɗo woɗɗitaade. Jokkondirde e woɗɓe, geɗe ɓennduɗe e
+  ballal nannde ina mballa jokkondiral. To yimɓe wuurɓe e ñawu majjere hakkille, geɗe
+  ɓennduɗe ina himmi ngam weltaare e moƴƴere nguurndam.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Komisee Lancet limti seernde e duuɓi baɗɗi e nder 14 dalillaaji hattannde ñawu majjere hakkille baawɗe wayleede, ko ɓuri 5% e kuuɓal ngal."
+  - "Jaŋtinol Dokteer Mawɗo leydi Amerik 2023 jokkii feereede e seernde duumiinde e hattannde ɓurnde toowde ko ɓuri 50% heɓde ñawu majjere hakkille e mawɓe."
+  - "Ko heewi e seedeeji ɗii ko ƴeewndeeji tan, tee ñawu majjere hakkille adannde ina waawi addande neɗɗo woɗɗitaade."
+  - "Caɗeele nannde walla yiide, wuurde feere e toppitaade ina ɓeyda hattannde seernde."
+  - "To yimɓe wuurɓe e ñawu majjere hakkille, geɗe ɓennduɗe welɗe ina mballa moƴƴere nguurndam; faandaare ndee ko jokkondiral, wonaa moƴƴinde golle."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Feereede ina addana ñawu majjere hakkille?"
+    a: "Ɗum teeŋtinaaka tawo. Ƴeewndeeji keewɗi njokkii feereede e seernde e hattannde ɓurnde toowde heɓde ñawu majjere hakkille, kono wayleede hakkille adannde ina waawi kadi addande yimɓe woɗɗitaade e woɗɓe. Jokkondirde ina jogii nafoore woɗnde heewnde ngam ɓernde e cellal, ɗum noon ina moƴƴi semmbinde nde."
+  - q: "Hol ko seerndi feereede e seernde renndoyanke?"
+    a: "Seernde renndoyanke firti ko jogaade yimɓe seeɗa ngam jokkondirde e maɓɓe sahaa kala. Feereede ko miijo muusɗo wonde aɗa feere walla aɗa woɗɗitii. Aɗa waawi wuurde feere tawa a waɗaaki feereede, walla waɗde feereede tawa aɗa hakkunde yimɓe heewɓe."
+  - q: "Hol no mbiɗo waawi mballirde mawɗo am wuurɗo e ñawu majjere hakkille yoo jokkondir?"
+    a: "Jokkondiral juutungal, duumiingal ina moƴƴi. Eto noddaango walla widewoo sahaa gooto yontere kala, geɗal ɓenndungal ka tawaa ɓamtaare, nokku yiɗɓe, walla yillo e rafi walla taaniraawo. Ñippin fedde ndee tee ndee ina deeƴi, tee accu neɗɗo oo suɓoo yaawre makko."
+  - q: "Hol to mbiɗo waawi heɓde ballal ngam mawɗo feere?"
+    a: "Eldercare Locator, sarwiis renndo, ina jokkondira e ɓesnguureeji e pelle nokkuuje toppitiiɗe mawɓe e eɓɓooje renndo. Aɗa waawi heɓde ɗum e 800-677-1116 walla to eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +55,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Yimɓe ko tagiraaɓe ngam wondude e woɗɓe, tee ɗum waylataa no duuɓi ɓeydi. Ƴeewndeeji njokkii feereede e seernde e duuɓi baɗɗi e hattannde ɓurnde toowde heɓde ñawu majjere hakkille, wondude e ñabbuuli ɓernde e sokola ɓernde. Ƴeewndeeji ɗii mbaawaa tawo wiide no fawi jokkondiral ngal woni sabaabu e battane. Hello ngoo ina hollita ko seedeeji ɗii kolli, laawi weebɗi ngam jokkondirde, e hol ko saabii geɗe ɓennduɗe ina himmi sanne to yimɓe wuurɓe e ñawu majjere hakkille jooni.
 
-## Are loneliness and isolation linked with dementia?
+## Feereede e seernde ina njokkii e ñawu majjere hakkille?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Eey, ƴeewndeeji keewɗi njokkii ɗum, kono laawol ngol laaɓaaki haa timmi. [Komisee Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) limti seernde e duuɓi baɗɗi e nder 14 dalillaaji hattannde baawɗe wayleede. [Tonngol UCL e jaŋtol ngol](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ina hiisa ɗum ko ɓuri 5% e kuuɓal ñawu majjere hakkille e winndere ndee.
 
-What the evidence shows:
+Ko seedeeji ɗii kolli:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Jokkondiral seeɗa, hattannde ɓurnde toowde.** Komisee oo ina sifora ƴeewniteeji ɗiɗi jokkii jokkondiral seeɗa e hattannde ɓurnde toowde heɓde ñawu majjere hakkille. Gooto yiɗi ko ɓuri 57% hattannde ɓurnde toowde, ngoɗɗo oo yiɗi ko ɓuri 18%.
+- **Feereede kadi.** Feereede, miijo wonde aɗa woɗɗitii, ina jokkondiraa e hattannde ɓurnde toowde heɓde ñawu majjere hakkille e ƴeewniteeji keewɗi.
+- **Miijo Dokteer Mawɗo leydi Amerik.** E lewru Mbooy 2023, Dokteer Mawɗo leydi Amerik yaltini [jaŋtinol baɗte feereede e seernde](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Ngal wiyi wonde feereede e seernde duumiinde ina waawi ɓeydude hattannde heɓde ñawu majjere hakkille ko ɓuri 50% e mawɓe. Ngal jokkii kadi jokkondiral renndo meeyngal e hattannde ɓurnde toowde 29% heɓde ñabbuuli ɓernde e 32% heɓde ñabbuuli ɓandu.
+- **No ɗum heewi.** [Jaŋtol Akademiiiji Hitaande](https://www.ncbi.nlm.nih.gov/books/NBK557972/) yiɗi wonde ko ɓuri 24% e Ameriknaaɓe ɓurɓe duuɓi 65 wuurɓe e renndo ina njogii seernde renndoyanke.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Reentino himmo: Komisee Lancet ina siftina wonde yimɓe ina mbaawi ustude geɗe renndo e sahaa adannde, nde ñawu majjere hakkille anndaaka tawo. Ɗum firti wonde yoga e jokkondiral ngal ina waawi wonde ko ñawu majjere hakkille addanta woɗɗitaade, wonaa tan woɗɗitaade ɓeydata hattannde. Ko heewi e seedeeji ɗii ko ƴeewndeeji tan.
 
-## What is the difference between loneliness and isolation?
+## Hol ko seerndi feereede e seernde renndoyanke?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Duɗal Hitaande Ngenndiijo ngam Duuɓi (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) ina sifora ɗum nii. **Seernde renndoyanke** firti ko jogaade jokkondiral renndo seeɗa walla yimɓe seeɗa ngam jokkondirde e maɓɓe sahaa kala. **Feereede** ko miijo muusɗo wonde aɗa feere walla aɗa woɗɗitii. Goɗɗo ina waawi wuurde feere e weltaare, goɗɗo ina waawi kadi waɗde feereede tawa ina hakkunde suudu heewundu yimɓe.
 
-The NIA lists factors that raise the risk of both:
+NIA ina limta geɗe ɓeydooje hattannde ɗeɗi fof:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Caɗeele nannde walla yiide
+- Caɗeele yahde, walla alaa safaara
+- Wuurde feere, walla caɗeele mawɗe wano maayde jom galle walla fowtaade e golle
+- Wayleede teskagol walla hakkille
+- Toppitaade musidɗo ñawɗo
+- Annde kaalisi walla caɗeele ɗemngal
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Nannde ina himmi sanne. NIA ina wiya wonde yimɓe ɓe nanataa no feewi ina mbaawi woɗɗitaade sabu yeewtere ina waawi sattinde walla hersinde. [Jamiroore amen baɗte nannde e cellal hakkille](/brain-health/hearing/) ina yewta baɗte ƴeewnditaade nannde e kaɓirɗe ballal nannde.
 
-## Practical ways to stay connected
+## Laawi weebɗi ngam jokkondirde
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA ina wasiyaa miijooji keewɗi. Suɓo gooto walla ɗiɗi jaaɓɗi e maa:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Toɗɗo jokkondiral duumiingal.** Toɗɗo sahaa gooto ñalnde kala walla yontere kala ngam noddude, windande, neldugol iimeel walla neldugol kartal to ɓesngu, yiɓɓe walla wondiiɓe.
+- **Huutoro widewoo walla kaɓirɗe noddirɗe.** So karallaagal kesal wonanii ma, dente jaaɓiɗe e nokkuuji renndo ina mbaawi jannude. Yillo [jamiroore amen baɗte noddaango e widewoo](/activities/phone-and-video-calls/).
+- **Naat e huunde.** Ekkol, fedde diine, fedde yahaade walla golle wallitaare ina okka jokkondiral e miijo faandaare.
+- **Fuɗɗito geɗal kiɗɗungal** walla ekko geɗal kesal e woɗɓe.
+- **Dillo e woɗɓe.** Ɓamtodir e giɗo walla fedde. [Jamiroore amen baɗte dillere ɓalndu](/brain-health/exercise/) ina jogii cuɓe newiiɗe.
+- **Miijo e rafi** so aɗa waawi toppitaade ɗum.
+- **Huutoro sarwiis nokku.** Nokkuuji mawɓe, pelle toppitiiɗe mawɓe e Eldercare Locator (800-677-1116) ina mbaawi hollude maa eɓɓooje e safaara.
 
-## Why do shared activities matter in dementia?
+## Hol ko saabii geɗe ɓennduɗe ina himmi e ñawu majjere hakkille?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+To neɗɗo wuurɗo e ñawu majjere hakkille jooni, jokkondiral ko ngam weltaare, deeyre e miijo wonde omo jeyaa, wonaa ngam ustude hattannde. Komisee Lancet wiyi wonde geɗe ina mballa yimɓe wuurɓe e ñawu majjere hakkille ngam hisnude weltaare e faandaare. [Fedde Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) ina siftina wonde, wonaa tan ɓeydude moƴƴere nguurndam, geɗe ina mbaawi ustude jikkuuji wano yiilagol walla seppagol. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ina ɓeyda heen wonde yimɓe wuurɓe e ñawu Alzheimer ina cokli dillude e waɗde geɗe ɗe ɓe njiɗi.
 
-Ideas that work well:
+Miijooji moƴƴi:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Ndarondir natal.** [Conversation Cards](/games/conversation-cards/) ina rokka naamne udditiiɗe, tawa alaa ƴeewndo, wano « Haalan am baɗte... » Yillo [jamiroore amen baɗte ciftugol teskagol](/activities/reminiscence/).
+2. **Fijir wondi.** [Picture Pairs](/games/picture-pairs/) ina hollira nate ɗee tee alaa sahaa walla keɓal, ɗum noon alaa tiiɗal. Jamiroore amen baɗte [no fijirtee wondi](/caregiving/how-to-play-together/) ina jogii ballal.
+3. **Huutoro nate ɓesngu.** [Photo Pairs](/games/photo-pairs/) ina wayla nate ɗe cuɓɗaa e fijirde jahdingol, tee nate ɗee ina ciiɗi e kaɓirgol maa.
+4. **Renndin yimɓe.** [Picture Bingo](/games/picture-bingo/) ina moƴƴi ngam renndo ɓesngu e [fedde toppitaare](/activities/care-home-groups/).
+5. **Lollin gaaci, golle galle walla ngesa.** Yillo [geɗe gaaci](/activities/music/), [golle galle](/activities/household-tasks/) e doggol amen timmungol [miijooji geɗe](/activities/ideas/).
+6. **Weeɓnin jillooji.** [Jamiroore amen baɗte jillooji](/activities/visiting/) ina yewta baɗte jillooji juutuɗi, deeyɗi ɗi moƴƴani mo woni kala.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Ñippin ɗum tee ndee ina deeyɗi. Suudu deeƴndu e neɗɗo gooto walla ɗiɗo ina golla no feewi ko ɓuri fedde mawnde sahaa keewɗo. So neɗɗo oo tampii walla o nattii hatojinde, dartinde ina moƴƴi. Jooɗaade wondi e jara sahaa ina battane moƴƴere kadi.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+To neɗɗo wuurɗo e ñawu majjere hakkille ina wuuri feere, NIA ina wasiyaa yiytude neɗɗo hoolaare mo waawi yillaade walla noddude e widewoo sahaa kala, kadi wonde jokkondirɗo e sahaa caɗeele. Ngal limtii kadi nokku yiɗɓe teskagol, nokku renndo deeyɗo ngam yimɓe jogiiɓe caɗeele teskagol e ɓesnguuji maɓɓe.
 
-## Caregivers get lonely too
+## Toppitiiɓe ina mbaawi kadi waɗde feereede
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA ina limta toppitaade musidɗo e nder geɗe ɓeydooje hattannde seernde. Hisnu sahaa ngam yiɓɓe maa, pelle ballondiral e fowtaare. [Jamiroore amen baɗte toppitaare hoore maa](/caregiving/caregiver-self-care/) ina jogii miijooji naftooji.
 
-## Talk with a doctor
+## Yewtu e safroojo
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+So an walla neɗɗo mo toppitotoɗaa ina waɗa feereede walla ina seeri sahaa heewɗo, haalano safroojo. NIA ina wasiyaa yimɓe yoo haal wayleede mawɗe e nguurndam, wano maayde e ɓesngu, ngam safroojo oo faamoo ngonka kaa fof. Miijo sokola ɓernde duumiingo yontereeji ina waawi wonde sokola ɓernde, ngu ina waawi safaade. So mawɗo fuɗɗiima woɗɗitaade e yiɓɓe walla geɗe ɗe o yiɗnoo, wayleede ngoo ina foti haalaneede safroojo kadi. Tar [maandeeji adanɗi e nde tawetee safroojo](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Hello ngoo ko humpito kuuɓal tan, wonaa wasiya safroo. Yillo [reentino safroo amen](/medical-disclaimer/).

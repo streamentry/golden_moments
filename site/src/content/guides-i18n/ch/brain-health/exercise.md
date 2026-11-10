@@ -1,32 +1,31 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Ehetsisio yan Salud ni Kerebru: Kómo Muebi Sigura"
+seoTitle: "Ehetsisio yan Demensia: Hafa I Estudiu Hasso"
+description: "Hafa i estudiu ha'ne' entre aktibidat fisiku yan riskon demensia, yan magof na manera para i manaotot yan i taotao ni gai demensia para u muebi."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Mames ha'ne' i estudiu na i regulat na aktibidat fisiku ma'lalamen i riskon demensia, yan i 2024 Lancet
+  Commission ha lista i ti aktibu na fisiku komo unu gi 14 na riskon ni siña ma'usa. Ti ha pruweba i tiñas na
+  i ehetsisio siña prebiene demensia. Gi mismo tiempo, i muebi ayuda fuetsa, balanse, guinaiya yan tulugon, asina
+  i lakad, ehetsisio sentao yan baila hahalom ma'ayuda ta' lao. Hu tungo' nu i doktot antes di tumaloan hafa mandebe.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "I taotao ni aktibu fisiku ma'lalamen i riskon demensia gi promedio, lao esta siha mismo gi estudiu observasion, ti gi tiñas."
+  - "Un tiñas ehetsisio gi limangap na aňo gi manaotot ti ha tuge' klaru na diferensia gi kuenta-kabesa entre i grupo."
+  - "I CDC na gaje para taotao 65 aňos pat mas dingu ha kuenta i aktibidat ni fuetsa, muskulo yan balanse, yan ha sangan na mas ma'ayuda i sumoddong na aktibidat kesa ti hafa."
+  - "Para i taotao ni gai demensia, muebi ki kada dia, familiat, komo lakad kada dia pat håga ni sentao, ma'ayuda mas ki ni hafa na meta."
+  - "Mas ki un tres ginen kada siette na manaotot kada aňo na falla, asina i trabahon balanse yan lugan sigura ma'ahasi."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Siña i ehetsisio prebiene demensia?"
+    a: "Ti siña mamprometi ninahong hafa. Dakyo na estudiu ha konekta i ma'aktibu ki ma'lalamen na riskon demensia, lao i klinikat na tiñas ti ha pruweba na i ehetsisio prebiene. I ehetsisio gai dakyo na benefisiu ni esta ma'pruweba, asina ma'ayuda mas ki ni hafa."
+  - q: "Sigura ba para i taotao ni gai demensia u ehetsisio?"
+    a: "Kumun, ya ma'planea. I National Institute on Aging ha sungken na tungo' i doktot i taotao antes di tumaloan rutina nuebo, machuli sapatos ni komot, ofresi tubu, yan mamantiene i sisión ki ti hayi. Para ayi nu i taotao parese kanso, dinanno pat ti mamatinas."
+  - q: "Hafa i ehetsisio siña ma'hasso sentao?"
+    a: "I sentao na opsion siña ehetsisio chair stretches pat chair yoga, tumira balloon pat bola ni tuno, bean bag toss, afa'ka sopa, banda para stretching, yan pedal exercisers. Ti hayi ma'ayuda na opsion kumuanto dinanno i lakad."
+  - q: "Hafa si ti hai gana muebi i taotao?"
+    a: "Ti tuge'. Tulaika despues, sumoddong ham mismo, hålom musikan ma'gof, pat hakot i muebi komo unu na tareha, tulad pat tinaka tanom. Lakad ki ti hayi asta i kahon koreo ma'kuenta, yan ma'kuenta lokkue i pumasiyeti ya ma'sakkan hamyo gi fore."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +50,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Ti mamaolek na aktibu i taotao gi kuenta i mas ma'estudiu na hinasso gi investigasion salud ni kerebru. I estudiu ha konekta i aktibidat ni riskon demensia ki menus, lao ti ha pruweba na i ehetsisio prebiene demensia. Ya i klaru gaige na i muebi ayuda fuetsa, balanse, guinaiya yan tulugon gi kada edad. Este na pakina ha kuenta hafa i investigasion ha sangan, kuanto na aktibidat i manaotot ma'rekomenda, yan magof na manera para muebi yan i taotao ni gai demensia.
 
-## Does exercise lower the risk of dementia?
+## Ha ba ehetsisio ma'bababa i riskon demensia?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+I investigasion ha sugiere na i taotao ni aktibu fisiku ti mas makkat ha dibelop demensia, lao i ebidensia tiene limitasion. I [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) ha lista i ti aktibu na fisiku komo unu gi 14 na riskon ni siña ma'usa. Hamyo kumu grupo, i 14 na riskon ma'kuenta por dingu 45% gi demensia gi mundo gi modelo-ña.
 
-Here is what the evidence looks like:
+ Esta i parehu ginen i ebidensia:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **I estudiu observasion ha sangan sumen direksion.** Un rebisa ginen 58 na estudiu, ni i Commission ha diskuti, ha sangan na i taotao ni aktibu fisiku mampos 20% menos riskon demensia. I mas dankolo na diferensia ha tuge' entre taotao ni kaosi ti aktibu yan i ni ma'hasso siha gi sumen na aktibidat.
+- **I konekson siña mana'mamalaogue.** I Commission ha nota na i ti aktibu siña mapotensia riskon. Ha nota lokkue na i kanagi na tinilaika-ña kerebru ginen demensia, ni ma'kumenisa anai makkat asta mu-diagnose, siña ha hasso i taotao ti aktibu.
+- **I tiñas kumu mas klaru.** Gi unu na tiñas, 945 na manaotot ni edad promedio 78 ha manmanmamprome limang aňo ni dos biti kada simana na ehetsisio ni manasaga, pat grupo ni ti ha kumupara. Gi finas, kuenta-kabesa ti ha tuge' klaru entre i grupo. Mamaisa na taotao gi grupon kumumparasion ma'aktibu lokkue, ni ma'hasso mas difisil i resulta.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+I [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ha sangan gi sengsong manera. Ti ha pruweba i klaru na konekson entre aktibidat fisiku yan prebension Alzheimer, yan ti gai bastante ebidensian tiñas para ha sangan na i ehetsisio prebiene pat ma'hasso i sakkan. I ehetsisio taya' ma'bababa i riskon falla, depresion, diabetes, presion haltu yan estroke. Sumen taotao ni kondision ya tiene konekson ni manaotot siha.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+I onesto na konklusion, muebi porke ma'ayuda hao sumen sumente' yan sumen ma'gof gi tinakresponse ni para i lokkue na dia. Kualkiera benefisiu para i kerebru komo posibleng bonus, ti promesa.
 
-## How much activity do older adults need?
+## Kuanto aktibidat ni manaotot dinanno?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+I [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) ha sugiere tres klasen aktibidat kada simana:
 
-| Type | Weekly amount | Examples |
+| Klase | Kuantidat ginen simana | Ehemplo |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobic | Mamaolek 150 minuto na moderao na aktibidat, komo 30 minuto gi 5 na dia | Mabirai na lakad, baila, water aerobics |
+| Muskulo ni fuetsa | Mamaolek 2 na dia, ma'trabaha i dinanno na muskulo | Afa'ka ligeru na pesu pat sopa ni lata, banda para stretching |
+| Balanse | Regulat | Lakad heel to toe, tumungo' ginen sentao |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Este siha na meta, ti kondision para ma'entra. I CDC ha sangan na, kao ti siña ma'sanganan, debi di ma'aktibu komo i kapasidat yan salud-mu ha permiti. Sumen aktibidat ma'hasso ki ti hayi.
 
-## Gentle ways to move for older adults
+## Magof na manera para muebi para manaotot
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Lakad yan kompanéru.** Un lakad ki kada dia yan amigu, bisinu, pat grupon lakad ma'agrega i kombersasion yan sigudat.
+- **Chair exercises.** I sentao na tiningo' ginen bisu, ankle circles, marchao gi lugat, yan chair yoga ma'agrega fuetsa ni ti tiene riskon balanse.
+- **Baila gi kosina.** Pone musikan ginen i tinin-ña teen yan beinte, yan muebi i tiningo', tapa pat gimen. I [guia ni aktibidat musikan](/activities/music/) ha tiene ideas.
+- **Fuetsa yan kosas ni gai gi guma'.** Afa'ka botelyan tubu pat sopa ni lata mientras ha mira i palasio ni gof gusto.
+- **Tanom pat tinaka trabaho gi guma'.** Ha tiyope tanom, rekeha, sweeping yan fa'tiyas labu ma'kuenta todu. Tatiyi i [aktibidat gi tanom yan fi'i](/activities/outdoor-and-gardening/) yan [trabahon guma'](/activities/household-tasks/).
+- **Ehetsisio gi tubu.** I NIA ha lista i water aerobics na klase komo un opsion para taotao ni ti mafaisen ehetsisio gi tano ya ha machuli i kakanne-ña.
 
-## How to exercise with someone living with dementia
+## Kómo ehetsisio yan taotao ni gai demensia
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Para un taotao ni gai demensia, i meta enao komfot, gof, yan u mantiene i kabales ni tiempo-ña, ti para u alkansa numiru. I NIA ha sangan na i aktibidat fisiku ha ayuda mantiene i muskulo, kumeng yan puenta i taotao ni gai Alzheimer, yan siña ha ayuda lokkue gi mood yan tulugon. Tungo' i doktot-ña antes di tumaloan rutina nuebo. Tinatiya ginen i [guia ni NIA para caregivers](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ni sumen:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Lakad hamyo kada dia.** Chule un lugan sigura yan familiat, ni ti gai inestotbo. Si i taotao lumakad mo'na, i bracelet ni ID yan numiru-mu ti guaha ha ayuda.
+2. **Tuge' video para ehetsisio ni manaotot.** Sigi hamyo yan, sentao pat tumungo'.
+3. **Mamantiene i sisión ki ti hayi.** Gai i "mini-ehetsisio" ni ma'alek siña mas ayuda kesa un dankolo.
+4. **Hålom musikan.** I kanta ni familiat ha fa'tinas i muebi komo aktibidat, ti tareha. Baila si gof gi taotao.
+5. **Ofresi tubu yan sapatos komfotable.** Ofresi tubu pat chocolate durante yan despues, yan chule ropa komfotable yan sapatos ni ma'propio para ehetsisio.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Si lakad mabanidu, i [guia ni NIA para ayudaon taotao ni gai Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ha sugiere opsion sentao. Mana'hasso kumu chair exercises pat yoga, bean bag toss, tumira bola ki tuno pat balloon, banda para stretching, afa'ka ligeru na kosas gi guma', yan pedal exercisers. Simple na trabaho komo sweeping yan dusting ma'kuenta lokkue.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Hålom i tinilaika-mu hafa i muebi siña cho'gue. I Lancet Commission ti gai ebidensia na i ehetsisio ma'bababa i kinagi na tinilaika komo agitation. Muebi hamyo porke siña ma'gof, ti komo manera para mantiene un maolek na tatdi. Si i taotao ha sangan "ti", ya ti guaha problema. I guia-mu gi [kuanto ha sangan ti](/caregiving/when-they-say-no/) ha guaha magof na manera para tumulaika despues. Para sumen mafana pat sumenta hamyo gi fore, esta mamaolek lokkue na resulta.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Despues muebi, un tinakhu na pause komo [Calm Breathing](/games/calm-breathing/) siña ayuda hamyo na dos para mana'hanao. Para aktibidat sentao yan magof na muebin lima', [Sort Together](/games/sort-together/) yan [Picture Bingo](/games/picture-bingo/) mamaolek gi lamesa.
 
-## Balance and fall safety
+## Balanse yan seguridat ni falla
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+I falla komun yan sen peligru. I [CDC ha report](https://www.cdc.gov/falls/data-research/facts-stats/index.html) na mas ki un tres ginen kada siette na manaotot ha falla kada aňo, lao menos ki mitad ha sangan i doktot-ña. Un biahi na falla ha dobla i tiempon ha falla put lokkue. Riskon ni i CDC ha lista:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Ti fuetsa gi petsa yan gi hamyo
+- Problema gi lakad yan balanse
+- Sumen medisina, komo sedatives yan sumen antidepressants
+- Problema gi biha
+- Kulasa gi paa pat sapatos ni ti maolek
+- Peligru gi bahayi komo kosas ni maneha, alfombra ni ti ma'ahasi, yan pidasu ni ti mapos
 
-To move more safely:
+Para muebi sigura:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Usa un sentao ni fuetsa** ni ti gai ruedas, yan mantiene un mesa pat barandiya siha ma'alkansa para ehetsisio ni tumungo'.
+- **Hacha i lugat** gi alfombra, kable yan kosas ni maneha, ha'anai.
+- **Maneha gi tumungo'**, ya para si i taotao sumente' mareo pat ti sigudu.
+- **Usa sapatos ni ma'sosporta**, ti medyas pat tsinelas ni ti mafiki.
+- **Praktika balanse sigun i sostenedoran.** Tumungo' ginen sentao yan lakad heel to toe ni ehemplo i CDC ni aktibidat balanse.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+I CDC ha gaje na i manaotot ni ha falla yan ha tuge' i kabesa debi di hu ha sangan i doktot gi mismo tiempo, espesiatmente si ha tuma' i blood thinners.
 
-## Talk with a doctor
+## Hasa yan i doktot
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Tungo' i doktot antes di tumaloan rutina ehetsisio nuebo, espesiatmente para taotao ni gai problema gi kurason pat puengi, kulasa gi tinituhon, problema gi balanse, pat demensia. Un doktot pat physical therapist siña sugiere aktibidat sigura yan chule si i medisina ma'afekta balanse. Sangan i doktot ni kualkiera falla, aunque ti guaha lasu. Si guaha minagahet pat ti maolek durante ehetsisio, para. Para sumimu' kanso na sakkan gi kurason, problema para ha'nasain, pat sumaitaiyan na kinagi, lalamo' 911.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Esti na pakina ti konsehu medikat, sino infotmasion heneral. Tatiyi i [disclaimer medikat-ta](/medical-disclaimer/). Para mas dakkolo na kinalaman, lai i [hafa i investigasion sangan put riskon demensia](/brain-health/risk-factors/) yan [siña pa'go prebiene demensia](/brain-health/can-dementia-be-prevented/).

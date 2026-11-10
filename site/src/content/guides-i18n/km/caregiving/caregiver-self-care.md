@@ -1,36 +1,35 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "ការថែរក្សាខ្លួនឯង៖ ការសម្រាក និងសញ្ញាហត់នឿយ"
+seoTitle: "ការថែរក្សាខ្លួនឯងរបស់អ្នកថែទាំ៖ សម្រាក និងជំនួយ"
+description: "សញ្ញានៃការហត់នឿយរបស់អ្នកថែទាំ វិធីស្វែងរកការសម្រាក ក្រុមគាំទ្រ និងខ្សែទូរស័ព្ទជំនួយឥតគិតថ្លៃនៅសហរដ្ឋអាមេរិក រួមទាំង Alzheimer's Association 24/7 Helpline និង Eldercare Locator។"
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  ការថែទាំអ្នកដែលរស់នៅជាមួយជំងឺវង្វេងមិនមែនជារឿងងាយស្រួលទេ ហើយការថែរក្សាខ្លួនឯងក៏ជាផ្នែកមួយនៃការងារនោះដែរ។
+  សូមកត់សម្គាល់សញ្ញាព្រមានដូចជា អស់កម្លាំង ឆាប់ខឹង គេងមិនលក់ និងដកខ្លួនចេញពីមិត្តភក្តិ។
+  សូមសុំជំនួយជាក់លាក់ ប្រើសេវាកម្មសម្រាក និងចូលរួមក្រុមគាំទ្រ។
+  ជំនួយឥតគិតថ្លៃនៅសហរដ្ឋអាមេរិករួមមាន Alzheimer's Association 24/7 Helpline
+  តាមលេខ 1-800-272-3900 និង Eldercare Locator តាមលេខ 1-800-677-1116។
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "ការហត់នឿយច្រើនតែបង្ហាញខ្លួនតាមរយៈអស់កម្លាំង ឆាប់ខឹង គេងមិនលក់ អារម្មណ៍ក្រៀមក្រំ និងការមិនខ្វល់ពីការថែទាំសុខភាពខ្លួនឯង។"
+  - "សេវាកម្មសម្រាកផ្តល់ពេលឱ្យអ្នកបានសម្រាក ពីរយៈពេលពីរបីម៉ោងរហូតដល់ច្រើនសប្តាហ៍ នៅផ្ទះ ឬនៅកន្លែងថែទាំ។"
+  - "សូមសុំជំនួយសម្រាប់កិច្ចការជាក់លាក់ មនុស្សជាច្រើនចង់ជួយ ប៉ុន្តែមិនដឹងថាគួរធ្វើអ្វី។"
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) ផ្តល់ការគាំទ្រដោយឥតគិតថ្លៃ និងរក្សាការសម្ងាត់គ្រប់ពេលវេលា។"
+  - "Eldercare Locator (1-800-677-1116) ភ្ជាប់អ្នកទៅកាន់សេវាកម្មក្នុងតំបន់ រួមទាំងទីភ្នាក់ងារជាន់តំបន់សម្រាប់មនុស្សវ័យចំណាស់ (Area Agency on Aging)។"
+  - "ប្រសិនបើអ្នកមានអារម្មណ៍ថាស្ថានការណ៍ធ្ងន់ធ្ងរ សូមហៅ ឬផ្ញើសារ 988។ ក្នុងករណីសង្គ្រោះបន្ទាន់ សូមហៅ 119។"
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "តើសញ្ញានៃការហត់នឿយរបស់អ្នកថែទាំមានអ្វីខ្លះ?"
+    a: "សញ្ញាទូទៅរួមមាន អារម្មណ៍អស់កម្លាំង ភ័យតានតឹង ឬពិបាកទ្រាំ កំហឹង ឬអស់ចិត្តងាយ គេងមិនលក់ អារម្មណ៍ក្រៀមក្រំ ឬអស់សង្ឃឹម ដកខ្លួនចេញពីមិត្តភក្តិ ឈឺក្បាល ឬឈឺចាប់ញឹកញាប់ និងការរំលងអាហារ ការហាត់ប្រាណ ឬការថែទាំសុខភាពរបស់ខ្លួនឯង។ ប្រសិនបើសញ្ញាទាំងនេះកើតឡើងជាញឹកញាប់ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិតរបស់អ្នក។"
+  - q: "តើខ្ញុំអាចស្វែងរកសេវាកម្មសម្រាកនៅជិតខ្ញុំដោយរបៀបណា?"
+    a: "អាចចាប់ផ្តើមពី Eldercare Locator (1-800-677-1116 ឬ eldercare.acl.gov) ដើម្បីទាក់ទងទីភ្នាក់ងារជាន់តំបន់សម្រាប់មនុស្សវ័យចំណាស់ (Area Agency on Aging) របស់អ្នក ពីសេវាកម្ម ARCH National Respite Locator Service ឬពី Alzheimer's Association Helpline តាមលេខ 1-800-272-3900។ សាច់ញាតិ មិត្តភក្តិ និងអ្នកស្ម័គ្រចិត្តក៏អាចជួយផ្តល់ពេលសម្រាកដែរ។"
+  - q: "តើ Medicare បង់ថ្លៃសេវាកម្មសម្រាកដែរឬទេ?"
+    a: "សម្រាប់អ្នកដែលកំពុងទទួលការថែទាំស្ថានជម្ងឺស941ន្និដ្ឋាន (hospice care) Medicare គ្របដណ្តប់ថ្លៃភាគច្រើនសម្រាប់សេវាកម្មសម្រាករហូតដល់ 5 ថ្ងៃជាប់ៗគ្នានៅមន្ទីរពេទ្យ ឬមជ្ឈមណ្ឌលថែទាំជំនាញ នេះបើយោងតាម National Institute on Aging។ ធានារ៉ាប់រងសុខភាពឯកជនភាគច្រើនមិនគ្របដណ្តប់សេវាកម្មសម្រាកទេ ចំណែក Medicaid និងផែនការធានារ៉ាប់រងថែទាំរយៈពេលវែងមួយចំនួនអាចជួយបាន។"
+  - q: "តើ Alzheimer's Association Helpline ពិតជាឥតគិតថ្លៃ និងមាននៅពេលយប់មែនទេ?"
+    a: "បាទ/ចាស។ Alzheimer's Association បញ្ជាក់ថា Helpline តាមលេខ 1-800-272-3900 គឺឥតគិតថ្លៃ រក្សាការសម្ងាត់ និងមានបុគ្គលិកផ្តល់សេវាពេញមួយម៉ោង 365 ថ្ងៃក្នុងមួយឆ្នាំ ដោយមានជំនួយជាភាសាជាច្រើន។ សូមចុច 711 សម្រាប់សេវាបកប្រែតាមទូរស័ព្ទ។"
+  - q: "តើការសម្រាកពីការថែទាំជាការគិតតែពីខ្លួនឯងដែរឬទេ?"
+    a: "ទេ។ ការសម្រាកជួយឱ្យអ្នកអាចបន្តថែទាំបាន ហើយសេវាកម្មសម្រាកក៏អាចផ្តល់ឱកាសឱ្យអ្នកដែលអ្នកថែទាំបានជួបមនុស្ស និងសកម្មភាពថ្មីៗផងដែរ។ អ្នកថែទាំជាច្រើនក្រោយមកបាននិយាយថា ពួកគេចង់ឱ្យខ្លួនបានសុំជំនួយឆាប់ជាងនេះ។"
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +66,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+ប្រសិនបើអ្នកកំពុងថែទាំអ្នកដែលរស់នៅជាមួយជំងឺវង្វេង អ្នកប្រហែលជាកំពុងអានអត្ថបទនេះនៅពេលយប់យឺត មានអារម្មណ៍អស់កម្លាំង ហើយមានរឿងជាច្រើនដែលមិនទាន់បានធ្វើ។ នេះជារឿងធម្មតា។ ការថែរក្សាខ្លួនឯងមិនមែនជារឿងហ៊ាន ឬជារង្វាន់សម្រាប់ពេលដែលអ្នកធ្វើអ្វីៗគ្រប់យ៉ាងរួចទេ។ វាគឺជាអ្វីដែលជួយឱ្យអ្នកអាចបន្តបាន។
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+ទំព័រនេះនិយាយអំពីសញ្ញាព្រមាននៃការហត់នឿយ វិធីស្វែងរកការសម្រាកពិតប្រាកដ កន្លែងដែលអាចរកជំនួយបាន និងខ្សែទូរស័ព្ទជំនួយឥតគិតថ្លៃនៅសហរដ្ឋអាមេរិកដែលអ្នកអាចហៅបានថ្ងៃនេះ។
 
-## What are the signs of caregiver burnout?
+## តើសញ្ញានៃការហត់នឿយរបស់អ្នកថែទាំមានអ្វីខ្លះ?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+ការហត់នឿយច្រើនតែកើតឡើងបន្តិចម្តងៗ ដូច្នេះការស្គាល់សញ្ញាព្រមានរបស់ខ្លួនឯងអាចមានប្រយោជន៍។ [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) បានរៀបរាប់អំពីសញ្ញានៃភាពតានតឹងរបស់អ្នកថែទាំ រួមមាន៖
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- អារម្មណ៍អស់កម្លាំង ភ័យតានតឹង ឬពិបាកទ្រាំ
+- ឆាប់ខឹង ឬអស់ចិត្តងាយ
+- មានអារម្មណ៍ឯកា ឬឃ្លាតឆ្ងាយពីអ្នកដទៃ
+- គេងមិនលក់ ឬគេងមិនគ្រប់គ្រាន់
+- មានអារម្មណ៍ក្រៀមក្រំ ឬអស់សង្ឃឹម ឬបាត់បង់ចំណាប់អារម្មណ៍លើរឿងដែលធ្លាប់ចូលចិត្ត
+- ឈឺក្បាល ឈឺចាប់ ឬមានបញ្ហារាងកាយផ្សេងៗញឹកញាប់
+- គ្មានពេលហាត់ប្រាណ ឬរៀបចំអាហារដែលមានប្រយោជន៍សម្រាប់ខ្លួនឯង
+- រំលងការងូតទឹក ឬការថែរក្សាខ្លួនឯងផ្សេងៗ
+- ប្រើប្រាស់គ្រឿងស្រវឹង ឬថ្នាំខុសពីការណែនាំ រួមទាំងថ្នាំដែលវេជ្ជបណ្ឌិតបានចេញឱ្យ
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ក៏បានបន្ថែមសញ្ញាផ្សេងទៀតដូចជា ការបដិសេធមិនទទួលស្គាល់អំពីជំងឺ ការខឹងនឹងអ្នកដែលអ្នកថែទាំ (“គាត់គ្រាន់តែរឹងរូស”) ការព្រួយបារម្ភអំពីអនាគត ពិបាកផ្តោតអារម្មណ៍ និងបញ្ហាសុខភាពដែលកាន់តែធ្ងន់ធ្ងរ។ អង្គការនេះណែនាំឱ្យពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ប្រសិនបើអ្នកមានសញ្ញាបែបនេះជាទៀងទាត់។
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+ដំបូន្មានរបស់ NIA គឺកុំរង់ចាំរហូតដល់អ្នកអស់កម្លាំងទាំងស្រុង។ សូមសម្គាល់សញ្ញារបស់អ្នកឱ្យបានឆាប់ និងចាត់វិធានការតាមដែលអាចធ្វើបាន។
 
-## What can I do today, in five minutes?
+## តើថ្ងៃនេះខ្ញុំអាចធ្វើអ្វីបានក្នុងរយៈពេលប្រាំនាទី?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+ការសម្រាកខ្លីៗក៏មានប្រយោជន៍ដែរ។ រឿងទាំងនេះមិនអាចដោះស្រាយការហត់នឿយទាំងស្រុងបានទេ ប៉ុន្តែអាចជួយឱ្យអ្នកឆ្លងកាត់រសៀលដ៏លំបាកមួយបាន។
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **ចេញទៅខាងក្រៅមួយភ្លែត។** អង្គុយនៅមាត់ទ្វារ ឬដើរទៅប្រអប់សំបុត្រ ខណៈពេលដែលអ្នកដែលអ្នកថែទាំស្ថិតនៅក្នុងសុវត្ថិភាព និងស្ងប់ស្ងាត់។
+- **ដកដង្ហើមយឺតៗ។** ដកដង្ហើមយឺតៗពីរបីដង មុនពេលឆ្លើយសំណួរលំបាកមួយ។ អ្នកក៏អាចសាកល្បងសកម្មភាព [សម្រាកដោយដកដង្ហើមស្ងប់ៗ](/games/calm-breathing/) ជាមួយអ្នកដែលអ្នកថែទាំផងដែរ។
+- **ផឹកទឹក និងបរិភោគអ្វីមួយ។** ពេលរវល់ យើងងាយភ្លេចបរិភោគអាហាររបស់ខ្លួនឯង។
+- **ផ្ញើសារទៅមិត្តភក្តិម្នាក់។** មិនចាំបាច់សុំអ្វីទេ គ្រាន់តែភ្ជាប់ទំនាក់ទំនង។
+- **និយាយពាក្យល្អៗជាមួយខ្លួនឯង។** [មគ្គុទ្ទេសក៍របស់ NIA អំពីការថែរក្សាខ្លួនឯង](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) ណែនាំឃ្លាដូចជា “ខ្ញុំកំពុងព្យាយាមអស់ពីសមត្ថភាពរបស់ខ្ញុំ” “ខ្ញុំមិនមែនជាមនុស្សល្អឥតខ្ចោះទេ ហើយវាមិនអីទេ” និង “ខ្ញុំនឹងត្រេកអរជាមួយគ្រាទាំងឡាយដែលយើងអាចនៅជាមួយគ្នាបានដោយស្ងប់ស្ងាត់”។
 
-## What is respite care, and how do I get it?
+## តើសេវាកម្មសម្រាកគឺជាអ្វី ហើយខ្ញុំអាចទទួលបានវាដោយរបៀបណា?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+សេវាកម្មសម្រាក គឺជាការថែទាំរយៈពេលខ្លីសម្រាប់អ្នកដែលអ្នកថែទាំ ដើម្បីឱ្យអ្នកបានសម្រាក។ [ទំព័ររបស់ NIA អំពីសេវាកម្មសម្រាក](https://www.nia.nih.gov/health/caregiving/what-respite-care) ពន្យល់ថា វាអាចមានរយៈពេលពីរបីម៉ោងរហូតដល់ច្រើនសប្តាហ៍ ហើយអាចធ្វើនៅផ្ទះ នៅមជ្ឈមណ្ឌលសុខភាព ឬនៅមជ្ឈមណ្ឌលថែទាំពេលថ្ងៃ។
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) បានរៀបរាប់ប្រភេទទូទៅដូចខាងក្រោម៖
 
-| Type | What it is |
+| ប្រភេទ | អ្វីដែលវាគឺជា |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| ជំនួយនៅផ្ទះ | មិត្តភក្តិ សាច់ញាតិ អ្នកស្ម័គ្រចិត្ត ឬអ្នកជួយថែទាំដែលមានប្រាក់ឈ្នួលមកជួយនៅផ្ទះ |
+| មជ្ឈមណ្ឌលថែទាំពេលថ្ងៃ | សកម្មភាពដែលមានការរៀបចំដូចជា តន្ត្រី និងសិល្បៈក្នុងបរិយាកាសក្រុមដែលមានសុវត្ថិភាព ជាញឹកញាប់មានសេវាដឹកជញ្ជូន និងអាហារ |
+| ស្នាក់នៅមួយយប់ ឬរយៈពេលខ្លី | មជ្ឈមណ្ឌលថែទាំរយៈពេលវែងថែទាំអ្នកនោះក្នុងរយៈពេលមួយយប់ ពីរបីថ្ងៃ ឬពីរបីសប្តាហ៍ |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**តើអ្នកណាជាអ្នកចំណាយ?** យោងតាម NIA ការសម្រាកដែលផ្តល់ដោយសាច់ញាតិ មិត្តភក្តិ ឬអ្នកស្ម័គ្រចិត្តអាចមិនគិតថ្លៃ។ សេវាកម្មពីអ្នកជំនាញគិតថ្លៃតាមម៉ោង ឬតាមថ្ងៃ។ សម្រាប់អ្នកដែលកំពុងទទួលការថែទាំស្ថានជម្ងឺស941ន្និដ្ឋាន (hospice care) Medicare គ្របដណ្តប់ថ្លៃភាគច្រើនសម្រាប់សេវាកម្មសម្រាករហូតដល់ 5 ថ្ងៃជាប់ៗគ្នានៅមន្ទីរពេទ្យ ឬមជ្ឈមណ្ឌលថែទាំជំនាញ។ Medicaid អាចជួយបាន។ ធានារ៉ាប់រងសុខភាពឯកជនភាគច្រើនមិនគ្របដណ្តប់សេវាកម្មសម្រាកទេ ប៉ុន្តែផែនការធានារ៉ាប់រងថែទាំរយៈពេលវែងមួយចំនួនអាចជួយបាន។
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**គន្លឹះ៖** Alzheimer's Association ណែនាំឱ្យសាកល្បងអ្នកផ្តល់សេវាកម្មសម្រាកនៅពេលដែលមិនមែនជាករណីបន្ទាន់ ដើម្បីឱ្យពួកគេអាចជួយបានភ្លាម នៅពេលដែលអ្នកត្រូវការជំនួយយ៉ាងលឿន។
 
-## Where can I find help near me?
+## តើខ្ញុំអាចរកជំនួយនៅជិតខ្ញុំបាននៅឯណា?
 
-Several free US services can point you to local help.
+មានសេវាកម្មឥតគិតថ្លៃជាច្រើននៅសហរដ្ឋអាមេរិក ដែលអាចណែនាំអ្នកទៅកាន់ជំនួយក្នុងតំបន់។
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) គឺឥតគិតថ្លៃ និងរក្សាការសម្ងាត់ មានបុគ្គលិកផ្តល់សេវាពេញមួយម៉ោងជារៀងរាល់ថ្ងៃក្នុងមួយឆ្នាំ ដោយមានជំនួយជាង 200 ភាសាតាមរយៈបុគ្គលិកដែលនិយាយបានពីរភាសា ឬអ្នកបកប្រែ។ សូមចុច 711 សម្រាប់សេវាបកប្រែតាមទូរស័ព្ទ។ អ្នកអាចពិភាក្សាអំពីការផ្លាស់ប្តូរអាកប្បកិរិយា ភាពតានតឹងរបស់អ្នកថែទាំ ជម្រើសសេវាកម្មសម្រាក កម្មវិធីក្នុងតំបន់ និងច្រើនទៀត ហើយអាចស្នើសុំការពិភាក្សាបន្ថែមជាមួយអ្នកប្រឹក្សាថែទាំ។ បុគ្គលិកមិនផ្តល់ដំបូន្មានវេជ្ជសាស្ត្រទេ។
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/) ជាសេវាសាធារណៈរបស់ Administration for Community Living ដែលភ្ជាប់អ្នកទៅកាន់សេវាកម្មសម្រាប់មនុស្សវ័យចំណាស់ និងគ្រួសារ។ អ្នកអាចហៅទូរស័ព្ទ ផ្ញើសារ ជជែកតាមអ៊ីនធឺណិត ឬផ្ញើអ៊ីមែលទៅបុគ្គលិកដែលបានបណ្តុះបណ្តាល ឬស្វែងរកតាមតំបន់។ សេវានេះអាចណែនាំអ្នកទៅកាន់ Area Agency on Aging ក្នុងតំបន់របស់អ្នក។
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) ជួយអ្នកស្វែងរកអ្នកផ្តល់សេវាកម្មសម្រាកតាមរដ្ឋ និងណែនាំឱ្យទាក់ទង State Respite Coalition ឬកម្មវិធី Lifespan Respite របស់រដ្ឋជាមុន ប្រសិនបើមាន។ ARCH កត់សម្គាល់ថា ខ្លួនមិនបានពិនិត្យផ្ទៀងផ្ទាត់អ្នកផ្តល់សេវាទេ ដូច្នេះសូមពិនិត្យបទពិសោធន៍ និងប្រវត្តិរបស់ពួកគេដោយខ្លួនឯង។
 
-## How do I find a support group?
+## តើខ្ញុំអាចរកក្រុមគាំទ្រដោយរបៀបណា?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+សូមសួរតាម Helpline ឬស្វែងរកតាមអ៊ីនធឺណិតសម្រាប់ក្រុមនៅជិតអ្នក។ Alzheimer's Association [មានក្រុមគាំទ្រ](https://www.alz.org/help-support/community/support-groups) សម្រាប់អ្នកថែទាំ និងអ្នកដែលរស់នៅជាមួយជំងឺវង្វេង ទាំងដោយផ្ទាល់ និងតាមអ៊ីនធឺណិត ដឹកនាំដោយអ្នកសម្របសម្រួលដែលបានបណ្តុះបណ្តាល។ នៅតំបន់ជាច្រើនក៏មានក្រុមពិសេសផងដែរ ឧទាហរណ៍ សម្រាប់អ្នកថែទាំដែលជាមនុស្សពេញវ័យ ឬសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺ Alzheimer ដែលចាប់ផ្តើមនៅវ័យក្មេង ឬនៅដំណាក់កាលដើម។ អង្គការនេះក៏មាន ALZConnected ដែលជាសហគមន៍អនឡាញឥតគិតថ្លៃ សម្រាប់ឱ្យអ្នកថែទាំចែករំលែកបទពិសោធន៍ និងដំបូន្មាន។
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+ក្រុមគាំទ្រអាចជាកន្លែងដែលអ្នកអាចនិយាយចេញដោយមិនខ្លាចការវិនិច្ឆ័យ រៀនគន្លឹះជាក់ស្តែងពីអ្នកដែលធ្លាប់ឆ្លងកាត់បទពិសោធន៍ស្រដៀងគ្នា និងមានអារម្មណ៍ថាមិនឯកា។ ប្រសិនបើក្រុមដំបូងមិនសាកសមនឹងអ្នក សូមសាកល្បងក្រុមផ្សេងទៀត។
 
-## How do I ask family and friends for help?
+## តើខ្ញុំគួរសុំជំនួយពីសាច់ញាតិ និងមិត្តភក្តិដោយរបៀបណា?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+សូមនិយាយឱ្យច្បាស់លាស់។ មនុស្សជាច្រើនចង់ជួយ ប៉ុន្តែមិនដឹងថាគួរជួយអ្វី។ NIA ណែនាំថា៖
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **រៀបចំបញ្ជី**នៃកិច្ចការដែលអ្នកដទៃអាចជួយបាន ហើយឱ្យពួកគេស្វែងរកជ្រើសរើស។
+- **ចាប់ផ្តើមពីរឿងតូចៗ** ប្រសិនបើការសុំជំនួយពិបាកសម្រាប់អ្នក។
+- **ផ្គូផ្គងកិច្ចការជាមួយមនុស្សដែលសមស្រប។** បងប្អូនជីដូនមួយដែលចូលចិត្តចម្អិនអាហារ អាចនាំអាហារពេលល្ងាចថ្ងៃព្រហស្បតិ៍មកឱ្យ។ អ្នកជិតខាងដែលពូកែក្នុងការបំពេញឯកសារ អាចជួយរៀបចំឯកសារ។
+- **ផ្ញើសារ ឬអ៊ីមែល** ប្រសិនបើការសុំដោយផ្ទាល់ពិបាកសម្រាប់អ្នក។
+- **រៀបចំចម្លើយជាមុន** សម្រាប់ពេលដែលមានគេសួរថាអាចជួយអ្វីបាន៖ “អរគុណដែលសួរ។ នេះជារឿងដែលអ្នកអាចជួយបាន។”
+- **រំពឹងថាមានអ្នកខ្លះអាចបដិសេធ** ហើយព្យាយាមកុំយកវាជារឿងផ្ទាល់ខ្លួន។
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+គំនិតផ្សេងទៀត៖ សុំឱ្យនរណាម្នាក់មកនៅជាមួយអ្នកដែលអ្នកថែទាំមួយរសៀលក្នុងមួយសប្តាហ៍ នាំគាត់ចេញទៅក្រៅមួយរយៈខ្លី ឬមកលេងហ្គេមជាមួយគ្នា។ [មគ្គុទ្ទេសក៍អំពីការលេងជាមួយគ្នា](/caregiving/how-to-play-together/) របស់យើងងាយស្រួលចែករំលែកជាមួយភ្ញៀវ។
 
-## What if something happened to me?
+## ចុះបើមានអ្វីមួយកើតឡើងចំពោះខ្ញុំវិញ?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+សូមរៀបចំផែនការបម្រុងសាមញ្ញមួយតាំងពីឥឡូវនេះ។ NIA ណែនាំឱ្យពិភាក្សាជាមួយសាច់ញាតិ ឬមិត្តភក្តិជិតស្និទ្ធ អំពីអ្នកណាដែលអាចជួយជំនួសបាន ហើយរក្សាទុកសៀវភៅកត់ត្រាមួយដែលមានលេខទូរស័ព្ទសង្គ្រោះបន្ទាន់ ថ្នាំ គន្លឹះអំពីអាកប្បកិរិយាដែលមានប្រយោជន៍ និងសកម្មភាពដែលគាត់ចូលចិត្ត។ Alzheimer's Association ក៏ណែនាំឱ្យរក្សាទំនាក់ទំនងវេជ្ជសាស្ត្ររបស់អ្នកនោះ និងបញ្ជីថ្នាំដែលទាន់សម័យឱ្យងាយស្រួលរកឃើញ។
 
-## When should I get professional or urgent help?
+## តើនៅពេលណាដែលខ្ញុំគួរស្វែងរកជំនួយពីអ្នកជំនាញ ឬជំនួយបន្ទាន់?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ប្រសិនបើសញ្ញានៃភាពតានតឹងកើតឡើងជាញឹកញាប់ ប្រសិនបើអ្នកមានអារម្មណ៍ក្រៀមក្រំ ឬប្រសិនបើអ្នកពិបាកទ្រាំ។ សូមប្រាប់វេជ្ជបណ្ឌិតថាអ្នកជាអ្នកថែទាំ។ NIA កត់សម្គាល់ថា អ្នកប្រឹក្សា និងអ្នកបម្រើសង្គមអាចជួយទាក់ទងនឹងអារម្មណ៍ពិបាកៗ និងការរៀបចំផែនការ ហើយថា Medicare, Medicaid និងធានារ៉ាប់រងឯកជនមួយចំនួនអាចជួយគ្របដណ្តប់ចំណាយខ្លះៗសម្រាប់សុខភាពផ្លូវចិត្ត។
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+ប្រសិនបើអ្នកមានអារម្មណ៍ថាស្ថានការណ៍ធ្ងន់ធ្ងរ ឬមានគំនិតធ្វើបាបខ្លួនឯង សូមហៅ ឬផ្ញើសារ 988 ដើម្បីទាក់ទង [988 Suicide & Crisis Lifeline](https://988lifeline.org/) ដែលឥតគិតថ្លៃ និងមានសេវា 24/7។ ប្រសិនបើមាននរណាម្នាក់ស្ថិតក្នុងគ្រោះថ្នាក់ភ្លាមៗ សូមហៅ 119។
 
-## Can shared activities give me a break too?
+## តើសកម្មភាពដែលធ្វើរួមគ្នាអាចផ្តល់ពេលសម្រាកដល់ខ្ញុំផងដែរឬទេ?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+ក្នុងករណីខ្លះ អាចបាន។ សកម្មភាពស្ងប់ស្ងាត់ដែលអ្នកទាំងពីរចូលចិត្ត អាចធ្វើឱ្យផ្នែកមួយនៃថ្ងៃកាន់តែស្រួលសម្រាប់អ្នក និងសម្រាប់អ្នកដែលអ្នកថែទាំផងដែរ៖ ស្តាប់បទចម្រៀងចាស់ៗ មើលរូបថត ឬលេងហ្គេមដូចជា [កាតសន្ទនា](/games/conversation-cards/) ដែលមិនតម្រូវឱ្យមានចម្លើយត្រឹមត្រូវ។ ប្រសិនបើអ្នកដែលអ្នកថែទាំចូលចិត្តមានមនុស្សនៅជាមួយ ការចូលរួមសកម្មភាពក្រុមដូចជា [ប៊ីនហ្គោរូបភាព](/games/picture-bingo/) នៅមជ្ឈមណ្ឌលមនុស្សវ័យចំណាស់ ឬកម្មវិធីថែទាំពេលថ្ងៃ អាចផ្តល់ពេលសម្រាកឱ្យអ្នកមួយម៉ោង។ សូមមើល [សកម្មភាពសម្រាប់ក្រុមនៅមជ្ឈមណ្ឌលថែទាំ](/activities/care-home-groups/) សម្រាប់គំនិតបន្ថែម។

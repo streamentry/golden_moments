@@ -1,35 +1,37 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Альцгеймеран цамгар йолчеран гӀуллакхаш а, ловзарш а"
+seoTitle: "Альцгеймеран гӀуллакхаш а, ловзарш а: муьлхачу муьрехь"
+description: "Альцгеймеран цамгар йолчеран гӀуллакхаш а, ловзарш а муьлхачу муьрехь хила мега, дукха хан йоцуш лаьттачу хааршна тӀехь, цхьаьна ловза маьхаза ловзарш а."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Альцгеймеран цамгар йолчу стагана дика хуьлу уггаре дукха хан лаьттачу
+  хӀуманашна тӀехь доьзна гӀуллакхаш: дукха хенахь Ӏамийна говзаллаш, шира
+  иллеш, девзаш долу цӀахьбаннаш, синкъерамашца хӀума хетар. Юьхьанца картех,
+  стоьлан ловзарех, юург яран гӀуллакхех, арабахарех пайда хила тарло.
+  Юккъерчу муьрехь дӀасатоьхна хӀуманаш вовшахтохар, къастор, илли алар, суртийн
+  альбомаш хьажар, атта суьртийн ловзарш хьажа мегар ду. Цамгаран тӀаьххьарчу
+  муьрехь музыкин, барамехь хьакхаран, уллохь хиларна маьӀна дукха хуьлу.
+  Стаг тахана муха ву хьожуш харжа.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Альцгеймеран цамгар — деменцин уггаре даьржина бахьана ю, цундела деменцин гӀуллакхийн хьехамаш цуьнан а мегаш ду."
+  - "Керла хаамаш дагахьлатто хала хуьлу дукха хьолахь дуьххьара, ткъа дукха хенахь хьалха Ӏамийна говзаллаш а, иллеш а дуккха а хан лаьтта. Царна тӀехь гӀуллакхаш кхолла."
+  - "Муьраш вовшахкхета, дика а, хала а денош хилар нормалан ду. Стаг тахана хӀун дан а, хаздан а ло хьожуш харжа."
+  - "Хенан дозанаш, очкош, хаттарш доцуш ловзарш харжа, суьрташ гоьуш дисийта."
+  - "Хьежар, хӀума карахь латтор, я цхьаьна Ӏар — иза а дакъалацар ду."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Альцгеймеран цамгар йолчу стагана муьлхачу гӀуллакхаша пайда бо?"
+    a: "КӀеззиг атта бина девзаш долу гӀуллакхаш: бедарш дӀасатоьхна хӀума вовшахтохар, стоьл кечбар, цхьаьна юург яр, музыка а, илли алар а, суьрташ хьажар, гӀашлелар, бешлелор, дийнатца хан яккхар. Атта суьртийн ловзарш, атта пазлаш, дийцарш долу карташ а дукхачу наха дика лору. Стаг даима реза хилла гӀуллакх харжа, цуьнца цхьаьна дакъалаца."
+  - q: "Альцгеймеран цамгар йолчеран ловзарш пайде дуй?"
+    a: "Стаг реза велахь, ловзарш цхьаьна хаза хан яккха тарло. Цхьана а ловзаро Альцгеймеран цамгар дарба до, сацадо я ца соццу бохуш гайтина дац, цундела ловзарш самукъанан харжа: доккха суьрташ, кӀезиг харжамаш, хенан доза, очкош, гӀалатах лаьцна аз дац."
+  - q: "Деменцин гӀуллакхаш а, Альцгеймеран гӀуллакхаш а тайп-тайпана дуй?"
+    a: "Дукха хьолахь — дац. Альцгеймеран цамгар — деменцин уггаре даьржина бахьана ю, цундела цхьатерра гӀуллакхийн хьехамаш лелаш ду. Альцгеймеран цамгарехь хаа деза: дукха хьолахь керла дагалецамаш дуьххьара довлу, цундела шира говзаллашна, иллешна, ламасташна тӀехь доьзна гӀуллакхаш атта хуьлу."
+  - q: "Альцгеймеран цамгаран тӀаьххьарчу муьрехь стагана хӀун хаздан мегар ду?"
+    a: "Цуьнан дукхавезаш йолу музыка, кӀеда куьг массаж яр, карахь латто кӀеда хӀуманаш, цунна хьалха ешар, арахь Ӏар, цо тешаш волчу стагаца уллохь хилар. ГӀуллакх доца а, тийна а де, цуьнан цӀара а, дегӀа а хьажа, хӀун хаздо цунна."
+  - q: "Альцгеймеран цамгар йолчу стаг гӀуллакхе муха озо?"
+    a: "ГӀуллакх кхайкхо меттана гӀо деха, хӀума дерриг хьалха кечде, цу тӀе ша волало, цунна тӀаккха цхьаьна дакъалаца атта хилийта. Цуьнан уггаре дика хан харжаро доккха гӀо до. Нагахь цо «хӀан-хӀа» аьлча, тӀаьхьо юха хьажа я кӀеззиг атта кеп кховда."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +56,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Нагахь шуна дукхавезаш волчу стагана Альцгеймеран цамгар делахь, шуна тидам бина хила тарло: цхьацца хӀуманаш сиха дицло, ткъа кхинерш дукха хан лаьтта. Цуьнан тахана Ӏуьйранна телефонан къамел дагахь ца хила тарло, амма иллин дешнаш дерриг дагахь хила тарло, кхача дӀатоьхна хӀума даима санна вовшахтоха а, карташ дӀасадекъа а. Дика гӀуллакхаш ишттачу лаьттачу говзаллашна тӀехь хуьлу. ХӀокху агӀонехь хьалха цунах лаьцна дуьйцу, тӀаккха муьлхачу муьрехь муьлха гӀуллакхаш мегар ду, хӀокху сайт тӀера маьхаза ловзарш муха догӀу а гойту.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Альцгеймеран гӀуллакхаш деменцин гӀуллакхех къаьсташ дуй?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Дукха къаьсташ дац. Деменци — шуьйра билгало ю, Альцгеймеран цамгар — цуьнан уггаре даьржина бахьана. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) боху, деменцин меттигашкахь 60 тӀера 80 процент кхаччалц Альцгеймеран цамгарах хуьлу. Деменцина лерина язйина гӀуллакхийн хьехамаш дукхахдерг Альцгеймеран цамгарна а мегаш ду, вайн [101 гӀуллакхан хьехам](/activities/ideas/) санна.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Хаа пайде долуш дерг — хийцамаш муха богӀу. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) кхетадо, Альцгеймеран цамгаро дуьххьара коьртан хьекъалера дагалецамца доьзна меттигашна зе до, тӀаьхьо мотт, ойла яр, нахца юкъаметтигаш а хийца тарло. Alzheimer's Association боху, дукха хьолахь дуьххьара гуш долу хилам — керла Ӏамийна хаамаш дагахьлатто хала хилар ду. ХӀора стаг тайп-тайпана хуьлу, цхьана стаган масех бахьана а хила тарло, амма и кеп дика гӀо до гӀуллакхаш харжаш.
 
-## What kinds of activities suit Alzheimer's best?
+## Альцгеймеран цамгар йолчарна муьлхачу гӀуллакхаша дика гӀо до?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Шира, дукха хенахь Ӏамийна хааршна тӀехь доьзна гӀуллакхаш дукха хьолахь атта хуьлу, керла хӀума Ӏамо а, дагахьлатто а дезачул.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Дукха хенахь Ӏамийна говзаллаш.** Alzheimer's Association билгалдоккху, стага хьалха Ӏамийна атта эшарш пианино тӀехь лакха тарло. Цунах тера ду каделла йар, дечиг шардар, карташ хьовзор, бода иэн, бедарш дӀасатоьхна хӀума вовшахтохар.
+- **Шира иллеш а, девзаш долу музыка а.** Дукхачу наха шен кегийрчу хенара, килсан, ловзаран иллеш дагахь латтайо. Хьажа [музыкин гӀуллакхаш](/activities/music/).
+- **Ӏалашо йолу цӀахьбаннаш.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) боху, кемсаш дӀадахар, стоьл кечбар, мозий къастор, бедарш дӀасатоьхна хӀума вовшахтохар дукхачарна хаздала тарло. Пайде хетар ладаме ду.
+- **Дагахьдахар ца, вовшах къастор.** Цуьнан цӀе дагахьяийта хала хилча а, нийса сурт гайта атта хила тарло. Цундела массо а сурт гоьуш долу ловзарш хаттарел атта хуьлу.
+- **Синкъерамашца хӀума хетар.** Барам, хьожа, йовхо, чам, аз — дешнаш хала хилча а, уьш маьӀне дуьсу. Хьажа [синкъерамийн гӀуллакхаш](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Дукха хьолахь хала хуьлу: хан лору хӀуманаш, керла бакъонаш Ӏамор, дуккха а гӀулчаш дагахьлаттор, дагалецам талла хаттарш, масала: «ХӀара мила ву дагахьвогӀий хьуна?» Ишттачу хӀуманаша Альцгеймеран цамгаран уггаре хала дакъа хьалха даьккхина.
 
-## Activities for early-stage Alzheimer's
+## Альцгеймеран цамгаран юьхьанцара муьрера гӀуллакхаш
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Юьхьанцарчу муьрехь [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) боху, стага машине лела а, болх бан а, нахца юкъахь дакъалаца а тарло, амма девзаш долу дешнаш я хӀуманаш хӀуьнга лаьтта дагахь ца довлу. Уггаре дика некъ — цхьаьна болх бар: цо хӀун дан лаьа, муьлха гӀо оьшу хатта.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Шен девзаш долу хобби леладе.** Гольф, картех ловзар, каделла йар, хор, килсан тобанаш — кӀеззиг хийцамаш а беш, масала жима тобанаш а, тийна хан а харжар.
+2. **Девзаш долу картийн а, стоьлан а ловзарш ловза.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) юьхьанцарчу муьрехь дешнийн ловзарш, картийн ловзарш, стоьлан ловзарш билгалдоху. Очкош лара цуьнан синтем бала беш белахь, цхьаьна тобанца ловза я очкош дерриг дӀадаха.
+3. **Цхьаьна юург е.** Цо дагахь йолу рецепт ша лелайе, ткъа ахь гӀулчаш еша.
+4. **Дахаран истори вовшахтоха долало.** Сурташ, рецепташ, дийцарш — цо ша куьйгалла деш долу альбомехь. Хьажа [дагалецаман гӀуллакхаш](/activities/reminiscence/).
+5. **Ара гӀо.** Дукхавезаш йолчу меттиге тийначу хенахь, музей чохь доца хьажар, паркехь гӀашлелар.
+6. **Цо ша хаьржина пазлаш хьажа.** Доккха зорбанан кроссвордаш, дешнийн лехарш, пазлаш. Хьажа [деменци йолчеран пазлаш](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Кхин хьехамаш: [юьхьанцарчу муьрера гӀуллакхаш](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Альцгеймеран цамгаран юккъерчу муьрера гӀуллакхаш
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association боху, юккъера мур дукха хьолахь уггаре еха хуьлу, масех шарахь лаьтта тарло. Дешнаш ийна хила тарло, сиха сингаттаме хила тарло, стагана кхин а гӀо оьшу. Alzheimer's Foundation of America тӀетуху, дукхачарна гӀуллакх доло я дӀадахьа гӀо оьшу. Хьан дакъа хуьлу хӀума кечдан, кхетош ца, гайта, хала долу дакъош тӀеэца.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **ДӀасатоьхна хӀуманаш вовшахтоха, къасто, нисде.** Кхачанаш, мозий, у, босца нуьйдарш. Бакъдолу гӀуллакхаш, цхьаьна деш.
+2. **Илли ала, музыкица лела.** Куьгаш детта, кӀеда лела, кухни чохь хелхар. Хьалха ша илли ала волало, цуьнга тӀаккха цхьаьна ала атта хир ду.
+3. **Суьртийн альбомаш хьажа.** Хьо гуш дерг дийца, дийцаре кхайкха: «ХӀара машина хаза ю. Цунах лаьцна дийцийша суна.» Цо муьлха цӀераш лелайо, уьш тӀеэца.
+4. **Атта суьртийн ловзарш ловза.** [Суьртийн шиъ вовшахнисдар](/games/picture-pairs/) — 4 тӀера 6 суьрт а долуш, уьш гоьуш а дуьтуш, я [Цхьатерра сурт каро](/games/find-the-same/) — 2 я 3 харжам а болуш.
+5. **Девзаш долу кицанаш чекхдаха.** «Ӏуьйранна Ӏаж муьлххачу хенахь диина...». Дукха хенахь Ӏамийна кицанаш атта дагадогӀу. Хьажа [Кица чекхдаккха](/games/finish-the-saying/), цигахь муьлхха а чаккхе цхьана хьокхуш гайта мегар ду.
+6. **Ораматашна хи дилла, уьш леладе.** ЦӀахь йолу кузанаш я лекха меттиг, жима лейка а йолуш.
+7. **Доьзалан суьрташца вовшахнисдаран ловзар хӀоттае.** [Суьртийн ловзар](/games/photo-pairs/) шу хаьржина суьрташ леладо, уьш шуьгахь долчу гӀирс тӀехь дуьсу.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Кхин хьехамаш: [юккъерчу муьрера гӀуллакхаш](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Альцгеймеран цамгаран тӀаьххьарчу муьрера гӀуллакхаш
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+ТӀаьххьарчу муьрехь Alzheimer's Association боху, стага гуонахьарчу хӀуманашна жоп дала а, дийцар дӀадахьа а таро ца хуьлу, амма цхьадолу дешнаш я фразаш ала тарло. ХӀинца гӀуллакхан маьӀна — синтем балор а, гергарло хетар а, стаг муьлхачу меттигехь велахь а цига дӀакхачор.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Цуьнан дукхавезаш йолу музыка лело**, телевизор тийна а йолуш.
+2. **Цуьнан дукхавеза хьожа йолчу кремца куьг массаж е.**
+3. **Карахь латто кӀеда хӀуманаш ло:** йовха юрган, кӀеда кӀади, шера тӀулг.
+4. **Лекха азца еша** псалмаш, байташ я девза дийцар. МаьӀнал хьалха азан ритм маьӀне ду.
+5. **Арахь ӀиндагӀехь Ӏар**, я корахь, олхазарш гуш.
+6. **Цхьана доккхачу суьрте цхьаьна хьажа.** Планшетан экран дӀалоцуш стоьмаш йолу зезаг я жӀаьла, ахь гуш дерг дийцаш.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Кхин хьехамаш: [тӀаьххьарчу муьрера гӀуллакхаш](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Альцгеймеран цамгар йолчу стагана муьлха ловзарш мегар ду?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Цхьанне а иэшо йиш йоцуш ловзарш харжа. ХӀокху сайт тӀера массо а ловзар маьхаза ду, браузерехь болх бо, хенан доза, очкош, регистраци а яц.
 
-| Game | What you do | Often suits |
+| Ловзар | ХӀун до | Дукха хьолахь мегар ду |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Суьртийн шиъ вовшахнисдар](/games/picture-pairs/) | Доккха суьрташ вовшахнисде; уьш гоьуш диса мегар ду | Юьхьанцара а, юккъера а мур |
+| [Цхьатерра сурт каро](/games/find-the-same/) | Лакхахь долчунна нийса сурт тӀетаӀаде | Юккъера а, тӀаьххьара а мур, гӀо а долуш |
+| [Кица чекхдаккха](/games/finish-the-saying/) | Девзаш долчу кицанан тӀаьххьара дош харжа я гайта | Юьхьанцара а, юккъера а мур |
+| [Суьртийн пазл](/games/picture-puzzle/) | 4 я 9 дакъа меттиге дӀахӀоттаде, сурт гуш а долуш | Юьхьанцара а, юккъера а мур |
+| [Дийцаран карташ](/games/conversation-cards/) | Сурт а, дийцар доло дӀаделла хаттар а | Муьлхха а мур, дийца стаг а волуш |
+| [Суьртийн ловзар](/games/photo-pairs/) | Шайн суьрташца вовшахнисдаран ловзар | Юьхьанцара а, юккъера а мур |
+| [Басарш хьахар](/games/coloring/) | Бос харжа, тӀаккха суьртан дакъа хьакха; я зорба тоха | Муьлхха а мур, гӀо а долуш |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Муха цхьаьна Ӏан деза, мел гӀо дан деза, маца саца деза — хьажа [деменци йолчу стагаца муха ловза деза](/caregiving/how-to-play-together/). «Дагалецаман ловзарш» бохучу хаттарна жоп лаха: [деменци йолчу воккхачарна дагалецаман ловзарш](/activities/memory-games/).
 
-## How to make any activity easier
+## Муьлхха а гӀуллакх муха атта бан беза
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA хьехамаш коьрта масех ламасте боьрзу: стагана дан ло хӀума харжа, волавелча гӀо де, сингаттам тидаме эца, аьтто хетийта, хьежа лаахь — хьежа маго.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Цуьнан уггаре дика хан харжа**, хан доца хилийта.
+- **ХӀума дерриг хьалха кечде**, сиха волавелийта.
+- **Кхайкха, омар ма де.** «Соьга жимма гӀо дийр дуй ахь?» — «ГӀуллакх дан хан хӀинца» олчул дика ду.
+- **Хьалхара гӀулч ша кхочушде**, цуьнга тӀаккха тӀедахар атта хилийта.
+- **Цхьана хенахь цхьа гӀулч а, цхьа харжам а кховда.**
+- **Цуьнан кепара хила маго.** Нийса ца дӀатоьхна кхача а мегаш ду.
+- **Хаза долуш саца.** Хьалха сацар — дика жамӀ ду, гӀалат дац. Нагахь цо реза ца хилахь, хьажа [деменци йолчу стага реза ца хилча](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) атта боху: кхиамал хьалха самукъане хьажа.

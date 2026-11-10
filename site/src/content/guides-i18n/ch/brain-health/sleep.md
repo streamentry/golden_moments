@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Tulo' yan Salut Utak: Hafa Ma'estudia Siha yan Hafa Ayuda"
+seoTitle: "Tulo' yan Dimensia: Hafa Ma'estudia Siha Ma'sangan"
+description: "Hafa ma'estudia siha ma'sangan put risgu dimensia, taya' kinalaman i estudiu put halum utak, yan manera siha put tulo' ni para i taotao ni adulto yan i taotao ni un ayuda."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Sumen estudiu ni dinanña siha ma'liga tulo' gi tiempon taotao ni tinilaikan gi risgu dimensia, yan i estudiu gi laboratoriu ma'sangan na i tulo' siña ayuda i utak ma'hålom i såpblanu. Maolek todabía i estudiu, yan i 2024 Lancet Commission taya' ma'lista i tulo' komo sigun na risgu ni siña ma'å'ålak. Regulat na tulo' siha ayuda i minagof-ta gi kada dia. Mama'ña i problema siha ni tulo' gi dimensia, yan debi na ma'sangan ya un ma'å'ålak gi dakttot.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Un estudiu gi UK ni ma'ilek i sumen 8,000 na taotao gi 25 na åño ma'liga na i tumulo' seis oras pat menos gi tiempon taotao na adulto ma'å'ålak risgu dimensia."
+  - "I ma'bånidu siha gi tulo' siña ser sinenten dimensia gi mås ti'ı, sa' ti fasil na ma'ngiti i rason yan i resulta."
+  - "I estudiu put i tulo' ni ma'hålom i beta-amyloid gi utak ma'hålom i tinanom na, mås ti'ı gi mantes gi ratón siha."
+  - "I sleep apnea ma'å'ålak yan ma'liga ni dimensia gi estudiu siha; debi na ma'kuenta i dankolo na tangis yan i ma'å'ålak na tumulo' gi kalan dia."
+  - "Ti hu'ot u na'ma'taiguini, u hu'ot ma'chopda, pat u ma'ilek i medisinan tulo' pat ayudante tulo' ti ma'ngayaʼ dakttot."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Ya i ti maolek na tulo' ma'å'ålak Alzheimer's?"
+    a: "Taya' sinangan ni ma'ka'ka. Sumen estudiu ma'liga i ti dimaolek na tulo' yan ma'å'ålak risgu dimensia, lao i dimensia mismo ma'å'ålak i tulo', ayu na dinanña antes di dinikiki. I 2024 Lancet Commission ma'huyong na i ebidensia taya' klaru para ma'lista i tulo' komo risgu ni siña ma'å'ålak."
+  - q: "Kuånto na tulo' nisisita i adulto ni dumadaña?"
+    a: "I National Institute on Aging ma'lalao na i adulto ni dumadaña nisisita meggaʼ parehu ni otro na adulto, 7 asta 9 oras gi kada banengi. Meggaʼ taotao ni dumadaña mama'nå'i gi tiempon tulo' yan mama'lefnga mås tiempon ki nu i pasådu, ayu komun."
+  - q: "Ta'lo' i taotao ni gaige yan dimensia tumulo' gi kada ådes yan ma'lalefnga gi banengi?"
+    a: "I dimensia siña afecta i relos i lina'la', ya i tiempon tulo' yan lefnga sina ma'nasaga. I dinanña, aburrimiento, gana, pat sinestrahon medisina siña ma'tuge' gi ayu. I lusen, aktibedat gi kada dia, yan un kalma na gaʼ-ayi siña ayuda. I dakttot siña chumeka i rason ni siña ma'gåsta."
+  - q: "Debi yo' na'å'ålak un ayudante tulo' para i taotao ni un ayuda?"
+    a: "Hungok ki i dakttot-ña mo'na, kumu put i produktos ni ti nesisita reseta. I National Institute on Aging ma'nota na meggaʼ medisinan tulo' siña ma'å'ålak i risgu ni mahiyong, ma'chåchåpa, pat ma'ka'ka gi taotao ni gaige yan Alzheimer's."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+I tulo' yan i utak ma'konekta maolek, lao todabía ma'estudia kumu siha ma'konekta. Sumen estudiu ma'liga i ti dimaolek na tulo' yan risgu dimensia. I dimensia, gi otro lao, ginagaʼ ma'å'ålak i tulo'. Este na pahina ma'expplika hafa i estudiu ma'sangan yan hafa taya', ma'tuge' manera siha put tulo' ni para i minagof, yan ma'sangan i problema siha ni tulo' ni komun gi dimensia. Taya' ma'tuge' ni konsehu put medisinan tulo'; i kombetsasion ayu debi na guaha yan dakttot.
 
-## Is poor sleep linked with dementia?
+## Ya i ti maolek na tulo' ma'liga ni dimensia?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Sumen estudiu ma'liga i ti dimaolek na tulo' yan mås risgu dimensia gi tiempon, lao i ebidensia taya' ma'å'ånnon.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Un estudiu gi 25 na åño gi UK.** I managuaiya ma'ilek kasi 8,000 na adulto gi [estudiu Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). I taotao ni tumulo' seis oras pat menos gi edad 50 pat 60 ma'å'ålak mås risgu dimensia despues kinu i taotao ni tumulo' syete oras. I taotao ni tumulo' seis oras pat menos gi 50, 60 yan 70 kasi 30% mås risgu kinu i taotao ni kada tiempo tumulo' syete oras. Este na estudiu ma'obserba, asi ma'sangan na guaha konekta, lao taya' ma'sangan na i tulo' i rason.
+- **I tinasi i Lancet Commission.** I [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) taya' ma'na'an i tulo' gi lista-ña i 14 na risgu ni siña ma'chålek. Ma'huyong na i ebidensia taya' ma'kontra gi hinasso. Un rason i "reverse causation": i chånge gi utak ni dimensia dinanña antes di dinikiki yan siña ma'åtrasa i tulo'. Gi un dankolo na estudiu, i konekta entre dimaloffan na tulo' yan dimensia ma'esfatta despues di ma'taitai i primet singko na åño di follow-up.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Asi, i un kabales na tulo' pat dos ti rason para ma'preokupa. I regulat yan maolek na kalidåt tulo' debi na para ma'å'alkansa porke ayuda i minagof, i isapble, yan i sinseridat gi åhulo.
 
-## What is the "brain-clearing" sleep research?
+## Hafa i estudiu put "tulo' ni ma'chålek i utak"?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Siña un ma'lalålak na i tulo' "ma'lalåtak" i utak. Este na tinilaikan ma'tinanom gi tinanom na estudiu, lao todabía minaisu.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Gi ratón siha.** Un estudiu gi 2013 [ma'deskribe ni NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) ma'chuli na i espasio entre i sèlulan utak ma'å'ålak kasi 60% kuando nu i ratón tumulo'. I fluidu ma'mobe mås fasil gi utak, pot i ma'tutuge' "glymphatic system". I beta-amyloid, un proteina ni ma'konekta yan Alzheimer's, ma'chålek mås palu gi utak ni ratón tumulo'.
+- **Gi taotao siha.** Un ki'ki'ot na [estudiu 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) ma'iskåni 20 na adulto ni sanå, edad 22 asta 72, despues di un normal na banengi yan despues di un banengi ni taya' tulo'. Despues di banengi ni taya' tulo', i senyat gi iskåne ni beta-amyloid ma'å'ålak kasi 5% gi un lugat ni inklusu i hippocampus, un parte di utak ni impotånte para i minagof. I managuaiya ma'lalao na este ma'å'ålak i ebidensia preliminaria. Taya' managuaiya ma'sangan kao este i chånge ma'kålma despues di ma'å'ålak, pat kao ma'å'ålak i amyloid pat ma'chålek mås ki palu.
+- **Ma'å'ålak gi dos na dinirekson.** I Lancet Commission ma'nota na i ma'å'ålak amyloid mismo siña ma'åtrasa i tulo' gi adulto ni dumadaña.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Este na ma'sangan ayuda ma'tuge' porkiha i managuaiya ginagaʼ interes gi tulo'. Taya' ma'sangan na i maolek na tulo' ma'pribene i Alzheimer's.
 
-## What sleep habits may help?
+## Hafa maneran tulo' siña ayuda?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+I adulto ni dumadaña nisisita kasi 7 asta 9 oras na tulo' gi kada banengi, parehu ni otro na adulto, sigun ni [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Ayu i suhestion-ña:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Ma'å'alkansa un regulat na tiempon.** Tumulo' yan manmama'nå'i gi mismo na tiempon kada dia, sen pat gi fin di semana.
+- **Ma'å'alkansa un rutinas para ma'kålma.** Lalålak, hungok musikan kalma, pat afatta un bånu ni asaga antes di tulo'.
+- **Ma'prepåran i kuåtto ni komportable,** ti sen chalek pat sen fresko.
+- **Ma'ayi kafeina gi kalan dia.** Kafe, tè, soda yan chocolate siña ma'å'ålak ka'å'aligao.
+- **Ma'ayi alkohot,** afatta kuåntu ki, ma'nota i NIA.
+- **Ma'ayi dinanña na kuåkuånan gi dos pat tres oras antes di tulo',** yan dinanña na inum gi kalan dia.
+- **Ma'å'alkansa mame'ënsiha regulåt, lao ti gi tres oras antes di tulo'.** Hungok i [giya-ta put ehetsisio](/brain-health/exercise/).
+- **Ma'ayi pantalla gi kuartu tulo'.** I NIA ma'suhestion ti manmamira TV pat ma'usa kompiuter, telifon pat tablet gi ayu.
+- **Ma'ayi tulo' gi kalan åfternun pat gi banengi kuando siña.**
 
-## Sleep problems in dementia
+## Problema siha gi tulo' gi dimensia
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+I kanmbion gi tulo' komun gi dimensia. I [NIA ma'lista](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) ni tumulo' dankolo pat ti sufisiente, na ma'lefnga puru gi banengi, yan na mama'nå'i tulo' gi kada dia. Ma'deskribe ya i sundowning: ma'ngatngat, agitasion pat konfusion ni ma'kakalan pat ma'å'ålak kuando i saga ma'fanaga.
 
-Caregiver tips from the NIA include:
+Ayu i tinilaikan ni NIA para i taotao ni un ayuda:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Ma'å'alkansa i saga yan mames gi kalan oras.** Ayi gi petsona pat ma'sendi gi bentana gi jaigo. I maninchen lumi siña ayuda ma'ti'nu i relos i lina'la'.
+2. **Ma'planeha i aktibidat ni hayan gi mañana.** Pulan bånu gi mañana pat i mås dankolo na kuåkuånan gi tiempon tinaitai.
+3. **Ma'å'alkansa i tulo' ki'ki'ot yan gi tiempon.** Ma'limita i ma'adormin gi kalan åfternun.
+4. **Ma'å'alkansa i banengi ni kalma.** Ma'lalaggu i lusen, ma'ti'nu i tinanom na lula, yan ma'hungok musikan kalma kuando i petsona gusto. I giya-ta put [ngatngat gi kalan dia](/caregiving/late-day-restlessness/) ma'å'ålak mås idea.
+5. **Ma'å'alkansa un regulat na rutinas para tulo'.** Ma'lalålak gi lengguahe ni ma'lalå'la' gi mismo na tiempon kada banengi, ayu un ehemplo ni NIA. Un [regulat na rutinas gi kada dia](/activities/daily-routine/) ayuda ya.
+6. **Ma'limita kafeina yan alkohot.**
+7. **Usa nightlights** gi kuartu tulo', gi pasiyu, yan gi banu.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Put i ma'chåchålek gi banengi, i [tinilaikan para sigulidat gi lugat](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ni NIA ma'å'ålak nightlights pat sensot lusen ootomatiku, barande gi banu, tape ni kulot kolot gi kanton i hagon, yan medisinan ma'tulalaikan gi lugat ni ma'lak-ña.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Un ki'ki'ot, kalma na aktibidat gi banengi siña ayuda ambos para ma'kalma. Sina un ki'ki'ot na [Calm Breathing](/games/calm-breathing/) pat unos pocos na [Conversation Cards](/games/conversation-cards/) ni kalma. Ayi kulan ni para ma'å'ålak gi cha'an tulo', yan para kuando i petsona manhalom ti'ı, ma'para.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+I tulo' ni ma'chålek ma'å'ålak i kuidadot ta'lo' ni ya. I [giya-ta put self-care ni kuidadot](/caregiving/caregiver-self-care/) ma'chuli manera siha para ma'chåchåpa ya ma'ayuda.
 
-## What about sleep apnea?
+## Hafa put i sleep apnea?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+I sleep apnea ma'å'ålak ki'ki'ot na ma'pausa i hinanam gi tulo', kasi meggaʼ na biåhi gi banengi. I NIA ma'lalao na kuando ti ma'tratu, siña ma'å'ålak problema siha ni alta na prison dugu, stroke pat pèrdidan memoria. I sinenten siha ayu dankolo na tangis yan manesngok gi kalan dia, yan meggaʼ taotao ti ma'sosiedå na guaha. I Lancet Commission ma'deskribe un ma'revisa gi 11 na estudiu kuando i taotao ni guaha sleep apnea kasi 43% mås risgu dimensia. Lao, pumalu na estudiu ma'kuenta i peso, asi ti klaru i konekta.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+I sleep apnea siña ma'diagnose yan ma'tratu. I NIA ma'nota na i CPAP machine kasi siempre ayuda. Kuando hao pat i taotao ni un ayuda dankolo ma'tangis, ma'para ginen hinanam gi tulo', pat manesngok ma'kalan dia, sangan ya dakttot.
 
-## A note about sleep medicines
+## Put i medisinan tulo'
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Ti hami ma'lalao konsehu put medisinan tulo' pat suplemento. I NIA ma'nota na i medisinan tulo' siña ayuda gi ki'ki'ot na tiempo lao taya' kuratibu para insomnia. Ma'nota ya na meggaʼ medisinan ni ma'ayuda i taotao ni gaige yan Alzheimer's para tulo' siña ma'å'ålak i risgu ni mahiyong, ma'chåchåpa, yan konfusion. Ti hu'ot, ti ma'chopda, pat ma'chånge i medisinan tulo' sen pat i ayudante ni ti nesisita reseta, sin ma'hungok ki i dakttot pat farmasista.
 
-## Talk with a doctor
+## Hungok ki i dakttot
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Hao pat i taotao ni un ayuda debi na ha'å ya para dakttot kuando siempre manmaså', tiniki tulo' gi meggaʼ banengi, ma'tangis dankolo, pat guaha pausa gi hinanam gi banengi. Kuando i problema siha gi tulo' gi dimensia sigi, [NIA ma'lalao](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ni debi ma'bisita dakttot. Un chekeup siña ma'ana'i rason siha taiguin i fanuchan, otro sinåk tulo', guaha sakit, pat sinestrahon medisina. I ma'kålma ni konfusion, pat ma'kalan tulo' yan konfusion, nisisita iyon urhente. Lalålak i [kuando debi ma'bisita dakttot](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Este na pahina ginen información heneråt, taya' konsehu medikat. Hungok i [medical disclaimer](/medical-disclaimer/) ta.

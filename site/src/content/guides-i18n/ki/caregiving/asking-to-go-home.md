@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Rĩrĩa mũndũ ũrĩ na dementia endaga gũcoka mũciĩ"
+seoTitle: "Mũndũ ũrĩ na dementia akienda gũcoka mũciĩ: Ũkwaria atĩa"
+description: "Nĩkĩ gĩtũmaga mũndũ ũrĩ na dementia ende gũcoka mũciĩ o na arĩ mũciĩ, ũkwaria atĩa, maũndũ ma kũhooreria marĩa mũngĩgeria, na ũrĩa mũngĩmũgitĩra angereria kuumagara."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Rĩrĩa mũndũ ũrĩ na dementia akoragwo akiuga atĩ nĩekwenda gũcoka mũciĩ,
+  kaingĩ „mũciĩ” uonagia ngoro ya kwĩigua arĩ na ũgitĩri kana handũ ha tene,
+  no ti nyũmba. Ndũkanamũkararie atĩ arĩ mũciĩ. Etĩkĩra ũrĩa ekuigua, ũmũmĩrĩrie
+  atĩ arĩ na ũgitĩri, ũmũũrie ũhoro wa mũciĩ, ũcooke ũmũgarũrĩrie na ũhooreri
+  harĩ mbica, nyĩmbo, kĩndũ gĩa kũrĩa, gũceera kana wĩra mũhũthũ. Rora kana arĩ
+  na ng’aragu, nyoota, abataire gũthiĩ kĩoro, kana arĩ na ruo. Angĩambĩrĩria
+  kwĩka ũguo o rĩmwe, hũra dagĩtarĩ wake thimũ.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "„Ndĩrenda gũcoka mũciĩ” kaingĩ kuuga „ndiiguaga ndĩ na ũgitĩri kana ũhooreru,” no ti gũcaria adresi."
+  - "Kũmũkararia kana kũmũoneria atĩ arĩ mũciĩ kaingĩ kwongeragĩrĩria mĩtangĩko. Cokia ũhoro harĩ ũrĩa ekuigua."
+  - "Mũũrie akũhe ũhoro wa mũciĩ wao, ũcooke ũmũhe mbica, nyĩmbo, kĩndũ gĩa kũrĩa, gũceera kana wĩra mũhũthũ."
+  - "Rora kana harĩ kĩndũ kĩngĩahoteka gũthondekwo: ng’aragu, nyoota, kĩoro, ruo, ũrugarĩ mũingĩ kana heho, inegene, kana kũnogio."
+  - "Angĩkorwo ekaga ũguo hwaĩ-inĩ o mũthenya, no gũkorwo nĩ kũnyamarĩka gwa hwaĩ-inĩ; mũtaratara ũrĩa ũtacenjiaga na ũtheri mwega no iteithie."
+  - "Banga ũrĩa mũngĩmũgitĩra angereria kuumagara, na hũra dagĩtarĩ wake thimũ hangĩoneka kĩgarũrũku o rĩmwe."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Nĩkĩ maitũ wakwa ũrĩ na dementia akoragwo akiũria gũcoka mũciĩ o na arĩ mũciĩ?"
+    a: "Dementia no ĩtũme tũnyũmba tũrĩa tũmenyereku tuonekage ta tũgeni, na rĩmwe andũ meiguaga marĩ ihinda rĩngĩ rĩa muoyo wao. „Mũciĩ” no ũkorwo ũkĩaria nyũmba ya ũnini wao kana o ngoro ya kwĩigua marĩ na ũgitĩri na ũhooreru. Gũcokia ũhoro harĩ ngoro ĩyo kaingĩ kũkoragwo kwega gũkĩra kũmwĩra harĩa arĩ."
+  - q: "Njuge atĩa rĩrĩa ekũũria gũcoka mũciĩ?"
+    a: "Geria kuuga „Ũrĩ na ũgitĩri gũkũ, na ndĩ hamwe nawe,” ũcooke ũmũũrie „Njĩĩra ũhoro wa mũciĩ wanyu.” Mũthikĩrĩrie, mũonanagie mbica kana mũthikĩrĩrie rwĩmbo, na ũmũhe kĩndũ gĩa kũnyua kana mũthiĩ gũceera hanini. Thema kuuga „Ũrĩ mũciĩ” ta ũndũ wa kũmũrũngia, tondũ no aiguo ta arĩ kwĩrwo nĩ ehĩtie."
+  - q: "Nĩ wega kuuga atĩ nĩtũgũthiĩ mũciĩ thuutha?"
+    a: "Micii na mabũrũri ma andũ arĩa marũmbũyagia andũ arĩ na dementia matiiguanaga ũndũ ũyũ. Aingĩ mambagĩrĩria na ũhooreru wa ma na kũgarũra meciiria, na makahũthĩra maheeni mahũthũ o rĩrĩa ma mangĩtũma mũndũ acirithio mũno na ndangĩhota gũciũkĩrĩra. O ũrĩa ũngĩthuura, korwo ũrĩ mũtaana na mũkinyanĩru, na ndũkananyũrũrie ũrĩa mũndũ ũcio onaga maũndũ."
+  - q: "Angĩgeria kuuma nyũmba atĩa?"
+    a: "Ikaraga ũhooreire na mũthiĩ nake handũ ha kũmũgiria; gũthiĩ gũceera hanini kaingĩ nĩkũhooreragia wendi ũcio. Ika mĩbango ya ũgitĩri mbere, ta kĩrĩnga gĩa kuonania ũrĩa arĩ, ngengeri cia mĩrango na mbica ya hakuhĩ. Angĩũra, ambĩrĩria gũcaria o rĩmwe, na ũngĩaga kũmuona thĩinĩ wa ndagĩka 15 hũra thimũ 999 kana 112, ũmwĩre atĩ mũndũ ũcio arĩ na dementia."
+  - q: "Nĩ rĩ ngĩagĩrĩirwo nĩ kũhũra dagĩtarĩ thimũ?"
+    a: "Hũra dagĩtarĩ wake thimũ narua kũũria gũcio kana kĩrigiicano kĩngĩambĩrĩria o rĩmwe kana kwongerereka mũno thĩinĩ wa mathaa kana matukũ, makĩria harĩ na homa, dawa njerũ kana imenyithia cia mĩrimũ ya njĩra ya maaĩ. Kĩrigiicano gĩa o rĩmwe no gĩkorwo nĩ delirium, na kĩbataire ũteithio wa narua. Hũra thimũ 999 kana 112 mũndũ o wothe angĩkorwo arĩ ũgwati-inĩ."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+„Ndĩrenda gũcoka mũciĩ.” Harĩ micii mĩingĩ, gũthikĩrĩria ciugo icio nĩ ũndũ ũmwe wa marĩa maritũ mũno, makĩria mũndũ ũrĩa ũroraga aikarĩte nyũmba yake ya gũtũũra. Nĩ ũndũ wonekaga kaingĩ, no wonekane ihinda o rĩothe rĩa dementia, na nĩ harĩ na njĩra cia ũhooreri na cia wĩra cia gũcookia ũhoro. Gĩcunjĩ gĩkĩ nĩkĩaragia ũrĩa ciugo icio ciugaga kaingĩ, ũrĩa ũngĩaria, maũndũ marĩa mangĩteithia ihinda rĩu, na ũrĩa mũngĩikara mũrĩ na ũgitĩri.
 
-## Why does someone with dementia keep asking to go home?
+## Nĩkĩ mũndũ ũrĩ na dementia akoragwo akiũria gũcoka mũciĩ?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Kaingĩ, „mũciĩ” nĩ ngoro ya kwĩigua wega gũkĩra handũ. Alzheimer's Society ĩtaaragĩria ta ngoro ya ũhooreru na ũgitĩri, kana mũciĩ wa tene, no ti nyũmba ĩyo ĩrĩ ho. Dementia no ĩtũme tũnyũmba tũrĩa tũmenyereku tuonekage ta tũgeni, na mũndũ no eciirie arĩ ihinda rĩngĩ rĩa muoyo wake, rĩrĩa mũciĩ warĩ nyũmba ya ũnini wao kana harĩa maarerire ciana ciao.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Ciugo icio no cionanie atĩ harĩ na ũndũ ũngĩ ũtarĩ wega ihinda rĩu: arĩ na ng’aragu, nyoota, abataire gũthiĩ kĩoro, arĩ na ruo, arĩ na ũrugarĩ mũingĩ kana heho, anogete, arĩ wiki, etigĩrĩte, kana anegenetio nĩ inegene. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ĩgwetaga ruo, inegene, kwĩigua wiki, kũgarũrũka kwa mũtaratara na dawa ta imwe cia itũmi cia kũnyamarĩka.
 
-## What should I say when they ask to go home?
+## Njuge atĩa rĩrĩa ekũũria gũcoka mũciĩ?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Cokia ũhoro harĩ ũrĩa ekuigua, no ti harĩ ciugo ciake. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ĩtaanaga kũgeria kũringĩrĩria mũndũ atĩ nĩ ehĩtie: ũrĩa ekuigua nĩ wa ma, nĩ ũndũ ũcio ambĩrĩria na ũhooreru na kũmũmĩrĩria, ũcooke ũmũgarũrĩrie na ũhooreri.
 
-Phrases that often help:
+Ciugo iria ingĩteithia:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Taara ngoro yake.** „Ndĩrona ta ũrenda mũno mũciĩ.”
+- **Mũmĩrĩrie.** „Ũrĩ na ũgitĩri gũkũ, na ndĩ hamwe nawe.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ĩtaaraga ciugo iria nyoroku „Ũrĩ na ũgitĩri gũkũ.”
+- **Mũũrie ũhoro wa tene.** „Njĩĩra ũhoro wa mũciĩ wanyu. Riko rĩanyu rĩahaanaga atĩa?” Kũmũũria ũhoro wa matukũ ma tene kaingĩ nĩ kũhooreragia gũkĩra kũmũũria ũhoro wa ũmũthĩ.
+- **Mũhe ũndũ wa gwĩka mũrĩ hamwe.** „Reke twambe tũnyue chai,” kana „No ũndeithie na matauro maya?”
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Mĩario mĩhooreri na kũmũhutia guoko, angĩenda kũhutio, no ciarie makĩria gũkĩra ciugo.
 
-## What should I avoid?
+## Nĩ maũndũ marĩkũ njagĩrĩirwo nĩ gwĩthema?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Kũmũkararia kana kũmũtaarĩria mũno.** „Ũtũũraga gũkũ rĩu” kana „Ũno nĩguo mũciĩ waku kwa mĩaka 40” kũmũũraga etĩkĩre ũndũ ũrĩa dementia ĩtũmaga ũtuĩke mũritũ gwĩtĩkĩra, na no aiguo ta arĩ kwĩrwo nĩ ehĩtie.
+- **Kũmũũria ciũria nyingĩ.** „Ndũraririkana?” kana „Adresi nĩ ĩrĩkũ?” nĩkuongerera mĩritũ.
+- **Kũhingĩrĩria mũrango na marakara.** Angĩgeria kuuma nja, ikaraga ũhooreire na mũthiĩ nake. Gũthiĩ gũceera hanini mũrĩ hamwe kaingĩ nĩkũhooreragia wendi ũcio.
+- **Kũhiũha mũno.** Mũhe ihinda aarie ũhoro wa mũciĩ mbere ya kũgarũra ũhoro.
 
-## Activities that can help in the moment
+## Maũndũ marĩa mangĩteithia ihinda rĩu
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Warĩkia gwĩtĩkĩra ũrĩa ekuigua, wĩra mũhooreri na ũrĩa ũmenyereku no ũgarũre meciiria make na njĩra njega, hatarĩ kũmũnyarara.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Rorai mbica cia mũciĩ na cia andũ a nyũmba.** Garũrai mabati na mũheane maoni („Rora mũgũnda ũcio”) handũ ha kũũria ciũria. Thĩinĩ wa thimũ kana kĩbao, [Photo pairs](/games/photo-pairs/) ĩgarũraga mbica ciaku cia andũ a nyũmba igatuĩka mũtugo mũhooreri wa kũringithania, na mbica icio ciikaraga thĩinĩ wa kĩndũ gĩaku.
+2. **Ariai ũhoro wa mũciĩ.** [Conversation cards](/games/conversation-cards/) iheanaga ciũria cia kwaria ũhoro wa nyũmba, mariko, andũ a itũũra na thigũkũ, hatarĩ macokio marĩa magĩrĩire.
+3. **Hũra nyĩmbo iria endaga.** National Institute on Aging ĩgwetaga nyĩmbo cia ũhooreri ta njĩra ĩmwe ya kũhooreria kũnyamarĩka. Rora [maũndũ ma nyĩmbo](/activities/music/).
+4. **Mũhe kĩndũ gĩa kũrĩa kana gĩa kũnyua.** Ng’aragu na nyoota no cionekane ta kũnyamarĩka. Gĩkombe kĩa chai kana kĩndũ kĩrĩa endaga nĩ mũtaratara mũnini wa kwĩigua arĩ mũciĩ.
+5. **Thiĩi gũceera kana mũikare nja.** Kwĩnyihia mwĩrĩ na ũtheri wa mũthenya nĩ iteithagia, makĩria mũthenya ũtarĩ ũthire.
+6. **Mũhe wĩra ũrĩa ũmenyereku.** Kũgotha nguo, kũamũra indo cia mũcamo kana kũitĩrĩria mĩmera maaĩ no kũmũcookie ngoro ya gũtungata mũciĩ.
+7. **Hooreriai maũndũ mothe.** Horia thibitari, nyihia inegene na ũtheri mũingĩ, na mũgerie gũikara hamwe [kũhuhia mũhũri ũhooreire](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Rĩciria rĩmwe rĩtingĩkinya wega, geria rĩngĩ thuutha. Gũikara hamwe mũkirĩte o nako nĩ ũndũ mwega.
 
-## Check for a cause you can fix
+## Rora kĩndũ kĩngĩahoteka gũthondekwo
 
-| Check | What to try |
+| Rora | Ũrĩa ũngĩgeria |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Ng’aragu kana nyoota | Mũhe kĩndũ gĩa kũnyua na kĩndũ kĩnini gĩa kũrĩa |
+| Abataire gũthiĩ kĩoro | Mũũrie athiĩ kĩoro, na ũhooreri hatarĩ kĩnyegenyege |
+| Ruo kana kũaga ũhooreri | Rora imenyithia ta gũkuna ũthiũ, kũnyiita mwĩrĩ kana kũaga gũthiĩ kĩoro, na ũmwĩre dagĩtarĩ wake |
+| Ũrugarĩ mũingĩ kana heho | Garũra nguo kana ũrugarĩ wa nyũmba |
+| Inegene kana andũ aingĩ | Thiĩ kanyũmba karĩa kahoorere, horia thibitari |
+| Kũnogio kana kũnogenio mũno | Hurũka, nyihia ũtheri wa nyũmba, hũra nyĩmbo cia ũhooreri |
+| Hwaĩ-inĩ | Rora gĩcunjĩ kĩa kũnyamarĩka kwa hwaĩ-inĩ haha thĩ |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society ĩtaaraga kũandĩka kahinda kanini ka rĩrĩa kũũria gũcio gũkoragwo, ta mbere ya irio, thuutha wa ageni, kana hwaĩ-inĩ. Mĩtaratara ĩyo ĩteithagia kũbanga mbere.
 
-## Is it okay to tell a white lie?
+## Nĩ wega kuuga maheeni manini?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Ũyũ nĩ mũhuro wa ma, na micii mĩtana no ĩtuĩke itua itiganĩte. Alzheimer's Society yugaga atĩ gũtirĩ icokio rĩmwe rĩagĩrĩire andũ othe: maheeni no matũme andũ amwe magĩe na nganja makĩria, nĩ ũndũ ũcio tuua kĩrĩa kĩagĩrĩire mũndũ ũcio na ũikare ũrĩ mũkinyanĩru. Kũu Penn Memory Center, woni wa mũtongoria mũrĩa ũngĩ nĩ atĩ ma nĩmo maambagĩrĩrio, na maheeni mahũthũ metĩkĩrĩkaga o rĩrĩa mũndũ atangĩhota gũtaũkĩrwo nĩ ũndũ mũna, na ndũkananyũrũrie ũrĩa mũndũ ũcio onaga maũndũ.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Andũ aingĩ arĩa maroraga andũ ao monaga njĩra ya gatagatĩ ĩrĩ njega: ũhooreru wa ma na kũgarũra meciiria mbere („Tũgũikara gũkũ ũtukũ ũyũ, na ndĩ haha hamwe nawe”), hatarĩ kũmũkararia ũhoro wa harĩa mũciĩ ũrĩ.
 
-## What if it happens every afternoon or evening?
+## Angĩkorwo ekaga ũguo hwaĩ-inĩ o mũthenya atĩa?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Kũnyamarĩka kũrĩa kwambagĩrĩria kana kwongerereka hwaĩ-inĩ kaingĩ gwĩtagwo kũnyamarĩka kwa hwaĩ-inĩ (sundowning). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ĩtaaraga mũtaratara ũrĩa ũtacenjiaga, ũtheri wa riũa na wĩra wa mũthenya, kũnyiihia toro twa hwaĩ-inĩ, na kwĩthema kafeini kana njoohi hwaĩ-inĩ. Kũgwatia matawa mbere ya nduma gũkinya no gũteithie o nako. Mũtaratara witũ wa [maũndũ ma ũhooreri ma hwaĩ-inĩ](/caregiving/late-day-restlessness/) ũrĩ na ũhoro makĩria.
 
-## Keeping them safe if they try to leave
+## Kũmũgitĩra angereria kuumagara
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Kũũria gũcoka mũciĩ no gũtũme mũndũ orũũre. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ĩtaraga atĩ andũ atandatũ harĩ ikũmi arĩa matũũraga na dementia nĩmakoorũũra o na rĩmwe.
 
-**Prepare ahead:**
+**Banga mbere:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Kĩrĩnga gĩa kuonania ũrĩa arĩ kana kĩa ũrigitani kĩandĩkĩtwo rĩĩtwa rĩake na namba yaku ya thimũ, na marũa nguo-inĩ ciake. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) ĩgwetaga mũbango wa MedicAlert na Alzheimer's Association Safe and Found, ũrĩa no ũkorwo ũrĩ na thogora.
+- Ngengeeri ya mũrango kana kĩgũthia, na mĩgĩĩko ĩigĩtwo igũrũ kana thĩ. Ndũkanahingĩre mũndũ ũcio thĩinĩ arĩ wiki.
+- Mbica ya hakuhĩ ya ũthiũ, na mũtaratara wa kũndũ kũrĩa angĩthiĩ, ta mũciĩ wa tene kana harĩa aarutaga wĩra.
+- Ĩra andũ a itũũra arĩa wĩhokete, na ũmahe namba yaku ya thimũ.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Angĩũra:** ambĩrĩria gũcaria o rĩmwe; Alzheimer's Association yugaga atĩ andũ aingĩ monagwo itĩĩna rĩa mairo 1.5. Ũngĩaga kũmuona thĩinĩ wa ndagĩka 15, hũra thimũ 999 kana 112 na uuge atĩ mũndũ ũcio arĩ na dementia. Hũra thimũ 999 kana 112 o rĩmwe mũndũ o wothe angĩkorwo arĩ ũgwati-inĩ.
 
-## When should I call a doctor?
+## Nĩ rĩ ngĩagĩrĩirwo nĩ kũhũra dagĩtarĩ thimũ?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Hũra dagĩtarĩ wake thimũ narua kũũria gũcio kana kĩrigiicano kĩngĩambĩrĩria o rĩmwe, kana kwongerereka mũno thĩinĩ wa mathaa kana matukũ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) yugaga atĩ mĩtugo ĩrĩa ĩgarũrũkaga o rĩmwe kana narua, makĩria thuutha wa mũrimũ kana kũgarũra dawa, yagĩrĩirwo nĩ kũrorwo narua. Kĩrigiicano gĩa o rĩmwe no gĩkorwo nĩ delirium, kũrĩa [NHS](https://www.nhs.uk/symptoms/confusion/) yugaga atĩ kĩbataire ũteithio wa narua; mĩrimũ ya njĩra ya maaĩ nĩ ũndũ ũmwe wa itũmi iria cionekaga kaingĩ harĩ andũ akũrũ.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Nĩ wega o naku kumenyeria mũtaratara ũcio ũthiĩ na mbere rĩrĩa mũgaathiĩ kuona dagĩtarĩ rĩngĩ, tondũ ruo, kũigua kĩeha ngoro, mathĩĩna ma toro kana mĩthiro ya dawa no ikorwo na handũ.

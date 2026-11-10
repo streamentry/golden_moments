@@ -1,32 +1,34 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Pilersaarutit angutinut dementiaqarnut"
+seoTitle: "Angutit dementiaqartut: pilersaarutit piviusummut"
+description: "Pilersaarutit angutinut dementiaqarnut, suliassaannut, nuannarisaannut ulluni惯 ingerlatassaminnullu tunngaveqartut, aammalu allarpassuarnik isumannaallisaanermut siunnersuut."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Angutip dementiaqartup pillugit pilersaarutit pitsaanerpaaq inooqatigiilluinnerminiit
+  piareersarput: qanoq sulereersimanersoq, sumik nuannarisimanersoq aammalu
+  ulluni qanoq ingerlasimanersoq. Allaffimmi sulereersimasoq papinik nalilersuinermik
+  nuannaqqissinnaavoq, mekanikerisimanerlu savaatinik eqqiluitsunik attuinermik
+  nuannaqqissinnaalluni, timersortartullu isiginnaartitsisimasani qungujuttunik
+  takorusukkusinnaalluni. Angut tamarmik assigisunik soqutiginninngillat, taakkuuginnariarlutillu
+  inummut tunngaviit, angutaajusunngorneranullu.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Angutip taanna inooqatigiilluinneranik aallartigit: sulialiaanut, nuannarisaanut, ulluni惯 ingerlatassanut aammalu sumik nuimasuugarnini pillugit."
+  - "Suliaq siunertaqarfinngortartoq, soorlu sakkut nalilersuineq, biiliit errortorneqarnerat imaluunniit qisummik eqqaasitsineq, pilsersuutaajunerusumik misigisaqarsinnaavoq atuartitsinertut ittuullutik."
+  - "Angutit tamarmik sakkut imaluunniit timersornerit nuannariginngilaat. Amerlasuut igasaannik, nipilersornermik, naatsiiveqarfinermik, eqqumiitsuliornermik imaluunniit allanik isumaginninnermik nuannaqqajuttarput. Aperi, malinnaavigi piumasaa<iluunniit malillugu."
+  - "Suliassanik sulinerusuttunik isumannaallisaanermut atugassarit sharp-it peerukkuarlugit nakkutilliisumillu. Pisinnaatitaasa allanngoriartornerat malillugu ilinniartittarlugit."
+  - "„Naamik“ oqarusunnissaq inerteqqutaavoq. Suliassamik neqeroorfigi, suliassaaliussanngikkalutit, allaannalu misileeqqigit."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Angutit dementiaqartut suut pilersaarutit nuannarivaat?"
+    a: "Ataaseq allattorsimaffik soqanngilaq, angutit allatulli soqutiginnittut. Pitsanngorsaasinnaasut tassaasinnaapput suliat kingornussat aallaavigalugit, soorlu papinik aaqqissuussineq imaluunniit sakkut mikisut nalilersuineq, aammalu nuannarisaat qungujuttuusut, soorlu aalisarneq, biilit, nipilersorneq, igasaaneq imaluunniit timersornerit. Ilaanissaminik suutillutik malinnaavigi, taakkualu tunniusigit."
+  - q: "Ataataga assigiinngitsunut ataatsimiittunut peqataarusunngilaq. Qanoq iliussaanga?"
+    a: "Amerlasuut, angutillu arnatillu, atuartitsinertut ittuusunik imaluunniit meeqqanut tulluusunik misigisimasunik pilersaarutinik nalornisarput. Taamaattumillu, suliassamik tunniussilluarit: „Uani nalilersuinermi ikiorusuppinga?“ Ameriklasuut ikittuullutik imaluunniit imminnut ataatsimoorluni taaneqartarnerusinnaapput amerlasuut immikkoortortaatilluunniit."
+  - q: "Savaatinik atuisinnaanera isumannaatsuaqarpa?"
+    a: "Nakkutilliinerup ataani savaatinillu isumannaatsunik atuisinnaanera akuersissutaasinnaavoq. Savaatit ikumasimasut, pilliutit sharp-it aammalu sunaluunniit sharp-it peerukki, aammalu sulianik tunisigi soorlu qisummik eqqiluitsumik eqqaasitsineq, sakkut mikisut eqqiluitsut nalilersuineq imaluunniit bolt-it angisuut assakkut titartassiornerlugit. Alzheimer's Association siunnersuuteqarpoq workshop-imi sunik tamanik ulorianartunik peerneqarnissaa, taamaalilluni suliaq soorlu eqqaasitsineq isumannaatsumik nuannarisinnaalluni."
+  - q: "Inuuniarnermi ilisimasaqarluarsimavoq. Pilersaarutit ilaat nalinginnaasut asiginnilersittarpasinngilaq?"
+    a: "Taama misigisinnaavoq, suleriusinnginnerullutik misissorneqarunik. Suliat ikiussatut tulliusinnaasutut saqqummiutikkit, atorfikullu inummut naleqquttunik atorlutit, aammalu sulialiaanut piviusumut sunik toqqaasigit, soorlu allattorsimaffimmik misissuinermik, filimik aaqqissuussinermik imaluunniit allagarsiat nassiunnissaannut ikiussinermik. Sunilluunniit ilisimasaqarluarsimasup eqqarsaatigippagu, suliaq assinganik tuunniarneq naleqqussartariaqarnerusinnaasoq."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +47,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Inuit amerlasuut „angutinut dementiaqarnut pilersaarutit“ ujaraqqajuttarput, tunisassiat nalinginnaasut angummut asannittumut naleqqussanngimmata. Tamanna paasisinnaasarpoq. Akissutaali „angutinut pilersaarutit“ tulliuttuunngilaq. Pitsaanerpaavoq angutip taanna inooqatigiilluinneranik aallartinneq: qanoq sulereersimanersoq, sapaatip akunneranut qanoq ineriartortarsimanersoq aammalu sumik atorfissaqalersimanini misigisimanersoq. Soqutigisat tamarmik assigiinngitsorujussuupput. Angutit amerlasuut igasinnaallutik, naatsiiveqartarput, titartitsisinnaallutik aammalu erinarsorsinnaallutik, arnallu amerlasuut biilinik baseballimillu nuannaqqajuttarput.
 
-## How do I find activities he will actually enjoy?
+## Qanoq pilersaarutit nuannarerusuttut nassaarissavakka?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Inooqatigiilluinneranit aallartitsigit. Alzheimer's Association siunnersuuteqarpoq [ullormut pilersaarut](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) pilerseqqaarnissaq inummut soqutigisai, nuannarigini, nukissavai aammalu sumik qitiutinneqartarnerai tunngavigalugit, aammalu ulluni惯 qanoq pitsaanerpaamik ingerlasimanerluni. Imaanerlutit eqqarsaatigissinnaavatit:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Suna sulereersimavaa?** Allaffimmi, naatsiivimmi, sanaartornermik, savaliornermik, sakkutuunermi, tuniniaasiornermi, ilinniartitsinermi, biilertoqarluni imaluunniit illumi?
+- **Sunik sulinngikkallarluni ingerlatarpa?** Aalisarnermik, kortinik, qisummik sanaartornermik, timersornernik, qatanngutigiinniittarnikkut, nipilersornermik, igasaannik imaluunniit biilimik alliluinnartumik?
+- **Ulluni惯惯 qaqugulu ingerlatsajuaqarpa?** Ullaat kaffisorluni aviisilu atuarpa? Silap aningaasaa misissorpa? Arfininngornermi biiliit errortarpaa?
+- **Sunik nammineq aallartittarami?** Alzheimer's Association erseqqippaa inuk aperineqarnani suliat aallartittarpagit, soorlu natermut saliussineq, taakkua ullormut ingerlatassanut ilanngunneqarsinnaasut.
+- **Sunik pinngitsoortarpai?** Ilaatigut timersornernik isiginnaartitsissutit nuannarinngisaannarlugit, allat merguleraanermik imaluunniit annilaarinermik misigisarpaat. Qanoq nuannaartoqarneranik, ernumanermik imaluunniit kamajaarinermik misigisimanera malinnaaviguk.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Ilaqutariit ikinngutillu eqqaamasallu apeqqutikkit. Nuannarisat ulluni惯 erseqqinnerusut eqqaamassinnaavaat.
 
-## Activity ideas based on past work
+## Suliat kingornussat aallaavigalugit pilersaarutit siunnersuutit
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association assersuut ersarissumik tunniuppaa: allaffimmi sulereersimasoq suliat aaqqissuussinerit nuannarinngisaannarlugit, soorlu aningaasanik toqqortarfiusunut inissitsineq, allakkani nassiunneqartussanut ikiussineq imaluunniit sulisussat allattorlugit, naatsiiviukartullu nunamiluunniit sulereersimasoq silami sulinermi nuannaqqissinnaalluni. Taama isip atorneqarsinnaavoq sulianut assigiinngitsunut.
 
-| Past work | Activity ideas | Simpler version |
+| Suliaq kingornusaa | Pilersaarutit siunnersuutit | Ajornannginnerusumik |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Allaffimmi imaluunniit niuernermik | Papinik folderinut nalilersuineq, konvoluttinik stampiliineq, allattorsimaffimmik misissuinissaq, skriftersuutigummi immikkoortup aaqqissuunnera | Konvoluttinik katersuinissaq; paper clip-it boksimut inissillugit |
+| Savaliorneq imaluunniit mekanikeri | Sakkut eqqiluitsut (nut, bolt, washer) nalilersuineq, bolt-it angisuut assakkut titartassiornerlugit, savaatinik kataloginik takujarneq | Angissusaat ilanngullugit marlunnut imermut |
+| Naatsiiveqarneq imaluunniit nunap aserorneqarnera | Naatsiat imeqartinneq, naatsiianik illuineq, pilutaq saliunneq, naatsiivimmi misissuineq | Suliarinerpit sanaani issiasilluni; naatsiianik uumasunik tigummisserneq |
+| Sakkutut sulineq | Kamippassuit salliutikkit, alluqarfimmi immikkoortoq eqqortumik inissillugu, sulinermi assilisat takullugit — nuannarippagu | Taamanerussaminit nipilersuinerit tusarnaarlugit |
+| Tuniartorneq imaluunniit kiffartortunut kiffartuussineq | Pulsartunut ilassilluarneq, nerisassat agguaanneq, kuponit nalilersuineq | Matup sinaani issiasilluni ilassilluni |
+| Ilinniartitsineq | Atuarlugit atuakkamik atuineq, atuakkanik aaqqissuussineq, assilisat sammisat malillugit nalilersuineq | Ataatsimoorluni assilisanik atuakkanik qimerloorneq |
+| Biilertoqarneq imaluunniit angallannermik | Nunap assilianik imaluunniit biilinik atuagassianik pisoqaasunik takujarneq, biilimik errortorneqarneq | Sialukitsineq isiginnaarneq sialummiit |
+| Illumi ilaqutariinnilu | Annoraanik imeqartitsineq, nerrivimmut inissitsineq, igasainermut ikiussineq | Servietit illersorlugit; supimik akulorlugu |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Eqqaamasat ilaanni, soorlu sakkutut sulineq, misigissutsit tugevut pilerisinnaavaat. Piumasaa<iluunniit malillugu, kingornussat pillugit oqaloqatigiinneq nuannaartitsiguk, aammalu misigisaqanngippat aalajangersimasumik allanngortiguk.
 
-## Activity ideas based on hobbies
+## Nuannarisat aallaavigalugit pilersaarutit siunnersuutit
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Qisummik sanaartorneq.** Qisummik eqqiluitsumik eqqaasitsineq imaluunniit timmissanut illumik sanaartornermik sanaartorneq. Alzheimer's Association siunnersuuteqarpoq workshop-imi sunik tamanik ulorianartunik peerneqarnissaat, taamaalilluni suliaq soorlu eqqaasitsineq isumannaatsumik nuannarisinnaalluni.
+2. **Aalisarneq.** Aalisarnermik sakkut boksii nalilersuineq, saarullinnik peerneqareersunik, aalisarnermik atuagassianik takujarneq imaluunniit kangerluup sinaani ataatsimoorluni issiasinneq.
+3. **Biilit.** Biiliit errortorneqarnerat, chrome salliutikkit, biilinik pisoqaasunik assilisat takullugit imaluunniit angalasup assigalugit.
+4. **Timersornerit.** Isiginnaartitsissutit qungujuttuusut isiginnaarneq, unatarfik akuersaartoq igititsineq, golfilernermik boldit natermut inissillugit imaluunniit baseballimik kortinik nalilersuineq.
+5. **Kortit spillillu.** Ilisimaneqareersumik kortinik spillineq, domino, imaluunniit kortinik paarinik ujarluni. Eqqissaarlugit, kisitsinernillu unitsikkit.
+6. **Nipilersorneq.** Inuusuttut eqqaamasaatitigut erinarsuutit, erinarsortartut nuannarineqartut imaluunniit qaaqqusaatit. Takujuk [nipilersorneq pillugu siunnersuut](/activities/music/).
+7. **Igasaq grillillu.** Naatsiialiussat errortornerlugit, supimik akulorlugit, burgerinik sanaartorlutik imaluunniit qanoq chili-mik ilisarisimasaminik sanaartarsimanerluni oqaluttuarneq — illit igasatillutit.
+8. **Aviisi.** Alzheimer's Association erseqqippaa inuk aviisimik atuarsinnaajuaqartoq suli nuannarerusinnaasoq, imarisa isumaqarfigisinnaajunnaagaluarlugu. Kaffi aviisilu ullaat ingerlatassanut ataasinnaapput.
+9. **Sanaartorneq.** Modellit angisuunik ilakkalikilluunniit sanaartortunik inunnut naleqquttunik. Tigussaasinnaasut angisuut toqqarukkit.
+10. **Sunik tamanik isumaginninneq.** Uumasoq nerisassiorlugu, timmissanut nerisassanik inissilluni imaluunniit naatsiianik imeqartitsinermik. NIA allassimavai [uumasoq nerisassiorneq, aserorterneqarneq imaluunniit pisuussiffigineq](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inuit nuannarerusuttagaat ilaannilluunniit.
 
-## How do I offer an activity without it feeling like busywork?
+## Qanoq pilersaarut saqqummiutissavara suleriusunngitsutut misigisarnagu?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Ikiussatut piviusoqartumut saqqummiutikkuk. Alzheimer's Association siunnersuuteqarpoq aperineq: „Ikiorusuppinga?“ aammalu suliat siunertaqartillugit atassuserlugit. Sanilliullugit:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- „Sakkut uani nalilersorusuppit?“ (misissueqqusaatut tusarnaassaaq)
+- „Sakkut akuleriit pisivara, taakku nalilersorniassavakka ilivermut aaqqissuussinnaannginnanga. Ikiorusuppinga?“ (suliatut tusarnaassaaq)
 
-Other tips:
+Siunnersuut allat:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Inummut naleqquttunik atugassaqartitsigit.** Savaatit piviusunngortut sharp-it peerneqareersunik, katalogit piviusunngortut, konvoluttit piviusunngortut.
+- **Ataatsimoorlusi suligit.** Marluit ataatsimoorlutik sulillutik inoqateqartinneqarput. Ataaseq kisimi takuniarluni nakkutilliineruvoq.
+- **Aaqqissuussanngilatit.** Sakkut kukkusut eqqortumik inissinneqaratik, akuerikkit. Pingaaruteqarpoq qanoq ataatsimoorluniinneq aammalu atorfissaqalersimanermik misigineq.
+- **Aallarniarnissaanut ikioruk.** Alzheimer's Association erseqqippaa inuit amerlasuut suli sulerusuttartut, kisianni aallarniarnissaq aaqqissuussinerlu ajornartorsiutigisarpaat. Siullermik ataatsimoorlusi suligit.
 
-## How do I adapt as things change?
+## Qanoq allanngoriartorneranut naleqqiussisinnaavara?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Dementia annertusiartorneratigut, Alzheimer's Association siunnersuuteqarpoq sulianik ajornannginnernik, uteqqiinnartunik aallartitsineq aammalu inuk sunnernermik ikiuuttalersinnaalluni. Angut maanna biilinik motorinik iluarsaasimasoq maanna savaammik eqqiluitsumik tigumilluni biilinik oqaluttuarisinnaalluni nuannarerusunnarpoq, imaluunniit sulinerpit isiginnaarneq. Isiginnaarneq aamma peqataatinneq tassaavoq.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Inuk sunilluunniit ilisimasaqarluarsimasoq, suliaq assinganik pitsaanerusinnaasoq suliarisimasaminit. Alzheimer's Association erseqqippaa titartitsisoq ilisimasaqarluarsimasoq naammassinermini allanngornerit kamaatigilersinnaasai, naammassinninngitsullu nutaanik misiliinermik nuannaqqissinnaalluni. Taamaattorli sanaartortoqarfimmi ilisimasaqarluarsimallu eqqarsaatigissinnaavaa.
 
-## Safety with work-style tasks
+## Suliassanik sulinerusuttunik isumannaallisaanermut
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Savaatit ikumasimasut, pilliutit, kikkanit aammalu skruvit sharp-it peerukkit.
+- Mingutsitsinermut atorneqartussat, bensiini aammalu kemikalit matuersaakkatigit.
+- Biilimulli matarfiit takuneqarsinnaanngortikkit, biilertoqarsinnaajunnaarpat.
+- Workshop-imi nunamilu suliat tamarmik nakkutilliikkit.
+- Atorfissat angisuut toqqakkit, eqqusaasinnaanngitsut.
 
-## What if he says no?
+## „Naamik“ oqarpat qanoq iliussaanga?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Ataqqinnarlugu akueriuk. „Naamik“ isumaqarpoq suliaq ajornartoorujussuuvoq, meeqqanut naleqquttuuvoq imaluunniit ullumi naleqqunngilaq. Alzheimer's Association mianersoqqussuteqarpoq pinngitsoortitaaneq Unitsinneqartaqqullugu. Suliamik allamik, piffissamiluunniit allamik misileeriarlutit imaluunniit ataatsimoorlusi issiasinnarluni. Takujuk [„naamik“ oqarunik qanoq iliussaanga](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Spillit oqaatsillu ataatsimoornermik iluaqutaasut
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) Amerikami oqoqarfiusunik ilisimasanik atorneqarsinnaavoq, oqaluttualiaasinnermullu aqqutissiuulluni. [Conversation Cards](/games/conversation-cards/) apeqqutit ammasut, misissueqqunatik sammisanut immikkoortitaqartut, suliat nuannarisallu pillugit oqaluttualiaasinnaapput. [Picture Puzzle](/games/picture-puzzle/) assiliaq tamarmi takuneqarsinnaalluni paarinik paarlaasseqqaarlugit, aammalu allattorsimaffimmik angisoorujussuaq [Word Search](/games/word-search/) naqinneqarsinnaavoq nerrivimmi ataatsimoorluni sakkutuutimmik atuarlugu. Qanoq inooqatigiilluinnera pillugu oqaluttualiaasinnaanermut misissueqqunani, takujuk [eqqaamasanik oqalualiaaneq pillugu siunnersuut](/activities/reminiscence/).

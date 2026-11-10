@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Milda taga rutino por homo vivanta kun demenco"
+seoTitle: "Taga rutino ĉe demenco: fleksebla ekzemplo"
+description: "Fleksebla ekzempla tago por homo vivanta kun demenco, kun manĝoj, agadoj kaj ripozo en regula ritmo, plus kiel krei vian kaj adapti ĝin en pli malfacilaj tagoj."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Milda taga rutino tenas vekiĝon, manĝojn, personan prizorgon kaj enlitiĝon je
+  proksimume la samaj horoj, metas la ĉefan agadon tiam, kiam la persono estas
+  plej vigla, kaj ekvilibrigas agadon kun ripozo. Konstruu ĝin laŭ la tutvivaj
+  kutimoj de la persono, tenu ĝin libera anstataŭ plena, certigu taglumon kaj
+  movadon ĉiutage, kaj ŝanĝu la planon libere, kiam la tago tion postulas.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Regulaj horoj por vekiĝo, manĝoj, prizorgo kaj enlitiĝo donas al la tago konatan formon."
+  - "Metu la ĉefan agadon en la plej bonan tempon de la tago por la persono, ofte la matenon."
+  - "Ne plenigu ĉiun minuton. Ripozo kaj trankvila tempo estas parto de la rutino."
+  - "Taglumo, ĉiutaga movado kaj evitado de longaj malfruaj dormetoj kaj malfrua kafeino povas helpi pri maltrankvilo malfrue en la tago."
+  - "Rutino estas gvidilo, ne regulo. Interŝanĝu, mallongigu aŭ preterlasu ion ajn en pli malfacilaj tagoj."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Kial rutino estas helpa por homo kun demenco?"
+    a: "Antaŭvidebla tago signifas malpli da decidoj kaj surprizoj, kion multaj homoj vivantaj kun demenco trovas trankviliga. La Alzheimer's Association rimarkas, ke planita tago permesas al vi pasigi malpli da tempo pripensante, kion fari, kaj pli da tempo pri aferoj, kiujn vi ambaŭ ĝuas. Ĝi ankaŭ helpas al prizorgantoj ritmigi sian propran tagon."
+  - q: "Kia estas bona taga horaro por homo kun demenco?"
+    a: "Ne ekzistas unu ĝusta horaro. Bona horaro tenas vekiĝon, manĝojn kaj enlitiĝon je proksimume la samaj horoj, metas personan prizorgon kaj la ĉefan agadon tiam, kiam la persono fartas plej bone, inkluzivas tempon eksterdome aŭ apud fenestro, kaj lasas lokon por ripozo. Konstruu ĝin ĉirkaŭ la maniero, kiel la persono ĉiam vivis."
+  - q: "Ĉu homo kun demenco dormetu dum la tago?"
+    a: "Mallonga ripozo povas helpi, precipe post tagmanĝo. La National Institute on Aging sugestas malinstigi longajn dormetojn kaj duondormadon malfrue en la tago, ĉar troa laceco aŭ malbona ripozo povas aldoni al maltrankvilo malfrue en la tago. Se dormo estas vera problemo, parolu kun ilia kuracisto."
+  - q: "Kio, se ili rifuzas sekvi la rutinon?"
+    a: "Lasu tion por nun kaj provu denove poste aŭ alimaniere. Rifuzo povas signifi, ke ili estas lacaj, malsanaj, havas doloron aŭ simple ne pretas. La rutino ekzistas por faciligi la tagon, do flekseblu ĝin anstataŭ devigi ĝin."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Milda rutino donas al la tago konatan formon: ellitiĝo, manĝoj, iom da agado, ripozo kaj enlitiĝo je proksimume la samaj horoj. Ĝi malpliigas decidojn kaj surprizojn, kaj ĝi donas al vi planon por la momentoj, kiam vi alie demandus vin, kion fari poste. La rutino malsupre estas ekzemplo, ne regulo. Uzu ĝin kiel elirpunkton, poste formu ĝin ĉirkaŭ la persono, pri kiu vi zorgas.
 
-## Why does a daily routine help?
+## Kial taga rutino helpas?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Regula rutino helpas, ĉar konataj skemoj estas pli facile sekveblaj ol novaj. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) diras, ke planita tago signifas malpli da tempo pasigita decidante, kion fari, kaj pli da tempo por ĝueblaj agadoj, kaj rimarkas, ke regulaj horoj por vekiĝo kaj enlitiĝo povas helpi pri dormproblemoj kaj maltrankvilo malfrue en la tago. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) sugestas bani, vesti kaj manĝi je la samaj horoj ĉiutage kiel parton de trankvila hejmo, kaj la [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ankaŭ rekomendas konservi la samajn rutinojn.
 
-## A sample gentle day
+## Ekzempla milda tago
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Horoj estas nur ekzemploj. Movu la tutan tagon pli fruen aŭ pli malfruen por kongrui kun la propra ritmo de la persono.
 
-| Time | What happens | Ideas | On a harder day |
+| Horo | Kio okazas | Ideoj | En pli malfacila tago |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 atm | Vekiĝo, lavado, vestado | Sama ordo ĉiutage; metu vestaĵojn en la ordo, en kiu oni surmetas ilin | Tenu prizorgon simpla; pura ĉemizo sufiĉas |
+| 8:45 atm | Matenmanĝo | Kafo kaj gazeto laŭtlegata, aŭ radio | Manĝu kune trankvile, sen premo paroli |
+| 9:30 atm | Ĉefa agado | Faldi lavitaĵojn, baki, ĝardeni, mallonga eliro aŭ promeno | Pli mallonga versio, aŭ lasu ilin rigardi, dum vi faras tion |
+| 10:30 atm | Trankvila tempo | Muziko, fotoalbumo aŭ sidado apud fenestro | Ripozo en ŝatata seĝo |
+| 11:00 atm | Helpo pri tagmanĝo | Lavi legomojn, pretigi la tablon | Vi kuiras; ili akompanas vin |
+| 12:00 ptm | Tagmanĝo kaj ordigo | Viŝi la tablon, sekigi kelkajn telerojn | Preterlasu la hejmtaskojn |
+| 1:00 ptm | Mallonga ripozo | Piedoj supren, milda muziko | Same |
+| 2:00 ptm | Ekstere aŭ aktive | Promeno, tempo sur verando, akvumado de plantoj, ĵetado de balono | Sidi apud suna fenestro |
+| 3:00 ptm | Socia aŭ krea tempo | Vizito, telefono, [bildaj paroj](/games/picture-pairs/), kolorigo, kartoj | Trinkaĵo kaj manĝeto kune |
+| 4:30 ptm | Tempo por trankviliĝo | Kurtenoj fermitaj, lumoj ŝaltitaj, trankvila tasko kiel faldo de viŝtuketoj | Konata muziko, malalta bruo |
+| 5:30 ptm | Vespermanĝo | Helpi kirli aŭ pretigi la tablon | Simpla, konata manĝaĵo |
+| 6:30 ptm | Vespero kune | Rememori ĉe deserto, kartoj, ŝatata spektaklo, manmasaĝo | Trankvila kunestado |
+| 8:00 ptm | Enlitiĝa rutino | Bano aŭ lavado, piĵamo, milda muziko, malfortaj lumoj | Mallongigu ĉion; komforto unue |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Ĉi tiu ekzemplo sekvas la formon de la propra ekzempla plano de la Alzheimer's Association por la fruaj kaj mezaj stadioj, kiu iras de persona prizorgo kaj matenmanĝo tra hejmtaskoj, promenoj, muziko, ripozo kaj vizitoj ĝis vespermanĝo, rememorado kaj pretigo por enlitiĝo.
 
-## How do you build your own routine?
+## Kiel vi kreas vian propran rutinon?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Komencu de la maniero, kiel la persono ĉiam vivis, ne de tabelo. La Alzheimer's Association sugestas pripensi ĉi tiujn aferojn antaŭ ol vi planas:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Iliaj ŝatoj, malŝatoj, fortoj kaj interesoj.**
+- **Kiel ili kutimis pasigi sian tagon.** Frua vekiĝanto, kiu ĉiam promenigis la hundon, ankoraŭ devus promeni frue. Noktema homo eble neniam ĝuos komencon je la 8:00 atm.
+- **Ilia plej bona tempo de la tago.** Metu banadon, elirojn kaj la ĉefan agadon tien.
+- **Sufiĉe da tempo** por manĝoj, lavado kaj vestado, por ke nenio estu hastata.
+- **Regulaj horoj por vekiĝo kaj enlitiĝo.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+La sama fonto sugestas inkluzivi miksaĵon de hejmtaskoj, manĝoj, persona prizorgo, kreaj agadoj, korpa agado, socia tempo, spirita agado kaj spontanaj momentoj, ekzemple kiam amiko neatendite vizitas.
 
-### Try it for a week, then adjust
+### Provu ĝin dum semajno, poste ĝustigu
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Faru simplan noton ĉiutage. La Alzheimer's Association sugestas demandi, kiuj agadoj funkciis plej bone kaj kial, ĉu estis tempoj kun tro da aferoj aŭ tro malmulte por fari, kaj ĉu spontanaj planoj estis ĝueblaj aŭ kaŭzis zorgon. Konservu tion, kio funkcias, kaj ŝanĝu tion, kio ne funkcias.
 
-### Make it visible
+### Faru ĝin videbla
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Se la persono ankoraŭ povas legi, blanktabulo aŭ karto kun granda preso pri la taga plano povas esti trankviliga. Tenu ĝin mallonga: «Matenmanĝo. Promeno kun Sarah. Tagmanĝo. Ripozo.» Kelkaj homoj fartas pli bone sen scii longe antaŭe; la Family Caregiver Alliance sugestas ne diskuti planojn ĝis tuj antaŭ ol ili okazas, se tio kaŭzas zorgon.
 
-## How to adapt the routine
+## Kiel adapti la rutinon
 
-### Leave room to breathe
+### Lasu lokon por spiri
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ne plenigu ĉiun minuton. La Alzheimer's Association emfazas, ke la persono bezonas ekvilibron inter agado kaj ripozo kaj eble bezonas pli oftajn paŭzojn. Se ili ŝajnas enui, distriĝi aŭ iĝi maltrankvilaj, ŝanĝu la agadon aŭ ripozu.
 
-### Protect the late afternoon
+### Protektu la malfruan posttagmezon
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Multaj homoj fariĝas pli maltrankvilaj, kiam taglumo malfortiĝas. La NIA sugestas tempon eksterdome aŭ apud fenestro por sunlumo ĉiutage, esti aktiva ĉiutage sen plani tro multe, eviti kafeinon kaj alkoholon malfrue en la tago, kaj malinstigi longajn dormetojn malfrue en la tago. Kelkaj familioj ankaŭ trovas helpa fermi la kurtenojn kaj ŝalti lumojn antaŭ krepusko. Vidu [maltrankvilon malfrue en la tago](/caregiving/late-day-restlessness/) kaj [dormon](/brain-health/sleep/).
 
-### Change it as needs change
+### Ŝanĝu ĝin laŭ ŝanĝiĝantaj bezonoj
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Frua stadio:** planu la rutinon kune. La persono eble volas skribitan horaron, kiun ili mem administras.
+- **Meza stadio:** vi gvidas pli. Pli mallongaj agadoj, pli da ripozo kaj multe da konataj taskoj; vidu [agadojn por la meza stadio](/activities/middle-stage/).
+- **Malfrua stadio:** la rutino centriĝas sur komforto, manĝoj kaj prizorgo, kun mallongaj sensaj momentoj kiel muziko aŭ manmasaĝo intere; vidu [agadojn por la malfrua stadio](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Variu la agadojn, ne la kadron
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Tenu manĝojn, ripozon kaj enlitiĝon regulaj, kaj alternu la agadojn inter ili. La [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sugestas provi malsamajn agadojn en malsamaj tagoj por teni aferojn interesaj. Vi povus baki lunde, ĝardeni marde kaj rigardi fotojn merkrede. Niaj [101 ideoj por agadoj](/activities/ideas/) kaj [hejmtaskoj](/activities/household-tasks/) povas plenigi la lokojn.
 
-## When the day goes sideways
+## Kiam la tago ne iras laŭplane
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Iuj tagoj ne sekvos iun ajn planon. Malsano, malbona nokto, vizito de kuracisto aŭ ŝanĝo de vetero povas renversi ĉion. Lasu la planon, tenu la bazajn aferojn (manĝaĵo, trinkaĵo, ripozo, komforto) kaj provu denove morgaŭ. Se la persono rifuzas ion, vidu [kiam ili diras ne](/caregiving/when-they-say-no/). Malrapida kuna spirpaŭzo, kiel [trankvila spirado](/games/calm-breathing/), povas helpi al vi ambaŭ rekomenci.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Ankaŭ via propra rutino gravas. Enmetu paŭzojn por vi mem, kaj petu familion aŭ anstataŭan prizorgan servon kovri regulan liberan tempon. Vidu [memzorgon por prizorgantoj](/caregiving/caregiver-self-care/).

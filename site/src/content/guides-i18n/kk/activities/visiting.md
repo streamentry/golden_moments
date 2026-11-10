@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Деменциясы бар адамға күтім орнында не ауруханада бару"
+seoTitle: "Деменциясы бар адамға бару: не істеу керек"
+description: "Деменциясы бар адамға күтім үйінде, мейіргерлік орталықта немесе ауруханада барғанда не істеу, не әкелу, қарапайым әрекеттер мен қоштасу туралы кеңестер."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Деменциясы бар адамға арнайы күтім орнында немесе ауруханада барған кезде,
+  барлығын қарапайым ұстаңыз: келгенде өз атыңызды айтыңыз, суреттер, музыка
+  немесе қызметкерлер рұқсат еткен сүйікті тағам сияқты бірге бөлісуге болатын
+  бір нәрсе әкеліңіз және бірге оңай бір іс жасаңыз. Қысқа, жиі сапарлар ұзақ,
+  сирек сапарларға қарағанда жақсырақ өтуі мүмкін. Екеуіңізге де қоштасу оңай
+  болуы үшін сабырлы әрі таныс қоштасу тәсілін жоспарлаңыз.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Келген бойда адамды атымен амандасып, өзіңізді таныстырыңыз, ол өзіңізді тануға тырыспасын: «Сәлем, апа, мен Сьюзанмын, қызыңмын»."
+  - "Бірге бөлісуге арналған бір-екі нәрсе әкеліңіз: фотоальбом, сүйікті әуендер, жұмсақ көрпе немесе қызметкерлер рұқсат еткен тағам."
+  - "Қысқа, жиі сапарлар ұзақ, сирек сапарларға қарағанда жиі жақсырақ өтеді. Сіздің қасыңызда болуыңыз айтқан сөздеріңізден маңыздырақ."
+  - "Ауруханада қызметкерлерге адам туралы бір беттік ақпарат парағын беріңіз және кенет өзгеріс байқалса, дереу дәрігерге айтыңыз."
+  - "Кетуіңізді алдын ала жоспарлаңыз: қанша уақыт қала алатыныңызды айтыңыз, әр жолы бірдей қоштасыңыз және ұзаққа созбай шығып кетіңіз."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Деменциясы бар адамға барғанда не әкелу керек?"
+    a: "Сөйлесуге тақырып емес, бірге бөлісуге болатын нәрсе әкеліңіз. Шағын фотоальбом, сүйікті әндер жинағы, жұмсақ көрпе, қолға арналған крем, ескі хоббиі туралы журнал немесе қызметкерлер рұқсат еткен тағам — бәрі жарайды. Күтім орнында отбасылық суреттер мен таныс заттар бөлмені үйдегідей сезінуге көмектеседі."
+  - q: "Деменциясы бар адамға барғанда қанша уақыт қалу керек?"
+    a: "Дұрыс ұзақтық жоқ. Көптеген отбасылар қысқа, жиірек сапарлар ұзақ, сирек сапарларға қарағанда ыңғайлырақ екенін байқайды, себебі адам тез шаршауы мүмкін және қанша уақыт болғаныңызды есінде сақтамауы мүмкін. Шаршау белгілеріне назар аударып, сапар әлі жақсы өтіп жатқанда кетуге тырысыңыз."
+  - q: "Адам «Үйге қайтқым келеді» десе, не айту керек?"
+    a: "Сөзге емес, сезімге жауап беріңіз. «Үйге қайтқым келеді» деген сөз көбіне «Өзімді жайлы немесе қауіпсіз сезінбеймін» дегенді білдіреді. «Маған үйіңіз туралы айтып беріңізші» деп көріңіз, бірге суреттер қараңыз немесе серуендеуді не жеңіл тағамды ұсыныңыз. Дауласу немесе неге кете алмайтынын түсіндіру әдетте мазасыздықты арттырады."
+  - q: "Адам мені танымаса ше?"
+    a: "Бұл ауыр тиюі мүмкін, бірақ «Мені танымай тұрсың ба?» деп түзетуге немесе сұрауға тырыспаңыз. Өзіңізді жылы әрі қарапайым таныстырып, бірге өткізген уақыттан ләззат алуға тырысыңыз. Көптеген адамдар сізді дәл кім екеніңізді атай алмаса да, жанында адам болғанын және сапардың жылылығын сезіне алады."
+  - q: "Ауруханада жатқан кезде қалай көмектесе аламын?"
+    a: "Мүмкіндік болса, адамның қасында болыңыз, тамақтанып, су ішуіне көмектесіңіз және суреттер сияқты таныс заттарды әкеліңіз. Қызметкерлерге адамның күн тәртібі, қалай атағанды ұнататыны, ұнататын және ұнатпайтын нәрселері, ауырсыну белгілері жазылған парақ беріңіз. Адам кенет нашарлап кеткендей немесе басқаша көрінсе, дереу дәрігерге айтыңыз, себебі кенет абдырау медициналық мәселенің белгісі болуы мүмкін."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Жақын адамыңызға арнайы күтім орнында, мейіргерлік орталықта немесе ауруханада бару көптеген сезімдер туғызуы мүмкін. Не айту керек, не әкелу керек немесе адам оны есінде сақтамаса, сапардың мәні бар ма деп ойлауыңыз мүмкін. Мәні бар. National Institute on Aging мәліметінше, Альцгеймер ауруымен өмір сүретін адамдар қонақты кім екенін есінде сақтамаса да, [жанында адам болғанын ұнатуы мүмкін](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Бұл бетте сапарға дейін, сапар кезінде және одан кейінгі практикалық қадамдар, сондай-ақ ауруханадағы сапарға арналған нақты кеңестер берілген.
 
-## How do I get ready for a visit?
+## Сапарға қалай дайындаламын?
 
-A little planning makes the visit easier for both of you.
+Аздап жоспарлау сапарды екеуіңізге де жеңілдетеді.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Ыңғайлы уақытты таңдаңыз.** Dementia Australia адамның әдетте сергек болатын уақытында — көбіне таңертең немесе түске жақын — баруды ұсынады. Family Caregiver Alliance мекеменің күн тәртібін біліп, [белсенді іс-шара уақыты емес, бос уақытта](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) баруды кеңес береді.
+- **Қызметкерлерден сұраңыз.** Адамның бүгінгі жағдайы қалай екенін сұраңыз және тағам, үй жануарлары немесе серуенге қатысты ережелерді біліп алыңыз.
+- **Шағын сапар сөмкесін дайындаңыз.** Бірге бөлісуге арналған бір-екі нәрсе жеткілікті (төмендегі тізімді қараңыз).
+- **Бірнеше әңгіме тақырыбын ойланыңыз.** Адамның бөлісер жаңалығы болмауы мүмкін, сондықтан өзіңізбен бірге жаңалықтар алып келіңіз: отбасы жаңалықтары, ауа райы, спорт ойыны немесе көңілді оқиға.
+- **Өз күтуіңізді реттеңіз.** Кейбір сапарлар жылы әрі әңгімелі өтеді. Басқалары тыныш немесе ауыр болуы мүмкін. Екеуі де қалыпты.
 
-## What should I bring?
+## Не әкелуім керек?
 
-Bring things to share, not things that test. Good choices include:
+Тексеретін емес, бірге бөлісетін нәрселер әкеліңіз. Жақсы нұсқалар:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Үлкен әрі анық суреттері бар шағын фотоальбом.** Қызметкерлерге ыңғайлы болу үшін суреттердің артына жазу жазып қойыңыз.
+- **Сүйікті әндер жинағы** — телефонда, қарапайым құлаққаппен немесе шағын колонкамен.
+- **Ұстауға жұмсақ нәрсе,** мысалы, таныс көрпе, шарф немесе жемпір.
+- **Қолға арналған крем** — адам жанасуды ұнатса, жеңіл қол массажы үшін.
+- **Ескі қызығушылығына байланысты журнал немесе суретті кітап,** мысалы, бау-бақша, көліктер, құстар немесе ас әзірлеу туралы.
+- **Сүйікті тағам,** егер қызметкерлер қауіпсіз екенін айтса.
+- **Бөлмеге арналған таныс заттар.** Family Caregiver Alliance гүлдер, өсімдіктер, отбасылық суреттер мен өнер туындылары немесе бұрынғы отбасылық суреттерден жасалған үлкен постерді ұсынады.
+- **Планшет,** отбасылық суреттерді бірге қарау немесе жай ойын ойнау үшін.
 
-## What can we do together during a visit?
+## Сапар кезінде бірге не істей аламыз?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Бірге бір нәрсе жасау әңгімелесу қысымын азайтады. Dementia Australia суреттер қарауды, оңай қолөнерді, көшет отырғызуды, музыканы, бірге тағам жеуді немесе аулада серуендеуді ұсынады. Тағы бірнеше идея:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Суреттерді қараңыз.** Көріп тұрғаныңызды айтыңыз: «Мына қалпаққа қараңызшы». «Бұл жағажай қандай әдемі». Әңгімені адамға бастап беріңіз. «Бұл кім?» деген сұрақтардан аулақ болыңыз.
+2. **Музыка тыңдап, бірге ән айтыңыз.** Таныс әндер көңіл-күйді көтеріп, әңгімелесу қиын болғанда да ортақ сәт сыйлай алады.
+3. **Қысқа серуендеңіз.** Family Caregiver Alliance мекеме аумағында, әсіресе бақша болса, серуендеуді ұсынады. Мүгедектер арбасымен серуендеу де жарайды.
+4. **Қолына жеңіл массаж жасаңыз.** Аздап крем жағып, қолды ақырын уқалау тыныштандыра алады.
+5. **Күтім жасауға көмектесіңіз.** Dementia Australia адамның ұнатса, шашын тарауға, тырнағын бояуға немесе сүйікті киімін киюге көмектесуді айтады.
+6. **Қарапайым ойын ойнаңыз.** Family Caregiver Alliance карта, домино немесе адамның бұрын ойнаған ойынын ұсынады. Планшетте [Picture Pairs](/games/picture-pairs/) ойынын суреттер көрініп тұратын күйде және уақыт шектеусіз ойнауға болады. [Photo Pairs](/games/photo-pairs/) сіз таңдаған суреттерді сәйкестендіру ойынына айналдырады, ал суреттер браузеріңізде қалады.
+7. **Бірге бір нәрсе көріңіз.** Family Caregiver Alliance комедиялар мен ескі фильмдерді ұсынады. Адам оқиғаны толық түсінбесе де, қасында отырып, уақытты бірге өткізуге болады.
+8. **Дауыстап оқыңыз.** Қысқа өлең, сүйікті үзінді немесе отбасы мүшесінің хаты.
+9. **Тек бірге отырыңыз.** Қол ұстасып немесе тыныш отырып өткізу де шынайы сапар. Alzheimer's Association не айту керектігін білмеу қалыпты екенін және ең бастысы — сіздің қасыңызда болуыңыз екенін айтады.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+Не айту керектігін білмей қалған кезде [Conversation Cards](/games/conversation-cards/) көмектесе алады. Әр картада сурет және ашық сұрақ бар.
 
-## How should I talk during the visit?
+## Сапар кезінде қалай сөйлескен жөн?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Әр жолы өзіңізді таныстырыңыз.** «Сәлем, әке, мен Маркпын, ұлыңмын». NIA қонақтардың әңгімені бастау үшін өзін қысқаша таныстыруын ұсынады.
+- **Алдыңыздан жақындап**, көз деңгейінде отырыңыз.
+- **Түзетпеңіз және дауласпаңыз.** NIA қонақтарға адам қателессе немесе бір нәрсені ұмытып қалса, оны түзетпеуге кеңес береді.
+- **Сөз табу қиын болғанда сабыр сақтаңыз.** Уақыт беріңіз.
+- **Сезімге жауап беріңіз.** Адам мұңайып немесе уайымдап тұрғандай көрінсе, тақырыпты өзгертпес бұрын мұны байқап, қолдау көрсетіңіз.
+- **«Мені танисың ба?» немесе «Түскі аста не жедің?»** сияқты тексеру сұрақтарынан аулақ болыңыз.
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Толығырақ біздің [қарым-қатынас кеңестерімізде](/caregiving/communication-tips/) берілген.
 
-## What do I do when they say "I want to go home"?
+## Адам «Үйге қайтқым келеді» десе, не істеймін?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Сөздердің астарындағы сезімге жауап беріңіз (біздің [біреу үйге қайтқысы келіп қайталай бергенде не істеу керек](/caregiving/asking-to-go-home/) нұсқаулығында толығырақ жазылған). Family Caregiver Alliance «Үйге қайтқым келеді» деген сөз көбіне «Өзімді жайсыз сезініп тұрмын» дегенді білдіретінін түсіндіреді және «Маған үйіңіз туралы айтып беріңізші» немесе «Үйде ең ұнайтыныңыз не еді?» сияқты жауаптарды ұсынады. Dementia Australia «үй» адамның өзін қауіпсіз сезінген уақыты немесе орны, мысалы балалық шағы болуы мүмкін екенін айтады.
 
-Try:
+Мыналарды байқап көріңіз:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- сезімді мойындау: «Үйіңізді сағынған сияқтысыз».
+- егер адам қарсы болмаса, жанасу арқылы жұбату
+- суреттерді қарап, отбасылық үй туралы әңгімелесу
+- серуендеуді, сусын немесе жеңіл тағам ұсыну
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Дауласудан немесе неге кете алмайтынын түсіндіруден аулақ болыңыз. Бұл сирек көмектеседі және жиі мазасыздықты арттырады.
 
-## How long should a visit be?
+## Сапар қанша уақытқа созылуы керек?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Қысқа әрі жиірек сапарлар жиі жақсырақ болады. Family Caregiver Alliance адамның бес минут қалдыңыз ба, әлде бес сағат қалдыңыз ба — көбіне есінде сақтамайтынын айтады және аптасына бір ұзақ сапардың орнына үш қысқа сапар жақсырақ болуы мүмкін деп ұсынады. Dementia Australia сапарлардың дұрыс саны немесе дұрыс ұзақтығы жоқ екенін айтады.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Адам арнайы күтім орнына көшкеннен кейінгі алғашқы апталарда Family Caregiver Alliance жиі барып тұруды, кейін біртіндеп тұрақты кестеге көшуге тырысуды ұсынады. Қызметкерлерден олардың не байқап жатқанын сұраңыз.
 
-## How do I leave without upsetting them?
+## Адамды ренжітпей қалай кетуге болады?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Кету — ең қиын сәттердің бірі болуы мүмкін. Dementia Australia мыналарды ұсынады:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Келген бойда қанша уақыт қала алатыныңызды айтыңыз.** «Мен бір сағат қала аламын, сосын дүкенге барамын».
+- **Бір істі табиғи аяқталу нүктесі ретінде пайдаланыңыз.** «Бұл ән біткенде, мен кетемін».
+- **Кетуді тамақтану немесе іс-шара уақытымен сәйкестендіріңіз,** немесе қызметкерлерден адамды басқа іске ауыстыруға көмектесуін сұраңыз.
+- **Қоштасуды қысқа әрі әр жолы бірдей етіңіз.** Ұзаққа созу, қайта-қайта кешірім сұрау немесе «тағы аздап қалады» деу келесі қоштасуларды қиындатуы мүмкін.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Кеткеннен кейін көңіліңіз түсіңкіремеуі қалыпты. Өзіңізге демалыс беріңіз. Егер адам қобалжыса, қызметкерлер әдетте оны тез тыныштандыруға көмектесе алады.
 
-## Visiting someone with dementia in the hospital
+## Деменциясы бар адамға ауруханада бару
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Аурухана — шуылмен, бейтаныс адамдармен толы орта, бұл деменциямен өмір сүретін адамға өте қиын болуы мүмкін. NIA-ның [Альцгеймер ауруы бар адамды ауруханаға апару](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) нұсқаулығында мыналар ұсынылады:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Адамның қасында мүмкіндігінше біреу болсын**: отбасы мүшесі, сенімді дос немесе жалданған күтуші.
+- **Қызметкерлерге адамның жеке ақпарат парағын беріңіз**: күн тәртібі, қалай атағанды ұнататыны, ұнататын және ұнатпайтын нәрселері, мазасыздандыруы мүмкін жағдайлар және ауырсынудың сөзсіз белгілері. Көшірмелерін бөлмеге және мейірбикелер бекетіне қойыңыз.
+- **Тамақтанып, су ішуіне көмектесіңіз.** Егде жастағы адамдар ауруханада жеткілікті тамақтанбауы мүмкін. Ыдыстарды ашуға, тамақтануға көмектесіңіз, бірге тамақтаныңыз және сусын ұсыныңыз.
+- **Жұбататын заттарды әкеліңіз,** мысалы, суреттер немесе рухани маңызы бар заттар.
+- **Шуды азайтыңыз.** Теледидарды өшіріп, телефон мен хабарландыру дыбысын бәсеңдетіңіз.
+- **Тыныштандыратын әдеттерді қолданып көріңіз,** мысалы, жайлы музыка, кітап оқу, дұға ету, ән айту немесе ескі суреттерді қарау.
+- **Қауіпсіз болса, қозғалысты ынталандырыңыз,** қызметкерлердің рұқсатымен.
+- **Адам кенет нашарлап кеткендей немесе басқаша көрінсе, дереу дәрігерге айтыңыз.** NIA түсіндіргендей, делирий деп аталатын кенет қатты абдырау инфекция, қызба, сусыздану немесе дәрі-дәрмектің жанама әсерлері сияқты мәселелерден туындауы мүмкін және медициналық көмек қажет етеді.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Таныс жүз бен сүйікті әнмен өткен қысқа, сабырлы сапар аурухана күніндегі ең жұбататын сәт болуы мүмкін.
 
-## Bringing children on a visit
+## Балаларды бірге апару
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Балалар көп жылылық әкеле алады. Алдын ала оларды қарапайым, шынайы сөздермен дайындаңыз, сапарды қысқа ұстаңыз және оларға шағын тапсырма беріңіз, мысалы, салған суретін көрсету немесе фото ұсыну. NIA балалар мен Альцгеймер ауруымен өмір сүретін адамдардың фотоальбом қарау немесе музыка тыңдау сияқты қарапайым әрекеттерден ләззат ала алатынын айтады. Dementia Australia кішкентай балаларды алаңдатпай ұстау үшін тәттілер немесе тыныш ойыншықтар салынған шағын сөмке дайындауды ұсынады.
 
-## Take care of yourself too
+## Өзіңізді де күтіңіз
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Сапарға бару, әсіресе адам көп өзгерген болса, шаршатуы және көңілге ауыр тиюі мүмкін. Қажет болса, сирегірек баруыңызға, қолдау үшін досыңызды ертіп баруыңызға немесе қиын күні ертерек кетуіңізге болады. Өзіңізге қамқор болу туралы идеялар үшін [күтім жасаушының өзіне күтімі](/caregiving/caregiver-self-care/) бөлімін қараңыз. Егер алыс тұрсаңыз, [телефон және бейне қоңыраулар](/activities/phone-and-video-calls/) нұсқаулығымызды қараңыз.

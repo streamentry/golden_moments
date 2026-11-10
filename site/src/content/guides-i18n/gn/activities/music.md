@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Tembiapo purahéi rehegua dementiarehe guarã"
+seoTitle: "Purahéi dementiarehe guarã: idea ha lista"
+description: "Mba’éichapa oñembopurahéi tapicha oikovéva dementiarehe ndive: peteĩ lista purahéi tee, 15 tembiapo ndahasýiva ha ñe’ẽporã opa etapa-pe g̃uarã."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Purahéi ha’e peteĩ mba’e ndahasýiva oñemoherakuã hag̃ua tapicha oikovéva
+  dementiarehe ndive. Ejapo peteĩ lista purahéi tee umi purahéigui ikaria’y
+  guare, jerovia ha familia rehegua, eñembopurahéi marandu’ỹre ha tyapu’ỹme,
+  ha peẽ japurahéi, japyte, jajeroky térã jahendu mante peteĩnte. Eiporavo
+  purahéi py’aguapy térã vy’áva pe aravo rehe, eguereko tyapu mbeguépe, ha
+  eñepytũ peteĩ purahéi oñemondýiramo chupe.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Purahéi tee iporãve: umi mba’e oipotaitereíva ikaria’y guare, avei purahéi ijerovia, arandukuaa ha familia rembiasa rehegua."
+  - "Eñembopurahéi peteĩ mba’e año, marandu’ỹre ha ta’ãngamýi ñembogue’ỹre."
+  - "Japurahéi, japyte, jajeroky ha jahendu mante ha’e opaichagua ñepartisipa."
+  - "Eipuru purahéi py’aguapy ñemopytu’u hag̃ua ha vy’áva omombarete hag̃ua pe py’a, ha ehecha mba’éichapa oñandu pe tapicha."
+  - "Jeporeka oñemohendáva purahéi rehegua ndahetái gueteri; roikuave’ẽ purahéi peteĩ mba’e porã oñemoherakuã hag̃ua, ndaha’éi pohã."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Mba’eichagua purahéi iporãve tapicha oikovéva dementiarehe guarã?"
+    a: "Purahéi pe tapicha oikuaáva ha oipotaitereíva are guive, hetave jey imitã ha ikaria’y pyahu jave, avei purahéi ijerovia, arandukuaa ha familia avy’a rehegua. Ikatúramo, eheja chupe toiporavo. Ehecha hova ha hete reikuaa hag̃ua mba’épa ovy’a chupe, ha eheja oimeraẽva hi’ãva imondýi."
+  - q: "Aipuruva’erãpa apysapegua?"
+    a: "Oĩ tapicha ovy’áva apysapegua rehe ojoko haguére tyapu, ha ambue katu ndoipotáiramo térã ombojeroviave chupe. Eñeha’ã raẽ peteĩ tyapuhápe peẽ hendukuaa hag̃ua peteĩnte. Eipurúramo apysapegua, eguereko tyapu mbeguépe ha eime hi’aguĩ."
+  - q: "Purahéipa ikatu oipytyvõ oñemongu’éramo térã oñemondýiramo?"
+    a: "Purahéi py’aguapy ha ojekuaáva ikatu oipytyvõ omoheñói hag̃ua teko py’aguapy, ha Alzheimer’s Association oikuave’ẽ purahéi ojepuru hag̃ua oñemoheñói hag̃ua pe teko oñeipotáva. Ndaha’éi opa ára oiko porã. Pe tapicha oñemondýiramo, ehecha avei oĩpa hasy, ñembyahýi, tyapu térã kane’õ."
+  - q: "Tapicha oikovéva dementiarehe etapa pahápe ikatu gueteripa ovy’a purahéire?"
+    a: "Heta ikatu. Alzheimer’s Association he’i etapa pahápe oĩva ikatu gueteri oity pe mbopu térã opurahéi peteĩ purahéi imitã guare ndive. Eguapy hi’aguĩ, eñembopurahéi mbeguépe ha ejapyhy ipo térã peẽ jajeroky peteĩnte."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Purahéi ha’e peteĩ mba’e ndahasýivéva ikatu oñemoherakuã tapicha oikovéva dementiarehe ndive. Ndojeruréi mba’eve: ani mbohovái hekopete, ani rape ojuhekáva. Peteĩ purahéi ojekuaáva ikatu ogueru peteĩ pukavy, peteĩ py ñembopu térã peteĩ ñe’ẽ oñepurahéiva, jepe ára oñe’ẽ hasyvévape. Tekotevẽ pe purahéi oikóva ko tapicha-pe ha peteĩ aravo kirirĩme oñembopurahéi hag̃ua.
 
-## What music activities work for people with dementia?
+## Mba’e tembiapo purahéi rehegua oiko porã tapicha oikovéva dementiarehe ndive?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Ñehendu, ñepurahéi, pyte, jeroky mbegue ha ñemongeta purahéi rehe oiko porã. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) oikuave’ẽ oñembopurahéi hag̃ua, oñe’ẽ hag̃ua purahéi ha purahéihára rehe, oñepurahéi térã oñejeroky hag̃ua purahéi ojekuaáva rehe, ha oho hag̃ua tembiapo purahéi rehegua tendápe. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ombojoapy avei myi’ã, pyte térã jeroky ramo, ikatu ombohetave vy’a, ha purahéi ikatu ha’e peteĩ tape ojejoaju hag̃ua oñe’ẽ hasyvévo.
 
-## How do you build a personal playlist?
+## Mba’éichapa ajapo peteĩ lista purahéi tee?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Pe mba’e iporãvéva ikatu rejapo ha’e peteĩ lista purahéi oreko haguã mba’e he’iséva ko tapichápe g̃uarã. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) omomba’e avei purahéi oreko téva he’iséva chupe. Ko’ápe oĩ peteĩ tape ndahasýiva rejapo hag̃ua.
 
-### Start with their life
+### Eñepyrũ hekove rehe
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Imitã ha ikaria’y pyahu jave.** Eñamindu’u mba’épa oñembopurahéi rediópe, jerokyhápe ha ta’ãngamýipe ikaria’y jave.
+- **Ára tuicháva.** Purahéi oñemendávo, peteĩ jeroky ñepyrũrã, térã peteĩ purahéi familia oguerohorýva tape jave.
+- **Jerovia ha arandukuaa.** Purahéi marangatu, gospel, térã purahéi iñe’ẽ tee rehegua.
+- **Tembiapo ha servicio.** Aty mbopu, purahéi tembiapo rehegua, térã purahéi ojoajúva peteĩ aravo militar rehe.
+- **Mba’épa familia omandu’a.** Eporandu joyke’y, mitã ha angirũ yma guare mba’épa oñembopurahéi térã opurahéi meme.
 
-### Think in genres, not just songs
+### Eñamindu’u michĩ michĩme, ndaha’éi purahéi peteĩteĩme año
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Ndereikuaáiramo moõpa reñepyrũta, eñeha’ã peteĩ aravo michĩ ko’ãva rehe ha ehecha mba’éichapa oñandu: big band ha swing, doo-wop, Motown ha soul, rock and roll tenondegua, country ha western, bluegrass, gospel ha purahéi marangatu, Broadway rehegua, jazz estándar, purahéi Latinoamérica-gua bolero térã mariachi ramo, polka, folk ha clásico. Eguereko umi oguerúva pukavy térã py ñembopu; eheja umi oguerúva rova ñyñýi.
 
-### Make it easy to play
+### Ejapo ndahasýi hag̃ua ñembopurahéi
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Marandu’ỹre.** Alzheimer’s Association he’i marandu ikatu ombojerovia. Eipuru purahéi oñemboguejýva, CD, disco térã peteĩ servicio marandu’ỹre.
+- **Peteĩ tembipuru ndahasýiva.** Peteĩ tyapuhára peteĩ votõ tuicháva reheve, térã peteĩ lista oĩmbamáva, opavave ikatu oñepyrũ hag̃ua.
+- **Mokõi lista mbykýva.** Peteĩ lista py’aguapy ñemopytu’u hag̃ua ha ambue vy’áva omombarete hag̃ua pe py’a.
+- **Emoĩ héra.** Ehai pe tapicha réra ha “purahéi oipotaitereíva” pe tembipuru ári, familia ovahóva ha umi oñangarekóva ikatu avei oipuru hag̃ua.
 
-## 15 music activities to try
+## 15 tembiapo purahéi rehegua eñeha’ã hag̃ua
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Peẽ jahendu.** Eguapy ykére ambue mba’e’ỹre. Ñehendu ha’e tembiapo hekopete.
+2. **Peẽ japurahéi.** Eñepyrũ nde repurahéivo. Ñembopurahéi jurúpe oñemboty’ỹre térã ñe’ẽ ñemoĩvo año ikatu avei.
+3. **Japyte térã jaty pe mbopu.** Japyte akúpe, mesápe, térã eipuru peteĩ tambor michĩ térã maraka.
+4. **Jeroky mbegue.** Peẽ jajapyhy po ha jajeroky kóhina kotýpe, térã jaguapy ha jamyi’ã jyva peteĩnte.
+5. **Jeroky ao mbykýva reheve.** Emongu’e ao mbyky ha vevúi purahéi rapykuéri, ñembo’ýpe térã ñeguapýpe.
+6. **Ñemongeta purahéi rehe.** Eipepirũ, ani eporandu: “Kóva ha’ete ku jerokyha. Emombe’umi chéve umi jeroky rehe”. Ani araka’eve eporandu “Remandu’ápa ko purahéi rehe?”.
+7. **Ehendu peteĩ álbum tuichaháicha.** Eñembopurahéi peteĩ disco oipotaitereíva, ñepyrũ guive opa peve, café reheve.
+8. **Emaña disco kuatiarehe.** Disco kuatia yma guare iporã oñe’ẽ hag̃ua ao, mba’yrumýi ha hova rehe.
+9. **Ehecha peteĩ musical.** Peteĩ musical térã concierto ta’ãngamýipe iky’arõ guare ikatu iporã peteĩ ka’aru. Epyta sapy’ami opytu’u hag̃ua.
+10. **Eñembopu peteĩ tembipuru oikuaáva.** Peteĩ tapicha oñembopuva’ekue piano térã guitarra rehe ikatu ovy’a oñembopu mbeguekue ramo. Upe rire, ojapokuaa peteĩ mokõi pu año ikatu avei iporã.
+11. **Purahéi tembiapo jave.** Eñembopurahéi umi purahéi oipotaitereíva rembojere jave ao térã remohenda jave mesa.
+12. **Purahéi pyharevegua.** Eñepyrũ ára peteĩteĩ peteĩ purahéi vy’áva reheve, peteĩ jepokuaa ramo.
+13. **Epurahéi jerovia rehegua.** Eñembopurahéi purahéi ijerovia rehegua ha peẽ japurahéi peteĩnte.
+14. **Eike peteĩ aty purahéihárape.** NHS omombe’u aty purahéihára rehe iporãha py’a ha resãi porãrã. Eporandu nde rerekohápe oĩpa coro omog̃uahẽva tapicha oikovéva dementiarehe.
+15. **Tereho ehendu purahéi oikovéva.** Peteĩ concierto mbykýva tavayguakuéra ndive térã aty mbopu okápe. Eguapy okẽsẽha ypýpe ha reho araka’eve nde reipotávove.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Peteĩ tembiapo mbykýva ñe’ẽ rehegua, ñe’ẽjoaju ojekuaáva reheve, eñeha’ã [emohu’ã pe ñe’ẽjoaju](/games/finish-the-saying/), upépe ikatu opa ára ehechauka pe pahague.
 
-## Matching music to the moment
+## Purahéi oñembojoajúva pe aravo rehe
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer’s Association oikuave’ẽ eipuru hag̃ua purahéi oñemoheñói hag̃ua pe teko oñeipotáva: purahéi py’aguapy teko kirirĩme g̃uarã, ha peteĩ purahéi vy’áva ikaria’y guare omombarete hag̃ua pe py’a.
 
-| Moment | Try | Tip |
+| Aravo | Eñeha’ã | Ñe’ẽporã |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Jepu’ã | Peteĩ purahéi ojekuaáva ha vy’áva | Peteĩ purahéi pyhareve peteĩcha ramo oñemoĩ peteĩ ñe’ẽmondo mbegue |
+| Tembiapo óga pegua | Umi oipotaitereíva vy’áva | Purahéi ikatu ombojoaju tembiapo ha irũnguéra |
+| Karu | Purahéi mbegue tembipuru’ỹva | Eguereko mbeguépe ani oñorairõ karu ndive |
+| Ka’aru pahague | Purahéi py’aguapy ha ojekuaáva tesape porãme | Ehecha [ñemongu’e ka’aru pahague](/caregiving/late-day-restlessness/) |
+| Ke | Purahéi mbegue ha kirirĩ | Emboguejy tyapu ha tesape peteĩnte |
+| Etapa pahague | Umi purahéi oipotaitereivéva, mbegueeterei | Eguapy hi’aguĩ ha ejapyhy ipo |
 
-## Tips for a good experience
+## Ñe’ẽporã peteĩ aravo porã hag̃ua
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Embogue ambue tyapu.** Alzheimer’s Association oikuave’ẽ emboty hag̃ua ovetã ha okẽ ha embogue hag̃ua ta’ãngamýi, purahéi año hag̃ua pe tyapu.
+- **Eguereko tyapu mbeguépe.** Purahéi iporãva’erã ohendu hag̃ua, ndaha’éi hatã. Pe tapicha oipurúramo apysatũha, ehecha oĩpa ha oiko porãpa; ehecha [ñehendu](/brain-health/hearing/).
+- **Emaña purahéi ombyasyva rehe.** Oĩ purahéi oguerúva ñembyasy, ñorairõ térã ñehundi. Peteĩ purahéi imondýiramo, emokyre’ỹ ha emoambue.
+- **Eheja chupe toisãmbyhy.** Ikatúramo, eheja pe tapicha toiporavo purahéi, ha emoneĩ avei pe nahániri.
+- **Eñepytũ araka’eve.** Po aravo’i purahéi reheve ha’e tembiapo porã. Embogue ha ñeguapy kirirĩme avei.
 
-## What does the research say about music and dementia?
+## Mba’épa he’i jeporeka purahéi ha dementiarehe?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Umi kuaapy ndahetái gueteri. Peteĩ [Cochrane jehechajey 2025-pe](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) ohecha 30 estudio purahéi oñemohendáva rehegua, hetave aty ndive óga ñangarekopegua. Ojuhu ko’ã aty ikatuha omomichĩ mbovy pe ñembyasy py’aguã oñembojoajúvo ñangareko tapiagua rehe, ha ndojuhúi mba’e hesakãva ñemongu’e, resãi porã térã jeñamindu’u ha mandu’a rehe, avei mba’e opytáva umi aty opa rire.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Roñemoherakuã purahéi peteĩ mba’e porã ha ndahasýiva romboyke hag̃ua aravo peteĩnte, ndaha’éi pohãramo. Aty ndive g̃uarã, ehecha [tembiapo aty óga ñangarekope g̃uarã](/activities/care-home-groups/); eipuru hag̃ua purahéi ta’anga ha tembiasakue ndive, ehecha [tembiapo mandu’a rehegua](/activities/reminiscence/).

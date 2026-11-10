@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Os xogos cerebrais preveñen a demencia? A evidencia"
+seoTitle: "Os xogos cerebrais preveñen a demencia? A evidencia"
+description: "Que di a investigación sobre xogos cerebrais e demencia: estimulación cognitiva, adestramento informático, o ensaio ACTIVE e o caso Lumosity da FTC, explicado con claridade."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Non se demostrou que ningún xogo cerebral prevña a demencia. O adestramento
+  cerebral por ordenador sobre todo mellora as tarefas que se practican. Un
+  estudo do ensaio ACTIVE asociou un adestramento específico de velocidade,
+  xunto con sesións de reforzo, con menos diagnósticos de demencia ao longo de
+  20 anos, un achado limitado. Para as persoas que xa viven con demencia, a
+  estimulación cognitiva en grupo mostra beneficios pequenos e a curto prazo.
+  O mellor é gozar dos xogos pola diversión e a compañía.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Os estudos sobre adestramento cerebral mostran que as persoas melloran nas tarefas que practican, con moita menos evidencia de que iso se traslade á vida cotiá."
+  - "No ensaio ACTIVE, só as persoas que fixeron un adestramento específico de velocidade xunto con sesións de reforzo tiveron menos diagnósticos de demencia ao longo de 20 anos. O adestramento de velocidade sen reforzos e o adestramento de memoria e razoamento non mostraron este resultado."
+  - "En 2016, a empresa creadora de Lumosity pagou 2 millóns de dólares para resolver os cargos da FTC por carecer de base científica para afirmacións sobre atrasar a demencia."
+  - "Para as persoas con demencia leve ou moderada, os grupos de estimulación cognitiva mostran beneficios pequenos e a curto prazo para o pensamento e melloras máis claras na comunicación e a interacción social."
+  - "Os xogos de Golden Moments son para o gozo e o tempo compartido. Non son un tratamento e non preveñen nin frean a demencia."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Os xogos cerebrais preveñen o alzhéimer?"
+    a: "Non se demostrou que ningún xogo cerebral prevña o alzhéimer nin outras demencias. O National Institute on Aging afirma que non hai evidencia suficiente de que as aplicacións comerciais de adestramento cerebral teñan os efectos observados nos ensaios de investigación. Aínda así, os xogos poden ser unha forma agradable de pasar o tempo."
+  - q: "Que descubriu o ensaio ACTIVE sobre o adestramento de velocidade e a demencia?"
+    a: "Unha análise de 2026 vinculou as persoas participantes en ACTIVE cos seus rexistros de Medicare ao longo de 20 anos. As persoas que fixeron adestramento de velocidade de procesamento e polo menos unha sesión de reforzo tiveron unha taxa máis baixa de demencia diagnosticada que o grupo sen adestramento. O adestramento de velocidade sen reforzos, e o adestramento de memoria ou razoamento, non mostraron un efecto significativo."
+  - q: "Son bos os crebacabezas e os xogos para unha persoa que xa vive con demencia?"
+    a: "Poden selo, se á persoa lle gustan. A estimulación cognitiva en grupo, que inclúe xogos de palabras, crebacabezas, música e conversa, mostra beneficios pequenos e a curto prazo para o pensamento e beneficios máis claros para a comunicación e a interacción social. O obxectivo axeitado é o gozo, non un resultado nunha proba."
+  - q: "Por que a FTC multou a Lumosity?"
+    a: "En 2016, a Federal Trade Commission acusou a Lumos Labs de facer afirmacións sobre os seus xogos, incluído atrasar o declive relacionado coa idade e a demencia, sen a base científica que as apoiase. A empresa aceptou pagar 2 millóns de dólares e contar con evidencia científica fiable antes de facer este tipo de afirmacións no futuro."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,182 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Os xogos cerebrais están en todas partes, e moitos prometen manter a mente
+nova. Se coida dunha persoa que vive con demencia, ou se lle preocupa a súa
+propia memoria, é natural preguntarse se xogar a eles podería axudar. Velaquí o
+que mostra en realidade a investigación, incluídas as partes alentadoras e as
+que non o son tanto.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Esta é información xeral, non consello médico. Consulte o noso
+[aviso médico](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Os xogos cerebrais preveñen a demencia?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Non se demostrou que ningún xogo cerebral prevña a demencia. O National
+Institute on Aging (NIA) recomenda desconfiar das afirmacións de que os xogos
+de ordenador e en liña poden mellorar a memoria, e indica que non hai evidencia
+suficiente de que ningunha aplicación comercial de adestramento cerebral teña o
+mesmo efecto que o adestramento probado en ensaios clínicos ([o NIA sobre a
+prevención do alzhéimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Isto non fai que os xogos sexan inútiles. Significa que o seu valor está no
+gozo, a compañía e a rutina, non en protexer a ninguén da demencia.
 
-## What is "near transfer", and why does it matter?
+## Que é a «transferencia próxima» e por que importa?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Cando se practica unha tarefa, adoita mellorarse nesa tarefa. A investigación
+chámao efecto do adestramento. A pregunta máis difícil é se esa mellora
+**se transfire** a outras cousas: a tarefas semellantes (transferencia próxima)
+ou á vida cotiá, como lembrar citas ou xestionar o diñeiro (transferencia
+afastada).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Unha revisión importante de 2016 examinou os estudos que as empresas de
+adestramento cerebral citaban como a súa mellor evidencia. Atopou moita
+evidencia de que as persoas melloran nas tarefas practicadas, menos evidencia de
+que melloren en tarefas moi relacionadas e pouca evidencia de que o adestramento
+mellore o pensamento na vida cotiá. Moitos dos estudos tamén tiñan problemas de
+deseño que facían imposible chegar a conclusións firmes
+([Simons e colegas, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Que din as revisións sobre o adestramento cerebral por ordenador?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+As revisións Cochrane, que reúnen os mellores ensaios dispoñibles, analizaron o
+adestramento informatizado que duraba polo menos 12 semanas:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Persoas adultas sans de 65 anos ou máis:** oito ensaios con 1.183 persoas.
+  A evidencia era de calidade baixa ou moi baixa. Pode haber un lixeiro beneficio
+  xusto despois do adestramento, sen evidencia clara de que dure
+  ([revisión Cochrane, persoas maiores sans](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Persoas con deterioración cognitiva leve:** oito ensaios con 660 persoas.
+  Ningún ensaio informou de se as persoas acabaron desenvolvendo demencia, e a
+  evidencia era demasiado feble para sacar conclusións
+  ([revisión Cochrane, deterioración cognitiva leve](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Que descubriu o ensaio ACTIVE?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE é un gran ensaio dos Estados Unidos que comezou en 1998 con 2.802 persoas
+adultas de 65 anos ou máis que vivían de forma independente e non tiñan
+problemas importantes de memoria ou pensamento. As persoas foron asignadas ao
+azar a un dos tres tipos de adestramento en grupos pequenos (velocidade de
+procesamento, memoria ou razoamento) ou a un grupo sen contacto. O adestramento
+consistiu en ata dez sesións ao longo de cinco ou seis semanas. Algunhas persoas
+que completaron a maioría das sesións tamén recibiron ao azar a oferta de
+**sesións de reforzo** aproximadamente un e tres anos despois.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+O adestramento de velocidade consistía en detectar e procesar información visual
+en períodos cada vez máis breves, cun nivel que se axustaba a medida que as
+persoas melloraban.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+En 2026, os investigadores vincularon 2.021 participantes cos seus rexistros de
+Medicare durante 20 anos ([análise de 20 anos de ACTIVE](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Velaquí exactamente o que atoparon:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Adestramento de velocidade xunto con polo menos unha sesión de reforzo:**
+  unha taxa máis baixa de demencia diagnosticada que o grupo sen contacto (un
+  cociente de riscos de 0,75, o que significa aproximadamente unha taxa un 25%
+  menor).
+- **Adestramento de velocidade sen reforzos:** ningunha taxa máis baixa.
+- **Adestramento de memoria ou razoamento:** ningún efecto significativo nos
+  diagnósticos de demencia.
+- **Cada grupo de adestramento no seu conxunto comparado co grupo sen contacto:**
+  unha tendencia cara a taxas máis baixas, pero non estatisticamente
+  significativa.
 
-### The limits of this finding
+### Os límites deste achado
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Aplícase a **un tipo específico de adestramento supervisado de velocidade con
+  sesións de reforzo**, non aos xogos cerebrais en xeral.
+- O resultado significativo procede dun **subgrupo** (persoas que completaron a
+  maioría das primeiras sesións e recibiron a oferta de reforzos), non de todo o
+  grupo de velocidade.
+- A demencia mediuse mediante **códigos de diagnóstico nos rexistros de
+  Medicare**, non examinando a cada persoa. Preto dunha cuarta parte das persoas
+  participantes orixinais quedou fóra porque estaban inscritas en Medicare
+  Advantage, que non ten rexistros completos.
+- As persoas participantes non tiñan problemas importantes de pensamento cando
+  comezaron. Os resultados non din nada sobre os xogos para persoas **que xa
+  viven con demencia**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+É un resultado interesante que merece máis investigación. Non é evidencia de
+que ningunha aplicación prevña a demencia.
 
-## What did the FTC say about Lumosity?
+## Que dixo a FTC sobre Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+En xaneiro de 2016, Lumos Labs, a empresa creadora de Lumosity, aceptou pagar 2
+millóns de dólares para resolver os cargos da Federal Trade Commission por
+publicidade enganosa. A FTC afirmou que a empresa declarara, sen base científica
+adecuada, que os seus xogos podían mellorar o rendemento no traballo e na escola
+e podían atrasar o declive relacionado coa idade, a deterioración cognitiva
+leve, a demencia e o alzhéimer. A resolución obriga a empresa a contar con
+evidencia científica competente e fiable antes de facer este tipo de afirmacións
+no futuro ([nota de prensa da FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+A lección para as familias: convén desconfiar de calquera xogo, aplicación ou
+programa que prometa protexer a memoria ou previr a demencia.
 
-## Can games help someone who already has dementia?
+## Poden axudar os xogos a unha persoa que xa vive con demencia?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Poden sumar a un bo día, e iso importa moito. O enfoque máis estudado é a
+**estimulación cognitiva**: actividades agradables en grupo como conversa,
+reminiscencia, xogos de palabras, crebacabezas e música, normalmente nun grupo
+pequeno guiado por unha persoa facilitadora.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Unha revisión Cochrane de 2023 sobre 37 ensaios con 2.766 persoas con demencia
+leve ou moderada atopou
+([revisión Cochrane sobre estimulación cognitiva](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- un **beneficio pequeno e a curto prazo** nas probas de pensamento (evidencia
+  de calidade moderada);
+- **melloras clinicamente relevantes na comunicación e a interacción social**
+  (evidencia de alta calidade, procedente dun número menor de estudos);
+- **beneficios leves** para a calidade de vida, o estado de ánimo e o
+  comportamento.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Os beneficios medíronse sobre todo xusto despois de programas duns dez semanas,
+e poucos estudos comprobaron se duraban. A estimulación cognitiva é un programa
+estruturado en grupo, polo que estes resultados non se aplican automaticamente a
+unha persoa que xoga soa a un xogo nunha tableta.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+A Comisión Lancet de 2024 tamén indica que os programas de actividade son
+importantes para as persoas que viven con demencia, para manter o gozo e o
+propósito
+([Comisión Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Para que serven en realidade os xogos?
 
-When chosen well, games can offer:
+Cando se escollen ben, os xogos poden ofrecer:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Gozo.** Pasar unha media hora agradable merece a pena por si mesma.
+- **Conexión.** Xogar un a carón do outro ofrece algo fácil de compartir cando a
+  conversa resulta difícil. Consulte [como xogar xuntos](/caregiving/how-to-play-together/).
+- **Rutina.** Unha actividade familiar á mesma hora cada día pode aportar calma.
+- **Confianza.** As actividades axustadas ao que unha persoa aínda pode facer
+  ben permítenlle sentirse capaz, non avaliada.
+- **Conversa.** Unha imaxe ou un refrán coñecido pode abrir unha historia. Probe
+  as [tarxetas de conversa](/games/conversation-cards/) ou
+  [completa o refrán](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Que convén evitar: temporizadores, puntuacións, series de acertos e calquera
+cousa que semelle unha proba de memoria. Se a persoa se frustra, pare. Rematar
+antes de tempo, ou simplemente estar xuntos, é un bo resultado. A nosa guía para
+[escoller aplicacións e xogos](/caregiving/choosing-apps-and-games/) inclúe unha
+lista de comprobación.
 
-## Where Golden Moments fits
+## Onde encaixa Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Os xogos de Golden Moments, como [parellas de imaxes](/games/picture-pairs/),
+[crebacabezas con imaxes](/games/picture-puzzle/) e
+[sopa de letras en letra grande](/games/word-search/), están feitos para o gozo e
+o tempo compartido. Non teñen reloxo nin puntuación. **Non** son un tratamento e
+**non** preveñen nin frean a demencia. Preferimos dicilo con claridade a
+prometer algo que ningún xogo pode ofrecer.
 
-## Talk with a doctor
+## Fale cun profesional de saúde
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Se lle preocupan os cambios de memoria en vostede ou nunha persoa da que coida,
+consulte cun profesional de saúde en lugar de confiar nunha aplicación. Un
+profesional de saúde pode buscar causas tratables e comentar os pasos con mellor
+evidencia, como controlar a presión arterial e revisar a audición. Consulte
+[Pódese previr a demencia?](/brain-health/can-dementia-be-prevented/) para máis
+información. Se hai confusión súbita ou outros cambios repentinos, busque axuda
+médica urxente.

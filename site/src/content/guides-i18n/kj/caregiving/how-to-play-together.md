@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Nghee to dana nomunhu e na omapuko okudimbulukwa"
+seoTitle: "Nghee to dana nomunhu e na omapuko okudimbulukwa"
+description: "Omayele taa kwafele okudana nomunhu ta kala nomapuko okudimbulukwa: elongekido, omhito, ino pukulula, nghee to shi ningi shipu nokushiiva efimbo lokuxulifa po."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Tala oudano onga efimbo lokukala pamwe, ha ekonakono. Hoolola efimbo la ngungumana
+  mefiku, kala omutumba popepi naye mondunda ya mwena, ndele to mu pe oudano umwe
+  u li paunafangwa. Mu efa a tye omhito yaye, ino pukulula omapuko e he na oshiponga,
+  ninga oudano u kale upu ngeenge wa mono ta loloka, ndele to longifa omafano okukundafana.
+  Xulifa po fimbo tashi udifa nawa natango. Okuxulifa po diva, ile ashike okutala pamwe,
+  oshi li oshizemo shiwa.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Elalakano okuhafela nokukala pamwe, ha okumanifa ile okuyamukula mondjila."
+  - "Longekida tete: ondunda ya mwena, ouyelele muwa, omakende nomikwaelelo domatwi di li po, o-TV ya dimwa, oudano umwe wa longekidwa."
+  - "Ino pukulula omapuko e he na oshiponga. Tya “Natu shi kendabale ngaha” ile twikila ashike."
+  - "Ninga oudano u kale upu fimbo oupyakadi inau holoka: omafano manini, omahoololo manini, omafano a kala e li wetike."
+  - "Longifa omafano onga etameko leenghundana to ti “Lombwele nge kombinga ya…” ponhele yokutya “Oto dimbuluka…?”"
+  - "Xulifa po poipatifo yotete yololoko ile youpyakadi. Okuxulifa po diva osho oshizemo shiwa, ha okuliyandeka."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Otu na okudana oule wefimbo li fike peni?"
+    a: "Kape na efimbo la yuka. Kovantu vahapu, oule wominute dishona owa wana, nomafiku amwe okudana lumwe akuke okwa wana. Tala omunhu oo, ha ewiliko, ndele to xulifa po fimbo ta monika a ngungumana natango."
+  - q: "Ondi na oku mu efa a finde ile ndi fe ngee inandi mona omapuko?"
+    a: "Moudano wokukala pamwe uhe na oudjuu, kape na oo ta findi ile ta kanifa. Ngeenge epuko itali mu udifa nai, li efa. Ngeenge otali mu udifa nai, mu kwafela nombili ile ninga oudano u kale upu nopehe na oku shi mu lombwela."
+  - q: "Ngeenge okwa hala ashike okutala nge handi dana?"
+    a: "Osho oshi li nawa. National Institute on Aging otai ti omunhu na efwe ashike a tale ngeenge osho tashi mu hafifa unene. Kundafaneni osho tamu mono ndele to mu shivi a ulike ile a hoolole efimbo keshe a hala."
+  - q: "Oudanaukifo ei oikando yokukonakona okudimbulukwa?"
+    a: "Ahowe. Oudanaukifo yetu oilonga ilula yokukala pamwe opo mu hafele nokukundafana. Kai fi ekonakono lokudimbulukwa, kai na eshi tai yeleke, nokai fi epango lomapuko okudimbulukwa."
+  - q: "Oudano ulipi u li nawa okutameka nao?"
+    a: "Tameka naau u li paunafangwa tau wapalele omunhu oo. Picture Pairs noitukulwa ine nomafano a kala e li wetike, ile Find the Same nomahoololo avali, oyo eenhele diwa okutamekela. Conversation Cards oi li nawa ngeenge omunhu oku hole okupopya unene shi dulife okudenga."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Oudano muwa nomunhu ta kala nomapuko okudimbulukwa ihau monika wa fa efiyafanepo. Ohau monika wa fa ovanhu vavali va kala omutumba popepi, tava ulike omafano, tava yolo kombinga youtumbulilo, notava kundafana kombinga yaasho tashi holoka po. Oudano ou li ashike etomheno lokukala pamwe.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ewiliko eli otali yelifa nghee to longekida, nghee to dana nombili, osho to ti ngeenge sha “puka”, nghee to ningi oudano keshe u kale upu ile u dule kanini, nghee to u shitukifa eenghundana, nanghee to shiiva efimbo lokuxulifa po. Otali longo [oudanaukifo yetu](/games/) nosho yo oukaati, oupuzzel noidanaukifo yokoitafel nomafano oyo mu na nale.
 
-## What is the best way to play a game with someone who has dementia?
+## Onghedi iwa ilipi yokudana oudano nomunhu e na omapuko okudimbulukwa?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Yandja elitulemo kehafo, ha koshizemo. Oo omayele makula a dja [komayele aAlzheimer's Association kombinga yoilonga](https://www.alz.org/help-support/caregiving/daily-care/activities): tungila kounongo oo omunhu e na natango, mu kwafela a tameke, longa oshitukulwa shidjuu ponhele yaye, ndele ino mu tokola ile oku mu pukulula koilonga ihe na oshiponga.
 
-In practice that means:
+Pashiholelwa otashi ti:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Kala omutumba popepi naye, ha moshipala shaye.** Ngeenge omwa kala popepi, amushe otamu dulu okumona oshikwaelelo ile otafela, nokukwafela otaku monika kwa fa oilonga pamwe, ha okupashukila.
+- **Yandja oudano umwe pefimbo limwe.** Omutenge womahoololo otau dulu okumonika wa fa ekonakono fimbo inamu tameka.
+- **Landula ewiliko laye.** Ngeenge okwa hala okudenga omafano melandulafano laye mwene, okukundafana efano limwe oule wominute omulongo, ile okuxulifa po konima yeemhito mbali, oo oudano wonena.
+- **Valula eemhito diwa, ha omalufo a manwa.** Eteyelo, ehokololo ile etata lotundi la ngungumana oyo oshizemo to kongo.
 
-## How do I set up before we start?
+## Ohandi longekida ngahelipi fimbo inatu tameka?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Ominute dishona dokulongekida otadi kelele oupyakadi muhapu oo ovanhu hava pe oudano oushima.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Hoolola efimbo laye liwa mefiku.** [Omayele aNational Institute on Aging (NIA) kombinga yokuwapeka oilonga](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) otaa ti longekida omalweendo noilonga pefimbo mefiku omo omunhu e li nawa unene. Kovantu vahapu osho ongula pokati. Konguloshi otashi dulu okukala shidjuu; tala [oilonga ya ngungumana konguloshi](/caregiving/late-day-restlessness/).
+2. **Ninga ondunda i kale ya mwena.** Dima o-TV noradio ndele to pata omuvelo ngeenge tashi shiiva. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) otai kumwe nokuninipika ombako nomapiyaaneko fimbo inamu kendabala okupopya.
+3. **Tala ouwa waye tete.** Omeva popepi, okuya kokandjuwo kokandjugo manga inamu tameka, oshipundi shiwa, nomakende nomikwaelelo domatwi di li po.
+4. **Yandja ouyelele muwa mondunda.** Ouyelele muwa, uhe na ouyelele tau vilima moshikwaelelo, otau ningi omafano a kale epupu okumona.
+5. **Longekida oudano fimbo inamu kala omutumba.** U yeulula, hoolola omalongekido ndele to tula omundundumo oove mwene. Opo nee pilulila oshikwaelelo kuye. Omayele kombinga yotablet, tala [nghee to longekida otablet ile ongodi](/caregiving/tablets-and-screens/).
+6. **Yambidida oshikwashina.** Oshitukulwa ile okandjato oko take shi kwata ofika otashi ti kape na oo e na oku shi kwata, noshipu okuulika.
 
-## How do I invite them without pressure?
+## Ohandi mu shivi ngahelipi nopehe na okufininika?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Ninga eshivo li kale la manguluka noli kale lipu okutindwa. Eendjovo dimwe odo hadi kwafele:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Onda mona omafano oshikunino. Owa hala oku a tala pamwe naame?"
+- "Oto dulu oku kwafela nge noupuzzel ou? Onde lipyakidila."
+- "Owa hala eengala ile oudila nena?" (ehoololo limwe lomavali oli li epupu shi dulife epulo la manguluka)
+- "Ohandi ningile omumwanyoko okaati. Olududi lilipi ndi na okulongifa apa?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association otai ti yelifa elalakano loilonga, ngaashi okuninga okaati ka kaume, osheshi etomheno otali i pe eityo. Okupula ekwafo nasho otashi longo osheshi otashi ningifa omunhu a kale e udite e na oshilonga.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Ngeenge okwa tindi, shi tambula. Kendabala vali konima ile yandja sha shilwe. Ewiliko letu kombinga ya [osho to ningi ngeenge okwa tindi](/caregiving/when-they-say-no/) otali yelifa shihapu.
 
-## How long should a game last, and how fast should we go?
+## Oudano ou na okukala oule wefimbo li fike peni, notu na okudana nombili i fike peni?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Efa omunhu a tye omhito yaye, ndele to longekida eemhito di fupi. Kape na oule u li mondjila wa yelekwa woudano wokukala pamwe. Ominute mbali fiyo nhano da ngungumana otadi dulu okukala oilonga ya wana.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Teelela olule shi dulife eshi tashi monika shopaushitwe.** NIA otai ti yandja efimbo lihapu opo omunhu a nyamukule ndele to kendabala ino mu kwata melaka. Valula fiyo omulongo momutima woye fimbo ino mu kwafela.
+- **Eenghatu imwe pefimbo.** Yandja elombwelo limwe, lixupi ("Denga efano"), ndele to teelela. Ulika ponhele yokuyelifa: ulike apa pe na okudengwa.
+- **Tuleni omhito yokufuda.** Ngeenge okwa kanghama a popye kombinga yefano, oudano otau dulu okuteelela. Kape na efimbolimwe lokwendela.
+- **Mu efa a tale.** NIA otai ti ovanhu vamwe ohava hala okutala, nosho oshi li ehoololo li li mondjila.
 
-## Should I correct wrong answers?
+## Ondi na okupukulula omanyamukulo a puka?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ahowe. Okupukulula omunhu nombili lwoikando noikando otashi mu lombwele kutya ota dopa, nonande ou na elalakano liwa. Alzheimer's Association otai ti ino tokola ile okupukulula oilonga ihe na oshiponga. Moudano, omapuko aeshe konyala kae na oshiponga.
 
-| Instead of | Try |
+| Ponhele yokutya | Kendabala |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Ahowe, osho sha puka." | "Natu shi kendabale ngaha." (oshihopaenenwa osho NIA ya yandja) |
+| "Kashi fi sha faafana. Tala natango." | Ino tya sha ndele to dana oshikando tashi landula, ile "Oo, aeshe avali omatilyana." |
+| "Oto dimbuluka kutya ou lyelye?" | "Lombwele nge kombinga yefano eli." |
+| "Owe li ninga nale." | "Oli li liwa. Natu li ninge vali." |
+| "Ila, ou shi shii eshi." | "Owa hala ndi ku ulikile exulilo?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Ngeenge epuko otali mu udifa nai shili, mu kwafela nombili. Ulike efano la yuka, dana oshikando shoye mwene, ile ninga oudano u kale upu moshikando tashi landula. Ngeenge outumbulilo wa pewa exulilo la puka tali yolo, yola pamwe naye. Exulilo laye otali dulu okukala liwa unene.
 
-## How do I make a game easier or harder?
+## Ohandi ningi ngahelipi oudano u kale upu ile u dule kanini?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Wapeka oudano komunhu oo mefiku olo, ha kondodo yonhumba. Omunhu tuu oo otashi dulika a pumbwe omukalo u li paunafangwa konguloshi shi dulife ongula. Etwomukumo lotete laNIA okukwatakanifa oshilonga naasho omunhu ta dulu okuninga nokushilipaleka kutya oku udite a pondola.
 
-| Game | Make it easier | Make it a little harder |
+| Oudano | Ninga u kale upu | Ninga u dule kanini |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Tameka noitukulwa 4 ndele to efa omafano a kale e li wetike | Oitukulwa ihapu, ile holeka omafano ngeenge otashi udifa nawa |
+| [Find the Same](/games/find-the-same/) | Omahoololo 2 | Fiyo omahoololo 4 |
+| [Sort Together](/games/sort-together/) | Ove to kwata efano, ye ta ulike okambiya | Ye ta denge efano nokambiya ye mwene |
+| [Picture Puzzle](/games/picture-puzzle/) | Oitukulwa 4, kundafaneni efano alishe tete | Oitukulwa 9 |
+| [Finish the Saying](/games/finish-the-saying/) | Ulika exulilo, ndele tamu li popi pamwe | Mu efa a popye exulilo fimbo ina denga |
+| [Word Search](/games/word-search/) | Shi nyanyangida, kongeni ondjovo imwe pamwe, ulike ohunhu yayo yotete | Mu efa a hoolole ondjovo tai landula okukonga |
+| [Coloring](/games/coloring/) | Ove to hoolola omaluvala avali, ye ta hoolola pokati kao | Ye ta hoolola omaluvala aeshe |
+| [Conversation Cards](/games/conversation-cards/) | Taleni ashike efano pamwe | Longifa omapulo a manguluka oko kaati |
+| [Photo Pairs](/games/photo-pairs/) | Omafano manini oukwaneumbo a hokiwa unene | Wedako omafano amwe |
+| [Picture Bingo](/games/picture-bingo/) | Omukwafi ta kala nomudani keshe | Ovadani tave litula oimanyika voovene |
+| [Calm Breathing](/games/calm-breathing/) | Kaleni omutumba ndele tamu shi tale pamwe | Fudeni pamwe nombili |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Oipatifo oyo tai ulike kutya oudano oudjuu unene: okuteelela olule taku monika kwa fa okupyakidila, ha okudiladila, okutya lwoikando “Ihandi dulu”, okusundula oshikwashina kokule, ile omapuko oo tae mu udifa nai. Oipatifo oyo tai ulike kutya otashi dulika u kale upu unene: okweefa, ile ye ta ti owa fa wounona. Ngeenge osho sha ningwa, shi fimaneka ndele to lundulula u ye kusha shimwe tashi monika sha kula, ngaashi okukonga eendjovo, oupuzzel wefano lashili, ile okupopya kombinga yefano loilonga yaye yonale.
 
-## How do I turn a game into a conversation?
+## Ohandi shitukifa ngahelipi oudano eenghundana?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Longifa efano keshe onga eshivo lokupopya, ndele to tambula keshe eshi ta ti onga enyamukulo liwa. Komapata mahapu, osho oshitukulwa shiwa unene shokudana.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Pula omapulo a manguluka ehe na enyamukulo la puka.** "Oshike to mono?" "Oshilipipo wa hokwa?" "Lombwele nge kombinga yokombitha ya fa ei."
+- **Hokolola tete.** "Inakulu wange okwa li e na ombwa ya fa ei." Ehokololo loye otali mu ningile shipu a yandje laye.
+- **Landula ehokololo tali lunduluka.** Ngeenge efano loshihauto otali eta ehokololo lolweendo, ehokololo olo oilonga. Efa oudano wa kanghama.
+- **Ino konakona ngeenge oshili.** Mokudimbuluka, eenghundana diwa oda fimana shi dulife ouyelele wa yuka filufilu. Ngeenge ehokololo ola lunduluka okudja kushikula, hafela omukalo mupe.
+- **Longifa omatwomukumo e li mo.** [Finish the Saying](/games/finish-the-saying/) konima youtumbulilo keshe ohau landula netwomukumo lokukundafana, na [Conversation Cards](/games/conversation-cards/) okwa ningilwa naanaa oshinima eshi. [Photo Pairs](/games/photo-pairs/) ohai longifa omafano eni oukwaneumbo, oo luhapu haa eta omahokololo mahapu.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Omadiladilo amwe otae hangwa momawiliko etu kombinga ya [oilonga yokudimbuluka](/activities/reminiscence/) nomayele [okupopya nawa](/caregiving/communication-tips/).
 
-## When should we stop?
+## Otu na okuxulifa po naini?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Xulifa po poipatifo yotete yololoko ile youpyakadi, nokuli hasho sha wapala kanini fimbo inashi fika. Alzheimer's Association otai ti xulifa po ile lundulula oshilonga ngeenge elitulemo tali shuna pedu ile oupyakadi tau londo.
 
-Watch for:
+Tala:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- okuyawn, okwiinyongamena ile omesho taa i kokule noshikwaelelo;
+- okweendifa olutu, okuyambuka po, ile okupula okuya;
+- okufuda mokule, omanyamukulo maxupi, ile "Ame inandi dula eshi";
+- okudenga keshe pamwe ile okusundula oshikwashina kokule;
+- omahodi, ehandu, ile elunduluko lomhepo louladi.
 
-How to stop well:
+Nghee to xulifa po nawa:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Xulifa noshinima shipu.** Okufaafana kumwe kwaxuuninwa oko ta dulu okuninga, ile efano laxuuninwa okutala.
+- **Shi ninga shi kale kombinga yoye.** "Onda pumbwa otee. Natu xulife apa?" otashi kelele ediladilo kutya ina ninga nawa.
+- **Lundulukila kushinima shokolutu ile shokungungumaneka.** Okweenda kanini, okalya, okupeta oikutu ile omusika.
+- **Tya sha shiwa.** "Onda hafela oku shi ninga pamwe naave." Kape na etumbulo molwa "okuyamukula mondjila", ohafo ashike lokukala pamwe.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Okuxulifa po diva, okulundulula omalongekido, ile okweefa oudano ndele tamu kala omutumba pamwe, aishe oyo oi li oizemo iwa.
 
-## Can we play in a group or over a video call?
+## Ohatu dulu okudana mongudu ile okupitila meengodi dovidiyo?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Heeno, nelongekido linini la wedwa po. Mongudu, kaleni ovanhu vanini, kaleka ovakwafi popepi naavo tave va pumbwa, ndele to hoolola oudano u na elitulemo limwe la yela. [Picture Bingo](/games/picture-bingo/) oi na oukaati vokunyanyangidwa nomwiifani wokoikwaelelo komangudu. Tala [oilonga yomangudu meenhele dokufila oshisho](/activities/care-home-groups/) u mone omayele amwe.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Okupitila meengodi dovidiyo, omunhu e li meengodi ota dulu okuyelifa efano ofimbo umwe e li mondunda ta ulike nota denge. Kaleka eengodi di fupi nodi shiivike. Ewiliko letu kombinga [yeengodi noividiyo](/activities/phone-and-video-calls/) oli na omayele amwe.
 
-## What if a game just isn't working?
+## Oshike ngeenge oudano itau longo nandenande?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Omafiku amwe kape na sha tashi kwata, naasho kashi fi edidiliko loye ile laye. Tuva oudano ndele to kendabala vali pefimbo limwe mefiku, oudano u lili, ile uhe na oudano nandenande. Oilonga ihapu iwa kai na sha noshikwaelelo: omusika, okupeta oitwalilo, okutala membo lomafano, ile okweenda kanini. Tala [omadiladilo oilonga](/activities/ideas/) u mone shihapu.

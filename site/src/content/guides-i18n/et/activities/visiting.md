@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Dementsusega inimese külastamine hooldekodus või haiglas"
+seoTitle: "Dementsusega inimese külastamine: mida teha ja kaasa võtta"
+description: "Mida teha, kui külastate dementsusega inimest hooldekodus, hooldekeskuses või haiglas: mida kaasa võtta, lihtsad tegevused, lühikesed külastused ja lahkumine."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Kui külastate dementsusega inimest hooldekodus või haiglas, hoidke kõik
+  lihtsana: öelge saabudes oma nimi, võtke kaasa midagi ühist, näiteks fotod,
+  muusika või lemmiksnäkk, ja tehke koos üks lihtne asi. Lühikesed ja
+  regulaarsed külastused lähevad sageli paremini kui pikad ja harvad. Mõelge
+  ette rahulik ja tuttav hüvastijätt, et lahkumine oleks teile mõlemale
+  kergem.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Tervitage inimest nimepidi ja öelge, kes te olete, et tal poleks vaja seda ise välja mõelda: „Tere, ema, siin on Sinu tütar Susan.”"
+  - "Võtke kaasa üks või kaks asja, mida koos jagada, näiteks fotoalbum, lemmikmuusika, pehme tekk või töötajate poolt lubatud näks."
+  - "Lühikesed ja regulaarsed külastused lähevad sageli paremini kui pikad ja harvad. Teie kohalolu on olulisem kui see, mida te ütlete."
+  - "Haiglas andke töötajatele inimese kohta ühe lehekülje pikkune infoleht ja rääkige arstile kohe kõigist äkilistest muutustest."
+  - "Mõelge lahkumine ette: öelge, kui kaua saate jääda, kasutage iga kord sama hüvastijättu ja lahkuge ilma pikemalt viivitamata."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Mida peaksin dementsusega inimest külastades kaasa võtma?"
+    a: "Võtke kaasa midagi, mida koos jagada, mitte midagi, millest on vaja rääkida. Hästi sobivad väike fotoalbum, tema lemmiklaulude esitusloend, pehme tekk, kätekreem, ajakiri vana hobiga seotud teemal või töötajate poolt lubatud näks. Hooldekodus võivad perefotod ja tuttavad esemed aidata ka toas rohkem kodutunnet luua."
+  - q: "Kui kaua peaksin dementsusega inimest külastades jääma?"
+    a: "Õiget pikkust ei ole. Paljud pered leiavad, et lühemad ja sagedasemad külastused toimivad paremini kui pikad ja harvad, sest inimene võib kiiresti väsida ega pruugi meeles pidada, kui kaua te jäite. Jälgige väsimuse märke ja lahkuge siis, kui külastus on veel hea."
+  - q: "Mida ma ütlen, kui ta tahab koju minna?"
+    a: "Vastake tundeile, mitte sõnadele. „Tahan koju minna” tähendab sageli „Ma ei tunne end mugavalt ega turvaliselt”. Võite öelda: „Rääkige mulle oma kodust”, vaadata koos fotosid või pakkuda jalutuskäiku või näksimist. Vaidlemine või selgitamine, miks ta lahkuda ei saa, tekitab tavaliselt rohkem rahutust."
+  - q: "Mis siis, kui ta mind ära ei tunne?"
+    a: "See võib haiget teha, aga püüdke teda mitte parandada ega küsida: „Kas Te ei tea, kes ma olen?” Tutvustage end soojalt ja lihtsalt ning nautige koos oldud aega. Paljud inimesed rõõmustavad seltskonna üle ja tunnevad külastuse soojust ka siis, kui nad ei saa aru, kes te olete."
+  - q: "Kuidas saan haiglasviibimise ajal aidata?"
+    a: "Olge inimese juures nii palju kui saate, aidake tal süüa ja juua ning võtke kaasa tuttavaid esemeid, näiteks fotosid. Andke töötajatele leht, kus on kirjas tema päevakava, eelistatud nimi, meeldimised, mittemeeldimised ja valu märgid. Rääkige arstile kohe, kui inimene tundub äkitselt halvem või teistsugune, sest äkiline segasus võib viidata terviseprobleemile."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Dementsusega lähedase inimese külastamine hooldekodus, hooldekeskuses või haiglas võib tekitada palju tundeid. Teil võib olla küsimusi, mida öelda, mida kaasa võtta või kas külastusel on üldse tähendust, kui inimene seda hiljem ei mäleta. Külastusel on tähendus. National Institute on Aging märgib, et Alzheimeri tõvega inimesed [rõõmustavad sageli seltskonna üle](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ka siis, kui nad ei mäleta, kes külastaja on. Sellel lehel on praktilised sammud enne külastust, selle ajal ja pärast seda ning eraldi nõuanded haiglasviibimise ajaks.
 
-## How do I get ready for a visit?
+## Kuidas ma külastuseks valmistun?
 
-A little planning makes the visit easier for both of you.
+Väike planeerimine teeb külastuse teile mõlemale lihtsamaks.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Valige sobiv aeg.** Dementia Australia soovitab külastada siis, kui inimene on tavaliselt kõige virgem, mis paljude inimeste puhul on hommikul või keskpäeva paiku. Family Caregiver Alliance soovitab uurida asutuse päevakava ja külastada pigem [vabal ajal kui tegevuste ajal](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Rääkige töötajatega.** Küsige, kuidas inimesel täna läinud on, ning uurige toidu, lemmikloomade või koos väljas käimise reeglite kohta.
+- **Pange kokku väike külastuskott.** Piisab ühest või kahest asjast, mida koos jagada (vt nimekirja allpool).
+- **Mõelge välja mõned teemad.** Inimesel ei pruugi olla uudiseid jagada, seega võtke oma teemad kaasa: pereuudised, ilm, spordivõistlus või naljakas lugu.
+- **Seadke endale ootused.** Mõni külastus on soe ja jutukas. Teine on vaikne või raske. Mõlemad on tavalised.
 
-## What should I bring?
+## Mida peaksin kaasa võtma?
 
-Bring things to share, not things that test. Good choices include:
+Võtke kaasa asju, mida koos jagada, mitte asju, mis kontrollivad mälu. Sobivad valikud on näiteks:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Väike fotoalbum** suurte ja selgete fotodega. Märkige fotode taha nimed töötajate jaoks.
+- **Esitusloend** lemmiklauludega telefonis, koos lihtsate kõrvaklappide või väikese kõlariga.
+- **Midagi pehmet hoida,** näiteks tuttav tekk, sall või kampsun.
+- **Kätekreem** õrnaks kätemassaažiks, kui inimene puudutust naudib.
+- **Ajakiri või pildiraamat** vana huvi kohta, näiteks aiandus, autod, linnud või kokkamine.
+- **Lemmiksnäkk**, kui töötajad ütlevad, et see on ohutu.
+- **Tuttavad esemed tuppa.** Family Caregiver Alliance soovitab lilli, taimi, perepilte ja kunsti või suurt plakatit mineviku perefotodega.
+- **Tahvelarvuti**, et koos peres fotosid vaadata või rahulikku mängu mängida.
 
-## What can we do together during a visit?
+## Mida saame külastuse ajal koos teha?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Koos millegi tegemine võtab vestluselt surve maha. Dementia Australia soovitab vaadata fotosid, teha lihtsat käsitööd, istutada taimi, kuulata muusikat, jagada näksimist või jalutada hoovis. Veel mõni idee:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Vaadake fotosid.** Öelge, mida näete: „Vaadake, milline müts.” „See rand näeb ilus välja.” Laske inimesel vestlust juhtida. Vältige küsimust „Kes see on?”
+2. **Kuulake muusikat ja laulge.** Tuttavad laulud võivad tuju tõsta ja luua ühise hetke ka siis, kui rääkimine on raske.
+3. **Tehke lühike jalutuskäik.** Family Caregiver Alliance soovitab asutuses ringi jalutada, eriti aias, kui see on olemas. Sobib ka jalutuskäik ratastooliga.
+4. **Tehke kätemassaaži.** Natuke kreemi ja aeglased silitused kätele võivad rahustavalt mõjuda.
+5. **Aidake hoolitsemisel.** Dementia Australia mainib juuste kammimist, küünte lakkimist või lemmikriiete selga aitamist, kui inimene seda naudib.
+6. **Mängige lihtsat mängu.** Family Caregiver Alliance soovitab kaarte, doominot või seda, mida inimene varem mängis. Tahvelarvutis saab mängu [Picture Pairs](/games/picture-pairs/) mängida nii, et pildid jäävad nähtavale ja taimerit ei ole. [Photo Pairs](/games/photo-pairs/) teeb Teie valitud fotodest sobitamismängu ja fotod jäävad Teie brauserisse.
+7. **Vaadake koos midagi.** Family Caregiver Alliance soovitab komöödiaid ja vanu filme. Isegi kui inimene loost päris hästi aru ei saa, saate istuda lähestikku ja aega koos veeta.
+8. **Lugege valjusti.** Lühike luuletus, lemmiklõik või kiri pereliikmelt.
+9. **Lihtsalt istuge koos.** Käest kinni hoidmine või vaikselt koos istumine on tõeline külastus. Alzheimeri Tõve Ühing märgib, et on täiesti sobiv, kui te ei tea, mida öelda, ning et kõige olulisem on Teie kohalolu.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) võivad aidata siis, kui jututeemad saavad otsa. Igal kaardil on pilt ja avatud küsimus.
 
-## How should I talk during the visit?
+## Kuidas peaksin külastuse ajal rääkima?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Tutvustage end iga kord.** „Tere, isa, siin on Sinu poeg Mark.” NIA soovitab külastajatel vestluse alustamiseks end lühidalt tutvustada.
+- **Lähenge eestpoolt** ja istuge silmade kõrgusel.
+- **Ärge parandage ega vaidlege.** NIA soovitab külastajatel inimest mitte parandada, kui ta eksib või midagi unustab.
+- **Olge kannatlik**, kui sõnu on raske leida. Andke piisavalt aega.
+- **Vastake tunnetele.** Kui inimene tundub kurb või mures, võtke seda enne teema vahetamist kuulda.
+- **Vältige kontrollküsimusi**, näiteks „Kas Te mäletate mind?” või „Mida Te lõunaks sõite?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Lisateavet leiate meie [suhtlusnõuannetest](/caregiving/communication-tips/).
 
-## What do I do when they say "I want to go home"?
+## Mida ma teen, kui ta ütleb „Tahan koju minna”?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Vastake sõnade taga olevale tundele (meie juhend [sellest, kui keegi küsib pidevalt koju mineku järele](/caregiving/asking-to-go-home/), selgitab seda lähemalt). Family Caregiver Alliance selgitab, et „Tahan koju minna” tähendab tavaliselt „Ma ei tunne end mugavalt”, ja soovitab vastuseid nagu „Rääkige mulle oma kodust” või „Mis on Teil kodus kõige lemmikum?” Dementia Australia lisab, et „kodu” võib tähendada aega või kohta, kus inimene tundis end turvaliselt, näiteks lapsepõlve.
 
-Try:
+Võite proovida järgmist:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- võtke tunne kuulda: „Tundub, et Teil on kodust igatsus.”
+- pakkuge lohutust puudutuse kaudu, kui see on teretulnud
+- vaadake fotosid või rääkige pere kodust
+- pakkuge jalutuskäiku, jooki või näksimist
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Vältige vaidlemist või selgitamist, miks ta lahkuda ei saa. See aitab harva ja tekitab sageli rohkem rahutust.
 
-## How long should a visit be?
+## Kui pikk peaks külastus olema?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Lühemad ja sagedasemad külastused toimivad sageli paremini. Family Caregiver Alliance märgib, et inimene tavaliselt ei mäleta, kas te jäite viieks minutiks või viieks tunniks, ja soovitab, et kolm lühikest külastust nädalas võivad olla paremad kui üks pikk. Dementia Australia ütleb, et õiget külastuste arvu ega õiget pikkust ei ole.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Esimestel nädalatel pärast kolimist hooldekodusse soovitab Family Caregiver Alliance külastada sageli ja seejärel leida järk-järgult regulaarne rütm. Küsige töötajatelt, mida nemad märkavad.
 
-## How do I leave without upsetting them?
+## Kuidas ma lahkun ilma teda ärritamata?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Lahkumine võib olla kõige raskem osa. Dementia Australia soovitab järgmist:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Öelge saabudes, kui kaua saate jääda.** „Ma saan tund aega jääda, siis lähen poodi.”
+- **Kasutage mõnda tegevust loomuliku lõpuna.** „Kui see laul saab läbi, siis lähen.”
+- **Ajastage lahkumine söögi või tegevuse ajaga** või paluge töötajatel inimesel millegi muuga tegelema hakata.
+- **Hoidke hüvastijätt lühike ja kasutage iga kord sama viisi.** Pikemalt viivitamine, vabandamine või „veel natuke jäämine” võib tulevased hüvastijätud raskemaks muuta.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Pärast lahkumist on normaalne tunda kurbust. Laske endal puhata. Kui inimene muutus ärritunuks, saavad töötajad tal tavaliselt varsti jälle rahuneda aidata.
 
-## Visiting someone with dementia in the hospital
+## Dementsusega inimese külastamine haiglas
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Haigla on lärmakas, võõras ja täis võõraid inimesi, mis võib dementsusega inimese jaoks olla väga raske. NIA juhend [dementsusega inimese viimisest haiglasse](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) soovitab järgmist:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Laske kellelgi inimese juures viibida** nii palju kui võimalik: pereliikmel, usaldusväärsel sõbral või palgatud hooldajal.
+- **Andke töötajatele isikuinfoleht**, kus on kirjas inimese päevakava, eelistatud nimi, meeldimised ja mittemeeldimised, võimalikud ärritajad ning mitteverbaalsed valu märgid. Pange koopiad tuppa ja õdede jaama.
+- **Aidake söömisel ja joomisel.** Vanemad inimesed võivad haiglas alatoituda. Avage pakendeid, aidake söögikordadel, sööge koos ja pakkuge juua.
+- **Võtke kaasa lohutavad esemed**, näiteks fotod või vaimsed esemed.
+- **Vähendage müra.** Lülitage teler välja ja tehke telefoni ning sisehäälestuse heli vaiksemaks.
+- **Proovige rahustavaid rituaale**, näiteks rahulikku muusikat, lugemist, palvetamist, laulmist või vanade piltide vaatamist.
+- **Julgustage liikuma** nii palju, kui see on ohutu ja töötajatega kooskõlastatud.
+- **Rääkige arstile kohe, kui inimene tundub äkitselt halvem või teistsugune.** NIA selgitab, et äkilist ja tugevat segasust, mida nimetatakse deliiriumiks, võivad põhjustada näiteks infektsioon, palavik, vedelikupuudus või ravimite kõrvaltoimed, ning see vajab arstiabi.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Lühike ja rahulik külastus tuttava näo ja lemmiklauluga võib olla haiglapäeva kõige lohutavam osa.
 
-## Bringing children on a visit
+## Lastega külastamine
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Lapsed võivad tuua palju soojust. Valmistage neid ette lihtsate ja ausate sõnadega, hoidke külastus lühike ja andke neile ülesanne, näiteks joonistuse näitamine või foto ulatamine. NIA soovitab, et lapsed ja Alzheimeri tõvega inimesed võivad nautida koos lihtsaid tegevusi, näiteks fotoalbumi vaatamist või muusika kuulamist. Dementia Australia soovitab pakkida väikese koti näkside või vaiksete tegevustega, et väiksemad lapsed oleksid hõivatud.
 
-## Take care of yourself too
+## Hoolitsege ka enda eest
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Külastamine võib olla väsitav ja emotsionaalne, eriti kui inimene on palju muutunud. On täiesti sobiv külastada harvemini, kui te seda vajate, võtta toeks kaasa sõber või lahkuda raskel päeval varem. Ideid enda eest hoolitsemiseks leiate lehelt [hooldaja enesehool](/caregiving/caregiver-self-care/). Kui elate kaugel, vaadake meie juhendit [telefoni- ja videokõnede](/activities/phone-and-video-calls/) kohta.

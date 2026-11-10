@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Na Sundowning: Tiko Sautu ni Yakavi me Vukei Ira era Bula vata kei na Dementia"
+seoTitle: "Na Sundowning: Tiko Sautu ni Yakavi"
+description: "iTuvatuva malumu, veisau ena rumu, kei na itaviqaravi vakacegu era rawa ni vakamalumalumutaka na sega ni dau tiko vinaka ena yakavi, kei na gauna me qiri kina na vuniwai."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Na sundowning na sega ni tiko vinaka, na veilecayaki, se na cudru e tekivu se
+  ca cake ena yakavi se ena yakavi levu. Na veika era rawa ni vukea e okati
+  kina na ituvatuva tudei ni siga, na rarama ni siga kei na itaviqaravi ena
+  mataka, na lailai ni moce ena yakavi, na lailai ni kofi, na rarama vinaka ena
+  loma ni vale ni bera na butobuto, na vale vakacegu, kei na itaviqaravi
+  malumu me vaka na sere, na itaba, se na lobia ni isulu. Na itovo vou se ca
+  cake e gadrevi me raici mai na vuniwai.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Na sundowning e kena ibalebale na sega ni tiko vinaka se na veilecayaki e tekivu se ca cake ni sa butobuto mai."
+  - "Vakayacora na itaviqaravi bibi, na ilakolako, kei na sisili ena mataka se ena yakavi lailai."
+  - "Na rarama ni siga, na taubale ena veisiga, na lailai ni moce ena yakavi, kei na lailai ni kofi ena yakavi era rawa ni vukea na yakavi me vinaka cake."
+  - "Waça na rarama ni bera na butobuto, vakalailaitaka na rorogo, ka tovolea na itaviqaravi vakacegu ka kila vinaka."
+  - "Vola e dua na ivolatukutuku me kunei kina na veika era vakavuna, ka tiko ga vakacegu ka veivakacegui ni tekivu na sega ni tiko vinaka."
+  - "Raici na vuniwai ke vou se ca cake na itovo: na mosi, na mate ni manumanu lalai, se na wainimate era rawa ni vakaitamera."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Na gauna cava ni siga e dau yaco kina na sundowning?"
+    a: "E dau tekivu se ca cake ena yakavi se ena itekitekivu ni yakavi levu, ni sa butobuto mai. Na kena gauna e duidui vei ira yadua, o koya gona e yaga kina na volai ni dua na ivolatukutuku lekaleka me dua se rua na macawa."
+  - q: "Na itaviqaravi cava era vukea na sundowning?"
+    a: "Na itaviqaravi vakacegu, kilai vinaka, ka rawarawa era dau vinaka ena yakavi: na sere malumu, na raica ni itaba, e dua na parokaramu se yaloyalo taleitaki, na lobia ni isulu, e dua na taubale lekaleka, se na kana vata. Maroroya na itaviqaravi vou se dredre me baleta na itekitekivu ni siga."
+  - q: "E rawa beka ni ivakatakilakila ni dua na leqa ni bula na sundowning?"
+    a: "E rawa ni vakacacani mai na leqa ni bula me vaka na mosi, na mate ni manumanu lalai me vaka na mate ni sala ni wai, na leqa ni moce, se na revurevu ni wainimate. Kevaka e vou, e vakasauri, se sa ca cake tiko na sega ni tiko vinaka, veitaratara kei na nona vuniwai na tamata o qaravi tiko."
+  - q: "Me’u taroga beka na vuniwai me baleta na wainimate ni sundowning?"
+    a: "Oya e dua na veivosaki mo cakava kei na vuniwai. Na Alzheimer's Association e kaya ni dau vinakati taumada na iwalewale sega ni wainimate, kei na wainimate me baleta na sega ni tiko vinaka ena yakavi me nanumi ga ni oti na vakasamataki ni leqa kei na kena yaga. Na tabana oqo e sega ni solia na ivakasala ni wainimate."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+E vuqa na matavuvale era raica na ivakarau vata ga: e dau tiko vinaka na mataka, ia ni sa toso na yakavi, na tamata o qaravi tiko ka bula vata kei na dementia e tekivu me sega ni tiko vinaka, lomaleqa, veilecayaki, se cudru. Ena rawa ni taubale voli, kerea me “lako i vale” dina ga ni sa tiko e vale, se rarawa vakarawarawa. Na ka oqo e dau vakatokai me sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+E sega ni dua wale ga na iwali, ia na veisau ena ituvatuva ni siga, na rumu, kei na mataqali itaviqaravi o solia era rawa ni vakamalumalumutaka na yakavi. Na tabana oqo e vakasoqona vata na ivakasala rawarawa, sega ni wainimate, mai na National Institute on Aging kei na Alzheimer's Association. Oqo e sega ni ivakasala ni vuniwai. Kevaka e vou, e vakasauri, se sa ca cake tiko na itovo, veivosaki kei na nona vuniwai na tamata o qaravi tiko.
 
-## What is sundowning?
+## Na cava na sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Na sundowning na sega ni tiko vinaka, na lomaleqa, na cudru, se na veilecayaki e tekivu se ca cake ni sa butobuto mai, ena yakavi se ena itekitekivu ni yakavi levu. Na [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) e kaya ni oca vakalevu ena rawa ni vakalevutaka na sega ni tiko vinaka ena yakavi.
 
-## What can make late-day restlessness worse?
+## Na cava e rawa ni vakacacana cake na sega ni tiko vinaka ena yakavi?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+E vuqa na ka era rawa ni vakaitamera, e so na gauna era yaco vata. Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) e cavuta na veika me vaka na:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- oca ni oti e dua na siga taucoko;
+- vanua vou se veivakurabuitaki;
+- “ua ni yago e loma” e sega ni veidonui, ka vakavuna me moce ena siga ka yadra ena bogi;
+- lailai na rarama kei na yaloyalo ni ka, ka rawa ni veivakurabuitaki;
+- rogoca na lomaleqa se na rarawa mai vei ira era voleka;
+- gadreva na moce lailai, ka dau yaco vei ira na qase.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+Na NIA e kuria tale na veika era vakavuna na sega ni tiko vinaka raraba, me vaka na mosi, na rarawa ni lomana, se na lomaleqa, na lailai ni moce, na dredre ni lako ki vale lalai, na rorogo levu se levu na tamata, kei na so na wainimate se na nodra veicurumaki.
 
-## How can I plan the day to make evenings calmer?
+## Au na tuvatuva vakacava na siga me vakamalumalumutaka na yakavi?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Biuta na ka bibi ena itekitekivu ni siga ka maroroya na yakavi me malumu ka kilai. Na NIA kei na Alzheimer's Association ruarua erau vakatura na ituvatuva tudei ni veisiga. E dua na ivakaraitaki ni siga mo veisautaka me vaka na nomu:
 
-| Time | What may help |
+| Gauna | Na cava e rawa ni vukea |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Mataka | Veitaratara kei na vuniwai, sisili, ilakolako, kei na itaviqaravi e gadrevi kina na kaukauwa, ena gauna era dau yadra vinaka kina e levu |
+| Mataka levu | Gauna e tautuba se volekata e dua na katubaleka e yaco kina na rarama ni siga; e dua na taubale se itaviqaravi tale eso |
+| Sigalevu | E dua na kana levu cake (na Alzheimer's Association e vakatura e dua na kana levu ena sigalevu ka mamada ena yakavi) |
+| iTekitekivu ni yakavi | Vakacegu kevaka e gadrevi, ia levea na moce balavu ena yakavi |
+| Loma ni yakavi | iTaviqaravi vakacegu ka kilai vinaka; e dua na kakana lalai kei na gunu; sega na kofi |
+| Ni bera na butobuto | Waça na rarama ena loma ni vale ka sogota na ilatilati ni bera ni butobuto |
+| Yakavi levu | Kakana mamada, sere malumu, lailai na veivakauqeti, e dua na ituvatuva tudei ni moce |
 
-A few specific points from the sources:
+Eso na tikina bibi mai na ivurevure:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Rarama ni siga.** Na NIA e vakatura mo tuvatuva na gauna e tautuba se volekata e dua na katubaleka me yaco kina na rarama ni siga ena veisiga.
+- **Toso ni yago ena veisiga, ia kua ni sivia.** Saga mo cakacaka vakayago ena veisiga ia kua ni tuvatuva e vuqa na itaviqaravi, e kaya na NIA.
+- **Gunu ena yakavi.** Levea na alakaolo kei na gunu e tiko kina na kofi, me vaka na kofi se na kola, ena yakavi (NIA). Na Alzheimer's Association e cavuta tale ga na tavako.
+- **Moce.** Kua ni vakayacora na moce balavu kei na moce lekaleka ena yakavi (NIA). Na Alzheimer's Association e vakatura mo vakalailaitaka na moce ena siga kevaka e leqa na moce ena bogi.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Me baleta na levu tale na ivakasala ni kena bulia e dua na siga tudei, raica na [itaviqaravi ni ituvatuva ni veisiga](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Au na cakava vakacava me vakacegu na vale ena yakavi?
 
-Reduce noise, add light and keep familiar things close.
+Vakalailaitaka na rorogo, vakuria na rarama, ka maroroya na ka era kilai voleka.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Rarama vinaka ka taucoko.** Na Alzheimer's Association e vakatura me rarama vinaka na vale ena yakavi. Vakararamataka na vanua ni bera ni basika na yaloyalo ni ka.
+- **Lailai na rorogo.** Bokoca se vakalailaitaka na retioyaloyalo kei na retio, ka vakalailaitaka na ilakolako mai se na cakacaka ni vale ena gauna oqo. Na Alzheimer's Association e vakatura mo vakalailaitaka na veivakauqeti ena yakavi me vaka na retioyaloyalo, na cakacaka ni vale, kei na sere e rorogo.
+- **Ka era vakacegui kina.** Na NIA e vakatura na sere malumu kei na kena maroroi na iyaya taleitaki kei na itaba ena vale.
+- **Raici na tiko vinaka.** Na Alzheimer's Association e vakatura mo raica na mosi, na viakana, na viagunu, na dredre ni lako ki vale lalai, na sinai ni vure e sinai, na oca, na mate ni manumanu lalai, kei na vakacacani ni kuli, ka maroroya na rumu ena ivakarau ni katakata vinaka.
+- **Na nomu lomana.** Era dau rogoca na tamata na lomaleqa. Na NIA e vakatura mo vakaberaberataka ka saga mo vakacegu kevaka na nomu lomaleqa e vakuria na dredre.
 
-## What calm activities can we do in the late afternoon?
+## Na itaviqaravi vakacegu cava me keirau cakava ena yakavi?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Digitaka na itaviqaravi era kilai vinaka, sega ni vakatotolo, ka rawarawa me cegu. Na Alzheimer's Association e vakatura na itaviqaravi vakacegu me vaka na sere malumu, na itaba se e dua na yaloyalo taleitaki, kei na taubale vata me vakamalumalumutaka na sega ni tiko vinaka. Na NIA e vakatura e dua na kakana lalai se gunu, e dua na parokaramu taleitaki ena retioyaloyalo, na sere, e dua na taubale, na wiliwili, se e dua na cakacaka rawarawa ni vale me vaka na lobia ni isulu.
 
-Ideas to try:
+Na vakasama mo tovolea:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Lobia vata na isulu.** Na NIA e vakatura na mataqali cakacaka rawarawa ni vale oqo. Na taulo e rawarawa me tauri, ka na itaviqaravi e tiko na kena icavacava matata.
+2. **Vakasaqara na sere taleitaki.** Na sere era kilai vinaka mai na gauna era gone kina, ena domo lailai. Na lagasere vata e vinaka. Eso tale na vakasama ena [itaviqaravi ni sere](/activities/music/).
+3. **Raica na itaba.** E dua na ivola ni itaba, se eso na itaba ni matavuvale ena [Photo Pairs](/games/photo-pairs/) ka laivi tu na itaba me raici, ena rawa ni kauta mai na veivosaki vakacegu.
+4. **Taubale lekaleka.** Ena lomanibai, ena gaunisala, se ena sala ni vale, ni bera ni butobuto.
+5. **Wasea e dua na kakana lalai kei na gunu.** E dua na ka rawarawa, katakata, ka sega na kofi, mo drau tiko vata ena teveli.
+6. **Veiganiti malumu.** Na [Picture Pairs](/games/picture-pairs/) ena va na tiki ka raici tu na itaba e rawarawa me tekivu ka rawarawa me cegu.
+7. **Boro ni roka.** Na [Coloring](/games/coloring/) ena sikirini se ena dua na tabana volai, ka sega na inaki me vakacavari.
+8. **Raica ka veivosaki.** Na [Conversation Cards](/games/conversation-cards/) e vakaraitaka e dua na iyaloyalo kei na taro wavoki. Na raica wale ga e rauta.
+9. **Cegu ni icegucegu.** Na [Calm Breathing](/games/calm-breathing/) e dua na cegu malumu ka vakacegu o tekivuna ka ceguva ga o kemuni.
+10. **iTaviqaravi ni liga.** Na vavawasei ni iqu se na soka, na vakamalumalumutaki ni iubi malumu, se na tauri ni dua na ka kilai vinaka. Raica na [itaviqaravi ni veika e vakila na yago](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Levea na qito vou, na ilakolako osooso, kei na ka e gadreva kina e levu na nanuma se na vakasama ena yakavi. Maroroya oqori me baleta na mataka.
 
-## What should I do when restlessness starts?
+## Na cava me’u cakava ni tekivu na sega ni tiko vinaka?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Tiko vakacegu, veivakacegui, ka dusimaka vakamalua. Na NIA e vakatura mo vosa vakacegu, rogoca na nona lomaleqa, levea na veiba, vakadeitaka ni sa tiko maroroi, ka vakayagataka na tarai malumu kevaka e vukea. Oti oya, tovolea me vukica na nona vakasama: e dua na kakana lalai, e dua na gunu, na sere, se e dua na taubale.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Na Alzheimer's Association e vakatura na vosa me vaka na “O sa tiko maroroi eke” kei na “Au rarawa ni ko sa rarawa tiko,” ka vakasalataki me vakuria na rarama, vakaberaberataka, ka vakalailaitaka na veivakauqeti. Kua ni vakavolivolita, vakasoqoni vakavoleka, se tarova na nona toso, se veiba kei koya.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Kevaka e yaco me kaukauwa na nona ivakarau, na NIA e vakasalataki mo tiko yawa vakamatau me yacova ni cegu na ivakarau oya. Ena leqa tubukoso, qiri na 911 ka vakamacalataka ni bula vata kei na dementia na tamata oya.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Na noda ivakamacala me baleta na [veivosaki](/caregiving/communication-tips/) kei na [na cava me caka ni kaya o koya me sega](/caregiving/when-they-say-no/) e tiko kina eso tale na vosa ni vakacegu.
 
-## How do I find the triggers?
+## Au na kunea vakacava na veika era vakavuna?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Vola e dua na ivolatukutuku lekaleka me dua se rua na macawa. Na Alzheimer's Association e vakatura mo vola na ka e yaco ni bera na gauna ni sundowning me kunei kina na veika era vakavuna. Vola na gauna e tekivu kina na sega ni tiko vinaka, na ka e yaco ena aua e liu, na moce, na kakana kei na gunu, na ilakolako mai, na rorogo, kei na rarama. Kauta na ivolatukutuku ki na vuniwai. Na NIA e kaya ni na volai ni veisau ni itovo ena rawa ni vukei ira na dauqaravi kei na dauveiqaravi ni bula me ra kila e dua na ivakarau.
 
-## When should I call a doctor about sundowning?
+## Na gauna cava me’u qiri kina na vuniwai me baleta na sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Veitaratara kei na nona vuniwai na tamata o qaravi tiko kevaka e vou na sega ni tiko vinaka, e ca cake vakasauri, se yaco vata kei na veisau tale eso. Na NIA e kaya ni na veisau vakasauri se veisau totolo ni itovo, vakabibi ni oti e dua na mate ni manumanu lalai se na veisau wale ga oqo ni wainimate, me tukuni vakatotolo ki na vuniwai.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Kerea na vuniwai me raica na veika era rawa ni vakadredretaka na yakavi. Na Alzheimer's Association e cavuta na leqa ni yago me vaka na mate ni manumanu lalai ena sala ni wai, na sega ni rawa ni taqomaki na wai, na yava sega ni tiko vinaka, kei na leqa ni icegu ni bogi, ka vakatura mo taroga na gauna cava ni siga e vinaka duadua me baleta na wainimate yadua. Na NIA e vola na mosi, na dredre ni lako ki vale lalai, kei na revurevu se veicurumaki ni wainimate me tiki ni veika era rawa ni vakavuna na sega ni tiko vinaka.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Na Alzheimer's Association e kaya ni dau vinakati na iwalewale sega ni wainimate me baleta na leqa ni moce e semati ki na Alzheimer's, kei na wainimate me baleta na sega ni tiko vinaka ena yakavi me nanumi ga kevaka era sega ni yaga oqori, ni oti na vakasamataki ni leqa kei na kena yaga. Na vakatulewa oya e nona na vuniwai. Kua ni tekivuna, ceguva, se veisautaka e dua na wainimate, wainimate ni moce, se ivakalesui ka sega na ivakasala ni vuniwai.
 
-## How do I get through the evenings myself?
+## Au na vosota vakacava na yakavi?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Na yakavi e rawa ni tiki ni siga dredre duadua vei dua e qaravi tiko. Kevaka e rawa, kerea e dua na lewe ni matavuvale, itokani, se dauveivuke saumi me qarava na yakavi ena vica na siga ena dua na macawa, mada ga me dua na aua. Na noda ivakamacala me baleta na [qaravi koya ena gauna o qaravi tiko](/caregiving/caregiver-self-care/) e vola na veivuke ni vakacegu kei na laini ni veivuke galala 24/7 mai na Alzheimer's Association.

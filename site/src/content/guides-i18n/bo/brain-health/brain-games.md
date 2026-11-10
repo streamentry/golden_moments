@@ -1,33 +1,28 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "བློ་ཡིག་རྩེད་མོས་བརྗེད་ནད་སྲུང་ཐུབ་མེད་དམ། ཞིབ་འཇུག་གི་གནས་ཚུལ་ཅི་འདུག"
+seoTitle: "བློ་ཡིག་རྩེད་མོས་བརྗེད་ནད་སྲུང་ཐུབ་མེད་དམ།"
+description: "བློ་ཡིག་རྩེད་མོ་དང་བརྗེད་ནད་ཀྱི་བར་གྱི་ཞིབ་འཇུག་གི་གནས་ཚུལ། ཤེས་རིག་སྤྱོད་སྦྱོང་། ACTIVE ཞིབ་འཇུག་དང་ FTC གྱི་Lumosity གྱི་དོན་ཚན་ཡང་ཡང་ཚིག་གསལ་པོས་བཤད་པ།"
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  བློ་ཡིག་རྩེད་མོ་ཅིག་ཀྱང་བརྗེད་ནད་སྲུང་ཐུབ་པར་ཤེས་པ་མ་ཐོབ་པ་ཡིན། ཁ་ཏོན་གྱི་བློ་སྦྱོང་གིས་ཁོང་ཚོས་སྦྱོང་བཞིན་པའི་ལས་འགན་ཁོ་ན་ལ་ཡག་པོ་བྱེད་ནུས་པ་ཡིན། ACTIVE ཞིབ་འཇུག་ལས་མྱུར་ཚད་སྦྱོང་བའི་ཁ་སྣོན་བསྐྱར་ཐེངས་དང་བཅས་པ་ཞིག་གིས་ལོ་20 ནང་བརྗེད་ནད་ངོས་འཛིན་ཉུང་བ་ནས་འབྲེལ་བ་སྟོན་པ་ཡིན་ཀྱང་ཁྱབ་ཚད་ཆུང་བ་ཡིན། བརྗེད་ནད་ཡོད་པའི་མི་ལ་ཚོགས་སྡེའི་ཤེས་རིག་སྤྱོད་སྦྱོང་གིས་ཐུན་ཚོད་ཐུང་ངུ་དང་ཆུང་ཆུང་ཕན་ཐོགས་སྟོན་ཡོད། རྩེད་མོ་ནི་དགའ་སྤྲོ་དང་མཉམ་བསྡོམས་ཀྱི་དོན་ལ་བདེན་པ་ཡིན།
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "བློ་ཡིག་རྩེད་མོའི་ཞིབ་འཇུག་ལས་མངོན་པ་ཡིན་ཏེ་མི་ཚོས་སྦྱོང་བའི་ལས་འགན་ལ་ཡག་པོ་བྱེད་ཀྱང་ཉིན་རེའི་ཐོན་ཀར་ཡང་དེ་སྦྱར་བའི་བདེན་པ་ཉུང་ཤོས་ཡོད།"
+  - "ACTIVE ཞིབ་འཇུག་ནང་། མྱུར་ཚད་སྦྱོང་བ་ཁ་སྣོན་བསྐྱར་ཐེངས་དང་བཅས་པ་ཁོ་ནས་ལོ་20 ནང་བརྗེད་ནད་ངོས་འཛིན་ཉུང་བར་མངོན་ཡོད། མྱུར་ཚད་སྦྱོང་བ་ཁ་སྣོན་མེད་པ་དང་། དྲན་ཤེས་དང་རྟོག་པའི་སྦྱོང་བ་ལ་འདི་མ་མཐོང་།"
+  - "2016 ལོར་ Lumosity ཀྱི་ཁང་པས་ FTC ཡི་གཏམ་ལ་མཐུན་ཞིང་ བརྗེད་ནད་ཕྱིས་ལ་བསྒྲིང་བའི་བསྒྲགས་བཤད་གཏན་འཁེལ་བྱེད་པའི་ཤེས་རིག་མེད་པའི་གཏམ་ཞིག་ལ་ $2 million ཡི་ཁྲལ་ལན་བྱས།"
+  - "བརྗེད་ནད་ཆུང་བ་ནས་འབྲིང་བའི་མི་ལ་། ཚོགས་སྡེའི་ཤེས་རིག་སྤྱོད་སྦྱོང་ཚོགས་པས་བསམ་བློ་དང་། ཚིག་སྒྲུབ་དང་ཕྱི་ནང་འདྲི་སྤྲོད་ལ་ཐུན་ཚོད་ཐུང་ངུ་དང་ཆུང་ཆུང་ཕན་ཐོགས་སྟོན་ཡོད།"
+  - "Golden Moments ཀྱི་རྩེད་མོ་ནི་དགའ་སྤྲོ་དང་མཉམ་དུ་ཕྱེད་པའི་དུས་ཚོད་ལ་ཡིན། འདི་ནི་གསོ་སྦྱོང་མ་ཡིན་པ་དང་ བརྗེད་ནད་སྲུང་བ་ངམ་ཕྱིར་བཅོས་པ་ཡང་མ་ཡིན།"
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "བློ་ཡིག་རྩེད་མོས་ཨལ་ཛ་ཧའི་མར་ སྲུང་ཐུབ་མེད་དམ།"
+    a: "བློ་ཡིག་རྩེད་མོ་ཅིག་ཀྱང་ཨལ་ཛ་ཧའི་མར་ཡང་ན་གཞན་གྱི་བརྗེད་ནད་སྲུང་ཐུབ་པར་ཁ་ཤས་ཀྱིས་གྲུབ་པ་མ་ཡིན། ཨ་མེ་རི་ཀའི་རྒྱལ་གཞུང་གི་རྒས་རབས་ཞིབ་འཇུག་ཡོངས་ཁྱབ་ཀྱིས་ཁ་ཏོན་གྱི་བློ་སྦྱོང་ཉིན་བོད་ཀྱི་འབྲེལ་ཡོད་ཀྱི་ཞིབ་འཇུག་གི་ནུས་པ་ཡང་བདེན་པ་ཉུང་ཞེས་བཤད། རྩེད་མོ་ནི་ཐུན་ཚོད་ལ་དགའ་བའི་ཐབས་ཡིན།"
+  - q: "ACTIVE ཞིབ་འཇུག་གིས་མྱུར་ཚད་སྦྱོང་བ་དང་བརྗེད་ནད་ལ་ཅི་རྟོགས་བྱུང་།"
+    a: "2026 ལོའི་དཔྱད་གཞི་ལ་ ACTIVE ཞུགས་མཁན་ 2,021 ལ་ལོ་20 གྱི་ནང་ Medicare ཀྱི་ཡིག་ཚང་དང་སྦྲེལ་ཡོད། མྱུར་ཚད་སྦྱོང་བ་དང་ཁ་སྣོན་བསྐྱར་ཐེངས་གཅིག་ལྷག་ཡོད་པའི་མི་ཚོ་ནི་སྦྱོང་བ་མེད་པའི་སྡེ་ལས་བརྗེད་ནད་ངོས་འཛིན་ཉུང་བ་ཡོད། མྱུར་ཚད་སྦྱོང་བ་ཁ་སྣོན་མེད་པ་དང་། དྲན་ཤེས་ཡང་ན་རྟོག་པའི་སྦྱོང་བ་ལ་ཁྱད་པར་གསལ་པོ་མ་མཐོང་།"
+  - q: "བརྗེད་ནད་ཡོད་པའི་མི་ལ་རྩེད་མོ་དང་ཁ་སྐོང་ལས་ཕན་སམ།"
+    a: "མི་དེ་ལ་དགའ་བ་ཡོད་ན་ཕན་ཐོགས་ཡོད་ཀྱང་ཁྱད་པར་ཅན་ཡིན། ཚིག་རྩེད་དང་ཁ་སྐོང་། རོལ་མོ་དང་གཏམ་བཤད་ནས་བཟུང་བའི་ཚོགས་སྡེའི་ཤེས་རིག་སྤྱོད་སྦྱོང་ལ་ཐུན་ཚོད་ཐུང་ངུ་དང་ཆུང་ཆུང་ཕན་ཐོགས་སྟོན་ཅིང་། འདྲི་སྤྲོད་དང་མཉམ་འབྲེལ་ལ་ལྷག་པའི་ཕན་ཡོད་པ་མཐོང་། དགའ་སྤྲོ་ནི་ཞིབ་བཤེར་གྱི་འབྲས་བུ་ལས་ལྷག་པའི་དམིགས་ཡུལ་ཡིན།"
+  - q: "FTC ཀྱིས་ Lumosity ལ་ཁྲལ་ལན་ཅིས་གཏོང་བ་ཡིན།"
+    a: "2016 ལོར་ Federal Trade Commission ཀྱིས་ Lumos Labs ལ་ཚུལ་མེད་ཀྱི་བསྒྲགས་བཤད་ཁ་ཤས་ཀྱི་སྐོར་ཡོད་པར་བསྡུར་བ་ཡིན། ཁོང་ཚོས་ཕྱིས་ལ་བསྒྲིང་བ་དང་བརྗེད་ནད་ལ་ཡང་ཤེས་རིག་གི་གཞི་མེད་པར་འདོན། ཁང་པས་ $2 million ཁྲལ་ལན་གཏོང་ཞིང་། ཕྱིས་ལ་བསྒྲགས་བཤད་ཀྱི་ཆ་ལ་བདེན་པའི་ཤེས་རིག་ཡོད་དགོས་པར་གྲོས་མཐུན་བྱས།"
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +53,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+བློ་ཡིག་རྩེད་མོ་ཡོད་ཁ་ནས་ཡོད། ཁ་ཤས་ཀྱིས་ཁྱེད་ཀྱི་བློ་ཡིག་ཉིན་ཤས་ཆུང་བར་བཏོན་ཡོད་པར་སྨྲ། ཁྱེད་ཀྱིས་སྐྱོབ་སྐྱོང་བྱེད་པའི་མི་ལ་བརྗེད་ནད་ཡོད་ན། ཡང་ན་རང་གི་དྲན་ཤེས་ལ་སེམས་ཁོངས་ན། དེ་ཚོ་རྩེད་ན་ཕན་ཐོགས་ཡོད་མེད་ཀྱི་དྲི་བ་འཆར་བ་ནི་ཉེ་བར་མི་ཤེས་ཀྱི་ཡིན། ཞིབ་འཇུག་གི་གནས་ཚུལ་ཅི་འདུག་ཅེས་ཞིབ་བཤེར་བྱ་ནི། ཕན་ཡོན་ཡོད་ཚུལ་དང་ཕན་མེད་ཚུལ་གཉིས་ཆར་བསྟན།
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+འདི་ནི་སྤྱིའི་གནས་ཚུལ་ཡིན་གྱི་སྨན་གྱི་བསྟན་བཅོས་མ་ཡིན། བཤད་པ་གཤམ་གྱི་ [སྨན་གྱི་ཁྲལ་མེད་ཚིག་](/medical-disclaimer/) ལ་ལྟོས།
 
-## Do brain games prevent dementia?
+## བློ་ཡིག་རྩེད་མོས་བརྗེད་ནད་སྲུང་ཐུབ་མེད་དམ།
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+བློ་ཡིག་རྩེད་མོ་ཅིག་ཀྱང་བརྗེད་ནད་སྲུང་ཐུབ་པར་ཤེས་པ་མ་ཐོབ་པ་ཡིན། ཨ་མེ་རི་ཀའི་རྒས་རབས་ཀྱི་ཞིབ་འཇུག་ལྷན་ཁང་ (NIA) ཀྱིས་མི་ཚོ་ཁྱད་པར་གྱི་ནུས་པའི་ཤེས་རིག་ཁ་ཏོན་དང་ཡང་ན་དྲན་ཤེས་ཡག་པོར་བྱེད་ཐུབ་ཟེར་བའི་བསྒྲགས་བཤད་ལ་བག་ཡོད་ཀྱིས་ལྟ་ཅེས་གསུངས། ཁ་ཏོན་གྱི་ཤེས་རིག་སྦྱོང་བ་ནི་ཞིབ་འཇུག་ནང་སྟོན་པའི་སྦྱོང་བའི་འབྲས་བུ་དང་ཆ་མཐུན་པ་ཡིན་པར་ཞིབ་བཤེར་ལ་གསལ་མེད་ [NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)།
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+དེས་རྩེད་མོ་ཕན་མེད་པར་མ་ཟད། དགའ་སྤྲོ་དང་མཉམ་དུ་ཕྱེད་པ་དང་ཉིན་རེའི་རིམ་པ་ལ་དོན་ཡོད་པ་ཡིན་གྱི། བརྗེད་ནད་ལས་སྲུང་བའི་དོན་ནི་མ་ཡིན།
 
-## What is "near transfer", and why does it matter?
+## "ཉེ་ལམ་སྤོ་བ" ཞེས་པ་ཅི་ཡིན་ཞིང་ཅིའི་ཕྱིར་གལ་ཆེ་བ་ཡིན།
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+ཁྱོད་ཀྱིས་ལས་འགན་གཅིག་སྦྱོང་ནས་ཁོ་ནའི་ནང་ལ་ཡག་པོ་ཐོབ་པ་ནི་ཡང་ཡང་མཐོང་། ཞིབ་འཇུག་པ་ཚོས་དེ་ལ་སྦྱོང་བའི་འབྲས་བུ་ཞེས་བོད་སྒྲུབ་བྱེད། དྲི་བ་ཆེ་ཤོས་ནི་འདི་ནི་ཚོགས་ཁྱབ་ཀྱི་སྤྱོད་ལམ་ལ་སྤོ་གི་ཡོད་མེད་ཡིན། དེ་ནི་ཉེ་ལམ་སྤོ་བ་ (near transfer) དང་། ཉིན་རེའི་ཐོན་ཀར་ལ་སྤོ་བ་ (far transfer) ཞེས་བོད་སྒྲུབ་བྱེད། ཐ་ན་ཤེས་པ་ཞིག་ནི་ཞེས་ཚབས་ཀྱི་གནས་ཚུལ་དང་ཚོང་གི་དངུལ་སྐྱོང་ལ་ལྟོས།
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016 ལོར་ཞིབ་བཤེར་ཆེ་བ་ཞིག་གིས་བློ་ཡིག་སྦྱོང་ཁང་ཚོས་རང་གི་ཤེས་རྟོགས་ཀྱི་གཞི་ཆ་ཤོས་ཡིན་ཟེར་བའི་ཞིབ་འཇུག་ཚོ་ལ་བལྟས། ཁོང་ཚོས་སྦྱོང་བའི་ལས་འགན་ལ་མི་ཚོ་ཡག་པོར་འགྱུར་བ་མང་པོ་མཐོང་ཡང་། ཉེ་འབྲེལ་ལས་འགན་ལ་ཉུང་ཤོས་དང་། ཉིན་རེའི་རྟོག་པ་ལ་ཡག་པོ་བྱེད་པ་ཉུང་ཤོས་ཡོད་པར་རྟོགས། ཞིབ་འཇུག་མང་པོའི་བཟོ་གཞི་ཡང་ཁ་ཤས་ཀྱིས་ཐག་གཅོད་ཁ་ཤས་ཀྱི་སྐབས་ལ་ཉེན་ཁ་ཡོད་ [Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)།
 
-## What do reviews say about computer brain training?
+## Cochrane ཞིབ་བཤེར་ཚོས་གློག་ཆས་ཀྱི་བློ་སྦྱོང་ལ་ཅི་ཞེས་བཤད།
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane ཞིབ་བཤེར་ཚོས་ཞིབ་འཇུག་ཡག་པོ་ཆ་ཚང་སྡུད་ནས་ཡོད་པ་ཞིག་ཡིན། དེ་ཚོས་གློག་ཆས་ཀྱི་སྦྱོང་བ་ཞེས་པ་ཟླ་བ་ 12 གམ་ཁ་ཤས་ཡོད་པ་ལ་ལྟ་བ་ཡིན།
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **ལོ་65 དང་འགོ་མིག་གི་ཡོན་ཏན་ཡོད་པའི་མི་ཚོ་:** ཞིབ་འཇུག་ 8 དང་མི་ 1,183 ཡོད། བདེན་པའི་ཚད་ནི་དམན་པ་ཞིག་ཡིན། སྦྱོང་བ་ཐེངས་གཅིག་གི་རྗེས་སུ་ཐོག་མར་ཕན་ཐོགས་ཆུང་ཆུང་སྟོན་ཡོད་ཀྱང་རྒྱུན་ལ་ཡོད་པའི་ཐག་གཅད་ཡོད་མེད་མ་གསལ། ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/))
+- **དྲན་ཤེས་ཆུང་ཆུང་ལ་གནོད་པ་ཡོད་པའི་མི་ཚོ་:** ཞིབ་འཇུག་ 8 དང་མི་ 660 ཡོད། བརྗེད་ནད་ཀྱི་མཐར་འཁྲིས་ཀྱི་ཡིག་ཚང་ཡོད་ཀྱང་ཞིབ་འཇུག་གང་ཡང་གསལ་བཤད་མ་བྱས། བདེན་པའི་ཚད་ཡང་དམན་ཏེ་གཏན་འཁེལ་གྱི་སྙིང་པོ་མེད། ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/))
 
-## What did the ACTIVE trial find?
+## ACTIVE ཞིབ་འཇུག་གིས་ཅི་རྟོགས་བྱུང་།
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE ནི་ཨ་མེ་རི་ཀའི་ཞིབ་འཇུག་ཆེ་ཆུང་ཞིག་ཡིན་ཏེ་ 1998 ལོར་འགོ་བཙུགས། ཁ་ཡིག་ནང་ལོ་65 དང་འགོ་མིག་ 2,802 དེ་ཚོ་རང་རྐྱང་བསྡད་པ་དང་། དྲན་ཤེས་ཀྱི་ཆེ་ཆུང་གི་གནོད་པ་མེད་པའི་མི་ཚོ་ཡིན། ཁོང་ཚོ་དེ་ཡང་མྱུར་ཚད་སྦྱོང་བ། དྲན་ཤེས་སྦྱོང་བ་དང་། རྟོག་པའི་སྦྱོང་བ་སོགས་ཀྱི་མཐུན་ཚོགས་ཆུང་ཆུང་ཞིག་ནང་འདེམས་སུ་སྤྲོད། ཡང་ན་རྣམ་པ་མེད་པའི་སྡེ་ཞིག་ལ་འཇོག་གོ། སྦྱོང་བ་ལ་ཟླ་བ་ 5 དང་ 6 གི་ནང་ཐེངས་ 10 ཡན་ཆད་བྱས། ཐེངས་ཆེ་ཤོས་ལ་ཞུགས་པའི་མི་ཁ་ཤས་ལ་ཟླ་བ་ 1 དང་ 3 ཙམ་ལ་ཁ་སྣོན་བསྐྱར་ཐེངས་ **booster sessions** ཞེས་ཐུག་པ་ཞིག་གིས་ཕྱིས་སུ་འདེམས་ནས་སྤྲོད།
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+མྱུར་ཚད་སྦྱོང་བ་ནི་སྣང་བ་དང་ཤེས་སྐད་སྒྲིག་པའི་ཆེ་ཆུང་ལ་མགྱོགས་པོས་བལྟ་བ་དང་། དེ་ཚོ་ཐུབ་ནས་ཡག་པོར་འགྲོ་བ་དང་མཚུངས་སུ་ཆེ་ཆུང་འགྱུར་བ་ཡིན།
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026 ལོར་ཞིབ་འཇུག་པ་ཚོས་ཞུགས་མཁན་ 2,021 དེ་ལོ་ 20 གྱི་ Medicare ཡིག་ཚང་དང་སྦྲེལ་བྱས། ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)) ཁོང་ཚོས་རྙེད་པ་ནི་འདི་ཡིན།
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **མྱུར་ཚད་སྦྱོང་བ་དང་ཁ་སྣོན་བསྐྱར་ཐེངས་གཅིག་ལྷག:** སྦྱོང་བ་མེད་པའི་སྡེ་ལས་བརྗེད་ནད་ངོས་འཛིན་ཉུང་བ། (hazard ratio 0.75 ཡིན་ཏེ་ཕྱོགས་སྐོར་ 25% ཙམ་ཉུང་བ་ཞེས་བཤད།)
+- **ཁ་སྣོན་མེད་པའི་མྱུར་ཚད་སྦྱོང་བ:** ཉུང་བར་མ་མཐོང་།
+- **དྲན་ཤེས་ཡང་ན་རྟོག་པའི་སྦྱོང་བ:** བརྗེད་ནད་ངོས་འཛིན་ལ་གནད་དོན་ཆེན་པོ་མེད།
+- **སྦྱོང་བའི་སྡེ་ཚན་ཡོངས་ཀྱི་བསྡུར་བ་:** སྦྱོང་བ་མེད་པའི་སྡེ་ལས་ཉུང་བར་ཕྱོགས་པ་ཡོད་ཀྱང་བདེན་པའི་ཐག་གཅོད་མ་ཐོབ།
 
-### The limits of this finding
+### ཞིབ་འཇུག་ཀྱི་མཐའ་མཚམས།
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- འདི་ནི་**མྱུར་ཚད་སྦྱོང་བའི་དམིགས་བསལ་རིགས་ཅིག་** ཁ་སྣོན་བསྐྱར་ཐེངས་དང་བཅས་པ་ལ་མ་ཟད། བློ་ཡིག་རྩེད་མོ་སྤྱིར་བཏང་ལ་ཡང་མ་ཡིན།
+- གནད་དོན་གསལ་པོ་ནི་**ཆ་ཤས་** (དང་པོའི་ཐེངས་ཁ་ཤས་ཚར་བ་དང་ཁ་སྣོན་བསྐྱར་ཐེངས་གནང་བའི་མི་ཚོ་) ལས་བྱུང་བ་ཡིན། མྱུར་ཚད་སྦྱོང་བའི་སྡེ་ཡོངས་ནས་མ་ཡིན།
+- བརྗེད་ནད་ངོས་འཛིན་ནི་ **Medicare ཀྱི་ཁྲལ་ཡིག་ཚང་གི་ནང་གི་ནད་ཀྱི་ཨང་རྟགས** ཡིས་བརྟག་ཡོད་གྱི་མི་རེ་རེ་ནས་ལྟ་བ་མ་ཡིན། ཡོད་མཁན་གྱི་ནང་ཁ་ཤས་ནི་ Medicare Advantage ཡི་ནང་ཡོད་པས་ཡིག་ཚང་ཆ་ཚང་མེད་ཅིང་ཁ་ཤས་བསྐྲུན་ཡོད།
+- ཞུགས་མཁན་ཐོག་མར་ཡང་དྲན་ཤེས་ཀྱི་གནོད་པ་གསལ་པོ་མེད། འདི་གིས་**བརྗེད་ནད་ཡོད་པའི་མི་** ལ་རྩེད་མོ་ཅི་ཡིན་ནམ་ཡིན་བ་ལ་ཡང་ཁས་ལེན་མི་ཐུབ།
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+དེ་ནི་རྒྱུ་མཚན་ཡོད་པའི་ཞིབ་འཇུག་ཅིག་ཡིན་ཀྱང་རྩེད་མོ་ཅིག་ཀྱང་བརྗེད་ནད་སྲུང་ཐུབ་པའི་སྒྲུབ་བྱེད་མ་ཡིན།
 
-## What did the FTC say about Lumosity?
+## FTC ཀྱིས་ Lumosity ལ་ཅི་ཞེས་གསུངས།
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016 ལོ་ཟླ་དང་པོར་ Lumos Labs ཀྱིས་ Lumosity ཀྱི་བཟོ་མཁན་ལ་ Federal Trade Commission ཀྱི་བསྒྲགས་བཤད་ནོར་བའི་མཐོལ་ཚོད་ལ་ $2 million ཁྲལ་ལན་གཏོང་ནས་གྲོས་མཐུན་བྱས། FTC ཀྱིས་ཁང་པས་ཤེས་རིག་གི་གཞི་མེད་པར་ཁོང་གི་རྩེད་མོས་ལས་ཀ་དང་སློབ་གྲྭའི་ཐོན་ཡོན་སྡུད་ཐུབ་ཟེར་བ་དང་། ལོ་རྒྱུས་དང་འབྲེལ་བའི་དམའ་བ་ཆུང་ཆུང་། བརྗེད་ནད་དང་ཨལ་ཛ་ཧའི་མར་ལ་ཡང་བསྒྲིང་ཐུབ་ཟེར་བའི་བསྒྲགས་བཤད་བྱས་པ་ལ་གནས་ཚུལ་བཀོད། གནང་བཅའ་ནང་ཁང་པས་མ་འོངས་ལ་འདྲའི་བསྒྲགས་བཤད་མ་བྱེད་གོང་ལ་བདེན་པའི་ཤེས་རིག་གནས་ཡོད་དགོས་པར་བཅད། ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program))
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+ཁྱིམ་ཚང་ལ་ཤེས་བྱ་ནི། བརྗེད་ནད་སྲུང་ནི་ཡང་ན་དྲན་ཤེས་སྲུང་ནི་ལ་བསྒྲགས་པའི་རྩེད་མོ། ཡིག་ཆ། ཡང་ན་ཆ་ཚང་གང་ཡང་ཡིན་ཀྱང་བག་ཡོད་ཀྱིས་ལྟ་དགོས།
 
-## Can games help someone who already has dementia?
+## བརྗེད་ནད་ཡོད་པའི་མི་ལ་རྩེད་མོས་ཕན་ནམ།
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+ཉིན་ཞིག་ཡག་པོར་ཕན་ཐོགས་ཆེ་ཞིང་ཁྱད་པར་ཡིན། ཤེས་རིག་སྤྱོད་སྦྱོང་ནི་ཞིབ་འཇུག་མང་ཤོས་ཀྱི་ཐབས་ཡིན། དེ་ནི་མཉམ་འདུ་ཐོག་གི་དགའ་བའི་ཆ་བྱེད་ཀྱི་སྤྱོད་ལྷུགས་ཡིན། དཔེར་ན་གཏམ་བཤད། དྲན་སྐུལ། ཚིག་རྩེད། རྩེད་མོ་དང་རོལ་མོ་སོགས་ཡིན། ཡོངས་སུ་ཆུང་བའི་ཚོགས་སྡེ་ནང་ལ་སྟོན་པ་ཞིག་གིས་འདྲེན་ཡོད།
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023 ལོར་ Cochrane ཞིབ་བཤེར་ཞིག་གིས་ཞིབ་འཇུག་ 37 དང་མི་ 2,766 ཡོད་པ་ལ་བལྟས་པ་ནས་ བརྗེད་ནད་ཆུང་ནས་འབྲིང་ཡོད་པའི་མི་ཚོ་ལ་ལྟ་བ་ཡིན། ([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- བསམ་བློའི་བརྟག་དཔྱད་ལ་**ཐུན་ཚོད་ཐུང་ངུ་དང་ཆུང་ཆུང་ཕན་ཐོགས་** (བདེན་ཚད་འབྲིང་པོ་);
+- འདྲི་སྤྲོད་དང་མཉམ་འབྲེལ་ལ་**གཏན་འཁེལ་གྱི་ཆ་ལ་ཕན་ཐོགས་གསལ་པོ་** (བདེན་ཚད་མཐོ་བ། ཞིབ་འཇུག་ཉུང་ངུའི་སྒོ་ནས་);
+- ཚེ་སྲིད་ཡོན་ཏན་ཡང་ན་སེམས་ཚོར་དང་སྤྱོད་ལམ་ལ་**ཆུང་ཆུང་ཕན་ཐོགས་**།
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+ཕན་ཐོགས་ཀྱི་ཚད་ཆེ་ཤོས་ནི་ཟླ་བ་ 10 ཙམ་གྱི་ལས་རིམ་ཀྱི་རྗེས་སུ་མྱུར་ཚད་ལ་བཟུང་བ་ཡིན། ཐུབ་ནས་རྒྱུན་སྲིད་པ་ལ་ལྟ་བ་ཉུང་ངུ་ཡིན། ཤེས་རིག་སྤྱོད་སྦྱོང་ནི་ཚོགས་སྡེའི་ལས་རིམ་ཞིག་ཡིན་པས། འདི་ནི་མི་གཅིག་གིས་ཐབ་སྣེ་ལ་རྩེད་མོ་ཞིག་རྩེད་པ་ལ་རང་བཞིན་དུ་མི་འཇུག།
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024 ལོའི Lancet Commission ཀྱིས་ཡང་བརྗེད་ནད་ཡོད་པའི་མི་ཚོ་ལ་ཡིད་ཆེས་དང་དོན་གནད་སྐྱོང་བའི་ལས་རིམ་ཡོད་ཆེན་པོ་ཡིན་ཟེར། ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0))
 
-## What are games actually good for?
+## རྩེད་མོ་ངོ་མ་ལ་ཅི་ཡོན་ཏན་ཡོད།
 
-When chosen well, games can offer:
+ལེགས་པར་འདེམས་ན་རྩེད་མོས་འདི་ལྟ་བུ་གྲོགས་བྱེད་ཐུབ།
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **དགའ་བ།** ཉིན་ཞིག་གི་ཕྱེད་ཀ་ཞིག་ཀྱང་རང་ཉིད་ཀྱི་ཕྱིར་ཡང་ཡག་པོ་ཡིན།
+- **མཐུད་འབྲེལ།** གཅིག་གི་གཡས་གཡོན་ལ་ཕྱེད་པས་གཏམ་འགྲེལ་ལ་ཤོད་མི་ཐུབ་པའི་སྐབས་ཀྱང་མཉམ་སྤྱོད་ཀྱི་ཐབས་ཡོད། དཔེར་ན། [མཉམ་དུ་རྩེད་པའི་ཐབས](/caregiving/how-to-play-together/) ལ་ལྟོས།
+- **རིམ་པ།** ཉིན་རེ་དུས་ཚོད་གཅིག་ཏུ་འདྲ་བའི་རྩེད་མོས་སེམས་ལ་ངལ་སོས་སྤྲོད།
+- **ཁོ་རང་ལ་བརྟེན་པ།** མི་དེ་ལ་ལེགས་པར་ཐུབ་པའི་ལས་ཀ་ལ་སྦྱར་བའི་རྩེད་མོས་ཁོང་ཚོར་བརྟག་དཔྱད་ལ་མ་ཟད་ཐུབ་པའི་སེམས་ཚོར་སྐྱེད།
+- **གཏམ་བཤད།** པར་ཡང་ན་ཤེས་པའི་ཚིག་ཅིག་གིས་བདེ་སྐྱིད་ཀྱི་གཏམ་ཞིག་ཕྱེ་ཆོག [དྲི་བའི་པར་ཤོག](/games/conversation-cards/) ཡང་ན་ [ཚིག་མཇུག་སྒྲིལ](/games/finish-the-saying/) ལ་བསམ།
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+ཤོག་ལྷེ་བ་དང་། གྲངས་ཁྲིས་དང་། གྱེན་འགྲོ་ཆད་ལ་བརྟེན་པ་སོགས་རྩེད་མོ་དང་མཚུངས་མེད་པ་ནི་ཚད་པ་ཡིན། མི་དེས་ངལ་བ་སྣང་ན་ཚུར་བཏང་། གོང་ལས་ཐག་རིང་དུ་མ་བརྩི་བར་སྐྱིད་པོ་བརྩེ་བ་ཡང་ལེགས་པའི་ཐོན་ཀར་ཡིན། [རྩེད་མོ་ཐོག་ཚོན་བསྡུ་བ](/caregiving/choosing-apps-and-games/) ལ་ཐུན་ཐུང་ཡོད།
 
-## Where Golden Moments fits
+## Golden Moments ཇི་ལྟར་འཇུག
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments གི་རྩེད་མོ་ཚོ། དཔེར་ན་[པར་ཕྲན་ཕྱེད་པ་](/games/picture-pairs/)། [པར་ཕྲན་ཤོ་སྒྲིག་](/games/picture-puzzle/) དང་ [ཡི་གེ་ཚེག་རྩོམ་བསྒྲིགས](/games/word-search/) སོགས་ནི་དགའ་བ་དང་མཉམ་དུ་བསྐྱོད་པའི་དུས་ཚོད་ལ་གྲུབ། དེ་ལ་དུས་ཚད་ཡང་མེད། གྲངས་ཁྲིས་ཀྱང་མེད། དེ་ནི་**གསོ་སྦྱོང་** མ་ཡིན་པ་དང་། བརྗེད་ནད་ **སྲུང་ནི་ཡང་ན་ཚུར་བཏང་ནི་** ཡང་མ་ཡིན། ཡང་ནམ་ཡང་ཁྱེད་ལ་བསྟུན་མ་ཐུབ་པའི་བཤད་པ་ལ་སྒོ་མ་ཕྱེ་བར་ཐོག་མ་ནས་གསལ་པོ་བཤད་པ་ཡིན།
 
-## Talk with a doctor
+## སྨན་པ་དང་འདྲི་བ།
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+ཁྱེད་རང་ངམ་སྐྱོབ་སྐྱོང་བྱེད་པའི་མི་ཞིག་ལ་དྲན་ཤེས་ཀྱི་འགྱུར་བ་ཅི་རིགས་ཡོད་ན། ཁ་ཏོན་ལ་བརྟེན་པ་ལས་སྨན་པར་ཞུ། སྨན་པས་ཁྲོ་བ་ཕྱིར་བཅོས་ཐུབ་པའི་རྒྱུ་མཚན་ལ་བལྟས་ཤིང་། ཤེས་རིག་ཡག་པོ་ཡོད་པའི་ཐབས་ཀྱི་སྐོར་ཁ་བརྡ་བྱེད་ཐུབ། དཔེར་ན་ཁྲག་ཀྱི་ཚད་སྲུང་བ་དང་ཉན་པ་བརྟག་པ། མང་བ་ལ་ [བརྗེད་ནད་སྲུང་ཐུབ་མེད་དམ།](/brain-health/can-dementia-be-prevented/) ལ་ལྟོས། ཉེ་བར་ཤེས་མེད་པའམ་གནས་ཚུལ་ཅི་ཡང་ཡིན་ན་ཕྱིར་མགྱོགས་པོ་ཞིག་ལ་སྨན་བཅོས་རོགས་སུ་སོང་།

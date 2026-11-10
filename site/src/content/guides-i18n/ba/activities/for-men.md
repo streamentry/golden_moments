@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Деменциялы ир-атар өсөн шөғөлдәр"
+seoTitle: "Деменциялы ир-атар өсөн шөғөлдәр: тормошта булған идеялар"
+description: "Деменция менән йәшәгән ир-атар өсөн шөғөл идеялары: үткән эш, хоббиҙар һәм көнүҙәк тәртипкә нигеҙләнгән, һәр береһен хәүефһеҙ итеп үҙгәртеү кәңәштәре менән."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Деменция менән йәшәгән ир-ат өсөн иң яҡшы шөғөлдәр уның үҙ тормошонан килә:
+  ул эшләгән эш, яратҡан хоббиҙары һәм үҙе тотҡан көнүҙәк тәртип. Элекке офис
+  хеҙмәткәре ҡағыҙҙарҙы тәртипкә килтереүҙе ошатырға мөмкин, механик таҙа
+  инструменттар менән эшләүҙе, спорт фанаты иһә борондан таныш уйынды. Кемдең
+  нимә ҡыҙыҡлы булыуы төрлөсә, шуға күрә башлағыҙ кешенән, уның ир-ат булыуынан
+  түгел.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Башлағыҙ был ир-аттың үҙ тарихынан: уның эшенән, хоббиҙарынан, тәртибенән һәм ниндәй эш менән горурланыуынан."
+  - "Тормош маҡсаты булған эштәр, мәҫәлән, фурнитураны һортлау, машинаны йыуыу йәки ағасты шомартыу, күпмелер дәрәжәдә йыш ошай, класс шикелле тойолған шөғөлдәрҙән күрә."
+  - "Бөтә ир-ат та инструменттарҙы йәки спортты яратмай. Күптәре ашарға эшләргә, музыкаға, бağсаға, сәнғәткә йәки башҡаларҙы хәстәрләргә ярата. Һорағыҙ, күҙәтегеҙ һәм уның юлы буйынса барығыҙ."
+  - "Эш төрөндәге шөғөлдәрҙе хәүефһеҙ итеү өсөн үткер инструменттарҙы алып ташлағыҙ һәм күҙәтеү аҫтында булығыҙ, һәм һәләттәр үҙгәргән һайын уларҙы ябайлаштырығыҙ."
+  - "Баш тартырға хоҡуғы бар. Рольде тәҡдим итегеҙ, бурыс түгел, һәм икенсе көндө тағын бер ҡат телгә алығыҙ."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Деменция менән йәшәгән ир-атар нимәне ярата?"
+    a: "Бер генә исемлек юҡ, сөнки ир-аттарҙың ҡыҙыҡһыныуҙары кем менән генә булмаһын, айырым. Яҡшы башлау нөктәләре — уның үткән эше менән бәйле эштәр, мәҫәлән, ҡағыҙҙарҙы тәртипкә килтереү йәки болтдарҙы һортлау, шулай уҡ яратҡан хоббиҙары: балыҡ тотоу, машиналар, музыка, ашарға эшләү йәки спорт. Ул үҙе нимә эшләгәнен күҙәтегеҙ һәм шуға таянығыҙ."
+  - q: "Атайым төркөм шөғөлдәренән баш тарта. Нимә эшләй алам?"
+    a: "Күп кеше, ир-ат та, ҡатын-ҡыҙ ҙа, класҡа оҡшаған йәки балаларса тойолған шөғөлдәрҙән баш тарта. Эш тәҡдим итеп ҡарағыҙ: «Миңә был әйберҙәрҙе тәртипкә килтерергә ярҙам итә алаһығыҙмы?» Кесерәк төркөм йәки ике кеше араһындағы ваҡыт ҙа зур бүлмәгә ҡарағанда рәхәтерәк тойолорға мөмкин."
+  - q: "Уға инструменттар ҡулланырға рөхсәт итергә һуң?"
+    a: "Бары тик күҙәтеү аҫтында һәм хәүефһеҙ инструменттар менән генә. Электр инструменттарын, пычаҡтарҙы һәм бөтә үткер нәмәне алып ташлағыҙ, ә шөғөлдәр тәҡдим итегеҙ: ағас бүреһен шомартыу, таҙа фурнитураны һортлау йәки ҙур болтдарҙы ҡул менән тартыу. Alzheimer ассоциацияһы остахананан хәүефле әйберҙәрҙе алып ташларға киңәш итә, шулай итеп шомартыу кеҙҙәй генә хәүефһеҙ рәүештә ошарға мөмкин."
+  - q: "Ул профессионал булған. Ябай эштәр уны рәнйетмәҫ микән?"
+    a: "Улар эш итеп күрһәтелһә, рәнйетергә мөмкин. Эште реаль ярҙам итеп күрһәтегеҙ, взрослый материалдар ҡулланығыҙ, һәм уның элекке роленә яҡын нәмә һайлағыҙ, мәҫәлән, исемлекте тикшереү, файлды тәртипкә килтереү йәки почта конверттарын йыйыуҙа ярҙам итеү. Әгәр ул нимәлер бик оҫта эшләһә, бәйле, әммә башҡа шөғөл уны сағыштырыуҙан азыраҡ тойолдорор."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Кешеләр йыш ҡына «деменциялы ир-атар өсөн шөғөлдәр» тип эҙләй, сөнки йәмәғәт киңәш иткән ысулдар уларҙың тормошона тап килмәй. Был дөрөҫ борсолоу. Ләкин яуап — «ир-ат» шөғөлдәренең исемлеге түгел. Башлағыҙ был конкрет ир-аттан: ул нисек эшләгән, аҙнаның ял көндәрен нисек үткәргән, нимә уны файҙалы тойғанын. Ҡыҙыҡһыныуҙар һәркем өсөн төрлөсә. Күп ир-ат ашарға эшләргә, бағсаға, сәнғәткә йәки йырларға ярата, ә күп ҡатын-ҡыҙ машиналарҙы һәм бейсболды яратҡан.
 
-## How do I find activities he will actually enjoy?
+## Ул чынлап та ошай торған шөғөлдәрҙе нисек табырға?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Уның тормош тарихынан башлағыҙ. Alzheimer ассоциацияһы [көнүҙәк план](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) төҙөргә киңәш итә: кешенең яратҡан һәм ошамаған нәмәләренә, көслө яҡтарына, ҡыҙыҡһыныуҙарына һәм ул элек көнөн нисек ойоштороуына таянып. Үҙегеҙҙән һорағыҙ:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Уның эше ниндәй булған?** Офис, фермалар, завод, һөнәр, армия, һатыу, уҡытыу, машина ҡулланыу, йорт эштәре?
+- **Буш ваҡытында нимә эшләгән?** Балыҡ тотоу, карталар, ағас эшләү, спорт, сиркәү, музыка, ашарға эшләү, гаражда машина?
+- **Тәртибе ниндәй булған?** Һәр иртә кофе һәм гәзит? Һава торошон белеү? Шимбә көндө машина йыуыу?
+- **Уҙе башлаған эштәр ниндәй?** Ассоциация белдерә: кеше һораусыһыҙ эш башлаһа, мәҫәлән, идән һөрткәндә, ул эштәр көнүҙәк тәртипкә әйләнергә мөмкин.
+- **Ул нимәнән ҡасып тора?** Кемдер спорт ҡарарға ярата, ә кемдер уның тиҙлеге һәм тауышы менән борсола. Ул ҡасан шат, ҡасан борсолған йә асыуланған булыуын күҙәтегеҙ.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Ғаиләһе һәм иҫке дуҫтары менән дә һөйләшегеҙ. Улар көнүҙәк тормоштан юғалған ҡыҙыҡһыныуҙарҙы иҫләргә мөмкин.
 
-## Activity ideas based on past work
+## Элекке эшкә нигеҙләнгән шөғөл идеялары
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer ассоциацияһы асыҡ миҫал килтерә: элекке офис хеҙмәткәре тәңкәләрҙе тотҡыға һалыуҙы, почта конверттарын йыйыуҙа ярҙам итеүҙе йә эштәр исемлеген төҙөүҙе ошатырға мөмкин, ә элекке фермер йә бағсы ҡулдар аҫтында ергә эшләүҙе. Был фекер күп һөнәргә ҡағыла.
 
-| Past work | Activity ideas | Simpler version |
+| Элекке эш | Шөғөл идеялары | Ябайыраҡ вариант |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Офис йәки эшҡыуарлыҡ | Ҡағыҙҙарҙы папкаларға тултырыу, конверттарҙы маркалау, исемлекте тикшереү, өҫтәл тартмаһын тәртипкә килтереү | Конверттарҙы бер-бер артлы өйөү; ҡағыҙ ҡыҫтырғыстарҙы ҡорамға һалыу |
+| Һөнәр йәки механика | Таҙа гайкаларҙы, болтдарҙы һәм шайбаларҙы һортлау; ҙур болтдарҙы ҡул менән тартыу; инструмент каталогтарына ҡарау | Оҙонлоғо буйынса ике ҡәҙәхкә бүлеү |
+| Фермерлыҡ йә бағсылыҡ | Һыу һибеү, сәскәләрҙе ҡасыҡҡа ултыртыу, япраҡтарҙы грабли менән йыйыу, бағсаны ҡарау | Һеҙ эшләгәндә тышта ултырыу; орлоҡ пакеттарын тотоу |
+| Армия | Аяҡ кейемен ялтыратыу, тартманы тәртипкә килтереү, хеҙмәттән фотоларға ҡарау, әгәр ул оҡшатһа | Ул осорҙоң музыкаһын тыңлау |
+| Һатыу йәки хеҙмәт күрһәтеү | Ҡунаҡтарҙы ҡаршы алыу, уңдыҡтар таратыу, купондарҙы һортлау | Ишек янында ултырып, сәләм биреү |
+| Уҡытыу | Юғары тауыш менән уҡыу, китаптарҙы тәртипкә килтереү, һүрәттәрҙе темаға ҡарап һортлау | Һүрәт китабын бергә ҡарау |
+| Машина йәки транспорт | Карталарға йә иҫке машина журналдарына ҡарау, машина йыуыу | Ишек алдынан үткән машиналарға ҡарау |
+| Йорт һәм ғаилә | Кейем йыйыу, өҫтәл яңғыҙлау, аш әҙерләүҙә ярҙам итеү | Салфеткаларҙы тигеҙләү; болғатыу |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Ҡайһы бер хәтирәләр, мәҫәлән, армия хеҙмәте, көслө тойғолар уята ала. Уның юлы буйынса барығыҙ, үткәндәр тураһында һөйләшеүҙе яҡшы яҡтан тотоғоҙ, ә әгәр ул борсолһа, темаға йомшаҡ рәүештә күсегеҙ.
 
-## Activity ideas based on hobbies
+## Хоббиға нигеҙләнгән шөғөл идеялары
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Ағас эшләү.** Silk ағас бүреһен шомартыу йә ҡош йорто комплектын буяу. Alzheimer ассоциацияһы остахананан хәүефле материалдарҙы һәм инструменттарҙы алып ташларға тәҡдим итә, шулай итеп шомартыу кеҙҙәй генә рәхәт һәм хәүефһеҙ булыр.
+2. **Балыҡ тотоу.** Һеҙ ҡармаҡтарын алып ташланған балыҡсы ҡорамды һортлау, балыҡ журналдарына ҡарау йә бергә күлдең яғында ултырыу.
+3. **Машиналар.** Машина йыуыу, хромды ялтыратыу, классик машиналар фотоларына ҡарау йә пассажир булараҡ сәйәхәткә сығыу.
+4. **Спорт.** Классик уйынды йә иң яҡшы мизгелдәрен ҡарау, йомшаҡ туп ташлау, гольф туптарын ковер өҫтөнә һалыу йә бейсбол карталарын һортлау.
+5. **Карталар һәм уйындар.** Таныш карта уйыны, домино йә карталарҙы әйләндереп парын табыу. Күңелде түбән тотоғоҙ һәм иҫәп алып барыуҙы ташлағыҙ.
+6. **Музыка.** Уның үҫмер һәм егерме йәштәге йырҙары, яратҡан төркөм йә гимн. Ҡарағыҙ: [музыка шөғөлдәре буйынса ҡулланма](/activities/music/).
+7. **Ашарға әҙерләү һәм мангал.** Үҫемлектәрҙе йыуыу, һоусыны болғатыу, котлеттар формалағыҙ, һеҙ пешергәндә ул үҙенең машһур чилиһын нисек әҙерләгәнен һөйләй ала.
+8. **Гәзит.** Alzheimer ассоциацияһы билдәләй: гәзитте һәр ваҡыт уҡыған кеше, эстәлеген тулыһынса аңламаһа ла, уны уҡырға ярата ала. Кофе һәм гәзит иртәнге тәртиптә ҡала ала.
+9. **Төҙөү.** Ҙур деталле модель комплекттары йә олондар өсөн ябай төҙөү йыйылмалары. Тотоуға еңел булған деталдәр һайлағыҙ.
+10. **Нимәлер хәстәрләү.** Мәхлүк ашатыу, ҡош кормушкаһын тултырыу йә үҫемлектәргә һыу һибеү. NIA [мәхлүк ашатыу, таратыу йә йөрөтөү](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) кеүек шөғөлдәрҙе яратырға мөмкин булған нәмәләр иҫәбенә индерә.
 
-## How do I offer an activity without it feeling like busywork?
+## Шөғөлдө нисек тәҡдим итергә, уны эш итеп тоймаҫлыҡ итеп?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Уны реаль ярҙам итеп тәҡдим итегеҙ. Alzheimer ассоциацияһы «Миңә ярҙам итә алаһығыҙмы?» тип һорарға һәм эште маҡсат менән бәйләргә киңәш итә. Сағыштырығыҙ:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Был болтдарҙы һортларғамы?» (һынау кеүек яңғырай)
+- «Мин һыу һоро фурнитура алдым, плиткаға тиклем уларҙы тәртипкә килтерергә кәрәк. Миңә ярҙам итә алаһығыҙмы?» (эш кеүек яңғырай)
 
-Other tips:
+Башҡа кәңәштәр:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Олондар өсөн материалдар ҡулланығыҙ.** Ҡыҫҡа ситтәре алынған реаль инструменттар, реаль каталогтар, реаль конверттар.
+- **Ян-яҡ эшләгеҙ.** Ике кеше бер эш өҫтөндә эшләү — бергәлек. Бер кеше икенсеһен карап тороу — күҙәтеү.
+- **Төҙәтмәгеҙ.** Болттар ялған ҡасыҡҡа эләккән булһа, ҡалдырығыҙ. Мөһиме — бергә үткән ваҡыт һәм файҙалы булыу тойғоһо.
+- **Башларға ярҙам итегеҙ.** Alzheimer ассоциацияһы билдәләй: күп кешеҙҙә эш эшләргә теләге һаман бар, әммә ойоштороу һәм башлау ауыр. Беренсе эште бергә башлағыҙ.
 
-## How do I adapt as things change?
+## Үҙгәргәндә нисек яраҡлашырға?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Деменция прогрессировать иткәндә, Alzheimer ассоциацияһы ябайыраҡ, тәкрарланған эштәрҙе тәҡдим итергә һәм кешенең ролен кәметергә әҙер булырға киңәш итә. Элек двигателдәрҙе яңынан йыйған ир-ат хәҙер таҙа гаечный тотоуҙан, машиналар тураһында һөйләүҙән йә һеҙ эшләгәнде карап тороуҙан ләззәт ала ала. Күҙәтеү — ҡатнашыу ул да.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Әгәр ул нимәлер бик оҫта эшләһә, элекке һөнәренән башҡа, бәйле шөғөл уға яҡшыраҡ тойолорға мөмкин. Ассоциация билдәләй: профессиональ рәссам эштәренең үҙгәреүенән ҡәнәғәтһеҙ булыуы ихтимал, ә һөйәр рәссам яңы сығыш юлын ошатыр. Оҫта ағасса эшләүсе өсөн дә шулай.
 
-## Safety with work-style tasks
+## Эш төрөндәге шөғөлдәр менән хәүефһеҙлек
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Электр инструменттарын, пычаҡтарҙы, ҡаҙаҡтарҙы һәм остро осло шуруптарҙы алып ташлағыҙ.
+- Скипидарҙы, бензинды һәм химик матдәләрҙе ябып ҡуйығыҙ.
+- Ул артабан машина ҡулламаһа, машина асҡыстарын күҙҙән ыраҡ ҡуйығыҙ.
+- Бөтә остахана һәм бағса эштәрен күҙәтеү аҫтында башҡарығыҙ.
+- Йота алмаҫлыҡ ҙур деталдәр һайлағыҙ.
 
-## What if he says no?
+## Әгәр ул «юҡ» тиһә?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Уны хөрмәт итегеҙ. «Юҡ» тигәне эштең бик ауыр, бала-саға кеүек йә бөгөн генә килешмәүен аңлатыр. Alzheimer ассоциацияһы мәжбүр итмәҫкә киңәш итә. Икенсе эш, икенсе ваҡыт йә бергә генә ултырығыҙ. [Улар «юҡ» тигәндә нимә эшләргә](/caregiving/when-they-say-no/) тигән биткә ҡарағыҙ.
 
-## Games and conversation that fit
+## Тап килгән уйындар һәм әңгәмә
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) таныш мәҡәлдәр һәм әйтемдәр буйынса уйын, ул әңгәмәгә алып бара. [Conversation Cards](/games/conversation-cards/) темалар буйынса асыҡ һорауҙар тәҡдим итә, һәм улар эш һәм хоббиҙар тураһында хикәйәләрҙе асырға мөмкин. [Picture Puzzle](/games/picture-puzzle/) ҡиҙәктәрҙе алмаштырғанда бөтә рәсемде күрһәтеп тора, ә ҙур хәрефле [Word Search](/games/word-search/) баҫтырып, ашханә өҫтәлендә ручка менән башҡарырға мөмкин. Уның үткәне тураһында һынамаҫтан һөйләшеү юлдары өсөн [иҫкә төшөрөү ҡулланмаһына](/activities/reminiscence/) ҡарағыҙ.

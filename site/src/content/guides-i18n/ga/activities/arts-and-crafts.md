@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Ealaín agus Ceardaíocht do Dhaoine Fásta le Néaltrú"
+seoTitle: "Ealaín agus Ceardaíocht le Néaltrú: do Dhaoine Fásta"
+description: "Smaointe ealaíne agus ceardaíochta do dhaoine fásta atá ag maireachtáil le néaltrú, ó uiscedhath go colláis, le leideanna faoi ullmhú agus oiriúnú."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Bíonn cuma agus mothú fásta ar ealaín agus ceardaíocht mhaith do dhaoine fásta
+  atá ag maireachtáil le néaltrú: uiscedhathanna, colláis as irisí, socrú
+  bláthanna, cré, déanamh cártaí simplí nó leathanaigh dathúcháin do dhaoine
+  fásta. Cuir cúpla ábhar amach, cabhraigh leis an gcéad stríoc más gá, labhair
+  le linn na hoibre, agus bíodh an t-am le chéile mar phríomhaidhm. Is rogha é
+  píosa críochnaithe.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Roghnaigh ábhair agus téamaí a bhfuil cuma fásta orthu, mar pháipéar uiscedhatha, bláthanna fíora agus íomhánna as irisí, seachas glioscarnach, greamáin nó bileoga cartúin."
+  - "Dírigh ar an bpróiseas: na dathanna, mothú na cré, an comhrá. Is buntáiste breise é píosa críochnaithe, ní sprioc."
+  - "Tabhair cuspóir don ghníomhaíocht nuair is féidir, mar chárta do gharmhac nó do ghariníon, nó lárphíosa don bhord."
+  - "Cabhraigh leis an duine tosú, ansin lig siar. Is minic go mbíonn sé leor an chéad stríoc scuaba a dhéanamh le chéile."
+  - "Ní gá tionscadail a chríochnú in aon suí amháin, agus tá sé ceart go leor stopadh go luath i gcónaí."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Conas is féidir liom ceardaíocht a choinneáil ó bheith cosúil le rud do pháistí?"
+    a: "Bain úsáid as fíorábhair ealaíne, téamaí fásta agus ton measúil. Úsáid páipéar uiscedhatha, fabraic, bláthanna, grianghraif as irisí agus leathanaigh dathúcháin mhionsonraithe in áit glioscarnach agus leathanaigh chartúin. Ná mol an obair ar an mbealach a mholfá líníocht linbh; labhair faoi mar a labhrófá le haon chara fásta."
+  - q: "Cad iad na gníomhaíochtaí ealaíne a oibríonn go maith i néaltrú níos déanaí?"
+    a: "Is fearr a oibríonn tionscadail shimplí, chéadfacha níos déanaí: stríoca leathana a phéinteáil le scuab mhór, cré bhog a fháscadh, cúpla bláth a shocrú i vása, nó smuillí fabraice a shórtáil de réir mothúcháin. B’fhéidir go mbeidh ort an ghluaiseacht a thosú le chéile. Is bealach rannpháirtíochta é freisin féachaint ort ag péinteáil agus labhairt faoi na dathanna."
+  - q: "Cad a tharlaíonn má deir siad nach féidir leo líníocht a dhéanamh?"
+    a: "Bain an brú de. Bain triail as tionscadail nach bhfuil freagra ceart amháin acu, mar nigh uiscedhatha, colláis, nó socrú bláthanna. Is féidir leat a rá freisin go bhfuil cabhair uait le rud sonrach, mar dhathanna a roghnú do chárta, ionas go mbraitheann an tasc mar chabhair seachas mar thástáil."
+  - q: "An bhfuil leathanaigh dathúcháin ró-chosúil le rudaí do pháistí?"
+    a: "Níl, nuair a bhíonn siad deartha do dhaoine fásta. Roghnaigh leathanaigh le hábhair fásta ar nós gairdíní, cuilteanna, carranna nó tírdhreacha, agus cuir i láthair iad mar rud suaimhneach seachas mar cheacht. Is féidir ár leathanaigh dathúcháin a phriontáil nó a dhathú ar thaibléad."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Tugann ealaín agus ceardaíocht bealach do dhaoine atá ag maireachtáil le néaltrú iad féin a chur in iúl gan a bheith ag brath ar na focail chearta a aimsiú. Tugann Alzheimer’s Association le fios gur féidir le tionscadail ealaíne [mothú éachta agus cuspóra](https://www.alz.org/help-support/caregiving/daily-care/art-music) a thabhairt agus deis le haghaidh féinchur in iúl, don chúramóir agus don duine le néaltrú araon. Is é an rud is tábhachtaí ná rudaí a choinneáil fásta, simplí agus saor ó bhrú. Tugann an leathanach seo tionscadail shonracha, conas iad a ullmhú, agus conas iad a oiriúnú de réir mar a thagann athruithe.
 
-## What makes an art activity adult and not childish?
+## Cad a dhéanann gníomhaíocht ealaíne fásta seachas cosúil le rud do pháistí?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Úsáideann gníomhaíocht ealaíne d’fhásta fíorábhair, ábhair fhásta agus ton measúil. Molann Alzheimer’s Association tionscadail a choinneáil ar leibhéal fásta agus aon rud a d’fhéadfadh a bheith dímheasúil nó cosúil le rud do pháistí a sheachaint.
 
-| Feels childish | Feels adult |
+| Cosúil le rud do pháistí | Cosúil le rud fásta |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Glioscarnach, greamáin cúr, súile bréige | Páipéar uiscedhatha, fabraic, bláthanna brúite |
+| Bileoga dathúcháin chartúin | Leathanaigh dathúcháin de ghairdíní, cuilteanna, carranna nó tírdhreacha |
+| Moladh mar «Maith thú» le gach marc | Fíorchomhrá: «Tá an gorm sin go hálainn in aice leis an nglas» |
+| Ceardaíocht gan aon úsáid | Cárta do chara, lárphíosa, bronntanas |
+| Treoracha a léitear mar cheacht | Cuireadh: «An gcabhrófá liom leis seo?» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Smaoinigh ar bhlas féin an duine. B’fhéidir go mbainfeadh duine ar thaitin fuála leo taitneamh as fabraic a láimhseáil. B’fhéidir go mb’fhearr le hinnealtóir ar scor feisteán samhail le píosaí móra nó crua-earraí a shórtáil do thionscadal. B’fhéidir go mbainfeadh iar-mhúinteoir taitneamh as cártaí a dhéanamh.
 
-## Why focus on the process, not the product?
+## Cén fáth díriú ar an bpróiseas, ní ar an táirge?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Mar gurb é an t-am le chéile atá tábhachtach. Deir treoir Alzheimer’s Association faoi [ghníomhaíochtaí sa bhaile](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) díriú ar an bpróiseas, ní ar an toradh. Is pictiúr fós é pictiúr atá «díreach gorm». Is colláis fós é colláis le trí phictiúr.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Tugann an Cumann le fios freisin go bhféadfadh ealaíontóir gairmiúil a bheith frustrachas mar gheall ar athruithe ina chuid oibre, agus go mb’fhéidir go mbainfeadh amaitéarach taitneamh as deis nua iad féin a chur in iúl. Má bhí an duine ina ealaíontóir oilte, bain triail as meán difriúil ón gceann a raibh máistreacht acu air, ionas go mbraitheann sé mar spraoi seachas mar chomparáid.
 
-## Arts and crafts ideas to try
+## Smaointe ealaíne agus ceardaíochta le triail a bhaint astu
 
-Each idea includes how to make it simpler if it becomes hard.
+Cuimsíonn gach smaoineamh conas é a dhéanamh níos simplí má éiríonn sé deacair.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Nithe uiscedhatha.** Fliuch leathán de pháipéar uiscedhatha trom agus lig don duine dath a ligean anuas air le scuab mhór. Scaipeann na dathanna leo féin, mar sin níl toradh mícheart ann. *Níos simplí:* ná tairg ach dhá dhath, nó péinteáil le huisce ar pháipéar dorcha a thaispeánann na marcanna fliucha.
+2. **Colláis as irisí.** Gearr pictiúir amach roimh ré as irisí faoi gharraíodóireacht, cócaireacht, carranna, taisteal nó seanchaitheamh aimsire an duine. Lig dóibh íomhánna a roghnú agus a ghreamú ar stoc cártaí. *Níos simplí:* tairg ceithre phictiúr réamhdheartha agus bata gliú, agus déan an ghreamú le chéile.
+3. **Socrú bláthanna.** Molann Alzheimer’s Foundation of America [bláthanna gearrtha agus duilliúr](https://alzfdn.org/dementia-activity-gardening/) a shocrú i dtaispeántais shéasúracha shimplí. Úsáid vása trom, cobhsaí agus gasanna atá bearrtha cheana féin. *Níos simplí:* cuir cúpla gas i gcupán beag, ceann ar cheann.
+4. **Cártaí le bláthanna brúite.** Brúigh bláthanna as bláthfheiste idir leathanaigh leabhair ar feadh seachtaine, ansin greamaigh iad ar stoc cártaí fillte. *Níos simplí:* cuireann tusa an gliú, brúíonn siadsan an bláth síos.
+5. **Leathanaigh dathúcháin do dhaoine fásta.** Roghnaigh leathanaigh le himlínte soiléire agus ábhair réadúla. Is féidir ár [leathanaigh dathúcháin](/games/coloring/) inphriontáilte a dhathú ar an scáileán freisin trí dath a thapáil, ansin cuid den phictiúr. *Níos simplí:* limistéir níos mó, níos lú dathanna, marcóirí tiubha.
+6. **Cré nó taos bog.** Roll, brúigh agus múnlaigh cré aerthriomaithe nó taos samhaltaithe bog. Déanann duilleog a bhrú isteach sa chré tíl shimplí le prionta. *Níos simplí:* is gníomhaíocht iomlán é an fháscadh agus an rolladh amháin. Bí ag faire amach nach gcuireann an duine cré ina bhéal.
+7. **Déanamh cártaí.** Molann Alzheimer’s Association é a chur i láthair mar fhíorthasc: «Tá cárta téarnaimh á sheoladh againn chuig cara. An gcabhrófá linn?» Oibríonn stoc cártaí réamhdheartha agus cúpla greamán bláthanna nó stampaí go maith.
+8. **Leabhar gearrthóg.** Cuir cóipeanna de sheanghrianghraif, cártaí poist nó stubaí ticéad ar leathanaigh albam le chéile. Labhair faoi gach ceann acu de réir mar a théann sibh ar aghaidh. Féach ár [dtreoir ar chuimhní cinn](/activities/reminiscence/) le haghaidh bealaí ciúine chun labhairt faoin am atá thart.
+9. **Cláir fhabraice agus uigeachta.** Greamaigh smuillí de chordaroy, veilbhit, burlap agus síoda ar chárta righin. Is í an dhéanamh an ghníomhaíocht; is gníomhaíocht eile é teagmháil a dhéanamh leo níos déanaí. Tá tuilleadh smaointe inár [dtreoir ar ghníomhaíochtaí céadfacha](/activities/sensory/).
+10. **Críochnú adhmaid simplí.** Do dhuine ar thaitin adhmadóireacht leo, d’fhéadfadh sé go mbraithfeadh sé eolach bloc mín adhmaid a ghreamú nó feisteán tí éan a phéinteáil. Bain uirlisí géara agus déan maoirseacht.
+11. **Péinteáil le ceol.** Cuir taifead is fearr leat ar siúl agus péinteáil cruthanna nó dathanna a oireann don ghiúmar. Nascann sé seo dhá ghníomhaíocht a mbaineann go leor daoine taitneamh astu. Féach [gníomhaíochtaí ceoil](/activities/music/).
 
-## How do I set up an art session?
+## Conas seisiún ealaíne a ullmhú?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Ullmhaigh ar dtús.** Gearr, bearr agus leag gach rud amach sula dtugann tú cuireadh don duine. Is féidir an nóiméad a chailleadh agus tú ag fanacht le siosúr a aimsiú.
+2. **Coinnigh simplí é.** Dhá nó trí dhath, scuab amháin, leathán páipéir amháin. Is féidir le an iomarca roghanna a bheith ró-mhór.
+3. **Cosain an bord.** Ciallaíonn éadach plaisteach nó seanbhileog nach cúis imní salachar.
+4. **Suigh taobh le taobh.** Oibrigh ar do phíosa féin in aice lena gceann siúd. Mothaíonn sé comhroinnte, ní faoi mhaoirseacht.
+5. **Cabhraigh leo tosú.** Tugann Alzheimer’s Association le fios go mb’fhéidir go mbeidh ort gluaiseacht na scuaibe a thosú leis an duine. Nuair a thosaíonn siad, leanann go leor daoine ar aghaidh.
+6. **Labhair agus tú ag obair.** Déan trácht ar dhathanna agus ar uigeachtaí, nó lig don ealaín scéalta a spreagadh. Seachain ceisteanna cosúil le tráth na gceist ar nós «Cad é seo?»
+7. **Lig go leor ama.** Ní gá tionscadal a chríochnú in aon suí amháin.
 
-## How do I adapt art as dementia changes?
+## Conas ealaín a oiriúnú de réir mar a athraíonn néaltrú?
 
-| Stage | What tends to work | What to adjust |
+| Céim | An méid a oibríonn go minic | Cad ba cheart a choigeartú |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Luath | Ranganna, dathú mionsonraithe, leabhair gearrthóg, déanamh cártaí, péinteáil ó ghrianghraf | Tairg rogha tionscadal; coinnigh sóisialta é |
+| Lár | Colláis réamhdheartha, nithe uiscedhatha, socrú bláthanna, dathú le limistéir mhóra | Céim amháin ag an am; déanann tusa an gearradh agus an ghreamú |
+| Déanach | Stríoca leathana scuaba, cré a fháscadh, teagmháil le fabraic, féachaint ort ag péinteáil | Dírigh ar na céadfaí; treoraigh an lámh go réidh más fáilte roimhe |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+Molann an NHS go ndéantar gníomhaíochtaí a shimpliú go minic i gcéimeanna níos déanaí agus go ndíríonn siad ar na céadfaí. Is bealach fíor rannpháirtíochta é féachaint ar dhuine eile ag péinteáil agus labhairt faoi na dathanna. Le haghaidh tuilleadh smaointe de réir céime, féach [gníomhaíochtaí do gach céim](/activities/ideas/).
 
-## Safety with art supplies
+## Sábháilteacht le hábhair ealaíne
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Roghnaigh péinteanna, marcóirí agus bataí gliú neamhthocsaineacha.
+- Coinnigh siosúr, sceana ceardaíochta agus gunnaí gliú te as rochtain. Déan aon ghearradh tú féin, roimh ré.
+- Bí ag faire amach do dhuine ar bith a chuireann cré, péint nó rudaí beaga ina bhéal.
+- Úsáid coimeádáin uisce agus vásaí cobhsaí, troma.
 
-## When should we stop?
+## Cathain ar cheart dúinn stopadh?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Stop nuair a imíonn an t-aird nó nuair a thaispeántar frustrachas. Molann Alzheimer’s Association gníomhaíocht a chríochnú nó a athrú nuair a laghdaíonn ré an airde nó nuair a mhéadaíonn frustrachas. Cuir an tionscadal áit éigin sábháilte agus tairg rud suaimhneach. Is féidir leat teacht ar ais chuige amárach, nó riamh. Tá ceachtar acu ceart go leor.
 
-## Display the work, if the person wants
+## An obair a thaispeáint, más mian leis an duine
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Is bealach ciúin é pictiúr a ghreamú ar an gcuisneoir nó colláis a chur i bhfráma chun meas a léiriú. Fiafraigh ar dtús. Is breá le daoine áirithe a gcuid oibre a fheiceáil ar an mballa; b’fhearr le daoine eile gan é.
 
-## Pair art with our games
+## Cuir ealaín lenár gcluichí
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Ar laethanta nuair is iomarca é péinteanna a ullmhú, oibríonn [Coloring](/games/coloring/) ar thaibléad gan salachar. Coinníonn [Picture Puzzle](/games/picture-puzzle/) an pictiúr iomlán le feiceáil mar threoir agus tú ag malartú píosaí. Tugann [Conversation Cards](/games/conversation-cards/) leideanna oscailte a d’fhéadfadh dul ó phictiúr go scéal. Níl amadóir ná scór ag aon cheann acu. Is féidir leat leathanaigh a phriontáil freisin ónár mbailiúchán [gníomhaíochtaí inphriontáilte](/activities/printable/).

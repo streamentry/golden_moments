@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Fakton Risgo Demensia: 14 Ni Manombre ni Lancet Commission"
+seoTitle: "Fakton Risgo Demensia: 14 Fakton ni Lancet"
+description: "I 14 fakton risgo demensia ni siña mamolan-ha ni manombre ni 2024 Lancet Commission, sigun i tiempon taotao, yan i guinaiya ni research ma'lalaiki, yan hafa siña hami' yan dukturan-mu."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  I 2024 Lancet Commission manombre 14 fakton risgo demensia ni siña mamolan-ha:
+  minenos na eskuela, pinitdo hungok, halom LDL na kolesterol, depresion, impacto
+  ni tataotao, kao na'malago' na fuetsa, diabetes, fumamaskat, halom na presion,
+  dankolo na tiningo', gaige' alak, asuti gi kinalamten taotao, kontamina ni
+  aire yan pinitdo matan ni ti gaige' tratamento. Hamyo siña ma'lalaiki ni
+  kuantos 45% ni kaso gi tano' gi mundo, lao ti gaige garantia para huyong
+  taotao.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "I 14 na fakton manggaige gi tinituhun taotao: un gi mamaila' na tiempo, dies gi medio, yan tres gi dankolo."
+  - "Pinitdo hungok yan halom LDL na kolesterol gi medio ginen 40 anos ma'lalaiki ni cada uno gaige ginen 7% ni kaso demensia gi mundo, i kinalamten dangkulo ginen cualquier fakton ni solo."
+  - "Esta na porsiento ginen estimasion ginen populasion ni sumusungon ni i kosas siña mamaisen gi ilek. Algun na lalaiki siña solo parte ni kausa."
+  - "I edad yan i jeniko, ni ti siña mamaloffan hasta ni maisa, mandangkulo na fakton risgo tumatatiyi. I mamaloffan i 14 na risgo ti garantia na ti maisen demensia."
+  - "Mas i kinalamten pasos ni gi sinangan, tinatakhan presion, hungok yan matan, mamaolek para hinasso siha lao debi di'na diskuti gi dukturan."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Hafa i 14 na fakton risgo demensia ni siña mamolan-ha?"
+    a: "I 2024 Lancet Commission manombre minenos na eskuela, pinitdo hungok, halom LDL na kolesterol, depresion, impacto ni tataotao, kao na'malago' na fuetsa, diabetes, fumamaskat, halom na presion, dankolo na tiningo', alak ni ma'takhan, asuti gi kinalamten taotao, kontamina ni aire yan pinitdo matan ni ti gaige' tratamento. Hamyo ma'lalaiki ni kasi mitad ni kaso demensia gi mundo."
+  - q: "Hafa i fakton risgo demensia ni kinalamten dangkulo?"
+    a: "Gi kinalamten mundo, i Commission estimo na pinitdo hungok yan halom LDL na kolesterol gi medio ginen 40 anos ma'lalaiki ni cada uno gaige ginen 7% ni kaso, sigiente ginen minenos na eskuela yan asuti gi kinalamten taotao, cada uno ginen 5%. Hafa i kinalamten dangkulo para huyong taotao ginen tinataotao-na na hinasso, ya i dukturan i pinamaolek na gaiguen."
+  - q: "Hay dos na fakton risgo nuebu ni mana'nana' gi 2024?"
+    a: "Hunggan. I 2024 report nina'nina' i halom LDL (malas) na kolesterol gi medio yan i pinitdo matan ni ti gaige' tratamento gi dankolo na tiempo gi 12 na fakton ni manombre gi 2020. I Commission ma'lalaiki hamyo ni cada uno gaige ginen 7% yan 2% ni kaso."
+  - q: "Esta i edad siña mamaloffan na fakton risgo?"
+    a: "Ti siña. I edad i kinalamten dangkulo na fakton risgo para Alzheimer's, yan ti siña mamaloffan. I jeniko gai papet. I 14 na fakton gi este na pagina i manmanmanombre ni research sinangan siña mamaloffan."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,124 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Risgo i kosas ni manggaige' asuti ni mas dangkulo na sanmaproblema ni siña
+mamaisen. Ti siempre kausa, yan ti sumasangan na gaige' hao yan maisen
+demensia. Este na pagina manlista i 14 na fakton risgo demensia ni i 2024
+Lancet Commission sinangan siña mamaloffan, yan hafa i research manma'lalaiki
+yan hafa siña hao diskuti yan dukturan-mu.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Para i dangkulo na hinasso, kuentos i dinanche ni research, komo tinatatiyi
+ni dangkulo na pruweba, tuma' gi [Siña ba mapribeni demensia? Hafa i research
+ma'sangan](/brain-health/can-dementia-be-prevented/). Este na impormasion
+heneral; ti konsehon medikal. Hungok i [medical disclaimer](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Hafa i 14 na risgo para demensia?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+I [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
+ma'kakantan ni 27 na mannaestru research demensia, mamaolek ni 14 na fakton
+risgo ni siña mamaloffan ma'alalaiki na mas kinalamten 45% ni kaso demensia gi
+mundo. I porsiento para cada fakton gi baba i estimasion ginen Commission ni
+i kinalamten kaso gi mundo ni ma'lalaiki ni esti na fakton, ma'hålot gi numiru
+kumplidu. I numiru manmamatinas, sa' komu takhan tumatatiyi kumu gaige' taotao
+ni mamaila' na risgo, para esta manmamasuma' para 45% ya ti mas.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Fakton risgo | Tiempon taotao | Kinalamten kaso | Hafa i research ma'lalaiki | Hafa siña hao |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Minenos na eskuela | Mamaila' na tiempo | 5% | Minenos na annai eskuela ma'lalaiki ni mas dangkulo na risgo. Ma'tatiyi na gaige' hao mentåt mamanten gi medio, mamaolek ginen mismo taotao ni gaige' minenos na eskuela. | Ma'estudia gi todu tiempo: lalålo, hobbies, klaseha, hugagu yan taotao. |
+| Pinitdo hungok | Medio | 7% | Pinitdo hungok ni ti ma'tatiyi ma'lalaiki ni mas dangkulo na risgo. Estudio ni ma'sigi taotao ma'lalaiki i ma'usa aparato hungok ni mas minenos na risgo. | Ma'chek hungok-mu. Pregunta si i aparato hungok siña mamaolek, yan ma'usa ni ma'na'i. Protehi i kuetnos ginen mangangangang tataotao. |
+| Halom LDL na kolesterol | Medio (ginen 40 anos pat mas) | 7% | Halom LDL ("malas") na kolesterol gi medio ma'lalaiki ni mas dangkulo na risgo. Estudio ni ti ma'tuma' ma'lalaiki i statin ni mas minenos na risgo, lao i trial gi dankolo na tiempo ti ma'pruweba esta. | Pregunta dukturan-mu si debi di'na ma'chek i kolesterol-mu yan hafa, si gai, debi di'na hasi. |
+| Depresion | Medio | 3% | Depresion ma'lalaiki ni mas dangkulo na risgo. Gi dankolo na tiempo, depresion siña mandanña' tinaiguen demensia. | Ågang hao gi dukturan put baba na tinituhun pat ti gai interes ni mas dankolo ki dos semana. Depresion siña mamaayuda. |
+| Impacto ni tataotao | Medio | 3% | Impacto ni tataotao gi todu edad yan ginen todu kosas, en guiya i kontaktu deporte, ma'lalaiki ni mas dangkulo na risgo. | Usa kasko para bisikleta yan deporte kontaktu. Pregunta put ma'hasso kaisa. Descansa yan ma'chek despues impacto ni tataotao. |
+| Kao na'malago' na fuetsa | Medio | 2% | Taotao ni ma'na'fuetsa yan ma'deporte ti maolek ma'maisen demensia. Pruweba gi trial taya ma'mamaolek. | Pregunta hafa aktividat sigu para hao, yan sumangan hafa ma'gogof. Tuma' gi [gaion ehersisio](/brain-health/exercise/). |
+| Diabetes | Medio | 2% | Diabetes, ilek-ilek kuandu mana'lalaiki gi medio pat mas taitai, ma'lalaiki ni mas dangkulo na risgo. | Ma'chek asukat gi dugu. Kuandu gaige' hao diabetes, na'na'sendi ni grupu ni ma'aga-mu put ma'nu sigon sigu. |
+| Fumamaskat | Medio | 2% | Fumamaskat ma'lalaiki ni mas dangkulo na risgo. Estudio ma'hasso ni ex-fumamaskat ti gaige' i mismo na dangkulo na risgo ni taotao ni todabia ma'fuma'maskat. | Pregunta put ayuda para para u para. Maolek para para u para gi todu edad. |
+| Halom na presion | Medio | 2% | Halom na presion gi medio ma'lalaiki ni mas dangkulo na risgo. Trial gi medisinan presion ma'sangan mas minenos na risgo demensia pat deterioro kognitibo. | Sangan i numirun-mu. I Commission ma'sangan 130 pat minenos na numiru ankas ginen 40 anos; pregunta hafa na gosto siña para hao. |
+| Dankolo na tiningo' | Medio | 1% | Dankolo na tiningo' gi medio ma'lalaiki ni mas dangkulo na risgo, yan mas ma'aumenta diabetes. | Pregunta dukturan-mu put maolek na tiningo' para hao. Taotao dankolo debi ti para u fa'a'ayuna para u nina'minenos tiningo' sin konsehu medikal. |
+| Alak ni ma'takhan | Medio | 1% | Ma'takhan na alak ma'lalaiki ni mas dangkulo na risgo. Na'minenos alak ginen ma'takhan ma'lalaiki ni mas minenos na risgo. | Pregunta hafa i sinangan ligat para hao, espesiálmente kuandu gaige' medisina-mu. |
+| Asuti gi kinalamten taotao | Dankolo na tiempo | 5% | Ti kaseni na kontaktu ma'lalaiki ni mas dangkulo na risgo. | Ma'tuma' kontaktu yan taotao gi manera ni gosto hao. Tuma' gi [gaion konekson sosiát](/brain-health/social-connection/). |
+| Kontamina ni aire | Dankolo na tiempo | 3% | Gaige' taotao gi kontamina na aire ma'lalaiki ni mas dangkulo na risgo. Estudio ma'lalaiki aire ni mas limpio ni mas minenos na risgo. | Mas i gai i hinasso gi polisa publiko. Ma'chek alerta kalidat aire gi lugat-mu yan manatitinas tiempo fuera gi diha ni kontaminao. |
+| Pinitdo matan ni ti gaige' tratamento | Dankolo na tiempo | 2% | Problema ni ti ma'corrija gi matan ma'lalaiki ni mas dangkulo na risgo. Un estudio dakbo gi US ma'lalaiki operasion katarata ni mas minenos na risgo. | Ma'chek matan regulåt. Pregunta si problema taya kuomo katarata siña ma'tratåo. |
 
-## How should I read these percentages?
+## Kao sumasangan i porsiento?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Kuidao. I kuentos ginen Commission gi tinituhun report muna' hafa siha
+debi di'na fanhasso:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Esta manmamatinas populasion, ti taotao.** I [sumåmalam ginen report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  ginen University College London ma'sangan na i minenos risgo gi populasion
+  ti garantia na mismo taotao ti maisen demensia.
+- **Ma'supone kausa yan efekto.** I mannaestru mamaila' sumahi fakton ni gai
+  kinalamten pruweba, lao sinangan algun na lalaiki siña solo parte kausa.
+- **Esta mundo na numiru.** Mas i tinataotao gi nasion ricos, yan i tinatatiyi
+  para gi tano' pat komunidat ti mamaiguala.
+- **Ti dangkulo na porsiento siña gai impottante.** Un fakton ni ma'lalaiki
+  2% ni kaso gi mundo todabia mamaloffan dankolo na numiru taotao.
 
-## Which risk factors were added in 2024?
+## Hafa i fakton risgo ni nina'nina' gi 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+I 2024 report nina'nina' dos na fakton gi 12 ni manombre gi 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Halom LDL na kolesterol gi medio**, ma'lalaiki ni kinalamten 7% ni kaso.
+- **Pinitdo matan ni ti gaige' tratamento gi dankolo na tiempo**, ma'lalaiki ni
+  kinalamten 2% ni kaso.
 
-## What risk factors cannot be changed?
+## Hafa i risgo ni ti siña mamaloffan?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+I National Institute on Aging ma'sangan na
+[i edad i kinalamten dangkulo na fakton risgo para Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+yan ti siña mamaloffan. I jeniko gai papet; un jeniko ni mas ma'sangan ni
+ma'influensia risgo Alzheimer's gai naran APOE. I NIA mana'nana' na i
+sientifiko ti todabia kumprende kumu nina'gaige' Alzheimer's gi mas tayuyu na
+taotao. I Lancet Commission ma'sangan na i risgo ni siña mamaloffan siña
+ma'minenos sumasaga i jeniko ni gaige' taotao.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Sa' i edad yan jeniko gai papet dangkulo na parte, dangkulo na taotao ni ti
+gaige' ni 14 na fakton risgo todabia maisen demensia. Esti ti kulpa ni
+hunu'.
 
-## What does the trial evidence say about changing these risks?
+## Hafa i pruweba ni trial ma'sangan put mamaloffan esti na risgo?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Ma'linka fakton risgo yan demensia ti i mismo ni pruweba na ma'mamaloffan
+esti ma'minenos risgo demensia. Gai uno pat dos ehemplo kumu i pruweba ni
+trial:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Presion.** Gi trial SPRINT MIND, minenos na goal presion ma'minenos sign
+  dangkulo i mild cognitive impairment. Ti sign dangkulo ma'minenos i probable
+  dementia, lao siña i trial ti dangkulo para ma'pruweba esta
+  ([SPRINT MIND gi JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Aparato hungok.** I Lancet Commission ma'sangan un trial tres anos ni aparato
+  hungok ni ti gai efekto gi todu pensamiento, lao gai benefisio gi grupu taotao
+  ni mas dangkulo risgo. Estudio ni ma'sigi taotao ma'lalaiki i ma'usa aparato
+  hungok ni mas minenos na risgo. I [gaion hungok](/brain-health/hearing/) gai
+  mas.
+- **Aktividat fisikal.** I National Institute on Aging mana'nana' na taya
+  bastante pruweba gi trial klinikal para ma'sangan na ehersisio siña mapribeni
+  pat mamana'minenos i mild cognitive impairment pat Alzheimer's, sanha algun
+  na estudio ma'sangan siña mamaayuda gi deklinasion ni relasion ni edad
+  ([NIA put mapribeni Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Trial ni dankolo ni ma'espera para demensia ma'dedesarolla ma'sen dinanche yan
+dangkulo na gasto, asina para mas na fakton i mas maolek na pruweba todabia
+ma'chule ginen estudio ni ma'sigi taotao gi años. Esti na pruweba mapropos, lao
+mas minenos fuetti ki trial.
 
-## What about sleep and diet?
+## Kao sumasangan i tinaiguen yan dietan?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+I Commission ma'revisa i tiningo' yan dieta lao ti ma'nina' gi lista, sa' i
+pruweba ti dangkulo pat ti kumelang. I [gaion tinatiyi](/brain-health/sleep/) yan
+[dieta](/brain-health/diet/) ma'explika i ma'sangan.
 
-## Talk with a doctor
+## Hungok yan dukturan
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+I chechen cheke anuali gai maolek na tiempo para ma'chule esti na kosas. Siña
+hao machule esti na lista yan pregunta:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Hafa i numiru-mu para presion, asukat yan kolesterol, yan siña gai hafa na
+  para ma'hasso?
+- Debi di'na ma'chek hungok yan matan-mu?
+- I aktividat ni hao hasi sigura yan suficiente para hao?
+- Siña gai medisina-mu ni mamaloffan memoria pat pensamiento?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Antes ni manmamakanbia medisina, dieta, ayunu, ehersisio pat suplemento,
+hungok dukturan kumu prinimet. Kuandu hao pat taotao ni gai-ñiha ma'ataka
+konfusion, minaflekshen gi un banda, pat ti siña ma'hasso, ågang 911.

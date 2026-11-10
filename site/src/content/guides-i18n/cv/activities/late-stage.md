@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Деменци юлашки тапхӑрӗн ӗҫ-хӗлӗсем: вырӑнра та пуканра та"
+seoTitle: "Деменци юлашки тапхӑрӗ: вырӑнра та пуканра та ӗҫсем"
+description: "Деменци юлашки тапхӑрӗнче, вырӑнра е пуканра ларнӑ чухне те, кӗме-мелле ӗҫсем: кӗвӗ, сисӳ, вулани, сасӑсем тата пӗрле пулни, хӑрушсӑрлӑх сӑлтавӗсемпе."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Деменци юлашки тапхӑрӗнче ӗҫ-хӗлӗсем сисӳпе тата сирӗн пӗрле пулнипе ҫыхӑннӑ:
+  юратнӑ кӗвӗсене янӑратни, алӑран тытни, алӑсене кӗме-мелле сӑпни, сассӑпа
+  вулани, сӑнӳкерчӗксене пӑхни, ҫутҫанталӑк сасисем тата чӳречерен е урамра
+  ларни. Ку ӗҫсем вырӑнра та, пуканра та лайӑх пыраҫҫӗ. Вӑхӑтсене кӗскерех
+  тытӑр, пит-куҫпа алӑсене халь-хай валли лайӑх-и тесе сӑнаса тӑрӑр, пӗрле
+  пулни ахаль те ӗҫ пекех пулнине манса ан кӑларӑр.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Ҫыхӑну халӗ те пулма пултарать. Юлашки тапхӑрта ҫын тӗнчине ытларах сисӳпе туйать."
+  - "Кӗвӗ, кӗме-мелле сисӳ, паллӑ сасӑсем тата алӑра тыма кӑмӑл тултаракан япаласем сӑмахсем ҫук чухне те ҫитме пултараҫҫӗ."
+  - "Кунта асӑннӑ ӗҫсенчен пӗри те вырӑнра е пуканра ларнӑ ҫын валли лайӑх."
+  - "Пит-куҫра, алӑсенче, сывлани те халь-хай валли лайӑх-и, йывӑр-и тесе сӑнаса тӑрӑр; йывӑрлӑх палли курӑнсан вӑхӑтрах чарӑнӑр."
+  - "Пӗчӗк япаласенчен тарса тӑрӑр; ҫиес-ӗҫмеллине пӑхса ӑна тухса лартни ӑнлантарайми пулма пултарать, ҫавна май тата пӳлӗх командин сӗнӳпе кӑна парӑр."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Вырӑнра выртакан, деменци юлашки тапхӑрӗнчи ҫынпа мӗн ӗҫ тума пулать?"
+    a: "Унӑн юратнӑ кӗвӗсене янӑратӑр, алӑран тытӑр, аллине суккремпа кӗме-мелле сӑпӑр, унӑн юратнӑ кӗнеке е кӗлрен сассӑпа вулӑр, сӑнӳкерчӗксене кӑтартӑр е ҫутҫанталӑкӑн кӗме сасисене янӑратӑр. Тулашне курма чаршавсене уҫӑр. Кӗскен вӑхӑт хушшинчи, пӗр вӑхӑтра пӗр ӗҫ кӑна туни ытларах лайӑх пулать."
+  - q: "Деменци юлашки тапхӑрӗнчи ҫынсем кӗвӗрен халь те киленме пултараҫҫӗ-и?"
+    a: "Нумайӑшӗ киленеҫҫӗ. Alzheimer's Association асӑнать: юлашки тапхӑрта та ҫын ачалӑх кӗввине тӑкӑнма е пӗрле юрлама пултарать. Ҫын ҫамрӑк чухне юратнӑ кӗвӗсене суйлӑр та сассине кӗме-мелле тытӑр."
+  - q: "Ӗҫе унӑн киленнине эпӗ мӗнле ӑнланмалла?"
+    a: "Пӗчӗк паллисене сӑнаса тӑрӑр: сулӗсем лӑпкӑнни, пит-куҫ кӗменни, куҫпа пӑхни, кӗвӗ ҫырни, аллине пусни е сывланин кӗменни. Пит-куҫ туртӑнни, хӑтланни, вырӑнӗнче ларма тарӑнни е пӗшкӗрни йывӑрлӑха е ыратнине кӑтартма пултарать. Кунашкала курсан, чарӑнӑр та вӗсем малалла тухсан пӳлӗх командине пӗлтерӗр."
+  - q: "Ҫын мана урӑх палламан чухне те ҫитсе курма кирлӗ-и?"
+    a: "Кирлӗ. National Institute on Aging асӑнать: пӗрле пулни кӑна та лӑпкӑнтарма пултарать, сисӳ, кӗвӗ тата калавсем деменци нумай пынипе ҫынна халӗ те халь-хай валли лайӑх тума пултараҫҫӗ. Сирӗн сасу та, сисни те, ятне асра тытман чухне те, паллӑ пулма пултарать."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Деменци юлашки тапхӑрӗнче ҫын сахалрах калаҫма пултарать, кулленхи пур ӗҫре те пулӑшу кирлӗ пулать тата кунӑн чылайӑшне вырӑнра е пуканра ирттерме пултарать. Кун чухне пӗрле тума ним те ҫук пек туйӑнма пултарать. Анчах та пӗрле тума май пур. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) асӑнать: ҫын харпӑрлӑхӗн пӗр пайӗ юлма пултарать, тата ку тапхӑрта тӗнче ытларах сисӳпе туйӑнать. Кӗвӗ, кӗме-мелле сисӳ, паллӑ сасӑ тата сирӗн кӗме-мелле пӗрле пулни халӗ те халь-хай валли лайӑх тата ҫыхӑну саманчӗсем парма пултараҫҫӗ.
 
-## What activities help in late-stage dementia?
+## Деменци юлашки тапхӑрӗнче мӗнле ӗҫсем пулӑшаҫҫӗ?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Юлашки тапхӑрта ытларах ансат сисӳ ӗҫӗсем тата кӗме-мелле пӗрле пулни пулӑшаҫҫӗ. Alzheimer's Association юратнӑ кӗвӗсене янӑратма, пӗлтерӗшлӗ кӗнекесен пайӗсене вулама, юратнӑ ырӑ шӑршипе суккремпа алӑсене сӑпма тата урам лайӑх чухне пӗрле тухса ларма сӗнет. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ҫавӑн пекех калавсем калама, сӑнӳкерчӗксене кӑтартма, кӗме-мелле сисме е алӑсене сӑпма, кӗвӗ, ак сасӑ е ҫутҫанталӑк сасисене янӑратма сӗнет тата сирӗн пӗрле пулни кӑна та лӑпкӑнтарма пултарнине палӑртать.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) асӑнать: юлашки тапхӑрта ҫынсем хальсене халь-хай валли лайӑх тума алӑра мӗнпе те тытма ыйтма пултараҫҫӗ. Вӗсем ансат сисӳ ӗҫӗсене, кӗме-мелле хускану, шарфпа ӳсни, кӗвӗ, чӗрчунсемпе тӗл пулни, сисӳ тата ирӗк тӳрӗ ӳкерчӗк ӗҫне сӗнеҫҫӗ.
 
-## Activities for someone in bed or a chair
+## Вырӑнра е пуканра ларнӑ ҫын валли ӗҫсем
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Унӑн кӗвӗсене янӑратӑр.** Ҫамрӑк чухне илтнӗ, тӗнне е ҫемье кӗвӗсене суйлӑр. Сассине кӗме-мелле тытӑр та аякрарах ларӑр. Халӗ те хӑш-пӗрисем пӳрнене тӑкӑнаҫҫӗ е кӗвӗ ҫыраҫҫӗ. [Кӗвӗ ӗҫӗсем](/activities/music/) пайне те пӑхӑр.
+2. **Алӑран тытӑр.** Алӑран тытса, пӳрнепе кӗме-мелле сӑпни те ӗҫшӑн. Малтан мӗн тӑвассине каласа парӑр.
+3. **Аллине кӗме-мелле сӑпӑр.** Алӑра суккремне кӑштах вӑрӑмлатӑр та чӗререн пӳрне тӗлне сӑпса тухӑр. Ырӑ шӑршисӗр суккрем суйлӑр; ҫын юратнӑ шӑрши пур пулсан та, тире лайӑх тивет пулсан, ӑна усӑ курма пулать.
+4. **Сассӑпа вулӑр.** Юратнӑ сӑвӑ, юратнӑ кӗнекерен пай, кӗл е спорт хаҫачӗ. Сасӑн мелӗ сӑмахсенчен те пӗлтерӗшлӗрех пулма пултарать.
+5. **Калав калӑр.** Ҫемье уҫӑлӑвӗнчен е авлану кунӗнчен каласа парӑр. Хурав ҫук пулсан та юрӗхлӗ.
+6. **Сӑнӳкерчӗк кӑтартӑр.** Пӗрре пысӑк сӑнӳкерчӗк кӑна куҫ тӗлне тытса ырӑ сӑмахсемпе ӑнлантарӑр. Кам пуррине ыйтма ан тӑрӑшӑр.
+7. **Алӑра тыма кӑмӑлла япала парӑр.** Ҫӗмӗре, флис пӑчӑкки е кӑмӑл чӗрчуни. NIA ҫынна куҫаракан чухне алӑра ҫӗмӗре парма сӗнет, ҫапла вӑл сире е мебеле тытаянмасть.
+8. **Ҫутҫанталӑк сасисене янӑратӑр.** Кӗме ҫумӑр, тинӗс хумӗ е кайӑк юрри пӳлӗмре канӑҫсӑр сасӑсене кӗме-мелле майла пӗтерме пултарать.
+9. **Тулашри тӗнчине аякра кӳртӗр.** Чаршавсене уҫӑр, чӳрече умне кайӑк ҫитерекен вырӑн лартӑр е пахчарах пӑхма тата тытма пӗр-ик ҫӗҫке, ҫулҫӑ илсе кӗрӗр.
+10. **Урама тухӑр.** Ҫын инвалид пуканӗнче ларма пултарать пулсан, кӑштах кунта мелӗкре кӗскерех вӑхӑт ларни те ырӑ пулма пултарать.
+11. **Ҫӳҫне мала ӗҫтӗр е вӑри тряпка парӑр.** Кӗме-мелле тирпейлев тата алӑсене, пит-куҫа вӑри тряпкӑпа сӑпни пӑхнине туйтарма пултарать.
+12. **Кӗвӗпе кӗме-мелле хускалӑр.** Ҫӑмӑл шарфпа пӗрле вӑйӑр е кӗвӗ тӑрӑх алӑсене хускалатӑр. Хускану тата сӳнчӗрсен ӗҫӗ валли малтан физик терапевтран е медсестрен хӑрушсӑр меслетсене ыйтса пӗлӗр.
+13. **Ирӗк тӳрӗ ӳкерчӗк тӑвӑр.** Пысӑк хут ҫинче хирурги мар краскӑпа губкӑпа е сирӗн аллипе пӗрле ҫӳрӗр. Тӗрӗс е йӑнӑш результат ҫук.
+14. **Чӗрчунсем пӗрле пулнине йышӑнӑр.** Ҫын чӗрчунсене юратнӑ пулсан тата вырӑн ӑна ирӗк парат̄ пулсан, кӗме-мелле чӗрчун вырӑн ҫинче е сӳре ҫинче ларма пултарать.
+15. **Пӗрле кӗме-мелле сывлӑр.** Аякра ларса кӗме-мелле, илтӗнерех сывлӑр. [Кӗме-мелле сывлани](/games/calm-breathing/) сире иксӗне те темп тытма пулӑшма пултарать, эсир ӑна пуҫлататӑр та чарӑнатӑр.
+16. **Ахаль те аякра пулӑр.** Аякра ларса, кӗвӗ ҫырса, ҫӗрсе е вуламалла. Пӗрле пулни кӑна та ҫителӗклӗ.
 
-## How to share an activity at this stage
+## Ку тапхӑрта ӗҫе мӗнле пӗрле тума
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Малтанхи енчен пырӑр.** Алӑран тытмасӑр малтан унӑн ятне, хӑвӑрӑн ятне калӑр та кӗме-мелле, вӑрӑм сасӑпа калаҫӑр.
+- **Пӗр вӑхӑтра пӗр япала кӑна парӑр.** Кӗвӗ янӑратас умӗн телевизора чарӑр. Пӗр вӑхӑтра пӗр сисӳ кӑна.
+- **Кӗскен тытӑр.** Темшӗн пӗр-ик минут та ҫителӗклӗ. Кунсерен кашнине кӗскерех вӑхӑт пӗр вӑхӑтра пӗр вӑрӑм тӑвассинчен лайӑхрах.
+- **Малтан халь-хай валли лайӑх вырӑн тӑвӑр.** Ҫын лайӑх вырнаҫнӑ-и тесе тӗрӗслӗр. NIA ларнӑ чухне алӑсене ҫеклентерме тата ҫӳрти пайне пулӑшма алӑ хӳтине усӑ курма сӗнет.
+- **Реакцине сӑнаса тӑрӑр.** Алӑсем лӑпкӑнни, пит-куҫ кӗменни, куҫпа пӑхни е кӗвӗ ҫырни халь-хай валли лайӑх пулнине кӑтартма пултарать. NIA асӑнать: пӗшкӗрни, пит-куҫ туртӑнни, ҫынни пӗр пайне хӳтӗлени е тӳрккесӗр канӑҫсӑрлӑх ырату паллисем пулма пултараҫҫӗ. Чарӑнӑр та пӳлӗх командине пӗлтерӗр.
 
-## A quick guide by sense
+## Сисӳ тӑрӑх кӗске таблица
 
-| Sense | Ideas | Take care |
+| Сисӳ | Сӗнӳсем | Тиме кивҫен тӑр |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Илтени | Юратнӑ кӗвӗсем, сирӗн вулакан сасӑр, ҫутҫанталӑк сасисем | Сассине кӗме тытӑр; пӗр вӑхӑтра пӗр сасӑ кӑна |
+| Сисни | Алӑсене сӑпни, алӑран тытни, кӑмӑл пирки, вӑри тряпка | Малтан ыйтӑр е пӗлтерӗр; тире ыратнӑ е сӗтӗлнӗ мар-и тесе тӗрӗслӗр |
+| Кури | Сӑнӳкерчӗксем, ҫӗҫкесем, чӳречерен курӑнни, ҫутҫанталӑк видео | Япаласене куҫ тӗлне тытӑр; ҫутӑ лайӑх пултӑр, ҫут пӑлхавӗ ан пултӑр |
+| Шӑршилани | Юратнӑ суккрем, ҫӗҫкесем, аякра ӗретнӗ кофе | Вӑйлӑ шӑршисенчен тарса тӑрӑр; аллергипе сывланипе ҫыхӑннӑ йывӑрлӑхсене тӗрӗслӗр |
+| Тутлани | Юратнӑ тутӑн пӗчӗк пайӗ | Пӳлӗх командин хӑрушсӑр тенӗ апатпа тӳс кӑна парӑр |
 
-## Safety at this stage
+## Ку тапхӑрта хӑрушсӑрлӑх
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Юлашки тапхӑрта ҫиес-ӗҫмелли йывӑрланма пултарать, NIA асӑннӑ тӑрӑх, ку хӑпса кайма хӑрушлӑхне ӳстерет. Пӗчӗк япаласене алӑ ҫитекен вырӑнта ан хӑварӑр; апатпа ӗҫмеллине пӳлӗх командин сӗннӗ тӳсре тата вырӑнта кӑна парӑр. Сисӳ ӗҫӗсенче тире ҫӑмӑлтан сӗтӗлме е сӑрӑлса кайма пултарать, ҫавна май ӑна кӗме-мелле тӗрӗслӗр. Хӑрушсӑр сисӳ сӗнӗвӗсем пирки ытларах пӗлес тесен [сисӳ ӗҫӗсем](/activities/sensory/) пайне пӑхӑр.
 
-## Looking after yourself too
+## Хӑвна та манса ан кӑлар
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Юлашки тапхӑрта пӑхса тӑни ҫыннӑн вӑйне те, туйӑмне те йывӑрлатать, килте пулсан та, пӑхса тӑмалли вырӑна ҫитсе курсан та. Хосписпа паллиатив пулӑшу командисем халь-хай валли лайӑхлӑх, пулӑшу тата план тума пулӑшма пултараҫҫӗ; NIA вӗсене пулӑшу ҫӑлкуҫӗсем пек асӑнать. Кӗскен, кӗме-мелле ҫитсе курни те пӗлтерӗшлӗ; [деменципе ҫын патне ҫитсе курни](/activities/visiting/) пайне пӑхӑр. Ушкӑнпа ӗҫлетӗр пулсан, [пӑхса тӑмалли вырӑнти ушкӑн ӗҫӗсем](/activities/care-home-groups/) пайӗнче вӑхӑта мӗнле майлаштармалли пирки сӗнӳсем пур. Тата [пӑхса тӑракан ҫын хӑйне пӑхни](/caregiving/caregiver-self-care/) пирки те вуласа тухӑр: кану та лайӑх пӑхнин пайӗ.

@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Virksemi við demens á byrjunarstigi"
+seoTitle: "Virksemi við demens á byrjunarstigi: Hugskot"
+description: "Hugskot til virksemi við demens á byrjunarstigi: frítíðarítriv, spøl, túrar, skriving og felags ætlanir, við smáum broytingum so persónurin framvegis stýrir."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Við demens á byrjunarstigi kunnu tey flestu halda fram við tí, tey dáma:
+  frítíðarítriv, kort og borðspøl, at gera mat, garðsløgur, at ganga túrar,
+  feløg, trúarlív og sjálvboðið arbeiði. Tær vanligu broytingarnar eru smærri
+  bólkar, styttri túrar, einfaldar skrivligar ætlanir og ein maki, sum er
+  tætt við. Spyr persónin, tú syrgir fyri, hvat hjálp hann ella hon ynskir,
+  og lat hann ella hana ráða.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Tey flestu á byrjunarstiginum liva rættiliga sjálvstøðugt. Virksemi hava vanliga tørv á tillaging, ikki at verða skift út."
+  - "Spyr persónin, tú syrgir fyri, hvat stuðul hann ella hon ynskir, og ger ein einfaldan felags avtalu um, nær hjálp er vælkomin."
+  - "Smærri bólkar, róligari tíðir og styttri túrar gera ofta stóran mun."
+  - "Hetta er ein góður tími hjá persóninum at leiða verkætlanir um sítt egna lív, til dømis eina dagbók ella eina lívssøgubók."
+  - "Vel spøl fyri stuttleikan. Legg alt til viks, sum byrjar at kenna sum ein roynd."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Hvat virksemi hóska seg væl við demens á byrjunarstigi?"
+    a: "Vanliga tey somu, sum persónurin longu dámar: kort, borðspøl, at gera mat, garðsløgur, at ganga túrar, tónleik, trúarlig virksemi, feløg og sjálvboðið arbeiði. Tú mást kanska gera tey styttri, róligari ella einfaldari. At skriva dagbók, at skriva brøv og at gera eina lívssøgubók hóska seg eisini væl á hesum stigi."
+  - q: "Hvussu kann eg hjálpa uttan at taka yvir?"
+    a: "Spyr, hvat slag av hjálp persónurin ynskir, og spyr av og á. Ger avtalu um eitt orð ella eitt nikk, sum merkir, at tað er í lagi at stíga inn, til dømis tá eitt orð ella eitt navn ikki vil koma fram. Um eingin trygdarvandi er, lat persónin gera tað á sín hátt, sjálvt um tað tekur longri tíð."
+  - q: "Eigur onkur við demens á byrjunarstigi at royna nýtt virksemi?"
+    a: "Ja, um tey vilja tað. Kendi frítíðarítriv eru ofta lættast, men nógv fáa hug at royna okkurt nýtt, til dømis ein demensvinarligan gongubólk, ein listaflokk ella ein sangbólk. Royn tað eina ferð uttan trýst og síggj, hvussu tað kennist."
+  - q: "Eru heilaøvingar í appum tað vert í byrjunarstiginum?"
+    a: "Summum dámar pútluspøl og orðaspøl, og tann gleðin er grund nóg í sær sjálvum. Ongin app ella einki spæl er víst at viðgera, seinka ella steðga demens. Um eitt spæl skapar strongd ella fær persónin at kenna, at tað ikki eydnast, legg tað so til viks."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Á byrjunarstiginum av demens liva nógv nógv tað sama lívið sum áður. Tey kunnu arbeiða, gera sjálvboðið arbeiði, hitta vinir og skipa nógv av degnum sjálvi. Virksemi hava vanliga ikki tørv á at verða skift út, men á nakrar fáar tillagingar, so tey framvegis eru stuttlig. Leikluturin hjá tær er meira sum ein maki enn sum røktarfólk: onkur, sum stuðlar, leggur til rættis saman við persóninum og stígur bert inn, tá biðið verður um tað.
 
-## What activities are good in early-stage dementia?
+## Hvat virksemi hóska seg væl við demens á byrjunarstigi?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Tey bestu virksmini á byrjunarstiginum eru vanliga tey, sum persónurin longu er glaður fyri, gjørd eitt sindur lættari. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nevnir hugskot sum kort og borðspøl, orðaleitir, at ganga túrar, dans, garðsløgur, at seta blómur saman, at fortelja søgur, at mála, tónleik, at skriva dagbók, at skriva brøv, at gera frímerkjaalbum, at gera mat og halgisiðir.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Tað, sum ofta broytist, eru umstøðurnar, ikki sjálvt virksemið. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) vísir á, at fólk á byrjunarstiginum kunnu byrja at halda seg aftur frá tí, tey áður høvdu hug at gera, og gevur dømi um onkran, sum kennir seg ovfarin á eini stórari veitslu, men hevur tað betri í einum lítlum bólki. Tosið opið um, hvat kennist truplari, og gerið tillagingarnar saman.
 
-## Ask first, and agree on how to help
+## Spyr fyrst, og ger avtalu um, hvussu tú hjálpir
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Vegleiðingin hjá Alzheimer's Association um byrjunarstigið](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) leggur upp til nakrar vanar, sum eisini hóska seg væl til virksemi:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Spyr beint.** „Hvat hevði gjørt lesibólkin lættari hjá tær?“ gevur eitt betri svar enn at gita.
+- **Rokna við, at tey duga.** Um eingin trygdarvandi er, lat persónin royna, og gev stuðul heldur enn at taka yvir.
+- **Ger avtalu um eitt tekin.** Vel eitt orð ella eitt nikk, sum merkir „tað er í lagi at stíga inn“, til dømis tá eitt navn ikki vil koma fram í einum kortspæli.
+- **Spyr av og á.** Spyr, um nóg mikið av hjálp er, ov nógv ella ov lítið.
 
-## Activity ideas for the early stage
+## Hugskot til virksemi á byrjunarstiginum
 
-### Keep up roles and hobbies
+### Halt fram við leiklutum og frítíðarítrivi
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Halt fram við eini føstari uppgávu.** Eitt vikuligt sjálvboðið arbeiði, ein sangkórur ella eitt felag gevur vikuni fasta skipan. Um tað verður strongt, kann ein styttri ella róligari leiklutur hóska betur.
+- **Legg matætlanir saman.** Um tað at keypa inn er farið at gerast strævligt, leggur Alzheimer's Association upp til at biðja persónin hjálpa við at leggja matætlanina fyri vikuna og skriva innkeypslistan í staðin.
+- **Ger mat og baka.** Fylgið einari yndisuppskrift saman. Legg tilfar í røð, áðrenn tit byrja, so stigini eru sjónlig.
+- **Ger garðsløgur.** Legg ætlan fyri eitt beð, vel fræ ella plantur og gerið arbeiðið saman. Ein skrivligur listi við garðsarbeiðinum fyri vikuna hjálpir.
+- **Halt fram við hondverki.** Træsmiður, seyma, binding ella modelframleiðsla kunnu halda fram við einfaldari mynstrum og góðari lýsing.
 
-### Games for enjoyment
+### Spøl til stuttleika
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Spæl kort og borðspøl.** Kendi spøl eru lættast. Spælið á liðum, so eingin stendur einsamallur í miðdeplinum, og haldið støðuna leysliga ella sleppið henni heilt.
+- **Royn eina orðaleit við stórari skrift.** Okkara [word search](/games/word-search/) kann spælast á skerminum ella prentast til eina róliga løtu.
+- **Legg pútluspøl.** Vel eitt tal av bitum, sum kennist avslappandi, ikki avbjóðandi. [Picture puzzle](/games/picture-puzzle/) er ein stutt útgáva á skerminum, og okkara vegleiðing um [pútluspøl við demens](/activities/puzzles/) greiðir frá, hvussu tú velur eitt.
+- **Ver við í spurnartevlingum fyri stuttleikan.** Summum dámar sera væl ein spurnarkvøld á liði. Um tað byrjar at kenna sum ein roynd, vel so okkurt annað, ella royn okkara [lættu spurnartevlingaspurningar](/activities/trivia/), sum koma við svarmøguleikum og ongari støðu.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Spøl eru her til gleði. Einki spæl er víst at viðgera ella seinka demens; les meira í [heilaspøl: hvat granskingin sigur](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Skriva, hugsa aftur og goym
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Skriva dagbók.** Alzheimer's Association leggur upp til at skriva dagbók sum ein hátt at arbeiða við kenslunum eftir eina staðfesting. Nakrar fáar linjur um dagin er nóg mikið.
+- **Leið eina lívssøgubók.** Byrjunarstigið er ein góður tími hjá persóninum at velja sínar egnu myndir og skriva ella siga søgurnar aftanfyri. Sí [endurminningarvirksemi](/activities/reminiscence/).
+- **Skriva brøv.** Eitt bræv til eitt barnabarn, ein gamlan vin ella ein fyrrverandi arbeiðsfelaga kann týða nógv fyri báðar partar.
+- **Tosa um myndir.** [Photo pairs](/games/photo-pairs/) ger familjumyndir til eitt blítt samsvarandi spæl, og [conversation cards](/games/conversation-cards/) geva lættar byrjanir til eina samrøðu.
 
-### Go out and move
+### Far út og rør teg
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) leggur upp til at halda fram við kendum túrum, so leingi tit bæði hava tað gott við tí. Legg teir til bestu tíðina á degnum hjá persóninum, og syrg fyri, at teir ikki gerast ov langir.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Stuttir mentanartúrar.** Eitt savn, ein framsýning seinnapartin ella ein listaframsýning, helst tá tað er róligt.
+- **Svimjing.** NIA mælir til ein svimjihyl á eini róligari tíð á degnum.
+- **Gongubólkar og dansiflokkar.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nevnir dans, tai chi, yoga, svimjing og gongubólkar, og demensvinarlig tiltøk, har tey finnast.
+- **Sangbólkar og minniskaféir.** Avslappaðir bólkar, har fólk, sum liva við demens, og teirra makar kunnu møta øðrum í somu støðu.
 
-## Small changes that keep activities enjoyable
+## Smáar broytingar, sum halda virksemi stuttlig
 
-| If this is getting harder | Try this |
+| Um hetta er farið at gerast truplari | Royn hetta |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Pláss við nógvum fólki ella larmi | Far hagar, tá tað er róligt, vel smærri bólkar, set teg út við síðuna í rúminum |
+| At minnast nýggj nøvn | Bjóða fólk vælkomin við navni hvørja ferð; bið bólkar um at brúka navnskelti |
+| At fylgja ætlanum við fleiri stigum | Skriva stigini niður, ella legg alt til rættis í røð frammanundan |
+| At gerast troyttur | Styttri túrar, hvíld aftaná, einki annað lagt til tann dagin |
+| At halda skil á einum spæli | Spælið á liðum, ger reglurnar einfaldari, ella slepp at halda støðu |
+| At finna orðini | Gev tíð; bjóð bert eitt orð fram, um tann felags avtalan sigur tað |
 
-## When to slow down
+## Nær tú eigur at taka tað róligt
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Steðga ella broyt eitt virksemi, tá tað gevur meira strongd enn gleði. Endurtikin frustratión, at halda seg frá einum frítíðarítrivi ella at siga „eg megni tað bara ikki longur“ er vert at tosa blídliga um, ikki at trýsta áfram. Ofta er svarið ein minni útgáva av tí sama. Tá persónurin hevur tørv á meiri hjálp til at byrja og fylgja stigum, kunnu hugskotini í [virksemi á miðstigi](/activities/middle-stage/) hóska betur. Fyri meira um stuðlandi samrøðu, sí [ráð um samskifti](/caregiving/communication-tips/), og fyri nógv fleiri hugskot, sí [101 virksemi](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Makar hava eisini tørv á stuðli. Byrjunarstigið er ein góður tími at byggja upp títt egna netverk av hjálp; sí [egnumsøkjur hjá teimum, sum syrgja fyri onkran](/caregiving/caregiver-self-care/).

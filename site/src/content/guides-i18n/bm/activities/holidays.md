@@ -1,33 +1,33 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Dimansi Sɔrɔ Mɔgɔ Ka Nisɔndiyaw, Thanksgiving Kɔfɛ"
+seoTitle: "Nisɔndiyaw Ni Thanksgiving Ɲɛnɛmajɛw Dimansi Kɔnɔ"
+description: "Nisɔndiyaw ɲɛnɛmajɛw dimansi sɔrɔ mɔgɔ kɔnɔ: baara, ɲɛfɛ, mɛnni, sɛbɛnw ni video-kan. Ani Thanksgiving walima Christmas nisɔndiyaw ka sɛgɛn ka hɛrɛ kɛ."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Nisɔndiyaw ka ɲɛ ka mako, waati ɲɛ kɔfɛ ka ɲɛ, ka ɲɛ mɔgɔ ka ɲɛnɛmaya ka kɔrɔ ye.
+  Baara ɲɛ di mɔgɔ ma, i n'a fɔ ko ka ɲɛ sigi, ka ɲɛ tiɲɛ, walima ka ɲɛnɛ
+  sɛgɛ. Ka mɛnni ni ka sɛbɛnw ni ka kɛnɛya ɲɛnɛ ka sɛgɛn, ka ɲɛfɛ ɲɛ sɔrɔ, ani
+  ka sigi ɲɛ dɔ ka ɲɛ kɔnɔ. Aw ka ko min bɛ se ka kɛ ni hakili bɛ, o kɛ; sɛgɛsɛgɛ
+  nisɔndiyaw ye nisɔndiyaw ɲɛ ye.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Nisɔndiyaw kɛ waati ɲɛ kɔfɛ, i n'a fɔ wulilaw walima ɲɛnɛmajɛ, ni tile kɔfɛ hakili tɛ ɲɛ."
+  - "Baara ɲɛ di: tabali ɲɛ sigi, fɛn ɲɛ ko, sɛgɛn ɲɛ, ɲɛnɛ ɲɛ kɔnɔ walima kuku ɲɛ."
+  - "Mɛnni ɲɛ, ɲɛnɛ dɔ ni sɛbɛn ɲɛ kɔnɔ ye nisɔndiyaw ɲɛnɛ ɲɛ ka sɛgɛn."
+  - "Ka ɲɛfɛ kɔfɛ ka dɔ ɲɛ ko ɲɛ, ka dimansi sɔrɔ mɔgɔ ye ɲɛfɛ ɲɛnɛ ɲɛ."
+  - "Ka sigi ɲɛ ka kɛ ni dibi walima sweater ye, ani mɔgɔ dɔw kɛ ɲɛ sɔrɔ."
+  - "Aw ka fɛn min bɛ mɔgɔ bɔ ka ɲɛ, o kɛ, i n'a fɔ kuku ɲɛ ni yɛlɛmasɛgɛ ɲɛ."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Dimansi sɔrɔ mɔgɔ bɛ se ka mun kɛ Thanksgiving waati?"
+    a: "I bɛ se ka baara ɲɛ di o ma min bɛ se ka kɛ bi: ɲɛ ɲɛnɛ, ɲɛ sɔrɔ, tabali ɲɛ sigi, serviettes ɲɛ, walima dessert ɲɛ tabali kan. Kɔfɛ, aw bɛ se ka sɛbɛnw ɲɛ ka ɲɛ, walima dɔ ɲɛ ka dɔnkili ni ɲɔgɔn. Nisɔndiyaw kɔnɔ kɛ mɔgɔ ye, o ka ɲɛnɛ ka ɲɛ ka ɲɛ."
+  - q: "An bɛ se ka kɛ nisɔndiyaw nɛgɛ ka ɲɛ wa?"
+    a: "I bɛ se ka o kɛ ni a bɛ se ka kɛ. Mɔgɔ ka ɲɛ ni kɛnɛya bɛ ɲɛ ka tiɲɛ, o de kɔnɔ mɔgɔ dɔw bɛ ɲɛ kɛ dɔgɔ ka ɲɛ, ka waati ɲɛ ka ɲɛ, walima ɲɛ ka nɔ ni dɔgɔ. Alzheimer's Association bɛ kɛnɛya ɲɛ ko aw ka ko min bɛ se ka kɛ ni hakili bɛ, o kɛ."
+  - q: "An bɛ se ka ɲɛfɛ mɔgɔ min ma nɔ ɲɛ ɲɛ, o ɲɛfɛ cogo di?"
+    a: "Aw ka o ɲɛ ka fɔ ɲɛfɛ ɲɛnɛ ka kɔfɛ: fɛn dɔw ɲɛfɛ bɛ ɲɛ, o bɛ bɔ dimansi kɔnɔ, mɔgɔ yɛrɛ de tɛ. Aw ka ɲɛfɛ ka kɛ ko ka ɲɛnɛ ka tɛ, ka kuma dɔgɔ ni ɲɔgɔn bɛ, ka waati di jaabi ma. Mɔgɔ ka ɲɛ sɔrɔ ni nisɔndiyaw ɲɛ, o bɛ dɛmɛ."
+  - q: "Nisɔndiyaw ni dimansi sɔrɔ mɔgɔ ye, ɲɛ nin ye sɔgɔsɔgɔ wa?"
+    a: "Fɛn sɛgɛsɛgɛ ni mɔgɔ bɛ se ka ɲɛ bi: nɛgɛ ɲɛ min bɛ ɲɛ, dibi walima sweater, mɛnni ɲɛnɛ, walima sɛbɛn ɲɛ ni ɲɔgɔn ye. Aw ka fɛn gɛlɛya ni dɔnkili min bɛ se ka ɲɛ, o kɛ tɛ. Mɔgɔ ka sɔrɔ ɲɛ ka fɛn di, i n'a fɔ fɛn ɲɛ ka sɛbɛn ni ɲɛ, o ka ɲɛ ka sɔrɔ."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Nisɔndiyaw bɛ se ka hakilina ɲɛnɛ ɲɛ ka ɲɛ, o bɛ se ka kɛ ɲɛ, dɔgɔ ni fɛn tɛ ɲɛ ka kɛ kɔnɔ. Dimansi sɔrɔ mɔgɔ ye, nisɔndiyaw ɲɛnɛ ɲɛ ka ɲɛ ka dɔgɔ, ka sɛgɛn, ani ka kɛ fɛn min bɛ mɔgɔ ka ɲɛ sɔrɔ ka bɛn. Ɲɛnɛmajɛw nin bɛ kɛ Thanksgiving, Christmas, Hanukkah, Ɲɛ kura, ani nisɔndiyaw ka dɔ kɛ ɲɛnɛ ɲɛ.
 
-## How do I plan a calmer holiday?
+## Mun na ne bɛ nisɔndiyaw ka ɲɛnɛ ka sɛgɛn cogo di?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Aw ka mɔgɔ ka ɲɛnɛmaya ka dɔ ɲɛ, ka nisɔndiyaw ka waati ka kɛ ɲɛ ka kɔrɔ ye. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) bɛ ɲɛ ko nisɔndiyaw ka waati ɲɛ kɔfɛ ka ɲɛ, bawo hakili tɛ ɲɛ ka sɔrɔ ni tile kɔfɛ ni sɛgɛn bɛ ɲɛ (o bɛ wele sundowning). Wulilaw walima ɲɛnɛmajɛ ka ɲɛ bɛ se ka ɲɛ ka tiɲɛ ni nɔgɔ ɲɛ.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Aw ka ɲɛ ka kɛ dɔgɔ ye.** Mɔgɔ dɔgɔ, walima mɔgɔ dɔw nɔ ka ɲɛ dɔgɔ dɔgɔ, bɛ se ka ɲɛ ka tiɲɛ ni tabali dɔ ɲɛ.
+- **Baara di mɔgɔ ma.** Ka ɲɛnɛmaya ka dɔ ɲɛ ka ɲɛ di, ka ɲɛ sɔrɔ, walima ka ɲɛ ka sɔrɔ ni mɔgɔ ye ka ɲɛ kɛ. Ka ko min ka dɛmɛ, o fɔ cogo kɛrɛnkɛrɛnnen.
+- **Ɲɛnɛ ɲɛ dɔgɔ.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) bɛ ɲɛ ko yɛlɛmasɛgɛ ka tiɲɛ bɛ hakili gɛlɛya, ani nɔgɔ walima fɛn ɲɛ min bɛ kɛ ɲɛ, mɔgɔ bɛ se ka o ɲɛ ka dun.
+- **Fɛn min bɛ bɔ, o bɛ bɔ.** Ni ko dɔ bɛ kɛ gɛlɛya walima ka dɔ ɲɛ, o tɛ fɛn ɲɛ. Aw bɛ se ka o bɔ, walima ka dɔ ɲɛ ka dɔgɔ.
 
-## What holiday activities can we do together?
+## Mun ye nisɔndiyaw ɲɛnɛ min bɛ se ka kɛ ɲɔgɔn fɛ?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Aw ka baara walima ɲɛnɛ sugandi ka fɛn min bɛ se ka kɛ mɔgɔ ka bi. Mɔgɔ ka ɲɛ sɔrɔ, o ka ɲɛ ka tɛ ka fɛn min bɛ kɛ ɲɛ ye.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Tabali ɲɛ sigi ɲɔgɔn fɛ.** Ka ɲɛ ka kɛ ɲɛ sigi, kɔfɛ serviettes, kɔfɛ jɛgɛ. Serviettes ɲɛ bɛ se ka kɛ ka sigi ɲɛ.
+2. **Ɲɛnɛ ɲɛ ka ɲɛ sɛgɛn.** Ka ɲɛnɛ ɲɛ, walima ka ɲɛnɛ ɲɛ ka sɛgɛn tabali kan, o bɛ se ka kɛ ni mɔgɔ dɔw ka sɛgɛn ye, ka sɔrɔ ka ɲɛ ni dɔgɔ.
+3. **Ɲɛ, ɲɛ kɛ walima ɲɛ sigi.** Ka ɲɛ kɔnɔ ɲɛ, ka dessert ɲɛ tabali kan, o bɛ kɛ ka bi ka ɲɛ sɔrɔ.
+4. **Kuku ɲɛ.** Ka ɲɛnɛ ka kɔrɔ ni ka nɔgɔ ɲɛ kɔfɛ, ka mɔgɔ ka kuku ɲɛ ka sɛgɛn. Ka kɛ sɔrɔ ka ɲɛ dɔ ɲɛ.
+5. **Ɲɛfɛ dɔ ɲɛ.** Ka ɲɛfɛ ka dɔgɔ ɲɛ, ka dɔ ɲɛ, i n'a fɔ kɛnɛya ɲɛ walima dugu ɲɛ.
+6. **Kɛnɛya dɔgɔ kɛ.** Ka ɲɛ ka kɛ ni kɔnɔ ɲɛ, ka ɲɛ ka kɛ ni sɛbɛn ɲɛ. [Ka kɛnɛya ɲɛnɛ](/activities/arts-and-crafts/) kɛ ka ɲɛ tɔgɔ.
+7. **Ka dɔ ɲɛ ka mɛnni ɲɛ.** Mɛnni ɲɛnɛmajɛ bɛ se ka ɲɛ, o tɛ dɔgɔ ni mɔgɔ min kuma dɔgɔ. Ka [mɛnni ɲɛnɛ](/activities/music/) ɲɛ ka ɲɛ ka kɛ.
+8. **Ka sɛbɛnw ɲɛ ka ɲɛ nisɔndiyaw kɔnɔ.** Ka sɛbɛnw ɲɛ ka kɛ ni ɲɛnɛ kɔnɔ, ka kuma ɲɛ ("I ka kuma ka fɔ ne ye o tabali kɔnɔ") ka kɛ, mɔgɔ ye jɔ ye ka ɲɛ ɲɛ. [Ɲɛnɛ ɲɛ](/activities/reminiscence/) bɛ kɛ cogo di ɲɛ.
+9. **Ɲɛnɛmajɛ mɛnni ɲɛ.** [Picture bingo](/games/picture-bingo/) bɛ se ka kɛ minutes dɔ kɔnɔ, ani mɔgɔ bɛɛ bɛ se ka o kɛ. [Conversation cards](/games/conversation-cards/) bɛ kuma ɲɛ ɲɔgɔn ma.
+10. **Ka kɛnɛ ni ɲɔgɔn.** [Coloring pages](/games/coloring/) bɛ se ka kɛ dɔ ka ɲɛ ka bɔ ɲɛ, ka dɔgɔ ni denw ni kɔrɔbaw ka tabali kan.
+11. **Ka sɛgɛn dibi ɲɛ.** Ka dibi ɲɛ min bɛ mɔgɔ ka ɲɛ ka tiɲɛ, o bɛ ɲɛ dɔgɔ, ka ɲɛ ka kɛ ni dɔ ye.
+12. **Ka taxi ɲɛ ka ɲɛnɛ ɲɛ kɛ.** Ka ɲɛ ka tiɲɛ ni ɲɛnɛ ɲɛ ka ɲɛ ka kɛ ni ɲɛ dɔgɔ, o bɛ se ka ɲɛ ni mɔgɔ dɔ ye.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Ni nisɔndiyaw ka baara ye dimansi sɔrɔ mɔgɔ ka ɲɛnɛmaya ka dɔ ye, [baara ɲɛ kɛ ɲɛnɛmajɛ](/activities/household-tasks/) bɛ se ka ɲɛ ka kɛ ni ɲɛ.
 
-## How do I prepare guests?
+## Mun na ne bɛ ɲɛfɛ mɔgɔw ma?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Aw ka ɲɛfɛ mɔgɔw ma, ka fɔ ɲɛ fɛn min bɛ kɛ kɔfɛ, kɛnɛya ɲɛ ka ɲɛ. Alzheimer's Association bɛ ɲɛ ko ka ɲɛ ko hakili ni kɛnɛya gɛlɛya bɛ kɛ dimansi kɔnɔ, mɔgɔ yɛrɛ de tɛ.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Ɲɛfɛ dɔgɔ ɲɛ:** aw ka kuma ɲɛ ka dɔgɔ, ka waati di kuma ka dɔ ma, ka jaabi ɲɛ tɛ ka kɔrɔ, ani ka mɔgɔ ka kuma ka dɔgɔ ni ɲɔgɔn ye.
+- **Fɛn min bɛ dɛmɛ ni fɛn min bɛ gɛlɛya:** ni mɛnni ɲɛ kɛ dɔgɔ, ni ɲɛnɛ ɲɛ ka gɛlɛya, o fɔ.
+- **Ka mɔgɔw ɲɛ ka ɲɛfɛ:** ka sɛbɛn ɲɛ ka mɔgɔ ka ɲɛ ka ɲɛ, ka kuma dɔ ɲɛ, walima ka video kan ɲɛ nisɔndiyaw kɔfɛ.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Aw ka [kuma ɲɛnɛmaya](/caregiving/communication-tips/) ɲɛ ka kɔrɔ.
 
-## What if it gets to be too much?
+## Ni ɲɛnɛ bɛ kɛ ka gɛlɛya ɲɛ?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Ka sigi ɲɛ dɔgɔ ka ɲɛ kɔnɔ, mɔgɔ dɔw ka ɲɛ ni dɔgɔ, ka sigi ɲɛ dibi, sweater walima fɛn dɔ min bɛ mɔgɔ ka ɲɛ. Aw ka o di ɲɛ ka kɔrɔ: "An bɛ se ka sigi dɔgɔ ka ɲɛ ka kɛ wa?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Tabali bɔ, ɲɛ ka dɔgɔ, walima ɲɛ ka dɔgɔ ɲɛ ka kɛ, o tɛ gɛlɛya. Ni mɔgɔ ka ɲɛ, dɔgɔ kuma, mɛnni ɲɛ, walima ka ɲɛ ka ɲɛ ka taa dɔ kɔnɔ, o bɛ dɛmɛ ka tɛmɛ ka kuma ɲɛ. Aw ka [late-day restlessness](/caregiving/late-day-restlessness/) ka ɲɛ ka kɔrɔ, ɲɛ kɔfɛ.
 
-## How can family far away take part?
+## Mɔgɔw min bɛ ka ɲɛ, dɔgɔ ye, bɛ se ka nɔ ka na cogo di?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Video kan bɛ se ka kɛ ni mɔgɔ dɔw ye ka nɔ ka na ni tiɲɛ tɛ. Alzheimer's Association bɛ ɲɛ ko aw ka video kan ɲɛ ka kɛ ni sigi ye: nisɔndiyaw mɛnni ɲɛ, sɛgɛn ɲɛ ka kɛ kɔfɛ sɛbɛnw, ka ɲɛnɛ ɲɛ ka kɛ ni ɲɔgɔn, walima dibi ɲɛ ka ɲɛ ka kɛ ni ɲɔgɔn waati kelen na. Aw ka kan ɲɛ dɔgɔ, ani ka mɔgɔw ɲɛ ka kuma ɲɛ ni ɲɔgɔn, bawo kuma ɲɔgɔn ɲɛ bɛ gɛlɛya. [Phone and video call guide](/activities/phone-and-video-calls/) bɛ kɛ cogo di ɲɛ.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Ni mɔgɔ bɛ memory care kɔnɔ, aw ka ɲɛ ka mɔgɔ ɲɛ ka kɛ ka kɛ-kɛ kɔnɔ ka ɲɛ, ka baarakɛlaw dɛmɛ ka video kan ɲɛ. [Visiting someone in memory care](/activities/visiting/) bɛ fɛn min bɛ kɛ ka taa, ani ka bɔ cogo di.
 
-## What gifts suit someone with dementia?
+## Nisɔndiyaw sɔgɔsɔgɔ min bɛ se ka di dimansi sɔrɔ mɔgɔ ma?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Sɔgɔsɔgɔ min tɛ gɛlɛya, min bɛ se ka kɛ sɔrɔ sisan: nɛgɛ ɲɛ min bɛ ɲɛ, dibi walima cardigan, mɛnni ɲɛnɛ, calendar min bɛ ɲɛ ni ɲɛ ka fɔ ka ɲɛ, walima sɛbɛn ɲɛ ni ɲɔgɔn ye. Alzheimer's Association bɛ ɲɛ ko aw ka fɛn min bɛ ɲɛ, fɛn min bɛ gɛlɛya ni ɲɛ, ani mɛnni ɲɛ min bɛ gɛlɛya, o kɛ tɛ.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Di bɛ se ka kɛ i n'a fɔ sɔrɔ. Ni mɔgɔ ka ɲɛ ka kɛ ni ɲɛnɛ ɲɛ, walima ka nɛgɛ min ɲɛ ka kɛ ni mɔgɔ ye, o bɛ se ka mɔgɔ ka nisɔndiyaw ɲɛ. [Photo pairs](/games/photo-pairs/) bɛ sɛbɛnw dɔw ɲɛ ka kɛ mɛnni ɲɛ min bɛ se ka kɛ ka ɲɛ, ka ɲɛ ka ɲɛ, browser kɔnɔ.
 
-## Look after yourself too
+## Aw yɛrɛ hakili ɲɛ hɛrɛ
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Nisɔndiyaw bɛ baara dɔ ɲɛ kɛ ka bɔ dimansi sɔrɔ mɔgɔ ka baara kɔnɔ. Aw ka mɔgɔ dɔw ka kɛ ka dɔ ɲɛ, ka fɛn min bɛ gɛlɛya ɲɛ, ani ka waati ɲɛ ka ɲɛ ka ɲɛ, mɔgɔ dɔw bɛ mɔgɔ ka ɲɛnɛ kɔnɔ. Ni aw walima mɔgɔ min bɛ aw ka dɛmɛ, ni a tɛ ɲɛ, lakana ɲɛ kɛ kɔfɛ ka ɲɛ, walima video kan, o bɛ se ka kɛ ɲɛ kɛ. [Caregiver self-care](/caregiving/caregiver-self-care/) bɛ dɛmɛ dɔ fɔ.

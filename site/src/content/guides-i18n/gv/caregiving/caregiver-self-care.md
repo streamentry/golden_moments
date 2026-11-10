@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Cur tastey da dty hene: Scaailley, cooney as cowraghyn yn taarail"
+seoTitle: "Cur tastey da fer scansh: Scaailley as cooney"
+description: "Cowraghyn yn taarail fer scansh, kys dy gheddyn scaailley as possanyn cooney, as helplineyn seyr ayns Mannin, goaill stiagh helpline 24/7 Cheshaght Alzheimer's as yn Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
+  T'eh doillee dy liooar dy chur scansh da peiagh ta cummal rish craa yn aigney, as t'eh
+  ayrn jeh'n obbyr dy chur tastey da dty hene. Jeeagh son cowraghyn raauee myr
+  skeealys, drogh-chree, cadley gyn poayl as skeaylley veih cairn. Shirrey cooney son
+  taakyn sonrit, jean ymmyd jeh scaailley, as gow ayrn ayns possan cooney. Cooney seyr ayns Mannin ta
+  goaill stiagh helpline 24/7 Cheshaght Alzheimer's ec 1-800-272-3900 as yn Eldercare Locator ec
   1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Ta'n taarail dy mennick cheet magh myr skeealys, drogh-chree, cadley gyn poayl, trimshey as faagail seihll dty hene."
+  - "Ta scaailley cur break dhyt, veih tammylt beg gys shiaghteeyn elley, ayns thie ny ayns boayl scansh."
+  - "Shirrey cooney son taakyn sonrit; ta ymmodee sleih bailliu dy chur cooney agh cha nel fys oc kys."
+  - "Ta helpline 24/7 Cheshaght Alzheimer's (1-800-272-3900) cur cooney seyr as follit ec dagh oor."
+  - "Ta'n Eldercare Locator (1-800-677-1116) cur cooney dhyt dy gheddyn shirveishyn ynnydagh, goaill stiagh dty Area Agency on Aging."
+  - "My t'ou ayns seaghyn, cur fys er ny screeu 988. Ayns caa siyragh, cur fys er 999."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Cre ny cowraghyn jeh taarail fer scansh?"
+    a: "Ta cowraghyn cadjin goaill stiagh skeealys, beingyn ro-voght ny ro-aggraishagh, cosney jymmoose ny gennaghtyn gyn shee dy aashagh, doilleeidyn cadley, trimshey ny exney, skeaylley veih cairn, kione-phlaase ny pian dy mennick, as faagail dty hiearnys hene, spoyrt ny scansh leighagh gyn chooish. My ta cowraghyn lheid shoh taghyrt dy mennick, loayr rish dty laaue."
+  - q: "Kys nee'm scaailley y gheddyn sy voayl aym?"
+    a: "Cur toshiaght lesh yn Eldercare Locator (1-800-677-1116 ny eldercare.acl.gov) dy heet er dty Area Agency on Aging ynnydagh, shirveish ARCH National Respite Locator Service, ny helpline Cheshaght Alzheimer's ec 1-800-272-3900. Foddys mooinjeryn, cairn as volunteeryn scaailley y chur chammah."
+  - q: "Jean Medicare eeck son scaailley?"
+    a: "Son peiagh ta goaill scansh hospis, ta Medicare cur coodagh son çooyl y chooid smoo jeh scaailley gys queig laa ruyr ayns ospyl ny thie scansh dooie, rere yn National Institute on Aging. Cha nel y chooid smoo jeh inshoorans slaynt privaadee cur coodagh son scaailley; foddys Medicaid as paart jeh cummal-shirveishyn inshoorans foddey dy hirveish cooney."
+  - q: "Vel helpline Cheshaght Alzheimer's dy firrinagh seyr as ayns yn oie chammah?"
+    a: "Ta. T'eh gra ec Cheshaght Alzheimer's dy vel yn Helpline ec 1-800-272-3900 seyr as follit, as currit da dy chooilley oor, 365 laa 'sy vlein, lesh cooney ayns ymmodee çhengaghyn troo stiureyderyn dwy-çhengey ny interpreteryn. Cur fys er 711 son shirveish relaa. Foddys oo loayrt mychione caghlaaghyn ymmyrkey, taarail fer scansh, reihyn scaailley, claaghyn ynnydagh as ny smoo, as shirrey cooney foddey ny smoo veih consultagh scansh. Cha nel y stiureyderyn cur coyrle leighagh."
+  - q: "Vel eh jymmooseagh dy ghoaill break veih cur scansh?"
+    a: "Cha nel. Ta shee cur cooney dhyt dy chummal er cur scansh, as foddys scaailley chammah cur caghlaa jeh co-chianglt as ymmyrkey da'n pheiagh t'ou cooney lesh. T'ad gra lurg dy liooar ec ymmodee fer scansh dy row ad bailliu dy ve er shirrey cooney ny s'anmey."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+My t'ou cur scansh da peiagh ta cummal rish craa yn aigney, shegin dhyt ve lhaih shoh dy moal, skeealagh, as lesh rolley dy chooid nagh vel er jeet gys y jerrey foast. Shoh red cadjin. Cha nel cur tastey da dty hene na ard-vayrt ny leagh son jannoo dagh red. T'eh yn red ta cur cooney dhyt dy chummal er.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ta'n duillag shoh cur stiagh cowraghyn raauee yn taarail, kys dy gheddyn break firrinagh, c'raad dy gheddyn cooney, as helplineyn seyr ayns Mannin oddys oo cur fys er jiu.
 
-## What are the signs of caregiver burnout?
+## Cre ny cowraghyn jeh taarail fer scansh?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Ta'n taarail dy mennick cheet magh dy mall, myr shen t'eh cooneyagh dy hoiggal dty cowraghyn raauee hene. Ta'n [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) cur stiagh cowraghyn jeh stress fer scansh, goaill stiagh:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- skeealys, beingyn ro-voght ny ro-aggraishagh;
+- cosney jymmoose ny gennaghtyn gyn shee dy aashagh;
+- gennaghtyn lonesome ny er-skeaylt veih sleih elley;
+- doilleeidyn cadley, ny gyn wheesh cadley;
+- gennaghtyn trimshey ny exney, ny goll er choayl taitnys ayns reddyn va taitnys ayd roish;
+- kione-phlaase dy mennick, pian ny greinnaghtyn corp erbee elley;
+- gyn traa son spoyrt ny jannoo bee slayntoil dhyt hene;
+- faagail folt-ghoal ny cur tastey elley da dty chorp;
+- jannoo ymmyd ass ro-vlein jeh ylleydagh ny drogheddyn, goaill stiagh lhiggan screeuit.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+Ta [Cheshaght Alzheimer's](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) cur stiagh chammah cowraghyn myr ass-yoar mychione y ghlenney, jymmoose er y pheiagh ("t'eh jannoo shen dy yindyssagh er y chooid smoo"), aggairys mychione y traa ry heet, doilleeidyn dy chur tastey, as greinnaghtyn slaynt goaill toshiaght. T'eh cur coyrle dy loayrt rish dty laaue my ta cowraghyn lheid shoh taghyrt dhyt dy mennick.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Cha nel coyrle yn NIA dy chur fuirey derrey t'ou slane ro-voght. Cur tastey da dty cowraghyn gyn moal as jean red erbee.
 
-## What can I do today, in five minutes?
+## Cre oddym jannoo jiu, ayns queig minnidyn?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Foddys breaks beg scughanys y chur. Cha jean ad yn taarail y lhiasaghey, agh foddys ad cooney dhyt dy gholl trooid fastyr crampey.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Gow ersooyl magh.** Soie er y verandah ny gow cammag gys y chione posta derrey ta'n peiagh sauçhey as soit dy aashagh.
+- **Skeayl dy mall.** Paart dy skeayltyn mall roish my t'ou cur freggyrt da vraag doillee. Foddys oo [Skeayltyn Sheeoil](/games/calm-breathing/) y rheynn marish y pheiagh t'ou cooney lesh, chammah.
+- **Iu ushtey as gee red ennagh.** T'eh aashagh dy yarrood dty meealyn hene.
+- **Cur messag da un charrey.** Cha nee dy hirrey cooney, agh dy ve cochianglt.
+- **Insh red mie dhyt hene.** Ta coyrle yn NIA 'sy [stoo-shleeuiderys dy chur tastey dhyt hene](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) goaill stiagh abbyrlhit myr "Ta mee jannoo yn chooid share oddym," "Cha nel mee peccoil, as ta shen cooie," as "Nee'm goaill taitnys jeh ny minnidyn tra oddys mayd ve cooidjagh ayns shee."
 
-## What is respite care, and how do I get it?
+## Cre't'eh scaailley, as kys nee'm eh y gheddyn?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+T'eh scansh giare son y pheiagh t'ou cur tastey da, er y fa dy vod oo ghoaill shee. Ta duillag yn NIA er [scaailley](https://www.nia.nih.gov/health/caregiving/what-respite-care) soilshaghey dy vod eh veih paart dy ooryn gys shiaghteeyn elley, as dy vod eh taghyrt ayns thie, ayns thie scansh slaynt ny ayns ynnyd laa scansh voostey.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+Ta [Cheshaght Alzheimer's](https://www.alz.org/help-support/caregiving/care-options/respite-care) cur stiagh sorçhyn cadjin:
 
-| Type | What it is |
+| Sorch | Cre t'eh |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Cooney 'sy thie | Ta carrey, mooinjer, volunteer ny fer cooney eeckit ny scuirrey cheet dys y thie |
+| Ynnyd laa scansh | Ymmyrkey sonrit myr kiaull as art ayns possan sauçhey; ta cummal as bea dy mennick currit chammah |
+| Oie ny fuirriaght giare | Ta co-hrimman scansh foddey cur scansh da'n pheiagh son oie, paart dy laaue ny shiaghteeyn elley |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Quoi eecks?** Rere yn NIA, foddys scaailley veih mooinjeryn, cairn ny volunteeryn ve gyn cosney. Ta shirveishyn phrofeeshoil eeckit er oor ny er laa. Son peiagh ta goaill scansh hospis, ta Medicare cur coodagh son çooyl y chooid smoo jeh scaailley gys queig laa ruyr ayns ospyl ny thie scansh dooie. Foddys Medicaid cooney. Cha nel y chooid smoo jeh inshoorans slaynt privaadee cur coodagh son scaailley, ga dy vod paart jeh cummal-shirveishyn inshoorans foddey dy hirveish shen y yannoo.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Coyrle:** Ta Cheshaght Alzheimer's cur coyrle dy yeeagh scaailley-provider ayns caa nagh vel siyragh, er y fa dy bee ad kiarit my t'ou feme er cooney dy tappee.
 
-## Where can I find help near me?
+## C'raad oddym cooney y gheddyn sy voayl aym?
 
-Several free US services can point you to local help.
+Ta paart dy shirveishyn seyr ayns Mannin oddys cur stiagh dhyt gys cooney ynnydagh.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Helpline 24/7 Cheshaght Alzheimer's: 1-800-272-3900.** Ta'n [Helpline](https://www.alz.org/help-support/resources/helpline) seyr as follit, currit da dy chooilley oor dagh laa jeh'n vlein, lesh cooney ayns ny smoo na 200 çhengey troo stiureyderyn dwy-çhengey ny interpreteryn. Cur fys er 711 son shirveish relaa. Foddys oo loayrt mychione caghlaaghyn ymmyrkey, taarail fer scansh, reihyn scaailley, claaghyn ynnydagh as ny smoo, as shirrey cooney foddey ny smoo veih consultagh scansh. Cha nel y stiureyderyn cur coyrle leighagh.
+- **Eldercare Locator: 1-800-677-1116.** Ta'n [Eldercare Locator](https://eldercare.acl.gov/), shirveish phobble jeh'n Administration for Community Living, cur cooney dhyt gys shirveishyn son sleih shenn as nyn mooinjeryn. Foddys oo cur fys er, screeu, chattey er yn eddyr-voggyl ny cur post-lheiter, ny yannoo shirrey rere ynnyd. Foddys eh cur stiagh dhyt gys dty Area Agency on Aging ynnydagh.
+- **Shirveish ARCH National Respite Locator Service.** Ta [locater scaailley ARCH](https://archrespite.org/caregiver-resources/respitelocator/) cooney dhyt dy gheddyn fer scansh scaailley rere steat, as cur coyrle dy chur fys da dty State Respite Coalition ny Lifespan Respite program hoshee my ta un chellvane ayns dty stayt. Ta ARCH cur tastey nagh vel eh jeeagh er ny provider, myr shen jean cur tastey da nyn experiance as nyn chaghlaa hene.
 
-## How do I find a support group?
+## Kys nee'm possan cooney y gheddyn?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Shirrey er y Helpline ny jeeagh er yn eddyr-voggyl son possanyn faggys dhyt. Ta Cheshaght Alzheimer's [reill possanyn cooney](https://www.alz.org/help-support/community/support-groups) son fer scansh as son sleih ta cummal rish craa yn aigney, ayns boayl ny er yn eddyr-voggyl, currit lesh stiureyderyn er ny chur-oik. Ta ymmodee ynnydyn cur chammah possanyn er lheh, son sample fer scansh aeg ny son sleih ta cummal rish Alzheimer's dy ve ayns traa ny hoshee. Ta ad chammah cosney ALZConnected, co-chorp seyr er yn eddyr-voggyl raad ta fer scansh rheynn coyrle.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Foddys possanyn cooney ve ynnyd dy skeaylley gyn vree erbee, dy gheddyn cleayney prakticoil veih sleih ta er ve ayns shen roish, as dy gennaghtyn nagh vel oo ny-lomarcan. My nagh vel y chied phossan cooie dhyt, proov fer elley.
 
-## How do I ask family and friends for help?
+## Kys nee'm shirrey cooney veih mooinjeryn as cairn?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Bee sonrit. Ta ymmodee sleih bailliu dy chur cooney agh cha nel fys oc cre dy chur. Ta'n NIA cur coyrle:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Cummal rolley** jeh taakyn oddys sleih elley y ghoaill, as lhig da sleih reih.
+- **Cur toshiaght veg** my ta eh doillee dhyt dy hirrey.
+- **Cur y taak da'n pheiagh cooie.** T'an collane ta graih echey er choadey cur arroo er Jerrey Heiney. T'an neighbor ta mie lesh formyn cooney lesh phaper.
+- **Cur messag ny post-lheiter** my ta eh doillee dhyt dy hirrey eddyr yn daa cheilley.
+- **Cleayney freggyrt** son tra ta dooinney ennagh currit cooney: "Gura mie ayd son feysht. Shoh ny oddys oo y yannoo."
+- **Fuirr son nagh** as ny jean eh goaill dhyt dy pheccagh.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Ta smooaghyn elley: shirrey er dooinney ennagh dy soie marish y pheiagh son fastyr, dy ghoaill eh er çhaghteraght giare, ny dy heet dy yeeagh as cloie cluig marish. Ta nyn [stoo-shleeuiderys dy chloie cooidjagh](/caregiving/how-to-play-together/) aashagh dy rheynn marish visitor.
 
-## What if something happened to me?
+## Cre my vees red ennagh taghyrt dooys?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Jean cummal-plan aashagh nish. Ta'n NIA cur coyrle dy chur raaue lesh mooinjeryn ny cairn jeen quoi oddys ghoaill ynnyd, as dy chummal lioar lesh earrooyn siyragh, lhiggan, cleayney ymmyrkey ta gobbraghey, as cloie taitnysagh. Ta Cheshaght Alzheimer's cur coyrle chammah dy chummal co-haghtey leighagh y pheiagh as rolley lhiggan jeianagh er nyn son dy aashagh y gheddyn.
 
-## When should I get professional or urgent help?
+## Tra vees feme aym er cooney phrofeeshoil ny siyragh?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Loayr rish dty laaue my ta cowraghyn stress taghyrt dy mennick, my t'ou gennaghtyn trimshey, ny my t'ou doillee dy ymmyrkey. Insh da dty laaue t'ou ny fer scansh. Ta'n NIA soilshaghey dy vod coyrleeaghderyn as shirveishaghyn sheshoil cooney lesh gennaghtyn crampey as cummal, as dy vod Medicare, Medicaid as paart jeh inshoorans privaadee coodagh son paart dy chosney slaynt aigney.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+My t'ou gennaghtyn ayns seaghyn ny smooinaghtyn dy yannoo olk dhyt hene, cur fys er ny screeu 988 dy heet er [988 Suicide & Crisis Lifeline](https://988lifeline.org/), seyr as ayns boayl er dy chooilley oor. My ta peiagh ayns gaue dy leah, cur fys er 999.
 
-## Can shared activities give me a break too?
+## Foddys cloie cooidjagh cur break dooys chammah?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Foddee eh, ec traaue. Foddys ymmyrkey sheeoil t'ou goaill taitnys ayn jeh ve ayrn ny s'aashagh jeh'n laa er son uss chammah as son y pheiagh t'ou cooney lesh: clashtyn arraneyn shenn, jeeagh er jallooaghyn, ny cluig myr [Cardyn Co-loayrt](/games/conversation-cards/) nagh vel feme er freggyrt kiart. My ta'n pheiagh goaill taitnys jeh co-chianglt, foddys sesson phossan lesh [Bingo Jallooyn](/games/picture-bingo/) ayns ynnyd shenn ny claare laa scansh cur oor jeh scaailley dhyt. Jeeagh er [ymmyrkey son possanyn ayns thie scansh](/activities/care-home-groups/) son smooinaghtyn elley.

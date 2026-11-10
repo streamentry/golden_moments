@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Si pò prevene a dimenza? Ciò chì dice a ricerca"
+seoTitle: "Prevene a dimenza? Ciò chì dice a ricerca"
+description: "Ciò chì a Cummissione Lancet 2024 è i grandi studii anu trovu nant'à a riduzzione di u risicu di dimenza, i so limiti, è passi da discute cù un duttore."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Nimu pò prumette di prevene a dimenza. A Cummissione Lancet 2024 hà stimatu
+  chì guasi a metà di i casi di dimenza in u mondu sò ligati cù 14 fattori di
+  risicu chì si ponu forse cambià, cum'è a pressione alta, a perdita di
+  l'uditu è a poca attività fisica. I studii mostranu effetti chjuchi nant'à i
+  testi di pensamentu, micca a prova di menu casi di dimenza. Parechje persone
+  chì facenu tuttu « bè » sviluppanu quantunque a dimenza, è ùn hè micca colpa
+  di nimu.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "A Cummissione Lancet 2024 hà ligatu circa 45 % di i casi di dimenza in u mondu cù 14 fattori di risicu chì si ponu forse cambià. Hè una stima à livellu di pupulazione, micca una garanzia persunale."
+  - "Riduce u risicu vole dì calà e probabilità in tutta una pupulazione. Ùn vole micca dì chì una persona sola pò evità a dimenza."
+  - "Grandi studii cum'è FINGER, US POINTER è SPRINT MIND anu trovu picculi benefizii nant'à i testi di pensamentu o nant'à u deterioramentu cognitivu ligeru, ma nimu hà pruvatu chì un prugramma di modu di vita prevenga a dimenza."
+  - "L'età hè u fattore di risicu cunnisciutu u più impurtante per a malatia d'Alzheimer, è ùn si pò micca cambià. Parechje persone cù abitudini sane sviluppanu quantunque a dimenza."
+  - "I passi i più spessu studiati, cum'è curà a pressione alta, aduprà apparecchi acustici è stà attivi, meritanu d'esse discorsi cù un duttore perchè aiutanu a salute ancu in altri modi."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Si pò prevene a dimenza?"
+    a: "Ùn ci hè micca un modu pruvatu per prevene a dimenza per una persona sola. A ricerca suggerisce chì calà certi risichi, cum'è a pressione alta, a perdita di l'uditu micca curata è u fume, pò calà a probabilità di dimenza in una pupulazione o ritardà u so principiu. Si tratta di probabilità, micca di prumesse."
+  - q: "Chì vole dì a cifra di 45 % di a Cummissione Lancet?"
+    a: "A Cummissione Lancet 2024 hà stimatu chì circa 45 % di i casi di dimenza in u mondu sò ligati cù 14 fattori di risicu chì si puderianu, in teoria, cambià. A stima parte da l'idea chì sti fattori causanu a dimenza, è l'autori facenu nutà chì certi ligami ponu esse solu in parte causali. Discrive pupulazioni sane è ùn indica micca u risicu di una persona particulare."
+  - q: "S'è u mo genitore avia un modu di vita sanu, perchè hà sviluppatu a dimenza?"
+    a: "L'età, i geni è parechji fattori chì nimu ùn cuntrolla anu una grande parte in a dimenza. L'autori di a Cummissione Lancet facenu nutà chì calà u risicu in una pupulazione ùn guarantisce micca chì una persona sola eviterà a dimenza. Un diagnosticu ùn hè micca u segnu chì qualchissia hà fiascatu."
+  - q: "Hè troppu tardi per calà u risicu di dimenza dopu à 65 anni?"
+    a: "A Cummissione Lancet dice chì ùn hè mai troppu prestu nè troppu tardi per riduce u risicu, ancu s'è una grande parte di e prove cuncerna l'età media. Curà i prublemi d'uditu è di vista, stà attivi è mantene i cuntatti cù l'altri sò esempii di passi studiati più tardi in a vita. Parlatene cù un duttore per vede ciò chì cunvene à a vostra salute."
+  - q: "I ghjochi per u cerbellu o certi rigimi alimentarii prevengenu a dimenza?"
+    a: "Nisun ghjocu, alimentu, cumplementu o rigimu alimentariu hè statu pruvatu per prevene a dimenza. Un studiu di trè anni nant'à u rigimu MIND ùn hà trovu nisuna differenza significativa in u pensamentu paragunatu à un rigimu di cuntrollu, è l'applicazioni cummerciali di eserciziu per u cerbellu ùn anu micca dimustratu l'effetti visti in i studii di ricerca."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+S'è vo vi pigliate cura di una persona chì campa cù a dimenza, o s'è vo avete vistu un genitore campà cun ella, vi site forse dumandatu s'ella si pudia impedisce, è s'è vo pudete impedisce ch'ella vi tocchi. Sta pagina spiega ciò chì a ricerca dice veramente, in parolle simplici. A risposta corta : nimu pò prumette di prevene a dimenza, ma a ricerca suggerisce chì certi risichi si ponu calà, è chì calalli in tutta una pupulazione pò significà menu persone chì sviluppanu a dimenza o chì a sviluppanu più tardi.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Si tratta d'infurmazione generale, micca di cunsiglii medichi. Vi pregu di leghje a nostra [dichjarazione medica](/medical-disclaimer/) è di parlà cù un duttore di a vostra propria salute.
 
-## Can dementia be prevented?
+## Si pò prevene a dimenza ?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Ùn ci hè micca un modu pruvatu per prevene a dimenza per una persona sola. U National Institute on Aging (NIA) dice chì, ancu s'è [nunda ùn hè statu ancora pruvatu per prevene a malatia d'Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), i circadori anu trovu strategie prumittenti è stanu amparendu ciò chì pò funziunà è ciò chì forse ùn funziona micca.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Ciò chì a ricerca *mustra* hè chì certi prublemi di salute è certe abitudini sò ligati cù una probabilità più alta di dimenza. Quandu sti risichi sò più bassi in tutta una pupulazione, menu persone ponu sviluppà a dimenza, o ponu sviluppalla più tardi in a vita. Hè assai sfarente da una garanzia.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Un segnu chì dà speranza : a Cummissione Lancet 2024 hà signalatu chì in certi paesi à altu redditu, cum'è i Stati Uniti è u Regnu Unitu, a parte di persone anziane cù dimenza hè calata. L'autori pensanu chì questu hè forse ligatu in parte à una educazione megliu, à cure sanitarie megliu è à menu danni à i vasi sanguigni in u corsu di a vita, secondu [u riassuntu di l'Università College di Londra nant'à u raportu](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Chì hà trovu a Cummissione Lancet 2024 ?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+A Cummissione Lancet nant'à a prevenzione, l'intervenzione è a cura di a dimenza hè un gruppu di 27 circadori nant'à a dimenza chì rivisanu e prove ogni pochi anni. U so raportu di u 2024 hà numinatu **14 fattori di risicu** chì si ponu forse cambià, è hà stimatu chì inseme rapprisentanu **guasi a metà (circa 45 %) di i casi di dimenza in u mondu**. In e parolle di l'autori, sti casi si puderianu *in teoria* prevene o ritardà s'è i risichi fussinu eliminati ([raportu di a Cummissione Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+I 14 fattori, raggruppati secondu a tappa di a vita induve e prove sò più forte :
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Prima parte di a vita :** menu educazione.
+- **Età media (circa da 40 à 65 anni) :** perdita di l'uditu, colesterolu LDL (« cattivu ») altu, depressione, ferita à a testa, poca attività fisica, diabete, fume, pressione alta, obesità è cunsumu forte d'alcol.
+- **Più tardi in a vita :** isolamentu suciale, inquinamentu di l'aria è perdita di a vista micca curata.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+I dui fattori aghjunti in u 2024 eranu u colesterolu LDL altu è a perdita di a vista micca curata. I fattori ligati cù a parte più grande di casi eranu a perdita di l'uditu è u colesterolu LDL altu (circa 7 % ognunu), seguitati da menu educazione è l'isolamentu suciale (circa 5 % ognunu).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+A nostra [guida nant'à i fattori di risicu](/brain-health/risk-factors/) ripiglia tutti i 14 in un tavulone, cù ciò chì a ricerca liga è ciò chì pudete fà.
 
-### What the 45% figure does not mean
+### Ciò chì a cifra di 45 % ùn vole micca dì
 
-It is easy to misread this number, so it helps to be precise:
+Hè faciule d'interpretà male stu numeru, allora aiuta à esse precisi :
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Hè una stima à livellu di pupulazione.** Discrive i casi di dimenza in u mondu, micca e vostre probabilità o quelle di u vostru genitore.
+- **Parte da l'idea di causa è effettu.** L'autori dicenu ch'elli anu inclusu solu fattori di risicu cù prove cunvincente, ma chì certi ligami ponu esse solu in parte causali. Per esempiu, a depressione più tardi in a vita pò esse qualchì volta un sintomu iniziale di dimenza piuttostu cà una causa.
+- **Ùn guarantisce nunda per una persona sola.** U riassuntu di UCL face nutà chì riduce u risicu funziona à livellu di pupulazione è ùn guarantisce micca chì una persona sola eviterà a dimenza.
+- **L'altra metà ùn hè micca spiegata da sti fattori.** L'età, i geni è cause chì i scienziati ùn capiscenu ancu facenu u restu.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Chì differenza ci hè trà « riduzzione di u risicu » è « prevenzione » ?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+A **riduzzione di u risicu** vole dì calà e probabilità. S'è un grande gruppu di persone cala a so pressione, menu persone in stu gruppu ponu sviluppà a dimenza in parechji anni paragunatu à ciò chì seria accadutu altrimenti. Certe persone in stu gruppu a sviluppanu quantunque.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+A **prevenzione** dà l'idea d'impedisce cumpletamente qualcosa. Per a dimenza, ùn hè micca qualcosa chì a ricerca pò prumette à nimu oghje.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+I circadori parlanu ancu di **ritardu**. A Cummissione Lancet signaliza prove nove chì calà u risicu pò ritardà u principiu di a dimenza è accurtà u tempu chì una persona passa cù prublemi di salute. Ancu un ritardu di pochi anni pò cuntà assai per una persona è a so famiglia.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Nant'à stu situ, usamu à posta « calà u risicu » è « ligatu cù ». Quandu vidite un pruduttu, un cumplementu o un prugramma chì prumette di « prevene l'Alzheimer », siate prudente. U NIA cunsiglia di parlà cù un duttore prima di pruvà ogni pastiglia o trattamentu chì prumette di prevene l'Alzheimer, perchè tali prudutti ponu esse periculosi, una perdita di soldi, o i dui.
 
-## What have large trials found?
+## Chì anu trovu i grandi studii ?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+I studii d'osservazione (chì guardanu ciò chì accade à e persone cù u tempu) ponu mustrà ligami. I studii aleatorii, induve e persone sò assignate à casu à un prugramma o à un gruppu di paragone, sò una prova più forte. Eccu ciò chì anu trovu certi di i studii i più cunnisciuti.
 
-### FINGER (Finland)
+### FINGER (Finlandia)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+U studiu FINGER hà inclusu 1 260 adulti da 60 à 77 anni chì avianu un risicu più altu di dimenza. A metà hà ricevutu un prugramma di dui anni cù cunsiglii alimentarii, eserciziu, esercizii per u cerbellu nant'à l'urdinatore è cuntrolli di a salute di u core è di i vasi sanguigni ; l'altra metà hà ricevutu cunsiglii generali di salute. U gruppu di u prugramma hà fattu un pocu megliu nant'à un inseme di testi di pensamentu, una differenza chjuca ma significativa nant'à u pianu statisticu ([studiu FINGER in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). U studiu hà misuratu i risultati di i testi, micca i diagnostichi di dimenza.
 
-### US POINTER (United States)
+### US POINTER (Stati Uniti)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER hà inclusu 2 111 adulti da 60 à 79 anni chì eranu pocu attivi, avianu un rigimu menu sanu è avianu altri fattori di risicu. I dui gruppi sò stati incuraghjiti à esse più attivi fisicamente è mentalmente, à manghjà megliu, à mantene ligami suciali è à surveglià a salute di u core. Un gruppu hà ricevutu un prugramma strutturatu cù accumpagnamentu ; l'altru si hè guidatu da per ellu. In dui anni, i risultati di i testi di pensamentu anu migliuratu in **i dui** gruppi, è un pocu di più in u gruppu strutturatu ([studiu US POINTER in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). L'autori dicenu chì ci vole più seguitu per sapè s'è a differenza conta in a vita d'ogni ghjornu. Siccomu ùn ci era micca un gruppu chì « ùn facia nunda », u studiu ùn pò micca dì quantu ogni prugramma hà aiutatu paragunatu à nisun cambiamentu.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (pressione sanguigna)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND hà studiatu 9 361 adulti di 50 anni è più in i Stati Uniti cù pressione alta. Sò stati assignati à un scopu di pressione più bassu (numeru di sopra sottu à 120) o à u scopu abituale (sottu à 140). U scopu più bassu hà riduttu in modu significativu u **deterioramentu cognitivu ligeru**, una tappa di prublemi di memoria è di pensamentu chì pò vene prima di a dimenza. Per a **demenza prubabile**, ci eranu menu casi in u gruppu cù u scopu più bassu, ma a differenza ùn era micca significativa nant'à u pianu statisticu. U studiu hè statu fermatu prima è hà avutu menu casi di dimenza ch'è previstu, allora pò esse statu troppu chjucu per risponde à sta dumanda ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Ciò chì mostranu e sintesi di i studii
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Una rivista Cochrane di u 2021 hà riunitu nove grandi studii nant'à prugrammi chì trattanu parechji risichi à tempu, cù più di 18 000 persone. Hà trovu un picculu benefiziu nant'à i testi di pensamentu, ma **nisuna differenza chjara in u numeru di persone chì anu sviluppatu a dimenza** in i dui studii chì l'anu misurata ([rivista Cochrane nant'à l'intervenzioni multi-duminiu](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Una rivista di u 2017 di e National Academies of Sciences, Engineering, and Medicine, riassunta da u NIA, hà trovu prove « incuraghjenti ma micca cunclusive » per trè approcci : cuntrullà a pressione alta, cresce l'attività fisica è l'eserciziu cognitivu.
 
-## Does it matter when you start?
+## Conta quandu si principia ?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+U cunsigliu di a Cummissione Lancet hè di calà i risichi u più prestu pussibule è di mantinelli bassi u più longu pussibule : « u più prestu, u megliu » è « u più longu, u megliu ». Dice ancu chì ùn hè mai troppu prestu nè troppu tardi per riduce u risicu. Una grande parte di e prove cuncerna l'età media, circa da 40 à 65 anni, ma certi fattori, cum'è a perdita di a vista è l'isolamentu suciale, sò risichi di più tardi in a vita induve agisce pò ancu avè sensu.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+U raportu dice chì ci sò oghje prove più forte chì una esposizione più longa à un risicu hà un effettu più grande. Per esempiu, u diabete chì principia à l'età media pare più impurtante ch'è quellu chì principia più tardi.
 
-## Is dementia risk the same for everyone?
+## U risicu di dimenza hè listessu per tutti ?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Innò. A Cummissione hà trovu chì e persone in i paesi à redditu bassu è mediu, e persone di gruppi minoritarii è e persone cù menu soldi portanu spessu più di sti risichi, allora a dimenza tende à sviluppassi à un'età più ghjovana. Parechji risichi sò ligati à circustanze chì e persone ùn anu micca sceltu, cum'è a qualità di a scola ch'elli anu avutu da zitelli, l'aria induve campanu è s'è l'alimentu sanu hè accessibile è vicinu.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Hè per quessa chì e racumandazioni di a Cummissione s'indirizzanu à i guverni quant'è à e persone : una bona educazione per tutti i zitelli, aria più pulita, misure per riduce u fume, menu zuccheru è menu sale in l'alimenti venduti in i magazini è i ristoranti, è apparecchi acustici per tutti quelli chì ne anu bisognu. L'impegnu persunale conta, ma conta ancu u mondu induve a ghjente campa. Hè una ragione di più per ùn dà a colpa à nimu per un diagnosticu.
 
-## What are the honest limits of this research?
+## Chì sò i limiti onesti di sta ricerca ?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **A dimenza si sviluppa in decennii**, ma a maiò parte di i studii duranu da dui à cinque anni. Misurà a dimenza stessa, micca solu i risultati di i testi, hà bisognu di studii assai longhi è assai grandi.
+- **A maiò parte di i studii misuranu i testi di pensamentu.** Una piccula migliurà nant'à un testu ùn vole micca necessariamente dì chì menu persone svilupperanu a dimenza o chì a vita d'ogni ghjornu serà più faciule.
+- **I vuluntarii sò spessu più sani** è più educati chè a pupulazione generale. A Cummissione Lancet face nutà chì a maiò parte di e prove vene sempre da paesi à altu redditu è chì i gruppi minoritarii sò sottu rapprisentati.
+- **Certi ligami vanu in i dui sensi.** Esse menu attivi o menu suciali pò esse un effettu iniziale di a dimenza, micca solu una causa.
+- **I studii nant'à l'alimentazione sò stati deludenti fin'à quì.** Un studiu di trè anni nant'à u rigimu MIND ùn hà trovu nisuna differenza significativa in u pensamentu paragunatu à un rigimu di cuntrollu. Vidite a nostra [guida nant'à l'alimentazione](/brain-health/diet/).
+- **I ghjochi per u cerbellu ùn sò micca pruvati per prevene a dimenza.** Vidite a nostra guida nant'à [i ghjochi per u cerbellu è a dimenza](/brain-health/brain-games/).
+- **U digiunu hà prove umane assai limitate**, è pò esse risicatu per l'adulti anziani. Vidite a nostra [guida nant'à u digiunu](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## S'è qualchissia hà fattu tuttu « bè », perchè hà sviluppatu quantunque a dimenza ?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Perchè a dimenza ùn hè micca solu u risultatu di e scelte. U NIA dice chì [l'età hè u fattore di risicu cunnisciutu u più impurtante per l'Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), è nimu ùn a pò cambià. I geni anu una parte. È i scienziati ùn capiscenu ancu cumpletamente ciò chì causa l'Alzheimer in a maiò parte di e persone. Ancu s'è tutti i 14 fattori di risicu fussinu eliminati, a stima stessa di a Cummissione Lancet lascia più di a metà di i casi senza spiegazione.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Allora, s'è vo vi pigliate cura di qualchissia chì facia eserciziu, manghjava bè, ùn fumava mai è hà sviluppatu quantunque a dimenza, nunda hè andatu male da a so parte, nè da a vostra. S'è vo campate voi stessu cù a dimenza, ùn hè micca a vostra colpa. U sensu di colpa hè cumunu in e famiglie, ma ùn hè micca meritatu. Ciò chì conta avà sò u cunfortu, i ligami è i boni mumenti. E nostre [idee d'attività](/activities/ideas/) è a nostra [guida nant'à a cura di sè per e persone chì aiutanu](/caregiving/caregiver-self-care/) sò un bonu puntu di partenza.
 
-## What steps can you talk over with a doctor?
+## Chì passi pudete discute cù un duttore ?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Quessi sò i duminii i più spessu studiati. Vale a pena di parlane durante una visita perchè a maiò parte aiutanu a salute di u core, l'umore è l'autonomia, qualunque sia u so effettu nant'à a dimenza.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Pressione sanguigna.** Dumandate quali sò i vostri numeri è quale scopu cunvene per voi. A Cummissione Lancet suggerisce di mirà à un numeru di sopra di 130 o menu da circa 40 anni, ma u scopu ghjustu per un adultu anzianu dipende da a so salute generale.
+2. **Uditu.** Dumandate un test d'uditu è s'è l'apparecchi acustici vi puderianu aiutà. A nostra [guida nant'à l'uditu](/brain-health/hearing/) spiega a ricerca.
+3. **Vista.** Fate esami regulari di a vista è dumandate s'è i prublemi cum'è a cataratta si ponu curà.
+4. **Colesterolu.** Dumandate s'è u vostru colesterolu LDL deve esse cuntrullatu è s'è qualcosa deve cambià.
+5. **Zuccheru in u sangue.** S'è vo avete u diabete, dumandate cumu gestillu in modu sicuru.
+6. **Umore.** A depressione hè cumuna è si pò curà. Dite à u vostru duttore s'è vo vi site sintutu ghjù o avete persu l'interessu per e cose dapoi più di duie settimane.
+7. **Fume è alcol.** Dumandate aiutu per smette di fumà è infurmazioni nant'à i limiti sicuri per l'alcol.
+8. **Muvimentu.** Dumandate chì tipu d'attività hè sicura per voi. A nostra [guida nant'à l'eserciziu](/brain-health/exercise/) hà idee.
+9. **Prutezzione di a testa.** Purta un cascu per andà in bicicletta è per i sporti di cuntattu, è dumandate cunsiglii per prevene e cascate.
+10. **Mantene i ligami.** U tempu cù l'altri face parte di una vita sana. Vidite a nostra guida nant'à [i ligami suciali](/brain-health/social-connection/) è ancu quella nant'à [u sonnu](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Prima di cambià medicine, alimentazione, cumplementi, digiunu o eserciziu, parlatene prima cù u vostru duttore, soprattuttu s'è vo avete malatie di core, diabete, antecedenti di cascate, o s'è vo campate dighjà cù a dimenza.
 
-## Talk with a doctor
+## Parlate cù un duttore
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+S'è vo nutate cambiamenti di memoria o di pensamentu chì vi preoccupanu, in voi stessu o in qualchissia altru, pigliate un appuntamentu. U NIA face nutà chì [i prublemi di memoria ponu avè altre cause](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), cum'è effetti secundarii di medicine, prublemi di tiroide, depressione o poca vitamina B12, è chì certi di sti prublemi spariscenu quandu a causa hè curata. A nostra [guida nant'à i segni d'alerta](/brain-health/warning-signs/) spiega ciò chì duvete osservà.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Circate aiutu d'urgenza** per cambiamenti bruschi : cunfusione subitana, debulezza o addurmintimentu d'un latu, difficultà à parlà o un mal di capu forte ponu esse segni d'un infartu cerebrale o d'un'altra emergenza. Chjamate u 112.
 
-## Where Golden Moments fits
+## Induve si mette Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments prupone attività simplici da fà inseme, cum'è [carte di cunversazione](/games/conversation-cards/), [bingo cù fiure](/games/picture-bingo/) è una [pausa di respirazione calma](/games/calm-breathing/). Sò pensate per u piacè è per passà tempu inseme. Ùn sò micca un trattamentu, è ùn prevengenu nè rallentanu a dimenza.

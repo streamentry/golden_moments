@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Tartekako baraua eta dementzia: ikerketak dioena"
+seoTitle: "Tartekako baraua eta dementzia: ikerketak dioena"
+description: "Tartekako barauari buruzko giza ebidentzia mugatua eta hasierakoa da. Ezagutu adinekoentzako arriskuak eta zergatik den garrantzitsuagoa ondo jatea."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Ez dago ebidentzia sendorik tartekako barauak dementzia prebenitzen edo
+  moteltzen duela esateko. Ikerketa asko animaliekin egin dira, eta adinekoekin
+  egindako giza ikerketak txikiak eta laburrak dira. Barauak arriskutsua izan
+  daiteke adinekoentzat: pisua eta muskulu-masa galtzea, odoleko azukre maila
+  baxua diabeteserako botika batzuekin, deshidratazioa eta erorketak.
+  Dementzia duen pertsonen kasuan, nahikoa jatea eta edatea izaten da kezka
+  nagusia. Hitz egin mediku batekin aurretik.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Zahartzearen Institutu Nazionalak dio ez dagoela ebidentzia nahikorik barau- edo kaloria-murrizketa dietarik gomendatzeko, batez ere adinekoentzat."
+  - "Barauari eta zahartzeari buruzko ikerketa asko animaliekin egin dira, eta emaitza horiek ez dira zertan pertsonei aplikatu."
+  - "Adinekoentzat izan daitezkeen arriskuen artean daude nahi gabeko pisu-galera, muskulu-galera, odoleko azukre maila baxua diabeteserako botika batzuekin, deshidratazioa, zorabioak eta erorketak."
+  - "Dementzia duten pertsonek sarritan ahaztu egiten dute jatea edo edatea, edo jada egin dutela uste dute. Nahikoa jan eta edaten laguntzea izan ohi da askoz garrantzitsuagoa noiz jaten duten baino."
+  - "Ez erabili baraua dementzia duen pertsona batekin. Hitz egin mediku batekin edo dietista erregistratu batekin jateko ohituretan aldaketarik egin aurretik."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Tartekako barauak Alzheimerra prebenitzen al du?"
+    a: "Ez dago hori dioen ebidentzia sendorik. Ikerketa asko animaliekin egin dira, eta pertsonetan egindako saiakerak, gehienbat, laburrak izan dira, heldu gazteagoekin edo gehiegizko pisua dutenekin egin dira, eta pisua galtzean zentratu dira. Zahartzearen Institutu Nazionalak dio ez dagoela ebidentzia nahikorik barau-dietak gomendatzeko."
+  - q: "Segurua al da tartekako baraua adinekoentzat?"
+    a: "Baliteke ez izatea. Barauak nahi gabeko pisu- eta muskulu-galera, deshidratazioa, zorabioak eta erorketak eragin ditzake, eta odoleko azukre maila arriskutsuki baxua eragin diezaieke intsulina edo diabeteserako beste botika batzuk hartzen dituzten pertsonei. Mayo Clinic-ek dio baliteke egokia ez izatea hezur-galera eta erorketa arrisku handia dutenentzat. Hitz egin mediku batekin saiatu aurretik."
+  - q: "Dementzia duen pertsona batek baraua probatu beharko luke?"
+    a: "Ez. Dementzia duten pertsonek askotan zailtasunak izaten dituzte nahikoa jateko eta edateko, eta elikadura eskasak jokabide-sintomak areagotu eta pisu-galera eragin ditzake. Barauak arriskua gehitzen du, onura frogaturik gabe. Zentratu otordu erregularretan, gustuko dituzten mokaduetan eta nahikoa edatean."
+  - q: "Zeintzuk dira dementzia duen pertsona bat nahikoa jaten edo edaten ez ari dela adierazten duten seinaleak?"
+    a: "Begiratu pisu-galerarik badagoen, arropa lasaiago geratzen den, nekea, ahultasuna, idorreria edo janariari uko egitea. Zahartzearen Institutu Nazionalak deshidratazioaren seinale gisa aipatzen ditu aho lehorra, zorabioak, bihotz-taupada azkarrak eta haluzinazioak. Esan medikuari seinale horiek nabaritzen badituzu."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Tartekako barauak —adibidez, zortzi orduko epean bakarrik jatea edo astean bi egunez kaloriak nabarmen murriztea— arreta handia jasotzen du, eta artikulu batzuek iradokitzen dute garuna babesten lagun dezakeela. Adineko heldua bazara, edo dementzia duen pertsona bat zaintzen baduzu, hona hemen ikerketak benetan erakusten duena eta zergatik den garrantzitsua zuhur jokatzea.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Hau informazio orokorra da, ez aholku medikoa. Ez hasi barau egiten, ezta zaintzen duzun pertsonak jateko duen modua aldatu ere, mediku batekin edo dietista erregistratu batekin hitz egin gabe. Ikusi gure [abisu medikoa](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Tartekako barauak dementzia prebenitzen al du?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Ez dago ebidentzia sendorik tartekako barauak dementzia prebenitzen edo moteltzen duela esateko. Zahartzearen Institutu Nazionalak (NIA) dio ez dagoela ebidentzia nahikorik inolako kaloria-murrizketa edo barau-dietarik gomendatzeko, eta askoz gehiago ikasi behar dela haien eraginkortasunari eta segurtasunari buruz, batez ere adinekoentzat ([NIAk kaloria-murrizketari eta barauari buruz](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Zergatik da ebidentzia hain mugatua
 
-The NIA gives several reasons:
+NIAk hainbat arrazoi ematen ditu:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Ikerketa gehienak animaliekin egin dira.** Zizareekin, euliekin, saguekin eta tximinoekin egindako ikerketek emaitza interesgarriak eman dituzte, baina aurkikuntza horiek ez dira zertan pertsonei aplikatu. Animalietan ere, emaitzak ez dira beti berdinak; sagu-andui batzuetan, kaloria-murrizketak bizitza laburtu zuen.
+- **Pertsonetan egindako saiakerak laburrak izan dira.** Gehienek aste edo hilabete batzuk iraun zuten.
+- **Pertsonetan egindako saiakera gehienak pisua galtzean zentratu ziren**, gehiegizko pisua zuten helduetan, ez oroimenean edo dementzian.
+- **Adinekoak gutxitan hartu dira barne.** Saiakera askok 60 urte edo gutxiagoko pertsonak bildu zituzten.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026ko berrikuspen sistematiko batek tartekako baraua aztertu zuen bereziki 60 urtetik gorako helduengan. Adin-talde horretan ebidentzia oraindik mugatua dela ondorioztatu zuen: ikerketa txikiak, jarraipen laburra eta diseinu nahasiak. Pentsatzeko gaitasunari eta oroimenari buruzko aurkikuntzak banakako ikerketetatik etorri ziren, ez saiakera bateratuen emaitzetatik. Berrikuspenak adierazi zuen, halaber, ikerketa batzuek jateko leiho oso laburrak edo barau luzeak emaitza okerragoekin lotu zituztela, eta egileek zuhurtzia eskatu zuten adinekoentzat ([2026ko berrikuspena Nutrients aldizkarian](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Ikertzaile batzuek uste dute barauan gorputzak gantza erretzera aldatzeak garunean eragina izan dezakeela, baina oraindik aztertzen ari den teoria bat da. NIAk adierazi du zientzia ez dela ziurra.
 
-## What are the risks of fasting for older adults?
+## Zein dira barauaren arriskuak adinekoentzat?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Baraua ez da esperimentu kaltegabea adineko askorentzat. Arrisku posibleen artean daude:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Nahi gabeko pisu-galera.** Gorputzak behar duena baino gutxiago jateak pisu-galera eta muskulu-indar gutxiago ekar ditzake, eta horrek pertsona ahulago utz dezake.
+- **Muskulu- eta hezur-galera.** NIAk babestutako bi urteko saiakera batean, heldu gazte eta ertainen artean kaloria-murrizketarekin, parte-hartzaileek hezur-dentsitatean eta gorputz-masa argalean gainbehera txikiak izan zituzten.
+- **Odoleko azukre maila baxua diabeteserako botikekin.** Intsulina edo diabeteserako beste botika batzuk hartzen dituzten pertsonek odoleko azukre maila gehiegi jaistea izan dezakete otorduak saltatzen edo atzeratzen badituzte, [Diabetesari, Digestioari eta Giltzurrunei buruzko Institutu Nazionalaren](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) arabera. Odoleko azukre maila baxuak zorabioak, nahasmena eta suminkortasuna eragin ditzake.
+- **Deshidratazioa.** Otorduekin batera edariak ere saltatzen badira, pertsona bat deshidratatu daiteke.
+- **Zorabioak eta erorketak.** Mayo Clinic-ek dio tartekako barauak nekea eta zorabio handia eragin ditzakeela, eta balitekeela eredu osasungarria ez izatea hezur-galera eta erorketa arrisku handia dutenentzat ([Mayo Clinic tartekako barauari buruz](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Beste ondorio batzuk.** Mayo Clinic-ek buruko minak, aldarte-aldaketak eta idorreria ere aipatzen ditu, eta adierazten du ebidentzia batzuek iradokitzen dutela 16 orduko baraua eta 8 orduko jateko leihoa izateak bihotzeko gaixotasunen arriskua handitu dezakeela beste jateko leiho batzuekin alderatuta. Ebidentzia hori ez dago argi.
 
-## Why is eating enough the bigger concern with dementia?
+## Zergatik da nahikoa jatea kezka handiagoa dementziarekin?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Dementzia duten pertsonen kasuan, ohiko arazoa **nahikoa** jan eta edatea da, ez gehiegi egitea. Alzheimerren Elkarteak azaltzen du erdiko eta azken faseetan dauden pertsonek janari-aukerengatik gainezka senti daitezkeela, jatea ahaztu dezaketela edo jada jan dutela pentsa dezaketela. Gaineratzen du elikadura eskasak jokabide-sintomak areagotu eta pisu-galera eragin ditzakeela ([Alzheimerren Elkartea janariari eta jateari buruz](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society-k dio nahikoa ez jateak pisu-galera, muskulu-indar gutxiago, nekea eta ahultasuna ekar ditzakeela, eta horrek pertsona ahulago utz dezake eta infekzioetatik sendatzeko gaitasun gutxiago izan dezake ([Alzheimer's Society goseari buruz](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Arrazoi horiengatik, baraua ez da ideia ona dementzia duen pertsona batentzat.** Saltatutako otorduak erraz bihur daitezke galdutako otordu. Dementzia duen pertsona batek jateko duen moduan egindako edozein aldaketa haren medikuak edo dietista erregistratu batek gidatu beharko luke.
 
-## What are the warning signs of poor eating or drinking?
+## Zeintzuk dira gaizki jatearen edo edatearen abisu-seinaleak?
 
-Watch for:
+Begiratu honako hauei:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Pisu-galera**, edo arropa lasaiago geratzea.
+- **Janaria utzi edo otorduei uko egitea**, edo janaria ahoan edukitzea.
+- **Nekea edo ahultasuna.**
+- **Idorreria**, dietarekin eta deshidratazioarekin lotuta egon daitekeena.
+- **Deshidratazioaren seinaleak.** NIAk aho lehorra, zorabioak, bihotz-taupada azkarrak eta haluzinazioak aipatzen ditu; haluzinazioak dementziak berak ere eragin ditzake ([NIA ohiko arazo medikoei buruz](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Gose txarrak kausa posible asko izan ditzake: hortz minduak edo hortzorde lasaiak, botika berriak, depresioa, idorreria, jarduera gutxiago izatea, edo dastamen- eta usaimen-aldaketak. Esan pertsonaren medikuari seinale horietako edozein. Kausa bat bilatu dezake eta dietista bat edo osagarriak iradoki ditzake.
 
-## How can you help someone eat and drink enough?
+## Nola lagun diezaiokezu norbaiti nahikoa jan eta edaten?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Eskaini otordu txikiak eta mokaduak maiz**, hiru otordu handi baino.
+- **Zerbitzatu gustuko dituen janariak**, eta izan malgua gustuak aldatzen diren heinean. Gosea txikia bada, janari gozoak ongi etorriak izan daitezke; galdetu medikuari azukrea mugatzeko osasun-arrazoirik badagoen.
+- **Eduki edariak eskura** eta eskaini edalontzi txikiak egunean zehar. Zopak, frutak, irabiakiak eta esne-irabiakiak ere balio dute.
+- **Jan elkarrekin** ahal duzunean. Otorduak elkarrekin egoteko aukera dira, ez presaka egiteko zeregina.
+- **Probatu eskuekin jateko janariak**, hala nola ogitartekoak, fruta zatiak edo oilasko zatiak, mahai-tresnak erabiltzea zaila bihurtu bada.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Gure [dieta-gidak](/brain-health/diet/) otorduetarako ideia gehiago ditu. Janaria prestatzen laguntzea ere elkarrekin egiteko jarduera atsegina izan daiteke; ikusi [etxeko lanak](/activities/household-tasks/).
 
-## Talk with a doctor
+## Hitz egin mediku batekin
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Zeuretzat barau-planik probatu aurretik, hitz egin zure medikuarekin edo dietista erregistratu batekin, batez ere diabeteserako edo odol-presiorako botikak hartzen badituzu, azkenaldian pisua galdu baduzu edo erorketak izan badituzu. Dementzia duen pertsona baten kasuan, galdetu haren medikuari egunero zenbat jan eta edan beharko lukeen, ez barauari buruz.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Eskatu premiazko laguntza medikoa bat-bateko nahasmena, konortea galtzea edo odoleko azukre maila oso baxuaren seinaleak azkar hobetzen ez badira.

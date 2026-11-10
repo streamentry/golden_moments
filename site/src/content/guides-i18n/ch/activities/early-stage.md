@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Aktibidat Para i Primet na Fasi ni Demensia"
+seoTitle: "Primet na Fasi ni Demensia: Ideas Ni Maguaiya"
+description: "Ideas ni aktibidat para i primet na fasi ni demensia: pasatiempo, hugas, lakyan, sinulat yan planeha hamyo, yan mamaolek na chinanges ni sigi i taotao setbu yan ginegen i hinasso."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Gi primet na fasi ni demensia, mas ginen taotao siempre sina ma sinangan i
+  gimen hinasso: pasatiempo, kartas yan board games, kinalamten, hinasso,
+  lakyan, klub, fe yan bolunterio. I dinanña na chinanges mas ti dangkulu:
+  mas ki tiningo na grupu, mas kalan na salida, planu ni sinulat yan kumpañero
+  ni gaige duru. Hagas i taotao ni håfa i ayuda ni malago, yan hayi ni
+  ma'alålak.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Mas ginen taotao gi primet na fasi siempre bibibi ni mismo. I aktibidat siempre ma'ayuda i chinanges, ti ma sustitusyi."
+  - "Hagas i taotao håfa i ayuda ni malago, yan sumusundu un senñat simple para kuanto ayuda i ma'a'ayuda."
+  - "Mas ki tiningo na grupu, kalan na tiempo yan mas kalan na salida siempre dangkulu na difirensia."
+  - "Ti maolek ti tiempo para i taotao sumangan i proyekto ginen i kabales-ña, taiguin i diario pat libro ni estorian kabales-ña."
+  - "Hagas i kuåtto para liberdat. Hayi ni sumosoblin na prueba, ti hu sestiña."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Håfa i aktibidat ni maolek para i primet na fasi ni demensia?"
+    a: "Siempre i mismo ni ginen taotao ya malago: kartas, board games, kinalamten, hinasso, lakyan, musika, aktibidat ginen fe, klub yan bolunterio. Pwede na debe ma'a'kalan, mas tiningo pat mas simple. Diario, sinulat ni karta yan libro ni kabales-ña maolek para este na fasi."
+  - q: "Kao pwede yo ayuda sin dumimit i taotao?"
+    a: "Hagas i taotao håfa i tipo ni ayuda ni malago, yan sigi ti chechesuk. Sumusundu ni salita pat tinago ni para maolek na sumangan ayuda, pot ehemplu kuanto i salita pat nombre ti kumekeskes. Yanggen ti gai peligru, hagas i taotao ma'ayuda gi manera-ña, bahuya kumaso."
+  - q: "Debe ma'intenta i taotao ni primet na demensia håfa na nuebu na aktibidat?"
+    a: "Hunggan, yanggen malago. I familiat na pasatiempo siempre mas fasil, pero makmas taotao malago håfa na nuebu, pot ehemplu grupon kamamanu ni demensia, klas ni arte pat grupon kumanta. Intenta una biha sin presion yan mira kuånto i ma'siente."
+  - q: "Mapotmaolek ka i aplikasyon ni entrenamiento ni hinasso gi primet na fasi?"
+    a: "Guaiya taotao ma'gusto i puzzles yan lakyan ni salita, yan este na gusto ya suficiente na rason. Ti guaha aplikasyon pat lakyan ni ma'pamuestra na ma'cura, ma'pesi pat ma'para i demensia. Yanggen i lakyan ma'gai estres pat ma'sosodda i taotao na ma'pirde, ta'lo."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Gi primet na fasi ni demensia, siempre mas ginen taotao bibibi ni makmas i mismo na manera ni bibida-ñiha anti. Siña sumetbe gi trabiho, bolunterio, na'i i amigu-ñiha yan ma'kontrola makmas i kada dia-ñiha. Ti dinanña ma'tinege i aktibidat; kumekeskes ha' na uma'ayuda para ma'sigi ma'gusto. I papel-mu mas parehu ki kumpañero ke guaiya ni ma'ayuda: ayuda, plånea yan ma'sangan ha' yanggen ma'tungo.
 
-## What activities are good in early-stage dementia?
+## Håfa i aktibidat ni maolek gi primet na fasi ni demensia?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+I mas maolek na aktibidat gi primet na fasi siempre i ginen taotao ya malago, lao ma'fasil ya. I [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ma'lista i ideas taiguin kartas yan board games, word finds, ma'lakyan, sumayaf, hinasso, ma'pinta flores, kuentos, pinta, musika, diario, sinulat karta, scrapbook, kinalamten yan tradision para fiestas.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+I dinanña ti siempre i aktibidat, lao i lugat. I [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ma'nota na i taotao gi primet na fasi siña umatras ginen i ma'gusto-ñiha, yan ma'na'i ehemplu na i taotao ma'estreha gi dangkulu na fiesta lao mas maolek gi tiningo na grupu. Hagas i tinaiguen ni håfa i mas dithon, yan ma'a'ajusta hamyo.
 
-## Ask first, and agree on how to help
+## Pregunta primet, yan plånea hamyo kumu ayuda
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+I [gia ginen Alzheimer's Association para primet na fasi](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) ma'suhiere mamaolek na kustumbre ni ma'aplika para aktibidat:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Pregunta direkto.** "Håfa i mas fasil para hao gi klub ni libru?" mas maolek na tinaktak kesi ma'adivina.
+- **Sangan na siña.** Yanggen ti gai peligru, hagas i taotao ma'intenta, yan na'i ånimo lugat ki para ma'kontrola.
+- **Plånea un senñat.** Kumuenta un salita pat tinago ni ma'gaige "siña ka mamanu," pot ehemplu yanggen i nombre ti kumekeskes gi kartas.
+- **Ma'chechek ginen tiempo.** Pregunta yanggen i ayuda ma'siente maolek, ma'dinmasiao pat ma'dinmalago.
 
-## Activity ideas for the early stage
+## Ideas ni aktibidat para i primet na fasi
 
-### Keep up roles and hobbies
+### Manmantiene i papel yan pasatiempo
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Tiene un regular na kumpromiso.** Un simåna na turno bolunterio, koro pat klub ma'na'i forma gi simåna. Yanggen ma'tungo, un papel ni mas kalan pat mas tiningo siña mas ma'ayuda.
+- **Plånea i kumida hamyo.** Yanggen i mañakompras ma'estreha, i Alzheimer's Association ma'suhiere ma'pidi i taotao ayuda para plånea i menu ni simåna yan sumulat i lista.
+- **Kinalamten yan hasino.** Sigi un resetan ni ma'gusto hamyo. Fangga' i ingredientes gi ordin antes ki mañapmiknå, para ma'hahanao i steps.
+- **Hinasso.** Plånea un kuadru, machuli i semillas pat planta yan hinatmanu hamyo. Un lista ni trabiho gi hinasso gi simåna ayuda.
+- **Sigi un craft.** Woodworking, sumayaf, knitting pat model building siña sigi ki patrones ni mas simple yan maolek na lumu.
 
-### Games for enjoyment
+### Lakyan para ginasgas
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Lalakyan kartas yan board games.** Familiat na lakyan mas fasil. Lakyan kumu teams para ti guaha taotao ni ma'pusisiona, yan pot ma'bantas i score pat ti ma'contar.
+- **Intenta word search ni dangkulu na letra.** Nuestro [word search](/games/word-search/) siña ma'lakyan gi screen pat ma'imprenta para un tiempo ni tiningo.
+- **Hagas jigsaw puzzles.** Machuli un numero ni piezas ni ma'siente relaks, ti mamaisen. [Picture puzzle](/games/picture-puzzle/) un bersion gi screen ni kalan, yan nuestro guia para [puzzles para demensia](/activities/puzzles/) ma'kuenta kumu para machuli.
+- **Hagas trivia para ginasgas.** Guaiya taotao ma'gusto i team trivia na banda. Yanggen ma'gai i prueba, machuli un otro, pat intenta nuestro [easy trivia questions](/activities/trivia/), ni guaha opsion ni tinaiguen yan ti guaha score.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+I lakyan para ginasgas esta. Ti guaha lakyan ni ma'pamuestra na ma'cura pat ma'pesi i demensia; lista makmas gi [brain games: what the research says](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Sinulat, sumangan yan rekot
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Hagas diario.** I Alzheimer's Association ma'suhiere i diario kumu un manera para ma'chule i feelings despues di diagnosis. Siña mas ki unos pocos linia kada dia.
+- **Hagas libro ni estorian kabales-ña.** I primet na fasi maolek para i taotao para ha machuli i litrato-ñiha yan sumulat pat ma'dikta i kuento gi tras. Hayi [reminiscence activities](/activities/reminiscence/).
+- **Sinulat karta.** Un karta para un nieto, un tatiyi amigu pat un eskuela na kumpañero siña ma'konsigi para dos taotao.
+- **Ma'kuenta litrato.** [Photo pairs](/games/photo-pairs/) ma'cham i litratos familia para un lakyan ni ma'pareha ni mamaolek, yan [conversation cards](/games/conversation-cards/) ma'na'i punto ni fasil para kumusa.
 
-### Go out and move
+### Sumali salida yan ma'mueba
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+I [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ma'suhiere para sigi familiat na salida kuånto hamyo dos ma'konfotme. Plånea sia para mejot na tiempo ni taotao gi kada dia yan ti hagas ma'lago na salida.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Kalan na kultural na salida.** Un museo, un matinee pat un eksibision ni arte, pat mejot gi tiningo na tiempo.
+- **Ma'langoy.** I NIA ma'suhiere un pool gi tiempo ni mas tiningo gi dia.
+- **Grupon ma'lakad yan klas ma'baila.** I [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ma'mensiona baile, tai chi, yoga, lumangoy yan grupon ma'lakad, yan sisyon ni maamigu para demensia gi lugat ni guaha.
+- **Grupon kumanta yan memory cafés.** Grupon relaks gi nai i taotao ni gaige ni demensia yan kumpañeru-ñiha siña ha' sumangan otro taotao ni maneran ginen sinangan.
 
-## Small changes that keep activities enjoyable
+## Mamaolek na chinanges ni ma'ayuda i aktibidat ma'gusto
 
-| If this is getting harder | Try this |
+| Yanggen esta ma'estreha | Intenta esti |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Lugat ni mabisita pat mamuyuñi | Hagas gi tiempo ni tiningo, machuli grupon ki tiningo, sesettan gi mata i kuat |
+| Ma'rekorda nuebu na nombre | Ma'introdusi i taotao ginen nombre kada biha; pidi i grupu ma'usa etiketa ni nombre |
+| Ma'sigi plånu ni maskuantos steps | Sulat i steps, pat fangga' i todu gi ordin antes |
+| Ma'kanson | Kalan na salida, deskansu despues, ti guaha otro na plånu gi dia ayu |
+| Ma'tatiyi i lakyan | Lakyan kumu teams, sinempre i areklo, pat ti hagas score |
+| Ma'hahanao i salita | Hagas tiempo; na'i un salita ginen yanggen i senñat ni ma'aggriha ha' sumangan |
 
-## When to slow down
+## Kuånto para ma'bisita
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Para pat machuli un aktibidat yanggen mas estres kesi gustu. Repetidu na frustrasion, ti malago manmamanu un pasatiempo pat ma'gai "ti siña yo maså" debe mañatatiyi yan kumusa para tiempo, ti para ma'pusa. Siempre i tinaiguen un bersion ni mas kalan ni mismo na kosa. Yanggen i taotao nisisita makmas ayuda para ma'tatiyi yan sumigi i steps, i ideas gi [middle-stage activities](/activities/middle-stage/) siña mas ma'ayuda. Para makmas kuento gi maolek na kumusa, hayi [communication tips](/caregiving/communication-tips/), yan para makmas ideas, hayi [101 activities](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+I kumpañeru siña nisisita ayuda tatte. I primet na fasi maolek para hasi ma'na'i sistema ni ayuda gi hinasso-mu; hayi [caregiver self-care](/caregiving/caregiver-self-care/).

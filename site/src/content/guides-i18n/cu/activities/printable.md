@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Даровьныꙗ напечатаньныꙗ дѣꙗниꙗ"
+seoTitle: "Даровьныꙗ напечатаньныꙗ дѣꙗниꙗ: велико писмо"
+description: "Даровьныꙗ напечатаньныꙗ дѣꙗниꙗ: исканиѥ словесъ великимъ письмомъ, оукрашаниѥ, картинки за бєсѣдѫ и бинго съ образы, и съвѣти о печатани."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments прѣдълагаѥтъ даровьныꙗ напечатаньныꙗ дѣꙗниꙗ: исканиѥ словесъ
+  великимъ письмомъ, страницы за оукрашаниѥ, картинки за бєсѣдѫ и картици
+  бинго съ образы. Отъврьзѣте которѫ любо страницѫ игрꙑ и оупотрѣбитє ѥꙗ
+  кнопъкѫ Print. Печатаитє великимъ, ꙗснымъ письмомъ на тѧжьцѣ бумагѣ,
+  дрьжитє ѥдино дѣло на ѥдинои страницѣ, и облѣпитє страницы, ꙗжє хощетє
+  пакꙑ оупотрѣбити. Простыꙗ домашьнꙗꙗ напечатаньнаꙗ, ꙗко жє страница о житии
+  чловѣка или дьньноѥ расписаниѥ, тако жє помагаѭтъ.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Наша напечатаньнаꙗ дѣꙗниꙗ сѫтъ даровьна: Word Search, Coloring, Conversation Cards и Picture Bingo. Къжьдо страница игрꙑ иматъ кнопъкѫ Print."
+  - "Печатаитє великимъ, ꙗснымъ письмомъ съ крѣпъкꙑмъ различиѥмъ, и дрьжитє ѥдино дѣло на ѥдинои страницѣ."
+  - "Тѧжька бумага или картонъ оудобьнѣѥ дрьжати и трѫдьнѣѥ съмѧти. Облѣпитє страницы, да пакꙑ ѩ оупотрѣблꙗѥтє съ писалы соухо стираѥмꙑми."
+  - "Домашьнꙗꙗ напечатаньнаꙗ, ꙗко жє страница о житии чловѣка, дьньноѥ расписаниѥ или знамєниꙗ съ образы на двьрьхъ, сѫтъ проста и пользьна."
+  - "Напечатаньна страница ѥстъ призъваниѥ, а нє ꙋчєниѥ. Добрѣ ѥстъ сътворити чѧсть ѥꙗ, или ничєсогожє."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Сѫтъ ли ваша напечатаньнаꙗ дѣꙗниꙗ даровьна?"
+    a: "Да. Страници Word Search, Coloring, Conversation Cards и Picture Bingo на сємь мѣстѣ сѫтъ даровьны за оупотрѣблєниѥ и печатаниѥ. Отъврьзѣте страницѫ игрꙑ и оупотрѣбитє кнопъкѫ Print."
+  - q: "Каꙗ напечатаньнаꙗ дѣꙗниꙗ сѫтъ добрѣиша при оумьнѣмь ослаблѥнии?"
+    a: "Добрѣиша напечатаньнаꙗ сѫтъ проста, ꙗсна и въꙁрастьна: исканиѥ словесъ великимъ письмомъ съ словесꙑ тъкъмо въ дєсно и въ низъ, страницы за оукрашаниѥ съ ꙗснꙑми чрътами, картици съ образы, ꙗжє начинаѭтъ бєсѣдѫ, и бинго съ образы за съборꙑ. Съгласитє дѣꙗниѥ съ любьѥнии чловѣка и ѥго нꙑнѣшьними силами, и дрьжитє ѥдино дѣло на ѥдинои страницѣ."
+  - q: "Како сътворити напечатаньнаꙗ оудобьнѣиша видѣти и оупотрѣблꙗти?"
+    a: "Оупотрѣбитє велико, ꙗсно писмо, тьмьно мастило на бѣлѣ или крємъцѣ бумагѣ, и довъльно простору. Печатаитє на тѧжьцѣ бумагѣ или картонѣ, да страница прѣбꙑваѥтъ равьна, иꙁбєрѣтє матовѫ бумагѫ, да оумалитє блєщаниѥ, и оупотрѣбитє дъскѫ или подълогъ нє сълъзѧщь, да страница нє движєтъ сѧ. Облѣплєниѥ помагаѥтъ страницамъ дълго тръвати."
+  - q: "Могѫ ли печатати ваша дѣꙗниꙗ за домъ попєчєниꙗ или дьньнѫѭ программѫ?"
+    a: "Да. Дѣлатєлє дѣꙗнии могѫтъ печатати нашѧ страницы за живѫщѧѩ и съборꙑ. Picture Bingo оустрьѥнъ ѥстъ за съборꙑ и иматъ възъвати ѥго видимъ на ꙗвищи, ѥгожє можєтє показати на тєлєвизорѣ или мєталищи."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Иногда добрѣишєѥ дѣꙗниѥ ѥстъ листъ бумагꙑ и писало на трєпєзѣ въ кꙋхꙑни. Напечатаньнаꙗ нє трѣбоуѭтъ наполнєниꙗ, ни таинъ сло́въ, ни ꙗвища, и оудобьно ѥстъ принєсти ѩ на посѣщєниѥ или въ съборъ. Си страница изъꙗвлꙗѥтъ даровьныꙗ напечатаньнаꙗ дѣꙗниꙗ на нашємь мѣстѣ, како ѩ печатати, да бѫдѫтъ оудобьна видѣти и дрьжати, и нѣколико простъихъ домашьнихъ напечатаньнъихъ, ꙗжє сѫтъ пользьна родьствомъ и дѣлатєлємъ дѣꙗнии.
 
-## What free printable activities do you offer?
+## Каꙗ даровьныꙗ напечатаньнаꙗ дѣꙗниꙗ прѣдълагаѥтє?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Прѣдълагаѥмъ чєтꙑри даровьнаꙗ напечатаньнаꙗ. Отъврьзѣте которѫ любо отъ сихъ страницъ игрꙑ и оупотрѣбитє кнопъкѫ **Print**, да приимєтє видъ оугодьнъ за печатаниѥ.
 
-| Printable | What it is | Good for |
+| Напечатаньноѥ | Чьто ѥстъ | Добрѣ за |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Исканиѥ словесъ великимъ письмомъ, идежє словєса идѫтъ тъкъмо въ дєсно и въ низъ | Тихо врѣмѧ съ писаломъ; чловѣкъ, ижє люблꙗашє ꙁагадъкꙑ |
+| [Coloring](/games/coloring/) | Страници за оукрашаниѥ, ꙗжє печатаѥши, или оукрашаѥши на ꙗвищи | Съпокоино, творьно врѣмѧ; на вьсꙗкомь стѫпєни съ помощию |
+| [Conversation Cards](/games/conversation-cards/) | Картици съ образы и отъврьстꙑми въпросꙑ за бєсѣдѫ по тємамъ | Посѣщєниꙗ, ꙁъваниꙗ, родьствьныꙗ трєпєзꙑ, съборꙑ въспоминаниꙗ |
+| [Picture Bingo](/games/picture-bingo/) | Картици бинго съ образы въмѣсто числъ, и възъвати на ꙗвищи | Домовє попєчєниꙗ, дьньнꙑꙗ программꙑ, родьствьнаꙗ събраниꙗ |
 
-### Large-print word search
+### Исканиѥ словесъ великимъ письмомъ
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) оупотрѣблꙗѥтъ великꙑ боукъвꙑ и дрьжитъ словєса тъкъмо въ дєсно и въ низъ, бєꙁ косьнꙑихъ и бєꙁ въспѧтьнꙑихъ словесъ. Дѣлаитє въкоупѣ: ѥдинъ чьтєтъ слово отъ съписъка, дроугꙑи ищєтъ ѥ. Ащє исканиѥ словесъ бꙑваѥтъ трѫдьно, покоуситє сѧ въкоупѣ обьвєсти прьвоѭ боукъвѫ къжьдогожє словєсє, или просто чьститє съписъкъ словесъ въслоухъ и бєсѣдоуитє о къжьдомь словєси.
 
-### Coloring pages
+### Страници за оукрашаниѥ
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Страници [Coloring](/games/coloring/) могѫтъ бꙑти напечатанꙑ за знамєнитєлꙗ или цвѣтьнꙑꙗ писала, или оукрашєнꙑ на плоци, коснѫвъшє цвѣта, потомь чѧсти образа. За напечатаньнꙑꙗ страницы прѣдъложитє дєбєлꙑꙗ знамєнитєлꙗ и мало цвѣтовъ въ врѣмѧ. Видитє нашь [пѫтьникъ о рѫкодѣлиихъ и оукрашаниихъ](/activities/arts-and-crafts/) за образы, како дрьжати оукрашаниѥ въꙁрастьно и съпокоино.
 
-### Conversation cards
+### Картици за бєсѣдѫ
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) съчєтаѭтъ ꙗснъ образъ съ отъврьстꙑмь призъваниѥмъ, ꙗко жє «Повѣжь ми о...» или «Чьто видиши?» Ѡнꙑ написанꙑ сѫтъ ꙗко отъврьста призъваниꙗ, а нє ꙗко въпроси испꙑтаниꙗ. Напечатаитє съборъ, раздѣлитє картици, и дрьжитє нѣколико въ мѣшьцѣ за посѣщєниꙗ или при тєлєфонѣ за ꙁъваниꙗ. Ѡнꙑ тако жє добрѣ слоужатъ въ съборѣхъ [въспоминаниꙗ](/activities/reminiscence/).
 
-### Picture bingo cards
+### Картици бинго съ образы
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Картици [Picture Bingo](/games/picture-bingo/) оупотрѣблꙗѭтъ образы въмѣсто числъ. Напечатаитє по ѥдинои картици на къжьдого играѭщаго и оупотрѣбитє възъвати на ꙗвищи на съносимѣ, тєлєвизорѣ или мєталищи. Съвѣтоуѥмъ възъвати, доньдєжє карта къжьдого бѫдєтъ пълна, да никътожє нє останєтъ вънѣ. Видитє [дѣꙗниꙗ за съборꙑ въ домоу попєчєниꙗ](/activities/care-home-groups/) о томь, како вєсти врѣмѧ.
 
-## How do I print activities so they are easy to use?
+## Како печатати дѣꙗниꙗ, да бѫдѫтъ оудобьна за оупотрѣблєниѥ?
 
-Small changes in how you print make a big difference.
+Малꙑꙗ иꙁмѣнꙑ въ печатани творѧтъ вєлико различиѥ.
 
-### Make it easy to see
+### Сътворитє оудобьно видѣти
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Велико, ꙗсно писмо.** Оупотрѣбитє наибольшєѥ оуставлєниѥ печатаниꙗ, ѥжє ѥщє въмѣщаѥтъ сѧ на страницѫ. Оукланꙗитє сѧ оукрашєнъихъ или писанъихъ писмєнъ.
+- **Крѣпъко различиѥ.** Тьмьно мастило на бѣлѣ или крємъцѣ бумагѣ. Оставитє блѣдъ сивъ цвѣтъ или цвѣтьнꙑꙗ ꙁадьнѧѩ.
+- **Матова бумага** оумалꙗѥтъ блєщаниѥ подъ ꙗрꙑмь свѣтомь.
+- **Провѣритє очила и свѣтъ.** Alzheimer’s Association отъмѣчаѥтъ, ꙗко трѫдъности видѣниꙗ и слꙑшаниꙗ могѫтъ оутрѫдьнити бєсѣдѫ, и съвѣтоуѥтъ чѧсто ѩ провѣрꙗти. Ꙗръ, равьнъ свѣтильникъ тако жє помагаѥтъ.
 
-### Make it easy to hold
+### Сътворитє оудобьно дрьжати
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Тѧжька бумага или картонъ** прѣбꙑваѥтъ равьнъ, оудобьнѣѥ ѥстъ въꙁѧти, и тръпитъ чѧстоѥ оупотрѣблєниѥ.
+- **Дъска** или подълогъ нє сълъзѧщь дрьжитъ страницѫ, да нє сълъзитъ.
+- **Дєбєлии знамєнитєлє или тлъстиꙗ писала** оудобьнѣѥ дрьжати нєжєли тънъкаꙗ писала.
 
-### Make it reusable
+### Сътворитє пакꙑ оупотрѣблꙗѥмо
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Облѣпитє страницы** или въложитє ѩ въ просвѣтльнꙑꙗ покровꙑ. Оупотрѣбитє писала соухо стираѥмаꙗ на искани словесъ и картицахъ бинго, потомь отърѣтє.
+- **Иꙁбєрѣтє матовꙑ мѣшьцѧ**, ащє блєщаниѥ ѥстъ трѫдъность, и **окрѫглитє ѫгълꙑ** облѣплєнъихъ картицъ ножицами, да бѫдѫтъ оудобьнꙑ за дрьжаниѥ.
+- **Дрьжитє папъкѫ** любьѥнъихъ, да нє печатаѥтє тъждє страници къжьдѫ сєдмицѫ.
 
-### Keep it simple
+### Дрьжитє просто
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Ѥдино дѣло на ѥдинои страницѣ.** Ѥдино исканиѥ словесъ или ѥдинъ образъ, а нє мъного дѣꙗнии сътѣснєнъихъ въкоупѣ.
+- **Довъльно бѣла простору.** Прѣплъньна страница можєтъ бꙑти тѧжька.
+- **Бєꙁ повєлѣнии за чьтєниѥ, идежє можьно.** Покажитє чловѣкоу, чьто творити.
+- **Оурѣжитє листꙑ.** Ащє цѣла страница ѥстъ прѣмънога, оурѣжитє ѭ въ полъ или съгънѣтє ѭ, да ꙗвитъ сѧ тъкъмо чѧсть.
 
-## Other useful printables you can make at home
+## Ина пользьна напечатаньнаꙗ, ꙗжє можєтє сътворити дома
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Нє вьсѧко пользьно напечатаньноѥ ѥстъ игра. Сиѥ оудобьно сътворити съ словєсьнꙑмь дѣлатєлємь и печатаниѥмь.
 
-### A life-story page
+### Страница о житии чловѣка
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Листъ «о мьнѣ» на ѥдинои страницѣ съ образомъ, имєнємь, имьжє чловѣкъ хощєтъ нарицати сѧ, мѣстомь, идежє въздрастє, дѣломь, родьствомъ, любьѥнꙑми брашьнꙑ, пѣсньми и тѣмь, ѥжє оутѣшаѥтъ или трѫдитъ. Dementia Australia съвѣтоуѥтъ [кънигѫ въспоминаниꙗ](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) съ съвѣдѣнии о житии чловѣка, о любьѥниихъ и о важьнꙑихъ лю́дьхъ, да помагаѥтъ посѣщаѭщимъ и попєкѫщимъ сѧ и да възбѫждаѥтъ бєсѣдѫ.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Сиѥ ѥстъ особьно пользьно въ больницахъ и въ новꙑихъ мѣстѣхъ попєчєниꙗ. NIA съвѣтоуѥтъ дати дѣлатєлємъ больницѧ [личьнъ листъ съвѣдѣнии](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital), ижє обьꙗвлꙗѥтъ чловѣчьскоѥ обꙑчаиноѥ врѣмѧ, имѧ, ꙗжє любить и нє любить, възможьнꙑꙗ винꙑ трѫда, и нєсловєсьнаꙗ знамєниꙗ болѣꙁни.
 
-### A daily schedule
+### Дьньноѥ расписаниѥ
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Велико, просто расписаниѥ дьнє съ годинами, мало словесъ и малъ образъ за къжьдѫ чѧсть: ꙁаоутрокъ, хождєниѥ, обѣдъ, покои, пѣснь, вєчєрꙗ. [Дьньнꙑи планъ попєчєниꙗ](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) отъ Alzheimer’s Association съвѣтоуѥтъ оустрꙗти врѣмѧ около добрѣишихъ годинъ чловѣка, съ обꙑчаинꙑмь въстаниѥмь и лєжаниѥмь, и съ мѣроѭ дѣꙗниꙗ и покоꙗ. Положитє ѥ въ висотѣ очию, можєтъ бꙑти на хладильницѣ, и дрьжитє ѥ прѣмѣнꙗѥмо. Видитє нашь [пѫтьникъ о дьньнѣмь врѣмєни](/activities/daily-routine/) за вѧщє.
 
-### Picture labels for rooms and drawers
+### Знамєниꙗ съ образы за храминꙑ и скрини
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA съвѣтоуѥтъ оупотрѣблꙗти ꙗръ цвѣтьнꙑꙗ знамєниꙗ или простꙑꙗ образы, да [ознамєнитє мꙑтищє, ложьницѫ и кꙋхꙑнѭ](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Тъждє мꙑсль слоуžitъ за скрини и съхраньнѧѩ: образъ поножии на скрини поножии, чашѧ на съхраньни чашь. Напечатаитє, облѣпитє и прилѣпитє.
 
-### A sorting set
+### Съборъ за раздѣлєниѥ
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Напечатаитє образы отъ дъвою простоу чиноу, ꙗко жє плодꙑ и цвѣтꙑ или орѫдиꙗ и кꙋхꙑньнꙑꙗ вєщи, на картонъ. Раздѣлитє ѩ и раздѣлꙗитє въкоупѣ въ дъвѣ кошьници. Видъ сєго на ꙗвищи ѥстъ [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Листи съ словєсꙑ пѣснии
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Напечатаитє словєса нѣколикъ любьѥнъихъ пѣснии прѣвєликꙑмь письмомъ за пѣниѥ въкоупѣ. И тии, ижє оу жє нє мъного чьтѫтъ, могѫтъ радовати сѧ дрьжѧщє листъ.
 
-### A family photo page
+### Страница съ родьствьнꙑми образы
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Ѥдина страница съ чєтꙑрьми или шєстию великꙑми родьствьнꙑми образы, съ прьвꙑмь имєнємь подъ къжьдꙑмь. Можєтъ лєжати на трєпєзѣ, да къто любо въꙁьмєтъ ѭ и бєсѣдоуѥтъ. Подъписаниꙗ помагаѭтъ посѣщаѭщимъ и дѣлатєлємъ вънити въ бєсѣдѫ, и никътожє нє трѣбоуѥтъ въпрашати «Къто сє ѥстъ?»
 
-### A recipe card
+### Картица брашьна
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Напечатаитє любьѥно родьствьно брашьно великꙑмь письмомъ. Оупотрѣбитє ѭ, да варитє въкоупѣ, или просто да бєсѣдоуѥтє о брашьнѣхъ отъ прѣжьдьнихъ врѣмєнъ.
 
-## How do I offer a printable without it feeling like homework?
+## Како прѣдъложити напечатаньноѥ, да нє бѫдєтъ ꙗко ꙋчєниѥ?
 
-Present it as something to share, not a test.
+Прѣдъложитє ѥ ꙗко нѣчьто за раздѣлєниѥ, а нє ꙗко испꙑтаниѥ.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Сѧдѣтє и начьнѣтє сами.** «Азъ творѭ сє исканиѥ словесъ. Хощєши ли помощи ми обрѣсти „вєрътоградъ“?»
+- **Дѣлаитє въкоупѣ.** Чрєдоуитє сѧ, или ѥдинъ ищєтъ, а дроугꙑи обьводитъ.
+- **Николижє нє отъмѣчаитє право или криво.** Пѫтьникъ Alzheimer’s Association о [дѣꙗниихъ дома](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) съвѣтоуѥтъ съсрѣдоточити сѧ на пѫти, а нє на исходѣ, и на радости, а нє на достижєнии.
+- **Оставитє страницы вънѣ.** Тъждє пѫтьникъ съвѣтоуѥтъ положити съборьникꙑ, кънигꙑ образъ или старꙑꙗ писаниꙗ на оудобьнꙑихъ мѣстѣхъ. Напечатаньнꙑꙗ картици и страницы съ образы могѫтъ лєжати на страньнѣи трєпєзѣ тѣмь жє образомь.
+- **Прѣстанѣтє, ѥгда хощєтє.** Полъ страницы за оукрашаниѥ ѥстъ добръ полъдьнь. Тако жє ѥстъ отъложити страницѫ и испити чашѫ чаꙗ.
 
-## Where to find more
+## Къдє обрѣсти вѧщє
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Видитє вьсѧ нашѧ [игрꙑ и напечатаньнаꙗ](/games/), или видитє [дѣꙗниꙗ за вьсѧкъ стѫпєнь](/activities/ideas/) за вѧщє мꙑслии, съ бумагѫ и бєꙁ нєꙗ.

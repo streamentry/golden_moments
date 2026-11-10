@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning៖ សកម្មភាពស្ងប់ស្ងាត់ពេលរសៀលសម្រាប់ជំងឺវង្វេង"
+seoTitle: "Sundowning៖ សកម្មភាពស្ងប់ស្ងាត់ពេលរសៀល"
+description: "ទម្លាប់សន្សំសំចៃ ការផ្លាស់ប្តូរបន្ទប់ និងសកម្មភាពស្ងប់ស្ងាត់ដែលអាចជួយបន្ធូបន្ថយអារម្មណ៍មិនស្ងប់ពេលល្ងាច chez មនុស្សមានជំងឺវង្វេង និងពេលណាត្រូវពិគ្រោះវេជ្ជបណ្ឌិត។"
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning គឺជាអារម្មណ៍មិនស្ងប់ ភាន់ច្រឡំ ឬឆេវឆាវដែលចាប់ផ្តើម ឬកាន់តែធ្ងន់ធ្ងរ
+  នៅពេលរសៀលយឺត ឬពេលល្ងាច។ ជំហានអនុវត្តដែលអាចជួយបានរួមមាន ទម្លាប់ប្រចាំថ្ងៃដែលទៀងទាត់
+  ពន្លឺថ្ងៃ និងសកម្មភាពនៅពេលព្រឹក ចំនួនគេងថ្ងៃតិចជាងមុន ការហាមជាតិកាហ្វេអ៊ីនតិចជាងមុន
+  ការបើកភ្លើងក្នុងផ្ទះឱ្យភ្លឺមុនពេលងងឹត ការធ្វើឱ្យផ្ទះស្ងប់ស្ងាត់ជាងមុន និងសកម្មភាពស្ងប់ស្ងាត់
+  ដូចជាស្តាប់តន្ត្រី មើលរូបថត ឬបត់សម្លៀកបំពាក់។ រោគសញ្ញាថ្មី ឬដែលកាន់តែធ្ងន់ធ្ងរ
+  ត្រូវការការពិនិត្យពីវេជ្ជបណ្ឌិត។
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning មានន័យថាអារម្មណ៍មិនស្ងប់ ឬភាន់ច្រឡំដែលចាប់ផ្តើម ឬកាន់តែធ្ងន់ធ្ងរនៅពេលពន្លឺថ្ងៃចាប់ផ្តើមរលត់។"
+  - "ដាក់កិច្ចការដែលតម្រូវឱ្យប្រឹងប្រែង ការចេញក្រៅ និងការងូតទឹក នៅពេលព្រឹក ឬពេលរសៀលដើម។"
+  - "ពន្លឺថ្ងៃ ការដើរលេងប្រចាំថ្ងៃ ការគេងថ្ងៃតិចជាងមុន និងកាហ្វេអ៊ីនតិចជាងមុននៅចុងថ្ងៃ អាចជួយឱ្យពេលល្ងាចកាន់តែរលូន។"
+  - "បើកភ្លើងមុនពេលងងឹត បន្ថយសំឡេងរំខាន និងប្តូរទៅសកម្មភាពស្ងប់ស្ងាត់ដែល quen។"
+  - "កត់ត្រាខ្លីៗដើម្បីស្វែងរកអ្វីដែលបង្កឱ្យមានបញ្ហា ហើយរក្សាភាពស្ងប់ស្ងាត់ និងផ្តល់ការធានានៅពេលចាប់ផ្តើមមានអារម្មណ៍មិនស្ងប់។"
+  - "ទៅជួបវេជ្ជបណ្ឌិតប្រសិនបើមានរោគសញ្ញាថ្មី ឬកាន់តែធ្ងន់ធ្ងរ៖ ការឈឺចាប់ ការឆ្លងមេរោគ ឬថ្នាំ អាចមានឥទ្ធិពល។"
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "ជាធម្មតា Sundowning កើតឡើងនៅម៉ោងណានៃថ្ងៃ?"
+    a: "ជាធម្មតាវាចាប់ផ្តើម ឬកាន់តែធ្ងន់ធ្ងរនៅពេលរសៀលយឺត ឬពេលល្ងាចដើម នៅពេលពន្លឺថ្ងៃចាប់ផ្តើមរលត់។ ពេលវេលាជាក់លាក់អាចខុសគ្នាពីមនុស្សម្នាក់ទៅមនុស្សម្នាក់ ដូច្នេះការកត់ត្រាខ្លីៗអំឡុងមួយ ឬពីរសប្តាហ៍អាចជួយបាន។"
+  - q: "សកម្មភាពអ្វីខ្លះដែលអាចជួយពេលមាន Sundowning?"
+    a: "សកម្មភាពស្ងប់ស្ងាត់ quen និងងាយស្រួល ជាធម្មតាមានប្រយោជន៍បំផុតនៅពេលរសៀលយឺត៖ តន្ត្រីស្ងប់ស្ងាត់ មើលរូបថត មើលកម្មវិធីទូរទស្សន៍ ឬភាពយន្តដែលចូលចិត្ត បត់សម្លៀកបំពាក់ ដើរលេងខ្លីៗ ឬញ៉ាំអាហារសម្រន់ជាមួយគ្នា។ រក្សាសកម្មភាពថ្មី ឬសកម្មភាពដែលពិបាកសម្រាប់ពេលដើមថ្ងៃ។"
+  - q: "តើ Sundowning អាចជាសញ្ញានៃបញ្ហាសុខភាពវេជ្ជសាស្ត្រដែរឬទេ?"
+    a: "វាអាចកាន់តែធ្ងន់ធ្ងរដោយសារបញ្ហាសុខភាពដូចជាការឈឺចាប់ ការឆ្លងមេរោគដូចជាការឆ្លងមេរោគនៅផ្លូវទឹកនោម បញ្ហាគេង ឬផលប៉ះពាល់របស់ថ្នាំ។ ប្រសិនបើអារម្មណ៍មិនស្ងប់ជាអ្វីថ្មី កើតឡើងភ្លាមៗ ឬកាន់តែធ្ងន់ធ្ងរ សូមទាក់ទងវេជ្ជបណ្ឌិតរបស់អ្នកដែលអ្នកថែទាំ។"
+  - q: "តើខ្ញុំគួរសួរវេជ្ជបណ្ឌិតអំពីថ្នាំសម្រាប់ Sundowning ដែរឬទេ?"
+    a: "នោះជាការពិភាក្សាដែលគួរធ្វើជាមួយវេជ្ជបណ្ឌិត។ Alzheimer's Association បញ្ជាក់ថាជាទូទៅវិធីសាស្ត្រមិនប្រើថ្នាំត្រូវបានផ្តល់អាទិភាពជាមុនសិន ហើយថាថ្នាំណាមួយសម្រាប់អារម្មណ៍មិនស្ងប់ពេលល្ងាចគួរត្រូវបានពិចារណាតែបន្ទាប់ពីបានថ្លឹងថ្លែងអំពីហានិភ័យ និងអត្ថប្រយោជន៍រួចហើយ។ ទំព័រនេះមិនផ្តល់ដំបូន្មានអំពីថ្នាំទេ។"
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+គ្រួសារជាច្រើនសង្កេតឃើញគំរូដូចគ្នា៖ ពេលព្រឹកគឺស្ងប់ស្ងាត់បន្តិច ប៉ុន្តែនៅពេលរសៀលកាន់តែយូរ មនុស្សដែលរស់នៅជាមួយជំងឺវង្វេងអាចចាប់ផ្តើមមិនស្ងប់ ព្រួយបារម្ភ ភាន់ច្រឡំ ឬឆេវឆាវ។ ពួកគេអាចដើរទៅដើរមក សួរថាចង់ «ទៅផ្ទះ» ទោះបីជាពួកគេស្ថិតនៅផ្ទះក៏ដោយ ឬងាយនឹងអារម្មណ៍មិនសប្បាយចិត្ត។ អាការៈនេះត្រូវបានគេហៅជាទូទៅថា Sundowning។
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+មិនមានវិធីដោះស្រាយតែមួយទេ ប៉ុន្តែការផ្លាស់ប្តូរចង្វាក់ប្រចាំថ្ងៃ បរិយាកាសក្នុងបន្ទប់ និងប្រភេទសកម្មភាពដែលអ្នកផ្តល់ជូន អាចជួយឱ្យពេលរសៀលស្ងប់ស្ងាត់ជាងមុន។ ទំព័រនេះប្រមូលផ្តុំគំនិតអនុវត្តដែលមិនប្រើថ្នាំពី National Institute on Aging និង Alzheimer's Association។ នេះមិនមែនជាដំបូន្មានវេជ្ជសាស្ត្រទេ។ ប្រសិនបើរោគសញ្ញាជាអ្វីថ្មី កើតឡើងភ្លាមៗ ឬកាន់តែធ្ងន់ធ្ងរ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិតរបស់អ្នកដែលអ្នកថែទាំ។
 
-## What is sundowning?
+## Sundowning គឺជាអ្វី?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning គឺជាអារម្មណ៍មិនស្ងប់ ភាន់ច្រឡំ ឆេវឆាវ ឬច្របូកច្របល់ដែលចាប់ផ្តើម ឬកាន់តែធ្ងន់ធ្ងរនៅពេលពន្លឺថ្ងៃចាប់ផ្តើមរលត់ នៅពេលរសៀលយឺត ឬពេលល្ងាចដើម។ [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ចង្អុលបង្ហាញថាការនឿយហត់ខ្លាំងពេកអាចបង្កើនអារម្មណ៍មិនស្ងប់នៅចុងថ្ងៃ។
 
-## What can make late-day restlessness worse?
+## អ្វីខ្លះដែលអាចធ្វើឱ្យអារម្មណ៍មិនស្ងប់នៅចុងថ្ងៃកាន់តែអាក្រក់?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+មានកត្តាជាច្រើនដែលអាចរួមចំណែក ជាញឹកញាប់កើតឡើងជាមួយគ្នា។ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) រាយបញ្ជីកត្តាដូចជា៖
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- ភាពនឿយហត់បន្ទាប់ពីមួយថ្ងៃពេញ;
+- បរិយាកាសថ្មី ឬច្របូកច្របល់;
+- «នាឡិកាជីវសាស្ត្រខាងក្នុង» ដែលមិនស្របគ្នា ធ្វើឱ្យអ្នកនោះងងុយគេងនៅពេលថ្ងៃ និងភ្ញាក់នៅពេលយប់;
+- ពន្លឺតិច និងស្រមោល ដែលអាចធ្វើឱ្យច្របូកច្របល់;
+- ការទទួលអារម្មណ៍តានតឹង ឬការខកចិត្តពីមនុស្សជុំវិញ;
+- តម្រូវការគេងតិចជាងមុន ដែលជារឿងធម្មតានៅមនុស្សវ័យចំណាស់។
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA ក៏បន្ថែមអំពីមូលហេតុនៃអារម្មណ៍មិនស្ងប់ជាទូទៅ រួមមានការឈឺចាប់ ការធ្លាក់ទឹកចិត្ត ឬភាពតានតឹង ការសម្រាកមិនគ្រប់គ្រាន់ ទល់លាមក សំឡេងរំខានច្រើនពេក ឬមនុស្សច្រើនពេក ក៏ដូចជាថ្នាំមួយចំនួន ឬអន្តរកម្មរវាងថ្នាំ។
 
-## How can I plan the day to make evenings calmer?
+## តើខ្ញុំអាចរៀបចំថ្ងៃយ៉ាងដូចម្តេចដើម្បីឱ្យពេលល្ងាចស្ងប់ជាងមុន?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+ផ្លាស់ប្តូរកិច្ចការដែលតម្រូវឱ្យប្រឹងប្រែងទៅពេលដើមថ្ងៃ ហើយរក្សាពេលរសៀលយឺតឱ្យស្ងប់ស្ងាត់ និងអាចទាយទុកជាមុនបាន។ ទាំង NIA និង Alzheimer's Association ណែនាំឱ្យមានទម្លាប់ប្រចាំថ្ងៃទៀងទាត់។ គំរូមួយថ្ងៃដែលអ្នកអាចកែសម្រួលបាន៖
 
-| Time | What may help |
+| ពេលវេលា | អ្វីដែលអាចជួយបាន |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| ពេលព្រឹក | ការណាត់ជួបវេជ្ជបណ្ឌិត ការងូតទឹក ការចេញក្រៅ និងកិច្ចការណាមួយដែលតម្រូវឱ្យប្រឹងប្រែង នៅពេលដែលមនុស្សជាច្រើនភ្ញាក់រលីងបំផុត |
+| ពេលព្រឹកយឺត | ពេលវេលានៅខាងក្រៅ ឬនៅជិតបង្អួចដែលមានពន្លឺថ្ងៃ; ដើរលេង ឬធ្វើសកម្មភាពផ្សេងទៀត |
+| ពេលថ្ងៃត្រង់ | អាហារថ្ងៃត្រង់ច្រើនជាងបន្តិច (Alzheimer's Association ណែនាំឱ្យញ៉ាំអាហារថ្ងៃត្រង់ច្រើនជាង និងអាហារពេលល្ងាចស្រាលជាង) |
+| ពេលរសៀលដើម | សម្រាកប្រសិនបើត្រូវការ ប៉ុន្តែជៀសវាងការគេងយូរនៅចុងថ្ងៃ |
+| ពេលរសៀលកណ្តាលដល់យឺត | សកម្មភាពស្ងប់ស្ងាត់ quen; អាហារសម្រន់ និងភេសជ្ជៈ; គ្មានកាហ្វេអ៊ីន |
+| មុនពេលងងឹត | បើកភ្លើងក្នុងផ្ទះ និងទាញវាំងនមុនពេលងងឹត |
+| ពេលល្ងាច | អាហារពេលល្ងាចស្រាលជាង តន្ត្រីស្ងប់ស្ងាត់ ការរំញោចតិច ទម្លាប់មុនចូលគេងទៀងទាត់ |
 
-A few specific points from the sources:
+ចំណុចជាក់លាក់មួយចំនួនពីប្រភព៖
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **ពន្លឺថ្ងៃ។** NIA ណែនាំឱ្យរៀបចំពេលវេលានៅខាងក្រៅ ឬនៅជិតបង្អួចដើម្បីទទួលពន្លឺថ្ងៃជារៀងរាល់ថ្ងៃ។
+- **ចលនាប្រចាំថ្ងៃ ប៉ុន្តែមិនលើសពេក។** NIA ណែនាំឱ្យមានសកម្មភាពរាងកាយជារៀងរាល់ថ្ងៃ ប៉ុន្តែកុំរៀបចំសកម្មភាពច្រើនពេក។
+- **ភេសជ្ជៈនៅចុងថ្ងៃ។** ជៀសវាងជាតិអាល់កុល និងភេសជ្ជៈដែលមានកាហ្វេអ៊ីនដូចជាកាហ្វេ ឬកូឡា នៅចុងថ្ងៃ (NIA)។ Alzheimer's Association ក៏លើកឡើងអំពីនីកូទីនផងដែរ។
+- **ការគេងថ្ងៃ។** កុំលើកទឹកចិត្តឱ្យគេងយូរ ឬងុយគេងនៅចុងថ្ងៃ (NIA)។ Alzheimer's Association ណែនាំឱ្យកំណត់ការគេងថ្ងៃប្រសិនបើមានបញ្ហាគេងនៅពេលយប់។
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+សម្រាប់គំនិតបន្ថែមអំពីការបង្កើតថ្ងៃដែលទៀងទាត់ សូមមើល [សកម្មភាពទម្លាប់ប្រចាំថ្ងៃ](/activities/daily-routine/)។
 
-## How can I make the home calmer in the late afternoon?
+## តើខ្ញុំអាចធ្វើឱ្យផ្ទះស្ងប់ស្ងាត់ជាងមុននៅពេលរសៀលយឺតដោយរបៀបណា?
 
-Reduce noise, add light and keep familiar things close.
+បន្ថយសំឡេងរំខាន បន្ថែមពន្លឺ និងរក្សាអ្វីដែល quen ឱ្យនៅជិត។
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **ពន្លឺភ្លឺ និងស្មើគ្នា។** Alzheimer's Association ណែនាំឱ្យរក្សាផ្ទះឱ្យមានពន្លឺល្អនៅពេលល្ងាច។ បើកភ្លើងមុនពេលស្រមោលលេចឡើង។
+- **បន្ថយសំឡេងរំខាន។** បិទ ឬបន្ថយសំឡេងទូរទស្សន៍ និងវិទ្យុ ហើយកំណត់អ្នកមកលេង ឬកិច្ចការផ្ទះដែលរវល់នៅពេលនេះ។ Alzheimer's Association ណែនាំឱ្យបន្ថយការរំញោចនៅពេលល្ងាចដូចជាទូរទស្សន៍ កិច្ចការផ្ទះ និងតន្ត្រីខ្លាំងៗ។
+- **អ្វីដែល quen និងផ្តល់ភាពសុខស្រួល។** NIA ណែនាំឱ្យបើកតន្ត្រីស្ងប់ស្ងាត់ និងរក្សាវត្ថុ និងរូបថតដែលអ្នកនោះស្រឡាញ់នៅជុំវិញផ្ទះ។
+- **ពិនិត្យភាពសុខស្រួល។** Alzheimer's Association ណែនាំឱ្យពិនិត្យមើលការឈឺចាប់ ភាពអត់ឃ្លាន ការស្រ thirst ទល់លាមក ប្លោកនោមពេញ ភាពនឿយហត់ ការឆ្លងមេរោគ និងការរមាស់ស្បែក ហើយរក្សាសីតុណ្ហភាពក្នុងបន្ទប់ឱ្យសមរម្យ។
+- **អារម្មណ៍របស់អ្នកផ្ទាល់។** មនុស្សអាចទទួលអារម្មណ៍តានតឹងបាន។ NIA ណែនាំឱ្យបន្ថយល្បឿន និងព្យាយាមសម្រាក ប្រសិនបើការព្រួយបារម្ភរបស់អ្នកផ្ទាល់អាចបន្ថែមភាពតានតឹង។
 
-## What calm activities can we do in the late afternoon?
+## តើយើងអាចធ្វើសកម្មភាពស្ងប់ស្ងាត់អ្វីខ្លះនៅពេលរសៀលយឺត?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+ជ្រើសរើសសកម្មភាពដែល quen មិនប្រញាប់ និងងាយស្រួលបញ្ឈប់។ Alzheimer's Association ណែនាំសកម្មភាពស្ងប់ស្ងាត់ដូចជាតន្ត្រីស្ងប់ស្ងាត់ រូបថត ឬភាពយន្តដែលចូលចិត្ត និងការដើរលេងជាមួយគ្នាដើម្បីបន្ធូបន្ថយអារម្មណ៍មិនស្ងប់។ NIA ណែនាំអាហារសម្រន់ ឬភេសជ្ជៈ កម្មវិធីទូរទស្សន៍ដែលចូលចិត្ត តន្ត្រី ការដើរលេង ការអាន ឬកិច្ចការផ្ទះសាមញ្ញដូចជាបត់សម្លៀកបំពាក់។
 
-Ideas to try:
+គំនិតដែលអាចសាកល្បង៖
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **បត់សម្លៀកបំពាក់ជាមួយគ្នា។** NIA ណែនាំកិច្ចការផ្ទះសាមញ្ញបែបនេះ។ កន្សែងអាចកាន់បានងាយ ហើយកិច្ចការនេះមានចំណុចបញ្ចប់ច្បាស់លាស់។
+2. **ចាក់តន្ត្រីដែលចូលចិត្ត។** បទចម្រៀង quen ពីកាលនៅក្មេងៗ របស់ពួកគេ ដោយបើកសំឡេងទាប។ ការញញឹម ឬគ្រហឹមតាមក៏ល្អដែរ។ សូមមើលគំនិតបន្ថែមនៅ [សកម្មភាពតន្ត្រី](/activities/music/)។
+3. **មើលរូបថត។** អាល់ប៊ុមរូបថត ឬរូបថតគ្រួសារមួយចំនួននៅក្នុង [Photo Pairs](/games/photo-pairs/) ដោយទុករូបឱ្យមើលឃើញ អាចនាំឱ្យមានការសន្ទនាស្ងប់ស្ងាត់។
+4. **ដើរលេងខ្លីៗ។** នៅក្នុងសួន ជុំវិញផ្ទះ ឬតាមច្រករបៀង មុនពេលងងឹត។
+5. **ញ៉ាំអាហារសម្រន់ និងភេសជ្ជៈជាមួយគ្នា។** អ្វីដែលសាមញ្ញ កក់ក្តៅ និងគ្មានកាហ្វេអ៊ីន អង្គុយជាមួយគ្នានៅតុ។
+6. **ល្បែងផ្គូផ្គងស្រាលៗ។** [Picture Pairs](/games/picture-pairs/) ជាមួយក្រឡា 4 និងបង្ហាញរូបភាព អាចចាប់ផ្តើមបានងាយ និងបញ្ឈប់បានងាយ។
+7. **ដាក់ពណ៌។** [Coloring](/games/coloring/) នៅលើអេក្រង់ ឬលើក្រដាសបោះពុម្ព ដោយគ្មានគោលបំណងថាត្រូវបញ្ចប់។
+8. **មើល និងនិយាយគ្នា។** [Conversation Cards](/games/conversation-cards/) ផ្តល់រូបភាព និងសំណួរបើកចំហ។ គ្រាន់តែមើលក៏គ្រប់គ្រាន់ហើយ។
+9. **ការឈប់សម្រាកដកដង្ហើម។** [Calm Breathing](/games/calm-breathing/) គឺជាពេលវេលាស្ងប់ស្ងាត់ និងយឺតៗ ដែលអ្នកអាចចាប់ផ្តើម និងបញ្ឈប់ដោយខ្លួនឯង។
+10. **សកម្មភាពប្រើដៃ។** តម្រៀបប៊ូតុង ឬស្រោមជើង ធ្វើឱ្យភួយ ឬកម្រាលទន់រលោង ឬកាន់វត្ថុ quen។ សូមមើល [សកម្មភាពប្រើประสาทสัมผัส](/activities/sensory/)។
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+ជៀសវាងល្បែងថ្មី ការចេញក្រៅដែលរវល់ និងអ្វីដែលតម្រូវឱ្យប្រើការចងចាំ ឬការផ្តោតអារម្មណ៍ច្រើននៅចុងថ្ងៃ។ រក្សាសកម្មភាពទាំងនោះសម្រាប់ពេលព្រឹក។
 
-## What should I do when restlessness starts?
+## តើខ្ញុំគួរធ្វើអ្វីនៅពេលអារម្មណ៍មិនស្ងប់ចាប់ផ្តើម?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+រក្សាភាពស្ងប់ស្ងាត់ ផ្តល់ការធានា និងបង្វែរចំណាប់អារម្មណ៍យ៉ាងស្រទន់។ NIA ណែនាំឱ្យនិយាយដោយស្ងប់ស្ងាត់ ស្តាប់ការព្រួយបារម្ភរបស់អ្នកនោះ ជៀសវាងការឈ្លោះប្រកែកគ្នា ធានាថាពួកគេសុវត្ថិភាព និងប្រើការប៉ះយ៉ាងស្រទន់ប្រសិនបើវាជួយបាន។ បន្ទាប់មកព្យាយាមបង្វែរចំណាប់អារម្មណ៍៖ អាហារសម្រន់ ភេសជ្ជៈ តន្ត្រី ឬការដើរលេង។
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association ណែនាំឃ្លាដូចជា «អ្នកមានសុវត្ថិភាពនៅទីនេះ» និង «ខ្ញុំសោកស្តាយដែលអ្នកមិនសប្បាយចិត្ត» ហើយណែនាំឱ្យបន្ថែមពន្លឺ បន្ថយល្បឿន និងកំណត់ការរំញោច។ កុំព្យាយាមបិទផ្លូវ កុំនៅជិតពេក ឬហាមឃាត់អ្នកនោះ ហើយកុំឈ្លោះប្រកែកជាមួយពួកគេ។
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+ប្រសិនបើអ្នកនោះក្លាយជាអ្នកហឹង្សា NIA ណែនាំឱ្យនៅឱ្យឆ្ងាយក្នុងចម្ងាយដែលមានសុវត្ថិភាពរហូតដល់អាកប្បកិរិយានោះឈប់។ ក្នុងករណីមានអាសន្ន សូមហៅលេខសង្គ្រោះបន្ទាន់ 119 ហើយពន្យល់ថាអ្នកនោះមានជំងឺវង្វេង។
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+មគ្គុទ្ទេសក៍របស់យើងអំពី [ការប្រាស្រ័យទាក់ទង](/caregiving/communication-tips/) និង [អ្វីដែលត្រូវធ្វើនៅពេលពួកគេនិយាយថាទេ](/caregiving/when-they-say-no/) មានព័ត៌មានបន្ថែមអំពីពាក្យសម្ដីដែលជួយឱ្យស្ងប់។
 
-## How do I find the triggers?
+## តើខ្ញុំអាចស្វែងរកអ្វីដែលបង្កឱ្យមានបញ្ហាដោយរបៀបណា?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+កត់ត្រាខ្លីៗអំឡុងមួយ ឬពីរសប្តាហ៍។ Alzheimer's Association ណែនាំឱ្យកត់ត្រាអ្វីដែលកើតឡើងមុនពេលមាន Sundowning ដើម្បីស្វែងរកអ្វីដែលបង្កឱ្យវា។ កត់ត្រាពេលវេលាដែលអារម្មណ៍មិនស្ងប់ចាប់ផ្តើម អ្វីដែលកើតឡើងក្នុងមួយម៉ោងមុន ការគេងថ្ងៃ អាហារ និងភេសជ្ជៈ អ្នកមកលេង សំឡេងរំខាន និងពន្លឺ។ យកកំណត់ត្រានោះទៅជួបវេជ្ជបណ្ឌិត។ NIA ចង្អុលបង្ហាញថាការកត់ត្រាការផ្លាស់ប្តូរអាកប្បកិរិយាអាចជួយអ្នកថែទាំ និងអ្នកផ្តល់សេវាថែទាំសុខភាពឱ្យមើលឃើញគំរូ។
 
-## When should I call a doctor about sundowning?
+## តើខ្ញុំគួរទូរស័ព្ទទៅវេជ្ជបណ្ឌិតនៅពេលណាអំពី Sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+ទាក់ទងវេជ្ជបណ្ឌិតរបស់អ្នកដែលអ្នកថែទាំ ប្រសិនបើអារម្មណ៍មិនស្ងប់ជាអ្វីថ្មី កាន់តែធ្ងន់ធ្ងរភ្លាមៗ ឬមកជាមួយការផ្លាស់ប្តូរផ្សេងទៀត។ NIA បញ្ជាក់ថាការផ្លាស់ប្តូរអាកប្បកិរិយាដែលកើតឡើងភ្លាមៗ ឬប្រែប្រួលយ៉ាងលឿន ជាពិសេសបន្ទាប់ពីការឆ្លងមេរោគ ឬការផ្លាស់ប្តូរថ្នាំថ្មីៗ គួរត្រូវបានជូនដំណឹងទៅវេជ្ជបណ្ឌិតភ្លាមៗ។
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+សូមសួរវេជ្ជបណ្ឌិតឱ្យពិនិត្យរកអ្វីដែលអាចធ្វើឱ្យពេលល្ងាចកាន់តែលំបាក។ Alzheimer's Association លើកឡើងអំពីបញ្ហារាងកាយដូចជាការឆ្លងមេរោគនៅផ្លូវទឹកនោម ការមិនអាចគ្រប់គ្រងការបន្ទោរបង់ទឹកនោម ជំងឺ restless legs និងការឈប់ដកដង្ហើមពេលគេង ហើយណែនាំឱ្យសួរថាពេលណានៃថ្ងៃសមស្របបំផុតសម្រាប់ថ្នាំនីមួយៗ។ NIA រាយបញ្ជីការឈឺចាប់ ទល់លាមក និងផលប៉ះពាល់ ឬអន្តរកម្មរបស់ថ្នាំ ជាមូលហេតុដែលអាចបង្កឱ្យមានអារម្មណ៍មិនស្ងប់។
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association បញ្ជាក់ថាវិធីសាស្ត្រមិនប្រើថ្នាំជាទូទៅត្រូវបានផ្តល់អាទិភាពសម្រាប់បញ្ហាគេងដែលទាក់ទងនឹងជំងឺអាល់ស្យៃមឺ ហើយថាថ្នាំសម្រាប់អារម្មណ៍មិនស្ងប់នៅចុងថ្ងៃគួរត្រូវបានពិចារណាតែបើវិធីទាំងនោះមិនបានផល បន្ទាប់ពីបានថ្លឹងថ្លែងអំពីហានិភ័យ និងអត្ថប្រយោជន៍រួច។ ការសម្រេចចិត្តនោះគឺជារបស់វេជ្ជបណ្ឌិត។ កុំចាប់ផ្តើម បញ្ឈប់ ឬផ្លាស់ប្តូរថ្នាំ ថ្នាំជំនួយការគេង ឬអាហារបំប៉នណាមួយដោយគ្មានដំបូន្មានវេជ្ជសាស្ត្រ។
 
-## How do I get through the evenings myself?
+## តើខ្ញុំអាចឆ្លងកាត់ពេលល្ងាចដោយខ្លួនឯងបានយ៉ាងដូចម្តេច?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+ពេលរសៀលយឺតអាចជាពេលវេលាលំបាកបំផុតក្នុងថ្ងៃសម្រាប់អ្នកថែទាំ។ ប្រសិនបើអាច សូមសុំឱ្យសមាជិកគ្រួសារ មិត្តភក្តិ ឬអ្នកជួយដែលមានប្រាក់ឈ្នួលជួយមើលថែនៅពេលរសៀលយឺតពីរបីថ្ងៃក្នុងមួយសប្តាហ៍ សូម្បីតែមួយម៉ោងក៏ដោយ។ មគ្គុទ្ទេសក៍របស់យើងអំពី [ការថែរក្សាខ្លួនឯងរបស់អ្នកថែទាំ](/caregiving/caregiver-self-care/) មានបញ្ជីជម្រើសសម្រាក និងខ្សែទូរស័ព្ទជំនួយ Alzheimer's Association 24/7 Helpline ដែលមិនគិតថ្លៃ។

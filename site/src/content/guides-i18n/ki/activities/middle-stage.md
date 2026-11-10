@@ -1,32 +1,28 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Mĩthiithũ ya Ihinda rĩa Gatagatĩ"
+seoTitle: "Mĩthiithũ ya Ihinda rĩa Gatagatĩ: Mawega ma Kũgerekania"
+description: "Mĩthiithũ mĩhũthũ ya ihinda rĩa gatagatĩ: mawĩra ma mũciĩ, ngĩna, mĩfoto na mĩndũ mĩhũthũ ya kũhũthĩra, hamwe na mũtaratara wa gwambĩrĩria na ũrĩa wa kũgarũra gũtangĩka gũtuĩke kĩndũ gĩa gwĩka."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Ihinda rĩa gatagatĩ rĩa kũriganĩrwo nĩ meciiria, mĩthiithũ ĩrĩa ĩgaakorwo ĩrĩ mĩega nĩ ĩrĩa ĩrĩ nguhĩ, ĩmenyerekanĩte na ĩgayagwo igĩcunjĩ kĩmwe o kĩmwe: gũtambũrũkia nguo cia kuoya, gũcũranĩria thabiti, gũthambia indo, kũina, gũthiĩ na mũndũ ũrenda kũmenyererwo, gũcũthĩrĩria albamu ya mĩfoto, na mĩndũ mĩhũthũ ya mĩcoro na mĩfoto. Ambĩrĩria kĩndũ, onania mũhaka wa mbere, ruta mĩhaka ĩrĩa mĩritũ, na he wĩra ũcio gĩtumi. Thira rĩrĩa rĩtagacooka gũkenia.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Mawĩra ma mũciĩ marĩa mamanĩte nĩ mo marutaga wĩra wega mũno nĩgũkorwo matũmaga mũndũ aikare ta mũndũ wa gĩtĩĩo."
+  - "Onania handũ ha kũheana maũndũ manene; he mũhaka mũmwe o mũhaka, na mũhe mathuranĩro meerĩ mahũthũ handũ ha kũmũũria ciũria iria itarĩ na macokio ma gwĩtĩkĩrĩka."
+  - "Ruta gĩcunjĩ kĩrĩa kĩritũ mũno nĩgeetha mũndũ ũrenda kũmenyererwo ahote gwĩka gĩcunjĩ kĩrĩa kĩmũkenagia."
+  - "Gũtangĩka mũno nĩ ta ũira atĩ mũndũ nĩenda kĩndũ gĩa gwĩka. Mũhe wĩra ũkwagĩrĩra handũ ha kũmwĩra atĩ ndaagĩrĩire."
+  - "Kũrora, kũteithia hanini, kana kwĩthira na mbere ĩtanathira nĩ ciothe ciagĩrĩire."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Nĩ mĩthiithũ ĩrĩkũ ĩrĩ ĩega ya ihinda rĩa gatagatĩ rĩa kũriganĩrwo nĩ meciiria?"
+    a: "Mĩthiithũ mĩngʼuhĩ, ĩmenyerekanĩte, na ya moko ĩrĩa ĩgayagwo igĩcunjĩ kĩmwe o kĩmwe nĩ yo ĩrutaga wĩra wega mũno: gũtambũrũkia matawuro, gũcũranĩria thabiti, gũthambia indo, gũthondeka metha, kũina nyĩmbo iria mamanĩte, gũthiĩ na mũndũ, gũcũthĩrĩria albamu ya mĩfoto, na mĩndũ mĩhũthũ ya mĩcoro na mĩfoto. Gayania o kĩndũ igĩcunjĩ kĩmwe o kĩmwe na mwĩke hamwe."
+  - q: "Ndakĩhota atĩa kũringĩrĩria mũndũ ũrenda kũmenyererwo ambĩrĩrie gwĩka kĩndũ?"
+    a: "Thondeka indo ciothe mbere, ũcooke ambĩrĩrie gwĩka wĩra ũcio wee mwene na ũmũnyiite atĩ: 'No ũũteithie na matawuro maya?' Andũ aingĩ nĩ mendaga kũgwatanĩra, no mangĩhota gũthirĩrwo nĩ kwambĩrĩria. Kũonania mũhaka wa mbere nĩ kwagĩrĩra gũkĩra kũheana maũndũ maingĩ."
+  - q: "Ngagĩka atĩ rĩrĩa mũndũ agaacooka gwĩka kĩndũ o ro kĩu?"
+    a: "Gũcooka gwĩka o ro kĩu ti kĩndũ kĩũru na no kũonanie atĩ mũndũ nĩenda gũikara na kĩndũ gĩa gwĩka kana nĩenda kũheo hinya. Handũ ha kũmũkaania, mũhe wĩra ũgwagĩrĩra mũthiĩre ũcio: ta gĩkũngũ gĩa matawuro maicũ gũtambũrũkia kana rwĩmbo rwa kũina hamwe."
+  - q: "Ngagĩka atĩ angĩka kĩndũ na njĩra ĩtarĩ ĩrĩa ndĩrĩĩrirĩire?"
+    a: "Angĩkorwo ti kĩndũ kĩrĩ ũgwati, reka akĩe. Matawuro mangĩtambũrũkio na njĩra ĩngĩ kana biceri imangĩikio handũ hangĩ itirĩ na thĩĩna. Kũmũkaania no kũmũtue aikue ta atarĩ na ũhoti, no gwĩka na njĩra yake nĩ kũmũtũma aikare ta mũndũ wa gĩtĩĩo na ũrĩa ũngĩhota gwĩka maũndũ."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +44,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Ihinda rĩa gatagatĩ rĩa kũriganĩrwo nĩ meciiria nĩ rĩo rĩikaraga ihinda iraaya mũno, na rĩrĩa mĩthiithũ ĩambĩrĩria kũbatarĩra ũteithio mũingĩ. Ciugo ciambĩrĩria kũthirĩrwo nĩ ũhoro, mĩhaka ĩgĩathĩĩngana, na kwambĩrĩria kĩndũ no kũmũrĩke. No rĩrĩ, wendi wa gũkorwo na gĩtumi na wa kũgwatanĩra nĩ ũikaraga ho. Na ũteithio mũnini, mũndũ ũrĩa ũrĩ ihinda-inĩ rĩa gatagatĩ no agĩe na ngeni ya gwĩka maũndũ maingĩ, makĩria mawĩra marĩa mamanĩte, ngĩna, na mĩfoto, mũrĩ hamwe na we.
 
-## What activities work well in middle-stage dementia?
+## Nĩ mĩthiithũ ĩrĩkũ ĩrĩ ĩega ihinda-inĩ rĩa gatagatĩ rĩa kũriganĩrwo nĩ meciiria?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Mĩthiithũ mĩngʼuhĩ, ĩmenyerekanĩte, ya moko, na ĩgayagwo igĩcunjĩ kĩmwe o kĩmwe nĩ yo ĩrutaga wĩra wega mũno. Kũringana na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage), to batarĩte gwĩthondekera maũndũ merũ ma gwĩka: mĩthiithũ no ĩkorwo ĩrĩ gĩcunjĩ kĩa muoyo wa o mũthenya, ta gũthondeka irio hamwe, kũrĩma mĩgũnda, kũigua ngĩna, kana gũthiĩ na magũrũ.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nĩ yonanĩtie atĩ andũ arĩa marĩ ihinda-inĩ rĩĩrĩ nĩ marĩ na wendi mũnene wa gũkorwo na gĩtumi kana wa kũmenyerera kĩndũ, na mabataraga ũteithio wa kwambĩrĩria kana wa gũthiĩ na mbere na mĩthiithũ. Mũtaratara wao wa ihinda rĩa gatagatĩ nĩ ũnyitanĩtie na gũtambũrũkia nguo, gũthambia indo, gũcũranĩria thabiti, mwĩrĩra mũhũthũ, kũina hamwe na mũno wa ngĩna ĩmenyerekanĩte, gũthiĩ na mũndũ, kũina nyĩmbo hamwe, kũhũthũra mũno, na gũcũthĩrĩria albamu ya mĩfoto.
 
-## How do you set up an activity so it works?
+## Mwĩka atĩa nĩgeetha mũthiithũ ũkorwo ũrĩ mwega?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Mĩthiithũ ĩingĩ nĩ ĩhotaga kana ĩgaaga nĩ ũndũ wa ũrĩa ĩthondeketwo. Mĩtugo ĩno, ĩrĩa ĩrutĩtwo kuuma kũrĩ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) na [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), nĩ yo ĩrĩ na riiri mũnene mũno:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Theria handũ.** Hinga TV, hinga mũrango, na ucie na indo iria ciothe iria cigĩrĩire mũthiithũ ũcio tu.
+2. **Ambĩrĩria wee mwene.** Ambĩrĩria gũtambũrũkia kana kũhuruta na ũmũnyiite ũũ: "No ũũteithie na ũũ?"
+3. **Onania, ũcooke etererere.** Onania mũhaka mũmwe. Onania na kĩara kana ũmũtongorie na guoko, ta kũmuonia harĩa sahani ĩgĩrĩirwo.
+4. **He mũhaka mũmwe o mũhaka.** "Tambũrũkia gatagatĩ" nĩ kwagĩrĩra gũkĩra "Tambũrũkia ici ciothe na ũciikanĩrĩrie kũringana na rangi."
+5. **He mathuranĩro meerĩ, ti ciũria cia macokio maingĩ.** "Matawuro ma bururu kana marĩa matarĩ na rangi?" nĩ mahũthũ kũmacokia gũkĩra "Ũkwenda gwĩka ũrĩkũ?"
+6. **Ruta gĩcunjĩ kĩrĩa kĩritũ wee mwene.** Wee ũthime, we nĩ ũhurutage. Wee ũtunge njohero, we nĩ ũcookanĩrĩrie itambe.
+7. **He gĩtumi.** "Matawuro maya nĩ ma irio cia mũthenya wa Jumapĩlĩ" nĩ matũmaga wĩra ũcio ũkorwo na gĩtumi kĩ nyata.
+8. **Reka arore angĩenda.** Kũringana na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), kũrora o no gũkorwo kũrĩ gwa gũkenia nake.
 
-## Activity ideas for the middle stage
+## Mawega ma mĩthiithũ ya ihinda rĩa gatagatĩ
 
-### Useful jobs
+### Mawĩra ma mũciĩ
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Gũtambũrũkia matawuro na matawuro maicũ.** Indo iniini, itarĩ na mĩtwe nĩ cio iria ihũthũ mũno. Gĩkũngũ gĩa matawuro maicũ ma ũrugarĩ no gĩtambũrũkio, gĩthirũrũmbio na gĩtambũrũkio rĩngĩ.
+- **Gũcũranĩria thabiti.** Ambĩrĩria na thabiti nyingĩ itaingĩhanaga. Gũcũranĩria o kũringana na rangi nĩ kwagĩrĩire nake.
+- **Gũthambia kana gũhaũria indo cia mũciĩ itarĩ cia kuunĩka.** Maaĩ ma ũrugarĩ na sabuni nĩ ma gũkenia moko. Gũhaũria ũikarĩte nĩ kwagĩrĩra mũno angĩkorwo magũrũ marĩ na ũũmũ.
+- **Gũthondeka metha.** He indo o mũthemba mũmwe o ihinda, na wee ũthondeke handũ hamwe ũmuonie kĩrĩa ekĩra.
+- **Kũteithia gũthondeka irio.** Gũthambia ngwaci, gũtũranga mboga, kana kũhuruta mbakuri. Wee ruta mĩtwe na ũmenyerere ũrugarĩ.
+- **Kũhura, kũhũha, kana kũhohora.** Na nguo mũhũthũ ya metha, kana kĩhuro kĩhũthũ nja.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Ona [mawĩra ma mũciĩ](/activities/household-tasks/) nĩ ũrĩ na maingĩ mũno.
 
-### Music and movement
+### Ngĩna na mwĩrĩra
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Kũina nyĩmbo iria mamanĩte.** Ambĩrĩria kũina wee mwene; andũ aingĩ nĩ marutanaga kũina nyĩmbo iria maimenyerete kuuma o rĩrĩa maarĩ anini. Ona [mĩthiithũ ya ngĩna](/activities/music/).
+- **Kũina na mwĩrĩra.** Nyenyekera, hũũra moko, kana kũgera mwĩrĩra o ta ũrĩa ũkenetie. No gwĩkwo ũikarĩte.
+- **Kũgũithania rangi.** Ikũrũkaga na kũhũthũ na nĩ ihũthũ gũgwata kũrĩa ũikarĩte gĩtĩ-inĩ.
+- **Gũthiĩ na magũrũ hamwe.** Thiĩi na mũthiĩre mũngʼuhĩ mumenyerekanĩte, mũnyiitanĩte moko angĩkorwo nĩ kũteithia.
 
-### Pictures and stories
+### Mĩfoto na ngʼano
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Gũcũthĩrĩria albamu ya mĩfoto.** Aria ũrĩa ũroona handũ ha kũmũũria ciũria: "Rora ngai ũcio. Ndagũcookeria ũhoro wayo?" Ona [mĩthiithũ ya kũririkana maũndũ](/activities/reminiscence/).
+- **Hũthĩra makarata ma ciugo.** [Makarata ma ciugo](/games/conversation-cards/) nĩ manyitanagia mũhiano na njĩra ya kũaria ĩtarĩ ya kũmũgeria.
+- **Rora filimu ya tene hamwe.** Thuura ĩrĩa ĩmenyerekanĩte, ikara hakuhĩ, na ũrekie ihinda rĩa kũhurũka rĩbatarĩte.
 
-### Simple, pressure-free games
+### Mĩndũ mĩhũthũ ya mĩcoro ĩtarĩ na kĩhĩngĩrĩro
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Mĩhiano ĩigananĩte na mĩhiano ĩrĩa yonanĩtio.** [Mĩhiano ĩigananĩte](/games/picture-pairs/) nĩ ĩrekereria mĩhiano ĩikarage yonanĩtio, nĩ ũndũ ũcio gĩtumi nĩ gũcũthĩrĩria, ti kũririkana.
+- **Caria kĩrĩa kĩigananĩte.** [Caria kĩrĩa kĩigananĩte](/games/find-the-same/) nĩ yonanagia mũhiano mũmwe na mathuranĩro meerĩ kana ana tu.
+- **Cũranĩria hamwe.** [Cũranĩria hamwe](/games/sort-together/) nĩ ta gũcũranĩria thabiti mũhiano-inĩ: gũthũkũra mũhiano, ũcooke ũũikie kĩanda-inĩ gĩagĩo.
+- **Mĩcoro ya Bingo ya mĩhiano.** [Mĩcoro ya Bingo ya mĩhiano](/games/picture-bingo/) nĩ ĩrutaga wĩra wega mũno kũrĩ ndũire cia mũciĩ kana ikundi inene.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Angĩambĩrĩria kũigua ũũru nĩ ũndũ wa mũndũ wa mĩcoro, thira na ũgwĩke kĩndũ kĩngĩ. Ona [ũrĩa wa kũhũthĩra hamwe](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Kũgarũra gũtangĩka gũtuĩke mũthiithũ
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Gũtangĩka kana gwĩka maũndũ o ro mau nĩ gwa gĩtumi. Family Caregiver Alliance nĩ yonanĩtie atĩ mũndũ ũrĩa ũthondekaga kabati o rĩngĩ no aikaraga akĩgeria gũkinyia wendi wa gũkorwo na kĩndũ gĩa gwĩka na gĩa gũkorwo na gĩtumi. Alzheimer's Association nĩ ĩtaara kũgarũra hinya ũcio ũtuĩke wĩra ũkwagĩrĩra, handũ ha kũũgitĩra.
 
-| What you see | Something to offer |
+| Kĩrĩa ũroona | Kĩndũ kĩa kũmũhe |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Kũhutia kana kũcengera metha | Nguo mũhũthũ ĩrĩ na maaĩ na ũmũũrie ahororie metha |
+| Magũrũ marĩ na gũtangĩka kana kũhũũra na magũrũ | Ngĩna ĩrĩ na mũgambo mũrũmu wa kũmũteithia ahũũre moko kana nyenyekere |
+| Gũthondeka kabati kana mĩgateko | Gĩkũngũ gĩa nguo kana matawuro maicũ ma gũtambũrũkia na gũcũranĩria |
+| Kũũria ciũria o ro ĩmwe rĩngĩ na rĩngĩ | Kũmũhe ũhoro wa kũmũũmĩrĩria, ũcooke ũina rwĩmbo hamwe kana mwĩke wĩra hamwe |
+| Gũthiĩ na magũrũ mũno | Gũthiĩ hamwe, kana wĩra ũrĩa ũbatarĩte kũkuuĩrĩra indo |
+| Gũtangĩka thaa ya hwaĩ-inĩ | Wĩra mũhũthũ na mumenyerekanĩte kũu kũrĩ na ũtheri mwega; ona [gũtangĩka gwa thaa ya hwaĩ-inĩ](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Rĩrĩa wa gũthira kana wa kũgarũra mũthiĩre
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Thira rĩrĩa ũkoona maithori ma ũrĩu, gũthĩĩnĩka, thoni, kana ũnyara, ta kũgaragaria, kũrũgama na icũi, kũingata indo, kana kuuga "Ndingĩhota." Kũringana na Alzheimer's Association, geria rĩngĩ ihinda rĩngĩ rĩa mũthenya kana ũtue mũthiithũ ũhũthũ mũno. Ndũkanamũringĩrĩrie. Kũrega no kuume nĩ ũndũ wa gwĩtigĩra kana nĩ ũndũ atĩ wĩra ũcio nĩ mũritũ mũno; ona [rĩrĩa mekaga nga](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Kwĩthira na mbere ĩtanathira nĩ kwagĩrĩire. O naikarana hamwe o na ikombe rĩa tii nĩ kwagĩrĩire. Rĩrĩa ũhoti ũkĩgarũrũka gũthiĩ na mbere, mawega marĩa marĩ [mĩthiithũ ya ihinda rĩa mũthia](/activities/late-stage/) no magĩrĩre mũno, na [mĩthiithũ 101](/activities/ideas/) nĩ ĩrĩ na maingĩ ma kũgeria.

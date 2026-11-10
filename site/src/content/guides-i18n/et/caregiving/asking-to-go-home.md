@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Kui dementsusega inimene küsib pidevalt koju minekut"
+seoTitle: "Dementsus ja soov koju minna: mida öelda"
+description: "Miks dementsusega inimene küsib koju minekut ka kodus olles, mida öelda, millised rahustavad tegevused aitavad ja kuidas hoida teda ohutuna, kui ta üritab lahkuda."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Kui dementsusega inimene küsib pidevalt koju minekut, tähendab „kodu” sageli
+  turvatunnet või minevikus olnud kohta, mitte hoonet. Ärge vaidlege, et ta on
+  kodus. Tunnustage tema tunnet, kinnitage, et ta on turvaliselt teie juures,
+  küsige kodust ning suunake tähelepanu õrnalt fotodele, muusikale, suupistele,
+  jalutuskäigule või lihtsale tegevusele. Kontrollige, kas tal võib olla nälg,
+  janu, tualetivajadus või valu. Kui see algab järsku, helistage tema arstile.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "„Ma tahan koju” tähendab sageli „ma ei tunne end turvaliselt ega rahulikult”, mitte palvet kindla aadressi järele."
+  - "Vaidlemine või tõestamine, et inimene on kodus, muudab ärevuse tavaliselt suuremaks. Vastake hoopis tema tundele."
+  - "Paluge tal kodust rääkida ning pakkuge seejärel fotosid, muusikat, suupisteid, jalutuskäiku või lihtsat tegevust."
+  - "Kontrollige, kas midagi on lihtsasti lahendatav: nälg, janu, tualetivajadus, valu, liiga soe või külm, müra, väsimus."
+  - "Kui see juhtub igal hilisel pärastlõunal, võib olla tegemist õhtuse rahutusega; stabiilne päevakava ja hea valgus võivad aidata."
+  - "Mõelge ohutusele ette, kui inimene üritab lahkuda, ja helistage arstile, kui tema seisund muutub järsku."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Miks mu ema, kellel on dementsus, küsib pidevalt koju minekut, kuigi ta on kodus?"
+    a: "Dementsuse tõttu võivad tuttavad ruumid tunduda võõrad ning inimene võib tunda, et elab mõnes varasemas eluetapis. „Kodu” võib tähendada lapsepõlvekodu või lihtsalt turvalisuse ja mugavuse tunnet. Tavaliselt aitab paremini vastata sellele tundele kui juhtida tähelepanu sellele, kus ta praegu viibib."
+  - q: "Mida ma peaksin ütlema, kui ta küsib koju minekut?"
+    a: "Võite proovida öelda: „Siin on turvaline ja mina olen teie juures,” ning seejärel: „Rääkige mulle oma kodust.” Kuulake, vaadake koos mõnd fotot või kuulake laulu ning pakkuge juua või lühikest jalutuskäiku. Vältige parandavat lauset „Te olete ju kodus”, sest see võib jätta inimesele tunde, et talle öeldakse, et ta eksib."
+  - q: "Kas on sobiv öelda, et lähme hiljem koju?"
+    a: "Pered ja dementsuse valdkonna organisatsioonid näevad seda erinevalt. Paljud alustavad ausast lohutamisest ja tähelepanu õrnast suunamisest ning jätavad leebe ebatõe hetkedeks, mil tõde tekitaks ainult ahastust, millega inimene toime ei tule. Ükskõik, mille valite, olge lahke ja järjepidev ning ärge kunagi tehke tema reaalsustaju üle nalja."
+  - q: "Mis siis, kui ta üritab majast lahkuda?"
+    a: "Jääge rahulikuks ja kõndige temaga kaasa, selle asemel et teda takistada; lühike jalutuskäik rahustab sageli seda soovi. Tehke ohutusmeetmed ette valmis, näiteks ID-käevõru, uksekellad ja värske foto. Kui ta läheb kaduma, alustage otsinguid kohe ning helistage numbril 112, kui te pole teda 15 minuti jooksul leidnud, ja öelge, et inimesel on dementsus."
+  - q: "Millal peaksin helistama arstile?"
+    a: "Helistage tema arstile viivitamata, kui koju mineku soov või segadus algab järsku või halveneb tundide või päevade jooksul oluliselt, eriti palaviku, uue ravimi või kuseteede infektsiooni tunnuste korral. Äkiline segasus võib olla deliirium, mis vajab kiiret abi. Helistage 112, kui keegi on ohus."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+„Ma tahan koju.” Paljude perede jaoks on see üks raskemaid asju, mida kuulda, eriti kui inimene, kelle eest te hoolitsete, istub omaenda elutoas. See on sage, võib esineda dementsuse igas etapis ning sellele on rahulikke ja praktilisi viise reageerida. Sellel lehel leiate, mida need sõnad sageli tähendavad, mida öelda, millised tegevused võivad hetkel aidata ja kuidas hoida olukord ohutuna.
 
-## Why does someone with dementia keep asking to go home?
+## Miks dementsusega inimene küsib pidevalt koju minekut?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Tavaliselt on „kodu” pigem tunne kui koht. Alzheimer's Society kirjeldab seda mugavuse ja turvalisuse tundena või minevikus olnud koduna, mitte hoonena. Dementsuse tõttu võivad tuttavad ruumid näida võõrad ning inimene võib tunda, et elab mõnes varasemas eluetapis, mil kodu oli lapsepõlvekodu või koht, kus ta oma lapsi kasvatas.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Need sõnad võivad olla ka märgiks, et midagi muud on praegu valesti: inimesel on nälg, janu, tualetivajadus, valu, tal on liiga soe või külm, ta on väsinud, üksik, hirmul või mürast ülekoormatud. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) nimetab ärevuse põhjuste hulgas valu, müra, üksildust, muutusi päevakavas ja ravimeid.
 
-## What should I say when they ask to go home?
+## Mida ma peaksin ütlema, kui ta küsib koju minekut?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Vastake tundele, mitte sõnadele. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) soovitab mitte püüda inimest veenda, et ta eksib: tema tunded on tõelised, seega vastake esmalt lohutuse ja kindlustundega ning suunake tähelepanu seejärel õrnalt mujale.
 
-Phrases that often help:
+Laused, mis sageli aitavad:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Nimetage tunne.** „Tundub, et teil on koduigatsus.”
+- **Kinnitage turvalisust.** „Siin on turvaline ja mina olen teie juures.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) soovitab lihtsaid sõnu: „Siin on turvaline.”
+- **Kutsuge mälestusi esile.** „Rääkige mulle oma kodust. Milline oli teie köök?” Küsimused kaugest minevikust on tavaliselt lihtsamad kui küsimused tänase päeva kohta.
+- **Pakkuge midagi ühist.** „Joome kõigepealt tassi teed” või „Kas aitaks te mind nende rätikutega?”
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Soe toon ja käe puudutus käsivarrel, kui inimene puudutust talub, võivad öelda rohkem kui sõnad.
 
-## What should I avoid?
+## Mida peaksin vältima?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Vaidlemist või selgitamist.** „Te elate nüüd siin” või „See on olnud teie kodu 40 aastat” palub inimeselt midagi aktsepteerida, mida dementsus raskeks teeb, ning see võib kõlada nii, nagu öeldaks, et ta eksib.
+- **Ülekuulamist.** „Kas te tõesti ei mäleta?” või „Mis on teie aadress?” tekitavad survet.
+- **Ukse vihas blokeerimist.** Kui inimene läheb välja, jääge rahulikuks ja kõndige temaga kaasa. Lühike ühine jalutuskäik rahustab sageli seda soovi.
+- **Kiirustamist.** Andke inimesele aega kodust rääkida, enne kui teemat vahetate.
 
-## Activities that can help in the moment
+## Tegevused, mis võivad hetkel aidata
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Pärast seda, kui olete inimese tunnet tunnustanud, võib rahulik ja tuttav tegevus tähelepanu suunata, ilma et tema muret tagasi lükataks.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Vaadake kodust ja perest tehtud fotosid.** Lehitsege fotosid ja tehke tähelepanekuid („Vaadake seda aeda”), mitte ei esitage küsimusi. Telefonis või tahvelarvutis muudab [Photo pairs](/games/photo-pairs/) teie enda perefotod õrnaks sobitusmänguks ning fotod jäävad teie seadmesse.
+2. **Rääkige kodust.** [Conversation cards](/games/conversation-cards/) pakuvad avatud jututeemasid kodudest, köökidest, naabritest ja pühadest, ilma õigete vastusteta.
+3. **Mängige muusikat, mis talle meeldib.** National Institute on Aging nimetab rahustava muusika kuulamist ühe viisina ärevust leevendada. Vaadake meie [muusikaga seotud tegevusi](/activities/music/).
+4. **Pakkuge suupisteid või juua.** Nälg ja janu võivad välja näha rahutusena. Tass teed või lemmiksnäkk on ka väike kodutunne.
+5. **Minge jalutama või istuge õue.** Liikumine ja päevavalgus aitavad, eriti päeva esimeses pooles.
+6. **Andke mõni tuttav ülesanne.** Pesu voltimine, söögiriistade sorteerimine või lillede kastmine võivad tuua tagasi koduse toimetamise tunde.
+7. **Muutke kõik rahulikumaks.** Lülitage teler välja, vähendage müra ja eredat valgust ning proovige koos teha [rahustav hingamisharjutus](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Kui üks mõte ei sobi, proovige hiljem teist. Ka rahulik koosistumine on hea tulemus.
 
-## Check for a cause you can fix
+## Kontrollige, kas põhjus on lahendatav
 
-| Check | What to try |
+| Mida kontrollida | Mida proovida |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Nälg või janu | Pakkuge juua ja väikest suupistet |
+| Tualetivajadus | Pakkuge rahulikult ja liigse tähelepanuta tualetikülastust |
+| Valu või ebamugavus | Pöörake tähelepanu märkidele, nagu grimassitamine, kehaosa hoidmine või kõhukinnisus, ja rääkige sellest arstiga |
+| Liiga soe või külm | Lisage või eemaldage riidekiht või muutke toatemperatuuri |
+| Müra või palju inimesi | Minge vaiksemasse ruumi, lülitage teler välja |
+| Väsimus või üliärritus | Puhake, hämaram valgus, mängige vaikset muusikat |
+| Hiline pärastlõuna | Vaadake allpool õhtuse rahutuse osa |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society soovitab pidada lühikest märkmikku selle kohta, millal koju mineku soov esineb, näiteks enne sööki, pärast külalisi või videvikus. Mustrite märkamine aitab paremini ette planeerida.
 
-## Is it okay to tell a white lie?
+## Kas on sobiv öelda väike ebatõde?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+See on tõeline vaidlusküsimus ning lahked pered jõuavad erinevate lahendusteni. Alzheimer's Society ütleb, et ühte õiget vastust ei ole: ebatõed võivad mõne inimese muuta kahtlustavamaks, seega otsustage, mis on inimese huvides kõige parem, ja olge järjepidev. Penn Memory Centeri kaasjuhi arvates peaks tõde olema vaikimisi valik ning leebe ebatõde on vastuvõetav ainult siis, kui inimene ei suuda konkreetset tõde töödelda; tema reaalsustaju üle ei tohi kunagi nalja teha.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Paljud hooldajad leiavad, et sobib vahetee: esmalt aus lohutus ja tähelepanu suunamine („Täna öösel jääme siia ja mina olen teie juures”), ilma et vaieldaks, kus kodu asub.
 
-## What if it happens every afternoon or evening?
+## Mis siis, kui see juhtub igal pärastlõunal või õhtul?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Rahutust, mis algab või tugevneb hilisel pärastlõunal, nimetatakse sageli õhtuseks rahutuseks. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) soovitab stabiilset päevakava, igapäevast päevavalgust ja tegevust, vähem hiliseid uinakuid ning kofeiini ja alkoholi vältimist päeva lõpus. Valgustuse sisselülitamine enne videvikku võib samuti aidata. Meie juhendis [rahustavatest hilise pärastlõuna tegevustest](/caregiving/late-day-restlessness/) on rohkem soovitusi.
 
-## Keeping them safe if they try to leave
+## Kuidas hoida inimest ohutuna, kui ta üritab lahkuda?
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Soov koju minna võib viia ekslemiseni. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) hindab, et kuus kümnest dementsusega inimesest eksleb vähemalt korra.
 
-**Prepare ahead:**
+**Valmistuge ette:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- ID- või meditsiiniline käevõru tema nime ja teie telefoninumbriga ning sildid tema riietel. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mainib programme MedicAlert ning Alzheimer's Association Safe and Found, mis võivad olla tasulised.
+- Uksekell või alarm ning lukud, mis on paigutatud kõrgele või madalale. Ärge kunagi lukustage inimest üksi tuppa või majja.
+- Värske lähifoto ning nimekiri kohtadest, kuhu ta võiks minna, näiteks endine kodu või töökoht.
+- Teavitage usaldusväärseid naabreid ja andke neile oma telefoninumber.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Kui ta läheb kaduma:** alustage otsinguid kohe; Alzheimer's Association märgib, et paljud inimesed leitakse 2,4 kilomeetri (1,5 miili) raadiusest. Kui te pole teda 15 minuti jooksul leidnud, helistage 112 ja öelge, et inimesel on dementsus. Helistage 112 viivitamata, kui keegi on ohus.
 
-## When should I call a doctor?
+## Millal peaksin helistama arstile?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Helistage tema arstile viivitamata, kui koju mineku soov või segadus algab järsku või halveneb tundide või päevade jooksul oluliselt. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ütleb, et äkilist või kiiresti muutuvat käitumist, eriti pärast infektsiooni või ravimi vahetamist, tuleks kohe kontrollida. Äkiline segasus võib olla deliirium, mille kohta [NHS](https://www.nhs.uk/symptoms/confusion/) ütleb, et see vajab kiiret abi; vanematel inimestel on kuseteede infektsioonid sage põhjus.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Samuti on kasulik mainida püsivat mustrit järgmisel arsti juures käigul, sest osa võivad mängida ka valu, nukrus, unehäired või ravimite kõrvaltoimed.

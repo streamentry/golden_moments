@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Gnìomhan is Geamannan do Dhaoine le Alzheimer"
+seoTitle: "Gnìomhan is Geamannan Alzheimer: Beachdan a rèir Ìre"
+description: "Gnìomhan is geamannan do dhaoine le Alzheimer aig gach ìre, stèidhichte air sgilean is cuimhneachain a mhaireas gu tric, le geamannan an-asgaidh."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Bidh deagh ghnìomhan do chuideigin le Alzheimer a’ togail air na rudan a
+  mhaireas as fhaide: sgilean a chaidh a chleachdadh fad ùine, seann òrain,
+  obair làitheil eòlach agus na ciadfathan. Tràth san tinneas, bidh cairtean,
+  geamannan-bùird, còcaireachd is cuairtean gu tric iomchaidh fhathast. Anns an
+  ìre mheadhanach, feuch pasgadh, seòrsachadh, seinn, clàran-dhealbhan agus
+  geamannan dealbh simplidh. Anmoch san tinneas, ’s e ceòl, suathadh agus
+  companas as cudromaiche. Tagh a rèir mar a tha an neach an-diugh.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "’S e Alzheimer an adhbhar as cumanta air trom-inntinn, agus mar sin bidh beachdan ghnìomhan airson trom-inntinn iomchaidh dha cuideachd."
+  - "Mar as trice bidh fiosrachadh ùr nas duilghe an toiseach, agus bidh sgilean is òrain a chaidh ionnsachadh o chionn fhada a’ fuireach nas fhaide gu tric. Tog air an sin."
+  - "Bidh ìrean a’ dol thairis air a chèile, agus tha làithean math is làithean doirbh àbhaisteach. Tagh a rèir na as urrainn dhan neach a dhèanamh agus a mhealtainn an-diugh."
+  - "Tagh geamannan gun tìmear, gun sgòr agus gun cheistean, agus leig le dealbhan fuireach rim faicinn."
+  - "Tha coimhead, rud a chumail nad làimh no dìreach suidhe còmhla uile a’ cunntadh mar chom-pàirt."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Dè na gnìomhan a tha math do chuideigin le Alzheimer?"
+    a: "Gnìomhan eòlach air an dèanamh beagan nas sìmplidhe: pasgadh an nigheachain, a’ cur a’ bhùird, còcaireachd còmhla, ceòl is seinn, coimhead air dealbhan, coiseachd, gàirnealaireachd agus ùine le peata. Bidh geamannan dealbh simplidh, tòimhseachain furasta agus cairtean còmhraidh cuideachd ag obair do mhòran dhaoine. Tagh na tha an neach air a mhealtainn a-riamh agus dèan e ri an taobh."
+  - q: "A bheil geamannan math do dhaoine le Alzheimer?"
+    a: "Faodaidh geamannan a bhith nan dòigh thaitneach air ùine a chur seachad còmhla ma tha an neach gan còrdadh. Chan eil e air a shealltainn gu bheil geama sam bith a’ làimhseachadh, a’ slaodadh no a’ stad Alzheimer, agus mar sin tagh geamannan airson tlachd: dealbhan mòra, beagan roghainnean, agus gun tìmear, gun sgòr agus gun fhuaimean freagairt cheàrr."
+  - q: "A bheil eadar-dhealachadh eadar gnìomhan airson trom-inntinn agus gnìomhan airson Alzheimer?"
+    a: "Cha mhòr nach eil. ’S e galar Alzheimer an adhbhar as cumanta air trom-inntinn, agus bidh na h-aon bheachdan ghnìomhan iomchaidh. Is e an rud a chuidicheas le Alzheimer fios a bhith agad gum bi cuimhneachain o chionn ghoirid mar as trice a’ dol air chall an toiseach, agus mar sin bidh gnìomhan stèidhichte air seann sgilean, òrain is cleachdaidhean làitheil gu tric a’ dol nas fheàrr."
+  - q: "Dè as urrainn do chuideigin le Alzheimer aig ìre anmoch a mhealtainn fhathast?"
+    a: "An ceòl as fheàrr leotha, suathadh socair air an làmh, rudan bog airson an cumail, cuideigin a’ leughadh dhaibh, suidhe a-muigh, agus companas cuideigin anns a bheil earbsa aca. Cùm e goirid is sàmhach, agus thoir an aire don aodann is don chorp aca gus faicinn dè thaitneas riutha."
+  - q: "Ciamar a bheir mi air cuideigin le Alzheimer ùidh a ghabhail ann an gnìomh?"
+    a: "Iarr cuideachadh seach gnìomh a chur an cèill, cuir a h-uile càil air dòigh an toiseach, agus tòisich thu fhèin air gus an urrainn dhaibh pàirt a ghabhail. Tha e a’ dèanamh diofar mòr an t-àm den latha a thaghadh nuair a tha iad aig an fheabhas. Ma chanas iad nach eil, feuch a-rithist nas anmoiche no tairg dreach nas lugha."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ma tha Alzheimer air cuideigin a tha gràdhach dhut, tha thu is dòcha air mothachadh mu thràth gu bheil cuid de rudan a’ dol à cuimhne gu sgiobalta fhad ’s a mhaireas cuid eile. Dh’fhaodadh iad call fios dè thachair sa ghairm-fòn madainn an-diugh ach fhathast a bhith a’ seinn gach facal de laoidh, a’ pasgadh tubhailt mar a bha iad a-riamh, no a’ roinn chairtean gun smaoineachadh. Tha deagh ghnìomhan stèidhichte air na sgilean maireannach sin. Tha an duilleag seo a’ mìneachadh carson, an uairsin a’ toirt seachad bheachdan airson gach ìre agus na geamannan an-asgaidh air an làrach seo a tha freagarrach dhaibh.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## A bheil Alzheimer eadar-dhealaichte bho throm-inntinn a thaobh ghnìomhan?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Chan eil mòran. ’S e teirm iomlan a th’ ann an trom-inntinn, agus ’s e galar Alzheimer an adhbhar as cumanta air: tha an [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ag ràdh gu bheil e an sàs ann an 60 gu 80 sa cheud de chùisean trom-inntinn. Tha cha mhòr a h-uile rud a chaidh a sgrìobhadh mu ghnìomhan airson trom-inntinn iomchaidh airson Alzheimer, a’ gabhail a-steach ar [101 beachd gnìomh](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Is e rud a tha feumail fios a bhith agad dè an òrdugh anns a bhios atharrachaidhean a’ tachairt mar as trice. Tha an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) a’ mìneachadh gum bi Alzheimer a’ dèanamh cron an toiseach air na pàirtean den eanchainn a tha an lùib cuimhne, agus an dèidh sin a’ toirt buaidh air cànan, reusanachadh agus giùlan sòisealta. Tha an Alzheimer's Association ag ràdh gur e duilgheadas le fiosrachadh ùr a chuimhneachadh an comharra tràth as cumanta. Tha a h-uile duine eadar-dhealaichte, agus tha adhbharan measgaichte aig mòran dhaoine, ach bidh am pàtran seo a’ toirt buaidh air na rudan a bhios ag obair gu tric.
 
-## What kinds of activities suit Alzheimer's best?
+## Dè na seòrsaichean ghnìomhan a tha freagarrach do Alzheimer?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Mar as trice bidh gnìomhan a tha an urra ri seann eòlas air a chleachdadh gu math a’ dol nas fheàrr na feadhainn a dh’fheumas rudeigin ùr a ionnsachadh agus a chumail san inntinn.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Sgilean a chaidh a chleachdadh fad ùine.** Tha an Alzheimer's Association a’ toirt fa-near gum faod neach fhathast òrain shimplidh a chluich a dh’ionnsaich iad air a’ phiàna o chionn bhliadhnaichean. Tha fighe, sgrìobadh fiodha, measgachadh chairtean, fuineadh taois agus pasgadh an nigheachain coltach ris.
+- **Seann òrain is ceòl eòlach.** Bidh fios aig mòran dhaoine fhathast air a h-uile facal de dh’òrain o na deugairean is na ficheadan aca, de laoidhean agus de dh’òrain am bainnse. Faic [gnìomhan ciùil](/activities/music/).
+- **Obair làitheil le adhbhar.** Tha an [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a’ liostadh nighe shoithichean, cur a’ bhùird, seòrsachadh stocainnean agus pasgadh an nigheachain am measg ghnìomhan a dh’fhaodadh daoine a mhealtainn. Tha e cudromach a bhith a’ faireachdainn feumail.
+- **Aithneachadh seach cuimhneachadh.** Tha e nas fhasa comharrachadh an deilbh a tha a’ freagairt na ainm a thoirt às a’ chuimhne. ’S ann air sgàth sin a bhios geamannan dealbh le a h-uile càil rim faicinn ag obair nas fheàrr na ceistean.
+- **Na ciadfathan.** Bidh inneach, fàileadh, blàths, blas agus fuaim brìoghmhor fhathast fada an dèidh faclan a bhith nas duilghe. Faic [gnìomhan ciadfhathach](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Na rudan nach bi cho soirbheachail gu tric: rud sam bith le gleoc, riaghailtean ùra ri ionnsachadh, mòran cheumannan ri cuimhneachadh, no ceistean a bhios a’ dearbhadh cuimhne, leithid “A bheil cuimhne agad cò tha seo?” Bidh iad sin a’ cur a’ phàirt as duilghe de Alzheimer air a’ bheulaibh.
 
-## Activities for early-stage Alzheimer's
+## Gnìomhan airson Alzheimer aig ìre thràth
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Anns an ìre thràth, tha an [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) ag ràdh gum faod neach fhathast dràibheadh, obrachadh agus pàirt a ghabhail ann an gnìomhan sòisealta, fhad ’s a tha iad a’ mothachadh lapsan cuimhne leithid faclan eòlach no far a bheil rudan a dhìochuimhneachadh. ’S e an dòigh-obrach as fheàrr com-pàirteachas: faighnich dè tha iad airson cumail a’ dèanamh agus dè an cuideachadh a bhiodh iad ag iarraidh.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Cùm suas na cur-seachadan a th’ aca mu thràth.** Goilf, bridge, cuibhrigeadh, còisir is buidhnean eaglaise, le atharrachaidhean beaga leithid buidhnean nas lugha agus amannan nas sàmhaiche.
+2. **Cluich geamannan cairtean is bùird eòlach.** Tha an [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a’ liostadh ceistean fiosrachaidh, lorg fhaclan, geamannan cairtean is geamannan-bùird airson na h-ìre thràth. Cluich mar sgioba ma thòisicheas cunntadh phuingean a’ cur dragh orra, no leig às an sgòr gu tur.
+3. **Dèan còcaireachd còmhla.** Leig leotha reasabaidh a tha aca de ghlanmheòir a dhèanamh fhad ’s a bhios tusa a’ làimhseachadh leughadh nan ceumannan.
+4. **Tòisich air pròiseact sgeulachd-beatha.** Dealbhan, reasabaidhean is sgeulachdan ann an leabhar-cuimhne air am bi iad fhèin a’ stiùireadh. Faic [gnìomhan cuimhneachaidh](/activities/reminiscence/).
+5. **Rach air cuairtean.** Taigh-bìdh as fheàrr leotha aig uair shàmhach, taigh-tasgaidh airson tadhal goirid, coiseachd sa phàirc.
+6. **Feuch tòimhseachain a thaghas iad fhèin.** Tòimhseachain-tarsainn ann an clò mòr, lorg fhaclan agus tòimhseachain. Faic [tòimhseachain airson trom-inntinn](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Barrachd bheachdan: [gnìomhan airson na h-ìre thràth](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Gnìomhan airson Alzheimer aig ìre mheadhanach
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Tha an Alzheimer's Association a’ toirt cunntas air an ìre mheadhanach mar an ìre as fhaide mar as trice, agus ag ràdh gum faod i mairsinn grunn bhliadhnaichean. Bidh faclan a’ dol tro chèile, bidh frustrachadh a’ tighinn nas fhasa, agus bidh feum aig an neach air barrachd cùraim. Tha an Alzheimer's Foundation of America a’ cur ris gu bheil feum aig mòran dhaoine air cuideachadh gus gnìomhan a thòiseachadh no a leantainn. Bidh do dhleastanas ag atharrachadh gu bhith a’ cur rudan air dòigh, a’ sealltainn seach a bhith a’ mìneachadh, agus a’ gabhail os làimh na pàirtean duilghe.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Pasg, seòrsaich is maidse.** Tubhailtichean, stocainnean, sgeinean is spàinean, putanan a rèir dath. Obair fhìor, air a dhèanamh taobh ri taobh.
+2. **Seinn is gluais ri ceòl.** Bual do bhasan, gluais gu socair no danns sa chidsin. Tòisich a’ seinn thu fhèin agus leig leotha pàirt a ghabhail.
+3. **Coimhead tro chlàran-dhealbhan.** Thoir cunntas air na chì thu agus thoir cuireadh do sgeulachdan: “Abair càr. Inns dhomh mu dheidhinn.” Gabh ris na h-ainmean sam bith a chleachdas iad.
+4. **Cluich geamannan dealbh simplidh.** [Picture pairs](/games/picture-pairs/) le ceithir gu sia leacagan agus dealbhan air am fàgail fosgailte, no [Find the same](/games/find-the-same/) le dhà no trì roghainnean.
+5. **Cuir crìoch air seanfhaclan eòlach.** “Ubhal gach latha...” Gu tric bidh seanfhaclan a chaidh ionnsachadh o chionn fhada a’ tighinn gu furasta. Feuch [Finish the saying](/games/finish-the-saying/), far am faod thu crìoch sam bith a shealltainn le aon tap.
+6. **Uisgich is thoir cùram do lusan.** Poitean a-staigh no leabaidh thogte, le cana uisgeachaidh beag.
+7. **Dèan geama maidsidh bho dhealbhan teaghlaich.** Bidh [Photo pairs](/games/photo-pairs/) a’ cleachdadh dhealbhan a thaghas tu air an inneal agad, agus cha bhith iad a’ fàgail an inneil.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Barrachd bheachdan: [gnìomhan airson na h-ìre mheadhanach](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Gnìomhan airson Alzheimer aig ìre anmoch
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Anns an ìre anmoch, tha an Alzheimer's Association ag ràdh gum bi daoine a’ call a’ chomas freagairt don àrainneachd aca agus còmhradh a chumail a’ dol, ged a dh’fhaodadh iad faclan no abairtean a ràdh fhathast. A-nis tha gnìomh a’ ciallachadh comhfhurtachd is ceangal, air an toirt gu far a bheil an neach a’ gabhail fois.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Cluich an ceòl as fheàrr leotha** gu sàmhach, gun an telebhisean a’ farpais.
+2. **Thoir suathadh socair air an làmh** le lòsion le fàileadh a tha còrdadh riutha.
+3. **Tairg rudan bog airson an cumail:** plaide bhlàth, flis, clach rèidh.
+4. **Leugh a-mach** sailm, dàin no sgeulachd eòlach. Tha an ruitheam nas cudromaiche na an ciall.
+5. **Suidh a-muigh** fon dubhar, no ri taobh uinneig le eòin ri am faicinn.
+6. **Coimhead còmhla air aon dealbh mòr.** Neòinean-grèine no cù a’ lìonadh sgrìn tablaid, agus thusa ag ràdh na chì thu.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Barrachd bheachdan: [gnìomhan airson na h-ìre anmoich](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Dè na geamannan a bhios ag obair do chuideigin le Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Tagh geamannan far nach gabh fàilligeadh. Tha a h-uile geama air an làrach seo an-asgaidh, a’ ruith ann am brabhsair agus gun tìmear, gun sgòr agus gun chlàradh.
 
-| Game | What you do | Often suits |
+| Geama | Dè nì thu | Gu tric freagarrach airson |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Maidse dealbhan mòra; faodaidh iad fuireach fosgailte | Ìre thràth agus mheadhanach |
+| [Find the same](/games/find-the-same/) | Tap air an dealbh a tha a’ freagairt ris an fhear aig a’ mhullach | Ìre mheadhanach agus anmoch, le cuideachadh |
+| [Finish the saying](/games/finish-the-saying/) | Tagh am facal mu dheireadh ann an seanfhacal eòlach, no seall e | Ìre thràth agus mheadhanach |
+| [Picture puzzle](/games/picture-puzzle/) | Cuir 4 no 9 pìosan air ais nan àite, leis an dealbh air a shealltainn | Ìre thràth agus mheadhanach |
+| [Conversation cards](/games/conversation-cards/) | Dealbh agus brosnachadh fosgailte airson bruidhinn | Ìre sam bith, le cuideigin airson bruidhinn ris |
+| [Photo pairs](/games/photo-pairs/) | Geama maidsidh air a dhèanamh bho na dealbhan agad fhèin | Ìre thràth agus mheadhanach |
+| [Coloring](/games/coloring/) | Tap air dath, an uairsin air pàirt de dhealbh; no clò-bhuail e | Ìre sam bith, le cuideachadh |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Airson mar a shuidheas tu còmhla, dè an ìre cuideachaidh a bheir thu agus cuin a stadas tu, leugh [ciamar a chluicheas tu geamannan le cuideigin aig a bheil trom-inntinn](/caregiving/how-to-play-together/). Ma tha thu a’ faighneachd mu “gheamannan cuimhne”, faic [geamannan cuimhne airson seann daoine le trom-inntinn](/activities/memory-games/).
 
-## How to make any activity easier
+## Ciamar a nì thu gnìomh sam bith nas fhasa
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Tha comhairle an NIA a’ tighinn sìos gu beagan chleachdaidhean: freagair an gnìomh ri na as urrainn dhan neach a dhèanamh, cuidich iad gus tòiseachadh, thoir an aire do fhrustrachadh, dèan cinnteach gu bheil iad a’ faireachdainn soirbheachail, agus leig leotha dìreach coimhead ma ’s e sin a tha a’ còrdadh riutha.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Tagh an t-àm den latha nuair a tha iad aig an fheabhas,** agus cùm seiseanan goirid.
+- **Cuir a h-uile càil air dòigh an toiseach** gus an urrainn dhut tòiseachadh sa bhad.
+- **Thoir cuireadh, na toir stiùireadh.** Bidh “An toireadh tu làmh dhomh?” ag obair nas fheàrr na “Àm gnìomh.”
+- **Dèan a’ chiad cheum thu fhèin** agus leig leotha pàirt a ghabhail.
+- **Tairg aon cheum agus aon roghainn aig an aon àm.**
+- **Leig leis a bhith air a dhèanamh mar a thogras iad.** Tha tubhailtichean cam gu math ceart gu leòr.
+- **Stad fhad ’s a tha e fhathast tlachdmhor.** ’S e deagh thoradh a th’ ann an crìochnachadh tràth, chan e fàilligeadh. Ma dhiùltas iad, faic [nuair a chanas cuideigin le trom-inntinn nach eil](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+Tha an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ga chur gu sìmplidh: cuir fòcas air tlachd, chan air coileanadh.

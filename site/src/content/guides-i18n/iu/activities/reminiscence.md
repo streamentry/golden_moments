@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᑦ: ᐃᖅᑲᐃᓂᕐᒧᑦ ᓴᓇᕝᕕᒃ, ᐃᓅᓯᕐᒧᑦ ᐅᓂᒃᑳᑦ"
+seoTitle: "ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᑦ ᐳᐃᒍᖅᐱᐅᓂᕐᒧᑦ: ᐊᐱᖅᑯᑎᖃᙱᑦᑐᑦ"
+description: "ᖃᓄᖅ ᐃᖅᑲᐃᓂᕐᓂᒃ ᐅᖃᐅᓯᖃᑦᑕᕐᓂᖅ ᐃᓄᒻᒧᑦ ᐳᐃᒍᖅᐱᐅᓂᖃᕐᒧᑦ ᐊᐱᖅᑯᑎᖃᙱᓪᓗᓂ: ᐊᔾᔨᙳᐊᓂᒃ ᐅᖃᐅᓯᖃᑦᑕᕐᓂᖅ, ᐃᖅᑲᐃᓂᕐᒧᑦ ᓴᓇᕝᕕᒃ ᐊᒻᒪ ᐃᓅᓯᕐᒧᑦ ᐅᓂᒃᑳᑦ."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᑦ ᐅᑉᐱᕐᓂᒃ ᖃᐅᔨᒪᔭᐅᓯᒪᔪᓂᒃ ᑲᑎᙵᓗᑎᒃ ᖃᐅᔨᓴᕐᓂᖅ ᐊᔾᔨᙳᐊᓂᒃ,
+  ᓱᓇᒃᑯᑕᓂᒃ, ᓂᐱᓂᒃ ᐊᒻᒪ ᐅᓂᒃᑳᓂᒃ ᐊᑐᕐᓗᑎᒃ. ᓴᖅᑭᑦᑎᓗᑎᑦ ᐃᖅᑲᐃᓂᕐᒧᑦ ᓴᓇᕝᕕᒃ, ᐱᔭᕇᕈᓐᓇᕐᓗᑎᑦ
+  ᐃᓅᓯᕐᒧᑦ ᐅᓂᒃᑳᓂᒃ, ᐅᕝᕙᓘᓐᓃᑦ ᐊᔾᔨᙳᐊᓂᒃ ᑕᑯᓗᒃᑎᑦᑎᓗᑎᒃ ᓴᓂᖕᒥ. ᐊᐱᖅᑯᑎᖃᕋᔭᖏᑦᑐᑎᑦ:
+  ᐊᑐᕋᔭᖏᑦᑐᑎᑦ ᐅᖃᐅᓯᐅᑉ ᐅᑯᓄᖓ ᑭᓯᐊᓂ «ᐃᖅᑲᐃᕕᐅᒃ?» ᐊᒻᒪ «ᑭᓇᐅᕙ ᑖᓐᓇ?» ᐊᒻᒪ ᐊᑐᕐᓗᑎᑦ
+  ᓇᓗᓇᐃᖅᓯᒪᔪᓂᒃ ᖃᐃᖁᔭᐅᓯᓂᒃ ᓲᕐᓗ ᐅᑯᓄᖓ «ᐅᓂᒃᑲᐅᑎᒋᓗᖕᓄ ᑖᔅᓱᒧᖓ ᐅᓪᓗᒧᑦ.» ᐅᖃᖃᑎᒌᒍᑎᖃᕐᓂᖅ
+  ᐅᖃᐅᓯᖃᕐᓂᕐᓗ ᓴᖅᑭᑦᑎᓂᖅ ᐱᒻᒪᕆᐅᓂᖅᐳᖅ ᑕᒪᐃᓐᓂᒃ ᓇᓗᓇᐃᒃᑯᑕᓂᒃ ᐊᑐᕐᓗᓂ.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᑦ ᐅᖃᖃᑎᒌᒍᑎᐅᔪᖅ, ᐆᒃᑐᕋᐅᑎᖃᙱᑦᑐᖅ. ᓇᓗᓇᐃᒃᑯᑕᑦ ᐊᑐᕐᓗᒃᑕᐅᔪᑦ ᐱᒻᒪᕆᐅᙱᑦᑐᑦ; ᖁᕕᐊᓇᕐᓂᖅ ᐱᒻᒪᕆᐅᔪᖅ."
+  - "ᐊᓯᐊᓗᒍ «ᐃᖅᑲᐃᕕᐅᒃ…?» ᐊᒻᒪ «ᑭᓇᐅᕙ ᑖᓐᓇ?» ᐅᖃᐅᓯᓂᒃ ᖃᐃᖁᔭᐅᓯᓂᓪᓗ ᐊᓯᖏᓐᓄᑦ ᓲᕐᓗ «ᐅᓂᒃᑲᐅᑎᒋᓗᖕᓄ ᑖᔅᓱᒧᖓ ᐅᓪᓗᒧᑦ.»"
+  - "ᐃᖅᑲᐃᓂᕐᒧᑦ ᓴᓇᕝᕕᒃ ᐃᓚᖃᖅᑐᓂᒃ ᐃᓄᐃᑦ ᐃᓅᓯᕐᒥᓂᒃ ᓱᓇᒃᑯᑕᓂᒃ ᐊᒡᒐᒃᑯᓄᑦ ᐅᖃᖃᑎᒌᒍᑎᕐᒧᓪᓗ ᐱᔪᓐᓇᕐᓂᕐᒧᑦ ᐃᑲᔪᖅᑐᐃᔪᖅ."
+  - "ᐃᓅᓯᕐᒧᑦ ᐅᓂᒃᑳᖅ ᐃᑲᔪᖅᑐᐃᔪᖅ ᐃᓚᒌᒍᓯᕐᓄᑦ, ᐳᓛᕆᐊᖅᓯᒪᔪᓄᑦ ᐊᒻᒪ ᐱᔨᑦᓯᕋᐅᑎᓄᑦ ᖃᐅᔨᒪᓂᕐᒧᑦ ᐃᓄᒻᒧᑦ, ᐳᐃᒍᖅᐱᐅᓂᖓ ᑭᓯᐊᓂ ᖃᐅᔨᒪᙱᓪᓗᒍ."
+  - "ᐃᖅᑲᐃᓂᖅ ᐊᓯᐊᓂᖃᕐᐸᑦ, ᓴᐃᒪᓂᕆᓗᒍ ᓯᕗᓪᓕᕐᒥ ᐊᒻᒪ ᓴᐳᒻᒥᕈᓐᓇᕐᓗᑎᑦ ᐊᓯᐊᒍᑦ ᐱᓇᓱᐊᕈᓯᕐᒧᑦ."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᑦ ᖃᓄᐃᑦᑑᕙ ᐃᓄᓄᑦ ᐳᐃᒍᖅᐱᐅᓂᖃᕐᓄᑦ?"
+    a: "ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᑦ ᐃᖅᑲᐃᓂᕐᓂᒃ ᐅᖃᐅᓯᖃᑦᑕᕐᓂᖅ ᐊᒻᒪ ᖃᐅᔨᒪᔭᐅᓯᒪᔪᓂᒃ ᐊᑐᕐᓗᓂ, ᐃᑲᔪᖅᑐᐃᓪᓗᓂ ᐊᔾᔨᙳᐊᓂᒃ, ᓱᓇᒃᑯᑕᓂᒃ, ᓂᐱᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑕᑯᓐᓇᒐᓂᒃ. ᐱᓇᓱᐊᕈᓐᓇᖅᑐᖅ ᐃᓄᒃ ᐊᑕᐅᓯᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑲᑎᙵᓗᑎᒃ. ᑐᕌᒐᖓ ᐅᖃᖃᑎᒌᒍᑎᖃᕐᓂᖅ ᖁᕕᐊᓇᕐᓂᕐᒧᑦ ᐊᒻᒪ ᐱᒻᒪᕆᓗᒍ, ᐆᒃᑐᕋᐅᑎᖃᙱᑦᑐᖅ ᖃᓄᖅ ᐃᓄᐃᑦ ᐃᖅᑲᐃᔪᓐᓇᕐᒪᖔᑕ."
+  - q: "ᓱᒻᒪᑦ ᐊᐱᕆᐊᖃᙱᑦᑐᖓ ᐅᑯᓄᖓ «ᐃᖅᑲᐃᕕᐅᒃ?»"
+    a: "ᐊᐱᖅᑯᑏᑦ ᐃᖅᑲᐃᓂᕐᒥᒃ ᐆᒃᑐᖅᑐᑦ ᐃᓄᒻᒧᑦ ᑭᓪᓗᓵᓱᑦᑎᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓱᒪᓕᕈᓐᓇᕐᓂᖅ ᑭᐅᔪᓐᓇᖅᑎᑦᑎᓂᖅ, ᑭᐅᔾᔪᑎ ᐱᔪᓐᓇᙱᑦᑎᐊᕐᐸᑦ. National Institute on Aging ᐅᖃᖅᑐᖅ ᐊᐱᕆᐊᖃᙱᓕᕐᓗᑎᑦ ᑭᓇᒃᑯᑐᐃᓐᓇᕐᓂᒃ ᐃᖅᑲᐃᕙᒃᐸᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑭᓂᒃᑯᓂᒃ ᐃᖅᑲᐃᔾᔪᑎᒧᑦ. ᐅᖃᐅᓯᕆᓗᒍ ᑕᑯᔪᓐᓇᕐᓂᒃ, ᐃᓄᓪᓗ ᐃᓚᓯᓂᖃᕐᓗᓂ ᐅᖃᕈᒪᔪᓂᒃ."
+  - q: "ᓱᓇᓂᒃ ᐃᓚᓯᕈᓐᓇᕋᒃᐲᒃ ᐃᖅᑲᐃᓂᕐᒧᑦ ᓴᓇᕝᕕᒧᑦ?"
+    a: "ᓂᕈᐊᕐᓗᑎᑦ ᐊᑦᑕᕐᓇᖅᑕᐃᓕᒪᔪᓂᒃ, ᓴᙱᓂᖃᕐᑐᓂᒃ ᓱᓇᒃᑯᑕᓂᒃ ᐃᓄᐃᑦ ᐃᓅᓯᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᑐᓂᒃ: ᐃᖅᓲᓂᕐᒧᑦ ᓴᓇᓯᒪᔪᑦ, ᐱᓇᓱᐊᕈᓯᖕᒧᑦ ᐊᑐᖅᑕᐅᔪᑦ, ᐱᔪᒪᓂᖅᓴᖅ ᐅᖅᓲᖅᑯᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖅᑰᔪᖅ, ᐳᔾᔨᑲᐃᑦ, ᓂᕿᓂᕐᒧᑦ ᐊᓪᓚᖏᑦ, ᐱᙳᐊᕈᓯᕐᒧᑦ ᐃᖅᑲᐃᓂᕐᒧᑦ ᓱᓇᒃᑯᑕᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᔾᔨᙳᐊᑦ ᐊᔾᔨᖓᑦ. ᐃᓚᓯᕋᔭᖏᑦᑐᑎᑦ ᐃᑉᐱᒍᓱᒃᑐᑦ, ᒥᑭᔪᑦ ᐃᕿᕐᓗᒃᑕᐅᔪᓐᓇᕐᑐᑦ, ᐊᒻᒪ ᐊᓯᖏᓐᓄᑦ ᐊᑐᕐᓗᒃᑕᐅᔪᓐᓇᙱᑦᑐᑦ ᓇᒡᓕᒋᔭᐅᔪᑦ."
+  - q: "ᖃᓄᐃᓕᐅᕐᓂᖅᐸ ᑐᙵᕕᒃ ᓇᓗᓇᐃᒃᑯᑕᒧᑦ ᑕᒻᒪᖅᑐᖃᕐᐸᑦ?"
+    a: "ᐊᖏᕈᑎᖃᙱᓪᓗᒍ. ᐊᓈᓇᒪ ᐅᖃᕐᐸᑦ ᐊᔾᔨᖓ ᑕᑯᑎᑦᑎᔪᖅ ᓄᑲᖓ ᑭᓯᐊᓂ ᐃᓚᖓ ᐊᑐᕐᐸᑦ, ᓇᒻᒥᓂᖅ ᐱᐅᔪᖅ. ᐋᖅᑭᒃᓱᐃᕐᓂᖅ ᐅᖃᖃᑎᒌᒍᑎᖅ ᐅᖃᐅᓯᕐᒧᑦ ᐆᒃᑐᕋᐅᑎᒧᑦ ᐊᓯᔾᔨᕐᓂᖅ. ᒪᓕᒍᓐᓇᕐᓗᒍ ᐅᓂᒃᑳᖅ ᐅᓂᒃᑲᐅᑎᒋᔪᖓ ᐊᒻᒪ ᑲᑎᙵᓗᑎᒃ ᖁᕕᐊᓱᒋᑦᑎᒃ."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᑦ ᑐᑭᓯᒋᐊᕈᓐᓇᖅᑐᖅ ᖃᐅᔨᒪᔭᐅᓯᒪᔪᓂᒃ ᑲᑎᙵᓗᑎᒃ ᖃᐅᔨᓴᕐᓂᖅ. ᐃᓄᖕᓄᑦ ᐊᒥᓱᓄᑦ ᐳᐃᒍᖅᐱᐅᓂᖃᕐᓄᑦ, ᐃᖅᑲᐃᓂᕐᒧᑦ ᐅᑉᐱᕐᓂᑦ ᐊᕐᕌᒍᓄᑦ ᐅᓪᓗᒥ ᐱᔪᖅᑐᑦ ᓇᓗᓇᐃᖅᓯᒪᓂᖅᓴᐅᔪᓐᓇᖅᑐᑦ ᐅᓪᓗᒥ ᖃᓄᖅ ᐱᔪᖅᑐᓂᒃ ᐊᑐᖅᑕᐅᔪᓂᒃ. ᐊᔾᔨᙳᐊᑦ, ᓇᓗᓇᐃᒃᑯᑕᐅᔪᑦ ᓱᓇᒃᑯᑕᑦ, ᓂᐱᑦ ᐊᒻᒪ ᐅᓂᒃᑳᑦ ᐃᖅᑲᐃᓂᕐᓂᒃ ᑖᒃᑯᓄᖓ ᐅᒃᑯᐃᖔᖅᑎᑦᑎᔪᓐᓇᖅᑐᑦ ᐊᒻᒪ ᐅᖃᖃᑎᒌᒍᑎᖃᕐᓂᕐᒧᑦ ᖁᕕᐊᓇᕐᑐᒧᑦ ᐱᕕᖃᖅᑎᑦᑎᔪᓐᓇᖅᑐᑦ. ᐊᑕᐅᓯᖅ ᒪᓕᒐᖅ ᐅᕝᕙᐅᔪᖅ: ᐅᖃᖃᑎᒌᒍᑎᐅᔪᖅ, ᐆᒃᑐᕋᐅᑎᖃᙱᓚᖅ.
 
-## What is reminiscence, and how is it different from quizzing?
+## ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᑦ ᖃᓄᐃᑦᑑᕙ, ᖃᓄᖅ ᐊᔾᔨᒌᙱᓪᓗᓂ ᐊᐱᖅᑯᑎᖃᕐᓂᕐᒥᑦ?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᑦ ᐃᖅᑲᐃᓂᕐᓂᒃ ᐅᖃᐅᓯᖃᑦᑕᕐᓂᖅ ᐊᔾᔨᙳᐊᓂᒃ, ᓱᓇᒃᑯᑕᓂᒃ, ᓂᐱᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑕᑯᓐᓇᒐᓂᒃ ᐊᑐᕐᓗᓂ, ᐃᓄᐃᑦ ᓇᒻᒥᓂᖅ ᐱᔪᒪᓂᖏᓐᓄᑦ ᒪᓕᒃᖢᑎᒃ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ᐅᖃᖅᑐᖅ ᖃᐅᔨᒪᔭᐅᓯᒪᔪᓂᒃ ᐊᑐᕐᓗᓂ ᐅᓂᒃᑳᓂᒃ ᐅᖃᐅᓯᖃᑦᑕᕐᓂᕐᒥᒃ, ᐃᑲᔪᖅᑐᐃᓪᓗᓂ ᐊᔾᔨᙳᐊᓂᒃ, ᓱᓇᒃᑯᕕᓂᒃ, ᑕᑯᓐᓇᒐᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓂᐱᓂᒃ, ᐅᖃᓕᒫᒐᕐᒥ ᐅᕝᕙᓘᓐᓃᑦ ᖃᕋᓴᐅᔭᒃᑯᑦ ᐊᑐᖅᑕᐅᔪᒥ. ᐊᐱᖅᑯᑎᖃᕐᓂᖅ ᐊᔾᔨᒌᒃᑐᖅ: ᐃᓄᒻᒧᑦ ᑭᐅᔾᔪᑎᒃᓴᒥᒃ ᑕᒻᒪᖅᑐᒧᑦ ᐊᑐᕐᓂᕐᒧᑦ ᐊᐱᖅᓱᖅᑕᐅᔪᖅ, ᑕᒪᓐᓇ ᑭᓪᓗᓵᓱᑦᑎᓂᖅ ᖁᕕᐊᓇᕐᓂᕐᒧᑦ ᐃᓂᖃᙱᑦᑎᓐᓇᕐᓗᓂ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) ᐅᖃᖅᑐᖅ ᐃᓄᒻᒧᑦ ᐊᐱᕆᐊᖃᙱᓕᕐᓗᑎᑦ ᐃᖅᑲᐃᕙᒃᐸᑦ ᑭᓇᒃᑯᑐᐃᓐᓇᕐᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑭᓂᒃᑯᓂᒃ ᐃᖅᑲᐃᔾᔪᑎᒧᑦ ᑕᒪᒃᑯᐊ ᐃᓛᒃᑰᖅᑕᐅᔭᕆᐊᖃᙱᑦᑐᑦ. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ᐅᖃᖅᑐᖅ ᐊᐱᖅᑯᑎᓂᒃ ᐊᑐᕋᔭᖏᑦᑐᓂᒃ ᐃᖅᑲᐃᓂᕐᒥᒃ ᐅᓪᓗᒥ ᑐᖁᑦᑎᒃᑐᒥᒃ ᐱᔾᔪᑎᖃᕐᑐᓂᒃ ᐊᒻᒪ ᐅᖃᐅᓯᖃᕐᓂᕐᒥᒃ ᐅᑉᐱᕐᓂᑦ ᐅᖓᑖᓄᑦ ᐊᑐᕐᓗᓂ.
 
-| Instead of | Try |
+| ᑖᔅᓱᒪᓂᐊᕈᒃ ᐅᑯᓄᖓ | ᐆᒃᑐᕋᕐᓗᒍ ᑖᓐᓇ |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «ᐃᖅᑲᐃᕕᐅᒃ ᑖᔅᓱᒧᖓ?» | «ᑖᓐᓇ ᖁᕕᐊᓇᕐᑐᒧᑦ ᐅᓪᓗᕈᒥᒃ ᑕᑯᑎᑦᑎᔪᖅ. ᐅᓂᒃᑲᐅᑎᒋᓗᖕᓄ.» |
+| «ᑭᓇᐅᕙ ᑖᓐᓇ?» | «ᑖᔅᓱᒧᖓ ᐋᓐᑐ ᕉᔅ ᓯᓂᕐᔪᐊᒥ. ᑕᑯᓗᒍ ᑖᓐᓇ ᓇᓴᐅᑎ.» |
+| «ᖃᓄᖅ ᐊᕐᕌᒍ ᑖᔅᓱᒧᖓ?» | «ᑖᓐᓇ ᐃᒡᓗᕈᓯᐊᖅ ᐱᑐᖃᐅᑎᑦᑎᔪᖅ. ᖃᓄᖅ ᐃᓅᓯᖃᕐᓂᖅ ᑕᐃᑲᓂ?» |
+| «ᐋᒃᑲ, ᑖᓐᓇ ᐱᓪ ᐱᙱᑦᑐᖅ, ᕗᕌᓐᒃ ᐱᔪᖅ.» | «ᖁᕕᐊᓇᕐᑐᒧᑦ ᑕᑯᑎᑦᑎᔪᖅ.» |
+| «ᐅᓂᒃᑲᐅᑎᓯᒪᕕᐅᒃ ᑖᔅᓱᒧᖓ ᐅᕙᑦᑎᓄᑦ.» | «ᑖᓐᓇ ᐅᓂᒃᑳᖅ ᐱᔪᒪᕋᕕᒃ.» |
 
-## How do you talk about photos without quizzing?
+## ᖃᓄᖅ ᐊᔾᔨᙳᐊᓂᒃ ᐅᖃᐅᓯᖃᑦᑕᕐᓂᖅ ᐊᐱᖅᑯᑎᖃᙱᓪᓗᓂ?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+ᑕᑯᔪᓐᓇᕐᓂᒃ ᓯᕗᓪᓕᕐᒥᒃ ᐅᖃᐅᓯᕆᓗᒍ, ᑭᖑᓪᓕᕐᒥᓗ ᐃᓄᐃᑦ ᐃᓚᓯᓂᖃᕐᓗᓂ ᐱᔪᒪᒃᐸᑦ.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **ᓴᓂᖕᒥ ᐃᖃᓗᑎᒃ.** ᐊᔾᔨᙳᐊᓕᕆᓂᕐᒧᑦ ᐅᖃᓕᒫᒐᖅ ᐊᑯᓐᓂᖓᓂ ᑐᖅᑯᖅᑎᓪᓗᑎᒃ, ᑲᑎᙵᓗᑎᒃ ᑕᑯᓗᑎᒃ, ᓴᖑᖕᒥᑦ ᐆᒃᑐᕋᐅᑎᖃᙱᓪᓗᑎᒃ.
+2. **ᐊᔾᔨᙳᐊᓂᒃ ᖃᑦᓯᐅᓂᖃᕐᑐᓂᒃ ᓂᕈᐊᕐᓗᑎᑦ.** ᑕᓪᓕᒪᑦ ᐱᐅᔪᑦ ᐊᔾᔨᙳᐊᑦ ᓴᓇᕝᕕᒃ ᐃᓗᐃᑦᑑᔪᒥᑦ ᐱᐅᓂᖅᓴᐅᔪᑦ. ᐊᖏᔪᑦ, ᓇᓗᓇᐃᖅᑕᐅᔪᑦ ᓴᖅᑭᑕᐅᔪᑦ ᐱᐅᓂᖅᓴᐅᔪᑦ.
+3. **ᐃᓄᐃᑦ ᐊᑎᖏᑦ ᓇᓗᓇᐃᖅᓯᓗᒋᑦ ᐃᓕᒃᐱᑦ.** «ᑖᔅᓱᒧᖓ ᐃᓕᑦ ᐊᒻᒪ ᐊᑖᑕ ᑲᑎᒋᓪᓗᑎᒃ ᐅᓪᓗᕐᒥ» ᐅᖃᕐᓂᖅ ᐊᑭᑐᔾᔭᐅᓂᖅᓴᐅᑎᑦᑎᔪᖅ.
+4. **ᐅᖃᐅᓯᕆᓗᒋᑦ ᓇᓗᓇᐃᖅᑕᐅᔪᑦ.** ᐊᓐᓄᕌᑦ, ᖃᕋᓴᐅᔭᒃᑯᑦ ᐊᖅᑯᑏᑦ, ᓂᕿᑦ, ᓯᓚ, ᑮᓇᑦ. «ᑖᓐᓇ ᖃᕋᓴᐅᔭᒃᑯᑦ ᐊᖅᑯᑎ. ᖃᐅᒻᒪᖅᑯᑦᑐᒧᑦ ᑕᑯᑎᑦᑎᔪᖅ.»
+5. **ᖃᐃᖁᔭᐅᓯᕆᓗᒍ, ᐱᔪᒃᓴᐅᑎᑦᑎᓂᖃᙱᓪᓗᑎᑦ.** «ᐅᓂᒃᑲᐅᑎᒋᓗᖕᓄ…» ᐅᕝᕙᓘᓐᓃᑦ «ᖃᓄᖅ ᑕᑯᕙᒃᐱᐅᒃ?» ᓂᐱᖃᙱᓐᓂᖅ ᓇᒻᒥᓂᖅ ᐱᐅᔪᖅ.
+6. **ᒪᓕᒍᓐᓇᕐᓗᒍ ᐃᓄᐃᑦ ᐅᖃᕈᒪᔪᖏᑦ.** ᐊᓯᐊᒍᑦ ᐅᖃᕐᐸᑦ, ᒪᓕᒋᐊᕐᓗᒍ.
+7. **ᓄᖅᑲᕐᓗᑎᑦ ᖁᕕᐊᓇᕐᑐᒧᑦ ᐱᔪᓐᓇᑦᑎᐊᕐᓗᑎᒃ.** ᐊᔾᔨᙳᐊᓕᕆᓂᕐᒧᑦ ᐅᖃᓕᒫᒐᖅ ᒪᑐᕐᓗᒍ ᑕᖃᓕᖅᑐᒧᑦ ᑎᑭᓐᓇᙱᓚᖅᑎᓪᓗᒍ.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+ᐊᔾᔨᙳᐊᓂᒃ ᐅᖃᐅᓯᖃᕐᓂᕐᒧᑦ ᑲᔪᓯᑎᑦᑎᔪᓂᒃ ᐆᒃᑐᕋᕐᓗᒍ [conversation cards](/games/conversation-cards/). ᐃᓚᒌᒍᓯᕐᓄᑦ ᐊᔾᔨᙳᐊᑦ ᐱᓇᓱᐊᕈᓯᕐᒧᑦ ᓇᓕᒧᒌᒃᑐᓄᑦ ᐊᓯᔾᔨᖅᑎᑦᑎᔾᔪᑎᒧᑦ, ᐆᒃᑐᕋᕐᓗᒍ [photo pairs](/games/photo-pairs/); ᐊᔾᔨᙳᐊᑦ ᓂᕈᐊᕐᓂᒃ ᖃᕋᓴᐅᔭᒃᑯᑦ ᑕᑯᒃᓴᐅᑎᑦᑎᔾᔪᑎᕐᓂ ᐃᓂᖃᕐᓂᐊᖅᑐᑦ.
 
-## How do you make a memory box?
+## ᖃᓄᖅ ᓴᖅᑭᑦᑎᓂᖅ ᐃᖅᑲᐃᓂᕐᒧᑦ ᓴᓇᕝᕕᒃ?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+ᐃᖅᑲᐃᓂᕐᒧᑦ ᓴᓇᕝᕕᒃ ᐃᓚᖃᖅᑐᖅ ᐃᓄᐃᑦ ᐃᓅᓯᕐᒥᓂᒃ ᓱᓇᒃᑯᑕᓂᒃ ᐊᒡᒐᒃᑯᓄᑦ ᐊᒻᒪ ᐅᖃᐅᓯᖃᕐᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓂᒃ.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **ᓂᕈᐊᕐᓗᒍ ᓴᙱᓂᖃᕐᑐᖅ ᓴᓇᕝᕕᒃ** ᒪᑐᕈᓐᓇᐅᑎᒋᔪᖅ, ᓲᕐᓗ ᐃᓯᒐᐃᑦ ᓴᓇᕝᕕᖓ, ᓇᓴᐅᑎᑦ ᓴᓇᕝᕕᖓ ᐅᕝᕙᓘᓐᓃᑦ ᒥᑭᔪᖅ ᖁᓛᒎᖅ ᓴᓇᕝᕕᒃ.
+2. **ᓂᕈᐊᕐᓗᒍ ᐊᑕᐅᓯᕐᒥᒃ ᐱᖓᓱᒃᑎᒋᓗᒍ ᐅᕝᕙᓘᓐᓃᑦ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ.** ᐃᖅᓲᓂᖅ, ᐱᓇᓱᐊᕈᓯᖅ, ᐃᓂᒃ, ᐊᕐᕌᒍᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᐃᓗᐃᑦᑑᔪᑦ ᑕᒪᕐᒥᒃ.
+3. **ᑲᑎᑎᕐᓗᒋᑦ ᐊᑦᑕᕐᓇᖅᑕᐃᓕᒪᔪᑦ ᓱᓇᒃᑯᑕᑦ.** ᑕᓪᓕᒪᓂᒃ ᖁᓕᓄᓪᓗ ᓱᓇᒃᑯᑕᓂᒃ ᐱᒋᐊᕐᓂᕐᒧᑦ ᓈᒻᒪᒃᑐᖅ.
+4. **ᐊᑐᕐᓗᒋᑦ ᐊᔾᔨᖏᑦ ᐱᒻᒪᕆᐅᔪᓄᑦ ᓱᓇᒃᑯᑕᓄᑦ.** ᐊᔾᔨᙳᐊᑦ ᐊᒻᒪ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᓯᖏᓐᓄᑦ ᐊᑐᕐᓗᒃᑕᐅᔪᓐᓇᙱᑦᑐᑦ ᐊᔾᔨᖅᑎᑦᑎᓗᒋᑦ ᐊᒻᒪ ᓇᒡᓕᒋᔭᐅᔪᑦ ᓴᐳᒻᒥᓗᒋᑦ.
+5. **ᓱᓇᒃᑯᑕᑦ ᐊᑐᕐᓗᒋᑦ ᐊᑕᐅᓯᕐᒥᒃ ᐊᑕᐅᓯᕐᒥᒃ.** ᐊᑕᐅᓯᖅ ᑐᓂᓗᒍ, ᐅᖃᐅᓯᕆᓗᒍ ᑕᐃᒪᐃᑦᑐᒧᑦ, ᐊᒻᒪ ᑕᑯᓗᒍ ᖃᓄᖅ ᐅᖃᖃᑎᒌᒍᑎᖅ ᐱᔪᓐᓇᕐᒪᖔᑦ."
 
-Ideas to include:
+ᐃᓚᓯᔪᓐᓇᕐᑐᑦ:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **ᐃᖅᓲᓂᖅ:** ᐊᑎᖓ ᓇᓗᓇᐃᒃᑯᑕᖅ, ᒥᑭᔪᖅ ᓴᓇᓯᒪᔪᖅ, ᐊᓐᓄᕌᖓ ᐃᓕᓗᒍ, ᑎᑎᕋᖅᓯᒪᔪᖅ, ᐋᓐᓂᐊᖅᑎᐅᑉ ᓇᓗᓇᐃᒃᑯᑕᖓ, ᓂᕿᓂᕐᒧᑦ ᐅᖃᓕᒫᒐᖅ.
+- **ᐊᖏᕐᕋᖅ:** ᓂᕿᓂᕐᒧᑦ ᐊᓪᓚᖅ ᐊᒡᒐᒃᑎᓐᓂ ᑎᑎᕋᖅᓯᒪᔪᖅ, ᐃᖅᑲᐃᕕᒃ ᓯᓚᑖᕐᓂᕐᒧᑦ, ᐱᔪᒪᓂᖅᓴᖅ ᐅᖅᓲᖅᑯᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖅᑰᔪᖅ.
+- **ᐱᓇᓱᐊᕈᓯᑦ:** ᐃᖃᓗᒃᑕᐅᑎ ᓂᒋᐊᖅ ᐱᖓᓱᖃᙱᑦᑐᖅ, ᐊᖅᓴᖅᑕᐅᑦ ᐊᖅᓴᖓ, ᐃᕙᓗᖅ ᓄᑭᒃ, ᓇᐹᖅᑐᓂᒃ ᐸᕌᒃᑯᑦ.
+- **ᐃᓂᒃᑯᑦ:** ᐳᔾᔨᑲᐃᑦ, ᓄᓇᙳᐊᑦ, ᐳᓛᕆᐊᖅᓯᒪᔪᓄᑦ ᐃᖅᑲᐃᓂᕐᒧᑦ ᓱᓇᒃᑯᑕᑦ, ᓄᓇᓕᖕᒥ ᐅᖃᓕᒫᒐᒃᑯᑦ ᐃᓚᖓ.
+- **ᐃᓚᒌᒍᓯᑦ:** ᐊᔾᔨᙳᐊᑦ ᐊᔾᔨᖏᑦ, ᓱᕈᓯᕐᒥᐅᑕᐃᑦ ᑎᑎᕋᖅᓯᒪᔪᖓ, ᑲᑎᒋᓪᓗᑎᒃ ᖃᐃᖁᔭᐅᑎ.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+ᐃᓚᓯᕋᔭᖏᑦᑐᑎᑦ ᐃᑉᐱᒍᓱᒃᑐᑦ, ᒥᑭᔪᑦ ᐃᕿᕐᓗᒃᑕᐅᔪᓐᓇᕐᑐᑦ, ᐊᒻᒪ ᐊᓯᐊᓂᖃᕐᑐᓂᒃ ᐃᖅᑲᐃᓂᕐᓂᒃ ᑲᔪᓯᑎᑦᑎᔪᓐᓇᕐᑐᑦ ᖃᐅᔨᙱᓚᖅᑎᓪᓗᒋᑦ ᑐᙵᕕᐅᔪᓐᓇᖅᑐᒧᑦ.
 
-## How do you make a life-story book?
+## ᖃᓄᖅ ᓴᖅᑭᑦᑎᓂᖅ ᐃᓅᓯᕐᒧᑦ ᐅᓂᒃᑳᖅ?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+ᐃᓅᓯᕐᒧᑦ ᐅᓂᒃᑳᖅ ᐱᔭᕇᕈᓐᓇᖅᑐᖅ ᐊᔾᔨᙳᐊᓕᕆᓂᕐᒧᑦ ᐅᖃᓕᒫᒐᕐᒧᑦ ᐊᔾᔨᙳᐊᓂᒃ ᐊᒻᒪ ᓇᐃᑦᑐᓂᒃ ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᐃᓚᖃᖅᑐᓂᒃ ᐃᓄᐃᑦ ᐃᓅᓯᕐᒧᑦ. ᑲᑎᙵᓗᑎᒃ ᑕᑯᓂᐊᕐᓗᒍ ᐱᔪᓐᓇᕐᑐᖅ, ᐊᒻᒪ ᐃᑲᔪᖅᑐᐃᔪᖅ ᐳᓛᕆᐊᖅᓯᒪᔪᓄᑦ ᐊᒻᒪ ᐱᔨᑦᓯᕋᐅᑎᓄᑦ ᑕᒪᕐᒥᒃ ᐃᓄᒻᒧᑦ ᑕᑯᓂᕐᒧᑦ.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **ᓂᕈᐊᕐᓗᒍ ᖃᓄᖅ ᐃᓕᓗᒍ.** ᓴᓇᕝᕕᒃ ᐸᐃᑉᐹᓂᒃ ᐃᓚᖃᖅᑐᖅ, ᓴᖅᑭᑕᐅᔪᖅ ᐊᔾᔨᙳᐊᓕᕆᓂᕐᒧᑦ ᐅᖃᓕᒫᒐᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᑕᑯᓐᓇᒐᓕᕆᓂᖅ ᖃᕋᓴᐅᔭᒃᑯᑦ ᐊᑐᖅᑕᐅᔪᒥ.
+2. **ᐸᕐᓇᐅᑎᓗᒋᑦ ᖃᑦᓯᐅᓂᖃᕐᑐᑦ ᐃᓚᒃᑯᑦ.** ᓄᑕᕋᖅᑐᖅ ᐃᓅᓯᖅ, ᐃᓕᓐᓂᐊᕐᕕᒃ, ᐃᖅᓲᓂᖅ, ᐃᓚᒌᒍᓯᑦ, ᓄᓇᑦ ᐃᓅᓯᖃᑦᑕᕐᓂᖏᑦ, ᐅᒃᐱᕐᓂᖅ, ᐱᓇᓱᐊᕈᓯᑦ, ᐱᔪᒪᓂᖅᓴᑦ ᓂᕿᑦ ᐊᒻᒪ ᓂᐱᑦ.
+3. **ᐃᓚᓯᓗᒍ ᐊᔾᔨᖓ ᐊᑕᐅᓯᕐᒥᒃ ᒪᕐᕉᒃ ᐅᕝᕙᓘᓐᓃᑦ ᒪᒃᐱᖅᑐᒐᕐᒥ** ᓇᐃᑦᑐᒥᒃ, ᐊᖏᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᒥᒃ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᖃᕐᓗᓂ: «ᒥᐊᕆ, 22-ᓂᒃ ᐅᑭᐅᖃᕐᓗᓂ, ᐃᖅᓲᓂᕐᒧᑦ ᐱᒋᐊᓕᖅᑐᖅ ᑮᓇᐅᔭᓕᕆᕕᒻᒥ.»
+4. **ᐃᓚᓯᓗᒋᑦ ᐱᔪᒪᔭᖏᑦ ᐊᒻᒪ ᐊᑐᐊᒐᖏᑦ.** «ᑳᐱ ᐃᒻᒧᒃ ᐃᒥᕐᓗᒍ. ᓴᓇᑦᑎᐊᕐᕕᐅᑉ ᐃᙱᖏᓂᒃ ᐱᔪᒪᔪᖅ. ᓂᐱᓕᐅᕈᑎ ᖁᑦᑎᖕᓂᖅᓴᖅ ᓇᒡᓕᒋᔪᖓ.» ᑖᓐᓇ ᐃᑲᔪᖅᑐᐃᔪᖅ ᑭᓇᒃᑯᑐᐃᓐᓇᕐᓄᑦ ᐱᔨᑦᓯᕋᐅᑎᐅᔪᓄᑦ.
+5. **ᐃᓚᓯᓗᒍ ᐃᓄᖅ** ᐱᔪᒪᓂᖓᓄᑦ ᒪᓕᒃᖢᒍ, ᐊᔾᔨᙳᐊᓂᒃ ᓂᕈᐊᕐᓗᓂ, ᐅᓂᒃᑳᓂᒃ ᐅᓂᒃᑲᐅᑎᒋᓗᓂ ᐅᕝᕙᓘᓐᓃᑦ ᑕᑯᓪᓗᓂ ᓴᓇᐅᓂᖓᓂᒃ.
+6. **ᐃᓚᓯᓂᕐᒧᑦ ᑲᔪᓯᓗᒍ.** ᐱᔭᕇᖅᑎᑕᐅᔪᓐᓇᙱᑦᑐᖅ ᐊᑐᖅᑕᐅᔪᓐᓇᕐᓂᐊᕐᒪᑦ."
 
-## More reminiscence ideas
+## ᐊᓯᖏᑦ ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᑦ ᐃᓱᒪᒋᔭᐅᔪᑦ
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **ᓂᐱᓕᐅᕐᓗᒋᑦ ᓂᐱᑦ ᒪᒃᑯᒃᑐᓂᑦ ᐃᓅᓯᖃᑦᑕᕐᓂᖏᓐᓂ** ᐊᒻᒪ ᐅᖃᐅᓯᖃᕐᓗᑎᒃ ᓇᒧᑦ ᐊᐅᓪᓚᖅᑎᑦᑎᓂᖏᓐᓂᒃ. ᑕᑯᓗᒍ [ᓂᐱᓕᐅᕐᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᑦ](/activities/music/).
+- **ᑕᑯᓗᒋᑦ ᐊᖏᕐᕋᒥ ᑕᑯᓐᓇᒐᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑕᓚᕖᓴᒃᑯᑦ ᓴᖅᑭᑕᐅᔪᑦ** ᐱᔪᒪᓂᖅᓴᖏᓐᓂ ᐊᕐᕌᒍᓂ.
+- **ᓂᕿᓂᒃ ᐃᒡᐊᕐᓗᒍ ᓄᑕᕋᖅᑎᓪᓗᒋᑦ ᓂᕿᖓᓂᒃ** ᐊᒻᒪ ᑎᑉᐱᖏᑦ ᐅᖃᖃᑎᒌᒍᑎᕐᒧᑦ ᐱᒋᐊᕐᓂᖃᕐᓗᑎᒃ.
+- **ᑕᑯᓗᒍ ᓄᓇᙳᐊᖅ** ᓄᓇᓕᖕᒥᓂᒃ ᐊᒻᒪ ᒪᓕᒍᓐᓇᕐᓗᒋᑦ ᓇᓗᓇᐃᒃᑯᑕᐅᔪᑦ ᐊᖅᑯᑏᑦ.
+- **ᐊᒡᒐᒃᑯᓄᑦ ᐊᑐᕐᓗᒋᑦ ᐅᑐᖃᐅᓯᒪᔪᑦ ᐅᖃᓕᒫᒐᐃᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓴᖅᑭᑕᐅᔪᑦ** ᐊᒻᒪ ᐅᖃᐅᓯᖃᕐᓗᑎᒃ ᐊᑭᖏᓐᓂᒃ, ᐊᓐᓄᕌᓂᒃ ᐊᒻᒪ ᖃᕋᓴᐅᔭᒃᑯᑦ ᐊᖅᑯᑎᓂᒃ.
+- **ᐃᒥᕐᓗᒋᑦ ᐅᓂᒃᑳᖏᑦ** ᐅᖃᓘᑎᒃᑯᑦ, ᐊᖏᕈᑎᖃᕐᓗᑎᒃ, ᐃᓚᒌᒍᓯᕐᒧᑦ.
+- **ᐅᖃᐅᓯᖃᑦᑕᕐᓗᑎᒃ ᐅᖃᓘᑎᒃᑯᑦ ᖃᕆᑕᐅᔭᒃᑯᑦ.** ᐊᔾᔨᖓ ᐊᑕᐅᓯᖅ ᓴᖅᑭᑎᑦᑎᓗᒍ ᑕᑯᓐᓇᒐᒃᑯᑦ ᐅᖃᓘᑎᒃᑯᑦ; ᑕᑯᓗᒍ [ᐅᖃᓘᑎᒃᑯᑦ ᐊᒻᒪ ᑕᑯᓐᓇᒐᒃᑯᑦ ᖃᕆᑕᐅᔭᒃᑯᑦ](/activities/phone-and-video-calls/).
+- **ᐊᔾᔨᖓ ᐅᕝᕙᓘᓐᓃᑦ ᓱᓇᒃᑯᑕᖅ ᐊᒃᓱᕈᕐᓗᒍ ᐳᓛᕆᐊᖅᓯᒪᕐᓂᕐᒧᑦ.** ᐳᓛᕆᐊᖅᓯᒪᕐᓂᖅ ᐱᔭᕇᕈᓐᓇᖅᑎᑦᑎᔪᖅ; ᑕᑯᓗᒍ [ᐳᓛᕆᐊᖅᓯᒪᕐᓂᖅ](/activities/visiting/).
 
-## What if a memory is painful?
+## ᖃᓄᐃᓕᐅᕐᓂᖅᐸ ᐃᖅᑲᐃᓂᖅ ᐊᓯᐊᓂᖃᕐᐸᑦ?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+ᐃᓚᖏᑦ ᐃᖅᑲᐃᓂᕐᒧᑦ ᐊᓯᐊᓂᖃᕐᑐᑦ, ᐃᓱᒪᓕᕈᓐᓇᕐᓂᖃᕐᑐᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑲᑉᐱᐊᓇᕐᓂᖃᕐᑐᑦ ᐊᐅᓪᓚᖅᑎᑦᑎᔪᓐᓇᖅᑐᑦ. ᐃᓄᖅ ᐊᓯᐊᓂᖃᕐᐸᑦ, ᓄᖅᑲᕐᓗᒍ, ᓴᐃᒪᓂᕆᓗᒍ ᐊᒻᒪ ᓴᐳᒻᒥᕈᓐᓇᕐᓗᑎᑦ ᐊᓯᐊᒍᑦ ᐱᓇᓱᐊᕈᓯᕐᒧᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐱᓇᓱᐊᕈᓯᕐᒧᑦ. ᐊᔩᖃᙱᓪᓗᑎᑦ ᖃᓄᖅ ᐱᔪᖅᑐᓂᒃ. Family Caregiver Alliance ᐅᖃᖅᑐᖅ ᐃᓄᒻᒧᑦ ᑐᙵᕕᐅᔪᖅ ᓇᓗᓇᐃᖅᑕᐅᔪᖅ ᐅᖃᖃᑦᑕᙱᓪᓗᒍ ᐊᒻᒪ ᑭᐅᔾᔪᑎᖏᓐᓄᑦ ᑕᑯᑎᑦᑎᔪᓂᒃ ᑭᐅᔪᓐᓇᖅᑐᖅ. ᐃᓄᒃ ᐅᖃᕐᐸᑦ ᑐᖁᔪᒥᒃ ᐃᓅᓯᖃᑦᑕᕐᒪᑦ ᓲᕐᓗ ᐃᓅᓯᖃᑦᑕᕐᒪᑦ, ᑭᐅᔾᔪᑎᖓ ᑭᐅᔪᓐᓇᕐᓗᒍ: «ᐃᖅᑲᐃᒋᔭᕕᐅᒃ. ᐅᓂᒃᑲᐅᑎᒋᓗᖕᓄ ᑕᐃᒪᐃᑦᑐᒧᑦ.»
 
-## What does the research say?
+## ᖃᓄᖅ ᖃᐅᔨᓴᕐᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ ᐅᖃᖅᐸᒃᑲ?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Cochrane ᖃᐅᔨᓴᕐᓂᖅ ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᕐᒧᑦ](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), 22-ᓂᒃ ᐆᒃᑐᕋᐅᑎᓂᒃ ᐊᒻᒪ 1,972-ᓂᒃ ᐃᓄᓂᒃ ᐃᓚᖃᖅᑐᖅ, ᓇᓂᓯᔪᖅ ᐊᑐᖅᑕᐅᓂᖏᑦ ᐊᔾᔨᒌᙱᑦᑐᑦ, ᒥᑭᔪᑦ ᐊᒻᒪ ᐊᔾᔨᒌᒃᑐᑦ ᐃᓂᒃᑯᑦ ᐊᒻᒪ ᖃᓄᖅ ᐃᓕᓗᒍ ᒪᓕᒃᖢᒍ. ᓇᓂᓯᔪᖅ ᐊᑦᑕᕐᓇᐃᓕᒪᔾᔪᑎᖃᙱᓂᕐᒥᒃ ᐃᓄᓄᑦ ᐳᐃᒍᖅᐱᐅᓂᖃᕐᓄᑦ. ᐃᖅᑲᐃᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓯᒃ ᐊᑐᖅᑐᒍᑦ ᖁᕕᐊᓇᕐᑐᒧᑦ ᐊᒻᒪ ᐱᒻᒪᕆᓗᒍ ᐃᓅᓯᖃᕐᓂᕐᒧᑦ ᐱᔪᓐᓇᕐᓂᖏᓐᓄᑦ, ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᒧᑦ ᐱᔾᔪᑎᒋᓗᒍᙱᓪᓗᒍ. ᐅᖃᖃᑎᒌᒍᑎᕐᒧᑦ ᐱᔭᕇᕈᓐᓇᕐᓂᕐᒧᑦ ᑐᑭᓯᒋᐊᕈᒪᒍᕕᒃ, ᑕᑯᓗᒍ [ᐅᖃᖃᑎᒌᒍᑎᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᑦ](/caregiving/communication-tips/).

@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Tips blong Toktok long Dementia: Wat Blong Tok mo Wat Blong Avoidem"
+seoTitle: "Tips blong Toktok long Dementia: Wat Blong Tok mo Wat Blong Avoidem"
+description: "Ol fasin blong toktok wetem man o woman we i stap laef wetem dementia: hao blong stat toktok, wat blong tok instead of kwesten o korekt, mo hao blong harem gud."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Toktok long ples we i kwaet, lukluk long fes blong hem, yusum nem blong hem,
+  mo toktok slow wetem ol sentens we oli sot. Askem wan kwesten long wan taem,
+  ofrem jes long tu samting instead of ol opin kwesten, mo wet moa long taem
+  we i no naturol. No argue, no korekt, no askem kwesten blong tesem. Harem
+  filing we i stap behaen ol wed, mo yusum tajem, pikja mo saen taem toktok i
+  kam hard.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Kwatem noes we i stap, mo lukluk long fes blong hem bifo yu stat toktok."
+  - "Yusum sot sentens, wan aedia long wan taem, mo nem instead of he, hem o olgeta."
+  - "Ofrem jes long tu samting, o kwesten we yes o no, instead of ol opin kwesten."
+  - "Wet blong ansa. Sipos oli no harem gud, tok sem wed wan taem, bihaen traem ol nara wed."
+  - "No argue o korekt. Respondem long filing we i stap behaen wat oli tok."
+  - "Taem wed oli stat lus, toktok long tajem, tone blong voes, fes mo pikja we yu save sherem."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Wat yu no sud tok long man o woman we i gat dementia?"
+    a: "No askem kwesten blong tesem (\"Yu tingting...?\"), no korektem (\"Dat i no tru\"), no talem gen ol samting we oli lus (\"Mi tokem yu finis\") mo no toktok long hem olsem hem i no stap. No yusum toktok blong pikinini. Ol fasin ia oli save mekem man o woman i sem no gud o i sore, mo oli no save helpem."
+  - q: "Eniwe mi mas korektem hem taem hem i mekem mistek long ol fakt?"
+    a: "Mostly no. Sipos fakt we i rong i no save mekem samting nogud, lego i stap olsem. Argue i no save jenisem tingting blong hem, mo i save mekem hem i sore moa. Lukluk long wat hem i filim mo wat hem i nidim long naoa."
+  - q: "Wat mi mas duim taem hem i no save faenem wed?"
+    a: "Givim hem taem fastaem. Sipos hem i stap hacd tumas, i oraet blong yu gentel ofrem wan wed o gesem wat hem i minim mo askem blong kasem. Poentem, saen mo pikja tu i save helpem."
+  - q: "Hao blong toktok wetem man o woman we dementia i stap long taem we i hevi tumas mo i no save toktok moa?"
+    a: "Kam long fes blong hem, talem hu yu hu, mo yusum vois we i kwaet mo tajem we i gentel. Lukim fes mo bodi blong hem blong save wat hem i filim. Taem blong yu i stap wetem hem, wan song we hem i save, o holem han i save talem bigfala samting wetaot wed."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementia i save mekem i hacd long faenem wed, folem wan longfala sentens, o blokem noes we i stap bakgraon. Ol samting ia i no minim se man o woman i stop long wantem konekt wetem yumi. Ol smol jenis long wei we yu stap redi blong toktok, wei we yu toktok mo wei we yu harem, oli save mekem toktok i isi mo i kwaet moa long yufala tu.
 
-## What are the most important tips for talking with someone who has dementia?
+## Wat nao ol moa important tips long toktok wetem man o woman we i gat dementia?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Kasem tingting blong hem, mekem samting i stap simpol, mo gat patiens. Sipos yu save rememba faev samting nomo:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Kwatem rum mo lukluk long fes blong hem.** Pasem TV, sidaon long level blong ae blong hem, mo yusum nem blong hem.
+2. **Talem wan samting long wan taem.** Sot sentens, wan aedia, wan kwesten.
+3. **Ofrem jes long tu samting.** "Te o kofi?" i isi moa from "Wat yu wantem?"
+4. **Wet.** Givim hem moa taem blong ansa than wat i naturol, mo no kaontem hem.
+5. **No argue no askem kwesten blong tesem.** Respondem long wat hem i filim, no long fakt i tru o nogat.
 
-## How should I start a conversation?
+## Hao mi save stat wan toktok?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Setemap ol samting blong hem i save fokas long yu. [Gaed blong Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i rekomendem blong fastaem kasem noes i godaon: pasem redio o TV, klosem ol kaaten o doa, o go long ples we i kwaet moa.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Kam long fes blong hem.** Sipos yu kam long saed o long baksaed, hem i save sek.
+- **Talem hu yu hu.** "Hae Papa, mi Sarah, pikinini meri blong yu." Ating ia i helpem hem no bodem serju blong faenem nem blong yu.
+- **Go daonem long level blong hem.** Sipos hem i sidaon, yu sidaon o kniling blong ae blong yufala i stap long wan level.
+- **Jekem fes mo tone blong yu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) i advaesem yu blong awea long tone, vois, fes mo bodi blong yu, mo blong mekem i warm mo i stret.
+- **Mekem sua se glasis mo hiring eds oli stap long hem.** Hemi hacd blong folem toktok sipos yu no save luk o harem gud.
 
-## How should I phrase what I say?
+## Hao mi save fraesem wat mi talem?
 
-Use simple words, short sentences and a calm, low voice.
+Yusum ol simpol wed, sot sentens mo vois we i kwaet mo i no hae.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Wan aedia long wan sentens.** "Yumi putum koa blong yu. Afta yumi aotsaed." No tokem tufala long wan wind.
+- **Yusum nem, no pronaon.** "Anti Jean i kolem" i klia moa from "Hem i kolem."
+- **Vois i daon, no i hae.** Family Caregiver Alliance i sujestem vois we i daon moa, no we i hae.
+- **Repitem, bihaen traem narafala fraes.** Sipos hem i no harem, repitem sem wed wan taem. Sipos i no wok, wet smol, bihaen traem difren wed.
+- **Soem mo no talem wan taem nomo.** Poentem long kap, holem ol tufala swta, o soem fes blong fes blong fastaem stap.
+- **Toktok long hem, no long hem.** NIA i wanem man blong no toktok long wan man olsem hem i no stap, mo no yusum "baby talk".
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA i sujestem ol simpol fom blong ol komon kwesten. Ol example ia i stap long sem fasin:
 
-| Instead of | Try |
+| Nomo tok olsem | Traem tok olsem |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Wat yu wantem blong kaikai?" | "Yu wantem fis o sikin?" |
+| "Yu filim hao?" | "Yu filim se yu taed?" |
+| "Yu hangre?" | "Kaikai bambae i redi long 5 minit." |
+| "Hemi no fasin blong yu blong mekem." | "Yumi traem fasin ia." |
+| "Yu rememba trip yumi go long lek?" | "Mi bin tingting long trip yumi go long lek. Talem mi wat yu laekem long hem." |
+| "Mi tokem yu finis." | Ansa gen, wetem gudfala fasin, olsem hem i fastaem nomo. |
 
-## How do I listen well?
+## Hao mi save harem gud?
 
-Listen for the meaning and the feeling, not just the words.
+Harem long minin mo filing, no jus ol wed.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Wet.** Silen i olgeta taem i wan taem blong tingting. Kaontem slo go kasem 10 bifo yu intaref.
+- **Ofrem wan wed sipos hem i stap hangap nomo.** Family Caregiver Alliance i talem se i oraet blong sagestem ol wed taem wan man o woman i stap struggle.
+- **Jekem wat yu harem.** [Gaed blong Alzheimer's Association long komunikesen](https://www.alz.org/help-support/caregiving/daily-care/communications) i sujestem blong lukim minin we i stap behaen ol wed blong hem mo ripitim blong jekem se yu save. "Yu wari long ka?"
+- **Lukluk long fes mo bodi blong hem.** Taem toktok i kam hard, NIA i talem se ol fes ekspresen i save soem sed, kros o frastresen klia moa than ol wed.
+- **Tekem ol wari i serius.** Sipos wari i bitim wan mistek fakt, filing ia i stap tru.
 
-## What if they say something that is not true?
+## Wat if oli tok samting we i no tru?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+No argue. Yu no save winim, mo man o woman i save filim sem no gud o frit. Stat wetem filing blong hem, afta gentel blong save go long narafala samting.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance i sujestem blong aknolijem filing bifo yu jenisem tingting blong hem. Olsem example, sipos mama blong yu i stap tok se hem i mas go kasem ol pikinini long skul:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Nomo tok olsem: "Mama, ol pikinini blong yu i kam bigfala pinis. Dat i bin 40 yia bifo."
+- Traem tok olsem: "Yu bin wan gudfala mama i save lukaotem ol pikinini. Talem mi long taem we yu bin kasem tufala. Yumi kaikaim smol samting firs?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association tu i advaesem blong no argue long ol samting we yu no agri wetem. Jusum taem blong yu: sipos wan tingting i no save mekem nogud, lego i stap olsem.
 
-## How does communication change as dementia progresses?
+## Hao komunikesen i jenisem taem dementia i go moa?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ol nidi oli jenis long taem, so jenisem fasin blong yu. Alzheimer's Association i diskraebem tri stej we i stap long wan wei:
 
-| Stage | What helps |
+| Stej | Wanem i help |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Fastaem | No tingting se hem i no save komunikeit. Givim hem taem long ol toktok, toktok long hem direkt, askem wanem sapot hem i wantem, mo yusum fani tok sipos i help. |
+| Midol | Toktok wan-long-wan long ples we i kwaet. Toktok slo, lukluk long ae, yusum kwesten we yes o no, givim intrakson step-bae-step, mo no krisisaes o korekt. |
+| Lasmaot | Kam long fes blong hem mo talem hu yu hu. Sapotem hem blong poentem mo yusum saen. Yusum tajem, saon, saet mo smel. Nevem toktok olsem hem i no stap. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Evri man o woman i defren, mo sem man i save gat gud dei mo hacd dei. Ansa long wei we hem i stap long naoa, no long wan leibel.
 
-## Can pictures and activities make conversation easier?
+## Ka pikja mo ol aktiviti i save mekem toktok i isi?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Yes. Wan pikja we yufala i lukim tugeta i save kasem presa blong toktok mo i givim yufala wan samting blong lukluk mo poentem long hem.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Pikja blong tok.** [Conversation Cards](/games/conversation-cards/) i gat ol pikja wetem opin kwesten we i no save kwesten blong tesem.
+- **Famili fotu.** [Photo Pairs](/games/photo-pairs/) i tanem ol fotu we yu jusum i kam wan gem blong matjem we i gentel, we i ofen save opnem ol stori.
+- **Ol komon tok.** [Finish the Saying](/games/finish-the-saying/) i yusum ol tok we ol man i save long Inglis, wetem wan tok blong toktok afta.
+- **Matjing gem olsem bakgraon.** [Picture Pairs](/games/picture-pairs/) i givim han blong yu samting blong duim taem yu stap toktok.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Lukim [hao blong pleim ol gem tugeta](/caregiving/how-to-play-together/) mo [aktiviti blong tingting bak](/activities/reminiscence/) blong moa. Blong ol vizit mo kol, ridim ol gaed blong yumi long [vizit](/activities/visiting/) mo [fon mo video kol](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Wat if mi lus patiens blong mi?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Hemi save hapen long evri man. NIA i sujestem se sipos yu kros o yu filim tu hevi, yu tekem smol taem blong kwaetem seleva. Yu go long narafala rum, teik sam hevi wind we i slo, mo kambak taem yu redi. Yu save alwe stat toktok gen, mo man o woman i save ansa gud long kalmmud blong yu. Sipos frastresen i stap kamaot olwe, hemi wan saen se yu nidim moa sapot, no se yu no gud. Gaed blong yumi long [keaim seleva blong man o woman we i lukaotem](/caregiving/caregiver-self-care/) i gat ol ples blong go.

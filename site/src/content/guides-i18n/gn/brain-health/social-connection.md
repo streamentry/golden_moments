@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Ñeñomongeta ha akã resãi: kañy, jepe'a ha demencia"
+seoTitle: "Kañy, jepe'a ha demencia mba'e vai"
+description: "Mba'éichapa kañy ha jepe'a ojoaju demencia mba'e vaíre, mba'e he'i Surgeon General, ha mba'éichapa ikatu peime oñondive."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Jehapykueho ohechauka kañy ha jepe'a tujakue aja ojoajuha demencia mba'e vai hetave rehe.
+  Lancet Commission 2024 oimo'ã jepe'a oĩha 5% jave umi mba'asýpe, jepeve pe joaju
+  oñepyrũva'erã demencia oñepyrũramo oñemboykévo. Ñeñomongeta meme, tembiapo oñondive
+  ha pytyvõ apysakũéra rehe oipytyvõ joajúpe. Umi ava oikóva dementiarehe guarã,
+  tembiapo oñondive oipytyvõ vy'a ha tekove porãme.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet Commission ohechauka jepe'a tujakue aja ha'eha 14 mba'e ikatúva oñemoambue demencia mba'e vai apytépe, 5% jave umi mba'asýpe."
+  - "U.S. Surgeon General marandu 2023 he'i kañy ha jepe'a aregua ojoajuha 50% jave demencia mba'e vai hetave rehe ava tujakue apytépe."
+  - "Hetave ko'ã jehapykueho ohecha mba'e oikóva, ha demencia oñepyrũramo ikatu omboyke tapichápe oñondiveguágui."
+  - "Apysakũ ha tesa mba'e vai, jeiko año ha ñangareko omoheñói jepe'a mba'e vai."
+  - "Umi ava oikóva dementiarehe guarã, tembiapo oñondive vy'apegua oipytyvõ tekove porãme; pe jehupytyrã ha'e joaju, ndaha'éi tembiapo porã."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "¿Kañy omoheñói demencia?"
+    a: "Upéva noñemoneĩri gueteri. Heta jehapykueho ohechauka kañy ha jepe'a ojoajuha demencia mba'e vai hetave rehe, hákatu akã ñemoambue oñepyrũva ikatu avei omboyke tapichápe ambue tapichágui. Ñeime joaju oreko heta ambue pytyvõ py'aguapýpe ha tesãime, upévare iporã oñepytyvõ jey jey."
+  - q: "¿Mba'e oñemoambue kañy ha jepe'a?"
+    a: "Jepe'a he'ise ndorekói heta tapicha oñe'ẽ hag̃ua hendive meme. Kañy ha'e pe ñandu vai añohápe térã oñemboykéva. Ikatu oiko añohápe ha nandu kañy'ỹ, térã nandu kañy heta tapicha apytépe."
+  - q: "¿Mba'éichapa ikatu aipytyvõ che sy térã che ru oikóva dementiarehe oñeime hag̃ua joaju?"
+    a: "Ñeñomongeta mbyky ha meme oiko porã. Eñeha'ã ehenói térã eñomongeta ta'ãngamýi rehe peteĩ ára peteĩchagua arapokõindýpe, peiko peteĩ tembiapópe mesa jerére, peho peteĩ memory cafe-pe, térã pehecha peteĩ mymba térã nieto. Eguereko aty michĩ ha kirirĩháme, ha eheja pe tapicha oiporavo mba'e pya'épa oiko."
+  - q: "¿Moõpa ajuhu pytyvõ peteĩ ava tujakue oñeñandúva jepe'ápe?"
+    a: "Eldercare Locator, peteĩ mba'epuru opavavépe g̃uarã, ombojoaju umi família umi aty oñangarekóva ava tujakue rehe ha tembiaporape tavaguápe. Ikatu oñehenói 800-677-1116 térã ojehecha eldercare.acl.gov-pe."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Tapichakuéra oñeikotevẽ ambue tapicháre, ha upéva noñemoambuéi tujakue rire. Jehapykueho ohechauka kañy ha jepe'a tujakue aja ojoajuha demencia mba'e vai hetave rehe, ha avei korasõ mba'e vai ha py'aguapy vai rehe. Jehapykueho ndaikatúi gueteri he'i mba'éichapaite pe joaju oiko. Ko kuatiarogue ohechauka mba'e ojehechakuaa, mba'éichapa ikatu peime joaju, ha mba'érepa tembiapo oñondive tuicha mba'e umi ava oikómava dementiarehe guarã.
 
-## Are loneliness and isolation linked with dementia?
+## ¿Kañy ha jepe'a ojoaju demencia rehe?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Hẽe, heta jehapykueho ohechauka joaju, jepeve ndaikatúi gueteri ja'e porã mba'épa oiko raẽ. [Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ohechauka jepe'a tujakue aja ha'eha peteĩ 14 mba'e ikatúva oñemoambue apytégui. [UCL ñemomombe'u pe marandúgui](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) he'i upéva ha'eha 5% jave umi demencia mba'asyrehegua yvypóra apytépe.
 
-What the evidence shows:
+Mba'e ojehechakuaa:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Sa'ive ñeñomongeta, hetave mba'e vai.** Pe Commission omombe'u mokõi jehechajey ojoajúva sa'ive ñeñomongeta meme demencia mba'e vai hetave rehe. Peteĩ ohecha 57% jave hetave mba'e vai ha ambue 18% jave.
+- **Kañy avei.** Kañy, pe ñandu oñemboykéva, ojoaju avei demencia mba'e vai hetave rehe heta jehechajeyme.
+- **Surgeon General he'i.** Mayo 2023-pe, U.S. Surgeon General omoherakuã peteĩ [marandu kañy ha jepe'áre](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). He'i kañy ha jepe'a aregua ikatuha ombohetave demencia mba'e vai 50% jave ava tujakue apytépe. Ojoaju avei joaju vai korasõ mba'e vai 29% hetave rehe ha akã rasy (stroke) 32% hetave rehe.
+- **Mboy hetápa ohasáva upéva.** Peteĩ [National Academies marandu](https://www.ncbi.nlm.nih.gov/books/NBK557972/) ohecha 24% jave umi estadounidense 65 ary ha hetave, oikóva tavayguakuérape, oĩha jepe'ápe.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Peteĩ mba'e tekotevẽ: Lancet Commission he'i tapichakuéra ikatuha omomichĩ tembiapo oñondive demencia oñepyrũ mboyve, ojekuaa mboyve. Upéva he'ise pe joaju peteĩva ikatu ha'e demencia omboykéva tapichápe, ndaha'éi jepe'a añoite ombohetavéva mba'e vai. Hetave ko'ã jehapykueho ou jehecha guive.
 
-## What is the difference between loneliness and isolation?
+## ¿Mba'e oñemoambue kañy ha jepe'a?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) omyesakã kóicha. **Jepe'a** he'ise ndorekói heta tapicha oñe'ẽ hag̃ua hendive térã oñomongeta hag̃ua hendive meme. **Kañy** ha'e pe ñandu vai añohápe térã oñemboykéva. Peteĩ tapicha ikatu oiko añohápe vy'apópe, ha ambue ikatu oñandu kañy koty henyhẽvape.
 
-The NIA lists factors that raise the risk of both:
+NIA omombe'u mba'e ikatúva ombohetave mokõivéva:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Apysakũ térã tesa mba'e vai
+- Jehasa hasy, térã ndorekói mba'éichapa oho
+- Oiko añohápe, térã peteĩ mba'e tuicha oñehundi, techapyrã omano iména térã oheja tembiapo
+- Mandu'a térã jehechakuaa ñemoambue
+- Oñangareko peteĩ tapicha oñeñandúva porã'ỹre
+- Pirapire apañuái térã ñe'ẽ jejoko
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Apysakũ tuicha mba'e. NIA he'i umi tapicha nahendúiva porã ikatuha oñemboyke, ñeñomongeta hasy térã oñetĩramo. Ore [apysakũ ha akã resãi ñemyesakã](/brain-health/hearing/) oñe'ẽ apysakũ jehechajeýre ha apysakũha oñemúva ñemuharã'ỹre.
 
-## Practical ways to stay connected
+## Mba'éichapa ikatu peime joaju
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA ome'ẽ heta tembiporu. Eiporavo peteĩ térã mokõi ojokupytýva ndéve:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Emohenda ñeñomongeta meme.** Peteĩ aravo peteĩchagua ára térã arapokõindy pukukue ehenói hag̃ua, emondo hag̃ua marandu térã kuatia'atã familia, angirũ térã tavayguakuéra ndive.
+- **Eipuru ñehenói ta'ãngamýi térã ñe'ẽha pyahu.** Tembiporu pyahu ndéve guarãramo, heta aranduka renda ha aty tavaguápe oikuave'ẽ mbo'esyry. Ehecha ore [ñehenói ha ta'ãngamýi ñemyesakã](/activities/phone-and-video-calls/).
+- **Eike peteĩ atýpe.** Peteĩ mbo'esyry, aty jeroviaha, aty oguataha térã tembiapo pytyvõrã ome'ẽ ndéve ñeñomongeta ha peteĩ mba'e rejapóva reikuaa hag̃ua.
+- **Eñepyrũ jey peteĩ tembiapo rehayhúva** térã eikuaa peteĩ pyahu ambue tapicha ndive.
+- **Emongu'e oñondive.** Ejapo tetia'e peteĩ angirũ térã aty ndive. Ore [tetia'e ñemyesakã](/brain-health/exercise/) oreko tembiaporã kirirĩ.
+- **Ehecha ikatu hag̃uáicha peteĩ mymba** reikuaa hag̃uáicha reñangarekóta hese.
+- **Eipuru pytyvõ tavaguápe.** Senior centers, Area Agencies on Aging ha Eldercare Locator (800-677-1116) ikatu omombe'u ndéve tembiaporape ha mba'éichapa reho hag̃ua.
 
-## Why do shared activities matter in dementia?
+## ¿Mba'érepa tembiapo oñondive tuicha mba'e dementiape?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Peteĩ ava oikómava dementiarehe guarã, joaju ha'e vy'a, py'aguapy ha oñandu hag̃ua oĩha atýpe rehegua, ndaha'éi mba'e vai momichĩ rehegua. Lancet Commission he'i tembiapo oipytyvõha umi ava oikóva dementiarehe oguereko hag̃ua vy'a ha peteĩ mba'e ojapóva oikuaa hag̃ua. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) he'i, tekove porã moporãve ári, tembiapo ikatuha omomichĩ tembiapo ha'eháicha oguata vai térã oñangata. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ombojoapy avei umi ava oikóva Alzheimer's rehe oñekotevẽha oiko kyre'ỹ ha ojapo mba'e ohayhúva.
 
-Ideas that work well:
+Tembiporu oikóva porã:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Ema'ẽ ta'anga oñondive.** [Conversation Cards](/games/conversation-cards/) ome'ẽ porandu ijuruja'ỹva ha'eháicha “Emombe'u chéve...”. Ehecha ore [mandu'arã ñemyesakã](/activities/reminiscence/).
+2. **Peñembosarái ykére.** [Picture Pairs](/games/picture-pairs/) oguereko ta'anga ojehechahápe ha ndorekói aravo'i térã jehechakuaa, upévare ndaipóri jepya'e. Ore ñemyesakã [mba'éichapa peñembosarái oñondive](/caregiving/how-to-play-together/) oreko tembiporu.
+3. **Eipuru familia ra'ãnga.** [Photo Pairs](/games/photo-pairs/) omoambue ta'anga reiporavóva peteĩ ñembosarái joajuha rehe, ha umi ta'anga opyta ne mba'e'okápe.
+4. **Emboaty tapichakuéra.** [Picture Bingo](/games/picture-bingo/) oiko porã familia atyhápe ha [aty ñangarekohápe](/activities/care-home-groups/).
+5. **Peñemoherakuã purahéi, tembiapo óga guýpe térã yvotyty rehe.** Ehecha [purahéi tembiapo](/activities/music/), [tembiapo óga guýpe](/activities/household-tasks/) ha ore [tembiapo idea rysýi tuichakue](/activities/ideas/).
+6. **Embohape jeike.** Ore [jeike ñemyesakã](/activities/visiting/) oñe'ẽ jeike mbyky ha kirirĩ rehe, oporombovy'áva opavavépe.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Eguereko michĩ ha kirirĩháme. Peteĩ koty kirirĩ peteĩ térã mokõi tapicha ndive oiko porãve heta tapicha aty guive. Pe tapicha kane'õ térã ndohayhuvéiramo, iporã opa hag̃ua. Oguapy oñondive peteĩ kagua tee ndive iporã avei.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Peteĩ ava oikóva dementiarehe oñohápe guarã, NIA he'i ejuhu hag̃ua peteĩ tapicha ejeroviáva ikatúva oho ohecha térã ohenói ta'ãngamýi rehe meme ha ha'e hag̃ua peteĩ jeikeha tekotevẽme. Omombe'u avei peteĩ memory cafe távape, peteĩ tenda kirirĩ oñeñomongeta hag̃ua umi tapicha iñandu'a hasýva ha ifamiliakuéra ndive.
 
-## Caregivers get lonely too
+## Umi oñangarekóva oñandu kañy avei
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA omombe'u oñangareko peteĩ tapicha oñeñandúva porã'ỹre ha'eha mba'e ikatúva ombohetave jepe'a. Eñongatu aravo ne angirũkuéra, aty pytyvõrã ha pytu'u hag̃ua. Ore [oñangarekóva jesareko ñemyesakã](/caregiving/caregiver-self-care/) oreko tembiporu.
 
-## Talk with a doctor
+## Eñe'ẽ peteĩ pohanohára ndive
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Ndéve térã peteĩ tapicha reñangarekóva oñandu kañýramo térã jepe'ápe meme, emombe'u peteĩ pohanohára ndive. NIA omokyre'ỹ tapichakuérape omombe'u hag̃ua umi ñemoambue tuicháva tekovépe, techapyrã peteĩ omanóva familiáme, péicha pohanohára oikuaa porãve opa mba'e. Ñandu vai heta arapokõindy pukukue ikatu ha'e py'aguapy vai, ikatúva oñepohano. Peteĩ ava tujakue oñemboyke ramóva angirũ térã tembiapo ohayhuvagui, upéva ñemoambue iporã oñemombe'u pohanohára ndive avei. Emoñe'ẽ [seña tenondegua ha araka'épa ojeho pohanohárape](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ko kuatiarogue ha'e marandu tuichakue, ndaha'éi pohanohára ñe'ẽ. Ehecha ore [pohanohára marandu](/medical-disclaimer/).

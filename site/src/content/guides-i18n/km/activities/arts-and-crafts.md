@@ -1,32 +1,32 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "សិល្បៈ និងសិប្បកម្មសម្រាប់មនុស្សពេញវ័យជាមួយជំងឺវង្វេង"
+seoTitle: "សិល្បៈ និងសិប្បកម្មសម្រាប់ជំងឺវង្វេង សម្រាប់មនុស្សពេញវ័យ"
+description: "គំនិតសិល្បៈ និងសិប្បកម្មសម្រាប់មនុស្សពេញវ័យដែលរស់នៅជាមួយជំងឺវង្វេង ពីគំនូរទឹក និងកុងតាក់ រហូតដល់ការរៀបចំផ្កា រួមជាមួយគន្លឹះរៀបចំ កែសម្រួល និងផ្តោតលើដំណើរការ។"
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  សកម្មភាពសិល្បៈ និងសិប្បកម្មល្អៗសម្រាប់មនុស្សពេញវ័យដែលរស់នៅជាមួយជំងឺវង្វេង
+  គួរមើលទៅ និងមានអារម្មណ៍សមស្របនឹងមនុស្សពេញវ័យ ដូចជា គំនូរទឹក កុងតាក់ពីទស្សនាវដ្តី
+  ការរៀបចំផ្កា ដីឥដ្ឋ សិប្បកម្មបង្កើតកាតសាមញ្ញ ឬទំព័រគូរពណ៌សម្រាប់មនុស្សពេញវ័យ។
+  រៀបចំសម្ភារៈមួយចំនួនតូច ជួយផ្តើមគូសដំបូងប្រសិនបើចាំបាច់ និយាយគ្នាអំឡុងពេលធ្វើ
+  ហើយចាត់ទុកពេលវេលាដែលបាននៅជាមួយគ្នាជាចំណុចសំខាន់។ ការមានស្នាដៃដែលបានបញ្ចប់គឺជារឿងបន្ថែម មិនមែនជាកាតព្វកិច្ចទេ។
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "ជ្រើសរើសសម្ភារៈ និងប្រធានបទដែលសមស្របនឹងមនុស្សពេញវ័យ ដូចជា ក្រដាសគំនូរទឹក ផ្កាពិត និងរូបភាពក្នុងទស្សនាវដ្តី ជាជាងម្សៅពន្លឺ ស្ទីកគ័រ ឬសន្លឹកកិច្ចការរូបត្លុក។"
+  - "ផ្តោតលើដំណើរការ៖ ពណ៌ អារម្មណ៍នៃដីឥដ្ឋ និងការសន្ទនា។ ស្នាដៃដែលបានបញ្ចប់គ្រាន់តែជារឿងបន្ថែម មិនមែនជាគោលដៅទេ។"
+  - "ផ្តល់គោលបំណងនៅពេលអាចធ្វើបាន ដូចជា បង្កើតកាតសម្រាប់ចៅ ឬរៀបចំរបស់តុបតែងលើតុ។"
+  - "ជួយឲ្យមនុស្សនោះចាប់ផ្តើម រួចបន្ទាប់មកឈប់ជួយបន្តិច។ ជាញឹកញាប់ ការចាប់ផ្តើមគូសជាមួយគ្នាគឺគ្រប់គ្រាន់ហើយ។"
+  - "គម្រោងមិនចាំបាច់ត្រូវបញ្ចប់ក្នុងពេលតែមួយទេ ហើយការបញ្ឈប់មុនក៏មិនមានបញ្ហាអ្វីឡើយ។"
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "តើខ្ញុំអាចធ្វើដូចម្តេចដើម្បីឲ្យសិប្បកម្មមិនមានអារម្មណ៍ដូចសម្រាប់កុមារ?"
+    a: "ប្រើសម្ភារៈសិល្បៈពិតប្រាកដ ប្រធានបទសម្រាប់មនុស្សពេញវ័យ និងសម្ដីដែលគួរសម។ ជំនួសម្សៅពន្លឺ និងទំព័រគូរពណ៌រូបត្លុក ដោយក្រដាសគំនូរទឹក ក្រណាត់ ផ្កា រូបថតក្នុងទស្សនាវដ្តី និងទំព័រគូរពណ៌ដែលមានលម្អិត។ កុំសរសើរស្នាដៃដូចអ្នកសរសើរការគូររបស់កុមារ ប៉ុន្តែសូមនិយាយអំពីវាដូចដែលអ្នកនិយាយជាមួយមិត្តភក្តិពេញវ័យដទៃ។"
+  - q: "តើសកម្មភាពសិល្បៈអ្វីខ្លះដែលសមស្របនៅដំណាក់កាលក្រោយនៃជំងឺវង្វេង?"
+    a: "នៅដំណាក់កាលក្រោយ គម្រោងសាមញ្ញដែលពាក់ព័ន្ធនឹងការប៉ះពាល់អារម្មណ៍តែងតែសមស្របបំផុត៖ គូសជក់ធំៗដោយប្រើជក់ធំ បង្ហាប់ដីឥដ្ឋទន់ រៀបចំផ្កាមួយចំនួនក្នុងថូ ឬតម្រៀបក្រណាត់តាមអារម្មណ៍ប៉ះ។ អ្នកអាចត្រូវចាប់ផ្តើមចលនាជាមួយគ្នា។ ការមើលអ្នកគូរ និងនិយាយអំពីពណ៌ក៏ជាវិធីមួយនៃការចូលរួមដែរ។"
+  - q: "ចុះបើគាត់និយាយថាគាត់មិនអាចគូរបាន?"
+    a: "សូមកាត់បន្ថយសម្ពាធ។ សាកល្បងគម្រោងដែលគ្មានចម្លើយត្រូវ ឬខុស ដូចជា លាបពណ៌ទឹកស្រាលៗ ធ្វើកុងតាក់ ឬរៀបចំផ្កា។ អ្នកក៏អាចនិយាយថាអ្នកត្រូវការជំនួយក្នុងរឿងជាក់លាក់មួយ ដូចជា ជ្រើសរើសពណ៌សម្រាប់កាត ដើម្បីឲ្យភារកិច្ចនេះមានអារម្មណ៍ដូចជាការជួយ មិនមែនជាការសាកល្បងទេ។"
+  - q: "តើទំព័រគូរពណ៌មានអារម្មណ៍ដូចសម្រាប់កុមារទេ សម្រាប់មនុស្សពេញវ័យ?"
+    a: "មិនមែនទេ ប្រសិនបើវាត្រូវបានរចនាសម្រាប់មនុស្សពេញវ័យ។ សូមជ្រើសរើសទំព័រដែលមានប្រធានបទសម្រាប់មនុស្សពេញវ័យ ដូចជា សួនច្បារ ភួយ អាគុយ ឬទេសភាព ហើយបង្ហាញវាជាសកម្មភាពសម្រាក មិនមែនជាមេរៀនទេ។ ទំព័រគូរពណ៌របស់យើងអាចបោះពុម្ព ឬគូរពណ៌នៅលើថេប្លេតបាន។"
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+សិល្បៈ និងសិប្បកម្មផ្តល់ឲ្យមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេងនូវវិធីមួយក្នុងការបង្ហាញខ្លួនឯង ដែលមិនពឹងផ្អែកលើការស្វែងរកពាក្យត្រឹមត្រូវ។ Alzheimer's Association ចង្អុលបង្ហាញថា គម្រោងសិល្បៈអាចនាំមកនូវ[អារម្មណ៍សម្រេចបាន និងមានគោលបំណង](https://www.alz.org/help-support/caregiving/daily-care/art-music) និងឱកាសសម្រាប់ការបង្ហាញខ្លួនឯង ទាំងសម្រាប់អ្នកថែទាំ និងមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង។ ចំណុចសំខាន់គឺត្រូវរក្សាឲ្យសកម្មភាពមានភាពសមស្របនឹងមនុស្សពេញវ័យ សាមញ្ញ និងគ្មានសម្ពាធ។ ទំព័រនេះបង្ហាញពីគម្រោងជាក់លាក់ វិធីរៀបចំ និងវិធីកែសម្រួលនៅពេលមានការផ្លាស់ប្តូរ។
 
-## What makes an art activity adult and not childish?
+## តើអ្វីដែលធ្វើឲ្យសកម្មភាពសិល្បៈសមស្របនឹងមនុស្សពេញវ័យ មិនមែនដូចកុមារ?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+សកម្មភាពសិល្បៈសម្រាប់មនុស្សពេញវ័យប្រើសម្ភារៈពិតប្រាកដ ប្រធានបទសម្រាប់មនុស្សពេញវ័យ និងសម្ដីដែលគួរសម។ Alzheimer's Association ណែនាំឲ្យរក្សាគម្រោងឲ្យនៅកម្រិតមនុស្សពេញវ័យ និងជៀសវាងអ្វីៗដែលអាចធ្វើឲ្យមនុស្សមានអារម្មណ៍ថាត្រូវបានមើលងាយ ឬដូចជាកុមារ។
 
-| Feels childish | Feels adult |
+| មានអារម្មណ៍ដូចសម្រាប់កុមារ | មានអារម្មណ៍ដូចសម្រាប់មនុស្សពេញវ័យ |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| ម្សៅពន្លឺ ស្ទីកគ័រពពុះ ភ្នែកប្លាស្ទិក | ក្រដាសគំនូរទឹក ក្រណាត់ ផ្កាស្ងួត |
+| សន្លឹកគូរពណ៌រូបត្លុក | ទំព័រគូរពណ៌ដែលមានរូបសួនច្បារ ភួយ អាគុយ ឬទេសភាព |
+| សរសើរថា «ធ្វើបានល្អ» រាល់ពេលគូស | ការសន្ទនាពិតប្រាកដ៖ «ពណ៌ខៀវនេះស្អាតណាស់នៅជាប់ពណ៌បៃតង» |
+| សិប្បកម្មដែលគ្មានប្រយោជន៍ | កាតសម្រាប់មិត្តភក្តិ របស់តុបតែងលើតុ ឬអំណោយ |
+| ការណែនាំដូចជាមេរៀន | ការអញ្ជើញ៖ «តើអ្នកអាចជួយខ្ញុំរឿងនេះបានទេ?» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+សូមគិតអំពីចំណូលចិត្តផ្ទាល់ខ្លួនរបស់មនុស្សនោះ។ អ្នកដែលចូលចិត្តដេរអាចរីករាយនឹងការប៉ះក្រណាត់។ អ្នកវិស្វករចូលនិវត្តន៍អាចចូលចិត្តសំណុំម៉ូដែលដែលមានបំណែកធំៗ ឬតម្រៀបឧបករណ៍សម្រាប់គម្រោងមួយ។ អ្នកគ្រូចូលនិវត្តន៍អាចរីករាយនឹងការបង្កើតកាត។
 
-## Why focus on the process, not the product?
+## ហេតុអ្វីត្រូវផ្តោតលើដំណើរការ មិនមែនលទ្ធផល?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+ព្រោះពេលវេលាដែលបាននៅជាមួយគ្នាជាចំណុចសំខាន់។ មគ្គុទ្ទេសក៍របស់ Alzheimer's Association អំពី[សកម្មភាពនៅផ្ទះ](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) បញ្ជាក់ថា គួរផ្តោតលើដំណើរការ មិនមែនលទ្ធផល។ គំនូរដែលមានតែពណ៌ខៀវក៏នៅតែជាគំនូរ។ កុងតាក់ដែលមានរូបតែបីក៏នៅតែជាកុងតាក់ដែរ។
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Alzheimer's Association ក៏បានចង្អុលបង្ហាញផងដែរថា វិចិត្រករជំនាញអាចមានអារម្មណ៍មិនពេញចិត្តពីការផ្លាស់ប្តូរនៅក្នុងស្នាដៃរបស់ខ្លួន ខណៈដែលអ្នកមិនមែនជាវិចិត្រករជំនាញអាចរីករាយនឹងឱកាសថ្មីក្នុងការបង្ហាញខ្លួនឯង។ ប្រសិនបើមនុស្សនោះធ្លាប់ជាវិចិត្រករជំនាញ សូមសាកល្បងប្រើប្រភេទសិល្បៈផ្សេងពីអ្វីដែលគាត់ធ្លាប់ធ្វើបានល្អ ដើម្បីឲ្យមានអារម្មណ៍ដូចជាការលេង មិនមែនជាការប្រៀបធៀបទេ។
 
-## Arts and crafts ideas to try
+## គំនិតសិល្បៈ និងសិប្បកម្មដែលអាចសាកល្បង
 
-Each idea includes how to make it simpler if it becomes hard.
+គំនិតនីមួយៗមានវិធីធ្វើឲ្យសាមញ្ញជាងមុន ប្រសិនបើវាក្លាយជាពិបាក។
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **លាបពណ៌ទឹក។** ធ្វើឲ្យក្រដាសគំនូរទឹកក្រាស់សើម រួចឲ្យមនុស្សនោះដាក់ពណ៌លើវាដោយប្រើជក់ធំ។ ពណ៌នឹងរីកសាយដោយខ្លួនឯង ដូច្នេះមិនមានលទ្ធផលខុសទេ។ *សាមញ្ញជាង៖* ផ្តល់តែពីរពណ៌ ឬគូរដោយប្រើទឹកលើក្រដាសពណ៌ចាស់ដែលបង្ហាញស្នាមសើម។
+2. **កុងតាក់ពីទស្សនាវដ្តី។** កាត់រូបភាពជាមុនពីទស្សនាវដ្តីអំពីការថែសួន ការធ្វើម្ហូប អាគុយ ការធ្វើដំណើរ ឬចំណង់ចំណូលចិត្តចាស់របស់មនុស្សនោះ។ ឲ្យគាត់ជ្រើសរើស និងបិទរូបភាពលើក្រដាសក្រាស់។ *សាមញ្ញជាង៖* ផ្តល់រូបដែលបានកាត់រួចចំនួនបួន និងដបកាវ ហើយបិទជាមួយគ្នា។
+3. **ការរៀបចំផ្កា។** Alzheimer's Foundation of America ណែនាំឲ្យ[រៀបចំផ្កាកាត់ និងស្លឹក](https://alzfdn.org/dementia-activity-gardening/) ជារបស់តុបតែងតាមរដូវកាលសាមញ្ញៗ។ ប្រើថូដែលធ្ងន់ និងមានស្ថេរភាព ហើយកាត់ដើមផ្កាជាមុន។ *សាមញ្ញជាង៖* ដាក់ផ្កាមួយចំនួនក្នុងពែងតូច ម្តងមួយដើម។
+4. **កាតផ្កាស្ងួត។** ដាក់ផ្កាពីបាច់ផ្កាក្នុងសៀវភៅឲ្យស្ងួតរយៈពេលមួយសប្តាហ៍ រួចបិទវាលើកាតបត់។ *សាមញ្ញជាង៖* អ្នកដាក់កាវ ហើយគាត់ចុចផ្កាចុះ។
+5. **ទំព័រគូរពណ៌សម្រាប់មនុស្សពេញវ័យ។** ជ្រើសរើសទំព័រដែលមានបន្ទាត់ច្បាស់ និងប្រធានបទជាក់ស្តែង។ [ទំព័រគូរពណ៌](/games/coloring/) ដែលអាចបោះពុម្ពរបស់យើងក៏អាចគូរពណ៌នៅលើអេក្រង់បានផងដែរ ដោយចុចលើពណ៌ រួចចុចលើផ្នែកនៃរូបភាព។ *សាមញ្ញជាង៖* ផ្នែកធំៗ ពណ៌តិច និងប៊ិកមាំៗ។
+6. **ដីឥដ្ឋ ឬម្សៅទន់។** រមៀល ចុច និងបង្ផាត់ដីឥដ្ឋស្ងួតខ្យល់ ឬម្សៅបង្ផាត់ទន់។ ការចុចស្លឹកឈើលើដីឥដ្ឋអាចបង្កើតជាក្រឡាក្បឿងសាមញ្ញមួយ។ *សាមញ្ញជាង៖* គ្រាន់តែបង្ហាប់ និងរមៀលក៏ជាសកម្មភាពពេញលេញមួយ។ សូមមើលថាមនុស្សនោះមិនដាក់ដីឥដ្ឋចូលក្នុងមាត់ទេ។
+7. **ការបង្កើតកាត។** Alzheimer's Association ណែនាំឲ្យបង្ហាញវាជាកិច្ចការពិតប្រាកដ៖ «យើងកំពុងផ្ញើកាតជូនពរឲ្យមិត្តភក្តិជាសះស្បើយ។ តើអ្នកអាចជួយបានទេ?» ក្រដាសកាតដែលបានកាត់ជាមុន និងស្ទីកគ័រផ្កា ឬតែមមួយចំនួនអាចសមស្រប។
+8. **សៀវភៅរូបភាពអនុស្សាវរីយ៍។** ដាក់ច្បាប់ចម្លងរូបថតចាស់ កាតប្រ៉ូស ឬសំបុត្រចូលទស្សនាលើទំព័រសៀវភៅជាមួយគ្នា។ និយាយអំពីរូបនីមួយៗនៅពេលធ្វើ។ សូមមើល[មគ្គុទ្ទេសក៍អនុស្សាវរីយ៍](/activities/reminiscence/) របស់យើងសម្រាប់វិធីនិយាយអំពីអតីតកាលដោយទន់ភ្លន់។
+9. **ក្រណាត់ និងបន្ទះវាយនភាព។** បិទបំណែកក្រណាត់ corduroy ក្រណាត់กำមะหยี่ ក្រណាត់ burlap និងសូត្រ លើក្រដាសរឹង។ ការបង្កើតវាជាសកម្មភាព ហើយការប៉ះវានៅពេលក្រោយក៏ជាសកម្មភាពមួយទៀតដែរ។ គំនិតបន្ថែមមាននៅក្នុង[មគ្គុទ្ទេសក៍សកម្មភាពប៉ះពាល់អារម្មណ៍](/activities/sensory/) របស់យើង។
+10. **ការបញ្ចប់ឈើសាមញ្ញ។** សម្រាប់អ្នកដែលចូលចិត្តធ្វើការងារឈើ ការខាត់ប្លុកឈើឲ្យរលោង ឬលាបពណ៌សំណុំផ្ទះបក្សីអាចផ្តល់អារម្មណ៍ quen thuộc។ សូមដកឧបករណ៍មុតៗចេញ និងតាមដានជានិច្ច។
+11. **គូរទៅតាមតន្រ្តី។** បើកចម្រៀងដែលចូលចិត្ត ហើយគូររូបរាង ឬពណ៌ដែលសមនឹងអារម្មណ៍។ នេះរួមបញ្ចូលសកម្មភាពពីរដែលមនុស្សជាច្រើនចូលចិត្ត។ សូមមើល[សកម្មភាពតន្រ្តី](/activities/music/)។
 
-## How do I set up an art session?
+## តើខ្ញុំរៀបចំវគ្គសិល្បៈយ៉ាងដូចម្តេច?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **រៀបចំជាមុន។** កាត់ តម្រឹម និងរៀបចំអ្វីៗទាំងអស់ មុននឹងអញ្ជើញមនុស្សនោះ។ ការរង់ចាំនៅពេលអ្នកកំពុងស្វែងរកកន្ត្រៃអាចធ្វើឲ្យបាត់បង់អារម្មណ៍ចាប់អារម្មណ៍។
+2. **រក្សាឲ្យសាមញ្ញ។** ពណ៌ពីរ ឬបី ជក់មួយ សន្លឹកក្រដាសមួយ។ ជម្រើសច្រើនពេកអាចធ្វើឲ្យស្រពិចស្រពិល។
+3. **ការពារតុ។** ក្រណាត់ប្លាស្ទិក ឬសំពត់ចាស់អាចធ្វើឲ្យមិនបារម្ភពីភាពរញ៉េរញ៉ៃ។
+4. **អង្គុយក្បែរគ្នា។** ធ្វើស្នាដៃរបស់អ្នកនៅជាប់ស្នាដៃរបស់គាត់។ វាមានអារម្មណ៍ថាធ្វើរួមគ្នា មិនមែនជាការតាមដានទេ។
+5. **ជួយឲ្យគាត់ចាប់ផ្តើម។** Alzheimer's Association ចង្អុលបង្ហាញថា អ្នកអាចត្រូវចាប់ផ្តើមចលនាជក់ជាមួយមនុស្សនោះ។ នៅពេលចាប់ផ្តើមហើយ មនុស្សជាច្រើនអាចបន្តដោយខ្លួនឯង។
+6. **និយាយគ្នាអំឡុងពេលធ្វើ។** និយាយអំពីពណ៌ និងវាយនភាព ឬឲ្យសិល្បៈនាំទៅរករឿងរ៉ាវ។ សូមជៀសវាងសំណួរដូចជាការសាកល្បង ដូចជា «នេះជាអ្វី?»
+7. **ផ្តល់ពេលវេលាគ្រប់គ្រាន់។** គម្រោងមិនចាំបាច់ត្រូវបញ្ចប់ក្នុងពេលតែមួយទេ។
 
-## How do I adapt art as dementia changes?
+## តើខ្ញុំអាចកែសម្រួលសិល្បៈនៅពេលជំងឺវង្វេងផ្លាស់ប្តូរយ៉ាងដូចម្តេច?
 
-| Stage | What tends to work | What to adjust |
+| ដំណាក់កាល | អ្វីដែលតែងតែសមស្រប | អ្វីដែលគួរកែសម្រួល |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| ដើម | ថ្នាក់រៀន ទំព័រគូរពណ៌លម្អិត សៀវភៅអនុស្សាវរីយ៍ ការបង្កើតកាត គំនូរពីរូបថត | ផ្តល់ជម្រើសគម្រោង រក្សាឲ្យមានការចូលរួមជាសង្គម |
+| កណ្តាល | កុងតាក់ដែលបានកាត់ជាមុន លាបពណ៌ទឹក ការរៀបចំផ្កា ការគូរពណ៌ដែលមានផ្ទៃធំ | ម្តងមួយជំហាន អ្នកធ្វើការកាត់ និងបិទ |
+| ចុងក្រោយ | គូសជក់ធំៗ បង្ហាប់ដីឥដ្ឋ ប៉ះក្រណាត់ មើលអ្នកគូរ | ផ្តោតលើអារម្មណ៍ នាំដៃយ៉ាងទន់ភ្លន់ ប្រសិនបើគាត់សុខចិត្ត |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS ណែនាំថា នៅដំណាក់កាលក្រោយ សកម្មភាពជាញឹកញាប់ត្រូវបានធ្វើឲ្យសាមញ្ញ និងផ្តោតលើអារម្មណ៍។ ការមើលអ្នកផ្សេងគូរ និងនិយាយអំពីពណ៌ គឺជាវិធីពិតប្រាកដនៃការចូលរួម។ សម្រាប់គំនិតបន្ថែមតាមដំណាក់កាល សូមមើល[សកម្មភាពសម្រាប់គ្រប់ដំណាក់កាល](/activities/ideas/)។
 
-## Safety with art supplies
+## សុវត្ថិភាពជាមួយសម្ភារៈសិល្បៈ
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- ជ្រើសរើសថ្នាំពណ៌ ប៊ិក និងដបកាវដែលគ្មានសារពុល។
+- ទុកកន្ត្រៃ កាំបិតសិប្បកម្ម និងកាំភ្លើងកាវក្តៅឲ្យឆ្ងាយពីដៃ។ សូមធ្វើការកាត់ដោយខ្លួនឯងជាមុន។
+- តាមដានមើលប្រសិនបើមានអ្នកដាក់ដីឥដ្ឋ ថ្នាំពណ៌ ឬវត្ថុតូចៗចូលក្នុងមាត់។
+- ប្រើภาชนะទឹក និងថូដែលមានស្ថេរភាព និងធ្ងន់។
 
-## When should we stop?
+## តើគួរបញ្ឈប់នៅពេលណា?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+សូមបញ្ឈប់នៅពេលការចាប់អារម្មណ៍ចាប់ផ្តើមថយចុះ ឬនៅពេលមានអារម្មណ៍មិនស្រួល។ Alzheimer's Association ណែនាំឲ្យបញ្ចប់ ឬប្តូរសកម្មភាព នៅពេលការផ្តោតអារម្មណ៍ចាប់ផ្តើមថយចុះ ឬអារម្មណ៍មិនស្រួលកើនឡើង។ ទុកគម្រោងនៅកន្លែងសុវត្ថិភាព ហើយផ្តល់ជូនសកម្មភាពសម្រាកមួយ។ អ្នកអាចត្រឡប់មកធ្វើវាវិញនៅថ្ងៃស្អែក ឬមិនធ្វើក៏បាន។ ទាំងពីរមិនមានបញ្ហាទេ។
 
-## Display the work, if the person wants
+## បង្ហាញស្នាដៃ ប្រសិនបើមនុស្សនោះចង់
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+ការដាក់គំនូរលើទូរទឹកកក ឬដាក់កុងតាក់ក្នុងស៊ុមអាចជាវិធីស្ងប់ស្ងាត់មួយក្នុងការបង្ហាញការគោរព។ សូមសួរជាមុន។ មនុស្សខ្លះចូលចិត្តឃើញស្នាដៃរបស់ខ្លួននៅលើជញ្ជាំង ខណៈដែលអ្នកផ្សេងទៀតប្រហែលជាមិនចង់ទេ។
 
-## Pair art with our games
+## ភ្ជាប់សិល្បៈជាមួយល្បែងរបស់យើង
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+នៅថ្ងៃដែលការរៀបចំថ្នាំពណ៌មានការលំបាកពេក [Coloring](/games/coloring/) អាចប្រើនៅលើថេប្លេតដោយគ្មានភាពរញ៉េរញ៉ៃ។ [Picture Puzzle](/games/picture-puzzle/) រក្សារូបភាពទាំងមូលឲ្យមើលឃើញជាគំរូនៅពេលអ្នកប្តូរបំណែក។ [Conversation Cards](/games/conversation-cards/) ផ្តល់សំណួរបើកចំហដែលអាចនាំពីរូបភាពទៅរឿងរ៉ាវមួយ។ សកម្មភាពទាំងអស់នេះគ្មានម៉ោងកំណត់ ឬពិន្ទុ។ អ្នកក៏អាចបោះពុម្ពទំព័រពីបណ្តុំ[សកម្មភាពដែលអាចបោះពុម្ព](/activities/printable/) របស់យើងផងដែរ។

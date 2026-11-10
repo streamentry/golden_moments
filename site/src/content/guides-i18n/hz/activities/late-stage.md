@@ -1,32 +1,34 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Ovitjitwa vyorukondwa orusenina rwombanḓu yokuzemba"
+seoTitle: "Ovitjitwa vyorukondwa orusenina: Ombete nondyero"
+description: "Ovitjitwa ovingarere vyorukondwa orusenina rwombanḓu yokuzemba, nandarire omundu tja kara mombete poo mondyero: omizumbi, okutunina, okuresa, ombosiro nokukara pamwe."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Morukondwa orusenina rwombanḓu yokuzemba, ovitjitwa vi zikamena kovimunikise
+  vyorutu na kove tji u ri popezu: okupurata omizumbi mbi ma suvere, okukwaterasana
+  komake, okutuṋina omake katiti, okuresera pombanda, okutarera ozofoto, ombosiro
+  yovihape nokukara pondje porutjivaro poo pendje. Avihe mbi mavi ungura omundu
+  tja kara mombete poo mondyero. Kara novitjitwa ovisupi, tara omurungu nomake
+  kutja u mune kutja u ri nawa, nu zemburuka kutja okukara popezu ku ri otjingi
+  otjitjitwa otjini.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Okuṱunasana ku kayenena. Morukondwa orusenina, ouye u munika tjinene kovimunikise vyorutu."
+  - "Omizumbi, okutunina nongarero, eraka ndi ri tjiukwa novinamuwa vyokukambura mape ya vyurire ko omundu omambo tji ye hi nokuyenenisa."
+  - "Ouingi wovihorera mbi vyarwe omundu mape ya vi ungura tja kara mombete poo mondyero."
+  - "Tara omurungu, omake nomusuvero wombepo kutja u mune kutja u ri nawa poo ke ri nawa, nu kurama tjimanga tji wa munu otjiraiso tjouzeu."
+  - "Yandja ovipuka ovisupi, nu yandja ovikurya poo omeva porwe indu otjira tjovatjevere tji tja tja pe ri nawa, mena rokutja okuninina ku yenena okukara noumba."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Ovitjitwa viṋe mbi mu yenena okutjita nomundu ngu ri nombanḓu yokuzemba morukondwa orusenina ngu ri mombete?"
+    a: "Purata omizumbi mbi ma suvere, kambura eke re, mu tuṋine omake katiti nomazeva womaṱunino, mu resere pombanda embo poo ongumbiro ndji ma suvere, mu raise ozofoto, poo purata ombosiro omingarere yovihape. Paturura omakende kutja a tare pendje. Ovitjitwa ovisupi, ombiṱikame notjiṋa tjimwe poruveze umwe potuingi vi ungura nawa."
+  - q: "Ovandu mbe ri nombanḓu yokuzemba morukondwa orusenina mape ya ve kayenda omizumbi?"
+    a: "Ovengi mape ya ve kayenda. O-Alzheimer's Association i tja nandarire morukondwa orusenina, omundu mape ya a tonene omutono poo a imbura pamwe neraka ndi za kouṱiṱi we. Toorora omizumbi mbya suverere tja ri omutanda nu ṱiza ombosiro i rire ohahakana."
+  - q: "Me tjiwa vi kutja eye u nyanda otjitjitwa?"
+    a: "Tara oviraiso ovisupi: omapepe nga suva, omurungu mbu wa porimana, okutara momeho, okuimburisa, okukandja eke poo okusuvera kouṱiṱi. Okunyona omurungu, okurihumburura, okuhinokusuva poo okukuma ku yenena okuraisa ouzeu poo ouṱiṱi. Tji wa munu ovyo, kurama nu raera otjira tjovatjevere tji vya kayenda komurungu."
+  - q: "Maku vatere okuvarura nandarire tje he ndji tjiwa rukwao?"
+    a: "Ii. O-National Institute on Aging i tja okukara popezu porwako ku yenena okuyandja ohange, nokutja okutunina, omizumbi novihambarere mape ya vi kayandja omahuhumiṋino nandarire mombanḓu yokuzemba ndja kurira ko. Eraka roye nokutunina koye mape ya vi tjiukwa nandarire ena roye tji ri ha tjiukwa."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +50,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Morukondwa orusenina rwombanḓu yokuzemba, omundu mape ya a hungire ouṱiṱi tjinene, a hepa ombatero movitjitwa avihe vyeyuva arihe nu a kara oruveze oruingi mombete poo mondyero. Mape ya ai munika tjimuna kape notjiṋa tjarwe tji mamu yenene okutjita pamwe. Pe notjiṋa. O-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) i tja orupa orukuru rwomundu mape ya ru kayenda okukara po, nokutja morukondwa ndwi ouye u munika tjinene kovimunikise vyorutu. Omizumbi, okutunina, eraka ndi ri tjiukwa noupore woye mape ya vi kayandja omahuhumiṋino nozoruveze zokukwatana.
 
-## What activities help in late-stage dementia?
+## Ovitjitwa viṋe mbi mavi vatere morukondwa orusenina rwombanḓu yokuzemba?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Ovitjitwa ovingarere vyovimunikise vyorutu noupore wokukara pamwe potuingi mavi vatere tjinene morukondwa orusenina. O-Alzheimer's Association i vanga okupurata omizumbi omisuvare, okuresa ouṱiṱi womambo omanandengu, okutuṋina omuzeva nomunuko omusuvare kombanda yorutu, nokukara pamwe pendje meyuva ewa. O-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) i weza ko ovihambarere, okuraisa ozofoto, okutunina nongarero poo okutuṋina orutu, nomizumbi, ombosiro ombiṱikame poo ombosiro yovihape, nu i tja okukara kwoye porwako ku yenena okuyandja ohange.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+O-[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i tja ovandu mbe ri morukondwa orusenina potuingi ve nombango onyingi yokukambura otjiṋa popezu kutja ve huhumiṋe, nu i vanga ovitjitwa ovingarere vyovimunikise vyorutu, omanyinganyingiro omapupu, okunyandisa otjiraṋe, omizumbi, omatarero wovinamuinyo, okutunina kwovandu novitjito vyovipirangi mbi hi nondengu.
 
-## Activities for someone in bed or a chair
+## Ovitjitwa vyomundu ngu ri mombete poo mondyero
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Purata omizumbi vye.** Toorora omizumbi vyomuinyo we womitanda, ongamburiro ye poo eṱunḓu re. Ṱiza ombosiro i rire ohahakana nu kara popezu. Nandarire nai, ovandu tjiva ve tonena omunwe poo ve imbura ouṱiṱi. Tara [ovitjitwa vyomizumbi](/activities/music/).
+2. **Kambura eke re.** Okukambura eke, nokuserekarera nongarero, otjitjitwa otjini. Tanga kutja mo tjiti tjike komurungu wokutunina.
+3. **Tuṋina omake katiti.** Pyeṱisa omuzeva ouṱiṱi momake woye nu serekarera okuza pekapa nga kominwe. Toorora omuzeva mbu hi nomunuko, poo omunuko eye mbya suverere aruhe tji omukova we u tji yandjera.
+4. **Resa pombanda.** Ombongo omisuvare, orupa rwembo ndi ri tjiukwa nawa, omatjangwa wongamburiro poo omukuma wozombazu. Omutono weraka roye ounandengu okukapita omambo.
+5. **Hambarera ehungi.** Hungira ouyenda weṱunḓu poo eyuva ndi va kupasana. Ko hepa omaziriro.
+6. **Raisa ozofoto.** Kambura ofoto imwe onene poruveze na i ṱunḓu porutenga rwomeho we nu i kahurura nongarero. Yandja okupura kutja ouṋe u ri mo.
+7. **Mu pa otjiṋa otjingarere okukambura.** Otjitjijisiwa otjombungu, otjirare tjouṱarare omupore poo otjinamuinyo otjingarere. O-NIA i vanga okuyandja omundu otjitjijisiwa okukambura indu tji ma nyinganyingisiwa, kutja a ha kambura ove poo ovipuka vyomondjuwo.
+8. **Purata ombosiro yovihape.** Ombura, omakuthikuthi poo ozonḓera zombosiro ohahakana mape ya ai porisa ondjuwo ndji nomungunda.
+9. **Eta pendje meni.** Paturura omakende, twa otjiraisiro tjovizeri pendje porutjivaro, poo eta ozonḓu poo omafo omape kutja ve tare nu ve tunine.
+10. **Pita pendje.** Omundu tja yenena okukara mokatemba kehi, oure wominute ouṱiṱi keṱundu meyuva eporise mape ya e rire ewa.
+11. **Tenye ozondjise ze poo mu pa otjitjijisiwa otjiyame.** Okurikoṋḓonona nokutunina nongarero notjitjijisiwa otjiyame komake nomurungu mape ya vi munika otjondjeverero.
+12. **Nyinganyinga nongarero pamwe nomizumbi.** Yandja otjiraṋe otjipupu pamwe, poo nyinganyingisa omake momutono weraka. Komanyinganyingiro nomakwatero womarunga, ningira omutjevere womaṋinganyingiro worutu poo omupange e ku raise omiano omiwa komurungu.
+13. **Tjita ovipirangi mbi hi nondengu.** Tanda omatjise nga hi noumba kombanda yombapira onene notjipunye poo neke, ndi ri kehi yeke roye. Kape notjisemba poo otjiposi.
+14. **Yakura omatarero wovinamuinyo.** Otjinamuinyo otjipore tjonganda mombete poo pomarama, omundu tja suverere ovinamuinyo nu oruveze tji ru yandjera.
+15. **Suvera pamwe kouṱiṱi.** Kara popezu nu suvera kouṱiṱi nokuhungira okuzuvika. O-[Kusuvera noupore](/games/calm-breathing/) mape ya e mu vatere amuyevari, nu ove u uta nokukuramisa.
+16. **Kara popezu uriri.** Kara popezu, imbura ouṱiṱi, tate poo resa noupore. Okukara popezu kwa yenena.
 
-## How to share an activity at this stage
+## Omuano wokuyandja otjitjitwa pamwe morukondwa ndwi
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Hiti komurungu.** Tanga ena re nena roye, nu hungira kouṱiṱi nokupore komurungu wokutunina.
+- **Yandja otjiṋa tjimwe poruveze.** Zepa otivii komurungu wokupurata omizumbi. Tjita otjimunikise tjimwe poruveze.
+- **Ṱiza otjisupi.** Ominute ouṱiṱi mape ya ya yenene. Ozoruveze ozisupi ozengi meyuva ze ri nawa okukapita oruveze rumwe orure.
+- **Kara nawa rutenga.** Tara kutja omundu wa yama nawa. O-NIA i vanga orutenda rwomarama okutjameka omake nokuyama orutu rwokombanda indu tji va kara pohi.
+- **Tara eziriro.** Omake nga suva, omurungu mbu wa porimana, okutara momeho poo okuimburisa vi raisa ohuhumiṋino. O-NIA i tja okukuma, okunyona omurungu, okuritjevera orupa rworutu poo okuhinokusuva tjimanga ku yenena okuraisa ouṱiṱi. Kurama, nu raera otjira tjovatjevere.
 
-## A quick guide by sense
+## Omuhunga omupupu movimunikise vyorutu
 
-| Sense | Ideas | Take care |
+| Otjimunikise | Ovihorera | Ṱakamisa |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Okuzuva | Omizumbi omisuvare, eraka roye tji ri resa, ombosiro yovihape | Ṱiza ombosiro i rire ohahakana; ombosiro imwe poruveze |
+| Okutunina | Okutuṋina omake, okukwaterasana komake, otjirare otjingarere, otjitjijisiwa otjiyame | Ningira poo tanga komurungu; tara kutja omukova kau nomuṱiṱu poo kau nomutjaro |
+| Okumuna | Ozofoto, ozonḓu, omumunikiro okuza porutjivaro, okavidio okapupu kovihape | Ṱunḓa oviṋa porutenga rwomeho; ondjerera ombwa, nu ape ha kara ondjerera onḓeu |
+| Okunuka | Omuzeva omusuvare, ozonḓu omape, okofi tji mai rongwa popezu | Yandja ominuko omizeu; tara omaumba nomusuvero |
+| Okurora | Okurora ouṱiṱi kwotjiroro otjisuvare | Ovikurya nomiano vyorutu mbi otjira tjovatjevere tji tja tja vi ri nawa porwavyo uriri |
 
-## Safety at this stage
+## Ondjeverero morukondwa ndwi
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Omuninino mape ya u rire ouzeu morukondwa orusenina, nu o-NIA i yandja eronga kutja ihi tji yandja oumba wokuninina mouvi. O yandja ovipuka ovisupi popezu, nu yandja ovikurya poo omeva momiano nomatuṋo otjira tjovatjevere tji tja vanga porwavyo uriri. Tara omukova nongarero indu tji mu tjita ovitjitwa vyokutunina, mena rokutja omukova mape ya u tauka poo u kara nozombara moruveze uriri. Komahongero omengi ohunga novitjitwa ovingarere vyovimunikise vyorutu, tara [ovitjitwa vyovimunikise vyorutu](/activities/sensory/).
 
-## Looking after yourself too
+## Okuritjevera ove wina
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Okutjevera morukondwa orusenina ku nomasa korutu nomomutima, kutja ponganda poo movaruriro kondjuwo yondjeverero. Ovira vyomahuhumiṋino nomazeva wokutjaera ouṱiṱi mavi yenene okuvatera omahuhumiṋino, ombatero nomazikamisiro, nu o-NIA i vi tja otjombatero. Omatarero omasupi nomapupore ye nondengu; tara [okuvarura omundu ngu ri nombanḓu yokuzemba](/activities/visiting/). Tji u hongorera ozombongo, [ovitjitwa vyombongo mondjuwo yondjeverero](/activities/care-home-groups/) vi novihorera vyokurundurura ovitjitwa. Nu arikana resa [omeritjevero womutjevere](/caregiving/caregiver-self-care/): okusuva orupa rwokutjevera nawa.

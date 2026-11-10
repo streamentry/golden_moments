@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Itaviqaravi ni iWasewase e Loma ni Mate ni Guiguilecavi"
+seoTitle: "Itaviqaravi ni Mate ni Guiguilecavi e Loma: Vakasama Rawarawa"
+description: "Itaviqaravi rawarawa ni mate ni guiguilecavi ena iwasewase e loma: cakacaka ni vale, sere, iyaloyalo kei na qito rawarawa, vata kei na ivakaraitaki ni kena tuvai kei na sala me vuki kina na sega ni tiko vakacegu."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Ena iwasewase e loma ni mate ni guiguilecavi, na itaviqaravi vinaka duadua era
+  lekaleka, matau, ka wasei ki na dua ga na ikalawa: lobia na isulu, veiwaseitaki
+  na sitoki, sava na bilo, sere, taubale veiliutaki, ivola ni iyaloyalo kei na
+  qito iyaloyalo rawarawa. Vakarautaka na ka o gadreva, vakaraitaka na imatai ni
+  ikalawa, taura na veika dredre, ka solia vua na itaviqaravi e dua na inaki.
+  Cegu ni sa sega ni taleitaka.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Na cakacaka ni vale era matau e dau yaga vakalevu baleta ni vakilai ni yaga ka vakamatua."
+  - "Vakaraitaka ga, sega ni vakamacalataka wale; solia e dua na ikalawa ena dua na gauna, ka solia e rua na digidigi rawarawa ka sega ni taro vakatani."
+  - "Taura na tiki dredre duadua me rawa ni cakava na tamata o qaravi tiko na tiki e marautaki."
+  - "Na itovo ni sega ni tiko vakacegu e vakamacalataka wasoma ni gadreva na tamata e dua na ka me cakava. Solia e dua na itaviqaravi e veiganiti kei na sega ni kaya e sega."
+  - "Na sarava wale, veivuke vakalailai, se cegu taumada, e vinaka kece."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Na cava na itaviqaravi e vinaka me baleta na mate ni guiguilecavi ena iwasewase e loma?"
+    a: "Na itaviqaravi lekaleka, matau, ka vakayagataki na liga e dau vinaka duadua: lobia na taulu, veiwaseitaki na sitoki, sava na bilo, tuvana na teveli, sere vata kei na sere makawa era taleitaka, taubale veiliutaki, raica na ivola ni iyaloyalo kei na qito iyaloyalo rawarawa. Wasea na itaviqaravi yadua ki na ikalawa dua, ka cakava vata."
+  - q: "Au na uqeta vakacava e dua e tiko vua na mate ni guiguilecavi me tekivu e dua na itaviqaravi?"
+    a: "Vakarautaka kece na ka, oti qai tekivuna o iko na itaviqaravi ka kerea vua me veivuke: 'O rawa ni vukei au vakalailai ena taulu oqo?' E levu era vinakata me tiko kina ia e dredre vei ira me tekivu. Na kena vakaraitaki na imatai ni ikalawa e dau yaga cake mai na kena vakamacalataki."
+  - q: "Na cava me'u cakava ni tomana tikoga me cakava e dua na ka vakawasoma?"
+    a: "Na kena caka vakawasoma e sega ni veivakaleqai e so na gauna, ka rawa ni ivakatakilakila ni vinakata na tamata me vaka me osooso se gadreva na veivakacegui. Me kakua ni veivakadodonutaki, solia e dua na itaviqaravi e veiganiti kei na toso, me vaka e dua na basi ni isulu me lobia se dua na sere me sere vata kina."
+  - q: "Na cava ni cakava cala na itaviqaravi?"
+    a: "Kevaka e sega ni veivakaleqai, laiva ga vakakina. Na taulu era lobia ena dua tale na sala se na sipuni era biu ena vanua cala e sega ni ka bibi. Na veivakadodonutaki e rawa ni vakilai me vaka e dua na veivakacacani, ia na kena caka ena nona sala e rawa ni vukea me vakila ni rawata ka yaga."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Na iwasewase e loma ni mate ni guiguilecavi e dau balavu cake, ka ena gauna oqo sa gadrevi kina na veitokoni dina ena itaviqaravi. Na vosa e dau dredre cake me kune, na ikalawa era dau veicurumaki, ka na tekivu ni dua na ka e rawa ni dredre. Ia na gagadre me yaga ka me tiko ena loma ni ka e caka e dau tiko ga. Ena vuku ni vakarautaki lailai, e dua na tamata e bula tiko kei na mate ni guiguilecavi ena iwasewase e loma e rawa tikoga ni marautaka e levu na ka, vakabibi na cakacaka era matau, na sere kei na iyaloyalo ni cakavi vata kei kemuni.
 
-## What activities work well in middle-stage dementia?
+## Na cava na itaviqaravi e yaga ena iwasewase e loma ni mate ni guiguilecavi?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Na itaviqaravi lekaleka, matau, ka vakayagataki na liga, ka wasei ki na ikalawa dua, era dau vinaka duadua. Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) e kaya ni sega ni dodonu mo bulia na ka vou me caka: na itaviqaravi e rawa ni tiki ni bula ni veisiga, me vaka na vakasaqa vata, teitei ena iteitei, vakarorogo ki na sere se lako vata.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+Na [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e vakamacalataka ni ira era tiko ena iwasewase oqo e levu na gauna era gagadre vakaukauwa me ra vakila ni tiko na nodra inaki se me ra qarava e dua na ka, ka gadrevi na veitokoni me tekivu se tomana na itaviqaravi. Na nona ilawalawa me baleta na iwasewase e loma e okati kina na lobia na isulu, sava na bilo, veiwaseitaki na sitoki, vakaukauayago rawarawa, danisi vata kei na sere matau, taubale veiliutaki, sere vata, droini rawarawa kei na raica na ivola ni iyaloyalo.
 
-## How do you set up an activity so it works?
+## O na tuvai vakacava e dua na itaviqaravi me yaga?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+E levu na itaviqaravi era yaco vinaka se sega ni yaco ena sala ni kena tuvai. Na ivakarau oqo, mai na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) kei na [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), era veisautaka vakalevu na ka e yaco:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Vagalalataka na vanua.** Bokoca na retioyaloyalo, sogota na katuba, ka biuta walega na ka e gadrevi ena itaviqaravi.
+2. **Tekivuna o iko.** Tekivu mo lobia se veiwaki, ka sureta vua: "O rawa ni vukei au ena ka oqo?"
+3. **Vakaraitaka, qai wawa.** Vakaraitaka e dua na ikalawa. Dusimaka se veiliutaki ena nomu liga, me vaka na vakaraitaki ni vanua me biu kina na peleti.
+4. **Solia e dua na ikalawa ena dua na gauna.** "Lobia vakaloma rua" e rawarawa cake mai na "lobia oqo ka binia ena roka."
+5. **Solia e rua na digidigi, sega ni taro vakatani.** "Na taulu karakarawa se na vulavula?" e rawarawa cake me saumi mai na "O vinakata mo cakava na cava?"
+6. **Cakava o iko na tiki dredre.** O iko o vakarauta na levu, o koya e veiwaki. O iko o curuma na wa, o koya e vakavivolita.
+7. **Solia e dua na inaki.** "Na tavoi oqo me baleta na kana ni Sigatabu" e vakavuna me dina na cakacaka.
+8. **Laiva me sarava kevaka e vinakata.** Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e kaya ni na sarava walega e rawa talega ni marautaki.
 
-## Activity ideas for the middle stage
+## Vakasama ni itaviqaravi me baleta na iwasewase e loma
 
-### Useful jobs
+### Cakacaka yaga
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Lobia na taulu kei na isulu lailai.** Na ka lailai ka raraba era rawarawa duadua. E dua na basi ni isulu katakata e rawa ni lobia, vakavinakataki, ka lobia tale.
+- **Veiwaseitaki na sitoki.** Tekivu ena vica na veiwasei era duidui sara. Na kena veiwasei ena roka walega e vinaka talega.
+- **Sava se vakamamaca na bilo era sega ni voroka rawarawa.** Na wai katakata ka sovu e marautaki ena liga. Na vakamamacataki ni dabe sobu e rawarawa cake ena yava.
+- **Tuvana na teveli.** Solia e dua na mataqali ka ena dua na gauna, ka tuvana e dua na vanua o iko me ivakaraitaki.
+- **Veivuke ena vakasaqa kakana.** Savata na pateta, basuraka na draunikau ni saladi se veiwaka e dua na bilo. O iko o qarava na isele kei na katakata.
+- **Taviti, qusia se qusia na teveli.** E dua na isulu me baleta na teveli, se dua na tavulaki mamada me baleta na lomanibai.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Raica na [cakacaka ni vale](/activities/household-tasks/) me baleta e levu tale na vakasama.
 
-### Music and movement
+### Sere kei na toso
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Serevaka na sere makawa era taleitaka.** Tekivu mo sere o iko; e levu era dau curu mai ena sere era sa kila vakadede. Raica na [itaviqaravi ni sere](/activities/music/).
+- **Danisi vakagalala.** Vakasuka, taviraka na liga se toso ena sala e vinaka. Na dabe sobu e vinaka talega.
+- **Virikauta e dua na baluni.** E toso vakamalua ka rawarawa me tauri mai na idabedabe.
+- **Lako vata ena taubale veiliutaki.** Lako vata ena dua na ilawalawa lekaleka ka matau, taura na liga kevaka e veivuke.
 
-### Pictures and stories
+### Iyaloyalo kei na italanoa
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Raica vata e dua na ivola ni iyaloyalo.** Vakamacalataka na ka o raica ka kua ni taroga na taro: "Raica na motoka oqori. Talanoa mada kina." Raica na [itaviqaravi ni nanuma lesu](/activities/reminiscence/).
+- **Vakayagataka na kadi ni veitalanoa.** Na [kadi ni veitalanoa](/games/conversation-cards/) e semata e dua na iyaloyalo kei na dua na taro vakarautaki ka sega ni veitarogi.
+- **Sarava vata e dua na iyaloyalo makawa.** Digitaka e dua e matau, tiko voleka, ka cegu vakalailai ena loma ni sarasara.
 
-### Simple, pressure-free games
+### Qito rawarawa ka sega ni veivakasaurarataki
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Veiwasei iyaloyalo kei na iyaloyalo era laurai tu.** Na [Veiwasei iyaloyalo](/games/picture-pairs/) e laiva na iyaloyalo me ra laurai tu, me baleta na kena raici, sega ni nanumi.
+- **Kunea e tautauvata.** Na [Kunea e tautauvata](/games/find-the-same/) e vakaraitaka e dua na iyaloyalo kei na rua ga se va na digidigi.
+- **Veiwasei vata.** Na [Veiwasei vata](/games/sort-together/) e vaka na veiwasei ni isulu ena sikirini: tabaka e dua na iyaloyalo, oti qai tabaka na nona basi.
+- **Bingo ni iyaloyalo.** Na [Bingo ni iyaloyalo](/games/picture-bingo/) e yaga vakalevu ena soqo ni matavuvale kei na ilawalawa.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Kevaka e tekivu me vakavuna na rarawa e dua na qito, cegu ka cakava e dua tale na ka. Raica na [qito vata](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Na kena vuki na sega ni tiko vakacegu me itaviqaravi
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Na itovo ni sega ni tiko vakacegu se caka vakawasoma e dau tiko na kena vuna. Na Family Caregiver Alliance e vakamacalataka ni dua e tomana tikoga me vakalalataka e dua na kovate ni isulu e rawa ni saga me vakayacora e dua na gagadre me vaka me osooso ka yaga. Na Alzheimer's Association e vakatura me vagolei na kaukauwa oqori ki na dua na itaviqaravi e veiganiti, ka sega ni tarovi.
 
-| What you see | Something to offer |
+| Na ka o raica | E dua na ka mo solia |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Veiqusi se taura na teveli | E dua na isulu suasua kei na kerekere me qusia na teveli |
+| Yava sega ni tiko vakacegu se taviraki | Sere e matata na kena rorogo me taviraki se yavita vata kina |
+| Vakalalataka na tolo se na kovate | E dua na basi ni isulu se isulu lailai me lobia ka veiwasei |
+| Taroga vakawasoma na taro vata ga | Veivakacegui, oti qai dua na sere se cakacaka me caka vata |
+| Taubale vakawasoma | Lako vata, se dua na cakacaka e okati kina na kaukau |
+| Sega ni tiko vakacegu ena yakavi | E dua na cakacaka malua ka matau ena rarama vinaka; raica na [sega ni tiko vakacegu ena yakavi](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Na gauna me cegu kina se veisautaka na sala
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Cegu ni o raica na ivakatakilakila ni oca, rarawa, madua se druka, me vaka na sega ni tiko vakadua, cuva na mata, biliga tani na ka se kaya "Au sega ni rawata." Na Alzheimer's Association e vakatura mo tovolea tale ena dua tale na gauna ni siga se vakarawarawataka cake na itaviqaravi. Kakua ni vakasaurarataka. Na bese e rawa ni yaco mai na rere se ni rui dredre na cakacaka; raica na [ni kaya e sega](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Na cegu taumada e vinaka. Na tiko vata walega kei na dua na bilo ti e vinaka talega. Ni veisau tale na rawa-ka, na vakasama ena [itaviqaravi ni iwasewase e muri](/activities/late-stage/) e rawa ni veiganiti vinaka cake, kei na [101 na itaviqaravi](/activities/ideas/) e levu tale na ka mo tovolea.

@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Деменция кезінде 101 қарапайым іс-әрекет"
+seoTitle: "Деменция кезіндегі іс-әрекеттер: 101 идея"
+description: "Деменциямен өмір сүріп жатқан ересектерге арналған 101 қарапайым іс-әрекет және жағдай қиындағанда әрқайсысын қалай бейімдеуге болатыны туралы."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Деменциямен өмір сүріп жатқан адамдарға арналған жақсы іс-әрекеттер таныс,
+  ересек адамға лайық және бірге орындауға оңай болады: кір бүктеу, сұрыптау,
+  тамақ дайындау, музыка тыңдау, фотосуреттер қарау, серуендеу, бағбаншылық,
+  үй жануарларымен уақыт өткізу және қарапайым ойындар. Адам бұрыннан ұнататын
+  нәрселерді таңдаңыз, қиын бөліктерін өзіңіз атқарыңыз және шаршағанда
+  тоқтаңыз. Бірге жағымды уақыт өткізу кез келген істі аяқтаудан да маңызды.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Адамның өз өмірінен бастаңыз: жұмысы, хоббиі, сенімі және сүйікті музыкасы ең жақсы бағыт көрсетеді."
+  - "Қажет болса, кез келген істі жеңілдетіңіз: қадамдарды, таңдауды азайтыңыз, қиын бөлігін өзіңіз істеңіз."
+  - "Қарап отыру, бір нәрсені қолында ұстау немесе қасында жай отыру да қатысу болып есептеледі."
+  - "Шаршау, ренжу немесе зерігу белгілерін көрсеңіз, тоқтаңыз немесе басқасына ауысыңыз. Ерте аяқтау да жақсы нәтиже."
+  - "Бірге істеу дұрыс істеуден маңыздырақ."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Деменциямен өмір сүріп жатқан адамға қандай іс-әрекеттер пайдалы?"
+    a: "Адам жылдар бойы жасап келе жатқан таныс істерді сәл жеңілдетіп орындауға болады: кір бүктеу, үстел жайу, тамақ дайындау, музыка тыңдау, фотосуреттер қарау, серуендеу, бағбаншылық және үй жануарымен уақыт өткізу. Ересек адамға лайық әрі пайдалы болып сезілетін істерді таңдап, бірге орындаңыз."
+  - q: "Іс-әрекет қанша уақытқа созылуы керек?"
+    a: "Дұрыс ұзақтық деген жоқ. Бір күні бірнеше минут сүлгі бүктеу жеткілікті болса, басқа күні бақта бір сағат оңай өтуі мүмкін. Адамға өз қарқынын таңдауға мүмкіндік беріңіз және әлі жағымды сезіліп тұрған кезде аяқтаңыз."
+  - q: "Адам іс-әрекеттен бас тартса ше?"
+    a: "Зорламаңыз. Бас тарту тапсырма тым қиын екенін, уақыт сәті қолайсыз екенін немесе адамның шаршағанын не жайсыз екенін білдіруі мүмкін. Кейінірек қайталап көріңіз, оңайырақ нұсқасын ұсыныңыз немесе қасында өзіңіз бастап, көмекке шақырыңыз."
+  - q: "Деменциямен өмір сүріп жатқан адамдарға миға арналған ойындар пайдалы ма?"
+    a: "Ойындар бірге уақыт өткізудің жағымды тәсілі болуы мүмкін, бірақ ешбір ойын деменцияны емдейді, бәсеңдетеді немесе тоқтатады деп көрсетілмеген. Таймері, ұпайы және қате жауап дыбысы жоқ ойындарды таңдап, оларды сынақ емес, ортақ іс-әрекет ретінде қарастырыңыз."
+  - q: "Іс-әрекеттер балалық болып көрінбеуі үшін не істеуге болады?"
+    a: "Нақты, ересектерге арналған заттарды қолданыңыз: нағыз сүлгілер, нағыз рецепттер, ересектерге арналған музыка мен сурет салу құралдары және ересектерге сай суреттер. Тапсырмаларды шын мәнінде сізге қажет көмек ретінде ұсыныңыз және адаммен ересек адам ретінде сөйлесіңіз."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Деменциямен өмір сүріп жатқан адамға ең қолайлы іс-әрекет әдетте оның бұрыннан білетін, сәл жеңілдетілген және сенетін адамымен бірге орындалатын ісі болып табылады. Төменде түрі бойынша топтастырылған 101 идея берілген. Әрқайсысы үшін қалай дайындау керек және қиын болғанда қалай жеңілдетуге болатыны жазылған. Арнайы құралдар да, істі міндетті түрде аяқтау да қажет емес. Жақсы түстен кейінгі уақыт кейде бір себет сүлгі мен бірге ішілген бір кесе кофеден тұруы мүмкін.
 
-## How do you choose the right activity?
+## Дұрыс іс-әрекетті қалай таңдайсыз?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Тізімге емес, адамға қарап таңдаңыз: ол әрқашан ұнатқан және бүгін ыңғайлы орындай алатын нәрседен бастаңыз.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Жұмысы мен хоббиін ескеріңіз.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) бұрын кеңседе жұмыс істеген адам тиындарды сұрыптауды немесе хаттарды конвертке салуды, ал бау-бақшамен айналысқан адам аулада жұмыс істеуді ұнатуы мүмкін екенін айтады.
+- **Оның өз бетінше не істеп жүргеніне назар аударыңыз.** Егер әкеңіз күн сайын таңертең сұрамай-ақ кіреберісті сыпырып жүрсе, соны күн тәртібіне қосыңыз.
+- **Шектеулерді ескеріңіз.** Шаршау, көру, есту, қолдағы ауырсыну және тепе-теңдік маңызды.
+- **Көңіл-күйін бақылаңыз.** Белсенді, шулы іс-әрекеттер біреуге ұнаса, басқаны қорқытуы мүмкін.
+- **Мақсат беріңіз.** Шіркеудегі дастарқанға арналған майлықтарды бүктеу өз алдына жасалған жаттығудан гөрі пайдалырақ сезіледі.
 
-### A rough guide by stage
+### Кезең бойынша шамамен бағыт
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Деменцияны көбіне ерте, орта және кеш кезеңдер деп сипаттайды. Бұл қатаң шектеулер емес, жалпылама атаулар ғана. Көп адамның жақсы да, қиынырақ күндері де болады, сондықтан бүгін көріп тұрған жағдайға сүйеніңіз. [Alzheimer's Foundation of America ұйымының кезеңдер бойынша тізімі](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) да ұқсас бағыт ұсынады.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Тақырып | Ерте кезең | Орта кезең | Кеш кезең |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Не байқауыңыз мүмкін | Көбіне өз бетінше; жоспарлау, жаңа есімдер және адам көп жерлер қиындау болады | Істі бастау және қадамдарды орындау үшін көмек керек; сөз табу қиындайды | Күнделікті күтімнің көп бөлігінде көмек керек; сезім мүшелері маңыздырақ болады |
+| Көбіне сәйкес келетін іс-әрекеттер | Карталар, үстел ойындары, тамақ дайындау, бағбаншылық, күнделік жазу, серуен, үйірмелер | Кір бүктеу, сұрыптау, тамақ дайындаудың қарапайым қадамдары, ән айту, фотоальбомдар, бірге серуендеу | Сүйікті музыка, қолды сипау, ұстауға жұмсақ заттар, кітап оқып беру, далада отыру |
+| Сіздің рөліңіз | Серіктес: қандай көмек керек екенін сұраңыз | Дайындаңыз, көрсетіңіз, қиын бөліктерін өзіңіз атқарыңыз | Іс-әрекетті соған жақындатыңыз; сіздің қасыңызда болуыңыздың өзі іс-әрекет |
+| Қосымша идеялар | [Ерте кезең](/activities/early-stage/) | [Орта кезең](/activities/middle-stage/) | [Кеш кезең](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Деменциямен өмір сүріп жатқан адаммен іс-әрекетті қалай бастайсыз?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Кішкентай бастаңыз, қасында отырып бастаңыз және келісуді оңай етіңіз. Көп адам қатысқысы келсе де, жоспарлауды немесе бастауды қиынсынуы мүмкін.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Оның ең жақсы уақытын таңдаңыз,** көбіне таңертең.
+2. **Бәрін алдын ала дайындаңыз,** сонда бірден бастауға болады.
+3. **Орындауды емес, көмек сұраңыз:** «Маған мұны істеуге көмектесесіз бе?»
+4. **Алдымен өзіңіз бастаңыз.** Бірінші сүлгіні бүктеңіз де, оған қосылуға мүмкіндік беріңіз. Көрсету түсіндіруден пайдалырақ.
+5. **Бірден бір қадам ұсыныңыз.**
+6. **Ең қиын бөлігін өзіңіз жасаңыз.** Alzheimer's Association ингредиенттерді өзіңіз өлшеп, араластыруға қасықты беруді ұсынады.
+7. **Іс оның тәсілімен орындалсын.** Сүлгілер басқаша бүктелсе де, жарайды.
+8. **Жағымды сезім аяқталғанда тоқтаңыз.** Орнында мазасыздану, қабағын түю немесе «мен істей алмаймын» деу ауыстыру немесе демалу керек белгісі.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Сондай-ақ [бірге қалай ойнауға болады](/caregiving/how-to-play-together/) және [қарым-қатынас кеңестері](/caregiving/communication-tips/) бөлімдерін қараңыз.
 
-## Everyday tasks at home
+## Үйдегі күнделікті істер
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Үй шаруасы таныс әрі пайдалы болғандықтан, бастаудың жақсы жолы бола алады. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ыдыс жуу, үстел жайу, сыпыру, хаттарды сұрыптау және кір бүктеу сияқты адамдар ұнатуы мүмкін істерді атайды. Толығырақ [үй шаруасы](/activities/household-tasks/) бөлімінде.
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Жылы сүлгілерді бүктеңіз.** Кептіргіштен себетті үстелге төгіп, қасында отырып бірге бүктеңіз. Кейінірек жай ғана тегістеп, жинау да пайдалы.
+2. **Шұлықтарды жұптаңыз.** Өте айырмашылығы бар түстерден бастаңыз. Кейінірек ашық пен қою түсті бөлу жеткілікті.
+3. **Үстел жайыңыз.** Бір уақытта заттардың бір түрін ғана беріңіз. Үлгі ретінде бір орындықты өзіңіз жайыңыз.
+4. **Ыдыс жуыңыз немесе сүртіңіз.** Жылы сабынды су мен сынбайтын ыдыстарды қолданыңыз. Отырып сүрту аяққа жеңілірек.
+5. **Үстелді сүртіңіз.** Тамақтан кейін дымқыл шүберек беріңіз. Бұл мазасыз қолдарға арналған нақты жұмыс.
+6. **Хаттарды сұрыптаңыз.** Каталогтар мен қажетсіз хаттарды «қалдырамын» және «қайта өңдеуге» деп бөліңіз. Нақты төлем қағаздарын бөлек ұстаңыз.
+7. **Купондарды қиыңыз.** Ұшы дөңгелек қайшы мен азық-түлік жарнамаларын қолданыңыз. Кейінірек ұнайтын тағамдарды қоршау да болады.
+8. **Тиындарды сұрыптаңыз.** Ұсақ ақшаны кеселерге бөліңіз немесе орамдарға салыңыз. Егер адам заттарды аузына салатын болса, ұсақ заттарды қолданбаңыз.
+9. **Сыпырыңыз немесе шаң сүртіңіз.** Кіреберісте жеңіл сыпырғышпен немесе отырғышта отырып ұзын сапты шаң сүрткішпен.
+10. **Тамақ дайындауға көмектесіңіз.** Көкөніс жуу, салат жапырағын жырту, араластыру. Пышақ пен ыстықты өзіңіз ұстаңыз.
+11. **Отбасылық рецепт бойынша пісіріңіз.** Егер болса, оның қолжазбасымен жазылған рецепт картасын қолданыңыз. Кейінірек ол дәм татып көруші бола алады.
+12. **Кеңселік жұмыс жасаңыз.** Хаттарды бүктеңіз, конвертке салып, марка жапсырыңыз немесе сатып алу тізімін бірге жазыңыз.
 
-## Music
+## Музыка
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Таныс музыка сөз табу қиын болған кезде де адамға жетуі мүмкін. [Alzheimer's Association ұйымының музыка бойынша кеңестері](https://www.alz.org/help-support/caregiving/daily-care/art-music) таныс әндерді, жарнамасыз тыңдауды және теледидарды өшіруді ұсынады. [Музыкамен айналысу](/activities/music/) бөлімін қараңыз.
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Жеке ойнату тізімін жасаңыз.** Оның жастық шағы мен жиырмасыншы жылдарындағы, үйлену тойындағы, шіркеудегі және мәдениетіне жақын әуендерді таңдаңыз.
+14. **Бірге ән айтыңыз.** Алдымен өзіңіз бастап айтыңыз. Ырıldау немесе тыңдап отыру да жеткілікті.
+15. **Ырғақты ұстаңыз.** Қол соғыңыз, тізеңізді ұрыңыз немесе шағын барабанды ақырын ұрыңыз. Бұл отырғанда да, кеш кезеңде де орындалады.
+16. **Билеңіз.** Ас үйде баяу билеңіз немесе қол ұстасып отырып тербеліңіз.
+17. **Толық альбом тыңдаңыз.** Сүйікті альбомды басынан аяғына дейін кофе ішіп, басқа ештеңемен алаңдамай тыңдаңыз.
+18. **Музыка туралы сөйлесіңіз.** Деректерді емес, әңгімелерді шақырыңыз: «Сіз барған билер туралы айтып беріңізші».
+19. **Түсірілген мюзикл немесе концерт көріңіз.** Ұнатқан қойылым жақсы кеш өткізуге көмектеседі. Кез келген сәтте тоқтатып қойыңыз.
+20. **Таныс аспапта ойнаңыз.** Бұрын пианинода ойнаған адам қарапайым әуендерді ұнатуы мүмкін; кейінірек бірге бірнеше нотаны басу да жарайды.
+21. **Тірі музыканы тыңдаңыз.** Қысқа қоғамдық концерт немесе хор жаттығуы. Шығуға жақын отырыңыз.
 
-## Reminiscence: photos, objects and stories
+## Естеліктер: фотосуреттер, заттар және әңгімелер
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Өткенді бірге рахаттанып еске алыңыз, бірақ тексермеңіз. «Есіңізде ме...?» және «Бұл кім?» деген сұрақтардан аулақ болып, ашық шақыруларды қолданыңыз. [Естеліктермен айналысу](/activities/reminiscence/) бөлімін қараңыз.
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Фотоальбом қараңыз.** Көріп тұрғаныңызды айтыңыз: «Қандай әдемі көйлек. Осы күн туралы айтып беріңізші». Ол қандай есімдерді айтса, соны қабылдаңыз.
+23. **Естелік қорапшасын жасаңыз.** Оның өмірінен заттар салынған аяқ киім қорапшасы, мысалы жұмыс төсбелгісі немесе рецепт картасы. Заттарды бір-бірден шығарыңыз.
+24. **Өмірбаян кітабын бастаңыз.** Әр бетке бірнеше фотосурет және үлкен әріппен жазылған қысқа түсіндірме. Бұл жаңа көмекшілерге адамды тануға көмектеседі.
+25. **Әңгіме карталарын қолданыңыз.** [Conversation cards](/games/conversation-cards/) суретті ашық сұрақпен жұптайды.
+26. **Отбасылық фотоойын жасаңыз.** [Photo pairs](/games/photo-pairs/) өз фотосуреттеріңізді сәйкестендіру ойынына айналдырады.
+27. **Үйдегі бейнелерді немесе ескі телебағдарламаларды көріңіз.** Сұрақ қоюдың орнына бірге пікір білдіріңіз.
+28. **Жұмыс өміріне қатысты заттарды ұстаңыз.** Кілт, стетоскоп, дәптер. Қолдар көбіне әңгімені бастайды.
+29. **Балалық шақтағы тағамды дайындаңыз.** Ол араластыра алады, дәм тата алады немесе ас үйде сізбен бірге отыра алады.
+30. **Ол тұрған жерлердің картасын қараңыз.** Үлкен атласта таныс жолдарды саусағыңызбен көрсетіп, әңгімелесіңіз.
 
-## Creative activities
+## Шығармашылық іс-әрекеттер
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Шығармашылықтың мәні дайын жұмыста емес, жасау үдерісінде. Материалдарды ересек адамға сай әрі қауіпсіз етіп таңдаңыз. [Қолөнер және сурет](/activities/arts-and-crafts/) бөлімін қараңыз.
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Акварельмен сурет салыңыз.** Қалың қағаз және бірнеше түс қолданыңыз. Бастау қиын болса, алғашқы сызықтарды бірге сызыңыз.
+32. **Ересектерге арналған суреттерді бояңыз.** Мультфильмдер емес, гүлдер немесе көрпе өрнектері. Біздің [бояу беттері](/games/coloring/) экранда да, басып шығарғанда да жұмыс істейді.
+33. **Коллаж жасаңыз.** Журналдардан бақ, көлік немесе тағам суреттерін жыртып, желімдеңіз. Кейінірек тек суреттерді таңдау да жеткілікті.
+34. **Гүл шоғын құрастырыңыз.** Дүкеннен алынған гүл шоғы мен құмыра. Кейінірек банкаға бірнеше гүл сабағын қою да болады.
+35. **Бірге тоқымыңыз немесе ілмекпен тоқуды жасаңыз.** Үлкен инелермен қарапайым қатарлар. Кейінірек жіпті шумақтарға орау.
+36. **Отбасы үшін ашықхаттар жасаңыз.** Шынайы адамдарға арналған туған күн немесе хал сұрау ашықхаттарына мөр басыңыз, қол қойыңыз немесе безендіріңіз.
+37. **Ауада қатып қалатын саздан пішін жасаңыз.** Кішкентай ыдыс пішінін басып жасаңыз. Улы емес материалдарды қолданыңыз және қасында болыңыз.
+38. **Ағашты қажап, өңдеңіз.** Алдын ала кесілген құс үйі жинағы мен қажақ қағазды қолданыңыз, электр құралдарын қолданбаңыз. [Ер адамдарға арналған іс-әрекеттер](/activities/for-men/) бөлімін қараңыз.
+39. **Хат жазыңыз немесе айтып беріңіз.** Немересіне немесе ескі досына. Жазу қиын болса, ол айтып берсін, сіз жазып отырыңыз.
 
-## Outdoors and gardening
+## Далада және бақта
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Таза ауа мен күн нұры жақсы серік болады. [Даладағы және бақшадағы іс-әрекеттер](/activities/outdoor-and-gardening/) бөлімін қараңыз.
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Өсімдіктерді суарыңыз.** Кішкентай суарғыш пен бірнеше құмыра. Күнделікті суару күнге ырғақ береді.
+41. **Құмыраға өсімдік отырғызыңыз.** Ешкім тізерлемеуі үшін оны үстелге қойыңыз. Көшеттер тұқымнан оңайырақ.
+42. **Арамшөп жұлыңыз немесе солған гүлдерді алып тастаңыз.** Қолғап киіп, бір уақытта шағын алаңмен айналысыңыз.
+43. **Жапырақ жинаңыз.** Кішкентай аумақты тазартыңыз. Кейінірек қапты ұстап тұру да нақты жұмыс.
+44. **Таныс бағытпен серуендеңіз.** Үй маңында немесе пошта жәшігіне дейін. Қысқарақ болса да жарайды.
+45. **Далада бірге отырыңыз.** Жылы күндері кіреберістегі орындықта. Бұлттарды немесе өтіп бара жатқан адамдарды бақылаңыз.
+46. **Құстарға жем беріңіз.** Құс жемсауытын бірге толтырып, терезе жанынан бақылаңыз.
+47. **Көлікті жуыңыз.** Шелек, ысқыш және жылы күн. Дөңгелек қақпақтарын шаю бір қадамдық жақсы жұмыс болуы мүмкін.
 
-## Sensory activities
+## Сезімдік іс-әрекеттер
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Деменция үдеген сайын жанасу, иіс, дәм, дыбыс және көру сезімдері маңыздырақ бола түседі. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) кейінгі кезеңдер үшін музыка, ұстауға арналған заттар және қолды сипауды атайды. Алдымен аллергия мен тұншығу қаупін тексеріңіз; [сезімдік іс-әрекеттер](/activities/sensory/) бөлімін қараңыз.
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Қолды сипаңыз.** Алдымен рұқсат сұрап, аздап крем қолданыңыз. Тері немесе аллергияға күмән болса, иіссіз крем таңдаңыз.
+49. **Маталарды ұстап көріңіз.** Барқыт, вельвет, жүн және атлас салынған себет. Оларды сипап, бүктеуге болады.
+50. **Шөптер мен кофенің иісін иіскеңіз.** Жаңа жалбызды немесе розмаринді саусақпен уқалаңыз. Тыныс алу қиындықтары болса, өткір иістерден аулақ болыңыз.
+51. **Шашын тараңыз.** Егер ұнатса, баяу әрі жұмсақ етіп.
+52. **Жылы ылғал шүберек беріңіз.** Суық күні қолы мен бетіне. Алдымен температурасын тексеріңіз.
+53. **Іс-әрекет алжапқышын қарастырыңыз.** Үлкен түймелер мен сыдырмалар мықтап тігілген болуы керек. Ештеңе босап кетпейтінін тексеріңіз.
+54. **Сүйікті тәттіден дәм таттырыңыз.** Қауіпсіз жей алатындай құрылымда, аз ғана қасық.
+55. **Табиғат дыбыстарын қосыңыз.** Жаңбыр, толқын немесе құстар үні, дыбысын төмен қойып.
+56. **Баяу нәрсені бақылаңыз.** Аквариум, табиғат бейнесі немесе жауған қар.
 
-## Games and puzzles
+## Ойындар мен жұмбақтар
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Ойындар таймер, ұпай немесе қысым болмаған кезде жақсы өтеді. Егер ойын сынақ сияқты сезіле бастаса, оны жинап қойыңыз. [Қолданбалар мен ойындарды таңдау](/caregiving/choosing-apps-and-games/) және [миға арналған ойындар](/brain-health/brain-games/) бөлімдерін қараңыз.
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Суреттерді сәйкестендіріңіз.** [Picture pairs](/games/picture-pairs/) суреттерді ашық ұстауға мүмкіндік береді, сондықтан бұл есте сақтаудан емес, байқаудан тұрады.
+58. **Бірдей суретті табыңыз.** [Find the same](/games/find-the-same/) екіден төртке дейін таңдау ұсынады. Әр сурет туралы әңгімелесіңіз.
+59. **Себеттерге сұрыптаңыз.** [Sort together](/games/sort-together/) шұлықтарды сұрыптағандай, бірақ экранда.
+60. **Ірі бөлшекті пазл құрастырыңыз.** Ересектерге сай суреттер және оңай бөлшек саны. [Picture puzzle](/games/picture-puzzle/) бүкіл суретті көрініп тұратындай етеді. Толығырақ [деменцияға арналған пазлдар](/activities/puzzles/) бөлімінде.
+61. **Ескі карта ойынын ойнаңыз.** Ол жылдар бойы ойнаған ойынды таңдаңыз. Кейінірек колоданы түсі бойынша сұрыптау да ойын бола алады.
+62. **Домино ойнаңыз.** Ұштарын сәйкестендіріңіз. Кейінірек тастарды қатар қою да жеткілікті.
+63. **Үлкен әріппен жазылған сөзжұмбақты қолданып көріңіз.** Біздің [word search](/games/word-search/) ойынында сөздер тек көлденең және тігінен орналасады және басып шығаруға болады.
+64. **Таныс мақал-мәтелдерді аяқтаңыз.** [Finish the saying](/games/finish-the-saying/) соңын кез келген уақытта көрсетуге мүмкіндік береді.
+65. **Суретті бинго ойнаңыз.** [Picture bingo](/games/picture-bingo/) отбасылар мен топтарға қолайлы. Карталарды белгілеуге еркін көмектесіңіз.
+66. **Дойбы ойнаңыз.** Ережелерді қатаң ұстамаңыз. Әңгімелесе отырып, тастарды жылжыту да жеткілікті.
 
-## Movement
+## Қозғалыс
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA серуендеу, орнында тұрған велосипед, созылу ленталары, жұмсақ допты немесе әуе шарын лақтыру, сорпа банкаларын көтеру және егде жастағыларға арналған жаттығу бейнелерін ұсынады. Жаңа нәрсені бастамас бұрын, әсіресе тепе-теңдік қиындықтары болса, дәрігермен кеңесіңіз.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Әуе шарын лақтырыңыз.** Бір-біріңізге қарама-қарсы отырып. Ол баяу қозғалады, сондықтан ұстау оңай.
+68. **Егде жастағыларға арналған отырықшы жаттығу бейнесін** қасында отырып бірге орындаңыз.
+69. **Лентамен созылыңыз.** Отырып, жеңіл лентамен қолды ақырын тарту.
+70. **Сорпа банкаларын көтеріңіз.** Музыка ырғағымен қолды баяу көтеру.
+71. **Орнында тұрған велосипед тебіңіз.** Қасыңызда бола отырып, бірнеше минут жеңіл қарқынмен.
+72. **Орамалмен билеңіз.** Отырып немесе тұрып, жеңіл орамалдарды музыкамен тербеңіз.
+73. **Мақсатпен серуендеңіз.** Хат салуға немесе кофе алуға. Баратын себебі бар серуен табиғирақ сезіледі.
+74. **Бірге тыныс алу үзілісін жасаңыз.** [calm breathing](/games/calm-breathing/) арқылы бірге баяулаңыз.
 
-## Social activities
+## Әлеуметтік іс-әрекеттер
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Есімдерді есте сақтау қиын болса да, жанашырлық маңызды. Кішкентай топтар үлкендерінен оңайырақ. NIA адамның қонақ кім екенін есіне түсірмесе де, көбіне оның қасында болғаннан ләззат алатынын айтады. [Қонаққа бару](/activities/visiting/) бөлімін қараңыз.
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Бір уақытта бір-екі қонақ қабылдаңыз.** Тыныш бөлмеде қысқа кездесулер өткізіп, қарауға фотосуреттер дайындаңыз.
+76. **Отбасымен бейнеқоңырау шалыңыз.** Қоңыраулар қысқа болсын, бір уақытта бір адам сөйлесін. [Телефон және бейнеқоңыраулар](/activities/phone-and-video-calls/) бөлімін қараңыз.
+77. **Естелік кафесін байқап көріңіз.** Бұл деменциямен өмір сүріп жатқан адамдар мен оларға қамқор болып жүрген адамдарға арналған бейресми кездесу орындары. Жақын жердегі нұсқаны білу үшін жергілікті Area Agency on Aging мекемесінен сұраңыз.
+78. **Тыныш уақытта сыртта тамақтаныңыз.** NIA таныс, тыныш мейрамхананы адам аз уақытта таңдауды және дәретханаға жақын үстел сұрауды ұсынады.
+79. **Егде жастағылар орталығына немесе күндізгі күтім бағдарламасына барыңыз.** Бұл оған орта, ал сізге демалыс береді.
+80. **Балалармен уақыт өткізіңіз.** Немерелермен қысқа, тыныш кездесу немесе кішкентай балаға суретті кітап оқып беру.
+81. **Кофе үстінде газетпен бөлісіңіз.** Тақырыптарды дауыстап оқыңыз. Әдеттің өзі жаңалықтан маңыздырақ.
+82. **Басқа біреуге көмектесіңіз.** Шіркеу бағдарламаларын бүктеңіз немесе көршіге ашықхат жасаңыз.
 
-## Faith and spiritual activities
+## Сенім және рухани іс-әрекеттер
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Адамның өз дәстүріне сүйеніңіз немесе егер дәстүр болмаса, соны құрметтеңіз. NIA таныс ғибадат қызметтерін, оқылымдарды, қасиетті музыканы, дұғаны, медитацияны және мерекелік рәсімдерді ұсынады.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Таныс ғибадатқа қатысыңыз.** Тынышырақ қызметті таңдаңыз, дәлізге жақын отырыңыз және сол жердегі адамдарға деменция туралы айтыңыз.
+84. **Сыртқа шығу қиын күндері ғибадатты онлайн көріңіз.**
+85. **Бірге дұға оқыңыз немесе оқылым жасаңыз.** Таныс сөздерді баяу оқыңыз. Ол білетін жерлерге қосылып кетуі мүмкін.
+86. **Өз дәстүріне тән гимндер немесе қасиетті музыканы айтыңыз.**
+87. **Мерекелік дәстүрлерді сақтаңыз.** Батареямен жұмыс істейтін шамдар, бата беру, әрқашан қолданылған әшекейлер.
+88. **Тыныш уақыт бөлісіңіз.** Бақта отырып немесе бірге күн батқанын көріңіз.
 
-## Pets and animals
+## Үй жануарлары және жан-жануарлар
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA үй жануарын тамақтандыруды, күтіп-баптауды, серуендетуді немесе жанында отырып, қолда ұстауды ұсынады.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Сабырлы итті немесе мысықты тараңыз,** ұзақ әрі баяу қимылдармен.
+90. **Үй жануарын бірге тамақтандырыңыз.** Сіз өлшеңіз; ол құйсын.
+91. **Итті бірге серуендетіңіз.** Шылбырды сіз ұстаңыз.
+92. **Үй жануарын тізеде ұстаңыз.** Жамылғы үстіндегі сабырлы мысық өте тыныштандыра алады.
+93. **Келген жануарларды қарсы алыңыз.** Кейбір күтім үйлері мен күндізгі бағдарламалар жануарлармен кездесулер ұйымдастырады. Жергілікті жерден сұраңыз.
+94. **Шынайы сияқты жұмсақ ойыншық жануар ұсыныңыз.** Егер үй жануары болмаса, кейбір адамдар шынайы сияқты плюш мысық немесе итті ұстағанды ұнатады. Оны жай ғана ұсыныңыз, ойыншық деп емес, және бас тартса, қабылдаңыз.
 
-## Seasonal activities
+## Маусымдық іс-әрекеттер
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Дәстүрлерді сақтаңыз, бірақ қарапайым етіп. NIA қарбалас мерекелерде шынайы жоспар құруды және демалуға арналған тыныш орын дайындауды ұсынады.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Маусымға сай безендіріңіз.** Үстелге асқабақ, гүл шоқ ілгіші немесе жаңа гүлдер қойыңыз.
+96. **Мерекелік тәтті жасаңыз.** Қамырды жайыңыз немесе печеньеге глазурь жағыңыз. Пешті өзіңіз қолданыңыз.
+97. **Әшекейлерді іліңіз.** Сынбайтын ойыншықтарды бір-бірден беріңіз.
+98. **Шамдарды көруге шығыңыз.** Қысқа кешкі көлік сапары тек бірге болуды қажет етеді.
+99. **Көктемгі баданаларды отырғызыңыз.** Күзде баданаларды құмыраға отырғызып, өскіндерін күтіңіз.
+100. **Жүгері собығын тазалаңыз немесе бұршақты ашыңыз.** Жазда кіреберісте тізеде ыдыспен отырып жасалатын жұмыс.
+101. **Мерекелік ашықхаттарға қол қойыңыз.** Ол қол қойсын, марка жапсырсын немесе жабықтасын; мекенжайларды сіз жазыңыз.
 
-## What if an activity is not working?
+## Егер іс-әрекет сәтсіз болса ше?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Тоқтаңыз да, басқа уақытта басқа нәрсені байқап көріңіз. NIA реніш белгілеріне назар аударуды және адам қаласа, жай қарап отырғанына мүмкіндік беруді ұсынады. Бас тарту көбіне тапсырманың тым қиын екенін, уақыттың қолайсыз екенін немесе ауыру, аштық не шу сияқты басқа бір нәрсенің мазалап тұрғанын білдіреді. Оны жеңілдетіңіз, күннің ертерек уақытында қайталап көріңіз немесе өзіңіз бастап, оның қосыла ма екенін көріңіз. [Бас тартқан кезде](/caregiving/when-they-say-no/) және [Кешкі мазасыздық](/caregiving/late-day-restlessness/) бөлімдерін қараңыз.
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Іс-әрекеттерді тамақ пен демалыс арасына қалай орналастыруға болатынын білу үшін [жайлы күн тәртібі](/activities/daily-routine/) бөлімін қараңыз. Дайын ұстауға болатын нәрселер үшін [басып шығаруға болатын іс-әрекеттер](/activities/printable/), ал топ жүргізсеңіз, [күтім үйіндегі топтық іс-әрекеттер](/activities/care-home-groups/) бөлімдерін қараңыз. Өзіңізге де демалыс маңызды: [қамқоршының өзіне күтім жасауы](/caregiving/caregiver-self-care/) бөлімін қараңыз.

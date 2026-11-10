@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Sentumaj aktivaĵoj por homoj kun demenco"
+seoTitle: "Sentumaj aktivaĵoj ĉe demenco: ideoj kaj sekureco"
+description: "Sentumaj aktivaĵoj por homoj, kiuj vivas kun demenco: manfrotado, tukokorbo, naturaj sonoj kaj klaraj sekurecaj notoj pri sufokiĝo, alergioj kaj odoroj."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Sentumaj aktivaĵoj uzas tuŝon, flaron, guston, aŭdon kaj vidon: malrapidan
+  manfrotadon, korbon kun molaj tukoj, freŝajn herbojn por flari, naturajn
+  sonojn aŭ birdorikardadon ĉe fenestro. Ili taŭgas por ĉiu stadio kaj estas
+  precipe valoraj pli poste. Antaŭe kontrolu riskojn de sufokiĝo, alergiojn,
+  haŭtajn problemojn kaj sentemon al odoroj, proponu po unu aferon samtempe,
+  kaj ĉesu, se la persono ŝajnas maltrankvila.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Sentumaj aktivaĵoj ne bezonas ĝustajn respondojn, do ili taŭgas en ĉiu stadio, ankaŭ en lito aŭ seĝo."
+  - "Proponu po unu senson samtempe en trankvila ĉambro, kaj petu permeson aŭ anoncinte antaŭ ol tuŝi."
+  - "Evitu malgrandajn objektojn kaj ĉion, kio aspektas aŭ odoras kiel manĝaĵo sed ne estas, ĉar homoj povas meti aferojn en la buŝon."
+  - "Antaŭ ol uzi haŭtkremojn, odorojn aŭ manĝaĵojn, kontrolu alergiojn, haŭtajn problemojn kaj spirajn malfacilaĵojn."
+  - "Ne estas konvinka pruvaro, ke aromterapio helpas pri simptomoj de demenco; uzu odorojn nur por simpla ĝuo, se entute."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Kiuj estas bonaj sentumaj aktivaĵoj por iu kun demenco?"
+    a: "Simplaj ideoj estas malrapida manfrotado per haŭtkremo, tuŝado de molaj tukoj, flarado de freŝaj herboj aŭ kafo, aŭskultado de amata muziko aŭ naturaj sonoj, rigardado de birdoj aŭ fiŝujo, kaj gustumado de amata manĝaĵo en sekura konsisto. Proponu po unu aferon samtempe kaj observu, kiel la persono reagas."
+  - q: "Ĉu sentumaj aktivaĵoj estas sekuraj por iu, kiu metas aferojn en la buŝon?"
+    a: "Ili povas esti sekuraj, se vi zorgas. Uzu nur grandajn objektojn, kiujn oni ne povas engluti, evitu ĉion malgrandan aŭ rompeblan, kaj post la aktivaĵo tenu haŭtkremojn, sapojn kaj odorajn produktojn ekster atingon, ĉar ili povas aspekti aŭ odori kiel manĝaĵo. Restu kun la persono dum la tuta tempo."
+  - q: "Ĉu aromterapio helpas ĉe demenco?"
+    a: "Revizio de Cochrane ne trovis konvinkan pruvon, ke aromterapio helpas homojn kun demenco, kvankam la studoj estis malgrandaj kaj nekonsekvencaj. Se al la persono plaĉas milda, konata odoro, tio estas en ordo, sed evitu fortajn esencajn oleojn, precipe ĉe spiraj problemoj aŭ alergioj."
+  - q: "Kio estas movetema aŭ aktiva antaŭtuko?"
+    a: "Ĝi estas peco da ŝtofo, antaŭtuko aŭ surtuka kovrilo kun firme kudritaj aferoj por tuŝi, ekzemple grandaj butonoj, zipiloj, rubandoj kaj teksturaj pecoj. Ĝi donas al okupataj manoj ion por esplori. Kontrolu ĝin ofte, ĉu io malfiksiĝis kaj povus esti fortirita."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Sentumaj aktivaĵoj uzas la kvin sensojn: tuŝon, flaron, guston, aŭdon kaj vidon. Ili ne bezonas memoron, paŝojn nek ĝustajn respondojn, do ili povas taŭgi en ajna stadio. Ili plej gravas pli poste. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) rimarkas, ke en la malfrua stadio la mondo estas spertata ĉefe per la sensoj, kaj ke vi povas montri zorgon per tuŝo, sono, vido, gusto kaj flaro. Kelkaj sekurecaj kontroloj povas fari ĉi tiujn aktivaĵojn trankvilaj por ĉiuj.
 
-## What are sensory activities for dementia?
+## Kio estas sentumaj aktivaĵoj ĉe demenco?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Sentumaj aktivaĵoj estas simplaj spertoj, kiuj koncentriĝas pri po unu senso samtempe, ekzemple palpi tukon, flari herbojn aŭ aŭskulti pluvon. La [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) diras, ke aktivaĵoj en pli posta stadio ofte devas koncentriĝi pri la sensoj, kaj mencias muzikon, objektojn por tuŝi kaj teni, kaj manfrotadon. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) rimarkas, ke homoj en la malfrua stadio povas forte bezoni teni ion proksime por komforto.
 
-## Sensory ideas, sense by sense
+## Sentumaj ideoj, laŭ ĉiu senso
 
-### Touch
+### Tuŝo
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Manfrotado.** Varmigu iom da haŭtkremo en viaj manoj kaj milde karesu de la pojno ĝis la fingropintoj. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mencias masaĝon per senodora haŭtkremo por komforto.
+- **Tukokorbo.** Grandaj pecoj de veluro, kordurojo, fliso, sateno kaj lano por karesi, faldi kaj priparoli.
+- **Varma lavtuko.** Varma, humida tuko por la manoj en malvarma tago. Antaŭe provu la temperaturon sur via propra pojno.
+- **Aktiva antaŭtuko aŭ surtuka kovrilo.** Grandaj butonoj, zipiloj, rubandoj kaj teksturaj pecoj firme kudritaj.
+- **Faldado kaj glatigado.** Korbo kun puraj lavtukoj aŭ buŝtukoj por faldi, stakigi kaj refaldi.
+- **Io mola por teni.** Flisa kovrilo, kuseno aŭ realisma mola besto, proponita simple, neniam kiel ludilo.
 
-### Smell
+### Flaro
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Freŝaj herboj.** Frotu foliojn de mento, rosmareno, bazilio aŭ lavendo inter viaj fingroj kaj tenu ilin proksime.
+- **Kuirejaj odoroj.** Kuiranta kafo, rostiĝanta pano, cinamo aŭ oranĝo, kiun oni senŝeligas proksime.
+- **Floroj.** Alportu kelkajn freŝajn florojn el la ĝardeno aŭ vendejo.
+- **Konata produkto.** La sapo aŭ haŭtkremo, kiun la persono ĉiam uzis, se la haŭto ĝin toleras.
 
-### Taste
+### Gusto
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Amata gusto.** Malgranda kulero da io, kion la persono amas, ekzemple pomsuko, pudingo aŭ glaciaĵo, en konsisto, kiun la persono povas sekure preni.
+- **Helpo ĉe bakado.** Gustumado de frukto aŭ iom da glazuro, dum vi bakas kune.
+- **Sezonaj manĝetoj.** Akvomelono somere, varma pomtrinkaĵo aŭtune, servita je sekura temperaturo.
 
-### Sound
+### Aŭdo
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Amata muziko.** Konataj kantoj je milda laŭteco; vidu [muzikajn aktivaĵojn](/activities/music/).
+- **Naturaj sonoj.** Pluvo, ondoj aŭ birdokanto. La NIA rimarkas, ke muziko, blanka bruo kaj naturaj sonoj ŝajne trankviligas iujn homojn.
+- **Via voĉo.** Laŭtlegado, zumado aŭ rakontado de historio.
+- **Simplaj instrumentoj.** Mantamburo, skuileto aŭ sonorileto por ludi kune kun muziko.
 
-### Sight
+### Vido
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Rigardado tra fenestro.** Birdomanĝejo ekster la fenestro, infanoj irantaj hejmen aŭ falanta neĝo.
+- **Fiŝujo aŭ trankvila filmeto.** Milda movado sen laŭta sono.
+- **Grandaj fotoj.** Po unu klara bildo samtempe, tenata je okula nivelo.
+- **Koloro kaj desegno.** Ordigo de helkoloraj ŝtofpecoj, floroj aŭ koloraj buŝtukoj, aŭ simpla kolorigpaĝo el nia aro [kolorigo](/games/coloring/).
+- **Ekstere.** La NHS sugestas sensajn ĝardenojn kun odoraj plantoj, teksturoj kaj akvoelementoj. Vidu [eksterajn kaj ĝardenajn aktivaĵojn](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Kiel fari sentuman skatolon
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Elektu temon** ligitan al la vivo de la persono: la plaĝo, la ĝardeno, la kuirejo, la laborejo, kudrado.
+2. **Elektu kvin aŭ ses grandajn, sekurajn objektojn,** ekzemple grandan konkon, lignan kulereon, molan tukon, saketon da sekigita lavendo firme kudritan, aŭ glatan lignan blokon.
+3. **Kontrolu ĉiun objekton** pri malgrandaj partoj, akraj randoj, malfiksaj fadenoj kaj io rompebla.
+4. **Prenu po unu objekton samtempe.** Donu ĝin, priskribu ĝin kaj lasu la personon esplori.
+5. **Poste formetu la skatolon**, por ke ĝi restu speciala kaj por ke la objektoj estu denove kontrolitaj antaŭ la sekva fojo.
 
-## Safety first
+## Sekureco unue
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Sentumaj aktivaĵoj estas mildaj, sed kelkaj riskoj gravas. Iuj homoj, kiuj vivas kun demenco, povas miskompreni nemanĝaĵojn kiel manĝaĵon, kaj glutado povas fariĝi pli malfacila kun la tempo; la NIA avertas, ke glutaj problemoj en la malfrua stadio pliigas la riskon de sufokiĝo.
 
-| Risk | What to do |
+| Risko | Kion fari |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Sufokiĝo | Uzu nur objektojn tro grandajn por engluti. Ne metu butonojn, bidojn, monerojn, globetojn aŭ malgrandajn ludilojn loze en skatolon. Proponu manĝaĵon nur en konsistoj, kiujn la prizorga teamo taksas sekuraj. |
+| Aferoj, kiuj aspektas kiel manĝaĵo | La NIA konsilas ŝlosi haŭtkremojn, sapojn, ŝampuojn kaj parfumojn, kiuj povas aspekti aŭ odori kiel manĝaĵo, kaj forigi artefaritajn fruktojn. Post uzo formetu sentumajn produktojn. |
+| Alergioj | Antaŭ ol komenci, kontrolu alergiojn al nuksoj, latekso, lano, plantoj aŭ odoroj. |
+| Fortaj odoroj | Evitu fortajn parfumojn kaj esencajn oleojn, precipe ĉe astmo aŭ aliaj spiraj problemoj. Mildaj, naturaj odoroj estas pli sekuraj. |
+| Haŭto | Antaŭ masaĝo kontrolu, ĉu estas vundita, rompita aŭ delikata haŭto. Uzu mildan premon kaj ĉesu, se la persono grimacas. |
+| Temperaturo | Antaŭe provu varmajn tukojn kaj trinkaĵojn sur via propra pojno. |
+| Akraj aŭ toksaj objektoj | Neniu akra ilo, vitro aŭ toksaj metiaj materialoj. |
 
-## Does aromatherapy help?
+## Ĉu aromterapio helpas?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Verŝajne ne en mezurebla maniero. [Revizio de Cochrane pri aromterapio ĉe demenco](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ekzamenis 13 studojn kun 708 homoj, ĉiuj en prizorgaj hejmoj, kaj trovis neniun konvinkan pruvon pri utilo. La studoj estis malgrandaj, la rezultoj malsamis, kaj kromefikoj estis malbone raportitaj. Se al la persono plaĉas milda, konata odoro, ekzemple lavendo el la ĝardeno, tio estas bona kialo por dividi ĝin. Ĝi ne estas traktado.
 
-## How to offer a sensory activity
+## Kiel proponi sentuman aktivaĵon
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Elektu trankvilan momenton** kaj malŝaltu la televidilon.
+- **Alproksimiĝu de antaŭe,** diru la nomon de la persono, kaj petu aŭ diru antaŭ ol vi tuŝas: „Mi havas iom da haŭtkremo. Ĉu vi ŝatus manfrotadon?”
+- **Proponu po unu aferon samtempe**, por ke ĝi ne superŝutu.
+- **Observu la reagon.** Pli milda vizaĝo, malstreĉitaj manoj aŭ rideto estas bonaj signoj. Fortiriĝo, sulkigita frunto aŭ maltrankvilo signifas, ke vi ĉesu.
+- **Tenu ĝin mallonga.** Kvin trankvilaj minutoj estas bona sesio.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Malrapida komuna spirpaŭzo, kiel [trankvila spirado](/games/calm-breathing/), povas esti milda maniero fini. Por pliaj ideoj apud la lito, vidu [aktivaĵojn por pli posta stadio](/activities/late-stage/), kaj por vespera maltrankvilo, vidu [maltrankvilon en malfrua tago](/caregiving/late-day-restlessness/).

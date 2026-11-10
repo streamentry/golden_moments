@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Aktiviteiten by lette demintens, ek yn bêd of in stoel"
+seoTitle: "Aktiviteiten by lette demintens: bêd en stoel"
+description: "Sêfte aktiviteiten by lette demintens, ek foar immen yn bêd of in stoel: muzyk, oanrekking, foarlêze, lûden en gewoan byinoar wêze, mei feilichheidstips."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  By lette demintens draaie aktiviteiten om de sintugen en om jo bywêzen:
+  favorite muzyk ôfspylje, hannen fêsthâlde, in rêstige hânmassaazje,
+  foarlêze, nei foto’s sjen, natuerlûden en by it finster of bûten sitten.
+  Dit kin yn bêd of in stoel. Hâld de mominten koart, sjoch nei it gesicht
+  en de hannen oft immen him wol fielt, en tink derom dat byinoar wêze sels
+  al in aktiviteit is.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Kontakt is noch altyd mooglik. Yn de lette faze wurdt de wrâld foaral troch de sintugen belibbe."
+  - "Muzyk, sêfte oanrekking, bekende stimmen en sêfte dingen om fêst te hâlden berikke faak minsken wannear’t wurden net mear helpe."
+  - "Hast elk idee hjir kin foar immen yn bêd of in stoel."
+  - "Sjoch nei wolwêzen en ûngemak yn it gesicht, de hannen en de sykheljen, en stopje by elk teken fan need."
+  - "Mij lytse dingen en jou iten of drinken allinnich sa’t it soarchteam oanrikkemandearret, om’t slikken ûnfeilich wurde kin."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Hokker aktiviteiten kinne jo dwaan mei immen mei lette demintens dy't yn bêd leit?"
+    a: "Spylje favorite muzyk, hâld de hân fêst, jou in rêstige hânmassaazje mei lotion, lês foar út in boek of gebed dat de persoan leuk fynt, lit foto’s sjen of spylje sêfte natuerlûden. Doch de gerdinen iepen, sadat de persoan nei bûten sjen kin. Koarte, rêstige mominten mei ien ding tagelyk wurkje meastentiids it bêste."
+  - q: "Kinne minsken mei lette demintens noch genietsje fan muzyk?"
+    a: "In protte minsken kinne dat. De Alzheimer’s Association neamt dat immen yn de lette faze miskien noch op de maat tikke kin of mei in ferske út de bernetiid meisjonge kin. Kies muzyk dêr’t de persoan yn jongere jierren fan hold en hâld it folume sêft."
+  - q: "Hoe wit ik oft de persoan nocht hat oan in aktiviteit?"
+    a: "Let op lytse sinjalen: ûntspannen skouders, in rêstiger gesicht, eachkontakt, gûlen, in hânknyp of stadiger sykheljen. In ferstrûpt gesicht, weglûke, ûnrêst of kreunen kin wize op ûngemak of pine. As jo dat sjogge, stopje dan en lit it witte oan it soarchteam as it oanhâldt."
+  - q: "Hat it besite noch sin as de persoan my net mear herkent?"
+    a: "Ja. It National Institute on Aging neamt dat gewoan byinoar wêze kalmerend wêze kin, en dat oanrekking, muzyk en ferhalen yn avansearre demintens noch treast biede kinne. Jo stim en jo oanrekking kinne bekend fiele, sels as jo namme dat net mear docht."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Yn de lette faze fan demintens praat in persoan miskien hiel bytsje, hat by alle deistige soarch help nedich en bringt in grut part fan de dei yn bêd of in stoel troch. It kin fiele as soe der neat mear wêze om tegearre te dwaan. Dat is der wol. De [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) neamt dat in diel fan wa’t immen is noch oanwêzich wêze kin, en dat de wrâld yn dizze faze foaral troch de sintugen belibbe wurdt. Muzyk, oanrekking, in bekende stim en jo rêstige bywêzen kinne noch treast en mominten fan kontakt bringe.
 
-## What activities help in late-stage dementia?
+## Hokker aktiviteiten helpe by lette demintens?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Ienfâldige sintúchlike aktiviteiten en rêstich byinoar wêze helpe yn de lette faze it meast. De Alzheimer’s Association rikkemandearret om favorite muzyk te spyljen, stikjes út betsjuttingsfolle boeken foar te lêzen, lotion mei in favorite geur yn de hûd te wrijven en op in moaie dei tegearre bûten te sitten. It [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) foeget dêr ferhalen fertelle, foto’s sjen litte, sêfte oanrekking of massaazje en muzyk, wite rûs of natuerlûden oan, en seit dat jo bywêzen allinnich al kalmerend wêze kin.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+De [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) neamt dat minsken yn de lette faze faak in sterke need hawwe om wat tichtby te hâlden foar treast, en rikkemandearret ienfâldige sintúchlike aktiviteiten, sêfte stretchoefeningen, beweging mei in sjaal, muzyk, besite fan bisten, minsklike oanrekking en frije foarm fan keunst oan.
 
-## Activities for someone in bed or a chair
+## Aktiviteiten foar immen yn bêd of in stoel
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Spylje muzyk.** Kies ferskes út de jierren as jongfolwoeksene, út it leauwen of út de famylje. Hâld it folume sêft en sit tichtby. Ek no tikke guon noch mei in finger of gûle se mei. Sjoch ek [muzykaktiviteiten](/activities/music/).
+2. **Hâld de hân fêst.** Gewoan in hân fêsthâlde, mei in sêfte beweging fan de tomme, is in aktiviteit. Fertel earst wat jo dogge.
+3. **Jou in rêstige hânmassaazje.** Waarm in bytsje lotion yn jo hannen op en stryk fan de pols nei de fingertoppen. Kies lotion sûnder geur, of in geur dêr’t de persoan altyd fan hold as de hûd dat ferdraget.
+4. **Lês foar.** In favorite gedicht, in stik út in leaf boek, in gebed of de sportside. It ritme fan jo stim docht mear ta as de wurden.
+5. **Fertel in ferhaal.** Praat oer in famyljereis of oer de dei dat de persoan troude. Jo hawwe gjin antwurden nedich.
+6. **Lit foto’s sjen.** Hâld ien grutte foto tagelyk op eachhichte en beskriuw dy waarm. Freegje net wa’t der op stiet.
+7. **Jou wat sêfts om fêst te hâlden.** In opfold waskdoek, in fleece lapke of in sêft knuffelbist. It NIA rikkemandearret oan om immen in waskdoek te jaan wylst de persoan ferpleatst wurdt, sadat der minder gau nei jo of it meubels gript wurdt.
+8. **Spylje natuerlûden.** Rein, weagen of fûgelsang op leech folume kinne in drokke keamer rêstiger meitsje.
+9. **Bring it bûten binnen.** Doch de gerdinen iepen, set in fûgelfiederkast bûten it finster, of nim in pear frisse blommen of blêden mei nei binnen om nei te sjen en oan te reitsjen.
+10. **Gean nei bûten.** As de persoan yn in rolstoel sitte kin, kinne in pear minuten yn de skaad op in mylde dei hiel moai wêze.
+11. **Boarstel it hier of bied in waarme doek oan.** Stadich, sêft fersoargjen en in waarme waskdoek foar hannen en gesicht kin soarchsume fiele.
+12. **Beweegje sêft op muzyk.** Waei tegearre mei in lichte sjaal, of beweegje de hannen op de maat fan in ferske. Freegje foar stretchoefeningen en gewrichtenbeweging earst in fysioterapeut of ferpleechkundige om feilige manieren te sjen te litten.
+13. **Meitsje frije keunst.** Stryk net-giftige ferve mei in spons of in hân út op grut papier, mei jo hân as begelieding. Der is gjin goed resultaat.
+14. **Lit bisten op besite komme.** In rêstich húsdier op it bêd of op de skonk, as de persoan fan bisten hold en de omjouwing dat talit.
+15. **Sykhelje stadich tegearre.** Sit tichtby en sykhelje stadich en hearber. [Rêstich sykheljen](/games/calm-breathing/) kin it tempo foar jimme beide oanjaan, en jo begjinne en stopje it sels.
+16. **Wês gewoan der.** Sit der by, gûl, breidzje of lês stil. Jo bywêzen is genôch.
 
-## How to share an activity at this stage
+## Hoe dielje jo in aktiviteit yn dizze faze
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Kom fan foaren.** Sis de namme fan de persoan en jo namme, en praat stadich en sêft foardat jo oanreitsje.
+- **Bied ien ding tagelyk oan.** Doch de televyzje út foardat jo muzyk spylje. Doch ien sintúch tagelyk.
+- **Hâld it koart.** In pear minuten kinne genôch wêze. Ferskate koarte mominten oer de dei binne better as ien lange sesje.
+- **Soargje earst foar gemak.** Gean nei oft de persoan goed stipe wurdt. It NIA rikkemandearret in skonkboerd oan om de earms op te rêstjen en it boppeliif te stypjen by oerein sitten.
+- **Sjoch nei de reaksje.** Untspannen hannen, in rêstiger gesicht, eachkontakt of gûlen kinne wize op wolwêzen. It NIA neamt dat kreunen, in ferstrûpt gesicht, in diel fan it lichem beskermje of hommels ûnrêstich wurde sinjalen fan pine wêze kinne. Stopje en lit it witte oan it soarchteam.
 
-## A quick guide by sense
+## In flugge gids per sintúch
 
-| Sense | Ideas | Take care |
+| Sintúch | Ideeën | Let op |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Harkjen | Favorite muzyk, jo stim by it foarlêzen, natuerlûden | Hâld it folume leech; ien lûd tagelyk |
+| Oanrekking | Hânmassaazje, hannen fêsthâlde, sêfte stof, waarme doek | Freegje of fertel it earst; gean nei oft de hûd net sear of iepen is |
+| Sjen | Foto’s, blommen, it útsjoch út it finster, in stadige natuerfideo | Hâld dingen op eachhichte; goed ljocht, sûnder skynsel |
+| Rûke | In favorite lotion, frisse blommen, kofje dat tichtby set wurdt | Mij sterke geuren; tink oan allergyen en sykheljen |
+| Smaak | In lyts bytsje fan in favorite smaak | Allinnich iten en tekstueren dêr’t it soarchteam seit dat se feilich binne |
 
-## Safety at this stage
+## Feilichheid yn dizze faze
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Slikken kin yn de lette faze dreger wurde, en it NIA warskôget dat dit de kâns op ferslikken fergruttet. Lit gjin lytse dingen binnen berik lizze en bied iten of drinken allinnich oan yn de tekstueren en hâldingen dy't it soarchteam oanrikkemandearret. Sjoch sêft nei de hûd by oanrekkingsaktiviteiten, om’t de hûd maklik skûre of blauwe plekjes krije kin. Lês mear oer feilige sintúchlike ideeën op [sintúchlike aktiviteiten](/activities/sensory/).
 
-## Looking after yourself too
+## Soargje ek goed foar josels
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Soarchje yn de lette faze is fysyk en emosjoneel swier, thús of by besites oan in soarchhûs. Hospys- en palliatyf soarchteams kinne helpe mei wolwêzen, stipe en planning, en it NIA neamt se as boarne fan help. Koarte, rêstige besites binne de muoite wurdich; sjoch [op besite by immen mei demintens](/activities/visiting/). As jo groepen begeliede, hat [groepaktiviteiten yn in soarchhûs](/activities/care-home-groups/) ideeën om mominten oan te passen. En lês ek [selssoarch foar minsken dy't soargje](/caregiving/caregiver-self-care/): rêst is in diel fan goed soargjen.

@@ -1,33 +1,34 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND և միջերկրածովյան սննդակարգերն ու դեմենցիան"
+seoTitle: "MIND սննդակարգ և դեմենցիա. ինչ գիտենք"
+description: "Ինչ են ասում հետազոտությունները MIND և միջերկրածովյան սննդակարգերի մասին, ինչու մի խոշոր փորձարկում հստակ օգուտ չգտավ, և ինչպես օգնել դեմենցիա ունեցող մարդուն լավ սնվել։"
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Մարդկանց ժամանակի ընթացքում հետևող որոշ հետազոտություններ կապ են տեսնում
+  միջերկրածովյան ոճի և MIND սննդակարգերի ու դեմենցիայի ավելի ցածր
+  հավանականության միջև, բայց ոչ միշտ։ MIND սննդակարգի վերաբերյալ 2023 թվականին
+  հրապարակված եռամյա պատահականացված փորձարկումը մտավոր կարողությունների կամ ուղեղի
+  հետազոտությունների հստակ տարբերություն չգտավ հսկիչ սննդակարգի համեմատ։ Ոչ մի
+  սնունդ կամ հավելում ապացուցված չէ, որ կանխում է դեմենցիան։ Դեմենցիա ունեցող
+  մարդկանց համար ամենակարևորը հաճախ բավարար չափով ուտելն ու խմելն է։
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Ժամանակի ընթացքում մարդկանց հետևող որոշ, բայց ոչ բոլոր հետազոտություններ կապ են տեսնում միջերկրածովյան և MIND սննդակարգերի ու դեմենցիայի ավելի ցածր հավանականության միջև։"
+  - "604 մեծահասակների մասնակցությամբ 2023 թվականի փորձարկման մեջ MIND սննդակարգ հետևողները երեք տարի անց մտավոր թեստերում կամ ուղեղի հետազոտություններում ավելի լավ արդյունք չունեցան, քան հսկիչ սննդակարգ հետևողները։"
+  - "National Institute on Aging-ը նշում է, որ չկա ապացույց, թե որոշակի սնունդ ուտելը կամ դրանից խուսափելը կարող է կանխել Ալցհայմերի հիվանդությունը, և ոչ մի վիտամին կամ հավելում ապացուցված չէ, որ կանխում է այն։"
+  - "Բանջարեղենով, մրգով, հատիկաընդեղենով, ամբողջական հացահատիկով և ձկով հարուստ սննդակարգը աջակցում է սրտի առողջությանը և կարող է օգնել այնպիսի գործոնների դեպքում, ինչպիսիք են բարձր զարկերակային ճնշումը և շաքարային դիաբետը։"
+  - "Դեմենցիա ունեցող մարդկանց համար մատներով ուտելու հարմար սնունդը, գունային հակադրությամբ ափսեները, հանգիստ սննդի պահերը և կանոնավոր խմելը հաճախ ավելի կարևոր են, քան որևէ կոնկրետ սննդակարգ։"
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Արդյո՞ք MIND սննդակարգը կանխում է դեմենցիան։"
+    a: "Դա ապացուցված չէ։ Մարդկանց հետևող հետազոտությունները MIND սննդակարգը կապել են ավելի ցածր հավանականության հետ, բայց 2023 թվականին հրապարակված եռամյա պատահականացված փորձարկումը մտավոր թեստերի արդյունքների կամ ուղեղի հետազոտությունների զգալի տարբերություն չգտավ MIND սննդակարգ հետևողների և հսկիչ սննդակարգ հետևողների միջև։ Երկու խմբերն էլ փոքր-ինչ բարելավեցին արդյունքները և մոտավորապես նույնքան քաշ կորցրին։"
+  - q: "Ինչո՞վ է MIND սննդակարգը տարբերվում միջերկրածովյան սննդակարգից։"
+    a: "Միջերկրածովյան սննդակարգը շեշտը դնում է բանջարեղենի, մրգի, ամբողջական հացահատիկի, հատիկաընդեղենի, ձկան և ձիթապտղի յուղի վրա, իսկ կարմիր միսն ու քաղցրավենիքը սահմանափակում է։ MIND սննդակարգը այն համադրում է զարկերակային ճնշման համար նախատեսված DASH սննդակարգի հետ և հավելյալ շեշտադրում է կանաչ տերևավոր բանջարեղենն ու հատապտուղները, միաժամանակ սահմանափակելով կարմիր միսը, քաղցրավենիքը, պանիրը, կարագը և տապակած սնունդը։"
+  - q: "Կա՞ն սնունդ կամ հավելումներ, որոնք կանխում են Ալցհայմերի հիվանդությունը։"
+    a: "Ոչ։ National Institute on Aging-ը նշում է, որ չկա ապացույց, թե որոշակի սնունդ ուտելը կամ դրանից խուսափելը կարող է կանխել Ալցհայմերի հիվանդությունը կամ տարիքին կապված մտավոր կարողությունների անկումը, և ոչ մի վիտամին կամ հավելում ապացուցված չէ, որ կանխում է Ալցհայմերի հիվանդությունը։ Հավելումներ ընդունելուց առաջ խորհրդակցեք բժշկի հետ։"
+  - q: "Ո՞ր սնունդն է ավելի հեշտ ուտել դեմենցիա ունեցող մարդու համար։"
+    a: "Փոքր կտորներով, մատներով ուտելու հարմար սնունդը, օրինակ՝ սենդվիչի կտորները, հավի կտորները, նարնջի բաժինները կամ շոգեխաշած բանջարեղենի կտորները, հաճախ ավելի հեշտ են, քան դանակ-պատառաքաղ օգտագործելը։ Եթե ծամելը կամ կուլ տալը դժվար է, կարող են օգնել փափուկ սնունդները, օրինակ՝ խառնած ձուն, խնձորի խյուսը կամ կաթնաշոռը։ Եթե ուտելիս առաջանում է հազ կամ շնչահեղձություն, բժշկին հարցրեք կլման գնահատման մասին։"
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +59,90 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Հնարավոր է՝ դուք կարդացել եք, որ «ուղեղի համար օգտակար» սննդակարգը կարող է հեռու պահել Ալցհայմերի հիվանդությունը։ Իրական պատկերը ավելի զուսպ է։ Ժամանակի ընթացքում մարդկանց հետևող որոշ հետազոտություններում սննդի որոշ ձևեր կապվում են ավելի ցածր հավանականության հետ, բայց մինչ այժմ ամենահուսալի փորձարկումը հստակ օգուտ չի գտել։ Այս էջը բացատրում է երկուսն էլ, ապա անդրադառնում է նրան, ինչ սովորաբար ամենակարևորն է արդեն դեմենցիա ունեցող մարդու համար. բավարար չափով ուտելն ու խմելը, և դրանից հաճույք ստանալը։
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Սա ընդհանուր տեղեկություն է, ոչ թե բժշկական խորհուրդ։ Նախքան ձեր կամ ուրիշի սննդակարգը փոխելը խորհրդակցեք բժշկի կամ գրանցված դիետոլոգի հետ։ Տեսեք մեր [բժշկական հրաժարագիրը](/medical-disclaimer/)։
 
-## What are the Mediterranean and MIND diets?
+## Ի՞նչ են միջերկրածովյան և MIND սննդակարգերը
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging-ը (NIA) դրանք նկարագրում է այսպես
+([NIA-ն սննդակարգի և Ալցհայմերի հիվանդության մասին](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease))։
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Միջերկրածովյան սննդակարգ.** շատ մրգեր, բանջարեղեն, ամբողջական հացահատիկ, հատիկաընդեղեն, ձուկ և ծովամթերք, ինչպես նաև ձիթապտղի յուղ, իսկ կարմիր միսը, ձուն և քաղցրավենիքը՝ քիչ քանակությամբ։
+- **MIND սննդակարգ** (Mediterranean–DASH Intervention for Neurodegenerative Delay). միջերկրածովյան սննդակարգի և զարկերակային ճնշման համար նախատեսված DASH սննդակարգի համադրություն։ Այն առանձնացնում է բանջարեղենը, հատկապես կանաչ տերևավորը, հատապտուղները, ամբողջական հացահատիկը, հատիկաընդեղենը, ընկույզը, շաբաթը գոնե մեկ անգամ ձուկը և ձիթապտղի յուղը։ Այն սահմանափակում է կարմիր միսը, քաղցրավենիքը, պանիրը, կարագը կամ մարգարինը, ինչպես նաև տապակած կամ արագ սնունդը։
 
-## Do these diets lower dementia risk?
+## Արդյո՞ք այս սննդակարգերը նվազեցնում են դեմենցիայի հավանականությունը
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Ապացույցները միանշանակ չեն։ NIA-ն նշում է, որ մարդկանց հետևող որոշ, բայց ոչ բոլոր հետազոտություններում միջերկրածովյան և MIND սննդակարգերը կապվել են դեմենցիայի ավելի ցածր հավանականության հետ՝ համեմատած արևմտյան ոճի սննդակարգի հետ, որտեղ ավելի շատ են կարմիր միսը, հագեցած ճարպերը և շաքարը։
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024 թվականի Lancet հանձնաժողովը ավելի մանրամասն դիտարկել է հետազոտությունները
+([Lancet հանձնաժողով](https://doi.org/10.1016/S0140-6736(24)01296-0))։
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Կոհորտային հետազոտությունների մեկ վերլուծություն սննդակարգի բարձր որակը կապել է դեմենցիայի մոտ 20% ավելի ցածր հավանականության հետ։
+- Երեք կոհորտների ավելի մեծ վերլուծություն MIND սննդակարգին ավելի մոտ հետևելը կապել է ավելի ցածր հավանականության հետ։
+- Բայց Շվեդիայում անցկացված մի հետազոտություն, որը մոտ 20 տարի հետևել է 28,025 միջին տարիքի մարդկանց, ոչ խորհուրդ տրվող սննդակարգերի, ոչ էլ միջերկրածովյան ոճի սննդակարգի դեպքում ավելի ցածր հավանականություն չի գտել։
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Մարդկանց հետևող հետազոտությունները չեն կարող ապացուցել պատճառահետևանքային կապ։ Այսպես սնվող մարդիկ հաճախ տարբերվում են նաև այլ առումներով, օրինակ՝ եկամտով, կրթությամբ, շարժունությամբ և առողջապահական ծառայությունների հասանելիությամբ։ Հանձնաժողովը եզրակացրել է, որ բավարար ապացույց չկա ասելու, թե առողջ սննդակարգերն ուղղակիորեն կանխում են դեմենցիան, թեև շատ մրգեր և բանջարեղեն ուտելը և գերմշակված սնունդը սահմանափակելը օգտակար է առողջական շատ վիճակների համար և ազդում է այնպիսի գործոնների վրա, ինչպիսիք են ավելորդ քաշը, շաքարային դիաբետը և բարձր զարկերակային ճնշումը։ Այն սննդակարգը չավելացրեց իր [14 ռիսկի գործոնների](/brain-health/risk-factors/) ցանկին։
 
-## What did the 2023 MIND diet trial find?
+## Ի՞նչ պարզեց MIND սննդակարգի 2023 թվականի փորձարկումը
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Մինչ այժմ ամենահուսալի ստուգումը 2023 թվականին New England Journal of Medicine-ում հրապարակված պատահականացված փորձարկումն էր
+([MIND սննդակարգի փորձարկում](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/))։
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Ովքեր.** Չիկագոյի և Բոստոնի շրջաններից 604 մեծահասակ՝ 65 տարեկան և բարձր, առանց մտավոր խնդիրների, ովքեր ունեին դեմենցիա ունեցող մերձավոր ազգական, ավելորդ քաշ և սկզբում ավելի քիչ առողջ սննդակարգ։
+- **Ինչ էր արվում.** երեք տարվա ընթացքում կեսը հետևում էր MIND սննդակարգին, իսկ մյուս կեսը՝ իր սովորական սննդակարգին։ Երկու խմբերին էլ խնդրել էին օրական մոտ 250 կալորիայով քիչ ուտել, և նրանք կանոնավոր խորհրդատվություն էին ստանում գրանցված դիետոլոգներից։
+- **Արդյունքը.** մտավոր թեստերի արդյունքները փոքր-ինչ բարելավվեցին **երկու** խմբերում էլ։ Խմբերի միջև տարբերությունը փոքր էր և **վիճակագրորեն նշանակալի չէր**։ Ուղեղի հետազոտությունները նույնպես երկու խմբերում ցույց տվեցին նման փոփոխություններ։
+- **Քաշը.** երկու խմբերն էլ կորցրին մոտ 5 կիլոգրամ։
 
-### Why might the trial have found no difference?
+### Ինչո՞ւ փորձարկումը տարբերություն չգտավ
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Հետազոտողները մի քանի պատճառ առաջարկեցին։ Հսկիչ խումբը, հավանաբար, նույնպես բարելավեց իր սննդակարգը, քանի որ կորցրեց մոտավորապես նույնքան քաշ։ Թեստերի կրկնությունը ինքնին կարող է բարելավել արդյունքները, քանի որ մարդիկ սովորում են թեստերին։ Երեք տարին կարող է չափազանց կարճ լինել։ Մասնակիցների մեծ մասն ուներ բարձր կրթություն և եվրոպական ծագում, ուստի արդյունքները կարող են ոչ բոլորի համար կիրառելի լինել։
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Այսպիսով, անկեղծ ամփոփումը սա է. երեք տարվա ընթացքում MIND սննդակարգը չգերազանցեց կալորիաները խելամտորեն նվազեցված սննդակարգին։ Դա չի նշանակում, որ առողջ սնվելը անիմաստ է։ Դա նշանակում է, որ ոչ ոք չպետք է ակնկալի, թե որևէ կոնկրետ սննդակարգ կկանխի դեմենցիան։
 
-## What about specific foods and supplements?
+## Իսկ կոնկրետ սնունդն ու հավելումները
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA-ն նշում է, որ չկա ապացույց, թե որոշակի սնունդ ուտելը կամ դրանից խուսափելը կարող է կանխել Ալցհայմերի հիվանդությունը կամ տարիքին կապված մտավոր կարողությունների անկումը։ Հապալասը, կանաչ տերևավոր բանջարեղենը և քրքումը ուսումնասիրվել են, բայց ապացույց չեն տվել։ NIA-ն նաև նշում է, որ ոչ մի վիտամին կամ հավելում ապացուցված չէ, որ կանխում է Ալցհայմերի հիվանդությունը, և այդ նպատակով ոչ մեկը խորհուրդ չի տրվում։ NIA-ն զգուշացնում է, որ Ալցհայմերի հիվանդությունը կանխելու համար վաճառվող չապացուցված միջոցները կարող են լինել անվտանգություն չունեցող, փողի վատնում կամ երկուսն էլ, և կարող են խանգարել նշանակված դեղամիջոցներին, ուստի որևէ բան փորձելուց առաջ խորհրդակցեք բժշկի հետ
+([NIA-ն Ալցհայմերի հիվանդության կանխման մասին](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))։
 
-## How can eating stay healthy and enjoyable?
+## Ինչպե՞ս կարող է սնվելը մնալ առողջ և հաճելի
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Մեծահասակների մեծ մասի համար նպատակը սնունդն է, որը սննդարար է, ծանոթ և հաճելի, ոչ թե խիստ ծրագիր։
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Ճաշերը կազմեք ձեր սիրած սնունդներից**՝ միջերկրածովյան օրինակով. բանջարեղեն, մրգեր, հատիկաընդեղեն, ամբողջական հացահատիկ, ձուկ և ձիթապտղի յուղ։
+- **Պահպանեք սիրելի փոքր հաճույքները։** Հաճույքն ու ախորժակը կարևոր են, հատկապես ավելի ուշ տարիքում։
+- **Հնարավորության դեպքում ուրիշների հետ կերեք։** Համատեղ ճաշերը լավ ընկերակցություն են։
+- **Միասին պատրաստեք։** Բանջարեղեն լվանալը կամ կաթսայի մեջ խառնելը լավ համատեղ занятմունք է. տեսեք [տնային գործերը](/activities/household-tasks/)։ Ընտանեկան սիրելի բաղադրատոմսը կարող է նաև [հուշերի զրույց](/activities/reminiscence/) սկսել։
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Մեծահասակները չպետք է կրճատեն կալորիաները կամ նիհարեն առանց բժշկի հետ խոսելու, իսկ ծոմ պահելը լրացուցիչ վտանգներ ունի։ Տեսեք մեր [ծոմի մասին ուղեցույցը](/brain-health/fasting/)։
 
-## How can you help someone with dementia eat well?
+## Ինչպե՞ս օգնել դեմենցիա ունեցող մարդուն լավ սնվել
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Դեմենցիա ունեցող մարդկանց համար **բավարար** չափով ուտելն ու խմելը սովորաբար հիմնական մտահոգությունն է։ Alzheimer’s Association-ը նշում է, որ մարդիկ կարող են մոռանալ ուտել, մտածել, թե արդեն կերել են, կամ շփոթվել ընտրություններից, իսկ ոչ բավարար սնվելը կարող է ուժեղացնել վարքային նշանները և հանգեցնել քաշի կորստի
+([Alzheimer’s Association-ը սնվելու մասին](https://www.alz.org/help-support/caregiving/daily-care/food-eating))։
+Այս գաղափարները վերցված են Alzheimer’s Association-ից, NIA-ից և Alzheimer’s Society-ից։
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Առաջարկեք մատներով ուտելու հարմար սնունդ։** Փոքր կտորները, որոնք հեշտ է վերցնել, օրինակ՝ սենդվիչի կտորներ, հավի կտորներ, ձկան ձողիկներ, նարնջի բաժիններ կամ շոգեխաշած բրոկոլի, մարդուն հնարավորություն են տալիս ինքնուրույն ուտել առանց դանակ-պատառաքաղի։
+2. **Սեղանին օգտագործեք գունային հակադրություն։** Տեսողության փոփոխությունները կարող են դժվարացնել սնունդը ափսեից տարբերելը։ Սպիտակ ափսեները կամ ամանները հակադրող գույնի սեղանի տակդիրի վրա կարող են օգնել։ Խուսափեք նախշերով ափսեներից և սփռոցներից։
+3. **Միաժամանակ մատուցեք մեկ կամ երկու տեսակի սնունդ։** Լիքը ափսեն կարող է ճնշող լինել։
+4. **Սննդի պահերը պահեք հանգիստ։** Անջատեք հեռուստացույցը, սեղանը պարզ պահեք և բավական ժամանակ թողեք։ NIA-ն խորհուրդ է տալիս չշտապեցնել և չճնշել։
+5. **Հաճախ առաջարկեք փոքր չափաբաժիններ և խորտիկներ։** Եթե մարդը բավարար չի ուտում, NIA-ն առաջարկում է ավելի փոքր, բայց ավելի հաճախակի սնունդ և կալորիաներով հարուստ խորտիկներ
+([NIA-ի խորհուրդները լավ սնվելու մասին](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well))։
+6. **Օգնեք խմելու հարցում։** Օրվա ընթացքում առաջարկեք փոքր բաժակներով ջուր կամ այլ խմիչքներ, ինչպես նաև ջրով հարուստ սնունդ, օրինակ՝ մրգեր, ապուր, կաթնային կոկտեյլներ և սմուզիներ։ Եթե մարդը ջուր չի ուզում, NIA-ն առաջարկում է փորձել հյութ, համով ջուր, արգանակ, կաթ կամ առանց կոֆեինի սուրճ կամ թեյ։
+7. **Ստուգեք ջերմաստիճանը։** Մարդը կարող է չնկատել, որ սնունդը կամ խմիչքը չափազանց տաք է։
+8. **Հարմարեցրեք սպասքն ու բաժակները։** Ափսեների փոխարեն ամանները, լայն բռնակով գդալները և կափարիչով բաժակները կարող են ուտելը հեշտացնել։ Կոկիկության մասին մի մտահոգվեք։
+9. **Սնունդը դարձրեք ավելի հեշտ ծամելու և կուլ տալու համար։** Սնունդը կտրատեք փոքր կտորների կամ առաջարկեք փափուկ սնունդ։ Եթե մարդը ուտելիս հազում է կամ շնչահեղձ է լինում, ասեք նրա բժշկին։
+10. **Խուսափեք ստիպողաբար կերակրելուց։** NIA-ն նշում է, որ Ալցհայմերի հիվանդության ուշ փուլերում ախորժակը բնականորեն նվազում է։
 
-### Signs to tell the doctor about
+### Ո՞ր նշանների մասին հայտնել բժշկին
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Քաշի կորուստը, սննդից հրաժարվելը, հոգնածությունը կամ թուլությունը կարող են նշան լինել, որ մարդը բավարար չի սնվում։ Alzheimer’s Society-ն նշում է, որ ատամների կամ պրոթեզների ցավը, դեպրեսիան, փորկապությունը և դեղորայքի փոփոխությունները կարող են նվազեցնել ախորժակը
+([Alzheimer’s Society-ն ախորժակի մասին](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia))։
+NIA-ի նշած ջրազրկման նշանների թվում են բերանի չորությունը, գլխապտույտը, սրտի արագ զարկը և զառանցանքները
+([NIA-ն տարածված բժշկական խնդիրների մասին](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers))։
 
-## Talk with a doctor
+## Խոսեք բժշկի հետ
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Նախքան ձեր կամ ուրիշի սննդակարգում մեծ փոփոխություններ անելը, խոսեք բժշկի կամ գրանցված դիետոլոգի հետ, հատկապես եթե կա շաքարային դիաբետ, երիկամների հիվանդություն, կլման խնդիրներ կամ վերջերս քաշի կորուստ։ Եթե մարդը դեմենցիա ունի, հարցրեք՝ օրական որքան ուտելու և խմելու է նպատակահարմար, և արդյոք դիետոլոգը կամ հավելումները կարող են օգնել։
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Եթե ինչ-որ մեկը շնչահեղձ է լինում, կամ ունի հանկարծակի շփոթություն, ուժեղ գլխապտույտ կամ ուշագնացություն, անհապաղ օգնություն կանչեք (103 կամ 112)։

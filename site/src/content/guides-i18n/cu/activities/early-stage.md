@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Дѣꙗниꙗ при ранѥмъ помрачєниѥмъ оума"
+seoTitle: "Дѣꙗниꙗ при ранѥмъ помрачєниѥмъ оума"
+description: "Мысли о дѣꙗниꙗхъ при ранѥмъ помрачєниѥмъ оума: обꙑчаи, игри, изходи, писаниѥ и съвѣтъ въкоупѣ, съ малꙑими измѣнами, да чловѣкъ радоуѥтъ сѧ и съблюдєтъ волѭ."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  При ранѥмъ помрачєниѥмъ оума мъноꙃи людьѥ могѫтъ творити, ꙗжє любятъ:
+  обꙑчаи, игри на картъкахъ и дъскахъ, варєниѥ, садовьство, хождєниѥ,
+  събори, вѣрьна дѣꙗниꙗ и добровольна слоужьба. Главьнꙑѩ измѣнꙑ сѫтъ:
+  мѣньшиѥ събори, кратъчи изходи, простиѩ писанꙑѩ оурочєниꙗ и съпѫтьникъ
+  близъ. Въпроси чловѣка, коѥѩ помощи хощєтъ, и остави ѥго водити.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Мъноꙃи чловѣци въ ранѥмъ стѫпѣни живѫтъ довьльно самостотьно. Дѣꙗниꙗ обꙑчно трѣбоуютъ оустроѥниꙗ, а нє измѣнєниꙗ."
+  - "Въпроси чловѣка, коѥѩ помощи хощєтъ, и съгласитє сѧ о простѣмъ ꙁнамєни, коли помошть ѥстъ приѩтъна."
+  - "Мѣньшиѥ събори, тихѣиша врѣмєна и кратъчи изходи чѧсто твори много добро."
+  - "Сє врѣмѧ добро ѥстъ, да чловѣкъ водитъ дѣла о своѥмь житии, ꙗко дьнєвьникъ или книгоу житиꙗ."
+  - "Иꙁбираи игри ради радости. Остави всꙗко дѣло, ѥжє начьнєтъ чоути сѧ ꙗко искоушєниѥ."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Каꙗ дѣꙗниꙗ добра сѫтъ при ранѥмъ помрачєниѥмъ оума?"
+    a: "Обꙑчно таꙗждє, ꙗжє чловѣкъ оужє любитъ: игри на картъкахъ и дъскахъ, варєниѥ, садовьство, хождєниѥ, мѫꙁꙑка, вѣрьна дѣꙗниꙗ, събори и добровольна слоужьба. Можєтъ бꙑти потрѣбьно сътворити ѩ кратъчѣиша, тихѣиша или простиѥ. Дьнєвьно писаниѥ, писаниѥ писъмъ и сътворєниѥ книгоу житиꙗ такожє добро пристоꙗтъ семоу стѫпєни."
+  - q: "Како могѫ помошти, нє въꙁємлѧ дѣла?"
+    a: "Въпроси, каковꙑ помощи чловѣкъ хощєтъ, и чѧсто пакꙑ въпрашаи. Съгласитє сѧ о словєси или кивани, ѥжє кажєтъ, ꙗко добро ѥстъ приити въ помошть, на примѣръ коли слово или имѧ нє приходитъ. Ащє нѣстъ бѣдꙑ, остави ѥго творити своимь образомь, аштє и множаѥ врѣмєнє трѣбоуѥтъ."
+  - q: "Подобаѥтъ ли чловѣкоу съ ранѥмъ помрачєниѥмъ оума искоусити нова дѣꙗниꙗ?"
+    a: "Да, аштє хощєтъ. Ꙁнаѥми обꙑчаи обꙑчно сѫтъ лєгъчаи, нъ мъноꙃи людьѥ радоуютъ сѧ и новоу, ꙗко събороу хождєниꙗ, оустрьѥноу людємъ съ помрачєниѥмъ оума, оучєнию хѫдожьства или пѣвьчьскоу събороу. Искоуси ѥдинъ разъ бєꙁ нѫждѧ и вижь, како чоуѥтъ сѧ."
+  - q: "Иматъ ли полъꙁѫ приложєниꙗ оумьна оучєниꙗ въ ранѥмъ стѫпѣни?"
+    a: "Нѣции людьѥ любѧтъ ꙁагадъкꙑ и словєсьнꙑѩ игри, и та радость сама довьлѣѥтъ. Ниѥдиного приложєниꙗ ни игри нє показа сѧ, ꙗко лѣчитъ, оумалꙗѥтъ или оуставлꙗѥтъ помрачєниѥ оума. Ащє игра приноситъ пєчаль или чоути сѧ чловѣкоу, ꙗко нє оуспѣваѥтъ, остави ѭ."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Въ ранѥмь стѫпєни помрачєниꙗ оума мъноꙃи людьѥ живѫтъ близъ ꙗкожє и прѣждє. Могѫтъ дѣлати, добровольно слоужити, видѣти дроугꙑ и дрьжати мъного своѥго дьнє. Дѣꙗниꙗ обꙑчно нє трѣбоуютъ измѣнєниꙗ, нъ нѣколикꙑихъ малꙑихъ оустроѥнии, да прѣбѫдѫтъ радостьна. Твоꙗ дльжь ѥстъ пачє ꙗко съпѫтьника, нєжє попєчителꙗ: чловѣка, ижє помагаѥтъ, съвѣщаваѥтъ съ нимь и приходитъ въ помошть тъкъмо, ѥгда просимъ ѥстъ.
 
-## What activities are good in early-stage dementia?
+## Каꙗ дѣꙗниꙗ добра сѫтъ при ранѥмъ помрачєниѥмъ оума?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Лѫчьшаꙗ дѣꙗниꙗ въ ранѥмь стѫпєни обꙑчно сѫтъ та, ꙗжє чловѣкъ оужє любитъ, нъ мало оулєгъчєна. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) поминаѥтъ мысли, ꙗко игри на картъкахъ и дъскахъ, исканиѥ словєсъ, хождєниѥ, плѧсаниѥ, садовьство, оустроѥниѥ цвѣтъ, повѣданиѥ, живопись, мѫꙁꙑкоу, дьнєвьно писаниѥ, писаниѥ писъмъ, събираниѥ въспоминании, варєниѥ и праꙁдьничьнꙑѩ обꙑчаѥ.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Чѧсто измѣнꙗѥтъ сѧ обстоꙗниѥ, а нє само дѣꙗниѥ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) кажєтъ, ꙗко чловѣци въ ранѥмь стѫпєни могѫтъ начѧти оустѫпати отъ дѣлъ, ꙗжє люблꙗахѫ, и даѥтъ примѣръ чловѣка, ижє чоуѥтъ сѧ оутрѫждєнъ на вєлицѣмь съборѣ, нъ лѫчє ѥстъ ѥмоу въ малѣ съборѣ. Глаголи отъврьсто о томь, чьто ѥстъ трѫдьнѣѥ, и оустроитє въкоупѣ.
 
-## Ask first, and agree on how to help
+## Въпроси прьвѣѥ, и съгласитє сѧ, како помагати
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Настаѥниѥ Alzheimer's Association за ранєѥ стѫпєни](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) предлагаѥтъ нѣколико обꙑчаѥвъ, ижє пристоꙗтъ и дѣꙗниѥмъ:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Въпроси прямо.** Въпросъ: «Чьто бꙑ сътворило чьтєниѥ книгоу лєгъчѣѥ тєбѣ?» даѥтъ лѫчьши отвѣтъ, нєжє гадаѥши.
+- **Надѣи сѧ, ꙗко можєтъ.** Ащє нѣстъ бѣдꙑ, остави чловѣка искоусити, и даи подкрѣплєниѥ, а нє въꙁьмєши дѣло.
+- **Съгласитє сѧ о ꙁнамєни.** Иꙁбєрєтє слово или киваниѥ, ѥжє кажєтъ: «добро ѥстъ приити въ помошть», на примѣръ коли имѧ нє приходитъ въ игрѣ.
+- **Чѧсто въпрашаи.** Въпроси, аштє мѣра помощи чоуѥтъ сѧ права, прѣвєлика или мала.
 
-## Activity ideas for the early stage
+## Мысли о дѣꙗниꙗхъ за ранєѥ стѫпєни
 
-### Keep up roles and hobbies
+### Съблюди дльжи и обꙑчаѥ
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Дрьжи оурочьно дѣло.** Нєдѣльна добровольна слоужьба, пѣвьчьскꙑи съборъ или ино събраниѥ даѥтъ сєдмици образъ. Ащє станєтъ пєчально, кратъча или тихѣиша дльжь можєтъ пристоꙗти.
+- **Съвѣщаваитє о брашънѣ въкоупѣ.** Ащє коуплєниѥ брашъна ѥстъ трѫдьно, Alzheimer's Association съвѣтоуѥтъ просити чловѣка, да поможєтъ оустроити ꙗди на сєдмицѫ и написати списькъ.
+- **Варитє и пєцѣтє.** Слѣдоуитє любимоу оучєнию въкоупѣ. Положитє всѧ потрѣбьна по рѧдоу прѣждє начѧла, да стѫпєни бѫдѫтъ видими.
+- **Дѣлаитє въ садѣ.** Оустроитє лѣхѫ, иꙁбєрєтє сѣмєна или растєниꙗ и дѣлаитє въкоупѣ. Писанꙑи списькъ дѣлъ сєдмицѧ въ садѣ помагаѥтъ.
+- **Дрьжитє рѫкодѣлиѥ.** Дрѣводѣлиѥ, шитиѥ, плєтєниѥ или строѥниѥ образьцъ можєтъ прѣбꙑвати съ простиѥйшими образьци и добромь свѣтомь.
 
-### Games for enjoyment
+### Игри ради радости
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Играитє на картъкахъ и дъскахъ.** Ꙁнаѥмꙑѩ игри сѫтъ лєгъчаи. Играитє въ дроужинахъ, да никътожє нє стои самъ, и съчитаитє мало или ни како.
+- **Искоуситє исканиѥ словєсъ съ вєликꙑими писмєнꙑ.** Нашє [word search](/games/word-search/) можєтъ бꙑти играно на ꙁьрьцалѣ или напєчатано за тихъ часъ.
+- **Сълагаитє образьнꙑѩ съставьници.** Иꙁбєри число чѧстии, ѥжє чоуѥтъ сѧ мирьно, а нє трѫдьно. [Picture puzzle](/games/picture-puzzle/) ѥстъ кратъка образьна съставьница, а нашє настаѥниѥ [puzzles for dementia](/activities/puzzles/) помагаѥтъ иꙁбьрати.
+- **Присѧдѣтє къ въпросомъ ради радости.** Нѣции любѧтъ дроужиньнꙑѩ въпросꙑ. Ащє начьнєтъ чоути сѧ ꙗко искоушєниѥ, иꙁбєри ино, или искоуси нашѧ [easy trivia questions](/activities/trivia/), ꙗжє имѫтъ иꙁборъ отвѣтовъ и бєꙁ съчєта.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Игри сѫтъ ради радости. Ниѥдина игра нє показа сѧ, ꙗко лѣчитъ или оумалꙗѥтъ помрачєниѥ оума. Чьти большє въ [brain games: what the research says](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Пиши, помꙑшлꙗи и ꙁапиши
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Дрьжи дьнєвьникъ.** Alzheimer's Association съвѣтоуѥтъ дьнєвьно писаниѥ ꙗко ѥдинъ пѫть промꙑслити чоуства по оувѣдѣнии. Нѣколико рѧдъ на дьнь довьлѣѥтъ.
+- **Води книгоу житиꙗ.** Ранєѥ стѫпєни ѥстъ добро врѣмѧ, да чловѣкъ самъ иꙁбєрєтъ своѩ образꙑ и напишєтъ или повѣстъ повѣсти о нихъ. Вижь [reminiscence activities](/activities/reminiscence/).
+- **Пиши писъма.** Писъмо въноукоу, староу дроугоу или прѣждьнюмоу съработьникоу можєтъ имѣти чьсть обѣма.
+- **Бєсѣдоуитє о образѣхъ.** [Photo pairs](/games/photo-pairs/) твори отъ сємєинꙑихъ образъ тихѫѭ игроу съгласьꙗниꙗ, а [conversation cards](/games/conversation-cards/) даѭтъ лєгъкꙑѩ начѧла за бєсѣдѫ.
 
-### Go out and move
+### Иꙁиди и движи сѧ
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) съвѣтоуѥтъ дрьжати ꙁнаѥмꙑѩ изходꙑ, доньдєжє обѣма ѥстъ добро. Оустрои ѩ въ лѫчьшєѥ врѣмѧ дьнє за чловѣка и нє даи имъ бꙑти прѣдлъгꙑ.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Кратъци изходи къ хѫдожьствоу.** Хранилиштє, дьнєвьно видѣниѥ или иꙁложєниѥ, лѫчє въ тихѣишє врѣмѧ.
+- **Плаваниѥ.** NIA поминаѥтъ коупѣль въ тихѫ годиноу дьнє.
+- **Събори хождєниꙗ и оучєниꙗ плѧсаниꙗ.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) поминаѥтъ плѧсаниѥ, таи чи, иогоу, плаваниѥ и събори хождєниꙗ, такожє събраниꙗ, оустрьѥна людємъ съ помрачєниѥмъ оума, идєжє сѫтъ.
+- **Пѣвьчьсции събори и събраниꙗ памѧти.** Мирьни събори, идєжє людьѥ живѫщєи съ помрачєниѥмъ оума и ихъ съпѫтьници могѫтъ срѣсти инꙑ въ томьждє обстоꙗнии.
 
-## Small changes that keep activities enjoyable
+## Малꙑѩ измѣнꙑ, ꙗжє дрьжѫтъ дѣꙗниꙗ радостьна
 
-| If this is getting harder | Try this |
+| Ащє сє ѥстъ трѫдьнѣѥ | Искоуси сє |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Мъногочловѣчьна или шоумьна мѣста | Иди въ тихѫ годиноу, иꙁбєри мѣньшѧ съборꙑ, сѧди при краи |
+| Помьнѣниѥ новꙑихъ имєнъ | Именоуи людии имєнємь пакꙑ, проси съборꙑ носити имєньна ꙁнамєниꙗ |
+| Слѣдованиѥ мъногꙑимъ стѫпєнємъ | Напиши стѫпєни, или положи всꙗ по рѧдоу прьвѣѥ |
+| Оутрѫждєниѥ | Кратъчи изходи, почитиѥ по томь, ничєсожє ина оного дьнє |
+| Дрьжаниѥ рѧда въ игрѣ | Играитє въ дроужинахъ, оулєгъчитє правила, или оставитє съчєтъ |
+| Обрѣтєниѥ словєсъ | Даи врѣмѧ; подаи слово тъкъмо, аштє вашє съгласьно ꙁнамєниѥ повєлѣваѥтъ |
 
-## When to slow down
+## Коли оумѣрити
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Оустави или измѣни дѣꙗниѥ, ѥгда приноситъ большє пєчали, нєжє радости. Чѧстоѥ нєгодованиѥ, оубѣганиѥ обꙑчаꙗ или словєса: «оужє нє могѫ» трѣбоуютъ тиха бєсѣдꙑ, а нє понѫждєниꙗ. Чѧсто отвѣтъ ѥстъ мѣньша образь тогожьдє дѣла. Коли чловѣкъ трѣбоуѥтъ большє помощи начѧти и слѣдовати стѫпєнємъ, мысли въ [middle-stage activities](/activities/middle-stage/) могѫтъ большє пристоꙗти. За большє о помагаѭщєи бєсѣдѣ вижь [communication tips](/caregiving/communication-tips/), а за мъного большє мыслии вижь [101 activities](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Съпѫтьникомъ такожє потрѣбьна ѥстъ помошть. Ранєѥ стѫпєни ѥстъ добро врѣмѧ сътворити своѭ сѣть помощи; вижь [caregiver self-care](/caregiving/caregiver-self-care/).

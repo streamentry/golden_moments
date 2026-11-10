@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Qhipa pachan dementia: ikiñ sayt'asa irnaqañanaka"
+seoTitle: "Qhipa pachan dementia: ikiñ, silla ideanaka"
+description: "Qhipa pachan dementia ukan suma irnaqañanaka, ikiñ sayt'asa jan ukhax sillan jakasir jaqinakatakix: arsuña, ch'iqa, jawsatañ, sarañanaka ukat jakañ, sumpi uñjañanaka."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Qhipa pachan dementia ukan irnaqañanakax jiwasan sensonakasa ukat jumanakan
+  sarnaqañamp sapa: kusisiñ arsuñanaka, maynit maynir ch'iqa sartaña, ch'iqa
+  lanwa t'aqa, jawsatañ, uñjaña fotonakanaka, qala sarañ sonanaka ukat
+  janq'u jalsu jan ukhax phuqhaña. Ukanakax ikiñan jan ukhax sillan
+  irnaqasipxi. Chiqpach sapa pachanakax chhaqhaña, ch'iqa ch'uxñaña uñjañamawa
+  ukat jumanakan sarnaqañamaw irnaqañ kuna.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Mayjtʼañ ukax mayjtʼasiwa. Qhipa pachan, jaqix sensonakampiw aka pacha uñjaski."
+  - "Arsuñanaka, suma ch'iqa, yatiñ arunaka ukat jawsatañ kunanakax jaqinakar mayjt'asiñ jani ukhamarak arunakax jan puriñ ukhaxa."
+  - "Aka ideanakan mayjt'añ ukax ikiñan jan ukhax sillan jakasir jaqinakatakix walikiwa."
+  - "Uñjañ ukat jan kusisiñanakar, amparanakar ukat ch'uxñaña uñjañamar sarnaqañ, ukat kuna jan walinakaxa sayt'añ."
+  - "Jan ch'iqa kunanakar uñjañ, ukat manq'a ukhamarak umañanakax kuna sarañanakatakix yatiri jiwasanakan yatiyañapa ukhamaxa, nayraqat mayjt'añ walikiwa."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "¿Kuna irnaqañanakas qhipa pachan dementia ukan jakir jaqi ikiñan jan ukhax sillan utjañ?"
+    a: "Mayjtʼañ kusisiñ arsuñanaka, amparap ch'iqa lanwa t'aqa, libro ukat suma arsuña ukanakat, uñjaña fotonakanaka, jan ukhax qala sarañ sonanaka. Ch'uxña uñjañ amparapa. Sapa pachanakax chhaqhaña, ukat sapa kuna irnaqañ ch'uxña ukhamaxa walikiwa."
+  - q: "¿Qhipa pachan dementia ukan jakir jaqinakax arsuñanakar kusisisa?"
+    a: "Walja jaqinakax kusisipxi. Alzheimer's Association qillqatapan siskiwa, qhipa pachanakanwa jaqix ch'iqar sartaña jan ukhax wawa pachat arsu arsuña. Juk'a pachanakan arsuñanaka ajlliñ, juk'a sawunakan."
+  - q: "¿Kunjamsa yatipxä jaqix irnaqañar kusisi ukhax?"
+    a: "Juk'a uñjañanakar sarnaqañamawa: ch'uxña jaqinakan amparanakapa, jaqix uñjasiñ, jaqi uñjañ, sañ jan ukhax anu ch'iqa. Jan kusisiñ jan ukhax jan walinakan uñjasiñ, jaqix apaqasi jan ukhax jan walinakapan uñjañ uñjasiñ, ukat jumax sayt'ati."
+  - q: "¿Jupax janiw uñtxatañ ukhax, jutañ walikiwa?"
+    a: "Jutañ. National Institute on Aging qillqatapan siski, jumanakan utjañamax amuyt'añ walikiwa, ukat chiqpach arsuñanaka, ch'iqa ukat yatiñanakax qhipa dementia ukan jakañ lurañ. Arunamax jan uñtxatäñapa, ukampis jumanakan arunamax yatiñ utjaspawa."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Qhipa pachan dementia ukan, jaqix juk'a arsuspa, sapa uru kunanakatakix yanapa munaspa ukat uru walja sillan jan ukhax ikiñan pasaspa. Kunas irnaqañjamax janiw utjkiti sasa amuyasiñax jikxatasi. Utjaraki. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) siski, jaqin amuyunakapan kunas jakasiñ utjaspa ukat aka pachan jaqix sensonakampiw aka pacha uñjaski. Arsuñanaka, ch'iqa, yatiñ arunaka ukat jumanakan suma sarnaqañamax ch'uxñaña ukat mayjt'asiñ utjañapataki yanapt'apxi.
 
-## What activities help in late-stage dementia?
+## ¿Kuna irnaqañanakas qhipa pachan dementia ukan yanapt'apxi?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Juk'a sensonakan irnaqañanaka ukat ch'uxña jakañ qhipa pachan walja yanapt'apxi. Alzheimer's Association siski, kusisiñ arsuñanaka, kusisiñ libronakan jan ukhax arunakan parti arsuña, jaqi kusisiñ aj'anakan lanwa t'aqa, ukat walja uru jach'a pachanakan jaqinakampi kuns uñjaña. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) yatiyi sarañ sonanakaru, fotonakanaka uñjañataki, suma ch'iqa jan ukhax t'aqa, ukhamarak ch'iqa, jaqi lupi jan ukhax qala sarañ sonanaka, ukat jumanakan utjañamax jaqi ch'uxñaña yanapt'añapataki siski.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) siski, qhipa pachan jaqinakax walja kutiw wali kusisiñ jiwasan ch'iqa jan ukhax sapa kunas ajllisiñ munapxi, ukat sensonakan irnaqañanaka, suma jaytañanaka, scarf jaytañ, ch'iqa, anima uñjañ, maynit maynir ch'iqa ukat libre art lurañ yanapt'apxi.
 
-## Activities for someone in bed or a chair
+## Sillan jan ukhax ikiñan jakasir jaqinakatakix irnaqañanaka
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Kusisiñ arsuñanaka sarañ.** Jaqin wawatapa jan ukhax iglesia jan ukhax familiaparu kusisiñanakanakaruw ajllim. Ch'uxña sonanaka uñtam, jupar jak'ankañamawa. Walikiwa, maynit maynir ch'iqa sartaña jan ukhax t'aqa. Uñjañamataki: [kusisiñ irnaqañanaka](/activities/music/).
+2. **Ampar sawuña.** Ch'uxña ampar sawuña, ch'iqa mayjt'aña, irnaqañawa. Lurañamampi sañ luraña.
+3. **Ch'uxña amparan t'aqa lurañ.** Ch'uxña lanwa aj'an ch'iqana, muñiñ ch'iqat jaqu sarañamawa. Jan ch'iqa lanwa ajlliñ, jan ukhax jaqin kusisiñ ch'iqa ajlliñ, ukat jiwasan sarañamawa.
+4. **Arsuña.** Kusisiñ aruma, kusisiñ libron jan ukhax arunakan, jan ukhax ch'uxña kusisiñ uñjañ. Arunakan kunas mayjtʼasiñ utjaraki, jumanakan arsuñanaka juk'ampi wali.
+5. **Yatiñ arsuña.** Familiaparu sarañ jan ukhax jupan jaqichasiñ uru. Janiw arunakamax sutiñ.
+6. **Fotonakanaka uñjaña.** Sapa uru juk'a foto uñjañ, uñjasiñ jaqi ch'uxña uñjañ. Jupar kuka jaqin utjañap jaytaskañamawa.
+7. **Ch'iqa ukat jaqi sartaña.** Juk'a p'iqi, ch'iqa jan ukhax t'aqa juqhu. National Institute on Aging siski, jaqi sartaña, jumanakar janq'upiw p'iqi churañamawa, ukat jupar yanapt'añamawa.
+8. **Qala sarañ sonanaka.** Yapu, qala jan ukhax jaqi ch'iqa juk'a lupi sartaña, walja sonanakan jaqi ch'uxñaña.
+9. **Ch'uxña pacha aka uñjañ.** Qhapaq uñjañanaka, janq'u uñjañ ukhamaxa, jupar uñjañ ukat ch'uqi jan ukhax lulanak apanaka.
+10. **Jaqi pachan sarañ.** Jaqix silla rueda ukan sarañ ukhaxa, ch'uxña pacha sumpi sarañ jan ukhax jaqi ch'iqa.
+11. **Sallqa ch'uxñaña jan ukhax jaqi ch'uxña amparanakan.** Ch'uxña jaqi lanwa, sumpi jaqi sumankaña ukat amparanakan ch'uxña jaqi kusisiñ.
+12. **Kusisiñ jaqi sarañ.** Scarf juk'ampi sayt'añ jan ukhax ch'uxña sonanakan amparanakaparu sañ. Ch'uxña sarañanakatakix jaqinkir jan ukhax sayt'ayiri aynacha jach'a yatiñ.
+13. **Libre art lurañ.** Juk'a jaqi lanwa jach'a papelan, esponja jan ukhax amparaw. Jan kuna jan walt'añs utjkiti.
+14. **Anima uñjañ.** Juk'a anima ch'uxña jaqi sillan jan ukhax jaqin uñjañ, jaqix animanakar kusisi ukhaxa, ukat utjañ ukax lurañ.
+15. **Ch'uxñaña ukat anu sarañ.** Sillan ch'uxña ukat anu jan ukhax jaqi sarañ. [Calm breathing](/games/calm-breathing/) jumanakan ukat jupanakan anu chhaqhañapatakix yanapt'apxi, ukat jumax qalltaña ukat taqhiñ.
+16. **Sapa kuna jan ukhax jutañ.** Ch'uxña sayt'asa, ch'iqa, uñjasiñ jan ukhax yatiñ. Utjañamaw sapa kuna.
 
-## How to share an activity at this stage
+## Aka pachan kunjamsa irnaqañ uñjañ
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Mayjtʼasiñ uñjañ.** Jaqin sutipa ukat jumanakan sutipa arsuñ, ukat sartaña nayraqata ch'uxña ukat ch'iqa arsuñ.
+- **Sapa kuna uñjañ.** Música mayjt'añ nayra TV jan ukhax uñjañ. Sapa sensonakampi irnaqañ.
+- **Ch'uxña uñjañ.** Juk'a pachanakax walikiwa. Jani walja pachan, walja juk'a uru uñjañanakax sapa pacha uñjañat juk'ampi walikiwa.
+- **Nayraqat sumankañ.** Jaqi wali sumankañapa uñjam. National Institute on Aging siski, jaqi sillan jan ukhax uñjasiñ amparanakapa sayt'añ mayjt'añatakix lap board walikiwa.
+- **Response uñjañ.** Ch'iqa amparanakax, sut'a uñjañanakax, uñjasiñ jan ukhax jaqi ch'iqa, kusisiñ sañ yatiyi. National Institute on Aging siski, jan kusisiñ, jaqi uñjañ, ch'iqa jan ukhax sapa jaqi lupi uñjañ, kuna jan walinakas utjaspa. Sayt'ati, ukat jan walt'añ yatiri.
 
-## A quick guide by sense
+## Sensonakan juk'a yatiñ
 
-| Sense | Ideas | Take care |
+| Sensu | Ideanaka | Jaytañ |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Uñjaña | Kusisiñ sonanaka, arunakamasa, qala sarañ sonanaka | Sonanakax ch'uxñawa; sapa sonanaka jan ukhax |
+| Ch'iqa | T'aqa, amparanakan sartaña, p'iqi, sumankaña | Arsu jan ukhax yatiyam; ch'iqa jan qhaqhaskakiti |
+| Uñjaña | Fotonakanaka, qhapaq, janq'u uñjañ, qala sarañ video | Uñjasiñ jan jan ukhax mayja; ch'uxña qhana |
+| Ch'uqi | Kusisiñ aj'a, qhapaq, kafe jan ukhax | Juch'a jan ukhax ch'uqi jan; alergia ukat anu uñjañ |
+| Jan ukhax lakhi | Kusisiñ manq'a juk'a | Yatiyata manq'anakan jan ukhax sapa manq'anakan |
 
-## Safety at this stage
+## Aka pachan jan walt'añanaka
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Qhipa pachan manq'a mantañax janiw sumpi utjiti, National Institute on Aging siski, aka lurawix jan walt'añ utjarakiwa. Ch'iqa sapa kuna jan utjañapataki, manq'a jan ukhax umañ sapa yatiyata amparanakan jan ukhax ch'uxña yatiyata. Ch'iqa ch'uxñaña uñjañamaw, p'iqi jan ukhax jaqi ch'uxña ch'uxña. Qhipa sensonakan irnaqañanakatakix uñjañamax: [sensory activities](/activities/sensory/).
 
-## Looking after yourself too
+## Jumanakan jakañamax utjaskiwa
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Qhipa pachan sarnaqañ ch'uxña ukat amuyunakan jan walt'añ utjaraki, sillan jan ukhax jaqi uta. Hospice ukat palliative care yatiri jiwasanakax yanapt'apxi, ukat National Institute on Aging siski yanapañ utjaraki. Juk'a, ch'uxña utjañanakax walikiwa; uñjañamaw: [visiting someone with dementia](/activities/visiting/). Grupo irnaqañanakan yatiyasa jan ukhax, [care home group activities](/activities/care-home-groups/) ukan yatiñanakax utjaraki. Ukat walikiwa [caregiver self-care](/caregiving/caregiver-self-care/) uñjañamawa: samarañax suma irnaqañ kunawa.

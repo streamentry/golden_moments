@@ -1,34 +1,36 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Inti jaqsuñkama: Demencia ukan jakasirinaka sum lup'iwinaka"
+seoTitle: "Inti jaqsuñkama: Sum qhipa uru lup'iwinaka"
+description: "Sarnaqañanaka, uta tuqinakan allchhaña ukat sum lup'iwinaka walikiskaspa jaqsuñ tuqin jan amuyasiñ ukanakar yanapt'añataki, sapa kuti jan allin uñtasiñanakataki doctor yatiyañamawa."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Inti jaqsuñkama jan amuyasiña, jan amuyasiña jan ukax jan istasiña qalltaski
+  jan ukax ch'amanchasi uru qhipa jan ukax tuqi ukhamaraki. Walikiskaspa
+  yanapt'añataki thakhinakaxa: sapa uru sarnaqañ thakhi, inti ukat lup'iwi
+  nayra urunakan, jaqsuñ qhipa samar tuqinakan jan ukax jan maynti samarañanaka
+  sipansa, jan mä juk'a k'achu umaña, sapa uta qhana wakisiña ukat jach'a jan
+  ch'amampi lup'iwinaka, akhamarak arumanakan, sapa uta, uñt'añanakan jan ukax
+  aphu ch'uqi ukat jan ch'amampi lup'iwinaka. Machaq jan ukax ch'amanchasi
+  uñtasiñanakataki doctor uñjañamawa.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Inti jaqsuñkama jan amuyasiña jan ukax jan istasiña qalltaski jan ukax ch'amanchasi uru jaqsuñkama."
+  - "Jan ch'amampi lup'iwinaka, sarañanaka ukat jan umaña nayra urunakan jan ukax uru qalltanxa lup'iña."
+  - "Inti, sapa uru thaqhañ, jan samarañanaka sipansa jaqsuñ qhipa samar ukhamaraki jan k'achu umaña walikiskaspa uta jaqsuñkama sum sarañapataki."
+  - "Jaqsuñkama wakisiña uta uñt'añanakan ukat jan ch'amampi lup'iwinakar uñacht'añamawa, aka jan k'achu arsuña ukat jan ch'amampi jan arsuña."
+  - "Amuyt'añanakataki uñacht'añan qillqatapa, ukat jan amuyasiña qalltasa jan ukax sut'a sarnaqañamawa."
+  - "Machaq jan ukax ch'amanchasi uñtasiñanakataki doctor uñjañamawa: jan walt'äwi, jan ukax jan ch'amampi uñtasiñanaka jan ukax thakhi qhipa jiwasan sarnaqañamawa."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "¿Kawkir uru Inti jaqsuñkama uñtasiñ?"
+    a: "Jupax jaqsuñ tuqin jan ukax uru qhipa qalltasiñ jan ukax ch'amanchasiñ, inti jaqsuñ qalltasaxa. Jaqsuñ uru jaqirus sapa uñtasi, ukatwa sapa kuti jaqsuñ qhipa jaqsuñ uru uñacht'añanak, sapa kuti kimsa mara qillqañax yanapt'añ."
+  - q: "¿Kawkir lup'iwinakas Inti jaqsuñkama yanapt'añ?"
+    a: "Jan ch'amampi, jan sapa uñtasiñanaka, uñt'añ ukat jan ch'amampi lup'iwinakaxa qhipa uruna jach'a ch'amanchañapa: arumanakan, uñt'añanakan jan ukax jach'a uñacht'añ ukanakan, jan ukax uta qhana wakisiña, jan ukax sapa uruna sarañ, jan ukax jist'arasiñ. Machaq jan ukax ch'amampi lup'iwinakax nayra urunakan lup'iñamawa."
+  - q: "¿Inti jaqsuñkamax jan ukax ch'amanchasi uñtasiñ sañ jakañan?"
+    a: "Jupax walt'äwinaka, uñtasiñ jan ukax jan ch'amampi tuqi, sarnaqañ jan allin ukat jan ch'amampi mä jukʼa apnaqañanakan jan ukax jan allin uñtasiñanakampi ch'eqaruqan. Machaq jan ukax jan ch'amampi uñtasiñ qalltaski jan ukax ch'amanchasi, jaqi doctor uñjañamawa."
+  - q: "¿Doctor jaqsuñkama jan ukax jan sumaki samarañanakataki jisk'achañamawa?"
+    a: "Aka arsuña doctor ukampi lup'iñamawa. Alzheimer's Association sañ, jan samarañanaka nayra utjaspa, jan ukax jaqsuñ qhipa jan amuyasiñ ukanakataki, samarañanakax jan sum amuyasiñ ukat sum amuyasiñ sipansa ukax jan ch'amampi amuyañamawa. Aka uñachayäwix jan samarañ yanapt'iwiruw jan ukax arsuñ tuqi."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +49,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Walja familianakax uñjapxi: uruna jach'a jan ch'amampi sarañ, ukampinakax uru qhipa jaqsuñ tuqin jaqi, demencia ukan jakasirix jan ch'amampi, jan amuyasiñ, jan istasiña jan ukax jan allin uñtasiña. Jupax sarañ jan ukax "uta sarañ" sasa arsuñ, jupa utankan jakasiskäna ukhamarakiw. Jupanakax sapa kuti jisk'a jan amuyasiñ uñtasi. Akaxa ukhamarakiw "inti jaqsuñkama" sasa sutichasiwi.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Jan mä thakhi kunaw walikiskaspa, ukampinakax uru sarnaqañ, uta ukat lup'iwinaka mayjt'ayañax jaqsuñ tuqi walikiskaspa suma uñtasiñ yanapt'añapataki. Aka qillqataxa National Institute on Aging ukat Alzheimer's Association qillqatanakat jan amparasiñ yanapt'awinakaniwa. Aka jan jalsu ch'uqi arsuñ utjkiti. Machaq jan amuyasiña, jan istasiña jan ukax jan allin uñtasiñanaka mayt'ataxa, jaqi doctor ukampi arsuñamawa.
 
-## What is sundowning?
+## ¿Kunas inti jaqsuñkamaxa?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Inti jaqsuñkamaxa jan amuyasiña, jan istasiña, jan ch'amampi uñtasiña jan ukax jan amuyasiña qalltaski jan ukax ch'amanchasi, inti jaqsuñ qhipa, uru qhipa jan ukax jaqsuñ tuqin. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) sasa, jan ch'amampi sarnaqañ uru ch'amanchasiñ jan amuyasiñ ukanakax jaqsuñ qhipa jan istasiña walikiskaspa ch'amanchaski.
 
-## What can make late-day restlessness worse?
+## ¿Kunatsa jan istasiñ jan ukax jaqsuñ qhipa jan amuyasiñ ch'amanchaski?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Walja kunas yanapt'aspa, mayacht'asa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) sasa, akanakax utjapxi:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- uru jan ch'amampi sarnaqañat jan ch'amampi;
+- machaq jan ukax jan amuyasiñ uta jan ukax chiqa;
+- "janchi uru ukax" jan sum sarañ, jupax uruna lunthata, uta qhipa jisk'a amuyasiñ;
+- jan k'anchay ukat ch'uqi, jupax jan amuyasiñ;
+- jaqinakan jan ch'amampi jan ukax jan amuyasiñ ukanakax jupar mayt'aña;
+- jan ch'amampi jan samarañ, jupax jach'a mayni jaqinakan jan ch'amampi.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA sasa, jan amuyasiña ukax janchi jan allin, walt'äwi, jan ukax jan amuyasiña, jan sum samarañ, uñt'añ jan ukax chiqa, sapa arumanakan jan ukax jaqinaka, jan ukax jan maynti samarañanakan ukat sum jan sarañaw ch'amanchaski.
 
-## How can I plan the day to make evenings calmer?
+## ¿Kunsa uru sarnaqañ amuyt'añax uta qhipa sum jaqsuñapataki?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Jach'a kunanaka nayra urunakan, uru qhipa jan ch'amampi ukat sum sarañanaka lup'iñamawa. NIA ukat Alzheimer's Association sañ, sapa uru sarnaqañ thakhi yanapt'aspa. Jumax juma ukat jaqi ukar amuyasa:
 
-| Time | What may help |
+| Uru | Kunas yanapt'aspa |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Nayra uru | Uñt'añanaka, sarañ, arumanakan ukat jan ch'amampi lup'iwinaka, jaqi juk'a alertapa ukhaxa |
+| Uru qhipa nayra | Inti jach'a jan ukax jaqisa wakisiñanaka; sarañ jan ukax yaqha lup'iwi |
+| Uru chika | Jach'a manq'a (Alzheimer's Association sasa, jach'a manq'a ukat jan ch'amampi jaqsuñ manq'a) |
+| Uru nayra qhipa | Jan ch'amampi samarañ walikiskaspa, jan ukax jaqsuñ qhipa jan ch'amampi samarañ |
+| Jaqsuñ qhipa uru | Jan ch'amampi lup'iwi ukat jan ch'amampi uñt'añanaka; umaña ukat jan ch'uqi |
+| Inti jaqsuñkama nayra | Uta k'anchay ukat jaqsuñ mä jan ch'amampi ayaw qhanqhaña |
+| Jaqsuñkama | Jan ch'amampi manq'a, sum jaqsuñ thakhi ukat jan ch'amampi ch'uqi |
 
-A few specific points from the sources:
+Mä jukʼa sum amuyasiñanaka:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Inti.** NIA sasa, sapa uru inti jan ukax uta k'anchay chiqa sarañ uñt'añ.
+- **Sapa uru sarañ, jan ch'amampi.** Sapa uru jan ch'amampi sarañ, jan walja lup'iwinaka amuyañamawa, NIA sasa.
+- **Qhipa umaña.** Jaqsuñ qhipa alcohol ukat ch'uqi umaña jan ch'amampi (NIA). Alzheimer's Association ukhamaraki nicotina sasa.
+- **Jan ch'amampi samarañ.** Jaqsuñ qhipa jach'a samarañ jan ukax jan ch'amampi samarañ jan ch'amampi (NIA). Alzheimer's Association sasa, uru samarañ jan ch'amampi uñtasiñ utjaspa jan ch'amampi uru samarañ jisk'achañamawa.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Sum sarnaqañat yatiyañ jiwasaxa, [daily routine activities](/activities/daily-routine/) uñjañamawa.
 
-## How can I make the home calmer in the late afternoon?
+## ¿Kunsa uta qhipa jaqsuñkama jan ch'amampi sayt'ayañamawa?
 
-Reduce noise, add light and keep familiar things close.
+Jan ch'amampi lup'iwinaka, uta k'anchay ukat jaqinaka sumaki sayt'ayañamawa. Ukhamarakiw uta sum amuyañ.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **K'anchay jan ch'amampi.** Alzheimer's Association sasa, uta jaqsuñkama k'anchay ukat sum sayt'ayañamawa. Ch'uqinaka jan utjañ uñt'añ.
+- **Jan ch'uqi.** Radio ukat TV jan ch'amampi, jan ukax sum ch'uqi. Jaqinaka jan ch'amampi uñtasiñanaka, luqtañanaka ukat jan ch'uqi musica jan ch'amampi uñt'añ. Alzheimer's Association sasa, jan ch'uqi lup'iwinaka ukat jan ch'amampi lup'iwinaka jisk'achañamawa.
+- **Ch'amanchasi amuyasiñanaka.** NIA sasa, sum musica ukat jupanakan kusisiñ qhanaka ukat uta qhipa uñt'añanaka utjañapa.
+- **Jan allin uñtasiñanaka uñjaña.** Alzheimer's Association sasa, jan walt'äwi, jan manq'a, jan umaña, jan ukax jan amuyasiñ, jan istasiña, jan ukax jan allin phisi uñjaña ukat uta ch'uqi jan ukax jan ch'amampi uñt'añ.
+- **Jumanakan amuyasiñ.** Jaqinakax jumar amuyapxi. NIA sasa, jumax jan ch'amampi sarañ jan ukax jan amuyasiña qalltaski ukhaxa, jumanakan amuyasiñ jan ch'amampi ch'amanchañapa.
 
-## What calm activities can we do in the late afternoon?
+## ¿Kunas jaqsuñ qhipa jan ch'amampi lup'iwinaka lup'iñaxa?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Jan ch'amampi, jan ch'amanchasi ukat sapa kuti jan ch'amampi sarañ lup'iwinaka ajllisiñamawa. Alzheimer's Association sasa, sum musica, uñt'añanaka jan ukax kusisiñ ch'iqi uñt'añanaka, sarañ jach'a jan ch'amampi sarañ ukat jan ch'amampi lup'iwinaka yanapt'aspa. NIA sasa, manq'a jan ukax umaña, kusisiñ TV qhana, musica, sarañ, arsuña, jan ukax uta lup'iwi, akhamarak laundry ch'iqi qhipa jan ch'amampi lup'iwinaka.
 
-Ideas to try:
+Lup'iwinaka yant'añataki:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Laundry ch'iqi tuqita.** NIA sasa, akham jan ch'amampi uta lup'iwinaka. Tawasa jan ch'amampi, jan ukax lup'iwi jan ch'amampi tukuyañapa.
+2. **Sum musica lup'iña.** Jupanakan kusisiñ qhanaka, jan ch'uqi. Qhana ukat sayañ walikiskiwa. Yatiyañataki [music activities](/activities/music/) uñjañamawa.
+3. **Uñt'añanaka.** Mä album jan ukax jaqinakan uñt'añanaka [Photo Pairs](/games/photo-pairs/) sasa, uñt'añanaka uñacht'aspa, jan arsuña jan sum arsuñ utjañapa.
+4. **Jisk'a sarañ.** Uta jan ukax uta qhipa, jan ukax qalasa tuqi, jan k'anchay utjañatpach.
+5. **Manq'a ukat umaña.** Sum, jan ukax jan ch'uqi umaña, mesa tuqi sapa jupanakampi.
+6. **Jan ch'amampi jaladasiña.** [Picture Pairs](/games/picture-pairs/) sasa, pä tuqi uñt'añanaka, jan ch'amampi qalltaña ukat sarañ.
+7. **Ch'iqi.** [Coloring](/games/coloring/) pantalla jan ukax qillqatanakan, jan tukuyañ amuyaspa.
+8. **Uñjaña ukat arsuña.** [Conversation Cards](/games/conversation-cards/) sasa, uñt'añ ukat arsuña jan ch'amampi tuqi. Uñjañax walikiwa.
+9. **Ch'ukiña sayt'asiña.** [Calm Breathing](/games/calm-breathing/) jan ch'amampi, jumax qalltaña ukat tukuyañ.
+10. **Amparampi lup'iwi.** Tuqinakan, jan ukax jan ch'amampi lup'iwinaka, jan ukax sapa jaqinakan uñt'añanaka. [sensory activities](/activities/sensory/) uñjañamawa.
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Jan ch'amampi lup'iwinaka, jan ch'amampi sarañanaka ukat jaqsuñ qhipa amuyasiñ, uñt'añ jan ukax jan amuyasiñ mayjt'aña jan ch'amampi lup'iwinaka jan lup'iñamawa. Ukanakax nayra urunakan lup'iñamawa.
 
-## What should I do when restlessness starts?
+## ¿Kunsa luqtañax, jan amuyasiña qalltañ ukhaxa?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Jan ch'amampi sayt'añ, yanapt'aña, jan ch'amampi uñtasiñ. NIA sasa, jan ch'amampi arsuñ, jaqi arumanakan ist'añ, jan arsuñ, ukat jaqi jan ch'amampi uñtasiñ ukax jupa jan ch'amampi uñt'añ. Ukat jan ch'amampi lup'iwi ukat, manq'a, umaña, musica jan ukax sarañ uñjañamawa.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association sasa, "Akan jan ch'amampi" ukat "Jumax jan ch'amampi uñtasiñ" sasa arsuñ yanapt'añ. Jan ch'uqi, jan ch'amampi uñtasiñ, jan ukax jan arsuña. Jaqi jan ch'amampi uñtasiñ ukhaxa, jan ch'amampi arsuñ.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Jaqix ch'amanchasi ukhaxa, NIA sasa, jan ch'amampi uñtasiñ ukhamaraki sayt'añamawa. Jan ch'amampi ukhaxa, 110 jan ukax 118 uñt'añamawa, ukat jaqinakar sañamawa jaqix demencia ukan jakasiski.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Jan ukhaxa, [communication](/caregiving/communication-tips/) ukat [what to do when they say no](/caregiving/when-they-say-no/) sasa, arsuñanaka ukat yanapt'añanakax utjapxi.
 
-## How do I find the triggers?
+## ¿Kunsa jan ch'amampi uñtasiñanakan yatiñax?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Mä jukʼa uru qillqañamawa, mä kimsa mara. Alzheimer's Association sasa, jan ch'amampi uñtasiñanakan yatiñataki, jan ch'amampi uñtasiñ nayra kunas sarañ uñt'añ. Uñtasiñ qalltañ urux, nayra mä ukax, manq'a, samarañanaka, jaqinaka, jan ch'uqi ukat k'anchay yatiyañamawa. Qillqatanakax doctor uñjañ ukhaxa uñacht'añamawa. NIA sasa, uñtasiñ qillqatanakax jaqinakan ukat jaqsuñ yanapt'iri jaqinakan uñt'añ.
 
-## When should I call a doctor about sundowning?
+## ¿Kunsa doctor uñjañax jaqsuñkama?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Jaqi doctor uñjañamawa, jan ch'amampi uñtasiñ machaq jan ukax ch'amanchasi, jan ukax yaqha jan allin uñtasiñanakamp mayacht'asa. NIA sasa, jan ch'amampi uñtasiñ machaq jan ukax khuyapt'asiñ qhipa, uñt'añ ukat jan ch'amampi samarañanakat qhipa, doctor ukar yatiyañamawa.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Doctor ukar jan allin jaqsuñ jan ukax jan ch'amampi uñtasiñanakan yatiñ. Alzheimer's Association sasa, urinary tract infection, incontinence, restless legs ukat sleep apnea ukanakan uñt'añ. NIA sasa, walt'äwi, manq'a jan ukax samarañanakan jan allin uñtasiñanakax jan ch'amampi uñtasiñ ch'amanchaski.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association sasa, Alzheimer's ukan jan istasiña ukataki jan samarañanakax nayra utjaspa, jan ukax samarañanakax jan sum amuyasiñ ukanakax, doctor ukampi arsuñamawa. Jan ch'amampi samarañ ukax doctor ukan amuyasiñawa. Doctor jan uñjañamawa jan ukax jan samarañ, jan ukax jan samarañ ukat jan ch'amampi samarañ jan mayisiñamawa.
 
-## How do I get through the evenings myself?
+## ¿Kunsa jupa mayni jaqinakan jaqsuñkama sarañ?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Jaqsuñ qhipa jaqinakan sarañax jach'a ch'amanchasi. Walja uru jan ch'amampi sarañ, jaqinakan, sapa mayni jan ukax yanapt'iri jaqinakan jaqsuñ qhipa jan ch'amampi uñt'añ, jisk'a uru ukhamarakiw. [caregiver self-care](/caregiving/caregiver-self-care/) uñjañamawa, uñt'añataki yanapt'añanaka ukat Alzheimer's Association 24/7 Helpline sasa.

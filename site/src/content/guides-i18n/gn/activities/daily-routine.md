@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Ára jepivegua opytuʼu hag̃ua oñangarekóva ndive"
+seoTitle: "Ára jepivegua deménsia rehegua: peteĩ ára techapyrã"
+description: "Peteĩ ára techapyrã iñambuekuaa hag̃ua peteĩ tapicha oikovéva deménsia ndive, karu, tembiapo ha pytuʼu reheve, ha mbaʼéichapa rejapo ha remoambue."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Peteĩ ára jepivegua opytuʼu hag̃ua omoĩ jey jey pe jepeʼa, karu, ñeñangareko
+  ha ñeno haʼetegua ára peteĩchagua, omoĩ pe tembiapo tuichavéva pe tapicha
+  iñakãporãvéva jave, ha ombojoaju tembiapo ha pytuʼu. Ejapo pe tapicha
+  jepokuaa meme guare reheve, eheja iñambuekuaa hag̃ua ndahaʼéi oñemyenyhẽva,
+  ehecha tesape ha emonguʼe ára ha ára, ha emoambue pe jeýma nde reipotárõ pe
+  árape.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Ára ha ára peteĩcha pe jepeʼa, karu, ñeñangareko ha ñeno omeʼẽ pe árape peteĩ ysaja ojekuaáva."
+  - "Emoĩ pe tembiapo tuichavéva pe tapicha iporãvéva jave, hetave jey pyharekue."
+  - "Ani remyenyhẽ opa aravo. Pytuʼu ha kirirĩha avei oĩ pe ára jepiveguápe."
+  - "Tesape, jekuʼe ára ha ára ha ani reke puku kaʼaru rire térã reikaru kaʼaruve ikatu nepytyvõ ani hag̃ua pe kaʼaru ñemyatyrõ."
+  - "Peteĩ ára jepivegua haʼe peteĩ ñepytyvõ, ndahaʼéi peteĩ tembiaporã. Emoambue, emombyky térã eheja oimeraẽ mbaʼe ára hasývape."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Mbaʼérepa peteĩ ára jepivegua ikatu nepytyvõ peteĩ tapicha oikovéva deménsia ndive?"
+    a: "Peteĩ ára oñehaʼarõkuaáva heʼise saʼive mbaʼe oñeiporavóva ha oñemohaʼangáva, ha upéva ikatu omopyʼaguapy heta tapicha oikovéva deménsia ndive. Alzheimer’s Association heʼi peteĩ ára oñemboguapýva rupive nde reipuru saʼive aravo reikuaa hag̃ua mbaʼépa rejapóta ha hetave aravo umi mbaʼe peẽ mokõive pevyʼápe. Avei ikatu nepytyvõ oñangarekóvape omohenda porã hag̃ua ijeheguaitépe iára."
+  - q: "Mbaʼépa peteĩ ára jepivegua porã peteĩ tapicha oikovéva deménsia ndive guarã?"
+    a: "Ndaipóri peteĩ ára jepivegua añónte iporãva. Peteĩ iporãva omoĩ peteĩcha jey jey pe jepeʼa, karu ha ñeno, omoĩ ñeñangareko ha pe tembiapo tuichavéva pe tapicha iporãvéva jave, oguereko aravo oka hag̃ua térã oĩ hag̃ua ovetã ypýpe, ha oheja paʼũ pytuʼurã. Ejapo pe tapicha oiko meme hagueicha."
+  - q: "Oiképa peteĩ tapicha oikovéva deménsia ndive oke hag̃ua ára pukukue?"
+    a: "Peteĩ pytuʼu mbyky ikatu nepytyvõ, karu rire. National Institute on Aging heʼi ani hag̃ua oñemoneĩ oke puku térã otyryry kaʼaruve, oĩramo oikaneʼõ térã ndoke porãiramo ikatu ombohetave pe kaʼaru ñemyatyrõ. Ndaiporãiramo jey jey pe ke, eñeʼẽ ihakãrapavẽ ndive."
+  - q: "Mbaʼépa ajapóta nomboguapyséiramo pe ára jepivegua?"
+    a: "Eheja koʼág̃a ha eñehaʼã jey ag̃ave térã ambue hendáicha. Nomboguapyséiramo ikatu heʼise okaneʼõ, ndoikói porãi, iñandupyre térã ndoikói gueteri oĩ hag̃ua. Pe ára jepivegua oĩ ombohapeve hag̃ua pe ára, upévare emoambue ani emombaretévo."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Peteĩ ára jepivegua opytuʼu hag̃ua omeʼẽ pe árape peteĩ ysaja ojekuaáva: jepeʼa, karu, tembiapo michĩmi, pytuʼu ha ñeno peteĩcha ára ha ára. Omboguejy mbaʼe oñeiporavóva ha oñemohaʼangáva, ha omeʼẽ ndéve peteĩ jeýma umi aravo ndereikuaái jave mbaʼépa rejapóta. Ko ára jepivegua oĩva koʼápe haʼe peteĩ techapyrã, ndahaʼéi peteĩ tembiaporã. Eipuru peteĩ ñepyrũramo ha upéi emohenda pe tapicha reñangarekóva rehe.
 
-## Why does a daily routine help?
+## Mbaʼérepa peteĩ ára jepivegua nepytyvõ?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Peteĩ ára jepivegua nepytyvõ oĩgui umi jepokuaa ojekuaáva ndahasýi oñemoañetévo umi pyahúgui. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) heʼi peteĩ ára oñemboguapýva rupive ojeipuru saʼive aravo oñeiporavo hag̃ua mbaʼépa ojejapóta ha hetave aravo tembiapo ombovyʼávape, ha heʼi avei ára ha ára peteĩcha pe jepeʼa ha ñeno ikatu nepytyvõ ke apañuái ha kaʼaru ñemyatyrõ rehe. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) omombeʼu ñejahu, ñemonde ha karu peteĩcha ára ha ára peteĩ óga opytuʼu hag̃ua, ha [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) avei omombeʼu eguereko hag̃ua pe ára jepivegua peteĩcha.
 
-## A sample gentle day
+## Peteĩ ára opytuʼu hag̃ua techapyrã
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Umi aravo haʼe techapyrãnte. Emonguʼe opa ára tenonderã térã upe rire pe tapicha jepokuaa rehe.
 
-| Time | What happens | Ideas | On a harder day |
+| Aravo | Mbaʼépa oiko | Tembiporu | Ára hasývape |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Jepeʼa, jejahupápe, ñemonde | Opa ára peteĩcha; emoĩ ao ojeiporu hag̃uáicha | Eheja ñeñangareko hasyʼỹ hag̃ua; peteĩ kamisa pyahu oĩma |
+| 8:45 a.m. | Rambosa | Kafé ha marandu oñemoñeʼẽva hatã, térã radio | Pekaru oñondive kirirĩhápe, ani peñehaʼã peñeʼẽ hag̃ua |
+| 9:30 a.m. | Tembiapo tuichavéva | Embojovái ao, ejapo tembiʼu, embaʼapo kóga, esẽ mbykymi térã eguata | Peteĩ versión mbykyve, térã eheja ohecha nde rejapo jave |
+| 10:30 a.m. | Kirirĩha aravo | Purahéi, taʼanga aty, térã eguapy ovetã ypýpe | Eke peteĩ apyka iporãvape |
+| 11:00 a.m. | Nepytyvõ karu jave | Ejohéi kaʼavo, emohenda mesa | Nde rejapo tembiʼu; haʼe oĩ nendive |
+| 12:00 p.m. | Karu ha ñemopotĩ | Emopotĩ mesa, emokãʼỹ mbohapy tembiporu | Eheja umi tembiapoʼi |
+| 1:00 p.m. | Pytuʼu mbyky | Emopuʼã py, purahéi mbeguemi | Peteĩchaite |
+| 2:00 p.m. | Oka térã jekuʼe | Eguata, eguapy korapýpe, emboʼy yvoty, emombo glóbo | Eguapy ovetã orekóva kuarahy ypýpe |
+| 3:00 p.m. | Ava ndive térã apoporã | Oĩ ohóva, ohenói, [picture pairs](/games/picture-pairs/), mohaʼãnga, naipe | Hayʼu ha tembiʼuʼi oñondive |
+| 4:30 p.m. | Jepytuʼu aravo | Ahoja oñemboty, tesape oñemboguejy, tembiapo kirirĩ haʼeháicha ao mopotĩ ñembojoaju | Purahéi ojekuaáva, tyapu michĩ |
+| 5:30 p.m. | Karu kaʼaru | Nepytyvõ embojopyrúvo térã emohendávo mesa | Tembiʼu hasyʼỹ ha ojekuaáva |
+| 6:30 p.m. | Kaʼaru oñondive | Peñemanduʼa tembiʼuʼi hechapyrã rire, naipe, peteĩ tembiasagua iporãvéva, ipo ñemomýi | Oĩ oñondive kirirĩhápe |
+| 8:00 p.m. | Ñeno jepivegua | Ñejahu térã jeipopotĩ, ao ke rehegua, purahéi mbeguemi, tesape michĩ | Emombyky opa mbaʼe; ñemopyʼaguapy raẽ |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Ko techapyrã ohapykueho Alzheimer’s Association jeýma peteĩ tembiapo techapyrã peteĩha ha mokõiha peteĩhape g̃uarã, oñepyrũva ñeñangarekogui ha ramoságui, ohóva tembiapo óga pegua, jeguata, purahéi, pytuʼu ha jehechápe ha og̃uahẽva karu kaʼarúpe, manduʼápe ha ñeno ñemboguapýpe.
 
-## How do you build your own routine?
+## Mbaʼéichapa rejapo nde ára jepivegua?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Eñepyrũ pe tapicha oiko meme hagueicha, ndahaʼéi peteĩ taʼángagui. Alzheimer’s Association heʼi ejesareko koʼã mbaʼére rejeýma mboyve:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Mbaʼépa oipotaiterei, ndoipotáiva, mbaʼépa ikatu ha mbaʼépa omotenonde.**
+- **Mbaʼéichapa oipuru hague iára.** Peteĩ ojeréva voi ha oguatáva meme jagua ndive oguata gueteri voi. Peteĩ oikéva pyhareve ikatu noipotái arakaʼeve oñepyrũ 8 a.m.-pe.
+- **Iporãvéva jave arakuépe.** Emoĩ upépe ñejahu, jeho oka ha pe tembiapo tuichavéva.**
+- **Aravo hekopete** karu, jejahupápe ha ñemonde hag̃ua, ani hag̃ua ojejapo pyaʼe.
+- **Ára ha ára peteĩcha pe jepeʼa ha ñeno.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Pe kuatia peteĩchaite heʼi eike hag̃ua tembiapo óga pegua, karu, ñeñangareko, tembiapo apoporã, jekuʼe, aravo ava ndive, tembiapo jerovia rehegua ha aravo sapyʼagua, haʼeháicha peteĩ angirũ ohóramo.
 
-### Try it for a week, then adjust
+### Eñehaʼã peteĩ arapokõindýpe ha upéi emoambue
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Ehai peteĩ marandu mbyky ára ha ára. Alzheimer’s Association heʼi eporandu hag̃ua mbaʼe tembiapópa oiko porãve ha mbaʼére, oĩpa aravo hetaiterei térã saʼieterei mbaʼe oĩva, ha umi jeýma sapyʼagua ombovyʼápa térã omoangekói. Eguereko pe oikóva ha emoambue pe ndoikóiva.
 
-### Make it visible
+### Ehechauka hasyʼỹ hag̃uáicha
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Pe tapicha omoñeʼẽkuaáramo gueteri, peteĩ kuatia morotĩ térã peteĩ kuatiaʼi tai tuicháva pe ára jeýma rehegua ikatu omopyʼaguapy. Eheja mbykýpe: “Rambosa. Eguata Sarah ndive. Karu. Pytuʼu.” Oĩ tapicha oikovéva porãve ndoikuaáiramo heta ára mboyve; Family Caregiver Alliance heʼi ani eñeʼẽ hag̃ua umi jeýmare pe aja mboyve ndahaʼéiramo upéva omoangekói.
 
-## How to adapt the routine
+## Mbaʼéichapa emoambue pe ára jepivegua
 
-### Leave room to breathe
+### Eheja paʼũ opytuʼu hag̃ua
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ani remyenyhẽ opa aravo. Alzheimer’s Association omombaʼe pe tapicha oikotevẽha ombojoaju tembiapo ha pytuʼu ha ikatu oikotevẽ hetave jey opytuʼu mbyky. Ojehecháramo okañy, iñakã ambuére térã ipochy, emoambue tembiapo térã eike pytuʼurã.
 
-### Protect the late afternoon
+### Eñangareko kaʼaruve rehe
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Heta tapicha oñemyatyrõve kuarahy oike jave. NIA omombeʼu aravo oka hag̃ua térã ovetã ypýpe kuarahy rendápe ára ha ára, jekuʼe ára ha ára ani rejapo hetaitereívo, ani reikaru térã reikaru kaʼaruve kafé ha mbaʼe ikañýva, ha ani ehejarei oke puku kaʼaruve. Oĩ família ohecháva iporãha oñemboty hag̃ua ahoja ha oñemboguejy hag̃ua tesape kuarahy oike mboyve. Ehecha [kaʼaru ñemyatyrõ](/caregiving/late-day-restlessness/) ha [ke](/brain-health/sleep/).
 
-### Change it as needs change
+### Emoambue oikotevẽ jave oñemoambue
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Peteĩha peteĩha:** peñemboguapy oñondive pe ára jepivegua. Pe tapicha ikatu oipota peteĩ jeýma ohaihápe omboguatáva ijehegui.
+- **Mokõiha peteĩha:** nde resãmbyhyve. Tembiapo mbykyve, hetave pytuʼu ha heta tembiapo ojekuaáva; ehecha [tembiapo mokõiha peteĩhape g̃uarã](/activities/middle-stage/).
+- **Mbohapyha peteĩha:** pe ára jepivegua oñecentra ñemopyʼaguapýpe, karúpe ha ñeñangarekópe, aravo mbyky andu rehegua paʼũme haʼeháicha purahéi térã ipo ñemomýi; ehecha [tembiapo mbohapyha peteĩhape g̃uarã](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Emoambue umi tembiapo, ndahaʼéi pe ysaja
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Eguereko peteĩcha karu, pytuʼu ha ñeno, ha emonguʼe umi tembiapo paʼũme. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) omombeʼu eñehaʼã hag̃ua tembiapo iñambuéva ára ambuévape ani hag̃ua oñembohasy. Ikatu rejapo tembiʼu arakõi, rembapo kóga áraʼapokõi ha rehecha taʼanga áraapy. Ore [101 tembiapo arandu](/activities/ideas/) ha [tembiapo óga pegua](/activities/household-tasks/) ikatu omyenyhẽ umi aravo.
 
-## When the day goes sideways
+## Pe ára ndoikóiramo jeýmaicha
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Oĩ ára ndoikomoʼãi mbaʼeveichagua jeýmaicha. Mbaʼasy, peteĩ pyhare vai, ihakãrapavẽ oho térã ára iñambuéramo ikatu omoambue opa mbaʼe. Eheja pe jeýma, eguereko umi mbaʼe tuichavéva (tembiʼu, hayʼu, pytuʼu, ñemopyʼaguapy) ha eñehaʼã jey koʼẽrõ. Pe tapicha nomboguapyséiramo peteĩ mbaʼe, ehecha [heʼi jave nahániri](/caregiving/when-they-say-no/). Peteĩ pytuʼu mbyky pejepyʼaha oñondive, haʼeháicha [calm breathing](/games/calm-breathing/), ikatu nepytyvõ peẽ mokõivépe peñepyrũ jey hag̃ua.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Nde ára jepivegua avei tuicha mbaʼe. Emoinge paʼũ nde g̃uarã, ha ejerure nde família térã peteĩ pytyvõha opytuʼu hag̃ua aravo hekopetépe. Ehecha [oñangarekóva ijehegui ñangareko](/caregiving/caregiver-self-care/).

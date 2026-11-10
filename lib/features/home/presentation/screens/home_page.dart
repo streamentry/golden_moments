@@ -122,7 +122,6 @@ class _ErrorView extends StatelessWidget {
             Text(
               parentContext.l10n.libraryErrorBody,
               style: Theme.of(parentContext).textTheme.bodyLarge,
-              textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceLg),
             GmPrimaryButton(

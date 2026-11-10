@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "सामाजिक जुड़ाव आ दिमाग के सेहत: अकेलापन, अलगाव आ डिमेंशिया"
+seoTitle: "अकेलापन, सामाजिक अलगाव आ डिमेंशिया के जोखिम"
+description: "अकेलापन आ सामाजिक अलगाव कइसे डिमेंशिया के जोखिम से जुड़ल बा, सर्जन जनरल के सलाह का कहेले, आ संगे जुड़ल रहे के आसान तरीका।"
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  शोध से पता चलेला कि जिनगी के बाद वाला उमिर में सामाजिक अलगाव आ अकेलापन के संबंध डिमेंशिया के जादे जोखिम से हो सकेला।
+  2024 के लैंसेट कमीशन के अनुमान बा कि करीब 5% मामला अलगाव के चलते हो सकेला, हालांकि एह जुड़ाव
+  के कुछ हिस्सा डिमेंशिया के सुरुआत में लोगन के पीछे हटला के चलते भी हो सकेला। संपर्क में रहल, साझा शौक
+  आ सुने में मदद मिलला से आपस में जुड़ाव बनल रहेला। डिमेंशिया के साथ जियत लोग खातिर, आनंद आ जिनगी के
+  बेहतर गुणवत्ता खातिर साझा गतिविधियन के बहुत महत्व बा।
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "लैंसेट कमीशन बाद के उमिर में सामाजिक अलगाव के डिमेंशिया के 14 गो बदलाव जोग जोखिम कारन में शामिल करेला, जे लगभग 5% मामिला में देखल जाला।"
+  - "अमेरिकी सर्जन जनरल के 2023 के सलाह में पुराना अकेलापन आ अलगाव के बुजुर्गन में डिमेंशिया के करीब 50% अधिक जोखिम से जोड़ल गइल बा।"
+  - "एह सबूतन में से जादेतर अवलोकनात्मक बा, आ सुरुआती डिमेंशिया खुद लोगन के मेलजोल से दूर करे के कारन बन सकेला।"
+  - "सुने आ देखे में परेशानी, अकेले रहल आ देखभाल के जिम्मा, ई सब अलगाव के जोखिम बढ़ावेला।"
+  - "डिमेंशिया के साथ जियत लोग खातिर, आनंददायक साझा गतिविधियन से जिनगी के गुणवत्ता सुधरेले; मकसद जुड़ाव हवे, कवनो प्रदर्शन ना।"
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "का अकेलापन से डिमेंशिया हो जाला?"
+    a: "ई बात साबित नइखे भइल। कई अध्ययन अकेलापन आ अलगाव के डिमेंशिया के जादे जोखिम से जोड़े लें, बाकिर दिमाग में सुरुआती बदलाव के चलते भी लोग दोसरा से दूरी बनावे लग सकेला। जुड़ल रहला से मन के मिजाज आ सेहत के कई अउरी फायदा मिलेला, एहसे कवनो भी तरह से जुड़ाव बनवले राखल जरूरी बा।"
+  - q: "अकेलापन आ सामाजिक अलगाव में का अंतर बा?"
+    a: "सामाजिक अलगाव के मतलब होला कि रोज-रोज बात करे भा मिले-जुले खातिर बहुते कम लोग होखल। अकेलापन एगो अइसन दुखद अहसास हवे जेह में इंसान खुद के अकेला भा सब से कटल महसूस करेला। रउआ अकेले रहियो के अकेलापन महसूस ना करे के स्थिति में हो सकेनी, भा लोगन के भीड़ में रहियो के अकेलापन महसूस कर सकेनी।"
+  - q: "डिमेंशिया के साथ जियत माता-पिता के जुड़ल रहे में हम कइसे मदद कर सकिले?"
+    a: "छोट आ नियमित संपर्क बढ़िया काम करेला। हर हफ्ता फोन भा वीडियो कॉल के एगो तय समय रखीं, रसोई के मेज पर संगे कवनो काम भा खेल करीं, मेमोरी कैफे जाईं, भा कवनो पालतू जानवर भा नाती-पोता से भेंट कराईं। लोगन के संख्या कम आ माहौल शांत राखीं, आ उनकरे गति के हिसाब से काम चले दीं।"
+  - q: "अलगाव महसूस करत बुजुर्ग खातिर हमरा स्थानीय मदद कहाँ मिल सकेला?"
+    a: "The Eldercare Locator एगो सार्वजनिक सेवा हवे, जे परिवारन के बुजुर्गन से जुड़ल स्थानीय एजेंसियन आ सामुदायिक कार्यक्रमन से जोड़ेला। इनकरा से 800-677-1116 पर भा eldercare.acl.gov पर संपर्क कइल जा सकेला।"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+इंसान के स्वभाव में संगे रहे के चाह होला, आ उमिर बढ़ला पर भी ई बात नइखे बदलत। शोध से पता चलेला कि जिनगी के बाद वाला उमिर में अकेलापन आ सामाजिक अलगाव के संबंध डिमेंशिया के साथ-साथ दिल के बेमारी आ डिप्रेशन के जादे जोखिम से भी हो सकेला। शोध अभिन ई साफ-साफ नइखे बता सकत कि एह संबंध में कारन आ असर के कतना हिस्सा बा। एह पन्ना पर बतावल गइल बा कि सबूत का देखावत बाड़ें, आपस में जुड़ल रहे के व्यावहारिक तरीका का बा, आ पहिले से डिमेंशिया के साथ जियत लोग खातिर साझा गतिविधियन के काहे एतना महत्व बा।
 
-## Are loneliness and isolation linked with dementia?
+## का अकेलापन आ अलगाव डिमेंशिया से जुड़ल बा?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+हँ, कई अध्ययन इनहन के आपस में जोड़े लें, हालांकि एकर दिशा पूरा तरह से साफ नइखे। [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) बाद के उमिर में सामाजिक अलगाव के 14 गो बदलाव जोग जोखिम कारन में गिनेला। [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) के हिसाब से दुनिया भर में डिमेंशिया के करीब 5% मामला एहसे जुड़ल हो सकेला।
 
-What the evidence shows:
+सबूत का देखावत बाड़ें:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **कम संपर्क, जादे जोखिम।** कमीशन दू गो समीक्षा के हवाला देला जेह में कम सामाजिक संपर्क के संबंध डिमेंशिया के जादे जोखिम से पावल गइल। एगो समीक्षा में करीब 57% जादे जोखिम आ दूसरा में करीब 18% जादे जोखिम पावल गइल।
+- **अकेलापन भी।** कई समीक्षन में अकेलापन, यानी कटल-कटल महसूस करे के भाव के भी डिमेंशिया के जादे जोखिम से जुड़ल पावल गइल।
+- **सर्जन जनरल के नजरिया।** मई 2023 में, अमेरिकी सर्जन जनरल [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) जारी कइलें। एह में कहल गइल बा कि पुराना अकेलापन आ अलगाव बुजुर्गन में डिमेंशिया के जोखिम के करीब 50% ले बढ़ा सकेला। एह में कमजोर सामाजिक जुड़ाव के दिल के बेमारी के 29% जादे जोखिम आ स्ट्रोक के 32% जादे जोखिम से भी जोड़ल गइल बा।
+- **ई कतना आम बा।** [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) के अध्ययन से पता चलल कि समाज में रहे वाला 65 साल भा ओहसे जादे उमिर के करीब 24% अमेरिकी बुजुर्ग सामाजिक रूप से अलग-थलग बाड़ें।
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+एगो जरूरी सावधानी: लैंसेट कमीशन चेतावेला कि डिमेंशिया के सुरुआती दौर में, जब एकर पहचान भी ना भइल होखे, लोग सामाजिक गतिविधियन से दूरी बनावे लग सकेला। एकर मतलब ई बा कि एह जुड़ाव के कुछ हिस्सा डिमेंशिया के चलते लोगन के पीछे हटला से हो सकेला, ना कि सिर्फ पीछे हटला से जोखिम बढ़ल होखे। एह में से लगभग सभे सबूत अवलोकनात्मक अध्ययनों से आइल बाड़ें।
 
-## What is the difference between loneliness and isolation?
+## अकेलापन आ अलगाव में का अंतर बा?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) एकरा के एह तरह से समझावेला। **सामाजिक अलगाव** के मतलब होला कि रोज-रोज मिले-जुले भा बात करे खातिर बहुत कम लोग होखल। **अकेलापन** एगो अइसन तकलीफ़देह अहसास हवे जेह में इंसान खुद के अकेला भा दोसरा से कटल महसूस करेला। केहू अकेले रहियो के खुशी-खुशी रह सकेला, आ केहू खचाखच भरल कमरा में रहियो के अकेलापन महसूस कर सकेला।
 
-The NIA lists factors that raise the risk of both:
+एनआईए (NIA) ओह कारनन के सूची देवेला जे दुनों के जोखिम बढ़ावे लें:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- सुने भा देखे में परेशानी
+- घूमे-फिरे में दिक्कत, भा आवागमन के साधन ना होखल
+- अकेले रहल, भा जीवनसाथी के निधन भा रिटायरमेंट जइसन कवनो बड़ नुकसान
+- याददाश्त भा सोचे-समझे के क्षमता में बदलाव
+- कवनो अइसन प्रियजन के देखभाल जे अस्वस्थ बाड़ें
+- पइसा के चिंता भा भाषा के रुकावट
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+सुने के परेशानी एगो बड़हन कारन बा। एनआईए बतावेला कि जे लोग ठीक से ना सुन पावे, ऊ लोग बातचीत से एहसे कतराये लागेला काहे कि बातचीत चिढ़ भा असहजता पैदा करे लागेले। हमनी के [hearing and brain health guide](/brain-health/hearing/) में सुनने के जांच आ बिना डॉक्टरी परची के मिले वाला हियरिंग एड के बारे में बतावल गइल बा।
 
-## Practical ways to stay connected
+## आपस में जुड़ल रहे के व्यावहारिक तरीका
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+एनआईए (NIA) कई गो सुझाव देवेला। जे रउआ खातिर ठीक बइठे, ओह में से एक भा दू गो चुनीं:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **नियमित संपर्क के समय तय करीं।** परिवार, दोस्त भा पड़ोसियन से फोन करे, संदेश भेजे, ईमेल करे भा चिट्ठी भेजे खातिर हर दिन भा हर हफ्ता एगो समय तय करीं।
+- **वीडियो कॉल भा स्मार्ट स्पीकर के इस्तेमाल करीं।** अगर तकनीक नया बा, त कई सार्वजनिक लाइब्रेरी आ सामुदायिक केंद्र एह पर क्लास चलावेलें। हमनी के [phone and video calls guide](/activities/phone-and-video-calls/) देखीं।
+- **कवनो समूह से जुड़ीं।** कवनो क्लास, धार्मिक समुदाय, टहले वाला समूह भा स्वयंसेवा के काम रउआ के लोगन से जोड़ेला आ जिनगी के एगो मकसद देवेला।
+- **कवनो पुरान शौक फेर से सुरु करीं** भा दोसरा लोगन के संगे कवनो नया चीज सीखीं।
+- **दोसरा लोगन के संगे हिलीं-डुलीं।** कवनो दोस्त भा समूह के संगे हल्का-फुल्का व्यायाम करीं। हमनी के [exercise guide](/brain-health/exercise/) में आसान उपाय बाड़ें।
+- **पालतू जानवर रखला पर विचार करीं** अगर रउआ ओकर देखभाल कर सकत बानी।
+- **स्थानीय सेवा के मदद लीं।** सीनियर सेंटर, बुजुर्गन खातिर स्थानीय एजेंसी आ Eldercare Locator (800-677-1116) रउआ के मददगार कार्यक्रमन आ आवागमन के साधन तक पहुँचावे में मदद कर सकेलें।
 
-## Why do shared activities matter in dementia?
+## डिमेंशिया में साझा गतिविधियन के काहे महत्व बा?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+जे लोग पहिले से डिमेंशिया के साथ जी रहल बाड़ें, उनकरा खातिर जुड़ाव के मतलब आनंद, सुकून आ अपनइती के अहसास हवे, जोखिम कम कइल ना। लैंसेट कमीशन बतावेला कि गतिविधियन से डिमेंशिया के साथ जियत लोगन के आनंद आ मकसद बनल रहे में मदद मिलेला। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) बतावेला कि जिनगी के गुणवत्ता सुधारे के अलावा, गतिविधियन से बिना मतलब के भटके भा बेचैनी जइसन बेवहार भी कम हो सकेला। [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) जोड़त कहेला कि अल्जाइमर के साथ जियत लोगन खातिर सक्रिय रहल आ मनपसंद काम कइल जरूरी होला।
 
-Ideas that work well:
+सुझाव जे बढ़िया काम करेले:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **संगे तसवीर देखीं।** [Conversation Cards](/games/conversation-cards/) बिना कवनो परीक्षा भा सवाल-जवाब के खुला बातचीत के मौका देवेला, जइसे कि "हमरा के एह बारे में बतावल जाव..." हमनी के [reminiscence guide](/activities/reminiscence/) देखीं।
+2. **आमने-सामने संगे खेलीं।** [Picture Pairs](/games/picture-pairs/) में तसवीर हमेशा लउकत रहेलीं आ एह में कवनो टाइमर भा स्कोर ना होला, एहसे कवनो दबाव ना रहेला। संगे कइसे खेलल जाव, एह पर हमनी के [how to play together](/caregiving/how-to-play-together/) गाइड में कई उपयोगी सुझाव बाड़ें।
+3. **पारिवारिक तसवीरन के इस्तेमाल करीं।** [Photo Pairs](/games/photo-pairs/) रउआ द्वारा चुनल गइल फोटो के एगो मिलान वाला खेल बना देवेला, आ फोटो रउआ ही के डिवाइस पर सुरक्षित रहेलीं।
+4. **लोगन के एक संगे ले आईं।** [Picture Bingo](/games/picture-bingo/) पारिवारिक जमावड़ा आ [care home groups](/activities/care-home-groups/) दुनों खातिर बढ़िया काम करेला।
+5. **संगीत, घर के काम भा बगइचा के काम साझा करीं।** [music activities](/activities/music/), [household tasks](/activities/household-tasks/) आ हमनी के [activity ideas](/activities/ideas/) के पूरा सूची देखीं।
+6. **भेंट-मुलाकात के आसान बनाईं।** हमनी के [visiting guide](/activities/visiting/) में छोट आ शांत मुलाकातन के तरीका बतावल गइल बा, जेकरा से सभके अच्छा महसूस होखेला।
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+माहौल के छोट आ सहज राखीं। बड़हन समूह के तुलना में एगो शांत कमरा जेह में एक भा दू लोग होखे, जादे बढ़िया रहेला। अगर ऊ इंसान थक जाव भा ओकर मन ऊब जाव, त खेल बंद क दिहल एकदम ठीक बा। संगे बइठ के एक कप चाय पीयल भी अपने आप में एगो बढ़िया पल हवे।
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+जे लोग डिमेंशिया के साथ अकेले जी रहल बाड़ें, एनआईए उनकरा खातिर कवनो भरोसा मंद इंसान खोजे के सलाह देवेला जे नियमित रूप से भेंट कर सके भा वीडियो कॉल कर सके आ आपातकालीन संपर्क बन सके। एह में स्थानीय मेमोरी कैफे के भी जिकिर बा, जे याददाश्त के कमी से जूझत लोगन आ उनकर परिवार खातिर एगो सहज सामाजिक जगह हवे।
 
-## Caregivers get lonely too
+## देखभाल करे वालन के भी अकेलापन महसूस हो सकेला
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+एनआईए कवनो प्रियजन के देखभाल करे के अलगाव के एगो जोखिम कारन मानेला। अपनी खुद के दोस्ती, सहायता समूह आ आराम खातिर कुछ समय जरूर निकालीं। हमनी के [caregiver self-care guide](/caregiving/caregiver-self-care/) में उपयोगी विचार बाड़ें।
 
-## Talk with a doctor
+## डॉक्टर से बात करीं
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+अगर रउआ भा जेकर रउआ देखभाल कर रहल बानी, जादेतर समय अकेलापन भा अलग-थलग महसूस करत होखीं, त डॉक्टर से बताईं। एनआईए सलाह देवेला कि जिनगी के बड़हन बदलाव, जइसे कि परिवार में कवनो मौत, डॉक्टर के जरूर बतावल जाव ताकि डॉक्टर पूरा स्थिति समझ सके। कई हफ्ता ले मन उदास रहल डिप्रेशन हो सकेला, जेकर इलाज संभव बा। अगर कवनो बुजुर्ग हाल ही में दोसतन भा अपनी मनपसंद गतिविधियन से दूर होखे लगल बाड़ें, त एह बदलाव के बारे में भी डॉक्टर से बात कइल जरूरी बा। [early signs and when to see a doctor](/brain-health/warning-signs/) पढ़ीं।
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ई पन्ना सामान्य जानकारी खातिर बा, कवनो डॉक्टरी सलाह ना हवे। हमनी के [medical disclaimer](/medical-disclaimer/) देखीं।

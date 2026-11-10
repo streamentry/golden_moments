@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Bólkaírskur fyri demens: Vegleiðing til stovnar"
+seoTitle: "Bólkaírskur fyri demens: Bingo, sangur og søgur"
+description: "Bólkaírskur í røkt og dagtilhaldum: myndabingo, sangir og samminningarbólkar, við ráð um sæti, bólkastødd og ymisk tørv."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Góðir bólkaírskur í minnians røkt og dagtilhaldum eru stuttir, kendir og
+  lættir at vera við í á øllum støðum: myndabingo, sangur saman,
+  samminningarsamrøður, einfaldar rørslur og felags orðaspøl. Halt bólkarnar
+  smáar, tá ið tað ber til, set fólk soleiðis, at øll síggja og hoyra, gev eitt
+  skilligt stig í senn, og legg til rættis við eini lættari leiklut og eini
+  stillari leið út til tey, sum hava tørv á tí.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Smærri bólkar rigga ofta betur enn eitt stórt tiltøk, og tey geva fleiri møguleika at vera virkin heldur enn bert at hyggja."
+  - "Set fólk í ein ring ella hestaskeiv, tætt at leiðaranum, við atliti at hoyrn og sjón og við sløktum bakgrundsljóði."
+  - "Legg hvønn ískur til rættis á tveimum ella trimum stigum, so fólk við ymiskum førleikum øll kunnu vera við."
+  - "Lat vera við at spyrja út, telja stig ella velja vinnarar. Myndabingo kann spælast soleiðis, at øll enda við fullum korti."
+  - "Tað er í lagi at fara tíðliga, hyggja ella blunda. Hav ein starvsfelaga til reiðar, sum kann hjálpa teimum, ið ynskja eitt stillari rúm."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Hvussu stórur eigur ein bólkur at vera til demensírskur?"
+    a: "Eitt eintýtt rætt svar er ikki til, og tað veldst um búfólkið, rúmið og hvussu nógv starvsfólk tit eru. Nógv toymi uppliva, at smáir bólkar gera tað lættari hjá øllum at síggja, hoyra og vera við, meðan stór tiltøk ofta gera, at fleiri bert hyggja. Um tit halda eitt stórt tiltøk, fáið so starvsfólk ella sjálvboðnar við, sum kunnu sita millum búfólkið og hjálpa einum ella tveimum hvør."
+  - q: "Hvussu kann eg leiða ein bólk við ymiskum førleikum?"
+    a: "Legg fleiri møguleikar til rættis fyri at vera við í hvørjum íski. Í sangi saman syngja summi øll orðini, onnur klappa ella tráa, og onnur halda eina ristru. Í myndabingo finna summi síni egnu myndir, meðan ein hjálpari peikar hjá øðrum. Set fólk, sum hava tørv á meiri hjálp, við síðuna av einum starvsfelaga ella sjálvboðnum."
+  - q: "Hvussu kann eg spæla myndabingo uttan kapping?"
+    a: "Les allar myndirnar upp, til øll hava fult kort, so eingin verður útihýstur. Tosa um hvørja mynd, tá hon kemur, og lat vera við at geva vinnarum virðislønir, ella gev øllum tað sama litla. Endamálið er felags uppmerksemi og samrøða, ikki hvør gerst liðugur fyrstur."
+  - q: "Kunnu tit brúka tykkara spøl á einum stórum skermi í bólki?"
+    a: "Ja. Okkara spøl koyra í einum alnótarkagara, so tit kunnu lata tey upp á eini fartelduni ella teldil, sum er knýtt at einum sjónvarpi ella ljósvarp. Myndabingo hevur kort, sum kunnu prentast, og ein ávísara á skerminum. Enda orðið og Myndapør rigga eisini væl á stórum skermi, har ein persónur trýstur fyri bólkin."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Hendan vegleiðingin er til tiltaksleiðarar, toymi í minnians røkt og leiðarar í dagtilhaldum. Hon fevnir um bólkasnið, sum rigga væl, innrætting av rúminum, hvussu ein ískur kann lagast til ymisk førleiki, og hvussu tit kunnu brúka okkara bingo-kort til at prenta og spøl á stórum skermi. Alt her snýr seg um vælveru, samveru og val. Einki her er ein roynd.
 
-## What makes a group activity work in memory care?
+## Hvat fær ein bólkaísk at rigga í minnians røkt?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Ein góður bólkaískur er kendur, stuttur, lættur at vera við í á øllum støðum og uttan trýst. [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) hjá Alzheimer’s Association lýsa týdningarmikla luttøku sum nakað, ið tekur atlit at áhugamálum og ynskjum hjá persóninum og gevur rúm fyri vali og at eydnast, sjálvt tá demens er nógv framkomin. Sama skjal nevnir, at vanlig tiltøk ofta byggja á eitt ella tvey stór bólkatiltøk um dagin, har búfólk ofta bert luttaka óvirkin.
 
-That points to a few practical rules:
+Hetta peikar á nakrar praktiskar reglur:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Kend er betri enn nýtt.** Sangir, orðatøk, myndir og lutir frá yngri árum hjá búfólkinum eru lættari at vera við í.
+- **Stutt er betri enn langt.** Legg fyri um tann tíð, sum bólkurin vanliga megnar at halda uppmerkseminum, og hav ein natúrligan steðgistað á vegin.
+- **At gera er betri enn at hyggja.** Gev hvørjum persóni nakað at halda, trýsta á, velja ella siga.
+- **Nógv stig, ein ískur.** Ger lættari og torførari leiðir at vera við.
+- **Ongir vinnarar, eingi stig.** Kapping kann fáa nøkur at kenna seg sum miseydnað.
 
-## How big should the group be?
+## Hvussu stórur eigur bólkurin at vera?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Minni er vanliga lættari. Alzheimer’s Association nevnir, at ein persónur, sum kennir seg ovfarin av einum stórum savning, kann trívast betur í einum minni bólki. Eitt eintýtt rætt tal er ikki til. Tað veldst um búfólkið, rúmið og hvussu nógv starvsfólk og sjálvboðnir eru til staðar.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Ein góð roynd: kann hvør persónur síggja andlitið á leiðaranum, hoyra skilliga og fáa hjálp frá einum hjálpara innan fá sekund? Um ikki, býtið so bólkin, fáið fleiri hjálparar ella farið í eitt minni rúm.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Til stór tiltøk, sum til dømis eitt jólakonsert, skulu starvsfólk og sjálvboðnir sita millum búfólkið, ikki við veggjarnar.
 
-## How should I set up the room and seating?
+## Hvussu eigi eg at innrætta rúmið og sætini?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Ringur ella hestaskeivur.** Tilráðingarnar um røkt við demens lýsa ein deiliring sum bestan í einum rúmi, sum er stórt nokk til, at øll kunnu sita í einum ringi, uttan bakgrundsljóð.
+- **Leiðarin tætt við og í eygnahædd.** Sit heldur enn at standa, tá ið tað ber til.
+- **Hoyrn og sjón fyrst.** Set fólk, sum hoyra illa, næst leiðaranum á teirra bestu síðu. Syrg fyri, at brillur og hoyritól eru í. Alzheimer’s Association nevnir, at trupulleikar við sjón og hoyrn kunnu gera samskifti torførari.
+- **Ljós aftan fyri búfólkið, ikki aftan fyri teg.** Lat vera við at seta onkran soleiðis, at hann hyggur móti einum bjartum vindeyga.
+- **Sløkk fyri sjónvarpi og útvarpi.** Alzheimer’s Association mælir til at taka burtur kappingarljóð undir tónleikaírskum.
+- **Ein samrøða í senn.** Tað er torført hjá fólki, sum livir við demens, og fólki, sum hoyra illa, at fylgja við, tá fleiri tosa í senn, sum Alzheimer’s Association peikar á í [leiðbeiningini um frídagar](https://www.alz.org/help-support/caregiving/holidays).
+- **Greiðar útgongdir og eitt stilli horn.** Øll, sum ynskja at fara, skulu kunna gera tað lætt, við einum starvsfelaga, sum kann ganga við.
 
-## Group activity ideas
+## Hugskot til bólkaírsk
 
-### Picture bingo
+### Myndabingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Myndabingo brúkar greiðar myndir í staðin fyri tøl, til dømis ein tekanna, ein hund ella eina rósu, so eingin skal halda skil á longum tølum ella lesa smáan tekst.
 
-**How to run it:**
+**Soleiðis gert tú:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Prenta eitt kort til hvønn persón úr [Myndabingo](/games/picture-bingo/) við Prenta-knappinum. Tjúkt pappír er lættari at halda á. Plastið til endurnýtslu.
+2. Gev stórar merki, sum eru lætt at taka upp, til dømis pokerflísar, tappahettur ella skornar pappabitar.
+3. Brúka ávísaran á skerminum á einum sjónvarpi ella ljósvarp, so øll síggja myndina, meðan tú sigur navnið.
+4. Steðga stutt eftir hvørja mynd og bjóða einum stuttum viðmerkingi: „Hevur onkur lust at siga frá einum hundi, tit hava kent?“ ella „Hvat leggja tit merki til her?“
+5. Halt fram, til øll kort eru full. Øll gera seg liðug.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Laga til:** Brúka færri reinar til tey, sum finna eitt heilt kort ov strævið. Ein hjálpari kann peika á røttu myndina hjá einum, sum hevur tørv á tí. Summi vilja kanska heldur halda myndarkortið hjá ávísaranum og vísa bólkinum tað.
 
-### Sing-alongs
+### Sangur saman
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Tónleikur er ein av teimum mest dámdum bólkaírskunum. Alzheimer’s Association nevnir, at sjálvt á seinni stigum kann ein persónur [klappa taktin ella syngja ein sang frá barnatíðini](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Soleiðis gert tú:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Vel sangir, sum búfólkið vaks upp við, ikki yndissangirnar hjá leiðaranum. Spyr avvarðandi, hvat hvør persónur helt nógv av.
+- Brúka tónleik uttan lýsingar, sum sambært felagsskapinum kunnu vera ørkymlandi.
+- Prenta sangtekstir við stórum bókstavum til tey, sum lesa, men krev ikki, at øll skulu gera tað.
+- Bjóð ristrur, lítlar trummur ella turriklæði at veiva við.
+- Eggja til at klappa og røra seg, og halt ljóðstyrkina á einum góðum støði.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Laga til:** Summi syngja øll orðini, summi tráa, summi klappa við fótinum, og summi lurta bara. Alt hetta telur. Sí okkara [vegleiðing um tónleikaírsk](/activities/music/) fyri meira.
 
-### Reminiscence groups
+### Samminningarbólkar
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Ein samminningarbólkur savnast um eitt evni, sum til dømis skúladagar, fyrstu bilar, køkur ella summar, og brúkar myndir, lutir og tónleik. Endamálið er ein hugnalig samrøða, ikki rætt minni.
 
-**How to run it:**
+**Soleiðis gert tú:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Vel eitt evni og tak nakrar lutir við, sum fólk kunnu halda: ein handmiksari, ein baseballhondskur, ein hattur, ein fræbók.
+2. Lat ein lut í senn ganga runt. Spyr opin spurningar: „Sig mær frá hesum“, „Hvat síggja tit her?“ „Hvør brúkti okkurt sum hetta?“
+3. Tak væl ímóti øllum svarum. Rætta ongantíð dagfestingar ella upplýsingar.
+4. Leið samrøðuna móti góðum minnum. Tilráðingarnar um røkt við demens vísa á, at teir, sum veita røkt, skulu stýra samminningum móti jaligum minnum heldur enn slíkum, sum kunnu elva til ótryggleika.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Samrøðukort](/games/conversation-cards/) bjóða prentber myndakort við opnum spurningum eftir evni, sum rigga væl sum byrjan til samrøðu. Fleiri hugskot eru í okkara [samminningarleiðbeining](/activities/reminiscence/).
 
-### Finish the saying
+### Enda orðið
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Kend orðatøk („Betri ein fuglur í hondini enn...“) bjóða øllum at rópa endan saman. Vís [Enda orðið](/games/finish-the-saying/) á einum stórum skermi og lat bólkin svara sum ein rødd. Aftan á hvørt orðatak er ein spurningur at tosa um. Um eingin sigur endan, so vís hann og halt fram. Einki er rætt ella skeivt.
 
-### Large-print word search, together
+### Orðaleitan við stórum stavum, saman
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Varpa [Orðaleitan](/games/word-search/) við stórum stavum á ein skerm og leita eftir orðum sum bólkur, ella prenta avrit til tey, sum dáma at sita og arbeiða sjálvi við borðið. Orðini ganga bert tvørtur um og niður.
 
-### Gentle movement
+### Róligar rørslur
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Royndar teygjur sitandi, at senda ein bleytan bólt ella ballón runt, ella dansa í stóli til kendan tónleik. Vís hvørja rørslu heldur enn at greiða frá henni.
 
-### Sorting and matching at the table
+### At skilja og para við borðið
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Lítil borð við trimum til fýra fólkum kunnu skilja myndir, tøybitskøkur ella bestikk saman. Á skermi kann [Myndapør](/games/picture-pairs/) spælast við myndunum sjónligum, har ein persónur trýstur, meðan borðið tosar um hvørja mynd.
 
-## How do I use your games on a big screen?
+## Hvussu kann eg brúka tykkara spøl á einum stórum skermi?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Okkara spøl koyra í einum alnótarkagara, so tit kunnu brúka tey á einum sjónvarpi ella ljósvarp uttan at leggja nakað inn.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Lat spælið upp á eini fartelduni ella teldil, sum er knýtt at skerminum við kaðli ella við at varpa.
+2. Ger kagarans vindeyga til fullan skerm og set ljóðið á eitt gott støði.
+3. Lat ein leiðara trýsta, meðan bólkurin rópar út valini. Ella send ein teldil runt til ein búfólk, sum hevur hug at royna.
+4. Steðga, tá ið bólkurin er til reiðar. Spølini hava ongan teldara, eingi stig og ongan tvungnan enda.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Myndabingo](/games/picture-bingo/), [Enda orðið](/games/finish-the-saying/), [Myndapør](/games/picture-pairs/) og [Samrøðukort](/games/conversation-cards/) hóska vanliga best í bólki. Sí øll møguleikar á okkara [spælsíðu](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Hvussu kann eg laga ein ísk til ymisk førleiki?
 
-Plan at least three ways to join every activity.
+Legg í minsta lagi tríggjar leiðir til rættis fyri at vera við í hvørjum íski.
 
-| Activity | More independent | Some support | Most support |
+| Ískur | Meira sjálvstøðugur | Við nøkrum stuðli | Við mestum stuðli |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Myndabingo | Finnur og merkir sínar egnu myndir | Hjálpari peikar; persónurin merkir | Heldur eitt myndakort; lurtar og hyggur |
+| Sangur saman | Syngur, vel næsta sang | Tráar, klappar, brúkar ristru | Lurtar, heldur eitt turriklæði, klappar við hondini |
+| Samminning | Fortelur søgur | Svarar ja ella nei ella peikar | Heldur og kennir lutin |
+| Orðaleitan | Arbeiðir við egnum prentaða avriti | Finnur orð á stóra skerminum við hjálpara | Lurtar, meðan orðini verða lisin upp |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Fyri búfólk á seinni stigum vísir NHS á, at ískur vanliga skulu vera einfaldari og meira snúgva seg um sansirnar, til dømis tónleikur, lutir at kenna á og handamassasje. Ein løta einsamall við einum persóni undir ella aftaná bólkin kann hóska betur enn sjálvur bólkurin. Sí [írskur á seinni stigum](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Hvussu skulu leiðarar tosa undir einum bólki?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Bjóða teg fram hvørja ferð, og brúka tað navnið, sum hvør persónur heldur best um.
+- Tosa spakuliga, gev eitt stig í senn, og vís áðrenn tú greiðir frá.
+- Bjóða við opnum orðum („Sig mær frá...“) ella einfaldum valum, ongantíð við spurningum, sum royna minni („Minnist tú...?“).
+- Rætta ikki. Takka øllum fyri tað, tey koma við.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Meira um hetta er í okkara [ráð um samskifti](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## At enda væl og lata fólk fara
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+At steðga er eitt gott úrslit. Legg merki til tekin um, at onkur er troyttur, órógvligur ella illa fyri, og lat ein hjálpara bjóða ein túr ella eitt stilli sæti aðrastaðni. Onkur, sum blundar undir sangi saman, kennir seg kanska bert væl.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Enda hvønn bólk á sama hátt, við einum kendum sangi ella einum einfaldum takki, so endin kennist róligur og væntaður. Skriva stutt niður aftaná, hvat riggaði væl og hvør dámdi hvat. Hesar notur gera næstu løtuna betri.

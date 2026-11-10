@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Դեմենցիա ունեցող տղամարդկանց զբաղմունքներ"
+seoTitle: "Դեմենցիա ունեցող տղամարդկանց զբաղմունքներ. գաղափարներ"
+description: "Դեմենցիա ունեցող տղամարդկանց համար զբաղմունքների գաղափարներ՝ հիմնված նրանց անցյալի աշխատանքի, նախասիրությունների և սովորությունների վրա։"
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Դեմենցիա ունեցող տղամարդու համար ամենահարմար զբաղմունքները գալիս են նրա սեփական
+  կյանքից. այն աշխատանքից, որը նա կատարել է, այն նախասիրություններից, որոնք նա
+  սիրել է, և այն առօրյա սովորություններից, որոնք նա ունեցել է։ Նախկին գրասենյակային
+  աշխատողը կարող է հաճույքով թղթեր դասավորել, մեխանիկը՝ մաքուր գործիքներ ձեռքով
+  շոշափել, իսկ մարզասերը՝ հին խաղ դիտել։ Նախասիրությունները տարբեր են, ուստի
+  սկսեք հենց մարդուց, ոչ թե նրա սեռից։
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Սկսեք այս տղամարդու սեփական պատմությունից. նրա աշխատանքը, նախասիրությունները, սովորությունները և այն, ինչի համար նա հպարտ էր։"
+  - "Իրական նպատակ ունեցող գործերը, օրինակ՝ սարքավորումների տեսակավորում, մեքենա լվանալը կամ փայտը հղկելը, հաճախ ավելի գրավիչ են, քան դասի նմանվող զբաղմունքները։"
+  - "Ոչ բոլոր տղամարդիկ են սիրում գործիքներ կամ մարզաձևեր։ Շատերը սիրում են եփել, երաժշտություն լսել, այգեգործությամբ զբաղվել, ստեղծագործել կամ հոգ տանել ուրիշների մասին։ Հարցրեք, դիտեք և հետևեք նրա ցանկությանը։"
+  - "Աշխատանքային բնույթի գործերը դարձրեք անվտանգ՝ հեռացնելով սուր գործիքները և անհրաժեշտության դեպքում օգնելով նրան, և պարզեցրեք դրանք, երբ կարողությունները փոխվում են։"
+  - "«Ոչ» ասելը թույլատրելի է։ Առաջարկեք դեր, ոչ թե հանձնարարություն, և մեկ այլ օր կրկին փորձեք։"
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Ի՞նչ զբաղմունքներ են հաճույքով անում դեմենցիա ունեցող տղամարդիկ։"
+    a: "Մեկ ընդհանուր ցուցակ չկա, որովհետև տղամարդկանց նախասիրությունները նույնքան տարբեր են, որքան բոլորինը։ Լավ Ausgang կետեր կարող են լինել նրա նախկին աշխատանքին առնչվող գործերը, օրինակ՝ թղթեր կամ պտուտակներ ու ընկույզներ դասավորելը, ինչպես նաև նրա սիրած նախասիրությունները՝ ձկնորսություն, մեքենաներ, երաժշտություն, եփել կամ մարզաձևեր։ Դիտեք, թե ինչով է նա ինքնուրույն զբաղվում, և սկսեք դրանից։"
+  - q: "Հայրս հրաժարվում է խմբակային զբաղմունքներից։ Ի՞նչ կարող եմ անել։"
+    a: "Շատ մարդիկ՝ թե՛ տղամարդիկ, թե՛ կանայք, հրաժարվում են այն զբաղմունքներից, որոնք դասի են նման կամ մանկական են թվում։ Փոխարենը առաջարկեք մի գործ. «Կկարողանա՞ս օգնել ինձ սա տեսակավորել»։ Փոքր խմբերը կամ մեկ առ մեկ ժամանակը նույնպես կարող են ավելի հարմար լինել, քան մեծ սենյակում անցկացվող զբաղմունքը։"
+  - q: "Արդյո՞ք անվտանգ է թույլ տալ, որ նա գործիքներ օգտագործի։"
+    a: "Միայն ուշադրությամբ և անվտանգ գործիքներով։ Հեռացրեք էլեկտրական գործիքները, դանակները և բոլոր սուր առարկաները, և առաջարկեք այնպիսի գործեր, ինչպիսիք են փայտի կտորը հղկելը, մաքուր մանրամասները տեսակավորելը կամ մեծ պտուտակները ձեռքով պտտելը։ Alzheimer’s Association-ը խորհուրդ է տալիս արհեստանոցից հեռացնել վտանգավոր առարկաները, որպեսզի հղկելու նման գործը հնարավոր լինի կատարել անվտանգ։"
+  - q: "Նա մասնագետ էր։ Արդյո՞ք պարզ գործերը նրան չեն նեղացնի։"
+    a: "Կարող են նեղացնել, եթե ներկայացվեն որպես պարապ զբաղմունք։ Գործը ներկայացրեք որպես իրական օգնություն, օգտագործեք մեծահասակներին համապատասխան նյութեր և ընտրեք մի բան, որը մոտ է նրա նախկին դերին, օրինակ՝ ցուցակ ստուգելը, թղթապանակ դասավորելը կամ նամակների պատրաստմանը օգնելը։ Եթե նա ինչ-որ բանում շատ հմուտ էր, հարակից, բայց այլ զբաղմունքը կարող է ավելի հարմար լինել, քան ուղղակի համեմատությունը։"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Մարդիկ հաճախ փնտրում են «դեմենցիա ունեցող տղամարդկանց զբաղմունքներ», որովհետև սովորական առաջարկները երբեմն չեն համապատասխանում իրենց հարազատ տղամարդուն։ Դա հասկանալի մտահոգություն է։ Բայց պատասխանը «տղամարդկային» զբաղմունքների ցուցակը չէ։ Ավելի լավ է սկսել հենց այդ մարդուց. ինչ աշխատանք է նա կատարել, ինչով է զբաղվել ազատ ժամանակ, և ինչն է նրան օգտակար զգալու հնարավորություն տվել։ Նախասիրությունները տարբեր են բոլորի մոտ։ Շատ տղամարդիկ սիրում են եփել, այգեգործությամբ զբաղվել, նկարել կամ երգել, իսկ շատ կանայք սիրում են մեքենաներ և բեյսբոլ։
 
-## How do I find activities he will actually enjoy?
+## Ինչպե՞ս գտնել այն զբաղմունքները, որոնք նա իսկապես կհավանի
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Սկսեք նրա կյանքի պատմությունից։ Alzheimer’s Association-ը առաջարկում է [օրվա պլանը](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) կազմել՝ հաշվի առնելով մարդու նախասիրությունները, չսիրած բաները, ուժեղ կողմերը և հետաքրքրությունները, ինչպես նաև այն, թե ինչպես էր նա սովորաբար կառուցում իր օրը։ Հարցրեք ինքներդ ձեզ.
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Ի՞նչ աշխատանք է նա կատարել։** Գրասենյակ, ֆերմա, գործարան, արհեստ, բանակ, վաճառք, դասավանդում, վարորդական աշխատանք, տնային հոգածություն։
+- **Ի՞նչով է նա զբաղվել ազատ ժամանակ։** Ձկնորսություն, թղթախաղ, փայտամշակում, մարզաձևեր, եկեղեցի, երաժշտություն, եփել, ավտոտնակում մեքենայի հետ զբաղվել։
+- **Ի՞նչ սովորություններ է ունեցել։** Առավոտյան սուրճ և թերթ։ Եղանակը ստուգել։ Շաբաթ օրերին մեքենա լվանալ։
+- **Ի՞նչ գործեր է նա դեռ ինքնուրույն սկսում։** Association-ը նշում է, որ եթե մարդը առանց խնդրանքի սկսում է ինչ-որ գործ, օրինակ՝ հատակը ավլում, այդ գործերը կարող են դառնալ առօրյայի մի մասը։
+- **Ինչի՞ց է նա խուսափում։** Ոմանք հաճույքով դիտում են մարզական խաղեր, մյուսների համար տեմպը և աղմուկը կարող են անհանգստացնող լինել։ Ուշադրություն դարձրեք, թե երբ է նա թվում հանգիստ, անհանգիստ կամ դյուրագրգիռ։
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Խոսեք նաև ընտանիքի անդամների և հին ընկերների հետ։ Նրանք կարող են հիշել այնպիսի նախասիրություններ, որոնք արդեն ամենօրյա կյանքում չեն երևում։
 
-## Activity ideas based on past work
+## Նախկին աշխատանքին կապված զբաղմունքների գաղափարներ
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer’s Association-ը բերում է պարզ օրինակ. նախկին գրասենյակային աշխատողը կարող է հաճույքով անել դասավորելու գործեր, օրինակ՝ մետաղադրամները դնել պահոցում, օգնել նամակներ պատրաստել կամ կազմել անելիքների ցանկ, իսկ նախկին ֆերմերը կամ այգեգործը կարող է հաճույքով աշխատել բակում։ Նույն սկզբունքը կարող է աշխատել շատ մասնագիտությունների համար։
 
-| Past work | Activity ideas | Simpler version |
+| Նախկին աշխատանք | Զբաղմունքների գաղափարներ | Ավելի պարզ տարբերակ |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Գրասենյակ կամ բիզնես | Թղթերը պանակների մեջ դասավորել, ծրարների վրա կնիք դնել, ցուցակ ստուգել, գրասեղանի դարակ կարգի բերել | Ծրարները իրար վրա դնել, թղթի ամրակները տուփի մեջ հավաքել |
+| Արհեստ կամ մեխանիկա | Մաքուր պտուտակները, ընկույզները և շայբաները տեսակավորել, մեծ պտուտակները ձեռքով պտտել, գործիքների գրացուցակներ դիտել | Ըստ չափի երկու բաժակի մեջ դասավորել |
+| Ֆերմա կամ բակային աշխատանք | Ջրել, բույսեր տնկել, տերևներ հավաքել, այգին ստուգել | Դրսում նստել, մինչ դուք աշխատում եք, սերմերի փաթեթները ձեռքում պահել |
+| Բանակ | Կոշիկներ փայլեցնել, դարակը կարգի բերել, ծառայության լուսանկարներ դիտել, եթե նա հաճույքով է նայում | Այդ ժամանակի երաժշտություն լսել |
+| Վաճառք կամ հաճախորդների հետ աշխատանք | Այցելուներին բարևել, խորտիկներ բաժանել, զեղչի կտրոններ տեսակավորել | Դռան մոտ նստել և բարևել |
+| Դասավանդում | Բարձրաձայն կարդալ, գրքեր դասավորել, նկարները ըստ թեմայի տեսակավորել | Միասին նկարազարդ գիրք դիտել |
+| Վարորդական կամ տրանսպորտային աշխատանք | Քարտեզներ կամ հին ավտոմեքենաների ամսագրեր դիտել, մեքենա լվանալ | Պատշգամբից դիտել անցնող մեքենաները |
+| Տուն և ընտանիք | Լվացքը ծալել, սեղան գցել, ընթրիք պատրաստելիս օգնել | Անձեռոցիկները հարթեցնել, խառնել |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Որոշ հիշողություններ, օրինակ՝ բանակային ծառայությունը, կարող են ուժեղ զգացումներ առաջացնել։ Հետևեք նրա տրամադրությանը, անցյալի մասին խոսակցությունը պահեք դրական, և եթե նա տխրում կամ անհանգստանում է, մեղմորեն փոխեք թեման։
 
-## Activity ideas based on hobbies
+## Նախասիրություններին կապված զբաղմունքների գաղափարներ
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Փայտամշակում։** Հարթ փայտի կտոր հղկել կամ թռչնաբույնի պարզ հավաքածու ներկել։ Alzheimer’s Association-ը առաջարկում է արհեստանոցից հեռացնել վտանգավոր նյութերն ու գործիքները, որպեսզի հղկելու նման զբաղմունքը լինի հաճելի և անվտանգ։
+2. **Ձկնորսություն։** Ձկնորսական տուփը տեսակավորել՝ կեռիկները հեռացնելուց հետո, ձկնորսական ամսագրեր դիտել կամ միասին լճակի ափին նստել։
+3. **Մեքենաներ։** Մեքենա լվանալ, փայլեցնել, դասական մեքենաների լուսանկարներ դիտել կամ մեքենայով շրջել որպես ուղևոր։
+4. **Մարզաձևեր։** Դասական խաղ կամ կարևոր դրվագներ դիտել, փափուկ գնդակ նետել, գորգի վրա գոլֆի գնդակներ գլորել կամ բեյսբոլի քարտեր տեսակավորել։
+5. **Թղթախաղեր և խաղեր։** Ծանոթ թղթախաղի պարզ տարբերակ, դոմինո կամ քարտերը շրջել ու զույգ գտնել։ Խաղը պահեք հանգիստ և մի հաշվեք միավորները։
+6. **Երաժշտություն։** Նրա պատանեկության և երիտասարդության տարիների երգեր, սիրելի խումբ կամ հոգևոր երգ։ Տեսեք մեր [երաժշտական զբաղմունքների ուղեցույցը](/activities/music/)։
+7. **Եփել և խորովել։** Բանջարեղեն լվանալ, սոուս խառնել, կոտլետներ ձևավորել կամ պատմել, թե ինչպես էր նա պատրաստում իր հայտնի չիլին, մինչ դուք եփում եք։
+8. **Թերթ։** Alzheimer’s Association-ը նշում է, որ մարդը, ով միշտ թերթ է կարդացել, կարող է դեռ հաճույք ստանալ դրանից, նույնիսկ եթե ամբողջ բովանդակությանը չի կարող հետևել։ Առավոտյան սուրճը և թերթը կարող են մնալ սովորության մի մաս։
+9. **Կառուցել։** Մեծ մասերով հավաքման հավաքածուներ կամ մեծահասակների համար պարզ շինարարական հավաքածուներ։ Ընտրեք հեշտ բռնվող մասեր։
+10. **Ինչ-որ բանի մասին հոգալ։** Կենդանուն կերակրել, թռչունների կերատուփը լցնել կամ բույսերը ջրել։ NIA-ն [կենդանուն կերակրելը, խնամելը կամ զբոսանքի տանելը](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) նշում է որպես զբաղմունքներ, որոնք մարդիկ կարող են հաճույքով անել։
 
-## How do I offer an activity without it feeling like busywork?
+## Ինչպե՞ս առաջարկել զբաղմունք այնպես, որ այն պարապ աշխատանք չթվա
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Ներկայացրեք դա որպես իրական օգնություն։ Alzheimer’s Association-ը առաջարկում է հարցնել. «Կկարողանա՞ս, խնդրում եմ, օգնել ինձ» և գործը կապել որևէ նպատակի հետ։ Համեմատեք.
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Ուզո՞ւմ ես այս պտուտակները տեսակավորել» (կարող է հնչել որպես ստուգում)
+- «Ես տարբեր մանրամասերով մի տոպրակ եմ բերել, և պետք է դրանք տեսակավորեմ, նախքան դարակը կպինդցնեմ։ Կօգնե՞ս ինձ» (ավելի շատ հնչում է որպես իրական գործ)
 
-Other tips:
+Այլ խորհուրդներ.
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Օգտագործեք մեծահասակներին համապատասխան նյութեր։** Իրական գործիքներ, որոնց սուր մասերը հեռացված են, իրական գրացուցակներ, իրական ծրարներ։
+- **Աշխատեք կողք կողքի։** Երբ երկու մարդ միասին են աշխատում, դա ընկերակցություն է։ Երբ մեկը նայում է, իսկ մյուսը աշխատում, դա կարող է վերահսկողության նման թվալ։
+- **Մի ուղղեք։** Եթե պտուտակները սխալ բաժակի մեջ են հայտնվում, թող այդպես մնա։ Կարևորը միասին անցկացրած ժամանակն է և օգտակար լինելու զգացումը։
+- **Օգնեք սկսել։** Alzheimer’s Association-ը նշում է, որ շատ մարդիկ դեռ ուզում են ինչ-որ բան անել, բայց դժվարանում են կազմակերպել և սկսել։ Առաջինը արեք միասին։
 
-## How do I adapt as things change?
+## Ինչպե՞ս հարմարեցնել, երբ իրավիճակը փոխվում է
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Երբ դեմենցիան զարգանում է, Alzheimer’s Association-ը առաջարկում է անցնել ավելի պարզ և կրկնվող գործերի և պատրաստ լինել, որ մարդը կարող է ավելի պասիվ դեր ունենալ։ Այն տղամարդը, ով ժամանակին շարժիչներ էր նորոգում, այժմ կարող է հաճույքով մաքուր բանալի պահել և մեքենաների մասին խոսել կամ դիտել, թե ինչպես եք դուք աշխատում։ Դիտելը նույնպես մասնակցություն է։
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Եթե նա ինչ-որ բանում շատ հմուտ էր, հարակից զբաղմունքը կարող է ավելի լավ զգալ, քան իր նախկին արհեստը։ Association-ը նշում է, որ պրոֆեսիոնալ նկարիչը կարող է հիասթափվել իր աշխատանքի փոփոխություններից, իսկ սիրողական մակարդակով զբաղվողը կարող է հաճույք ստանալ նոր ձևից։ Նույնը կարող է ճիշտ լինել նաև հմուտ ատաղձագործի համար։
 
-## Safety with work-style tasks
+## Աշխատանքային բնույթի գործերի անվտանգություն
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Հեռացրեք էլեկտրական գործիքները, դանակները, մեխերը և սուր ծայրերով պտուտակները։
+- Փականքի տակ պահեք ներկի նոսրացուցիչը, բենզինը և քիմիական նյութերը։
+- Եթե նա այլևս չի վարում, մեքենայի բանալիները պահեք աչքից հեռու։
+- Արհեստանոցի և բակի բոլոր գործերի ժամանակ ուշադիր եղեք նրա կողքին։
+- Ընտրեք մեծ մասեր, որոնք հնարավոր չէ կուլ տալ։
 
-## What if he says no?
+## Իսկ եթե նա ասում է «ոչ»
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Հարգեք դա։ «Ոչ»-ը կարող է նշանակել, որ գործը շատ դժվար է, շատ մանկական է թվում կամ պարզապես այսօր հարմար չէ։ Alzheimer’s Association-ը զգուշացնում է՝ չպարտադրել։ Փորձեք այլ գործ, այլ ժամանակ կամ պարզապես նստեք միասին։ Տեսեք [ինչ անել, երբ նա ասում է «ոչ»](/caregiving/when-they-say-no/)։
 
-## Games and conversation that fit
+## Խաղեր և խոսակցություններ, որոնք կարող են հարմար լինել
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) խաղում օգտագործվում են ծանոթ ամերիկյան ասացվածքներ, որոնք կարող են разговорի սկիզբ դառնալ։ [Conversation Cards](/games/conversation-cards/) ունի բաց, առանց հարցումի հուշումներ՝ ըստ թեմաների, որոնք կարող են օգնել խոսել աշխատանքի և նախասիրությունների մասին։ [Picture Puzzle](/games/picture-puzzle/) խաղում ամբողջ նկարը մնում է տեսանելի, մինչ դուք մասերը փոխում եք, իսկ մեծ տառերով [Word Search](/games/word-search/) կարելի է տպել և կատարել գրիչով խոհանոցային սեղանի շուրջ։ Նրա անցյալի մասին առանց ստուգելու խոսելու համար տեսեք մեր [հիշողությունների ուղեցույցը](/activities/reminiscence/)։

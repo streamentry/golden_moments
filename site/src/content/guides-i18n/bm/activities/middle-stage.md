@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Hakilijiginin bana cɛmancɛ ka baara nɔgɔmanw"
+seoTitle: "Hakilijiginin bana cɛmancɛ: Baara nɔgɔmanw"
+description: "Hakilijiginin bana cɛmancɛ la, baara nɔgɔmanw: so baara dɔw, dɔnkilida, jaw ni tulonkɛ nɔgɔmanw, ni sigicogo ni fɛɛrɛw walasa ka dusukunnataw yɛlɛma baara ye."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Hakilijiginin bana cɛmancɛ la, baara minnu ka ɲi kosɛbɛ, olu ye baara surunw ye,
+  minnu bɛ dɔn, ani minnu tilalen don sen kelen-kelen na: fini dalajɛ, susɛtiw
+  fila-fila, tasaw ko, dɔnkilida, taama ni bilasirali ye, jaw lajɛgafe ani tulonkɛ
+  nɔgɔmanw. Fɛnw labɛn, sen fɔlɔ jira, sen gɛlɛnw ta i yɛrɛ bolo, ani baara in
+  kɛ ni kun ye. I bɛ lɔ ni a ma diya tugun.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "So baara minnu bɛ dɔn, olu ka ca a la ka baara kɛ ka ɲɛ, bawo u bɛ kɛ i n’a fɔ baara nafamaw ani mɔgɔkɔrɔbaw ka baara."
+  - "I bɛ jira sanni ka fɔ, sen kelen-kelen di, ani sugandi nɔgɔman fila di sanni ka ɲininkali dafalen kɛ."
+  - "Sen min ka gɛlɛn kosɛbɛ, o ta i yɛrɛ bolo walasa mɔgɔ min bɛ i mako ɲɛ, o ka se ka sen diyabali kɛ."
+  - "Dusukunnata walima kɛwale seginnen bɛ se ka kɔrɔ ye ko mɔgɔ in bɛ fɛn dɔ ɲini ka kɛ. Baara bɛnnen di sanni k’a bali."
+  - "A lajɛli, dɛmɛ fitinin, walima a dalajɛli joona, olu bɛɛ ka ɲi."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Baara jumɛnw ka ɲi hakilijiginin bana cɛmancɛ la?"
+    a: "Baara surunw, minnu bɛ dɔn, minnu bɛ kɛ bolo la, olu ka ca a la ka baara kɛ ka ɲɛ: taɔrɔ dalajɛ, susɛtiw fila-fila, tasaw ko, tabali labɛn, dɔnkilidaw da kɔrɔ fɔlɔw kan, taama ni bilasirali ye, jaw lajɛgafe lajɛ ani tulonkɛ nɔgɔmanw. U kelen-kelen bɛɛ tila sen kelen-kelen na ani k’u kɛ ɲɔgɔn fɛ."
+  - q: "Ne bɛ se ka mɔgɔ min bɛ hakilijiginin bana fɛ, o bila cogo di ka baara dɔ daminɛ?"
+    a: "Fɛn bɛɛ labɛn ka kɔn, o kɔ i yɛrɛ ka baara daminɛ ani k’a wele ka dɛmɛ don: «I bɛ se ka n dɛmɛ ni taɔrɔ ninnu ye wa?» Mɔgɔ caman b’a fɛ ka sen don a la, nka a daminɛli ka gɛlɛn u ma. Sen fɔlɔ jirali ka ca a la ka baara kɛ ka ɲɛ ka tɛmɛ a ɲɛfɔli kan."
+  - q: "Ni a bɛ to ka fɛn kelen kɛ tuma caman, ne ka kan ka mun kɛ?"
+    a: "Kɛwale seginni ka ca a la a tɛ kojugu ye, wa a bɛ se ka jira ko mɔgɔ in b’a fɛ k’a yɛrɛ ye i n’a fɔ mɔgɔ min bɛ baara la walima a bɛ hakili sigilen ɲini. Sanni k’a ladilan, baara dɔ di min bɛ bɛn lamaga in ma, i n’a fɔ taɔrɔmisɛnw kɔrɔ minnu bɛ se ka dalajɛ walima dɔnkilida kɛ ɲɔgɔn fɛ."
+  - q: "Ni a ye baara kɛ cogo jugu la, ne ka kan ka mun kɛ?"
+    a: "Ni a tɛ farati lase mɔgɔ si ma, i b’a to a ka kɛ ten. Taɔrɔ minnu dalajɛra cogo wɛrɛ la walima kɔri minnu bila yɔrɔ jugu la, olu tɛ kɔrɔba ye. Ladilikan bɛ se ka kɛ i n’a fɔ jalaki, nka a toli a ka cogo la b’a dɛmɛ k’a yɛrɛ ye i n’a fɔ mɔgɔ seko ni nafama."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Hakilijiginin bana cɛmancɛ ka ca a la ka kɛ waati jan ye, wa a ye waati ye min na baara nɔgɔmanw bɛ dɛmɛ tiɲɛnen de wajibiya. Kumasenw sɔrɔli ka gɛlɛya, senw bɛ ɲagami, ani fɛn dɔ daminɛli bɛ se ka gɛlɛya. Nka nafama ni sen don baga kɛcogo ka ca a la ka to. Ni labɛn fitinin kɛra, mɔgɔ min bɛ hakilijiginin bana cɛmancɛ la, o bɛ se ka diya sɔrɔ fɛn caman na hali bi, kɛrɛnkɛrɛnnenya la so baara minnu bɛ dɔn, dɔnkilida ani jaw, ni i bɛ kɛ ɲɔgɔn kɛrɛfɛ.
 
-## What activities work well in middle-stage dementia?
+## Baara jumɛnw bɛ baara kɛ ka ɲɛ hakilijiginin bana cɛmancɛ la?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Baara surunw, minnu bɛ dɔn, minnu bɛ kɛ bolo la, ani minnu tilalen don sen kelen-kelen na, olu de ka ɲi kosɛbɛ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) b’a fɔ ko i man kan baara kura dabɔ: baara nɔgɔmanw bɛ se ka kɛ don o don ɲɛnamaya yɔrɔ ye, i n’a fɔ dumuni tobili ɲɔgɔn fɛ, nakɔ baarakɛ, dɔnkilida lamɛnni walima taama.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) b’a jira ko mɔgɔ minnu bɛ o senfɛ in na, olu ka ca a la u bɛ haminanko barikama sɔrɔ ka nafama ye walima ka fɛn dɔ ladon, wa u bɛ dɛmɛ ɲini walasa ka baara daminɛ walima k’a taa ɲɛ. A ka cɛmancɛ senfɛ lisi bɛ fini dalajɛ, tasaw ko, susɛtiw fila-fila, farikoloɲɛnajɛ nɔgɔman, dɔn dɔnkilidaw kan, taama ni bilasirali ye, dɔnkilida ɲɔgɔn fɛ, pentiiri nɔgɔman ani jaw lajɛgafe lajɛ.
 
-## How do you set up an activity so it works?
+## I bɛ baara dɔ labɛn cogo di walasa a ka ɲɛ?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Baara caman ka ɲɛtaa walima dɛsɛ bɛ bɔ labɛn na. O deliko ninnu, minnu bɔra [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ani [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) fɛ, olu bɛ nafa caman lase:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Yɔrɔ in jɛya.** Televiṣɔn faga, da tugu ani fɛn minnu ka kan baara in na dɔrɔn bila yen.
+2. **I yɛrɛ ka a daminɛ.** Dalajɛli walima ɲagamini daminɛ, o kɔ k’a wele ka dɛmɛ don: «I bɛ se ka n dɛmɛ ni nin ye wa?»
+3. **Jira, o kɔ makɔnɔ.** Sen kelen jira. I bolo kɔrɔta walima bilasira ni bolo ye, i n’a fɔ yɔrɔ jira min na asiyɛti ka kan ka bila.
+4. **Sen kelen-kelen di.** «A dala fla la» ka nɔgɔn ka tɛmɛ «ninnu dala ani k’u lajɛ kulɛri la» kan.
+5. **Sugandi fila di, sanni ka ɲininkali dafalen kɛ.** «Taɔrɔ bulamanw walima jɛmanw wa?» ka nɔgɔn ka jaabi sɔrɔ ka tɛmɛ «I b’a fɛ ka mun kɛ?» kan.
+6. **Sen gɛlɛn kɛ i yɛrɛ ye.** I bɛ suman, a bɛ ɲagami. I bɛ misiwi don, a bɛ kalan siri.
+7. **Kun di a ma.** «Nin taɔrɔmisɛnw ye dimansi dumuni kama» b’a to baara in bɛ kɛ tiɲɛ tiɲɛ ye.
+8. **A to a k’a lajɛ ni o ka di a ye.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) b’a fɔ ko a lajɛli dɔrɔn fana bɛ se ka diya.
 
-## Activity ideas for the middle stage
+## Baara misaliw hakilijiginin bana cɛmancɛ la
 
-### Useful jobs
+### Baara nafamaw
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Taɔrɔw ni taɔrɔmisɛnw dalajɛ.** Fɛn fitininw, minnu bɛ panpan, olu de ka nɔgɔn kosɛbɛ. Taɔrɔmisɛn gwɛmanw kɔrɔ bɛ se ka dalajɛ, ka labɛn, ka dalajɛ tugun.
+- **Susɛtiw fila-fila.** Daminɛ ni fila-fila danfaranin damadɔw ye. U tila kulɛri la dɔrɔn fana ka ɲi.
+- **Tasaw ni biyɛriw ko walima k’u ja.** Ji gwɛman ni safinɛ ka di bolo ye. A jali ni sigilen ye ka nɔgɔn senw ma.
+- **Tabali labɛn.** Fɛn suguya kelen di siɲɛ kelen na, ani yɔrɔ kelen labɛn i yɛrɛ fɛ i n’a fɔ misali.
+- **Dumuni tobili la dɛmɛ don.** Pɔmitɛri ko, salati tigɛ ni bolo ye walima tasaba ɲagami. Muru ni funteni bɛ to i yɛrɛ bolo.
+- **Furaji, buguri bɔ walima ko.** Taɔrɔmisɛn tabali kama, furajibarada nɔgɔman baranda kama.
 
-See [household tasks](/activities/household-tasks/) for many more.
+I bɛ fɛn caman wɛrɛ sɔrɔ [household tasks](/activities/household-tasks/) la.
 
-### Music and movement
+### Dɔnkilida ni lamaga
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Dɔnkilidaw da minnu bɛ dɔn kɔrɔ la.** I yɛrɛ ka daminɛ ka dɔn; mɔgɔ caman bɛ sen don dɔnkilidaw la minnu u ye dɔn san caman kɔnɔ. I bɛ taa [music activities](/activities/music/) la.
+- **Dɔn ni hɛrɛ ye.** Yɛlɛma, bolow gosi walima lamaga cogo min ka di. Sigilen fana ka ɲi.
+- **Balɔni fili.** A bɛ taa dɔɔnin-dɔɔnin wa a minɛli ka nɔgɔn sigilan kɔnɔ.
+- **Taama ni bilasirali ye.** Taama surun dɔ kɛ ɲɔgɔn fɛ, yɔrɔ min bɛ dɔn, bolo bolo la ni o bɛ dɛmɛ.
 
-### Pictures and stories
+### Jaw ni maana
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Jaw lajɛgafe lajɛ.** I bɛ fɛn minnu ye, olu ko sanni ka ɲininkali kɛ: «Nin mobili in lajɛ. I bɛ se ka kuma a kan wa?» I bɛ taa [reminiscence activities](/activities/reminiscence/) la.
+- **Baro kartiw baara.** [Conversation cards](/games/conversation-cards/) bɛ ja ni ɲininkali dafalen fara ɲɔgɔn kan, kɔrɔbɔli t’a la.
+- **Sinema kɔrɔ lajɛ ɲɔgɔn fɛ.** Min bɛ dɔn sugandi, to a kɛrɛfɛ ani lɔ ni makɔnɔ wagatiw ye.
 
-### Simple, pressure-free games
+### Tulonkɛ nɔgɔmanw, tɔɲɔni tɛ minnu na
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Ja fila-fila ni jaw yelen ye.** [Picture pairs](/games/picture-pairs/) bɛ jaw to yelen na, o la a bɛ kɛ kɔlɔsili ye, hakilijigin tɛ.
+- **Kelenɲɔgɔn sɔrɔ.** [Find the same](/games/find-the-same/) bɛ ja kelen jira ani sugandi fila fo naani dɔrɔn.
+- **Tila ɲɔgɔn fɛ.** [Sort together](/games/sort-together/) bɛ i n’a fɔ finiw tila ɛkran kan: ja dɔ digi, o kɔ a ka kɔrɔ.
+- **Ja bingo.** [Picture bingo](/games/picture-bingo/) bɛ baara kɛ ka ɲɛ denbaya lajɛw ni jɛkulu barikaw la.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Ni tulonkɛ dɔ bɛ dusukasi daminɛ, i bɛ lɔ ani ka fɛn wɛrɛ kɛ. I bɛ taa [how to play together](/caregiving/how-to-play-together/) la.
 
-## Turning restlessness into an activity
+## Dusukunnataw yɛlɛmali ka kɛ baara ye
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Dusukunnata walima kɛwale seginnen ka ca a la kun b’a kɔ. Family Caregiver Alliance b’a jira ko mɔgɔ min bɛ to ka bilankɔrɔ da wuli, o bɛ se ka kɛ ka ɲini ka hami a yɛrɛ la ani k’a yɛrɛ ye i n’a fɔ mɔgɔ nafama. Alzheimer's Association b’a fɔ ka o fanga in bila baara bɛnnen dɔ la, sanni k’a bali.
 
-| What you see | Something to offer |
+| I bɛ min ye | I bɛ se ka min di |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Tabali mugumugu walima a tigɛni | Taɔrɔmisɛn ɲiginnen ani ɲinini ka tabali ko |
+| Senw dusukunnata walima u gosi | Dɔnkilida ni fɔlikan jɛlen ye walasa ka sen walima bolow gosi |
+| Bilankɔrɔw walima bilankɔrɔdaw da wulili | Finiw walima taɔrɔmisɛnw kɔrɔ walasa ka dalajɛ ani k’u tila |
+| Ɲininkali kelen seginni | Hakili sigili, o kɔ dɔnkilida walima baara dɔ kɛ ɲɔgɔn fɛ |
+| Yaala-yaala | Taama kɛ ɲɔgɔn fɛ, walima baara dɔ min bɛ fɛn taali la |
+| Wula fɛ dusukasi | Baara sigilen, min bɛ dɔn, yeelen ɲuman kɔnɔ; i bɛ taa [late-day restlessness](/caregiving/late-day-restlessness/) la |
 
-## When to stop or change course
+## Waati min na i ka kan ka lɔ walima ka cogo yɛlɛma
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+I bɛ lɔ ni i ye sɛgɛn, dusukasi, maloya walima ɲanabɔli taamasiyɛnw ye, i n’a fɔ yɛlɛma-yɛlɛma, ɲaagwɛ, fɛnw gɛn walima «N tɛ se» fɔli. Alzheimer's Association b’a fɔ k’a lajɛ tugun don wɛrɛ waati la walima ka baara in nɔgɔya. I kana a wajibiya. Ban bɛ se ka bɔ siranya na walima baara in gɛlɛya la; i bɛ taa [when they say no](/caregiving/when-they-say-no/) la.
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+A dalajɛli joona ka ɲi. Sigili ɲɔgɔn fɛ ni te tasaba ye fana ka ɲi. Ni seko bɛ yɛlɛma ka taa ɲɛ, hakilinaw minnu bɛ [late-stage activities](/activities/late-stage/) kɔnɔ, olu bɛ se ka bɛn ka ɲɛ, wa [101 activities](/activities/ideas/) bɛ fɛn caman wɛrɛ di ka lajɛ.

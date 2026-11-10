@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Giochi di memoria per anziani cù dimenza, senza prova"
+seoTitle: "Giochi di memoria dolci per a dimenza"
+description: "Giochi d’associu, d’imagine è di carte per anziani cù dimenza, è cumu ghjucà senza mette nimu à prova: imagine à a vista, menu coppie, senza punti, in squadra."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  I ghjochi di memoria per l’anziani chì campanu cù a dimenza funzionanu
+  megliu quandu ùn si basanu micca nantu à a memoria. Ghjucate à i ghjochi
+  d’associu cù l’imagine à a vista, aduprate da quattru à sei pezzi, ghjucate
+  in squadra è lasciate corre i punti. Hè più faciule di ricunnosce una
+  imagine ch’è di ramintalla, allora sciglite ghjochi induve tuttu resta
+  visibile. U scopu hè di passà un bellu mumentu, micca d’avè un risultatu.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "I ghjochi di memoria classichi piattanu e carte, è cusì mettenu à prova propriu ciò chì a dimenza rende difficiule. Lasciate piuttostu l’imagine à a vista."
+  - "Menu pezzi, imagine più grande è una sola scelta à a volta aiutanu à mantene u ghjocu piacevule."
+  - "Ghjucate in squadra, date una manu à turnu è lasciate corre i punti. Nimu deve esse messu in difficultà."
+  - "Nisun ghjocu di memoria hà dimustratu di trattà, rallentà o fermà a dimenza. Ghjucate perchè hè un bellu mumentu inseme."
+  - "Fermatevi mentre hè sempre piacevule. Parlà di l’imagine hè dighjà un bellu risultatu."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Chì ghjocu di memoria hè adattatu per una persona chì campa cù a dimenza?"
+    a: "Un ghjocu d’associu cù imagine grande è famigliari chì ponu stà à a vista, cum’è Picture pairs cù quattru o sei pezzi. Truvà u coppiu d’una imagine chì si vede pò esse piacevule senza mette à prova a memoria di pocu fà. Find the same hè ancu più simplice, cù una imagine da assucià trà duie à quattru scelte."
+  - q: "I ghjochi di memoria aiutanu cù a dimenza?"
+    a: "Nisun ghjocu di memoria hà dimustratu di trattà, rallentà o fermà a dimenza; una rivista Cochrane hà trovu chì e prove nantu à l’allenamentu mentale à l’urdinatore eranu troppu limitate per sapè s’ellu pò impedisce a dimenza. I ghjochi ponu sempre esse un modu caldu di passà tempu inseme. Scigliteli per u piacè è a cumpagnia."
+  - q: "Devu ghjucà à u ghjocu classicu di Concentration cù una persona chì hà a dimenza?"
+    a: "À u principiu, certe persone ci si divertenu sempre, soprattuttu cù pocu carte. S’ellu diventa difficiule o frustrante di ramintà induve sò e carte, giratele à a vista è truvate e coppie inseme. Cusì si mantene l’associu senza a prova di memoria."
+  - q: "Chì ghjochi di memoria vanu bè per l’anziani in gruppu?"
+    a: "U bingo d’imagine cù un animatore nant’à u screnu, finisce inseme detti cunnisciuti, è e carte di cunversazione funzionanu bè in gruppu. Ghjucate finch’è ogni carta hè piena è evitate di mette in risaltu quale hà trovu una risposta, per chì nimu si senta messu da parte."
+  - q: "Ci sò ghjochi di memoria gratuiti in linea per l’anziani?"
+    a: "Iè. I ghjochi di stu situ, cumpresi Picture pairs, Find the same, Photo pairs è Picture puzzle, sò gratuiti, ùn anu bisognu d’inscrizzione è funzionanu nant’à telefoni, tablette è urdinatori. Nimu hà un cronometru o punti."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Se cercate « ghjochi di memoria per anziani », a maiò parte di ciò chì truverete hè stata fatta per e persone chì volenu esercità a so mente: carte piattate, conti à l’arritrosa, livelli è punti. Per una persona chì campa cù a dimenza, ste funzioni cambianu un ghjocu in una prova di propriu ciò chì hè diventatu difficiule. I stessi ghjochi si ponu fà d’un modu più dolce. Sta pagina vi mostra cumu, è vi prisenta ghjochi chì vanu bè à ogni tappa.
 
-## Why do classic memory games frustrate people with dementia?
+## Perchè i ghjochi di memoria classichi ponu frustrà e persone cù a dimenza?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Perchè si basanu nantu à u fattu di tene in mente infurmazioni nove, è hè di solitu a prima cosa chì a malatia d’Alzheimer, a causa a più frequente di dimenza, rende difficiule. L’[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dice chì u sintomu iniziale u più cumunu di a malatia d’Alzheimer hè a difficultà à ramintà l’infurmazioni appena amparate. In u ghjocu classicu di Concentration, si giranu duie carte, si prova à ramintà induve eranu, è si adopra sta memoria un minutu dopu. Sò infurmazioni nove, da tene in mente è da ritruvà.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+S’ellu ci hè un cronometru, punti o un sonu per e risposte sbagliate, a persona pò esse ricurdata di ciò ch’ella ùn riesce più à fà, davanti à qualchissia à quale tene. Parechje persone, à pocu à pocu, ùn volenu più ghjucà.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Ricunnosce qualcosa chì si vede hè un compitu diversu, è di solitu più faciule. Mustrà a seconda tazza quandu tramindui sò à a vista pò fà piacè. L’idea, dunque, hè di mantene l’associu è di lascià corre a prova di memoria.
 
-## How do you make a memory game gentle?
+## Cumu rende un ghjocu di memoria più dolce?
 
-These adjustments work for card games, board games and games on a screen.
+Sti picculi cambiamenti funzionanu cù i ghjochi di carte, i ghjochi di tavulinu è i ghjochi nant’à un screnu.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Lasciate l’imagine à a vista.** Assucià imagine chì si vedenu hè sempre un veru ghjocu, è spessu assai piacevule.
+2. **Adoprate menu pezzi.** Principiate cù duie o trè coppie. Aghjunghjitene solu s’ella hè troppu faciule è a persona ne vole di più.
+3. **Sciglite imagine grande, famigliari è per adulti.** Una tazza, un girasole, una barca à vela. Micca disegni per zitelli, è micca scene troppu carche.
+4. **Ghjucate in squadra.** « Truvemu i cani » invece di « tocca à voi ». Date una manu è mustrate à turnu.
+5. **Lasciate corre i punti.** Nimu hà bisognu di vince. S’è qualchissia dumanda, un simplice « ci simu riesciuti » basta.
+6. **Ùn fate mai a corsa contr’à u tempu.** Nè cronometru, nè pressa trà un turnu è l’altru.
+7. **Parlate di l’imagine.** « Fighjate sta barca. Avete mai fattu vela? » A cunversazione hè spessu a parte a più bella.
+8. **Fermatevi nantu à una bona nota.** Finite dopu un associu, mentre hè sempre piacevule.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dà u listessu cunsigliu in generale: sceglite l’attività secondu ciò chì a persona pò fà, fate casu à i segni di frustrazione, è aiutatela à sentesi à l’aghjornu.
 
-## Gentle memory and matching games to try
+## Ghjochi dolci di memoria è d’associu da pruvà
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (associu cù l’imagine à a vista)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) hè un ghjocu d’associu cù imagine grande è da 4 à 12 pezzi. L’imagine ponu stà visibili, cusì si tratta di truvà i coppii, micca di ramintà induve eranu. Principiate cù quattru pezzi. Per una persona à una tappa iniziale chì vole un pocu più di sfida, pudete sceglie **Hidden pictures**, ma turnate à l’imagine à a vista appena ùn hè più piacevule.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) mostra una imagine in cima è da duie à quattru scelte sottu. Basta toccà quella chì currisponde. Hè u ghjocu d’associu u più simplice di stu situ è cunvene à e persone chì trovanu una griglia sana troppu carca, ancu à parechje persone in tappe più avanzate quandu qualchissia hè accantu à elle.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (ghjocu di memoria cù e foto di famiglia)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) trasforma e foto chì sceglite voi in un ghjocu d’associu: u cane, u giardinu, a casa di u lavu. I visi è i lochi famigliari facenu spessu nasce più cunversazione ch’è una imagine qualunque. E foto restanu in u vostru navigatore è ùn sò mai mandate in linea.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) vi dumanda di mette ogni imagine in u paneru ghjustu, per esempiu in cucina o in giardinu. Classificà si basa nantu à ciò chì si sà dipoi tantu tempu di u mondu, micca nantu à a memoria di pocu fà.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) taglia una imagine in 4 o 9 pezzi. Toccate dui pezzi per scambià li finch’è l’imagine hè sana. L’imagine cumpleta resta nant’à u screnu cum’è guida.
 
-### Real cards on the table
+### Carte vere nant’à a tavula
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Ùn avete micca bisognu d’un screnu. Pigliate coppie uguali da dui mazzi di carte o da un inseme di carte cù imagine. Mettitele à a vista in duie file è truvate e coppie inseme. Dopu, pudete ancu classificà per culore o per segnu. L’[Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) cita i ghjochi di carte è i ghjochi di tavulinu trà l’attività per a tappa iniziale.
 
-## Which memory games suit each stage?
+## Chì ghjochi di memoria vanu bè à ogni tappa?
 
-Stages are loose labels. Go by what the person enjoys today.
+E tappe sò solu indicazioni generale. Seguitate ciò chì face piacè à a persona oghje.
 
-| Stage | Games that often fit | How to set them up |
+| Tappa | Ghjochi chì spessu vanu bè | Cumu preparalli |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Iniziale | Picture pairs, Photo pairs, Picture puzzle cù 9 pezzi, ghjochi di carte cunnisciuti | Lasciatela sceglie. I pezzi ponu esse girati s’ella ci si diverte; lasciate corre i punti s’elli a disturbanu |
+| Media | Picture pairs cù 4 à 6 pezzi à a vista, Find the same, Sort together | Imagine sempre visibili. State accantu à ella è date una manu à turnu |
+| Avanzata | Find the same cù 2 scelte, fighjà inseme una sola imagine grande | Tempi assai corti. Tenite voi a tavuletta; a persona pò mustrà, o simpliciamente fighjà è ascultà |
 
-## Do memory games help with dementia?
+## I ghjochi di memoria aiutanu cù a dimenza?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Nisun ghjocu di memoria hà dimustratu di trattà, rallentà o fermà a dimenza. Una [rivista Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) nantu à l’allenamentu cognitivu à l’urdinatore per e persone cù un disturbu cognitivu ligeru hà trovu chì e prove eranu troppu limitate per sapè s’ellu pò impedisce a dimenza. A nostra guida nantu à i [ghjochi mentali è a dimenza](/brain-health/brain-games/) spiega ciò chì i studii mostranu è ciò ch’elli ùn mostranu micca.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Questu ùn vole micca dì ch’ellu ùn ci vole à ghjucà. L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) cunsiglia di mette l’accentu nant’à u piacè, micca nant’à a riescita. Deci minuti à assucià imagine è à parlà ne ponu esse un bellu mumentu di a ghjurnata.
 
-## What about memory games for seniors without dementia?
+## È i ghjochi di memoria per l’anziani senza dimenza?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+S’è un adultu più anzianu senza prublemi di memoria si diverte cù rompicapi à tempu, punti è livelli più difficiuli, ùn ci hè nunda di male. Basta ùn cuntà micca nant’à quessi per prutegesi da a dimenza; nisun ghjocu hà dimustratu di pudè lu fà. E versioni dolci presentate quì vanu ancu bè quandu parechje generazioni ghjocanu inseme: un missiavu o un minnannu chì campa cù a dimenza è un zitellu ponu assucià imagine in squadra, senza chì nimu sia messu à prova.
 
-## When should you stop or change the game?
+## Quandu ci vole à piantà o à cambià u ghjocu?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Suspiri, u gestu di alluntanà a tavuletta, frasi cum’è « ùn ci la facciu » o un sguardu inchietu sò tutti segni chì ci vole à rende u ghjocu più faciule o à piantà. Pruvate cù menu pezzi, girate l’imagine à a vista, passate à [Find the same](/games/find-the-same/), o fighjate simpliciamente l’imagine è discurite inseme. S’è a persona ùn vole micca ghjucà, va bè dinù. A nostra guida nantu à [cumu ghjucà inseme](/caregiving/how-to-play-together/) vi dà più cunsigli nantu à u ritimu è à l’aiutu.

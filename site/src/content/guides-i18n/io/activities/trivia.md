@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Facila trivi-ludo por oldi kun dementeso, sen preso"
+seoTitle: "Trivi-questioni por oldi kun dementeso, kun respondi"
+description: "50 facila trivi-questioni por oldi kun dementeso, kun respondo-selekti e konverso-temi, e quale ludar trivi-ludo sen ke ulu sentas su probata."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Facila trivi-ludo por oldi kun dementeso funcionas bone kande ol semblas
+  konverso, ne provo. Questionez pri kozi lernita longatempe ante, quale anciena
+  kansoni, dicaji, festi e omnadia vivo, e sempre ofrez du o tri selekti. Donez
+  la respondo afable, nultempe aparte signalez ulu, lasez la poenti, e uzez
+  singla respondo por komencar rakonto. Questioni «ico o ito» sen erora respondo
+  konvenas por plu tarda etapi.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Questionez pri kozi familiara depos longe: kansoni, dicaji, festi, manjajo e omnadia vivo de antea yari."
+  - "Ofrez du o tri selekti, por ke la respondo povos rekonesar anke rekolektar."
+  - "Dicez la respondo varme e durigez. Irga supozo qua komencas rakonto esas bona supozo."
+  - "Nula poenti, nula esquadi qua kuras, nula aparta questionado di un persono. Lasez respondi venar de la tota chambro."
+  - "Kande selektar inter respondi divenas desfacila, pasu a questioni «ico o ito» sen justa respondo."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Ka trivi-ludo esas bona aktiveso por personi qui vivas kun dementeso?"
+    a: "Ol povas esar, se ol facesas milde. La Alzheimer's Foundation of America listigas trivi-ludo inter aktivesi por la frua etapo. Tenez questioni pri temi familiara depos longe, ofrez selekti, nultempe pozes un persono en embarasanta situeso, e traktas la respondi kom voyo a konverso, ne kom provo."
+  - q: "Quala temi funcionas maxim bone por trivi-ludo pri dementeso?"
+    a: "Kozi lernita longatempe ante ordinare funcionas maxim bone: populara kansoni e kantisti de la yuneso di la persono, familiara dicaji, festi, manjajo, sporto e omnadia vivo, quale livrado di lakto e telefoni kun rotacanta disko. Evitez recenta novaji e irgo qua bezonas memorar ulo de plu frue en la sama kunsido."
+  - q: "Quale me povas direktar trivi-ludo en sorgeyo sen embarasar ulu?"
+    a: "Lektez singla questiono a la tota grupo, montrez o dicez la selekti, e bonvenigez respondi de irgu. Ne questionas aparta personi e ne kalkulez poenti. Dicez la respondo kun rideto, irge qua esis supozita, e questionez sequanta questiono quale «Qua hike irgatempe iris a veturo-kineyo?» por chanjar ol a rakonti."
+  - q: "Quon me povas facar vice trivi-ludo en plu tarda etapi?"
+    a: "Pasez a questioni sen erora respondo, quale «Kafo o teo?» o «Plajo o monti?», e a kompletigar kune familiara dicaji o kansoni. Regardar imaji e deskriptar li kune anke funcionas bone."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Trivi-ludo esas un ek la maxim demandata grupo-aktivesi en sorgeyi e diurna programi, e multa familii anke ludas ol che la koqueyo-tablo. Se ol facesas en l'ordinara maniero, kun poenti e un persono qua respondas, ol povas igar persono qua vivas kun dementeso sentar su observata tro multe. Se ol facesas milde, ol esas joyoza maniero audar rakonti. Infre esas 50 facila questioni kun respondo-selekti e ulo por parolar pri singlu, sequata da konsili pri quale direktar kunsido.
 
-## How do you make trivia work for someone with dementia?
+## Quale vu povas facar trivi-ludo utila por persono qua vivas kun dementeso?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Igez ol pri rekono e rememoro di kozi de longatempe ante, e bonvenigez omna respondo.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Questionez pri la distanta pasinto.** La [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dicas ke la maxim ofta frua simptomo di Alzheimer esas desfacileso memorar nove lernita informo. Kansoni, dicaji e omnadia vivo de ante multa dek yari ofte esas plu facila tereno.
+2. **Sempre donez selekti.** Selektar la justa respondo inter du o tri esas multe plu facila kam produktar ol de nulo.
+3. **Lektez questioni laute e montrez li grande.** Blanka tablo o tableto tenata alte helpas personi qui audas min bone.
+4. **Donez la respondo libere.** Se nulu savas, dicez ol varme e durigez. Nultempe «Vu certe savas ico».
+5. **Nula poenti.** Ne por individui e ne por tabli. Se personi volas nombro, tenez un grupo-totalo.
+6. **Nultempe aparte questionez un persono.** Lasez respondi venar de irgu. En un-a-un situo, respondez kune: «Me pensas ke ol esas la piano. Quon vu pensas?»
+7. **Uzez la konverso-temo.** La respondo esas la komenco, ne la fino. Rakonti esas la vera skopo.
+8. **Tenez ol kurta.** Dek questioni kun rakonti inter li esas suficanta.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) expresas la bazala regulo simple: atencez signi di frustrado e certigez ke la persono sentas su sucesanta. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) listigas trivi-ludo inter aktivesi por la frua etapo. En la meza etapo, restez kun du selekti e apogez vu sur la konverso-temi. Plu tarde, pasez a la questioni «ico o ito» plu infre.
 
-## Music and entertainment trivia
+## Trivi-ludo pri muziko ed amuzo
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+La respondo esas en **dika literi**. Adaptez ici a la persono: ulu qua kreskis kun Motown probable volos diferanta kantisti kam ulu qua kreskis kun granda orkestri.
 
-| Question | Choices | Talk about |
+| Questiono | Selekti | Parolez pri |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Qua nomizesis la rejo di rok-n-rolo? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Ka vu irgatempe vidis Elvis che televiziono? |
+| Qua kantisto havis la surnomo Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Qua kansono da Sinatra vu maxim prizas? |
+| Bing Crosby revis pri blanka... | **Kristnasko**, mariajo, domo | Kantez un lineo kune |
+| Louis Armstrong kantis «What a Wonderful...» | Day, **World**, Life | Quo igas la mondo bela por vu? |
+| «Over the Rainbow» kantesis da Judy Garland en qua filmo? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Ube vu vidis vua preferata filmi? |
+| Qua aktoris ludis Lucy en «I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | Quala spektakli vua familio regardis kune? |
+| Qua kav-boy kavalkis chevalo nomizita Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Ka vu ludis kom kav-boyi dum vua infanteso? |
+| Qua gastigis «The Tonight Show» dum 30 yari? | Ed Sullivan, **Johnny Carson**, Bob Hope | Ka vu restis levar tarda por regardar televiziono? |
+| Qua instrumento havas 88 klavi? | Gitaro, **piano**, trumpeto | Ka ulu en vua familio pleis instrumento? |
+| Qua danso kontesas un-du-tri, un-du-tri? | **Valso**, twist, tango | Ube vu iris dansar? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Por plu pri muziko, videz [muziko-aktivesi por dementeso](/activities/music/).
 
-## Everyday life trivia
+## Trivi-ludo pri omnadia vivo
 
-| Question | Choices | Talk about |
+| Questiono | Selekti | Parolez pri |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Ante frigidizili, multa domi tenis manjajo frida en... | **Glacio-buxo**, forno, sub-tegmento | Qua livris la glacio? |
+| Qua portis lakto a la pordo en vitra boteli? | La postisto, **la laktisto**, la jurnalo-portisto | Quo altra livresis a la domo? |
+| Quale vu telefonis per telefono kun rotacanta disko? | Presante butoni, **turnante roto**, parolante ad ol | Rakontez pri la telefono en vua domo |
+| Qua kompanio fabrikis l'automobilo Model T? | **Ford**, Chevrolet, Buick | Rakontez pri automobilo quan vu prizis |
+| Ube on trovus «soda jerk»? | **Che soda-fonteno**, che paneyo, che banko | Quon vu mendis che la kontoro? |
+| Qua ludilo esas metala risorto qua povas marchar adinfre eskalero? | Yo-yo, **Slinky**, hula hoop | Quala ludili vu amis? |
+| Veturo-kineyo esis loko por regardar... | **Filmi de vua automobilo**, balo-ludi, paradoi | Kun qua vu iris? |
+| Qua vizajo esas sur la un-dolara bileto? | Lincoln, **George Washington**, Jefferson | Quon on povis komprar per un dolaro lore? |
+| Qua vizajo esas sur la cendo-moneto? | **Abraham Lincoln**, Washington, Franklin | Ka vu konservis cendi en jaro lore? |
+| Quala koloro havas skolala autobuso ordinare? | Reda, **flava**, blua | Quale vu iris a skolo? |
 
-## Holidays, nature and places
+## Festi, naturo e loki
 
-| Question | Choices | Talk about |
+| Questiono | Selekti | Parolez pri |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Qua festo esas ye la kvara jovdio en novembro? | Labor Day, **Thanksgiving**, Memorial Day | Quo sempre esis sur vua tablo? |
+| Kukurbito-lanterni facesas por qua festo? | **Halloween**, Pasko, Kristnasko | Rakontez pri Halloween ube vu kreskis |
+| La 4ma di julio celebras la Deklaro pri... | Yuri, **Nedependo**, Libreso | Ube vu regardis pirotekno? |
+| La dio di matro esas en qua monato? | Aprilo, **mayo**, junio | Quale vua familio celebris ol? |
+| Quanta steli esas sur la Usana flago? | 48, **50**, 52 | La flago havis 48 steli til 1959. Irga respondo esas bona memoro |
+| Qua oceano esas ye la estala marbordo? | Pacifiko, **Atlantiko**, Arkto | Ka vu irgatempe iris a la plajo? |
+| En qua urbo esas la Statuo di Libreso? | Boston, **New York**, Philadelphia | Ka vu vizitis New York? |
+| Quon facas abeli? | Lakto, **mielo**, silko | Mielo sur pano o en teo? |
+| Infantala bovo nomizesas... | Folo, **bov-yunulo**, kapro-yunulo | Ka vu irgatempe vivis proxim farmeyo? |
+| Qua alta flava floro esas famoza pro turnar su a la suno? | Rozo, **sunfloro**, tulipo | Quo kreskis en vua gardeno? |
+| Quanta dii esas en super-yaro? | 365, **366**, 360 | Rakontez pri naskodio quan vu memoras |
+| Qua sezono venas pos vintro? | Autuno, **printempo**, somero | Qua esas vua preferata sezono? |
 
-## Food and sports trivia
+## Trivi-ludo pri manjajo e sporto
 
-| Question | Choices | Talk about |
+| Questiono | Selekti | Parolez pri |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Sikigita uvi esas sikigita... | Pruni, **uvi**, cerizi | Ka vu metis sikigita uvi en manjo-paki? |
+| Sikigita pruni esas sikigita... | **Pruni**, figi, pomi | Qua en vua familio amis sikigita pruni? |
+| Arakido-butro e... | **Jeleyo**, fromajo, shinko | Krunchanta o glata? |
+| Guakamolo facesas precipue de... | Pizi, **avokadi**, kukombri | Quala trempaji aparis dum festi? |
+| Qua torto esas favorata dum Thanksgiving? | **Kukurbito**, citrono, cerizo | Qua torto vu facis? |
+| Quanta luderi havas basebal-esquado sur la kampo? | 7, **9**, 11 | Por qua esquado vu entuziasmis? |
+| Quanta frapi facas «out» en basebalo? | Du, **tri**, quar | Ka vu irgatempe ludis basebalo? |
+| Babe Ruth esis famoza por qua sporto? | Boxo, **basebalo**, golfo | Ka vu iris a basebalo-ludi? |
+| Quanta trui havas normala golfo-kampo? | 9, **18**, 24 | Ka vu irgatempe ludis golfo, o mini-golfo? |
+| En qua sporto on facas «touchdown»? | **Futbalo amerikala**, hokeyo, basketbalo | Qua regardis futbalo amerikala che vua domo? |
 
-## Familiar sayings
+## Familiara dicaji
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Kompletigar dicajo uzas linguo lernita longatempe ante e ofte venas facile. Nia ludo [Kompletigez la dicajo](/games/finish-the-saying/) havas multa plua, kun tucheto por montrar irga fino.
 
-| Saying | Choices | Talk about |
+| Dicajo | Selekti | Parolez pri |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Pomo singladie tenas la... | **Mediko fore**, pluvo fore, kato fore | Qua dicis ico a vu? |
+| L'frua ucelo kaptas la... | Autobuso, **vermo**, treno | Ka vu esas matinala persono? |
+| Ne kontas vua han-yunuli ante ke li... | **Eklosas**, dormas, kantas | Ka vua familio havis hani? |
+| Sparita cendo esas cendo... | **Ganhita**, perdita, spensita | Qua esis la sparanto en vua familio? |
+| Hemo esas ube la... | Gardeno esas, **kordio esas**, koqueyo esas | Quo igas loko sentar kom hemo? |
+| Preferinde tarda kam... | Frua, **nultempe**, regretanta | Qua sempre esis tarda? |
+| Omna nubo havas arjenta... | **Bordo**, kuliero, moneto | Rakontez pri felica chanco |
+| Agi parolas plu laute kam... | **Vorti**, muziko, tondro | Rakontez pri ulu qua dicis to |
 
-## This-or-that questions with no wrong answer
+## Questioni «ico o ito» sen erora respondo
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Ici konvenas por omna etapi, inkluzante plu tarda etapi, pro ke existas nulo por facar juste o erore. Questionez, askoltez, e dividez anke vua propra respondo.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kafo o teo?
+- Plajo o monti?
+- Hundi o kati?
+- Somero o vintro?
+- Torto o kuko?
+- Dansar o regardar?
+- Sun-lev o sun-subiro?
+- Avana portiko o dopala korto?
+- Radio o diski?
+- Krep-pani o ovi?
+- Rozi o margeriti?
+- Treno-voyajo o automobilo-voyajo?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Por konverso-sugesti kun imaji, probez nia imprimebla [Konverso-karti](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Quale vu povas direktar trivi-kunsido en sorgeyo o grupo?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Sidez la personi por ke li povos vidar ed audar.** Audili pozita, binokli pozita, la televiziono extintita.
+2. **Prezentas ol kom konverso.** «Me havas kelka questioni pri l'anciena dii, e me kredas ke vu savas plu kam me.»
+3. **Lektez singla questiono dufoye e montrez la selekti grande.**
+4. **Bonvenigez respondi de irgaloke en la chambro.** Ripetez bona respondi por ke omnu audas.
+5. **Dicez la respondo por omnu,** pose questionez la konverso-temo a la chambro.
+6. **Sequez l'energio.** Se un questiono komencas dek minuti di rakonti, lasez ol.
+7. **Finez per kansono o rondo di «ico o ito»,** por ke omnu finas per ulo facila.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Por altra grupo-formi, inkluzante imajo-bingo e kanto-kuni, videz [grupo-aktivesi por sorgeyi](/activities/care-home-groups/).
 
-## When to change the plan
+## Kande chanjar la plano
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Se ulu semblas inquieta, divenas tacanta o dicas «Me ne savas» plu kam unfoye, igas ol plu facila: pasez a du selekti, respondez kune, o pasez a questioni «ico o ito». Se la grupo preferas parolar pri un questiono dum tuta posdimezo, to esas suceso. La skopo nultempe esis la justa respondi. Ol esis tempo en bona kompaneso.

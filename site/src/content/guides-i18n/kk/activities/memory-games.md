@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Деменция кезіндегі есте сақтау: сынамайтын ойындар"
+seoTitle: "Деменцияға арналған жұмсақ есте сақтау ойындары"
+description: "Деменциямен өмір сүретін ересектерге арналған сәйкестендіру, сурет және карта ойындары: суреттер ашық, жұптар аз, ұпай жоқ, бірге ойнаңыз."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Деменциямен өмір сүретін ересектерге арналған есте сақтау ойындары жадыға
+  сүйенбегенде жақсырақ өтеді. Сәйкестендіру ойындарын суреттер ашық күйінде
+  ойнаңыз, төрт-алты тақтайша қолданыңыз, команда болып ойнаңыз және ұпай
+  санамаңыз. Суретті тану оны есіне түсіруден оңайырақ, сондықтан бәрі көз
+  алдында тұратын ойындарды таңдаңыз. Мақсат — нәтиже емес, ләззат алу.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Классикалық есте сақтау ойындарында карталар жабық болады, бұл деменцияны қиындататын нәрсені тексереді. Оның орнына суреттерді ашық қалдырыңыз."
+  - "Бөлшектер аз, суреттер үлкен және бір сәтте бір таңдау болса, ойын жағымдырақ болады."
+  - "Команда болып ойнаңыз, кезекпен көмектесіңіз және ұпайды алып тастаңыз. Ешкімді сынға қалдырмаңыз."
+  - "Ешбір есте сақтау ойыны деменцияны емдейтіні, баяулататыны немесе тоқтататыны дәлелденбеген. Ойынды бірге өткізетін жайлы уақыт үшін ойнаңыз."
+  - "Әлі қызықты болып тұрған кезде тоқтаңыз. Суреттер туралы әңгімелесу де жақсы нәтиже."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Деменциямен өмір сүретін адамға қандай есте сақтау ойыны жақсы?"
+    a: "Үлкен, таныс суреттері бар, ашық күйінде қалдыруға болатын сәйкестендіру ойыны, мысалы төрт немесе алты тақтайшаға қойылған Picture pairs. Көзіңізге көрініп тұрған суреттің жұбын табу қысқа мерзімді жадыны тексермей-ақ қуаныш сыйлайды. Find the same одан да қарапайым: бір суретті екі-төрт нұсқаның ішінен табу керек."
+  - q: "Есте сақтау ойындары деменцияға көмектесе ме?"
+    a: "Ешбір есте сақтау ойыны деменцияны емдейтіні, баяулататыны немесе тоқтататыны дәлелденбеген; Cochrane шолуы компьютерлік ми жаттығулары туралы деректердің деменцияның алдын алады деуге тым шектеулі екенін көрсетті. Дегенмен ойындар бірге уақыт өткізудің жылы тәсілі бола алады. Оларды ләззат пен жанашырлық үшін таңдаңыз."
+  - q: "Деменциямен өмір сүретін адаммен классикалық Concentration ойынын ойнау керек пе?"
+    a: "Алғашқы кезеңдерде кейбір адамдар әлі де одан ләззат алады, әсіресе карталар аз болса. Карталардың қайда жатқанын есте сақтау қиындық туғыза бастағанда, карталарды ашып қойып, жұптарды бірге табыңыз. Осылайша сәйкестендіру сақталады да, жады сынағы алынады."
+  - q: "Топта ойнауға қандай есте сақтау ойындары жарайды?"
+    a: "Экрандағы жүргізушімен ойнайтын суретті бинго, таныс сөз орамдарын бірге аяқтау және әңгімеге жетелейтін карталар топқа жарайды. Әр карта толғанша ойнаңыз және кімнің жауап бергенін арнайы атамаңыз, сонда ешкім өзін оқшау сезінбейді."
+  - q: "Ересектерге арналған тегін онлайн есте сақтау ойындары бар ма?"
+    a: "Иә. Осы сайттағы ойындар, соның ішінде Picture pairs, Find the same, Photo pairs және Picture puzzle, тегін, тіркелуді қажет етпейді және телефонда, планшетте, компьютерде жұмыс істейді. Ешқайсысында таймер де, ұпай да жоқ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+«Ересектерге арналған есте сақтау ойындары» деп іздесеңіз, көбіне миға жаттығу жасағысы келетін адамдарға арналған ойындар шығады: жабық карталар, кері санау, деңгейлер мен ұпайлар. Деменциямен өмір сүретін адам үшін мұндай мүмкіндіктер ойынды қиынға соққан нәрсенің сынағына айналдырады. Дәл сол ойындарды жұмсақ әрі жайлы түрде ойнауға болады. Бұл бетте оны қалай жасау керегі және әр кезеңге сәйкес келетін ойындар берілген.
 
-## Why do classic memory games frustrate people with dementia?
+## Неліктен классикалық есте сақтау ойындары деменциямен өмір сүретін адамдарды шаршатуы мүмкін?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Себебі олар жаңа ақпаратты ойда ұстап тұруға сүйенеді, ал бұл әдетте деменцияның ең жиі себебі болып табылатын Альцгеймер ауруы бірінші кезекте әсер ететін қабілет. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) мәліметінше, Альцгеймер ауруының ең жиі кездесетін ерте белгісі — жаңа үйренген ақпаратты есте сақтаудың қиындауы. Классикалық Concentration ойынында сіз екі картаны ашасыз, олардың қайда екенін есте сақтайсыз және оны бір минуттан кейін қолданасыз. Бұл — ойда ұсталып, кейін қайта еске түсірілетін жаңа ақпарат.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Егер таймер, ұпай немесе қате жауапқа берілетін дыбыс қосылса, адам жақын адамының алдында өзіне не қиын екенін тағы да сезінеді. Көп адам бірте-бірте ойнағысы келмей қалады.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Көзіңізге көрініп тұрған нәрсені тану — басқа, әдетте оңайырақ әрекет. Екі шәйнек те көз алдында тұрғанда екіншісін көрсету жағымды сезім тудырады. Сондықтан сәйкестендіруді сақтап, жады сынағын алып тастау керек.
 
-## How do you make a memory game gentle?
+## Есте сақтау ойынын қалай жұмсақ етуге болады?
 
-These adjustments work for card games, board games and games on a screen.
+Бұл өзгерістер карта ойындарына, үстел ойындарына және экрандағы ойындарға да жарайды.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Суреттерді ашық қалдырыңыз.** Көрініп тұрған суреттерді сәйкестендіру — бәрібір нағыз ойын, және көбіне қуанышты болады.
+2. **Бөлшектерді азырақ қолданыңыз.** Екі-үш жұптан бастаңыз. Тек тым оңай болып, өздері көбірек қаласа ғана қосыңыз.
+3. **Үлкен, таныс, ересектерге арналған суреттерді таңдаңыз.** Шәйнек, күнбағыс, желкенді қайық. Мультфильмдер емес және тым күрделі көріністер емес.
+4. **Команда болып ойнаңыз.** «Сенің кезегің» деудің орнына «Иттерді бірге табайық» деңіз. Кезекпен көрсетіңіз және көмектесіңіз.
+5. **Ұпайды алып тастаңыз.** Ешкімнің жеңуі шарт емес. Біреу сұраса, «біз істедік» деу жеткілікті.
+6. **Уақытқа жарыстырмаңыз.** Таймерсіз, кезектер арасында асықтырмай.
+7. **Суреттер туралы әңгімелесіңіз.** «Мына қайыққа қарашы. Сен бұрын желкенді қайықпен жүздің бе?» Көбіне ең жақсысы — осы әңгіме.
+8. **Жақсы көңіл күйде тоқтаңыз.** Әлі жағымды болып тұрғанда, бір сәйкестіктен кейін аяқтаңыз.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) жалпы кеңес ретінде де осындай ой айтады: әрекетті адамның қолынан келетін нәрсеге сәйкестендіріңіз, көңіл күйінің бұзылуын байқаңыз және адам өзіне сәтті болғандай сезінсін.
 
-## Gentle memory and matching games to try
+## Байқап көруге болатын жұмсақ есте сақтау және сәйкестендіру ойындары
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (суреттер көрініп тұрған сәйкестендіру)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) — үлкен суреттері бар, 4-тен 12-ге дейін тақтайшасы бар сәйкестендіру ойыны. Суреттер көрініп тұра алады, сондықтан бұл олардың қайда екенін есте сақтау емес, жұптарын табу туралы. Төрт тақтайшадан бастаңыз. Егер алғашқы кезеңдегі адам сәл көбірек қызық іздесе, **Hidden pictures** режиміне ауыса аласыз, бірақ ойын қызық болмай қалған сәтте суреттерді қайтадан көрсетіңіз.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) жоғарғы жағында бір суретті, ал төменде екі-төрт нұсқаны көрсетеді. Сәйкес келетінін түртіңіз. Бұл сайттағы ең қарапайым сәйкестендіру ойыны және толық тор көз көп болып көрінетін адамдарға, соның ішінде жанында біреу болғанда кейінгі кезеңдердегі көптеген адамдарға жарайды.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (отбасылық фотосуреттермен есте сақтау ойыны)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) сіз таңдаған фотосуреттерді сәйкестендіру ойынына айналдырады: ит, бақша, көл жағасындағы үй. Таныс жүздер мен орындар дайын суреттерге қарағанда әңгімеге жиірек жетелейді. Фотосуреттер браузеріңізде қалады және ешқайда жүктелмейді.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) әр суретті тиісті себетке салуды сұрайды, мысалы ас үйге немесе бақшаға. Сұрыптау қысқа мерзімді жадыға емес, әлемнің қалай жұмыс істейтіні туралы бұрыннан бар білімге сүйенеді.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) суретті 4 немесе 9 бөлікке бөледі. Сурет тұтас болғанша, екі бөлікті ауыстыру үшін оларды түртіңіз. Толық сурет бағдар ретінде экранда тұрады.
 
-### Real cards on the table
+### Үстелдегі нағыз карталар
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Экран міндетті емес. Екі карта колодасынан немесе суретті карталар жинағынан жұптарды алып шығыңыз. Оларды екі қатарға ашып қойып, жұптарды бірге табыңыз. Кейінірек түсі немесе түрі бойынша сұрыптауға болады. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) карта және үстел ойындарын ерте кезеңге арналған әрекеттер қатарына қосады.
 
-## Which memory games suit each stage?
+## Әр кезеңге қандай есте сақтау ойындары сәйкес келеді?
 
-Stages are loose labels. Go by what the person enjoys today.
+Кезеңдер — шамамен берілген атаулар ғана. Бүгін адамға не ұнайтынына қарап таңдаңыз.
 
-| Stage | Games that often fit | How to set them up |
+| Кезең | Көбіне сәйкес келетін ойындар | Қалай дайындау керек |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Ерте | Picture pairs, Photo pairs, 9 бөліктен тұратын Picture puzzle, таныс карта ойындары | Таңдауды өзіне беріңіз. Егер ұнаса, тақтайшалар жабылып ашылуы мүмкін; егер алаңдатса, ұпайды алып тастаңыз |
+| Орта | 4–6 тақтайшасы ашық тұрған Picture pairs, Find the same, Sort together | Суреттер әрқашан көрініп тұрсын. Жанында отырып, кезекпен көмектесіңіз |
+| Кейінгі | 2 нұсқасы бар Find the same, бір үлкен суретті бірге қарау | Өте қысқа. Планшетті сіз ұстаңыз; адам көрсетеді немесе жай ғана қарап, тыңдайды |
 
-## Do memory games help with dementia?
+## Есте сақтау ойындары деменцияға көмектесе ме?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ешбір есте сақтау ойыны деменцияны емдейтіні, баяулататыны немесе тоқтататыны дәлелденбеген. Жеңіл когнитивтік бұзылысы бар адамдарға арналған компьютерлік когнитивтік жаттығулар туралы [Cochrane шолуы](https://pubmed.ncbi.nlm.nih.gov/30864747/) деректердің деменцияның алдын алады деуге тым шектеулі екенін көрсетті. [Ми ойындары және деменция](/brain-health/brain-games/) туралы нұсқаулығымызда зерттеулер не көрсететінін және не көрсетпейтінін түсіндірдік.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Бұл ойындардан бас тарту керек деген сөз емес. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) жетістікке емес, ләззат алуға көңіл бөлуді ұсынады. Суреттерді сәйкестендіріп, олар туралы әңгімелесіп өткізген он минут күннің шынайы жақсы бөлігі болуы мүмкін.
 
-## What about memory games for seniors without dementia?
+## Деменциясы жоқ ересектерге арналған есте сақтау ойындары ше?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Егер есте сақтау мәселесі жоқ ересек адамға уақытпен шектелген жұмбақтар, ұпайлар және күрделі деңгейлер ұнаса, мұнда еш қате жоқ. Тек оларды деменциядан қорғайды деп есептемеңіз; мұны ешбір ойын дәлелдемеген. Жоғарыдағы жұмсақ нұсқалар ұрпақтар бірге ойнағанда да жақсы жарайды: деменциямен өмір сүретін ата-әже мен жас немересі суреттерді команда болып сәйкестендіре алады, әрі ешкім сынға қалмайды.
 
-## When should you stop or change the game?
+## Ойынды қашан тоқтату немесе өзгерту керек?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Күрсіну, планшетті итеріп қою, «мен мұны істей алмаймын» деу немесе алаңдаушылық — бәрі ойынды жеңілдету немесе тоқтату керегінің белгісі. Тақтайшаларды азайтып көріңіз, суреттерді ашық қойыңыз, [Find the same](/games/find-the-same/) ойынына ауысыңыз немесе жай суреттерге қарап әңгімелесіңіз. Егер мүлде ойнағысы келмесе, бұл да қалыпты. [Бірге қалай ойнау керек](/caregiving/how-to-play-together/) нұсқаулығымызда қарқын мен көмектесу туралы көбірек ақпарат бар.

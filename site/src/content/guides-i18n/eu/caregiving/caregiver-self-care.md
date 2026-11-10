@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Zaintzaileen autolaguntza: atsedenaldia eta laguntza"
+seoTitle: "Dementzia-zaintzailearen autolaguntza eta laguntza"
+description: "Zaintzaileen nekeen seinaleak, atsedenaldia eta laguntza-taldeak nola aurkitu, eta AEBetako doako laguntza-telefonoak, Alzheimer’s Association 24/7 Helpline eta Eldercare Locator barne."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Dementzia duen pertsona bat zaintzea lan gogorra da, eta zure buruaz
+  arduratzea lan horren parte da. Erne egon seinale hauei: nekea, suminkortasuna,
+  lo txarra eta lagunengandik urruntzea. Eskatu laguntza zehatza, erabili
+  atsedenaldi-zerbitzuak eta batu laguntza-talde batera. AEBetan doako laguntza
+  dago: Alzheimer’s Association 24/7 Helpline (1-800-272-3900) eta Eldercare
+  Locator (1-800-677-1116).
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Nekeak nekea, suminkortasuna, lo txarra, tristura eta zure osasun-arreta alde batera uztea ekar ditzake."
+  - "Atsedenaldi-zerbitzuek atseden hartzeko aukera ematen dizute, ordu gutxi batzuetatik aste batzuetara, etxean edo zaintza-zentro batean."
+  - "Eskatu laguntza zeregin zehatzetarako; askok lagundu nahi dute, baina ez dakite nola."
+  - "Alzheimer’s Association 24/7 Helpline (1-800-272-3900) doako eta konfidentziala den laguntza eskaintzen du, edozein ordutan."
+  - "Eldercare Locator (1-800-677-1116) tokiko zerbitzuetara bideratzen zaitu, zure Area Agency on Aging erakundera barne."
+  - "Krisian bazaude, deitu edo idatzi 988 zenbakira. Larrialdi batean, deitu 112ra."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Zeintzuk dira zaintzailearen nekeen seinaleak?"
+    a: "Ohiko seinaleak hauek dira: nekatuta, gainezka edo urduri sentitzea, erraz haserretzea edo pazientzia galtzea, lo egiteko arazoak, triste edo itxaropenik gabe sentitzea, lagunengandik urruntzea, buruko minak edo bestelako minak maiz izatea, eta zure otorduak, ariketa fisikoa edo osasun-arreta alde batera uztea. Halako seinaleak maiz agertzen badira, hitz egin zure medikuarekin."
+  - q: "Nola aurki dezaket atsedenaldi-zerbitzua nire inguruan?"
+    a: "Hasi Eldercare Locator zerbitzuarekin (1-800-677-1116 edo eldercare.acl.gov) zure tokiko Area Agency on Aging erakundera iristeko, ARCH National Respite Locator Service zerbitzuarekin edo Alzheimer’s Association Helpline telefonoarekin (1-800-272-3900). Familiak, lagunek eta boluntarioek ere eman dezakete atsedenaldia."
+  - q: "Medicarek atsedenaldi-zerbitzuak ordaintzen al ditu?"
+    a: "Hospizio-arreta jasotzen ari den pertsona baten kasuan, Medicarek atsedenaldi-zerbitzuaren kostu gehiena estaltzen du, jarraian bost egun arte, ospitale batean edo erizaintza-trebetasuneko zentro batean, National Institute on Aging erakundearen arabera. Osasun-aseguru pribatu gehienek ez dituzte atsedenaldiak estaltzen; Medicaid programak eta epe luzeko zaintza-aseguru batzuek lagun dezakete."
+  - q: "Alzheimer’s Association Helpline benetan doakoa al da eta gauez ere erabilgarri?"
+    a: "Bai. Alzheimer’s Association erakundeak dio 1-800-272-3900 zenbakiko Helpline doakoa eta konfidentziala dela, eta urteko 365 egunetan, eguneko 24 orduetan dagoela eskuragarri, hizkuntza askotan laguntza emanez. Markatu 711 errelebo-zerbitzu baterako."
+  - q: "Berekoia al da zaintzatik atseden hartzea?"
+    a: "Ez. Atsedenak zaintzen jarraitzen laguntzen dizu, eta atsedenaldiak zaintzen duzun pertsonari ere konpainia eta jarduera aldaketa bat eman diezaioke. Zaintzaile askok geroago diote lehenago laguntza eskatu izana nahiko luketela."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Dementzia duen pertsona bat zaintzen ari bazara, ziur aski orri hau berandu irakurtzen ari zara, nekatuta, eta egin gabeko gauzen zerrenda batekin. Normala da. Zure buruaz arduratzea ez da luxu bat, ezta dena amaitzeagatik jasotzen den sari bat ere. Aurrera jarraitzen laguntzen dizuna da.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Orri honetan nekeen abisu-seinaleak, benetako atseden bat nola hartu, laguntza non aurkitu eta gaur bertan dei ditzakezun AEBetako doako laguntza-telefonoak aurkituko dituzu.
 
-## What are the signs of caregiver burnout?
+## Zeintzuk dira zaintzailearen nekeen seinaleak?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Nekeak poliki-poliki iristen dira askotan; horregatik, lagungarria da zure abisu-seinaleak ezagutzea. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) erakundeak zaintzailearen estresaren seinale hauek aipatzen ditu:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- nekatuta, gainezka edo urduri sentitzea;
+- erraz haserretzea edo pazientzia galtzea;
+- bakarrik edo besteengandik urrunduta sentitzea;
+- lo egiteko arazoak izatea, edo behar adina ez lo egitea;
+- triste edo itxaropenik gabe sentitzea, edo lehen gustatzen zitzaizkizun gauzekiko interesa galtzea;
+- buruko minak, minak edo bestelako arazo fisikoak maiz izatea;
+- ariketa fisikoa egiteko edo osasuntsu jateko denborarik ez izatea;
+- dutxak edo bestelako norberaren zainketa alde batera uztea;
+- alkohola edo drogak gaizki erabiltzea, errezetadun sendagaiak barne.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) erakundeak beste seinale batzuk ere gehitzen ditu, hala nola gaixotasunaren aurrean ukazioa, zaintzen duzun pertsonarekiko haserrea («tematia da»), etorkizunarekiko antsietatea, kontzentratzeko zailtasunak eta osasun-arazoen eragina. Halako seinaleak maiz izanez gero, medikuarekin hitz egitea gomendatzen du.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIAren aholkua da ez itxarotea erabat gainezka egon arte. Antzeman zure seinaleak goiz eta hartu neurriak.
 
-## What can I do today, in five minutes?
+## Zer egin dezaket gaur, bost minututan?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Atsedenaldi txikiek ere balio dute. Hauetako batek ere ez ditu nekeak konpontzen, baina arratsalde zail bat gainditzen lagun dezake.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Atera kanpora.** Eseri atarian edo joan postontziraino, zaintzen duzun pertsona seguru eta lasai dagoen bitartean.
+- **Arnasa hartu poliki.** Hartu arnasa poliki galdera zail bati erantzun aurretik. [Arnasa Lasai Hartzea](/games/calm-breathing/) pausoa ere parteka dezakezu zaintzen duzun pertsonarekin.
+- **Edan ura eta jan zerbait.** Erraza da zure otorduak ahaztea.
+- **Bidali mezu bat lagun bati.** Ez ezer eskatzeko, konektatzeko baizik.
+- **Esan zerbait atsegina zeure buruari.** NIAren [zeure burua zaintzeko gida](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) honelako esaldiak iradokitzen ditu: «Ahal dudan onena egiten ari naiz», «Ez naiz perfektua, eta ondo dago», eta «Elkarrekin lasai egon gaitezkeen uneak gozatu egingo ditut».
 
-## What is respite care, and how do I get it?
+## Zer da atsedenaldi-zerbitzua, eta nola lor dezaket?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Atsedenaldi-zerbitzua zaintzen duzun pertsonarentzako epe laburreko arreta da, zuk atseden hartu ahal izateko. NIAren [atsedenaldi-zerbitzuei buruzko orriak](https://www.nia.nih.gov/health/caregiving/what-respite-care) azaltzen du ordu gutxi batzuetatik aste batzuetara iraun dezakeela, eta etxean, osasun-zentro batean edo eguneko zentro batean eman daitekeela.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) erakundeak ohiko mota hauek deskribatzen ditu:
 
-| Type | What it is |
+| Mota | Zer da |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Etxeko laguntza | Lagun, senide, boluntario edo ordainpeko laguntzaile bat etxera etortzen da |
+| Eguneko zentroa | Talde seguru batean antolatutako jarduerak, hala nola musika eta artea; garraioa eta otorduak maiz eskaintzen dira |
+| Gau bateko edo egonaldi laburreko arreta | Epe luzeko zaintza-komunitate batek pertsona zaintzen du gau batez, egun gutxi batzuetan edo aste batzuetan |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Nork ordaintzen du?** NIAren arabera, familiak, lagunek edo boluntarioek emandako atsedenaldiak ez du ezer kostatu behar. Zerbitzu profesionalek orduko edo eguneko kobratzen dute. Hospizio-arreta jasotzen ari den pertsona baten kasuan, Medicarek atsedenaldiaren kostu gehiena estaltzen du, jarraian bost egun arte, ospitale batean edo erizaintza-trebetasuneko zentro batean. Medicaid programak lagun dezake. Osasun-aseguru pribatu gehienek ez dituzte atsedenaldiak estaltzen, nahiz eta epe luzeko zaintza-aseguru batzuek bai.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Aholkua:** Alzheimer’s Association erakundeak gomendatzen du atsedenaldi-hornitzaileak larrialdirik gabeko egoera batean probatzea, bat-batean laguntza behar baduzu prest egon daitezen.
 
-## Where can I find help near me?
+## Non aurki dezaket laguntza nire inguruan?
 
-Several free US services can point you to local help.
+AEBetako doako zerbitzu batzuek tokiko laguntzarako bidea erakuts diezazukete.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer’s Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) doakoa eta konfidentziala da, urteko egun guztietan eta ordu guztietan eskuragarri, eta 200 hizkuntza baino gehiagotan eskaintzen du laguntza, langile elebidunen edo interpreteen bidez. Markatu 711 errelebo-zerbitzu baterako. Portaera-aldaketei, zaintzailearen estresari, atsedenaldi-aukerari, tokiko programei eta gehiagori buruz hitz egin dezakezu, eta arreta-aholkulari batekin elkarrizketa luzeagoa eskatu. Langileek ez dute aholku medikorik ematen.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/) Administration for Community Living erakundearen zerbitzu publikoa da, eta adineko pertsonentzako eta haien familientzako zerbitzuetara konektatzen zaitu. Deitu, testu-mezua bidali, sarean txateatu edo posta elektronikoz idatz diezaiokezu trebatutako langileei, edo kokapenaren arabera bilatu. Zure tokiko Area Agency on Aging erakundera bidera zaitzake.
+- **ARCH National Respite Locator Service.** [ARCH atsedenaldi-bilatzaileak](https://archrespite.org/caregiver-resources/respitelocator/) atsedenaldi-hornitzaileak estatuaren arabera aurkitzen laguntzen du, eta zure estatuak baldin badu, lehenik zure State Respite Coalition edo Lifespan Respite programarekin harremanetan jartzea iradokitzen du. ARCHek adierazten du ez dituela hornitzaileak egiaztatzen; beraz, berrikusi zuk haien esperientzia eta aurrekariak.
 
-## How do I find a support group?
+## Nola aurki dezaket laguntza-talde bat?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Galdetu Helpline telefonora edo bilatu sarean zure inguruko taldeak. Alzheimer’s Association erakundeak [laguntza-taldeak antolatzen ditu](https://www.alz.org/help-support/community/support-groups) zaintzaileentzat eta dementzia duten pertsonentzat, aurrez aurre eta sarean, trebatutako dinamizatzaileekin. Leku askotan talde espezializatuak ere eskaintzen dira, adibidez helduen zaintzaileentzat edo hasiera goiztiarreko edo hasierako faseko Alzheimerra duten pertsonentzat. Halaber, ALZConnected ostatatzen du, zaintzaileek aholkuak partekatzeko doako sareko komunitatea.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Laguntza-taldeak epairik gabe deskargatzeko, han egon direnen aholku praktikoak jasotzeko eta bakarrik ez zaudela sentitzeko leku bat izan daitezke. Lehen taldea egokia ez bada, probatu beste bat.
 
-## How do I ask family and friends for help?
+## Nola eskatu laguntza familiari eta lagunei?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Izan zehatza. Askok lagundu nahi dute, baina ez dakite zer eskaini. NIAk honako hau iradokitzen du:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Egin zerrenda bat** besteek har ditzaketen zereginekin, eta utzi pertsonei aukeratzen.
+- **Hasi txiki** eskatzea zaila egiten bazaizu.
+- **Egokitu zeregina pertsonari.** Sukaldatzea gustuko duen lehengusuak afaria ekartzen du ostegunero. Inprimakiekin trebea den bizilagunak paper-lanean laguntzen du.
+- **Bidali testu-mezua edo posta elektronikoa** aurrez aurre eskatzea deserosoa bada.
+- **Prestatu erantzun bat** norbaitek laguntza eskaintzen duenean: «Eskerrik asko galdetzeagatik. Hona hemen zer egin dezakezun».
+- **Onartu ezezko batzuk etorriko direla** eta saiatu pertsonalki ez hartzen.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Beste ideia batzuk: eskatu norbaiti zaintzen duzun pertsonarekin egoteko astean arratsalde batean, ibilaldi labur batera eramateko, edo bisitan etortzeko eta elkarrekin joko batean aritzeko. Gure [elkarrekin jolasteko gida](/caregiving/how-to-play-together/) erraza da bisitariekin partekatzeko.
 
-## What if something happened to me?
+## Zer gertatuko litzateke niri zerbait gertatuko balitzait?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Egin ordezko plan sinple bat orain. NIAk gomendatzen du familiarekin edo lagun hurbilekin erabakitzea nork hartuko lukeen ardura, eta koaderno batean gordetzea larrialdiko zenbakiak, sendagaiak, funtzionatzen duten portaera-aholkuak eta jarduera gogokoenak. Alzheimer’s Association erakundeak ere gomendatzen du pertsonaren osasun-kontaktuak eta eguneratutako sendagaien zerrenda erraz aurkitzeko moduan gordetzea.
 
-## When should I get professional or urgent help?
+## Noiz eskatu behar dut laguntza profesionala edo premiazkoa?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Hitz egin zure medikuarekin estres-seinaleak ohikoak badira, deprimituta sentitzen bazara edo egoerari aurre egiteko zailtasunak badituzu. Esan medikuari zaintzaile zarela. NIAk adierazten du aholkulariek eta gizarte-langileek lagun dezaketela sentimendu zailak kudeatzen eta planifikatzen, eta Medicarek, Medicaid programak eta aseguru pribatu batzuek osasun mentaleko kostu batzuk estal ditzaketela.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Krisian bazaude edo zure buruari kalte egiteko pentsamenduak badituzu, deitu edo idatzi 988 zenbakira [988 Suicide & Crisis Lifeline](https://988lifeline.org/) lerrora iristeko; doakoa da eta 24 orduz, aste osoan dago eskuragarri. Norbait berehalako arriskuan badago, deitu 112ra.
 
-## Can shared activities give me a break too?
+## Elkarrekin egindako jarduerek atseden ematen al didate?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Batzuetan bai. Biei gustatzen zaizuen jarduera lasai batek egunaren zati leunagoa izan dezake zuretzat eta zaintzen duzun pertsonarentzat: abesti zaharrak entzutea, argazkiak ikustea, edo erantzun zuzenik behar ez duen [Elkarrizketa Txartelak](/games/conversation-cards/) bezalako joko bat. Pertsonak konpainia gustuko badu, adinekoentzako zentro batean edo eguneko programa batean [Irudi Bingoa](/games/picture-bingo/) talde-saio batek atsedenaldi-ordubete eman diezazuke. Begiratu [zahar-etxeetako taldeentzako jarduerak](/activities/care-home-groups/) ideiak ikusteko.

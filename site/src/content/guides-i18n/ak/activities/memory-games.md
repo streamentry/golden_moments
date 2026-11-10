@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Agoro ma Mpanyin a Dementia Wɔ Wɔn Mu: Ɔkwan a Ɛyɛ Yie"
+seoTitle: "Adwene Agoro a Ɛyɛ Yie ma Dementia Ho Nneɛma"
+description: "Nkyɛmu, mfonini ne kaadi agoro ma dementia, ne sɛnea wobɛyɛ no a obiara remmpɔ nsɔhwɛ: mfonini wɔ hɔ, nkyɛmu kakra, amanneɛ nni hɔ."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Agoro a ɛfa nkaeɛ ho ma mpanyin a dementia wɔ wɔn mu yɛ yie sɛ wɔammfa nkaeɛ
+  nnyina ho. Fa nkyɛmu a mfonini wɔ anifere so, fa mfonini anan anaa abien kosi
+  abiasa, yɛ no mu yɛ adwuma bom, na mmfa amanneɛ nhyɛ hɔ. Nea ɛboa ni ne sɛ
+  mfonini a wohunu no ara ka ho, efisɛ ɛyɛ mmerɛ sɛ wobɛkaa mfonini a wohunu
+  dedaw. Anigyeɛ, na ɛnyɛ abɔadeɛ, ne botae.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Agoro a wɔfa nkaeɛ ho a wɔyɛ tete no hyɛ kaadi no ase, na eyi ma wɔsɔ nkaeɛ a dementia ma ɛyɛ den no ho hwɛ. Gyae mfonini a wohunu no ara ma wɔn."
+  - "Nneɛma a ɛyɛ kakra, mfonini a ɛyɛ kɛse ne ɔkwan a obi bɛyɛ wɔn baako baako bɛma agoro no ayɛ anigyeɛ."
+  - "Yɛ agoro no sɛ adwuma a mo nyinaa yɛ, mmoa mo ho mo ho, na gyae amanneɛ. Obiara nsɛ wɔbɛsɔ no ahwɛ."
+  - "Wɔnnya nhwehwɛmu a ɛkyerɛ sɛ nkaeɛ agoro bi bɔ dementia ho ban, ɛma ɛnyini anaa ɛgyina. Yɛ no sɛ bere a yɛne wo bɛyɛ anigyeɛ."
+  - "Gyae bere a ɛsisi anigyeɛ. Sɛ mo kasa wɔ mfonini ho no, ɛno ara yɛ nea ɛyɛ."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Agoro bɛn na ɛyɛ yie ma obi a ɔwɔ dementia?"
+    a: "Mfonini a wohunu yiye ne nea wosuaa a ɛwɔ kɛse ne nea wɔbɛma ɛka ho, te sɛ Picture pairs a wɔde mfonini anan anaa mfonini abiasa. Sɛ wohunu mfonini a wohunu nea ɛwɔ wo anim ne ne kɔkɔbɔ no, ɛma wopɛ, na ɛnhwehwɛ nkaeɛ a ɛnyɛ den. Find the same ye ɔkwan a ɛyɛ mmerɛ sɛ, ɛwɔ mfonini baako a wɔbɛtwe ho ne mfonini ahyɛnsoɔ anan kosi mfinii."
+  - q: "Nkaeɛ agoro boa dementia?"
+    a: "Nhwehwɛmu biara nnya nkaeɛ agoro bi a ɛbɔ dementia ho ban, ɛma ɛnyini anaa ɛgyina. Cochrane nhwehwɛmu bi kae sɛ nsɛm a ɛfa kɔmputa nkaeɛ ntene ho no ntwa nhwɛ ma ɛnkyerɛ sɛ ɛbɔ dementia ho ban. Agoro betumi ayɛ ɔkwan a ɛyɛ anigyeɛ sɛ wɔbɛfa bere bom ne ahoɔfɛ. Fa agoro no ma anigyeɛ ne nkɔmhyɛ."
+  - q: "Ɛsɛ sɛ mede Concentration a ɛyɛ tete ka ho wɔ obi a ɔwɔ dementia ho anaa?"
+    a: "Wɔ mfiase mu no, nnipa bi toatoa so da, de kaadi kakraa ara. Sɛ ɛyɛ den sɛ wɔkae baabi a kaadi no wɔ no, de kaadi no bɛma wɔn anim, na mo nyinaa hwehwɛ nkɔnsɔnkɔnsɔn no. Saa ara na nkɔnsɔnkɔnsɔn no kɔ so, nanso nkaeɛ nhwehwɛ no bɛyera."
+  - q: "Agoro bɛn na ɛyɛ yie ma mpanyin wɔ nkɔmhyɛ mu?"
+    a: "Mfonini bingo a obi frɛ no wɔ skrini so, nkyerɛ mmɛ a wɔbɔ ma wɔka ho, ne kaadi a wɔde kasa ma ɛyɛ yie ma nkɔmhyɛ. Yɛ no kosi kaadi nyinaa ma, na mma wɔnfrɛ obi sɛ onyaa ɔbuae; saa ara na obiara rensɔ ne ho sɛ wɔrehwɛ no yie."
+  - q: "Agoro a ɛfa nkaeɛ ho bi wɔ hɔ a ɛnnyɛ ka ma mpanyin wɔ intanɛt so ana?"
+    a: "Aane. Agoro a ɛwɔ saa beaeɛ yi so, te sɛ Picture pairs, Find the same, Photo pairs ne Picture puzzle, nni ka ma, ɛho hia sɛ wobɛfa wo ho, na ɛyɛ adwuma wɔ fon, tablet ne kɔmputa so. Biara nni bere ntwentwen anaa mfiri."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Sɛ wohwehwɛ "memory games for seniors" a, wobɛhu nneɛma pii a wɔyɛ ma nnipa a wɔpɛ mmrɛ ma wɔn adwene: kaadi a wɔkata, nsɛnkyerɛnneɛ a ɛreguan, nkɔsoɔ ne mmuaeɛ. Ma obi a ɔwɔ dementia, saa nneɛma yi sesa agoro no akyerɛ ɔkwan a ɔnam so tumi nsɔ ne ho hia no ho. Nanso, wobetumi ayɛ saa agoro yi ɔkwan a ɛyɛ mmerɛ. Saa nkyerɛkyerɛ yi kyerɛ wo sɛnea wobɛyɛ, na ɛde agoro a ɛyɛ bebree a ɛfata ɔkwan biara ka ho.
 
-## Why do classic memory games frustrate people with dementia?
+## Adɛn nti na agoro a ɛfa nkaeɛ ho a wɔyɛ tete frustrate mpanyin a dementia wɔ wɔn mu?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Efisɛ ɛhwehwɛ sɛ wɔkora ade foforo wɔ adwene mu, na eyi ne nea Alzheimer's, dementia a ɛsɛe nnipa pii, ka ntɛm. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) kyerɛ sɛ Alzheimer's mfiase ankasa ne sɛ obi remmpɛn nsɛm foforo a wasua no ntɛm. Wɔ Concentration a ɛyɛ tete mu no, wobɔ kaadi mmienu, wokae baabi a kaadi no wɔ no, na ɛberɛ a ɛdi kan no, wɔde ɛno di dwuma. Ɛno ne nsɛm foforo a wɔkora ase na wɔdi dwuma.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Sɛ wo de bere, mmuaeɛ anaa nkɔsoɔ a wɔbɛfrɛ ɛfa ho a, obi bɛhu nea ɔntumi nyɛ, wɔ obi a wɔdɔ no ani so. Nnipa pii fi ase kɔsi sɛ wɔrepɛ sɛ wɔbɛyɛ agoro no bio.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Ɛyɛ adwuma foforo na ɛyɛ yie sɛ wɔhunu nea ɛwɔ wɔn anim. Sɛ wɔhunu ɔkɔm a ɛto so mmienu bere a wɔwɔ ne mu no, ɛma wɔn ani gyina. Enti ɔkwan no ne sɛ wobɛkyerɛ mfonini ne nhyehyɛe, na wayi nkaeɛ a ɛyɛ den no fi hɔ.
 
-## How do you make a memory game gentle?
+## Sɛnea wobɛyɛ agoro a ɛfa nkaeɛ ho no ayɛ anigyeɛ?
 
-These adjustments work for card games, board games and games on a screen.
+Nsakrae yi yɛ adwuma wɔ kaadi agoro, agoro a wɔde papa ne agoro a wɔde skrini so nso.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Fa mfonini no ma wɔnka.** Sɛ wohunu mfonini no a, ɛyɛ agoro pa, na ɛtɔ so ma anigyeɛ.
+2. **Fa nneɛma kakra.** Fi nkyɛmu abien anaa abiasa ase. Ka ho sɛ ɛnyɛ den ma wɔn na wɔpɛ kɔ so.
+3. **Fa mfonini a ɛyɛ kɛse, a wohu yiye, a ɛyɛ nnipa mfonini.** Ɛte sɛ ɔkɔm, anyaa, anaa ɔpɔnkɔ. Ɛnyɛ mfonini a ɛyɛ anwanwadeɛ, na ɛnyɛ nsɛm a ɛyɛ fɛɛfɛɛ.
+4. **Yɛ agoro no sɛ adwuma a mo nyinaa yɛ.** "Yɛmmɔ nkwa hwehwɛ" na ɛnyɛ "wo ara wo bere." Momfa mo ho mo ho, mpɛ ma wɔ ɔkwan a wɔbɛyɛ no mu.
+5. **Gyae nkɔnhwɛ.** Obiara nhia sɛ ɔdi. Sɛ obi bisa a, "yɛaboa yɛn ho" ara ye.
+6. **Mfa bere nni hɔ.** Mfa bere ntwentwen nni hɔ, na mfa ntɛm nnan bere a ɛfa ɔkwan so.
+7. **Kasa wɔ mfonini ho.** "Hwɛ ɔkɔm no. Wo ankasa wowɔ asuo so ana?" Nkasa no ara yɛ nea ɛwɔ ase.
+8. **Gyae wɔ papa so.** Gyae bere a wakɔ wɔ nkyɛmu so, bere a ɛda so ara yɛ anigyeɛ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ma ɔkwan kɔ so a ɛte saa wɔ afotu a ɛyɛ nyinaa mu: fa adwuma no ka ho nea obi betumi ayɛ, hwɛ sɛ ɛreba sɛ obi frustrate, na ma wɔn nni ahoɔden.
 
-## Gentle memory and matching games to try
+## Agoro a ɛfa nkaeɛ ho a ɛyɛ mmerɛ a wobetumi asɔ hwɛ
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (nkyɛmu a mfonini wɔ hɔ)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) ye agoro a ɛwɔ mfonini a ɛyɛ kɛse ne nneɛma 4 kosi 12. Mfonini no betumi aba anifere so, enti ɛnyɛ nkaeɛ a wɔhwehwɛ sɛ wokae baabi a wɔwɔ no, ɛyɛ sɛ wohwehwɛ mfonini a ɛte saa. Fi nneɛma anan ase. Sɛ obi wɔ mfiase mu na ɔpɛ sɛ ɛyɛ den kakra a, wobetumi asesa akɔ **Mfonini a wɔakata** mu, nanso san kɔ mfonini a wɔda so hwɛ bere a ɛyɛ den ansa na ɛrebɛyɛ anigyeɛ bio.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) da mfonini baako so wɔ soro, na nneɛma mmienu kosi anan wɔ ase. Fa nea ɛte saa ne hyɛ mu. Ɛyɛ agoro a ɛyɛ mmerɛ sen nyinaa wɔ saa beaeɛ yi so, na ɛfata nnipa a wɔpɛ sɛ nkyɛmu a ɛwɔ papa mu yɛ den ma wɔn, ne nnipa pii a wɔwɔ mfiase a ɛdi kan no.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (agoro a ɛfa abusua mfonini ho)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) de mfonini a wopɛ no ma ɛyɛ agoro a wɔbɛtwe ho: anantwi, afuo, nkwan a ɛwɔ asuo ho. Nnipa ne beaeɛ a wohu yiye betumi ama nkɔmhyɛ aba sen mfonini a wɔde kɔ nkɔmhyɛ biara. Mfonini no gyina wo browser mu, na wɔnnsoma kɔ baabi.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) srɛ wo sɛ wobɛde mfonini biara akɔ hyɛ baabi a ɛfata, te sɛ ɛpon mu anaa afuo mu. Nhyehyɛe yi fa nea ɔkwan a wiase yɛ no a wɔakora de ma ɛyɛ mmoa, ɛnyɛ bere ntentan adwene ho nsɛm.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) totɔ mfonini mu kɔ nneɛma 4 anaa 9. Twe nneɛma mmienu mu baako baako de sesa wɔn ho, kosi sɛ mfonini no bɛyɛ pɛ. Mfonini a ɛyɛ pɛ no gyina skrini so sɛ ɔkwankyerɛ.
 
-### Real cards on the table
+### Kaadi a wɔde ba tabɔ so
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Wehia skrini biara. Fa nkyɛmu a ɛfata firi kaadi abien anaa kaadi a wɔde mfonini yɛ no mu. Hyehyɛ wɔn wɔ wɔn anim wɔ nkyɛmu mmienu mu, na mo nyinaa hwehwɛ nkyɛmu no. Akyire no, de ntʃhyɛ no bɛyɛ tɛkrɛma anaa nsuo sɛ wɔbɛhwehwɛ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kyerɛ kaadi agoro ne papa agoro sɛ nneɛma a ɛboa wɔ mfiase mu.
 
-## Which memory games suit each stage?
+## Agoro a ɛfa nkaeɛ ho bɛn na ɛfata ɔkwan biara?
 
-Stages are loose labels. Go by what the person enjoys today.
+Ɔkwan no nkyerɛ nea ɛyɛ mmerɛ. Hwɛ nea obi no pɛ nnɛ.
 
-| Stage | Games that often fit | How to set them up |
+| Ɔkwan | Agoro a ɛbɛfata | Sɛnea wobɛhyehyɛ |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Mfiase | Picture pairs, Photo pairs, Picture puzzle a nneɛma 9, kaadi agoro a wohu yiye | Ma wɔnyi nea wɔpɛ. Mfonini betumi atwe, sɛ ɛyɛ anigyeɛ; gyae amanneɛ sɛ ɛnyɛ yie |
+| Ntam | Picture pairs a nneɛma 4 kosi 6 wɔ anim, Find the same, Sort together | Mfonini nyinaa wɔ hɔ. Tena wɔn akyi, na momfa mo ho mo ho boa |
+| Awiei | Find the same a nneɛma abien, hwehwɛ mfonini kɛse baako mo nyinaa | Ɛyɛ bere tiaa. Wo na wokura tablet no; wɔbɛtwe, anaa wɔbɛhwɛ na wɔatie |
 
-## Do memory games help with dementia?
+## Nkaeɛ agoro betumi aboa dementia ana?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Nhwehwɛmu biara nnya nkaeɛ agoro bi a ɛbɔ dementia ho ban, ɛma ɛnyini anaa ɛgyina. [Cochrane nhwehwɛmu](https://pubmed.ncbi.nlm.nih.gov/30864747/) a ɛfa kɔmputa nkaeɛ ntene ho wɔ nnipa a wɔwɔ nkaeɛ bɔne a ɛyɛ kakra mu no kae sɛ nsɛm a ɛwɔ hɔ ntwa nhwɛ ma ɛnkyerɛ sɛ ɛbɔ dementia ho ban. Yɛn [nkɔmhwɛ a ɛfa brain games ne dementia ho](/brain-health/brain-games/) kyerɛ nea nhwehwɛmu kyerɛ ne nea ɛnkyerɛ.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Eyi nnye sɛ wɔmmɔ agoro. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bu mmara sɛ ɛsɛ sɛ yɛhwɛ anigyeɛ, na ɛnyɛ nkɔso. Nkyɛmu a wɔde mfonini ne nkasa a wɔka ho nsɛnkyerɛ ne bere nkakrankakra ɛnam so no betumi ayɛ ɛda a ɛyɛ anigyeɛ pa wɔ ɛda no mu.
 
-## What about memory games for seniors without dementia?
+## Wɔ nkaeɛ agoro ho ɛnam a obi a nkaeɛ nni ho nsɛm so ho?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Sɛ obi a ɔnni nkaeɛ ɔhaw no pɛ agoro a wɔde bere besi so, nsɛnkyerɛnneɛ ne ɔkwan a ɛyɛ den, ɛnyɛ bɔne. Ɛno nkutaho, nanso ɛnnyɛ sɛ wobɛhwɛ nkaeɛ agoro no sɛ ɛbɛboa ho ban ma dementia; biribiara nnya nhwehwɛmu bi a ɛkyerɛ saa. Nkyɛmu a ɛyɛ mmerɛ wɔ so yi yɛ papa bere a mmusua mmerante agoro bom: obi a ɔwɔ dementia ne ba a ɔyɔ ketewa betumi anyɛ nkyɛmu sɛ nnipa mmienu a wɔboa wɔn ho, na obiara nnhwɛ ne ho.
 
-## When should you stop or change the game?
+## Bere bɛn na wɔbɛgyae anaa asesa agoro no?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Sɛ obi bɔ ɔsoro, de tablet no sɛ ne ho, ka sɛ "merentumi nyɛ eyi" anaa ɛma wɔhwɛ ɔyaw a, ɛyɛ nsɛnkyerɛnneɛ sɛ ɛsɛ sɛ wobɛma ɛyɛ mmerɛ anaa wogyae. Hwehwɛ nneɛma a ɛdɔɔ ketewa, de mfonini ma wɔnka, sesa kɔ [Find the same](/games/find-the-same/), anaa hwɛ mfonini no na ka nkɔmhyɛ. Sɛ wɔmmpɛ sɛ wɔbɛyɛ agoro no koraa a, ɛnyɛ ɔhaw. [Nkɔmhwɛ a ɛfa sɛnea wobɛyɛ agoro no mu ho](/caregiving/how-to-play-together/) wɔ nkɔmhyɛ bebree wɔ bere ne mmoa ho.

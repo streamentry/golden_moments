@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Heɓude Ñaamdu e Nawnaare Teskinde: Ko Wiɗtooji Koli"
+seoTitle: "Heɓude Ñaamdu e Nawnaare Teskinde: Ko Wiɗtooji Koli"
+description: "Seedeeji yimɓe dow heɓude ñaamdu e nawnaare teskinde ena famɗi tee kesɗi. Anndu caɗeele mawɓe e ko waɗi ñaamdu haa heewa ena himmi so nawnaare teskinde ina woodi."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Alaa seedeeji moƴƴi kollitooɗi heɓude ñaamdu ina haɗa walla ina neɗɗina
+  nawnaare teskinde. Ko heewi e wiɗtooji ko e daabeeji, tee wiɗtooji yimɓe dow
+  mawɓe ena famɗi tee juutaani. Heɓude ñaamdu ina waawi addude caɗeele mawɓe:
+  ustugol teddeendi e teeyu, ɓuuɓol sukkara ƴiiƴam so aɗa huutoroo lekki
+  suukaare, ŋakkere ndiyam e yanaade. So tawii neɗɗo mo toppitiɗaa ina wondi e
+  nawnaare teskinde, ko ɓuri himmude ko wallude mo ñaamde e yarde haa heewa.
+  Yewtudu e doktoor tawo.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging wiyi alaa seedeeji yonɗi ngam wasiyaade feere ñaamdu kala walla feere ustugol kalori, tentini e mawɓe."
+  - "Ko heewi e wiɗtooji dow heɓude ñaamdu e naywugol ena iwi e daabeeji, tee njeñtule ɗen mbaawaa jokkondirde e yimɓe sahaa kala."
+  - "Caɗeele baawɗe heɓaade mawɓe ina njeyaa heen: ustugol teddeendi e teeyu ɗe mo yiɗaano, ɓuuɓol sukkara ƴiiƴam so aɗa huutoroo lekki suukaare, ŋakkere ndiyam, jiingol hoore e yanaade."
+  - "Yimɓe wuurɓe e nawnaare teskinde ina keewi yejjitde ñaamde walla yarde, walla cikkude ɓe ñaamii kadi. Wallude ɓe ñaamde e yarde haa heewa ina heewi ɓurde himmude e nde ɓe ñaamata."
+  - "Woto huutoro heɓude ñaamdu e neɗɗo mo toppitiɗaa wuurɗo e nawnaare teskinde. Yewtudu e doktoor walla ekkotooɗo ñaamdu tawo waylude no o ñaamorta."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Heɓude ñaamdu ina haɗa nawnaare Alzheimer?"
+    a: "Alaa seedeeji moƴƴi kollitooɗi ɗum. Ko heewi e wiɗtooji waɗanoo ko e daabeeji, tee ƴeewndaale yimɓe ko heewi ko e dumunna juutaani, e sukaaɓe walla ɓe ɓurɓe teddeendi, tee ɗe keɓi ko ustugol teddeendi. National Institute on Aging wiyi alaa seedeeji yonɗi ngam wasiyaade feere heɓude ñaamdu e renndo ngoo."
+  - q: "Heɓude ñaamdu ina hisi e mawɓe?"
+    a: "Ina waawi wonaade. Heɓude ñaamdu ina waawi addude ustugol teddeendi e teeyu ɗe mo yiɗaano, ŋakkere ndiyam, jiingol hoore e yanaade, tee ina waawi ɓuuɓnude sukkara ƴiiƴam no feewi e yimɓe huutortooɓe insuliin walla lekki suukaare goɗɗi. Mayo Clinic wiyi ina waawi wonaade moƴƴere e yimɓe ɓe caɗeele ƴiʼe e yanaade ena ɓurdi hulde. Yewtudu e doktoor tawo etaade ɗum."
+  - q: "Neɗɗo wuurɗo e nawnaare teskinde foti etaade heɓude ñaamdu?"
+    a: "Alaa. Yimɓe wuurɓe e nawnaare teskinde ina keewi heɓde caɗeele ñaamde e yarde haa heewa, tee ñaamdu mo moƴƴaani ina waawi ɓeydude caɗeele jikku walla addude ustugol teddeendi. Heɓude ñaamdu ina ɓeyda caɗeele tawa alaa nafoore laaɓtunde. Ɓur ndaarorde ko ñaamdu sahaa kala, ñammete ɗe o yiɗi e ndiyam yonɗam."
+  - q: "Hol maande kollittooje neɗɗo wuurɗo e nawnaare teskinde ñaamataa walla yaraani haa heewa?"
+    a: "Ƴeew ustugol teddeendi, dolokkaaji ɓeŋgitooɗi, tampere, lo'ere, reedu sattunde, walla salagol ñaamdu. Maande ŋakkere ndiyam ɗe National Institute on Aging limti ina njeyaa heen: hunduko ɓoorɗo, jiingol hoore, ɓernde doggunde no yaawi e yiide ko woodaani. Haalnu doktoor makko so a yiyii ɗum."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Heɓude ñaamdu, hono ñaamde e nder waktu wakati tan walla ustude kalori no feewi ñalɗi ɗiɗi e yontere, ina ɓuri heɗeeede, tee winndanɗe goɗɗe ina mbi'a ina waawi reende hakkille. So tawii ko a mawɗo, walla aɗa toppitoo neɗɗo wuurɗo e nawnaare teskinde, ko ɗum woni ko wiɗtooji kolli e jaati, e ko waɗi hakkil aanaade ina himmi.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Ɗum ko humpito kuuɓal tan, wonaa wasiya ŋakkere. Woto fuɗɗo heɓude ñaamdu, walla waylude no neɗɗo mo toppitiɗaa ñaamorta, tawo yewtaade e doktoor walla ekkotooɗo ñaamdu. Ƴeew [renndinoore amen dow ŋakkere](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Heɓude ñaamdu ina haɗa nawnaare teskinde?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Alaa seedeeji moƴƴi kollitooɗi heɓude ñaamdu ina haɗa walla ina neɗɗina nawnaare teskinde. National Institute on Aging (NIA) wiyi alaa seedeeji yonɗi ngam wasiyaade feere ustugol kalori walla feere heɓude ñaamdu kala, tee ina foti anndeede ko heewi dow moƴƴere e kisal majje, tentini e mawɓe ([NIA dow ustugol kalori e heɓude ñaamdu](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Ko waɗi seedeeji ɗin famɗi nii
 
-The NIA gives several reasons:
+NIA hollitii dalillaaji keewɗi:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Ko heewi e wiɗtooji ko e daabeeji.** Wiɗtooji e gilɗi, mbuudi, ɓurguuji e ŋaaƴi njaltinii njeñtule hawniiɗe, kono njeñtule ɗen mbaawaa jokkondirde e yimɓe sahaa kala. Hay e daabeeji, njeñtule ɗen ina ceerti; e yoga e ɓurguuji, ustugol kalori ustinii nguurndam.
+- **Ƴeewndaale yimɓe ko juutaani.** Ko heewi ɗe njooɗii yontere seeɗa walla lebbi seeɗa.
+- **Ko heewi e ƴeewndaale yimɓe ɗaɓɓi ko ustugol teddeendi** e yimɓe ɓurɓe teddeendi, wonaa dow teskinde walla nawnaare teskinde.
+- **Mawɓe ina famɗi heen.** Ƴeewndaale keewɗe ƴettii yimɓe duuɓi 60 walla les.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Njahro 2026 ƴeewtii heɓude ñaamdu e yimɓe duuɓi 60 e dow. Nden tawii seedeeji e fedde ndee ena famɗi haa jooni, e wiɗtooji famɗuɗi, ndewindagol juutaani e feere ceertuɗe. Ko tawaa dow miijo e teskinde iwi ko e wiɗtooji gootel gootel, wonaa e njeñtule ƴeewndaale renndinaaɗe. Njahro ngoo hollitii kadi won wiɗtooji jokkondirɗi waktu ñaamdu daɓɓo walla heɓugol juutngol e njeñtule bonɗe, tee winnduɓe ɓen mbiyini hakkil e mawɓe ([njahro 2026 e Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Wiɗtooɓe ɓeen ina cikkude so ɓanndu fuɗɗii sunnude nebbam tuma heɓugol, ina waawi memde hakkille, kono ɗum ko miijo tan gonngoɗo e ƴeewteede. NIA hollitii ganndal ngal ena luural.
 
-## What are the risks of fasting for older adults?
+## Hol caɗeele heɓude ñaamdu wonande mawɓe?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Heɓude ñaamdu wonaa etaade meere e mawɓe heewɓe. Caɗeele baawɗe heɓaade ina njeyaa heen:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Ustugol teddeendi ngo mo yiɗaano.** Ñaamde ko jaasi ko ɓanndu sokli ina waawi addude ustugol teddeendi e ustugol semmbe teeyu, ɗum ina waawi lo'ɓinde neɗɗo.
+- **Ustugol teeyu e ƴi'e.** E ƴeewndal duuɓi ɗiɗi NIA walliti dow ustugol kalori e sukaaɓe e ɓadiiɓe, tawtoraaɓe ɓen keɓii ustugol famɗungol e tiiɗgol ƴi'e e teeyu laaɓtu.
+- **Ɓuuɓol sukkara ƴiiƴam e lekki suukaare.** Yimɓe huutortooɓe insuliin walla lekki suukaare goɗɗi ina mbaawi heɓde sukkara ƴiiƴam ɓuuɓɗo no feewi so ɓe ndufii walla ɓe neɗɗini ñaamdu, wano [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) wiri. Sukkara ɓuuɓɗo ina waawi addude jiingol hoore, jiingoore hakkille e tikkeende.
+- **Ŋakkere ndiyam.** So njaram ndufaama kadi e ñaamdu, neɗɗo ina waawi ŋakkude ndiyam.
+- **Jiingol hoore e yanaade.** Mayo Clinic wiyi heɓude ñaamdu ina waawi addude tampere mawnde e jiingol hoore, tee ina waawi wonaade feere moƴƴere e yimɓe ɓe caɗeele ƴi'e e yanaade ena ɓurdi hulde ([Mayo Clinic dow heɓude ñaamdu](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Batte goɗɗe.** Mayo Clinic limtii kadi nawnaare hoore, waylugol weeyo e reedu sattunde, tee hollitii won seedeeji kollitooɗi heɓugol waktu 16 e waktu ñaamdu 8 ina waawi ɓeydude caɗeele ɓernde e nder ƴiiƴam, so en ƴeewnii e waktu ñaamdu goɗɗo. Seedeeji ɗin laaɓtaaki haa timmi.
 
-## Why is eating enough the bigger concern with dementia?
+## Ko waɗi ñaamde haa heewa ɓuri himmude so nawnaare teskinde ina woodi?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+E yimɓe wuurɓe e nawnaare teskinde, caɗeele keewɗe ko heɓde ñaamdu e njaram **haa heewa**, wonaa ko heewi. Alzheimer's Association hollitii yimɓe wonɓe e daawal hakkunde e sakkitorde ina mbaawi jiingeede e cuɓagol ñaamdu, yejjitde ñaamde, walla cikkude ɓe ñaamii kadi. Nden ɓeydi wiyde ñaamdu mo moƴƴaani ina waawi ɓeydude caɗeele jikku walla addude ustugol teddeendi ([Alzheimer's Association dow ñaamdu e ñaamde](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society hollitii so neɗɗo ñaamataa haa heewa, ina waawi addude ustugol teddeendi, ustugol semmbe teeyu, tampere e lo'ere, ɗum ina waawi lo'ɓinde mo tee ina ustina mbaawka makko sellinde e nawnaaje ([Alzheimer's Society dow weelaare ñaamdu](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Ngam dalillaaji ɗii, heɓude ñaamdu wonaa feere moƴƴere e neɗɗo wuurɗo e nawnaare teskinde.** Ñaamdu ndufaandu ina waawi waylude no newi e ñaamdu luttandu. Waylugol kala no neɗɗo wuurɗo e nawnaare teskinde ñaamorta foti ɗowde e doktoor makko walla ekkotooɗo ñaamdu.
 
-## What are the warning signs of poor eating or drinking?
+## Hol maande reentinooje dow ñaamdu walla njaram mo heewaani?
 
-Watch for:
+Ƴeew:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Ustugol teddeendi**, walla dolokkaaji ɓeŋgitooɗi.
+- **Accude ñaamdu walla salagol ñaamde**, walla mooftude ñaamdu e hunduko.
+- **Tampere walla lo'ere.**
+- **Reedu sattunde**, ina waawi jokkondirde e ñaamdu e ŋakkere ndiyam.
+- **Maande ŋakkere ndiyam.** NIA limtii hunduko ɓoorɗo, jiingol hoore, ɓernde doggunde no yaawi, e yiide ko woodaani, ɗum kadi ina waawi iwde e nawnaare teskinde e hoore mum ([NIA dow caɗeele ŋakkere keewɗe](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Ustugol weelaare ñaamdu ina waawi wonde e dalillaaji keewɗi: niiye muusɗe walla niiye ŋayɗe, lekki kesɗi, ŋakkere weltaare, reedu sattunde, famɗugol dillere, walla waylugol meeɗugol e uurnugol. Haalnu doktoor makko dow maande kala e ɗee. Omo waawi ƴeewde dalillaaji tee ina waawi wasiyaade ekkotooɗo ñaamdu walla ɓeyditte.
 
-## How can you help someone eat and drink enough?
+## Hol no mbawɗaa wallirde neɗɗo ñaamde e yarde haa heewa?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Hokku ñaamdu famɗuɗo e ñammete seeɗa seeɗa sahaa kala**, ɓurɗo ñaamdu mawɗo tati tan e ñalawma.
+- **Hokku ñaamduuji ɗi o yiɗi**, tee won heen no yaajiri so meeɗugol makko ina wayloo. Ñaamdu welndu ina waawi jaɓeede so weelaare ñaamdu famɗii; naamno doktoor so ina woodi dalillaaji cellal reentooji sukkara.
+- **Mooftu njaram ɓadii** tee hokku mo njaram famɗam sahaa kala e ñalawma. Suppe, ɓiɓɓe leɗɗe, njaram ɓiɓɓe leɗɗe e njaram kosam ena njeyaa heen.
+- **Ñaamodiren** so ina waawi. Ñaamdu ko feere wonde e woɗɓe, wonaa golle yaawnaaɗe.
+- **Eto ñaamdu moofteteengol junngo**, hono buruuse, taƴe ɓiɓɓe leɗɗe walla taƴe teewu gero, so huutoraade laaɓi ina sattii.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+[Hollirde amen dow ñaamdu](/brain-health/diet/) ina jogii miijooji goɗɗi dow waktu ñaamdu. Wallude e peewnugol ñaamdu ina waawi kadi wonde gollal welngal wonndude; ƴeew [golle kore](/activities/household-tasks/).
 
-## Talk with a doctor
+## Yewtudu e doktoor
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Tawo etaade feere heɓude ñaamdu kala e hoore maa, yewtudu e doktoor maa walla ekkotooɗo ñaamdu, tentini so aɗa huutoroo lekki suukaare walla toɓɓere ƴiiƴam, so a ustiima teddeendi ko ɓooyaani, walla so a yaniima. So tawii ko neɗɗo wuurɗo e nawnaare teskinde, naamno doktoor makko ko foti o ñaamde e yarde ñalawma kala, wonaa dow heɓude ñaamdu.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Ƴeew ballal ŋakkere jaawngal so jiingoore hakkille waɗii e koyngal, so neɗɗo yaniima, walla so maande sukkara ƴiiƴam ɓuuɓɗo no feewi ɗe moƴƴaani ko yaawi.

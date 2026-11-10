@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Eɓɓooje juuɗe e nafooje wonande mawɓe wuurɓe e majjere hakkil"
+seoTitle: "Eɓɓooje juuɗe e majjere hakkil: mawɓe, wonaa ɓikkoy"
+description: "Miijooji eɓɓooje juuɗe mawɓe wonande yimɓe wuurɓe e majjere hakkil, gila ndiyam noordi haa e feewnugol piindi, e ballal e peewnugol e darnde e golle."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Eɓɓooje juuɗe e nafooje moƴƴuɗe wonande mawɓe wuurɓe e majjere hakkil ena
+  njooɗi e njogii no mawɓe: ndiyam noordi, jokkondiral nate iwɗe e defte kabaruuji,
+  feewnugol piindi, leydi mboddi, waɗugol kaarteeji beeɓɗi walla kelle noorde
+  mawɓe. Waɗ seeɗa kaɓirɗe, wallu mo e fiyannde arwannde so ina haajaa, yeewtidon
+  tuma nde ngolloton, tee njogor saa’i ngondiɗon ngonndon ko kañum woni faandaare.
+  Timminnde golle ina waawi wonde, kono wonaa doole.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Suɓo kaɓirɗe e toɓɓe njooɗɗe no mawɓe, wano kaydi ndiyam noordi, piindi goonga e nate defte kabaruuji, wonaa jalbe jayɗe, tage walla kelle nate ɓikkoy."
+  - "Tiɗɗin e golle ɗee: noorɗe ɗee, memtagol leydi mboddi ndii, yeewtere ndee. Geɗal timmungal ko ɓeydital, wonaa faandaare."
+  - "Hokku faandaare so ina waawi, wano kaartal wonande taaniraawo walla feewnugol taabal."
+  - "Wallu mo fuɗɗaade, caggal mum ndaarto seeɗa. Fuɗɗaade fiyannde borosal wonndude ina waawi yonde."
+  - "Eɓɓooje ɗee potaani timmeede e ndeer waktu gooto, tee dartinde law ena newi sahaa kala."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Hol no mi haɗirta eɓɓooje ɗee waade no ɓikkoy?"
+    a: "Huutoro kaɓirɗe nafooje goonga, toɓɓe mawɓe e haala teddungal. Waylu jalbe jayɗe e kelle nate ɓikkoy e kaydi ndiyam noordi, leƴƴi, piindi, nate defte kabaruuji e kelle noorde laaɓtuɗe. Woto yettu golle ɗee hono no yettirtaa nate ɓikkoy; yeewtu heen hono no yeewtirtaa e musiɗɗo mawɗo kala."
+  - q: "Hol golle nafooje ngollata e majjere hakkil ɓattindiinde?"
+    a: "Eɓɓooje beeɓɗe, ɗe memte, ina ngolla ɓurɗe moƴƴude caggal ɗoon: fiyaade fiyanɗe yaajɗe e borosal mawngal, diidude leydi mboddi newndi, feewnude piindi seeɗa e faandu, walla suɓaade leppi leƴƴi no memirta. Aɗa waawi haajaade fuɗɗaade dillere ndee wonndude. Ndaarde ma no noortaa e yeewtidde e noorɗe ɗee ko naatirde e golle kadi."
+  - q: "Hol ko waɗmi so o wiyi o waawaa natde?"
+    a: "Ittu tiiɗnaare ndee. Ƴeewto eɓɓooje ɗe alaa jaabawol gootol moƴƴol tan, wano ndiyam noordi saɗtungol, jokkondiral nate, walla feewnugol piindi. Aɗa waawi kadi wiyde aɗa sokli ballal mum e huunde heeriinde, wano suɓaade noorɗe wonande kaartal, mbele golle ɗee ina njogii no moƴƴere, wonaa no ƴeewndoo."
+  - q: "Kelle noorde ena keewi waade no ɓikkoy wonande mawɓe naa?"
+    a: "Wonaa noon so ɗe peewniraa mawɓe. Suɓo kelle jogiiɗe toɓɓe mawɓe wano koɗorɗe, danki, otooji walla weeyo, tee hollu ɗe ko huunde deƴƴinnde, wonaa ekkitaago. Kelle amen noorde ena mbaawi winnditeede walla noordeede e alluwal huutorteeɗo."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Nafooje e eɓɓooje juuɗe ena ndokka yimɓe wuurɓe e majjere hakkil feere hollirde ko ɓe njiɗi so tawii wonaa e yiilaade konngol moƴƴol. Alzheimer's Association hollii wonde eɓɓooje nafooje ena mbaawi addude [hakkille timmal e faandaare](https://www.alz.org/help-support/caregiving/daily-care/art-music) e feere hollirde hoore mum, wonande topitiiɗo oo kam e mo wuurɗo e majjere hakkil oo. Ko teeŋti fof ko waɗde ɗum no mawɓe, beeɓɗum e alaa tiiɗnaare. Hello ngo ngaddata eɓɓooje keeriiɗe, no ɗe peewnirtee e no ɗe waylortee so piɓle mbaɗtii waylaade.
 
-## What makes an art activity adult and not childish?
+## Hol ko waɗata gollal nafoore waade no mawɓe, wonaa no ɓikkoy?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Gollal nafoore mawɓe huutortoo ko kaɓirɗe goonga, toɓɓe mawɓe e haala teddungal. Alzheimer's Association ina wasiyaa jogaade eɓɓooje ɗee e tolno mawɓe, tee reenude kala huunde waawnde yiyeede no hoynunde walla no ɓikkoy.
 
-| Feels childish | Feels adult |
+| Ina waawi yiyeede no ɓikkoy | Ina waawi yiyeede no mawɓe |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Jalbe jayɗe, tage ndelle, gite ɓikkoy | Kaydi ndiyam noordi, leƴƴi, piindi ƴooraaɗi |
+| Kelle nate ɓikkoy | Kelle noorde koɗorɗe, danki, otooji walla weeyo |
+| Yettuyee kala maandinol e “A waɗii moƴƴa” | Yeewtere goonga: “Noordi ndiyaari ndii ina woodi e haaju e ndiyaari ndi” |
+| Eɓɓo ngo alaa nafoore | Kaartal wonande musiɗɗo, feewnugol taabal, dokkal |
+| Jamirooje mbinndaaɗe hono ekkitaago | Noddude e newaare: “Aɗa waawi wallude mi e ɗum naa?” |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Miijto ko mo welannoo. Mo yiɗnoo gollude e leƴƴi ina waawi weltaade memtaade leƴƴi. Enjeniyoŋ yaltuɗo golle ina waawi suɓaade kaɓirɗe mawɗe walla suɓaade kaɓirɗe eɓɓo. Jannoowo gadiiɗo ina waawi weltaade waɗugol kaarteeji.
 
-## Why focus on the process, not the product?
+## Hol ko saabii tiɗɗinde e golle ɗee, wonaa e geɗal timmungal ngal?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Sabbu saa’i mo ngonɗon ngonndi ko kañum woni faandaare. Dugnol Alzheimer's Association wonande [golle ka suudu](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) wiyi yo en tiɗɗin e golle ɗee, wonaa e battane. Natal “bulu tan” woni kadi natal. Jokkondiral nate tati ina waɗi kadi jokkondiral.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Fedde ndee hollii kadi nafoojo humpitiiɗo ina waawi mettude sabu bayle e golle mum, tawa mo wonaa humpitiiɗo ina waawi weltaade feere hesere hollirde hoore mum. So mo tawii ko nafoojo karallaagal, ƴeewto feere woɗnde nde o heɓaani humpitaade no feewi, mbele ina waɗi no fijaare, wonaa no yerondiral.
 
-## Arts and crafts ideas to try
+## Miijooji eɓɓooje juuɗe e nafooje ɗe ƴeewtotoɗaa
 
-Each idea includes how to make it simpler if it becomes hard.
+Kala miijo ena waɗi no weeɓniree so ina tiiɗi.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Ndiyam noordi saɗtungol.** Loow kaydi ndiyam noordi tekkiindi, accu mo waɗa noorɗe e dow mum e borosal mawngal. Noorɗe ɗee ena njaajoo koye maɓɓe, ɗum noon alaa jaabawol bonngol. *Ɓurɗum weeɓde:* hokku noorɗe ɗiɗi tan, walla noor e ndiyam tan e kaydi niɓɓere nde maandinooji loowɗi ina njiyee.
+2. **Jokkondiral nate defte kabaruuji.** Taƴ nate law gila e defte kabaruuji baɗte koɗorɗe, defugol, otooji, yah-ngartaa walla golluuje mo yiɗnoo. Accu mo suɓoo e ɗakkude nate ɗee e kaydi sattundi. *Ɓurɗum weeɓde:* hokku nate nay taƴaaɗe law e ɗakkorde, tee ngollodon ɗakkugol ngol wonndude.
+3. **Feewnugol piindi.** Alzheimer's Foundation of America ina wasiyaa [feewnude piindi taƴaaɗi e haako](https://alzfdn.org/dementia-activity-gardening/) e feewnugol beeɓngol waktuuji. Huutoro faandu teddundu, tabitundu e calɗi taƴaaɗi law. *Ɓurɗum weeɓde:* waɗ calɗi seeɗa e koyngal tokosol, gootal e gootal.
+4. **Kaarteeji piindi ƴooraaɗi.** Ƴoor piindi iwɗe e cuggol hakkunde kelle deftere yontere, caggal mum ɗakku ɗe e kaydi kaartal foldaaɗo. *Ɓurɗum weeɓde:* aan mbaɗɗaa ɗakkorde ndee, kanko o ñoƴƴina piindol ngol.
+5. **Kelle noorde mawɓe.** Suɓo kelle jogiiɗe diidi laaɓtuɗi e toɓɓe goonga. [Kelle amen noorde](/games/coloring/) ena mbaawi winnditeede walla noordeede e yaynirde so a tappii noordi, caggal mum a tappii huunde ndee e natal ngal. *Ɓurɗum weeɓde:* nokkuuji ɓurɗi yaajde, noorɗe seeɗa, markeeraaɓe tekkuɓe.
+6. **Leydi mboddi walla leydi newndi.** Taggo, diido e feewnu leydi mboddi yooroore walla leydi mboddi newndi. Ñoƴƴinde haako e leydi mboddi ina waɗa maandinol beeɓngol. *Ɓurɗum weeɓde:* diidude e taggude tan ina yonu gollal timmungal. Ƴeewto mbele mo waɗataa leydi ndii e hunduko.
+7. **Waɗugol kaarteeji.** Alzheimer's Association ina wasiyaa waɗde ɗum ko gollal goongal: “Miɗen nelda kaartal jam wonande musiɗɗo. Aɗa waawi wallude mi naa?” Kaydi kaartal taƴaaɗi law e tage piindi walla tammbuuji seeɗa ina ngolla moƴƴa.
+8. **Deftere nate.** Waɗon jokkondire nate ɓennuɗe gadiiɗe, kaarteeji jahaangal walla tikkeeji e kelle deftere nate wonndude. Yeewtidon e kala heen tuma nde ngonɗon e waɗde. Yillo [dugnol amen fitinaango](/activities/reminiscence/) ngam heɓde laawol newngol yeewtidde e ko yawti.
+9. **Alluuje leƴƴi e memte.** Ɗakku leppi korduroo, welwet, burlaap e silika e kaydi sattundi. Waɗugol majji ko gollal ngal; memtaade majji so ɓooyii ko gollal goɗngal. Miijooji goɗɗi ena njiyee e [dugnol amen golle memte](/activities/sensory/).
+10. **Feewnugol leɗɗe beeɓngol.** Wonande mo yiɗnoo golle leɗɗe, heertude leɗɗe laaɓtuɗe walla noordeede suudu colli ina waawi siftorde ko o anndunoo. Ittu kaɓirɗe cekkaaɗe tee ndewtu mo.
+11. **Noorde e muusik.** Fijnu jimol mo yiɗi tee noor mbaydi walla noorɗe jahdooje e ɓernde ndee. Ɗum ena jokka golle ɗiɗi ɗe yimɓe heewɓe njiɗi. Yillo [golle muusik](/activities/music/).
 
-## How do I set up an art session?
+## Hol no mi peewnirta waktu nafoore?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Peewnoro law.** Taƴ, feewnu tee waɗ kala huunde ado maa noddude mo. Sabbaade makasi caggal nde nodduɗaa mo ina waawi bonnude waktu oo.
+2. **Jogor ɗum seeɗa.** Noorɗe ɗiɗi walla tati, borosal gootol, kaydi wootiri. Cuɓe keewɗe ina mbaawi ŋakkeede mo.
+3. **Reen taabal ngal.** Leƴƴi palastik walla leppi kiɗɗi ina haɗa jiiki wonde annde.
+4. **Jooɗoɗon e sara mum.** Gollo e geɗal maa sara makko. Ina waɗi no ngonndiral, wonaa no ndewtagol.
+5. **Wallu mo fuɗɗaade.** Alzheimer's Association hollii aɗa waawi haajaade fuɗɗaade dillere borosal ngal wonndude e mo. So fuɗɗii, yimɓe heewɓe ina njokki.
+6. **Yeewtidon tuma nde ngolloton.** Haal e noorɗe e memte ɗee, walla accu nafooje ɗee addude daartol. Reeno naamne hono “Ko ɗum ɗoo?”
+7. **Hokku waktu yonɗo.** Eɓɓo potaani timmeede e ndeer waktu gooto.
 
-## How do I adapt art as dementia changes?
+## Hol no mi waylorta nafooje so majjere hakkil waylii?
 
-| Stage | What tends to work | What to adjust |
+| Tolno | Ko heewi gollaade | Ko waylortee |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Fuɗɗorde | Ekkitagol, kelle noorde laaɓtuɗe, defte nate, waɗugol kaarteeji, noorde natal | Hokku cuɓal eɓɓooje; waɗ ɗum e renndo |
+| Hakkunde | Jokkondiral nate taƴaaɗe law, ndiyam noordi saɗtungol, feewnugol piindi, noorde nokkuuji yaajɗi | Go’o e go’o; aan jogor-ɗaa taƴugol e ɗakkugol |
+| Sakket | Fiyanɗe borosal yaajɗe, diidude leydi mboddi, memtaade leƴƴi, ndaarde ma no noortaa | Tiɗɗin e memte; naw jungo ngo newnude so ina jaɓi |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS ina wasiyaa wonde e tolnooji sakkitiiɗi, golle ɗee ina keewi weeɓnireede tee ina poti tiɗɗinde e memte. Ndaarde mo woɗɗo no noorta, e yeewtidde e noorɗe ɗee, ko naatirde goonga e golle. Ngam miijooji goɗɗi tolno e tolno, yillo [golle wonande kala tolno](/activities/ideas/).
 
-## Safety with art supplies
+## Kisnal e kaɓirɗe nafooje
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Suɓo noorɗe, markeeraaɓe e ɗakkorɗe ɗe ngalaa tooke.
+- Mooftu makasi, labbe eɓɓooje e masiŋaaji ɗakkorɗi nguli. Waɗ kala taƴugol aan tigi, law.
+- Ƴeewto so neɗɗo ina waɗa leydi mboddi, noorɗe walla piiji tokoosi e hunduko.
+- Huutoro kaɓirɗe tedduɗe, tabituɗe wonande ndiyam e faandu.
 
-## When should we stop?
+## Hol tuma nde dartirten?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Dartu so hakkille makko selii walla so tiiɗnaare hollii. Alzheimer's Association ina wasiyaa dartinde walla waylude gollal ngal so hakkille ustii walla tiiɗnaare ɓeydiima. Waɗ eɓɓo ngo nokku kisnungu tee hokku huunde deƴƴinnde. On mbaawi artude e mum janngo, walla on mbaawaa artude e mum. Ko fof ina moƴƴi.
 
-## Display the work, if the person wants
+## Hollu golle ɗee, so mo yiɗii
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Ɗakkude natal e dammugal walla waɗde jokkondiral e kaadran ina waawi wonde feere newnde hollirde teddungal. Naamno law. Won e yimɓe ina njiɗi yi’de golle maɓɓe e hiirde; woɗɓe ɓurata yiɗde ɗum alaa.
 
-## Pair art with our games
+## Renndin nafooje e fijaaji amen
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+E ñalɗe ɗe peewnugol noorɗe tiiɗi, [Noorde](/games/coloring/) ina golla e alluwal huutorteeɗo alaa jiiki. [Natal Taƴangal](/games/picture-puzzle/) ina waɗa natal fof e yeeso no ballal tuma nde mbaylotoɗon geɓɓe ɗee. [Kaarteeji Yeewtere](/games/conversation-cards/) ena ndokka naamne udditiiɗe ɗe mbaawi nawrude iwde e natal haa e daartol. Ɗe fof alaa limtorde waktu walla keɓal. On mbaawi kadi winnditaade kelle iwɗe e doggol amen [golle winnditaaɗe](/activities/printable/).

@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "ޑިމެންޝިއާ އަށް ހިލޭ ޕްރިންޓްކުރެވޭ މަސައްކަތްތައް"
+seoTitle: "ޑިމެންޝިއާ އަށް ހިލޭ ޕްރިންޓްކުރެވޭ މަސައްކަތްތައް"
+description: "ޑިމެންޝިއާ އަށް ހިލޭ ޕްރިންޓްކުރެވޭ މަސައްކަތްތައް: ބޮޑު އަކުރުގެ ލަފުޒު ހޯދުން، ކުލަ ޖެހުން، ވާހަކަ ކާޑުތަކާއި ތަސްވީރު ބިންގޯ، އަދި ރަނގަޅަށް ޕްރިންޓްކުރާ ގޮތުގެ އިރުޝާދު."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments އިން ޑިމެންޝިއާ އަށް ހިލޭ ޕްރިންޓްކުރެވޭ މަސައްކަތްތައް ދެއްވައިފި:
+  ބޮޑު އަކުރުގެ ލަފުޒު ހޯދުން، ކުލަ ޖެހުމުގެ ސަފްހާތައް، ތަސްވީރު ވާހަކަ ކާޑުތަކާއި
+  ތަސްވީރު ބިންގޯ ކާޑުތައް. ކުޅެވޭ ސަފްހާއަކަށް ވަދެ، އެތަނުގައިވާ ޕްރިންޓް ބަޓަން
+  ބޭނުން ކުރައްވާ. ބޮޑު، ސާދާ އަކުރުން ބަރު ކަރުދާހުގައި ޕްރިންޓްކޮށް، އެކް ސަފްހާއެއްގައި
+  އެއް ކަމެއް ބަހައްޓަވާ، އަދި އަލުން ބޭނުންކުރަން ބޭނުންވާ ސަފްހާތައް ލެމިނޭޓް ކުރައްވާ.
+  ދުވަހުގެ ވަގުތު ތާވަލެއް ނުވަތަ ދިރިއުޅުމުގެ ވާހަކަ ސަފްހާއެއް ފަދަ ސާދާ ގޭގައި
+  ހަދާ ޕްރިންޓްތަކުން ވެސް އެހީތެރިވެދެއެވެ.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "އަޅުގަނޑުމެންގެ ޕްރިންޓްކުރެވޭ މަސައްކަތްތައް ހިލޭއެވެ: Word Search، Coloring، Conversation Cards އަދި Picture Bingo. ކޮންމެ ކުޅެވޭ ސަފްހާއެއްގައި ވެސް ޕްރިންޓް ބަޓަން އެބަހުރި."
+  - "ބޮޑު، ސާދާ އަކުރުން ފާހަގަކުރެވޭ ތަފާތާއެކު ޕްރިންޓްކޮށް، އެކް ސަފްހާއެއްގައި އެއް ކަމެއް ބަހައްޓަވާ."
+  - "ބަރު ކަރުދާސް ނުވަތަ ކާޑް ސްޓޮކް އަތުން ބައްލަވަން ފަސޭހައިރު، މުރުޓަން ވެސް އުނދަގޫވެއެވެ. ޑްރައި-އިރޭސް މާކަރުން އަލުން ބޭނުންކުރުމަށް ސަފްހާތައް ލެމިނޭޓް ކުރައްވާ."
+  - "ދިރިއުޅުމުގެ ވާހަކަ ސަފްހާއެއް، ދުވަހުގެ ވަގުތު ތާވަލެއް ނުވަތަ ދޮރުތަކަށް ތަސްވީރު ލޭބަލް ފަދަ ގޭގައި ހަދާ ޕްރިންޓްތައް ސާދާ އަދި ބޭނުންތެރިވެއެވެ."
+  - "ޕްރިންޓްކޮށްފައިވާ ސަފްހާއަކީ އެއްކޮށް ކުރުމަށް ދެވޭ ދަޢުވަތެއް، ގެދޮރުގެ މަސައްކަތެއް ނޫނެވެ. ބައެއް ނުވަތަ އެއްވެސް ކޮޅެއް ނުކުރެވިޔަސް ކަމެއް ނެތެވެ."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "ޑިމެންޝިއާ އަށް ތިޔަބޭފުޅުން ދެއްވާ ޕްރިންޓްކުރެވޭ މަސައްކަތްތައް ހިލޭތޯ؟"
+    a: "އާދެ، ހިލޭއެވެ. މި ސައިޓުގައިވާ Word Search، Coloring، Conversation Cards އަދި Picture Bingo ސަފްހާތައް ހިލޭ ބޭނުންކޮށް ޕްރިންޓް ކުރެވޭނެއެވެ. ކުޅެވޭ ސަފްހާއަށް ވަދެ ޕްރިންޓް ބަޓަން ބޭނުން ކުރައްވާ."
+  - q: "ޑިމެންޝިއާ އަށް އެންމެ އެކަށީގެންވާ ޕްރިންޓްކުރެވޭ މަސައްކަތްތަކަކީ ކޮބައިތޯ؟"
+    a: "އެންމެ ރަނގަޅު ޕްރިންޓްތަކަކީ ސާދާ، ސާފު އަދި ބަލިމީހުންނަށް އެކަށީގެންވާ އެއްޗެހި: ކަނާތަށާއި ތިރިއަށް އެކަނި ދިޔަ ލަފުޒުތައް ހިމެނޭ ބޮޑު އަކުރުގެ ލަފުޒު ހޯދުން، ސާފު އިރުތައް ހުރި ކުލަ ޖެހުމުގެ ސަފްހާތައް، ވާހަކަ ފެށޭ ތަސްވީރު ކާޑުތައް، އަދި ގްރޫޕްތަކަށް ތަސްވީރު ބިންގޯ. މީހާ ޝައުގުވެރިވާ ކަންކަމާއި މިހާރު ކުރެވޭ ކަންކަމާ އެއްގޮތަށް މަސައްކަތް ނަގައި، އެކް ސަފްހާއެއްގައި އެއް ކަމެއް ބަހައްޓަވާ."
+  - q: "ޕްރިންޓްތައް ބަލަންވެސް ބޭނުންކުރަންވެސް ފަސޭހަ ކުރާނީ ކިހިނެއް؟"
+    a: "ބޮޑު، ސާދާ އަކުރު، ހުދު ނުވަތަ ކްރީމް ކަރުދާހުގައި ކަޅު ސިޔާހީ، އަދި ލަޑު ޖާގަ ބޭނުން ކުރައްވާ. ސަފްހާ ސީދާވެ ހުރުމަށް ބަރު ކަރުދާސް ނުވަތަ ކާޑް ސްޓޮކްގައި ޕްރިންޓްކޮށް، އަލި ދިއްލުން ކުޑަކުރުމަށް މެޓް ކަރުދާސް ނަގައި، އަދި ސަފްހާ ހަރަކާތް ނުވުމަށް ކްލިޕްބޯޑެއް ނުވަތަ ނޮން-ސްލިޕް މެޓެއް ބޭނުން ކުރައްވާ. ސަފްހާތައް ދެމިގެން ދިއުމަށް ލެމިނޭޓް ކުރުން އެހީތެރިވެއެވެ."
+  - q: "ކެއާ ހޯމެއް ނުވަތަ ދުވަހުގެ ޕްރޮގްރާމެއްގަށް ތިޔަބޭފުޅުންގެ މަސައްކަތްތައް ޕްރިންޓް ކުރެވޭނެތޯ؟"
+    a: "އާދެ، ކުރެވޭނެއެވެ. މަސައްކަތްތެރިން ތިބޭ މީހުންނާއި ގްރޫޕްތަކަށް އަޅުގަނޑުމެންގެ ސަފްހާތައް ޕްރިންޓް ކުރަން މަރުހަބާ. Picture Bingo ގްރޫޕްތަކަށް ހަދާފައިވާ އެއްޗެއް، އަދި ޓީވީ ނުވަތަ ޕްރޮޖެކްޓަރެއްގައި ދައްކާލެވޭ ސްކްރީން ކޯލަރެއް ވެސް އެކުލެވިގެންވެއެވެ."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+ބައެއް ފަހަރު އެންމެ ރަނގަޅު މަސައްކަތަކީ ބަދިގޭގެ މޭޒުމަތީގައި ކަރުދާހެއްގެ ސަފްހާއަކާއި ގަލަމެކެވެ. ޕްރިންޓްކުރެވޭ އެއްޗެހި ބޭނުންކުރުމަށް ޗާރޖްކުރުމެއް، ޕާސްވޯޑެއް ނުވަތަ ސްކްރީނެއް ނުބޭނުންވެއެވެ. އަދި ސަލާމަށް ދިއުމަށް ނުވަތަ ގްރޫޕަކަށް ގެންދިއުމަށް ވެސް ފަސޭހައެވެ. މި ސަފްހާއިން އަޅުގަނޑުމެންގެ ސައިޓުގައިވާ ހިލޭ ޕްރިންޓްކުރެވޭ މަސައްކަތްތައް، ބަލަންވެސް އަތުން ބައްލަވަންވެސް ފަސޭހަވާ ގޮތަށް ޕްރިންޓްކުރާ ގޮތް، އަދި އާއިލާތަކާއި މަސައްކަތްތެރިންނަށް ބޭނުންތެރިވާ ސާދާ ގޭގައި ހަދާ ޕްރިންޓްތަކެއް ބަޔާންކޮށްދެއެވެ.
 
-## What free printable activities do you offer?
+## ތިޔަބޭފުޅުން ދެއްވާ ހިލޭ ޕްރިންޓްކުރެވޭ މަސައްކަތްތަކަކީ ކޮބައި؟
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+އަޅުގަނޑުމެން ހިލޭ ޕްރިންޓްކުރެވޭ މަސައްކަތް ހަތަރެއް ދެއްވަމުއެވެ. މި ކުޅެވޭ ސަފްހާތަކުގެ ތެރެއިން އެއް ސަފްހާއަކަށް ވަދެ، **ޕްރިންޓް** ބަޓަން ބޭނުންކޮށްގެން ޕްރިންޓަރަށް އެކަށީގެންވާ ބައެއް ހޯދައްވާ.
 
-| Printable | What it is | Good for |
+| ޕްރިންޓް | އެއީ ކޮބައި | އެކަށީގެންވާ ގޮތް |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | ކަނާތަށާއި ތިރިއަށް އެކަނި ދިޔަ ލަފުޒުތައް ހިމެނޭ ބޮޑު އަކުރުގެ ލަފުޒު ހޯދުން | ގަލަމާއެކު ހަމަހިމަ ވަގުތެއް؛ ޕަޒްލް ކުރަން ކުރިން ޝައުގުވެރިވި މީހަކަށް |
+| [Coloring](/games/coloring/) | ޕްރިންޓްކޮށް ނުވަތަ ސްކްރީނުގައި ކުލަ ޖެހޭ ސަފްހާތައް | ހަމަހިމަ، ހައުލުވަންތަ ވަގުތެއް؛ އެހީއާއެކު ކޮންމެ މަރުހަލާއެއްގައި |
+| [Conversation Cards](/games/conversation-cards/) | ވިސްނާލުމަށް ހުޅުވާލާ ސުވާލުތަކާއެކު ތަސްވީރު ކާޑުތައް | ސަލާމް ކުރުން، ކޯލުތައް، އާއިލާއާއެކު ކެއުން، ހަނދާން ހިއްސާކުރާ ގްރޫޕްތައް |
+| [Picture Bingo](/games/picture-bingo/) | ނަންބަރުގެ ބަދަލުގައި ތަސްވީރު ހިމެނޭ ބިންގޯ ކާޑުތައް، އަދި ސްކްރީން ކޯލަރެއް | ކެއާ ހޯމްތައް، ދުވަހުގެ ޕްރޮގްރާމްތައް، އާއިލާ އެއްވުންތައް |
 
-### Large-print word search
+### ބޮޑު އަކުރުގެ ލަފުޒު ހޯދުން
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) އިން ބޮޑު އަކުރު ބޭނުންކޮށް، ލަފުޒުތައް ކަނާތަށާއި ތިރިއަށް އެކަނި ދިޔަ ގޮތަށް ބަހައްޓައިފިއެވެ. ކުރިމައްޗަށް ނުވަތަ ފަހަތަށް ދިޔަ ލަފުޒުތައް ނުހިމެނެއެވެ. އެއްކޮށް މަސައްކަތް ކުރައްވާ: އެކަކު ލިސްޓުން ލަފުޒެއް ކިޔައިދީ، އަނެކަކު އެ ލަފުޒު ހޯދައިދެއެވެ. ލަފުޒު ހޯދުން އުނދަގޫވެއްޖެ ނަމަ، ކޮންމެ ލަފުޒެއްގެ ފުރަތަމަ އަކުރު އެއްކޮށް ބްރެކެޓް ކުރެއްވުމަށް މަސައްކަތް ކުރައްވާ، ނުވަތަ ލަފުޒު ލިސްޓު އަޑުގައި ކިޔައިގެން ކޮންމެ ލަފުޒެއްގެ ވާހަކަ ދެއްކެވުމަށް މަސައްކަތް ކުރައްވާ.
 
-### Coloring pages
+### ކުލަ ޖެހުމުގެ ސަފްހާތައް
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Coloring](/games/coloring/) ސަފްހާތައް މާކަރު ނުވަތަ ކުލަ ޕެންސިލް ބޭނުންކުރުމަށް ޕްރިންޓް ކުރެވޭނެއެވެ. ނުވަތަ ޓެބްލެޓެއްގައި ކުލައެއް ނަގައި، ދެން ތަސްވީރުގެ ބަޔަކަށް ފިއްތާލައިގެން ކުލަ ޖެހޭނެއެވެ. ޕްރިންޓްކޮށްފައިވާ ސަފްހާތަކަށް ބަރު މާކަރުތަކާއި އެއްފަހަރާ ކުޑަ ކުލަތަކެއް ދެއްވާ. ކުލަ ޖެހުން ބަލިމީހުންނަށް އެކަށީގެންވާ، ހަމަހިމަ ގޮތަކަށް ބޭނުންކުރާ ގޮތްތަކަށް އަޅުގަނޑުމެންގެ [ފަންނާއި އަތުން ހަދާ މަސައްކަތްތަކުގެ އިރުޝާދު](/activities/arts-and-crafts/) ބައްލަވާ.
 
-### Conversation cards
+### ވާހަކަ ކާޑުތައް
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) އިން ސާފު ތަސްވީރެއް ހުޅުވާލާ ސުވާލެއްާއެކު ގުޅުވައިދެއެވެ. މިސާލަކަށް «މިކަމާ ގުޅޭ ހަނދާނެއް ކިޔާލައްވާ» ނުވަތަ «މިތާ ފެންނަނީ ކޮން ކަމެއް؟» ފަދަ ސުވާލުތަކެވެ. މިއީ ރަނގަޅު ޖަވާބެއް އެދޭ ސުވާލުތަކެއް ނޫން، ވާހަކަ ފެށުމަށް ހުޅުވާލާ ދަޢުވަތެކެވެ. ސެޓެއް ޕްރިންޓްކޮށް ވަކިކޮށް، ސަލާމަށް ދާއިރު ބޭނުންކުރުމަށް ބެގެއްގައި ބަހައްޓަވާ، ނުވަތަ ކޯލު ކުރާ ވަގުތު ފޯނު ކައިރީގައި ބަހައްޓަވާ. މިއީ [ހަނދާން ހިއްސާކުރުން](/activities/reminiscence/) ގްރޫޕްތަކުގައި ވެސް ރަނގަޅަށް ބޭނުންކުރެވޭ އެއްޗެކެވެ.
 
-### Picture bingo cards
+### ތަސްވީރު ބިންގޯ ކާޑުތައް
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Picture Bingo](/games/picture-bingo/) ކާޑުތަކުގައި ނަންބަރުގެ ބަދަލުގައި ތަސްވީރު ބޭނުން ކުރެއެވެ. ކުޅޭ ކޮންމެ މީހަކަށް އެއް ކާޑެއް ޕްރިންޓްކޮށް، ލެޕްޓޮޕެއް، ޓީވީއެއް ނުވަތަ ޕްރޮޖެކްޓަރެއްގައި ސްކްރީން ކޯލަރ ބޭނުން ކުރައްވާ. އެއްވެސް މީހަކު ބާކީ ނުހުރުމަށް، އެންމެންގެ ކާޑު ފުރިހަމަވާ ހާ ކޯލް ކުރަން އަޅުގަނޑުމެން ތައުސިޔާ ކުރަމުއެވެ. ސެޝަނެއް ހިންގާ ގޮތަށް [ކެއާ ހޯމްތަކުގެ ގްރޫޕް މަސައްކަތްތައް](/activities/care-home-groups/) ބައްލަވާ.
 
-## How do I print activities so they are easy to use?
+## މަސައްކަތްތައް ބޭނުންކުރަން ފަސޭހަވާ ގޮތަށް ޕްރިންޓް ކުރާނީ ކިހިނެއް؟
 
-Small changes in how you print make a big difference.
+ޕްރިންޓް ކުރާ ގޮތުގައި ކުރާ ކުޑަ ބަދަލުތަކުން ބޮޑު ތަފާތެއް އައެވެ.
 
-### Make it easy to see
+### ބަލަން ފަސޭހަ ކުރައްވާ
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **ބޮޑު، ސާދާ އަކުރު.** ސަފްހާއަށް އަރާ ބޮޑު ޕްރިންޓް ސެޓިން ބޭނުން ކުރައްވާ. ޒީނަތްތެރި ނުވަތަ ސްކްރިޕްޓް ފޮންޓްތައް ބޭނުން ނުކުރައްވާ.
+- **ފާހަގަކުރެވޭ ތަފާތު.** ހުދު ނުވަތަ ކްރީމް ކަރުދާހުގައި ކަޅު ސިޔާހީ. ފިކަ އަލި ނުވަތަ ކުލަ ބެކްގްރައުންޑް ދޫކޮށްލައްވާ.
+- **މެޓް ކަރުދާސް** އަލި ބޮޑު އެއްޗެހިން އަލި ދިއްލުން ކުޑަކުރެއެވެ.
+- **އައިނަކާއި އަލި** ބަލައްވާ. Alzheimer's Association އިން ބުނަނީ ދެކުމާއި އަޑު އިވުމުގައި އުނދަގޫކަން އޮތްނަމަ ވާހަކަ ދެއްކުން އުނދަގޫވެދާނެ ކަމަށާއި، އެ ކަންކަން ދިރާސާކޮށް ބެލުން ރަނގަޅު ކަމަށެވެ. އަލިވެސް ރަނގަޅަށް އެއްވަރަކަށް ލިބޭ ގޮތް ހެދުމުން ވެސް އެހީތެރިވެއެވެ.
 
-### Make it easy to hold
+### އަތުން ބައްލަވަން ފަސޭހަ ކުރައްވާ
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **ބަރު ކަރުދާސް ނުވަތަ ކާޑް ސްޓޮކް** ސީދާވެ ހުރެ، އުފުލުމަށް ފަސޭހަވެ، އަދި އަލުން އަލުން ބޭނުންކުރުމަށް ރަނގަޅެވެ.
+- **ކްލިޕްބޯޑެއް** ނުވަތަ ނޮން-ސްލިޕް ޕްލޭސްމެޓެއް ސަފްހާ ފިރިހެނުދާ ގޮތް ހަދައެވެ.
+- **ބަރު މާކަރު ނުވަތަ ބަރު ޕެންސިލް** ފަތް ގަލަމަށް ވުރެ އަތުން ހިފަހައްޓަން ފަސޭހައެވެ.
 
-### Make it reusable
+### އަލުން ބޭނުންކުރެވޭ ގޮތް ހަދައްވާ
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **ސަފްހާތައް ލެމިނޭޓް ކުރައްވާ** ނުވަތަ ސާފު ޝީޓް ޕްރޮޓެކްޓަރުތަކުގެ ތެރޭގައި ޖައްސަވާ. ލަފުޒު ހޯދުމާއި ބިންގޯ ކާޑުތަކުގައި ޑްރައި-އިރޭސް މާކަރު ބޭނުންކޮށްގެން ފުހެލެވޭނެއެވެ.
+- **އަލި ދިއްލުމަކީ މައްސަލައެއް ނަމަ** މެޓް ޕައުޗް ނަގައި، ލެމިނޭޓް ކުރެވިފައިވާ ކާޑުތަކުގެ ކަންތައް މަގުން ވަށައިގެން ބައްލަވަން ފަސޭހަ ކުރައްވާ.
+- **އެންމެ ބޭނުންވާ ސަފްހާތަކުގެ ފޯލްޑަރެއް** ބަހައްޓަވާ، އެއީ ކޮންމެ ހަފްތާއަކު އެއް ސަފްހާ އަލުން ޕްރިންޓް ނުކުރުމަށްޓަކައެވެ.
 
-### Keep it simple
+### ސާދާ ގޮތަކަށް ބަހައްޓަވާ
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **އެކް ސަފްހާއެއްގައި އެއް ކަމެއް.** ގިނަ މަސައްކަތް އެއްތަނަކަށް އެތުރުމަށް ވުރެ، އެއް ލަފުޒު ހޯދުމެއް ނުވަތަ އެއް ތަސްވީރެއް.
+- **ހުސް ޖާގަ ލާދޭ.** އެތައް އެއްޗެއް ފުރިފައިވާ ސަފްހާއަކީ ބުރަކަށި ކަމެއް އިހުސާސް ކުރެވިދާނެ އެއްޗެކެވެ.
+- **ވީހާވެސް ކިޔަންޖެހޭ އިރުޝާދު ނުދީ.** ކުރަންޖެހޭ ގޮތް ދައްކާލައްވާ.
+- **ސަފްހާ ކުޑަކުރައްވާ.** ފުރިހަމަ ސަފްހާއެއް މާ ބޮޑު ނަމަ، ބައިކޮށް ނުވަތަ ފޯލްޑްކޮށް ބައެއް ދައްކައްވާ.
 
-## Other useful printables you can make at home
+## ގޭގައި ހަދާލެވޭ އެހެން ބޭނުންތެރި ޕްރިންޓްތަކަކީ ކޮބައި؟
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+ބޭނުންތެރި ކޮންމެ ޕްރިންޓެއް ކުޅެވޭ އެއްޗެއް ނޫނެވެ. މި ޕްރިންޓްތައް ވޯޑް ޕްރޮސެސަރަކާއި ޕްރިންޓަރަކުން ފަސޭހައިން ހަދާލެވޭނެއެވެ.
 
-### A life-story page
+### ދިރިއުޅުމުގެ ވާހަކަ ސަފްހާއެއް
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+އެކް ސަފްހާއެއްގެ «އަހަރެންގެ ވާހަކަ» ޝީޓެއް: ތަސްވީރެއް، އެ މީހާ ގެންގުޅުން އެންމެ ބޭނުންވާ ނަން، ބޮޑުވެގަތީ ކޮން ތަނެއްގައި ކަމަށާއި، މަސައްކަތް، އާއިލާ، އެންމެ ބޭނުންވާ ކެއުން، މިއުޒިކް، އަދި ހިތްހަމަޖެހޭ ނުވަތަ ހިތްޕުޅު ނުރައްކާވާ ކަންކަން. Dementia Australia އިން ތައުސިޔާ ކުރަނީ އެ މީހާގެ ދިރިއުޅުން، ޝައުގުވެރިކަން، އަދި މުހިންމު މީހުންގެ ތަފްސީލު ހިމެނޭ [ހަނދާން ފޮތެއް](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ބޭނުންކުރުމަށެވެ. އެއީ ސަލާމަށް އަންނަ މީހުންނާއި ބެލެހެއްޓެވޭ މީހުންނަށް އެހީތެރިވެ، ވާހަކަ ފެށުމަށް ވެސް މަގު ހުޅުވާލާ ގޮތެކެވެ.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+ހޮސްޕިޓަލްތަކާއި އާ ކެއާ މާހައުލުތަކުގައި މިއީ ޚާއްޞަ ބޭނުންތެރި އެއްޗެކެވެ. NIA އިން ތައުސިޔާ ކުރަނީ ހޮސްޕިޓަލްގެ މުވައްޒަފުންނަށް އެ މީހާގެ ދުވަހުގެ އާދަތައް، ބޭނުންވާ ނަން، ޝައުގުވެރިކަމާއި ނުޝައުގުވެރިކަން، ހިތްޕުޅު ބަދަލުވާ ކަންކަން، އަދި ވޭނުން އިހުސާސްވާ ވަގުތު ދައްކާ އަލާމާތްތައް ހިމެނޭ [އަމިއްލަ މަޢުލޫމާތު ޝީޓެއް](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ދިނުމަށެވެ.
 
-### A daily schedule
+### ދުވަހުގެ ވަގުތު ތާވަލެއް
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+ދުވަހަށް ބޮޑު، ސާދާ ވަގުތު ތާވަލެއް: ހެނދުނު ކެއުން، ހިނގާލުން، މެންދުރު ކެއުން، އަރާމުކުރުން، މިއުޒިކް، ރޭގަނޑު ކެއުން ފަދަ ކޮންމެ ބަޔަކަށް ވަގުތު، ކުޑަ ލަފުޒުތަކެއް އަދި ކުޑަ ތަސްވީރެއް. Alzheimer's Association ގެ [ދުވަހުގެ ކެއާ ޕްލޭން](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) އިން ތައުސިޔާ ކުރަނީ އެ މީހާގެ ދުވަހުގެ އެންމެ ރަނގަޅު ވަގުތުތަކާ އެއްގޮތަށް ޕްލޭންކޮށް، ދިރާސާ ހޭލެވޭ ވަގުތާއި ނިދާ ވަގުތު ދިރާސާކޮށް، މަސައްކަތާއި އަރާމު ތެރެތެރޭގައި ތަފާތު ބަހައްޓަން ބޭނުންވާ ކަމަށެވެ. ފްރިޖުގެ މަތީގައި ފަދަ އައިނަށް ފެންނަ ތަނެއްގައި ހަރުކޮށް، ބޭނުންވާ ވަގުތު އެއަށް ބަދަލު ގެންނަން ފަސޭހަ ކުރައްވާ. އިތުރު މަޢުލޫމާތަށް އަޅުގަނޑުމެންގެ [ދުވަހުގެ ދިރިއުޅުމުގެ އިރުޝާދު](/activities/daily-routine/) ބައްލަވާ.
 
-### Picture labels for rooms and drawers
+### ކޮޓަރިތަކާއި ދަރާޒުތަކަށް ތަސްވީރު ލޭބަލް
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA އިން ތައުސިޔާ ކުރަނީ ބައިތްކޮށް، އަންދިރި ކޮޓަރި އަދި ބަދިގެ [ފާހަގަކުރުމަށް ކުލަދާ ބޯޑު ނުވަތަ ސާދާ ތަސްވީރު](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ބޭނުންކުރުމަށެވެ. އެއް ވިސްނުމެއް ދަރާޒުތަކަށާއި އަލަމާރިތަކަށް ވެސް ބޭނުންކުރެވޭނެއެވެ: މޭޔާގެ ދަރާޒުމަތީގައި މޭޔާގެ ތަސްވީރެއް، ކޯފިތަކުގެ އަލަމާރީގައި ކޯފިތަކުގެ ތަސްވީރެއް. ޕްރިންޓްކޮށް، ލެމިނޭޓްކޮށް ހަރުކުރައްވާ.
 
-### A sorting set
+### ތަރުތީބުކުރާ ސެޓެއް
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+ދެ ސާދާ ބާވަތަކުން، މިސާލަކަށް މޭވާތަކާއި މަތަކެއް ނުވަތަ އާލާތްތަކާއި ބަދިގޭގެ އެއްޗެހި، ތަސްވީރުތައް ކާޑް ސްޓޮކްގައި ޕްރިންޓް ކުރައްވާ. ވަކިކޮށް ދެ ބަސްކެޓަކަށް އެއްކޮށް ތަރުތީބު ކުރައްވާ. މިކަމުގެ ސްކްރީން ބައަކީ [Sort Together](/games/sort-together/) އެވެ.
 
-### Song lyric sheets
+### ލަވައިގެ ލިޔުން ހިމެނޭ ސަފްހާތައް
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+އެންމެ ބޭނުންވާ ލަވަތަކެއްގެ ލިޔުން ވަރަށް ބޮޑު އަކުރުން ޕްރިންޓް ކުރައްވާ. މިހާރު ގިނައިން ނުކިޔަވާ މީހުންނަށް ވެސް އެ ސަފްހާ އަތުގައި ބަހައްޓަވައިގެން އުފަލުން ލިބިދާނެއެވެ.
 
-### A family photo page
+### އާއިލާ ފޮޓޯ ސަފްހާއެއް
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+ހަތަރުން ހަ އާއިލާ ފޮޓޯއެއް އެއް ސަފްހާއެއްގައި ބޮޑަށް، ކޮންމެ ފޮޓޯއެއްގެ ތިރީގައި ފުރަތަމަ ނަން ލިޔެފައި. އެއީ މޭޒުމަތީގައި ބަހައްޓައިގެން، ބޭނުން މީހަކަށް ނަގައިގެން ވާހަކަ ދެއްކެވޭ އެއްޗެކެވެ. ނަން ލިޔެފައި ހުރުމުން ސަލާމަށް އަންނަ މީހުންނާއި މުވައްޒަފުންނަށް ވާހަކައިގައި ބައިވެރިވުން ފަސޭހަވެ، އަދި «މިއީ ކޮން މީހެއް؟» އަށް އެދޭން ނުޖެހެއެވެ.
 
-### A recipe card
+### ރެސިޕީ ކާޑެއް
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+އާއިލާގެ އެންމެ ބޭނުންވާ ރެސިޕީއެއް ބޮޑު އަކުރުން ޕްރިންޓް ކުރައްވާ. އެއްކޮށް ކެއުން ތައްޔާރުކުރުމަށް ބޭނުންކުރެވޭނެއެވެ، ނުވަތަ ކުރިން ކާ ކެއުމުގެ ވާހަކަ ދެއްކުމަށް ވެސް ބޭނުންކުރެވޭނެއެވެ.
 
-## How do I offer a printable without it feeling like homework?
+## ޕްރިންޓްކުރެވޭ އެއްޗެއް ގެދޮރުގެ މަސައްކަތެއް ފަދައިން ނުވާ ގޮތަށް ހުށަހަޅާނީ ކިހިނެއް؟
 
-Present it as something to share, not a test.
+އެއީ އިމްތިހާނެއް ނޫން، އެއްކޮށް ހިއްސާކުރާ އެއްޗެއްގެ ގޮތުގައި ހުށަހަޅައްވާ.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **އިށީނދެލައިގެން އަމިއްލަފުޅު ފަށައިގަންނަވާ.** «އަހަރެން މި ލަފުޒު ހޯދުން ކުރަނީ. 'ބަގީޗާ' ހޯދުމަށް އެހީތެރިވެދެއްވާނެތޯ؟»
+- **އެއްކޮށް މަސައްކަތް ކުރައްވާ.** ބަދަލުކޮށް ކުރައްވާ، ނުވަތަ އެކަކު ހޯދައިގެން އަނެކަކު ބްރެކެޓް ކުރައްވާ.
+- **ރަނގަޅު ނުވަތަ ނުރަނގަޅު ކަމަށް ކަހަލަ ނިޝާނެއް ނުޖައްސަވާ.** Alzheimer's Association ގެ [ގޭގައި ކުރެވޭ މަސައްކަތްތަކުގެ އިރުޝާދު](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) އިން ތައުސިޔާ ކުރަނީ ނަތީޖާއަށް ވުރެ އެ ކަންކުރާ ގޮތަށް ސަމާލުވުމަށާއި، ކާމިޔާބަށް ވުރެ އުފަލަށް އަހަމިޔަތު ދިނުމަށެވެ.
+- **ސަފްހާތައް ބޭރުގައި ބަހައްޓަވާ.** އެއް އިރުޝާދުން ތައުސިޔާ ކުރަނީ ސްކްރެޕްބުކް، ފޮޓޯ އަލްބަމް ނުވަތަ ކުރީގެ މެގަޒިން ފަސޭހައިން ނަގާ ތަންތަނުގައި ބެހެއްޓުމަށެވެ. ޕްރިންޓްކޮށްފައިވާ ކާޑުތަކާއި ފޮޓޯ ސަފްހާތައް ވެސް އެހެންމެ ސައިޑް ޓޭބަލެއްގައި ބަހައްޓަވާލެވޭނެއެވެ.
+- **ބޭނުންވާ ވަގުތު ހުއްޓަވާ.** ކުލަ ޖެހުމުގެ ސަފްހާއެއްގެ ބައިކޮޅެއް ކުރުމަކީ ވެސް ރަނގަޅު މެންދުރެކެވެ. ސަފްހާ އަރުވައިގެން ސައި ބޯން އިށީނދެލުމަކީ ވެސް ރަނގަޅު ކަމެކެވެ.
 
-## Where to find more
+## އިތުރު މަޢުލޫމާތު ހޯދާނެ ތަން
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+އަޅުގަނޑުމެންގެ [ހުރިހާ ކުޅެވޭ އެއްޗެހާއި ޕްރިންޓްތައް](/games/) ބައްލަވާ، ނުވަތަ ކަރުދާހާއެކު އަދި ކަރުދާހާ ނުލައި ކުރެވޭ އިތުރު ޚިޔާލުތަކަށް [ކޮންމެ މަރުހަލާއަކަށް އެކަށީގެންވާ މަސައްކަތްތައް](/activities/ideas/) ބައްލަވާ.

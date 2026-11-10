@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Mawĩra ma Moko harĩ Andũ Akũrũ marĩ na Dementia"
+seoTitle: "Mawĩra ma Moko ma Andũ Akũrũ marĩ na Dementia"
+description: "Meciria ya mawĩra ma moko ma andũ akũrũ arĩa matũũraga na dementia, hamwe na ũtaaro wa kũhaarĩria, kũgarũra na kũrũmbũiya ihinda rĩa gwĩka hamwe."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Mawĩra mega ma moko harĩ andũ akũrũ arĩa matũũraga na dementia monagwo na
+  maiguuo ta ma andũ akũrũ: gũcaka na rangi wa maaĩ, gũcokanĩrĩria mbica cia
+  magazini, kũbanga mahũa, kũũmba na rĩũmba, gwĩka makarita mũhũthũ kana
+  mabuku ma gũcaka rangi ma andũ akũrũ. Haarĩria indo nini, teithia gũtandĩka
+  rangi rwa mbere angĩkorwo nĩ mabataire, na mwaranagĩrie mũgĩĩka wĩra ũcio, na
+  muone ihinda rĩu mũrĩ hamwe ta rĩo rĩa bata. Kũrĩĩkia kĩndũ ti nginya.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Thuura indo na mĩtwe ĩonekaga ya andũ akũrũ, ta karatathi ka rangi wa maaĩ, mahũa ma ma, na mbica cia magazini, no ti gĩcũrĩ kĩrĩa kĩmeaga, tũtembe kana mabuku ma gũcaka rangi ma ciana."
+  - "Rũmbũiya mũtaratara: rangi, ũrĩa rĩũmba rĩiguagwo, na mĩario. Kĩndũ kĩrĩkĩtie nĩ kĩega gĩa nyongerera, no ti kĩo kĩrĩa kĩnene."
+  - "He kĩonereria kĩa gĩtũmi rĩrĩa kũhoteka, ta karita ya mũcũkũrũ kana kĩndũ gĩa kũgemia metha."
+  - "Teithia mũndũ ũcio kwambĩrĩria, ũcooke ũthiĩ na thuutha. Kwambĩrĩria gũcaka rangi hamwe kaingĩ nĩ kũiganu."
+  - "Mawĩra matingĩrĩĩkio ihinda rĩmwe, na gũtiga mbere ya ihinda nĩ kwĩtĩkĩrĩkaga hĩndĩ ciothe."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ndingĩtũma mawĩra ma moko matikaonekane ta ma ciana atĩa?"
+    a: "Hũthĩra indo cia ma cia wĩra wa ũũgĩ, mĩtwe ya andũ akũrũ na mwarĩrie na gĩtĩĩo. Handũ ha gĩcũrĩ kĩrĩa kĩmeaga na mabuku ma gũcaka rangi ma tũhĩĩ, hũthĩra karatathi ka rangi wa maaĩ, nguo, mahũa, mbica cia magazini na mabuku ma gũcaka rangi marĩa marĩ na mũcoro mũingĩ. Ndũkanamũkũngũĩre o ta ũrĩa ũngĩkũngũĩra mwana nĩ ũndũ wa mũcoro wake; aria ũhoro waguo o ta ũrĩa ũngĩaria na mũndũ ũngĩ mũkũrũ."
+  - q: "Mawĩra marĩkũ ma ũũgĩ mekaga wega hĩndĩ ya dementia ĩkũrĩte mũno?"
+    a: "Mawĩra mũhũthũ, marĩa makinyagĩrĩra mĩĩrĩ, nĩmo mekaga wega thuutha-inĩ: gũcaka na burashi nene, kũhihinya rĩũmba iroroku, kũiga mahũa manini thĩinĩ wa ndĩra, kana gũthondeka tũcunjĩ twa nguo kũringana na ũrĩa tũiguagwo. No nginya ũtandĩkie mwĩnyithio ũcio hamwe nake. Kũmwĩrorera agĩcaka rangi na mwaranĩrie ũhoro wa rangi no kũhoteke gũtuĩka njĩra ya kũnyitanĩra."
+  - q: "Atĩa angĩkiuga atingĩhota gũcora?"
+    a: "Eheria mũritũ wa kwĩigua atĩ no nginya eke wega. Geria mawĩra matarĩ na macokio ma „nĩ wega” kana „ti wega”, ta gũitĩrĩria rangi wa maaĩ, gũcokanĩrĩria mbica, kana kũbanga mahũa. Ningĩ no uuge nĩ ũbataire ũteithio harĩ ũndũ mũna, ta gũthuura rangi cia karita, nĩguo wĩra ũcio wonekane ta ũteithio, no ti ta kĩgerio."
+  - q: "Mabuku ma gũcaka rangi nĩ ma ciana mũno harĩ andũ akũrũ?"
+    a: "Aca, ti ma ciana rĩrĩa mathondeketwo ma andũ akũrũ. Thuura mabuku marĩ na mĩtwe ya andũ akũrũ ta mĩgũnda, mĩcamo ya nguo, ngari kana kũndũ kũrĩa kwonekaga wega, na ũmonekie ta njĩra ya kũhoorera, no ti ta wĩra wa gũthoma. Mabuku maitũ ma gũcaka rangi no macookio kana magacakwo rangi na kĩgũrũ (tablet) kũrĩa mũrĩ."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Wĩra wa ũũgĩ na mawĩra ma moko maheaga andũ arĩa matũũraga na dementia njĩra ya kwonania mawĩra mao ma meciria itekũringana na kuona ciugo iria ciagĩrĩire. Alzheimer's Association yugaga atĩ mawĩra ma ũũgĩ no marute [maigua ma kũhota kũhingia ũndũ na gĩtũmi](https://www.alz.org/help-support/caregiving/daily-care/art-music) na ihinda rĩa kwĩonania, harĩ mũndũ ũrĩa ũroraga o hamwe na mũndũ ũrĩa ũrĩ na dementia. Ũndũ ũrĩa mũnene nĩ gũtũma maũndũ makorwo ma andũ akũrũ, mũhũthũ na matarĩ na mũritũ. Karatathi gaka kaneana mawĩra ma mwanya, ũrĩa wa kũmahaarĩria na ũrĩa wa kũmagarũra maũndũ magĩthiĩ makĩgarũrũka.
 
-## What makes an art activity adult and not childish?
+## Nĩ kĩĩ gĩtũmaga wĩra wa ũũgĩ wonekane wa andũ akũrũ, no ti wa ciana?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Wĩra wa ũũgĩ wa andũ akũrũ ũhũthagĩra indo cia ma, mĩtwe ya andũ akũrũ na mwarĩrie wa gĩtĩĩo. Alzheimer's Association ĩtaaragĩrĩria gũtũma mawĩra makorwo ma mũthemba wa andũ akũrũ na kwĩherera kĩndũ o gĩothe kĩngĩoneka ta gĩa kũnyarara kana ta gĩa ciana.
 
-| Feels childish | Feels adult |
+| Kĩonekaga ta gĩa ciana | Kĩonekaga ta gĩa andũ akũrũ |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Gĩcũrĩ kĩrĩa kĩmeaga, tũtembe twa foam, maitho ma tũcicio | Karatathi ka rangi wa maaĩ, nguo, mahũa mahinyĩrĩrie |
+| Mabuku ma gũcaka rangi ma tũhĩĩ | Mabuku ma gũcaka rangi ma mĩgũnda, mĩcamo ya nguo, ngari kana kũndũ kũrĩa kwonekaga wega |
+| Kũgaathĩrĩria „Wĩkĩte wega” harĩ rũũri o ruothe | Mwarĩrie wa ma: „Rangi ũcio wa bururu nĩ mwega mũno hakuhĩ na ũrĩa wa rangi mũruru” |
+| Wĩra wa moko ũtarĩ na bata | Karita ya mũrata, kĩndũ gĩa kũgemia metha, kĩheo |
+| Mĩtaratara ĩtariĩ ta wĩra wa gũthoma | Kũnyiita ũgeni: „No ũndeithie harĩ ũndũ ũyũ?” |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Wĩcirie ũrĩa mũndũ ũcio mendete. Mũndũ wendetete gũtuma nguo no akene gũkorwo akĩhutia nguo. Mũndũ warutaga wĩra wa ũthondeki wa indo no ende kĩndũ gĩa gwaka kĩrĩ na tũcunjĩ tũnene kana gũthondeka indo cia wĩra. Mũndũ warĩ mwarimũ no akene gwĩka makarita.
 
-## Why focus on the process, not the product?
+## Nĩkĩ tũkĩrũmbũiya mũtaratara, no ti kĩndũ kĩrĩkĩtie?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Tondũ ihinda rĩrĩa mũrĩ hamwe nĩrĩo rĩa bata. Mũtongoria wa Alzheimer's Association wa [mawĩra ma gwĩkwo mũciĩ](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) ũugaga mũrũmbũiye mũtaratara, no ti macokio. Mbica ĩrĩ na „rangi wa bururu tu” no ĩrĩ mbica o na ningĩ. Kĩndũ gĩcokanĩrĩirio kĩrĩ na mbica ithatũ no nĩ kĩndũ gĩcokanĩrĩirio o na ningĩ.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Rĩngĩ, Association ĩonanagia atĩ mũcori wa mbica mũũgĩ no anyiitwo nĩ kĩeha nĩ ũndũ wa mogarũrũku marĩa marĩ wĩra-inĩ wake, no mũndũ ũtarĩ mũũgĩ mũno no akene kuona mweke ũngĩ wa kwĩonania. Angĩkorwo mũndũ ũcio aarĩ mũcori wa mbica mũũgĩ, geria kĩndũ kĩngĩ kĩa ũũgĩ gĩtigairie na kĩrĩa aamenyerete, nĩguo wonekane ta mũthako, no ti ta kũringithanio.
 
-## Arts and crafts ideas to try
+## Meciria ya mawĩra ma ũũgĩ na ma moko ma kũgeria
 
-Each idea includes how to make it simpler if it becomes hard.
+O wĩra ũrĩ na ũrĩa ũngĩhũthĩrwo mũhũthũ ũngĩoneka ũrĩ mũritũ.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Kũitĩrĩria rangi wa maaĩ.** Ĩkĩra karatathi kĩa rangi wa maaĩ gĩtungu maaĩ na ũreke mũndũ ũcio aitĩrĩrie rangi igũrũ rĩakĩo na burashi nene. Rangi ithiaganaga cio nyene, nĩ ũndũ ũcio gũtirĩ na macokio mathũku. *Mũhũthũ makĩria:* he rangi igĩrĩ tu, kana mũcake na maaĩ karatathi-inĩ kĩrĩa kĩrĩ na rangi mũtune nĩguo kwonekane harĩa hanyitĩte maaĩ.
+2. **Gũcokanĩrĩria mbica cia magazini.** Tinia mbica mbere kuuma magazini-inĩ cia ũrĩmi, kũruga, ngari, rũgendo kana mawĩra marĩa mũndũ ũcio eendete tene. Reke athuure na ahũkanie mbica icio karatathi-inĩ kĩumũ. *Mũhũthũ makĩria:* he mbica inya iria itiniĩtwo na kamũrangi ka kũhũkania, na mũhũkanie hamwe.
+3. **Kũbanga mahũa.** Alzheimer's Foundation of America ĩtaaragĩrĩria [kũbanga mahũa na mathangũ](https://alzfdn.org/dementia-activity-gardening/) nĩguo mũtũme ndĩra ĩkorwo ĩgemetie wega kũringana na ihinda. Hũthĩra ndĩra nditũ, ĩrũmĩte wega na mĩtĩ ĩrĩa ĩtinĩĩtwo mbere. *Mũhũthũ makĩria:* iga mĩtĩ mĩnini thĩinĩ wa gĩkombe kĩnini, ũmwe ũmwe.
+4. **Makarita ma mahũa mahinyĩrĩrie.** Hinyĩrĩria mahũa kuuma kĩrĩ kĩbũndi gatagatĩ ka mabuku kwa kiumia kĩmwe, ũcooke ũmahũkanie karita-inĩ. *Mũhũthũ makĩria:* wee nĩwe ũigaga kamũrangi ka kũhũkania, nake akahinyĩrĩria ihũa.
+5. **Mabuku ma gũcaka rangi ma andũ akũrũ.** Thuura mabuku marĩ na mĩhari ĩkuoneka wega na mĩtwe ya ma. Mabuku maitũ ma [gũcaka rangi](/games/coloring/) no macookio kana magacakwo rangi kĩgũrũ-inĩ (tablet) na kũhũũra rangi, ũgĩcooka ũkahũũra gĩcunjĩ kĩa mbica. *Mũhũthũ makĩria:* tũcunjĩ tũnene, rangi nini, na tũmũrangi tũnene.
+6. **Rĩũmba kana mũtu ũroroku.** Garagaria, hinyĩrĩria na ũũmbe rĩũmba rĩa kwoma na riera kana mũtu ũroroku wa kũũmba. Kũhinyĩrĩria ithangũ thĩinĩ wa rĩũmba nĩkũrehaga mũcoro mũhũthũ. *Mũhũthũ makĩria:* kũhihinya na kũgaragaria tu no wĩra mũiganu. Rora mũndũ ũcio ndakaige rĩũmba kanua.
+7. **Gwĩka makarita.** Alzheimer's Association ĩtaaragĩrĩria kũona ũndũ ũcio ta wĩra wa ma: „Nĩtũratũmĩra mũrata karita ya kũmwĩrĩra ahone. No ũndeithie?” Karatathi gatiniĩtwo na tũtembe tũnini twa mahũa kana twa marũa nĩ twega.
+8. **Kũiga mbica na maũndũ ma kũririkania.** Igai hamwe mbica cia tene iria ciacookirio, tũkarita twa mbica kana tũkaratathi twa mathĩĩna ibuku-inĩ. Aranĩriai ũhoro wa o kĩmwe mũgĩthiĩ na mbere. Rora mũtongoria witũ wa [kũririkana maũndũ ma tene](/activities/reminiscence/) nĩguo ũmenye njĩra njega cia kwaria ũhoro wa mahinda marĩa mathirĩte.
+9. **Mbao cia nguo na mĩhutio.** Hũkania tũcunjĩ twa corduroy, velvet, burlap na hariri igũrũ rĩa karatathi kĩumũ. Kũmathondeka nĩ wĩra ũcio, na kũmahutia thuutha-inĩ nĩ wĩra ũngĩ. Meciria mangĩ marĩ mũtongoria-inĩ witũ wa [mawĩra ma mĩĩrĩ](/activities/sensory/).
+10. **Kũrĩnga mbaũ mũhũthũ.** Harĩ mũndũ wendetete wĩra wa mbaũ, kũnora kĩboko kĩororo kĩa mbaũ kana gũcaka rangi gacũmbĩ ga nyoni no gũkorwo kũrĩ kũmenyereku. Eheria indo iria njũgĩ na ũrorage.
+11. **Gũcaka rangi na nyĩmbo.** Hũũra rwĩmbo rwendetwo na ũcake mĩcoro kana rangi iria ihinganĩte na ũrĩa mũiguĩte. Ũndũ ũyũ ũcookanagĩrĩria mawĩra meerĩ marĩa andũ aingĩ makoragwo makenete. Rora [mawĩra ma nyĩmbo](/activities/music/).
 
-## How do I set up an art session?
+## Ndingĩhaarĩria ihinda rĩa wĩra wa ũũgĩ atĩa?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Haarĩria mbere.** Tinia, tema na ũige indo ciothe mbere ya gwĩta mũndũ ũcio. Gweterera rĩrĩa ũracaria magathĩ no kũniine ihinda rĩu.
+2. **Iga maũndũ makorwo manini.** Rangi igĩrĩ kana ithatũ, burashi ĩmwe, karatathi kamwe. Mĩthuuro mĩingĩ no ĩritũhie mũndũ.
+3. **Gitĩra metha.** Gĩtambaya kĩa plastic kana gĩtambaya gĩkũrũ nĩgĩtũmaga ũndũ wa gĩko ndũgatuĩke wa gwĩtigĩra.
+4. **Ikarai mwena ũmwe.** Ĩka wĩra waku hakuhĩ na wake. Wonekaga ta mũrĩ hamwe, no ti ta ũrĩ mũrorere.
+5. **Mũteithie kwambĩrĩria.** Alzheimer's Association yugaga atĩ no nginya ũtandĩkie mwĩnyithio wa burashi hamwe na mũndũ ũcio. Maambĩrĩria, andũ aingĩ nĩmathiiaga na mbere.
+6. **Aranĩriai mũgĩĩka wĩra.** Aria ũhoro wa rangi na ũrĩa indo ciiguagwo, kana ũreke wĩra wa ũũgĩ ũtware ngʼano. Eherera ciũria ta cia kĩgerio ta „Gĩkĩ nĩ kĩĩ?”
+7. **He ihinda rĩiganu.** Wĩra ndũbataire kũrĩĩkio ihinda rĩmwe.
 
-## How do I adapt art as dementia changes?
+## Ndingĩgarũra wĩra wa ũũgĩ o ta ũrĩa dementia ĩkũraga?
 
-| Stage | What tends to work | What to adjust |
+| Mũthemba | Ũrĩa ũkoragwo ũkĩega | Ũrĩa wa kũgarũra |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Wa mbere | Mothamaki, mabuku ma gũcaka rangi marĩa marĩ na mũcoro mũingĩ, mabuku ma mbica, gwĩka makarita, gũcaka rangi kuumana na mbica | He mĩthuuro ya mawĩra; tũma ũkorwo wa gũikara na andũ |
+| Gatagatĩ | Mbica itiniĩtwo, kũitĩrĩria rangi wa maaĩ, kũbanga mahũa, gũcaka rangi tũcunjĩ-inĩ tũnene | Ĩkaga ĩtambaya rĩmwe rĩmwe; wee nĩwe ũtinagia na ũkahũkania |
+| Wa thuutha | Gũcaka na burashi nene, kũhihinya rĩũmba, kũhutia nguo, gũkwĩrorera ũgĩcaka rangi | Rũmbũiya mĩĩrĩ; tongoria guoko kahora angĩkorwo nĩetĩkĩrĩtie |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS ĩtaaragĩrĩria atĩ icunjĩ-inĩ cia thuutha, mawĩra kaingĩ matuuagwo mũhũthũ na makarũmbũiya mĩĩrĩ. Kwĩrorera mũndũ ũngĩ agĩcaka rangi na mwaranĩrie ũhoro wa rangi nĩ njĩra ya ma ya kũnyitanĩra. Nĩguo ũmenye meciria mangĩ ma o mũthemba, rora [mawĩra ma o mũthemba](/activities/ideas/).
 
-## Safety with art supplies
+## Ũgitĩri hĩndĩ ya kũhũthĩra indo cia ũũgĩ
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Thuura rangi, tũmũrangi na kamũrangi ka kũhũkania itarĩ na ũgwati.
+- Iga magathĩ, tũhiũ twa wĩra wa moko na indo cia kũhũkania na mwaki kũndũ gũtangĩkinyĩrĩka. Wee nĩwe ũtinagie mbere ya ihinda.
+- Rora mũndũ o wothe ndakaige rĩũmba, rangi kana tũndũ tũnini kanua.
+- Hũthĩra ndĩra nditũ, irũmĩte wega cia maaĩ na cia mahũa.
 
-## When should we stop?
+## Tũgĩrĩirwo nĩ gũtiga rĩ?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Tiga rĩrĩa wendi wa gwĩkĩrĩra ũkũnyiha kana haarĩ na maigua ma kũnogio. Alzheimer's Association ĩtaaragĩrĩria gũtiga kana kũgarũra wĩra rĩrĩa wendi wa gwĩkĩrĩra ũkũnyiha kana maigua ma kũnogio mongerereka. Iga wĩra ũcio handũ hega na ũheane ũndũ ũngĩ wa kũhoorera. No mũcooke harĩ guo rũciũ, kana mũtige biũ. Ciothe cierĩ nĩ njega.
 
-## Display the work, if the person wants
+## Onania wĩra ũcio, angĩkorwo mũndũ ũcio nĩekwenda
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Kũnyiita mbica rũthingo-inĩ kana kũmĩikia fremu-inĩ no gũtuĩke njĩra njega ya kuonania gĩtĩĩo. Ũria mbere. Andũ amwe nĩmakenaga kuona wĩra wao rũthingo-inĩ; angĩ matingĩenda kuona ũguo.
 
-## Pair art with our games
+## Cokanĩrĩria wĩra wa ũũgĩ na mathako maitũ
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Mĩthenya ĩrĩa kũhaarĩria rangi kũrĩ mũritũ mũno, [Coloring](/games/coloring/) wĩkaga wega kĩgũrũ-inĩ (tablet) na gũtirĩ na gĩko. [Picture Puzzle](/games/picture-puzzle/) ĩigaga mbica yothe ĩkuonekaga ta kĩonereria rĩrĩa mũkũgarũra tũcunjĩ. [Conversation Cards](/games/conversation-cards/) iheanaga ciũria iria itarĩ na macokio mamwe, iria ingĩtuma kuuma mbica-inĩ mũgakinya ngʼano-inĩ. Ciothe itirĩ na mathaa ma gũthira kana mũigana wa ciũria iria ciacokio wega. Ningĩ no mũcoke mabuku kuuma kĩbungo-inĩ gĩitũ kĩa [mawĩra marĩa mangĩcooka](/activities/printable/).

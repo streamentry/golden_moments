@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Dementia-la mɔgɔw ka dɔnkililɛ bosilen, tɛ wari"
+seoTitle: "Dementia dɔnkililɛ bosilen tɛ wari: Sɛbɛn ka ɲɛ"
+description: "Dementia-la mɔgɔw ka dɔnkililɛ bosilen tɛ wari: sɛbɛn gɛlɛya ka ɲɛ, kɛlɛ sɛbɛn, kumakan sɛbɛn ani kɛlɛ dɔnkili ka sɛbɛn bosi. Bosi kɛcogo ɲɛfɛ kɛnɛ kɛlɛ dɔ fɛ."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments bɛ dɔnkililɛ bosilen tɛ wari di: kɛlɛ sɛbɛn gɛlɛya ka ɲɛ,
+  kɔlɔsili kɛlɛ, kumakan sɛbɛnw ani dɔnkili bingo sɛbɛnw. Sɛbɛn ka kɛlɛ
+  kɔnɔ, i ka **Print** kɛlɛ sɛbɛn kɛ. Sɛbɛn gɛlɛya ka ɲɛ kɛ, sɛbɛn ka
+  ɲɛ, kɛlɛ kelen sɛbɛn kelen kɔnɔ, ani sɛbɛn min na i bɛ fɛ ka segin o ma,
+  o ka plastik kɔnɔ. Jamu ka sɛbɛn ka ɲɛ yɛrɛ ka sɛbɛnw, i ko ka jamu
+  ka kuma sɛbɛn walima don ka laɲini sɛbɛn, nɛɛmɔ bɛ dɛmɛ.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "An ka bosilen dɔnkililɛw tɛ wari: Kumakan Sɛbɛn, Kɔlɔsili, Kumakan Kaarti ani Sɛbɛn Bingo. Kɛlɛ sɛbɛn kelen kelen bɛ Print kɛlɛ kɛ."
+  - "Sɛbɛn gɛlɛya ka ɲɛ, ani ɲɛ ka ɲɛ kosɔn, kɛlɛ kelen sɛbɛn kelen kɔnɔ."
+  - "Kɛrɛnkɛrɛnnen sɛbɛn walima kaarti bɛ ɲɛ ka sɔrɔ, o tɛ pɛrɛ kɛ. Plastik kɔnɔ ka sɛbɛnw ka kɛ, i bɛ fɛ ka segin dubalen markɛrɛ ma."
+  - "Jamu ka sɛbɛn ka ɲɛ, i ko jamu ka kuma sɛbɛn, don ka laɲini ka sɛbɛn walima ka nɔ kɔnɔ ka sɛbɛn, o ka ɲɛ ani o ka ɲɛna."
+  - "Sɛbɛn bosilen bɛ kɛ kuma ye, a tɛ kalan ye. Sɛbɛn ka a dɔ kɛ walima a tɛ kɛ, o tɛ ko ye."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Ɲɛnɔgɔnin dementia dɔnkililɛw bosilen tɛ wari wa?"
+    a: "Ɔ ye. Kumakan Sɛbɛn, Kɔlɔsili, Kumakan Kaarti ani Sɛbɛn Bingo sɛbɛnw sitɛ in kɔnɔ tɛ wari, ani i bɛ se ka o bosi. Kɛlɛ sɛbɛn kɛ, ani Print kɛlɛ kɛ."
+  - q: "Dɔnkililɛ bosilen minnu ka ɲɛ dementia-la mɔgɔw ye jumɛn ye?"
+    a: "Dɔnkililɛ ɲɛnɔgɔnin ye ninnu ye: kɛlɛ sɛbɛn gɛlɛya ka ɲɛ, min bɛ kɛ kumakan ni sɛbɛn kɔnɔ ɲɔgɔn fɛ, kɔlɔsili min bɛ kɛ kɛrɛnkɛrɛnnen, kaarti min bɛ kuma daminɛ, ani sɛbɛn bingo jama ye. Dɔnkili kɛ mɔgɔ ka nisɔndiyɛ ni a ka sɛbɔ ɲɛ, ani sɛbɛn kelen kelen kɔnɔ ka kɛlɛ kelen kɛ."
+  - q: "Ne bɛ kɛ cogo di ka sɛbɛnw ka ɲɛ ani ka kɛ ɲɛfɛ?"
+    a: "Sɛbɛn gɛlɛya ka ɲɛ, ani sɛbɛn ka ɲɛ ni ɲɛ ka sɛbɛn cɛ ɲɛ kɔnɔ. Ɲɛnɔgɔnin ka sɛbɛn walima kaarti bɛ ɲɛ ka sɔrɔ, o kɛlen tɛ pɛrɛ. Sɛbɛn ka ɲɛfɛ kɛ ɲɛ ka nɔfɛ ni sɛbɛn kɔnɔ plastik ka sɛbɛn. Plastik kɔnɔ bɛ sɛbɛn wɛrɛ ɲɛfɛ."
+  - q: "Ne bɛ se ka an ka sɛbɛnw bosi ka don ka sɛbɛn ni jamu ka kɛlɛ ma?"
+    a: "Ɔ ye. Jamu ka baarakɛlaw bɛ se ka an ka sɛbɛnw bosi jamu ni mɔgɔw ye. Sɛbɛn bingo bɛ kɛ jamu ye, a bɛ kɛ kɔfɛ ka kuma kɛ min bɛ TV walima projector kɔnɔ ka jɔyɔrɔ."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Sɔrɔ dɔnkili ka ɲɛ kɛ sɛbɛn kelen ani kalan kelen ye dɔ ye, ka sɔrɔ tabali kɔnɔ min bɛ dugu kɔnɔ. Sɛbɛnw tɛ mɛn ka fɔ, tɛ kɛlɛ ka kode ni tɛ ekran ye, ani o bɛ se ka ta ka taa sigida walima jama ma kɔlɔsi. In sɛbɛn ye an ka sitɛ kɔnɔ tɛ wari dɔnkililɛw ye, ani i bɛ se ka o bosi ka o ɲɛ ani o ka ɲɛna ka ɲɛ. Ka sɔrɔ, sɛbɛn wɛrɛw min bɛ jamu ka mɔgɔw ni baarakɛlaw bɛ dɛmɛ, o fana bɛ yan.
 
-## What free printable activities do you offer?
+## Dɔnkililɛ bosilen tɛ wari minnu bɛ an bɛ di?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+An bɛ dɔnkililɛ naani di tɛ wari. I ka kɛlɛ sɛbɛnw kelen kɔnɔ, ka **Print** kɛlɛ kɛ, ka sɛbɛn bosilen ta.
 
-| Printable | What it is | Good for |
+| Sɛbɛn | A ye mun ye | A ka ɲɛ |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Kumakan Sɛbɛn](/games/word-search/) | Kumakan sɛbɛn gɛlɛya ka ɲɛ, kumakanw bɛ sɛbɛn kɔnɔ kɔrɔ ni fɛ kelen | Sɛbɛn ni kalan ka waati ɲɛnɔgɔnin; mɔgɔ min nisɔndiyɛ bɛ sɛbɛnw kɔnɔ |
+| [Kɔlɔsili](/games/coloring/) | Kɔlɔsili sɛbɛnw bosi walima ekran kan kɔlɔsi | Nisɔndiyɛ ni dakan waati; kɔnɔ ni dɛmɛ ye kɛ min ye |
+| [Kumakan Kaarti](/games/conversation-cards/) | Sɛbɛn kaarti min kɔnɔ bɛ kɛ suguya kɔnɔ kumakan ɲɛ ni kumakan daminɛ kuma ye | Ɲɛnamaya, wele, dumuni ka dɔ kɔnɔ, sɔgɔsɔgɔ ka dɔnkili |
+| [Sɛbɛn Bingo](/games/picture-bingo/) | Bingo kaarti min kɔnɔ bɛ kɛ sɛbɛnw ye sɔngɔ ɲɛ, ani kɔfɛ ka kuma kɛ ekran kan | Jamu ka so, don ka baarakɛlaw, mɔgɔw ka dɔnkili |
 
-### Large-print word search
+### Kumakan gɛlɛya ka ɲɛ kumakan sɛbɛn
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Kumakan Sɛbɛn](/games/word-search/) bɛ kɛ ni kɛrɛnkɛrɛnnen kumakan ye, ani a bɛ kumakanw kɔnɔ kɔrɔ ni fɛ kelen. Ka dɔnkili ni mɔgɔ kelen ye: mɔgɔ kelen bɛ kuma sɛbɛn kɔnɔ fɔ, mɔgɔ wɛrɛ bɛ o nɔ. Ni kumakan nɔ bɛ gɛlɛ, i ka kumakan daminɛ kɔnɔ kɔlɔsi ka ɲɛ, walima sɛbɛn kumakanw fɔ kumakan kan.
 
-### Coloring pages
+### Kɔlɔsili sɛbɛnw
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Kɔlɔsili](/games/coloring/) sɛbɛnw bɛ se ka bosi markɛrɛ walima kɔlɔsi krayɔn ye, walima i bɛ se ka o kɔlɔsi tablɛti kan ka kɔlɔ kelen tɔɔrɔ, ka sɛbɛn kelen fana tɔɔrɔ. Sɛbɛn bosilenw ye, kɔlɔ dɔw kɛ ni markɛrɛ gɛlɛn dɔw ye. Kɔlɔsili ka ɲɛnamaya ɲɛfɛ kɛnɛ, i ka [sɛbɛn kɛwale kɔnɔ kuma](/activities/arts-and-crafts/) ɲɛ.
 
-### Conversation cards
+### Kumakan kaarti
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Kumakan Kaarti](/games/conversation-cards/) bɛ sɛbɛn kɛrɛnkɛrɛnnen ni kuma daminɛ ɲɔgɔn fɛ, i ko "Ne fɔ ka ..." walima "I ye mun ye?". O bɛ kɛ kumakan daminɛ ye, tɛ kɛlɛ ka nɔfɛ ye. Kaarti sɛbɛn ka bosi, o kɛ ka seginni, ka kelen kɔnɔ ka sɛnɛ ka waati ɲɛ walima ka telefɔni ɲɛ. O bɛ ɲɛ fana [ɲɛnamaya ɲɛnɔgɔnin](/activities/reminiscence/) jama kɔnɔ.
 
-### Picture bingo cards
+### Sɛbɛn bingo kaarti
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Sɛbɛn Bingo](/games/picture-bingo/) kaarti bɛ sɛbɛnw kɛ nɔmɔrɔ ɲɛ. Kaarti kelen bosi mɔgɔ kelen ye, ka ekran kan wele laptop, TV walima projector kɔnɔ. An bɛ fɔ ka wele kɔfɛ ka se o ma ka mɔgɔ bɛɛ kaarti yɛrɛ ka fɛ, o kɔsɔn mɔgɔ si tɛ to ka kɔrɔ. Ka sɛbɛn kɛwale kɔnɔ ɲɛ, i ka [jamu ka jamu ka kɛwale](/activities/care-home-groups/) ɲɛ.
 
-## How do I print activities so they are easy to use?
+## Cogo di ka sɛbɛnw bosi ka o kɛ ɲɛfɛ?
 
-Small changes in how you print make a big difference.
+Bosi cogo dɔgɔ dɔw bɛ kɛɲɛ ka bon kɛ.
 
-### Make it easy to see
+### O ka ɲɛ ka ɲɛ
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Sɛbɛn gɛlɛya ka ɲɛ, kɛrɛnkɛrɛnnen.** Sɛbɛn ka bonya ɲɔgɔn bɛ se ka bɛn ka sɛbɛn kɔnɔ. Sɛbɛn gɛlɛn kɛlɛ ɲɔgɔn ma.
+- **Kɔrɔ ni kɛɲɛ.** Ɲɛ ni ɲɛ kɔrɔ sɛbɛn kan ni kɔnɔ kɔrɔ walima kɔnɔ sɛbɛn kan. Wɛrɛ gɛlɛn walima kɔlɔ kɛlɛ dɔw kɛɲɛ kɛlɛ ka kan.
+- **Matte sɛbɛn** bɛ kɛ ka kanu ɲɛ ka tɛmɛ fitinɛ ma.
+- **Ɲɛ ni ɲɛna ka ɲɛ.** Alzheimer's Association bɛ fɔ ko ɲɛ ni tulo ka dɔnkili bɛ kuma gɛlɛya. O kɔsɔn, a bɛ ɲɛnamaya ka ɲɛ ka ɲɛ ka ɲɛ kɛ. Kɔrɔ fitini ka kɛɲɛ bɛ dɛmɛ.
 
-### Make it easy to hold
+### O ka ɲɛ ka ɲɛ ka sɔrɔ
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Sɛbɛn ka ɲɛ walima kaarti ka ɲɛ** bɛ kɛ ka tɛ jɔ, ani bɛ se ka a kɛ ka ɲɛ.
+- **Kɔnɔ kumakan** walima kaɲɛyɛrɛ sɛbɛnw ka kanu bɛ dɛmɛ ka sɛbɛn tɛ taa.
+- **Markɛrɛ ka ɲɛ walima kalan ka krayɔn ka ɲɛ** bɛ kɛ ka sɔrɔ ka ɲɛ ka ka ɲɛ ka markɛrɛ tinɛ.
 
-### Make it reusable
+### O ka ɲɛ ka bɛn ka kɛ kɔfɛ
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Plastik ka sɛbɛn kɛ** walima sɛbɛnw don plastik kɔnɔ. Kumakan sɛbɛn ni sɛbɛn bingo kan, i bɛ se ka dubalen markɛrɛ bɛn, ka o ka dulu.
+- **Matte plastik sɛbɛn sugandi** ni kanu ɲɛ bɛ kɛ, ani **i ka sɛbɛn ka kɔrɔw segin** ni sikɛ, o kɔsɔn o bɛ se ka ɲɛ ka sɛbɛn ka ɲɛ.
+- **Ka ɲɛ ka kɔnɔ ka sɛbɛnw ka ɲɛ**, o kɔsɔn i ma sɛbɛn kelen ɲɛ ka kɛ wɛrɛ dɔ wɛrɛ kɛ kɔfɛ.
 
-### Keep it simple
+### O ka ɲɛ ka sɔrɔ kɛ kɛlɛ dɔ
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Kɛlɛ kelen sɛbɛn kelen kɔnɔ.** Kumakan sɛbɛn kelen walima kɛlɛ kelen, tɛ kɛlɛ bɛɛ ka kɔnɔ kɔrɔ.
+- **Ɲɛ ka dugu ka ɲɛ.** Sɛbɛn min bɛ kɛ ɲɛfɛ, o bɛ kɛ ɲɛ ka ɲɛ.
+- **Kuma ka sɛbɛn tɛ.** Ni se bɛ kɛ, mɔgɔ ka sɛbɛn kɔnɔ kɛlɛ ka kɛ mun cogo, o bɛ kuma ɲɛ.
+- **Sɛbɛn ka ɲɛ.** Ni sɛbɛn bɛɛ bɛ kɛ ka gɛlɛn, i ka a kɛ ka ɲɛ walima ka a kɔlɔ ka ɲɛ ka a yɛrɛ ka ɲɛ.
 
-## Other useful printables you can make at home
+## Sɛbɛn wɛrɛw min bɛ se ka kɛ ka sɛbɛn ka dugu kɔnɔ
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Sɛbɛn min bɛ dɛmɛ tɛ kɛlɛ ye tuma bɛɛ. O bɛ kɛ ka sɛbɛn sɛbɛn ni ɲɛ ka printer ɲɛ.
 
-### A life-story page
+### Mɔgɔ ka kuma sɛbɛn
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Sɛbɛn kelen min kɔnɔ bɛ kɛ ni foto, tɔgɔ min mɔgɔ bɛ wele ka kɛ ye, a ka dugu, a ka baara, a ka muso ni dan, a ka dumuni min bɛ fɛ, a ka dumuni ni kɔlɔsili, ani o min bɛ a ɲɛfɛ walima a ka fili. Dementia Australia bɛ fɔ ko [sɛbɛn sɛbɛn](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) min bɛ mɔgɔ ka kuma ni a ka fɛn fɛ, o bɛ dɛmɛ ka jamu ni baarakɛlaw ka kumakan ɲɛ.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+O bɛ dɛmɛ kosɛbɛ dɔgɔtɔrɔ ni jamu kura kɔnɔ. NIA bɛ fɔ ko i ka [mɔgɔ ka kuma sɛbɛn](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) di dɔgɔtɔrɔ baarakɛlaw ma, min kɔnɔ bɛ kɛ a ka kɛwale, a tɔgɔ min bɛ wele ka kɛ, a ka fɛn min bɛ fɛ ni min tɛ fɛ, o min bɛ kɛ kɛrɛnkɛrɛnnen ye, ani a ka dɔ min bɛ kɛ ni dɔ dɔn.
 
-### A daily schedule
+### Don ka laɲini sɛbɛn
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Kɛlɛ ka waati ɲɛ dɔ, ni waati ni kɛlɛ dɔw ye ka kɛ ka waati kɔnɔ: dibi, sɛnɛ, dumuni, sɔgɔsɔgɔ, dɔnkili, dɔgɔya, ani so. Sɛbɛn ka ɲɛ ka kɛ kɔrɔ, i ka a kɛ ka mɔgɔ ye ka nɔ kɔnɔ. Alzheimer's Association ka [dɔnkili kɛwale ka sɛbɛn](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) bɛ fɔ ko i ka waati ɲɛnɔgɔnin ka sɛbɛn kɛ, ka mɔgɔ ka sɔgɔsɔgɔ ni ka ɲɛ sɔrɔ. I ka a daminɛ kɔnɔ ka nɔ kɔnɔ kɔlɔsi. I ka [sɛbɛn ka dugu kɔnɔ](/activities/daily-routine/) ɲɛ.
 
-### Picture labels for rooms and drawers
+### Dugu ni ka ɲɛna kɔnɔ kɛlɛ
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA bɛ fɔ ko i ka sɛbɛn kɛrɛnkɛrɛnnen ni kɔlɔsili kɛ [dɔgɔ, dugu kɔnɔ ni kɔnɔ kɔlɔsi](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). O kɛlɛ kɔnɔ fana bɛ se ka kɛ ka nɔ kɔnɔ ni dɔgɔ kɔnɔ: sɛbɛn kelen ni sɔgɔ sɛbɛn kan ka sɔgɔ nɔ kɔnɔ, ni dɔgɔ dɔ kan ka dugu ka nɔ kɔnɔ. Bosi, plastik ka kɛ, ka o sɔrɔ ka kɛ ka kɔnɔ.
 
-### A sorting set
+### Sɛbɛn kelen min bɛ ɲɔgɔn ka kɛ
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Sɛbɛn kelen kɔnɔ kɛ ka suguya naani: i ko ɲɛnamaya ni ɲɛnamaya, walima baara ni kɛwale. Bosi sɛbɛn kan dɛgɛ ka sɛbɛn kɔnɔ. Kɛlɛ kelen ye ka sɛbɛn kɛ ka sɛbɛn kelen kɔnɔ ni mɔgɔ ɲɔgɔn fɛ. An ka sɛbɛn kɛlɛ ka onlayni ye [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Dɔnkili ka dɔ ka kuma sɛbɛn
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Bosi dɔnkili dɔ ka kuma gɛlɛn kɔnɔ kɔrɔ ni sɛbɛn gɛlɛn kɔnɔ, ka dɔnkili ka dɔ kɛ. Mɔgɔ min tɛ sɛbɛn kalan kosɛbɛ, o fana bɛ se ka dɔnkili ka sɛbɛn ka.
 
-### A family photo page
+### Foto sɛbɛn ka jamu
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Foto naani ni duuru walima kelen ni kɔnɔ min bɛ kɛ ni tɔgɔ kelen kɔnɔ. A bɛ se ka sitɛ kan ka mɔgɔ bɛɛ ka dɔnkili. Tɔgɔw bɛ dɛmɛ ka baarakɛlaw ni jamu ka kumakan kɔnɔ, ani mɔgɔ tɛ ka "O jɔ ye jɔ?" fɔ.
 
-### A recipe card
+### Furusiri sɛbɛn
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Bosi furusiri kɛlɛ kɔnɔ kɔlɔsi kɛ ka sɛbɛn kɔnɔ. A bɛ kɛ ni kɛ dɔ kɛ, ka kumakan kɛ ka ɲɛna.
 
-## How do I offer a printable without it feeling like homework?
+## Cogo di ka sɛbɛn ka dɔnkili, o kɛ kalan ye ko?
 
-Present it as something to share, not a test.
+A bɛ kɛ ka sɛbɛn kɛ ka ɲɛna ye, tɛ ka kɛlɛ ye.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **I sigi ka sɛbɛn kɛ i yɛrɛ.** "Ne bɛ kumakan kumakan ɲɛ nin ye. I bɛ se ka n dɛmɛ ka 'tulonkɔnɔ' ɲɛ?"
+- **Ka kɛlɛ ni ɲɔgɔn ye.** Ka kɛlɛ ni ɲɔgɔn ye, walima mɔgɔ kelen ɲɛ, mɔgɔ wɛrɛ ka kɔlɔsi.
+- **Ka sɛbɛn kɛ ka ɲɛ walima ka ɲɛ ko.** Alzheimer's Association ka [dɔnkili kɛwale kɔnɔ kuma](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) bɛ fɔ ko i ka kɛlɛ ka cogo ɲɛ, ka kɛlɛ ka nisɔndiyɛ ɲɛ, ka a kɛ ka ɲɛ.
+- **Sɛbɛnw ka dɔ bɔ.** Sɔgɔsɔgɔ kɔnɔ kuma, ka kɛlɛ ka kɔnɔ ka kɛ ka dɔnkili ka kumakan, sɛbɛn ni kumakan sɛbɛnw bɛ se ka sitɛ kan kɔrɔ. Kumakan kaarti ni foto sɛbɛnw bɛ se ka kɛ ka tabali kɔnɔ.
+- **Ka ɲɛna ka dɔ ka kɛ ni i ka ɲɛna.** Sɛbɛn ka kalo kɔnɔ kɛlɛ, a ka kɛ dɔnkili ɲɛ. A bɛ se ka sɛbɛn ka ɲɛ ka ɲɛnamaya ka tii ka dɔ min.
 
-## Where to find more
+## Dɔnkili dɔ ɲɛnɔgɔnin
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Sɛbɛn bɛɛ, [kɛlɛ ni sɛbɛnw](/games/) ka ɲɛ, walima [waati bɛɛ ka dɔnkili ɲɛnɔgɔnin](/activities/ideas/) ka ɲɛ, i bɛ se ka ɲɛ ka ɲɛnɔgɔnin ka bɔ.

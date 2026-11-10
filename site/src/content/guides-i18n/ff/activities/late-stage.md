@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Golle ɗe njaadata e majjere hakkil sakkitiinde, hay so omo e dannde walla jullere"
+seoTitle: "Golle majjere hakkil sakkitiinde: miijooji dannde e jullere"
+description: "Golle newiiɗe wonande yimɓe wonduɓe e majjere hakkil sakkitiinde, hay so omo e dannde walla jullere: jimɗi, memugol, janngugol sawto, daaɗe e wonndude, e humpitooji kisal."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  E majjere hakkil sakkitiinde, golle tuugii ko e meeɗnooji ɓanndu e wondude e
+  maa: fiyde jimɗi ɓurɗi mo yiɗde, jokkondirde juuɗe, memugol juuɗo seeɗa,
+  janngugol sawto, ndaarde nate, daaɗe tago e jooɗaade sara dammugal walla
+  yaasin. Ɗee miijooji ina njaada e dannde walla jullere. Woppu sahaaɗe ɗee
+  no daɓɓira, ƴeew yeeso, juuɗe e foofaango ngam anndude so omo weltii, tee
+  ciftor wonde wonndude tan ko golle kadi.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Jokkondiral ina waawi heddude. E daawal sakkitiingal, aduna o waɗi ko meeɗaa ko e meeɗnooji ɓanndu."
+  - "Jimɗi, memugol newiingol, daaɗe anndaaɗe e huunde mettuɗnde jokkaande ina keewi yettaade yimɓe tuma nde konngol ɗe nattii woodde."
+  - "Ina wonaa ɗum fof, kala miijo gonɗo ɗoo ina waawi huutoreede wonande mo woni e dannde walla jullere."
+  - "Ƴeew weltaare e mettinde e yeeso, juuɗe e foofaango, tee dartin so a yiyii maande mettinde."
+  - "Reen huunde pamare tokose, tee hokku nyaamdu walla ndiyam tan so goomu toppitiingu ndungu yamiri, sabu moɗugol ina waawi wontude hulnaango."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Hol golle mbaaw-ɗaa waɗde e neɗɗo wondudo e majjere hakkil sakkitiinde mo woni e dannde?"
+    a: "Fiy jimɗi ɓurɗi mo yiɗde, jokkondir juuɗo makko, memmu juuɗo makko seeɗa seeɗa e nebbannde, jannu sawto deftere walla du'a mo yiɗi, hollu nate, walla fiy daaɗe tago newiiɗe. Uddit dammuɗe ngam o waawa yiyde yaasin. Sahaaɗe daɓɓuɗe, deeƴuɗe, e huunde wootere e sahaa gooto ina keewi moƴƴude."
+  - q: "Yimɓe wonduɓe e majjere hakkil sakkitiinde ina mbaawi tawo weltaade e jimɗi?"
+    a: "Heewɓe ina mbaawi. Alzheimer's Association hollitii wonde hay e daawal sakkitiingal, neɗɗo ina waawi tappude doole walla yimde e jimol ummoriingol e sukaaku makko. Suɓo jimɗi ɗi o yiɗnoo nde o sukaa, tee woppu sawto oo no lesɗira."
+  - q: "Hol no anndir-mi so omo weltii e golle ɗee?"
+    a: "Ƴeew maande pamare: balɗe hoyɓe, yeeso mettuɗo seeɗa, ndaarde gite, huɗaango, dognugol juuɗo walla foofaango deeƴoowo. Fignugol yeeso, riiwtugol, waasde deeƴde walla wullitaango ina mbaawi firtude mettinde walla muusu. So a yiyii ɗum, dartin tee humpito goomu toppitiingu ndungu so ɗum ina jokki."
+  - q: "Yahde yillaade mo ina nafa so omo nattii anndude kam?"
+    a: "Eey. National Institute on Aging hollitii wonde wonndude tan ina waawi deeƴinde, tee memugol, jimɗi e daartol ina mbaawi tawo addude hoolaare e majjere hakkil yahrunde yeeso. Sawto maa e memugol maa ina mbaawi anndeede hay so innde maa anndaaka."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+E daawal sakkitiingal majjere hakkil, neɗɗo ina waawi haalde seeɗa sanne, soklude ballal e kala toppitagol ñalnde kala, tee o waɗa ko heewi e nder ñalnde e dannde walla jullere. Ina waawi sikkeede wonde alaa ko heddii waɗdeede e wondude. Ko heddii ina woodi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) hollitii wonde yoga e wonde neɗɗo oo ina waawi heddude, tee e ndee daawal aduna o meeɗiraa ko e meeɗnooji ɓanndu. Jimɗi, memugol, sawto anndaaɗo e deeƴre maa ina mbaawi tawo addude hoolaare e sahaaji jokkondiral.
 
-## What activities help in late-stage dementia?
+## Hol golle ballooje e majjere hakkil sakkitiinde?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Golle meeɗnooji ɓanndu newiiɗe e wondude deeƴngol ina balla ko ɓuri e daawal sakkitiingal. Alzheimer's Association wasiyii fiyde jimɗi ɓurɗi mo yiɗde, janngude yoga e defte jogiiɗe maanaa, memminde nebbannde jogiinde uurngol mo yiɗi e ɓandu, e jooɗaade yaasin e wondude so weeyo ina moƴƴi. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ɓeyditii daartude daartol, hollude nate, memugol newiingol walla memmugol, e jimɗi, sawto funnaango walla daaɗe tago, tee wiyi wonde wonndude maa tan ina waawi deeƴinde.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) hollitii wonde yimɓe wonɓe e daawal sakkitiingal ina keewi soklude jokkude huunde ɓallaade ngam hoolaare, tee wasiyii golle meeɗnooji ɓanndu newiiɗe, dimmbugol ɓandu newiingol, dillugol dolokke, jimɗi, yillaade kulle ladde, memugol neɗɗo e ñeeñal feewtungal.
 
-## Activities for someone in bed or a chair
+## Golle wonande mo woni e dannde walla jullere
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Fiy jimɗi makko.** Suɓo jimɗi ummiiɗi e sahaa sukaaku makko, diine makko walla ɓesngu makko. Woppu sawto oo no lesɗira tee jooɗo ɓadii mo. Hay jooni, yoga e yimɓe ina tappu hoore hoɗɗo walla ina huɗa. Yiy [golle jimɗi](/activities/music/).
+2. **Jokkondir juuɗe.** Jokkondirde juuɗo tan, e memmugol hoore hoɗɗo newiingol, ko golle. Haal ko ngolɗaa waɗde hade maa memde.
+3. **Memmu juuɗo makko seeɗa seeɗa.** Ngulɗin nebbannde seeɗa e juuɗe maa tee memmu iwde e jolngo haa e hoore hoɗɗe. Suɓo nebbannde nde alaa uurngol, walla uurngol mo o yiɗnoo sahaa kala so ɓandu makko ina jaɓa.
+4. **Jannu sawto.** Yimre mo yiɗi, taƴre deftere mo yiɗnoo, aaya walla hello fijirde. Doole sawto maa ina ɓuri konngi maa maanaa.
+5. **Daartu daartol.** Haal fii njillu ɓesngu walla ñalnde mo o resi. A soklaani jaabawuuji.
+6. **Hollu nate.** Jokkondir natal mawngal gootal e sahaa gooto to tolno gite makko tee cifaa ɗum e newaare. Reen naamnaade mo woni e mayre.
+7. **Hokku huunde mettuɗnde jokkaande.** Dolokke loote foldaaɗo, taƴre leppi mettuɗo walla kulle ladde mettuɗe. NIA wasiyii hokkude neɗɗo oo dolokke loote ngam o jokka tuma nde o dillinaa, mbele o waasaa jogude maa walla kaɓirɗe.
+8. **Fiy daaɗe tago.** Sawto ndiyam toɓo, bempe walla colli konu e sawto lesɗo ina mbaawi newnande suudu ndu duumii.
+9. **Adda yaasin nder.** Uddit dammuɗe, waɗ collu konu sara dammugal, walla addu piindi kesi walla ɗeeri ngam ndaarde e memde.
+10. **Yah yaasin.** So neɗɗo oo ina waawi jooɗaade e jullere pusɗo, hojomaaji seeɗa e dow dowdi e ñalnde mettuɗe ina mbaawi welde.
+11. **Ñiiɓu gite makko walla hokku dolokke ngulɗuɗo.** Ñiiɓugol newiingol seeɗa seeɗa e dolokke ngulɗuɗo wonande juuɗe e yeeso ina mbaawi sikkeede toppitaare.
+12. **Dillo seeɗa e jimɗi.** Weynu dolokke mettuɗo e wondude, walla dimmbu juuɗe e yahdaani e jimol. Wonande dimmbugol ɓandu e dillugol jokke, naamno carwo ɓandu walla nars laawol kisngol gadanol.
+13. **Waɗ ñeeñal feewtungal.** Wertu pentir ngal alaa tooke e kaayita mawka e leƴƴol walla juuɗo, e ballal maa. Alaa njaltudi moƴƴiri.
+14. **Jaɓɓo yillaade kulle ladde.** Kulle ladde deeƴuɗe e dannde walla e cewɗe, so neɗɗo oo yiɗnoo kulle ladde tee nokku oo ina jaɓa ɗum.
+15. **Foofondir seeɗa seeɗa e wondude.** Jooɗo ɓadii mo tee foof seeɗa seeɗa e sawto. [Foofaango deeƴoowo](/games/calm-breathing/) ina waawi yahdinde on ɗiɗo fof, tee aan tan fuɗɗotoo dartiniraa ɗum.
+16. **Wonndu tan.** Jooɗo ɓadii, huɗa, ñoot walla jannu deeƴaa. Wonndude tan ina yonii.
 
-## How to share an activity at this stage
+## Hol no renndindir-ɗon golle e ndee daawal
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Ɓado mo yeeso.** Noddu innde makko e innde maa, tee haal seeɗa seeɗa e newaare hade maa memde mo.
+- **Hokku huunde wootere e sahaa gooto.** Ñif tele oo hade maa fiyde jimɗi. Waɗ meeɗnoowo ɓandu gooto e sahaa gooto.
+- **Woppu ɗum no daɓɓira.** Hojomaaji seeɗa ina mbaawi yonude. Sahaaji daɓɓuɗi seeɗa e nder ñalnde ina ɓuri sahaa gooto juutɗo.
+- **Waɗ mo ina weltorii gadanol.** Ƴeewto so neɗɗo oo ina wallitaa no moƴƴi. NIA wasiyii alluwal koppi ngam wallinde juuɗe e ɓandu dow so omo jooɗii.
+- **Ƴeew jaabawol ngol.** Juuɗe hoyɗe, yeeso mettuɗo seeɗa, ndaarde gite walla huɗaango ina kollita weltaare. NIA hollitii wonde wullitaango, fignugol yeeso, reende taƴre ɓandu walla jiiɓru lawru ina mbaawi wonde maande muusu. Dartin, tee humpito goomu toppitiingu ndungu.
 
-## A quick guide by sense
+## Humpito yaawngo e meeɗnoowo ɓandu
 
-| Sense | Ideas | Take care |
+| Meeɗnoowo ɓandu | Miijooji | Reento |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Nanugol | Jimɗi mo yiɗi, sawto maa e janngugol, daaɗe tago | Woppu sawto oo no lesɗira; sawto gooto e sahaa gooto |
+| Memugol | Memmugol juuɗo, jokkondirde juuɗe, leppi mettuɗo, dolokke ngulɗuɗo | Naamno walla humpito gadanol; ƴeewto so ɓandu ndun muusaaki walla feccaaki |
+| Yiyde | Nate, piindi, ndaarde iwnde e dammugal, widewoo tago jaajngo | Jokkondir piiji to tolno gite; annoore moƴƴere, nde alaa jalbeendi |
+| Uurnugol | Nebbannde mo yiɗi, piindi kesi, kaafe defotooɗo ɓadii | Reen urngol tiiɗngol; ƴeewto alerji e foofaango |
+| Meeɗnugol | Meeɗnoowo pamaro ummoriingo e neema mo yiɗi | Nyaamduuji e mbaydiiji tan ɗi goomu toppitiingu ndungu wiyi ina kisɗi |
 
-## Safety at this stage
+## Kisal e ndee daawal
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Moɗugol ina waawi saɗtude e daawal sakkitiingal, tee NIA reentin no ɗum ɓeydata kulol daɗɗugol. Woppataa huunde pamare tokose ɓadii mo, tee hokku nyaamdu walla ndiyam tan e mbaydiiji e jooɗagol ɗi goomu toppitiingu ndungu yamiri. Ƴeewto ɓandu ndun e newaare tuma nde ngollataa e memugol, sabu ɓandu ina waawi feccude walla ɓoɗɗude no yaawi. Ngam ɓeydaade humpito e miijooji meeɗnooji ɓanndu kisɗi, yiy [golle meeɗnooji ɓanndu](/activities/sensory/).
 
-## Looking after yourself too
+## Toppito hoore maa kadi
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Toppitaare e daawal sakkitiingal ina tiiɗi e ɓandu e hakkille, woni ka suudu walla e yillaade e suudu toppitaare. Goomuuji toppitaare hospice e palliative ina mbaawi wallude e hoolaare, wallitorde e eɓɓaade, tee NIA limtii ɗi e iwɗi ballal. Njillu daɓɓuɗo, deeƴngo ina nafa; yiy [yillaade neɗɗo wondudo e majjere hakkil](/activities/visiting/). So aɗa ardii goomuuji, [golle goomu e suudu toppitaare](/activities/care-home-groups/) ina jogii miijooji ngam feewnude jonɗe. Tee tiiɗno jannu [toppitaare hoore wonande toppitotooɗo](/caregiving/caregiver-self-care/): fowtaare ko taƴre toppitaare moƴƴere.

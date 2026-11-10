@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "გარე და მებაღეობის აქტივობები დემენციის დროს"
+seoTitle: "მებაღეობა და გარე აქტივობები დემენციის დროს"
+description: "მებაღეობისა და გარე აქტივობების იდეები დემენციით მცხოვრები ადამიანებისთვის, ამაღლებული грядებით, ქოთნებითა და უსაფრთხოების რჩევებით."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  მებაღეობა და გარეთ გატარებული დრო შეიძლება იყოს მშვიდი და ჩვეული აქტივობა
+  დემენციით მცხოვრები ადამიანისთვის. სცადეთ მორწყვა, მწვანილის ქოთნებში დარგვა,
+  გამოყვავილი ყვავილების მოცილება ან მოკლე გასეირნება შემოღობილ ეზოში.
+  გამოიყენეთ ამაღლებული грядები ან მაგიდა, რომ აღარავინ დაჩოქოს, მოერიდეთ ბასრ
+  ხელსაწყოებსა და შხამიან მცენარეებს, გარეთ გახვიდით დღის გრილ დროს და ყოველთვის
+  დარჩით იმ ადამიანის გვერდით, რომელზეც ზრუნავთ.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "მარტივი სამუშაოები ბაღში, როგორიცაა მორწყვა, თესლის დარგვა, მწვანილის ყნოსვა და ყვავილების მოკრეფა, შეიძლება გაკეთდეს ფეხზე დგომით ან ჯდომით."
+  - "ამაღლებული грядები, ქოთნები და გადახურული მაგიდა ბაღს წელის სიმაღლეზე აწყობს და ამცირებს დაცემის რისკს."
+  - "მოერიდეთ ბასრ ხელსაწყოებს, ეკლიან ან გამაღიზიანებელ მცენარეებს და ყველაფერს, რაც შხამიანია. ყურადღება მიაქციეთ, რომ მიწა საკვებად არ ჩაითვალოს."
+  - "სიცხე ხანდაზმული ადამიანებისთვის შეიძლება სახიფათო იყოს. გარეთ გახვიდით დილით ადრე ან გვიან, თან იქონიეთ წყალი და ჩრდილი და სახლში შედით დისკომფორტის პირველივე ნიშნებზე."
+  - "დემენციით მცხოვრები ბევრი ადამიანი vida-ს რაღაც ეტაპზე სახლიდან შორს მიდის. გარეთ ყოფნისას ყოველთვის დარჩით ადამიანის გვერდით და თან იქონიეთ მისი ახლანდელი ფოტო და პირადობის საბუთი."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "რა მებაღეობის აქტივობების შესრულება შეუძლია დემენციით მცხოვრებ ადამიანს?"
+    a: "მცენარეების მორწყვა, პატარა ქოთნებში თესლის დარგვა, მწვანილის ყნოსვა და შეხება, გამოყვავილი ყვავილების მოცილება, ბოსტნეულის მოკრეფა, მოჭრილი ყვავილების დახარისხება და ბილიკის დაგვა — ეს ყველაფერი კარგი არჩევანია. სახლში ფანჯრის რაფაზე მწვანილის ქოთანი ან გადახურულ მაგიდაზე მიწით სავსე ლანგარიც გამოდგება. სამუშაო აირჩიეთ იმაზე დაყრდნობით, რაც ადამიანს ადრე სიამოვნებდა და ახლა რას შეძლებს სიმარტივით."
+  - q: "როგორ დავიცვა დემენციით მცხოვრები ადამიანი სიცხის დროს?"
+    a: "გარე დრო დაგეგმეთ გრილ დილას ან საღამოს, ხანმოკლედ გაატარეთ და ხშირად შესთავაზეთ წყალი. აირჩიეთ ჩრდილი, ფართო ფარიანი ქუდი, მსუბუქი და თავისუფალი ტანსაცმელი და მზისგან დამცავი კრემი. ხანდაზმული ადამიანები სიცხით გამოწვეული ავადმყოფობის უფრო მაღალ რისკში არიან, ხოლო დაბნეულობა, თავბრუსხვევა ან გულისრევა შეიძლება იყოს გამაფრთხილებელი ნიშნები. თუ ამას შეამჩნევთ, მაშინვე შედით სახლში და გაგრილდით."
+  - q: "როგორ გავიდეთ გარეთ, თუ ადამიანს აქვს სახლიდან გასვლის ჩვევა?"
+    a: "მთელი დრო დარჩით ადამიანის გვერდით, გამოიყენეთ შემოღობილი ეზო ან ბაღი ჩამკეტიანი კარიბჭით და დარწმუნდით, რომ ადამიანს აცვია საიდენტიფიკაციო სამაჯური ან თან აქვს პირადობის საბუთი. თან იქონიეთ მისი ახლანდელი ფოტო. თუ ადამიანი დაკარგულად ჩაითვლება, Alzheimer’s Association გვირჩევს, დარეკოთ 112-ზე, თუ 15 წუთში ვერ იპოვეთ."
+  - q: "რა ვქნათ, თუ ბაღი არ გვაქვს?"
+    a: "საკმარისია რამდენიმე ქოთანი აივანზე, ფანჯრის ყუთი ან მწვანილის ლანგარი სამზარეულოს მაგიდაზე. ასევე შეგიძლიათ ეწვიოთ პარკს, საჯარო ბაღს ან საზოგადოებრივ ბაღს. გარეთ ჯდომა და ჩიტების მოსმენაც გარე აქტივობად ითვლება."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+ბევრი ადამიანისთვის ბაღი ერთ-ერთი ყველაზე ნაცნობი ადგილია. მიწის დამუშავება, მორწყვა და ყვავილების მოკრეფა დიდი ხნის წინ შესწავლილ უნარებს იყენებს, ხოლო გარეთ ყოფნა სუფთა ჰაერს, მზის სინათლესა და ჩიტების გალობას მოაქვს. National Institute on Aging ჩამოთვლის მცენარეებზე ზრუნვას, ყვავილებისა და ბოსტნეულის დარგვას და [მცენარეების ზრდაზე საუბარს](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) იმ აქტივობებს შორის, რომლებიც ალცჰაიმერის მქონე ადამიანებს შეიძლება სიამოვნებდეთ. ეს გვერდი მოგითხრობთ, რა შეიძლება სცადოთ, როგორ გახადოთ ბაღი უფრო მოსახერხებელი და როგორ იყოთ უსაფრთხოდ სიცხის, მზისა და სახლიდან გასვლის ჩვევის დროს.
 
-## What outdoor and gardening activities work well?
+## რა გარე და მებაღეობის აქტივობები მუშაობს კარგად?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+საუკეთესო სამუშაოები მარტივი და ნაცნობია და მათი შესრულება შესაძლებელია ფეხზე დგომით ან ჯდომით. აირჩიეთ იმის მიხედვით, რისი კეთება სიამოვნებდა ადამიანს ადრე.
 
-### In the garden
+### ბაღში
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **მორწყვა.** პატარა, მსუბუქი სარწყავი ან რბილი თავაკით აღჭურვილი შლანგი და რამდენიმე ხელმისაწვდომი ქოთანი. მორწყვას აქვს ნათელი დასაწყისი და დასასრული და რთულია მისი არასწორად გაკეთება.
+2. **თესლის დარგვა ქოთნებში.** Alzheimer’s Foundation of America გირჩევთ, დარგოთ თესლი პატარა ქოთნებში და [უყუროთ მის ზრდას](https://alzfdn.org/dementia-activity-gardening/). დიდი თესლები, როგორიცაა ლობიო, მზესუმზირა ან ბარდა, უფრო ადვილად დასაჭერია.
+3. **გამოყვავილი ყვავილების მოცილება.** გახმობილი ყვავილების ხელით მოცილება ნაზი და განმეორებადი სამუშაოა. აირჩიეთ ეკლის გარეშე მცენარეები.
+4. **ბოსტნეულის ან მწვანილის მოკრეფა.** პატარა პომიდორი, ლობიო და მწვანილი ადვილად აიკრეფა და სასიამოვნოა გასინჯვა. სახლში შეიტანეთ და სადილში გამოიყენეთ.
+5. **მწვანილის ყნოსვა და შეხება.** როზმარინს, პიტნასა და ლავანდას ძლიერი და სასიამოვნო სურნელი აქვს. გაუსვით თითები ფოთოლს და მიიტანეთ ადამიანის ახლოს.
+6. **ბილიკის ან ეზოს დაგვა.** მსუბუქი ცოცხი ბრტყელ, მშრალ ზედაპირზე, თუ წონასწორობა სტაბილურია.
+7. **ჩიტების საკვების შესავსებად ყუთის შევსება.** შემდეგ ერთად დაჯექით და უყურეთ, ვინ მოვა.
 
-### Indoors, when going out is not possible
+### სახლში, როცა გარეთ გასვლა შეუძლებელია
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **ფანჯრის რაფაზე მწვანილის ბაღი** რეჰანით, ოხრახუშით ან ნივრით.
+- **ქოთნებში დარგვა გადახურულ მაგიდაზე.** AFA გირჩევთ, გამოიყენოთ ლანგრები, რომ მიწა ერთ ადგილზე დარჩეს, და მიწა პატარა ჭიქებით გადააადგილოთ.
+- **ყვავილების დახარისხება** მოჭრილი ყვავილებითა და მწვანილით ეზოდან ან მაღაზიიდან.
+- **დაჭერილი ყვავილების გამშრალება** თაიგულიდან, რომლებიც მოგვიანებით ბარათებზე შეიძლება მიეკრას. მეტი იდეისთვის იხილეთ [ხელნაკეთი საქმიანობა](/activities/arts-and-crafts/).
+- **ლავანდის ან ვარდის ტომრების დამზადება** — კიდევ ერთი იდეა AFA-სგან, რომელიც ბაღის სურნელს სახლში ინახავს.
 
-### Getting out and about
+### გარეთ გასვლა
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **მოკლე გასეირნება** კვარტალში, პარკში ან ბაღის ცენტრში, ნელი ტემპით და დასაჯდომი ადგილით.
+- **გარეთ ჯდომა** აივანზე ან სკამზე, ჩიტების მოსასმენად და ნიავის შესაგრძნობად. ეს თავისთავად სრული აქტივობაა.
+- **საჯარო ბაღში ვიზიტი** დღის მშვიდ დროს. NHS აღნიშნავს, რომ ზოგიერთ ადგილას არის სენსორული ბაღები სურნელოვანი მცენარეებით, სხვადასხვა ტექსტურითა და წყლის ელემენტებით.
+- **იხვების გამოკვება ან ჩიტებზე დაკვირვება** ადგილობრივ ტბორთან, წყლის ნაპირიდან უსაფრთხო დაშორებით.
 
-## How do I make a garden easier to use?
+## როგორ გავხადო ბაღი უფრო მოსახერხებელი?
 
-Bring the garden up to the person, not the other way around.
+ბაღი მიიტანეთ ადამიანთან და არა პირიქით.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **ამაღლებული грядები ან მაღალი ქოთნები** დაახლოებით წელის სიმაღლეზე ნიშნავს, რომ დაჩოქვა ან დახრა აღარ არის საჭირო.
+- **ქოთნები მაგიდაზე** გამოდგება იმ ადამიანებისთვის, ვინც ეტლს იყენებს ან ჯდომას ამჯობინებს.
+- **ფართო და ბრტყელი ბილიკები** მიმოფანტული ქვების ან გზად გადადებული შლანგების გარეშე ამცირებს წაბორძიკების რისკს.
+- **დასაჯდომი ადგილები სახელურებითა და ჩრდილით** გზის გასწვრივ, რომ დასვენება ყოველთვის შესაძლებელი იყოს.
+- **ხელსაწყოები სქელი, რბილი სახელურებით**, რომელთა დაჭერაც ადვილია. გვერდით გადადეთ სასხლავი მაკრატელი, დანები და ყველაფერი ბასრი.
+- **შემოღობილი სივრცე ჩამკეტიანი კარიბჭით**, სადაც ადამიანი თავისუფლად შეძლებს მოძრაობას, სანამ თქვენ ახლოს იქნებით.
 
-## Which plants should I avoid?
+## რომელი მცენარეებისგან ჯობს თავის არიდება?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+აირჩიეთ მცენარეები, რომელთა შეხებაც უსაფრთხოა და, თუ შესაძლებელია, გასინჯვაც. AFA გვირჩევს, გამოვიყენოთ ისეთი მცენარეები, რომლებიც კანს ჩვეულებრივ არ აღიზიანებენ, გავითვალისწინოთ ალერგიები და ყურადღებით ვადევნოთ თვალყური ყველას, ვინც მიწას საკვებად შეიძლება მიიღოს. NIA-ის სახლის უსაფრთხოების რჩევები მოიცავს შხამიანი მცენარეების მოშორებას ან ჩაკეტვას.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- მოერიდეთ ეკლიან ვარდებს, კაქტუსებს და მცენარეებს, რომელთა წვენი კანს აღიზიანებს.
+- თუ რომელიმე მცენარის უსაფრთხოებაში დარწმუნებული არ ხართ, დარგვამდე შეამოწმეთ შხამების კონტროლის ცენტრში ან ადგილობრივ ბაღის ცენტრში.
+- ნაცნობმა საყვარელმა მცენარეებმა შეიძლება სასიამოვნო გრძნობები გააღვივოს. AFA ახსენებს ვარდებსა და შობის კაქტუსს როგორც მაგალითებს. აირჩიეთ ეკლის გარეშე სახეობები.
+- სასუქები, პესტიციდები და სარეველას საწინააღმდეგო საშუალებები ჩაკეტილ ადგილას შეინახეთ და არ გამოიყენოთ იქ, სადაც ადამიანს ხელი მიუწვდება.
 
-## How do I stay safe in the heat and sun?
+## როგორ ვიყოთ უსაფრთხოდ სიცხესა და მზეზე?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+გარე დრო ამინდს მოარგეთ. NIA განმარტავს, რომ ხანდაზმული ადამიანები [სიცხესთან დაკავშირებული ავადმყოფობის](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) უფრო მაღალ რისკში არიან, partly იმიტომ, რომ სხეული ტემპერატურის ცვლილებას უფრო რთულად ეგუება და ზოგიერთი წამალი გავლენას ახდენს იმაზე, თუ როგორ უმკლავდება სხეული სიცხეს.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **გარეთ გახვიდით დილით ადრე ან გვიან.** თბილ თვეებში დღის შუა დრო მოერიდეთ. შეამოწმეთ არა მხოლოდ ტემპერატურა, არამედ სიცხის ინდექსიც.
+- **ხშირად შესთავაზეთ წყალი.** არ დაელოდოთ, სანამ ადამიანი თვითონ იტყვის, რომ სწყურია. სიცხეში თავი აარიდეთ ალკოჰოლს და კოფეინიან სასმელებს.
+- **შესაფერისად ჩაიცვით.** ღია ფერის, თავისუფალი ტანსაცმელი, ფართო ფარიანი ქუდი და მზის სათვალე.
+- **გამოიყენეთ მზისგან დამცავი კრემი.** NIA გირჩევთ SPF 15 ან უფრო მაღალი დაცვის ფართო სპექტრის კრემს, რომელიც დღის განმავლობაში განახლდება.
+- **აირჩიეთ ჩრდილი.** სამუშაო მაგიდა ხის ან ქოლგის ქვეშ მოაწყეთ.
+- **ხანმოკლედ დარჩით.** გარეთ მოკლე დროით ყოფნაც შეიძლება საკმარისი იყოს, განსაკუთრებით თბილ დღეებში.
+- **დააკვირდით გამაფრთხილებელ ნიშნებს.** NIA ჩამოთვლის თავის ტკივილს, დაბნეულობას, თავბრუსხვევას ან გულისრევას, როგორც სიცხით გამოწვეული ავადმყოფობის შესაძლო ნიშნებს. დემენციით მცხოვრებმა ადამიანმა შეიძლება ვერ გითხრათ, რომ თავს ცუდად გრძნობს, ამიტომ დააკვირდით მის სახესა და ქცევას. შედით სახლში, გაგრილდით წყლითა და გრილი ნაჭრით და მიმართეთ სამედიცინო დახმარებას, თუ მდგომარეობა სწრაფად არ გაუმჯობესდა. სიცხის დარტყმა, რომლის ნიშნებიც შეიძლება იყოს გონების დაკარგვა, დაბნეულობა ან მშრალი, გაწითლებული კანი, სასწრაფო სამედიცინო მდგომარეობაა: დარეკეთ 112-ზე.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+ცივი ამინდიც მნიშვნელოვანია. ზამთარში გარე დრო ხანმოკლე იყოს და დარწმუნდით, რომ ხელები და ფეხები თბილად და მშრალად არის.
 
-## How do I handle wandering when we go outside?
+## როგორ მოვიქცეთ, თუ გარეთ ყოფნისას ადამიანს აქვს სახლიდან გასვლის ჩვევა?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+ყოველთვის დარჩით ადამიანის გვერდით, როცა ის გარეთ არის. Alzheimer’s Association-ის თანახმად, [დემენციით მცხოვრები ყოველი 10 ადამიანიდან 6](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) vida-ს ერთხელ მაინც შორდება სახლს და ბევრი ამას არაერთხელ აკეთებს. ეს შეიძლება ნებისმიერ ეტაპზე მოხდეს.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA-ის [რჩევები სახლიდან გასვლისა და დაკარგვის შესახებ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) მოიცავს შემდეგს:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- დარწმუნდით, რომ ადამიანს აცვია საიდენტიფიკაციო ან სამედიცინო სამაჯური მისი სახელით, მისამართითა და თქვენი ტელეფონის ნომრით, ან ტანსაცმელზე აქვს შესაბამისი ნიშნულები.
+- თან იქონიეთ ადამიანის ახლანდელი ფოტო ან ვიდეო.
+- შეატყობინეთ მეზობლებს, რომ ადამიანი შეიძლება სახლიდან გავიდეს.
+- ეზო დაიცავით ღობითა და ჩაკეტილი კარიბჭით.
+- არ დატოვოთ უყურადღებოდ ადამიანი, ვისაც ადრე ჰქონია სახლიდან გასვლის შემთხვევები.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer’s Association ასევე გირჩევთ, მოაწყოთ შიდა და გარე სივრცეები, რომელთა უსაფრთხოდ დათვალიერებაც შესაძლებელია, და აქტივობები დაგეგმოთ დღის იმ დროს, როცა მოუსვენრობა ყველაზე მეტად სავარაუდოა. უსაფრთხო, შემოღობილ ბაღში გასეირნება შეიძლება კარგად შეესაბამებოდეს დღის ბოლოს გაჩენილ მოუსვენრობას. იხილეთ ჩვენი გზამკვლევი [დღის ბოლოს მოუსვენრობის](/caregiving/late-day-restlessness/) შესახებ.
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+თუ ადამიანი მაინც დაიკარგა, Alzheimer’s Association გვირჩევს, დაუყოვნებლივ მოძებნოთ ახლომდებარე ტერიტორიაზე და დარეკოთ 112-ზე, თუ 15 წუთში ვერ იპოვეთ. პოლიციას უთხარით, რომ ადამიანს დემენცია აქვს.
 
-## How do I adapt gardening as things change?
+## როგორ მოვარგოთ მებაღეობა ცვლილებებს?
 
-| If this has become hard | Try this instead |
+| თუ ეს უკვე გაუჭირდა | სცადეთ ამის ნაცვლად |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| მთელი грядის დარგვა | ერთი თესლის დარგვა ერთ ქოთანში |
+| სარეველების მოგლეჯა (სარეველების მცენარეებისგან გარჩევა) | მორწყვა ან აშკარად გახმობილი ყვავილების მოცილება |
+| ბაღში სიარული | მაგიდასთან ჯდომა მიწით სავსე ლანგრითა და მცენარით |
+| საერთოდ გარეთ გასვლა | მწვანილის ქოთანი სამზარეულოს მაგიდაზე ან ღია ფანჯარასთან ჯდომა |
+| ნებისმიერი სამუშაოს შესრულება | ერთად ჯდომა გარეთ, მოსმენა და ყურება |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+ზოგ ადამიანს ურჩევნია, თქვენ გიყუროთ მუშაობისას. NIA აღნიშნავს, რომ არაფერია ცუდი იმაში, თუ ადამიანი უბრალოდ ყურებას ამჯობინებს.
 
-## When should we head inside?
+## როდის ჯობს სახლში დაბრუნება?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+შედით სახლში, როცა ადამიანი დაღლილად, გაცხელებულად, ცივად, მოუხერხებლად ან დასრულებისთვის მზად გამოიყურება. მოკლე და სასიამოვნო ათი წუთი უკეთესია, ვიდრე გრძელი შუადღე, რომელიც დაძაბულობით მთავრდება. დროზე ადრე დასრულება კარგი შედეგია.
 
-## Bring the garden indoors on screen
+## ბაღი ეკრანზე სახლში შეიტანეთ
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+წვიმიან დღეებში [Sort Together](/games/sort-together/) გთავაზობთ ბაღის კალათას სურათების დასალაგებლად, ხოლო [Conversation Cards](/games/conversation-cards/) შეიცავს ღია კითხვებს, რომლებმაც შეიძლება ბაღის ისტორიებამდე მიგიყვანოთ. თუ სიცხიდან დაბრუნების შემდეგ აჩქარებულად გრძნობთ თავს, [Calm Breathing](/games/calm-breathing/) გთავაზობთ ნელ და მშვიდ შესვენებას, რომელიც შეგიძლიათ ერთად გაატაროთ. შეხებაზე, სურნელსა და ხმაზე დაფუძნებული მეტი იდეისთვის იხილეთ ჩვენი [სენსორული აქტივობების გზამკვლევი](/activities/sensory/).

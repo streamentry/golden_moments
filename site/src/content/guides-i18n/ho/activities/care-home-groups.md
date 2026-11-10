@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Dementia dainai hebou gaukara: Ruma laloa diba"
+seoTitle: "Dementia dainai hebou gaukara: Bingo, Ane, Sivarai"
+description: "Memory care, nursing home, bona day program ai hebou gaukara: laulau bingo, ane hebou, bona sivarai hebou, bona helai noho toana diba."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Memory care bona day program ai hebou gaukara namodia be gaukara kwadogidia,
+  diba momokani, bona ta ta be mai daudau ida ia lao diba: laulau bingo, ane
+  hebou, sivarai hebou, maragi maragidia, bona hereva gaukara. Hebou maragidia
+  oi atoa namonamo, ta ta be itaia bona kamonai diba toana ai oi helai, gaukara
+  ta ta ai diba ta oi henia, bona tau ta ia ura henia bema, gaukara maoromaoro
+  bona noho gabuna kwadogi oi hegaegaelaia.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Hebou maragidia na namo, hebou bada ta daena, bona unai amo ta ta be gaukara ai ia lao diba, ia itaia sibona lasi."
+  - "Taudia oi helai circle eiava horseshoe ai, vairana tauna kahirakahira, kamonai bona itaia ura toana oi laloa, bona murimuridia regena oi koua."
+  - "Gaukara ta ta ai dala rua eiava toi oi hegaegaelaia, diba idauidau taudia ibounai be idia lao diba."
+  - "Nanadai, maki, bona kwalimu oi atoa lasi. Laulau bingo ai ta ta ena card be ia honu diba."
+  - "Gabuai ia lao guna, ia itaia, eiava ia mahuta na namo. Tau ta ia ura bema, noho gabuna kwadogi dekenai ia lao diba toana hadibaia tauna ta oi atoa."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Dementia gaukara hebou ai taudia hida be namo?"
+    a: "Namba ta be maoromaoro lasi, bona ruma taudia, ruma, bona gaukara taudia edia namba dekenai ia noho. Gaukara taudia momo idia davaria, hebou maragidia ai ta ta be ia itaia, ia kamonai, bona ia lao diba. Hebou bada oi karaia bema, hadibaia taudia oi atoa, idia be ruma taudia huanai idia helai bona ta ta eiava rua idia durua."
+  - q: "Diba idauidau taudia ida hebou ta ede na karaia toma?"
+    a: "Gaukara ta ta ai lao daladia idauidau oi hegaegaelaia. Ane hebou ai, taudia haida be hereva ibounai idia ania, haida be idia pati eiava idia hum, haida be shaker idia dogoatao. Laulau bingo ai, taudia haida be edia laulau sibodia idia tahua, haida dekenai hadibaia tauna be ia tudu. Durua momo idia ura taudia be gaukara tauna eiava hadibaia tauna kahirakahira oi helai."
+  - q: "Laulau bingo ede na karaia toma, heatu lasi?"
+    a: "Laulau ibounai oi gwauraia ela bona ta ta ena card ia honu, tau ta ia noho lasi. Laulau ta ta oi gwauraia neganai, unai dekenai oi hereva: \"Emui be inai sisia ta oi diba, oi ura herevalaia?\" eiava \"Inai ai dahaka oi itaia?\" Kwalimu dekenai prais lasi, eiava ta ta dekenai aniani maragi ta hegeregerena oi henia. Anina bada be ibounai ida itaia bona hereva hebou."
+  - q: "Emui emui gaukara be TV badana ai hebou lalonai ami gaukaralaia diba?"
+    a: "Io. Emai gaukara be web browser ai idia gaukara, unai dainai laptop eiava tablet amo TV eiava projector dekenai oi habadaia diba. Picture Bingo ai print karaia card bona screen ai caller ia noho. Finish the Saying bona Picture Pairs danu be TV badana ai namo, tau ta be hebou toana ia tap."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Inai diba herevana be gaukara vairana taudia, memory care tim, bona day program vairana taudia toadia. Hebou daladia, ruma hegaegaelaia, diba idauidau taudia toadia gaukara ta hetohoa, bona emai print bingo card bona TV badana gaukara gaukaralaia daladia ia herevalaia. Inai hereva ibounai ena anina be namo noho, hebou, bona abi hidi. Inai ai tes ta lasi.
 
-## What makes a group activity work in memory care?
+## Memory care ai hebou gaukara be dahaka dainai ia namo?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Hebou gaukara namona be diba momokani, kwadogi, ta ta be mai daudau ida ia lao diba, bona metau lasi. Alzheimer's Association ena [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) ia gwau, anina bada gaukara be tauna ena ura bona laloa ia durua, abi hidi bona namo diba ia henia, dementia ia bada neganai danu. Unai pepa danu ia gwau, program gunadia haida be dina ta ai hebou bada ta eiava rua dekenai idia badinaia, bona ruma taudia momo be idia itaia sibona.
 
-That points to a few practical rules:
+Unai amo dala maoromaoro haida:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Diba momokani be namo.** Ruma taudia edia tauhau negana amo ane, hereva kwadogidia, laulau, bona gaukara idia lao diba.
+- **Kwadogi be namo.** Emui hebou ena negana lalonai ia kwadogi, bona huanai dokona gabuna ta oi atoa.
+- **Karaia be namo, itaia sibona lasi.** Ta ta dekenai gaukara ta oi henia: ia dogoatao, ia tap, ia abia hidi, eiava ia hereva.
+- **Dala momo, gaukara ta.** Maoromaoro bona metau maragi daladia oi atoa.
+- **Kwalimu lasi, maki lasi.** Heatu gaukara ai taudia haida idia laloa, idia kerere.
 
-## How big should the group be?
+## Hebou ai taudia hida be namo?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Hebou maragidia be namo momo. Alzheimer's Association ia gwau, tau ta be hebou bada ai ia metau bema, hebou maragina ai ia hebou namonamo diba. Namba ta be maoromaoro lasi. Ruma taudia, ruma, bona gaukara taudia bona hadibaia taudia edia namba dekenai ia noho.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Tohoa namona: ta ta be vairana tauna ena vairai ia itaia diba, ia kamonai namonamo diba, bona hadibaia tauna be sekondi haida lalonai ia lao diba, a? Lasi bema, hebou oi hagwauraia, hadibaia taudia oi habadaia, eiava ruma maragina dekenai oi lao.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Hebou bada ai, holiday concert hegeregerena, gaukara taudia bona hadibaia taudia be ruma taudia huanai idia helai, paipai kahirakahira lasi.
 
-## How should I set up the room and seating?
+## Ruma bona helai gabuna ede na hegaegaelaia toma?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Circle eiava horseshoe.** Practice recommendations ia gwau, sivarai hebou be ruma bada ai namo, ta ta be circle ai ia helai diba, bona murimuridia regena lasi.
+- **Vairana tauna be kahirakahira bona mata hegeregerena.** Oi gini diba bema, oi gini, oi gini lasi.
+- **Kamonai bona itaia be ginigunana.** Kamonai metau taudia be vairana tauna kahirakahira oi helai, edia kamonai namona kahana ai. Glasses bona hearing aid idia atoa toana oi itaia. Alzheimer's Association ia gwau, itaia bona kamonai metau be hereva ia aukadia diba.
+- **Diari be ruma taudia muridia amo ia mai, oi murimu amo lasi.** Tau ta be windo diaridia kahirakahira ia helai lasi.
+- **TV bona radio oi koua.** Alzheimer's Association ia gwau, ane gaukara neganai regena ma haida oi kokia.
+- **Hereva ta sibona.** Hereva hebou be dementia ai noho taudia bona kamonai metau taudia dekenai ia auka, Alzheimer's Association ena [holiday diba](https://www.alz.org/help-support/caregiving/holidays) ai ia gwau toma.
+- **Lao daladia bona noho gabuna kwadogi.** Tau ta ia ura lao bema, ia lao diba, bona gaukara tauna ta ia lao hebou.
 
-## Group activity ideas
+## Hebou gaukara daladia
 
-### Picture bingo
+### Laulau bingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Laulau bingo ai namba toana laulau idia gaukaralaia, hegeregerena ti kapu, sisia, eiava rose, unai dainai tau ta be namba daudau ia lalopararalaia eiava hereva maragidia ia duahia lasi.
 
-**How to run it:**
+**Ede na karaia toma:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Tau ta dekenai card ta oi print, emai [Picture Bingo](/games/picture-bingo/) pepana ai Print button amo. Pepa auka be dogoatao namonamo. Gaukaralaia lou bema, oi laminate.
+2. Dogoatao namonamo maki oi henia, hegeregerena poker chip, botolo koukouna, eiava pepa katana.
+3. TV eiava projector ai screen caller oi gaukaralaia, unai amo ta ta be laulau ia itaia oi gwauraia neganai.
+4. Laulau ta ta murinai oi dokona, bona hereva maragi ta oi noia: \"Emui ta be sisia ta dekenai hereva oi ura, a?\" eiava \"Inai ai dahaka oi itaia?\"
+5. Card ibounai idia honu ela bona oi gwauraia lao. Ta ta ia dokona.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Hetohotohoa:** Card bada ai laulau momo be metau bema, laulau maragidia oi gaukaralaia. Hadibaia tauna be laulau ia tudu diba tau ta dekenai. Haida be caller ena laulau card idia dogoatao bona hebou dekenai idia hahedinaraia diba.
 
-### Sing-alongs
+### Ane hebou
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Ane be hebou gaukara namo ta. Alzheimer's Association ia gwau, gabeai negadia ai danu, tau ta be [pati ia bota eiava tauhau negana ena ane ia ania diba](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Ede na karaia toma:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Ruma taudia edia tauhau negana amo ane oi abia hidi, vairana tauna ena ura ane lasi. Ramu taudia oi nanadaidia, ta ta be dahaka ane ia ura.
+- Commercial lasi ane oi gaukaralaia, Association ia gwau unai be ia haheauka diba.
+- Duahia diba taudia toadia, ane herevadia be hereva badadia ai oi print, to ia ura lasi bema namo.
+- Shaker, drum maragi, eiava scarf oi henia.
+- Pati bona maragi oi hagoadaia, bona regena be namo.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Hetohotohoa:** Taudia haida be hereva ibounai idia ania, haida be idia hum, haida be aedia idia bota, haida be idia kamonai sibona. Idia ibounai be namo. Diba ma haida be emai [ane gaukara diba](/activities/music/) ai.
 
-### Reminiscence groups
+### Sivarai hebou
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Sivarai hebou ai topik ta idia abia hidi, hegeregerena sikuli negana, karai ginigunana, kuki ruma, eiava taurari, laulau, gaukara, bona ane ida. Anina be hereva namona, laloa maoromaoro lasi.
 
-**How to run it:**
+**Ede na karaia toma:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Topik ta oi abia hidi, bona gaukara toi eiava hani oi mailaia, taudia idia dogoatao diba: mixer, baseball glove, hat, seed catalog.
+2. Gaukara ta ta oi henia lao. Henanadai kehoa oi karaia: \"Inai dekenai oi hereva mai,\" \"Dahaka oi itaia?\" \"Daika be inai hegeregerena ia gaukaralaia?\"
+3. Hereva ibounai oi abia dae. Dina eiava hereva maoromaoro oi hamaoromaoroa lasi.
+4. Laloa namodia dekenai hereva oi hakaua. Practice recommendations ia gwau, naria taudia be sivarai idia hakaua laloa namodia dekenai, laloa hisihisi idia havaraia daladia lasi.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) ai print laulau card ia noho, topik ta ta ai henanadai kehoa ida, sivarai hamatamaia toana namo. Diba ma haida be emai [sivarai diba](/activities/reminiscence/) ai.
 
-### Finish the saying
+### Hereva kwadogi oi hadokoa
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Diba momokani hereva kwadogidia, hegeregerena \"A penny saved is a penny...\", ai ta ta be dokona herevana idia gwauraia hebou. [Finish the Saying](/games/finish-the-saying/) be TV badana ai oi hahedinaraia, bona hebou be hereva ta ai idia haere. Hereva ta ta murinai hereva henanadai ta ia noho. Tau ta be dokona herevana ia gwauraia lasi bema, oi hahedinaraia bona oi lao gaba. Kerere eiava maoromaoro lasi.
 
-### Large-print word search, together
+### Hereva tahua gaukara, hebou
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Hereva badadia [Word Search](/games/word-search/) be screen ai oi hahedinaraia bona hebou ai hereva oi tahua, eiava taudia haida dekenai kopi oi print, edia pata ai sibodia idia gaukara diba bema. Herevadia be kahana bona diho sibona ai idia lao.
 
-### Gentle movement
+### Maragi maragidia
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Helai gabuna ai auka maragidia, balu maragi eiava balloon oi henia lao, eiava diba momokani ane ida helai danisi. Maragi ta ta oi hahedinaraia, oi herevalaia lasi.
 
-### Sorting and matching at the table
+### Helai pata ai hagwauraia bona hegeregere
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Tau toi eiava hani edia pata ai laulau, dabua katana, eiava kaia koki idia hagwauraia hebou. Screen ai, [Picture Pairs](/games/picture-pairs/) be laulau idia itaia noho dainai idia gaukaralaia diba, tau ta ia tap bona pata ai taudia be laulau ta ta dekenai idia hereva.
 
-## How do I use your games on a big screen?
+## Emai gaukara ede na TV badana ai gaukaralaia toma?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Emai gaukara be web browser ai idia gaukara, unai dainai TV eiava projector ai oi gaukaralaia diba, install lasi.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Gaukara oi kehoa laptop eiava tablet ai, cable eiava casting amo screen dekenai oi habadaia.
+2. Browser be full screen ai oi atoa, bona regena be namo.
+3. Vairana tauna ta be ia tap, bona hebou be edia abia hidi idia gwauraia. Eiava tablet oi henia tau ta dekenai, ia ura karaia bema.
+4. Hebou ia dokona ura neganai oi dokona. Gaukara ai taim, maki, eiava dokona auka lasi.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/), bona [Conversation Cards](/games/conversation-cards/) be hebou toadia namo momo. Daladia ibounai be emai [gaukara pepana](/games/) ai.
 
-## How do I adapt one activity for mixed abilities?
+## Diba idauidau taudia toadia gaukara ta ede na hetohoa toma?
 
-Plan at least three ways to join every activity.
+Gaukara ta ta ai lao dala toi eiava momo oi hegaegaelaia.
 
-| Activity | More independent | Some support | Most support |
+| Gaukara | Sibona ia karaia diba | Durua maragi | Durua bada |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Laulau bingo | Ena laulau sibona ia tahua bona ia koua | Hadibaia tauna ia tudu; tau ia koua | Laulau card ia dogoatao; ia kamonai bona ia itaia |
+| Ane hebou | Ia ane, ane murina ia abia hidi | Ia hum, ia pati, shaker ia gaukaralaia | Ia kamonai, scarf ia dogoatao, ima ia bota |
+| Sivarai hebou | Sivarai ia herevalaia | Io/lasi eiava ia tudu amo ia haere | Gaukara ia dogoatao bona ia toho |
+| Hereva tahua | Ena print kopi ia gaukaralaia | TV badana ai hadibaia tauna ida hereva ia tahua | Herevadia idia duahia neganai ia kamonai |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Gabeai negadia ai ruma taudia toadia, NHS ia gwau, gaukara be maoromaoro, bona toho daladia dekenai ia badinaia namonamo, hegeregerena ane, dogoatao gaukara, bona ima mirimiri. Hebou lalonai eiava murinai tau ta ida negana ta be hebou daena namo diba. [Gabeai negadia gaukara](/activities/late-stage/) oi itaia.
 
-## How should leaders talk during a group?
+## Hebou lalonai vairana taudia ede na hereva toma?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Nega ibounai oi gwau, oi be daika, bona ta ta ena ladana ia ura dainai oi gaukaralaia.
+- Metau ai oi hereva, diba ta ta oi henia, bona oi hahedinaraia guna, gabeai oi herevalaia.
+- Henanadai kehoa (\"Inai dekenai oi hereva mai...\") eiava abia hidi maoromaoro oi karaia, tes henanadai lasi (\"Oi laloatao, a?\").
+- Oi hamaoromaoroa lasi. Hereva ibounai dekenai oi hanamoa.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Diba ma haida be emai [hereva diba](/caregiving/communication-tips/) ai.
 
-## Ending well, and letting people leave
+## Dokona namona, bona taudia idia lao diba
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Dokona be kara maoromaoro ta. Tau ta ia heauka, ia maragi, eiava ia lalohekau bema, oi itaia, bona hadibaia tauna ta ia noia, ia lao eiava gabuna kwadogi ai ia helai. Ane hebou lalonai tau ta ia mahuta bema, ia namo noho diba.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Hebou ibounai oi dokona dalana ta ai, ane diba momokani ta eiava hanamoa herevana kwadogi ta ida, unai amo dokona ia namo bona ia maoro. Murinai, dahaka ia namo bona daika ia moale oi rivi maragiai. Unai rivi herevadia be hebou murina ia hanamoa.

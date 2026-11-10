@@ -4,6 +4,7 @@ import type { PlayProps } from '../../i18n/play';
 import { fill } from '../../i18n/play/format';
 import { boardColumns, createPairs, isComplete, tapPair, tileVisualState, type PairsState } from '../../lib/games/pairs';
 import { createRng, randomSeed } from '../../lib/games/random';
+import { photoTileName } from '../../lib/games/photo-label';
 import { PictureTile, pictureNamer } from './PictureTile';
 import { sounds } from './sound';
 import { useWide } from './useWide';
@@ -13,13 +14,15 @@ interface PairsBoardProps {
   values: readonly string[];
   hidden: boolean;
   photos?: boolean;
+  /** Optional, page-only captions for family photos. */
+  photoLabels?: readonly string[];
   /** Changing this starts a new board. */
   round: number;
   onMessage: (message: string) => void;
   onComplete: () => void;
 }
 
-export function PairsBoard({ play, values, hidden, photos = false, round, onMessage, onComplete }: PairsBoardProps) {
+export function PairsBoard({ play, values, hidden, photos = false, photoLabels, round, onMessage, onComplete }: PairsBoardProps) {
   const { ui, lang } = play;
   const pictureName = pictureNamer(play);
   const wide = useWide();
@@ -39,7 +42,12 @@ export function PairsBoard({ play, values, hidden, photos = false, round, onMess
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [values, round]);
 
-  const label = (v: string) => (photos ? fill(ui.tile.photoNumber, { n: values.indexOf(v) + 1 }) : pictureName(v));
+  const label = (v: string) => {
+    if (!photos) return pictureName(v);
+    const index = values.indexOf(v);
+    const number = index + 1;
+    return photoTileName(fill(ui.tile.photoNumber, { n: number }), photoLabels?.[index]);
+  };
 
   const onTap = (i: number) => {
     const before = store.state;

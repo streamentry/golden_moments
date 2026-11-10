@@ -1,32 +1,32 @@
 ---
-title: "Parō-marətiš: Taoxmō-vīdāiti, Gaya-sarō, Patarā-ca"
-seoTitle: "Parō-marətayō Nipātə̄e: An-haxta Pərəsa-manō"
-description: "Yaϑa parō-marətīm hača yim pāhi vi-baxšahe an-haxtāi pərəsanāi: patara-vačō, vīdāiti, gaya-puta, vācā-ca yā rāzayeiti."
+title: "Paitišmarana-Varəza: Maranō-dāna, Gayō-saxvān, Patikarā"
+seoTitle: "Paitišmarana Maranō-Nipānāi: A-Pərəsāni Raθiia"
+description: "Cithra maranā hąm-dāte mashyāi yəm nipāhi a-pərəsai: patikaranąm saxvan, maranō-dāna, gayō-patra, vačō yōi rāməm dādayeinti."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Parō-marətiš asti haxədra-hazaŋra parō-ayaranąm hača patarāiš, vastra-vastō,
-  hunsravāiš, gaya-vačāiš-ca. Karšō marəti-vīdāitīm, gaya-sarō-putam, aya-vā
-  patarā hača didāra. Mā pərəsa haxta: tarp-ca «Paiti-xšnāsahe?» vā «Kō asti
-  aēm?» vāiti, aδa frā-vāča «Mraoi mē aētahmi paiti.» Uštatātō haxədra
-  frā-yasnō asti, nōit arša-sāčimna.
+  Paitišmaranam aiti rāmam parō-gayāt hąm-baxtīm haδa patikarāiš, dānāiš,
+  sraošanaica, saxvānāišca. Maranō-dānam kərənu, gayō-patram daδāt, ayāp
+  patikaranąm haδa paiti-vaēna. Mā pərəsa: vi-tara «Aipī paitišmarahi?» apaca
+  «Kō asti aēšō?», vačōca paiti-bara yaθa «Māum aētat paiti-mruhi».
+  Hąm-saxvanəm rāmanō vazram asti yaθa a-draojīm arš-dātəm.
 keyPoints:
-  - "Parō-marətiš asti haxədra-vačō, nōit handātō-pərəsa. Arš-dātō nōit asaoza; urvāza asaoza asti."
-  - "Paiti-yāsa «Paiti-xšnāsahe... ?» uta «Kō asti aēm?» ahmāi «Mraoi mē aētahmi azan paiti.»"
-  - "Marəti-vīdāiti hača gaozāiš martiyahē zaste vačō-ca aipi-dārayeiti."
-  - "Gaya-sarō-putam haxadrāi, vaēnəmnāi, nipātāribyas-ca sačayeiti martim vīspō, nōit aēva āzūitīm."
-  - "Yadi marətiš duš-manō baraiti, fradama urvaϑa, aδa namrō vi-cara."
+  - "Paitišmaranam asti hąm-saxvanəm, nōit pərəsā. Arš-saxvanəm nōit vazram asti; rāma vazra asti."
+  - "Vi-tara «Aipī paitišmarahi...?» uta «Kō asti aēšō?», paiti-mruhi ca yaθa «Māum aētat ayan paiti-mruhi»."
+  - "Maranō-dānam haδa tištrīm parō-gayāt zastanąm hąm-saxvanaca aojō daδāiti."
+  - "Gayō-patram xvaētave, aγvanāi, upa-karanaca nāram xšnāsāiti, nōit tōxməm vi-xvašnəm."
+  - "Yaδa paitišmaranam anāxštīm baraite, paoirīm rāməm daδāti uta nərəuye vi-tara."
 faq:
-  - q: "Čiš asti parō-marətiš martiyāi yim pāhi?"
-    a: "Parō-marətiš asti haxədra-marətayō parō-ayaranąm, fradama hača patarāiš, vastra-hizvāiš, hunsravāiš vā daxsma-sraotāiš. Aēva aēvō vā haxədrāi bavaiti. Dātō asti rāma-vačō, nōit pərəsa čiš martō paiti-xšnāsahe."
-  - q: "Čiš-rāzi nōit aipi-pərəsahe «Paiti-xšnāsahe?»"
-    a: "Pərəsanā yā marətīm haxte paiti-tāpāiti martim taoxmō-sādrāi yadi paiti-vačō nōit āyaiti. National Institute on Aging pərəsam «paiti-xšnāsahe čištīm vā narəm» aipi-dāti an-varəzānə̄e. Vaēdaya čiš vaēnahi, dā-ca ahmāi vacō yim vasaiti."
-  - q: "Čiš aipi-ni-daϑāne marəti-vīdāitiya?"
-    a: "Vərəzyata vastrā drafšō-vastō hača martiyahē gayāi: vərəz-dāiti, urvāzō-vastra, tiγri, parō-nāmai, xᵛarəϑō-sāstrā, patarā-ca paiti-kərəte. Mā ni-daϑa tiγrā vastrā, kašvīš yā xvaraiti, vā paoiryā yā maēγayeiti."
-  - q: "Čiš yadi aršō-vačō a-yaϑa mruite?"
-    a: "Rāma dāra. Yadi mātā mraoti patarō svasāi asti yim bratūrō-puϑrī asti, aēva nōit duš-manō. Arš-dāiti vartayeiti rāma-haxədra handātāt pərəsa. Paϑa vačō yim mraoti, uta haxədra urvāzaya."
+  - q: "Čiš asti paitišmaranam mashyāka yōi ušī-vītarəta?"
+    a: "Paitišmaranam asti parō-mananəm uta gayō-vaēpanąm hąm-dāiti haδa patikarāiš, tištrīm, sraošanaica, vidēōica. Asti aēva-haδa ayāp hanjamanē. Cinman asti rāmō-da hąm-saxvanəm, nōit pərəsā citiš martiyāka paitišmaraiti."
+  - q: "Afrīnāi mā pərəsō «Aipī paitišmarahi?»"
+    a: "Pərəsā yā maranəm pərəsaiti š́ātīm vi-nāθayeiti yaδa paiti-vacō nōit aiti. National Institute on Aging paitišmaranō-pərəsāma paurvō-vi-taranąm dāiti. Vaēnam paiti-mruhi, uta mashyāka yā vasi paiti-daδāiti."
+  - q: "Cim dānē maranō-dāne daδāni?"
+    a: "Dranjō drvōca tištriya gayāt vi-cina: varəzō-tištra, sparanō-tištra, vaŋhānəm, patikarā-patra, xvarəθō-sāstrā, ayāp patikara-haxti. Tarštō-dāraya tīγrīm tištrīm, kasvā yōi vi-mərəzīnti, uta paurvō-dāta yā nōit paiti-dāiti."
+  - q: "Ciš yaδa an-arš-dātəm mravanti?"
+    a: "Haca aētat fra-vaēza. Yaδa mātā paiti-mravaiti patikara xvaŋharəm daēsayete yaδa tūiryā asti, nōit an-āstāra. Arš-kərəitīš rāmam ō pərəsąm vaŋhaiti. Saxvanəm yəm mravanti anvarte uta haδa xšnūyehe."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Parō-marətiš asti rāma-haxədra hača parō-ayara azan. Martiyāi yim pāhi, marətayō parō-sarədō frāyō spāiti bavanti an-haxta ahmāt yā aētahmi sūirē bavaiti. Patarā, xᵛatō-vastrā, hunsravō uta gaya-sarō marətīm frā-vərəzinti, daϑənti-ca rāma-vačō. Aēvō dātō: asti haxədra-vačō, nōit pərəsa-handātō.
+Paitišmaranam aiti rāmam parō-gayāt haδa baxtīm. Mashyāka yōi ušī-vītarəta, maranā parō-dahyūnanam vi-spāiti darəγō-tara yaθa aētat asni yā bavaiti. Patikarā, xvaētō-tištra, sraošanaica saxvānā aēte maranā paiti-vistāra daδāiti uta rāmō-dāna hąm-baxtayeiti. Aēva dātā: asti hąm-saxvanəm, mā pərəsā.
 
-## Čiš asti parō-marətiš, yaϑa-ca an-haxti pərəsa-handātāt?
+## Čiš asti paitišmaranam, uta yaθa tarō pərəsā?
 
-Parō-marətiš asti vīdāiti marətə̄e hača patarāiš, daxštāiš, hunsravāiš vā daxsma-sraotāiš, yaϑa martō xᵛa-kāma vasaiti. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mraoti aēte asti vīdāiti parō-vərəz-dātanam uta gayanam hača patarāiš, vastrāiš, hunsravāiš-ca potō-vastra vā daxtō-fravahr. Pərəsa-handātō anyō asti: pərəsa haxtəm paiti-vačō, dāiti-ca a-ramatīm nōit urvāzanam.
+Paitišmaranam asti marananam hąm-dāiti haδa patikarāiš, tištrīm, sraošanaica ayāp vidēōica, nərəhe xvatō raθye. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mravaiti yaθa asti parō-saxvananam uta gayō-vaēpanąm hąm-dāiti haδa patikarāiš, tištrīm, vidēōica sraošanaica, patre ayāp dēn tablet. Pərəsā tarō asti: pərəsaiti mashyāi arš-paitivacim dāte, aētatca vi-nāθəm baraite nōit xšnūtim.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) mraoti pərəsam yadi martō paiti-xšnāsahe čištīm vā narəm asti an-varəzānəm. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) aipi-daϑe an-pərəsam yā nū-marəti-dāitīm paiti-zbayata, aδa frā-vača hača parō-ayaranąm.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) nibaodayeiti pərəsąm yaδa mashyāka paitišmaraiti aētat ayāp naram yaθa vi-taranəm. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) mravaiti mā pərəsō pərəsąm yā kəsu-maranē paiti-stāna, uta parō-darəγa-gayāt hąm-saxva.
 
-| Taršnō | Varəzaya |
+| Tarō an-aētat | Varəza |
 | --- | --- |
-| «Paiti-xšnāsahe aētada?» | «Aētada šyātō ayarə didāra. Mraoi mē aētahmi paiti.» |
-| «Kō asti aēm?» | «Aēte asti Rose dūda paiti zrayō. Didāra aēm maodrəm.» |
-| «Čvanto sarəda aēta āha?» | «Aētada didāra purva-nmānam. Yaϑa āha dāra nmāne?» |
-| «Nōit, aēm nōit Bill, aēm Frank asti.» | «Hō frā-šyātō didāra.» |
-| «Aēte paiti-mrōi hakarəm.» | «Urvāzayeiti mē aēm sravō.» |
+| «Aipī aētat paitišmarahi?» | «Aētat ayan š́ātō-daēnō daēsayete. Māum paiti-mruhi.» |
+| «Kō asti aēšō?» | «Ida asti Aunt Rose arədō-zaraye. Vaēna aētat xvaoda.» |
+| «Čiš sarda aēšō āhat?» | «Aētat parō-nmānam daēsayete. Yaθa āhat anhati ida?» |
+| «Nōit, aēšō nōit Bill, aēšō Frank asti.» | «Aēšō vasi š́ātō daēsayete.» |
+| «Tū aētat mãm parō-mraot̃.» | «Aētam gayō-saxvanəm vasi xšnāvayehe.» |
 
-## Yaϑa patarāi fravačahi an-aγaošāi pərəsa?
+## Yaθa patikarāiš hąm-saxvahi a-pərəsāiti?
 
-Fradama vaēdaya čiš vaēnahi, aδa dā raočas martiyāi aipi-vačānə̄e yadi vasaiti.
+Paoirīm vaēnam mruhi, pascaēca mashyāi gātūm daδā yaθa paiti-dātəm vasi mravāt.
 
-1. **Āsīsa ahmāi aipi.** Dārayata patarō-potam ahmya aipi, aēva nōit handātō paiti mezō.
-2. **Kərənvata kamna patarā.** Panca vaida-patarā vohu asti hača vīspō vīdāitiyāt. Mazantō, vyāxmanō patarā vohu vərəzyeiti.
-3. **Nāma-dāiti xᵛatō.** «Aētada tūm uta Pitarəm paiti zayō-ayarə» harzahyeiti bāδō.
-4. **Vaēdaya daxsmanąm.** Vastrā, vāšā, xᵛarəϑā, vātā, mānayō. «Čiš vāšō. Spiti-didāra bavaiti.»
-5. **Frā-zbaya, mā āsāraya.** «Mraoi mē hača...» vā «Čiš vaēnahi?» Tūšnīš vohu asti.
-6. **Paϑa hō-kāmam.** Yadi mraoti hača anyahmi dātō, varəzaya ahmya paiti.
-7. **Paiti-stāite urvāzanya.** Ganze potam parō squndatāt.
+1. **Haδa-ara ni-šida.** Patikara-patram antarə yūšma dāraya yaθa haδa vaēnaθa, nōit pərəsaiti tarō mayānəm.
+2. **Kəsu-patikarā vi-cina.** Panca vahištā patikarā vahišta yaθa vīspa dānā. Masita arš-patikarā vahišta kərənavainti.
+3. **Nāmanica xvatō mruhi.** «Ida stō tū uta Pitar daθrahe asni» a-aojō daδāiti.
+4. **Tištrīm paiti-vaēna.** Vastrā, vāša, xvarəθa, vāta, paitī-dīm. «Čiš vāšō. Vasi raoxšnō daēsayete.»
+5. **Paiti-bara, mā aojaye.** «Māum aētat paiti-mruhi...» ayāp «Čim vaēnahi?» Tūšnīš dātā asti.
+6. **Aiwi-dātam anvarte.** Yaδa vispō-tarō saxvanəm mravanti, haδa aēte gəmata.
+7. **Paiti-mara yaδa rāma asti.** Patikara-patram paiti-vara parō yaθa š́kambō āyāt.
 
-Patarō-vačānə̄e yā rāsta asti, varəzaya [conversation cards](/games/conversation-cards/). Patarō-nmānayeiti paiti rāma-haxədra gātu, varəzaya [photo pairs](/games/photo-pairs/); patarā yā vicinahi dārayānte aētahmi parō-vaēnāi.
+Parō-dātāiš patikara-vačō, varəza [conversation cards](/games/conversation-cards/). Yaθa xvatō xvaētō-patikarā rāmō-hąm-dāne kərənavahi, varəza [photo pairs](/games/photo-pairs/); patikarā yā vi-cinahi dēn browseyer aipī-stānte.
 
-## Yaϑa parō-marəti-viǰānam karənava?
+## Yaθa maranō-dānam kərənavahi?
 
-Marəti-vīdāitiš asti gaozō vastranąm hača martiyahē gayāi zašta-gərəptə̄e vačāi-ca.
+Maranō-dānam asti dānō tištrinam haca nərəhe gayāt zastō-dārayāi uta hąm-saxvanāi.
 
-1. **Vicinata drafšō vīdāitīm** yā buje-vohū asti, yaϑa aspa-vīdāiti vā dāru-vīdāiti.
-2. **Vicinata frasna vā vīspō-haxta.** Vərəz-dāiti, urvāza-dāiti, daxštəm, dasa-sarədō, vā kamna vīspahmāt.
-3. **Hąm-barata pātō-vastrā.** Panca aipi dasa vastrā vohu asti pātə̄e.
-4. **Vərəzyata paiti-kərəte aγaošanam.** Paiti-kərəta patarā nāmayā-ca, pātō dārayata paoiryā.
-5. **Nī-bara vastrā aēva-paiti-aēva.** Dā zašta aēvəm, mraoi aipi, vaēnaya yaϑa vačō caraite.
+1. **Dranjō dānam vi-cina** yā hu-vi-pātā asti, yaθa aothra-dānam, xvaoda-dānam ayāp kasu dāuru-cistām.
+2. **Māyā ayāp vi-baxtīm vi-cina.** Varəzō, sparanō, asō, dahyu-sarda, ayāp kəsu vispahē.
+3. **Drvō tištrīm hąm-bara.** Panca yava dasa tištriya hąm-dātāi pouru asti.
+4. **Paityāpəm arəja-tištrinam varəza.** Paityāpəm kərənu a-vi-nāθa patikarā uta patrā, paurvō-dātā drvō dāraya.
+5. **Aēva-aēva tištrīm paiti-nisa.** Zaste dā, aētat paiti-mruhi, uta vaēna kva saxvanəm š́iiaveiti.
 
-Daxštā vīdātə̄e:
+Fravašatāni daδāiti:
 
-- **Vərəz-dāiti:** nāmō-daxštəm, kašvō vərəz-zastəm, vərəzō-vastra, dīvān-potō, parō-bān-daxštəm, xᵛarəϑō-potō.
-- **Nmāna:** xᵛarəϑō-sāstrā zašta-nibišta, nmānō-vastra, tiγri vā urvāzō-banda.
-- **Urvāza:** gōra an-tiγra, spāra, bāzu-yāhī, spandō-baxta.
-- **Daxštō-gātava:** parō-nāmai, zamō-patarō, daxtō-daxštəm, parō-ayarō-potō.
-- **Haxta-puϑra:** paiti-kərəta patarā, drafšō-puϑra-kərəta, zayō-framāna.
+- **Varəza:** nāma-patram, kasu varəzanam, vastrō-tištra, marana-patram, spitahe ayaŋhō, xvarəθō-patram.
+- **Nmānam:** xvarəθō-sāstrā xvatō-nibərəta, nmānō-vastram, vahištō vastrō ayāp bandō.
+- **Sparana:** masyō-dāna a-tīγra, gvada, yātō-čiθra, zaranō-dānəm.
+- **Asā:** patikara-patrā, ząm-patrā, aγva-sāstra, dahyō-patram.
+- **Xvaētu:** paityāpəm patikaranąm, azaθahe ciθra, daθrahe gvaθra.
 
-Mā ni-daϑa tiγrā vastrā, kašvīš yā nərə xᵛaraite, vā aēte yā sādra barayeiti.
+Tarštō-dāraya tīγrīm tištrīm, kasvā yōi vi-mərəzīnti, uta vispəm yā anāxštīm paitišmaranā baraite a-yava xšnūtim vaēda.
 
-## Yaϑa gayō-vačō-potam karənava?
+## Yaθa gayō-patram kərənavahi?
 
-Gaya-sarō-potam asti rāma-potō hača patarāiš kamna-vačāiš hača martiyahē gayāi. Asti vaēnana haxədrāi, uta sačayeiti vaēnāi nipātāribyas-ca vīspəm martim.
+Gayō-patram asti hu-kərəto patikara-patro haδa morənda saxvanā parō gayāt nərəhe. Asti haδa-vaēnanam, uta upa-karanąm aγvanąmca zbayeti vispəm naram xšnāsāiti.
 
-1. **Vicinata potō-kərəitīm.** Banda hača spāiti-kərəte, patarō-potō, vā daxsma-fravaš paiti daxtō-fravahr.
-2. **Kərənvata bāgayō.** Kašvō-āyu, sāstrō-nmāna, vərəz-dāiti, puϑra-nmāna, nmānō-gātava, dēnā, urvāzō-vastrā, xᵛarəϑō uta hunsravō.
-3. **Ni-daϑa aēva vā duyē patarā yān-paiti** hača mazantō nibištāi: «Mary, 22 sarəda, pātayeiti vərəzəm paiti nmāna-dīvān.»
-4. **Ni-daϑa kāmayō uta parō-dātō.** «Xᵛarayeiti kafəm hača xšīra. Urvāzayeiti ayarō-sraotəm. An-kāmyeiti garəz-daxsma.» Aēta sačayeiti vīspāi nipātayeiti.
-5. **Haxədra dāra martim** yaϑa vasaiti: vicinata patarā, mraoi gaya-sravō, aya-vā dīdidāra.
-6. **Frā-bavaiti dāiti.** Nōit asaoza fraša-bavaiti yān aipi-avō.
+1. **Daxštam vi-cina.** Bandō haδa patra-nipānāiš, nibərəto patikara-puthro, ayāp tablet paiti-dīm.
+2. **Kəsu-baxtīm handāta.** Azaθa, frasāstra, varəza, xvaētu, asō-gayāt, daēnā, sparana, vahišta xvarəθa uta sraošana.
+3. **Aēvam ayāp dvā patikarā paēša paiti-daδā** haδa morənda masita-daxšta saxvanē: «Mary, sarda 22, varəza dēn bank paitište.»
+4. **Vasi-kāmīm uta raθiia paiti-daδā.** «Kahva haδa paya xšnāvayehe. Sunday-srūtā xšnāvayehe. Aojō TV nōit vasi.» Aētat upa-karana nipānāi zbayeti.
+5. **Mashyāka hąm-kərənu** yaθa vasi xšnāvayeinte, patikarā vi-cinan, saxvanąm mravan, ayāp dīm vaēnan.
+6. **Paitī-daδata.** Nōit aipī-frārātō bavaiti yaθa aojō dāδāiti.
 
-## Frāyō manayō parō-marətə̄e
+## Pāra paitišmarana-fravašatāni
 
-- **Sraotayeiti hunsravō yavačō** uta vaēdaya kuϑra nayeiti. Vaēnaya [music activities](/activities/music/).
-- **Didāra nmānō-daxsma vā daxsma-fravaš** hača urvāzō-sarədanąm.
-- **Pakata kašvō-āyu xᵛarəϑəm** uta dā boidīm naye vačō.
-- **Didāra zamō-patarō** nmānō-šōiϑrahē, kərəta vīspā vīϑī.
-- **Zašta-gərəpta parō-dīvānō vā potā** uta vaēdaya arəgō, vastrā, vāšā-ca.
-- **Nibiša gayō-sravō** paiti paiti-vacō-dātu, haxədrāi martiyahē kāma, nmānāi.
-- **Vīdāiti paiti zbayānə̄e.** Dāra aēva patarō paiti daxsma-zbāta; vaēnaya [phone and video calls](/activities/phone-and-video-calls/).
-- **Bara patarō vā vastrō vaēnāi.** Dāti vaēnāi rāma-manō; vaēnaya [visiting](/activities/visiting/).
+- **Sraošanam yuvanō-gayāt srāvaya** uta hąm-saxva kva baxtīm bareiti. Vaēna [music activities](/activities/music/).
+- **Nmānō-vidēō ayāp TV** vahištō dahyu-sardāt vaēna.
+- **Azaθahe xvarəθam pacata** uta baoidi hąm-saxvanəm fravayeiti.
+- **Ząm-patram vaēna** daxmahe nmānāt uta vīθi paiti-vaēna.
+- **Parō-patrā zaste dāraya** uta arəja, vastra uta vāša hąm-saxva.
+- **Saxvanąm dēn fōn nibaoda**, haδa nərəhe dastīm, xvaētave.
+- **Hąm-daδā dēn xranse.** Aēvam patikaram dēn video-xrūns dāraya; vaēna [phone and video calls](/activities/phone-and-video-calls/).
+- **Patikaram ayāp tištrīm bara yaδa aiwi-gəmahi.** Aētat aiwi-gamanāi hu-daēnəm daδāiti; vaēna [visiting](/activities/visiting/).
 
-## Čiš yadi marətiš bərəjaiti duš-manō?
+## Ciš yaδa paitišmaranam anāxštīm baraite?
 
-Kamna marətayō barənti sādram, manō-tāpam vā tərəsīm. Yadi martō āzūyeiti, paiti-stā, urvaϑa hō, uta namrō vi-cara anyahmāt vačō vā vərəz-dātō. Mā aipi-pərəsa arš-dātāt čiš bavaiti. Family Caregiver Alliance aipi-daϑe an-vāčīm arš-dātō pərəsanāi, aδa dā paiti-vačō manō yim vaēdayeiti, yā arš asti. Yadi mraoti hača parō-iristāi yaϑa jvanti, dā paiti-vačō manahyā: «Tūm aētahmāt sūra kāmahe. Mraoi mē aipi hača ahmāt.»
+Kəsu maranā anāxštīm, gərəzānəm ayāp tarštīm bārayeinti. Yaδa mashyāka anāxštō bavaiti, paiti-mara, rāməm daδāti, uta hu-vītarə saxvanəm ayāp varəzam vaŋha. Mā paitiš-mruhi cim aipī-bavat. Family Caregiver Alliance nibaodayeiti mā patikərəsa mashyāi yaθa a-raθiia asti, uta daēsayete hąm-manah yaθa dēn zrədaye asti, yā arš-dātā asti. Yaδa mravanti parō-irīθahe yaθa jvantō asti, hąm-manah paiti-mruhi: «Tū aētam vasi paitišmarahi. Māum haca aētam paiti-mruhi.»
 
-## Čiš aipi pərəsatō-viδiš mraoti?
+## Čiš vīcaranā mravaiti?
 
-Aēm [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), paiti 22 vī-dāiti uta 1,972 martiyā, vindat yaϑa vərəzyā nōit aēva-dātō, kamnəm, vī-baxštō-ca paiti gātu vā vərəz-kərəitīm. Nōit vindat aγam martiyāi yim pāhi. Mā vaēdayāmahi parō-marətīm yaϑa dāiti rāma-urvāza haxədrō ayaranąm, nōit yaϑa bīšaz-dātō. Frāyō haxədra-vačānə̄e, vaēnaya [communication tips](/caregiving/communication-tips/).
+[Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), yā 22 pərəθu uta 1,972 mashyāka haδa-āhat, vaēda yaθa dātā an-hąm-dātā, kəsu uta tarō asō uta daxštam āhat. Nōit vi-nāθəm vaēda mashyāi yōi ušī-vītarəta. Vaēm paitišmaranam fravayam yaθa rāmō-da, vazra zru haδa kərənayeiti, nōit yaθa baēšaza. Parō hu-hąm-saxvanē, vaēna [communication tips](/caregiving/communication-tips/).

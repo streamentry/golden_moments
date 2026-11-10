@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Dormo e saneso di cerebro: quon explori sugestas"
+seoTitle: "Dormo e dementeso: quon explori sugestas"
+description: "Quon explori sugestas pri dormo e dementeso-risko, pro quo la explori esas frua, e praktikal dormo-habiti por oldi e sorganti."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Kelka longa-tempala studiigas ligas kurta dormo en meza evo kun plu alta risko di dementeso,
+  e laboratoriala explori sugestas ke dormo povas helpar la cerebro forigar rezidui. Ca evidentajo
+  esas ankore frua, e la raporto dil Lancet-komisiono di 2024 ne listigis dormo kom modifikebla
+  risko-faktoro. Reguloza dormo-habiti helpas quale vu sentas vu singladie. Dormo-problemi che
+  personi vivanta kun dementeso esas ofta e valoras esar dicita a mediko.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Studo en Britania, qua sequas cirkume 8 000 personi dum 25 yari, ligis dormar sis hori o min en meza evo kun plu alta dementeso-risko."
+  - "Chanji en dormo povas anke esar frua signo di dementeso, do esas desfacila dicar quo esas kauzo e quo esas efekto."
+  - "Explori pri quale dormo forigas beta-amiloido de la cerebro esas reala ma frua, multa de ol en musi."
+  - "Dormo-apneo esas ofta, traktebla e ligita kun dementeso en studi; lauta ronko e diurna dormemeso valoras esar kontrolita."
+  - "Nultempe komencez, cesez o chanjez dormo-medikamento o dormo-helpo sen mediko."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Ka mala dormo kauzas Alzheimer-morbo?"
+    a: "To ne esis montrita. Kelka studi ligas kurta dormo kun plu alta risko di dementeso, ma la dementeso ipsa trastornas dormo, ofte yari ante diagnozo. La Lancet-komisiono di 2024 judikis l'evidentajo tro nekonstanta por listigar dormo kom modifikebla risko-faktoro."
+  - q: "Quante multa dormo bezonas oldi?"
+    a: "La National Institute on Aging dicas ke oldi bezonas preske same kam altra adulti, 7 til 9 hori singlanokte. Multa oldi kushas su e vekas su plu frue kam ante, to esas ofta."
+  - q: "Pro quo persono vivanta kun dementeso povas dormar dumdio e vekar nokte?"
+    a: "Dementeso povas afektar la korpo-horlojo, do la tempi di dormo e vekeso mixesas. Doloro, enoyo, hungro o efiki di medikamenti povas anke havar rolo. Diurna lumo, omnadia aktiveso e kalma vespera rutino povas helpar. Mediko povas serchar kauzi qui povas esar traktata."
+  - q: "Ka me devas donar dormo-helpo a la persono quan me sorgas?"
+    a: "Parolez unesme kun lua mediko, anke pri produkti komprebla sen recepto. La National Institute on Aging notas ke kelka dormo-medikamenti povas augmentar la risko di kapturno, fali e konfuzo che personi vivanta kun Alzheimer-morbo."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Dormo e saneso di cerebro esas klare ligita, ma quale li esas ligita ankore exploresas. Kelka studi ligas kurta dormo kun plu alta risko di dementeso. Dementeso, sua-vice, ofte trastornas dormo. Ca pagino explikas quon la explori montras e quon ol ne montras, donas praktikal dormo-habiti, e traktas dormo-problemi qui esas ofta che personi vivanta kun dementeso. Ol ne donas konsili pri dormo-medikamenti; ta konverso apartenas a mediko.
 
-## Is poor sleep linked with dementia?
+## Ka mala dormo esas ligita kun dementeso?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Kelka longa-tempala studi ligas kurta dormo kun plu alta risko di dementeso, ma l'evidentajo ne esas definitiva.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Studo en Britania dum 25 yari.** Exploristi sequas cirkume 8 000 adulti en la [studo Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Personi qui dormis sis hori o min ye evo di 50 o 60 yari havis plu alta risko di dementeso pose kam ti qui dormis sep hori. Personi qui dormis sis hori o min ye 50, 60 e 70 yari havis cirkume 30% plu alta risko kam ti qui reguloze dormis sep hori. To esis observala studo, do ol montras ligo, ne kauzo.
+- **La vidpunto dil Lancet-komisiono.** La [Lancet-komisiono di 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ne adjuntis dormo a sua listo di 14 modifikebla risko-faktori. Ol judikis l'evidentajo tro nekonstanta. Un kauzo esas la «inversa kauzeso»: chanji en la cerebro pro dementeso komencas yari ante diagnozo e povas trastornar dormo. En un granda studo, ligo inter longa dormo e dementeso desaparis kande la unesma kin yari di sequado esis formetita.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Do kurta nokto foye ne esas motivo por suciar. Reguloza dormo di bona qualeso valoras esar vizita, pro ke ol helpas humoro, alerteso e sekureso hodie.
 
-## What is the "brain-clearing" sleep research?
+## Quo esas l'exploro pri «cerebro-netigo» dum dormo?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Vu forsan lektis ke dormo «netigas» la cerebro. Ta ideo venas de reala explori, ma ol esas frua.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Che musi.** Studo de 2013 [deskriptita da NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) trovis ke la spaco inter cerebro-celuli grandijis cirkume 60% kande musi dormis. Fluido fluas plu facile tra la cerebro, tra to quon exploristi nomizas la glimfatika sistemo. Beta-amiloido, proteino ligita kun Alzheimer-morbo, forigesis plu rapide de la cerebro di dormanta musi.
+- **Che homi.** Mikra [studo de 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) skanis 20 sana adulti di 22 til 72 yari pos normala nokto e pos nokto sen dormo. Pos la nokto sen dormo, signalo di cerebro-skano por beta-amiloido augmentis cirkume 5% en areo qua inkluzas la hipokampo, regiono importanta por memorado. L'autori nomizis to frua evidentajo. Li ne savis kad la chanjo desaparas pos repozo, o kad ol reflektas plu lenta forigo o plu multa produkto di amiloido.
+- **Ol funcionas ambe-direkte.** La Lancet-komisiono notas ke akumulo di amiloido ipsa povas trastornar dormo che oldi.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Ca trovajis helpas explikar pro quo exploristi interesesas pri dormo. Li ne montras ke plu bona dormo preventas Alzheimer-morbo.
 
-## What sleep habits may help?
+## Quala dormo-habiti povas helpar?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Oldi bezonas cirkume 7 til 9 hori di dormo singlanokte, same kam altra adulti, segun la [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Lua sugesti inkluzas:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Konservez reguloza horaro.** Kushez e vekez su ye la sama horo omnadie, mem dum seman-fini.
+- **Kreez kalmigo-rutino.** Lektez, askultez quieta muziko o prenez varma banyo ante dormar.
+- **Facez la dormo-chambro komfortoza,** ne tro varma nek tro kolda.
+- **Limitez kafeino tardedie.** Kafeo, teo, gasoza drinkaji e choklado povas impedar dormo.
+- **Evitez alkoholo,** mem mikra quanti, konsilas NIA.
+- **Evitez granda manjaji dum du til tri hori ante kushar,** e granda drinkaji tardedie.
+- **Exercez vu reguloze, ma ne dum 3 hori ante kushar.** Videz nia [guidilo pri exerco](/brain-health/exercise/).
+- **Tenez ekrani exter la dormo-chambro.** NIA sugestas ne spektar televiziono o uzar komputero, telefonilo o tableto ibe.
+- **Evitez siesto tardeposdimeze o vespere** se vu povas.
 
-## Sleep problems in dementia
+## Dormo-problemi che personi vivanta kun dementeso
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Chanji en dormo esas ofta che personi vivanta kun dementeso. La [NIA listas](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) dormar tro multe o tro poke, vekar multafoye nokte, e siestar multe dumdio. Ol anke deskriptas vespera agiteso: senquieteso, agiteso o konfuzo qua komencas o plu forteskas kande la diurna lumo fadas.
 
-Caregiver tips from the NIA include:
+Konsili di NIA por sorganti inkluzas:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Recevez diurna lumo e movado frue.** Irez exter o sidez proxime a fenestro dum la dio, e helpez la persono esar aktiva omnadie. Hela lumo povas helpar reajustar la korpo-horlojo.
+2. **Planizez plu aktiva agadi por la matino.** Probez banyar la persono matine o manjigar la maxim granda manjajo mezdia.
+3. **Tenez siesti kurta e frua.** Limitez dormetar tardedie.
+4. **Facez la vespero kalma.** Diminutez la lumi, diminutez bruiso e pleez quieta muziko se la persono prizas ol. Nia guidilo pri [tarda-dia senquieteso](/caregiving/late-day-restlessness/) havas plu multa idei.
+5. **Konservez stabila vespera rutino.** Lektar laute ye la sama horo singlanokte esas un exemplo de NIA. [Stabila omnadia rutino](/activities/daily-routine/) anke helpas.
+6. **Limitez kafeino e alkoholo.**
+7. **Uzez nokto-lumili** en la dormo-chambro, koridoro e banyo-chambro.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Por nokta vekeso, la [konsili di NIA pri sekureso che hemo](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) inkluzas nokto-lumili o automatala lumo-sensili, tenili en la banyo-chambro, hele kolorizita bendo sur la bordi di eskaleri, e medikamenti konservita en serurizita loko.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Kurta, quieta aktiveso vespere povas helpar vu ambe kalmijar. Probez lenta pauzo kun [Calm Breathing](/games/calm-breathing/) o kelka quieta [Conversation Cards](/games/conversation-cards/). Evitez irgo stimulanta proxime a kush-horo, e cesez kande la persono havas sat multa.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Interuptita dormo anke lacigas sorganti. Nia [guidilo pri su sorgar por sorganti](/caregiving/caregiver-self-care/) traktas manieri por recevar repozo e helpo.
 
-## What about sleep apnea?
+## E pri dormo-apneo?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Dormo-apneo kauzas kurta pauzi en spirado dum dormo, ofte multfoye singlanokte. NIA dicas ke se ol ne traktesas, ol povas duktar a problemi quale alta sango-preso, apoplexio o memor-perdo. Signi inkluzas lauta ronko e sentar su dormema dumdio, e multa personi ne savas ke li havas ol. La Lancet-komisiono deskriptas revuo di 11 studi en qui personi kun dormo-apneo havis cirkume 43% plu alta risko di dementeso. Malmulte de ta studi konsideris pezo, do la ligo esas necerta.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Dormo-apneo povas esar diagnozita e traktata. NIA notas ke mashino CPAP preske sempre helpas. Se vu o la persono quan vu sorgas ronkas laute, cesas spirar dum dormo, o esas tre dormema dumdio, dicez to a mediko.
 
-## A note about sleep medicines
+## Noto pri dormo-medikamenti
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Ni ne donas konsili pri dormo-medikamenti o suplementi. NIA notas ke dormo-medikamenti povas helpar dum kurta tempo ma ne esas remedio por insomnio. Ol anke notas ke kelka medikamenti donita por helpar personi vivanta kun Alzheimer-morbo dormar povas augmentar la risko di kapturno, fali e konfuzo. Ne komencez, cesez o chanjez irga dormo-medikamento, inkluzite dormo-helpi komprebla sen recepto, sen parolar kun mediko o farmaciisto.
 
-## Talk with a doctor
+## Parolez kun mediko
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Videz mediko se vu o la persono quan vu sorgas esas sempre lacita, havas desfacileso dormar maximparto di nokti, ronkas laute, o havas pauzi en spirado nokte. Se dormo-problemi che persono vivanta kun dementeso duras, la [NIA konsilas](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) serchar medikal konsilo. Medikal kontrolo povas trovar kauzi quale doloro, altra dormo-trastorno, maladeso o efiko di medikamento. Subita konfuzo, o subita chanjo en dormo kune kun konfuzo, bezonas urjanta sorgo. Lektez [kande vidar mediko](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ca pagino esas generala informo, ne medikal konsilo. Videz nia [medikal declaro](/medical-disclaimer/).

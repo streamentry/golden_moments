@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Aktivaĵoj por malfrua demenco, eĉ en lito aŭ seĝo"
+seoTitle: "Malfrua demenco: ideoj por lito kaj seĝo"
+description: "Mildaj aktivaĵoj por malfrua demenco, ankaŭ por iu en lito aŭ seĝo: muziko, tuŝo, laŭtlegado, sonoj kaj simpla estado kune, kun sekurecaj notoj."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  En malfrua demenco, aktivaĵoj centriĝas sur la sentoj kaj sur via ĉeesto:
+  ludi plej ŝatatan muzikon, teni manojn, malrapida manmasaĝo, laŭtlegado,
+  rigardi fotojn, naturajn sonojn kaj sidi apud fenestro aŭ ekstere. Ĉi tiuj
+  funkcias en lito aŭ seĝo. Tenu renkontiĝojn mallongaj, observu vizaĝojn kaj
+  manojn por komforto, kaj memoru, ke la simpla ĉeesto mem estas aktivaĵo.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Ligo ankoraŭ eblas. En la malfrua stadio, la mondo estas spertata ĉefe per la sentoj."
+  - "Muziko, milda tuŝo, konataj voĉoj kaj molaj aferoj por teni ofte atingas homojn, kiam vortoj jam ne sufiĉas."
+  - "Preskaŭ ĉiu ideo ĉi tie funkcias por iu en lito aŭ seĝo."
+  - "Observu signojn de komforto kaj malkomforto en la vizaĝo, manoj kaj spirado, kaj ĉesu ĉe ajna signo de sufero."
+  - "Evitu malgrandajn objektojn kaj proponu manĝaĵon aŭ trinkaĵon nur laŭ la konsilo de la zorga teamo, ĉar glutado povas fariĝi nesekura."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Kiujn aktivaĵojn vi povas fari kun iu kun malfrua demenco, kiu estas en lito?"
+    a: "Ludu lian aŭ ŝian plej ŝatatan muzikon, tenu lian aŭ ŝian manon, faru malrapidan manmasaĝon per lotiono, legu laŭte el libro aŭ preĝo, kiun la persono amas, montru fotojn aŭ ludu mildajn naturajn sonojn. Malfermu la kurtenojn, por ke la persono povu vidi eksteren. Mallongaj, trankvilaj momentoj kun unu afero samtempe kutime funkcias plej bone."
+  - q: "Ĉu homoj kun malfrua demenco ankoraŭ povas ĝui muzikon?"
+    a: "Multaj povas. La Alzheimer's Association rimarkas, ke eĉ en la malfrua stadio homo povas frapeti ritmon aŭ kunkanti kanton el infanaĝo. Elektu muzikon, kiun la persono amis en pli junaj jaroj, kaj tenu la laŭtecon mallaŭta."
+  - q: "Kiel mi scias, ĉu la persono ĝuas aktivaĵon?"
+    a: "Observu etajn signojn: malstreĉitajn ŝultrojn, pli mildan vizaĝon, okulkontakton, zumadon, manpremon aŭ pli malrapidan spiradon. Grimaco, fortiriĝo, maltrankvilo aŭ ĝemado povas signifi malkomforton aŭ doloron. Se vi vidas tion, ĉesu kaj diru al la zorga teamo, se tio daŭras."
+  - q: "Ĉu valoras viziti, se la persono jam ne rekonas min?"
+    a: "Jes. La National Institute on Aging rimarkas, ke simpla ĉeesto povas trankviligi, kaj ke tuŝo, muziko kaj rakontoj ankoraŭ povas doni komforton en progresinta demenco. Via voĉo kaj tuŝo povas esti konataj, eĉ kiam via nomo ne estas."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+En la malfrua stadio de demenco, homo povas paroli tre malmulte, bezoni helpon pri la tuta ĉiutaga zorgado kaj pasigi grandan parton de la tago en lito aŭ seĝo. Povas ŝajni, ke ne restas io por fari kune. Restas. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) rimarkas, ke iu kerno de la memo de la persono povas resti, kaj ke en ĉi tiu stadio la mondo estas spertata ĉefe per la sentoj. Muziko, tuŝo, konata voĉo kaj via trankvila ĉeesto ankoraŭ povas alporti komforton kaj momentojn de ligo.
 
-## What activities help in late-stage dementia?
+## Kiuj aktivaĵoj helpas en malfrua demenco?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Simplaj sentaj aktivaĵoj kaj trankvila ĉeesto plej helpas en la malfrua stadio. La Alzheimer's Association sugestas ludi plej ŝatatan muzikon, legi partojn de signifoplenaj libroj, froteti lotionon kun ŝatata odoro sur la haŭton kaj sidi kune ekstere en agrabla tago. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) aldonas rakontadon, montradon de fotoj, mildan tuŝon aŭ masaĝon, kaj muzikon, blankan bruon aŭ naturajn sonojn, kaj diras, ke via ĉeesto sola povas trankviligi.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) rimarkas, ke homoj en la malfrua stadio ofte havas fortan bezonon teni ion proksime por komforto, kaj sugestas simplajn sentajn aktivaĵojn, mildajn streĉojn, movadon per koltuko, muzikon, vizitojn de bestoj, homan tuŝon kaj liberforman arton.
 
-## Activities for someone in bed or a chair
+## Aktivaĵoj por iu en lito aŭ seĝo
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Ludu lian aŭ ŝian muzikon.** Elektu kantojn el la jaroj de juna plenkreskeco, el la kredo aŭ el la familio de la persono. Tenu la laŭtecon mallaŭta kaj sidu proksime. Eĉ nun, iuj homoj frapetas fingron aŭ zumas. Vidu [muzikajn aktivaĵojn](/activities/music/).
+2. **Tenu manojn.** Nur teni manon, kun milda strokado per la dikfingro, estas aktivaĵo. Diru antaŭe, kion vi faras.
+3. **Faru malrapidan manmasaĝon.** Varmigu iom da lotiono en viaj manplatoj kaj strokadu de la pojno al la fingropintoj. Elektu senodoran lotionon, aŭ odoron, kiun la persono ĉiam amis, se la haŭto ĝin toleras.
+4. **Legu laŭte.** Plej ŝatatan poemon, parton el amata libro, sanktan tekston aŭ la sportan paĝon. La ritmo de via voĉo pli gravas ol la vortoj.
+5. **Rakontu historion.** Parolu pri familia vojaĝo aŭ pri la tago, kiam la persono edziĝis. Vi ne bezonas respondojn.
+6. **Montru fotojn.** Tenu po unu grandan foton samtempe je okulnivelo kaj priskribu ĝin varme. Evitu demandi, kiu estas sur ĝi.
+7. **Proponu ion molan por teni.** Falditan lavtukon, felcan kvadraton aŭ molan besteton. La NIA sugestas doni al la persono lavtukon por teni dum movado, por ke la persono malpli verŝajne ekkaptu vin aŭ la meblojn.
+8. **Ludu naturajn sonojn.** Pluvo, ondoj aŭ birdokantoj je malalta laŭteco povas mildigi brueman ĉambron.
+9. **Alportu la eksteron enen.** Malfermu la kurtenojn, metu birdomanĝejon ekster la fenestro, aŭ enportu kelkajn freŝajn florojn aŭ foliojn por rigardi kaj tuŝi.
+10. **Iru eksteren.** Se la persono povas sidi en rulseĝo, kelkaj minutoj en ombro dum milda tago povas esti agrablaj.
+11. **Brosu liajn aŭ ŝiajn harojn aŭ proponu varman tukon.** Malrapida, milda prizorgado kaj varma lavtuko por manoj kaj vizaĝo povas sentiĝi karese.
+12. **Moviĝu milde kun muziko.** Svingu kune malpezan koltukon, aŭ svingu manojn laŭ la ritmo de kanto. Por streĉoj kaj movado de artikoj, petu fizioterapiiston aŭ flegiston montri al vi sekurajn manierojn unue.
+13. **Faru liberforman arton.** Etendu netoksan farbon sur grandan paperon per spongo aŭ mano, gvidata de via mano. Ne ekzistas ĝusta rezulto.
+14. **Bonvenigu vizitojn de bestoj.** Trankvilan hejmbeston sur la lito aŭ sur la genuoj, se la persono ĝuis bestojn kaj la loko tion permesas.
+15. **Spiru malrapide kune.** Sidu proksime kaj spiru malrapide kaj aŭdeble. [Trankvila spirado](/games/calm-breathing/) povas doni ritmon al vi ambaŭ, kaj vi mem ekigas kaj ĉesigas ĝin.
+16. **Simple estu tie.** Sidu proksime, zumu, triku aŭ legu trankvile. La ĉeesto sufiĉas.
 
-## How to share an activity at this stage
+## Kiel dividi aktivaĵon en ĉi tiu stadio
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Alproksimiĝu de antaŭe.** Diru lian aŭ ŝian nomon kaj vian nomon, kaj parolu malrapide kaj mallaŭte antaŭ ol vi tuŝas.
+- **Proponu unu aferon samtempe.** Malŝaltu la televidilon antaŭ ol ludi muzikon. Faru unu senton samtempe.
+- **Tenu ĝin mallonga.** Kelkaj minutoj povas sufiĉi. Pluraj mallongaj momentoj dum la tago estas pli bonaj ol unu longa renkontiĝo.
+- **Unue certigu komforton.** Kontrolu, ke la persono estas bone subtenata. La NIA sugestas surtabulon por ripozigi la brakojn kaj subteni la supran korpon dum sidado.
+- **Observu la reagon.** Malstreĉitaj manoj, pli milda vizaĝo, okulkontakto aŭ zumado sugestas komforton. La NIA rimarkas, ke ĝemoj, grimaco, protekto de parto de la korpo aŭ subita maltrankvilo povas esti signoj de doloro. Ĉesu kaj diru al la zorga teamo.
 
-## A quick guide by sense
+## Rapida gvido laŭ sento
 
-| Sense | Ideas | Take care |
+| Sento | Ideoj | Atentu |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Aŭdo | Plej ŝatata muziko, via voĉo dum legado, naturaj sonoj | Tenu la laŭtecon malalta; unu sono samtempe |
+| Tuŝo | Manmasaĝo, tenado de manoj, mola ŝtofo, varma tuko | Petu aŭ anoncu antaŭe; kontrolu, ke la haŭto ne estas dolora aŭ vundita |
+| Vido | Fotoj, floroj, la vido el fenestro, malrapida naturfilmeto | Tenu aferojn je okulnivelo; bona lumo, sen brilo |
+| Flaro | Plej ŝatata lotiono, freŝaj floroj, proksime preparata kafo | Evitu fortajn odorojn; kontrolu alergiojn kaj spiradon |
+| Gusto | Malgranda gusto de plej ŝatata gusto | Nur manĝaĵoj kaj teksturoj, kiujn la zorga teamo diras sekuraj |
 
-## Safety at this stage
+## Sekureco en ĉi tiu stadio
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Glutado povas fariĝi malfacila en la malfrua stadio, kaj la NIA avertas, ke tio pliigas la riskon de sufokiĝo. Ne lasu malgrandajn objektojn atingeblaj, kaj proponu manĝaĵon aŭ trinkaĵon nur en la teksturoj kaj pozicioj, kiujn la zorga teamo rekomendas. Kontrolu la haŭton milde dum tuŝaj aktivaĵoj, ĉar haŭto povas facile ŝiriĝi aŭ ekchimi. Por pli pri sekuraj sentaj ideoj, vidu [sentajn aktivaĵojn](/activities/sensory/).
 
-## Looking after yourself too
+## Zorgu ankaŭ pri vi mem
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Zorgado en la malfrua stadio estas fizike kaj emocie postulema, ĉu hejme aŭ dum vizitoj al zorghejmo. Hospicaj kaj paliativaj zorgteamoj povas helpi pri komforto, subteno kaj planado, kaj la NIA listigas ilin kiel fonton de helpo. Mallongaj, trankvilaj vizitoj valoras; vidu [viziti iun kun demenco](/activities/visiting/). Se vi gvidas grupojn, [grupaj aktivaĵoj en zorghejmo](/activities/care-home-groups/) havas ideojn por adapti renkontiĝojn. Kaj bonvolu legi [memzorgon por zorgantoj](/caregiving/caregiver-self-care/): ripozo estas parto de bona zorgado.

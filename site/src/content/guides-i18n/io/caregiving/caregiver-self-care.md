@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Sui-sorgo por sorganti: Repozo, suporto e signi di elaceso"
+seoTitle: "Sui-sorgo por sorganti di demenso: repozo e suporto"
+description: "Signi di elaceso di sorganti, quale trovar repozo e suport-grupi, e gratuita helpo-linei en Usa, inkluzante la 24/7 Helpo-lineo di Alzheimer’s Association e Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
+  Sorgar persono vivanta kun demenso esas desfacila, e sorgar su ipsa esas
+  parto dil tasko. Atencez averti-signi quale fatigo, iritableso, mala dormo e
+  retiro de amiki. Pregez pri specifika helpo, uzez repozo-sorgo, e partoprenez
+  suport-grupo. Gratuita helpo en Usa inkluzas la 24/7 Helpo-lineo di
+  Alzheimer’s Association ye 1-800-272-3900 e Eldercare Locator ye
   1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Elaceso ofte montras su kom fatigo, iritableso, mala dormo, tristeso e neglijar sua propra saneso-sorgo."
+  - "Repozo-sorgo donas a vu pauzo, de kelka hori til plura semani, heme o en sorgo-loko."
+  - "Pregez pri helpo por specifika taski; multa personi volas helpar ma ne savas quale."
+  - "La 24/7 Helpo-lineo di Alzheimer’s Association (1-800-272-3900) ofras gratuita, konfidencala suporto irgatempe."
+  - "Eldercare Locator (1-800-677-1116) konektas vu a lokala servi, inkluzante vua Area Agency on Aging."
+  - "Se vu sentas su en krizo, telefonez o textez 988. En urjanta stando, telefonez vua lokala urjanta numero."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Quala esas la signi di elaceso di sorganti?"
+    a: "Ofta signi inkluzas sentar su fatigita, tro charjata o ancioza, facile iracar o divenar senpacienta, havar desfacileso por dormar, sentar su trista o sen espero, retirar su de amiki, ofta kap-dolori o altra dolori, e omisar sua propra manjaji, exercizo o medikal sorgo. Se tala signi eventas reguloze, parolez kun vua mediko."
+  - q: "Quale me povas trovar repozo-sorgo proxim me?"
+    a: "Komencez kun Eldercare Locator (1-800-677-1116 o eldercare.acl.gov) por kontaktar vua lokala Area Agency on Aging, la ARCH National Respite Locator Service, o la Helpo-lineo di Alzheimer’s Association ye 1-800-272-3900. Familio, amiki e voluntarii anke povas donar repozo-sorgo."
+  - q: "Ka Medicare pagas por repozo-sorgo?"
+    a: "Por persono receventa hospice-sorgo, Medicare kovras la maxim parto dil kusto di til kin sinsekvanta dii di repozo-sorgo en hospitalo o habila flegado-instuto, segun la National Institute on Aging. La maxim multa privata saneso-asekuro ne kovras repozo-sorgo; Medicaid e kelka asekuro-plani por longa-duranta sorgo povas helpar."
+  - q: "Ka la Helpo-lineo di Alzheimer’s Association vere esas gratuita e disponebla nokte?"
+    a: "Yes. Alzheimer’s Association dicas ke lua Helpo-lineo ye 1-800-272-3900 esas gratuita, konfidencala e disponebla omnatempe, 365 dii omnayare, kun helpo disponebla en multa lingui. Turnez 711 por releo-servo."
+  - q: "Ka esas egoista prenar pauzo de sorgado?"
+    a: "No. Repozo helpas vu durar sorgar, e repozo-sorgo povas anke donar a la persono quan vu sorgas chanjita kompaneso ed aktiveso. Multe sorganti pose dicas ke li deziras havar pregita pri helpo plu frue."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Se vu sorgas persono vivanta kun demenso, vu probable lektas to tarde, fatigita, e kun listo di kozi quin vu ankore ne facis. To esas normala. Sorgar su ipsa ne esas luxo o rekompenso pro finar omno. To esas to quo helpas vu durar.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ica pagino traktas la averti-signi di elaceso, quale obtenar vera pauzo, ube trovar suporto, e gratuita helpo-linei en Usa quin vu povas telefonar cadie.
 
-## What are the signs of caregiver burnout?
+## Quala esas la signi di elaceso di sorganti?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Elaceso ofte venas lente, do esas utila konocar sua propra averti-signi. La [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) listas signi di streso di sorganti, inkluzante:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- sentar su fatigita, tro charjata o ancioza;
+- facile iracar o divenar senpacienta;
+- sentar su sola o deskonektita de altri;
+- havar desfacileso por dormar, o ne dormar sat multe;
+- sentar su trista o sen espero, o perdar intereso pri kozi quin vu ante prizis;
+- ofta kap-dolori, dolori o altra fizikala problemi;
+- ne havar tempo por exercar su o preparar sanesoza manjajo por su ipsa;
+- omisar duchar su o altra personala sorgo;
+- misuzar alkoholo o drogi, inkluzante preskriptita medikamenti.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+La [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adjuntas signi quale neado pri la malsano, iraco kontre la persono ("ilu simple esas obstinanta"), ancieso pri la futuro, desfacileso por koncentrezar su, e saneso-problemi qua pezigas. Ol konsilas parolar kun vua mediko se vu havas tala signi reguloze.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+La konsilo di NIA esas ne vartar til vu esas tote elacesita. Rimarkez vua signi frue e agez.
 
-## What can I do today, in five minutes?
+## Quo me povas facar cadie, en kin minuti?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Mikra pauzi importas. Nula ek ici korektigas elaceso, ma li povas helpar vu tra desfacila posdimezo.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Irez extere.** Sidez sur la verando o marchez til la posto-buxo dum ke la persono esas sekura e trankila.
+- **Respirez lente.** Kelka lenta respiri ante respondar desfacila questiono. Vu anke povas partoprenar pauzo di [Trankila Respiro](/games/calm-breathing/) kun la persono quan vu sorgas.
+- **Drinkez aquo e manjez ulo.** Esas facile obliviaz sua propra manjaji.
+- **Textez a un amiko.** Ne por pregar pri irgo, simple por konektar.
+- **Dicez ulo afabla a vu ipsa.** La [guidilo di NIA pri sorgar su ipsa](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) sugestas frazi quale "Me facas la maxim bone quan me povas," "Me ne esas perfekta, e to esas aceptabla," e "Me joyos la momenti kande ni povas esar kune en paco."
 
-## What is respite care, and how do I get it?
+## Quo esas repozo-sorgo, e quale me obtenas ol?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Repozo-sorgo esas kurta-duranta sorgo por la persono quan vu sorgas, por ke vu povez repozar. La [pagino di NIA pri repozo-sorgo](https://www.nia.nih.gov/health/caregiving/what-respite-care) explikas ke ol povas durar de kelka hori til plura semani e povas eventar heme, en saneso-sorgo-instuto o en dio-sorgo-centro por adulti.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+La [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) deskriptas ofta tipi:
 
-| Type | What it is |
+| Tipo | Quo ol esas |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Hemo-helpo | Amiko, parento, voluntario o pagita kompaniano o helpanto venas a la hemo |
+| Dio-sorgo-centro por adulti | Planita aktivesi quale muziko ed arto en sekura grupo; transporto e manjaji ofte esas ofertata |
+| Nokto-stayo o kurta stayo | Komuneso por longa-duranta sorgo sorgas la persono dum un nokto, kelka dii o kelka semani |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Qua pagas?** Segun NIA, repozo-sorgo da familio, amiki o voluntarii povas kustar nulo. Profesionala servi pagasas segun horo o dio. Por persono receventa hospice-sorgo, Medicare kovras la maxim parto dil kusto di til kin sinsekvanta dii di repozo-sorgo en hospitalo o habila flegado-instuto. Medicaid povas helpar. La maxim multa privata saneso-asekuro ne kovras repozo-sorgo, ma kelka asekuro-plani por longa-duranta sorgo povas facar to.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Konsilo:** Alzheimer’s Association sugestas probar repozo-sorgo-furnisanti en ne-urjanta stando, por ke li esos pronta se vu subite bezonos helpo.
 
-## Where can I find help near me?
+## Ube me povas trovar helpo proxim me?
 
-Several free US services can point you to local help.
+Plura gratuita servi en Usa povas guidar vu a lokala helpo.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **24/7 Helpo-lineo di Alzheimer’s Association: 1-800-272-3900.** La [Helpo-lineo](https://www.alz.org/help-support/resources/helpline) esas gratuita e konfidencala, disponebla omnatempe omnadie dil yaro, kun helpo en plu kam 200 lingui per dulinguala laboristi o interpretisti. Turnez 711 por releo-servo. Vu povas parolar pri chanji en konduto, streso di sorganti, repozo-sorgo-posiblesi, lokala programi e plu, e demandez plu longa konverso kun sorgo-konsultanto. La laboristi ne donas medikal konsili.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), publika servo di Administration for Community Living, konektas vu a servi por olda adulti e lia familii. Vu povas telefonar, textar, conversar enreta o sendar e-posto a edukita laboristi, o serchar segun loko. Ol povas guidar vu a vua lokala Area Agency on Aging.
+- **ARCH National Respite Locator Service.** La [serchado di repozo-sorgo di ARCH](https://archrespite.org/caregiver-resources/respitelocator/) helpas vu trovar repozo-sorgo-furnisanti segun stato, e sugestas kontaktar vua State Respite Coalition o Lifespan Respite programo unesme se vua stato havas un ek li. ARCH notas ke ol ne kontrolas furnisanti, do vu ipsa devas revizar lia experienco e fondo.
 
-## How do I find a support group?
+## Quale me povas trovar suport-grupo?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Pregez la Helpo-lineo o serchez enreta por grupi proxim vu. Alzheimer’s Association [organizas suport-grupi](https://www.alz.org/help-support/community/support-groups) por sorganti e personi vivanta kun demenso, persone e enreta, guidata da edukita facilitanti. Multa loki anke ofras specaligita grupi, exemple por adulta sorganti o por personi vivanta kun Alzheimer di plu yuna komenco o frua stadio. Ol anke gastigas ALZConnected, gratuita enreta komuneso ube sorganti partigas konsili.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Suport-grupi povas esar loko por parolar libere sen judiko, obtenar praktikal konsili de personi qui ja experientis to, e sentar su min sola. Se la unesma grupo ne konvenas, probez altra.
 
-## How do I ask family and friends for help?
+## Quale me povas pregar familio ed amiki pri helpo?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Esar specifika. Multe personi volas helpar ma ne savas quo ofrar. NIA sugestas:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Tenez listo** di taski quin altri povus prenar, e lasez li selektar.
+- **Komencez per ulo mikra** se pregado semblas desfacila.
+- **Ajustez la tasko a la persono.** La kuzino qua prizas koquar adportas dineo ye jovdio. La vicino qua esas bona pri formulari helpas pri dokumenti.
+- **Textez o sendez e-posto** se pregado vizaje a vizajo esas nekomfortoza.
+- **Exercez respondo** por kande ulu ofras: "Danko por preguntar. Yen quo vu povas facar."
+- **Expektez kelka refuzi** e probez ne prenar li persone.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Altra idei: pregez ulu restar kun la persono dum un posdimezo singla-semane, irar kun lu a kurta exiro, o vizitar e ludar ludo kune. Nia [guidilo pri ludar kune](/caregiving/how-to-play-together/) esas facile por partigar kun vizitanti.
 
-## What if something happened to me?
+## Quo se ulo eventus a me?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Facez simpla rezerva plano nun. NIA sugestas decidar kun familio o proxima amiki qua remplasus vu, e tenar not-libro kun urjanta telefoni-numeri, medikamenti, konsili pri konduto qui helpas, e preferata aktivesi. Alzheimer’s Association anke rekomendas ke la medikal kontakti di la persono ed aktualigita listo di medikamenti esez facile trovebla.
 
-## When should I get professional or urgent help?
+## Kande me devas serchar profesionala o urjanta helpo?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Parolez kun vua mediko se signi di streso esas reguloza, se vu sentas su depresita, o se vu havas desfacileso por duktar to. Dicez a vua mediko ke vu esas sorganto. NIA notas ke konsilisti e sociala laboristi povas helpar pri desfacila sentimenti e planado, e ke Medicare, Medicaid e kelka privata saneso-asekuro povas kovrar kelka kusti di mentala saneso.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Se vu sentas su en krizo o havas pensi pri su-nocizar, telefonez o textez 988 por kontaktar la [988 Suicide & Crisis Lifeline](https://988lifeline.org/), gratuita e disponebla 24/7. Se ulu esas en quik danjero, telefonez vua lokala urjanta numero.
 
-## Can shared activities give me a break too?
+## Ka partigita aktivesi povas anke donar a me pauzo?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Kelkafoye. Trankila aktiveso quan vu amba prizas povas esar plu dolca parto dil dio por vu ed anke por la persono quan vu sorgas: askultar anciena kansoni, regardar fotografuri, o ludo quale [Konverso-Karti](/games/conversation-cards/) qua ne bezonas justa respondi. Se la persono prizas kompaneso, grupo-sesiono kun [Imajo-Bingo](/games/picture-bingo/) en centro por oldi o dio-programo por adulti povas donar a vu un horo di repozo. Videz [aktivesi por grupi en sorgo-hemi](/activities/care-home-groups/) por idei.

@@ -1,32 +1,28 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "डिमेंशिया वाला पुरुष लोगन खातिर गतिविधि"
+seoTitle: "डिमेंशिया वाला पुरुष लोगन खातिर गतिविधि: असल जिनगी के विचार"
+description: "डिमेंशिया के साथ जीयत पुरुष लोगन खातिर गतिविधि के विचार, जवन उनकर पुरान काम, शौक आ दिनचर्या पर आधारित बा, साथे हर गतिविधि के सुरक्षित ढंग से अपनावे के सुझाव."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  डिमेंशिया के साथ जीयत कउनो पुरुष खातिर सबले बढ़िया गतिविधि उनही के जिनगी से निकलेला: उनकर काम, उनकर पसंद के शौक आ उनकर रोज के दिनचर्या। कउनो दफ्तर के बाबू के कागज छाँटे में मन लाग सकेला, कउनो मिस्त्री के साफ औजार सँभारे में, आ कउनो खेल-प्रेमी के पुरान खेल देखे में। हर आदमी के पसंद अलग होला, एहसे शुरुआत उनकर मरद होखे के आधार पर ना, उनही से करीं।
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "शुरुआत उनही के इतिहास से करीं: उनकर काम, उनकर शौक, उनकर दिनचर्या आ जवन बात पर उनके गर्व रहल।"
+  - "असली काम वाला काम, जइसे पेंच-कील छाँटल, गाड़ी धोवल या लकड़ी घिसल, अक्सर उन्हका ज्यादा भावेला, बनिस्बत ओह काम के जवन कक्षा जइसन लागे।"
+  - "हर पुरुष के औजार या खेल पसंद ना होला। बहुत लोग खाना बनावल, संगीत, बागवानी, कला या दूसरा के देखभाल में मन लगावेला। पूछीं, देखीं आ उनका मन के पीछे चलीं।"
+  - "काम वाला गतिविधि सुरक्षित बनावे खातिर तेज औजार हटाईं आ साथ रहीं, आ उनकर क्षमता घटे त काम सरल करत जाईं।"
+  - "ना कहल ठीक बा। भूमिका दीं, जबरदस्ती काम ना। बाद में कउनो दिन फेर कोसिस करीं।"
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "डिमेंशिया वाला पुरुष लोगन के कउन गतिविधि भावेला?"
+    a: "कउनो एक सूची नइखे, काहे कि पुरुष लोगन के पसंद भी दोसरा लोग जइसन ही अलग-अलग होला। अच्छा शुरुआत उनकर पुरान काम से जुड़ल काम से हो सकेला, जइसे कागज सजावल या पेंच-कील छाँटल, आ उनकर मन के शौक जइसे मछरी मारल, गाड़ी, संगीत, खाना बनावल या खेल। जवन काम उ अपने से करत बाड़े, ओही पर आगे बढ़ीं।"
+  - q: "हमार पापा समूह वाला गतिविधि से मना करेलन। हम का करीं?"
+    a: "बहुत लोग, मरद होखे चाहे मेहरारू, उ गतिविधि से मना करेला जवन कक्षा जइसन लागे या बचकाना लागे। काम के प्रस्ताव दीं: \"का रउवा हमरा ई सब छाँटे में मदद क देब?\" छोट समूह या एक-एक करके समय बितावल भी बड़ कमरा से ज्यादा आरामदायक लाग सकेला।"
+  - q: "का उनके औजार चलावे देल सुरक्षित बा?"
+    a: "खाली निगरानी में आ सुरक्षित औजार से। बिजली वाला औजार, धार वाला चीज आ जवन कुछ तेज होखे, सब हटा दीं। लकड़ी के टुकड़ा घिसल, साफ पेंच-कील छाँटल या बड़ पेंच हाथ से कसल जइसन काम दीं। Alzheimer's Association के सुझाव बा कि वर्कशॉप से खतरनाक चीज हटा दिहल जाव, जिससे घिसाई जइसन काम अभियो सुरक्षित ढंग से कइल जा सके।"
+  - q: "उ पेशेवर रहलन। का सरल काम उनके अपमान लाग सकेला?"
+    a: "अगर काम के फालतू बेकार काम के रूप में पेश कइल जाव त लाग सकेला। काम के असली मदद के रूप में बताईं, वयस्क लोग वाला सामान इस्तेमाल करीं, आ उनकर पुरान भूमिका के नगीच कउनो काम चुनीं, जइसे कउनो सूची देखल, फाइल सजावल या चिट्ठी के पैकेट तइयार करे में साथ देल। अगर उ कउनो चीज में बहुत माहिर रहलन, त ओकरा से जुड़ल लेकिन अलग गतिविधि से उनका तुलना वाला भाव कम महसूस हो सकेला।"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +41,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+लोग अक्सर "डिमेंशिया वाला पुरुष लोगन खातिर गतिविधि" खोजेला, काहे कि आम सुझाव उनका पर ठीक नइखे बइठत। ई चिंता जायज बा। बाकी जवाब "मरदाना" गतिविधि के सूची नइखे। जवाब बा कि ई खास आदमी से शुरू कइल जाव: उ का काम करत रहलन, हफ्ता के छुट्टी में का करत रहलन, आ का से उन्हनी के लागे कि उ कामकाजी बाड़न। हर आदमी के पसंद अलग होला। बहुत पुरुष खाना बनावल, बागवानी, चित्रकारी या गाना पसंद करेलन, आ बहुत मेहरारू गाड़ी आ बेसबॉल पसंद करेली।
 
-## How do I find activities he will actually enjoy?
+## उनके सच्चो मन लागे वाली गतिविधि कइसे खोजल जाव?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+उनकर जिनगी के कहानी से शुरू करीं। Alzheimer's Association सुझाव देला कि [दिनचर्या के योजना](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) उनकर पसंद, नापसंद, ताकत आ रुचि के हिसाब से बनावल जाव, आ उ पहिले अपन दिन कइसे सजावत रहलन, ओकरो ध्यान राखल जाव। आपन से ई सवाल पूछीं:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **उनकर काम का रहल?** दफ्तर, खेत, कारखाना, कउनो हुनर, फौज, बिक्री, पढ़ावल, गाड़ी चलावल, चाहे घर-परिवार?
+- **फुरसत में उ का करत रहलन?** मछरी मारल, ताश, काठ के काम, खेल, मंदिर-गुरुद्वारा, संगीत, खाना बनावल, गराज में गाड़ी?
+- **उनकर दिनचर्या कइसन रहे?** सुबह चाय आ अखबार? मौसम देखल? शनिवार के गाड़ी धोवल?
+- **उ अपने से का शुरू करेलन?** Association कहेला कि अगर कउनो आदमी बिना कहले काम शुरू करेला, जइसे झाड़ू लगावल, त ओ काम उनकर दिनचर्या के हिस्सा बन सकेला।
+- **उ का से बचेलन?** कुछ लोग खेल देखल पसंद करेला, कुछ के ओकर रफ्तार आ शोर से परेशानी होला। देखीं कि उ कब खुश, बेचैन या चिड़चिड़ा लागेलन।
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+परिवार आ पुरान दोस्त से भी बात करीं। उन्हनी के उ शौक याद हो सकेला जवन अब रोज के जिनगी से गायब हो गइल बा।
 
-## Activity ideas based on past work
+## पुरान काम पर आधारित गतिविधि के विचार
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association एगो साफ उदाहरण देला: दफ्तर के कउनो पुरान कर्मचारी के सिक्का डिब्बा में रखल, मेल के पैकेट तइयार करे में मदद, या सूची बनावल जइसन काम भा सकेला, जबकि कउनो पुरान किसान या माली के आँगन में काम करे में मन लाग सकेला। ई बात बहुत काम पर लागू होला।
 
-| Past work | Activity ideas | Simpler version |
+| पुरान काम | गतिविधि के विचार | सरल रूप |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| दफ्तर या कारोबार | कागज फाइल में सजावल, लिफाफा पर टिकट लगावल, सूची देखल, टेबल के दराज सजावल | लिफाफा एक पर एक रखल; पेपर क्लिप डिब्बा में डालल |
+| मिस्त्री या मैकेनिक | साफ नट, बोल्ट आ वॉशर छाँटल; बड़ बोल्ट हाथ से कसल; औजार के सूची देखल | आकार के हिसाब से दू कप में छाँटल |
+| खेती या बागवानी | पानी देल, पौधा गमला में लगावल, पत्ता बटोरल, बगइचा देखल | बाहर बइठ के आप काम करीं तब उ देखस; बीज के पैकेट पकड़ावल |
+| फौज | जूता चमकावल, दराज ठीक से लगावल, पुरान सेवा के फोटो देखल, अगर उ पसंद करस | ओ जमाना के गाना सुनावल |
+| बिक्री या ग्राहक सेवा | आवे वाला लोग के स्वागत करल, नाश्ता बाँटल, कूपन छाँटल | दरवाजा के नगीच बइठ के हाल-चाल पूछल |
+| पढ़ावल | जोर से पढ़ल, किताब सजावल, चित्र विषय के हिसाब से छाँटल | साथे चित्र वाला किताब देखल |
+| गाड़ी चलावल या ढुलाई | नक्शा या पुरान गाड़ी के पत्रिका देखल, गाड़ी धोवल | बरामदा से गाड़ी आवत-जात देखल |
+| घर-परिवार | कपड़ा तह करल, खाना के मेज सजावल, रात के खाना में हाथ बटावल | नैपकिन सीधा करल; चम्मच चलावल |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+कुछ याद, जइसे फौज के सेवा, मन में गहिर भावना जगा सकेला। उनकर साथ दीं, पुरान बात सकारात्मक रखीं, आ अगर उ परेशान लागस त धीरे से बात बदल दीं।
 
-## Activity ideas based on hobbies
+## शौक पर आधारित गतिविधि के विचार
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **काठ के काम।** चिकना लकड़ी के टुकड़ा घिसल या चिड़िया के घर के किट पेंट कइल। Alzheimer's Association सुझाव देला कि वर्कशॉप से खतरनाक सामान आ औजार हटा दिहल जाव, जिससे घिसाई जइसन काम मजेदार आ सुरक्षित रहे।
+2. **मछरी मारल।** मछरी मारे वाला डिब्बा छाँटल (हुक हटा के), मछरी मारे वाला पत्रिका देखल, या साथ-साथ तालाब के किनारे बइठल।
+3. **गाड़ी।** गाड़ी धोवल, चमक वाला हिस्सा चमकावल, पुरान गाड़ी के फोटो देखल, या सवारी के रूप में घूमे जाएल।
+4. **खेल।** पुरान खेल या हाइलाइट देखल, नरम गेंद फेंकल, कार्पेट पर गोल्फ बॉल रखल, या बेसबॉल कार्ड छाँटल।
+5. **ताश आ खेल।** जाना-पहचाना ताश के एक-दू हाथ, डोमिनो, या कार्ड पलट के जोड़ी मिलावल। माहौल आराम वाला रखीं आ स्कोर रखल छोड़ दीं।
+6. **संगीत।** उनकर किशोरी आ जवानी के गाना, पसंद के बैंड, या भजन। देखीं [संगीत वाली गतिविधि के गाइड](/activities/music/)।
+7. **खाना आ ग्रिलिंग।** सब्जी धोवल, सॉस चलावल, बर्गर बनावल, या खाना बनावत समय बतावल कि उ अपन मशहूर मिर्चा कइसे बनावत रहलन।
+8. **अखबार।** Alzheimer's Association बतावेला कि जे आदमी हमेशा अखबार पढ़त रहल, उ अभियो ओकरा से खुश हो सकेला, भले उ सब बात पूरा ना समझ पावे। चाय आ अखबार सुबह के हिस्सा बनल रह सकेला।
+9. **बनावट।** वयस्क लोग खातिर बड़ टुकड़ा वाला मॉडल किट या आसान निर्माण सेट। ओह टुकड़ा के चुनीं जवन पकड़े में आसान होखे।
+10. **कउनो चीज के देखभाल।** जानवर के खाना खियावल, चिरई के दाना-पानी देवल, या गमला में पानी देवल। NIA [जानवर के खाना खियावल, नहलावल या घुमावल](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) के उन गतिविधि में गिनावेला जवन लोग के मन लाग सकेला।
 
-## How do I offer an activity without it feeling like busywork?
+## गतिविधि बेकार काम जइसन ना लागे, ई कइसे करीं?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+एकरा असली मदद के रूप में पेश करीं। Alzheimer's Association सुझाव देला कि पूछल जाव, "का रउवा हमार मदद क देब?" आ काम के कउनो मकसद से जोड़ल जाव। ई दू तरह से कहल जा सकेला:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "का रउवा ई नट-बोल्ट छाँट देब?" (ई परीक्षा जइसन लागेला)
+- "हम मिलल-जुलल पेंच-कील ले आइल बानी आ शेल्फ बनावे से पहिले ई छँटाई जरूरी बा। रउवा थोड़ा हाथ बटा देब?" (ई काम जइसन लागेला)
 
-Other tips:
+अउरी सुझाव:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **वयस्क लोग वाला सामान इस्तेमाल करीं।** असली औजार, तेज किनारा हटा के; असली कैटलॉग, असली लिफाफा।
+- **साथ-साथ काम करीं।** दू लोग मिल के काम करे त साथ होखेला। एक आदमी दोसरा के बस देखत रहे त उ निगरानी लागेला।
+- **सुधारल मत करीं।** अगर पेंच गलत कप में चल गइल, त ओकरा छोड़ दीं। असली बात साथ बितावल समय आ उपयोगी होखे के एहसास बा।
+- **शुरू करे में मदद करीं।** Alzheimer's Association बतावेला कि बहुत लोग के अभियो कुछ करे के इच्छा होखेला, बाकी उ काम सजावे आ शुरू करे में मुश्किल पावेलन। पहिला काम साथ मिल के करीं।
 
-## How do I adapt as things change?
+## चीज बदलला पर गतिविधि कइसे अपनाईं?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+जइसे-जइसे डिमेंशिया बढ़ेला, Alzheimer's Association सुझाव देला कि सरल आ दोहराए वाला काम दीं, आ तइयार रहीं कि उ कम सक्रिय भूमिका लेस। जवन आदमी कभी इंजन फिर से बनावत रहलन, उ अब साफ रिंच पकड़ के गाड़ी के बात करे में, या आप के काम देखे में मन लगा सकेलन। देखल भी हिस्सा लेवल ह।
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+अगर उ कउनो चीज में बहुत निपुण रहलन, त उनकर पुरान शिल्प से जुड़ल कउनो गतिविधि उनका ज्यादा ठीक लाग सकेला। Association बतावेला कि कउनो पेशेवर कलाकार अपन काम में बदलाव से निराश हो सकेलन, जबकि कउनो शौकिया कलाकार नया रास्ता पावे में खुश हो सकेला। कउनो माहिर बढ़ई के भी इहे बात लागू होला।
 
-## Safety with work-style tasks
+## काम वाली गतिविधि में सुरक्षा
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- बिजली वाला औजार, धार वाला चीज, कील आ नोकदार पेंच हटा दीं।
+- पेंट पतला करे वाला, पेट्रोल आ रसायन ताला में बंद रखीं।
+- अगर उ अब गाड़ी ना चलावत बाड़न, त गाड़ी के चाबी नजर से दूर रखीं।
+- वर्कशॉप आ आँगन के सब काम में साथ रहीं।
+- बड़ टुकड़ा चुनीं जवन निगलल ना जा सके।
 
-## What if he says no?
+## अगर उ ना कहस त?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+ओकरा मान दीं। ना कहल के मतलब हो सकेला कि काम बहुत कठिन लागल, बचकाना लागल, या आज ठीक ना लागल। Alzheimer's Association चेतावेला कि जबरदस्ती मत करीं। कउनो दोसर काम, दोसर समय, या बस साथ बइठल आजमाईं। देखीं [जब उ ना कहस त का करीं](/caregiving/when-they-say-no/)।
 
-## Games and conversation that fit
+## मन लागे वाली खेल आ बातचीत
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) जाना-पहचाना अमेरिकी कहावत पर चलेला आ बात-चीत तक ले जाला। [Conversation Cards](/games/conversation-cards/) में विषय के हिसाब से खुला, बिना परीक्षा वाला सवाल बा, जवन काम आ शौक के कहानी खोल सकेला। [Picture Puzzle](/games/picture-puzzle/) में टुकड़ा बदलत समय पूरा चित्र दिखत रहेला, आ बड़ अक्षर वाला [Word Search](/games/word-search/) छाप के रसोई के मेज पर कलम से हल कइल जा सकेला। उनकर पुरान बात उनके परखे बिना करे के तरीका खातिर देखीं हमार [यादें ताजा करे वाला गाइड](/activities/reminiscence/)।

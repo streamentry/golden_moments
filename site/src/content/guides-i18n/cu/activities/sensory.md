@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Чѫвьствьнаꙗ дѣꙗниꙗ чловѣкомъ съ оумьнымь недѫгомь"
+seoTitle: "Чѫвьствьнаꙗ дѣꙗниꙗ при оумьнѣмь недѫзѣ"
+description: "Чѫвьствьнаꙗ дѣꙗниꙗ чловѣкомъ живѫштиимъ съ оумьнымь недѫгомь: отъ тихаго мазаниꙗ рѫкъ до кошьницѧ платъ и гласъ ѥстьства, съ ꙗвьнꙑими оуказании ѡ задѫшении, неприꙗзни и вонꙗхъ."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Чѫвьствьнаꙗ дѣꙗниꙗ полагаѭтъ сѧ на осѧзании, ѡбонꙗнии, въкоушении, слоухѣ и
+  видѣнии: тихо мазаниѥ рѫкъ, кошьница мѧкъкъихъ платъ, свѣжиꙗ зєлиꙗ къ
+  ѡбонꙗнию, гласъ ѥстьства или зьрѣниѥ птиць оу окна. Та подобаютъ на вьсꙗкомь
+  стєпєни и пачє польꙁьна сѫтъ поздѣѥ. Прѣждє испытаитє бѣдъ задѫшениꙗ,
+  неприꙗзни, болѣзни кожѧ и чѫтьꙗ къ вонꙗмъ. Подаваитє по ѥдиномоу чѫвьствоу
+  въ врѣмѧ и прѣстанѣтє, аштє чловѣкъ ꙗвитъ сѧ нєпокоинъ.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Чѫвьствьнаꙗ дѣꙗниꙗ нє трєбоуѭтъ праваго отвѣта, тѣмьжє подъходѧтъ на вьсꙗкомь стєпєни, и на ложи или на сѣдалищи."
+  - "Подаваитє по ѥдиномоу чѫвьствоу въ тихои храминѣ и въпрашаитє или повѣждьтє прѣждє прикоснѫти сѧ."
+  - "Оукланꙗитє сѧ малъихъ вєщии и вьсѣхъ, ꙗжє ꙗвлꙗѭтъ сѧ или вонꙗѭтъ ꙗко брашьно, нъ нє сѫтъ, понєжє чловѣци могѫтъ вълагати ѩ въ оуста."
+  - "Прѣждє оупотрѣблѥниꙗ мазании, вонѥи или брашьнъ испытаитє неприꙗзни, болѣзни кожѧ и недѫгъ дъханиꙗ."
+  - "Нѣстъ съвѣдѣтєльства, ꙗко аромата лѣчьба помагаѥтъ знамєниємъ оумьнаго недѫга; оупотрѣблꙗитє вонѧ тъкъмо дѣлꙗ проста оуслаждєниꙗ, аштє въсхощєтє."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Каꙗ чѫвьствьнаꙗ дѣꙗниꙗ добра сѫтъ чловѣкоу съ оумьнымь недѫгомь?"
+    a: "Простаꙗ дѣꙗниꙗ сѫтъ: тихо мазаниѥ рѫкъ съ мазаниѥмь, дрьжаниѥ мѧкъкъихъ платъ, ѡбонꙗниѥ свѣжихъ зєлии или кафє, слоушаниѥ любьмъихъ пѣснии или гласъ ѥстьства, зьрѣниѥ птиць или рꙑбьнааго съсѫда, и въкоушаниѥ любимааго брашьна въ бєзбѣдьнѣ ꙗди. Подаваитє по ѥдиномоу въ врѣмѧ и зьритє, како чловѣкъ отъвѣштаѥтъ."
+  - q: "Бєзбѣдьна ли сѫтъ чѫвьствьнаꙗ дѣꙗниꙗ чловѣкоу, ижє вълагаѥтъ вєщи въ оуста?"
+    a: "Могѫтъ бꙑти, съ опасьствомь. Оупотрѣблꙗитє тъкъмо вєликъꙗ вєщи, ꙗжє нє могѫтъ бꙑти пожьрьтꙑ, оставлꙗитє малъꙗ или ломьмъꙗ, и по сихъ съхранꙗитє мазаниꙗ, мꙑла и вонꙗвъꙗ сътворєниꙗ далєчє, понєжє могѫтъ ꙗвити сѧ или вонꙗти ꙗко брашьно. Прѣбꙑваитє съ чловѣкомь вьсє врѣмѧ."
+  - q: "Помагаѥтъ ли аромата лѣчьба при оумьнѣмь недѫзѣ?"
+    a: "Прѣглѧдъ Cochrane нє обрѣтє съвѣдѣтєльства, ꙗко аромата лѣчьба помагаѥтъ чловѣкомъ съ оумьнымь недѫгомь, аштє и испꙑтаниꙗ бѣахѫ мала и нєсъгласьна. Аштє чловѣкъ радоуѥтъ сѧ тихои знаѥмои вон҄и, то добро ѥстъ, нъ оукланꙗитє сѧ крѣпъкъихъ маслъ, пачє при недѫзѣхъ дъханиꙗ или неприꙗзнєхъ."
+  - q: "Чьто ѥстъ прѣдолъка или дѣтєльнаꙗ риза?"
+    a: "То ѥстъ платъ, прѣдолъка или одѣꙗло на лѣнѣ, на нємьжє крѣпъко пришитꙑ сѫтъ вєщи къ дрьжанию, ꙗко вєлици пѫгъвици, ꙗстрѧби, врьвицѧ и платъ съ различьнѫ ꙗдью. То даѥтъ рѫкама, ижє иштѫтъ дѣла, нѣчьто изъслѣдовати. Чѧсто испытаитє, да нє бѫдєтъ ничьтоже раздрѣшєно."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Чѫвьствьнаꙗ дѣꙗниꙗ полагаѭтъ сѧ на пѧти чѫвьствъ: осѧзании, ѡбонꙗнии, въкоушении, слоухѣ и видѣнии. Та нє трєбоуѭтъ памѧти, ни стѫпєнии, ни праваго отвѣта, тѣмьжє могѫтъ подъходити на вьсꙗкомь стєпєни. Пачє жє польꙁьна сѫтъ поздѣѥ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) повѣдаѥтъ, ꙗко на поздьнѣмь стєпєни миръ чѫѥтъ сѧ пачє чрѣсъ чѫвьства, и ꙗко можєтє ꙗвити попєчєниѥ прикоснѫтиємь, гласомь, видѣниємь, въкоушєниємь и ѡбонꙗниємь. Нѣколика опасьнаꙗ испꙑтаниꙗ творѧтъ сиꙗ дѣꙗниꙗ мирьна вьсѣмъ.
 
-## What are sensory activities for dementia?
+## Чьто сѫтъ чѫвьствьнаꙗ дѣꙗниꙗ при оумьнѣмь недѫзѣ?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Чѫвьствьнаꙗ дѣꙗниꙗ сѫтъ простаꙗ искоушєниꙗ, сътворєна около ѥдиного чѫвьства въ врѣмѧ, ꙗко осѧзаниѥ плата, ѡбонꙗниѥ зєлии или слоушаниѥ дъждꙗ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) глаголѥтъ, ꙗко дѣꙗниꙗ на поздьнѣмь стєпєни чѧсто подобаѥтъ имѣти на чѫвьствѣхъ, и поминаѥтъ мѫсикиѭ, вєщи къ осѧзанию и дрьжанию, и мазаниѥ рѫкъ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) поминаѥтъ, ꙗко чловѣци на поздьнѣмь стєпєни могѫтъ имѣти крѣпъко жєланиѥ дрьжати нѣчьто близъ сєбє дѣлꙗ оутѣшєниꙗ.
 
-## Sensory ideas, sense by sense
+## Мꙑсли чѫвьствьнъихъ дѣꙗнии по чѫвьствомъ
 
-### Touch
+### Осѧзаниѥ
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Мазаниѥ рѫкъ.** Съгрѣитє мало мазаниꙗ въ рѫкоу и тихо водитє отъ запѧстиꙗ до пьрстъ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) поминаѥтъ мазаниѥ бєзьвоньнꙑмь мазаниємь дѣлꙗ оутѣшєниꙗ.
+- **Кошьница платъ.** Вєликъꙗ чѧсти бархата, врьвьнааго плата, мѧкъкааго плата, атласа и вълнꙑ къ глаждєнию, съгъбанию и бєсѣдѣ.
+- **Топлъи платъ.** Топлъи, мокръи платъ дѣлꙗ рѫкъ въ стоудєнъи дьнь. Прѣждє испытаитє топлотѫ на своѥмь запѧстии.
+- **Дѣтєльнаꙗ прѣдолъка или одѣꙗло на лѣнѣ.** Вєлици пѫгъвици, ꙗстрѧби, врьвицѧ и платъ съ различьнѫ ꙗдью, крѣпъко пришитꙑ.
+- **Съгъбаниѥ и глаждєниѥ.** Кошьница чистъихъ платъ или скатєрьтъ къ съгъбанию, полаганию и пакꙑ съгъбанию.
+- **Нѣчьто мѧкъко къ дрьжанию.** Мѧкъко одѣꙗло, възъглавиѥ или подобьно мѧкъко животьно, подано просто, а нє ꙗко игра.
 
-### Smell
+### Ѡбонꙗниѥ
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Свѣжиꙗ зєлиꙗ.** Потритє листвиѥ мѧтꙑ, розмарина, василика или лавандꙑ мєждоу пьрстꙑ и подастє.
+- **Вонѧ кухни.** Кафє варимо, хлѣбъ пєчєнъ, корица или помораньчь обираѥмо близъ.
+- **Цвѣти.** Принєсѣтє нѣколико свѣжихъ цвѣтъ изъ сада или отъ коупьца.
+- **Знаѥмо сътворєниѥ.** Мꙑло или мазаниѥ, ꙗжє чловѣкъ въсєгда оупотрѣблꙗашє, аштє кожа тръпитъ.
 
-### Taste
+### Въкоушєниѥ
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Любимаꙗ сласть.** Мала лъжица нѣчьсого любимааго, ꙗко ꙗблъчнаꙗ каша, сладъко брашьно или лєдєно млѣко, въ ꙗди, ѭжє чловѣкъ можєтъ бєзбѣдьно приꙗти.
+- **Помошть въ пєчєнии.** Въкоушєниѥ плода или мала сладъка, ѥгда пєчєтє въкоупѣ.
+- **Врѣмєньнаꙗ брашьна.** Дꙑнꙗ въ лѣтѣ, топло питиѥ въ ѥсєни, подано въ бєзбѣдьнои топлотѣ.
 
-### Sound
+### Слоухъ
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Любьмъꙗ пѣсни.** Знаѥмъꙗ пѣсни тихꙑмь гласомь; видитє [дѣꙗниꙗ мѫсикиѥ](/activities/music/).
+- **Гласъ ѥстьства.** Дъждь, вълнꙑ или пѣниѥ птиць. NIA поминаѥтъ, ꙗко мѫсикиꙗ, бѣлъи шоумъ и гласъ ѥстьства ꙗвлꙗѭтъ сѧ оукроштати нѣкъꙗ чловѣкꙑ.
+- **Вашь гласъ.** Чьтєниѥ въслоухъ, напѣваниѥ или повѣданіѥ повѣсти.
+- **Простъꙗ орѫдиꙗ.** Рѫчьнъи бѫбьнъ, трѧсило или звоно къ игранию съ мѫсикиѥѭ.
 
-### Sight
+### Видѣниѥ
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Зьрѣниѥ изъ окна.** Кърмилищє птицамъ прѣдъ окномь, дѣти идѫщѧ домови или снѣгъ падаѭшть.
+- **Рꙑбьнъи съсѫдъ или тихо видѣниѥ.** Тихо движєниѥ бєзъ громъкааго гласа.
+- **Вєликъꙗ образꙑ.** По ѥдиномоу ꙗвьноу образоу, дрьжимоу на ровьни очию.
+- **Цвѣтъ и образъць.** Разбоуриѥниѥ свѣтьлъихъ платъ, цвѣтъ или цвѣтьнъихъ скатєрьтъ, или простъи листъ къ цвѣтєнию отъ нашєго [цвѣтєниꙗ](/games/coloring/).
+- **Вънѣ.** NHS съвѣтоуѥтъ чѫвьствьнъꙗ садꙑ съ вонꙗвъıми зєлиѥми, различьнѫ ꙗдью и водьнꙑими сътворєнии. Видитє [дѣꙗниꙗ вънѣ и въ садѣ](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Како сътворити чѫвьствьнѫ кошьницѫ
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Избєрѣтє мысль,** съвѧзанѫ съ животомь чловѣка: помориѥ, садъ, кухниꙗ, дѣланицѧ, шитьѥ.
+2. **Избєрѣтє пѧть или шєсть вєликъихъ, бєзбѣдьнъихъ вєщии,** ꙗко вєликѫ раковинѫ, дрѣвѧнѫ лъжицѫ, мѧкъкѫ ткань, мѣшьць съ соухоѭ лавандоѭ зашитъ, или гладъкъ дрѣвѧнъ коубъ.
+3. **Испытаитє кѫждо вєщь** дѣлꙗ малъихъ чѧстии, остръихъ краи, раздрѣшєнъихъ нищь и ломьнааго.
+4. **Износитє по ѥдинои вєщи въ врѣмѧ.** Подаваитє ѭ, опишитє ѭ и оставитє чловѣка изъслѣдовати.
+5. **По сихъ съхранитє кошьницѫ,** да прѣбѫдєтъ особьна и вєщи пакꙑ испꙑтанꙑ бѫдѫтъ прѣждє иного врѣмєнє.
 
-## Safety first
+## Бєзбѣдьство прѣждє вьсѣхъ
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Чѫвьствьнаꙗ дѣꙗниꙗ тихаа сѫтъ, нъ нѣкъꙗ бѣдъı подобаѥтъ вѣдѣти. Нѣции чловѣци, живѫштии съ оумьнымь недѫгомь, могутъ мьнѣти нєбрашньнъꙗ вєщи брашьномь, а пожираниѥ можєтъ съ врѣмєнємь бꙑти трѫдьнѣѥ; NIA прѣдъостєрѣгаѥтъ, ꙗко трѫдьности пожираниꙗ на поздьнѣмь стєпєни въздвигаѭтъ бѣдѫ задѫшєниꙗ.
 
-| Risk | What to do |
+| Бѣда | Чьто творити |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Задѫшєниѥ | Оупотрѣблꙗитє тъкъмо вєщи вєликъꙗ, ꙗжє нє могѫтъ бꙑти пожьрьтꙑ. Никакъıхъ пѫгъвицъ, зърнъ, пѣнѧѕь, коулъкъ или малъихъ игръ раздрѣшєнъихъ въ кошьници. Подаваитє брашьно тъкъмо въ ꙗди, ѭжє пєчальни попєчитєли глаголѭтъ бєзбѣдьнѫ. |
+| Вєщи, ꙗжє ꙗвлꙗѭтъ сѧ ꙗко брашьно | NIA съвѣтоуѥтъ заключати мазаниꙗ, мꙑла, шьмъпанъ и вонѧвъꙗ сътворєниꙗ, ꙗжє могѫтъ ꙗвити сѧ или вонꙗти ꙗко брашьно, и отъимати творєнъꙗ плодꙑ. Съхранꙗитє чѫвьствьнаꙗ сътворєниꙗ по оупотрѣблѥнии. |
+| Нєприꙗзни | Прѣждє начѧти испытаитє неприꙗзни къ орѣхомъ, латєкоу, вълнѣ, зєлиѥмъ или вонꙗмъ. |
+| Крѣпъкъꙗ вонѧ | Оукланꙗитє сѧ крѣпъкъихъ вонѥи и маслъ, пачє при оудъшии или иномь недѫзѣ дъханиꙗ. Тихъꙗ, ѥстьствьнъꙗ вонѧ бєзбѣдьнѣишѧ сѫтъ. |
+| Кожа | Прѣждє мазаниꙗ испытаитє кожѫ, аштє ѥстъ болѧштаꙗ, ранєна или нєжна. Оупотрѣблꙗитє тихо тлъчєниѥ и прѣстанѣтє, аштє чловѣкъ съжалитъ сѧ. |
+| Топлота | Прѣждє испытаитє топлъꙗ платꙑ и питиꙗ на своѥмь запѧстии. |
+| Остръꙗ или ѡтрованъꙗ вєщи | Никакъıхъ остръихъ орѫдии, стъкла или ѡтрованъихъ сътворєнии дѣланиꙗ. |
 
-## Does aromatherapy help?
+## Помагаѥтъ ли аромата лѣчьба?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Вѣроꙗтьно ни по чьтоу мѣримоу. [Прѣглѧдъ Cochrane ѡ аромата лѣчьбѣ при оумьнѣмь недѫзѣ](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) видѣ 13 испꙑтании съ 708 чловѣкꙑ, вьсѧ въ домохъ попєчєниꙗ, и нє обрѣтє съвѣдѣтєльства помошти. Испꙑтаниꙗ бѣахѫ мала, исходи нєсъгласьни, а ѡ страначьнъихъ дѣаниꙗхъ худо повѣда сѧ. Аштє чловѣкъ радоуѥтъ сѧ тихои знаѥмои вон҄и, ꙗко лаванда изъ сада, то добро основаниѥ ѥстъ раздѣлити ѭ. То нѣстъ лѣчьба.
 
-## How to offer a sensory activity
+## Како подати чѫвьствьно дѣꙗниѥ
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Избєрѣтє тихо врѣмѧ** и оугаситє видѣниѥ.
+- **Пристѫпитє отъ прѣда,** рьцѣтє имѧ ѥго, и въпрашаитє или повѣждьтє прѣждє прикоснѫти сѧ: "Имамъ мазаниѥ. Хощєши ли, да помажѫ рѫцѣ?"
+- **Подаваитє по ѥдиномоу въ врѣмѧ,** да нє бѫдєтъ тѧжько.
+- **Зьритє отъвѣтъ.** Тишѣишє лицє, оукроштєнъꙗ рѫцѣ или оусмихъ сѫтъ добръꙗ знамєниꙗ. Отътѧжаниѥ, намръштєниѥ или нєпокои значатъ: прѣстанѣтє.
+- **Дрьжитє кратъко.** Пѧть мирьнъихъ минѫтъ добра събєсѣда ѥстъ.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Тихии покои дъханиꙗ въкоупѣ, ꙗко [мирьно дъханиѥ](/games/calm-breathing/), можєтъ бꙑти мѧкъкъ коньць. Дѣлꙗ болє мꙑслии оу ложа видитє [дѣꙗниꙗ на поздьнѣмь стєпєни](/activities/late-stage/), а дѣлꙗ вєчєрьнꙗаго нєпокоꙗ видитє [вєчєрьнє нєпокоєниѥ](/caregiving/late-day-restlessness/).

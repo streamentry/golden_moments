@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Kũhaarĩria Tablet kana Thimũ nĩ ũndũ wa Mũndũ"
+seoTitle: "Kũhaarĩria Tablet kana Thimũ nĩ ũndũ wa Mũndũ"
+description: "Mũtaratara wa kũhaarĩria tablet kana thimũ: kũmĩhinga app ĩmwe, ndemwa nene, gũkiria ndũmĩrĩri, kĩbango kĩhũthũ, mũgambo na ũgitĩri wa maũndũ ma mundũ."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Tũma tablet kana thimũ ĩkorwo ĩhũthũ mbere ya kũmĩnengera mũndũ ũcio.
+  Mĩhinge app ĩmwe na Guided Access kũrĩ iPad na iPhone kana app pinning kũrĩ
+  Android, kana ũhũthĩre Assistive Access ya Apple nĩguo ĩkorwo na mũbango
+  mũhũthũ. Tũma ndemwa nene, kiria ndũmĩrĩri, tiga app nini tu kĩbango-inĩ
+  kĩmwe kĩa mũciĩ, harĩria mũgambo mbere ya kwambĩrĩria, hũthĩra kĩgũrũ gĩa
+  kũmĩigĩrĩra, na ũnyiihie rũtha rwa app kũrĩ maũndũ ma mundũ. Mĩhũthagĩrei
+  mũrĩ hamwe, hamwe na maũndũ mangĩ matarĩ ma kĩonere.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) na app pinning (Android) itũmaga kĩonere gĩikare app-inĩ ĩmwe nginya rĩrĩa ũkaamĩhingũra."
+  - "Assistive Access ya Apple ĩheaga mũbango mũhũthũ wathondeketwo nĩ ũndũ wa andũ marĩa marĩ na mathĩna ma kũririkana."
+  - "Tũma ndemwa nene na ũkirie ndũmĩrĩri na maũndũ marĩa mokaga o rĩmwe nĩguo gũtikagĩe kĩndũ gĩa gũtindĩkĩria kana gũtũma mũndũ adagwo nĩ ũrĩa ekwĩka."
+  - "Tiga app nini tu iria mũndũ ũcio amenyete kĩbango-inĩ kĩmwe kĩa mũciĩ, na ũharĩrie mũgambo mbere ya kwambĩrĩria."
+  - "Kĩgũrũ gĩa kũigĩrĩra tablet na handũ ha kũmĩhihĩria hatarĩ hĩndĩ hangarũrũrũkaga nĩ itũmaga ĩhũthĩke na ĩoneka na ihenya."
+  - "Rora rũtha rwa app na ũrĩa maũndũ ma mundũ mahũthagĩrwo: HIPAA kaingĩ ndĩgitagĩra maũndũ marĩa maigĩtwo thimũ-inĩ kana tablet-inĩ ya mwene."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Ingĩgiria atĩa mũndũ ũrĩa ũtũũraga na mĩrimũ ya kũriganĩrwo atige kuuma app-inĩ kũrĩ iPad?"
+    a: "Hingia Guided Access kũrĩ Settings > Accessibility > Guided Access na ũige namba ya hitho. Hingũra app ĩyo, hihinya batani ya igũrũ (kana batani ya Home kũrĩ iPad cia tene) maita matatũ, na ũhihinye Start. iPad ĩgũikara app-inĩ ĩyo nginya rĩrĩa mũndũ akaahingũra na namba ya hitho."
+  - q: "Ingĩhinga atĩa tablet ya Android app ĩmwe?"
+    a: "Hingia app pinning kũrĩ app ya Settings, kaingĩ kũrĩ Security (rĩmwe na rĩmwe Security & location) > Advanced > App pinning. Ũcooke ũhingũre app ĩyo, ũhingũre Overview, ũhihinye rũũri rwa app ĩyo igũrũ na ũhihinye Pin. Namba ya PIN, mũcoro kana kiugo gĩa hitho nĩ ibataranagia nĩguo ũmĩhingũre."
+  - q: "Nĩ wega kũhũthĩra Guided Access thimũ-inĩ ya mũndũ ũcio mwene?"
+    a: "Wĩmenyerere. Apple yugaga atĩ Crash Detection na Emergency Services itirĩ ho rĩrĩa Guided Access ĩrĩ ho. Angĩkorwo mũndũ ũcio ahũthagĩra thimũ yake gwĩta thimũ cia hatĩka, hũthĩra Guided Access rĩrĩa tu mũrĩ hamwe, kana ũthugũrĩrie kũhũthĩra Assistive Access handũ hayo."
+  - q: "Mũndũ ũrĩa ũtũũraga na mĩrimũ ya kũriganĩrwo aagĩrĩirwo nĩ kũhũthĩra kĩonere ihinda irĩkũ?"
+    a: "Gũtirĩ ihinda rĩamũkĩre rĩa ihinda ciothe. Mahinda makuhĩ ma kũhũthĩra mũrĩ hamwe, marĩ hamwe na gũceera, nyĩmbo, mawĩra ma mũciĩ na mĩario, nĩ matũmaga mũthenya ũiyũrwo wega gũkĩra gũikara ihinda iraya mũndũ arĩ wiki na kĩonere. Kĩonere kĩngĩrehe kĩeha kana gĩtindĩkĩrie maũndũ mangĩ, kĩhũthagĩrei hanini."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tablet no ĩtuĩke njĩra njega ya gũkona mbica, kũigua nyĩmbo na gũthaka tũthako tũhũthũ mũrĩ hamwe. No ningĩ ĩtuĩke ya kũriganĩria: kũhihinya hatarĩ kwenda gũkuhingũra app ĩngĩ, ndũmĩrĩri ĩkoonekana, ndemwa igakorwo irĩ nini mũno, kana kĩonere gĩkahora mũthako-inĩ. Kũhaarĩria hanini mbere nĩkũhotaga gũthondeka maũndũ macio maingĩ.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Mĩtaratara ĩno ĩhũthagĩra mĩbango ya thĩinĩ ya iPhone, iPad na Android. Marĩĩtwa ma menu no magarũrũke kũringana na mũthemba wa software na kĩndũ kĩrĩa ũhũthagĩra, nĩ ũndũ ũcio kĩndũ kĩngĩoneka kĩrĩ kĩngĩ, rũmĩrĩra karatathi ka Apple kana Google karĩa kahurĩtwo gĩa kĩndũ gĩaku. Haarĩria maũndũ macio wee mwene, mbere ya gũikara thĩ mũrĩ hamwe.
 
-## Should someone with dementia use a tablet or phone?
+## Mũndũ ũrĩa ũtũũraga na mĩrimũ ya kũriganĩrwo aagĩrĩirwo nĩ kũhũthĩra tablet kana thimũ?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Nĩ kũringana na mũndũ ũcio. Andũ aingĩ makenagĩra kũhũthĩra tablet marĩ na mũndũ ũngĩ hau hakuhĩ, o na angĩkorwo matingĩhota kũmĩhũthĩra marĩ oiki. Ambĩrĩria na kũmĩhũthĩra mũrĩ hamwe, mũrĩ na app ĩmwe tu ĩhingũre, kwa ihinda inini. Ĩngĩrehe gĩkeno na mĩario, thiĩ na mbere. Ĩngĩrehe kũriganĩra kana kĩeha, ibuku rĩa mbica, maratathi mathiĩtwo kana nyĩmbo no ikorwo nĩcio njega kũrĩ mũndũ ũcio. [Maũndũ ma gwĩka marĩa mangĩthiĩtwo](/activities/printable/) nĩ njĩra ĩngĩ.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Kaingĩ tablet nĩ ĩhũthũ gũkĩra thimũ: kĩonere na mbica nĩ nene, na ti thimũ ĩrĩa mũndũ ũcio angĩbatara gwĩta thimũ cia hatĩka.
 
-## How do I lock a tablet or phone to one app?
+## Ingĩhinga atĩa tablet kana thimũ ĩikare app-inĩ ĩmwe?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Hũthĩra Guided Access kũrĩ iPhone na iPad, kana app pinning kũrĩ Android. Cierĩ itũmaga kĩonere gĩikare app-inĩ ĩmwe nginya rĩrĩa ũkaahingũra na namba ya hitho, nĩ ũndũ ũcio kũhihinya hatarĩ kwenda kana gũkũrũra gũtingĩhingũra kĩndũ kĩngĩ.
 
-### iPad and iPhone: Guided Access
+### iPad na iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Kũringana na [mĩtaratara ya Apple ya Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Hingũra **Settings**, hihinya **Accessibility**, ũcooke ũhihinye **Guided Access** na ũmĩhingie.
+2. Rungu rwa **Passcode Settings**, iga namba ya hitho ya Guided Access. No ũingĩrĩrie Face ID kana Touch ID.
+3. We mwene: rungu rwa **Display Auto-Lock**, thuura ihinda rĩrĩa kĩonere gĩĩkũhinga rĩrĩa ũhũthagĩra, nĩguo gĩtikahore mũthako-inĩ.
+4. Hingũra app ĩrĩa ũkwenda kũhũthĩra.
+5. Hihinya batani ya mwena (iPhone), batani ya igũrũ (iPad), kana batani ya Home kũrĩ kĩndũ kĩa tene maita matatũ.
+6. We mwene: thiũrũrũkĩria icunjĩ cia kĩonere iria ũtangĩenda ihutithio. Hihinya **Options** (kana **Session Settings**) nĩguo ũkirie mabatani ma mũgambo kana ũgirie kĩonere gĩtigarũrũke.
+7. Hihinya **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Nĩguo ũrĩkie ihinda rĩu, hihinya batani ĩyo o ĩngĩ maita matatũ, ũtoonyie namba ya hitho, na ũhihinye **End**. Apple yugaga atĩ kũrĩ mĩthemba ĩmwe ya tene ya software hihinyo nĩ maita meerĩ.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Ũndũ wa bata:** Apple yugaga atĩ Crash Detection na Emergency Services itirĩ ho rĩrĩa Guided Access ĩrĩ ho. Ndũgatige Guided Access ĩhingũre thimũ-inĩ ĩrĩa mũndũ ũcio angĩbatara gwĩta thimũ cia hatĩka.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Kũringana na [ũteithio wa Google wa Android ũkoniĩ kũhinga kĩonere](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Hingũra app ya **Settings**.
+2. Hihinya **Security** (kana **Security & location**), ũcooke ũhihinye **Advanced**, ũcooke ũhihinye **App pinning**. Ũngĩaga kũmĩona, rora maratathi ma ũteithio ma mũthondeki wa kĩndũ gĩaku.
+3. Hingia **App pinning**. Namba ya PIN, mũcoro kana kiugo gĩa hitho nĩ ikahũthĩrwo nĩguo ũmĩhingũre.
+4. Hingũra app ĩrĩa ũkwenda. Kũrũra na igũrũ nginya gatagatĩ ka kĩonere na ũnyitĩrĩre nĩguo ũhingũre Overview (kana ũhihinye Overview ũngĩkorwo ũhũthagĩra mĩbango ya mabatani matatũ).
+5. Igũrũ rĩa mũhiano wa app, hihinya rũũri rwa app, ũcooke ũhihinye **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Nĩguo ũmĩhingũre ũkĩhũthĩra mĩbango ya kũkũrũra, kũrũra na igũrũ na ũnyitĩrĩre. Ũkĩhũthĩra mabatani matatũ, nyitĩrĩra Back na Overview. Ũkĩhũthĩra mabatani meerĩ, nyitĩrĩra Back na Home. Ũcooke ũtoonyie namba ya PIN, mũcoro kana kiugo gĩa hitho.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Nĩ harĩ na mũbango mũhũthũ wa iPhone kana iPad yothe?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Ĩĩ. Assistive Access ya Apple ĩgarũraga kĩbango kĩa mũciĩ kĩa mũndũ kĩa mahinda mothe na kĩngĩ kĩhũthũ. [Apple ĩkiugaga](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) atĩ kĩathondeketwo nĩguo gĩtũme iPhone ĩhũthĩke mũno nĩ andũ marĩa marĩ na mathĩna ma kũririkana, na indo nene kĩonere-inĩ na maũndũ marĩa matarĩ maingĩ. Apple ĩrĩ na [mũbango ũcio o ũcio kũrĩ iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Ũrĩa ũmĩhaaragĩria.** Apple ĩkĩraga mũndũ wa kwĩhokeka, ta mũndũ wa famĩlĩ kana mũndũ ũrĩa ũrorage mũndũ ũcio na ũmũũĩ wega, ateithie gũthuura app na maũndũ marĩa mangĩhũthĩrwo.
+- **Kũambĩrĩria.** Thiĩ **Settings > Accessibility > Assistive Access**, hihinya **Set Up Assistive Access**, ũcooke ũhihinye **Continue**.
+- **App.** Wee nĩwe ũthuuraga app iria ikoonekana. App imwe cia Apple irĩ na mĩbango mĩhũthũ ya mwanya, na app nyingĩ iria ingĩ no ciongererwo na mũhianĩre wacio wa mahinda mothe.
+- **Mũbango.** Thuura **Rows** (mũtaratara mũhũthũ wa gũthoma) kana **Grid** (indo nene iria cionanagia mbica na tũũri wega).
+- **Namba ya hitho.** Ũkũiga namba ya hitho ya Assistive Access ya mwanya nĩguo ũtoonye, uume kana ũgarũre mĩbango. Apple ĩkĩraga mũndũ aharĩrie akaunti ya Apple ya gũcookia maũndũ hĩndĩ ya kũhaarĩria, tondũ ĩtarĩ ho, namba ya hitho ĩngĩriganĩrwo ĩgũtũma kĩndũ kĩu gĩcookio kuuma kĩambĩrĩria.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access no ĩkorwo ĩngĩagĩrĩra mũndũ ũrĩa ũhũthagĩra kĩndũ gĩake mwene o mũthenya. Guided Access kana app pinning nĩ cia ihenya gũkĩra hĩndĩ ya gũthaka mũthako mũrĩ hamwe.
 
-## How do I make text and pictures bigger?
+## Ingĩtũma atĩa ndemwa na mbica ikorwo nene?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Ongera mũigana wa ndemwa na wa kĩonere, ũcooke ũrore atĩ mabatani no mekũiganĩra kĩonere-inĩ.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone na iPad.** Kũringana na [mĩtaratara ya Apple ya mũigana wa ndemwa](https://support.apple.com/en-us/102453), thiĩ **Settings > Display & Brightness > Text Size** na ũkũrũrie gĩthimi. Nĩguo ndemwa ikorwo nene mũno makĩria, thiĩ **Settings > Accessibility > Display & Text Size > Larger Text**. Apple yugaga atĩ ndemwa nene mũno no itũme mabatani mamwe makorwo maritũ kũhihinya, nĩ ũndũ ũcio garũra rĩngĩ kũngĩbatara.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Kũringana na [ũteithio wa Google wa mĩbango ya ndemwa na kĩonere](https://support.google.com/accessibility/android/answer/11183305?hl=en), hingũra **Settings** na ũcarie **Font size**, ũcooke ũkũrũrie gĩthimi. Caria **Display size** nĩguo maũndũ mothe kĩonere-inĩ makorwo manene. No ũhingie **Bold text** rungu rwa **Accessibility > Display size and text**. App imwe itirũmagĩrĩra mĩbango ĩno.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Kũrĩ mĩthako ta [Picture Pairs](/games/picture-pairs/) na [Find the Same](/games/find-the-same/), no ũthuure tũhato tũnini kana mĩthuuro mĩnini, ũndũ ũcio ũgatũma maũndũ makorwo mahũthũ kĩonere-inĩ.
 
-## How do I stop notifications and pop-ups?
+## Ingĩgiria atĩa ndũmĩrĩri na maũndũ marĩa mokaga o rĩmwe?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Kiria ndũmĩrĩri cia app iria ũtangĩbatara, na ũhũthĩre Do Not Disturb hĩndĩ ya maũndũ ma gwĩka.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone na iPad.** Thiĩ **Settings > Notifications**, hihinya app rungu rwa **Notification Style**, na ũkirie **Allow Notifications** ([mũtaratara wa Apple wa mĩbango ya ndũmĩrĩri](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Nĩguo ũkirie mathimũ, mĩmenyithia na ndũmĩrĩri kwa ihinda, hingũra Control Center na ũhingie **Do Not Disturb** kuuma batani-inĩ ya **Focus** ([ũteithio wa Apple wa Do Not Disturb](https://support.apple.com/en-us/105112)). No ũmĩharĩrie hĩndĩ kũrĩ **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Kũrũra na thĩ kuuma igũrũ rĩa kĩonere na ũhihinye **Do Not Disturb**, kana thiĩ **Settings > Modes > Do Not Disturb** ([ũteithio wa Google wa Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Rungu rwa **Notification filters** no ũthuure andũ na app iria irĩ na rũtha rwa gũthiĩ na mbere kũmenyithia. Mĩbango ĩno no ĩkorwo ĩrĩ ngũrani kũringana na mũthondeki wa kĩndũ.
 
-## How do I make a simple home screen?
+## Ingĩthondeka atĩa kĩbango kĩhũthũ kĩa mũciĩ?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Tiga app nini tu iria mũndũ ũcio amenyete kĩbango-inĩ kĩmwe na ũthaamie iria ingĩ nĩguo itikoonekage. Gũtirĩ mũbango ũmwe tu wa gwĩka ũguo; nĩ ũndũ wa kweheria maũndũ maingĩ.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Thuura app ithatũ nginya ithathatũ.** Kwa ngerekano, mbica, nyĩmbo, app ya kwaranĩria na mũthako ũmwe.
+- **Ciige kĩbango-inĩ gĩa mbere,** handũ hamwe o hĩndĩ ciothe, na ũthaamie iria ingĩ kĩbango-inĩ gĩa keerĩ kana folda-inĩ.
+- **Hũthĩra mbica ya mũthingi ĩtarĩ na maũndũ maingĩ na ĩrĩ na mwĩrĩ mwega,** ta rangi rĩmwe kana mbica ĩmwe ĩmenyekete, nĩguo tũũri tuonekage wega.
+- **Tharia app iria ũtangĩbatara.** App nini nĩ kuuga mweke mũnini wa kũriganĩra na maũndũ manini marĩa monganagio.
+- **Thugũrĩria Assistive Access** kũrĩ indo cia Apple ũngĩenda kĩndũ kĩu gĩgũthondekere ũguo.
 
-## What about volume and sound?
+## Ũhoro wa mũgambo na maũndũ ma kũigua ũtariĩ atĩa?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Harĩria mũgambo ũrĩa ũgũkenia mbere ya kũnengera mũndũ ũcio kĩndũ kĩu. Ũkĩhũthĩra Guided Access, no ũkirie mabatani ma mũgambo nĩguo mũgambo ũtigagarũrũke mũthako-inĩ. Rora atĩ indo cia gũteithia kũigua irĩ ho na iraruta wĩra wega.
 
-## Where should the tablet live?
+## Tablet yagĩrĩirwo nĩ gũikaragio ha?
 
-Give it a stand and a permanent charging spot.
+Mĩhe kĩgũrũ na handũ hamwe ha kũmĩhihĩria hatagarũrũkaga.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Kĩgũrũ kana kĩhato** kĩrĩa kĩnyiitagĩrĩra tablet ĩrũngiĩ metha-inĩ gĩtũmaga mũndũ atige kũmĩnyiita, na kũonia maũndũ na kĩara gũkorwo kũrĩ kũhũthũ.
+- **Handũ hamwe ha kũmĩhihĩria** hatagarũrũkaga, wega nĩ kĩgũrũ gĩa kũmĩhihĩria metha-inĩ nyũmba-inĩ ĩrĩa mũhũthagĩra o mũthenya. Tablet ĩkoragwo na hinya na ĩkoragwo handũ hamwe o hĩndĩ ciothe.
+- **Nyihia ũtheri mũingĩ.** Iga kĩonere kũraihu na ndirica ĩrĩa ĩrĩ na ũtheri mũingĩ.
 
-## How much screen time is okay?
+## Ihinda rĩigana atĩa rĩa kũhũthĩra kĩonere nĩ rĩega?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Gũtirĩ mũigana wa dagĩka ũrĩa wagĩrĩire. Geria kũgĩa na mahinda makuhĩ ma kũhũthĩra mũrĩ hamwe marĩ gĩcunjĩ kĩa mũthenya ũiyũire maũndũ mangĩ ta gũceeraceera, nyĩmbo, mawĩra ma mũciĩ, mĩario na ihinda rĩa gũikara nja. Tondũ hwai-inĩ maũndũ maingĩ no mongerere mũndũ kũaga ũhurũko, no ũthugũrĩrie kũiga maũndũ ma kĩonere mũthenya tene. Rora [maũndũ mahoro ma gwĩka hwai-inĩ](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Kũhũthĩra tablet mũrĩ hamwe, handũ ha kũmĩiga ĩtuĩke ya kũrinda mũndũ, nĩ gũtũmaga ĩkorwo ya gũikarania. Mũtaratara witũ wa [gũthaka mĩthako mũrĩ hamwe](/caregiving/how-to-play-together/) nĩũtaaragĩria ũhoro ũcio.
 
-## How do I protect their privacy on the device?
+## Ingĩgitĩra atĩa maũndũ ma mundũ kĩndũ-inĩ kĩu?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Nyihia maũndũ marĩa app ingĩhota kũonganĩrĩria, na ndũgeciirie atĩ watho wa ũgitĩri wa maũndũ ma ũgima nĩũmũgitagĩra. U.S. Department of Health and Human Services (HHS) [nĩ ĩtaaragĩria](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) atĩ mawatho ma HIPAA kaingĩ matigitagĩra ũhoro wa ũgima ũrĩa ũigĩtwo kana ũhũthagĩrwo thimũ-inĩ kana tablet-inĩ ya mwene. Mahinda maingĩ, HIPAA ndĩgitagĩra maũndũ marĩa matoonyagio app-inĩ nĩ ũndũ wa kũhũthĩra kwa mwene, tiga tu app ĩyo yumĩte kũrĩ mũheani wa ũgima, mũbango wa ũgima kana mũndũ ũrĩa marutanagĩra wĩra nake ũrĩa ũrĩ rungu rwa watho ũcio.
 
-HHS suggests:
+HHS ĩtaaraga:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- kwĩhũgĩra app itarĩ na bata kana cia o ro ũguo, makĩria iria irĩ „cia tũhũ“;
+- kwaga kũhe app rũtha rwa kũmenya harĩa mũndũ arĩ, tiga tu no mũhaka ĩrĩbatario, ta app cia mabarabara.
 
-Also consider:
+O na ningĩ wĩcirie:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Hũthĩra namba ya hitho** kũrĩ kĩndũ kĩu, na ũmĩige handũ hega.
+- **Rora rũtha rwa app** kũrĩ mbica, kamera, mũgambo, andũ arĩa marĩ thimũ-inĩ na harĩa mũndũ arĩ, na ũkirie rũtha o ruothe rũrĩa app ĩtabatarĩte.
+- **Rora maũndũ marĩa app ĩonganagĩrĩria** mbere ya kũmĩiga. Mũtaratara witũ wa [gũthuura app na mĩthako ya andũ arĩa matũũraga na mĩrimũ ya kũriganĩrwo](/caregiving/choosing-apps-and-games/) ũrĩ na mũtaratara wa ũgitĩri wa maũndũ ma mundũ.
+- **Wĩmenyerere na mbica cia famĩlĩ.** Gayanai mbica iria tu mũndũ ũcio angĩkenagio nĩcio, na ũmenye harĩa app ĩciigaga. Kũrĩ [Photo Pairs](/games/photo-pairs/), mbica iria ũthuuraga ciikaraga browser-inĩ yaku.
+- **Kiria kũgũra kũrĩa gwĩkagwo thĩinĩ wa app** kana weherie maũndũ ma kũrĩha kuuma kũrĩ akaunti iria mũndũ ũcio ahũthagĩra.

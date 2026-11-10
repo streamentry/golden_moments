@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Obbraghyn Cochianglt son Cooinaghtyn: Lioar Stiuree"
+seoTitle: "Obbraghyn Cochianglt: Bingo, Arraneyn, Skeealyn"
+description: "Obbraghyn cochianglt son kiarail cooinaghtyn, thieyn kiarail as claaghyn laa: bingo jallooyn, co-ghoaill arrane as possanyn cooinaghtyn, marish coyrleyn."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Ta obbraghyn cochianglt mie ayns kiarail cooinaghtyn as claaghyn laa laa
+  giare, ennoil as aash dy ghoaill ayrn ayndaue ec dagh leval: bingo jallooyn,
+  co-ghoaill arrane, kiarkyllyn cooinaghtyn, gleashaght aashagh as cloie focklyn
+  ry-cheilley. Cumm possanyn beg my oddys oo, soie sleih dy vod dagh fer fakin
+  as clashtyn, cur un cheim soilshaghey ec y traa, as jannoo aarloo son cowrey
+  sassey as raad magh feagh son peiagh erbee ta laccal eh.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Ta possanyn beggey ny keayrtyn ny sassey na un chaglym mooar, as t’ad cur caa da ny smoo sleih goaill ayrn obbragh na jeeaghyn ynrican."
+  - "Soie sleih ayns kiarkyl ny ayns cramman, er-gerrey da’n leeideilagh, lesh feme clashtyn as fakin ayns cooinaghtys as feiyr cooyl jeh."
+  - "Jean aarloo son dagh obbyr ec daa ny tree levallyn, dy vod sleih lesh ablidyn anchasley goaill ayrn ooilley cooidjagh."
+  - "Jean shaghnaghey er feyshtyn, coontey poyntyn as cosneyderyn. Foddee oo cloie bingo jallooyn lesh dagh fer goll er jerrey lesh kaart lane."
+  - "Ta fakin, jeeaghyn ny doostey beg mie dy liooar. Bee oltey foirn aarloo dy chooney lesh peiagh erbee ta laccal boayl ny s’feagh."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Cre’n mooadys possan ta mie son obbraghyn cooinaghtyn?"
+    a: "Cha nel un earroo kiart ayn, as t’eh croghey er ny cummaltee, y çhamyr as yn earroo foirn t’eu. Ta ymmodee foirn feddyn magh dy vel possanyn beggey cur caa da dagh fer fakin, clashtyn as goaill ayrn, choud’s ta caglymyn mooarey ny keayrtyn faagail ny smoo sleih jeeaghyn. My t’ou cur caglym mooar er, cur foirn ny obbreeyn saasee stiagh dy hoie mastey ny cummaltee as dy chooney lesh unnane ny jees."
+  - q: "Kys neem’s stiurey possan lesh ablidyn anchasley?"
+    a: "Jean aarloo son ny smoo na un aght dy ghoaill ayrn ayns dagh obbyr. Ayns co-ghoaill arrane, ta paart dy leih goaill dagh fockle, ta paart craa ny hum, as ta paart cummal craadey. Ayns bingo jallooyn, ta paart feddyn ny jallooyn oc hene choud’s ta cooneyder cowraghey da feall elley. Soie sleih ta feme ny smoo cooney orroo marish oltey foirn ny obbree saasee."
+  - q: "Kys neem’s cloie bingo jallooyn gyn eh y yannoo goll rish cohirrey?"
+    a: "Eam dagh jalloo derrey ta kaart dagh fer lane, myr nagh vel peiagh erbee faagit magh. Loayr mychione dagh jalloo tra t’eh cheet, as jean shaghnaghey er leaghyn son cosneyderyn ny cur yn un red beg da dagh fer. She taitnys ry-cheilley as coloayrtys y churrym, cha nee quoi ta jeant hoshiaght."
+  - q: "Foddee’m ny gammanyn eu y ymmyd er skian mooar ayns possan?"
+    a: "Foddee. Ta ny gammanyn ain gobbraghey ayns jeeaghder-lin, myr shen foddee oo ad y oscailley er laptop ny tablet cochianglt rish çhellveeish ny taishbyneyder. Ta kaartyn clou da prental as eamder er y skian ayns Picture Bingo. Ta Finish the Saying as Picture Pairs gobbraghey mie er skian mooar myrgeddin, lesh unnane cramman son y phossan."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ta’n lioar-stiuree shoh son stiureyderyn obbraghyn, foirn kiarail cooinaghtyn as leeideilee claaghyn laa. T’eh cur-my-ner cummaghyn possan ta gobbraghey, kiartaghey y çhamyr, caghlaa un obbyr son ablidyn anchasley, as ymmyd kaartyn bingo clouit ain as gammanyn er skian vooar. Ta dagh nhee ayns shoh bentyn rish shee, kiangley as reih. Cha nel nhee erbee ayns shoh ny phrowal.
 
-## What makes a group activity work in memory care?
+## Cre ta jannoo obbyr phossan gobbraghey ayns kiarail cooinaghtyn?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Ta obbyr phossan vie ennoil, giare, aash dy ghoaill ayrn ayndaue ec dagh leval, as gyn tranlaase. Ta ny [Coyrleyn Cleachtais Kiarail Cooinaghtyn](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) ec Alzheimer’s Association cur coontey jeh goaill ayrn bun-earrooagh myr red ta cooney lesh taitnysyn as reihyssyn persoon, as ta cur kied da reih as speeideilys, eer tra ta co-chiangle jeh cooinaghtyn ec y traa smoo trome. Ta’n docamad cheddin gra dy vel claaghyn cadjin ny keayrtyn croghey er un ny daa chaglym mooar gagh laa raad ta cummaltee ny keayrtyn goaill ayrn gyn monney.
 
-That points to a few practical rules:
+Ta shen cur coyrle dooin son obbyr laaoil:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Ta reddyn ennoil ny sassey na reddyn noa.** Ta arraneyn, raaghyn, jallooyn as nheeghyn voish bleeantyn aegey ny cummaltee ny sassey dy ghoaill ayrn ayndaue.
+- **Ta obbyr ghiare ny sassey na obbyr liauyr.** Jean aarloo son y traa taitnys ta cadjin ec dty phossan, lesh boayl dooghyssagh dy scuirr ayns y vean.
+- **Ta jannoo ny sassey na jeeaghyn.** Cur red ennagh da dagh fer dy chummal, cramman, reih ny gra.
+- **Ymmodee levallyn, un obbyr.** Jean aarloo son aghtyn sassey as ny s’doillee dy ghoaill ayrn.
+- **Gyn cosneyderyn, gyn coontey.** Ta cummaghyn cohirrey faagail paart dy leih gennaghtyn dy ren ad failleil.
 
-## How big should the group be?
+## Cre’n mooadys possan ta cooie?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Ta possanyn beggey ny keayrtyn ny sassey. Ta Alzheimer’s Association gra dy vod persoon ta feddyn caglym mooar ro-hrome goaill ayrn ny share ayns possan beg. Cha nel un earroo kiart ayn. T’eh croghey er ny cummaltee, y çhamyr as yn earroo foirn as obbreeyn saasee ta ry-gheddyn.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Prowal ymmydoil: vod dagh fer eddin y leeideilagh y akin, clashtyn dy baghtal, as roshtyn ec cooneyder ayns corrymeyn beg? Mannagh vod, rheynn y possan, cur ny smoo cooneyderyn stiagh, ny gow dys çhamyr beg.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Son caglym mooar, myr sampleyr cuirrey-kiaull son y traa-fest, soie foirn as obbreeyn saasee mastey ny cummaltee, cha nee rish ny voallaghyn.
 
-## How should I set up the room and seating?
+## Kys yinnin kiartaghey y çhamyr as ny soieagyn?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Kiarkyl ny cramman.** Ta ny coyrleyn cleachtais cur coontey jeh kiarkyl rheynn myr y reih share ayns boayl mooar dy liooar son dagh fer dy hoie ayns kiarkyl, gyn feiyr cooyl.
+- **Y leeideilagh er-gerrey as ec leval ny sooillyn.** Soie ny keayrtyn na shassoo, my oddys oo.
+- **Clashtyn as fakin hoshiaght.** Soie sleih lesh earrooyn clashtyn er-gerrey da’n leeideilagh, er y cheu share oc. Jean shickyr dy vel speçhalyn as saaseyn clashtyn orroo. Ta Alzheimer’s Association gra dy vod earrooyn fakin as clashtyn jannoo coloayrtys ny s’doillee.
+- **Soilshey voish cooyl ny cummaltee, cha nee voish dty chooyl.** Jean shaghnaghey er soie peiagh erbee lesh eddin gys uinnag sollysh.
+- **Cur y çhellveeish as y radio jeh.** Ta Alzheimer’s Association coyrlaghey dy ghoaill feiyr goll rish shen ersooyl ayns obbraghyn kiaull.
+- **Un coloayrtys ec y traa.** Ta coloayrtys trooid-a-cheilley doillee son sleih ta beaghey marish co-chiangle jeh cooinaghtyn as sleih lesh earrooyn clashtyn, myr ta Alzheimer’s Association gra ayns e [sturee son traaghyn fest](https://www.alz.org/help-support/caregiving/holidays).
+- **Raadyn magh soilshaghey as corneil feagh.** Lhisagh da peiagh erbee ta laccal goll ersooyl v’er ny yannoo dy aashagh, marish oltey foirn dy gholl maroo.
 
-## Group activity ideas
+## Smooinaghtyn son obbraghyn possan
 
-### Picture bingo
+### Bingo jallooyn
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Ta bingo jallooyn cur jallooyn soilshaghey, myr sampleyr teapot, moddey ny rose, ayns ynnyd jeh earrooyn, myr nagh lhisagh da peiagh erbee freayll tastey jeh earroo liauyr ny lhaih clou beg.
 
-**How to run it:**
+**Kys dy chur er:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Prental un kaart son dagh persoon veih’n duillag [Picture Bingo](/games/picture-bingo/) ain lesh y chramman Prental. Ta pabyr trome ny sassey dy chummal. Foddee oo eh y laminey son ymmyd reesht.
+2. Cur magh cowraghyn mooarey as aash dy ghreimmey, myr sampleyr chipyn, cappanyn boteil ny çheaghyn cairt.
+3. Ymmyd y eamder er y skian er çhellveeish ny taishbyneyder dy vod dagh fer fakin y jalloo tra t’ou gra yn ennym.
+4. Scuirr lurg dagh jalloo as cuir cuirrey da coloayrtys giare: “Vel peiagh erbee laccal ginsh dooin mychione moddey v’echey?” ny “Cre t’ou fakin ayns shoh?”
+5. Jean tannaghtyn goll derrey ta dagh kaart lane. Ta dagh fer goll er jerrey.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Caghlaa eh:** Ymmyd ny sloo çheaghyn son sleih ta feddyn kaart lane ro lane. Foddee cooneyder cowraghey dys y jalloo kiart son peiagh ta feme cooney. Foddee paart dy leih by vie lhieu cummal kaart y jalloo veih’n eamder as eh y hoilshaghey da’n phossan.
 
-### Sing-alongs
+### Co-ghoaill arrane
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+She kiaull un jeh ny h-obbraghyn possan smoo cadjin. Ta Alzheimer’s Association gra dy vod persoon, eer ayns ny kianglaghyn s’anmey, [bwoalley rish trom ny goaill arrane veih e aegid](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Kys dy chur er:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Reih arraneyn ren ny cummaltee gaase seose maroo, cha nee arraneyn share y leeideilagh. Feysht da lught-thie cre va graihagh ec dagh persoon.
+- Ymmyd kiaull gyn malleeyn, ta’n Cheshaght gra dy vod ad ve doillee dy hoiggal.
+- Prental focklyn ayns clou mooar son sleih ta lhaih, agh ny jean eh ymmyrchagh.
+- Cur craadaghyn, drummadyn laue ny scarfyn dy chraa.
+- Cur greinnaght da bwoalley bassyn as gleashaght, as cum y toshey cooie.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Caghlaa eh:** Nee paart dy leih goaill dagh fockle, nee paart hum, nee paart bwoalley cass, as nee paart jeeaghyn er ynrican. Ta dagh fer jeu mie. Jeeagh er yn [lioar-stiuree obbraghyn kiaull](/activities/music/) ain son ny smoo.
 
-### Reminiscence groups
+### Possanyn cooinaghtyn
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Ta possan cooinaghtyn çhaglym mygeayrt cooish, myr sampleyr laghyn scoill, chied ghleashtanyn, coggyllyn ny sourey, lesh jallooyn, nheeghyn as kiaull. She coloayrtys taitnyssagh y churrym, cha nee cooinaghtyn kiart.
 
-**How to run it:**
+**Kys dy chur er:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Reih un chooish as cur lesh kuse dy nheeghyn oddys sleih y chummal: mixer laue, glove basebal, edd, catalog rassyn.
+2. Cur un nhee er y traa mygeayrt. Feysht feyshtyn foshlit: “Insh dou mychione shoh,” “Cre t’ou fakin?” “Quoi ren ymmyd jeh red myr shoh?”
+3. Cur failt er dagh freggyrt. Ny jean kiartaghey date ny firrinys erbee.
+4. Stiur y coloayrtys gys cooinaghtyn maynrey. Ta ny coyrleyn cleachtais gra dy lhisagh kiaraleyderyn cooinaghtyn y stiurey gys cooinaghtyn mie, cha nee adsyn oddys seaghyn y chur.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+Ta [Conversation Cards](/games/conversation-cards/) cur kaartyn jallooyn clou lesh cuirraghyn foshlit liorish cooish ta gobbraghey mie dy ghra coloayrtys er bun. Ta ny smoo smooinaghtyn ayns yn [lioar-stiuree cooinaghtyn](/activities/reminiscence/) ain.
 
-### Finish the saying
+### Cur jerrey er y raa
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Ta raaghyn ennoil (“A penny saved is a penny...”) cuirrey da dagh fer geamagh magh y jerrey ry-cheilley. Soilshee [Finish the Saying](/games/finish-the-saying/) er skian vooar as lhig da’n phossan freggyrt myr un choraa. Ta cuirrey loayrt ayn lurg dagh raa. Mannagh vel peiagh erbee gra yn jerrey, soilshee eh as gow er. Cha nel freggyrt kiart ny neu-chiart ayn.
 
-### Large-print word search, together
+### Ronsaghey focklyn clou mooar, ry-cheilley
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Taishbyn y [Word Search](/games/word-search/) clou mooar er skian as jean shirrey son focklyn myr possan, ny prental coipyn son adsyn ta goaill soylley jeh gobbraghey er nyn son hene ec y voayrd. Ta focklyn goll harrish as sheese ynrican.
 
-### Gentle movement
+### Gleashaght meen
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Sheeynyn soie, cur boolley bog ny baloon mygeayrt, ny daunsin ayns caairrey gys kiaull ennoil. Soilshee dagh gleashaght ny keayrtyn na cur coontey jeh.
 
-### Sorting and matching at the table
+### Sorçhal as co-choardail ec y voayrd
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Foddee buill vooarey beggey jeh three ny kiare dy leih sorçhal jallooyn, peeshyn eaddeeyn ny greienyn argid ry-cheilley. Er skian, foddee [Picture Pairs](/games/picture-pairs/) ve cloiet lesh jallooyn faagit ry-akin, lesh unnane cramman choud’s ta’n voayrd loayrt mychione dagh jalloo.
 
-## How do I use your games on a big screen?
+## Kys neem’s ymmyd jeh ny gammanyn eu er skian vooar?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Ta ny gammanyn ain gobbraghey ayns jeeaghder-lin, myr shen foddee oo ad y ymmyd er çhellveeish ny taishbyneyder gyn nhee erbee y chur stiagh.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Oscail y gamman er laptop ny tablet cochianglt rish y skian liorish caayl ny castal.
+2. Jean y jeeaghder-lin lane-skian as soie y sheean ec leval cooie.
+3. Cur un leeideilagh dy yannoo y cramman choud’s ta’n possan geamagh magh reihyssyn. Ny cur tablet da cummaltagh ta laccal goaill e churrym.
+4. Scuirr tra erbee ta’n possan aarloo. Cha nel timer, coontey ny jerrey eginagh ec ny gammanyn.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+Ta [Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) as [Conversation Cards](/games/conversation-cards/) ny keayrtyn cooie son possanyn. Jeeagh er dagh reih er y [duillag gamman](/games/) ain.
 
-## How do I adapt one activity for mixed abilities?
+## Kys neem’s un obbyr y chaghlaa son ablidyn anchasley?
 
-Plan at least three ways to join every activity.
+Jean aarloo son ec y chooid sloo three aghtyn dy ghoaill ayrn ayns dagh obbyr.
 
-| Activity | More independent | Some support | Most support |
+| Obbyr | Ny smoo seyr | Paart dy chooney | Yn chooid smoo dy chooney |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo jallooyn | Feddyn as coodaghey e jallooyn hene | Ta cooneyder cowraghey; ta’n persoon coodaghey | Cummal kaart jalloo; clashtyn as jeeaghyn |
+| Co-ghoaill arrane | Goaill arrane, reih yn nah arrane | Hum, bwoalley bassyn, ymmyd craadey | Clashtyn, cummal scarf, bwoalley laue |
+| Cooinaghtyn | Ginsh skeealyn | Freggyrt ta/cha nel ny cowraghey | Cummal as ennaghtyn y nhee |
+| Ronsaghey focklyn | Gobbraghey er y choip clou echey hene | Feddyn focklyn er y skian vooar marish cooneyder | Clashtyn focklyn lhaiht magh |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Son cummaltee ayns ny kianglaghyn s’anmey, ta’n NHS gra dy lhisagh obbraghyn ve ny sassey as cur ny smoo geill da ny shey skianyn, myr sampleyr kiaull, nheeghyn dy vennaghtyn as massage laue. Foddee traa unnane-as-unnane lurg ny ayns y phossan ve ny share daue na’n possan hene. Jeeagh er [obbraghyn son ny kianglaghyn s’anmey](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Kys lhisagh leeideilee loayrt ayns possan?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Cur enn ort hene dagh keayrt, as ymmyd yn ennym share ec dagh persoon.
+- Loayr dy moal, cur un cheim ec y traa, as soilshee roish my loayrys oo.
+- Feysht cuirraghyn foshlit (“Insh dou mychione...”) ny reihyssyn aashagh, cha nee feyshtyn prowaltagh (“Vel cooinaght ayd...?”).
+- Ny jean kiartaghey. Cur booise da dagh fer son dagh cooney.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Ta ny smoo mychione shoh ayns nyn [lioar-stiuree coyrleyn coloayrtys](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Cur jerrey mie er, as lhiggey da sleih goll ersooyl
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Ta scuirr ny eiyrtys mie. Jean tastey jeh cowraghyn dy vel peiagh skee, neu-feagh ny seaghnit, as lhig da cooneyder cur shooyl ny soie feagh elley daue. Foddee persoon ta doostey beg ayns co-ghoaill arrane ve ny vud sheeoil.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Cur jerrey er dagh possan ayns yn un aght, lesh arrane ennoil ny booise aashagh, myr shen dy vel y jerrey feagh as ry-erkinnagh. Ny lurg shen, screeu sheese cre ren gobbraghey as quoi ghow soylley jeh. Ta ny noteyn shen jannoo yn nah churrym ny share.

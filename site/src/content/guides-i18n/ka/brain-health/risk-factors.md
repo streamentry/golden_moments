@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "დემენციის რისკის ფაქტორები: Lancet-ის 14 ფაქტორი"
+seoTitle: "დემენციის რისკის ფაქტორები: Lancet-ის 14"
+description: "2024 წლის Lancet-ის კომისიის მიერ დასახელებული დემენციის 14 შესაძლო ცვლადი რისკის ფაქტორი, ცხოვრების ეტაპების მიხედვით და რისი განხილვა შეგიძლიათ ექიმთან."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 წლის Lancet-ის კომისიამ დემენციის 14 შესაძლო ცვლადი რისკის ფაქტორი
+  დაასახელა: ნაკლები განათლება, სმენის დაქვეითება, მაღალი LDL ქოლესტერინი,
+  დეპრესია, თავის ტრავმა, ფიზიკური უმოქმედობა, დიაბეტი, მოწევა, მაღალი
+  არტერიული წნევა, სიმსუქნე, ალკოჰოლის ჭარბი მოხმარება, სოციალური იზოლაცია,
+  ჰაერის დაბინძურება და მხედველობის დაუმუშავებელი პრობლემები. მთლიანობაში ეს
+  ფაქტორები მსოფლიოში შემთხვევების დაახლოებით 45%-თან არის დაკავშირებული,
+  თუმცა არცერთი კონკრეტული ადამიანისთვის გარანტია არ არსებობს.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "ეს 14 ფაქტორი მთელ სიცოცხლეს მოიცავს: ერთი ადრეულ ასაკში, ათი შუახნის პერიოდში და სამი გვიან ასაკში."
+  - "შუახნის პერიოდში სმენის დაქვეითება და მაღალი LDL ქოლესტერინი თითოეული მსოფლიო შემთხვევების დაახლოებით 7%-თან არის დაკავშირებული, რაც ცალკეულ ფაქტორებს შორის ყველაზე მაღალი მაჩვენებელია."
+  - "ეს პროცენტები მოსახლეობაზე გათვლილი შეფასებებია, რომლებიც მიზეზ-შედეგობრივ კავშირს გულისხმობს. ზოგიერთი კავშირი შესაძლოა მხოლოდ ნაწილობრივ იყოს მიზეზობრივი."
+  - "ასაკი და გენები, რომელთა შეცვლაც შეუძლებელია, ასევე დემენციის მნიშვნელოვან რისკის ფაქტორებს წარმოადგენს. ამ 14 რისკის შემცირება არ იძლევა გარანტიას, რომ ვინმე დემენციას თავიდან აიცილებს."
+  - "უმეტესობა იმ ნაბიჯებისა, რომლებიც ამ ფაქტორებს ეხება, მაგალითად არტერიული წნევის, სმენისა და მხედველობის შემოწმება, სხვა მხრივაც სასარგებლოა ჯანმრთელობისთვის და ღირს ექიმთან განხილვა."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "რა არის დემენციის 14 ცვლადი რისკის ფაქტორი?"
+    a: "2024 წლის Lancet-ის კომისიამ დაასახელა ნაკლები განათლება, სმენის დაქვეითება, მაღალი LDL ქოლესტერინი, დეპრესია, თავის ტრავმული დაზიანება, ფიზიკური უმოქმედობა, დიაბეტი, მოწევა, მაღალი არტერიული წნევა, სიმსუქნე, ალკოჰოლის ჭარბი მოხმარება, სოციალური იზოლაცია, ჰაერის დაბინძურება და მხედველობის დაუმუშავებელი პრობლემები. მთლიანობაში ისინი მსოფლიოში დემენციის შემთხვევების თითქმის ნახევართან არის დაკავშირებული."
+  - q: "დემენციის რომელი რისკის ფაქტორია ყველაზე მნიშვნელოვანი?"
+    a: "მსოფლიო მოსახლეობის მასშტაბით კომისიამ შეაფასა, რომ შუახნის პერიოდში სმენის დაქვეითება და მაღალი LDL ქოლესტერინი თითოეული შემთხვევების დაახლოებით 7%-თან არის დაკავშირებული, შემდეგ მოდის ნაკლები განათლება და სოციალური იზოლაცია, თითოეული დაახლოებით 5%-ით. კონკრეტული ადამიანისთვის რომელი ფაქტორებია ყველაზე მნიშვნელოვანი, მის საკუთარ ჯანმრთელობაზეა დამოკიდებული, ამიტომ ექიმი საუკეთესო მეგზურია."
+  - q: "რომელი ორი ახალი რისკის ფაქტორი დაემატა 2024 წელს?"
+    a: "დიახ. 2024 წლის ანგარიშმა 2020 წელს დასახელებულ 12 ფაქტორს დაამატა მაღალი LDL („ცუდი“) ქოლესტერინი შუახნის პერიოდში და მხედველობის დაუმუშავებელი პრობლემები გვიან ასაკში. კომისიამ ისინი შესაბამისად შემთხვევების დაახლოებით 7%-სა და 2%-თან დააკავშირა."
+  - q: "არის თუ არა ასაკი ცვლადი რისკის ფაქტორი?"
+    a: "არა. ასაკი ალცჰაიმერის დაავადების ყველაზე დიდი ცნობილი რისკის ფაქტორია და მისი შეცვლა შეუძლებელია. გენებსაც აქვთ მნიშვნელობა. ამ გვერდზე მოცემული 14 ფაქტორი ისაა, რომელთა შესაძლო შეცვლაც, კვლევების მიხედვით, შეიძლება."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,90 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+რისკის ფაქტორი არის ის, რაც გარკვეული მდგომარეობის განვითარების უფრო მაღალ ალბათობასთან არის დაკავშირებული. ის ყველა შემთხვევაში მიზეზი არ არის და მისი არსებობა არ ნიშნავს, რომ დემენცია აუცილებლად განვითარდება. ამ გვერდზე მოცემულია დემენციის 14 რისკის ფაქტორი, რომლებიც 2024 წლის Lancet-ის კომისიის მიხედვით შესაძლოა ცვალებადი იყოს, რა კავშირებს აჩვენებს კვლევა და რა საკითხების განხილვა შეგიძლიათ ექიმთან.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+უფრო ფართო სურათისთვის, მათ შორის იმისთვის, თუ რა აჩვენეს დიდმა კვლევებმა, დაიწყეთ გვერდით
+[შესაძლებელია თუ არა დემენციის თავიდან აცილება? რას ამბობს კვლევა](/brain-health/can-dementia-be-prevented/).
+ეს არის ზოგადი ინფორმაცია და არა სამედიცინო რეკომენდაცია; იხილეთ ჩვენი
+[სამედიცინო პასუხისმგებლობის უარყოფა](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## რა არის დემენციის 14 რისკის ფაქტორი?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 წლის Lancet-ის კომისიამ](https://doi.org/10.1016/S0140-6736(24)01296-0),
+რომლის ავტორებიც დემენციის 27 მკვლევარი არიან, შეაფასა, რომ 14 შესაძლო ცვლადი
+რისკის ფაქტორი ერთად მსოფლიოში დემენციის შემთხვევების დაახლოებით 45%-ს შეადგენს. ქვემოთ მოცემული თითოეული ფაქტორის პროცენტი არის კომისიის შეფასება იმ შემთხვევების წილის შესახებ, რომლებიც მასთან არის დაკავშირებული მსოფლიოში, მთელ რიცხვებამდე დამრგვალებული. ეს მაჩვენებლები ერთმანეთს ემთხვევა, რადგან ბევრ ადამიანს ერთდროულად რამდენიმე რისკი აქვს, რის გამოც მათი ჯამი 45%-ს შეადგენს და არა მეტს.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| რისკის ფაქტორი | ცხოვრების ეტაპი | შემთხვევების წილი | რას აჩვენებს კვლევა | რა შეგიძლიათ გააკეთოთ |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| ნაკლები განათლება | ადრეული ასაკი | 5% | სწავლის ნაკლები წლები უფრო მაღალ რისკთან არის დაკავშირებული. შუახნის პერიოდში გონებრივად აქტიური ყოფნაც, როგორც ჩანს, დამცველობით მოქმედებს, იმ ადამიანებისთვისაც კი, ვისაც мало განათლება აქვს მიღებული. | განაგრძეთ სწავლა და გონებრივად საინტერესო საქმიანობები ნებისმიერ ასაკში: კითხვა, ჰობი, კურსები, თამაშები სხვებთან ერთად. |
+| სმენის დაქვეითება | შუახნის პერიოდი | 7% | სმენის დაუმუშავებელი დაქვეითება უფრო მაღალ რისკთან არის დაკავშირებული. კვლევები, რომლებიც ადამიანებს დროთა განმავლობაში აკვირდებიან, სმენის აპარატის გამოყენებას უფრო დაბალ რისკთან აკავშირებენ. | შეამოწმეთ სმენა. ჰკითხეთ, შეიძლება თუ არა სმენის აპარატმა დაგეხმაროთ და გამოიყენეთ, თუ დაგინიშნეს. დაიცავით ყურები ხმამაღალი ხმისგან. |
+| მაღალი LDL ქოლესტერინი | შუახნის პერიოდი (დაახლოებით 40 წლიდან) | 7% | მაღალი LDL („ცუდი“) ქოლესტერინი შუახნის პერიოდში უფრო მაღალ რისკთან არის დაკავშირებული. სადამკვირვებლო კვლევები სტატინების გამოყენებას უფრო დაბალ რისკთან აკავშირებენ, თუმცა გვიან ასაკში ჩატარებულმა კლინიკურმა კვლევებმა ეს არ აჩვენა. | ჰკითხეთ ექიმს, საჭიროა თუ არა ქოლესტერინის შემოწმება და რა უნდა გააკეთოთ, თუ რამეს მოითხოვს. |
+| დეპრესია | შუახნის პერიოდი | 3% | დეპრესია უფრო მაღალ რისკთან არის დაკავშირებული. გვიან ასაკში დეპრესია დემენციის ადრეული ნიშანიც შეიძლება იყოს. | თუ ცუდი გუნება-განწყობა ან ინტერესის დაკარგვა ორ კვირაზე მეტხანს გრძელდება, ექიმს აცნობეთ. დეპრესია მკურნალობას ექვემდებარება. |
+| თავის ტრავმული დაზიანება | შუახნის პერიოდი | 3% | თავის ტრავმა ნებისმიერ ასაკში და ნებისმიერი მიზეზით, მათ შორის კონტაქტური სპორტით, უფრო მაღალ რისკთან არის დაკავშირებული. | ველოსიპედით ან კონტაქტური სპორტით занятებისას ატარეთ ჩაფხუტი. ჰკითხეთ დაცემის პრევენციის შესახებ. თავის ტრავმის შემდეგ დაისვენეთ და გამოიკვლიეთ. |
+| ფიზიკური უმოქმედობა | შუახნის პერიოდი | 2% | ადამიანები, რომლებიც ვარჯიშობენ და სპორტით არიან დაკავებულნი, ნაკლებად ხშირად ავადდებიან დემენციით. კლინიკური კვლევების მტკიცებულებები ჯერ კიდევ შეზღუდულია. | ჰკითხეთ, რა სახის აქტივობაა თქვენთვის უსაფრთხო და იპოვეთ ის, რაც სიამოვნებას განიჭებთ. იხილეთ ჩვენი [ვარჯიშის სახელმძღვანელო](/brain-health/exercise/). |
+| დიაბეტი | შუახნის პერიოდი | 2% | დიაბეტი, განსაკუთრებით მაშინ, როცა შუახნის პერიოდში იწყება ან უფრო ხანგრძლივად გრძელდება, უფრო მაღალ რისკთან არის დაკავშირებული. | შეამოწმეთ სისხლში შაქრის დონე. თუ დიაბეტი გაქვთ, იმუშავეთ თქვენს სამედიცინო გუნდთან მის უსაფრთხოდ მართვაზე. |
+| მოწევა | შუახნის პერიოდი | 2% | მოწევა უფრო მაღალ რისკთან არის დაკავშირებული. კვლევები აჩვენებს, რომ ყოფილ მწეველებს არ აქვთ იგივე მომატებული რისკი, რაც მათ, ვინც მოწევას აგრძელებს. | ჰკითხეთ მოწევის მიტოვების მხარდაჭერის შესახებ. მიტოვება ნებისმიერ ასაკში ღირებულია. |
+| მაღალი არტერიული წნევა | შუახნის პერიოდი | 2% | მაღალი არტერიული წნევა შუახნის პერიოდში უფრო მაღალ რისკთან არის დაკავშირებული. არტერიული წნევის სამკურნალო საშუალებების კვლევები დემენციის ან კოგნიტური დაქვეითების ოდნავ დაბალ რისკზე მიუთითებს. | იცოდეთ თქვენი მაჩვენებლები. კომისია გირჩევთ, რომ ზედა მაჩვენებელი დაახლოებით 40 წლიდან 130 ან უფრო დაბალი იყოს; ჰკითხეთ, რა მიზანი შეგეფერებათ თქვენ. |
+| სიმსუქნე | შუახნის პერიოდში | 1% | სიმსუქნე შუახნის პერიოდში უფრო მაღალ რისკთან არის დაკავშირებული და ასევე ზრდის დიაბეტის რისკს. | ჰკითხეთ ექიმს, რა არის თქვენთვის ჯანსაღი წონა. ხანდაზმულმა ადამიანებმა წონის დასაკლებად დიეტა სამედიცინო რჩევის გარეშე არ უნდა დაიცვან. |
+| ალკოჰოლის ჭარბი მოხმარება | შუახნის პერიოდი | 1% | ალკოჰოლის ჭარბი მოხმარება უფრო მაღალ რისკთან არის დაკავშირებული. ჭარბი სმის შემცირება უფრო დაბალ რისკთან არის დაკავშირებული. | ჰკითხეთ, რა არის თქვენთვის უსაფრთხო ზღვარი, განსაკუთრებით თქვენს წამლებთან გათვალისწინებით. |
+| სოციალური იზოლაცია | გვიანი ასაკი | 5% | იშვიათი სოციალური კონტაქტი უფრო მაღალ რისკთან არის დაკავშირებული. | შეინარჩუნეთ კავშირი ადამიანებთან თქვენთვის სასიამოვნო გზებით. იხილეთ ჩვენი [სოციალური კავშირის სახელმძღვანელო](/brain-health/social-connection/). |
+| ჰაერის დაბინძურება | გვიანი ასაკი | 3% | უფრო დაბინძურებულ ჰაერში ცხოვრება უფრო მაღალ რისკთან არის დაკავშირებული. კვლევები უფრო სუფთა ჰაერს უფრო დაბალ რისკთან აკავშირებენ. | ეს ძირითადად საჯარო პოლიტიკის საკითხია. გადაამოწმეთ ჰაერის ხარისხის ადგილობრივი გაფრთხილებები და ძალიან დაბინძურებულ დღეებში შეზღუდეთ გარეთ გატარებული დრო. |
+| მხედველობის დაუმუშავებელი პრობლემები | გვიანი ასაკი | 2% | მხედველობის შეუმსუბუქებელი პრობლემები უფრო მაღალ რისკთან არის დაკავშირებული. შეერთებულ შტატებში ჩატარებულმა ერთმა დიდმა კვლევამ კატარაკტის ოპერაცია უფრო დაბალ რისკთან დააკავშირა. | რეგულარულად გაიკეთეთ თვალის შემოწმება. ჰკითხეთ, შესაძლებელია თუ არა ისეთი პრობლემების მკურნალობა, როგორიც კატარაკტაა. |
 
-## How should I read these percentages?
+## როგორ უნდა წავიკითხოთ ეს პროცენტები?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+ფრთხილად. კომისიის საკუთარ ანგარიშში რამდენიმე საკითხია ხაზგასმული, რომელიც გასათვალისწინებელია:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **ისინი აღწერენ მოსახლეობას და არა ცალკეულ ადამიანებს.** University College London-ის
+  [ანგარიშის შეჯამებაში](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  აღნიშნულია, რომ რისკის შემცირება მოსახლეობის დონეზე მუშაობს და არ იძლევა გარანტიას,
+  რომ რომელიმე კონკრეტული ადამიანი დემენციას თავიდან აიცილებს.
+- **ისინი მიზეზ-შედეგობრივ კავშირს გულისხმობენ.** ავტორებმა მხოლოდ ის ფაქტორები შეიტანეს,
+  რომლებზეც დამაჯერებელი მტკიცებულებები არსებობდა, მაგრამ აღნიშნავენ, რომ ზოგიერთი კავშირი შესაძლოა მხოლოდ ნაწილობრივ იყოს მიზეზობრივი.
+- **ეს მსოფლიო მასშტაბის მაჩვენებლებია.** მონაცემების უმეტესობა მაღალი შემოსავლების ქვეყნებიდან მოდის
+  და რეალური წილი ნებისმიერი კონკრეტული ქვეყნისა თუ საზოგადოებისათვის განსხვავებული იქნება.
+- **მცირე პროცენტებსაც შეიძლება ჰქონდეს მნიშვნელობა.** ფაქტორი, რომელიც მსოფლიო მასშტაბით შემთხვევების 2%-თან არის დაკავშირებული,
+  მაინც ძალიან ბევრ ადამიანს ეხება.
 
-## Which risk factors were added in 2024?
+## რომელი რისკის ფაქტორები დაემატა 2024 წელს?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 წლის ანგარიშმა 2020 წელს დასახელებულ 12 ფაქტორს ორი დაამატა:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **მაღალი LDL ქოლესტერინი შუახნის პერიოდში**, რომელიც შემთხვევების დაახლოებით 7%-თან არის დაკავშირებული.
+- **მხედველობის დაუმუშავებელი პრობლემები გვიან ასაკში**, რომლებიც შემთხვევების დაახლოებით 2%-თან არის დაკავშირებული.
 
-## What risk factors cannot be changed?
+## რა რისკის ფაქტორების შეცვლა შეუძლებელია?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging-ის მიხედვით
+[ასაკი ალცჰაიმერის დაავადების ყველაზე დიდი ცნობილი რისკის ფაქტორია](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)
+და მისი შეცვლა ვერავინ შეუძლია. გენებსაც აქვთ მნიშვნელობა; ალცჰაიმერის რისკზე გავლენის მქონე ერთ-ერთი კარგად ცნობილი გენი არის APOE. NIA ასევე აღნიშნავს, რომ მეცნიერებს ჯერ კიდევ სრულად არ ესმით, რა იწვევს ალცჰაიმერს ადამიანების უმეტეს შემთხვევაში. Lancet-ის კომისია აღნიშნავს, რომ შესაძლო ცვლადი რისკების შემცირება შესაძლებელია ადამიანის გენეტიკური რისკის მიუხედავად.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+იმის გამო, რომ ასაკსა და გენებს ასეთი დიდი წვლილი აქვთ, ბევრი ადამიანი, ვისაც 14 რისკის ფაქტორიდან არცერთი არ აქვს, მაინც ავადდება დემენციით. ეს არავის ბრალი არ არის.
 
-## What does the trial evidence say about changing these risks?
+## რას ამბობს კლინიკური კვლევების მტკიცებულებები ამ რისკების შეცვლაზე?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+რისკის ფაქტორის დემენციასთან დაკავშირება არ არის იგივე, რაც იმის დამტკიცება, რომ მისი შეცვლა დემენციის რისკს ამცირებს. რამდენიმე მაგალითი იმისა, რა მდგომარეობაშია კლინიკური კვლევების მტკიცებულებები:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **არტერიული წნევა.** SPRINT MIND კვლევაში არტერიული წნევის უფრო დაბალმა მიზანმა მნიშვნელოვნად შეამცირა მსუბუქი კოგნიტური დაქვეითება. მან სავარაუდო დემენცია მნიშვნელოვნად არ შეამცირა, თუმცა შესაძლოა კვლევა ამის დასადგენად ძალიან მცირე ყოფილიყო
+  ([SPRINT MIND, JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **სმენის აპარატები.** Lancet-ის კომისია აღწერს სმენის აპარატების სამწლიან კვლევას, რომელმაც აზროვნებაზე საერთო გავლენა ვერ აჩვენა, მაგრამ სარგებელი აღმოაჩინა იმ ადამიანების ქვეჯგუფში, ვისაც უფრო მაღალი რისკი ჰქონდა. კვლევები, რომლებიც ადამიანებს დროთა განმავლობაში აკვირდებიან, სმენის აპარატის გამოყენებას უფრო დაბალ რისკთან აკავშირებენ. მეტის ნახვა შეგიძლიათ ჩვენს [სმენის სახელმძღვანელოში](/brain-health/hearing/).
+- **ფიზიკური აქტივობა.** National Institute on Aging-ის მიხედვით, საკმარისი კლინიკური მტკიცებულება არ არსებობს იმის დასკვნისთვის, რომ ვარჯიში შეუძლია თავიდან აიცილოს ან შეანელოს მსუბუქი კოგნიტური დაქვეითება ან ალცჰაიმერი, თუმცა ზოგიერთი კვლევა მიუთითებს, რომ მას შესაძლოა ასაკთან დაკავშირებული დაქვეითების დროს დაეხმაროს
+  ([NIA ალცჰაიმერის პრევენციის შესახებ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+გრძელი კვლევები, რომლებიც დემენციის განვითარებას ელოდებიან, ნელი და ძვირია, ამიტომ მრავალი ფაქტორისთვის საუკეთესო მტკიცებულებები კვლავ იმ კვლევებიდან მოვა, რომლებიც ადამიანებს წლების განმავლობაში აკვირდებიან. ასეთი მტკიცებულებები სასარგებლოა, მაგრამ კლინიკურ კვლევაზე ნაკლებად მტკიცეა.
 
-## What about sleep and diet?
+## რა შეიძლება ითქვას ძილზე და კვებაზე?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+კომისიამ განიხილა ძილი და კვება, მაგრამ ისინი სიაში არ დაამატა, რადგან მტკიცებულებები საკმარისად ძლიერი ან თანმიმდევრული არ იყო. ჩვენი სახელმძღვანელოები
+[ძილის](/brain-health/sleep/) და [კვების](/brain-health/diet/) შესახებ განმარტავს, რა არის ცნობილი.
 
-## Talk with a doctor
+## ისაუბრეთ ექიმთან
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+წლიური შემოწმება კარგი დროა ამ საკითხების გასახსენებლად. შეგიძლიათ ეს სია თან წაიღოთ და ჰკითხოთ:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- რა მაჩვენებლები მაქვს არტერიული წნევის, სისხლში შაქრისა და ქოლესტერინის მხრივ და რომელიმე მათგანს სჭირდება თუ არა ყურადღება?
+- უნდა შემამოწმო სმენა და მხედველობა?
+- ის აქტივობა, რომელსაც ვაკეთებ, ჩემთვის უსაფრთხო და საკმარისია?
+- შეიძლება თუ არა რომელიმე ჩემს წამალს გავლენა ჰქონდეს მეხსიერებაზე ან აზროვნებაზე?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+წამლების, კვების, მარხვის, ვარჯიშის ან დანამატების შეცვლამდე ჯერ ექიმთან ისაუბრეთ. თუ თქვენ ან ადამიანი, რომელზეც ზრუნავთ, მოულოდნელ დაბნეულობას, სხეულის ერთ მხარეს სისუსტეს ან მეტყველების გაძნელებას შეამჩნევთ, დარეკეთ 112-ზე.

@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Earste sinjalen fan demyntens en wannear nei de dokter"
+seoTitle: "Earste sinjalen fan demyntens en wannear nei de dokter"
+description: "Faak foarkommende earste sinjalen fan demyntens, hoe't se ferskille fan gewoan âlder wurde, behandelbere oarsaken fan ûnthâldproblemen en hoe't jo jo tariede op in ôfspraak by de dokter."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Unthâldferlies dat it deistich libben yn 'e war bringt, muoite mei bekende taken, betizing oer tiid of plak
+  en feroaringen yn stimming of oardiel kinne earste sinjalen fan demyntens wêze. In protte oare omstannichheden, lykas
+  problemen mei de skildklier, in tekoart oan fitamine B12, side-effekten fan medisinen, depresje en sliepproblemen, kinne
+  ferlykbere feroaringen feroarsaakje. Allinnich in kwalifisearre soarchferliener kin in diagnoaze stelle. Plotselinge betizing hat daliks medyske help nedich.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Sa no en dan wat ferjitte is faak by it âlder wurden; feroaringen dy't it deistich libben yn 'e war bringe, binne it neisjen wurdich."
+  - "De Alzheimer's Association beskriuwt 10 warskôgingssinjalen, elk mei in typyske feroaring troch âlder wurden om mei te ferlykjen."
+  - "Problemen mei de skildklier, in tekoart oan fitamine B12, side-effekten fan medisinen, depresje, ynfeksjes en sliepproblemen kinne allegear ynfloed hawwe op it ûnthâld, en guon binne te behanneljen."
+  - "Allinnich in kwalifisearre soarchferliener kin demyntens fêststelle; online kwisjes en selsstests kinne dat net."
+  - "Betizing dy't ynienen ûntstiet, yn in pear oeren of dagen, kin delirium wêze en hat daliks medyske help nedich."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Is ferjitten in normaal diel fan it âlder wurden?"
+    a: "Foar in part wol. It National Institute on Aging seit dat dingen sa no en dan kwytreitsje of in rekken ferjitte meastentiids ljocht, leeftydsrelatearre ferjitters is. Demyntens is gjin normaal diel fan it âlder wurden. Unthâldproblemen dy't deistige taken lykas autoriden, de telefoan brûke of de wei nei hûs fine lestich meitsje, binne it wurdich om mei in dokter te besprekke."
+  - q: "Kinne ûnthâldproblemen in oare oarsaak hawwe as demyntens?"
+    a: "Ja. It National Institute on Aging neamt ûnder oare problemen mei de skildklier, nieren of lever, side-effekten fan medisinen, depresje en eangst, in tekoart oan fitamine B12, alkoholmisbrûk, sliepproblemen, ynfeksjes en holleletsel. Guon fan dizze ferbetterje as se behannele wurde, en dat is ien reden wêrom in medyske kontrôle wichtich is."
+  - q: "Kin ik immen thús op demyntens teste?"
+    a: "Nee. Allinnich in kwalifisearre soarchferliener kin demyntens fêststelle, mei in medyske skiednis, in fysyk ûndersyk, tests foar ûnthâld en tinken, laboratoariumûndersiken en soms harsensscans. Sels de koarte tests dy't dokters brûke, binne op har eigen net genôch om demyntens fêst te stellen."
+  - q: "Wat moat ik dwaan as immen ynienen betize wurdt?"
+    a: "Helje daliks medyske help. Plotselinge betizing kin delirium wêze, dat de VA beskriuwt as in medysk needgefal. Belje daliks de soarchferliener fan de persoan of belje 112, bliuw by de persoan en notearje hokker medisinen er of sy brûkt."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Feroaringen yn jo eigen ûnthâld, of yn it ûnthâld fan immen dêr't jo leaf om binne, opmerke kin beangstigjend wêze. Dizze side kin jo helpe om te besluten wannear't jo in ôfspraak by de dokter meitsje en hoe't jo jo dêr op tariede. Se kin jo net fertelle oft immen demyntens hat. **Allinnich in kwalifisearre soarchferliener kin demyntens fêststelle**, en in protte omstannichheden dy't ûnthâldproblemen feroarsaakje, binne hielendal gjin demyntens. Fertrou asjebleaft net op online kwisjes of selsstests.
 
-## What are the early signs of dementia?
+## Wat binne de earste sinjalen fan demyntens?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+De [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) beskriuwt 10 earste sinjalen. By elk sinjaal stiet in typyske feroaring troch âlder wurden om mei te ferlykjen. Yn ús eigen wurden:
 
-| Sign worth checking | More typical with age |
+| Sinjaal dat it neisjen wurdich is | Faker by it âlder wurden |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Unthâldferlies dat it deistich libben yn 'e war bringt, lykas resinte barrens ferjitte of itselde hieltyd wer freegje | Sa no en dan in namme of ôfspraak ferjitte en it letter wer witte |
+| Muoite mei plannen meitsje of problemen oplosse, lykas in bekend resept folgje of rekkens byhâlde | Sa no en dan in flater meitsje mei de húshâldlike rekkens |
+| Muoite om bekende taken thús, op it wurk of ûnderweis ôf te meitsjen | Sa no en dan help nedich hawwe mei in ynstelling fan de magnetron of it opnimmen fan in tv-programma |
+| De datum, it seizoen of wêr't jo binne kwytreitsje | De dei fan 'e wike ferkeard hawwe en it dan útfine |
+| Nije muoite mei it ynskatten fan ôfstannen, lêzen of kleuren ûnderskiede | Feroaringen yn it sicht troch katarakt |
+| Nije problemen mei wurden, lykas midden yn in petear stean bliuwe of dingen by de ferkearde namme neame | Sa no en dan muoite hawwe om it goede wurd te finen |
+| Dingen op ûngewoane plakken lizze en de stappen net wer fine kinne | Sa no en dan dingen kwytreitsje en se werfine troch de stappen nei te gean |
+| Min oardiel, bygelyks oer jild of persoanlike fersoarging | Sa no en dan in minne beslút nimme |
+| Josels weromlûke út hobby's, wurk of sosjale aktiviteiten | Sa no en dan gjin sin hawwe om nei in famylje- of sosjale gearkomst te gean |
+| Feroaringen yn stimming of persoanlikheid, lykas betize, erchtinkend, bang of eangstich wurde | Fêste gewoanten hawwe en lilk wurde as in routine fersteurd wurdt |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Ien sinjaal allinnich betsjut net dat it demyntens is. It giet om in **feroaring yn ferliking mei wat normaal is foar dy persoan**, benammen as dy feroaring it deistich libben dreger makket.
 
-## How is normal aging different from dementia?
+## Hoe ferskilt gewoan âlder wurden fan demyntens?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+It [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) seit dat in protte âldere folwoeksenen merke dat se dingen stadiger ûnthâlde, of dat se sa no en dan wat kwytreitsje of in rekken ferjitte. Dat binne meastentiids sinjalen fan ljocht ferjitters. **Demyntens is gjin normaal diel fan it âlder wurden.** Serieuze ûnthâldproblemen meitsje deistige aktiviteiten lestich, lykas autoriden, de telefoan brûke of de wei nei hûs fine.
 
-The NIA suggests talking with a doctor if someone:
+It NIA riedt oan om mei in dokter te praten as immen:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Hieltyd wer deselde fragen stelt
+- Ferdwilet rekket op plakken dy't er of sy earder goed koe
+- Muoite hat om resepten of oanwizings te folgjen
+- Mear betize rekket oer tiid, minsken en plakken
+- Ophâldt mei goed foar josels te soargjen, bygelyks min ite, net waskje of ûnfeilich gedrage
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Guon minsken hawwe in **lichte kognitive beheining (MCI)**. Dat betsjut dat se mear problemen hawwe mei ûnthâld of tinken as oaren fan har leeftyd, mar it deistich libben noch wol oan kinne. It NIA seit dat MCI in ier sinjaal fan de sykte fan Alzheimer wêze kin, mar net elkenien mei MCI kriget dy sykte.
 
-## What else can cause memory problems?
+## Wat kin noch mear ûnthâldproblemen feroarsaakje?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+In protte oare saken as demyntens kinne ynfloed hawwe op it ûnthâld, en guon wurde better mei behanneling. It NIA neamt:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Problemen mei de skildklier, nieren of lever**
+- **Side-effekten fan medisinen**
+- **Depresje en eangst**
+- **In tekoart oan fitamine B12** of net genôch sûn iten
+- **Sliepproblemen**
+- **Misbrûk fan alkohol of drugs**
+- **Ynfeksjes, bloedstollings of tumors** yn 'e harsens
+- **Holleletsel**, lykas in harsenskodding
+- **Grutte stress of ferlies**, lykas mei pensjoen gean of in partner ferlieze
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Problemen mei harkjen en sjen kinne ek foar betizing oansjoen wurde; sjoch ús [gids oer harkjen](/brain-health/hearing/). Dêrom is in medyske kontrôle wichtich. Neffens de [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) freegje dokters faak bloedûndersyk oan om te kontrolearjen op problemen mei de skildklier, fitaminetekoarten en ynfeksjes. Goede [sliep](/brain-health/sleep/) en it behanneljen fan depresje binne ek it neamen wurdich.
 
-## Sudden confusion is an emergency
+## Plotselinge betizing is in needgefal
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Betizing dy't fluch ûntstiet, yn in pear oeren of dagen, hat daliks medyske help nedich.** It kin delirium wêze. De [VA beskriuwt delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as in medysk needgefal en riedt oan om daliks de soarchferliener fan de persoan te beljen of 112 te beljen. Sinjalen binne ûnder oare:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Op- en delgongen yn it fermogen om helder te tinken
+- Muoite om de oandacht der by te hâlden
+- Net oarderlik tinke
+- Ungewoan slaperich wêze, of krekt ûngewoan ûnrêstich en oproerich
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Dit kin elkeen oerkomme, ek minsken dy't al mei demyntens libje. Neffens de [NHS](https://www.nhs.uk/symptoms/confusion/) binne faak foarkommende oarsaken ynfeksjes (urineweiynfeksjes komme faak foar by âldere minsken en minsken dy't mei demyntens libje), in beroerte, in lege bloedsûker by minsken mei diabetes, holleletsel en guon medisinen. Wylst jo op help wachtsje, bliuw by de persoan en gerêststelje him of har mei koarte, ienfâldige wurden. Stel net in protte fragen, en notearje hokker medisinen de persoan brûkt.
 
-## How do I prepare for the doctor's appointment?
+## Hoe tariede ik my op de ôfspraak by de dokter?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+In goede ôfspraak begjint mei goede notysjes. De [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) riedt oan om dit mei te nimmen:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **In list mei feroaringen** yn ûnthâld, stimming en gedrach, mei konkrete foarbylden en sawat wannear't it begûn is
+2. **Eardere en hjoeddeiske sûnensproblemen**, ynklusyf in famyljeskiednis fan ûnthâldproblemen
+3. **Alle medisinen op resept en sûnder resept**
+4. **Alle fitaminen of oanfollingen**
+5. **Jo fragen**, bygelyks hokker ûndersiken dien wurde, hoe lang se duorje en wannear't de útslaggen komme
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+It helpt ek om in famyljelid of freon mei te nimmen dy't de persoan goed kent. It [NIA leit út](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) dat dokters sawol de persoan as in famyljelid freegje kinne oer sûnens, medisinen, deistige aktiviteiten en feroaringen yn gedrach. Dokters kinne ek:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Tests dwaan foar ûnthâld, probleemoplossing, oandacht, tellen en taal
+- Bloed-, urine- en oare ûndersiken oanfreegje om oare oarsaken te finen
+- Kontrolearjen op depresje of oare omstannichheden fan de geastlike sûnens
+- Harsensscans oanfreegje, lykas in CT-scan of MRI
+- Trochstjoere nei in spesjalist, lykas in geriater, neurolooch, geriatryske psychiater of neuropsycholooch
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+It NIA merkt op dat in kognitive beoardieling in fereaske diel is fan it jierlikse wolwêzenbesyk yn Medicare, wat in natuerlik momint wêze kin om soargen te neamen. Sels de koarte tests dy't dokters brûke, binne op har eigen net genôch om demyntens fêst te stellen. Se binne in earste stap nei in folsleinere beoardieling, en in diagnoaze kin mear as ien besite freegje. It NIA riedt oan dat minsken mei ûnthâldproblemen elke 6 oant 12 moannen wer nei de dokter geane.
 
-## Raising the subject kindly
+## It ûnderwerp mei soarch oansnije
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+As jo soargen hawwe oer immen oars, kies dan in rêstich, privee momint. Praat oer konkrete dingen dy't jo opfallen binne, en bring it as soarch oer de sûnens fan de persoan, net as krityk. It foarstel om in algemiene kontrôle te dwaan kin minder beangstigjend fiele. Belûk de persoan by besluten en sprek him of har oan as de folwoeksene dy't er of sy is. Us [tips foar kommunikaasje](/caregiving/communication-tips/) kinne helpe.
 
-## Talk with a doctor
+## Praat mei in dokter
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+As jo feroaringen opmerke yn ûnthâld, tinken, stimming of deistige feardichheden dy't nij binne en oanbliuwe, meitsje dan in ôfspraak mei de hûsdokter. By plotselinge betizing, belje daliks 112 of de soarchferliener fan de persoan. Iere kontrôle betsjut dat behandelbere oarsaken fûn wurde kinne en, as it demyntens is, dat der mear tiid is om te plannen en stipe te finen. Soargje yn dizze perioade ek goed foar josels; sjoch ús [gids foar selssoarch fan mantelsoargers](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Dizze side is algemiene ynformaasje, gjin medysk advys. Sjoch ús [medyske disclaimer](/medical-disclaimer/).

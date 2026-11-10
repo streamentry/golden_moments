@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Samaña ukat amuyu wali: kunsa yatiñanakax yatiyi"
+seoTitle: "Samaña ukat demencia: kunsa yatiñanakax yatiyi"
+description: "Yatiñanakax yatiyi samaña ukat demencia uñtasiñ manq'aña, amuyu jiwayasiñ qhanañchawi ukat jichhürunakan samañ thaki jaqinakatak ukat jaqichirinakatak."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Walja suma yatiñanakax yatiyi jaya pacha samañax ch'iqa utjañat demencia uñtasiñ jaktawi, ukat
+  laboratorio yatiñanakax yatiyi amuyu uma jaqukasiñ ukat wañchukasiñ. Ukax jichhürunakax ch'iqa
+  yatiñawa, ukat 2024 Lancet Commission yatiñirinakax samañ janiw jaktañ thaki uñjañ utjkiti. Walja
+  samañ thakinak jichhürunakan sapa uruna sum sartañataki yanapaski. Demencia utjirinakan samañ
+  jan walinakax walja utjaraki, ukat doctor jiwasaru yatiyañax wali.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Ruta Unidos yatiñanakax 25 maranakan 8,000 jaqinak uñjasa, samaña 6 horas jan ukax akatjama jaya pacha samañ ukax demencia ch'iqa utjañ jaktawi."
+  - "Samañ jan walinakax demencia qalltat uñjañ ukhamarak utjaraki, ukhamasa kunatix mayjt'ayi ukat kunatix mayjt'ayatäki jan yatiñkiti."
+  - "Samañat amuyu umat beta-amiloide aptañax chiqa ukat qalltawa, walja ukax lab uywanakan (ratonanakan) uñjatawa."
+  - "Samañ apnea (samañ sañ ch'usaña) walja utjaraki, ukat estudionakan demenciaru mayjt'ayatawa; jan jach'a jach'a surasiña ukat urux samaña jaqukasiñax uñjañ wali."
+  - "Janiw samañ sanjaqiñ ukat samañ aljañ kunatix jan doctor jiwasaru yatiyañkama, ni qalltañ ni tukuyañ."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "¿Ch'iqa samañax Alzheimer ukar puriyasiñ?"
+    a: "Janiw uñacht'ayatäkiti. Walja yatiñanakax yatiyi ch'iqa samañ demencia ch'iqa utjañ jaktawi, ukampis demenciax pachpa samañ jaqukasi, walja mara sartkipana diagnóstico. 2024 Lancet Commission yatiñirinakax jan chiqa yatiñanakampi samañ jaktañ thaki uñjañ janiw utjkiti sasaw uñjapxi."
+  - q: "¿Kunas jaya pacha samaña?"
+    a: "National Institute on Aging yatiñirinakax yatiyi jaya pacha jaqinakax kunaymana samaña jaqinakaki, 7 ukat 9 horas uruna sasaw. Walja jaya pacha jaqinakax jisk'a qhipat lawpuñ ukat jisk'a uru sarañ qalltapxi, ukax wali."
+  - q: "¿Kunatsa demencia jaqix urux samaski ukat arumax jaytkaski?"
+    a: "Demenciax jaqin pachpa samañ pachap jaqukaski, ukhamasti samaña ukat jaytañ pacha jaqukasi. Llakisiña, aburrisiña, phiñasiña jan ukax medicina ch'uxñatanakax yanapaski. Inti k'ana, sapa uruna lurañanaka ukat jisk'a arumat sarañanaka walja yanapaspawa. Doctor jiwasax janchin jaqichañanak thaki uñjañ utjaraki."
+  - q: "¿Uñjasiñ jaqi samañ yanapañataki samañ medicina churañ?"
+    a: "Jumax walja doctor jiwasampi yatiyañ sapa, sapa mayni farmacia uywatanakax. National Institute on Aging yatiñirinakax yatiyi, Alzheimer utjirinakan samañ medicinanakax jisk'a jaytañ, jaytasiña ukat llakisiña jaktayi."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Samaña ukat amuyu wali chiqpachansa mayacht'asipxi, ukampis kunjamasa mayacht'asipxi ukax jichhürunakax yatiñ sarnaqapxi. Walja yatiñanakax yatiyi ch'iqa samañax demencia ch'iqa utjañ jaktawi. Demenciax pachpa samañ jaqukasi. Jichha qillqatax kunsa yatiñanakax yatiyi ukat kunsa janiw yatiyiti ukanak uñacht'ayi, samañ thakinak yatiyi, ukat demencia utjirinakan jan walt'äwinak samañ jaqukasi. Samañ medicinanakat parlañax janiw utjkiti; ukax doctor jiwasampi parlañawa.
 
-## Is poor sleep linked with dementia?
+## ¿Samaña jan walinakax demenciampi mayacht'asiñapa?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Walja jaya pacha yatiñanakax yatiyi ch'iqa samañax demencia ch'iqa utjañ jaktawi, ukampis yatiñax janiw chiqa sasaw sayañkiti.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **25 maranakan Ruta Unidos yatiñawa.** Yatiñirinakax 8,000 jaqinak uñjasa [Whitehall II yatiñanakan](https://www.nature.com/articles/s41467-021-22354-2). 50 jan ukax 60 mara jaqinakax samaña 6 horas jan ukax akatjama samasa, nayrax demencia ch'iqa utjañ jaktasa, 7 horas samasirinakat sipansa. 50, 60 ukat 70 maranakan 6 horas jan ukax akatjama samasirinakax, 7 horas sapa uruna samasirinakat sipansa, 30% ch'iqa demencia utjañ jaktapxi. Ukax uñjañ yatiñawa, ukhamasti mayacht'añ uñacht'ayi, janiw mayjt'ayañ uñacht'ayiti.
+- **Lancet Commission yatiñirinakan amuyu.** [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) yatiñirinakax samañ 14 jaktañ thaki uñjañ utjki lista ukar janiw churkiti. Jan chiqa yatiñanakax utjatapxi sasaw uñjapxi. Maya mayjt'ayawi "jaytan mayjt'ayaña": demencia ukan amuyu jaqukasiñax maya mara sarañ nayraqatapa, ukat samañ jan walt'ayi. Walja jach'a yatiñanakan, jach'a samañ demencia ukamp mayacht'asiñax jan utjkiti, nayra pusi mara uñjañ uñt'atäki ukhaxa.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Ukhamasti jisk'a samaña mayni jisk'a uru jan walt'awa sasaw jan llakisiñamäkiti. Sapa uruna wali samaña amuykipañax wali, ukax jichhürunakan sarañ, amuyu ukat jan kuna pachanakan jaytañ yanapaski.
 
-## What is the "brain-clearing" sleep research?
+## ¿Kunas "amuyu uma qhaliñ" samañ yatiñax sasa?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Sañ istaʼtapxtawa samañax amuyu "qhaliñ" sasaw, ukax chiqa yatiñat juti, ukampis qalltatawa.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Ratonanakan.** 2013 maranakan yatiñax [NIH uñacht'äwi](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) ukan uñjatawa, ratonanakax samasipkäna ukhaxa, amuyu lakanakan jiwaspa ukax 60% ch'iqa tukuyatawa. Uma amuyu uma jiwasan sarañ nayraqat uñjatawa, glymphatic system sasaw sapxi. Beta-amiloide, Alzheimer ukamp mayacht'asi proteína, samasirin ratonanakan amuyu umat jisk'a jaytatawa.
+- **Jaqinakan.** 2018 maranakan jisk'a yatiñax [estudio](https://www.pnas.org/doi/10.1073/pnas.1721694115) ukan 22 ukat 72 mara jaqinak uñjatawa. Wali samasa ukat jan samasa uru ukanakan amuyu uñjañ máquina uñjatawa. Jan samasa uru qhipat, amuyu uñjañ señal beta-amiloide ukan 5% sarakiwa, hipocampo sasaw sapki chiqana, uñjañat yanapaski. Yatiñirinakax sapxi ukax nayra yatiñawa. Janiw yatipkaspati samaña qhipat tukuyasi sasaw, jan ukax ch'iqa amiloide luratapxi sasaw.
+- **Mayni thaki sarañ.** Lancet Commission yatiñirinakax sapxi, amiloide jaqukasi samañ jan walt'ayi jaya pacha jaqinakan.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Ukanakax uñacht'ayapxi kunatsa yatiñirinakax samañ yatiñ munapxi. Janiw uñacht'ayapkiti walt'a samañax Alzheimer jaytañ sasaw.
 
-## What sleep habits may help?
+## ¿Kuna samañ thakinakas yanapaspa?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+National Institute on Aging (NIA) yatiñ uñacht'äwi ukat [NIA](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) sapxi, jaya pacha jaqinakax 7 ukat 9 horas samañ munapxi, jaya jaqinakjama. Amuyunakax:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Sapa uruna sarañ thaki.** Sapa uruna jaypacha samaña, sapa uruna jisk'a uruna sartaña, jach'a uruna samañ ukat jisk'a uruna.
+- **Samañ sarañ thaki.** Lläka, sut'a samaña jaqukasiña ukat jaya ch'uxña sarañ.
+- **Sapa wali samaña cuarto.** Janiw jach'a q'uma, janiw jisk'a q'uma.
+- **Kafeína jisk'a uru jan ukat jaqukasiña.** Kafe, té, soda ukat chocolate jan samañ jaqukasi.
+- **Alcohol jan ukat ch'uxñaña,** jisk'a jan ukat jisk'a uru, NIA sapxi.
+- **Jisk'a jan ukax jach'a manqhampi jan manq'añ, samaña 2 jan ukat 3 horas nayrat.** Jisk'a ukat jach'a umanakax uru qhipat jan umañ.
+- **Sapa uruna lurañ, ukampis samaña 3 horas nayrat jan lurañ.** Uñjañ [lurañ yatiñawi](/brain-health/exercise/).
+- **Pantalla cuarto manqhan jan churañ.** NIA sapxi, cuarto manqhan TV, computadora, teléfono ukat tablet jan uñjañ.
+- **Jisk'a uru jan samañ jan ukax jisk'a samaña nayrat ch'iqa jan samañ,** sapa jaqinakax yanapaski.
 
-## Sleep problems in dementia
+## Demencia utjirinakan samaña jan walinakax
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Demencia utjirinakan samañ jaqukasiñax walja utjaraki. [NIA uñacht'ayi](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sapxi, walja samañ, jisk'a samañ, samaña walja jaqukasi ukat uru jisk'a samañ. Ukat sundowning sasaw uñacht'ayi: jaqi jaypacha jaqukasi, llakisiña jan ukax amuyu jan jaqukasi, inti jisk'ayaski ukhaxa.
 
-Caregiver tips from the NIA include:
+NIA yatiñirinakan caregiver yanapañanak:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Uru ukat lurañ qalltata.** Uru jaqukasi jan ukax qhana ch'iyar uñjañ sarañ, jaqinak sapa uruna lurañ yanapt'a. Qhana inti ukax janchi ukar jaytañ yanapaski.
+2. **Sum lurañanak uru qalltata.** Uru jaqukasi t'ukuñ jan ukax jach'a manq'a uru jaqukasi.
+3. **Jisk'a jan ukax jisk'a samaña.** Qhipa uru jisk'a samañ jan ukat.
+4. **Qhipa uru jach'a jan ukat sut'a.** Qhana ch'iyar jisk'ayaña, jisk'a jaqukasiña ukat jaqinak munaski ukhaxa samaña sayaña. [Qhipa uru llakisiña](/caregiving/late-day-restlessness/) yatiñawi walja amuyunakani.
+5. **Sapa uruna samaña sarañ thaki.** NIA sapxi, sapa uruna jaypacha ch'uxña uru jaqukasiña. [Sapa uruna lurañ](/activities/daily-routine/) ukax yanapaski.
+6. **Kafeína ukat alcohol jisk'a jan ukax jan.**
+7. **Luz jisk'a uñjañ ukat cuarto, pasillo, baño manqhan.**
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Uru jaqukasiñataki, NIA [utjaña yatiñanakax](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) sapxi: luz jisk'a uñjañ jan ukax sensor, baño manqhan agarradores, escalera ch'uxña kuna ch'uxña cinta, ukat medicinanak cerrado uñjañ.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Qhipa uru jisk'a, ch'uxña lurañ ukax jumanakan jaqukasiñ yanapaski. Sapa uruna [Calm Breathing](/games/calm-breathing/) jan ukax [Conversation Cards](/games/conversation-cards/) ukanak lurañ. Samañ manqhan jach'a lurañ jan lurañ, jaqi munañ jan ukat sayañ.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Samañ jan walt'ayi caregivers jiwasanakan. Jiwasan [caregiver self-care](/caregiving/caregiver-self-care/) yatiñawi jan ukat yanapa thakinak uñacht'ayi.
 
-## What about sleep apnea?
+## ¿Kunas samaña apnea?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Samaña apnea jaqix samañ sapa uru jisk'a jan samaña, walja uru samañ. NIA sapxi, jan ukat uñjasa, presión alta, derrame cerebral jan ukat amuyu jiwasiña ukanak utjaraki. Uñjañanakax: jach'a jach'a jaqukasiña, jach'a uru jan ukat jisk'a samañ. Walja jaqinakax janiw yatipkiti ukaw utjatapa. Lancet Commission sapxi, 11 yatiñanakan samaña apnea jaqinakax 43% ch'iqa demencia utjañ jaktapxi. Ukampis walja yatiñanakax peso ukan janiw uñjapkiti, ukhamasti mayacht'asiñax jan chiqa.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Samaña apnea uñjañ ukat jaytañ utjaraki. NIA sapxi, CPAP máquina ukax walja yanapaski. Jumax jan jaqi uñjasa jach'a jach'a jaqukasiña, samaña jan samaña jan ukat uru jach'a samasa, doctor jiwasaru yatiyañ.
 
-## A note about sleep medicines
+## Samañ medicinanakat yatiyaña
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Janiw samañ medicinanakat ni suplementos yatiñanakat parlañäkiti. NIA sapxi, samañ medicinanakax jisk'a uruna yanapaspa, ukampis insomnio jaytañ janiw utjkiti. Ukat sapxi, Alzheimer utjirinakan samañ yanapañataki churat medicinanakax jaytañ, jaytasiña ukat llakisiña jaktayi. Janiw samañ medicina qalltañ, tukuyañ jan ukax mayjt'ayañ, over-the-counter samañ ayuda ukanakax, doctor jan ukax farmacéutico jiwasampi parlañ janiw.
 
-## Talk with a doctor
+## Doctor jiwasampi parlaña
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Jumax jan jaqi uñjasa jach'a jan jaqukasiña, walja uru jan samaña, jach'a jach'a jaqukasiña jan ukax uru samaña apnea uñjañ, doctor jiwasaru sarañ. Demencia utjirinakan samañ jan walt'ayi jan tukuyasa, [NIA yatiñirinakax](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) sapxi, doctor jiwasaru sarañ. Chiqpach uñjañax jan walt'añ, samaña jan walt'añ, jan ukax medicina uñjañ kunas utjaraki uñjaña. Jan suytaña amuyu jan jaqukasiña, jan ukax samañ jan walt'ayi amuyu jan jaqukasiña, sapa uruna yanapañ munaski. [Kunapachas doctor jiwasaru sarañ](/brain-health/warning-signs/) yatiñawi.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Jichhürunakax yatiñ uñacht'äwi, janiw doctor yatiñ ukat sañ. Ukat [medical disclaimer](/medical-disclaimer/) uñjañ.

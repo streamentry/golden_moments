@@ -1,32 +1,28 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Физкультура ва мозгьалъул сагIат"
+seoTitle: "Физкультура ва деменция: гIелмуяз мегьарал"
+description: "Физкультура ва деменциялъул хатар бихьулел гIелмуяз ва кIудиял инсанзабилъ ва деменция бугел инсанзабилъ гьаракъ хьвадуца рахъарал, гIадамал рекIел ва гIадин хъвагIи гьарулеб гьаракъ."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Гьарай гIелмуяз бихьизабизе, физкультура кIудиял инсанзабилъ деменциялъ гьарулел хатарал чӀвалеб гIадатлъа бикьулъ. 2024 соналъ Lancet-ил Комиссия 14 гьарулел хатарал гьарулъ гIалат, физкультура къачӀа гьабулел гьарулел хатарал тIадаб. Гьарай тестал хьвадиялъ, физкультура деменция хъуца рахъарал гIелмуяз бихьулаб рахъарал. Ахирал, гьарай рукӀарал, стулъ гьабулел физкультура ва гьаракъ мегьарал хъвадуца гIадин, гьарулъ гьабиялъул гIадин. Гьарай гьаракъ рекIел гьаракъ духтурал рекIел гьабизе.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Физкультура гьабулел инсанзабилъ деменциялъ гьарулел хатар кIудиял бугел, амма гьаракъ гIелмуяз цIияб гьаракъ рукIарал, тестал гьабулел гIелмуяз тIадаб."
+  - "Кьуру соналъ физкультура тест кIудиял инсанзабилъ хъуца гьабулел гIадамалъ гIелмуяз бакIарал гьаракъ гьабулел хъвараб бичӀчӀизаб."
+  - "CDC гьабулел гIадамалъ 65 соналъ кIудиял инсанзабилъ ахъ рекIел, аэробикаялъ, мускулалъ хъвадулел ва балансалъ гьабулел физкультура, гьарулъ рекIел гьабизе."
+  - "Деменция бугел инсанзабилъ гьарулел гьаракъ, кьуру хьвадулел, рекIел гьабулел гIадин физкультура, гьабулъ гIадин, сагIатал рекIел тIадаб."
+  - "Соналъ гьабулел кIудиял инсанзабилъ гIалатлъа цIияб, гьарулъ кIудиял инсанзабилъ гьарулел ахъ гьарулъ, рекIел гьабулъ гьаракъ балансалъ ва гьаракъ хьвадулъ мегьарал."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Физкультура деменциялъ гьарулъ хъуца тIадаб?"
+    a: "Гьарай гIелмуяз гьабулел гIадин, гьабулъ гьаракъ гьарулъ. Гьабулел гIадамалъ физкультура кIудиял инсанзабилъ деменциялъ гьарулел хатар кIудиял бугел бихьулел, амма клиникаялъ тестал гьабулел деменциялъ гьаракъ тIадаб бихьиялъ гьабулел. Физкультура гьарулел хъвагIи гIелмуяз гьабулел гIадин, гьабулъ гьаракъ рекIел тIадаб."
+  - q: "Деменция бугел инсан физкультура гьабизе гьаракъ рукIарал?"
+    a: "Ахирал, гьабулъ гIадин гьабизе. Национальный институт старения рекIел, цIияб гьаракъ гьабизе гьабулел инсанлъ духтур рекIел, рукIарал гьаракъ гьабизе, гьабулъ ацIаб хьвадуца гIадин, цIияб рукIарал ва гIадин хъвагIи гьарулъ гьабизе. Инсан гIалатлъа, къаъабалъ ва гьабулъ баркIиялъ гьаракъ гьабулъ ахъ."
+  - q: "Стулъ гьабулел кьуру гьаракъ мегьарал?"
+    a: "Стулъ гьабулел гьаракъ: стулъ гIалатлъа, хIал ва гьаракъ ракьлъ гьабулел, кIаналъ гьабулел, мешокалъ гьабулел, резинкалъ хъвадулел ва педаль гьабулел гьаракъ. Гьарай гьаракъ, рукIарал гьабулъ гьаракъ мегьарал, гьарулъ гьабулел."
+  - q: "Инсан физкультура гьабизе гьаракъ рукIарал рекIел гIадин?"
+    a: "Гьабулъ гьаракъ, цIияб гьаракъ рукIарал гьабизе. Рекел гьабулъ хъуца, музыка рекIел гьабулъ, ва физкультура гьабулел гIадамал, рукIарал ахъ гьабулел, гьабулъ гIадин, гIадин рукIарал гьаракъ гьабизе. Почтаялъ цIияб гьаракъ ва гьабулъ ахъ рекIел гIадин."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +47,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Гьарай гIадамал, физкультура мозгьалъул гIадатлъа гьарулел гIелмуяз ахъ рахъарал. Гьабулел гIелмуяз бихьулъ, физкультура гьарулел хатарал тIадаб, амма гIелмуяз гьабулел тестал бихьулъ, физкультура деменция хъуца рахъарал гьабулъ гIадин тIадаб. Гьарай бихьулъ, физкультура кIудиял инсанзабилъ гьарулел гьаракъ тIадаб: мускулал, балансал, гьабулел гIадин, ва сагIатал. Гьарай гьаракъ гьабулъ рекIел гIадин, физкультура кIудиял инсанзабилъ гьарулел гIадин, ва деменция бугел инсанзабилъ гьабулъ гьаракъ мегьарал. Гьарай гьаракъ, гьабулел гIелмуяз ва гьабулъ гIадин гьарулел.
 
-## Does exercise lower the risk of dementia?
+## Физкультура деменциялъ гьарулел хатар тIадаб?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Гьарай гIелмуяз бихьулъ, физкультура гьабулел инсанзабилъ деменция бугъа гьарулел хатар кIудиял бугел. Амма гьаракъ гIелмуяз кIудиял гьабулъ гIадин. [2024 соналъ Lancet-ил Комиссия деменциялъ](https://doi.org/10.1016/S0140-6736(24)01296-0) гьабулел 14 гьарулел хатарал гьарулъ, физкультура гьабулъ гIалат. Гьарай 14 хатарал рекIел, дунялалъ деменциялъ гьарулел гIадатлъа 45% гьабулъ гIадин, Комиссиялъ модель рекIел.
 
-Here is what the evidence looks like:
+Гьарай гIелмуяз гьабулъ гIадин:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Наблюдение гьабулел гIелмуяз ахъ рахъарал.** Комиссия бихьулел 58 гIелмуяз, гьарулел инсанзабилъ гьабулел гIадин, физкультура гьабулел инсанзабилъ деменция бугъа гьарулел хатар ахъ 20% кIудиял. Кьуру гьарулъ гIадин гьабулел, гIадин гьабулел инсанзабилъ ва гьабулъ физкультура гьабулел инсанзабилъ.
+- **Гьарай гIелмуяз ахъ тIадаб.** Комиссиялъ гьабулъ гIадин, гьабулъ гIалат гьарулел хатар кIудиял бугел. Деменциялъ гьарулел мозгьалъул гьабулел гIадин цIияб, диагноз рахъарал соналъ гьабулъ, гIадин инсанзабилъ гьабулъ гIалат.
+- **Тестал гьабулъ гIадин гIелмуяз.** Гьарулел тестал гIадин: 945 кIудиял инсан, гьарулел гIадин 78 соналъ, гьабулел 5 соналъ ракьалъ гьабулел физкультура ва гьарулел гIадин хъвагIи гьабулел гьаракъ. Ахирал, гIелмуяз гIадин гьабулъ гIадин, гьабулел инсанзабилъ гьарулъ гьабулел гьаракъ гIелмуяз тIадаб.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Национальный институт старения (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) гьабулъ гIадин: физкультура ва Альцгеймерлъ гьарулел хатарал гIелмуяз бихьулъ гьаракъ тIадаб, ва физкультура деменция хъуца рахъарал тIадаб гIелмуяз гьабулъ гIадин. Амма физкультура гьарулел хатарал рекIел: рахъарал, депрессиялъ, диабетал, гIалатлъа давлениялъ ва инсульт гьабулел. Гьарулел гIадамал гьабулел гIадин, гьарулъ гIадин гьарулел хатарал.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Гьарай гIадин: физкультура гьабулъ рекIел гIадин, гьабулъ гIадин сагIатал. Мозгьалъул ахъ гьабулел гIадин, рекIел гьабулъ ахъ, амма гьарулъ гIадин гьабулел.
 
-## How much activity do older adults need?
+## КIудиял инсанзабилъ физкультура гьабулъ гIадин?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC-ил гьаракъ 65 соналъ кIудиял инсанзабилъ](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) гьабулел 3 гьарулел физкультура ахъ рекIел:
 
-| Type | Weekly amount | Examples |
+| Гьарулел | Соналъ гьабулел | Мисалал |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Аэробикал | 150 минут кIудиял гIадин, мисал 30 минут 5 рекIел | Рахъарал гIадин, гьабулъ рахъарал, водаялъ аэробика |
+| Мускулалъ | Кьуру 2 рекIел, бихьулел мускулал | Гьарулел кIиналъ ва ракьал гьабулел, резинкалъ хъвадулел |
+| Баланс | Гьабулъ гIадин | Пятка рекIел гьабулъ, стулалъ гIалатлъа гьабулъ |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Гьарай гьарулел гIадин, гьабулъ гIадин, гьабулел тIадаб. CDC гьабулъ гIадин: гьабулъ гIадин гьаракъ тIадаб, гьабулел гIадин, инсан гьабулел гIадин. Гьабулъ гIадин физкультура гьабулел тIадаб, гьабулъ гIалат тIадаб.
 
-## Gentle ways to move for older adults
+## КIудиял инсанзабилъ гьабулъ гIадин физкультура
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Гьабулъ инсанлъ рекIел гьабулъ.** Гьарулел гIадин хьвадулел, хIалтIи, гьабулел хъвадуца гIадин рахъарал.
+- **Стулъ гьабулел физкультура.** Стулъ гьабулел ракьал, гьабулъ мацIа гьабулъ, гьарулел гIадин, кьуру гьабулел гьаракъ.
+- **Кухняялъ гьабулъ.** Гьабулел инсанлъ гьабулел музыка, тIадаб гьабулел гIадин. Нашей [музыкалъ гьаракъ гьабулел гIадин](/activities/music/) ахъ гьабулъ.
+- **Гьабулел гьаракъ цIиял рекIел.** Гьарулел водалъ ракьал ва кIиналъ гьабулел, гьабулъ гIадин кинолъ гьабулел.
+- **Гьабулел гIадин ва гьабулел хIалтIи.** Гьабулел гьаракъ, гьарулел, гьарулъ гIадин ва гьабулел гIадин, гьабулъ гIадин. [Гьабулел гIадин](/activities/outdoor-and-gardening/) ва [хIалтIи](/activities/household-tasks/) гьабулъ.
+- **Водалъ физкультура.** NIA гьабулъ гIадин: водалъ аэробика, гьабулел инсанзабилъ гьарулел гIадин, хIалтIи гьабулел гIадин.
 
-## How to exercise with someone living with dementia
+## Деменция бугел инсанлъ физкультура гьабизе гьаракъ
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Деменция бугел инсанлъ, гьабулъ гIадин, гьабулел тIадаб, гIадин ва гьабулел гIадин тIадаб, гьабулъ гIадин. NIA гьабулъ гIадин: физкультура гьабулел инсанлъ мускулал, хьвадулел ва сердце сагIат гьабулъ, ва гьабулел гIадин мацI рекIел ва сон. Гьабулъ гIадин духтурлъ гьабизе рукIарал гьаракъ. Гьарулел [NIA-ил гьабулел гьаракъ](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) гьабулъ:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Кьуру гьабулъ рахъарал.** Гьабулел тIадаб, гьарулел, гьабулъ гIадин, гьарулел хъвагIи. Инсан гьабулъ гIадин гьабулел, ID браслет телефон номерал рекIел гьабулъ ахъ.
+2. **КIудиял инсанзабилъ гьабулел видео.** Гьабулъ рекIел, стулалъ ва ракьалъ.
+3. **Гьабулел гIадин кьуру.** Гьабулъ кьуру гьаракъ, гьарулъ гIадин хъвагIи ахъ.
+4. **Музыка рекIел гьабулъ.** Гьабулел гIадин музыка гьабулъ гIадин физкультура гьабулъ. Инсан гьабулел гIадин гьабулъ рекIел.
+5. **Вода ва гьабулел гIадин ботинкал.** Гьабулел ва гьабулъ гIадин вода, гьабулел гIадин одежда ва гьабулел ботинкал.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Гьабулъ гьаракъ рукIарал стулъ гьабулъ рекIел, [NIA-ил гьабулел гьаракъ](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) гьабулъ: стулъ гьабулел физкультура ва йога, мешокалъ гьабулел, мячалъ гьабулел, резинкалъ гьабулел, гьабулел кIиналъ, ва педалъ гьабулел. Гьабулел хIалтIи, мисал: гьабулел ва гьабулел гIадин, гьабулъ гIадин.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Гьарай гьаракъ, физкультура гьабулъ гIадин гьабулел: Lancet Комиссия гIелмуяз бихьулъ, физкультура гьабулъ гIадин, тIадаб гьарулъ, гьабулъ гIадин гьарулел. Гьабулъ рекIел гьабулъ, гьабулъ гIадин, гьабулел рекIел тIадаб. Инсан гьабулъ гIадин, ахирал гьаракъ тIадаб. Гьабулъ гIадин [гьабулел гIадин гьаракъ](/caregiving/when-they-say-no/) гьабулъ ахъ. Гьабулъ, гьабулел гIадин, гьабулъ гIадин, гьабулел гIадин, гьабулъ гIадин ахирал.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Гьабулел гIадин, [Калм Брэтинг](/games/calm-breathing/) гьабулъ гIадин рахъарал. Стулалъ гьабулел [Sort Together](/games/sort-together/) ва [Picture Bingo](/games/picture-bingo/) гьабулъ гIадин.
 
-## Balance and fall safety
+## Баланс ва рахъарал безопасность
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Рахъарал гIадин ва хатарал. [CDC гьабулъ](https://www.cdc.gov/falls/data-research/facts-stats/index.html): кIудиял инсанзабилъ соналъ кьуру 25% рахъарал, амма 50%-лъ кьуру духтурлъ гьабулъ. Бихьулел рахъарал гьарулъ рахъ гьабулъ 2 гIадин. CDC гьабулел хатарал:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Кьуру ва кьуру гьарулел мускулал
+- Гьарулел гIадин ва балансалъ гьабулел тIадаб
+- Гьабулел дарман, гьабулъ гIадин седативал ва депрессиялъ
+- Гьабулел ахъ тIадаб
+- Пятка гьабулел гIадин ва ботинкал тIадаб
+- Гьабулел кьуру: гьабулел гIадин, гьабулел рекIел, гьабулел гIадин ступеньк
 
-To move more safely:
+Гьабулел гIадин безопасно:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Стулъ гьабулел, кьуру гьабулел тIадаб.** Гьабулел стулалъ ва рукIарал рекIел гьабулъ.
+- **Гьабулел гIадин ахъ.** РекIел ва гьабулел гьабулъ.
+- **Гьабулел ракьалъ кьуру гьабулъ.** Гьабулел гIадин, гьабулел тIадаб.
+- **Гьабулел ботинкал.** Гьабулъ гIадин, гьабулел гIадин тIадаб.
+- **Баланс гьабулъ рекIел.** CDC мисал: стулалъ рахъарал, пятка рекIел гьабулъ.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC гьабулъ гIадин: кIудиял инсан гьабулъ рахъарал ва башалъ гьабулъ, духтурлъ гьабизе гьаракъ, гьабулел гIадин блуд тIадаб.
 
-## Talk with a doctor
+## Духтурлъ гьабизе
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Физкультура гьабизе духтурлъ гьабулъ гIадин, гьабулел тIадаб, гьабулъ сердце ва рахъарал гIадин, гьабулел ва гьабулъ гIадин. Духтур ва физиотерапевт гьабулел безопасность гьаракъ рекIел. Гьабулел рахъарал, гьабулъ гIадин. Гьабулъ хатарал гьабулел, гьабулъ гIадин, гьабулел. Гьабулел гIадин ахъ гьабулъ, гьабулъ гIадин, стоп гьабулъ. Сердце хъуца, гьабулел гIадин мацI, гьабулъ гIадин, сон гьабулел — 112 гьабулъ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Гьабулъ гIадин гьаракъ ахъ, [медициналъ гьабулъ](/medical-disclaimer/). Гьабулел гIадин, [деменциялъ гьарулел хатарал](/brain-health/risk-factors/) ва [деменция тIадаб](/brain-health/can-dementia-be-prevented/) гьабулъ гIадин.

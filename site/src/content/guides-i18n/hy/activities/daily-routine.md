@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Մեղմ առօրյա ռեժիմ՝ դեմենցիա ունեցող մարդու համար"
+seoTitle: "Դեմենցիայի առօրյա ռեժիմ. ճկուն օրնակի օր"
+description: "Ճկուն օրնակի օր դեմենցիա ունեցող մարդու համար՝ սնունդ, զբաղմունք և հանգիստ կայուն ռիթմով, ինչպես նաև ինչպես կազմել սեփականը և հարմարեցնել դժվար օրերին։"
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Մեղմ առօրյա ռեժիմը արթնացումը, սնունդը, անձնական խնամքը և քնելը պահում է մոտավորապես
+  նույն ժամերին, հիմնական զբաղմունքը դնում է այն ժամին, երբ մարդն առավել
+  զգոն է, և հավասարակշռում է զբաղմունքն ու հանգիստը։ Կազմեք այն՝ հիմնվելով մարդու ողջ կյանքի
+  սովորությունների վրա, պահեք այն ազատ, ոչ թե լեփ-լեցուն, ամեն օր ապահովեք ցերեկային լույս և շարժում,
+  և ազատ փոխեք ծրագիրը, երբ օրը դա պահանջում է։
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Արթնացման, սննդի, խնամքի և քնի կայուն ժամերը օրվա համար տալիս են ծանոթ ընթացք։"
+  - "Հիմնական զբաղմունքը դրեք օրվա այն ժամին, երբ մարդն իրեն առավել լավ է զգում, հաճախ՝ առավոտյան։"
+  - "Մի լցրեք ամեն րոպեն։ Հանգիստն ու լռությունը նույնպես ռեժիմի մաս են։"
+  - "Ցերեկային լույսը, ամենօրյա շարժումը և ուշ ժամերին երկար քուն չքնելն ու կոֆեինից խուսափելը կարող են օգնել ուշ օրվա անհանգստության դեպքում։"
+  - "Ռեժիմը ուղեցույց է, ոչ թե կանոն։ Ավելի դժվար օրերին ազատ փոխեք, կրճատեք կամ բաց թողեք ցանկացած բան։"
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Ինչո՞ւ է ռեժիմը օգտակար դեմենցիա ունեցող մարդու համար։"
+    a: "Կանխատեսելի օրը նշանակում է ավելի քիչ որոշումներ և անակնկալներ, ինչը դեմենցիա ունեցող շատ մարդկանց համար կարող է հանգստացնող լինել։ Ալցհեյմերի ասոցիացիան նշում է, որ պլանավորված օրը թույլ է տալիս ավելի քիչ ժամանակ ծախսել՝ մտածելով, թե ինչ անել, և ավելի շատ ժամանակ հատկացնել այն բաներին, որոնք երկուսիդ էլ հաճելի են։ Դա նաև օգնում է խնամողներին ճիշտ բաշխել իրենց օրը։"
+  - q: "Ինչպիսի՞ն է դեմենցիա ունեցող մարդու համար լավ առօրյա ծրագիրը։"
+    a: "Միակ ճիշտ ծրագիր չկա։ Լավ ծրագիրը արթնացումը, սնունդը և քնելը պահում է մոտավորապես նույն ժամերին, անձնական խնամքն ու հիմնական զբաղմունքը դնում է այն ժամին, երբ մարդն իրեն առավել լավ է զգում, ներառում է դրսում կամ պատուհանի մոտ անցկացրած ժամանակ և տեղ է թողնում հանգստի համար։ Կազմեք այն՝ հաշվի առնելով, թե մարդն ինչպես է միշտ ապրել։"
+  - q: "Արդյո՞ք դեմենցիա ունեցող մարդը պետք է ցերեկը քնի։"
+    a: "Կարճ հանգիստը կարող է օգտակար լինել, հատկապես ճաշից հետո։ Ծերացման ազգային ինստիտուտը խորհուրդ է տալիս խուսափել օրվա ուշ ժամերին երկար քնից և նիրհելուց, քանի որ շատ հոգնած լինելը կամ վատ հանգստանալը կարող է ուժեղացնել ուշ օրվա անհանգստությունը։ Եթե քնի խնդիրը լուրջ է, խոսեք նրա բժշկի հետ։"
+  - q: "Ի՞նչ անել, եթե նա հրաժարվում է հետևել ռեժիմին։"
+    a: "Առայժմ բաց թողեք և փորձեք ավելի ուշ կամ այլ կերպ։ Հրաժարվելը կարող է նշանակել, որ նա հոգնած է, իրեն լավ չի զգում, ցավ ունի կամ պարզապես պատրաստ չէ։ Ռեժիմը կա օրը հեշտացնելու համար, ուստի հարմարեցրեք այն, այլ ոչ թե պարտադրեք։"
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Մեղմ ռեժիմը օրվա համար ստեղծում է ծանոթ ընթացք՝ արթնանալը, սնունդը, փոքր զբաղմունքը, հանգիստը և քնելը մոտավորապես նույն ժամերին։ Դա նվազեցնում է որոշումներն ու անակնկալները և ձեզ ծրագիր է տալիս այն պահերի համար, երբ այլապես կմտածեիք, թե հետո ինչ անել։ Ստորև բերված ռեժիմը օրնակ է, ոչ թե կանոն։ Օգտագործեք այն որպես ելակետ, ապա ձևավորեք՝ հաշվի առնելով Ձեր խնամքի մարդուն։
 
-## Why does a daily routine help?
+## Ինչո՞ւ է օգտակար ամենօրյա ռեժիմը։
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Կայուն ռեժիմն օգտակար է, քանի որ ծանոթ քայլերն ավելի հեշտ է հետևել, քան նորերը։ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan)-ը նշում է, որ պլանավորված օրը նշանակում է ավելի քիչ ժամանակ՝ որոշելու, թե ինչ անել, և ավելի շատ ժամանակ՝ հաճելի զբաղմունքների համար, և նշում է, որ արթնանալու ու քնելու կանոնավոր ժամերը կարող են օգնել քնի խնդիրների և ուշ օրվա անհանգստության դեպքում։ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning)-ը առաջարկում է լողանալը, հագնվելը և ուտելը կատարել ամեն օր նույն ժամերին՝ որպես հանգիստ տան մի մաս, իսկ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)-ը նույնպես խորհուրդ է տալիս պահպանել նույն առօրյան։
 
-## A sample gentle day
+## Մեղմ օրվա օրինակ
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Ժամերը միայն օրինակներ են։ Ամբողջ օրը տեղափոխեք ավելի շուտ կամ ավելի ուշ՝ համապատասխանեցնելով մարդու սեփական ռիթմին։
 
-| Time | What happens | Ideas | On a harder day |
+| Ժամ | Ինչ է տեղի ունենում | Գաղափարներ | Ավելի դժվար օրվա դեպքում |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 | Արթնանալ, լվացվել, հագնվել | Ամեն օր նույն հերթականությամբ. հագուստը դրեք այն հերթականությամբ, որով պետք է հագնել | Խնամքը պահեք պարզ. մաքուր շապիկը բավարար է |
+| 8:45 | Նախաճաշ | Սուրճ և բարձրաձայն կարդացվող թերթ կամ ռադիո | Հանգիստ միասին ուտեք, խոսելու ճնշում առանց |
+| 9:30 | Հիմնական զբաղմունք | Լվացք ծալել, թխել, այգում աշխատել, կարճ զբոսանք կամ քայլել | Ավելի կարճ տարբերակ, կամ թող նա նայի, թե ինչպես եք անում Դուք |
+| 10:30 | Հանգիստ ժամանակ | Երաժշտություն, լուսանկարների ալբոմ կամ պատուհանի մոտ նստել | Հանգստանալ սիրելի բազկաթոռում |
+| 11:00 | Օգնել ճաշին | Լվանալ բանջարեղենը, սեղան գցել | Դուք եք պատրաստում. նա Ձեզ ընկերակցում է |
+| 12:00 | Ճաշ և հավաքել-մաքրել | Սեղանը սրբել, մի քանի աման չորացնել | Տնային գործերը բաց թողեք |
+| 13:00 | Կարճ հանգիստ | Ոտքերը բարձրացնել, մեղմ երաժշտություն | Նույնը |
+| 14:00 | Դրսում կամ շարժուն | Քայլել, պատշգամբում նստել, բույսերը ջրել, փուչիկ նետել | Նստել արևոտ պատուհանի մոտ |
+| 15:00 | Շփում կամ ստեղծագործություն | Այցելություն, զանգ, [նկարների զույգեր](/games/picture-pairs/), նկարել, թղթախաղ | Միասին խմել և թեթև բան ուտել |
+| 16:30 | Հանգստանալու ժամանակ | Վարագույրները փակել, լույսերը միացնել, հանգիստ գործ, օրինակ սրբիչներ ծալելը | Ծանոթ երաժշտություն, ցածր ձայն |
+| 17:30 | Ընթրիք | Օգնել խառնել կամ սեղան գցել | Պարզ, ծանոթ ուտելիք |
+| 18:30 | Երեկոն միասին | Աղանդերի ժամանակ հուշեր, թղթախաղ, սիրելի հաղորդում, ձեռքի մեղմ մերսում | Հանգիստ ընկերակցություն |
+| 20:00 | Քնի պատրաստություն | Լողանալ կամ լվացվել, գիշերազգեստ, մեղմ երաժշտություն, ցածր լույս | Ամեն ինչ կրճատեք. հարմարավետությունը առաջինն է |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Այս օրնակը հետևում է Ալցհեյմերի ասոցիացիայի՝ վաղ և միջին փուլերի համար նախատեսված սեփական օրնակի ծրագրի ընթացքին, որը անձնական խնամքից և նախաճաշից անցնում է տնային գործերի, քայլերի, երաժշտության, հանգստի և այցելությունների, ապա ընթրիքի, հուշերի և քնի պատրաստության։
 
-## How do you build your own routine?
+## Ինչպե՞ս կազմել սեփական ռեժիմը։
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Սկսեք նրանից, թե մարդն ինչպես է միշտ ապրել, ոչ թե աղյուսակից։ Ալցհեյմերի ասոցիացիան առաջարկում է ծրագրելուց առաջ մտածել հետևյալի մասին.
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Ինչ է նա սիրում և չի սիրում, ինչում է ուժեղ և ինչն է հետաքրքրում նրան։**
+- **Նախկինում ինչպես էր անցկացնում իր օրը։** Վաղ արթնացող մարդը, որը միշտ շանը քայլքի էր տանում, պետք է շարունակի վաղ քայլել։ Ուշ քնող մարդը կարող է երբեք չսիրել առավոտյան 8:00-ին սկսելը։
+- **Օրվա որ ժամին է նա իրեն առավել լավ զգում։** Լողանալը, զբոսանքները և հիմնական զբաղմունքը դրեք այդ ժամին։
+- **Բավարար ժամանակ** սննդի, լվացվելու և հագնվելու համար, որպեսզի ոչինչ շտապ չլինի։
+- **Արթնանալու և քնելու կանոնավոր ժամեր։**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Նույն աղբյուրն առաջարկում է ներառել տնային գործերի, սննդի, անձնական խնամքի, ստեղծագործական զբաղմունքների, ֆիզիկական շարժման, շփման, հոգևոր զբաղմունքների և ինքնաբուխ պահերի խառնուրդ, օրինակ՝ երբ ընկերն անակնկալ գալիս է։
 
-### Try it for a week, then adjust
+### Փորձեք մեկ շաբաթ, ապա հարմարեցրեք
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Ամեն օր կարճ գրառում արեք։ Ալցհեյմերի ասոցիացիան առաջարկում է հարցնել, թե որ զբաղմունքներն են առավել լավ ստացվել և ինչու, արդյոք եղել են ժամեր, երբ շատ բան էր տեղի ունենում կամ շատ քիչ զբաղմունք կար, և արդյոք ինքնաբուխ ծրագրերը հաճելի էին, թե անհանգստություն էին առաջացնում։ Պահպանեք այն, ինչը գործում է, և փոխեք այն, ինչը չի գործում։
 
-### Make it visible
+### Դարձրեք այն տեսանելի
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Եթե մարդը դեռ կարող է կարդալ, գրատախտակը կամ մեծ տառերով օրվա ծրագիրը կարող է հանգստացնող լինել։ Պահեք այն կարճ. «Նախաճաշ։ Քայլել Սառայի հետ։ Ճաշ։ Հանգիստ։» Որոշ մարդիկ ավելի լավ են զգում, երբ նախապես շատ բան չգիտեն. Family Caregiver Alliance-ը առաջարկում է ծրագրերը չքննարկել մինչև դրանք տեղի ունենալուց անմիջապես առաջ, եթե դա անհանգստություն է առաջացնում։
 
-## How to adapt the routine
+## Ինչպես հարմարեցնել ռեժիմը
 
-### Leave room to breathe
+### Թողեք շունչ առնելու տեղ
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Մի լցրեք ամեն րոպեն։ Ալցհեյմերի ասոցիացիան շեշտում է, որ մարդուն անհրաժեշտ է զբաղմունքի և հանգստի հավասարակշռություն, և նրան կարող են պետք գալ ավելի հաճախակի դադարներ։ Եթե նա թվում է ձանձրացած, շեղված կամ դյուրագրգիռ, փոխեք զբաղմունքը կամ հանգստացեք։
 
-### Protect the late afternoon
+### Պաշտպանեք ուշ կեսօրը
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Շատ մարդիկ օրվա լույսը մարելիս դառնում են ավելի անհանգիստ։ NIA-ն առաջարկում է ամեն օր ժամանակ անցկացնել դրսում կամ պատուհանի մոտ՝ ցերեկային լույսի համար, ամեն օր շարժվել՝ առանց շատ բան պլանավորելու, ուշ ժամերին խուսափել կոֆեինից և ալկոհոլից և խուսափել օրվա ուշ ժամերին երկար քնից։ Որոշ ընտանիքներ նաև օգուտ են տեսնում նրանում, որ մթնշաղից առաջ փակում են վարագույրները և միացնում լույսերը։ Տեսեք [ուշ օրվա անհանգստություն](/caregiving/late-day-restlessness/) և [քուն](/brain-health/sleep/)։
 
-### Change it as needs change
+### Փոխեք այն, երբ փոխվում են կարիքները
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Վաղ փուլ.** ռեժիմը պլանավորեք միասին։ Մարդը կարող է ցանկանալ գրավոր ծրագիր, որը ինքն է վարում։
+- **Միջին փուլ.** Դուք ավելի շատ եք առաջնորդում։ Ավելի կարճ զբաղմունքներ, ավելի շատ հանգիստ և շատ ծանոթ գործեր. տեսեք [միջին փուլի զբաղմունքներ](/activities/middle-stage/)։
+- **Ուշ փուլ.** ռեժիմը կենտրոնանում է հարմարավետության, սննդի և խնամքի վրա, դրանց միջև՝ կարճ զգայական պահերով, օրինակ երաժշտություն կամ ձեռքի մեղմ մերսում. տեսեք [ուշ փուլի զբաղմունքներ](/activities/late-stage/)։
 
-### Vary the activities, not the frame
+### Փոխեք զբաղմունքները, ոչ թե շրջանակը
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Սնունդը, հանգիստը և քնելը պահեք կայուն, իսկ դրանց միջև եղած զբաղմունքները փոխեք։ [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)-ն առաջարկում է տարբեր օրերին փորձել տարբեր զբաղմունքներ, որպեսզի հետաքրքրությունը պահպանվի։ Օրինակ՝ երկուշաբթի կարող եք թխել, երեքշաբթի՝ այգում աշխատել, չորեքշաբթի՝ լուսանկարներ դիտել։ Մեր [101 զբաղմունքի գաղափարներ](/activities/ideas/) և [տնային գործեր](/activities/household-tasks/) բաժինները կարող են լրացնել այդ տեղերը։
 
-## When the day goes sideways
+## Երբ օրը չի ընթանում ըստ ծրագրի
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Որոշ օրեր ոչ մի ծրագրով չեն ընթանա։ Հիվանդությունը, վատ գիշերը, բժշկի այցը կամ եղանակի փոփոխությունը կարող են ամեն ինչ խառնել։ Բաց թողեք ծրագիրը, պահպանեք հիմունքները (սնունդ, խմիչք, հանգիստ, հարմարավետություն) և վաղը նորից փորձեք։ Եթե մարդը ինչ-որ բանից հրաժարվում է, տեսեք [երբ նա ասում է ոչ](/caregiving/when-they-say-no/)։ Միասին դանդաղ շնչելու դադարը, օրինակ՝ [հանգիստ շնչառություն](/games/calm-breathing/), կարող է օգնել երկուսիդ էլ վերադառնալ հանգիստ վիճակի։
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Ձեր սեփական ռեժիմը նույնպես կարևոր է։ Ձեր համար էլ դադարներ նախատեսեք և խնդրեք ընտանիքին կամ ժամանակավոր խնամքի ծառայությանը ապահովել կանոնավոր հանգիստ։ Տեսեք [խնամողի ինքնախնամք](/caregiving/caregiver-self-care/)։

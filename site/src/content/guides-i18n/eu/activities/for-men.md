@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Dementzia duten gizonentzako jarduerak"
+seoTitle: "Dementzia duten gizonentzako jarduerak: ideiak"
+description: "Dementzia duen gizonarentzat jarduera-ideiak, iraganeko lanetan, zaletasunetan eta ohituretan oinarrituta, bakoitza segurtasunez egokitzeko aholkuak barne."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Dementzia duen gizon batentzat jarduerarik egokienak bere bizitzatik
+  ateratzen dira: egin zuen lanetik, gustuko zituen zaletasunetatik eta
+  mantendu zituen eguneroko ohituretatik. Bulegoan lan egin zuenak paperrak
+  ordenatzea atsegin izan dezake, mekanikariak tresna garbiak eskuetan
+  hartzea, eta kirolzaleak aspaldiko partida bat ikustea. Interesak pertsona
+  bakoitzaren araberakoak dira; beraz, hasi pertsonarengandik, ez generoagandik.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Hasi gizon honen bizitzako istorioarekin: bere lanarekin, zaletasunekin, ohiturekin eta harro sentiarazten zuenarekin."
+  - "Helburu argia duten zereginek, hala nola torlojuak sailkatzeak, autoa garbitzeak edo egurra lixatzeak, sarritan erakargarriagoak dira ikasgai baten antza duten jarduerak baino."
+  - "Ez zaie gizon guztiei tresnak edo kirolak gustatzen. Askok sukaldatzea, musika, lorezaintza, artea edo beste batzuk zaintzea atsegin dute. Galdetu, begiratu eta jarraitu bere erritmoari."
+  - "Laneko antzeko zereginak seguru bihurtu tresna zorrotzak kenduta eta gainbegiratuta, eta sinplifikatu gaitasunak aldatzen diren heinean."
+  - "Ez esatea ondo dago. Eskaini zeregin bat, ez agindu bat, eta saiatu berriro beste egun batean."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Zer jarduera atsegin dituzte dementzia duten gizonek?"
+    a: "Ez dago zerrenda bakar bat, gizonen interesak beste inorenak bezain askotarikoak direlako. Abiapuntu onak dira iraganeko lanarekin lotutako zereginak, hala nola paperrak antolatzea edo azkoinak eta torlojuak sailkatzea, baita gustuko zituen zaletasunak ere, hala nola arrantza, autoak, musika, sukaldaritza edo kirola. Begiratu zer egiten duen bere kabuz eta horretan oinarritu."
+  - q: "Nire aitak taldeko jarduerak baztertzen ditu. Zer egin dezaket?"
+    a: "Jende askok, gizonek zein emakumeek, ikasgai baten antza duten edo umeentzakoak diruditen jarduerak baztertzen dituzte. Saiatu lan bat eskaintzen: «Hau sailkatzen lagunduko didazu?». Talde txikiagoak edo banan-banako denbora ere erosoagoak izan daitezke gela handi bat baino."
+  - q: "Segurua al da tresnak erabiltzen uztea?"
+    a: "Gainbegiratzearekin eta tresna seguruekin bakarrik. Kendu tresna elektrikoak, xaflak eta zorrotza den guztia, eta eskaini egur zati bat lixatzea, torlojutegi garbia sailkatzea edo torloju handiak eskuz estutzea bezalako zereginak. Alzheimer’s Association erakundeak iradokitzen du tailerretik elementu arriskutsuak kentzea, lixatzea bezalako zeregin bat segurtasunez egin ahal izateko."
+  - q: "Profesionala izan zen. Zeregin sinpleak iraingarriak irudituko al zaizkio?"
+    a: "Hala iruditu dakizkioke, denbora betetzeko lan huts gisa aurkezten badira. Aurkeztu benetako laguntza gisa, erabili helduentzako materialak eta aukeratu bere antzinako lanarekin lotura duen zerbait, hala nola zerrenda bat berrikustea, artxibo bat antolatzea edo posta bidalketa bat prestatzen laguntzea. Zerbaitetan oso trebea bazen, hari lotutako baina bestelako jarduera batek konparazio baten sentsazioa gutxitu dezake."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Askotan jendeak «dementzia duten gizonentzako jarduerak» bilatzen ditu, ohiko proposamenak ez direlako bat etortzen bere bizitzako gizonarekin. Kezka ulergarria da. Baina erantzuna ez da «gizonentzako» jardueren zerrenda bat. Hobe da gizon horretatik hastea: zertan lan egiten zuen, asteburuetan zer egiten zuen eta zerk ematen zion baliagarria sentitzeko aukera. Interesak pertsona guztiengan desberdinak dira. Gizon askori sukaldatzea, lorezaintzan aritzea, margotzea edo abestea gustatzen zaie, eta emakume askori autoak edo beisbola.
 
-## How do I find activities he will actually enjoy?
+## Nola aurki ditzaket benetan atsegin izango dituen jarduerak?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Hasi bere bizitzako istorioarekin. Alzheimer’s Association erakundeak iradokiten du [eguneroko plana](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) pertsonaren gustuetan, gustuko ez dituenean, indarguneetan eta interesetan oinarritzea, baita eguna nola antolatzen zuen kontuan hartzea ere. Galdetu zeure buruari:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Zertan lan egiten zuen?** Bulegoan, baserrian, fabrikan, ofizio batean, armadan, salmentetan, irakaskuntzan, gidari lanetan edo etxean?
+- **Zer egiten zuen aisialdian?** Arrantzan, kartetan, aroztegian, kirolean, elizan, musikan, sukaldatzen edo garajean autoarekin?
+- **Zeintzuk ziren bere ohiturak?** Kafea eta egunkaria goizero? Eguraldia begiratzea? Autoa larunbatetan garbitzea?
+- **Zer hasten du oraindik bere kabuz?** Erakundeak dioenez, pertsona batek eskatu gabe zereginak hasten baditu, adibidez lurra erratzatzea, zeregin horiek ohiko errutinan sar daitezke.
+- **Zertatik aldentzen da?** Batzuek kirola ikustea atsegin dute; beste batzuei erritmoak edo zaratak ondoeza eragin diezaieke. Begiratu noiz dirudien pozik, urduri edo haserre.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Hitz egin familiarekin eta aspaldiko lagunekin ere. Eguneroko bizitzatik urrundu diren interesak gogora ditzakete.
 
-## Activity ideas based on past work
+## Iraganeko lanean oinarritutako jarduera-ideiak
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer’s Association erakundeak adibide argi bat ematen du: bulegoan lan egin zuenak antolatzeko zereginak atsegin izan ditzake, hala nola txanponak kutxa batean jartzea, posta bidalketa bat prestatzen laguntzea edo egitekoen zerrenda bat idaztea; nekazari edo lorezain izandakoak, berriz, lorategian lan egitea atsegin izan dezake. Ideia bera lan askotara egokitu daiteke.
 
-| Past work | Activity ideas | Simpler version |
+| Iraganeko lana | Jarduera-ideiak | Bertsio sinpleagoa |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Bulegoa edo negozioa | Paperrak karpetetan sailkatzea, gutun-azalak zigilatzea, zerrenda bat berrikustea, mahaiaren tiradera bat antolatzea | Gutun-azalak pilatzea; klipak kutxa batean jartzea |
+| Ofizioak edo mekanika | Azkoin, torloju eta arandela garbiak sailkatzea; torloju handiak eskuz estutzea; tresnen katalogoak begiratzea | Tamainaren arabera bi katilutan sailkatzea |
+| Nekazaritza edo lorezaintza | Ureztatzea, landareak ontzietan aldatzea, hostoak erratztatzea, lorategia begiratzea | Kanpoan esertzea zuk lan egiten duzun bitartean; hazi-paketeak eskuetan hartzea |
+| Armada | Oinetakoak distiraraztea, tiradera bat txukuntzea, zerbitzuko argazkiak begiratzea, atsegin baditu | Garai hartako musika entzutea |
+| Salmentak edo bezeroarentzako arreta | Bisitariak agurtzea, pintxoak banatzea, kupoiak sailkatzea | Ate ondoan esertzea agur esateko |
+| Irakaskuntza | Ozen irakurtzea, liburuak antolatzea, irudiak gaien arabera sailkatzea | Elkarrekin irudi-liburu bat begiratzea |
+| Gidatzea edo garraioa | Mapak edo auto aldizkari zaharrak begiratzea, autoa garbitzea | Ataritik autoak pasatzen ikustea |
+| Etxea eta familia | Arropa tolestea, mahaia jartzea, afaria prestatzen laguntzea | Zapiak leuntzea; nahastea |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Oroitzapen batzuek, hala nola armadako zerbitzuak, emozio biziak piztu ditzakete. Jarraitu bere erritmoari, mantendu iraganari buruzko elkarrizketa modu atseginean, eta aldatu gaia leunki gogaituta ikusten baduzu.
 
-## Activity ideas based on hobbies
+## Zaletasunetan oinarritutako jarduera-ideiak
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Aroztegia.** Egur zati leun bat lixatzea edo txori-etxe baten kit bat margotzea. Alzheimer’s Association erakundeak iradokitzen du tailerretik material eta tresna arriskutsuak kentzea, lixatzea bezalako jarduera bat seguru eta atsegin izan dadin.
+2. **Arrantza.** Amuak kendutako arrantza-kutxa bat sailkatzea, arrantza aldizkariak begiratzea edo urmael baten ondoan elkarrekin esertzea.
+3. **Autoak.** Autoa garbitzea, kromatuak distiraraztea, auto klasikoen argazkiak begiratzea edo bidaiari gisa paseo bat ematea.
+4. **Kirola.** Aspaldiko partida bat edo laburpenak ikustea, pilota bigun bat jaurtitzea, golfeko pilotak alfonbra batean sartzea edo beisbol-txartelak sailkatzea.
+5. **Kartak eta jokoak.** Ezagutzen duen karta-joko baten esku sinple bat, dominoa edo kartak irauli bikoteak aurkitzeko. Mantendu giro lasaia eta utzi puntuazioa alde batera.
+6. **Musika.** Nerabezaroan edo hogei urteetan entzuten zituen abestiak, talde gogokoena edo ereserki bat. Ikusi gure [musika-jardueren gida](/activities/music/).
+7. **Sukaldaritza eta parrilla.** Barazkiak garbitzea, saltsa nahastea, hanburgesak prestatzea edo bere txili ospetsua nola egiten zuen azaltzea, zuk prestatzen duzun bitartean.
+8. **Egunkaria.** Alzheimer’s Association erakundeak dio egunkaria beti irakurtzen zuen pertsonak oraindik ere atsegin izan dezakeela, edukia guztiz jarraitu ezin badu ere. Kafea eta egunkaria goizeko ohituraren parte izan daitezke.
+9. **Eraikitzea.** Pieza handiko maketa-kitak edo helduentzako eraikuntza-multzo sinpleak. Aukeratu eusteko errazak diren piezak.
+10. **Zerbait zaintzea.** Maskota bat elikatzea, txorientzako jantokia betetzea edo landareak ureztatzea. NIA erakundeak [maskota bat elikatzea, apaintzea edo paseatzera eramatea](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) aipatzen du jendeak atsegin izan ditzakeen jardueren artean.
 
-## How do I offer an activity without it feeling like busywork?
+## Nola eskaini jarduera bat denbora betetzeko lan baten antza izan gabe?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Aurkeztu benetako laguntza gisa. Alzheimer’s Association erakundeak iradokiten du «Lagunduko didazu, mesedez?» eskatzea eta zereginak helburu batekin lotzea. Konparatu:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Torloju hauek sailkatu nahi dituzu?» (proba baten antza du)
+- «Torlojutegi nahasi bat erosi dut eta apala konpondu aurretik sailkatu behar ditut. Eskua emango didazu?» (benetako lan baten antza du)
 
-Other tips:
+Beste aholku batzuk:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Erabili helduentzako materialak.** Ertz zorrotzik gabeko benetako tresnak, benetako katalogoak, benetako gutun-azalak.
+- **Egin elkarrekin, alboz albo.** Bi pertsona lan batean aritzea konpainia da. Pertsona bat bestea begira egotea gainbegiratzea da.
+- **Ez zuzendu.** Torlojuak katilu okerrean amaitzen badute, utzi horrela. Garrantzitsua elkarrekin igarotako denbora eta baliagarria sentitzeko aukera da.
+- **Lagundu hastean.** Alzheimer’s Association erakundeak dio jende askok gauzak egiteko gogoa mantentzen duela, baina zaila izan dakiekeela antolatzea eta hastea. Egin lehen urratsa elkarrekin.
 
-## How do I adapt as things change?
+## Nola egokitu gauzak aldatzen diren heinean?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Dementzia aurrera doan heinean, Alzheimer’s Association erakundeak iradokiten du zeregin sinpleagoak eta errepikakorragoak proposatzea, eta prest egotea pertsonak rol ez hain aktiboa hartzeko. Behin motorrak konpontzen zituen gizon batek orain atsegin izan dezake giltza garbi bat eskuetan hartzea eta autoei buruz hitz egitea, edo zu lanean ikustea. Ikustea ere parte hartzea da.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Zerbaitetan oso trebea bazen, hari lotutako jarduera bat egokiagoa izan daiteke bere antzinako lanbidea baino. Erakundeak dio artista profesional bat frustratu egin daitekeela bere laneko aldaketekin, baina zale batek bide berri bat atsegin izan dezakeela. Gauza bera gertatu daiteke arotz trebe batekin.
 
-## Safety with work-style tasks
+## Laneko antzeko zereginetan segurtasuna
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Kendu tresna elektrikoak, xaflak, iltzeak eta punta zorrotzeko torlojuak.
+- Gorde giltzapean pintura-disolbatzaileak, gasolina eta produktu kimikoak.
+- Ezkutatu autoaren giltzak, jada gidatzen ez badu.
+- Gainbegiratu tailerreko eta lorategiko zeregin guztiak.
+- Aukeratu irents ezin diren pieza handiak.
 
-## What if he says no?
+## Zer egin ezetz esaten badu?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Errespetatu. Ezetz batek esan dezake zeregina zailegia dela, umeentzakoegia iruditzen zaiola edo gaur ez dela egokia. Alzheimer’s Association erakundeak ohartarazten du ez behartzeko. Saiatu beste zeregin batekin, beste une batean, edo eseri besterik ez elkarrekin. Ikusi [zer egin ezetz esaten duenean](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Egokitzen diren jokoak eta elkarrizketak
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) jokoak esaera ezagunak erabiltzen ditu eta elkarrizketarako bidea zabaltzen du. [Conversation Cards](/games/conversation-cards/) jokoak galdera irekiak eskaintzen ditu gairen arabera, proba modukoak izan gabe; horrek lanari eta zaletasunei buruzko istorioak ekar ditzake. [Picture Puzzle](/games/picture-puzzle/) jokoan irudi osoa ikusgai mantentzen da piezak aldatzen dituzun bitartean, eta letra handiko [Word Search](/games/word-search/) inprimatu eta boligrafoarekin egin daiteke sukaldeko mahaian. Bere iraganaz berari proba egin gabe hitz egiteko moduei buruz, ikusi gure [oroitzapenei buruzko gida](/activities/reminiscence/).

@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Pujoralammik napparsimasumik nalinginnaasumik"
+description: "Ilitsersuut pujoralammik napparsimasumik nalinginnaasumik: piareersarneq, ingerlannera, kukkussutsit ajorunnaarsinneq, naleqqussaanerineq unissarnerlu."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Nalunaarsuut pillugit ereersimasaarit. Ullup nalaani eqqissisimasumi toqqaannarlugu,
+  illumi nipituumi saniani issigit, nalinginnaasuillu ataaseq saqqummiuguk.
+  Inuk nammineq ingerlannissaminik toqqaaniartorsinnaavoq, kukkussutit
+  ajoqutinngitsut ajorunnaarsikkit, nalinginnaasorlu anguniakkamut naleqqussaruk
+  ajornartorsiut erserpat, assillu oqaloqatigiinnerup aallartinneranut atukkit.
+  Nuannaarinermi naammassigit. Siusinnerusukkut unitsinneq imaluunniit
+  ataatsimoorluni isiginneq iluatsitsigisuuvoq.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Anguniagaq nuannaarnermik attaveqarnermillu naapinneqassaaq, naammassinnermik imaluunniit akissuteqarnermillu pinngitsoq."
+  - "Aallarniartinnagu piareersarit: illu nipituumik, qaamasumik, isiginnaartitsisutit tusarnaartitsisullu atuullugit, TV qaminartillugu, nalinginnaasuullu ataaseq piareersimallugu."
+  - "Kukkussutit ajoqutinngitsut ajorunnaarsikkit. Oqarit \"Ima maachenniarluta\" imaluunniit ingerlaqqigit."
+  - "Nalinginnaasoq naleqqussaruk annilaangarbefore siullermeernerani: assit ikinnerlugit, toqqagassat ikinnerlugit, assilluunniit ersillugu."
+  - "Assit oqaluttualiaqarnerup aallartinneranut atukkit \"Una pillugu oqaluttuaruk...\" imaluunniit \"Eqqaamaviuk...?\""
+  - "Qasusunnermi annilaangarbefore erseqqinneranilu unitsigit. Siusinnerusukkut unitsinneq iluatsitsivoq, ajortutiginagu."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Qanoq sivisutigisumik nalinginnaasaqarpa?"
+    a: "Sivisussusermik eqqortumik aalajangersimasumik pisariaqanngilaq. Inuppassuarnut minutsit arlaqanngitsut naammanngasarput, ullut ilaanni akerlianeq ataaseq naammavoq. Ullormut pinnagu inuk malinnaavigiuk, eqqissisimaneratalu unitsigit."
+  - q: "Ajorsarunnaarpara imaluunniit kukkussutinik maluginiarneq ajorpara?"
+    a: "Ataatsimoorlutik nalinginnaanerup annikinnerani ajugaqanngillu ajorsarnani. Kukkussut inummut ajornartorsiutaanngippat, soqutiginngilat. Inummut ajornartorsiutippa, ipaarniarlugu ikioruk imaluunniit naleqqussaruk, erseqqissaatiginnagu."
+  - q: "Uanga nalinginnaasunga takusinnaanngippagu?"
+    a: "Ajorunnaappoq. National Institute on Aging inummut tamaat takusinnaasoq siunnersuutigaa, taakku nuannarigunigit. Takusatit pillugu oqaloqatigigit, qaaqqusaarlunilu imaluunniit toqqaanissaminik kajumissaruk nuannaaruni."
+  - q: "Nalunaarsuutikka eqqaamasassanik misissuineruppat?"
+    a: "Naamik. Nalunaarsuutivut ataatsimoorluta nuannaarnissamut oqaloqatigiinnermullu suliffeqarput. Eqqaamasassanik misissuineqanngilaq, sunaalluunniit uuttorneqanngilaq, pujoralannermullu katsorsaanermut atorneqanngillat."
+  - q: "Nalunaarsuut suna aallartillugu pitsaanerpa?"
+    a: "Ajoqutaannginnerusumik inummut naleqqussasumik aallartigit. Picture Pairs sisamanik immikkoortunik assillu ersillugit, imaluunniit Find the Same marlunnik toqqagassanik, eqqissisimanermik aallartiffiusinnaapput. Conversation Cards pitsaanerupput inuk oqaloqatigiinnarnissaminik nuannariguni patitsinnarnerminit."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Pujoralammik napparsimasumik nalinginnaasumik nuannerpoq akunnattuuteqarnikkut. Taamaattoq inuit marluk qanittumi issipput, assinut tikeraarput, oqaatsit ilaani illarput, erserpunillu pillugit oqaloqatigiillutik. Nalunaarsuut tassaavoq pissutaasumik ataatsimoorluni piffissaq atorlugu.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Una ilitsersuut nassuiaalluni qanoq piareersarsinnaanerlutit, qanoq ingerlannerusumik nalinginnaasinnaanerlutit, suna oqarfigisinnaanerlugu "kukkuvoq" pineqaraangat, qanoq naleqqussarsinnaanerlugu imaluunniit annikitsumik ajornarsinnaanerulugu, qanoq oqaloqatigiinnermut aaqqilersinnaanerlugu, kiisalu unitsitsinissaq qanoq paasiniarlugu. Taamaattumik [nalunaarsuutivut](/games/) atorsinnaavatit, taakkulu ilaat kortit, puzilit spilillu pigisatit atorsinnaallugit.
 
-## What is the best way to play a game with someone who has dementia?
+## Qanoq pujoralammik napparsimasumik nalinginnaasaqarneq pitsaanerpa?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Nuannaarnissaq pingaarnersaruk, angusaqarnissaq pinnagu. Tamanna pingaaruteqarpoq [Alzheimer's Association aktiviteterimut siunnersuummi](https://www.alz.org/help-support/caregiving/daily-care/activities): inuk suli piginnaasani atukkit, aallartinniassaguni ikioruk, pillugit ajornartorsuit illit naammassigit, ajoqutinngitsunillu suliassanut eqqarsaatersuisussanngilatit kukkusussanilluunniit ajorunnaarsissanngilatit.
 
-In practice that means:
+Taamaattumik ima ippoq:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Saniani issigit, akianiit issinngikkit.** Saniani issiguit, marlukullutik skærmi imaluunniit nerrivik takusinnaavarsi, ikiuisarnerlu suleqatiginertut misigisinnaasarpoq, nakkutilliisutut pinnani.
+- **Ataatsikkut nalinginnaasoq ataaseq siunnersuutiguk.** Toqqagassat amerlassusaat periarfissat misissuinerutut misigisinnaapput, suliamik aallartinnagulu.
+- **Malinnarlugu ingerlatigit.** Assinut nammineq tulleriiaarinissaminik nuannaarpat, assi ataaseq pillugit minutsit qulit oqaloqatigisarlugu, imaluunniit marloriarluni akerliammik unitsillutik, taava taanna ullumi nalinginnaasoq taaneqartassaaq.
+- **Piffissat nuannersut kisikkit, akerlianerit naammassineqartut pinnagit.** Isikkui, oqaluttuaq imaluunniit affakkut eqqissisimanermik ataaseq anguneqassat tassaavoq.
 
-## How do I set up before we start?
+## Qanoq piareersarsinnaavunga aallartinnata?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Piareersarnerup minutsit arlaqanngitsut amerlanerit annilaangarbeforet nalinginnaasumut tunniunneqartartut pinaveersaartittarpai.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Ullup nalaani pitsaanerpa toqqaruk.** [National Institute on Aging (NIA) aktiviteterinik naleqqussarnerup siunnersuutaa](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) oqarpoq, ingerlaqqiffiit suliassatillu inummut pitsaanerpa ullup nalaani pilersaarusiorsinnaasut. Amerlanernut ullaakkut qeqqanut pitsaanerusarpoq. Ualikkut unnukkut ajornarnerusarpoq; takukkit [ualikkut unnukkut eqqissisitsissutit](/caregiving/late-day-restlessness/).
+2. **Illu nipitukulersiguk.** TV radio aamma qaminakkit, matulu matorsinnaagukku. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) siunnersuutigaa nipi annaasaqarnersoq oqaloqatigiinniannginnerani killilersinnaasumik.
+3. **Piareersarneq siullermik misissoruk.** Imeq qanittumi, anartarfimmukaritinnagu, issiavik nuannersoq, isiginnaartitsisutillu tusarnaartitsisullu atuullugit.
+4. **Illu qaamasulersiguk.** Qaamasoq annertooq, skærmi ersinani, assinik isiginermik ajornannginnersarpoq.
+5. **Issinnaannginnata nalinginnaasoq piareersaruk.** Ammaruk, toqqagassat toqqakkit nipilu naleqqussaruk. Kingorna skærmi inummut saaffiguk. Tablitimik ilitsersuutit amerlanerusut takukkit [tablit imaluunniit telefon piareersarnera](/caregiving/tablets-and-screens/).
+6. **Atortussaq sanimut unitsiguk.** Standi imaluunniit qalia tabletimik killilersitsisoq kinakulluunniit tigussaasariaqannginnissaa pitsanngorsarpoq, tikeraarnermillu ajornannginneruuvoq.
 
-## How do I invite them without pressure?
+## Qanoq kajumissarsinnaavara inuk nakkutilliillunani?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Kajumissaarneq inoqatinngorlugu pituttorsinnaanngilaq. Oqaaseqaatit amerlanernut nuannersut ilagaat:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Naasut assinik nassaaraakka. Uanga peqatigisinnaavinga takuniassagukkit?"
+- "Puzilimik uuminnga ikiuisinnaavinga? Ajornarsivunga."
+- "Ullumi naasut timmissallu akornanni suna nuannaarinerpa?" (marlunnik toqqarneq aperinermi ammasumi ajornannginneruvoq)
+- "Nukannut kortimik sanaartorpunga. Una qalipaat sumik qalipaateqarpa?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association siunnersuutigaa suliap siunertaa nassuiaassasoq, assersuutigalugu ikinngummut kortimik sanaartorneq, siunertaq isumannaatsimmik tunineqarmat. Ikiuiniarnerup kissaatigineralu iluaqutaasinnaavoq, inummut iluaqutaasutut misigisinnaammat.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Naamik oqarpat, akueriuk. Kingusinnerusukkut misileqqiguk imaluunniit allamik neqeroorfigiuk. Ilitsersuutivut [naamik oqaraangat qanoq iliussanerlutit](/caregiving/when-they-say-no/) suli pingaarutilimmik nassuiaavoq.
 
-## How long should a game last, and how fast should we go?
+## Qanoq sivisutigisumik nalinginnaasaqartariaqarpa, qanorlu sukkasooq?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Inuk nammineq ingerlannissaminik toqqaaniartorsinnaavoq, piffissallu naatsuusut pilersaarutigisarlugit. Nalunaarsuutinut ataatsimoorluni sivisussusermik eqqortumik uppernarsakkanik nassuiaasogarpoq. Minutsit marluk tallimaallu eqqissisimanerannik qanoq ingerlanera suliassatut naammattoorsinnaavoq.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Utaqqigit, nammineq misigisarnit suli sivisunerusumik.** NIA siunnersuutigaa inummut akissuteqarnissaminik piffissanik amerlasunik akuersissasoq, akornusersuinerlu pinaveersaartillugu. Quleriarluni qulit isumaqarniarlugit ikiuinniannginnerani kisikkit.
+- **Ataatsikkut ingerlatit.** Ataaseq naatsorlu siunnersuut (assersuutigalugu "Assi ataaseq patiguk"), kingornalu utaqqigit. Nassuiaatinngikkit, imaluunniit qanoq patiginissaa tikeraarneratigut takutikkit.
+- **Unitsitsinermik uninngaviginnittuk.** Assi pillugu oqalualiaqqippat, nalinginnaasoq utaqqisinnaavoq. Sukatariaqanngilaq.
+- **Takunnissaminik akuersissutiguk.** NIA erseqqissaatigaa inuit ilaat takunnarnissartik nuannarigaat, tamanna toqqaanertut eqqortoq.
 
-## Should I correct wrong answers?
+## Kukkussutit ajorunnaarsissavai?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Naamik. Inuk uippassaarlugu kukkuppoq oqarfigineqartarneratigut misigisitsilluni ajortorujussuulluni, nammineq nuannersumik isumaqaraluaruit. Alzheimer's Association siunnersuutigaa ajoqutinngitsunik suliassanut eqqarsaatersuisussannginnissaq kukkusussanilluunniit ajorunnaarsissannginnissaq. Nalunaarsuinermi, kukkussutit tamarmik sinnerlugit ajoqutinngitsuusarput.
 
-| Instead of | Try |
+| Taamaattoruk | Ima misiliguk |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Naamik, kukkivoq." | "Ima maachenniarluta." (NIA-p assersuutaa) |
+| "Taanna naapertuuteqanngilaq. Misileeqqigit." | Soqutiginngilat aammalu akerliarit, imaluunniit "Aah, tamarmik aappaluttut." |
+| "Kina una eqqaamaviuk?" | "Una asseq pillugu oqaluttuaruk." |
+| "Taanna suliarereerpat." | "Taanna pitsaavoq. Misileeqqiguk." |
+| "Ilisimagaluarpat." | "Naggasiut takutissaviuk?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Kukkussut paasiuminaatsumik annilaangaatsippagu, ipaarniarlugu ikioruk. Asseq eqqortoq tikeraaruk, nammineq akerliarit, imaluunniit akerlianik kingulleq naleqqussaruk. Oqaatsit ilaani naggasiummik kukkusumik naammassinneqartut illarpaluppat, illaatiguk. Ilisimasatit naggasiut pitsaanerusinnaavoq.
 
-## How do I make a game easier or harder?
+## Qanoq nalinginnaasoq naleqqussarsinnaavara imaluunniit annikitsumik ajornarsinnaanerulugu?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Nalunaarsuut ullup taamaattup nalaani inummut naleqqussaruk, killiffimmik ataasimik naliginnaasumik pinnagu. Inuk ataaseq unnukkut naleqqussaanerusumik pisariaqartassaaq ullaakkut sinnerlugu. NIA-p siunnersuutaa siulleq tassaavoq, suliassaq inummut naleqqussassasoq, iluatsitsillunilu misigissasoq qulakkeerneqartariaqarpoq.
 
-| Game | Make it easier | Make it a little harder |
+| Nalunaarsuut | Naleqqussaruk | Annikitsumik ajornarsaruk |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | 4 immikkoortunik aallartigit, assillu ersillugit | Immikkoortut amerlassusillit, imaluunniit assit tarrisiguk nuannersorpat |
+| [Find the Same](/games/find-the-same/) | 2 toqqagassanik | 4 toqqagassanut |
+| [Sort Together](/games/sort-together/) | Illit asseq tiguguk, taakkulu korfinut tikeraartillugit | Namminneq assi korfillu marluk patillugit |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 immikkoortunik, asseq ilanngullugu oqaloqatigalugu | 9 immikkoortunik |
+| [Finish the Saying](/games/finish-the-saying/) | Naggasiut takutikkit, kingornalu ataatsimoorlutit oqaatigisigit | Patinniannginnerani naggasiut oqaruk |
+| [Word Search](/games/word-search/) | Naqitikkit, oqaaseq ataaseq ataatsimoorlusi ujariaruk, siulleq naqqa tikeraarlugu | Tulliani oqaaseq suna ujassallugu nammineq toqqaatiliuk |
+| [Coloring](/games/coloring/) | Illit qalipaatit marluk toqqakkit, taakkulu akornanni nammineq toqqaavoq | Qalipaatit tamarmik nammineq toqqagai |
+| [Conversation Cards](/games/conversation-cards/) | Asseq akornanni ataatsimoorlusi takujuk | Kortimi aperissutit ammasut atukkit |
+| [Photo Pairs](/games/photo-pairs/) | Ilaquttat assiisa ikittuinnaat nuannarinerpaat | Assit amerlassusillit ilanngukkit |
+| [Picture Bingo](/games/picture-bingo/) | Nalinginnaasunut ikiuuttoq ataatsimoorluni issivoq | Nalinginnaasut kortiminnik nalunaarsuisut |
+| [Calm Breathing](/games/calm-breathing/) | Ataatsimoorlusi issiillusi takujuk | Arriillunilu ataatsimoorlusi anersaartiguk |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Nalunaaqutit nalinginnaasoq ajornannginneruvoq: utaqqinerit sivisooq isumaarnerusut, "Ajunngilanga" uippassaarneq, atortussaq ajarlugu unitsinneq, imaluunniit kukkussutit annilaangaatsitsisut. Nalunaaqutit naleqqussaanerusinnaasumik: nuanniilluarneq, imaluunniit "meeqqatut" oqaatigisarpaa. Taamaappat ataqqinnarlugu assiginninnerpaamik allanngortigit, assersuutigalugu oqaatsinik ujaasinneq, assit piviusunngorsimasut puziliaat, imaluunniit imaluunniit ingerlatsinerat pillugu asseq oqaloqatigalugu.
 
-## How do I turn a game into a conversation?
+## Qanoq oqaloqatigiinnermut aaqqissuussinnaavara?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Asseq hvør oqaloqatigiinnermut kajumissutsimut atorlugu, taava oqaatigisaanit taamatut akissutigineqartorlutik tiguaa. Ilaqutariit amerlasuut nalinginnaanerup nuannersornerpaaraa.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Aperissutit ammasut akissuteqanngitsunik atukkit.** "Suna maluginiarpiuk?" "Suna nuannarinerpa?" "Igaavik una assinganik oqaluttuaruk."
+- **Nammineerlutit oqaluttuarit.** "Aanaana ma allaqqasoq qimmeqaraluarpoq." Oqaluttuassaatit illit ataatsimiit pissanganermik oqariartorsinnaanera aaqqinniarpaa.
+- **Oqaluttuap ingerlarneranut malinnigit.** Biilimut assi angalasarnermut oqaluttualiornermut ingerlappat, oqaluttuaq suliassaanngorpoq. Nalunaarsuut unitsikkallaruk.
+- **Paasissutissanik misissuisussanngilatit.** Eqqaamasassanik oqaluttuarnerup iluani, oqaloqatigiinneq nuannersoq pingaarnersaaq eqqortuunermit. Oqaluttuaq kingullermit allanngorpat, nutaamik nuannaruk.
+- **Kajumissaatit ilanngunneqartut atukkit.** [Finish the Saying](/games/finish-the-saying/) oqaatsit tamarmik kingorna oqaloqatigiinnermut kajumissuteqartarpoq, [Conversation Cards](/games/conversation-cards/) taakku eqqarsaatigalugit sanaajupput. [Photo Pairs](/games/photo-pairs/) nammineq ilagiit assiisigut atuivoq, taamaalillunilu oqaluttuat nuannersut erserpat.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Siunnersuutit amerlanerusut takukkit ilitsersuutini [eqqaamasassanik neqeroorfiginninneq](/activities/reminiscence/) aamma [oqaloqatigiinnermut ilitsersuut](/caregiving/communication-tips/).
 
-## When should we stop?
+## Qanga unitsittarpa?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Qasusunnermi annilaangarbefore erseqqinneranilu unitsigit, pitsaanerumillu siusinnerusukkut. Alzheimer's Association siunnersuutigaa suliassaq unitsissallugu imaluunniit allanngortissallugu malunnartoq qimaappat imaluunniit annilaangarbefore nersualaarpat.
 
-Watch for:
+Maluginiaruk:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- isaasaarneq, niviartorneq imaluunniit isigisat skærmimit qimaappat;
+- nulattoorneq, nikuinneq, imaluunniit unitsinnissamik aperineq;
+- annernarsaarneq, akissutit naatillugit, imaluunniit "uanga ajunngilanga";
+- naammanngitsumik patitsineq imaluunniit atortussaq ajarlugu unitsinneq;
+- qianeq, kamannerneq, imaluunniit misigissutsimi allanngorneq tugaavoq.
 
-How to stop well:
+Qanoq unitsitsineq pitsanngorsinnaasoq:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Ajoqutaaanngitsumik unitsigit.** Kingulleq naapertuuteqarnissaq ajornanngitsoq, imaluunniit asseq kingulleq nuannersumik takuneq.
+- **Illit nammineq pissutaalerit.** "Tiimik imernissaq pisariaqaraluarpunga. Maanna unitsissava?" taamaalilluni inummut ajortorujussuusoq erseqqaanngilaq.
+- **Timikkut imaluunniit eqqissisitsisitsumillu allanngortigit.** Pisinneq naatsoq, nerisassat, aatsit illersukkat imaluunniit nipilersorneq.
+- **Oqaaseq nuannersoq oqaruk.** "Uanga ilinnut peqatigisinnaallunga nuannaarpunga." "Eqqortumik" iluarneq akuerineqanngitsoq, ataatsimoorluni piffissaq nuannersoq kisiat.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Siusinnerusukkut unitsinneq, pilersaarutit allanngortinneq, imaluunniit nalinginnaasoq unitsillugu ataatsimoorluni issinneq tamarmik iluatsitsipput.
 
-## Can we play in a group or over a video call?
+## Eqimattani immikkoortuni imaluunniit videomikkut oqaloqatigiinnerup iluani nalinginnaasinnaavugut?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Aappi, piareersarnerulimmik ilanngullugit. Eqimattani, inuit ikittuinnaat, ikiuuttullu tamarmik saniani issillugit, nalinginnaasuillu ataatsimoorluni malinnaaffigineqarsinnaasoq toqqarlugu. [Picture Bingo](/games/picture-bingo/) kortinik naqitassanik skærmimilu oqarasuaqarpoq eqimattanut. Amerlanerit takukkit [paarsisussanik isumaginnittuni eqimattanut neqeroorfiginninneq](/activities/care-home-groups/).
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Videomikkut oqaloqatigiinnerup iluani, inuk attaveqaq assimik nassuiaasinnaavoq, illumiittoq tikeraarluni patillunilu. Sianerisat naatitsikkit ilisimasaallu ataqqillugit. Ilitsersuutivut [telefonikkut videomikkullu oqaloqatigiinneq](/activities/phone-and-video-calls/) ilitsersuutinik amerlanernik imaqartoq.
 
-## What if a game just isn't working?
+## Nalunaarsuut iluatsinngippat qanoq iliussaqarpunga?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Ullut ilaanni sunngitsuinnaat iluatsinngilaq, tamannalu illit imaluunniit inuk assiginninnerusumik ilanngunneqanngilaq. Nalunaarsuut toqqoruk, kingusinnerusukkulluunniit misileeqqiguk, ullup nalaani allami, nalinginnaasumik allamik, imaluunniit nalinginnaasoqarnani. Suliffeqarfiit nuannersut amerlasuut skærmimut attaveqanngillat: nipilersorneq, aatsit illersukkat, assinik albuminik takunneq, imaluunniit pisinneq naatsoq. Amerlanerit takukkit [neqeroorfiginninnermut siunnersuutit](/activities/ideas/).

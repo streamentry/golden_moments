@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Pote dementie esser prevenit? Quo di li investigationes"
+seoTitle: "Pote dementie esser prevenit? Quo di recercas"
+description: "Quo li Commission Lancet 2024 e grand provas ha trovat pri minuentie del risc de dementie, quo ili ne ha trovat, e passos a parlar pri con un medíco."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Nequi posse promisser prevenir dementie. Li Commission Lancet de 2024 ha estimat
+  que circa medie del casus de dementie in li munde es concatent con 14 factores
+  de risc quel on posse potentialmen cambiar, tal quam alt pression sanguinari, perte
+  de audition e inactivitá. Provas monstra micri effectus sur tests de pensada,
+  ma ne un preuve que existre minu casus de dementie. Mult persones qui fa omni
+  cose rect ancor developpa dementie, e to ne es culpa de nequi.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Li Commission Lancet de 2024 ha concatenat circa 45% del casus de dementie in li munde con 14 factores de risc quel on posse potentialmen cambiar. To es un estimation populationari, ne un garantia personal."
+  - "Minuentie del risc significa minuentie del chances in un tot population. To ne significa que un singul persone posse eviter dementie."
+  - "Grand provas tal quam FINGER, US POINTER e SPRINT MIND ha trovat micri beneficies sur tests de pensada o sur mildi déficite cognitiv, ma necun ha provat que un programma de stil de vive prevente dementie."
+  - "Etá es li max grand conosset factor de risc por Alzheimer, e on ne posse cambiar lo. Mult persones con san hábitos ancor developpa dementie."
+  - "Li passos studyat li max frequent, tal quam tractar alt pression sanguinari, usar auditive aparates e restar activ, merita esser parlat pri con un medíco pro que ili ajuda li sanitá anque in altri manières."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Pote dementie esser prevenit?"
+    a: "Ne existe un provat maniere de prevenir dementie por un singul persone. Recercas suggere que minuentie de cert riscos, tal quam alt pression sanguinari, necurat perte de audition e fumar, posse minuer li chance de dementie in un population o retardar su comense. To es chances, ne promisses."
+  - q: "Quo significa li cifre de 45% del Commission Lancet?"
+    a: "Li Commission Lancet de 2024 ha estimat que circa 45% del casus de dementie in li munde es concatenat con 14 factores de risc quel, in teorie, posse esser cambiat. Li estimation suppone que ti factores causa dementie, e li autores nota que cert concatenationes posse esser solmen parte causal. To descri tot populations e ne indica li risc de un singul individuo."
+  - q: "Si mi parente hat un san stil de vive, pro quo il(la) ha developpat dementie?"
+    a: "Etá, genes e mult factores quel nequi posse controlar jua un grand rol in dementie. Li autores del Commission Lancet nota que minuentie del risc in un population ne garantiza que un singul individuo eviterá dementie. Un diagnose ne es un signe que nequi ha fallit."
+  - q: "Es it tro tard por minuer li risc de dementie pos etá de 65 annus?"
+    a: "Li Commission Lancet di que ne es tro bon témpor ni tro tard por reducer li risc, benque li major parte del evidence concerne li medie etá. Tractar problemas de audition e vision, restar activ e mantener contact con altri persones es exemples de passos in li later etá quel ha esset studyat. Parla pri quo conveni a ti sanitá con un medíco."
+  - q: "Pote ludes cerebral o special dietas prevenir dementie?"
+    a: "Necun lude, alimento, suplement o dieta ha esset provat por prevenir dementie. Un prova de tri annus del dieta MIND ha trovat null significativ diferentie in pensada comparat con un dieta de control, e comercial applicationes de exercitie cerebral ne ha monstrat li effectus videt in recerca."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,141 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Si tu cura un person vivent con dementie, o si tu ha videt un parente viver con it, probabilmen tu ha questionat si on posse har impedit to, e si tu posse impedir que to eveni a te. Ti pagine presenta quo li recercas in fact di, in simplic lingue. Li curt responsa: nequi posse promisser prevenir dementie, ma recercas suggere que cert riscos posse esser minuet, e que minuentie de ili in un tot population posse significar que minu persones developpa dementie o que ili developpa it plu tard.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Ti es general information, ne medical advise. Ples leer nor
+[medical disclaimer](/medical-disclaimer/) e parla pri ti propri sanitá con un medíco.
 
-## Can dementia be prevented?
+## Pote dementie esser prevenit?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Ne existe un provat maniere de prevenir dementie por un singul persone. Li National
+Institute on Aging (NIA) di que, benque
+[ancor ne existe un prove por prevenir Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+li recercatores ha trovat promissor strategies e aprende quo posse e quo ne posse functionar.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Quo li recercas *in fact* monstra, es que cert conditiones de sanitá e hábitos es concatenat con un plu alt chance de dementie. Quande ti riscos es minuet in un tot population, minu persones posse developpar dementie, o ili posse developpar it plu tard in vive. To es mult diferent de un garantia.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Un signe hopif: li Commission Lancet de 2024 ha raportat que in cert paises de alt rédito, includent li Stat Uniti e Britania, li parte del persones plu old con dementie ha diminuit. Li autores pensa que to es probabilmen parte pro melior education, melior sanitari curas e minu dammage a sanguinari vasos durant un vive, secun
+[li resumen del raporte de University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Quo ha trovat li Commission Lancet de 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Li Commission Lancet pri prevention, intervention e cura de dementie es un gruppe de 27 recercatores pri dementie qui revide li evidence chascun quelc annus. Lor raporte de 2024 ha nominat **14 factores de risc** quel on posse potentialmen cambiar, e estimat que junt ili constitue **circa medie (circa 45%) del casus de dementie in li munde**. Secun li paroles del autores, ti casus posse *in teorie* esser prevenit o retardat si li riscos esset removet
+([raporte del Commission Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Li 14 factores, gruppat secun li etá-stadie ubi li evidence es li max fort:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Tener etá:** minu education.
+- **Medie etá (circa 40 til 65 annus):** perte de audition, alt colesterol LDL ("mal") colesterol, depression, cap-dammage, inactivitá fisic, diabete, fumar, alt pression sanguinari, obesitá e fort consumption de alcool.
+- **Later etá:** social isolation, aer-pollution e necurat perte de vision.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Li du nov additiones in 2024 esset alt colesterol LDL e necurat perte de vision. Li factores concatenat con li max grand parte de casus esset perte de audition e alt colesterol LDL (circa 7% chascun), sequit de minu education e social isolation (circa 5% chascun).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Nor [guida pri factores de risc](/brain-health/risk-factors/) expande omni 14 in un tabella, con quo li recercas concatena e quo on posse far.
 
-### What the 45% figure does not mean
+### Quo li cifre de 45% ne significa
 
-It is easy to misread this number, so it helps to be precise:
+To es facil misleter ti cifre, do to ajuda esser precis:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **To es un estimation populationari.** To descri casus de dementie tra li tot munde, ne ti chances o li chances de un parente.
+- **To suppone causa e effectu.** Li autores di que ili ha incluset solmen factores de risc con conviccent evidence, ma que cert concatenationes posse esser solmen parte causal. Por exemple, depression in later etá posse in cert casus esser un tempran signe de dementie, plu quam un causa.
+- **To ne garantiza alcun cose por un singul persone.** Li resumen de UCL nota que minuentie del risc functiona al nivelle de un population e ne garantiza que un singul individuo eviterá dementie.
+- **Li altri medie ne es explicat per ti factores.** Etá, genes e causas quel scientistes ancor ne comprende constitue li rest.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Quel es li diferentie inter "minuentie del risc" e "prevention"?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Minuentie del risc** significa minuentie del chances. Si un grand gruppe de persones minue lor pression sanguinari, minu de ili posse developpar dementie durant mult annus quam ili esset far sin to. Cert individuos in ti gruppe ancor va developpar it.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Prevention** suggere impedir que alcun cose eveni del tot. Por dementie, to ne es alcun cose quel recercas posse promisser por nequi hodie.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Recercatores parla anque pri **retard**. Li Commission Lancet raportat que nov evidence monstra que minuentie del risc posse repulser li comense de dementie e abreviar li témpor quel un persone vive con mal sanitá. Mem un retard de quelc annus posse esser mult important por un persone e lor familie.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Sur ti site, noi usa intentionatmen "minuer li risc" e "concatent con". Quande tu vide un producto, suplement o programma quel promisse "prevenir Alzheimer", tracta it con prudentie. Li NIA consilia consultar un medíco ante tentar quelc píldora o tractament quel promisse prevenir Alzheimer, pro que ti productes posse esser insecur, un desperditie de pecunie, o ambi.
 
-## What have large trials found?
+## Quo ha trovat grand provas?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Observatori studies (qui observa quo eveni a persones durant témpor) posse monstrar concatenationes. Randomisat provas, in quel persones es assignat per chance a un programma o a un gruppe de comparation, es li plu fort teste. Ci es quo cert del max conosset provas ha trovat.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Li prova FINGER ha includet 1 260 adultos inter 60 e 77 annus qui esset in plu alt risc de dementie. Un medie ha recevet un programma de du annus de consilies pri dieta, exercitie, computatori ludes cerebral e controles pri sanitá del corde e sanguinari vasos; li altri medie ha recevet general consilies pri sanitá. Li gruppe del programma ha fat un poc plu bon sur un serie de tests de pensada, un micri ma statisticmen significativ diferentie
+([prova FINGER in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Li prova ha mesurat resultates de tests, ne diagnoses de dementie.
 
-### US POINTER (United States)
+### US POINTER (Stat Uniti)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER ha includet 2 111 adultos inter 60 e 79 annus qui esset inactiv, hat un minu san dieta e hat altri factores de risc. Ambi groupes esset incitat a esser plu fisicmen e mentalmen activ, manjar plu bon, restar social e monitorar sanitá del corde. Un gruppe ha recevet un structurat, coachat programma; li altri se ha guidat self. Durant du annus, li resultates del tests de pensada ha ameliorat in **ambi** groupes, e un poc plu in li structurat gruppe
+([prova US POINTER in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Li autores di que plu sequida es besonat por saver si li diferentie importa in li quotidian vive. Pro que ne esset un gruppe "far necos", li prova ne posse dir quant ambi programas ha ajudat comparat con null cambiament del tot.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (pression sanguinari)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
+SPRINT MIND ha studiat 9 361 adultos in li Stat Uniti de 50 annus o plu con alt pression sanguinari. Ili esset assignat a un plu bass scop de pression sanguinari (superior númere sub 120) o al scop standard (sub 140). Li plu bass scop ha significativmen redusit **mildi déficite cognitiv**, un stadie de problemas de memorie e pensada quel posse preceder dementie. Por **probabil dementie**, esset minu casus in li gruppe del plu bass scop, ma li diferentie ne esset statisticmen significativ. Li prova esset interrumpet prematurmen e hat minu casus de dementie quam expectat, do it posse har esset tro micri por responder ti question
 ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Quo li revues totalisa
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Un revue Cochrane de 2021 ha combinat nov grand provas de programas qui tracta mult riscos simultanmen, con plu quam 18 000 persones. It ha trovat un micri beneficie sur tests de pensada, ma **null clar diferentie in quant persones developpat dementie** in li du provas quel ha mesurat to
+([revue Cochrane pri interventiones multidomini](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Un revue de 2017 del National Academies of Sciences, Engineering, and Medicine, resumet per li NIA, ha trovat evidence "incoragant ma ne conclusiv" por tri aproches: tractar alt pression sanguinari, aumentar activitá fisic e exercitie cognitiv.
 
-## Does it matter when you start?
+## Importa it quande on comensa?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Li advise del Commission Lancet es minuer riscos quam plu tempran possibil e mantener ili bass quam plu long possibil: "quam plu tempran, li melior" e "quam plu long, li melior". It di anque que ne es tro tempran ni tro tard por reducer li risc. Mult del evidence concerne li medie etá, circa 40 til 65 annus, ma cert factores, tal quam perte de vision e social isolation, es riscos de later etá ubi action ancor posse far sens.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Li raporte di que existe nu plu fort evidence que plu long exposition a un risc have un plu grand effecte. Por exemple, diabete quel comensa in medie etá sembla importar plu quam diabete quel comensa plu tard.
 
-## Is dementia risk the same for everyone?
+## Es li risc de dementie li sam por omni?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+No. Li Commission ha trovat que persones in paises de bass e medie rédito, persones de minoritari groupes e persones con minu pecunie sovente porta plu de ti riscos, do dementie tende a developpar se a un plu juven etá. Mult riscos es ligat a circumstanties quel persones ne ha eliget, tal quam li qualitá del scolation quel ili hat quam infantes, li aer ubi ili vive, e si san aliment es accessibil e abordabil.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+To es pro quo li recomndationes del Commission es dirigit tant al guvernamentes quam al individuos: bon education por omni infantes, plu pur aer, mesures por reducer fumar, minu sucre e sal in aliment vendit in butiques e restaurants, e auditive aparates por omni qui besona ili. Esfort individual importa, ma anque importa li munde in quel persones vive. To es un altri motive por ne culpar nequi por un diagnose.
 
-## What are the honest limits of this research?
+## Queles es li sincer limites de ti recercas?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Dementie prende decennias por developpar se**, ma li major parte del provas dura du til quin annus. Mesurar dementie self, ne solmen resultates de tests, besona studies mult long e mult grand.
+- **Li major parte del provas mesura tests de pensada.** Un micri amelioration sur un teste ne significa necessimen que minu persones va developpar dementie o que li quotidian vive va esser plu facil.
+- **Voluntarios es sovente plu san** e plu educat quam li general population. Li Commission Lancet nota que li major parte del evidence ancor veni de paises de alt rédito e que minoritari groupes es sub-representat.
+- **Cert concatenationes curre in ambi directiones.** Esser minu activ o minu social posse esser un tempran effectu de dementie, ne solmen un causa.
+- **Diet-provas ha esset desappointant til nu.** Un prova de tri annus del dieta MIND ha trovat null significativ diferentie in pensada comparat con un dieta de control. Vider nor [guida pri dieta](/brain-health/diet/).
+- **Ludes cerebral ne es provat por prevenir dementie.** Vider nor guida pri [ludes cerebral e dementie](/brain-health/brain-games/).
+- **Fastentie have tre limitat human evidence**, e it posse esser periculós por persones plu old. Vider nor [guida pri fastentie](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Si alquicos ha fat omni cose "rect", pro quo ili ancor ha developpat dementie?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Pro que dementie ne es simplmen li resultate de electiones. Li NIA di que
+[etá es li max conosset factor de risc por Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+e nequi posse cambiar lo. Genes jua un rol. E scientistes ancor ne comprende plenmen quo causa Alzheimer in li major parte del persones. Mem si omni del 14 factores de risc esset removet, li propr estimation del Commission Lancet lassa plu quam medie del casus ne explicat.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Do si tu cura un person qui exercitava, manjava bon, ne fumava e ancor developpat dementie, necos ha errat de lor parte, ni del ti parte. Si tu self vive con dementie, to ne es ti culpa. Culpa es comun inter families, ma it ne es meritat. Quo importa nu es confort, conexion e bon dies, e nor [idees de activitás](/activities/ideas/) e [guida pri auto-cura por cuidatores](/caregiving/caregiver-self-care/) es un bon comense.
 
-## What steps can you talk over with a doctor?
+## Queles passos on posse parlar pri con un medíco?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Ti es li areas studyat li max frequent. To merita esser levat in un consultation pro que li major parte de ili ajuda li sanitá del corde, li humor e li independentie anque, índependentmen de lor effectu sur dementie.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Pression sanguinari.** Demande quo es ti cifras e quel scop conveni a te. Li Commission Lancet suggere tender a un superior númere de 130 o inferior desde circa etá 40, ma li just scop por un person plu old depende de lor total sanitá.
+2. **Audition.** Demande un teste de audition, e si auditive aparates vell esser util. Nor [guida pri audition](/brain-health/hearing/) explica li recercas.
+3. **Vision.** Fa regular exames ocular e demande si problemas tal quam cataractes posse esser tractat.
+4. **Colesterol.** Demande si ti colesterol LDL deve esser controlat e si alcun cose deve cambiar.
+5. **Glycémie.** Si tu have diabete, demande com tractar lo securmen.
+6. **Humor.** Depression es comun e tractabil. Di a ti medíco si tu ha sentit te deprimit o ha perdet interess in coses por plu quam un pare de semanes.
+7. **Fumar e alcool.** Demande supporte por cessar fumar e pri secur limites por alcool.
+8. **Movement.** Demande quel type de activitá es secur por te. Nor [guida pri exercitie](/brain-health/exercise/) have idees.
+9. **Protection del cap.** Usa un casco por cyclisme e sportes de contact, e demande pri prevention de cadidas.
+10. **Restar connectet.** Témpor con altri persones es parte de un san vive. Vider nor guida pri [social conexion](/brain-health/social-connection/), e anque pri [somne](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Ante cambiar medícines, dieta, suplementes, fastentie o exercitie, parla sempre con ti medíco prim, specialmen si tu have morbus del corde, diabete, un historie de cadidas, o si tu ja vive con dementie.
 
-## Talk with a doctor
+## Parla con un medíco
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Si tu nota cambios in memorie o pensada quel te preocupa, in te self o in alquicos altri, fa un rendez-vous. Li NIA nota que
+[problemas de memorie posse har altri causas](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+tal quam effectus lateral de medícines, problemas de tiroide, depression o bass vitamine B12, e que cert de ti problemas disapari quande li causa es tractat. Nor [guida pri signes de avise](/brain-health/warning-signs/) explica quo observar.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Obtene urgent auxili** por subit cambios: subit confusion, debilessa o insensibilitá en un latere, desfacilitá a parlar, o un sever cap-dolor posse esser signes de un ictus o un altri urgentie. Voca li nómine local de urgentie.
 
-## Where Golden Moments fits
+## Ubi Golden Moments conveni
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments fa simplic activitás compartit, tal quam
+[cartes de conversation](/games/conversation-cards/),
+[bingo con pictures](/games/picture-bingo/) e un
+[pausa de calm respiration](/games/calm-breathing/). Ili es por enjoyment e témpor junt. Ili ne es un tractament, e ili ne prevente ni retarda dementie.

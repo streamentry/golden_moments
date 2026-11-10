@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Memoria-jolas leunak dementzia duten adinekoentzat"
+seoTitle: "Memoria-jolas onenak dementziarekin, ideia leunak"
+description: "Parekatze-, irudi- eta karta-jolasak dementzia duten adinekoentzat, eta nola jokatu inor proban jarri gabe: irudiak ikusgai, bikote gutxiago, markagailurik ez."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Dementzia duten adinekoentzako memoria-jolasak hobeto funtzionatzen dute
+  memorian oinarritzen ez direnean. Jokatu parekatze-jolasak irudiak ikusgai
+  utzita, erabili lau eta sei fitxa artean, jokatu taldean eta utzi markagailua
+  alde batera. Irudi bat ezagutzea gogoratzea baino errazagoa da; beraz,
+  aukeratu dena ikusgai mantentzen duten jolasak. Helburua gozatzea da, ez
+  emaitza bat lortzea.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Memoria-jolas klasikoek kartak ezkutatzen dituzte, eta horrek dementziak zailtzen duen gaitasun bera probatzen du. Utzi irudiak ikusgai horren ordez."
+  - "Pieza gutxiago, irudi handiagoak eta aldi berean aukera bakarra izateak jolas atsegina mantentzen dute."
+  - "Jokatu taldean, lagundu txandaka eta utzi markagailua. Inor ez da estu jarri behar."
+  - "Ez da frogatu memoria-jolas bakar batek ere dementzia tratatzen, moteltzen edo geldiarazten duenik. Jokatu elkarrekin une atseginak pasatzeko."
+  - "Gelditu oraindik dibertigarria den bitartean. Irudiei buruz hitz egitea ere emaitza ona da."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Zein da memoria-jolas ona dementzia duen pertsona batentzat?"
+    a: "Irudi handi eta ezagunak dituzten eta ikusgai utz daitezkeen parekatze-jolas bat, adibidez Irudi bikoteak lau edo sei fitxarekin. Ikusten duzun irudi baten bikia aurkitzea atsegina da, epe laburreko memoria probatu gabe. Aurkitu berdina are sinpleagoa da: irudi bat bi edo lau aukerarekin parekatu behar da."
+  - q: "Memoria-jolasek laguntzen al dute dementziaren aurrean?"
+    a: "Ez da frogatu memoria-jolas bakar batek ere dementzia tratatzen, moteltzen edo geldiarazten duenik; Cochrane-ren berrikuspen batek ondorioztatu zuen ordenagailu bidezko garun-entrenamenduari buruzko ebidentzia mugatuegia dela dementzia prebenitzen duen esateko. Hala ere, jolasak elkarrekin denbora pasatzeko modu goxoa izan daitezke. Aukeratu gozamenerako eta konpainiarako."
+  - q: "Kontzentrazio klasikoa jokatu behar al dut dementzia duen norbaitekin?"
+    a: "Hasierako fasean, pertsona batzuek oraindik gozatzen dute, batez ere karta gutxirekin. Kartak non zeuden gogoratzeak frustrazioa sortzen hasten bada, jarri kartak ikusgai eta aurkitu bikoteak elkarrekin. Horrela, parekatzea mantentzen da eta memoria-proba kentzen da."
+  - q: "Zein memoria-jolas dira egokiak adinekoentzat taldean?"
+    a: "Pantailako deitzailea duen irudi-bingoa, esaera ezagunak ozen amaitzea eta elkarrizketarako txartelak egokiak dira taldeetarako. Jokatu karta guztiak bete arte, eta saihestu norbaitek erantzun bat lortu duela esatea, inor ez dadin baztertuta sentitu."
+  - q: "Ba al dago adinekoentzako doako memoria-jolasik sarean?"
+    a: "Bai. Gune honetako jolasak, besteak beste Irudi bikoteak, Aurkitu berdina, Argazki bikoteak eta Irudi puzlea, doakoak dira, ez dute erregistrorik behar eta telefonoetan, tabletetan eta ordenagailuetan funtzionatzen dute. Batek ere ez du tenporizadorerik ez markagailerik."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+«Adinekoentzako memoria-jolasak» bilatzen baduzu, aurkituko duzun gehiena buruari ariketa bat eman nahi dioten pertsonentzat egina dago: karta ezkutuak, atzerako kontaketa, mailak eta markagailuak. Dementzia duen pertsona batentzat, ezaugarri horiek jolasa zaildu den gaitasunaren proba bihurtzen dute. Jolas berberak modu leunagoan jokatu daitezke. Orrialde honetan nola erakusten da, eta fase bakoitzerako ondo funtzionatzen duten jolasak zerrendatzen dira.
 
-## Why do classic memory games frustrate people with dementia?
+## Zergatik frustratzen dituzte memoria-jolas klasikoek dementzia duten pertsonak?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Informazio berria buruan gordetzean oinarritzen direlako, eta hori izan ohi da Alzheimer gaixotasunak, dementziaren kausa ohikoenak, lehenik kaltetzen duena. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) erakundearen arabera, Alzheimer gaixotasunaren hasierako sintoma ohikoena berriki ikasitako informazioa gogoratzeko zailtasuna da. Kontzentrazio klasikoan, bi karta itzuli, non zeuden gogoratu eta minutu bat geroago erabili behar duzu. Hori informazio berria da, gorde eta gogoratu beharrekoa.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Tenporizadore bat, markagailu bat edo erantzun okerretarako soinu bat gehitzen badituzu, zaintzen duzun pertsonari ezin duena gogorarazten diozu, maite duen norbaiten aurrean. Askok lasai utzi nahi izaten dute jolasteari.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Ikusten duzun zerbait ezagutzea beste zeregin bat da, eta normalean errazagoa. Bi kikara ikusgai daudenean bigarrenera seinalatzea atsegina da. Beraz, gakoa parekatzea mantentzea eta memoria-proba kentzea da.
 
-## How do you make a memory game gentle?
+## Nola bihur daiteke memoria-jolas bat leunagoa?
 
-These adjustments work for card games, board games and games on a screen.
+Doikuntza hauek karta-jolasetarako, mahai-jolasetarako eta pantailako jolasetarako balio dute.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Utzi irudiak ikusgai.** Ikusten dituzun irudiak parekatzea benetako jolasa da oraindik, eta askotan atsegina.
+2. **Erabili pieza gutxiago.** Hasi bi edo hiru bikoterekin. Gehitu gehiago errazegia iruditzen bazaio eta berak nahi badu soilik.
+3. **Aukeratu irudi handi, ezagun eta helduentzako egokiak.** Kikara bat, ekilore bat, belaontzi bat. Ez marrazki bizidunak, ezta eszena nahasiak ere.
+4. **Jokatu taldean.** «Bila ditzagun txakurrak» esan, ez «zure txanda». Seinalatu eta lagundu txandaka.
+5. **Utzi markagailua.** Inork ez du irabazi beharrik. Norbaitek galdetzen badu, «egin dugu» esatea nahikoa da.
+6. **Ez lastertu erlojuaren aurka.** Tenporizadorerik ez, eta txanden artean presarik ez.
+7. **Hitz egin irudiei buruz.** «Begira itsasontzi hori. Inoiz ibili zara belaontzian?» Elkarrizketa izan ohi da zatirik onena.
+8. **Gelditu une on batean.** Amaitu parekatze baten ondoren, oraindik atsegina den bitartean.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) erakundeak aholku orokor gisa ideia bera ematen du: egokitu jarduera pertsonak egin dezakeenera, begiratu frustrazio-zantzuei eta ziurtatu arrakasta sentitzea.
 
-## Gentle memory and matching games to try
+## Probatzeko memoria- eta parekatze-jolas leunak
 
-### Picture pairs (matching with pictures showing)
+### Irudi bikoteak (irudiak ikusgai parekatzea)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Irudi bikoteak](/games/picture-pairs/) irudi handiak dituen parekatze-jolasa da, 4 eta 12 fitxa artean. Irudiak ikusgai utz daitezke; beraz, helburua bikiak aurkitzea da, ez non zeuden gogoratzea. Hasi lau fitxarekin. Hasierako fasean dagoen eta erronka pixka bat gehiago nahi duen pertsona batentzat, **Irudi ezkutuak** aukerara alda dezakezu, baina itzuli irudiak erakustera dibertigarria izateari uzten dion unean.
 
-### Find the same
+### Aurkitu berdina
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Aurkitu berdina](/games/find-the-same/) jolasak irudi bat erakusten du goian eta bi edo lau aukera behean. Ukitu bat datorrena. Guneko parekatze-jolasik sinpleena da, eta sare osoa nahasiegia iruditzen zaien pertsonentzat egokia da, baita ondorengo faseetan, alboan norbait dutela, dauden askorentzat ere.
 
-### Photo pairs (family photo memory game)
+### Argazki bikoteak (familiako argazkiekin memoria-jolasa)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Argazki bikoteak](/games/photo-pairs/) jolasak zuk aukeratutako argazkiak parekatze-jolas bihurtzen ditu: txakurra, lorategia, lakuko etxea. Aurpegi eta leku ezagunek askotan elkarrizketa gehiago pizten dute edozein irudi arruntek baino. Argazkiak zure nabigatzailean geratzen dira eta ez dira inoiz kargatzen.
 
-### Sort together
+### Sailkatu elkarrekin
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sailkatu elkarrekin](/games/sort-together/) jolasak irudi bakoitza dagokion saskian jartzea eskatzen du, adibidez sukaldean edo lorategian. Sailkatzeak munduak nola funtzionatzen duen jakitean oinarritzen da, aspalditik dakigun horretan, ez epe laburreko memorian.
 
-### Picture puzzle
+### Irudi puzlea
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Irudi puzleak](/games/picture-puzzle/) irudi bat 4 edo 9 piezatan mozten du. Ukitu bi pieza haien lekua trukatzeko, irudia osatu arte. Irudi osoa pantailan geratzen da gida gisa.
 
-### Real cards on the table
+### Benetako kartak mahai gainean
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Ez duzu pantailarik behar. Atera bikoteak bi karta-sortatik edo irudi-karta sorta batetik. Jarri ikusgai bi ilaratan eta aurkitu bikoteak elkarrekin. Geroago, sailkatu kolorearen edo paloakaren arabera. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) erakundeak karta-jolasak eta mahai-jolasak aipatzen ditu hasierako faseko jardueren artean.
 
-## Which memory games suit each stage?
+## Zein memoria-jolas egokitzen dira fase bakoitzera?
 
-Stages are loose labels. Go by what the person enjoys today.
+Faseak etiketa orokorrak dira. Gidatu zaintzen duzun pertsonak gaur gozatzen duenaren arabera.
 
-| Stage | Games that often fit | How to set them up |
+| Fasea | Askotan egokiak diren jolasak | Nola prestatu |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Hasierakoa | Irudi bikoteak, Argazki bikoteak, 9 piezako Irudi puzlea, karta-jolas ezagunak | Utzi berari aukeratzen. Fitxak itzuli daitezke gozatzen badu; utzi markagailua gogaitzen badu |
+| Ertaina | 4 eta 6 fitxa bitarteko Irudi bikoteak ikusgai, Aurkitu berdina, Sailkatu elkarrekin | Irudiak beti ikusgai. Eseri alboan eta lagundu txandaka |
+| Aurreratua | 2 aukerako Aurkitu berdina, elkarrekin irudi handi bat begiratzea | Oso laburra. Zuk eutsi tableta; berak seinalatu dezake, edo begiratu eta entzun besterik ez |
 
-## Do memory games help with dementia?
+## Memoria-jolasek laguntzen al dute dementziaren aurrean?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ez da frogatu memoria-jolas bakar batek ere dementzia tratatzen, moteltzen edo geldiarazten duenik. Arin kognitiboan dauden pertsonentzako ordenagailu bidezko entrenamendu kognitiboari buruzko [Cochrane-ren berrikuspen](https://pubmed.ncbi.nlm.nih.gov/30864747/) batek ondorioztatu zuen ebidentzia mugatuegia dela dementzia prebenitzen duen esateko. [Garun-jolasak eta dementzia](/brain-health/brain-games/) gida gureak azaltzen du ikerketek zer erakusten duten eta zer ez.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Hori ez da jolasak alde batera uzteko arrazoia. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) erakundeak gomendatzen du gozamenean jartzea arreta, ez lorpenetan. Hamar minutuz irudiak parekatzea eta haiei buruz hitz egitea eguneko une benetan ona izan daiteke.
 
-## What about memory games for seniors without dementia?
+## Zer gertatzen da dementziarik ez duten adinekoen memoria-jolasekin?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Memoria-arazorik ez duen adineko batek tenporizadoreak, markagailuak eta maila zailagoak dituzten puzzleak gogoko baditu, ez dago horren aurkako arazorik. Baina ez kontatu horrekin dementziatik babesteko; ez da frogatu jolas bakar batek ere hori egiten duenik. Goiko bertsio leunak ere oso egokiak dira belaunaldi desberdinek elkarrekin jolasten dutenean: dementzia duen aitona-amona batek eta biloba txiki batek irudiak parekatu ditzakete taldean, inor proban jarri gabe.
 
-## When should you stop or change the game?
+## Noiz gelditu edo aldatu behar da jolasa?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Hasperenka egitea, tableta alde batera bultzatzea, «ezin dut egin» esatea edo urduri agertzea jolas errazagoa egiteko edo gelditzeko seinaleak dira. Saiatu fitxa gutxiagorekin, jarri irudiak ikusgai, aldatu [Aurkitu berdina](/games/find-the-same/) jolasera, edo begiratu irudiei eta hitz egin besterik ez. Ez badu batere jokatu nahi, ondo dago. [Nola jokatu elkarrekin](/caregiving/how-to-play-together/) gida gurean erritmoari eta laguntzeari buruzko aholku gehiago aurkituko dituzu.

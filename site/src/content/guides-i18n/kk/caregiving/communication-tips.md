@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Демензиясы бар адаммен сөйлесу кеңестері"
+seoTitle: "Демензия кезінде сөйлесу: не айтуға болады"
+description: "Демензиясы бар адаммен сөйлесудің қарапайым тәсілдері: әңгімені қалай бастау, не деу керек және қалай мұқият тыңдау керек."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Тыныш жерде сөйлесіңіз, адамның бетіне қараңыз, атын атап сөйлеңіз және
+  қысқа, қарапайым сөйлемдермен баяу айтыңыз. Бір уақытта бір сұрақ қойыңыз,
+  ашық сұрақтардың орнына екі нұсқа ұсыныңыз және әдеттегіден ұзақ күтіңіз.
+  Дауласпаңыз, түзетпеңіз және сұрап тексермеңіз. Сөздің артындағы сезімге
+  назар аударыңыз, ал сөйлеу қиындай түскенде жанасу, суреттер мен қимылдарды
+  қолданыңыз.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Сөйлей бастамас бұрын айналаны тыныштандырыңыз және адамның көзіне қараңыз."
+  - "Қысқа сөйлемдер қолданыңыз, бір мезетте бір ой айтыңыз және «ол» деген есімдіктің орнына адамның атын атаңыз."
+  - "Ашық сұрақтардың орнына екі нұсқаның бірін таңдауды немесе «иә» не «жоқ» деп жауап берілетін сұрақты ұсыныңыз."
+  - "Жауапты күтіңіз. Егер сізді түсінбесе, алдымен сол сөздерді қайталаңыз, содан кейін басқа сөздермен айтып көріңіз."
+  - "Дауласпаңыз және түзетпеңіз. Айтылған сөздің артындағы сезімге назар аударыңыз."
+  - "Сөз табу қиындаған сайын жанасу, дауыс ырғағы, бет-әлпет және бірге қараған суреттер арқылы қарым-қатынас жасаңыз."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Демензиясы бар адамға нені айтпаған дұрыс?"
+    a: "Сұрап тексеруден («Есіңізде ме...?»), түзетуден («Бұл қате»), жоғалтуларды еске салудан («Мен саған айттым ғой») және адам жоқтай сөйлесуден аулақ болыңыз. Балаларға айтқандай сөйлемеңіз. Мұндай сөздер көбіне көмектеспей, адамды ұялтады немесе қобалжытады."
+  - q: "Адам фактілерді шатастырғанда түзетуім керек пе?"
+    a: "Әдетте қажет емес. Егер қате айтылған нәрсе зиян тигізбесе, оны отпей-ақ қойыңыз. Дауласу сирек көмектеседі және көбіне адамды ренжітеді. Оның дәл қазір не сезініп тұрғанына және не қажет екеніне көңіл бөліңіз."
+  - q: "Адам сөз таба алмаса не істеймін?"
+    a: "Алдымен оған уақыт беріңіз. Егер ол қиналып тұрғаны анық болса, оған ақырын сөз ұсынып көруге немесе не айтқысы келіп тұрғанын болжап, тексеруге болады. Сұқ саусақпен көрсету, қимылдар және суреттер де көмектеседі."
+  - q: "Демензияның кейінгі кезеңінде сирек сөйлейтін адаммен қалай сөйлесемін?"
+    a: "Адамға алдынан жақындаңыз, өзіңізді таныстырыңыз, тыныш дауыспен сөйлеңіз және ақырын жанасыңыз. Адамның сезімін түсіну үшін бет-әлпетіне және дене қимылына назар аударыңыз. Сіздің жаныңызда болуыңыз, таныс әуен немесе қолын ұстау сөзсіз-ақ көп нәрсені білдіре алады."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Демензия сөз табуды, ұзақ сөйлемді түсінуді немесе бөгде шуды елемеуді қиындатуы мүмкін. Бірақ бұл адамның жақындық пен қарым-қатынасқа деген ниеті жоғалды дегенді білдірмейді. Әңгімені қалай бастайтыныңызды, қалай сөйлейтініңізді және қалай тыңдайтыныңызды аздап өзгерту сізге де, оған да сөйлесуді жеңіл әрі тыныш ете алады.
 
-## What are the most important tips for talking with someone who has dementia?
+## Демензиясы бар адаммен сөйлесудің ең маңызды кеңестері қандай?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Адамның назарын аударыңыз, қарапайым сөйлеңіз және шыдамды болыңыз. Егер тек бес нәрсені есте сақтасаңыз, мыналарды ұмытпаңыз:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Бөлмені тыныштандырып, оған қарап отырыңыз.** Теледидарды өшіріңіз, көз деңгейінде отырыңыз және атын атап сөйлеңіз.
+2. **Бір уақытта бір нәрсе айтыңыз.** Қысқа сөйлемдер, бір ой, бір сұрақ.
+3. **Екі нұсқа ұсыныңыз.** «Шай ма, әлде кофе ме?» деген сұрақ «Не ішкіңіз келеді?» дегенге қарағанда оңайырақ.
+4. **Күтіңіз.** Жауап беру үшін әдеттегіден көбірек уақыт беріңіз және сөзін бөлмеңіз.
+5. **Ешқашан дауласпаңыз және сұрап тексермеңіз.** Фактілердің дұрыстығына емес, адамның не сезініп тұрғанына назар аударыңыз.
 
-## How should I start a conversation?
+## Әңгімені қалай бастауым керек?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Адамның назарын сізге аудара алатындай жағдай жасаңыз. [Family Caregiver Alliance нұсқаулығы](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) алдымен шуды азайтуды ұсынады: радионы немесе теледидарды өшіріңіз, пердені не есікті жауып қойыңыз немесе тынышырақ жерге өтіңіз.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Адамға алдынан жақындаңыз.** Артынан немесе бүйірден келу адамды шошытып жіберуі мүмкін.
+- **Өзіңізді таныстырыңыз.** «Сәлеметсіз бе, әке, мен Сарамын, қызыңыз». Бұл оған сіздің атыңызды еске түсіруге тырысу қажеті болмауына көмектеседі.
+- **Көз деңгейінде болыңыз.** Егер ол отырып тұрса, көзіңіз бір деңгейде болатындай етіп отырыңыз немесе тізерлеңіз.
+- **Бет-әлпетіңіз бен дауыс ырғағыңызды байқаңыз.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) дауыс ырғағыңызға, қаттылығына, бет-әлпетіңізге және дене қимылыңызға назар аударуды, жылы әрі сабырлы сөйлесуді ұсынады.
+- **Көзілдірік пен есту аппараттарының киіліп тұрғанын тексеріңіз.** Толық көрмей немесе естімей тұрып, әңгімені түсіну қиын.
 
-## How should I phrase what I say?
+## Не айтатынымды қалай құрастыруым керек?
 
-Use simple words, short sentences and a calm, low voice.
+Қарапайым сөздер, қысқа сөйлемдер және сабырлы, төмен дауыс қолданыңыз.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Әр сөйлемде бір ғана ой болсын.** «Ендеше пальтоңызды киеміз. Сосын далаға шығамыз». Екеуін бірден айтып жібермеңіз.
+- **Есімдіктердің орнына атауларды қолданыңыз.** «Жан апай қоңырау шалды» деген «Ол қоңырау шалды» дегеннен түсініктірек.
+- **Дауысты қатайтпай, сәл төмендетіңіз.** Family Caregiver Alliance дауысты көтергеннен гөрі, сәл төменірек етіп сөйлеуді ұсынады.
+- **Қайталаңыз, содан кейін басқа сөзбен айтыңыз.** Егер сізді түсінбесе, сол сөздерді бір рет қайталаңыз. Егер бұл көмектеспесе, сәл күтіп, басқа сөздермен айтып көріңіз.
+- **Айтып қана қоймай, көрсетіңіз де.** Кесе жаққа нұсқаңыз, екі жемпірді көрсетіңіз немесе бірінші қадамды жасап көрсетіңіз.
+- **Онымен бірге сөйлесіңіз, ол туралы емес.** NIA адамды жоқтай сөйлесуден және балаларға айтқандай сөйлеуден аулақ болуды ескертеді.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA жиі қойылатын сұрақтардың қарапайым нұсқаларын ұсынады. Міне, осыған ұқсас мысалдар:
 
-| Instead of | Try |
+| Орнына | Осылай айтыңыз |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Кешкі асқа не қалайсыз?» | «Балық па, әлде тауық па?» |
+| «Өзіңізді қалай сезініп тұрсыз?» | «Шаршадыңыз ба?» |
+| «Қарныңыз ашты ма?» | «Кешкі ас бес минуттан кейін дайын болады.» |
+| «Олай істемейді.» | «Мына жолмен жасап көрейік.» |
+| «Көлге барған сапарымыз есіңізде ме?» | «Көлге барған сапарымыз туралы ойладым. Сол кезде не ұнағанын айтып беріңізші.» |
+| «Мен саған айттым ғой.» | Алғаш рет айтып тұрғандай, тағы да сыпайы түрде қайталаңыз. |
 
-## How do I listen well?
+## Қалай жақсы тыңдауға болады?
 
-Listen for the meaning and the feeling, not just the words.
+Тек сөздерге емес, олардың мағынасы мен астарындағы сезімге де құлақ түріңіз.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Күтіңіз.** Үнсіздік көбіне ойлану уақыты болады. Арасын бөлмес бұрын, іштей онға дейін баяу санаңыз.
+- **Адам қиналып тұрса ғана сөз ұсыныңыз.** Family Caregiver Alliance адамның қиналып тұрғанын көрсеңіз, сөз ұсынуға болатынын айтады.
+- **Естігеніңізді тексеріңіз.** [Alzheimer's Association қарым-қатынас жөніндегі нұсқаулығы](https://www.alz.org/help-support/caregiving/daily-care/communications) айтылған сөздердің артындағы мағынаны байқап, дұрыс түсінгеніңізге көз жеткізу үшін оны қайталап айтуға кеңес береді. «Көлік үшін алаңдап тұрсыз ба?»
+- **Адамның бет-әлпеті мен дене қимылына назар аударыңыз.** Сөйлеу қиындай түскен сайын, NIA атап өткендей, бет-әлпет қайғыны, ашуды немесе мазасыздықты сөзден айқынырақ көрсетуі мүмкін.
+- **Алаңдаушылықты байыпты қабылдаңыз.** Алаңдаушылық қате фактіге негізделсе де, сезім шынайы болады.
 
-## What if they say something that is not true?
+## Егер адам шындыққа жанаспайтын нәрсе айтса ше?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Дауласпаңыз. Сіздікін дәлелдеу мүмкін емес шығар, ал адам ұялып немесе қорқып қалуы мүмкін. Оның орнына, оның сезіміне жауап беріп, содан кейін әңгімені ақырын басқа жаққа бұрыңыз.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance әңгімені басқа бағытқа бұрмас бұрын, адамның сезімін мойындауды ұсынады. Мысалы, анаңыз балаларды мектептен алып келу керек деп тұрса:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Орнына: «Апа, балаларыңыз өсіп кетті ғой. Ол қырық жыл бұрын болған.»
+- Осылай айтыңыз: «Сіз әрқашан өте мейірімді ана болдыңыз. Оларды алып кеткен кездеріңіз туралы айтып беріңізші. Алдымен бір нәрсе жеп аламыз ба?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association да сіз келіспейтін пікірлерге дауласпауды ұсынады. Әр сәтті таңдай біліңіз: егер қате ой зиянсыз болса, оны отпей-ақ қойыңыз.
 
-## How does communication change as dementia progresses?
+## Демензия үдеген сайын қарым-қатынас қалай өзгереді?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Уақыт өте келе қажеттіліктер өзгереді, сондықтан сіздің тәсіліңіз де өзгеруі керек. Alzheimer's Association шамамен үш кезеңді сипаттайды:
 
-| Stage | What helps |
+| Кезең | Не көмектеседі |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Ерте кезең | Адам енді қарым-қатынас жасай алмайды деп ойламаңыз. Оны әңгімеге қосыңыз, тікелей оған қарап сөйлеңіз, қандай көмек керек екенін сұраңыз және орынды болса, әзіл-қалжыңды қолданыңыз. |
+| Орта кезең | Тыныш жерде жалғыз сөйлесіңіз. Баяу сөйлеңіз, көзге қарап тұрыңыз, «иә» немесе «жоқ» деп жауап берілетін сұрақтар қойыңыз, нұсқауларды қадамдап беріңіз және сынамаңыз, түзетпеңіз. |
+| Кейінгі кезең | Адамға алдынан жақындаңыз және өзіңізді таныстырыңыз. Саусақпен көрсетуді және қимылдарды қолдаңыз. Жанасуды, дыбыстарды, көріністерді және иістерді пайдаланыңыз. Адам жоқтай ешқашан сөйлемеңіз. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Әр адам бөлек, тіпті бір адамның өзінде де жақсы күндер мен қиын күндер болуы мүмкін. Белгіге емес, адамның дәл қазір қандай күйде екеніне қарай әрекет етіңіз.
 
-## Can pictures and activities make conversation easier?
+## Суреттер мен әрекеттер әңгімені жеңілдете ала ма?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Иә. Ортақ сурет қысымды азайтады және екеуіңізге де қарап, нұсқауға болатын нәрсе береді.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Суретті сұрақтар.** [Conversation Cards](/games/conversation-cards/) ешқашан сұрап тексермейтін, ашық сұрақтары бар суреттер ұсынады.
+- **Отбасылық суреттер.** [Photo Pairs](/games/photo-pairs/) сіз таңдаған суреттерді жеңіл сәйкестендіру ойынына айналдырады, бұл жиі естеліктерді оятады.
+- **Таныс сөз орамдары.** [Finish the Saying](/games/finish-the-saying/) жақсы танымал сөз орамдарын пайдаланып, содан кейін әңгімеге түрткі болатын сұрақ ұсынады.
+- **Сәйкестендіру ойындары.** [Picture Pairs](/games/picture-pairs/) әңгімелесіп отырып, қолыңызбен айналысуға мүмкіндік береді.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Толығырақ білу үшін [бірге қалай ойнауға болады](/caregiving/how-to-play-together/) және [естеліктерге негізделген әрекеттер](/activities/reminiscence/) бөлімдерін қараңыз. Келіп-кету және қоңырау шалу туралы біздің [келіп-кету](/activities/visiting/) және [телефонмен және бейнеқоңырау арқылы сөйлесу](/activities/phone-and-video-calls/) нұсқаулықтарымызды оқыңыз.
 
-## What if I lose my patience?
+## Егер шыдамым таусылса ше?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Мұндай жағдай әркімде болады. NIA ашуланғаныңызды сезсеңіз, сабырға келу үшін біраз уақыт бөлуге кеңес береді. Басқа бөлмеге өтіңіз, бірнеше рет баяу дем алыңыз және сабыр тапқан кезде қайтып келіңіз. Әңгімені әрқашан қайта бастауға болады, ал адам сіздің сабырлы көңіл-күйіңізге жақсы жауап беруі мүмкін. Егер ашу-ыза жиі қайталана берсе, бұл сіздің қателесіп жатқаныңызды емес, көбірек қолдауға мұқтаж екеніңізді көрсетеді. Біздің [күтім жасаушының өзіне қамқорлығы](/caregiving/caregiver-self-care/) бөлімінде көмек табуға болатын орындар бар.

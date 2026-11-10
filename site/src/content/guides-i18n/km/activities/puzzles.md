@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "ល្បែងផ្គុំរូបសម្រាប់មនុស្សដែលមានជំងឺវង្វេង"
+seoTitle: "ល្បែងផ្គុំរូបសម្រាប់ជំងឺវង្វេង"
+description: "របៀបជ្រើសរើសល្បែងផ្គុំរូប ល្បែងពាក្យ និងល្បែងអនឡាញសាមញ្ញសម្រាប់មនុស្សដែលមានជំងឺវង្វេង៖ ទំហំបំណែក រូបភាព អក្សរធំ ការលេងជាមួយគ្នា និងពេលគួរធ្វើឲ្យងាយជាងមុន។"
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  ល្បែងផ្គុំរូបដែលល្អបំផុតសម្រាប់មនុស្សដែលមានជំងឺវង្វេង គឺជាល្បែងដែលពួកគេអាចបញ្ចប់បាន
+  ដោយមានជំនួយបន្តិចបន្តួច និងរីករាយនៅពេលលេង។ ជ្រើសរើសល្បែងផ្គុំរូបដែលមានបំណែកតិច
+  បំណែកធំ និងរូបភាពច្បាស់សម្រាប់មនុស្សពេញវ័យ ដាក់រូបភាពនៅលើប្រអប់ឲ្យមើលឃើញ
+  និងតម្រៀបបំណែកគែមជាមុន។ ល្បែងស្វែងរកពាក្យ និងល្បែងបំពេញពាក្យឆ្លង
+  សាកសមបំផុតនៅពេលមានអក្សរធំ។ ល្បែងផ្គុំរូបអនឡាញងាយៗដែលមាន 4 បំណែក
+  អាចសាកសមសម្រាប់ដំណាក់កាលកណ្ដាល។ បញ្ឈប់នៅពេលដែលនៅតែសប្បាយ។
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "ជ្រើសរើសតាមរបៀបដែលការលេងដំណើរការ មិនមែនតាមឈ្មោះដំណាក់កាលទេ៖ ប្រសិនបើល្បែងណាមួយមើលទៅពិបាកពេក សូមសាកល្បងល្បែងដែលមានបំណែកតិចជាង។"
+  - "បំណែកធំ រឹងមាំ និងរូបភាពច្បាស់ដែលមានផ្នែកពណ៌ខុសគ្នាច្បាស់ ងាយជាងបំណែកតូចៗ និងរូបភាពដែលមានផ្ទៃមេឃធំ។"
+  - "រូបភាពសម្រាប់មនុស្សពេញវ័យមានសារៈសំខាន់។ សួនច្បារ ផ្ទះបាយ រថយន្ត និងសត្វ ល្អជាងរូបតុក្កតា។"
+  - "ការធ្វើជាមួយគ្នាគឺជាចំណុចសំខាន់។ ប្រគល់បំណែកម្តងមួយៗ តម្រៀបបំណែកគែម និងដាក់គម្របប្រអប់ឲ្យមើលឃើញ។"
+  - "ល្បែងស្វែងរកពាក្យអក្សរធំ និងល្បែងផ្គុំរូបអនឡាញងាយៗដែលមាន 4 ឬ 9 បំណែក មានដោយឥតគិតថ្លៃនៅលើគេហទំព័រនេះ។"
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "ល្បែងផ្គុំរូបគួរមានបំណែកប៉ុន្មានសម្រាប់មនុស្សដែលមានជំងឺវង្វេង?"
+    a: "មិនមានចំនួនត្រឹមត្រូវតែមួយទេ។ អ្នកដែលធ្លាប់លេងល្បែងផ្គុំរូប 1,000 បំណែក អាចនៅតែរីករាយជាមួយល្បែងរាប់រយបំណែកនៅដំណាក់កាលដំបូង ខណៈអ្នកផ្សេងទៀតអាចសមជាមួយបំណែកធំៗប្រហែលជាប៉ុន្មានបំណែក។ ប្រសិនបើល្បែងណាមួយមើលទៅពិបាក ឬធ្វើឲ្យមានការពិបាកចិត្ត សូមប្ដូរទៅល្បែងដែលមានបំណែកតិចជាង។ ល្បែងផ្គុំរូបអនឡាញរបស់យើងមាន 4 ឬ 9 បំណែក។"
+  - q: "តើល្បែងផ្គុំរូបល្អសម្រាប់មនុស្សដែលមានជំងឺវង្វេងដែរ ឬទេ?"
+    a: "មនុស្សជាច្រើនរីករាយនឹងវា ជាពិសេសប្រសិនបើពួកគេធ្លាប់ចូលចិត្តល្បែងផ្គុំរូបពីមុន។ ល្បែងផ្គុំរូបអាចឲ្យដៃមានអ្វីធ្វើ មានគោលដៅច្បាស់ និងមានរូបភាពសម្រាប់និយាយគ្នា។ មិនមានល្បែងផ្គុំរូបណាមួយដែលបានបង្ហាញថាព្យាបាល ឬយឺតការកើតជំងឺវង្វេងទេ ដូច្នេះសូមជ្រើសរើសវាសម្រាប់ភាពរីករាយ និងការនៅជាមួយគ្នា។"
+  - q: "តើខ្ញុំអាចធ្វើអ្វីបាន នៅពេលអ្នកដែលខ្ញុំថែទាំលែងអាចលេងល្បែងផ្គុំរូបបាន?"
+    a: "ធ្វើឲ្យវាកាន់តែងាយ និងជួយច្រើនជាងមុន៖ ប្រគល់បំណែកម្តងមួយៗ ឬទុកតែបំណែកចុងក្រោយពីរបីសម្រាប់ពួកគេ។ សាកល្បងល្បែងផ្គុំរូបអនឡាញ 4 បំណែក តម្រៀបបំណែកតាមពណ៌ ឬគ្រាន់តែមើលរូបភាពដែលបានបញ្ចប់ជាមួយគ្នា។"
+  - q: "តើល្បែងបំពេញពាក្យឆ្លង និងល្បែងស្វែងរកពាក្យសាកសមសម្រាប់ជំងឺវង្វេងដែរ ឬទេ?"
+    a: "អាចសាកសមនៅដំណាក់កាលដំបូង ប្រសិនបើប្រើអក្សរធំ។ ល្បែងស្វែងរកពាក្យដែលមានពាក្យតែម្តងទៅខាងស្ដាំ និងចុះក្រោម ងាយជាងល្បែងដែលមានពាក្យទ្រេត ឬបញ្ច្រាស។ អានសំណួរ ឬបញ្ជីពាក្យឲ្យឮៗ និងធ្វើជាមួយគ្នា។"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+ល្បែងផ្គុំរូបដែលរាយនៅលើតុបរិភោគអាហារ គឺជាសកម្មភាពងាយស្រួលមួយក្នុងការធ្វើជាមួយគ្នា។ អ្នកអាចអង្គុយជាមួយគ្នាដោយមិនចាំបាច់និយាយច្រើន រូបភាពអាចជួយឲ្យមានរឿងសម្រាប់និយាយគ្នា ហើយការដាក់បំណែកចុងក្រោយចូលកន្លែងអាចធ្វើឲ្យមានអារម្មណ៍ល្អ។ ទោះជាយ៉ាងណា ល្បែងផ្គុំរូបក៏ត្រូវការការផ្លាស់ប្ដូរតាមការផ្លាស់ប្ដូររបស់ជំងឺវង្វេងដែរ។ ល្បែងដែលពិបាកពេកអាចធ្វើឲ្យពេលលំហែស្ងប់ស្ងាត់មួយប្រែជាពេលដែលពិបាកចិត្ត។ ទំព័រនេះពន្យល់អំពីរបៀបជ្រើសរើស និងរៀបចំល្បែងផ្គុំរូប ល្បែងពាក្យ និងល្បែងអនឡាញងាយៗ ព្រមទាំងអ្វីដែលអាចធ្វើបាននៅពេលល្បែងចាប់ផ្ដើមពិបាក។
 
-## Are puzzles good for people with dementia?
+## តើល្បែងផ្គុំរូបល្អសម្រាប់មនុស្សដែលមានជំងឺវង្វេងដែរ ឬទេ?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+មនុស្សជាច្រើនរីករាយនឹងវា ជាពិសេសអ្នកដែលធ្លាប់លេងល្បែងផ្គុំរូបពីមុន។ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) រាយបញ្ជីល្បែងស្វែងរកពាក្យ ល្បែងបៀ និងល្បែងក្តារជាសកម្មភាពសម្រាប់ដំណាក់កាលដំបូង ហើយ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ក៏លើកឡើងអំពីល្បែង និងល្បែងផ្គុំរូបអនឡាញនៅលើថេប្លេតថាជាវិធីមួយក្នុងការរក្សាការចូលរួម។
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+ល្បែងផ្គុំរូបមិនមែនជាការព្យាបាលទេ។ មិនមានល្បែងផ្គុំរូបណាមួយដែលបានបង្ហាញថាអាចយឺត ឬបញ្ឈប់ជំងឺវង្វេងបានទេ។ មគ្គុទ្ទេសក៍របស់យើងអំពី [ល្បែងខួរក្បាល និងជំងឺវង្វេង](/brain-health/brain-games/) ពន្យល់អំពីការស្រាវជ្រាវ។ មូលហេតុដែលគួរលេងល្បែងផ្គុំរូប គឺវាអាចជាពេលវេលាមួយដែលរីករាយ និងមានអត្ថន័យនៅពេលនៅជាមួយគ្នា។ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) សង្ខេបថា៖ សូមផ្ដោតលើភាពរីករាយ មិនមែនលើសមិទ្ធផលទេ។
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## តើគួរជ្រើសរើសល្បែងផ្គុំរូបយ៉ាងដូចម្តេចសម្រាប់មនុស្សដែលមានជំងឺវង្វេង?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+សូមមើលតាមអ្វីដែលអ្នកដែលអ្នកថែទាំចូលចិត្ត និងរបៀបដែលល្បែងមុនដំណើរការ មិនមែនតាមឈ្មោះដំណាក់កាលទេ។
 
-### Number of pieces
+### ចំនួនបំណែក
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+មិនមានចំនួនត្រឹមត្រូវទេ។ អ្នកដែលចូលចិត្តល្បែងផ្គុំរូបជាយូរមកហើយ អាចនៅតែរីករាយជាមួយបំណែករាប់រយនៅដំណាក់កាលដំបូង ខណៈអ្នកផ្សេងទៀតអាចសប្បាយជាងជាមួយបំណែកតែប៉ុន្មានបំណែក។ ច្បាប់ងាយមួយគឺ៖ ប្រសិនបើល្បែងមុនមើលទៅពិបាកពេក សូមជ្រើសល្បែងដែលមានបំណែកតិចជាងប្រហែលពាក់កណ្ដាល។ ប្រសិនបើល្បែងនោះបញ្ចប់បានលឿន ហើយពួកគេចង់លេងបន្ថែម សូមបន្ថែមបំណែកបន្តិច។
 
-### Piece size and feel
+### ទំហំ និងអារម្មណ៍របស់បំណែក
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **បំណែកធំ** ងាយមើល ងាយចាប់ និងងាយបង្វិល។
+- **បំណែកក្រាស់ និងរឹងមាំ** នៅនឹងទីតាំងបានល្អ និងមិនងាយខូចនៅពេលធ្លាក់។
+- **ផ្ទៃមិនចាំងពន្លឺ** ជួយកាត់បន្ថយពន្លឺឆ្លុះពីចង្កៀង ឬបង្អួច។
+- **ជៀសវាងបំណែកតូចៗ** ប្រសិនបើអ្នកដែលអ្នកថែទាំអាចដាក់វត្ថុចូលមាត់បាន ដែលអាចកើតមាននៅដំណាក់កាលក្រោយនៃជំងឺវង្វេង។
 
-### The picture
+### រូបភាព
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **ប្រធានបទសម្រាប់មនុស្សពេញវ័យ។** សួនច្បារ ផ្ទះបាយ រថយន្តចាស់ សត្វក្នុងកសិដ្ឋាន ទីក្រុងริมសមុទ្រ ឬកីឡាដែលពួកគេចូលចិត្ត។ មិនមែនរូបតុក្កតា ឬរូបដែលមើលទៅដូចកូនក្មេងលេងទេ។
+- **ផ្នែកពណ៌ខុសគ្នាច្បាស់។** ធ្នឹមក្រហម ទូកខៀវ និងវាលស្មៅបៃតង ងាយជាងរូបដែលមានផ្ទៃមេឃពេញពាក់កណ្ដាលល្បែង។
+- **quen familiar និងមានអត្ថន័យផ្ទាល់ខ្លួន។** រូបភាពនៃកន្លែងដែលពួកគេធ្លាប់រស់នៅ ឬចំណង់ចំណូលចិត្តដែលពួកគេស្រឡាញ់ អាចជួយឲ្យមានរឿងជាច្រើនសម្រាប់និយាយគ្នា។ ហាងបោះពុម្ពខ្លះអាចប្ដូររូបថតគ្រួសារទៅជាល្បែងផ្គុំរូបបាន។
 
-## How do you do a puzzle together?
+## តើគួរលេងល្បែងផ្គុំរូបជាមួយគ្នាយ៉ាងដូចម្តេច?
 
-Set it up so the person can get straight to the enjoyable part.
+រៀបចំឲ្យអ្នកដែលអ្នកថែទាំអាចចាប់ផ្ដើមភ្លាមនៅផ្នែកដែលរីករាយ។
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **ជ្រើសរើសកន្លែងល្អ។** ពន្លឺល្អ កៅអីមានដៃទ្រទ្រ និងតុ ឬថាសដែលអាចទុកល្បែងផ្គុំរូបបាន។
+2. **ដាក់គម្របប្រអប់ឲ្យឈរ** នៅកន្លែងដែលអ្នកទាំងពីរអាចមើលឃើញ។
+3. **ត្រឡប់បំណែកទាំងអស់ឲ្យមើលឃើញរូបភាព** មុនពេលចាប់ផ្ដើម។
+4. **តម្រៀបបំណែកគែម** ដោយខ្លួនឯង ឬធ្វើស៊ុមជាមុន រួចទុកផ្នែកកណ្ដាលសម្រាប់ពួកគេ។
+5. **ដាក់បំណែកតាមក្រុមពណ៌** ក្នុងថាសរាក់ៗ ឬចានពីរបី។
+6. **ប្រគល់បំណែកម្តងមួយៗ** ប្រសិនបើគំនរបំណែកមើលទៅច្រើនពេក។ «ខ្ញុំគិតថាបំណែកនេះជាផ្នែកនៃធ្នឹម។»
+7. **និយាយអំពីរូបភាព** មិនមែនអំពីវឌ្ឍនភាពទេ។ «រូបនេះមើលទៅដូចទូកដែលឪពុកខ្ញុំធ្លាប់មាន។»
+8. **ទុកល្បែងនៅទីនោះ។** អាចត្រឡប់មកលេងបន្តបានក្នុងរយៈពេលពីរបីថ្ងៃ។ មិនចាំបាច់ប្រញាប់ទេ។
+9. **បញ្ឈប់នៅពេលដែលអារម្មណ៍ល្អ** បន្ទាប់ពីដាក់បំណែកមួយបាន ដោយនៅតែមានអារម្មណ៍សប្បាយ។
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ណែនាំឲ្យជួយអ្នកដែលអ្នកថែទាំចាប់ផ្ដើម សង្កេតមើលការពិបាកចិត្ត និងអនុញ្ញាតឲ្យពួកគេសម្រាប់តែមើល ប្រសិនបើពួកគេចូលចិត្តវាជាង។ ការមើលអ្នកដាក់បំណែក និងចង្អុលបង្ហាញកន្លែងដែលបំណែកអាចសម ក៏នៅតែជាការចូលរួមដែរ។
 
-## Easy online puzzles
+## ល្បែងផ្គុំរូបអនឡាញងាយៗ
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+ល្បែងផ្គុំរូបនៅលើថេប្លេតមានអត្ថប្រយោជន៍ខ្លះៗ៖ មិនបាត់បំណែក រូបភាពធំបំពេញអេក្រង់ និងមិនចាំបាច់សម្អាតតុ។
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+ល្បែង [ល្បែងផ្គុំរូប](/games/picture-puzzle/) ដោយឥតគិតថ្លៃរបស់យើង កាត់រូបភាពមួយទៅជា 4 ឬ 9 បំណែក។ ចុចបំណែកពីរដើម្បីប្ដូរទីតាំងគ្នា រហូតដល់រូបភាពពេញលេញ។ រូបភាពពេញលេញនៅតែបង្ហាញនៅលើអេក្រង់ជាគំរូ មិនមានម៉ោងកំណត់ទេ ហើយអ្នកអាចបញ្ឈប់បានគ្រប់ពេល។ បំណែក 4 អាចសាកសមសម្រាប់មនុស្សជាច្រើននៅដំណាក់កាលកណ្ដាល នៅពេលមានអ្នកនៅក្បែរជួយ។
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+សម្រាប់ការលេងជាមួយរូបភាពដែលងាយជាងនេះ សាកល្បង [រករូបដូចគ្នា](/games/find-the-same/) ដែលអ្នកចុចលើរូបភាពដែលដូចនឹងរូបនៅខាងលើ ឬ [តម្រៀបជាមួយគ្នា](/games/sort-together/) ដែលរូបភាពត្រូវដាក់ចូលកន្ត្រកដូចជា ផ្ទះបាយ ឬ សួនច្បារ។
 
-## Word puzzles: word searches and crosswords
+## ល្បែងពាក្យ៖ ល្បែងស្វែងរកពាក្យ និងល្បែងបំពេញពាក្យឆ្លង
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+ល្បែងពាក្យសាកសមសម្រាប់អ្នកដែលតែងតែចូលចិត្តវា ជាធម្មតានៅដំណាក់កាលដំបូងនៃជំងឺវង្វេង។
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **ល្បែងស្វែងរកពាក្យអក្សរធំ។** ល្បែង [ស្វែងរកពាក្យ](/games/word-search/) ដោយឥតគិតថ្លៃរបស់យើង ប្រើអក្សរធំ និងមានពាក្យតិចៗ ដោយដាក់តែទៅខាងស្ដាំ និងចុះក្រោម មិនមានទ្រេត ឬបញ្ច្រាសទេ។ អាចលេងនៅលើអេក្រង់ ឬបោះពុម្ពបាន។
+- **អានបញ្ជីពាក្យឲ្យឮៗ។** ម្នាក់អានពាក្យមួយ ម្នាក់ទៀតស្វែងរកវា។ គូសរង្វង់ត្រឹមតែអក្សរដំបូងក៏មិនអីដែរ។
+- **ល្បែងបំពេញពាក្យឆ្លងអក្សរធំ** ពីសៀវភៅល្បែងអាចសាកសមនៅដំណាក់កាលដំបូង។ អានសំណួរឲ្យឮៗ ចែកគ្នាកាន់ប៊ិច និងបំពេញចម្លើយជាមួយគ្នា។ ល្បែងដែលងាយ និងមានប្រធានបទច្បាស់លាស់ ល្អជាងល្បែងដែលស្មុគស្មាញ។
+- **និយាយអំពីពាក្យ។** ពាក្យ «សួនច្បារ» អាចនាំឲ្យនិយាយអំពីប៉េងប៉ោះរយៈពេលដប់នាទី។
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+សម្រាប់សកម្មភាពលើក្រដាសបន្ថែម និងរបៀបបោះពុម្ពឲ្យងាយមើល និងងាយកាន់ សូមមើល [សកម្មភាពជំងឺវង្វេងដែលអាចបោះពុម្ពបានដោយឥតគិតថ្លៃ](/activities/printable/)។
 
-## Which puzzles suit each stage?
+## តើល្បែងផ្គុំរូបប្រភេទណាសាកសមនឹងដំណាក់កាលនីមួយៗ?
 
-Stages overlap, and good and hard days are normal.
+ដំណាក់កាលអាចត្រួតស៊ីគ្នា ហើយថ្ងៃល្អ與ថ្ងៃពិបាកគឺជារឿងធម្មតា។
 
-| Stage | Puzzles that often fit | Your role |
+| ដំណាក់កាល | ល្បែងដែលច្រើនតែសាកសម | តួនាទីរបស់អ្នក |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| ដំបូង | ល្បែងផ្គុំរូបដែលquen familiar ដែលមានបំណែកតិចជាងមុន ល្បែងបំពេញពាក្យឆ្លង និងល្បែងស្វែងរកពាក្យអក្សរធំ ល្បែងផ្គុំរូបអនឡាញ 9 បំណែក | ដៃគូ៖ អនុញ្ញាតឲ្យពួកគេជ្រើសរើស និងជួយនៅពេលពួកគេសុំ |
+| កណ្ដាល | ល្បែងផ្គុំរូបដែលមានបំណែកធំៗប្រហែលជាប៉ុន្មានបំណែក ល្បែងផ្គុំរូបអនឡាញ 4 បំណែក ល្បែងស្វែងរកពាក្យដោយអានជាមួយគ្នា | រៀបចំ តម្រៀបបំណែក និងប្រគល់ម្តងមួយៗ |
+| ចុងក្រោយ | មើលរូបភាពដែលបានបញ្ចប់ជាមួយគ្នា រករូបដូចគ្នាដោយមានរូបពីរ កាន់បំណែកធំៗពីរបី | នាំយកវាមកឲ្យពួកគេ។ ការនៅជាមួយរបស់អ្នកគឺជាសកម្មភាពសំខាន់ |
 
-## When should you make a puzzle easier, or stop?
+## តើគួរធ្វើឲ្យល្បែងងាយជាងមុន ឬបញ្ឈប់នៅពេលណា?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+សូមសង្កេតមើលការដកដង្ហើមធំ ការរុញបំណែកចេញ ការនិយាយថា «ខ្ញុំមិនអាចទេ» ម្តងហើយម្តងទៀត ឬមុខដែលមើលទៅព្រួយ។ ទាំងនេះជាសញ្ញាថាគួរផ្លាស់ប្ដូរអ្វីមួយ មិនមែនបង្ខំឲ្យបន្តទេ។
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **ធ្វើឲ្យតូចជាងមុន។** ប្រើបំណែកតិចជាង ឬទុកតែបំណែកចុងក្រោយពីរបីសម្រាប់ពួកគេ។
+- **ធ្វើច្រើនជាងមុនដោយខ្លួនឯង** ហើយអញ្ជើញឲ្យពួកគេជួយនៅផ្នែកងាយៗ។
+- **ប្ដូរទៅសកម្មភាពជិតៗ៖** តម្រៀបបំណែកតាមពណ៌ ល្បែងផ្គុំរូបអនឡាញ 4 បំណែក ឬ [ដាក់ពណ៌](/games/coloring/)។
+- **បញ្ឈប់។** ដាក់វាចោលមួយឡែកសិន ហើយផឹកតែមួយពែង។ អ្នកអាចត្រឡប់មកលេងម្ដងទៀតនៅថ្ងៃផ្សេង ឬក៏មិនចាំបាច់ទេ។
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+ប្រសិនបើល្បែងផ្គុំរូបចាប់ផ្ដើមធ្វើឲ្យមានអារម្មណ៍ថាជាការរំលឹកអំពីអ្វីដែលពិបាក នោះការឈប់លេងក៏មិនអីដែរ។ នៅតែមានវិធីជាច្រើនទៀតក្នុងការចំណាយពេលល្អៗជាមួយគ្នា។ [គំនិតសកម្មភាព 101](/activities/ideas/) អាចជាកន្លែងល្អសម្រាប់ស្វែងរកបន្ថែម។

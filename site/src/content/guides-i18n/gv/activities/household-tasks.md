@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Obbraghyn Thie myr Obbraghyn son Sleih ta Beaghey lesh Coayl Cooinaghtyn"
+seoTitle: "Obbraghyn Thie son Coayl Cooinaghtyn"
+description: "Foddee filleeadey, sorçhal, cur y boayrd as cooilleeney aashagh ve obbraghyn feeu son sleih ta beaghey lesh coayl cooinaghtyn. Kys dy yannoo ad aarloo, caghlaa ad as freayll ad sauchey."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Foddee obbraghyn laaoil gollrish filleeadey toayllyn, sorçhal stogganyn, cur y
+  boayrd, glenney coonteryn, ushtey da lossreeyn as cooney lesh cooilleeney
+  aashagh cur aght firrinagh da persoon ta beaghey lesh coayl cooinaghtyn dy
+  chooney. Reih obbraghyn ta enney oc orroo, brishey ad stiagh ayns un cheum ec y
+  traa, gow magh gaueyn lesh skynnyn ny çhiass, as cur feeu er goaill ayrn erskyn
+  jannoo eh “dy kiart”.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Foddee obbraghyn ennoil cooney lesh persoon dy ve er ny hoilchin ymmydoil as marish y lught-thie, as t’eh shen ny s’fendee na kys dy mie ta’n obbyr jeant."
+  - "Brishey dagh obbyr stiagh ayns keimyn nane lurg nane, jean eh y hoilshaghey ayns ynnyd jeh ginsh, as gow stiagh dy dappee er keim erbee ta er jeet dy ve creoi."
+  - "Cur skynnyn, stoo glenney as poddyn glenney fo ghlass, as cur coodaghyn er cronkyn y stoyl ny caghlaaer çheet ass hene roish cooilleeney ry-cheilley."
+  - "Cha nel feme er toayllyn fillit ve fillit reesht kiongoyrt rish y persoon. My shegin dhyt red ennagh y yannoo reesht, jean eh ny lurg as ass shilley."
+  - "My t’ou cur corree er persoon, caghlaa gys keim sassey, jean eh reesht traa elley, ny soie ry-cheilley ny lomarcan."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Cre ny obbraghyn thie oddys persoon ta beaghey lesh coayl cooinaghtyn foast cooney lhieu?"
+    a: "Foddee ymmodee sleih foast filleeadey eaddagh, feddyn stogganyn cochianglt, sorçhal greieyn bee, cur y boayrd, glenney coonter, skarrey joan, skeabey, cur ushtey da lossreeyn ny messey stoo ayns bowl. Reih obbraghyn ren y persoon roie, as cochiangle ad rish ny oddys ad jannoo nish. Sy traa s’anmey, foddee un ghleashaght aahit, gollrish meeinaghey napkynyn, ve dy liooar."
+  - q: "Vel eh sauchey da persoon ta beaghey lesh coayl cooinaghtyn cooney sy chitchen?"
+    a: "Foddee eh ve, lesh kiarail çhionn as yn aarlaghey kiart. Freill skynnyn, stoo glenney as red erbee çheh ass roshtyn, ymmyd coodaghyn er cronkyn y stoyl ny caghlaaer çheet ass hene, as cur obbyr sauchey da’n phersoon gollrish niee mess, messey ny cur magh claaryn. Ny faag ad nyn lomarcan rieau lesh y stoyl er."
+  - q: "Cre my t’ad filleeadey reddyn dy marran ny jannoo broigh?"
+    a: "Lhig da ve. Yn oyr t’ayn traa ry-cheilley as ennaghtyn dy ve ymmydoil, cha nee torçhyn gyn foilj. My shegin da red ennagh ve jeant reesht, fuirree derrey ny lurg as jean eh tra nagh vel y persoon jeeaghyn, myr nagh jean ad ennaghtyn dy vel ad er nyn gorrey."
+  - q: "Cre my t’ad gobbal cooney?"
+    a: "Foddee dy vel “cha nel” dy ghra dy vel yn obbyr ro chreoi, cramp ny skee nish. Ny jean broo orroo. Jean eh ny sassey, cuir cuirrey orroo dy chur sheshaght dhyt ayns ynnyd jeh, ny briaght reesht ec traa share jeh’n laa."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Ren ymmodee sleih ta beaghey lesh coayl cooinaghtyn keeadyn dy vleeantyn stiurey thie, troggal lught-thie ny freayll boayl obbree ayns oardagh. Foddee cuirrey dy chooney lesh obbraghyn firrinagh gra “t’ou foast marish yn lught-thie shoh” ayns aght nagh vod monney obbraghyn elley. Ta’n duillag shoh bentyn rish ny obbraghyn ta gobbraghey dy mennick, kys dy yannoo ad aarloo, kys dy chaghlaa ad myr ta reddyn goll er caghlaa, as kys dy reayll y chitchen as y shamyr eaddagh sauchey.
 
-## Why do everyday chores work well as activities?
+## Cre’n fa ta obbraghyn laaoil gobbraghey dy mie?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Ta obbraghyn gobbraghey er y fa dy vel ad ennoil as ta oyr baghtal oc. Ta yn National Institute on Aging cur niee claaryn, cur y boayrd, skeabey, skarrey joan, sorçhal post, filleeadey eaddagh as sorçhal stoo ry-aa-ymmyd mastey ny [obbraghyn laaoil foddee sleih lesh Alzheimer’s goaill soylley jeu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Ta’n Alzheimer’s Association gra dy vod obbraghyn gollrish cur y boayrd cooney lesh persoon [dy ve er ny hoilchin feeu marish y lught-thie](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Ta oyr e hene ec obbyr dy ghra “ta”. T’eh ny sassey dy ghra “ta” rish “Vod oo cooney lhiam lesh ny toayllyn shoh?” na “Vel oo gearree jannoo obbyr ennagh?”
 
-## Which household tasks are good to try?
+## Cre ny obbraghyn thie by vie eh dy eab?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Toshiaght lesh obbraghyn ren y persoon roie, eisht cochiangle ad rish ny oddys ad jannoo jiu.
 
-### Laundry and linens
+### Eaddagh as linnaghyn
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Filleeadey toayllyn as claareyn-niee.** Cur da baskad dy reddyn beggey, rea. Ta toayllyn aashagh: cha nel aght marranagh dy filleeadey fer.
+- **Feddyn stogganyn cochianglt.** Cur cronnane mestit er y voayrd. My t’eh doillee pairyn y akin, ymmyd daa ny tree daaghyn feer anchasley ny lomarcan.
+- **Meeinaghey as cruinnaghey.** Foddee napkynyn, coodaghyn clooisag ny toayllyn claarey ve meeinit as er nyn gruinnaghey. Ta shoh gobbraghey dy mie ny lurg, tra ta filleeadey er jeet dy ve rouyr keimyn.
 
-### Table and kitchen
+### Boayrd as chitchen
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Cur y boayrd.** Cur un aarlaghey boayrd magh myr sampleyr as lhig da’n phersoon jannoo myrgeddin. My she rouyr eh shen, cur un nhee da ec y traa: “Shoh greie son dagh claare.”
+- **Sorçhal greieyn bee.** Cur greienyn glen, spooineyn as skynnyn eeym mestit ayns tub as sorçhal ad stiagh ayns traie rheynnit. Faag skynnyn geyre magh.
+- **Çhirrym claaryn.** Ta claaryn plastick ny nagh brish as toayl jesh jannoo obbyr sauchey jeh shoh.
+- **Glenney y voayrd ny coonteryn.** Eaddagh fliugh as eaghtyr glen. Ta’n Alzheimer’s Association coyrlaghey eaddagh y chur daue my t’ad hannah rubbal y voayrd lesh nyn laue, as chyndaa gleashaght neuveayn ayns obbyr ymmydoil.
 
-### Around the house
+### Mygeayrt y thie
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Skarrey joan.** Skeaban beg as kuse dy eaghtyryn shickyr, gollrish boayrd coffee ny skelloo lioaryn.
+- **Sorçhal y phost.** Cur post neuchooie as catalogyn daue dy horçhal ayns cronnaneyn: freayll, aa-ymmyd, foshil ny lurg. Freill billaghyn firrinagh as checkyn boayl elley.
+- **Sorçhal stoo ry-aa-ymmyd.** Caneyn, boteilyn as pabyr glen ayns binyn elley.
+- **Skeabey.** Skeeaban beg er çhey ny laare chitchen, my ta’n corraghys shickyr.
+- **Ushtey da lossreeyn.** Can ushtey beg, eddrym as kuse dy lossreeyn dy aashagh dy roshtyn.
 
-### Simple cooking with supervision
+### Cooilleeney aashagh lesh kiarail çhionn
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Foddee cooilleeney cur er ash ennaghtyn lajer, taitnyssagh. Ta’n NIA coyrlaghey lhiggey da’n phersoon stoo y hagglym, towse, messey as deayrtey, ny ginsh da peiagh elley kys dy yannoo resipey ennoil. Ta obbraghyn mie goaill stiagh:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- niee lossreeyn ny mess
+- messey stoo flooyr ny anney feayr
+- raipey leitish
+- cur eeym er tost lesh skynn an-geyre
+- cur stoo briosgagyn er traie
+- cur stoo er pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+My ta towse er jeet dy ve doillee, ta’n Alzheimer’s Association coyrlaghey dy jean uss y towse as eisht cur keim elley daue, gollrish messey.
 
-## How do I set up a chore so it goes well?
+## Kys ta mee cur obbyr er bun dy vel eh goll dy mie?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Reih y traa kiart.** Reih ayrn jeh’n laa tra ta’n persoon dy cadjin er nyn scuirr as feagh. Da ymmodee sleih, she yn voghrey eh shen.
+2. **Glen y boayl.** Un obbyr, un eaghtyr, gyn red erbee elley er y voayrd.
+3. **Cur cuirrey, ny cur sarey.** Ta “Oddagh cooney ve aym lhiat lesh shoh” gobbraghey ny share na “She traa eh dy filleeadey eaddagh.”
+4. **Jean y chied nhee y hoilshaghey.** Fillyd un toayl dy moal, eisht cur yn nah fer daue. Ta soilshaghey ny s’baghtaley na soilshaghey magh.
+5. **Cur un cheum ec y traa.** Foddee rouyr saraghyn ec y cheayrt cur orroo tooilley. Fuirree derrey ta un cheum er ny chur jerrey roish enmys yn nah cheum.
+6. **Obbraghey ry lhiattee.** Ta jannoo yn un obbyr ry-cheilley gennaghtyn gollrish sheshaght, cha nee baght.
+7. **Loayrt mychione yn obbyr, cha nee mychione yn torçhyn.** Ta “T’ad feer meein” ny “Insh dou kys by vie lhiat y coodagh linnaghyn y reayll” cur cuirrey da taggloo gyn prowal erbee.
 
-## How do I adapt chores as abilities change?
+## Kys ta mee caghlaa obbraghyn myr ta ablidyn goll er caghlaa?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Ta ablidyn goll er caghlaa harrish traa as eer veih laa gys laa. Ta’n Alzheimer’s Association coyrlaghey goll gys obbraghyn ny sassey, ny s’aahee, myr ta’n stayd goll er.
 
-| If this has become hard | Try this instead |
+| My ta shoh er jeet dy ve creoi | Jean eh shoh ayns ynnyd jeh |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Filleeadey anlinyn mooarey | Filleeadey claareyn-niee ny meeinaghey napkynyn |
+| Cur boayrd lane er | Cur un napkyn ec dagh boayl |
+| Sorçhal post ayns rangaghyn | Cruinnaghey envelopeyn ayns un chronnane |
+| Eiyrt er resipey | Messey, ny jeeaghyn as blashtyn choud’s t’ou cooilleeney |
+| Skeabey laare slane | Glenney un voayrd beg |
+| Jannoo yn obbyr er chor erbee | Soie mayrt as cur sheshaght dhyt choud’s t’ou jannoo eh |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Ta jeeaghyn coontit. Ta’n NIA gra dy vel kuse dy leih goaill soylley jeh jeeaghyn ny lomarcan, as t’eh shen aght mie dy ghoaill ayrn.
 
-## How do I keep household tasks safe?
+## Kys ta mee freayll obbraghyn thie sauchey?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Ta sauçhys hoshiaght, er-lheh sy chitchen. Ta [rauenyn sauçhys thie yn NIA son sleih ta cur kiarail da sleih lesh Alzheimer’s](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) goaill stiagh:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Cur stoo glenney fo ghlass ny gow ad ersooyl, goaill stiagh poddyn glenney eaddagh, foddee jeeaghyn gollrish millishyn.
+- Freill skynnyn, shiaaseyn as greienyn pooar ayns boayl fo ghlass.
+- Cur cronkyn sauçhys as caghlaaer çheet ass hene er y stoyl.
+- Cur cowraghyn “Scuirr” ny “Feer çheh” er-gerrey da’n oghe, y toasteyr as y yiarn, er aght nagh vod ad goaill aile.
+- Cur y chiow ushtey er 120°F (49°C) dy lhiettal losht.
+- Gow ersooyl mess foalsey as meighnatyn ayns cummey bee, foddee jeeaghyn dy vel ad ry-ee.
 
-A few more practical habits help:
+Ta kuse dy chliaghtaghyn elley ymmydoil:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Fuirree ’sy chamyr traa erbee ta’n stoyl, yn oghe ny greie geyre goll.
+- Ymmyd claaryn nagh brish son çhirrym as cur y boayrd.
+- Freill laareyn çhirrym as glen tra ta skeabey ny glenney fo raad.
+- My ren y persoon ymmyd greienyn roie, ta’n Alzheimer’s Association coyrlaghey nheeghyn gaueagh y ghoaill ersooyl veih’n obbree, myr shen foddee obbyr sauchey, gollrish skarrey fuygh dy vie, ve goit soylley jeh foast.
 
-## What if they do it "wrong"?
+## Cre my t’ad jannoo eh “dy marran”?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Lhig eh goll. Ta toayl fillit ayns three ayrnyn ayns ynnyd jeh jees foast toayl fillit. Ta’n Alzheimer’s Association gra eh dy baghtal: shen ta scanshoil traa ry-cheilley as y persoon dy ve er ny hoilchin ymmydoil, cha nee vel ny toayllyn fillit dy kiart. My shegin da red ennagh ve jeant reesht dy firrinagh, fuirree derrey ny lurg as jean eh ass shilley.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Foddee coyrlaghey ec y traa chyndaa obbyr taitnyssagh ayns cooinaghtyn er ny ta er ngoll ersooyl. She “Gura mie ayd, ta shen cooney mooar” yn red kiart dy ghra bunnys dagh keayrt.
 
-## When should we stop?
+## Cuin lhisagh shin scuirr?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Scuirr ny caghlaa tra t’ou fakin cowraghyn dy chorree, skeeys ny coayl anaase. Ta scuirr dy leah torçhyn mie, cha nee failleil. Foddee oo:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- caghlaa gys keim ny sassey
+- goll gys red feagh, gollrish kiaull ny cappan dy chaffee
+- jean eh reesht ny lurg ny laa elley
+- ny lomarcan soie ry-cheilley
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+My ta’n persoon gra “cha nel”, ny jean broo orroo. Jeeagh er [cre dy yannoo tra t’ad gra “cha nel”](/caregiving/when-they-say-no/) son aghtyn meen dy reaghey.
 
-## Low-effort extras for a quieter moment
+## Reddyn aashagh son traa ny s’feayrey
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Tra nagh vel obbraghyn corpagh ry-yannoo, foddee sorçhal as cochiangley foast ve jeant nyn soie. Ta [Sort Together](/games/sort-together/) lhiggey dhyt cramman jallooyn stiagh ayns baskadyn chitchen ny garey, as ta [Picture Pairs](/games/picture-pairs/) cloie cochiangley meen lesh jallooyn mooarey as gyn traa. Ta [Conversation Cards](/games/conversation-cards/) lesh briaghtyn foshlit mychione thie as lught-thie ta cochianglt dy mie rish caffee lurg yn obbyr.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Son cooney dy chur obbraghyn stiagh ’sy laa, jeeagh er yn stiurey ain mychione [roosteyr laaoil feagh](/activities/daily-routine/). Son tooilley smooinaghtyn rere stayd, jeeagh er [obbraghyn ’sy vean-stayd](/activities/middle-stage/).

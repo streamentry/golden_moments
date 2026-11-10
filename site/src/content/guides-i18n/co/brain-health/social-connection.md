@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Ligami suciali è salute di u cervellu: sulitudine, isolamentu è dimenza"
+seoTitle: "Sulitudine, isolamentu suciale è risicu di dimenza"
+description: "Cumu sulitudine è isolamentu suciale sò ligati à u risicu di dimenza, ciò chì hà dettu l’avisu di u Surgeon General, è modi simplici per stà cunnessi inseme."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  A ricerca liga l’isolamentu suciale è a sulitudine in età avanzata à un risicu più altu di
+  dimenza. A Cummissione Lancet di u 2024 stima chì l’isolamentu cunta per circa 5% di i casi,
+  ancu se una parte di stu ligame pò vene da una dimenza à l’iniziu chì porta à ritirassi.
+  Stà in cuntattu, sparte passatempi è avè aiutu per l’uditu sustenenu i ligami. Per e persone
+  chì campanu cù a dimenza, l’attività spartute contanu per u piacè è a qualità di vita.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "A Cummissione Lancet include l’isolamentu suciale in età avanzata trà 14 fattori di risicu di dimenza chì si ponu cambià, per circa 5% di i casi."
+  - "L’avisu di u 2023 di u Surgeon General di i Stati Uniti hà ligatu a sulitudine è l’isolamentu crònichi à un risicu di dimenza circa 50% più altu in l’adulti anziani."
+  - "A maiò parte di ste prove vene da studii d’osservazione, è una dimenza à l’iniziu pò ella stessa purtà a persona à ritirassi."
+  - "I prublemi d’uditu è di vista, u fattu di campà soli è l’aiutu à una persona cara aumentanu tutti u risicu d’isolamentu."
+  - "Per e persone chì campanu cù a dimenza, l’attività piacevuli spartute sustenenu a qualità di vita; l’ughjettivu hè u ligame, micca u risultatu."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "A sulitudine causa a dimenza?"
+    a: "Questu ùn hè micca statu pruvatu. Parechji studii liganu a sulitudine è l’isolamentu à un risicu più altu di dimenza, ma i cambiamenti precoci in u cervellu ponu ancu purtà a persona à alluntanassi da l’altri. Stà cunnessi hà assai altri benefizii per l’umore è a salute, allora vale a pena sustenelu in ogni casu."
+  - q: "Chì differenza ci hè trà sulitudine è isolamentu suciale?"
+    a: "L’isolamentu suciale vole dì avè pocu persone cù quale scambià regularmente. A sulitudine hè u sintimu penosu di esse soli o tagliati fora. Si pò campà soli senza sentesi soli, o sentesi soli ancu circundati da parechje persone."
+  - q: "Cumu possu aiutà un genitore chì campa cù a dimenza à stà cunnessu?"
+    a: "I cuntatti brevi è regulari funzionanu bè. Pruvate una chjama o una videochjama fissa ogni settimana, un’attività sparta à u tavulinu di a cucina, un caffè memoria, o una visita cù un animale o un nipote. Mantinite i gruppi chjuchi è tranquilli, è lasciate a persona sceglie u so ritimu."
+  - q: "Induve possu truvà aiutu lucale per una persona anziana isolata?"
+    a: "L’Eldercare Locator, un serviziu publicu, mette e famiglie in cuntattu cù l’agenzie lucali per l’anziani è i prugrammi di a cumunità. Si pò cuntattà à u 800-677-1116 o nant’à eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+E persone anu bisognu di cumpagnia, è questu ùn cambia micca cù l’età. A ricerca liga a sulitudine è l’isolamentu suciale in età avanzata à un risicu più altu di dimenza, ma ancu à e malatie di core è à a depressione. A ricerca ùn pò micca ancora dì quantu di stu ligame hè causa è effettu. Sta pagina presenta ciò chì mostranu e prove, modi pratichi per stà cunnessi, è perchè l’attività spartute contanu tantu per e persone chì campanu dighjà cù a dimenza.
 
-## Are loneliness and isolation linked with dementia?
+## A sulitudine è l’isolamentu sò ligati à a dimenza?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Iè, parechji studii i liganu, ancu se a direzzione ùn hè micca chjara del tuttu. A [Cummissione Lancet di u 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) include l’isolamentu suciale in età avanzata trà 14 fattori di risicu chì si ponu cambià. [U riassuntu di UCL di u rapportu](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) indica circa 5% di i casi di dimenza in u mondu.
 
-What the evidence shows:
+Ciò chì mostranu e prove:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Menu cuntatti, risicu più altu.** A Cummissione descrive duie riviste chì anu ligatu cuntatti suciali menu frequenti à un risicu più altu di dimenza. Una hà truvatu un risicu circa 57% più altu è l’altra circa 18% più altu.
+- **Ancu a sulitudine.** A sulitudine, u sintimu di esse tagliati fora, hè stata ancu ligata à un risicu più altu di dimenza in parechje riviste.
+- **U puntu di vista di u Surgeon General.** In maghju 2023, u Surgeon General di i Stati Uniti hà publicatu un [avisu nantu à a sulitudine è l’isolamentu](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Dice chì a sulitudine è l’isolamentu crònichi ponu aumentà u risicu di dimenza di circa 50% in l’adulti anziani. Hà ancu ligatu i ligami suciali poveri à un risicu 29% più altu di malatie di core è 32% più altu d’ictus.
+- **Quantu hè cumunu.** Un [rapportu di e National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) hà truvatu chì circa 24% di l’Americani di 65 anni o più chì campanu in a cumunità sò sucialmente isolati.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Una precauzione impurtante: a Cummissione Lancet nota chì e persone ponu riduce l’attività suciali durante a fase iniziale, micca ancu diagnosticata, di a dimenza. Questu vole dì chì una parte di stu ligame pò esse a dimenza chì porta à ritirassi, micca solu u ritiru chì aumenta u risicu. Quasi tutte ste prove venenu da studii d’osservazione.
 
-## What is the difference between loneliness and isolation?
+## Chì differenza ci hè trà sulitudine è isolamentu?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+U [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) a spiega cusì. **L’isolamentu suciale** vole dì avè pochi cuntatti suciali o pocu persone cù quale scambià regularmente. **A sulitudine** hè u sintimu penosu di esse soli o separati. Qualchissia pò campà solu è esse cuntentu, è qualchissia pò sentesi solu in una stanza piena.
 
-The NIA lists factors that raise the risk of both:
+U NIA elenca fattori chì aumentanu u risicu di i dui:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Prublemi d’uditu o di vista
+- Difficultà à spiazzassi, o mancanza di trasportu
+- Campà soli, o una perdita impurtante cum’è a morte di u cumpagnu o di a cumpagna, o a ritirata
+- Cambiamenti di memoria o di penseru
+- Occupassi di una persona cara chì ùn si sente micca bè
+- Preoccupazioni di soldi o barri barri linguiste
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+L’uditu conta assai. U NIA nota chì e persone chì ùn sentenu micca bè ponu ritirassi perchè a cunversazione diventa frustrante o imbarazzante. A nostra [guida nantu à l’uditu è a salute di u cervellu](/brain-health/hearing/) parla di i cuntrolli di l’uditu è di l’apparechji auditivi senza ricetta.
 
-## Practical ways to stay connected
+## Modi pratichi per stà cunnessi
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+U NIA prupone parechje idee. Sceglite una o duie chì vi vanu bè:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Programmate cuntatti regulari.** Un mumentu fissu ogni ghjornu o ogni settimana per chjamà, mandà un messaghju, scrive un email o mandà una carta à a famiglia, à l’amichi o à i vicini.
+- **Aduprate videochjame o altoparlanti intelligenti.** Se a tecnulugia hè nova, assai bibliuteche publiche è centri cumunitarii offrenu corsi. Vede a nostra [guida nantu à e chjame è e videochjame](/activities/phone-and-video-calls/).
+- **Participate à qualcosa.** Un corsu, una cumunità di fede, un gruppu di camminata o un rolu di vuluntariatu vi dà cuntattu è un sensu di scopu.
+- **Ripigliate un vechju passatempu** o amparate qualcosa di novu cù altre persone.
+- **Muvitevi cù l’altri.** Fate eserciziu cù un amicu o un gruppu. A nostra [guida nantu à l’eserciziu](/brain-health/exercise/) hà opzioni dolce.
+- **Pensate à un animale** s’è vo pudete occupavine.
+- **Aduprate i servizii lucali.** I centri per anziani, l’agenzie lucali per l’anziani è l’Eldercare Locator (800-677-1116) ponu indicavvi prugrammi è trasporti.
 
-## Why do shared activities matter in dementia?
+## Perchè l’attività spartute contanu in a dimenza?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Per una persona chì campa dighjà cù a dimenza, u ligame hè ligatu à u piacè, à u cunfortu è à u fattu di sentesi inclusa, micca à riduce u risicu. A Cummissione Lancet dice chì l’attività aiutanu e persone chì campanu cù a dimenza à mantene u piacè è un sensu di scopu. L’[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) nota chì, oltre à migliurà a qualità di vita, l’attività ponu riduce certi cumpurtamenti cum’è l’andà in giru senza scopu o l’agitazione. U [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) aghjunghje chì e persone chì campanu cù a malatia d’Alzheimer anu bisognu di esse attive è di fà cose chì li piacenu.
 
-Ideas that work well:
+Idee chì funzionanu bè:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Fighjate fiure inseme.** [Conversation Cards](/games/conversation-cards/) prupone dumande aperte, senza quiz, cum’è « Parlami di... » Vede a nostra [guida nantu à a reminiscenza](/activities/reminiscence/).
+2. **Ghjucate fiancu à fiancu.** [Picture Pairs](/games/picture-pairs/) mantene e fiure visibili è ùn hà nè tempu nè puntuazione, cusì ùn ci hè nisuna pressione. A nostra guida nantu à [cumu ghjucà inseme](/caregiving/how-to-play-together/) hà cunsiglii.
+3. **Aduprate e foto di famiglia.** [Photo Pairs](/games/photo-pairs/) trasforma e foto chì sceglite in un ghjocu d’abbinamentu, è e foto stanu nant’à u vostru apparechju.
+4. **Riunite e persone.** [Picture Bingo](/games/picture-bingo/) funziona bè per e riunioni di famiglia è i [gruppi in residenza](/activities/care-home-groups/).
+5. **Sparte a musica, e faccende o u giardinu.** Vede [l’attività musicali](/activities/music/), [i travagli di casa](/activities/household-tasks/) è a nostra lista cumpleta d’[idee d’attività](/activities/ideas/).
+6. **Rendite e visite più faciule.** A nostra [guida nantu à e visite](/activities/visiting/) parla di visite corte è calme chì facenu bè à tutti.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Mantinite e cose simplici è rilassate. Una stanza tranquilla cù una o duie persone spessu funziona megliu cà un grande gruppu. S’è a persona si stanca o perde l’interessu, hè bè di piantà. Stà inseme cù una tazza di tè hè ancu un bellu risultatu.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Per una persona chì campa sola cù a dimenza, u NIA suggerisce di truvà una persona di fiducia chì possa visità o fà una videochjama regularmente è serve cum’è cuntattu d’emergenza. Menziona ancu un caffè memoria lucale, un spaziu suciale rilassatu per e persone chì anu perdite di memoria è e so famiglie.
 
-## Caregivers get lonely too
+## Ancu e persone chì aiutanu si sentenu sole
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+U NIA include l’aiutu à una persona cara trà i fattori di risicu d’isolamentu. Pruteggete un pocu di tempu per e vostre amicizie, i gruppi di sustegnu è u riposu. A nostra [guida nantu à pigliassi cura di sè quandu si aiuta](/caregiving/caregiver-self-care/) hà idee pratichi.
 
-## Talk with a doctor
+## Parlate cù un duttore
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+S’è voi o una persona di a quale vi occupate vi sentite soli o isolati assai spessu, ditelu à un duttore. U NIA incuragisce à parlà di i grandi cambiamenti di vita, cum’è un mortu in famiglia, perchè u duttore capisca megliu a situazione. Sentissi giù per parechje settimane pò esse depressione, chì pò esse curata. S’è una persona anziana s’hè alluntanata da pocu da l’amichi o da l’attività chì li piacianu, stu cambiamentu vale a pena d’esse mintuvatu à un duttore. Lighjite [i primi segni è quandu vede un duttore](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Sta pagina hè un’infurmazione generale, micca un cunsigliu medicale. Vede a nostra [avertenza medicale](/medical-disclaimer/).

@@ -1,31 +1,33 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "އިވުމުގެ މައްސަލައާއި ޑިމެންޝިއާ ރިސްކް: ދިރާސާތައް"
+seoTitle: "އިވުމުގެ މައްސަލައާއި ޑިމެންޝިއާ: ދިރާސާތައް"
+description: "އިވުމުގެ މައްސަލަ ޑިމެންޝިއާ ރިސްކް ފެކްޓަރެއް ކަމަށް ވާ ސަބަބު، ACHIEVE ޓްރަޔަލް ދައްކާ ކަން، އަދި އިވުން ޗެކްކުރާ ގޮތް."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024 ވަނަ އަހަރުގެ Lancet ކޮމިޝަނުން އިވުމުގެ މައްސަލަ ބަދަލުކުރެވޭ އެންމެ ބޮޑު ޑިމެންޝިއާ ރިސްކް
+  ފެކްޓަރުތަކުގެ ތެރޭގައި ހިމަނާފައިވެއެވެ. ACHIEVE ޓްރަޔަލްގައި ހިއަރިންގ އެއިޑްތަކުން އާންމު
+  ގޮތެއްގައި ކޮގްނިޓިވް ޑިކްލައިން ހަރުކުރެއްވި ކަމަކަށް ނުފެނުނު ނަމަވެސް، ރިސްކް މަތީ ކުޑަ ގްރޫޕެއްގައި
+  ޑިކްލައިން މަދުވި ކަމަށް ފެނުނެވެ. އެހެން ކަމުން ހިއަރިންގ އެއިޑްތަކުން ވާހަކަ ދެއްކުމަށާއި
+  ދުވަހުން ދުވަހަށް ދިރިއުޅުމަށް އެހީތެރިވާނެއެވެ. އިވުން ޗެކްކުރައްވާ، ޕްރިސްކްރިޕްޝަން ނުވަތަ
+  އޯވަރ ދަ ކައުންޓަރ އެއިޑްތަކާ ގުޅޭ ގޮތް ވިސްނައި، ޑޮކްޓަރާ ވާހަކަ ދައްކަވާށެވެ.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet ކޮމިޝަނުން ދުނިޔޭގެ ޑިމެންޝިއާ ކޭސްތަކުގެ ގާތްގަނޑަކަށް 7% އިވުމުގެ މައްސަލާ ގުޅިފައިވާ ކަމަށް އަންދާޒާ ކުރެއެވެ. އެއީ 14 ފެކްޓަރުގެ ތެރެއިން އެންމެ ބޮޑު ބައިތަކުގެ ތެރޭގައި ހިމެނޭ ބައެކެވެ."
+  - "977 ބައިވެރި މީހުން ހިމެނޭ ACHIEVE ޓްރަޔަލްގައި ހިއަރިންގ އެއިޑްތަކުން ތިން އަހަރުގެ ކޮގްނިޓިވް ޑިކްލައިން އާންމު ގޮތެއްގައި ބަދަލެއް ނުގެންނެވެ."
+  - "ACHIEVE ގެ ތެރޭގައި ރިސްކް މަތީ ކުޑަ ގްރޫޕެއްގައި ހިއަރިންގ އެއިޑް ބޭނުންކުރި މީހުންގެ ކޮގްނިޓިވް ޑިކްލައިން 48% ހަރުވިކަމަށް ފެނުނު ނަމަވެސް، މި ކަން އިތުރު ދިރާސާތަކުން ޔަގީންކުރަން ޖެހެއެވެ."
+  - "2022 ވަނަ އަހަރުގެ އޮކްޓޯބަރުން ފެށިގެން، ހަލުވި ނުވަތަ މެދުމިނުގެ އިވުމުގެ މައްސަލަ އޮތް ކަމަށް ދެކޭ އެމެރިކާގެ ބައިވެރި މީހުންނަށް FDA އިން ބެލެހެއްޓޭ OTC ހިއަރިންގ އެއިޑް ގަތުމަށް ފުރުސަތު ލިބިފައިވެއެވެ."
+  - "2024 ވަނަ އަހަރުގައި ފަރުވާ ނުކުރާ ނުބައި ފެނުމުގެ މައްސަލަ ވެސް ޑިމެންޝިއާ ރިސްކް ފެކްޓަރެއް ގޮތުގައި އިތުރުކުރެވުނު ކަމުން، ލޮލުގެ ޗެކްއަޕް ވެސް މުހިންމެވެ."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "ހިއަރިންގ އެއިޑްތަކުން ޑިމެންޝިއާ ހުއްޓުވޭނެތަ؟"
+    a: "އެކަން ޔަގީންކޮށް ސާބިތުވެފައެއް ނުވެއެވެ. ACHIEVE ޓްރަޔަލްގައި ތިން އަހަރުގެ މުއްދަތުގައި ކޮގްނިޓިވް ޑިކްލައިންއަށް އާންމު އަސަރެއް ނުފެނުނު ނަމަވެސް، ރިސްކް މަތީ ގްރޫޕެއްގެ ހާލަތު ރަނގަޅުވިކަމަށް ފެނުނެވެ. ހިއަރިންގ އެއިޑްތަކުން ވާހަކަ ދެއްކުން، ރައްކާތެރިކަމާއި ދުވަހުން ދުވަހަށް ދިރިއުޅުން ފަސޭހަ ކޮށްދޭ ކަމުން، އެއީ ވިސްނާލަން އެކަށީގެންވާ ކަމެކެވެ."
+  - q: "އޯވަރ ދަ ކައުންޓަރ ހިއަރިންގ އެއިޑް ގަތުމަށް ފުރުސަތު ލިބެނީ ކޮން މީހުންނަށްތަ؟"
+    a: "FDA އިން ހުއްދަ ދީފައި ވަނީ 18 އަހަރުން މަތީގެ، ހަލުވި ނުވަތަ މެދުމިނުގެ އިވުމުގެ މައްސަލަ އޮތް ކަމަށް ދެކޭ ބައިވެރި މީހުންނަށް ޕްރިސްކްރިޕްޝަނެއް ނެތި ފިހާރައިން ނުވަތަ އޮންލައިންކޮށް OTC ހިއަރިންގ އެއިޑް ގަތުމަށެވެ. ބޮޑު އިވުމުގެ މައްސަލަ އޮތް މީހުންނަށް މިއީ ނުހެދެއެވެ. ކަންފަތް ރިހުން، ކަންފަތުން ކޮންމެވެސް އެއްޗެއް ނުކުތުން، މޫނު ބުރުވުން، ނުވަތަ އެކަން ވެގެން އިވުން ބަދަލުވުން ހިމެނޭ މީހުން އެހެން ކަމެއް ކުރުމުގެ ކުރިން ޑޮކްޓަރަކަށް ދައްކަން ޖެހެއެވެ."
+  - q: "އިވުމުގެ މައްސަލަ ޑިމެންޝިއާ ފަދައިން ފެންނަން ހުރިހެއްޔެވެ؟"
+    a: "ބައެއް ފަހަރު އެގޮތް ވެދާނެއެވެ. National Institute on Aging ބުނާ ގޮތުގައި، ރަނގަޅަށް ނޭވޭ ބައެއް އިސްކަށި މީހުން، އެއީ މައްސަލައެއް ކަމަށް ނުދެނެ ކޮންފިއުޒްވެފައި ނުވަތަ އެއްބާރުލުން ނުދޭ މީހުން ކަމަށް ކަމަށް ހީވެދާނެއެވެ. މީހަކު މީހުންނާ ގުޅުން ކަނޑާލަން ފަށާއިރު ނުވަތަ ބުނާ ކަންކަން ނުއަޑު އަޑު ފަދައިން ފެންނަ ނަމަ، އިވުން ޗެކްކުރުން ރަނގަޅު ފިޔަވަޅެކެވެ."
+  - q: "އިސްކަށި މީހުން ލޮލު ޗެކްކުރަން ޖެހޭނީ ކޮން މިންވަރަކަށްތަ؟"
+    a: "National Institute on Aging އިރުޝާދު ދެނީ 60 އަހަރުން ފަހު ކޮންމެ އަހަރަކު ނުވަތަ ދެ އަހަރަކު ޑައިލޭޓް އައި އެގްޒާމް ކުރަން، ނުވަތަ ލޮލުގެ ފަރުވާ ދޭ މީހާ ލަފާ ދޭ ގޮތަށް ކުރަންނެވެ. ޑަޔަބެޓިސް ނުވަތަ ހައި ބްލަޑް ޕްރެޝަރ ހުންނަ މީހުން އާންމުކޮށް އަހަރަކު އެންމެ މަދުވެގެން އެއް ފަހަރު ޗެކް ކުރަން ޖެހެއެވެ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +52,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+އިސްރަށްވެހި ދުވަސްވަރުގައި އިވުމުގެ މައްސަލަ އާންމުކޮށް ފެންނަ ކަމެކެވެ. ދިރާސާކުރާ މީހުން މިކަން ޑިމެންޝިއާ ރިސްކް ފެކްޓަރެއް ގޮތުގައި ބަލަމުން ގެންދަވައެވެ. އެކަމަކު، ހިއަރިންގ އެއިޑްތަކުން ޑިމެންޝިއާ ހުއްޓުވޭ ކަމަށް ސާބިތުވެފައެއް ނުވެއެވެ. މިހާތަނަށް ލިބިފައިވާ އެންމެ ރަނގަޅު ޓްރަޔަލްގެ ނަތީޖާ ވެސް އެއް ގޮތަކަށް ނުވެއެވެ. މި ޞަފްޙާގައި ދިރާސާތަކުން ދައްކާ ކަންކަން، އިވުން ޗެކްކުރާ ގޮތް، އެމެރިކާގައި ލިބޭ އޯވަރ ދަ ކައުންޓަރ ހިއަރިންގ އެއިޑް ކަމަށްވާ އެއްޗެހި، އަދި ވާހަކަ ދެއްކުން ފަސޭހަ ކުރާ ގޮތް ބަޔާންކޮށްދެނީއެވެ.
 
-## Why does hearing matter for brain health?
+## ބުރައިންގެ ޞިއްޙަތަށް އިވުން މުހިންމުވަނީ ކީއްވެ؟
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+އިވުމުގެ މައްސަލަ ޑިމެންޝިއާ އަށް ދިމާވާ ރިސްކް މަތިވުމާ ގުޅުން ހުރި ކަމަށް ފެނިއްޖެއެވެ. [2024 Lancet ކޮމިޝަނުން](https://doi.org/10.1016/S0140-6736(24)01296-0) އަންދާޒާ ކުރި ގޮތުގައި، ދުނިޔޭގެ ޑިމެންޝިއާ ކޭސްތަކުގެ ގާތްގަނޑަކަށް 7% މި ސަބަބުން ވާ ކަމަށް ބެލެވެއެވެ. [UCL ގެ ރިޕޯޓް ޚުލާޞާ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) އަށް ބަލާއިރު، ކޮމިޝަނުގެ 14 ބަދަލުކުރެވޭ ރިސްކް ފެކްޓަރުގެ ތެރެއިން އެންމެ ބޮޑު ބައިގައި މިއީ މަތި LDL ކޮލެސްޓްރޯލާ އެއް ދަރަޖައެކެވެ.
 
-Key findings from the Commission:
+ކޮމިޝަނުން ފާހަގަ ކުރި މުހިންމު ނަތީޖާތައް:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **އިވުމުގެ މައްސަލަ ހުރި ނަމަ ރިސްކް އިތުރުވެއެވެ.** 6 މަތީ ފެންވަރުގެ ދިރާސާ އެއްކޮށް ބެލުމުން، އިވުމުގެ މައްސަލަ އޮތް މީހުންނަށް ޑިމެންޝިއާ އަށް ދިމާވާ ރިސްކް ރަނގަޅަށް އިވޭ މީހުންނަށް ވުރެ ގާތްގަނޑަކަށް 37% މަތި ކަމަށް ފެނުނެވެ.
+- **މައްސަލަ ބޮޑުވާ ވަރަކަށް ރިސްކް ވެސް އިތުރުވެއެވެ.** އިވުމުގެ މައްސަލަ ބޮޑުވާ މިންވަރު ބެލި ދިރާސާތަކުން ދައްކާ ގޮތުގައި، އިވުން ދަށްވާ ވަރަކަށް ރިސްކް ވެސް މަތިވެއެވެ.
+- **ވާން އެކަށީގެންވާ ސަބަބުތައް، ނަމަވެސް އަދި ސާބިތުވެފައެއް ނޫނެވެ.** މިކަމަށް ސަބަބުކަމުގައި ހީވެދާނީ އެކަނިވުންނާއި މީހުންނާ ގުޅުން ކަނޑާލުން، ހިތާމަވުން، ބުރައިނަށް ލިބޭ ހަރަކާތް މަދުވުން، އަދި އަޑު އަޑުއަހުމަށް ބޭނުންވާ އިތުރު މަސައްކަތެވެ.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+އިވުމުގެ މައްސަލަ އާންމުކޮށް ފެންނަ ކަމެކެވެ. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) ބުނާ ގޮތުގައި، އިސްކަށި މީހުންގެ ގާތްގަނޑަކަށް ތިން ބައިކުޅަ އެއް ބައި މީހުންނަށް މި މައްސަލަ ހުރެއެވެ. އަދި އުމުރު އިތުރުވާ ވަރަކަށް މި ފުރުސަތު ވެސް އިތުރުވެއެވެ.
 
-## What did the ACHIEVE hearing aid trial find?
+## ACHIEVE ހިއަރިންގ އެއިޑް ޓްރަޔަލްގައި ފެނުނީ ކޮން ކަމެއްތަ؟
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE އަކީ ހިއަރިންގ އެއިޑާއި ކޮގްނިޓިވް ޑިކްލައިން ގުޅޭ ގޮތުން ކުރި ފުރަތަމަ ރެންޑަމައިޒްޑް ޓްރަޔަލެވެ. މި ނަތީޖާ އާންމުކޮށް ތަފާތު ގޮތްގޮތަށް ހަބަރު ކުރެވެއެވެ. އެހެންކަމުން [ޝާއިޢު ކުރެވުނު ޓްރަޔަލް ރިޕޯޓް](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) އިން މުހިންމު ތަފްސީލުތައް މިއޮތީއެވެ.
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **ބައިވެރިވީ ކޮން މީހުންތަ؟** 70 އަހަރުން 84 އަހަރުގެ ތެރޭގައިވާ، ފަރުވާ ނުކުރާ އިވުމުގެ މައްސަލަ ހުރި، ބޮޑު ފިކުރީ މައްސަލައެއް ނެތް 977 ބައިވެރި މީހުން. އެމީހުން އެމެރިކާގެ 4 ކޮމިއުނިޓީ ސައިޓުން ހިމެނުނެވެ.
+- **އަޅާކިޔީ ކޮން ދެ ކަމެއްތަ؟** ބައި މީހުންނަށް ހިއަރިންގ އެއިޑާއި އޮޑިއޮލޮޖިސްޓަކުން ކައުންސެލިން ސެޝަން ދެވުނެވެ. އަނެއް ބަޔަށް ދެވުނީ ޞިއްޙަތުވެރި އިސްރަށްވެހި ދުވަސްވަރާ ގުޅޭ ހެލްތު އެޑިއުކޭޝަން ޕްރޮގްރާމެކެވެ.
+- **މައި ނަތީޖާ:** ތިން އަހަރަށް ފަހު، އާންމު ގޮތެއްގައި ދެ ގްރޫޕްގެ ކޮގްނިޓިވް ޑިކްލައިންގައި **ތަފާތެއް ނުފެނުނެވެ**.
+- **ސަބްގްރޫޕް ނަތީޖާ:** ޓްރަޔަލްގައި ބައިވެރިވީ ދެ ތަނުން ލިބުނު މީހުންނެވެ. 238 މީހުން އައި ގޮތަކީ ދިގު މުއްދަތަކަށް ހިނގަމުންދިޔަ ހާޓް ހެލްތު ދިރާސާއަކުން (ARIC). މި ގްރޫޕްގެ މީހުންނަށް ކޮގްނިޓިވް ޑިކްލައިންގެ ރިސްކް އާންމުކޮށް މަތި ކަމަށް ފެނުނެވެ. މި ގްރޫޕްގައި ހިއަރިންގ އެއިޑް ބޭނުންކުރި މީހުންގެ ޑިކްލައިން **48% ހަރުވިއެވެ**. 739 ޞިއްޙަތުވެރި ކޮމިއުނިޓީ ވޮލަންޓިއަރުންގެ ތެރޭގައި ސާފު އަސަރެއް ނުފެނުނެވެ.
 
-How to read this honestly:
+މި ނަތީޖާ ތެދުގޮތުގައި ކިޔާ ނަމަ:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- އާންމު ޖަވާބަކީ އަސަރެއް ނުފެނުނު ކަމެވެ.
+- ސަބްގްރޫޕްގެ ނަތީޖާ ކުރިން ރާވައިފައިވާ ކަމެއް ނަމަވެސް، އެއީ ކުޑަ ގްރޫޕެއްގެ ސެކަންޑަރީ އެނަލިސިސްއަކުން ލިބުނު ކަމެކެވެ. މި ކަން އެހެން ދިރާސާތަކުން ޔަގީންކުރަން ޖެހެއެވެ.
+- ބައިވެރިވި މީހުންނަށް ތިބާ ހިމެނުނު ޕްރޮގްރާމް އެނގިފައިވާ ކަމުން، އެކަމުން ނަތީޖާއަށް އަސަރު ކުރެދާނެއެވެ.
+- Lancet ކޮމިޝަނުން މި އެވިޑެންސް ބަލާ ގޮތުގައި، އިވުމުގެ މައްސަލާއެކު އެހެން ޑިމެންޝިއާ ރިސްކް ފެކްޓަރުތައް ހުރި މީހުންނަށް ހިއަރިންގ އެއިޑް އާންމުކޮށް އެހީތެރިވާނެ ކަމަށް ފެންނަ ކަމަށް ވިދާޅުވެއެވެ.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+ކުރުކޮށް ބުނަން ޖެހޭ ކަމަކީ، ހިއަރިންގ އެއިޑްތަކުން ޑިމެންޝިއާ ހުއްޓުވޭ ކަމަށް ސާބިތުވެފައެއް ނުވާ ކަމެވެ. ނަމަވެސް އެއީ މީހުންނަށް ރަނގަޅަށް އަޑު އަޑުއެހުމަށާއި، ވާހަކަތަކުގައި ބައިވެރިވުމަށާއި، މީހުންނާ ގުޅިގެން ތިބުމަށް އެހީތެރިވާ ކަމެކެވެ. އެއީ ވިސްނާލަން ފުދޭ ސަބަބެކެވެ.
 
-## How do I know if hearing should be checked?
+## އިވުން ޗެކްކުރަން ޖެހޭ ކަން އަނގާނީ ކިހިނެއް؟
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA ލަފާ ދޭ ގޮތުގައި، ތިޔަބޭފުޅާއަށް ނުވަތަ ތިޔަ ބެލެހެއްޓެވޭ މީހަކަށް މި ކަންކަން ފެންނަ ނަމަ ޑޮކްޓަރަކަށް ދައްކަން ޖެހެއެވެ:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- ފޯނުން ވާހަކަ ދައްކާ މީހުންގެ ބަސް ދޭހަވުމަށް ދަތިވުން
+- ދެ މީހަކަށް ވުރެ ގިނަ މީހުން ވާހަކަ ދައްކާއިރު ވާހަކަ ފެންޓާ ދިއުމަށް ދަތިވުން
+- އަނެއްކާ ބުނި ކަން އަލުން ބުނަން ގިނަ ފަހަރަށް އެދުން
+- އެހެން މީހުން ޝަކުވާ ކުރާ ވަރަށް ޓީވީގެ އަޑު ބޮޑުކުރުން
+- ބެކްގްރައުންޑް އަޑެއް އޮތް ތަނެއްގައި ވާހަކަ ދޭހަވުމަށް ދަތިވުން
+- އެހެން މީހުން ބުނާ ބަސް ފާޅުނުވާ ކަމަށް ހީވުން
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+ފަށާނީ ޕްރައިމަރީ ކެއަރ ޑޮކްޓަރަކަށް ދައްކައިގެންނެވެ. އެ ޑޮކްޓަރުން ބޭނުން ނަމަ އޮޑިއޮލޮޖިސްޓަކަށް (އިވުމުގެ ތަޖްރިބާކާރަކަށް) ނުވަތަ ކަންފަތާއި ނޭފަތާއި ކަރު ޑޮކްޓަރަކަށް ރިފަރ ކުރެއްވިދާނެއެވެ. ކަންފަތުގައި މެލް ޖަމާވުން ވެސް އިވުމުގެ މައްސަލަ އުފެދޭ އާންމު ސަބަބެއް ކަމުން، ޑޮކްޓަރަކަށް އެކަން ބަލާލެވޭނެއެވެ. **އެކަން ވެގެން އިވުން ދަށްވުން އަކީ ވަގުތުން ފަރުވާ ބޭނުންވާ ޙާލަތެއް ކަމުން**، NIA ލަފާ ދެނީ ހަމަ އެހެންމެ ޑޮކްޓަރަކަށް ދައްކަންނެވެ.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+އިވުމުގެ މައްސަލަ ކޮންފިއުޒްވުމާ އެއްގޮތް ވެދާނެއެވެ. NIA ބުނާ ގޮތުގައި، ރަނގަޅަށް ނޭވޭ ބައެއް އިސްކަށި މީހުން، އެއީ މައްސަލައެއް ކަމަށް ނުދެނެ ކޮންފިއުޒްވެފައި، ޖަވާބެއް ނުދޭ، ނުވަތަ އެއްބާރުލުން ނުދޭ މީހުން ކަމަށް ކަމަށް ހީވެދާނެއެވެ. ތިޔަ ލޯބިކުރާ މީހަކު މީހުންނާ ގުޅުން ކަނޑާލަން ފަށާއިރު ނުވަތަ ބުނާ ކަންކަން ނުއަޑު އަޑު ފަދައިން ފެންނަ ނަމަ، އިވުން ޗެކްކުރުން ރަނގަޅު ފުރަތަމަ ފިޔަވަޅެކެވެ.
 
-## What are over-the-counter hearing aids?
+## އޯވަރ ދަ ކައުންޓަރ ހިއަރިންގ އެއިޑް އަކީ ކޮބައިތަ؟
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+2022 ވަނަ އަހަރުގެ އޮކްޓޯބަރު 17 ވަނަ ދުވަހުން ފެށިގެން، [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) އިން އޯވަރ ދަ ކައުންޓަރ (OTC) ހިއަރިންގ އެއިޑްގެ ދަރަޖައެއް ހުއްދަ ކުރެއްވިއެވެ. ޕްރިސްކްރިޕްޝަން އެއިޑާ އަޅާ ބަލާއިރު ތަފާތުތައް މިއޮތީއެވެ:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| ކަންތައް | OTC ހިއަރިންގ އެއިޑް | ޕްރިސްކްރިޕްޝަން ހިއަރިންގ އެއިޑް |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| ކޮން މީހުންނަށް | 18 އަހަރުން މަތީގެ، ހަލުވި ނުވަތަ މެދުމިނުގެ އިވުމުގެ މައްސަލަ އޮތް ކަމަށް ދެކޭ ބައިވެރި މީހުން | ކޮންމެ ދަރަޖައެއްގެ އިވުމުގެ މައްސަލަ، ކޮންމެ އުމުރެއްގެ މީހުން |
+| ލިބޭ ތަން | ފިހާރަ ނުވަތަ އޮންލައިން، ޗެކްއަޕެއް ނުވަތަ ޕްރިސްކްރިޕްޝަނެއް ނޫން | ލައިސަންސް ލިބިފައިވާ އިވުމުގެ ފަރުވާ ދޭ މީހަކު މެދުވެރިކޮށް |
+| އެޖެސްޓް ކުރުން | އާންމުކޮށް އެޕްއެއް ބޭނުންކޮށްގެން އަމިއްލައަށް ސެޓިންގ ބަދަލުކުރުން | ތިޔަބޭފުޅާގެ އިވުމަށް އެއްގޮތްވާ ގޮތަށް ފަރުވާ ދޭ މީހާ ޕްރޮގްރާމް ކުރުން |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA ބުނާ ގޮތުގައި OTC އެއިޑް ހަދާފައި ވަނީ ބޮޑު ނުވަތަ ވަރަށް ބޮޑު އިވުމުގެ މައްސަލަ އޮތް މީހުންނަށް ނޫނެވެ. މި ކަންކަން ހުރި ނަމަ ގަތުމުގެ ކުރިން ޑޮކްޓަރަކަށް، އެކަށީގެންވާ ނަމަ ކަންފަތާއި ނޭފަތާއި ކަރު ތަޖްރިބާކާރަކަށް ދައްކަން ލަފާ ދެއެވެ:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- ކަންފަތް ރިހުން ނުވަތަ އެހެން ތަކުލީފެއް
+- ފާއިތުވި 6 މަހުގެ ތެރޭގައި ކަންފަތުން ކޯއާ ފެން، ވަޅި ނުވަތަ ލޭ ނުކުތުން
+- އެކަން ވެގެން ނުވަތަ ބަދަލުވަމުންދާ ގޮތަށް އިވުން ދަށްވުން
+- އެއް ކަންފަތުން އަނެއް ކަންފަތަށް ވުރެ ބޮޑަށް އިވުން ދަށްވުން، ނުވަތަ ހަމައެކަނި އެއް ކަންފަތުން އަޑު އިވުން
+- މޫނު ބުރުވުން ނުވަތަ ވަރޓިގޯ
+- ކަންފަތުގައި ގިނަ މެލް ޖަމާވުން
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+ހިއަރިންގ އެއިޑްއަށް އަހުލުވެރިވުމަށް މަޝްޤު ބޭނުންވެއެވެ. އެހެންކަމުން FDA ލަފާ ދޭ ގޮތުގައި، ގަތުމުގެ ކުރިން ރިޓަރން ޕޮލިސީ ބަލާށެވެ. NIA ލަފާ ދެނީ ތިޔަބޭފުޅާގެ އިންޝުއަރެންސުން އަގުގެ ބަޔަކަށް އެހީތެރިވާނެތޯ ބެލުމަށެވެ. ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހަކަށް ޚިޔާރުކުރާއިރު، ކޮން ބާވަތެއްގެ އެއިޑާއި ފިޓިންގ ދުވަހުން ދުވަހަށް ބޭނުންކުރަން ފަސޭހަވާނެތޯ ނިންމުމަށް އޮޑިއޮލޮޖިސްޓަކުން އެހީތެރިވެދެއްވާނެއެވެ.
 
-## How can I talk more easily with someone who has hearing loss?
+## އިވުމުގެ މައްސަލަ ހުރި މީހަކާ ފަސޭހައިން ވާހަކަ ދައްކާނީ ކިހިނެއް؟
 
-The NIA suggests:
+NIA ލަފާ ދޭ ގޮތްތައް:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **މީހާއަށް ކުރިމަތިވެ ލޮލުގެ އެއްބާރުލުން ބަހައްޓަވާށެވެ.** ރަނގަޅު އަލިކަމެއް ހުރި ތަނެއްގައި ތިބޭނަމަ، އެމީހަކަށް ތިޔަބޭފުޅާގެ ތުންފަތާއި މޫނުގެ ޙާލަތު ފެންނާނެއެވެ.
+2. **ހަމަހިމަ ތަނެއް ހޮވާށެވެ.** ޓީވީ ނިއްވާލާ، ނުވަތަ އަޑު އޮތް ތަނުން ދުރަށް ދާށެވެ.
+3. **މަދުމިނެއް އަޑު ބޮޑުކޮށް ވާހަކަ ދައްކަވާ، ނަމަވެސް ގޮވާލައްވާށެވެ.** އާދައިގެ ގޮތަށާއި ރަނގަޅު ސްޕީޑެއްގައި ވާހަކަ ދައްކަވާށެވެ.
+4. **އަނގަ ހުރަސް ބަހައްޓަވާށެވެ.** ވާހަކަ ދައްކަވާ އިރު ކާން ނުކާ، ޗުއިންގަމް ނުޖައްސާ، އަނގަ ނުވަށާށެވެ.
+5. **ނޭވުނު ކަމެއް އަލުން ބުނުމުގެ ބަދަލުގައި އެހެން ބަހަކުން ބުނާށެވެ.**
+6. **އެއް ފަހަރަކު ވާހަކަ ދައްކަނީ އެންމެ މީހަކުންނެވެ.** ގްރޫޕެއްގައި ވާހަކަ ދައްކާއިރު، އެ މީހާ ވެސް ހިމަނާން ސަމާލުވާށެވެ.
+7. **ކެތްތެރިވެ ހިތްހަމަޖެހި، ކިހިނެއް އެހީތެރިވެދޭނެތޯ އަހާށެވެ.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+މި އިރުޝާދުތައް އަޅުގަނޑުމެންގެ [ޑިމެންޝިއާ އާ ގުޅިގެން ވާހަކަ ދެއްކުމުގެ ލަފާ](/caregiving/communication-tips/) އާ އެކު ބޭނުންކުރަން ރަނގަޅެވެ. ތަސްވީރު ބޭނުންކުރާ ހަރަކާތްތަކުން ވެސް އަޑު އަޑުއަހުމުގެ ބުރަ މަދުކޮށްދެއެވެ. [Picture Pairs](/games/picture-pairs/) އާއި [Conversation Cards](/games/conversation-cards/) ބޭނުންކުރަނީ ފެންނަ ތަސްވީރުތަކާ އެކުގައެވެ. [Finish the Saying](/games/finish-the-saying/) ގައި ނިމުން ބުނުމުގެ ބަދަލުގައި ދައްކާލެވޭނެއެވެ. ފޯނު ކޯލާ ގުޅޭ އިރުޝާދު ބޭނުން ނަމަ އަޅުގަނޑުމެންގެ [ފޯނު އަދި ވީޑިއޯ ކޯލްތަކުގެ ލަފާ](/activities/phone-and-video-calls/) ބައްލަވާށެވެ.
 
-## Vision matters too
+## ފެނުން ވެސް މުހިންމެވެ
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 ވަނަ އަހަރުގައި Lancet ކޮމިޝަނުން ފަރުވާ ނުކުރާ ނުބައި ފެނުމުގެ މައްސަލަ އާ ރިސްކް ފެކްޓަރެއް ގޮތުގައި އިތުރުކުރެއްވިއެވެ. UCL ގެ ޚުލާޞާއިން މިކަން ޑިމެންޝިއާ ކޭސްތަކުގެ ގާތްގަނޑަކަށް 2% އާ ގުޅޭ ކަމަށް ބުނެއެވެ. ކޮމިޝަނުން ލަފާ ދެނީ ފެނުމުގެ މައްސަލަ ސްކްރީންކުރުމާއި ފަރުވާ ހޯދުމުގެ ފުރުސަތު އެންމެނަށް ލިބިދޭން ހެދުމަށެވެ. [NIA ލަފާ ދެނީ](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) 60 އަހަރުން ފަހު ކޮންމެ އަހަރަކު ނުވަތަ ދެ އަހަރަކު ޑައިލޭޓް އައި އެގްޒާމް ކުރަން، އަދި އައިނަކަލުގެ ޕްރިސްކްރިޕްޝަން ވެސް ޗެކްކުރަންނެވެ. ފެނުމުގައި ކުޑަ ބަދަލެއް އައިސްފައި ވީ ނަމަ ވެސް، ވެއްޓިގެން ބިދިގެން ވެއްޓުމުގެ ރިސްކް އިތުރުވެދާނެއެވެ.
 
-## Talk with a doctor
+## ޑޮކްޓަރާ ވާހަކަ ދައްކަވާށެވެ
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+މަތީގައި ބަޔާންކޮށްފައިވާ ނިޝާންތަކުގެ ތެރެއިން އެއްވެސް ކަމެއް ފެންނަ ނަމަ، އިވުމާއި ފެނުމުގެ ޗެކްއަޕް ކުރުމާ ގުޅޭ ގޮތުން ޑޮކްޓަރާ ވާހަކަ ދައްކަވާށެވެ. އެކަން ވެގެން އިވުން ދަށްވުން، ކަންފަތް ރިހުން، ނުވަތަ ކަންފަތުން ކޮންމެވެސް އެއްޗެއް ނުކުތުން ހުރި ނަމަ އެހެންމެ ވަގުތުން ފަރުވާ ހޯދާށެވެ. ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހަކަށް ތިޔަބޭފުޅާ ބެލެހެއްޓެވިދާނަމަ، އިވުމުގައި ނުވަތަ ފެނުމުގައި އަންނަ ބަދަލުތަކާ ގުޅޭ ގޮތުން އެމީހާގެ ޑޮކްޓަރަށް އަންގަވާށެވެ. މި ބަދަލުތަކުން މޫޑަށާއި، ރައްކާތެރިކަމަށާއި، ހަރަކާތްތަކުގައި ބައިވެރިވުމަށް އަސަރު ކުރެދާނެއެވެ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+މި ޞަފްޙާއަކީ އާންމު މައުލޫމާތެއް ކަމަށް ވާތީ، މެޑިކަލް ލަފާ އެއް ނޫނެވެ. އަޅުގަނޑުމެންގެ [މެޑިކަލް ޑިސްކްލެއިމަރ](/medical-disclaimer/) ބައްލަވާށެވެ. [މުޖުތަމަޢީ ގުޅުމާއި ބުރައިންގެ ޞިއްޙަތާ ބެހޭ އިތުރު މައުލޫމާތު](/brain-health/social-connection/) ވެސް ކިޔާލެވިދާނެއެވެ.

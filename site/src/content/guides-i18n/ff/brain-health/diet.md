@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Nyamduuji MIND e Mediterane e mancugol hakkil: ko wiɗtooji kolli"
+seoTitle: "Nyamdu MIND e mancugol hakkil: ko wiɗtooji kolli"
+description: "Ko wiɗtooji wi'i e nyamduuji MIND e Mediterane e mancugol hakkil, ko waɗi wiɗto mawngo yi'aani nafa laaɓtungo, e no wallirtaa mo wuurɗo e mancugol hakkil yoo ñaam no moƴƴiri."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Wiɗtooji ɗi ndewataa yimɓe tan no jokkondiri nyamduuji mbaadi Mediterane e MIND
+  e ustugol hulaare mancugol hakkil, kono ɗum wonaa sahaa kala. Wiɗto ƴeewndo
+  duuɓi tati dow nyamdu MIND, bayyinaango e hitaande 2023, yi'aani ceertal
+  laaɓtungal e miijo walla nate hakkil so en ƴeewtii e nyamdu ƴeewndo. Alaa
+  ñamri walla ɓeyditte ñamri holliraande haɗde mancugol hakkil. Wonande yimɓe
+  wuurɓe e mancugol hakkil, ñaamugol e yarugol ko yonata ko ɓuri himmude.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Won e wiɗtooji, kono wonaa fof, ɗe ndewataa yimɓe e nder sahaa no jokkondiri nyamduuji Mediterane e MIND e hulaare mancugol hakkil ɓurtunde famɗude."
+  - "E wiɗto 2023 ngal 604 mawɓe jeyaa e mum, yimɓe jokkuɓe nyamdu MIND ɓuraani ɓe njokki nyamdu ƴeewndo e ƴeewndeeji miijo walla nate hakkil caggal duuɓi tati."
+  - "National Institute on Aging wiyi alaa seedeeji kollirɗi wonde ñaamugol walla reenaade ñamri keeriiɗo ina waawi haɗde Alzheimer's, tee alaa witamiin walla ɓeyditte ñamri holliraande haɗde ɗum."
+  - "Nyamdu keewngu li'eeje, ɓiɓɓe leɗɗe, ñebbe, gawri timmuɗi e liƴƴi ina wallita cellal ɓernde tee ina waawi wallude e huulaaji hono ɓuuɓnol ƴiiƴam toowngol e ñabbuuli."
+  - "Wonande yimɓe wuurɓe e mancugol hakkil, ñamri juutateeɗi, taali keɓirɗi noone, sahaa ñaamdu deeyngo e jarɗe sahaa kala ina poti ɓurde himmude e nyamdu keeriiɗo fof."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Nyamdu MIND ina haɗa mancugol hakkil naa?"
+    a: "Ɗum holliraaka tawo. Wiɗtooji ɗi ndewataa yimɓe tan no jokkondiri nyamdu MIND e hulaare ɓurtunde famɗude, kono wiɗto ƴeewndo duuɓi tati bayyinaango e 2023 yi'aani ceertal laaɓtungal e njeñtudi ƴeewndeeji miijo walla nate hakkil hakkunde yimɓe e nyamdu MIND e yimɓe e nyamdu ƴeewndo. Dental ngal fof ƴelliti seeɗa tee usti teddeendi nanndiiri."
+  - q: "Hol ko seerndi nyamdu MIND e nyamdu Mediterane?"
+    a: "Nyamdu Mediterane ina tiiɗna li'eeje, ɓiɓɓe leɗɗe, gawri timmuɗi, ñebbe, liƴƴi e nebban zaytuun, e teewu teewu e ɓalewu mborosa walla ñamri welndi. Nyamdu MIND ina rentina ɗum e nyamdu DASH mo ɓuuɓnol ƴiiƴam, tee ina ɓeyda tiiɗnude li'eeje haako ina ndiya e ɓiɓɓe leɗɗe ɓaleeje, tawa ina famɗina ɓalewu mborosa, ñamri welndi, foromaje, nebban walla margariin, e ñamri benndiindi walla ñamri jaawndi."
+  - q: "Ina woodi ñamri walla ɓeyditte ñamri haɗooje Alzheimer's naa?"
+    a: "Alaa. National Institute on Aging wiyi alaa seedeeji kollirɗi wonde ñaamugol walla reenaade ñamri keeriiɗo ina waawi haɗde Alzheimer's walla famɗugol hakkil jowitiiɗngol e duuɓi, tee alaa witamiin walla ɓeyditte ñamri holliraande haɗde Alzheimer's. Haal e doktoor hade maa ƴettude ɓeyditte ñamri."
+  - q: "Hol ñamri ɓuri weeɓande mo wuurɗo e mancugol hakkil ñaamde?"
+    a: "Ñamri taƴaaɗi seeɗa juutateeɗi, hono taƴe sanwiis, taƴe gertogal, taƴe lemuŋ walla taƴe li'eeje suddaaɗe, ina keewi weeɓande e huutoraade labbooje walla paaka. So ŋaccugol walla modugol ina saɗi, ñamri noowndi hono boɗe ɓennduɗe, paate pommee noownde walla foromaaje noowɗe ina waawi wallude. Naamno doktoor so ina woodi ƴeewndugol modugol so doƴƴa walla ɓittaare ina waɗi."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,176 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+A waawi janngaade wonde nyamdu "moƴƴiri hakkil" ina waawi haɗde Alzheimer's.
+Goonga oo ina ɓuri famɗude. Won e mbaydiiji ñaamdu ina njokkondiri e hulaare
+ɓurtunde famɗude e wiɗtooji ɗi ndewataa yimɓe e nder sahaa, kono wiɗto ɓurɗo
+moƴƴude haa jooni yi'aani nafa laaɓtungo. Hello ngo ina sifta ɗiɗi fof, caggal
+ɗuum ina yahra e ko ɓuri himmude wonande mo wuurɗo e mancugol hakkil kisa:
+ñaamugol e yarugol ko yonata, e weltaade e mum.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Ɗum ko humpito kuuɓal tan, wonaa wasiyaaji kiɓɓo. Haal e doktoor walla
+karallaagal ñamri hade maa waylude nyamdu maa walla mo woɗɗo. Ƴeew amen
+[renndinde kiɓɓo](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Hol ko woni nyamduuji Mediterane e MIND?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) ina sifta ɗi nii
+([NIA dow nyamdu e Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Nyamdu Mediterane:** ɓiɓɓe leɗɗe, li'eeje, gawri timmuɗi, ñebbe, liƴƴi e
+  ko ƴi'i maayo, e nebban zaytuun heewde, tawa ko famɗi tan ko ɓalewu mborosa,
+  boɗe e ñamri welndi.
+- **Nyamdu MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  jillondiral nyamdu Mediterane e nyamdu DASH mo ɓuuɓnol ƴiiƴam. Ina tiiɗna
+  li'eeje, tentini li'eeje haako ina ndiya; ɓiɓɓe leɗɗe ɓaleeje; gawri timmuɗi;
+  ñebbe; lekkere; liƴƴi ko famɗi fof laawol gootol e yontere; e nebban zaytuun.
+  Ina famɗina ɓalewu mborosa, ñamri welndi, foromaje, nebban walla margariin, e
+  ñamri benndiindi walla ñamri jaawndi.
 
-## Do these diets lower dementia risk?
+## Nyamduuji ɗii ina ustoo hulaare mancugol hakkil naa?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Seedeeji ɗii ina njuɓɓa. NIA wiyi won e wiɗtooji, kono wonaa fof, ɗi ndewataa
+yimɓe tan no jokkondiri nyamduuji Mediterane e MIND e hulaare mancugol hakkil
+ɓurtunde famɗude so en ƴeewtii e nyamdu mbaadi Hirnaange ɓurɗo heewde ɓalewu
+mborosa, nebbe ɗe mbiɗaani e sukara.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Kommisaŋ Lancet 2024 ƴeewti wiɗtooji ɗii e nder cuɓal ɓurngal luggiɗde
+([Kommisaŋ Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Ƴeewndo wiɗtooji dental jokkondinii moƴƴugol nyamdu toowngol e hulaare
+  mancugol hakkil famɗunde ko ina abboo e 20%.
+- Ƴeewndo ɓurngo mawnude dental tati jokkondinii jokkuɗinal ɓurngal ɓadaade e
+  nyamdu MIND e hulaare ɓurtunde famɗude.
+- Kono wiɗto Suweed mo ndewi 28 025 yimɓe hakkunde duuɓi ɗiɗi e nder ko ina abboo
+  e duuɓi 20 yi'aani hulaare ɓurtunde famɗude e nyamduuji wasiyaaɗi walla nyamdu
+  mbaadi Mediterane.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Wiɗtooji ɗi ndewataa yimɓe tan mbaawaa hollirde sabaabu e battane. Yimɓe ñaamooɓe
+nii ina keewi seerndaade e laawol goɗngol kadi, hono jawdi, jaŋde, dillere e
+keɓal wallitorde cellal. Kommisaŋ oo wiyi alaa seedeeji yonɗuɗi ngam wiyde
+nyamduuji moƴƴi ina kaɗa mancugol hakkil no feewi, kono ñaamugol ɓiɓɓe leɗɗe e
+li'eeje heewɗe e famɗinde ñamri tampirɗi no feewi ina moƴƴani ngonkaaji cellal
+keewɗi tee ina mema e huulaaji hono ɓurɗungal teddeendi ɓandu, ñabbuuli e
+ɓuuɓnol ƴiiƴam toowngol. Ɗum ɓeydaani nyamdu e doggol mum [huulaaji 14](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Hol ko wiɗto nyamdu MIND 2023 yi'i?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Ƴeewndugol ɓurngol semmbe haa jooni ko wiɗto ƴeewndo bayyinaango e New England
+Journal of Medicine e 2023
+([wiɗto nyamdu MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Hol ɓe:** 604 mawɓe duuɓi 65 walla ɓurɓe e diiwaanuuji Chicago e Boston, tawi
+  alaa e maɓɓe caɗeele miijo, joginooɓe banndum ɓadiiɗum mo mancugol hakkil,
+  ɓe teddeendi ɓandu ɓurndi, tee joginooɓe nyamdu ɓurngu famɗude moƴƴude e
+  fuɗɗoode.
+- **Hol ko waɗanoo:** e nder duuɓi tati, feccere jokki nyamdu MIND tee feccere
+  ndee jokki nyamdu mum woowaangu. Dental ɗiɗi fof ɗaɓɓiranoo yoo ustit
+  kaloriiji ko ina abboo e 250 e ñalawma tee heɓi ballal sahaa kala iwde e
+  karallaagal ñamri.
+- **Njeñtudi:** njeñtudi ƴeewndeeji miijo ƴelliti seeɗa e **dental ɗiɗi fof**.
+  Ceertal hakkunde dental ɗee ko famɗungal tee **wonaa laaɓtungal e limlebbi**.
+  Nate hakkil kadi kolli wayle nannduɗe e dental ɗiɗi fof.
+- **Teddeendi:** dental ɗiɗi fof usti ko ina abboo e kilogaraam 5 (ko ina abboo e
+  liibar 11).
 
-### Why might the trial have found no difference?
+### Ko waɗi wiɗto ngoo waawaano yi'de ceertal?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Wiɗtooɓe ɓee cikkini sabaabu keewɗe. Dental ƴeewndo ngal ina gasa moƴƴinno
+nyamdu mum kadi, sibu ngal usti teddeendi nanndiiri. Ƴeewnde sahaa kala ina
+waawi moƴƴinde njeñtudi tan, sibu yimɓe ina nguwa ƴeewndeeji ɗii. Duuɓi tati ina
+gasa ko juutataa. Heewɓe e tawtoraaɓe ɓee njannginooma no feewi tee ko iwɓe e
+aslii Oropnaajo, wadde njeñtudi ɗii ina gasa mbaawaa huutoreede e yimɓe fof.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Wadde tonngol goongangol ko: nyamdu MIND foolaani nyamdu moƴƴungo ustirɗungo
+kaloriiji e nder duuɓi tati. Ɗum firtaani wonde ñaamugol no moƴƴiri alaa nafa.
+Ɗum firti hay gooto fotaani tijjaade nyamdu keeriiɗo ngam haɗde mancugol hakkil.
 
-## What about specific foods and supplements?
+## Hol ko woni e ñamri keeriiɗi e ɓeyditte ñamri?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA wiyi alaa seedeeji kollirɗi wonde ñaamugol walla reenaade ñamri keeriiɗo
+ina waawi haɗde Alzheimer's walla famɗugol hakkil jowitiiɗngol e duuɓi. ɓaleeje
+sukara, li'eeje haako ina ndiya e kurkuma fof ƴeewtaama, kono alaa hollirde.
+NIA wiyi kadi alaa witamiin walla ɓeyditte ñamri holliraande haɗde Alzheimer's,
+tee hay gootel wasiyaaka e ɗuum. NIA ina reentina wonde geɗe ɗe kolliraaka
+yeeyeteeɗe ngam haɗde Alzheimer's ina mbaawi wonaade kisnaaɗe, wonaade bonnugol
+jawdi, walla ɗiɗi fof, tee ina mbaawi nawde e lekki wasiyaaɗi, wadde haal e
+doktoor hade maa etaade hay huunde
+([NIA dow haɗugol Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Hol no ñaamdu waawiri heddoraade moƴƴiri tee welɗiri?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Wonande heewɓe e mawɓe, faandaare ndee ko ñamri nafoori, anndaandi tee welndi,
+wonaa feere sattundi:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Mah ñamduuji dow ñamri ɗi njiɗɗaa** iwɗi e mbaydi Mediterane: li'eeje, ɓiɓɓe
+  leɗɗe, ñebbe, gawri timmuɗi, liƴƴi e nebban zaytuun.
+- **Mooftu ñamri welndi ɗi njiɗɗaa.** Weltaare e weleede ñaamugol ina himmi,
+  tentini caggal e nguurndam.
+- **Ñaamod e woɗɓe** so ina waawi. Ñaamdu renndo ko jokkondiral moƴƴungal.
+- **Defod.** Laɓɓingol li'eeje walla wompitugol faandu ko gollal renndo moƴƴal;
+  ƴeew [kuugal galle](/activities/household-tasks/). Deftere ñamri ɓesngu ndi
+  njiɗɗaa ina waawi kadi umminaade [siftorde nguurndam ɓennundam](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Mawɓe fotaani ustitde kaloriiji walla ustude teddeendi tawi haalaani e doktoor,
+tee hoorugol ina addi huulaaji ɓeydaaɗi. Ƴeew amen
+[jaŋnde dow hoorugol](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Hol no wallirtaa mo wuurɗo e mancugol hakkil yoo ñaam no moƴƴiri?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Wonande yimɓe wuurɓe e mancugol hakkil, ñaamugol e yarugol **ko yonata** ko
+keewi wonde annde ɓurnde mawnude. Alzheimer's Association ina teskitina wonde
+yimɓe ina mbaawi yejjitde ñaamde, cikkude ɓe ñaamii kisa, walla huleede cuɓe
+keewɗe, tee wonde ñamdu moƴƴaani ina waawi ɓeydude caɗeele jikku e addude
+ustugol teddeendi
+([Alzheimer's Association dow ñamri e ñaamugol](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Miijooji ɗii iwi ko e Alzheimer's Association, NIA e Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Hokku ñamri juutateeɗi.** Taƴe seeɗa weeɓɗe jukkude, hono taƴe sanwiis,
+   taƴe gertogal, taƴe liƴƴi maayo, taƴe lemuŋ walla burokkoli suddaaɗo, ina
+   walla neɗɗo yoo ñaamo hoore mum tawi huutoraani labbooje walla paaka.
+2. **Huutoro noone ceertuɗe e taabal.** Wayle yiide ina mbaawi saɗtinde anndude
+   ñamri e taabal. Taali daneeji walla boɗeelaaji e dow leppi ceertuɗi ina
+   mbaawi wallude. Reeno taali e leppi taabal gonndi e nate.
+3. **Wejjan ñamri gootel walla ɗiɗi e sahaa gooto.** Taal heewɗo ina waawi
+   hulɓinde.
+4. **Mooftu sahaa ñaamdu deeyngo.** Ñif teleeji, mooftu taabal no weeɓiri, tee
+   hokku sahaa yonɗo. NIA ina wasiyaa yoo a hatoraade walla tippinaade.
+5. **Hokku ñamduuji famɗuɗi e ɓitte sahaa kala.** NIA ina wasiyaa ñamduuji ɓurɗi
+   famɗude, ɓurɗi heewde e kaloriiji so neɗɗo oo ñaamataa ko yonata
+   ([Wasiyaaji NIA ngam ñaamde no moƴƴiri](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Wallu e yarugol.** Hokku jadɗe famɗuɗe ndiyam walla jarɗe goɗɗe e nder
+   ñalawma, wondude e ñamri keewndi ndiyam hono ɓiɓɓe leɗɗe, supu, milkseeɓe e
+   smuutii. So neɗɗo oo yiɗaa ndiyam, NIA ina wasiyaa etaade jus, ndiyam
+   welnaaɗam, mburu, kosam, walla kafe walla te ɗe ngalaa kafeyiin.
+7. **Ƴeewto nguleeki.** Neɗɗo ina waawi waasa teskaade wonde ñamri walla jarol
+   ina nguli no feewi.
+8. **Waylu kaɓirɗe e jadɗe.** Boɗeelaaji e nokku taali, kujje gonɗe e juɗe
+   mawɗe, e jadɗe gonɗe e uddirɗe ina mbaawi weeɓnande ñaamugol. Hoto anndu e
+   laaɓal no feewi.
+9. **Weeɓnan ñamri ŋaccugol e modugol.** Taƴ ñamri e taƴe seeɗa walla hokku
+   ñamri noowndi. So neɗɗo oo ina doƴƴa walla ina ɓitta so ñaamii, haal e
+   doktoor mum.
+10. **Reeno tippinde ñaamugol.** NIA ina teskitina wonde weleede ñaamugol ina
+    usta no feewi e daaƴe sakkitorɗe Alzheimer's.
 
-### Signs to tell the doctor about
+### Maandeeji ɗi haaletee doktoor
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Ustugol teddeendi, salagol ñamri, lo'ere walla lo'ugol ina mbaawi wonde maandeeji
+wonnde neɗɗo ñaamataa ko yonata. Alzheimer's Society ina teskitina wonde muuse
+naawe walla niire haɗiiɗe, ŋakkeende weltaare, reedu sattundu e baylugol lekki
+ina mbaawi ustude weleede ñaamugol fof
+([Alzheimer's Society dow weleede ñaamugol](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Maandeeji ŋakkere ndiyam ɗi NIA limti ina jeyaa e mum hunduko yooro, jiiɓru,
+doggol ɓernde yaawnungol e yiide ko woodaani
+([NIA dow caɗeele kiɓɓo ɓurɗe heewde](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Haal e doktoor
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Hade maa waɗde bayle mawɗe e nyamdu maa hoore maa, walla mo woɗɗo, haal e
+doktoor walla karallaagal ñamri, tentini so aɗa jogii ñabbuuli, ñawu piire,
+caɗeele modugol walla ustugol teddeendi kesungol. Wonande mo wuurɗo e mancugol
+hakkil, naamno foti ko ñaama e yara ñalawma kala, e so karallaagal ñamri walla
+ɓeyditte ñamri ina mbaawi wallude.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Heɓ ballal jaawngal so neɗɗo ina ɓitta, walla so o heɓii jiiɓru jaawnguru,
+jiiɓru tiiɗuru walla yanaade.

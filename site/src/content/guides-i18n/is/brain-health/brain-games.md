@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Koma heilaleikir í veg fyrir heilabilun?"
+seoTitle: "Koma heilaleikir í veg fyrir heilabilun?"
+description: "Hvað segja rannsóknir um heilaleiki og heilabilun: vitræna örvun, tölvuþjálfun, ACTIVE-rannsóknina og FTC-málið gegn Lumosity, útskýrt á einfaldan hátt."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Enginn heilaleikur hefur sýnt fram á að komi í veg fyrir heilabilun.
+  Tölvuþjálfun fyrir heilann bætir aðallega þau verkefni sem fólk æfir.
+  Ein greining úr ACTIVE-rannsókninni tengdi sérstaka hraðaþjálfun ásamt
+  eftirfylgniþjálfun við færri heilabilunargreiningar á 20 árum, sem er
+  þröng niðurstaða. Fyrir fólk sem þegar lifir með heilabilun sýnir vitræn
+  örvun í hópi litla, skammtíma ávinning. Best er að njóta leikja fyrir
+  skemmtun og félagsskap.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Rannsóknir á heilaleikjaþjálfun sýna að fólk verður betra í þeim verkefnum sem það æfir, en mun minni vísbendingar eru um að það nýtist í daglegu lífi."
+  - "Í ACTIVE-rannsókninni voru einungis þeir sem stunduðu sérstaka hraðaþjálfun ásamt eftirfylgniþjálfun með færri heilabilunargreiningar á 20 árum. Hraðaþjálfun án eftirfylgni, minnis- og rökhugsunarþjálfun sýndu ekki þetta."
+  - "Árið 2016 greiddi framleiðandi Lumosity 2 milljónir dala í sátt við FTC vegna ásakana um að fyrirtækið skorti vísindalegan grundvöll fyrir fullyrðingar um að seinka heilabilun."
+  - "Fyrir fólk með væga til miðlungs heilabilun sýna vitrænir örvunarhópar litla, skammtíma ávinning fyrir hugsun og skýrari ávinning fyrir samskipti og félagsleg tengsl."
+  - "Leikir í Golden Moments eru ætlaðir til ánægju og samveru. Þeir eru ekki meðferð og koma hvorki í veg fyrir né hægja á heilabilun."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Koma heilaleikir í veg fyrir Alzheimers-sjúkdóm?"
+    a: "Enginn heilaleikur hefur sannað að hann komi í veg fyrir Alzheimers-sjúkdóm eða aðra heilabilun. National Institute on Aging segir að ekki sé nægjanlegt sönnunargagn fyrir því að markaðssett heilaleikjaforrit hafi sömu áhrif og þjálfunin sem prófuð var í klínískum rannsóknum. Leikir geta samt verið ánægjuleg leið til að eyða tímanum."
+  - q: "Hvað kom í ljós í ACTIVE-rannsókninni um hraðaþjálfun og heilabilun?"
+    a: "Greining frá 2026 tengdi þátttakendur í ACTIVE við Medicare-skrár á 20 ára tímabili. Fólk sem fékk hraðaþjálfun í úrvinnslu og fór í að minnsta kosti eina eftirfylgniþjálfun var með lægri tíðni greindrar heilabilunar en hópurinn sem fékk enga þjálfun. Hraðaþjálfun án eftirfylgni, og minnis- eða rökhugsunarþjálfun, sýndu ekki marktæk áhrif."
+  - q: "Eru þrautir og leikir góðir fyrir einhvern sem þegar lifir með heilabilun?"
+    a: "Það geta þeir verið, ef viðkomandi hefur gaman af þeim. Vitræn örvun í hópi, sem felur í sér orðaleiki, þrautir, tónlist og samtal, sýnir litla skammtíma ávinning fyrir hugsun og skýrari ávinning fyrir samskipti og félagsleg tengsl. Rétti markmiðið er ánægjan, ekki niðurstaða prófs."
+  - q: "Hvers vegna var Lumosity sektað af FTC?"
+    a: "Árið 2016 ákærði Federal Trade Commission að Lumos Labs gerði fullyrðingar um leiki sína, þar á meðal um að seinka hnignun tengda aldri og heilabilun, án þess að hafa vísindalegan grundvöll fyrir þeim. Fyrirtækið samþykkti að greiða 2 milljónir dala og að hafa áreiðanlegar vísindalegar sannanir áður en slíkar fullyrðingar yrðu gerðar í framtíðinni."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,168 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Heilaleikir eru alls staðar og margir lofa að halda huganum ungum. Ef þú
+sinnir einhverjum sem lifir með heilabilun, eða hefur áhyggjur af eigin minni,
+er eðlilegt að velta fyrir sér hvort það geti hjálpað að spila þá. Hér er það
+sem rannsóknir sýna í raun, þar á meðal það sem er hvetjandi og það sem er ekki.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Þetta eru almennar upplýsingar, ekki læknisráð. Sjá
+[læknisfræðilega fyrirvara okkar](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Koma heilaleikir í veg fyrir heilabilun?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Enginn heilaleikur hefur sannað að hann komi í veg fyrir heilabilun. National
+Institute on Aging (NIA) ráðleggur fólki að vera varkárt gagnvart fullyrðingum
+um að tölvu- og netleikir geti bætt minni, og segir að ekki sé nægjanlegt
+sönnunargagn fyrir því að markaðssett heilaleikjaforrit hafi sömu áhrif og
+þjálfunin sem prófuð var í klínískum rannsóknum
+([NIA um forvarnir gegn Alzheimers](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Það gerir leiki ekki gagnslausa. Það þýðir að gildi þeirra felst í ánægju,
+félagsskap og rútínu, ekki í að vernda einhvern gegn heilabilun.
 
-## What is "near transfer", and why does it matter?
+## Hvað er „nærfærsla“ og hvers vegna skiptir hún máli?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Þegar þú æfir verkefni verður þú yfirleitt betri í því verkefni. Rannsakendur
+kalla þetta þjálfunaráhrif. Erfiðari spurningin er hvort framförin **færist
+yfir** á annað: á svipuð verkefni (nærfærsla) eða á daglegt líf, eins og að
+muna eftir tímum eða sjá um fjármál (fjærfærsla).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Í stórri yfirlitsgrein frá 2016 voru skoðaðar rannsóknirnar sem
+heilaleikjafyrirtæki vitnuðu í sem bestu sönnunargögnin sín. Hún fann miklar
+vísbendingar um að fólk batnar í þeim verkefnum sem það æfir, færri
+vísbendingar um að það batni í náskyldum verkefnum og litlar vísbendingar um að
+þjálfun bæti daglega hugsun. Margar rannsóknanna höfðu einnig hönnunargalla sem
+gerðu öruggar ályktanir ómögulegar
+([Simons og samstarfsfólk, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Hvað segja yfirlitsgreinar um tölvuþjálfun fyrir heilann?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane-yfirlitsgreinar, sem sameina bestu tiltæku rannsóknirnar, hafa skoðað
+tölvustýrða þjálfun sem stóð í að minnsta kosti 12 vikur:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Heilbrigðir fullorðnir 65 ára og eldri:** átta rannsóknir með 1.183 manns.
+  Sönnunargögnin voru af lágum eða mjög lágum gæðum. Það gæti verið smávægilegur
+  ávinningur strax eftir þjálfun, en engar skýrar vísbendingar eru um að hann
+  endist
+  ([Cochrane-yfirlit, heilbrigðir eldri fullorðnir](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Fólk með væga vitrænaskerðingu:** átta rannsóknir með 660 manns. Engin
+  rannsókn greindi frá því hvort fólk þróaði með sér heilabilun síðar, og
+  sönnunargögnin voru of veik til að draga ályktanir
+  ([Cochrane-yfirlit, væg vitrænaskerðing](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Hvað kom í ljós í ACTIVE-rannsókninni?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE er stór bandarísk rannsókn sem hófst árið 1998 með 2.802 fullorðnum á
+aldrinum 65 ára og eldri sem bjuggu sjálfstætt og voru ekki með veruleg
+minnis- eða hugsunarvandamál. Fólki var raðað af handahófi í eina af þremur
+tegundum þjálfunar í litlum hópum (úrvinnsluhraða, minni eða rökhugsun) eða í
+hóp án tengsla. Þjálfunin var allt að tíu lotur á fimm til sex vikum. Sumum sem
+luku flestum lotum var einnig boðið af handahófi að taka þátt í
+**eftirfylgniþjálfun** um það bil einu og þremur árum síðar.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Hraðaþjálfunin fólst í því að taka eftir og vinna úr sjónrænum upplýsingum á
+sífellt styttri augnablikum, á erfiðleikastigi sem aðlagaðist eftir því sem
+fólk batnaði.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Árið 2026 tengdu rannsakendur 2.021 þátttakanda við Medicare-skrár þeirra á 20
+ára tímabili ([20 ára greining ACTIVE](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Hér er nákvæmlega það sem kom í ljós:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Hraðaþjálfun ásamt að minnsta kosti einni eftirfylgniþjálfun:** lægri tíðni
+  greindrar heilabilunar en í hópnum án tengsla (áhættuhlutfall 0,75, sem
+  þýðir um það bil 25% lægri tíðni).
+- **Hraðaþjálfun án eftirfylgni:** engin lægri tíðni.
+- **Minnis- eða rökhugsunarþjálfun:** engin marktæk áhrif á heilabilunargreiningar.
+- **Hver þjálfunarhópur í heild samanborið við hópinn án tengsla:** tilhneiging
+  til lægri tíðni, en ekki tölfræðilega marktæk.
 
-### The limits of this finding
+### Takmarkanir þessarar niðurstöðu
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Hún á við um **eina tiltekna tegund leiðsagnar í hraðaþjálfun með
+  eftirfylgniþjálfun**, ekki um heilaleiki almennt.
+- Marktæka niðurstaðan kom úr **undirhópi** (fólki sem lauk flestum fyrstu
+  lotunum og fékk boð um eftirfylgni), ekki úr öllum hraðaþjálfunarhópnum.
+- Heilabilun var mæld með **greiningarkóðum í Medicare-skrám**, ekki með því að
+  skoða hvern einstakling. Um það bil fjórðungi upprunalegu þátttakendanna var
+  sleppt vegna þess að þeir voru skráðir í Medicare Advantage, sem hefur ekki
+  fullar kröfuskrár.
+- Þátttakendur voru ekki með veruleg hugsunarvandamál þegar þeir byrjuðu.
+  Niðurstöðurnar segja ekkert um leiki fyrir fólk **sem þegar lifir með
+  heilabilun**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Þetta er áhugaverð niðurstaða sem kallar á frekari rannsóknir. Hún er ekki
+sönnun fyrir því að eitthvert forrit komi í veg fyrir heilabilun.
 
-## What did the FTC say about Lumosity?
+## Hvað sagði FTC um Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Í janúar 2016 samþykkti Lumos Labs, framleiðandi Lumosity, að greiða 2 milljónir
+dala í sátt vegna ásakana Federal Trade Commission um villandi auglýsingar. FTC
+sagði að fyrirtækið hefði, án nægilegs vísindalegs grunns, fullyrt að leikir
+þess gætu bætt frammistöðu í vinnu og námi og gætu seinkað hnignun tengda
+aldri, væga vitrænaskerðingu, heilabilun og Alzheimers-sjúkdóm. Úrskurðurinn
+kveður á um að fyrirtækið hafi traustar og áreiðanlegar vísindalegar sannanir
+áður en það gerir slíkar fullyrðingar í framtíðinni
+([fréttatilkynning FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Lærdómurinn fyrir fjölskyldur: vertu tortryggin gagnvart öllum leikjum, forritum
+eða úrræðum sem lofa að vernda minni eða koma í veg fyrir heilabilun.
 
-## Can games help someone who already has dementia?
+## Geta leikir hjálpað einhverjum sem þegar lifir með heilabilun?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Þeir geta bætt góðum degi við, og það skiptir miklu máli. Sú nálgun sem best er
+rannsökuð er **vitræn örvun**: ánægjuleg hópverkefni eins og umræður, endurminningar, orðaleikir, þrautir og tónlist, venjulega í litlum hópi með leiðbeinanda.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Cochrane-yfirlit frá 2023 yfir 37 rannsóknir með 2.766 manns með væga til
+miðlungs heilabilun fann
+([Cochrane-yfirlit um vitræna örvun](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **litla, skammtíma ávinning** á prófum um hugsun (sönnunargögn af miðlungs gæðum);
+- **klínískt marktækar framfarir í samskiptum og félagslegum tengslum**
+  (sönnunargögn af háum gæðum, úr færri rannsóknum);
+- **smávægilegan ávinning** fyrir lífsgæði, skap og hegðun.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Ávinningurinn var aðallega mældur strax eftir um tíu vikna úrræði, og fáar
+rannsóknir könnuðu hvort hann entist. Vitræn örvun er skipulagt hópúrræði, svo
+þessar niðurstöður eiga ekki sjálfkrafa við um einstakling sem spilar leik
+einn á spjaldtölvu.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet-nefndin frá 2024 segir einnig að virkniúrræði séu mikilvæg fyrir fólk
+sem lifir með heilabilun, til að viðhalda ánægju og tilgangi
+([Lancet-nefndin](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Til hvers eru leikir í raun góðir?
 
-When chosen well, games can offer:
+Þegar þeir eru vel valdir geta leikir veitt:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Ánægju.** Ánægjuleg hálftíma er þess virði í sjálfu sér.
+- **Tengsl.** Að spila hlið við hlið gefur ykkur eitthvað einfalt að deila þegar
+  samtal er erfitt. Sjá [hvernig á að spila saman](/caregiving/how-to-play-together/).
+- **Rútínu.** Þekkt virkni á sama tíma á hverjum degi getur veitt vellíðan.
+- **Sjálfstraust.** Virkni sem er sniðin að því sem einstaklingurinn getur enn
+  vel gert lætur honum líða færum, ekki eins og hann sé í prófi.
+- **Samtal.** Mynd eða þekkt orðatiltæki getur opnað fyrir sögu. Prófaðu
+  [spjallspjöld](/games/conversation-cards/) eða
+  [ljúktu við orðatiltækið](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Það sem best er að forðast: niðurteljara, stig, raðir og allt sem líður eins og
+minnispróf. Ef einstaklingurinn verður pirraður skaltu hætta. Að hætta snemma,
+eða einfaldlega að sitja saman, er góður árangur. Leiðbeiningarnar okkar um
+[að velja forrit og leiki](/caregiving/choosing-apps-and-games/) innihalda gátlista.
 
-## Where Golden Moments fits
+## Hvar Golden Moments á heima
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Leikir í Golden Moments, eins og [myndapör](/games/picture-pairs/),
+[myndapuð](/games/picture-puzzle/) og
+[stórprentuð orðaleit](/games/word-search/), eru gerðir fyrir ánægju og
+samveru. Þeir eru án klukku og án stiga. Þeir eru **ekki** meðferð og koma
+**ekki** í veg fyrir né hægja á heilabilun. Við viljum frekar segja það hreinskilnislega en lofa einhverju sem enginn leikur getur staðið við.
 
-## Talk with a doctor
+## Talaðu við lækni
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Ef þú hefur áhyggjur af breytingum á minni hjá sjálfum þér eða einhverjum sem þú
+sinnir skaltu leita til læknis frekar en að treysta á forrit. Læknir getur leitað
+að meðferðarhæfum orsökum og rætt við þig um þau skref sem bestar vísbendingar
+eru fyrir, eins og að stjórna blóðþrýstingi og láta athuga heyrn. Sjá
+[Er hægt að koma í veg fyrir heilabilun?](/brain-health/can-dementia-be-prevented/) til að fá meira að vita.
+Ef skyndileg ruglingur eða aðrar skyndilegar breytingar koma fram skaltu hringja í 112.

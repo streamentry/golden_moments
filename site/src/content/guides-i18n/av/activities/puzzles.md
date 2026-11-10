@@ -1,32 +1,32 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Пазлал деменциялда бугеб инсанал гӀодолъе"
+seoTitle: "Деменциялъи пазлал: пазлал ва сугӀалъи"
+description: "Деменциялда бугеб инсанал гӀодолъе пазлал, сугӀалъи ва онлайн пазлал ахир гьабизе: хъвасса, сурат, бакӀарал шрифт, бихьизе биххаб ва кьолеб гьоболе."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Деменциялда бугеб инсанлъун гӀодолъе лъикI пазл – гӀеда кинабго гьарулел ва
+  рецӀел кьолаго лъазабе бугеб. Ахир гьабе бакӀараб хъвасса къадаралдасан,
+  кӀвар сурат бугеб сугӀалъи, сурат ва къатӀи бакӀарал гӀуцӀар. СугӀалъи
+  бакӀарал шрифтаздасан лъикI. Онлайн пазлал 4 хъвасса цӀар бугеб, гӀеда
+  бугеб гьоболе. Кьолеб гьоболе рацӀ кьабихъе.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Ахир гьабе инсанасул кьолаго, этапалъул цӀар буго бихьизе бакӀараб: пазл гӀоло чӀвалъи ба, бакӀараб хъвасса къадар гьабе."
+  - "КъватӀибе, бегьулел хъвасса ва къатӀи рангалъул бакӀарал сурат, сардал ва бакӀарал хъвасса гӀодолъе лъикI."
+  - "Гьуго инсанал сурат. Бахчаял, хъирал, машинал ва ватӀал, мультфильмаль гьаркьаб цӀар."
+  - "Бихьизе биххаб – ишалда бугеб. Хъвасса гьабе, сиде гьабе, сурат гьа хьо-ботӀо."
+  - "БакӀарал шрифтаздасан сугӀалъи ва 4 ба 9 хъвассабазе онлайн пазлал ва бихьизе гьабе, ахирго мегьи."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Деменциялда бугеб инсанлъун гӀодолъе пазлъул мегьа хъвасса лъикI?"
+    a: "Бихьизе ва хъвасса кӀвар ахирго буго. ЧӀвалъи 1000 хъвассабазе пазл гьабулел инсанлъун ахирго буго бихьизе, мацӀ гӀодолъе чӀвалъи буго. Гьоболе, ахирго бакӀараб хъвасса гьабе. Нуж гӀемерлъиялдасан, рацӀ кьабихъе. Нилдасан онлайн пазлаль 4 ба 9 хъвасса."
+  - q: "Пазлал деменциялда бугеб инсанлъун гӀодолъе лъикIдиса?"
+    a: "Гьоболе инсанал бихьизе, чӀвалъи пазл гьабизе гьарулел бихьизе. Пазл кьолеб инсанасул кьолаго, гьарулел мурад ва кьолеб сурат. Пазлъул гӀодолъе деменция гьачIал гьабе ахиргьо буго. Гьоболе биххаб гьабе, бихьизе."
+  - q: "Пазл гьабизе инсан гӀеда ахиргьо гӀодолъе гьабулел гӀемерлъиялда, мегьи?"
+    a: "Гьабе бакӀараб. Хъвассабазе мацӀ гьабе, хьо-ботӀо сиде гьабе ва ишалда гьа цӀар лъезе. ЧӀвалъи 4 хъвасса онлайн пазл, рангазе хъвассабазе сиде ва сурат гьабе."
+  - q: "Крестворд ва сугӀалъи деменциялда бугеб инсанлъун лъикIдиса?"
+    a: "Этапалда лъикI буго, бакӀарал шрифтаздасан. Гьорай хъвасса ва сурат лъикI. ГӀахьал буго – сугӀалъун цӀар ва сиде гьабе."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +45,85 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Бахчаял кӀиго хъвасса хъирал магӀдалда сиде бахчаял – инсанлъун гьабизе ахирго буго, гьаркьаб ва кьолаго. Сурат бахчаял гьабе ахирго буго, гӀемерлъиялъ ацӀ, ва пазл ахирго буго кьолаго тӀоно. Пазал деменция гӀемерлъиялда бугеб инсанлъун гӀодолъе рацӀ кьабихъе. ЧӀвалъи пазл кьолаго лъикI бегьулел буго. Гьарулел пазл ва онлайн пазлал гӀодолъе гьабизе гьарулел гӀуцӀар, ва кьолеб гьоболе – гьабе, гьарулел.
 
-## Are puzzles good for people with dementia?
+## Пазлал деменциялда бугеб инсанлъун гӀодолъе лъикIдиса?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Гьоболе инсанал гьарулел буго, ахирго инсанал ва пазл кьолеб. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) лъазулел, сугӀалъи, кӀваздасан ва хъирал магӀдалда гьабе этапалда лъикI, ва [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) онлайн гьоболе ва планшетал гьабизе гьарулел мегьи бегьулел.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Пазл лъабулел гьоболе буго. ЧӀвалъи пазл деменция гьачIал, гьачIалъуб буго. [Brain games and dementia](/brain-health/brain-games/) гьабизе хьо гьабулел. Пазл гьабизе кьолаго, ахирго, инсанасул гӀемер ахирго. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) лъазулел: кьолеб буго, гьабе тӀоно, ахирго.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Пазлъул хъвасса хьо гьабе ахир гьабизе, деменциялда бугеб инсанлъун гӀодолъе?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Этапалъул цӀар ишалда, инсанасул кьолаго ва гьабулел пазл гьабизе гьабе.
 
-### Number of pieces
+### Хъвассаби
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Мегьи хъвасса лъикI буго, лъикIдиса. Хъвасса 300 гьабулел инсанлъун, рацӀ 12 гьабулел инсанлъун. РацӀ: гьабулел пазл гӀемерлъиялда гьарулел бугеб, ишалда хъвассаби рацӀ кьабихъе. Гьабулел пазл хьо-ботӀо кьолеб, хъвасса гӀемерлъиялда гьабе.
 
-### Piece size and feel
+### Хъвасса къадар ва бегьулел
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **КӀвар хъвасса** бихьизе, гьабизе, рачӀизе лъикI.
+- **КъатӀи, сардал хъвасса** тӀоно ва гьоболе.
+- **Кьоно, къватӀи хъвасса** гӀодолъе бегьулел.
+- **КӀвар хъвасса тӀоно** инсан кьолаго бугеб, гӀеда тӀоно пачалъи буго.
 
-### The picture
+### Сурат
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Гьуго инсанал сурат.** Бахчаял, мегьи, гьабулел машинал, ватӀал, гьарулел тӀохта. Мультфильм ва бачӀал гьаркьаб цӀар.
+- **Рангалъул къатӀи.** Гьабулел гьорайгӀан, рангалъул къатӀи: гьарулел гӀемерлъиялда, гьорай ва гьарай.
+- **Ахирго ва кьолаго.** Гьабулел цӀар ва кьолаго, гьарулел. Гьабулел сурат гьабизе ахирго.
 
-## How do you do a puzzle together?
+## Пазлъул гьарулел гьабе хьо-ботӀо ахир гьабизе?
 
-Set it up so the person can get straight to the enjoyable part.
+Инсанлъун кьолаго гьабизе гьабе.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **ЛъикI цӀар гьабе.** Гьоло, гьабулел кьабихъе ва тӀоно.
+2. **КъутIи ботӀо гьабе** хьо-ботӀо кьолаго.
+3. **Хъвасса гьабе** гьабизе.
+4. **Гьабулел къатӀи хъвасса** хьо ботӀо, ва гьаркьаб гьабе.
+5. **Рангалъул къатӀи** гьабе тIиргьо ва гӀемерлъиялда.
+6. **Гьабулел хъвасса гьабе** хъирал: «ГьорайгӀа гьабулел барн».
+7. **Сурат гьабизе, гьабе,** гьабе. «Гьабулел гьарулел, хьо гьабулел ..».
+8. **Гьабе кьабихъе.** Гьабулел кьолаго, кӀвар ахирго.
+9. **Гьабе лъикI цӀар,** гьабе, ишалда.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) лъазулел: кьолаго гьабе, гьабулел, гьабе. Хъвасса гьабе, гьабе – сиде гьабулел.
 
-## Easy online puzzles
+## Онлайн пазлал
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Планшетал пазл лъикIдиса: хъвасса кьабихъе ва сурат гьабе.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Нилдасан [Picture puzzle](/games/picture-puzzle/) сурат 4 ба 9 хъвассабазе гьабулел. Ишалда ва хъвассабазе сиде гьабе, сурат гьабе. Сурат ахир буго, вахт буго, гьабе.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Лъикдиса [Find the same](/games/find-the-same/) ва [Sort together](/games/sort-together/).
 
-## Word puzzles: word searches and crosswords
+## СугӀалъи ва крестворд
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+СугӀалъи ва крестворд деменция ахирго гьабулел инсанлъун гӀодолъе.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **БакӀарал шрифтаздасан сугӀалъи.** Нилдасан [Word search](/games/word-search/) гьабулел ахир гьабе, хъвасса ва сиде.
+- **СугӀалъун цӀар гьабе.** Гьабе, гьабулел, гьабе.
+- **БакӀарал крестворд.** Гьабе, гьабе.
+- **ЦӀар гьабе.** «Бахча» – гьабулел.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Ахир гьабулел бакӀарал тӀоно: [free printable dementia activities](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Этапалъул пазл
 
-Stages overlap, and good and hard days are normal.
-
-| Stage | Puzzles that often fit | Your role |
+| Этап | ЛъикI пазл | Хьо гьабе |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Гьабе | ГӀемерлъиялда, гьабулел | Гьабе, гьабе |
+| Гьабе | ГӀемерлъиялда, гьабулел | Гьабе, гьабе |
+| Гьабе | Сурат, гьабулел | Гьабе, гьабе |
 
-## When should you make a puzzle easier, or stop?
+## Гьабулел пазл гьабе, гьабе?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Гьабулел гьабе: гьабулел, гьабе, гьабе.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Гьабе ахир.** Хъвасса гьабе.
+- **Хьо гьабе.**
+- **Гьабе:** [coloring](/games/coloring/).
+- **Гьабе.** Гьабе, гьабе.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Гьабе ахир гьабе, гьабулел. Нилдасан [101 activity ideas](/activities/ideas/) гьабе.

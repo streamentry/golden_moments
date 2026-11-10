@@ -1,33 +1,35 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Madia ya MIND, Mediterranee mpi divudi"
+seoTitle: "Madia ya MIND mpi divudi: Mambu ya balukutakanu"
+description: "Mambu yina balukutakanu ke tuba sambu na madia ya MIND ti Mediterranee mpi divudi, mpi mutindu ya kusadisa muntu yina ke na divudi na kudia mbote."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Balukutakanu ya nkaka yina ke landaka bantu na ntangu ke monisa nde madia ya
+  mutindu ya Mediterranee ti ya MIND lenda vukana ti kigonsa ya fioti ya kubaka
+  divudi, kansi yo ke salamaka ve ntangu yonso. Lukutakanu mosi ya bamvula tatu
+  ya madia ya MIND, yina babasisaka na 2023, monisaka ve luswaswanu ya
+  mfunu na mayele ya kuyindula to na bifwanisu ya mboongo ya ntu kana
+  kufwanisa ti madia ya nkaka. Kele ve madia to nkisi yina ke monisama nde yo
+  ke taninaka divudi. Sambu na bantu yina ke zingaka ti kimbefo ya divudi,
+  kudia mpi kunwa mbote kele diambu ya mfunu kuluta.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Balukutakanu ya nkaka, kansi ve yonso, yina ke landaka bantu na ntangu ke monisa nde madia ya mutindu ya Mediterranee ti ya MIND lenda vukana ti kigonsa ya fioti ya kubaka divudi."
+  - "Na lukutakanu ya 2023 ya bambuta 604, bantu yina landaka madia ya MIND salaka ve mbote kuluta na bamekamu ya mayele to na bifwanisu ya mboongo ya ntu na nima ya bamvula tatu, kana kufwanisa ti bantu yina landaka madia ya nkaka."
+  - "National Institute on Aging ke tuba nde kele ve kimbangi ya ke monisa nde kudia to kukonda kudia madia mosi ya sikisiki lenda tanina Alzheimer, mpi kele ve vitamine to nkisi ya ke monisama nde yo ke taninaka yo."
+  - "Madia ya ke na ndunda-ndunda mingi, bambuma, madesu, bima ya ble ya mvimba mpi bambisi ke sadisaka mbote ya ntima mpi lenda sadisa na kigonsa bonso tension ya mingi mpi diabete."
+  - "Sambu na bantu yina ke zingaka ti kimbefo ya divudi, madia ya fioti ya kubaka na maboko, balongo ya ke swaswana na ndambu ya madia, ntangu ya kudia ya pima mpi kunwa mbala na mbala lenda vanda ya mfunu kuluta madia mosi ya sikisiki."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Keti madia ya MIND ke taninaka divudi?"
+    a: "Yo me monanaka ve. Balukutakanu yina talaka bantu na ntangu monisaka nde madia ya MIND vukanaka ti kigonsa ya fioti, kansi lukutakanu mosi ya bamvula tatu yina babasisaka na 2023 monisaka ve luswaswanu ya mfunu na mbongo ya bamekamu ya mayele to na bifwanisu ya mboongo ya ntu kati na bantu yina landaka madia ya MIND mpi bantu yina landaka madia ya nkaka. Kimvuka yonso zole tomaka fioti mpi vidisaka kilo kiteso ya kiteso."
+  - q: "Luswaswanu inki kele kati na madia ya MIND mpi madia ya Mediterranee?"
+    a: "Madia ya Mediterranee ke tula dikebi na ndunda-ndunda, bambuma, bima ya ble ya mvimba, madesu, bambisi mpi mafuta ya olive, ti musuni ya mbisi ya ngombe fioti to bima ya sukadi fioti. Madia ya MIND ke vukisa yo ti madia ya DASH sambu na tension, mpi ke tula dikebi ya mingi na ndunda-ndunda ya vert mpi bambuma ya baies, na ntangu yo ke fiotunaka musuni ya mbisi ya ngombe, bima ya sukadi, fromaze, manteka mpi madia ya kukalinga."
+  - q: "Keti kele madia to bankisi yina ke taninaka Alzheimer?"
+    a: "Ve. National Institute on Aging ke tuba nde kele ve kimbangi ya ke monisa nde kudia to kukonda kudia madia mosi ya sikisiki lenda tanina Alzheimer to kukonda ya mayele yina ke kwisaka na bununu, mpi kele ve vitamine to nkisi yina me monanama nde yo ke taninaka Alzheimer. Solula ti munganga na ntwala ya kubaka bankisi."
+  - q: "Inki madia kele pete sambu na muntu yina ke na divudi na kudia?"
+    a: "Madia ya fioti ya kubaka na maboko bonso bitini ya sandwich, bitini ya nsusu ya soso, bitini ya orange to bitini ya ndunda-ndunda ya kutokisa na mvula lenda vanda pete kuluta kusadila couvert. Kana kutafuna to kumina kele mpasi, madia ya pete bonso maki ya kukanga, compote ya pomme to fromage blanc lenda sadisa. Yula munganga sambu na kimekamu ya kumina kana muntu ke kololaka to ke fulukaka ntangu ya kudia."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +60,90 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Ziku nge tangaka nde madia ya “mbote sambu na mboongo ya ntu” lenda tanina Alzheimer. Kieleka kele fioti. Mitindu ya nkaka ya kudia ke monanaka ti kigonsa ya fioti na balukutakanu yina ke landaka bantu na ntangu, kansi lukutakanu ya kuluta mbote tii bubu monisaka ve ndandu ya pwelele. Lutiti yai ke tendula mambu yonso zole, na nima ke tula dikebi na mambu yina mingi-mingi kele ya mfunu sambu na muntu yina ke zingaka ti kimbefo ya divudi: kudia mpi kunwa mbote, mpi kusepela na yo.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Yai kele nsangu ya nene, kansi ve malongi ya munganga. Solula ti munganga to muntu ya mayele na madia na ntwala ya kusoba madia ya nge mosi to ya muntu ya nkaka. Tala [ndimbola na beto ya kimunganga](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Madia ya Mediterranee mpi ya MIND kele inki?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) ke tendula yo mutindu yai
+([NIA sambu na madia mpi Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Madia ya Mediterranee:** bambuma mingi, ndunda-ndunda, bima ya ble ya mvimba, madesu, bambisi mpi bima ya nzadi-mungwa, mpi mafuta ya olive, ti musuni ya mbisi ya ngombe, maki mpi bima ya sukadi fioti.
+- **Madia ya MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): kuvukisa ya madia ya Mediterranee mpi madia ya DASH sambu na tension. Yo ke tula dikebi na ndunda-ndunda, mingi-mingi ya vert; bambuma ya baies; bima ya ble ya mvimba; madesu; bambuma ya nti; bambisi ata mbala mosi na mposo; mpi mafuta ya olive. Yo ke fiotunaka musuni ya mbisi ya ngombe, bima ya sukadi, fromaze, manteka to margarine, mpi madia ya kukalinga to ya nswalu.
 
-## Do these diets lower dementia risk?
+## Keti madia yai ke fiotunaka kigonsa ya divudi?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Bikimvangi kele ya kuswaswana. NIA ke tuba nde balukutakanu ya nkaka, kansi ve yonso, yina talaka bantu na ntangu monisaka nde madia ya Mediterranee ti ya MIND vukanaka ti kigonsa ya fioti ya divudi kana kufwanisa ti madia ya mutindu ya Weste yina ke na musuni ya mbisi ya ngombe mingi, mafuta ya kukangama mingi mpi sukadi mingi.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Komision ya Lancet ya 2024 talaka balukutakanu na mudindu mingi
+([Komision ya Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Ntalu ya nkaka ya balukutakanu ya kimvuka monisaka nde madia ya mbote vukanaka ti kigonsa ya divudi ya kiteso ya 20% na nsi.
+- Ntalu ya nene ya nkaka ya bimvuka tatu monisaka nde kulanda madia ya MIND mbote vukanaka ti kigonsa ya fioti.
+- Kansi lukutakanu mosi na Suede yina landaka bantu 28,025 ya kati-kati bamvula kiteso ya 20 monisaka ve kigonsa ya fioti ti na madia yina balenda to na madia ya mutindu ya Mediterranee.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Balukutakanu yina ke talaka bantu na ntangu lenda monisa ve kikuma ya sikisiki. Bantu yina ke diaka mutindu yai mbala mingi ke swaswanaka mpi na mambu ya nkaka bonso mbongo, malongi, kisalu ya nitu mpi nzila ya kubaka lusadisu ya mavimpi. Komision yambaka nde kele ve kimbangi ya kufwana sambu na kutuba nde madia ya mbote ke taninaka divudi mbala mosi, ata kudia bambuma mpi ndunda-ndunda mingi mpi kufiotuna madia yina basala mingi kele mbote sambu na mavimpi mingi mpi ke sadilaka bima ya kigonsa bonso kilo ya mingi, diabete mpi tension ya mingi. Yo yikaka ve madia na kati ya [bima 14 ya kigonsa](/brain-health/risk-factors/) na yo.
 
-## What did the 2023 MIND diet trial find?
+## Lukutakanu ya madia ya MIND ya 2023 monisaka inki?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Mekamu ya kuluta ngolo tii bubu vandaka lukutakanu mosi ya babasisaka na New England Journal of Medicine na 2023
+([lukutakanu ya madia ya MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Banani:** bambuta 604 yina vandaka na bamvula 65 to kuluta na bisika ya Chicago ti Boston, kukonda mpasi ya mayele, yina vandaka ti mpangi ya pene yina vandaka ti divudi, yina vandaka ti kilo ya kuluta, mpi yina vandaka ti madia ya mbi na luyantiku.
+- **Inki basala:** na nsungi ya bamvula tatu, ndambu landaka madia ya MIND mpi ndambu ya nkaka landaka madia na yo ya mbala na mbala. Bantu ya bimvuka yonso zole lombamaka na kudia kiteso ya 250 calories na nsi konso kilumbu mpi bazwaka lutwadisu mbala na mbala na bantu ya mayele na madia.
+- **Mbongo:** mbongo ya bamekamu ya mayele tomaka fioti na **bimvuka yonso zole**. Luswaswanu kati na bimvuka vandaka fioti mpi **vandaka ve ya mfunu na ntalu**. Bifwanisu ya mboongo ya ntu monisaka mpi bansoba ya kiteso ya kiteso na bimvuka yonso zole.
+- **Kilo:** bantu ya bimvuka yonso zole vidisaka kiteso ya 5 kilogramme (pene-pene ya 11 pounds).
 
-### Why might the trial have found no difference?
+### Sambu na nki lukutakanu monisaka ve luswaswanu?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Bantu yina salaka lukutakanu pesaka bantendula ya nkaka. Kimvuka ya madia ya mbala na mbala lenda vandaka mpi kutomisa madia na yo, sambu bo vidisaka kilo ya kiteso. Kusala bamekamu mbala na mbala lenda tomisa mbongo na yo mosi, sambu bantu ke mekanaka ti bamekamu. Bamvula tatu lenda vanda ntangu ya nkufi. Bantu mingi ya lukutakanu vandaka ti malongi ya mingi mpi vandaka bantu ya Eropa, yo yina mbongo lenda fwanana ve na bantu yonso.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Yo yina, ntendula ya masonga kele: madia ya MIND nungaka ve madia ya mbote ya kufiotuna calories na nsungi ya bamvula tatu. Yo ke tendula ve nde kudia mbote kele kukonda mfunu. Yo ke tendula nde muntu mosi ve fwete vingila nde madia mosi ya sikisiki ta tanina divudi.
 
-## What about specific foods and supplements?
+## Inki sambu na madia ya sikisiki mpi bankisi?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA ke tuba nde kele ve kimbangi ya ke monisa nde kudia to kukonda kudia madia mosi ya sikisiki lenda tanina Alzheimer to kukonda ya mayele yina ke kwisaka na bununu. Bantu talaka bambuma ya baies ya ble, ndunda-ndunda ya vert mpi turmeric, kansi kukonda kimbangi. NIA ke tuba mpi nde kele ve vitamine to nkisi yina me monanama nde yo ke taninaka Alzheimer, mpi bo ke pesaka ve ndongisila ya kusadila yo sambu na kikuma yina. NIA ke kebisa nde bima yina bo ke tekaka kukonda kimbangi sambu na kutanina Alzheimer lenda vanda kigonsa, kufuta mbongo na mpamba, to yonso zole, mpi lenda kota na kati ya bankisi yina munganga pesaka, yo yina solula ti munganga na ntwala ya kumeka kima mosi
+([NIA sambu na kutanina Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Inki mutindu kudia lenda vanda ya mbote mpi ya kusepedisa?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Sambu na bambuta mingi, lukanu kele kudia yina ke pesaka ngolo, yina bo me yikanaka na yo mpi yina ke sepedisaka, kansi ve manaka ya ngolo:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Tunga madia na zulu ya bima yina nge ke zolaka** ya mutindu ya Mediterranee: ndunda-ndunda, bambuma, madesu, bima ya ble ya mvimba, bambisi mpi mafuta ya olive.
+- **Bika bima ya sukadi yina nge ke zolaka.** Kusepela mpi nzala ya kudia kele ya mfunu, mingi-mingi na bamvula ya nsuka.
+- **Dia ti bantu ya nkaka** kana nge lenda. Kudia na kimvuka kele mbote sambu na lusadisu.
+- **Lamba kumosi.** Kuyobisa ndunda-ndunda to kunikisa nzungu kele kisalu ya mbote ya kusala kumosi; tala [bisalu ya nzo](/activities/household-tasks/). Madia ya dibuta yina bo ke zolaka mingi lenda mpi yibusa [mambu ya ntama](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Bambuta kufwete ve kufiotuna calories to kuvidisa kilo kukonda kusolula ti munganga, mpi kukonda kudia na ntangu ya nda lenda nata bigonsa ya nkaka. Tala [lutwadisu na beto sambu na kukonda kudia](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Inki mutindu nge lenda sadisa muntu yina ke na divudi na kudia mbote?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Sambu na bantu yina ke zingaka ti kimbefo ya divudi, kudia mpi kunwa **ya kufwana** mingi-mingi kele diambu ya mfunu. Alzheimer's Association ke tuba nde bantu lenda vila kudia, kuyindula nde bo me dia dezia, to kuwa ndenge bo ke zaba ve mambu mingi, mpi nde kudia ya mbi lenda tombula bikalulu ya mpasi mpi kunata kuvidisa kilo
+([Alzheimer's Association sambu na madia mpi kudia](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Mabanza yai ke katuka na Alzheimer's Association, NIA mpi Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Pesa madia ya kubaka na maboko.** Bitini ya fioti ya pete na kubaka, bonso bitini ya sandwich, bitini ya nsusu ya soso, bambisi ya fioti ya kukanga, bitini ya orange to broccoli ya kutokisa na mvula, ke sadisa muntu na kudia yandi mosi kukonda couvert.
+2. **Sadila ndambu ya kuswaswana na mesa.** Bansoba na mutindu ya kumona lenda sala nde muntu mona mpasi na kuswaswanisa madia ti longo. Balongo ya mpembe to mabola ya mpembe na zulu ya nappe ya ndambu ya nkaka lenda sadisa. Tina bilongo ti bintalu ya bima mingi.
+3. **Pesa madia mosi to zole na mbala mosi.** Longo ya kufuluka lenda vanda mingi.
+4. **Bika ntangu ya kudia kuvanda pima.** Kanga TV, bika mesa kuvanda pete, mpi pesa ntangu ya mingi. NIA ke pesa ndongisila ya kukonda kusala nswalu to kutindika.
+5. **Pesa madia ya fioti mpi bima ya kudia kati-kati mbala mingi.** NIA ke pesa ndongisila ya madia ya fioti, ya mbala mingi mpi bima ya fioti ya ke na calories mingi kana muntu ke diaka ve mbote
+   ([NIA bandongisila sambu na kudia mbote](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Sadisa na kunwa.** Pesa bakopo ya fioti ya masa to bima ya nkaka ya kunwa na kilumbu, ti madia ya ke na masa mingi bonso bambuma, supu, milkshakes mpi smoothies. Kana muntu ke zola ve masa, NIA ke tuba nde nge lenda meka jus, masa ya ke na ntomo, bulion, miliki, to kafe to ti ya kukonda cafeine.
+7. **Tala tiya ya madia.** Muntu lenda mona ve nde madia to kima ya kunwa kele tiya mingi.
+8. **Sobisa bakopo mpi bisadilu.** Mabola na kisika ya balongo, bakiyeli ya ke na nsinga ya nene, mpi bakopo ya ke na kufunga lenda sala nde kudia kuvanda pete. Kudiyangisa ve sambu na bopeto.
+9. **Sala nde madia kuvanda pete na kutafuna mpi kumina.** Zenga madia na bitini ya fioti to pesa madia ya pete. Kana muntu ke kololaka to ke fulukaka ntangu ya kudia, zabisa munganga na yandi.
+10. **Tina kutindika kudia.** NIA ke tuba nde nzala ya kudia ke fiotukaka mbote-mbote na bitini ya nsuka ya Alzheimer.
 
-### Signs to tell the doctor about
+### Bidimbu yina nge fwete zabisa munganga
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Kuvidisa kilo, kubuya kudia, kulemba to kukonda ngolo lenda vanda bidimbu ya ke monisa nde muntu ke diaka ve mbote. Alzheimer's Society ke tuba nde mpasi ya meno to ya meno ya kusala, kiadi, mpasi ya kukaka mpi bansoba ya bankisi lenda fiotuna nzala ya kudia
+([Alzheimer's Society sambu na nzala ya kudia](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Bidimbu ya kukonda masa na nitu yina NIA ke tanga kele munoko ya kuyuma, kizunguzungu, ntima ya ke bulaka nswalu mpi kumona bima yina kele ve
+([NIA sambu na mpasi ya mavimpi ya mbala na mbala](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Solula ti munganga
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Na ntwala ya kusala bansoba ya nene na madia ya nge mosi, to ya muntu ya nkaka, solula ti munganga to muntu ya mayele na madia, mingi-mingi kana nge ke na diabete, maladi ya rein, mpasi ya kumina to kuvidisa kilo ya mpa. Sambu na muntu yina ke zingaka ti kimbefo ya divudi, yula ndambu ya kudia mpi kunwa yina yandi fwete sala konso kilumbu, mpi kana muntu ya mayele na madia to bankisi lenda sadisa.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Sosa lusadisu ya nswalu kana muntu ke fulukaka, to kana yandi ke monisa kusoba ya nitu ya nswalu, kizunguzungu ya ngolo to kukonda mayele.

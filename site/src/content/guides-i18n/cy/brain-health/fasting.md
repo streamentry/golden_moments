@@ -1,33 +1,28 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Ympryd ysbeidiol a dementia: yr hyn y mae'r ymchwil yn ei ddweud"
+seoTitle: "Ympryd ysbeidiol a dementia: yr hyn y mae'r ymchwil yn ei ddweud"
+description: "Mae tystiolaeth ddynol am ympryd ysbeidiol a dementia yn gyfyngedig ac yn gynnar. Dysgwch am y risgiau i oedolion hŷn a pham mae bwyta digon yn bwysicach pan fo dementia."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Nid oes tystiolaeth gadarn bod ympryd ysbeidiol yn atal nac yn arafu dementia. Mae llawer o'r ymchwil wedi'i wneud ar anifeiliaid, ac mae astudiaethau dynol ar oedolion hŷn yn fach ac wedi'u cynnal dros gyfnod byr. Gall ympryd fod yn beryglus i oedolion hŷn: colli pwysau a chyhyrau, siwgr gwaed isel os ydych yn cymryd rhai meddyginiaethau ar gyfer diabetes, syched a chwympo. I bobl sy'n byw gyda dementia, mae bwyta ac yfed digon fel arfer yn fwy o bryder. Siaradwch â meddyg yn gyntaf.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Dywed y Sefydliad Cenedlaethol ar Heneiddio nad oes digon o dystiolaeth i argymell unrhyw ddeiet ympryd neu gyfyngu ar galorïau, yn enwedig ar gyfer oedolion hŷn."
+  - "Mae llawer o'r ymchwil ar ympryd a heneiddio yn dod o anifeiliaid, ac nid yw'r canlyniadau hynny o reidrwydd yn berthnasol i bobl."
+  - "Gall risgiau posibl i oedolion hŷn gynnwys colli pwysau a chyhyrau yn annisgwyl, siwgr gwaed isel os ydynt yn cymryd rhai meddyginiaethau ar gyfer diabetes, syched, pendro a chwympo."
+  - "Mae pobl sy'n byw gyda dementia yn aml yn anghofio bwyta neu yfed, neu'n meddwl eu bod eisoes wedi gwneud hynny. Mae helpu i sicrhau eu bod yn bwyta ac yn yfed digon fel arfer yn llawer pwysicach na phryd maent yn ei wneud."
+  - "Peidiwch â defnyddio ympryd ar gyfer y person rydych yn gofalu amdano sydd â dementia. Siaradwch â meddyg neu ddeietegydd cofrestredig cyn newid unrhyw beth am batrwm bwyta."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "A yw ympryd ysbeidiol yn atal clefyd Alzheimer?"
+    a: "Nid oes tystiolaeth gadarn bod hynny'n wir. Mae llawer o'r ymchwil wedi'i wneud ar anifeiliaid, ac mae treialon dynol wedi bod yn fyr, wedi'u cynnal ar oedolion iau neu rai â gordewdra yn bennaf, ac wedi canolbwyntio ar golli pwysau. Dywed y Sefydliad Cenedlaethol ar Heneiddio nad oes digon o dystiolaeth i argymell deietau ympryd i'r cyhoedd."
+  - q: "A yw ympryd ysbeidiol yn ddiogel i oedolion hŷn?"
+    a: "Efallai na fydd. Gall ympryd arwain at golli pwysau a chyhyrau yn annisgwyl, syched, pendro a chwympo, a gall achosi siwgr gwaed yn rhy isel mewn perygl i bobl sy'n cymryd inswlin neu rai meddyginiaethau eraill ar gyfer diabetes. Mae'r Clinig Mayo yn nodi efallai na fydd yn addas i bobl sydd mewn perygl uchel o golli densedd esgyrn a chwympo. Siaradwch â meddyg cyn rhoi cynnig arno."
+  - q: "A ddylai rhywun â dementia roi cynnig ar ympryd?"
+    a: "Na ddylai. Mae pobl sy'n byw gyda dementia yn aml yn cael trafferth bwyta ac yfed digon, a gall diffyg maeth gynyddu symptomau ymddygiadol ac achosi colli pwysau. Mae ympryd yn ychwanegu risg heb fudd profedig. Yn hytrach, canolbwyntiwch ar brydau bwyd a byrbrydau rheolaidd y maent yn eu hoffi, a sicrhau digon i yfed."
+  - q: "Beth yw'r arwyddion nad yw rhywun â dementia yn bwyta nac yn yfed digon?"
+    a: "Gwyliwch am golli pwysau, dillad yn dod yn rhyddach, blinder, gwendid, rhwymedd, neu wrthod bwyd. Mae arwyddion syched a restrir gan y Sefydliad Cenedlaethol ar Heneiddio yn cynnwys ceg sych, pendro, curiad calon cyflym a rhithiau. Dywedwch wrth eu meddyg os byddwch yn sylwi ar unrhyw un o'r rhain."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +50,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Mae ympryd ysbeidiol, fel bwyta dim ond o fewn wyth awr neu dorri calorïau yn sylweddol ddwy ddiwrnod yr wythnos, yn cael cryn dipyn o sylw, ac mae rhai erthyglau yn awgrymu y gallai amddiffyn yr ymennydd. Os ydych yn oedolyn hŷn, neu'n gofalu am rywun sy'n byw gyda dementia, dyma'r hyn y mae'r ymchwil yn ei ddangos mewn gwirionedd, a pham mae gofal yn bwysig.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Mae hwn yn wybodaeth gyffredinol, nid cyngor meddygol. Peidiwch â dechrau ympryd, nac â newid y ffordd mae'r person rydych yn gofalu amdano yn bwyta, heb siarad â meddyg neu ddeietegydd cofrestredig. Gweler ein [ymwadiad meddygol](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## A yw ympryd ysbeidiol yn atal dementia?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Nid oes tystiolaeth gadarn bod ympryd ysbeidiol yn atal nac yn arafu dementia. Dywed y Sefydliad Cenedlaethol ar Heneiddio nad oes digon o dystiolaeth i argymell unrhyw fath o gyfyngu ar galorïau neu ddeiet ympryd, a bod angen dysgu llawer mwy am eu heffeithiolrwydd a'u diogelwch, yn enwedig ar gyfer oedolion hŷn ([Sefydliad Cenedlaethol ar Heneiddio ar gyfyngu ar galorïau ac ympryd](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Pam mae'r dystiolaeth mor gyfyngedig
 
-The NIA gives several reasons:
+Mae'r Sefydliad Cenedlaethol ar Heneiddio yn rhoi sawl rheswm:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Mae'r rhan fwyaf o astudiaethau ar anifeiliaid.** Mae ymchwil ar fwydod, pryfed, llygod a mwncïod wedi cynhyrchu canlyniadau diddorol, ond nid yw'r canlyniadau hyn o reidrwydd yn berthnasol i bobl. Hyd yn oed mewn anifeiliaid, mae'r canlyniadau'n gymysg; mewn rhai straenau o lygod, bu cyfyngu ar galorïau yn byrhau oes.
+- **Mae treialon dynol wedi bod yn fyr.** Roedd y mwyafrif wedi para ychydig wythnosau neu fisoedd.
+- **Mae'r rhan fwyaf o dreialon dynol wedi canolbwyntio ar golli pwysau** mewn oedolion â gordewdra, nid ar gof neu dementia.
+- **Anaml y mae oedolion hŷn yn cael eu cynnwys.** Roedd llawer o dreialon yn recriwtio pobl 60 oed neu iau.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Edrychodd adolygiad systematig o 2026 yn benodol ar ympryd ysbeidiol mewn oedolion 60 oed a hŷn. Canfu fod y dystiolaeth yn y grŵp oedran hwn yn parhau i fod yn gyfyngedig, gydag astudiaethau bach, dilyniant byr a chynlluniau cymysg. Daeth canlyniadau am feddwl a chof o astudiaethau unigol yn hytrach na chanlyniadau cyfun treialon. Nododd yr adolygiad hefyd fod rhai astudiaethau wedi cysylltu cyfnodau bwyta byr iawn neu ympryd hir â chanlyniadau gwaeth, a chafodd yr awduron eu hannog i fod yn ofalus ar gyfer oedolion hŷn ([adolygiad 2026 yn Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Mae rhai ymchwilwyr yn meddwl y gall newid y corff i losgi braster yn ystod ympryd effeithio ar yr ymennydd, ond damcaniaeth sydd dan sylw o hyd yw hon. Mae'r Sefydliad Cenedlaethol ar Heneiddio yn nodi bod y wyddoniaeth yn ansicr.
 
-## What are the risks of fasting for older adults?
+## Beth yw'r risgiau o ympryd i oedolion hŷn?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Nid yw ympryd yn arbrawf diogel i lawer o bobl hŷn. Mae risgiau posibl yn cynnwys:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Colli pwysau yn annisgwyl.** Gall bwyta llai nag y mae'r corff ei angen arwain at golli pwysau a llai o gryfder cyhyrau, a all wneud person yn fwy bregus.
+- **Colli cyhyrau ac esgyrn.** Mewn treial dwy flynedd a gefnogwyd gan y Sefydliad Cenedlaethol ar Heneiddio ar gyfyngu ar galorïau mewn oedolion ifanc a chanol oed, roedd y cyfranogwyr wedi gweld gostyngiadau bach mewn dwysedd esgyrn a màs cyhyrau.
+- **Siwgr gwaed isel gyda meddyginiaethau ar gyfer diabetes.** Gall siwgr gwaed ddisgyn yn rhy isel mewn pobl sy'n cymryd inswlin neu rai meddyginiaethau eraill ar gyfer diabetes os ydynt yn hepgor neu'n oedi prydau bwyd, yn ôl y [Sefydliad Cenedlaethol ar Ddiabetes, Afiechydion Treulio a'r Arennau](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Gall siwgr gwaed isel achosi pendro, dryswch ac irritability.
+- **Sychd.** Os hepgorir diodydd ynghyd â phrydau bwyd, gall person ddod yn sychedig.
+- **Pendro a chwympo.** Mae'r Clinig Mayo yn nodi y gall ympryd ysbeidiol achosi teimlo'n flinedig iawn a phendro, ac efallai nad yw'n batrwm bwyta iach i bobl sydd mewn perygl uchel o golli densedd esgyrn a chwympo ([Clinig Mayo ar ympryd ysbeidiol](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Effeithiau eraill.** Mae'r Clinig Mayo hefyd yn rhestru cur pen, newidiadau hwyliau a rhwymedd, ac yn nodi bod rhywfaint o dystiolaeth y gall ympryd 16 awr gyda ffenestr fwyta 8 awr gynyddu'r risg o glefyd y galon o'i gymharu â ffenestri bwyta eraill. Nid yw'r dystiolaeth hon wedi'i sefydlu eto.
 
-## Why is eating enough the bigger concern with dementia?
+## Pam mae bwyta digon yn fwy o bryder gyda dementia?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+I bobl sy'n byw gyda dementia, y broblem arferol yw cael **digon** o fwyd a diod, nid gormod. Mae Cymdeithas Alzheimer yn egluro y gall pobl mewn cyfnodau canol neu hwyr deimlo dan bwysau gan ddewisiadau bwyd, anghofio bwyta, neu feddwl eu bod eisoes wedi bwyta. Mae'n ychwanegu y gall diffyg maeth gynyddu symptomau ymddygiadol ac achosi colli pwysau ([Cymdeithas Alzheimer ar fwyd a bwyta](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Mae Cymdeithas Alzheimer y DU yn nodi y gall peidio â bwyta digon arwain at golli pwysau, llai o gryfder cyhyrau, blinder a gwendid, gan wneud person yn fwy bregus a llai abl i wella o heintiau ([Cymdeithas Alzheimer y DU ar archwaeth](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Am y rhesymau hyn, nid yw ympryd yn syniad da ar gyfer rhywun sy'n byw gyda dementia.** Gall prydau bwyd a hepgorir droi'n brydau bwyd a gollir yn hawdd. Dylai unrhyw newid i'r ffordd mae person â dementia yn bwyta gael ei arwain gan eu meddyg neu ddeietegydd cofrestredig.
 
-## What are the warning signs of poor eating or drinking?
+## Beth yw'r arwyddion o beidio â bwyta nac yfed digon?
 
-Watch for:
+Gwyliwch am:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Colli pwysau**, neu ddillad yn ffitio'n rhyddach.
+- **Gadael bwyd neu wrthod prydau bwyd**, neu ddal bwyd yn y geg.
+- **Blinder neu wendid.**
+- **Rhwymedd**, a all fod yn gysylltiedig â diet a syched.
+- **Arwyddion syched.** Mae'r Sefydliad Cenedlaethol ar Heneiddio yn rhestru ceg sych, pendro, curiad calon cyflym, a rhithiau, a gall y rhain hefyd gael eu hachosi gan dementia ei hun ([Sefydliad Cenedlaethol ar Heneiddio ar broblemau meddygol cyffredin](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Mae llawer o achosion posibl dros archwaeth gwael: dannedd poenus neu ddannedd gosod rhydd, meddyginiaethau newydd, iselder, rhwymedd, llai o weithgaredd, neu newidiadau mewn blas ac arogl. Dywedwch wrth feddyg y person am unrhyw un o'r arwyddion hyn. Gallant chwilio am achos a gallant awgrymu deietegydd neu ychwanegion.
 
-## How can you help someone eat and drink enough?
+## Sut gallwch helpu rhywun i fwyta ac yfed digon?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Cynnig prydau bwyd a byrbrydau bach yn aml**, yn hytrach na thair pryd mawr.
+- **Gweinwch eu hoff fwydydd**, a bod yn hyblyg wrth i chwaeth newid. Efallai y bydd bwydydd melys yn dderbyniol os yw archwaeth yn isel; gofynnwch i'r meddyg a oes unrhyw reswm iechyd i gyfyngu ar siwgr.
+- **Cadwch ddiodydd o fewn cyrraedd** a chynnig cwpanau bach drwy'r dydd. Mae cawl, ffrwythau, smwddi a siacedi llaeth hefyd yn cyfrif.
+- **Bwytewch gyda'i gilydd** pan fyddwch yn gallu. Mae prydau bwyd yn gyfle i gael cwmni, nid tasg i'w rhuthro.
+- **Rhowch gynnig ar fwydydd bys**, fel brechdanau, tafelli ffrwythau neu ddarnau o gyw iâr, os yw defnyddio offer bwrdd wedi dod yn anodd.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Mae ein [canllaw diet](/brain-health/diet/) yn cynnwys mwy o syniadau ar gyfer amser prydau bwyd. Gall helpu i baratoi bwyd hefyd fod yn weithgaredd cyffredin braf i'w rannu; gweler [tasgau cartref](/activities/household-tasks/).
 
-## Talk with a doctor
+## Siaradwch â meddyg
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Cyn rhoi cynnig ar unrhyw gynllun ympryd eich hun, siaradwch â'ch meddyg neu ddeietegydd cofrestredig, yn enwedig os ydych yn cymryd meddyginiaethau ar gyfer diabetes neu bwysedd gwaed, wedi colli pwysau yn ddiweddar, neu wedi cael cwympo. Ar gyfer rhywun sy'n byw gyda dementia, gofynnwch i'w meddyg faint y dylent fod yn ei fwyta ac yn ei yfed bob dydd, yn hytrach na gofyn am ympryd.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Ceisiwch help meddygol brys am ddryswch sydyn, llewygu, neu arwyddion o siwgr gwaed yn isel iawn nad ydynt yn gwella'n gyflym.

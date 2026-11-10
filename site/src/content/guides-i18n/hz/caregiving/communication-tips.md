@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Omazuviro wokuhungira nomundu ngu novikondambunda"
+seoTitle: "Omazuviro wokuhungira: okutja nokuyandja ombango"
+description: "Omazuviro omatjate wokuhungira nomundu ngu hupa novikondambunda: okuṱuna ehungiro, okutja pendje yokupura nokurunga, nokupuratena."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Hungira poruveze pu pa mwina, tara momundu, ungurisa ena re, nu hungira
+  kouteṱe momambo omasupi nomapupu. Pura epuriro rimwe poruveze, yandja
+  omazuviro yevari pendje yomapuriro omapaturuke, nu undja orure pu
+  tji tji muna kutja orusupi. O mu sere okurwisa, okurunga poo okupura
+  otja omakonḓononeno. Zirire koumune mbu ri kombunda yomambo, nu ungurisa
+  okutuna, ozombendero novitjengisa omambo tji maye rire omakukutu.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Isa ombosiro yombunda nu muna omutima nomuho ngunda au hiya hungira."
+  - "Ungurisa omambo omasupi, ondunge imwe poruveze, nomana pendje yotja eye, oyo poo owo."
+  - "Yandja ezuviro pokati koviviri, poo epuriro ndi ri ee poo indee, pendje yomapuriro omapaturuke."
+  - "Undja eziriro. Tji ve hi nokuzuva nawa, hungira omambo tjingewo, nu kombunda ungurisa omambo omape."
+  - "O mu sere okurwisa poo okurunga. Zirire koumune mbu ri kombunda ya imbi mbi mave tja."
+  - "Omambo tji maye nana, hungira mokutuna, eraka, omurungu nozombendero novitjengisa mu mu tara pamwe."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ovikeṋa mbi hi sokutjivirwa omundu ngu novikondambunda?"
+    a: "Yandja ombango komapuriro wokurora (\"U zemburuka...?\"), okurunga (\"Opo posyo\"), okuvezemburukisa ozondataiziro (\"Ami mbe ku raerere rukuru\") nokuhungira ohunga na ye otja tje he ri po. Yandja ombango komahungiro wovanatje. Ihi tji eta ohoni poo ombamutima nu ka tji vatera."
+  - q: "Hi sokumurunga indu tji va posa oviṋa?"
+    a: "Potuingi indee. Tji otjiṋa tji tja posa tji hi nokuyeta oumba, tji esa. Okurwisa potuingi ka ku rundurura ombango yomundu nu povikando ovingi ku mu hihamisa. Yandera koumune we na ku imbi mbi ma hepa nai."
+  - q: "Hi tjiti vi indu tji ve hi nokumuna embo?"
+    a: "Rutenga ve pa oruveze. Tji mave munika kutja mave kondjo tjinene, o sema okuveyandjera embo kouteṱe poo okurora kutja mave hee tjike nokukonḓonona. Okuraisa nomunwe, ovitjengisa nozombendero wina mavi yenene okuvatera."
+  - q: "Hi hungire vi nomundu ngu ri morukondwa orusenina rwovikondambunda nu ngu ha hungire tjinene?"
+    a: "Enda ku ye okuza komurungu, tja kutja oove uṋe, nu ungurisa eraka ekutu nokutuna kouteṱe. Tara omirungu norutu okutjiwa omuinyo. Okukara kwoye, eimburiro ndi va tjiwa poo okukwaterasana omake ku yenena okuhungira ovingi nandarire nokuhina omambo."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Ovikondambunda mavi yenene okutjita kutja ku rire oukukutu okumuna omambo, okuzuva embo erire, poo okuyandja ombango kombosiro yombunda. Ihi katji hee kutja omundu wa isa okuvanga okukara pamwe novakwao. Omazuviro omanḓiṱi mokuṱuna ehungiro, momuano mu mo hungire na momuano mu mo puratene maye yenene okutjita kutja okuhungira ku rire okupupu nokukutura ku eṋe aveyevari.
 
-## What are the most important tips for talking with someone who has dementia?
+## Omazuviro yeṋe omanandengu tjinene mokuhungira nomundu ngu novikondambunda?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Muna ombango ye, kara noupupu, nu kara nomuretima. Tji wa zemburuka oviṋa vitano uriri:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Tjita kutja ondjuwo i mwine nu tara ku ye.** Zepa o-TV, kara pehi moruveze rwomeho, nu ungurisa ena re.
+2. **Tja otjiṋa tjimwe poruveze.** Omambo omasupi, ondunge imwe, epuriro rimwe.
+3. **Yandja ezuviro pokati koviviri.** "Otee poo okofi?" ku pupu pu "Mo vanga tjike?"
+4. **Undja.** Yandja oruveze oruingi okuzira pu tji tji muna kutja orusupi, nu kondja okuha tjaerera pokati.
+5. **O mu sere okurwisa poo okupura otja omakonḓononeno.** Zirire koumune mbu mave raisa, ka kouṱakame woviṋa.
 
-## How should I start a conversation?
+## Hi sokuta vi ehungiro?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Ṱuna oviṋa kutja omundu ma yenene okuyandja ombango ku ove. [Omuhunga wa Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) u tunduuza okutja rutenga isa ombosiro: zepa oradio poo o-TV, pata ozoketena poo omuvero, poo ryanga koruveze pu pa mwina.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Enda ku ye okuza komurungu.** Okuyenda okuza kombunda poo pomunda ku yenena okumuhingisa.
+- **Tja kutja oove uṋe.** "Moro Tate, owami Sarah, omuatje woye omukazona." Ihi tji mu vatera kutja a ha paha ena roye.
+- **Rira moruveze rwomeho we.** Tji ma kara pehi, kara pehi poo twika ozongoro kutja omeho woye ye kare moruveze rumwe.
+- **Tara omurungu woye neraka roye.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) i tunduuza okukara nondjiviro yeraka roye, oure wero, omurungu woye norutu roye, nokukondja okuraisa omuinyo omuwa noupupu.
+- **Tjiwa kutja ozombakete zomeho nozokuzuva ze ri po.** Ouzeu okuzuva ehungiro ndi u hi nokumuna poo okuzuva nawa.
 
-## How should I phrase what I say?
+## Hi sokutja vi imbi mbi me hungire?
 
-Use simple words, short sentences and a calm, low voice.
+Ungurisa omambo omapupu, omambo omasupi neraka ekutu nda he ri kombanda.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Ondunge imwe membo rimwe.** "Ngatu zare ombaka yoye. Nu matu piti pendje." Ka moviṋa vivari poruveze rumwe.
+- **Ungurisa omana, ka omambo wokuisapo.** "Inakulu Jean wa ningira" ku zuvaka nawa pu "Eye wa ningira."
+- **Isa eraka kehi, ka kombanda.** Family Caregiver Alliance i tunduuza eraka nda ri kehi pendje yokuisa kombanda.
+- **Hungira rukwao, nu tjita omambo omape.** Tji ve hi nokuzuva, hungira omambo tjingewo rukwao rumwe. Tji ku hi nokuvatera, undja okaruveze nu ungurisa omambo warwe.
+- **Raisa nu wina tja.** Raisa komakopi, yera ozombanda mbari, poo raisa ondanaukiro ondenga.
+- **Hungira na ye, ka ohunga na ye.** NIA i tjaera okuhungira ohunga nomundu otja tje he ri po, nokuhungira otja kovanatje.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA i yandja omiano omipupu vyomapuriro womayuva aehe. Ngeri omihorera mehupo ndo:
 
-| Instead of | Try |
+| Pendje ya | Rora |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Mo vanga tjike keriro rongurova?" | "Mo vanga ohi poo ohunguriva?" |
+| "U ri vi?" | "U muna ondjasu?" |
+| "U nondjara?" | "Eriro rongurova mari kara po moure wominute ndano." |
+| "Ka tji tjitwa nao." | "Ngatu rore nao." |
+| "U zemburuka oruyenda rwetu ketjombo?" | "Ami me ripura noruyenda rwetu ketjombo. Ndjiraera imbi mbi wa suverere mu ro." |
+| "Ami mbe ku raerere rukuru." | Zirire rukwao, nomutima omuwa, otja potjikando otjitenga. |
 
-## How do I listen well?
+## Me puratene vi nawa?
 
-Listen for the meaning and the feeling, not just the words.
+Puratena kondunge nokoumune, ka komambo uriri.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Undja.** Omwina povikando ovingi oruveze rwokuripura. Vara kouteṱe nga komurongo ngunda au hiya ya mo.
+- **Yandja embo tji va kambulwa uriri.** Family Caregiver Alliance i tja o sema okuyandja omambo omundu tji ma kondjo.
+- **Konḓonona imbi mbi wa zuu.** [Omuhunga wokuhungira wa Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) u tunduuza okutarera kondunge ndji ri kombunda yomambo nokuihungira rukwao okukonḓonona kutja wa zuva nawa. "U nomeripura nohina?"
+- **Tara omurungu norutu rwe.** Omambo tji maye rire omakukutu, NIA i tja, omirungu mai raisa nawa oruhoze, omazenge poo ombamutima pu nomambo.
+- **Yakura omeripura nouṱakame.** Nandarire tji eripura ra zikamena kotjiṋa tji tja posa, oumune owo ouatjiri.
 
-## What if they say something that is not true?
+## Vi tji va tja otjiṋa tji tji he ri ouatjiri?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+O rwisa. Ka pe nokukara omasa kutja mo toṋa, nu omundu ma yenene okumuna ohoni poo okutira. Pendje na po, kara pamwe noumune, nu kombunda ryanga kouteṱe.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance i tunduuza okuyakura omuinyo ngunda au hiya rundurura ondjira. Otjotjihorera, tji mama woye ma panḓere kutja ma sokukatoora ovanatje posikore:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Pendje ya: "Mama, ovanatje voye va kurire. Pa pita ozombura omirongo vine."
+- Rora: "Ove aruhe wa ri ina omunatjari. Ndjiraera ohunga nokukevetoora. Ngatu ri otjokuria otjiṱiṱi rutenga?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association wina i tunduuza okuha rwisa ohunga noviṋa mbi u hi nokuyakura. Toorora oruveze: tji ondjiviro ndja posa kai nokuyeta oumba, i esa.
 
-## How does communication change as dementia progresses?
+## Okuhungira ku runduruka vi ovikondambunda tji mavi kurire ko?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Omahepero ye runduruka moruveze, okutja rundurura omuano woye. Alzheimer's Association i kahurura ozombazu ndatu ozonene:
 
-| Stage | What helps |
+| Orukondwa | Otji tji vatera |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Etenga | O kambura kutja ka ve yenene okuhungira. Ve eta momahungiro, hungira na wo oveni, pura ombatero ndji mave vanga, nu ungurisa omanyando tji maye vatera. |
+| Pokati | Omahungiro pokati komundu nomundu poruveze pu pa mwina. Hungira kouteṱe, kara nomutima nomuho, ungurisa omapuriro ee poo indee, yandja omaraerero konḓunḓu imwe aihe, nu o ve nyonḓorora poo okuverunga. |
+| Orusenina | Enda ku wo okuza komurungu nu tja kutja oove uṋe. Ve tunduuza okuraisa nomunwe novitjengisa. Ungurisa okutuna, ombosiro, imbi mbi mave munu nozombepo. O hungire nao otja tji ve he ri po. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Omundu auhe wa panguka, nu omundu tjingewo ma yenene okukara nomayuva omawa nomakukutu. Zirire komuano mu ve ri nai, ka kembo ndi ri kombanda yawo.
 
-## Can pictures and activities make conversation easier?
+## Ozombendero novitjitwa mavi yenene okutjita kutja ehungiro ri rire olupupu?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ii. Ombendero ndji mu tara pamwe i isa ombingiro nu i mu pa eṋe aveyevari otjiṋa okutara nokuraisa nomunwe.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Ozombendero zokuta ehungiro.** [Conversation Cards](/games/conversation-cards/) ze yandja ozombendero nomapuriro omapaturuke nge hi nokupura otja omakonḓononeno.
+- **Ozombendero zeṱunḓu.** [Photo Pairs](/games/photo-pairs/) i tjita ozombendero nḓu wa toorora otjotjitwa tjokuyapurasana kouteṱe, nu povikando ovingi tji eta omahungi.
+- **Omambo womapanga nge tjiukwa.** [Finish the Saying](/games/finish-the-saying/) i ungurisa omambo womapanga nga tjiukwa nawa, nu kombunda ku kara epuriro rokuhungira.
+- **Ovitjitwa vyokuyapurasana otjombunda.** [Picture Pairs](/games/picture-pairs/) i pa omake woye otjiṋa okutjita ngunda amu hungire.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Tara [omuano wokunyanda pamwe](/caregiving/how-to-play-together/) na [ovitjitwa vyokuzemburuka](/activities/reminiscence/) komakwizikiro warwe. Komaryangeero nomangiriro, lesa omihunga vyetu ohunga [nomaryangeero](/activities/visiting/) na [nomangiriro wongodi novidiyo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Vi tji mba pandjara omuretima wandje?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Tji tjitwa ku auhe. NIA i tunduuza kutja tji wa hihamwa omutima, toora oruveze okurikutura. Ryanga kondjuwo yarwe, suvana kouteṱe povikando oviṱiṱi, nu kotoka tji wa kutura. Mo yenene okuta ehungiro rukwao, nu omundu ma yenene okuzira nawa komuinyo woye omukutu. Tji ombamutima mai rire otjiṋa tje yenda komurungu, ihi otjiraisiro kutja mo hepa ombatero yokomurungu, ka kutja mo pandjara. Omuhunga wetu ohunga [nokuriyandja ombango omuṱakamise](/caregiving/caregiver-self-care/) u na pu mo yenene okupa ombatero.

@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Aktivite sou Telefòn ak Apèl Videyo pou Moun ki gen Demans"
+seoTitle: "Aktivite Apèl Videyo pou Demans"
+description: "Aktivite sou apèl videyo ak telefòn pou fanmi ki lwen yon moun ki gen demans: montre bagay, lekti awotvwa, chante, jwèt sou ekran pataje ak konsèy."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Apèl ak yon moun ki ap viv ak demans mache pi byen lè yo kout, regilye, epi
+  yo bati sou yon bagay pou nou fè ansanm, tankou montre yon bèt kay oswa jaden
+  an, gade foto, li awotvwa, chante yon chante li renmen, oswa jwe yon jwèt
+  dous sou yon ekran pataje. Rele a menm lè chak jou si ou kapab, kite yon sèl
+  moun pale alafwa, epi mande yon moun ki sou plas la pou ede.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Yon aktivite bay apèl la yon fòm epi li retire presyon sou konvèsasyon an. Planifye yon bagay senp pou pataje."
+  - "Apèl kout, regilye, a menm lè nan jounen an souvan mache pi byen pase apèl long ki fèt detanzantan."
+  - "Yon sèl moun pale alafwa. Apèl an gwoup kote tout moun ap pale ansanm difisil pou swiv, sitou lè gen pwoblèm tande."
+  - "Yon moun ki sou plas la ka prepare aparèy la, chita bò kote moun nan, epi sèvi kòm «men» pou nenpòt jwèt oswa foto."
+  - "Si yon apèl pa mache byen jodi a, fini l ak dousè. Ou ka eseye ankò demen."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Kisa mwen ka fè sou yon apèl videyo ak yon moun ki gen demans?"
+    a: "Planifye yon aktivite senp: montre jaden ou, bèt kay ou oswa kwizin ou; gade ansyen foto ansanm; li yon ti powèm oswa yon lèt awotvwa; chante yon chante moun nan renmen; kwit menm resèt la an menm tan; oswa jwe yon jwèt foto dous sou yon ekran pataje. Aktivite yo bay apèl la yon sijè klè pou moun nan pa bezwen pote konvèsasyon an."
+  - q: "Konbyen tan yon apèl videyo ta dwe dire?"
+    a: "Anjeneral pi kout pase sa ou panse. Kèk minit cho ka ase, sitou si moun nan fatige vit. Rele regilyèman a menm lè nan jounen an ka pi enpòtan pase konbyen tan chak apèl dire."
+  - q: "E si moun nan vin konfonn oswa fache ak apèl videyo?"
+    a: "Gen kèk moun ki jwenn yon figi sou yon ekran konfonn. Eseye yon apèl telefòn senp, yon mesaj videyo ou anrejistre ke moun ki ede a ka jwe nan yon moman kalm, oswa kat ak foto nan lapòs. Si yon apèl pa ale byen, fini l ak jantiyès epi eseye ankò yon lòt jou oswa nan yon lòt lè."
+  - q: "Kouman mwen ka ede manman m fè apèl videyo si li pa ka sèvi ak telefòn nan?"
+    a: "Mande yon manm fanmi, yon èd a domisil, oswa yon anplwaye nan kay swen an pou kòmanse apèl la epi kenbe oswa poze aparèy la. Anpil kote swen ede fanmi ak apèl videyo, kidonk mande sa yo ofri. Yon tablèt sou yon sipò, ak yon gwo ekran epi son ki ase fò pou tande, rann sa pi fasil pou tout moun."
+  - q: "Èske nou ka jwe yon jwèt ansanm sou videyo?"
+    a: "Wi. Fason ki pi fasil la se pou yon moun pataje ekran li nan aplikasyon videyo a pandan lòt moun nan di l ki foto pou li tape. Oswa, moun ki sou plas la ka ouvri menm jwèt la sou yon tablèt epi tape pou moun nan pandan w ap pale avè l. Chwazi jwèt ki pa gen revèy oswa nòt."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Lè ou rete lwen yon moun ki gen demans, ou ka santi ou san sekou. Apèl sou telefòn ak apèl videyo p ap ranplase yon bèl akolad, men yo ka toujou pote vrè moman koneksyon lè ou byen prepare yo. Bagay enpòtan an se sispann eseye fè yon konvèsasyon nòmal epi planifye yon bagay senp pou pataje olye. Paj sa a prezante aktivite ki mache sou apèl videyo ak apèl telefòn, kijan pou prepare apèl la, ak sa moun ki sou plas la ka fè pou ede.
 
-## Why plan an activity for a call?
+## Poukisa planifye yon aktivite pou yon apèl?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Yon aktivite bay apèl la yon fòm. «Kouman ou ye? Kisa ou te fè jodi a?» mande moun nan pou l sonje epi rakonte, sa ki ka difisil epi bay estrès. «Gade, tomat yo mi» pa mande l anyen ditou.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association fè remake ke konvèsasyon ak pi gwo gwoup sou videyo ka difisil, epi li sijere [ajoute yon estrikti nan apèl la](https://www.alz.org/help-support/caregiving/holidays) ak bagay tankou chante oswa pataje foto.
 
-## What activities work on a video call?
+## Ki aktivite ki mache sou yon apèl videyo?
 
-### Show and tell
+### Montre epi rakonte
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Pote monn ou vin jwenn moun nan. Deplase kamera a dousman nan jaden ou, prezante chen an, montre sa w ap kwit, leve yon desen yon pitit pitit fè, oswa vize telefòn nan nan fenèt la pou montre nèj la. Dekri sa ou wè ak mo senp epi kite ti poz pou moun nan reyaji. Pa bezwen kesyon.
 
-### Look at photos together
+### Gade foto ansanm
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Kenbe yon ansyen foto enprime devan kamera a, oswa pataje ekran ou pou montre kèk gwo foto, youn alafwa. Pale sou sa ou remake: «Gade chapo Granpapa.» Evite «Kimoun sa ye?» oswa «Èske ou sonje?» Si moun nan nonmen yon moun mal, ale avèk sa l di a. Gade [gid sou rapèl souvni](/activities/reminiscence/) nou an pou kèk sijesyon dous.
 
-### Read aloud
+### Li awotvwa
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Li yon ti powèm, yon sòm, yon liv pou timoun ou renmen pou yon pitit pitit sou menm apèl la, yon lèt yon fanmi voye, oswa yon paj nan yon liv moun nan te renmen. Lè ou li awotvwa, sa bay moun nan yon bagay kalm pou l koute san li pa bezwen reponn.
 
-### Sing or listen to music together
+### Chante oswa koute mizik ansanm
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Chante yon chante moun nan byen konnen, oswa jwe yon mizik li renmen bò pa w. Chante ansanm pi fasil pase pale pou anpil moun. Gade [gid aktivite mizik](/activities/music/) nou an.
 
-### Cook or bake at the same time
+### Kuit oswa fè patisri an menm tan
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association sijere planifye yon apèl videyo pou kwit oswa fè patisri yon resèt espesyal ansanm. Prepare apèl la nan toude kwizin yo. Moun ki sou plas la ka brase oswa goute pandan w ap suiv ansyen kat resèt li a.
 
-### Watch something together
+### Gade yon bagay ansanm
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Asosyasyon an sijere tou gade yon fim ou renmen an menm tan soti nan kay diferan pandan w ap pale nan telefòn oswa sou videyo. Pou yon moun ki gen demans, yon ti ekstrè, yon ansyen epizòd televizyon oswa yon match boul ka mache pi byen pase yon fim antye.
 
-### Play a gentle game on a shared screen
+### Jwe yon jwèt dous sou yon ekran pataje
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Anpil aplikasyon apèl videyo pèmèt ou pataje ekran ou. Ou ouvri jwèt la epi ou tape; moun nan di ou oswa montre w ki foto pou chwazi. Oswa, moun ki sou plas la ouvri menm jwèt la sou yon tablèt epi tape pou li pandan w ap pale avè l.
 
-Games that work well this way:
+Jwèt ki mache byen konsa:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** ou li ekspresyon abityèl la, moun nan di fen l, epi yon ti gid pale suiv.
+- **[Picture Pairs](/games/picture-pairs/):** yon jwèt matche dous ak gwo foto ki ka rete vizib, san revèy epi san nòt.
+- **[Conversation Cards](/games/conversation-cards/):** yon foto ak yon sijesyon ouvè pou pale sou li ansanm.
+- **[Photo Pairs](/games/photo-pairs/):** yon jwèt matche ki fèt ak foto ou chwazi sou aparèy pa w. Foto yo rete nan navigatè ou, epi moun nan wè yo atravè ekran ou pataje a.
 
-### Recorded messages
+### Mesaj ou anrejistre
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Lè apèl an dirèk difisil, anrejistre yon ti videyo: yon bonjou, yon chante, yon ti mache nan lakou ou. Moun ki ede a ka jwe li nan yon moman kalm, plis fwa si moun nan renmen sa. Alzheimer's Association mansyone anrejistre epi voye moman espesyal, tankou timoun k ap ouvri kado.
 
-## What about plain phone calls?
+## E apèl telefòn senp yo?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Apèl telefòn toujou enpòtan. Dementia Australia sijere [rele a menm lè chak jou](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) epi pa prese, paske moun ki gen demans ka pran tan pou yo antre nan konvèsasyon an. Nan telefòn:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Di non ou ak relasyon ou touswit: «Bonjou Papa, se Jenny, pitit fi ou.»
+- Pale dousman, ak fraz kout, yon sèl lide alafwa.
+- Bay nouvèl olye pou w mande nouvèl: «Mwen te fè resèt vyann boukannen ou a yè swa.»
+- Li yon ti powèm, oswa chante yon kouple nan yon chante li renmen.
+- Kenbe l kout epi fini sou yon nòt cho.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia fè remake tou ke apèl videyo ka ede lè pale vin pi difisil, paske moun nan ka wè figi ou. Si apèl telefòn yo vin konfonn, eseye videyo, oswa fè lòt jan an.
 
-## How do I set up a video call that works?
+## Kouman pou mwen prepare yon apèl videyo ki mache byen?
 
-**Before the call:**
+**Anvan apèl la:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Chwazi yon lè regilye** lè moun nan anjeneral repoze, epi kenbe menm lè a. Woutin ede.
+2. **Kowòdone ak moun ki sou plas la.** Yon ti mesaj jou anvan an ede yo planifye.
+3. **Tcheke aparèy la.** Yon tablèt sou yon sipò pi fasil pase yon telefòn ou kenbe nan men. Asire w li chaje, ekran an klere, epi son an ase fò. Limen soutit si aplikasyon an ofri yo epi moun nan li byen.
+4. **Planifye yon aktivite** epi prepare tout bagay davans.
 
-**During the call:**
+**Pandan apèl la:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Chita pre kamera a** nan bon limyè, fè fas ak yon fenèt olye pou fenèt la dèyè ou.
+- **Prezante tèt ou** chak fwa, ak non ou ak relasyon ou.
+- **Yon sèl vwa alafwa.** Alzheimer's Association fè remake ke pale youn sou lòt difisil pou moun k ap viv ak demans ak moun ki gen pwoblèm tande. Si plizyè fanmi rantre, pale youn apre lòt oswa kenbe l a de oswa twa moun.
+- **Poze yon sèl kesyon alafwa.** Family Caregiver Alliance sijere [kesyon senp ak repons wi oswa non](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), epi montre chwa lè ou kapab.
+- **Kite poz long.** Tann yon repons. Li pa gen pwoblèm si ou sijere yon mo lè moun nan ap chèche li.
+- **Sèvi ak figi ou ak vwa ou.** Sourire, fè siy tèt ou, epi kenbe ton ou cho. Ekspresyon souvan di plis pase mo.
+- **Pa korije.** Si moun nan di yon bagay ki pa egzak, kite l pase.
 
-**Ending the call:**
+**Lè w ap fini apèl la:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Fini anvan moun nan fatige, pi bon sou yon bon nòt.
+- Sèvi ak menm pawòl orevwa yo chak fwa: «M ap rele ou demen nan lè manje midi. Mwen renmen ou.»
+- Pa fè l dire twò lontan.
 
-## Tips for the helper on site
+## Konsèy pou moun ki ede sou plas la
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Si se ou ki konjwen, èd, frè oswa sè, oswa anplwaye k ap ede ak apèl la, se ou ki rann li posib.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Prepare yon kote ki trankil.** Fèmen televizyon an epi fèmen pòt la.
+- **Kòmanse apèl la ou menm,** epi apre sa bay moun nan yon tablèt sou yon sipò oswa kenbe l nan nivo je.
+- **Chita bò kote l, pa devan l.** Prezans ou bay moun nan sekirite. Fè yon ti rapèl dous si sa nesesè: «Gade, se Jenny.»
+- **Sèvi kòm men yo.** Kenbe foto yo, tape sou jwèt la, vire tablèt la pou montre chanm nan.
+- **Gade si moun nan fatige oswa fache,** epi fè moun k ap rele a konnen lè li lè pou fini.
+- **Di moun k ap rele a sa ki te mache.** «Li te renmen chen an» ede planifye pwochen apèl la.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA sijere fanmi ki lwen ka ede yon moun ki pi gran [aprann fonksyon telefòn li](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), tankou apèl videyo. Nan etap ki vin apre yo, moun ki ede a anjeneral ap bezwen okipe aparèy la nèt. Sa pa gen pwoblèm.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Si moun nan ap viv nan yon kay swen, Alzheimer's Foundation of America sijere mande si etablisman an ede fanmi ak apèl videyo. AFA mansyone tou ke fanmi ka voye foto bay anplwaye swen yo epi resevwa foto tou, epi voye ti goute oswa ti bagay ki bay konfò, apre yo fin verifye sa etablisman an pèmèt.
 
-## What if the call doesn't go well?
+## E si apèl la pa ale byen?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Gen apèl ki pral konfonn, san anpil enèji, oswa ki pral boulvèse. Sa pa fòt ou, epi sa pa vle di apèl yo pa vo lapèn.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Si moun nan sanble konfonn pa ekran an, chanje pou yon apèl telefòn oswa yon mesaj ou anrejistre.
+- Si moun nan vin fache, rekonèt santiman an, di yon bagay ki bay sekirite, epi fini ak dousè.
+- Si apèl yo souvan pa ale byen nan yon lè nan jounen an, eseye yon lòt lè.
+- Si moun nan panse ou se yon lòt moun, ale avèk sa l panse a ak jantiyès.
 
-It is fine to end early. A short, warm call is a good outcome.
+Li pa gen pwoblèm pou fini pi bonè. Yon apèl kout, cho se yon bon rezilta.
 
-## Between calls
+## Ant apèl yo
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Rete prezan nan lòt fason. Dementia Australia sijere voye kat, imèl, foto oswa ti kado. Yon kat postal chak semèn ak yon sèl gwo foto ak yon ti nòt kout ka li plizyè fwa. [Kat konvèsasyon](/games/conversation-cards/) ou ka enprime epi voye bay moun ki ede a ka bay pwochen apèl la yon sijè ki deja pare.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Pou konsèy sou kijan pou chwazi ak prepare yon tablèt, gade [tablèt ak ekran](/caregiving/tablets-and-screens/). Pou moman ou pase ansanm an pèsòn, gade gid nou an sou [vizit](/activities/visiting/).

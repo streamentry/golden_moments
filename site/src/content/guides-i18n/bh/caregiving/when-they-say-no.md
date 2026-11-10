@@ -1,34 +1,34 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "जब डिमेंशिया वाला व्यक्ति गतिविधि से माना करे भा खीझ जाए"
+seoTitle: "जब डिमेंशिया वाला व्यक्ति गतिविधि से माना करे"
+description: "जाने खातिर कि डिमेंशिया वाला व्यक्ति गतिविधि से काहे माना कर सकेला, एकरा बदला का करीं, काहें से बचीं आ कब डॉक्टर से मिले के जरूरत बा।"
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  जब डिमेंशिया के साथ जी रहल व्यक्ति माना करे, त ओकरा के शांति से स्वीकार करीं आ
+  बाद में कोशिश करीं भा कुछ दोसर करीं। माना करे के पाछे अक्सर कौनों कारण होखेला:
+  काम बहुत कठिन भा लइका नियन लागल, ऊ थक गइल बाड़न, दर्द में बाड़न, भूख लागल बा,
+  भा हो-हल्ला से घबरा गइल बाड़न। बहस भा जिद्द मत करीं। काम के आसान बनाईं, दू गो
+  विकल्प दीं, भा उनुकर मदद माँगीं। बेवहार में अचानक भा तेजी से बदलाव, खास क के
+  कौनों इन्फेक्शन या नया दवाई के बाद, तुरंत डॉक्टर के देखावे के जरूरत होखेला।
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "\"ना\" एगो अइसन जवाब हवे जेकर आदर करे के चाहीं, कौनों अइसन समस्या ना जेकरा से जूझे के पड़े।"
+  - "माना करे के पाछे अक्सर कौनों वजह होखेला: काम बहुत कठिन, लइका जइसन, थकावट, तबियत खराब, बेचैनी, भा बहुत ढेर परेशानी।"
+  - "थोड़ा पीछे हटीं, इंतजार करीं, आ बाद में, दोसरा समय भा आसान तरीका से कोशिश करीं।"
+  - "काम क के देखावे के कहे से बेहतर बा कि रउआ उनुका से मदद माँगीं।"
+  - "कबहूँ बहस, जिद्द, सवाल-जवाब भा टोक-टाक मत करीं। देखीं कि कहीं रउआ जल्दबाजी भा ज्यादा दबाव त नइखीं बनावत।"
+  - "बेवहार में अचानक भा तेजी से बदलाव आवे, खास क के इन्फेक्शन या नया दवाई के साथ, त तुरंत डॉक्टर से मिले के चाहीं।"
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "का गतिविधि के पूरा छोड़ देहल ठीक बा?"
+    a: "हँ, कौनों भी दिन अइसन कइल जा सकेला। संगे बइठल, संगीत सुनल भा बस आसपास देखल भी काफी हो सकेला। अगर केहू हफ्तन ले हर चीज में रुचि लेहल बंद कर दे, त डॉक्टर से बात करीं, काहे कि उदासी, दर्द भा सेहत के दोसर समस्या एकर कारण हो सकेला।"
+  - q: "ऊ ऊहो काम से काहे माना करेलन जे उनुका पहिले बहुत पसंद रहे?"
+    a: "पुरान शौक से खीझ तब हो सकेला जब ओकरा खातिर अइसन हुनर के जरूरत होखे जे डिमेंशिया के चलते कठिन हो गइल बा, आ व्यक्ति झेंप महसूस कर सकेला। ओही गतिविधि के कौनों आसान हिस्सा आजमाईं, जइसे कि सिलाई के बदला बटन अलग कइल, भा बागबानी करे के बदला बगइचा के फोटो देखल।"
+  - q: "का हमरा उनुका के मनावे के कोशिश करे के चाहीं?"
+    a: "ना। कौनों अइसन काम करे खातिर दबाव बनावल जे डिमेंशिया के चलते मुश्किल हो गइल बा, खीझ आ बेचैनी बढ़ावे के जानल-मानल कारण हवे। माना कइल स्वीकार करीं, बात बदलीं, आ बाद में भा कौनों दोसरा तरीका से पेश करीं।"
+  - q: "बेवहार में बदलाव कब आपात स्थिति मानल जाई?"
+    a: "अगर केहू खतरा में होखे भा मेडिकल इमरजेंसी के लक्षण लउके, त 112 पर फोन करीं। अचानक भ्रम भा अइसन बेवहार जे कुछ घंटा या दिन में तेजी से बदल रहल बा, खास क के बुखार, इन्फेक्शन भा नया दवाई के साथ, त तुरंत उनुकर डॉक्टर से संपर्क करीं।"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+रउआ सब कुछ तइयार कइलीं, कौनों खेल भा टहले के कहलीं, आ उनुकर जवाब मिलल "ना।" भा गतिविधि ठीक-ठाक शुरू भइल बाकिर अंत में टैबलेट हटा देहल गइल आ कड़ा बोल सुनल गइल। ई निराश करे वाला हो सकेला, आ ई बहुत आम बात हवे। माना कइल आ खीझ अक्सर कौनों संदेश होला, ना कि जिद। ऊ संदेश का बा, ई समझला से अक्सर ई रास्ता लउक जाला कि आगे का आजमावे के चाहीं।
 
-## Why does someone with dementia refuse activities?
+## डिमेंशिया वाला व्यक्ति गतिविधि से काहे माना कर सकेला?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+अक्सर एकर कौनों कारण होखेला, भले ही ऊ व्यक्ति आपन बात शब्द में ना कह पावत होखे। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) बतावेला कि माना करे के मतलब ई हो सकेला कि ऊ काम उनुका से नइखे हो पावत भा ऊ कोशिश करे से डेरात बाड़न। आम कारणन में शामिल बा:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **काम बहुत कठिन लागल।** गतिविधि में अब अइसन हुनर के जरूरत बा जे डिमेंशिया के चलते मुश्किल हो गइल बा, आ केहू के सोझा असफल होखल झेंप भा सरमिंदगी पैदा करेला।
+- **लइकन जइसन लागल।** वयस्क लोग कार्टून नियन तस्वीर, बचकाना आवाज आ लइकन खातिर बनल गतिविधि के भांप जाला।
+- **थकावट।** कई लोगन में दिन ढलला पर ऊर्जा कम हो जाला। देखीं [सांझ खातिर शांत गतिविधि](/caregiving/late-day-restlessness/)।
+- **शारीरिक तकलीफ।** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) दर्द, नींद के कमी, देखे भा सुने में परेशानी, कब्जियत, भूख, पियास आ नया दवाई के साइड इफेक्ट्स के बेचैनी के संभावित कारण बतावेला।
+- **आसपास ढेर हलचल।** तेज आवाज में टीवी, कई लोगन के बातचीत भा भीड़भाड़ वाला कमरा परेशान कर सकेला।
+- **दबाव महसूस होखल।** NIA बतावेला कि कौनों अइसन काम करे खातिर दबाव बनावल जे अल्जाइमर के चलते बहुत मुश्किल हो गइल बा, भा घटना आ लोगन के याद करे पर जोर देहल, खीझ आ बेचैनी के कारण बन सकेला।
+- **उदासी भा मन ना लगना।** कामन में रुचि खतम होखल डिप्रेशन के लक्षण हो सकेला, जेकरा बारे में डॉक्टर से बात कइल उचित बा।
+- **बस मन ना होखल।** बड़ लोगन के ना कहे के पूरा हक बा।
 
-## What should I try when they say no?
+## जब ऊ माना करस त हमरा का करे के चाहीं?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+ना के शांति से स्वीकार करीं, फिर कुछ बदलीं: समय, गतिविधि, ओकर कठिनाई भा पूछे के तरीका।
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **एह समय खातिर छोड़ दीं।** "ठीक बा। फेर कबहूँ करब।" एकरा बाद बिना कौनों आह भरले दोसर काम में लग जाईं।
+2. **बाद में फेर कोशिश करीं।** Alzheimer's Association सुझाव देवेला कि बाद में, भा दिन के कौनों दोसरा बेरा फेर से कोशिश करीं।
+3. **छोटा रूप दीं।** पूरा खेल के जगह बस एगो मिलान। धोवे वाला कपड़ा के टोकरी के जगह एगो तौलिया। कम तस्वीर, कम विकल्प, आ तस्वीरन के लउकत छोड़ दीं।
+4. **दू गो विकल्प दीं।** "का रउआ चिरई के फोटो देखल चाहब कि कुछ गाना सुनल चाहब?" विकल्प देहला से उनुका आपन नियंत्रण महसूस होखेला।
+5. **काम क के देखावे के जगह मदद माँगीं।** "का रउआ एकरा के छांटे में हमार मदद कर देब?" भा "का रउआ बता सकिला कि कवन रंग जादे नीक लागता?" जरूरत महसूस होखल आ इम्तिहान लेहला में बहुत फर्क होखेला।
+6. **खुद शुरू करीं।** बिना पूछले उनुका बगल में बइठ के गतिविधि शुरू करीं। जब काम पहिले से चलत रहेला त कई लोग संगे जुड़ जाला, आ अगर ना भी जुड़स, तभो रउआ संगे समय बितवलीं।
+7. **कौनों शारीरिक भा आरामदेह काम पर जाईं।** थोड़ा टहलल, संगीत, कुछ खाए के, कपड़ा मोड़ल, भा संगे [शांत साँस](/games/calm-breathing/) लेवे के ठहराव। NIA संगीत, किताब भा टहले ओर ध्यान बदले के सलाह देवेला।
+8. **उनुका तरीका से करे दीं।** अगर ऊ नियम से अलग ढंग से खेलल चाहत बाड़न, त ओसही करे दीं। Alzheimer's Association लचीला रहे के सलाह देवेला।
 
-## What should I say when they get frustrated?
+## जब ऊ खीझ जास त हमरा का कहे के चाहीं?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+अपनी गति धीमा करीं, आवाज नरम रखीं आ भरोसा दीं। [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) पीछे हटे, इजाजत माँगे, शांत आ सकारात्मक बात बोले, आ दू गो विकल्प के बीच मार्गदर्शन देवे के सलाह देवेला। एह भावना में कुछ वाक्य:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "माफ करीं, ई परेशान करे वाला बा। चलीं एकरा के बंद कर दिहल जाव।"
+- "रउआ एकदम ठीक करत बानी। हम इहँई बानी।"
+- "का रउआ लगे दोसर कौनों काम में हमार मदद करे खातिर समय बा?"
+- "का हमनी के एकरा जगह एक कप चाय पी लेहल जाव?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+फेर बिना कौनों बात बढ़वले गतिविधि खत्म कर दीं। हमनी के [बातचीत के सुझाव](/caregiving/communication-tips/) में अउरी बातन के जानकारी बा।
 
-## What should I avoid?
+## हमरा का ना करे के चाहीं?
 
-Some natural reactions tend to make things worse.
+कुछ स्वाभाविक प्रतिक्रिया स्थिति के अउरी बिगाड़ सकेलीं।
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **बहस भा जिद्द कइल।** "चलीं, बस एगो अउरी" भा "रउआ त ई बहुत पसंद बा" से शायद ही कबो मदद मिलेला।
+- **इम्तिहान लेहल भा सुधारल।** "रउआ पता बा ई का हवे" भा "ना, ऊ गलत बा" से दबाव बढ़ेला।
+- **खुद पर लेहल।** NIA देखभाल करे वालन के याद दिलावेला कि ई बदलाव बेमारी के चलते होला, व्यक्ति के वजह से ना।
+- **भीड़ लगावल भा जल्दबाजी कइल।** Alzheimer's Association सलाह देवेला कि आवाज ऊँच मत करीं, घबराहट मत देखाईं, कोना में मत घेरीं, भीड़ मत लगाईं, रोकीं-टोकीं मत, आलोचना मत करीं, नजरअंदाज मत करीं भा बहस मत करीं, आ उनुका नजर के बाहर अचानक हिले-डुले से बचीं।
+- **दोषी महसूस करावल।** "हम ई सब रउआ खातिरे तइयार कइले रहीं" से दुनु जने के मन अउरी खराब होला।
+- **कौनों ठप्पा लगावल।** "जिद्दी" भा "परेशान करे वाला" कह दिहला से असली कारण छुप जाला आ समाधान निकालल अउरी मुश्किल हो जाला।
 
-## How can I find out what is behind repeated refusals?
+## बार-बार माना करे के पाछे का बा, ई कइसे समझीं?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+एक-दू हफ्ता खातिर एगो आसान नोट लिखीं। NIA कहेला कि बेवहार में बदलाव पर नजर रखला से देखभाल करे वालन आ डॉक्टरन के कौनों ढाँचा समझे आ कारण खोजे में मदद मिल सकेला।
 
-Jot down:
+नोट करीं:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- दिन के कौनों पहर भा समय;
+- रउआ का पेश कइलीं आ कइसे पूछलीं;
+- आसपास का होखत रहे (हल्ला-गुल्ला, मेहमान, टीवी);
+- ऊ कइसे सुतलें, खइलें-पियले, आ अंतिम बेर शौचालय कब गइल रहलें;
+- कौनों नया दवाई भा हाल के बेमारी।
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+ई ढाँचा अक्सर जल्दी लउक जाला: जइसे कि माना कइल खाली सांझ 4 बजे के बाद होखत बा, कौनों खास खेल के साथ होखत बा, भा खाली तब जब टीवी चलत बा। Family Caregiver Alliance के [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) साफ कहेला: हमनी के व्यक्ति के ना बदल सकीं, बाकिर आपन बेवहार आ आसपास के माहौल जरूर बदल सकीं ला।
 
-## When should I talk to a doctor about refusal or frustration?
+## माना करे भा खीझ के बारे में डॉक्टर से कब बात करे के चाहीं?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+जब बेवहार अचानक, तेजी से, भा बेमारी के लक्षणन के संगे बदले, त डॉक्टर से बात करीं। NIA बतावेला कि बेवहार में अचानक भा तेजी से बदलाव, खास क के अगर व्यक्ति के कौनों इन्फेक्शन भइल होखे भा हाल में दवाई बदलल होखे, त तुरंत डॉक्टर के जानकारी में लावे के चाहीं।
 
-Contact their doctor promptly if you notice:
+उनुकर डॉक्टर से तुरंत संपर्क करीं अगर रउआ देखत बानी:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- अचानक भ्रम भा कुछ घंटा या दिन के भीतर बड़ बदलाव;
+- दर्द के संकेत, जइसे कि कराहल, शरीर के कौनों अंग के बचावल, भा हिले-डुले में नया परेशानी;
+- बुखार भा इन्फेक्शन के कौनों दोसर लक्षण;
+- नया भा बदलल दवाई के बाद बेवहार में बदलाव;
+- लगभग हर चीज में रुचि खतम होखल, आँख में लोर भा दू हफ्ता से जादे समय ले चुपचाप अलग-थलग रहल;
+- खाना भा पानी से माना कइल।
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association बेवहार संबंधी लक्षण वाला हर व्यक्ति खातिर गहन डॉक्टरी जाँच के सलाह देवेला, खास क के जब ई अचानक लउके। Family Caregiver Alliance भी सलाह देवेला कि पहिले डॉक्टर से सलाह लीं, काहे कि बेवहार के समस्या के पाछे कौनों चिकित्सीय कारण हो सकेला। डॉक्टर भा फार्मासिस्ट से बात कइले बिना कौनों दवाई शुरू, बंद भा बदलल ना चाहीं।
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+अगर केहू खतरा में होखे भा कौनों मेडिकल इमरजेंसी के लक्षण होखे, त 112 पर फोन करीं। NIA सलाह देवेला कि फोन उठावे वाला के बतावल जाव कि व्यक्ति के डिमेंशिया बा।
 
-## Is it okay if we do nothing at all?
+## का हमनी के कुछूओ ना करीं त ठीक बा?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+हँ। कुछ दिन सबसे बढ़िया गतिविधि कौनों गतिविधि ना कइल होला: संगे बइठल, हाथ थामल, मनपसंद गाना सुनल, भा खिड़की से चिरई देखल। ई कौनों नाकामी ना हवे। हमनी के [संगे खेले के गाइड](/caregiving/how-to-play-together/) समझावेला कि जल्दी रोक दिहल, भा शुरूए ना कइल, कइसे सही फैसला हो सकेला।

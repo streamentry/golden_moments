@@ -1,34 +1,34 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Ինչպես խաղալ թուլամտությամբ ապրող մարդու հետ"
+description: "Գործնական ուղեցույց թուլամտությամբ ապրող մարդու հետ խաղալու համար. նախապատրաստում, տեմպ, չուղղել սխալները, խաղը հեշտացնել և իմանալ՝ երբ կանգ առնել։"
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Խաղը դիտեք որպես միասին անցկացրած ժամանակ, ոչ թե ստուգում։ Ընտրեք օրվա
+  հանգիստ պահը, նստեք կողք կողքի խաղաղ սենյակում և առաջարկեք մեկ պարզ խաղ։
+  Թույլ տվեք, որ մարդը որոշի տեմպը, անվնաս սխալները մի ուղղեք, լարվածության առաջին
+  նշանին խաղը հեշտացրեք, իսկ նկարները վերածեք զրույցի։ Կանգ առեք, քանի դեռ
+  լավ է զգացվում։ Վաղ ավարտելը կամ պարզապես միասին նայելն ինքնին լավ արդյունք է։
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Նպատակը հաճույքն ու մտերմությունն է, ոչ թե խաղն ավարտելը կամ ճիշտ պատասխանելը։"
+  - "Նախ պատրաստվեք. հանգիստ սենյակ, լավ լույս, ակնոցներն ու լսողական սարքերը դրված, հեռուստացույցն անջատված, մեկ խաղ՝ պատրաստ։"
+  - "Անվնաս սխալները մի ուղղեք։ Ասեք՝ «Փորձենք այսպես» կամ պարզապես շարունակեք։"
+  - "Խաղը հեշտացրեք նախքան հիասթափությունը կկուտակվի. ավելի քիչ նկարներ, ավելի քիչ ընտրություն, նկարները՝ բաց։"
+  - "Նկարներն օգտագործեք պատմելու համար՝ «Պատմեք այս մասին...» հարցով, ոչ թե՝ «Հիշու՞մ եք...»։"
+  - "Կանգ առեք հոգնածության կամ անհանգստության առաջին նշաններին։ Վաղ կանգ առնելը հաջողություն է, ոչ թե ձախողում։"
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Որքա՞ն պետք է տևի խաղը։"
+    a: "Ճիշտ տևողություն չկա։ Շատ մարդկանց համար մի քանի րոպեն բավական է, իսկ որոշ օրերի՝ նույնիսկ մեկ փուլը։ Ժամացույցի փոխարեն նայեք մարդուն և կանգ առեք, քանի դեռ նա հանգիստ է թվում։"
+  - q: "Պե՞տք է թողնեմ, որ նա հաղթի կամ ձևացնեմ, թե սխալները չեմ նկատում։"
+    a: "Համատեղ, առանց լարվածության խաղում հաղթելու կամ պարտվելու բան չկա։ Եթե սխալը մարդուն չի անհանգստացնում, բաց թողեք։ Եթե կարծես թե անհանգստացնում է, հանգիստ օգնեք կամ խաղը հեշտացրեք՝ առանց դրա վրա ուշադրություն հրավիրելու։"
+  - q: "Իսկ եթե նա նախընտրի դիտել, թե ինչպես եմ ես խաղում։"
+    a: "Դա նորմալ է։ National Institute on Aging-ը խորհուրդ է տալիս թույլ տալ, որ մարդը պարզապես դիտի, եթե դրանից ավելի շատ է հաճույք ստանում։ Խոսեք այն մասին, ինչ տեսնում եք, և երբ նա ցանկանա, առաջարկեք մատնացույց անել կամ ընտրել։"
+  - q: "Արդյո՞ք այս խաղերը հիշողությունը ստուգելու միջոց են։"
+    a: "Ոչ։ Մեր խաղերը պարզ, համատեղ զբաղմունքներ են՝ հաճույքի և զրույցի համար։ Դրանք հիշողության ստուգում չեն, ոչինչ չեն չափում և թուլամտության բուժում չեն։"
+  - q: "Ո՞ր խաղով է լավ սկսել։"
+    a: "Սկսեք ամենապարզ խաղից, որը հարմար է մարդուն։ Picture Pairs-ը 4 սալիկով և բաց նկարներով, կամ Find the Same-ը 2 ընտրությամբ մեղմ սկիզբ են։ Conversation Cards-ը հարմար է, եթե մարդը մատնահպելուց ավելի շատ սիրում է խոսել։"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +47,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Թուլամտությամբ ապրող մարդու հետ լավ խաղը մրցույթի նման չի լինում։ Այն նման է երկու մարդու, որոնք նստած են կողք կողքի, մատնացույց են անում նկարները, ժպտում են ծանոթ ասացվածքի վրա և խոսում այն ամենի մասին, ինչ հիշվում է։ Խաղը պարզապես պատճառ է՝ միասին ժամանակ անցկացնելու։
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Այս ուղեցույցում կգտնեք, թե ինչպես պատրաստվել, ինչպես պահել խաղի տեմպը, ինչ ասել, երբ ինչ-որ բան «սխալ» է գնում, ինչպես ցանկացած խաղ դարձնել ավելի հեշտ կամ մի փոքր ավելի դժվար, ինչպես այն վերածել զրույցի և ինչպես հասկանալ, թե երբ կանգ առնել։ Այն подходит է մեր [խաղերին](/games/), ինչպես նաև քարտերին, գլուխկոտրուկներին և սեղանի խաղերին, որոնք արդեն ունեք։
 
-## What is the best way to play a game with someone who has dementia?
+## Ո՞րն է թուլամտությամբ ապրող մարդու հետ խաղալու լավագույն ձևը։
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Կենտրոնացեք հաճույքի, ոչ թե արդյունքի վրա։ Սա [Alzheimer's Association-ի՝ զբաղմունքների մասին ուղեցույցի](https://www.alz.org/help-support/caregiving/daily-care/activities) հիմնական խորհուրդն է. հենվեք այն կարողությունների վրա, որոնք մարդը դեռ ունի, օգնեք սկսել, դժվար մասերը արեք նրա փոխարեն և անվնաս գործողությունները մի քննադատեք ու մի ուղղեք։
 
-In practice that means:
+Գործնականում դա նշանակում է.
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Նստեք նրա կողքին, ոչ թե դիմացը։** Կողք կողքի նստելիս երկուսդ էլ տեսնում եք էկրանը կամ սեղանը, իսկ օգնությունը թիմային աշխատանք է թվում, ոչ թե վերահսկողություն։
+- **Միաժամանակ առաջարկեք մեկ խաղ։** Ընտրության ցանկը երբեմն կարող է թեստի նման զգացվել՝ դեռևս չսկսած։
+- **Հետևեք նրա տեմպին։** Եթե նա ցանկանում է նկարներին հպվել իր ուզած հերթականությամբ, տասը րոպե խոսել մեկ նկարի մասին կամ երկու քայլից հետո կանգ առնել, հենց դա է այսօրվա խաղը։
+- **Հաշվեք լավ պահերը, ոչ թե ավարտված փուլերը։** Ժպիտը, մի պատմություն կամ հանգիստ կես ժամը հենց այն արդյունքն է, որին ձգտում եք։
 
-## How do I set up before we start?
+## Ինչպե՞ս պատրաստվել մինչև սկսելը։
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Մի քանի րոպեի նախապատրաստումը հաճախ օգնում է խուսափել այն լարվածությունից, որը մարդիկ երբեմն վերագրում են հենց խաղին։
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Ընտրեք օրվա նրա լավագույն ժամանակը։** [National Institute on Aging-ի (NIA)՝ զբաղմունքները հարմարեցնելու ուղեցույցը](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) խորհուրդ է տալիս զբոսանքներն ու զբաղմունքները պլանավորել այն ժամին, երբ մարդն իրեն ամենալավն է զգում։ Շատերի համար դա առավոտյան կեսն է։ Ուշ կեսօրը հաճախ ավելի դժվար է լինում. տես [ուշ կեսօրվա հանգիստ զբաղմունքները](/caregiving/late-day-restlessness/)։
+2. **Սենյակը պահեք հանգիստ։** Անջատեք հեռուստացույցն ու ռադիոն, և հնարավորության դեպքում փակեք դուռը։ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)-ը խորհուրդ է տալիս խոսելուց առաջ սահմանափակել աղմուկն ու շեղող գործոնները։
+3. **Նախ համոզվեք, որ մարդը հարմար է։** Մոտակայքում՝ ջուր, նախապես զուգարան գնալու հնարավորություն, հարմար աթոռ, դրված ակնոցներ և լսողական սարքեր։
+4. **Սենյակը լավ լուսավորեք։** Պայծառ, հավասար լույսը՝ առանց էկրանին ընկնող փայլի, օգնում է նկարներն ավելի հստակ տեսնել։
+5. **Խաղը պատրաստեք նախքան նստելը։** Բացեք այն, ընտրեք կարգավորումները և ձայնի մակարդակը կարգավորեք ինքներդ։ Հետո էկրանը շրջեք դեպի մարդը։ Պլանշետի վերաբերյալ խորհուրդների համար տես [պլանշետի կամ հեռախոսի կարգավորումը](/caregiving/tablets-and-screens/)։
+6. **Սարքը դրեք հենարանի վրա։** Պլանշետը կանգնած պահող հենարանը կամ պատյանը հարմար է. սարքը բռնելու կարիք չկա, և մատնացույց անելն ավելի հեշտ է։
 
-## How do I invite them without pressure?
+## Ինչպե՞ս առաջարկել խաղը՝ առանց ճնշման։
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Առաջարկը արեք պարզ և այնպես, որ մարդը հեշտությամբ pueda հրաժարվել։ Սովորաբար լավ են աշխատում հետևյալ արտահայտությունները.
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Այգու նկարներ եմ գտել։ Ուզո՞ւմ եք միասին նայենք։»
+- «Կօգնե՞ք ինձ այս գլուխկոտրուկով։ Ես մի քիչ խրվել եմ։»
+- «Այսօր ծաղիկնե՞րն եք ուզում, թե՞ թռչունները։» (երկու տարբերակի ընտրությունն ավելի հեշտ է, քան բաց հարցը)
+- «Քրոջդ համար բացիկ եմ պատրաստում։ Ո՞ր գույնն ընտրենք։»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association-ը խորհուրդ է տալիս բացատրել զբաղմունքի նպատակը, օրինակ՝ ընկերոջ համար բացիկ պատրաստելը, քանի որ պատճառը իմաստ է տալիս։ Օգնություն խնդրելը նույնպես լավ է աշխատում, քանի որ մարդուն օգտակար զգալու հնարավորություն է տալիս։
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Եթե մարդը հրաժարվում է, ընդունեք դա։ Ավելի ուշ նորից փորձեք կամ առաջարկեք այլ բան։ Մեր ուղեցույցը՝ [ինչ անել, երբ մարդը հրաժարվում է](/caregiving/when-they-say-no/), ավելի մանրամասն է պատմում։
 
-## How long should a game last, and how fast should we go?
+## Որքա՞ն պետք է տևի խաղը, և ինչպե՞ս պահել տեմպը։
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Թույլ տվեք, որ մարդը որոշի տեմպը, և պլանավորեք կարճ նստաշրջաններ։ Համատեղ խաղի համար գիտականորեն ապացուցված «իդեալական» տևողություն չկա։ Երկուից հինգ հանգիստ րոպեն կարող է լինել ամբողջական զբաղմունք։
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Սպասեք ավելի երկար, քան սովորաբար կսպասեիք։** NIA-ն խորհուրդ է տալիս ավելի շատ ժամանակ տալ պատասխանելու համար և չընդհատել։ Մտքում հաշվեք մինչև տասը, հետո օգնեք։
+- **Միաժամանակ մեկ քայլ։** Տվեք մեկ կարճ հրահանգ («Հպեք մի նկարին»), հետո սպասեք։ Բացատրելու փոխարեն ցույց տվեք. մատնացույց արեք, թե որտեղ հպել։
+- **Ազատորեն դադարներ արեք։** Եթե մարդը կանգ է առնում՝ նկարի մասին խոսելու, խաղը կարող է սպասել։ Շտապելու կարիք չկա։
+- **Թույլ տվեք, որ նա դիտի։** NIA-ն նշում է, որ որոշ մարդիկ նախընտրում են դիտել, և դա լիովին նորմալ ընտրություն է։
 
-## Should I correct wrong answers?
+## Պե՞տք է ուղղել սխալ պատասխանները։
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ոչ։ Նույն մարդուն մեղմորեն նորից ու նորից ուղղելը նրան կարող է թվալ, թե նա ձախողվում է, նույնիսկ եթե դուք բարեհաճ եք։ Alzheimer's Association-ը խորհուրդ է տալիս անվնաս գործողությունները չքննադատել և չուղղել։ Խաղում գրեթե բոլոր սխալներն անվնաս են։
 
-| Instead of | Try |
+| Փոխարենը | Փորձեք ասել |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Ոչ, դա սխալ է»։ | «Փորձենք այսպես»։ (օրինակ, որը բերում է NIA-ն) |
+| «Սա զույգ չէ։ Նորից նայիր»։ | Ոչինչ մի ասեք և անցեք հաջորդ քայլին, կամ՝ «Օ՜, երկուսն էլ կարմիր են»։ |
+| «Հիշու՞մ եք՝ սա ով է»։ | «Պատմեք այս նկարի մասին»։ |
+| «Դու դա արդեն արել ես»։ | «Լավ նկար է։ Եկեք նորից նայենք»։ |
+| «Դե, դու սա գիտես»։ | «Ուզո՞ւմ եք՝ վերջը ցույց տամ»։ |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Եթե սխալը նկատելիորեն հիասթափեցնում է մարդուն, հանգիստ օգնեք։ Մատնացույց արեք ճիշտ նկարը, ինքներդ մի քայլ արեք կամ հաջորդ փուլում խաղը հեշտացրեք։ Եթե ասացվածքը ստանում է զվարճալի սխալ ավարտ, պարզապես ժպտացեք միասին։ Նրանց տարբերակը կարող է նույնիսկ ավելի լավը լինել։
 
-## How do I make a game easier or harder?
+## Ինչպե՞ս խաղը դարձնել ավելի հեշտ կամ ավելի դժվար։
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Խաղը հարմարեցրեք մարդուն՝ այդ օրվա դրությամբ, ոչ թե ինչ-որ փուլային պիտակի։ Նույն մարդուն երեկոյան կարող է ավելի պարզ տարբերակ պետք լինել, քան առավոտյան։ NIA-ի առաջին խորհուրդն է՝ զբաղմունքը համապատասխանեցնել այն բանին, ինչ մարդը կարող է անել, և այնպես կազմակերպել, որ նա հաջողության զգացում ունենա։
 
-| Game | Make it easier | Make it a little harder |
+| Խաղ | Ավելի հեշտ դարձնել | Մի փոքր ավելի դժվար դարձնել |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Սկսեք 4 սալիկով և նկարները թողեք բաց | Ավելի շատ սալիկներ, կամ նկարները փակեք, եթե դա հարմար է |
+| [Find the Same](/games/find-the-same/) | 2 ընտրություն | Մինչև 4 ընտրություն |
+| [Sort Together](/games/sort-together/) | Դուք բռնեք նկարը, մարդը մատնացույց է անում զամբյուղը | Մարդն ինքն է հպվում և՛ նկարին, և՛ զամբյուղին |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 մաս. նախ խոսեք ամբողջ նկարի մասին | 9 մաս |
+| [Finish the Saying](/games/finish-the-saying/) | Ցույց տվեք ավարտը, հետո միասին ասեք | Թող մարդն ավարտն ասի նախքան հպելը |
+| [Word Search](/games/word-search/) | Տպեք այն, միասին փնտրեք մեկ բառ և մատնացույց արեք դրա առաջին տառը | Թող մարդն ինքը ընտրի հաջորդ բառը |
+| [Coloring](/games/coloring/) | Դուք ընտրեք երկու գույն, մարդը ընտրի դրանցից մեկը | Մարդն ինքը ընտրի բոլոր գույները |
+| [Conversation Cards](/games/conversation-cards/) | Պարզապես միասին նայեք նկարին | Օգտագործեք քարտի բաց հարցերը |
+| [Photo Pairs](/games/photo-pairs/) | Մի քանի սիրելի ընտանեկան լուսանկար | Ավելացրեք ավելի շատ լուսանկարներ |
+| [Picture Bingo](/games/picture-bingo/) | Յուրաքանչյուր խաղացողի կողքին լինի օգնող | Խաղացողներն իրենք նշեն իրենց քարտերը |
+| [Calm Breathing](/games/calm-breathing/) | Պարզապես նստեք և միասին դիտեք | Միասին դանդաղ շնչեք |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Նշաններ, որ խաղը չափազանց դժվար է. երկար դադարներ, որոնք ավելի շատ անհանգստացած են թվում, քան մտածկոտ, կրկնվող «չեմ կարող», սարքը հեռու հրելը կամ սխալներ, որոնք մարդուն տխրեցնում են։ Նշաններ, որ խաղը կարող է չափազանց հեշտ լինել. ձանձրույթ կամ այն, որ մարդն ասում է՝ դա մանկական է։ Եթե այդպես է, հարգանքով վերաբերվեք և անցեք ավելի հասուն զգացող բանի, օրինակ՝ բառախաղի, իրական լուսանկարով գլուխկոտրուկի կամ մարդու նախկին աշխատանքի մասին նկարի շուրջ զրույցի։
 
-## How do I turn a game into a conversation?
+## Ինչպե՞ս խաղը վերածել զրույցի։
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Յուրաքանչյուր նկար օգտագործեք որպես զրույցի հրավեր, և այն, ինչ մարդն ասում է, ընդունեք որպես լավ պատասխան։ Շատ ընտանիքների համար սա խաղի ամենալավ մասն է։
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Տվեք բաց հարցեր, որոնց սխալ պատասխան չկա։** «Ի՞նչ եք նկատում»։ «Ո՞րն եք ավելի շատ սիրում»։ «Պատմեք այսպիսի խոհանոցի մասին»։
+- **Նախ ինքներդ կիսվեք։** «Իմ տատիկը նման շուն ուներ»։ Ձեր պատմությունը մարդուն ավելի հեշտ է դարձնում իր պատմությամբ կիսվելը։
+- **Հետևեք զրույցի ընթացքին։** Եթե մեքենայի նկարը տանում է ճանապարհորդության պատմության, հենց պատմությունն է դառնում զբաղմունքը։ Խաղը թողեք կանգնած։
+- **Փաստերը մի ստուգեք։** Հիշողությունները վերհիշելիս հաճելի զրույցը հաճախ ավելի կարևոր է, քան մանրամասների ճշգրտությունը։ Եթե պատմությունը փոխվում է նախորդ անգամվա համեմատ, պարզապես վայելեք նոր տարբերակը։
+- **Օգտագործեք խաղի հարցերը։** [Finish the Saying](/games/finish-the-saying/)-ը յուրաքանչյուր ասացվածքից հետո առաջարկում է զրույցի հարց, իսկ [Conversation Cards](/games/conversation-cards/)-ը հենց դրա համար է ստեղծված։ [Photo Pairs](/games/photo-pairs/)-ում օգտագործվում են ձեր ընտանեկան լուսանկարները, որոնք հաճախ բերում են ամենաջերմ պատմությունները։
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Լրացուցիչ գաղափարներ կան մեր ուղեցույցներում՝ [հիշողությունների վերարտադրման զբաղմունքներ](/activities/reminiscence/) և [հաղորդակցման խորհուրդներ](/caregiving/communication-tips/)։
 
-## When should we stop?
+## Ե՞րբ պետք է կանգ առնել։
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Կանգ առեք հոգնածության կամ անհանգստության առաջին նշաններին, իսկ հնարավորության դեպքում՝ մի փոքր ավելի շուտ։ Alzheimer's Association-ը խորհուրդ է տալիս կանգ առնել կամ փոխել զբաղմունքը, երբ ուշադրությունը թուլանում է կամ հիասթափությունը մեծանում է։
 
-Watch for:
+Ուշադրություն դարձրեք հետևյալ նշաններին.
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- հորանջել, թուլանալ աթոռին կամ հայացքը էկրանից շեղել,
+- տեղում չգտնվել, կանգնել կամ հեռանալու ցանկություն հայտնել,
+- հոգոց հանել, կարճ պատասխանել կամ ասել՝ «Ես սրանում լավ չեմ»,
+- պատահական հպվել էկրանին կամ սարքը հեռու հրել,
+- արցունքոտվել, նյարդայնանալ կամ տրամադրության հանկարծակի փոփոխություն։
 
-How to stop well:
+Ինչպես լավ կանգ առնել.
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Ավարտեք հեշտ բանով։** Վերջին մեկ զույգ, որը մարդը կարող է գտնել, կամ մեկ նկար, որը հաճելի է միասին դիտել։
+- **Պատճառը կապեք ձեր հետ։** «Ես մի բաժակ թեյ կխմեի։ Այստեղ կանգ առնե՞նք» արտահայտությունը չի թողնում, թե մարդը վատ է արել։
+- **Անցեք ինչ-որ ֆիզիկական կամ հանգստացնող բանի։** Կարճ զբոսանք, թեթև խորտիկ, սրբիչներ ծալել կամ երաժշտություն։
+- **Ասեք ինչ-որ ջերմ բան։** «Ինձ հաճելի էր սա քեզ հետ անել»։ Ոչ թե գովասանք «ճիշտ անելու» համար, այլ պարզապես միասին անցկացրած ժամանակի հաճույքը։
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Վաղ ավարտելը, պլանները փոխելը կամ խաղը թողնելն ու պարզապես միասին նստելը նույնպես լավ արդյունքներ են։
 
-## Can we play in a group or over a video call?
+## Կարո՞ղ ենք խաղալ խմբով կամ տեսազանգով։
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Այո, մի փոքր լրացուցիչ պատրաստությամբ։ Խմբում մարդկանց թիվը փոքր պահեք, օգնության կարիք ունեցող յուրաքանչյուր մարդու կողքին նստեցրեք օգնողի և ընտրեք խաղ՝ հստակ ընդհանուր ուշադրության կետով։ [Picture Bingo](/games/picture-bingo/)-ն ունի տպվող քարտեր և էկրանին ցուցադրվող վարող՝ խմբերի համար։ Լրացուցիչ տեղեկության համար տես [զբաղմունքներ խնամքի կենտրոնի խմբերի համար](/activities/care-home-groups/)։
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Տեսազանգի ժամանակ զանգի մյուս կողմում գտնվող մարդը կարող է նկարագրել նկարը, իսկ սենյակում գտնվող մեկը՝ մատնացույց անել և հպվել։ Զանգերը պահեք կարճ և ծանոթ։ Մեր ուղեցույցը՝ [հեռախոսազանգեր և տեսազանգեր](/activities/phone-and-video-calls/), լրացուցիչ խորհուրդներ ունի։
 
-## What if a game just isn't working?
+## Իսկ եթե խաղը չի ստացվում։
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Կան օրեր, երբ ոչինչ չի «ստացվում», և դա ոչ ձեր, ոչ էլ մարդու մասին չի խոսում։ Խաղը մի կողմ դրեք և փորձեք օրվա այլ ժամին, այլ խաղ կամ ընդհանրապես առանց խաղի։ Շատ լավ զբաղմունքներ էկրանների հետ կապ չունեն. երաժշտություն, սրբիչներ ծալել, լուսանկարների ալբոմ թերթել կամ կարճ զբոսանք։ Լրացուցիչ գաղափարների համար նայեք մեր [զբաղմունքների գաղափարները](/activities/ideas/)։

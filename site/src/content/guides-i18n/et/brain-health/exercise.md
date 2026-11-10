@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Liikumine ja aju tervis: mida uuringud näitavad"
+seoTitle: "Liikumine ja dementsus: mida uuringud ütlevad"
+description: "Mida uuringud seostavad füüsilise aktiivsuse ja dementsuse riski vahel ning turvalisi liikumisviise vanematele ja dementsusega inimestele."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Uuringud seostavad regulaarset füüsilist aktiivsust väiksema dementsuse riskiga ning 2024.
+  aasta Lanceti komisjon loetleb füüsilise passiivsuse ühe 14 muudetava riskiteguri hulgas.
+  Uuringud ei ole tõestanud, et liikumine hoiab dementsust ära. Liikumine toetab siiski jõudu,
+  tasakaalu, meeleolu ja und, mistõttu tasub jalutada, teha tooliharjutusi ja tantsida nende
+  endi pärast. Enne uue tegevusega alustamist pidage nõu arstiga.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Füüsiliselt aktiivsetel inimestel on keskmiselt väiksem dementsuse risk, kuid see põhineb peamiselt vaatlus-, mitte sekkumisuuringutel."
+  - "Viieaastane liikumisuuring vanemate täiskasvanutega ei leidnud mõtlemisoskustes selget erinevust rühmade vahel."
+  - "CDC juhised 65-aastastele ja vanematele hõlmavad aeroobset, lihasjõudu tugevdavat ja tasakaaluharjutusi ning rõhutavad, et iga liikumine on parem kui mitte midagi."
+  - "Dementsusega elava inimese jaoks on olulisemad lühikesed, tuttavad ja ühised liikumised, näiteks igapäevane jalutuskäik või istudes mängud, mitte mingi kindel eesmärk."
+  - "Rohkem kui iga neljas vanem täiskasvanu kukub igal aastal, seega on tasakaaluharjutused ja turvaline keskkond esikohal."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Kas liikumine võib dementsust ära hoida?"
+    a: "Seda ei saa keegi lubada. Paljud uuringud seostavad aktiivset eluviisi väiksema dementsuse riskiga, kuid kliinilised uuringud ei ole näidanud, et liikumine hoiab dementsust ära. Liikumisel on palju teisi tõestatud eeliseid, mistõttu tasub sellega jätkata."
+  - q: "Kas dementsusega elaval inimesel on ohutu liikuda?"
+    a: "Tavaliselt on, kui natuke planeerida. Riikliku vananemisinstituudi (National Institute on Aging) soovitusel tasub enne uue rutiiniga alustamist pidada nõu inimese arstiga, valida mugavad jalanõud, pakkuda vett ja hoida tegevused lühikesed. Lõpetage, kui inimene tundub väsinud, ebakindel või rahutu."
+  - q: "Milliseid harjutusi saab teha istudes?"
+    a: "Istudes saab teha näiteks toolivenitusi või toolijoogat, visata õhupalli või pehmet palli, mängida hernemängu, tõsta supikonserve, kasutada venituskummi ja pedaaliharjutusseadet. Need sobivad hästi siis, kui kõndimine on raske."
+  - q: "Mida teha, kui inimene ei taha liikuda?"
+    a: "Ärge survestage. Proovige hiljem uuesti, tehke ise kaasa, lisage tuttav muusika või muutke liikumine igapäevaseks tegevuseks, näiteks pühkimiseks või taimede kastmiseks. Lühike jalutuskäik postkastini loeb samuti ning ka lihtsalt koos õues istumine on hea."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Aktiivne eluviis on üks enim uuritud harjumusi aju tervise valdkonnas. Uuringud seostavad seda väiksema dementsuse riskiga, kuid need ei ole tõestanud, et liikumine hoiab dementsust ära. Kindel on see, et liikumine aitab igas vanuses toetada jõudu, tasakaalu, meeleolu ja und. Sellel lehel on kokkuvõte sellest, mida uuringud ütlevad, kui palju vanematel täiskasvanutel soovitatakse liikuda ning millised on leebed viisid koos dementsusega elava inimesega liikuda.
 
-## Does exercise lower the risk of dementia?
+## Kas liikumine vähendab dementsuse riski?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Uuringud viitavad, et füüsiliselt aktiivsetel inimestel tekib dementsus harvemini, kuid tõendusmaterjalil on piirangud. [2024. aasta Lanceti dementsuse komisjon](https://doi.org/10.1016/S0140-6736(24)01296-0) loetleb füüsilise passiivsuse ühe 14 muudetava riskiteguri hulgas. Komisjoni mudeli järgi annavad need 14 tegurit kokku umbes 45% maailma dementsusjuhtudest.
 
-Here is what the evidence looks like:
+Tõendusmaterjal näeb välja nii:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Vaatlusuuringud viitavad samas suunas.** Komisjoni käsitletud 58 uuringu ülevaade leidis, et füüsiliselt aktiivsetel inimestel oli dementsuse risk umbes 20% väiksem. Suurim erinevus oli peaaegu täiesti passiivsete inimeste ja nende vahel, kes tegid vähemalt veidi liikumist.
+- **Seos võib olla kahesuunaline.** Komisjon märgib, et passiivsus võib riski suurendada. Samuti võib dementsuse varane ajumuutus, mis algab aastaid enne diagnoosi, muuta inimese vähem aktiivseks.
+- **Sekkumisuuringud on vähem selged.** Ühes uuringus jaotati 945 vanemat täiskasvanut, kelle keskmine vanus oli 78 aastat, viieks aastaks kas kaks korda nädalas juhendatud liikumisrühma või võrdlusrühma. Lõpuks ei erinenud mõtlemisoskused rühmades selgelt. Paljud võrdlusrühma inimesed olid samuti aktiivsed, mis teeb tulemuse tõlgendamise raskemaks.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Riiklik vananemisinstituut (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) sõnastab selle selgelt. Füüsilise aktiivsuse ja Alzheimeri tõve ennetamise vahel ei ole leitud selget seost ning uuringutest ei piisa, et öelda, kas liikumine hoiab Alzheimeri tõbe ära või aeglustab seda. Liikumine vähendab siiski kukkumiste, depressiooni, diabeedi, kõrge vererõhu ja insuldi riski. Mõned neist seisunditest on omakorda seotud kognitiivse langusega.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Aus järeldus on liikuda selleks, et end täna paremini tunda ja paremini toime tulla. Võimalik kasu ajule on pigem lisavõimalus, mitte lubadus.
 
-## How much activity do older adults need?
+## Kui palju peaksid vanemad täiskasvanud liikuma?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC juhised 65-aastastele ja vanematele](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) soovitavad igal nädalal kolme liiki tegevusi:
 
-| Type | Weekly amount | Examples |
+| Liik | Nädalas | Näited |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aeroobne | Vähemalt 150 minutit mõõdukat tegevust, näiteks 30 minutit 5 päeval | Kiire kõnd, tantsimine, vesivõimlemine |
+| Lihasjõud | Vähemalt 2 päeva, kaasates kõiki suuremaid lihasgruppe | Kergemate raskuste või supikonservide tõstmine, venituskumm |
+| Tasakaal | Regulaarselt | Kannalt varbale kõndimine, toolilt püsti tõusmine |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Need on eesmärgid, mitte sissepääsunõuded. CDC ütleb, et kui te ei suuda neid täita, liikuge nii palju, kui teie võimed ja tervis lubavad. Iga liikumine on parem kui mitte midagi.
 
-## Gentle ways to move for older adults
+## Leebed liikumisviisid vanematele täiskasvanutele
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Kõndige koos kellegagi.** Igapäevane jalutuskäik sõbra, naabri või kõndimisrühmaga lisab vestlust ja turvatunnet.
+- **Tooliharjutused.** Istudes käte tõstmised, pahkluude ringutamine, paigal marssimine ja toolijooga tugevdavad lihaseid ilma tasakaaluriskita.
+- **Tantsige köögis.** Pange mängima muusikat inimese teismeeast või kahekümnendatest eluaastatest ning kiiguge, toksige või astuge rütmis. Meie [muusikategevuste juhendist](/activities/music/) leiate ideid.
+- **Jõuharjutused koduste vahenditega.** Tõstke lemmiksaate ajal täidetud veepudeleid või supikonserve.
+- **Aiatööd või majapidamistööd.** Taimede kastmine, rehatööd, pühkimine ja pesu voltimine loevad samuti. Vaadake lehti [õues ja aias tegutsemine](/activities/outdoor-and-gardening/) ning [kodused toimetused](/activities/household-tasks/).
+- **Liikumine vees.** NIA nimetab vesivõimlemist ühe võimalusena inimestele, kellele liikumine kuival maal on liigeste jaoks raske.
 
-## How to exercise with someone living with dementia
+## Kuidas liikuda koos dementsusega elava inimesega
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Dementsusega elava inimese puhul on eesmärk mugavus, rõõm ja igapäevaste oskuste toetamine, mitte mingi numbri saavutamine. NIA sõnul aitab füüsiline aktiivsus hoida Alzheimeri tõvega inimese lihaseid, liigeseid ja südant heas vormis ning võib parandada ka meeleolu ja und. Enne uue rutiiniga alustamist pidage nõu tema arstiga. [NIA hooldajate juhendi](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) soovitused:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Kõndige iga päev koos.** Valige turvaline ja tuttav tee, kus pole takistusi. Kui inimene kõnnib üksi, on hea mõte kasutada ID-käevõru teie telefoninumbriga.
+2. **Proovige vanematele täiskasvanutele mõeldud liikumisvideoid.** Tehke neid koos, kas istudes või seistes.
+3. **Hoidke tegevused lühikesed.** Mitu lühikest liikumishetke võivad sobida paremini kui üks pikk harjutus.
+4. **Lisage muusikat.** Tuttavad laulud muudavad liikumise pigem tegevuseks kui kohustuseks. Tantsige, kui inimene seda naudib.
+5. **Pakkuge vett ja mugavaid jalanõusid.** Pakkuge liikumise ajal ja pärast seda vett või mahla ning valige mugavad riided ja hästi istuvad liikumisjalanõud.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Kui kõndimine on raske, soovitab [NIA juhend Alzheimeri tõvega inimese hooldamiseks](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) istudes tehtavaid tegevusi. Nende hulka kuuluvad tooliharjutused või -jooga, hernemäng, pehme palli või õhupalli viskamine, venituskumm, kergemate koduste esemete tõstmine ja pedaaliharjutusseade. Ka lihtsad tööd, nagu pühkimine ja tolmu pühkimine, loevad.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Olge liikumise mõju suhtes realistlik. Lanceti komisjon ei leidnud tõendeid selle kohta, et liikumine vähendaks käitumismuutusi, näiteks ärritust. Liikuge koos sellepärast, et see võib head teha, mitte selleks, et rasket pärastlõunat „parandada“. Kui inimene ütleb ei, on see täiesti sobiv. Meie juhendis [kui inimene ütleb ei](/caregiving/when-they-say-no/) on leebeid viise hiljem uuesti proovida. Ka varem lõpetamine või lihtsalt koos õues istumine on hea tulemus.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Pärast liikumist võib rahulik paus, näiteks [Rahulik hingamine](/games/calm-breathing/), aidata teil mõlemal rahuneda. Istudes tegevuseks, mis hõlmab leebet käte liigutamist, sobivad laua ääres hästi [Sorteerige koos](/games/sort-together/) ja [Pildibingo](/games/picture-bingo/).
 
-## Balance and fall safety
+## Tasakaal ja kukkumiste ohutus
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Kukkumised on levinud ja tõsised. [CDC andmetel](https://www.cdc.gov/falls/data-research/facts-stats/index.html) kukub igal aastal rohkem kui iga neljas vanem täiskasvanu, kuid vähem kui pooled räägivad sellest oma arstile. Üks kukkumine kahekordistab järgmise kukkumise tõenäosust. CDC loetleb muu hulgas järgmised riskitegurid:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Nõrkus jalgades ja puusades
+- Raskused kõndimise ja tasakaaluga
+- Mõned ravimid, sealhulgas rahustid ja mõned antidepressandid
+- Nägemisprobleemid
+- Jalavalu või sobimatud jalanõud
+- Ohud kodus, näiteks segadus, lahtised vaibad ja katkised trepiastmed
 
-To move more safely:
+Et liikuda turvalisemalt:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Kasutage tugevat tooli** ilma ratasteta ning hoidke seistes harjutuste jaoks letiäärt või käsipuud käeulatuses.
+- **Tehke ruum esmalt vabaks** vaipadest, juhtmetest ja segadusest.
+- **Tõuske aeglaselt püsti** ning lõpetage, kui inimesel tekib pearinglus või ebakindlus.
+- **Kandke toetavaid jalanõusid**, mitte sokke või lahtiseid sussis.
+- **Harjutage tasakaalu toe lähedal.** Toolilt püsti tõusmine ja kannalt varbale kõndimine on CDC näited tasakaaluharjutustest.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC soovitab, et vanem inimene, kes kukub ja lööb pead, pöörduks viivitamata arsti poole, eriti kui ta kasutab verd vedeldavaid ravimeid.
 
-## Talk with a doctor
+## Rääkige arstiga
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Enne uue liikumisrutiini alustamist pidage nõu arstiga, eriti kui inimesel on südame- või kopsuprobleemid, liigesevalu, tasakaaluprobleemid või dementsus. Arst või füsioterapeut saab soovitada turvalisi tegevusi ja hinnata, kas ravimid mõjutavad tasakaalu. Rääkige arstile igast kukkumisest, ka sellisest, mis ei tekitanud vigastust. Kui liikumise ajal midagi valutab või tundub valesti, lõpetage. Äkilise rinnavalu, hingamisraskuste või äkilise segasuse korral helistage 112.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+See leht on üldine teave, mitte meditsiiniline nõuanne. Vaadake meie [meditsiinilist lahtiütlust](/medical-disclaimer/). Laiema pildi saamiseks lugege, [mida uuringud ütlevad dementsuse riskitegurite kohta](/brain-health/risk-factors/) ja [kas dementsust saab ära hoida](/brain-health/can-dementia-be-prevented/).

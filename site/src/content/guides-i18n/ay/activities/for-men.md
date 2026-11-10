@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Dementia ukan chachanakatak lup'iwinaka"
+seoTitle: "Dementia ukan chachanakatak lup'iwinaka: Chiqa uñt'awinaka"
+description: "Dementia ukan jakañ chachanakatak lup'iwinaka, jiwasan sartawinakapat, lup'iwinakapat ukat uru sapa lurañanakapat uñt'ayañanakaru, sapa lupi kunjamas wali sum apnaqaña yatiyañanakampi."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Dementia ukan jakañ chachan sum lup'iwinakapax pachpa jakañatwa sarxi: lurañapa,
+  gustapxatap lup'iwinakapa ukat uru sapa lurañanakapa. Oficina lurirjamax
+  dokumentonak sartañ gustapxi, mecánico lurirjamax chiqpach lluqallatak
+  herramientanak apnaqañ gustapxi, ukat deportenak munirjamax nayra juego
+  uñjañ gustapxi. Lup'iwinakax chachampi chachampiw sapa, ukhamasti chachan
+  sexonakapat janiw qalltañapakiti, jan ukax chachan jakañapat qalltañapa.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Nayra chachan jakañap qalltaña: lurañapa, lup'iwinakapa, uru sapa lurañanakapa ukat kunatas jisk'a sarnaqañapat jach'a sasa."
+  - "Chiqa amtañan lurañanakax, kunjamtixa qhanañ sartañ, kallu lurañ jan ukax madera lijañ, ch'iqa yatichañ uñt'añat juk'amp gustapxi."
+  - "Taqi chachanakax janiw herramientanakar jan ukax deportenakar gustapkiti. Walja chachanakax manqha lurañ, ch'uxña, uywañ, qillqañ jan ukax sapa jaqir yanapt'añ gustapxi. Jiskt'añamawa, uñjañamawa ukat jupan arsutap katuqañamawa."
+  - "Lurañanakax chiqpach lluqallatak herramientanak apartañampi ukat uñjañampi sum apnaqañapawa, ukat chachan sustentaña tuqi juk'amp sum lurañapawa."
+  - "Jan sasiñax yänakapiw. Jupar jilïr lurañ uñjañ sasa, janiw lurañ churañ sasa, ukat uru wasitat yatiqañ jist'arasiñamawa."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Kuna lup'iwinaka dementia ukan chachanakax gustapxi?"
+    a: "Janiw juk'a lista sasa utjkiti, kunattix chachanakan munañap taqi jaqinakan munañap ukhamarakiw. Nayra lurañanakar sarañax askiwa, kunjamtixa papelanak amuyaña jan ukax tuqinak ukat tornillonak sortiyaña, ukat gustapkäna lup'iwinakar, kunjamtixa challwa ch'allaña, auto, yatiña, uywaña jan ukax deporte. Kunas jupa pachpa mayjt'aña uñjañamawa ukat ukar sarnaqañamawa."
+  - q: "Awkijax grupo lup'iwinakar jan munaskiti. Kunsa lurarakï?"
+    a: "Walja jaqinakax, chachas warmis, yatiqañ sasina jan ukax wawachat sasina lup'iwinakat jan munapxi. Trabajo sasa churañ yantt'apxam: 'Ukanak sortiyañ yanapt'ayätati?' Jisk'a grupo jan ukax maynit maynikama pachax juk'amp sum amuyasiñapawa, sala jach'a sasina."
+  - q: "¿Walikiñapaw chachax herramientanak apnaqañapa?"
+    a: "Uñjañampi ukat seguro herramientanakampiw. Mistunakjam, lluqallatak ukat taqi chhaqht'ir yänakjam aparam, ukat madera lijañ, sajta tornillonak ukat jark'añ ukax amparampi sujtañanakjam churam. Alzheimer's Association sasiñ, taller ukat jaqi lurañ sitio ukanakat peligro yänak aparañamawa, ukhamat lijañ ukax walikiñ lurasiñapataki."
+  - q: "Jupax profesional sarakïna. ¿Chiqpach sasïkiti sasa lurañanakax jan sum uñjat?"
+    a: "Ukax jan walikiñ sasiw, uñjaskan sasa churañ yanapt'añ sasa jan ukax trabajo sasa. Lurañ chiqpach yanapt'añ sasa uñtam, chiqpach jaqi materialanak apnaqam, ukat nayra lurañ jan ukax uñjañ, tiyanaka, jan ukax chiqpach pachaki sasa yanapt'añ ukhamarak sarnaqam."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Jaqinakax "dementia ukan chachanakatak lup'iwinaka" sasa jiskt'apxi, kunattix yaqha lup'iwinakax jupan jakañapar janiw mayjt'kiti. Ukax chiqpach jan walt'äwi sasiwa. Ukampis jiwasax chachan "chacha lup'iwinaka" sasa lista janiw sarañäkiti. Jach'a amuyu: chacha jupar uñjasa, kunas lurañ, uru sapa kunas lurañ ukat kunas jupar jach'a sasa luräna. Taqi jaqinakan munañapax jukhamakiwa. Walja chachanakax uywañ, qhiparu sarañ, qillqañ, ch'uxña jan ukax jach'a mamanakas gustapxi, ukat walja warminakax autonak jan ukax beisbol gustapxi.
 
-## How do I find activities he will actually enjoy?
+## Kunjamas chachax sum gustapxañapataki lup'iwinakaru thaqhañäni?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Nayra jakañ uñjañamawa qalltaña. Alzheimer's Association sasiñ, [uru sapa amtaña](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) jakañ munañanakapan, jan munañanakapan, chiqa lurañanakapan ukat uru sapa sarnaqañ uñjaña ukhamar lurañamawa. Jumax amuyasim:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **¿Kunas lurañapa?** Oficina, chakana, fábrica, oficio, soldado, venta, yatichaña, manejo, jan ukax utan lurañ?
+- **¿Kunas lurañ jan lurañ urunakan?** Challwa ch'allaña, naypachan, madera lurañ, deporte, iglesia, ch'uxña, manqha lurañ, jan ukax garajen auto?
+- **¿Kunas sarnaqañapa?** Taqi uru qamañ kafe ukat periódico? Jach'a uñjañ? Sábado auto ch'allaña?
+- **¿Kunas juk'amp jupa pachpa qalltaski?** Alzheimer's Association sasiñ, jaqix janiw mayjt'atäkiñani ukhasa lurañanak qalltaski, kunjamtixa phuqhaña, ukax uru sapa sarnaqañar mantañ jutaspa.
+- **¿Kunas jan munañapa?** Walja jaqinakax deporte uñjañ gustapxi; yaqhepax jan gustapxi kunattix jakañ ukat jaramanaka jan munapxi. Uñjam kuna urunakan kusisitaski, llakisitaski jan ukax jan kusisitaski.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Familiapan awkinakaru, taqi jaqinakaru yanapt'añ sasa jiskt'añamawa. Jupanakax amuyapxi kunanakas jichhürux janiw jakañar mayjt'äkiti.
 
-## Activity ideas based on past work
+## Nayra lurañanakan lup'iwinaka
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association sasiñ, jach'a uñjañanakaw utjki: oficina lurirjax dokumentonak sartañ, ukat "kuna lurañanaka" sasa qillqañ gustapxi, ukhamarak sum mayjt'añ ukat jupa jan jak'añ, uywiri jan ukax qhiparu lurañax jach'a lup'iwinak utjaraki. Taqi lurañanakan ukhamaraki.
 
-| Past work | Activity ideas | Simpler version |
+| Nayra lurañanaka | Lup'iwinaka | Ch'iqa lurañ |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Oficina jan ukax negocio | Papelanak carpetanakar sartaña, sobrenak selloña, lista uñjaña, escritorio jaskha sum jaskhaña | Sobrenak apaqaña; clip paquetenakar churaña |
+| Oficio jan ukax mecánico | Lijañ tuqinak, tornillonak ukat arandelanak sortiyaña; jach'a tornillonak amparampi ajuntaña; herramientanakan catálogonak uñjaña | Tamañ sasiw kimsa tazanakar sortiyaña |
+| Qamaña jan ukax jardinería | Yaqhipa, qhurunak apaqaña, lapanak thaqhaña, uywiri uñjaña | Uraqpachan jaqhipa lurañ uñjaña; muruxa ch'allaña |
+| Soldado | Zapatonak ch'uqiñ, cajón sum jaskhaña, jiwasan sarnaqañan fotonak uñjaña, sapa chachax munasa | Uru sapa taqi musica uñjaña |
+| Venta jan ukax atención al cliente | Uñtasiri jaqinak sum katuqaña, manq'a apaqaña, cupón sortiyaña | Puerta sayt'asa, sum sarañ mayaña |
+| Yatichaña | Libro taypi wakiskañ, libronak jaskha, pinturanak tema sasa sortiyaña | Pinturanakan libro sapa uñjaña |
+| Manejo jan ukax transporte | Mapanak jan ukax auto revistanak uñjaña, auto ch'allaña | Ch'iqa punkuna autonak uñjaña |
+| Utan lurañ ukat familia | Lliqinak phuqhaña, mesa churaña, mank'a lurañ yanapt'aña | Servilletanak llamp'uña; ch'uxña |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Yaqha yatiñanakax, sapa kawkirus soldado jakañ, chuymar ch'ankhanak apt'ayapxi. Chachan jan walt'äwiruw sarnaqañamawa, nayra jakañ parlañax chiqpach sum utjañapawa, ukat jupa llakisispa ukhasa, jisk'a jisk'a tema uñjañ.
 
-## Activity ideas based on hobbies
+## Gustapkäna lup'iwinakan lup'iwinaka
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Maderanak lurañ.** Chiqapar madera lijañ jan ukax pájaro utanak pintaña. Alzheimer's Association sasiñ, taller ukat herramientanak peligrosa yänak aparañamawa, ukhamat lijañ ukax walikiñ ukat seguro sasiw.
+2. **Challwa ch'allaña.** Anzuelonak jank'aki apaqaña, challwa revistanak uñjaña jan ukax challwa qhurunakan mayt'añ.
+3. **Autonak.** Auto ch'allaña, metal ch'uqiñ, klásico autonak fotonak uñjaña jan ukax pasajeruw sarañ.
+4. **Deportes.** Klásico partido jan ukax jach'a uñjañanak uñjaña, jisk'a pilota katuqaña, golf pelotanak alfombra ukan churaña jan ukax deporte tarjetanak sortiyaña.
+5. **Naypachanaka ukat juegos.** Yatiña naypacha sasa maynir juego, dominó, jan ukax uñt'ata naypachanak jaqhapaña. Sum amuyat sarnaqañamawa, puntos jaqhipañ jan ukax yanapt'añ.
+6. **Ch'uxña.** Nayra qhipa jiwasan arunaka, jach'a ch'uxña, jan ukax iglesia ch'uxña. Uñjam [ch'uxña lup'iwinakan uñjañanakapa](/activities/music/).
+7. **Mank'a lurañ ukat kallu lurañ.** Ch'uñu lurañ, sala jaqhapaña, hamburguesanak lurañ, jan ukax chili kunjamas lurañ sasa parlañ mank'a lurañ.
+8. **Periódico.** Alzheimer's Association sasiñ, jaqix taqi uru periódico wakiskañ gustapkaspas, jichhürux jan taqi arunak amuyañ puedkaspas uka lurañ jiwasan walikiñ. Kafe ukat periódico uru qalltañ taypin utjañapawa.
+9. **Lurañ.** Jach'a piezanakampi model kitanak jan ukax chachanakatak juk'a construcción juegonak. Ch'iqa katuqañ piezanak ajllam.
+10. **Kunas uywañ.** Uywa mank'a churaña, pájaro mank'a churaña jan ukax uraqpachanak uma churaña. NIA sasiñ [uywa uywaña, ch'allaña jan ukax sarañ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sasiw jan sasa lup'iwinakar uñjañapa.
 
-## How do I offer an activity without it feeling like busywork?
+## ¿Kunjamas lup'iwinaka churasma jan lurañ sasa uñjatañapataki?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Chiqpach yanapt'añ sasa churañamawa. Alzheimer's Association sasiñ, "¿Yanapt'añamawa?" sasa jiskt'añ ukat lurañanak amuyañ sasa mayjt'añamawa. Uñjam:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "¿Ukanak sortiyañ munasmati?" (ukax prueba sasiñ uñjasi)
+- "Nayjar hierro mikstu aljanak lunthatxta, ukanak sortiyañ munasa. ¿Yanapt'añamawa?" (ukax trabajo sasiñ uñjasi)
 
-Other tips:
+Yaqha yatiñanakax:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Jaqinakan materialanak apnaqañ.** Chiqpach herramientanak lluqallatak, catálogo chiqpach, sobres chiqpach.
+- **Mayniw sarañ.** Payan jaqir lurañ sum sarañ, mayni uñjañ jan ukax yanapt'añ sasa jiwasan sarañ.
+- **Janiw jan ukax chuymanakkiti.** Tornillonak jan kawkisa uñtañ ukax jan walt'añamawa. Chiqpach mayjt'ayañax sum sarañawa ukat yanapt'asiñ amuyañawa.
+- **Qalltañ yanapt'aña.** Alzheimer's Association sasiñ, walja jaqinakax lurañ munapxi, jan ukax sarnaqañ jan yatipxi. Nayra lurañ mayt'ayañ.
 
-## How do I adapt as things change?
+## ¿Kunjamas mayjt'añ kunas mayjt'añapa?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Dementia sarxi, Alzheimer's Association sasiñ, jan ch'uxña lurañanak churañ, sapa kutiw lurañanak churañ, ukat jaqix jan ch'uxña lurasa ukhamaraki yanapt'añapa. Kawkirus maynir auto lurirjax jichhürux auto uñjañ jan ukax uñjañ gustaraki, ukhamar, chiqpach jupa pachpa sarnaqañ utjaraki. Sapa kutiw uñjañax lurañ ukhamarakiw.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Jupax sum lurañ yatinakax, nayra lurañ jan ukax jan chiqpach jan ukax yaqha lurañ sum apnaqañ jan ukax sarañ ukhamarakiw. Alzheimer's Association sasiñ, profesional pintor jupan lurañ mayjt'ayañ jan ukax llakisiñ, amateur jupan lurañ jach'a nayrat ukat yaqha lurañanakar sarañ gustapxi. Ukhamarakiw carpintero jach'a yatiri.
 
-## Safety with work-style tasks
+## Trabajo sasa lurañanakan seguridad
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Herramienta jach'a, lijañ, uñjañ jan ukax jark'añ tornillonak aparam.
+- Thinner, gasolina ukat químico yänak llavepan jist'aram.
+- Jupan auto jan apnaqaspa ukhasa, auto llavenak jist'arama.
+- Taqi taller ukat uraqpachan lurañanakan uñjam.
+- Ch'uqi kunanakax mank'añ janiw puedkaspa ukanak ajllam.
 
-## What if he says no?
+## ¿Kunas jupax janiw sasaspa ukhasa?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Ukan jan sasiñ sum uñjam. Janiw sasiñax lurañ jach'a jan ukax wawachat sasa jan ukax jichhürux jan chiqpach sasa amuyasiñamawa. Alzheimer's Association sasiñ, jan lurañ jach'a churañ jan ukax yanapt'añ. Yaqha lurañ, yaqha urux, jan ukax maynir sarañ. Uka [jan sasiñ sum sarnaqañ](/caregiving/when-they-say-no/) uñjañ.
 
-## Games and conversation that fit
+## Juegos ukat parlañanak
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) juego, qhiparu sasanak arunak qhipäñ, parlañar puriñ. [Conversation Cards](/games/conversation-cards/) juego, quiz jan ukax prueba jan utjaraki jiskt'awinakampi, ukat lurañ ukat ch'uxña tuqi parlañar puriñ. [Picture Puzzle](/games/picture-puzzle/) juego, taqi uñjasiñ utjañapataki jisk'a piezanak thaqhañ, ukat juk'a letra imprimida [Word Search](/games/word-search/) juego, imprimisax lapiz ukamp kusina mesa ukan lurañapawa. Chachan nayra jakañap parlañ jan pruebañapataki, uñjam [reminiscence guía](/activities/reminiscence/).

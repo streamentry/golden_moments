@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "No suɓortoo jaaɓngal e fijirde dementia"
+seoTitle: "No suɓortoo jaaɓngal e fijirde dementia: Daggol"
+description: "Daggol toppitorde ngam suɓaade jaaɓngal e fijirde dementia: fuɗɗo e faandaare maa, reen e limtinooje e ɓeyditte, ƴeew suturo, e seedeeji."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Fuɗɗo e ko njiɗ-ɗaa jaaɓngal ngal waɗa: wallitde hakkil e nder weltaare,
+  siftorde ko ɓenni, deeƴre walla jokkondiral. Caggal mum, suɓo ko yahdi
+  e mbaawka mo toppitotoɗaa hannde, e nate mawɗe, tawa alaa limtinooje,
+  keɓal walla ɓeyditte, tee no weeɓiri dartinde. Ƴeew ko humpitooji ɗi
+  roɓindii e hol no ɗi momtirtee. Reen e daaluyeeji wonde jaaɓngal ina
+  haɗa walla ina safrora dementia; wiɗto gooto wonaa seedee.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Suɓo faandaare tawo: wallitde hakkil, siftorde ko ɓenni, deeƴre walla jokkondiral ina naamnii jaaɓngal goɗngal."
+  - "Yahdin jaaɓngal e mbaawka mo toppitotoɗaa e ñalnde ndee, wonaa innde tolno, tee teeŋtin kuutorɗe ɗee ina weeɓi."
+  - "Accu jaaɓe jogiiɗe limtinooje, keɓal, nguurndam ɓurtuɗam, jokkorɗe walla ɓeyditte."
+  - "Ƴeew roɓindagol humpitooji, lollingol mum e momtugol mum. HIPAA heewi wonaa huutoraade e jaaɓe keewɗe."
+  - "Hutoro e daaluyeeji «ina haɗa dementia». Ƴeewndo gooto, walla keɓal ɓurngal e jaaɓngal, wonaa seedee."
+  - "Golden Moments ko gollal weltaare tan. Alaa daaluyeeji cellal."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Fijirde hakkil ina waawi haɗde dementia?"
+    a: "Alaa seedee moƴƴo wonde jaaɓe fijirde hakkil njeeyete ina kaɗa walla ina neɗɗina dementia. National Institute on Aging wiyi alaa seedee yonɗo wonde jaaɓe peññingol hakkil keewɗe ina mbaɗa ko honno ekkitinol teelngol ƴeewaaɗo e wiɗto mawngo. Suɓo jaaɓe ngam weltaare e jokkondiral, wonaa lekki."
+  - q: "Jaaɓngal dementia ina waɗi e HIPAA?"
+    a: "Heewi wonaa. HIPAA ko heewi huutoraade e hokkooɓe cellal, eɓɓooje cellal e gollodiiɓe mum en. Jaaɓngal ngal aawtataa e hoore maa heewi wonaa e mum, so wonaa ɓe ndokkuno. Health Breach Notification Rule mo FTC ina huutoraade e jaaɓe cellal keewɗe ɗe HIPAA huutoraaki."
+  - q: "Hol no fijirde dementia moƴƴere foti wonirde?"
+    a: "Nate e binndol mawɗe, laaɓtuɗe, goɗngol gootol laaɓtungol waɗde e yaynirde kala, alaa limtinoore walla keɓal, alaa hitooji e juuɗe, alaa ɓeyditte, tee no weeɓiri dartaade walla fowtude. Ina foti yiyde ko waɗanaa yimɓe mawɓe, tee ina weeɓi mo woɗɗo naata e mum."
+  - q: "Golden Moments ina daalaa wallitde teskorde?"
+    a: "Alaa. Golden Moments ina hokka gollal ngal renndinde weeɓngal ngam weltaare e yeewtere. Ngal annditaaki, safroraaki, haɗaaki walla ɓetataa dementia, tee min mbaɗataa daaluyeeji baɗte teskorde walla miijo."
+  - q: "Mi foti yoɓde jaaɓngal dementia?"
+    a: "Eto ko dokkal walla etooji dokkaaɗi tawo, tee ƴeew no mo toppitotoɗaa jaabora e yontere ɗiɗi. Yoɓde jaaɓngal waɗataa ngal ɓurɗo moƴƴude. Ƴeew no dartinirtaa hade maa winnditde."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Jeeyngal jaaɓe ina heewi fijirde inniraaɗe mawɓe, teskorde walla dementia. Won e majje ina mbaɗiraa faamuya. Woɗɗe ina ɓeyda daaluyeeji nannduɗe e cellal, limtinooje waɗooje fijirde ƴeewndo, walla ɓeyditte e roɓindagol humpitooji. Hello ngoo ina hokku maa laawol ngam ƴeewde jaaɓngal kala e hoore maa. Min ceraa walla min ƴeewtaa topirɗe woɗɗe.
 
-## What should I decide before choosing a dementia app?
+## Ko honɗum mi foti suɓaade hade suɓaade jaaɓngal dementia?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Suɓo ko njiɗ-ɗaa jaaɓngal ngal waɗa. «Fijirde wonande yumma» ina waawi firtude geɗe ceertuɗe, tee suɓngo moƴƴo e faandaare wootere ina waawi wonde moƴƴaani e woɗnde.
 
-| Goal | What it looks like | What to look for |
+| Faandaare | Hol no ɗum yiyarata | Ko ƴeewetee |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Wallitde hakkil e nder weltaare | Jokkondirde, leemtagol, caɗeele weeɓɗe, fijirde kelme | Tolno mo wayletee, nate ɗe keedii e yeeso, alaa tiiɗnugol waktu |
+| Siftorde ko ɓenni | Nate ɓennuɗe, konngi anndaaɗi, jimɗi e sahaa maɓɓe sukaaɓe | Nate maa keeriiɗe, naamne udditiiɗe, alaa naamne ƴeewndo |
+| Deeƴre | Jiyte leɗɗuɗe, hitooji deeƴɗi, foofaandu, ndiyam ladde | Ina weeɓi fuɗɗaade e dartinde, alaa ko jalbata, alaa ko haawnii |
+| Jokkondiral | Fijirde walla yeewtere wondude, e yeeso walla e widewoo | Waɗanaa yimɓe ɗiɗo, ballal yeewtere |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Wiɗtooji baɗte «cognitive stimulation» teelngo wonande yimɓe wuuriɓe e dementia ko heewi ko kawte dental ɗe gollotooɓe ekkitaaɓe ardii, e yeewtere, fijirde kelme, caɗeele, jimol e gollal tago. [Ƴeewndo Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) yiyii nafoore seeɗa e hakindeeji, ina wayla hakkunde wiɗtooji. Eɓɓoore renndo ndee, ceertuɗo, wonaa gootum e jaaɓngal goɗngal tan, wadde jogor jaaɓngal no gollal renndingal gootal hakkunde goɗɗe.
 
-## How do I know if an app fits the person's abilities?
+## Hol no anndir-mi so jaaɓngal ina yahdi e mbaawka mo toppitotoɗaa?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Ƴeew no o jaabora, hoto ƴeew e ñawu walla innde tolno tan. Yimɓe ɗiɗo e «tolno gooto» ina mbaawi seernde no feewi e yiyde, nanaade, ƴuftagol junngo, haala e weltaare e yaynirɗe. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ina wasiyaa yoo a tesko ko o yiɗnoo e ko o waawi jooni, tee a ƴeew weltaare wonaa keɓal.
 
-Signs of a good fit:
+Maandeeji wonde ina yahdi:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- o fuɗɗotoo walla o naatotoo tawa alaa tiiɗnugol heewngol;
+- o moosa, o haala walla o sifa daartol;
+- juuɗe ina nanndude tawa mettinaani mo;
+- o weltii dartude so sahaa yontii.
 
-Signs it is a poor fit:
+Maandeeji wonde yahdaani:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- wi'a goonɗina «mi waawaa» walla «ɗum ko meere»;
+- jiigol hol to fiytee;
+- mettagol, hersa walla bugitaade kaɓirgol;
+- ɗum golla so a waɗii ko heewi fof.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Mettagol ko maande, wonaa huunde nde tiiɗnetee. Yiy [ko waɗetee so o wiyii alaa](/caregiving/when-they-say-no/). Ngam miijooji goɗɗi caggal jaaɓe, yiy gollal [tolno gadano](/activities/early-stage/) e [tolno sakkitiro](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Hol fannuuji ŋari mi foti ƴeewde walla reende?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Ƴeew ŋari deeƴɗo, weeɓɗo, moƴƴo yimɓe mawɓe, tee reen ko ɓeydata tiiɗnugol fof.
 
-| Look for | Be wary of |
+| Ƴeew | Hutoro |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Nate e binndol mawɗe, laaɓtungol moƴƴungol | Maandel seeɗa, yaynirɗe heewɗe |
+| Golle gootol laaɓtungol e yaynirde kala | Butoŋaaji keewɗi, cuɓirɗe, walla tinndinooje keewɗe |
+| Alaa limtinoore, walla limtinoore nde ñifataa | Limoore, ɓeyditte yaawre, «fooɗtu waktu maa» |
+| Alaa keɓal, walla jaabawol newiingol | Toɓɓe, nguurndam ɓurtuɗam, jokkorɗe, doggol, «duuɓi hakkil» |
+| Juuɗe ina toppitee e deeƴre | Hitooji, maandeeji boɗeeji, ɓatakuuje «juuɗi» |
+| Nate goonga, nder aduna | Yiite ɓikkoy walla tiitoonde fayɓe |
+| Ina golla tawa alaa enternet, alaa konte fuɗɗaade | Ina naamnii winnditde, naatde walla aawtaade tawo |
+| Ina weeɓi fowtude e dartinde | Henndu ɓurɗo naamnaade jokku fijirde walla ɓetto jaaɓngal |
+| Alaa ɓeyditte, coodgu laaɓtungu gootol walla winnditagol | Ɓeyditte, dokkal coodgu, ɓatakuuje coodgu heewɗe |
+| Ina weeɓi mo woɗɗo naata e mum | Fijirde gooto tan, ŋari fooɗondirgol |
 
-Ads and purchase prompts are easy to tap by accident.
+Ɓeyditte e ɓatakuuje coodgu ina weeɓi memmude e juuɗe.
 
-## How do I check an app's privacy?
+## Hol no ƴeewr-mi suturo jaaɓngal?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Ƴeew ko jaaɓngal roɓindii, e mo o lollintaa, e hol no momtirtaa. Hade maa aawtaade:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Tar tonngol suturo e jeeyngal.** [Yaynirde kisal keɓe Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) e [humpito suturo App Store](https://support.apple.com/en-us/102399) ina kollita fannu keɓe ɗe jaaɓngal waawi roɓindaade e lollinde. Gollorɗe ɗiɗi ɗee ina teskitina wonde topayɓe ɓe ngaddii humpito ngoo, wadde ko fuɗɗorde, wonaa ƴeewndo timmungo.
+2. **Naamno so ina naamnii konte.** So jaaɓngal tan hollata nate walla fijirde weeɓɗe, alaa ko waɗi yo anndu innde maa, iimeel maa walla ñalngu jibinannde maa.
+3. **Ƴeew yamirooje.** Fijirde jokkondirde ina foti naamnaade nokku, jokkondire, mikkoroo walla ndeer nate maa fof? Ñif ko ɗum soklaani.
+4. **Yiylo ɓeyditte e ƴeewndo kuutoragol.** Kuutorɗe ɓeyditte e rewindo ina mbaawi neldaade humpito baɗte no jaaɓngal huutortee to gollorɗe goɗɗe.
+5. **Anndu to nate njaha.** So a ɓeydii nate ɓesngu, ina keddoo e kaɓirgol walla ina neldee to sarwirde? A waawi ittude ɗe?
+6. **Ƴeew momtugol.** Yiylo e laawol suturo walla tonngol keɓe hol no keɓe e konte momtirtee. Jaaɓngal wi'ungol keɓe momtetaake ina foti reeneede, tentini so ina moofti nate walla humpito cellal.
+7. **Tar laawol suturo** ngam jaabawuuji laaɓtuɗi baɗte ko roɓindaa, ko saabii, ko dumunna no foti, e mo ɗum lolliraa.
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA ina reena humpito nder jaaɓe dementia?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Heewi wonaa, ɗum ina haawna yimɓe heewɓe. U.S. Department of Health and Human Services [ina sifaa](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) wonde HIPAA ina huutoraade e eɓɓooje cellal, hokkooɓe cellal heewɓe, laɓɓinooɓe cellal e gollodiiɓe mum en. Ko heewi ɗum reenaa keɓe ɗe naatnataa e jaaɓngal ngam huutoraade keeriiɗo, so wonaa fedde reenaaɗe walla gollodiiɗo mum rokki jaaɓngal ngal. «Jaaɓngal dementia» iwde e jeeyngal jaaɓe heewi ko caggal HIPAA, hay so ina haala baɗte cellal.
 
-### What protects health data in apps that HIPAA does not cover?
+### Ko honɗum reena keɓe cellal e jaaɓe ɗe HIPAA huutoraaki?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Health Breach Notification Rule mo Federal Trade Commission ina huutoraade e keewɗe e majje. E 2024, FTC [timminii waylitte](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) laaɓtinooje wonde laawol ngol ina huutoraade e jaaɓe cellal e karallaagal nannduɗo ɗe HIPAA huutoraaki. «Bonnannde» ina waɗi e feññingol yamiraaka, wonaa wujjere tan, tee gollorɗe ina poti humpitde yimɓe mettidaaɓe e FTC. Ɗum ko reeno caggal ko boni waɗi, wonaa ahadi wonde jaaɓngal roɓindata tan ko ɗum sokli.
 
-## How should I read claims about research and evidence?
+## Hol no mi foti tarde daaluyeeji baɗte wiɗto e seedeeji?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Tar daaluyeeji seedeeji e nder deeƴre, tee ɓurɗo hutoraade ko e daaluyeeji ɓurɗi mawnude. Naamne ƴeeweteeɗe:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Ko honɗum tigi ƴeewaa?** Wiɗto baɗte eɓɓoore ekkitinol wootere hollataa wonde fijirde kala nder jaaɓngal ina golla hono noone.
+- **Hol ɓe ƴeewaa?** Njaltudi e mawɓe cellal ina waawi yahdaade e mo wuuri e dementia.
+- **Ko honɗum ɓetaano?** Ɓurde moƴƴude e fijirde ndee tan seerani e waylitte e nguurndam ñalnde kala, yeewtere, ɓernde walla hoore mum.
+- **Ko hol no wiɗto ngoo tiiɗiri?** Wiɗto suɓngo (RCT) ina yerondira dental huutortooɓe jaaɓngal e dental huutoraaka. Ɗum ko ŋari moƴƴo, kono RCT gooto, tokooso walla daɓɓo, wonaa seedee. Yiylo wiɗtooji keewɗi, iwɗi e wiɗtooɓe jeytaaka, ɗi njaɓdi.
+- **Ina daalaa waylude ñawu nguu?** Wiɗto holluɗo ɓeydagol seeɗa e ƴeewndo wonaa seedee wonde jaaɓngal ina neɗɗina, ina haɗa walla ina safrora dementia.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Hello [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) mo National Institute on Aging ina sifaa wiɗto mawngo ballitaaɗo NIH baɗte ekkitinol hakkil teelngol, caggal mum ina reena tarooɓe e daaluyeeji wonde won fijirde ordinateer e enternet ina waawi ƴellitde teskorde e miijo. Ina wiya alaa tawo seedee yonɗo wonde jaaɓe peññingol hakkil keewɗe ina mbaɗa ko ekkitinol ƴeewaaɗo e wiɗto ngoo waɗi. A waawi tarde goɗɗum e jammaamen men baɗte [fijirde hakkil e seedeeji](/brain-health/brain-games/) e [ko wiɗto wi'i baɗte haɗde dementia](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Hol yeru feññungu daaluyeeji ɗaynotooɗi?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+E lewru Yarkomaa 2016, FTC [feññini nanondiral](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) e waɗooɓe Lumosity, eɓɓoore «peññingol hakkil». FTC wi'i gollorde nde daalii, tawa alaa seedee yonɗo, wonde fijirde mum ina waawi neɗɗinde ustaare hakkil nde duuɓi addi tee ina reena e ustaare hakkil seɗɗa, dementia e ñawu Alzheimer. Gollorde nde jaɓii yoɓde miliyoŋ 2 dolaar tee ina foti jogiide seedee ganndal tiiɗɗo hade waɗde daaluyeeji hono ɗii yeeso. Fiɓnde ndee ina siftina wonde konngol yeeyirde wonaa seedee.
 
-### Which words are red flags?
+### Hol kelme ɗe pot-ɗen hutoraade?
 
-Be cautious when an app or ad says it:
+Hutoro so jaaɓngal walla ɓeydital wiyi ɗum:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- «ina haɗa», «ina artira», «ina dartina» walla «ina safrora» dementia walla Alzheimer;
+- ko «seeditaaɗo e cellal» tawa inniraani wiɗto ngoo, hol ɓe wonnoo e mum, e ko honɗum ɓetaano;
+- ina hokku «duuɓi hakkil» walla keɓal teskorde nanndungol e annditde ñawu;
+- ina «laɓɓina», «ɓeyda» walla «ekkitina» hakkil;
+- ina huutoraade seedeeji yimɓe no seedee.
 
-If you are unsure about a claim, ask the person's doctor.
+So a laaɓtaani daaluyee, naamno doktoor mo toppitotoɗaa.
 
-## Where does Golden Moments fit?
+## Hol to Golden Moments woni?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments ina hokka gollal ngal renndinde weeɓngal, wonaa ƴeewndo teskorde, safaara walla wasiyaaji cellal. Fijirde amen, hono [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) e [Calm Breathing](/games/calm-breathing/), ina mbaɗiraa weltaare e yeewtere. Ɗe ngannditaaki, safroraaki, haɗaaki walla ɓetataa dementia, tee min mbaɗataa daaluyeeji baɗte teskorde walla miijo.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Min mbaɗii kadi jaaɓngal dokkal, [Golden Moments wonande iPhone, iPad e Android](/app/). Ina waɗi jokkondirde nate e nder deeƴre e kaarɗe mawɗe, fijirde e nate ɓesngu ɗe suɓ-ɗaa e pake nate gollotooɗe tawa alaa enternet, alaa konte, ɓeyditte, limtinoore walla keɓal. Daggol ngol ina huutoraade kadi: maandee suturo App Store mum ina wiya «Keɓe Roɓindaaka», tee [laawol suturo jaaɓngal ngal](/app-privacy/) ina sifaa to koppiiji nate mooftiraa.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Min ɓuri yiɗde yo a ƴeew min, wonaa yo a hoolo min tan. Huutoro daggol hello ngoo, tar [hello suturo amen](/privacy/) e [renndinoore cellal amen](/medical-disclaimer/), tee dartin huutoraade huunde kala, hay amen, nde yahdaani e mo toppitotoɗaa.
 
-## What is a sensible way to try a new app?
+## Hol laawol moƴƴol ngam etaade jaaɓngal kesol?
 
-Try it together for a couple of weeks and watch what happens.
+Eto ngal wondude e yontere ɗiɗi tee ƴeew ko waɗata.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Teelto ngal tawo** huutoraade [jamirooje taballe e cinndel amen](/caregiving/tablets-and-screens/), tee fuɗɗo e tolno ɓurɗo weeɓde.
+2. **Teeŋtin sahaaaji daɓɓi,** ƴeew moosaango, yeewtere e deeƴre, tee dartin e sahaaji moƴƴi.
+3. **Accu ngal so ina addude mettagol,** hay so ina yettiraa no feewi.

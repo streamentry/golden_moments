@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Eengodi dovideo nomunhu e na oudu wokudimbwa"
+seoTitle: "Oilonga yongodi dovideo noudu wokudimbwa"
+description: "Oilonga yongodi nodovideo kovapambele ve li kokule nomunhu e na oudu wokudimbwa: okuulikila, okulesha, okwiimba nomaudano okupitila moskepa."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Eengodi nomunhu e na oudu wokudimbwa ohadi ende nawa ngeenge odi fupi,
+  hadhi ningwa pandjikilile nohadi kwatele mo sha tamu ningi pamwe, ngaashi
+  okuulikila okambishi ile oshikunino, okutala omafano, okuleshela mokule,
+  okwiimba eimbilo a hala ile okudana oudanaukifo tau ngungumana okupitila
+  moskepa ya tumbulwa. Dengela pefimbo limwe efiku keshe ngeenge tashi
+  shiiva, popyeni umwe pelimwe, nokupula umwe oo e li po e ku kwafele.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Oilonga ohai pe ongodi elandulafano nohai kufa po oudjuu wokukundafana. Longekida oshinima shimwe shipu mu shi yandje pamwe."
+  - "Eengodi difupi, hadhi ningwa pandjikilile pefimbo limwe mefiku ohadi longo nawa luhapu shi dulife eengodi dile hadi ningwa omafimbo nomafimbo."
+  - "Umwe ta popi pelimwe. Eengodi dongudu omo aveshe tava popi pefimbo limwe odidjuu okuudiwa ko, unene ngeenge oku na oudjuu wokuuda."
+  - "Omukwafi oo e li po ota dulu okulongekida oshilongifo, okukala omutumba puye, nokukala ‘omake’ oudano keshe ile efano."
+  - "Ngeenge ongodi itai ende nawa nena, i xulifa nombili. Okuyelula vali mongula oshi li nawa."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Oshike handi dulu okuninga mongodi yovideo nomunhu e na oudu wokudimbwa?"
+    a: "Longekida oshilonga shimwe shipu: ulikila oshikunino shoye, okambishi ile okombitha; taleni omafano akulu pamwe; lesha okatevo ile onhumwafo ifupi mokule; imbeni eimbilo e li hole; telekeni pamwe oshikulya shimwe pefimbo limwe; ile daneni oudanaukifo womafano tau ngungumana okupitila moskepa ya tumbulwa. Oilonga ohai pe ongodi osho tamu yandje elitulemo opo omunhu a ha kale e na okutwala po eenghundafana."
+  - q: "Ongodi yovideo oi na okukala ile shi fike peni?"
+    a: "Luhapu oifupi shi dulife eshi to diladila. Ominute dishona doukwatya muwa otadi dulu okuwana, unene ngeenge omunhu oha loloka diva. Okudenga pandjikilile pefimbo limwe mefiku otashi dulu okukala sha fimana shi dulife oule wongodi keshe."
+  - q: "Oshike ndi na okuninga ngeenge okwa ngwangwana ile a uda nai keengodi dovideo?"
+    a: "Ovanhu vamwe ohava mono oshipala koskepa tashi ngwangwaneke. Kendabala ongodi yongodi ashike, etumwalaka lovideo la kwatwa omukwafi te li dana pefimbo la ngungumana, ile oukalata nomafano taa tumwa meposita. Ngeenge ongodi inai enda nawa, i xulifa nouwa ndele to kendabala vali efiku limwe ile pefimbo limwe."
+  - q: "Ongahelipi handi dulu okukwafela meme a denge ongodi yovideo ngeenge ita dulu okulongifa ongodi?"
+    a: "Pula oshilyo shoukwaneumbo, omufiliki meumbo ile omunailonga wonhele yokufila oshisho a hovife ongodi nokukwata ile okutula oshilongifo mondjila. Eenhele dihapu dokufila oshisho ohadi kwafele omaumbo neengodi dovideo, onghee pula eshi hava yandje. Otableta ya tulwa koshikwatelifo, ya tulwa koskepa inene noya ningwa i uditike nawa, otai shi ningifa shipu kuaveshe."
+  - q: "Ohatu dulu tu dane oudanaukifo pamwe okupitila movideo?"
+    a: "Heeno. Onghedi ipu oyoumwe ta ulike oskepa yaye moprograma yovideo omanga mukwao te mu lombwele efano olo e na okudenga. Ile omukwafi oo e li po ota dulu okuyeulula oudanaukifo wa faafana kotableta nokudengela omunhu ofimbo tamu popi naye kombinga yao. Hoolola omaudano ehe na efimbo lokutengeneka ile omawedele."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Okukala kokule nomunhu e na oudu wokudimbwa otashi dulu oku ku udifa wa ngabekwa. Eengodi dongodi nodovideo itadi pingena po ekwato, ashike natango otadi dulu okweeta oikando yashili yekwatathano ngeenge owe di longekida nawa. Oshitwa osho okweefa po okukendabala okukala neenghundafana da ikililwa nokulongekida ponhele yaasho oshinima shipu mu shi yandje pamwe. Epandja eli otali popi oilonga tai longo okupitila movideo nongodi, nghee ongodi tai dulu okulongekididwa, naasho omunhu oo e li po ta dulu okuninga okukwafela.
 
-## Why plan an activity for a call?
+## Omolwashike wa pumbwa okulongekida oshilonga shongodi?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Oshilonga ohashi pe ongodi elandulafano. “Ou li ngahelipi? Owa ninga shike nena?” otashi pula omunhu a dimbuluke nokulombwela, osho tashi dulu okukala shidjuu notashi eta oudjuu. “Tala, omatamate okwa pya” itashi mu pula sha nandenande.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association otai ti kutya eenghundafana moongudu dinene okupitila movideo otadi dulu okukala didjuu, notai yandje ediladilo [lokuweda elandulafano kongodi](https://www.alz.org/help-support/caregiving/holidays) noinima ngaashi okwiimba omaimbilo ile okuyandja omafano.
 
-## What activities work on a video call?
+## Oilonga ilipi tai longo mongodi yovideo?
 
-### Show and tell
+### Ulikila nokuhokolola
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Eta ounyuni woye kuye. Endifa okamera kanini moshikunino shoye, mu shiivife nombwa, ulikila eshi to teleke, kwata efano lomunona, ile yelula ongodi kembululu i tale omundele. Hokolola eshi to mono meendjovo diipu nokuleka oikando yokunyamukula. Inapa pumbiwa omapulo.
 
-### Look at photos together
+### Taleni omafano pamwe
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Kwata efano lakulu loshitoo komesho yokamera, ile ulikila oskepa yoye u ulike omafano manini manene limwe pelimwe. Popyeni kombinga yaasho tamu mono: “Tala embale laTatekulu.” Henuka omapulo ngaashi “Olyelye ou?” ile “Oto dimbuluka?” Ngeenge omunhu okwa tumbula umwe epuko, efa shi kale ngaho. Tala [omayele etu okukundafana omafano noku dimbuluka](/activities/reminiscence/) omolwomapulo omoule.
 
-### Read aloud
+### Lesha mokule
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Lesha okatevo kafupi, epsalme, embo lounona li holike pamwe nomutekulu mongodi tuu oyo, onhumwafo ya dja komupambele, ile epandja membo e li hole. Okulesha mokule ohashi pe omunhu sha shingungumana okupwilikina kasho inashi pumbiwa okuyamukula.
 
-### Sing or listen to music together
+### Imbeni ile pwilikineni omusika pamwe
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Imba eimbilo e li shii nawa, ile dana eimbilo e li hole kombinga yoye. Okwiimba pamwe ohashi kala shipu shi dulife okupopya kovanhu vahapu. Tala [omayele etu oilonga yomusika](/activities/music/).
 
-### Cook or bake at the same time
+### Telekeni ile bakeneni pefimbo limwe
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association otai yandje ediladilo okulongekida ongodi yovideo mu teleke ile mu bake oshikulya shimwe she likalekelwa pamwe. Tuleni ongodi momakombitha aeshe avali. Omunhu oo e li po ota dulu okutuvikila ile okumakela omanga ove to landula okakalata kaye kokuteleka.
 
-### Watch something together
+### Taleni sha pamwe
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Ehangano otali yandje yo ediladilo okutala okafilima ke holike pefimbo limwe momaumbo a yooloka ofimbo tamu popi kongodi ile movideo. Komunhu e na oudu wokudimbwa, okatukulwa kafupi, oshipitililo shikulu shotivii ile oudano wembumbuma otashi dulu okulonga nawa shi dulife okafilima akushe.
 
-### Play a gentle game on a shared screen
+### Daneni oudanaukifo tau ngungumana okupitila moskepa ya tumbulwa
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Ooprograma dihapu dongodi dovideo ohadi pitike u ulike oskepa yoye. Oove to yeulula oudanaukifo nokudenga; omunhu ote ku lombwele ile ta ulike efano olo e na okuhoolola. Ile omukwafi oo e li po ota yeulula oudanaukifo wa faafana kotableta nokudengela ye ofimbo tamu kundafana.
 
-Games that work well this way:
+Omaudano taa longo nawa monghedi ei:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** oove to lesha eyeletumbulo li shiiwe, ye ta ti exulifo, ndele tapa landula epulo tali popiwa.
+- **[Picture Pairs](/games/picture-pairs/):** oudanaukifo wokufaathana tau ngungumana u na omafano manene taa dulu okukala a ulikwa, kau na efimbo lokutengeneka ile omawedele.
+- **[Conversation Cards](/games/conversation-cards/):** efano nepulo la manguluka mu kundafane pamwe.
+- **[Photo Pairs](/games/photo-pairs/):** oudanaukifo wokufaathana wa ningwa komafano wa hoolola koshilongifo shoye mwene. Omafano ohaa kala moshilongifo shoye shokutalela, nomunhu ote a mono okupitila moskepa yoye ya tumbulwa.
 
-### Recorded messages
+### Omatumwalaka a kwatwa
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Ngeenge eengodi odo tadi ningwa pefimbo opo odidjuu, kwata okavidio kafupi: omakundilo, eimbilo, ile eenghatu moshikunino shoye. Omukwafi ote ka dana pefimbo la ngungumana, lwoikando ngaashi omunhu te shi hafele. Alzheimer's Association otai tumbula okutuma oikando ya kwatwa, ngaashi ounona tava pandula oipewa.
 
-## What about plain phone calls?
+## Ninga shike shi na sha neengodi dongodi ashike?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Eengodi dongodi ashike natango oda fimana. Dementia Australia otai yandje ediladilo [lokudenga pefimbo limwe efiku keshe](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) nokuhakwatela po, molwaashi ovanhu ve na oudu wokudimbwa otashi dulu okutwala efimbo va ye mo meenghundafana. Mongodi:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Tumbula edina loye noupambele weni diva: “Wa lala po, Tate, aame Jenny, omonakadona woye.”
+- Popya kanini, neendjovo difupi, ediladilo limwe pelimwe.
+- Yandja eenghundana ponhele yoku di pula: “Onda teleka oshikulya shoye shombelela onguloshi.”
+- Lesha okatevo kafupi, ile imba oshitukulwa sheimbilo li holike.
+- Kaleka ongodi ifupi nokuxulifa nondjovo youkwatya muwa.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia otai ti yo kutya eengodi dovideo otadi dulu okukwafela ngeenge okupopya kwa ninga shidjuu, molwaashi omunhu ota dulu okumona oshipala shoye. Ngeenge eengodi dongodi otadi ngwangwaneke, kendabala ovideo, ile shimwe osho.
 
-## How do I set up a video call that works?
+## Ongahelipi handi longekida ongodi yovideo tai longo nawa?
 
-**Before the call:**
+**Ofimbo ongodi inai hovela:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Hoolola efimbo londjikilile** eshi omunhu luhapu a tulumukwa, ndele to kala musho. Ondjikilile ohai kwafele.
+2. **Longeleni kumwe nomukwafi oo e li po.** Etumwalaka efiku limwe komesho ohali mu kwafele a longekide.
+3. **Tala oshilongifo.** Otableta ya tulwa koshikwatelifo oipu shi dulife ongodi ya kwatwa meke. Shilipaleka kutya oya tulwa omundilo, oskepa oya yela, newi oli uditike nawa. Tula ko omanyolo ngeenge oprograma otai shi pitike nomunhu oha lesha nawa.
+4. **Longekida oshilonga shimwe** nokukala wa longekida ashishe.
 
-**During the call:**
+**Pefimbo longodi:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Kala omutumba popepi nokamera** mouyelele muwa, wa taalela ekende, ha konima yayo.
+- **Lishiivifa** ongodi keshe, nedina noupambele weni.
+- **Umwe ta popi pelimwe.** Alzheimer's Association otai ti kutya okupopya pefimbo limwe okudjuu kovanhu ve na oudu wokudimbwa nokovanhu ve na oudjuu wokuuda. Ngeenge ovapambele vahapu ova waimina mo, lundululeni ile kaleni mo muvali ile mutatu.
+- **Pula epulo limwe pelimwe.** Family Caregiver Alliance otai yandje ediladilo [lomapulo maipu taa nyamukulwa heeno ile ahawe](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), nokulika omhito ngeenge tashi shiiva.
+- **Efa pa kale omakalele male.** Teelela enyamukulo. Oshi li nawa okuyandja ondjovo ngeenge ote i kongo.
+- **Longifa oshipala shoye newi loye.** Limemesha, dimina nomutwe nokukaleka ondaka yoye i na oukwatya muwa. Oikala yoye ohai popi luhapu shi dulife eendjovo.
+- **Ino yukifa.** Ngeenge omunhu okwa popi sha shihe li mondjila, shi efa.
 
-**Ending the call:**
+**Okuxulifa ongodi:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Xulifa ofimbo omunhu ina loloka, sha denga mbada ngeenge tashi shiiva, pefimbo liwa.
+- Longifa elalekido limwe aluke ongodi keshe: “Ohandi ku dengele mongula pefimbo lomusha. Ondi ku hole.”
+- Ino li endelelifa unene.
 
-## Tips for the helper on site
+## Omayele komukwafi oo e li po
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Ngeenge oove omushamane ile omukulukadi, omufiliki, omumwaina ile omunailonga to kwafele nongodi, oove to shi ningifa tashi shiiva.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Longekida onhele ya ngungumana.** Dima otivii noku pata omweelo.
+- **Hovifa ongodi ove mwene,** ndele to pe omunhu otableta ya tulwa koshikwatelifo ile u i kwate pondodo yomesho aye.
+- **Kala omutumba puye, ha komesho yaye.** Oukalele woye otau mu kwashilipaleke. Mu dimbulukifa noukeka ngeenge sha pumbiwa: “Tala, oJenny.”
+- **Kala omake.** Kwata omafano, denga oudanaukifo, alula otableta i ulike onduda.
+- **Tala ngeenge a loloka ile a uda nai,** nokulombwela oo ta denge eshi efimbo lokuxulifa la fika.
+- **Lombwela oo ta denge eshi sha enda nawa.** “Okwa li e hole okambishi” otashi kwafele okulongekida ongodi tai landula.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA otai yandje ediladilo kutya ovapambele ve li kokule otava dulu okukwafela omunhu omukulunhu [a lilonge oinima yoshilongifo shaye shongodi](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), ngaashi eengodi dovideo. Moikando ya xuuninwa, omukwafi luhapu ota ka pumbwa okufila oshisho oshilongifo pauyadi. Osho oshi li nawa.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Ngeenge omunhu oku li monhele yokufila oshisho, Alzheimer's Foundation of America otai yandje ediladilo okupula ngeenge onhele ohai kwafele omaumbo neengodi dovideo. AFA otai tumbula yo omaumbo taa tumine omunailonga wokufila oshisho omafano okwaalulilafana, nokutuma oikulya i holike ile oinima inini tai hekeleke, konima yokupula kutya onhele otai shi pitike shike.
 
-## What if the call doesn't go well?
+## Ninga shike ngeenge ongodi inai enda nawa?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Eengodi dimwe otadi ka ngwangwaneka, tadi kala dihe na eenghono ile tadi udifa nai. Hasho epuko loye, kashi na kutya eengodi inadi wana.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Ngeenge omunhu ota monika a ngwangwana koskepa, lundulula kongodi yongodi ashike ile ketumwalaka lovideo la kwatwa.
+- Ngeenge okwa uda nai, tambula ko omaliudo aye, popya ondjovo tai hekeleke, ndele to xulifa noukeka.
+- Ngeenge eengodi luhapu ihadi ende nawa pefimbo limwe mefiku, kendabala pefimbo limwe.
+- Ngeenge okwe ku tala ko u li umwe elili, shi tambula ko nouwa.
 
-It is fine to end early. A short, warm call is a good outcome.
+Oshi li nawa okuxulifa diva. Ongodi ifupi, youkwatya muwa oyo oshizemo shiwa.
 
-## Between calls
+## Pokati keengodi
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Kala u li po meenghedi dimwe. Dementia Australia otai yandje ediladilo okutuma oukalata, omatumwalaka opaintaneta, omafano ile oipewa inini. Okakalata koposita koshivike keshe ke na efano limwe linene nonhumwafo ifupi otaka dulu okuleshwa nokuleshululwa. [Oukalata veenghundafana](/games/conversation-cards/) va nyanyangidwa tava tumwa komukwafi otava dulu okuyandja oshipalanyole sha longekidwa kongodi tai landula.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Opo u mone omayele okukuhoolola nokulongekida otableta, tala [otableta noskepa](/caregiving/tablets-and-screens/). Opo u mone efimbo lokukala pamwe koshipala, tala omayele etu [okutalela po](/activities/visiting/).

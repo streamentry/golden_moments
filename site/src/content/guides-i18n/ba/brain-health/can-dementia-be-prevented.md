@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Дементияны булдырыу мөмкинме? Фәндәр нимә әйтә"
+seoTitle: "Дементияны булдырыу мөмкинме? Тикшеренеүҙәр"
+description: "2024 йылғы Lancet комиссияһы һәм төп сынауҙар дементия ҡурҡынысын кәметеү тураһында нимә тапҡаны, нимә тапмағаны һәм табип менән нимә хаҡында һөйләшергә кәрәк."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Дементияны булдырыуға вәғәҙә itеп булмай. 2024 йылғы Lancet комиссияһының
+  иҫәпләүенсә, донъяла дементия осрақтарының яҡынса яртыһы 14 ҡурҡыныс факторы
+  менән бәйле, улар үҙгәртелергә мөмкин, мәҫәлән, юғары ҡан баҫымы, ишетеү
+  кәмлеге һәм хәрәкәтһеҙлек. Сынауҙар фекерләү тестарында кесе генә йоғонто
+  күрһәтә, ә дементия осрақтарының кәмеүен иҫбатламай. Күп кеше «дөрөҫ» йәшәһә
+  лә, бәғзеһе дементия ала, һәм был беребеҙҙең ғәйебе түгел.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 йылғы Lancet комиссияһы донъя күләмендә дементия осрақтарының яҡынса 45%-ын 14 үҙгәртелә алырлыҡ ҡурҡыныс факторы менән бәйле тип иҫәпләне. Был халыҡ буйынса баһа, шәхси кепилдек түгел."
+  - "Ҡурҡынысты кәметеү — тулы халыҡ араһында ихтималлыҡты түбәнәйтеү. Ул ҡайһы бер кешенең дементиянан ҡотолоуын аңлатмай."
+  - "FINGER, US POINTER һәм SPRINT MIND кеүек ҙур сынауҙар фекерләү тестарында йәки еңел когнитив бозолоуҙа кесе файҙа күрһәтте, ләкин береһе лә йәшәү рәүешен үҙгәртеү программаһының дементияны булдырыуын иҫбатламаны."
+  - "Йәш булыу Альцгеймер өсөн иң мөһим билдәле ҡурҡыныс факторы, уны үҙгәртеп булмай. Һау-сәләмәт йәшәгән күп кеше лә дементия ала."
+  - "Иң күп өйрәнелгән аҙымдар, мәҫәлән, юғары ҡан баҫымын дауалау, ишетеү аппараттарын ҡулланыу һәм хәрәкәттә булыу, табип менән һөйләшергә лайыҡ, сөнки улар сәләмәтлекте башҡа яҡтан да яҡшырта."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Дементияны булдырыу мөмкинме?"
+    a: "Һәр кем өсөн дементияны булдырыусы иҫбатланған ысул юҡ. Тикшеренеүҙәр ҡайһы бер ҡурҡынысты, мәҫәлән, юғары ҡан баҫымын, дауаланмаған ишетеү кәмлеген һәм тартҡыһын кәметеү халыҡ араһында дементия ихтималлығын кәметергә йәки уның башланыуын һуҙырға мөмкин, тип күрһәтә. Был ихтималлыҡ, вәғәҙә түгел."
+  - q: "Lancet комиссияһының 45% һаны нимә аңлата?"
+    a: "2024 йылғы Lancet комиссияһы донъя күләмендә дементия осрақтарының яҡынса 45%-ы 14 ҡурҡыныс факторы менән бәйле, улар теорияға ярашлы үҙгәртелә ала, тип иҫәпләне. Иҫәп был факторҙар дементияны сәбәп итә, тип фараз итә, ә авторҙар ҡайһы бер бәйләнештәрҙең өлөшләтә генә сәбәпле булыуы ихтимал тип билдәләй. Ул бөтә халыҡты һүрәтләй һәм һеҙҙең йәки ололарығыҙҙың шәхси ҡурҡынысын әйтмәй."
+  - q: "Әгәр минең ата-әсәм һау-сәләмәт йәшәһә, ни өсөн дементия алды?"
+    a: "Йәш, генетика һәм күп нәмә, уларҙы кеше контролдай алмай, дементияла ҙур роль уйнай. Lancet комиссияһы авторҙары халыҡ араһында ҡурҡынысты кәметеү, айырым кешенең дементиянан ҡотолоуына кепилдек булмауын билдәләй. Диагноз кемдеңдер ғәйебен күрһәтмәй."
+  - q: "65 йәштән һуң дементия ҡурҡынысын кәметеү һуң инде булмаймы?"
+    a: "Lancet комиссияһы ҡурҡынысты кәметеү өсөн ваҡыт бер ваҡытта ла иртә йәки һуң түгел, тип әйтә, ләкин күп дәлилдәр урта йәштәге кешеләргә ҡағыла. Ишетеү һәм күреү ҡырағайлыҡтарын дауалау, хәрәкәттә булыу һәм кешеләр менән аралашыуҙы дауам итеү — ҡарт йәшендә өйрәнелгән аҙымдарға миҫал. Һеҙҙең сәләмәтлеккә ни тура килгәнен табип менән һөйләшегеҙ."
+  - q: "Мейе өсөн уйындар йәки махсус ашамлыҡ дементияны булдыра аламы?"
+    a: "Бер уйын, ашамлыҡ, добавка йәки аш рәжиме дементияны булдырыуы иҫбатланмаған. Өс йыллыҡ MIND ашамлыҡ рәжиме сынауында фекерләүҙә контроль рәжим менән сағыштырғанда мөһим айырма табылманы, ә мейе өсөн уйындар тураһындағы ҡушымталар тикшеренеү сынауҙарында күрһәтелгән файҙаны ҡабатламай."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Әгәр һеҙ дементия менән йәшәгән кешегә ҡарайһығыҙ, йәки ата-әсәгеҙҙең был ауырыу менән йәшәүен күргәнһегеҙ, бәлки, уны туҡтатыу мөмкин инеме, тип уйлағанһығыҙҙыр, һәм үҙегеҙгә лә уның килмәүен теләрһегеҙ. Был биттә фәндәр нимә әйтә икәне ябай телдә аңлатыла. Ҡыҫҡаһы: дементияны булдырырға вәғәҙә итеп булмай, ләкин ҡайһы бер ҡурҡынысты кәметеп буласаҡ. Ә уларҙы бөтә халыҡ араһында кәметеү дементия осрақтарын кәметергә йәки уның һуңыраҡ башланыуына ярҙам итергә мөмкин.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Был — дөйөм мәғлүмәт, медицина кәңәше түгел. Зинһар, [медицина иҫкәртеүебеҙ](/medical-disclaimer/) менән танышығыҙ һәм үҙегеҙҙең сәләмәтлек хаҡында табип менән һөйләшегеҙ.
 
-## Can dementia be prevented?
+## Дементияны булдырыу мөмкинме?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Бер кешегә лә дементияны булдырыусы иҫбатланған ысул юҡ. АҠШ Ҡартайыу институты (NIA) әйтеүенсә, [Альцгеймерҙе булдырыу өсөн әлегә бер нәмә лә иҫбатланмаған](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), ләкин ғалимдар перспективалы ысулдар тапты һәм нимәләр эшләргә мөмкин һәм нимәләр эшләмәҫкә лә мөмкин икәнен өйрәнә.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Тикшеренеүҙәр шуны күрһәтә: ҡайһы бер сәләмәтлек хәлдәре һәм ғәҙәттәр дементия ихтималлығы менән бәйле. Был ҡурҡыныстар халыҡ араһында кәмегәндә, дементия менән ауыраҙар кәмерәк булыуы мөмкин, йә уны һуңыраҡ аласаҡтар. Был — кепилдек түгел.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Өмөт биреүсе бер билге: 2024 йылғы Lancet комиссияһы ҡайһы бер юғары килемле илдәрҙә, мәҫәлән, АҠШ һәм Бөйөк Британияла, олраҡ йәштәге кешеләр араһында дементия дәрәжәһенең кәмеүен хәбәр итте. Авторҙар был, ихтимал, яҡшыраҡ белем, яҡшыраҡ медицина ярҙамы һәм ғүмер буйы ҡан тамырҙарының әҙерәк зарарлануы арҡаһында булырға мөмкин, тип иҫәпләй. Был тураҡта [Лондон университет колледжының (UCL) кәңәше](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) яҙа.
 
-## What did the 2024 Lancet Commission find?
+## Lancet комиссияһы 2024 йылда нимә тапты?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Дементияны профилактикалау, дауалау һәм ярҙам күрһәтеү буйынса Lancet комиссияһы — ҡайһы бер йылдарҙа дәлилдәрҙе тикшерә торғон 27 дементия тикшереүсеһенән торған төркөм. Уларҙың 2024 йылғы отчеты үҙгәртелә алырлыҡ **14 ҡурҡыныс факторын** атаны һәм улар бергә **дементия осрақтарының яртыһына яҡын (яҡынса 45%) өлөшөн** тәшкил итә, тип иҫәпләне. Авторҙар һүҙҙәре буйынса, ҡурҡыныстар бөтөрөлһә, был осраҡтар **теорияға ярашлы** булдырылырға йәки һуңлатырға мөмкин ине ([2024 йылғы Lancet комиссияһы отчеты](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 факторҙың, дәлилдәр иң нык булған йәшәү осоро буйынса төркөмләнгәне:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Бала сағы:** аз белем.
+- **Урта йәш (яҡынса 40-тан 65 йәшкәсә):** ишетеү кәмлеге, юғары LDL («насар») холестерин, депрессия, баш миенең травмаһы, физик хәрәкәтһеҙлек, сахар диабеты, тартҡы, юғары ҡан баҫымы, артыҡ ауырлыҡ һәм ныҡ эсеү.
+- **Ҡарт йәш:** социаль изоляция, һауа сафлығы, һәм дауаланмаған күреү кәмлеге.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 йылда ике яңы фактор өҫтәлде: юғары LDL холестерин һәм дауаланмаған күреү кәмлеге. Осрақтар иң күп өлөшөн тәшкил иткән факторҙар — ишетеү кәмлеге һәм юғары LDL холестерин (һәр береһе яҡынса 7%), аҙаҡ аз белем һәм социаль изоляция (һәр береһе яҡынса 5%).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Беҙҙең [ҡурҡыныс факторҙары буйынса киңәш](/brain-health/risk-factors/) бөтә 14 факторҙы табликала, уларҙы тикшереүҙәр нимә менән бәйләй һәм нимә эшләп буларын күрһәтә.
 
-### What the 45% figure does not mean
+### 45% һаны нимәне аңлатмай
 
-It is easy to misread this number, so it helps to be precise:
+Был һанды ңаңлау еңел, шуға күрә асыҡлыҡ кәрәк:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Ул халыҡ буйынса баһа.** Ул донъялағы дементия осрақтарын һүрәтләй, һеҙҙең йәки ата-әсәгеҙҙең ихтималлығын түгел.
+- **Ул сәбәп-һөҙөмтә бәйләнешен фараз итә.** Авторҙар ышанғыһыҙ дәлилдәре булған факторҙарҙы ғына индерелгәнен яҙа, ләкин ҡайһы бер бәйләнештәр өлөшләтә генә сәбәпле булыуы ихтимал. Миҫал өсөн, ҡарт йәштә депрессия кәрәк-яраҡ сәбәп түгел, ә дементияның алғы билгеһе булыуы ла мөмкин.
+- **Ул бер кешегә лә кепилдек бирмәй.** UCL кәңәшендә әйтелгәнсә, ҡурҡынысты кәметеү халыҡ кимәлендә эшләй һәм һәр айырым кешенең дементияһыҙ булырына кепилдек бирмәй.
+- **Ҡалған өлөшөн был факторҙар аңлатмай.** Йәш, генетика һәм ғалимдар әлегә аңламаған сәбәптәр ҡалғанын тәшкил итә.
 
-## What is the difference between "risk reduction" and "prevention"?
+## «Ҡурҡынысты кәметеү» һәм «булдырыу» айырмаһы нимә?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Ҡурҡынысты кәметеү** — ихтималлыҡты түбәнәйтеү. Әгәр ҙур төркөм кеше ҡан баҫымын түбәнәйтһә, улар араһында дементия бер нисә он йыл эсендә, уларһыҙ булғанға ҡарағанда, азыраҡ кешегә килеүе мөмкин. Ә был төркөмдәге ҡайһы берҙәре бәрәбәр дементия алыр.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Булдырыу** — нәмәнең бөтөнләй булмауын аңлата. Дементия өсөн ғилем бөгөн береһенә лә был тураһында вәғәҙә бирә алмай.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ғалимдар **һуҙыу** тураһында ла һөйләй. Lancet комиссияһы яңы дәлилдәр килтерә: ҡурҡынысты кәметеү дементияның башланыуын һуңлатырға һәм кешенең сәләмәтлек хәлдәре менән йәшәгән ваҡытын ҡыҫҡартырға мөмкин. Бер нисә йыл һуҙыу ҙа кеше һәм уның ғаиләһе өсөн ҙур әһәмиәткә эйә булырға мөмкин.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Беҙҙең сайтта «ҡурҡынысты кәметеү» һәм «бәйле» һүҙҙәрен маҡсатлы ҡулланабыҙ. Әгәр продукт, добавка йәки программа «Альцгеймерҙе булдырырға» вәғәҙә итһә, уға иғтибар менән ҡарағыҙ. NIA кисәтә: Альцгеймерҙе булдырырға вәғәҙә иткән теләһә ниндәй таблетка йәки дауа алдынан табип менән кәңәшләшергә кәрәк, сөнки андай продукттар хәүефле, аҡсаны юғалтыу, йә икеһе лә булырға мөмкин.
 
-## What have large trials found?
+## Ҙур сынауҙар нимә тапты?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Күҙәтеү тикшеренеүҙәре (кешеләрҙең вакыт буйынса нимә кисергәнен күҙәтеү) бәйләнештәрҙе күрһәтә ала. Рандомлаштырылған сынауҙар, ҡайҙа кешеләр шансы менән программаға йә сағыштырыу төркөмөнә бүленә, нығыраҡ тикшереү. Иң билдәле сынауҙар нимә тапҡаны менән танышығыҙ.
 
-### FINGER (Finland)
+### FINGER (Финляндия)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER сынауына дементия ҡурҡынысы юғарыраҡ булған 60-тан 77 йәшкәсә 1260 ололо ҡатнашты. Яртыһы ике йыллыҡ программаны алды: ашамлыҡ буйынса кәңәш, физик күнекмәләр, компьютер мейе күнекмәләре һәм йөрәк менән ҡан тамырҙары сәләмәтлеген тикшереү. Икенсе яртыһы ғәҙәти сәләмәтлек кәңәшен алды. Программа төркөмө фекерләү тестарында бер аз яхшыраҡ нәтиже күрһәтте, был кесе, ләкин статистик яғынан мөһим айырма ([FINGER сынауы The Lancet журналында](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Сынау тест һөҙөмтәләрен үлсәне, дементия диагноздарын түгел.
 
-### US POINTER (United States)
+### US POINTER (АҠШ)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER сынауына 60-тан 79 йәшкәсә 2111 ололо ҡатнашты. Улар хәрәкәтһеҙ, ашамлығы сәләмәт булмаған һәм башҡа ҡурҡынысы булған кешеләр ине. Ике төркөмдә лә физик һәм аҡыл эшмәкәрлеген арттырырға, яҡшыраҡ ашарға, социаль бәйләнештәрҙе һаҡларға һәм йөрәк сәләмәтлеген күҙәтергә һораны. Бер төркөм структуралаштырылған, тренер етәкселегендәге программаны алды, икенсеһе үҙе йүнәлеш алды. Ике йыл дауамында фекерләү тесты һөҙөмтәләре **ике** төркөмдә лә яҡшыраҡ булды, структуралаштырылған төркөмдә бер аз күберәк ([US POINTER сынауы JAMA журналында](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Авторҙар әйтеүенсә, айырманың көнкүреш өсөн мөһим булыуын белеү өсөн күберәк күҙәтеү кәрәк. «Һис нәмә эшләмәгән» төркөм булмағанғалыр, сынау ике программаның ҡайһыһы ла бер нәмә үҙгәртмәгән хәлгә ҡарағанда нисек ярҙам иткәнен әйтә алмай.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (ҡан баҫымы)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND тикшеренеүенә 50 йәш һәм унан өлкән, юғары ҡан баҫымы булған 9361 АҠШ ололоһо ҡатнашты. Улар түбәнерәк ҡан баҫымы маҡсатына (өҫкө һаны 120-нән аҫта) йәки стандарт маҡсатҡа (140-тан аҫта) бүленде. Түбәнерәк маҡсат **еңел когнитив бозолоуҙы** — дементияға тиклем килергә мөмкин булған хәфизә һәм фекерләү проблемаһы баҫҡысын — мөһим дәрәжәлә кәметте. **Ықтималлы дементия** өсөн түбәнерәк маҡсаттағы төркөмдә осраҡтар аҙыраҡ булды, ләкин айырма статистик яғынан мөһим түгел ине. Сынау вакытынан алда туҡтатылды һәм көтөлгәнгә ҡарағанда дементия осраҡтары аҙыраҡ булды, шуға ла был һорауға яуап биреү өсөн ул бик кесе булырға мөмкин ([SPRINT MIND сынауы JAMA журналында](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Обзорҙар нимәгә килә
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 йылғы Cochrane обзоры бер үк waqытта бик күп ҡурҡынысты ҡағыҙған программалар буйынса туғыз ҙур сынауҙы, 18 мыңдан ашыу кешене берләштерҙе. Ул фекерләү тестарында кесе файҙа тапты, ләкин дементия менән ауырыу кешеләр һаны буйынса ике сынауҙа, ул тикшерелгәндә, **асыҡ айырма юҡ** ине ([Cochrane обзоры буйынса күп өлкәле интервенциялар](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017 йылғы АҠШ Фәндәр, инженерия һәм медицина академияһының обзоры, NIA тарафынан йомғаҡланған, өс ысул өсөн «дәрт биреүсе, ләкин тулы түгел» дәлилдәр тапты: юғары ҡан баҫымын контролдәү, физик хәрәкәтте арттырыу һәм аҡыл күнекмәләре.
 
-## Does it matter when you start?
+## Башларға ваҡыт мөһимме?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet комиссияһының кәңәше: ҡурҡынысты мөмкин тиклем иртә кәметергә һәм мөмкин тиклем оҙаҡ түбәнләтеп тороп: «ҡанса иртәрәк, шулҡадар яхшы» һәм «ҡанса оҙаҡ, шулҡадар яхшы». Шулай уҡ ҡурҡынысты кәметеү өсөн ваҡыт бер ваҡытта ла иртә йәки һуң түгел, тип әйтә. Күп дәлилдәр урта йәштәге, яҡынса 40-тан 65 йәшкәсә кешеләргә ҡағыла, ләкин күреү кәмлеге һәм социаль изоляция кеүек ҡайһы бер факторҙар — ҡарт йәштәге ҡурҡыныстар, улар буйынса эш итеү әле лә мәғәнәле.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Отчетта ҡурҡыныска оҙаҡ дусар булыу тәьҫире ҙурыраҡ булыуын раҫлаған көслө дәлилдәр бар. Миҫал өсөн, урта йәштә башланған сахар диабеты ҡарт йәштә башланғанына ҡарағанда ҡатмарлыраҡ һанала.
 
-## Is dementia risk the same for everyone?
+## Дементия ҡурҡынысы бөтәһенә бер төрлөме?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Юҡ. Комиссия түбән һәм урта килемле илдәрҙә йәшәгән, миллэт азсылығына ҡараған һәм аҙ аҡсаһы булған кешеләрҙә был ҡурҡыныстар күберәк булыуын һәм, шуға күрә, дементия яштәрәк йәштә килеүен билдәләне. Күп ҡурҡыныстар кеше һайламаған шарттар менән бәйле: бала саҡтағы мәктәп сифаты, йәшәгән урындағы һауа һәм һаулыҡлы ашамлыҡтың аҡсаға тура килеүе һәм яҡын булыуы.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Шуға күрә Комиссия тәҡдимдәре ғәҙәти кешеләр генә түгел, дәүләттәргә лә йүнәлтелгән: барлыҡ балаларға яҡшы белем, таҙараҡ һауа, тартҡыны кәметеү саралары, ашамлыҡ менән тәмлеләү һәм кибеттәрҙә һәм ашханаларҙа һатылған аш-һыуҙағы шәкәр һәм тоҙҙы кәметеү, кәрәкле кешеләргә ишетеү аппараттары. Шәхси тырышлыҡ мөһим, ләкин кешенең йәшәгән донъяһы ла мөһим. Был — диагноз өсөн кемде лә булһа ғәйепләмәү сәбәптәренең береһе.
 
-## What are the honest limits of this research?
+## Был тикшеренеүҙең асыҡ сиктәре нимә?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Дементия ундар йылдар буйы формалаша,** ә ҡайһы бер сынауҙар ике-биш йыл дауам итә. Тест һөҙөмтәләрен генә түгел, дементияның үҙен үлсәү өсөн бик оҙон һәм бик ҙур тикшеренеүҙәр кәрәк.
+- **Күп сынауҙар фекерләү тестарын үлсәй.** Тестта кесе яҡшырыу дементия осраҡтарының кәмеүен йәки көнкүрештең еңелләшеүен аңлатмай.
+- **Ихтыярлы ҡатнашыусылар, һәм ул кешеләр, күбеһенсә, халыҡтың ғәҙәти өлөшөнә ҡарағанда сәләмәтерәк һәм белемлерәк** була. Lancet комиссияһы әйтеүенсә, дәлилдәрҙең күбеһе әле юғары килемле илдәрҙән килә, ә миллэт азсылыҡтары етерлек яҡтыртылмаған.
+- **Ҡайһы бер бәйләнештәр ике яҡлы.** Аҙ хәрәкәтләнеү йәки аҙ аралашыу дементияның алғы билгеһе булыуы ла мөмкин, сәбәбе генә түгел.
+- **Ашамлыҡ сынауҙары әлегә өмөтһеҙләндереүсе.** MIND ашамлыҡ рәжиме буйынса өс йыллыҡ сынау контроль рәжим менән сағыштырғанда фекерләүҙә мөһим айырма бирмәне. Ҡарағыҙ: беҙҙең [ашамлыҡ буйынса кәңәш](/brain-health/diet/).
+- **Мейе өсөн уйындар дементияны булдырыуы иҫбатланмаған.** Ҡарағыҙ: беҙҙең [мейе уйындары һәм дементия](/brain-health/brain-games/) буйынса кәңәш.
+- **Аслыҡ тотыуҙың кешеләр өсөн дәлилдәре бик аҙ,** ә өлкән кешеләр өсөн хәүефле булырға мөмкин. Ҡарағыҙ: беҙҙең [аслыҡ тотоу буйынса кәңәш](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Әгәр кем дә булһа «дөрөҫ» йәшәһә, ни өсөн әле дементия алған?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Сөнки дементия һайлауҙарҙың ғына һөҙөмтәһе түгел. NIA әйтеүенсә, [йәш Альцгеймерҙың иң мөһим билдәле ҡурҡынысы](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) һәм уны кеше үҙгәртә алмай. Генетика ла рольдә уйнай. Ә ғалимдар күп кешеләрҙә Альцгеймер сәбәбен әлегә тулыһынса аңламай. Әгәр 14 ҡурҡыныс факторының һәр береһе лә юҡ ителһә лә, Lancet комиссияһының үҙ иҫәпләүе буйынса осраҡтарҙың яртыһынан күберәге аңлатылмаған ҡала.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Шуға күрә әгәр һеҙ физик хәрәкәт иткән, дөрөҫ ашаған, тартҡы тартмаған, әммә бәрәбәр дементия алған кемгәлер ҡарайһығыҙ икән, уның да, һеҙҙең дә ғәйебе юҡ. Әгәр һеҙ үҙегеҙ дементия менән йәшәйһегеҙ, был һеҙҙең ғәйебегеҙ түгел. Ғаиләләрҙә ғәйеплелек хисе ешрак була, ләкин ул хаҡлы түгел. Хәҙер мөһимe — рәхәт булыу, аралашыу һәм яҡшы көндәр. Беҙҙең [эшмәкәрлек фекерҙәре](/activities/ideas/) һәм [ҡарау бирәүсе өсөн үҙ-үҙеңде ҡарау буйынса кәңәш](/caregiving/caregiver-self-care/) башлау өсөн яҡшы урын.
 
-## What steps can you talk over with a doctor?
+## Табип менән нимә хаҡында һөйләшергә мөмкин?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Был — иң күп өйрәнелгән өлкәләр. Табип менән тикшереү ваҡытында иҫкә алырға яраҡлы, сөнки улар дементияға ниндәй йоғонто яһауына ҡарамаҫтан, йөрәк сәләмәтлеген, кәйефте һәм бәйһеҙлекте лә яҡшырта.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Ҡан баҫымы.** Һандарығыҙ нисек икәнен һәм һеҙгә ниндәй маҡсат тура килгәнен һораған. Lancet комиссияһы яҡынса 40 йәштән өҫкө һаны 130 йәки аҫтараҡ булырға тәҡдим итә, ләкин өлкән кеше өсөн дөрөҫ маҡсат уның сәләмәтлек торошона бәйле.
+2. **Ишетеү.** Ишетеү тикшереүе һәм ишетеү аппараттары ярҙам итеүен һорағыҙ. Беҙҙең [ишетеү буйынса кәңәш](/brain-health/hearing/) тикшеренеүҙәрҙе аңлата.
+3. **Күреү.** Регуляр күҙ тикшереүенән үтегеҙ һәм катаракта кеүек проблемалар дауалана алыуын һорағыҙ.
+4. **Холестерин.** LDL холестериндың тикшерелергә тейешлеген һәм үҙгәртергә кәрәклеген һорағыҙ.
+5. **Ҡан шәкәре.** Әгәр сахар диабетыңыз булһа, уны хәүефһеҙ контролдәү ысулын һорағыҙ.
+6. **Кәйеф.** Депрессия булыуы ғәҙәти һәм дауаланыусан. Ике аҙнанан күберәк ваҡыт кәйефегеҙ төшкән йәки нәмәләргә ҡыҙыҡһыныу юғалған булһа, табибығыҙға әйтегеҙ.
+7. **Тартҡы һәм аҡыр эсемлек.** Тартҡыны ташлау өсөн ярҙам һәм аҡрын эсемлек өсөн хәүефһеҙ сиктәр тураһында һорағыҙ.
+8. **Хәрәкәт.** Һеҙгә ниндәй физик хәрәкәт хәүефһеҙ булыуын һорағыҙ. Беҙҙең [физик хәрәкәт буйынса кәңәш](/brain-health/exercise/) идеялар бирә.
+9. **Баш һаҡлауы.** Велосипед һәм контакт спорт ваҡытында шлем кейегеҙ, һәм йығылыуҙан һаҡланыу тураһында һорағыҙ.
+10. **Бәйләнештә булыу.** Башҡа кешеләр менән ваҡыт үткәреү сәләмәт тормошҡа кәрәкле. Беҙҙең [социаль бәйләнеш](/brain-health/social-connection/) һәм [йоҡо](/brain-health/sleep/) буйынса кәңәшкә ҡарағыҙ.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Дарыуҙарҙы, ашамлыҡты, добавкаларҙы, аслыҡ тотоуҙы йәки физик хәрәкәтте үҙгәртер алдынан, табип менән алдан һөйләшегеҙ, айырыуса йөрәк сирем, сахар диабеты, йығылыу тарихы булһа йәки дементия менән йәшәһәгеҙ.
 
-## Talk with a doctor
+## Табип менән һөйләшегеҙ
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Әгәр һеҙҙе үҙегеҙҙә йәки башҡа кешелә хәфизә йәки фекерләү үҙгәрештәре борсой икән, табипҡа яҙылығыҙ. NIA әйтеүенсә, [хәфизә проблемаларының башҡа сәбәптәре лә булырға мөмкин](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging): дарыуҙың яҡ тәьҫирҙәре, ҡалҡанһыман бер биҙҙә проблемалар, кәйефһеҙлек йәки В12 витамины етмәү, һәм ҡайһы бер проблемалар сәбәбе дауаланғас юғала. Беҙҙең [алама билгеләр буйынса кәңәш](/brain-health/warning-signs/) нимәгә иғтибар итергә кәрәклеген аңлата.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Шуғалыҡ ярҙам** кәрәк булған ҡапыл үҙгәрештәр өсөн: ҡапыл аңһыҙлыҡ, бер яҡтың көсһөҙләнеүе йәки ҡалтырауы, һөйләшеү кыйынлығы, йәки ҡаты баш ауыртыуы инсульт йәки башҡа ғәжәп хәл билгеһе булырға мөмкин. **112** номеры буйынса шылтыратығыҙ.
 
-## Where Golden Moments fits
+## Golden Moments ни урында тора
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments — ябай уртаҡ эшмәкәрлектәр яһай, мәҫәлән, [аралашыу карталары](/games/conversation-cards/), [сурәтле бинго](/games/picture-bingo/) һәм [тын алыу тынлығы](/games/calm-breathing/). Улар рәхәтләнеү һәм бергә вакыт үткәреү өсөн. Улар дауа түгел, һәм дементияны булдырмай йәки һуҙмай.

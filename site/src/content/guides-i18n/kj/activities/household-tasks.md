@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Oilonga yomeumbo yovanhu tava kala nokudimbwa"
+seoTitle: "Oilonga yomeumbo yovanhu tava kala nokudimbwa"
+description: "Okupeta, okuyoolola, okutula poshitaafula nokuteleka papu otai dulu okukala oilonga ya fimana kovanhu tava kala nokudimbwa. Nghee u i longekide, u i lundulule nou i kaleke ya amenwa."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Oilonga yakeshe efiku ngaashi okupeta outaala, okuyoolola ousokisi, okutula
+  poshitaafula, okukomba otaafula, okuteka oimeno nokukwafela mokuteleka papu
+  otai dulu okupa omunhu oo ta kala nokudimbwa ondjila yashili yokukwafela.
+  Hoolola oilonga oyo e shii, i tukula mu umwe umwe, kufa mo oiponga ngaashi
+  eembele ile oinima ipyu, nokukonga okukufa ombinga shi dule okuninga sha
+  “naanaa mondjila”.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Oilonga i shii nale otai dulu okukwafela omunhu a kale e udite ta kwafa notali oshitukulwa shomeumbo, osho luhapu sha fimana shi dule nghee oilonga ya longwa nawa."
+  - "Tukula oshilonga keshe mu umwe umwe, ulikila ponhele yokuyelifa noitya, ndele to kufa po nombili oshinima keshe sha ninga shidjuu."
+  - "Patelela eembele, oinima yokwooha nodetergente yoipakete, ndele to tula oikwamifo koipatululo yoshiteleki ile oshinima tashi dimi po shovene ofimbo inamu teleka pamwe."
+  - "Outaala wa petwa inau pumbwa okupetululwa moipafi yomunhu. Ngeenge owa pumbwa oku u petulula, shi ninga konima yefimbo ndele omunhu ehe li po."
+  - "Ngeenge oshilonga otashi eta oudjuu, lundulukila koshinima shipu, kendabala vali efimbo limwe, ile mu kale ashike omutumba pamwe."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Oilonga ilipi yomeumbo omunhu ta kala nokudimbwa ta dulu natango okukwafela?"
+    a: "Ovanhu vahapu otava dulu natango okupeta oikutu, okutula ousokisi pamwe, okuyoolola oilongifo yokulya, okutula poshitaafula, okukomba otaafula, okukomba ondwi, okuwapaleka, okuteka oimeno ile okuvonga oinima mokaholo. Hoolola oilonga oyo omunhu a li ha longo nale ndele to i yelekanifa naasho ta dulu okuninga paife. Pomhatu dokonima, okweendulula oshinima shimwe, ngaashi okupukuta outuala, otashi dulu okukala sha wana."
+  - q: "Osha amenwa tuu omunhu ta kala nokudimbwa a kwafele mokombitha?"
+    a: "Otashi dulu okukala sha amenwa, ngeenge ope na epashukilo lopofingo nelongekido liwa. Kaleka eembele, oinima yokwooha nosho keshe sha pyu kokule, longifa oikwamifo koipatululo yoshiteleki ile oshinima tashi dimi po shovene, ndele to pe omunhu oshilonga sha amenwa ngaashi okwooha oihape, okuvonga ile okutula omalonga poshitaafula. Ino mu efa nande e li oye aeke noshiteleki sha tema."
+  - q: "Ohandi ningi ngahelipi ngeenge ta pete nai ile ta eta evundakano?"
+    a: "Shi efa ngaho. Elalakano okukala efimbo pamwe nokukala e udite ta kwafa, hangaashi oshidjemo sha wanenena. Ngeenge oshinima osha pumbwa shili okulundululwa, teelela fiyo konima yefimbo ndele to shi ningi omunhu ehe li po, opo aha kale e udite a pukululwa."
+  - q: "Ohandi ningi ngahelipi ngeenge ina hala okukwafela?"
+    a: "Okutya aha otashi dulu okutya oshilonga otashi monika shidjuu, sha ngwangwana ile sha lolola paife. Ino mu fininika. Kendabala oshinima shipu, mu shivi a kale ashike pamwe naave, ile mu pula vali pefimbo liwa mefiku."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Ovanhu vahapu tava kala nokudimbwa ova kala omido dihapu tava pashukile eumbo, tava tekula oukwaneumbo ile tava kaleke oilonga yavo melandulafano. Okupulwa va kwafele moilonga yashili yomeumbo otaku dulu okutya “natango ou li oshitukulwa shomeumbo eli” monghedi oyo oilonga ikwao ihapu itai dulu. Ependje eli otali kundafana oilonga oyo luhapu hai longo, nghee u i longekide, nghee u i lundulule eshi oinima tai lunduluka, nanghee u kaleke ombitha nonduda yokwooha ya amenwa.
 
-## Why do everyday chores work well as activities?
+## Omolwashike oilonga yomeumbo hai longo nawa i li oilonga?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Oilonga yomeumbo ohai longo molwaashi oi shii nale noi na elalakano la yela. National Institute on Aging oya tumbula okwooha oilongifo yokulya, okutula poshitaafula, okuwapaleka, okukomba ondwi, okuyoolola omatumwalaka, okupeta oikutu nokuyoolola oinima yokulongulula mokati koilonga [yakeshe efiku oyo ovanhu ve na okudimbwa tashi dulika va hafele](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association oya ti kutya oilonga ngaashi okutula poshitaafula otai dulu okukwafela omunhu [a kale e udite a fimana moukwaneumbo](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Oshilonga shomeumbo oshi na yo etomheno lasho lokutameka. “Oto dulu ngaa okukwafela nge noutaala ava?” oshipu okutambula ko shi dule “Owa hala tu longe oshinima shonhumba?”
 
-## Which household tasks are good to try?
+## Oilonga ilipi yomeumbo tu kendabale?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Hovela noilonga oyo omunhu a li ha longo nale, ndele to i yelekanifa naasho ta dulu okuninga nena.
 
-### Laundry and linens
+### Oikutu noinima yokupeta
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Okupeta outaala noileshifo.** Mu pe okambiya keinima inini, ya lalakana. Outaala oipupu: kape na omukalo wa puka woku i peta.
+- **Okutula ousokisi pamwe.** Tula onduba ya lumbakana poshitaafula. Ngeenge okumona oupavali otashi ningi shidjuu, longifa ashike omaludi avali ile atatu omaluvala e lili unene.
+- **Okupukuta nokutula ponduba.** Outuala, oipeta yomitwe ile oileshifo yokombitha otai dulu okupukutwa nokutulwa ponduba. Eshi ohashi longo nawa lwanima, ngeenge okupeta okwa ninga eenghatu dihapu unene.
 
-### Table and kitchen
+### Poshitaafula nomokombitha
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Okutula poshitaafula.** Tula onhele imwe i li oshihopaenenwa ndele to efa omunhu e i shikule. Ngeenge osha ninga shihapu, mu pe oshinima shimwe poshikando: “Apa ope na ofoloko yomolonga keshe.”
+- **Okuyoolola oilongifo yokulya.** Lumbakanifa omafoloko, oipunu neembele douvalelo da koshoka mokatemba ndele to i yoololela moshiyelekanifo. Efa eembele deemi kondje.
+- **Okupukuta oilongifo yokulya.** Oilongifo yopulasitika ile inai tokoka neleshi lolina otai ningi oshilonga eshi sha amenwa.
+- **Okukomba otaafula ile opatepula.** Eleshi la tutika nopo pe na onhele ya yela. Alzheimer's Association oya ti kutya oto dulu okuyandja eleshi ngeenge omunhu ota pukuta nale otaafula neke laye, to lundulula oshinima shokuhe na elalakano shi ninge oshinima tashi kwafa.
 
-### Around the house
+### Meumbo alishe
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Okukomba ondwi.** Oshikombo shondwi sholina noinima inini ya kola, ngaashi otaafula yokombinga ile okashelifa keemambo.
+- **Okuyoolola omatumwalaka.** Mu pe omatumwalaka inaa fimana nomambo okukwata ongodi, a tule moipambu: kaleka, ekelashi, lesha konima. Kaleka oibili nomasheke omoule kondje.
+- **Okuyoolola oinima yokulongulula.** Outemba, omabotela nomapepa a koshoka moimbiya ya yooloka.
+- **Okuwapaleka.** Oshikombo shinini polupale ile ponduda yokuteleka, ngeenge omunhu ota dulu natango okukala ofika nawa.
+- **Okuteka oimeno.** Okanhongo kanini ka pepe notaku monika noupu, noimeno inini i li popepi.
 
-### Simple cooking with supervision
+### Okuteleka papu nepashukilo
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Okuteleka otaku dulu okweetifa omaliudo mawa a kola. NIA oya ti kutya omunhu ota dulu okukwafela mokwoongela oinima yokuteleka, okuyeleka, okuvonga nokutilila, ile ashike okuyelifila umwe nghee ta teleke oikulya oyo a hole. Oilonga iwa oya kwatela mo:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- okwooha oihape ile oiimati
+- okuvonga oinima yokuteleka ile osalata italala
+- okuteya oufo wosalata
+- okutula omaadi mombungululu nombele ihe na ouponga
+- okutula eboloto lokukanga poshiyelekanifo
+- okutula oinima kombada yopiza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Ngeenge okuyeleka okwa ninga shidjuu, Alzheimer's Association oya ti kutya oto dulu okuwanifa okuyeleka ndele to mu pe oshinima shikwao, ngaashi okuvonga.
 
-## How do I set up a chore so it goes well?
+## Ohandi longekida ngahelipi oshilonga opo shi ende nawa?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Hoolola efimbo liwa.** Hoolola oshitukulwa shefiku omo omunhu luhapu ha kala a tulumukwa nota ngungumana. Kovanhu vahapu osho ongula.
+2. **Yelakanifa onhele.** Oshilonga shimwe, onhele imwe, inapa kala sha shimwe poshitaafula.
+3. **Shiva, ino yandja elombwelo.** “Oto dulu ngaa okukwafela nge naashi” ohashi longo xwepo shi dule “Opa fika efimbo lokupeta oikutu.”
+4. **Ulikila shotete.** Peta outaala umwe to ende kanini, ndele to mu pe umwe mukwao. Okuulika oku li pauyela shi dule okuyelifa.
+5. **Yandja oshinima shimwe poshikando.** Omayele mahapu poshikando shimwe otaa dulu okunyengifa. Teelela oshinima shimwe shi pwe ofimbo ino tumbula shikwao.
+6. **Longeni pamwe pomunghulo.** Okulonga oshilonga shelifa mu li pomunghulo ohashi kala ngaashi ekwatafano, ha epashukilo.
+7. **Popyeni kombinga yoshilonga, hakomidjemo.** “Ei oi li ina unene” ile “Lombwele nge nghee wa li ho longekida okabinete koutaala” ohashi shivi kenghundafana nopehe na okuyeleka nande oumwe.
 
-## How do I adapt chores as abilities change?
+## Ohandi lundulula ngahelipi oilonga eshi eenghono tadi lunduluka?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Eenghono otadi lunduluka nefimbo nokuli nokudja kefiku nefiku. Alzheimer's Association oya ti kutya otashi kwafa okulundulukila koilonga ipu notai endululwa eshi oupyakadi tau ende tau hapupala.
 
-| If this has become hard | Try this instead |
+| Ngeenge eshi osha ninga shidjuu | Kendabala eshi ponhele yasho |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Okupeta omashiti manene | Okupeta oileshifo ile okupukuta outuala |
+| Okutula oinima aishe poshitaafula | Okutula okatuala kamwe poshipundi keshe |
+| Okuyoolola omatumwalaka moipambu | Okutula eenvelopa ponduba imwe |
+| Okushikula ondunge yokuteleka | Okuvonga, ile okutala nokumakela ofimbo to teleke |
+| Okuwapaleka edu alishe | Okukomba okataafula kanini kamwe |
+| Okulonga oshilonga nandenande | Okukala omutumba pamwe naave nokukala pamwe naave ofimbo to shi longo |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Okutala nako oku li okukufa ombinga. NIA oya ti kutya ovanhu vamwe ohava hafele ashike okutala, nosho yo ondjila iwa yokukufa ombinga.
 
-## How do I keep household tasks safe?
+## Ohandi kaleke ngahelipi oilonga yomeumbo ya amenwa?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Eameno oli na okutetekela, unene mokombitha. [Omayele eameno meumbo a NIA ovafilishisho ve na ovanhu tava kala nokudimbwa](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) otaa kwatele mo:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Patelela ile kufa mo oinima yokwooha, mwa kwatelwa odetergente yoipakete yokwooha oikutu, oyo tai dulu okufaafana noswiti.
+- Tuvikila eembele, oikashifo neemashina mokanduda ka patelelwa.
+- Tula oikwamifo yeameno noshinima tashi dimi po shovene koshiteleki.
+- Tula omadidiliko “Kanghama” ile “Oshipyu unene” popepi noshiteleki, oshiumbulukifo nombusha yokufina, ndele to di tula opo itadi dulu okumona omundilo.
+- Tula oshifudifo shomeva po 120°F opo u ninipike oupyakadi wokupya.
+- Kufa mo oiimati yoipupulu nomagineti e na olupe loikulya, molwaashi otai dulu okufaafana noinima tai liwa.
 
-A few more practical habits help:
+Oinima ikwao ya kwafa:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Kala monduda efimbo keshe oshiteleki, oshiumbulukifo ile oshilongifo shi na ouponga tashi longifwa.
+- Longifa oilongifo inai tokoka mokupukuta nomokutula poshitaafula.
+- Kaleka edu la kukuta nola yela ofimbo to wapaleke ile to komba.
+- Ngeenge omunhu okwa li ha longifa nale oilongifo, Alzheimer's Association oya ti kutya kufa mo oinima i na oupyakadi mokanduda koilongifo, opo oshilonga sha amenwa, ngaashi okupupa oshipambu shomuti, shi kale natango tashi hafelwa.
 
-## What if they do it "wrong"?
+## Ohandi ningi ngahelipi ngeenge ote shi ningi “nai”?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Shi efa ngaho. Okataala ka petwa moitukulwa itatu ponhele yoitukulwa ivali natango okataala ka petwa. Alzheimer's Association oye shi tonga nawa: osho sha fimana okukala efimbo pamwe nokukala omunhu e udite ta kwafa, hangaashi kutya outaala owa petwa nawa tuu. Ngeenge oshinima osha pumbwa shili okulundululwa, teelela fiyo konima yefimbo ndele to shi ningi omunhu ehe li po.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Okupukulula pefimbo opo otaku dulu okulundulula oshilonga shiwa shi ninge edimbulukifo laasho sha kana. “Tangi, osho ekwafo linene” luhapu osho oshinima shiwa okutya.
 
-## When should we stop?
+## Onaini tu na okukanghama?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Kanghama ile lundulula ngeenge to mono omandidiliko oudjuu, ololoko ile okukanifa ohokwe. Okuxulifa po diva oshidjemo shiwa, ha okuhulapo. Oto dulu:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- okulundulukila koshinima shipu
+- okuya koshinima tashi tulumukifa, ngaashi omusika ile okakopi ketee
+- okukendabala vali konima yefimbo ile efiku limwe
+- okukala ashike omutumba pamwe
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Ngeenge omunhu okwa tya aha, ino mu fininika. Tala [osho u na okuninga ngeenge ta ti aha](/caregiving/when-they-say-no/) opo u mone eenghedi domoule dokunyamukula.
 
-## Low-effort extras for a quieter moment
+## Oinima ikwao ipu pefimbo lomwenyo
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Ngeenge oilonga yolutu itai dulu okulongwa, okuyoolola nokutula kumwe otaku dulu natango okulongwa omutumba. [Sort Together](/games/sort-together/) otaku ku pitike u tule omafano moimbiya yokombitha ile yoshikunino, na [Picture Pairs](/games/picture-pairs/) okaudano kokutula kumwe nomafano manene nopehe na efimbo lokuvalula. [Conversation Cards](/games/conversation-cards/) oi na omapulo a manguluka kombinga yeumbo noukwaneumbo oo taa wapalele nawa okumwa etee konima yoilonga.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Opo u mone ekwafo mokutula oilonga yomeumbo mefiku, tala ewiliko letu kombinga [yelandulafano lefiku la ngungumana](/activities/daily-routine/). Opo u mone omaetepo mahapu pamhatu, tala [oilonga yopomhatu yopokati](/activities/middle-stage/).

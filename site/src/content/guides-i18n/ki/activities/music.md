@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Mĩtugo ya Nyĩmbo kũrĩ Andũ marĩ na Kĩriganĩrwo"
+seoTitle: "Mĩtugo ya Nyĩmbo: Mawĩra na Mĩtaratara"
+description: "Ũrĩa mũngĩhũthĩra nyĩmbo na mũndũ ũrĩa ũtũũraga na kĩriganĩrwo: gũthondeka mũtaratara wa nyĩmbo, mawĩra 15 maremere, na mataaro ma nginya o yothe."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Nyĩmbo nĩ ũndũ ũmwe wa mĩtugo ĩrĩa mĩhũthũ gũkomania nayo na mũndũ ũrĩa
+  ũtũũraga na kĩriganĩrwo. Thondeka mũtaratara wa nyĩmbo wa mwanya kuuma kũrĩ
+  nyĩmbo cia ũnini wake, cia wĩtĩkio na cia mũciĩ, ũcithikĩrĩrie hatarĩ matangazo
+  kana inegene ingĩ, mũcine, mũhũũre hĩ, mũinainie kana mũigue o hamwe.
+  Thuura nyĩmbo cia gũhooreria kana cia gũcanjamũra kũringana na ihinda rĩu,
+  iga mũgambo ũrĩ mũhoro, na ũtige thĩinĩ nyĩmbo ĩngĩmũthĩĩnia.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Nyĩmbo cia mwanya nĩcio njega: mĩthemba ĩrĩa eendete e mwĩthĩ, hamwe na nyĩmbo cia wĩtĩkio, mũtũũrĩre na maũndũ ma mũciĩ."
+  - "Hũthĩra kĩndũ kĩmwe ihinda-inĩ, hatarĩ matangazo na terebiceni ĩhorere."
+  - "Kũina, kũhũũra hĩ, kwĩinainia na gũthikĩrĩria o ũguo ciothe nĩ njĩra cia gwĩkĩra."
+  - "Hũthĩra nyĩmbo cia kũhooreria nĩguo gũikare thayũ kana cia gũcanjamũra nĩguo gũkena, na ũrorage ũrĩa mũndũ ũcio aregwo nĩcio."
+  - "Ũringithania wa mĩcemanio ya nyĩmbo ĩthondeketwo wega nĩ mũnini; tũrakũringĩrĩria nyĩmbo ta kĩndũ gĩega gĩa gũkomania nakĩo, no ti ũrigitani."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Nĩ nyĩmbo irĩkũ njega kũrĩ mũndũ ũtũũraga na kĩriganĩrwo?"
+    a: "Nyĩmbo iria mũndũ ũcio amenyeete na akenda ihinda iraya, kaingĩ kuuma arĩ mwĩthĩ wa mĩaka ya ikũmi na ĩnana o nginya mĩrongo ĩĩrĩ, hamwe na nyĩmbo cia wĩtĩkio, mũtũũrĩre na maũndũ ma gĩkeno ma mũciĩ. Kũngĩhoteka, reka athuure we mwene. Rora ũthiũ wake na mwĩrĩ wake nĩguo ũmenye iria akenagĩra, na ũtige iria ikũoneka ta iramũthĩĩnia."
+  - q: "No njagĩrĩirwo kũhũthĩra thimũ cia matũ?"
+    a: "Andũ amwe makenagĩra thimũ cia matũ tondũ nĩigiragĩrĩria inegene, nao angĩ matiendaga tondũ no imenyũhie kana imarigarie. Geria gĩthikĩrĩria kĩa mbere nĩguo mũigue hamwe. Ũngĩhũthĩra thimũ cia matũ, iga mũgambo ũrĩ mũhoro na ũikare hakuhĩ."
+  - q: "Nyĩmbo no iteithie rĩrĩa mũndũ atarĩ na ũhurũko kana arakarĩte?"
+    a: "Nyĩmbo cia kũhooreria na iria imenyereku no iteithie gũtũma handũ hakorwo na thayũ, na Alzheimer's Association ĩringĩrĩirie kũhũthĩra nyĩmbo nĩguo ũtũme handũ hagĩe na ũrĩa ũkwenda. Ndigĩteithagia mahinda mothe. Mũndũ angĩkorwo arathĩĩnĩka, rora no kũhoteke arĩ na ruo, arĩ na ngʼaragu, harĩ na inegene kana anogete."
+  - q: "Andũ arĩa marĩ na kĩriganĩrwo kĩnene no makenere nyĩmbo?"
+    a: "Aingĩ no makenere. Alzheimer's Association yugaga atĩ mũndũ ũrĩ nginya ya kĩriganĩrwo kĩnene no akĩhote kũhũũra mũgambo wa rwĩmbo kana kũina hamwe na rwĩmbo rwa arĩ mwana. Ikara hakuhĩ, hũra nyĩmbo mũhoro mũno na ũmũnyiite guoko kana mũinainie hamwe."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Nyĩmbo nĩ ũndũ ũmwe wa maũndũ marĩa maremere mũno mũngĩkomania naguo na mũndũ ũrĩa ũtũũraga na kĩriganĩrwo. Ndirĩ ũndũ yendaga: gũtirĩ macokio marĩa magĩrĩire, na gũtirĩ mĩtaratara ya kũrũmĩrĩra. Rwĩmbo rũmenyereku no rũrehere mũndũ mĩthemba, kũhũũra mũgambo na kũgũrũ kana ciugo nini cia kũinĩrwo hamwe, o na mũthenya ũrĩa kwaria kũrĩ hinya. Ũrĩa wendaga no nyĩmbo iria ciagĩrĩire mũndũ ũcio na kahinda kanini ga gũcithikĩrĩria.
 
-## What music activities work for people with dementia?
+## Nĩ mĩtugo ĩrĩkũ ya nyĩmbo ĩrutaga wĩra kũrĩ andũ marĩ na kĩriganĩrwo?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Gũthikĩrĩria, kũina, kũhũũra hĩ, kwĩinainia na kwaria ũhoro wa nyĩmbo ciothe nĩ irutaga wĩra wega. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ĩringĩrĩirie kũhũra nyĩmbo, kwaria ũhoro wa nyĩmbo na wa mũini, kũina kana kũina na nyĩmbo imenyereku, na gũthiĩ ciarĩa-inĩ cia nyĩmbo itũũra-inĩ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) yonereria atĩ kwĩnyonia ta kũhũũra hĩ kana kũina no kũongerere gĩkeno, na atĩ nyĩmbo no ĩtuĩke njĩra ya kũnyiitana rĩrĩa ciugo ciagathira.
 
-## How do you build a personal playlist?
+## Mũthondekaga mũtaratara wa nyĩmbo wa mwanya atĩa?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Ũndũ ũrĩa ũngĩgĩa wa bata mũno mũngĩthondeka nĩ mũtaratara wa nyĩmbo iria irĩ bata kũrĩ mũndũ ũcio. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nĩ ĩrutanagia bata wa nyĩmbo iria irĩ na ũhoro wa mwanya. Haha harĩ na njĩra ĩhũthũ ya kũwĩka.
 
-### Start with their life
+### Ambĩrĩria na mũtũũrĩre wake
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Mĩaka yake ya mwĩthĩ na mĩrongo ĩĩrĩ.** Wĩcirie nyĩmbo iria ciiguuagwo redioni, macinwo-inĩ na thibitari-inĩ rĩrĩa aarĩ mwĩthĩ.
+- **Mahinda manene.** Nyĩmbo cia ũhiki wake, rwĩmbo rwa mbere rwa kũina marĩ hamwe, kana rwĩmbo rwendetwo rũgĩceera mũciĩ.
+- **Wĩtĩkio na mũtũũrĩre.** Nyĩmbo cia kanitha, nyĩmbo cia wĩtĩkio, kana nyĩmbo cia rũthiomi rwake rwa mbere.
+- **Wĩra na ũtungata.** Bendi cia kwĩgũũra, nyĩmbo cia wĩra, kana nyĩmbo ihutanĩtie na ihinda rĩa ũthigari.
+- **Ũrĩa mũciĩ ũririkanaga.** Ũria ariũ a nyina, ciana na arata a tene nĩ nyĩmbo irĩkũ aahũthagĩra kana akaina hĩndĩ ciothe.
 
-### Think in genres, not just songs
+### Wĩcirie mĩthemba ya nyĩmbo, ti nyĩmbo o ciiki
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Ũngĩkorwo ndũĩ harĩa ũngĩambĩrĩria, geria ndagĩka nini kuuma kũrĩ o ũmwe wa aya na ũrore ũrĩa aregwo nĩguo: big band na swing, doo-wop, Motown na soul, rock and roll ya tene, country na western, bluegrass, gospel na nyĩmbo cia kanitha, nyĩmbo cia Broadway, jazz standards, nyĩmbo cia Ratin ta boleros kana mariachi, polka, folk na classical. Iga iria irehaga mĩthemba kana kũhũũra mũgambo na kũgũrũ; tiga iria irehaga gũkunya ũthiũ.
 
-### Make it easy to play
+### Tũma ĩkorwo ĩhũthũ kũhũra
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Hatarĩ matangazo.** Alzheimer's Association yugaga atĩ matangazo no marehere kĩrigarĩrĩro. Hũthĩra nyĩmbo iharũrũkĩtio, CD, rekodi kana ũtungata ũtarĩ na matangazo.
+- **Kĩndũ kĩmwe kĩhũthũ.** Gĩthikĩrĩria kĩrĩ na kĩbuto kĩmwe kĩnene, kana mũtaratara wa nyĩmbo ũhaarĩirio, nĩguo mũndũ o wothe ahote kũwambĩrĩria.
+- **Mĩtaratara ĩĩrĩ mĩkuhĩ.** Mũtaratara ũmwe wa kũhooreria na ũngĩ wa gũcanjamũra.
+- **Wandĩke rĩĩtwa.** Andĩka rĩĩtwa rĩa mũndũ ũcio na „nyĩmbo iria endete“ kĩndũ-inĩ kĩu nĩguo andũ a mũciĩ arĩa magũceera na arĩa mamũmenyagĩrĩra mahote gũkĩhũthĩra.
 
-## 15 music activities to try
+## Mawĩra 15 ma nyĩmbo ma kũgeria
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Thikĩrĩriai hamwe.** Ikarai mwena-inĩ ũmwe hatarĩ ũndũ ũngĩ ũrarutwo. Gũthikĩrĩria nĩ wĩra mũkinyanĩru.
+2. **Inai hamwe.** Ambĩrĩria kũina wee mwene. Kũhuhũria kana kwaria ciugo itekũiguĩka nĩ kwĩkĩra o nakuo.
+3. **Hũũrai hĩ kana mũhũũre mũgambo.** Hũũra maru, hũũra metha, kana hũthĩra ngoma nini kana kĩndũ gĩa kũgamba.
+4. **Inai mũhoro.** Nyitanai moko na mũinainie riko-inĩ, kana mũine mũikarĩte, mũgĩinainia moko hamwe.
+5. **Kũina na itambaya.** Inainiai itambaya ihũthũ kũringana na nyĩmbo, mũrũgamĩte kana mũikarĩte.
+6. **Ariai ũhoro wa nyĩmbo.** Ĩta, no ndũkagerie: „Ĩno ĩhaana ta ya handũ ha kũina. Ndagĩrĩra ũhoro wa macinwo.“ Ndũkanamũũrie „Nĩũririkanaga rwĩmbo rũrũ?“
+7. **Hũra albamu yothe.** Hũra rekodi ĩrĩa eendete kuuma mwambĩrĩrio nginya mũthia, mũkĩnyua kahũa.
+8. **Rora mĩhiano ya albamu.** Mĩhiano ya rekodi cia tene nĩ njega ya kwaria ũhoro wa nguo, ngari na mothiũ.
+9. **Rora kĩonereria gĩa nyĩmbo.** Kĩonereria kana kĩarĩa gĩa nyĩmbo kĩa ihinda rĩake no gĩtuĩke hwaĩ-inĩ mwega. Tithia nĩguo mũhurũke.
+10. **Hũra kĩndũ kĩa kũina nyĩmbo kĩrĩa amenyete.** Mũndũ wahũthagĩra piano kana gitaa tene no akene kũihũra mũhoro. Thutha-inĩ, gũthuura tũgambo tũnini hamwe nĩ kũiganu.
+11. **Nyĩmbo rĩrĩa mũraruta wĩra.** Hũra nyĩmbo iria endete mũkĩgotha nguo kana mũkĩhaarĩria metha.
+12. **Rwĩmbo rwa rũciinĩ.** Ambĩrĩria o mũthenya na rwĩmbo rũmwe rwa gĩkeno ta gĩcunjĩ kĩa mũtugo.
+13. **Inai nyĩmbo cia kanitha kana cia wĩtĩkio.** Hũra nyĩmbo cia wĩtĩkio wake na mũine hamwe.
+14. **Ingĩra gĩkundi kĩa kũina.** NHS yugaga atĩ ikundi cia kũina nĩ njega kũrĩ meciiria na ũgima wa mwĩrĩ. Ũria kũrĩa mũtũũraga no gũkorwo na ikundi cia kũina ikoragwo na ũtaũku harĩ andũ marĩ na kĩriganĩrwo.
+15. **Thiĩi kũigua nyĩmbo cia muoyo.** Kĩarĩa gĩkuhĩ gĩa itũũra kana bendi ya nja. Ikara hakuhĩ na mũrango na mũthiĩ rĩrĩa rĩothe mũkwenda.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Nĩ ũndũ wa kũina na ciugo imenyereku, geria [finish the saying](/games/finish-the-saying/), kũrĩa mũrĩ hĩndĩ ciothe mũrĩ na mweke wa kuonania mũthia.
 
-## Matching music to the moment
+## Kũringania nyĩmbo na ihinda rĩu
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association ĩringĩrĩirie kũhũthĩra nyĩmbo nĩguo ũtũme handũ hagĩe na ũrĩa ũkwenda: nyĩmbo cia kũhooreria nĩ ũndũ wa thayũ, na rwĩmbo rwa hinya rwa arĩ mwĩthĩ nĩ ũndũ wa gũcanjamũra.
 
-| Moment | Try | Tip |
+| Ihinda | Geria | Itaaro |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Gwĩyũkĩria | Rwĩmbo rũmenyereku, rwa gĩkeno | Rwĩmbo rũmwe o rũciinĩ no rũtuĩke kĩmenyithia kĩhoro |
+| Mawĩra ma mũciĩ | Nyĩmbo cia hinya iria endete | Nyĩmbo no itũme wĩra ũhaane ta ũrĩ na mũndũ wa gũkomania nake |
+| Irio | Nyĩmbo cia mũhoro itarĩ na ciugo | Citũmie ikorwo ihoro nĩguo itigakĩgirĩrĩrie kũrĩa |
+| Hwaĩ-inĩ | Nyĩmbo cia kũhooreria, imenyereku harĩ na ũtheri mwega | Rora [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Gũkoma | Nyĩmbo cia mũhoro mũno | Harũrũkia mũgambo na ũtheri hamwe |
+| Kĩriganĩrwo kĩnene | Nyĩmbo iria endete mũno, mũhoro mũno | Ikara hakuhĩ na ũmũnyiite guoko |
 
-## Tips for a good experience
+## Mataaro ma gũtũma ihinda rĩu rĩkare rĩega
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Horia inegene ingĩ.** Alzheimer's Association ĩringĩrĩirie kũhinga ndirica na mĩrango na kũhoria terebiceni nĩguo nyĩmbo ituĩke mũgambo wiki.
+- **Tũma mũgambo ũikare mũhoro.** Nyĩmbo ciagĩrĩirwo nĩ gũkorwo irĩ njega kũigua, no ti na hinya. Mũndũ angĩkorwo ahũthagĩra indo cia kũigua, tigĩrĩra atĩ irĩ kuo na iraruta wĩra; rora [hearing](/brain-health/hearing/).
+- **Rora nyĩmbo iria ikũririkania maũndũ ma kĩeha.** Nyĩmbo imwe no iririkanie kĩeha, mbaara kana kuura. Rwĩmbo rũngĩmũthĩĩnia, mũũmĩrĩrie na ũrũgarũre.
+- **Reka atongorie.** Kũngĩhoteka, reka mũndũ ũcio athuure nyĩmbo, na wĩtĩkĩre rĩrĩa angiuga aca.
+- **Tiga thĩinĩ ihinda o rĩothe.** Ndagĩka ithano cia nyĩmbo nĩ wĩra mwega. O na kũcihoria na gũikara mũhooreire nĩ kwĩganĩra.
 
-## What does the research say about music and dementia?
+## Ũringithania ũkuuga atĩa ũhoro-inĩ wa nyĩmbo na kĩriganĩrwo?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Ũira nĩ mũnini. [Ũringithania wa Cochrane wa 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) nĩ warorire ũringithania 30 wa mĩcemanio ya nyĩmbo ĩthondeketwo wega, makĩria ikundi-inĩ cia nyũmba cia gũtũũra arĩa akũrũ. Nĩ wonire atĩ mĩcemanio ĩyo no ĩkorwo yahũthirie hanini harĩ kĩeha gĩa meciiria kũngĩringithanio na ũmenyereri wa mũtugo, no ndwonire ũhoro mũtaũku wa kũgarũra ũrĩa mũndũ atarĩ na ũhurũko, ũgaacĩru wake kana meciiria na kũririkana, na gũtirĩ moimĩrĩro maikarire thutha wa mĩcemanio ĩyo kũrĩka.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Tũkomanagia na nyĩmbo tondũ nĩ njĩra njega na ĩhũthũ ya gũtũũra hamwe, no ti ta ũrigitani. Nĩ ũndũ wa kũruta wĩra ikundi-inĩ, rora [care home group activities](/activities/care-home-groups/); nĩ ũndũ wa kũhũthĩra nyĩmbo hamwe na mbica na ngʼano, rora [reminiscence activities](/activities/reminiscence/).

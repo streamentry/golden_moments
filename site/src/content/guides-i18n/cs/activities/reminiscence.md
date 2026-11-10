@@ -1,32 +1,33 @@
 ---
-title: "Aktivity se vzpomínkami: krabice vzpomínek, životní příběhy a fotky"
-seoTitle: "Vzpomínkové aktivity při demenci: nápady bez kvízu"
-description: "Jak sdílet vzpomínky s člověkem žijícím s demencí bez kvízu: povídání o fotkách, krabice vzpomínek a knihy životních příběhů, s frázemi, které udrží klid."
+title: "Vzpomínkové aktivity: paměťové krabičky a fotografie"
+seoTitle: "Vzpomínkové aktivity při demenci: bez zkoušení"
+description: "Jak vzpomínat s člověkem žijícím s demencí bez zkoušení: rozhovor nad fotografiemi, paměťové krabičky a kniha životních příběhů."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Vzpomínání znamená společně si užívat minulost prostřednictvím fotek, předmětů,
-  hudby a příběhů. Vytvořte krabici vzpomínek, sestavte jednoduchou knihu životního
-  příběhu, nebo si prohlédněte fotky vedle sebe. Nikdy nekvizujte: vynechte „Pamatujete
-  si?“ a „Kdo je tohle?“ a použijte otevřené pozvánky typu „Povězte mi o tom.“ Vřelý
-  rozhovor je důležitější než správná fakta.
+  Vzpomínání znamená společně se vracet k minulosti díky fotografiím, předmětům,
+  hudbě a příběhům. Můžete vyrobit paměťovou krabičku, vytvořit jednoduchou
+  knihu životních příběhů nebo si společně prohlížet fotografie. Nikdy
+  nezkoušejte: vynechte otázky „Vzpomínáte si?“ a „Kdo je to?“ a použijte
+  otevřené pozvání, například „Povězte mi o tomhle“. Důležitější než přesnost
+  faktů je příjemný rozhovor.
 keyPoints:
-  - "Vzpomínání je rozhovor, ne test. Na přesnosti nezáleží, na potěšení ano."
-  - "Místo „Pamatujete si…?“ a „Kdo je tohle?“ použijte komentáře a pozvánky typu „Povězte mi o tom dni.“"
-  - "Krabice vzpomínek s předměty z jeho života dává rukám i rozhovoru něco, čeho se mohou držet."
-  - "Kniha životního příběhu pomáhá rodině, návštěvám i personálu poznat člověka, ne jen diagnózu."
-  - "Pokud vzpomínka přinese smutek, nejdřív utěšte a pak jemně přejděte jinam."
+  - "Vzpomínání je rozhovor, ne zkouška. Nejde o přesnost, ale o příjemné chvíle."
+  - "Místo „Vzpomínáte si...?“ a „Kdo je to?“ zkuste komentář nebo pozvání jako „Povězte mi o tom dni“."
+  - "Paměťová krabička s předměty ze života člověka, o kterého pečujete, dává do rukou i do rozhovoru něco konkrétního."
+  - "Kniha životních příběhů pomáhá rodině, návštěvám i pracovníkům v péči poznat člověka, ne jen diagnózu."
+  - "Pokud vzpomínka přinese smutek, nejdřív nabídněte útěchu a pak jemně přejděte k něčemu jinému."
 faq:
-  - q: "Co je vzpomínání pro lidi s demencí?"
-    a: "Vzpomínání je sdílení vzpomínek a zážitků z minulosti, často s pomocí fotek, předmětů, hudby nebo videí. Může probíhat jeden na jednoho, nebo ve skupině. Cílem je příjemný, smysluplný rozhovor, ne zkoušení toho, co si člověk dokáže vybavit."
-  - q: "Proč bych se neměl ptát „Pamatujete si?“"
-    a: "Otázky, které testují paměť, mohou člověka zahanbit nebo vyvolat úzkost, když odpověď nepřijde. Národní ústav pro stárnutí mezi věci, kterým se vyhnout, řadí ptát se, zda si někdo něco nebo někoho pamatuje. Místo toho komentujte, co vidíte, a nechte člověka přidat, co chce."
-  - q: "Co mám dát do krabice vzpomínek?"
-    a: "Vybírejte bezpečné, pevné předměty spojené s jeho životem: věci z práce, vybavení k koníčku, oblíbený šátek, pohlednice, kartičky s recepty, suvenýry ze sportu nebo kopie fotek. Vyhněte se ostrým předmětům, drobným věcem, které by mohly být spolknuty, a nenahraditelným originálům."
-  - q: "Co když si pletou fakta?"
-    a: "Nechte to být. Pokud vaše maminka řekne, že na fotce je její sestra, když je to bratranec, nevadí to. Opravování promění vřelý okamžik v test. Následujte příběh, který vypráví, a užijte si ho spolu."
+  - q: "Co je vzpomínání pro lidi žijící s demencí?"
+    a: "Vzpomínání je sdílení vzpomínek a prožitků z minulosti, často s pomocí fotografií, předmětů, hudby nebo videí. Může probíhat ve dvojici i ve skupině. Cílem je příjemný a smysluplný rozhovor, ne zkoušení toho, co si člověk vybaví."
+  - q: "Proč se nemám ptát „Vzpomínáte si?“"
+    a: "Otázky, které zkoušejí paměť, mohou člověka uvést do rozpaků nebo zneklidnit, když odpověď nepřichází. Národní institut pro stárnutí (National Institute on Aging) uvádí dotazování, zda si člověk na něco nebo někoho vzpomíná, mezi věcmi, kterým je lepší se vyhnout. Raději popište, co vidíte, a nechte člověka přidat, cokoli chce."
+  - q: "Co dát do paměťové krabičky?"
+    a: "Vyberte bezpečné a pevné předměty spojené se životem člověka, o kterého pečujete: věci z práce, pomůcky ke koníčkům, oblíbený šátek, pohlednice, kartičky s recepty, sportovní suvenýry nebo kopie fotografií. Vyhněte se ostrým věcem, malým předmětům, které by mohl někdo spolknout, a nenahraditelným originálům."
+  - q: "Co když si spletou fakta?"
+    a: "Nechte to být. Když maminka řekne, že na fotografii je její sestra, i když je to sestřenice, nevadí to. Opravování promění příjemnou chvíli ve zkoušku. Raději se připojte k příběhu, který vypráví, a užijte si ho společně."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Vzpomínání znamená jednoduše užívat si minulost spolu. Pro mnoho lidí žijících s demencí zůstávají vzpomínky z před desetiletí jasnější než to, co se stalo dnes ráno. Fotky, známé předměty, hudba a příběhy mohou tyto vzpomínky otevřít a dát vám něco vřelého ke sdílení. Jediné pravidlo: je to rozhovor, nikdy kvíz.
+Vzpomínání znamená jednoduše společně se vracet k minulosti. Mnoha lidem žijícím s demencí zůstávají vzpomínky z dávných let jasnější než to, co se stalo dnes ráno. Fotografie, známé předměty, hudba a příběhy mohou tyto vzpomínky probudit a dát vám něco hezkého ke sdílení. Platí jen jedno pravidlo: je to rozhovor, nikdy ne zkouška.
 
-## Co je vzpomínání a v čem se liší od kvízu?
+## Co je vzpomínání a čím se liší od zkoušení?
 
-Vzpomínání je sdílení vzpomínek prostřednictvím fotek, předmětů, hudby nebo videa, tempem, které určuje člověk. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) jej popisuje jako sdílení minulých zážitků a příběhů s pomocí fotek, předmětů, videí nebo hudby, v knize nebo na tabletu. Kvíz je něco jiného: žádá člověka, aby podal správnou odpověď, a to může přinést spíš stud než potěšení.
+Vzpomínání je sdílení vzpomínek pomocí fotografií, předmětů, hudby nebo videa vlastním tempem člověka, o kterého pečujete. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ho popisuje jako sdílení prožitků a příběhů z minulosti s pomocí fotografií, předmětů, videí nebo hudby, v knize nebo na tabletu. Zkoušení je něco jiného: žádá po člověku správnou odpověď, a to může místo radosti přinést rozpaky.
 
-[Národní ústav pro stárnutí](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) mezi věci, kterým se vyhnout, řadí ptát se člověka, zda si na něco nebo na někoho vzpomíná. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) doporučuje vyhnout se otázkám, které závisí na krátkodobé paměti, a místo toho mluvit o vzdálenější minulosti.
+[Národní institut pro stárnutí (National Institute on Aging)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) uvádí dotazování, zda si člověk na něco nebo někoho vzpomíná, mezi věcmi, kterým je lepší se vyhnout. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) doporučuje vyhýbat se otázkám, které spoléhají na krátkodobou paměť, a raději mluvit o vzdálenější minulosti.
 
-| Místo | Zkuste |
+| Místo toho | Zkuste tohle |
 | --- | --- |
-| „Pamatujete si tohle?“ | „Vypadá to jako šťastný den. Povězte mi o něm.“ |
-| „Kdo je tohle?“ | „Tady je teta Róza na pláži. Podívejte se na ten klobouk.“ |
-| „Jaký byl rok?“ | „Tohle vypadá jako ten starý dům. Jaké bylo tam žít?“ |
-| „Ne, to není Bill, to je Frank.“ | „Vypadá, že se u toho dobře bavil.“ |
-| „To už jsme spolu jednou probírali.“ | „Ten příběh miluju.“ |
+| „Vzpomínáte si na tohle?“ | „Vypadá to jako krásný den. Povězte mi o něm.“ |
+| „Kdo je to?“ | „Tady je teta Růžena na pláži. Podívejte se na ten klobouk.“ |
+| „Který to byl rok?“ | „Vypadá to jako náš starý dům. Jaké to tam bylo bydlet?“ |
+| „Ne, to není Bill, to je František.“ | „Vypadá to, že se dobře bavil.“ |
+| „To už jste mi říkal.“ | „Ten příběh mám moc rád.“ |
 
-## Jak mluvit o fotkách bez kvízu?
+## Jak mluvit o fotografiích bez zkoušení?
 
-Začněte tím, co vidíte, a pak nechte prostor, aby člověk mohl přidat něco, pokud chce.
+Začněte tím, co vidíte, a pak nechte prostor, aby člověk přidal něco svého, pokud chce.
 
-1. **Sedněte si vedle sebe.** Držte album mezi sebou, abyste se dívali spolu, ne abyste zkoušeli přes stůl.
-2. **Vyberte pár fotek.** Pět dobrých fotek je lepších než celá krabice. Nejlépe fungují velké, jasné fotky.
-3. **Jmenujte lidi sami.** „Tady jste vy s tatínkem v den vaší svatby“ odstraní tlak.
-4. **Komentujte detaily.** Oblečení, auta, jídlo, počasí, tváře. „Jaké auto. Vypadá tak lesklé.“
-5. **Zvěte, nevyžadujte.** „Povězte mi o…“ nebo „Čeho si všímáte?“ Ticho je v pořádku.
-6. **Následujte jeho vedení.** Pokud mluví o něčem úplně jiném, jděte s ním.
-7. **Skončete, dokud je to příjemné.** Zavřete album, než přijde únava.
+1. **Sedněte si vedle sebe.** Držte album mezi sebou, abyste se dívali společně, ne abyste zkoušeli přes stůl.
+2. **Vyberte pár fotografií.** Pět dobrých fotografií je lepší než celá krabice. Nejlépe fungují velké a jasné snímky.
+3. **Lidi pojmenujte sami.** „Tady jste vy a táta ve svatební den“ sundá z člověka tlak.
+4. **Všímejte si detailů.** Oblečení, auta, jídlo, počasí, tváře. „To je ale auto. Jak se leskne.“
+5. **Pozvěte, nevyžadujte.** „Povězte mi o...“ nebo „Čeho si všímáte?“ Ticho nevadí.
+6. **Nechte se vést.** Pokud začne mluvit o něčem úplně jiném, jděte s ním.
+7. **Skončete, dokud je to příjemné.** Zavřete album dřív, než přijde únava.
 
-Hotové obrázkové podněty najdete na [kartách k rozhovoru](/games/conversation-cards/). Pokud chcete z vlastních rodinných fotek udělat jemnou hru na párování, vyzkoušejte [dvojice fotek](/games/photo-pairs/); fotky, které vyberete, zůstávají ve vašem prohlížeči.
+Pokud chcete hotové obrázkové podněty, zkuste [konverzační karty](/games/conversation-cards/). Když chcete z vlastních rodinných fotografií udělat jemnou hru na hledání dvojic, vyzkoušejte [fotodvojice](/games/photo-pairs/); fotografie, které vyberete, zůstanou ve vašem prohlížeči.
 
-## Jak udělat krabici vzpomínek?
+## Jak vyrobit paměťovou krabičku?
 
-Krabice vzpomínek je nádoba s předměty z jeho života, které si lze prohlédnout a o kterých se dá mluvit.
+Paměťová krabička je nádoba s předměty ze života člověka, o kterého pečujete, na které si může sáhnout a o kterých si můžete povídat.
 
-1. **Vyberte pevnou krabici,** která se snadno otevírá, například krabici od bot, klobouková krabice nebo malou dřevěnou truhlu.
-2. **Zvolte téma nebo směs.** Práce, koníček, místo, desetiletí, nebo trochu všeho.
-3. **Nasbírejte bezpečné předměty.** Pro začátek stačí pět až deset položek.
-4. **Používejte kopie cenných věcí.** Kopírujte nenahraditelné fotky a dokumenty a originály uchovejte v bezpečí.
-5. **Vyndávejte předměty jeden po druhém.** Podejte jeden, něco o něm řekněte a sledujte, kam rozhovor směřuje.
+1. **Vyberte pevnou krabičku**, která se snadno otevírá, například krabici od bot, kloboukovou krabici nebo malou dřevěnou truhličku.
+2. **Zvolte téma nebo směs.** Práce, koníček, místo, určité období nebo kousek od všeho.
+3. **Připravte bezpečné předměty.** Na začátek stačí pět až deset věcí.
+4. **Použijte kopie vzácných věcí.** Nenahraditelné fotografie a dokumenty okopírujte a originály mějte bezpečně uložené.
+5. **Vyndavejte věci postupně.** Podejte jednu, řekněte o ní něco krátkého a uvidíte, kam se rozhovor vydá.
 
-Nápady, co zahrnout:
+Nápady, co přidat:
 
-- **Práce:** jmenovka, malý nástroj, nášivka z uniformy, účetní kniha, odznak sestry, kuchařka z jídelny.
-- **Domov:** kartička s receptem v jeho rukopisu, utěrka, oblíbený šátek nebo kravata.
-- **Koníčky:** rybářská třpytka bez háčku, baseball, klubko příze, sáček semen.
+- **Práce:** jmenovka, malý nástroj, nášivka z uniformy, zápisník, kuchařka z jídelny.
+- **Domov:** kartička s receptem psaná jeho rukopisem, utěrka, oblíbený šátek nebo kravata.
+- **Koníčky:** rybářská návnada bez háčku, míček, klubko vlny, sáček se semínky.
 - **Místa:** pohlednice, mapy, suvenýr z výletu, výstřižek z místních novin.
-- **Rodina:** kopie fotek, dětská kresba, svatební pozvánka.
+- **Rodina:** kopie fotografií, dětská kresba, svatební oznámení.
 
-Vynechte ostré předměty, drobnosti, které by mohly být spolknuty, a všechno, co může vyvolat bolestné vzpomínky, pokud nevíte, že je to vítané.
+Nevkládejte ostré předměty, malé věci, které by mohl někdo spolknout, ani nic, co by mohlo vyvolat bolestné vzpomínky, pokud si nejste jisti, že je to vítané.
 
-## Jak udělat knihu životního příběhu?
+## Jak vytvořit knihu životních příběhů?
 
-Kniha životního příběhu je jednoduché album fotek a krátkých popisků o životě člověka. Je to něco, na co se můžete společně dívat, a pomáhá návštěvám a personálu vidět celého člověka.
+Kniha životních příběhů je jednoduché album s fotografiemi a krátkými popisky ze života člověka, o kterého pečujete. Je to něco, na co se můžete dívat společně, a pomáhá návštěvám i pracovníkům v péči vidět celého člověka.
 
-1. **Vyberte formát.** Pořadač s průhlednými obaly, vytištěná fotokniha, nebo prezentace na tabletu.
-2. **Naplánujte několik oddílů.** Dětství, škola, práce, rodina, místa, kde žil, víra, koníčky, oblíbená jídla a hudba.
-3. **Přidejte jednu nebo dvě fotky na stránku** s krátkým popiskem velkým písmem: „Marie, 22 let, nastupuje do práce v bance.“
-4. **Zahrňte záliby a zvyklosti.** „Pije kávu s mlékem. Miluje nedělní hymny. Nemá rád hlasitou televizi.“ To pomůže každému, kdo se o něj stará.
-5. **Zapojte člověka,** kolik chce: vybírá fotky, vypráví příběhy, nebo jen sleduje, jak se to skládá.
-6. **Doplňujte.** Nemusí být hotová, aby byla užitečná.
+1. **Vyberte formát.** Pořadač s euroobaly, tištěná fotokniha nebo prezentace na tabletu.
+2. **Naplánujte několik částí.** Dětství, škola, práce, rodina, místa, kde člověk žil, víra, koníčky, oblíbená jídla a hudba.
+3. **Na každou stránku přidejte jednu nebo dvě fotografie** a krátký popisek velkým písmem: „Marie, 22 let, nástup do práce v bance.“
+4. **Přidejte, co má člověk rád a jaké má zvyky.** „Pije kávu s mlékem. Má rád nedělní písně. Nemá rád hlasitou televizi.“ To pomůže každému, kdo o něj pečuje.
+5. **Zapojte člověka**, jak jen chce: při výběru fotografií, vyprávění příběhů nebo jen při sledování, jak kniha vzniká.
+6. **Doplňujte ji průběžně.** Nemusí být hotová, aby byla užitečná.
 
 ## Další nápady na vzpomínání
 
-- **Pusťte hudbu z jeho mládí** a mluvte o tom, kam ho zavede. Viz [hudební aktivity](/activities/music/).
-- **Podívejte se na domácí videa nebo televizní pořady** z jeho oblíbených desetiletí.
+- **Pusťte hudbu z jeho mládí** a povídejte si, kam ho zavede. Podívejte se na [hudební aktivity](/activities/music/).
+- **Podívejte se na domácí videa nebo pořady** z oblíbených desetiletí.
 - **Uvařte jídlo z dětství** a nechte vůně vést rozhovor.
-- **Prohlédněte si mapu** města, odkud pochází, a sledujte známé ulice.
-- **Prohlédněte si staré katalogy nebo časopisy** a mluvte o cenách, módě a autech.
-- **Nahrávejte jeho příběhy** na telefon, se svolením, pro rodinu.
-- **Sdílejte při hovorech.** Během videohovoru držte jednu fotku; viz [telefonáty a videohovory](/activities/phone-and-video-calls/).
-- **Přineste při návštěvě fotku nebo předmět.** Dá návštěvě snadné zaměření; viz [návštěvy](/activities/visiting/).
+- **Podívejte se na mapu** rodného města a projděte známé ulice.
+- **Projděte staré katalogy nebo časopisy** a povídejte si o cenách, módě a autech.
+- **Nahrajte jeho příběhy** do telefonu, se souhlasem člověka, pro rodinu.
+- **Sdílejte při hovorech.** Ukažte jednu fotografii při videohovoru; viz [telefonní a videohovory](/activities/phone-and-video-calls/).
+- **Přineste fotografii nebo předmět na návštěvu.** Dá to návštěvě jednoduchý středobod; viz [návštěvy](/activities/visiting/).
 
 ## Co když je vzpomínka bolestná?
 
-Některé vzpomínky přinášejí smutek, lítost nebo strach. Pokud se člověk rozruší, zastavte, utěšte ho a jemně změňte téma nebo činnost. Nehádejte se o tom, co se stalo. Family Caregiver Alliance radí nesnažit se přesvědčit člověka, že se mýlí, a reagovat na pocity, které projevuje, protože jsou skutečné. Pokud mluví o někom, kdo zemřel, jako by byl živý, reagujte na pocit: „Chybí vám. Povězte mi o ní.“
+Některé vzpomínky přinášejí smutek, lítost nebo strach. Pokud je člověk rozrušený, zastavte se, nabídněte mu útěchu a jemně přejděte k jinému tématu nebo aktivitě. Nehádejte se o tom, co se stalo. Family Caregiver Alliance radí nesnažit se člověka přesvědčit, že se mýlí, a místo toho reagovat na pocity, které projevuje, protože jsou skutečné. Pokud mluví o někom, kdo zemřel, jako by byl naživu, reagujte na pocit: „Chybí vám. Povězte mi o ní.“
 
 ## Co říká výzkum?
 
-[Cochrane přehled vzpomínkové terapie](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), který zahrnuje 22 studií a 1 972 lidí, zjistil, že účinky byly nekonzistentní, malé a lišily se podle prostředí a formátu. Neshledal žádné důkazy o újmě pro lidi s demencí. Vzpomínání doporučujeme proto, že může přinést vřelý a smysluplný společný čas, ne jako léčbu. Více o snadném rozhovoru najdete v [tipech pro komunikaci](/caregiving/communication-tips/).
+[Cochranovský přehled o vzpomínání (Cochrane review of reminiscence)](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), který zahrnul 22 studií a 1 972 lidí, zjistil, že účinky byly nekonzistentní, malé a lišily se podle prostředí a formy. Nenašel důkazy o tom, že by lidem žijícím s demencí škodilo. Vzpomínání doporučujeme proto, že může přinést příjemné a smysluplné chvíle společně, ne jako léčbu. Další tipy na jednoduchý rozhovor najdete v [tipy na komunikaci](/caregiving/communication-tips/).

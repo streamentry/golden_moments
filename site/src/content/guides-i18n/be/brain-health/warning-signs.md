@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Ранія прыкметы дэменцыі і калі звярнуцца да ўрача"
+seoTitle: "Ранія прыкметы дэменцыі і калі звярнуцца да ўрача"
+description: "Распаўсюджаныя ранія прыкметы дэменцыі, чым яны адрозніваюцца ад звычайнага старэння, прычыны праблем з памяццю, якія можна лячыць, і як падрыхтавацца да візіту да ўрача."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Страта памяці, якая парушае паўсядзённае жыццё, цяжкасці са знаёмымі справамі, блытаніна ў часе
+  ці месцы, а таксама змены настрою або меркавання могуць быць ранімі прыкметамі дэменцыі. Шмат іншых
+  станаў, у тым ліку праблемы з шчытападобнай залозай, нізкі ўзровень вітаміна B12, пабочныя эфекты
+  лекаў, дэпрэсія і праблемы са сном, могуць выклікаць падобныя змены. Дыягназ можа паставіць толькі
+  кваліфікаваны ўрач. Раптоўная блытаніна патрабуе неадкладнай медыцынскай дапамогі.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Лёгкая забыўлівасць часам бывае з узростам; змены, якія парушаюць паўсядзённае жыццё, варта праверыць."
+  - "Асацыяцыя Альцгеймера апісвае 10 трывожных прыкмет; для кожнай прыведзена тыповая змена, звязаная з узростам, для параўнання."
+  - "Праблемы з шчытападобнай залозай, нізкі ўзровень вітаміна B12, пабочныя эфекты лекаў, дэпрэсія, інфекцыі і праблемы са сном могуць паўплываць на памяць, і некаторыя з іх можна лячыць."
+  - "Дыягназ дэменцыі можа паставіць толькі кваліфікаваны ўрач; анлайн-тэсты і самаправеркі такога зрабіць не могуць."
+  - "Блытаніна, што з'яўляецца раптоўна, на працягу гадзін або дзён, можа быць дэліры́ем і патрабуе неадкладнай медыцынскай дапамогі."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Ці з'яўляецца забыўлівасць нармальнай часткай старэння?"
+    a: "Трохі — так. Нацыянальны інстытут старэння (NIA) кажа, што час ад часу пакласці рэч не на месца або забыць пра рахунак звычайна з'яўляецца лёгкай забыўлівасцю, звязанай з узростам. Дэменцыя не з'яўляецца нармальнай часткай старэння. Праблемы з памяццю, якія ўскладняюць такія справы, як воджанне аўтамабіля, карыстанне тэлефонам або пошук дарогі дадому, варта абмеркаваць з урачом."
+  - q: "Ці могуць праблемы з памяццю мець іншую прычыну, акрамя дэменцыі?"
+    a: "Могуць. NIA называе, сярод іншага, праблемы са шчытападобнай залозай, ныркамі або печанню, пабочныя эфекты лекаў, дэпрэсію і трывогу, нізкі ўзровень вітаміна B12, злоўжыванне алкаголем, праблемы са сном, інфекцыі і чарапна-мозгавыя траўмы. Некаторыя з іх пасля лячэння праходзяць, таму медыцынскае абследаванне мае значэнне."
+  - q: "Ці можна правесці тэст на дэменцыю дома?"
+    a: "Не. Дыягназ дэменцыі можа паставіць толькі кваліфікаваны ўрач. Ён зыходзіць з гісторыі хваробы, фізічнага агляду, тэстаў на памяць і мысленне, аналізаў і часам даследавання мозгу. Нават кароткія тэсты, якія выкарыстоўваюць урачы, самі па сабе не дазваляюць паставіць дыягназ дэменцыі."
+  - q: "Што рабіць, калі чалавек раптам збянтэжыўся?"
+    a: "Адразу звярніцеся па медыцынскую дапамогу. Раптоўная блытаніна можа быць дэліры́ем, які Упраўленне па справах ветэранаў ЗША (VA) называе медыцынскай надзвычайнай сітуацыяй. Неадкладна патэлефанавайце ўрачу, які лечыць чалавека, або на 112, заставайцеся побач і запішыце, якія лекі ён прымае."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Заўважыць змены ў сваёй памяці або ў памяці блізкага чалавека можа быць страшна. Гэтая старонка дапаможа вырашыць, калі запісацца да ўрача, і як да гэтага падрыхтавацца. Яна не можа сказаць, ці ёсць у кагосьці дэменцыя. **Дыягназ дэменцыі можа паставіць толькі кваліфікаваны ўрач**, а многія станы, якія выклікаюць праблемы з памяццю, зусім не з'яўляюцца дэменцыяй. Калі ласка, не спадзявайцеся на анлайн-тэсты і самаправеркі.
 
-## What are the early signs of dementia?
+## Якія ранія прыкметы дэменцыі?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Асацыяцыя Альцгеймера](https://www.alz.org/alzheimers-dementia/10_signs) апісвае 10 ранніх прыкмет. Для кожнай яна прыводзіць тыповую змену, звязаную з узростам, для параўнання. Коратка, нашымі словамі:
 
-| Sign worth checking | More typical with age |
+| Прыкмета, якую варта праверыць | Часцей бывае з узростам |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Страта памяці, якая парушае паўсядзённае жыццё, напрыклад, забыццё нядаўніх падзей або ўдакладненне аднаго і таго ж пытання па некалькі разоў | Часам забыццё імя або сустрэчы, але потым іх успамінаеш |
+| Цяжкасці з плананаваннем або вырашэннем задач, напрыклад, з выкананнем знаёмага рэцэпта або з падлікам рахункаў | Час ад часу памылка ў хатніх рахунках |
+| Цяжкасці з выкананнем знаёмых спраў дома, на працы або па-за домам | Час ад часу патрэбна дапамога з налядам мікрахвалёвкі або запісам тэлепраграмы |
+| Блытаецца ў датах, поры года або ў тым, дзе знаходзіцца | Памылка ў дні тыдня, а потым сам разбіраешся |
+| Новыя цяжкасці з адлегласцю, чытаннем або адрозненнем колераў | Змены зроку з-за катаракты |
+| Новыя праблемы са словамі, напрыклад, спыненне ў сярэдзіне размовы або называнне рэчаў не тымі словамі | Часам цяжка знайсці патрэбнае слова |
+| Рэчы кладуцца ў незвычайныя месцы, і чалавек не можа ўспомніць, дзе быў | Час ад часу нешта губляецца, а потым знаходзіцца, калі ўспомніш свае крокі |
+| Дрэннае меркаванне, напрыклад, у грашовых справах або ў догляду за сабой | Час ад часу прыняццё няўдалага рашэння |
+| Адыходзіць ад захапленняў, працы або сацыяльных спраў | Часам не хочацца ісці на сямейную або сацыяльную падзею |
+| Змены настрою або асобы, напрыклад, стаць збянтэжаным, падазроным, напалоханым або трывожным | Прывычкі, якія цяжка змяніць, і раздражненне, калі парушаецца звычайны распарадак |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Адна прыкмета сама па сабе не азначае дэменцыю. Важна **змена ў параўнанні з тым, што для гэтага чалавека звычайна**, асабліва калі яна ўскладняе паўсядзённае жыццё.
 
-## How is normal aging different from dementia?
+## Чым нармальнае старэнне адрозніваецца ад дэменцыі?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[Нацыянальны інстытут старэння (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) кажа, што многія пажылыя людзі заўважаюць, што больш павольна ўспамінаюць рэчы, або час ад часу пакладуць нешта не на месца ці забудуць пра рахунак. Звычайна гэта прыкметы лёгкай забыўлівасці. **Дэменцыя не з'яўляецца нармальнай часткай старэння.** Сур'ёзныя праблемы з памяццю ўскладняюць звычайныя справы, напрыклад, воджанне аўтамабіля, карыстанне тэлефонам або пошук дарогі дадому.
 
-The NIA suggests talking with a doctor if someone:
+NIA раіць пагутарыць з урачом, калі чалавек:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Задае адны і тыя ж пытанні зноў і зноў
+- Губляецца ў месцах, якія добра ведаў
+- Мае цяжкасці з выкананнем рэцэптаў або інструкцый
+- Блытаецца ў часе, людзях і месцах
+- Перастае клапаціцца пра сябе, напрыклад, drenна есць, не мыецца або паводзіцца небяспечна
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Некаторыя людзі маюць **лёгкае кагнітыўнае парушэнне (MCI)**. Гэта значыць, што ў іх больш праблем з памяццю або мысленнем, чым у іншых аднагодкаў, але яны ўсё роўна спраўляюцца з паўсядзённым жыццём. NIA кажа, што MCI можа быць ранняй прыкметай хваробы Альцгеймера, але не ва ўсіх людзей з MCI гэта развіваецца.
 
-## What else can cause memory problems?
+## Што яшчэ можа выклікаць праблемы з памяццю?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Многія рэчы, акрамя дэменцыі, могуць уплываць на памяць, і некаторыя з іх пасля лячэння праходзяць. NIA называе:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Праблемы са шчытападобнай залозай, ныркамі або печанню**
+- **Пабочныя эфекты лекаў**
+- **Дэпрэсію і трывогу**
+- **Нізкі ўзровень вітаміна B12** або недахоп здаровай ежы
+- **Праблемы са сном**
+- **Злоўжыванне алкаголем або наркотыкамі**
+- **Інфекцыі, цяжкасці з крывяноснымі згусткамі або пухліны** у мозгу
+- **Траўму галавы**, напрыклад, струс мозгу
+- **Сур'ёзны стрэс або гора**, напрыклад, выхад на пенсію або страту мужа ці жонкі
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Праблемы са слыхам і зрокам таксама могуць здацца блытанінай; гл. наш [даведнік пра слых](/brain-health/hearing/). Таму медыцынскае абследаванне мае значэнне. Паводле [Асацыяцыі Альцгеймера](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), урачы часта прызначаюць аналіз крыві, каб праверыць шчытападобную залозу, недахоп вітамінаў і інфекцыю. Варта таксама расказаць пра добры [сон](/brain-health/sleep/) і лячэнне дэпрэсіі.
 
-## Sudden confusion is an emergency
+## Раптоўная блытаніна — гэта надзвычайная сітуацыя
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Блытаніна, што з'яўляецца хутка, на працягу гадзін або дзён, патрабуе неадкладнай медыцынскай дапамогі.** Гэта можа быць дэліры́й. [Упраўленне па справах ветэранаў ЗША (VA) апісвае дэліры́й](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) як медыцынскую надзвычайную сітуацыю і раіць адразу патэлефанаваць урачу чалавека або на 112. Прыкметы ўключаюць:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Падзенні і ўздымы ў здольнасці ясна думаць
+- Цяжкасці з увагай
+- Блытаныя думкі
+- Незвычайная сонлівасць або, наадварот, неспакой і ўзбуджэнне
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Гэта можа здарыцца з кожным, у тым ліку з людзьмі, якія ўжо жывуць з дэменцыяй. Паводле [NHS](https://www.nhs.uk/symptoms/confusion/), да распаўсюджаных прычын адносяцца інфекцыі (інфекцыі мочавыводзячых шляхоў часта здараюцца ў пажылых людзей і людзей з дэменцыяй), інсульт, нізкі ўзровень цукру ў крыві ў людзей з дыябетам, траўма галавы і некаторыя лекі. Пакуль чакаеце дапамогі, заставайцеся побач з чалавекам і супакойце яго кароткімі простымі словамі. Не задавайце шмат пытанняў і запішыце, якія лекі ён прымае.
 
-## How do I prepare for the doctor's appointment?
+## Як падрыхтавацца да візіту да ўрача?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Добры візіт пачынаецца з добрых нататак. [Асацыяцыя Альцгеймера](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) раіць узяць з сабой:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Спіс змен** у памяці, настроі і паводзінах з канкрэтнымі прыкладамі і прыблізным часам, калі яны пачаліся
+2. **Мінулыя і цяперашнія праблемы са здароўем**, у тым ліку сямейную гісторыю праблем з памяццю
+3. **Усе рэцэпты і лекі, якія купляюцца без рэцэпта**
+4. **Любыя вітаміны або харчовыя дабаўкі**
+5. **Вашыя пытанні**, напрыклад, якія аналізы будуць зроблены, колькі яны працуюць і калі будуць вынікі
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Таксама дапаможа ўзяць з сабой члена сям'і або сябра, які добра ведае гэтага чалавека. [NIA тлумачыць](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), што ўрачы могуць распытваць і самога чалавека, і члена сям'і пра здароўе, лекі, штодзённую актыўнасць і змены ў паводзінах. Урачы могуць таксама:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Праводзіць тэсты на памяць, вырашэнне задач, увагу, падлік і мову
+- Прызначыць аналізы крыві, мачы і іншыя аналізы, каб знайсці іншыя прычыны
+- Праверыць наяўнасць дэпрэсіі або іншых psychічных расстройстваў
+- Прызначыць даследаванне мозгу, напрыклад, КТ або МРТ
+- Накіраваць да спецыяліста, напрыклад, геранталога, нявролага, геранталагічнага псіхіятра або нейрапсіхолага
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA адзначае, што ацэнка кагнітыўных функцый з'яўляецца абавязковай часткай ежагадняга прафілактычнага агляду Medicare (праграмы медыцынскага страхавання ЗША для пажылых людзей). У іншых краінах такі агляд таксама можа стаць зручным момантам, каб узняць пытанне пра памяць. Нават кароткія тэсты, якія выкарыстоўваюць урачы, самі па сабе не дазваляюць паставіць дыягназ дэменцыі. Яны — першы крок да больш поўнага абследавання, і дыягназ можа патрабаваць больш за адзін візіт. NIA раіць людзям з праблемамі з памяццю праходзіць агляд у ўрача кожныя 6–12 месяцаў.
 
-## Raising the subject kindly
+## Як тактоўна пачаць размову
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Калі вы турбуецеся пра каго-небудзь, выбярыце спакойны і прыватны момант. Гаварыце пра канкрэтныя рэчы, якія вы заўважылі, і падавайце гэта як клопат пра здароўе, а не як крытыку. Прапанова проста пройсці агляд можа выглядаць менш трывожна. Калі ласка, далучайце чалавека да рашэнняў і гаварыце з ім як з дарослым. Нашы [парады па зносінах](/caregiving/communication-tips/) могуць дапамагчы.
 
-## Talk with a doctor
+## Пагаворыце з урачом
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Калі вы заўважаеце новыя змены ў памяці, мысленні, настроі або ў здольнасці спраўляцца з паўсядзённымі справамі, і яны не праходзяць, запішыцеся да ўрача агульнай практыкі. Пры раптоўнай блытаніне адразу патэлефануйце на 112 або ўрачу чалавека. Своечасовая праверка дазваляе знайсці лечэбныя прычыны, а калі гэта дэменцыя, застаецца больш часу, каб спланаваць дапамогу і знайсці падтрымку. Клапаціцеся і пра сябе; гл. наш [даведнік па самадапамозе для апекуноў](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Гэта агульная інфармацыя, а не медыцынская парада. Гл. нашу [медыцынскую агаворку](/medical-disclaimer/).

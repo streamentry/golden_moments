@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Nuwɔnawo le ŋkuɖodzinu ƒe gɔmedzedze me"
+seoTitle: "Nuwɔnawo le ŋkuɖodzinu ƒe gɔmedzedze me"
+description: "Aɖaŋuɖoɖowo le ŋkuɖodzinu ƒe gɔmedzedze me: modzakaɖenuwo, fefewo, gododo, nuŋɔŋlɔ kple ɖoɖowɔwɔ ɖekae, eye ame si dzi nèkpɔna gakpɔtɔ le eƒe nuwɔnawo me."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Le ŋkuɖodzinu ƒe gɔmedzedze me la, ame geɖe ate ŋu ayi nu siwo doa dzidzɔ
+  na wo dzi wɔwɔ: modzakaɖenuwo, kaɖi kple kplɔ̃dzifefewo, nuɖaɖa,
+  abɔdede, azɔlizɔzɔ, habɔbɔwo, mawusubɔsubɔ kple lɔlɔ̃nu faa dɔwɔwɔ.
+  Tɔtrɔ veviwoe nye habɔbɔ suewo, gododo kpuiwo, ɖoɖo bɔbɔe siwo woŋlɔ ɖi,
+  kple ame aɖe si le wo gbɔ. Bia ame si dzi nèkpɔna kpekpeɖeŋu si wòdi,
+  eye na wòakplɔ nuwɔnawo.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Ame geɖe le gɔmedzedzea me tea ŋu nɔa agbe le wo ɖokui si ŋutɔ. Zi geɖe la, ele be woatrɔ asi le nuwɔnawo ŋu, ke menye be woaɖe wo ɖa o."
+  - "Bia ame si dzi nèkpɔna kpekpeɖeŋu si wòdi, eye miadze si dzesi bɔbɔe aɖe si fia be yedi kpekpeɖeŋu."
+  - "Habɔbɔ suewo, ɣeyiɣi siwo me toɖoɖo mele o kple gododo kpuiwo ate ŋu akpe ɖe ame ŋu ŋutɔ."
+  - "Esia nye ɣeyiɣi nyui aɖe si me ame si dzi nèkpɔna ate ŋu akplɔ dɔ siwo ku ɖe eya ŋutɔ ƒe agbe ŋu, abe agbalẽŋlɔnu alo agbenɔnɔ ŋutinya ƒe agbalẽ ene."
+  - "Tia fefewo be woadzɔ dzi na ame. Ɖe asi le nu sia nu si va le abe dodokpɔ ene ŋu."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Nuwɔna kawoe nyo le ŋkuɖodzinu ƒe gɔmedzedze me?"
+    a: "Zi geɖe la, nu siwo ame si dzi nèkpɔna lɔ̃na xoxo: kaɖi, kplɔ̃dzifefewo, nuɖaɖa, abɔdede, azɔlizɔzɔ, hadzidzi, mawusubɔsubɔ, habɔbɔwo kple lɔlɔ̃nu faa dɔwɔwɔ. Àte ŋu awɔ wo woanɔ kpuie wu, woafa wu alo woabɔbɔ wu. Agbalẽŋlɔnu, lɛtaŋɔŋlɔ kple agbenɔnɔ ŋutinya ƒe agbalẽ wɔwɔ hã sɔ na ɣeyiɣi sia."
+  - q: "Aleke mawɔ akpe ɖe ame ŋu evɔ nyemaxɔ nuwɔna la le esi o?"
+    a: "Bia kpekpeɖeŋu ƒomevi si ame si dzi nèkpɔna di, eye nàbiae enuenu. Miadze si nya alo asidede aɖe si fia be ele be yeage ɖe eme, le kpɔɖeŋu me ne nya alo ŋkɔ aɖe mele dodom o le fefe me. Ne afɔku aɖeke mele eme o la, na wòawɔe le eya ŋutɔ ƒe mɔ nu, ne exɔ ɣeyiɣi geɖe gɔ̃ hã."
+  - q: "Ðe wòle be ame si le ŋkuɖodzinu ƒe gɔmedzedze me nate nuwɔna yeyewo kpɔa?"
+    a: "Ɛ̃, ne edi. Modzakaɖenu siwo wònya xoxo la bɔbɔna wu, gake ame geɖe kpɔa dzidzɔ le nu yeye aɖe ŋu, abe azɔlizɔzɔ ƒe habɔbɔ si sɔ na ame siwo le agbe nɔm kple ŋkuɖodzinu, nutata ƒe sukuxɔ alo hadzidzi ƒe habɔbɔ ene. Tee kpɔ zi ɖeka evɔ màzi edzi o, eye nàkpɔ ale si wòle nɛ."
+  - q: "Ðe ahɔhɔ̃ me susudɔ fefewo aɖe vi le gɔmedzedzea mea?"
+    a: "Ame aɖewo kpɔa dzidzɔ le nukpɔkpɔfefewo kple nyafefewo ŋu, eye dzidzɔ ma ɖeɖe sɔ gbɔ. Womefia be dɔwɔnu alo fefe aɖeke ate ŋu ada, agbɔdzɔ alo atɔ te ŋkuɖodzinu o. Ne fefe aɖe le nuteɖeamedzi hem vɛ alo le ewɔm na ame si dzi nèkpɔna be mele dzidzedze kpɔm o la, ɖe asi le eŋu."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Le ŋkuɖodzinu ƒe gɔmedzedze me la, ame geɖe gale agbe nɔm abe tsã ene. Woate ŋu anɔ dɔ wɔm, awɔ lɔlɔ̃nu faa dɔ, akpɔ wo xɔlɔ̃wo, eye woakpɔ woƒe ŋkeke ƒe nu geɖe gbɔ. Zi geɖe la, mehiã be woaɖe nuwɔnawo ɖa o; ele be woatrɔ asi le wo ŋu vie ale be woagakpɔtɔ adzɔ dzi na ame. Wò dɔ le abe ame si le kpekpeɖeŋu nam kple wo ene wu, ke menye be nàxɔ nuwo katã ɖe asi o: ame si kpena ɖe wo ŋu, wɔa ɖoɖo kpli wo, eye gena ɖe eme ne wobiae ko.
 
-## What activities are good in early-stage dementia?
+## Nuwɔna kawoe nyo le ŋkuɖodzinu ƒe gɔmedzedze me?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Nuwɔna nyuitɔwo le gɔmedzedzea me zi geɖe nye nu siwo ame si dzi nèkpɔna lɔ̃na xoxo, siwo wowɔ wole bɔbɔe vie. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yɔ aɖaŋuɖoɖo aɖewo abe kaɖi kple kplɔ̃dzifefewo, nyadidi, azɔlizɔzɔ, ɣeɖuɖu, abɔdede, seƒoƒo ɖoɖo, ŋutinyagblɔ, nutata, hadzidzi, agbalẽŋlɔnu, lɛtaŋɔŋlɔ, agbalẽtata ƒe nuŋlɔɖi, nuɖaɖa kple azãɖuɣi ƒe kɔnuwo ene.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Zi geɖe la, nɔnɔme si me wowɔa nuwɔnaa le lae trɔna, ke menye nuwɔnaa ŋutɔ o. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) gblɔ be ame siwo le gɔmedzedzea me ate ŋu adze egɔme ahe ɖe megbe tso nu siwo doa dzidzɔ na wo gbɔ, eye wòtsɔ kpɔɖeŋu si nye be ame aɖe si sea le eɖokui me be nuwo sɔ gbɔ le kplɔ̃ gã aɖe ŋu la anɔ bɔbɔe nɛ wu ne ele habɔbɔ sue aɖe me. Miadzro nu siwo le sesẽm ŋu faa, eye miatrɔ asi le wo ŋu ɖekae.
 
-## Ask first, and agree on how to help
+## Bia gbã, eye miadze si ale si miakpe ɖe ame ŋu
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association ƒe mɔfiame le gɔmedzedzea ŋu](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) ɖo aɖaŋu aɖewo siwo ku ɖe nuwɔnawo hã ŋu:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Bia tẽ.** Nyabiase abe „Nu kae awɔ agbalẽxexlẽ ƒe habɔbɔa nanɔ bɔbɔe na wò?” ene naa ŋuɖoɖo nyui wu tsɔtsɔ bu.
+- **Xɔe se be ate ŋui.** Ne afɔku aɖeke mele eme o la, na ame si dzi nèkpɔna nate kpɔ, eye nàde dzi ƒo nɛ wu be nàxɔ nuwɔna la le esi.
+- **Miadze si dzesi aɖe.** Mitia nya alo asidede aɖe si fia be „enyo be nàge ɖe eme”, le kpɔɖeŋu me ne ŋkɔ aɖe mele dodom o le kaɖifefe me.
+- **Bia enuenu.** Bia be kpekpeɖeŋu si nèle nam la sɔ, sɔ gbɔ alo mesɔ gbɔ o hã.
 
-## Activity ideas for the early stage
+## Aɖaŋuɖoɖowo le nuwɔnawo ŋu le gɔmedzedzea me
 
-### Keep up roles and hobbies
+### Yi dɔwo kple modzakaɖenuwo dzi
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Lé ɖoɖo si nèwɔna edziedzi me ɖe asi.** Lɔlɔ̃nu faa dɔ kwasiɖa sia kwasiɖa, hadzidzi ƒe habɔbɔ alo habɔbɔ aɖe naa ɖoɖo nɔa kwasiɖaa ŋu. Ne eva le nuteɖeamedzi hem vɛ la, dɔ kpui alo si me toɖoɖo mele o ate ŋu asɔ wu.
+- **Miawɔ nuɖuɖu ƒe ɖoɖo ɖekae.** Ne nuƒleƒe va le fu ɖem na ame la, Alzheimer's Association ɖo aɖaŋu be nàbia ame si dzi nèkpɔna be wòakpe ɖe ŋuwò miawɔ kwasiɖaa ƒe nuɖuɖu ƒe ɖoɖo eye wòaŋlɔ nu siwo miaƒle ɖi.
+- **Ða nu kple abolomeƒome.** Miadze nuɖaɖu si wòlɔ̃na ɖekae. Ðo nuɖanuwo ɖe ɖoɖo nu hafi miadze egɔme, ale be afɔɖeɖewo nadze ƒãa.
+- **De abɔ.** Miawɔ ɖoɖo ɖe abɔa ŋu, mitia nuku alo atiwo, eye miawɔ dɔa ɖekae. Nu siwo woawɔ le abɔa me le kwasiɖaa me si woŋlɔ ɖi ate ŋu akpe ɖe ame ŋu.
+- **Yi asiɖenuwɔwɔ dzi.** Atikpakpadɔ, nutɔtɔ, avɔlɔlɔ̃ alo kpɔɖeŋunuwo tutu ate ŋu ayi edzi ne mɔfiameawo bɔbɔ eye kekeli sɔ gbɔ.
 
-### Games for enjoyment
+### Fefewo siwo hea dzidzɔ vɛ
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Mife kaɖi kple kplɔ̃dzifefewo.** Fefe siwo wònya la bɔbɔna wu. Mife le ƒuƒoƒowo me ale be ame aɖeke mase le eɖokui me be wodze ŋgɔ ye o, eye migaxlẽ dzesiwo sesĩe o alo migaxlẽ wo kura o.
+- **Te nyadidi si me ŋɔŋlɔdzesiwo lolo.** Míaƒe [nyadidi](/games/word-search/) ate ŋu anye fefe si woawɔ le screen dzi alo woate ŋu ata wo hena ɣeyiɣi fafɛ aɖe.
+- **Wɔ nɔnɔmetata ƒe akpaƒefefe.** Tia akpaƒe xexlẽme si ana ame nase akɔ na eɖokui, ke menye si asesẽ o. [Nɔnɔmetata ƒe akpaƒefefe](/games/picture-puzzle/) nye eƒe kpuiƒe aɖe le screen dzi, eye míaƒe mɔfiame si ku ɖe [akpaƒefefewo na ame siwo le agbe nɔm kple ŋkuɖodzinu](/activities/puzzles/) ŋu kpena ɖe ame ŋu le etiatia me.
+- **Kpɔ gome le nyabiabia kple ŋuɖoɖo ƒe fefe me hena modzaka.** Ame aɖewo lɔ̃a ƒuƒoƒo ƒe nyabiabia kple ŋuɖoɖo ƒe fiẽ. Ne eva le abe dodokpɔ ene la, tia nu bubu, alo te míaƒe [nyabiabia bɔbɔewo](/activities/trivia/) kpɔ, siwo me ŋuɖoɖo ƒe tiatiawo le eye dzesi aɖeke mele wo ŋu o.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Fefewo nye dzidzɔkpɔkpɔ ta le afisia. Womefia be fefe aɖeke ate ŋu ada alo agbɔdzɔ ŋkuɖodzinu o; xlẽ nu geɖe le [susu me fefewo: nu si numekukuwo gblɔ](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Ŋlɔ nu, bu tame, eye nàlé nu ɖe asi
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Ŋlɔ agbalẽŋlɔnu.** Alzheimer's Association ɖo aɖaŋu be agbalẽŋlɔnu ate ŋu anye mɔ ɖeka si dzi woato abu seselelãme ŋu le nyatakaka aɖe xɔxɔ megbe. Fli ʋɛ aɖewo gbesiagbe sɔ gbɔ.
+- **Kplɔ agbenɔnɔ ŋutinya ƒe agbalẽ wɔwɔ.** Gɔmedzedzea nye ɣeyiɣi nyui aɖe si me ame si dzi nèkpɔna ate ŋu atia eya ŋutɔ ƒe fotowo eye wòaŋlɔ alo agblɔ ŋutinya siwo le wo megbe. Kpɔ [ŋkuɖoɖo dzi ƒe nuwɔnawo](/activities/reminiscence/).
+- **Ŋlɔ lɛtawo.** Lɛta si woaŋlɔ na mamayɔvi alo tɔgbuiyɔvi, xɔlɔ̃ xoxo alo ame si woawɔ dɔ kplii tsã ate ŋu anye nu vevi na ame eveawo siaa.
+- **Miaƒo nu tso fotowo ŋu.** [Foto ƒe eveeve](/games/photo-pairs/) trɔa ƒomea ƒe fotowo wozua fefe fafɛ aɖe, eye [dzeɖoɖo ƒe kaɖiwo](/games/conversation-cards/) naa gɔmedzedze bɔbɔewo na dzeɖoɖo.
 
-### Go out and move
+### Do go yi xexeame, eye nàʋã ɖokuiwò
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ɖo aɖaŋu be miayi edzi ado go abe ale si mienyae ene, nenye be mia kple ame si dzi nèkpɔna siaa miele akɔ na mia ɖokui. Miwɔ ɖoɖo ɖe wo ŋu le ŋkeke ƒe ɣeyiɣi si nyo na ame si dzi nèkpɔna wu la, eye migana wòaxɔ ɣeyiɣi didi akpa o.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Gododo kpuiwo yi nutovɛwo.** Nutowo ƒe aƒe, sinima alo nutata ƒe ɖeɖefia, ne anya wɔ la, le ɣeyiɣi si me toɖoɖo mele o.
+- **Tsidzidze.** NIA ɖo aɖaŋu be miayi tsidzidzeƒe le ŋkeke ƒe ɣeyiɣi si me ame geɖe mele o.
+- **Azɔlizɔzɔ ƒe habɔbɔwo kple ɣeɖuɖu ƒe sukuxɔwo.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) yɔ ɣeɖuɖu, tai chi, yoga, tsidzidze kple azɔlizɔzɔ ƒe habɔbɔwo, kpakple ɣeyiɣi siwo woɖo ɖi na ame siwo le agbe nɔm kple ŋkuɖodzinu, ne wole mia gbɔ.
+- **Hadzidzi ƒe habɔbɔwo kple ŋkuɖodzinu ƒe kplɔ̃wo.** Habɔbɔ siwo me tomefafa le, afisi ame siwo le agbe nɔm kple ŋkuɖodzinu kple ame siwo le wo gbɔ ate ŋu ado go ame bubu siwo le nɔnɔme ma ke me.
 
-## Small changes that keep activities enjoyable
+## Tɔtrɔ sue siwo nana nuwɔnawo gakpɔtɔ dzɔa dzi na ame
 
-| If this is getting harder | Try this |
+| Ne esia le sesẽm | Te esia kpɔ |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Teƒe siwo me amewo sɔ gbɔ alo toɖoɖo le | Yi le ɣeyiɣi siwo me tomefafa le, tia habɔbɔ suewo, nɔ anyi ɖe xɔa ƒe axadzi |
+| Ŋkɔ yeyewo ɖoɖo ŋku | Ðe ame ɖe sia ɖe fia kple eƒe ŋkɔ ɣesiaɣi; bia habɔbɔwo be woazã ŋkɔdzesiwo |
+| Afɔɖeɖe geɖe dzi yiyi | Ŋlɔ afɔɖeɖewo ɖi, alo ɖo nu sia nu ɖe ɖoɖo nu gbã |
+| Ðeɖiteameŋu | Gododo kpuiwo, gbɔdzɔe emegbe, eye migawɔ ɖoɖo bubu aɖeke ɖe ŋkeke ma dzi o |
+| Dzesidede le fefe me | Mife le ƒuƒoƒowo me, miwɔ seawo woabɔbɔ, alo migaxlẽ dzesiwo o |
+| Nyawo didi | Na ɣeyiɣi; gblɔ nya aɖe ne miaƒe dzesi si miedze si la fia nenema ko |
 
-## When to slow down
+## Ɣeyiɣi si wòle be miagbɔdzɔ
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Tɔ te nuwɔna aɖe alo trɔ asi le eŋu ne nuteɖeamedzi va le eme wu dzidzɔ. Ne ame si dzi nèkpɔna le nu gblẽm enuenu, le modzakaɖenu aɖe ƒom asa na alo le gbɔgblɔm be „nyemate ŋui azɔ o” la, ele be miaƒo nu tso eŋu blewuu, ke menye be miazi edzi o. Zi geɖe la, ŋuɖoɖoa nye be miawɔ nu ma ke ƒe akpa sue aɖe. Ne ame si dzi nèkpɔna hiã kpekpeɖeŋu geɖe wu be wòadze egɔme eye wòadze afɔɖeɖewo yome la, aɖaŋuɖoɖo siwo le [nuwɔnawo le titina ƒe akpaa me](/activities/middle-stage/) ate ŋu asɔ wu. Ne èdi nyatakaka bubuwo tso dzeɖoɖo si doa ŋusẽ ame ŋu la, kpɔ [dzeɖoɖo ƒe aɖaŋuɖoɖowo](/caregiving/communication-tips/), eye ne èdi aɖaŋuɖoɖo geɖe wu la, kpɔ [nuwɔna 101](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Ame siwo le ame gbɔ hã hiã kpekpeɖeŋu. Gɔmedzedzea nye ɣeyiɣi nyui aɖe si me nàtu wò ŋutɔ wò kpekpeɖeŋu ƒe habɔbɔ; kpɔ [amegbɔkpɔla ƒe ɖokuitakpɔkpɔ](/caregiving/caregiver-self-care/).

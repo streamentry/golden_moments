@@ -1,35 +1,37 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "An gabh dementia a chasg? Na tha an rannsachadh ag ràdh"
+seoTitle: "An gabh dementia a chasg? Rannsachadh"
+description: "Na lorg Coimisean Lancet 2024 agus deuchainnean mòra mu bhith a’ lùghdachadh cunnart dementia, na cha do lorg iad, agus ceumannan ri bruidhinn ri dotair."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Chan urrainn do dhuine sam bith gealltainn gun casg iad dementia. Bha
+  Coimisean Lancet 2024 a’ meas gu bheil faisg air leth nan cùisean dementia
+  air feadh an t-saoghail co-cheangailte ri 14 factaran cunnairt a dh’fhaodadh
+  atharrachadh, leithid bruthadh-fala àrd, call claisneachd agus neo-ghnìomhachd.
+  Tha deuchainnean a’ sealltainn buaidhean beaga air deuchainnean smaoineachaidh,
+  chan eil dearbhadh gu bheil nas lugha de chùisean dementia ann. Bidh dementia
+  fhathast aig mòran dhaoine a nì a h-uile càil “ceart”, agus chan eil e mar
+  choire air duine sam bith.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Cheangail Coimisean Lancet 2024 mu 45% de chùisean dementia air feadh an t-saoghail ri 14 factaran cunnairt a dh’fhaodadh atharrachadh. ’S e tuairmse sluaigh a tha seo, chan e gealladh pearsanta."
+  - "Tha lùghdachadh cunnairt a’ ciallachadh a bhith a’ lùghdachadh nan cothroman thar sluaigh air fad. Chan eil e a’ ciallachadh gum faod neach sam bith dementia a sheachnadh."
+  - "Lorg deuchainnean mòra leithid FINGER, US POINTER agus SPRINT MIND buannachdan beaga air deuchainnean smaoineachaidh no lagachadh inntinneil tlàth, ach cha do dhearbh gin dhiubh gu bheil prògram dòigh-beatha a’ casg dementia."
+  - "’S e aois am bàillidh cunnairt as motha a tha aithnichte airson Alzheimer, agus chan urrainnear atharrachadh. Bidh dementia fhathast aig mòran dhaoine le cleachdaidhean fallain."
+  - "Is fhiach na ceumannan as trice a chaidh a sgrùdadh, leithid a bhith a’ làimhseachadh bruthadh-fala àrd, a’ cleachdadh innealan-claisneachd agus a’ fuireach gnìomhach, a bhruidhinn ri dotair oir tha iad cuideachail do shlàinte ann an dòighean eile cuideachd."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "An gabh dementia a chasg?"
+    a: "Chan eil dòigh dhearbhte ann dementia a chasg do neach sam bith. Tha rannsachadh a’ nochdadh gum faodadh a bhith a’ lùghdachadh chunnartan sònraichte, leithid bruthadh-fala àrd, call claisneachd gun làimhseachadh agus smocadh, an cothrom dementia a lùghdachadh thar sluaigh no dàil a chur air nuair a thòisicheas e. ’S e cothroman a tha seo, chan e geallaidhean."
+  - q: "Dè tha am figear 45% bho Choimisean Lancet a’ ciallachadh?"
+    a: "Bha Coimisean Lancet 2024 a’ meas gu bheil mu 45% de chùisean dementia air feadh an t-saoghail co-cheangailte ri 14 factaran cunnairt a dh’fhaodadh, gu teòiridheach, atharrachadh. Tha an tuairmse a’ gabhail ris gu bheil na factaran sin ag adhbhrachadh dementia, agus tha na h-ùghdaran ag ràdh gum faod cuid de na ceanglaichean a bhith dìreach ann am pàirt adhbharach. Tha e a’ toirt cunntas air slòigh air fad agus chan eil e ag innse dhut mu chunnart neach sam bith fa leth."
+  - q: "Ma bha dòigh-beatha fallain aig mo phàrant, carson a fhuair iad dementia?"
+    a: "Tha pàirt mhòr aig aois, gintinneachd agus mòran fhactaran nach eil smachd aig duine orra ann an dementia. Tha ùghdaran Choimisean Lancet a’ toirt fa-near nach eil a bhith a’ lùghdachadh cunnairt thar sluaigh a’ gealltainn gun seachnaidh neach sam bith dementia. Chan eil breithneachadh mar chomharradh gun do dh’fhàillig cuideigin."
+  - q: "A bheil e ro fhadalach cunnart dementia a lùghdachadh an dèidh aois 65?"
+    a: "Tha Coimisean Lancet ag ràdh nach eil e a-riamh ro thràth no ro fhadalach cunnart a lùghdachadh, ged a tha mòran den fhianais mu mheadhan-beatha. Tha a bhith a’ làimhseachadh dhuilgheadasan claisneachd is lèirsinn, a’ fuireach gnìomhach agus a’ cumail conaltradh ri daoine nan eisimpleirean de cheumannan nas fhaide air adhart ann am beatha a chaidh a sgrùdadh. Bruidhinn ri dotair mu na tha freagarrach dhut fhèin."
+  - q: "A bheil geamannan eanchainn no daitheadan sònraichte a’ casg dementia?"
+    a: "Cha deach dearbhadh gu bheil geama, biadh, stuth-leasachaidh no daithead sam bith a’ casg dementia. Cha do lorg deuchainn trì bliadhna air daithead MIND eadar-dhealachadh cudromach ann an smaoineachadh an taca ri daithead smachd, agus cha deach sealltainn gu bheil na buaidhean a chithear ann an deuchainnean rannsachaidh aig aplacaidean trèanadh eanchainn malairteach."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +65,314 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Ma tha thu a’ toirt cùram do chuideigin a tha a’ fuireach le dementia, no ma
+chunnaic thu pàrant a’ fuireach leis, is dòcha gu bheil thu air smaoineachadh an
+gabheadh a stad, agus an urrainn dhut stad a chur air tachairt dhut fhèin. Tha
+an duilleag seo a’ mìneachadh na tha an rannsachadh ag ràdh gu fìrinneach, ann
+an cànan soilleir. Am freagairt ghoirid: chan urrainn do dhuine sam bith
+gealltainn gun casg iad dementia, ach tha rannsachadh a’ nochdadh gum faodadh
+cuid de chunnartan a bhith air an lùghdachadh, agus gum faodadh sin a bhith a’
+ciallachadh gum bi nas lugha de dhaoine a’ leasachadh dementia no ga leasachadh
+nas fhaide air adhart.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+’S e fiosrachadh coitcheann a tha seo, chan e comhairle mheidigeach. Leugh ar
+[n-aithris-àichidh mheidigeach](/medical-disclaimer/) agus bruidhinn ri dotair
+mu do shlàinte fhèin.
 
-## Can dementia be prevented?
+## An gabh dementia a chasg?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Chan eil dòigh dhearbhte ann dementia a chasg do neach sam bith fa leth. Tha an
+National Institute on Aging (NIA) ag ràdh, ged nach
+[deach dad a dhearbhadh fhathast gus casg a chur air Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+gu bheil luchd-rannsachaidh air ro-innleachdan gealltanach a lorg agus gu bheil
+iad ag ionnsachadh dè a dh’fhaodadh obrachadh agus dè nach obraich.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Na tha an rannsachadh *a’* sealltainn, ge-tà, ’s e gu bheil cuid de shuidheachaidhean
+slàinte agus de chleachdaidhean co-cheangailte ri cothrom nas àirde dementia.
+Nuair a tha na cunnartan sin nas ìsle thar sluaigh air fad, is dòcha gum bi nas
+lugha de dhaoine a’ leasachadh dementia, no gum bi iad ga leasachadh nas fhaide
+air adhart nam beatha. Tha sin gu math eadar-dhealaichte bho ghealladh.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Aon chomharradh dòchais: thug Coimisean Lancet 2024 iomradh, ann an cuid de
+dhùthchannan le teachd-a-steach àrd, a’ gabhail a-steach na SA agus an RA, gu
+bheil a’ chuibhreann de dhaoine nas sine le dementia air tuiteam. Tha na
+h-ùghdaran den bheachd gur dòcha gu bheil seo gu ìre mar thoradh air foghlam nas
+fheàrr, cùram slàinte nas fheàrr agus nas lugha de mhilleadh air soithichean
+fuil thar beatha, a rèir
+[geàrr-chunntas University College London air an aithisg](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Dè lorg Coimisean Lancet 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+’S e buidheann de 27 neach-rannsachaidh dementia a tha ann an Coimisean Lancet
+air casg, eadar-theachd agus cùram dementia, a bhios a’ dèanamh lèirmheas air an
+fhianais gach beagan bhliadhnaichean. Dh’ainmich an aithisg aca ann an 2024 **14
+factaran cunnairt** a dh’fhaodadh atharrachadh, agus rinn iad tuairmse gu bheil
+iad còmhla a’ dèanamh suas **faisg air leth (mu 45%) de chùisean dementia air
+feadh an t-saoghail**. Ann am briathran nan ùghdar, dh’fhaodadh na cùisean sin a
+bhith air an casg no air an cur dàil *gu teòiridheach* nan robh na cunnartan air
+an toirt air falbh
+([aithisg Choimisean Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Na 14 factaran, cruinnichte a rèir na h-ìre beatha far a bheil an fhianais as
+làidire:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Tràth ann am beatha:** nas lugha de fhoghlam.
+- **Meadhan-beatha (timcheall air aois 40 gu 65):** call claisneachd, colesterol
+  LDL àrd (“dona”), trom-inntinn, dochann cinn, neo-ghnìomhachd chorporra,
+  tinneas an t-siùcair, smocadh, bruthadh-fala àrd, reamhrachd, agus òl trom.
+- **Nas fhaide air adhart ann am beatha:** aonaranachd shòisealta, truailleadh
+  èadhair, agus call lèirsinn gun làimhseachadh.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+B’ iad an dà rud ùr ann an 2024 colesterol LDL àrd agus call lèirsinn gun
+làimhseachadh. B’ iad na factaran a bha co-cheangailte ris a’ chuibhreann as
+motha de chùisean call claisneachd agus colesterol LDL àrd (mu 7% gach fear), air
+an leantainn le nas lugha de fhoghlam agus aonaranachd shòisealta (mu 5% gach
+fear).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Tha ar [stiùireadh air factaran cunnairt](/brain-health/risk-factors/) a’ dol
+tro na 14 uile ann an clàr, le na tha an rannsachadh a’ ceangal riutha agus na
+dh’fhaodas tu a dhèanamh.
 
-### What the 45% figure does not mean
+### Na tha am figear 45% nach eil a’ ciallachadh
 
-It is easy to misread this number, so it helps to be precise:
+Tha e furasta am figear seo a mhì-thuigsinn, agus mar sin tha e feumail a bhith
+soilleir:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **’S e tuairmse sluaigh a tha ann.** Tha e a’ toirt cunntas air cùisean
+  dementia air feadh an t-saoghail, chan ann air do chothroman fhèin no
+  cothroman do phàrant.
+- **Tha e a’ gabhail ri adhbhar is buaidh.** Tha na h-ùghdaran ag ràdh nach do
+  chuir iad a-steach ach factaran cunnairt le fianais làidir, ach gum faod cuid
+  de na ceanglaichean a bhith dìreach ann am pàirt adhbharach. Mar eisimpleir,
+  dh’fhaodadh trom-inntinn nas fhaide air adhart ann am beatha a bhith uaireannan
+  na chomharra tràth de dementia seach adhbhar.
+- **Chan eil e a’ gealltainn dad do neach sam bith.** Tha geàrr-chunntas UCL a’
+  toirt fa-near gu bheil lùghdachadh cunnairt ag obair aig ìre sluaigh agus nach
+  eil e a’ gealltainn gun seachnaidh neach sam bith dementia.
+- **Chan eil an leth eile air a mhìneachadh leis na factaran sin.** Tha aois,
+  gintinneachd agus adhbharan nach eil luchd-saidheans a’ tuigsinn fhathast a’
+  dèanamh suas a’ chòrr.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Dè an diofar eadar “lùghdachadh cunnairt” agus “casg”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+Tha **lùghdachadh cunnairt** a’ ciallachadh a bhith a’ lùghdachadh nan cothroman.
+Ma lùghdaicheas buidheann mhòr de dhaoine am bruthadh-fala, is dòcha gum bi nas
+lugha dhiubh a’ leasachadh dementia thar mòran bhliadhnaichean na bhiodh air
+dhòigh eile. Bidh cuid de dhaoine sa bhuidheann sin fhathast ga leasachadh.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+Tha **casg** a’ moladh rudeigin a stad gu tur bho bhith a’ tachairt. A thaobh
+dementia, chan eil sin na rudeigin as urrainn do rannsachadh gealltainn do dhuine
+sam bith an-diugh.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Bidh luchd-rannsachaidh cuideachd a’ bruidhinn air **dàil**. Tha Coimisean
+Lancet ag aithris gu bheil fianais ùr ann gum faodadh lùghdachadh cunnairt dàil a
+chur air nuair a thòisicheas dementia agus an ùine a chuireas neach seachad a’
+fuireach le droch shlàinte a ghiorrachadh. Faodaidh eadhon dàil de bheagan
+bhliadhnaichean a bhith gu math cudromach do neach agus don teaghlach aca.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Air an làrach seo, cleachdaidh sinn “lùghdachadh cunnairt” agus “co-cheangailte
+ri” a dh’aona ghnothach. Nuair a chì thu toradh, stuth-leasachaidh no prògram a
+tha a’ gealltainn “Alzheimer a chasg”, bi faiceallach. Tha an NIA a’ toirt
+comhairle bruidhinn ri dotair mus feuch thu pile no làimhseachadh sam bith a tha
+a’ gealltainn casg a chur air Alzheimer, oir dh’fhaodadh toraidhean mar sin a bhith
+cunnartach, na chaitheamh-airgid, no an dà chuid.
 
-## What have large trials found?
+## Dè lorg deuchainnean mòra?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Faodaidh sgrùdaidhean amharc (a bhios a’ coimhead air na thachras do dhaoine thar
+ùine) ceanglaichean a shealltainn. ’S e deuchainnean air thuaiream, far a bheil
+daoine air an sònrachadh do phrògram no do bhuidheann coimeis le cothrom, an
+deuchainn as làidire. Seo na lorg cuid de na deuchainnean as ainmeile.
 
-### FINGER (Finland)
+### FINGER (An Fhionnlainn)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Chlàraich deuchainn FINGER 1,260 inbheach eadar aois 60 agus 77 aig an robh
+cunnart nas àirde de dementia. Fhuair an leth dhiubh prògram dà bhliadhna de
+chomhairle daithead, eacarsaich, eacarsaichean eanchainn air coimpiutair agus
+sgrùdaidhean air slàinte cridhe is shoithichean fuil; fhuair an leth eile
+comhairle slàinte choitcheann. Rinn a’ bhuidheann phrògraim beagan nas fheàrr air
+seata de dheuchainnean smaoineachaidh, eadar-dhealachadh beag ach cudromach gu
+staitistigeil
+([deuchainn FINGER ann an The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)).
+Thomhais an deuchainn toraidhean deuchainn, chan e breithneachaidhean dementia.
 
-### US POINTER (United States)
+### US POINTER (Na Stàitean Aonaichte)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+Chlàraich US POINTER 2,111 inbheach eadar aois 60 agus 79 a bha neo-ghnìomhach,
+le daithead nach robh cho fallain agus le factaran cunnairt eile. Chaidh an dà
+bhuidheann a bhrosnachadh gu bhith nas gnìomhaiche gu corporra is inntinneil,
+ith nas fheàrr, fuireach sòisealta agus sùil a chumail air slàinte cridhe. Fhuair
+aon bhuidheann prògram structaraichte le coidseadh; stiùirich a’ bhuidheann eile
+iad fhèin. Thar dà bhliadhna, thàinig piseach air toraidhean deuchainnean
+smaoineachaidh anns **an dà** bhuidheann, agus beagan nas motha sa bhuidheann
+structaraichte
+([deuchainn US POINTER ann an JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)).
+Tha na h-ùghdaran ag ràdh gu bheil feum air barrachd leantainn gus faighinn a-mach
+a bheil an diofar cudromach ann am beatha làitheil. Leis nach robh buidheann “na
+dèan dad” ann, chan urrainn don deuchainn a ràdh dè na chuidich gach prògram an
+taca ri gun atharrachadh sam bith.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (bruthadh-fala)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+Rinn SPRINT MIND sgrùdadh air 9,361 inbheach anns na SA aig aois 50 agus nas sine
+le bruthadh-fala àrd. Chaidh an sònrachadh gu amas bruthadh-fala nas ìsle (àireamh
+as àirde fo 120) no an amas àbhaisteach (fo 140). Lùghdaich an t-amas nas ìsle gu
+cudromach **lagachadh inntinneil tlàth**, ìre de dhuilgheadasan cuimhne is
+smaoineachaidh a dh’fhaodas tighinn ro dementia. A thaobh **dementia coltach**,
+bha nas lugha de chùisean anns a’ bhuidheann le amas nas ìsle, ach cha robh an
+diofar cudromach gu staitistigeil. Stad an deuchainn tràth agus bha nas lugha de
+chùisean dementia na bha dùil, agus mar sin is dòcha gun robh i ro bheag gus am
+ceist sin a fhreagairt
+([SPRINT MIND ann an JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Na tha na lèirmheasan a’ cur ri chèile
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Chruinnich lèirmheas Cochrane ann an 2021 naoi deuchainnean mòra air prògraman a
+bhios a’ dèiligeadh ri grunn chunnartan aig an aon àm, le còrr air 18,000 neach.
+Lorg e buannachd bheag air deuchainnean smaoineachaidh, ach **cha robh
+eadar-dhealachadh soilleir anns an àireamh de dhaoine a leasaich dementia** anns
+an dà dheuchainn a thomhais sin
+([lèirmheas Cochrane air eadar-theachdan ioma-raon](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Lorg lèirmheas ann an 2017 le National Academies of Sciences, Engineering, and
+Medicine, air a gheàrr-chunntas leis an NIA, fianais “misneachail ach neo-chinnteach”
+airson trì dòighean-obrach: a bhith a’ riaghladh bruthadh-fala àrd, a’ meudachadh
+gnìomhachd chorporra, agus trèanadh inntinneil.
 
-## Does it matter when you start?
+## A bheil e cudromach cuin a thòisicheas tu?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+’S e comhairle Choimisean Lancet cunnartan a lùghdachadh cho tràth ’s a ghabhas
+agus an cumail ìosal cho fada ’s a ghabhas: “mar as tràithe, ’s ann as fheàrr”
+agus “mar as fhaide, ’s ann as fheàrr”. Tha e cuideachd ag ràdh nach eil e a-riamh
+ro thràth no ro fhadalach cunnart a lùghdachadh. Tha mòran den fhianais mu
+mheadhan-beatha, timcheall air aois 40 gu 65, ach tha cuid de fhactaran, leithid
+call lèirsinn agus aonaranachd shòisealta, nan cunnartan nas fhaide air adhart
+ann am beatha far am faod gnìomh a bhith ciallach fhathast.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Tha an aithisg ag ràdh gu bheil fianais nas làidire ann a-nis gu bheil buaidh nas
+motha aig barrachd ùine ann an cunnart. Mar eisimpleir, tha coltas gu bheil
+tinneas an t-siùcair a thòisicheas ann am meadhan-beatha nas cudromaiche na
+tinneas an t-siùcair a thòisicheas nas fhaide air adhart.
 
-## Is dementia risk the same for everyone?
+## A bheil cunnart dementia co-ionann don a h-uile duine?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Chan eil. Lorg an Coimisean gu bheil barrachd de na cunnartan sin aig daoine ann
+an dùthchannan le teachd-a-steach ìosal is meadhanach, daoine bho bhuidhnean
+beaga agus daoine le nas lugha de airgead, agus mar sin bidh dementia buailteach
+a bhith a’ leasachadh aig aois nas òige. Tha mòran chunnartan ceangailte ri
+suidheachaidhean nach do thagh daoine, leithid càileachd an fhoghlaim a fhuair
+iad nan cloinn, an èadhar far a bheil iad a’ fuireach, agus a bheil biadh fallain
+air a phrìs agus faisg air làimh.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Sin as coireach gu bheil molaidhean a’ Choimisein ag amas air riaghaltasan cho
+mòr ri daoine fa leth: deagh fhoghlam do gach pàiste, èadhar nas glaine, ceumannan
+gus smocadh a lùghdachadh, nas lugha de shiùcar is salann ann am biadh a thèid a
+reic ann am bùthan is taighean-bìdh, agus innealan-claisneachd don a h-uile duine
+a dh’fheumas iad. Tha oidhirp phearsanta cudromach, ach tha an saoghal anns a
+bheil daoine a’ fuireach cudromach cuideachd. ’S e adhbhar eile a tha sin gun a
+bhith a’ cur a’ choire air duine sam bith airson breithneachaidh.
 
-## What are the honest limits of this research?
+## Dè na crìochan onarach air an rannsachadh seo?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Bidh dementia a’ gabhail deicheadan ri leasachadh**, ach mar as trice mairidh
+  a’ mhòr-chuid de dheuchainnean dà gu còig bliadhna. Feumaidh tomhas dementia
+  fhèin, chan e dìreach toraidhean deuchainn, sgrùdaidhean fìor fhada agus fìor
+  mhòr.
+- **Bidh a’ mhòr-chuid de dheuchainnean a’ tomhas deuchainnean smaoineachaidh.**
+  Chan eil piseach beag air deuchainn gu riatanach a’ ciallachadh gum bi nas lugha
+  de dhaoine a’ leasachadh dementia no gum bi beatha làitheil nas fhasa.
+- **Bidh saor-thoilich gu tric nas fallaine** agus le barrachd foghlaim na an
+  sluagh san fharsaingeachd. Tha Coimisean Lancet a’ toirt fa-near gu bheil a’
+  mhòr-chuid den fhianais fhathast a’ tighinn bho dhùthchannan le teachd-a-steach
+  àrd agus nach eil buidhnean beaga air an riochdachadh gu leòr.
+- **Bidh cuid de cheanglaichean ag obair an dà rathad.** Faodaidh a bhith nas
+  lugha gnìomhach no nas lugha sòisealta a bhith na bhuaidh thràth de dementia,
+  chan e dìreach adhbhar.
+- **Tha deuchainnean daithead air a bhith briseadh-dùil gu ruige seo.** Cha do
+  lorg deuchainn trì bliadhna air daithead MIND eadar-dhealachadh cudromach ann an
+  smaoineachadh an taca ri daithead smachd. Faic ar [stiùireadh air daithead](/brain-health/diet/).
+- **Cha deach dearbhadh gu bheil geamannan eanchainn a’ casg dementia.** Faic ar
+  stiùireadh air [geamannan eanchainn agus dementia](/brain-health/brain-games/).
+- **Tha fianais daonna glè chuingealaichte ann airson trasgadh**, agus faodaidh e
+  a bhith cunnartach do dh’inbhich nas sine. Faic ar [stiùireadh air trasgadh](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Ma rinn cuideigin a h-uile càil “ceart”, carson a fhuair iad dementia fhathast?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Leis nach eil dementia dìreach mar thoradh air roghainnean. Tha an NIA ag ràdh
+[gur e aois am bàillidh cunnairt as motha a tha aithnichte airson Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+agus chan urrainn do dhuine sam bith atharrachadh. Tha pàirt aig gintinneachd.
+Agus chan eil luchd-saidheans fhathast a’ tuigsinn gu h-iomlan dè a dh’adhbhraicheas
+Alzheimer anns a’ mhòr-chuid de dhaoine. Eadhon nan robh gach aon de na 14
+factaran cunnairt air an toirt air falbh, tha tuairmse Choimisean Lancet fhèin a’
+fàgail còrr air leth nan cùisean gun mhìneachadh.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Mar sin, ma tha thu a’ toirt cùram do chuideigin a rinn eacarsaich, a dh’ith gu
+fallain, nach do smoc a-riamh agus a leasaich dementia fhathast, cha deach dad ceàrr
+orra fhèin, no ortsa. Ma tha thu a’ fuireach le dementia thu fhèin, chan eil e mar
+do choire. Tha ciont cumanta am measg theaghlaichean, ach chan eil e airidh.
+Na tha cudromach a-nis ’s e comhfhurtachd, ceangal agus làithean matha, agus tha
+ar [beachdan gnìomhachd](/activities/ideas/) agus ar
+[stiùireadh air fèin-chùram luchd-cùraim](/caregiving/caregiver-self-care/) nan
+deagh àite tòiseachaidh.
 
-## What steps can you talk over with a doctor?
+## Dè na ceumannan as urrainn dhut bruidhinn ri dotair mun deidhinn?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Seo na raointean as trice a chaidh a sgrùdadh. Is fhiach an togail aig
+sgrùdadh slàinte oir tha a’ mhòr-chuid dhiubh cuideachail do shlàinte cridhe,
+do shunnd agus do neo-eisimeileachd cuideachd, ge bith dè am buaidh a bhios
+aca air dementia aig a’ cheann thall.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Bruthadh-fala.** Faighnich dè na h-àireamhan agad agus dè an t-amas a tha
+   freagarrach dhut. Tha Coimisean Lancet a’ moladh amas a bhith agad air àireamh
+   as àirde de 130 no nas ìsle bho timcheall air aois 40, ach tha an targaid
+   cheart do inbheach nas sine an urra ri an slàinte iomlan.
+2. **Claisneachd.** Iarr deuchainn claisneachd, agus faighnich an cuidicheadh
+   innealan-claisneachd. Tha ar [stiùireadh air claisneachd](/brain-health/hearing/) a’ mìneachadh an rannsachaidh.
+3. **Lèirsinn.** Faigh sgrùdaidhean sùla cunbhalach agus faighnich an gabh
+   duilgheadasan leithid catarachdan a làimhseachadh.
+4. **Colesterol.** Faighnich am bu chòir do cholesterol LDL a bhith air a
+   sgrùdadh agus am bu chòir dad atharrachadh.
+5. **Siùcar fala.** Ma tha tinneas an t-siùcair ort, faighnich mar a rianaicheas
+   tu e gu sàbhailte.
+6. **Sunnd.** Tha trom-inntinn cumanta agus gabhaidh a làimhseachadh. Innis don
+   dotair agad ma tha thu air a bhith ìosal no air ùidh a chall ann an rudan
+   airson còrr is dà sheachdain.
+7. **Smocadh agus deoch làidir.** Iarr taic gus stad a smocadh agus mu chrìochan
+   sàbhailte airson deoch làidir.
+8. **Gluasad.** Faighnich dè an seòrsa gnìomhachd a tha sàbhailte dhut. Tha
+   beachdan aig ar [stiùireadh air eacarsaich](/brain-health/exercise/).
+9. **Dìon cinn.** Cuir ort clogaid airson rothaireachd is spòrs conaltraidh, agus
+   faighnich mu chasg tuitmean.
+10. **A bhith a’ cumail ceangal.** Tha ùine le daoine eile mar phàirt de bheatha
+    fhallain. Faic ar stiùireadh air [ceangal sòisealta](/brain-health/social-connection/), agus [cadal](/brain-health/sleep/) cuideachd.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Mus atharraich thu cungaidhean-leigheis, daithead, stuthan-leasachaidh, trasgadh
+no eacarsaich, bruidhinn ris an dotair agad an toiseach, gu h-àraidh ma tha tinneas
+cridhe ort, tinneas an t-siùcair, eachdraidh de thuiteaman, no ma tha thu a’ fuireach
+le dementia mu thràth.
 
-## Talk with a doctor
+## Bruidhinn ri dotair
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Ma mhothaicheas tu atharrachaidhean cuimhne no smaoineachaidh a tha a’ cur dragh
+ort, annad fhèin no ann an cuideigin eile, cuir coinneamh air dòigh. Tha an NIA
+a’ toirt fa-near gum faod
+[duilgheadasan cuimhne adhbharan eile a bhith aca](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+leithid fo-bhuaidhean cungaidh-leigheis, duilgheadasan thyroid, trom-inntinn no
+ìre ìosal de bhiotamain B12, agus gum faod cuid de na duilgheadasan sin falbh nuair
+a thèid an t-adhbhar a làimhseachadh. Tha ar
+[stiùireadh air comharran rabhaidh](/brain-health/warning-signs/) a’ mìneachadh
+na bu chòir a bhith a’ coimhead air a shon.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Faigh cuideachadh èiginneach** airson atharrachaidhean obann: faodaidh
+tuainealachadh obann, laigse no numbness air aon taobh, duilgheadas le bruidhinn,
+no ceann goirt uamhasach a bhith nan comharran air stròc no èiginn eile. Cuir fòn
+gu 999.
 
-## Where Golden Moments fits
+## Far a bheil Golden Moments a’ freagairt
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Tha Golden Moments a’ dèanamh gnìomhan sìmplidh co-roinnte, leithid
+[cairtean còmhraidh](/games/conversation-cards/),
+[bingo dhealbhan](/games/picture-bingo/) agus
+[stad anail shocair](/games/calm-breathing/). Tha iad airson tlachd agus ùine
+còmhla. Chan eil iad mar làimhseachadh, agus chan eil iad a’ casg no a’ cur maille
+air dementia.

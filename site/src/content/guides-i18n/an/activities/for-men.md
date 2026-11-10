@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Activitats ta ombres con demencia"
+seoTitle: "Activitats ta ombres con demencia: ideas de la vida real"
+description: "Ideas d'activitats ta ombres con demencia, basadas en o trabayo, as aficions y as rutinas y no en estereotipos, con consellos ta adaptar-las con seguranza."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  A mellor activitat ta un ombre con demencia salt de a suya propia vida: o
+  trabayo que feba, as aficions que quería y as rutinas que mantenió. Un antigo
+  treballador d'oficina puede disfrutar ordenando papers, un mecanico puede
+  disfrutar tocando ferramientas netas, y un aficionau a l'esport puede
+  disfrutar d'un viello partido. As preferencias varían de ombre a ombre, por
+  o que cal partir d'a persona y no d'o sexo.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Empiece con a historia d'este ombre: o suyo trabayo, as suyas aficions, as suyas rutinas y o que li feba estar orgulloso."
+  - "As tareas con una finalidat real, como ordenar ferramienta, lavar o coche o lixar madera, muitas begatas gustan mas que as activitats que paecen una clase."
+  - "No a todos os ombres les gustan as ferramientas o l'esport. Muitos disfrutan cocinando, con a musica, cultivando, con l'arte o cuidando a atros. Pregunte, mire y siga o suyo ritmo."
+  - "Pa que as tareas de tipo trabayo sigan siendo seguras, quite as ferramientas afiladas y supervise, y simplifique-las a meda que cambien as capacidatz."
+  - "Decir que no ye normal. Ofrezca un papel, no una obligación, y torne a intentar-lo otro día."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "¿Qué activitats disfruten os ombres con demencia?"
+    a: "No hi ha una lista unica, porque as aficions d'os ombres varían tanto como as de cualquiers atra persona. Bos puntos de partida son as tareas relacionadas con o suyo trabayo viello, como ordenar papers o clasificar tuercas y tornillos, y tamién as aficions que querió, como a pesca, os coches, a musica, cocinar o l'esport. Mire qué fa per iniciativa propia y construya sobre ello."
+  - q: "Mi pai rechaza as activitats en grupo. ¿Qué puedo fer?"
+    a: "Muitas personas, ombres y mullers, rechazan as activitats que paecen una clase o que les paecen infantils. Prebe a ofrecer-li una tarea: «¿Me ayudas a ordenar estos?». Os grupos mas chicotes o o tiempo a solas pueden tamién resultar mas comodos que una sala grande."
+  - q: "¿Ye seguro dixar-lo usar ferramientas?"
+    a: "Solo con supervisión y ferramientas seguras. Quite as ferramientas electricas, as ogullas y cualquier cosa afilada, y ofrezca tareas como lixar un bloque de madera, ordenar ferramienta neta o apretar tornillos grans a man. La Alzheimer's Association suggiere quitar os elementos peligrosos d'un taller pa que una tarea como lixar siga podendo disfrutar-se con seguranza."
+  - q: "Era un profesional. ¿Le sentirán mal as tareas sencillas?"
+    a: "Puede que sí, si se presentan como trabayo de relleno. Plantee a tarea como una ayuda de verdat, use materials de adultos y elixca algo parecito a o suyo antigo papel, como revisar una lista, organizar una carpeta o ayudar a preparar un envío por correo. Si era muito habilidoso en algo, una actividat relacionada pero diferent puede sentir-se menos como una comparación."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+A chent busca «activitats ta ombres con demencia» porque as sucherencias habituals no paecen adaptar-se ar ombre que tienen en a suya vida. Ye una preocupación ben razonable. Pero a respuesta no ye una lista d'activitats «de ombres». Ye empezar con este ombre en particular: qué feba por viver, qué feba os fins de semana y qué le feba sentir-se util. As aficions varían en cada uno. Muitos ombres disfrutan cocinando, cultivando, pintando o cantando, y muitas mullers disfrutan con os coches y con o beisbol.
 
-## How do I find activities he will actually enjoy?
+## ¿Como trobo activitats que de verdat le presten?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Empiece por a historia de a suya vida. A Alzheimer's Association suggiere fer un [plan diario](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) basau en as preferencias, as cosas que no le gustan, as capacidatz y os intereses de la persona, y en como estructurava o suyo día. Pregunte-se:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **¿Qué trabayo feba?** ¿Oficina, granchа, fabrica, un oficio, a milicia, ventas, enseñanza, conducir, a casa?
+- **¿Qué feba en o tiempo libre?** ¿A pesca, as cartas, a carpintería, l'esport, a iglesia, a musica, cocinar, un coche en o garache?
+- **¿Cuálas eran as suyas rutinas?** ¿Café y o diario cada mañana? ¿Mirar o tiempo? ¿Lavar o coche os sabatos?
+- **¿Qué empecipia encara por iniciativa propia?** A Asociación indica que si una persona empecipia tareas sin que le pidan, como barrer o solo, esas tareas pueden convertir-se en parte d'a rutina.
+- **¿Qué evita?** Algunas personas disfrutan mirando l'esport; atras se molestan con o ritmo y o ruido. Fese caso de cuando parece contento, ansioso u irritable.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Charre tamién con a familia y os viellos amigos. Puede que recuerden aficions que han desaparecito d'a vida diaria.
 
-## Activity ideas based on past work
+## Ideas d'activitats basadas en o trabayo viello
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+A Alzheimer's Association da un exemplo claro: un antigo treballador d'oficina puede disfrutar fendo tareas de organización, como meter monedas en un soporte, ayudar a preparar un envío por correo o facer una lista de cosas por fer, mientres que un antigo granchero o hortelano puede disfrutar trabayando en o corral. A mesma idea se puede aplicar a muitos oficios.
 
-| Past work | Activity ideas | Simpler version |
+| Trabayo viello | Ideas d'activitats | Version mas sencilla |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Oficina o negocio | Clasificar papers en carpetas, poner sellos en sobres, revisar una lista, ordenar un caixón | Apilar sobres; meter clips en una caixa |
+| Oficios o mecanica | Ordenar tuercas, tornillos y arandelas netos; apretar tornillos grans a man; mirar catalogos de ferramientas | Ordenar por tamaño en dos vasos |
+| Granchería o jardinería | Regar, plantar en macetas, arrechugar as fuellas, vigilar l'horto | Sentar-se fuera mientres trabaya; sostener sobres de semiente |
+| Milicia | Limpiar as botas, ordenar un caixón, mirar fotos de o servicio si le gusta | Escuchar musica d'aquella epoca |
+| Ventas o atención a clients | Saludar a as visitas, repartir aperitivos, clasificar cupons | Sentar-se en a puerta pa saludar |
+| Enseñanza | Leyer en voz alta, ordenar libros, clasificar imachens por tema | Mirar un libro de imachens chuntos |
+| Conducir o transporte | Mirar mapas o revistas viellas de coches, lavar o coche | Mirar pasar los coches dende o porche |
+| Casa y familia | Doblar a ropa, poner a mesa, ayudar a cenar | Alisar as servilletas; remenar |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Algunos recuerdos, como o servicio militar, pueden traer sentimientos fuertes. Siga o suyo ritmo, mantenga as charras sobre o pasau en un tono positivo y cambie de tema con delicadeza si parece disgustar-se.
 
-## Activity ideas based on hobbies
+## Ideas d'activitats basadas en aficions
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Carpintería.** Lixar un bloque de madera lisa o pintar un nido de pajaros en kit. A Alzheimer's Association suggiere quitar os materials y as ferramientas peligrosas d'o taller pa que una activitat como lixar pueda disfrutar-se con seguranza.
+2. **Pesca.** Ordenar una caixa de pesca sin os ganchos, mirar revistas de pesca o sentar-se yuntos a o lau d'una balsa.
+3. **Coches.** Lavar o coche, pulir o cromo, mirar fotos de coches clasicos o dar una vuelta en o coche como pasaxero.
+4. **Esport.** Mirar un partido clasico o os resumens, tirar una pelota blanda, poner pelotas de golf sobre una alfombra o clasificar cromos de beisbol.
+5. **Cartas y chuegos.** Una partida sencilla d'un chueg de cartas conoixito, dominó, o dar a bolteta a cartas pa trobar parellas. Manteniga relaxada y sin apuntar tantos.
+6. **Musica.** Cancions de as suyas adolescencias y bintenes, una banda que le gustase o un himno. Vea a nuestra [guía d'activitats de musica](/activities/music/).
+7. **Cocina y barbacoa.** Lavar verduras, remenar a salsa, dar forma a as hamburguesas o contar cómo feba o chili famoso mientres cocinan.
+8. **O diario.** A Alzheimer's Association indica que una persona que siempre leyó o diario puede seguir fendo-lo, incluso si no puede seguir tot o contenido. O café y o diario pueden seguir siendo parte d'a mañana.
+9. **Construir.** Kits de maquetas con piezas grans o chuegos de construcción sencillos pa adultos. Elixca piezas fáciles d'agarrar.
+10. **Cuidar a algo.** Dar de minchar a una mascota, llenar o comedero d'os pajaros o regar as plantas. A NIA incluye [dar de minchar, cepillar o pasiar a una mascota](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) entre as activitats que a gent puede disfrutar.
 
-## How do I offer an activity without it feeling like busywork?
+## ¿Como ofrezco una activitat sin que parezca trabayo de relleno?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Preséntela como una ayuda de verdat. A Alzheimer's Association suggiere preguntar «¿Me puedes ayudar, por favor?» y vincular as tareas con una finalidat. Compare:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «¿Quieres ordenar estos tornillos?» (suena a examen)
+- «He comprau una bolsa de ferramienta mesclada y necesito tenerla ordenada antes de arreglar a estantería. ¿Me echas una mano?» (suena a trabayo de verdat)
 
-Other tips:
+Atros consellos:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Use materials de adultos.** Ferramientas reals con os cantos afilaus quitatos, catalogos reals, sobres reals.
+- **Trabaye a o lau.** Dos personas trabayando en una tarea yuntos ye compañía. Una persona mirando a otra ye supervisión.
+- **No corrixca.** Si os tornillos acaban en o vaso equivocau, dixe-lo estar. Lo que importa ye o tiempo chuntos y a sensación d'estar sirviendo de cosa.
+- **Ayúdele a empecipiar.** A Alzheimer's Association indica que muitas personas tienen encara ganas de fer cosas pero tienen dificultatz pa organizar-se y empecipiar. Faga a primera tarea yuntos.
 
-## How do I adapt as things change?
+## ¿Como me adapto a os cambios?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+A meda que avanza a demencia, a Alzheimer's Association suggiere introducir tareas mas sencillas y repetitivas, y estar preparau pa que la persona tome un papel menos activo. Un ombre que antes reparaba motors puede disfrutar ahora sostiendo una clau inglesa neta y charrando de coches, o mirando como trabaya vusted. Mirar tamién ye participar.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Si era muito habilidoso en algo, una activitat relacionada puede sentar-le mejor que o suyo antigo oficio. A Asociación indica que un artista profesional puede frustrar-se con os cambios en o suyo trabayo, mientres que un aficionau puede disfrutar d'una nueva salida. Lo mesmo pasa con un carpintero mestro.
 
-## Safety with work-style tasks
+## Seguranza en as tareas de tipo trabayo
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Quite as ferramientas electricas, as ojas, os clavos y os tornillos con puntas afiladas.
+- Guarde baixo chave o diluyente de pintura, a gasolina y os productos quimicos.
+- Guarde as claus d'o coche fuera de vista si ya no conduz.
+- Supervise todas as tareas d'o taller y d'o corral.
+- Elixca piezas grans que no se puedan tragar.
 
-## What if he says no?
+## ¿Qué pasa si dice que no?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Respete-lo. Un no puede significar que la tarea paece muito difícil, muito infantil o simplemente que hoy no ye o momento. A Alzheimer's Association advierte que no se debe forzar. Prebe una tarea diferent, otro momento, o simplemente sentin-se yuntos. Vea [qué fer cuando dicen que no](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Chuegos y conversación que encaixan
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Acaba o refrán](/games/finish-the-saying/) usa refranes populars conoixitos y lleva a una conversación. [Cartas de conversación](/games/conversation-cards/) tiene preguntas abiertas, sin test, por temas, que pueden abrir historias sobre o trabayo y as aficions. [Puzle de imachens](/games/picture-puzzle/) mantiene a imachen completa visible mientres cambia as piezas, y a [Sopa de letras](/games/word-search/) con letra grande puede imprimir-se y fer-se con un boligrafo en a mesa de a cocina. Pa maneras de charrar d'o suyo pasau sin fer-lo una prueba, vea a nuestra [guía de reminiscencia](/activities/reminiscence/).

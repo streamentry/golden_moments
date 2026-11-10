@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Hlébönd og heilabilun: Hvað segja rannsóknirnar?"
+seoTitle: "Hlébönd og heilabilun: Hvað segja rannsóknirnar?"
+description: "Mannlegar sannanir um hlébönd og heilabilun eru takmarkaðar. Kynntu þér áhættu fyrir eldra fólk og hvers vegna næg næring skiptir meira máli."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Engar góðar sannanir eru fyrir því að hlébönd komi í veg fyrir eða hægi á
+  heilabilun. Mikið af rannsóknum er gert á dýrum og mannlegar rannsóknir á
+  eldri fullorðnum eru litlar og stuttar. Hlébönd geta verið áhættusöm fyrir
+  eldra fólk: þyngdar- og vöðvatap, lágt blóðsykur hjá þeim sem taka tiltekin
+  sykursýkislyf, ofþornun og byltur. Fyrir fólk sem lifir með heilabilun er það
+  yfirleitt mikilvægara að borða og drekka nóg. Ræðið fyrst við lækni.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging segir að ekki séu nægar sannanir til að mæla með neinni föstu- eða kaloríutakmörkunaráætlun, sérstaklega ekki fyrir eldra fólk."
+  - "Mikið af rannsóknum á föstu og öldrun kemur frá dýrum og niðurstöður þeirra eiga ekki endilega við um fólk."
+  - "Möguleg áhætta fyrir eldra fólk er meðal annars óviljandi þyngdartap, vöðvatap, lágt blóðsykur hjá þeim sem taka tiltekin sykursýkislyf, ofþornun, svimi og byltur."
+  - "Fólk sem lifir með heilabilun gleymir oft að borða eða drekka, eða heldur að það hafi þegar gert það. Að hjálpa því að borða og drekka nóg skiptir yfirleitt mun meira máli en hvenær það borðar."
+  - "Notið ekki föstu fyrir einhvern sem lifir með heilabilun. Ræðið við lækni eða skráðan næringarfræðing áður en breytingar eru gerðar á matarvenjum."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Koma hlébönd í veg fyrir Alzheimer-sjúkdóm?"
+    a: "Engar góðar sannanir eru fyrir því. Mikið af rannsóknum hefur verið gert á dýrum og mannlegar rannsóknir hafa aðallega verið stuttar, gerðar á yngra eða of þungu fólki og beinst að þyngdartapi. National Institute on Aging segir að ekki séu nægar sannanir til að mæla með föstuáætlunum fyrir almenning."
+  - q: "Eru hlébönd örugg fyrir eldra fólk?"
+    a: "Það er ekki víst. Fasta getur leitt til óviljandi þyngdar- og vöðvataps, ofþornunar, svima og bylta og getur valdið hættulega lágum blóðsykri hjá fólki sem tekur insúlín eða tiltekin önnur sykursýkislyf. Mayo Clinic bendir á að þetta henti kannski ekki fólki í mikilli áhættu á beinþynningu og byltum. Ræðið við lækni áður en þið prófið þetta."
+  - q: "Ætti einhver sem lifir með heilabilun að prófa föstu?"
+    a: "Nei. Fólk sem lifir með heilabilun á oft erfitt með að borða og drekka nóg og léleg næring getur aukið hegðunareinkenni og valdið þyngdartapi. Fasta eykur áhættu án sannanaðra ávinninga. Einbeitið ykkur þess í stað að reglulegum máltíðum, snarl sem viðkomandi hefur gaman af og nægu að drekka."
+  - q: "Hvaða merki benda til þess að einhver sem lifir með heilabilun sé ekki að borða eða drekka nóg?"
+    a: "Fylgist með þyngdartapi, lausari fötum, þreytu, máttleysi, hægðatregðu eða því að viðkomandi neiti að borða. Merki um ofþornun sem National Institute on Aging nefnir eru munnþurrkur, svimi, hraður hjartsláttur og ofskynjanir. Látið lækni viðkomandi vita ef þið takið eftir þessu."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,77 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Hlébönd, eins og að borða aðeins á átta klukkustunda tímabili eða minnka kaloríainntöku verulega tvo daga í viku, fá mikla athygli og sumar greinar benda til þess að þau gætu hugsanlega verndað heilann. Ef þú ert eldri fullorðinn eða sinnir einhverjum sem lifir með heilabilun, þá er hér það sem rannsóknir sýna í raun og hvers vegna gætnin skiptir máli.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Þetta eru almennar upplýsingar, ekki læknisráð. Byrjið ekki á föstu og breytið ekki matarvenjum þess sem þið sinnið án þess að ræða við lækni eða skráðan næringarfræðing. Sjá [yfirlýsingu um læknisfræðilegar upplýsingar](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Koma hlébönd í veg fyrir heilabilun?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Engar góðar sannanir eru fyrir því að hlébönd komi í veg fyrir eða hægi á heilabilun. National Institute on Aging (NIA) segir að ekki séu nægar sannanir til að mæla með neinni tegund kaloríutakmörkunar eða föstu og að mun meira þurfi að rannsaka um virkni og öryggi þeirra, sérstaklega hjá eldri fullorðnum ([NIA um kaloríutakmörkun og föstu](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Hvers vegna eru sannanirnar svo takmarkaðar
 
-The NIA gives several reasons:
+NIA nefnir nokkrar ástæður:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Flestar rannsóknir eru gerðar á dýrum.** Rannsóknir á ormum, flugum, músum og öpum hafa leitt í ljós áhugaverðar niðurstöður, en þær eiga ekki endilega við um fólk. Jafnvel hjá dýrum eru niðurstöðurnar misvísandi; hjá sumum músastofnum styttist líftími við kaloríutakmörkun.
+- **Mannlegar rannsóknir hafa verið stuttar.** Flestar stóðu í nokkrar vikur eða mánuði.
+- **Flestar mannlegar rannsóknir beindust að þyngdartapi** hjá of þungu fólki, ekki að minni eða heilabilun.
+- **Eldra fólk er sjaldan með.** Í mörgum rannsóknum voru þátttakendur 60 ára eða yngri.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Í yfirlitsrannsókn frá 2026 var sérstaklega litið á hlébönd hjá fullorðnum 60 ára og eldri. Hún leiddi í ljós að sannanir fyrir þessum aldurshópi eru enn takmarkaðar, með litlum rannsóknum, stuttri eftirfylgni og misvísandi uppsetningu. Niðurstöður um hugsun og minni komu úr einstökum rannsóknum frekar en samanlögðum niðurstöðum úr rannsóknum. Yfirlitsrannsóknin benti einnig á að sumar rannsóknir tengdu mjög stutt átartímabil eða langar föstur við verri útkomu og höfundar hvöttu til varúðar hjá eldri fullorðnum ([yfirlitsrannsókn frá 2026 í Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Sumir rannsakendur telja að breyting líkamans yfir í að brenna fitu í föstu geti haft áhrif á heilann, en þetta er enn kenning sem verið er að rannsaka. NIA bendir á að vísindin séu óljós.
 
-## What are the risks of fasting for older adults?
+## Hver er áhættan af föstu fyrir eldra fólk?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Fasta er ekki skaðlaus tilraun fyrir margt eldra fólk. Möguleg áhætta er meðal annars:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
+- **Óviljandi þyngdartap.** Að borða minna en líkaminn þarfnast getur leitt til þyngdartaps og minni vöðvastyrks, sem getur gert einstakling veikbyggðari.
+- **Vöðva- og beintap.** Í tveggja ára rannsókn með stuðningi NIA á kaloríutakmörkun hjá ungum og miðaldra fullorðnum varð lítilsháttar rýrnun á beinþéttleika og vöðvamassa hjá þátttakendum.
+- **Lágt blóðsykur með sykursýkislyfjum.** Fólk sem tekur insúlín eða tiltekin önnur sykursýkislyf getur fengið of lágan blóðsykur ef það sleppir máltíðum eða seinkar þeim, samkvæmt
   [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+  Lágur blóðsykur getur valdið svima, rugli og pirringi.
+- **Ofþornun.** Ef sleppt er að drekka ásamt máltíðum getur einstaklingur orðið ofþornaður.
+- **Svimi og byltur.** Mayo Clinic bendir á að hlébönd geti valdið mikilli þreytu og svima og að þetta henti kannski ekki sem matarvenja fyrir fólk í mikilli áhættu á beinþynningu og byltum
+  ([Mayo Clinic um hlébönd](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Önnur áhrif.** Mayo Clinic nefnir einnig höfuðverk, skapsveiflur og hægðatregðu og bendir á að sumar vísbendingar séu um að 16 klukkustunda fasta með 8 klukkustunda átartímabili geti aukið hættu á hjartasjúkdómum samanborið við önnur átartímabil. Þær vísbendingar eru ekki fullsannaðar.
 
-## Why is eating enough the bigger concern with dementia?
+## Hvers vegna skiptir næg næring meira máli við heilabilun?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Fyrir fólk sem lifir með heilabilun er vandamálið yfirleitt að fá **nóga** fæðu og drykk, ekki of mikinn. Alzheimer’s Association útskýrir að fólk á mið- og síðstigum heilabilunar geti fundið fyrir of miklu álagi vegna matarvals, gleymt að borða eða haldið að það hafi þegar borðað. Þeir bæta við að léleg næring geti aukið hegðunareinkenni og valdið þyngdartapi
+([Alzheimer’s Association um mat og máltíðir](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer’s Society bendir á að ófullnægjandi næring geti leitt til þyngdartaps, minni vöðvastyrks, þreytu og máttleysis, sem gerir einstakling veikbyggðari og minna fær um að ná sér eftir sýkingar
+([Alzheimer’s Society um matarlyst](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Af þessum ástæðum er fasta ekki góð hugmynd fyrir einhvern sem lifir með heilabilun.** Máltíð sem sleppt er getur auðveldlega orðið að fleiri máltíðum sem gleymast. Allar breytingar á matarvenjum einstaklings með heilabilun ættu að fara fram í samráði við lækni hans eða skráðan næringarfræðing.
 
-## What are the warning signs of poor eating or drinking?
+## Hver eru viðvörunarmerki um ófullnægjandi mat eða drykk?
 
-Watch for:
+Fylgist með:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Þyngdartapi** eða því að föt fari að sitja lausari.
+- **Því að matur sé skilinn eftir eða máltíðum hafnað**, eða að matur sé geymdur í munni.
+- **Þreytu eða máttleysi.**
+- **Hægðatregðu**, sem getur tengst mataræði og ofþornun.
+- **Merkjum um ofþornun.** NIA nefnir munnþurrk, svima, hraðan hjartslátt og ofskynjanir, sem geta einnig stafað af heilabiluninni sjálfri
+  ([NIA um algeng heilsufarsvandamál](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Léleg matarlyst getur haft margar mögulegar orsakir: sárir tennur eða lausar gervitennur, ný lyf, þunglyndi, hægðatregða, minni hreyfing eða breytingar á bragð- og lyktarskyni. Segið lækni viðkomandi frá þessum merkjum. Hægt er að leita að orsökum og læknirinn getur stungið upp á næringarfræðingi eða bætiefnum.
 
-## How can you help someone eat and drink enough?
+## Hvernig getið þið hjálpað einhverjum að borða og drekka nóg?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Bjóðið upp á litlar máltíðir og snarl oft** í stað þriggja stórra máltíða.
+- **Bjóðið upp á uppáhaldsrétti** og verið sveigjanleg þegar smekkur breytist. Sætur matur getur verið vel þeginn ef matarlyst er lítil; spyrjið lækninn hvort einhverjar heilsufarsástæður séu fyrir því að takmarka sykur.
+- **Hafið drykki innan seilingar** og bjóðið upp á litla skammta yfir daginn. Súpur, ávextir, smoothie-drykkir og mjólkurhristingar teljast líka með.
+- **Borðið saman** þegar hægt er. Máltíðir eru tækifæri til samveru, ekki verkefni sem flýta þarf.
+- **Prófið fingramat**, eins og samlokur, ávaxtasneiðar eða kjúklingabita, ef erfitt er orðið að nota áhöld.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Í [leiðbeiningunum okkar um mataræði](/brain-health/diet/) eru fleiri hugmyndir um máltíðir. Að hjálpa til við matargerð getur líka verið notaleg sameiginleg athöfn; sjá
+[heimilisverk](/activities/household-tasks/).
 
-## Talk with a doctor
+## Ræðið við lækni
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Áður en þið prófið einhverja föstuáætlun sjálf, ræðið við lækni eða skráðan næringarfræðing, sérstaklega ef þið takið lyf við sykursýki eða háþrýstingi, hafið lést nýlega eða hafið dottið. Fyrir einhvern sem lifir með heilabilun, spyrjið lækni viðkomandi hversu mikið hann ætti að borða og drekka á hverjum degi, frekar en að spyrja um föstu.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Leitið tafarlausrar læknisaðstoðar ef einstaklingur verður skyndilega ruglaður, missir meðvitund eða sýnir merki um mjög lágan blóðsykur sem batna ekki fljótt.

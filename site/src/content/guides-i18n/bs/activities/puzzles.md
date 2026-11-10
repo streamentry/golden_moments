@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Slagalice za osobe s demencijom: puzzle, riječi i online"
+seoTitle: "Slagalice za demenciju: puzzle i riječi"
+description: "Kako odabrati slagalice, puzzle s riječima i jednostavne online slagalice za osobu s demencijom: veličina komada, slike, veliki tisak, zajedničko slaganje i kada je bolje pojednostaviti."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Najbolja slagalica za osobu s demencijom je ona koju može dovršiti uz malo
+  pomoći i uživati u njoj dok slaže. Odaberite slagalice s manje, većih komada
+  i jasnom slikom odrasle osobe, držite poklopac kutije na vidiku i prvo
+  složite rubne komade. Pretrage riječi i ukrštene riječi najbolje rade u
+  velikom tisku. Jednostavne online slagalice s četiri komada prikladne su za
+  srednju fazu. Stanite dok je i dalje ugodno.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Birajte prema tome kako ide, a ne prema oznaci faze: ako slagalica djeluje kao posao, probajte onu s manje komada."
+  - "Veliki, čvrsti komadi i jasna slika s različitim površinama boje lakši su od sitnih komada i velikih neba."
+  - "Slike odraslih imaju značaj. Vrtovi, kuhinje, automobili i životinje, a ne crtići."
+  - "Zajedničko slaganje je suština. Dodajte komade, složite rubove, držite poklopac kutije na vidiku."
+  - "Pretrage riječi u velikom tisku i jednostavne online slagalice s 4 ili 9 komada besplatne su na ovoj stranici."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Koliko komada slagalice je najbolje za osobu s demencijom?"
+    a: "Nema jednog ispravnog broja. Osoba koja je slagala slagalice od 1.000 komada može i dalje uživati u nekoliko stotina komada na početku, dok druge najbolje rade s desetak većih komada. Ako slagalica djeluje kao posao ili izaziva frustraciju, prijeđite na manje komada. Naša online slagalica sa slikom ima 4 ili 9 komada."
+  - q: "Jesu li slagalice dobre za osobe s demencijom?"
+    a: "Mnogi ljudi uživaju u njima, posebno oni koji su slagali slagalice i prije. Slagalica daje rukama nešto da rade, jasan cilj i sliku o kojoj se može razgovarati. Nije dokazano da bilo koja slagalica liječi ili usporava demenciju, pa ih birajte zbog uživanja i druženja."
+  - q: "Šta mogu učiniti kad osoba više ne može sama složiti slagalicu?"
+    a: "Pojednostavite je i radite više sami: dodajte im po jedan komad ili ostavite samo posljednjih nekoliko komada njima. Probajte online slagalicu s 4 komada, razvrstavanje komada po boji ili jednostavno zajedničko gledanje gotove slike."
+  - q: "Jesu li ukrštene riječi i pretrage riječi prikladne za demenciju?"
+    a: "Mogu biti u ranoj fazi, u velikom tisku. Pretrage u kojima su riječi samo vodoravno i okomito lakše su od onih s dijagonalnim ili unazad napisanim riječima. Pročitajte naglas tragove ili popis riječi i radite zajedno."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Slagalica raširena na stolu za ručavanje jedna je od najlakših aktivnosti za zajedničko druženje. Možete sjediti zajedno i bez mnogo razgovora, slika vam daje nešto o čemu možete pričati, a kad stavite posljednji komad, osjećate zadovoljstvo. Slagalice se ipak moraju prilagođavati kako se demencija mijenja. Pretežak zadatak može pretvoriti miran popodnevni sat u frustrirajući. Ova stranica objašnjava kako odabrati i pripremiti slagalice, puzzle s riječima i jednostavne online slagalice te šta raditi kad postanu pretežke.
 
-## Are puzzles good for people with dementia?
+## Jesu li slagalice dobre za osobe s demencijom?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Mnogi ljudi uživaju u njima, posebno oni koji su slagali slagalice i prije. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) navodi pretrage riječi, kartaške i društvene igre među aktivnostima za ranu fazu, a [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) spominje online igre i slagalice na tabletu kao jedan od načina da osoba ostane angažirana.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Slagalice nisu lijek. Nije dokazano da bilo koja slagalica usporava ili zaustavlja demenciju; naš vodič o [igrama za moždanu aktivnost i demenciji](/brain-health/brain-games/) objašnjava istraživanja. Razlog za slaganje slagalice jest to što može biti ugodan, zanimljiv sat zajedno. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) to sažima: usredotočite se na uživanje, a ne na postignuće.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Kako odabrati slagalicu za osobu s demencijom?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Birajte prema onome što osoba voli i kako je prošla posljednja slagalica, a ne prema oznaci faze.
 
-### Number of pieces
+### Broj komada
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Nema ispravnog broja. Osoba koja je cijeli život slagala slagalice može i dalje uživati u nekoliko stotina komada na početku, dok je nekoj drugoj najdraže desetak komada. Praktično pravilo: ako je posljednja slagalica djelovala kao posao, odaberite onu s otprilike polovinom komada. Ako je bila gotova brzo i osoba je htjela još, malo povećajte.
 
-### Piece size and feel
+### Veličina i osjećaj komada
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Veći komadi** lakše se vide, uzimaju i okreću.
+- **Debeli, čvrsti komadi** ostaju na mjestu i izdržavaju pad.
+- **Mat površina** smanjuje odsjaj pod svjetiljkama i prozorima.
+- **Izbjegavajte sitne komade** ako osoba može staviti stvari u usta, što se može dogoditi kasnije u toku demencije.
 
-### The picture
+### Slika
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Teme za odrasle.** Vrtovi, kuhinje, stari automobili, farmske životinje, primorski grad, omiljeni sport. Ne crtići ili ništa što liči na dječju igračku.
+- **Jasne površine boje.** Crvena štala, plavi čamac i zelena livada lakši su od neba koje zauzima pola slagalice.
+- **Poznato i lično.** Slika mjesta u kojem je osoba živjela ili hobija koji je voljela daje dovoljno razgovora. Neke štamparije mogu pretvoriti obiteljsku fotografiju u slagalicu.
 
-## How do you do a puzzle together?
+## Kako zajedno slagati slagalicu?
 
-Set it up so the person can get straight to the enjoyable part.
+Pripremite je tako da osoba može odmah doći do ugodnog dijela.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Odaberite dobro mjesto.** Dobro svjetlo, stolica s naslonima za ruke i stol ili pladanj na kojem slagalica može ostati.
+2. **Podignite poklopac kutije** tako da oboje vidite sliku.
+3. **Okrenite komade licem prema gore** prije nego počnete.
+4. **Složite rubove** sami ili složite okvir, a sredinu ostavite njima.
+5. **Grupišite komade po boji** u nekoliko plitkih tanjirića ili pladnjeva.
+6. **Dodajte po jedan komad** ako je hrpa prevelika. „Mislim da ovaj ide u štalu.“
+7. **Pričajte o slici,** a ne o napretku. „Ovo liči na čamac koji je imao moj tata.“
+8. **Ostavite slagalicu na stolu.** Vratite se na nju tokom nekoliko dana. Nema žurbe.
+9. **Stanite dobro,** nakon što komad uđe na mjesto, dok je i dalje ugodno.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) savjetuje da pomognete osobi da krene, pazite na frustraciju i ostavite je da samo gleda ako joj je to draže. I gledanje kako stavljate komade i pokazivanje gdje bi neki mogao ići i dalje je učešće.
 
-## Easy online puzzles
+## Jednostavne online slagalice
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Slagalica na tabletu ima neke prave prednosti: nema izgubljenih komada, velike slike koje ispunjavaju ekran i nema stola koji treba očistiti.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Naša besplatna [Slagalica sa slikom](/games/picture-puzzle/) dijeli sliku na 4 ili 9 komada. Dodirnite dva komada da ih zamijenite dok slika ne bude cijela. Potpuna slika ostaje na ekranu kao vodilja, nema tajmera i možete stati u bilo kojem trenutku. Četiri komada odgovara mnogima u srednjoj fazi kad je neko pored njih.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Za još jednostavniju igru sa slikama, probajte [Pronađi isto](/games/find-the-same/), gdje dodirnete sliku koja odgovara onoj na vrhu, ili [Razvrstajte zajedno](/games/sort-together/), gdje slike idu u korpe, poput kuhinje ili vrta.
 
-## Word puzzles: word searches and crosswords
+## Puzzle s riječima: pretrage riječi i ukrštene riječi
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Puzzle s riječima odgovaraju osobama koje su ih uvijek voljele, obično u ranijoj fazi demencije.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Pretraga riječi u velikom tisku.** Naša besplatna [Pretraga riječi](/games/word-search/) koristi velika slova i samo nekoliko riječi, napisanih vodoravno i okomito, nikad dijagonalno ni unazad. Igrajte je na ekranu ili je odštampajte.
+- **Pročitajte popis naglas.** Jedna osoba čita riječ, druga je traži. Dovoljno je zaokružiti samo prvo slovo.
+- **Ukrštene riječi u velikom tisku** iz knjiga zagonetki mogu raditi u ranoj fazi. Pročitajte tragove naglas, dijelite olovku i upisujte odgovore zajedno. Lakše, tematske ukrštene riječi bolje su od onih zagonetnih.
+- **Pričajte o riječima.** „Vrt“ može dovesti do deset minuta razgovora o paradajzu.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Za više papirnatih aktivnosti i kako ih odštampati da ih je lako vidjeti i držati, pogledajte [besplatne aktivnosti za demenciju za štampanje](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Koje slagalice odgovaraju kojoj fazi?
 
-Stages overlap, and good and hard days are normal.
+Faze se preklapaju, a dobri i teški dani su normalni.
 
-| Stage | Puzzles that often fit | Your role |
+| Faza | Slagalice koje često odgovaraju | Vaša uloga |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Rana | Poznate slagalice s manje komada nego ranije, ukrštene riječi i pretrage riječi u velikom tisku, online slagalice s 9 komada | Partner: neka biraju, pomozite kad zatraže |
+| Srednja | Slagalice s desetak većih komada, online slagalice s 4 komada, pretraga riječi koja se čita naglas zajedno | Pripremite, razvrstajte komade, dodajte po jedan |
+| Kasna | Zajedničko gledanje gotove slike, Pronađi isto s dvije slike, držanje nekoliko velikih komada | Donesite im to; vaše društvo je aktivnost |
 
-## When should you make a puzzle easier, or stop?
+## Kada treba olakšati slagalicu ili stati?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Pazite na uzdahe, odgurivanje komada, ponavljano „ne mogu“ ili zabrinute poglede. To su znaci da nešto promijenite, a ne da nastavite dalje.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Smanjite je.** Manje komada ili ostavite samo posljednjih nekoliko za osobu.
+- **Radite više sami** i pozovite je da pomogne u lakšim dijelovima.
+- **Pređite na nešto blizu:** razvrstavanje komada po boji, online slagalicu s 4 komada ili [bojanje](/games/coloring/).
+- **Stanite.** Odložite slagalicu i popijte čaj. Možete se vratiti drugi dan ili nikad.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ako vam slagalice počnu djelovati kao podsjetnik na ono što je teško, u redu je da ih pustite. Postoji mnogo drugih načina da provedete dobro vrijeme zajedno; naših [101 ideja za aktivnosti](/activities/ideas/) dobro je mjesto za pogled.

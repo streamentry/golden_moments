@@ -1,4 +1,4 @@
-# Sources learned from (accessed 2026-11-07)
+# Sources learned from (updated 2026-11-10)
 
 Purpose: the dementia, Alzheimer's and caregiver material this project learns from. Each entry says what was **read** (fetched and checked) and what was only **seen in search results**, because a search snippet is not evidence. Where a source could not be opened, that is stated.
 
@@ -54,3 +54,44 @@ Not used: Alzheimer's Society font and contrast figures reported by a blog ("san
 - The Alzheimer's Society Dementia Digital Design Guidelines spreadsheet (not opened directly; only summary accessible).
 - Alzheimer's Association guidance beyond the page read.
 - Any 2025 usability trial of a dementia photo app (none found).
+
+## Round 39: optional conversation prompts (read 2026-11-10)
+
+- [Alzheimer's Association: Activities](https://www.alz.org/help-support/caregiving/daily-care/activities) — opened again. It advises caregivers to notice when a person seems happy, anxious, distracted or irritable; adjust or end an activity when attention fades or frustration rises; and focus on enjoyment rather than achievement.
+- [Dementia Australia: Activities for people with dementia](https://www.dementia.org.au/living-dementia/staying-connected/activities-people-dementia) — read. It recommends starting an activity together, giving one step at a time, keeping activities simple and short, and trying another time if the person is not interested that day.
+- [NIA: Adapting Activities for People With Alzheimer's Disease](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) — search result seen, but the page returned HTTP 405 when opened. No Round 39 claim relies on that page.
+
+Application: the mobile app already has a picture-viewing activity with optional prompts. Website Conversation Cards showed a question on every card and offered no way to look without it. A visible checkbox now lets the caregiver hide or restore the question; hiding it also keeps that question out of Read aloud. This is a low-risk extension of existing behavior, not evidence that the change improves health outcomes.
+
+## Round 40: two pictured activity choices (read 2026-11-10)
+
+- [Alzheimer's Society: How to support a person with dementia to communicate if they're unable to speak](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/support-person-dementia-communicate-unable-speak) — read. It describes picture cue cards that a person can point or nod to. A board showing everything at once may help some people and overwhelm others.
+- [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) — read. It recommends short, direct questions, one idea at a time, time to respond, and a few choices.
+
+Application: in the existing `/today/` advice, “nothing to do” already recommends offering two choices, but the interface linked one game. Two illustrated game links now make that advice usable without requiring the person to speak. This is a product inference, not evidence that a choice board treats or improves dementia.
+
+## Round 41: illustration names in the app's language (read 2026-11-10)
+
+- [Alzheimer's Association: Communication and Alzheimer's](https://www.alz.org/help-support/caregiving/daily-care/communications) — read. It notes that communication can change, including difficulty finding familiar words or returning to a native language.
+
+Application: the app's 100 newer raster illustrations previously supplied English screen-reader labels in every locale. The shared picture-name map now contains machine translations for the 44 app locales whose existing drawing names are complete. The 20 low-confidence locales remain on the English fallback; their earlier picture-name gap is still recorded above. This is an accessibility inference, not evidence that localized labels improve health outcomes. None of the new labels has native-speaker review.
+
+## Round 42: make conversation prompts opt-in at the point of use (read 2026-11-10)
+
+- [Alzheimer's Society: Who can support with memory problems?](https://www.alzheimers.org.uk/get-support/living-with-dementia/support-with-memory-problems) — read. It suggests family and friends support the person by not testing them with questions such as “Do you remember who this is?”
+- [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) — read. It advises against detailed memory responses, and suggests simple yes/no questions or a few choices. The page also recognizes that reminiscence can be a useful shared activity; this change does not remove prompts.
+
+Application: website Conversation Cards already allowed a helper to hide or show its question, but the question started visible. The game now opens on the picture and theme with the checkbox unchecked. A helper can show a prompt if it seems welcome; the existing speech logic keeps a hidden question out of Read aloud. This is a low-pressure default inferred from the guidance, not evidence of a clinical benefit.
+
+## Round 43: optional captions for website-selected photos (read 2026-11-10)
+
+- [Alzheimer's Association: Reminiscence and Reminiscence Therapy](https://www.alz.org/help-support/caregiving/daily-care/reminiscence-and-reminiscence-therapy) — read. It describes photos and familiar objects as ways to start shared reminiscence, and says to follow the person's lead so the interaction is about connection, not testing.
+- [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) — read. It suggests using photos and adding captions, while allowing time for a response.
+
+Application: on the website, selected Photo Pairs tiles previously used only numbered labels such as “Photo 1.” Helpers can now add optional short captions; the caption is used as the screen-reader name. Captions stay in page memory and are not uploaded or saved. This is an accessibility and conversation-support inference, not a clinical claim.
+
+## Round 44: comfortable photo selection (read 2026-11-10)
+
+- [Alzheimer's Society: The Activities Handbook](https://www.alzheimers.org.uk/sites/default/files/2020-11/AS_77AC_The-Activities-Handbook.pdf) — read. In the life-story section, it notes that some photographs may bring painful memories. If the person is upset, let them express their feelings and ask whether they want to continue or do something else.
+
+Application: Photo Pairs now puts one short reminder next to photo selection: choose photos the person enjoys and stop or switch if a picture upsets them. This is a point-of-use cue, not a clinical safeguard or evidence of a health outcome.

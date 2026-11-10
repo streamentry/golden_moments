@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Ffactorau Risg Dementia: Y 14 a Enwyd gan Gomisiwn y Lancet"
+seoTitle: "Ffactorau Risg Dementia: 14 Ffactor y Lancet"
+description: "Y 14 ffactor risg dementia y gellir eu newid a enwyd gan Gomisiwn y Lancet 2024, fesul cyfnod bywyd, gyda'r hyn y mae ymchwil yn ei gysylltu a'r hyn i'w drafod gyda meddyg."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Enwodd Comisiwn y Lancet 2024 14 o ffactorau risg dementia y gellir o bosibl
+  eu newid: llai o addysg, colli clyw, colesterol LDL uchel, iselder, anaf i'r
+  pen, diffyg gweithgarwch corfforol, diabetes, ysmygu, pwysedd gwaed uchel,
+  gordewdra, yfed gormod o alcohol, ynysu cymdeithasol, llygredd aer a cholled
+  golwg heb ei thrin. Gyda'i gilydd, maent yn gysylltiedig â thua 45% o achosion
+  ledled y byd, heb unrhyw sicrwydd i unrhyw un person.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Mae'r 14 ffactor yn ymestyn ar draws oes gyfan: un yn gynnar mewn bywyd, deg yng nghanol oed a thri yn ddiweddarach mewn bywyd."
+  - "Mae colli clyw a colesterol LDL uchel yng nghanol oed ill dau yn gysylltiedig â thua 7% o achosion dementia ledled y byd, y cyfrannau mwyaf o unrhyw un ffactor."
+  - "Amcangyfrifon poblogaeth yw'r canrannau hyn sy'n tybio achos ac effaith. Gall rhai cysylltiadau fod yn rhannol achosol yn unig."
+  - "Mae oedran a genynnau, na all neb eu newid, hefyd yn ffactorau risg mawr. Nid yw lleihau'r 14 risg yn gwarantu y bydd unrhyw un yn osgoi dementia."
+  - "Mae'r rhan fwyaf o'r camau dan sylw, fel gwirio pwysedd gwaed, clyw a golwg, yn dda i iechyd mewn ffyrdd eraill ac yn werth eu trafod gyda meddyg."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Beth yw'r 14 ffactor risg dementia y gellir eu newid?"
+    a: "Enwodd Comisiwn y Lancet 2024 lai o addysg, colli clyw, colesterol LDL uchel, iselder, anaf trawmatig i'r ymennydd, diffyg gweithgarwch corfforol, diabetes, ysmygu, pwysedd gwaed uchel, gordewdra, gormod o alcohol, ynysu cymdeithasol, llygredd aer a cholled golwg heb ei thrin. Gyda'i gilydd, maent yn gysylltiedig â bron i hanner yr achosion o ddementia ledled y byd."
+  - q: "Pa ffactor risg dementia sydd bwysicaf?"
+    a: "Ar draws poblogaeth y byd, amcangyfrifodd y Comisiwn fod colli clyw a colesterol LDL uchel yng nghanol oed ill dau yn gysylltiedig â thua 7% o achosion, ac yna llai o addysg ac ynysu cymdeithasol ar tua 5% yr un. Mae pa ffactorau sydd bwysicaf i un person yn dibynnu ar eu hiechyd eu hunain, felly meddyg yw'r canllaw gorau."
+  - q: "Ai'r ddau ffactor risg newydd a ychwanegwyd yn 2024 yw'r rhain?"
+    a: "Ie. Ychwanegodd adroddiad 2024 colesterol LDL (drwg) uchel yng nghanol oed a cholled golwg heb ei thrin yn ddiweddarach mewn bywyd at y 12 ffactor a enwyd yn 2020. Cysylltodd y Comisiwn hwy â thua 7% a 2% o achosion yn y drefn honno."
+  - q: "A yw oedran yn ffactor risg y gellir ei newid?"
+    a: "Nac ydy. Oedran yw'r ffactor risg mwyaf hysbys ar gyfer clefyd Alzheimer, ac ni ellir ei newid. Mae genynnau hefyd yn chwarae rhan. Y 14 ffactor ar y dudalen hon yw'r rhai y mae ymchwil yn awgrymu y gellir o bosibl eu newid."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,113 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Ffactor risg yw rhywbeth sy'n gysylltiedig â siawns uwch o ddatblygu cyflwr. Nid yw'n achos ym mhob achos, ac nid yw cael un yn golygu y byddwch yn datblygu dementia. Mae'r dudalen hon yn rhestru'r 14 ffactor risg dementia y mae Comisiwn y Lancet 2024 yn dweud y gellir o bosibl eu newid, yr hyn y mae ymchwil yn ei gysylltu â nhw, a'r hyn y gallech ei drafod gyda meddyg.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+I gael y darlun ehangach, gan gynnwys yr hyn a ganfu treialon mawr, dechreuwch gyda [A ellir atal dementia? Yr hyn y mae'r ymchwil yn ei ddweud](/brain-health/can-dementia-be-prevented/). Gwybodaeth gyffredinol yw hon, nid cyngor meddygol; gweler ein [hysbysiad gwadu meddygol](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Beth yw'r 14 ffactor risg ar gyfer dementia?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+Amcangyfrifodd [Comisiwn y Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0), a ysgrifennwyd gan 27 o ymchwilwyr dementia, fod 14 o ffactorau risg y gellir o bosibl eu newid gyda'i gilydd yn cyfrif am tua 45% o achosion dementia ledled y byd. Amcangyfrif y Comisiwn o gyfran yr achosion ledled y byd sy'n gysylltiedig ag ef yw'r canran ar gyfer pob ffactor isod, wedi'i thalgrynnu i rifau cyfan. Mae'r ffigurau'n gorgyffwrdd, oherwydd bod gan lawer o bobl sawl risg ar yr un pryd, a dyna pam eu bod yn adio i 45% yn hytrach na mwy.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Ffactor risg | Cyfnod bywyd | Cyfran o achosion | Yr hyn y mae ymchwil yn ei gysylltu | Beth gallwch chi ei wneud |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Llai o addysg | Yn gynnar mewn bywyd | 5% | Mae llai o flynyddoedd o addysg yn gysylltiedig â risg uwch. Mae bod yn weithgar yn feddyliol yng nghanol oed hefyd yn ymddangos yn amddiffynnol, hyd yn oed i bobl â fawr o addysg. | Parhewch i ddysgu ac i wneud pethau sy'n ysgogi'r meddwl ar unrhyw oedran: darllen, hobïau, dosbarthiadau, gemau gyda phobl eraill. |
+| Colli clyw | Canol oed | 7% | Mae colli clyw heb ei drin yn gysylltiedig â risg uwch. Mae astudiaethau sy'n dilyn pobl dros amser yn cysylltu defnyddio cymhorthion clyw â risg is. | Gwnewch brofi eich clyw. Gofynnwch a fyddai cymhorthion clyw yn helpu, a'u gwisgo os cânt eu rhagnodi. Amddiffynnwch eich clustiau rhag sŵn uchel. |
+| Colesterol LDL uchel | Canol oed (o tua 40 oed) | 7% | Mae colesterol LDL ("drwg") uchel yng nghanol oed yn gysylltiedig â risg uwch. Mae astudiaethau arsylwi yn cysylltu defnyddio statinau â risg is, ond nid yw treialon yn ddiweddarach mewn bywyd wedi dangos hyn. | Gofynnwch i'ch meddyg a ddylid gwirio eich colesterol a beth, os o gwbl, i'w wneud yn ei gylch. |
+| Iselder | Canol oed | 3% | Mae iselder yn gysylltiedig â risg uwch. Yn ddiweddarach mewn bywyd, gall iselder hefyd fod yn arwydd cynnar o ddementia. | Dywedwch wrth feddyg am hwyliau isel neu golli diddordeb sy'n para mwy na phythefnos. Gellir trin iselder. |
+| Anaf trawmatig i'r ymennydd | Canol oed | 3% | Mae anaf i'r pen ar unrhyw oedran ac o unrhyw ffynhonnell, gan gynnwys chwaraeon cyswllt, yn gysylltiedig â risg uwch. | Gwisgwch helmed wrth feicio ac mewn chwaraeon cyswllt. Gofynnwch am atal cwympiadau. Gorffwyswch a chael archwiliad ar ôl anaf i'r pen. |
+| Diffyg gweithgarwch corfforol | Canol oed | 2% | Mae pobl sy'n ymarfer corff ac yn chwarae chwaraeon yn llai tebygol o ddatblygu dementia. Mae tystiolaeth o dreialon yn gyfyngedig o hyd. | Gofynnwch pa weithgarwch sy'n ddiogel i chi, a dewch o hyd i rywbeth rydych yn ei fwynhau. Gweler ein [canllaw ymarfer corff](/brain-health/exercise/). |
+| Diabetes | Canol oed | 2% | Mae diabetes, yn enwedig pan fydd yn dechrau yng nghanol oed neu'n para'n hirach, yn gysylltiedig â risg uwch. | Gwnewch wirio eich siwgr gwaed. Os oes gennych ddiabetes, gweithiwch gyda'ch tîm gofal i'w reoli'n ddiogel. |
+| Ysmygu | Canol oed | 2% | Mae ysmygu yn gysylltiedig â risg uwch. Mae astudiaethau'n canfod nad yw cyn-ysmygwyr yn cario'r un risg uwch â phobl sy'n parhau i ysmygu. | Gofynnwch am gymorth i stopio. Mae'n werth stopio ar unrhyw oedran. |
+| Pwysedd gwaed uchel | Canol oed | 2% | Mae pwysedd gwaed uchel yng nghanol oed yn gysylltiedig â risg uwch. Mae treialon o feddyginiaethau pwysedd gwaed yn awgrymu risg ychydig yn is o ddementia neu nam gwybyddol. | Gwybyddwch eich rhifau. Mae'r Comisiwn yn awgrymu rhif uchaf o 130 neu lai o tua 40 oed; gofynnwch pa nod sy'n addas i chi. |
+| Gordewdra | Canol oed | 1% | Mae gordewdra yng nghanol oed yn gysylltiedig â risg uwch, ac mae hefyd yn codi'r risg o ddiabetes. | Gofynnwch i'ch meddyg am bwysau iach i chi. Ni ddylai oedolion hŷn ddeietio i golli pwysau heb gyngor meddygol. |
+| Gormod o alcohol | Canol oed | 1% | Mae yfed yn drwm yn gysylltiedig â risg uwch. Mae lleihau ar ôl yfed yn drwm yn gysylltiedig â risg is. | Gofynnwch beth yw terfyn diogel i chi, yn enwedig gyda'ch meddyginiaethau. |
+| Ynysu cymdeithasol | Yn ddiweddarach mewn bywyd | 5% | Mae cyswllt cymdeithasol anaml yn gysylltiedig â risg uwch. | Cadwch mewn cysylltiad â phobl mewn ffyrdd rydych yn eu mwynhau. Gweler ein [canllaw cysylltiad cymdeithasol](/brain-health/social-connection/). |
+| Llygredd aer | Yn ddiweddarach mewn bywyd | 3% | Mae byw gyda mwy o lygredd aer yn gysylltiedig â risg uwch. Mae astudiaethau'n cysylltu aer glanach â risg is. | Mater i bolisi cyhoeddus yn bennaf yw hwn. Gwiriwch rybuddion ansawdd aer lleol a chyfyngwch ar amser yn yr awyr agored ar ddiwrnodau llygredig iawn. |
+| Colled golwg heb ei thrin | Yn ddiweddarach mewn bywyd | 2% | Mae problemau golwg heb eu cywiro yn gysylltiedig â risg uwch. Cysylltodd un astudiaeth fawr yn yr Unol Daleithiau lawdriniaeth cataract â risg is. | Ewch am archwiliadau llygaid rheolaidd. Gofynnwch a ellir trin problemau fel cataractau. |
 
-## How should I read these percentages?
+## Sut ddylwn i ddarllen y canrannau hyn?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Yn ofalus. Mae adroddiad y Comisiwn ei hun yn gwneud sawl pwynt sy'n werth eu
+cadw mewn cof:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Maent yn disgrifio poblogaethau, nid pobl.** Mae
+  [crynodeb Coleg Prifysgol Llundain o'r adroddiad](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  yn nodi bod lleihau risg yn gweithio ar draws poblogaeth ac nad yw'n gwarantu
+  y bydd unrhyw un person yn osgoi dementia.
+- **Maent yn tybio achos ac effaith.** Dim ond ffactorau gyda thystiolaeth
+  argyhoeddiadol a gynhwysodd yr awduron, ond maent yn dweud y gallai rhai
+  cysylltiadau fod yn rhannol achosol yn unig.
+- **Ffigurau byd-eang ydynt.** Daw'r rhan fwyaf o'r data o wledydd incwm uchel,
+  a bydd y gwir gyfran ar gyfer unrhyw un wlad neu gymuned yn wahanol.
+- **Gall canrannau bach fod yn bwysig o hyd.** Mae ffactor sy'n gysylltiedig â
+  2% o achosion ledled y byd yn dal i effeithio ar nifer fawr iawn o bobl.
 
-## Which risk factors were added in 2024?
+## Pa ffactorau risg a ychwanegwyd yn 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Ychwanegodd adroddiad 2024 ddau ffactor at y 12 a enwyd yn 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Colesterol LDL uchel yng nghanol oed**, sy'n gysylltiedig â thua 7% o achosion.
+- **Colled golwg heb ei thrin yn ddiweddarach mewn bywyd**, sy'n gysylltiedig â thua 2% o achosion.
 
-## What risk factors cannot be changed?
+## Pa ffactorau risg na ellir eu newid?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Dywed y National Institute on Aging mai
+[oedran yw'r ffactor risg mwyaf hysbys ar gyfer Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ac ni all neb ei newid. Mae genynnau hefyd yn chwarae rhan; un genyn adnabyddus
+sy'n dylanwadu ar risg Alzheimer yw APOE. Mae'r NIA yn ychwanegu nad yw
+gwyddonwyr eto'n deall yn llawn beth sy'n achosi Alzheimer yn y rhan fwyaf o
+bobl. Mae Comisiwn y Lancet yn nodi y gellir lleihau'r risgiau y gellir o
+bosibl eu newid beth bynnag fo risg enetig person.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Oherwydd bod oedran a genynnau'n chwarae rhan mor fawr, mae llawer o bobl nad
+oes ganddynt yr un o'r 14 ffactor risg yn dal i ddatblygu dementia. Nid bai
+unrhyw un yw hynny.
 
-## What does the trial evidence say about changing these risks?
+## Beth mae tystiolaeth treialon yn ei ddweud am newid y risgiau hyn?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Nid yw cysylltu ffactor risg â dementia yr un peth â phrofi bod ei newid yn
+lleihau'r risg o ddementia. Dyma ychydig o enghreifftiau o ble mae tystiolaeth
+treialon ar hyn o bryd:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Pwysedd gwaed.** Yn nhreial SPRINT MIND, fe wnaeth nod pwysedd gwaed is
+  leihau nam gwybyddol ysgafn yn sylweddol. Ni wnaeth leihau dementia tebygol
+  yn sylweddol, er y gallai'r treial fod yn rhy fach i ddangos hynny
+  ([SPRINT MIND yn JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Cymhorthion clyw.** Mae Comisiwn y Lancet yn disgrifio treial cymhorthion
+  clyw tair blynedd na chanfu unrhyw effaith gyffredinol ar feddwl, ond a
+  welodd fudd mewn is-grŵp o bobl â risg uwch. Mae astudiaethau sy'n dilyn
+  pobl dros amser yn cysylltu defnyddio cymhorthion clyw â risg is. Mae mwy yn
+  ein [canllaw clyw](/brain-health/hearing/).
+- **Gweithgarwch corfforol.** Dywed y National Institute on Aging nad oes digon
+  o dystiolaeth o dreialon clinigol i ddod i'r casgliad y gall ymarfer corff
+  atal neu arafu nam gwybyddol ysgafn neu Alzheimer, er bod rhai astudiaethau'n
+  awgrymu y gallai helpu gyda dirywiad sy'n gysylltiedig ag oedran
+  ([NIA ar atal Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Mae treialon hir sy'n aros i ddementia ddatblygu yn araf ac yn ddrud, felly ar
+gyfer llawer o ffactorau bydd y dystiolaeth orau yn parhau i ddod o
+astudiaethau sy'n dilyn pobl dros flynyddoedd. Mae'r dystiolaeth honno'n
+ddefnyddiol, ond mae'n wannach na threial.
 
-## What about sleep and diet?
+## Beth am gwsg a deiet?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Adolygodd y Comisiwn gwsg a deiet ond ni wnaeth eu hychwanegu at y rhestr,
+oherwydd nad oedd y dystiolaeth yn ddigon cryf nac yn ddigon cyson. Mae ein
+canllawiau ar [gwsg](/brain-health/sleep/) a [deiet](/brain-health/diet/) yn
+esbonio'r hyn sy'n hysbys.
 
-## Talk with a doctor
+## Siaradwch â meddyg
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Mae archwiliad blynyddol yn amser da i godi'r pynciau hyn. Gallech ddod â'r
+rhestr hon a gofyn:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Beth yw fy rhifau pwysedd gwaed, siwgr gwaed a colesterol, ac a oes angen
+  sylw ar unrhyw un ohonynt?
+- A ddylwn i gael archwilio fy nghlyw a'm llygaid?
+- A yw'r gweithgarwch rwy'n ei wneud yn ddiogel ac yn ddigon i mi?
+- A allai unrhyw un o fy meddyginiaethau effeithio ar gof neu feddwl?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Cyn newid meddyginiaethau, deiet, ymprydio, ymarfer corff neu ychwanegion,
+siaradwch â meddyg yn gyntaf. Os oes gennych chi neu'r person rydych yn gofalu
+amdano ddryswch sydyn, gwendid ar un ochr, neu drafferth siarad, ffoniwch 999.

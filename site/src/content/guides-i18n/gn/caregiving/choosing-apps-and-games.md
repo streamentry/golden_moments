@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Mbaʼéichapa eiporavóta tembiporuʼi demenciápe g̃uarã"
+seoTitle: "Tembiporuʼi demenciápe g̃uarã: peteĩ lista"
+description: "Peteĩ lista oñangarekohárape g̃uarã: eiporavo nde rembaʼapóta, emboyke aravo ha marandu, ehecha tekoñemi ha ejepyʼamongeta umi jeʼerã rehe."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Eñepyrũ ehechákavo mbaʼépa rejapo hag̃ua ko tembiporuʼípe: ñemokyreʼỹ
+  mbegue, manduʼa, pyʼaguapy térã jeike. Upéi eiporavo peteĩ oikóva pe
+  tapicha pejesarekóva hese ikatúva ojapo ko árape: taʼanga tuicháva, aravo,
+  jehepymeʼẽ ha maranduʼỹre, ha hasyʼỹ hag̃uáicha oñemombyta. Ehecha mbaʼe
+  mbaʼekuaarãpa ombyaty ha ikatúpa embogue. Ejesareko porã umi jeʼerã
+  heʼíva tembiporuʼi omoʼã térã omonguera demencia rehe; peteĩ jehecha añónte
+  ndahaʼéi hekopete.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Eiporavo raẽ mbaʼépa rejapose: ñemokyreʼỹ, manduʼa, pyʼaguapy térã jeike oikotevẽ tembiporuʼi iñambuéva."
+  - "Ehecha pe tapicha ikatúva ojapo ko árape, ndahaʼéi peteĩ téra etapa rehe, ha eheja pe jepuru hasyʼỹva."
+  - "Ani eiporavo tembiporuʼi oguerekóva aravo, jehepymeʼẽ, tekove, streaks, marandu térã ñemoneĩ jejogua hag̃ua."
+  - "Ehecha mbaʼekuaarã oñembyatýva, oñemoherakuãva ha oñemboguekuaáva. HIPAA jepi ndojepurúi tembiporuʼi jepiveguáva rehe."
+  - "Ani ejerovia pyaʼe jeʼerã heʼívape «omoʼã demencia». Peteĩ jehechakuaa, térã porãve jejapo tembiporuʼípe, ndahaʼéi hekopete."
+  - "Golden Moments haʼe peteĩ tembiapo vyʼarãme g̃uarã. Ndaʼeʼi mbaʼeve jeʼerã pohanohára rehegua."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "¿Ikatúpa umi ñembosarái akã rehegua omoʼã demencia?"
+    a: "Ndaipóri hekopete porãite heʼíva umi tembiporuʼi ñembosarái akã rehegua omoʼã térã omombegue demencia. National Institute on Aging heʼi ndaiporiha hekopete hetaiterei heʼíva umi tembiporuʼi ñembokatupyry akã rehegua oñemoguáva oguerekoha peichaite peteĩ ñembokatupyry oñembohekóva peteĩ jehechakuaa tuichávape. Eiporavo tembiporuʼi vyʼa ha jeike hag̃ua, ndahaʼéi pohã ramo."
+  - q: "¿Oñemoʼãpa peteĩ tembiporuʼi demenciápe g̃uarã HIPAA rupi?"
+    a: "Hetave jey nahániri. HIPAA jepi ojepuru pohãnohára, pohãrã aty ha umi oñepytyvõva hendivekuéra rehe. Peteĩ tembiporuʼi nde emboguejýva ndevoi jepi ndoñemoʼãi, ndahaʼéiramo oñemeʼẽ peteĩva koʼãva apytégui. FTC Health Breach Notification Rule omoʼã heta tembiporuʼi tesãirã rehegua HIPAA ndojapóiriva."
+  - q: "¿Mbaʼéichapa ojehecha peteĩ ñembosarái demenciápe g̃uarã iporãva?"
+    a: "Taʼanga ha jehai tuicha ha hesakãva, peteĩ mbaʼe hasyʼỹva ojejapovaʼerã peteĩteĩ taʼangápe, aravo ha jehepymeʼẽʼỹre, mbaʼeve puʼyre jejavy rire, maranduʼỹre, ha hasyʼỹ hag̃uáicha oñepytuʼu térã oñemombyta. Ojehechavaʼerã kakuaapavẽme g̃uarã ha hasyʼỹva ambue tapicha oike hag̃ua."
+  - q: "¿Golden Moments heʼípa ikatuha oipytyvõ manduʼápe?"
+    a: "Nahániri. Golden Moments omeʼẽ tembiapo hasyʼỹva oñondive hag̃ua vyʼa ha ñomongeta hag̃ua. Ndahechakuaái, nomonguerái, nomoʼãi ha nomboguapái demencia, ha noromeʼẽi jeʼerã manduʼa térã jehecha akã rehegua."
+  - q: "¿Tekotevẽpa ahepymeʼẽ peteĩ tembiporuʼi demenciápe g̃uarã?"
+    a: "Eñehaʼã raẽ umi rei térã ñehaʼã reigua, ha ehecha mbaʼéichapa pe tapicha oñandu mokõi arapokõindýpe. Jehepymeʼẽ tembiporuʼípe ndahaʼéi heʼise iporãveha. Ehecha mbaʼéichapa ikatu eipeʼa ehepymeʼẽ mboyve."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Umi tembiporuʼi ñemuhápe henyhẽ ñembosarái oñembohéragui kakuaapavẽme g̃uarã, manduʼápe térã demenciápe g̃uarã. Oĩ oñembohekóva porã. Ambue omoĩ jeʼerã pohanoháramo ĝuarã, aravo omoambuéva ñembosarái peteĩ jehechakuaáramo, térã marandu ha mbaʼekuaarã ñembyaty. Ko kuatiarogue omeʼẽ ndéve peteĩ tape ehechakuaa hag̃ua oimeraẽva tembiporuʼi. Ndorohecháiri ni ndorohechaporãi ambue apopyre.
 
-## What should I decide before choosing a dementia app?
+## ¿Mbaʼépa tekotevẽ aiporavo mboyve peteĩ tembiporuʼi demenciápe g̃uarã?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Eiporavo mbaʼépa rejapose hag̃ua ko tembiporuʼípe. «Peteĩ ñembosarái syme g̃uarã» ikatu heʼise heta mbaʼe iñambuéva, ha pe iporãvéva peteĩ mbaʼépe g̃uarã ikatu ndoikói ambuépe.
 
-| Goal | What it looks like | What to look for |
+| Mbaʼépa rehupytyse | Mbaʼéichapa ojehecha | Mbaʼépa ehechavaʼerã |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Ñemokyreʼỹ mbegue | Ñembojoaju, ñemohenda, puzzle hasyʼỹva, ñeʼẽ ñembosarái | Hasykue oñemoambuekuaáva, taʼanga ojehecháva tapiaite, aravo rehypýiʼỹre |
+| Manduʼa | Taʼanga yma guare, ñeʼẽ ojeikuaáva, purahéi imitãrusúgui | Ne taʼanga tee, porandu ijuruja, porandu jehechakuaaʼỹre |
+| Pyʼaguapy | Taʼanga mbegue, tyapu kirirĩ, pytuho, ñande ypykue | Hasyʼỹ oñepyrũ ha oñemombyta, mbaʼeve overávaʼỹre, mbaʼeve sapyʼaguaʼỹre |
+| Jeike | Ñembosarái térã ñomongeta oñondive, peteĩ tendápe térã taʼangamýi rupive | Ojejapo mokõi tapichápe g̃uarã, ñeʼẽñemi ñomongetápe g̃uarã |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Umi jehechakuaa «ñemokyreʼỹ akã rehegua» oñembohekóva tapicha oikovéva demencia reheve ndive hetave jey haʼe aty oñembohapéva tapicha oñembokatupyrývagui, oñomongeta, oñembosarái ñeʼẽ rehe, oñejapo puzzle, purahéi ha tembiapo apohára reheve. Peteĩ [Cochrane jehechajey](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) ojuhu pytyvõ michĩva mbyte rupi, iñambuéva jehechakuéra apytépe. Koichagua tembiapo aty ha iñambuéva ndahaʼéi peteĩ tembiporuʼi peteĩ tapicha ojapóva añónte, upévare ehecha tembiporuʼi peteĩ tembiapo oñondive hag̃ua heta apytégui.
 
-## How do I know if an app fits the person's abilities?
+## ¿Mbaʼéichapa aikuaáta tembiporuʼi oikópa pe tapicha ikatúvape?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Ehecha mbaʼéichapa oñandu, ani ehecha peteĩ jehechakuaa térã etapa rérape. Mokõi tapicha «peteĩchagua etapápe» ikatu iñambue tuicha rehecha, hendu, ipo jepuru, ñeʼẽ ha ijepyʼaporã taʼangápe. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) heʼi iporãha nemanduʼa mbaʼépa ohayhúva yma ha mbaʼépa ikatu ojapo koʼág̃a, ha eñemotenonde vyʼáre ndahaʼéi jejapo porãitére.
 
-Signs of a good fit:
+Mbaʼe ohechaukáva oikóha porã:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- oñepyrũ térã oike hasyʼỹre;
+- opukavy, heʼi peteĩ mbaʼe térã omombeʼu peteĩ tembiasakue;
+- umi jejavy nombaʼapo vai chupe;
+- ovyʼa oñemombyta vove ára.
 
-Signs it is a poor fit:
+Mbaʼe ohechaukáva ndoikóiha porã:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- heʼi jey jey «ndaikatúi» térã «kóva nembaʼéi»;
+- noikuaái mbaʼépa ojopyvaʼerã;
+- oñekoʼõi, otĩ térã omombo tembiporuʼi;
+- oiko mante nde rejapórõ hetave mbaʼe.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Ñekoʼõi haʼe peteĩ marandu, ndahaʼéi mbaʼe ojehasavaʼerã. Ehecha [mbaʼépa ejapo hag̃ua heʼírõ nahániri](/caregiving/when-they-say-no/). Tembiapo etapa rehegua tembiporuʼiʼỹre, ehecha tembiapo [etapa ñepyrũme](/activities/early-stage/) ha [etapa pahápe](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## ¿Mbaʼe mbaʼépa iporãva ha mbaʼépa ani hag̃ua tembiporuʼi jejapópe?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Eheka jejapo pyʼaguapýva, hasyʼỹva ha kakuaapavẽme g̃uarã, ha emboyke mbaʼeve omoĩva jehepy.
 
-| Look for | Be wary of |
+| Eheka | Ejesareko |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Taʼanga ha jehai tuicháva, hesakã porãva | Taʼangami michĩva, taʼanga henyhẽva |
+| Peteĩ tembiapo hesakãva peteĩteĩ taʼangápe | Heta votõ, menú térã tembiapoukapy heta jekuʼe reheve |
+| Aravoʼỹre, térã aravo ikatúva oñembogue | Aravo ohóva, mbaʼe pyaʼe rehegua, «ehasa ne aravóre» |
+| Jehepymeʼẽʼỹre, térã ñembohovái mbegue | Jehepymeʼẽ, tekove, streaks, tysýi, «akã ary» |
+| Umi jejavy oñembohovái kirirĩme | Pu, pytã X, ñeʼẽ «Javy» |
+| Taʼanga kakuaapavẽ ha tekotevẽgua | Taʼanga mitãme ĝuarãva |
+| Oiko internetʼỹre, natekotevẽi jehaipyre oñepyrũ hag̃ua | Tekotevẽ oñehaipyre, oike térã oñemboguejy raẽ |
+| Hasyʼỹ oñepytuʼu ha oñemombyta | Ovetã ojeruréva oñembosarái hag̃ua térã ojehepymeʼẽ tembiporuʼi |
+| Maranduʼỹre, tepy katuete térã jehepymeʼẽ jey jey hesakãva | Marandu, mbaʼe jejogua, jerure jehepymeʼẽ jey jey |
+| Hasyʼỹ ambue tapicha oike hag̃ua | Peteĩ tapicha añónte, ñembosarái oñorairõva |
 
-Ads and purchase prompts are easy to tap by accident.
+Marandu ha jerure jehepymeʼẽ rehegua hasyʼỹ ojepoko rei hag̃ua.
 
-## How do I check an app's privacy?
+## ¿Mbaʼéichapa ahechavaʼerã tembiporuʼi tekoñemi?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Ehecha mbaʼe mbaʼekuaarãpa ombyaty, mávape omoherakuã ha ikatúpa embogue. Emboguejy mboyve:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Emoñeʼẽ ñemombyky tekoñemi rehegua tembiporuʼi ñemuhápe.** [Google Play Data safety renda](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ha [App Store marandu tekoñemi rehegua](https://support.apple.com/en-us/102399) ohechauka mbaʼeichagua mbaʼekuaarãpa tembiporuʼi ikatu ombyaty ha omoherakuã. Mokõivéva heʼi apopyre apoha omeʼẽha ko marandu, upévare haʼe peteĩ ñepyrũ, ndahaʼéi jehechajey.
+2. **Eporandu tekotevẽpa jehaipyre.** Tembiporuʼi ohechaukáramo taʼanga térã ñembosarái hasyʼỹva añónte, ikatu natekotevẽi oikuaa ne réra, ne ñanduti veve térã ne aramboty.
+3. **Ehecha ñemoneĩ.** ¿Oikotevẽ añetete peteĩ ñembosarái ñembojoaju oikuaa ne renda, ne jeikerã, ne ñeʼẽñendu térã ne taʼangaty tuichakue? Embogue oimeraẽva natekotevẽiva.
+4. **Eheka marandu ha ñemañahakuéra.** Tembiporuʼi marandu ha jesarekorã rehegua ikatu omondo ambue atyhápe mbaʼéichapa ojepuru tembiporuʼi.
+5. **Eikuaa moõpa oho taʼanga.** Emoĩramo familia taʼanga, ¿opyta tembiporuʼípe térã ojehupi peteĩ mohendahavusúpe? ¿Ikatúpa emboguete?
+6. **Ehecha mbaʼéichapa oñembogue.** Eheka porureko tekoñemi térã ñemombyky mbaʼekuaarãme mbaʼéichapa emboguekuaa mbaʼekuaarã ha ne jehaipyre. Peteĩ tembiporuʼi heʼíva mbaʼekuaarã ndaikatuiha oñembogue oikotevẽ jesareko hetave, oñongatúramo taʼanga térã marandu tesãi rehegua.
+7. **Emoñeʼẽ porureko tekoñemi** eheka hag̃ua mbohovái hesakãva: mbaʼépa oñembyaty, mbaʼére, mboy árapa, ha mávape oñemoherakuã.
 
-### Does HIPAA protect information in dementia apps?
+### ¿HIPAA omoʼãpa marandu tembiporuʼi demenciápe g̃uarãme?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Hetave jey nahániri, ha upéva omondýi heta tapichápe. U.S. Department of Health and Human Services [omyesakã](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) HIPAA ojepuruha pohãrã aty, hetave pohãnohára, pohãrã mbaʼekuaarã aty ha umi oñepytyvõva hendivekuéra rehe. Hetave jey nomoʼãi mbaʼekuaarã emoĩva tembiporuʼípe eipuru hag̃ua ndevoi, ndahaʼéiramo peteĩ aty HIPAA omoʼãva térã iñepytyvõhára omeʼẽ tembiporuʼi. Peteĩ «tembiporuʼi demenciápe g̃uarã» tembiporuʼi ñemuhágui ikatu oĩ HIPAA okápe, oñeʼẽramojepe tesãi rehe.
 
-### What protects health data in apps that HIPAA does not cover?
+### ¿Mbaʼépa omoʼã mbaʼekuaarã tesãirã rehegua HIPAA ndojapóiriva?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission Health Breach Notification Rule omoʼã heta koʼãvagui. Ary 2024-pe FTC [omoañete ñemoambue](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) omyesakãva ko porureko ojepuruha tembiporuʼi tesãirã rehegua ha ambue tembipurupyahu HIPAA ndojapóirivape. Peteĩ «ñembyai» oike ñemoherakuã ñemoneĩʼỹre, ndahaʼéi tekohapegua añónte, ha umi atykuéra omomarandu vaʼerã umi oñeñandúva ha FTC-pe. Kóva haʼe peteĩ pytyvõ oiko rire peteĩ mbaʼe vai, ndahaʼéi ñeʼẽmeʼẽ tembiporuʼi ombyatýta mbaʼe tekotevẽva añónte.
 
-## How should I read claims about research and evidence?
+## ¿Mbaʼéichapa amoñeʼẽvaʼerã jeʼerã jehechakuaa ha hekopete rehegua?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Emoñeʼẽ mbeguekatu jeʼerã hekopete rehegua, ha ejeroviaʼiveʼỹ umi ñeʼẽmeʼẽ tuichavévape. Porandu ikatúva ejapo:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Mbaʼetépa oñehechakuaa añete?** Peteĩ jehechakuaa peteĩ tembiaporãme ndahechaukái opaite ñembosarái tembiporuʼípe oikohápe peichaite.
+- **Mávandivepa oñehechakuaa?** Mbaʼe ojejuhúva tapicha kakuaapavẽ itesãi porãvape ikatu ndoikói peteĩ tapicha oikovéva demencia reheve ndive.
+- **Mbaʼépa oñembohekopy?** Iporãve ñembosarái añóme iñambue tekove ára ha ára, ñomongeta, vyʼa térã jeikekuaágui.
+- **Mboy mbarepápa pe jehechakuaa?** Peteĩ jehechakuaa oñemboheko porãva (RCT) omoñondive peteĩ aty oipurúva tembiporuʼi ambue aty ndoipurúiva rehe. Haʼe peteĩ jejapo porã, ha katu peteĩ RCT michĩ térã mbykýva añónte ndahaʼéi hekopete. Eheka hetave jehechakuaa, tapicha ijeheguíva ojapóva, oñombohovái jueheguáva.
+- **Heʼípa omoambueha pe mbaʼasy?** Peteĩ jehechakuaa ohechaukáva ñemoambue michĩva peteĩ jehecha rupive ndahaʼéi hekopete tembiporuʼi omombegue, omoʼã térã omongueraha demencia.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Aging kuatiarogue [tesãi akã rehegua ha kakuaapavẽ](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) omombeʼu peteĩ jehechakuaa tuicha NIH oipytyvõva ñembokatupyry akã rehegua oñembohekóvape, ha upéi omomarandu ani hag̃ua jerovia jeʼerãre heʼíva oĩ ñembosarái computadora ha ñandutípe ikatúva omoporãve manduʼa ha jehecha akã. Heʼi ndaiporiha gueteri hekopete hetaiterei heʼíva umi tembiporuʼi ñembokatupyry akã rehegua oñemoguáva oguereko peichaite pe ñembokatupyry oñehaʼãva upe jehechakuáape. Ikatu emoñeʼẽve ore mboʼepy rehegua [ñembosarái akã rehegua ha hekopete](/brain-health/brain-games/) ha [mbaʼépa heʼi jehechakuaa demencia ñemoʼã rehegua](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### ¿Mbaʼe techapyrã opavavépe g̃uarã oĩva peteĩ jeʼerã japugua rehegua?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Jasyteĩ 2016-pe, FTC [omomarandu peteĩ ñembojoaju](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) Lumosity apoha ndive, peteĩ tembiaporã «ñembokatupyry akã rehegua». FTC heʼi upe aty heʼi hague, hekopeteʼỹre, iñembosarái ikatuha omombegue jehecha akã ñembotuichápe, ha omoʼã mild cognitive impairment, demencia ha Alzheimer mbaʼasygui. Pe aty ohepymeʼẽ 2 millón dólar ha oguereko vaʼerã hekopete científica jeroviapýva heʼi mboyve jeʼerã péicha upe rire. Ko tembiapo ñanemanduʼa ñeʼẽ ñemurã ndahaʼeiha hekopete.
 
-### Which words are red flags?
+### ¿Mbaʼe ñeʼẽpa haʼe marandu kyhyjeha?
 
-Be cautious when an app or ad says it:
+Ejesareko tembiporuʼi térã marandu heʼíramo:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- «omoʼã», «omombuejeýma», «omombyta» térã «omonguera» demencia térã Alzheimer;
+- haʼe «ojehechaporãva pohãnoháraramo» omombeʼuʼỹre jehechakuaa, máva oĩ hague ha mbaʼépa oñembohekopy;
+- omeʼẽ «akã ary» térã jehepymeʼẽ manduʼa rehegua ohechaukáva peteĩ jehechakuaa;
+- «omoakãrapuʼãta», «omombaretéta» térã «omokatupyrýta» akã;
+- oipuru tapicha heʼíva hekopete ramo.
 
-If you are unsure about a claim, ask the person's doctor.
+Nerovia porãiramo peteĩ jeʼerã rehe, eporandu pe tapicha pohãnohára.
 
-## Where does Golden Moments fit?
+## ¿Moõpa oĩ Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments omeʼẽ tembiapo hasyʼỹva oñondive hag̃ua, ndahaʼéi manduʼa jehechakuaa, pohã térã ñeʼẽmondo pohanohára rehegua. Ore ñembosarái, haʼeháicha [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ha [Calm Breathing](/games/calm-breathing/), ojejapo vyʼa ha ñomongeta hag̃ua. Ndahechakuaái, nomonguerái, nomoʼãi ha nomboguapái demencia, ha noromeʼẽi jeʼerã manduʼa térã jehecha akã rehegua.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Avei rojapo peteĩ tembiporuʼi rei, [Golden Moments iPhone, iPad ha Android-pe g̃uarã](/app/). Oguereko taʼanga ñembojoaju mbegue, taʼangami tuicháva reheve, ñembosarái familia taʼanga nde eiporavóva reheve ha taʼanga aty oikóva internetʼỹre, jehaipyre, marandu, aravo ha jehepymeʼẽʼỹre. Ko lista peteĩchagua ojepuru avei: iñemomarandu tekoñemi App Store-pe heʼi «Ndojembyatýi mbaʼekuaarã», ha [tembiporuʼi porureko tekoñemi](/app-privacy/) omyesakã moõpa oñeñongatu taʼanga ñongatupyre.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Iporãve roipotárõ pejesarekovo ore rehe, ndahaʼéi rojeroviase. Eipuru ko lista ko kuatiaroguépe, emoñeʼẽ ore [kuatiarogue tekoñemi rehegua](/privacy/) ha [ñemomarandu pohanohára reheguaʼỹre](/medical-disclaimer/), ha eheja eipuru oimeraẽva, ore mbaʼe avei, ndoikóiramo porã pe tapicha pejesarekóva hese ndive.
 
-## What is a sensible way to try a new app?
+## ¿Mbaʼe tape porãpa ikatu añehaʼã hag̃ua peteĩ tembiporuʼi pyahu?
 
-Try it together for a couple of weeks and watch what happens.
+Eñehaʼã oñondive mokõi arapokõindýpe ha ehecha mbaʼépa oiko.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Embosakoʼi raẽ** ore [tableta ha pumbyry ñembosakoʼi](/caregiving/tablets-and-screens/) rupive, ha eñepyrũ pe hasyʼỹvévagui.
+2. **Eguereko ára mbykýva,** ehecha pukavy, ñomongeta ha pyʼaguapy, ha emohuʼã peteĩ ára porãme.
+3. **Eheja ndokóiramo porã,** ojehayhuramijepe porãiterei.

@@ -1,32 +1,33 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Hadede kple Ahɔhɔ̃ ƒe Lãmesẽ: Aɖekeɖeke kple Amesiwo dome woɖe"
+seoTitle: "Aɖekeɖeke, Amesiwo dome woɖe kple Dementia ƒe Afɔku"
+description: "Ale si aɖekeɖeke kple amesiwo dome woɖe do ƒome kple dementia ƒe afɔku, nu si Dɔnɔdzikpɔlagã ƒe aɖaŋuɖoɖo gblɔ, kple mɔ bɔbɔewo siwo dzi miato anɔ teƒe ɖeka."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Numekukuwo ɖee fia be aɖekeɖeke kple amesiwo dome woɖe le ƒe tsitsi me ate ŋu ado ƒome kple
+  dementia ƒe afɔku si lolo wu. Lancet ƒe Dɔwɔha si le 2024 me bu akɔnta be amesiwo dome woɖe
+  le ame 100 me 5 ƒe nɔnɔme ta, gake ƒomedodo sia ƒe akpa aɖe ate ŋu anye be dementia gbãtɔe
+  nana amewo ɖea wo ɖokui ɖe aga. Kadodo kple amewo, modzakaɖenu siwo wowɔna ɖekae, kple
+  kpekpeɖeŋu le toɖoɖo ŋu katã kpena ɖe kadodo ŋu. Na ame siwo le agbe kple dementia la, nuwɔnawo
+  siwo wowɔna ɖekae le vevie na dzidzɔ kple agbenɔnɔ nyuie; taɖodzinue nye kadodo, menye dɔwɔwɔ nyuie o.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet ƒe Dɔwɔha yɔ amesiwo dome woɖe le ƒe tsitsi me be enye nu 14 siwo woate ŋu atrɔ siwo doa ƒome kple dementia, si le abe ame 100 me 5 ene."
+  - "Dɔnɔdzikpɔlagã ƒe aɖaŋuɖoɖo si le 2023 me do ƒome kple aɖekeɖeke kple amesiwo dome woɖe si nɔa anyi didi kple dementia ƒe afɔku si dzi ɖe edzi abe 50% ene le ame tsitsiwo dome."
+  - "Kpeɖodzi siawo ƒe akpa gãtɔ nye numekuku siwo kpɔa nu siwo dzɔna, eye dementia gbãtɔ ŋutɔ ate ŋu ana amewo naɖe wo ɖokui ɖe aga."
+  - "Toɖoɖo kple ŋkuʋukpɔ ƒe kuxiwo, aɖeke nɔnɔ, kple ame bubu dzi kpɔkpɔ katã nana afɔku si le amesiwo dome woɖe ŋu dzina ɖe edzi."
+  - "Na ame siwo le agbe kple dementia la, nuwɔnawo siwo wowɔna ɖekae siwo doa dzidzɔ na ame kpena ɖe agbenɔnɔ nyuie ŋu; taɖodzinue nye kadodo, menye dɔwɔwɔ nyuie o."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Ðe aɖekeɖeke hea dementia vanea?"
+    a: "Womeka ɖe edzi keŋkeŋ o. Numekuku geɖe ɖee fia be aɖekeɖeke kple amesiwo dome woɖe do ƒome kple dementia ƒe afɔku si lolo wu, gake ahɔhɔ̃ me tɔtrɔ gbãtɔwo hã ate ŋu ana amewo naɖe wo ɖokui ɖe aga tso amewo gbɔ. Kadodo kple amewo naa viɖe bubu geɖe na dzidzɔ kple lãmesẽ, eyata enyo be woakpe ɖe eŋu kokoko."
+  - q: "Nukae nye vovototo si le aɖekeɖeke kple amesiwo dome woɖe dome?"
+    a: "Amesiwo dome woɖe fia be ame aɖeke mesɔ gbɔ siwo gbɔ nàte ŋu anɔ edziedzi o. Aɖekeɖeke nye seselelãme veve si nye be yeɖe ɖe aga alo womekpɔa ye ɖe nu me o. Àte ŋu anɔ aɖeke evɔ màse aɖekeɖeke o, alo àte ŋu ase aɖekeɖeke togbɔ be amewo ƒo xlã wò hã."
+  - q: "Aleke mate ŋu akpe ɖe dzinyelanye si le agbe kple dementia ŋu wòanɔ kadodo me kple amewo?"
+    a: "Kadodo kpui siwo wowɔna edziedzi wɔa dɔ nyuie. Àte ŋu adze agbagba awɔ telefon alo video dzeɖoɖo si wowɔna kwasiɖa sia kwasiɖa, nuwɔwɔ ɖekae le nuɖukplɔ̃ ŋu, yi ɖe ŋkuɖoɖo ƒe takpekpe aɖe, alo asrã lã aɖe alo tɔgbuiyɔviwo kpɔ. Na ƒuƒoƒoa nalé sue eye tome nafa, eye nàna ame la naɖo afɔɖeɖe ƒe du."
+  - q: "Afikae mate ŋu akpɔ kpekpeɖeŋu le na ame tsitsi si le eɖokui si?"
+    a: "Eldercare Locator, si nye dɔwɔƒe si subɔa dukɔa, doa ƒome kple ƒomewo kple dɔwɔƒe siwo kpɔa ame tsitsiwo dzi kple nutoa me ɖoɖowo. Woate ŋu aƒo ka na wo le 800-677-1116 alo ayi eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +55,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Amewo hiã be woanɔ amewo dome, eye esia metrɔna ne ame tsi o. Numekukuwo ɖee fia be aɖekeɖeke kple amesiwo dome woɖe le ƒe tsitsi me ate ŋu ado ƒome kple dementia ƒe afɔku si lolo wu, eye wòdo ƒome kple dzidɔ kple nuxaxa hã. Numekukuawo mate ŋu agblɔ fifia be ƒomedodo sia ƒe akpa kae nye nu si hea nu bubu vɛ o. Axa sia ƒo nu tso nu si kpeɖodziwo fia, mɔ bɔbɔe siwo dzi woato anɔ kadodo me, kple nu si ta nuwɔnawo siwo wowɔna ɖekae le vevie ŋutɔ na ame siwo le agbe kple dementia xoxo.
 
-## Are loneliness and isolation linked with dementia?
+## Ðe aɖekeɖeke kple amesiwo dome woɖe do ƒome kple dementia?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Ɛ̃, numekuku geɖe do ƒome kpli wo, gake womekpɔ mɔ si dzi wòtona la katã o. [Lancet ƒe Dɔwɔha si le 2024 me](https://doi.org/10.1016/S0140-6736(24)01296-0) yɔ amesiwo dome woɖe le ƒe tsitsi me be enye nu 14 siwo woate ŋu atrɔ siwo doa ƒome kple dementia ƒe afɔku. [UCL ƒe nyatakaka kpui le nutsotso la ŋu](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) gblɔ be ele abe dementia ƒe nɔnɔmewo ƒe 5% le xexeame katã ene.
 
-What the evidence shows:
+Nu si kpeɖodziwo fia:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Kadodo ʋɛ, afɔku geɖe.** Dɔwɔhaa ƒo nu tso numekuku eve ŋu siwo ɖee fia be kadodo si mebɔna edziedzi o do ƒome kple dementia ƒe afɔku si lolo wu. Ðeka kpɔ afɔku si dzi ɖe edzi abe 57% ene, eye evelia kpɔ abe 18% ene.
+- **Aɖekeɖeke hã.** Aɖekeɖeke, si nye seselelãme be woɖe ame ɖe aga, hã do ƒome kple dementia ƒe afɔku si lolo wu le numekuku geɖe me.
+- **Dɔnɔdzikpɔlagã ƒe nukpɔsusu.** Le May 2023 me la, Dɔnɔdzikpɔlagã na [aɖaŋuɖoɖo tso aɖekeɖeke kple amesiwo dome woɖe ŋu](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Egblɔ be aɖekeɖeke kple amesiwo dome woɖe si nɔa anyi didi ate ŋu ana dementia ƒe afɔku nadzi ɖe edzi abe 50% ene le ame tsitsiwo dome. Edo ƒome kple kadodo gbegblẽ kple dzidɔ ƒe afɔku si dzi ɖe edzi 29% kple ahɔhɔ̃dzidɔ ƒe afɔku si dzi ɖe edzi 32% hã.
+- **Ale si gbegbe wòbɔna.** [National Academies ƒe nutsotso](https://www.ncbi.nlm.nih.gov/books/NBK557972/) kpɔe be Amerika dukɔmevi siwo xɔ ƒe 65 kple edzivɔ siwo le nutoa me ƒe 24% le abe amesiwo woɖe ɖe aga tso amewo gbɔ ene.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Nuxlɔ̃ame vevi aɖee nye esi: Lancet ƒe Dɔwɔha gblɔ be amewo ate ŋu aɖe asi le hadome nuwɔnawo ŋu le dementia ƒe gɔmedzedze me, hafi woakpɔe. Esia fia be ƒomedodo sia ƒe akpa aɖe ate ŋu anye be dementiae nana amewo ɖea wo ɖokui ɖe aga, menye ɖe aga ɖeɖe koe nana afɔku dzina ɖe edzi o. Kpeɖodzi siawo ƒe akpa gãtɔ tso numekuku siwo kpɔa nu siwo dzɔna gbɔ.
 
-## What is the difference between loneliness and isolation?
+## Nukae nye vovototo si le aɖekeɖeke kple amesiwo dome woɖe dome?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) ɖe eme ale: **Amesiwo dome woɖe** fia be ame aɖeke mesɔ gbɔ siwo gbɔ nàte ŋu anɔ alo awɔ nu kpli edziedzi o. **Aɖekeɖeke** nye seselelãme veve si nye be yeɖe ɖe aga alo yeɖe ɖe vovo. Ame aɖe ate ŋu anɔ aɖeke le dzidzɔ me, eye ame bubu ate ŋu ase aɖekeɖeke le xɔ si me yɔ fũ kple amewo gɔ̃ hã.
 
-The NIA lists factors that raise the risk of both:
+NIA yɔ nu siwo nana afɔku siawo siaa dzina ɖe edzi:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Toɖoɖo alo ŋkuʋukpɔ ƒe kuxiwo
+- Kuxi le zɔzɔ me, alo ʋuɖoɖo aɖeke meli o
+- Aɖeke nɔnɔ, alo bu vevi aɖe abe srɔ̃a ƒe ku alo dɔdzudzɔ ene
+- Ŋkuɖoɖo alo susu ƒe tɔtrɔwo
+- Ame si lɔ̃a ame si mele lãmesẽ me o la dzi kpɔkpɔ
+- Ga ƒe kuxiwo alo gbegbɔgblɔ ƒe mɔxenuwo
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Toɖoɖo nye nu gã aɖe. NIA gblɔ be amesiwo mesea nu nyuie o ate ŋu aɖe wo ɖokui ɖe aga elabena dzeɖoɖo zua nu si tea ŋu na ame alo nana ŋu kpẽa ame. Míaƒe [mɔfiame tso toɖoɖo kple ahɔhɔ̃ ƒe lãmesẽ ŋu](/brain-health/hearing/) ƒo nu tso toɖoɖokpɔkpɔ kple toɖoɖomɔ̃ siwo woƒlena le atikeƒe siwo mehiã agbalẽ naneke o ŋu.
 
-## Practical ways to stay connected
+## Mɔ bɔbɔe siwo dzi woato anɔ kadodo me
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA ɖo aɖaŋu geɖe. Tia ɖeka alo eve siwo sɔ na wò:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Ðo ɣeyiɣi na kadodo edziedzi.** Ðo ɣeyiɣi aɖe koŋ gbe sia gbe alo kwasiɖa sia kwasiɖa nàƒo ka, aŋlɔ gbedeasi, aɖo e-mail alo aɖo agbalẽ ɖe ƒometɔwo, xɔlɔ̃wo alo aƒelikawo.
+- **Zã video dzeɖoɖo alo mɔ̃ siwo ƒoa nu.** Ne mɔ̃ɖaŋununya yeye na wò la, agbalẽdzraɖoƒe kple nutoa me takpekpeƒe geɖe naa nusɔsrɔ̃. Kpɔ míaƒe [mɔfiame tso telefon kple video dzeɖoɖo ŋu](/activities/phone-and-video-calls/).
+- **Ge ɖe nu aɖe me.** Sukukpo, mawusubɔsubɔ ƒe ƒuƒoƒo, zɔzɔ ƒe ƒuƒoƒo alo lɔlɔ̃nu faa dɔwɔwɔ naa kadodo kple taɖodzinu ƒe seselelãme.
+- **Gadze modzakaɖenu xoxo aɖe gɔme** alo srɔ̃ yeye aɖe kple amewo.
+- **Wɔ kamedede kple amewo.** Wɔ kamedede kple xɔlɔ̃ alo ƒuƒoƒo aɖe. Míaƒe [mɔfiame tso kamedede ŋu](/brain-health/exercise/) le tiatia fafɛwo.
+- **Bu lã aɖe xɔxɔ ŋu** ne àte ŋu akpɔ edzi.
+- **Zã nutoa me kpekpeɖeŋuwo.** Ame tsitsiwo ƒe takpekpeƒewo, Area Agencies on Aging kple Eldercare Locator (800-677-1116) ate ŋu afia mɔ wò ayi ɖoɖowo kple ʋuɖoɖo gbɔ.
 
-## Why do shared activities matter in dementia?
+## Nu ka tae nuwɔnawo siwo wowɔna ɖekae le vevie le dementia me?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Na ame si le agbe kple dementia xoxo la, kadodo ku ɖe dzidzɔ, akɔfafa kple seselelãme be wokpɔ ame ɖe nu me ŋu, menye afɔku dzi ɖeɖe kpɔtɔ ŋu o. Lancet ƒe Dɔwɔha gblɔ be nuwɔnawo kpena ɖe ame siwo le agbe kple dementia ŋu be woayi edzi akpɔ dzidzɔ kple taɖodzinu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) gblɔ be, tsɔ kpe ɖe agbenɔnɔ nyuie ŋu la, nuwɔnawo ate ŋu aɖe nuwɔnawo abe tsatsam alo dzimaɖitsitsi ene dzi akpɔtɔ. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) hã gblɔ kpee be ame siwo le agbe kple Alzheimer ƒe dɔléle hiã be woanɔ dɔ wɔm eye woawɔ nu siwo doa dzidzɔ na wo.
 
-Ideas that work well:
+Aɖaŋu siwo wɔa dɔ nyuie:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Mikpɔ nɔnɔmetatawo ɖekae.** [Conversation Cards](/games/conversation-cards/) naa nyabiase siwo le ʋuʋu, siwo me dodokpɔ aɖeke mele o abe „Gblɔ nya aɖe nam tso...“ ene. Kpɔ míaƒe [mɔfiame tso ŋkuɖoɖo ŋu](/activities/reminiscence/).
+2. **Miƒo ƒu ɖekae.** [Picture Pairs](/games/picture-pairs/) naa nɔnɔmetatawo nɔa anyi wokpɔna, eye ɣeyiɣidzidzenu alo xexlẽdzesi aɖeke mele eme o, eyata nyaƒoɖeamenu aɖeke mele eme o. Míaƒe mɔfiame tso [ale si woawɔ nu ɖekae](/caregiving/how-to-play-together/) le aɖaŋuwo.
+3. **Zã ƒomea ƒe nɔnɔmetatawo.** [Photo Pairs](/games/photo-pairs/) trɔa nɔnɔmetata siwo nètia wozua fefewɔwɔ, eye nɔnɔmetataawo nɔa wò mɔ̃ dzi.
+4. **Kpe amewo ɖekae.** [Picture Bingo](/games/picture-bingo/) sɔ na ƒomea ƒe takpekpewo kple [ame tsitsiwo ƒe aƒe me ƒuƒoƒowo](/activities/care-home-groups/).
+5. **Miɖu ha, miwɔ aƒemedɔ alo miwɔ dɔ le abɔ me ɖekae.** Kpɔ [haƒoƒo ƒe nuwɔnawo](/activities/music/), [aƒemedɔwo](/activities/household-tasks/) kple míaƒe [nuwɔna ƒe susuwo katã ƒe xexlẽdzesi](/activities/ideas/).
+6. **Na asrãdede nanɔ bɔbɔe.** Míaƒe [mɔfiame tso asrãdede ŋu](/activities/visiting/) ƒo nu tso asrãdede kpui, siwo me tome fa, siwo naa ame sia ame sea vivi le wo ɖokui me ŋu.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Na wòanɔ sue eye wòafa. Xɔ si me tome fa kple ame ɖeka alo eve zi geɖe wɔa dɔ nyuie wu ƒuƒoƒo gã aɖe. Ne ame la ƒe ŋusẽ vɔ alo megadi be yeayi edzi o la, enyo be woadzudzɔ. Anyinɔnɔ ɖekae kple tii aɖe hã nye nu nyui aɖe.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Na ame si le agbe kple dementia eye wòle eɖokui si la, NIA ɖo aɖaŋu be woadi ame si dzi woate ŋu aɖo ŋu ɖo si ate ŋu asrã ame kpɔ alo awɔ video dzeɖoɖo edziedzi eye wòanye ame si woayɔ le nudzɔdzɔ kpata me. Eƒo nu tso nutoa me ŋkuɖoɖo ƒe takpekpeƒe hã ŋu, si nye teƒe si me tome fa si me ame siwo ƒe ŋkuɖoɖo bu kple woƒe ƒometɔwo ate ŋu akpe ta ɖo.
 
-## Caregivers get lonely too
+## Ame siwo kpɔa ame bubuwo dzi hã tea ŋu sea aɖekeɖeke
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA yɔ ame si lɔ̃a ame bubu la dzi kpɔkpɔ be enye nu si nana afɔku si le amesiwo dome woɖe ŋu dzina ɖe edzi. Dzra ɣeyiɣi ɖo ɖi na wò ŋutɔ wò xɔlɔ̃wo, kpekpeɖeŋu ƒe ƒuƒoƒowo kple gbɔɖeme. Míaƒe [mɔfiame tso ame dzi kpɔla ƒe ɖokuidzikpɔkpɔ ŋu](/caregiving/caregiver-self-care/) le aɖaŋu siwo woate ŋu azã.
 
-## Talk with a doctor
+## Ƒo nu kple dɔnɔdzikpɔla
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Ne wò alo ame si dzi nèkpɔna sea aɖekeɖeke alo le eɖokui si zi geɖe la, gblɔe na dɔnɔdzikpɔla. NIA de dzi ƒo na amewo be woagblɔ agbe me tɔtrɔ gãwo, abe ame ƒe ku le ƒomea me ene, ale be dɔnɔdzikpɔla nase nɔnɔmea katã gɔme. Ne ame aɖe ƒe dzi le nyonyom kwasiɖa geɖe la, ate ŋu anye nuxaxa, si woate ŋu akpɔ. Ne ame tsitsi aɖe ɖe eɖokui ɖe aga tso xɔlɔ̃wo alo nuwɔna siwo doa dzidzɔ nɛ tsã gbɔ yeye la, enyo be woagblɔ tɔtrɔ sia hã na dɔnɔdzikpɔla. Xlẽ [dzesi gbãtɔwo kple ɣeyiɣi si woayɔ dɔnɔdzikpɔla](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Axa sia nye nyatakaka gbadza, menye atikewɔwɔ ƒe aɖaŋuɖoɖo o. Kpɔ míaƒe [atikewɔwɔ ŋuti nyatakaka](/medical-disclaimer/).

@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Oberiantizoù dementia da voullañ dieub"
+seoTitle: "Oberiantizoù dementia da voullañ dieub: lizherenn bras"
+description: "Oberiantizoù dementia da voullañ dieub: klask ger e lizherenn bras, pajennoù liwañ, kartennoù kaozeal ha bingo gant skeudennoù, ha lusioù evit moullañ anezho mat."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments a ro oberiantizoù dementia da voullañ dieub: klask ger e
+  lizherenn bras, pajennoù liwañ, kartennoù kaozeal gant skeudennoù ha kartennoù
+  bingo gant skeudennoù. Digorit pajenn unan eus ar c'hêmoù ha implijit botonenn
+  Moullañ. Moullit gant lizherenn bras ha sklaer war paper stard, grit ur
+  c'horn-micher nemet evit pajenn bep hini, ha lakait pajennoù a fell deoc'h
+  implijout a-nevez en ur plastr. Oberiantizoù prim a-vro, evel ur bajenn
+  istor-buhez pe ur c'hoarveziad a-viz-da-viz, a skoazell ivez.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Our oberiantizoù moullet a zo dieub: Klask ger, Liwañ, Kartennoù kaozeal ha Bingo gant skeudennoù. Pajenn bep c'hêm en deus botonenn Moullañ."
+  - "Moullit gant lizherenn bras ha sklaer, gant kontrast kreñv, ha grit ur c'horn-micher nemet evit pajenn bep hini."
+  - "Paper stard pe kartoñ a zo aesoc'h da zaltañ ha dibosupl da zerc'hel. Plastrit ar pajennoù evit implijout anezho a-nevez gant merkerien skarzh-sec'h."
+  - "Oberiantizoù prim a-vro, evel ur bajenn istor-buhez, un amzeizh a-viz-da-viz pe skeudennoù evit an dorioù, a zo simpl ha talvoudus."
+  - "Ur bajenn moullet a zo ur gwahoudenn, n'eo ket ul labour dre skol. Ober ur runenn anezhi, pe netra, a zo mat."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Ha dieub eo an oberiantizoù moullet evit dementia?"
+    a: "Ya. Ar pajennoù Klask ger, Liwañ, Kartennoù kaozeal ha Bingo gant skeudennoù war al lec'hienn-mañ a zo dieub da implijout ha da voullañ. Digorit pajenn ar c'hêm hag implijit botonenn Moullañ."
+  - q: "Pe oberiantizoù moullet a zo gwellañ evit dementia?"
+    a: "An oberiantizoù gwellañ a zo simpl, sklaer ha gant ur sell oberiant: ur klask ger gant lizherenn bras ha ger nemet a-hed ha a-stroll, pajennoù liwañ gant aozadennoù sklaer, kartennoù gant skeudennoù a zegas ur gaozeadenn, ha bingo gant skeudennoù evit strolladoù. Lakait an oberiant en-dro da ziduroù hag al lodenn a vez gouest an den da ober, ha grit ur c'horn-micher nemet evit pajenn bep hini."
+  - q: "Penaos e c'hallan ober ma vefe gwelloc'h ha haeskoc'h implijout ar pajennoù?"
+    a: "Implijit lizherenn bras ha sklaer, inkr teñval war paper gwenn pe krenn, ha spazh a-leizh. Moullit war paper stard pe kartoñ, evit ma chom ar pajenn blat, dibabit paper matez evit lemel ar c'hlerzh, hag implijit ur c'hlipboard pe ur mat n'eo ket sklaezus evit derc'hel ar pajenn sioul. Ar plastradur a skoai da zerc'hel ar pajennoù."
+  - q: "Gallout a ran moullañ hor c'hweladurioù evit ur c'hreizenn kont pe ur programm deiziek?"
+    a: "Ya. Trugarez d'ar re a labour er c'hreizennoù kont a zo degemeret da voullañ hor pajennoù evit an dud a chom ennañ hag evit ar strolladoù. Bingo gant skeudennoù a zo bet savet evit ar strolladoù hag a zo ennañ ur galver war an skramm a c'hallit diskouez war ur TV pe ur projektor."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Weithiee, ar c'hweladur gwellañ a zo ur gwaredenn paper hag ur penn-skrivañ war an daol-debriñ en ti. Ar pajennoù moullet n'o deus ket ezhomm a bellgargañ, na a basgerioù, na a skramm, hag e vezont aes da zougen d'ur gweladenn pe d'ur strollad. An dudenn-mañ a zisklêr an oberiantizoù moullet dieub war hor lec'hienn, penaos moullañ anezho evit ma vefent aes da welet ha da zaltañ, ha kelc'h a bajennoù savet e ti a gavo familhoù ha merourien an oberiantizoù talvoudus.
 
-## What free printable activities do you offer?
+## Pe oberiantizoù moullet dieub a ginnigit deomp?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Hor c'hweladurioù moullet dieub a zo pevar. Digorit unan eus ar c'hêmoù-mañ hag implijit botonenn **Moullañ** evit kaout ur stumm moullañ.
 
-| Printable | What it is | Good for |
+| Moullet | Petra eo | Mat evit |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Klask ger](/games/word-search/) | Ur klask ger gant lizherenn bras, gant ger nemet a-hed ha a-stroll | Amzer distaw gant ur penn-skrivañ; an hini a blij dezhañ ar c'hlaskoù |
+| [Liwañ](/games/coloring/) | Pajennoù liwañ da voullañ, pe da liwañ war an skramm | Amzer lañvus ha krouiñ; pep kam a skoazell |
+| [Kartennoù kaozeal](/games/conversation-cards/) | Kartennoù gant skeudennoù ha goulennoù digor, hep prof, dre dem | Gweladennoù, galvoù, goude-dibunioù, strolladoù kof |
+| [Bingo gant skeudennoù](/games/picture-bingo/) | Kartennoù bingo gant skeudennoù e-lec'h niverennoù, ha galver war an skramm | Kreizennoù kont, programmoù deiziek, emvodoù familh |
 
-### Large-print word search
+### Klask ger gant lizherenn bras
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+Ar [Klask ger](/games/word-search/) a implij lizherennoù bras ha da genderc'hel ar ger a-hed ha a-stroll hepken, hep diagonalioù na ger a-gefn. Labourit asambles: unan a lenn ur ger eus al listenn, an and a glask anezhi. Mar eo diaes kavout ar gerioù, klaskit kelc'hiañ kentizh pep ger asambles, pe lennit ar roll gerioù a-uhel hag e kaozit diwar-benn pep ger.
 
-### Coloring pages
+### Pajennoù liwañ
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Gallout a reer moullañ pajennoù [Liwañ](/games/coloring/) evit merourien pe bleizioù liwañ, pe liwañ war ur tablez en ur frapiñ war ul liv, ha goude war ur rann eus ar skeudenn. Evit ar pajennoù moullet, proponit merourien tev hag un nebeud livioù ordin. Gwelit hor [gidour oberiantizoù kelc'h ha dornwaith](/activities/arts-and-crafts/) evit kaout tro da zerc'hel al liwañ dre vrasañ ha lañvus.
 
-### Conversation cards
+### Kartennoù kaozeal
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+Ar [Kartennoù kaozeal](/games/conversation-cards/) a asambl ur skeudenn sklaer gant ur prof digor, evel "Kontit din diwar-benn..." pe "Petra welit?". Skrivet int evel gwahoudennoù digor, n'int ket goulennoù prof. Moullit ur strollad, torit anezho, hag miret un nebeud en ur sac evit gweladennoù pe e-kichen an telefon evit galvoù. Mat int ivez e strolladoù [kofurc'hiñ](/activities/reminiscence/).
 
-### Picture bingo cards
+### Kartennoù bingo gant skeudennoù
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Kartennoù [Bingo gant skeudennoù](/games/picture-bingo/) a implij skeudennoù e-lec'h niverennoù. Moullit ur gartenn dre c'hoarier hag implijit ar galver war an skramm war ur laptop, ur TV pe ur projektor. Ni a gonsil galvañ betek ma vo leun kartenn an holl, evit na vefe den da vezañ lezet a-gostez. Gwelit [oberiantizoù strollad evit kreizennoù kont](/activities/care-home-groups/) evit gouzout penaos kas un degemer a-benn.
 
-## How do I print activities so they are easy to use?
+## Penaos moullañ oberiantizoù evit ma vefent aes da implijout?
 
-Small changes in how you print make a big difference.
+Cheñchamantoù bihan en ur moullañ a ro un disheñvelded bras.
 
-### Make it easy to see
+### Ober anezhe aes da welet
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Lizherenn bras ha sklaer.** Implijit an arventenn lizherenn bras a zo c'hoazh a-barzh ar bajenn. Chomit kuit diouer skriverezh fanfarus pe skrivet a-hed-ha-hed.
+- **Kontrast kreñv.** Inkr teñval war paper gwenn pe krenn. Chomit kuit diouer ar glazen pale pe ar c'hefndir liv.
+- **Paper matez** a fiz a glizder dindan goleier bras.
+- **Gwiriit ar voutolioù-lagad ha ar goleier.** Kevredigezh Alzheimer a notenn e c'hall gwallwelet ha gwallglevet kaout ur c'hevrenn diaezhoc'h, hag a ginnig gwiriañ anezho alies. Ur lamp klar ha kenetrek a skoai ivez.
 
-### Make it easy to hold
+### Ober anezhe aes da zerc'hel
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Paper stard pe kartoñ** a chom plat, a zo aesoc'h da gemer, hag a zalc'h an ispilhadennoù.
+- **Ur c'hlipboard** pe ur mat n'eo ket sklaezus a virñ ar pajenn rak lenkañ.
+- **Merourien tev pe bleizioù bras** a zo aesoc'h da zerc'hel eget ar pennoù tanav.
 
-### Make it reusable
+### Ober anezhe da implijout a-nevez
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Plastrit ar pajennoù** pe lakait anezho en ur gorread gwelus. Implijit merourien skarzh-sec'h war ar c'hlask ger hag ar c'hartennoù bingo, ha sec'hit anezho goude.
+- **Dibabit paketoù matez** mar eo ur fazi ar glizder, ha **trugarekait ar c'horn** eus ar c'hartennoù plastret gant ur bennfiñv, evit ma vefent aes da zaltañ.
+- **Miret ur restr** gant ar re a blij deoc'h, evit na vo ket moullet ar memes pajenn bep sizhun.
 
-### Keep it simple
+### Derc'hit simpl
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Ur c'horn-micher nemet evit pajenn bep hini.** Ur gavell klask ger hepken pe ur skeudenn hepken, ha n'eo ket meur a obereñ asambles war an hevelep pajenn.
+- **Spazh gwenn a-leizh.** Ur pajenn leun a c'hall bezañ kreñv a-walc'h.
+- **Netra da lenn, m'hall.** Diskouezit d'an den penaos ober e-lec'h ma vo ret lenn an deskrivadennoù.
+- **Berraat an dalioù.** Mar eo re vras ur pajenn a-bezh, troit anezhi en hanter pe pleutit anezhi evit na vefe gwelet nemet ur rann.
 
-## Other useful printables you can make at home
+## Moullerezhioù all talvoudus a c'hallit ober en ti
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+N'eo ket ur c'hêm an holl moullerezhioù talvoudus. Hag-all a zo aes da ober gant ur program testenn hag ur moullerez.
 
-### A life-story page
+### Ur bajenn istor-buhez
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Ur bajenn "diwar-benn din" a-unan gant ur skeudenn, an anv a blij d'an den bezañ galvet dezhañ, da belec'h ma'z eo bet maget, e labour, familh, boedoù pe sonerezh a-blij, ha traoù a gonforto pe a zispleg anezhañ. Dementia Australia a glask ur [levr soñjoù](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) gant munud a vuhez an den, e blijoù hag e dud pennañ, evit skoazellañ gweladennerien ha merourien, ha evit lakaat ar gaozeadenn da vont.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Talvoudus-bras eo en ospitaloù hag en tiegezh kinnig a-nevez. Ar NIA a c'hourc'hemenn rentañ d'ar staffoù ospitalel ur [bajenn titouroù personel](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) o kuzh an arvar, an anv a blij da zen, ar pezh a blij ha ne blij ket, an traoù a c'hall dorfoù bezañ, ha sinoù digenvez a boan.
 
-### A daily schedule
+### Ur programm deiziek
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Ur programm bras ha simpl evit an deiz gant eurioù, un nebeud gerioù ha ur skeudennig bihan evit pep lodenn: boued-kintin, pourmenadenn, boued-deiz, repaos, sonerezh, boued-noz. Kinnig a ra [kevredigezh Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) kemer evezh d'an eurioù gwellañ evit an den, gant amzeoù savadenn ha kousketertidik, ha kempouez etre oberiantizh ha repaos. Lakait anezhañ war ar gourvezad, war an frigo pe ailec'h ma c'hallit gwelet anezhañ, ha grit anezhañ hep bezañ rig. Gwelit hor [gidour an arverzh pemdeziek](/activities/daily-routine/) evit gouzout hiroc'h.
 
-### Picture labels for rooms and drawers
+### Skeudennoù evit an ostizoù ha evit ar c'hlezioù
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+Kinnig a ra an NIA implijout arwezioù liwus pe skeudennoù sempl evit [merkañ ar gwalleurc'h, ar c'hambr-gousk ha ar gegin](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). An hevelep dra a labour evit ar c'hlezioù ha ar c'hoadoù: ur skeudenn chaosetenn war ar c'hlezioù chaosetoù, ur skeudenn bolloù war ar c'hoad bolloù. Moullit, plastrit ha stagit anezho.
 
-### A sorting set
+### Un dibab sorc'hañ
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Moullit skeudennoù eus daou rummad simpl, evel frouezh ha bleunioù pe ostilhoù ha traoù er gegin, war kartoñ. Torit anezho ha sorc'hit anezho e daou gorf asambles. Ar stumm war ar skramm eus ar pezh-mañ eo [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Pajennoù gerioù kanaouennoù
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Moullit gerioù un nebeud kanaouennoù a blij deoc'h gant lizherenn bras-bras evit ur ganidigezh asambles. Hyd yezhoù an dud na lennont ket kalz c'hoazh a c'hall plijout dezho dal ar pajenn en o daouarn.
 
-### A family photo page
+### Ur bajenn skeudennoù familh
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Ur bajenn hepken gant peder pe c'hwec'h skeudenn familh bras, pep hini gant an anv bihan dindan. Hi a c'hall chom war ar staol evit ma vo gouest den da gemer anezhi ha da gaozeal diwar-benn. Ar skrivoù a skoai d'ar gweladennerien hag ar staffoù da gemer perzh er gaozeadenn, ha den na ranko ket goulenn "Piv eo an hini-mañ?"
 
-### A recipe card
+### Ur gartenn resev
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Moullit ur resev familh a blij deoc'h gant lizherenn bras. Implijit anezhi evit kuiniañ asambles, pe nemet evit kaozeal diwar-benn boued an amzer dremenet.
 
-## How do I offer a printable without it feeling like homework?
+## Penaos kinnig ur moullerez hep ma vefe kement-all ur micher dre skol?
 
-Present it as something to share, not a test.
+Diskouezit anezhi evel un dra da rannañ, n'eo ket ur prouiñ.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Azezit ha kregit ganeoc'h.** "Me a ra ar c'hlask ger-mañ. Fellout a ra deoc'h skoazellañ ac'hanon da gavout 'liorzh'?"
+- **Labourit asambles.** Kemerit an tro, pe unan a gav ha unan all a gelc'h.
+- **Na roit ket ar reizh pe ar fazi.** Kevredigezh Alzheimer a gont en he c'hidour [oberiantizoù en ti](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) e rank bezañ lakaet an dra e-kreiz an evezh, n'eo ket an disoc'h, hag al lipadenn, n'eo ket ar gounit.
+- **Lezit pajennoù da chom.** Ar memes kidour a ginnig lakaat albomoù, albomoù skeudennoù pe kelc'hiadennoù kozh en toulloù hag a vez aes tizhout outo. Kartennoù moullet ha pajennoù skeudennoù a c'hall chom war ur staol kostez memes tra.
+- **Sachit peurechu a blij deoc'h.** Ur hanter pajenn liwañ a zo un abardaez mat. Hag ur bajenn lakaet vial ha kas ur banne te a zo ivez.
 
-## Where to find more
+## Kavout muioc'h
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Furchit hollad hor [c'hêmoù ha moullerezhioù](/games/), pe gwelit [oberiantizoù evit pep stad](/activities/ideas/) evit muioc'h a sonjoù, gant pe hep paper.

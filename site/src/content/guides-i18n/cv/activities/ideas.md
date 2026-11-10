@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Деменципе пурӑнакан ҫынсем валли ӗҫсем: 101 шухӑш"
+seoTitle: "Деменци тӗлӗшпе ӗҫсем: 101 ансат вариант"
+description: "Деменципе пурӑнакан ҫынсем валли 101 ансат, ҫынна юрӑхлӑ ӗҫ: пусмӑ хумаран сӑнӳкеретни тата музыка таран. Кашнине мӗнле ҫӑмӑллатасси те пур."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Деменципе пурӑнакан ҫынсем валли лайӑх ӗҫсем — паллӑ, ҫынна юрӑхлӑ тата
+  пӗрле тума ансат ӗҫсем: пусмӑ хума, уйӑрса лартма, апат хатӗрлеме,
+  кӗвӗ итлеме, сӑнӳкерчӗксене пӑхма, ҫӳреме, пахча ӗҫӗсем, чӗр-чунсене пӑхма
+  тата ансат вӑйӑсем. Ҫын яланах хӑйӗн кӑмӑлпа тунӑ ӗҫсене суйлӑр, йывӑр
+  пайӗсене эсир тытӑр, ывӑннӑ чухне чарӑнӑр. Пӗрле хавасла вӑхӑт ирттерни
+  ӗҫе вӗҫлетнипе пӗр тан пӗлтерӗшлӗ.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Ҫын пурнӑҫӗнчен пуҫлӑр: унӑн ӗҫӗ, хӑйӗн кӑмӑлӗпе тунӑ ӗҫӗсем, тӗнӗ тата юратнӑ кӗвӗсем — чи лайӑх йӗрке."
+  - "Кирлӗ чухне кашни ӗҫе пӗчӗклетӗр: сахалтарах утӑм, сахалтарах суйлав, йывӑр пайне эсир тӑвӑр."
+  - "Пӑхни, япалана тытса тӑни е айӗнче ларасси те хутшӑнасси шутланать."
+  - "Ывӑннине, кӑшкӑрнине е йӑлкӑшнине курсан, чарӑнӑр е урӑх ӗҫе куҫӑр. Малтан чарӑнни — лайӑх результат."
+  - "Пӗрле тӑвасси тӗрӗс тӑвассинчен пӗлтерӗшлӗрех."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Деменципе пурӑнакан ҫын валли мӗнле ӗҫсем лайӑх?"
+    a: "Ҫын ҫулсерен тӑвакан паллӑ ӗҫсем, анчах пӗчӗклетсе: пусмӑ хума, сӗтел хатӗрлеме, апат хатӗрлеме, кӗвӗ итлеме, сӑнӳкерчӗксене пӑхма, ҫӳреме, пахча ӗҫӗсем тата чӗр-чунпа вӑхӑт ирттерме. Ҫынна юрӑхлӑ тата кирлӗ туйӑнакан ӗҫсене суйлӑр та пӗрле тӑвӑр."
+  - q: "Ӗҫ миҫе вӑхӑт тӑсмалла?"
+    a: "Тӗрӗс вӑхӑт ҫук. Пӗр кун темшӗн пусмӑ хунӑ хӑш-пӗр минут та ҫителӗклӗ пулма пултарать, тепӗр кун пахчара пӗр сехет те ҫӑмӑл анма пултарать. Ҫын хӑй темпне палӑрттӑр, хавасӑх тӗл пулсан вӗҫлетӗр."
+  - q: "Ҫын ӗҫрен ан килет тесе калать пулсан мӗн тумалла?"
+    a: "Ҫынсене тытса тӑвас мар. «Ҫук» тени ӗҫ йывӑр, вӑхӑт тӗрӗс мар, ҫын ывӑннӑ е хальнех ыратнӑ пулнине пӗлтерме пултарать. Каярах тепӗр хут тӑрӑшӑр, ансатрах вариант сӗнӗр е ӗҫе эсир хӑвӑр пуҫлӑр та унсӑр пӗрле тумашкӑн чӗнӗр."
+  - q: "Пӗлӳ вӑйӑсем деменципе пурӑнакан ҫынсем валли усӑллӑ-и?"
+    a: "Вӑйӑсем пӗрле хавасла вӑхӑт ирттерме май параҫҫӗ. Анчах нихӑш вӑйӑ та деменцие сиплеме, вӑйне чакарма е чарма пултарать тесе ҫирӗплетнӗ ҫук. Вӑхӑт, очко е йӑнӑш сассисӗр вӑйӑсене суйлӑр та вӗсене тӗрӗслев мар, пӗрле ӗҫ пек шутлӑр."
+  - q: "Ӗҫсем ачасен ӗҫӗ пек курӑнмасӑр мӗнле тӑвас?"
+    a: "Чӑн, ҫынна юрӑхлӑ хатӗр-хӗтӗрпе усӑ курӑр: чӑн пусмӑ, чӑн рецепчӗксем, ҫынна юрӑхлӑ кӗвӗсем, ҫынна юрӑхлӑ ӳкерчӗк хатӗрӗсем тата ҫынна юрӑхлӑ темӑллӑ сӑнӳкерчӗксем. Ӗҫе сирӗн чӑнах та кирлӗ пулӑшни пек ыйтӑр та ҫынпа унӑн ҫынлӑхне хисеплесе калаҫӑр."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Деменципе пурӑнакан ҫын валли чи лайӑх ӗҫ — чылай чухне унӑн паллакан, анчах пӗчӗклетнӗ тата шанса ӄӑнакан ҫынпа пӗрле тунӑ ӗҫ пулать. Аяларах 101 шухӑш пур: вӗсем тӗсӗпе уйӑрса панӑ, кашнин мӗнле хатӗрлемеллине тата йывӑрланнӑ чухне мӗнле ҫӑмӑллатмаллине каланӑ. Ятарлӑ хатӗр-хӗтӗр те, ӗҫе пӗтӗмпех вӗҫлемелли те мар. Хавасла каҫ пӗр корпа пусмӑпа пӗрре кофе ӗҫни те пулма пултарать.
 
-## How do you choose the right activity?
+## Тӗрӗс ӗҫе мӗнле суйламалла?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Ҫынсене тишкере илӗр, списокне мар: унӑн яланах юратнӑ тата паян хальнех ҫӑмӑл туйӑнакан ӗҫӗнчен пуҫлӑр.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Унӑн ӗҫне тата хӑйӗн кӑмӑлӗпе тунӑ ӗҫсене шутлӑр.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) офиста ӗҫленӗ ҫын укҫа уйӑрма е ҫырусем пухма юратма пултарнине, пахчана юратнӑ ҫын валли ҫумри ӗҫсем килӗшме пултарнине палӑртать.
+- **Унӑн хӑй тӗллӗн тӑвакан ӗҫсене асӑрхӑр.** Аттесем ирхине кашни кун хӑй тӗллӗн терраса шӑлать пулсан, ҫав ӗҫе кун йӗркине кӗртӗр.
+- **Чару сӑлтавӗсене шутлӑр.** Ывӑнни, куҫ, халӑх, алӑ ыратни тата виҫе тӑраканлӑх та пӗлтерӗшлӗ.
+- **Унӑн кӑмӑлне сӑнаса тӑрӑр.** Хӑш-пӗрисем валли хускатуллӑ вӑхӑт лайӑх, ыттисем валли вӑл хӑрушлӑх кӳрет.
+- **Ӗҫе тӗллевлӗ тӑвӑр.** Чиркӳ ирхи валли салфетка хума хӑй тӗллӗн тӑвакан упражненинчен кирлӗрех туйӑнать.
 
-### A rough guide by stage
+### Этапсем тӑрӑх кӗске йӗрке
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Деменцине чылай чухне малтанхи, вӑтам тата лайӑх анман этапсемпе ҫырса панӑ. Куҫсем — ҫӑмӑл ячӗсем, ҫынсем пӗр кун лайӑхрах, тепӗр кун йывӑррах туйма пултараҫҫӗ, ҫавна май паян мӗн курнине тишкере илӗр. [Alzheimer's Foundation of America этапсем тӑрӑх панӑ списокӗ](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ҫав йӗркепех пырать.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Тема | Малтанхи этап | Вӑтам этап | Лайӑх анман этап |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Мӗн асӑрхаттарма пултарать | Чылайӑшне хӑй тӑвать; планлани, ҫӗнӗ ятсем тата нумай ҫынлӑ вырӑнсем йывӑрланма пултараҫҫӗ | Пуҫлама тата утӑмсене тӑвасшӑн пулӑшни кирлӗ; сӑмахсем ҫӑмӑлрах тупӑнаҫҫӗ | Кунти пысӑк ӗҫсенче пулӑшни кирлӗ; туйӑмсем чи пӗлтерӗшлӗ |
+| Чылай чухне килӗшекен ӗҫсем | Карта вӑйисем, сӗтел ҫинчи вӑйӑсем, апат хатӗрлени, пахча ӗҫӗсем, ҫырни, тухса ҫӳрени, пӗрлешӳсем | Пусмӑ хума, уйӑрса лартма, апат хатӗрлевӗн ансат утӑмӗсем, юрлама, сӑнӳкерчӗк альбомӗсем, пӗрле ҫӳрени | Юратнӑ кӗвӗсем, алӑна ҫӑмӑл хупни, тытма ҫӑмӑл япаласем, вуласа пани, тулашра ларасси |
+| Сирӗн вырӑн | Партнер: мӗнле пулӑшни кирлӗне ыйтӑр | Хатӗрлӗр, кӑтартӑр, йывӑр пайсене тӑвӑр | Ӗҫе ун патне илсе килӗр; сирӗн айӗнче пулни — вӑл ӗҫех |
+| Тата шухӑшсем | [Малтанхи этап](/activities/early-stage/) | [Вӑтам этап](/activities/middle-stage/) | [Лайӑх анман этап](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Деменципе пурӑнакан ҫынпа ӗҫе мӗнле пуҫламалла?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Пӗчӗкрен пуҫлӑр, ун айӗнче пуҫлӑр тата «ҫапла» темелле ҫӑмӑл тӑвӑр. Нумай ҫынсем хутшӑнасшӑн, анчах планлама е пуҫлама йывӑр туйма пултараҫҫӗ.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Унӑн чи лайӑх вӑхӑтне суйлӑр,** чылай чухне ирхине.
+2. **Малтан йӑлтах хатӗрлӗр,** ҫакна май тӳрех пуҫлама пулать.
+3. **Пулӑшнине ыйтӑр, экзамен мар:** «Ку япаласене пӗччен пулӑшма пултаратӑр-и?»
+4. **Эсир хӑвӑр пуҫлӑр.** Пӗрремӗш пусмӑна хувӑр та унӑн хутшӑннине кӗтӗр. Кӑтартни ăнлантарнинчен лайӑхрах ӗҫлет.
+5. **Пӗр утӑма пӗрре сӗнӗр.**
+6. **Чи йывӑр пайне эсир тытӑр.** Alzheimer's Association япаласене виҫме хӑвӑр та, пӑтлама кашӑка парма сӗнет.
+7. **Унӑн хӑй мелӗпе тӑвине юрӑхлӑр.** Пусмӑ урӑхларах хунӑ та юрӑхлӑ.
+8. **Хавас пулман чухне чарӑнӑр.** Куҫӑнни, ҫӗкленни е «эпӗ пултараймастӑп» тени — улшӑнма е канма сӑлтав.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Тата пӑхӑр: [пӗрле мӗнле вӑйлама](/caregiving/how-to-play-together/) тата [калаҫу сӗнӗвӗсем](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Килти кунти ӗҫсем
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Кил ӗҫӗсем паллӑ тата усӑллӑ, ҫавна май вӗсемпе пуҫлама ҫӑмӑл. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ҫынсем юратма пултарнӑ ӗҫсен хушшинче савӑт ҫуни, сӗтел хатӗрлени, шӑлни, ҫыру уйӑрни тата пусмӑ хума асӑнать. Туллирех [килти ӗҫсем](/activities/household-tasks/) страницинче.
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Ӑшӑ пусмӑсене хувӑр.** Пусмӑ ӑшӑтракан аппаратран пӗр корпана сӗтел ҫине выляр та пӗрле хувӑр. Каярах вӗсене чӗм-чӗм туса вылясси те усӑллӑ.
+2. **Носкисене пӗрлештерӗр.** Пӗр тӗс маррисенчен пуҫлӑр. Каярах ҫутӑсене тӗксӗмрисенчен уйӑрасси те ҫителӗклӗ.
+3. **Сӗтел хатӗрлӗр.** Пӗр вӑхӑтра пӗр тӗс япалана парӑр. Пӗр вырӑна хӑвӑр хатӗрлесе кӑтартӑр.
+4. **Савӑта ҫӑр е шӑлӑр.** Ӑшӑ купӑсталлӑ шыв тата ҫӗмренмен савӑт. Ларса шӑлни урасене ҫӑмӑлрах.
+5. **Сӗтеле шӑлӑр.** Ҫӗкленин хыҫҫӑн нӳрӗк тутӑра парӑр. Ку алӑсем валли чӑн ӗҫ.
+6. **Ҫыру уйӑрӑр.** Каталогсене тата кирлӗ мар ҫырусене «упрасшӑн» тата «ҫӗмресшӗн» уйӑрӑр. Чӑн кивҫесене вырӑнта ан хӑварӑр.
+7. **Купонсем касӑр.** Тӗпренчӗксӗр хаҫатпа магазин листовкисем. Каярах юратнӑ апатсене ҫавӑрса палӑртни те килӗшет.
+8. **Укҫа уйӑрӑр.** Укҫана стакансене уйӑрӑр е рулонсем туса хурӑр. Ҫын япалана ҫӑвара хурать пулсан, пӗчӗк япаласемпе ан ӗҫлӗр.
+9. **Шӑлӑр е тусан пӑхӑр.** Терраса ҫӑмӑл сапка е пуканран тытса туса пӑхма пултаракан хатӗр.
+10. **Апат хатӗрлеме пулӑшӑр.** Пахчасене ҫума, салата тӑркалашлама, пӑтратма. Ҫӗҫӗпе вӗри-шӑри эсир тытӑр.
+11. **Ҫемье рецепчӗкӗпе пирӗк пӗҫерӗр.** Алӑпа ҫырнӑ карточка пур пулсан, ӑна усӑ курӑр. Каярах ҫын тӗрӗслесе пӑхакан пулма пултарать.
+12. **Офис ӗҫӗсем тӑвӑр.** Ҫыру хума, конверта шыра та марка лартма е пӗрле магазин списокне ҫырма пулать.
 
-## Music
+## Музыка
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Паллӑ кӗвӗсем сӑмахсем йывӑр пулнӑ чухне те ҫын патне ҫитме пултараҫҫӗ. [Alzheimer's Association музыка пирки сӗнӗвӗсем](https://www.alz.org/help-support/caregiving/daily-care/art-music) паллӑ кӗвӗсем, рекламӑсӑр вӑхӑт тата сӳнтернӗ телевизор усӑ курма сӗнет. [Музыка ӗҫӗсем](/activities/music/) страницине те пӑхӑр.
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Хӑйӗн списокне хатӗрлӗр.** Ҫамрӑк чухне, туйра, чиркӳре тата унӑн культуринче итленӗ кӗвӗсем.
+14. **Пӗрле юрлӑр.** Эсир хӑвӑр пуҫлӑр. Мӑкӑртатни е итлесси те ҫителӗклӗ.
+15. **Темпа тытӑр.** Алӑ çупӑр, чӗрӗне çапӑр е алӑ барабанне çапӑр. Ларса та, лайӑх анман этапра та пулать.
+16. **Ташлӑр.** Кухньӑра ҫӑмӑл ташӑр е ларса алӑсене тытса хускалӑр.
+17. **Пӗтӗм альбома итлӗр.** Юратнӑ альбома пуҫламӑшӗнчен вӗҫне таран, кофе ӗҫсе, ытти шута ан илӗр.
+18. **Кӗвӗ ҫинчен калаҫӑр.** Фактсем мар, аса илӳсем ыйтӑр: «Эсир ҫӳрекен ташӑсене аса илӗр-ха».
+19. **Юратнӑ мюзикла е концерт видео пӑхӑр.** Юратнӑ спектакль каҫхи вӑхӑт валли лайӑх. Кирлӗ чухне чарӑнӑр.
+20. **Паллӑ инструмента çапӑр.** Пианинопа çапнӑ ҫын ансат пьесӑсене юратма пултарать; каярах пӗр-икӗ нота пӗрле çапни те пулать.
+21. **Чӑн кӗвӗ итлӗр.** Кӗскерех общество концертӗ е хор репетици. Тухӑҫ патӗнчерех ларӑр.
 
-## Reminiscence: photos, objects and stories
+## Аса илӳ: сӑнӳкерчӗксем, япаласем, калавсем
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Иртнӗ вӑхӑта пӗрле тӗрӗслесе хаваслӑнӑр, тӗрӗслевсӗр. «Аса илес-и?» е «Ку кам?» ыйтӑвӗсене ан усӑ курӑр, уҫӑ сӗнӳсемпе калаҫӑр. [Аса илӳ ӗҫӗсем](/activities/reminiscence/) страницине те пӑхӑр.
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Сӑнӳкерчӗк альбомне пӑхӑр.** Курнине калӑр: «Мӗн тумлӑн кӗпе! Ҫак кун ҫинчен каласам-ши». Ҫын усӑ куракан ятсене ҫав пекех йышӑнӑр.
+23. **Аса илӳ коробкине хатӗрлӗр.** Ун пурнӑҫӗнчен япаласем вылянӑ коробка: ӗҫ ячӗ, рецепт карточки. Япаласене пӗршер пӗрре кӑларӑр.
+24. **Пурнӑҫ ҫинчен кӗске кӗнеке пуҫлӑр.** Кашни страницӑра сахал сӑнӳкерчӗк тата пысӑк ҫырнисем. Ку ҫӗнӗ пулӑшакансене ҫынсене лайӑхрах палма пулӑшать.
+25. **Калаҫу карточкисемпе усӑ курӑр.** [Калаҫу карточкисем](/games/conversation-cards/) сӑнӳкерчӗкпе уҫӑ ыйтӑва пӗрлештереҫҫӗ.
+26. **Ҫемье сӑнӳкерчӗкӗсемпе вӑйӑ хатӗрлӗр.** [Сӑнӳкерчӗк пӗрлештерӗвӗ](/games/photo-pairs/) сирӗн сӑнӳкерчӗксене пӗрлештермелли вӑйӑ тума пултарать.
+27. **Килти видеосем е авалхи передачӑсене пӑхӑр.** Ыйтусӑр пӗрле калаҫӑр.
+28. **Ун ӗҫне кӑтартакан япаласене тытса пӑхӑр.** Ключ, стетоскоп, кӗнеке. Алӑсем чылай чухне калав пуҫтараҫҫӗ.
+29. **Ачалӑх апатӗнчен пӗр япалана хатӗрлӗр.** Ҫын пӑтратма, тӗрӗслеме е кухньӑра сирӗнпе ларама пултарать.
+30. **Ун пурӑннӑ вырӑнсен картине пӑхӑр.** Пысӑк атласпа паллӑ ҫулсене кӑтартса калаҫӑр.
 
-## Creative activities
+## Хатӗрлев ӗҫӗсем
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Ӳкересси — ӗҫре, вӗҫленнӗ ӗҫре мар. Хатӗр-хӗтӗре ҫынна юрӑхлӑ тата хӑрушсӑр тытӑр. [Усӑллӑ ӗҫсем](/activities/arts-and-crafts/) страницине те пӑхӑр.
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Акварельпе ӳкерӗр.** Хулӑм хутӑ, сахал тӗс. Пуҫлама йывӑр пулсан, пӗрремӗш йӗрсене пӗрле тӑвӑр.
+32. **Ҫынна юрӑхлӑ ӳкерчӗксене сӑрӑр.** Чечексем е покрывӑсем, мультфильмсем мар. Пирӗн [сӑракан страницӑсем](/games/coloring/) экранта та, пичетлесе те усӑ курма юрӑхлӑ.
+33. **Коллаж тӑвӑр.** Журналтан пахча, машина е апат сӑнӳкерчӗкӗсене татса ҫыпӑҫтарӑр. Каярах сӑнӳкерчӗк суйласси кӑна та ҫителӗклӗ.
+34. **Чечексене йӗркелӗр.** Магазинран илнӗ чечексем тата ваза. Каярах пӗр-икӗ чечеке банка хушшине хурса лартни те ҫителет.
+35. **Пӗрле ҫӗрме е крючокпа ҫӗрме.** Пысӑк инӗсене ансат йӗрсем. Каярах ҫипе йӑри ҫавӑрни те пулать.
+36. **Ҫемьере открыткасем тӑвӑр.** Чӑн ҫынсем валли ҫуралнӑ кун е сывлӑх сунни открыткисене штампласа, алӑ ҫырса е илемлетсе хатӗрлӗр.
+37. **Ҫӑвӑра типӗнекен глинӑпа ӗҫлӗр.** Пӗчӗк турилкка пусӑр. Токсик мар хатӗр-хӗтӗрпе усӑ курӑр та айӗнче пулӑр.
+38. **Йывӑҫа шӑтӑрӑр та йӗркелӗр.** Малтан хатӗрленӗ кайӑк пӳртӗ комплектӗ тата наждак, электрӗк инструментсӗр. [Арҫынсем валли ӗҫсем](/activities/for-men/) страницине те пӑхӑр.
+39. **Ҫыру ҫырӑр е каласа парӑр.** Ачине е тусне. Ҫырасси йывӑр пулсан, ҫын каларӗ, эсир ҫырӑр.
 
-## Outdoors and gardening
+## Тулашри тата пахча ӗҫӗсем
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Уҫӑ сывлӑшпа кун ҫути лайӑх юлташсем. [Тулашри тата пахча ӗҫӗсем](/activities/outdoor-and-gardening/) страницине пӑхӑр.
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Ӳсен-тӑрансене шыв парӑр.** Пӗчӗк лейка тата пӗр-икӗ кашпо. Кашни кун шыв пани кунӑ пӗр йӗрке кӳрет.
+41. **Кашпора ӳсен-тӑран лартӑр.** Сӗтел ҫине лартӑр, чунне ан илӗр. Расса йывӑҫӗсем вӑрринчен ҫӑмӑлрах.
+42. **Курак татӑр е вилнӗ чечексене касӑр.** Перчаткӑпа, пӗр пӗчӗк вырӑнран пуҫласа.
+43. **Ҫулҫӑ пухӑр.** Пӗчӗк вырӑнта. Каярах пакет уҫса тӑни те чӑн ӗҫ.
+44. **Паллӑ ҫулпа ҫӳрӗр.** Ҫурт тавра е почта яшӗкне таран. Кӗскерех ҫӳресси те юрӑхлӑ.
+45. **Тулашра пӗрле ларӑр.** Ҫӑмӑл кун пуканӗ ҫинче. Пӗлӗтсене е иртекаҫҫине сӑнаса ларӑр.
+46. **Кайӑксене ҫитерӗр.** Пӗрле аптӑраса лартӑр та чӳрече айӗнчен пӑхӑр.
+47. **Машина ҫӑрӑр.** Чӑлак, губка, ӑшӑ каҫ. Дисксене ҫуни ансат пӗр утӑмлӑ ӗҫ.
 
-## Sensory activities
+## Туйӑм ӗҫӗсем
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Деменци вӑйланнӑ май тытса курни, шӑршни, тутӑ туйни, илтни тата курни пӗлтерӗшлӗрех пулса пыраҫҫӗ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) лайӑх анман этапсем валли музыка, тытса курма япаласем тата алӑ массажӗ пирки асӑнать. Малтан аллергие тата пычӑклану хӑрушлӑхне тӗрӗслӗр; [туйӑм ӗҫӗсем](/activities/sensory/) страницине пӑхӑр.
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Алӑ массажӗ парӑр.** Малтан ыйтӑр та пӗчӗк кремпе усӑ курӑр. Тире е аллергие пирки шанчӑклӑ пулсан, шӑршӑсӑр мелӗ суйлӑр.
+49. **Пусмӑ тӗсӗсене тытса пӑхӑр.** Бархат, вельвет, ҫӑм тата атлас пухса лартнӑ корзина.
+50. **Курӑкпа кофена шӑршӑр.** Ҫӗнӗ мята е розмарина алӑра пусӑр. Сывламалли йывӑрлӑх пур пулсан, вӑйлӑ шӑршӑсене ан усӑ курӑр.
+51. **Ҫӳҫне майлӑр.** Ҫын кӑмӑлпа илтнине, ҫӑмӑл тата майӗпен майлӑр.
+52. **Ӑшӑ тутӑ парӑр.** Сивӗ кун алӑна тата питне. Малтан ӑшӑлӑхне тӗрӗслӗр.
+53. **Ӗҫ фартукне тытса пӑхӑр.** Ҫирӗп ҫыпӑҫтарнӑ пысӑк пуҫӑмсем тата молнисене. Ним те уйрӑлмасть тесе тӗрӗслӗр.
+54. **Юратнӑ ҫимӗҫрен пӗчӗк парӑр.** Пӗчӗк кашӑк, ҫын хӑрушсӑр ҫима пултаракан консистенцире.
+55. **Ҫутҫанталӑк сассисем итлӗр.** Ҫумӑр, хӳлӗм е кайӑк сассисем, сахал сасӑпа.
+56. **Ҫӑмӑл ӗҫе пӑхӑр.** Пулӑ аквариумӗ, ҫутҫанталӑк видео е юр ҫӑваканни.
 
-## Games and puzzles
+## Вӑйӑсем тата задачӑсем
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Вӑйӑсем вӑхӑт, очко е пусару ҫук чухне лайӑх ӗҫлеҫҫӗ. Тӗрӗслев пек туйӑнма пуҫласан, хута илсе хӑварӑр. [Приложенисемпе вӑйӑсене мӗнле суйламалли](/caregiving/choosing-apps-and-games/) тата [пӗлӳ вӑйисем](/brain-health/brain-games/) страницисене те пӑхӑр.
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Сӑнӳкерчӗксене пӗрлештерӗр.** [Сӑнӳкерчӗк мӑкӑрчӗксем](/games/picture-pairs/) сӑнӳкерчӗксене уҫӑ туса хӑма май парать, ҫавна май ӑна аса илме мар, асӑрхарса пӑхма пулать.
+58. **Пӗрешкел сӑнӳкерчӗке тупӑр.** [Пӗрешкелне туп](/games/find-the-same/) икӗ таран тӑватӑ таран вариант парать. Кашни сӑнӳкерчӗк ҫинчен калаҫӑр.
+59. **Корзинӑсене уйӑрӑр.** [Пӗрле уйӑрса лартни](/games/sort-together/) экран ҫинче носки уйӑрни пек.
+60. **Пысӑк пайлӑ пазл тӑвӑр.** Ҫынна юрӑхлӑ сӑнсем, ансат пай шучӗ. [Сӑнӳкерчӗк пазлӗ](/games/picture-puzzle/) тулли ӳкерчӗке курӑмлӑ тытать. Туллирех [деменци валли пазлсем](/activities/puzzles/) страницинче.
+61. **Авалхи карта вӑйине вылӑр.** Ҫын ҫулсерен вылянӑ вӑйӑна. Каярах колодӑна тӗсӗпе уйӑрни те хӑй тӗллӗн вӑйӑ.
+62. **Домино вылӑр.** Вӗҫсене пӗрлештерӗр. Каярах плиткӑсене ретпе выласси те юрӑхлӑ.
+63. **Пысӑк ҫыруллӑ сӑмах тупмалли ӗҫ тӑрӑшӑр.** Пирӗн [сӑмах тупмалли](/games/word-search/) вӑйӑра сӑмахсем сылтӑмла тата аялалла кӑна каҫаҫҫӗ, пичетлеме те юрӑхлӑ.
+64. **Паллӑ каласӑва вӗҫлӗр.** [Каласӑва вӗҫле](/games/finish-the-saying/) кирлӗ чухне вӗҫӗне кӑтартма парать.
+65. **Сӑнӳкерчӗклӗ бинго вылӑр.** [Сӑнӳкерчӗклӗ бинго](/games/picture-bingo/) ҫемьесемпе ушкӑнсем валли лайӑх. Карточкӑсене палӑртма хӑтлӑха пулӑшӑр.
+66. **Шашка вылӑр.** Йӗркесене ҫӑмӑл тытӑр. Пӗрле калаҫса фигурасене куҫарни те ҫителет.
 
-## Movement
+## Хускану
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA ҫӳрени, стационар велосипед, ҫунмалли лента, ҫӑмӑл мяч е шарпа ывӑтни, суп консервискисене ҫӗклени тата ватӑ ҫынсем валли упражнени видеосем сӗнет. Ҫӗнӗ ӗҫе пуҫиччен, уйрӑмах виҫе тӑраканлӑх йывӑр пулсан, врачпа сӳтсе явӑр.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Шарпа ывӑтӑр.** Пӗр-пӗрне кӗтсе ларӑр. Вӑл ҫӑмӑл куҫать, ҫавна май тытма ансат.
+68. **Ватӑ ҫынсем валли хатӗрленӗ ларса тӑвакан упражнени видеона** пӗрле тӑвӑр.
+69. **Лентапа ҫунӑр.** Ларса ҫӑмӑл лентапа алӑсене ҫунӑр.
+70. **Суп консервискисене ҫӗклӗр.** Алӑсене ҫӑмӑл ҫӗклӗр, ҫӑлтав пулсан кӗвӗпе.
+71. **Стационар велосипеда ҫӳрӗр.** Пӗр-икӗ ҫӑмӑл минут, сирӗн айӗнче.
+72. **Шарфсемпе ташлӑр.** Ҫӑмӑл шарфсене кӗвӗпе хускатӑр, ларса е тӑраса.
+73. **Тӗллевпе ҫӳрӗр.** Ҫыру ярма е кофе илме. Ҫӳремелли сӑлтав пурри ҫутӑрах туйӑнать.
+74. **Пӗрле ҫӑмӑл сывлани.** [Ҫӑмӑл сывлани](/games/calm-breathing/) пулӑшнипе пӗрле чакӑрӑр.
 
-## Social activities
+## Пӗрлехлӗ ӗҫсем
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Ятсене асӑнма йывӑр пулсан та ҫынсемпе пулни пӗлтерӗшлӗ. Пӗчӗк ушкӑнсем пысӑкрисенчен ҫӑмӑлрах. NIA ҫын килекен ҫынна аса илместе пултарнине, анчах унпа пулнине юратма пултарнине палӑртать. [Килни](/activities/visiting/) страницине те пӑхӑр.
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Пӗрре икӗ ҫын кӑна килтӗр.** Шӑп вырӑнта кӗскерех тӗл пулни, пӑхма сӑнӳкерчӗксемпе.
+76. **Ҫемьепе видео ҫыхӑнӑв.** Кӗске калаҫу, пӗр вӑхӑтра пӗр сасӑ. [Телефон тата видео калаҫу](/activities/phone-and-video-calls/) страницине пӑхӑр.
+77. **Аса илӳ кафе пӑхӑр.** Деменципе пурӑнакан ҫынсемпе вӗсене пӑхакансем валли уҫӑ тӗл пулмалли вӑхӑтсем. Айӗнчи «Area Agency on Aging» учрежденинчен мӗн пуррине ыйтса пӗлӗр.
+78. **Шӑп вӑхӑтра тухса ҫийӗр.** NIA паллӑ, шӑп ресторанта нумай ҫын ҫук чухне ҫийме сӗнет, туалет патӗнчи сӗтеле.
+79. **Ватӑ ҫынсем центрӗне е кунти программӑна ҫитӗр.** Вӑл ҫынсемпе пулать, эсир канатӑр.
+80. **Ачасемпе вӑхӑт ирттерӗр.** Ачӑ-пӑчӑпа кӗскерех, ҫӑмӑл тӗл пулни е пӗчӗк ача валли кӗнеке вулани.
+81. **Кофе ӗҫсе пӗрле хаҫат пӑхӑр.** Заголовоксене сасӑпа вулӑр. Йӗрке хыпарсенчен пӗлтерӗшлӗрех.
+82. **Урӑх ҫынна пулӑшӑр.** Чиркӳ программисене хусӑр е суседа валли открытка хатӗрлӗр.
 
-## Faith and spiritual activities
+## Тӗн тата чун ӗҫӗсем
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Ҫын хӑйне йышӑннӑ йӑла йӗркине тытса пырӑр, ҫавӑн ҫуккине те юрӑхлӑр. NIA паллӑ служба, вулав, сӑваплӑ кӗвӗсем, кӗл, медитаци тата уяв йӗркисем пирки асӑнать.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Паллӑ служба ҫитӗр.** Шӑпрах вӑхӑтне суйлӑр, йӑл-йӑр патӗнче ларӑр, унта пулакансене деменци пирки пӗлтерӗр.
+84. **Тухма йывӑр кунсенче служба онлайн пӑхӑр.**
+85. **Пӗрле кӗл тунӑр е вулӑр.** Паллӑ сӑмахсене ҫӑмӑл вулӑр. Ҫын паллакан пайӗсене пӗрле калама пултарать.
+86. **Хӑйсен йӑли тӑрӑх гимнсем е сӑваплӑ кӗвӗсем юрлӑр.**
+87. **Уяв йӗркисене упраса хӑварӑр.** Батарейллӑ свещӑсем, пил, яланах усӑ курнӑ илемсем.
+88. **Шӑп вӑхӑт ирттерӗр.** Пахчара е хӗвел аннӑ патӗнче пӗрле ларӑр.
 
-## Pets and animals
+## Чӗр-чунсем тата хайвансем
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA чӗр-чуна ҫитерме, майлама, ҫӳретсе ҫӳреме е унпа ларма тата тытма сӗнет.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Ҫӑмӑл йытӑна е кушака майлӑр,** вӑрӑм тата ҫӑмӑл хусканусемпе.
+90. **Чӗр-чуна пӗрле ҫитерӗр.** Виҫне эсир, ӑна ҫын парӗ.
+91. **Йытӑпа пӗрле ҫӳрӗр.** Тыткана эсир тытӑр.
+92. **Чӗр-чуна ҫамӑк ҫине лартса тытӑр.** Ҫӑмӑл кушак ҫӑмӑл тума пултарать.
+93. **Килекен хайвансене йышӑнӑр.** Хӑш-пӗр пӑхмалли вырӑнсенче тата кунти программӑсенче хайвансемпе тӗл пулусем пулать. Айӗнчерех ыйтса пӗлӗр.
+94. **Чӑнах пек курӑнакан ҫӑмӑл чӗр-чуна сӗнӗр.** Чӗр-чун ҫук пулсан, хӑш-пӗр ҫынсем реаллӑ тӳпе кушака е йытӑна тытма юратаҫҫӗ. Ансат сӗнӗр, вӑйӑ вылянки пек мар, «ҫук» тенипе те килӗшӗр.
 
-## Seasonal activities
+## Ҫулталӑк ӗҫӗсем
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Йӑласене упрарӑр, анчах ҫӑмӑллетӗр. NIA нумай ӗҫлӗ уявсенче тӗрӗс шутлама тата канмалли шӑп вырӑн хатӗрлеме сӗнет.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Ҫулталӑка кура хатӗрлӗр.** Кавӑн, венок е сӗтел ҫинче ҫӗнӗ чечексем.
+96. **Уяв ҫимӗҫӗ хатӗрлӗр.** Чуста ҫавӑрӑр е печеньене илемлӗр. Печӗ эсир тытӑр.
+97. **Илемсене ҫакӑр.** Ҫӗмренмен илемсене, пӗршер пӗрре парса.
+98. **Ҫутӑсене пӑхма ҫӳрӗр.** Каҫхи кӗске ҫӳрени пӗрле пулнинчен ытла ним те ыйтмасть.
+99. **Ҫуркунне чечек пӑррисем лартӑр.** Кӗркунне кашпора лартӑр та кӑларса тухнине кӗтӗр.
+100. **Кукуруза хута тӑрӑр е пӑрҫа татӑр.** Ҫулла терраса ҫинчи ӗҫ, ҫамӑкра корпа.
+101. **Уяв открыткисене хатӗрлӗр.** Ҫын алӑ ҫырӗ, марка лартӗ е хупӗ; адрессене эсир тытӑр.
 
-## What if an activity is not working?
+## Ӗҫ килӗшмест пулсан мӗн тумалла?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Чарӑнӑр та каярах урӑхне тӑрӑшӑр. NIA кӑшкӑрнине сӑнама тата ҫын кӑмӑл пулсан пӑхса кӑна ларма ирӗк парма сӗнет. «Ҫук» тени чылай чухне ӗҫ йывӑр, вӑхӑт тӗрӗс мар е ырату, выҫӑлӑх, шав сассисем хӑрушлӑх пани пулма пултарать. Ӗҫе пӗчӗклетӗр, ирхинчерех тӑрӑшӑр е хӑвӑр пуҫлӑр та ҫын хутшӑннине пӑхӑр. [Ан килет тесе каланӑ чухне](/caregiving/when-they-say-no/) тата [каҫхи хӑрушлӑх](/caregiving/late-day-restlessness/) страницисене пӑхӑр.
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Ӗҫсене ҫимӗҫпе кану хушшине вырнаҫтарма [ҫӑмӑл кун йӗрки](/activities/daily-routine/) страницине пӑхӑр. Хатӗр тытмалли хатӗрсем валли [пичетлемелли ӗҫсем](/activities/printable/), ушкӑн ертсен [пӑхмалли вырӑнри ушкӑн ӗҫӗсем](/activities/care-home-groups/) страницисемпе усӑ курӑр. Хӑвӑн канӑвӑ та пӗлтерӗшлӗ: [пӑхса тӑракан ҫын хӑйне пӑхни](/caregiving/caregiver-self-care/) страницине пӑхӑр.

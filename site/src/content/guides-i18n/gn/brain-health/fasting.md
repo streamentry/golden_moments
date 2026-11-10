@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Karukuaa sapyʼa ha deménsia: mbaʼépa ojehechakuaa"
+seoTitle: "Karukuaa sapyʼa ha deménsia: mbaʼépa ojehechakuaa"
+description: "Ndaipóri heta kuaapy tapicha rehegua karukuaa sapyʼa ha deménsia rehe. Eikuaa mbaʼépa ikatu ombyai kakuaapávape ha mbaʼérepa tuicha hoʼu ha hoʼu y."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Ndaipóri kuaapy porã heʼíva karukuaa sapyʼa oñangarekóta térã omombeguéta
+  deménsia. Heta jehapereka oñemboʼe mymba rehe, ha umi jehapereka tapicha
+  kakuaapáva rehegua michĩ ha mbyky. Karukuaa sapyʼa ikatu ombyai
+  kakuaapávape: okañy pe peso ha pe tete kangue, osyry pe tuguy ryru oĩramo
+  pohã diabetes-pe g̃uarã, ndaipóri y hetaiterei ha hoʼa. Umi tapicha oikovéva
+  deménsiare, tuichavéva jepivegua haʼe oñemeʼẽ chupekuéra hoʼu ha hoʼu y
+  hetaiterei. Eñeʼẽ pohanohára ndive raẽ.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging heʼi ndaipóri kuaapy iporãitereíva oñemoñeʼẽ hag̃ua peteĩ karukuaa sapyʼa térã tembiʼu saʼive rehegua, avei kakuaapávape g̃uarã."
+  - "Heta jehapereka karukuaa ha tuja rapykuéri rehegua ou mymba rehegua, ha umi mbaʼe ojejuhúva ndahaʼéi katuete oñemboheko tapichápe."
+  - "Ikatu ohasa vai kakuaapávape: okañy pe peso ha pe tete kangue oñehaʼãrõʼỹre, osyry pe tuguy ryru oĩramo pohã diabetes-pe g̃uarã, ndaipóri y hetaiterei, akãjere ha hoʼa."
+  - "Umi tapicha oikovéva deménsiare sapyʼánte nderesarái hoʼu térã hoʼu y rehe, térã oimoʼã ojapóma hague. Tuichavéva jepivegua haʼe oñemeʼẽ chupekuéra hoʼu ha hoʼu y hetaiterei, ndahaʼéi arakaʼépa hoʼu."
+  - "Ani eipuru karukuaa sapyʼa peteĩ tapicha oikovéva deménsiare. Eñeʼẽ pohanohára térã tembiʼu kuaapýre ndive oñemoambue mboyve pe hoʼu rape."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "¿Karukuaa sapyʼa oñangarekópa Alzheimer-gui?"
+    a: "Ndaipóri kuaapy porã heʼíva upéicha oikoha. Heta jehapereka oñemboʼe mymba rehe, ha umi oñehaʼãva tapicha rehegua mbykymi, tuicha tapiakuéra térã ikyráva hetaiterei rehe, ha oñehaʼã peso saʼive rehe. National Institute on Aging heʼi ndaipóri kuaapy iporãitereíva oñemoñeʼẽ hag̃ua karukuaa sapyʼa tapichakuérape."
+  - q: "¿Karukuaa sapyʼa iporãpa kakuaapávape g̃uarã?"
+    a: "Ikatu nahániri. Karukuaa sapyʼa ikatu ombojevy pe peso ha pe tete kangue oñehaʼãrõʼỹre, ndaipóri y hetaiterei, akãjere ha hoʼa, ha ikatu omboguejyeterei pe tuguy ryru umi tapicha oipurúva insulina térã ambue pohã diabetes-pe g̃uarã. Mayo Clinic heʼi ikatu ndoikói umi tapicha ikatu hag̃uáicha okañy pe kangue ha hoʼa rehe. Eñeʼẽ pohanohára ndive eñehaʼã mboyve."
+  - q: "¿Ikatúpa peteĩ tapicha oikovéva deménsiare oñehaʼã karukuaa sapyʼa rehe?"
+    a: "Nahániri. Umi tapicha oikovéva deménsiare sapyʼánte hasy chupekuéra hoʼu ha hoʼu y hetaiterei, ha tembiʼu ndoiporãiva ikatu ombohetave mbaʼe vai rekove ha omboguejy pe peso. Karukuaa sapyʼa ombohetave mbaʼe ikatúva ombyai, ha ndoguerekói mbaʼe porã ojehechakuaáva. Eñehaʼãve tembiʼu jepigua, mbaʼe hoʼuseva ha hoʼu y hetaiterei."
+  - q: "¿Mbaʼe taʼangápa ohechauka peteĩ tapicha oikovéva deménsiare ndoʼúi térã ndoʼyúi hetaiterei?"
+    a: "Emaña okañýramo pe peso, ijao ipuʼakaʼíramo, kaneʼõ, kanguekue, hyepykue jepytaso, térã ombotove tembiʼu. National Institute on Aging omombeʼu ndaipóriramo y hetaiterei ikatu oĩ jurupyʼe, akãjere, korasõ pyaʼe ha ohecha mbaʼe ndaipóriva; avei ikatu ou deménsiagui. Emombeʼu ipohanohárape rehechámaramo koʼã mbaʼe."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Karukuaa sapyʼa, techapyrã ramo hoʼu peteĩ ára pukukue poapy aravo añónte térã omomichĩeterei mbaʼépa hoʼu mokõi árape jasy jave, ojehechakuaaeterei, ha oĩ marandu heʼíva ikatu oñangareko apytuʼũ rehe. Nde nderikakuaáramo, térã nde reñangarekoramo peteĩ tapicha oikovéva deménsiare, koʼápe oĩ mbaʼépa ohechauka añetehápe umi jehapereka, ha mbaʼérepa iporã jahecha porã.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Kóva marandu tuichakue, ndahaʼéi pohanohára ñeʼẽmeʼẽ. Ani eñepyrũ karukuaa sapyʼa rehe, térã ani emoambue mbaʼéichapa hoʼu pe tapicha reñangarekóva, eñeʼẽ raẽ pohanohára térã tembiʼu kuaapýre ndive. Ehecha ore [marandu pohanohára rehegua](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## ¿Karukuaa sapyʼa oñangarekópa deménsiagui?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Ndaipóri kuaapy porã heʼíva karukuaa sapyʼa oñangareko térã omombegue deménsia. National Institute on Aging (NIA) heʼi ndaipóri kuaapy iporãitereíva oñemoñeʼẽ hag̃ua peteĩ karukuaa sapyʼa térã tembiʼu saʼive rehegua, ha oñekotevẽve ojekuaa hekopete ha iporãpa, avei kakuaapávape g̃uarã ([NIA karukuaa ha tembiʼu saʼive rehegua](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Mbaʼérepa saʼieterei pe kuaapy
 
-The NIA gives several reasons:
+NIA omombeʼu heta mbaʼe:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Heta jehapereka oñemboʼe mymba rehe.** Umi jehapereka tyju, mberu, anguja ha kaʼi rehe ohechauka mbaʼe iporãva, ha katu umi mbaʼe ojejuhúva ndahaʼéi katuete oñemboheko tapichápe. Avei mymbápe, umi mbaʼe ojejuhúva ojuavy; oĩ anguja rehegua, tembiʼu saʼive omombyky pe tekove.
+- **Umi oñehaʼãva tapicha rehegua mbykymi.** Hetaiterei oiko arapokõindy térã jasýnte.
+- **Heta oñehaʼãva tapicha rehegua oñehaʼã peso saʼive rehe** umi tapicha ikyráva hetaiterei rehe, ndahaʼéi manduʼa térã deménsia rehe.
+- **Kakuaapáva saʼi oike.** Heta oñehaʼãvape oike tapicha 60 ary térã saʼive.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Peteĩ jehapereka 2026-pe ohecha karukuaa sapyʼa umi tapicha 60 ary ha hetaveguápe. Ojuhu pe kuaapy ko aty rehegua saʼietereiha gueteri, oĩ jehapereka michĩ, ojesareko sapyʼaiterei ha ojoavy pe oñemboʼéva. Umi mbaʼe ojejuhúva manduʼa ha apytuʼũ rehe ou peteĩ teĩ jehaperekágui, ndahaʼéi oñembojoajúvagui. Pe jehapereka avei heʼi oĩ jehapereka ombojoajúva hoʼu ára pukukue mbykymi térã karukuaa pukúva mbaʼe vai rehe, ha umi ohaihára heʼi kakuaapávape jahecha porãke ([jehapereka 2026 Nutrients-pe](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Oĩ kuaapýra oimoʼãva pe tete oñemoambue ha oipuru pe ñandy karukuaa aja ikatu ombyai apytuʼũ, ha katu kóva peteĩ oñehaʼãva ojehechakuaáva gueteri. NIA heʼi pe kuaapy ndoikói porãi gueteri.
 
-## What are the risks of fasting for older adults?
+## ¿Mbaʼépa ikatu ombyai kakuaapávape karukuaa sapyʼa rupi?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Karukuaa sapyʼa ndahaʼéi mbaʼe nombyairiva heta kakuaapávape g̃uarã. Ikatu ohasa koʼã mbaʼe:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Okañy pe peso oñehaʼãrõʼỹre.** Hoʼu saʼive pe tete oikotevẽvagui ikatu omboguejy pe peso ha omomichĩ pe tete kangue mbarete, ha upéicha pe tapicha ikangyve.
+- **Okañy pe kangue ha pe tete kangue.** Peteĩ oñehaʼãva mokõi ary pukukue, NIA oipytyvõva, tembiʼu saʼive rehe umi tapicha kyra ha mbyte aryguápe, ohechauka michĩmi okañy pe kangue ha pe tete kangue.
+- **Osyry pe tuguy ryru oĩramo pohã diabetes-pe g̃uarã.** Umi tapicha oipurúva insulina térã ambue pohã diabetes-pe g̃uarã ikatu osyryeterei pe tuguy ryru ohejáramo térã ombotapykuevéramo hoʼu, heʼi haguéicha [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Pe tuguy ryru osyrýva ikatu ombohasa akãjere, apytuʼũ vai ha ñekoʼõi.
+- **Ndaipóri y hetaiterei.** Ndoʼyúiramo avei hoʼu jave, pe tapicha ikatu ndoguerekói y hetaiterei.
+- **Akãjere ha hoʼa.** Mayo Clinic heʼi karukuaa sapyʼa ikatu ombohasa kaneʼõ ha akãjere eterei, ha ikatu ndoikói umi tapicha ikatu hag̃uáicha okañy pe kangue ha hoʼa rehe ([Mayo Clinic karukuaa sapyʼa rehegua](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Ambue mbaʼe ikatúva ohasa.** Mayo Clinic avei omombeʼu akãrasy, pyʼa ñemoambue ha hyepykue jepytaso, ha heʼi oĩ kuaapy ohechaukáva karukuaa 16 aravo ha hoʼu 8 aravo pukukue ikatu ombohetave mbaʼe vai korasõ rehegua, ambue hoʼu rapekuéra ndive oñembojojávo. Ko kuaapy ndoikói porãi gueteri.
 
-## Why is eating enough the bigger concern with dementia?
+## Mbaʼérepa tuichavéva jepivegua hoʼu ha hoʼu y hetaiterei deménsia jave?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Umi tapicha oikovéva deménsiare, pe apañuái oĩva meme haʼe ojuhukuaa **heta** tembiʼu ha y, ndahaʼéi hetaiterei. Alzheimer's Association omyesakã umi tapicha deménsia mbyte ha pahápe oikóva ikatu oñemokangy tembiʼu poravorã rehe, nderesarái hoʼu rehe, térã oimoʼã hoʼúma hague. Avei heʼi tembiʼu ndoiporãiva ikatu ombohetave mbaʼe vai rekove ha omboguejy pe peso ([Alzheimer's Association tembiʼu ha karu rehegua](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society heʼi ndoʼúiramo hetaiterei ikatu okañy pe peso, omomichĩ pe kangue mbarete, ombohasa kaneʼõ ha kanguekue, ha upéicha pe tapicha ikangyve ha hasyve chupe okuera hag̃ua mbaʼasy michĩvagui ([Alzheimer's Society tembiʼu hoʼuse rehegua](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Koʼã mbaʼére, karukuaa sapyʼa ndahaʼéi porã peteĩ tapicha oikovéva deménsiare g̃uarã.** Peteĩ tembiʼu ojehejáva ikatu oñemoambue pyaʼe tembiʼu ojehejapaitévare. Oimeraẽ ñemoambue mbaʼéichapa hoʼu peteĩ tapicha oikovéva deménsiare oikotevẽ ipohanohára térã tembiʼu kuaapýra ohecha hag̃ua.
 
-## What are the warning signs of poor eating or drinking?
+## Mbaʼe taʼangápa ohechauka ndoʼúi térã ndoʼyúi porãha?
 
-Watch for:
+Emaña koʼã mbaʼére:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Okañy pe peso**, térã ijao ipuʼakaʼive.
+- **Oheja tembiʼu térã ombotove tembiʼu**, térã oguereko tembiʼu ijuru ryepýpe.
+- **Kaneʼõ térã kanguekue.**
+- **Hyepykue jepytaso**, ikatúva ojoaju tembiʼu ha ndaipóri y hetaiterei rehe.
+- **Taʼanga ndaipóri y hetaiterei rehegua.** NIA omombeʼu jurupyʼe, akãjere, korasõ pyaʼe ha ohecha mbaʼe ndaipóriva; avei ikatu ou deménsiagui ([NIA mbaʼasy oĩva meme rehegua](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Ndoʼusevéi hetaiterei ikatu oĩ heta mbaʼére: tãi hasy térã tãi apopyrã oñemýiva, pohã pyahu, pyʼapy, hyepykue jepytaso, omýi saʼive, térã oñemoambue mbaʼéichapa ohaʼã ha ohyakuã tembiʼu. Emombeʼu pe tapicha pohanohárape oimeraẽ koʼã taʼangágui. Haʼe ikatu oheka mbaʼérepa oiko ha ikatu heʼi tembiʼu kuaapýra térã pohã moĩve.
 
-## How can you help someone eat and drink enough?
+## Mbaʼéichapa ikatu eipytyvõ peteĩ tapichápe hoʼu ha hoʼu y hetaiterei hag̃ua?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Emeʼẽ tembiʼu michĩ ha mbaʼe hoʼupy pyʼỹinte**, mbohapy tembiʼu guasu rangue.
+- **Emeʼẽ tembiʼu oipotavéva**, ha eñeñongatu oñemoambuéramo mbaʼépa ohaʼã porã. Tembiʼu heʼẽva ikatu iporã ndoʼusevéiramo; eporandu pohanohárape oĩramo mbaʼérepa ani heʼẽ hetaiterei.
+- **Eheja y hiʼaguĩva** ha emeʼẽ kagua michĩ ára pukukue. Jukysy, yva, mbaʼe apuʼa ha kamby apuʼa avei oipytyvõ.
+- **Peju karu oñondivepa** ikatúramo. Karu haʼe ára oñondive hag̃ua, ndahaʼéi tembiapo ojejapo pyaʼeva hag̃ua.
+- **Eñehaʼã tembiʼu ipo pegua**, techapyrã ramo sánduche, yva pehẽngue térã ryguasu raku pehẽngue, hasyramo tenedor ha kyse puru.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Ore [tembiʼu rape rehegua](/brain-health/diet/) oguereko hetave ñeʼẽporã karu jave g̃uarã. Oipytyvõvo tembiʼu ñembosakoʼípe avei ikatu peteĩ tembiapo porã oñondive hag̃ua; ehecha [tembiapo óga ryepýpe](/activities/household-tasks/).
 
-## Talk with a doctor
+## Eñeʼẽ pohanohára ndive
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Eñepyrũ mboyve peteĩ karukuaa rape nde reheve, eñeʼẽ pohanohára térã tembiʼu kuaapýre ndive, avei reipurúramo pohã diabetes térã tuguy ryru yvate rehegua, okañýramo nde peso ramove, térã reʼáramo. Peteĩ tapicha oikovéva deménsiare rehegua, eporandu ipohanohárape mboypa oikotevẽ hoʼu ha hoʼu y ára peteĩteĩme, ndahaʼéi karukuaa sapyʼa rehe.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Eheka pytyvõ pyaʼe rehupytyrõ apytuʼũ ñemoambue sapyʼa, reʼa, térã taʼanga ohechaukáva tuguy ryru osyryetereiha ha ndoikoporãiva pyaʼe.

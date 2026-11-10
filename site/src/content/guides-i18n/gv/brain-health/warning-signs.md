@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Cowraghyn toshiaght meenaghtys chreeney as tra dy akin lhiaghteyr"
+seoTitle: "Cowraghyn toshiaght meenaghtys chreeney as tra dy akin lhiaghteyr"
+description: "Cowraghyn cadjin toshiaght meenaghtys chreeney, cre'n aght t'ad gollrish shenn eash, oyryn elley, as kys dy yannoo aarloo son lhiaghteyr."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Foddee coayl cooinaghtyn ta cur seaghyn er bea gagh laa, doilleeid lesh obbraghyn ta enney ort,
+  mee-hushtey mychione traa ny boayl, as caghlaaghyn ayns aigney ny briwnys ve cowraghyn toshiaght
+  meenaghtys chreeney. Foddee ymmodee staydyn elley, goaill stiagh doilleeidyn y thyroid, vitamin B12
+  injil, fo-çheetyn saaseyn lheeys, trimshaght as doilleeidyn cadley, cur er caghlaaghyn gollrish shen.
+  Cha nod agh cliaghteyr leaghtey gra dy vel meenaghtys chreeney ayn. Ta feme er cooney lheeys çhelleeragh
+  my ta mee-hushtey çheet dy doaltattym.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Ta jarrood nish as reesht cadjin lesh eash; ta caghlaaghyn ta cur seaghyn er bea gagh laa feeu jeeaghyn orroo."
+  - "Ta'n Alzheimer's Association cur sheese 10 cowrey raaue, as dagh fer marish caghlaa cadjin lesh eash dy cho-haslyss."
+  - "Foddee doilleeidyn y thyroid, vitamin B12 injil, fo-çheetyn saaseyn lheeys, trimshaght, doghanyn as doilleeidyn cadley cur er cooinaghtyn, as foddee paart jeu v'er nyn lheihys."
+  - "Cha nod agh cliaghteyr leaghtey gra dy vel meenaghtys chreeney ayn; cha nod quiz ny prove ayns thie shen y yannoo."
+  - "Foddee mee-hushtey ta çheet dy doaltattym, harrish ooraghyn ny laghyn, ve delirium as ta feme er cooney lheeys çhelleeragh."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Vel jarrood red beg dy cadjin lesh shenn eash?"
+    a: "Ta paart jeh. Ta'n National Institute on Aging gra dy vel jarrood boayl red ennagh ny billey nish as reesht dy cadjin ny jarrood beg bentyn rish eash. Cha nel meenaghtys chreeney ny ayrn cadjin jeh shenn eash. My ta doilleeidyn cooinaghtyn cur er obbraghyn gagh laa, myr shooyl gleashtan, ymmyd y çhellvane ny goll thie, ve doillee, ta shen feeu loayrt mysh rish lhiaghteyr."
+  - q: "Vod doilleeidyn cooinaghtyn çheet voish red ennagh elley, cha nee meenaghtys chreeney?"
+    a: "Foddee. Ta'n National Institute on Aging cur stiagh doilleeidyn y thyroid, ny lhooghanyn ny aanney, fo-çheetyn saaseyn lheeys, trimshaght as imnea, vitamin B12 injil, ro-ymmyd jeh jough, doilleeidyn cadley, doghanyn as assee da'n chione, mastey reddyn elley. Foddee paart jeu v'er nyn lheihys lurg lheeys, as shen unnane jeh ny oyryn ta check lheeys scanshoil."
+  - q: "Vod mee prove peiagh son meenaghtys chreeney ec y thie?"
+    a: "Cha nod. Cha nod agh cliaghteyr leaghtey gra dy vel meenaghtys chreeney ayn, liorish shennaghys slaynt, scrutaghey corp, provaghyn cooinaghtyn as smooinaghtyn, provaghyn laboraghtoory as ny keayrtyn scans y churn. Cha nel eer ny provaghyn giare ta lhiaghteyryn ymmydey dy liooar er nyn lomarcan dy ghra dy vel meenaghtys chreeney ayn."
+  - q: "Cre lhisagh mee y yannoo my ta peiagh çheet dy ve mee-hushtagh dy doaltattym?"
+    a: "Fow cooney lheeys çhelleeragh. Foddee mee-hushtey doaltattym ve delirium, as ta'n VA gra dy nee stayd lheeys çhelleeragh eh. Cur fys er lhiaghteyr y pheiagh er y chooid sloo ny cur eam er 999, fuirree marish, as jean tastey jeh saaseyn lheeys erbee t'ad goaill."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Foddee eh ve agglagh cur tastey da caghlaaghyn ayns dty chooinaghtyn hene, ny ayns cooinaghtyn persoon t'ou kiarail jeh. Foddee yn duillag shoh cooney lhiat cur-my-ner tra lhisagh oo cuirrey y yannoo rish lhiaghteyr as kys dy yannoo aarloo er e hon. Cha nod eh gra dhyt dy vel meenaghtys chreeney ec peiagh erbee. **Cha nod agh cliaghteyr leaghtey gra dy vel meenaghtys chreeney ayn**, as cha nel ymmodee staydyn ta cur er doilleeidyn cooinaghtyn ny vees meenaghtys chreeney eddyr. Ny jean treishteil er quiz ny provaghyn er-linney.
 
-## What are the early signs of dementia?
+## Cre ta ny cowraghyn toshiaght meenaghtys chreeney?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+Ta'n [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) cur sheese 10 cowrey toshiaght. T'eh cur dagh fer marish caghlaa cadjin lesh eash dy cho-haslyss. Ayns goan ain hene:
 
-| Sign worth checking | More typical with age |
+| Cowrey ta feeu jeeaghyn er | Ny smoo cadjin lesh eash |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Coayl cooinaghtyn ta cur seaghyn er bea gagh laa, myr jarrood reddyn va er y gherrid ny briaght yn un red reesht as reesht | Jarrood ennym ny cuirrey nish as reesht as cooinaghtyn er ny lurg |
+| Doilleeid lesh plannal ny feyshtyn y reaghey, myr eiyrt er resipey ta enney ort ny freayll coontey jeh billaghyn | Marran nish as reesht lesh billaghyn y thie |
+| Doilleeid cur jerrey er obbraghyn ta enney ort ec y thie, ec yn obbyr ny mooie | Laccal cooney nish as reesht lesh reaghys microwave ny recoyrtys claare çhellveeish |
+| Coayl coontey jeh laghyn, imbaghyn ny raad t'ou | Doll magh er laa yn çhiaghtin, eisht feddyn magh eh |
+| Doilleeid noa lesh feysht foddid, lhaih ny cur tastey da daaghyn | Caghlaaghyn rish keeayll voish cataractyn |
+| Doilleeidyn noa lesh focklyn, myr scuirr ayns mean co-loayrtys ny gra yn ennym aggairagh er reddyn | Feddyn eh doillee nish as reesht dy gheddyn yn fockle cair |
+| Cur reddyn ayns boaylyn neuchadjin as gyn jargaght ad y gheddyn reesht | Cur red ennagh ayns boayl aggairagh nish as reesht as feddyn eh liorish jannoo seose ny cassanyn |
+| Briwnys moal, myr lesh argid ny kiarail persoonagh | Jannoo drogh vriwnys nish as reesht |
+| Tayrn ersooyl veih curryn‑seyr, obbyr ny reddyn sheshoil | Ny keayrtyn cha nel oo gearree goll gys çhaglym lught-thie ny sheshoil |
+| Caghlaaghyn ayns aigney ny persoonaght, myr çheet dy ve mee-hushtagh, ammyssagh, agglagh ny imneagh | Aghtyn er lheh dy yannoo reddyn as çheet dy ve corree tra ta cliaghtey caghlaa |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Cha nel un cowrey er e hon çheet er dy vel meenaghtys chreeney ayn. Yn red scanshoil eh **caghlaa veih'n aght ta cadjin son y pheiagh shen**, er-lheh my t'eh jannoo bea gagh laa ny s'doillee.
 
-## How is normal aging different from dementia?
+## Cre'n aght ta shenn eash cadjin gollrish ny neu-gollrish meenaghtys chreeney?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+Ta'n [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) gra dy vel ymmodee sleih shinney cur tastey dy vel ad cooinaghtyn ny s'moal, ny dy vel ad jarrood boayl reddyn ny billey nish as reesht. Dy cadjin, t'ad shoh cowraghyn jeh jarrood beg. **Cha nel meenaghtys chreeney ny ayrn cadjin jeh shenn eash.** Ta doilleeidyn cooinaghtyn trommey jannoo obbraghyn gagh laa doillee, myr shooyl gleashtan, ymmyd y çhellvane ny goll thie.
 
-The NIA suggests talking with a doctor if someone:
+Ta'n NIA cur coyrle dy loayrt rish lhiaghteyr my ta peiagh:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Briaght ny h-un cheishtyn reesht as reesht
+- Goll er-shaghryn ayns boaylyn va enney mie oc orroo
+- Feddyn eh doillee eiyrt er resipeeyn ny coyrle
+- Çheet dy ve ny s'moo mee-hushtagh mychione traa, sleih as boaylyn
+- Scuirr dy ghoaill kiarail jeu hene, myr gee dy moal, gyn nighey ny ymmyrkey gyn sauçhys
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Ta **doilleeid smooinaghtyn eddyr (MCI)** ec paart dy leih. Ta shen çheet er dy vel ny smoo doilleeidyn cooinaghtyn ny smooinaghtyn oc na sleih elley jeh'n eash oc, agh t'ad foast jannoo magh bea gagh laa. Ta'n NIA gra dy **foddee** MCI ve ny chowrey toshiaght jeh Galar Alzheimer, agh cha vel dagh peiagh lesh MCI geddyn eh.
 
-## What else can cause memory problems?
+## Cre elley oddys cur er doilleeidyn cooinaghtyn?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Foddee ymmodee reddyn, cha nee meenaghtys chreeney ny lomarcan, cur er cooinaghtyn, as ta paart jeu goll er nyn lheihys liorish lheeys. Ta'n NIA cur stiagh:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Doilleeidyn y thyroid, ny lhooghanyn ny aanney**
+- **Fo-çheetyn saaseyn lheeys**
+- **Trimshaght as imnea**
+- **Vitamin B12 injil** ny gyn dy liooar bee follan
+- **Doilleeidyn cadley**
+- **Ro-ymmyd jeh jough ny drogh-saaaseyn**
+- **Doghanyn, croo fuill ny tumouryn** 'sy churn
+- **Assee da'n chione**, myr concussion
+- **Streeys ny trimshey mooar**, myr faagail yn obbyr ny coayl sheshey-poosee
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Foddee doilleeidyn clashtyn ny rish keeayll myrgeddin ve goit myr mee-hushtey; jeeagh er y [lioar clashtyn](/brain-health/hearing/) ain. Shen yn oyr ta check lheeys scanshoil. Cordail rish yn [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), ta lhiaghteyryn dy mennick cur sarey er provaghyn fuill dy yeeaghyn son doilleeidyn thyroid, laccal vitaminyn as doghanyn. Ta [cadley](/brain-health/sleep/) mie as lheeys son trimshaght feeu loayrt mychione myrgeddin.
 
-## Sudden confusion is an emergency
+## Ta mee-hushtey doaltattym ny stayd lheeys çhelleeragh
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Ta feme er cooney lheeys çhelleeragh my ta mee-hushtey çheet dy tappee, harrish ooraghyn ny laghyn.** Foddee eh ve delirium. Ta'n [VA cur sheese delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) myr stayd lheeys çhelleeragh as t'eh coyrlaghey cur fys er lhiaghteyr y pheiagh er y chooid sloo ny cur eam er 999. Ta cowraghyn goaill stiagh:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Caghlaaghyn seose as sheese ayns ablid dy smooinaghtyn dy glen
+- Doilleeid cur tastey da reddyn
+- Smooinaghtyn mee-reiltagh
+- Feer chadlagh ny mee-arkey, ny feer neu-veen as imneagh
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Foddee shoh taghyrt da peiagh erbee, goaill stiagh sleih ta bio lesh meenaghtys chreeney hannah. Cordail rish yn [NHS](https://www.nhs.uk/symptoms/confusion/), ta oyryn cadjin goaill stiagh doghanyn (ta doghanyn y chorys fuallee cadjin ayns sleih shinney as sleih ta bio lesh meenaghtys chreeney), stroak, shughyr fuill injil ayns sleih lesh diabetes, assee da'n chione as paart dy haaseyn lheeys. Choud's t'ou farkiaght son cooney, fuirree marish y pheiagh as cur gerjagh daue lesh focklyn giare, aashagh. Ny jean briaght ymmodee feyshtyn, as jean tastey jeh saaseyn lheeys erbee t'ad goaill.
 
-## How do I prepare for the doctor's appointment?
+## Kys neem's aarloo son y chuirrey rish y lhiaghteyr?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Ta cuirrey mie toshiaght lesh noteyn mie. Ta'n [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) coyrlaghey cur lhieu:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Rolley jeh caghlaaghyn** ayns cooinaghtyn, aigney as ymmyrkey, lesh sampleyryn er-lheh as mysh tra ren ad toshiaght
+2. **Doilleeidyn slaynt roie as y jiuish**, goaill stiagh shennaghys lught-thie jeh doilleeidyn cooinaghtyn
+3. **Dagh saase lheeys er recoyrtys as er-lheh**
+4. **Vitaminyn ny cooney-lhiettal erbee**
+5. **Dty heshtyn**, myr cre ny provaghyn vees jeant, cre whilleen traa nee ad goaill as tra hig ny eiyrtyssyn
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Ta shen cooney myrgeddin dy chur lesh oltey jeh'n lught-thie ny carrey ta enney mie oc er y pheiagh. Ta'n [NIA soilshaghey](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) dy **foddee** lhiaghteyryn briaght jeh chammah y pheiagh as oltey jeh'n lught-thie mychione slaynt, saaseyn lheeys, obbraghyn gagh laa as caghlaaghyn ayns ymmyrkey. Foddee lhiaghteyryn myrgeddin:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Cur provaghyn cooinaghtyn, feyshtyn y reaghey, tastey, coontey as çhengey
+- Cur sarey er provaghyn fuill, fuallee as provaghyn elley dy yeeaghyn son oyryn elley
+- Jeeaghyn son trimshaght ny staydyn slaynt aignagh elley
+- Cur sarey er scansyn y churn myr CT ny MRI
+- Cur yn peiagh gys eirinee, myr geriatrician, neurologist, geriatric psychiatrist ny neuropsychologist
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+Ta'n NIA gra dy vel scrutaghey smooinaghtyn ny ayrn femoil jeh'n Medicare Annual Wellness Visit, as foddee shen ve ny traa dooghyssagh dy hroggal imnea. Cha nel eer ny provaghyn giare ta lhiaghteyryn ymmydey dy liooar er nyn lomarcan dy ghra dy vel meenaghtys chreeney ayn. T'ad ny chied cheim dys scrutaghey ny s'cooilleeney, as foddee eh goaill ny smoo na un churrys dy gheddyn briwnys. Ta'n NIA coyrlaghey dy lhisagh sleih lesh doilleeidyn cooinaghtyn goll er-ash gys y lhiaghteyr dagh 6 dys 12 mee.
 
-## Raising the subject kindly
+## Loayrt mysh y chooish dy kenjal
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+My t'ou imneagh mychione peiagh elley, reih traa sheeoil, preevaadjagh. Loayr mychione reddyn er-lheh t'ou er chur tastey daue, myr imnea son nyn slaynt, cha nee myr cronnaghey. Foddee eh ve ny s'asse coyrle y chur son check slaynt cadjin. Cur yn peiagh stiagh ayns coardailyn as loayr roo myr y persoon aasit t'ad. Foddee ny [coyrleyn co-loayrtys](/caregiving/communication-tips/) ain ve ymmydoil.
 
-## Talk with a doctor
+## Loayr rish lhiaghteyr
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+My t'ou cur tastey da caghlaaghyn ayns cooinaghtyn, smooinaghtyn, aigney ny ablidyn gagh laa ta noa as ta tannaghtyn taghyrt, jean cuirrey rish lhiaghteyr kiarail bunneydagh. My ta mee-hushtey çheet dy doaltattym, cur eam er 999 ny er lhiaghteyr y pheiagh er y chooid sloo. Ta jeeaghyn er dy leah cur caa dy ve feddyn magh oyryn oddys v'er nyn lheihys as, my she meenaghtys chreeney t'ayn, ta ny smoo traa ayn dy yannoo plannyn as dy gheddyn cooney. Gow kiarail jeed hene trooid shoh myrgeddin; jeeagh er y [lioar kiarail hene son kiaraltee](/caregiving/caregiver-self-care/) ain.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+She fysseree cadjin yn duillag shoh, cha nee coyrle lheeys. Jeeagh er y [screeuys-follit lheeys](/medical-disclaimer/) ain.

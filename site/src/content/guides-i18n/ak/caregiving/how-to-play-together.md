@@ -1,34 +1,34 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Sɛnea Wobɛtumi Ayɛ Anigyeɛ Nneɛma Ne Obi a Dementia Wɔ Ho"
+description: "Akwankyerɛ a ɛboa wo: sɛnea wobɛhyehyɛ, ɛberɛ a wobɛtumi de ayɛ, sɛnea wobɛkyerɛ ɛho, sɛnea wobɛma ɛyɛ den, ne bere a wobɛsiesie ho."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Fa anigyeɛ nneɛma sɛ bere a wo ne obi nam so, na ɛnyɛ sɛ ɛyɛ sɔhwɛ. Paw bere a
+  ɛdwodwo, fa ho wɔ dan a ɛnyɛ nnyinasoɔ mu, na ma ɛyɛ anigyeɛ nneɛma baako. Ma
+  obi no nam ɔkwan a ɔpɛ so, nsɛm ntɛmpɛ ɛnyɛ sɛ wɔsakra nneɛma a ɛnyɛ hwee, sesa
+  nneɛma no ma ɛyɛ mmerɛ bere a ɛreba ahohia no, na fa mfonini yɛ asɛm. Gyae bere a
+  ɛda so yɛ wo anigyeɛ. Gyae ntɛm, anaa wo ne obi hwɛ nneɛma bom, ye nea ɛyɛ.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Ɛno ara ne anigyeɛ ne abusuabɔ, ɛnyɛ sɛ wubewie anaa wubua nnuaeɛ."
+  - "Hyehyɛ ntɛm: dan a ɛnyɛ nnyinasoɔ mu, hann a ɛyɛ, ahama ne nsoroma a wobɛhyɛ, TV nka, anaa anigyeɛ nneɛma baako a wobɛtumi de ayɛ."
+  - "Mma wo ho nka nsɛm a ɛnyɛ hwee. Ka sɛ \"Yɛmfa ɔkwan yi nnyɛ\" anaa kɔ so."
+  - "Yɛ anigyeɛ no ayɛ mmerɛ ansa na ahohia reba: ma nneɛma sɛ mfonini a ɛbɛyɛ kakraa, nnwinnade bɛyɛ kakraa, na ma mfonini no nni ahyɛde."
+  - "Fa mfonini sɛ ɛreba asɛm, de \"Ka me ho asɛm...\" di ananmu sɛ \"Wokae...?\""
+  - "Gyae wɔ ahohia anaa ahoyeraw ahyɛaseɛ no mua. Gyaeɛ ntɛm yɛ nnaadaa, nea ɛyɛ anigyeɛ."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Ɛberɛ dodow sɛn na yɛbɛtumi ayɛ anigyeɛ nneɛma?"
+    a: "Bere a ɛsɛ sɛ ɛyɛ nni hɔ. Nnipa pii no, sɛ wobɛyɛ nneɛma no kakra nko a ɛyɛ mmerɛ no, ɛno ase. Nea ɛbɛyɛ no ara ne sɛ wuhwɛ obi no, na mma bere nhwɛ wo. Gyae bere a ɔda so yɛ wo anigyeɛ."
+  - q: "Ɛsɛ sɛ mma wɔn di so anaa mɛyɛ sɛ merenhu nsɔhwɛ a wɔayɛ?"
+    a: "Wɔ anigyeɛ nneɛma a ɛnyɛ hwee, ɛnni nea wobɛdi anaa wobɛhwe ase. Sɛ nsɔhwɛ no nnyɛ obi no yaw a, gyae. Sɛ ɛyɛ yaw a, boa no kakra anaa ma nneɛma ayɛ mmerɛ bere a ɛreba, a wɔnkyerɛ ho."
+  - q: "Dɛn na ɛbɛyɛ sɛ wɔpɛ sɛ wɔhwɛ me so bere a me retu?"
+    a: "Ɛyɛ yiye. Amerikafo National Institute on Aging kyerɛ sɛ sɛ obi no ani gye sɛ ɔhwɛ nneɛma kɔ so a, ma ɔnhwɛ. Ka nea wuhu ho asɛm, na ma ɔnyɛ bere a ɔpɛ sɛ ɔbɔ asɛnka anaa ɔpaw."
+  - q: "Ɛyɛ akwan a wɔfa so hwɛ nkaebɔ anaa?"
+    a: "Dabi. Yɛn anigyeɛ nneɛma yɛ nneɛma a ɛyɛ mmerɛ a yɛyɛ bom na ɛma ɛyɛ anigyeɛ ne nkɔmhyɛ. Ɛnyɛ nkaebɔ anaa nea wɔbɛsusu, na wɔnnyɛ dementia ayaresa."
+  - q: "Ɛhe na ɛsɛ sɛ wɔfiri nneɛma no ase?"
+    a: "Fi nea ɛyɛ mmerɛ sen biara a ɛfata obi no ase. Mfonini a ɛne mfonini nhyia a ɛwɔ mfonini ɛnan no ne mfonini ne mfonini a ɛwɔ ananmu nnwinnade mmienu no yɛ ahyɛaseɛ a ɛyɛ mmerɛ. Nsɛm nkaebɔ kartɔ no yɛ papa sɛ obi no pɛ asɛm kɛse sen sɛ ɔbɛtɔ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +47,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Anigyeɛ nneɛma a wo ne obi a ɔwɔ dementia ayɛ no nnye sɛ ɔpɛ a wɔrebɔ. Ɛyɛ sɛ mo baanu bɛtena ntam, mo bɛhwɛ mfonini, mo bɛseesei ɔkasa a ɛyɛ anigyeɛ, na mo ne mo ka asɛm a ɛba. Anigyeɛ no ne ɔkwan a ɛma mo tena ne mo ho.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Saa akwankyerɛ yi kyerɛ sɛnea wobɛhyehyɛ, sɛnea wobɛtumi de bere ayɛ, nea wobɛka sɛ ɛbɛyɛ "fi" sɛ nneɛma akɔ yie, sɛnea wobɛma nneɛma ayɛ mmerɛ anaa ayɛ den kakra, sɛnea wobɛsesa anigyeɛ no ayɛ asɛm, ne ɛberɛ a wobɛgyae. Ɛyɛ adwuma wɔ yɛn [anigyeɛ nneɛma](/games/) ne kaady, mfonini nnwoma, ne ɔkyerɛ nneɛma a wowɔ dada no nso mu.
 
-## What is the best way to play a game with someone who has dementia?
+## Ɛdeɛn ne ɔkwan a ɛyɛ papa de ayɛ anigyeɛ nneɛma ma obi a ɔwɔ dementia?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Hwɛ anigyeɛ, ɛnyɛ nea wobɛdi so. Ɛno ne akwankyerɛ titiriw a [Alzheimer's Association akwankyerɛ wɔ nneɛma a wɔyɛ](https://www.alz.org/help-support/caregiving/daily-care/activities) de ma: fa nneɛma a obi no ka hwe ase no so, boa no sɛ ɔbɛhyɛ ase, siesie ɔkwan a ɛyɔ den no ho wo ho, na mma ɔnnhwɛ nneɛma a ɛnyɛ hwee.
 
-In practice that means:
+Wɔ adwuma mu no, ɛyɛ sɛ:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Te ne nkyɛn, ɛnyɛ ɔfa ananmu.** Sɛ mo te nkyɛn a, mo nyinaa hunu ananmu anaa papa no, na mmoa no ayɛ sɛ mo nyinaa yɛ adwuma.
+- **Ma anigyeɛ nneɛma baako bɛba.** Nneɛma pii a wobɛpaw no bɛyɛ sɛ ɔsɔhwɛ ansa na ɛrehyɛ ase.
+- **Di ne kwan.** Sɛ wɔpɛ sɛ wɔtɔ mfonini no wɔ wɔn ankasa atsɛnkɔ mu, sɛ wɔpɛ sɛ wɔka mfonini baako ho asɛm nkron, anaa sɛ wɔgyae ɛdi mmienu akyi, ɛno ne anigyeɛ nneɛma ɛnnɛ.
+- **Kan anigyeɛ ne nkɔsoɔ, ɛnyɛ nneɛma a wɔawie.** Ɔseɛ, asɛm, anaa bere a ɛyɛ anigyeɛ ara ne nea wohwehwɛ.
 
-## How do I set up before we start?
+## Ɛdeɛn na mɛyɛ ansa na yɛrehyɛ ase?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Nkɛntɛnsɛm bi a wɔyɛ ansa na ɛrehyɛ ase de, ɛbɛbɔ mmuaeɛ ma ahohia a wɔbɛtumi de aka anigyeɛ nneɛma no ho.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Paw bere a ɛyɛ papa ma no.** [National Institute on Aging (NIA) akwankyerɛ wɔ nneɛma a wɔyɛ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ka sɛ ɛsɛ sɛ wɔhyehyɛ akwantuo ne nneɛma no bere a obi no yɛ yie. Nnipa pii no, ɛyɛ ɔwia ansa na ɛkɔ anɔpa. Anwummere a ɛreba no, ɛyɛ den pii; hwɛ [anwummere nneɛma a ɛdwodwo](/caregiving/late-day-restlessness/).
+2. **Ma dan no nni nnyinasoɔ.** Gyina TV ne radio, na sɛ wotumi a, twa ɔpon no. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) kyerɛ sɛ ɛsɛ sɛ wotew nnyinasoɔ ne nneɛma a ɛbɛyɛ mmerɛ ansa na wobɛka ho asɛm.
+3. **Hwɛ sɛ ɔyɛ yie.** Nsuo bi a ɛbɛbɛn, bere a wɔkɔ asuahyɛ bere a ɛnkɔ, ntoma a ɛyɛ mmerɛ, ne ahama ne nsoroma a wɔahyɛ.
+4. **Ma hann no yɛ.** Hann a ɛyɛ, a ɛnnyɛ nnɔsoɔ wɔ ananmu so no, ma mfonini no yɛ mmerɛ hu.
+5. **Siesie anigyeɛ no ansa na mo retena ase.** Bue, paw nhyehyɛe, na de nnwinnade no ano wo ho. Afei, de ananmu no kɔ wɔn ho. Sɛ wobɛkyerɛ wɔn tuo mfonini a, hwɛ [sɛnea wobɛhyehyɛ tablet anaa foon](/caregiving/tablets-and-screens/).
+6. **Ma nnwinnade no ntena.** Sɛ wobɛfa stand anaa kas a ɛma tablet no ntena a, obiara remfa nsa nnyina so, na ɛyɛ mmerɛ sɛ wɔbɛkyerɛ ho.
 
-## How do I invite them without pressure?
+## Ɛdeɛn na mɛfrɛ wɔn a mɛnnyɛ wɔn ahohia?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Ma nkɔfrɛ no nyɛ den na ɛnyɛ den sɛ ɔbɛma obi no ka ampa. Asɛm bi a ɛsɛ sɛ ɛkɔ yie:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Mahu mfonini a ɛwɔ aduane ho. Wopɛ sɛ yɛhwɛ wɔn bom?"
+- "Wobɛboa me wɔ saa puzzle yi mu? Mete ase."
+- "Wopɛ nkɔnsoɔ anaa nnoa nnɛ?" (nneɛma mmienu a wopaw mu no yɛ mmerɛ sen nsɛmmisa a ɛbue ntɛmpɛ)
+- "Merebɔ kaad ama wo nuabaa. Ɛdeɛn ne ɔhoma a ɛsɛ sɛ ɛyɛ saa ne?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association ka sɛ ɛsɛ sɛ wɔkyerɛ anigyeɛ nneɛma no ɔkwan, sɛ kaad a wobɛma obiara, efisɛ ɛkyerɛ ne tɔ. Wɔn a wɔsrɛ wɔn mmoa nso ɛyɛ, efisɛ ɛma wɔhu sɛ wɔboa.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Sɛ wɔka sɛ aane a, gye ɔkwan no. San bɛsrɛ bere foforo anaa ma nneɛma foforo. Yɛn asɛm a ɛfa [sɛnea wobɛyɛ sɛ wɔka sɛ aane](/caregiving/when-they-say-no/) no mu no, wobetumi ahu nsɛm pii.
 
-## How long should a game last, and how fast should we go?
+## Anigyeɛ no bɛtena so bere bɛn, na yɛbɛyɛ ntɛm sɛn?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Ma obi no nkyerɛ ntɛm, na yɛ anigyeɛ no ara ntɛm. Bere a ɛnyɛ den no ara ne ntɛm a yɛbɛpaw. Ɛnni nkyerɛkyerɛ a wɔde ahyɛ ɛberɛ a yɛde ɔkwan a ɛnyɛ hwee bɛyɛ anigyeɛ nneɛma. Ɛyɛ sɛ mo tena mo ho aduanan simma abien kɔsi nkeneɛ.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Di akyi ma ɛdɔɔ sen sɛ ɛte sɛ ɛyɛ.** [NIA] ka sɛ, ma obi no bere sɛ ɔbɛbue, na mma wo ho nni ne nkɔ. Ka mmeae mmienu wɔ wo adwene mu ansa na woboa no.
+- **Nea ɛwɔ anim ara.** Ma tɔ kyerɛ koraa ("Fa mfonini biara"), na twe ase. Ma wɔhwɛ, ɛnyɛ ka: ka mpɔn sɛ wobɛpɛ asɛm a ɛbɛyɛ mmerɛ.
+- **Gyae mpɛn pii.** Sɛ wɔgyae ka mfonini ho asɛm a, anigyeɛ nneɛma no bɛtumi agyae. Ɛnhia sɛ wobɛntɔ ntɛm.
+- **Ma wɔnhwɛ.** [NIA] ka sɛ nnipa bi pɛ sɛ wɔhwɛ, na ɛyɛ wɔn ɔpaw.
 
-## Should I correct wrong answers?
+## Ɛsɛ sɛ mesiesie mmuae a ɛnteɛ?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Dabi. Sɛ wodi ɔkwan a ɛnteɛ so ɛmmɔ mmere, ɛkyerɛ sɛ wo ara wo nnye ahyɛ wɔn ase ɛwɔ hɔ, ɛwɔ hɔ de. Alzheimer's Association ka sɛ, ɛsɛ sɛ wɔnyɛ nneɛma a ɛnyɛ hwee hwee, na ɛnsɛ sɛ wɔkyerɛ wɔn ho ɔkwan. Anigyeɛ nneɛma mu no, mfomsoɔ a ɛyɛ mmerɛ ne nneɛma a ɛnyɛ hwee.
 
-| Instead of | Try |
+| Mma ɛnyɛ sɛ | Yɛ sɛ |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Dabi, ɛnteɛ." | "Yɛmfa ɔkwan yi nnyɛ." ([NIA] de ɔkyerɛkyerɛ no) |
+| "Ɛnyɛ ɔkɔ. Hwɛ bio." | Nka hwee, na kɔ so ne ntoma no, anaa "Oh, ɛnna ɛyɛ nea ɛyɛ ɔdɔ ɛmfa ho." |
+| "Wokae obi yi?" | "Ka mfonini yi ho asɛm ma me." |
+| "Wɔayɛ saa no dedaw." | "Ɛyɛ papa. Ma yɛnsan nyɛ." |
+| "Monnim sɛ ɛte saa." | "Wopɛ sɛ mekyerɛ ɛmfa a ɛba no?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Sɛ mfomsoɔ no ara ma wɔn ahohia a, boa wɔn ara kwa. Kyerɛ ɔkwan a ɛteɛ, fa ntoma no ankasa, anaa ma nneɛma ayɛ mmerɛ bio. Sɛ asɛm a wɔka no yɛ ahoseɛ a, seesei ho nkyerɛ. Ɛnyɛ asɛm a ɛyɛ Akan, ye nea ɛyɛ.
 
-## How do I make a game easier or harder?
+## Ɛdeɛn na mɛma anigyeɛ nneɛma ayɛ mmerɛ anaa ayɛ den?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Siesie anigyeɛ no ayɛ ma obi no ɛberɛ no, ɛnyɛ ma ɔkwan a ɛfa ɔsɛe ɔkwan. Obi ko bi bɛyɛ ɛberɛ a ɔbɛyɛ sɛ ɔnwuma ɛwɔ hɔ no ara pɛ nkyɛ. [NIA] mmara a ɛtete ka sɛ, ɛsɛ sɛ nneɛma ahyia obi no tumi, na ɛsɛ sɛ ɔhu sɛ ɔyɛ papa.
 
-| Game | Make it easier | Make it a little harder |
+| Anigyeɛ nneɛma | Ma ɛyɛ mmerɛ | Ma ɛyɛ den kakra |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Fi tile 4 ase, na ma mfonini no nni ahyɛde | Tile pii, anaa yi mfonini no sɛ ɛyɛ no bo |
+| [Find the Same](/games/find-the-same/) | Nneɛma 2 | Nneɛma 4 nkyɛn |
+| [Sort Together](/games/sort-together/) | Wo ara fa mfonini, wɔn no hyɛ basket no ho ntɛnnɔ | Wɔn no ara hyɛ mfonini ne basket no ho |
+| [Picture Puzzle](/games/picture-puzzle/) | Ɛnnwɔnwa 4, ka mfonini no nyinaa ho asɛm ansa na ɛrehyɛ ase | Ɛnnwɔnwa 9 |
+| [Finish the Saying](/games/finish-the-saying/) | Kyerɛ awiei no, na mo nyinaa ka no | Ma wɔka awiei no ansa na wɔde tɔ |
+| [Word Search](/games/word-search/) | Twerɛ, hwehwɛ asɛm baako mo nyinaa, di so ɛfa ne mfitiase so | Ma wɔpaw asɛm a ɛdi hɔ ɛdi akyi |
+| [Coloring](/games/coloring/) | Wo ara paw ɔsoro mmienu, wɔn no paw mu biako | Wɔn no ara paw ɔsoro nyinaa |
+| [Conversation Cards](/games/conversation-cards/) | Hwɛ mfonini no mo nyinaa | Fa nsɛmmisa a ɛwɔ kaad no so no di dwuma |
+| [Photo Pairs](/games/photo-pairs/) | Mfonini a wɔpɛ kɛse no kakra | Ka mfonini bi ka ho |
+| [Picture Bingo](/games/picture-bingo/) | Obi boa obiara | Wɔn ankasa ka wɔn kaad so |
+| [Calm Breathing](/games/calm-breathing/) | Te ase hwɛ no mo nyinaa | Hume ntɛmntɛm mo nyinaa |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Nsɛnkyerɛnne a ɛkyerɛ sɛ anigyeɛ no yɛ den: ɛberɛ tenten a obi no ahohia wɔ mu, a ɛnyɛ nteaseɛ, mmerɛ a ɔka sɛ "Metumi nyɛ," sɛ ɔde nnwinnade no sane kɔ fa, anaa mfomsoɔ a ɛma ɔnyɛ hwee. Nsɛnkyerɛnne a ɛkyerɛ sɛ ɛyɛ mmerɛ: nkwadaa, anaa ɔkasa sɛ ɛyɛ mmofra adwuma. Sɛ saa ba a, gye ne ɔkwan, na sesa nneɛma akɔ ɔkwan a ɛyɛ ɔpanin adwuma, te sɛ ɔkwan a wɔfa so hwehwɛ asɛm, puzzle a ɛwɔ ne ankasa mfonini, anaa ɔkasa wɔ mfonini a ɛfa ne adwuman a ɔyɛe bi ho.
 
-## How do I turn a game into a conversation?
+## Ɛdeɛn na mɛsesa anigyeɛ nneɛma no ayɛ ɔkasa?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Fa mfonini biara sɛ ɛyɛ ɔkwan a wobɛfrɛ wɔn sɛ wɔnka, na gye deɛ wɔka sɛ ɔbɛyɛ ampa. Nnipa pii no, ɛno ne anigyeɛ nneɛma no kwan papa.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Bisa nsɛmmisa a ɛnnyɛ hwee.** "Dɛn na wuhu?" "Deɛ wopɛ ne deɛn?" "Ka ɔdan a ɛte sɛ eyi ho asɛm."
+- **Ka wo ankasa asɛm kan.** "Me nana wɔ kɔkɔ a ɛte sɛ eyi." Wo asɛm no ma ɛyɛ mmerɛ ma wɔn nso ka wɔn ankasa.
+- **Di asɛm a ɛrekɔ so.** Sɛ mfonini a ɛyɛ kar no ma wɔka akwantuo bi ho asɛm a, asɛm no ne anigyeɛ nneɛma. Gyae anigyeɛ no.
+- **Mma wɔnsisi asɛm no ho ampa.** Sɛ asɛm no kɔ fam bio a, anigyeɛ ne nkɔsoɔ hia sen nneɛma a wɔka ampa ara. Sɛ asɛm no sesa bio a, di nea ɛyɛ foforo no anigyeɛ.
+- **Fa nsɛmmisa a ɛwɔ mu no di dwuma.** [Finish the Saying](/games/finish-the-saying/) de ɔkasa ka bi di awiei biara akyi, na [Conversation Cards](/games/conversation-cards/) yɛ saa adwuma no. [Photo Pairs](/games/photo-pairs/) de wo ankasa abusua mfonini di dwuma, na ɛma asɛm pii aba.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Nsusuiɛ foforo wɔ yɛn [anigyeɛ nneɛma akwankyerɛ](/activities/reminiscence/) ne [ɔkasa mmara](/caregiving/communication-tips/) mu.
 
-## When should we stop?
+## Ɛberɛ bɛn na yɛbɛgyae?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Gyae bere a wohu sɛ ɔbrɛ anaa ahohia reba, na ɛyɛ papa sɛ wogyae kakra ansa na ɛrekɔ so. Alzheimer's Association ka sɛ, gyae anaa sesa nneɛma sɛ adwene rehyew anaa ahoyeraw reba.
 
-Watch for:
+Hwɛ nsɛnkyerɛnne a:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- ɔhohoro, ɔdwodwo, anaa ne ani rehwehwɛ ananmu;
+- ɔyɛ adwuma anaa ɔsɔre, anaa ɔka sɛ ɔpɛ sɛ ɔkɔ;
+- ɔsɔ ahome, ɔka mmuae tiaa, anaa "Metumi nyɛ eyi yie";
+- ɔtwɛn nneɛma mpo, anaa ɔde nnwinnade no sane kɔ fa;
+- ɔsu, ɔbɔ mmirika, anaa ne ahoɔden sesa ntɛmpɛ.
 
-How to stop well:
+Ɔkwan a ɛyɛ papa de gyae:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Gyae nea ɛyɛ mmerɛ.** Nneɛma baako a wobɛtumi de aka, anaa mfonini baako a wɔbɛhwɛ.
+- **Ma ɛnyɛ wo ankasa asɛm.** "Mepɛ tea. Yɛmfa ha nkɔ so?" Ɛno nni nkyerɛ sɛ wɔayɛ bɔne.
+- **Kɔ nneɛma a ɛyɛ nipa anaa ɛma wo ho ayɛ yie.** Ɛtwa wo ho bere tiaa, di nnuane, twa ntama, anaa tie nnwom.
+- **Ka asɛm a ɛyɛ anigyeɛ.** "Ɛyɛ me anigyeɛ sɛ menyɛ saa wo nkyɛn." Ɛnhia sɛ wɔka ma wɔn ayɛ papa, ka anigyeɛ a ɛwɔ bere a yɛpɛɛpɛ no mu no nko.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Ɛyɛ papa sɛ wogyae ntɛm, sesa nhyehyɛe, anaa gyae anigyeɛ nneɛma no nso de mo ho bɛtena nkyɛn, ɛyɛ nea ɛyɛ papa.
 
-## Can we play in a group or over a video call?
+## Yɛbɛtumi ayɛ anigyeɛ nneɛma wɔ nnipa pii mu anaa video call so?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Yiw, nanso ɛhia nhyehyɛe kakra. Wɔ nnipa pii mu no, yɛ ntɛm bi, fa nnipa a wɔhia mmoa no ho, na paw anigyeɛ nneɛma a ɛwɔ nkɔsoɔ pɛ. [Picture Bingo](/games/picture-bingo/) wɔ kaad a wobɛprint na ɔfrɛfrɛ kɔ ananmu nso ma nnipa pii. Hwɛ [anigyeɛ nneɛma ma care home nnipa](/activities/care-home-groups/) mu nso.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Wɔ video call mu no, obi a ɔwɔ call no so bɛtumi akyerɛ mfonini no, na obi a ɔwɔ dan no mu bɛtumi ahyɛ ananmu mu ɔkwan. Ma call no nyɛ tenten, na ɛnyɛ nneɛma a wɔhu no. Yɛn [telefon ne video call akwankyerɛ](/activities/phone-and-video-calls/) nso wɔ nsɛm pii.
 
-## What if a game just isn't working?
+## Dɛn na ɛbɛyɛ sɛ anigyeɛ nneɛma no nni adwuma?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Nnɛ bi mpo nni adwuma, na ɛnyɛ wo anaa wɔn mfomsoɔ. Gyae anigyeɛ nneɛma no, san kɔ bere foforo bio, san di anigyeɛ foforo, anaa ɛnyɛ anigyeɛ nneɛma biara. Anigyeɛ pii nni nnwinnade ho: nnwom, ntoma mmoa, mfonini nhoma akenkan, anaa nantew tenten. Hwɛ [anigyeɛ nneɛma ahyɛde](/activities/ideas/) mu nso.

@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Kijan pou jwe jwèt ak yon moun k ap viv ak demans"
+description: "Yon gid pratik pou jwe jwèt ak yon moun k ap viv ak demans: preparasyon, ritm, pa korije, rann jwèt yo pi fasil, epi konnen ki lè pou sispann."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Konsidere jwèt la kòm yon tan ou pase ansanm, pa yon tès. Chwazi yon moman
+  kalm nan jounen an, chita kòt a kòt nan yon chanm ki trankil, epi ofri yon
+  sèl jwèt ki senp. Kite moun ou pran swen an deside vitès la, pa janm korije
+  ti erè ki pa fè mal, rann jwèt la pi fasil nan premye siy difikilte, epi
+  sèvi ak foto yo pou kòmanse konvèsasyon. Sispann pandan li toujou santi l
+  byen. Fini pi bonè, oswa senpleman gade ansanm, se yon bon rezilta.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Objektif la se pran plezi epi pase bon tan ansanm, pa fini oswa jwenn bon repons."
+  - "Prepare anvan: yon chanm trankil, bon limyè, linèt ak aparèy pou tande yo sou moun nan, televizyon an etenn, yon sèl jwèt pare."
+  - "Pa korije ti erè ki pa fè mal. Di « Ann eseye konsa » oswa kontinye san di anyen."
+  - "Rann yon jwèt pi fasil anvan fristrasyon an monte: mwens foto, mwens chwa, foto yo rete vizib."
+  - "Sèvi ak foto yo kòm yon pwen depa pou istwa ak « Pale m de... » olye de « Èske ou sonje...? »"
+  - "Sispann nan premye siy fatig oswa malèz. Sispann pi bonè se yon siksè, pa yon echèk."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Konbyen tan nou ta dwe jwe yon jwèt?"
+    a: "Pa gen yon longè ki kòrèk. Pou anpil moun, kèk minit ase, epi gen jou kote yon sèl wonn sifi. Gade moun nan olye de gade lè a, epi sispann pandan li sanble toujou detann."
+  - q: "Èske mwen ta dwe kite yo genyen oswa fè tankou mwen pa wè erè yo?"
+    a: "Nan yon jwèt nou fè ansanm san presyon, pa gen anyen pou genyen ni pou pèdi. Si yon erè pa deranje moun nan, kite l pase. Si li sanble deranje yo, ede yo dousman oswa rann jwèt la pi fasil san fè yo remake sa."
+  - q: "E si yo pito gade m ap jwe?"
+    a: "Sa pa gen pwoblèm. National Institute on Aging sijere kite yon moun senpleman gade si li sanble pran plis plezi konsa. Pale sou sa ou wè epi envite yo montre oswa chwazi nenpòt ki lè yo vle."
+  - q: "Èske jwèt sa yo se yon fason pou teste memwa?"
+    a: "Non. Jwèt nou yo se aktivite senp pou nou fè ansanm pou pran plezi epi konvèse. Yo pa yon tès memwa, yo pa mezire anyen, epi yo pa yon tretman pou demans."
+  - q: "Ki jwèt ki pi bon pou kòmanse?"
+    a: "Kòmanse ak jwèt ki pi senp la ki ale ak moun nan. Picture Pairs ak 4 kare ak foto yo ki rete vizib, oswa Find the Same ak 2 chwa, se bon pwen depa ki dou. Conversation Cards mache byen si moun nan renmen pale plis pase l renmen tape sou ekran an."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Yon bon jwèt ak yon moun k ap viv ak demans pa sanble ak yon konkou. Li sanble ak de moun ki chita pre, k ap montre foto, k ap ri ak yon pawòl, epi k ap pale sou nenpòt bagay ki vini nan tèt yo. Jwèt la se jis yon rezon pou pase tan ansanm.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Gid sa a eksplike kijan pou prepare, kijan pou swiv ritm yon jwèt, kisa pou di lè yon bagay pa mache jan ou te panse, kijan pou rann nenpòt jwèt pi fasil oswa yon ti kras pi difisil, kijan pou fè l tounen yon konvèsasyon, epi kijan pou konnen ki lè pou sispann. Li itil pou [jwèt nou yo](/games/) ak pou kat, devinèt ak jwèt tab ou deja genyen.
 
-## What is the best way to play a game with someone who has dementia?
+## Ki pi bon fason pou jwe yon jwèt ak yon moun ki gen demans?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Mete plezi an premye, pa rezilta. Se konsèy prensipal la nan [gid Alzheimer's Association sou aktivite](https://www.alz.org/help-support/caregiving/daily-care/activities): apiye sou sa moun nan toujou ka fè, ede yo kòmanse, fè pati ki difisil yo ou menm, epi pa kritike oswa korije aktivite ki pa fè mal.
 
-In practice that means:
+An pratik, sa vle di:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Chita bò kote yo, pa anfas yo.** Lè nou chita kòt a kòt, nou tou de ka wè ekran an oswa tab la, epi ede a sanble ak yon travay ann ekip olye de sipèvizyon.
+- **Ofri yon sèl jwèt alafwa.** Yon meni ak anpil chwa ka santi tankou yon tès anvan anyen menm kòmanse.
+- **Swiv ritm yo.** Si yo vle tape sou foto yo nan pwòp lòd pa yo, pale sou yon sèl foto pandan dis minit, oswa sispann apre de fwa, se konsa jwèt la ye jodi a.
+- **Konte bon moman yo, pa kantite wonn ou fini.** Yon souri, yon istwa oswa yon demi èdtan kalm se rezilta ou ap chèche a.
 
-## How do I set up before we start?
+## Kijan pou m prepare anvan nou kòmanse?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Kèk minit preparasyon ka anpeche anpil nan fristrasyon moun yo souvan mete sou do jwèt la.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Chwazi pi bon moman nan jounen an pou yo.** [Gid National Institute on Aging (NIA) sou jan pou adapte aktivite](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sijere planifye soti ak aktivite yo pou lè nan jounen an kote moun nan santi l pi byen. Pou anpil moun, se nan mitan maten an. Fen aprèmidi a souvan pi difisil; gade [aktivite kalm pou fen aprèmidi](/caregiving/late-day-restlessness/).
+2. **Fè chanm nan trankil.** Etenn televizyon an ak radyo a, epi fèmen pòt la si ou kapab. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) rekòmande limite bri ak distraksyon anvan ou eseye pale.
+3. **Verifye konfò yo an premye.** Yon bwason toupre, yon ti vwayaj nan twalèt anvan, yon chèz ki konfòtab, epi linèt ak aparèy pou tande yo sou moun nan.
+4. **Limine espas la byen.** Yon limyè klere, ki egal, san reflè sou ekran an fè foto yo pi fasil pou wè.
+5. **Pare jwèt la anvan ou chita.** Louvri l, chwazi paramèt yo epi regle volim nan ou menm. Apre sa, vire ekran an bò kote yo. Pou konsèy sou tablèt, gade [kijan pou prepare yon tablèt oswa yon telefòn](/caregiving/tablets-and-screens/).
+6. **Mete aparèy la kanpe.** Yon sipò oswa yon ka ki kenbe tablèt la dwat vle di pèsonn pa bezwen kenbe l, epi li pi fasil pou montre bagay yo.
 
-## How do I invite them without pressure?
+## Kijan pou m envite yo san mete presyon?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Fè envitasyon an senp epi fasil pou refize. Gen kèk fraz ki souvan mache byen:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Mwen jwenn kèk foto jaden. Ou vle gade yo avè m?"
+- "Ou ka ede m ak devinèt sa a? Mwen bloke."
+- "Ou vle flè yo oswa zwazo yo jodi a?" (yon chwa ant de pi fasil pase yon kesyon ouvè)
+- "M ap fè yon kat pou sè ou. Ki koulè sa a ta dwe ye?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association sijere eksplike rezon ki fè yon aktivite, tankou fè yon kat pou yon zanmi, paske yon rezon bay li sans. Mande èd mache tou paske li fè moun nan santi l itil.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Si yo di non, aksepte sa. Eseye ankò pita oswa ofri yon lòt bagay. Gid nou an sou [kisa pou fè lè yo di non](/caregiving/when-they-say-no/) bay plis detay.
 
-## How long should a game last, and how fast should we go?
+## Konbyen tan yon jwèt ta dwe dire, epi ki vitès nou ta dwe ale?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Kite moun nan deside vitès la, epi planifye pou sesyon kout. Pa gen yon longè ideyal ki baze sou prèv pou yon jwèt nou fè ansanm. De a senk minit kalm ka yon aktivite konplè.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Tann pi lontan pase sa ki sanble natirèl.** NIA konseye bay moun nan plis tan pou reponn epi eseye pa entèwonp. Konte jiska dis nan tèt ou anvan ou ede.
+- **Yon etap alafwa.** Bay yon sèl enstriksyon kout ("Tape sou yon foto"), epi tann. Montre olye de eksplike: lonje dwèt ou sou kote pou tape a.
+- **Fè poz san pwoblèm.** Si yo kanpe pou pale sou yon foto, jwèt la ka tann. Pa gen bezwen prese.
+- **Kite yo gade.** NIA fè remake ke gen kèk moun ki pito gade, epi sa se yon chwa ki valab.
 
-## Should I correct wrong answers?
+## Èske mwen ta dwe korije move repons?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Non. Korije yon moun dousman ankò e ankò fè yo santi yo ap echwe, menm lè ou vle byen. Alzheimer's Association konseye pa kritike oswa korije aktivite ki pa fè mal. Nan yon jwèt, prèske tout erè pa fè mal.
 
-| Instead of | Try |
+| Olye de | Eseye |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Non, sa pa kòrèk." | "Ann eseye konsa." (yon egzanp NIA bay) |
+| "Sa pa mache ansanm. Gade ankò." | Pa di anyen epi pran pwochen tou a, oswa "O, tou de wouj." |
+| "Èske ou sonje kiyès sa ye?" | "Pale m de foto sa a." |
+| "Ou deja fè sa a." | "Sa a bon. Ann fè l ankò." |
+| "Alò, ou konnen sa." | "Ou vle mwen montre fen an?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Si yon erè klèman fristre yo, ede dousman. Lonje dwèt ou sou bon foto a, pran yon tou ou menm, oswa rann jwèt la pi fasil nan pwochen wonn nan. Si yon pawòl fini ak yon repons ki komik men ki pa kòrèk, ri ansanm ak yo. Fen yo bay la ka pi bon.
 
-## How do I make a game easier or harder?
+## Kijan pou m rann yon jwèt pi fasil oswa pi difisil?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Ajiste jwèt la selon moun nan jou sa a, pa selon yon etikèt etap. Menm moun nan ka bezwen yon vèsyon ki pi senp nan aswè pase nan maten. Premye konsèy NIA a se chwazi aktivite a selon sa moun nan ka fè epi asire yo santi yo reyisi.
 
-| Game | Make it easier | Make it a little harder |
+| Jwèt | Fè l pi fasil | Fè l yon ti kras pi difisil |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Kòmanse ak 4 kare epi kite foto yo vizib | Plis kare, oswa kache foto yo si sa santi l konfòtab |
+| [Find the Same](/games/find-the-same/) | 2 chwa | Jiska 4 chwa |
+| [Sort Together](/games/sort-together/) | Ou kenbe foto a, yo montre panyen an | Yo tape sou foto a ak sou panyen an poukont yo |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 moso, pale sou foto a an antye anvan | 9 moso |
+| [Finish the Saying](/games/finish-the-saying/) | Montre fen an, epi di l ansanm | Kite yo di fen an anvan yo tape |
+| [Word Search](/games/word-search/) | Enprime l, chèche yon mo ansanm, lonje dwèt ou sou premye lèt li | Kite yo chwazi pwochen mo pou chèche a |
+| [Coloring](/games/coloring/) | Ou chwazi de koulè, yo chwazi ant yo | Yo chwazi tout koulè yo |
+| [Conversation Cards](/games/conversation-cards/) | Senpleman gade foto a ansanm | Sèvi ak kesyon ouvè ki sou kat la |
+| [Photo Pairs](/games/photo-pairs/) | Kèk foto fanmi yo renmen anpil | Ajoute plis foto |
+| [Picture Bingo](/games/picture-bingo/) | Yon moun chita ak chak jwè pou ede | Jwè yo make pwòp kat yo |
+| [Calm Breathing](/games/calm-breathing/) | Senpleman chita epi gade ansanm | Respire ansanm tou dousman |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Siy ki montre jwèt la twò difisil: long poz ki sanble enkyete olye de reflechi, repete "Mwen pa kapab", pouse aparèy la lwen, oswa erè ki fache yo. Siy ki ka montre li twò fasil: annwi, oswa yo di li twò senp. Si sa rive, respekte sa epi chanje pou yon bagay ki santi l pi adilt, tankou yon jwèt chèche mo, yon devinèt ki fèt ak yon vrè foto, oswa yon konvèsasyon sou yon foto ki gen rapò ak ansyen travay yo.
 
-## How do I turn a game into a conversation?
+## Kijan pou m fè yon jwèt tounen yon konvèsasyon?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Sèvi ak chak foto kòm yon envitasyon pou pale, epi konsidere nenpòt bagay yo di kòm yon bon repons. Pou anpil fanmi, se pi bon pati lè y ap jwe a.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Poze kesyon ouvè ki pa gen move repons.** "Kisa ou remake?" "Kilès ou renmen?" "Pale m de yon kwizin tankou sa a."
+- **Pataje an premye.** "Grann mwen te gen yon chen konsa." Istwa ou fè li pi fasil pou yo pataje youn pa yo.
+- **Swiv sijè a menm si li chanje.** Si yon foto machin mennen nan yon istwa sou yon vwayaj sou wout, istwa a se aktivite a. Kite jwèt la an poz.
+- **Pa verifye detay yo.** Lè nou ap sonje epi pataje istwa, yon konvèsasyon ki agreyab pi enpòtan pase detay ki egzak. Si istwa a chanje parapò ak dènye fwa a, pran plezi nan nouvo vèsyon an.
+- **Sèvi ak kesyon ki deja nan jwèt la.** [Finish the Saying](/games/finish-the-saying/) ajoute yon ti kesyon pou pale apre chak pawòl, epi [Conversation Cards](/games/conversation-cards/) fèt egzakteman pou sa. [Photo Pairs](/games/photo-pairs/) sèvi ak pwòp foto fanmi ou, ki souvan pote pi bèl istwa yo.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Ou ka jwenn plis lide nan gid nou yo sou [aktivite pou sonje ak pataje istwa](/activities/reminiscence/) ak [konsèy pou kominike](/caregiving/communication-tips/).
 
-## When should we stop?
+## Ki lè nou ta dwe sispann?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Sispann nan premye siy fatig oswa malèz, epi pi bon toujou, yon ti kras anvan. Alzheimer's Association konseye sispann oswa chanje yon aktivite lè atansyon an bese oswa fristrasyon an monte.
 
-Watch for:
+Fè atansyon ak:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- bay, koube, oswa je yo ki kite ekran an;
+- bouje san rete, kanpe, oswa mande pou ale;
+- soupire, repons kout, oswa "Mwen pa bon nan sa";
+- tape nenpot kote oswa pouse aparèy la lwen;
+- dlo nan je, iritasyon, oswa yon chanjman imè toudenkou.
 
-How to stop well:
+Kijan pou sispann byen:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Fini ak yon bagay ki fasil.** Yon dènye match yo ka fè, oswa yon dènye foto pou admire.
+- **Mete l sou ou.** "Mwen ta renmen bwè yon ti te. Èske nou ka sispann la?" evite bay nenpòt lide ke yo pa t fè byen.
+- **Pase nan yon bagay fizik oswa ki kalme.** Yon ti mache, yon ti goute, pliye rad oswa mizik.
+- **Di yon bagay cho.** "Mwen te renmen fè sa avè w." Pa fè lwanj pou "jwenn bon repons", jis montre ou te renmen tan nou te pase ansanm.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Fini pi bonè, chanje plan, oswa kite jwèt la pou nou senpleman chita ansanm se tout bon rezilta.
 
-## Can we play in a group or over a video call?
+## Èske nou ka jwe an gwoup oswa nan yon apèl videyo?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Wi, ak yon ti preparasyon anplis. Nan yon gwoup, kenbe li ak kèk moun, fè moun k ap ede yo chita bò kote nenpòt moun ki bezwen yo, epi chwazi yon jwèt ki gen yon objektif klè pou tout moun pataje. [Picture Bingo](/games/picture-bingo/) gen kat ou ka enprime ak yon moun ki anonse sou ekran an pou gwoup yo. Gade [aktivite pou gwoup nan kay swen](/activities/care-home-groups/) pou plis.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Nan yon apèl videyo, moun ki nan apèl la ka dekri yon foto pandan yon moun ki nan chanm nan lonje dwèt epi tape. Kenbe apèl yo kout ak abityèl. Gid nou an sou [apèl telefòn ak apèl videyo](/activities/phone-and-video-calls/) gen plis konsèy.
 
-## What if a game just isn't working?
+## E si yon jwèt pa mache ditou?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Gen jou kote pa gen anyen ki mache, epi sa pa vle di ou pa fè ase oswa moun nan pa fè ase. Mete jwèt la sou kote epi eseye ankò nan yon lòt moman nan jounen an, ak yon lòt jwèt, oswa san okenn jwèt. Anpil bon aktivite pa gen anyen pou wè ak ekran: mizik, pliye sèvyèt, gade yon albòm foto, oswa fè yon ti mache. Gade [lide aktivite](/activities/ideas/) nou yo pou plis.

@@ -1,33 +1,34 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Group Activiti blong Dementia: Gaed blong Haos Blong Kea"
+seoTitle: "Group Activiti blong Dementia: Bingo, Singsing, Stori"
+description: "Group activiti blong haos blong kea mo dei program: bingo blong piksa, singsing, grup blong toktok long taem we i pas, mo tip long sitting mo namba."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Ol group activiti we i gud long haos blong kea mo ol dei program oli sot, oli
+  save long ol samting we ol man i save finis, mo oli isi blong joen long eni
+  level. Oli olsem: bingo blong piksa, singsing, grup blong toktok long ol samting
+  blong bifo, ol simpol muvmen mo ol gem blong toktok wetem narafala. Sipos yu
+  save, kipim ol grup oli smol, sitim ol man wea oli save luk mo harem gud,
+  givim wan step nomo long wan taem, mo plan wan isi rol mo wan kuaet wei blong
+  go aot long man we i nidim.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Ol smol grup oftenem i gud moa long wan bigfala ivent, mo oli letem moa man joen long wok, no jes lukluk."
+  - "Sitim ol man long wan sékel o horseshu, klostu long lida, wetem tingting long ol nid blong herem mo luk, mo ol nois long backgraon i stap ofu."
+  - "Plan wan activiti long tu o tri level blong ol man oli save joen, nomata oli gat hamas abiliti."
+  - "Yu no fasem kwestin, skoa, o winnas. Bingo blong piksa i save pleyem, mo evri man i finis wetem fuel kad."
+  - "I OK sipos man i lusum grup bifo, i lukluk nomo, o i slip. Hev wan staff redi blong sapotem sipos man i wantem wan kuaet ples."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Wanem i gud namba blong grup long ol dementia activiti?"
+    a: "I no gat wan rat namba, i depen long ol man, rum mo hamas staff yu gat. Plante tim i faenem se ol smol grup oli letem evri man i luk, herem mo joen, be ol bigfala ivent oftenem i mekem moa man i jes lukluk. Sipos yu ran wan bigfala ivent, putum ol staff o ol volunteer we oli save sidaon kolsap long ol man mo helpem wan o tu man wan-wan."
+  - q: "Hao mi save ran wan grup we ol abiliti i stap difren?"
+    a: "Plan moa wan rod blong joen long eni activiti. Long wan singsing, sam man i singsing evri wot, sam i klap o hom, mo sam i holem wan shaker. Long bingo blong piksa, sam man i faenem ol piksa blong olgeta, wetem wan helper i pointem blong ol narafala. Sitim ol man we oli nidim moa help klosap long wan staff o volunteer."
+  - q: "Hao mi save pleyem bingo blong piksa wetaot fasen long winnas?"
+    a: "Kolem evri piksa kasem ol kad blong evriwan i fulap, so nobody i stap aot. Toktok long piksa from wanwan we i kam, mo no givim ol prize long winnas, o givim evriwan sem smol presen. Sans i blong sharem tingting mo toktok, no blong luk hu i finis fastfast."
+  - q: "Ses mi save yusum ol gem blong yumi long wan bigfala skrin long grup?"
+    a: "Yes. Ol gem blong yumi i ron long wan web browser, so yu save opem long laptop o tablet we i konekt long TV o projekta. Picture Bingo i gat ol kad blong printem mo wan kola long skrin. Finish the Saying mo Picture Pairs tu i gud long wan bigfala skrin, wetem wan man i tapem blong grup."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +53,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Gaed ya i blong ol lida blong activiti, ol tim blong kea long memori mo ol lida blong adalt dei program. I save kavremap ol fomat blong grup we i wok, setap blong rum, jenjem wan activiti blong ol man we oli gat ol abiliti i difren, mo yusum ol printabol bingo kad mo ol gem blong bigfala skrin. Evri samting long hia i blong gud fíling, konektem man, mo gat jes chois. Nating long hia i wan test.
 
-## What makes a group activity work in memory care?
+## Wanem i mekem wan group activiti i wok long kea blong memori?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Wan gud group activiti i samting we i fama, i sot, i isi blong joen long eni level, mo i no gat presa. Alzheimer's Association i gat [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) we i talem se wan minim engaj i save sapotem ol intres mo laekem blong man, mo i letem man i jusum mo i win, nating se dementia i sik we i hevi tumas. Sem dokumen ya i talem tu se ol tradisonal program oftenem i yusum wan o tu bigfala grup ivent long wan dei, we ol man oftenem jes lukluk nomo.
 
-That points to a few practical rules:
+Ol praktikal rul ya i kam long samting ya:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Fama i bitim nyuu.** Ol singsing, ol wot blong toktok, piksa mo ol samting from taem blong yangfala yia oli isi blong joen long hem.
+- **Sot i bitim longfala.** Plan blong long wan taem we grup i save tekem tingting, wetem wan stop we i naturol long midol.
+- **Mekem samting i bitim lukluk.** Givim evri man wan samting blong holem, tapem, jusum o talem.
+- **Plante level, wan activiti.** Putum insaed ol rod we i isi mo i hard blong joen.
+- **No winnas, no skoa.** Ol fomat we oli fasem long winnas i mekem sam man i fílim se oli fail.
 
-## How big should the group be?
+## Hao bigfala nao grup i safe i stap?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Smol i isi moa. Alzheimer's Association i talem se wan man we i fílim se bigfala grup i tumas blong hem, hem i save toktok mo joen moa gud long wan smol grup. I no gat wan rat namba. I depen long ol man, rum mo hamas staff mo volunteer we i stap.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Wan tes we i yusful: ol man oli save luk fes blong lida, herem klia mo wan helper i save kasem olgeta long sam seknd? Sipos nating, brokem grup, putum moa helper, o go long wan smol rum.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Long wan bigfala ivent, olsem wan konsel blong holide, sitim ol staff mo volunteer i stap long midol blong ol man, no long ol wol.
 
-## How should I set up the room and seating?
+## Hao mi save setap rum mo sitting?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Sékel o horseshu.** Ol praktis rekomendesen i talem se wan sharing sékel i gud long wan ples we i bigwan blong evriwan i sidaon long sékel, wetaot ol nois long backgraon.
+- **Lida i klostu mo i stap long level blong ae.** Sidaon i gud moa long stanap, sipos yu save.
+- **Harem mo luk i fes.** Sitim ol man we oli hadhad blong harem klostu long lida, long saed we oli harem gud. Mekem sua se ol glas mo ol hia-ed i stap long ol man. Alzheimer's Association i talem se ol problem blong luk mo harem i save mekem toktok i hard.
+- **Laet i kam from behaen ol man, no from behaen yu.** No sitim eni man we i fes long wan bigfala windo we laet i kamap.
+- **Lok TV mo redio.** Alzheimer's Association i advaesem blong tekemaot ol nois we i stap long taem blong musik.
+- **Wan toktok long wan taem.** Ol man i olgeta toktok sem taem i hard long ol man we oli gat dementia mo ol man we oli hadhad blong harem, olsem Alzheimer's Association i talem long [holiday guidance](https://www.alz.org/help-support/caregiving/holidays) blong hem.
+- **Ol ples blong go aot we i klia mo wan kona we i kuaet.** Eni man we i wantem go aot i mas save go isi, wetem wan staff we i wakem wetem hem.
 
-## Group activity ideas
+## Ol aedia blong group activiti
 
-### Picture bingo
+### Bingo blong piksa
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo blong piksa i jenjem ol namba wetem ol klia piksa, olsem wan tipot, wan dog o wan rosa, so nobody i nidim trak long wan longfala namba o ridim ol smol raetin.
 
-**How to run it:**
+**Hao blong rannem:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Printem wan kad blong wanwan man from [Picture Bingo](/games/picture-bingo/) pej, usim Print batan. Hevi pepa i isi blong holem. Laminetem blong yusum agen.
+2. Givim ol bigfala, isi blong pikimap ol marka, olsem ol poker chip, ol bottle cap o ol smol skuea blong kad.
+3. Yusum on-screen kola long TV o projekta, so evriwan i luk piksa taem yu talem nem blong hem.
+4. Pauzem afta long wanwan piksa mo askem ol man blong talem wan smol tingting: "Wanem man i gat wan dog we hem i save long hem?" o "Wanem yu luk long hia?"
+5. Kolem kasem ol kad i fulap olgeta. Evriwan i finis.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Jenjemen:** Usim fuel skuea blong ol man we i fílim se wan fulap kad i tumas. Wan helper i save pointem long piksa we i sem blong wan man we i nidim. Sam man i save laekem blong holem kad blong piksa blong kola mo sowem long grup.
 
-### Sing-alongs
+### Singsing
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Musik i wan long ol group activiti we moa man i laekem. Alzheimer's Association i talem se bitim long ol leit stej, wan man i save [tapem bit o singim wan singsing from taem blong pikinini](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Hao blong rannem:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Jusum ol singsing we ol man oli bin grow wetem, no ol singsing we lida i laekem. Askem ol famle wanem ol man oli laekem.
+- Yusum musik we no gat ol advertisment, wei Association i talem se oli save konfiusem ol man.
+- Printem ol tok long bigfala raetin blong ol man we oli save ridim, be no mastem.
+- Ofem ol shaker, hand drum o skaf blong wevim.
+- Inkrej klap mo muvmen, mo kipim vol i stap long wan gud lefel.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Jenjemen:** Sam man bai singim evri tok, sam bai hum, sam bai tapem fut, mo sam bai jes harem. Olgeta samting ya i kaontem. Lukluk long [music activities guide](/activities/music/) blong moa.
 
-### Reminiscence groups
+### Grup blong toktok long taem we i pas
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Wan grup blong toktok long taem we i pas i gadarem raon long wan tema, olsem ol yia long skul, ol fastfala kar, ol kitjen o ol samta, wetem ol foto, ol samting mo musik. Samting we i stap long hem i blong gud toktok, no blong tingting long ol trutrut.
 
-**How to run it:**
+**Hao blong rannem:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Jusum wan tema mo kasem sam smol samting we ol man i save holem: wan hanem mikser, wan bisbol glova, wan hat, wan katalog blong sid.
+2. Pasem wan samting long wanwan taem. Askem ol kwestin we i opem: "Tellem mi long samting ya," "Wanem yu luk?" "Hu i yusum wan samting olsem ya?"
+3. Welkam evri ansa. No stretem wan dat o fakt.
+4. Go long ol gud tingting. Ol praktis rekomendesen i talem se ol man we oli kea long ol man i mas stia toktok i go long ol gud tingting, no long ol samting we i save mekem ol man i hevi long tingting.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) i gat ol kad blong printem wetem ol piksa mo ol opem kwestin long wanwan tema, we i gud blong stattem toktok. Moa aedia i stap long [reminiscence guide](/activities/reminiscence/) blong yumi.
 
-### Finish the saying
+### Finis the saying
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Ol famle tok olsem ("Wan penny we yu seva i wan penny...") i invaet evriwan blong singaot long ol las wot tugeta. Soem [Finish the Saying](/games/finish-the-saying/) long wan bigfala skrin mo letem grup i ansarem olsem wan vois. I gat wan toktok prompt afta long wanwan tok. Sipos no gat wan man i talem las wot, soem i go long hem mo go ahed. I no gat rong o stret.
 
-### Large-print word search, together
+### Wod saj blong bigfala raetin, wetem ol narafala
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Soem [Word Search](/games/word-search/) long wan bigfala raetin mo lukaotem ol wod wetem grup, o printem kopi blong ol man we oli laekem blong wok wetem wan samting long tebol. Ol wod oli ron nomo go long saed mo go long daon.
 
-### Gentle movement
+### Gentol muvmen
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Ol stretsing we oli sidaon, pasem wan soft ball o balun, o dens long sia long musik we i fama. Soem wanwan muvmen, i no jes talemaot.
 
-### Sorting and matching at the table
+### Sotem mo matjem long tebol
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Ol smol tebol blong tri o fo man oli save sotem piksa, ol kaleko swatch o ol spun mo fork wetem. Long skrin, [Picture Pairs](/games/picture-pairs/) i save pleyem wetem ol piksa we oli stap oli luk, wetem wan man i tapem wetem tebol i toktok long wanwan piksa.
 
-## How do I use your games on a big screen?
+## Hao mi save yusum ol gem long bigfala skrin?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Ol gem blong yumi i ron long wan web browser, so yu save yusum long TV o projekta wetaot yu no instolem eni samting.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Opem gem long wan laptop o tablet we i konekt long skrin wetem kebol o kasting.
+2. Mekem browser i fulskrin mo setem saon long wan gud lefel.
+3. Wan lida i tapem, wetem grup i singaot ol jus blong olgeta. O pasem wan tablet i go long wan resident we i wantem wan tiem.
+4. Stopem taem evri grup i redi. Ol gem oli nogat taem, skoa o fos finis.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) mo [Conversation Cards](/games/conversation-cards/) oli moa i gud long grup. Lukluk ol jus long [games page](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Hao mi save jenjem wan activiti blong ol man we oli gat abiliti i difren?
 
-Plan at least three ways to join every activity.
+Plan long wan lis blong sayd tri rod blong joen long evri activiti.
 
-| Activity | More independent | Some support | Most support |
+| Activiti | Moa independen | Sam sapot | Moa sapot |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo blong piksa | Faenem mo kavremap ol piksa blong hem | Helper i pointem; man i kavremap | Holem kad blong piksa; harem mo luk |
+| Singsing | Singim, jusum nekis singsing | Hum, klap, usim shaker | Harem, holem skaf, tapem han |
+| Reminiscence | Talem ol stori | Ansarem wetem yes o no, o pointem | Holem mo fílim samting |
+| Word search | Wokem long kopi blong hem | Faenem wod long bigfala skrin wetem helper | Harem taem ol wod i ridim aot |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Long ol resident we oli stap long ol leit stej, NHS i talem se ol activiti i nidim blong i simpol moa mo i fokas moa long ol sens, olsem musik, ol samting blong tajem mo masaj blong han. Wan taem blong wan-long-wan long taem o afta long grup i save moa i fit long olgeta, i no grup. Lukluk [late-stage activities](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Hao ol lida oli save toktok taem oli stap long grup?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Introdiusem yu wan wan taem, mo yusum nem we man i laekem.
+- Toktok i isi, givim wan step long wan taem, mo soem bifo yu talem.
+- Askem ol opem invitesen ("Tellem mi long...") o ol simpol jus, no kwestin blong test ("Yu rememba...?").
+- No korektem. Thenkyu long evri tingting we man i givim.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Moa long hem i stap long [communication tips](/caregiving/communication-tips/) blong yumi.
 
-## Ending well, and letting people leave
+## Finisim gud, mo letem man i go
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Stopem i wan gud rizolt. Lukaotem ol saen se wan man i tajed, i no stap kwaet, o i sore, mo wan helper i save ofem wan wok o wan kuaet sia long narafala ples. Wan man we i slip long taem blong singsing i save jes i fil kam.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Klosem evri grup long sem wei, wetem wan fama singsing o wan simpol thenkyu, so finis i fílim kuaet mo i stret. Afta, rekodem wanem i wok mo hu i enjoy wanem. Ol nout ya i mekem nekis sesen i gud moa.

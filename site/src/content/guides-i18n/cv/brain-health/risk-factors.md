@@ -1,33 +1,32 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Деменци рискне пултаракан факторсем: Ланцет комиссийӗ палӑртнӑ 14"
+seoTitle: "Деменци риски: Ланцет палӑртнӑ 14 фактор"
+description: "2024 ҫулхи Ланцет комиссийӗ палӑртнӑ улшӑнма пултаракан 14 фактор, пурнӑҫ тапхӑрӗпе, тӗпчевсем мӗнпе ҫыхӑнтарни тата врача мӗн сӳтсе явма пултарни."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 ҫулхи Ланцет комиссийӗ деменци рискне пултаракан улшӑнма пултаракан 14
+  фактор палӑртрӗ: сахал вӗренӳ, илтӳ йывӑрлӑхӗ, ҫӳлти ЛПНП холестерин, депресси,
+  пуҫ травми, хусканусӑрлӑх, диабет, тӗтӗм ӗҫни, ҫӳлти юн тӑпри, ӑслай кӳлли,
+  ытла спиртлӗ ӗҫни, уйрӑмлӑх тата куҫпа курма майсӑрлӑх. Вӗсем пӗрле тӗнчере
+  деменци случӑйӗсен 45% ҫывӑхӗпе ҫыхӑннӑ, анчах пӗр-пӗр çын валли шанчӑк ҫук.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "14 фактор пурнӑҫа витӗр тухать: пӗрре малтанхи тапхӑра, вуннӑ вӑтам тапхӑра тата виҫҫӗ кӑҫал тапхӑра."
+  - "Вӑтам тапхӑра илтӳ йывӑрлӑхӗ тата ҫӳлти ЛПНП холестерин кашниех тӗнчере деменци случӑйӗсен 7% ҫывӑхӗпе ҫыхӑннӑ, пӗр-пӗр фактора тивӗҫтерсен чи пысӑк пай."
+  - "Ку процентасем — сӑлтӑна тата тӗллеве шутлакан популяци хаклавӗсем. Хӑш-пӗр ҫыхӑнусем пӗр пайне кӑна сӑлтавлӑ пулма пултараҫҫӗ."
+  - "Усӗм тата генсем, улшӑнма пултарайманнисене шутласа, тата пысӑк риск факторӗсем. 14 риска чакарни пӗр-пӗр çыншӑн деменци пулмасть тесе шанчӑк памасть."
+  - "Кунта сӳтсе явнӑ ӗҫсен чылайӑшӗ, сӑмахран, юн тӑприне, илтӳне тата курӑва тӗрӗслени, ытти енчен те сывлӑха усӑллӑ, ҫавна май врача парӑнма юрать."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Деменци рискне пултаракан улшӑнма пултаракан 14 фактор мӗнсем?"
+    a: "2024 ҫулхи Ланцет комиссийӗ сахал вӗренӳ, илтӳ йывӑрлӑхӗ, ҫӳлти ЛПНП холестерин, депресси, миме хыҫҫӑнхи пуҫ травми, хусканусӑрлӑх, диабет, тӗтӗм ӗҫни, ҫӳлти юн тӑпри, ӑслай кӳлли, ытла спиртлӗ ӗҫни, уйрӑмлӑх, сывлӑш таса та ҫитмен куҫпа курма майсӑрлӑха палӑртрӗ. Вӗсем пӗрле тӗнчере деменци случӑйӗсен ҫурринчен ҫывӑхӗпе ҫыхӑннӑ."
+  - q: "Деменци рискинчи мӗн фактор чи пӗлтерӗшлӗ?"
+    a: "Тӗнче популяцийӗ тӑрӑх, Комисси хаклавӗпе, вӑтам тапхӑра илтӳ йывӑрлӑхӗ тата ҫӳлти ЛПНП холестерин кашниех случӑйӗсен 7% ҫывӑхӗпе ҫыхӑннӑ, вӗсен хыҫҫӑн сахал вӗренӳ тата уйрӑмлӑх — кашниех 5% ҫывӑх. Пӗр-пӗр çын валли мӗн фактор чи пӗлтерӗшлӗ — унӑн хӑйӗн сывлӑхне кура, ҫавна май чи лайӑх ертсе пыракан — врач."
+  - q: "2024 ҫулта икӗ ҫӗнӗ фактор хушӑнчӗ-и?"
+    a: "Ҫапла. 2024 ҫулхи отчёт 2020 ҫулта палӑртнӑ 12 фактора вӑтам тапхӑра ҫӳлти ЛПНП («начар») холестерин тата кӑҫал тапхӑра куҫпа курма майсӑрлӑха хушрӗ. Комисси вӗсене случӑйӗсен 7% тата 2% ҫывӑхӗпе ҫыхӑнтарчӗ."
+  - q: "Усӗм улшӑнма пултаракан риск факторӗ-и?"
+    a: "Ҫук. Усӗм — Альцгеймер чирӗн паллӑ чи пысӑк риск факторӗ, ӑна улӑштарма май ҫук. Генсем те пӗр пайне тытнӑ. Ку страницӑри 14 фактор — тӗпчевсем улшӑнма пултараҫҫӗ тесе шутланисем."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +48,121 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Риск факторӗ — пӗр чир пулма майне ҫӳлентерекен япӑх. Вӑл кашни случӑйра та
+сӑлтав мар, тата ун пек фактор пурри деменци пулӗ тесе пӗлтермест. Ку страница
+2024 ҫулхи Ланцет комиссийӗ улшӑнма пултараҫҫӗ тенӗ 14 деменци риск факторне,
+тӗпчевсем вӗсене мӗнпе ҫыхӑнтарнине тата врача мӗн сӳтсе явма пултарнине
+кӑтартать.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Анлӑрах курас тесен, пысӑк тӗпчевсем мӗн тупнипе пӗрле,
+[Деменцирен хӳтӗленме май пур-и? Тӗпчевсем мӗн каланӑ](/brain-health/can-dementia-be-prevented/)
+страницӑран пуҫлӑр. Ку — пӗрлехи информаци, медицинасӑр сӗнӳ мар; пирӗн
+[медицинасӑр сӗнӳсенчен хӳтӗленӳ](/medical-disclaimer/) страницине пӑхӑр.
 
-## What are the 14 risk factors for dementia?
+## Деменци валли 14 риск факторӗ мӗнсем?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 ҫулхи Ланцет комиссийӗ](https://doi.org/10.1016/S0140-6736(24)01296-0),
+27 деменци тӗпчевҫи ҫырнӑ, улшӑнма пултаракан 14 риск факторӗ пӗрле тӗнчере
+деменци случӑйӗсен 45% ҫывӑхне тивӗҫтерет тесе хакларӗ. Аяларах кашни фактор
+валли кӑтартнӑ процент — Комиссийӗн тӗнчери случӑйсен унпа ҫыхӑннӑ пайне
+хаклавӗ, пӗрре пухнӑ хисеп. Хисепсем пӗр-пӗрин ҫийӗнче выртаҫҫӗ, мӗншӗн тесен
+чылай çынсен темиҫе риск пур, ҫавна май вӗсем 45% пулаҫҫӗ, ытларах мар.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Риск факторӗ | Пурнӑҫ тапхӑрӗ | Случӑйсен пайӗ | Тӗпчевсем мӗнпе ҫыхӑнтараҫҫӗ | Мӗн тума пулать |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Сахал вӗренӳ | Малтанхи тапхӑр | 5% | Сахалрах вӗреннӗ ҫулсем риски ҫӳлентернипе ҫыхӑннӑ. Вӑтам тапхӑра шухӑша ӗҫлеттерекен ӗҫсем те хӳтӗлевлӗ пулма пултараҫҫӗ, сахал вӗреннӗ çынсен те. | Мӗнпур усӗмра вӗренӳпе тата шухӑша ӗҫлеттерекен ӗҫсемпе ӑнланӑр: вулав, хаваслӑх, уроксем, ыттисемпе вӑйӑсем. |
+| Илтӳ йывӑрлӑхӗ | Вӑтам тапхӑр | 7% | Илтӳ йывӑрлӑхне тӳрлетменни риски ҫӳлентернипе ҫыхӑннӑ. Çынсене вӑхӑт тӑрӑх сӑнакан тӗпчевсем илтӳ аппаратӗпе усӑ курни сахалрах рискпа ҫыхӑннӑ. | Илтӳне тӗрӗслертӗр. Илтӳ аппарачӗ пулӑшма пултарӗ-и тесе ыйтӑр, палӑртнӑ пулсан тӑхӑнӑр. Хӑлхана янкӑравран хӳтӗлӗр. |
+| Ҫӳлти ЛПНП холестерин | Вӑтам тапхӑр (40 ҫул ҫывӑхӗнчен) | 7% | Вӑтам тапхӑра ҫӳлти ЛПНП («начар») холестерин риски ҫӳлентернипе ҫыхӑннӑ. Сӑнаса тӑракан тӗпчевсем статинсемпе усӑ курни сахалрах рискпа ҫыхӑннӑ, анчах кӑҫал тапхӑрти тӗпчевсем куна кӑтартман. | Холестерина тӗрӗслемелле-и, тӗрӗсленӗ пулсан мӗн тумалла — ҫавна врача ыйтӑр. |
+| Депресси | Вӑтам тапхӑр | 3% | Депресси риски ҫӳлентернипе ҫыхӑннӑ. Кӑҫал тапхӑра депресси деменцийӗн малтанхи палли те пулма пултарать. | Икӗ эрнерен ытларах вӑйлӑ кӑмӑлпа е кӑсӑк ҫухалнипе врача пӗлтерӗр. Депрессие тӳрлетме май пур. |
+| Миме хыҫҫӑнхи пуҫ травми | Вӑтам тапхӑр | 3% | Мӗнпур усӗмра та мӗнле сӑлтавпа та, контактлӑ спортпа шутласа, пуҫ суранӑвӗ риски ҫӳлентернипе ҫыхӑннӑ. | Велосипедпа ҫӳренӗ чух тата контактлӑ спортра каска тӑхӑнӑр. Ӳкнине сӗнме май ҫинчен ыйтӑр. Пуҫ сурансан кану илӗр те тӗрӗсленӗр. |
+| Хусканусӑрлӑх | Вӑтам тапхӑр | 2% | Хускану тата спортпа ӗҫлекен çынсен деменци сахалрах пулма пултарать. Тӗпчевсен çирӗплетӳлӗхӗ халӗ те пӗтӗм мар. | Сире мӗнле хускану хӑрушсӑр тесе ыйтӑр, килӗшекенне тупӑр. Пирӗн [хускану ҫинчен ертӳлӗх](/brain-health/exercise/) пӑхӑр. |
+| Диабет | Вӑтам тапхӑр | 2% | Диабет, уйрӑмах вӑтам тапхӑра пуҫлансан е тӑсӑлса тӑнӑ пулсан, риски ҫӳлентернипе ҫыхӑннӑ. | Юнри сакӑра тӗрӗслертӗр. Диабет пур пулсан, ӑна хӑрушсӑр тытса тӑма пӑхса тӑракан ушкӑнпа пӗрле ӗҫлӗр. |
+| Тӗтӗм ӗҫни | Вӑтам тапхӑр | 2% | Тӗтӗм ӗҫни риски ҫӳлентернипе ҫыхӑннӑ. Тӗпчевсем кӑтартнӑ тӑрӑх, ӗҫменнине пӑрахнӑ çынсен унта тӑракан çынсен пек ҫӳлти риск ҫук. | Пӑрахма пулӑшма пултаракан майсем ҫинчен ыйтӑр. Мӗнпур усӗмра та пӑрахни усӑллӑ. |
+| Ҫӳлти юн тӑпри | Вӑтам тапхӑр | 2% | Вӑтам тапхӑра ҫӳлти юн тӑпри риски ҫӳлентернипе ҫыхӑннӑ. Юн тӑприне тӳрлетекен эмелсен тӗпчевӗсем деменци е шухӑшлав йывӑрлӑхӗ пӗчӗкре чакнине кӑтартнӑ. | Хӑвӑр хисепсене пӗлӗр. Комисси 40 ҫул ҫывӑхӗнчен ҫӳлти хисепе 130 е унтан сахалрах тытма сӗнет; сире мӗнле тӗллев килӗшет тесе ыйтӑр. |
+| Ӑслай кӳлли | Вӑтам тапхӑр | 1% | Вӑтам тапхӑра ӑслай кӳлли риски ҫӳлентернипе ҫыхӑннӑ, унсӑр пуҫне диабет риски те ҫӳлет. | Сире килӗшекен сывлӑхлӑ виҫе ҫинчен врача ыйтӑр. Ватӑ çынсем эмелпе сӗнменнипе вине чакма тивӗҫ мар. |
+| Ытла спиртлӗ ӗҫни | Вӑтам тапхӑр | 1% | Нумай спиртлӗ ӗҫни риски ҫӳлентернипе ҫыхӑннӑ. Нумай ӗҫнинчен чакни сахалрах рискпа ҫыхӑннӑ. | Сире хӑрушсӑр виҫе мӗнле тесе ыйтӑр, уйрӑмах эмелсемпе пӗрле ӗҫнӗ чух. |
+| Уйрӑмлӑх | Кӑҫал тапхӑр | 5% | Çынсемпе сахал пӗрле пулни риски ҫӳлентернипе ҫыхӑннӑ. | Килӗшекен мелсемпе çынсемпе ҫыхӑнура тӑрӑр. Пирӗн [ҫынсемпе ҫыхӑну ҫинчен ертӳлӗх](/brain-health/social-connection/) пӑхӑр. |
+| Сывлӑш таса | Кӑҫал тапхӑр | 3% | Сывлӑшри таса ытларах пулни риски ҫӳлентернипе ҫыхӑннӑ. Тӗпчевсем сывлӑш таса лайӑхрах пулни сахалрах рискпа ҫыхӑннине кӑтартнӑ. | Ку ытларах йӗркелӳшсен ыйтӑвӗ. Вырӑнти сывлӑш пахалӑхӗ ҫинчен пӗлтерӳсене тӗрӗслӗр, сывлӑш чӗрӗ мар кунсенче урамра сахалрах пулӑр. |
+| Куҫпа курма майсӑрлӑх | Кӑҫал тапхӑр | 2% | Куҫ йывӑрлӑхне тӳрлетменни риски ҫӳлентернипе ҫыхӑннӑ. АПШри пысӑк тӗпчев cataract операцийӗпе сахалрах риска ҫыхӑнтарнӑ. | Куҫа йӑлтах тӗрӗслертӗр. Cataract пек йывӑрлӑхсене тӳрлетме май пур-и тесе ыйтӑр. |
 
-## How should I read these percentages?
+## Ку процента мӗнле вулӑмалла?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Тимлӗн. Комиссийӗн хӑйӗн отчёчӗ шухӑшласа юлмалли темиҫе пӗлтерӳ парать:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Вӗсем популяцисене кӑтартаҫҫӗ, пӗр-пӗр çынсене мар.** Лондон университет колледжӗн
+  [отчёт хӑватӗ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  асӑннипе, риска чакарни популяци шайӗнче ӗҫлет, анчах пӗр-пӗр çыншӑн деменци
+  пулмасть тесе шанчӑк памасть.
+- **Вӗсем сӑлтав тата тӗллев пур тесе шутлаҫҫӗ.** Авторсем ҫирӗплетӳлӗхӗ пур
+  факторсене кӑна кӗртнӗ, анчах хӑш-пӗр ҫыхӑнусем пӗр пайне кӑна сӑлтавлӑ
+  пулма пултараҫҫӗ теҫҫӗ.
+- **Ку — тӗнчери хисепсем.** Даннӑйсен чылайӑшӗ пуян странысенчен, ҫавна май
+  пӗр-пӗр ҫӗршыв е пӗрлешӳ валли чӑн пай урӑхла пулӗ.
+- **Пӗчӗк процентасем те пӗлтерӗшлӗ пулма пултараҫҫӗ.** Тӗнчере случӑйсен 2% ҫывӑхӗпе
+  ҫыхӑннӑ фактор те питӗ нумай çынсене витӗм кӳрет.
 
-## Which risk factors were added in 2024?
+## 2024 ҫулта мӗнле риск факторӗсем хушӑнчӗҫ?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 ҫулхи отчёт 2020 ҫулта палӑртнӑ 12 фактора икӗ хут хушрӗ:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Вӑтам тапхӑра ҫӳлти ЛПНП холестерин** — случӑйсен 7% ҫывӑхӗпе ҫыхӑннӑ.
+- **Кӑҫал тапхӑра куҫпа курма майсӑрлӑх** — случӑйсен 2% ҫывӑхӗпе ҫыхӑннӑ.
 
-## What risk factors cannot be changed?
+## Мӗнле риск факторӗсене улӑштарма май ҫук?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Ватлану институчӗ каланӑ тӑрӑх,
+[усӗм — Альцгеймер чирӗн паллӑ чи пысӑк риск факторӗ](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ӑна улӑштарма май ҫук. Генсем те пӗр пайне тытнӑ; Альцгеймер рискине витӗм
+кӳрекен чылай паллӑ генсенчен пӗри — APOE. Институт хушса калать: учёнайсем
+халӗ те чылай çынсен Альцгеймер чирӗ мӗнрен пуҫланнине тӗплӗн ӑнланман.
+Ланцет комиссийӗ палӑртнӑ тӑрӑх, улшӑнма пултаракан рисксене, çынӑн генетика
+риски мӗнле пулсан та, чакартма май пур.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Усӗм тата генсем пысӑк вырӑн йышӑннӑран, 14 риск факторӗн пӗрри те ҫук çынсен
+те чылайӑшӗн деменци пуҫланать. Кунта никам та айӑплӑ мар.
 
-## What does the trial evidence say about changing these risks?
+## Ку рисксене улӑштарни ҫинчен тӗпчев ҫирӗплетӳлӗхӗ мӗн калать?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Риск фактора деменципе ҫыхӑнтарни — ӑна улӑштарни деменци рискине чакартать
+тесе çирӗплетнипе пӗрешкел мар. Тӗпчев ҫирӗплетӳлӗхӗ мӗнле выртнӑ ҫинчен
+хӑш-пӗр тӗслӗхсем:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Юн тӑпри.** SPRINT MIND тӗпчевӗнче юн тӑприн сахалрах тӗллевӗ пӗчӗк шухӑшлав
+  йывӑрлӑхне пӗлтерӗшлӗ чакартрӗ. Вӑл пулма пултаракан деменцие пӗлтерӗшлӗ
+  чакартмарӗ, анчах тӗпчев куна кӑтартма ҫителӗксӗр пӗчӗк пулма пултарнӑ
+  ([SPRINT MIND, JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Илтӳ аппарачӗсем.** Ланцет комиссийӗ виҫӗ ҫул тӑсӑлнӑ илтӳ аппаратӗ тӗпчевне
+  кӑтартать: шухӑшлав ҫине пӗрлехи витӗм ҫук пулнӑ, анчах риски ҫӳлти çынсен
+  ушкӑнӗнче усӑ пулнӑ. Çынсене вӑхӑт тӑрӑх сӑнакан тӗпчевсем илтӳ аппаратӗпе
+  усӑ курни сахалрах рискпа ҫыхӑннӑ. Пирӗн [илтӳ ҫинчен ертӳлӗхре](/brain-health/hearing/)
+  ытларах пур.
+- **Хускану.** Ватлану институчӗ каланӑ тӑрӑх, хускану пӗчӗк шухӑшлав йывӑрлӑхне е
+  Альцгеймер чирне сӗнме е чарма пултарать тесе калама тӗпчев ҫирӗплетӳлӗхӗ
+  ҫителӗксӗр, анчах хӑш-пӗр тӗпчевсем вӑл усӗмпе ҫыхӑннӑ чакануран пулӑшма
+  пултарнине кӑтартнӑ
+  ([NIA: Альцгеймер чирӗнчен хӳтӗленӳ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Деменци пуҫланнине кӗтсе тӑракан вӑрӑм тӗпчевсем вӑрӑм та йывӑр, ҫавна май
+чылай факторсем валли чи лайӑх ҫирӗплетӳ çынсене ҫулсем тӑрӑх сӑнакан
+тӗпчевсенчен киле. Ку ҫирӗплетӳ усӑллӑ, анчах тӗпчев ҫирӗплетӳлӗхӗнчен сахалрах.
 
-## What about sleep and diet?
+## Ҫывӑрни тата апатлану ҫинчен мӗн?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Комисси ҫывӑрнине тата апатланӑва тишкернӗ, анчах вӗсене списока кӗртмен,
+мӗншӗн тесен ҫирӗплетӳ ҫителӗклӗ е пӗркеллӗ мар. Пирӗн [ҫывӑрни](/brain-health/sleep/)
+тата [апатлану](/brain-health/diet/) ҫинчен ертӳлӗхсем пӗлтерӗшсене ăнлантараҫҫӗ.
 
-## Talk with a doctor
+## Врачпа сӳтсе явӑр
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Ҫулленхи тӗрӗслев — ку темӑсене калаҫма лайӑх вӑхӑт. Эсир ку списка илсе килме
+те ҫакна ыйтма пултаратӑр:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Манӑн юн тӑпри, юнри сакӑр тата холестерин хисепӗсем мӗнле, хӑшӗ-пӗрине тимлӗ
+  тӑмалла-и?
+- Илтӳне тата куҫа тӗрӗслертмелле-и?
+- Эпӗ тӑвакан хускану мана хӑрушсӑр тата ҫителӗклӗ-и?
+- Манӑн эмелсен хӑшӗ-пӗри аса илӳе е шухӑшлава витӗм кӳрет-и?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Эмелсене, апатланӑва, кӑҫалхине, хусканӑва е хушма татӑксене улӑштариччен
+малтан врача сӳтсе явӑр. Эсир е эсир пӑхса тӑракан çын йӑнӑшлана тӑни, пӗр
+енчен вӑй ҫухални е чӗлхепе калаҫма йывӑр пулни курӑнсан, 112 шутне шӑнкӑравлӑр.

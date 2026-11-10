@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Gweithgareddau Grŵp ar gyfer Dementia: Canllaw"
+seoTitle: "Gweithgareddau Grŵp ar gyfer Dementia: Bingo a Chaneuon"
+description: "Gweithgareddau grŵp ar gyfer gofal cof, cartrefi nyrsio a rhaglenni dydd i oedolion: bingo lluniau, canu gyda’n gilydd a chylchoedd atgofion."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Mae gweithgareddau grŵp da mewn gofal cof a rhaglenni dydd i oedolion yn fyr,
+  yn gyfarwydd ac yn hawdd ymuno â nhw ar unrhyw lefel: bingo lluniau, canu
+  gyda’n gilydd, cylchoedd atgofion, symud syml a gemau geiriau ar y cyd. Cadwch
+  grwpiau’n fach lle gallwch, eisteddwch bobl fel bod pawb yn gallu gweld a
+  chlywed, rhowch un cam clir ar y tro, a chynlluniwch rôl haws a ffordd dawel i
+  adael i unrhyw un sydd ei hangen.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Yn aml, mae grwpiau llai yn gweithio’n well nag un digwyddiad mawr, ac maen nhw’n rhoi cyfle i fwy o bobl gymryd rhan weithredol yn hytrach na gwylio’n unig."
+  - "Eisteddwch bobl mewn cylch neu siâp pedol, yn agos at yr arweinydd, gan ystyried anghenion clyw a golwg a diffodd sŵn cefndir."
+  - "Cynlluniwch bob gweithgaredd ar ddwy neu dair lefel fel bod pawb â galluoedd gwahanol yn gallu ymuno."
+  - "Osgowch gwestiynu, sgorio ac enillwyr. Gellir chwarae bingo lluniau fel bod pawb yn gorffen gyda cherdyn llawn."
+  - "Mae gadael yn gynnar, gwylio, neu hepian yn iawn. Sicrhewch fod aelod o staff yn barod i gefnogi unrhyw un sydd eisiau lle tawelach."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Beth yw maint grŵp da ar gyfer gweithgareddau dementia?"
+    a: "Does dim un rhif cywir, ac mae’n dibynnu ar y preswylwyr, yr ystafell a faint o staff sydd gennych. Mae llawer o dimau’n gweld bod grwpiau bach yn helpu pawb i weld, clywed a chymryd rhan, tra bod digwyddiadau mewn ystafelloedd mawr yn tueddu i adael mwy o bobl yn gwylio. Os ydych chi’n cynnal digwyddiad mawr, ychwanegwch staff neu wirfoddolwyr i eistedd ymysg y preswylwyr a helpu un neu ddau o bobl yr un."
+  - q: "Sut mae cynnal grŵp gyda galluoedd cymysg?"
+    a: "Cynlluniwch fwy nag un ffordd o ymuno â phob gweithgaredd. Mewn sesiwn canu, bydd rhai pobl yn canu pob gair, rhai’n curo dwylo neu’n hymian, a rhai’n dal offeryn ysgwyd. Mewn bingo lluniau, bydd rhai pobl yn dod o hyd i’w lluniau eu hunain tra bod cynorthwyydd yn pwyntio i eraill. Eisteddwch bobl sydd angen mwy o help wrth ymyl aelod o staff neu wirfoddolwr."
+  - q: "Sut mae chwarae bingo lluniau heb ei wneud yn gystadleuol?"
+    a: "Galwch bob llun nes bod cerdyn pawb yn llawn, fel nad oes neb yn cael ei adael allan. Siaradwch am bob llun wrth iddo ddod i fyny, a hepgorwch wobrau i enillwyr neu rhowch yr un anrheg fach i bawb. Y nod yw sylw a sgwrs ar y cyd, nid pwy sy’n gorffen gyntaf."
+  - q: "A allaf ddefnyddio eich gemau ar sgrin fawr mewn grŵp?"
+    a: "Gallwch. Mae ein gemau’n rhedeg mewn porwr gwe, felly gallwch eu hagor ar liniadur neu dabled wedi’i gysylltu â theledu neu daflunydd. Mae Picture Bingo yn cynnwys cardiau i’w hargraffu a galwr ar y sgrin. Mae Gorffen yr Ymadrodd a Parau Lluniau hefyd yn gweithio’n dda ar sgrin fawr gydag un person yn tapio ar ran y grŵp."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Mae’r canllaw hwn ar gyfer cyfarwyddwyr gweithgareddau, timau gofal cof ac arweinwyr rhaglenni dydd i oedolion. Mae’n ymdrin â fformatau grŵp sy’n gweithio, trefnu’r ystafell, addasu un gweithgaredd ar gyfer galluoedd cymysg, a defnyddio ein cardiau bingo i’w hargraffu a’n gemau ar sgrin fawr. Nod popeth yma yw cysur, cysylltiad a dewis. Nid prawf yw unrhyw beth yma.
 
-## What makes a group activity work in memory care?
+## Beth sy’n gwneud i weithgaredd grŵp weithio mewn gofal cof?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Mae gweithgaredd grŵp da yn gyfarwydd, yn fyr, yn hawdd ymuno ag ef ar unrhyw lefel ac yn rhydd o bwysau. Mae [Argymhellion Arfer Gofal Dementia](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) Cymdeithas Alzheimer’s yn disgrifio ymgysylltiad ystyrlon fel rhywbeth sy’n cefnogi diddordebau a dewisiadau person ac yn caniatáu dewis a llwyddiant, hyd yn oed pan fo dementia ar ei fwyaf difrifol. Mae’r un ddogfen yn nodi bod rhaglenni traddodiadol yn aml yn dibynnu ar un neu ddau ddigwyddiad grŵp mawr y dydd lle mae preswylwyr yn aml yn cymryd rhan yn oddefol yn unig.
 
-That points to a few practical rules:
+Mae hynny’n awgrymu ychydig o reolau ymarferol:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Mae’r cyfarwydd yn well na’r newydd.** Mae caneuon, ymadroddion, lluniau a gwrthrychau o flynyddoedd iau’r preswylwyr yn haws ymuno â nhw.
+- **Mae byr yn well na hir.** Cynlluniwch ar gyfer tua hyd y sylw sydd gan eich grŵp fel arfer, gyda phwynt stopio naturiol hanner ffordd drwodd.
+- **Mae gwneud yn well na gwylio.** Rhowch rywbeth i bob person ei ddal, ei dapio, ei ddewis neu ei ddweud.
+- **Llawer o lefelau, un gweithgaredd.** Cynlluniwch ffyrdd haws ac anoddach o gymryd rhan.
+- **Dim enillwyr, dim sgoriau.** Mae fformatau cystadleuol yn gadael rhai pobl yn teimlo eu bod wedi methu.
 
-## How big should the group be?
+## Pa mor fawr ddylai’r grŵp fod?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Fel arfer, mae llai yn haws. Mae Cymdeithas Alzheimer’s yn nodi y gall person sy’n ei chael hi’n llethol bod mewn cynulliad mawr ryngweithio’n fwy llwyddiannus mewn grŵp llai. Does dim un rhif cywir. Mae’n dibynnu ar y preswylwyr, yr ystafell a faint o staff a gwirfoddolwyr sydd ar gael.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Prawf defnyddiol: a all pob person weld wyneb yr arweinydd, clywed yn glir a chael help gan gynorthwyydd o fewn ychydig eiliadau? Os na, rhannwch y grŵp, ychwanegwch gynorthwywyr, neu symudwch i ystafell lai.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Ar gyfer digwyddiad mawr, fel cyngerdd gwyliau, eisteddwch staff a gwirfoddolwyr ymysg y preswylwyr, nid ar hyd y waliau.
 
-## How should I set up the room and seating?
+## Sut ddylwn i drefnu’r ystafell a’r seddi?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Cylch neu siâp pedol.** Mae’r argymhellion arfer yn disgrifio cylch rhannu fel rhywbeth sy’n gweithio orau mewn lle digon mawr i bawb eistedd mewn cylch, heb sŵn cefndir.
+- **Arweinydd yn agos ac ar lefel y llygaid.** Eisteddwch yn hytrach na sefyll pan allwch.
+- **Clyw a golwg yn gyntaf.** Eisteddwch bobl â cholled clyw agosaf at yr arweinydd, ar eu hochr orau. Sicrhewch fod sbectol a chymhorthion clyw yn eu lle. Mae Cymdeithas Alzheimer’s yn nodi y gall problemau golwg a chlyw wneud cyfathrebu’n anoddach.
+- **Golau o’r tu ôl i’r preswylwyr, nid o’ch tu ôl chi.** Peidiwch ag eistedd unrhyw un yn wynebu ffenestr lachar.
+- **Diffoddwch y teledu a’r radio.** Mae Cymdeithas Alzheimer’s yn cynghori cael gwared ar sŵn cystadleuol yn ystod gweithgareddau cerddoriaeth.
+- **Un sgwrs ar y tro.** Mae sgwrsio traws yn anodd i bobl sy’n byw gyda dementia ac i bobl â cholled clyw, fel y mae Cymdeithas Alzheimer’s yn nodi yn ei [chanllawiau gwyliau](https://www.alz.org/help-support/caregiving/holidays).
+- **Allanfeydd clir a chornel dawel.** Dylai unrhyw un sydd eisiau gadael allu gwneud hynny’n hawdd, gydag aelod o staff i gerdded gyda nhw.
 
-## Group activity ideas
+## Syniadau ar gyfer gweithgareddau grŵp
 
-### Picture bingo
+### Bingo lluniau
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Mae bingo lluniau yn defnyddio lluniau clir yn lle rhifau, fel tebot, ci neu rosyn, felly does dim angen i neb ddilyn rhif hir na darllen print bach.
 
-**How to run it:**
+**Sut i’w gynnal:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Argraffwch un cerdyn i bob person o’n tudalen [Picture Bingo](/games/picture-bingo/) gan ddefnyddio’r botwm Argraffu. Mae papur trwm yn haws ei drin. Gellir ei lamineiddio i’w ddefnyddio eto.
+2. Rhowch farcwyr mawr sy’n hawdd eu codi, fel sglodion pocer, capiau poteli neu sgwariau o gerdyn wedi’u torri.
+3. Defnyddiwch y galwr ar y sgrin ar deledu neu daflunydd fel bod pawb yn gweld y llun wrth i chi ddweud ei enw.
+4. Oedwch ar ôl pob llun a gwahoddwch sylw byr: “A hoffai unrhyw un ddweud wrthym am gi roeddech chi’n ei adnabod?” neu “Beth ydych chi’n ei sylwi am yr un hwn?”
+5. Parhewch i alw nes bod pob cerdyn yn llawn. Mae pawb yn gorffen.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Ei addasu:** Defnyddiwch lai o sgwariau i bobl sy’n ei chael hi’n ormod â cherdyn llawn. Gall cynorthwyydd bwyntio at y llun sy’n cyfateb i rywun sydd ei angen. Efallai y bydd rhai pobl yn well ganddynt ddal cerdyn llun y galwr a’i ddangos i’r grŵp.
 
-### Sing-alongs
+### Canu gyda’n gilydd
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Mae cerddoriaeth yn un o’r gweithgareddau grŵp mwyaf poblogaidd. Mae Cymdeithas Alzheimer’s yn nodi, hyd yn oed yn y camau hwyr, y gall person [daro curiad neu ganu cân o’i bl plentyndod](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Sut i’w gynnal:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Dewiswch ganeuon y tyfodd y preswylwyr i fyny gyda nhw, nid hoff ganeuon yr arweinydd. Gofynnwch i deuluoedd beth oedd pob person yn ei garu.
+- Defnyddiwch gerddoriaeth heb hysbysebion, y mae’r Gymdeithas yn nodi y gallant fod yn ddryslyd.
+- Argraffwch y geiriau mewn print mawr i’r rhai sy’n darllen, ond peidiwch â’i gwneud yn ofynnol.
+- Cynigiwch offerynnau ysgwyd, drymiau llaw neu sgarffiau i’w chwifio.
+- Anogwch guro dwylo a symud, a chadwch y sain ar lefel gyfforddus.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Ei addasu:** Bydd rhai pobl yn canu pob gair, rhai’n hymian, rhai’n taro eu troed, a rhai’n gwrando’n unig. Mae pob un o’r rhain yn cyfrif. Gweler ein [canllaw gweithgareddau cerddoriaeth](/activities/music/) am ragor.
 
-### Reminiscence groups
+### Grwpiau atgofion
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Mae grŵp atgofion yn dod at ei gilydd o amgylch thema, fel dyddiau ysgol, ceir cyntaf, ceginau neu’r haf, gan ddefnyddio lluniau, gwrthrychau a cherddoriaeth. Y nod yw sgwrs braf, nid cof cywir.
 
-**How to run it:**
+**Sut i’w gynnal:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Dewiswch un thema a dewch ag ychydig o wrthrychau y gall pobl eu dal: cymysgydd llaw, maneg pêl fas, het, catalog hadau.
+2. Pasiwch un gwrthrych ar y tro. Gofynnwch gwestiynau agored: “Dywedwch wrthyf am hwn,” “Beth ydych chi’n ei sylwi?” “Pwy oedd yn defnyddio rhywbeth fel hyn?”
+3. Croesawwch bob ateb. Peidiwch byth â chywiro dyddiad na ffaith.
+4. Arweiniwch y sgwrs tuag at atgofion cynnes. Mae’r argymhellion arfer yn nodi y dylai darparwyr gofal arwain atgofion tuag at atgofion cadarnhaol yn hytrach na rhai a allai achosi gofid.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+Mae [Conversation Cards](/games/conversation-cards/) yn cynnig cardiau lluniau i’w hargraffu gyda chwestiynau agored yn ôl thema sy’n gweithio’n dda fel man cychwyn trafodaeth. Mae mwy o syniadau yn ein [canllaw atgofion](/activities/reminiscence/).
 
-### Finish the saying
+### Gorffen yr ymadrodd
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Mae ymadroddion cyfarwydd (“A ddaw gwaith i ben...”) yn gwahodd pawb i alw’r diwedd gyda’i gilydd. Dangoswch [Finish the Saying](/games/finish-the-saying/) ar sgrin fawr a gadewch i’r grŵp ateb fel un llais. Mae cwestiwn sgwrsio ar ôl pob ymadrodd. Os nad oes neb yn dweud y diwedd, dangoswch ef a symudwch ymlaen. Does dim iawn na dim anghywir.
 
-### Large-print word search, together
+### Chwilair print mawr, gyda’n gilydd
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Taflwch y [Word Search](/games/word-search/) print mawr ar sgrin a chwiliwch am eiriau fel grŵp, neu argraffwch gopïau i’r rhai sy’n mwynhau gweithio ar eu pennau eu hunain wrth y bwrdd. Mae geiriau’n rhedeg ar draws ac i lawr yn unig.
 
-### Gentle movement
+### Symud ysgafn
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Ymestyniadau wrth eistedd, pasio pêl feddal neu falŵn, neu ddawnsio ar gadair i gerddoriaeth gyfarwydd. Dangoswch bob symudiad yn hytrach na’i ddisgrifio.
 
-### Sorting and matching at the table
+### Trefnu a paru wrth y bwrdd
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Gall byrddau bach o dri neu bedwar o bobl drefnu lluniau, darnau o ffabrig neu offer bwrdd gyda’i gilydd. Ar y sgrin, gellir chwarae [Picture Pairs](/games/picture-pairs/) gyda’r lluniau’n weladwy, gydag un person yn tapio tra bod y bwrdd yn siarad am bob llun.
 
-## How do I use your games on a big screen?
+## Sut mae defnyddio eich gemau ar sgrin fawr?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Mae ein gemau’n rhedeg mewn porwr gwe, felly gallwch eu defnyddio ar deledu neu daflunydd heb osod dim.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Agorwch y gêm ar liniadur neu dabled wedi’i gysylltu â’r sgrin drwy gebl neu fwrw.
+2. Gwnewch y porwr yn sgrin lawn a gosodwch y sain ar lefel gyfforddus.
+3. Gofynnwch i un arweinydd wneud y tapio tra bod y grŵp yn galw eu dewisiadau. Neu pasiwch dabled i breswylydd sydd eisiau tro.
+4. Stopiwch pryd bynnag y bydd y grŵp yn barod. Does gan y gemau ddim amserydd, sgôr na gorffeniad gorfodol.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+Mae [Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) a [Conversation Cards](/games/conversation-cards/) yn tueddu i weddu orau i grwpiau. Gweler yr holl opsiynau ar ein [tudalen gemau](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Sut mae addasu un gweithgaredd ar gyfer galluoedd cymysg?
 
-Plan at least three ways to join every activity.
+Cynlluniwch o leiaf dair ffordd o ymuno â phob gweithgaredd.
 
-| Activity | More independent | Some support | Most support |
+| Gweithgaredd | Yn fwy annibynnol | Peth cymorth | Mwyaf o gymorth |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo lluniau | Yn dod o hyd i’w luniau ei hun ac yn eu gorchuddio | Mae cynorthwyydd yn pwyntio; mae’r person yn gorchuddio | Yn dal cerdyn llun; yn gwrando ac yn gwylio |
+| Canu gyda’n gilydd | Yn canu, yn dewis y gân nesaf | Yn hymian, yn curo dwylo, yn defnyddio teclyn ysgwyd | Yn gwrando, yn dal sgarff, yn tapio llaw |
+| Atgofion | Yn adrodd straeon | Yn ateb ie neu na neu’n pwyntio | Yn dal ac yn teimlo’r gwrthrych |
+| Chwilair | Yn gweithio ar ei gopi argraffedig ei hun | Yn dod o hyd i eiriau ar y sgrin fawr gyda chynorthwyydd | Yn gwrando wrth i eiriau gael eu darllen allan |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+I breswylwyr yn y camau diweddarach, mae’r NHS yn nodi bod gweithgareddau fel arfer angen bod yn symlach ac yn canolbwyntio mwy ar y synhwyrau, fel cerddoriaeth, gwrthrychau i’w cyffwrdd a thylino dwylo. Efallai y bydd moment un i un yn ystod y grŵp neu ar ei ôl yn gweddu’n well iddynt na’r grŵp ei hun. Gweler [gweithgareddau camau hwyr](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Sut ddylai arweinwyr siarad yn ystod grŵp?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Cyflwynwch eich hun bob tro, a defnyddiwch yr enw sydd orau gan bob person.
+- Siaradwch yn araf, rhowch un cam ar y tro, a dangoswch cyn dweud.
+- Gofynnwch wahoddiadau agored (“Dywedwch wrthyf am...”) neu ddewisiadau syml, byth gwestiynau prawf (“Ydych chi’n cofio...?”).
+- Peidiwch â chywiro. Diolchwch i bobl am bob cyfraniad.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Mae mwy am hyn yn ein [hawgrymiadau cyfathrebu](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Gorffen yn dda, a gadael i bobl adael
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Mae stopio yn ganlyniad da. Gwyliwch am arwyddion bod rhywun wedi blino, yn anesmwyth neu’n ofidus, a sicrhewch fod cynorthwyydd yn cynnig taith gerdded neu sedd dawel yn rhywle arall. Efallai bod rhywun sy’n hepian yn ystod sesiwn canu yn teimlo’n gyfforddus yn unig.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Caewch bob grŵp yr un ffordd, gyda chân gyfarwydd neu ddiolch syml, fel bod y diwedd yn teimlo’n dawel ac yn ddisgwyliedig. Ar ôl hynny, ysgrifennwch nodyn byr am yr hyn a weithiodd a phwy fwynhaodd beth. Mae’r nodiadau hynny’n gwneud y sesiwn nesaf yn well.

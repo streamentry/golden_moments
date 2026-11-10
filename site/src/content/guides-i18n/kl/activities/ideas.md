@@ -1,34 +1,36 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Dementiaqartunut sammisat: 101 siunnersuut"
+seoTitle: "Dementiaqartunut sammisat: 101 siunnersuut"
+description: "101 sammisat ajornanngitsut dementiaqartunut, errortarnernit nipilersortarnernillu assilisaasunillu, qanorlu misilittagaq aaqqinneqarsinnaasoq."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Sammisat dementiaqartunut pitsaassusaasa ilagaat ilisarisimasat, inuppassuit
+  ataatsimoortinneqarsinnaasut: errortat matuersaarlugit, immikkoortiterlugit,
+  igasaalluni, nipilersortarluni, assilisat takuniarlugit, pisuttarlutik,
+  naatsiivilerluni, uumasunik ineqarniarlutik aammalu spilleqarluni
+  ajornanngitsumik. Inup inuuneqatigut nuannarinerisai toqqakkit, misilittakkat
+  ajornartut inuttaakkit, aammalu qasueraangat unitsikkit. Ataatsimoorluni
+  pitsaasumik pivissaq naammassinninnernit pingaarneruvoq.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Inup inuuneerataa tunngaviat aallarnerfigiuk: sulisimanerai, nuannarinerisai, upperisaa nipilersornerilu toqqaanermi ilusilersuutaapput."
+  - "Misilittagaq pisariaqartikkullu minnerutilersinnaavat: aqqutitsinerit ikittuupput, toqqagassat ikittuupput, nammineq misilittakkat ajornarnerpaat inuttaakkit."
+  - "Takuniarlunilu, sumik tigummiarlunilu imaluunniit eqqaaniissinnaalluni ilaasinnaapput."
+  - "Qasueraangat, nikallungeraangat imaluunniit impatientiuneratigut unitsikkit imaluunniit allanngortiguk. Piareerluni unitsitsineq inernerluavoq."
+  - "Ataatsimoorluni ingerlallugu eqqorluinnartumik ingerlalluanit pingaarneruvoq."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Dementiaqartumut sammisat suut naleqquttarput?"
+    a: "Misilittakkat inup ukiorpassuarni arferisai, pitsaanerusumik ajornanngortinneqarsimasut: errortat matuersaarlugit, nerrivissamik inissiterluni, igasaalluni, nipilersortarluni, assilisat takuniarlugit, pisuttarluni, naatsiivilerluni aammalu uumasoq nuannarisalik peqatigiinnarlugu. Misilittakkat inuppassuarnik nalilersitsisut iluaqutaasullu toqqakkit, ataatsimoorlusilu."
+  - q: "Misilittagaq sivisussusilissava?"
+    a: "Sivisussutsit toqqorneqarsimasutJoininganngilaq. Ullumi minuttinik ikittuinnarnik errortanik matuersaaneq naammanngorsinnaavoq, ullumikkullu naatsiivimmi nalunaaquttap-akunnera affaanarsinnaavoq. Inummut ingerlagneq periarfissiuk, aammalu nuannaarutaalluni unitsitsiuk."
+  - q: "Inuk misilittakkamut akuerunni?"
+    a: "Pingitsitaanngilatit. Akuerunnaaneq isumaqarporluunniit misilittagaq ajornartoorsuuvoq, piffissaq eqqorneqanngilaq, imaluunniit qasuuvoq ilorraalluunniit ajorpoq. Kingusinnerusukkut misileeqqigit, minnerusumikut neqeroorfigiuk, imaluunniit nammineq misilittagaq aammalu ilanngussaalluni kajumikkit."
+  - q: "Aqutsisartunik spilleq dementiaqartunut iluaqutaappat?"
+    a: "Spilleqarsinnaavoq Malunnartumik ataatsimoorluni aserorusuttumik pivissanngorsinnaalluni, kisianni spilleqanngilaq takutinneqarsimasoq dementia killilersinnaasoq, arrikkiartitsisinnaasoq imaluunniit unitsissinnaasoq. Piffissarissaartoq, kisitsisaqartoq imaluunniit kukkusumik nipiliortoq spillernaveersaartik, aammalu ataatsimoorluni misilittakkatut isigiuk, misissuinertut pinngitsorlu."
+  - q: "Qanoq misilittakkat meeqqanut naleqqutinngorlugit misigineqartarnaveersarsinnaavakka?"
+    a: "Inuppassuarnik atortunik piviusunik atuisinnaavutit: errortat ilumoortut, nerisassat sanaanerat ilumoortoq, nipilersuutit inuppassuarnik soqutigisaat, titartakkallu sanaartornermut aammalu assilisat inuppassuarnut tulluussaasut. Misilittakkat ikiortittut ilumut pisariaqartitatittut saqqummiukkit, inullu inuppassuattut oqaloqatigissavat."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +52,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Misilittagaq pitsaanerpaaq dementiaqartumut nalinginnaasumik ilumoortuuvoq, inup ilisimarisimasai minnerunngitsumik ajornanngortinneqarsimasoq, aammalu tatiginarnerusumik peqatigalugit ingerlanneqartoq. Ataani 101 siunnersuutut immikkoortinneqarput, tamarmik pilersitsineq qanorlu ajornartorsiornera aaqqinneqarsinnaasoq nassuiarneqarput. Sakkut atortorissaarutit immikkut ittut pisariaqartinneqanngillat, naammassisariaqarnagulu. Ullap naalernera pitsaavoq korfinik immersugassanik ataaseq kaaffisorlugulu ataatsimoorluni.
 
-## How do you choose the right activity?
+## Qanoq misilittagaq eqqortoq toqqartarpara?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Toqqaanerit inummut tulluarsakkat, allattorsimaffimmut tulluarsarnagit: inup inuuneqatigut nuannarinerisai ullumikkullu qanoq ajuallianngitsumik misilittarsinnaanera aallaavigikkit.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Suliai nuannarinerilu eqqarsaatigisikkit.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) siunnersuuppoq kantorimi sulisimasaq aningaasanik immikkoortiterinermik imaluunniit allakkanik katersuinermik nuannaateqarsinnaasoq, naatsiivilerisullu naatsiivimmi sulineq nuannaateqarsinnaavoq.
+- **Suna nammineq ingerlalluarnera maluginiaruk.** Atatat ullaakkut kajumissutsimigut silaannarmik salippoq, taanna ullup ingerlarianut ilanngutiguk.
+- **Killilersuinera eqqarsaatigisikkit.** Qasuersaaneq, isiginnaartitsineq, tusilartitsineq, assakkut aanneraat aammalu tallimanerat pingaaruteqapput.
+- **Eqqarsaata pitsassusaa malugiuk.** Inunnik aarlerisunik nipilersunik misilittakkat ilaat nuannaarutigisarpaat, allallu ersisarlugit.
+- **Siuunertaqartitsiguk.** Ilagiinni nerisassanik nerrivilerlutik inissiterineq siunertaqaqaaq, imminut sungiusaanermik sulinerunani.
 
-### A rough guide by stage
+### Kalaallit takutinnerat killiliinerit pillugit
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Dementia nalinginnaasumik siullermik, qiterlermillu kingullermeersumillu killiliiffigineqartarpoq. Taakku takutitsiat annikitsuinnaasut putorsuinnaanngillat, inuppassuillu ullut arlaanni ajunnginnerusumik allaniulluunniit misigisinnaapput, taamaattumik ullumi takusatit malikkit. [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) assinganik malinnaavoq.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Sammisaq | Siullermik killiliineq | Qiterlermik killiliineq | Kingullermeersumik killiliineq |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Suna maluginiarsinnaasat | Nammineq amerlanerit ilisimavai; pilersaarusiorneq, atit nutaat aammalu inoqartut annerusut ajornarnerullutik | Aallarniarnermi aqqutitsinerinnilu ikiorserneqartariaqarpoq; oqaaseqarnissamut ajornartorsiortoq | Ullut tamaasa isumaginninnermut ikiorserneqartariaqarpoq; misigissutsikkut atuinerit pingaarnerullutik |
+| Sammisat naleqquttartut | Kaartinik spillerneq, spilleqarnermik, igasaqarnissaq, naatsiivilerneq, allattarneq, anisarneq, peqatiginninneq | Errortat matuersaartarnerat, immikkoortiterineq, igasarneq immikkoortukkut, erinarsorneq, assilisat katersat, pisunneq malinnaalluni | Nipilersuutit nuannarinerisat, assakkut kuninneq, sumik aqqusaanermik tigumiaqarnissaq, atuakkamik atuarneq, silataani issiineq |
+| Illit suliassaatit | Suleqatigisat: qanoq ikiorserneqarnissaminik apeqqutiguk | Piareersigit, takutikkit, misilittakkat ajornarnerpaat inuttaakkit | Misilittagaq inummut aggiuk; peqatigisinnaaneq misilittagavoq |
+| Siunnersuutit allat | [Siullermik killiliineq](/activities/early-stage/) | [Qiterlermik killiliineq](/activities/middle-stage/) | [Kingullermeersumik killiliineq](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Qanoq dementiaqarluni inuk misilittakkamik aallartisarpara?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Minnerunngitsumik aallarit, attaveqarlutillu aallartigit, aammalu "aap" oqarunnaarnissaq ajornanngortikkit. Amerlasuut suleqateqarnissaminik kissaatigalugit pilersaarusiorneq aallarnerlu ajornartorsiutigisarpaat.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Piffissaq pitsaanerpaaq toqqaruk,** nalinginnaasumik ullaakkut.
+2. **Tamakkiisumik piareersiguk** imaatsinnangasumik aallartisinnaallutit.
+3. **Ikiortitsineq qinnutiguk, misissuinngitsoq:** "Uani ikiorsernanga qanoq ililluni?"
+4. **Nammineq aallartigit.** Errortaq siulleq matuersaruk kiisalu ilanngussalluni. Takutitsineq nassuiaatinernit pitsaaneruvoq.
+5. **Ataaseq-marloriarlutit aqqutissiuikkit.**
+6. **Misilittakkat ajornarnerpaat inuttaakkit.** Alzheimer's Association siunnersuuppoq aningaasat qanoq annertutiginersaat nammineq uuttortarlugit, kingornalu kakkussaarnissaq akuerlugu.
+7. **Periaatsimigut ingerlalluartikkit.** Errortat allatut matuersaagaangata ajunngilaq.
+8. **Nuannaarutillugu unitsikkit.** Aapparisarneq, isermik killilersorneq imaluunniit "saperpara" nalunaarutigissavat allanngortitsisoqassanersut imaluunniit qasuersaarnissaq pisariaqalersoq.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Aamma takuuk [qanoq ataatsimoorluni spillerniartoq](/caregiving/how-to-play-together/) aammalu [oqaaseqarnermi siunnersuutit](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Ullut tamaasa angerlarsimaffimmi suliassat
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Angerlarsimaffimmi suliat ilisarisimasuupput iluaqutaallutillu, tamannalu aallartittussat pitsaapput. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) eqqakkapput poortat, nerrivissamut inissitsineq, silaannaq salineq, allakkat immikkoortiternerat aammalu errortat matuersaartarnerat misilittakkat inunnut nuannaarutaasinnaasut. Aammalu [anguniartarfimmi suliassat](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Errortat kiassallu matuersaakkit.** Errortat pannertoortarfiup korfia nerrivimmut kueriguk, aammalu sanianiit matuersaatigissigit. Kingusinnerusukkut, maniaralugit qaleriarlugillu iluaqutaavoq.
+2. **Aalakkaat nassaariikkit.** Qalipaatit allaanngornerusumik qalipaateqarlutik aallarit. Kingusinnerusukkut, qaamasut tarnernit immikkoortiternerat naammappoq.
+3. **Nerrivissamut inissitsigit.** Ataaseq-marloriarlutit piviusunik tunniussigit. Ilaqutariinni inissinneq siulleq nammineq takutitsissutiguk.
+4. **Poortat errorlugit pannertorlugilluunniit.** Imeq kiasoq sapoortalik aammalu poortat aserorfissaajunnaartut. Issiarluni pannertorneq timimmut ajornannginneruvoq.
+5. **Nerrivik maniaruk.** Nerereerlutik maniarfik masannerusumik tunniuk. Tamanna assanut unitsitsinermik pisariaqartunut suliassaavoq.
+6. **Allakkat immikkoortikkit.** Katalogit allallu pisariaqanngitsut "toqqorsagaasut" aammalu "eqqartorneqartussat" immikkoortikkit. Akileraarutit ilumoortut pissarsiaruk.
+7. **Akingeqalernermik ilannguutit kilippakkit.** Kilippaatiit ipoqanngitsut aammalu niuernermik paasissutissat. Kingusinnerusukkut, nerisassat nuannarinerisat kaaviarlugu nutaamik taaneqartarpoq.
+8. **Aningaasaqarsinnaapput immikkoortikkit.** Aningaasaqarfinni immikkoortikkit imaluunniit kororsuusiorlugit. Mikisunik atortunik atuisinnaanngikkit, inup kanimukku.
+9. **Silaannaq saliuk imaluunniit sananeqartunik maniaruk.** Silaannarmi silaannaq saliffik oqimaassuseq, imaluunniit isissilluni sananeqarnissamut atorak takisooq.
+10. **Nerinerusumik sananiarluni ikiorsinnaavoq.** Naatsiiaqutit errorlugit, salaatit nutarterlugit, kakkussaarlugit. Pana aammalu kiassuseq inuttaakkit.
+11. **Ilaqutariinnut nereqatigiinnernik sanaartorlutit.** Atorsinnaagukku, allagartaq nammineq allataatigut atuuk. Kingusinnerusukkut, misiliginnissinnaavoq.
+12. **Kantorimi sulissatut.** Allakkat matuersaakkit, poortaqqanut ikkussorlugillu stempiliorlugit, imaluunniit pisiniaassanillu allagartaq peqatigalugu allaguk.
 
-## Music
+## Nipilersortarneq
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Nipilersuutit ilisarisimasat inunnut oqaaseqarnissamut ajornartorsiuteqaraluarunik tikisinnaapput. [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) siunnersuuppoq nipilersuutit ilisarisimasat, ussassaarutit pillugit ilisimatusaatittarfillit aammalu TV qaminngassasoq. Takuuk [nipilersortarnermi misilittakkat](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Inummut tulluarsakkamik nipilersuummik pilersitsigit.** Ukiuni 10-20-ini, katitinneranni, upperisamini aammalu kulturimi nipilersuutit.
+14. **Peqatigiinnarlusi erinarsorlusi.** Nammineq erinarsorlutit aallartigit. Niperuluttuaq anerlulunniarnermik imaluunniit tusarnaarluni peqataatinneqareerpoq.
+15. **Tulleriiaaruk.** Assakkammik pattalaarlugit, qaanut pattalaarlugit imaluunniit doormiinermik pattalaarlugit. Issiarlunilu kingullermeersumillu killiliinermilu atorsinnaavoq.
+16. **Tappiissuteqaqatigiigit.** Igaffimmi arrarnertumik tappissuteqarlusi, imaluunniit issiarlusi assak tiguminaarlugu.
+17. **Albumi tamakkerlugu tusarnaaruk.** Nuannarinerisaq siulleq kingullerlo, kaaffisorlusi allallu ajornanngikkaluarlutik.
+18. **Nipilersuut pillugit oqaloqatigissuk.** Oqaluttuanik qinikkit, paasisinnaasaanik pinngitsorlutit: "Oqaluttuaruk tappissutigineqartarfinnik ornittakkatit pillugit."
+19. **Musicali imaluunniit koncerti filmiliarineqarsimasoq isiginnaarlugu.** Nuannarinerisartik unnukkut isigisinnaavarput. Piffissarissaartoq unitsissinnaavat.
+20. **Atortussaq ilisarisimasak atuarlugu.** Piano atuisinnaasimasoq nipilersuutinik ajornanngitsunik nuannaateqarsinnaavoq; kingusinnerusukkut, ataatsimoorlusi nipimik ikittuinnarmik.
+21. **Toqqaannartumik nipilersorneq tusarnaarlugu.** Nunaqarfimmi koncerti imaluunniit erinarsortartut piareersarneranni nalaaniunneq. Anilluni isaasumut qanittumi issigit.
 
-## Reminiscence: photos, objects and stories
+## Eqqaamasat: assilisat, atortussat oqaluttuallu
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Kingornussaq peqatigalugu nuannaariuk, misissuinngikkaluarlugu. "Eqqaamaviuk...?" imaluunniit "Kina una?" apeqqutiginaveersaaruk, qinnutigineqarnermilli ammasunik atuisinnaavutit. Takuuk [eqqaamasanik misilittakkat](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Assilisat katersat marluk atsiornarlutillu.** Takusat nassuiaruk: "Atisaq tassa qanoq nuannersoq. Ulloq taanna pillugu oqaluttuarnga." Atit atorsimasai malikkit.
+23. **Eqqaamasanik pooq pilersitsigit.** Inuuneq pillugu atortunik imalik, soorlu sulinermik nalunaaqqut imaluunniit nerisassanik sanaanermut allagartaq. Ataaseq-marloriarlutit atortussat annikkaakkit.
+24. **Inuunermik oqaluttuaq ataaseq aallartikkit.** Qupperneq ataasiakkaat assilisanik ikittuinnarnik allakkanillu angisuunik nassuiaateqarluni. Tamanna ikiuutinik nutaanik tunineqartumut inuk ilisarinissaa iluaqutaavoq.
+25. **Oqaloqatigiissutigineqarnissamut kaartinik atuisinnaavutit.** [Conversation cards](/games/conversation-cards/) assilisat apeqqummillu ammasunik ataatsimoortippaat.
+26. **Ilaqutariit assilisainik spillimmik pilersitsigit.** [Photo pairs](/games/photo-pairs/) assilisatit nalinginnaasut assilisaatut naleqqiullugit spillimmut allanngortippaat.
+27. **Filmit angerlarsimaffimmiitital imaluunniit TV-p oqaluttuai pisoqaasut isiginnaarlugit.** Apeqqusernagu peqatigalugu oqaaseqaatigissuk.
+28. **Sulini atorsimasanik tigumisarneq.** Sakkukartoq, stetoskopi, imaluunniit allagartaq. Assat nalinginnaasumik oqaluttuaq aallartittarpaa.
+29. **Meeqqatut nerisassanik sanaaqqigit.** Kakkussaasinnaavoq, misiligissinnaalluni imaluunniit igaffimmi issiinnarsinnaalluni.
+30. **Nunap assinga najugallit takuniarlugit.** Atlasimi angisumi aqqusinik ilisarisimasanik titarlugit oqaloqatigissuk.
 
-## Creative activities
+## Piginnaasanik misilittakkat
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Titartaaneq suliarineqarneruvoq, naammassinani. Atortussat inuppassuarnut naleqquttussat isumannaatsullu atorsinnaakkit. Takuuk [sanaartornermi eqiarnermilu misilittakkat](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Imeqartoqqamik qalipaateqartunik titartakkit.** Pappiaqqat itisuusut, qalipaatit ikittuinnaat. Aallartitsineq ajornartorpat, siullermik titartaaseq peqatigalugu ingerlatiuk.
+32. **Inuppassuarnut titartakkat qalipaateqarfigikkit.** Naasut imaluunniit qaqqutit, meqqutaanngitsut. [Coloring pages](/games/coloring/) qarasaasiakkut imaltilluunniit atuarsinnaavut.
+33. **Assilisanik katersinermik pilersitsigit.** Aviisinik naasut, biilit imaluunniit nerisassat assilisaannik nuttarikkit limmorlugillu. Kingusinnerusukkut, assilisat toqqarnerat naammappoq.
+34. **Naasut aaqqissukkit.** Niuernermi naasut aammalu imermut pooq. Kingusinnerusukkut, naasut ikittuinnaat imermut ikummaqqunneqarsinnaapput.
+35. **Sikirneq imaluunniit hækling peqatigalugu.** Uliaqqanik angisuunik naatsunik allillutik. Kingusinnerusukkut, uliaqqat kororsuunneqarsinnaapput.
+36. **Ilaqutariinnut allakkat titartakkit.** Inunnut ilumoortunut inuuissiornermi aammalu ajorunnaarsitsinermi allakkanik stempiliorlutit, atsiorlutit imaluunniit pitsanngorsarlugu.
+37. **Imermik pannertorsinnaasunik siallerikkit.** Poorsiutaq mikisoq sanaaqqiguk. Mingutsitsinatik atortunik atuisinnaavutit aammalu qanittumiinnarlutit.
+38. **Qisummik sanaartornermi saliugassaatit naammassisikkit.** Timmisaanut illu sanaaq piarersimasoq aammalu saliugaasaq, atortunik nukittunik atornaveersaarlugit. Takuuk [angutinut misilittakkat](/activities/for-men/).
+39. **Allakkamik allallutit imaluunniit oqaluttuaruk.** Ernutaasamut imaluunniit ikinngutimut pisoqaasumut. Allanneq ajornartorpat, oqaatsit nammineq allakkit.
 
-## Outdoors and gardening
+## Silaannarmi naatsiivilernerlu
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Silap nutaajannginnera qaamarnarlu peqatiginnittarput. Takuuk [silataani naatsiivillunilu misilittakkat](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Naatsut imeqartikkit.** Imermik kuuffik mikisoq aammalu poortat ikittuinnaat. Ullut tamaasa imeqartitsineq ullummut ingerlatitsinermik pilersitsivoq.
+41. **Poorutilimmut naatsiivilerlutit.** Nerrivimmut qummut ilikkit, taava seeqqumiissanngilaq. Naasut piareersimasut naatitanit ajornannginnerupput.
+42. **Ivik naatitsukkat peerlugit.** Assaatikkit atussallugit, ataaseq-marloriarlutit mikisunik naatsiivimmik.
+43. **Pilat katersukkit.** Ilaqutariinni mikisumi. Kingusinnerusukkut, pooq ammasuutigissallugu suliassaavoq.
+44. **Aqqut ilisarisimasoq pisuttarlugu.** Ilaqutariinni kaajallallugu imaluunniit allakkanik toqqortarfimmut. Annertooqanngikkaluarpoq ajunngilaq.
+45. **Silataani peqatigillugu issiigit.** Ulluinnarni issivik silaannarmi. Nuissat imaluunniit angalasut isiginnaarlugit.
+46. **Timmisat nerisassianik tunikkit.** Nerisarfiusaat imalerlugu peqatigissuk aammalu igalaamikkut isiginnaarlusi.
+47. **Biili errorlugu.** Balje, suuffe, ulloq kiasoq. Akkut assaat errorlugit ataaseq-marloriartumik suliassaavoq.
 
-## Sensory activities
+## Misigissutsit attaveqaatillugit misilittakkat
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Misigisarneq, najsitsineq, misigisitsineq, tusarnaaneq isigisarnerlu dementia siammasillugu pingaaruteqarnerusarput. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nipilersuutinik, tigumminartunik aammalu assakkut kuninnermik kingullermeersumillu killiliinermi oqaatigaa. Allergeqarnissamut kingornussakannermullu misissuigit; takuuk [misigissutsinik misilittakkat](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Assakkut kunikkit.** Siullermik aperiarlugu aammalu unguamik ikittuinnarmik atuisinnaavutit. Amissuarnermi erguneqarsinnaanera ilimagineqanngippat, tipigissaqanngitsoq toqqaruk.
+49. **Annoraat misigissuk.** Velvet, korduroy, savaat aammalu satin imalik korfimmi, maniaralugit matuersaasinnaallugit.
+50. **Naatsiat kaaffillu najsikkit.** Mint imaluunniit rosmarin nutaaq assakkut maniaruk. Tipigissaanerup ajornartorsiortippaa, najsitsinerit sakkortusut atoruk.
+51. **Nutsat isilerlugit.** Arrarnertumik, nuannaappagu.
+52. **Masiassaq kiasoq peqatigissuk.** Assanut kiinnullu ulluni issittuni. Kiannerata matuersaataa misissoruk.
+53. **Misigissutsinik apronimik misiligissuk.** Knapit sipulaatillu angisuut peqqissaartumik kakkorsimasut. Sumilluunniit peersinnaajunnaasumik misissukkit.
+54. **Nuannarinerisamik misigissinnaatigut.** Alussaammik ikittuinnamik, isumannaatsumik nerisinnaasumik.
+55. **Pinngortitamit nipinik tusarnaarlutit.** Sialuk, mallissat imaluunniit timmissat nipaat annikitsuinnarmik nipituumik.
+56. **Sumiiffimmi arrarnertumi isiginnaarlutit.** Aalisakkat imeqarfianni, pinngortitamik video imaluunniit aput nakkartoq.
 
-## Games and puzzles
+## Spilleqarnermik puzzle-nillu
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Spilleqarnikkut pitsaavoq piffissarissaaruteqanngippat, kisitsisaanngikkaluarlutillu imaluunniit pingitsitsinermik. Misissuineritut misigilerpat, toqqorsinnaavat. Takuuk [app-it spillillu toqqaanerat](/caregiving/choosing-apps-and-games/) aammalu [aqutsisartunik spillit](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Assilisat naleqqiukkit.** [Picture pairs](/games/picture-pairs/) assilisat saqqummiinneqartuartillugit, aammalu maluginiaaneq eqqarsaatigalugit, eqqaamaneq pinngitsoorlugu.
+58. **Assilisaq assinganik nassaariuk.** [Find the same](/games/find-the-same/) marlunnik sisamanulluunniit toqqagassaqartarpoq. Assilisat ataatsimoorlugit oqaloqatigissuk.
+59. **Korfinnut immikkoortikkit.** [Sort together](/games/sort-together/) aalakkaanik immikkoortitsinertut qarasaasiakkut atuarpoq.
+60. **Puzzle angisuunik nagguiussalik.** Assilisat inuppassuarnut tulluarsakkat, nagguiussallu amerlassusaat ikittuinnaat. [Picture puzzle](/games/picture-puzzle/) assilisaq tamakkerlugu nuisinnaatitaavoq. Aammalu [dementiaqartunut puzzle-t](/activities/puzzles/).
+61. **Kaartinik spillit pisoqaq.** Ukiup iluani spillisimasaannik. Kingusinnerusukkut, qalipaatinik immikkoortiterneq spilliuvoq.
+62. **Domino-mik spillerneq.** Isukkut naleqqiukkit. Kingusinnerusukkut, titartagaqarlutillu inissinneqarneq naammanngavoq.
+63. **Oqaatsinik ujarlernermik angisuunik allakkanik misiligissuk.** [Word search](/games/word-search/) oqaatsit sammiveeqqalluunniit sammukalluinnaat, kiisalu naqittarneqarsinnaalluni.
+64. **Oqaatsit ilisarisimasat naammassikkit.** [Finish the saying](/games/finish-the-saying/) naamernera qanoq innerat pillugit takutitsisinnaalluni.
+65. **Assilisanik bingo spilleruk.** [Picture bingo](/games/picture-bingo/) ilaqutariinnut peqatigiiffinnullu naleqqooq. Kaartit nalunaaqutsikkit kajumissutsimik.
+66. **Dammimik spillerneq.** Malittarisassat annikitsuunniarlugit. Nagguiussat nuissaarlugit oqaloqatigiinnarlusi peqataaneruvoq.
 
-## Movement
+## Nukissanik atuisarneq
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA siunnersuuppoq pisunneq, biilimik nuunneqanngilaq, iseqqusaateqarnikkut, palloornarmik ilasiaqarnermik imaluunniit puallamik, suppit tinni tamarmik aammalu angajoqqaarnut sungiusaatit videoi. Nutaanik aallartinnissaq sioqqullugu nakorsamik apeqquteqarit, pingaartumik tallimanerup ajornartorsiortippagu.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Puallamik ilasiaqarlusi.** Saaniissutigalusi issiigitsi. Arrarnertumik ingerlaarpoq, tigusaanissaa ajornannginnerullugu.
+68. **Angajoqqaarnut sungiusaatit videoi malikkit,** peqatigiinnarlusi.
+69. **Iseqqusaammik isortaatigisinnaalluni.** Assakkut annikitsuinnarmik iseqqusaammik.
+70. **Suppit tinni tamarmik atorlugu.** Arrarnertumik assakkut qaffanneq, nipilersuut peqatigalugu.
+71. **Biilimik nuunneqanngilaq.** Minuttinik ikittuinnarnik, illit qanittumiinnarlutit.
+72. **Tørklædemik tappissuteqarlusi.** Tørklæder oqimaassuseq nipilersuut malillugu aallaruk, issiarlutit imaluunniit nikkorlutit.
+73. **Siuunertaqarluni pisuttarlutit.** Allakkamik nassiussiniarlutit imaluunniit kaaffimik pisiniarlutit. Siumukartoq ingerlaarnissaq pinngitsoorpoq.
+74. **Anernermik arrarnertumik peqatigissuk.** [Calm breathing](/games/calm-breathing/) atorlugu.
 
-## Social activities
+## Inooqatiginnermik misilittakkat
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Ataatsimoorneq pingaaruteqarpoq atit eqqaamaneqanngikkaluarpataluunniit, aammalu inuppassuit ikittuinnaat amerlanernit ajornannginnerupput. NIA maluginiarpaa, inuk pulaartoq kinaassusaa eqqaamasinnaajunnaarsimagaluartoq nalinginnaasumik peqatiginninneq nuannaarutigisinnaallugu. Takuuk [pulaartoqarfiit](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Ataaseq-marloriarluunniit pulaartoq.** Pulaartoq sivikitsuinnaasoq nipituunngitsumi, assilisat takusinnaallugit.
+76. **Ilaqutariinnut videomik sianertaatitsineq.** Sivikitsuinnaasumik sianertaatitsineq, nipi ataaseq-marloriarluni. Takuuk [telefon aamma video-qaatigalugit sianertaatitsineq](/activities/phone-and-video-calls/).
+77. **Eqqaamasanik kaffisorfimmik misiligissuk.** Dementiaqartunut isumaginnittunullu ataatsimoorfimmut qaaqqusaanermut. Nunaanni Area Agency on Aging apeqqutiguk sumiittumik.
+78. **Neriniartarfiup nipituunngitsup nalaani anillutit.** NIA siunnersuuppoq neriniartarfiup ilisarisimasup nipituunngitsup nalaani, anartarfimmut qanittumi inissivik.
+79. **Angajoqqaarnut inuiaqatigiinniilluunniit ullup ingerlanerani pilersaarut.** Uannut peqatiginninneq, illillu unitsitsinissaq.
+80. **Meeqqat peqatigalugit.** Ernutaasa sivikitsuinnarmik nipaatsumik pulaartoqarneq, imaluunniit meeraq atuakkamik assilisaateqartumik atuarfigalugu.
+81. **Aviisi kaaffiliorlutit ataatsimoorlusi atuarlugu.** Qulaaniittut atuakkit. Pisarisaaneq pingaarneruvoq naammassinermit.
+82. **Allanut ikiortinneqarneq.** Ilagiinni allakkat matuersaarlugit imaluunniit nunaqavimmut allakkamik pilersitsigit.
 
-## Faith and spiritual activities
+## Upperisarsiornikkut anersaakkullu misilittakkat
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Inup nammineq upperisaanik malinnigit, imaluunniit sooqanngilaq. NIA siunnersuuppoq katederalimiittut ilisarisimasut, atuakkanik atuarneq, nipilersuutit upperisarsiornikkut, qinusarneq, eqqarsaatersorneq aammalu ullorsiutit ilusilersuinerat.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Katederalimiitut ilisarisimasut peqataaffigikkit.** Nipituunngitsoq toqqaruk, isaasumut qanittumi issigit, aammalu dementia pillugu ilisimatitsikkit.
+84. **Katederalimiitut qarasaasiakkut isiginnaarlugit,** anissaq ajornartorsiorpat.
+85. **Qinuteqarlusi imaluunniit peqatigiinnarlusi atuarlusi.** Oqaaseq ilisarisimasut, arrarnertumik. Ilisarisimasatik ilaanneqarsinnaapput.
+86. **Upperisarsiornikkut erinarsuutit erinarsorlugit** upperisaannit.
+87. **Ullorsiutit ilusilersuinerat ataavartumik.** Batteri-mik qulleq, pilluaqqussut, aammalu pisoqaassusinit atorneqarajuttartut.
+88. **Nipaatsumik peqatiginninneq.** Naatsiivimmi issiigit imaluunniit seqineq tarrineq peqatigissuk.
 
-## Pets and animals
+## Uumasut uumasullu
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA siunnersuuppoq uumasut nerisassianik tunineq, isilerneq, pisunneq, imaluunniit issiinnarlutillu tigumiaqarlutik.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Qimmeq qitsuulluunniit nipaatsumik isilerlugu,** arrarnertumik isikkuinnarlutit.
+90. **Uumasoq peqatigalugu nerisassianik tunissuk.** Illit uuttortat, kueruunneq inuttaakkit.
+91. **Qimmeq peqatigalugu pisuttarlugit.** Illit killeq tiguk.
+92. **Uumasoq sittumi tigumiaruk.** Qitsuk nipaatsumik qaavani issimasoq eqqissisitsisinnaalluni.
+93. **Uumasut pulaartut tikilluaqqulugit.** Paarlaaviit ullup ingerlanerani pilersaarutillu uumasunik pulaartoqartarput. Najukkani apeqqutiguk.
+94. **Uumasumik aqqusaanermik tunisiguk.** Uumasoqanngippat, ilaat uumasumik ilumoortutut isikkoqartumik nuannaateqarsinnaapput. Tunisiguk inuppassuattut, spilleqanngitsoq, aammalu akuerunnissaa akuersaaruk.
 
-## Seasonal activities
+## Ukiup ingerlanerani misilittakkat
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Iluilersuutit ataavartikkit, kisianni ajornanngortillugit. NIA siunnersuuppoq pisoqartinnagu aammalu ullorsiutit nalaanni unitsittarfimmik nipaatsumik piareersaasoqarnissaq.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Ukiumut naleqqiullugu pitsanngorsartitsigit.** Pumpkins, naasunik kaaviiaq imaluunniit naasut nutaat nerrivimmut.
+96. **Ullorsiutinut nerisassanik sanaartorlutit.** Kaagit kakkussaatigissuk imaluunniit frosting atorlugu. Illit uunartoq inuttaakkit.
+97. **Pilersuisakkat ikkussukkit.** Asannaanngitsut, ataaseq-marloriarlutit tunniussarlugit.
+98. **Qaammatit takorusukkigit.** Unnukkut sivikitsuinnarmik angalaarnermik peqataanissaq kisiat pisariaqartinneqarluni.
+99. **Upernaakkut naatit ikkussukkit.** Ukiakkut naatit poorutilimmut ikkukkit kiisalu upernaakkut naasulersut neriukkit.
+100. **Kajussaq ammaruk imaluunniit ærter qiterlugit.** Aasat silaannarmi suliassaq, pooq sittumiilluni.
+101. **Ullorsiutinut allakkat adresse-rlugit.** Atsiorlugit, stempiliorlugit imaluunniit ammarlugit; adresse-t illit inuttaakkit.
 
-## What if an activity is not working?
+## Misilittagaq iluatsinngippat qanoq iliussaanga?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Unitsikkit, kingusinnerusukkullu allamik misiligissuk. NIA siunnersuuppoq impatientiunermik maluginiaarnissaq, inullu periarfissiuk isiginnaarluni kissaatigissalluni, nuannaralugu. Akuerunnaaneq isumaqarporluunniit misilittagaq ajornartoorpoq, piffissaq eqqorneqanngilaq, imaluunniit allamik ajornartorsiuteqarpoq, soorlu annernartoq, kaannersoq imaluunniit nipitoq. Minnerunngortikkit, ullaakkut misiligissuk, imaluunniit nammineq aallartikkit aamma ilanngussanersoq takuniarlugu. Takuuk [akuerunni](/caregiving/when-they-say-no/) aammalu [unnukkut eqqissisinnaanani](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Nerinerup akornanni qasuersaarnermi misilittakkat qanoq inissinneqarsinnaasut takuniarlugu, takuuk [ullup ingerlataanik arrarnertumik](/activities/daily-routine/). Atorsinnaasutut piareersimasunik atorneqarsinnaasunik nassaariniaruit, takuuk [naqinneqarsinnaasut misilittakkat](/activities/printable/), aammalu peqatigiiffinnut siulersortutit, [paarlaaviit peqatigiiffinnilu misilittakkat](/activities/care-home-groups/). Illit unitsiffiit pingaaruteqarluinnarpoq: takuuk [isumaginnittup imminut isumaginninnera](/caregiving/caregiver-self-care/).

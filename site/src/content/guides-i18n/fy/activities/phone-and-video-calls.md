@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Bel- en fideopetearaktiviteiten by demens"
+seoTitle: "Fideopetearaktiviteiten by demens"
+description: "Bel- en fideopetearaktiviteiten foar famylje op ôfstân fan immen mei demens: sjen litte, foarlêze, sjonge, spultsjes dielje en tips foar helpers."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Petearen mei in persoan dy't mei demens libbet, geane it bêste as se koart
+  en regelmjittich binne en om iets geane dat jo tegearre dogge, lykas in húsdier
+  of tún sjen litte, nei foto's sjen, lûdop foarlêze, in leaf ferske sjonge of
+  in rêstich spultsje op in dield skerm spylje. Bel as it kin elke dei op
+  itselde tiid, lit mar ien persoan tagelyk prate, en freegje immen op it plak
+  om te helpen.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "In aktiviteit jout in petear foarm en nimt de druk fan it petear fuort. Tink fan tefoaren oan ien ienfâldich ding om te dielen."
+  - "Koarte, regelmjittige petearen op itselde tiid fan 'e dei wurkje faak better as lange, seldsume."
+  - "Mar ien persoan praet tagelyk. Groepspetearen mei trochinoar praten binne dreech te folgjen, foaral by gehoarferlies."
+  - "In helper op it plak kin it apparaat klearsette, neist de persoan sitten en de 'hannen' wêze foar in spultsje of foto."
+  - "As in petear hjoed net slagget, slút it dan waarm ôf. Moarn wer probearje is prima."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Wat kin ik dwaan by in fideopetear mei immen mei demens?"
+    a: "Tink fan tefoaren oan ien ienfâldige aktiviteit: lit jo tún, húsdier of keuken sjen; sjoch tegearre nei âlde foto's; lês in koart gedicht of brief lûdop foar; sjong in ferske dat de persoan aardich fynt; koekje itselde resept op itselde momint; of spylje in rêstich byldspultsje op in dield skerm. Aktiviteiten jouwe it petear in fokus, sadat de persoan it petear net hoecht te dragen."
+  - q: "Hoe lang moat in fideopetear duorje?"
+    a: "Meastentiids koarter as jo tinke. In pear waarme minuten kinne al genôch wêze, foaral as de persoan gau wurch wurdt. Regelmjittich belle op itselde tiid fan 'e dei kin wichtiger wêze as hoe lang elk petear duorret."
+  - q: "Wat as de persoan yn 'e war rekket of oerstjoer wurdt fan fideopetearen?"
+    a: "Guon minsken fine in gesicht op in skerm ferwarrend. Probearje in gewoan telefoanpetear, in opnommen fideoberjocht dat de helper op in rêstich momint ôfspylje kin, of kaarten en foto's mei de post. As in petear min ferrint, slút it dan freonlik ôf en probearje it in oare dei of op in oar tiidstip wer."
+  - q: "Hoe kin ik myn mem helpe mei fideopetearen as se de telefoan net brûke kin?"
+    a: "Freegje in famyljelid, thuishulp of meiwurker fan in soarchhûs om it petear te starten en it apparaat fêst te hâlden of op te setten. In protte soarchynstellingen helpe famyljes mei fideopetearen, dus freegje wat se oanbiede. In tablet op in stander, mei in grut skerm en lûd genôch om te hearren, makket it foar elkenien makliker."
+  - q: "Kinne wy tegearre in spultsje spylje fia fideopetear?"
+    a: "Ja. De maklikste manier is dat ien persoan syn of har skerm dielt yn 'e fideopetear-app, wylst de oare fertelt op hokker byld der tikt wurde moat. Of de helper op it plak iepenet itselde spultsje op in tablet en tikt foar de persoan wylst jo der mei prate. Kies spultsjes sûnder tiidklok of skoare."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Fier fuort wenje fan immen mei demens kin in machtleas gefoel jaan. In telefoan- of fideopetear kin in knuffel net ferfange, mar it kin wol echte mominten fan kontakt bringe as jo it goed oanpakke. It geheim is om net in gewoan bypraatpetear te probearjen, mar ynstee dêrfan wat ienfâldichs te plannen om te dielen. Op dizze side fine jo aktiviteiten dy't wurkje fia fideopetear en telefoan, hoe't jo it petear klearsette, en wat de persoan op it plak dwaan kin om te helpen.
 
-## Why plan an activity for a call?
+## Wêrom in aktiviteit foar in petear plannen?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+In aktiviteit jout it petear foarm. "Hoe giet it? Wat hasto hjoed dien?" freget de persoan om te ûnthâlden en te fertellen, en dat kin dreech en spannend wêze. "Sjoch, de tomaten binne ryp" freget hielendal neat fan de persoan.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+De Alzheimer's Association merkt op dat petearen mei gruttere groepen fia fideopetear dreech wêze kinne, en riedt oan om [foarm oan it petear ta te foegjen](https://www.alz.org/help-support/caregiving/holidays) mei dingen lykas tegearre sjonge of foto's diele.
 
-## What activities work on a video call?
+## Hokker aktiviteiten wurkje by in fideopetear?
 
-### Show and tell
+### Sjen litte en fertelle
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Nim jo wrâld mei nei de oare persoan. Beweegje de kamera stadich troch jo tún, lit de hûn sjen, lit sjen wat jo koekje, hâld in tekening fan in bernsbern foar de kamera, of rjochtsje de telefoan op it finster nei de snie. Beskriuw wat jo sjogge mei ienfâldige wurden en lit pauzes foar in reaksje. Fragen binne net nedich.
 
-### Look at photos together
+### Tegearre nei foto's sjen
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Hâld in âlde printe foto foar de kamera, of diel jo skerm om in pear grutte foto's ien foar ien te sjen te litten. Praat oer wat jo opfalt: "Sjoch ris nei pake syn hoed." Mij fragen as "Wa is dit?" of "Wittesto dat noch?" As de persoan immen ferkeard neamt, gean der dan gewoan yn mei. Sjoch ús [gids oer oantinkens](/activities/reminiscence/) foar sêfte oanwizings.
 
-### Read aloud
+### Lûdop foarlêze
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Lês in koart gedicht, in psalm, in leaf berneboek foar in bernsbern dat ek mei oan it petear docht, in brief fan in famyljelid, of in side út in boek dêr't de persoan fan hâlden hat. Lûdop foarlêze jout de persoan wat rêstichs om nei te harkjen sûnder dat der in antwurd nedich is.
 
-### Sing or listen to music together
+### Tegearre sjonge of nei muzyk harkje
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Sjog in ferske dat de persoan goed ken, of spylje in leaf stik muzyk ôf oan jo kant. Foar in protte minsken is meisionge makliker as prate. Sjoch ús [gids oer muzykaktiviteiten](/activities/music/).
 
-### Cook or bake at the same time
+### Op itselde momint koekje of bakke
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+De Alzheimer's Association stelt foar om in fideopetear te plannen om tegearre in spesjaal resept te koekjen of te bakken. Set it petear op yn beide keukens. De persoan op it plak kin miskien roere of priuwe, wylst jo it âlde reseptkaart folgje.
 
-### Watch something together
+### Tegearre wat sjen
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+De Association stelt ek foar om op itselde momint in favorite film te sjen fan út aparte huzen, wylst jo fia telefoan of fideopetear prate. Foar immen mei demens kin in koart fragmint, in âlde ôflevering fan in tillevyseprogramma of in sportwedstriid better wurkje as in hiele film.
 
-### Play a gentle game on a shared screen
+### In rêstich spultsje spylje op in dield skerm
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+In protte fideopetear-apps litte jo jo skerm diele. Jo iepenje it spultsje en tikke; de persoan fertelt of wiist oan hokker byld jo kieze moatte. Of de helper op it plak iepenet itselde spultsje op in tablet en tikt foar de persoan wylst jo prate.
 
-Games that work well this way:
+Spultsjes dy't hjir goed foar wurkje:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Meitsje it siswize ôf](/games/finish-the-saying/):** jo lêze it bekende siswize foar, de persoan seit it ein, en dêrnei komt in sprekende oanwizing.
+- **[Byldpearen](/games/picture-pairs/):** in rêstich spultsje mei grutte bylden om te kombinearjen dy't sichtber bliuwe kinne, sûnder tiidklok en sûnder skoare.
+- **[Petearkaarten](/games/conversation-cards/):** in byld en in iepen oanwizing om tegearre oer te praten.
+- **[Fotopearen](/games/photo-pairs/):** in spultsje om te kombinearjen mei foto's dy't jo sels op jo eigen apparaat kieze. De foto's bliuwe yn jo browser, en de persoan sjocht se fia jo dielde skerm.
 
-### Recorded messages
+### Opnommen berjochten
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+As live petearen dreech binne, nim dan in koart fideoberjocht op: in groet, in ferske, in rûntsje troch jo tún. De helper kin it op in rêstich momint ôfspylje, sa faak as de persoan it leuk fynt. De Alzheimer's Association neamt it opnimmen en ferstjoeren fan bysûndere mominten, lykas bern dy't kado's iepenje.
 
-## What about plain phone calls?
+## Hoe sit it mei gewoane telefoanpetearen?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Gewoane telefoanpetearen bliuwe wichtich. Dementia Australia stelt foar om [elke dei op itselde tiid te bellen](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) en gjin haast te meitsjen, om't minsken mei demens tiid nedich hawwe kinne om der by te kommen. Oan 'e telefoan:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Sis daliks jo namme en relaasje: "Hoi heit, ik bin Jenny, dyn dochter."
+- Praat stadich, yn koarte sinnen, ien idee tagelyk.
+- Bring nijs ynstee fan dernei te freegjen: "Ik haw justerjûn dyn resept foar pot roast makke."
+- Lês in koart gedicht foar, of sjong in kûplet fan in leaf ferske.
+- Hâld it koart en einigje op in waarme noat.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia merkt ek op dat fideopetearen helpe kinne as praten dreger wurdt, om't de persoan jo gesicht sjen kin. As telefoanpetearen ferwarrend wurde, probearje dan fideopetear, of oarsom.
 
-## How do I set up a video call that works?
+## Hoe set ik in fideopetear op dat goed wurket?
 
-**Before the call:**
+**Foar it petear:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Kies in fêst tiidstip** wêrop de persoan meastentiids útstrûsd is, en hâld jo dêr oan. Routine helpt.
+2. **Meitsje ôfspraak mei de helper op it plak.** In berjocht de dei derfoar helpt de helper om te plannen.
+3. **Kontrolearje it apparaat.** In tablet op in stander is makliker as in telefoan dy't yn 'e hân hâlden wurdt. Soargje derfoar dat it apparaat opladen is, it skerm helder stiet en it lûd hurd genôch is. Set ûndertiteling oan as de app dat biedt en de persoan goed lêze kin.
+4. **Tink oan ien aktiviteit** en set alles klear.
 
-**During the call:**
+**Under it petear:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Sit tichtby de kamera** yn goed ljocht, mei in finster foar jo ynstee fan efter jo.
+- **Stel josels elke kear foar,** mei namme en relaasje.
+- **Mar ien stim tagelyk.** De Alzheimer's Association merkt op dat trochinoar praten dreech is foar minsken dy't mei demens libje en minsken mei gehoarferlies. As der meardere famyljeleden meidwaan, lit elkenien dan om beurten prate of hâld it by twa of trije minsken.
+- **Stel ien fraach tagelyk.** De Family Caregiver Alliance stelt [ienfâldige fragen foar mei ja-of-nee-antwurden](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), en lit karren sjen as dat kin.
+- **Jou lange pauzes.** Wachtsje op in antwurd. It is prima om in wurd foar te stellen as de persoan dernei siket.
+- **Brûk jo gesicht en stim.** Glimkje, knik en hâld jo toan waarm. Utdrukking seit faak mear as wurden.
+- **Korrizjearje net.** As de persoan wat seit dat net kloppet, lit it dan sa.
 
-**Ending the call:**
+**It petear ôfrûnje:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Einigje foardat de persoan wurch wurdt, it leafst op in moai momint.
+- Brûk elke kear itselde ôfskied: "Ik bel moarn by it middeimiel wer. Ik hâld fan dy."
+- Rek it net út.
 
-## Tips for the helper on site
+## Tips foar de helper op it plak
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+As jo de partner, helpferliener, broer of suster, of meiwurker binne dy't helpt by it petear, meitsje jo it mooglik.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Set in rêstich plak klear.** Doch de televyzje út en doch de doar ticht.
+- **Start it petear sels,** en jou de persoan dan in tablet op in stander of hâld it apparaat op eachhichte.
+- **Sit neist de persoan, net derfoar.** Jo oanwêzigens is gerêststellend. Jou sêft in oanwizing as dat nedich is: "Sjoch, it is Jenny."
+- **Wês de hannen.** Hâld foto's op, tik op it spultsje, draai de tablet om de keamer sjen te litten.
+- **Let op wurgens of ûnrêst,** en lit de beller witte wannear't it tiid is om ôf te rûnen.
+- **Fertel de beller wat goed wurke.** "Se fûn de hûn geweldich" helpt by it plannen fan it folgjende petear.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+De NIA stelt foar dat famyljeleden op ôfstân in âlder persoan helpe kinne om [de funksjes fan har telefoan te learen](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), lykas fideopetearen. Yn lettere stadia sil de helper it apparaat meastentiids hielendal moatte ôfhannelje. Dat is prima.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+As de persoan yn in soarchhûs wennet, stelt de Alzheimer's Foundation of America foar om te freegjen oft de ynstelling famyljes helpt mei fideopetearen. De AFA neamt ek dat famyljes foto's hinne en wer stjoere kinne mei soarchmeiwurkers, en favorite snoepkes of lytse treastlike dingen stjoere kinne, nei't se kontrolearre hawwe wat de ynstelling talit.
 
-## What if the call doesn't go well?
+## Wat as it petear net goed ferrint?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Guon petearen sille ferwarrend, flak of oerstjoer wêze. Dat is net jo skuld, en it betsjut net dat petearen it net wurdich binne.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- As de persoan yn 'e war liket troch it skerm, skeakelje dan oer op in telefoanpetear of in opnommen berjocht.
+- As de persoan oerstjoer wurdt, erken it gefoel, sis wat gerêststellends en einigje sêft.
+- As petearen op ien tiidstip faak min geane, probearje dan in oar tiidstip.
+- As de persoan tinkt dat jo immen oars binne, gean der dan freonlik yn mei.
 
-It is fine to end early. A short, warm call is a good outcome.
+It is prima om earder te stopjen. In koart, waarm petear is in goed resultaat.
 
-## Between calls
+## Tusken petearen troch
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Bliuw ek op oare manieren oanwêzich. Dementia Australia stelt foar om kaarten, e-mails, foto's of lytse kadootjes te stjoeren. In wyklikse ansichtkaart mei ien grutte foto en in koarte notysje kin hieltyd wer lêzen wurde. Of te printsjen [petearkaarten](/games/conversation-cards/) dy't nei de helper stjoerd wurde, kinne it folgjende petear in klear ûnderwerp jaan.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Foar tips oer it kiezen en ynstellen fan in tablet, sjoch [tablets en skermen](/caregiving/tablets-and-screens/). Foar tiid tegearre op it plak, sjoch ús gids oer [op besite gean](/activities/visiting/).

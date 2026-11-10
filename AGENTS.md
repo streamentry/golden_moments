@@ -36,7 +36,7 @@ and dignity matter more than completion, engagement, or a score.
 | Store copy or acquisition | [Metadata](metadata/app-store.en-US.json), [ASO](docs/strategy/us-aso.md) |
 | Category, growth, languages or new modes | [Plan](docs/plan/README.md) (proposal, not status) |
 | Screenshots | [Capture specification](docs/specs/screenshots.md) |
-| Verification or release | [Status](docs/specs/release-status.json), [release checklist](docs/release/1.3.0.md) |
+| Verification or release | [Status](docs/specs/release-status.json), [release checklist](docs/release/1.3.0.md), [publishing with keys and APIs](docs/release/publishing-with-api.md) |
 | Why these practices | [Dated primary sources](docs/engineering/sources.md) |
 
 Current code establishes behavior; specifications establish intended behavior;
@@ -98,8 +98,8 @@ implements them through `gm…` constants and `gmBuildTheme`.
    unrelated rewrites. Consult official APIs for the pinned SDK, not memory.
 4. Run applicable checks below, inspect the actual UI when changed, and review
    the diff against the three review rules. Fix causes rather than hiding errors.
-5. Record the tested commit, commands, results, and remaining gates. Recheck
-   upstream before writing; a concurrent merge requires fresh integration checks. Improve-until-done loops score with docs/improvements/rubric.md (automated evidence; above 8.6 overall, none below 7.0; person- or device-only checks are listed as not verified, never as blockers).
+5. Record the tested commit, commands, results and gates; check upstream before writing and integrate concurrent merges. Score loops with `docs/improvements/rubric.md` (>8.6 overall, none below 7.0; person/device-only checks are unverified, never blockers).
+CI is slow: do not poll, sleep or wait. After pushing, record PR/head and continue the goal; check later and fix failures. Merge only on green checks or an explicit maintainer “as is.”
 
 For multi-session work, leave a compact handoff in the existing workboard or PR:
 completed change, evidence, unresolved risk, and next executable action. Do not

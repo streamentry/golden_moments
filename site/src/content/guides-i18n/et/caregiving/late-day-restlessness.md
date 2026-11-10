@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Õhtune rahutus: rahustavad tegevused hilisel pärastlõunal"
+seoTitle: "Õhtune rahutus: rahustavad tegevused pärastlõunal"
+description: "Õrnad rutiinid, ruumi muutmine ja rahustavad tegevused, mis võivad leevendada hilise päeva rahutust dementsuse korral, ning millal tasub arstiga rääkida."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Õhtune rahutus tähendab rahutust, segadust või ärrituvust, mis algab hilisel
+  pärastlõunal või õhtul või läheb siis tugevamaks. Praktilised sammud, mis
+  võivad aidata, on ühtlane päevakava, päevavalgus ja tegevused päeva esimeses
+  pooles, vähem hiliseid uinakuid, vähem kofeiini, eredam sisevalgus enne
+  hämarikku, vaiksem kodu ning rahustavad tegevused nagu muusika, fotode
+  vaatamine või pesu voltimine. Uued või süvenevad sümptomid vajavad arsti
+  hindamist.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Õhtune rahutus tähendab rahutust või segadust, mis algab või süveneb valguse hääbumisel."
+  - "Planeerige nõudlikumad toimingud, väljas käigud ja pesemine hommikusse või varasesse pärastlõunasse."
+  - "Päevavalgus, igapäevane jalutuskäik, vähem hiliseid uinakuid ja vähem kofeiini päeva lõpus võivad muuta õhtud rahulikumaks."
+  - "Pange tuled põlema enne hämarikku, vähendage müra ja valige rahulikud, tuttavad tegevused."
+  - "Pidage lühikest päevikut, et märgata käivitajaid, ning jääge rahutuse alguses rahulikuks ja toetavaks."
+  - "Pöörduge arsti poole uute või süvenevate sümptomite korral: valu, nakkus või ravimid võivad rolli mängida."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Mis kellaajal õhtune rahutus tavaliselt esineb?"
+    a: "See algab või süveneb tavaliselt hilisel pärastlõunal või varajases õhtutunnis, kui päevavalgus hääbub. Täpne aeg on inimeseti erinev, mistõttu võib lühikese päeviku pidamine ühe või kahe nädala jooksul aidata."
+  - q: "Millised tegevused võivad õhtuse rahutuse korral aidata?"
+    a: "Hilisel pärastlõunal sobivad kõige paremini rahulikud, tuttavad ja vähepingutust nõudvad tegevused: rahustav muusika, fotode vaatamine, lemmiksaade või -film, pesu voltimine, lühike jalutuskäik või ühine suupiste. Jätke uued või keerulisemad tegevused päeva varasemasse ossa."
+  - q: "Kas õhtune rahutus võib viidata terviseprobleemile?"
+    a: "Seda võivad süvendada terviseprobleemid, näiteks valu, nakkused nagu kuseteede põletik, unehäired või ravimite kõrvaltoimed. Kui rahutus on uus, äkiline või süveneb, võtke ühendust inimese arstiga."
+  - q: "Kas peaksin arstilt küsima õhtuse rahutuse ravimi kohta?"
+    a: "Sellest tasub arstiga rääkida. Alzheimer's Association ütleb, et üldiselt eelistatakse esmalt mitteravimilisi viise ning et õhtuse rahutuse ravimit tuleks kaaluda alles pärast riskide ja kasude hindamist. Sellel lehel ei anta nõu ravimite kohta."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Paljud pered märkavad sama mustrit: hommikud on üsna rahulikud, aga pärastlõuna edenedes muutub dementsusega inimene rahutuks, murelikuks, segadusse sattunuks või ärritunuks. Ta võib ringi kõndida, paluda „koju minna“, kuigi on juba kodus, või kergesti pahaseks saada. Seda nimetatakse sageli õhtuseks rahutuseks.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Ühteainsat lahendust ei ole, kuid muutused päeva rütmis, ruumis ja pakutavates tegevustes võivad muuta hilised pärastlõunad rahulikumaks. Sellel lehel on kokku kogutud praktilisi, mitteravimilisi ideid National Institute on Aging ja Alzheimer's Association materjalidest. See ei ole meditsiiniline nõuanne. Kui sümptomid on uued, äkilised või süvenevad, rääkige inimese arstiga.
 
-## What is sundowning?
+## Mis on õhtune rahutus?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Õhtune rahutus on rahutus, erutus, ärrituvus või segadus, mis algab või süveneb valguse hääbumisel, hilisel pärastlõunal või varajases õhtutunnis. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) märgib, et liigne väsimus võib suurendada hilise päeva rahutust.
 
-## What can make late-day restlessness worse?
+## Mis võib hilise päeva rahutust süvendada?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Seda võivad mõjutada mitmed asjad, sageli koos. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) toob esile selliseid tegureid:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- väsimus pärast täis päeva;
+- uus või segane keskkond;
+- „sisemine bioloogiline kell“, mis on tasakaalust väljas, nii et inimene on päeval unine ja öösel ärkvel;
+- hämar valgus ja varjud, mis võivad segadust tekitada;
+- ümbritsevate inimeste stressi või pettumuse tajumine;
+- väiksem unevajadus, mis on eakatel tavaline.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA lisab erutuse üldiste põhjustena veel valu, masenduse või stressi, vähese puhkuse, kõhukinnisuse, liiga suure müra või liiga paljude inimeste, samuti teatud ravimid või ravimite koosmõjud.
 
-## How can I plan the day to make evenings calmer?
+## Kuidas päeva planeerida, et õhtud oleksid rahulikumad?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Viige nõudlikumad asjad varasemasse aega ja hoidke hiline pärastlõuna õrn ja etteaimatav. Nii NIA kui ka Alzheimer's Association soovitavad ühtlast päevakava. Näidispäev, mida saate enda järgi kohandada:
 
-| Time | What may help |
+| Kellaaeg | Mis võib aidata |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Hommik | Arstiajad, pesemine, väljas käigud ja kõik pingutust nõudvad toimingud, mil paljud inimesed on kõige erksamad |
+| Hiline hommik | Aeg õues või päikeselise akna juures; jalutuskäik või muu tegevus |
+| Keskpäev | Suurem lõunasöök (Alzheimer's Association soovitab suuremat lõunat ja kergemat õhtusööki) |
+| Varajane pärastlõuna | Puhkus vajaduse korral, aga vältige pikki uinakuid hilisel pärastlõunal |
+| Kesk- ja hilispärastlõuna | Rahulikud, tuttavad tegevused; suupiste ja jook; kofeiinita |
+| Enne hämarikku | Pange toas tuled põlema ja tõmmake kardinad ette enne pimedaks minekut |
+| Õhtu | Kergem õhtusöök, vaikne muusika, vähe ärritusi, ühtlane õhturutiin |
 
-A few specific points from the sources:
+Mõned konkreetsed soovitused allikatest:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Päevavalgus.** NIA soovitab korraldada iga päev aega õues või akna juures päikesevalguses.
+- **Igapäevane liikumine, aga mitte liiga palju.** Püüdke iga päev füüsiliselt aktiivne olla, kuid ärge planeerige liiga palju tegevusi, ütleb NIA.
+- **Joogid päeva lõpus.** Vältige päeva lõpus alkoholi ja kofeiiniga jooke, näiteks kohvi või koolat (NIA). Alzheimer's Association mainib ka nikotiini.
+- **Uinakud.** Vältige pikki uinakuid ja tukastamist hilisel pärastlõunal (NIA). Alzheimer's Association soovitab piirata päevaseid uinakuid, kui öine uni on häiritud.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Lisaks ühtlase päeva ülesehitamisele vaadake [igapäevaseid rutiinitegevusi](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Kuidas muuta kodu hilisel pärastlõunal rahulikumaks?
 
-Reduce noise, add light and keep familiar things close.
+Vähendage müra, lisage valgust ja hoidke tuttavad asjad lähedal.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Ere ja ühtlane valgustus.** Alzheimer's Association soovitab hoida kodu õhtuti hästi valgustatuna. Tehke ruum valgeks enne, kui varjud tekivad.
+- **Vähem müra.** Lülitage telekas ja raadio välja või tehke vaiksemaks ning piirake sel ajal külalisi või askeldamist kodus. Alzheimer's Association soovitab vähendada õhtuseid ärritusi, nagu telekas, majapidamistööd ja vali muusika.
+- **Tuttavad mugavusasjad.** NIA soovitab rahustavat muusikat ning armsate esemete ja fotode hoidmist kodus lähedal.
+- **Mugavuse kontroll.** Alzheimer's Association soovitab kontrollida, kas inimesel on valu, nälg, janu, kõhukinnisus, täis põis, väsimus, nakkus või nahal ärritus, ning hoida ruumi temperatuur mugavana.
+- **Teie enda meeleolu.** Inimesed tajuvad stressi. NIA soovitab aeglustada ja püüda ise rahuneda, kui teie mured võivad pinget suurendada.
 
-## What calm activities can we do in the late afternoon?
+## Milliseid rahustavaid tegevusi saame hilisel pärastlõunal teha?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Valige tegevusi, mis on tuttavad, kiirustamata ja mida on lihtne lõpetada. Alzheimer's Association soovitab rahustavaid tegevusi, nagu vaikne muusika, fotod või lemmikfilm, ning ühist jalutuskäiku rahutuse leevendamiseks. NIA soovitab suupistet või jooki, lemmiksaadet, muusikat, jalutuskäiku, lugemist või lihtsat majapidamistööd, näiteks pesu voltimist.
 
-Ideas to try:
+Ideid, mida proovida:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Voltige koos pesu.** NIA soovitab seda tüüpi lihtsat majapidamistööd. Rätikuid on lihtne käsitseda ja tegevusel on selge lõpp.
+2. **Pange mängima lemmikmuusika.** Tuttavad laulud noorematest aastatest, vaiksel helitugevusel. Kaasa üminemine sobib. Rohkem ideid leiate [muusikategevustest](/activities/music/).
+3. **Vaadake fotosid.** Fotoalbum või mõned perefotod mängus [Photo Pairs](/games/photo-pairs/) nii, et pildid jäävad nähtavale, võivad viia rahuliku vestluseni.
+4. **Tehke lühike jalutuskäik.** Aias, tänaval või koridoris, enne kui pimedaks läheb.
+5. **Võtke koos suupiste ja jook.** Midagi lihtsat, sooja ja kofeiinivaba, koos laua ääres.
+6. **Õrn piltide sobitamine.** [Picture Pairs](/games/picture-pairs/) nelja pildiga ja nähtavate piltidega on lihtne alustada ja lihtne lõpetada.
+7. **Värvimine.** [Coloring](/games/coloring/) ekraanil või prinditud lehel, ilma lõpetamise eesmärgita.
+8. **Vaatamine ja vestlemine.** [Conversation Cards](/games/conversation-cards/) pakub pilti ja avatud küsimust. Piisab ka lihtsalt vaatamisest.
+9. **Hingamise paus.** [Calm Breathing](/games/calm-breathing/) on aeglane ja vaikne paus, mille alustate ja lõpetate ise.
+10. **Tegevused kätele.** Nööpide või sokkide sorteerimine, pehme teki silumine või tuttava eseme käes hoidmine. Vaadake ka [meeltele suunatud tegevusi](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Vältige hilisel pärastlõunal uusi mänge, tihedaid väljas käike ja kõike, mis nõuab palju mälu või keskendumist. Jätke need hommikusse.
 
-## What should I do when restlessness starts?
+## Mida teha, kui rahutus algab?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Jääge rahulikuks, kinnitage ja suunake tähelepanu õrnalt mujale. NIA soovitab rääkida rahulikult, kuulata inimese muresid, vältida vaidlusi, kinnitada, et ta on turvalises kohas, ning kasutada õrna puudutust, kui see aitab. Seejärel proovige tähelepanu mujale juhtida: suupiste, jook, muusika või jalutuskäik.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association soovitab fraase nagu „Siin on turvaline“ ja „Mul on kahju, et te olete pahane,“ ning soovitab lisada valgust, aeglustada ja vähendada ärritusi. Ärge ajage inimest nurka, ärge tungige peale, ärge hoidke kinni ega hakake vaidlema.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Kui inimene muutub agressiivseks, soovitab NIA hoida turvalist vahemaad, kuni käitumine vaibub. Hädaolukorras helistage 112 ja öelge, et inimesel on dementsus.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Meie juhendid [suhtlemise](/caregiving/communication-tips/) ja [mida teha, kui inimene ütleb ei](/caregiving/when-they-say-no/) kohta pakuvad veel rahustavaid väljendeid.
 
-## How do I find the triggers?
+## Kuidas leida käivitajaid?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Pidage ühe või kahe nädala jooksul lühikest päevikut. Alzheimer's Association soovitab märkida üles, mis toimub enne õhtuse rahutuse episoodi, et märgata käivitajaid. Kirjutage üles aeg, mil rahutus algas, mis juhtus tund aega varem, uinakud, söögid ja joogid, külalised, müra ja valgus. Võtke päevik arstile kaasa. NIA märgib, et käitumismuutuste jälgimine võib aidata hooldajatel ja tervishoiutöötajatel mustrit märgata.
 
-## When should I call a doctor about sundowning?
+## Millal peaksin õhtuse rahutuse asjus arstiga ühendust võtma?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Võtke inimese arstiga ühendust, kui rahutus on uus, äkitselt süvenenud või sellega kaasnevad muud muutused. NIA ütleb, et äkilistest või kiiresti kõikuvatest käitumismuutustest, eriti pärast nakkust või hiljutisi ravimimuutusi, tuleks arstile kohe teada anda.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Paluge arstil kontrollida asju, mis võivad õhtuid raskemaks muuta. Alzheimer's Association nimetab terviseprobleeme, nagu kuseteede põletikud, pidamatus, rahutute jalgade sündroom ja uneapnoe, ning soovitab küsida, mis kellaaegadel on iga ravimit kõige parem võtta. NIA loetleb erutuse võimalike põhjustena valu, kõhukinnisuse ning ravimite kõrvaltoimed või koosmõjud.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association ütleb, et Alzheimeri tõvega seotud uneprobleemide puhul eelistatakse üldiselt mitteravimilisi viise ning et hilise päeva rahutuse ravimit tuleks kaaluda ainult siis, kui need ei aita, pärast riskide ja kasude hindamist. See otsus kuulub arstile. Ärge alustage, lõpetage ega muutke ühegi ravimi, unerohu ega toidulisandi kasutamist ilma arsti nõuandeta.
 
-## How do I get through the evenings myself?
+## Kuidas ise õhtutega hakkama saada?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Hilised pärastlõunad võivad olla hooldaja päeva kõige raskem osa. Kui see on võimalik, paluge pereliikmel, sõbral või tasulisel abilisel katta hiline pärastlõuna paaril päeval nädalas, kasvõi tunniks. Meie juhend [hooldaja enesehoolest](/caregiving/caregiver-self-care/) loetleb hingamisaja võimalusi ja tasuta Alzheimer's Association ööpäevaringse abitelefoni.

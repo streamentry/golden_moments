@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Ozombata nOundjolowele wOtjiuru: Omapekapeko ngu maye tjivi"
+seoTitle: "Ozombata nOmutjise wokuzemba: Omapekapeko"
+description: "Omapekapeko ohunga nozombata noumba wokukara nomutjise wokuzemba, kutja omakonḓononeno wotjiuru tji tji rikoha ozombata mape ya ye ri rukuru, nomikambo omiwa vyokurara."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Omakonḓononeno tjiva omare wozombura ozengi ye tuurunga ozombata ozosure pokati kozombura
+  noumba ounene wokukara nomutjise wokuzemba. Omakonḓononeno momaṱunino ye raisa kutja
+  ozombata maze vatere otjiuru okutjita ovihakautu. Oumbangi mbwi u ri rukuru, nu Otjira tjOvakonḓononone
+  tja Lancet tja 2024 katja twa ozombata mokati kovipute mbi mavi yenene okurundururwa. Omikaro
+  omiwa vyokurara vi ku vatera kutja u kare nawa eyuva arihe. Omapanga mozombata momutjise
+  wokuzemba ye tjitwa tjinene nu ove mo sokuraera onganga.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Omakonḓononeno mo UK nga kongorera ovandu ape 8,000 oure wozombura 25 ya muna kutja okurara oure wouyere 6 poo kehi yao pokati kozombura ku tuurunga noumba ounene wokukara nomutjise wokuzemba."
+  - "Omarundurukiro mozombata wina mape ya ye rire otjiraisiro tjorutenga tjomutjise wokuzemba, ku nao ouzeu okutjiwa kutja tjike tji tji eta tjiṋa."
+  - "Omakonḓononeno wokutja ozombata ze kohorora beta-amyloid motjiuru oweṱe, posi ya ye ri rukuru nu tjinene ya tjitwa moombe."
+  - "Oupanga wokusuva ozombata (sleep apnea) u tjitwa tjinene, u verwa nu u tuurunga nomutjise wokuzemba momakonḓononeno; okutoora tjinene nokuzepa omutenya vi sokukonḓononwa."
+  - "O una okuuta, okuyaruka poo okurundurura omiti vyokurara poo oviyandjewa vyokurara nokuhina okuraera onganga."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Hapo ozombata ozombi ze eta Alzheimer?"
+    a: "Ihi katji raisirwe. Omakonḓonḓoneno tjiva ye tuurunga ozombata ozosure noumba ounene wokukara nomutjise wokuzemba, posi omutjise wokuzemba wina u tjita kutja ozombata ze kare ozonḓeu, potuingi ozombura ozengi komurungu wokutjiwa. Otjira tjOvakonḓononone tja Lancet tja 2024 tja muna kutja oumbangi kau ṱeki nawa kutja u twewe otjotjipute tji tji yenena okurundururwa."
+  - q: "Ovandu ovanene ve hepa ozombata zingapi?"
+    a: "National Institute on Aging mai tja ovandu ovanene ve hepa ozombata tjingee novandu ovakwao, oure wouyere 7 nga ku 9 ouṱuku. Ovandu ovanene ovengi ve rara nu ve penduka rukuru okukapita pa rukuru, nu ihi otjiṋa tji tji tjitwa tjinene."
+  - q: "Ongwaye omundu ngu nomutjise wokuzemba tji ma rara omutenya nu a penduka ouṱuku?"
+    a: "Omutjise wokuzemba mau yenene okutjita kutja oiri yomurungu i hakahane, ku nao oruveze rwokurara nokupenduka ru vangwa. Omihihamo, ongaro yokuhina tji wa ungura, ondjara poo oviṋa mbi za momiti wina mavi yenene okukara norupa. Ondjerera yeyuva, oviungura vyeyuva arihe nomukaro omupore wongurova mavi yenene okuvatera. Onganga mai yenene okukonḓonona oviṋa mbi mavi yenene okuverwa."
+  - q: "Hapo me sokuyandja otjiyandjewa tjokurara komundu ngu mbi rikendera?"
+    a: "Hungira nonganga ye rutenga, nandarire ohunga noviṋa mbi randwa nokuhina ombapira yonganga. National Institute on Aging mai tja omiti tjiva vyokurara mavi yenene okuwezera oumba wokuṱuna, okuwira nokuvangwa movandu mbe nomutjise wa Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Ozombata nondjolowele yotjiuru vi tuurunga oukahu, posi omuano mu vi tuurunga mau konḓononwa ngamba. Omakonḓononeno tjiva ye tuurunga ozombata ozosure noumba ounene wokukara nomutjise wokuzemba. Ku nao, omutjise wokuzemba potuingi u tjita kutja ozombata ze kare ozonḓeu. Omukanda mbwi mau kahurura imbi omakonḓononeno mbi maye raisa na imbi mbi hi nokuraisa, mau yandja omikambo omiwa vyokurara, nu mau hungire ohunga nomapanga mozombata nge tjitwa tjinene momutjise wokuzemba. Kau yandja ondunge ohunga nomiti vyokurara; ehungi ndo ri sokukara nonganga.
 
-## Is poor sleep linked with dementia?
+## Hapo ozombata ozombi ze tuurunga nomutjise wokuzemba?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Omakonḓononeno tjiva omare ye tuurunga ozombata ozosure noumba ounene wokukara nomutjise wokuzemba, posi oumbangi kau ya zikama.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Omakonḓononeno mo UK wozombura 25.** Ovakonḓonone va kongorera ovandu ape 8,000 motjirongwa tja [Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Ovandu mba rara oure wouyere 6 poo kehi yao pozombura 50 poo 60 va ri noumba ounene wokukara nomutjise wokuzemba kombunda okukapita imba mba rara ouyere 7. Ovandu mba rara ouyere 6 poo kehi yao pozombura 50, 60 na 70 va ri noumba mbu ri kombanda ape 30% okukapita imba mba rara ouyere 7 aruhe. Ihi tja ri otjirongwa tjokutara, ku nao tji raisa orutuurunge, katji raisa kutja ihi otjo tji tji eta.
+- **Omuhunga wOtjira tjOvakonḓononone tja Lancet.** [Otjira tjOvakonḓononone tja Lancet tja 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) katja twa ozombata moruteto rwavyo rwovipute 14 mbi mavi yenene okurundururwa. Tja muna kutja oumbangi kau ṱeki nawa. Epu rimwe orokutja omarundurukiro motjiuru okuza komutjise wokuzemba ye uta ozombura ozengi komurungu wokutjiwa nu mape ya ye pange ozombata. Motjirongwa tjimwe otjinene, orutuurunge pokati kozombata ozonde nokukara nomutjise wokuzemba rwa zenga indu ozombura 5 ozondenga zondjenderezo tji za isapewa.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Ku nao, ouṱuku umwe omuvi povikando kawe sokukutjita u rikendere. Okukondja okurara nawa aruhe otjiṋa otjiwa, mena rokutja tji vatera omutima woye, okukara omupaturuke nongarero ndji ri nawa ndino.
 
-## What is the "brain-clearing" sleep research?
+## Omakonḓononeno wokutja otjiuru “tji rikoha” ozombata maye hee tjike?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Mape ya wa resa kutja ozombata “ze koha” otjiuru. Ondunge ndji ya za momakonḓononeno nge ri ko, posi ye ri rukuru.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Moombe.** Omakonḓononeno wo 2013 nga [kahururwa i NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) ya muna kutja oruveze pokati kozosepa zotjiuru rwa kurira ko ape 60% indu oombe tji za rara. Omeva ya tupuka nawa motjiuru, mu imbi ovakonḓonone mbi isana otjotjina tjoglymphatic. Beta-amyloid, otjipuka tji tji tuurunga na Alzheimer, tja kohororwa hakahana motjiuru tjoombe nda rara.
+- **Movandu.** [Omakonḓononeno omatiti wo 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) ya tarera ovandu 20 mbe nouveruke wozombura 22 nga ku 72 kombunda youṱuku ouwa nokombunda youṱuku mbu va ha rarere. Kombunda youṱuku mbwo, otjiraisiro tjokonḓononeno yotjiuru ohunga na beta-amyloid tja yeruruka ape 5% poruveze ndu ru kambura mo hippocampus, orupa orunanḓengu rwezemburukiro. Ovatjange va tja imbwi oumbangi worutenga. Kave tjiwire kutja omarundurukiro nga ye zengi indu omundu tji ma suva, poo kutja ye raisa okutjita kutja okukoha ku rire okusuparara poo beta-amyloid tji mai ungurwa tjinene.
+- **Tji ungura momiano vivari.** Otjira tjOvakonḓononone tja Lancet matji tja okuwongara kwa amyloid kuṋe maku yenene okupanga ozombata movandu ovanene.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Omapekapeko nga ye vatera okuhungira kutja ongwaye ovakonḓonone tji ve nonḓero mozombata. Kaye raisi kutja ozombata ozombwa maze tjaere Alzheimer.
 
-## What sleep habits may help?
+## Omikaro viṋe vyokurara mbi mavi yenene okuvatera?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Ovandu ovanene ve hepa oure wouyere 7 nga ku 9 wokurara ouṱuku, tjimuna ovandu ovakwao, otja ku [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Omaziriro wayo ye kambura mo:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Kara noruveze rumwe aruhe.** Rara nu penduka poruveze rumwe eyuva arihe, nandarire omaandero wotjivike.
+- **Ungura omukaro wokuripora komurungu wokurara.** Resa, puratena komizumbi omipore poo okaṋa komeva omapyu komurungu wokurara.
+- **Tjita kutja ondjuwo yoye yokurara i kare nawa,** kai pyu tjinene poo okuṱarara tjinene.
+- **Punguhisa caffeine kombunda yomutenya.** Okofi, otee, omanuwa nge nosoda notjokolate mavi yenene okukutjita u ha rare.
+- **Ritjaera omanuwa omatarazu,** nandarire omatiti, NIA mai tunduuza.
+- **Ritjaera ovikurya ovingi moure wouyere 2 nga ku 3 komurungu wokurara,** nomanuwa omengi kombunda.
+- **Ungura oviungura vyorutu aruhe, posi ka moure wouyere 3 komurungu wokurara.** Tara [omuhunga wetu woviungura vyorutu](/brain-health/exercise/).
+- **Tjita kutja ovitjitarero vi kare pendje nondjuwo yokurara.** NIA mai tunduuza kutja o ha tarere TV poo okuungurisa okompiuta, ongeama poo otjipangure mu yo.
+- **Ritjaera okurara ouṱuku omutenya kombunda** tji mo yenene.
 
-## Sleep problems in dementia
+## Omapanga mozombata momutjise wokuzemba
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Omarundurukiro mozombata ye tjitwa tjinene momutjise wokuzemba. [NIA mai tja](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) ovandu mave rara tjinene poo ouṱiṱi tjinene, mave penduka povikando ovingi ouṱuku, nu mave rara omutenya tjinene. Wina mai hungire ohunga na sundowning: okuhina okusuva, okuhahuha poo okuvangwa mbi vi uta poo mbi vi kurira ko tjinene ondjerera yeyuva tji mai zu.
 
-Caregiver tips from the NIA include:
+Omaziriro komurikendi okuza ku NIA ye kambura mo:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Kara nondjerera yeyuva nokunyanda rukuru.** Pita pendje poo kara pomberoo omutenya, nu vatere omundu okukara novitungwa eyuva arihe. Ondjerera onene mai yenene okuvatera okurundurura oiri yomurungu.
+2. **Twa oviungura mbi nomasa momuhuka.** Rora okukooha momuhuka poo okukara nekurya enene pomutenya.
+3. **Tjita kutja ozombata ozosupi zomutenya ze rire ozosure norukurumane.** Punguhisa okurara kombunda yomutenya.
+4. **Tjita kutja ongurova i kare ombore.** Isapo ozonyute, isapo ombosiro nu yimburura omizumbi omipore indu omundu tje vi nonyuṋe. Omuhunga wetu ohunga n[okuhina okusuva kombunda yeyuva](/caregiving/late-day-restlessness/) u nozondunge ozengi.
+5. **Kara nomukaro umwe wokurara ouṱuku.** Okuresera pombanda poruveze rumwe ouṱuku auhe otjihorera tjimwe tja NIA. [Omukaro omuwa weyuva arihe](/activities/daily-routine/) wina u vatera.
+6. **Punguhisa caffeine nomanuwa omatarazu.**
+7. **Ungurisa ozonyute ozonḓiṱi zouṱuku** mondjuwo yokurara, monḓira nomondjuwo yomezenga.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Komundu ngu ma penduka ouṱuku, [omaziriro wa NIA wongarero ondjepuke ponganda](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ye kambura mo ozonyute zouṱuku poo ovitjitarero mbi vi yakura ovini, oviṱiziro mondjuwo yomezenga, otepu yomarama omaserandu pomikuma vyozondarata, nomiti mbya tuwa poruveze pu pa pata.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Otjiungura otjisupi notjipore ongurova matji yenene okumuvatera amuyevari okusuva. Rora okusuva ouṱiṱi na [Calm Breathing](/games/calm-breathing/) poo oumaraka ouṱiṱi wa [Conversation Cards](/games/conversation-cards/). Ritjaera atjihe tji tji pendura ombepo popezu nokurara, nu kurama indu omundu tja yenene.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Ozombata nḓa teka wina ze urisa ovarikendi. [Omuhunga wetu wokurirongera omurikendi](/caregiving/caregiver-self-care/) u nohunga nomiano vyokumuna orusuvo nombatero.
 
-## What about sleep apnea?
+## Hapo ohunga na sleep apnea?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sleep apnea i eta okusuva okusupi mokusuva ozombata, potuingi povikando ovingi ouṱuku. NIA mai tja indu tji hi na okuta verwa, mai yenene okueta omapanga tjimuna ombinḓu yokombanda, oupanga womutjise wotjiteṱu poo okuzepa kwezemburukiro. Oviraisiro vi kambura mo okutoora tjinene nokuzepa omutenya, nu ovandu ovengi kave tjiwa kutja ve na wo. Otjira tjOvakonḓononone tja Lancet matji hungire ohunga nomakonḓononeno 11 mu imba ovandu mbe na sleep apnea va ri noumba ounene ape 43% wokukara nomutjise wokuzemba. Omakonḓononeno omatiti mokati kawo ya tara kouṋe womurungu, ku nao orutuurunge ka ru ya zikama nawa.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sleep apnea mai yenene okuzikamisiwa nokutaverwa. NIA mai tja otjimashina tja CPAP potuingi tji vatera. Indu ove poo omundu ngu mo rikendere tji ma toora tjinene, tji ma kurama okusuva ozombata, poo tji ma zepa tjinene omutenya, raera onganga.
 
-## A note about sleep medicines
+## Ombuze ohunga nomiti vyokurara
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Eṱe katu yandja ondunge ohunga nomiti vyokurara poo oviyandjewa. NIA mai tja omiti vyokurara mavi yenene okuvatera oruveze orusupi posi kavivero vyomupanga wokuhararere (insomnia). Wina mai tja omiti tjiva mbi yandjewa okuvatera ovandu mbe na Alzheimer okurara mavi yenene okuwezera oumba wokuṱuna, okuwira nokuvangwa. O uta, o yaruka poo o rundurura omuti ngamwa auhe wokurara, nandarire oviyandjewa vyokurara mbi randwa nokuhina ombapira yonganga, nokuhina okuhungira nonganga poo omuyandje womiti.
 
-## Talk with a doctor
+## Hungira nonganga
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Tara konganga indu ove poo omundu ngu mo rikendere tji mamu urwa aruhe, tji mu nouzeu wokurara ouṱuku ouingi, tji ma toora tjinene, poo tji pe nokusuva okurihanda mokusuva ouṱuku. Indu omapanga mozombata momutjise wokuzemba tji maye kayenda komurungu, [NIA mai tunduuza](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) okupaha ondunge yonganga. Okukonḓononwa maku yenene okumuna oviṋa mbi tjita nao, tjimuna omihihamo, omutjise warwe wozombata, ouvera poo otjiṋa tji tji za momiti. Okuvangwa kwatjimanga, poo omarundurukiro omakurumane mozombata pamwe nokuvangwa, vi hepa ombatero hakahana. Resa [oruveze ndu mo sokutara konganga](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Omukanda mbwi ombazu yoviṋa uriri, kau ri ondunge yonganga. Tara [omahungiriro wetu wokutja kaweṋe ondunge yonganga](/medical-disclaimer/).

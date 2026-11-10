@@ -1,34 +1,37 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Taimanu para un huegu yan taotao ni guaha demensia"
+seoTitle: "Taimanu para un huegu yan taotao ni guaha demensia"
+description: "Un giha gi praktika para u huegu yan taotao ni ma’gås-ñiha gi demensia: preparasion, paso, ti u korehi, na’fa’libiånu, yan kuando para."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Na’setbe i huegu komo tiempon dos, ti eksåmen. Ayek i tiempon ha’åni ni
+  kalma, fåtto fi’on-ña gi un kuåtto ni tahdong, yan ofresi un huegu ni
+  senlibiånu. Seddi i taotao ni un adadahi para u disidi i paso, cha’-mu
+  kumorehi i linachi ni ti ha na’chatsaga, na’fa’libiånu i huegu gi finenina
+  na señåt na ha’åniñilañ, yan usa i litratu para un kuentusi. Para mientras
+  gof ya-mu ha’. Maole na risuttåt yanggen un para åntes, pat un atan ha’
+  hamyo.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "I minagof yan i inachetton i metgot-ña, ti i makomplidu pat i dinanche na ineppe."
+  - "Preparåyi åntes di un tutuhon: kuåtto ni tahdong, maole na kandet, anteohos yan ineyak gi talanga, apagåyi i TV, yan listo un huegu."
+  - "Cha’-mu kumorehi i linachi ni ti ha na’chatsaga. Sangåni «Tåya’, ta chagi ta’lo taiguini» pat sige ha’."
+  - "Na’fa’libiånu i huegu åntes di u guaha frustasion: menos litratu, menos na para u ayek, yan litratu ni ma fa’nu’i."
+  - "Usa i litratu para un tutuhon istoria ni «Sangåni yo’ put...» imbes di «Un hasso hao...?»"
+  - "Para gi finenina na señåt na ayo o inestotba. Maole na risuttåt yanggen un para åntes, ti linachi."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Kuanto tiempon para in huegu?"
+    a: "Tåya’ dinanche na apas. Para meggai na taotao, unos kuantos minutos gof sufisienti, yan guaha ha’åni na un rånda ha’ gof maole. Atan i taotao ni un adadahi, ti i ora, ya para mientras ha malago’ ha’."
+  - q: "Debi di hu sedi gue’ para u gånna pat hu finge na ti hu ripåra i linachi?"
+    a: "Gi un huegu ni hami dos yan ti presisu, tåya’ para u gånna pat u fåttu. Yanggen i linachi ti ha na’chatli’e’ i taotao, seddi ha’ gue’. Yanggen ha na’chatli’e’, ayude siha gi tahdong pat na’fa’libiånu i huegu sin un sanganåyi."
+  - q: "Håfa yanggen mas ya-ña ha atan yo’ annai hu huegu?"
+    a: "Maole ha’ ennåo. I National Institute on Aging ha recomendiendi na seddi i taotao para u atan ha’ yanggen mas ha gof disfruta. Kuentusi put håfa un li’e’ ya kombida gue’ para u tucha pat u ayek maseha amånu na malago’."
+  - q: "Manmana’setbe esti na huegu para u tinekcha i hinasso?"
+    a: "Ahe’. I huegun-måmi manlibiånu na aktibidåt para dos para minagof yan kuentusi. Ti tinekchan hinasso, ti ha mididi håfa, yan ti åmot para i demensia."
+  - q: "Håyi na huegu mas maole para un tutuhon?"
+    a: "Tutuhon gi mas libiånu ni maole para i taotao. I Picture Pairs yan kuåttro na tile ya ma fa’nu’i i litratu, pat i Find the Same yan dos na para un ayek, maole na tutuhon ni mañanña. I Conversation Cards maole yanggen mas ya-ña i taotao kumuentusi kinu u tucha."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +50,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Un maole na huegu yan taotao ni ma’gås-ñiha gi demensia ti taiguihi komo kompetensia. Parehu ha’ yan dos taotao ni manå’cho’cho’ fi’on-ñiha, manmanåtudong gi litratu, manchålek put un sinangån, yan mankuentusi put maseha håfa na asunto. I huegu i rason ha’ para in na’setbe tiempon dos.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Este na giha ha kubre taimanu para un prepara, taimanu para un na’paso i huegu, håfa para un sangån yanggen guaha «linachi», taimanu para un na’fa’libiånu pat un na’metgot mas ki didide’ maseha håyi na huegu, taimanu para un na’kuentusi, yan taimanu para un tingo’ kuando para. Maole este para i [huegun-måmi](/games/) yan para katta, puzzle, yan huegun lamasa ni gaige giya-miyu.
 
-## What is the best way to play a game with someone who has dementia?
+## Håfa i mas maole na manera para in huegu yan taotao ni guaha demensia?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Na’fokos gi minagof, ti gi finatto. Ennåo i sentråt na konsehu gi [giha put aktibidåt ginen i Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities): na’setbe i abilidåt ni gaige ha’ gi taotao, ayude gue’ para u tutuhon, cho’gue hao i mas mappot na påtte, ya cha’-mu kritika pat korehi i aktibidåt ni ti ha na’chatsaga.
 
-In practice that means:
+Gi praktika, kumekeilekña este:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Fåtto fi’on-ña, ti gi me’nan-ña.** Annai dos hamyo gi fi’on, siña ha’ in li’e’ i pantåya pat i lamasa, ya i inayuda parehu ha’ yan inachetton, ti pigadera.
+- **Ofresi un huegu ha’ gi un biahi.** Un menu ni meggai na para un ayek siña ha parehu yan eksåmen åntes di u tutuhon håfa.
+- **Dalalak i lina’la’-ña.** Yanggen malago’ gue’ u tucha i litratu gi otdin-ña, kumuentusi put un litratu dies minutos, pat u para despues di dos na biåhi, ennåo i huegu på’go na ha’åni.
+- **Tufong i maole na momento, ti i makomplidu na rånda.** Un minagof, un istoria, pat un kalma na media ora, ennåo i risuttåt ni un aligao.
 
-## How do I set up before we start?
+## Taimanu para bai hu prepara åntes di in tutuhon?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Unos kuantos minutos na preparasion siña ha na’suha i maså’pet ni ma blema i huegu mismo.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Ayek i mas maole na tiempon ha’åni para gue’.** I [giha ginen i National Institute on Aging (NIA) put ma’adåpta na aktibidåt](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ha recomendiendi na planu’i i aktibidåt gi tiempon ha’åni annai mas maole i taotao. Para meggai, gi talu’åni. I pupuengi mas mappot siña; atan [kalma na aktibidåt gi pupuengi](/caregiving/late-day-restlessness/).
+2. **Na’tahdong i kuåtto.** Apagåyi i TV yan i rediu, ya huchom i pettan yanggen siña. I [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ha recomendiendi na na’menos i boruka yan i distraksion åntes di un chagi kumuentusi.
+3. **Chek i kinemprende finenina.** Hånom gi fi’on, i båtde åntes, un maole na siya, yan anteohos yan ineyak gi talanga.
+4. **Na’gåsgas i kuåtto.** Maole na kandet sin brillantina gi pantåya para mas libiånu ma li’e’ i litratu.
+5. **Na’listo i huegu åntes di un fåtto.** Baba gue’, ayek i setbisio, yan na’listo i bos hao mismo. Pues bira i pantåya para guiya. Para ayudo put tablet, atan [taitai na manera para un usa i tablet pat telifon](/caregiving/tablets-and-screens/).
+6. **Na’såga i aparåtu.** Un stand pat kåha ni ha na’totohge i tablet kumekeilekña na tåya’ nesesita u gogotte, yan mas libiånu para u tucha.
 
-## How do I invite them without pressure?
+## Taimanu para bai hu kombida gue’ sin presisu?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Na’libiånu yan chåda’ i imbitasion. Guaha siha na palabra ni siña maole:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Hu sodda’ unos litratu gi hatdin. Malago’ hao un atan yan guåhu?»
+- «Siña un ayuda yo’ gi este na puzzle? Manå’i yo’.»
+- «Malago’ hao i flores pat i paluma på’go?» (dos na para un ayek mas libiånu kinu un abri na kuestion)
+- «Hu fa’tinas un kåtta para che’lu-mu palao’an. Håyi na kulot para este?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+I Alzheimer’s Association ha sugeri na sangåni i rason i aktibidåt, taiguihi ha’ i para un fa’tinas kåtta para un amigo, sa’ i rason ha na’i bali. I finaisen ayuda lokkue’ maole sa’ ha na’sienti i taotao na bali gue’.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Yanggen ha sangån «ahe’», respeta ha’. Chagi ta’lo masåt atras pat ofresi otro. I gihå-måmi put [håfa para un cho’gue yanggen ha sangån «ahe’»](/caregiving/when-they-say-no/) ha sanganåyi mas.
 
-## How long should a game last, and how fast should we go?
+## Kuanto tiempon para un huegu, yan taimanu i paso?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Seddi i taotao ni un adadahi para u disidi i paso, ya planu’i kåttan na sesion. Tåya’ prubådu na mas maole na apas para un huegu dos. Dos esta sinko na kalma na minutos siña ha un aktibidåt ni kompletu.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Nangga mas ki minagof-mu.** I NIA ha sangåni na na’i mas tiempon i taotao para u ope, ya chagi cha’-mu u’utot. Tufong esta dies gi hinasso-mu åntes di un ayude.
+- **Un paso ha’ gi un biahi.** Na’i un kåttan, libiånu na instrukson («Tucha un litratu»), pues nangga. Fa’nu’i imbes di un eksplika: tucha månu na para u tucha.
+- **Susuetdo ha’ i deskånso.** Yanggen ha para para u kuentusi put un litratu, siña ha nangga i huegu. Ti nesesita in apura.
+- **Seddi gue’ para u atan.** I NIA ha sangån na guaha taotao ni mas ya-ñiha u ma atan, yan maole ha’ ennåo na disision.
 
-## Should I correct wrong answers?
+## Debi di hu korehi i linachi na ineppe?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ahe’. I tátut sinetsot na kinorehi siña ha na’sienti i taotao na ha fåfattu, maseha maole i intensio-mu. I Alzheimer’s Association ha recomendiendi na cha’-mu kritika pat korehi i aktibidåt ni ti ha na’chatsaga. Gi un huegu, kasi todu i linachi ti ha na’chatsaga.
 
-| Instead of | Try |
+| Imbes di | Chagi este |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Ahe’, linachi ennåo.» | «Tåya’, ta chagi ta’lo taiguini.» (ihimplon i NIA ha na’i) |
+| «Ti umachetton ennåo. Atan ta’lo.» | Cha’-mu kumuentusi ya chule’ i otro na biåhi-mu, pat «Ai, parehu i kulot i dos.» |
+| «Un hasso hao håyi este?» | «Sangåni yo’ put este na litratu.» |
+| «Un cho’gue esta ennåo.» | «Maole ennåo. Ta cho’gue ta’lo.» |
+| «Båsta, un tungo’ este.» | «Malago’ hao na hu fa’nu’i i uttimo?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Yanggen un linachi ha na’frustråo gue’, ayude siha gi tahdong. Tucha i dinanche na litratu, chule’ un biåhi hao, pat na’fa’libiånu i huegu gi otro na rånda. Yanggen un sinangån ha fa’nu’i un chistosu na uttimo, chålek yan guiya. Siña mas maole i uttimo-ña.
 
-## How do I make a game easier or harder?
+## Taimanu para bai hu na’fa’libiånu pat hu na’metgot mas ki didide’ i huegu?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Adåpta i huegu para i taotao gi ayo na ha’åni, ti para un etiketa. I mismu na taotao siña ha nesesita mas libiånu na bersion gi pupuengi kinu gi talu’åni. I finenina na konsehun i NIA na na’parehu i aktibidåt yan håfa siña ha cho’gue i taotao, ya siguruyi na ha sienti na maole i cho’cho’-ña.
 
-| Game | Make it easier | Make it a little harder |
+| Huegu | Na’fa’libiånu | Na’metgot mas ki didide’ |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Tutuhon yan 4 na tile ya seddi i litratu ma fa’nu’i | Mas meggai na tile, pat na’attok i litratu yanggen maole ha’ |
+| [Find the Same](/games/find-the-same/) | 2 na para un ayek | Esta 4 na para un ayek |
+| [Sort Together](/games/sort-together/) | Hågu u gogotte i litratu, guiya u tucha i basket | Guiya u tucha i litratu yan i basket |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 na pedåsu, kuentusi put i enteru na litratu finenina | 9 na pedåsu |
+| [Finish the Saying](/games/finish-the-saying/) | Fa’nu’i i uttimo, pues sangåni dos hamyo | Seddi gue’ para u sangån i uttimo åntes di u tucha |
+| [Word Search](/games/word-search/) | Imprenta gue’, aligao un palabra dos hamyo, tucha i finenina na lettra | Seddi gue’ para u ayek i otro na palabra para u aligao |
+| [Coloring](/games/coloring/) | Hågu un ayek dos na kulot, guiya u ayek entalo’ i dos | Guiya u ayek todu i kulot |
+| [Conversation Cards](/games/conversation-cards/) | Atan ha’ i litratu dos hamyo | Usa i abri na kuestion gi katta |
+| [Photo Pairs](/games/photo-pairs/) | Unos kuantos na litratu i familiå-mu ni sen gof ya-ñiha | Na’hålom mas litratu |
+| [Picture Bingo](/games/picture-bingo/) | Guaha umayuyuda gi fi’on kada taotao | Kada taotao ha marka i katta-ña |
+| [Calm Breathing](/games/calm-breathing/) | Fåtto ha’ ya atan dos hamyo | Håssan dispasio yan guiya |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Señåt na mas mappot i huegu: åpmam na inangokko ni parehu ha’ yan inestotba imbes di hinasso, tátut na «ti siña yo’», dumudurok i aparåtu, pat linachi ni ha na’triste gue’. Señåt na siña mas libiånu: aburridu, pat ha sangån na para patgon. Yanggen taiguini, respeta ya tåtti gi otro ni para taotao åmko, taiguihi i word search, un puzzle ni litratu minagahet, pat kuentusi put un litratu gi biåhon-ña na cho’cho’.
 
-## How do I turn a game into a conversation?
+## Taimanu para bai hu na’kuentusi ginen i huegu?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Usa kada litratu komo imbitasion para u kuentusi, ya chule’ maseha håfa ha sangån komo maole na ineppe. Para meggai na familiå, ennåo i mas maole na påtte gi huegu.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Faisen abri na kuestion ni tåya’ linachi na ineppe.** «Håfa un ripåra?» «Håyi mas ya-mu?» «Sangåni yo’ put un kusina taiguini.»
+- **Sangån finenina hågu.** «I biha-hu guaha ga’-ña taiguini.» I istoria-mu ha na’fa’libiånu para guiya lokkue’ u sangån.
+- **Dalalak i istoria.** Yanggen un litraton kåro ha na’fanhanao hamyo para un istoria put biåhi, i istoria i aktibidåt. Seddi i huegu para u susuetdo.
+- **Cha’-mu chechek i dinanche.** Gi hinasso put tiempon åntes, mas impottånte i maole na kuentusi kinu i dinanche na detalle. Yanggen matulaika i istoria ginen i uttimo na biahi, gof disfruta i nuebu na bersion.
+- **Usa i kuestion ni gaige gi huegu.** I [Finish the Saying](/games/finish-the-saying/) ha tattiyi kada sinangån yan un kuestion para in kuentusi, yan i [Conversation Cards](/games/conversation-cards/) ma fa’tinas para este. I [Photo Pairs](/games/photo-pairs/) ha usa i litratu i familiå-mu, ya siña ha na’huyong meggai na maole na istoria.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Mas ideha gi gihå-måmi put [aktibidåt put hinasso](/activities/reminiscence/) yan [konsehålon kuentusi](/caregiving/communication-tips/).
 
-## When should we stop?
+## Kuando para in para?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Para gi finenina na señåt na ayo pat inestotba, yan mas maole åntes di ennåo. I Alzheimer’s Association ha recomendiendi na para pat tåtti i aktibidåt yanggen humåhnanao i atension pat dumokko i frustasion.
 
-Watch for:
+Atan este siha:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- uuma’å’ak, dumodokko, pat i atadok-ña humåhnanao ginen i pantåya;
+- ti siña ha såga, tumotohge, pat ha faisen para u hånao;
+- ha’åson, kåttan na ineppe, pat «ti maole yo’ gi este»;
+- ha tutucha maseha månu pat ha dudurok i aparåtu;
+- tumånges, må’ñao, pat derepente matulaika i sentimento-ña.
 
-How to stop well:
+Taimanu para un para maole:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Funhåyan gi algo ni libiånu.** Un uttimo na che’cho’ ni siña ha cho’gue, pat un uttimo na litratu para in atan.
+- **Sangåni put hågu.** «Hu nesesita chå gi kafe. Ta para guini?» kumekeilekña na ti parehu yan linachi-ña.
+- **Tåtti para algo ni kalma pat para i tataotao.** Un kåttan na mamokkat, nengkanno’, dinoble ropa, pat kånta.
+- **Sangåni un maole na palabra.** «Hu gof magof annai in cho’gue este dos.» Ti inagradesi put «dinanche», låo minagof ha’ gi tiempon dos.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Maole na risuttåt yanggen un para åntes, un tåtti i planu, pat un na’suha i huegu ya un fåtto ha’ dos hamyo.
 
-## Can we play in a group or over a video call?
+## Siña in huegu gi grupo pat gi bidiu na kuentusi?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Hunggan, yanggen un prepara didide’ mas. Gi un grupo, na’menos i taotao, na’gaige i umayuyuda gi fi’on håyi na nesesita, ya ayek un huegu ni klåru i atension para todu. I [Picture Bingo](/games/picture-bingo/) guaha katta para u ma imprenta yan un tågao gi pantåya para grupo. Atan [aktibidåt para grupo gi care home](/activities/care-home-groups/) para mas.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Gi bidiu na kuentusi, i taotao gi otro na banda siña ha deskribi i litratu mientras guaha gi kuåtto ha tucha. Na’kåttan i kuentusi ya na’familia. I gihå-måmi put [tilifon yan bidiu na kuentusi](/activities/phone-and-video-calls/) guaha mas na ayudo.
 
-## What if a game just isn't working?
+## Håfa yanggen ti mafunhåyan maole i huegu?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Guaha ha’åni na tåya’ mumana’maole, yan ti sumåsangån ennåo put hågu pat put guiya. Na’suha i huegu ya chagi ta’lo gi otro na tiempon ha’åni, otro na huegu, pat tåya’ huegu. Meggai na maole na aktibidåt tåya’ koneksion-ña yan pantåya: kånta, dinoble toåya, inatan ålbun litratu, pat un kåttan na mamokkat. Atan i [ideha para aktibidåt](/activities/ideas/) para mas.

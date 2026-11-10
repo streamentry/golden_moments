@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Ondyero ombwa yeyuva arihe komundu ngu ri nomutjise wokuzemba"
+seoTitle: "Ondyero yeyuva: omuhunga omungozu"
+description: "Omuhunga omungozu weyuva komundu ngu ri nomutjise wokuzemba, novikando vyokurya, oviungura nokusuva, nomuano wokutunga nokurundurura."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Ondyero ombwa yeyuva i ṱiza okupenduka, ovikando vyokurya, okuritjevera
+  nokukarara moruveze tjingero otjiṋa, i twa otjiungura otjinene poruveze
+  omundu pu ma kara nomasa, nu i yandja oruveze rwoviungura nokusuva. I tunga
+  okuza komitjise vyomuinyo womundu, i kara omungozu, i yandja ondjerera
+  yomutenya nokunyanda eyuva arihe, nu i rundururwa noupupu indu eyuva tji
+  ri omazeu.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Oruveze tjingero otjiṋa rwokupenduka, ovikando vyokurya, okuritjevera nokukarara ru yandja eyuva omuhunga mbu wa zikwa."
+  - "Twa otjiungura otjinene poruveze oruwa rwomundu meyuva, potuingi omuhuka."
+  - "O yandeka okuzepa ominute azehe. Okusuva noruveze rwokumwina vi ri orupa rwondyero."
+  - "Ondjerera yomutenya, okunyanda eyuva arihe nokuyepa ozombimbo ozonde ongurova nokunwa okofi ongurova mavi vatere kombameno yomapeta wongurova."
+  - "Ondyero omuhunga uriri, kai otjipango. Rundurura, susuparisa poo yepa otjiṋa ngamwa atjihe momayuva omazeu."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Ongwaye ondyero tji i vatera omundu ngu ri nomutjise wokuzemba?"
+    a: "Eyuva ndi ri nozongaro nda undjirwa ko ri nomazuviro omatiti nomahimise omatiti, nu ovandu ovengi mbe ri nomutjise wokuzemba ve ri muna otjombwiro. Alzheimer’s Association i tja eyuva nda rongerisiwa ri ku yandjera okuripura ouṱiṋa kutja mo tjiti vi, nu ri ku yandjera oruveze oruingi koviṋa mbi mu nyanda pamwe. Wina ri vatera ovatjevere okuronga eyuva rawo."
+  - q: "Ondyero yeyuva ndji ṱa pi ombwa komundu ngu ri nomutjise wokuzemba?"
+    a: "Kape nondyero imwe uriri ndji ri osemba. Ombwa i ṱiza okupenduka, ovikando vyokurya nokukarara moruveze tjingero otjiṋa, i twa okuritjevera notjiungura otjinene poruveze omundu pu ri nawa, i yandja oruveze rwokukara pendje poo popezu netendere, nu i yandja oruveze rwokusuva. I tunga komuinyo womundu otja tja kara."
+  - q: "Omundu ngu ri nomutjise wokuzemba nga rare ombimbo omutenya?"
+    a: "Okusuva ouṱiṱi mape ya aku vatere, tjinenenene kombunda yeriro ryomutenya. National Institute on Aging i tunduuza kutja ozombimbo ozonde nokuzozokera ongurova avi yandekwa, mena rokutja okurira nomapongo poo okusuva navi mavi weza kombameno yomapeta wongurova. Indu ozomboto tji ze ri ouzeu watjiri, hungira nonganga ye."
+  - q: "Nu tji ma panḓa okukongorera ondyero?"
+    a: "I esa nai nu u roro okuzambo rukwao poo momuano warwe. Okupanḓa mape ya aku hee kutja wa urwa, u vera, u nomihihamo poo ke ya rirongerere. Ondyero i ri po okurira eyuva oupupu, otji i rundurura pendje nokuhinokuisinisa."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Ondyero ombwa i yandja eyuva omuhunga mbu wa zikwa: okupenduka, ovikando vyokurya, otjiungura outiṱi, okusuva nokukarara moruveze tjingero otjiṋa. I susuparisa omazuviro nomahimise, nu i ku pe ondunge moruveze ndu mo kara nokuripura kutja mo tjiti vi nai. Ondyero ndji ri kehi omuhunga uriri, kai otjipango. I ungurisa otjombutiro, nu u i ungure kutja i yendere omundu ngu u tjevera.
 
-## Why does a daily routine help?
+## Ongwaye ondyero yeyuva tji i vatera?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Ondyero ndji ha runduruka i vatera mena rokutja omiano omizikwa omapupu okukongorera pozombya. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) i tja eyuva nda rongerisiwa ri heya oruveze rwokuripura kutja mo tjiti vi nu ri yandja oruveze oruingi koviungura ovinanḓengu, nu i tja oruveze tjingero otjiṋa rwokupenduka nokukarara mape ya aru vatere kouzeu wozomboto nokombameno yomapeta wongurova. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) i tunduuza okukoha, okuzara nokurya moruveze tjingero otjiṋa eyuva arihe otjorupa rwonganda ndji ri nomapepo, nu [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) wina i tunduuza okutjita omiano tjingero otjiṋa.
 
-## A sample gentle day
+## Omuhunga weyuva omungozu
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Ozovirikise omaisanekero uriri. Tjinda eyuva arihe komurungu poo kongotwe kutja ri yendere omuano womundu.
 
-| Time | What happens | Ideas | On a harder day |
+| Oruveze | Tji matji tjitwa | Omazuviro | Eyuva omazeu |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 omuhuka | Penduka, rikoha, zara | Ondyero imwe eyuva arihe; twa ozombanda mondyero mu maze zarewa | Susuparisa okuritjevera; ohema ombya ya yenene |
+| 8:45 omuhuka | Eriro romuhuka | Okofi nokuresa omambo wozombuze mokure, poo oradio | Rya pamwe momuṱima, nokuhinokupata |
+| 9:30 omuhuka | Otjiungura otjinene | Peta ozombanda, tereke, ungura motjikunino, kaenda ouṱiṱi poo nyanda | Omuisanene omusupi, poo mu ese me ku tarere tji mo tjiti |
+| 10:30 omuhuka | Oruveze rwokumwina | Omizumbi, embo rozovirangaranga, poo okukara popezu netendere | Suva motjipundi otjinanḓengu |
+| 11:00 omuhuka | Vatera neriro ryomutenya | Koha ovihape, ṱuna otjihande | Ove u tereke; eye u kara puna ove |
+| 12:00 omutenya | Eriro ryomutenya nokukoha | Koha otjihande, zeme oupaxa outiṱi | Yepa oviungura |
+| 1:00 omutenya | Okusuva ouṱiṱi | Yandja omarama, omizumbi omyangozu | Tjingero otjiṋa |
+| 2:00 omutenya | Pendje poo okunyanda | Kaenda, kara korupanda, tjatja ovihape, tono ombumba | Kara popezu netendere ndi ri nondjerera yomutenya |
+| 3:00 omutenya | Okukara novandu poo okutunga | Omuyenda, ongodi, [picture pairs](/games/picture-pairs/), okupenda, oukarata | Nwa nokurya pamwe |
+| 4:30 ongurova | Oruveze rwokumuna ombango | Pata ozonguviotjipiriko, yakisa ozonyone, otjiungura otjingozu tjimuna okupeta oupaxa | Omizumbi omizikwa, ombosiro oṱiṱi |
+| 5:30 ongurova | Eriro rongurova | Vatera okutjatja poo okuṱuna otjihande | Ovikurya oviṱiṱi, ovizikwa |
+| 6:30 ongurova | Ongurova pamwe | Zemburuka pamwe kombunda yeriro, oukarata, otjiraisiro otjinanḓengu, okupata omake | Okukara pamwe momuṱima |
+| 8:00 ongurova | Ondyero yokukarara | Koha poo rikoha, ozombanda zozomboto, omizumbi omyangozu, ozonyone oṱiṱi | Susuparisa oviṋa avihe; ombango rutenga |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Omuhunga mbwi u kongorera omuhunga wa Alzheimer’s Association komazeva omatenga nomapokati, mbu za kokuritjevera neriro romuhuka okuyenda koviungura vyonganda, okukaenda, omizumbi, okusuva nomayendere, nu okuyenda keriro rongurova, okuzemburuka nokurirongerera okukarara.
 
-## How do you build your own routine?
+## Mo tungu vi ondyero yoye oveni?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Uta nomuano omundu ma kara nao, ha netjangero. Alzheimer’s Association i tunduuza okuripura oviṋa mbi ngunda au hiya rongera:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Imbi mbi ma suvere, mbi ha suvere, omasa we nozonduma ze.**
+- **Eyuva eye ma ri ungurisa vi rukuru.** Omundu ngwaa penduka rukuru nu aa kaenda nombwa ye nga kayende rukuru nga nai. Omundu ngwaa suvera ouṱuku kamaa nyanda okutameka 8:00 omuhuka.
+- **Oruveze oruwa rweye meyuva.** Twa okukoha, omayendere notjiungura otjinene moruveze ndwo.
+- **Oruveze oruyenenisa** rwovikando vyokurya, okukohwa nokuzara, kutja ape ha kara otjiṋa tji matji tjitwa mohakahana.
+- **Oruveze tjingero otjiṋa rwokupenduka nokukarara.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Omburo imwe ndji i tunduuza okuhitisa oviungura vyonganda, ovikando vyokurya, okuritjevera, oviungura vyokutunga, okunyanda orutu, oruveze rwovandu, oviungura vyomerikotameneno nozongaro nḓe ya ozini, tjimuna epanga tji ra varura.
 
-### Try it for a week, then adjust
+### Rora otjivike tjimwe, nu u rundurure
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Tjanga okambo okaṱiṱi eyuva arihe. Alzheimer’s Association i tunduuza okupura kutja oviungura viṋe vya ungura nawa nongwaye, nokutja pa ri noruveze pu pa ri noviṋa ovingi poo oviṱiṱi, nokutja omahongononeno omahupu ya ri omanḓengu poo ya eta omaripura. Ṱiza imbi mbi ungura nu u rundurure imbi mbi hi nokuungura.
 
-### Make it visible
+### I tjita kutja i munike
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Indu omundu tji ma yenene okuresa, otjipirangi otjiyere poo okakarata nozomberero ozonene pu pa tjangwa ondunge yeyuva mavi yenene okuyandja ombango. I kara ouṱiṱi: “Eriro romuhuka. Kaenda na Sarah. Eriro ryomutenya. Suva.” Ovandu tjiva ve kara nawa tji ve hi nokutjiwa komeho orure; Family Caregiver Alliance i tunduuza okuhayandja ozondunge nga komurungu woruveze indu tji ze eta omaripura.
 
-## How to adapt the routine
+## Omuano wokurundurura ondyero
 
-### Leave room to breathe
+### Esa oruveze rwokusuvana
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+O zepa ominute azehe. Alzheimer’s Association i tja omundu ma hepa ombwa pokati koviungura nokusuva nu mape ya a hepa ozombimba ozongwe potuingi. Tji me munika wa urwa, wa pindisiwa poo wa pindikara, rundurura otjiungura poo suva.
 
-### Protect the late afternoon
+### Tjevera ongurova yokomurungu
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Ovandu ovengi ve uta okukara noupambu indu ondjerera yomutenya tji mai zu. NIA i tunduuza oruveze pendje poo popezu netendere okukara nondjerera yomutenya eyuva arihe, okunyanda eyuva arihe nokuhinokurongera ovingi, okuyepa okofi notjinu tjimwe tji tji penda ongurova, nokuyepa ozombimbo ozonde ongurova. Omazumo tjiva wina ye muna kutja okuvata ozonguviotjipiriko nokuyakisa ozonyone ngunda eṱuku ari hiye ya ku vatera. Tara [late-day restlessness](/caregiving/late-day-restlessness/) na [sleep](/brain-health/sleep/).
 
-### Change it as needs change
+### I rundurura indu ozohepero tji maze runduruka
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Eṱunḓu etenga:** rongera ondyero pamwe. Omundu mape ya a vanga ondunge ndja tjangwa ndji ma hongorere omuini.
+- **Eṱunḓu eropokati:** ove u hongorera tjinene. Oviungura ovisupi, okusuva okungwe noviungura ovingi ovizikwa; tara [middle-stage activities](/activities/middle-stage/).
+- **Eṱunḓu esenina:** ondyero i kamburira mombango, movikando vyokurya nomokuritjevera, nozongaro ozosupi nḓe ṱuna komazuviro tjimuna omizumbi poo okupata omake pokati; tara [late-stage activities](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Rundurura oviungura, ha omuhunga
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Ṱiza ovikando vyokurya, okusuva nokukarara vi ha runduruke, nu u tjindisa oviungura pokati. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i tunduuza okurora oviungura pekepeke momayuva pekepeke kutja oviṋa vi kare novinḓi. Mape ya o tereke mOmandaha, u ungura motjikunino mOritjavari nu u tare oviperendero mOritjatatu. Omazuviro wetu nge ri [101 activity ideas](/activities/ideas/) na [household tasks](/activities/household-tasks/) maye yenene okuzepa oruveze ndwo.
 
-## When the day goes sideways
+## Indu eyuva tji ri hi nokuyenda nawa
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Omayuva tjiva kamaaye kongorere ondunge ngamwa. Ouvera, ouṱuku ouvi, omayendere wonganga poo omarundurukiro wombepo mavi yenene okupukisa oviṋa avihe. Esa ondunge, ṱiza oviṋa ovinanḓengu (ovikurya, omeva, okusuva, ombango) nu u roro muhuka. Indu omundu tji ma panḓa otjiṋa, tara [when they say no](/caregiving/when-they-say-no/). Okusuva nokuhinga ombepo pamwe ouṱiṱi, tjimuna [calm breathing](/games/calm-breathing/), mape ya aku mu vatere amuyevari okuriyandja oruveze.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Ondyero yoye oveni wina ounanḓengu. Twa mo ozombimba zoye oveni, nu ningira eṱunḓu poo otjira tjokuvatere okutjita oruveze rwoye rwokusuva aruhe. Tara [caregiver self-care](/caregiving/caregiver-self-care/).

@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Naamne newiiɗe moƴƴe wonande mawɓe ngondi e ñawu majjere hakkille"
+seoTitle: "Naamne newiiɗe mawɓe, e jaabawuuji, tawa alaa tente"
+description: "Naamne newiiɗe 50 wonande mawɓe ngondi e ñawu majjere hakkille, e cuɓe jaabawuuji e ballal yeewtere, e no naamne ɗee mbaɗirtee tawa hay gooto mettataa."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Naamne newiiɗe ena moƴƴi wonande mawɓe ngondi e ñawu majjere hakkille so ɗe
+  mbaɗaama no yeewtere nii, wonaa no ƴeewndo. Naamno ko anndaa ko ɓooyii, wano
+  jimɗi ɓennuɗi, tinndi, jammaaji mawɗi e nguurndam ñalnde kala, tee hokkude
+  sahaa kala cuɓe ɗiɗi walla tati. Hokku jaabawol e newaare, hoto toɗɗin hay
+  gooto, accu limoore, tee huutoro jaabawol kala ngam fuɗɗude taali. Naamne
+  «ɗum walla ɗum» ɗe aldaa jaabawol moƴƴol ena moƴƴi e yeeso.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Naamno ko anndaa ko ɓooyii: jimɗi, tinndi, jammaaji mawɗi, ñaameteeji e nguurndam ñalnde kala gila duuɓi ɓennuɗi."
+  - "Hokku cuɓe ɗiɗi walla tati ngam jaabawol anditeede, wonaa yiɗde anndude ɗum e hoore mum."
+  - "Wowlude jaabawol e newaare, caggal ɗuum jokkude. Kala miijo fuɗɗinoowo taali ko miijo moƴƴo."
+  - "Alaa toɓɓe, alaa pelle dogooje, alaa noddude gooto tan. Jaabawuuji ena mbaawi iwdude e mo kala."
+  - "So suɓaade hakkunde jaabawuuji waɗii saɗtude, waylu naamne «ɗum walla ɗum» ɗe aldaa jaabawol feewɗo."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Naamne newiiɗe ena moƴƴi wonande yimɓe ngondi e ñawu majjere hakkille?"
+    a: "Ena mbaawi, so ɗe ɗowiraa e newaare. Alzheimer's Foundation of America limtii naamne newiiɗe hakkunde golle moƴƴuɗe wonande fuɗɗorde ñawu nguu. Reen naamne e dow ko anndaa ko ɓooyii, hokku cuɓe, hoto waɗ gooto yeeso yimɓe fof, tee jogor jaabawuuji no feere udditirde yeewtere, wonaa no ƴeewndo."
+  - q: "Hol e fannuji ɓurɗi moƴƴude e naamne newiiɗe wonande majjere hakkille?"
+    a: "Ko ekkaa ko ɓooyii ena ɓuri moƴƴude: jimɗi e yimɓe jimooɓe lolluɓe e sukaaku mo toppitɗaa oo, tinndi anndaaɗi, jammaaji mawɗi, ñaameteeji, fijirde, e nguurndam ñalnde kala wano kosam kesam e telefoŋ yiltotooɗo. Reeno kabaruuji kesi e kala huunde ɗaɓɓitnde siiftorde ko waɗi law e nder rogere ndee."
+  - q: "Hol no mbinndiran-mi naamne newiiɗe e suudu toppitagol tawa hay gooto hersataa?"
+    a: "Tar naamnal kala e dental ngal fof, hollu walla wowlu cuɓe ɗee, tee jaɓ jaabawuuji iwɗi e mo kala. Hoto noddu gooto gooto walla limtaa toɓɓe. Wowlu jaabawol e mooso kala ko miijaa, caggal ɗuum naamno ƴeewndo hono «Moy e mon yiɗnoo yahde sinimaa mooto?» ngam waylude ɗum e taali."
+  - q: "Hol ko mbaaw-mi waɗde kisa naamne newiiɗe e yeeso ñawu nguu?"
+    a: "Waylu naamne ɗe aldaa jaabawol feewɗo, wano «Kafe walla te?» walla «Weendu walla pelle?», walla timminde tinndi e jimɗi anndaaɗi e renndo. Ndaarde nate e siftaade ɗe e renndo ena moƴƴi kadi."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Naamne newiiɗe ko e golle ɓurɗe yiɗeede e pelle e cuuɗi toppitagol e eɓɓooje ñalnde, tee yoga e ɓesngu ena fijira ɗe e taabal defte kadi. So ɗe mbaɗiraa no woowiraa nii, e toɓɓe e gooto tan jaabotooɗo, ena mbaawi waɗde neɗɗo ngondoowo e ñawu majjere hakkille ena anndi omo waɗaa yeeso. So ɗe ɗowiraa e newaare, ko feere welnde heɗaade taali. Les ɗoo ena woodi naamne newiiɗe 50 e cuɓe jaabawuuji e huunde yeewteende e kala heen, caggal ɗuum no rogere ndee yuɓɓinirtee.
 
-## How do you make trivia work for someone with dementia?
+## Hol no naamne newiiɗe mbaawirta moƴƴude wonande neɗɗo ngondoowo e ñawu majjere hakkille?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Waɗ ɗum e anditde e siiftorde ko ɓooyii, tee waɗ jaabawol kala welcomaa.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Naamno ko ɓooyii.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) wii maalde ɓurnde heewde e fuɗɗorde ñawu Alzheimer ko saɗtude siiftorde humpito keso ekkaaɗo. Jimɗi, tinndi e nguurndam ñalnde kala gila duuɓi keewɗi ena keewi newaade.
+2. **Hokkude cuɓe sahaa kala.** Suɓaade jaabawol moƴƴol hakkunde ɗiɗi walla tati ena newi ɓurude yiɗde anndude ɗum e hoore mum.
+3. **Tar naamne ɗee e daande dow tee hollu ɗe mawɗe.** Alluwal mbinndingal walla alluwal taƴungal jogoraaɗo dow ena walla yimɓe ɓe nanaani no feewi.
+4. **Hokku jaabawol e newaare.** So hay gooto anndaa, wowlu ɗum e newaare caggal ɗuum jokku. Hoto wi'u «Aan aɗa anndi ɗum.»
+5. **Alaa limoore.** Wonaa wonande gooto gooto tee wonaa wonande taabe. So yimɓe ena mbiɗi limoore, mooftu limoore gootel wonande dental ngal fof.
+6. **Hoto noddu gooto tan.** Accu jaabawuuji iwa e mo kala. So ko gooto e gooto, jaabodee e renndo: «Miijo am ko pianoo. Aan hol ko miijɗaa?»
+7. **Huutoro yeewtere ndee.** Jaabawol ko fuɗɗorde tan, wonaa battane. Taali ko faandaare ndee.
+8. **Reen ɗum daɓɓere.** Naamne sappo e taali hakkunde mum ena yonata.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) hollirii sariya gadano oo e newaare: ƴeew so mettinde ena woodi tee teeŋtin neɗɗo oo ena anndi o waɗii no moƴƴi. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) limtii naamne newiiɗe hakkunde golle moƴƴuɗe wonande fuɗɗorde ñawu nguu. E hakkunde ñawu nguu, reen cuɓe ɗiɗi tan tee tuugnor e yeewtere. E yeeso, waylu naamne «ɗum walla ɗum» gonɗe les ɗoo.
 
-## Music and entertainment trivia
+## Naamne newiiɗe e jimɗi e fijwe
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Jaabawol ena e **ɓaleeri**. Peŋtor ɗe e mo toppitɗaa oo: mo mawni e Motown ena foti yiɗde yimɓe jimooɓe goɗɗe e mo mawni e pelle jimɗi mawɗe.
 
-| Question | Choices | Talk about |
+| Naamnal | Cuɓe | Yeewtere |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Moy noddiraa Laamɗo Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | A meeɗii yiyde Elvis e tele? |
+| Hol jimoowo inniraa Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Hol jimol Sinatra ɓurɗaa yiɗde? |
+| Bing Crosby hoydi e dow Christmas mboɗeeri... | **daneeji**, jombaaji, suudu | Jimdee seeɗa e renndo |
+| Louis Armstrong yimii «What a Wonderful...» | Ñalnde, **Aduna**, Nguurndam | Hol ko waɗata aduna oo moƴƴude e maa? |
+| «Over the Rainbow» yimiraa ko Judy Garland e hol fiilde? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Hol to njiy-ɗon fiildeeji ɓurɗon yiɗde? |
+| Moy fijnoo Lucy e «I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | Hol eɓɓooje ɓesngu mon ndaaratnoo e renndo? |
+| Hol kowboowo waɗi puccu inneteeɗo Trigger? | **Roy Rogers**, Gene Autry, John Wayne | A fijirnoo kowboowo so a sukaa? |
+| Moy ardinoo «The Tonight Show» haa duuɓi 30? | Ed Sullivan, **Johnny Carson**, Bob Hope | A fanjirnoo ngam ndaarde tele? |
+| Hol kaɓirɗe jogiiɗe kode 88? | Gitaar, **pianoo**, biipoŋ | Ena woodno goɗɗo e ɓesngu maa fijirde? |
+| Hol amde limtirtee go'o-ɗiɗi-tati, go'o-ɗiɗi-tati? | **Walsi**, twist, tango | Hol to njahno-ɗon ngam amde? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Ngam ɓeydaade humpito e jimɗi, ndaar [golle jimɗi wonande majjere hakkille](/activities/music/).
 
-## Everyday life trivia
+## Naamne newiiɗe e nguurndam ñalnde kala
 
-| Question | Choices | Talk about |
+| Naamnal | Cuɓe | Yeewtere |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Hade frigooji, cuuɗi keewɗi mooftirnoo ñaameteeji e... | **Aparaa peewniraaɗo**, defirde, gurel dow | Moy addatnoo peew? |
+| Moy addatnoo kosam e baafal dammbugal haa dambugal e looteeji jalbe? | Nelduɗo ɓatakuuje, **kosamoojo**, yeeyoowo jaaynde | Hol ko goɗɗo addanoo haa suudu? |
+| Hol no mbinndiraa telefoŋ yiltotooɗo? | Ɓiɗɗude butoŋaaji, **yiltude weelo**, wowlude tan | Haalan am e telefoŋ wonnooɗo e suudu mon |
+| Hol sosiyetee waɗi oto Model T? | **Ford**, Chevrolet, Buick | Haalan am e oto mo yiɗ-ɗaa |
+| Hol to tawi «soda jerk»? | **Nokku yeeyirde njaram soda**, nokku defirde bureedi, banki | Hol ko coodanno-ɗaa toon? |
+| Hol fijirgel ko pergitte njamndi waawngel yahde e dow deƴƴere? | Yo-yo, **Slinky**, hula hoop | Hol fijirɗe yiɗ-ɗaa? |
+| «Drive-in» ko nokku ndaarde... | **Fiilde e nder oto maa**, fijirɗe bal, lappooje | Moy wonnoo-ɗaa e mum? |
+| Moy jooɗii e dolaar gooto? | Lincoln, **George Washington**, Jefferson | Hol ko dolaar soodatnoo e sahaa woodi? |
+| Moy jooɗii e «penny»? | **Abraham Lincoln**, Washington, Franklin | A mooftatnoo «penny» e lootel e sahaa woodi? |
+| Hol noole bisi diiwanuuji keewi wonirde? | Boɗeejum, **oolum**, bulejum | Hol no njahno-ɗaa duɗal? |
 
-## Holidays, nature and places
+## Jammaaji mawɗi, tago e nokkuuji
 
-| Question | Choices | Talk about |
+| Naamnal | Cuɓe | Yeewtere |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Hol jamma mawɗo woni e alkamisa nayaɓo lewru noowammbar? | Labor Day, **Thanksgiving**, Memorial Day | Hol ko wonnoo sahaa kala e taabal mon? |
+| Ɗanɗe labe «jack-o'-lantern» ena mbaɗiree hol jamma mawɗo? | **Halloween**, Easter, Christmas | Haalan am e Halloween nokku ɗo mawnu-ɗaa |
+| 4 lewru sulyee ena maandina Feere Tiimdeendi... | Hakkeeji, **Hoore Mum**, Wellitaare | Hol to ndaarno-ɗon fitiraaji? |
+| Ñalnde Nelaaɓe ena e hol lewru? | Awril, **Mee**, Suwiyee | Hol no ɓesngu mon maandinatnoo? |
+| Koode hombo ena e anndinoore Amerik? | 48, **50**, 52 | Anndinoore ndee joginoo koode 48 haa 1959. Kala jaabawol ena siiftina taali moƴƴo |
+| Hol maayo maayo woni e funnaange rewo Amerik? | Pasifik, **Atlantik**, Artik | A meeɗii yahde weendu? |
+| E hol saare Natal Hooƴre Liberté woni? | Boston, **New York**, Philadelphia | A meeɗii yahde New York? |
+| Hol ko njukkiri mbaɗata? | Kosam, **njumri**, leɗɗe harir | Njumri e bureedi walla e te? |
+| ɓiɓɓe nagge noddirtee ko... | ɓiɓɓe puccu, **ña'al**, ɓiɓɓe mbeewa | A meeɗii wondude sara nokku ngesa? |
+| Hol piindi toowndi oolndi lollundi e yiltorde naange? | Roos, **hiirde naange**, tulip | Hol ko ƴaƴnoo e ngesa mon? |
+| Ñalɗi hombo ena e hitaande besɗunde? | 365, **366**, 360 | Haalan am e mawlanaande nde ciftu-ɗaa |
+| Hol ndungu arata caggal dabbunde? | Yoontere, **ceeɗu**, ndungu | Hol ndungu ɓurɗaa yiɗde? |
 
-## Food and sports trivia
+## Naamne newiiɗe e ñaameteeji e fijirde
 
-| Question | Choices | Talk about |
+| Naamnal | Cuɓe | Yeewtere |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| «Raisins» ko ɓiɓɓe leɗɗe... | «Plums», **ɓiɓɓe inab**, sereez | A naatnatnoo «raisins» e ñaameteeji duɗal? |
+| «Prunes» ko ɓiɓɓe leɗɗe... | **«Plums»**, «figs», pomme | Moy e ɓesngu mon yiɗnoo «prunes»? |
+| Beter gerte e... | **jelee**, foromaje, teewu | Saccuɗo walla newiiɗo? |
+| «Guacamole» ɓuri waɗireede ko... | Pisaa, **abokaa**, konkommbre | Hol ko ɓeydanoo e ñaameteeji e jammaaji? |
+| Hol tarta ɓurnde yiɗeede e Thanksgiving? | **Labe**, lemuŋ, sereez | Hol tarta defanno-ɗaa? |
+| Fijooɓe hombo pelle balbees jogii e weeyo? | 7, **9**, 11 | Hol pelle wallitanno-ɗaa? |
+| «Strikes» hombo waɗata «out» e balbees? | Ɗiɗi, **tati**, nayi | A meeɗii fijirde bal? |
+| Babe Ruth lollirnoo hol fijirde? | Doɓɓitannde, **balbees**, golf | A meeɗii yahde fijirde bal? |
+| Galli hombo ena e weeyo golf goowo? | 9, **18**, 24 | A meeɗii fijirde golf, walla mini golf? |
+| E hol fijirde keɓirtee «touchdown»? | **Futbal amerik**, hokke, baasket | Moy ndaaratnoo futbal amerik e suudu mon? |
 
-## Familiar sayings
+## Tinndi anndaaɗi
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Timminde tinndol ena huutora ɗemngal ekkaaɗangal ko ɓooyii tee ena keewi newaade. Fijirde amen [Timminde tinndol](/games/finish-the-saying/) ena jogii goɗɗi keewɗi, e tappugol ngam hollude kala battane.
 
-| Saying | Choices | Talk about |
+| Tinndol | Cuɓe | Yeewtere |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Pomme gooto ñalnde kala ena woɗɗina... | **Doktoor**, ndiyam tooɓo, musuru | Moy wi'atnoo-maa ɗum? |
+| Sondu fuɗɗoowo ena heɓa... | Bisi, **gilaŋgu**, laana | Ko aan fuɗɗoowo e weetndo? |
+| Hoto lim gertuɗe maa hade ɗe... | **Fuccitaade**, ɗaanagol, yimde | Ɓesngu mon marnoo gertuɗe? |
+| «Penny» mooftaaɗo ko «penny»... | **keɓaaɗo**, majjaaɗo, bonnaaɗo | Moy mooftatnoo ɓuri e ɓesngu mon? |
+| Ko suudu woni ko... | Ngesa woni, **ɓernde woni**, defirde woni | Hol ko waɗata nokku ena wa'i ko suudu? |
+| Ena ɓuri moƴƴude habrude e... | Laawol, **hay sahaa**, gaaƴaade | Moy habratnoo sahaa kala? |
+| Kala duule ena jogii... | **waalde ndi wutte**, layru, mbuudu | Haalan am e jawdi nde heɓ-ɗaa |
+| Golle ena ɓuri daande e... | **Konngol**, jimol, hito | Haalan am e neɗɗo wi'unooɗo ɗum |
 
-## This-or-that questions with no wrong answer
+## Naamne «ɗum walla ɗum» ɗe aldaa jaabawol feewɗo
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Ɗee ena moƴƴi e kala sahaa ñawu nguu, haa e yeeso, sabu alaa ko feewrete. Naamno, heɗo, tee wowlude jaabawol maa kadi.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kafe walla te?
+- Weendu walla pelle?
+- Bareeji walla muusuuji?
+- Ndungu walla dabbunde?
+- Tarta walla kekke?
+- Amde walla ndaarde?
+- Fuɗnaange walla hirnaange?
+- Naatirgel yeeso walla ɓaade caggal?
+- Rajo walla «records»?
+- Pankeyk walla boɗɗe?
+- Roos walla margariit?
+- Yah-ngartaa laana walla yah-ngartaa oto?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Ngam naamne yeewtere gonɗe e nate, eto karte amen binndittooɗe [Karte yeewtere](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Hol no rogere naamne newiiɗe yuɓɓinirtee e suudu toppitagol walla e dental?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Jooɗnin yimɓe haa ɓe mbaawa yiyde e nanaade.** Kaɓirɗe nanaago e nokku mum, lunetteeji e gite, tele ñifaa.
+2. **Fuɗɗor ɗum no yeewtere.** «Mi jogii naamne seeɗa e jammaaji ɓennuɗi, tee miɗo sikki onon eɗon anndi ɓurde kam.»
+3. **Tar naamnal kala laabi ɗiɗi tee hollu cuɓe ɗee mawɗe.**
+4. **Jaɓ jaabawuuji iwɗi e nokku kala e nder suudu nduu.** Fillito jaabawuuji moƴƴi haa mo kala nana.
+5. **Wowlu jaabawol wonande fof,** caggal ɗuum naamno yeewtere ndee e dental ngal.
+6. **Rew e semmbe ngal.** So naamnal gootal fuɗɗinii taali hojomaaji sappo, accu ɗum.
+7. **Gasnir e jimol walla rogere «ɗum walla ɗum»,** haa mo kala timmina e huunde newnde.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Ngam feere pelle goɗɗe, hakkunde mum en bingo nate e jimɗi renndo, ndaar [golle pelle wonande cuuɗi toppitagol](/activities/care-home-groups/).
 
-## When to change the plan
+## Hol ndeen potiɗaa waylude eɓɓoore ndee
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+So neɗɗo ena wayi no mettiiɗo, o deƴƴii walla o wii «Mi anndaa» laabi keewɗi, waɗ ɗum newde: jippin cuɓe ɗiɗi tan, jaabodee e renndo, walla waylu naamne «ɗum walla ɗum». So dental ngal ena yiɗi yeewtaade naamnal gootal e nder ñalawma fof, ɗuum ko moƴƴere. Faandaare ndee wonaano jaabawuuji feewɗi. Ko sahaa moƴƴo e wondude e woɗɓe.

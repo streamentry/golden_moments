@@ -1,33 +1,34 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND және Жерорта теңізі диеталары: зерттеулер не айтады"
+seoTitle: "MIND диетасы және деменция: зерттеулер не айтады"
+description: "MIND және Жерорта теңізі диеталары туралы зерттеулер, 2023 жылғы сынақ не көрсетті және деменциямен өмір сүріп жатқан адамға жақсы тамақтануға қалай көмектесуге болады."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Адамдарды ұзақ уақыт бақылаған кейбір зерттеулер Жерорта теңізі үлгісіндегі
+  және MIND диеталарын деменция қаупінің төмендеуімен байланыстырады, бірақ бұл
+  әрдайым растала бермейді. 2023 жылы жарияланған MIND диетасы бойынша үш
+  жылдық рандомизацияланған сынақ ойлау қабілеті немесе мидың суреттері бойынша
+  бақылау тобының диетасымен салыстырғанда айқын айырмашылық таппады. Деменцияның
+  алдын алатыны дәлелденген тағам немесе қоспа жоқ. Деменциямен өмір сүріп
+  жатқан адамдар үшін ең маңыздысы — жеткілікті тамақтанып, су ішу.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Адамдарды уақыт өте келе бақылаған кейбір, бірақ барлық емес, зерттеулер Жерорта теңізі және MIND тамақтану үлгілерін деменция қаупінің төмендеуімен байланыстырады."
+  - "2023 жылғы 604 егде адам қатысқан сынақта MIND диетасын ұстанғандар үш жылдан кейін ойлау тесттері мен мидың суреттері бойынша бақылау диетасын ұстанғандардан жақсы нәтиже көрсетпеді."
+  - "Ұлттық қартаю институты Альцгеймер ауруының алдын алатыны белгілі бір тағамды жеу немесе одан бас тарту арқылы дәлелденбегенін, сондай-ақ оны болдырмайтыны дәлелденген дәрумен немесе қоспа жоқ екенін айтады."
+  - "Көкөністерге, жемістерге, бұршақ тұқымдастарына, тұтас дәнді өнімдерге және балыққа бай диета жүрек денсаулығын қолдайды және жоғары қан қысымы мен қант диабеті сияқты қауіп факторларына көмектесуі мүмкін."
+  - "Деменциямен өмір сүріп жатқан адамдар үшін қолмен жеуге ыңғайлы тағамдар, түсі ерекшеленетін ыдыстар, тыныш тамақтану уақыты және үнемі сусын ұсыну көбіне белгілі бір диетадан маңыздырақ болады."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "MIND диетасы деменцияның алдын ала ма?"
+    a: "Бұл дәлелденбеген. Бақылау зерттеулері MIND диетасын төмен қауіппен байланыстырған, бірақ 2023 жылы жарияланған үш жылдық рандомизацияланған сынақ MIND диетасын ұстанғандар мен бақылау диетасын ұстанғандар арасында ойлау тестілерінің нәтижелері немесе мидың суреттері бойынша айтарлықтай айырмашылық таппады. Екі топта да нәтижелер сәл жақсарды және салмақтары шамамен бірдей төмендеді."
+  - q: "MIND диетасы мен Жерорта теңізі диетасының айырмашылығы неде?"
+    a: "Жерорта теңізі диетасында көкөністерге, жемістерге, тұтас дәнді өнімдерге, бұршақ тұқымдастарына, балыққа және зәйтүн майына басымдық беріледі, ал қызыл ет пен тәттілер аз болады. MIND диетасы оны қан қысымына арналған DASH диетасымен үйлестіріп, жасыл жапырақты көкөністер мен жидектерге ерекше назар аударады, сонымен қатар қызыл етті, тәттілерді, ірімшікті, сары майды және қуырылған тағамды шектейді."
+  - q: "Альцгеймер ауруының алдын алатын тағамдар немесе қоспалар бар ма?"
+    a: "Жоқ. Ұлттық қартаю институты белгілі бір тағамды жеу немесе одан бас тарту Альцгеймер ауруының немесе жасқа байланысты танымдық өзгерістердің алдын алатыны туралы дәлел жоқ екенін, сондай-ақ Альцгеймер ауруының алдын алатыны дәлелденген дәрумен немесе қоспа жоқ екенін айтады. Қоспаларды қабылдамас бұрын дәрігермен кеңесіңіз."
+  - q: "Деменциясы бар адамға қандай тағамдарды жеу оңайырақ?"
+    a: "Сэндвич бөлшектері, тауық еті, мандарин немесе апельсин тілімдері, буға пісірілген көкөніс бөлшектері сияқты бір ұрттам қолмен жеуге ыңғайлы тағамдар көбіне асханалық құралдарды пайдаланудан оңай болады. Шайнау немесе жұту қиын болса, жұмыртқа ботқасы, алма езбесі немесе сүзбе сияқты жұмсақ тағамдар көмектесуі мүмкін. Егер жөтелу немесе тұншығу болса, дәрігерден жұтуды тексеруді сұраңыз."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +59,90 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Сіз «миға пайдалы» диета Альцгеймер ауруынан қорғайды дегенді оқыған болуыңыз мүмкін. Шын мәнінде жағдай онша қарапайым емес. Адамдарды ұзақ уақыт бақылаған кейбір зерттеулер белгілі бір тамақтану үлгілерін төмен қауіппен байланыстырады, бірақ осы уақытқа дейінгі ең сапалы сынақ айқын пайда таппады. Бұл бетте екі жақ та түсіндіріліп, содан кейін деменциямен өмір сүріп жатқан адам үшін әдетте не маңыздырақ екеніне тоқталады: жеткілікті тамақтанып, су ішу және тамақтанудан ләззат алу.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Бұл — жалпы ақпарат, медициналық кеңес емес. Өзіңіздің немесе басқа біреудің диетасын өзгертпес бұрын дәрігермен немесе тіркелген диетологпен кеңесіңіз. Біздің [медициналық жауапкершіліктен бас тарту](/medical-disclaimer/) бетімізді қараңыз.
 
-## What are the Mediterranean and MIND diets?
+## Жерорта теңізі және MIND диеталары деген не?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+Ұлттық қартаю институты (NIA) оларды былай сипаттайды
+([NIA: диета және Альцгеймер ауруы туралы](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Жерорта теңізі диетасы:** жемістер, көкөністер, тұтас дәнді өнімдер, бұршақ тұқымдастары, балық пен теңіз өнімдері және зәйтүн майы көп, ал қызыл ет, жұмыртқа мен тәттілер аз.
+- **MIND диетасы** (Mediterranean–DASH Intervention for Neurodegenerative Delay): Жерорта теңізі диетасы мен қан қысымына арналған DASH диетасының үйлесімі. Онда көкөністерге, әсіресе жасыл жапырақты түрлеріне; жидектерге; тұтас дәнді өнімдерге; бұршақ тұқымдастарына; жаңғақтарға; аптасына кемінде бір рет балыққа және зәйтүн майына басымдық беріледі. Қызыл ет, тәттілер, ірімшік, сары май немесе маргарин, сондай-ақ қуырылған немесе фастфуд тағамдары шектеледі.
 
-## Do these diets lower dementia risk?
+## Бұл диеталар деменция қаупін төмендете ме?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Дәлелдер әртүрлі. NIA кейбір, бірақ барлық емес, бақылау зерттеулері Жерорта теңізі және MIND диеталарын қызыл ет, қаныққан май және қант көп батыстық үлгідегі диетамен салыстырғанда деменция қаупінің төмендеуімен байланыстырғанын айтады.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024 жылғы The Lancet комиссиясы зерттеулерді егжей-тегжейлі қарастырды
+([Lancet комиссиясы](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Когорттық зерттеулерді шолу жоғары сапалы диетаны деменция қаупінің шамамен 20% төмендеуімен байланыстырды.
+- Үш когортқа негізделген үлкенірек талдау MIND диетасын неғұрлым жақсы ұстануды төмен қауіппен байланыстырды.
+- Бірақ 28 025 орта жастағы адамды шамамен 20 жыл бақылаған Швеция зерттеуі ұсынылған диеталарды да, Жерорта теңізі үлгісіндегі диетаны да ұстану қауптің төмендеуімен байланысты емес екенін көрсетті.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Бақылау зерттеулері себеп-салдар байланысын дәлелдей алмайды. Осылай тамақтанатын адамдардың табысы, білімі, қозғалыс белсенділігі және медициналық көмекке қолжетімділігі сияқты басқа жағынан да айырмашылықтары болуы мүмкін. Комиссия пайдалы диеталар деменцияның тікелей алдын алады деп айтуға дәлел жеткіліксіз деген қорытындыға келді. Дегенмен жемістер мен көкөністерді көбірек, ал аса өңделген тағамдарды азырақ жеу көптеген жағдайлар үшін пайдалы және семіздік, қант диабеті мен жоғары қан қысымы сияқты қауіп факторларына әсер етеді. Комиссия диетаны өз тізіміне енгізбеді [қауіп факторларының 14 тізіміне](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## 2023 жылғы MIND диетасы сынағы не көрсетті?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Осы уақытқа дейінгі ең сапалы сынақ 2023 жылы New England Journal of Medicine журналында жарияланған рандомизацияланған зерттеу болды
+([MIND диетасы сынағы](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Кім қатысты:** Чикаго мен Бостон аймағынан 65 жастан асқан 604 ересек адам. Олардың ойлау қабілетінде бұзылыс болмаған, туыстарының арасында деменциясы бар адам болған, артық салмағы болған және бастапқыда тамақтану әдеттері онша пайдалы болмаған.
+- **Не жасалды:** үш жыл бойы қатысушылардың жартысы MIND диетасын ұстанды, ал жартысы әдеттегідей тамақтанды. Екі топтан да күнделікті шамамен 250 калорияға аз жеу сұралды және екеуі де тіркелген диетологтардан үнемі кеңес алып отырды.
+- **Нәтиже:** ойлау тестілерінің нәтижелері **екі** топта да сәл жақсарды. Топтар арасындағы айырмашылық аз болды және **статистикалық тұрғыдан маңызды емес** деп танылды. Мидың суреттері де екі топта ұқсас өзгерістер көрсетті.
+- **Салмақ:** екі топта да шамамен 5 килограмм (шамамен 11 фунт) салмақ төмендеді.
 
-### Why might the trial have found no difference?
+### Неліктен сынақта айырмашылық байқалмаған болуы мүмкін?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Зерттеушілер бірнеше себеп ұсынды. Бақылау тобы да диетасын жақсартқан болуы мүмкін, өйткені олардың салмағы да шамамен сонша төмендеді. Тесттерді бірнеше рет тапсыру адамның тестілеуге үйренуіне байланысты нәтижені өздігінен жақсарта алады. Үш жыл тым қысқа мерзім болуы мүмкін. Қатысушылардың көпшілігі жоғары білімді және еуропалық тектес болғандықтан, нәтижелер барлығына бірдей қатысты болмауы мүмкін.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Яғни, шынайы қорытынды мынау: үш жыл ішінде MIND диетасы калориясы азайтылған қарапайым диетадан артықшылығы бар екенін көрсетпеді. Бұл пайдалы тамақтанудың мағынасы жоқ деген сөз емес. Бұл белгілі бір диета деменцияның алдын алады деп күтпеу керектігін білдіреді.
 
-## What about specific foods and supplements?
+## Ал нақты тағамдар мен қоспалар ше?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA белгілі бір тағамды жеу немесе одан бас тарту Альцгеймер ауруының немесе жасқа байланысты танымдық өзгерістердің алдын алатыны туралы дәлел жоқ екенін айтады. Көкжидек, жапырақты көкөністер және куркума зерттелген, бірақ дәлел табылмаған. NIA сондай-ақ Альцгеймер ауруының алдын алатыны дәлелденген ешқандай дәрумен немесе қоспа жоқ екенін және олар бұл мақсатта ұсынылмайтынын айтады. NIA Альцгеймер ауруының алдын алады деп сатылатын дәлелденбеген өнімдер қауіпті болуы, ақшаны босқа жұмсауға әкелуі немесе екеуі де болуы мүмкін екенін, сондай-ақ дәрігер жазған дәрілерге кедергі келтіруі мүмкін екенін ескертеді. Сондықтан кез келгенін қолданып көру алдында дәрігермен кеңесіңіз
+([NIA: Альцгеймер ауруының алдын алу туралы](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Тамақтану пайдалы әрі жағымды болуы үшін не істеуге болады?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Көптеген егде адамдар үшін мақсат — қатаң жоспар емес, нәрлі, таныс және жағымды тағам:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Тамақты Жерорта теңізі үлгісіндегі өзіңізге ұнайтын тағамдардан құрастырыңыз:** көкөністер, жемістер, бұршақ тұқымдастары, тұтас дәнді өнімдер, балық және зәйтүн майы.
+- **Сүйікті тәттілеріңізден бас тартпаңыз.** Әсіресе кейінгі жаста ләззат алу мен тәбеттің маңызы бар.
+- **Мүмкіндік болса, басқалармен бірге тамақтаныңыз.** Бірге тамақтану — жақсы қарым-қатынас.
+- **Бірге тамақ дайындаңыз.** Көкөніс жуу немесе тамақты араластыру — бірге істеуге жақсы іс; [үй шаруасындағы істер](/activities/household-tasks/) бетін қараңыз. Сүйікті отбасылық рецепт [естеліктерді бөлісуге](/activities/reminiscence/) де түрткі болуы мүмкін.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Егде адамдар дәрігермен ақылдаспай калорияны азайтпауы немесе салмақ тастамауы керек, ал ораза ұстаудың қосымша қауіптері бар. Біздің [ораза туралы нұсқаулықты](/brain-health/fasting/) қараңыз.
 
-## How can you help someone with dementia eat well?
+## Деменциясы бар адамға жақсы тамақтануға қалай көмектесуге болады?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Деменциямен өмір сүріп жатқан адамдар үшін әдетте ең басты мәселе — **жеткілікті** тамақтанып, су ішу. Alzheimer’s Association адамның тамақтануды ұмытып кетуі, әлдеқашан тамақтанып қойғанын ойлауы немесе таңдау көп болғанда абдырап қалуы мүмкін екенін, ал жеткіліксіз тамақтану мінез-құлық белгілерін күшейтуі және салмақ жоғалтуға әкелуі мүмкін екенін айтады
+([Alzheimer’s Association: тамақ және тамақтану туралы](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Төмендегі ұсыныстар Alzheimer’s Association, NIA және Alzheimer’s Society материалдарына негізделген:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Қолмен жеуге ыңғайлы тағамдар ұсыныңыз.** Сэндвич бөлшектері, тауық еті, балық таяқшалары, мандарин немесе апельсин тілімдері, буға пісірілген брокколи сияқты ұстап жеуге оңай кішкене бөліктер адамның асханалық құралсыз өздігінен тамақтануына көмектеседі.
+2. **Үстелде түс айырмашылығын пайдаланыңыз.** Көру қабілетінің өзгеруі тағамды табақтан ажыратуды қиындатуы мүмкін. Ақ табақтарды немесе тостағандарды түсі ерекшеленетін төсеніштің үстіне қою көмектесуі мүмкін. Өрнекті ыдыстар мен дастархандардан аулақ болыңыз.
+3. **Бір мезгілде бір немесе екі тағам ұсыныңыз.** Толы табақ адамды абдыратуы мүмкін.
+4. **Тамақтану уақытын тыныш ұстаңыз.** Теледидарды өшіріңіз, үстелді қарапайым етіп қойыңыз және жеткілікті уақыт беріңіз. NIA асықтырмауды немесе қысым жасамауды ұсынады.
+5. **Кішкене тамақ пен жеңіл тағамдарды жиі ұсыныңыз.** Егер адам жеткілікті тамақтанбаса, NIA жиірек, бірақ аз мөлшерде тамақ беруді және калориясы жоғары жеңіл тағамдарды ұсынуды айтады
+   ([NIA: жақсы тамақтануға көмектесу туралы кеңестер](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Сұйықтық ішуге көмектесіңіз.** Күні бойы су немесе басқа сусындарды кішкене кеселермен ұсыныңыз, сонымен қатар жеміс, сорпа, милкшейк және смузи сияқты құрамында суы көп тағамдарды беріңіз. Егер адам су ішкісі келмесе, NIA шырын, хош иісті су, сорпа, сүт немесе кофеинсіз кофе не шай ұсынуды айтады.
+7. **Температурасын тексеріңіз.** Адам тағамның немесе сусынның тым ыстық екенін байқамауы мүмкін.
+8. **Ыдыс-аяқ пен кеселерді ыңғайлы етіңіз.** Табақтың орнына тостаған, сабы үлкен қасықтар және қақпағы бар кеселер тамақтануды жеңілдетуі мүмкін. Ұқыптылық туралы алаңдамаңыз.
+9. **Тағамды шайнау мен жұтуды жеңілдетіңіз.** Тағамды кішкене бөліктерге кесіңіз немесе жұмсақ тағамдар ұсыныңыз. Егер адам тамақтану кезінде жөтелсе немесе тұншығатын болса, дәрігеріне айтыңыз.
+10. **Зорлап тамақтандырмаңыз.** NIA Альцгеймер ауруының кейінгі кезеңдерінде тәбеттің табиғи түрде төмендеуі мүмкін екенін айтады.
 
-### Signs to tell the doctor about
+### Дәрігерге айту керек белгілер
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Салмақ жоғалту, тамақтанудан бас тарту, шаршау немесе әлсіздік адамның жеткілікті тамақтанбай жатқанын көрсетуі мүмкін. Alzheimer’s Society тіс немесе тіс протезінің ауыруы, депрессия, іш қату және дәрі-дәрмектегі өзгерістер тәбетті төмендетуі мүмкін екенін айтады
+([Alzheimer’s Society: тәбет туралы](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+NIA сусыздану белгілеріне ауыз құрғауы, бас айналу, жүрек соғысының жиілеуі және галлюцинацияларды жатқызады
+([NIA: жиі кездесетін медициналық мәселелер туралы](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Дәрігермен кеңесіңіз
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Өзіңіздің немесе басқа біреудің диетасына үлкен өзгерістер енгізбес бұрын, әсіресе қант диабеті, бүйрек ауруы, жұту қиындықтары немесе жақында салмақ жоғалту болса, дәрігермен немесе тіркелген диетологпен кеңесіңіз. Деменциямен өмір сүріп жатқан адам үшін оған күніне қанша тамақтанып, сұйықтық ішу керек екенін және диетологтың немесе қоспалардың көмегі қажет пе екенін сұраңыз.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Егер біреу тұншығып қалса немесе кенет абдырап, қатты басы айналып, есінен танып қалса, дереу көмекке жүгініңіз.

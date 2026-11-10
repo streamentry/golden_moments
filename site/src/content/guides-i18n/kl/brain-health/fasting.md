@@ -1,33 +1,36 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Iisinngikkaangat nerineq dementiaalu: Paasisat"
+seoTitle: "Iisinngikkaangat nerineq dementiaalu: Paasisat"
+description: "Inunnik misissuinermi paasisaq iisinngikkaangat nerineqarneq dementiaalu ataqatigiinnerannut amigaateqarpoq. Inuppassuarnik ulorianartoq paasisinnaavat."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Paasisat pitsaatitsisut ilisimanngillat iisinngikkaangat nerineqarneq
+  dementiamik pinaveersaartitsisinnaasoq imaluunniit kingusinnerusortitsisinnaasoq.
+  Misissueqqissaatit amerlasuut uumasuini ingerlapput, inuppassuinillu
+  misissuinermi amerlassusaat naappallaarmata sivisussusaatillu amigaateqarmat.
+  Inuppassuit iisinngikkaangat nerinerannik ulorianartunik kinguneqartarsinnaavoq:
+  oqimaassutsimik nukinginnillu annaasaq, sukkunummik diabeticimik nakorsaateqartunut
+  aakkiinik atuisunut, imeqqullarneq, nakkarneqataalluni. Dementiaqarnut
+  amerlanertigut pingaaruteqarnerusumik nerisimanerup imerusimanerullu qulakkeerneq
+  pisariaqarpoq. Nakorsaq siullermik apeqqutigissaaruk.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging oqaatigaa iisinngikkaangat nerineq imaluunniit nerisassanik killilersuinermi paasisaq naammattoqanngitsoq, inuppassuarnut immikkut ilitsersuutigiuminarnissaq inerteqqutaasoq."
+  - "Iisinngikkaangat nerinerup utoqqalinermullu misissueqqissatitaasa amerlassusaat uumasuinit ingerlarput, inernili paasisat taakkua inuit sunniuteqarsinnaanngimmata."
+  - "Inuppassuarnut ulorianartut pisinnaasut tassaapput: oqimaassutsimik nukinginnillu annaasaq qorsuuteqanngitsoq, sukkunummik nakassaaneq diabeticimik nakorsaateqartunut aakkiinik atuisunut, imeqqullarneq, qasulluunneq nakkarnerlu."
+  - "Dementiaqartut amerlasuut nerinermik imernermilluunniit puiorsinnaavaat, imaluunniit nerereersimallutik isumaqaratik. Nerisimanerannik imerusimanerannillu ikiorneq amerlanertigut pingaaruteqarnerujussuuvoq qanga nerinerat."
+  - "Inuk dementiaqartoq iisinngikkaangat nerisissanngilat. Nakorsaq imaluunniit nerisassanik ilisimasaq apeqqutigisarlugu nerineq allanngortinneqartinnagu."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Iisinngikkaangat nerineq Alzheimerimik pinaveersaartitsisinnaava?"
+    a: "Taamaattumik paasisaq pitsaatitsoq soqanngilaq. Misissueqqissaatit amerlasuut uumasuini ingerlapput, inunnillu misissuinerit amerlanertigut sivisuunngillat, inuusuttunilluunniit oqimaassuteqarluartunilluunniit ingerlanneqartarlutik, oqimaassutsimik annikillisaanermullu sammisillutik. National Institute on Aging oqarpoq iisinngikkaangat nerinermi paasisaq naammattoqanngitsoq inunnut ilitsersuutigiuminarnissaq."
+  - q: "Inuppassuarnut iisinngikkaangat nerineq navianartoqannginnerpa?"
+    a: "Taamaassinnaanngilaq. Iisinngikkaangat nerineq oqimaassutsimik nukinginnillu annaasaaneranik, imeqqullarneranik, qasulluuneranik nakkarneranillu kinguneqartarsinnaavoq, aammalu sukkunummik aavartumik nakassaanermik insulini imaluunniit diabetesimik nakorsaateqartunut aakkiinik allanik atuisunut. Mayo Clinic oqarpoq saunik annikillisaanermut nakkarnermullu ulorianartunik navianartoqarsinnaassasoq. Nakorsaq apeqqutigisarlugu misileriaruk."
+  - q: "Inuk dementiaqartoq iisinngikkaangat nerisitsisoqarsinnaavoq?"
+    a: "Naamik. Dementiaqartut amerlasuut nerinermik imernermillu naammattunik pissarsisinnaajunnaartarput, nerisassaqarluarnertaqanngitsorlu pissutsit ilorraapiloorsinnaavai oqimaassutsimillu annaasitsilluni. Iisinngikkaangat nerineq ulorianartunik kinguneqartarsinnaavoq iluaqutaqarani taamaallaat. Taamaattorli nerinissat naliginnaasut, nerisassat asasut, imernartullu amerlavallaarneq pingaartinneqassapput."
+  - q: "Suna takuneqarsinnaavoq inuk dementiaqartoq naammattunik nerinngippat imerngippalluunniit?"
+    a: "Maluginiaruk: oqimaassutsimik annaasaq, atisat ammarnerulersut, qasussuseq, nukinginnerusarneq, anaanaveersaaneq, nerinermilluunniit itigartinneq. Imeqqullarnerup nalunaaqutai National Institute on Aging-imi allassimapput tassaasut: kanik paatsoq, qasulluunneq, uumma titarneruluttoq, takorluuilussaarnerlu. Tamanna ilillugu takugukku nakorsaq nalunaarfigiuk."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +58,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Iisinngikkaangat nerineq, soorlu ullup iluani nalunaaquttap arfineq-pingasunik annertussusilimmi nerineq imaluunniit sapaatip-akunnerani ulluni marlunni nerisassanik annikillisarneq, amerlasuunut soqutigisaasarpoq. Allat allaaserisaanni taarserneqartarpoq qaratsamik illersorsinnaasoq. Inuppassuuguit imaluunniit inuk dementiaqartoq isumagigukku, misissueqqissaatit sunik takutippaat, sooq mianersortariaqartoq, matumani nassaarisinnaavat.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Tamanna paasissutissat nalinginnaasutut ingerlatuuvoq, nakorsamit siunnersuutinngilaq. Iisinngikkaangat nerineq aallartitsinngilat, imaluunniit inuk isumagisat nerineranik allanngortitassanngilat, nakorsaq imaluunniit nerisassanik ilisimasaq apeqqutigissanngikkukku. [Nakorsamit nalunaarut](/medical-disclaimer/) takuuk.
 
-## Does intermittent fasting prevent dementia?
+## Iisinngikkaangat nerineq dementiamik pinaveersaartitsisinnaava?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Paasisat pitsaatitsisut soqanngilaq iisinngikkaangat nerineq dementiamik pinaveersaartitsisinnaasoq imaluunniit kingusinnerusortitsisinnaasoq. National Institute on Aging (NIA) oqarpoq nerisassanik killiliineq imaluunniit iisinngikkaangat nerineq inunnut inassuteqarnissamut paasisaq naammattoqanngitsoq, aammalu suli amerlasunik ilisimasaqalerniariaqartoq iluaqutaasinnaanera navianartuuneranilu pillugit, immikkut inuppassuarnut ([NIA: nerisassanik killiliineq iisinngikkaangat nerinerlu](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Sooq paasisaq amigaateqarnersoq
 
-The NIA gives several reasons:
+NIA tunngavigalugit pissutsit amerlasuut pineqartarput:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Misissueqqissaatit amerlanersaat uumasuini ingerlapput.** Uumasuini, qupannit miluumasunullu hiistinut naapisinilu misissueqqissaatit soqutiginartunik paasisanik takutitsipput, kisianni paasisat taakkua inuit sunniuteqartassapput tassa ajornaqaaq. Uumasunilu allatulluunniit paasisat assigiinngitsut takuneqarsinnaapput; hiistit ilaat nerisassanik killiliinerat inooriaatsimik naappallaarutsitsinermik kinguneqartarpoq.
+- **Inunnik misissuinerit sivisuunngillat.** Amerlanerit sapaatip-akunneri qaammatillu amerlassusaannut sivisussuseqarput.
+- **Inunnik misissuinerit amerlanersaat oqimaassutsimik annikillisaanermut sammisipput** inunnut oqimaassuteqarluartunut, eqqarsaataarnermut dementiamullu sammisimanatik.
+- **Inuppassuit misissuinerit amerlanersaanni ilaanngillat.** Amerlanerit inuit 60-it inorlugit ukiulinnit kannerusunik misissuipput.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026-imi misissueqqissaatit katersorneqarneranni inuppassuit 60-inik ukiulillit annerusumik iisinngikkaangat nerinerannik misissueqqissaarneqarpoq. Paasisat inuppassuarnut sulinermi amigaateqartut, misissuinerit mikisuujusut, sivisuunngitsumillu malinnaalluni, allanngorartumillu ilusilersugaallutik. Eqqarsaataarnermik isumalluinnermillu paasisat misissuinit ataatsimoortunit angerlarsimapput, katersorneqarnerannillu paasinarsinani. Misissueqqissaatit allat aamma takutippaat nerinissamut sivikitsuinnarmik akuerineqartunit imaluunniit sivisulluni iisinngikkaangat nerineqarneranit kinguneq ajornerusoq pisaqartarsimasoq, allattullu inuppassuit mianersortinneqartassasut erseqqissaatigaat ([2026-imi misissueqqaartitsineq Nutrients-imi](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Misissueqqissaartut ilaat isumaqarput timip iisinngikkaangat nerinerup nalaani uuliamik atuisarnera qaratsamut sunniuteqartarsinnaasoq, kisianni manna suli isummatut misissueqqaartigineqarpoq. NIA erseqqissaatigaa ilisimatusarnermut erseqqinneqartut sulinngikkallartut.
 
-## What are the risks of fasting for older adults?
+## Inuppassuarnut iisinngikkaangat nerinerup ulorianartui suut?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Inuppassuarnut amerlasuunut iisinngikkaangat nerineq misiligutigineq ajornanngitsoqanngilaq. Ulorianartut pisinnaasut tassaapput:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Oqimaassutsimik annaasaq qorsuuteqanngitsoq.** Timi annerusumik piumasaqarnermit ikinnerusumik nerineq oqimaassutsimik nukinginnillu annaasitsisinnaavoq, inullu nukinginnerulersitsilluni.
+- **Nukik saunillu annikinnerulersinnaapput.** NIA-p tapersersugaanik marlunnik ukiunik sivisussuseqartumik misileraanermi inuusuttut akunnatsillu ukiulinni nerisassanik killiliinermi peqataasut saannik nukinginnillu ikilimmik annikillisimanerannik takutippaat.
+- **Sukkunummik nakassaaneq diabeticimik nakorsaateqartunut aakkiinik atuisunut.** Insulini imaluunniit diabetesimik nakorsaateqartunut aakkiinik allanik atuisut nerisareernatik imaluunniit kingusinnerusukkut nerikkunik sukkunermik aavartumik nakassaasinnaapput, [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) naapertorlugu. Sukkunermik appasinnerusumik nakassaaneq qasulluinermut, paarlattuanermut kamajatsitsineranullu kinguneqartarsinnaavoq.
+- **Imeqqullarneq.** Nerineq imernerlu tamaasa ingerlaannaq qimaguppat imeqqullarneqarsinnaavoq.
+- **Qasulluunneq nakkarnerlu.** Mayo Clinic erseqqissaatigaa iisinngikkaangat nerineq qasulluuteqartitsisinnaasoq qasusuujunnaartitsisinnaallunilu, aammalu saunik annikillisaanermut nakkarnermullu ulorianartunik navianartoqarsinnaavoq ([Mayo Clinic: iisinngikkaangat nerineq](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Sunniutit allat.** Mayo Clinic aamma niaqugisaqarneq, pissutsimik allanngoriaaseq, anaanaveersaarnerlu allassimavai, aammalu erseqqissaatigaa naatsorsuutigineqartartoq nalunaaquttap 16-it akunnasunut iisinngikkaangat nerineq nalunaaquttallu 8-it akunnattut nerineq uummaanut naapertuuttumut eqqaanermut sanilliullugu possaanermut ulorianarnerunermik kinguneqartarsimasoq. Tamanna suli erseqqinneqarsimanngilaq.
 
-## Why is eating enough the bigger concern with dementia?
+## Sooq dementiap nalaani naammattunik nerineq pingaarnersuuvoq?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Dementiaqartut amerlanertigut ajornartorsiutaannut **naammattunik** nerineq imernarlu ataavoq, amerlasuunik pinnatik. Alzheimer's Association nassuiaavoq dementia ullumikkut kingulliunerusumillu killissaani inuit nerisassanik toqqaanissaq amerlasoorujussuusinnaagaat, nerineq puiorsinnaagaat, imaluunniit nerereersimallutik isumaqartarsinnaasut. Aammalu erseqqissaatigaat nerisassaqarluarnertaqannginneq pissutsit ilorraapiloorsinnaallugit oqimaassutsimillu annaasitsisinnaalluni ([Alzheimer's Association: nerisassat nerinerlu](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society erseqqissaatigaa naammattunik nerinnginneq oqimaassutsimik nukinginnillu annaasitsisinnaasoq, qasusuujunnaartitsilluni nukinginnerulersitsillunilu, inuk nukinginnerulersillugu nappaatinillu ajorunnaarsitsisinnaajunnaartitsilluni ([Alzheimer's Society: nererusunneq](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Taamaattumik, inuk dementiaqartoq iisinngikkaangat nerisitsisoqarnissaq siunnersuutigineqanngilaq.** Nerineq ilaat qimagunneqarunik aatsaat nerineq amigaateqalersinnaavoq. Dementiaqartup nerineranik allannguisoqassaaq, nakorsartaanik imaluunniit nerisassanik ilisimasaqartumik siulersorneqartassalluni.
 
-## What are the warning signs of poor eating or drinking?
+## Naammattunik nerinnginnerup imernginnerullu nalunaaqutai suut?
 
-Watch for:
+Maluginiaruk:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Oqimaassutsimik annaasaq**, imaluunniit atisat ammarnerulersut.
+- **Nerisat qimattarneq imaluunniit nerineq itigartinneq**, imaluunniit nerisamik kaninni tigummiinnineq.
+- **Qasussuseq nukinginnerunerlu.**
+- **Anaanaveersaaneq**, nerisassanullu imeqqullarneranullu ataqatigiisinnaasoq.
+- **Imeqqullarnerup nalunaaqutai.** NIA allassimavai kanik paatsoq, qasulluunneq, uumma titarneruluttoq, takorluuilussaarnerlu, taanna kingulliartaasoq dementiamit pissutaasinnaalluni ([NIA: nakorsaaneq nalinginnaasoq](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Nererusunnginneq amerlasuunik pissuteqarsinnaavoq: kigutit anniartuut, kigutitat aalasut, nakorsaaterpassuit nutaat, aliasunneq, nungusaaneq ikinnerulaartoq, imaluunniit misigissutsip tipigissusiornerullu allanngornera. Maluginiakkatit nakorsaq nalunaarfigiuk. Pissutaasoq paasiniassinnaavaa nerisassanik ilisimasaqartumik imaluunniit ilitsersuinermik siunnersuuteqarsinnaallunilu.
 
-## How can you help someone eat and drink enough?
+## Inuk naammattunik nerisitsillugo imertitsillugulu qanoq ikiorneqarsinnaavoq?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Neriniakkat imernartallu amerlasuut piffissap ingerlanerani neqeroorutigisigit**, pingasunngorlugu nerisanik angisuunik pinnatit.
+- **Nerisat asanerpaat neqeroorutigisikkit**, maminnerallu allanngoriartortillugit ajornanngitsumik ingerlalluarit. Neriniakkat mamitsut nuannaarutigineqarsinnaapput nererusunneq ikippat; nakorsaq aperiuk sukkusumik killilersuineq pisariaqartinneqarnersoq.
+- **Imernarit qanittumi inissigikkit** ullullu ingerlanerani imernegartalissanik neqeroorutigisarlutit. Suppit, paarnat, akuussakkat, immullu akuusut tamarmik akuersaarneqartarput.
+- **Ataatsimoorlutit nerigit** pisariaqartitsigunuk. Nerineq ilagiinniarneqartarnissaat pingaaruteqarpoq, sukkasuumik ingerlatinneqartassanngilaq.
+- **Assakkut tigusinnaasat misilikkit**, soorlu sandwichit, paarnat aggortakkat imaluunniit timmiaqqat, panertat atorneqarnertik ajornanngorpat.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+[Nerisassaq pillugu ilitsersuutitsinni](/brain-health/diet/) nerinerup immikkoortuini siunnersuutit amerlanerusut takuneqarsinnaapput. Nerisassiorneq ataatsimoorluni nuannaarutigisinnaasarpoq; [angerlarsimaffimmi suliat](/activities/household-tasks/) takuuk.
 
-## Talk with a doctor
+## Nakorsaq oqaloqatigalugu
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Iisinngikkaangat nerineq misileriarniarukku, nakorsat imaluunniit nerisassanik ilisimasaq apeqqutigissavat, ilaatigut diabetesimik aappariit الضغطимиллүүллу nakorsaateqaruit, kingulliukkut oqimaassutsimik annaasaqarsimaguit, imaluunniit nakkareersimaguit. Inuk dementiaqartoq isumagigukku, nakorsartaa aperiuk ullormut qanoq amerlatigisunik nerisariaqartoq imerariaqartorlu, iisinngikkaangat nerineranik apeqqutiginani.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Tassa ajugaasumik paarlattuanermut, nalorninnermut, imaluunniit sukkunermik aavartumik nakassaasunut killissanngitsumik pitsanngorsinnaajunnaartunut, aaqqiisoqartarpoq 112-imut sianeruk.

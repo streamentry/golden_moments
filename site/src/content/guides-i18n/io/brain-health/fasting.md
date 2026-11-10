@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Intermita fastado e dementeso: Quo dicas la studii"
+seoTitle: "Intermita fastado e dementeso: Quo dicas la studii"
+description: "La homala pruvi pri intermita fastado e dementeso esas limitizita e frua. Lernez la riski por olda adulti e pro quo manjar sat ofte importas plu kun dementeso."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Ne existas bona pruvi ke intermita fastado preventas o lentigas dementeso.
+  Multa ek la studii esas pri animali, e homala studii pri olda adulti esas
+  mikra e kurta. Fastado povas esar riskoza por olda adulti: perdo di pezo e
+  muskoli, tro basa sukro en sango kun kelka medikamenti por diabeto,
+  deshidratigo e fali. Por personi vivanta kun dementeso, manjar e drinkar sat
+  esas ofte la plu granda zorgo. Parolez unesme kun mediko.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "La National Institute on Aging dicas ke ne existas sat multa pruvi por rekomendar irga fastado- o kalorio-restrikto-dieto, precipue por olda adulti."
+  - "Multa ek la studii pri fastado e oldesko venas de animali, e ta rezulti ne necese aplikesas a personi."
+  - "Posibla riski por olda adulti inkluzas nevolata perdo di pezo, perdo di muskoli, tro basa sukro en sango kun kelka medikamenti por diabeto, deshidratigo, kapturno e fali."
+  - "Personi vivanta kun dementeso ofte oblivias manjar o drinkar, o pensas ke li ja facis ol. Helpar li manjar e drinkar sat esas ordinare multe plu importanta kam kande li manjas."
+  - "Ne uzez fastado por ulu vivanta kun dementeso. Parolez kun mediko o registrita dietisto ante irga chanjo en manjomanieri."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Ka intermita fastado preventas Alzheimer-morbo?"
+    a: "Ne existas bona pruvi ke ol facas to. Multa ek la studii esis pri animali, e homala probi esis maximparte kurta, pri plu yuna o tro pezoza adulti, e fokusizis pri perdo di pezo. La National Institute on Aging dicas ke ne existas sat multa pruvi por rekomendar fastado-dieti a la publiko."
+  - q: "Ka intermita fastado esas sekura por olda adulti?"
+    a: "Forsan no. Fastado povas duktar a nevolata perdo di pezo e muskoli, deshidratigo, kapturno e fali, e povas kauzar dangere tro basa sukro en sango che personi qui prenas insulino o kelka altra medikamenti por diabeto. Mayo Clinic notas ke ol forsan ne konvenas a personi kun alta risko di ostoperdo e fali. Parolez kun mediko ante probar ol."
+  - q: "Ka ulu kun dementeso devas probar fastado?"
+    a: "No. Personi vivanta kun dementeso ofte havas desfacileso por manjar e drinkar sat, e mala nutrado povas augmentar kondutala simptomi e kauzar perdo di pezo. Fastado adjuntas risko sen pruvita benefico. Fokusizez prefere a regulara repasti, mikra manzaji quin la persono prizas e sat multa drinkaji."
+  - q: "Quala esas signi ke ulu kun dementeso ne manjas o drinkas sat?"
+    a: "Atencez pri perdo di pezo, vestaji qua divenas plu larja, fatigo, febleso, konstipado, o refuzo di manjajo. Signi di deshidratigo, listigita da la National Institute on Aging, inkluzas seka boko, kapturno, rapida kordobato e halucinadi. Informez lia mediko se vu remarkas to."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,134 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Intermita fastado, exemple manjar nur dum ok-hora periodo o forte diminutar
+kalorii dum du dii singla semano, recevas multa atenco, e kelka artikli
+sugestas ke ol forsan protektas la cerebro. Se vu esas olda adulto, o se vu
+sorgas pri ulu vivanta kun dementeso, yen quo la studii reale montras, e pro
+quo prudesas esar prudenta.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+To esas generala informo, ne medikal konsilo. Ne komencez fastado, e ne
+chanjez quale la persono quan vu sorgas manjas, sen parolar kun mediko o
+registrita dietisto. Videz nia [medikal desresponsizo](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Ka intermita fastado preventas dementeso?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Ne existas bona pruvi ke intermita fastado preventas o lentigas dementeso. La
+National Institute on Aging (NIA) dicas ke ne existas sat multa pruvi por
+rekomendar irga tipo di kalorio-restrikto- o fastado-dieto, e ke on mustas
+lernar multe plu pri lua efikeso e sekureso, precipue che olda adulti
+([NIA pri kalorio-restrikto e fastado](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Pro quo la pruvi esas tam limitizita
 
-The NIA gives several reasons:
+La NIA donas plura motivi:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Maxim multa studii esas pri animali.** Studii pri vermi, muski, musi e
+  simii donis interesanta rezulti, ma ta trovajii ne necese aplikesas a
+  personi. Mem che animali, la rezulti esas mixita; en kelka straini di musi,
+  kalorio-restrikto kurtigis la vivo.
+- **Homala probi esis kurta.** La maxim multa duris kelka semani o monati.
+- **La maxim multa homala probi fokusizis pri perdo di pezo** che tro pezoza
+  adulti, ne pri memoro o dementeso.
+- **Olda adulti esas rare inkluzita.** Multa probi rekrutis personi di evo 60
+  o plu yuna.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Revuo sistematika de 2026 regardis specife intermita fastado che adulti di evo
+60 o plu olda. Ol trovis ke la pruvi en ica evogrupo restas limitizita, kun
+mikra studii, kurta sequado e mixita formi. Trovaji pri pensado e memoro venis
+de singla studii, ne de kunigita rezulti de probi. La revuo anke notis ke kelka
+studii ligis tre kurta manjoperiodi o longa fasti kun plu mala rezulti, e la
+autori urjis prudeson por olda adulti ([revuo de 2026 en Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Kelka exploristi pensas ke la chanjo di la korpo a brular graso dum fasto
+povas afektar la cerebro, ma to esas ankore teorio qua studiesas. La NIA notas
+ke la cienco esas necerta.
 
-## What are the risks of fasting for older adults?
+## Quala esas la riski di fastado por olda adulti?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Fastado ne esas senriska probo por multa olda personi. Posibla riski inkluzas:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
+- **Nevolata perdo di pezo.** Manjar min kam la korpo bezonas povas duktar a
+  perdo di pezo e min multa muskola forteso, quo povas lasar persono plu febla.
+- **Perdo di muskoli e osti.** En du-yara probo subtenita da NIA pri
+  kalorio-restrikto che yuna e mez-eva adulti, partoprenanti havis mikra
+  diminuti di ostodenseso e sen-grasa korpomaso.
+- **Tro basa sukro en sango kun medikamenti por diabeto.** Personi qui prenas
+  insulino o kelka altra medikamenti por diabeto povas havar tro basa sukro en
+  sango se li ne manjas o retardas repasti, segun la
   [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+  Tro basa sukro en sango povas kauzar kapturno, konfuzo e iritacemeso.
+- **Deshidratigo.** Se drinkaji omisesas kune kun repasti, persono povas
+  divenar deshidratita.
+- **Kapturno e fali.** Mayo Clinic notas ke intermita fastado povas igar
+  personi sentar su tre fatigita e kun kapturno, e ke ol forsan ne esas
+  sanala maniero por personi kun alta risko di ostoperdo e fali
+  ([Mayo Clinic pri intermita fastado](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Altra efekti.** Mayo Clinic anke listas kapdolori, humor-chanji e
+  konstipado, e notas kelka pruvi ke 16-hora fasto kun 8-hora manjoperiodo
+  forsan augmentas la risko di kordomaladeso kompare kun altra manjoperiodi.
+  Ta pruvi ne esas definitiva.
 
-## Why is eating enough the bigger concern with dementia?
+## Pro quo manjar sat esas ofte la plu granda zorgo kun dementeso?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Por personi vivanta kun dementeso, la kustumala problemo esas recevar **sat**
+multe manjajo e drinkajo, ne tro multe. La Alzheimer's Association explikas ke
+personi en meza e plu tarda stadii povas sentar su tro charjita da
+manjajo-selekti, obliviar manjar, o pensar ke li ja manjis. Ol adjuntas ke
+mala nutrado povas augmentar kondutala simptomi e kauzar perdo di pezo
+([Alzheimer's Association pri manjajo e manjado](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+La Alzheimer's Society notas ke ne manjar sat povas duktar a perdo di pezo,
+min multa muskola forteso, fatigo e febleso, quo lasas persono plu febla e min
+kapabla rekuperar pos infekti
+([Alzheimer's Society pri apetito](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Pro ta motivi, fastado ne esas bona ideo por ulu vivanta kun dementeso.**
+Omisita repasti povas facile divenar perdita repasti. Irga chanjo pri quale
+persono kun dementeso manjas devas esar guidata da lia mediko o registrita
+dietisto.
 
-## What are the warning signs of poor eating or drinking?
+## Quala esas la averti-signi pri mala manjado o drinkado?
 
-Watch for:
+Atencez pri:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Perdo di pezo**, o vestaji qua divenas plu larja.
+- **Lasar manjajo o refuzar repasti**, o tenar manjajo en la boko.
+- **Fatigo o febleso.**
+- **Konstipado**, qua povas esar ligita kun dieto e deshidratigo.
+- **Signi di deshidratigo.** La NIA listas seka boko, kapturno, rapida
+  kordobato e halucinadi, qui anke povas esar kauzita da dementeso ipsa
+  ([NIA pri komuna medikal problemi](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Mala apetito havas multa posibla kauzi: denti doloranta o dentari ne fixa,
+nova medikamenti, depreseso, konstipado, min multa aktiveso, o chanji en gusto
+e odoro. Informez la mediko di la persono pri irga ek ca signi. La mediko povas
+serchar la kauzo e forsan sugestos dietisto o suplei.
 
-## How can you help someone eat and drink enough?
+## Quale vu povas helpar ulu manjar e drinkar sat?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Ofrar mikra repasti e mikra manzaji ofte**, vice tri granda repasti.
+- **Servar preferata manjaji**, e esez flexebla dum la gusti chanjas. Dolca
+  manjaji povas esar bonvena se la apetito esas basa; questionez la mediko se
+  existas sanala motivi por limitar sukro.
+- **Tenez drinkaji facile atingebla** e ofrez mikra tasi dum la dio. Supi,
+  frukti, glataji e lakto-mixi anke kontas.
+- **Manjez kune** kande vu povas. Repasti esas okaziono por kompaneso, ne tasko
+  por hastar.
+- **Probez manjajo quan on povas tenar per fingri**, exemple sandwichi, frukto-
+  peci o peci di hanokarno, se uzar manjo-ili divenis desfacila.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Nia [dieto-guidilo](/brain-health/diet/) havas plu multa idei pri repasti.
+Helpar preparar manjajo anke povas esar agreabla kunfacita aktiveso; videz
+[hemala taski](/activities/household-tasks/).
 
-## Talk with a doctor
+## Parolez kun mediko
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Ante probar irga fastado-plano por vu ipsa, parolez kun vua mediko o registrita
+dietisto, precipue se vu prenas medikamenti por diabeto o sangopreso, se vu
+recente perdis pezo, o se vu havis fali. Por ulu vivanta kun dementeso,
+questionez lia mediko pri quante li devas manjar e drinkar singla dio, vice pri
+fastado.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Serchez urjanta medikal helpo por subita konfuzo, sinkopo, o signi di tre basa
+sukro en sango qua ne plu bonigas rapide.

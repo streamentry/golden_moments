@@ -1,33 +1,34 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Sintúchlike aktiviteiten foar minsken mei demens"
+seoTitle: "Sintúchlike aktiviteiten by demens: ideeën en feilichheid"
+description: "Sintúchlike aktiviteiten foar minsken dy't libje mei demens, fan hânmassaazje oant stofkôrven en lûden út de natuer, mei dúdlike tips oer feilichheid."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Sintúchlike aktiviteiten brûke oanreitsjen, rook, smaak, lûd en sicht: in
+  rêstige hânmassaazje, in kôrf mei sêfte stoffen, farske krûden om oan te
+  rûken, lûden út de natuer of fûgels by it finster sjen. Se passe by elke
+  faze en binne benammen letter yn ’e tiid weardefol. Kontrolearje earst op
+  ferslikkingsgevaar, allergyen, hûdproblemen en gefoelichheid foar geuren,
+  bied ien ding tagelyk oan en stopje as de persoan him net op syn gemak liket
+  te fielen.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Sintúchlike aktiviteiten freegje gjin goede antwurden, sadat se yn elke faze wurkje kinne, ek yn bêd of yn in stoel."
+  - "Bied ien sintúch tagelyk oan yn in rêstige keamer, en freegje earst of lit witte dat jo oanreitsje wolle."
+  - "Foarkom lytse foarwerpen en alles wat derút sjocht of rûkt as iten mar dat net is, om’t minsken dingen yn ’e mûle stekke kinne."
+  - "Kontrolearje op allergyen, hûdproblemen en sykheljen mei sykheljen foardat jo lotions, geuren of iten brûke."
+  - "Der is gjin oertsjûgjend bewiis dat aromaterapy helpt by klachten fan demens; brûk geuren allinnich foar ienfâldich noflik, as jo se al brûke."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Wat binne goede sintúchlike aktiviteiten foar immen mei demens?"
+    a: "Ienfâldige ideeën binne in rêstige hânmassaazje mei lotion, sêfte stoffen fiele, farske krûden of kofje rûke, nei favorite muzyk of lûden út de natuer harkje, nei fûgels of in fiskbak sjen, en in favorite smaak priuwe yn in feilige tekstuer. Bied ien ding tagelyk oan en sjoch hoe’t de persoan reagearret."
+  - q: "Binne sintúchlike aktiviteiten feilich foar immen dy't dingen yn ’e mûle stekt?"
+    a: "Dat kin, as jo foarsichtich binne. Brûk allinnich grutte foarwerpen dy't net trochslokt wurde kinne, slaan lytse of breklike dingen oer, en berg lotions, sjippe en geurende produkten dêrnei bûten berik op, om’t se derút sjen of rûke kinne as iten. Bliuw de hiele tiid by de persoan."
+  - q: "Helpt aromaterapy by demens?"
+    a: "In Cochrane-oersjoch fûn gjin oertsjûgjend bewiis dat aromaterapy helpt foar minsken mei demens, hoewol’t de ûndersiken lyts en ûngelikense wiene. As de persoan in milde, bekende geur noflik fynt, is dat prima, mar foarkom sterke essensjele oaljes, benammen as der problemen binne mei sykheljen of allergyen."
+  - q: "Wat is in friemel- of aktiviteitenskort?"
+    a: "Dat is in stik stof, in skort of in skatedeken mei dingen om oan te fielen dy't der stevich op fêstmakke binne, lykas grutte knopen, ritsen, linten en lappen mei ferskillende tekstueren. It jout drokke hannen wat om te ûntdekken. Kontrolearje it faak op losse dielen dy't loslûke wurde kinne."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Sintúchlike aktiviteiten brûke de fiif sintugen: oanreitsjen, rook, smaak, lûd en sicht. Se freegje gjin ûnthâld, gjin stappen en gjin goede antwurden, sadat se yn elke faze wurkje kinne. Se binne it wichtichst letter yn ’e tiid. De [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) jout oan dat yn ’e lêste faze de wrâld benammen troch de sintugen belibbe wurdt, en dat jo soarch sjen litte kinne troch oanreitsjen, lûd, sicht, smaak en rook. In pear feilichheidskontrôles meitsje dizze aktiviteiten foar elkenien rêstiger.
 
-## What are sensory activities for dementia?
+## Wat binne sintúchlike aktiviteiten by demens?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Sintúchlike aktiviteiten binne ienfâldige ûnderfiningen dy't op ien sintúch tagelyk rjochte binne, lykas stof fiele, krûden rûke of nei rein harkje. De [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) seit dat aktiviteiten yn in lettere faze faak op de sintugen rjochte wêze moatte, en neamt muzyk, foarwerpen om oan te fiele en te hantearjen, en hânmassaazje. De [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) jout oan dat minsken yn ’e lêste faze in sterke behoefte hawwe kinne om wat tichtby te hâlden foar treast.
 
-## Sensory ideas, sense by sense
+## Sintúchlike ideeën, sintúch foar sintúch
 
-### Touch
+### Oanreitsjen
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Hânmassaazje.** Meitsje in bytsje lotion waarm yn jo hannen en stryk stadich fan pols nei fingertoppen. It [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) neamt massearjen mei lotion sûnder geur foar treast.
+- **Stofkôrf.** Grutte lappen fluweel, ribfluweel, fleece, satyn en wol om te strykjen, te folden en oer te praten.
+- **Waarme wasklap.** In waarme, fochtige doek foar de hannen op in kâlde dei. Test de temperatuer earst op jo eigen pols.
+- **Aktiviteitenskort of skatedeken.** Grutte knopen, ritsen, linten en lappen mei ferskillende tekstueren dy't der stevich op fêstmakke binne.
+- **Fâlden en glêdstrykjen.** In kôrf mei skjinne wasklappen of servetten om te folden, te stapeljen en opnij te folden.
+- **Eat sêfts om fêst te hâlden.** In fleecedeken, in kessen of in realistysk sêft bist, gewoan oanbean, nea as boartersguod.
 
-### Smell
+### Rook
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Farske krûden.** Wriuw munt, rozemarijn, basilikum of lavendelblêden tusken jo fingers en hâld se derfoar.
+- **Geuren út ’e keuken.** Kofje dat set wurdt, bôle dat roastere wurdt, kaneel of in sinaasappel dy't tichtby skille wurdt.
+- **Blommen.** Nim in pear farske blommen mei út ’e tún of út ’e winkel.
+- **In bekend produkt.** De sjippe of lotion dy't de persoan altyd brûkte, as de hûd it ferdraacht.
 
-### Taste
+### Smaak
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **In favorite smaak.** In lyts lepeltsje fan eat dêr’t de persoan fan hâldt, lykas appelmoes, pudding of iis, yn in tekstuer dy't feilich is.
+- **Helpe by it bakken.** Fruit of in bytsje glazuer priuwe wylst jo tegearre bakke.
+- **Seizoenslekkernijen.** Wettermeloen yn ’e simmer, waarme appelsop yn ’e hjerst, tsjinne op in feilige temperatuer.
 
-### Sound
+### Lûd
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Favorite muzyk.** Bekende ferskes op in sêft folume; sjoch [muzykaktiviteiten](/activities/music/).
+- **Lûden út de natuer.** Rein, weagen of fûgelsang. It NIA merkt op dat muzyk, wite rûs en lûden út de natuer guon minsken lykje te ûntspannen.
+- **Jo stim.** Hurdop foarlêze, neisûme of in ferhaal fertelle.
+- **Ienfâldige ynstruminten.** In hântrommel, skodder of bel om mei de muzyk mei te dwaan.
 
-### Sight
+### Sicht
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **By it finster sjen.** In fûgelhûske bûten it finster, bern dy't nei hûs rinne, of snie dy't falt.
+- **In fiskbak of stadige fideo.** Rêstige beweging sûnder lûd lûd.
+- **Grutte foto’s.** Ien dúdlike ôfbylding tagelyk, op eachhichte hâlden.
+- **Kleur en patroan.** Heldere lappen stof, blommen of kleurde servetten sortearje, of in ienfâldige kleurplaat út ús [kleurenset](/games/coloring/).
+- **Bûten.** De NHS neamt sintúchlike tunen mei geurige planten, ferskillende tekstueren en wetter. Sjoch [bûtendoar- en túnaktiviteiten](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Hoe meitsje jo in sintúchlike doaze
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Kies in tema** dat by it libben fan de persoan past: it strân, de tún, de keuken, it wurkplak, it naaien.
+2. **Kies fiif of seis grutte, feilige foarwerpen,** lykas in grutte skulp, in houten leppel, in sêfte sjaal, in tichtnaaide buil mei droege lavendel, of in glêd houten blok.
+3. **Kontrolearje elk foarwerp** op lytse dielen, skerpe rânen, losse triedden en alles wat brekke kin.
+4. **Helje ien foarwerp tagelyk tefoaren.** Jou it oan, beskriuw it en lit de persoan it ûntdekke.
+5. **Set de doaze dêrnei fuort** sadat it wat spesjaals bliuwt en de foarwerpen foar de folgjende kear wer kontrolearre wurde kinne.
 
-## Safety first
+## Feilichheid earst
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Sintúchlike aktiviteiten binne sêft, mar in pear risiko’s binne wichtich. Guon minsken dy't libje mei demens kinne dingen dy't gjin iten binne oansjen foar iten, en slikken kin mei de tiid dreger wurde; it NIA warskôget dat problemen mei slikken yn ’e lêste faze it risiko op ferslikken ferheegje.
 
-| Risk | What to do |
+| Risiko | Wat jo dwaan kinne |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Ferslikking | Brûk allinnich foarwerpen dy't te grut binne om troch te slikken. Gjin losse knopen, kralen, munten, knikkers of lyts boartersguod yn in doaze. Jou iten allinnich yn tekstueren dy't it soarchteam feilich neamt. |
+| Dingen dy't op iten lykje | It NIA advisearret om lotions, sjippe, sjampoe en parfum op slot te dwaan, om’t dy op iten lykje of rûke kinne, en om keunstfruit fuort te heljen. Berg sintúchlike produkten nei gebrûk fuort. |
+| Allergyen | Kontrolearje foarôf op allergyen foar noten, latex, wol, planten of geuren. |
+| Sterke geuren | Foarkom sterke parfum en essensjele oaljes, benammen by astma of oare problemen mei sykheljen. Milde, natuerlike geuren binne feiliger. |
+| Hûd | Kontrolearje foar de massaazje op seare, iepen of fragile hûd. Brûk sêfte druk en stopje as de persoan him weromhâldt. |
+| Temperatuer | Test waarme doeken en dranken earst op jo eigen pols. |
+| Skerpe of giftige dingen | Gjin skerpe ark, glês of giftige knutselmaterialen. |
 
-## Does aromatherapy help?
+## Helpt aromaterapy?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Wierskynlik net op in mjitbere manier. In [Cochrane-oersjoch oer aromaterapy by demens](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) besjoch 13 ûndersiken mei 708 minsken, allegear yn soarchhuzen, en fûn gjin oertsjûgjend bewiis fan foardiel. De ûndersiken wiene lyts, de resultaten wiene net itselde, en side-effekten waarden min rapportearre. As de persoan in milde, bekende geur noflik fynt, lykas lavendel út ’e tún, is dat in goede reden om it te dielen. It is gjin behanneling.
 
-## How to offer a sensory activity
+## Hoe biede jo in sintúchlike aktiviteit oan
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Kies in rêstich momint** en set de televyzje út.
+- **Kom fan foaren,** sis de namme fan de persoan, en freegje of lit witte foardat jo oanreitsje: „Ik haw wat lotion. Wolle jo in hânmassaazje?”
+- **Bied ien ding tagelyk oan** sadat it net tefol wurdt.
+- **Sjoch nei de reaksje.** In ûntspannen gesicht, rêstige hannen of in glimke binne goede tekens. Weromlûke, fronse of ûnrêst betsjutte: stopje.
+- **Hâld it koart.** Fiif rêstige minuten is in goede sesje.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+In rêstige sykhelpoaze tegearre, lykas [rêstich sykheljen](/games/calm-breathing/), kin in sêfte manier wêze om ôf te sluten. Sjoch foar mear ideeën oan bêd [aktiviteiten yn ’e lêste faze](/activities/late-stage/) en foar ûnrêst oan ’e ein fan ’e dei [ûnrêst oan ’e ein fan ’e dei](/caregiving/late-day-restlessness/).

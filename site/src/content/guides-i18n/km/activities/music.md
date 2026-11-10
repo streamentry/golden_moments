@@ -1,32 +1,32 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "សកម្មភាពតន្ត្រីសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺភ្លេចភ្លាំង"
+seoTitle: "សកម្មភាពតន្ត្រីសម្រាប់ជំងឺភ្លេចភ្លាំង៖ បទភ្លេង និងគំនិត"
+description: "របៀបចែករំលែកតន្ត្រីជាមួយបុគ្គលដែលអ្នកថែទាំ៖ បង្កើតបញ្ជីបទភ្លេងផ្ទាល់ខ្លួន សកម្មភាពតន្ត្រីសាមញ្ញ 15 យ៉ាង និងគន្លឹះសម្រាប់គ្រប់ដំណាក់កាល។"
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  តន្ត្រីគឺជាសកម្មភាពមួយក្នុងចំណោមសកម្មភាពដែលងាយស្រួលបំផុតក្នុងការចែករំលែកជាមួយ
+  បុគ្គលដែលរស់នៅជាមួយជំងឺភ្លេចភ្លាំង។ បង្កើតបញ្ជីបទភ្លេងផ្ទាល់ខ្លួនពីតន្ត្រីនៅវ័យក្មេង
+  សាសនា និងគ្រួសារ ចាក់វាដោយគ្មានការផ្សាយពាណិជ្ជកម្ម ឬសំឡេងរំខាន ហើយច្រៀង
+  ទះដៃ យោល ឬគ្រាន់តែស្តាប់ជាមួយគ្នា។ ជ្រើសរើសតន្ត្រីស្ងប់ស្ងាត់ ឬរស់រវើកតាមស្ថានភាព
+  រក្សាកម្រិតសំឡេងឱ្យទន់ភ្លន់ ហើយបញ្ឈប់ប្រសិនបើបទភ្លេងណាមួយធ្វើឱ្យពួកគេមិនសប្បាយចិត្ត។
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "តន្ត្រីផ្ទាល់ខ្លួនដំណើរការបានល្អបំផុត៖ ចង្វាក់ដែលពួកគេស្រឡាញ់នៅពេលពេញវ័យវ័យក្មេង រួមទាំងតន្ត្រីពីសាសនា វប្បធម៌ និងព្រឹត្តិការណ៍គ្រួសារ។"
+  - "ចាក់ម្តងមួយៗដោយគ្មានការផ្សាយពាណិជ្ជកម្ម និងបិទទូរទស្សន៍។"
+  - "ការច្រៀង ទះដៃ យោល និងការស្តាប់សាមញ្ញ សុទ្ធតែជាវិធីចូលរួមទាំងអស់។"
+  - "ប្រើតន្ត្រីស្ងប់ស្ងាត់ដើម្បីបង្កើតភាពស្ងប់ និងតន្ត្រីរស់រវើកដើម្បីលើកអារម្មណ៍ ហើយសង្កេតមើលការឆ្លើយតបរបស់បុគ្គលនោះ។"
+  - "ការស្រាវជ្រាវអំពីវគ្គតន្ត្រីដែលមានរចនាសម្ព័ន្ធមានកម្រិត៖ យើងណែនាំតន្ត្រីជារឿងរីករាយដែលអាចចែករំលែក មិនមែនជាការព្យាបាលទេ។"
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "តន្ត្រីប្រភេទណាល្អបំផុតសម្រាប់បុគ្គលដែលរស់នៅជាមួយជំងឺភ្លេចភ្លាំង?"
+    a: "តន្ត្រីដែលបុគ្គលនោះបានស្គាល់ និងស្រឡាញ់អស់រយៈពេលយូរ ជាញឹកញាប់គឺតន្ត្រីពីវ័យជំទង់ និងវ័យម្ភៃរបស់ពួកគេ រួមទាំងតន្ត្រីពីសាសនា វប្បធម៌ និងការប្រារព្ធពិធីរបស់គ្រួសារ។ ប្រសិនបើអាច សូមឱ្យពួកគេជ្រើសរើសដោយខ្លួនឯង។ សង្កេតមើលមុខ និងរាងកាយរបស់ពួកគេដើម្បីដឹងថាពួកគេចូលចិត្តអ្វី ហើយលែងចាក់អ្វីដែលហាក់ដូចជាធ្វើឱ្យពួកគេមិនសប្បាយចិត្ត។"
+  - q: "តើខ្ញុំគួរប្រើកាសស្តាប់ត្រចៀកដែរឬទេ?"
+    a: "មនុស្សមួយចំនួនចូលចិត្តកាសស្តាប់ត្រចៀកព្រោះវាកាត់បន្ថយសំឡេងរំខាន ខណៈដែលអ្នកផ្សេងទៀតអាចមានអារម្មណ៍មិនស្រួល ឬច្រឡំ។ សាកល្បងប្រើឧបករណ៍បំពងសំឡេងជាមុនសិន ដើម្បីឱ្យអ្នកអាចស្តាប់ជាមួយគ្នា។ ប្រសិនបើអ្នកប្រើកាសស្តាប់ត្រចៀក សូមរក្សាកម្រិតសំឡេងឱ្យទាប ហើយនៅក្បែរពួកគេ។"
+  - q: "តើតន្ត្រីអាចជួយនៅពេលមានអារម្មណ៍មិនស្ងប់ ឬមិនសប្បាយចិត្តបានដែរឬទេ?"
+    a: "តន្ត្រីស្ងប់ស្ងាត់ និង quen thuộcអាចជួយបង្កើតបរិយាកាសស្ងប់ស្ងាត់ ហើយ Alzheimer's Association ណែនាំឱ្យប្រើតន្ត្រីដើម្បីបង្កើតបរិយាកាសដែលអ្នកចង់បាន។ វាមិនដំណើរការគ្រប់ពេលទេ។ ប្រសិនបើបុគ្គលនោះមានអារម្មណ៍លំបាក សូមពិនិត្យមើលផងដែរថាតើមានការឈឺចាប់ ឃ្លាន សំឡេងរំខាន ឬអស់កម្លាំងដែរឬទេ។"
+  - q: "តើបុគ្គលដែលរស់នៅជាមួយជំងឺភ្លេចភ្លាំងដំណាក់កាលចុងក្រោយនៅតែអាចរីករាយជាមួយតន្ត្រីបានដែរឬទេ?"
+    a: "មនុស្សជាច្រើននៅតែអាច។ Alzheimer's Association ចង្អុលបង្ហាញថា បុគ្គលនៅដំណាក់កាលចុងក្រោយអាចនៅតែទះដៃតាមចង្វាក់ ឬច្រៀងតាមបទភ្លេងពីកុមារភាព។ អង្គុយឱ្យជិត ចាក់តន្ត្រីឱ្យស្រទន់ ហើយកាន់ដៃ ឬយោលជាមួយគ្នា។"
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+តន្ត្រីគឺជារឿងសាមញ្ញមួយក្នុងចំណោមរឿងដែលអ្នកអាចចែករំលែកជាមួយបុគ្គលដែលរស់នៅជាមួយជំងឺភ្លេចភ្លាំង។ វាមិនទាមទារអ្វីទេ៖ គ្មានចម្លើយត្រូវ ឬខុស គ្មានជំហានដែលត្រូវធ្វើតាម។ បទភ្លេង quen thuộcអាចនាំមកនូវស្នាមញញឹម ការទះជើងតាមចង្វាក់ ឬពាក្យមួយចំនួនដែលច្រៀងតាម ទោះបីជាក្នុងថ្ងៃដែលការសន្ទនាពិបាកក៏ដោយ។ អ្វីដែលអ្នកត្រូវការគឺតន្ត្រីដែលសាកសមសម្រាប់បុគ្គលនោះ និងពេលវេលាស្ងប់ស្ងាត់មួយដើម្បីចាក់វា។
 
-## What music activities work for people with dementia?
+## តើសកម្មភាពតន្ត្រីអ្វីខ្លះដែលសាកសមសម្រាប់បុគ្គលដែលរស់នៅជាមួយជំងឺភ្លេចភ្លាំង?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+ការស្តាប់ ការច្រៀង ការទះដៃ ការយោល និងការនិយាយអំពីតន្ត្រី សុទ្ធតែដំណើរការបានល្អ។ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ណែនាំឱ្យចាក់តន្ត្រី និយាយអំពីតន្ត្រី និងអ្នកចម្រៀង ច្រៀង ឬរាំតាមបទភ្លេងដែល quen thuộc និងចូលរួមកម្មវិធីតន្ត្រីក្នុងសហគមន៍។ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) បន្ថែមថា ចលនាដូចជាការទះដៃ ឬការរាំអាចបន្ថែមភាពរីករាយ ហើយតន្ត្រីអាចជាវិធីមួយដើម្បីភ្ជាប់ទំនាក់ទំនងបន្ទាប់ពីពាក្យសម្ដីកាន់តែពិបាក។
 
-## How do you build a personal playlist?
+## តើអ្នកអាចបង្កើតបញ្ជីបទភ្លេងផ្ទាល់ខ្លួនដោយរបៀបណា?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+រឿងដែលមានប្រយោជន៍បំផុតដែលអ្នកអាចបង្កើតបានគឺបញ្ជីបទភ្លេងដែលមានន័យសម្រាប់បុគ្គលនេះ។ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ក៏លើកឡើងអំពីតន្ត្រីដែលមានន័យផ្ទាល់ខ្លួនផងដែរ។ នេះជាវិធីសាមញ្ញមួយក្នុងការបង្កើតវា។
 
-### Start with their life
+### ចាប់ផ្តើមពីជីវិតរបស់ពួកគេ
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **វ័យជំទង់ និងវ័យម្ភៃរបស់ពួកគេ។** គិតអំពីអ្វីដែលចាក់នៅវិទ្យុ នៅពិធីជប់លៀងរាំ និងនៅក្នុងភាពយន្ត នៅពេលពួកគេនៅក្មេង។
+- **ពេលវេលាសំខាន់ៗ។** តន្ត្រីនៅថ្ងៃមង្គលការ ការរាំដំបូង អាល់ប៊ុមដែលចូលចិត្តពេលធ្វើដំណើរជាមួយគ្រួសារ។
+- **សាសនា និងវប្បធម៌។** បទសាសនា បទចម្រៀងសាសនា ឬបទភ្លេងជាភាសាដើមរបស់ពួកគេ។
+- **ការងារ និងការបម្រើសេវា។** ក្រុមតន្រ្តីដង្ហែក្បួន បទចម្រៀងការងារ ឬតន្ត្រីដែលទាក់ទងនឹងពេលវេលានៅក្នុងកងទ័ព។
+- **អ្វីដែលគ្រួសារចងចាំ។** សួរសាច់ញាតិ បងប្អូន កូនៗ និងមិត្តភក្តិចាស់ៗថា ពួកគេតែងតែចាក់ ឬច្រៀងអ្វី។
 
-### Think in genres, not just songs
+### គិតតាមប្រភេទតន្ត្រី មិនមែនត្រឹមតែបទភ្លេងនីមួយៗ
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+ប្រសិនបើអ្នកមិនដឹងថាត្រូវចាប់ផ្តើមពីណា សាកល្បងចាក់ប៉ុន្មាននាទីពីប្រភេទទាំងនេះ ហើយសង្កេតមើលការឆ្លើយតប៖ big band និង swing, doo-wop, Motown និង soul, rock and roll សម័យដើម, country និង western, bluegrass, gospel និងបទសាសនា, បទចម្រៀងពីល្ខោន Broadway, jazz standards, តន្ត្រីឡាតាំងដូចជា boleros ឬ mariachi, polka, folk និង classical។ រក្សាទុកអ្វីដែលនាំមកនូវស្នាមញញឹម ឬការទះជើងតាមចង្វាក់ ហើយលែងចាក់អ្វីដែលធ្វើឱ្យមុខមិនរីករាយ។
 
-### Make it easy to play
+### ធ្វើឱ្យវាងាយស្រួលក្នុងការចាក់
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **គ្មានការផ្សាយពាណិជ្ជកម្ម។** Alzheimer's Association ព្រមានថា ការផ្សាយពាណិជ្ជកម្មអាចបង្កឱ្យមានការភាន់ច្រឡំ។ ប្រើតន្ត្រីដែលបានទាញយក ស៊ីឌី ថត ឬសេវាកម្មគ្មានការផ្សាយពាណិជ្ជកម្ម។
+- **ឧបករណ៍សាមញ្ញមួយ។** ឧបករណ៍បំពងសំឡេងដែលមានប៊ូតុងធំមួយ ឬបញ្ជីបទភ្លេងដែលបានរក្សាទុករួចរាល់ ដើម្បីឱ្យអ្នកណាក៏អាចចាប់ផ្តើមវាបាន។
+- **បញ្ជីខ្លីពីរ។** បញ្ជីស្ងប់ស្ងាត់សម្រាប់ភាពស្ងប់ និងបញ្ជីរស់រវើកសម្រាប់លើកអារម្មណ៍។
+- **ដាក់ស្លាក។** សរសេរឈ្មោះរបស់បុគ្គលនោះ និងពាក្យថា «តន្ត្រីដែលចូលចិត្ត» នៅលើឧបករណ៍ ដើម្បីឱ្យសាច់ញាតិដែលមកលេង និងបុគ្គលិកថែទាំអាចប្រើវាបានផងដែរ។
 
-## 15 music activities to try
+## សកម្មភាពតន្ត្រី 15 យ៉ាងដែលអាចសាកល្បង
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **ស្តាប់ជាមួយគ្នា។** អង្គុយក្បែរគ្នាដោយមិនមានអ្វីផ្សេងទៀតកើតឡើង។ ការស្តាប់គឺជាសកម្មភាពពេញលេញមួយ។
+2. **ច្រៀងតាម។** ចាប់ផ្តើមច្រៀងដោយខ្លួនឯង។ ការពិរោះៗ ឬបើកមាត់តាមពាក្យក៏រាប់បញ្ចូលដែរ។
+3. **ទះដៃ ឬទះតាមចង្វាក់។** ទះលើជង្គង់ ទះលើតុ ឬប្រើស្គរតូច ឬឧបករណ៍ក្រឡុក។
+4. **រាំយឺតៗ។** កាន់ដៃគ្នា និងយោលនៅក្នុងផ្ទះបាយ ឬរាំនៅពេលអង្គុយដោយផ្លាស់ទីដៃជាមួយគ្នា។
+5. **រាំដោយប្រើកន្សែងស្រាល។** គ្រវីកន្សែងស្រាលតាមចង្វាក់តន្ត្រី ไม่ថាឈរ ឬអង្គុយ។
+6. **និយាយអំពីតន្ត្រី។** អញ្ជើញ មិនមែនសាកល្បង៖ «វាស្តាប់ទៅដូចជានៅសាលរាំ។ ប្រាប់ខ្ញុំអំពីការរាំបន្តិចបានទេ?» កុំសួរថា «តើអ្នកចាំបទនេះទេ?»
+7. **ចាក់អាល់ប៊ុមទាំងមូល។** ចាក់ថតដែលពួកគេស្រឡាញ់ពីដើមដល់ចប់ ពេលកំពុងផឹកកាហ្វេ។
+8. **មើលគម្របអាល់ប៊ុម។** គម្របថតចាស់ៗល្អសម្រាប់និយាយអំពីម៉ូដ រថយន្ត និងមុខមាត់។
+9. **មើលល្ខោនតន្ត្រី។** ល្ខោនតន្ត្រី ឬការប្រគំតន្ត្រីដែលបានថតពីសម័យរបស់ពួកគេ គឺល្អសម្រាប់ពេលល្ងាច។ ផ្អាកសម្រាប់សម្រាក។
+10. **លេងឧបករណ៍ភ្លេងដែលពួកគេស្គាល់។** អ្នកដែលធ្លាប់លេងព្យាណូ ឬហ្គីតាអាចរីករាយនឹងការលេងសាមញ្ញៗ។ នៅពេលក្រោយ ការលេងចំណាំពីរបីជាមួយគ្នាក៏គ្រប់គ្រាន់ហើយ។
+11. **ចាក់តន្ត្រីពេលកំពុងធ្វើការ។** ចាក់បទភ្លេងដែលចូលចិត្តពេលបត់សម្លៀកបំពាក់ ឬរៀបចំតុ។
+12. **បទភ្លេងពេលព្រឹក។** ចាប់ផ្តើមថ្ងៃនីមួយៗដោយបទភ្លេងរីករាយដដែលៗជាផ្នែកនៃទម្លាប់។
+13. **ច្រៀងបទសាសនា ឬតន្ត្រីពិធីសាសនា។** ចាក់តន្ត្រីពីប្រពៃណីសាសនារបស់ពួកគេ ហើយច្រៀងជាមួយគ្នា។
+14. **ចូលរួមក្រុមច្រៀង។** NHS ពិពណ៌នាថា ក្រុមច្រៀងមានប្រយោជន៍សម្រាប់អារម្មណ៍ និងសុខុមាលភាព។ សួរនៅក្នុងតំបន់របស់អ្នកអំពីក្រុមច្រៀងដែលសមស្របសម្រាប់បុគ្គលដែលរស់នៅជាមួយជំងឺភ្លេចភ្លាំង។
+15. **ទៅស្តាប់តន្ត្រីផ្សាយផ្ទាល់។** ការប្រគំតន្ត្រីខ្លីៗក្នុងសហគមន៍ ឬក្រុមតន្រ្តីនៅខាងក្រៅ។ អង្គុយក្បែរច្រកចេញ ហើយចាកចេញនៅពេលណាក៏បានដែលអ្នកចង់។
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+សម្រាប់សកម្មភាពលេងពាក្យស្រាលៗជាមួយឃ្លា quen thuộc សាកល្បង [បញ្ចប់សម្តី](/games/finish-the-saying/) ដែលអ្នកអាចបង្ហាញចុងបញ្ចប់បានជានិច្ច។
 
-## Matching music to the moment
+## ការជ្រើសរើសតន្ត្រីឱ្យសមនឹងពេលវេលា
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association ណែនាំឱ្យប្រើតន្ត្រីដើម្បីបង្កើតអារម្មណ៍ដែលអ្នកចង់បាន៖ តន្ត្រីស្ងប់ស្ងាត់សម្រាប់បរិយាកាសស្ងប់ស្ងាត់ និងបទភ្លេងរស់រវើកពីវ័យក្មេងរបស់មនុស្សម្នាក់ដើម្បីលើកអារម្មណ៍។
 
-| Moment | Try | Tip |
+| ពេលវេលា | សាកល្បង | គន្លឹះ |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| ពេលភ្ញាក់ពីដេក | បទភ្លេង quen thuộc និងរីករាយ | បទភ្លេងដដែលៗរៀងរាល់ព្រឹកអាចក្លាយជាសញ្ញាស្ងប់ស្ងាត់មួយ |
+| ការងារផ្ទះ | បទចម្រៀងដែលចូលចិត្ត និងរស់រវើក | តន្ត្រីអាចធ្វើឱ្យការងារមានអារម្មណ៍ដូចមានមិត្តរួម |
+| ពេលបរិភោគអាហារ | តន្ត្រីឧបករណ៍ស្រទន់ៗ | រក្សាកម្រិតសំឡេងឱ្យទាប ដើម្បីកុំឱ្យរំខានដល់ការបរិភោគ |
+| ពេលរសៀលយឺត | តន្ត្រី quen thuộc និងស្ងប់ស្ងាត់ក្នុងពន្លឺល្អ | មើល [អារម្មណ៍មិនស្ងប់នៅពេលរសៀលយឺត](/caregiving/late-day-restlessness/) |
+| ពេលចូលគេង | តន្ត្រីយឺត និងស្រទន់ | បន្ថយកម្រិតសំឡេង និងពន្លឺជាមួយគ្នា |
+| ដំណាក់កាលចុងក្រោយ | បទភ្លេងដែលពួកគេស្រឡាញ់បំផុត និងចាក់ស្រទន់ៗ | អង្គុយឱ្យជិត ហើយកាន់ដៃ |
 
-## Tips for a good experience
+## គន្លឹះសម្រាប់បទពិសោធន៍ល្អ
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **បិទសំឡេងរំខានផ្សេងទៀត។** Alzheimer's Association ណែនាំឱ្យបិទបង្អួច និងទ្វារ និងបិទទូរទស្សន៍ ដើម្បីឱ្យតន្ត្រីជាសំឡេងតែមួយគត់។
+- **រក្សាកម្រិតសំឡេងឱ្យទន់ភ្លន់។** តន្ត្រីគួរតែមានអារម្មណ៍ស្រួល មិនមែនខ្លាំងពេកទេ។ ប្រសិនបើបុគ្គលនោះប្រើឧបករណ៍ជំនួយការស្តាប់ សូមប្រាកដថាវាដាក់ និងដំណើរការល្អ؛ មើល [ការស្តាប់](/brain-health/hearing/)។
+- **សង្កេតមើលអារម្មណ៍ពាក់ព័ន្ធនឹងទុក្ខព្រួយ។** បទភ្លេងមួយចំនួនអាចនាំមកនូវការសោកស្តាយ សង្គ្រាម ឬការបាត់បង់។ ប្រសិនបើបទភ្លេងណាមួយធ្វើឱ្យពួកគេមិនសប្បាយចិត្ត សូមលួងលោមពួកគេ ហើយប្តូរបទផ្សេង។
+- **ឱ្យពួកគេដឹកនាំ។** ប្រសិនបើអាច សូមឱ្យបុគ្គលនោះជ្រើសរើសតន្ត្រី ហើយទទួលយកការបដិសេធ។
+- **បញ្ឈប់នៅពេលណាក៏បាន។** តន្ត្រីប្រាំនាទីក៏ជាសកម្មភាពល្អមួយដែរ។ ការបិទវា ហើយអង្គុយស្ងៀមៗក៏ដូច្នោះដែរ។
 
-## What does the research say about music and dementia?
+## តើការស្រាវជ្រាវនិយាយអ្វីខ្លះអំពីតន្ត្រី និងជំងឺភ្លេចភ្លាំង?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+ភស្តុតាងនៅមានកម្រិត។ [ការពិនិត្យឡើងវិញរបស់ Cochrane ឆ្នាំ 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) បានពិនិត្យមើលការសិក្សា 30 អំពីវគ្គតន្ត្រីដែលមានរចនាសម្ព័ន្ធ ភាគច្រើនជាក្រុមនៅក្នុងមណ្ឌលថែទាំ។ វាបានរកឃើញថា វគ្គទាំងនេះប្រហែលជាជួយបន្ថយរោគសញ្ញានៃការធ្លាក់ទឹកចិត្តបន្តិចបន្តួច បើប្រៀបធៀបទៅនឹងការថែទាំធម្មតា ប៉ុន្តែមិនមានឥទ្ធិពលច្បាស់លាស់លើអារម្មណ៍មិនស្ងប់ សុខុមាលភាព ឬការគិត និងការចងចាំ ហើយគ្មានឥទ្ធិពលដែលនៅសេសសល់បន្ទាប់ពីវគ្គបានបញ្ចប់នោះទេ។
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+យើងចែករំលែកតន្ត្រីព្រោះវាជាវិធីរីករាយ និងមិនមានសម្ពាធក្នុងការចំណាយពេលជាមួយគ្នា មិនមែនជាការព្យាបាលទេ។ សម្រាប់កន្លែងជាក្រុម សូមមើល [សកម្មភាពជាក្រុមនៅមណ្ឌលថែទាំ](/activities/care-home-groups/)؛ សម្រាប់ការប្រើតន្ត្រីរួមជាមួយរូបថត និងរឿងរ៉ាវ សូមមើល [សកម្មភាពរំលឹកអតីតកាល](/activities/reminiscence/)។

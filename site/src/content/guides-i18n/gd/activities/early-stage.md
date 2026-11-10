@@ -1,32 +1,34 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Gnìomhan airson Trom-inntinn Tràth-ìre"
+seoTitle: "Gnìomhan Trom-inntinn Tràth-ìre: Beachdan Freagarrach"
+description: "Beachdan gnìomhachd airson trom-inntinn thràth-ìre: cur-seachadan, geamannan, cuairtean, sgrìobhadh agus planadh còmhla, le atharrachaidhean beaga a chumas an neach toilichte agus an sàs."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Ann an trom-inntinn thràth-ìre, faodaidh a’ mhòr-chuid de dhaoine cumail a’
+  dol leis na rudan a tha a’ còrdadh riutha: cur-seachadan, cairtean agus
+  geamannan-bùird, còcaireachd, gàirnealaireachd, coiseachd, clubaichean,
+  creideamh agus saor-thoileachas. Mar as trice, is e na h-atharrachaidhean
+  buidhnean nas lugha, cuairtean nas giorra, planaichean sgrìobhte sìmplidh
+  agus companach faisg air làimh. Faighnich dhan neach dè an cuideachadh a tha
+  iad ag iarraidh, agus leig leotha an stiùir a ghabhail.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Tha a’ mhòr-chuid de dhaoine san ìre thràth a’ fuireach gu math neo-eisimeileach. Mar as trice feumar gnìomhan atharrachadh, chan e an cur nan àite."
+  - "Faighnich dhan neach dè an taic a tha iad ag iarraidh, agus aontaich air comharra sìmplidh airson nuair a tha cuideachadh fàilte."
+  - "Gu tric bidh buidhnean nas lugha, amannan nas sàmhaiche agus cuairtean nas giorra a’ dèanamh diofar mòr."
+  - "’S e deagh àm a tha seo airson an neach fhèin pròiseactan mu am beatha a stiùireadh, leithid leabhar-latha no leabhar sgeulachd-beatha."
+  - "Tagh geamannan airson tlachd. Leig seachad rud sam bith a thòisicheas a’ faireachdainn mar dheuchainn."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Dè na gnìomhan a tha math airson trom-inntinn thràth-ìre?"
+    a: "Mar as trice, na h-aon ghnìomhan a tha a’ còrdadh ris an neach mu thràth: cairtean, geamannan-bùird, còcaireachd, gàirnealaireachd, coiseachd, ceòl, gnìomhan creideimh, clubaichean agus saor-thoileachas. Is dòcha gum feum thu an dèanamh nas giorra, nas sàmhaiche no nas sìmplidhe. Bidh sgrìobhadh leabhar-latha, sgrìobhadh litrichean agus dèanamh leabhar sgeulachd-beatha cuideachd freagarrach aig an ìre seo."
+  - q: "Ciamar as urrainn dhomh cuideachadh gun a bhith a’ gabhail thairis?"
+    a: "Faighnich dè an seòrsa cuideachaidh a tha an neach ag iarraidh, agus faighnich a-rithist gu tric. Aontaich air abairt no cromadh-cinn a tha a’ ciallachadh gu bheil e ceart dhut ceum a-steach, mar eisimpleir nuair nach tig facal no ainm. Mura h-eil cunnart sàbhailteachd ann, leig leotha a dhèanamh san dòigh aca fhèin, eadhon ged a bheir e nas fhaide."
+  - q: "Am bu chòir do chuideigin le trom-inntinn thràth feuchainn air gnìomhan ùra?"
+    a: "Bu chòir, ma tha iad airson sin. Mar as trice tha cur-seachadan eòlach nas fhasa, ach tha mòran dhaoine a’ faighinn tlachd à rudeigin ùr, leithid buidheann coiseachd a tha càirdeil do throm-inntinn, clas ealain no buidheann seinn. Feuch e aon turas gun chuideam agus faic ciamar a tha e a’ faireachdainn."
+  - q: "A bheil aplacaidean geamannan-inntinn feumail san ìre thràth?"
+    a: "Tha cuid de dhaoine a’ faighinn tlachd à tòimhseachain agus geamannan fhaclan, agus tha an tlachd sin na adhbhar gu leòr. Chan eil e air a shealltainn gu bheil aplacaid no geama sam bith a’ làimhseachadh, a’ slaodachadh no a’ cur stad air trom-inntinn. Ma tha geama ag adhbhrachadh cuideam no a’ toirt air an neach faireachdainn gu bheil iad a’ fàiligeadh, cuir dheth e."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +50,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Ann an ìre thràth trom-inntinn, tha mòran dhaoine fhathast a’ fuireach gu ìre mhòr mar a bha iad roimhe. Is dòcha gu bheil iad ag obair, a’ dèanamh obair shaor-thoileach, a’ coinneachadh ri caraidean agus a’ ruith mòran den latha aca fhèin. Mar as trice cha leig thu leas gnìomhan a chur nan àite; tha feum air beagan atharrachaidhean gus am bi iad fhathast tlachdmhor. Tha do dhleastanas nas fhaisge air companach na neach-cùraim: cuideigin a bheir taic, a nì planaichean còmhla riutha agus a cheumaicheas a-steach dìreach nuair a thèid iarraidh orra.
 
-## What activities are good in early-stage dementia?
+## Dè na gnìomhan a tha math ann an trom-inntinn thràth-ìre?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Mar as trice, ’s iad na gnìomhan as fheàrr san ìre thràth an fheadhainn a tha a’ còrdadh ris an neach mu thràth, air an dèanamh beagan nas fhasa. Tha [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a’ toirt iomradh air beachdan leithid geamannan cairtean is bùird, lorg fhaclan, coiseachd, dannsadh, gàirnealaireachd, rèiteachadh fhlùraichean, innse sgeulachdan, peantadh, ceòl, sgrìobhadh leabhar-latha, sgrìobhadh litrichean, leabhraichean-cuimhne, còcaireachd agus traidiseanan saor-làithean.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Gu tric is e an suidheachadh a dh’atharraicheas, chan e an gnìomh fhèin. Tha [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ag innse gum faod daoine san ìre thràth tòiseachadh a’ tarraing air ais bho rudan a chòrd riutha, agus tha iad a’ toirt eisimpleir de chuideigin a tha a’ faireachdainn fo chuideam aig pàrtaidh mòr ach a tha nas cofhurtaile ann am buidheann bheag. Bruidhinn gu fosgailte mu na tha a’ faireachdainn nas duilghe, agus dèan atharrachaidhean còmhla.
 
-## Ask first, and agree on how to help
+## Faighnich an toiseach, agus aontaich ciamar a chuidicheas tu
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+Tha [stiùireadh ìre thràth Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) a’ moladh beagan chleachdaidhean a tha freagarrach airson gnìomhan cuideachd:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Faighnich gu dìreach.** Gheibh “Dè a dhèanadh cluba leabhraichean nas fhasa dhut?” freagairt nas fheàrr na bhith a’ tomhas.
+- **Gabh ris gum faod iad.** Mura h-eil cunnart sàbhailteachd ann, leig leis an neach feuchainn, agus thoir misneachadh seach a bhith a’ gabhail thairis.
+- **Aontaich air comharra.** Tagh abairt no cromadh-cinn a tha a’ ciallachadh “tha e ceart dhut ceum a-steach,” mar eisimpleir nuair nach tig ainm ann an geama chairtean.
+- **Faighnich gu cunbhalach.** Faighnich a bheil an ìre cuideachaidh a’ faireachdainn ceart, cus no ro bheag.
 
-## Activity ideas for the early stage
+## Beachdan gnìomhachd airson na h-ìre thràth
 
-### Keep up roles and hobbies
+### Cùm suas dreuchdan agus cur-seachadan
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Cùm dealas cunbhalach.** Bheir turas saor-thoileach seachdaineil, còisir no cluba cruth don t-seachdain. Ma dh’fhàsas e duilich, is dòcha gum bi dreuchd nas giorra no nas sàmhaiche nas freagarraiche.
+- **Dèan plana bìdh còmhla.** Ma tha ceannach grosaireachd air fàs duilich, tha Alzheimer’s Association a’ moladh iarraidh air an neach cuideachadh le planadh clàr-bìdh na seachdain agus sgrìobhadh na liosta.
+- **Bruich is bèic còmhla.** Lean reasabaidh as fheàrr leotha còmhla. Cuir na grìtheidean ann an òrdugh mus tòisich sibh, gus am bi na ceumannan rim faicinn.
+- **Gàirnealaireachd.** Dèan plana airson leabaidh, tagh sìol no lusan agus dèan an obair còmhla. Cuidichidh liosta sgrìobhte de na h-obraichean gàrraidh san t-seachdain.
+- **Cùm a’ dol le obair-làimhe.** Faodaidh obair-fiodha, fuaigheal, fighe no togail mhodalan leantainn le pàtrain nas sìmplidhe agus solas math.
 
-### Games for enjoyment
+### Geamannan airson tlachd
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Cluich cairtean is geamannan-bùird.** ’S iad geamannan eòlach as fhasa. Cluich ann an sgiobaidhean gus nach bi duine sam bith fo chuideam, agus cùm an sgòr sgaoilte no na cùm sgòr idir.
+- **Feuch lorg fhaclan le clò mòr.** Faodar an [lorg fhaclan](/games/word-search/) againn a chluich air an sgrion no a chlò-bhualadh airson mionaid shàmhach.
+- **Dèan tòimhseachan.** Tagh àireamh phìosan a tha socair, chan e dùbhlanach. Tha [tòimhseachan dealbh](/games/picture-puzzle/) na dhreach goirid air an sgrion, agus tha an stiùireadh againn air [tòimhseachain airson trom-inntinn](/activities/puzzles/) a’ mìneachadh mar a thaghas tu fear.
+- **Gabh pàirt ann an trivia airson spòrs.** Tha cuid de dhaoine dèidheil air oidhche trivia ann an sgioba. Ma thòisicheas e a’ faireachdainn mar dheuchainn, tagh rudeigin eile, no feuch na [ceistean trivia furasta](/activities/trivia/) againn, aig a bheil roghainnean freagairt agus gun sgòr.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Tha geamannan airson tlachd an seo. Chan eil e air a shealltainn gu bheil geama sam bith a’ làimhseachadh no a’ slaodachadh trom-inntinn; leugh tuilleadh ann an [geamannan-inntinn: dè tha an rannsachadh ag ràdh](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Sgrìobh, meòraich agus clàraich
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Cùm leabhar-latha.** Tha Alzheimer’s Association a’ moladh leabhar-latha mar dhòigh air faireachdainnean a làimhseachadh às dèidh breithneachaidh. Tha beagan loidhnichean gach latha gu leòr.
+- **Stiùirich leabhar sgeulachd-beatha.** ’S e deagh àm a tha san ìre thràth airson an neach na dealbhan aca fhèin a thaghadh agus na sgeulachdan air an cùlaibh a sgrìobhadh no a dhìteadh. Faic [gnìomhan cuimhneachaidh](/activities/reminiscence/).
+- **Sgrìobh litrichean.** Faodaidh litir gu ogha, seann charaid no seann cho-obraiche a bhith brìoghmhor don dà thaobh.
+- **Bruidhinn tro dhealbhan.** Bidh [pairean dhealbhan](/games/photo-pairs/) a’ tionndadh dhealbhan teaghlaich gu geama maidseadh socair, agus tha [cairtean còmhraidh](/games/conversation-cards/) a’ toirt tòiseachadh furasta air còmhradh.
 
-### Go out and move
+### Rach a-mach agus gluais
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+Tha [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a’ moladh leantainn air adhart le cuairtean eòlach cho fad ’s a tha sibh fhèin cofhurtail. Dèan plana airson an àm den latha as fheàrr don neach agus na leig leotha a bhith ro fhada.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Cuairtean cultarail goirid.** Taigh-tasgaidh, taisbeanadh feasgar no taisbeanadh ealain, mas fheàrr aig àm nas sàmhaiche.
+- **Snàmh.** Tha an NIA a’ moladh amar-snàmh aig àm sàmhach den latha.
+- **Buidhnean coiseachd agus clasaichean dannsa.** Tha an [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) a’ toirt iomradh air dannsadh, tai chi, yoga, snàmh agus buidhnean coiseachd, agus seiseanan a tha càirdeil do throm-inntinn far a bheil iad rim faighinn.
+- **Buidhnean seinn agus cafaidhean cuimhne.** Buidhnean socair far am faod daoine a tha a’ fuireach le trom-inntinn agus an companaich coinneachadh ri feadhainn eile san aon suidheachadh.
 
-## Small changes that keep activities enjoyable
+## Atharrachaidhean beaga a chumas gnìomhan tlachdmhor
 
-| If this is getting harder | Try this |
+| Ma tha seo a’ fàs nas duilghe | Feuch seo |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Àiteachan trang no fuaimneach | Rach aig amannan sàmhach, tagh buidhnean nas lugha, suidh aig oir an t-seòmair |
+| Cuimhneachadh ainmean ùra | Thoir aithne do dhaoine leis an ainm gach turas; iarr air buidhnean tagaichean ainm a chleachdadh |
+| Leantainn phlanaichean ioma-cheum | Sgrìobh na ceumannan sìos, no cuir a h-uile càil ann an òrdugh an toiseach |
+| A bhith a’ fàs sgìth | Cuairtean nas giorra, fois às dèidh làimhe, gun dad eile air a phlanadh an latha sin |
+| Cumail sùil ann an geama | Cluich ann an sgiobaidhean, dèan na riaghailtean nas sìmplidhe, no leig seachad an sgòr |
+| A’ lorg fhaclan | Thoir ùine; tairg facal a-mhàin ma tha an comharra a dh’aontaich sibh ag ràdh sin |
 
-## When to slow down
+## Cuin a nì thu slaodachadh
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Stad no atharraich gnìomh nuair a bheir e barrachd cuideam na tlachd. Tha e math bruidhinn gu socair mu shàrachadh a bhios a’ tachairt a-rithist, mu bhith a’ seachnadh cur-seachad no mu bhith ag ràdh “chan urrainn dhomh tuilleadh.” Gu tric is e am freagairt dreach nas lugha den aon rud. Nuair a dh’fheumas an neach barrachd cuideachaidh gus tòiseachadh agus ceumannan a leantainn, is dòcha gum bi na beachdan ann an [gnìomhan ìre mheadhanach](/activities/middle-stage/) nas freagarraiche. Airson tuilleadh mu chòmhradh taiceil, faic [molaidhean conaltraidh](/caregiving/communication-tips/), agus airson mòran bharrachd bheachdan, faic [101 gnìomh](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Feumaidh companaich taic cuideachd. ’S e deagh àm a tha san ìre thràth airson do lìonra taice fhèin a thogail; faic [fèin-chùram luchd-cùraim](/caregiving/caregiver-self-care/).

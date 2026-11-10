@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Ayuna ukat demencia: Yatiñanakax kunas sapxi"
+seoTitle: "Ayuna ukat demencia: Yatichäwinakax kunas sapxi"
+description: "Ayuna ukat demencia uka tuqi jaqinakan yatiñanakax jisk'a ukat qalltawiyapxi. Chuymani jaqinakatakix kunanakansa jan walt'añapa, ukat demenciampi jakasirinakatakix manq'añ umañax kunatsa wali wakiskiriwa."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Ayuna ukax demencia jan puriñ ukat jan usuchañ uka tuqi walik yatiñanakax
+  janiwa utjkiti. Yatiñanakan wali askinakax animalanakan utjapxi, jaqinakan
+  yatiñanakax jisk'a ukat mayjt'ayata chuymanïpxi. Chuymani jaqinakatakix ayuna
+  jan walikiwa: lurañanakax jan amuyasa jaktañ, lurirì ch'amax jaktañ, yuqallan
+  ch'uxña uma jaktañ, umañ jaktañ ukat ch'iqtañ. Demenciampi jakasirinakatakix
+  manq'añ ukat umañ wali wakiskiriwa. Yatiri jilïru parlañamawa nayraqatapan.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Estados Unidos uka Jaqinakan Chuymani Institutopax sapki ukhamarak ayuna jan ukax manq'a jisk'achañ amtañ jan walik yatiñ utjkiti, khititix chuymani jaqinakatakis."
+  - "Ayunan ukat chuymani jaqinakan yatiñanakan walja askinakax animalanakat utjapxi, ukat ukax janiw jaqinakar mayjt'ayañ atinkiti."
+  - "Chuymani jaqinakatakix utjirixa: jan amuyasa jaktañ, lurirì ch'amax jaktañ, yuqallan ch'uxña umax jaktañ, ch'iqtañ, jan sayt'añ ukat tuqutañ."
+  - "Demenciampi jakasirinakax manq'añ ukat umañ jan amtasa jani jan amuyasa jiwasax jani manq'arakïna sasa amuyapxi. Manq'añ umañ yanapaña, kunapachas manq'añ wakiskiriwa."
+  - "Demenciampi jakasir jaqi ayunañ jan lurapxam. Manq'añ lurañ jan lurañ uk yatiri jilïru jan ukax manq'añ yatiri jilïru parlañamawa."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "¿Ayuna ukax Alzheimer jan puriñ ukat jan usuchañ ukanakax walt'arakiti?"
+    a: "Janiwa walik yatiñanakax utjkiti. Walja yatiñanakax animalanakan lurasiwa, jaqinakan yatiñanakax jisk'a sarnaqatawa, khithi jaqinakatakis, ukat ch'uxña jaqinakatakis, ukat lurirì jaqinakatakix yati. Estados Unidos uka Jaqinakan Chuymani Institutopax sapki ukhamarak ayuna manq'a amtañanakax janiw jaqinakatakix yanapt'añ atinkiti."
+  - q: "¿Ayuna ukax chuymani jaqinakatakix walikiti?"
+    a: "Janiwa walikiti. Ayunañax jan amuyasa manq'añ, lurirì ch'amax jaktañ, umañ jaktañ, jan sayt'añ, ukat tuqutañ ukanakar puriñ atinispawa. Yuqallan uma jaktañ ukat jan walik yuqallan uma jaktañ ukax ch'iqtañ jaktañaparu puriñ atinispawa. Mayo Clinic uka yatiñ utjarakix sapki ukhamarak jan walt'arakiti, khithi jaqinakatakix wali ch'iqtañ ukat tuqutañ utjki ukanakan. Ayunaña nayraqatapan yatiri jilïru parlañamawa."
+  - q: "¿Demenciampi jakasir jaqix ayunaspati?"
+    a: "Janiwa. Demenciampi jakasirinakax wali askinakampi manq'añ ukat umañ jan amtañax jan sum amuyasa, ukat jan walik manq'añax jan walik lurañanakar, lurirì ch'amax jaktañar puriñ atinispawa. Ayuna ukax janiw walik utjkiti, ukat jan walik lurañ utjaraki. Taqi uñtat manq'añ, munat manq'añanakampi ukat walja umañampi yanapt'asipxam."
+  - q: "¿Kunas uñjañanakax yatiyapxi demenciampi jakasir jaqix janiw manq'añ ukat umañ amtkiti sasa?"
+    a: "Lurirì ch'amax jaktañ, lurirì ch'amax jan askisa, jan sayt'añ, lurirì ch'amax jaktañ, ch'iqtañ, jan manq'añ ukat manq'añ jaytañ uk uñjañamawa. Jaqinakan jilïri Estados Unidos uka Jaqinakan Chuymani Institutopax yatiyi ukax, umañ jaktañ ukanakax: umañ jaktañ, lurirì ch'amax jaktañ, ch'iqtañ ukat ch'uxña ch'amampi uñjañanakax utjkaspawa. Kunapachas uñjañani ukhax jilïri jilïru parlañamawa."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Ayuna, kunjamtix jisk'a sapaki mä horas ukan manq'añ, jan ukax phisqa uru ukanakan wali jisk'a manq'añ, walja parlañanakan uñjasi, ukat khitinakatix uka ayunañ chuymanakan yatiñ jaytanipxi. Jumax jach'a mara jaqikstati jan ukax demenciampi jakasir jaqi uñjtati ukhax, jichhax kunsa yatiñanakax uñjapxi ukat kunatsa jan walt'añax wali wakiskiriwa uka yatiñ uñjasim. Uka tuqi jumax yatiñ mayjt'añaxa.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Kunanakas ch'ichhaqutanakax janiw yatiri jan ukax yatiña parlañ jaqinakan yatiñ utjkiti. Jumax janiw yatiri jilïru parlañamasa ayuna jan ukax jumax uñjtati jaqin manq'aparu umañaparu uñjañ jan lurañamawa. Mayt'asiñ [jan jiwañ yatiñ](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## ¿Ayuna demencia jan puriñ ukat jan usuchañ ukanakax walt'arakiti?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Ayuna demencia jan puriñ ukat jan usuchañ ukanakax walt'arakiti sasa janiw walik yatiñanakax utjkiti. Estados Unidos uka Jaqinakan Chuymani Institutopax (NIA) sapki ukhamarak janiw yatiñanakax utjkiti manq'a jisk'achañ ayuna ukanakax askikiti sasa, ukat walja yatiñanakax mayt'añapawa, khithi jaqinakatakix askïki, ukat khithi jaqinakatakis ukanakax jan walt'aykiti, ukat jach'a mara jaqinakatakix ([NIA ayuna ukat manq'a jisk'achañ yatiñanakan](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### ¿Kunatsa yatiñax jisk'a?
 
-The NIA gives several reasons:
+NIA sapki ukhamarak walja yatiñanakax:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Walja yatiñanakax animalanakan lurasiwa.** Qarwa, mosca, ratunaka ukat mono ukanakan yatiñanakax wali askinakampi utjapxi, ukampisa janiw jaqinakar mayjt'ayañ atinkiti. Animalanakanwa ukanakax jan ukhamakiti, jisk'a sarnaqat ukanakax jiwañ jisk'achapxi.
+- **Jaqinakan yatiñanakax jisk'a sarnaqatawa.** Walja yatiñanakax phisqa uru jan ukax paq uru sarnaqatawa.
+- **Jaqinakan yatiñanakax manq'a jisk'achañ ukar utjapxi.** Chuymani jaqinakax manq'a jisk'achañataki utjapxi, janiw amuyt'añ jan ukax demencia uka tuqi utjkiti.
+- **Jach'a mara jaqinakax jan yatiñ utjkiti.** Walja yatiñanakax 60 maranïki ukanakan jaqinakampi lurapxi.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Jichha 2026 maranxa, yatiñ uñakipaña sapki ukhamarak ayuna horas sapa jach'a mara jaqinakan. Uka yatiñax sapki ukhamarak jisk'a yatiñanakax utjapxi, jisk'a uru ukat jan mayjt'ata jaqinakampi lurapxi. Amuyt'añanakax yatiñ ukat yatiñ sarnaqat jisk'a yatiñanakat utjapxi, janiw wali yatiñ sarnaqat utjkiti. Yatiñax sapki ukhamarak jisk'a horas manq'añ jan ukax wali jach'a ayuna ukanakax jan walik uñjatäpxi, ukat yatiñ luririnakax jach'a mara jaqinakatakix jan walt'añ sapki ([2026 yatiñ Nutrients ukan](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Walja yatiri jaqinakax amuyapxi ayuna sarnaqat ukan janchix ch'ixi manq'a jan manq'añ ukat janchix luri ukhamaraki amuyañanakan jan jaktañ, ukampisa uka amuyuwix jichhürkama yatiñ sarnaqatawa. NIA sapki ukhamarak yatiñax jan sum amuytäñapa.
 
-## What are the risks of fasting for older adults?
+## ¿Kunas jan walt'añanakax utjapxi ayuna chuymani jaqinakatakix?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Ayuna walja chuymani jaqinakatakix janiw jan sum jan lurañ ukhamäkiti. Jan walt'añanakax:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Jan amuyasa manq'añ.** Janchix manq'a jisk'achañ ukat lurirì ch'amax jaktañ, ukatwa jaqix jan jiwañ jaktañ.
+- **Janchi ukat luri jaktañ.** NIA yatiñ ukan phisqa mara ayunañ, ch'uxña ukat paq mara jaqinakan janchi jan usuchañ jaktañ ukat lurirì jan walik.
+- **Yuqallan uma ch'uxña.** Insulina jan ukax yuqallan uma jaqinakax manq'a jaqi tuqu jan manq'añ, ukat wali jisk'a yuqallan uma jaktañ ([National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia)). Yuqallan uma jisk'a ukax ch'iqtañ, amuyt'añ ch'iqtañ ukat chuyma ch'iqtañ.
+- **Umañ jaktañ.** Umañ jan umañ ukat manq'añ jan manq'añ ukax jaqix umañ jaktañ.
+- **Ch'iqtañ ukat tuqutañ.** Mayo Clinic yatiyi ukax, ayuna ukax jaqix wali ch'iqtañ ukat tuqutañ jaktañ, ukat jan walik janchi jan usuchañ ukat tuqutañ jaktañ jaqinakatakix ([Mayo Clinic ayuna ukan](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Yaqha lurañanakax.** Mayo Clinic sapki ukhamarak jan walik umañ jaktañ, chuyma jan askïñ ukat luri ch'amax jaktañ, ukat ayuna 16 horas ukat 8 horas manq'añ ukax chuyma jan walik utjañ jaktañ. Uka yatiñax janiw walik sum uñjatäkiti.
 
-## Why is eating enough the bigger concern with dementia?
+## ¿Kunatsa manq'añ ukat umañ amtañ wali wakiskiri demenciampi jakasirinakatakix?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Demenciampi jakasirinakatakix jan walt'añax jakasiñax manq'añ ukat umañ, janiw wali walja manq'añ ukat umañ. Alzheimer's Association yatiyi ukax, jaqinakax madurez ukat jan walik phasñanakan ukhax manq'añ ukat umañ jan amuyasa, manq'a jan manq'añ jan ukax jan manq'añ amuyasa. Ukat sapki ukhamarak jan walik manq'añ ukax lurirì ch'amax jaktañ, ukat janchi jan usuchañ utjañ jaktañ ([Alzheimer's Association manq'añ ukat ayuna ukan](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society yatiyi ukax, jan walik manq'añ ukax janchi jan usuchañ, lurirì ch'amax jaktañ, ch'iqtañ ukat jan walik jaqi tuqutañ jaktañ, jaqin jan wali jisk'a jan ukax jan walik janchi amuyasa jaktañ ([Alzheimer's Society manq'añ ukan](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Ukanakatakix ayuna janiw walik utjkiti demenciampi jakasir jaqinakatakix.** Jan manq'añ ukax sapki ukhamarak jan manq'añ ukax jan wali jisk'achañ. Demenciampi jakasir jaqi manq'añ jan ukax umañ sarnaqat ukax yatiri jilïru parlañamawa, jan ukax manq'a jisk'achañ yatiri jilïru parlañamawa.
 
-## What are the warning signs of poor eating or drinking?
+## ¿Kunas jan walik manq'añ ukat umañ jan amtañ uñjañanakax utjapxi?
 
-Watch for:
+Uñjañamawa:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Janchi jan usuchañ**, jan ukax janchi jisk'achañ.
+- **Manq'a jan manq'añ jan ukax manq'a jaytañ**, jan ukax manq'a luk'añ.
+- **Lurirì ch'amax jaktañ.**
+- **Ch'iqtañ ukat tuqutañ.** Ch'iqtañ ukax ch'uxña jan ukax demencia uka tuqi utjañ jaktañ.
+- **Umañ jaktañ ukat jan umañ jaktañ.** NIA yatiyi ukax chuyma jan walt'añ, umañ jaktañ, chuyma ch'iqtañ, ukat ch'uxña jan amuyasa, ukanakax demencia uka tuqi jakasiñ jaktañ ([NIA jach'a mara jan walik uñjañanakan](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Manq'a jan manq'añ ukax walja mayjt'ayañanakax utjapxi: janchi jan askïñ jan ukax jan askï ch'iwiña, qala jan askï jan ukax walja jan walik manq'añ, jan askï uñjañanakax, janchi jan askïñ, ch'uxña jan jaktañ, ukat jaqi jan amuyasa. Jaqi yatiri jilïru parlañamawa uka uñjañanakar. Uka ukanakax yatiyapxi ukat yanapt'apxi.
 
-## How can you help someone eat and drink enough?
+## ¿Kunjamsa jumax yanapt'asma manq'añ ukat umañ amtañataki?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Janchi jisk'a manq'anaka ukat wali manq'a**, jan ukax kimsa jach'a manq'ana ukat.
+- **Wali munat manq'anaka**, ukat jaqix munañanakax mayjt'ayañamawa. Uma ukat manq'a sayt'añ ukax wali wakiskiri jan ukax ukhama manq'añ jan puriñ.
+- **Umañ jaktañ**, ukat janchi jisk'a qala umañ jaktañ uru ukanakan. Sopa, t'ant'a, jugo ukat leche ukax ukanakax umañ jaktañ.
+- **Chika manq'añ**, kunapachas atinisa. Manq'a ukax jakasiñ ukat tuqutañ ukat, jan apuraña.
+- **Jan jaqi manq'añanakax**, sandwich, t'ant'a, pollo ukanakax, cuchara jan ukax tenedor ukax wali jan askïñ ukhax.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Jumax [manq'a yatiñ](/brain-health/diet/) ukan walja yatiñanakax utjapxi. Manq'a lurañax sapki ukhamarak mä jakasiñ lurañ ukhamarakiwa; uñjaña [jaqi uru lurañanakan](/activities/household-tasks/).
 
-## Talk with a doctor
+## Yatiri jilïru parlañ
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Jumax janiw ayuna lurañ jan ukax yatiñ lurañ ukhamakiti. Jumax yatiri jilïru parlañamawa jan ukax manq'a yatiri jilïru parlañamawa, khithi jaqinakax yuqallan uma jaktañ, ukat yatiñ jan walt'añ ukat presión jan walik ukanakax utjki ukhax. Demenciampi jakasir jaqix yatiri jilïru parlañamawa, ayuna jan ukax ukhamarak jaqi manq'a ukat umañ kunjamsa walja ukax uru.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Ch'iqtañ ukat amuyañ jan askïñ, jan ukax ch'uxña jan askïñ ukanakax jan walt'asa, yatiri jilïru uñjañamawa.

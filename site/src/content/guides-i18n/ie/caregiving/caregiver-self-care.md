@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Self-care del cuidator: pausa, suporte e exhaustion"
+seoTitle: "Self-care del cuidator de dementie: pausa e suporte"
+description: "Signes de exhaustion, qualmen trovar pausa e suporte, e gratuit lineas de auxilie, inclusiv Alzheimer's Association Helpline 24/7 e Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Cuidar un person con dementie es desfacil, e cuidar se self es parte del
+  labor. Atende a signes de avertiment quam exhaustion, irritabilitá, mal
+  dormir e retraer se de amicos. Pete specific auxilie, usa cura de pausa, e
+  junta te a un gruppe de suporte. Gratuit auxilie in li USA include li
+  Alzheimer's Association Helpline 24/7 al 1-800-272-3900 e li Eldercare
+  Locator al 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Li exhaustion sovente monstra se quam fatiga, irritabilitá, mal dormir, tristesse e negligentar vor propri sanitari cura."
+  - "Cura de pausa da vos un pause, de quelc hores til pluri semanes, in hem o in un loc de cura."
+  - "Pete auxilie con specific tareas; multi persones vole auxiliar ma ne save qualmen."
+  - "Li Alzheimer's Association Helpline 24/7 (1-800-272-3900) oferta gratuit, confidential suporte a omni témpor."
+  - "Li Eldercare Locator (1-800-677-1116) connecte vos a local servicies, inclusiv vor Area Agency on Aging."
+  - "Si vu senti se in crise, telefona o invia un missage a 988. In un emergentie, telefona al local numeró de emergentie."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Quels es li signes de exhaustion del cuidator?"
+    a: "Comun signes include sentir se exhaustet, supercargat o anxiosi, devenir iritat o ínpatient facilmen, problemas dormir, sentir se trist o sin esperantie, retraer se de amicos, frequent dolores de cap o dolore, e saltar vor propri repastes, exercicie o medical cura. Si tal signes eveni regularmen, parla con vor medico."
+  - q: "Qualmen yo trova cura de pausa proxim me?"
+    a: "Comencia con li Eldercare Locator (1-800-677-1116 o eldercare.acl.gov) por atinger vor local Area Agency on Aging, li ARCH National Respite Locator Service, o li Alzheimer's Association Helpline al 1-800-272-3900. Familie, amicos e voluntarios posse anc provider cura de pausa."
+  - q: "Paya Medicare por cura de pausa?"
+    a: "Por un person qui recive hospice-cura, Medicare covri li max mult del coste de til quin consecutiv dies de cura de pausa in un hospital o un specialisat infermería-institution, secun li National Institute on Aging. Li max mult privat sanitari assurance ne covri cura de pausa; Medicaid e quelc planos de long-duration cura-assurance posse auxiliar."
+  - q: "Es li Alzheimer's Association Helpline vermen gratuit e disponibil in li nocte?"
+    a: "Yes. Li Alzheimer's Association di que su Helpline al 1-800-272-3900 es gratuit, confidential e personalat li tot die, 365 dies per annu, con auxilie disponibil in mult lingues. Forma 711 por un relay-servicie."
+  - q: "Es it egoistic prender un pause del cuidage?"
+    a: "No. Repose auxilia vos continuar cuidar, e cura de pausa posse dar al person quel vu cuida un change de companie e activitá anc. Multi cuidatores plu tard di que ili desira que ili hat petit auxilie plu tost."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Si vu cuida un person qui vive con dementie, vu probabilmen lee to ci tard, fatigat, e con un liste de coses qu vu ne ha fat. To es normal. Cuidar se self ne es un luxu o un premie por finir omnicos. It es quo permisse vos continuar.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ti págine tracta li signes de avertiment del exhaustion, qualmen obtener un ver pausa, u trovar suporte, e gratuit lineas de auxilie in li USA quel vu posse telefonar hodie.
 
-## What are the signs of caregiver burnout?
+## Quels es li signes de exhaustion del cuidator?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Li exhaustion sovente veni lentmen, do it auxilia saver vor propri signes de avertiment. Li [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lista signes de stress del cuidator, inclusiv:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- sentir se exhaustet, supercargat o anxiosi;
+- devenir facilmen iritat o ínpatient;
+- sentir se sol o desligat de altri persones;
+- problemas dormir, o ne dormir sat;
+- sentir se trist o sin esperantie, o perder interesse in coses quel vu antey apreciat;
+- frequent dolores de cap, dolore o altri fisic problemas;
+- ne haver témpor por exercir se o preparar san nutriment por se self;
+- saltar li duta o altri personal cura;
+- malusar alcohol o drogues, inclusiv prescription medicamentes.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+Li [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adjunte signes quam denie pri li maladie, colere contra li person ("il es solmen obstinat"), anxietá pri li futur, problemas concentrar, e problemas de sanitá quel pesa. It consilia parlar con vor medico si vu have tal signes regularmen.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Li consilie del NIA es ne atender til que vu es completmen supercargat. Nota vor signes premene e acte.
 
-## What can I do today, in five minutes?
+## Quo yo posse far hodie, in quin minutes?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Pausas litt conta. Nequi de ili remedia li exhaustion, ma ili posse auxiliar vos passar un desfacil posmidí.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Ea ex.** Sede sur li porche o marcha al boíte de lettre durant que li person es secur e calm.
+- **Respira lentmen.** Quelc lent respirationes ante que vu responde a un desfacil question. Vu posse anc partir un pausa de [Calm Breathing](/games/calm-breathing/) con li person quel vu cuida.
+- **Trinc quelc aqua e manja alquó.** It es facil obliviar vor propri repastes.
+- **Scri un missage a un amico.** Ne por petir alquó, solmen por restar in contacte.
+- **Di alquó amabil a se self.** Li [guida del NIA pri cuidar se self](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggere phrases quam "Yo fa li max bon quo yo posse", "Yo ne es perfect, e to es in órdine", e "Yo va apreciar li momentes quande noi posse esser junt in pace".
 
-## What is respite care, and how do I get it?
+## Quo es cura de pausa, e qualmen obtener it?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Cura de pausa es un cura a curt termine por li person quel vu cuida, por que vu posse reposar. Li [págine del NIA pri cura de pausa](https://www.nia.nih.gov/health/caregiving/what-respite-care) explica que it posse durar de quelc hores til pluri semanes e posse evenir in hem, in un sanitari institution o in un centre de diurn cura por adultos.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+Li [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) descri comun tipes:
 
-| Type | What it is |
+| Tipo | Quo it es |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Auxilie in hem | Un amico, parente, voluntario o payat companion o auxiliator veni al hem |
+| Centre de diurn por adultos | Planat activitás quam musica e arte in un secur gruppe; transportation e repastes es sovente ofert |
+| Nocte o curt demora | Un comunité de long-duration cura cuida li person por un nocte, quelc dies o quelc semanes |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Qui paya?** Secun li NIA, cura de pausa dat de familie, amicos o voluntarios posse costar nequó. Professional servicies charge per hore o per die. Por un person qui recive hospice-cura, Medicare covri li max mult del coste de til quin consecutiv dies de cura de pausa in un hospital o un specialisat infermería-institution. Medicaid posse auxiliar. Li max mult privat sanitari assurance ne covri cura de pausa, benque quelc planos de long-duration cura-assurance fa to.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Consilie:** Li Alzheimer's Association suggere provar providentes de cura de pausa in un ín-emergent situation, por que ili es pret si vu subitmen besona auxilie.
 
-## Where can I find help near me?
+## U yo posse trovar auxilie proxim me?
 
-Several free US services can point you to local help.
+Pluri gratuit servicies in li USA posse monstrar vos local auxilie.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association Helpline 24/7: 1-800-272-3900.** Li [Helpline](https://www.alz.org/help-support/resources/helpline) es gratuit e confidential, personalat li tot die e li tot annu, con auxilie in plu quam 200 lingues per bilingui personal o interpretes. Forma 711 por un relay-servicie. Vu posse parlar pri changes de conducte, stress del cuidator, optiones de cura de pausa, local programmas e plu, e petir un plu long conversation con un consultor de cura. Li personal ne da medical consilies.
+- **Eldercare Locator: 1-800-677-1116.** Li [Eldercare Locator](https://eldercare.acl.gov/), un public servicie del Administration for Community Living, connecte vos a servicies por old adultos e lor families. Vu posse telefonar, inviar missages, chat online o email a format personal, o serchar per loc. It posse monstrar vos vor local Area Agency on Aging.
+- **ARCH National Respite Locator Service.** Li [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) auxilia vos trovar providentes de cura de pausa per state, e suggere contactar vor State Respite Coalition o Lifespan Respite programma unesm si vor state have un. ARCH nota que it ne controla providentes, do inspecte lor experientie e antecedentes self.
 
-## How do I find a support group?
+## Qualmen yo trova un gruppe de suporte?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Pete al Helpline o sercha online gruppes proxim vos. Li Alzheimer's Association [opera gruppes de suporte](https://www.alz.org/help-support/community/support-groups) por cuidatores e persones qui vive con dementie, in person e online, ductet de format facilitatores. Multi locs anc oferta specialisat gruppes, per exemple por adult cuidatores o por persones qui vive con precoce o initial stadie Alzheimer. It anc hospeda ALZConnected, un gratuit online comunité u cuidatores parti consilies.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Gruppes de suporte posse esser un loc por exprimer se sin judicament, prender practic consilies de persones qui ha esset in li sam situation, e sentir se min sol. Si li unesim gruppe ne conveni, prova un altri.
 
-## How do I ask family and friends for help?
+## Qualmen yo pete auxilie de familie e amicos?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Es specific. Multi persones vole auxiliar ma ne save quo offerer. Li NIA suggere:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Tene un liste** de tareas quel altrui posse prender, e lassa li persones selecter.
+- **Comencia litt** si petir senti se desfacil.
+- **Adapta li tarea al person.** Li cusino quel ama cocinar aporta li cena li jovedí. Li vicino quel es bon con formularios auxilia con li paperes.
+- **Scri un missage o email** si petir visage a visage es descomfortosi.
+- **Practica un respond** por quande alquí offerta: "Gratie por demandar. To ci es quo vu posse far."
+- **Atende quelc "no"** e prova ne prender les personalmen.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Altri idees: pete a alquí seder con li person por un posmidí per semane, ducter le a un curt excursion, o visitar e luder junt. Nor [guida por luder junt](/caregiving/how-to-play-together/) es facil a partir con visitantes.
 
-## What if something happened to me?
+## Quo si alquó eveni a me?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Fa un simplic plan de resserve ja. Li NIA suggere decider con familie o proxim amicos qui va intervenir, e tener un not-libre con emergentie numerós, medicamentes, conducte-consilies quel functiona, e favorit activitás. Li Alzheimer's Association anc recomanda tener li medical contactes del person e un actualisat liste de medicamentes facil a trovar.
 
-## When should I get professional or urgent help?
+## Quande yo deve obtener professional o urgent auxilie?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Parla con vor medico si li stress-signes es regulari, si vu senti se depresset, o si vu lutta por far fronte. Di a vor medico que vu es un cuidator. Li NIA nota que consilieros e social laboreros posse auxiliar con desfacil sentimentes e planation, e que Medicare, Medicaid e quelc privat assurance posse covrir quelc costes de mental sanitá.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Si vu senti se in crise o have pensas de nocer se self, telefona o invia un missage a 988 por atinger li [988 Suicide & Crisis Lifeline](https://988lifeline.org/), gratuit e disponibil 24/7. Si alquí es in immediat dangere, telefona al local numeró de emergentie.
 
-## Can shared activities give me a break too?
+## Posse compartit activitás dar me un pausa anc?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Quelcvez. Un calm activitá quel ambi de vos aprecia posse esser un plu dulci parte del die por vos e por li person quel vu cuida: audir old canzones, regardar fotos, o un lude quam [Conversation Cards](/games/conversation-cards/) quel ne postula correct responsas. Si li person aprecia companie, un gruppe-session con [Picture Bingo](/games/picture-bingo/) in un centre por seniores o un adult-diurn programma posse dar vos un hore de cura de pausa. Vide [activitás por gruppes in domes de cura](/activities/care-home-groups/) por idees.

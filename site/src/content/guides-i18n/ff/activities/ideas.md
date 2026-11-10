@@ -1,34 +1,34 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Golle ngam yimɓe ɓe ngondi e ñawndugol hakkille: 101 miijooji"
+seoTitle: "Miijooji golle ngam ñawndugol hakkille: 101"
+description: "101 golle weeɓɗe, mawɗe ngam yimɓe ɓe ngondi e ñawndugol hakkille, gila e foɗɗude taawe haa e gaaci e nate, e no mbaylortaa kala heen so ɗum ɓeydii saɗdeede."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Golle moƴƴe ngam yimɓe ɓe ngondi e ñawndugol hakkille ko ɗe ɓe nganndunoo,
+  ɗe mawɗe tee weeɓɗe waɗdeede e koye: foɗɗude comci, suɓaade geɗe, defaade,
+  gaaci, ndaarde nate, yaade, remru, waktuuji e colli, e fijirde weeɓɗe. Suɓo
+  ko neɗɗo oo yiɗnoo waɗde sahaa kala, waɗan mo geɗe ɓurɗe saɗdeede, tee dartin
+  so o tampii. Waktuuji belɗi ɗi ngonɗon e koye ɓuri himmude e timminde kala huunde.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Fuɗɗo e nguurndam neɗɗo oo: golle makko, ko o yiɗnoo waɗde, diine makko e gaaci makko ɓurɗi yiɗeede ko ɓuri moƴƴude e dowrowol."
+  - "Waɗ feere kala no weeɓiri nii so ina waɗɗii: usta peeje, usta cuɓagol, aan waɗa geɗe ɓurɗe saɗdeede."
+  - "Ndaarde tan, jogagol huunde walla jooɗaade tan sara makko ina jogoree ko jeyeede e golle ɗee."
+  - "Dartin walla waylu so a yiyii tampere, ŋakkeende walla ɓooygol. Dartingol law ina battane moƴƴere."
+  - "Waɗde ɗum e koye ɓuri himmude e waɗde ɗum no feewi."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Hol golle moƴƴani neɗɗo mo ngonɗo e ñawndugol hakkille?"
+    a: "Ko golle ɗe neɗɗo oo waɗnoo e duuɓi keewɗi, waɗiraaɗe seeɗa no weeɓiri nii: foɗɗude comci, joɗɗinde taabal, defaade, gaaci, ndaarde nate, yaade, remru e waktuuji e colloo. Suɓo geɗe ɗe njogori ɗe mawɗe tee naftorɗe, tee mbaɗon ɗe e koye."
+  - q: "Ko foti golle ɗee ɓooyeede?"
+    a: "Alaa dumunna feewɗo. Hojomaaji seeɗa tan e foɗɗude taawe ina mbaawi yonude ñalnde goo, tee waktuuji keewɗi e ngalbi ina mbaawi weeɓande ñalnde woɗnde. Accu neɗɗo oo feewna dumunna makko tee dartin tawi ina weli tawo."
+  - q: "Hol ko waɗetee so neɗɗo oo salii waɗde huunde?"
+    a: "Taa tiiɗin mo. Salaare ina waawi firtude wonde golle ɗee ina kaɗi mo, walla dumunna oo feewaani, walla omo tampi walla omo ŋakki weleede. Eto kadi yeeso, hokku mo yamre ɓurnde weeɓde, walla fuɗɗo golle ɗee aan e hoore maa sara makko tee noddu mo wallitoo."
+  - q: "Fijirɗe hakkille ina moƴƴani yimɓe ɓe ngondi e ñawndugol hakkille?"
+    a: "Fijirɗe ina mbaawi wonde feere belnde ngam faggitde waktuuji e koye, kono alaa fijirde holliraande safrude, neƴƴinde, walla dartinde ñawndugol hakkille. Suɓo fijirɗe ɗe aldaa e dumunna koƴaaɗo, limre walla hitooji jaabawol bonngol, tee jogor ɗe ko golle waɗirteeɗe e koye, wonaa ƴeewndooji."
+  - q: "Hol no haɗir-mi golle ɗee yiyeede wa paykun?"
+    a: "Huutoro geɗe goonga, mawɗe: taawe goonga, defte defgol goonga, gaaci mawɓe, kaɓirɗe naalankaagal mawɗe, e nate jogiiɗe loowdi mawɗi. Hollu golle ɗee ko wallitorde moƴƴere nde coklu-ɗaa goonga, tee haaldu e neɗɗo oo ko wa mawɗo mo o woni."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +50,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Golle ɓurɗe moƴƴude ngam neɗɗo mo ngonɗo e ñawndugol hakkille ko ko o anndunoo waɗde, waɗiraa ko weeɓi seeɗa tee waɗiraa e koye neɗɗo mo o hoolii. Les ɗoo ko 101 miijooji, renndinaaɗi e fannuji, kala heen ina waɗi no waɗirtee e no weeɓiniraa so ɗum ɓeydii saɗdeede. A soklaani kaɓirɗe keeriiɗe, tee a soklaani timminde hay huunde. Njalawma belɗo ina waawi wonde korbo taawe gooto e kafe e koye.
 
-## How do you choose the right activity?
+## Hol no cuɓirtaa golle moƴƴe?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Suɓor neɗɗo oo, wonaa doggol ngol: fuɗɗo e ko o yiɗnoo waɗde sahaa kala e ko o waawi waɗde hannde no weeliri.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Miijo e golle makko e ko o yiɗnoo waɗde.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ina wasiyaa wonde neɗɗo gollunooɗo e biro ina waawi weltaade e suɓaade mbuuɗu walla joɗɗinde ɓatakuuje, tee remooɓe ina mbaawi weltaade e golle ngalbi.
+- **Tesko ko o waɗi kanko tigi.** So baaba maa ina fiya bernde galle kala subaka tawi noddaaka, waɗ ɗum e nder ñalawma makko.
+- **Teppiro ko kaɗata mo.** Tampere, yiytere, nannde, juuɗe muusuɗe e darorde ina himmi fof.
+- **Ndaaraa ngonka makko.** Golle keewɗe hito ina moƴƴani woɓɓe, kono ina hulɓina woɗɓe.
+- **Hokku ɗum faandaare.** Foɗɗude sarwiyeeji ngam hiirde juulirde ina jogii nafoore ɓurnde e huunde waɗiraa tan.
 
-### A rough guide by stage
+### Dowrowol seeɗa e daawal ngal
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Ñawndugol hakkille ina heewi siforaade e daawal gadanal, hakkundewal e sakkitoro. Ɗee ko innde tan, wonaa keɓe, tee yimɓe heewɓe ina njogii ñalɗe ɓurɗe moƴƴude e ɓurɗe saɗdeede, ɗum noon ndew ɗe ko njiy-ɗaa hannde. [Doggol Alzheimer's Foundation of America e daawal kala](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ina jokki e feere wootere.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Fannu | Daawal gadanal | Daawal hakkundewal | Daawal sakkitoro |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Ko ina waawi yiyeede | Ena hoore mum seeɗa; teppitagol, inɗe kese e nokkuuji keewɗi yimɓe ina ɓeydoo saɗdeede | Ena sokli ballal ngam fuɗɗaade e ngam peeje; konngi ina ɓeydoo saɗdeede | Ena sokli ballal e ko heewi e toppitagol ñalawma kala; ko mettatee ina himmi ɓurɗe |
+| Golle ɗe ina keewi yahdude | Kartaaji, fijirɗe taabal, defgol, remru, winnditagol, yaaduuji, fedde | Foɗɗude comci, suɓaade geɗe, peeje defgol weeɓɗe, yimde, defte nate, yaaduuji dowraaɗi | Gaaci ɓurɗi yiɗeede, moƴƴingol juuɗe, geɗe noowɗe jogeede, jannaade, jooɗaade yaasin |
+| Darnde maa | Koyɗo: naamno hol ballal mo o yiɗi | Joɗɗin geɗe, hollu, waɗ geɗe ɓurɗe saɗdeede | Addan mo golle ɗee; wonde e makko ko ɗum woni golle ɗee |
+| Miijooji goɗɗi | [Daawal gadanal](/activities/early-stage/) | [Daawal hakkundewal](/activities/middle-stage/) | [Daawal sakkitoro](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Hol no fuɗɗortaa golle e neɗɗo mo ngonɗo e ñawndugol hakkille?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Fuɗɗo no weeɓiri, fuɗɗo sara makko, tee waɗ ɗum no weeɓiri jaabaade eey. Yimɓe heewɓe ina keddii e yiɗde jeyeede, kono ina ɓeydoo saɗande teppitde walla fuɗɗaade.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Suɓo waktu ɓurɗo moƴƴande mo,** heewi ko subaka.
+2. **Joɗɗin kala huunde law** ngam mbaawaa fuɗɗaade kisan.
+3. **Naamno ballal, wonaa ƴeewndo:** "Aɗa waawi wallude mi e ɗee geɗe?"
+4. **Fuɗɗo e hoore maa.** Foɗɗu taawol gadanol tee accu o jeya e ma. Hollude ina ɓuri siforaade.
+5. **Hokku feere woore tan e sahaa gooto.**
+6. **Waɗ geɗe ɓurɗe saɗdeede.** Alzheimer's Association ina wasiyaa ɓetde geɗe defgol aan e hoore maa, caggal ɗuum ndokkaa mo girbal ngam hiilnude.
+7. **Accu ɗum waɗe no o yiɗiri.** Taawe foɗɗaaɗe no feewaani ina moƴƴi.
+8. **Dartin so ɗum nattii weltinde.** Yiilagol, moƴƴingol yeeso walla "mi waawaa" ko maandeeji dartingol walla waylugol.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Ndaaraa kadi [no fijirtee e koye](/caregiving/how-to-play-together/) e [ballitte haala](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Golle ñalawma kala e galle
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Golle galle ko geɗe ɓe nganndunoo tee naftorɗe, ɗum noon ko nokku moƴƴo ngam fuɗɗaade. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ina janta loowgol laaɓe, joɗɗinde taabal, fiyde, suɓaade ɓatakuuje e foɗɗude comci e golle ɗe yimɓe mbaawi weltaade. Ɓeydu heen ina tawaa to [golle galle](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Foɗɗu taawe ngulɗe.** Hibbin korbo iwde e masiŋ yilninoowo to taabal tee foɗɗon e koye. Yeeso, moƴƴinde e joɗɗinde ina nafa kadi.
+2. **Jokkondir calze.** Fuɗɗo e nooneeji ceertuɗi no feewi. Yeeso, suɓaade jalɓuɗe e niɓɓuɗe ina yonude.
+3. **Joɗɗin taabal.** Hokku fannu gooto tan e sahaa gooto. Joɗɗin nokku gooto aan e hoore maa ko yeru.
+4. **Loow walla fiin laaɓe.** Ndiyam ngulɗam, saabunde e laaɓe ɗe pelataa. Fiinde tawi omo jooɗii ina weeɓan koyɗe.
+5. **Fiin taabal.** Hokku mo dolokke ɓuuɓɗe caggal ñaamdu. Ko golle goonga ngam juuɗe ɗe njaɓɓataa.
+6. **Suɓo ɓatakuuje.** Defte e ɓatakuuje bonɗe e "moofta" e "bugo." Woppu ɓatakuuje jawle goonga.
+7. **Tay kuupoŋaaji.** Makasiiji mariiji laaɓɗi e defte jeeygu. Yeeso, huutoraade ñaamduuji ɓurɗi yiɗeede ina moƴƴi kadi.
+8. **Suɓo mbuuɗu.** Suɓo mbuuɗu e taaɗe walla naatnu ɗe e kaayitaaji. Woppu geɗe tokoose so neɗɗo oo ina naatna geɗe e hunduko.
+9. **Fiy walla momtu buɓɓe.** Fiyaaɗo fayo e bernde galle, walla momtorde buɓɓe juutnde huutoraande tawi omo jooɗii e jooɗorde.
+10. **Wallu defde ñaamdu.** Loowgol li'eeje, seekde salaat, hiilnude. Aan toppitoo labbe e nguleendi.
+11. **Defu deftere ɓesngu.** Huutoro kartal ngal e jungo makko so ina woodi. Yeeso, omo waawi wonde meeɗoowo.
+12. **Waɗ golle biro.** Foɗɗu ɓatakuuje, naatnu ɗe e tammbereede, walla mbinndon doggol coodguuli e koye.
 
-## Music
+## Gaaci
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Gaaci ɗi neɗɗo anndi ina mbaawi yettaade yimɓe hay so konngi ina ɓeydoo saɗdeede. [Ballitte gaaci Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ina wasiyaa gaaci anndaaɗi, alaa ɓaŋŋine e ñifde tele. Ndaaraa [golle gaaci](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Waɗ doggol gaaci makko.** Gaaci iwɗe e sukaaɓe makko, jombaagal makko, juulirde makko e aada makko.
+14. **Yimdu e makko.** Fuɗɗo yimde aan e hoore maa. Huninoore walla heɗaade ina jogoree.
+15. **Reen diidol ngal.** Juppu juuɗe, fiy koppe walla fiy ndunngu. Ina moƴƴi tawi omo jooɗii tee e daawal sakkitoro.
+16. **Amaj.** Amaj seeɗa e defirde, walla dillinaade tawi ngonɗon e jooɗaade e jogaade juuɗe.
+17. **Fijnu albom timmungol.** Deftere gaaci nde o yiɗi gila fuɗɗoode haa timma, e kafe tawi alaa huunde woɗnde.
+18. **Haaldu e gaaci ɗii.** Noddu tinndi, wonaa jaabawuuji goonga: "Haalan am fii amaaje ɗe njillunoo-ɗaa."
+19. **Ndaaraa fijirde amaj walla konsertu.** Fijirde nde o yiɗnoo ina waawi wonde kikiiɗe belɗe. Dartin sahaa kala.
+20. **Fijnu kaɓirgal gaaci ngal o anndi.** Fijinoowo piano ina waawi weltaade e gaaci weeɓɗi; yeeso, tonngoode seeɗa e koye.
+21. **Heɗo gaaci ɗe ngoni e yeeso.** Konsertu leydi walla woɗɗitorde diina juutaani. Jooɗo sara yaltirde.
 
-## Reminiscence: photos, objects and stories
+## Ruttorde e ko ɓenni: nate, geɗe e tinndi
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Weltodon e ko ɓenni tawa on ƴeewndaaki ɗum. Woppu "Aɗa siiftori...?" e "Ko hombo woni ɗoo?" tee huutoro noddaandu udditɗo. Ndaaraa [golle siftorde](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Ndaaraa deftere nate.** Haal ko njiy-ɗaa: "Ko dolokke belɗo. Haalan am fii ndee ñalnde." Yahdu e inɗe kala ɗe o huutori.
+23. **Waɗ boyet ciiftol.** Boyet tampere jogiiɗo geɗe iwɗe e nguurndam makko, wa kartal gollal walla kartal defgol. Yaltin geɗe ɗee gootel gootel.
+24. **Fuɗɗo deftere tinndi nguurndam.** Nate seeɗa tan e hello kala e binndol mawngol. Ina walla ballooɓe hesɓe anndude neɗɗo oo.
+25. **Huutoro karte yeewtere.** [Karte yeewtere](/games/conversation-cards/) ina renndina natal e naamnal udditngal.
+26. **Waɗ fijirde nate ɓesngu.** [Photo pairs](/games/photo-pairs/) ina wayla nate maa e fijirde jahdingol.
+27. **Ndaaraa widewooɓe galle walla tele ɓooyɗo.** Mbaɗon yewtere e dow mum, tawa naamndaaki naamne.
+28. **Mem geɗe iwɗe e golle makko ɓennuɗe.** Kurfa, doktoor kaɓirgal, walla deftere limoore. Juuɗe ina keewi ɓamtaade tinndol.
+29. **Defu ñaamdu ne'aaɗo.** Omo waawi hiilnude, meeɗde walla jooɗaade tan e ma e defirde.
+30. **Ndaaraa kartal nokkuuji ɗi o wuurnoo.** Rew e laawol anndangal e kartal mawngal tawi ngonɗon e haalde.
 
-## Creative activities
+## Golle tago
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Naalankaagal ko waɗde, wonaa ko timmi. Huutoro kaɓirɗe mawɗe tee kisɗe. Ndaaraa [naalankaagal e golle juuɗe](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Naalno e ndiyam-noone.** Kaayita ɓuuɓɗo, nooneeji seeɗa. So fuɗɗaade ina saɗi, dowron e diidi gadani ɗii e koye.
+32. **Noonno mbaydiiji mawɓe.** Piindi walla mbaydiiji leppi, wonaa nate paykun. [Kelle amen noorɗe](/games/coloring/) ina golla e yaynirde walla binndaa.
+33. **Waɗ kolaaž.** Tay nate iwɗe e defte e ngalbiiji, motaaji walla ñaamduuji tee ɗakkitaa ɗe. Yeeso, suɓaade nate tan ina yonude.
+34. **Joɗɗin piindi.** Piindi coodaaɗi e jeeyirde e faandu. Yeeso, calɗi seeɗa e faandu tokooso.
+35. **Ɓoow walla waɗ kroose e koye.** Gori weeɓɗi e meeɗe mawɗe. Yeeso, waɗtude gaara e ɓalli.
+36. **Waɗ karte ɓesngu.** Maandeeji, siifannde walla mbaydi ngam karte danynde walla jam e yimɓe goonga.
+37. **Mbaylu leydi yilataa ko yaawi.** Tiindin laaɓal tokoosowal. Huutoro kaɓirɗe ɗe mbaɗataa bone tee won sara makko.
+38. **Ŋorol e feewnude leɗɗe.** Kaɓirgal suudu colli taƴaangal e kaayita ŋorɗo, alaa masiŋuuji doole. Ndaaraa [golle ngam worɓe](/activities/for-men/).
+39. **Winndu walla hollit ɓatakuure.** Fayde e taaniraaɗo walla yigiɗo ɓooyɗo. So winndude ina saɗi, omo haala tee aan mbaɗaa winndude.
 
-## Outdoors and gardening
+## Yaasin e remru
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Weeyo laaɓɗo e ndaygu ina mbaawi wonde wondude moƴƴude. Ndaaraa [golle yaasin e remru](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Nduppin lekki.** Faandu tokooso e faanduuli seeɗa. Nduppinde ñalnde kala ina addana ñalawma ndee feere.
+41. **Aaw e faandu.** Waɗ ɗum e taabal ngam hay gooto sujataa. Cooɗi ina ɓuri weeɓde e abbuuja.
+42. **Ittu puɗi walla tay piindi ɓooyɗi.** Woro ganteeji, leydi tokoosi tan e sahaa gooto.
+43. **Aattu haako.** Nokku tokooso. Yeeso, jogaade buus oo udditii ko golle goonga.
+44. **Yah e laawol anndangal.** Wilwil galle walla haa kaayitaaji. Juutde seeɗa ina moƴƴi.
+45. **Jooɗodaa yaasin e koye.** Jooɗorgal bernde galle ñalnde ɓuuɓnde. Ndaaraa duule walla yimɓe ɓe njaɓɓata.
+46. **Ñammin colli.** Hebbinir ñamminorde e koye tee ndaaraa iwde e henorde.
+47. **Loow oto.** Buus, lappol, kiikiiɗe ɓuuɓɗe. Loowgol ceŋe ina golle feere gootel moƴƴo.
 
-## Sensory activities
+## Golle mettorgal
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Memugol, uuragol, meeɗugol, nanugol e yiytere ina ɓeydoo himmude so ñawndugol hakkille ɓeydii yeeso. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ina janta gaaci, geɗe jogeede e moƴƴingol juuɗe ngam daawal sakkitoro. Ƴeewto ko addata ŋakkeende weleede e geɗe ɓoɗɗooji tawo; ndaaraa [golle mettorgal](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Moƴƴin juuɗe.** Naamno tawo tee huutoro nebban seeɗa. Suɓo ko aldaa e uuragol so a anndaa e ɓalndu walla ŋakkeende weleede.
+49. **Mem dolokkaaji.** Korbo jogiiɗo velours, korduroy, gaara e saatin ngam moƴƴinde e foɗɗude.
+50. **Uur puɗi e kafe.** Moƴƴin nantooje kese walla romarin hakkunde hoƴɗe maa. Woppu uuraje caɗɗuɗe so ina woodi caɗeele foofaango.
+51. **Fiilo gite makko.** No weeɓiri, no neɗɗiri, so omo weltii.
+52. **Lollin dolokke ɓuuɓɗe.** Ngam juuɗe e yeeso ñalnde ɓuuɓnde. Ƴeewto nguleendi ndii tawo.
+53. **Ƴeewto tablier golle.** Butoŋaaji mawɗi e fermetuuji ɗakkaaɗi no moƴƴi. Ƴeewto hay huunde waawaa yaltude.
+54. **Lollinon ñaametee belɗo.** Coɗɗi seeɗa, e noone mo o waawi ñaamde no hisiri.
+55. **Fijnu hitooji tago.** Toɓo, bempe walla colli e sawto les.
+56. **Ndaaraa huunde yahaande no feewiri.** Weendu liƴƴi, widewoo tago walla niilawal yanaango.
 
-## Games and puzzles
+## Fijirɗe e caɗeele
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Fijirɗe ina ngolla so alaa dumunna koƴaaɗo, limre walla tiiɗnaare. So gootel fuɗɗiima anndeede wa ƴeewndo, waɗ ɗum. Ndaaraa [suɓaade jaaɓnirɗe e fijirɗe](/caregiving/choosing-apps-and-games/) e [fijirɗe hakkille](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Jahdin nate.** [Picture pairs](/games/picture-pairs/) ina waɗa nate ɗee udditaa, ɗum noon ko yiiyde, wonaa siiftorde.
+58. **Yiy natal gootal.** [Find the same](/games/find-the-same/) ina hokka cuɓe ɗiɗi haa nayi. Mbaɗon yeewtere e natal kala.
+59. **Suɓo e korbooji.** [Sort together](/games/sort-together/) ina wa'i no suɓaade calze e yaynirde.
+60. **Waɗ pazol jogiiɗo pecce mawɗe.** Nate mawɗe, limre pecce weeɓnde. [Picture puzzle](/games/picture-puzzle/) ina waɗa natal fof ina yiya. Ɓeydu heen ina tawaa to [pazole ngam ñawndugol hakkille](/activities/puzzles/).
+61. **Fijir fijirde karte ɓooynde.** Ko o fijirnoo e duuɓi keewɗi. Yeeso, suɓaade karte ɗee e noone ko fijirde e hoore mum.
+62. **Fijir domino.** Jahdin cakke ɗee. Yeeso, joɗɗinde tan pecce ɗee ina moƴƴi.
+63. **Eto yiytugol konngi binndol mawngol.** [Word search](/games/word-search/) amen ina jogii konngi kañum e les tan, tee ina binndoo.
+64. **Timminde konguɗi anndaaɗi.** [Finish the saying](/games/finish-the-saying/) ina addana hollirde timmoode ndee sahaa kala.
+65. **Fijir bingo nate.** [Picture bingo](/games/picture-bingo/) ina moƴƴani ɓesnguuji e pelle. Wallu maandinde karte ɗee no weliraa.
+66. **Fijir dammeeji.** Woppu sarɗiiji ɗii no weeɓiri. Dillinde pecce ɗee tawi ngonɗon e haalde ina jogoree.
 
-## Movement
+## Dillere
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA ina wasiyaa yaaduuji, weloo daroowo, ɓoggi poccuɗi, weddaade ɓallal noowngal walla baloŋ, ɓamtaade kaaruuje suppu e widewoo dillere ngam mawɓe. Yewtidu e safroowo tawo fuɗɗaade hay huunde hesere, tentini so ina woodi caɗeele darorde.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Weddaade baloŋ.** Njooɗodon yeeso e yeeso. Omo dilloo no feewiri, ɗum noon ina weeɓi nanngude.
+68. **Jokkondir e widewoo dillere jooɗaaɗo** waɗiraaɗo mawɓe, sara sara.
+69. **Poccu e ɓoggol.** Fooɗtugol juuɗe no weeɓiri e ɓoggol fayo tawi omo jooɗii.
+70. **Ɓamtude kaaruuje suppu.** Ɓamtugol juuɗe no feewiri, ina waawi wonde e gaaci.
+71. **Woor weloo daroowo.** Hojomaaji seeɗa tan no weeɓiri, tawi ngon-ɗaa sara makko.
+72. **Amaj e dolokkaaji.** Dillina dolokkaaji faya ɗi e gaaci, jooɗaaɗo walla daroowo.
+73. **Yah e faandaare.** Neldu ɓatakuure walla cood kafe. Dalilla yahde ina waɗa ɗum no ɓuriri weleede.
+74. **Lollinon fooftere weeɓnde.** Leeltodon e koye e [foofaango deeƴngo](/games/calm-breathing/).
 
-## Social activities
+## Golle renndo
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Wondude e woɗɓe ina himmi hay so inɗe ina ɓeydoo saɗdeede, tee pelle tokoose ina ɓuri weeɓde e pelle mawɗe. NIA ina hollita wonde neɗɗo ina waawi waasde siiftorde ko hombo jilliiɗo oo, kono kadi omo waawi weltaade e wondude. Ndaaraa [njillu](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Njaɓɓo jilliiɗo gooto walla ɗiɗo tan e sahaa gooto.** Njillu juutuɗo e suudu deeƴngu, e nate ngam ndaarde.
+76. **Widewoo noddugol ɓesngu.** Noddite juutataaɗe, sawto gooto tan e sahaa gooto. Ndaaraa [noddaandu telefoŋ e widewoo](/activities/phone-and-video-calls/).
+77. **Eto kafe ciiftol.** Kawte dewlitaaɗe ngam yimɓe ɓe ngondi e ñawndugol hakkille e toppitiiɓe maɓɓe. Naamno fedde wallitorde mawɓe e nokku maa ko woni sara mon.
+78. **Ñaamto yaasin e waktu deeƴngo.** NIA ina wasiyaa jeeyirde ñaametee anndaande, deeƴnde e waktu mo yimɓe ŋakkiri, e taabal sara nokku loowdi.
+79. **Yillo suudu mawɓe walla eɓɓoore ñalawma.** Wondude e woɗɓe ngam makko tee fooftere ngam maa.
+80. **Waktuuji e sukaaɓe.** Njillu juutuɗo, deeƴngo iwde e taaniraaɓe, walla jannaade deftere nate ngam paykoy tokoosowoy.
+81. **Lollinon jaaynde e kafe.** Janu tiitooɗe dow sawto. Gollal ngal ina himmi ɓurɗe e kabaaruuji ɗii.
+82. **Wallu neɗɗo goɗɗo.** Foɗɗu eɓɓooje juulirde walla waɗ kartal ngam kawtal.
 
-## Faith and spiritual activities
+## Golle diine e ruuhu
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Jokkondir e dewal neɗɗo oo, walla hay gootal. NIA ina wasiyaa jokkondire anndaaɗe, janngooji, gaaci hormaaɗi, du'aaji, miijooji deeƴɗi e gollal mawluuji.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Yah kawtal anndangal.** Suɓo kawtal ɓurngal deeƴde, jooɗo sara laawol, tee hollu yimɓe wonɓe ton fii ñawndugol hakkille ngal.
+84. **Ndaaraa kawtal e enternet** ñalɗe ɗe yaltude ina ɓeydoo saɗdeede.
+85. **Toron walla njanngodon e koye.** Konngi anndaaɗi, janngiraaɗi no feewiri. Omo waawi tawtude e geɗe ɗe o anndi.
+86. **Yimdon beytiiji walla gaaci hormaaɗi** iwɗe e dewal makko.
+87. **Reen gollal mawluuji.** Kandelaaji pil, du'aare, mbaydiiji ɗi o huutornoo sahaa kala.
+88. **Lollinon waktu deeƴngo.** Njooɗodon e ngalbi walla ndaaraa naange muta e koye.
 
-## Pets and animals
+## Colli e daabeeji
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA ina wasiyaa ñamminde, fiilde, yahdinde, walla jooɗaade e jogaade colloo.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Fiilo rawaandu deeƴndu walla mbaroodi** e diidi juutɗi, deeƴɗi.
+90. **Ñamminon colloo oo e koye.** Aan ɓetdaa; omo hibbin.
+91. **Yahdindon rawaandu ndun e koye.** Aan jogii ɓoggol ngol.
+92. **Jogor colloo e koppi.** Mbaroodi deeƴndi e leppi ina waawi deeƴninde no feewi.
+93. **Njaɓɓo daabeeji jillotooɗi.** Won e cuuɗi toppitagol e eɓɓooje ñalawma ina keɓa njillu daabeeji. Naamno nokku maa.
+94. **Hokku colloo noowɗo nannduɗo e goonga.** So alaa colloo, woɓɓe ina njiɗi jogaade rawaandu walla mbaroodi noowndi nanndundi e goonga. Hokku ɗum no feewiri, wonaa wa fijirde, tee jaɓ salaare.
 
-## Seasonal activities
+## Golle dumunnaaji
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Reen gollal ngal, kono waɗ ɗum no weeɓiri. NIA ina wasiyaa wonde goonga e heɓude nokku deeƴngu ngam fooftere e mawluuji keewɗi.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Mbaylu ngam dumunna oo.** Yeɓɓeere, mbaydi bernde walla piindi kese e taabal.
+96. **Waɗ ñaametee mawlu.** Taggo mburu walla waɗ nebbam e bisikee. Aan toppitoo tandu.
+97. **Kippu mbaydiiji.** Cakkitiiɗi ɗi pelataa, kokkiraaɗi gootel gootel.
+98. **Yah yiide annoore.** Yillo kikiiɗe juutuɗo naamnataako so wonaa wondude.
+99. **Aaw abbuuja duungol.** Dugnugol abbuuja e faandu e waktu caangol tee ndaaraa puɗi ɗii yalta.
+100. **Ɓoortu maayo walla seeɓ pis.** Golle bernde galle ceeɓu e lahal e koppi.
+101. **Winndu karte mawluuji.** Omo siifa, omo waɗa tammbere walla omo omba; aan toppitoo ñiiɓirde.
 
-## What if an activity is not working?
+## Hol ko waɗetee so golle ɗee ngollaaki?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Dartin, tee eto huunde woɗnde sahaa goɗɗo. NIA ina wasiyaa ndaarde ŋakkeende weleede tee accu neɗɗo oo ndaara tan so omo yiɗi. Salaare ina heewi firtude wonde golle ɗee ina kaɗi, walla waktu oo feewaani, walla ina woodi huunde woɗnde ɓeydoonde mo, wa muusre, heege walla hito. Waɗ ɗum no weeɓiri, eto law subaka, walla fuɗɗo ɗum aan e hoore maa tee ndaaraa so omo tawtude. Ndaaraa [so o wiyi alaa](/caregiving/when-they-say-no/) e [jaɓɓagol kikiiɗe](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Ngam joɗɗinde golle ɗee hakkunde ñaamdu e fooftere, ndaaraa [feere ñalawma deeƴnde](/activities/daily-routine/). Ngam geɗe ɗe mbaaw-ɗaa hebbinde, ndaaraa [golle binndeteeɗe](/activities/printable/), tee so aɗa ardii dental, [golle dental toppitagol](/activities/care-home-groups/). Fooftere maa kadi ina himmi: ndaaraa [toppitagol hoore maa](/caregiving/caregiver-self-care/).

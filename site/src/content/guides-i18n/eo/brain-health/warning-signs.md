@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Fruaj signoj de demenco kaj kiam vidi kuraciston"
+seoTitle: "Fruaj signoj de demenco kaj kiam vidi kuraciston"
+description: "Oftaj fruaj signoj de demenco, kiel ili diferencas de kutima maljuniĝo, trakteblaj kaŭzoj de memorproblemoj kaj kiel prepariĝi por vizito al kuracisto."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Memorperdo, kiu ĝenas la ĉiutagan vivon, malfacilaĵoj pri konataj taskoj, konfuzo pri tempo aŭ loko,
+  kaj ŝanĝoj en humoro aŭ juĝkapablo povas esti fruaj signoj de demenco. Multaj aliaj statoj, inkluzive de
+  tiroidaj problemoj, malalta vitamino B12, kromefikoj de medikamentoj, depresio kaj dormproblemoj, povas kaŭzi
+  similajn ŝanĝojn. Nur kvalifikita kuracisto povas fari diagnozon. Subita konfuzo bezonas urĝan helpon.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Okaza forgesemo estas ofta dum maljuniĝo; ŝanĝoj, kiuj ĝenas la ĉiutagan vivon, indas esti kontrolitaj."
+  - "La Alzheimer's Association priskribas 10 avertajn signojn, ĉiu kun tipa ŝanĝo ligita al aĝo por komparo."
+  - "Tiroidaj problemoj, malalta vitamino B12, kromefikoj de medikamentoj, depresio, infektoj kaj dormproblemoj povas ĉiuj influi memoron, kaj iuj estas trakteblaj."
+  - "Nur kvalifikita kuracisto povas diagnozi demencon; interretaj kvizoj kaj memtestoj ne povas."
+  - "Konfuzo, kiu aperas subite, dum horoj aŭ tagoj, povas esti deliro kaj bezonas urĝan medicinan helpon."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Ĉu forgesemo estas normala parto de maljuniĝo?"
+    a: "Iagrade jes. La National Institute on Aging diras, ke okaze mismeti aferojn aŭ forgesi fakturon kutime estas milda, aĝrilata forgesemo. Demenco ne estas normala parto de maljuniĝo. Memorproblemoj, kiuj malfaciligas ĉiutagajn taskojn kiel stiri, uzi la telefonon aŭ trovi la vojon hejmen, indas esti kontrolitaj ĉe kuracisto."
+  - q: "Ĉu memorproblemoj povas havi alian kaŭzon ol demenco?"
+    a: "Jes. La National Institute on Aging mencias, interalie, tiroidajn, renajn aŭ hepatajn problemojn, kromefikojn de medikamentoj, deprimon kaj maltrankvilon, malaltan vitaminon B12, trouzon de alkoholo, dormproblemojn, infektojn kaj kapvundojn. Iuj el tiuj povas pliboniĝi post traktado, kaj tio estas unu kialo, kial medicina kontrolo gravas."
+  - q: "Ĉu mi povas testi iun pri demenco hejme?"
+    a: "Ne. Nur kvalifikita kuracisto povas diagnozi demencon, uzante medicinan historion, korpan ekzamenon, testojn pri memoro kaj pensado, laboratoriajn testojn kaj foje cerbajn bildigojn. Eĉ la mallongaj testoj, kiujn kuracistoj uzas, ne sufiĉas solaj por diagnozi demencon."
+  - q: "Kion mi faru, se iu subite iĝas konfuzita?"
+    a: "Tuj serĉu medicinan helpon. Subita konfuzo povas esti deliro, kiun la VA priskribas kiel medicinan urĝaĵon. Voku tuj la kuraciston de la persono aŭ voku 112, restu kun la persono kaj notu iujn ajn medikamentojn, kiujn li aŭ ŝi prenas."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Rimarki ŝanĝojn en via propra memoro, aŭ en la memoro de iu kara al vi, povas esti timiga. Ĉi tiu paĝo povas helpi vin decidi, kiam fari kuracistan rendevuon kaj kiel prepariĝi por ĝi. Ĝi ne povas diri al vi, ĉu iu havas demencon. **Nur kvalifikita kuracisto povas diagnozi demencon**, kaj multaj statoj, kiuj kaŭzas memorproblemojn, tute ne estas demenco. Bonvolu ne fidi je interretaj kvizoj aŭ memtestoj.
 
-## What are the early signs of dementia?
+## Kiuj estas la fruaj signoj de demenco?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+La [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) priskribas 10 fruajn signojn. Ĝi komparas ĉiun kun tipa ŝanĝo ligita al aĝo. Per niaj propraj vortoj:
 
-| Sign worth checking | More typical with age |
+| Signo, kiun indas kontroli | Pli tipa dum maljuniĝo |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Memorperdo, kiu ĝenas la ĉiutagan vivon, ekzemple forgesi lastatempajn eventojn aŭ demandi la saman aferon denove kaj denove | Foje forgesi nomon aŭ rendevuon kaj memori ĝin poste |
+| Malfacilaĵoj plani aŭ solvi problemojn, ekzemple sekvi konatan recepton aŭ spuri fakturojn | Okaza eraro pri hejmaj fakturoj |
+| Malfacilaĵoj fini konatajn taskojn hejme, ĉe la laboro aŭ ekstere | Foje bezoni helpon pri agordo de mikroonda forno aŭ registrado de televida programo |
+| Perdi la senton pri datoj, sezonoj aŭ pri tio, kie oni estas | Erari pri la tago de la semajno, poste kompreni ĝin |
+| Novaj malfacilaĵoj taksi distancon, legi aŭ distingi kolorojn | Vidŝanĝoj pro kataraktoj |
+| Novaj problemoj pri vortoj, ekzemple halti meze de konversacio aŭ nomi aferojn per malĝusta nomo | Foje malfacile trovi la ĝustan vorton |
+| Meti aferojn en nekutimajn lokojn kaj ne povi retrovi la paŝojn | Foje mismeti aferojn kaj trovi ilin retrovante la paŝojn |
+| Malbona juĝkapablo, ekzemple pri mono aŭ persona prizorgo | Foje fari malbonan decidon |
+| Retiriĝi de hobioj, laboro aŭ sociaj agadoj | Foje ne senti emon iri al familia aŭ socia evento |
+| Ŝanĝoj en humoro aŭ personeco, ekzemple iĝi konfuzita, suspektema, timema aŭ maltrankvila | Havi fiksitajn manierojn fari aferojn kaj sentiĝi ĉagrenita, kiam rutino ŝanĝiĝas |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Unu sola signo ne signifas demencon. Gravas **ŝanĝo kompare kun tio, kio estas normala por tiu persono**, precipe se ĝi malfaciligas la ĉiutagan vivon.
 
-## How is normal aging different from dementia?
+## Kiel normala maljuniĝo diferencas de demenco?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+La [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) diras, ke multaj pli aĝaj plenkreskuloj rimarkas, ke ili memoras aferojn pli malrapide, aŭ ke ili foje mismetas aferojn aŭ forgesas fakturon. Tiuj kutime estas signoj de milda forgesemo. **Demenco ne estas normala parto de maljuniĝo.** Seriozaj memorproblemoj malfaciligas ĉiutagajn agadojn, kiel stiri, uzi la telefonon aŭ trovi la vojon hejmen.
 
-The NIA suggests talking with a doctor if someone:
+La NIA konsilas paroli kun kuracisto, se iu:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Demandas la samajn demandojn denove kaj denove
+- Perdiĝas en lokoj, kiujn li aŭ ŝi antaŭe bone konis
+- Havas malfacilaĵojn sekvi receptojn aŭ instrukciojn
+- Iĝas pli konfuzita pri tempo, homoj kaj lokoj
+- Ĉesas prizorgi sin, ekzemple manĝas malbone, ne baniĝas aŭ kondutas nesekure
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Iuj homoj havas **mildan kognan malkapablon (MCI)**. Tio signifas pli da memoraj aŭ pensaj problemoj ol aliaj sam­ aĝuloj, dum la persono ankoraŭ kapablas prizorgi la ĉiutagan vivon. La NIA diras, ke MCI povas esti frua signo de Alzheimer-malsano, sed ne ĉiuj homoj kun MCI evoluigas ĝin.
 
-## What else can cause memory problems?
+## Kio alia povas kaŭzi memorproblemojn?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Multaj aferoj krom demenco povas influi memoron, kaj iuj pliboniĝas per traktado. La NIA mencias:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Tiroidajn, renajn aŭ hepatajn problemojn**
+- **Kromefikojn de medikamentoj**
+- **Deprimon kaj maltrankvilon**
+- **Malaltan vitaminon B12** aŭ nesufiĉan manĝadon de saniga nutraĵo
+- **Dormproblemojn**
+- **Trouzon de alkoholo aŭ drogoj**
+- **Infektojn, sangokoagulaĵojn aŭ tumorojn** en la cerbo
+- **Kapvundon**, ekzemple cerboskuon
+- **Fortan streson aŭ funebron**, ekzemple emeritiĝon aŭ perdon de edz(in)o
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Problemoj pri aŭdo kaj vidado ankaŭ povas aspekti kiel konfuzo; vidu nian [gvidilon pri aŭdo](/brain-health/hearing/). Pro tio medicina kontrolo gravas. Laŭ la [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), kuracistoj ofte petas sangotestojn por kontroli tiroidajn problemojn, vitaminomankojn kaj infekton. Ankaŭ indas mencii bonan [dormon](/brain-health/sleep/) kaj traktadon de depresio.
 
-## Sudden confusion is an emergency
+## Subita konfuzo estas urĝaĵo
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Konfuzo, kiu aperas rapide, dum horoj aŭ tagoj, bezonas urĝan medicinan helpon.** Ĝi povas esti deliro. La [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) priskribas deliron kiel medicinan urĝaĵon kaj konsilas tuj voki la kuraciston de la persono aŭ voki 112. Signoj inkluzivas:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Suprenirojn kaj malsuprenirojn en la kapablo pensi klare
+- Malfacilaĵojn koncentriĝi
+- Malordigitan pensadon
+- Nekutiman dormemon, aŭ nekutiman maltrankvilon kaj agitiĝon
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Tio povas okazi al iu ajn, inkluzive de homoj, kiuj jam vivas kun demenco. Laŭ la [NHS](https://www.nhs.uk/symptoms/confusion/), oftaj kaŭzoj inkluzivas infektojn (infektoj de la urinvojoj estas oftaj ĉe pli aĝaj homoj kaj homoj vivantaj kun demenco), apopleksion, malaltan sangosukeron ĉe homoj kun diabeto, kapvundon kaj iujn medikamentojn. Dum vi atendas helpon, restu kun la persono kaj trankviligu ĝin per mallongaj, simplaj vortoj. Ne faru multajn demandojn, kaj notu iujn ajn medikamentojn, kiujn la persono prenas.
 
-## How do I prepare for the doctor's appointment?
+## Kiel mi prepariĝu por la kuracista rendevuo?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Bona rendevuo komenciĝas per bonaj notoj. La [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) sugestas kunporti:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Liston de ŝanĝoj** en memoro, humoro kaj konduto, kun konkretaj ekzemploj kaj proksimuma tempo, kiam ili komenciĝis
+2. **Pasintajn kaj nunajn sanproblemojn**, inkluzive de familia historio pri memorproblemoj
+3. **Ĉiujn preskribitajn kaj senreceptajn medikamentojn**
+4. **Iujn ajn vitaminojn aŭ suplementojn**
+5. **Viajn demandojn**, ekzemple kiuj testoj estos faritaj, kiom longe ili daŭros kaj kiam venos la rezultoj
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Ankaŭ helpas kunporti familianon aŭ amikon, kiu bone konas la personon. La [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), ke kuracistoj povas demandi kaj la personon, kaj familianon pri sano, medikamentoj, ĉiutagaj agadoj kaj ŝanĝoj en konduto. Kuracistoj ankaŭ povas:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Fari testojn pri memoro, problemsolvado, atento, kalkulado kaj lingvo
+- Peti sangajn, urinajn kaj aliajn testojn por serĉi aliajn kaŭzojn
+- Kontroli pri depresio aŭ aliaj menssanaj statoj
+- Peti cerbajn bildigojn kiel KT aŭ MRI
+- Sendi al specialisto, ekzemple geriatro, neŭrologo, geriatria psikiatro aŭ neŭropsikologo
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+La NIA rimarkas, ke kogna takso estas deviga parto de la Medicare Annual Wellness Visit, kio povas esti natura momento por mencii zorgojn. Eĉ la mallongaj testoj, kiujn kuracistoj uzas, ne sufiĉas solaj por diagnozi demencon. Ili estas unua paŝo al pli plena takso, kaj diagnozo povas postuli pli ol unu viziton. La NIA konsilas, ke homoj kun memorproblemoj revenu al la kuracisto ĉiujn 6 ĝis 12 monatojn.
 
-## Raising the subject kindly
+## Paroli pri la temo afable
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Se vi zorgas pri iu alia, elektu trankvilan, privatan momenton. Parolu pri konkretaj aferoj, kiujn vi rimarkis, kiel zorgo pri la sano de la persono, ne kiel kritiko. Proponi ĝeneralan san-kontrolon povas sentiĝi malpli timiga. Enmetu la personon en decidojn kaj parolu al ĝi kiel al la plenkreskulo, kiu ĝi estas. Niaj [konsiloj pri komunikado](/caregiving/communication-tips/) povas helpi.
 
-## Talk with a doctor
+## Parolu kun kuracisto
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Se vi rimarkas ŝanĝojn en memoro, pensado, humoro aŭ ĉiutagaj kapabloj, kiuj estas novaj kaj daŭre okazas, faru rendevuon ĉe baza kuracisto. Se temas pri subita konfuzo, voku 112 aŭ tuj voku la kuraciston de la persono. Frua kontrolo signifas, ke trakteblaj kaŭzoj povas esti trovitaj kaj, se temas pri demenco, estas pli da tempo por plani kaj trovi subtenon. Zorgu ankaŭ pri vi mem dum ĉi tiu tempo; vidu nian [gvidilon pri memzorgo por zorgantoj](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ĉi tiu paĝo estas ĝenerala informo, ne medicina konsilo. Vidu nian [medicinan malgarantion](/medical-disclaimer/).

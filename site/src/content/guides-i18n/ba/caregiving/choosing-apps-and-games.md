@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Дементия өсөн ҡушымта һәм уйындарҙы нисек һайларға"
+seoTitle: "Дементия ҡушымталарын һәм уйындарын һайлау: исемлек"
+description: "Ҡарай торған кешеләр өсөн исемлек: маҡсатты беренсе билдәләгеҙ, таймерҙар һәм реклама юҡ, шәхси мәғлүмәттәрҙе тикшерегеҙ, дәлилдәргә иғтибар итегеҙ."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Беренсе булып ҡушымта нимә эшләргә тейешлеген билдәләгеҙ: еңел стимуляция,
+  иҫтәлек, тынғылыҡ йәки аралашыу. Унан һуң ҡушымтаны ошо көндә кешенең
+  һәләтенә тап килгәнен һайлағыҙ: эре һүрәттәр, таймерҙар, счет йәки реклама
+  юҡ, туҡтатыу еңел булһын. Ул ниндәй мәғлүмәт йыйғанын һәм уны юйырға
+  мөмкинлеге барлығын тикшерегеҙ. Дементияны профилактикалай йәки дауалай тип
+  әйтеүсе дәғүәләргә иғтибарлы булығыҙ: бер генә тикшеренеү дәлил түгел.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Маҡсатты беренсе билдәләгеҙ: стимуляция, иҫтәлек, тынғылыҡ һәм аралашыу төрле ҡушымталар talap итә."
+  - "Ҡушымтаны этап ярлығы буйынса түгел, кешенең ошо көндәге мөмкинлегенә ҡарап һайлағыҙ, идаралау ябай булһын."
+  - "Таймерҙары, счеты, «йәндәре», дөйөм рейтингы, реклама йәки һатып алыу һорауҙары булғанды ташлағыҙ."
+  - "Мәғлүмәт йыйыу, уртаҡлаштырыу һәм юйыу мөмкинлеген тикшерегеҙ. HIPAA, ғәҙәттә, потребитель ҡушымталарына ҡағылмай."
+  - "«Дементияны профилактикалай» тигән дәғүәләргә шикле булығыҙ. Бер һынау йәки ҡушымтала яҡшыраҡ һөҙөмтә дәлил түгел."
+  - "Golden Moments — ял итеү өсөн эшмәкәрлек. Ул клиник дәғүәләр яһамай."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Аҡыл уйындары дементияны профилактикалай аламы?"
+    a: "Коммерция аҡыл уйындары ҡушымталарының дементияны профилактикалауын йәки туҡтатыуын раҫлаусы яҡшы дәлил юҡ. Америка Нейрожәмғиәте (National Institute on Aging) бөйөк күләмле фәнни һынауҙа һыналған структуралы әҙерлеккә тиң эффект бирә алған коммерция ҡушымталары тураһында етерлек дәлил юҡ, тип белдерә. Ҡушымталарҙы медицина итеп түгел, рәхәт алыу һәм аралашыу өсөн һайлағыҙ."
+  - q: "Дементия ҡушымтаһына HIPAA ҡағыламы?"
+    a: "Ғәҙәттә юҡ. HIPAA ғәҙәттә медицина хеҙмәткәрҙәренә, һаулыҡ һаҡлау пландарына һәм уларҙың бизнес партнерҙарына ҡағыла. Үҙегеҙ төшөргән ҡушымта, ғәҙәттә, уларҙың тәьмин итеүе булмаһа, ҡағылмай. FTC-ның Health Breach Notification Rule (Һаулыҡ мәғлүмәтенең ҡасыуы тураһында ҡағиҙә) HIPAA ҡағылмаған күп һаулыҡ ҡушымталарын ҡаплай."
+  - q: "Яҡшы дементия уйыны нимәгә оҡшарға тейеш?"
+    a: "Эре, асыҡ һүрәттәр һәм текст, һәр экранда бер асыҡ эш, таймер йәки счет юҡ, хаталар өсөн ысҡыныу юҡ, реклама юҡ, туҡтатыу йәки туҡтауҙың еңел юлы бар. Ул оло кешеләр өсөн эшләнгән кеүек булырға һәм икенсе кешенең еңел ҡушылыуына мөмкинлек бирергә тейеш."
+  - q: "Golden Moments хәтерҙе ярҙам итә тип дәғүә итәме?"
+    a: "Юҡ. Golden Moments — ял итеү һәм һөйләшеү өсөн ябай уртаҡ эшмәкәрлектәр. Ул дементияны асыҡламай, дауаламай, профилактикаламай һәм үлсәмәй; хәтер йәки фекерләү тураһында беҙ дәғүә яһамайбыҙ."
+  - q: "Дементия ҡушымтаһы өсөн түләргә кәрәкме?"
+    a: "Элек бушлай вариантарҙы йәки бушлай сынауҙарҙы һынағыҙ, бер нисә аҙнаға кешенең реакцияһын күҙәтегеҙ. Ҡушымтаға түләү уны нығыраҡ эффектив итмәй. Яҙылыр алдынан яҙылыуҙан ҡалай сығырға икәнен тикшерегеҙ."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+App Store-дарҙа өлкәндәр, хәтер йәки дементия өсөн тип билдәләнгән уйындар бик күп. Өлөшө яҡшы эшләнгән. Ә башҡалары медицина тон менән вәғәҙәләр, уйынды тестҡа әйләндергән таймерҙар, йәки реклама һәм мәғлүмәт йыйыу өҫтәй. Был биттә исәптә ҡушымтаны үҙегеҙ баһалау ысулы бар. Башҡа продукттарҙы беҙ рейтингламайбыҙ һәм рецензия яҙмайбыҙ.
 
-## What should I decide before choosing a dementia app?
+## Дементия ҡушымтаһын һайлар алдынан нимә хәл итергә?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Ҡушымтаның нимә эшләүен билдәләгеҙ. «Әсәй өсөн уйын» төрлө мәғәнә бирергә мөмкин, һәм бер маҡсат өсөн иң яҡшы һайлау икенсе маҡсат өсөн күп осраҡта насар була.
 
-| Goal | What it looks like | What to look for |
+| Маҡсат | Ул нимәгә оҡшай | Нимәгә иғтибар итергә |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Еңел стимуляция | Тап килтереү, һортлау, ябай головоломкалар, һүҙ уйындары | Ҡыйынлыҡты көйләргә мөмкинлек, һүрәттәр күренеп тороу, вакыт баҫымы юҡ |
+| Иҫтәлек | Иҫке фотолар, таныш әйтемдәр, йәштәрендәге музыка | Үҙегеҙҙең фотолар, асыҡ һорауҙар, викторина һорауҙары юҡ |
+| Тынғылыҡ | Әкрен күренештәр, тыныс тауыштар, тын алыу, тәбиғәт | Еңел башлау һәм туҡтатыу, ялтырау юҡ, көтмәгән нәмә юҡ |
+| Аралашыу | Икәү йәки бергә уйнау йә һөйләшеү, шәхсән йәки видео аша | Ике кеше өсөн эшләнгән, һөйләшеүгә ярҙам итеүсе һорауҙар |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Дементия менән йәшәгән кешеләр өсөн структуралы «когнитив стимуляция» тураһындағы тикшеренеүҙәр, ғәҙәттә, өйрәтелгән хеҙмәткәрҙәр алып барған төркөм эштәре менән бәйле: һөйләшеү, һүҙ уйындары, головоломкалар, музыка һәм ижади эш. [Cochrane тикшеренеүе](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) уртаса аҙ файҙа табыуын әйтә, һәм ул тикшеренеүҙәр араһында айырылып тора. Шундай социаль, төрлө программа яңғыҙ ҡушымта менән бер үк түгел, шуға күрә исемегеҙҙә ҡушымтаны күп сараның береһе итеп ҡарағыҙ.
 
-## How do I know if an app fits the person's abilities?
+## Ҡушымта кешенең һәләтенә тап киләме, нисек белергә?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Диагнозға йәки этап ярлығына ҡарамаҫтан, кешенең реакцияһын күҙәтегеҙ. Бер үк «этапта» торған ике кеше күреү, ишетеү, ҡулдың тотошлоғо, тел һәм экрандарға булған ышаныс яғынан бик ҡапма-ҡаршы булырға мөмкин. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) элекке ҡыҙыҡһыныуҙарҙы һәм ағымдағы мөмкинлектәрҙе иҫтә тотоуҙы һәм ҡаҙаныштан бигерәк рәхәт алыуға иғтибар итеүҙе тәҡдим итә.
 
-Signs of a good fit:
+Яҡшы тап килеүҙең билдәләре:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- улар әллә ни ҡыстамайынса башлай йәки ҡушыла;
+- йылмая, фекер әйтә йә хикәйә һөйләй;
+- хаталар уларҙы борсомай кеүек;
+- туҡтау ваҡыты еткәндә риза була.
 
-Signs it is a poor fit:
+Тап килмәүҙең билдәләре:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- ҡабатланған «мин булдыра алмайым» йәки «был иҫәр нәмә»;
+- нимәгә баҫырға икәнен аңлай алмау;
+- ҡәһәрләнеү, оятсанып ҡалыу йәки ҡоролманы этеп ташлау;
+- тик һеҙ практик итеп бөтә нәмәне эшләгәндә генә эшләй.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Борсолоу — сигнал, уны үтеп барырға кәрәкмәй. [Ни эшләргә, улар «юҡ» тигәндә](/caregiving/when-they-say-no/) тураһында уҡығыҙ. Ҡушымталарҙан тыш этап буйынса идеялар өсөн [беренсе этап](/activities/early-stage/) һәм [һуңғы этап](/activities/late-stage/) эшмәкәрлектәрҙе ҡарағыҙ.
 
-## What design features should I look for or avoid?
+## Нимә эҙләргә, нимәне иҫәпкә алмаҫҡа?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Тыныс, ябай, олаталарса дизайн эҙләгеҙ, һәм баҫым өҫтәгән нәмәләрҙән һаҡланығыҙ.
 
-| Look for | Be wary of |
+| Эҙләгеҙ | Һаҡ булығыҙ |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Эре һүрәттәр һәм текст, юғары контраст | Бәләкәй ымдар, тығыҙ экрандар |
+| Һәр экранда бер асыҡ эш | Күп төймәләр, менюлар йәки күп аҙымлы күрһәтмәләр |
+| Таймер юҡ йәки уны һүндерергә мөмкин | Кире иҫәп, тиҙлек бонустары, «үҙеңдең рекордыңды ел» |
+| Счет юҡ йәки йомшаҡ кире бәйләнеш | Очкылар, «йәндәр», рейтингтар, «мейе йәше» |
+| Хаталар тыныс эшкәртелә | Ысҡынып тауыш, ҡыҙыл X билдәләре, «Дөрөҫ түгел» хәбәрҙәре |
+| Ололарға хас, тормошҡа яҡын һүрәттәр | Мультфильм йәки бала тигән темалар |
+| Офлайнда эшләй, башлау өсөн аккаунт кәрәкмәй | Теркәлергә, инергә йәки алдан йөкләргә кәрәк |
+| Еңел туҡтатыу һәм туҡтау | Уйнауҙы дауам итеү йәки ҡушымтаны баһалау тураһында тәҙрәләр |
+| Реклама юҡ, асыҡ бер тапҡыр йәки абонемент хаҡы | Реклама, лут-боксар, ешлыҡ менән һатыу һорауҙары |
+| Икенсе кеше ҡушылыуы еңел | Бер кешелек кенә, конкуренциялы дизайн |
 
-Ads and purchase prompts are easy to tap by accident.
+Реклама һәм һатыу һорауҙарына ысын-бысын ситтән баҫыу еңел.
 
-## How do I check an app's privacy?
+## Ҡушымтаның махфилеге тураһында нисек тикшерергә?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Ҡушымта нимә йыйғанын, кем менән уртаҡлашҡанын һәм уны юйырға мөмкинлек барлығын тикшерегеҙ. Ҡуйыр алдынан:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Магазиндың махфилек йомғағын уҡығыҙ.** Google Play-ҙың [Data safety бүлеге](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) һәм App Store-ҙың [махфилек мәғлүмәте бүлеге](https://support.apple.com/en-us/102399) ҡушымта йыя һәм уртаҡлаштыра ала торған мәғлүмәт төрҙәрен күрһәтә. Ике компания лә был мәғлүмәтте эшләүселәр үҙҙәре биреүен әйтә, шуға күрә ул башланғыс нөктә, аудит түгел.
+2. **Аккаунт кәрәк-кәрәкмәгәнен тикшерегеҙ.** Ҡушымта бары һүрәттәр йәки ябай уйындар күрһәтһә, уның ҡасан исемегеҙҙе, электрон почтағызҙы йә тыуған көнөгөҙҙө белергә кәрәк булыуы мөмкин түгел.
+3. **Рөхсәттәрҙе тикшерегеҙ.** Тап килтереү уйыны гәрәк урынды, контакттарҙы, микрофонды йәки бөтә фотоколлекцияны белергә тейешме? Кәрәкмәгәнен һүндерегеҙ.
+4. **Реклама һәм аналитикаға иғтибар итегеҙ.** Реклама һәм эҙләү коралдары ҡушымтаның ҡулланылыуы тураһында мәғлүмәтте башҡа компанияларға ебәрергә мөмкин.
+5. **Фотолар ҡайҙа китеүен белегеҙ.** Ғаилә фотоларын өҫтәһәгеҙ, улар ҡоролмала ҡалама йәки серверға күсәме? Уларҙы алып ташлап буламы?
+6. **Юйыуҙы тикшерегеҙ.** Мәғлүмәтте һәм аккаунтты нисек юйырға икәнен махфилек сәйәсәтенән йәки мәғлүмәт йомғағынан эҙләгеҙ. Мәғлүмәтте юйып булмай тигән ҡушымтаға айрыуса иғтибарлы булығыҙ, айрыуса фотолар йә һаулыҡ мәғлүмәте булһа.
+7. **Махфилек сәйәсәтен уҡығыҙ.** Нимә йыйыла, ни өсөн, ҡасан тиклем һаҡлана һәм кем менән уртаҡлаша — шуны ябай итеп аңлатыуын табығыҙ.
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA дементия ҡушымталарындағы мәғлүмәтте һаҡлай саҡта ла?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Ғәҙәттә юҡ, һәм был күптәрҙе аптыратһа ла. Америка Ҡушма Штаттары Һаулыҡ һаҡлау һәм кеше хеҙмәттәре département-ы (HHS) [аңлата](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html): HIPAA һаулыҡ пландарына, күпселек медицина хеҙмәткәрҙәренә, медицина мәғлүмәтен эшкәртеүселәргә һәм уларҙың бизнес партнерҙарына ҡағыла. Күп осраҡта ул шәхси файҙаланыу өсөн ҡушымтаға индергән мәғлүмәтте һаҡламай, ҡасан ки ҡушымтаны ҡаплана торған ойошма йәки уның бизнес партнеры тәьмин итмәһә. App Store-дан алынған «дементия ҡушымтаһы» һаулыҡ тураһында һөйләһә лә, еш кына HIPAA-нан тыш тора.
 
-### What protects health data in apps that HIPAA does not cover?
+### HIPAA ҡаплаған булмаған ҡушымталарҙа һаулыҡ мәғлүмәтен кем һаҡлай?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Федераль сауҙа комиссияһының (FTC) Health Breach Notification Rule ҡағиҙәһе уларҙың күбеһен ҡаплай. 2024 йылда FTC [үҙгәрештәр раҫланы](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule), улар ҡағиҙәнең HIPAA ҡаплаған булмаған ҡушымталарға һәм шуға оҡшаш технологиялаға ҡағылыуын асыҡлай. «Ҡасыу» тип тик һөжүмдәрҙе түгел, рөхсәтһеҙ уртаҡлаштырыуҙы ла иҫәпләйҙәр, һәм компаниялар зыян күргән кешеләргә һәм FTC-ға хәбәр итергә тейеш. Был бер нәмә буҙылғандан һуңғы һаҡлау селтәре, ҡушымта кәрәкмәгәнде генә йыя тигән вәғәҙә түгел.
 
-## How should I read claims about research and evidence?
+## Фәнни дәлилдәр тураһындағы дәғүәләрҙе нисек уҡырға?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Дәлилдәр тураһындағы дәғүәләрҙе әкрен уҡығыҙ, иң ҙур вәғәҙәләргә иң күп шикләнегеҙ. Үҙегеҙгә бирергә кәрәк һорауҙар:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Нимә айырыуса өйрәнелгән?** Бер программаны өйрәнеү барлыҡ уйындарҙың бер төрлө эшләүен күрһәтмәй.
+- **Кем өйрәнелгән?** Сәләтле өлкән кешеләрҙә алынған һөҙөмтәләр дементия менән йәшәгән кешегә тап килмәүе мөмкин.
+- **Нимә үлсәнгән?** Уйында үҙе яҡшыраҡ булыу — көндәлек тормоштағы, һөйләшеүҙәге, кәйефтәге йә бойондороҡһоҙлоктағы үҙгәрештән башҡа нәмә.
+- **Тикшеренеү ни тиклем көслө?** Рандомлаштырылған контролләнгән һынау (RCT) ҡушымта ҡулланыусы төркөмде ҡулланмаған төркөм менән сағыштыра. Ул яҡшы схема, әммә бер бәләкәй йәки ҡыҫҡа RCT дәлил түгел. Бәйһеҙ тикшеренеүселәрҙең, бер-береһе менән килешкән күп тикшеренеүҙәрҙе эҙләгеҙ.
+- **Ауырыуҙы үҙгәртеүе тураһында дәғүә бармы?** Тест буйынса бәләкәй яҡшыртыуҙы күрһәткән тикшеренеү ҡушымта дементияны туҡтатыуын, профилактикалауын йәки дауалауын дәлилләмәй.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Америка Нейрожәмғиәтенең [өлкәндәрҙең когнитив һаулығы](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) битендә NIH менән финансланған структуралы когнитив әҙерлек буйынса бөйөк һынау тасуирлана, һәм унан һуң уҡыусыларҙы компьютер һәм онлайн уйындарҙың хәтерҙе һәм фекерләүҙе яҡшырта алыуы тураһындағы дәғүәләрҙән һаҡлана. Унда әйтелгәнсә, коммерция аҡыл-әҙерлек ҡушымталарының шул һынауҙағы әҙерлек кеүек тәьҫир биреүе тураһында дәлил әлегә етерлек түгел. Күберәк [аҡыл уйындары һәм дәлилдәр](/brain-health/brain-games/) һәм [дементияны профилактикалау тураһында тикшеренеүҙәр нимә әйтә](/brain-health/can-dementia-be-prevented/) тураһында беҙҙең ҡулланмаларҙа уҡый алаһығыҙ.
 
-### What is a public example of a misleading claim?
+### Ялған дәғүәнең ғәмәли миҫалы нимә?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+2016 йылдың гинуарында FTC «аҡыл әҙерлеге» программаһы Lumosity-ҙың яһаусылары менән килешеүҙе [иғлан итте](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program). FTC компанияның уйындарының йәш менән бәйле когнитив кәмеүҙе тотҡарлай һәм еңел когнитив бозолоуҙан, дементиянан һәм Альцгеймер ауырыуынан һаҡлай алыуын етерлек дәлилһеҙ дәғүә иткәнен әйтте. Компания 2 миллион доллар түләргә риза булды һәм киләсәктә шундай дәғүәләр алдынан дәүләт ышаныслы фәнни дәлилдәр булырға тейеш. Был осраҡ маркетинг теле дәлил түгеллеген иҫкә һалыусы миҫал.
 
-### Which words are red flags?
+### Ниндәй һүҙҙәр ҡыҙыл туҡтау билдәһе?
 
-Be cautious when an app or ad says it:
+Ҡушымта йәки реклама былай тигәндә шикле булығыҙ:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- дементияны йә Альцгеймерҙы «профилактикалай», «кире бора», «туҡтата» йә «дауалай»;
+- ниндәй тикшеренеү, кемдәр катнашҡаны һәм нимә үлсәнгәнен атамай «клиник дәлилләнгән» тип яҙа;
+- диагнозға оҡшаған «мейе йәше» йә хәтер счеты бирә;
+- мейене «сплай», «көсәйтә» йә «әҙерләй» тип вәғәҙә итә;
+- дәлил итеп мактау хаттарын ҡуллана.
 
-If you are unsure about a claim, ask the person's doctor.
+Дәғүә тураһында шикләнһәгеҙ, кешенең врачынан һорағыҙ.
 
-## Where does Golden Moments fit?
+## Golden Moments ҡайҙа инә?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments — ябай уртаҡ эшмәкәрлектәр, хәтер тесты, терапия йәки медицина кәңәше түгел. Беҙҙең уйындар, мәҫәлән [Рәсем парҙары](/games/picture-pairs/), [Һөйләшеү карталары](/games/conversation-cards/), [Фото парҙары](/games/photo-pairs/), [Рәсем бинго](/games/picture-bingo/) һәм [Тын алыу](/games/calm-breathing/), рәхәт алыу һәм һөйләшеү өсөн эшләнгән. Улар дементияны асыҡламай, дауаламай, профилактикаламай һәм үлсәмәй, һәм беҙ хәтер йәки фекерләү тураһында дәғүә яһамайбыҙ.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Беҙҙең бушлай ҡушымта ла бар: [Golden Moments iPhone, iPad һәм Android өсөн](/app/). Унда эре плиткалар менән ябай рәсем тап килтереү, һеҙ һайлаған ғаилә фотолары менән уйындар һәм офлайнда эшләгән рәсем пакеттары бар, аккаунт, реклама, таймер йәки счет юҡ. Шул уҡ тикшерелгән исемлек уға ла ҡағыла: App Store-ҙағы махфилек билдәһе «Data Not Collected» тип яҙа, ә [ҡушымтаның махфилек сәйәсәте](/app-privacy/) фото күсермәләрҙең ҡайҙа һаҡланыуын аңлата.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Беҙгә ышанғанығыҙҙан бигерәк, баһалауығыҙҙы теләйбеҙ. Бынан тикшерелгән исемлекте, беҙҙең [махфилек биттәрен](/privacy/) һәм [медицина иҫкәртеүен](/medical-disclaimer/) ҡулланығыҙ, һәм кешегеҙгә тап килмәгән нәмәне — шул исәптән беҙҙекен дә — туҡтатығыҙ.
 
-## What is a sensible way to try a new app?
+## Яңы ҡушымтаны һынауҙың аҡыллы ысулы нимә?
 
-Try it together for a couple of weeks and watch what happens.
+Бер нисә аҙнаға бергә һынап ҡарағыҙ һәм нимә булыуын күҙәтегеҙ.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Башта уны көйләгеҙ**, беҙҙең [планшет һәм телефон көйләү ҡулланмаһы](/caregiving/tablets-and-screens/) буйынса, иң еңел кимәлдән башлағыҙ.
+2. **Сессияларҙы ҡыҫҡа тотоғоҙ,** йылмайыуҙы, һөйләшеүҙе, тынғылыҡты күҙәтегеҙ һәм яҡшы мәлдә тамамлағыҙ.
+3. **Ҡәһәрләнеү килтерһә, ташлағыҙ,** ул нисек юғары баһаланһа ла.

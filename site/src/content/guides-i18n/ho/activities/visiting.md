@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Dementia tauna oi vadivadi henia neganai"
+seoTitle: "Dementia tauna oi vadivadi henia: Dahaka oi karaia"
+description: "Memory care, nursing home, o hospital ai dementia tauna oi vadivadi henia neganai: dahaka oi lao mai, mai gaukara, kwadogi vadivadi, bona namonamo oi lao."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Memory care o hospital ai dementia tauna oi vadivadi henia neganai, gaukara
+  namonamo oi karaia: oi ginidae neganai, emu ladana oi gwauraia, tamona gau
+  ta oi lao mai, hetoina laulau, musika, o aniani namona ta, bona tamona gau
+  kwadogi ta umui karaia hebou. Kwadogi vadivadi, to nega momo, ia namo,
+  vadivadi daudau to nega rara. Namo oi lao totona, namonamo bona tamona
+  hereva oi hegaegaelaia.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Tauna ena ladana oi boilia bona oi be daika, ia ia diba totona gaukara lasi: 'Bona dina Sina, lau Susan, emu natuna hahine.'"
+  - "Tamona o rua gau oi lao mai umui hebou gaukaralaia, hetoina laulau buka, musika ia ura henia, laplap maragi ta, o aniani ta gaukara taudia idia gwauhamata."
+  - "Kwadogi vadivadi, to nega momo, ia namo, vadivadi daudau to nega rara. Oi noho ia ida, ia bada, oi hereva dahaka lasi."
+  - "Hospital ai, tauna ena sivarai pepa ta oi henia gaukara taudia dekenai, bona nega kwadogi ai ia idau neganai, doketa oi hamaoroa haraga."
+  - "Oi lao totona oi hegaegaelaia: oi noho nega daudau oi gwauraia, nega ibounai tamona hereva oi gaukaralaia, bona oi lao haraga."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Dementia tauna oi vadivadi henia neganai, dahaka lau lao mai?"
+    a: "Umui hebou gaukaralaia gauna ta oi lao mai, hereva totona gau lasi. Laulau buka maragi ta, ena musika namodia edia lista, laplap maragi ta, ima maragi totona, ena gaukara gunana ena magasin ta, o aniani ta gaukara taudia idia gwauhamata, idia namo. Noholaia rumana ai, ruma bese ena laulau bona ia diba gaudia ese rumana do ia karaia ruma bamona."
+  - q: "Dementia tauna lau vadivadi henia neganai, nega daudau lau noho?"
+    a: "Nega maorona ta lasi. Ruma bese momo idia davaria, kwadogi vadivadi, to nega momo, ia namo, badina tauna ia hemarai haraga, bona oi noho nega daudau ia laloatao lasi. Hemarai ena toana oi itaia, bona vadivadina ia namo neganai oi lao."
+  - q: "Ia gwau, 'Lau ura lau lao ruma' neganai, dahaka lau gwauraia?"
+    a: "Hereva lalona oi haere henia, hereva mo lasi. 'Lau ura lau lao ruma' ena anina, 'Lau namonamo o lau sogu lasi.' Oi gwau diba, 'Emu ruma oi sivaraina henigu,' umui laulau oi itai hebou, o umui raka o aniani ta oi henia. Oi heai o ia diba lasi oi gwauraia, unai ese ia do ia karaia ia lalohekwarahi."
+  - q: "Ia lau diba lasi neganai, dahaka lau karaia?"
+    a: "Unai do ia hahisia, to oi hamaorolaia lasi o oi nanadaia lasi, 'Oi lau diba lasi, a?' Namonamo oi gwauraia oi be daika, bona nega umui hebou noho namonamo oi gaukaralaia. Taunimanima momo idia moale hebou noho totona, bona vadivadi ena namo idia kamonai, ia be daika idia diba lasi."
+  - q: "Hospital ai lau ede hedurua diba?"
+    a: "Oi diba neganai, tauna ia ida oi noho, ia aniani bona ia inu oi durua, bona ia diba gaudia, hetoina laulau, oi lao mai. Gaukara taudia dekenai pepa ta oi henia, ena nega karaia, ia ura ladana, ia ura gaudia, ia ura lasi gaudia, bona hisihisi ena toana. Tauna ia idau haraga o ia idau neganai, doketa oi hamaoroa haraga, badina lalohadai idau haraga ena anina, gorere ta ia noho diba."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Oi lalokau henia tauna oi vadivadi henia memory care ai, nursing home ai, o hospital ai, unai ese lalohelulu momo ia havaraia diba. Oi diba lasi dahaka oi gwauraia, dahaka oi lao mai, o vadivadina ia anina, ia laloatao lasi neganai. Ia anina. National Institute on Aging ia gwauraia, Alzheimer's ida taudia [nega momo idia moale hebou noho totona](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), ia be daika vadivadi tauna idia diba lasi. Inai pepa ai, vadivadi guna, vadivadi neganai, bona vadivadi murinai karaia daladia, bona hospital totona dala haida oi davaria.
 
-## How do I get ready for a visit?
+## Vadivadi totona lau ede hegaegae diba?
 
-A little planning makes the visit easier for both of you.
+Hegaegae maragi ta ese vadivadina ia karaia namonamo, oi bona ia umui ruaosi totona.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Nega namona oi abia.** Dementia Australia ia gwau, tauna ia rua haraga neganai oi vadivadi henia, taunimanima momo totona, daba matana o dina huanai. Family Caregiver Alliance ia gwau, rumana ena nega karaia oi diba, bona [gaukara lasi nega ai oi vadivadi henia, gaukara nega ai lasi](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Gaukara taudia oi nanadaia.** Hari dina ia ede, bona aniani, siri, o raka daladia oi nanadaia.
+- **Vadivadi boga maragi ta oi hegaegaelaia.** Tamona o rua gau umui hebou gaukaralaia ia namo (dika ai lista oi itaia).
+- **Hereva daladia haida oi laloa.** Tauna ia sivarai lasi diba, unai dainai oi sivarai oi lao mai: ruma bese sivarai, guba, pila gaukara, o sivarai namona ta.
+- **Emu laloa oi hegaegaelaia.** Vadivadi haida do idia namo bona idia moale. Haida do idia noho kava o idia auka. Ruaosi idia namo.
 
-## What should I bring?
+## Dahaka lau lao mai?
 
-Bring things to share, not things that test. Good choices include:
+Umui hebou gaukaralaia gaudia oi lao mai, diba toana gaudia lasi. Gau namodia:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Laulau buka maragi ta** laulau badadia bona maoromaoro ida. Muri ai ladana oi torea, gaukara taudia totona.
+- **Musika lista ta** ena musika namodia ida, telefono ai, kamonai maragi o sepeka maragi ida.
+- **Maragi gau ta ia dogoatao**, hetoina laplap ia diba, neko, o sioti.
+- **Ima maragi** ima hahana namona totona, ia ura henia neganai.
+- **Magasin o laulau buka ta** ena gaukara gunana dekena, hetoina gaden, ka, manu, o nadua.
+- **Aniani namona ta**, gaukara taudia idia gwau ia namo neganai.
+- **Rumana totona ia diba gaudia.** Family Caregiver Alliance ia gwau, au, gaden maragi, ruma bese laulau bona piksa, o ruma bese laulau badana ta guna neganai.
+- **Tablet ta**, ruma bese laulau umui itai hebou o gaukara namona ta umui gaukaralaia hebou.
 
-## What can we do together during a visit?
+## Vadivadi neganai, dahaka umui karaia hebou diba?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Tamona gau umui karaia hebou neganai, hereva ena hekwakwanai ia maragi. Dementia Australia ia gwau, laulau umui itaia, gaukara kwadogi, au maragi umui hadoa, musika, aniani umui ania hebou, o rumana kahirakahira ai umui raka. Dala ma haida:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Laulau umui itaia.** Oi itaia gaudia oi gwauraia: "Una hata oi itaia." "Inai kone ia namo." Tauna ia gunalaia. "Daika be inai?" oi nanadaia lasi.
+2. **Musika umui kamonai bona umui ane.** Ia diba ane ese lalona ia hagoadaia diba, bona hereva ia auka neganai, nega namona ta ia havaraia diba.
+3. **Raka kwadogi.** Family Caregiver Alliance ia gwau, rumana kahirakahira ai umui raka, gaden ia noho neganai. Wheelchair ai raka danu ia namo.
+4. **Ima hahana.** Maragi ima maragi ta bona ima ai hahana maragi ese ia karaia namonamo.
+5. **Ia hegaegae oi durua.** Dementia Australia ia gwauraia, hui ia burua, ima kohu ia kalaia, o ia ura dabua ta oi durua ia atoa, ia ura henia neganai.
+6. **Gaukara kwadogi ta umui gaukaralaia.** Family Caregiver Alliance ia gwau, kati, domino, o guna ai ia gaukaralaia gaudia. Tablet ai, [Picture Pairs](/games/picture-pairs/) oi gaukaralaia diba, laulau idia itaia noho bona taim lasi. [Photo Pairs](/games/photo-pairs/) ese oi abia hidi laulau ia karaia gaukara ta bamona, bona laulau idia noho emu browser ai.
+7. **Tamona gau umui itaia hebou.** Family Caregiver Alliance ia gwau, komedi bona guna piksa. Tauna sivaraina ia badinaia lasi, to umui kahirakahira umui helai bona nega umui hebou abia.
+8. **Oi duahia henia.** Ane kwadogi ta, ia ura hereva ta, o ruma bese taudia edia revareva ta.
+9. **Umui helai hebou kava.** Ima umui dogoatao hebou o umui helai kava, unai danu vadivadi maorona. Alzheimer's Association ia gwauraia, dahaka oi gwauraia oi diba lasi, ia namo, bona oi noho, unai ia bada.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+Dahaka oi gwauraia oi diba lasi neganai, [Conversation Cards](/games/conversation-cards/) do ia durua. Kati ta ta ai laulau ta bona henanadai ta ia noho.
 
-## How should I talk during the visit?
+## Vadivadi neganai, ede lau hereva diba?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Nega ibounai oi gwauraia oi be daika.** "Bona dina Tama, lau Mark, emu natuna mero." NIA ia gwau, vadivadi taudia idia gwauraia idia be daika, hereva ia hamatamaia totona.
+- **Vaira ai oi mai** bona matana kahirakahira ai oi helai.
+- **Oi hamaorolaia lasi o oi heai lasi.** NIA ia gwau, vadivadi taudia tauna idia hamaorolaia lasi, ia kerere o ia laloaboio neganai.
+- **Hereva ia auka neganai, oi heauka.** Nega daudau oi henia.
+- **Lalohadai oi haere henia.** Tauna ia lalohekwarahi o ia garia neganai, unai oi abiatoatao, gabeai hereva oi haidaua.
+- **Nanadai bamona oi henia lasi**, hetoina "Oi lau diba, a?" o "Dahaka oi ania adorahi?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Momo totona, [hereva daladia](/caregiving/communication-tips/) oi itaia.
 
-## What do I do when they say "I want to go home"?
+## Ia gwau "Lau ura lau lao ruma" neganai, dahaka lau karaia?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Hereva lalona oi haere henia (emu dala haida totona, [tauna ia noinoi 'lau ura lau lao ruma' ia gwauraia neganai](/caregiving/asking-to-go-home/) oi itaia). Family Caregiver Alliance ia gwauraia, "Lau ura lau lao ruma" ena anina nega momo, "Lau namonamo o lau sogu lasi," bona ia gwau, oi haere henia diba, "Emu ruma oi sivaraina henigu" o "Emu ruma ai dahaka oi ura bada?" Dementia Australia ia gwau, "ruma" ena anina, nega ta o gabuna ta ai tauna ia kamonai ia sogu, hetoina ia maragi neganai.
 
-Try:
+Oi tohohoa:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- lalohadai oi abiatoatao: "Oi ura emu ruma, lau kamonai."
+- ia ura henia neganai, ima ai oi hagoadaia
+- laulau oi itaia o ruma bese ena ruma oi herevalaia
+- raka, inu, o aniani ta oi henia
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Oi heai lasi o ia diba lasi ia lao diba oi gwauraia lasi. Unai ese ia durua lasi, bona nega momo ia karaia ia lalohekwarahi.
 
-## How long should a visit be?
+## Vadivadi nega daudau be ede?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Nega kwadogi bona nega momo, ia namo. Family Caregiver Alliance ia gwauraia, tauna ia laloatao lasi oi noho miniti ima o aua ima, bona ia gwau, wiki ta ai vadivadi kwadogi toi, ia namo, vadivadi daudau ta lasi. Dementia Australia ia gwauraia, vadivadi hida o nega daudau maorona ta lasi.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Memory care ai ia lao murinai, wiki ginigunadia ai, Family Caregiver Alliance ia gwau, nega momo oi vadivadi henia, gabeai nega tamona dalana ai oi lao. Gaukara taudia oi nanadaia, idia dahaka idia itaia.
 
-## How do I leave without upsetting them?
+## Ia lalohekwarahi lasi totona, ede lau lao diba?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Oi lao neganai, unai do ia auka bada. Dementia Australia ia gwau:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Oi ginidae neganai, oi noho nega daudau oi gwauraia.** "Lau noho aua ta, gabeai lau lao lau hoihoi."
+- **Gaukara ta ese dokona ia hamatamaia.** "Inai ane ia ore neganai, lau do lau lao."
+- **Aniani o gaukara nega ida oi hegeregerea,** o gaukara taudia oi noia ia durua, gau ma ta ia hamatamaia totona.
+- **Lao hereva oi karaia kwadogi bona nega ibounai tamona.** Oi noho daudau, oi gwauraia bema auka, o "maragi ta moa" oi gwauraia, unai ese gabeai lao hereva ia auka.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Oi lao murinai, oi lalohekwarahi, unai ia namo. Oi laga-ani. Tauna ia lalohekwarahi neganai, gaukara taudia ese idia durua diba ia namonamo haraga.
 
-## Visiting someone with dementia in the hospital
+## Hospital ai dementia tauna oi vadivadi henia
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Hospital ia regerege, ia idau, bona tau idau momo, unai ese dementia tauna ia auka bada diba. NIA ena dala pepana [Alzheimer's tauna hospital ai oi lao henia](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ia gwau:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Tau ta ia noho tauna ia ida** nega daudau ia diba neganai: ruma bese tauna, turana ta, o naria tauna ta.
+- **Gaukara taudia dekenai tauna ena sivarai pepa ta oi henia** ena nega karaia, ia ura ladana, ia ura gaudia bona ia ura lasi gaudia, dahaka ese ia hahisia diba, bona hisihisi ena toana ia hereva lasi neganai. Kopi haida oi atoa rumana ai bona neosi edia gabuna ai.
+- **Aniani bona inu ai oi durua.** Tau badadia hospital ai idia aniani namonamo lasi diba. Konteina oi kehoa, aniani ai oi durua, umui ania hebou, bona inu oi henia.
+- **Lalohagoadaia gaudia oi lao mai**, hetoina laulau o tomadiho gaudia.
+- **Regerege oi hahamaragilaia.** TV oi hakapua, bona telefono bona regerege gauna oi hahamaragilaia.
+- **Namonamo karaia oi tohohoa**, hetoina musika namona, duahiduahi, guriguri, ane, o guna laulau itaia.
+- **Raka oi hagoadaia** ia namo neganai, gaukara taudia idia gwauhamata.
+- **Tauna ia idau haraga o ia idau neganai, doketa oi hamaoroa haraga.** NIA ia gwauraia, lalohadai idau haraga, idia gwau delirium, ena badina diba gorere bamodia, hetoina infeksen, siahu, ranu lasi, o muramura ena idau, bona doketa ena durua ia ura.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Vadivadi kwadogi bona namonamo, vaira ia diba ta ida bona ena ane namona ta ida, unai do ia karaia hospital dina ai gau namona bada.
 
-## Bringing children on a visit
+## Mero maragidia oi lao mai vadivadi ai
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Mero maragidia ese moale momo idia lao mai diba. Guna ai hereva maoromaoro ida oi hegaegaelaia, vadivadina oi karaia kwadogi, bona gaukara ta oi henia, hetoina toretore ta ia hahedinaraia o laulau ta ia henia. NIA ia gwau, mero maragidia bona Alzheimer's taudia idia moale gaukara kwadogi hebou, hetoina laulau buka itaia o musika kamonai. Dementia Australia ia gwau, aniani maragi o gau kava haida oi atoa, mero maragidia idia gaukaralaia totona.
 
-## Take care of yourself too
+## Oi danu oi naria namonamo
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Vadivadi ese ia hemarai bona lalohelulu ia havaraia diba, tauna ia idau bada neganai. Oi ura vadivadi haraga lasi, ia namo, turana ta oi lao mai ia durua, o dina auka ta ai oi lao haraga. Oiemu naria totona, [naria tauna ena naria namona](/caregiving/caregiver-self-care/) oi itaia. Oi noho daudau neganai, [telefono bona video hereva](/activities/phone-and-video-calls/) ena dala pepa oi itaia.

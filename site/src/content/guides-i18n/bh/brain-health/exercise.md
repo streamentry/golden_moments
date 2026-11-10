@@ -1,32 +1,28 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "कसरत आ दिमागी सेहत: रिसर्च का कहेला आ सुरक्षित तरीका"
+seoTitle: "कसरत आ डिमेंशिया: रिसर्च का कहेला"
+description: "शारीरिक सक्रियता आ डिमेंशिया के जोखिम में का संबंध बा, आ बुजुर्गन आ डिमेंशिया के साथ जियत लोग खातिर हिले-डुले के सुरक्षित तरीका।"
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  अध्ययन बतावेला कि रोजमर्रा के शारीरिक सक्रियता से डिमेंशिया के जोखिम कम होखे से जुड़ल बा, आ 2024 के लैंसेट कमीशन शारीरिक निष्क्रियता के 14 गो बदलाव जोग जोखिम कारकन में गिनलस बा। क्लिनिकल ट्रायल सभ में ई साबित नइखे भइल कि कसरत से डिमेंशिया रुकि जाई। तबहू, शरीर के हरकत से ताकत, संतुलन, मन-मिजाज आ नींद में सुधार होखेला, एहसे टहलल, कुर्सी पर बइठ के कसरत कइल आ नाचल अपने आप में बहुत फायदेमंद बा। कवनो नया काम शुरू करे से पहिले डॉक्टर से जरूर पूछ लीं।
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "शारीरिक रूप से सक्रिय रहे वाला लोग में डिमेंशिया के जोखिम औसतन कम पावल गइल बा, बाकिर ई बात जादेतर निगरानी अध्ययनन से आइल बा, ट्रायल से ना।"
+  - "बुजुर्गन पर पाँच साल ले चलल एगो कसरत ट्रायल में दुनों समूहन के सोच-विचार के क्षमता में कवनो खास अंतर नइखे पावल गइल।"
+  - "65 आ ओकरा से बेसी उमिर के लोग खातिर सीडीसी के सलाह में एरोबिक, मांसपेशी मजबूत करे वाला आ संतुलन बनावे वाला काम शामिल बा, आ कहल गइल बा कि कुछू ना करे से कुछ कइल बेहतर बा।"
+  - "डिमेंशिया के साथ जियत लोग खातिर कवनो तय लक्ष्य से जादे जरूरी बा रोज के छोट-मोटा, जानल-पहचानल गतिविधि जइसे टहलल भा बइठ के खेलल।"
+  - "हर साल चार में से एक से जादे बुजुर्ग गिर जालें, एहसे संतुलन बनावे पर काम आ सुरक्षित जगह सभसे पहिले जरूरी बा।"
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "का कसरत से डिमेंशिया रुकि सकेला?"
+    a: "एकर वादा केहू नइखे क सकत। बहुते अध्ययन सक्रिय रहे के डिमेंशिया के कम जोखिम से जोड़ेलन, बाकिर क्लिनिकल ट्रायल सभ से ई साबित नइखे भइल कि कसरत एकरा के रोक देला। कसरत के अउरी कई गो साबित भइल फायदा बाड़न, एहसे ई जरूर करे लायक बा।"
+  - q: "का डिमेंशिया के साथ जियत केहू खातिर कसरत कइल सुरक्षित बा?"
+    a: "आमतौर पर हाँ, बस तनी योजना बनावे के जरूरत बा। नेशनल इंस्टीट्यूट ऑन एजिंग के सलाह बा कि कवनो नया नियम शुरू करे से पहिले डॉक्टर से सलाह लीं, आरामदायक जूता चुनीं, पानी पियावत रहीं, आ समय छोट राखीं। अगर ऊ थकल, डगमगाइल भा असहज लउकें त रोक दीं।"
+  - q: "बइठ के कवन-कवन कसरत कइल जा सकेला?"
+    a: "बइठ के करे लायक चीजन में कुर्सी पर अंगड़ाई-खिंचाव भा चेयर योग, गुब्बारा भा नरम गेंद उछालल, बीन बैग फेंकना, सूप के डिब्बा उठावल, खिंचाव वाला बैंड आ पेडल कसरत शामिल बा। टहले में दिक्कत होखे त ई बहुत बढ़िया विकल्प बाड़न।"
+  - q: "अगर ऊ हिले-डुले के मन ना करें त का करीं?"
+    a: "दबाव मत दीं। बाद में फेर कोसिस करीं, खुद भी शामिल हो जाईं, जानल-पहचानल संगीत बजाईं, भा हरकत के कवनो काम जइसे झाड़ू लगावे भा गमला में पानी डाले में बदल दीं। चिट्ठी के बाक्स ले तनी टहल आवल भी बहुत बा, आ संगे बइठ के बाहर धूप सेकल भी कम नइखे।"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +47,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+सक्रिय रहे के आदत दिमागी सेहत के रिसर्च में सभसे जादे जांचल-परखल चीजन में से एगो बा। अध्ययन एकरा के डिमेंशिया के कम जोखिम से जोड़ेलन, बाकिर ई साबित नइखे भइल कि कसरत डिमेंशिया के रोकिए देई। बाकिर ई बात साफ बा कि शरीर के हरकत से कवनो भी उमिर में ताकत, संतुलन, मन-मिजाज आ नींद में आराम मिलेला। एह पन्ना पर रिसर्च का कहेला, बुजुर्गन के केतना सक्रिय रहे के सलाह दिहल जाला, आ डिमेंशिया के साथ जियत लोग के संगे प्यार से हिले-डुले के सहज तरीका का बा, ई सब बतावल गइल बा।
 
-## Does exercise lower the risk of dementia?
+## का कसरत से डिमेंशिया के खतरा कम हो जाला?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+रिसर्च बतावेला कि शारीरिक रूप से सक्रिय रहे वाला लोगन में डिमेंशिया होखे के संभावना कम हो सकेला, बाकिर एह सबूतन के आपन सीमा बा। [डिमेंशिया पर 2024 लैंसेट कमीशन](https://doi.org/10.1016/S0140-6736(24)01296-0) शारीरिक रूप से निष्क्रिय रहे के 14 गो बदलाव जोग जोखिम कारकन में शामिल कइले बा। एह मॉडल के मोताबिक, दुनिया भर में करीब 45% डिमेंशिया के मामला एह 14 गो कारकन से जुड़ल बाड़न।
 
-Here is what the evidence looks like:
+रिसर्च के सबूत एह तरह बा:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **निगरानी अध्ययन एगो राह देखावेलन।** कमीशन में चर्चा कइल गइल 58 गो अध्ययनन के समीक्षा में पावल गइल कि शारीरिक रूप से सक्रिय लोग में डिमेंशिया के खतरा करीब 20% कम रहे। सभसे बड़ फर्क ऊ लोगन में देखल गइल जे एकदम सुस्त रहलें आ जे लोग रोज तनी-मनी भी सक्रिय रहलें।
+- **ई संबंध दुनों तरफ से हो सकेला।** कमीशन कहले बा कि कम हिले-डुले से खतरा बढ़ सकेला। संगे-संगे ई भी बतावल गइल बा कि डिमेंशिया के चलते दिमाग में होखे वाला सुरुवाती बदलाव (जे बीमारी के पहिचान होखे से कते साल पहिले शुरू हो जाला) ओकरा वजह से भी लोग कम सक्रिय हो जाला।
+- **ट्रायल के नतीजा अतना साफ नइखन।** एगो क्लिनिकल ट्रायल में, 78 साल के औसत उमिर वाला 945 गो बुजुर्गन के पाँच साल खातिर हफ्ता में दू दिन देखरेख में कसरत करावल गइल भा एगो तुलना समूह में राखल गइल। आखिर में, दुनों समूहन के सोच-समझ आ याददाश्त के हुनर में कवनो साफ अंतर ना लउकल। तुलना समूह के कई गो लोग भी आपन रोजमर्रा में सक्रिय रहलें, जेकरा चलते नतीजा के ठीक-ठीक समझल मुश्किल हो जाला।
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[नेशनल इंस्टीट्यूट ऑन एजिंग (एनआईए)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) एह बात के सोझे-सोझे कहेला। शारीरिक सक्रियता आ अल्जाइमर से बचाव के बीच कवनो पक्का संबंध अभी ले साबित नइखे भइल, आ ई कहे खातिर काफी सबूत नइखे कि कसरत एकरा के रोकेला भा धीमा करेला। तबहू, कसरत से गिरला, उदासी, शुगर (डायबिटीज), हाई ब्लड प्रेशर आ स्ट्रोक के खतरा कम हो जाला। एह में से कई गो बीमारी खुद याददाश्त के कमजोरी से जुड़ल बाड़ी सँ।
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+सच्चाई इहे बा कि शरीर के हरकत में राखीं काहे कि एहसे आज रउआ बेहतर महसूस होखेला आ रोज के काम आसान रहेला। दिमाग खातिर कवनो फायदा मिलल त ऊ एगो बढ़िया उपहार मानल जाई, कवनो पक्का वादा ना।
 
-## How much activity do older adults need?
+## बुजुर्गन खातिर केतना सक्रियता जरूरी बा?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[65 आ ओकरा से बेसी उमिर के लोग खातिर सीडीसी के सलाह](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) हर हफ्ता तीन किसिम के गतिविधि के सुझाव देला:
 
-| Type | Weekly amount | Examples |
+| प्रकार | हफ्ता के हिसाब | उदाहरण |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| एरोबिक | कम से कम 150 मिनट मध्यम गतिविधि, जइसे 5 दिन 30-30 मिनट | तेज चाल से टहलल, नाचल, पानी में कसरत |
+| मांसपेशी मजबूत कइल | कम से कम 2 दिन, शरीर के मुख्य मांसपेशियन खातिर | हलुक वजन भा सूप के डिब्बा उठावल, खिंचाव वाला बैंड |
+| संतुलन | नियमित रूप से | एड़ी से पंजा सटा के चलल, कुर्सी से खड़ा होखल |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+ई सब लक्ष्य हवें, कवनो अनिवार्य शर्त ना। सीडीसी कहेला कि अगर रउआ ई पूरा नइखीं क पावत, त जेतना रउआ क्षमता आ सेहत इजाजत देवे, ओतने सक्रिय रहीं। कुछू ना करे से तनी-मनी कइल भी बहुत बेहतर बा।
 
-## Gentle ways to move for older adults
+## बुजुर्गन खातिर हिले-डुले के सहज तरीका
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **साथी के संग टहलीं।** कवनो दोस्त, पड़ोसी भा परिवार के साथे रोज टहले से बातचीत भी हो जाला आ सुरक्षा भी रहेला।
+- **कुर्सी पर बइठ के कसरत।** बइठ के हाथ ऊपर उठावल, टखना गोल-गोल घुमावल, बइठे-बइठे कदमताल कइल आ चेयर योग से बिना गिरे के डर के ताकत बनेला।
+- **रसोई भा दालान में नाच।** उनकर जवानी के समय के मनपसंद गाना बजा दीं आ संगे झूमीं, ताल दीं भा कदम बढ़ाईं। हमनी के [संगीत गतिविधि गाइड](/activities/music/) में एकर कई गो विचार बाड़न।
+- **घर के सामान से कसरत।** मनपसंद टीवी कार्यक्रम देखत घरी पानी के बोतल भा सूप के डिब्बा उठाईं।
+- **बागवानी भा घर के कामकाज।** पौधा में पानी डालल, पत्ता बटोरेल, झाड़ू लगावल आ कपड़ा मोड़ल भी कसरते में आवेला। देखीं [बाहर टहले आ बागवानी के गतिविधि](/activities/outdoor-and-gardening/) आ [घर के कामकाज](/activities/household-tasks/)।
+- **पानी में कसरत।** एनआईए के कहनाम बा कि जेकरा जमीन पर कसरत कइला से जोड़न में दरद होखे, ओकरा खातिर पानी में कसरत (वाटर एरोबिक्स) एगो बढ़िया उपाय बा।
 
-## How to exercise with someone living with dementia
+## डिमेंशिया के साथ जियत लोग के संगे कसरत कइसे कराईं
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+डिमेंशिया के साथ जियत लोग खातिर मकसद आराम, खुशी आ रोज के हुनर बना के राखल बा, कवनो संख्या भा लक्ष्य पूरा कइल ना। एनआईए कहेला कि शारीरिक गतिविधि से अल्जाइमर के साथ जियत लोग के मांसपेशी, जोड़ आ दिल ठीक रहेला, आ मूड अउरी नींद में भी सुधार हो सकेला। कवनो नया नियम शुरू करे से पहिले डॉक्टर से जरूर सलाह लीं। [एनआईए के देखभाल गाइड](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) के कुछ सुझाव एह तरह बाड़न:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **रोज संगे टहलीं।** सुरक्षित, जानल-पहचानल डहर चुनीं जहाँ रस्ता में कवनो रुकावट ना होखे। अगर ऊ अकेले टहले जालन, त फोन नंबर वाला पहचान पत्र (आईडी ब्रेसलेट) पहिनावल निमन रही।
+2. **बुजुर्गन खातिर कसरत के वीडियो देखीं।** बइठ के भा खड़ा होके, संगे-संगे देख के करीं।
+3. **समय छोट राखीं।** एगो लंबा कसरत करावे से नीमन बा कि दिन भर में छोट-छोट बेर में करावल जाव।
+4. **संगीत के साथ जोड़ीं।** पुरान जानल-पहचानल गाना से कसरत बोझ ना लाग के एगो खेल जइसन लागेला। अगर उनकरा पसंद आवे त संगे नाच लीं।
+5. **पानी पियाईं आ आरामदायक जूता पहिनाईं।** कसरत के बीच में आ बाद में पानी भा जूस दीं, आ आरामदायक कपड़ा आ नाप के सही जूता पहिनाईं।
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+अगर टहले में दिक्कत होखे, त [अल्जाइमर के साथ जियत लोग के देखभाल खातिर एनआईए के गाइड](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) बइठ के करे लायक कई गो विकल्प सुझवेला। एह में कुर्सी पर योग भा कसरत, बीन बैग फेंकना, नरम गेंद भा गुब्बारा उछालल, बैंड खींचल, घर के हलुक सामान उठावल, आ पेडल चलावे वाला यंत्र शामिल बाड़न। झाड़ू लगावे आ धूल झाड़े जइसन सीधा-सादा काम भी जिनगी में हरकत बनवले राखेला।
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+हकीकत समझीं कि कसरत से का हो सकेला। लैंसेट कमीशन के कवनो अइसन सबूत नइखे मिलल कि कसरत से चिड़चिड़ापन जइसन बेवहार के बदलाव कम हो जाला। एहसे संगे मिल के हलुक-फुलुक हिलीं-डुलीं काहे कि एहसे मन खुश रहेला, ना कि कवनो भारी दोपहरिया के ठीक करे के औजार समझ के। अगर ऊ मना कर दें, त कवनो बात ना। हमनी के गाइड [जब ऊ ना कह देस](/caregiving/when-they-say-no/) में बाद में फेर से प्यार से कोसिस करे के तरीका बा। कसरत बीचही में रोक दिहल, भा खाली संगे बाहर धूप में बइठल भी अपने आप में एगो बढ़िया बात बा।
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+हिले-डुले के बाद, तनी देर खातिर शांत बइठल जइसे [Calm Breathing](/games/calm-breathing/) दुनों जने के मन शांत करे में मदद क सकेला। बइठ के हाथ हिलावे-डुलावे वाला गतिविधि खातिर मेज पर [Sort Together](/games/sort-together/) आ [Picture Bingo](/games/picture-bingo/) बहुत बढ़िया रहेला।
 
-## Balance and fall safety
+## संतुलन आ गिरला से बचाव
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+गिरल एगो आम बाकिर गंभीर बात बा। [सीडीसी के रिपोर्ट बा](https://www.cdc.gov/falls/data-research/facts-stats/index.html) कि हर साल चार में से एक से जादे बुजुर्ग गिर जालें, बाकिर आधा से भी कम लोग अपना डॉक्टर के ई बात बतावेला। एक बेर गिरला से दोबारा गिरे के खतरा दुगुना हो जाला। सीडीसी के मोताबिक गिरला के जोखिम कारक एह प्रकार बाड़न:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- गोड़ आ कमर में कमजोरी
+- चले-फिरे आ संतुलन बनावे में दिक्कत
+- कुछ दवाई, जइसे नींद के भा उदासी दूर करे वाली दवा
+- आंख के रोशनी कमजोर होखल
+- पैर में दरद भा खराब चप्पल-जूता
+- घर के खतरा जइसे रस्ता में बिखरल सामान, ढीला पायदान आ टूटल सीढ़ी
 
-To move more safely:
+सुरक्षित रहे खातिर:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- बिना पहिया वाली **मजबूत कुर्सी के इस्तेमाल करीं**, आ खड़ा होके कसरत करत घरी पकड़े खातिर कवनो काउंटर भा रेलिंग लगे राखीं।
+- पहिले रस्ता से पायदान, तार आ बिखरल सामान **हटा के जगह साफ करीं**।
+- **उठत घरी धीमे-धीमे उठीं**, आ चक्कर आवे भा डगमगाए पर तुरंत रुक जाईं।
+- मोजा भा ढीला चप्पल के जगह **सपोर्ट देवे वाला जूता पहिनीं**।
+- **सहारा के लगे संतुलन के अभ्यास करीं।** कुर्सी से खड़ा होखल आ एड़ी से पंजा सटा के चलल संतुलन बनावे के बढ़िया अभ्यास हवें।
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+सीडीसी सलाह देला कि अगर कवनो बुजुर्ग गिर जास आ माथा में चोट लग जाव, त तुरंत डॉक्टर के देखावे के चाहीं, खासकर तब जब ऊ खून पातर करे वाला दवा लेत होखस।
 
-## Talk with a doctor
+## डॉक्टर से बात करीं
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+कवनो नया कसरत शुरू करे से पहिले डॉक्टर से जरूर सलाह लीं, खास करके जेकरा दिल भा फेफड़ा के बीमारी, जोड़न में दरद, संतुलन के समस्या, भा डिमेंशिया बा। डॉक्टर भा फिजियोथेरेपिस्ट सुरक्षित गतिविधि बता सकत बाड़न आ ई देख सकत बाड़न कि कवनो दवाई से संतुलन त नइखे बिगड़त। अगर ऊ गिरल होखस, चाहे चोट ना भी लागल होखे, त डॉक्टर के जरूर बताईं। कसरत के घरी कवनो दरद भा बेचैनी होखे त तुरंत रोक दीं। अचानक छाती में दरद, सांस लेवे में दिक्कत, भा अचानक भरम होखे पर तुरंत 112 पर फोन करीं।
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+ई पन्ना खाली आम जानकारी खातिर बा, कवनो डॉक्टरी सलाह ना ह। हमनी के [चिकित्सीय अस्वीकरण (मेडिकल डिस्क्लेमर)](/medical-disclaimer/) देखीं। बड़हन तस्वीर समझे खातिर, पढ़ीं कि [डिमेंशिया के जोखिम कारकन पर रिसर्च का कहेला](/brain-health/risk-factors/) आ [का डिमेंशिया से बचाव संभव बा](/brain-health/can-dementia-be-prevented/)।

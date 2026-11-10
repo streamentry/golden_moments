@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Aktivaĵoj kaj ludoj por homoj kun Alchajmero"
+seoTitle: "Alchajmeraj aktivaĵoj kaj ludoj: ideoj laŭ stadio"
+description: "Aktivaĵoj kaj ludoj por homoj kun Alchajmero en ĉiu stadio, bazitaj sur longdaŭraj kapabloj kaj memoroj, kun senpagaj ludoj por kune ludi."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Bonaj aktivaĵoj por iu kun Alchajmero apogas sin sur tio, kio daŭras plej
+  longe: longe praktikataj kapabloj, malnovaj kantoj, konataj hejmaj taskoj
+  kaj la sentoj. Komence, kartoj, tabulludoj, kuirado kaj eliroj ofte ankoraŭ
+  taŭgas. En la meza stadio, provu faldadon, ordigadon, kantadon,
+  fotalbumojn kaj simplajn bildoludojn. Malfrue en la malsano, muziko, tuŝo
+  kaj kunesto plej gravas. Elektu laŭ tio, kiel la persono fartas hodiaŭ.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alchajmero estas la plej ofta kaŭzo de demenco, do ideoj pri aktivaĵoj por demenco ankaŭ taŭgas por ĝi."
+  - "Novaj informoj kutime estas plej malfacilaj unue, dum kapabloj kaj kantoj lernitaj antaŭ longe ofte restas pli longe. Apogu vin sur tiuj."
+  - "Stadioj interkovriĝas, kaj bonaj kaj malfacilaj tagoj estas normalaj. Elektu laŭ tio, kion la persono povas fari kaj ĝui hodiaŭ."
+  - "Elektu ludojn sen tempomezurilo, poentoj aŭ pridemandado, kaj lasu bildojn videblaj."
+  - "Rigardi, teni ion aŭ simple sidi kune ankaŭ estas partopreno."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Kiuj aktivaĵoj taŭgas por iu kun Alchajmero?"
+    a: "Konataj aktivaĵoj faritaj iom pli simplaj: faldi vestaĵojn, pretigi la tablon, kune kuiri, muziko kaj kantado, rigardi fotojn, promeni, ĝardeni kaj tempo kun dorlotbesto. Simplaj bildoludoj, facilaj puzloj kaj konversaciaj kartoj ankaŭ taŭgas por multaj homoj. Elektu tion, kion la persono ĉiam ĝuis, kaj faru tion kune kun li aŭ ŝi."
+  - q: "Ĉu ludoj taŭgas por homoj kun Alchajmero?"
+    a: "Ludoj povas esti agrabla maniero pasigi tempon kune, se la persono ĝuas ilin. Neniu ludo montriĝis trakti, malrapidigi aŭ haltigi Alchajmeron, do elektu ludojn por ĝuo: grandaj bildoj, malmultaj elektoj, kaj neniu tempomezurilo, poentoj aŭ sonoj pri malĝusta respondo."
+  - q: "Ĉu estas diferenco inter aktivaĵoj por demenco kaj aktivaĵoj por Alchajmero?"
+    a: "Plejparte ne. Alchajmera malsano estas la plej ofta kaŭzo de demenco, kaj la samaj ideoj pri aktivaĵoj validas. Kio helpas ĉe Alchajmero estas scii, ke freŝaj memoroj kutime malaperas unue, do aktivaĵoj bazitaj sur pli malnovaj kapabloj, kantoj kaj kutimoj ofte iras pli glate."
+  - q: "Kion iu kun malfrua stadio de Alchajmero ankoraŭ povas ĝui?"
+    a: "Plej ŝatatan muzikon, mildan manmasaĝon, molajn aĵojn por teni, laŭtlegadon, sidadon ekstere, kaj la kuneston de iu, je kiu li aŭ ŝi fidas. Tenu ĝin mallonga kaj trankvila, kaj observu lian aŭ ŝian vizaĝon kaj korpon por vidi, kio plaĉas."
+  - q: "Kiel mi povas interesigi iun kun Alchajmero pri aktivaĵo?"
+    a: "Petu helpon anstataŭ anonci aktivaĵon, pretigu ĉion antaŭe, kaj komencu ĝin mem, por ke la persono povu aliĝi. Elekti la horon de la tago, kiam la persono fartas plej bone, multe helpas. Se li aŭ ŝi diras ne, provu denove poste aŭ proponu pli malgrandan version."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Se iu kara al vi vivas kun Alchajmero, vi verŝajne jam rimarkis, ke iuj aferoj forglitas rapide, dum aliaj restas. La persono eble ne memoras la telefonvokon de ĉi-matene, sed ankoraŭ kantas ĉiun vorton de himno, faldas mantukon kiel ĉiam, aŭ disdonas kartojn senpense. Bonaj aktivaĵoj baziĝas sur tiuj daŭraj kapabloj. Ĉi tiu paĝo klarigas kial, poste donas ideojn por ĉiu stadio kaj la senpagajn ludojn en ĉi tiu retejo, kiuj taŭgas por ili.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Ĉu Alchajmero estas alia ol demenco rilate al aktivaĵoj?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Ne tre. Demenco estas la ĝenerala termino, kaj Alchajmera malsano estas ĝia plej ofta kaŭzo: la [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) diras, ke ĝi konsistigas 60 ĝis 80 procentojn de la kazoj de demenco. Preskaŭ ĉio skribita pri aktivaĵoj por demenco validas ankaŭ por Alchajmero, inkluzive de niaj [101 ideoj pri aktivaĵoj](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Kio utilas scii estas la kutima ordo de ŝanĝoj. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) klarigas, ke Alchajmero unue damaĝas la partojn de la cerbo ligitajn al memoro, kaj poste influas lingvon, rezonadon kaj socian konduton. La Alzheimer's Association diras, ke la plej ofta frua simptomo estas malfacilo memori ĵus lernitajn informojn. Ĉiu homo estas malsama, kaj multaj homoj havas miksitajn kaŭzojn, sed ĉi tiu modelo helpas kompreni, kio kutime taŭgas.
 
-## What kinds of activities suit Alzheimer's best?
+## Kiuj specoj de aktivaĵoj plej bone taŭgas por Alchajmero?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Aktivaĵoj, kiuj dependas de malnova, bone praktikata scio, kutime iras pli glate ol tiuj, kiuj postulas lerni kaj teni en la menso ion novan.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Longe praktikataj kapabloj.** La Alzheimer's Association rimarkas, ke homo eble ankoraŭ povas ludi simplajn kantojn, lernitajn antaŭ jaroj per piano. Trikado, sablado de ligno, miksado de kartoj, knedado de pasto kaj faldado de vestaĵoj estas similaj.
+- **Malnovaj kantoj kaj konata muziko.** Multaj homoj ankoraŭ konas ĉiun vorton de kantoj el siaj adoleskaj kaj fruaj plenkreskaj jaroj, himnoj kaj kantoj de sia geedziĝo. Vidu [muzikajn aktivaĵojn](/activities/music/).
+- **Ĉiutagaj taskoj kun celo.** La [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) listigas lavadon de manĝilaro, pretigadon de la tablo, ordigadon de ŝtrumpoj kaj faldadon de vestaĵoj inter aktivaĵoj, kiujn homoj povas ĝui. Senti sin utila gravas.
+- **Rekoni anstataŭ rememori.** Montri al kongrua bildo estas pli facile ol nomi ĝin el memoro. Tial bildoludoj, en kiuj ĉio estas videbla, funkcias pli bone ol kvizoj.
+- **La sentoj.** Teksturo, odoro, varmo, gusto kaj sono restas signifaj longe post kiam vortoj fariĝas malfacilaj. Vidu [sentajn aktivaĵojn](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Kio kutime iras malpli bone: io ajn kun horloĝo, novaj reguloj por lerni, multaj paŝoj por memori, aŭ demandoj, kiuj testas memoron, ekzemple «Ĉu vi memoras, kiu ĉi tiu estas?» Tiuj metas la malfacilan parton de Alchajmero en la centron.
 
-## Activities for early-stage Alzheimer's
+## Aktivaĵoj por frua stadio de Alchajmero
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+En la frua stadio, la [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) diras, ke homo eble ankoraŭ povas stiri, labori kaj partopreni en sociaj aktivaĵoj, dum li aŭ ŝi rimarkas memorajn lapseojn, ekzemple forgesi konatajn vortojn aŭ kie estas aĵoj. La plej bona aliro estas partnereco: demandu, kion la persono volas plu fari kaj kian helpon li aŭ ŝi deziras.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Daŭrigu ekzistantajn ŝatokupojn.** Golfo, briĝo, stebkovrilado, ĥoro kaj preĝejaj grupoj, kun malgrandaj adaptoj kiel pli malgrandaj grupoj kaj pli trankvilaj horoj.
+2. **Ludu konatajn kartajn kaj tabulludojn.** La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) listigas sciaĵludojn, vortserĉojn, kartludojn kaj tabulludojn por la frua stadio. Ludu kiel teamo, se kalkulado de poentoj komencas ĝeni la personon, aŭ tute lasu la poentojn.
+3. **Kuiru kune.** Lasu la personon prepari recepton, kiun li aŭ ŝi bone konas parkere, dum vi prizorgas la legadon de la paŝoj.
+4. **Komencu projekton pri vivrakonto.** Fotoj, receptoj kaj rakontoj en albumo, kiun la persono gvidas. Vidu [rememorajn aktivaĵojn](/activities/reminiscence/).
+5. **Iru al eliroj.** Plej ŝatata restoracio en trankvila horo, muzeo por mallonga vizito, promeno en parko.
+6. **Provu puzlojn, kiujn la persono mem elektas.** Krucvortenigmoj kun granda preso, vortserĉoj kaj puzloj. Vidu [puzlojn por demenco](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Pli da ideoj: [aktivaĵoj por frua stadio](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Aktivaĵoj por meza stadio de Alchajmero
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+La Alzheimer's Association priskribas la mezan stadion kiel kutime la plej longan, kaj diras, ke ĝi povas daŭri multajn jarojn. Vortoj miksiĝas, frustriĝo venas pli facile, kaj la persono bezonas pli da zorgo. La Alzheimer's Foundation of America aldonas, ke multaj homoj bezonas helpon por komenci aŭ daŭrigi aktivaĵojn. Via rolo ŝanĝiĝas al pretigado, montrado anstataŭ klarigado, kaj transpreno de la malfacilaj partoj.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Faldu, ordigu kaj kongruigu.** Mantukojn, ŝtrumpojn, manĝilaron, butonojn laŭ koloro. Veraj taskoj, farataj unu apud la alia.
+2. **Kantu kaj moviĝu kun muziko.** Aplaŭdu, svingiĝu aŭ dancu en la kuirejo. Komencu kanti mem kaj lasu la personon aliĝi.
+3. **Rigardu fotoalbumojn.** Priskribu tion, kion vi vidas, kaj invitu rakontojn: «Kia aŭto. Rakontu al mi pri ĝi.» Akceptu la nomojn, kiujn la persono uzas.
+4. **Ludu simplajn bildoludojn.** [Bildoparoj](/games/picture-pairs/) kun kvar ĝis ses kaheloj kaj bildoj lasitaj videblaj, aŭ [Trovu la saman](/games/find-the-same/) kun du aŭ tri elektoj.
+5. **Finu konatajn diraĵojn.** «Pomo tage forigas la...» Diraĵoj lernitaj antaŭ longe ofte venas facile. Provu [Finu la diraĵon](/games/finish-the-saying/), kie vi povas montri ajnan finon per unu tuŝeto.
+6. **Akvu kaj prizorgu plantojn.** Endomaj potoj aŭ levita bedo, kun malgranda akvumilo.
+7. **Faru kongruigan ludon el familiaj fotoj.** [Fotoparoj](/games/photo-pairs/) uzas bildojn, kiujn vi elektas en via aparato, kaj ili neniam forlasas ĝin.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Pli da ideoj: [aktivaĵoj por meza stadio](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Aktivaĵoj por malfrua stadio de Alchajmero
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+En la malfrua stadio, la Alzheimer's Association diras, ke homoj perdas la kapablon reagi al sia ĉirkaŭaĵo kaj daŭrigi konversacion, kvankam ili eble ankoraŭ diras vortojn aŭ frazojn. Aktivaĵo nun signifas komforton kaj ligon, alportitajn tien, kie la persono ripozas.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Ludu lian aŭ ŝian plej ŝatatan muzikon** mallaŭte, sen konkuranta televido.
+2. **Donu manmasaĝon** per lotumo kun odoro, kiun la persono ŝatas.
+3. **Proponu molajn aĵojn por teni:** varman kovrilon, lanugon, glatan ŝtonon.
+4. **Legu laŭte** psalmojn, poemojn aŭ konatan rakonton. La ritmo gravas pli ol la signifo.
+5. **Sidu ekstere** en ombro, aŭ ĉe fenestro kun birdoj por rigardi.
+6. **Rigardu unu grandan bildon kune.** Sunfloro aŭ hundo, kiu plenigas tabulkomputilan ekranon, dum vi diras tion, kion vi vidas.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Pli da ideoj: [aktivaĵoj por malfrua stadio](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Kiuj ludoj taŭgas por iu kun Alchajmero?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Elektu ludojn, en kiuj oni ne povas malsukcesi. Ĉiu ludo en ĉi tiu retejo estas senpaga, funkcias en retumilo kaj havas neniun tempomezurilon, poentojn aŭ registriĝon.
 
-| Game | What you do | Often suits |
+| Ludo | Kion vi faras | Ofte taŭgas por |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Bildoparoj](/games/picture-pairs/) | Kongruigu grandajn bildojn; ili povas resti montrataj | Frua kaj meza stadio |
+| [Trovu la saman](/games/find-the-same/) | Tuŝetu la bildon, kiu kongruas kun tiu supre | Meza kaj malfrua stadio, kun helpo |
+| [Finu la diraĵon](/games/finish-the-saying/) | Elektu la lastan vorton de konata diraĵo, aŭ montru ĝin | Frua kaj meza stadio |
+| [Bildopuzlo](/games/picture-puzzle/) | Interŝanĝu 4 aŭ 9 pecojn reen en ilian lokon, kun la bildo montrata | Frua kaj meza stadio |
+| [Konversaciaj kartoj](/games/conversation-cards/) | Bildo kaj malferma demando por paroli pri ĝi | Ajna stadio, kun iu por paroli |
+| [Fotoparoj](/games/photo-pairs/) | Kongruiga ludo farita el viaj propraj fotoj | Frua kaj meza stadio |
+| [Kolorigo](/games/coloring/) | Tuŝetu koloron, poste parton de bildo; aŭ presu ĝin | Ajna stadio, kun helpo |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Por scii kiel sidi kune, kiom helpi kaj kiam ĉesi, legu [kiel ludi ludojn kun iu, kiu vivas kun demenco](/caregiving/how-to-play-together/). Se vi demandas vin pri «memorludoj», vidu [memorludojn por plenkreskuloj kun demenco](/activities/memory-games/).
 
-## How to make any activity easier
+## Kiel faciligi ajnan aktivaĵon
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+La konsiloj de la NIA resume estas kelkaj kutimoj: adaptu la aktivaĵon al tio, kion la persono povas fari, helpu la personon komenci, observu frustriĝon, certigu ke la persono sentas sin sukcesa, kaj lasu la personon simple rigardi, se tion li aŭ ŝi ĝuas.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Elektu la horon de la tago, kiam la persono fartas plej bone,** kaj tenu la momentojn mallongaj.
+- **Pretigu ĉion antaŭe**, por ke vi povu tuj komenci.
+- **Invitu, ne instruu.** «Ĉu vi povus helpi al mi?» funkcias pli bone ol «Tempo por aktivaĵo».
+- **Faru la unuan paŝon mem** kaj lasu la personon aliĝi.
+- **Proponu unu paŝon kaj unu elekton samtempe.**
+- **Lasu ĝin fariĝi laŭ la maniero de la persono.** Malrektaj mantukoj tute taŭgas.
+- **Ĉesu dum ĝi ankoraŭ estas agrabla.** Fini frue estas bona rezulto, ne malsukceso. Se la persono rifuzas, vidu [kiam iu kun demenco diras ne](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) diras tion simple: fokusiĝu al ĝuo, ne al atingo.

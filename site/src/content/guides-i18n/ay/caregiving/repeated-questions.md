@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Dementia jaqi mayampi mayampi jawsañ: kunas sañ"
+seoTitle: "Dementia jawsañ mayampi: kunas sañ, kunas luraña"
+description: "Kunatsa dementia ch'amani jaqix mayampi mayampi jawsaski, ch'iwi arunakampi sarnaqañ thakhinaka, yanapt'ir uñjasiñanakampi, ukat kunapachatix doctor yuqaña."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Dementia ch'amani jaqinakan mayampi mayampi jawsañapax sum uñjasiwa: jupax
+  jarkaqañ janiw amtkaspati, ukat jawsäwix mä llakiw utji. Ch'iwiyañ
+  arunakampi jaytañamawa, kunapachatix jupax yaqha kutiw jawsi, uk jan "maya
+  kuti jawsta" sañamawa. Arunak uñjasiñ uñtasiñaruw qillqañamawa, pasado
+  pachanakxa ch'iwiyañ jan wali arumi, ukat kusisiñ luraña lurañamawa. Mä
+  jan suma usuchäwix doctor yanapt'añ munaraki.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Jupax jarkaqañ janiw amtkaspati; janiw kunatak sañ sapkiti."
+  - "Jawsäwix mä llakiwa sapa utji, akham sañapachi doctor uñjasiñ llakisiña, jan ch'amañchatäñ munaña."
+  - "Ch'iwiyañ, ch'iwi arunakampi, sum sarnaqañampi jaytañamawa, mayampi mayampi jawsaski ukhamarakiw. Janiw \"maya kuti jawsta\" sañamti."
+  - "Qillqata, pizarra, reloj jan calendario uñjasiñ utji ukax jawsäwi sañ arsuwa."
+  - "Llakisiñ pachanakxa ch'iwiyañ arunakampi, pasado pacha sapa utjaskiwa."
+  - "Kunapachatix ch'amanchañ munaski ukhaxa, qhipa ch'iwiyañ ukat doctor yuqaña, suytaña ch'amanchataspa."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "¿Kunatsa dementia ch'amani aitakaxa mayampi mayampi jawsaski?"
+    a: "Dementia ch'amaxa qharürïaki amtañ ch'amaru ukat jupax janiw jawsta sañ amtkaspati, ukat jawsaw uñjañapax jan amtañ utjkaspa. Mayninakan jawsäwix mä llakiwa sapa utjaskiwa, akham sañapachi kuna jutiri uñjasiñ aka. Llakiñ uñjasiñ, jan kuna jutkaspa, sañ arsuñ wali askiwa."
+  - q: "¿Jupar \"maya kuti jawsta\" sañ munkta?"
+    a: "Janiw. Jupax janiw amtañ yanapt'kiti, ukat khuchhaña pä lurat ist'asiwa. Dementia yatiñ utanakax sañ arsutayi, kunapachas ch'iwiyañ, pasado pacha sapa ch'iwiyañ, ukat ch'iwi arunakampi jaytañ."
+  - q: "¿Qillqañax yanapt'istati?"
+    a: "Yanapt'istaspawa, jupax uñjañ atipt'at. Qillqata, uru uru lurañanakampi pizarra, dätum reloj jan calendario uñjañ ch'iwi jaytañ, jupax kikipan uñjañ atiñ. Jupar ch'iwiñ jaytañamawa, \"Nayax sipansa sañ arsta\" sañ janiw sañamti."
+  - q: "¿Kunapachatsa doctor jan uñjasiñ jan irnaqañ parlañ ukat?"
+    a: "Qhiparu. Doctor uñjasiña jan irnaqañ jaysa, pä uru mayuqtanakan jawsäwi, llakisiña amt'añ. Sapa pacha ch'iwiyañ, mä mä lurañanakampi jaytañamawa."
+  - q: "¿Kunapachatsa mayampi mayampi jawsañax doctor yuqañ sañ?"
+    a: "Kunapachatix jawsäwi, ch'amani jan ch'iwi jan irnaqañ uru, jaqi ch'amanchañ jan amti, ukhaxa jupax doctor yuqañamawa sapa. Infeccion, machaq ch'amanchañ, llakisiña, usu jan ch'amapa jan sumätap utjchixa delirium sañ ukax jan suma usuchäwiw, ukatx jiwaspa."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+"¿Doctor kuna pachas?" Tunka minuto qhipa: "¿Doctor kuna pachas?" Dementia ch'amani jaqi uñjañ utjki ukax mayampi mayampi jawsañ, uk ch'amäñ tuqi jan sapa ch'amaniw. Akax wali sapa utjaraki, janiw jupa kuti luratäkiti, ukat jaqi jupanakampi uñjasiñ ch'iwi arunakas utjarakiwa, ukax sum sarnaqañ yanapt'i.
 
-## Why does someone with dementia ask the same question over and over?
+## ¿Kunatsa dementia ch'amani jaqix mayampi mayampi jawsaski?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Ukax sapa amtaw. Dementia qharürïaki amtañ ch'amar ch'amañchi, ukat jupax janiw jawsta sañ amtkiti, jan ukax jawsäwi ch'iwi sañ jan amtkiti. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) uñt'ayi, mayampi mayampi jawsañax wali sapa ukat suyasiñ utjki sasa.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Jawsäwix mä llakiwa sapa utji. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) uñt'ayi, mayampi mayampi jawsäwix mä llakiñ, yanapt'aña mayiñ, jan jan ist'asiña llakisiña uñt'ayañ atiwa, ukat jaqix sum amuyt'añ, uñjasiñ thakhi thaqhañ sapa. "¿Kunapachas sarañ?" sañax, "Sarañ tuqi llakisiwa" sañ sapa. Ch'amp'a, llakisiña, jach'a sañ, thakhi sarnaqañ ch'amañchañ ukanakas jawsäwi mayt'ayi, ukat mayninakan jawsäwix jan jak'ar jiwasa ukhamaraki ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## ¿Kunas sañ?
 
-Answer calmly and briefly, as if it were the first time.
+Ch'iwiyañ arunakampi ukat sallq'a, mä kuti jaqi sapa uñjasiñ.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Ch'iwi aru sallqa ukat mayni sañ.** "Doctor patak paqallq pacha. Nayax jumampi utjapxäma." Mayni ch'iwi aru ist'añ sum.
+- **Llakisiña amuyaña.** "Doctor tuqi jawsta. Jichhuruw, nayax apaqapxäma. Janiw kunas lurañkiti."
+- **Suma arunakampi ukat uñjasiñ sut'a,** jupa munaski ukhaxa. Alzheimer's Association sañ, ch'iwi jan ch'amañchañ, jan yuqañ, jan ist'añ.
+- **Jupax munañ aru jaytañ,** kuntix mayiri ukhama. Alzheimer's Association sañ, kuntix mayiri ukhama jaytañamawa.
 
-## What should I avoid?
+## ¿Kunas jan lurañamawa?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **"Jumax maya kuti jawsta."** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sañ janiw uñt'ayañ munkiti kuna jawsta sañ. Jupax janiw amtañ yanapt'kiti, ukat khuchhaña pä lurat ist'asiwa.
+- **Jach'a arunaka.** Walja arunakax jan amtañ walja utji.
+- **Jiw jiwasa, jan suma arunaka.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) sañ, ch'amp'a jan llakisiñ ukat jan khuchhaña. Akax wali ch'amaniwa; uñjañ tuqi sapa sarnaqañ.
 
-## Simple tools that answer the question for you
+## Yanapt'ir uñjasiñanakax jawsäwi jaytañ
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Jupax uñjañ atiñ ukat qillqata arunakax, ch'iwiyañ arunakat sum yanapt'i.
 
-| Tool | How to use it |
+| Uñjasiñ | Kunjamas lurañ |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Jach'a letranakampi qillqata | "Doctor uru 2 pm. Mary apaqani." Jupax maya uñjaski uka cheqan uchañ |
+| Pizarra | Uru lurañanakax kimsa jan pusi arunakampi; sapa uru jist'añ ukat qillqaña |
+| Jach'a reloj uru ukat fecha | Yanapt'i "¿Kuna uruw?" ukat "¿Pachax utjawa?" sañ jawsäwinakan |
+| Calendario | Sapa uru laq'añ; qhipa uñjasiña uñjañ |
+| Uñtasiñ uñjasiña | Mayni jaqi jutki ukax uñjasiña uñjañ "¿Kuka jutki?" jawsäwinakan |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Akax [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ukat [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) uñt'ayatawa. Qillqata sum uñjañ sañ sallq'a ("Pizarra uñjasipxañani") sañ, janiw "Nayax qillqta" sañ sapa.
 
-## Tell them about events close to the time
+## Llakisiña pacha tuqi sarnaqañ
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Doctor jan sarañ uru mayni ukax walja uru mayampi jawsäwinak utji. Family Caregiver Alliance ukat Alzheimer's Los Angeles sañ, llakisiña lurañanakax, akham sañapachi doctor uñjasiña jan bañu uñjañ, sapa pachaw parlañ. Ukat kuntix jutiri ukax mä mä lurañanakampi sarnaqañ.
 
-## Activities that can shift attention
+## Ch'iwiyañ lurañanakax jawsäwi jaytañ
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Jawsäwinak ch'iwiyañ, ukat llakisiña amuyatax, kusisiñ lurañ yanapt'i, jach'a sañ aski jawsäwi jiwasa. Sapa yatiñ jaqinakax sañ, munañ lurañ tuqi.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Sallq'a, sum lurañ.** [Picture pairs](/games/picture-pairs/) uñjasiñ uñtayiwa, jan amtañ munañ.
+2. **Yatiñ lurañ.** Ch'uqi aptaña, calcetines ch'allaña jan mesa uñtaña. [Sort together](/games/sort-together/) uñjasiñ lurañ uñtayiwa.
+3. **Munañ tuqi parlaña.** [Conversation cards](/games/conversation-cards/) jan jak'ar arunakaniw.
+4. **Qhathu, sarañ jan ch'uqi.** National Institute on Aging sañ, ukanakax sallq'a ch'iwiyañ thakhinakaw.
+5. **Jan jach'a sayt'añ.** Chika sayt'añ, qhuqhi uñjañ, jan [calm breathing](/games/calm-breathing/) sañ sapa.
 
-If they return to the question, answer it again, kindly. That is fine.
+Jupax maya kuti jawsi ukax, sum ch'iwiyañamawa. Ukax walikiw.
 
-## Look for patterns
+## Uruw uñjasiña
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association sañ, jawsäwinakax uru pacha, jaqi tuqi jan ukax thaki tuqi uñjasiñ utjaspas uñjañamawa. Jupanakax sapa jutañ uñjañ sañ, sarnaqañ lurañamawa: uñjasiñ qillqata, yatiña lurañ, jan ch'uqi pacha. Tarde qhipa wali ch'amañchañ utji ukax, [calm late-afternoon activities](/caregiving/late-day-restlessness/) uñjañ yanapt'i.
 
-## Take care of yourself
+## Kikim uñjasiñ
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Mayampi mayampi jawsañ, uka mismo jawsäwi qhipa kutinakax wali ch'amañchañ. Llakisiña sapa ukax, jaqi sapa kuntix jaqi ch'iwi ch'amañchi, mä thaki ch'uqi sayt'añ, jan sarañ, uka [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) uñt'ayi. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) sañ, yanapt'añ mayiñ ukat yanapt'ir jaqi sapa. Yatiñ lurañanakax [caregiver self-care guide](/caregiving/caregiver-self-care/) uñjañamawa.
 
-## When should I call a doctor?
+## ¿Kunapachatsa doctor yuqañ?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Kunapachatix jawsäwi, ch'amani jan ch'iwi, jaqi lurañ jan uru jan sumäki ukax, doctor yuqañamawa sapa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) sañ, jan suma usuchäwi, infeccion ukat machaq ch'amanchañ uru, doctor uñjañamawa. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) uñt'ayi, infeccion, machaq ch'amanchañ, usu jan ch'amapa, llakisiña jan jan ist'asiña, ukanakax delirium sañ jan suma usuchäwi utjañ sañ. Sapa jan walt'äwi utjkchixa, emergencia yupana ukat jach'a yanapt'ir jaqinak uñjañamawa.

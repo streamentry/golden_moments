@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Tosese ƒe Kuxi kple Tagbɔdɔléle ƒe Afɔku: Nusi Numekuku Fia"
+seoTitle: "Tosese ƒe Kuxi kple Tagbɔdɔléle: Numekuku"
+description: "Nusitae tosese ƒe kuxi nye nusi ate ŋu ana tagbɔdɔléle nava, nusi ACHIEVE ƒe dodokpɔ fia ŋutɔŋutɔ, kple alesi nàlé ŋku ɖe tosese ŋu eye nàƒo nu bɔbɔe."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Lancet ƒe Dɔwɔha si ƒe 2024 ƒe nyatakaka yɔ tosese ƒe kuxi be enye nusiwo ate ŋu atrɔ siwo doa afɔku na
+  tagbɔdɔléle dometɔ ɖeka si lolo wu. Le ACHIEVE ƒe dodokpɔa me la, tosese ƒe mɔ̃wo meɖe susu ƒe gbɔdzɔgbɔdzɔ dzi kpɔtɔ
+  le ameawo katã gome o, gake ƒuƒoƒo aɖe si ƒe afɔkua lolo wu la kpɔ gbɔdzɔgbɔdzɔ sue aɖe. Tosese ƒe mɔ̃wo kpena ɖe
+  dzeɖoɖo kple gbesiagbedɔwo ŋu kokoko. Na woalé ŋku ɖe wò tosese ŋu, bu nusɔsrɔ̃ alo asitsaƒe tosese ƒe mɔ̃ ŋu, eye
+  nàƒo nu kple atikewɔla.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet ƒe Dɔwɔhaa bu akɔnta be tosese ƒe kuxi kpɔ gome le tagbɔdɔléle ƒe 7 le alafa me le xexeame godoo, si sɔ kple nusiwo katã lolo wu le nu 14awo dome."
+  - "Le ACHIEVE ƒe dodokpɔ si me ame tsitsi 977 nɔ la, tosese ƒe mɔ̃wo metrɔ susu ƒe gbɔdzɔgbɔdzɔ le ƒe etɔ̃ megbe le ameawo katã gome o."
+  - "Le ACHIEVE ƒe ƒuƒoƒo sue aɖe si ƒe afɔkua lolo wu me la, susu ƒe gbɔdzɔgbɔdzɔ ɖiɖi 48 le alafa me esime wozã tosese ƒe mɔ̃wo; ele be woaɖo kpe edzi ake."
+  - "Tso October 2022 dzi la, ame tsitsi siwo le United States siwo susu be yewoƒe tosese gbɔdzɔ vie alo le titina la ate ŋu aƒle tosese ƒe mɔ̃ siwo FDA kpɔ dzi ɖo le asitsaƒe tẽ, evɔ womahiã atikeŋlɔɖi o."
+  - "Le 2024 me la, wotsɔ ŋku ƒe gbɔdzɔgbɔdzɔ si ŋu womelé ŋku ɖo o kpe ɖe tagbɔdɔléle ƒe afɔkuwo ŋu, eyata ŋku ƒe dodokpɔ hã le vevie."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Ðe tosese ƒe mɔ̃wo xea mɔ na tagbɔdɔlélea?"
+    a: "Womeɖo kpe edzi haɖe o. ACHIEVE ƒe dodokpɔa mekpɔ ŋusẽ aɖeke le susu ƒe gbɔdzɔgbɔdzɔ dzi le ƒe etɔ̃ megbe le ameawo katã gome o, togbɔ be ƒuƒoƒo ɖeka si ƒe afɔkua lolo wu la nɔ nyuie wu hã. Togbɔ be alea wòle hã la, ele be woabu tosese ƒe mɔ̃wo ŋu, elabena wonaa dzeɖoɖo, dedienɔnɔ kple gbesiagbedɔwo nɔa bɔbɔe."
+  - q: "Ame kawoe ate ŋu aƒle tosese ƒe mɔ̃ le asitsaƒe tẽ?"
+    a: "FDA ɖe mɔ na ame tsitsi siwo xɔ ƒe 18 kple edzivɔ siwo susu be yewoƒe tosese gbɔdzɔ vie alo le titina be woaƒle tosese ƒe mɔ̃ le asitsaƒewo alo Internet dzi evɔ womahiã atikeŋlɔɖi o. Womewɔ wo na ame siwo ƒe tosese gbɔdzɔ ŋutɔ o. Ne to le vevem, tsi alo nu le dodom le toa me, ta le tsatsam alo tosese trɔ kpata la, ele be woayi atikewɔla gbɔ do ŋgɔ."
+  - q: "Ðe tosese ƒe kuxi ate ŋu adze abe tagbɔdɔlélee enea?"
+    a: "Ɣeaɖewoɣi la, ate ŋu. National Institute on Aging gblɔ be ɣeaɖewoɣi la, wosusuna be ame tsitsi siwo mesea nu nyuie o la ƒe susu le tɔtɔm alo womeɖoa to o. Tosese ƒe dodokpɔ nye afɔɖeɖe nyui aɖe ne ame aɖe le eɖokui ɖem ɖe aga alo mele nusi wogblɔ sem o."
+  - q: "Zi nenie wòle be ame tsitsiwo nalé ŋku ɖe woƒe ŋkuwo ŋu?"
+    a: "National Institute on Aging ɖoa aɖaŋu be woawɔ ŋku ƒe dodokpɔ si me wokea ŋku me ƒe ɖeka alo eve ɖesiaɖe le ƒe 60 megbe, alo abe alesi ŋku ŋu dɔwɔla gblɔe ene. Zi geɖe la, ele be ame siwo ŋu sukli dɔ alo ʋukakɔ kɔkɔ le la nawɔe zi ɖeka ya teti ƒe sia ƒe."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Tosese ƒe kuxi bɔ ɖe tsitsime, eye numekulawo bua eŋu vevie abe nusi ate ŋu ado afɔku na tagbɔdɔlélee ene. Esia mefia be woɖo kpe edzi be tosese ƒe mɔ̃wo xea mɔ na tagbɔdɔléle o; dodokpɔ nyuitɔ kekeake si wowɔ va yi la ƒe emetsonuwo to vovo. Axa sia ɖe nusi numekukua fia me, alesi nàlé ŋku ɖe tosese ŋu, nusi tosese ƒe mɔ̃ siwo woƒlena le asitsaƒe tẽ le United States nye, kple alesi nàwɔ dzeɖoɖo nanɔ bɔbɔe.
 
-## Why does hearing matter for brain health?
+## Nusitae tosese le vevie na ahɔhɔ̃ ƒe lãmesẽ?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Tosese ƒe kuxi do ƒome kple afɔku si lolo wu be tagbɔdɔléle nava. [Lancet ƒe Dɔwɔha si ƒe 2024 ƒe nyatakaka](https://doi.org/10.1016/S0140-6736(24)01296-0) bu akɔnta be ekpɔ gome le tagbɔdɔléle ƒe 7 le alafa me le xexeame godoo. Esia sɔ kple LDL cholesterol si kɔ gbɔ ŋutɔ le nusiwo katã lolo wu dome le nu 14 siwo woate ŋu atrɔ siwo Dɔwɔhaa ƒe kpɔɖeŋua ɖe fia me, abe alesi [UCL ƒe nyatakaka ƒe totoɖeme](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) gblɔe ene.
 
-Key findings from the Commission:
+Nu vevi siwo Dɔwɔhaa ke ɖe ŋu:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Afɔku si lolo wu ne tosese ƒe kuxi li.** Le numekuku nyui ade siwo woƒo ƒu me la, ame siwo ŋu tosese ƒe kuxi le la ƒe afɔku be tagbɔdɔléle nava lolo wu ame siwo ƒe tosese le nyuie ŋu abe 37 le alafa me ene.
+- **Gbɔdzɔgbɔdzɔ geɖe wu, afɔku geɖe wu.** Numekuku siwo kpɔ alesi wògblẽe ɖa la ke ɖe ŋu be afɔkua dzina ɖe edzi ne tosese gblẽna ɖe edzi.
+- **Susunuwowoe, womeɖo kpe wo dzi haɖe o.** Susuawo dometɔ aɖewoe nye ɖeka kolia nɔnɔ kple ameɖokui ɖeɖe ɖe aga, dzigbɔgbɔɖi, nuʋãʋã sue na ahɔhɔ̃a, kple susu ƒe agbagbadzedze geɖe si tosese bia.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Tosese ƒe kuxi bɔ. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) gblɔ be ame tsitsiwo dometɔ ɖeka le etɔ̃ ɖesiaɖe me ŋue wòle, eye mɔnukpɔkpɔa dzina ɖe edzi kple ƒe siwo woxɔ.
 
-## What did the ACHIEVE hearing aid trial find?
+## Nukae ACHIEVE ƒe tosese ƒe mɔ̃ ƒe dodokpɔa ke ɖe ŋu?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE nye dodokpɔ gbãtɔ si me wowɔ nu le vome le tosese ƒe mɔ̃wo kple susu ƒe gbɔdzɔgbɔdzɔ ŋu. Zi geɖe la, wogblɔa eƒe emetsonuwo le mɔ gbegblẽ nu, eyata nu siawoe nye nyatakaka tso [dodokpɔa ƒe nyatakaka si woɖe ɖe go](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) me.
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Ame siwo kpɔ gome:** Ame tsitsi 977 siwo xɔ ƒe 70 va ɖo 84, siwo ŋu tosese ƒe kuxi le gake womelé be nɛ o, eye susudɔ gã aɖeke mele wo ŋu o, le United States ƒe nutoa me teƒe ene.
+- **Nusi wotsɔ sɔ kple wo nɔewo:** Ameawo ƒe afã xɔ tosese ƒe mɔ̃wo kpe ɖe aɖaŋuɖoɖo ƒe takpekpewo ŋu kple tosese ŋu nunyala. Afã kemɛa xɔ lãmesẽ ŋuti nufiafia tso tsitsime nyuie ŋu.
+- **Emetsonu vevitɔ:** Le ƒe etɔ̃ megbe la, **vovototo aɖeke menɔ** susu ƒe gbɔdzɔgbɔdzɔa dome le ƒuƒoƒo eveawo katã gome o.
+- **Ƒuƒoƒo sue aɖe ƒe emetsonu:** Dodokpɔa ƒo ameawo nu ƒu tso teƒe eve. Ame 238 tso dzidɔ ƒe lãmesẽ numekuku didi aɖe (ARIC) me, eye abe ƒuƒoƒo ene la, woƒe afɔku be susu ƒe gbɔdzɔgbɔdzɔ nava lolo wu. Le ƒuƒoƒo sia me la, gbɔdzɔgbɔdzɔa **ɖiɖi 48 le alafa me** esime wozã tosese ƒe mɔ̃wo. Le nutoa me lɔlɔ̃nu faa wɔla 739 siwo le lãmesẽ me dome la, ŋusẽ si dze ƒã aɖeke menɔ anyi o.
 
-How to read this honestly:
+Alesi nàxlẽ esia le anukwareɖiɖi me:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Ŋuɖoɖo bliboa nye be ŋusẽ aɖeke menɔ anyi o.
+- Woɖo ƒuƒoƒo suea ƒe nusi woke ɖe ŋu ɖi do ŋgɔ, gake etso numekuku evelia me le ƒuƒoƒo sue aɖe ŋu. Ele be woaɖo kpe edzi le numekuku bubuwo me.
+- Kpɔlaawo nya ɖoɖo si me wole, si ate ŋu akpɔ ŋusẽ ɖe emetsonuawo dzi.
+- Lancet ƒe Dɔwɔhaa xlẽ kpeɖodziawo be tosese ƒe mɔ̃wo dze abe ɖe wokpena ɖe ame ŋu vevie wu ne tosese ƒe kuxi le wo ŋu kpe ɖe tagbɔdɔléle ƒe afɔku bubuwo ŋu ene.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Nyanuwuwuae nye be womeɖo kpe edzi be tosese ƒe mɔ̃wo xea mɔ na tagbɔdɔléle o. Gake wokpena ɖe amewo ŋu be woase nu, woakpɔ gome le dzeɖoɖowo me eye woanɔ kadodo me, si nye susu nyui aɖe si ta woabu wo ŋu.
 
-## How do I know if hearing should be checked?
+## Aleke mawɔ anya be ele be woalé ŋku ɖe tosese ŋua?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA ɖoa aɖaŋu be nàyi atikewɔla gbɔ ne wò alo ame si ŋu nèle belem na:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Sea nu gɔme sesẽ le kaƒoƒo dzi
+- Sea dzeɖoɖowo yome sesẽ ne ame eve alo esi wu nenema le nu ƒom
+- Biaa amewo enuenu be woagbugbɔ nusi wogblɔ agblɔ
+- Doa television ƒe gbe ɖe dzi ale gbegbe be ame bubuwo ƒoa nu
+- Sea nuƒoƒo gɔme sesẽ ne toɣli bubuwo le xɔa me
+- Susuna be ame bubuwo le nu ƒom blewu alo mele eme kɔm o
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Dze egɔme kple wò atikewɔla gbãtɔ, ame si ate ŋu aɖo wò ɖe tosese ŋu nunyala alo to, ŋɔti kple ve ŋu atikewɔla gbɔ. To me ʋeʋẽ ƒe ƒuƒoƒo nye nusi bɔ si ate ŋu ana tosese nagblẽ, si atikewɔla ate ŋu alé ŋku ɖe eŋu. **Tosese ƒe bubu kpata nye nudzɔdzɔ kpata si hiã atikewɔwɔ**, eye NIA ɖoa aɖaŋu be nàyi atikewɔla gbɔ enumake.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Woate ŋu abu tosese ƒe kuxi be enye susutɔtɔ. NIA gblɔ be ɣeaɖewoɣi la, wosusuna be ame tsitsi siwo mesea nu nyuie o la ƒe susu le tɔtɔm, womeɖoa nya ŋu o alo womeɖoa to o. Ne ame si lɔ̃m nèle le eɖokui ɖem ɖe aga alo mele nusi wogblɔ sem o la, tosese ƒe dodokpɔ nye afɔɖeɖe nyui aɖe le gɔmedzedzea me.
 
-## What are over-the-counter hearing aids?
+## Nukae nye tosese ƒe mɔ̃ siwo woƒlena le asitsaƒe tẽ?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Tso October 17, 2022 dzi la, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ɖe mɔ na tosese ƒe mɔ̃ siwo woƒlena le asitsaƒe tẽ (OTC). Aleae woto vovo tso tosese ƒe mɔ̃ siwo woxɔna to atikeŋlɔɖi me gbɔ:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Nɔnɔme | OTC tosese ƒe mɔ̃wo | Tosese ƒe mɔ̃ siwo woxɔna to atikeŋlɔɖi me |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Ame siwo ŋu wowɔ wo ɖo | Ame tsitsi siwo xɔ ƒe 18 kple edzivɔ siwo susu be yewoƒe tosese gbɔdzɔ vie alo le titina | Tosese ƒe gbɔdzɔgbɔdzɔ ƒomevi ɖesiaɖe, ƒe ɖesiaɖe |
+| Afi si woaxɔ wo le | Asitsaƒewo alo Internet dzi, mehiã dodokpɔ alo atikeŋlɔɖi o | To tosese ŋu dɔwɔla si si mɔɖeɖe le dzi |
+| Wo ɖoɖo | Wò ŋutɔ nàtrɔ ɖoɖowo, zi geɖe la kple dɔwɔnu aɖe | Dɔwɔla aɖe ɖoa wo ɖe wò tosese nu |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA gblɔ be womewɔ OTC tosese ƒe mɔ̃wo na tosese ƒe gbɔdzɔgbɔdzɔ gã alo esi gbɔ eme ŋutɔ o. Eɖoa aɖaŋu be nàyi atikewɔla gbɔ, vevietɔ to, ŋɔti kple ve ŋu atikewɔla, hafi nàƒlee ne:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- To le vevem alo mele dziwò nyuie o
+- Tsi, nu ʋeʋĩ alo ʋu do le toa me le ɣleti ade siwo va yi me
+- Tosese trɔ kpata alo le tɔtrɔm
+- Tosese gbɔdzɔ le to ɖeka me wu evelia, alo toɣli le le to ɖeka ko me
+- Ta le tsatsam
+- To me ʋeʋẽ sɔ gbɔ ŋutɔ
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Ebiaa ɣeyiɣi be woasrɔ̃ tosese ƒe mɔ̃wo zazã, eyata lé ŋku ɖe wo tɔtrɔgbɔ ƒe ɖoɖoa ŋu hafi nàƒlee, abe alesi FDA ɖoa aɖaŋui ene. NIA ɖoa aɖaŋu be nàbia be wò lãmesẽkpekpeɖeŋu axea gazazãa ƒe akpa aɖe hã. Na ame si le agbe nɔm kple tagbɔdɔléle la, tosese ŋu nunyala ate ŋu akpe ɖe ŋuwò nàtia mɔ̃ ƒomevi kple ɖoɖo si anɔ bɔbɔe be woakpɔ edzi le gbesiagbe.
 
-## How can I talk more easily with someone who has hearing loss?
+## Aleke mawɔ dzeɖoɖo nanɔ bɔbɔe kple ame si ŋu tosese ƒe kuxi le?
 
-The NIA suggests:
+NIA ɖoa aɖaŋu be:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Trɔ mo ɖe amea ŋu eye nàlé ŋku ɖe eŋu**, le kekeli nyui me, ale be wòakpɔ wò nuyi kple mo ƒe dzesiwo.
+2. **Di teƒe si toɣli mele o.** Tsi television alo nàʋu ayi teƒe si toɣli mele o.
+3. **Ƒo nu sesĩe vie, gake mègado ɣli o.** Ƒo nu le dzɔdzɔme nu eye le du si sɔ nu.
+4. **Na wò nu nano ʋuʋu.** Mègaɖu nu, aɖu nu le nu me alo atsyɔ nu dzi esime nèle nu ƒom o.
+5. **Gbugbɔ nya la gblɔ le mɔ bubu nu tsɔ wu be nàgbugbɔe agblɔ ko** ne womese nane gɔme o.
+6. **Ame ɖeka le ɣeyiɣi ɖeka me.** Le ƒuƒoƒo me la, wɔ dɔ be nàtsɔ amea ade eme.
+7. **Gbɔ dzi ɖi eye nàbia alesi nàte ŋu akpe ɖe eŋu.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Aɖaŋuɖoɖo siawo wɔa dɔ nyuie kpe ɖe míaƒe [aɖaŋuɖoɖowo tso dzeɖoɖo kple ame si le agbe nɔm kple tagbɔdɔléle ŋu](/caregiving/communication-tips/) ŋu. Dɔwɔna siwo zãa nɔnɔmetatawo hã ɖea agba le tosese dzi. [Picture Pairs](/games/picture-pairs/) kple [Conversation Cards](/games/conversation-cards/) wɔa dɔ to nusi nèkpɔna dzi, eye [Finish the Saying](/games/finish-the-saying/) ɖea mɔ na wò be nàfia nuwuwua tsɔ wu be nàgblɔe. Ne èdi nyatakaka tso kaƒoƒo ŋu la, kpɔ míaƒe mɔfiame tso [kaƒoƒo kple video kaƒoƒo ŋu](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Ŋku hã le vevie
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Le 2024 me la, Lancet ƒe Dɔwɔhaa tsɔ ŋku ƒe gbɔdzɔgbɔdzɔ si ŋu womelé ŋku ɖo o kpe ɖe afɔku yeyewo ŋu. UCL ƒe totoɖeme gblɔ be ekpɔ gome le tagbɔdɔléle ƒe 2 le alafa me, eye Dɔwɔhaa ɖoa aɖaŋu be woawɔ dodokpɔ kple atike na ŋku ƒe kuxiwo nanɔ bɔbɔe na amesiame. [NIA ɖoa aɖaŋu](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) be woawɔ ŋku ƒe dodokpɔ si me wokea ŋku me ƒe ɖeka alo eve ɖesiaɖe le ƒe 60 megbe, eye woalé ŋku ɖe ŋkugadzɛ ƒe atikeŋlɔɖiwo hã ŋu. Nukpɔkpɔ ƒe tɔtrɔ sue aɖewo gɔ̃ hã ate ŋu ado anyidzedze ƒe afɔkua ɖe dzi.
 
-## Talk with a doctor
+## Ƒo nu kple atikewɔla
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Bia atikewɔla tso tosese kple ŋku ƒe dodokpɔ ŋu ne ède dzesi dzesi siwo le etame la dometɔ aɖe. Di kpekpeɖeŋu enumake ne tosese bu kpata, to le vevem, alo tsi le dodom le toa me. Ne èle belem na ame si le agbe nɔm kple tagbɔdɔléle la, gblɔ tosese alo ŋku ƒe tɔtrɔwo na woƒe atikewɔla, elabena woate ŋu akpɔ ŋusẽ ɖe dzidzɔkpɔkpɔ, dedienɔnɔ kple alesi amea ate ŋu akpɔ gome le nuwo me dzi.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Axa sia nye nyatakaka gbadzaa, menye atikeŋuti aɖaŋuɖoɖo o. Kpɔ míaƒe [atikewɔwɔ ŋuti nuxlɔ̃ame](/medical-disclaimer/). Xlẽ nu geɖe tso [hadome kadodo kple ahɔhɔ̃ ƒe lãmesẽ](/brain-health/social-connection/) ŋu.

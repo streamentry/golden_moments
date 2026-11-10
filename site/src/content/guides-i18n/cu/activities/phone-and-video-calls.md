@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Дѣла по телефону и видѣнію съ лицемъ, живѫщимъ съ ослабленіемъ памѧти"
+seoTitle: "Видѣніе при ослабленіи памѧти"
+description: "Дѣла по видѣнію и телефону далечнымъ роднымъ лица, живѫщаго съ ослабленіемъ памѧти: показаніе, чтеніе вгласъ, пѣніе, игри на общемъ екранѣ и совѣты помагаѭщимъ."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Бесѣды съ лицемъ, живѫщимъ съ ослабленіемъ памѧти, лѫче да бываютъ краткы, часты
+  и основаны на нѣкоемъ общемъ дѣлѣ, яко же показаніе пса или вертограда, зрѣніе на
+  старыхъ образѣхъ, чтеніе вгласъ, пѣніе любимаго пѣніа или игра кроткаа на общемъ
+  екранѣ. Аще можеши, призывай въ то же время всякъ день, говори по единому, и
+  да имаши помагаѭщаго близъ лица.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Общее дѣло да дасть бесѣдѣ чинъ и да отъиметъ тяготу отъ слова. Умысли едно просто нѣчто, еже да раздѣлите."
+  - "Краткыя и частыя бесѣды въ то же время дьне лѫче сѫть, нежели дльгыя и рѣдкыя."
+  - "Да глаголеть единъ по единомъ. Съвокупное глаголаніе многихъ тѫжко есть разумѣти, паче же аще кто имать тѫжесть слуха."
+  - "Помагаѭщіи близъ лица може да устроить орудие, да сѣдить близъ него, и да бѫдетъ руками при игрѣ или при зрѣніи образовъ."
+  - "Аще днесь бесѣда не идетъ, кончи ю тихо и дружелюбно. Попытати паки утрѣ не есть лихо."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Что можахъ сътворити по видѣнію съ лицемъ, живѫщимъ съ ослабленіемъ памѧти?"
+    a: "Умысли едно просто дѣло: покажи свой вертоградъ, пса или поварницѫ; зри старые образы купно; прочти краткѫ поемѫ, или посланіе вгласъ; пой пѣснь, юже любить; вари едино вариво купно въ различныхъ храмѣхъ; или играй кроткѫ образною игрою на общемъ екранѣ. Дѣло дасть бесѣдѣ остръ предметъ, да не должно лицу самому носити всю бесѣдѫ."
+  - q: "Колико длъго да бѫдетъ бесѣда по видѣнію?"
+    a: "Обаче кратче, нежели ты мыслиши. Нѣколико тихыхъ минутъ може бѫти довлѣно, паче же аще лице скоро утомлѧется. Частое призываніе въ то же время дьне може имѣти боле силы, нежели дльготь всякои бесѣды."
+  - q: "Что аще лице смѫщается или скорбить отъ бесѣды по видѣнію?"
+    a: "Нѣціи находѧть ликъ на екранѣ смѫтнымъ. Попробуй простую бесѣдѫ по телефону, или записано видѣніе, еже помагаѭщіи може показати въ тихъ часѣ, или образы и картѫ на посланіи. Аще бесѣда днесь не изиде добра, кончи ю кротко и попытай иного дьне или иного часа."
+  - q: "Како да помогѫ матери своеи бесѣдовати по видѣнію, аще не може сама употребити телефона?"
+    a: "Проси нѣкоего отъ родныхъ, помагаѭщаго или служащаго въ дому призрѣніа, да начнеть бесѣдѫ и да дръжить или да поставитъ орудие. Многи домове призрѣніа помагаѭть роднымъ въ бесѣдахъ по видѣнію, тѣмже испытай, что ти дадѧть. Плоча на подставѣ, поставлена да зрѣти велми и да слышати ясно, да оулегчить всѣмъ."
+  - q: "Можемъ ли мы играти купно по видѣнію?"
+    a: "Можемъ. Лѫче всего, да единъ покаже свой екранъ въ орудиѣ бесѣды, а другіи да глаголеть, кую образину належить коснути. Или помагаѭщіи близъ лица да отвръзе тѫжде игру на плочѣ и да коснеть за него, повѣдаѭщю ти, како водити. Избери игри безъ времени и безъ числа."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Далекие разстояніа отъ лица, живѫщаго съ ослабленіемъ памѧти, може творити тя немощна. Бесѣды по телефону и видѣнію не замѣнѧть обятіа, но може пакы принести истинныя часины съвокупленіа, аще ихъ добре устроиши. Таина есть не трудити ся о обыкновенѣмъ съвѣщаніи, нъ умыслити нѣчто просто, еже да раздѣлите купно. Се страница повѣдаеть о дѣлѣхъ, иже годны сѫть по видѣнію и по телефону, о устроеніи бесѣды и о томъ, что може сътворити помагаѭщіи близъ лица.
 
-## Why plan an activity for a call?
+## Почто умыслити дѣло для бесѣды?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Дѣло дасть бесѣдѣ чинъ. Въпроси яко «Како си?» или «Что еси днесь сътворилъ?» искѫть отъ лица, да въспомянеть и да повѣсть, еже може бѫти тѫжко и мѫчително. Въпросъ же яко «Се, зрѣли сѫть помидори» ничьсоже отъ него не искѫть.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Съвѣтъ отъ Alzheimer’s Association глаголеть, яко бесѣды съ многими въкупѣ по видѣнію тѫжкы сѫть, и совѣтуеть [да дадеши бесѣдѣ устроеніе](https://www.alz.org/help-support/caregiving/holidays) чрѣзъ пѣніе пѣсенъ или чрѣзъ показаніе образовъ.
 
-## What activities work on a video call?
+## Кыя дѣла годны сѫть по видѣнію?
 
-### Show and tell
+### Показаніе и повѣданіе
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Принеси ему свой свѣтъ. Ходи тихо съ орудиемъ по вертограду, покажи пса, покажи, что вари, покажи чрьтежъ внука, или обрати орудие къ окну, да видить снѣгъ. Повѣждь просто, что видиши, и остави паузы, да лице може отъвѣщати. Не требуй въпроса.
 
-### Look at photos together
+### Зрѣніе старыхъ образовъ купно
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Дрьжи старый образъ предъ орудиемъ, или покаже нѣколико великихъ образовъ по единому чрѣзъ показаніе екрана. Глаголи о томъ, что зриши: «Се, шапка дѣда». Избѣгай въпросовъ яко «Кто се есть?» или «Помниши ли?». Аще лице назоветь нѣкого инакъ, иди съ нимъ. Виждь нашь [наставленіе о възпоминаніи](/activities/reminiscence/).
 
-### Read aloud
+### Чтеніе вгласъ
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Прочти краткѫ поемѫ, псаломъ, любимо дѣтско книгѫ вънуку, иже есть на бесѣдѣ, посланіе отъ родника, или страницу изъ книги, юже лице любило есть. Чтеніе вгласъ даеть лицу тихое слуханіе, безъ нужды отъвѣщати.
 
-### Sing or listen to music together
+### Пѣніе или слуханіе пѣсни купно
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Пой пѣснь, юже лице знаеть добро, или играй любимо пѣніе отъ своея страны. Многимъ лѣпше есть пѣти, нежели глаголати. Виждь нашь [наставленіе о дѣлѣхъ съ пѣніемъ](/activities/music/).
 
-### Cook or bake at the same time
+### Вареніе или печение купно
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Съвѣтъ отъ Alzheimer’s Association есть устроити бесѣдѫ по видѣнію, да варите или печете нѣкоа особьно вариво купно. Устроите бесѣдѫ въ обою храму. Помагаѭщіи близъ лица може мѣсити или вкушати, а ты да идеши по старому списку варива.
 
-### Watch something together
+### Зрѣніе нѣчего купно
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Алzheimer’s Association тако же совѣтуеть зрѣти любимо видѣніе въ то же время въ различныхъ домѣхъ, глаголѭще по телефону или по видѣнію. Лицу, живѫщему съ ослабленіемъ памѧти, може лѫче бѫти кратокъ зрѣниии, старый образъ или игра, нежели все видѣніе.
 
-### Play a gentle game on a shared screen
+### Игра кроткаа на общемъ екранѣ
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Мнози орудиа бесѣды даѭть показати екранъ. Ты отвръзи игру и косни, а лице да глаголеть или да покаже, кую образину изволить. Или помагаѭщіи близъ лица да отвръзе тѫжде игру на плочѣ и да коснеть за него, глаголѭще съ тобою.
 
-Games that work well this way:
+Игры, иже добре годѧть се:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Доплъни реченіе](/games/finish-the-saying/):** ты прочти извѣстное реченіе, лице да доплънить коньць, и послѣдуеть тихо побужденіе къ бесѣдѣ.
+- **[Съвокупленіе образинъ](/games/picture-pairs/):** кроткаа игра на съвокупленіе великихъ образинъ, безъ времени и безъ числа.
+- **[Картѫ бесѣды](/games/conversation-cards/):** образина и отъвръсто побужденіе, да глаголете купно.
+- **[Съвокупленіе образовъ](/games/photo-pairs/):** игра, сътворена изъ образовъ, ихже ты самъ избралъ еси на своемъ орудиѣ. Образы остаѭть въ твоемъ орудиѣ, а лице ихъ видить чрѣзъ показаніе екрана.
 
-### Recorded messages
+### Записаныи посланіа
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Аще живаа бесѣда тѫжка есть, запиши кратко видѣніе: привѣтъ, пѣснь, или хожденіе по вертограду. Помагаѭщіи може показати е въ тихъ часѣ, колижьдо, колико лице желаетъ. Alzheimer’s Association поминаеть записаніе и посыланіе особьныхъ часинъ, яко же дѣти, отъвръзаѭще дары.
 
-## What about plain phone calls?
+## Что о простои бесѣдѣ по телефону?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Бесѣда по телефону още имать силу. Dementia Australia совѣтуеть [призывати въ то же время всякъ день](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) и не потъщати ся, зане лицу, живѫщему съ ослабленіемъ памѧти, може требовати время, да начнеть участвовати. На телефонѣ:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Скажи свое име и своя родство вскорѣ: «Здравъ буди, отче, се азъ Иена, твоя дъщи.»
+- Глаголи тихо, краткими реченіями, по единомъ дѣлѣ.
+- Повѣждь вѣсти, а не искыи ихъ: «Вчера варихъ твою любимо юшкѫ.»
+- Прочти краткѫ поемѫ, или пой стихъ изъ любимоi пѣсни.
+- Бѫди кратокъ и кончи тихимъ привѣтомъ.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia тако же глаголеть, яко бесѣда по видѣнію може помочи, егда слово тѫжко есть, зане лице може видѣти твои ликъ. Аще бесѣда по телефону смѫтна есть, попробуй видѣніе, или наопакы.
 
-## How do I set up a video call that works?
+## Како устроити бесѣдѫ по видѣнію, да изидеть добра?
 
-**Before the call:**
+**Прѣжде бесѣды:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Избери сталое время**, егда лице обычаи почивати, и дрьжи е. Чинъ помагаеть.
+2. **Съвѣщай ся съ помагаѭщимъ близъ лица.** Кратко писаніе за день прѣжде може помогъти ему устроити ся.
+3. **Испытай орудие.** Плоча на подставѣ лѫче есть, нежели телефонъ въ рѫцѣ. Да бѫдетъ испълнено силою, екранъ свѣтелъ, а гласъ гласенъ довлѣно. Аще орудие имать подписи, и лице умѣеть ихъ читати, включи ихъ.
+4. **Умысли едно дѣло** и да имаши все готово.
 
-**During the call:**
+**Въ время бесѣды:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Сѣди близъ къ орудию**, при добрѣмъ свѣтѣ, лицемъ къ окну, а не съ окномъ за тобою.
+- **Представи ся** всякъ путь, именемъ и родствомъ.
+- **Да глаголеть единъ по единомъ.** Alzheimer’s Association глаголеть, яко съвокупное глаголаніе тѫжко есть лицу, живѫщему съ ослабленіемъ памѧти, и лицу, имѫщему тѫжесть слуха. Аще многи родни съвокупѧть ся, мѣняйтє ся или бѫди двое или трие.
+- **Питай по единомъ въпросѣ.** Family Caregiver Alliance совѣтуеть [простыи въпроси, на няже можеть отъвѣщати да или нѣтъ](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), и да кажеши избраніа, аще можеши.
+- **Остави длъгыя паузы.** Пожди отъвѣта. Не есть лихо, аще ти помогаеши съ словомъ, егда лице его ищеть.
+- **Употреби ликъ и гласъ.** Усмѣхни ся, поклони главою, дрьжи тихъ и теплъ гласъ. Израженіе лице може повѣдати боле, нежели слово.
+- **Не исправлѧи.** Аще лице рещеть нѣчто не съгласно истинѣ, остави е тако.
 
-**Ending the call:**
+**Коньць бесѣды:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Кончи, прѣжде нежели лице утомится, лѫче всего на добрѣй часинѣ.
+- Употреби единъ и тѫжде прощальный привѣтъ всякъ путь: «Завтра призову тя о обѣдѣ. Люблю тя.»
+- Не продлъжаи.
 
-## Tips for the helper on site
+## Совѣты помагаѭщему близъ лица
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Аще ты си супруга, помагаѭщіи, братъ или служащіи, помогаѭщіи въ бесѣдѣ, ты даеши ю быти.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Устрои тихо мѣсто.** Угаси видѣніе и затвори врата.
+- **Самъ начни бесѣдѫ**, таже даи лицу плочѫ на подставѣ или дрьжи ю въ равни съ ликомъ.
+- **Сѣди близъ, а не предъ лицемъ.** Твое присѫтствіе даеть утѣшеніе. Тихо побуди, аще требѣ: «Се, Иена зоветь тя.»
+- **Бѫди руками.** Дрьжи образы, косни игрѫ, обрати плочѫ, да покажешь храмина.
+- **Смотри на утомленіе или скорбь**, и повѣждь призываѭщему, егда время есть коньчити.
+- **Повѣждь призываѭщему, что изиде добро.** Реченіе яко «Много радоваше ся псу» помагаеть устроити иноу бесѣдѫ.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA совѣтуеть далечнымъ роднымъ, да помогаѭть старѣишему лицу [научити ся дѣламъ своего телефона](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), яко же бесѣдѣ по видѣнію. Въ познѣишихъ лѣтѣхъ помагаѭщіи обаче има потребѫ всецѣло водити орудие. Се есть добро.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Аще лице живетъ въ дому призрѣніа, Alzheimer’s Foundation of America совѣтуеть испытати, аще домъ помагаеть роднымъ въ бесѣдахъ по видѣнію. AFA тако же поминаеть, яко родни може посылати образы чрѣзъ служащихъ и посылати любимаа брашна или малые утѣхи, испытавше прѣжде, что домъ дозволяеть.
 
-## What if the call doesn't go well?
+## Что аще бесѣда не изиде добра?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Нѣкыа бесѣды бѫдѫть смѫтны, хладны или мѫчительны. Се не есть твоя вина, и не значить, яко бесѣды не сѫть достоины.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Аще лице смѫщено есть екраномъ, прѣиди на простую бесѣдѫ по телефону или на записано видѣніе.
+- Аще стане скорбно, признай то чувство, скажи тихое утѣшеніе и кончи кротко.
+- Аще бесѣды често не изидѫть добрѣ въ нѣкоемъ часѣ, попробуй иныи часъ.
+- Аще лице мыслить, яко ты си инъ, иди съ нимъ кротко.
 
-It is fine to end early. A short, warm call is a good outcome.
+Добро есть коньчити рано. Краткаа и теплаа бесѣда есть добръ исходъ.
 
-## Between calls
+## Между бесѣдами
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Бѫди присѫтенъ и иными путями. Dementia Australia совѣтуеть посылати картѫ, писаніа, образы или малыя дари. Картѫ на недѣлю съ единымъ великимъ образомъ и краткимъ писаніемъ може бѫти читана многажды. Печатаны [карты бесѣды](/games/conversation-cards/), посланы помагаѭщему, може дати готову тему за слѣдѫѭщѫю бесѣдѫ.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+За совѣты о избраніи и устроеніи плочы, виждь [плоча и екранъ](/caregiving/tablets-and-screens/). За время въкупѣ, виждь нашь наставленіе о [посѣщеніи](/activities/visiting/).

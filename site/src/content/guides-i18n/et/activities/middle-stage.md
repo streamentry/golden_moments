@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Tegevused dementsuse keskmises staadiumis"
+seoTitle: "Dementsuse keskmise staadiumi tegevused"
+description: "Lihtsad tegevused dementsuse keskmises staadiumis: kasulikud toimetused, muusika, fotod ja kerged mängud koos ettevalmistuse ja nõuannetega."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Dementsuse keskmises staadiumis sobivad kõige paremini lühikesed ja tuttavad
+  tegevused, mis on jagatud üksikuteks sammudeks: pesu voltimine, sokkide
+  paaritamine, nõude pesemine, laulmine, jalutuskäigud koos sinuga,
+  fotoalbumite vaatamine ja lihtsad pildimängud. Valmista kõik ette, näita
+  esimest sammu, võta enda kanda raskemad osad ja anna tegevusele mõte. Lõpeta,
+  kui tegevus ei ole enam meeldiv.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Tuttavad kodused toimetused sobivad sageli kõige paremini, sest need tunduvad kasulikud ja täiskasvanulikud."
+  - "Näita, mitte ära seleta; paku korraga üks samm ja anna kaks lihtsat valikut avatud küsimuste asemel."
+  - "Võta enda kanda kõige raskem osa, et inimene, kelle eest hoolitsete, saaks teha rahuldust pakkuva osa."
+  - "Rahutu käitumine tähendab sageli, et inimesel on vaja midagi teha. Paku sobivat tegevust „ei“ ütlemise asemel."
+  - "Vaatamine, natuke kaasaaitamine või varem lõpetamine on kõik täiesti sobivad."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Millised tegevused sobivad dementsuse keskmises staadiumis?"
+    a: "Kõige paremini sobivad tavaliselt lühikesed, tuttavad ja kätega tehtavad tegevused: rätikute voltimine, sokkide paaritamine, nõude pesemine, laua katmine, vanade lemmiklaulude kaasa laulmine, jalutuskäigud koos sinuga, fotoalbumite vaatamine ja lihtsad pildimängud. Jaga iga tegevus üksikuteks sammudeks ja tehke seda koos."
+  - q: "Kuidas aidata dementsusega inimesel tegevusega alustada?"
+    a: "Pane kõik valmis, alusta ise tegevust ja kutsu inimene appi: „Kas sa aitaksid mind nende rätikutega?” Paljud inimesed tahavad kaasa lüüa, kuid neil on raske alustada. Esimese sammu näitamine toimib tavaliselt paremini kui selgitamine."
+  - q: "Mida teha, kui inimene teeb sama asja ikka ja jälle?"
+    a: "Kordamine on sageli kahjutu ja võib näidata, et inimene tahab end hõivatuna tunda või vajab rahustust. Parandamise asemel paku tegevust, mis sobib liikumisega, näiteks korv pesulappe voltimiseks või ühine laul."
+  - q: "Mis siis, kui inimene teeb tegevust valesti?"
+    a: "Kui see on kahjutu, lase olla. Teistmoodi volditud rätikud või valesse kohta pandud lusikad ei ole olulised. Parandamine võib tunduda kriitikana, aga inimese moodi tegemine aitab tal tunda end toimetuleva ja kasulikuna."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Dementsuse keskmine staadium on sageli kõige pikem ning sel ajal hakkavad tegevused vajama päris palju tuge. Sõnu on raskem leida, sammud lähevad segamini ja millegi alustamine võib tunduda keeruline. Kuid soov olla kasulik ja kaasa lüüa jääb tavaliselt alles. Väikese ettevalmistusega saab dementsuse keskmises staadiumis olev inimene nautida üllatavalt palju, eriti tuttavaid toimetusi, muusikat ja pilte, mida tehakse koos sinuga.
 
-## What activities work well in middle-stage dementia?
+## Millised tegevused sobivad dementsuse keskmises staadiumis?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Kõige paremini sobivad lühikesed, tuttavad ja kätega tehtavad tegevused, mis on jagatud üksikuteks sammudeks. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) ütleb, et uusi tegevusi ei pea leiutama: need võivad olla osa tavalisest igapäevaelust, näiteks koos õhtusöögi valmistamine, aiatööd, muusika kuulamine või jalutuskäik.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) märgib, et selles staadiumis olevatel inimestel on sageli tugev vajadus tunda end kasulikuna või millegi eest hoolitseda ning nad vajavad abi tegevuste alustamisel või jätkamisel. Nende keskmise staadiumi nimekirjas on pesu voltimine, nõude pesemine, sokkide sorteerimine, kerge liikumine, tantsimine tuttava muusika saatel, jalutuskäigud koos sinuga, ühine laulmine, lihtne maalimine ja fotoalbumite vaatamine.
 
-## How do you set up an activity so it works?
+## Kuidas tegevust nii ette valmistada, et see õnnestuks?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Enamik tegevusi õnnestub või ebaõnnestub ettevalmistuse tõttu. Need harjumused, mis pärinevad [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ja [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) materjalidest, teevad suurima vahe:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Tee ruum korras.** Lülita teler välja, sule uks ja pane välja ainult need asjad, mida tegevus vajab.
+2. **Alusta ise.** Hakka ise voltima või segama ja kutsu inimene kaasa: „Kas sa aitaksid mind sellega?”
+3. **Näita ja oota.** Näita ühte sammu. Näita näpuga või suuna käega, näiteks kuhu taldrik panna.
+4. **Anna korraga üks samm.** „Voldi see pooleks” on kergem kui „voldi need kokku ja pane värvi järgi virna”.
+5. **Paku kaks valikut, mitte avatud küsimusi.** „Sinised või valged rätikud?” on kergem vastata kui „Mida sa teha tahad?”
+6. **Tee raske osa ise.** Sina mõõdad, inimene segab. Sina ajad niidi nõelasilmast läbi, inimene keerab lõnga.
+7. **Anna tegevusele põhjus.** „Need salvrätikud on pühapäevaseks õhtusöögiks” muudab tegevuse tähenduslikuks.
+8. **Lase inimesel ka lihtsalt vaadata, kui ta soovib.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) märgib, et ka lihtsalt vaatamine võib olla meeldiv.
 
-## Activity ideas for the middle stage
+## Tegevuste ideid keskmiseks staadiumiks
 
-### Useful jobs
+### Kasulikud toimetused
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Rätikute ja pesulappide voltimine.** Väikesed ja lamedad esemed on kõige kergemad. Korvi sooje pesulappe saab voltida, siluda ja uuesti voltida.
+- **Sokkide paaritamine.** Alusta mõnest väga erinevast paarist. Sobib ka ainult värvi järgi sorteerimine.
+- **Purunematute nõude pesemine või kuivatamine.** Soe seebivesi on kätele mõnus. Istudes kuivatamine on jalgadele kergem.
+- **Laua katmine.** Anna korraga üle ühte tüüpi esemed ja kata üks koht ise eeskujuks.
+- **Õhtusöögi valmistamisel abistamine.** Kartulite pesemine, salatilehtede rebimine või kausi segamine. Noa ja kuumusega tegeled sina.
+- **Pühkimine, tolmu võtmine või lapiga pühkimine.** Lapp laua jaoks, kerge hari veranda jaoks.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Vaata ka lehte [kodused toimetused](/activities/household-tasks/), kust leiad veel ideid.
 
-### Music and movement
+### Muusika ja liikumine
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Vanade lemmikute laulmine.** Alusta ise laulmist; paljud inimesed laulavad kaasa lugusid, mida nad on aastakümneid teadnud. Vaata ka lehte [muusikaga tegevused](/activities/music/).
+- **Vaba tantsimine.** Kõigu, plaksuta või liigu nii, nagu hea tundub. Istudes liikumine sobib samuti.
+- **Õhupalli loopimine.** Õhupall liigub aeglaselt ja seda on toolil istudes lihtne püüda.
+- **Jalutuskäik koos sinuga.** Minge koos lühikest tuttavat ringi, vajaduse korral käsikäes.
 
-### Pictures and stories
+### Pildid ja lood
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Fotoalbumi vaatamine.** Räägi sellest, mida näed, küsimuste esitamise asemel: „Vaata seda autot. Räägi mulle sellest.” Vaata ka lehte [meenutustegevused](/activities/reminiscence/).
+- **Vestluskaartide kasutamine.** [Vestluskaardid](/games/conversation-cards/) seovad pildi avatud ja teadmisi kontrollimata jutujuhisega.
+- **Vana filmi koos vaatamine.** Vali tuttav film, ole läheduses ja tee vajaduse korral pause.
 
-### Simple, pressure-free games
+### Lihtsad ja pingevabad mängud
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Pildipaarid, kus pildid jäävad nähtavale.** [Pildipaarid](/games/picture-pairs/) lasevad piltidel nähtavale jääda, nii et mäng on tähelepanemisest, mitte meeldejätmisest.
+- **Leia sama.** [Leia sama](/games/find-the-same/) näitab ühte pilti ja ainult kahest nelja valikut.
+- **Sorteerime koos.** [Sorteerime koos](/games/sort-together/) on nagu pesu sorteerimine ekraanil: puuduta pilti ja seejärel selle korvi.
+- **Pildibingo.** [Pildibingo](/games/picture-bingo/) sobib hästi perekokkutulekuteks ja rühmadesse.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Kui mäng hakkab tekitama pettumust, lõpeta ja tee midagi muud. Vaata lehte [kuidas koos mängida](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Kuidas suunata rahutust tegevuseks
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Rahutul või korduva käitumisel on sageli põhjus. Family Caregiver Alliance märgib, et inimene, kes tühjendab ikka ja jälle kappi, võib püüda rahuldada vajadust tunda end hõivatuna ja kasulikuna. Alzheimer's Association soovitab sellise energia suunata sobivasse tegevusse, mitte seda peatada.
 
-| What you see | Something to offer |
+| Mida sa näed | Mida pakkuda |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Laua hõõrumine või selle näppimine | Niiske lapp ja palve laud puhtaks pühkida |
+| Rahutud jalad või tatsutamine | Selge rütmiga muusika, mille järgi tatsutada või plaksutada |
+| Sahtlite või kappide tühjendamine | Korv riideid või pesulappe voltimiseks ja sorteerimiseks |
+| Sama küsimuse uuesti küsimine | Rahustus, seejärel ühine laul või toimetus |
+| Edasi-tagasi kõndimine | Jalutuskäik koos sinuga või töö, mille juures on vaja asju kanda |
+| Õhtupoolikune rahutus | Rahulik ja tuttav tegevus heas valguses; vaata lehte [õhtune rahutus](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Millal lõpetada või suunda muuta
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Lõpeta, kui märkad väsimust, pettumust, piinlikkust või igavust, näiteks askeldamist, kulmu kortsutamist, asjade eemale lükkamist või sõnu „ma ei saa”. Alzheimer's Association soovitab proovida hiljem uuesti või muuta tegevus lihtsamaks. Ära sunni. Keeldumine võib tulla hirmust või sellest, et ülesanne on liiga raske; vaata lehte [kui inimene ütleb ei](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Varem lõpetamine on täiesti sobiv. Nii on ka see, kui istute lihtsalt koos ja joote tassikese teed. Kui inimese toimetulek muutub veelgi piiratumaks, võivad paremini sobida ideed lehelt [hilise staadiumi tegevused](/activities/late-stage/) ning lehel [101 tegevust](/activities/ideas/) on veel palju katsetamisväärset.

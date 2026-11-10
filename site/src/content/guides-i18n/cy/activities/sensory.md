@@ -1,33 +1,34 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Gweithgareddau Synhwyraidd i Bobl â Dementia"
+seoTitle: "Gweithgareddau Synhwyraidd: Syniadau a Diogelwch"
+description: "Gweithgareddau synhwyraidd i bobl sy'n byw gyda dementia, o dylino dwylo i fasgedau ffabrig a seiniau natur, gyda nodiadau diogelwch clir."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Mae gweithgareddau synhwyraidd yn defnyddio cyffwrdd, arogl, blas, sain a
+  golwg: tylino dwylo'n araf, basged o ffabrigau meddal, perlysiau ffres i'w
+  harogli, seiniau natur, neu wylio adar wrth y ffenestr. Maent yn addas ar
+  bob cam ac yn arbennig o werthfawr yn nes ymlaen. Gwiriwch yn gyntaf am
+  beryglon tagu, alergeddau, problemau croen a sensitifrwydd i arogleuon,
+  cynigiwch un peth ar y tro, a stopiwch os yw'r person yn ymddangos yn
+  anesmwyth.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Nid oes angen atebion cywir ar gyfer gweithgareddau synhwyraidd, sy'n golygu eu bod yn gweithio ar bob cam, gan gynnwys yn y gwely neu mewn cadair."
+  - "Cynigiwch un synnwyr ar y tro mewn ystafell dawel, a gofynnwch neu rhowch wybod cyn cyffwrdd."
+  - "Osgowch wrthrychau bach ac unrhyw beth sy'n edrych neu'n arogli fel bwyd ond nad yw'n fwyd, gan y gallai pobl roi pethau yn eu cegau."
+  - "Gwiriwch am alergeddau, problemau croen a phroblemau anadlu cyn defnyddio hylifau croen, arogleuon neu fwydydd."
+  - "Nid oes tystiolaeth argyhoeddiadol bod aromatherapi yn helpu symptomau dementia; defnyddiwch arogleuon dim ond er mwyn mwynhad syml, os o gwbl."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Beth yw gweithgareddau synhwyraidd da i rywun â dementia?"
+    a: "Mae syniadau syml yn cynnwys tylino dwylo'n araf gyda hylif croen, trin ffabrigau meddal, arogli perlysiau ffres neu goffi, gwrando ar gerddoriaeth hoff neu seiniau natur, gwylio adar neu danc pysgod, a blasu hoff fwyd mewn ansawdd sy'n ddiogel. Cynigiwch un peth ar y tro a sylwch sut mae'r person yn ymateb."
+  - q: "A yw gweithgareddau synhwyraidd yn ddiogel i rywun sy'n rhoi pethau yn ei geg?"
+    a: "Gallant fod, gyda gofal. Defnyddiwch ddim ond eitemau mawr na ellir eu llyncu, peidiwch â defnyddio unrhyw beth bach neu fregus, a chadwch hylifau croen, sebonau a chynhyrchion persawrus allan o gyrraedd wedyn, oherwydd gallant edrych neu arogli fel bwyd. Arhoswch gyda'r person drwy'r amser."
+  - q: "A yw aromatherapi yn helpu gyda dementia?"
+    a: "Canfu adolygiad Cochrane nad oedd tystiolaeth argyhoeddiadol bod aromatherapi yn helpu pobl â dementia, er bod yr astudiaethau'n fach ac yn anghyson. Os yw'r person yn mwynhau arogl ysgafn, cyfarwydd, mae hynny'n iawn, ond osgowch olewau hanfodol cryf, yn enwedig os oes problemau anadlu neu alergeddau."
+  - q: "Beth yw ffedog neu arffed weithgaredd?"
+    a: "Darn o ffabrig, ffedog neu flanced arffed ydyw gyda phethau i'w trin wedi'u gwnïo'n gadarn arni, fel botymau mawr, sipiau, rhubanau a darnau â gwead gwahanol. Mae'n rhoi rhywbeth i ddwylo prysur ei archwilio. Gwiriwch hi'n aml am unrhyw beth rhydd y gellid ei dynnu i ffwrdd."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Mae gweithgareddau synhwyraidd yn defnyddio'r pum synnwyr: cyffwrdd, arogl, blas, sain a golwg. Nid oes angen cof, camau na atebion cywir ar eu cyfer, felly gallant weithio ar unrhyw gam. Maent bwysicaf yn nes ymlaen. Mae'r [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) yn nodi bod pobl yn profi'r byd yn bennaf drwy'r synhwyrau yn y cam hwyr, ac y gallwch ddangos gofal drwy gyffwrdd, sain, golwg, blas ac arogl. Mae ychydig o wiriadau diogelwch yn helpu i wneud y gweithgareddau hyn yn ymlaciol i bawb.
 
-## What are sensory activities for dementia?
+## Beth yw gweithgareddau synhwyraidd ar gyfer dementia?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Profiadau syml yw gweithgareddau synhwyraidd sy'n canolbwyntio ar un synnwyr ar y tro, fel teimlo ffabrig, arogli perlysiau neu wrando ar y glaw. Mae'r [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) yn dweud bod gweithgareddau cam hwyrach yn aml angen canolbwyntio ar y synhwyrau, ac yn sôn am gerddoriaeth, gwrthrychau i'w cyffwrdd a'u trin, a thylino dwylo. Mae'r [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yn nodi y gallai fod gan bobl yn y cam hwyr angen cryf i ddal rhywbeth yn agos am gysur.
 
-## Sensory ideas, sense by sense
+## Syniadau synhwyraidd, fesul synnwyr
 
-### Touch
+### Cyffwrdd
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Tylino dwylo.** Cynheswch ychydig o hylif croen yn eich dwylo a strôc yn araf o'r arddwrn i flaenau'r bysedd. Mae'r [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) yn sôn am dylino gyda hylif croen heb arogl er mwyn cysur.
+- **Basged ffabrig.** Sgwariau mawr o felfed, corduroi, ffîs, satin a gwlân i'w strôc, eu plygu a sgwrsio amdanynt.
+- **Lliain golchi cynnes.** Lliain cynnes, llaith ar gyfer y dwylo ar ddiwrnod oer. Profwch y tymheredd ar eich arddwrn eich hun yn gyntaf.
+- **Ffedog neu flanced arffed weithgaredd.** Botymau mawr, sipiau, rhubanau a darnau â gwead gwahanol wedi'u gwnïo'n gadarn.
+- **Plygu a llyfnhau.** Basged o liain golchi neu napcynnau glân i'w plygu, eu pentyrru a'u plygu eto.
+- **Rhywbeth meddal i'w ddal.** Taflen ffîs, clustog neu anifail meddal realistig, wedi'i gynnig yn syml, byth fel tegan.
 
-### Smell
+### Arogl
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Perlysiau ffres.** Rhwbiwch ddail mintys, rhosmari, basil neu lafant rhwng eich bysedd a'u pasio draw.
+- **Arogleuon o'r gegin.** Coffi'n bragu, bara'n tostio, sinamon neu oren yn cael ei phlicio gerllaw.
+- **Blodau.** Dewch â rhai blodau ffres o'r ardd neu'r siop fwyd.
+- **Cynnyrch cyfarwydd.** Y sebon neu'r hylif croen yr oeddent bob amser yn ei ddefnyddio, os yw eu croen yn ei oddef.
 
-### Taste
+### Blas
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Hoff flas.** Llwyaid fach o rywbeth maent yn ei garu, fel saws afal, pwdin neu hufen iâ, mewn ansawdd y gallant ei reoli'n ddiogel.
+- **Helpu gyda phobi.** Blasu ffrwythau neu ychydig o eisin wrth i chi bobi gyda'ch gilydd.
+- **Danteithion tymhorol.** Melon dŵr yn yr haf, seidr cynnes yn yr hydref, wedi'i weini ar dymheredd diogel.
 
-### Sound
+### Sain
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Hoff gerddoriaeth.** Caneuon cyfarwydd ar sain ysgafn; gweler [gweithgareddau cerddoriaeth](/activities/music/).
+- **Seiniau natur.** Glaw, tonnau neu gân adar. Mae'r NIA yn nodi ei bod yn ymddangos bod cerddoriaeth, sŵn gwyn a seiniau natur yn helpu rhai pobl i ymlacio.
+- **Eich llais.** Darllen yn uchel, mwmian, neu adrodd stori.
+- **Offerynnau syml.** Drwm llaw, ysgrydydd neu gloch i chwarae gyda cherddoriaeth.
 
-### Sight
+### Golwg
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Gwylio drwy'r ffenestr.** Porthwr adar y tu allan i'r ffenestr, plant yn cerdded adref, neu eira'n cwympo.
+- **Tanc pysgod neu fideo araf.** Symudiad ysgafn heb sain uchel.
+- **Lluniau mawr.** Un llun clir ar y tro, wedi'i ddal ar lefel y llygaid.
+- **Lliw a phatrwm.** Didoli darnau o ffabrig llachar, blodau neu napcynnau lliw, neu dudalen liwio syml o'n set [lliwio](/games/coloring/).
+- **Awyr agored.** Mae'r NHS yn awgrymu gerddi synhwyraidd gyda phlanhigion persawrus, gweadau gwahanol a nodweddion dŵr. Gweler [gweithgareddau awyr agored a garddio](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Sut i wneud blwch synhwyraidd
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Dewiswch thema** sy'n gysylltiedig â bywyd y person: y traeth, yr ardd, y gegin, y gweithdy, gwnïo.
+2. **Dewiswch bump neu chwe eitem fawr, ddiogel,** fel cragen fôr fawr, llwy bren, sgarff feddal, sach o lafant sych wedi'i gwnïo ar gau, neu floc pren llyfn.
+3. **Gwiriwch bob eitem** am rannau bach, ymylon miniog, edafedd rhydd ac unrhyw beth sy'n torri'n hawdd.
+4. **Dewch ag un eitem allan ar y tro.** Rhowch hi drosodd, disgrifiwch hi, a gadewch i'r person ei harchwilio.
+5. **Rhowch y blwch i ffwrdd wedyn** fel ei fod yn aros yn arbennig ac fel bod yr eitemau'n cael eu gwirio eto cyn y tro nesaf.
 
-## Safety first
+## Diogelwch yn gyntaf
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Mae gweithgareddau synhwyraidd yn dyner, ond mae ychydig o beryglon yn bwysig. Mae rhai pobl sy'n byw gyda dementia yn camgymryd eitemau nad ydynt yn fwyd am fwyd, a gall llyncu ddod yn anoddach dros amser; mae'r NIA yn rhybuddio bod problemau llyncu yn y cam hwyr yn cynyddu'r perygl o dagu.
 
-| Risk | What to do |
+| Perygl | Beth i'w wneud |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Tagu | Defnyddiwch ddim ond eitemau sy'n rhy fawr i'w llyncu. Dim botymau, gleiniau, darnau arian, marblis na theganau bach yn rhydd mewn blwch. Cynigiwch fwyd dim ond mewn ansawdd y mae'r tîm gofal yn dweud sy'n ddiogel. |
+| Pethau sy'n edrych fel bwyd | Mae'r NIA yn cynghori cloi hylifau croen, sebonau, siampŵau a pherarogl i ffwrdd, oherwydd gallant edrych neu arogli fel fwyd, a thynnu ffrwythau artiffisial. Rhowch gynhyrchion synhwyraidd i ffwrdd ar ôl eu defnyddio. |
+| Alergeddau | Gwiriwch am alergeddau i gnau, latecs, gwlân, planhigion neu bersawr cyn dechrau. |
+| Arogleuon cryf | Osgowch bersawr cryf ac olewau hanfodol, yn enwedig os oes asthma neu broblemau anadlu eraill. Mae arogleuon ysgafn, naturiol yn fwy diogel. |
+| Croen | Gwiriwch am groen dolurus, wedi torri neu fregus cyn tylino. Defnyddiwch bwysau ysgafn a stopiwch os ydynt yn gwincio. |
+| Tymheredd | Profwch liain cynnes a diodydd ar eich arddwrn eich hun yn gyntaf. |
+| Eitemau miniog neu wenwynig | Dim offer miniog, gwydr na chyflenwadau crefft gwenwynig. |
 
-## Does aromatherapy help?
+## A yw aromatherapi yn helpu?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Mae'n annhebygol o wneud gwahaniaeth mesuradwy. Edrychodd [adolygiad Cochrane o aromatherapi ar gyfer dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ar 13 astudiaeth gyda 708 o bobl, pob un mewn cartrefi gofal, ac ni chanfu dystiolaeth argyhoeddiadol o fudd. Roedd yr astudiaethau'n fach, roedd y canlyniadau'n anghytuno, ac nid oedd sgil-effeithiau wedi'u hadrodd yn dda. Os yw'r person yn mwynhau arogl ysgafn, cyfarwydd, fel lafant o'r ardd, mae hynny'n rheswm da i'w rannu. Nid triniaeth ydyw.
 
-## How to offer a sensory activity
+## Sut i gynnig gweithgaredd synhwyraidd
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Dewiswch foment dawel** a diffoddwch y teledu.
+- **Ewch ato o'r tu blaen,** dywedwch ei enw, a gofynnwch neu dywedwch wrtho cyn cyffwrdd: "Mae gen i ychydig o hylif croen. Hoffech chi i mi rwbio eich dwylo?"
+- **Cynigiwch un peth ar y tro** fel nad yw'n gorlethu.
+- **Sylwch ar yr ymateb.** Mae wyneb mwy ysgafn, dwylo wedi ymlacio neu wên yn arwyddion da. Mae tynnu'n ôl, gwgu neu aflonyddwch yn golygu stopio.
+- **Cadwch hi'n fyr.** Mae pum munud tawel yn sesiwn dda.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Gall saib anadlu araf gyda'ch gilydd, fel [anadlu tawel](/games/calm-breathing/), fod yn ffordd dyner o orffen. Am fwy o syniadau wrth ymyl y gwely, gweler [gweithgareddau cam hwyr](/activities/late-stage/), ac am anesmwythder gyda'r nos, gweler [pryder gyda'r nos](/caregiving/late-day-restlessness/).

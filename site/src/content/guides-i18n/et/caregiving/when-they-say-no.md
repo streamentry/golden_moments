@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Kui dementsusega inimene keeldub tegevusest või ärritub"
+seoTitle: "Kui dementsusega inimene keeldub tegevusest"
+description: "Miks dementsusega inimene võib tegevusest keelduda või ärrituda, mida proovida, mida vältida ja millal vajab ootamatu muutus arsti abi."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Kui dementsusega inimene ütleb „ei“, võtke see rahulikult vastu ning
+  proovige hiljem uuesti või pakkuge midagi muud. Keeldumisel on sageli põhjus:
+  tegevus tundub liiga raske või lapsik, inimene on väsinud, tal on valus, ta
+  on näljane või teda segab liiga palju müra. Ärge vaidlege ega suruge peale.
+  Tehke tegevus lihtsamaks, pakkuge kahte valikut või paluge tal teid aidata.
+  Ootamatu või kiiresti muutuv käitumine, eriti pärast nakkust või uue ravimi
+  võtmist, vajab viivitamatut arsti abi.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "„Ei“ on vastus, mida tuleb austada, mitte probleem, millest üle saada."
+  - "Keeldumisel on tavaliselt põhjus: liiga raske, liiga lapsik, väsimus, halb enesetunne, ebamugavus või liiga palju ärritajaid."
+  - "Astuge sammu tagasi, oodake ja proovige hiljem, teisel ajal või lihtsama variandiga."
+  - "Abi palumine toimib paremini kui soorituse ootamine."
+  - "Ärge kunagi vaidlege, suruge peale, küsitlege ega parandage. Pöörake tähelepanu ka sellele, kas te ise kiirustate või tungite liiga lähedale."
+  - "Ootamatu või kiiresti muutuv käitumine, eriti nakkuse või uute ravimite korral, vajab viivitamatut arsti poole pöördumist."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Kas on sobiv lasta tal tegevustest täiesti loobuda?"
+    a: "Jah, üksikul päeval küll. Koos istumine, muusika kuulamine või aknast välja vaatamine võib olla täiesti piisav. Kui inimene kaotab nädalate jooksul huvi peaaegu kõige vastu, rääkige sellest tema arstile, sest pildis võivad olla ka tuju langus, valu või muud tervisemured."
+  - q: "Miks ta keeldub asjadest, mis talle varem meeldisid?"
+    a: "Vana hobi võib muutuda masendavaks, kui see nõuab nüüd oskusi, mis on dementsuse tõttu raskemaks läinud, ja inimene võib tunda piinlikkust. Proovige sama tegevuse lihtsamat osa, näiteks nööpide sorteerimist õmblemise asemel või aiapiltide vaatamist istutamise asemel."
+  - q: "Kas ma peaksin teda veenma proovima?"
+    a: "Ei. Inimese sundimine tegema midagi, mis on dementsuse tõttu raske, on teadaolev ärrituse vallandaja. Nõustuge keeldumisega, vahetage teemat ja pakkuge hiljem uuesti või teisel viisil."
+  - q: "Millal on käitumise muutus hädaolukord?"
+    a: "Helistage numbril 112, kui keegi on ohus või tal on meditsiinilise hädaolukorra tunnused. Äkilise segasuse või tundide või päevade jooksul kiiresti muutuva käitumise korral, eriti palaviku, nakkuse või uue ravimi puhul, võtke viivitamata ühendust tema arstiga."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Te panete kõik valmis, pakute mängu või jalutuskäiku ja kuulete „ei“. Või algab tegevus kenasti, aga lõpeb kõrvale lükatud tahvelarvuti ja järsu sõnaga. See on masendav ja väga tavaline. Keeldumine ja ärritumine on tavaliselt sõnum, mitte kangekaelsus. Kui mõistate, mis sõnumiga on tegu, on sageli lihtsam otsustada, mida järgmisena proovida.
 
-## Why does someone with dementia refuse activities?
+## Miks dementsusega inimene tegevustest keeldub?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Tavaliselt on sellel põhjus, isegi kui inimene ei oska seda sõnadesse panna. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) märgib, et vastupanu võib tähendada, et inimene ei suuda ülesannet täita või kardab seda proovida. Levinud põhjused on:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **See tundub liiga raske.** Tegevus nõuab nüüd oskusi, mis on dementsuse tõttu raskemaks läinud, ja teise inimese ees ebaõnnestumine on piinlik.
+- **See tundub lapsik.** Täiskasvanud märkavad multikalaadseid pilte, lastehääli ja tegevusi, mis näivad olevat mõeldud lastele.
+- **Väsimus.** Paljudel inimestel on hiljem päeval vähem energiat. Vaadake ka lehte [rahulikud tegevused hilisel pärastlõunal](/caregiving/late-day-restlessness/).
+- **Kehaline ebamugavus.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) toob distressi võimalike põhjustena esile valu, une puudumise, nägemis- või kuulmisraskused, kõhukinnisuse, nälja, janu ning uute ravimite kõrvaltoimed.
+- **Liiga palju toimub korraga.** Vali teler, mitu vestlust või rahvarohke tuba võivad inimese üle koormata.
+- **Pealesurumise tunne.** NIA nimetab ärrituse põhjustena sundimist tegema midagi, mis on Alzheimeri tõve tõttu väga raskeks muutunud, või sundimist sündmusi või inimesi meenutada.
+- **Tujulangus.** Huvi kadumine asjade vastu võib olla depressiooni märk, millest tasub arstiga rääkida.
+- **Ta lihtsalt ei taha.** Täiskasvanutel on õigus „ei“ öelda.
 
-## What should I try when they say no?
+## Mida peaksin proovima, kui ta ütleb „ei“?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Võtke keeldumine rahulikult vastu ja muutke seejärel midagi: aega, tegevust, raskusastet või seda, kuidas te küsite.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Laske praegu olla.** „See on täiesti korras. Võib-olla hiljem.“ Seejärel liikuge millegi muu juurde ilma ohkamata.
+2. **Proovige hiljem uuesti.** Alzheimer's Association soovitab proovida hiljem uuesti või teisel kellaajal.
+3. **Tehke see väiksemaks.** Üks paar terve mängu asemel. Üks rätik pesukorvi asemel. Vähem pilte, vähem valikuid, pildid nähtaval.
+4. **Pakkuge kahte valikut.** „Kas soovite vaadata linnupilte või kuulata veidi muusikat?“ Valik annab inimesele tagasi kontrollitunde.
+5. **Paluge abi, mitte sooritust.** „Kas saaksid mind nende sortimisel aidata?“ või „Kas saad öelda, milline värv tundub kõige parem?“ Vajalik olemine tundub hoopis teistsugune kui proovile pandud olemine.
+6. **Alustage ise.** Alustage tegevust tema kõrval ilma küsimata. Paljud inimesed ühinevad siis, kui midagi juba toimub; kui ta ei ühine, olete te ikkagi koos aega veetnud.
+7. **Vahetage midagi füüsilise või rahustava vastu.** Lühike jalutuskäik, muusika, suupiste, pesu voltimine või ühine [rahulik hingamine](/games/calm-breathing/). NIA soovitab suunata tähelepanu muusikale, raamatule või jalutuskäigule.
+8. **Laske tal teha omal viisil.** Kui ta soovib mängida teisiti, kui reeglid ütlevad, tehke nii, nagu talle sobib. Alzheimer's Association soovitab paindlik olla.
 
-## What should I say when they get frustrated?
+## Mida peaksin ütlema, kui ta ärritub?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Võtke rahulikumalt, rääkige vaiksemalt ja kinnitage talle turvatunnet. [Alzheimer's Associationi juhised ärrituse kohta](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) soovitavad sammu tagasi astuda ja luba küsida, kasutada rahulikke ja toetavaid lauseid ning pakkuda juhitud valikut kahe võimaluse vahel. Selles vaimus sobivad laused:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- „Mul on kahju, see on tõesti tülikas. Lõpetame selle.“
+- „Kõik on hästi. Ma olen siin.“
+- „Kas sul oleks aega mind millegi muuga aidata?“
+- „Kas joome parem tassi teed?“
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Seejärel lõpetage tegevus ilma sellest suurt numbrit tegemata. Meie [suhtlemisnõuanded](/caregiving/communication-tips/) aitavad leida veel sobivaid sõnu.
 
-## What should I avoid?
+## Mida peaksin vältima?
 
-Some natural reactions tend to make things worse.
+Mõned loomulikud reaktsioonid kipuvad olukorda halvendama.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Vaidlemist või peale surumist.** „No tule, veel üks kord“ või „Sulle ju meeldib see“ ei aita kuigi sageli.
+- **Küsitlemist või parandamist.** „Sa ju tead, mis see on“ või „Ei, see on vale“ lisavad survet.
+- **Isiklikult võtmist.** NIA tuletab hooldajatele meelde, et need muutused on seotud haiguse, mitte inimese iseloomuga.
+- **Liiga lähedale tungimist või kiirustamist.** Alzheimer's Association soovitab vältida hääle tõstmist, ärevuse näitamist, nurka surumist, liiga lähedale minemist, kinni hoidmist, kritiseerimist, ignoreerimist ja vaidlemist ning vältida ka järske liigutusi inimese selja taga.
+- **Süütunde tekitamist.** „Ma panin selle kõik sinu jaoks valmis“ jätab mõlemad end halvasti tundma.
+- **Sildistamist.** „Jonnakas“ või „raske inimene“ peidab tegeliku põhjuse ja raskendab lahenduse leidmist.
 
-## How can I find out what is behind repeated refusals?
+## Kuidas selgitada välja, mis korduva keeldumise taga on?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Pidage nädal või kaks lihtsat märkmikku. NIA ütleb, et käitumismuutuste jälgimine võib aidata hooldajatel ja tervishoiutöötajatel märgata mustrit ja leida põhjuse.
 
-Jot down:
+Märkige üles:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- kellaaeg;
+- mida te pakkusite ja kuidas te küsisite;
+- mis teie ümber toimus (müra, külalised, teler);
+- kuidas ta magas, sõi ja jõi ning millal ta viimati tualetis käis;
+- kas on lisandunud uusi ravimeid või hiljutine haigus.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Mustrid tulevad sageli kiiresti esile: keeldumised, mis juhtuvad ainult pärast kella 16, ainult teatud mängu korral või ainult siis, kui teler on sees. Family Caregiver Alliance'i [dementsusega seotud käitumise juhend](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ütleb selle lihtsalt: me ei saa inimest muuta, kuid saame muuta oma käitumist ja keskkonda.
 
-## When should I talk to a doctor about refusal or frustration?
+## Millal peaksin keeldumisest või ärritumisest arstiga rääkima?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Rääkige arstiga siis, kui käitumine muutub ootamatult, kiiresti või koos haiguse tunnustega. NIA ütleb, et ootamatutest või kiiresti kõikuvaist käitumismuutustest, eriti kui inimesel on olnud nakkus või hiljuti on muudetud ravimeid, tuleks arstile viivitamata teada anda.
 
-Contact their doctor promptly if you notice:
+Võtke viivitamata ühendust tema arstiga, kui märkate järgmist:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- äkiline segasus või suur muutus tundide või päevade jooksul;
+- valust rääkivad märgid, nagu grimassitamine, kehaosa kaitsmine või uus raskus liikumisel;
+- palavik või muud nakkuse tunnused;
+- uued või muudetud ravimid, millele järgneb käitumise muutus;
+- huvi kadumine peaaegu kõige vastu, nutulisus või endassetõmbumine, mis kestab kauem kui paar nädalat;
+- söögist või joogist keeldumine.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association soovitab kõigil, kellel esineb käitumuslikke sümptomeid, põhjalikku arstlikku kontrolli, eriti kui need ilmnevad ootamatult. Ka Family Caregiver Alliance soovitab esmalt arstiga nõu pidada, sest käitumisprobleemidel võib olla meditsiiniline põhjus. Ärge alustage, lõpetage ega muutke ühegi ravimi võtmist ilma arsti või proviisoriga rääkimata.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Kui keegi on ohus või esinevad meditsiinilise hädaolukorra tunnused, helistage 112. NIA soovitab häirekeskusele öelda, et inimesel on dementsus.
 
-## Is it okay if we do nothing at all?
+## Kas on sobiv, kui me ei tee üldse midagi?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Jah. Mõnel päeval on parim tegevus tegevusetus: koos istumine, käest kinni hoidmine, lemmikmuusika kuulamine või lindude vaatamine aknast. See ei ole ebaõnnestumine. Meie [koos mängimise juhend](/caregiving/how-to-play-together/) selgitab, miks vara lõpetamine või üldse mitte alustamine võib olla õige otsus.

@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Деменцин приложенеш а, тоьлгаш а кхиа бира"
+seoTitle: "Деменцин приложенеш а, тоьлгаш а кхийса: контрольни тхов"
+description: "Деменцин приложенешан а, тоьлгашан а кхийсан контрольни тхов: шен мурад хьалха дӀадерзо, таймерш а, рекламаш а дӀахӀоттавал, маьлхан хийцам хӀуьттӏа тӀе ӏилма дӀалецо."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Хьалха дерзо, приложени хьо муьлхха мурад долуш ю: мягко стимуляци, сиха
+  ойланаш, кхиъ-кхиъ маьлхан ойла я шен гӀо. ТӀаьхьа цуьнан тӀе хьо кхочушдан
+  юй, муьлхха тоьлга юкъара тӀаьхьа дерриг а тӀехь кхин ю: сурт тӀехь ойла
+  хилар, таймер, оцу я реклама доцуш. Цо муьлхха маьлхан хийцам дӀалецо а, тӀаьхьа
+  дӀахӀоттарш а дӀалецо. Деменци дӀахӀоттар я дӀахӀоттар иза дерзо приложени
+  хьалхара ӏилма хала ду; цхьаьна исбаьхьа хетар дӀахӀоттар вац.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Мурад хьалха дерзо: мягко стимуляци, сиха ойланаш, калм я кхиъ-кхиъ маьлхан ойла кхин приложенеш гӀо дӀадаь."
+  - "Хийцам тӀаьхьа дерзо, ханна ца дерзо тоьлга, дӀахӀоттар тӀаьхьа дерриг а тӀе, цхьа хала дӀаь."
+  - "Таймерш, оцу я балш, таханал, рекламаш я тоьлгаш хьо мел ву — тӀаьхьа дерзо."
+  - "Маьлхан дӀалецар, дӀадоьхуьйла, дӀахӀоттар тӀе хьо ца дӀадеш. HIPAA ду цхьана дерриг а хьо дӀаьхьа йолу приложенешан маьлхан дӀаяло."
+  - "Деменцин «дӀахӀоттар» мотт дӀахӀоттар цхьана исбаьхьа тоьлгаш цхьаьна я тӀом ма ву. Цхьа хала, я приложени ичу очко, цхьаьна иза дӀахӀоттар вац."
+  - "Golden Moments — цхьана тоьлга хилла, маьлхан хийцам дӀалецо вац."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Ӏилма тоьлгаш деменци дӀахӀоттар дийр ву?"
+    a: "Коммерчески ӏилма тоьлгашан приложенеш деменци дӀахӀоттар я дӀаьхьа ма ду дика хийцам хилар. Национальни институт Аргьа дӀахӀоттар ма ду, цхьа хала тоьлгаш дӀахӀоттар шен маьлхан кхачам ма ду. Приложени оцу вац: маьлхан я дӀахӀоттар хилар кхочушдан, медицина вац."
+  - q: "HIPAA дӀахӀоттар деменцин приложени кхочу ма ду?"
+    a: "ВӀах, ма ду. HIPAA хьалхара медицинан ханнаш, дӀалецар, чӀогӀа ма тӀе дӀахӀоттар. Шен тӀе приложени хьо дӀаьхьа йолу вӀах, цуьнан ма ду, медицинан сурсаш ца хилла. FTC-н Health Breach Notification Rule дӀахӀоттар мехала приложенеш, HIPAA кхочу вац."
+  - q: "Деменцин тоьлга муьлхха хила ма ду?"
+    a: "Сурт я текст тӀаьхьа дика, сиха. Шен экранехь цхьа дика дар. Таймер я очко доцуш, тартар тоьлга я дӀахӀоттар хьо доцуш. Реклама доцуш, дӀасахьа я стопа йолуш. Иза вӀан адамашан тӀе кхачам ма ду, цхьа вӀалла кхин дӀахӀоттар хьо."
+  - q: "Golden Moments дӀахӀоттар дика ма ду?"
+    a: "ВӀах. Golden Moments — ӏилма тоьлгаш юкъара, оьзда я сиха ойланаш цхьаьна. Иза деменци дӀадерзо, дӀахӀоттар, дӀасахьа я дӀаяло вац, ойла я дӀалецар хьалха дӀадерзо вац."
+  - q: "Деменцин приложени ахча ма дӀалаьу?"
+    a: "Хьалха ахча доцуш я цхьа хийцам тӀаьхьа дерзо, цхьа ших-ханна хьо дӀалеш ма дӀаяло. Ахча дӀалар приложени дика ца дӀадоккхуьйла. ДӀахӀоттар хьалха, тӀаьхьа муьлхха я тӀе дӀахӀоттар а дӀахӀоттар."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Приложенеш а, тоьлгаш а юкъара деменцин цхьа-цхьа чуьра ву. Цхьаболу — дика хиларг. Иштта цхьаболу — хьо дӀадоьхуш, таймераш, я реклама, я дерриг а хьо тӀе дӀахӀоттар. Ди тхов иза хьо шен тӀе хьо кхочушдан хӀуьттӏа. Вуй, ди тхов тоьлгаш дӀахӀоттар а, дӀалецар а ца дерзо.
 
-## What should I decide before choosing a dementia app?
+## Приложени дӀаяло хьалха муьлхха дерзо?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Дерзо, хьо приложени муьлхха мурад долуш ю. «Тоьлга ненаьра» — иза мурад хилла ма ду, цуьнан муьлхха дика я муьлхха ханна мурадах хилла.
 
-| Goal | What it looks like | What to look for |
+| Мурад | Иза муьлхха хетар хилла | Муьлхха дерзо |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Мягко стимуляци | ТӀе дӀаяр, сортировка, сиха тоьлгаш, мотт тоьлгаш | ТӀе тийсар ма ду, сурт тӀехь дӀаяло, хан дӀасалар доцуш |
+| Хьехар я ойланаш | Хьонан я вӀалла дӀаяр сурташ, дешнаш, хьонан ханан дӀалецар | Хьонан сурташ, дӀадеха хьоьхь, викторина дешнаш доцуш |
+| Калм | Сиха сурташ, сиха тӀом, дӀадоьхуьйла, зов | ДӀаьхьа я дӀасахьа дика, тӀе хала доцуш, ницкъ кхачам доцуш |
+| Юкъара кхиа | Цхьаьна тоьлга я дӀаяло, ярца я видео тӀе | Цхьаьна тоьлгаш дерзо, дӀаяло гӀо |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Структурни «когнитивни стимуляци» деменцин адамашан тӀе дӀаяло, юкъара хийцамаш, тоьлгаш, мотт тоьлгаш, маьлхан ойла, кхин ойланаш. [Cochrane тхов](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) аьлла, маьлхан хала хилар цхьаьна хетар, хийцамаш дӀахӀоттар ду. Иза солу приложени вац, цхьаьна юкъара хийцам ду. Иза дерриг а приложени юкъара цхьана тоьлга ду.
 
-## How do I know if an app fits the person's abilities?
+## Приложени хьо адамин кхачам дӀахӀоттар дерзо муьлхха?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Дика дерзо, диагноз я «хьалха» ма дерзо, тӀаьхьа хьо хилар хьо дӀалецо. Цхьа хан дӀахӀоттар адамаш дӀаьхьа хала гӀо ду: чохь дика, кхин хала, куьг тӀе кхачам, мотт, экран тӀе дӀахӀоттар. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) дерзо, хьонан хьалхара дӀахӀоттар тоьлгаш тӀехь дерзо, дика хилар кхачам, дӀахӀоттар ма дерзо.
 
-Signs of a good fit:
+Дика хила долу хетарш:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- иза дерг дӀахӀоттар вац, я цхьана хьо гӀо ма дӀалецо;
+- иза цхьа сурт тӀе ойла дӀалецо, я цхьа дешнаш ма кхийса;
+- хийцамаш ойла дӀалецо ца дӀахӀоттар;
+- иза хан хилар дӀасахьа дика ду.
 
-Signs it is a poor fit:
+Дика ца хила долу хетарш:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- дийна «ца сан ца дерзо» я «иза ма ду»;
+- тӀе кхачам мишта дерзо, ма дерзо;
+- ницкъ, сийна я приборах дӀахьа тӀе дӀахӀоттар;
+- хьо дерриг а дӀалецар тӀехь дӀахӀоттар.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Ницкъ — иза хьалха доккха дерзо, ца дӀадерзо. Ӏилма [мила дерзо, иза дийна ма ду я «ца» аьлча](/caregiving/when-they-say-no/). Приложенешан гӀо доцуш, [хьалхара](/activities/early-stage/) я [тӀаьхьа](/activities/late-stage/) дерзо ду.
 
-## What design features should I look for or avoid?
+## Муьлхха дизайн дерзо я дӀахӀоттар?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Дика, сиха, адамах хийцам дӀалецо дизайн дерзо, ницкъ дӀалецо дизайн ца дӀахӀоттар.
 
-| Look for | Be wary of |
+| Дерзо | ДӀахӀоттар |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Сурт, текст доккха, дика кхин кхачам | Сиха жимаш, гурӀа экран |
+| Экран тӀе цхьа дика дар | Бекъ кнопкаш, меню, даьккъа дерзо |
+| Таймер ца хила, я таймер дӀахӀоттар | Ханна дӀасалар, хан дӀахӀоттар, «хан ца сийна» |
+| Очко ца хила, я сиха гӀо | Очко, жимаш, рейтинг, «ойла шен ханна» |
+| Ницкъ сиха дӀалецар | ДӀаваьккхар, цхьа уьйр «X», «Ца дика» хилар |
+| Адамашан, дийнан сурташ | Ӏуьйран, пхьукъарш тӀехь тӀом |
+| Хьо офлайн дерзо, ца дӀаяло хьо ца тийса | Цхьан тӀе дӀаяр, хьо дӀакхочу, кхин дешнаш дӀалецо |
+| ДӀасахьа я дӀасалар сиха | ТӀе дӀаяр хьо хийцам, я рейтинг дӀалецо |
+| Реклама доцуш, цхьа ахча я шен ахча дӀахӀоттар | Реклама, тоьлга дӀалар, ахча дӀалецо |
+| Кхин адам дӀаяло сиха | Цхьа адам дерзо, тӀом тоьлга |
 
-Ads and purchase prompts are easy to tap by accident.
+Реклама я ахча дӀахӀоттар хьо дӀахӀоттар, хьо дӀакхочу ма тӀе.
 
-## How do I check an app's privacy?
+## Приложенешан маьлхан дӀахӀоттар муьлхха?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Дерзо, иза маьлхан муьлхха дӀалецо, муьлхха кхин дӀалецо, хьо дӀасалар ма дерзо. ДӀаяло хьалха:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Магазин тӀе маьлхан хьо ма дерзо.** Google Play-н [Data safety хьо](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) а, App Store-н [privacy хьо](https://support.apple.com/en-us/102399) а маьлхан дерзо. Цхьаьна компанеш аьлла, иза шайн дӀахӀоттар ма ду, иза хьалха ду, аудит вац.
+2. **Хьо аккаунт ма дерзо, хьо ца дерзо.** Цхьа сурт, сиха тоьлга дӀахӀоттар, хьо цуьнан хьо гӀо дерзо ца дӀахӀоттар.
+3. **Хьо тӀе ахча дерзо.** Тоьлга дӀалар дерзо, мацах, микрофон, фото ҳьо дерриг а дерзо ма дерзо? Хьо дерзо доцуш тӀе дӀаяр.
+4. **Реклама, аналитика тӀе ма дерзо.** Реклама я трекинг хьо маьлхан приложени дӀахӀоттар кхин компанешан тӀе ца дӀаяло.
+5. **Сурташ хьа дӀаьхьа муьлхха дерзо.** Цхьа фото дерзо, тӀе кхин ду я сервер тӀе дӀаьхьа? Ца дӀалаьцу я?
+6. **Хьо дӀалар дерзо.** Маьлхан дерзо я аккаунт дӀалар дерзо, муьлхха дерзо дӀалар дерзо. Цхьа маьлхан дӀалар ца дерзо йолу приложени, цуьнан тӀе дӀаяр хьо дерзо, фото я медицинан хетарш долуш ду.
+7. **Маьлхан политика дерзо.** Хьо муьлхха, муьлхха хан, муьлхха адамаш дӀалецо, сиха дешнаш дӀаьхьа дерзо.
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA деменцин приложенешан маьлхан дӀалецо ма ду?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+ВӀах, ма ду, иза адамаш дӀахӀоттар. АҚШ-н Health and Human Services хьо [дӀалецо](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html): HIPAA хьалхара медицинан ханнаш, дӀалецар, чӀогӀа ма тӀе. Хьо шен тӀе приложени дӀаяло маьлхан, HIPAA ма дӀахӀоттар, медицинан хьо тӀе дӀаяло вӀах. Магазин тӀе «деменцин приложени» HIPAA тӀе ца кхочу, медицинан дешнаш долуш я.
 
-### What protects health data in apps that HIPAA does not cover?
+### HIPAA ца кхочу приложенешан маьлхан муьлхха дӀалецо?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission-н Health Breach Notification Rule дӀалецо цхьаьна. 2024 шо тӀе FTC [кхочушдан хийцамаш](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) дӀалецо, хьалха медицинан приложенеш, HIPAA кхочу ца долуш. «ДӀахӀоттар» кхиа — ца дӀалецар, ца хьалха дӀалецар, цхьаьна адамаш, FTC кхиа долу. Иза цхьа дӀахӀоттар бохург ду, цхьа приложени ца дерзо тӀе хьо дӀахӀоттар ма ду.
 
-## How should I read claims about research and evidence?
+## ТӀехьа тхов я маьлхан дӀалецар муьлхха дерзо?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Маьлхан тхов дӀалецар хьо, цхьаьна дерзо. Дика дерзо, цхьаьна дерзо маьлхан доккха хетарш.
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Муьлхха дӀалецар хьо?** Цхьа хийцам тӀе дӀахӀоттар, дерриг тоьлга дика ду вац.
+- **Муьлхха адамаш?** Дика хилар дӀалецар, деменцин адамаш тӀе ца кхочу.
+- **Муьлхха дерзо?** Тоьлга тӀе дика хилар, кхин дӀахӀоттар — дийнан ойла, юкъара, сиха хилар, кхин хиларш — хьалха ма ду.
+- **Муьлхха йолу тхов?** Цхьа рандомизированни хийцам (RCT) тоьлга дӀахӀоттар, кхин тоьлга ца дӀахӀоттар. Иза дика ду, цхьа жима я сихара RCT дӀахӀоттар ма ду. Хьо кхин тхов, кхин исследователаш, цхьаьна дӀалецо.
+- **Иза хьо дӀахӀоттар деменцин дӀалецо дерзо?** Тест тӀе цхьа хала дӀахӀоттар, приложени деменци дӀахӀоттар, дӀасахьа я дӀахӀоттар аьлар ма ду.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Национальни институт Аргьа [тхов](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) дӀалецо NIH-н доккха хийцам, структурни когнитивни хийцам, тӀаьхьа дерзо: компьютер я онлайн тоьлгаш ойла я ойланаш дӀахӀоттар дерзо, иза ца дӀалецо. Иза аьлла, коммерчески приложенеш хийцам дӀахӀоттар, иза тоьлгаш тӀехь дӀахӀоттар, кхин хала дӀалецо. Дика дерзо [тоьлгаш а, хетарш а](/brain-health/brain-games/) тӀехь ма тхов, а [деменци дӀахӀоттар](/brain-health/can-dementia-be-prevented/) тӀехь ма тхов.
 
-### What is a public example of a misleading claim?
+### Мисал: ца дика дӀалецар
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+2016 шо, январь тӀе, FTC Lumosity, «ойланаш хийцам» тоьлга, маьлхан [дӀахӀоттар](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) аьлла. FTC аьлла, компани аьлла, цхьа хала маьлхан ца долуш, тоьлгаш хан-шерашца ойла хала дӀахӀоттар, деменци я Альцгеймер дӀахӀоттар. Компани 2 миллион доллар маьлхан, цуьнан тӀаьхьа дика, хала кхиа хала. Иза дика дерзо: маркетинг дешнаш маьлхан ца ду.
 
-### Which words are red flags?
+### Муьлхха дешнаш ницкъ ду?
 
-Be cautious when an app or ad says it:
+Хьо ца дерзо, приложени я реклама аьлла:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- деменци «дӀахӀоттар», «дӀасахьа», «дӀаяло» я «дӀадаь»;
+- «клиникально дӀахӀоттар» аьлла, тоьлга, адамаш, муьлхха дерзо ца дӀалецо;
+- «ойла шен ханна» я ойла очко, диагноз дерзо;
+- ойла «дӀахӀоттар», «хьалха», «хьо дӀахӀоттар»;
+- кхин адамаш, тхов ца дерзо.
 
-If you are unsure about a claim, ask the person's doctor.
+Хьо дерзо ца дерзо, дӀахӀоттар ма дерзо: шу хьонан кхин дӀахӀоттар, дӀалецар. Ӏилма дерзо, адамин доктор тӀе.
 
-## Where does Golden Moments fit?
+## Golden Moments муьлхха дерзо?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments — юкъара сиха тоьлгаш, тест я медицинан гӀо вац. Ди тоьлгаш, [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) а, [Calm Breathing](/games/calm-breathing/) а, дӀахӀоттар, дӀалецар хьо дерзо. Иза деменци дӀадерзо ма ду, дӀахӀоттар а, дӀасахьа а вац; ойла я дӀалецар хьалха дерзо вац.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Цхьа хала, ди приложени [Golden Moments iPhone, iPad а, Android а](/app/) — хала, тоьлгаш, сурт сиха дӀалецо. Иза сурт тӀе сиха дӀаяло, шу дерзо фото, офлайн, аккаунт ца, реклама ца, таймер а, очко а ца. Ӏилма хьалха дерзо: App Store-н privacy label «"Data Not Collected"» ма ду, [приложенешан маьлхан хьо](/app-privacy/) фото кхочушдан дӀалецо.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Шу ди тхов дӀалецар хьо дерзо, ди гӀо ца хьо. Дерзо, [маьлхан хьо](/privacy/) а, [медицинан дӀахӀоттар](/medical-disclaimer/) а. Муьлхха приложени, ди а, шу дерзо адам тӀе ца дӀаяло, дӀасахьа.
 
-## What is a sensible way to try a new app?
+## Муьлхха ханна хьалха приложени дӀаяло?
 
-Try it together for a couple of weeks and watch what happens.
+Ӏилма хала дӀаяло, цхьаьна ши-шерашца, хетарш дӀалецо.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **ДӀаяло цхьа хьалха**, [таблет а, телефон а дӀахӀоттар хьо](/caregiving/tablets-and-screens/) тӀе дерзо, хьалхара дика дар тӀе дӀаяло.
+2. **Хан жима дерзо,** дийна, юкъара, калм хетарш дӀалецо, дика хан тӀе дӀасахьа.
+3. **ДӀаяло ца дерзо,** тоьлга дика дерзо ма дӀалецо, ойла дӀахӀоттар.

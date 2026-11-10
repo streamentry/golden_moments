@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Һуңғы баҫҡыстағы деменция: түшәктә һәм урындыҡта эштәр"
+seoTitle: "Һуңғы баҫҡыс деменцияһы: түшәк һәм урындыҡ идеялары"
+description: "Һуңғы баҫҡыстағы деменцияға йомшаҡ эштәр: яраткан көй, ҡул тейеүе, уҡыу, фотолар, тәбиғәт тауыштары һәм бергә булыу, хәүефһеҙлек кәңәштәре менән."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Һуңғы баҫҡыстағы деменцияла эштәр тойғолар һәм һеҙҙең яныуығыҙ тирәһенә
+  төҙөлә: яраткан көйҙө уйнау, ҡул тотоу, ҡулды йомшаҡ массажлау, юғары тауыш
+  менән уҡыу, фотоларға ҡарау, тәбиғәт тауыштары һәм тәҙрә янында йәки тышта
+  ултырыу. Был эштәр түшәктә йәки урындыҡта ла яраҡлы. Сессияларҙы ҡыҫҡа тотоғоҙ,
+  йөҙгә һәм ҡулдарға ҡарап тыныслыҡты күҙәтегеҙ, һәм иҫтә тотоғоҙ: яныуығыҙ
+  үҙе лә эш.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Аралашыу һаман мөмкин. Һуңғы баҫҡыста донъя, нигеҙҙә, тойғолар аша тойолдо."
+  - "Көй, йомшаҡ тейеү, таныш тауыш һәм йомшаҡ нәмәне тотоу күп осракта һүҙҙәр етмәгәндә лә кешегә барып етә."
+  - "Бында һанап үтелгән идеяларҙың дөйөм өлөшө түшәктә йәки урындыҡта ултырған кеше өсөн дә яраҡлы."
+  - "Йөҙҙә, ҡулдарҙа һәм тын алыуҙа ыңғайлылыҡты йәки ыңғайһыҙлыҡты күҙәтегеҙ, һәм ҡайғы билдәһе күренһә, туҡтағыҙ."
+  - "Ваҡ нәмәләрҙән һаҡланығыҙ; ашарҙы йәки эсемлекте тик медицина командаһы кәңәш иткәс кенә тәҡдим итегеҙ, сөнки йотоу хәүефле булырға мөмкин."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Түшәктә ятҡан, һуңғы баҫҡыстағы деменцияһы булған кеше менән нимә эшләргә була?"
+    a: "Яраткан көйҙө уйнағыҙ, ҡулын тотоғоҙ, йомшаҡ массаж яһағыҙ (крем менән), яратҡан китаптан йәки доғанан уҡығыҙ, фотоларҙы күрһәтегеҙ йәки йомшаҡ тәбиғәт тауыштарын ҡуйығыҙ. Пәрҙәне асығыҙ, тышта булған нәмәне күрә алһын. Ҡыҫҡа, тыныс сессиялар һәм бер ваҡытта бер нәмә күберәк ярашлы."
+  - q: "Һуңғы баҫҡыстағы деменцияһы булған кешеләр көйҙән һаман ләззәт ала алалар мы?"
+    a: "Күптәре ала. Альцгеймер ассоциацияһы билдәләүенсә, һуңғы баҫҡыста ла кеше, ихтимал, ҡулын йәки бармағын көй ритмына һелкетә йәки балалыҡ көйөн көйләй ала. Йәштәрендә яратҡан көйҙө һайлағыҙ һәм тауышты йомшаҡ тотоғоҙ."
+  - q: "Кеше эшкә ризамы, тип нисек белергә?"
+    a: "Бәләкәй билдәләргә иғтибар итегеҙ: тыныс ҡаҡсалар, йомшарған йөҙ, күҙ менән аралашыу, моңһоу, ҡулды кыҫыу йәки әкренерәк тын алыу. Йөҙ ҡыйшайтыу, ҡулдарҙы тартыу, тынғыһыҙлыҡ йәки ыңғырашыу ыңғайһыҙлыҡ йәки ауырыу билдәһе булырға мөмкин. Шундай нәмә күренһә, туҡтағыҙ, һәм ҡайғы дауам итһә, медицина командаһына әйтегеҙ."
+  - q: "Мине танымаһа ла, килеү мәғәнәһе бармы?"
+    a: "Бар. Милли картайыу институты билдәләүенсә, йәнәш булыу үҙе тыныслыҡ бирә, ә ауыр деменцияла ла һыйпау, көй һәм хикәйәләр ярҙам итә ала. Исемегеҙ таныш булмаһа ла, тауышығыҙ һәм ҡулығыҙ таныш булырға мөмкин."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Деменцияның һуңғы баҫҡысында кеше бик аҙ һөйләшергә мөмкин, көнөнән-көн көндәлек ҡарауға мохтаж була һәм көнүҙәк түшәктә йәки урындыҡта күберәк ултыра. Ул саҡта бергә эшләрлек нәмә ҡалмағандай тойолорға мөмкин. Ә ҡалған. [Альцгеймер ассоциацияһы](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) билдәләүенсә, кешенең шәхесенең нигеҙе һаман ҡалырға мөмкин, һәм был баҫҡыста донъя нигеҙҙә тойғолар аша ҡабул ителә. Көй, тейеү, таныш тауыш һәм тыныс яныуығыҙ һаман рәхәтлек һәм аралашыу мизгелдәре бирә ала.
 
-## What activities help in late-stage dementia?
+## Һуңғы баҫҡыстағы деменцияла нимә ярҙам итә?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Был баҫҡыста иң файҙалыһы ябай тойғо эштәре һәм тыныс яныуҙыр. Альцгеймер ассоциацияһы яраткан көйҙө уйнарға, мәғәнәле китаптарҙың өлөшөн уҡырға, яратҡан еҫле крем менән тиреләрен ышҡырға һәм йылы көндө бергәләп тышта ултырырға тәҡдим итә. [Милли картайыу институты](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) хикәйәләр һөйләүҙе, фотоларҙы күрһәтеүҙе, йомшаҡ тейеүҙе йәки массажды, шулай уҡ көй, аҡ ауаз йәки тәбиғәт тауыштарын өҫтәй, һәм һеҙҙең йәнәш булыуығыҙ үҙе лә тынысландырырға мөмкин, ти.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Америка Альцгеймер фонды](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) билдәләүенсә, һуңғы баҫҡыста кешеләр күп осракта нимәлер йылы итеп тотоуға ихтыяж кисерә, һәм ябай сенсор эштәр, йомшаҡ һуҙылыуҙар, шарф хәрәкәттәре, көй, хайуандар менән осрашыу, кеше тейеүе һәм ирекле сәнғәт тәҡдим ителә.
 
-## Activities for someone in bed or a chair
+## Түшәктә йәки урындыҡта ултырған кеше өсөн эштәр
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Уның көйөн уйнағыҙ.** Йәш сағындағы, ышаныуындағы йә ғаилә менән бәйле көйҙәр һайлағыҙ. Тауышты йомшаҡ тотоғоҙ һәм яныраҡ ултырығыҙ. Хәҙер дә кәм генә булһа ла, кәүешкә һелкенергә йәки моңһоуға мөмкин. Ҡарағыҙ: [көй буйынса эштәр](/activities/music/).
+2. **Ҡул тотоғоҙ.** Йомшаҡ ҡул тейеүе менән генә ҡулды тотоу ҙа эш. Алдан әйтегеҙ, һеҙ нимә эшләйәһегеҙ.
+3. **Ҡулды әкрен массажлағыҙ.** Аҙ ғына крем йылытығыҙ һәм уның ҡулын билектән бармаҡ осона тиклем ышҡығыҙ. Еҫһеҙ крем һайлағыҙ, йә тире ҡабул итһә, уға яраткан еҫте алығыҙ.
+4. **Юғары тауыш менән уҡығыҙ.** Яраткан шиғыр, яратҡан китаптан өҙөк, Изге Яҙма йәки спорт битенән. Һеҙҙең тауыштың аһәңе һүҙҙәрҙән дә мөһимерәк.
+5. **Хикәйә һөйләгеҙ.** Ғаилә сәйәхәте йә уның никахлашҡан көнө тураһында һөйләгеҙ. Яуап көтөү кәрәк түгел.
+6. **Фотоларҙы күрһәтегеҙ.** Бер ваҡытта бер ҙур фотоны күҙ кимәлендә тотоғоҙ һәм йылы итеп һүрәтләгеҙ. Кем икәнен һорамағыҙ.
+7. **Йомшаҡ нәмә бирегеҙ.** Бөркәнгән майлыҡ, флис кесерткә йәки йомшаҡ уйынсыҡ. Милли картайыу институты күсерелгәндә кеше һеҙҙе йә йиһазды тотмаҫ өсөн, уға майлыҡ бирергә тәҡдим итә.
+8. **Тәбиғәт тауыштарын ҡуйығыҙ.** Яңғыр, dulkын йә ҡоштар тауышы әкрен генә ҡуйылһа, шау-шыулы бүлмәне йомшартырға мөмкин.
+9. **Тышты эскә алығыҙ.** Пәрҙәне асығыҙ, тәҙрә тышына ҡош ашатҡыс элегеҙ, йәки ҡарау һәм тейеү өсөн бер нисә сәскә йә япраҡ индерегеҙ.
+10. **Тышҡа сығығыҙ.** Әгәр кеше коляскала ултыра ала икән, йылы көндө ике-өс минут күләгәлә ултырыу бик матур булырға мөмкин.
+11. **Сәсен тарағыҙ йә йылы таҫтама тәҡдим итегеҙ.** Әкрен, йомшаҡ сепрек эшләү һәм ҡул менән йөҙгә йылы таҫтама ҡарау ҡайғыртыусанлыҡ тойолдорорға мөмкин.
+12. **Көй менән йомшаҡ хәрәкәт яһағыҙ.** Бергәләп еңелсә шарф һелкетегеҙ, йә көй ритмына ҡулдарҙы хәрәкәтләндерегеҙ. Һуҙылыу һәм буғындарҙы хәрәкәтләндереү өсөн, элек физиотерапевт йә медбикәнән хәүефһеҙ ысулдарын күрһәтеүен һорағыҙ.
+13. **Ирекле сәнғәт эшләгеҙ.** Ҙур ҡағыҙға губка йә ҡул менән токсиһыҙ буяу һөртөгөҙ, һеҙҙең ҡул менән етәкләнеп. Дөрөҫ һөҙөмтә юҡ.
+14. **Хайуандарҙы ҡабул итегеҙ.** Әгәр кеше хайуандарҙы яратһа һәм урын рөхсәт итһә, тыныс мәсәй йә тыш ҡатын түшәккә йә тезгә ултыртығыҙ.
+15. **Бергәләп әкрен тын алығыҙ.** Яныраҡ ултырығыҙ һәм әкрен, ишетелерлек итеп тын алығыҙ. [Тын алыу уйыны](/games/calm-breathing/) ике яҡҡа ла темп ҡуя ала, һәм уны һеҙ башлайһығыҙ һәм туҡтатаһығыҙ.
+16. **Ябай ғына булығыҙ.** Яныраҡ ултырығыҙ, моңһоғоҙ, туҡығыҙ йә тыныс ҡына уҡығыҙ. Йәнәш булыу етә.
 
-## How to share an activity at this stage
+## Был баҫҡыста эштәрҙе ниндәй ысул менән уртаҡлашырға
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Алдан яҡтан яҡынлашығыҙ.** Тейер алдынан кеше исемен һәм үҙегеҙҙекен әйтегеҙ, әкрен һәм йомшаҡ һөйләгеҙ.
+- **Бер ваҡытта бер нәмә тәҡдим итегеҙ.** Көй ҡуйғанда телевизорҙы һүндерегеҙ. Бер ваҡытта бер сенсор менән эшләгеҙ.
+- **Ҡыҫҡа тотоғоҙ.** Ҡайһы саҡта бер нисә минут та етә. Көн дауамында бер оҙон сессиянан ҡыҫҡа мизгелдәр яҡшыраҡ.
+- **Элек еңел урынлашығыҙ.** Кешенең яҡшы таяныс алғанын тикшерегеҙ. Милли картайыу институты ултырғанда ҡулдарҙы тергеҙер өсөн һәм өҫкө өлөшөн таяндырыр өсөн тезгә ҡуйыла торған таҡтаны тәҡдим итә.
+- **Реакцияһына иғтибар итегеҙ.** Ҡулдар тыныс, йөҙ йомшаҡ, күҙ менән аралашыу йә моңһоу тыныслыҡты күрһәтә. Милли картайыу институты ыңғырашыу, йөҙ ҡыйшайтыу, тәнде һаҡлау йә кинәт борсолоу ауырыу билдәһе булырға мөмкин, ти. Туҡтағыҙ һәм медицина командаһына әйтегеҙ.
 
-## A quick guide by sense
+## Сенсорҙар буйынса ҡыҫҡа ҡулланма
 
-| Sense | Ideas | Take care |
+| Сенсор | Идеялар | Иғтибар |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Ишетеү | Яраткан көй, һеҙҙең тауыш уҡыуҙа, тәбиғәт тауыштары | Тауышты түбән тотоғоҙ; бер ваҡытта бер тауыш |
+| Тейеү | Ҡул массажы, ҡул тотоу, йомшаҡ матур, йылы таҫтама | Алдан һорағыҙ йә әйтегеҙ; тиреһенең ауырымағанын йә зарарланмағанын тикшерегеҙ |
+| Күреү | Фотолар, сәскәләр, тәҙрә буйындағы манзара, әкрен тәбиғәт видеоһы | Нәмәләрҙе күҙ кимәлендә тотоғоҙ; яҡшы яҡтылыҡ, ялтырауһыҙ |
+| Еҫ | Яраткан крем, сәскәләр, яҡында ҡайнаған кофе еҫе | Көслө еҫтәрҙән һаҡланығыҙ; аллергияны һәм тын алыуҙы тикшерегеҙ |
+| Тәм | Яраткан тәмдән бәләкәй генә татыу | Тик медицина командаһы хәүефһеҙ тип иҫәпләгән аш-һыу һәм текстураларҙы бирегеҙ |
 
-## Safety at this stage
+## Был баҫҡыста хәүефһеҙлек
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Һуңғы баҫҡыста йотоу ауырлашырға мөмкин, һәм Милли картайыу институты был боғолоу хәүефен арттыра, тип кисетә. Ваҡ нәмәләрҙе кеше ҡулы еткән урында ҡалдырмағыҙ, ашарҙы йә эсемлекте тик медицина командаһы тәҡдим иткән текстура һәм позицияла ғына бирегеҙ. Тейеү эштәре ваҡытында тиреһен әкрен тикшерегеҙ, сөнки тире еңел яралана йә ҡыҙарырға мөмкин. Хәүефһеҙ сенсор идеялар тураһында күберәк өсөн, ҡарағыҙ: [сенсор эштәр](/activities/sensory/).
 
-## Looking after yourself too
+## Үҙегеҙҙе лә ҡарағыҙ
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Һуңғы баҫҡыстағы ҡарау физик һәм эмоциональ яҡтан ауыр, йортта ла, ҡарау йортона барғанда ла. Хоспис һәм паллиатив ярҙам командалары рәхәтлек, таянысҡа һәм планлаштырыуға ярҙам итә ала, һәм Милли картайыу институты уларҙы ярҙам сығанағы итеп атай. Ҡыҫҡа, тыныс килеүҙәр ҙә файҙалы; ҡарағыҙ: [деменциялы кешегә килеү](/activities/visiting/). Әгәр төркөмдәр алып барһағыҙ, [ҡарау йортондағы төркөм эштәре](/activities/care-home-groups/) сессияларҙы үҙгәртеү өсөн идеялар бирә. Һәм [үҙ-үҙеңде ҡарау](/caregiving/caregiver-self-care/) тураһында уҡығыҙ: ял итеү — яҡшы ҡарауҙың өлөшө.

@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Codladh agus Sláinte na hInchinne"
+seoTitle: "Codladh agus Néaltrú: Cad a Thugann Taighde le Fios"
+description: "Cad a thugann taighde le fios faoi chodladh agus baol néaltrú, cén fáth a bhfuil an taighde ar ghlanadh na hinchinne fós luath, agus nósanna codlata praiticiúla."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Tugann roinnt staidéar fadtéarmach le fios go bhfuil baol néaltrú níos airde ag daoine a
+  chodlaíonn ar feadh tréimhse ghearr i lár an tsaoil. Tugann taighde saotharlainne le fios
+  freisin go bhféadfadh codladh cabhrú leis an inchinn dramhaíl a ghlanadh. Tá an fhianaise
+  seo fós luath, agus níor luaigh Coimisiún Lancet 2024 codladh mar fhachtóir riosca ar féidir
+  é a athrú. Cuidíonn nósanna codlata rialta leat mothú níos fearr ó lá go lá. Bíonn fadhbanna
+  codlata coitianta i measc daoine atá ina gcónaí le néaltrú, agus is fiú iad a lua le dochtúir.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Cheangail staidéar sa Ríocht Aontaithe, a lean thart ar 8,000 duine ar feadh 25 bliain, codladh sé huaire an chloig nó níos lú i lár an tsaoil le baol néaltrú níos airde."
+  - "Is féidir le hathruithe codlata a bheith ina gcomhartha luath néaltrú freisin, mar sin tá sé deacair a rá cén ceann is cúis agus cén ceann is iarmhairt."
+  - "Tá taighde ar an gcaoi a nglanann codladh béite-aimilóideach ón inchinn fíor, ach tá sé luath agus déantar cuid mhór de ar lucha."
+  - "Tá apnea codlata coitianta, is féidir cóireáil a fháil air, agus tá sé nasctha le néaltrú i staidéir; is fiú srannadh ard agus codlatacht i rith an lae a sheiceáil."
+  - "Ná tosaigh, ná stop, ná ná hathraigh aon chógas codlata nó cúnamh codlata gan dochtúir."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "An bhfuil drochchodladh ina chúis le galar Alzheimer?"
+    a: "Níl sé sin cruthaithe. Tugann roinnt staidéar le fios go bhfuil baol néaltrú níos airde ag daoine nach gcodlaíonn go leor, ach cuireann néaltrú féin isteach ar chodladh, go minic blianta roimh an diagnóis. Mheas Coimisiún Lancet 2024 nach raibh an fhianaise comhsheasmhach go leor chun codladh a chur ar liosta na bhfachtóirí riosca ar féidir iad a athrú."
+  - q: "Cé mhéad codlata atá ag teastáil ó dhaoine níos sine?"
+    a: "Deir an National Institute on Aging go mbíonn thart ar an méid céanna codlata ag teastáil ó dhaoine níos sine agus atá ag teastáil ó dhaoine fásta eile, 7 go 9 n-uaire an chloig san oíche. Téann go leor daoine níos sine a chodladh agus éiríonn siad níos luaithe ná mar a bhíodh, rud atá coitianta."
+  - q: "Cén fáth a gcodlaíonn duine atá ina chónaí le néaltrú i rith an lae agus a mbíonn sé nó sí ina dhúiseacht san oíche?"
+    a: "Is féidir le néaltrú cur isteach ar chlog an choirp, agus bíonn amanna codlata agus dúiseachta trína chéile dá bharr. Is féidir le pian, leadrán, ocras nó fo-iarmhairtí cógais a bheith bainteach leis freisin. D’fhéadfadh solas an lae, gníomhaíocht laethúil agus gnáthamh ciúin tráthnóna cabhrú. Is féidir le dochtúir cúiseanna ar féidir cóireáil a fháil orthu a lorg."
+  - q: "Ar cheart dom cúnamh codlata a thabhairt don duine a bhfuil cúram á thabhairt agam dó?"
+    a: "Labhair lena dhochtúir nó lena dochtúir ar dtús, agus luaigh táirgí thar an gcuntar freisin. Tugann an National Institute on Aging le fios go bhféadfadh roinnt cógas codlata an baol meadhráin, titim agus mearbhall a mhéadú i measc daoine atá ina gcónaí le galar Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Tá baint shoiléir idir codladh agus sláinte na hinchinne, ach tá taighde fós ar siúl ar an gcineál baint atá ann. Tugann roinnt staidéar le fios go bhfuil baol néaltrú níos airde ag daoine nach gcodlaíonn go leor. Ar an taobh eile, is minic a chuireann néaltrú isteach ar chodladh. Míníonn an leathanach seo cad a léiríonn an taighde agus cad nach léiríonn sé, tugann sé nósanna codlata praiticiúla, agus pléann sé fadhbanna codlata atá coitianta i measc daoine atá ina gcónaí le néaltrú. Ní thugann sé comhairle faoi chógais codlata; is comhrá é sin le dochtúir.
 
-## Is poor sleep linked with dementia?
+## An bhfuil drochchodladh nasctha le néaltrú?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Tugann roinnt staidéar fadtéarmach le fios go bhfuil baol néaltrú níos airde ag daoine nach gcodlaíonn go leor, ach níl an fhianaise socraithe fós.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Staidéar 25 bliain sa Ríocht Aontaithe.** Lean taighdeoirí thart ar 8,000 duine fásta sa [staidéar Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Bhí baol néaltrú níos airde níos déanaí ag daoine a chodail sé huaire an chloig nó níos lú ag aois 50 nó 60 ná ag daoine a chodail seacht n-uaire an chloig. Bhí baol thart ar 30% níos airde ag daoine a chodail sé huaire an chloig nó níos lú ag 50, 60 agus 70 ná ag daoine a chodail seacht n-uaire an chloig go rialta. Staidéar breathnadóireachta a bhí ann, mar sin léiríonn sé nasc, ní cúis.
+- **Dearcadh Choimisiún Lancet.** Níor chuir [Coimisiún Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) codladh lena liosta de 14 fhachtóir riosca ar féidir iad a athrú. Mheas sé nach raibh an fhianaise comhsheasmhach go leor. Cúis amháin leis sin is ea an “cúisíocht aisiompaithe”: tosaíonn athruithe inchinne a bhaineann le néaltrú blianta roimh an diagnóis agus is féidir leo cur isteach ar chodladh. I staidéar mór amháin, d’imigh an nasc idir codladh fada agus néaltrú nuair a fágadh an chéad chúig bliana den leanúint ar lár.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Mar sin, ní cúis imní í oíche ghearr anois is arís. Is fiú díriú ar chodladh rialta ar chaighdeán maith, mar go gcabhraíonn sé le giúmar, airdeall agus sábháilteacht sa lá atá inniu ann.
 
-## What is the "brain-clearing" sleep research?
+## Cad é an taighde ar “ghlanadh na hinchinne” le linn codlata?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+B’fhéidir gur léigh tú go “nglanann” codladh an inchinn. Tagann an smaoineamh sin ó thaighde fíor, ach tá sé luath.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **I lucha.** Fuair staidéar in 2013, a [ndéanann an NIH cur síos air](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), gur mhéadaigh an spás idir cealla na hinchinne thart ar 60% nuair a chodail lucha. Shreabh sreabhán tríd an inchinn níos éasca, trí chóras ar a dtugtar an córas glimfeach. Glanadh béite-aimilóideach, próitéin atá nasctha le galar Alzheimer, níos tapúla ó inchinn lucha a bhí ina gcodladh.
+- **I ndaoine.** Rinne [staidéar beag in 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanadh ar 20 duine fásta shláintiúil idir 22 agus 72 bliain d’aois tar éis oíche chodlata ghnáthach agus tar éis oíche gan chodladh. Tar éis na hoíche gan chodladh, mhéadaigh comhartha scanadh inchinne do bhéite-aimilóideach thart ar 5% i limistéar a chuimsíonn an hippocampus, cuid den inchinn atá tábhachtach don chuimhne. Dúirt na húdair gur fhianaise réamhthástála a bhí ann. Ní raibh a fhios acu an imíonn an t-athrú tar éis scíthe, ná an léiríonn sé glanadh níos moille nó níos mó aimilóidigh á dhéanamh.
+- **Oibríonn sé an dá bhealach.** Tugann Coimisiún Lancet le fios gur féidir le carnadh aimilóidigh cur isteach ar chodladh i measc daoine níos sine.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Cuidíonn na torthaí seo a mhíniú cén fáth a bhfuil spéis ag taighdeoirí i gcodladh. Ní léiríonn siad go gcuireann codladh níos fearr cosc ar ghalar Alzheimer.
 
-## What sleep habits may help?
+## Cad iad na nósanna codlata a d’fhéadfadh cabhrú?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Tá thart ar 7 go 9 n-uaire an chloig codlata ag teastáil ó dhaoine níos sine gach oíche, an méid céanna le daoine fásta eile, dar leis an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). I measc na moltaí atá aige tá:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Coinnigh sceideal rialta.** Téigh a chodladh agus éirigh ag an am céanna gach lá, fiú ag an deireadh seachtaine.
+- **Bíodh gnáthamh socair agat roimh chodladh.** Léigh, éist le ceol ciúin nó glac folctha te roimh dhul a chodladh.
+- **Bíodh an seomra leapa compordach,** gan a bheith ró-the nó ró-fhuar.
+- **Cuir teorainn le caiféin déanach sa lá.** Is féidir le caife, tae, deochanna boga agus seacláid tú a choinneáil i do dhúiseacht.
+- **Seachain alcól,** fiú méideanna beaga, a mholann an NIA.
+- **Seachain béilí móra laistigh de dhá nó trí huaire an chloig roimh am codlata,** agus deochanna móra déanach sa lá.
+- **Déan aclaíocht go rialta, ach ní laistigh de 3 huaire an chloig roimh am codlata.** Féach ar ár [dtreoir faoi aclaíocht](/brain-health/exercise/).
+- **Coinnigh scáileáin as an seomra leapa.** Molann an NIA gan féachaint ar an teilifís ná gan ríomhaire, fón nó táibléad a úsáid ann.
+- **Seachain néal chodlata déanach tráthnóna nó san oíche** más féidir.
 
-## Sleep problems in dementia
+## Fadhbanna codlata agus néaltrú
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Bíonn athruithe codlata coitianta i measc daoine atá ina gcónaí le néaltrú. [Luaíonn an NIA](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) codladh an iomarca nó róbheag, dúiseacht go minic san oíche, agus néal codlata go minic i rith an lae. Déanann sé cur síos freisin ar chorraíl tráthnóna: míshuaimhneas, corraí nó mearbhall a thosaíonn nó a éiríonn níos measa de réir mar a théann solas an lae in éag.
 
-Caregiver tips from the NIA include:
+I measc na leideanna don té a thugann cúram, dar leis an NIA, tá:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Faigh solas an lae agus bogadh go luath.** Téigh amuigh nó suigh cois fuinneoige i rith an lae, agus cabhraigh leis an duine a bheith gníomhach gach lá. D’fhéadfadh solas geal cabhrú le clog an choirp a athshocrú.
+2. **Pleanáil gníomhaíochtaí fuinniúla don mhaidin.** Bain triail as folcadh a dhéanamh ar maidin nó an béile is mó a bheith agat ag meán lae.
+3. **Coinnigh néal chodlata gearr agus luath.** Cuir teorainn le néal codlata déanach sa lá.
+4. **Bíodh an tráthnóna ciúin.** Ísligh na soilse, laghdaigh torann agus seinn ceol ciúin má thaitníonn sé leis an duine. Tá tuilleadh smaointe inár dtreoir faoi [chorraíl tráthnóna](/caregiving/late-day-restlessness/).
+5. **Coinnigh gnáthamh rialta roimh chodladh.** Is sampla de chuid an NIA é léamh os ard ag an am céanna gach oíche. Cuidíonn [gnáthamh laethúil seasta](/activities/daily-routine/) freisin.
+6. **Cuir teorainn le caiféin agus alcól.**
+7. **Bain úsáid as soilse oíche** sa seomra leapa, sa halla agus sa seomra folctha.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Maidir le dúiseacht san oíche, i measc [leideanna sábháilteachta sa bhaile](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) an NIA tá soilse oíche nó braiteoirí solais uathoibríocha, barraí greim sa seomra folctha, téip gheal ar imill na gcéimeanna, agus cógais a choinneáil faoi ghlas.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Is féidir le gníomhaíocht ghearr, chiúin tráthnóna cabhrú le mbeirt agaibh socrú. Bain triail as sos mall [Análú Ciúin](/games/calm-breathing/) nó cúpla [Cárta Comhrá](/games/conversation-cards/) suaimhneach. Seachain aon rud spreagúil gar don am codlata, agus stop nuair is leor don duine é.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Cuireann codladh briste isteach ar an té a thugann cúram freisin. Pléann ár [dtreoir faoi fhéinchúram don té a thugann cúram](/caregiving/caregiver-self-care/) bealaí chun scíth agus cúnamh a fháil.
 
-## What about sleep apnea?
+## Cad faoi apnea codlata?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Is cúis le apnea codlata sosanna gairide san anáil le linn codlata, go minic go minic san oíche. Deir an NIA, mura bhfaightear cóireáil dó, go bhféadfadh fadhbanna a bheith mar thoradh air, mar shampla brú fola ard, stróc nó cailliúint chuimhne. I measc na gcomharthaí tá srannadh ard agus mothú codlatach i rith an lae, agus níl a fhios ag go leor daoine go bhfuil sé orthu. Déanann Coimisiún Lancet cur síos ar athbhreithniú ar 11 staidéar ina raibh baol néaltrú thart ar 43% níos airde ag daoine le apnea codlata. Níor chuir mórán de na staidéir sin meáchan san áireamh, áfach, mar sin níl an nasc cinnte.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Is féidir apnea codlata a dhiagnóisiú agus cóireáil a fháil dó. Tugann an NIA le fios go gcuidíonn meaisín CPAP beagnach i gcónaí. Má bhíonn srannadh ard ort féin nó ar an duine a bhfuil cúram á thabhairt agat dó, má stopann an anáil le linn codlata, nó má bhíonn codlatacht mhór i rith an lae, inis do dhochtúir.
 
-## A note about sleep medicines
+## Nóta faoi chógais codlata
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Ní thugaimid comhairle faoi chógais codlata ná faoi fhorlíonta. Tugann an NIA le fios go bhféadfadh cógais codlata cabhrú ar feadh tamaill ghairid, ach nach leigheas ar insomnia iad. Tugann sé le fios freisin go bhféadfadh roinnt cógas a thugtar chun cabhrú le daoine atá ina gcónaí le galar Alzheimer codladh an baol meadhráin, titim agus mearbhall a mhéadú. Ná tosaigh, ná stop, ná ná hathraigh aon chógas codlata, lena n-áirítear cúnamh codlata thar an gcuntar, gan labhairt le dochtúir nó cógaiseoir.
 
-## Talk with a doctor
+## Labhair le dochtúir
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Téigh chuig dochtúir má bhíonn tú féin nó an duine a bhfuil cúram á thabhairt agat dó tuirseach i gcónaí, má bhíonn deacracht codlata ann an chuid is mó de na hoícheanta, má bhíonn srannadh ard ann, nó má bhíonn sosanna san anáil san oíche. Má leanann fadhbanna codlata i measc daoine atá ina gcónaí le néaltrú, [molann an NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) comhairle leighis a lorg. Is féidir le seiceáil cúiseanna mar phian, neamhord codlata eile, tinneas nó fo-iarmhairt cógais a aimsiú. Teastaíonn cúram práinneach má tharlaíonn mearbhall tobann, nó má thagann athrú tobann ar chodladh le mearbhall. Léigh [cathain is ceart dul chuig dochtúir](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Is eolas ginearálta é an leathanach seo, ní comhairle leighis é. Féach ar ár [séanadh leighis](/medical-disclaimer/).

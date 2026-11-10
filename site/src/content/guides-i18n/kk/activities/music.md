@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Деменциямен өмір сүретін адамдарға арналған музыка"
+seoTitle: "Деменция кезіндегі музыка: тізімдер мен идеялар"
+description: "Деменциямен өмір сүретін адаммен музыканы қалай бөлісуге болады: жеке тізім құру, 15 қарапайым идея және әр кезеңге арналған кеңестер."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Музыка — деменциямен өмір сүретін адаммен бірге өткізетін ең қарапайым
+  әрекеттердің бірі. Оның жастық шағында, сенімінде және отбасында маңызды
+  болған әндерден жеке тізім құрыңыз да, жарнамасыз және бөгде дыбыссыз
+  тыңдаңыз. Бірге ән айтыңыз, шапалақтаңыз, ырғақпен тербеліңіз немесе жай
+  тыңдаңыз. Сәтке сай тыныш немесе көңілді музыка таңдаңыз, дыбыс деңгейін
+  жұмсақ ұстаңыз және қандай да бір ән адамды мазаласа, тоқтатыңыз.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Жеке маңызы бар музыка ең жақсы әсер етеді: жас ересек кезіндегі сүйікті әуендер, сондай-ақ сеніміне, мәдениетіне және отбасылық оқиғаларына байланысты музыка."
+  - "Бір уақытта бір нәрсені ғана қосыңыз, жарнамасыз және теледидар өшірулі болсын."
+  - "Ән айту, шапалақтау, ырғақпен тербелу және жай тыңдау — барлығы да қатысудың тәсілі."
+  - "Жайлы көңіл-күй үшін тыныш, сергіту үшін көңілді музыка қолданыңыз және адамның реакциясын байқап отырыңыз."
+  - "Жоспарлы музыкалық сабақтар туралы зерттеулер шектеулі; біз музыканы ем емес, бірге өткізетін жағымды уақыт ретінде ұсынамыз."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Деменциямен өмір сүретін адамға қандай музыка жақсы келеді?"
+    a: "Адам ұзақ уақыт бойы жақсы көріп, таныс болған музыка, көбіне жасөспірім және жиырмасыншы жастағы кезінен, сондай-ақ сеніміне, мәдениетіне және отбасылық мерекелеріне байланысты әуендер. Мүмкіндік болса, музыканы өзіне таңдауға мүмкіндік беріңіз. Не ұнайтынын түсіну үшін жүзіне және қимылына назар аударыңыз, ал мазалайтын әуендерді қоймаңыз."
+  - q: "Құлаққап қолдану керек пе?"
+    a: "Кейбір адамдар құлаққапты ұнатады, себебі ол бөгде дыбысты азайтады, ал басқаларына ол ыңғайсыз немесе түсініксіз болуы мүмкін. Алдымен динамик арқылы тыңдап көріңіз, сонда бірге тыңдай аласыз. Құлаққап қолдансаңыз, дыбыс деңгейін төмен ұстаңыз және қасында болыңыз."
+  - q: "Музыка мазасыздықты немесе қобалжуды жеңілдетуге көмектесе ме?"
+    a: "Тыныш, таныс музыка жайлы көңіл-күй орнатуға көмектесуі мүмкін, және Alzheimer's Association қалаған атмосфераны жасау үшін музыканы қолдануды ұсынады. Бірақ бұл әрдайым көмектесе бермейді. Егер адам қобалжыса, ауырсыну, аштық, шу немесе шаршау бар-жоғын да тексеріңіз."
+  - q: "Деменцияның соңғы кезеңіндегі адамдар да музыкадан ләззат ала ала ма?"
+    a: "Көптеген адамдар ала алады. Alzheimer's Association соңғы кезеңдегі адам әлі де балалық шақтағы әнге ырғақпен шапалақтауы немесе қосылып айтуы мүмкін екенін атап өтеді. Жақын отырып, музыканы ақырын қойыңыз және қолынан ұстаңыз немесе бірге тербеліңіз."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Музыка — деменциямен өмір сүретін адаммен бірге бөлісудің ең қарапайым нәрселерінің бірі. Ол ештеңе талап етпейді: дұрыс жауап та, орындалатын қадамдар да керек емес. Таныс ән тіпті әңгімелесу қиын күннің өзінде күлкі, ырғақпен аяқ қағу немесе бірге қосылып айтылған бірнеше сөз сыйлауы мүмкін. Сізге тек осы адамға сай музыка мен оны тыңдауға арналған тыныш сәт керек.
 
-## What music activities work for people with dementia?
+## Деменциямен өмір сүретін адамдар үшін қандай музыкалық әрекеттер қолайлы?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Тыңдау, ән айту, шапалақтау, ырғақпен тербелу және музыка туралы әңгімелесу — барлығы да жақсы үйлеседі. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) музыка тыңдауды, музыка мен орындаушы туралы сөйлесуді, таныс әндерді айтып немесе билеп көруді, сондай-ақ жергілікті жерде өтетін концерттерге немесе музыкалық кештерге баруды ұсынады. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) шапалақтау немесе билеу сияқты қимылдар ләззатқа қосыла алатынын және сөздер қиынға соға бастағанда музыка байланыс тәсілі бола алатынын айтады.
 
-## How do you build a personal playlist?
+## Жеке музыкалық тізімді қалай құруға болады?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Сіз жасай алатын ең пайдалы нәрсе — осы адам үшін маңызы бар әуендерден тұратын тізім. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) те жеке мағынасы бар музыканың құндылығын атап өтеді. Міне, оны құрудың қарапайым жолы.
 
-### Start with their life
+### Оның өмірінен бастаңыз
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Жасөспірім және жиырмасыншы жас кезі.** Ол жас кезде радиода, билерде және кинофильмдерде қандай әндер айтылғанын еске түсіріңіз.
+- **Маңызды сәттер.** Үйлену тойындағы әуен, алғашқы би, отбасы саяхатында жиі тыңдалған сүйікті альбом.
+- **Сенім және мәдениет.** Діни әндер, рухани музыка немесе ана тіліндегі әндер.
+- **Жұмыс және қызмет.** Марш әуендері, еңбек әндері немесе әскери қызмет кезімен байланысты музыка.
+- **Отбасы есінде сақтағандар.** Ағайын-туыстардан, балалардан және ескі достарынан ол үнемі қандай әнді тыңдайтынын немесе айтатынын сұраңыз.
 
-### Think in genres, not just songs
+### Тек әндерді емес, жанрларды да ойластырыңыз
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Қайдан бастарын білмесеңіз, төмендегілердің әрқайсысынан бірнеше минут тыңдап, адамның реакциясын байқаңыз: биг-бэнд және свинг, ду-воп, моттаун және соул, ерте рок-н-ролл, кантри және вестерн, блюграсс, госпел және діни әндер, бродвейлік музыкалар, джаз стандарты, болеро немесе марьячи сияқты латын музыкасы, полька, фольклор және классикалық музыка. Күлкі немесе ырғақпен аяқ қағуды әкелгендерін қалдырыңыз, ал қабақты түйдіргендерін алып тастаңыз.
 
-### Make it easy to play
+### Ойнатуды оңай етіңіз
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Жарнамасыз.** Alzheimer's Association жарнамалар түсінбеушілік тудыруы мүмкін екенін ескертеді. Жүктеп алынған музыканы, компакт-дискілерді, пластинкаларды немесе жарнамасыз қызметті пайдаланыңыз.
+- **Бір қарапайым құрылғы.** Бір үлкен батырмасы бар динамик немесе алдын ала сақталған тізім болса, оны кез келген адам қоса алады.
+- **Екі қысқа тізім.** Тыныштандыруға арналған бір тізім және көңіл-күйді көтеруге арналған тағы бір тізім.
+- **Белгі қойыңыз.** Құрылғыға адамның атын және «сүйікті музыка» деп жазып қойыңыз, сонда келіп-кететін туыстар мен қызметкерлер де пайдалана алады.
 
-## 15 music activities to try
+## Байқап көруге болатын 15 музыкалық әрекет
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Бірге тыңдаңыз.** Қасында отырып, басқа ештеңе жасамай тыңдаңыз. Тыңдаудың өзі — толыққанды әрекет.
+2. **Бірге ән айтыңыз.** Әнді өзіңіз бастап жіберіңіз. Ырғақпен ыңылдау немесе ерінді қимылдату да жеткілікті.
+3. **Ырғақпен шапалақтаңыз немесе соғыңыз.** Тізені сипаңыз, үстелді ақырын соғыңыз немесе кішкентай қол добылын не сылдырмақты пайдаланыңыз.
+4. **Баяу билеңіз.** Ас үйде қол ұстасып тербеліңіз немесе отырып, қолды бірге қимылдатыңыз.
+5. **Орамалмен билеу.** Тұрған күйде немесе отырып, жеңіл орамалдарды музыка ырғағымен желпіңіз.
+6. **Музыка туралы сөйлесіңіз.** Тексермей, әңгімеге шақырыңыз: «Бұл би кешін еске түсіреді. Сол билер туралы айтып беріңізші». Ешқашан «Бұл әнді есіңе түсіріп тұрсың ба?» деп сұрамаңыз.
+7. **Бүтін альбом тыңдаңыз.** Ол жақсы көрген пластинканы басынан аяғына дейін кофе ішіп отырып қойыңыз.
+8. **Альбом мұқабаларын қараңыз.** Ескі пластинка мұқабалары сән, көліктер және адамдар туралы әңгімелеуге өте қолайлы.
+9. **Мюзикл көріңіз.** Оның дәуіріндегі мюзикл немесе концерт жазбасы кешкі уақытқа жарайды. Үзіліс жасауға болады.
+10. **Білетін аспабында ойнаңыз.** Бұрын пианино немесе гитарада ойнаған адам қарапайым ойнаудан ләззат алуы мүмкін. Кейін бірге бірнеше нотаны басып көрудің өзі де жеткілікті.
+11. **Іс барысында музыка тыңдаңыз.** Кір жаярда немесе дастарқан жайғанда сүйікті әндерді қойыңыз.
+12. **Таңғы ән.** Күнделікті тәртіптің бір бөлігі ретінде әр таңды сол бір көңілді әнмен бастаңыз.
+13. **Діни немесе рухани әндер айтыңыз.** Оның сенім дәстүріне сай музыканы қойып, бірге айтыңыз.
+14. **Ән айту тобына қосылыңыз.** NHS ән айту топтарын көңіл-күй мен хал-ахуал үшін пайдалы деп сипаттайды. Жергілікті жерде деменциямен өмір сүретін адамдарға ыңғайлы хорлар бар-жоғын сұрастырыңыз.
+15. **Тірі музыканы тыңдаңыз.** Қысқа жергілікті концерт немесе ашық аспан астындағы орындау. Шығуға жақын отырыңыз және қалаған кезіңізде кетіңіз.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Таныс сөз тіркестерімен жеңіл сөз ойынын байқап көргіңіз келсе, [finish the saying](/games/finish-the-saying/) ойынын қолданып көріңіз: онда аяқталуын әрқашан көрсетуге болады.
 
-## Matching music to the moment
+## Музыканы сәтке сай таңдау
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association қалаған көңіл-күйді жасау үшін музыканы қолдануды ұсынады: жайлы атмосфера үшін тыныш музыка, ал көңіл көтеру үшін адамның жастық шағынан таныс көңілді ән.
 
-| Moment | Try | Tip |
+| Сәт | Не байқап көруге болады | Кеңес |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Ояну | Таныс, көңілді ән | Әр таң сайын бірдей ән жұмсақ белгіге айналады |
+| Үй жұмыстары | Көңілді сүйікті әндер | Музыка жұмысты серік сияқты сезіндіруі мүмкін |
+| Тамақтану | Ақырын аспаптық музыка | Тамақтануға кедергі болмас үшін дыбысты төмен ұстаңыз |
+| Түстен кейінгі уақыт | Жарық жақсы жерде тыныш, таныс музыка | [Кешкі мазасыздық](/caregiving/late-day-restlessness/) бөлімін қараңыз |
+| Ұйықтар алдында | Баяу, жұмсақ музыка | Дыбыс деңгейі мен жарықты бірге азайтыңыз |
+| Соңғы кезең | Ең сүйікті әндер, өте ақырын | Жақын отырып, қолынан ұстаңыз |
 
-## Tips for a good experience
+## Жақсы тәжірибе үшін кеңестер
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Басқа дыбыстарды өшіріңіз.** Alzheimer's Association терезелер мен есіктерді жауып, теледидарды өшіруді ұсынады, сонда музыка жалғыз дыбыс болады.
+- **Дыбыс деңгейін жұмсақ ұстаңыз.** Музыка жайлы болуы керек, қатты болмауы тиіс. Егер адам есту аппаратын қолданса, оның киіліп тұрғанын және дұрыс жұмыс істеп тұрғанын тексеріңіз; [есту](/brain-health/hearing/) бөлімін қараңыз.
+- **Мұңды естеліктерге назар аударыңыз.** Кейбір әндер қайғы, соғыс немесе жоғалтуды еске түсіруі мүмкін. Егер ән адамды мазаласа, жұбатып, басқасын қосыңыз.
+- **Оның таңдауына ерік беріңіз.** Мүмкіндік болса, музыканы адам өзі таңдасын және «жоқ» деуіне түсіністікпен қараңыз.
+- **Кез келген сәтте тоқтатыңыз.** Бес минуттық музыка да — жақсы әрекет. Музыканы өшіріп, жай отырып демалу да солай.
 
-## What does the research say about music and dementia?
+## Музыка мен деменция туралы зерттеулер не дейді?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Деректер шектеулі. [2025 жылғы Cochrane шолуы](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) жоспарлы музыкалық сабақтар туралы 30 зерттеуді қарастырды, олардың көпшілігі қарттар үйлеріндегі топтармен өткізілген. Бұл сабақтар әдеттегі күтіммен салыстырғанда депрессиялық белгілерді шамалы жеңілдетуі мүмкін екенін көрсетті, бірақ мазасыздыққа, хал-ахуалға немесе ойлау мен есте сақтауға айқын әсер таппады және сабақтар аяқталғаннан кейін сақталатын әсерлер байқалмады.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Біз музыканы ем ретінде емес, бірге уақыт өткізудің жағымды әрі қысымсыз тәсілі ретінде ұсынамыз. Топтық жағдайлар үшін [қамқор орталықтарындағы топтық әрекеттер](/activities/care-home-groups/) бөлімін қараңыз; музыканы фотосуреттер мен естеліктермен бірге қолдану үшін [естеліктермен байланысты әрекеттер](/activities/reminiscence/) бөлімін қараңыз.

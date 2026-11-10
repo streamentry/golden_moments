@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Conas Aipeanna agus Cluichí Néaltraithe a Roghnú"
+seoTitle: "Conas Aipeanna Néaltraithe a Roghnú: Seicliosta"
+description: "Seicliosta do chúramóirí chun aipeanna néaltraithe a roghnú: socraigh do sprioc, seachain amadóirí ama agus fógraí, seiceáil príobháideachas, agus léigh éilimh."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Tosaigh leis an rud a theastaíonn uait go ndéanfaidh an aip: spreagadh
+  bog, cuimhní cinn, suaimhneas nó nasc. Ansin roghnaigh ceann a oireann do
+  chumas an duine inniu, le pictiúir mhóra, gan amadóirí ama, scóir ná fógraí,
+  agus bealach éasca le stopadh. Seiceáil cén sonraí a bhailíonn sí agus an
+  féidir leat iad a scriosadh. Bí cúramach faoi éilimh go gcuireann aip cosc
+  ar néaltrú nó go gcaitheann sí leis; ní cruthúnas é staidéar amháin.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Socraigh an sprioc ar dtús: teastaíonn aipeanna éagsúla le haghaidh spreagtha bhig, cuimhní cinn, suaimhneasa nó naisc."
+  - "Oiriúnaigh an aip do chumas an duine ar an lá, ní do lipéad céime, agus coinnigh na rialuithe simplí."
+  - "Seachain aipeanna le hamadóirí ama, scóir, saolta, sraitheanna, fógraí nó leideanna ceannaigh."
+  - "Seiceáil bailiú sonraí, comhroinnt agus scriosadh. De ghnáth ní chlúdaíonn HIPAA aipeanna tomhaltóra."
+  - "Bí amhrasach faoi éilimh mar „cuireann sé cosc ar néaltrú”. Ní cruthúnas é triail amháin, ná scóir níos fearr san aip."
+  - "Is gníomhaíocht áineasa é Golden Moments. Ní dhéanann sé aon éilimh chliniciúla."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "An féidir le cluichí inchinne cosc a chur ar néaltrú?"
+    a: "Níl fianaise mhaith ann go gcuireann aipeanna tráchtála cluichí inchinne cosc ar néaltrú ná go moillíonn siad é. Deir an National Institute on Aging nach bhfuil dóthain fianaise ann go mbíonn an éifeacht chéanna ag aipeanna tráchtála oiliúna inchinne agus a bhí ag an oiliúint struchtúrtha a tástáladh i dtriail mhór taighde. Roghnaigh aipeanna le haghaidh taitneamh agus naisc, ní mar leigheas."
+  - q: "An bhfuil aip néaltraithe clúdaithe ag HIPAA?"
+    a: "De ghnáth ní bhíonn. De ghnáth baineann HIPAA le soláthraithe cúram sláinte, pleananna sláinte agus a gcomhlachaithe gnó. De ghnáth ní chlúdaítear aip a íoslódálann tú féin mura soláthraíonn duine acu í. Clúdaíonn Riail Fógra Sáraithe Sláinte an FTC go leor aipeanna sláinte nach gclúdaíonn HIPAA."
+  - q: "Cén chuma a ba cheart a bheith ar chluiche maith néaltraithe?"
+    a: "Pictiúir mhóra soiléire agus téacs soiléir, rud soiléir amháin le déanamh ar gach scáileán, gan amadóir ama ná scór, gan fuaimeanna géara le haghaidh botún, gan fógraí, agus bealach éasca le sos nó stopadh. Ba cheart go mbeadh cuma air gur do dhaoine fásta a rinneadh é agus go mbeadh sé éasca don dara duine páirt a ghlacadh."
+  - q: "An ndeireann Golden Moments go gcabhraíonn sé le cuimhne?"
+    a: "Ní dheireann. Cuireann Golden Moments gníomhaíochtaí simplí roinnte ar fáil le haghaidh taitneamh agus comhrá. Ní dhéanann sé néaltrú a dhiagnóisiú, a chóireáil, cosc a chur air ná é a thomhas, agus ní dhéanaimid aon éilimh faoi chuimhne ná faoi smaointeoireacht."
+  - q: "Ar cheart dom íoc as aip néaltraithe?"
+    a: "Bain triail as roghanna saor in aisce nó trialacha saor in aisce ar dtús, agus féach conas a fhreagraíonn an duine thar chúpla seachtain. Ní dhéanann íocaíocht as aip í a bheith níos éifeachtaí. Seiceáil conas cealú a dhéanamh sula liostálann tú."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Tá siopaí aip lán de chluichí atá lipéadaithe do sheanóirí, do chuimhne nó do néaltrú. Tá cuid acu déanta go tuisceanach. Cuireann cinn eile gealltanais a bhfuil blas míochaine orthu leo, amadóirí ama a dhéanann tástáil as an súgradh, nó fógraí agus bailiú sonraí. Tugann an leathanach seo bealach duit aon aip a mheas tú féin. Ní dhéanaimid táirgí eile a rangú ná a athbhreithniú.
 
-## What should I decide before choosing a dementia app?
+## Cad ba cheart dom a chinneadh sula roghnaím aip néaltraithe?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Cinnigh cad a theastaíonn uait go ndéanfaidh an aip. D’fhéadfadh rudaí an-éagsúla a bheith i gceist le „cluiche do Mhamaí”, agus is minic nach n-oireann an rogha is fearr do sprioc amháin do sprioc eile.
 
-| Goal | What it looks like | What to look for |
+| Sprioc | Cén chuma atá air | Cad ba cheart a lorg |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Spreagadh bog | Meaitseáil, sórtáil, puzail shimplí, cluichí focal | Deacracht inchoigeartaithe, pictiúir a fhanann le feiceáil, gan brú ama |
+| Cuimhní cinn | Sean-ghrianghraif, nathanna coitianta, ceol óna n-óige | Do ghrianghraif féin, leideanna oscailte, gan ceisteanna tráth na gceist |
+| Suaimhneas | Íomhánna mall, fuaimeanna ciúine, análú, nádúr | Éasca le tosú agus le stopadh, gan aon rud geal ag splancadh, gan aon iontas |
+| Nasc | Ag imirt nó ag caint le chéile, i bpearsa nó ar fhísghlao | Déanta do bheirt, leideanna comhrá |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Baineann an taighde ar „spreagadh cognaíoch” struchtúrtha do dhaoine atá ag maireachtáil le néaltrú den chuid is mó le seisiúin ghrúpa faoi stiúir foirne oilte, le plé, cluichí focal, puzail, ceol agus gníomhaíochtaí cruthaitheacha. Fuair [athbhreithniú Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) buntáistí beaga ar an meán, a bhí éagsúil idir staidéir. Ní hionann an cineál sin cláir shóisialta, ilchineálaigh agus aip aonair, mar sin caith le haon aip mar ghníomhaíocht roinnte amháin i measc go leor.
 
-## How do I know if an app fits the person's abilities?
+## Conas a bheidh a fhios agam an oireann aip do chumas an duine?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Féach conas a fhreagraíonn an duine, in ionad dul de réir diagnóis nó lipéid céime. Is féidir le beirt ag an „gcéim chéanna” a bheith an-éagsúil ó thaobh radhairc, éisteachta, rialú láimhe, teanga agus compoird le scáileáin. Molann an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suimeanna ón am atá thart agus cumais reatha a chur san áireamh agus díriú ar thaitneamh seachas ar éacht.
 
-Signs of a good fit:
+Comharthaí go n-oireann sí go maith:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- tosaíonn an duine nó glacann sé páirt gan mórán spreagtha;
+- déanann sé miongháire, tugann sé nóta tráchta nó insíonn sé scéal;
+- ní cosúil go gcuireann botúin isteach air;
+- tá sé sásta stopadh nuair a bhíonn an t-am ann.
 
-Signs it is a poor fit:
+Comharthaí nach n-oireann sí go maith:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- „Ní féidir liom” nó „tá sé seo seafóideach” arís is arís eile;
+- mearbhall faoi cad ba cheart a thapáil;
+- frustrachas, náire nó an gléas a bhrú ar shiúl;
+- ní oibríonn sí ach amháin má dhéanann tú beagnach gach rud.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Is comhartha é an t-achrann, ní rud le brú tríd. Féach [cad ba cheart a dhéanamh nuair a deir an duine nach bhfuil](/caregiving/when-they-say-no/). Le haghaidh smaointe bunaithe ar chéimeanna nach aipeanna iad, féach gníomhaíochtaí don [chéim luath](/activities/early-stage/) agus don [chéim dhéanach](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Cad iad na gnéithe dearaidh ar cheart dom a lorg nó a sheachaint?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Lorg dearadh socair, simplí, fásta, agus seachain aon rud a chuireann brú leis.
 
-| Look for | Be wary of |
+| Lorg | Bí aireach faoi |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Pictiúir mhóra agus téacs mór, codarsnacht ard | Deilbhíní beaga, scáileáin plódaithe |
+| Gníomh soiléir amháin ar gach scáileán | Go leor cnaipí, biachláir, nó treoracha ilchéime |
+| Gan amadóir ama, nó amadóir is féidir a mhúchadh | Comhaireamh síos, bónais luais, „buaigh do chuid ama” |
+| Gan scór, nó aiseolas bog | Pointí, saolta, sraitheanna, rangú, „aois inchinne” |
+| Déileáil chiúin le botúin | Fuaimeanna géara, marcanna dearga X, teachtaireachtaí „Mícheart” |
+| Pictiúir fhásta den saol fíor | Téamaí cartúnacha nó leanbaíocha |
+| Oibríonn sí as líne, gan cuntas ag teastáil le tosú | Ní mór clárú, logáil isteach nó ábhar a íoslódáil ar dtús |
+| Sos agus stopadh éasca | Preabfhuinneoga ag iarraidh ort leanúint ar aghaidh nó an aip a rátáil |
+| Gan fógraí, praghas soiléir aonuaire nó síntiúis | Fógraí, boscaí luach saothair, leideanna ceannaigh go minic |
+| Éasca don dara duine páirt a ghlacadh | Imreoir aonair amháin, dearadh iomaíoch |
 
-Ads and purchase prompts are easy to tap by accident.
+Is furasta fógraí agus leideanna ceannaigh a thapáil de thimpiste.
 
-## How do I check an app's privacy?
+## Conas a sheiceálaim príobháideachas aip?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Seiceáil cad a bhailíonn an aip, cé leis a roinneann sí é, agus an féidir leat é a scriosadh. Sula suiteálann tú:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Léigh achoimre phríobháideachais an tsiopa.** Liostaíonn [rannán Sábháilteacht Sonraí Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) agus [rannán faisnéise príobháideachais an App Store](https://support.apple.com/en-us/102399) na cineálacha sonraí a d’fhéadfadh aip a bhailiú agus a roinnt. Tugann an dá chuideachta le fios gurb iad na forbróirí a sholáthraíonn an fhaisnéis seo, mar sin pointe tosaigh í, ní iniúchadh.
+2. **Fiafraigh an bhfuil cuntas ag teastáil.** Mura ndéanann aip ach pictiúir nó cluichí simplí a thaispeáint, b’fhéidir nach bhfuil aon chúis aici do ainm, do sheoladh ríomhphoist ná do bhreithlá a bheith ar eolas aici.
+3. **Seiceáil ceadanna.** An bhfuil suíomh, teagmhálaithe, micreafón nó do leabharlann ghrianghraf iomlán ag teastáil i ndáiríre ó chluiche meaitseála? Múch aon rud nach bhfuil ag teastáil.
+4. **Lorg fógraí agus anailísíocht.** Is féidir le huirlisí fógraíochta agus rianaithe sonraí faoi conas a úsáidtear an aip a sheoladh chuig cuideachtaí eile.
+5. **Faigh amach cá dtéann grianghraif.** Má chuireann tú grianghraif teaghlaigh leis, an bhfanann siad ar an ngléas nó an uaslódáiltear chuig freastalaí iad? An féidir leat iad a bhaint?
+6. **Seiceáil scriosadh.** Lorg sa pholasaí príobháideachais nó san achoimre sonraí conas sonraí agus an cuntas a scriosadh. Tá aip a deir nach féidir sonraí a scriosadh tuillteanach ar chúram breise, go háirithe má choinníonn sí grianghraif nó sonraí sláinte.
+7. **Léigh an polasaí príobháideachais** le haghaidh freagraí soiléire ar cad a bhailítear, cén fáth, cá fhad, agus cé leis a roinntear é.
 
-### Does HIPAA protect information in dementia apps?
+### An gcosnaíonn HIPAA faisnéis in aipeanna néaltraithe?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+De ghnáth ní chosnaíonn, rud a chuireann iontas ar go leor daoine. [Míníonn](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) Roinn Sláinte agus Seirbhísí Daonna na Stát Aontaithe go mbaineann HIPAA le pleananna sláinte, formhór na soláthraithe cúram sláinte, tithe imréitigh cúram sláinte agus a gcomhlachaithe gnó. I bhformhór na gcásanna ní chosnaíonn sé sonraí a chuireann tú isteach in aip le haghaidh úsáide pearsanta, mura raibh an aip curtha ar fáil ag eintiteas clúdaithe nó ag a chomhlachaithe gnó. Is minic a bhíonn „aip néaltraithe” ó shiopa aip lasmuigh de HIPAA, fiú má labhraíonn sí faoi shláinte.
 
-### What protects health data in apps that HIPAA does not cover?
+### Cad a chosnaíonn sonraí sláinte in aipeanna nach gclúdaíonn HIPAA?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Clúdaíonn Riail Fógra Sáraithe Sláinte an Choimisiúin Chónaidhme Trádála go leor díobh. In 2024 [thug an FTC athruithe chun críche](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) a shoiléirigh go mbaineann an riail le haipeanna sláinte agus le teicneolaíochtaí cosúla nach gclúdaíonn HIPAA. Áirítear le „sárú” nochtadh neamhúdaraithe, ní haiceáil amháin, agus ní mór do chuideachtaí fógra a thabhairt do na daoine lena mbaineann agus don FTC. Is líontán sábhála é sin tar éis go dtéann rud éigin mícheart, ní gealltanas nach mbailíonn aip ach an méid atá de dhíth uirthi.
 
-## How should I read claims about research and evidence?
+## Conas ba cheart dom éilimh faoi thaighde agus fianaise a léamh?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Léigh éilimh fhianaise go mall, agus bí amhrasach den chuid is mó faoi na gealltanais is mó. Ceisteanna le cur:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Cad go díreach a ndearnadh staidéar air?** Ní léiríonn staidéar ar chlár oiliúna amháin go n-oibríonn gach cluiche in aip ar an mbealach céanna.
+- **Cé ar a ndearnadh staidéar?** B’fhéidir nach mbaineann torthaí i measc daoine fásta aosta sláintiúla le duine atá ag maireachtáil le néaltrú.
+- **Cad a tomhaiseadh?** Is rud difriúil é feabhas sa chluiche féin agus athruithe sa saol laethúil, sa chomhrá, sa ghiúmar nó sa neamhspleáchas.
+- **Cé chomh láidir is atá an staidéar?** Déanann triail randamaithe rialaithe (RCT) comparáid idir grúpa a úsáideann an aip agus grúpa nach n-úsáideann. Is dearadh maith é, ach ní cruthúnas é RCT amháin beag nó gearr. Lorg roinnt staidéar, ó thaighdeoirí neamhspleácha, a aontaíonn.
+- **An ndeir sé go n-athraíonn sé an galar?** Ní fianaise é staidéar a thaispeánann feabhsuithe beaga ar thástáil go moillíonn, go gcuireann cosc ar nó go gcaitheann aip le néaltrú.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Déanann leathanach an National Institute on Aging ar [shláinte chognaíoch agus daoine fásta aosta](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) cur síos ar thriail mhór a mhaoinigh an NIH ar oiliúint chognaíoch struchtúrtha, agus tugann sé rabhadh ansin do léitheoirí a bheith aireach faoi éilimh go bhfeabhsaíonn cluichí ríomhaire agus ar líne áirithe cuimhne agus smaointeoireacht. Deir sé nach bhfuil dóthain fianaise fós ann go mbíonn an tionchar céanna ag aipeanna tráchtála oiliúna inchinne agus a bhí ag an oiliúint a tástáladh sa triail sin. Is féidir leat tuilleadh a léamh inár dtreoir ar [chluichí inchinne agus an fhianaise](/brain-health/brain-games/) agus [ar a ndeir taighde faoi néaltrú a chosc](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Cad is sampla poiblí d’éileamh míthreorach ann?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+I mí Eanáir 2016, [d’fhógair an FTC socrú](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) le déantóirí Lumosity, clár „oiliúna inchinne”. Líomhain an FTC gur mhaígh an chuideachta, gan fianaise leordhóthanach, go bhféadfadh a cluichí moill a chur ar mheath cognaíoch a bhaineann le haois agus cosaint a thabhairt i gcoinne lagú cognaíoch éadrom, néaltrú agus galar Alzheimer. D’aontaigh an chuideachta $2 milliún a íoc agus caithfidh fianaise eolaíoch inniúil iontaofa a bheith aici sula ndéanann sí éilimh den sórt sin sa todhchaí. Is meabhrúchán úsáideach é an cás nach ionann teanga mhargaíochta agus fianaise.
 
-### Which words are red flags?
+### Cad iad na focail a bhfuil baol orthu?
 
-Be cautious when an app or ad says it:
+Bí cúramach nuair a deir aip nó fógra go:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- „cuireann sí cosc ar”, „aisiompíonn sí”, „stopann sí” nó „leigheasann sí” néaltrú nó galar Alzheimer;
+- go bhfuil sí „cruthaithe go cliniciúil” gan an staidéar a ainmniú, cé a bhí ann, agus cad a tomhaiseadh;
+- go dtugann sí „aois inchinne” nó scór cuimhne a thugann le tuiscint diagnóis;
+- go „géaróidh”, „treiseoidh” nó go „n-oileoidh” sí an inchinn;
+- go n-úsáideann sí teistiméireachtaí mar chruthúnas.
 
-If you are unsure about a claim, ask the person's doctor.
+Má tá tú neamhchinnte faoi éileamh, cuir ceist ar dhochtúir an duine.
 
-## Where does Golden Moments fit?
+## Cá háit a n-oireann Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Cuireann Golden Moments gníomhaíochtaí simplí roinnte ar fáil, ní tástáil chuimhne, teiripe ná comhairle mhíochaine. Tá ár gcluichí, mar [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) agus [Calm Breathing](/games/calm-breathing/), déanta le haghaidh taitneamh agus comhrá. Ní dhéanann siad néaltrú a dhiagnóisiú, a chóireáil, cosc a chur air ná é a thomhas, agus ní dhéanaimid aon éilimh faoi chuimhne ná faoi smaointeoireacht.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Déanaimid aip saor in aisce freisin, [Golden Moments for iPhone, iPad and Android](/app/). Tá meaitseáil bhog pictiúr inti le tíleanna móra, cluichí le grianghraif teaghlaigh a roghnaíonn tú agus pacáistí pictiúr a oibríonn as líne, gan cuntas, fógraí, amadóir ama ná scór. Baineann an seicliosta céanna léi: léann a lipéad príobháideachais san App Store „Sonraí Nach mBailítear”, agus míníonn an [polasaí príobháideachais aip](/app-privacy/) cá gcoinnítear cóipeanna grianghraf.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+B’fhearr linn go ndéanfá breithiúnas orainn ná muinín a chur ionainn. Úsáid an seicliosta ar an leathanach seo, léigh ár [leathanach príobháideachais](/privacy/) agus ár [séanadh míochaine](/medical-disclaimer/), agus stop ag úsáid aon rud, lenár gceann féin san áireamh, nach n-oireann don duine atá faoi do chúram.
 
-## What is a sensible way to try a new app?
+## Cad is bealach ciallmhar ann chun triail a bhaint as aip nua?
 
-Try it together for a couple of weeks and watch what happens.
+Bain triail aisti le chéile ar feadh cúpla seachtain agus féach cad a tharlaíonn.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Socraigh í ar dtús** ag úsáid ár [dtreoir maidir le táibléad agus fón a shocrú](/caregiving/tablets-and-screens/), agus tosaigh ag an leibhéal is éasca.
+2. **Coinnigh seisiúin gearra,** tabhair faoi deara miongháirí, comhrá agus suaimhneas, agus críochnaigh ar nóiméad maith.
+3. **Éirigh aisti má chuireann sí frustrachas uirthi,** is cuma cé chomh hard is atá an rátáil atá uirthi.

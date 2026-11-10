@@ -1,36 +1,35 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Ինքնախնամք խնամողի համար. հանգիստ, աջակցություն, այրում"
+seoTitle: "Դեմենցիա ունեցողի խնամող. հանգիստ և աջակցություն"
+description: "Խնամողի այրման նշանները, ժամանակավոր խնամքի և աջակցության խմբերի որոնում, և անվճար թեժ գծեր ԱՄՆ-ում։"
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Դեմենցիա ունեցող մարդու խնամքը դժվար է, և ձեր մասին հոգալը այդ աշխատանքի մի
+  մասն է։ Ուշադիր եղեք նախազգուշական նշաններին՝ հյուծվածություն, դյուրագրգռություն,
+  վատ քուն և ընկերներից հեռանալը։ Խնդրեք կոնկրետ օգնություն, օգտվեք ժամանակավոր
+  խնամքից և միացեք աջակցության խմբի։ ԱՄՆ-ում անվճար օգնությունից են Ալցհեյմերի
+  ասոցիացիայի 24/7 թեժ գիծը՝ 1-800-272-3900, և Eldercare Locator-ը՝ 1-800-677-1116։
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Այրումը հաճախ դրսևորվում է հյուծվածությամբ, դյուրագրգռությամբ, վատ քնով, տխրությամբ և սեփական առողջության հանդեպ ուշադրության կորստով։"
+  - "Ժամանակավոր խնամքը ձեզ հանգիստ է տալիս՝ մի քանի ժամից մինչև մի քանի շաբաթ, տանը կամ խնամքի հաստատությունում։"
+  - "Խնդրեք օգնություն կոնկրետ գործերի համար. շատերը ցանկանում են օգնել, բայց չգիտեն ինչպես։"
+  - "Ալցհեյմերի ասոցիացիայի 24/7 թեժ գիծը (1-800-272-3900) անվճար, գաղտնի աջակցություն է առաջարկում ցանկացած ժամի։"
+  - "Eldercare Locator-ը (1-800-677-1116) կապում է ձեզ տեղական ծառայությունների հետ, ներառյալ ձեր տարածքի ծերացման հարցերով գործակալությունը։"
+  - "Եթե զգում եք, որ ճգնաժամի մեջ եք, զանգահարեք կամ գրեք 988։ Շտապ իրավիճակում զանգահարեք 112 կամ 911։"
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Որոնք են խնամողի այրման նշանները?"
+    a: "Սովորական նշաններից են հյուծվածությունը, ծանրաբեռնվածության կամ անհանգստության զգացումը, հեշտ ջղայնանալը կամ անհամբերությունը, քնի դժվարությունները, տխրությունը կամ հուսահատությունը, ընկերներից հեռանալը, հաճախակի գլխացավերը կամ ցավերը, և սեփական սննդի, մարզանքի կամ բուժօգնության բաց թողնելը։ Եթե նման նշաններ լինում են կանոնավոր, խոսեք ձեր բժշկի հետ։"
+  - q: "Ինչպես գտնել ժամանակավոր խնամք ինձ մոտ?"
+    a: "Սկսեք Eldercare Locator-ից (1-800-677-1116 կամ eldercare.acl.gov)՝ ձեր տարածքի ծերացման հարցերով գործակալությանը հասնելու համար, ARCH-ի ժամանակավոր խնամքի ազգային որոնիչից կամ Ալցհեյմերի ասոցիացիայի թեժ գծից՝ 1-800-272-3900։ Ընտանիքը, ընկերները և կամավորները նույնպես կարող են ժամանակավոր խնամք տրամադրել։"
+  - q: "Արդյոք Medicare-ը վճարում է ժամանակավոր խնամքի համար?"
+    a: "Եթե մարդը ստանում է հոսփիս խնամք, Medicare-ը, ըստ Ծերացման ազգային ինստիտուտի, ծածկում է հիվանդանոցում կամ որակյալ բուժքույրական հաստատությունում մինչև հինգ անընդմեջ օր ժամանակավոր խնամքի ծախսերի մեծ մասը։ Մասնավոր առողջապահական ապահովագրության մեծ մասը չի ծածկում ժամանակավոր խնամքը. Medicaid-ը և որոշ երկարաժամկետ խնամքի ապահովագրական ծրագրեր կարող են օգնել։"
+  - q: "Արդյոք Ալցհեյմերի ասոցիացիայի թեժ գիծը իսկապես անվճար է և գիշերն էլ հասանելի?"
+    a: "Այո։ Ալցհեյմերի ասոցիացիան ասում է, որ իր 1-800-272-3900 թեժ գիծը անվճար է, գաղտնի և աշխատում է շուրջօրյա՝ տարվա 365 օր, օգնությունը հասանելի է շատ լեզուներով։ Ռելե ծառայության համար հավաքեք 711։"
+  - q: "Արդյոք եսասիրական է հանգիստ վերցնելը խնամքից?"
+    a: "Ոչ։ Հանգիստն օգնում է ձեզ շարունակել խնամել, և ժամանակավոր խնամքը կարող է նաև ձեր խնամյալին փոփոխություն տալ շփման և զբաղմունքի մեջ։ Շատ խնամողներ հետո ասում են, որ ցանկանում էին ավելի վաղ օգնություն խնդրած լինել։"
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +66,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Եթե խնամում եք դեմենցիա ունեցող մարդու, հավանաբար սա կարդում եք ուշ, հոգնած, և մտքում դեռ չարված գործերի ցանկ կա։ Դա նորմալ է։ Ձեր մասին հոգալը շքեղություն չէ և պարգև չէ ամեն ինչ ավարտելու համար։ Դա է, ինչ թույլ է տալիս շարունակել։
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Այս էջը պատմում է այրման նախազգուշական նշանների, իրական հանգստի հասնելու ուղիների, աջակցություն գտնելու և ԱՄՆ-ում գործող անվճար թեժ գծերի մասին, որոնց կարող եք զանգահարել այսօր։
 
-## What are the signs of caregiver burnout?
+## Որոնք են խնամողի այրման նշանները?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Այրումը հաճախ սողոսկում է կամաց-կամաց, ուստի օգտակար է իմանալ ձեր սեփական նախազգուշական նշանները։ [Ծերացման ազգային ինստիտուտը (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) թվարկում է խնամողի սթրեսի նշաններ, այդ թվում՝
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- զգում եք հյուծված, ծանրաբեռնված կամ անհանգիստ;
+- հեշտությամբ ջղայնանում կամ անհամբեր եք դառնում;
+- զգում եք միայնակ կամ կտրված ուրիշներից;
+- քնի հետ դժվարություններ ունեք կամ բավարար քուն չեք ստանում;
+- զգում եք տխրություն կամ հուսահատություն, կամ կորցրել եք հետաքրքրությունը այն բաների նկատմամբ, որ նախկինում հաճույք էին պատճառում;
+- հաճախակի գլխացավեր, ցավեր կամ այլ ֆիզիկական խնդիրներ;
+- ժամանակ չունեք մարզվելու կամ ձեզ համար առողջ սնունդ պատրաստելու;
+- բաց եք թողնում լոգանքը կամ անձնական հիգիենայի այլ հարցեր;
+- չարաշահում եք ալկոհոլը կամ դեղերը, ներառյալ դեղատոմսով տրված դեղերը։
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Ալցհեյմերի ասոցիացիան](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ավելացնում է նաև այլ նշաններ՝ հիվանդության ժխտում, ջղայնություն մարդու հանդեպ («նա ուղղակի համառում է»), անհանգստություն ապագայի համար, կենտրոնանալու դժվարություն և առողջության խնդիրների ծանր հետևանքներ։ Ասոցիացիան խորհուրդ է տալիս դիմել ձեր բժշկին, եթե նման նշաններ լինում են կանոնավոր։
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA-ի խորհուրդն է՝ չսպասել, մինչև ամբողջովին ուժասպառ լինեք։ Նկատեք ձեր նշանները վաղ և արձագանքեք դրանց։
 
-## What can I do today, in five minutes?
+## Ինչ կարող եմ անել այսօր՝ հինգ րոպեում?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Փոքր ընդմիջումներն էլ հաշվվում են։ Դրանցից ոչ մեկը չի վերացնում այրումը, բայց կարող է օգնել անցնել ծանր կեսօրն անցնել։
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Դուրս եկեք։** Նստեք պատշգամբում կամ քայլեք մինչև փոստարկղը, երբ մարդը ապահով է և հանգիստ։
+- **Դանդաղ շնչեք։** Մի քանի դանդաղ շունչ՝ նախքան դժվար հարցին պատասխանելը։ Կարող եք [Հանգիստ շնչառություն](/games/calm-breathing/) դադար կիսել ձեր խնամյալի հետ։
+- **Ջուր խմեք և ինչ-որ բան կերեք։** Հեշտ է մոռանալ սեփական սնունդը։
+- **Գրեք մեկ ընկերոջ։** Ոչ թե ինչ-որ բան խնդրելու, այլ պարզապես կապ պահելու համար։
+- **Մի բարի բան ասեք ինքներդ ձեզ։** NIA-ի [ուղեցույցը՝ ձեր մասին հոգալու մասին](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) առաջարկում է այնպիսի արտահայտություններ, ինչպիսիք են «Ես անում եմ լավագույնը, ինչ կարող եմ», «Ես կատարյալ չեմ, և դա նորմալ է» և «Ես կվայելեմ այն պահերը, երբ կարող ենք միասին հանգիստ լինել»։
 
-## What is respite care, and how do I get it?
+## Ինչ է ժամանակավոր խնամքը և ինչպես ստանալ այն?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Ժամանակավոր խնամքը կարճաժամկետ խնամք է ձեր խնամյալի համար, որպեսզի դուք կարողանաք հանգստանալ։ NIA-ի [ժամանակավոր խնամքի էջը](https://www.nia.nih.gov/health/caregiving/what-respite-care) բացատրում է, որ այն կարող է տևել մի քանի ժամից մինչև մի քանի շաբաթ և կարող է տրամադրվել տանը, բուժհաստատությունում կամ մեծահասակների ցերեկային կենտրոնում։
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Ալցհեյմերի ասոցիացիան](https://www.alz.org/help-support/caregiving/care-options/respite-care) նկարագրում է հիմնական տեսակները.
 
-| Type | What it is |
+| Տեսակը | Ինչ է դա |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Տնային օգնություն | Ընկեր, ազգական, կամավոր կամ վճարովի ուղեկից կամ օգնական գալիս է տուն |
+| Մեծահասակների ցերեկային կենտրոն | Կազմակերպված զբաղմունքներ, օրինակ՝ երաժշտություն և արվեստ, ապահով խմբային միջավայրում. հաճախ տրամադրվում են տեղափոխում և սնունդ |
+| Գիշերային կամ կարճատև կացություն | Երկարաժամկետ խնամքի համայնքը խնամում է մարդուն մեկ գիշեր, մի քանի օր կամ մի քանի շաբաթ |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Ով է վճարում?** Ըստ NIA-ի՝ ընտանիքի, ընկերների կամ կամավորների տրամադրած ժամանակավոր խնամքը կարող է անվճար լինել։ Մասնագիտական ծառայությունները գանձում են ըստ ժամի կամ օրվա։ Եթե մարդը ստանում է հոսփիս խնամք, Medicare-ը ծածկում է հիվանդանոցում կամ որակյալ բուժքույրական հաստատությունում մինչև հինգ անընդմեջ օր ժամանակավոր խնամքի ծախսերի մեծ մասը։ Medicaid-ը կարող է օգնել։ Մասնավոր առողջապահական ապահովագրության մեծ մասը չի ծածկում ժամանակավոր խնամքը, թեև որոշ երկարաժամկետ խնամքի ապահովագրական ծրագրեր ծածկում են։
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Խորհուրդ.** Ալցհեյմերի ասոցիացիան առաջարկում է ժամանակավոր խնամքի մատակարարներին փորձել ոչ շտապ իրավիճակում, որպեսզի նրանք պատրաստ լինեն, եթե հանկարծ օգնության կարիք ունենաք։
 
-## Where can I find help near me?
+## Որտեղ գտնել օգնություն ինձ մոտ?
 
-Several free US services can point you to local help.
+Մի քանի անվճար ծառայություն ԱՄՆ-ում կարող են ուղղորդել ձեզ տեղական օգնության։
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Ալցհեյմերի ասոցիացիայի 24/7 թեժ գիծ՝ 1-800-272-3900։** [Թեժ գիծը](https://www.alz.org/help-support/resources/helpline) անվճար է և գաղտնի, աշխատում է շուրջօրյա՝ տարվա բոլոր օրերին, օգնությունը հասանելի է ավելի քան 200 լեզուներով՝ երկլեզու աշխատակիցների կամ թարգմանիչների միջոցով։ Ռելե ծառայության համար հավաքեք 711։ Կարող եք խոսել վարքի փոփոխությունների, խնամողի սթրեսի, ժամանակավոր խնամքի տարբերակների, տեղական ծրագրերի և այլ հարցերի մասին, ինչպես նաև խնդրել ավելի երկար զրույց խնամքի խորհրդատուի հետ։ Աշխատակիցները բժշկական խորհրդատվություն չեն տալիս։
+- **Eldercare Locator՝ 1-800-677-1116։** [Eldercare Locator-ը](https://eldercare.acl.gov/)՝ Համայնքային կյանքի վարչության հանրային ծառայությունը, կապում է ձեզ տարեցների և նրանց ընտանիքների համար նախատեսված ծառայությունների հետ։ Կարող եք զանգահարել, հաղորդագրություն ուղարկել, առցանց չաթ անել կամ էլ. փոստով գրել վերապատրաստված աշխատակիցներին, կամ փնտրել ըստ գտնվելու վայրի։ Այն կարող է ուղղորդել ձեզ ձեր տարածքի ծերացման հարցերով գործակալություն։
+- **ARCH ժամանակավոր խնամքի ազգային որոնիչ ծառայություն։** [ARCH-ի ժամանակավոր խնամքի որոնիչը](https://archrespite.org/caregiver-resources/respitelocator/) օգնում է գտնել ժամանակավոր խնամքի մատակարարներ ըստ նահանգի և խորհուրդ է տալիս նախ կապվել ձեր նահանգի ժամանակավոր խնամքի կոալիցիայի կամ Lifespan Respite ծրագրի հետ, եթե ձեր նահանգում այդպիսին կա։ ARCH-ը նշում է, որ ինքը չի ստուգում մատակարարներին, ուստի ինքներդ ծանոթացեք նրանց փորձին և անցյալին։
 
-## How do I find a support group?
+## Ինչպես գտնել աջակցության խումբ?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Հարցրեք թեժ գծին կամ փնտրեք առցանց ձեր մոտակայքում գործող խմբեր։ Ալցհեյմերի ասոցիացիան [վարում է աջակցության խմբեր](https://www.alz.org/help-support/community/support-groups) խնամողների և դեմենցիա ունեցող մարդկանց համար՝ առկա և առցանց, վերապատրաստված վարողների ղեկավարությամբ։ Շատ վայրերում կան նաև մասնագիտացված խմբեր, օրինակ՝ չափահաս խնամողների կամ վաղ սկսված կամ վաղ փուլի Ալցհեյմերով ապրող մարդկանց համար։ Այն նաև վարում է ALZConnected-ը՝ անվճար առցանց համայնք, որտեղ խնամողները կիսվում են խորհուրդներով։
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Աջակցության խումբը կարող է լինել տեղ, որտեղ կարելի է թեթևանալ առանց դատելու, գործնական խորհուրդներ ստանալ նրանցից, ովքեր անցել են այս ճանապարհով, և ավելի քիչ միայնակ զգալ։ Եթե առաջին խումբը ձեզ չի համապատասխանում, փորձեք մեկ ուրիշը։
 
-## How do I ask family and friends for help?
+## Ինչպես օգնություն խնդրել ընտանիքից և ընկերներից?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Եղեք կոնկրետ։ Շատերը ցանկանում են օգնել, բայց չգիտեն ինչ առաջարկել։ NIA-ն առաջարկում է.
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Պահեք ցանկ** այն գործերի, որ ուրիշները կարող են ստանձնել, և թույլ տվեք նրանց ընտրել։
+- **Սկսեք փոքրից**, եթե խնդրելը դժվար է թվում։
+- **Համապատասխանեցրեք գործը մարդուն։** Զարմիկը, ով սիրում է եփել, հինգշաբթի օրերին ընթրիք է բերում։ Հարևանը, ով լավ է հասկանում փաստաթղթերը, օգնում է թղթաբանության հարցում։
+- **Գրեք հաղորդագրություն կամ էլ. նամակ**, եթե դեմ առ դեմ խնդրելն անհարմար է։
+- **Փորձեք պատասխանը** այն դեպքի համար, երբ ինչ-որ մեկը օգնություն առաջարկի. «Շնորհակալություն, որ հարցրիք։ Ահա թե ինչ կարող եք անել»։
+- **Սպասեք նաև «ոչ»-եր**, և աշխատեք չընդունել դրանք անձամբ։
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Այլ գաղափարներ. խնդրեք ինչ-որ մեկին շաբաթը մեկ կեսօր մնալ մարդու հետ, տանել նրան կարճ զբոսանքի, կամ այցելել և միասին խաղ խաղալ։ Մեր [ուղեցույցը՝ միասին խաղալու մասին](/caregiving/how-to-play-together/), հեշտ է կիսվել այցելուների հետ։
 
-## What if something happened to me?
+## Իսկ եթե ինձ հետ ինչ-որ բան պատահի?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Այժմ կազմեք պարզ պահուստային պլան։ NIA-ն առաջարկում է ընտանիքի կամ մտերիմ ընկերների հետ որոշել, թե ով կմիանա, և պահել տետր՝ շտապ հեռախոսահամարներով, դեղերով, աշխատող վարքային խորհուրդներով և սիրելի զբաղմունքներով։ Ալցհեյմերի ասոցիացիան նաև խորհուրդ է տալիս հեշտ հասանելի պահել մարդու բժշկական կոնտակտները և դեղերի արդի ցանկը։
 
-## When should I get professional or urgent help?
+## Երբ դիմել մասնագիտական կամ շտապ օգնության?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Խոսեք ձեր բժշկի հետ, եթե սթրեսի նշանները կանոնավոր են, եթե ձեզ ընկճված եք զգում, կամ եթե դժվարանում եք հաղթահարել։ Ասացեք բժշկին, որ դուք խնամող եք։ NIA-ն նշում է, որ խորհրդատուներն ու սոցիալական աշխատողները կարող են օգնել դժվար զգացմունքների և պլանավորման հարցում, և որ Medicare-ը, Medicaid-ը և որոշ մասնավոր ապահովագրություններ կարող են ծածկել հոգեկան առողջության որոշ ծախսեր։
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Եթե զգում եք, որ ճգնաժամի մեջ եք կամ ինքնավնասման մտքեր ունեք, զանգահարեք կամ գրեք 988-ին՝ [988-ի ինքնասպանության և ճգնաժամի թեժ գիծ](https://988lifeline.org/), անվճար և հասանելի 24/7։ Եթե որևէ մեկը անմիջական վտանգի մեջ է, զանգահարեք 112 կամ 911։
 
-## Can shared activities give me a break too?
+## Կարող են համատեղ զբաղմունքները նաև ինձ հանգիստ տալ?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Երբեմն։ Հանգիստ զբաղմունքը, որը երկուսդ էլ հավանում եք, կարող է օրվա ավելի մեղմ մասը լինել և՛ ձեզ, և՛ ձեր խնամյալի համար. հին երգեր լսելը, լուսանկարներ դիտելը կամ [Զրույցի քարտեր](/games/conversation-cards/) խաղը, որը ճիշտ պատասխաններ չի պահանջում։ Եթե մարդը սիրում է շրջապատված լինել, [Նկարների բինգո](/games/picture-bingo/) խմբային պարապմունքը տարեցների կենտրոնում կամ մեծահասակների ցերեկային ծրագրում կարող է ձեզ մեկ ժամ հանգիստ տալ։ Գաղափարների համար տես [զբաղմունքներ խնամքի տների խմբերի համար](/activities/care-home-groups/)։

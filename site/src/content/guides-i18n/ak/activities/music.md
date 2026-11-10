@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Nnwom Ho Adwuma ma Obi a Ɔwɔ Dementia"
+seoTitle: "Nnwom Ho Adwuma ma Dementia: Nhyehyɛe ne Nsusuwii"
+description: "Sɛdeɛ wobɛkyekye nnwom ne obi a ɔwɔ dementia: nhyehyɛe ankasa nnwom bi a efi mmere ne mmeaeɛ mu, nnwom adwuma 15 a ɛyɛ mmerɛw, ne nhyehyɛe ma mmere biara."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Nnwom yɛ adwuma a ɛyɛ mmerɛw sɛ wobɛkyekye obi a ɔwɔ dementia. Yɛ ankasa
+  nnwom nhyehyɛe a efi ne mmere, ne gyidie ne abusua mu, gye so a wɔnnyɛ
+  advertisement anaa nneɛma a ɛyɛ nkɔm nsɛ. Fa nnwom, bɔ nkwa, sew anaa
+  tie nnwom no ne ho ma wo ne wɔn. Paw nnwom a ɛyɛ dwo anaa a ɛma nkurɔfo
+  ani gye sɛ ɛfata mmere no, de nnwom no nsɛ bɔ kakra, na gyae nnwom no
+  sɛ ɛma ɔnipa no ho hyɛ no.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Ankasa nnwom na ɛyɛ yiye: nnwom a ɔpɛ wɔ ne mmerante, ne nnwom a efi ne gyidie, ne ne abusua anigye mu."
+  - "Gye nnwom baako pɛ so, na mma advertisement nni hɔ, na TV no nso nnyew."
+  - "Nnwom to, nnwom ka, bɔ nkwa, sew anaa tie nnwom no ne ho, nyinaa yɛ ɔkwan a wobetumi afa so."
+  - "Fa nnwom a ɛma ne ho dwo to so, na fa nnwom a ɛma ɔnyɛ anigye to so sɛ ɛbɛboa ma ne tebea a ɛbɛyɛ; hwɛ sɛdeɛ ɔno ara ɔte."
+  - "Nhwehwɛmu a wɔayɛ wɔ nnwom nhyehyɛe ho yɛ kakra; yɛka sɛ nnwom yɛ anigye a yɛde kyekye obi, na ɛnyɛ ɔyareɛ mmoa."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Nnwom bɛn na ɛyɛ yiye ma obi a ɔwɔ dementia?"
+    a: "Nnwom a onipa no anya ne ho anigye wɔ tete, a ɛbarima sɛ ne mmerante ne ne mmere a ɔwɔ mmerante; ne nnwom a efi ne gyidie, ne ne kurom ne abusua anigyeɛ mu. Sɛ ɛbɛyɛ a, ma ɔnipa no ara ne ho paw. Hwɛ ne ani ne ne nipadua, na hu nnwom a ɔpɛ. Yi nnwom biara a ɛte sɛ ɛma no awerɛhyem."
+  - q: "Ɛsɛ sɛ mede headphones di dwuma?"
+    a: "Obi pɛ headphones efisɛ ɛboa ma ɔnte mmoawa, nanso obi foforo nni ho anigye anaa ɛma no ho hyɛ no. Hwehwɛ speaker ns, na mo nyinaa nnwom no. Sɛ wodi headphones dwuma a, ma nnwom no nnɔ kɔsi, na tena wo hɔ."
+  - q: "Nnwom betumi aboa ma obi a ɔwɔ ahohuru anaa awerɛhyem?"
+    a: "Nnwom a ɛyɛ dwo na wɔn a wahu no dedaw bɛtumi aboa ma asomdwoe aba, na Alzheimer's Association kyerɛ sɛ wobɛtumi de nnwom ahyehyɛ ahoɔden a wopɛ. Ɛnyɛ den sɛ ɛbɛyɛ yie daa. Sɛ ɔnipa no ho hyɛ no a, hwɛ sɛ ɔwɔ yaw, ɔpɛ aduane, mmoawa anaa ɔhoho nso."
+  - q: "Nnipa a dementia atwa mu kɔsi awiei betumi agye nnwom anigye?"
+    a: "Wɔn bebree betumi. Alzheimer's Association kyerɛ sɛ onipa a ɔwɔ awiei stage no betumi ada asɛm bi mu, anaa ayɛ nnwom a wɔayɛ wɔ ne mmofra mmere so. Tena ne nkyɛn, gye nnwom no to so sɛ ɛnyɛ den, na kura ne nsa anaa sew ne ho abɔ nkwa."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Nnwom yɛ biribi a ɛyɛ mmerɛw a wobetumi de kyekye obi a ɔwɔ dementia. Ɛnhia sɛ wobɔ mmuae pɔtee anaa wodi ɔkwan a wɔahyehyɛ. Nnwom a ɔhu ano dedaw betumi ama ɔpɛ ɛbɛdeda, ne nan a ɛrepɛ ahoɔ, anaa ɔbɛka nsɛm kakra a ɔkaa ho nkyerɛ bio, ɛwom sɛ ɛnyɛ anigye daa. Wohia nnwom a ɛyɛ yiye ma ɔnipa yi ne berɛ a ɛyɛ ahomeda a wobetumi asɛ nnwom no.
 
-## What music activities work for people with dementia?
+## Nnwom adwuma bɛn na ɛyɛ yiye ma nkurɔfo a wɔwɔ dementia?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Ntie nnwom, nnwom ka, bɔ nkwa, sew ne nkasa wɔ nnwom ho nyinaa yɛ adwuma a ɛyɛ yiye. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ wɔngye nnwom to so, wɔnkasa wɔ nnwom ne ɔdansifo ho, wɔnka anaa wɔnsew nnwom a wɔnim yiye, ne sɛ wɔnkɔ nnwom ahyɛdeɛ anaa nnwom ahyɛdeɛ wɔ kurom mu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ka sɛ nneyɛe a ɛte sɛ bɔ nkwa anaa sew ka anigye ho, na nnwom betumi ayɛ ɔkwan a wobetumi de ka ho bio sɛ nsɛm no yɛ den.
 
-## How do you build a personal playlist?
+## Sɛdeɛ wobɛhyehyɛ ankasa nnwom nhyehyɛe?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Biribi a ɛboa paa a wobetumi ayɛ ne nnwom nhyehyɛe a ɛwɔ ho nkyerɛ ma ɔnipa yi. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nso gyina so sɛ nnwom a ɛwɔ ne ho nkyerɛ. Sɛdeɛ woibɛhyehyɛ bi ni ha.
 
-### Start with their life
+### Fi ne nkwa ase
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Ne mmerante ne ne mmere a ɔwɔ mmerante.** Susuw nea wɔgyee wɔ radio, abɛdan ne sinima mu bere a ɔyɔ abofra.
+- **Nsɛmpa kɛseɛ.** Nnwom a wɔgyee wɔ ne ayawdie mu, ne kɔnsɛt a ɔpɛ paa, anaa album a wɔtee wɔ abusua mmerɛ mu.
+- **Gyidie ne kurom.** Nnwom a wɔka wɔ asɔredan, gospel, nnwom kronkron, anaa nnwom wɔ ne kasa mu.
+- **Adwuma ne asomdwoe.** Asraafo nnwom, adwumayɛ nnwom, anaa nnwom a ɛfa bere bi a ɔsomaa wɔ ɔsraafo mu ho.
+- **Nea abusua no kae.** Bisa ne nuanom, mma ne ne nnamfo a wɔatena ne nkyɛn sɛ ɛdeɛ anaa nnwom bɛn na wɔgyee sɛ wɔbɛgye.
 
-### Think in genres, not just songs
+### Susuw nnwom mu nkyɛmu, na nnyɛ nnwom baako nko
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Sɛ worensusuw sɛ wobɛfi he ase a, sɔ nkyɛmu kakra wɔ saa nkyɛmu yi mu na hwɛ sɛdeɛ ɔte: big band ne swing, doo-wop, Motown ne soul, rock and roll a wɔyɛɛ dedaw, country and western, bluegrass, gospel ne nnwom kronkron, Broadway show tunes, jazz standards, Latin nnwom te sɛ bolero anaa mariachi, polka, folk ne classical. Gye nea ɛma ɔnyɛ anigye anaa ɔbɔ nkwa ase; yi nea ɛma ɔhwɛ ɔkɔm.
 
-### Make it easy to play
+### Ma ɛyɛ mmerɛw sɛ wobɛgye
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Advertisement biara nni hɔ.** Alzheimer's Association kɔ so ka sɛ advertisement betumi ama ɔhoho. Fa nnwom a wɔatwe fi intanɛt, CD, records anaa service a advertisement nni mu.
+- **Dwumadi a ɛyɛ kwan.** Speaker a ɛwɔ bɔtɔn kɛse baako, anaa nnwom nhyehyɛe a wɔasie ne asie, sɛnea obiara betumi afi ase.
+- **Nnwom nhyehyɛe abien.** Baako a ɛma ɔnipa adwo, ne baako a ɛma ɔnipa anigye.
+- **Ka ne din.** Kyerɛw ɔnipa no din ne "nnwom a ɔpɛ" wɔ dwumadi no so, sɛnea abusua a ɛbɛsrɛ ne nnipa a wɔhwɛ no nso betumi de di dwuma.
 
-## 15 music activities to try
+## Nnwom adwuma 15 a ɛsɛ sɛ wosɔ hwɛ
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Tie nnwom bom.** Fa mo ho bɛtena nkyɛn wɔ asomdwoe mu, na biribiara nni hɔ. Tie nnwom ankasa yɛ adwuma koro.
+2. **Ka nnwom ne ho.** Fi ase ka nnwom. Sɛ wohum anaa wobɔ mmɔden a ɛka nsɛm no nso yɛ.
+3. **Bɔ nkwa anaa bɔ tempo no.** Bɔ wo bɔdwe, bɔ ntamadan no so, anaa fa ntenneɛ kakra anaa shaker.
+4. **Sɛe nnwom a ɛyɛ dwo.** Kura nsa mu na wɔ sɛ wote ase wɔ ɔdan mu, anaa sɛe wɔ kurosie so, de ntaban ne nsa sɛe bom.
+5. **Ntwene nnwom.** Hwie mpɛnsaa a ɛyɛ mmerɛw ɛnam nnwom a wɔrehyɛ so, wo ne ho ahyɛ anaa wo ne ho atena.
+6. **Kasa wɔ nnwom ho.** Fre, nnyɛ sɛ wobɛsɔ hwɛ: "Yɛɛ sɛ nnwom yi fa abɛdan ɛmmeae. Ka me ho asɛm wɔ abɛdan no ho." Nnyɛ bisa "Wo kae nnwom yi anaa?"
+7. **Gye album nyinaa.** Gye record a ɔdɔ no bɛn kɔsi awiei, fi ase kɔsi awiei, ɛnam kɔfi so.
+8. **Hwɛ album no kwan.** Records a wɔatwe wɔ mu no yɛ nea ɛboa paa sɛ wobɛkasa wɔ atade, kar ne anifuraefoɔ ho.
+9. **Hwɛ musical bi.** Musical anaa kɔnsɛt a wɔayɛ wɔ ne bere mu betumi ayɛ anadwo a ɛyɛ anigye. Gyae ma wɔnnyina ahomegyedi.
+10. **Gyina ɔsɛnkafoɔ a ɔnim.** Ɔpianofoɔ anaa gitaarfoɔ a wɔyɛ no kan betumi anya anigye wɔ nnwom a ɛyɛ mmerɛw ho. Akyire yi, ɛbɛyɛ ade sɛ mo nyinaa bɛtwe nkɔfa kakra.
+11. **Nnwom bere a wɔreyɛ adwuma.** Gye nnwom a ɔpɛ paa so bere a wɔrebɔ nkataa anaa wɔrehyehyɛ tabɔn no.
+12. **Anɔpa nnwom.** Fi ase da biara ɛnam nnwom anigye bi a wɔdi dwuma daa so.
+13. **Ka nnwom kronkron anaa nnwom asɔre.** Gye nnwom a efi wɔn gyidie mu to so na mo nyinaa nnwom.
+14. **Kɔ nnwom abɔ dwuma mu.** NHS kyerɛ sɛ nnwom ka dwumadi betumi aboa ma anigye ne ahoɔden. Bisa wɔ wo mpɔtam hɔ sɛ wɔwɔ dementia-friendly choirs anaa.
+15. **Kɔ nnwom a wɔrehyɛ ase no so.** Kɔnsɛt a ɛnyɛ tenten wɔ kurom mu anaa band a ɛhyɛ ase wɔ ɔpɛpɛ mu. Tena ɔpon no ho, na ɛsɛ wo pɛ a, fi hɔ.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Sɛ wopɛ adwuma a ɛyɛ mmerɛw a ɛfa nkasa a wɔnim ho, sɔ hwɛ [ka mmara a ɛwɔ hɔ](/games/finish-the-saying/), baabi a wobetumi aka awiei ma no daa.
 
-## Matching music to the moment
+## Nnwom a ɛfata bere no
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association kyerɛ sɛ wobetumi de nnwom ahyehyɛ ahoɔden a wopɛ: nnwom a ɛyɛ dwo ma asomdwoe, ne nnwom a ɛyɛ anigye a efi ne mmere mu de ma ne ho bɔ nkwa.
 
-| Moment | Try | Tip |
+| Bere | Sɛ wobɛyɛ | Afotu |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Sɛ ɔrewɔ mu | Nnwom a ɛyɛ mmerɛw ne anigye | Nnwom koro a ɛbɛba anɔpa no yɛ asɛm a ɛyɛ mmerɛw |
+| Adwuma a wɔreyɛ fie | Nnwom a ɛyɛ anigye | Nnwom betumi ama adwuma ayɛ sɛ ɔyɛ nkɔm |
+| Aduane | Nnwom a ɛyɛ dwo, a wɔnnyɛ nnwom no | Ma ɛnyɛ mmerɛ sɛ ɛbɛyɛ kɔ kɔ ɔduane no ho |
+| Anwummere a ɛreba | Nnwom a ɛyɛ dwo, a ɔnim | Hwɛ [ahohuru anwummere](/caregiving/late-day-restlessness/) |
+| Hɔ a wɔda | Nnwom a ɛyɛ dwo ne a ɛyɛ mmerɛw | Ma nnwom no ne hann nna nsɛ bɔ ase |
+| Awiei stage | Nnwom a ɔdɔ paa, a ɛyɛ dwo koraa | Tena ne nkyɛn na kura ne nsa |
 
-## Tips for a good experience
+## Afotu ma ɔkwan a ɛyɛ yiye
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Yi nnwom foforo a ɛnam so.** Alzheimer's Association kyerɛ sɛ wobɛtwe mmuruw ne ɔpon no, na wɔbɛtwe TV no hɔ, na nnwom no nko ara ne nnwom a ɛte so.
+- **Gye nnwom no to so sɛ ɛnyɛ den.** Nnwom no kɔ so sɛ ɛnyɛ den, sɛ ɛbɛyɛ yie. Sɛ ɔnipa no tie ntiasoɔ a, hwɛ sɛ ɛreyɛ adwuma yie anaa wɔaboaboa; hwɛ [ntie](/brain-health/hearing/).
+- **Hwɛ nnwom a ɛma ɔnipa yi awerɛ.** Nnwom bi betumi ama awerɛhyem, ɔko, anaa awu ba. Sɛ nnwom bi ma ɔnipa no ho hyɛ no a, fa ne ho ahome, na sesa nnwom no.
+- **Ma ɔnipa no nnyina ananmu.** Sɛ ɛbɛyɛ a, ma ɔnipa no ara ne nnwom paw, na gye ne "daabi" no.
+- **Gyae bere biara.** Nnwom nkyɛn nkyɛn bere a ɛnyɛ mmerɛw ne adwuma a ɛyɛ yiye. Yiyi nnwom no na tena ase kɔsi nkwa bere mu na nso yɛ adwuma a ɛyɛ yiye.
 
-## What does the research say about music and dementia?
+## Nhwehwɛmu no ka dɛn fa nnwom ne dementia ho?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Nhwehwɛmu no kakra. [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) hwehwɛe nhwehwɛmu 30 fa nnwom nhyehyɛe a wɔhyehyɛ ho, a ɛka sɛ ɛdɔɔso wɔ nkurɔfo a wɔte nkɔfa mu wɔ asɛnkyerɛ ahyehyɛde mu. Ɛhyɛɛ nsɛm a ɛkyerɛ sɛ nhyehyɛe no bɛboa kakra ma awerɛhyem a ɛnyɛ den sɛ ɛnyɛ nea wɔyɛ daa; nanso ɛnhyɛ nsɛm a ɛkyerɛ sɛ ɛboa ma ahohuru, ahoɔden anaa nteaseɛ ne nkaeɛ ho, na ɛnsi nso sɛ nea ɛboa no tenaa ase bere a nhyehyɛe no awie.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Yɛgye nnwom to so ɛfiri sɛ ɛyɛ ɔkwan a ɛyɛ anigye, a ɛnyɛ den, de tena ne nkyɛn; ɛnyɛ sɛ ɛyɛ ayaresa. Ma nkurɔfo a wɔnnyina ahomegyedi, hwɛ [adwuma a wɔyɛ wɔ nkurɔfo ho wɔ ayaresabea](/activities/care-home-groups/); ma nnwom ne nsɛmpa ne mfonin a wɔka ho, hwɛ [nkaeɛ adwuma](/activities/reminiscence/).

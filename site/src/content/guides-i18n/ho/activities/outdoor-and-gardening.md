@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Gaden bona Natu Gaudia Dementia Tauhanidia Edia"
+seoTitle: "Gaden bona Natu Gaudia Dementia Edia"
+description: "Gaden bona natu gaudia lalohadai dementia tauhanidia edia, dala namodia, haumanu herevadia, bona dia mataurai daladia."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Gaden gaukara bona natu ai noho gauna be dementia tau ta mai haheauka
+  gaudia diba. Ranu henia, au helai gado ai hadododia, aurore haginia, au
+  hui lalona abia, eiava gaden koukouna ai raka maragina karaia. Gado
+  latana ai hadae eiava pata ai gado karaia, unu tau turia noho diba.
+  Kahirakahira gaudia bona au gaga karadia nahuadia. Dina hadikana ai
+  raka lao, ranu bona kerukeru henia, bona tau ia naria noho hanaihanai.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Gaden gaukara maragidia, ranu henia, au helai gado ai hadododia, aurore haginia, bona au abia gauna, be turia eiava helai ai karaia diba."
+  - "Gado latana, konteinadia, bona pata kerukuruna ai gaden gauna be kwana latana ai hadae, bona keto dalana haimaragina."
+  - "Kahirakahira gaudia, gini karadia eiava kopi hahedinaraia au karadia, bona aniani bamona gaga karadia nahuadia. Tano be aniani bamona laloa lasi totona naria."
+  - "Dina siahu be tau badadia edia haheauka diba. Dina hadikana ai raka lao, ranu bona kerukeru henia, bona haheauka karana do oi itaia neganai ruma ai vareai."
+  - "Dementia tauhanidia momo be nega haida ai raka heau. Natu ai neganai tau ia naria noho, bona tau ia ena ladana, noho gabuna, bona oi emu phone namba ia abia noho."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Dementia tau ta be gaden ai dahaka gaudia karaia diba?"
+    a: "Ranu henia, au helai maragidia gado ai hadododia, aurore haginia bona dadadia, au hui lalona abia, aniani abia, au haginia, bona dala seia gauna be namo. Ruma lalonai, windo badinai aurore gado eiava pata kerukuruna ai tano karaia diba. Tau ia guna moale henia gaudia bona harihari ia karaia diba gaudia abia hidi."
+  - q: "Edena lau dementia tau ta dina siahu ai naria namonamo?"
+    a: "Dabala eiava adorahi dina hadikana ai raka lao, nega maragina noho, bona ranu henia nega momo. Kerukeru, kwara badana, dabua maragina, bona sunscreen gaukaralaia. Tau badadia be dina siahu hahedinaraia diba, bona kwarana auka, mata giro, eiava boka auka be toana diba. Unai gaudia do oi itaia neganai, ruma ai vareai bona tau ia hahadikana."
+  - q: "Edena ai natu ai raka lao, bema ia raka heau?"
+    a: "Nega ibounai tau ia ida noho, gaden koukouna ai ikou gauna gaukaralaia, bona tau ia ena ladana, noho gabuna, bona oi emu phone namba ia abia noho totona ID bracelet eiava ID ia abia. Tau ia ena laulau matamata ia abia noho. Bema tau ia do ia boio, Alzheimer's Association ese e gwaumu, bema minute 15 lalonai do ia davaria lasi, 111 boiria."
+  - q: "Bema ai eda gaden lasi?"
+    a: "Varanda ai gado toi, windo gado, eiava aniani pata ai aurore gado be namo. Park, public gaden, eiava community gaden ai raka lao diba. Natu ai helai bona manu ena regena kamonai gauna danu be natu gaudia ta."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Tau momo edia, gaden be idia diba namonamo gabuna ta. Tano geia, ranu henia, bona au abia gaudia be guna idia diba aonega gaudia, bona natu ai noho gauna ese lai namona, dina diarina, bona manu ena regena e mailaia. National Institute on Aging ese e gwaumu, au naria, au bona aniani hadododia, bona [au edia tubu herevalaia](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gaudia be Alzheimer's tauhanidia haida edia moale gaudia. Inai pesi ai, dahaka gaudia karaia, edena gaden haheauka, bona dina siahu, dina diari, bona raka heau amo edena ai naria noho, ai herevalaia.
 
-## What outdoor and gardening activities work well?
+## Dahaka natu bona gaden gaudia be namo?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Gaudia namodia be maragidia, diba gaudia, bona turia eiava helai ai karaia diba. Tau ia guna moale henia gaudia abia hidi.
 
-### In the garden
+### Gaden lalonai
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Ranu henia.** Ranu gado maragina eiava hose maragina gaukaralaia, gado haida badinai. Ranu henia gauna ena matama bona dokona be maoromaoro, bona kerere lasi.
+2. **Au helai gado ai hadododia.** Alzheimer's Foundation of America ese e gwaumu, au helai maragidia gado ai hadodo bona [idia edia tubu itaia](https://alzfdn.org/dementia-activity-gardening/). Au helai badadia, bamona bean, sunflower, eiava pea, be imana ai abia namonamo.
+3. **Au hui lalona abia.** Au hui mase na abia lasi gauna be maragina bona hahani gauna. Gini lasi au karadia abia hidi.
+4. **Aniani eiava aurore abia.** Cherry tomato, bean, bona aurore be abia namonamo bona aniani namo. Ruma ai mailaia aniani ai gaukaralaia.
+5. **Aurore haginia bona dadadia.** Rosemary, mint, bona lavender edia bonana be goada bona namo. Rau ta imana ai haginia bona tau ia dekenai henia.
+6. **Dala eiava patio seia.** Broom maragina, tano maragina bona kaukau ai gaukaralaia, bema tau ia ena gini be namo.
+7. **Manu edia aniani gado hahonua.** Bena helai bona manu idia mai gauna itaia.
 
-### Indoors, when going out is not possible
+### Ruma lalonai, bema natu ai lao lasi
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Windo badinai aurore gado**, basil, parsley, eiava chives.
+- **Pata kerukuruna ai gado karaia.** AFA ese e gwaumu, cafeteria tray gaukaralaia tano abia noho totona, bona kapu maragidia ai tano abia lao.
+- **Au haginia**, gaden eiava store amo au abia gauna.
+- **Au kaukau haidodia**, gabe ai kad ai hadododia. [Arts and crafts](/activities/arts-and-crafts/) ai hereva ma haida itaia.
+- **Lavender eiava rose sachet karaia**, AFA ena lalohaia ta, gaden bonana ruma ai abia vareai.
 
-### Getting out and about
+### Lasi gabudia ai lao
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Raka maragina** dala, park, eiava gaden store ai, maragina raka bona helai gabuna itaia.
+- **Varanda eiava helai gabuna ai helai**, manu regena kamonai bona lai itaia. Inai be gaudia ta.
+- **Public gaden ai vadivadi**, dina ai tau momo lasi neganai. NHS ese e gwaumu, gabu haida ai sensory garden idia noho, au bonana, dadadia, bona ranu idia noho.
+- **Duck ania eiava manu itaia** ranu badinai, ranu isena amo daudau noho.
 
-## How do I make a garden easier to use?
+## Edena lau gaden haheauka?
 
-Bring the garden up to the person, not the other way around.
+Gaden tau ia dekenai mailaia, tau ia gaden dekenai lasi.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Gado latana eiava gado daudau** kwana latana ai, unu turia eiava gumi lasi.
+- **Pata ai konteinadia** be wheelchair gaukaralaia taudia eiava helai moale taudia edia namo.
+- **Dala badadia bona maragidia**, nadi maragidia eiava hose dala ai lasi, keto haimaragina.
+- **Helai gauna imana gaukaralaia bona kerukeru** dala ai, maloro karaia diba.
+- **Gaukara gaudia imana namonamo** abia diba. Pruner, kaia, bona kahirakahira gaudia gaukaralaia lasi.
+- **Gaden koukouna ikou gauna ida**, tau ia raka namonamo diba, oi dekenai noho neganai.
 
-## Which plants should I avoid?
+## Dahaka au karadia ai nahuadia?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Dadadia namodia bona aniani karana lasi au karadia abia hidi. AFA ese e gwaumu, kopi hahedinaraia lasi au karadia abia, allergy naria, bona tau haida tano be aniani bamona laloa lasi totona naria. NIA ena ruma haumanu herevadia ai, au gaga karadia abia lasi eiava koua.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Gini karadia rose, cactus, bona kopi hahedinaraia au karadia nahuadia.
+- Diba lasi au karadia dekenai, poison control center eiava local gaden store henia henanadai, gado ai hadodo lasi neganai.
+- Guna diba au karadia ese moale lalohaia mailaia diba. AFA ese rose bona Christmas cactus e gwauraia. Gini lasi abia hidi.
+- Fertilizer, pesticide, bona weed killer gaudia koua, bona tau ia abia diba gabudia ai gaukaralaia lasi.
 
-## How do I stay safe in the heat and sun?
+## Edena ai dina siahu bona dina diari ai naria noho?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Natu negana dina herevana itaia. NIA ese e gwaumu, tau badadia be [dina siahu hahedinaraia](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) diba bada, badina tauanidia be siahu ibounai haheauka lasi, bona muramura haida ese tauanidia ena siahu naria gauna e haidaua.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Dabala eiava adorahi ai raka lao.** Dina huanai dina siahu neganai nahuadia. Heat index itaia, dina siahu sibona lasi.
+- **Ranu henia nega momo.** Tau ia e gwaumu lasi neganai danu ranu henia. Dina siahu neganai alcohol bona caffeine inua lasi.
+- **Dabua namodia.** Dabua maragina bona roana maragina, kwara badana, bona mata naria gauna.
+- **Sunscreen gaukaralaia.** NIA ese e gwaumu, broad-spectrum SPF 15 eiava bada, dina lalonai lou henia.
+- **Kerukeru abia hidi.** Gado gaukara pata au kerukuruna eiava umbrella henunai atoa.
+- **Nega maragina noho.** Dina siahu neganai, natu ai nega maragina be namo.
+- **Toana itaia.** NIA ese e gwaumu, kwara hisihisi, kwarana auka, mata giro, eiava boka auka be dina siahu hahedinaraia toana diba. Dementia tau ta be ia haheauka lasi hereva lasi diba, unai dainai ia ena vairana bona kara itaia. Ruma ai vareai, ranu bona dabua hadikana ai hahadikana, bona bema ia namo lasi haraga, muramura taudia edia heduru abia. Heat stroke, bamona keto, kwarana auka, eiava kopi kaukau bona kakakaka, be haraga gauna: 111 boiria.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Keruma danu be gau badana. Keruma neganai, natu ai nega maragina noho, bona imana aena haheauka bona kaukau noho totona naria.
 
-## How do I handle wandering when we go outside?
+## Edena ai natu ai lao neganai raka heau naria?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Natu ai neganai, nega ibounai tau ia ida noho. Alzheimer's Association ese e gwaumu, [dementia tauhanidia 10 amo 6](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) be nega ta ai raka heau, bona momo be nega momo ai karaia. Inai be nega ibounai ai vara diba.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA ena [raka heau bona boio dainai herevadia](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) ai:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Tau ia ena ladana, noho gabuna, bona oi emu phone namba ia abia noho totona ID eiava medical bracelet ia abia, eiava ia ena dabua ai torea.
+- Tau ia ena laulau matamata eiava video abia noho.
+- Dekedia taudia hamaorodia, tau ia raka heau diba.
+- Gaden koukouna bona ikou gauna koua.
+- Raka heau diba tau ta sibona noho lasi.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association ese e gwaumu danu, ruma lalonai bona natu ai raka namonamo gabudia karaia, bona raka heau goada negadia ai gaudia hahegeregerea. Gaden koukouna ai raka maragina be adorahi ai heau lasi noho dalana ta. [Adorahi ai heau lasi noho](/caregiving/late-day-restlessness/) ena pesi itaia.
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Bema tau ia boio, Alzheimer's Association ese e gwaumu, kahirakahira gabudia ai tahua haraga, bona bema minute 15 lalonai ia davaria lasi, 111 boiria. Police hamaorodia, tau ia be dementia ia abia.
 
-## How do I adapt gardening as things change?
+## Edena lau gaden gaukara haidaua negadia idia haidau neganai?
 
-| If this has become hard | Try this instead |
+| Bema inai be auka | Inai karaia toho |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Gado badana ta hadodo | Au helai ta, gado ta ai hadodo |
+| Au gaga abia (au namo bona gaga diba) | Ranu henia, eiava au hui lalona abia |
+| Gaden lalonai raka | Pata badinai helai, tano tray bona au ida |
+| Natu ai lao | Ruma lalonai aurore gado, eiava windo paipaina badinai helai |
+| Gaukara ta karaia | Natu ai helai hebou, kamonai bona itaia |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Tau haida be oi emu gaukara itaia sibona idia moale. NIA ese e gwaumu, tau ia itaia sibona noho diba, bema unai ia moale.
 
-## When should we head inside?
+## Edana nega ai ruma ai vareai?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Bema tau ia hegeregere, siahu, keruma, haheauka lasi, eiava dokona moale, ruma ai vareai. Nega maragina namona be dina daudau dokona haheauka lasi amo herea. Dokona guna be namo.
 
-## Bring the garden indoors on screen
+## Gaden ruma ai abia vareai, screen ai
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Medu dinadia ai, [Sort Together](/games/sort-together/) ai gaden basket ia noho laulau haginia totona, bona [Conversation Cards](/games/conversation-cards/) ai gaden sivarai henanadai diba herevadia idia noho. Bema dina siahu amo oi vareai bona oi heau, [Calm Breathing](/games/calm-breathing/) ese maloro maragina bona noho namona e henia. Dadadia, bonana, bona regena ai gaudia ma haida totona, ai emai [sensory activities guide](/activities/sensory/) itaia.

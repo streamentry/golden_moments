@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Йоҡо һәм мейе: тикшеренеүҙәр нимә күрһәтә"
+seoTitle: "Йоҡо һәм деменция: тикшеренеүҙәр нимә күрһәтә"
+description: "Тикшеренеүҙәр йоҡо һәм деменция хәүефе тураһында нимә күрһәтә, мейене «таҙартыу» тураһындағы тикшеренеүҙәр әле башланғыс, һәм практик йоҡо кәңәштәре."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Кайһы бер оҙаҡ мөддәтле тикшеренеүҙәр урта йәштә ҡыска йоҡоны деменция хәүефе менән бәйләй, ә лаборатория
+  тикшеренеүҙәре йоҡоның мейегә ҡалдыҡтарҙы сығарырға ярҙам итеүе мөмкинлеген күрһәтә. Был дәлилдәр әле
+  башланғыс, һәм 2024 йылғы Lancet комиссияһы йоҡоны үҙгәртелә торған хәүеф факторы итеп атамаған. Тотороҡло
+  йоҡо ғәҙәттәре көндәлек кәйефкә һәм иҫ-аңға ярҙам итә. Деменцияла йоҡо проблемалары йышыраҡ осрай һәм уларҙы
+  табибҡа әйтергә кәрәк.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Бөйөк Британияла 25 йыл дауамында якынса 8 000 кешене күҙәткән тикшеренеү урта йәштә алты сәғәт йәки аҙыраҡ йоҡоны деменция хәүефенең юғарырағы менән бәйләне."
+  - "Йоҡо үҙгәрештәре деменцияның алдан күренгән билдәһе лә булырға мөмкин, шуға күрә сәбәпте һөҙөмтәнән айырыу ауыр."
+  - "Йоҡоның мейҙән бета-амилоидты сығарыуы тураһындағы тикшеренеүҙәр ысын, әммә әле башланғыс, күберәге тычҡандарҙа үткәрелгән."
+  - "Йоҡоланғанда тын алыуҙың туҡтауы (апноэ) йышыраҡ осрай, дауаланырға мөмкин, һәм тикшеренеүҙәрҙә деменция менән бәйле булыуы күрһәтелгән; катты хыңлау һәм көндөҙ йоҡоһоҙлоҡ тикшерелергә тейеш."
+  - "Табип менән кәңәшләшмәй йоҡо дарыуын йәки йоҡо сараһын башламағыҙ, туҡтатмағыҙ йәки үҙгәртмәгеҙ."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Йоҡоһоҙлоҡ Альцгеймер ауырыуын тыуҙыра мы?"
+    a: "Был дәлилләнмәгән. Кайһы бер тикшеренеүҙәр ҡыска йоҡоны деменция хәүефенең юғарырағы менән бәйләй, ләкин деменцияның үҙе күп йылдар алда диагноз ҡуйылғанға тиклем йоҡоға йоғонто яһай. 2024 йылғы Lancet комиссияһы дәлилдәрҙе үҙгәртелә торған хәүеф факторы булырлыҡ дәрәжәлә тотороҡло түгел тип баһаланы."
+  - q: "Өлкән кешеләргә күпме йоҡо кәрәк?"
+    a: "Картайыу буйынса милли институт (NIA) әйтеүенсә, өлкәндәргә башҡа кешеләр кеүек үк — төнәһенә 7-дән 9 сәғәткә тиклем кәрәк. Күп өлкән кешеләр элеккегә ҡарағанда иртәрәк ятып, иртәрәк тора, был йышлы осрай."
+  - q: "Нимә өсөн деменциялы кеше көндөҙ йоҡлай, ә төндә уяна?"
+    a: "Деменция эске сәғәт (тән ритмы) эшен бозорға мөмкин, шуға күрә йоҡлау һәм уяныу ваҡыттары ҡатыша. Ауыртыу, һуҡлыҡ, аслыҡ йәки дарыу яҡ тәьсирҙәре лә роль уйнарға мөмкин. Яҡтылыҡ, көндәлек эшмәкәрлек һәм тыныс кискеге тәртип ярҙам итергә мөмкин. Табип дауаланырға мөмкин булған сәбәптәрҙе эҙләй ала."
+  - q: "Ҡарағанығыз кешегә йоҡо сараһы бирергәме?"
+    a: "Тәүге сиратта уның табибы менән һөйләшегеҙ, шул исәптән табипһыҙ һатыла торған препараттар хаҡында ла. Картайыу буйынса милли институт әйтеүенсә, кайһы бер йоҡо дарыуҙары Альцгеймер ауырыуы булған кешеләрҙә баш әйләнеү, ҡолау һәм аң ҡарышлығы хәүефен арттырырға мөмкин."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Йоҡо һәм мейе сәләмәтлеге бер-береһе менән асыҡ бәйле, ләкин уларҙың нисек бәйләнгәне әле өйрәнелә. Кайһы бер тикшеренеүҙәр ҡыска йоҡоны деменция хәүефенең юғарырағы менән бәйләй. Деменция үҙе, үҙ сиратында, йышлы ғына йоҡоға йоғонто яһай. Был бүлектә тикшеренеүҙәр нимә күрһәтә һәм нимә күрһәтмәй, практик йоҡо ғәҙәттәре, һәм деменцияла йышыраҡ осраусы йоҡо проблемалары тураһында әйтелә. Бында йоҡо дарыуҙары тураһында кәңәш бирелмәй; ул һөйләшеү табип менән булырға тейеш.
 
-## Is poor sleep linked with dementia?
+## Ауыр йоҡо деменция менән бәйлеме?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Кайһы бер оҙаҡ мөддәтле тикшеренеүҙәр ҡыска йоҡоны деменция хәүефенең юғарырағы менән бәйләй, ләкин дәлилдәр әле асыҡлана.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **25 йыллыҡ Бөйөк Британия тикшеренеүе.** Тикшерелеүселәр [Whitehall II тикшеренеүе](https://www.nature.com/articles/s41467-021-22354-2) эсендә якынса 8 000 өлкән кешене күҙәткән. 50 йәки 60 йәштә алты сәғәт йәки аҙыраҡ йоҡлаған кешеләрҙә, һуңыраҡ деменция хәүефе етеү сәғәт йоҡлаған кешеләргә ҡарағанда юғарыраҡ булған. 50, 60 һәм 70 йәштә алты сәғәт йәки аҙыраҡ йоҡлаған кешеләрҙә хәүеф даими рәүештә ете сәғәт йоҡлаған кешеләргә ҡарағанда якынса 30% юғарыраҡ булған. Был күҙәтеү тикшеренеүе булды, шуға күрә ул бәйләнешне күрһәтә, сәбәпте түгел.
+- **Lancet комиссияһының фекере.** [2024 йылғы Lancet комиссияһы](https://doi.org/10.1016/S0140-6736(24)01296-0) йоҡоны 14 үҙгәртелә торған хәүеф факторы исемлегенә индермәгән. Ул дәлилдәрҙе етерлек тотороҡло түгел тип баһаланы. Бер сәбәп — «кире сәбәп»: деменциянан мейе үҙгәрештәре диагноз ҡуйылғанға тиклем йылдар алда башлана һәм йоҡоны боҙа ала. Бер ҙур тикшеренеүҙә оҙон йоҡо менән деменция араһындағы бәйләнеш беренсе биш йыллыҡ күҙәтеү иҫәпкә алынмаһа юҡҡа сыҡҡан.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Шуға күрә бер төн ҡыска йоҡлау ҡурҡыу сәбәбе түгел. Тотороҡло, сифатлы йоҡо буласаҡҡа ынтылырға тейеш, сөнки ул хәҙер кәйефкә, иғтибарға һәм хәүефһеҙлеккә ярҙам итә.
 
-## What is the "brain-clearing" sleep research?
+## Мейене «таҙартҡан» йоҡо тураһындағы тикшеренеү нимә?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Йоҡо мейене «таҙарта» тигәнде ишеткән булырһығыҙ. Был фекер ысын тикшеренеүгә нигеҙләнгән, ләкин ул әле башланғыс.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Тычҡандарҙа.** [Милли һаулыҡ институттары (NIH)](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) һөйләгән 2013 йыл тикшеренеүе тычҡандар йоҡлағанда мейе күҙәнәктәре араһындағы арауыҡ якынса 60%-ҡа артҡанын тапҡан. Һыйыҡлыҡ мейе аша еңелерәк аға, ғалимдар «глимфатик система» тип атаған юл буйлап. Альцгеймер ауырыуы менән бәйле бета-амилоид йоҡлаған тычҡандарҙың мейеһенән тиҙерәк сығарылған.
+- **Кешеләрҙә.** [2018 йыл кесерәк тикшеренеүе](https://www.pnas.org/doi/10.1073/pnas.1721694115) 22-дән 72 йәшкә тиклемге 20 һаулыҡлы кешене тикшергән: бер нормаль төндән һәм бер йокоһоҙ төндән һуң. Йокоһоҙ төндән һуң, хиппокампусты (хәтер өсөн мөһим өлөшө) үҙ эсенә алған өлкәлә бета-амилоидтың сигналы якынса 5%-ҡа артҡан. Авторҙар был алдан дәлилдәр тип атаған. Улар ял иткәндән һуң был үҙгәреш үтеп китеүен, йәки ул һөҙөмтә әкрен сығарыуҙан, йәки күберәк амилоид барлыҡҡа килеүҙән булыуын белмәгән.
+- **Был ике яҡлы.** Lancet комиссияһы билдәләүенсә, амилоид туплану өлкәндәрҙә йоҡоға үҙе лә йоғонто яһай ала.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Был табыштар ғалимдарҙың йоҡоға ни өсөн ҡыҙыҡһыныуын аңлатырға ярҙам итә. Ләкин улар яҡшыраҡ йоҡо Альцгеймерҙы алдан ҡамасауламай тигәнде күрһәтмәй.
 
-## What sleep habits may help?
+## Нинди йоҡо ғәҙәттәре ярҙам итергә мөмкин?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Картайыу буйынса милли институт (NIA) [һүҙҙәре буйынса](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) өлкәндәргә башҡа кешеләр кеүек үк — төнәһенә якынса 7-дән 9 сәғәткә тиклем йоҡо кәрәк. Уның кәңәштәре:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Даими режим тотоғоҙ.** Көн һайын бер үк ваҡытта ятығыҙ һәм торғоҙ, ял көндәрендә лә.
+- **Тыныслана торған кискеге тәртип төҙөгөҙ.** Ятҡансы уҡығыҙ, йырҙар тыңлағыҙ йәки йылы ванна ҡабул итегеҙ.
+- **Йоҡлау бүлмәһен еңел итегеҙ,** ни артыҡ йылы, ни артыҡ һалҡын булмаһын.
+- **Көн аҙағында кофеин аҙайтығыҙ.** Кофе, сәй, газлы эсемлек һәм шоколад йоҡоно ҡасырырға мөмкин.
+- **Алкогольдән тартынығыҙ,** хатта аҙ күләмдә лә, NIA кәңәш итә.
+- **Ятыр алдынан ике-өс сәғәт эсендә ҙур аш ашамағыҙ,** һәм көн аҙағында ҙур эсемлектәр эсмәгеҙ.
+- **Даими спорт менән шөғөлләнегеҙ, әммә ятырға 3 сәғәт алдан түгел.** Ҡарағыҙ: беҙҙең [физик шөғөл буйынса ҡулланма](/brain-health/exercise/).
+- **Экрандарҙы йоҡлау бүлмәһенән алып сығығыҙ.** NIA тәҡдим итә: унда телевизор ҡарамағыҙ һәм компьютер, телефон йәки планшет ҡулланмағыҙ.
+- **Мөмкин булһа, кискә йәки кисен торошло йоҡлауҙан тартынығыҙ.**
 
-## Sleep problems in dementia
+## Деменцияла йоҡо проблемалары
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Деменцияла йоҡо үҙгәрештәре йышлы осрай. [NIA](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) һанай: бик күп йә бик аҙ йоҡлау, төндә күп тапҡыр уяныу, һәм көндөҙ күп йоҡлау. Ул шулай уҡ кискә ҡаршы ауырлашыуҙы (sundowning) һүрәтләй: көн яҡтылығы һүнгәндә башланған йәки ауырлашҡан ауырлыҡ, тын алмаҫлыҡ хәле йәки аң ҡарышлығы.
 
-Caregiver tips from the NIA include:
+NIA-нан ҡарау биреүселәргә кәңәштәр:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Иртән яҡтылыҡ һәм хәрәкәт алығыҙ.** Көндөҙ тышҡа сығығыҙ йәки тәҙрә янында ултырығыҙ, һәм кешенең һәр көн хәрәкәтләнеүенә ярҙам итегеҙ. Көслө яҡтылыҡ тән сәғәтен көйләргә ярҙам итергә мөмкин.
+2. **Энергияны талап иткән эштәрҙе иртәгә планлаштырығыҙ.** Мәҫәлән, иртән юынырға йәки иң ҙур ашты көндөҙ ашарға.
+3. **Ял итеүҙәрҙе ҡыса һәм иртә ҡылығыҙ.** Көн аҙағында йоҡлауҙы сикләгеҙ.
+4. **Кискеге ваҡытты тыныс итегеҙ.** Яҡтылыҡты һүндерегеҙ, шауҡымды кәмәйтегеҙ, кеше яратһа, тыныслана торған моң ҡуйығыҙ. Беҙҙең [кискеге ауырлыҡ буйынса ҡулланма](/caregiving/late-day-restlessness/) күберәк фекерҙәр бирә.
+5. **Тотороҡло ятыр алдынан тәртип төҙөгөҙ.** NIA миҫалы: һәр кис бер үк ваҡытта һүҙҙе ҡысҡырып уҡыу. Шулай уҡ [тотороҡло көндәлек режим](/activities/daily-routine/) ярҙам итә.
+6. **Кофеинды һәм алкогольде сикләгеҙ.**
+7. **Йоҡлау бүлмәһендә, коридорҙа һәм ванна бүлмәһендә төндәге яҡтылыҡтарҙы ҡулланығыҙ.**
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Төндә уяныу өсөн NIA-ның [өйҙә хәүефһеҙлек кәңәштәре](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) төндәге яҡтылыҡтарҙы йәки автомат яҡтылыҡ датчиктарын, ванна бүлмәһендә тотоночтарҙы, баҫҡыстарҙың ситтәренә ҡаты төҫлө таҫма ябыштырыуҙы һәм дарыуҙарҙы ябыҡ урында һаҡлауҙы тәҡдим итә.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Кискеге ҡыҫҡа, тыныс шөғөл икегеҙгә лә тыныслана төшөргә ярҙам итә ала. Бер нисә тыныс [Тыныс тын алыу](/games/calm-breathing/) ял итеүе йәки бер нисә рәхәт [Һөйләшеү карточкалары](/games/conversation-cards/) менән башлағыҙ. Ятыр алдынан тетеүсе нәмәләрҙән тартынығыҙ, һәм кеше арыһа, туҡтағыҙ.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Өҙөлгән йоҡо ҡарау биреүселәрҙе лә арытырға мөмкин. Беҙҙең [үҙ-үҙеңде ҡарау буйынса ҡулланма](/caregiving/caregiver-self-care/) ял итеү һәм ярҙам алыу юлдарын аңлата.
 
-## What about sleep apnea?
+## Йоҡо апноэһы тураһында нимә?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Йоҡо апноэһы йоҡлағанда тын алыуҙың ҡыҫҡа туҡтауҙарын барлыҡҡа килтерә, күп тапҡыр төнәһенә. NIA әйтеүенсә, дауаланмаһа, ул юғары ҡан баҫымы, инсульт йәки хәтер юғалтыу кеүек проблемаларға килтерергә мөмкин. Билдәләре: катты хыңлау һәм көндөҙ йоҡоһоҙлоҡ, һәм күп кеше уның бар икәнен белмәй. Lancet комиссияһы 11 тикшеренеү буйынса күҙәтеүен килтерә: апноэлы кешеләрҙә деменция хәүефе якынса 43%-ҡа юғарыраҡ булған. Әммә был тикшеренеүҙәрҙең аҙағы ғына ауырлыҡты иҫәпкә алған, шуға бәйләнеш билдәһеҙ.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Йоҡо апноэһын диагноз ҡуйырға һәм дауаларға мөмкин. NIA билдәләүенсә, CPAP аппараты (тын алыу аппараты) һәрвақыт ярҙам итә. Әгәр һеҙ йәки ҡарағанығыз кеше катты хыңлаһа, йоҡлағанда тын алыуын туҡтатһа, йәки көндөҙ бик йоҡоһоҙ булһа, табибҡа әйтегеҙ.
 
-## A note about sleep medicines
+## Йоҡо дарыуҙары тураһында иҫкәртеү
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Без йоҡо дарыуҙары йәки өҫтәмә препараттар буйынса кәңәш бирмәйбеҙ. NIA билдәләүенсә, йоҡо дарыуҙары ҡыҫҡа мөддәткә ярҙам итергә мөмкин, ләкин йоҡоһоҙлоҡту дауаламай. Шулай уҡ, Альцгеймер ауырыуы булған кешеләрҙең йоҡлауына ярҙам итер өсөн бирелгән кайһы бер дарыуҙар баш әйләнеү, ҡолау һәм аң ҡарышлығы хәүефен арттырырға мөмкин. Табипһыҙ һәм фармацевтһыҙ, шул исәптән табипһыҙ һатыла торған йоҡо сараларын башламағыҙ, туҡтатмағыҙ йәки үҙгәртмәгеҙ.
 
-## Talk with a doctor
+## Табип менән һөйләшегеҙ
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Һеҙ йәки ҡарағанығыз кеше даими арыған, күп кисәрҙә йоҡлай алмай, катты хыңлаһа, йә төндә тын алыуы туҡтаһа, табибҡа күренегеҙ. Деменцияла йоҡо проблемалары дауам итһә, [NIA кәңәш бирә](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning): медицина кәңәше эҙләгеҙ. Тикшереү ауыртыу, башҡа йоҡо боҙолоуы, сирҙәр йәки дарыу яҡ тәьсире кеүек сәбәптәрҙе асыҡлай ала. Кинәт аң ҡарышлығы, йәки аң ҡарышлығы менән бергә кинәт йоҡо үҙгәреше — шашлыҡ дауаланыу кәрәк. Ҡасан табибҡа барырға кәрәк икәнен [был биттә](/brain-health/warning-signs/) уҡығыҙ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Был бит — дөйөм мәғлүмәт, медицина кәңәше түгел. Беҙҙең [медицина иҫкәртеүен](/medical-disclaimer/) ҡарағыҙ.

@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Golle e fijirde ngam yimɓe ɓe ngonata e nyaw Alzheimer"
+seoTitle: "Golle e fijirde Alzheimer: miijooji e tolnooji"
+description: "Golle e fijirde ngam yimɓe ɓe ngonata e nyaw Alzheimer e kala tolno, tuugniiɗe e gandal e teskagol duumiingol, e fijirde dokkal ngam fijeede e wondude."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Golle moƴƴe ngam neɗɗo gonɗo e nyaw Alzheimer tuugii ko e ko heddii ɓurɗo
+  duumaade: gandal huutoraangal gila ɓooyii, jimɗi kiiɗɗi, golle galle
+  anndaaɗe e meeɗe e ɓandu. E fuɗɗoode, karte, fijirde taabal, defugol
+  nyaamdu e yillaaji ena mbaawi waɗaade haa jooni. E tolno hakkunde, eto
+  taggugol, cuɓagol, yimde, defte nate e fijirde nate weeɓe. E tolno sakkitiingo
+  nyawu nguu, jimɗi, meemugol e wondude ko ɓuri himmude. Rew e no neɗɗo oo
+  woniri hannde.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Nyaw Alzheimer ko oon ɓurngo heewde saabude majjere hakkil, ɗum noon miijooji golle majjere hakkil ena njaɓa e makko kadi."
+  - "Humpito keso ena ɓuri saataade tawo, kono gandal e jimɗi ekkitaaɗi gila ɓooyii ena keewi heddude seeɗa. Tuugor heen."
+  - "Tolnooji ena ndentondira, ñalaaɗe moƴƴe e ñalaaɗe saɗtuɗe ena keewi. Suɓo fawaade e ko neɗɗo oo waawi waɗde walla welwinde hannde."
+  - "Suɓo fijirde nde alaa waktirde, limtorgal walla ƴeewndo, tee accu nate ɗee ina njiyee."
+  - "Ndarnde, jogagol huunde walla jooɗaade tan e wondude fof ena jogoree no jeyeede e golle."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Hol golle moƴƴata ngam neɗɗo gonɗo e nyaw Alzheimer?"
+    a: "Golle anndaaɗe waɗtaaɗe no weeɓiri seeɗa: taggugol conci, waɗtude taabal, defude nyaamdu e wondude, jimɗi e yimde, ndaarde nate, yahdu, remru galle e waktu e colli. Fijirde nate weeɓe, taƴe nate newiiɗe e karte yeewtere ena moƴƴana kadi yimɓe heewɓe. Suɓo ko neɗɗo oo welanno gila ɓooyii, waɗir ɗum e makko."
+  - q: "Fijirde ena moƴƴana yimɓe ɓe ngonata e nyaw Alzheimer?"
+    a: "Fijirde ena waawi wonde feere welnde ngam wuurduude waktu e wondude so neɗɗo oo welaama heen. Hay fijirde wootere holliraaka nde safrata, nde neƴƴinata, nde haɗata walla nde dartinata nyaw Alzheimer, ɗum noon suɓo fijirde ngam weltaare: nate mawɗe, cuɓe seeɗa, tee alaa waktirde, limtorgal walla hitooji jaabawol bonngol."
+  - q: "Ena woodi seerndude hakkunde golle majjere hakkil e golle Alzheimer?"
+    a: "Heewi fof alaa. Nyaw Alzheimer ko oon ɓurngo heewde saabude majjere hakkil, tee miijooji golle gooti ena njaɓa heen. Ko nafatnoo faamde e Alzheimer ko wonde teskagol kesol keewi majjude tawo, ɗum noon golle tuugiiɗe e gandal, jimɗi e doosɗe ɓooyɗe ena keewi yahde no ɓuri weeɓirde."
+  - q: "Hol ko neɗɗo gonɗo e tolno sakkitiingo nyaw Alzheimer waawi welwinde haa jooni?"
+    a: "Jimɗi ɗi o yiɗi, meemde juuɗe e newaare, huunde leeɓnde nde o jogoo, taraneede, jooɗagol yaasnorde, e wondude e neɗɗo mo o hoolii. Wattu ɗum ko raɓɓiɗɗum e deeƴɗum, tee ƴeew yeeso makko e ɓandu makko ngam faamde ko o yiɗi."
+  - q: "Hol no mi waawata wallirde neɗɗo gonɗo e nyaw Alzheimer yoo hato e golle?"
+    a: "Ƴaamo ballal tawa a wowlaani wonde ko golle, feewnoraa fof ko adii, tee fuɗɗor ɗum aan hoore maa ngam o waawa naatde e maa. Suɓagol waktu ñalnde nde o ɓuri sellude ena addana bayle mawnde. So o salii, eto kadi so ɓooyii walla hokku mo yamre ɓurnde famɗude."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+So neɗɗo mo aɗa yiɗi ena wondi e nyaw Alzheimer, a heewii yiʼde wonde geɗe goɗɗe ena majja ko yaawi tawa goɗɗe ena keddoo. Ena waawi yejjitde noddaango weetaango kikiiɗe subaka, kono haa jooni ena waawi yimde kala kelme julirde, taggude serviiyet no o woowiri, walla senndude karte tawa miijaaki. Golle moƴƴe tuugii ko e ɗiin gandal duumiingal. Hello ngoo ena ƴeewta ko saabii ɗum, caggal ɗum hokku miijooji ngam kala tolno e fijirde dokkal wonɗe e lowre ndee ɗe njaɓata heen.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Nyaw Alzheimer ena seerndi e majjere hakkil so tawii ko golle?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Heewi fof alaa. Majjere hakkil ko innde kuuɓnde, tee nyaw Alzheimer ko oon ɓurngo heewde saabude nde: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) wiyi nde heewi wonde hakkunde 60 e 80 e teemedde e caabuuji majjere hakkil. Ko heewi winndaa ko faati e golle ngam majjere hakkil ena huutoree kadi e Alzheimer, kañum e [miijooji golle 101 amen](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Ko nafata faamde ko deggondiral bayle ngal. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) ena ƴeewta wonde nyaw Alzheimer fuɗɗotoo ko bonnande geɓe hakkille baɗɗe e teskagol, caggal ɗum o meeɗa ɗemngal, miijaade e jikku renndo. Alzheimer's Association wiyi maande fuɗɗorde ɓurnde heewde ko saɗtude teskitde humpito keso ekkitaango. Kala neɗɗo no seeri, yimɓe heewɓe ena mbaawi jogaade caabuuji jillondirɗi, kono ndee mbaydi ena walla anndude ko ɓuri gollaade.
 
-## What kinds of activities suit Alzheimer's best?
+## Hol fannu golle ɓurɗe jaɓde e nyaw Alzheimer?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Golle tuugiiɗe e gandal kiiɗngal, huutoraangal gila ɓooyii ena keewi yahde no ɓuri weeɓirde e ɗe naamnooɗe ko ekkitaama kesum walla ko teskaa e hakkille.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Gandal huutoraangal gila ɓooyii.** Alzheimer's Association ena teskii wonde neɗɗo ena waawi haa jooni fijde jimɗi weeɓi ɗi o ekkiti e piyanoo gila duuɓi. Hootde, tiiɗnude lekki, senndude karte, taƴde paate e taggude conci ena nanndi heen.
+- **Jimɗi kiiɗɗi e jimɗi anndaaɗi.** Yimɓe heewɓe ena nganndi haa jooni kala kelme jimɗi e sukaaku maɓɓe e jawle maɓɓe, julirɗe e jimɗi jomba maɓɓe. Yillo [golle jimɗi](/activities/music/).
+- **Golle ñalnde fof jogiiɗe nafa.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ena limta loowde laaɓe, waɗtude taabal, cuɓagol kaalisuuji e taggugol conci e golle ɗe yimɓe keewi welwinde. Hakkillaade nafa maa ena himmi.
+- **Annditde tawa wonaa teskitaade.** Fiɗtude natal jahdongal ena ɓuri weeɓde e innitde ngal e teskagol. Ko ɗum waɗi fijirde nate nde fof ina yiyee ɓuri moƴƴude e ƴeewndooji.
+- **Meeɗe e ɓandu.** Memmeere, uurngol, nguleeki, mettu e hito ena keddoo e nafa hay so kelme ngari saɗtude. Yillo [golle meeɗe e ɓandu](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Ko ɓuri saɗtude: kala huunde jogiinde waktirde, doosɗe kese ɗe ekkitee, laawol keewngol jokkondire ɗe teskaa, walla naamne ƴeewtooje teskagol, hono « Aɗa teskii moy woni ɗoo? » Ɗuum ena ɓada geɓal ɓurngal saɗtude e nyaw Alzheimer yeeso.
 
-## Activities for early-stage Alzheimer's
+## Golle ngam tolno fuɗɗoode nyaw Alzheimer
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+E tolno fuɗɗoode, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) wiyi neɗɗo ena waawi haa jooni dooraade, gollaade e jeyeede e golle renndo, tawa omo yiʼa majjugol teskagol, hono yejjitde kelme anndaaɗe walla nokkuuje geɗe. Feere ɓurnde moƴƴude ko gollodaade: naamno ko o yiɗi jokkude waɗde e hol ballal mo o yiɗi.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Jokkudee e weleeli gooduɗi.** Golf, bridge, hootde, fedde yimooɓe e fedde juulirde, e bayle famɗuɗe hono pelle pamare walla waktuuji deeƴɗi.
+2. **Fijee karte e fijirde taabal anndaaɗe.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ena limta naamne ganndal, ɗaɓɓitugol kelme, fijirde karte e fijirde taabal ngam tolno fuɗɗoode. Fijiree hono fedde gooto so limtugol ena fuɗɗii mettinɗe mo, walla accu limtugol fof.
+3. **Defee nyaamdu e wondude.** Accu mo yoo huutoro deftere nyeemtere nde o anndi e hakkille tawa aan aɗa toppitoo tarannde laawol ngol.
+4. **Fuɗɗee eɓɓoore daartol nguurndam.** Nate, defte nyeemtere e daartol e deftere nde o ardotoo. Yillo [golle teskitaade daartol](/activities/reminiscence/).
+5. **Ñallee yillaaji.** Nyaamdiroo suɓaaɗo e waktu deeƴɗo, yillaare raɓɓiɗnde e galle ndaarde, walla yahdu e parc.
+6. **Eto taƴe nate ɗe o suɓi.** Kelme mawɗe binndaaɗe, ɗaɓɓitugol kelme e taƴe nate. Yillo [taƴe nate ngam majjere hakkil](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Miijooji goɗɗi: [golle tolno fuɗɗoode](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Golle ngam tolno hakkunde nyaw Alzheimer
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association ena sifora tolno hakkunde no ɓurngo juutde, tee wiyi ena waawi juutde duuɓi keewɗi. Kelme ena njillondira, tikke ena araa ko yaawi, tee neɗɗo oo ena foti ballal ɓurngal heewde. Alzheimer's Foundation of America ena ɓeyda heen wonde yimɓe heewɓe ena cokli ballal ngam fuɗɗaade walla jokkude golle. Darnde maa ena waylaa faade e feewnugol geɗe, hollude tawa wonaa sifaade, e ƴettude geɓe ɓurɗe saɗtude.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Taggo, cuɓo, jahdin.** Serviiyet, kaalisuuji, feɗe curo, butoŋaaji noone. Ko golle goonga, waɗiraaɗe e wondude.
+2. **Yim e dilloo e jimɗi.** Fiyo juuɗe, dimmo walla wam e defirde. Fuɗɗo yimde aan hoore maa tee accu mo yoo naat e maa.
+3. **Ndar defte nate.** Sifor ko njiy-ɗaa tee noddu daartol: « Ndee moto no labaa. Haalan kam fii mayre. » Yahdu e inɗe kala ɗe o huutori.
+4. **Fij fijirde nate weeɓe.** [Picture pairs](/games/picture-pairs/) e tayle nay walla jeegom tee nate ɗee ina njiyee, walla [Find the same](/games/find-the-same/) e cuɓal ɗiɗi walla tati.
+5. **Timmin konngol anndaangal.** « Poomeere ñalnde kala ina woɗɗina... » Konguɗi ekkitaaɗi gila ɓooyii ena keewi arde ko weeɓi. Eto [Finish the saying](/games/finish-the-saying/), ɗo a waawi hollirde timmitol kala e fiɗtugol gootol.
+6. **Nduur e toppito puɗi.** Toppirɗe nder suudu walla leydi toownaandi, e ndiyordu famardu.
+7. **Waɗ fijirde jahdingol e nate ɓesngu maa.** [Photo pairs](/games/photo-pairs/) ena huutoroo nate ɗe cuɓu-ɗaa e kaɓirgol maa, tee ɗe njaltataa heen.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Miijooji goɗɗi: [golle tolno hakkunde](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Golle ngam tolno sakkitiingo nyaw Alzheimer
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+E tolno sakkitiingo, Alzheimer's Association wiyi yimɓe ena njejjita mbaawka jaabaade weeyo maɓɓe e jokkude yeewtere, hay so ena mbaawi wowlaade kelme walla konnguɗi seeɗa. Golle jooni ko buttinal e jokkondiral, addanaaɗe nokku kala ɗo neɗɗo oo fowtori.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Fijnu jimɗi ɗi o yiɗi** e newaare, tawa telee alaa heen liddondirde.
+2. **Hokku meemde juuɗe** e nebban huunde jogiinde uurngol mo o yiɗi.
+3. **Hokku huunde leeɓnde nde o jogoo:** wudere ɓulnde, leeɓol, hayre weertunde.
+4. **Tarane daartol** julirɗe, giimi walla daartol anndaangal. Dokkugol ngol ɓuri himmude e maanaa on.
+5. **Jooɗo yaasnorde** e dowdi, walla sara henorde nde colli ina njiyee.
+6. **Ndar natal gootal mawngal e wondude.** Naaruure walla rawaandu heewnde yaynirde taablet, tawa aɗa sifora ko njiy-ɗaa.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Miijooji goɗɗi: [golle tolno sakkitiingo](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Hol fijirde ɓurɗe jaɓde ngam neɗɗo gonɗo e nyaw Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Suɓo fijirde nde hay huunde waawaa fellaade. Kala fijirde wonnde e ndee lowre ko dokkal, ena dogana e wanngorde, tee alaa waktirde, limtorgal walla winnditaade.
 
-| Game | What you do | Often suits |
+| Fijirde | Ko waɗetee | Ena keewi jaɓde |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Jahdin nate mawɗe; ena mbaawi heddude e yeeso | Tolno fuɗɗoode e hakkunde |
+| [Find the same](/games/find-the-same/) | Fiɗ natal jahdongal e ngal woni dow | Tolno hakkunde e sakkitiingo, e ballal |
+| [Finish the saying](/games/finish-the-saying/) | Suɓo helmere sakkitiinde konngol anndaangal, walla hollu nde | Tolno fuɗɗoode e hakkunde |
+| [Picture puzzle](/games/picture-puzzle/) | Waylit tayle 4 walla 9 ngam artirde ɗe e nokku, tawa natal ngal ina holliraa | Tolno fuɗɗoode e hakkunde |
+| [Conversation cards](/games/conversation-cards/) | Natal e noddugol udditiingol ngam yeewtidde | Kala tolno, e neɗɗo mo yeewtid-ɗaa |
+| [Photo pairs](/games/photo-pairs/) | Fijirde jahdingol waɗiraaɗe e nate maa keeriiɗe | Tolno fuɗɗoode e hakkunde |
+| [Coloring](/games/coloring/) | Fiɗ noone, caggal ɗum geɓal natal; walla winndito ngal | Kala tolno, e ballal |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Ngam no jooɗortee e wondude, no walliree e nde dartiree, tar [hol no fijirtee e neɗɗo gonɗo e majjere hakkil](/caregiving/how-to-play-together/). So aɗa miijoo fii « fijirde teskagol », yillo [fijirde teskagol ngam mawɓe ɓe ngonata e majjere hakkil](/activities/memory-games/).
 
-## How to make any activity easier
+## Hol no golle kala mbaawata weeɓnireede
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Waajuuji NIA ena mbattindii e jikkuuy seeɗa: jahdin golle e ko neɗɗo oo waawi, wallu mo fuɗɗaade, ƴeew tikke, teeŋtin wonaa o sikki omo heɓi moƴƴere, tee accu mo yoo ndaar tan so ɗum o yiɗi.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Suɓo waktu ñalnde nde o ɓuri sellude,** tee waɗ nokkuuji ɗii ko raɓɓiɗɗi.
+- **Feewnoraa fof ko adii** ngam a waawa fuɗɗaade ko yaawi.
+- **Noddu, hoto yamiro.** « Aɗa waawi wallude kam seeɗa? » ena ɓuri moƴƴude e « Waktu golle arii. »
+- **Waɗ laawol gadanol aan hoore maa** tee accu mo yoo naat e maa.
+- **Hokku laawol gootol e cuɓal gootal e saawi gooto.**
+- **Accu ɗum waɗire no o yiɗiri.** Serviiyet peƴiraaɗi ena moƴƴi.
+- **Dartir tawa haa jooni ina weli.** Dartingol ko adii ko battane moƴƴere, wonaa felloore. So o salii, yillo [so neɗɗo gonɗo e majjere hakkil wiyi alaa](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ena wiya ɗum no weeɓiri: tiiɗnu e weltaare, wonaa heɓde paandaale.

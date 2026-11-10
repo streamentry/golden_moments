@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Omapuriro omapupu kovandu ovanene mbe hupa nouvera wokuzemba"
+seoTitle: "Omapuriro kovandu ovanene mbe hupa nouvera wokuzemba"
+description: "Omapuriro 50 omapupu kovandu ovanene mbe hupa nouvera wokuzemba, nozondjivisiro nomahungi, nomuano wokuyepurisa nokuhina okuzunza omundu."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Omapuriro omapupu kovandu ovanene mbe hupa nouvera wokuzemba ye kara nawa
+  indu tji ya sana nokuhungira, katji sokuyezewa. Pura ovipuka mbi va tjivirwe
+  rukuru, tjimuna omaimburiro omakuru, omambo wozongaro, omayuva omanene
+  nomuinyo weyuva arihe, nu aruhe yandja ozondjivisiro mbari poo ndatu. Yandja
+  eziriro nomutima omuwa, o ha toorora omundu umwe, isa ozonomora, nu ungurisa
+  eziriro arihe okuuta ehungi. Omapuriro wokutja "ihi poo ihi" nge hina eziriro
+  ndi ri posyo ye sora okuvatera nawa pomuano mbu ri koure.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Pura ovipuka mbi tjiukwa nawa orure: omaimburiro, omambo wozongaro, omayuva omanene, ovikurya nomuinyo weyuva arihe wozombura nḓa kapita."
+  - "Yandja ozondjivisiro mbari poo ndatu kokutja eziriro ri zemburukwe, hakuzemba okupaturuka."
+  - "Tja eziriro nomutima omuwa nu kayende komurungu. Ondjivisiro aihe ndji uta ehungi i ri nawa."
+  - "Kape nozonomora, kape notjimbumba tji matji tupuka, kape nokuisana omundu umwe. Yandja ombepo kutja ovandu avehe ve zire."
+  - "Indu okutoorora pokati kozondjivisiro tji tji rira ouzeu, rundurukira komapuriro wokutja \"ihi poo ihi\" nge hina eziriro ndi ri mondjila."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Hapo omapuriro omaunguriro omawa kovandu mbe hupa nouvera wokuzemba?"
+    a: "Ye sora okukara omawa, tji ye ungurwa noupore. Alzheimer's Foundation of America i tja omapuriro ye ri mokati kovitjitwa vyoruveze rwotenga. Kara nomapuriro ohunga novipuka mbi tjiukwa orure, yandja ozondjivisiro, o ha twa omundu umwe pokati, nu vara omaziriro otjomuharere wokuhungira, hakoyezewa."
+  - q: "Oviṋa viṋe mbi ungura nawa momapuriro wouvera wokuzemba?"
+    a: "Ovipuka mbya tjivirwe rukuru potuingi vi ungura nawa: omaimburiro novaimbure ovaṱukare tjetundu romundu, omambo wozongaro nge tjiukwa, omayuva omanene, ovikurya, omahore, nomuinyo weyuva arihe tjimuna omahitiro womaihi nomangoma nge runduka. Yanda ozombuze ozombe na atjihe tji tji hepa okuzemburuka otjiṋa okuza pomautiro woruveze ndwo."
+  - q: "Me yenene vi okuungura omapuriro motjira tjovakwatwa poo motjimbumba nokuhina okutjita omundu a ṱohore?"
+    a: "Lesa epuriro arihe kotjimbumba atjihe, raisa poo tja ozondjivisiro, nu yakura omaziriro okuza ku ngamwa auhe. O isana ovandu ovamwe poo u tware ozonomora. Tja eziriro nomunyaro kutja kwa zirwa tjike, nu pura epuriro ndi ri kongotwe ndi sana na \"Ouṋe ngwa ri komahore womatukutuku?\" okutjita kutja ri rire omahungi."
+  - q: "Me yenene okutjita tjike moruveze rwomapuriro pomiano mbya kovera ko?"
+    a: "Rundurukira komapuriro nge hina eziriro ndi ri posyo, tjimuna \"Okofi poo otee?\" poo \"Okutjave poo ozondundu?\", nokumanisa pamwe omambo wozongaro poo omaimburiro nge tjiukwa. Okutarera oviperendero nokuvihungirira pamwe wina ku ungura nawa."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Omapuriro ye ri mokati kovitjitwa mbi ningirwa tjinene movyombo vyovakwatwa nomozoprograma zomayuva, nu ovandu ovengi meṱunḓu ve ye nyanda potjitiha tjomerikutiro wina. Tji ya ungurwa momuano otjikuru, nozonomora nomundu umwe ngu ma ziri, ye sora okutjita omundu ngwa hupa nouvera wokuzemba a munike aayo wa tuwa pokati. Tji ya ungurwa noupore, ye rira omuano omuwa wokuzuva omahungi. Pehi mba pe nomapuriro 50 omapupu nozondjivisiro notjiṋa tjokuhungirira kepuriro arihe, nu kombunda mu nomuano wokuyendisa oruveze ndwo.
 
-## How do you make trivia work for someone with dementia?
+## Mo yenene vi okutjita omapuriro ye ungure komundu ngwa hupa nouvera wokuzemba?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Tjita kutja ye rire ohunga nokuzemburuka nokutjiwa ovipuka vyorukuru, nu tjita kutja eziriro arihe ri yakurwe.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Pura ohunga norukuru ndwa kapita.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) i tja otjiraisiro tji tji munika tjinene potenga mouvera wa Alzheimer's ouzeu wokuzemburuka ondjivisiro ombe. Omaimburiro, omambo wozongaro nomuinyo weyuva arihe wozombura ozengi nḓa kapita potuingi ye rira omaturiro omapupu.
+2. **Aruhe yandja ozondjivisiro.** Okutoorora eziriro ndi ri mondjila pokati kombari poo ndatu ku pupu tjinene okukapita okuripaturura porwayo.
+3. **Lesa omapuriro mokupo nu u ye raise omanene.** Otjipirangi otjiyera poo okatjirwise nga ke yelisiwa ke vatera imba mbe zuva kakuṱiṱi.
+4. **Yandja eziriro nouharupu.** Tji pe hi na ngu ma tjiwa, tji tja nomutima omuwa nu kayende komurungu. O tja "Indee, ove mo tjiwa hi."
+5. **Kape nozonomora.** Kape kovandu oveni nu kape kozotjitiha. Tji ovandu mave vanga onomora, twa po onomora imwe yotjimbumba atjihe.
+6. **O isana omundu umwe.** Yandja ombepo kutja omaziriro ye ze ku ngamwa auhe. Momuano wokuhungira nomundu umwe, zirai pamwe: "Ami me ripura kutja opiano. Ove mo ripura vi?"
+7. **Ungurisa otjiṋa tjokuhungirira.** Eziriro oruta rwomautiro, karihi omaandero. Omahungi owo ondando onene.
+8. **Kara noruveze orusupi.** Omapuriro omurongo nomahungi pokati yao ye yeterera.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i kahurura omurari omunene momuano omupupu: tara omahihamisiro nu tjita kutja omundu me rimune mondjandja. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i tja omapuriro ye ri mokati kovitjitwa vyoruveze rwotenga. Poruveze rwopokati, kara nozondjivisiro mbari uriri nu zikamena koviṋa vyokuhungirira. Kombunda, rundurukira komapuriro wokutja "ihi poo ihi" nge ri pehi mba.
 
-## Music and entertainment trivia
+## Omapuriro ohunga nomaimburiro nomanyando
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Eziriro ri ri mo **ondikato yotjivara.** Rundurura omapuriro inga komundu: omundu ngwa kurira momaimburiro wa Motown ma vanga ovaimbure varwe okuza ku imba mba kurira momaimburiro wozombendu ozonene.
 
-| Question | Choices | Talk about |
+| Epuriro | Ozondjivisiro | Hungira ohunga na |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Ouṋe ngwa isanewa Ombara ya Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Wa rora okumuna Elvis motjivisio? |
+| Omuimbure uṋe ngwa ri nena ndi Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Eimburiro ra Sinatra riṋe ndi wa suvera tjinene? |
+| Bing Crosby wa rota ohunga na Krismesa om... | **Yera**, omakupiro, ondjuwo | Imburai pamwe oruteto rumwe |
+| Louis Armstrong wa imbura "What a Wonderful..." | Eyuva, **Ouye**, Omuinyo | Otjikwaye tji tji tjita ouye ouwa kove? |
+| "Over the Rainbow" ya imburwa i Judy Garland motjitjere tjipi? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Ovitjere vyoye mbi wa suvera we vi tarere pi? |
+| Ouṋe ngwa nyanda otja Lucy mu "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Ovitjere viṋe eṱunḓu roye mbi ri tarere pamwe? |
+| Omukowboye uṋe ngwa kavire okakambe ku ku tiwa Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Wa nyanda ovakowboye tji wa ri okanatje? |
+| Ouṋe ngwa hongorere "The Tonight Show" oure wozombura 30? | Ed Sullivan, **Johnny Carson**, Bob Hope | Wa kara ongurova okuyaruka kokutara otjivisio? |
+| Otjihumba tjipi tji notjiveta 88? | Ongumbiro, **opiano**, onḓera | Pe na omundu meṱunḓu roye ngwa imburire? |
+| Omahore yeṋe ye varwa imwe-mbari-ndatu, imwe-mbari-ndatu? | **Waltz**, twist, tango | Wa ire pi komahore? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Tji mo vanga ondjivisiro ohunga nomaimburiro, tara [ovitjitwa vyomaimburiro kouvera wokuzemba](/activities/music/).
 
-## Everyday life trivia
+## Omapuriro ohunga nomuinyo weyuva arihe
 
-| Question | Choices | Talk about |
+| Epuriro | Ozondjivisiro | Hungira ohunga na |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Ngunda ozofirisa aze hiya kara ko, ozondjuwo ozengi za turire ovikurya moupori mo... | **Otjimbamba tjomeva omatarazu**, otjizero, ondjuwo yokombanda | Ouṋe ngwa etere omeva omatarazu? |
+| Ouṋe ngwa eta omaihi pomuvero mozombiya zomakende? | Omuhinge wozombapira, **omuete womaihi**, omuhinge wozombapira zomuhuka | Ovikwaye vyarwe mbya etwa ponganda? |
+| Wa rundura vi ongoma ndji runduka? | Okutonena ozombomba, **okurundura ekoro**, okuhungira nayo | Ndji raera ohunga nongoma ndja ri ponganda yenu |
+| Ehangano riṋe nda ungura otjihauto tja Model T? | **Ford**, Chevrolet, Buick | Ndji raera ohunga notjihauto tji wa suverere |
+| Mo vaza pi omuyandje wovisuta vyomanuwa? | **Pondjuwo yovisuta**, poruvanda rwomikate, pombanga | Wa randa tjike potjirambi? |
+| Otjinyandise tjipi otjitenda tjotjitenda tji matji kawondja pozondato? | Yo-yo, **Slinky**, hula hoop | Ounyandise uṋe mbu wa suverere? |
+| Oruveze rwomahore womatukutuku rwa ri oruveze rwokutara... | **Ovitjere okuza motjihauto tjoye**, omahore wombaze, omatwende | Wa ire pu na uṋe? |
+| Omasere wouṋe ye ri pondjara imwe yondollar? | Lincoln, **George Washington**, Jefferson | Odollar imwe ya randa tjike moruveze ndwo? |
+| Omasere wouṋe ye ri kopeni? | **Abraham Lincoln**, Washington, Franklin | Wa turire ozopeni motjimbamba moruveze ndwo? |
+| Ombesa yosikore potuingi i kara nerangi riṋe? | Oserandu, **engirine**, eburau | Wa ire vi kosikore? |
 
-## Holidays, nature and places
+## Omapuriro ohunga nomayuva omanene, ouṋepo novituro
 
-| Question | Choices | Talk about |
+| Epuriro | Ozondjivisiro | Hungira ohunga na |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Eyuva riṋe enene ri ri metine oritjaine ra Novemba? | Eyuva roviungura, **Eyuva rondangi (Thanksgiving)**, Eyuva rozombanda | Otjikwaye tji tja ri potjitiha tjoye aruhe? |
+| Ozondungu za Jack-o'-lantern ze ungurwa keyuva riṋe? | **Halloween**, Epasa, Krismesa | Ndji raera ohunga na Halloween ku wa kurira |
+| Eyuva oritjaine ra Juli ri nyandisa Ondjivisiro yo... | Ouuthemba, **Ombutiro**, Ouharupu | Wa tarere pi omuriro wozonyose? |
+| Eyuva roIna ri ri momueze uṋe? | April, **Mei**, Juni | Eṱunḓu roye ra nyandisire vi? |
+| Ozonyose ngapi ze ri mombandera ya Amerika? | 48, **50**, 52 | Ombandera ya ri nozonyose 48 nga 1959. Eziriro arihe arihe ri omuzemburukiro omuwa |
+| Okuṱa kuṋe ku ri kombanda yokomuhuka yOuveze wOkuzuva (East Coast)? | Pacific, **Atlantic**, Arctic | Wa rora okuya kokutjave? |
+| Otjihongonone tja Statue of Liberty tji ri motjihuro tjipi? | Boston, **New York**, Philadelphia | Wa rora okukara mo New York? |
+| Ozonyutji ze ungura tjike? | Omaihi, **ouitji**, osilika | Ouitji kombanda yomukate poo motee? |
+| Ondana yongombe i isanewa... | Ondana yokakambe, **ondana yongombe**, ondana yongombo | Wa rora okukara popezu norupanda? |
+| Otjimunino otjire tjeṱunḓu engirine tji tji tjiukwa okuritanaukira keyuva otjipi? | Oroosa, **otjimarigold (sunflower)**, otulipa | Otjikwaye tja kurire motjikunino tjoye? |
+| Omayuva ngapi ye ri mombura ndji ri nokuweka? | 365, **366**, 360 | Ndji raera ohunga neyuva reyuva ndu u zemburuka |
+| Oruveze rwombura ruṋe ndu ru ya kombunda youṱuku? | Oruveze rwomahwa, **oruteni**, oruveze rwoupyu | Oruveze rwombura ruṋe ndu wa suvera? |
 
-## Food and sports trivia
+## Omapuriro ohunga novikurya nomahore
 
-| Question | Choices | Talk about |
+| Epuriro | Ozondjivisiro | Hungira ohunga na |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Omagireipi omakukutu omandjembere... | Omagireipi omatjavirise, **omandjembere**, omacerise | Wa twa omandjembere mozombako zovikurya vyosikore? |
+| Ozondjembere ozongukutu ozo... | **Omagireipi omatjavirise (plums)**, omakuyu, omapera | Ouṋe meṱunḓu roye ngwa suverere ozondjembere ozongukutu? |
+| Ovitenda vyopeanut no... | **Jelly**, otjizeze, onyama yonguruve | Mbi nyanywa poo mbi pora? |
+| Guacamole potuingi i ungurwa okuza mo... | Omapizi, **omaavokado**, omakukamba | Ovikurya vyokutwereka viṋe mbya pitisiwa pomanyando? |
+| Ombakitha iṋe ndji suverwa tjinene po Thanksgiving? | **Ombakitha yondungu (pumpkin)**, omalemoni, omacerise | Ombakitha iṋe ndji wa ungurire? |
+| Ovanyande vangapi otjimbumba tjombaze tji ri navyo motjikunino? | 7, **9**, 11 | Otjimbumba tjipi tji wa vaterere? |
+| Ozombeto ngapi ze tjita kutja omundu a pite mo mombaze? | Mbari, **ndatu**, ine | Wa rora okunyanda ombaze? |
+| Babe Ruth wa tumbuka nawa mohore iṋe? | Okurwisa, **ombaze**, ogolf | Wa ire komahore wombaze? |
+| Omapo ngapi ye ri motjikunino tjogolf otjikuru? | 9, **18**, 24 | Wa rora okunyanda ogolf, poo ogolf okaṱiṱi? |
+| Mohore iṋe mu u hitisa ondondo ndji tiwa touchdown? | **Okanyando komakumbo (football)**, ohokei, ombaze yozombaze | Ouṋe ngwa tarere football ponganda yenu? |
 
-## Familiar sayings
+## Omambo wozongaro nge tjiukwa
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Okumanisa embo rozongaro ku ungurisa eraka nda tjivirwe rukuru nu potuingi ku ya noupupu. Otjinyanda tjetu [Finish the saying](/games/finish-the-saying/) tji nomambo omengi wina, nokutonena okuraisa omaandero.
 
-| Saying | Choices | Talk about |
+| Embo rozongaro | Ozondjivisiro | Hungira ohunga na |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Epera rimwe eyuva arihe ri tjevera... | **Omutjise kokure**, ombura kokure, okambihi kokure | Ouṋe ngwa tja nai kove rukuru? |
+| Onyutji ndji penduka rukuru i kambura... | Ombesa, **ekondombolo**, otjitimbo | Oove omundu womuhuka omunene? |
+| O vara ozohunguriva zoye ngunda aze hiya panduka... | **Okupanduka**, okurara, okuimbura | Eṱunḓu roye ra ri nozohunguriva? |
+| Openi ndja tuwa i openi... | **Ndja munwa**, ndja pandjara, ndja ungurisiwa | Ouṋe ngwa ri omuture moruveze meṱunḓu roye? |
+| Onganda opu pe ri... | Otjikunino, **omutima**, otjikuku | Otjikwaye tji tji tjita kutja oruveze ru kare tjimuna onganda? |
+| Okukoka ku ri nawa okukapita... | Rukuru, **aruhe**, okurihorera | Ouṋe ngwa kokere aruhe? |
+| Ekamba arihe ri notjivara tjisiliveli... | **Mena**, otjiyaha, ondjara | Ndji raera ohunga noutoye mbwa munu |
+| Ovitjitwa vi hungira kombanda yo... | **Omambo**, omaimburiro, ombosiro | Ndji raera ohunga nomundu ngwa tjere nao |
 
-## This-or-that questions with no wrong answer
+## Omapuriro wokutja "ihi poo ihi" nge hina eziriro ndi ri posyo
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Inga ye sora oruveze aruhe, nandarire kombunda, mena rokutja kape notjiṋa tji tji sokutuurwa mondjila. Pura, puratena, nu u yandje eziriro roye wina.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Okofi poo otee?
+- Okutjave poo ozondundu?
+- Ozombwa poo ozombihi?
+- Oruveze rwoupyu poo oruveze rwouṱuku?
+- Ombakitha poo ekeke?
+- Okuhoreka poo okutarera?
+- Omuhuka mbwa pita poo eyuva ndi ri zu?
+- Omutanda wokomurungu poo orupanda rwokongotwe?
+- Oradio poo ozorecord?
+- Omapekake poo omai?
+- Ozoroosa poo ozondaisa?
+- Ouyenda wotjitimbo poo ouyenda wotjihauto?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Komapuriro wohungiriro nge ri pamwe noviperendero, rora [Omakarte wohungiriro](/games/conversation-cards/) wetu nge yenena okupirindwa.
 
-## How do you run a trivia session in a care home or group?
+## Mo yenene vi okuyendisa oruveze rwomapuriro motjira tjovakwatwa poo motjimbumba?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Haika ovandu kutja ve mune nu ve zuve.** Ovitumbiro vyokuzuva vi ri mo, omakende ye ri ko, otjivisio tja zemisiwa.
+2. **Tji kahurura otjohungiriro.** "Mbi nomapuriro ohunga nomayuva omakuru, nu me tjiwa kutja mamu tjiwa okukapita ami."
+3. **Lesa epuriro arihe tuvari nu u raise ozondjivisiro omanene.**
+4. **Yakura omaziriro okuza ngamwa apehe motjipanda.** Tjivisa omaziriro omawa kutja avehe ye ye zuve.
+5. **Tja eziriro kovandu avehe,** nu kombunda pura epuriro ndi ri kongotwe kotjipanda.
+6. **Kongorera omasa woruveze.** Tji epuriro rimwe ri uta oure wominute omurongo womaṱuṱumo, ri yandjera.
+7. **Manisa neimburiro poo nomuhingo wokutja "ihi poo ihi",** kokutja avehe ve manise notjiṋa otjipupu.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Komiwano vyarwe vyotjimbumba, mu muna ombaze yoviperendero nokuhingira pamwe, tara [ovitjitwa vyotjimbumba movyombo vyovakwatwa](/activities/care-home-groups/).
 
-## When to change the plan
+## Oruveze ruṋe tji mo sokurundurura ondunge
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Tji omundu tja munika a ri nomerikendero, tja mwina poo tja tja "Hi nokutjiwa" povikando ovingi pu vimwe, tjita kutja ri rire epupu: yandja ozondjivisiro mbari uriri, zirai pamwe, poo rundurukira komapuriro wokutja "ihi poo ihi". Tji otjimbumba tji vanga okuhungira ohunga nepuriro rimwe oure womutenya auhe, indji ondjandja. Ondando kayari omaziriro nge ri mondjila. Ya ri oruveze ndu mwa kara pamwe mouwa.

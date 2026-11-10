@@ -1,35 +1,37 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Bisalu mpi bansaka sambu na bantu ti Alzheimer"
+seoTitle: "Bisalu mpi bansaka ya Alzheimer: mabanza na kitapa"
+description: "Bisalu mpi bansaka sambu na bantu ti maladi Alzheimer na konso kitapa, na kutadila mayele mpi mambu yina ke zingaka mingi, ti bansaka ya ofele ya kusala kumosi."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Bisalu ya mbote sambu na muntu yina kele ti maladi Alzheimer ke tadilaka
+  mambu yina ke zingaka mingi: mayele yina bo me salaka bamvula mingi, bankunga
+  ya ntama, bisalu ya nzo ya mbote mpi mambu yina ke sadisaka banzwa. Na
+  luyantiku, bansaka ya bakarte, bansaka ya mesa, kulamba mpi kubasika na
+  nganda lenda vanda kaka ya mbote. Na kitapa ya kati, meka kupinda bilele,
+  kuyidika bima, kuyimba, kutala ba albume ya bafoto mpi bansaka ya pete ya
+  bafoto. Na nsuka ya maladi, miziki, kusimba na mawete mpi kuvanda kumosi kele
+  mambu ya mfunu mingi. Pona na kutadila mutindu muntu kele bubu yai.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Maladi Alzheimer kele kikuma ya mingi ya maladi ya kuyindula, yo yina mabanza ya bisalu sambu na maladi ya kuyindula ke sadisaka mpi sambu na yo."
+  - "Mambu ya mpa ke vandaka mpasi ya kukangama na luyantiku, kansi mayele mpi bankunga yina bo longukaka ntama mingi ke zingaka mingi. Tunga na zulu na yo."
+  - "Bitapa ke vukanaka mpi bilumbu ya mbote ti bilumbu ya mpasi kele mambu ya mbote. Pona na kutadila mambu yina muntu lenda sala mpi sepela na yo bubu yai."
+  - "Pona bansaka yina kele ve ti ntangu ya kulanda, ve ti ntalu ya mambu ya kusala, ve ti kuyula bangiufula, mpi bika bafoto kuvanda ya kumonana."
+  - "Kutala, kusimba kima to kuvanda kaka kumosi ke tadilama mpi bonso kukota na kisalu."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Bisalu ya nki kele ya mbote sambu na muntu yina kele ti maladi Alzheimer?"
+    a: "Bisalu ya mbote yina bo me kumisa ya pete: kupinda bilele, kuyidika mesa, kulamba kumosi, miziki mpi kuyimba, kutala bafoto, kutambula, kusala bilanga mpi kusala ntangu ti mbisi ya nzo. Bansaka ya pete ya bafoto, ba pzzle ya pete mpi bakarte ya masolo lenda sadisa mpi bantu mingi. Pona mambu yina muntu vandaka kuzola ntangu yonso mpi sala yo kumosi ti yandi."
+  - q: "Keti bansaka kele ya mbote sambu na bantu yina kele ti maladi Alzheimer?"
+    a: "Bansaka lenda vanda mutindu ya kitoko ya kulekisa ntangu kumosi kana muntu ke sepela na yo. Kima mosi ve ya bansaka me monisama nde yo ke belulaka, ke malembelekaka to ke yimisaka maladi Alzheimer, yo yina pona bansaka sambu na kiese: bafoto ya nene, bapondua ya fioti, mpi ve ntangu ya kulanda, ntalu ya mambu ya kusala to makelele ya mvutu ya mbi."
+  - q: "Keti kudiaka kele kati na bisalu ya maladi ya kuyindula mpi bisalu ya maladi Alzheimer?"
+    a: "Mingi ve. Maladi Alzheimer kele kikuma ya mingi ya maladi ya kuyindula, mpi mabanza ya mutindu mosi ya bisalu ke sadisaka. Mambu yina ke sadisaka na maladi Alzheimer kele kuzaba nde mambu ya ntama ya fioti ke vilaka ntete, yo yina bisalu yina ke tundaka na mayele, bankunga mpi bifu ya ntama ke tambulaka mingi mbote."
+  - q: "Mambu ya nki muntu yina kele na kitapa ya nsuka ya maladi Alzheimer lenda sepelaka na yo?"
+    a: "Miziki yina yandi ke zolaka mingi, kumasajima maboko na mawete, bima ya pete ya kusimba, kutangila yandi na ndinga ya ngolo, kuvanda na nganda, mpi kuvanda ti muntu yina yandi ke tudilaka ntima. Sala yo na ntangu ya nkufi mpi ya pima, mpi tala luse ya yandi mpi nitu ya yandi sambu na kuzaba mambu yina yandi ke zolaka."
+  - q: "Inki mutindu mono lenda sadisa muntu yina kele ti maladi Alzheimer na kuvanda ti mpusa ya kusala kisalu mosi?"
+    a: "Lomba lusadisu na kisika ya kutuba nde nge ke yantika kisalu, yidika bima yonso na ntwala, mpi yantika nge mosi sambu yandi lenda kota. Kupona ntangu ya kilumbu yina yandi ke vandaka mbote mingi ke sadisaka mingi. Kana yandi me buya, meka diaka na nima to pesa yandi mutindu ya fioti ya kisalu."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +56,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Kana muntu yina nge ke zolaka kele ti maladi Alzheimer, ziku nge me monaka deja nde mambu yankaka ke vilaka nswalu kansi mankaka ke zingaka. Yandi lenda vila kubinga ya telefone ya bubu na suka, kansi yandi lenda yimba kaka mambu yonso ya nkunga mosi, kupinda tawele mutindu yandi vandaka kusala ntangu yonso, to kukabula bakarte kukonda kuyindula mingi. Bisalu ya mbote ke tungamaka na mayele yina ke zingaka. Lutiti yai ke tendula sambu na nki, na nima yo ke pesa mabanza sambu na konso kitapa mpi bansaka ya ofele ya site yai yina ke fwanaka ti yo.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Keti maladi Alzheimer kele luswaswanu ti maladi ya kuyindula na yina me tala bisalu?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Mingi ve. Maladi ya kuyindula kele ngindu ya nene, mpi maladi Alzheimer kele kikuma na yo ya kuluta mingi: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ke tuba nde yo ke vanda 60 tii na 80 na kati ya 100 ya bansangu ya maladi ya kuyindula. Pene-pene mambu yonso yina bo sonikaka sambu na bisalu ya maladi ya kuyindula ke sadisaka mpi na maladi Alzheimer, tii mpi [mabanza 101 ya bisalu](/activities/ideas/) na beto.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Mambu ya mfunu ya kuzaba kele ndonga ya mbote ya bansoba. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) ke tendula nde maladi Alzheimer ke bebisaka ntete bitini ya butomfu yina ke sadisaka mambu ya kuyibuka, mpi na nima yo ke bebisaka ndinga, kuyindula mpi bikalulu ya kimvuka. Alzheimer's Association ke tuba nde kidimbu ya ntete yina ke monanaka mingi kele mpasi ya kuyibuka mambu ya mpa. Konso muntu kele diswaswanu, mpi bantu mingi ke vandaka ti bikuma ya kusangana, kansi ndonga yai ke sadisaka na kuzaba mambu yina lenda tambula mbote.
 
-## What kinds of activities suit Alzheimer's best?
+## Bisalu ya nki mutindu ke fwanaka mbote na maladi Alzheimer?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Bisalu yina ke sadilaka mayele ya ntama, yina bo me salaka bamvula mingi, ke tambulaka mbote kuluta yina ke lombaka kulonguka diambu ya mpa mpi kukanga yo na ntu.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Mayele ya ntama.** Alzheimer's Association ke tuba nde muntu lenda baka kaka makuki ya kusala bankunga ya pete yina yandi longukaka na piano bamvula mingi me luta. Kusala triko, kusala mabaya, kusangisa bakarte, kuvukisa pate mpi kupinda bilele kele mambu ya mutindu mosi.
+- **Bankunga ya ntama mpi miziki ya mbote.** Bantu mingi ke yibukaka kaka mambu yonso ya bankunga ya ntangu bo vandaka baleke to bansadi, bankunga ya dibundu mpi bankunga ya lukelano na bo. Tala [bisalu ya miziki](/activities/music/).
+- **Bisalu ya konso kilumbu yina kele ti ntina.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ke tanga kosukula malonga, kuyidika mesa, kuyidika ba soseti mpi kupinda bilele na kati ya bisalu yina bantu lenda sepelaka na yo. Kuwakana nde nge ke sadisaka kele diambu ya mfunu.
+- **Kuzaba na kutala, kansi ve kuyibuka na ntu.** Kusonga foto yina ke fwanana kele pete kuluta kutuba zina na yo na kuyibuka. Yo yina bansaka ya bafoto yina ke monisaka bima yonso ke sadisaka mbote kuluta bangiufula.
+- **Banzwa.** Kusimba, nsudi, tiya, ntomo mpi ndinga ke bikala ti ntina ata kana mambu ya kutuba me kuma mpasi. Tala [bisalu ya banzwa](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Mambu yina ke vandaka mpasi mingi: konso kima yina kele ti ntangu ya kulanda, bansiku ya mpa ya kulonguka, matambi mingi ya kuyibuka, to bangiufula yina ke meka kuyibuka, bonso « Keti nge ke yibuka nani yai? ». Mambu ya mutindu yina ke tula mpasi ya maladi Alzheimer na ntwala.
 
-## Activities for early-stage Alzheimer's
+## Bisalu sambu na kitapa ya luyantiku ya maladi Alzheimer
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Na kitapa ya luyantiku, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) ke tuba nde muntu lenda baka kutambwisa mutuka, kusala kisalu mpi kukota na bisalu ya kimvuka, kansi yandi lenda mona nde yandi ke vilaka mambu ya fioti, bonso mambu ya kutuba yina yandi me zabaka to kisika yina yandi tulaka bima. Mutindu ya kuluta mbote kele kusala kumosi: yula yandi mambu yina yandi ke zola kulanda kusala mpi lusadisu ya nki yandi ke zola.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Bika yandi kulanda bisalu yina yandi ke zolaka.** Gofu, bridge, kusona na ndonga, korale mpi bimvuka ya dibundu, ti bansoba ya fioti bonso bimvuka ya fioti mpi bantangu ya pima.
+2. **Saka bansaka ya bakarte mpi ya mesa yina yandi me zabaka.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ke tanga bansaka ya mambu ya kuyibuka, bansaka ya mambu ya kutuba, bansaka ya bakarte mpi bansaka ya mesa sambu na kitapa ya luyantiku. Saka bonso kimvuka kana kutanga bantalu ke yantika kunyangisa yandi, to bika kutanga bantalu mvimba.
+3. **Lamba kumosi.** Bika yandi kusala resete yina yandi me zabaka na ntu, mpi nge sadisa na kutanga matambi.
+4. **Yantika kisalu ya luzingu na yandi.** Bafoto, baresete mpi masolo na albume mosi yina yandi mosi ke twadisa. Tala [bisalu ya kuyibuka mambu ya luzingu](/activities/reminiscence/).
+5. **Basika na nganda.** Restora yina yandi ke zolaka na ntangu ya pima, muze na viziti ya nkufi, to kutambula na parke.
+6. **Meka ba pzzle yina yandi mosi ke ponaka.** Ba mots croisés ya nsonso ya nene, bansaka ya kusosa mambu mpi ba pzzle. Tala [ba pzzle sambu na maladi ya kuyindula](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Mabanza mingi: [bisalu ya kitapa ya luyantiku](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Bisalu sambu na kitapa ya kati ya maladi Alzheimer
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association ke tendula nde kitapa ya kati kele mingi ntangu ya kuluta nda, mpi yo lenda zingila bamvula mingi. Mambu ya kutuba ke vukanaka, kukonda ntima ya kuluta ke kumaka pete, mpi muntu ke lombaka lusadisu mingi. Alzheimer's Foundation of America ke yika nde bantu mingi ke lombaka lusadisu sambu na kuyantika to kulanda bisalu. Kisalu na nge ke soba na kuyidika mambu, kumonisa na kisika ya kutendula, mpi kubaka bitini ya mpasi.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Kupinda, kuyidika mpi kufwanisa.** Batawele, ba soseti, bima ya mesa, babiton na mukubu. Bisalu ya kieleka, kusala kumosi.
+2. **Kuyimba mpi kunikana na miziki.** Bula maboko, nikana to kina na kikuku. Yantika kuyimba nge mosi mpi bika yandi kota.
+3. **Kutala ba albume ya bafoto.** Tendula mambu yina nge ke monaka mpi yula masolo: « Tala mutuka yai. Tendula mono mambu na yo. » Ndima bazina yina yandi ke sadila.
+4. **Saka bansaka ya pete ya bafoto.** [Picture pairs](/games/picture-pairs/) ti 4 tii na 6 ya bafoto, bafoto ke bikala ya kumonana, to [Find the same](/games/find-the-same/) ti bapondua 2 to 3.
+5. **Manisa bingana ya mbote.** « Dikuta mosi na konso kilumbu ke kanga... » Bingana yina bo longukaka ntama ke kwisaka mingi pete. Meka [Finish the saying](/games/finish-the-saying/), kisika nge lenda monisa konso nsuka ti kubula mosi.
+6. **Mwangisa masa mpi kebaka banti.** Banti ya kati ya nzo to bilanga ya fioti, ti mbinga ya fioti ya masa.
+7. **Sala nsaka ya kufwanisa ti bafoto ya dibuta.** [Photo pairs](/games/photo-pairs/) ke sadilaka bafoto yina nge me pona na apareyi na nge, mpi yo ke katukaka ve na yo.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Mabanza mingi: [bisalu ya kitapa ya kati](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Bisalu sambu na kitapa ya nsuka ya maladi Alzheimer
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Na kitapa ya nsuka, Alzheimer's Association ke tuba nde bantu ke vidisaka makuki ya kupesa mvutu na mpila yina bo ke zinga mpi ya kutuba masolo, ata bo lenda tuba kaka mambu to bingana ya fioti. Kisalu ntangu yai kele kupesa kikesa mpi kuwakanisa, na kisika yina muntu ke vundaka.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Bulaka miziki yina yandi ke zolaka mingi** na ndinga ya malembe, kukonda televizio sambu yo vanda ve na makelele.
+2. **Pesa masaje ya maboko** na mafuta ya nsudi ya kitoko yina yandi ke zolaka.
+3. **Pesa bima ya pete ya kusimba:** bulangiti ya tiya, lele ya mawete, ditadi ya pete.
+4. **Tanga na ndinga ya ngolo** bankunga ya Nzambi, baverse to disolo yina yandi me zabaka. Ritme kele ya mfunu kuluta ntendula.
+5. **Vanda na nganda** na kivudi, to pene-pene ya fenetre sambu na kutala bandeke.
+6. **Tala foto mosi ya nene kumosi.** Turnesol to mbwa yina ke fuluka ekran ya tableti, mpi nge tuba mambu yina nge ke monaka.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Mabanza mingi: [bisalu ya kitapa ya nsuka](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Bansaka ya nki ke fwanaka sambu na muntu yina kele ti maladi Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Pona bansaka yina muntu lenda nunga ve yo. Konso nsaka na site yai kele ya ofele, ke sadilaka na navigateur mpi kele ve ti ntangu ya kulanda, ntalu ya mambu ya kusala to kukomisa zina.
 
-| Game | What you do | Often suits |
+| Nsaka | Mambu yina nge ke sala | Ke fwanaka mingi |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Fwanisa bafoto ya nene; bo lenda bikala ya kumonana | Kitapa ya luyantiku mpi ya kati |
+| [Find the same](/games/find-the-same/) | Bula foto yina ke fwanana ti yina kele na zulu | Kitapa ya kati mpi ya nsuka, ti lusadisu |
+| [Finish the saying](/games/finish-the-saying/) | Pona ngogo ya nsuka ya ngana yina bo me zabaka, to monisa yo | Kitapa ya luyantiku mpi ya kati |
+| [Picture puzzle](/games/picture-puzzle/) | Sobisa 4 to 9 bitini na kisika na yo, ti foto ya kumonana | Kitapa ya luyantiku mpi ya kati |
+| [Conversation cards](/games/conversation-cards/) | Foto mpi ngindu ya masolo ya kukangula | Konso kitapa, ti muntu ya kusolula ti yandi |
+| [Photo pairs](/games/photo-pairs/) | Nsaka ya kufwanisa yina bo me sala ti bafoto na nge | Kitapa ya luyantiku mpi ya kati |
+| [Coloring](/games/coloring/) | Pona mukubu, na nima kitini ya foto; to nima yo | Konso kitapa, ti lusadisu |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Sambu na kuzaba mutindu ya kuvanda kumosi, lusadisu ya nki ya kupesa mpi ntangu ya kuyimina, tanga [mutindu ya kusakana ti muntu yina kele ti maladi ya kuyindula](/caregiving/how-to-play-together/). Kana nge ke yula mambu ya « bansaka ya kuyibuka », tala [bansaka ya kuyibuka sambu na bambuta yina kele ti maladi ya kuyindula](/activities/memory-games/).
 
-## How to make any activity easier
+## Mutindu ya kukumisa konso kisalu ya pete
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Ndongisila ya NIA ke kwisa na bifu ya fioti: fwanisa kisalu ti mambu yina muntu lenda sala, sadisa yandi na kuyantika, tala kana yandi me kuma ti kukonda ntima, sala nde yandi kuwa nde yandi me nunga, mpi bika yandi kutala kaka kana yandi ke zola mutindu yina.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Pona ntangu ya kilumbu yina yandi ke vandaka mbote mingi,** mpi bika bisessu kuvanda ya nkufi.
+- **Yidika bima yonso na ntwala** sambu nge lenda yantika mbala mosi.
+- **Binga, kansi ve kupesa nsiku.** « Keti nge lenda sadisa mono? » ke sadisaka mbote kuluta « Ntangu ya kisalu me kuma. »
+- **Sala ditambi ya ntete nge mosi** mpi bika yandi kota.
+- **Pesa ditambi mosi mpi mpondua mosi na mbala mosi.**
+- **Bika yo kusalama mutindu na yandi.** Batawele yina me pindama mbote ve kele mbote.
+- **Yimina ntangu yo ke vanda kaka ya kitoko.** Kuyimina ntete kele mbote, kansi ve kununga ve. Kana yandi me buya, tala [ntangu muntu yina kele ti maladi ya kuyindula ke tuba ve](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ke tuba yo na mutindu ya pete: tula dikebi na kiese, kansi ve na kununga.

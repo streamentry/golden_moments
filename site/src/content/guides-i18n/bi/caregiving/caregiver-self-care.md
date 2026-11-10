@@ -1,36 +1,35 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Sef-kea blong Lukaotem: Ret Taem mo Sapot"
+seoTitle: "Sef-kea blong Lukaot Dementia: Ret Taem mo Sapot"
+description: "Ol saen blong bon-aot long lukaotem man o woman we i gat dementia, fasin blong faenem ret taem mo grup blong sapot, mo ol fri helpeline long US."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Lukaotem man o woman we i gat dementia i hard, mo lukaotem yu wetem i wan pat
+  blong waka ya. Lukaotem ol saen olsem tair tumas, kros, slip no gud mo lusim
+  ol fren. Askem sapot long ol samting we yu nid, yusum ret taem keya, mo joen
+  wan grup blong sapot. Fri sapot long US i gat Alzheimer's Association 24/7
+  Helpline long 1-800-272-3900 mo Eldercare Locator long 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Bon-aot i kamaot olsem tair tumas, kros, slip no gud, sed mo yu no kea long helt blong yu wetem."
+  - "Ret taem keya i givim yu wan brek, from fyuaseri aoa to sam wik, long hom o long wan fasiliti blong keya."
+  - "Askem sapot long ol spesifik wok; plante man oli wantem helpem be oli no save wat blong duim."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) i givim fri mo konfidensol sapot long eni taem."
+  - "Eldercare Locator (1-800-677-1116) i konektem yu wetem ol lokol sevis, including Area Agency on Aging blong yu."
+  - "Sipos yu filim yu stap long wan hevi taem, kolem o tekstem 988. Long wan emergensi, kolem namba emergensi blong ples blong yu."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Wanem ol saen blong bon-aot long lukaotem?"
+    a: "Ol komon saen i tru tumas tair, filim hevi o wari, isi kros o no gat patiens, hard blong slip, filim sad o no gat hop, lusim ol fren, hed-pen o pen long bodi we i kamap oltaem, mo miss kakae, wok blong bodi o trit blong helt blong yu. Sipos ol saen olsem i kamap oltaem, toktok wetem dokta blong yu."
+  - q: "Hao nao mi save faenem ret taem keya klosap long mi?"
+    a: "Stat wetem Eldercare Locator (1-800-677-1116 o eldercare.acl.gov) blong kasem Area Agency on Aging long ples blong yu, ARCH National Respite Locator Service, o Alzheimer's Association Helpline long 1-800-272-3900. Famili, fren mo ol volantia tu oli save givim ret taem."
+  - q: "Eni Medicare i pemen ret taem keya?"
+    a: "Long man o woman we i stap resivim hospice keya, Medicare i kavremem plante long kost blong ret taem keya i go kasem faev dei we i stap kontinu long wan hospital o wan skilled nursing facility, olsem we National Institute on Aging i talem. Plante private helt insurance i no kavremem ret taem; Medicaid mo sam long-term care insurance plan i save helpem."
+  - q: "Ol Alzheimer's Association Helpline i fri mo i opem long naet tu?"
+    a: "Yes. Alzheimer's Association i talem se Helpline long 1-800-272-3900 i fri, konfidensol mo i gat ol man i wok long 24 haoa, 365 dei long wan yia, wetem sapot long plante langwis. Dialem 711 blong relay sevis."
+  - q: "Eniwe i rong blong tekem brek long lukaotem?"
+    a: "Nogat. Ret i helpem yu blong yu kontinu blong lukaotem, mo ret taem i save givim man o woman we yu lukaotem wan jenis blong ol fren mo wan jenis wok tu. Plante man o woman we oli lukaotem oli talem afterwards se oli wis oli bin askem sapot kwiktaem."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +66,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Sipos yu stap lukaotem man o woman we i gat dementia, yu prapaly i stap ridim dis long taem we ileit, yu i taed, mo i gat ol samting we yu no yet duim. Dat i nomol. Lukaotem yu wetem i no wan lukseri o wan presen we yu gat afta long finisim evri samting. Hemi samting we i mekem yu save kontinu.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Dis pej i talem ol warning saen blong bon-aot, hao nao yu save gat wan ret we i tru, ples we yu save faenem sapot, mo ol fri helpline long US we yu save kolem tede.
 
-## What are the signs of caregiver burnout?
+## Wanem ol saen blong bon-aot long lukaotem?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Bon-aot i kamap slo, so i gud blong save ol warning saen blong yu. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) i lisimap ol saen blong stret long lukaotem, olsem:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- filim tair, hevi o wari;
+- isi kros o no gat patiens;
+- filim lonli o yu no konekted wetem narafala man;
+- hard blong slip, o yu no slip gud;
+- filim sad o no gat hop, o yu no intres long ol samting we yu bin laekem;
+- hed-pen, pen o ol narafala bodi trabol we i kamap oltaem;
+- no gat taem blong wakabaot o blong mekem kakae we i gud long yu;
+- yu lusim ol samting blong bodi blong yu, olsem wasem;
+- yu yusum alkol o ol drag wrong, inkludim ol medisin we dokta i givim.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) i addim ol saen olsem yu no wantem bilif long disiz, kros long man we yu lukaotem ("hemi jes stubborn"), wari long fiuja, hard blong tingting gud, mo ol helt trabol we i tekem plante strong long yu. Hemi talem se yu mas toktok wetem dokta blong yu sipos ol saen olsem i kamap oltaem.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA i talem se yu no mas wet kasem taem we yu fulap long hevi. Luk ol saen blong yu long ol stej blong hem, mo mekem samting long hem.
 
-## What can I do today, in five minutes?
+## Wanem samting mi save duim tede, long faev minit?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Ol smol brek i gat valiu. Nogat long ol ya i save rimuvum bon-aot, be oli save helpem yu blong yu pasem wan hard aftenun.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Go aotsaet.** Sidaon long vefanda o wakabaot i go long mailbox taem man o woman we yu lukaotem i stap seif mo i stap kwaet.
+- **Bretem slo.** Bretem sam taem slo-slo bifo yu ansarem wan hard kwestin. Yu save sharem wan [Calm Breathing](/games/calm-breathing/) brek wetem man o woman we yu lukaotem, tu.
+- **Dring wota mo kakae samting.** Hemi isi blong fogetem ol kakae blong yu.
+- **Tekstem wan fren.** No blong askem nating, jes blong konekt.
+- **Talem wan gud samting long yu seleva.** [Gaed blong NIA long lukaotem yu seleva](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) i sagest ol tok olsem "Mi duim wanem mi save duim," "Mi no perfect, mo hemi oraet," mo "Mi bae enjoyem ol taem we mifala stap wetem long pis."
 
-## What is respite care, and how do I get it?
+## Wanem ret taem keya, mo hao nao mi save kasem hem?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Ret taem keya hemi keya blong sotfala taem long man o woman we yu lukaotem, blong yu save ret. Pej blong NIA [long ret taem keya](https://www.nia.nih.gov/health/caregiving/what-respite-care) i eksplenem se hemi save stap from sam aoa to sam wik, mo hemi save kamap long hom, long wan helt keya fasiliti o long wan adult day care senta.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) i diskraesem ol komon kaen:
 
-| Type | What it is |
+| Kaen | Wanem hemi |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Help long hom | Wan fren, relativ, volantia o wan pei companion o aide i kam long hom |
+| Adult day senta | Ol plan blong aktiviti olsem musik mo at long wan seif grup; transpot mo kakae oli ofen givim |
+| Naet o sotfala stei | Wan long-term keya komuniti i lukaotem man o woman long wan naet, sam dei o sam wik |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Hu i peim?** Olsem NIA i talem, ret blong famili, fren o volantia i save no kostem nating. Ol professinal sevis oli jajem long aoa o dei. Long man o woman we i stap resivim hospice keya, Medicare i kavremem plante long kost blong faev dei we i stap kontinu blong ret long wan hospital o wan skilled nursing facility. Medicaid i save helpem. Plante private helt insurance i no kavremem ret, be sam long-term care insurance plan i save.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Tip:** Alzheimer's Association i sagest se yu traem ol ret provaeda long taem we i no wan emergensi, blong oli redi sipos yu nid helpem long wan kwiktaem.
 
-## Where can I find help near me?
+## Wea nao mi save faenem helpem klosap long mi?
 
-Several free US services can point you to local help.
+Plante fri sevis long US i save pointem yu long ol lokol helpem.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) i fri mo konfidensol, i gat ol man i wok long 24 haoa evri dei long wan yia, wetem helpem long moa we 200 langwis, tru long ol staff we i save tu langwis o long ol interpreter. Dialem 711 blong relay sevis. Yu save toktok long ol jenis long bihevia, stress blong keya, ret opsen, ol lokol program mo moa, mo askem blong gat wan longfala toktok wetem wan care konsaltant. Ol staff oli no givim medikol adveis.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), wan pablik sevis blong Administration for Community Living, i konektem yu wetem sevis blong ol olfala man mo woman mo famili blong olgeta. Yu save kolem, tekstem, jat long ol-lain o imel ol trenem staff, o sej long ples. Hemi save pointem yu long Area Agency on Aging blong yu.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) i helpem yu blong faenem ret provaeda long stet, mo i sagest blong kontakem State Respite Coalition o Lifespan Respite program blong stet blong yu fastaem sipos stet blong yu i gat hem. ARCH i talem se hemi no jekem provaeda, so yu mas jekem seleva ol eksperiens mo bakgraon blong olgeta.
 
-## How do I find a support group?
+## Hao nao mi save faenem wan grup blong sapot?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Askem long Helpline o lukim long internet ol grup klosap long yu. Alzheimer's Association [i ranem ol grup blong sapot](https://www.alz.org/help-support/community/support-groups) blong ol man we i lukaotem mo ol man o woman we i gat dementia, long fes-tufes mo long laen, we ol trenem fasilitetea i lidim. Plante ples oli givim tu ol spesel grup, olsem blong ol adult keyga mo blong ol man o woman we i gat younger-onset o early-stage Alzheimer's. Hemi tu i ranem ALZConnected, wan fri komuniti long laen we ol keyga i sherem advaes.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Ol grup blong sapot i save kamap wan ples blong talem bigfala hevi wetem no jajem, kasem praktikal tips from ol man we oli bin stap long sem sitiueson, mo filim yu no stap lonli. Sipos fas grup i no fit long yu, traem narafala.
 
-## How do I ask family and friends for help?
+## Hao nao mi askem famili mo fren blong helpem?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Talem klia wanem yu nid. Plante man oli wantem helpem be oli no save wanem blong ofarem. NIA i sagest:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Mekem wan lis** blong ol wok we ol narafala man i save tekem, mo letem man oli jusum.
+- **Stat smol** sipos askem i hard long yu.
+- **Mekem wok i fit wetem man.** Kasin we i laekem kukum i save brengem dinna long Tosde, neigba we i gud long fom i helpem long pepa wok.
+- **Tekstem o imelem** sipos i hard blong askem fes long fes.
+- **Praktisim wan ansa** long taem we sam man i ofarem: "Tangkyu long askem mi. Hemi ol samting we yu save duim."
+- **Expektem sam nogat** mo traem no tekem hemi tumas long yu.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Ol narafala aedia: askem wan man blong stap wetem man o woman we yu lukaotem wan aftenun long wan wik, tekem hem long wan smol trip, o visitim mo pleim wan gem togeta. [Gaed blong pleim togeta](/caregiving/how-to-play-together/) hemi isi blong sherem wetem ol visita.
 
-## What if something happened to me?
+## Wanem sapos wan samting i hapen long mi?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Mekem wan smol bakap plan naoia. NIA i sagest blong disaed wetem famili o klos fren we bae i stap blong lukaotem, mo blong kipim wan buk we i gat ol emergensi namba, medisin, tips blong bihevia we i wok, mo ol aktiviti we i fevrit. Alzheimer's Association i sagest tu blong kipim ol medikol kontakt blong man o woman we yu lukaotem mo wan medisin lis we i stap rait i isi blong faenem.
 
-## When should I get professional or urgent help?
+## Wanem taem mi mas kasem professinal o emergensi helpem?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Toktok wetem dokta blong yu sipos ol stres saen i kamap oltaem, sipos yu filim yu sed, o sipos yu stap hard blong kavremem. Talem long dokta blong yu se yu wan keyga. NIA i talem se ol kawnsela mo ol sosol woka oli save helpem long ol hevi filing mo long plan, mo se Medicare, Medicaid mo sam private insurance i save kavremem sam kost blong helt blong tingting.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Sipos yu filim yu stap long wan hevi taem o yu gat tingting blong skaremaot yu seleva, kolem o tekstem 988 blong kasem [988 Suicide & Crisis Lifeline](https://988lifeline.org/), i fri mo i opem 24/7. Sipos eniwan i stap long wan danger we i kam kwiktaem, kolem namba emergensi blong ples blong yu.
 
-## Can shared activities give me a break too?
+## Ken ol samting we yufala i sheremap i givim mi brek tu?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Sam taem, yes. Wan kwaet aktiviti we yufala both i laekem i save kamap wan naesfala pat blong dei long yu olsem long man o woman we yu lukaotem: listenem ol olfala song, lukim ol fotu, o pleim wan gem olsem [Conversation Cards](/games/conversation-cards/) we i no nidim ol rait ansa. Sipos man o woman we yu lukaotem i laekem kampani, wan grup sesen wetem [Picture Bingo](/games/picture-bingo/) long wan senior senta o wan adult day program i save givim yu wan aua blong ret. Lukim [ol aktiviti blong care home grup](/activities/care-home-groups/) blong ol aedia.

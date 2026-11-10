@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Kas dementsust saab ennetada? Mida uuringud ütlevad"
+seoTitle: "Kas dementsust saab ennetada? Uuringute andmed"
+description: "Mida 2024. aasta Lanceti komisjon ja suuremad uuringud leidsid dementsuse riski vähendamise kohta, mida nad ei leidnud, ning millest arstiga rääkida."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Keegi ei saa lubada dementsuse ennetamist. 2024. aasta Lanceti komisjon hindas,
+  et ligi pooled maailma dementsuse juhtudest on seotud 14 riskiteguriga, mida
+  võib olla võimalik muuta, näiteks kõrge vererõhk, kuulmislangus ja vähene
+  liikumine. Uuringud näitavad väikest mõju mõtlemistestidele, kuid mitte tõendit
+  selle kohta, et dementsuse juhtumeid oleks vähem. Paljudel inimestel, kes teevad
+  kõik „õigesti”, tekib dementsus siiski ning see ei ole kellegi süü.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024. aasta Lanceti komisjon seostas umbes 45% maailma dementsuse juhtudest 14 potentsiaalselt muudetava riskiteguriga. See on rahvastiku tasandi hinnang, mitte isiklik lubadus."
+  - "Riski vähendamine tähendab tõenäosuse langetamist kogu rahvastikus. See ei tähenda, et üks inimene saab dementsust kindlasti vältida."
+  - "Suured uuringud, nagu FINGER, US POINTER ja SPRINT MIND, leidsid väikest kasu mõtlemistestide või kerge kognitiivse häire osas, kuid ükski neist ei tõestanud, et elustiiliprogramm ennetab dementsust."
+  - "Vanus on Alzheimeri tõve suurim teadaolev riskitegur ja seda ei saa muuta. Paljudel tervislike harjumustega inimestel tekib dementsus siiski."
+  - "Kõige sagedamini uuritud samme, nagu kõrge vererõhu ravi, kuuldeaparaatide kasutamine ja aktiivsena püsimine, tasub arstiga arutada, sest need aitavad tervist ka muul viisil."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Kas dementsust saab ennetada?"
+    a: "Ükski inimene ei saa dementsust tõestatud viisil ennetada. Uuringud viitavad sellele, et teatud riskide, näiteks kõrge vererõhu, ravimata kuulmislanguse ja suitsetamise, vähendamine võib rahvastikus dementsuse tõenäosust langetada või selle algust edasi lükata. Need on tõenäosused, mitte lubadused."
+  - q: "Mida tähendab Lanceti komisjoni 45% näitaja?"
+    a: "2024. aasta Lanceti komisjon hindas, et umbes 45% maailma dementsuse juhtudest on seotud 14 riskiteguriga, mida võiks teoreetiliselt muuta. Hinnang eeldab, et need tegurid põhjustavad dementsust, ning autorid märgivad, et mõned seosed võivad olla ainult osaliselt põhjuslikud. See kirjeldab tervet rahvastikku ega näita ühe inimese isiklikku riski."
+  - q: "Kui mu vanemal oli tervislik eluviis, miks tal siis dementsus tekkis?"
+    a: "Vanus, geenid ja paljud tegurid, mida keegi ei saa kontrollida, mängivad dementsuse puhul suurt rolli. Lanceti komisjoni autorid märgivad, et riski vähendamine rahvastikus ei taga, et üks inimene suudab dementsust vältida. Diagnoos ei ole märk sellest, et keegi oleks milleski läbi kukkunud."
+  - q: "Kas pärast 65. eluaastat on dementsuse riski vähendamiseks liiga hilja?"
+    a: "Lanceti komisjoni sõnul ei ole riski vähendamiseks kunagi liiga vara ega liiga hilja, kuigi suur osa tõendusmaterjalist puudutab keskeiga. Kuulmis- ja nägemisprobleemide ravi, aktiivsena püsimine ning inimestega suhtlemine on hilisemas eas uuritud sammud. Rääkige arstiga, mis sobib teie tervisega."
+  - q: "Kas ajumängud või erilised toitumisviisid ennetavad dementsust?"
+    a: "Ükski mäng, toit, toidulisand ega toitumisviis ei ole dementsust tõestatult ennetanud. Kolmeaastane uuring MIND-toitumise kohta ei leidnud mõtlemises olulist erinevust võrreldes kontrolltoitumisega ning kaubanduslikel ajutreeningu rakendustel ei ole näidatud uurimustes leitud mõju."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,145 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Kui hoolitsete kellegi eest, kellel on dementsus, või olete näinud, kuidas vanem sellega elab, olete tõenäoliselt mõelnud, kas seda oleks saanud peatada ja kas saate enda puhul selle tekkimist vältida. Sellel lehel on kirjas, mida uuringud tegelikult ütlevad, lihtsas keeles. Lühike vastus: keegi ei saa lubada dementsuse ennetamist, kuid uuringud viitavad sellele, et mõningaid riske saab vähendada ning et nende vähendamine kogu rahvastikus võib tähendada, et vähem inimesi haigestub dementsusse või haigestub hiljem.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+See on üldine teave, mitte meditsiiniline nõuanne. Palun lugege meie
+[meditsiinilist lahtiütlust](/medical-disclaimer/) ja rääkige oma tervisest arstiga.
 
-## Can dementia be prevented?
+## Kas dementsust saab ennetada?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Ükski inimene ei saa dementsust tõestatud viisil ennetada. Riiklik Vananemise Instituut (NIA) ütleb, et kuigi
+[miski ei ole veel tõestanud, et Alzheimeri tõbe saab ennetada](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+on teadlased leidnud paljutõotavaid suundi ja õpivad, mis võib toimida ja mis mitte.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Uuringud näitavad siiski, et teatud terviseseisundid ja harjumused on seotud suurema dementsuse tõenäosusega. Kui need riskid on kogu rahvastikus madalamad, võib vähem inimesi haigestuda dementsusse või haigestuda hilisemas eas. See on väga erinev lubadusest.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Üks lootustandev märk: 2024. aasta Lanceti komisjon teatas, et mõnes kõrge sissetulekuga riigis, sealhulgas USA-s ja Suurbritannias, on vanemate inimeste seas dementsusega inimeste osakaal langenud. Autorite arvates on see tõenäoliselt osaliselt tingitud paremast haridusest, paremast tervishoiust ja väiksemast veresoonkahjustusest kogu elu jooksul, nagu selgitab
+[University College Londoni kokkuvõte aruandest](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Mida leidis 2024. aasta Lanceti komisjon?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lanceti komisjon dementsuse ennetamise, sekkumise ja hoolduse teemal on 27 dementsuseuurijast koosnev rühm, kes vaatab tõendusmaterjali iga paari aasta tagant uuesti läbi. Nende 2024. aasta aruanne nimetas **14 riskitegurit**, mida võib olla võimalik muuta, ja hindas, et need moodustavad kokku **ligi poole (umbes 45%) maailma dementsuse juhtudest**. Autorite sõnul võiks neid juhtumeid *teoreetiliselt* ennetada või edasi lükata, kui riskid eemaldataks
+([2024. aasta Lanceti komisjoni aruanne](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 tegurit, rühmitatuna eluperioodi järgi, kus tõendusmaterjal on kõige tugevam:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Varajane eluiga:** vähem haridust.
+- **Keskeiga (ligikaudu 40–65 aastat):** kuulmislangus, kõrge LDL-kolesterool („halb” kolesterool), depressioon, peavigastus, vähene kehaline aktiivsus, diabeet, suitsetamine, kõrge vererõhk, ülekaal ja liigne alkoholi tarbimine.
+- **Hilisem eluiga:** sotsiaalne eraldatus, õhusaaste ja ravimata nägemiskaotus.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Kaks 2024. aastal lisatud tegurit olid kõrge LDL-kolesterool ja ravimata nägemiskaotus. Suurima juhtumite osakaaluga seotud tegurid olid kuulmislangus ja kõrge LDL-kolesterool (mõlemad umbes 7%), millele järgnesid vähem haridust ja sotsiaalne eraldatus (mõlemad umbes 5%).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Meie [riskitegurite juhend](/brain-health/risk-factors/) käsitleb kõiki 14 tegurit tabelis, tuues välja, millega uuringud neid seovad ja mida saate teha.
 
-### What the 45% figure does not mean
+### Mida 45% näitaja ei tähenda
 
-It is easy to misread this number, so it helps to be precise:
+Seda numbrit on lihtne valesti mõista, seega tasub olla täpne:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **See on rahvastiku tasandi hinnang.** See kirjeldab dementsuse juhtumeid kogu maailmas, mitte teie või teie vanema tõenäosust.
+- **See eeldab põhjuslikku seost.** Autorid ütlevad, et lisasid ainult veenvate tõenditega riskitegurid, kuid mõned seosed võivad olla ainult osaliselt põhjuslikud. Näiteks võib hilisemas eas depressioon olla mõnikord pigem dementsuse varajane sümptom kui põhjus.
+- **See ei anna ühe inimese kohta mingeid tagatisi.** UCL-i kokkuvõttes märgitakse, et riski vähendamine toimib rahvastiku tasandil ega taga, et üks inimene suudab dementsust vältida.
+- **Teist poolt need tegurid ei selgita.** Ülejäänud osa moodustavad vanus, geenid ja põhjused, mida teadlased veel ei mõista.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Mis vahe on „riski vähendamisel” ja „ennetamisel”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Riski vähendamine** tähendab tõenäosuse langetamist. Kui suur rühm inimesi alandab oma vererõhku, võib paljude aastate jooksul neist vähemal tekkida dementsus, kui muidu oleks tekkinud. Mõnel inimesel selles rühmas tekib see siiski.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Ennetamine** viitab sellele, et midagi ei juhtu üldse. Dementsuse puhul ei saa uuringud seda tänapäeval kellelegi lubada.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Teadlased räägivad ka **edasilükkamisest**. Lanceti komisjon toob välja uusi tõendeid selle kohta, et riski vähendamine võib dementsuse algust edasi lükata ja lühendada aega, mil inimene elab halva tervisega. Isegi mõne aasta võrra edasilükkamine võib inimese ja tema pere jaoks väga palju tähendada.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Sellel saidil kasutame meelega väljendeid „riski vähendamine” ja „on seotud”. Kui näete toodet, toidulisandit või programmi, mis lubab „Alzheimeri tõbe ennetada”, suhtuge sellesse ettevaatlikult. NIA soovitab enne mis tahes tableti või ravimeetodi proovimist, mis lubab Alzheimeri tõbe ennetada, arstiga nõu pidada, sest sellised tooted võivad olla ohtlikud, raha raiskamine või mõlemat.
 
-## What have large trials found?
+## Mida on suured uuringud leidnud?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Vaatlusuuringud (mis jälgivad, mis inimestega aja jooksul juhtub) võivad näidata seoseid. Juhuslikustatud uuringud, kus inimesed jaotatakse juhu teel programmi või võrdlusrühma, on tugevam viis seda kontrollida. Siin on toodud, mida leidsid mõned kõige tuntumad uuringud.
 
-### FINGER (Finland)
+### FINGER (Soome)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER-uuringusse kaasati 1260 täiskasvanut vanuses 60–77, kellel oli suurem dementsuse risk. Pooled said kaheaastase programmi, mis hõlmas toitumisnõustamist, liikumist, arvutipõhiseid ajuharjutusi ning südame ja veresoonte tervise kontrolli; teine pool sai üldist tervisenõu. Programmirühm sai mõtlemistestide kogumitulemustes veidi paremaid tulemusi – erinevus oli väike, kuid statistiliselt oluline
+([FINGER-uuring ajakirjas The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Uuring mõõtis testitulemusi, mitte dementsuse diagnoose.
 
-### US POINTER (United States)
+### US POINTER (Ameerika Ühendriigid)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER-uuringusse kaasati 2111 täiskasvanut vanuses 60–79, kes liikusid vähe, toitusid vähem tervislikult ja kellel oli muid riskitegureid. Mõlemat rühma julgustati olema kehaliselt ja vaimselt aktiivsem, toituma paremini, suhtlema teistega ja jälgima südame tervist. Üks rühm sai struktureeritud juhendatud programmi, teine juhendas end ise. Kahe aasta jooksul paranesid mõtlemistestide tulemused **mõlemas** rühmas ja veidi rohkem struktureeritud rühmas
+([US POINTER-uuring ajakirjas JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Autorid ütlevad, et on vaja rohkem järelhindamist, et teada saada, kas see erinevus on igapäevaelus oluline. Kuna uuringus ei olnud „ära tee midagi” rühma, ei saa selle põhjal öelda, kui palju kumbki programm aitas võrreldes sellega, et midagi ei muudeta.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (vererõhk)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND uuris 9361 USA täiskasvanut vanuses 50 ja vanemad, kellel oli kõrge vererõhk. Nad jaotati madalama vererõhu eesmärgiga (ülemine number alla 120) või tavapärase eesmärgiga (alla 140) rühma. Madalam eesmärk vähendas oluliselt **kerget kognitiivset häiret**, mis on mälu- ja mõtlemisprobleemide staadium, mis võib dementsusele eelneda. **Tõenäolise dementsuse** puhul oli madalama eesmärgiga rühmas vähem juhtumeid, kuid erinevus ei olnud statistiliselt oluline. Uuring lõpetati varem ja dementsuse juhtumeid oli oodatust vähem, mistõttu võis see olla liiga väike, et sellele küsimusele vastata
+([SPRINT MIND ajakirjas JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Mida ülevaated kokku annavad
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021. aasta Cochrane’i ülevaade koondas üheksa suurt uuringut programmide kohta, mis käsitlevad korraga mitut riski ja hõlmasid enam kui 18 000 inimest. See leidis mõtlemistestides väikest kasu, kuid **ei leidnud selget erinevust selles, kui paljudel inimestel tekkis dementsus** kahes uuringus, mis seda mõõtsid
+([Cochrane’i ülevaade mitme valdkonna sekkumistest](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Riiklike Teaduste, Inseneriteaduste ja Meditsiini Akadeemiate 2017. aasta ülevaade, mida NIA on kokku võtnud, leidis „julgustavaid, kuid ebaselgeid” tõendeid kolme lähenemisviisi kohta: kõrge vererõhu kontrollimine, kehalise aktiivsuse suurendamine ja kognitiivne treening.
 
-## Does it matter when you start?
+## Kas on oluline, millal alustada?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lanceti komisjoni soovitus on riske vähendada nii vara kui võimalik ja hoida neid madalal nii kaua kui võimalik: „mida varem, seda parem” ja „mida kauem, seda parem”. Samuti öeldakse, et riski vähendamiseks ei ole kunagi liiga vara ega liiga hilja. Suur osa tõendusmaterjalist puudutab keskeiga, ligikaudu 40–65 aastat, kuid mõned tegurid, nagu nägemiskaotus ja sotsiaalne eraldatus, on hilisema ea riskid, mille puhul on tegutsemisel siiski mõte.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Aruandes öeldakse, et nüüd on tugevamaid tõendeid selle kohta, et pikem kokkupuude riskiga avaldab suuremat mõju. Näiteks keskeas algav diabeet näib olevat olulisem kui hiljem algav diabeet.
 
-## Is dementia risk the same for everyone?
+## Kas dementsuse risk on kõigil ühesugune?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Ei. Komisjon leidis, et madala ja keskmise sissetulekuga riikides inimestel, vähemusrühmadesse kuuluvatel inimestel ja väiksema sissetulekuga inimestel on sageli rohkem neid riske, mistõttu dementsus tekib neil tavaliselt nooremas eas. Paljud riskid on seotud oludega, mida inimesed ise ei valinud, näiteks selle koolihariduse kvaliteediga, mille nad lapsena said, õhuga, kus nad elavad, ning sellega, kas tervislik toit on taskukohane ja lähedal.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Seetõttu on komisjoni soovitused suunatud nii valitsustele kui ka üksikisikutele: hea haridus kõigile lastele, puhtam õhk, meetmed suitsetamise vähendamiseks, vähem suhkrut ja soola kauplustes ja restoranides müüdavas toidus ning kuuldeaparaadid kõigile, kes neid vajavad. Üksikisiku pingutus on oluline, kuid oluline on ka keskkond, milles inimesed elavad. See on veel üks põhjus, miks ei tohiks kedagi diagnoosi pärast süüdistada.
 
-## What are the honest limits of this research?
+## Millised on selle uuringu ausad piirangud?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Dementsuse kujunemine võtab aastakümneid**, kuid enamik uuringuid kestab kaks kuni viis aastat. Dementsuse enda, mitte ainult testitulemuste mõõtmiseks on vaja väga pikki ja väga suuri uuringuid.
+- **Enamik uuringuid mõõdab mõtlemisteste.** Väike paranemine testis ei tähenda tingimata, et vähem inimesi haigestub dementsusse või et igapäevaelu muutub kergemaks.
+- **Vabatahtlikud on sageli tervemad** ja haritumad kui üldine elanikkond. Lanceti komisjon märgib, et enamik tõendeid pärineb endiselt kõrge sissetulekuga riikidest ning vähemusrühmad on alaesindatud.
+- **Mõned seosed toimivad mõlemas suunas.** Vähem liikumine või vähem suhtlemine võib olla pigem dementsuse varajane tagajärg kui ainult põhjus.
+- **Toitumisuuringud on seni olnud pettumust valmistavad.** Kolmeaastane uuring MIND-toitumise kohta ei leidnud mõtlemises olulist erinevust võrreldes kontrolltoitumisega. Vaadake meie [toitumise juhendit](/brain-health/diet/).
+- **Ajumängud ei ole dementsust tõestatult ennetanud.** Vaadake meie juhendit teemal [ajumängud ja dementsus](/brain-health/brain-games/).
+- **Paastumise kohta on inimesi puudutavaid tõendeid väga vähe** ning see võib vanemate inimeste jaoks olla ohtlik. Vaadake meie [paastumise juhendit](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Kui keegi tegi kõik „õigesti”, miks tal siis ikkagi dementsus tekkis?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Sest dementsus ei ole lihtsalt valikute tulemus. NIA ütleb, et
+[vanus on Alzheimeri tõve suurim teadaolev riskitegur](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)
+ja seda ei saa keegi muuta. Geenidel on oma osa. Ja teadlased ei mõista veel täielikult, mis põhjustab Alzheimeri tõbe enamikul inimestel. Isegi kui kõik 14 riskitegurit eemaldataks, jääb Lanceti komisjoni enda hinnangu järgi rohkem kui pool juhtudest selgitamata.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Seega, kui hoolitsete kellegi eest, kes liikus, sõi tervislikult, ei suitsetanud kunagi ja kellel tekkis siiski dementsus, siis ei teinud tema ega teie midagi valesti. Kui teil endal on dementsus, ei ole see teie süü. Süütunne on peredes sage, kuid see pole põhjendatud. Praegu on olulised mugavus, lähedus ja head hetked ning meie [tegevusideed](/activities/ideas/) ja
+[juhend hooldajale enda toetamiseks](/caregiving/caregiver-self-care/) on hea koht alustamiseks.
 
-## What steps can you talk over with a doctor?
+## Milliseid samme tasub arstiga arutada?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Need on kõige sagedamini uuritud valdkonnad. Neid tasub kontrollvisiidil tõstatada, sest enamik neist aitab ka südame tervist, meeleolu ja iseseisvust, olenemata sellest, milline on nende mõju dementsusele.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Vererõhk.** Küsige, millised on teie näitajad ja milline eesmärk teile sobib. Lanceti komisjon soovitab alates umbes 40. eluaastast seada eesmärgiks ülemine näitaja 130 või madalam, kuid vanema inimese jaoks õige sihttase sõltub tema üldisest tervisest.
+2. **Kuulmine.** Paluge kuulmistesti ja küsige, kas kuuldeaparaadid võiksid aidata. Meie
+   [kuulmise juhend](/brain-health/hearing/) selgitab uuringuid.
+3. **Nägemine.** Käige regulaarselt silmaarsti juures ja küsige, kas selliseid probleeme nagu katarakt saab ravida.
+4. **Kolesterool.** Küsige, kas teie LDL-kolesterooli tasub kontrollida ja kas midagi tuleks muuta.
+5. **Veresuhkur.** Kui teil on diabeet, küsige, kuidas seda ohutult hallata.
+6. **Meeleolu.** Depressioon on sage ja seda saab ravida. Rääkige arstile, kui olete end rohkem kui paari nädala jooksul kurvana tundnud või kaotanud huvi asjade vastu.
+7. **Suitsetamine ja alkohol.** Küsige abi suitsetamisest loobumiseks ja alkoholi ohutute koguste kohta.
+8. **Liikumine.** Küsige, milline liikumine on teie jaoks ohutu. Meie
+   [liikumise juhendis](/brain-health/exercise/) on ideid.
+9. **Pea kaitsmine.** Kandke rattasõidul ja kontaktspordialadel kiivrit ning küsige kukkumiste ennetamise kohta.
+10. **Suhtlemine.** Aeg teiste inimestega on osa tervislikust elust. Vaadake meie juhendit [sotsiaalse suhtluse](/brain-health/social-connection/) ja ka
+    [une](/brain-health/sleep/) kohta.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Enne ravimite, toitumise, toidulisandite, paastumise või liikumise muutmist rääkige esmalt arstiga, eriti kui teil on südamehaigus, diabeet, kukkumiste anamnees või kui teil on juba dementsus.
 
-## Talk with a doctor
+## Rääkige arstiga
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Kui märkate mälus või mõtlemises muudatusi, mis teid muretsevad – enda või kellegi teise puhul –, tehke vastuvõtuaeg. NIA märgib, et
+[mäluprobleemidel võivad olla ka muud põhjused](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+näiteks ravimite kõrvaltoimed, kilpnäärmeprobleemid, depressioon või B12-vitamiini puudus, ning mõned neist probleemidest kaovad, kui põhjus saab ravi. Meie
+[hoiatusmärkide juhend](/brain-health/warning-signs/) selgitab, millele tähelepanu pöörata.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Vajalik on kiire abi** äkiliste muutuste korral: äkki tekkinud segasus, nõrkus või tuimus ühel kehapoolel, kõneraskused või tugev peavalu võivad olla insuldi või muu hädaolukorra tunnused. Helistage numbril 112.
 
-## Where Golden Moments fits
+## Kuidas sobib siia Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments pakub lihtsaid ühiseid tegevusi, näiteks
+[vestluskaarte](/games/conversation-cards/),
+[pildibingot](/games/picture-bingo/) ja
+[rahulikku hingamispausi](/games/calm-breathing/). Need on mõeldud rõõmuks ja koos veedetud ajaks. Need ei ole ravi ega enneta ega aeglusta dementsust.

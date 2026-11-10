@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Mälumängud dementsusega eakatele: leebed ja testivabad"
+seoTitle: "Parimad mälumängud dementsuse korral, leebed ideed"
+description: "Sobitamis-, pildi- ja kaardimängud dementsusega eakatele ning nõuanded, kuidas mängida nii, et keegi ei tunneks end proovile panduna."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Mälumängud sobivad dementsusega eakatele kõige paremini siis, kui need ei
+  nõua mälu pingutamist. Mängige sobitusmänge piltidega ülespoole, kasutage
+  nelja kuni kuut kaarti, mängige meeskonnana ja jätke punktiarvestus kõrvale.
+  Pildi äratundmine on lihtsam kui pildi meenutamine, seega valige mänge, kus
+  kõik jääb nähtavale. Eesmärk on rõõm, mitte tulemus.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Tavalised mälumängud peidavad kaardid, mis paneb proovile just seda, mida dementsus raskemaks teeb. Jätke pildid hoopis ülespoole."
+  - "Vähem tükke, suuremad pildid ja üks valik korraga hoiavad mängu meeldivana."
+  - "Mängige meeskonnana, aidake kordamööda ja loobuge punktiarvestusest. Kedagi ei tohiks proovile panna."
+  - "Ühegi mälumängu kohta ei ole näidatud, et see raviks, aeglustaks või peataks dementsust. Mängige, sest see on meeldiv koosveedetud aeg."
+  - "Lõpetage siis, kui on veel lõbus. Piltidest rääkimine on samuti hea tulemus."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Milline mälumäng sobib dementsusega inimesele?"
+    a: "Sobitusmäng suurte, tuttavate piltidega, mis võivad jääda ülespoole, näiteks Picture pairs nelja või kuue kaardiga. Pildi paari leidmine, kui mõlemad on näha, pakub rahulolu ilma lühimälu proovile panemata. Find the same on veelgi lihtsam: üks pilt, millele tuleb leida vaste kahest kuni neljast valikust."
+  - q: "Kas mälumängud aitavad dementsuse korral?"
+    a: "Ühegi mälumängu kohta ei ole näidatud, et see raviks, aeglustaks või peataks dementsust; Cochrane'i ülevaade leidis, et arvutipõhise ajutreeningu tõendusmaterjal on liiga piiratud, et öelda, kas see ennetab dementsust. Mängud võivad siiski olla soe viis koos aega veeta. Valige need rõõmu ja seltskonna pärast."
+  - q: "Kas ma peaksin dementsusega inimesega mängima klassikalist mälumängu?"
+    a: "Varajases staadiumis naudivad mõned inimesed seda endiselt, eriti väikese kaartide arvuga. Kui kaartide asukoha meenutamine hakkab tekitama pettumust, keerake kaardid ülespoole ja otsige paarid lihtsalt koos üles. Nii säilib sobitamine, kuid kaob mälu proovile panemine."
+  - q: "Millised mälumängud sobivad eakatele rühmas?"
+    a: "Pildibingo ekraanil kuvatava juhendajaga, tuttavate vanasõnade lõpetamine koos ja vestluskaardid sobivad kõik rühmas mängimiseks. Mängige seni, kuni iga kaart on täis, ja vältige välja ütlemist, kes vastuse sai, et keegi ei tunneks end esile tõstetuna."
+  - q: "Kas eakatele on veebis tasuta mälumänge?"
+    a: "Jah. Selle saidi mängud, sealhulgas Picture pairs, Find the same, Photo pairs ja Picture puzzle, on tasuta, ei vaja registreerumist ja töötavad telefonides, tahvelarvutites ning arvutites. Ühelgi neist pole taimerit ega punktiarvestust."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Kui otsite „mälumänge eakatele“, on suurem osa leitust mõeldud inimestele, kes soovivad vaimset pingutust: peidetud kaardid, pöördloendus, tasemed ja punktid. Dementsusega inimese jaoks muudavad need omadused mängu proovikiviks just selles osas, mis on muutunud raskeks. Samu mänge saab mängida ka leebemal viisil. Sellel lehel näitame, kuidas seda teha, ja toome välja mängud, mis sobivad igas staadiumis.
 
-## Why do classic memory games frustrate people with dementia?
+## Miks tekitavad tavalised mälumängud dementsusega inimestes pettumust?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Sest need eeldavad uue teabe meeles pidamist, mida Alzheimeri tõbi, dementsuse kõige levinum põhjus, tavaliselt kõigepealt mõjutab. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ütleb, et Alzheimeri tõve kõige levinum varajane sümptom on raskus äsja õpitud teabe meenutamisel. Klassikalises mälumängus keerate kaks kaarti, peate meeles pidama, kus need olid, ja kasutama seda teadmist minut hiljem. See on uus teave, mida tuleb hoida meeles ja meenutada.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Lisage taimer, punktiarvestus või vale vastuse heli, ja inimene saab meeldetuletuse sellest, mida ta ei suuda, inimese juuresolekul, keda ta armastab. Paljud inimesed lõpetavad vaikselt mängimise.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Millegi äratundmine, mida saate näha, on teistsugune ja tavaliselt lihtsam ülesanne. Teise teetassi osutamine, kui mõlemad on näha, on meeldiv. Seega on nipiks see, et sobitamine jääb alles, aga mälu proovile panemine kaob.
 
-## How do you make a memory game gentle?
+## Kuidas muuta mälumäng leebeks?
 
-These adjustments work for card games, board games and games on a screen.
+Need kohandused sobivad kaardimängude, lauamängude ja ekraanimängude jaoks.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Jätke pildid ülespoole.** Nähtavate piltide sobitamine on ikkagi tõeline ja sageli rahuldust pakkuv mäng.
+2. **Kasutage vähem tükke.** Alustage kahe või kolme paariga. Lisage rohkem alles siis, kui see tundub liiga lihtne ja inimene soovib rohkem.
+3. **Valige suured, tuttavad ja täiskasvanutele sobivad pildid.** Teetass, päevalill, purjekas. Mitte multifilmitegelased ega segased stseenid.
+4. **Mängige meeskonnana.** „Otsime koos koerad üles“ selle asemel, et öelda „sinu kord“. Osutage ja aidake kordamööda.
+5. **Loobuge punktiarvestusest.** Keegi ei pea võitma. Kui keegi küsib, piisab lihtsast „me saime hakkama“.
+6. **Ärge kiirustage kella vastu.** Ärge kasutage taimereid ega kiirustage käikude vahel.
+7. **Rääkige piltidest.** „Vaata seda paati. Kas sa oled kunagi purjetanud?“ Vestlus on sageli parim osa.
+8. **Lõpetage heas kohas.** Lõpetage pärast sobituse leidmist, siis kui on veel meeldiv.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) annab sama põhimõtte üldise nõuandena: sobitage tegevus sellega, mida inimene suudab teha, jälgige pettumuse märke ja veenduge, et tal oleks edu tunne.
 
-## Gentle memory and matching games to try
+## Leebed mälu- ja sobitusmängud, mida proovida
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (sobitamine nähtavate piltidega)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) on sobitusmäng suurte piltidega ja 4–12 kaardiga. Pildid võivad jääda nähtavale, nii et mängus on eesmärk leida paarilised, mitte meenutada, kus need olid. Alustage nelja kaardiga. Kui varajases staadiumis inimene naudib veidi rohkem väljakutset, võite lülituda režiimile **Peidetud pildid**, kuid minge tagasi nähtavate piltide juurde kohe, kui mäng lakkab lõbus olemast.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) näitab ülal ühte pilti ja all kahte kuni nelja valikut. Puudutage seda, mis sobib. See on saidi kõige lihtsam sobitusmäng ja sobib inimestele, kellele terve ruudustik tundub liiga kirju, sealhulgas paljudele hilisemates staadiumides, kui keegi on kõrval.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (perefotodega mälumäng)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) muudab teie valitud fotod sobitusmänguks: koer, aed, suvila järve ääres. Tuttavad näod ja kohad panevad sageli rohkem vestlema kui mis tahes tavaline pilt. Fotod jäävad teie brauserisse ja neid ei laadita kunagi üles.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) palub panna iga pildi õigesse korvi, näiteks kööki või aeda. Sortimine tugineb kauaaegsetele teadmistele sellest, kuidas maailm toimib, mitte lühimälule.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) lõikab pildi 4 või 9 tükiks. Puudutage kahte tükki, et neid vahetada, kuni pilt on terviklik. Tervikpilt jääb ekraanile abistavaks juhiseks.
 
-### Real cards on the table
+### Päris kaardid laual
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Te ei vaja ekraani. Võtke kahest kaardipakist või pildikaartide komplektist sobivad paarid. Pange need ülespoole kahte ritta ja otsige paarid koos üles. Hiljem võite nende asemel sortida värvi või masti järgi. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nimetab kaardi- ja lauamänge varajase staadiumi tegevuste hulgas.
 
-## Which memory games suit each stage?
+## Millised mälumängud sobivad igas staadiumis?
 
-Stages are loose labels. Go by what the person enjoys today.
+Staadiumid on ligikaudsed sildid. Lähtuge sellest, mis inimesele täna meeldib.
 
-| Stage | Games that often fit | How to set them up |
+| Staadium | Mängud, mis sageli sobivad | Kuidas neid seadistada |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Varajane | Picture pairs, Photo pairs, Picture puzzle 9 tükiga, tuttavad kaardimängud | Laske inimesel valida. Kaardid võivad pöörduda, kui talle see meeldib; loobuge punktiarvestusest, kui see teda häirib |
+| Keskmine | Picture pairs 4–6 ülespoole kaardiga, Find the same, Sort together | Pildid on alati nähtavad. Istuge kõrval ja aidake kordamööda |
+| Hiline | Find the same 2 valikuga, ühe suure pildi koos vaatamine | Väga lühidalt. Teie hoiate tahvelarvutit; inimene osutab või lihtsalt vaatab ja kuulab |
 
-## Do memory games help with dementia?
+## Kas mälumängud aitavad dementsuse korral?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ühegi mälumängu kohta ei ole näidatud, et see raviks, aeglustaks või peataks dementsust. [Cochrane'i ülevaade](https://pubmed.ncbi.nlm.nih.gov/30864747/) arvutipõhisest kognitiivsest treeningust kerge kognitiivse häirega inimeste seas leidis, et tõendusmaterjal on liiga piiratud, et öelda, kas see ennetab dementsust. Meie juhend [ajumängudest ja dementsusest](/brain-health/brain-games/) selgitab, mida uuringud näitavad ja mida mitte.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+See ei ole põhjus mängudest loobuda. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) soovitab keskenduda rõõmule, mitte saavutusele. Kümme minutit piltide sobitamist ja nende üle vestlemist võib olla päeva päris hea osa.
 
-## What about memory games for seniors without dementia?
+## Aga mälumängud eakatele, kellel ei ole dementsust?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Kui vanemal täiskasvanul, kellel ei ole mäluprobleeme, meeldib lahendada ajaga puslesid, koguda punkte ja mängida raskematel tasemetel, ei ole selles midagi halba. Ärge lihtsalt lootke, et see kaitseb dementsuse eest; ühegi mängu kohta ei ole seda näidatud. Ülal toodud leebed variandid sobivad hästi ka siis, kui koos mängivad eri põlvkonnad: dementsusega vanavanem ja väike lapselaps saavad pilte meeskonnana sobitada, ilma et kumbki tunneks end proovile panduna.
 
-## When should you stop or change the game?
+## Millal peaks mängu lõpetama või muutma?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Ohkamine, tahvelarvuti eemale lükkamine, laused „ma ei saa sellega hakkama“ või murelik ilme on kõik märgid, et tasuks mängu lihtsamaks muuta või lõpetada. Proovige vähem kaarte, keerake pildid ülespoole, vahetage mängu [Find the same](/games/find-the-same/) vastu või lihtsalt vaadake pilte ja vestelge. Kui inimene ei taha üldse mängida, on ka see sobiv. Meie juhendis [kuidas koos mängida](/caregiving/how-to-play-together/) on rohkem nõuandeid tempo ja abistamise kohta.

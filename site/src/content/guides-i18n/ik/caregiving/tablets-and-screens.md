@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Tablet-luuniḷḷu uqaluktuutimiḷḷu savaqatigiligaa iñuum dementia-ligmik"
+seoTitle: "Tablet-lu uqaluktuutilu savaqatigiligaa iñuum dementia-ligmik"
+description: "Maliguaqsiutit tablet-mik uqaluktuutimillu savaqatigiliġlugu iñuk dementia-lik: atausimik app-mik quliaqturlugu, aglaun nalunaitchukługu, tuququlugit tuhaqtitautit, akitutilaaŋitchuk home screen, niġiugun, ilisaqsiñiq."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Tablet-luuniḷḷu uqaluktuutimiḷḷu akitutilaaŋitchukługu aitchuunġatinŋaġmiñ.
+  Atausimik app-mik quliaqturlugu Guided Access-mik iPad-mi iPhone-miḷḷu
+  uvuŋaḷḷu app pinning-mik Android-mi, uvuŋaḷḷu atuġlugu Apple-m Assistive
+  Access-a akitutilaaŋitchuamun. Aglaun nalunaitchukługu, tuququlugit
+  tuhaqtitautit, ilisaġlugu apps-iññik ikitqusiq atausimi home screen-mi,
+  niġiugun savaaqatinŋaġmiñ, atuġlugu napaaqtit, kamasukkługitlu app-t
+  pitquraŋit. Atuġlugu ilikuuq, allaniklu atuutinik atuġiḷugu.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) app pinning-lu (Android) app atausiŋŋuam quliaqtuutigaa quliaqtuŋŋatinŋaġmiñ."
+  - "Apple-m Assistive Access-a akitutilaaŋitchuaq savaktuaq iñuŋnun isumaliqutimik apiġñaqtuqaqtunun."
+  - "Aglaun nalunaitchukługu tuhaqtitautit-lu tuququlugit, sunaŋŋitchuk aqpaksriġumiñ nagliktuġumiḷḷu."
+  - "Apps-iññik ikitqusiq ilisimasuŋnik atausimi home screen-mi iḷḷiuġuk, niġiugunlu savaaqatinŋaġmiñ."
+  - "Napaaqtit akuliutiviglu nuuŋŋitchuaq atuqtauniaqtuq nalunaġniaqtuqlu."
+  - "Kamakkit app-t pitquraŋit tuhaqtitautaiḷḷu: HIPAA-k uvva nalunaitchuiñŋasugiññagaa iḷisimanaq nalunġuamiññaq iḷisiman."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Qanuq nutqaqtitaksraġiga iñuk dementia-lik app-mik aniġumiñ iPad-miñ?"
+    a: "Ikipkaqługu Guided Access Settings > Accessibility > Guided Access-mi passcode-liḷḷu. App ikillugu, pingasunik avatqutlugu qulaani naaqtaq (uvuñaġlu Home naaqtaq iPad-ni utuqqatni), Start-lu avatqutlugu. iPad taamna app quliaqtuutigaa passcode-mik atiŋŋatinŋaġmiñ."
+  - q: "Qanuq Android tablet atausimik app-mik quliaqtaksraġiga?"
+    a: "Ikipkaqługu app pinning Settings app-mi, tamarmik Security-mi (ilaani Security & location-mi) > Advanced > App pinning-mi. Tavra app ikillugu, Overview ikillugu, qulaani app-m niġiugaa avatqutlugu Pin-lu avatqutlugu. PIN, pattern uvuŋaḷḷu password atuġniaġaatin quliaqtuŋŋatinŋaġmiñ."
+  - q: "Nakuuruva Guided Access atuġlugu iñuum nalunġuamiññami uqaluktuutimi?"
+    a: "Nakuurutiqaqtuq kamanałhaaqługu. Apple uqaqtuq Crash Detection anniuqłiqtuutit ikayuqtit-lu atuŋŋiḷḷutik Guided Access-m ikitpat. Iñuk uqaluktuutimiñik anniuqłiqtuutinut ququuqtuġumi, Guided Access atuġlugu iligni iḷḷutilaaq, uvuŋaḷḷu isumaliuġlugu Assistive Access."
+  - q: "Qavsiññik sivuniqpauruq nakuuruq iñuum dementia-ligmik screen-mik atuġniġa?"
+    a: "Nalunaitchuamik kisitchiññiqaqtuŋaiññaq. Sivuniqpat ikitqurat, atuqatigilugit, ilaliutillugit pisuġlutik, atuqtuaqłutik, savaaqatigilugit uqaqatigilugillu, nakuuruat aulaŋŋamiñ screen-mik kisimiññaq. Savaatigut nagliktuġumiŋ uvuŋaḷḷu allanik atuutinik nutqaqtiliġumiŋ, ikitqusiġmik atuġlugu."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tablet atuġniaqtuq nalunaitchuaq iġñiġnik, atuqtuanik, piŋasuutinillu akitutilaaŋitquranik atuqatigilugit. Nagliktuġniaqtuġmiḷḷu: avatqun nalupqisuq allaŋmun app-mun ikisiruq, tuhaqtitaut sakkuq, aglauk mikiruq, uvuŋaḷḷu screen taaqsiruq piŋasuutiqpaġmi. Iḷḷi akitutilaaŋitchuġuviuŋ amihuni taanna aaqqiksisuq.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Maliguaqsiutit ukuat atuġai iPhone-mi, iPad-mi, Android-miḷḷu iḷḷiqsimanŋat. Atqiit allanguqtautiginiaġait software-nik savaktuanik allanguqtiliġmiḷḷu, allasimaruŋ uvva takkuviuk, maliglugu Apple-m uvuŋaḷḷu Google-m savaatigut. Iḷḷi savaqatigiliŋatinŋaġmiñ, iñiqqun.
 
-## Should someone with dementia use a tablet or phone?
+## Atuġniaġaa tablet-luuniḷḷu uqaluktuutimiḷḷu iñuum dementia-ligmik?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Iñuum nalunġuamiññaanun maliġnaqtuq. Amihut iñuich quviasuġigaat tablet-mik atuġlugu ilaanik aquvitilugu, kisimiññaq atuġnaitchumiññak. Aullaqtillutit atuqatigilugu, atausimik app-mik ikitługu, sivuniqpauruamik. Quviasuutigiḷiġumiuk uqaqatigiġumiḷḷu, suli atuġluk. Nagliktugiḷiġumiuk, iġñiġvik makpigaaq, makpigaat aglakkaat, uvuŋaḷḷu atuqtuaq nakuuruasugniaqaa. [Makpigaat aglakkaat atuutit](/activities/printable/) allamik piksraq.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tablet tamarmik nakuuruasuq uqaluktuutimiñ: screen iġñiġillu angitqaurut, anniuqłiqtuutinullu ikayuqtuksraŋatŋuiññaq.
 
-## How do I lock a tablet or phone to one app?
+## Qanuq tablet-luuniḷḷu uqaluktuutimiḷḷu atausimik app-mik quliaqtaksraġiga?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Atuġlugu Guided Access iPhone-mi iPad-miḷḷu, uvuŋaḷḷu app pinning Android-mi. Malġuuk screen atausimi app-mi quliaqtuutigiik quliaqtuŋŋatinŋaġmiñ, avatqun uvuŋaḷḷu salikkuun allaŋmun ikisriññaitchuq.
 
-### iPad and iPhone: Guided Access
+### iPad iPhone-lu: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple-m maliguaqsiutai Guided Access-mik](https://support.apple.com/en-us/111795) maliġlugit:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Ikilugu **Settings**, avatqutlugu **Accessibility**, tavra avatqutlugu **Guided Access** ikipkaqługulu.
+2. **Passcode Settings**-mi, Guided Access passcode-mik iḷḷiuġuk. Face ID uvuŋaḷḷu Touch ID atuġniaqtugnigaa.
+3. Pisuġniġuvik: **Display Auto-Lock**-mi, sivuniqpauruq screen quliaqtuksraŋanik nalunaiġlugu, taaqsriññani piŋasuutiqpaġmi.
+4. App atuġumayavit ikillugu.
+5. Pingasunik avatqutlugu saniqpaŋa naaqtaq (iPhone-mi), qulaani naaqtaq (iPad-mi), uvuŋaḷḷu Home naaqtaq savaatigut utuqqatni.
+6. Pisuġniġuvik: avatiguk screen-mi iḷaŋi atuŋŋitchuksraŋanik. Avatqutlugu **Options** (uvuñaġlu **Session Settings**) niġiugun naaqtai nutqaqtitaksraġlugit uvuŋaḷḷu screen saliqsriññakługu.
+7. Avatqutlugu **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Nutuġumiñ, taamna naaqtaq pingasunik avatqutlugu, passcode atilugu, **End**-lu avatqutlugu. Apple uqaqtuq ilaani software-ni utuqqatni malġuusinik avatqunġaraat.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Atqunnaqtuq:** Apple uqaqtuq Crash Detection anniuqłiqtuutit ikayuqtit-lu atuŋŋiḷḷutik Guided Access-m ikitpat. Guided Access nutqaqtinnagu iñuum uqaluktuutimiani anniuqłiqtuutinik ikayuqtuksraŋani.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google-m ikayuutaa Android-mi screen-mik quliaqtuaq](https://support.google.com/android/answer/9455138?hl=en) maliġlugu:
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Ikilugu **Settings** app.
+2. Avatqutlugu **Security** (uvuñaġlu **Security & location**), tavra **Advanced**, tavra **App pinning**. Nalautinnagu, savaatigut sanaaqtaata ikayuutaa qiniġlugu.
+3. Ikipkaqługu **App pinning**. PIN, pattern uvuŋaḷḷu password atuġniaġaatin quliaqtuŋŋatinŋaġmiñ.
+4. App atuġumayavit ikillugu. Qulliq salikkuk quliaqtuakun tigumiaġlugu Overview ikitquvlugu (uvuñaġlu Overview avatqutlugu 3-naaqtaq atullugu).
+5. Qulaani app-m takkuutaani, app-m niġiugaa avatqutlugu, tavra **Pin** avatqutlugu.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Quliaqtuun nutqaġumiñ, salikkuun atuġlugu, qulliġmun salikkuk tigumiaġlugulu. 3-naaqtaq atuġlugu, Back Overview-lu tigumiaġlugik. 2-naaqtaq atuġlugu, Back Home-lu tigumiaġlugik. Tavra PIN, pattern uvuŋaḷḷu password atilugu.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Akitutilaaŋitchuaqpa iPhone-miḷḷu iPad-miḷḷu iluqaanun?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Ii. Apple-m Assistive Access-a home screen allaŋŋuqtitaa akitutilaaŋitchuamun. [Apple uqautigaa](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) savaŋaruaq iPhone akitutilaaŋitchuglugu iñuŋnun isumaliqutimik apiġñaqtuqaqtunun kisimiññaq atuġniaġlugu, angitquranik takkuutimik, atausiŋŋuamunlu savaktuanik. Apple [taatna savaaq iPad-miḷḷu](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) piqaqtuq.
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Kina savaqatigaa.** Apple uqaqtuq ukpiġnaqtuq ikayuqtiksraq, iḷaŋat uvuŋaḷḷu kamagiyaq, iñuŋmik ilisimasuq, apps-nik atuutiniklu nalautiksraŋanik ikayuġniaqtuq.
+- **Sumiñ aullaqtuksraq.** **Settings > Accessibility > Assistive Access**-mun iḷḷutiḷutin, avatqutlugu **Set Up Assistive Access**, tavra **Continue**.
+- **Apps.** Iḷḷi nalautigiñiaqtatin apps takkuŋniaqtut. Ilait Apple-m apps-i akitutilaaŋitchuat savaktuat, amihut allallu apps ilauniqsaġniaqtut nalupqisimanŋatnik.
+- **Iḷḷiqsuq.** Nalautilugu **Rows** (taiguaqługu akitutilaaq) uvuŋaḷḷu **Grid** (angitqurat iġñiġnik niġiugunillu).
+- **Passcode.** Allamik Assistive Access passcode-mik iḷḷiuġniaqtutin ikitquvlugu, aniġlutin, savaqatigiġniġlutinlu. Apple uqaqtuq recovery Apple Account iḷḷiuġlugu, passcode puuktaġuviuk, savaatigut nutaaqtitchaksraŋatŋuani.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access nakuuruasuq iñuum nalunġuamiññami savaatigut uvluq tamaat atuġumiŋa. Guided Access uvuŋaḷḷu app pinning tuyuqtuq piŋasuutit sivuniqpauruani atuqatigilugu.
 
-## How do I make text and pictures bigger?
+## Qanuq aglaun iġñiġillu angitquraksraġivigik?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Aglaun takkuunlu angitquraksraġlugik, tavra takkuġlugu naaqtat nalaani iḷḷutivḷutik.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone iPad-lu.** [Apple-m maliguaqsiutaa aglaunmik](https://support.apple.com/en-us/102453) maliġlugu, **Settings > Display & Brightness > Text Size**-mun iḷḷutiḷutin saliġlugulu. Angitquraksraġumiñ, **Settings > Accessibility > Display & Text Size > Larger Text**-mun iḷḷutiḷutin. Apple uqaqtuq aglaun angitquraq ilaani naaqtat avatqunnaqutigiñiaġai, taamna maliġnaaġiñiaqtatin.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google-m ikayuutaata aglaun takkuunlu](https://support.google.com/accessibility/android/answer/11183305?hl=en) maliġlugu, ikilugu **Settings** qiniġlugulu **Font size**, tavra saliġlugu. Qiniġlugu **Display size** tamatkunuŋa angitquraksraġlugu. Ikipkaqniaqtuġutin **Bold text** **Accessibility > Display size and text**-mi. Ilait apps maligñaitchut.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Piŋasuutini [Picture Pairs](/games/picture-pairs/) [Find the Same](/games/find-the-same/)-lu, ikitquranik nalunaiġniaqtutin, taamna akitutilaaŋitchuq screen-mi.
 
-## How do I stop notifications and pop-ups?
+## Qanuq tuhaqtitautit nutqaqtitaksraġivigik?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Tuhaqtitautit nutqaqtitki apps atuġnaitchatin, atuġiġuvlu Do Not Disturb atuġlugu.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone iPad-lu.** **Settings > Notifications**-mun iḷḷutiḷutin, app avatqutlugu **Notification Style**-mi, nutqaqtitlugu **Allow Notifications** ([Apple-m maliguaqsiutaa tuhaqtitautinik](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Ququutit, tuhaqtitautit, nipitlu nipiqsraqługit sivuniqpauruakun, Control Center ikillugu ikipkaqługu **Do Not Disturb** **Focus** naaqtaamiñ ([Apple-m ikayuutaata Do Not Disturb-mik](https://support.apple.com/en-us/105112)). Nalunaġniaqtuġutin **Settings > Focus > Do Not Disturb > Set a Schedule**-mi.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Qulliq salikkuk quliaġmun avatqutlugulu **Do Not Disturb**, uvuŋaḷḷu **Settings > Modes > Do Not Disturb**-mun iḷḷutiḷutin ([Google-m ikayuutaata Do Not Disturb-mik](https://support.google.com/android/answer/9069335?hl=en)). **Notification filters**-mi nalautiksraġniaqtatin kiñait apps iluallu tuhaqtitautiqsraq. Savaatigut sanaaqtaata allanguqtiġaa.
 
-## How do I make a simple home screen?
+## Qanuq home screen akitutilaaŋitchuraksraġiga?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Apps ikitqurat ilisimasuŋnik atausimi screen-mi iḷḷiuġuk, allat takkuŋŋiḷḷugit. Nalunaitchuamik savaqatigiġutaqaqtuŋaiññaq; iñiqsraqługu piñaqtuq.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Nalautilugit piŋasuuŋniḷḷu tallimuuŋniḷḷu apps.** Iḷaŋat, iġñiġit, atuqtuaq, video-mik ququusiun, atausiqlu piŋasuun.
+- **Sivuġliġmi screen-mi iḷḷiuġlugik,** taatnani iñiqpaġmi, allallu aipaani screen-mun uvuŋaḷḷu folder-mun nuuġlugik.
+- **Piqsiḷḷugu wallpaper akitutilaaq,** iḷaŋat atausiq qaluaq uvuŋaḷḷu atausiq iġñiq ilisimasuq, niġiugutit nalunaitchuurut.
+- **Piiġlugit apps atuġnaitchatin.** Ikitqurat apps nagliktuut ikitqurat, tuhaqtitautallu ikitqurat.
+- **Isumaliuġlugu Assistive Access** Apple savaatigutni, savaatigum iḷḷiutquviuk.
 
-## What about volume and sound?
+## Qanuq niġiugun nipilu?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Niġiugun nakuuruq savaaqatinŋaġmiñ iḷḷiuġlugu. Guided Access-mik atuġlutin, niġiugun naaqtai nutqaqtitaksraġniaqtatin allasimaniññani. Tusaaġutit iḷḷutivḷutik savaaqtivḷutiklu takkuġlugik.
 
-## Where should the tablet live?
+## Sumi tablet iñiqpaġniaqa?
 
-Give it a stand and a permanent charging spot.
+Napaaqtiviglik akuliutiviglu nuuŋŋitchuaq.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Napaaqtit uvuŋaḷḷu case** tablet napaaqtuutilik niqimi saviġnaqtuq, kia tigumiaġuiññaitchaa, uqautchigunlu akitutilaaq.
+- **Atausiq akuliutivik** nuuŋŋitchuaq, akuliutivik napaaqtuq niqimi iglumi atuġviqpaġmi. Tablet akuliutitauruq taatnaniḷḷu iñiqpaġmi.
+- **Qaumaniq ikitquraq.** Screen igalaam qaumaniŋaniñ iḷḷiuġlugu.
 
-## How much screen time is okay?
+## Qavsiññik sivuniqpauruq nakuuruq screen-mik atuġlutin?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Nalunaitchuamik kisitchiññiqaqtuŋaiññaq. Sivuniqpat ikitqurat atuqatigilugit ilagiḷḷugit uvluakun, pisuġlutik, atuqtuaqłutik, savaaqatigilugit, uqaqatigilugit, silamullu aniġlutik. Unnuaqsaġmi nagliktuun ilaŋaniqsuġumi, uvluami sivuniqpauruani atuġlugu isumaliuġlugu. Takkuġlugu [akitutilaaŋit unnuaqsaġmi atuutit](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Tablet atuqatigilugu, ilagiññiutilaaġlugu, taamna ilagiun nakuuruq. Maliguaqsiutivut [piŋasuutinik atuqatigilugit](/caregiving/how-to-play-together/) uqautigaa.
 
-## How do I protect their privacy on the device?
+## Qanuq iñuum ilisaqsii kamaksraġiga savaatigutmi?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Apps katitiksraŋat ikitquraġlugik, aanniaqtuutimik kamanautinun maliġnaŋitkumiñ isumaiññak. U.S. Department of Health and Human Services (HHS) [uqaqtuq](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) HIPAA-m maliġuaġutai tamarmik kamanaŋŋiḷḷugik aanniaqtuutimik tuhaqtitautit nalunġuamiññani uqaluktuutimi tablet-miḷḷu iḷḷutat. Amihuni, HIPAA-k kamanaŋŋiḷḷugaiḷḷu tuhaqtitautit apps-ni ilisaġlugiñ, apps iñuum aanniaqtuliqiyiŋaniñ, aanniaqtuutimik akiliksaataniñ, uvuŋaḷḷu ikayuqtigiŋaniñ piŋŋitpat.
 
-HHS suggests:
+HHS uqaqtuq:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- apps atuġnaitchat piŋŋiḷḷugit, "akiḷḷiutaiññat" ikitquraġlugik;
+- apps nunamun takkuutiksraŋanik piññiḷḷugit piḷḷuataqtuat kisiisa, nunaaqqutit iḷaŋat.
 
-Also consider:
+Isumaliuġlugillu:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Passcode atuġlugu** savaatigutmi, nalunaiġlugulu nakuurumi.
+- **Kamakkit pitquraŋit** iġñiġnun, iġñiġutiliunmun, nipiliqirunmun, uqaqatigiksaqaqtunun, nunamullu, nutqaqtitlugillu app-m atuġnaitchai.
+- **Takkuġlugu app suna katitiga** ilisaqatinŋaġmiñ. Maliguaqsiutivut [dementia apps piŋasuutillu nalautilugit](/caregiving/choosing-apps-and-games/) ilisaqsiñiq kamanautimik piqaqtuq.
+- **Kamanaluaġlugit iḷaŋat iġñiġit.** Iñuum quviasuutigiñiaġai iġñiġit kisiisa atuġlugik, nalunaiġlugulu app sumi iḷḷiutiga. [Photo Pairs](/games/photo-pairs/)-mi, iġñiġit nalautigatin browser-miñi iñiqpagaat.
+- **Nutqaqtitlugik akiliutinik pisuutit** uvuŋaḷḷu piiġlugik akiliksaat iñuum atuġai.

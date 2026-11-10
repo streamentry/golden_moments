@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Domestic labores quam activitás por persones con dementie"
+seoTitle: "Domestic activitás por dementie: quotidian labores"
+description: "Plicar, ordinar, preparar li table e simplic coccion posse esser significativ activitás por persones con dementie. Qualmen preparar les, adaptar les e mantener securitá."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Quotidian labores quam plicar serviettes, ordinar strumpes, preparar li
+  table, nettar superficies, aquar plantes e auxiliar in simplic coccion posse
+  dar a un person qui vive con dementie un real maniere de auxiliar. Selecte
+  labores quel li person conosse, divide les in un sol passu por vez, remove
+  dangers acut o calid, e valorisa li participation plu quam far it "rect".
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Familiar labores posse auxiliar un person sentir se util e part del hem, quo sovente importa plu quam qualmen bon li labor es fat."
+  - "Divide chascun labor in singul passus, monstra in vice de dir, e tranquilmen prende supra quelcunc passu quel ha devenit desfacil."
+  - "Serra cultelles, nettatori-productes e capsulas de detergent, e adjunte covrimentes por butones de forn o un automatic clusion ante coccion junt."
+  - "Plicat serviettes ne besona esser re-plicat avan li person. Si vu deve refar alquicos, fa it plu tard e for del vise."
+  - "Si un labor causa frustration, changea a un passu plu facil, prova denov un altri vez, o simplic sedea junt."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Quel labores domestic un person con dementie ancor posse auxiliar?"
+    a: "Mult persones ancor posse plicar lavatura, far pares de strumpes, ordinar argenteríe, preparar li table, nettar un superficie, polir, scopar, aquar plantes o miscer un paste. Selecte labores quel li person fat in li passat e adapta les a to quo li person posse far nu. In plu tard stadies, un singul repetit movement, quam glattar serviettes, posse esser suficent."
+  - q: "Es secur que alquem con dementie auxilia in li cocine?"
+    a: "It posse esser, con proxim supervision e li rect preparation. Tene cultelles, nettatori-productes e omni cos calid for del atingibilitá, usa covrimentes por butones de forn o un automatic clusion, e da al person un secur labor quam lavar legumes, miscer o preparar plates. Nequande lassa li person sol con li forn activ."
+  - q: "E si li person plica coses falsmen o fa desórdine?"
+    a: "Lassa it esser. Li scope es témpor junt e un sentiment de esser util, ne un perfect resultate. Si alquicos vermen deve esser refat, atende til plu tard e fa it quande li person ne regarda, por que li person ne senti se corectet."
+  - q: "E si li person refusa auxiliar?"
+    a: "Un «no» posse significar que li labor senti se tro desfacil, confus o fatigant in ti moment. Ne insiste. Prova un version plu simplic, invita li person a tener vos companie in vice, o demanda denov in un melior témpor del die."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Mult persones qui vive con dementie passat decennies a administrar un hem, educar un familie o mantener órdine in un loc de labor. Esser invitat a auxiliar con real labores posse dir «vu es ancor part de ti hem» in un maniere quel poc altri activitás posse. Ti págine trata quel labores tende funcionar bon, qualmen preparar les, qualmen adaptar les quande coses changea, e qualmen mantener li cocine e li chambre de lavatura secur.
 
-## Why do everyday chores work well as activities?
+## Pro quo quotidian labores functiona bon quam activitás?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Labores functiona pro que ili es familiar e have un clar scope. Li National Institute on Aging lista lavar platos, preparar li table, scopar, polir, ordinar poste, plicar lavatura e ordinar reciclation inter li [quotidian activitás quel persones con Alzheimer posse joyar](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Li Alzheimer's Association nota que labores quam preparar li table posse auxiliar un person [sentir se quam un valorat part del hem](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Un labor anc have su propri rason por comensar. «Esque vu posse auxiliar me con ti serviettes?» es plu facil a acceptar quam «Esque vu vole far un activitá?»
 
-## Which household tasks are good to try?
+## Quel labores domestic vale provar?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Comensa con labores quel li person fat in li passat, poy adapta les a to quo li person posse far hodie.
 
-### Laundry and linens
+### Lavatura e linage
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Plicar serviettes e lav-buxtes.** Da un corb con micri, plat objectes. Serviettes es indulgent: ne existe un fals maniere de plicar un.
+- **Far pares de strumpes.** Mete un mixat acumulation sur li table. Si pares deveni desfacil a trovar, usa solmen du o tri tre diferent colores.
+- **Glattar e staplar.** Serviettes, cossinet-covrimentes o toale de platos posse esser glattat e staplat. To functiona bon plu tard, quande plicar ha devenit tro mult passus.
 
-### Table and kitchen
+### Table e cocine
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Preparar li table.** Posise un covriment quam modelle e lassa li person copiar it. Si to es tro mult, da un objecte por vez: «Ci es un forchette por chascun plate.»
+- **Ordinar argenteríe.** Misce nett forchettes, coclieres e buter-cultelles in un recipiente e ordina les in un diviset plateau. Lassa acut cultelles for.
+- **Siccar platos.** Plastic o ínfrangibil platos e un moll toale fa to un secur labor.
+- **Nettar li table o superficies.** Un humid drap e un clar superficie. Li Alzheimer's Association suggeste oferter un drap si alquem ja frica li table con su manu, changeante un inquiet movement in un util labor.
 
-### Around the house
+### Circum li hem
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Polir.** Un moll politor e quelc solid superficies, quam un café-table o un libre-brete.
+- **Ordinar li poste.** Da reclame-poste e cataloges a ordinar in acumulationes: conservar, reciclar, aperter plu tard. Tene real factures e cheques in un altri loc.
+- **Ordinar reciclation.** Nett latt-buxes, botelles e paper in separat recipientes.
+- **Scopar.** Un micri scope sur un terasse o li suol del cocine, si li equilibre es stabil.
+- **Aquar plantes.** Un micri, levi aquator e quelc plantes facil a atinger.
 
-### Simple cooking with supervision
+### Simplic coccion con supervision
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Coccion posse revocar fort, agreabil sentimentes. Li NIA suggeste lassar li person colecter ingredientes, mesurar, miscer e versar, o simplic dir a alquem altri qualmen far un favorit recette. Bon labores include:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- lavar legumes o fructes
+- miscer paste o un frigid salade
+- dissirar lactuca
+- buterar toast con un blunt cultelle
+- posir paste de biscutes sur un plateau
+- posir ingredientes sur un pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Si mesurar deveni desfacil, li Alzheimer's Association suggeste que vu fini li mesura e poy da un altri passu, quam miscer.
 
-## How do I set up a chore so it goes well?
+## Qualmen preparar un labor por que it ea bon?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Selecte li rect témpor.** Selecte un part del die quande li person es usualmen reposat e calm. Por mult persones to es li matine.
+2. **Libera li spacie.** Un labor, un superficie, nequo extra sur li table.
+3. **Invita, ne ordona.** «Yo vell apreciar un poc de auxilie con ti coses» functiona melior quam «It es témpor de plicar lavatura.»
+4. **Monstra li unesim.** Plica un serviette lentmen, poy da li sequent. Monstrar es plu clar quam explicar.
+5. **Da un passu por vez.** Tro mult instructiones in sam témpor posse submerser. Atende que un passu fini ante nominar li sequent.
+6. **Labora láteralmen.** Far li sam labor un apu altri senti se quam companie, ne supervision.
+7. **Parla pri li labor, ne pri li resultate.** «Ti es tam moll» o «Raconta me qualmen vu amat ordinar li linage-armario» invita conversation sin testar alquem.
 
-## How do I adapt chores as abilities change?
+## Qualmen adaptar labores quande abilités changea?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Abilités changea con li témpor e mem de un die al altri. Li Alzheimer's Association suggeste mover vers plu simplic, plu repetitiv labores quande li maladíe progresse.
 
-| If this has become hard | Try this instead |
+| Si to ha devenit desfacil | Prova to in vice |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Plicar grand linages | Plicar lav-buxtes o glattar serviettes |
+| Preparar un complet table | Posir un serviette a chascun sede |
+| Ordinar poste in categories | Staplar covrimentes in un acumulation |
+| Sequer un recette | Miscer, o regardar e degustar mentre vu coce |
+| Scopar un tot suol | Nettar un micri table |
+| Far li labor omnimen | Sedear con vu e tener vos companie mentre vu fa it |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Regardar conta. Li NIA nota que quelc persones simplicmen joya regardar, e to es un bon maniere de participar.
 
-## How do I keep household tasks safe?
+## Qualmen mantener domestic labores secur?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Securitá veni unesimmen, specialmen in li cocine. Li [consilies de securitá in hem por cuidador de Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) del NIA include:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Serra o remove nettatori-productes, includente capsulas de detergent por lavatura, quel posse aspecter quam bonbones.
+- Conserva cultelles, cisettes e electric utensiles in un serrat loc.
+- Adjunte secur-butones e un automatic clusion al forn.
+- Posa signes «Stop» o «Tre calid» proxim li forn, toaster e ferre a repassar, posit in un maniere que ili ne posse prender foy.
+- Regula li calid-aquator a 120°F por diminuer li risca de brusada.
+- Remove artificial fructes e magnetes in form de manjade, quel posse semblar manjebli.
 
-A few more practical habits help:
+Quelc altri practic habitudes auxilia:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Resta in li chambre sempre quande li forn o un acut utensile es in usa.
+- Usa ínfrangibil platos por siccar e preparar li table.
+- Tene suoles sec e líber durante scopada o nettada humid.
+- Si li person usat utensiles in li passat, li Alzheimer's Association suggeste remover dangerosi objectes del laboratoria, por que un secur labor, quam sablar un piece de ligne, ancor posse esser joyat.
 
-## What if they do it "wrong"?
+## E si li person fa it "falsmen"?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Lassa it esser. Un serviette plicat in tries in vice de demís es ancor un plicat serviette. Li Alzheimer's Association di it clarmen: quo importa es passar témpor junt e que li person senti se util, ne ca li serviettes es plicat perfectmen. Si alquicos vermen deve esser refat, atende til plu tard e fa it for del vise.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Corecter in li moment posse changear un agreabil labor in un rememoration de to quo ha esset perdit. «Mersi, to es un grand auxilie» es presc sempre li rect cose a dir.
 
-## When should we stop?
+## Quande noi deve stoppar?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Stoppa o changea quande vu vide signes de frustration, fatiga o perdit interesse. Finir plu fruh es un bon resultate, ne un falliment. Vu posse:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- changear a un passu plu facil
+- mover a alquicos reposant, quam musica o un tasse de café
+- provar denov plu tard o un altri die
+- simplic seder junt
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Si li person di no, ne insiste. Vide [quo far quande li person di no](/caregiving/when-they-say-no/) por gentil manieres de responder.
 
-## Low-effort extras for a quieter moment
+## Simplic extra-idées por un plu quiet moment
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Quande fisic labores ne es possibil, ordinar e far pares ancor posse esser fat sedent. [Sort Together](/games/sort-together/) lassa vos tippar images in corbes de cocine o jardin, e [Picture Pairs](/games/picture-pairs/) es un gentil lude de pares con grand images e sin chronometre. [Conversation Cards](/games/conversation-cards/) have apert questiones pri hem e familie quel conveni bon con un café pos que li labor es finit.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Por auxilie a integrar labores in li die, vide nor guide pri un [calm quotidian rutine](/activities/daily-routine/). Por plu idés secun li stadie, vide [activitás por li medie stadie](/activities/middle-stage/).

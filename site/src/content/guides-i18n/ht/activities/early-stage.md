@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Aktivite pou demans nan premye etap"
+seoTitle: "Aktivite demans premye etap: Ide ki adapte"
+description: "Ide aktivite pou demans nan premye etap: pastan, jwèt, soti, ekri ak planifye ansanm, ak ti chanjman ki ede moun nan rete nan kontwòl epi pran plezi."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Nan premye etap demans lan, pifò moun ka kontinye fè sa yo renmen: pastan,
+  kat ak jwèt sou tab, kwit manje, jadinaj, mache, klib, aktivite lafwa ak
+  volontarya. Chanjman prensipal yo se pi piti gwoup, soti ki pi kout, plan
+  ekri ki senp, ak yon patnè ki toupre. Mande moun nan ki kalite èd li vle,
+  epi kite l pran devan.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Pifò moun ki nan premye etap la viv san anpil depandans. Anjeneral, aktivite yo bezwen ajiste, yo pa bezwen ranplase."
+  - "Mande moun nan ki sipò li vle, epi mete w dakò sou yon senp siy ki montre lè li vle èd."
+  - "Pi piti gwoup, lè ki pi trankil, ak soti ki pi kout souvan fè yon gwo diferans."
+  - "Se yon bon moman pou moun nan dirije pwojè sou pwòp lavi li, tankou yon jounal oswa yon liv istwa lavi li."
+  - "Chwazi jwèt pou plezi. Kite nenpòt aktivite ki kòmanse santi l tankou yon egzamen."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Ki aktivite ki bon pou demans nan premye etap?"
+    a: "Anjeneral, se menm aktivite moun nan deja renmen: kat, jwèt sou tab, kwit manje, jadinaj, mache, mizik, aktivite lafwa, klib ak volontarya. Ou ka bezwen fè yo pi kout, pi trankil oswa pi senp. Ekri nan yon jounal, ekri lèt, ak prepare yon liv istwa lavi moun nan ka bon tou nan etap sa a."
+  - q: "Kijan mwen ka ede san pran kontwòl?"
+    a: "Mande ki kalite èd moun nan vle, epi verifye souvan. Mete w dakò sou yon fraz oswa yon siy tèt ki vle di li dakò pou w antre, pa egzanp lè yon mo oswa yon non pa vle vini. Si pa gen okenn danje pou sekirite, kite l fè l jan pa l, menm si sa pran plis tan."
+  - q: "Èske yon moun ki gen demans nan premye etap ta dwe eseye nouvo aktivite?"
+    a: "Wi, si li vle. Pastan moun nan deja konnen yo souvan pi fasil, men anpil moun pran plezi nan yon bagay nouvo, tankou yon gwoup mache ki adapte pou moun k ap viv ak demans, yon klas atizay oswa yon gwoup chante. Eseye yon fwa san presyon epi gade kijan sa santi."
+  - q: "Èske aplikasyon pou fè egzèsis sèvo yo itil nan premye etap la?"
+    a: "Gen kèk moun ki renmen devinèt ak jwèt mo, epi plezi sa a ase poukont li. Pa gen okenn aplikasyon oswa jwèt ki montre li trete, ralanti oswa sispann demans. Si yon jwèt lakòz estrès oswa fè moun nan santi l ap echwe, mete l sou kote."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Nan premye etap demans lan, anpil moun toujou ap viv anpil jan yo te konn viv anvan. Yo ka travay, fè volontarya, wè zanmi yo epi jere anpil nan jounen yo. Anjeneral, aktivite yo pa bezwen ranplase; yo bezwen kèk ti ajisteman pou yo rete agreyab. Wòl ou pi pre yon patnè pase yon moun k ap bay swen: yon moun ki sipòte, ki planifye ansanm ak moun nan, epi ki antre sèlman lè yo mande l.
 
-## What activities are good in early-stage dementia?
+## Ki aktivite ki bon nan demans nan premye etap?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Pi bon aktivite nan premye etap la se anjeneral sa moun nan deja renmen, men yo rann yo yon ti kras pi fasil. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bay ide tankou jwèt kat ak jwèt sou tab, rechèch mo, mache, danse, jadinaj, ranje flè, rakonte istwa, penti, mizik, ekri nan jounal, ekri lèt, fè albòm foto, kwit manje ak tradisyon fèt.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Sa ki souvan chanje se anviwònman an, pa aktivite a. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) fè remake ke moun ki nan premye etap la ka kòmanse rale kò yo nan aktivite yo te renmen. Yo bay egzanp yon moun ki santi l depase nan yon gwo fèt, men ki pi alèz nan yon ti gwoup. Pale ouvètman sou sa ki vin pi difisil, epi ajiste ansanm.
 
-## Ask first, and agree on how to help
+## Mande anvan, epi mete w dakò sou kijan pou ede
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Gid Alzheimer’s Association pou premye etap la](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) sijere kèk abitid ki ka sèvi pou aktivite yo tou:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Mande dirèkteman.** « Ki sa ki ta ka fè klib liv la pi fasil pou ou? » bay yon pi bon repons pase devine.
+- **Konsidere moun nan kapab.** Si pa gen okenn danje pou sekirite, kite moun nan eseye, epi bay ankourajman olye pou w pran kontwòl.
+- **Mete w dakò sou yon siy.** Chwazi yon fraz oswa yon siy tèt ki vle di « li dakò pou w antre », pa egzanp lè yon non pa vle vini pandan yon jwèt kat.
+- **Verifye regilyèman.** Mande si kantite èd la sanble jis, twòp oswa twò piti.
 
-## Activity ideas for the early stage
+## Ide aktivite pou premye etap la
 
-### Keep up roles and hobbies
+### Kontinye wòl ak pastan yo
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Kenbe yon angajman regilye.** Yon sèvis volontarya chak semèn, yon koral oswa yon klib bay semèn nan yon estrikti. Si sa vin estrèsan, yon wòl ki pi kout oswa ki pi trankil ka pi bon.
+- **Planifye repa yo ansanm.** Si fè makèt vin fwistran, Alzheimer's Association sijere mande moun nan ede planifye meni semèn nan epi ekri lis la olye de sa.
+- **Kwit manje ak fè gato.** Swiv yon resèt moun nan renmen ansanm. Mete engredyan yo nan lòd anvan nou kòmanse, pou etap yo pi klè.
+- **Fè jadinaj.** Planifye yon ti jaden, chwazi grenn oswa plant, epi fè travay la ansanm. Yon lis ekri sou travay jaden pou semèn nan ka ede.
+- **Kontinye yon atizana.** Travay bwa, koud, trikote oswa fè modèl ka kontinye ak modèl ki pi senp ak bon limyè.
 
-### Games for enjoyment
+### Jwèt pou plezi
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Jwe kat ak jwèt sou tab.** Jwèt moun nan deja konnen yo pi fasil. Jwe an ekip pou pèsonn pa santi yo sou kote, epi kenbe pwen yo san presyon oswa pa kenbe pwen ditou.
+- **Eseye yon rechèch mo ak gwo lèt.** [Word search](/games/word-search/) nou an ka jwe sou ekran oswa enprime pou yon moman trankil.
+- **Fè pezeul.** Chwazi yon kantite moso ki santi l detant, pa difisil. [Picture puzzle](/games/picture-puzzle/) se yon kout vèsyon sou ekran, epi gid nou an sou [pezeul pou demans](/activities/puzzles/) ede w chwazi youn.
+- **Patisipe nan yon jwèt konesans pou plezi.** Gen kèk moun ki renmen yon nwit trivia an ekip. Si sa kòmanse santi l tankou yon egzamen, chwazi yon lòt bagay, oswa eseye [kesyon trivia fasil](/activities/trivia/) nou yo, ki vini ak chwa repons epi san pwen.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Jwèt yo la pou plezi. Pa gen okenn jwèt ki montre li trete oswa ralanti demans; li plis nan [jwèt sèvo: sa rechèch yo di](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Ekri, reflechi epi anrejistre
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Kenbe yon jounal.** Alzheimer's Association sijere ekri nan yon jounal kòm yon fason pou travay sou santiman apre yon dyagnostik. Kèk liy pa jou ase.
+- **Dirije yon liv istwa lavi.** Premye etap la se yon bon moman pou moun nan chwazi pwòp foto li yo epi ekri oswa dikte istwa ki dèyè yo. Gade [aktivite reminisans](/activities/reminiscence/).
+- **Ekri lèt.** Yon lèt pou yon pitit pitit, yon ansyen zanmi oswa yon ansyen kòlèg ka gen anpil sans pou tou de moun.
+- **Pale sou foto.** [Photo pairs](/games/photo-pairs/) fè foto fanmi tounen yon jwèt matche dou, epi [conversation cards](/games/conversation-cards/) bay ide senp pou kòmanse yon konvèsasyon.
 
-### Go out and move
+### Soti deyò epi bouje
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sijere kontinye soti moun nan abitye fè yo toutotan nou tou de alèz. Planifye yo pou pi bon moman nan jounen an pou moun nan, epi pa kite yo dire twò lontan.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Kout vizit kiltirèl.** Yon mize, yon fim nan apremidi oswa yon ekspozisyon atizay, pi bon lè se yon lè ki pi trankil.
+- **Naje.** NIA sijere ale nan pisin nan yon lè ki pi kalm nan jounen an.
+- **Gwoup mache ak klas dans.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mansyone dans, tai chi, yoga, naje ak gwoup mache, ansanm ak sesyon ki adapte pou moun k ap viv ak demans lè yo disponib.
+- **Gwoup chante ak kafe memwa.** Gwoup detant kote moun k ap viv ak demans ak patnè yo ka rankontre lòt moun ki nan menm sitiyasyon an.
 
-## Small changes that keep activities enjoyable
+## Ti chanjman ki ede aktivite yo rete agreyab
 
-| If this is getting harder | Try this |
+| Si sa a ap vin pi difisil | Eseye sa a |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Kote ki gen anpil moun oswa bri | Ale nan lè ki pi trankil, chwazi pi piti gwoup, chita sou kote sal la |
+| Sonje nouvo non | Prezante moun yo ak non yo chak fwa; mande gwoup yo sèvi ak etikèt non |
+| Swiv plan ki gen plizyè etap | Ekri etap yo, oswa mete tout bagay nan lòd anvan |
+| Vin fatige | Fè soti ki pi kout, repoze apre, pa planifye anyen lòt jou sa a |
+| Swiv kijan yon jwèt ap mache | Jwe an ekip, senplifye règ yo, oswa pa kenbe pwen |
+| Jwenn mo yo | Bay tan; ofri yon mo sèlman si siy nou te mete dakò sou li di pou fè sa |
 
-## When to slow down
+## Ki lè pou ralanti
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Sispann oswa chanje yon aktivite lè li pote plis estrès pase plezi. Fristrasyon ki repete, evite yon pastan oswa di « mwen pa kapab ankò » merite yon konvèsasyon dous, pa presyon. Souvan, solisyon an se yon vèsyon ki pi senp nan menm aktivite a. Lè moun nan bezwen plis èd pou kòmanse ak swiv etap yo, ide ki nan [aktivite nan etap mwayen](/activities/middle-stage/) ka pi bon. Pou plis konsèy sou konvèsasyon ki bay sipò, gade [konsèy pou kominikasyon](/caregiving/communication-tips/), epi pou jwenn anpil lòt ide, gade [101 aktivite](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Patnè yo bezwen sipò tou. Premye etap la se yon bon moman pou bati pwòp rezo èd ou; gade [pran swen tèt ou kòm moun k ap bay swen](/caregiving/caregiver-self-care/).

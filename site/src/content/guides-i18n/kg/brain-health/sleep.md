@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Mpongi mpi Mavimpi ya Ntima: Mambu ya Bansosa"
+seoTitle: "Mpongi mpi Buzoba bwa Kuyindula"
+description: "Mambu ya bansosa ke monisa sambu na mpongi mpi kigonsa ya buzoba bwa kuyindula, mpi bifu ya mbote ya mpongi sambu na bambuta mpi bantu yina ke kebaka bo."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Balongokolo yankaka ya bamvula mingi ke monisa nde kulala bangonda ya fioti na kati ya luzingu
+  lenda vukana ti kigonsa ya kuluta ya kuzwa buzoba bwa kuyindula. Balongokolo ya balaboratware
+  ke monisa nde mpongi lenda sadisa ntima na kukatula mvindu, kansi nzikisa yai kele ntete kaka.
+  Komisyo ya Lancet ya 2024 kutudilaka ve mpongi na kati ya bampila ya kigonsa yina lenda soba.
+  Bifu ya mbote ya mpongi ke sadisaka na kumona nge mbote kilumbu na kilumbu. Mambu ya mpongi
+  kele mingi na bantu yina ke zingaka ti buzoba bwa kuyindula mpi mbote na kutubila yau ti munganga.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Longokolo mosi na Royaume-Uni yina landaka bantu kiteso ya 8 000 na nsungi ya bamvula 25 kumonisaka nde kulala bangonda sambanu to na nsi na kati ya luzingu kuvukanaka ti kigonsa ya kuluta ya buzoba bwa kuyindula."
+  - "Nsoba na mpongi lenda vanda mpi kidimbu ya ntete ya buzoba bwa kuyindula, yo yina kele mpasi na kuzaba kana kima mosi ke basisaka kinkaka."
+  - "Balongokolo ya mutindu mpongi ke katulaka beta-amyloïde na ntima kele ya kieleka, kansi yau kele ntete mingi mpi mingi na kati na yau mesalamaka na bampuku."
+  - "Apnée du sommeil kele mingi, lenda beluka mpi na balongokolo mevukanaka ti buzoba bwa kuyindula; kukorota makasi mpi mpusa ya kulala na mwini kele mambu ya kufwete tala."
+  - "Kuyantika ve, kuyambula ve to kusoba ve nkisi ya mpongi to lusadisu ya mpongi kukonda kutubila ti munganga."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Keti mpongi ya mbi ke basisaka maladi ya Alzheimer?"
+    a: "Yau memonisama ntete ve. Balongokolo yankaka ke monisa nde kulala fioti mevukanaka ti kigonsa ya kuluta ya buzoba bwa kuyindula, kansi buzoba bwa kuyindula kibeni ke nyangisaka mpongi, mbala mingi bamvula mingi na ntwala ya kuzaba maladi. Komisyo ya Lancet ya 2024 monaka nde nzikisa kele ve ya kukwikana sambu na kutula mpongi na kati ya bampila ya kigonsa yina lenda soba."
+  - q: "Bangonda kwa bambuta bafwete lala?"
+    a: "Institut national sur le vieillissement ke tuba nde bambuta kevandaka na mfunu ya kulala bangonda kiteso ya mosi ti bantu yankaka ya nene, bangonda 7 tii na 9 na mpongi mosi. Bambuta mingi ke kwenda na mpongi mpi ke telamaka ntete kuluta ntama, yau kele mambu ya mbala na mbala."
+  - q: "Sambu na nki muntu yina ke zingaka ti buzoba bwa kuyindula lenda lala na mwini mpi telama na mpongi?"
+    a: "Buzoba bwa kuyindula lenda nyangisa ntangu ya nitu, yo yina ntangu ya kulala mpi ya kutelama ke vukana. Mpasi, kukonda kisalu, nzala to bampasi ya pembeni ya bankisi lenda vanda mpi na kati. Mwini ya kilumbu, kisalu ya konso kilumbu mpi kifu ya pima na mpokwa lenda sadisa. Munganga lenda tala bampila ya mambu yina lenda beluka."
+  - q: "Keti mono fwete pesa nkisi ya mpongi na muntu yina mono ke kebaka?"
+    a: "Tubila ntete ti munganga na yandi, ata mpi sambu na bima yina bo ke sumba kukonda ndombe ya munganga. Institut national sur le vieillissement ke monisa nde bankisi yankaka ya mpongi lenda matisa kigonsa ya kizungu-zungu, kubwa mpi kuvukana na bantu yina ke na maladi ya Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Mpongi mpi mavimpi ya ntima kele na kuwakana ya pwelele, kansi mutindu yau ke wakanaka kele kaka na kulongukama. Balongokolo yankaka ke monisa nde kulala fioti mevukanaka ti kigonsa ya kuluta ya buzoba bwa kuyindula. Na ndambu yankaka, buzoba bwa kuyindula mbala mingi ke nyangisaka mpongi. Lutiti yai ke tendula mambu yina bansosa memonisa mpi yina yau memonisa ve, ke pesa bifu ya mpongi ya mbote, mpi ke tubila mambu ya mpongi yina ke monanaka mingi na buzoba bwa kuyindula. Yau kepesa ve malongi sambu na bankisi ya mpongi; disolo yina fwete salama ti munganga.
 
-## Is poor sleep linked with dementia?
+## Keti mpongi ya mbi mevukanaka ti buzoba bwa kuyindula?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Balongokolo yankaka ya bamvula mingi ke monisa nde kulala fioti mevukanaka ti kigonsa ya kuluta ya buzoba bwa kuyindula, kansi nzikisa kele ntete ve ya kukwikana.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Longokolo mosi ya Royaume-Uni ya bamvula 25.** Bansosi landaka bantu kiteso ya 8 000 na [longokolo ya Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Bantu yina lalaka bangonda sambanu to na nsi na bamvula 50 to 60 vandaka ti kigonsa ya kuluta ya kuzwa buzoba bwa kuyindula na nima kuluta bantu yina lalaka bangonda nsambwadi. Bantu yina lalaka bangonda sambanu to na nsi na bamvula 50, 60 mpi 70 vandaka ti kigonsa ya kuluta ya kiteso ya 30% kuluta bantu yina vandaka kulala bangonda nsambwadi mbala na mbala. Yau vandaka longokolo ya kutala kaka, yo yina yau ke monisa kuwakana, kansi ve ntina.
+- **Mabanza ya Komisyo ya Lancet.** [Komisyo ya Lancet ya 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) yikaka ve mpongi na kati ya lisiti na yo ya bampila 14 ya kigonsa yina lenda soba. Yau monaka nde nzikisa vandaka ve ya kukwikana. Ntina mosi kele « reverse causation »: bansoba ya ntima ya buzoba bwa kuyindula ke yantikaka bamvula mingi na ntwala ya kuzaba maladi mpi lenda nyangisa mpongi. Na longokolo mosi ya nene, kuwakana na kati ya kulala mingi mpi buzoba bwa kuyindula manaka ntangu bo katulaka bamvula tanu ya ntete ya kulanda bantu.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Yo yina, mpongi mosi ya mbi mbala na mbala kele ve ntina ya kudiyangisa. Kulala mbote mpi na mutindu ya kukwikana kele mambu ya mbote sambu yau ke sadisaka kiwadi, dikebi mpi lutaninu ya kilumbu yai.
 
-## What is the "brain-clearing" sleep research?
+## Inki kele balongokolo ya « ntima ke kukipedisaka » na ntangu ya mpongi?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Ziku nge tangaka nde mpongi ke « vedisaka » ntima. Ngindu yai mekatuka na balongokolo ya kieleka, kansi yau kele ntete.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Na bampuku.** Longokolo mosi ya 2013 [yina NIH metendula](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) monisaka nde kisika na kati ya baselile ya ntima kumaka nene kiteso ya 60% ntangu bampuku lalaka. Masa vandaka kupita mbote na ntima, na nzila ya yina bansosi ke bingaka système glymphatique. Beta-amyloïde, proteine mosi yina mevukanaka ti maladi ya Alzheimer, katukaka mbangu na ntima ya bampuku yina vandaka kulala.
+- **Na bantu.** [Longokolo mosi ya fioti ya 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) talaka bantu 20 ya mavimpi ya mbote yina vandaka na bamvula 22 tii na 72 na nima ya mpongi ya mbote mpi na nima ya mpongi mosi kukonda kulala. Na nima ya mpongi yina kukonda kulala, kidimbu ya scanner ya ntima sambu na beta-amyloïde mataka kiteso ya 5% na kisika mosi yina ke kotisa hippocampe, kisika ya mfunu sambu na luyindulu. Bansoniki bingaka yau nzikisa ya ntete. Bo zabaka ve kana nsoba yina ke manaka na nima ya kupema, to kana yau ke monisa nde kukatula ke salama malembe to beta-amyloïde mingi ke salama.
+- **Yau ke salama na bandambu zole.** Komisyo ya Lancet ke monisa nde kuvanda ti beta-amyloïde lenda nyangisa mpi mpongi na bantu ya bambuta.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Mambu yai yina bamonaka ke sadisa na kubakisa sambu na nki bansosi ke vandaka na mpusa ya kulonguka sambu na mpongi. Yau ke monisa ve nde mpongi ya kuluta mbote ke taninaka maladi ya Alzheimer.
 
-## What sleep habits may help?
+## Inki bifu ya mpongi lenda sadisa?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Bambuta kevandaka na mfunu ya bangonda 7 tii na 9 ya mpongi na mpongi mosi, mutindu bantu yankaka ya nene, kulandana ti [Institut national sur le vieillissement (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Bandongisila na yau ke kotisa:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Vanda ti manaka ya kukwikana.** Kwenda na mpongi mpi telama na ntangu ya mutindu mosi konso kilumbu, ata na bansungi ya nsuka ya mposo.
+- **Sala kifu ya kukipemisa na ntwala ya kulala.** Tanga, wa miziki ya pima to baka mbangu ya tiya ya molunge na ntwala ya kulala.
+- **Sala nde suku ya kulala vanda mbote,** ve tiya mingi mpi ve madidi mingi.
+- **Fidisa caféine na nsuka ya kilumbu.** Kafé, ti, soda mpi chocolat lenda kangisa nge na kulala.
+- **Buya malafu,** ata fioti, NIA ke longa mutindu yina.
+- **Buya madia ya nene na kati ya bangonda zole tii na tatu na ntwala ya kulala,** mpi bima ya kunwa ya mingi na nsuka ya kilumbu.
+- **Sala ngalasisi mbala na mbala, kansi ve na kati ya bangonda 3 na ntwala ya kulala.** Tala [lutiti na beto ya ngalasisi](/brain-health/exercise/).
+- **Bika baécran na nganda ya suku ya kulala.** NIA ke pesa ndongisila ya kutala ve televizio to kusadila ordinatere, telefone to tableti kuna.
+- **Buya kulala na nima ya midi to na mpokwa** kana nge lenda.
 
-## Sleep problems in dementia
+## Mambu ya mpongi na buzoba bwa kuyindula
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Nsoba na mpongi kele mingi na buzoba bwa kuyindula. [NIA ke tanga](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) kulala mingi to fioti mingi, kutelama mbala mingi na mpongi, mpi kulala mingi na mwini. Yau ke tendula mpi sundowning: kukonda pima, kisakasaka to kuvukana yina ke yantika to ke kumaka ngolo ntangu mwini ke kwenda na kubwa.
 
-Caregiver tips from the NIA include:
+Bandongisila ya NIA sambu na bantu yina ke kebaka kele:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Baka mwini ya kilumbu mpi kisalu na suka.** Kwenda na nganda to vanda pene-pene ya fenetre na mwini, mpi sadisa muntu na kusala kisalu konso kilumbu. Mwini ya ngolo lenda sadisa na kuyidika ntangu ya nitu.
+2. **Yidika bisalu ya ngolo sambu na suka.** Meka kuyobila na suka to kudia madia ya kuluta nene na midi.
+3. **Sala nde kulala ya fioti na mwini vanda nkufi mpi na ntangu ya mbote.** Fidisa kulala na nsuka ya kilumbu.
+4. **Sala nde mpokwa vanda ya pima.** Fidisa mwini, fidisa makelele mpi yula miziki ya pima kana muntu ke sepelaka na yau. Lutiti na beto ya [kukonda pima na nsuka ya kilumbu](/caregiving/late-day-restlessness/) kele ti bandongisila yankaka.
+5. **Vanda ti kifu ya kukwikana na ntwala ya kulala.** Kutanga na ndinga ya ngolo na ntangu ya mutindu mosi konso mpongi kele mbandu mosi ya NIA. [Manaka ya mbote ya konso kilumbu](/activities/daily-routine/) ke sadisaka mpi.
+6. **Fidisa caféine mpi malafu.**
+7. **Sadila bamwini ya fioti ya mpongi** na suku ya kulala, na nzila mpi na suku ya kuyobila.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Sambu na kutelama na mpongi, [bandongisila ya NIA sambu na lutaninu na nzo](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ke kotisa bamwini ya fioti ya mpongi to bima yina ke pesaka mwini na yo mosi, maboko ya kusimba na suku ya kuyobila, ruban ya mukubu ya ngolo na bansongi ya bimatelo, mpi bankisi ya kubumba na kisika ya kukangama.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Kisalu mosi ya nkufi mpi ya pima na mpokwa lenda sadisa beno zole na kuvunda. Meka kupema malembe ti [Calm Breathing](/games/calm-breathing/) to bakarita ya fioti ya [Conversation Cards](/games/conversation-cards/) na mutindu ya pima. Buya konso kima yina ke pesaka kikesa mingi pene-pene ya kulala, mpi yambula ntangu muntu mebaka kufwana.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Mpongi ya kukatuka-katuka ke lembisaka mpi bantu yina ke kebaka. [Lutiti na beto ya kudikeba sambu na muntu yina ke kebaka](/caregiving/caregiver-self-care/) ke tubila bampila ya kuzwa kupema mpi lusadisu.
 
-## What about sleep apnea?
+## Mpi sambu na apnée du sommeil?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Apnée du sommeil ke basisaka nde kupema ke telamaka mwa ntangu na nsungi ya mpongi, mbala mingi mingi na mpongi mosi. NIA ke tuba nde kana yau kebeluka ve, yau lenda nata mambu bonso tension ya mungwa, avc to kubeba ya luyindulu. Bidimbu na yau kele kukorota makasi mpi kuwa mpusa ya kulala na mwini, mpi bantu mingi kezabaka ve nde bo kele na yau. Komisyo ya Lancet ke tendula ntalu ya balongokolo 11 yina bantu yina vandaka ti apnée du sommeil vandaka ti kigonsa ya kuluta ya kiteso ya 43% ya kuzwa buzoba bwa kuyindula. Kansi, balongokolo mingi na kati na yau talaka ve kilo ya nitu, yo yina kuwakana kele ntete ve ya kukwikana.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Apnée du sommeil lenda zabana mpi beluka. NIA ke monisa nde masini ya CPAP mbala mingi ke sadisaka. Kana nge to muntu yina nge ke kebaka ke korotaka makasi, ke yambulaka kupema na ntangu ya mpongi, to ke waka mpusa mingi ya kulala na mwini, tubila yau ti munganga.
 
-## A note about sleep medicines
+## Ndinga sambu na bankisi ya mpongi
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Beto ke pesa ve malongi sambu na bankisi ya mpongi to bima ya kuyika. NIA ke monisa nde bankisi ya mpongi lenda sadisa sambu na mwa ntangu, kansi yau kele ve ndilukulu ya kukonda kulala. Yau ke monisa mpi nde bankisi yankaka yina bo ke pesaka sambu na kusadisa bantu yina ke na maladi ya Alzheimer na kulala lenda matisa kigonsa ya kizungu-zungu, kubwa mpi kuvukana. Kuyantika ve, kuyambula ve to kusoba ve konso nkisi ya mpongi, ata bima ya mpongi yina bo ke sumba kukonda ndombe ya munganga, kukonda kutubila ti munganga to mufarmasie.
 
-## Talk with a doctor
+## Tubila ti munganga
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Mona munganga kana nge to muntu yina nge ke kebaka ke waka kilema ntangu yonso, ke monaka mpasi ya kulala mingi ya bampongi, ke korotaka makasi, to ke yambulaka kupema na mpongi. Kana mambu ya mpongi na buzoba bwa kuyindula ke landa, [NIA ke longa](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) na kusosa malongi ya munganga. Kutala mavimpi lenda monisa bantina bonso mpasi, maladi yankaka ya mpongi, maladi to bampasi ya pembeni ya nkisi. Kuvukana ya nswalu, to nsoba ya nswalu ya mpongi kumosi ti kuvukana, kevandaka na mfunu ya lusadisu ya nswalu. Tanga [ntangu ya kukwenda na munganga](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Lutiti yai kele nsangu ya mona-mesano, kansi ve malongi ya munganga. Tala [ndubu na beto ya kimunganga](/medical-disclaimer/).

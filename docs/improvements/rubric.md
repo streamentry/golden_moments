@@ -35,11 +35,50 @@ Overall = sum of weight x score.
 Weighted overall: 1.000 + 1.4625 + 1.000 + 1.500 + 1.500 + 1.407 + 1.000 + 1.000 = **9.87**.
 Lowest dimension: localization at 9.38 (floor is 7.0). **The bar (above 8.6, none below 7.0) is met.**
 
+## Score after Round 39: optional conversation prompts (2026-11-10)
+
+Dimensions 1–7 carry forward from the 2026-11-08 audit. The new label is a short source-language string that uses the existing English fallback on untranslated pages; native translation is not reviewed. The current website suite passes, while the full build stops on a duplicate YAML key already present in the fetched base branch. App tests and strict analysis were not rerun because this is a website-only change and the Flutter SDK is unavailable in this environment; the last recorded app result is in Round 38.
+
+| # | Dimension | Evidence | Score |
+| --- | --- | --- | --- |
+| 1 | Plain language | Existing audit 10.0; the new source label is four words. | 10.0 |
+| 2 | Type and contrast | Existing token audit 9.75; the checkbox reuses the established chip styling and focus treatment. | 9.75 |
+| 3 | Targets and navigation | Existing audit 10.0; the checkbox inherits the chip's 48 px minimum target and visible label. | 10.0 |
+| 4 | Structure and semantics | Existing audit 10.0; a native checkbox is wrapped by its visible label and the prompt updates in a polite live region. | 10.0 |
+| 5 | Reflow and large text | Existing 320 px and 200% audit 10.0; the new control is capped to its container width. | 10.0 |
+| 6 | Localization completeness | Existing 9.38; one new key currently uses the documented English fallback. | 9.37 |
+| 7 | Product integrity | Existing audit 10.0; the question can be hidden and is not spoken while hidden. | 10.0 |
+| 8 | Verification health | Three of four rubric checks pass: last recorded app test/analyzer results from Round 38, current website tests, and current TypeScript check. Website build/check-site stops on the pre-existing Bengali YAML duplicate. | 7.5 |
+
+Weighted overall: 1.000 + 1.4625 + 1.000 + 1.500 + 1.500 + 1.4055 + 1.000 + 0.750 = **9.62**.
+Lowest dimension: verification health at 7.5. This clears the numeric bar, but the current website build failure remains recorded above and is not claimed as passed.
+
+## Round 40 score update (2026-11-10)
+
+The two-choice panel reuses the existing game artwork and content. Its links have 112 px minimum height, visible labels, and focus/contrast styles. The site suite is now 724 passing tests and TypeScript is clean. The Bengali duplicate-key errors were repaired; the full build now stops on an overlong Tibetan guide description, and `check-site` has not run. The Flutter SDK remains unavailable, and the live browser/caregiver checks remain open. The recorded score is still **9.62**, with verification health at **7.5**; this is not evidence that the current website build or app tests passed.
+
+## Round 41 score update (2026-11-10)
+
+The added raster labels follow the existing locale coverage: 44 of 64 app locales have translated labels and 20 retain the English fallback. The new data regression test checks all 100 labels against the illustration manifest and generated mobile catalog. This does not change the rubric's existing coverage ratio. The site suite has 725 passing tests and TypeScript is clean; the full build still stops on the Tibetan guide description, `check-site` did not run, and Flutter is unavailable. Keep the recorded score at **9.62**, with verification health at **7.5**; native-speaker and device checks are not verified and are not scored.
+
+## Round 42 score update (2026-11-10)
+
+Conversation Cards now starts with only its image and theme; the prompt remains available through its existing checkbox. Focused behavior tests, all 725 site tests and TypeScript pass. The full site build still stops on the Tibetan guide description, and Flutter is unavailable. The Playwright wrapper is blocked by the environment's `npx` package guard; Astro dev exits before ready, so no live browser inspection ran. The current rubric dimensions do not change; keep the weighted score at **9.62**, with verification health at **7.5**. Caregiver and participant feedback is also not verified.
+
+## Round 43 score update (2026-11-10)
+
+Optional captions now name selected Photo Pairs images for screen readers; blank fields preserve the numbered fallback. The three new labels use the English fallback on translated pages. All 727 site tests and TypeScript pass; the production build remains blocked by the Tibetan guide description, and the Playwright wrapper/Astro dev are unavailable for browser inspection. Keep the rubric result at **9.62**, with verification health at **7.5**; browser, caregiver and participant checks are not scored.
+
+## Round 44 score update (2026-11-10)
+
+Photo Pairs now displays a one-line comfort reminder before selection. It adds no new control or state. The 727 site tests and TypeScript pass; the full build remains blocked by the Tibetan guide description, and the new English string is not yet translated. Keep the recorded weighted score at **9.62**, with verification health at **7.5**; live browser and caregiver/person checks remain unverified.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
 - Native review of any machine-made translation.
 - Store review and release approval.
+- Round 39: live browser layout and caregiver response; the local site build is blocked by the existing Bengali guide error.
 - Brand choices kept by the maintainer: serif headlines and the brand gold (6.33:1 on background, scored in dimension 2).
 
 ## Next improvements, by lowest score (for the next loop)

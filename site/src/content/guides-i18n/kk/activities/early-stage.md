@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Деменцияның ерте сатысындағы әрекеттер"
+seoTitle: "Деменцияның ерте сатысы: қолайлы әрекеттер"
+description: "Деменцияның ерте сатысына арналған әрекеттер: хобби, ойындар, серуен және жоспарлау. Адамның белсенді әрі еркін болуына көмектесетін шағын өзгерістер."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Деменцияның ерте сатысында адамдардың көбі өздеріне ұнайтын істі әрі қарай
+  жалғастыра алады: хобби, карта және үстел ойындары, тамақ әзірлеу, бау-бақша
+  өсіру, серуендеу, үйірмелер, діни шаралар және еріктілік. Негізгі өзгерістер —
+  шағын топтар, қысқа серуендер, қарапайым жазбаша жоспарлар және жанында серігі
+  болуы. Адамнан қандай көмек керек екенін сұраңыз және оны өзі басқаруға мүмкіндік беріңіз.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Ерте сатыдағы адамдардың көбі күнделікті өмірін едәуір дербес жүргізеді. Әдетте әрекеттерді ауыстыру емес, сәл бейімдеу жеткілікті."
+  - "Адамнан қандай қолдау қалайтынын сұраңыз және көмек керек болғанда берілетін қарапайым белгі туралы келісе қойыңыз."
+  - "Шағын топтар, тыныш уақыттар және қысқа серуендер жиі үлкен өзгеріс әкеледі."
+  - "Бұл — адамның өз өміріне қатысты жобаларды, мысалы күнделік немесе өмірбаян кітабын, өзі бастауы үшін қолайлы кезең."
+  - "Ойындарды ләззат алу үшін таңдаңыз. Сынақ сияқты сезілетін нәрселерден бас тартыңыз."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Деменцияның ерте сатысында қандай әрекеттер қолайлы?"
+    a: "Әдетте адам бұрыннан ұнататын әрекеттер: карта, үстел ойындары, тамақ әзірлеу, бау-бақша өсіру, серуендеу, музыка, діни шаралар, үйірмелер және еріктілік. Оларды қысқарақ, тынышырақ немесе оңайырақ ету қажет болуы мүмкін. Күнделік жүргізу, хат жазу және өмірбаян кітабын жасау да осы кезеңге жақсы сай келеді."
+  - q: "Адамның ісіне араласпай, қалай көмектесуге болады?"
+    a: "Адамнан қандай көмек қалайтынын сұраңыз және жиі қадағалап тұрыңыз. Мысалы, карта ойнағанда сөз немесе есім табылмай қалған кезде көмектесуге болатынын білдіретін сөз немесе қимыл туралы алдын ала келісе қойыңыз. Қауіпсіздікке қатер болмаса, ұзағырақ болса да, ісін өз қалауынша жасауына мүмкіндік беріңіз."
+  - q: "Деменцияның ерте сатысындағы адам жаңа әрекеттерді байқап көруі керек пе?"
+    a: "Иә, егер өзі қаласа. Таныс хоббилер әдетте оңайырақ болады, бірақ көптеген адамдар деменциямен өмір сүретін адамдарға ыңғайлы серуен тобы, сурет үйірмесі немесе ән айту тобы сияқты жаңа нәрселерден ләззат алады. Бір рет қысымсыз байқап көріп, көңіл-күйін бақылаңыз."
+  - q: "Ерте сатыда миды жаттықтыратын қолданбалар пайдалы ма?"
+    a: "Кейбір адамдар жұмбақтар мен сөз ойындарын ұнатады, бұл ләззаттың өзі жеткілікті себеп. Ешқандай қолданба немесе ойын деменцияны емдейтіні, баяулататыны немесе тоқтататыны дәлелденбеген. Егер ойын мазасыздық тудырса немесе адам өзін сәтсіздікке ұшырағандай сезінсе, оны кейінге қалдырыңыз."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Деменцияның ерте сатысында көптеген адамдар күнделікті өмірін бұрынғыдай жалғастыра береді. Олар жұмыс істеуі, еріктілік етуі, достарымен кездесуі және күнінің көп бөлігін өзі ұйымдастыруы мүмкін. Әдетте әрекеттерді ауыстырудың қажеті жоқ, оларды жағымды етіп сақтау үшін аздаған өзгерістер жеткілікті. Бұл жерде сіздің рөліңіз қамқоршыдан гөрі серіктеске жақын: қолдау көрсететін, бірге жоспарлайтын және тек сұрағанда ғана көмектесетін адам.
 
-## What activities are good in early-stage dementia?
+## Деменцияның ерте сатысында қандай әрекеттер қолайлы?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Ерте сатыда ең қолайлы әрекеттер — әдетте адам бұрыннан жақсы көретін, сәл жеңілдетілген істер. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ұйымы карта және үстел ойындары, сөз табу, серуендеу, би, бау-бақша өсіру, гүл шоғын жасау, әңгіме айту, сурет салу, музыка, күнделік жүргізу, хат жазу, скрапбукинг, тамақ әзірлеу және мерекелік дәстүрлер сияқты идеяларды ұсынады.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Көбіне әрекеттің өзі емес, ортасы өзгереді. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ерте сатыдағы адамдар кейде бұрын ұнатқан істерінен шегіне бастауы мүмкін екенін айтады және үлкен жиында шаршаған адам шағын топта өзін жақсырақ сезінуі мүмкін деген мысал келтіреді. Не қиындап бара жатқанын ашық талқылап, бірге бейімдеңіз.
 
-## Ask first, and agree on how to help
+## Алдымен сұраңыз және қалай көмектесуді келісе қойыңыз
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association ұйымының ерте сатыға арналған нұсқаулығында](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) әрекеттерге де қатысты бірнеше пайдалы әдет ұсынылады:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Тікелей сұраңыз.** «Кітап клубына қатысу сізге қалай оңайырақ болар еді?» деген сұрақ болжам жасаудан гөрі жақсы жауап береді.
+- **Адамның қолынан келетініне сеніңіз.** Қауіпсіздікке қатер болмаса, адамға өзі жасап көруге мүмкіндік беріңіз және оның орнына істеп қоюдың орнына қолдау көрсетіңіз.
+- **Белгі туралы келісе қойыңыз.** Мысалы, карта ойнау кезінде есім табылмай қалғанда, «қазір көмектесуге болады» дегенді білдіретін сөз немесе қимыл таңдаңыз.
+- **Үнемі сұрап тұрыңыз.** Көмектің мөлшері дұрыс па, тым көп пе, әлде аз ба екенін біліп отырыңыз.
 
-## Activity ideas for the early stage
+## Ерте сатыға арналған әрекет идеялары
 
-### Keep up roles and hobbies
+### Әдеттегі рөлдер мен хоббилерді жалғастыру
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Тұрақты істі сақтаңыз.** Апта сайынғы еріктілік кезегі, хор немесе үйірме аптаға белгілі бір рет береді. Егер ол мазасыздық тудыра бастаса, қысқарақ немесе тынышырақ рөл көбірек сәйкес келуі мүмкін.
+- **Тамақты бірге жоспарлаңыз.** Егер дүкенге бару қиындық тудырса, Alzheimer's Association адамнан апталық мәзірді жоспарлауға және тізімді жазуға көмектесуін сұруды ұсынады.
+- **Тамақ пісіріңіз және тәтті нан дайындаңыз.** Ұнататын рецепт бойынша бірге әзірлеңіз. Бастамас бұрын ингредиенттерді ретімен қойып шығыңыз, сонда қадамдар көзге көрініп тұрады.
+- **Бау-бақшада жұмыс істеңіз.** Көшет отырғызатын жерді жоспарлаңыз, тұқым немесе өсімдіктерді таңдаңыз және жұмысты бірге істеңіз. Апталық бау-бақша істерінің жазбаша тізімі көмектеседі.
+- **Қолөнерді жалғастырыңыз.** Ағаш өңдеу, тігу, тоқыма тоқу немесе модель құрастыру сияқты істерді қарапайым үлгілермен және жақсы жарықпен жалғастыруға болады.
 
-### Games for enjoyment
+### Ләззат алу үшін арналған ойындар
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Карта және үстел ойындарын ойнаңыз.** Таныс ойындар оңайырақ болады. Ешкім қысым сезінбеуі үшін командамен ойнаңыз, ал ұпайды шамамен санаңыз немесе мүлдем санамаңыз.
+- **Ірі әріпті сөзжұмбақты байқап көріңіз.** Біздің [сөзжұмбақ](/games/word-search/) ойынын экранда ойнауға немесе тыныш сәтте басып шығаруға болады.
+- **Пазл құрастырыңыз.** Күрделі емес, тыныштық беретін бөліктер санын таңдаңыз. [Сурет пазлы](/games/picture-puzzle/) — экрандағы қысқа нұсқа, ал [деменция кезіндегі пазлдар](/activities/puzzles/) туралы нұсқаулығымыз пазл таңдауға көмектеседі.
+- **Көңіл көтеру үшін викторинаға қатысыңыз.** Кейбір адамдар командалық викторинаны ұнатады. Егер ол сынақ сияқты сезіле бастаса, басқа нәрсе таңдаңыз немесе жауап нұсқалары бар және ұпайсыз өтетін [жеңіл викторина сұрақтарын](/activities/trivia/) байқап көріңіз.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Бұл жерде ойындар — рахат алу үшін. Ешқандай ойын деменцияны емдейтіні немесе баяулататыны дәлелденбеген; көбірек білу үшін [ми ойындары: зерттеулер не айтады](/brain-health/brain-games/) бөлімін оқыңыз.
 
-### Write, reflect and record
+### Жазу, ой елегінен өткізу және есте сақтау
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Күнделік жүргізіңіз.** Alzheimer's Association диагноз қойылғаннан кейінгі сезімдерді түсінудің бір жолы ретінде күнделік жүргізуді ұсынады. Күніне бірнеше жол жазса да жеткілікті.
+- **Өмірбаян кітабын бастаңыз.** Ерте саты — адамның өз фотосуреттерін таңдап, олардың артындағы оқиғаларды жазып немесе айтып беруі үшін қолайлы уақыт. [Естеліктерге арналған әрекеттер](/activities/reminiscence/) бөлімін қараңыз.
+- **Хат жазыңыз.** Немереге, ескі досқа немесе бұрынғы әріптеске жазылған хат екі жақ үшін де мағыналы болуы мүмкін.
+- **Фотосуреттер туралы әңгімелесіңіз.** [Сурет жұптары](/games/photo-pairs/) отбасы фотосуреттерін жеңіл сәйкестендіру ойынына айналдырады, ал [әңгіме карталары](/games/conversation-cards/) әңгімені бастауға оңай тірек береді.
 
-### Go out and move
+### Сыртқа шығу және қимылдау
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) екеуіңізге де ыңғайлы болғанша таныс серуендерді жалғастыруды ұсынады. Оларды адамның өзіне ең қолайлы уақытта жоспарлап, тым ұзаққа созбауға тырысыңыз.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Қысқа мәдени сапарлар.** Мұражай, күндізгі қойылым немесе көрме, мүмкіндігінше тыныш уақытта.
+- **Жүзу.** NIA бассейнге күннің азырақ жүктемелі уақытында баруды ұсынады.
+- **Серуен топтары және би сабақтары.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) би, тай чи, йога, жүзу және серуен топтарын, сондай-ақ бар болса деменциямен өмір сүретін адамдарға ыңғайлы сабақтарды атайды.
+- **Ән айту топтары және есте сақтау кафелері.** Деменциямен өмір сүретін адамдар мен олардың серіктестері ұқсас жағдайдағы адамдармен кездесіп, жайлы әңгімелесе алатын топтар.
 
-## Small changes that keep activities enjoyable
+## Әрекеттерді жағымды етіп сақтайтын шағын өзгерістер
 
-| If this is getting harder | Try this |
+| Егер мынау қиындап бара жатса | Мынаны байқап көріңіз |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Адам көп немесе шулы жерлер | Тыныш уақытта барыңыз, шағын топтарды таңдаңыз, бөлменің шетінде отырыңыз |
+| Жаңа есімдерді есте сақтау | Адамдарды әр жолы атымен таныстырыңыз; топтардан есім жазылған белгі тағуды сұраңыз |
+| Бірнеше қадамнан тұратын жоспарларды орындау | Қадамдарды жазып қойыңыз немесе бәрін алдын ала ретімен дайындаңыз |
+| Шаршау | Серуенді қысқартыңыз, кейін демалуға уақыт беріңіз, сол күнге басқа ештеңе жоспарламаңыз |
+| Ойында бақылап отыру | Командамен ойнаңыз, ережелерді жеңілдетіңіз немесе ұпай санамаңыз |
+| Сөз табу қиынға соғу | Уақыт беріңіз; тек алдын ала келісілген белгі бойынша ғана сөз ұсыныңыз |
 
-## When to slow down
+## Қашан қарқынды азайту керек
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Егер әрекет ләззаттан гөрі мазасыздық әкелсе, оны тоқтатыңыз немесе өзгертіңіз. Қайталана беретін реніш, хоббиден бас тарту немесе «енді қолымнан келмейді» деп айту — қысым көрсетудің емес, жұмсақ әңгімелесудің себебі. Көбіне шешім — сол істің қарапайымырақ нұсқасы. Егер адамға әрекетті бастау және қадамдарды орындау үшін көбірек көмек қажет болса, [ортаңғы сатыдағы әрекеттер](/activities/middle-stage/) бөліміндегі идеялар көбірек сәйкес келуі мүмкін. Қолдаушы әңгіме туралы көбірек білу үшін [қарым-қатынас кеңестері](/caregiving/communication-tips/) бөлімін, ал қосымша идеялар үшін [101 әрекет](/activities/ideas/) бөлімін қараңыз.
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Серіктестерге де қолдау қажет. Ерте саты — өзіңізге де көмек желісін құруға қолайлы уақыт; [қамқоршы өзін қалай күтеді](/caregiving/caregiver-self-care/) бөлімін қараңыз.

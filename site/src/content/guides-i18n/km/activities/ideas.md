@@ -1,34 +1,34 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "សកម្មភាពសម្រាប់មនុស្សរស់នៅជាមួយជំងឺវង្វេង៖ ១០១ គំនិត"
+seoTitle: "គំនិតសកម្មភាពជំងឺវង្វេង៖ ១០១ សកម្មភាពសាមញ្ញ"
+description: "១០១ សកម្មភាពសាមញ្ញ និងសមស្របសម្រាប់មនុស្សរស់នៅជាមួយជំងឺវង្វេង ពីការបត់កន្សែង ដល់តន្ត្រី និងរូបថត រួមទាំងវិធីកែសម្រួលនៅពេលការងារកាន់តែពិបាក។"
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  សកម្មភាពល្អៗសម្រាប់មនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង គឺជាសកម្មភាពដែលquenជាង សមស្របសម្រាប់មនុស្សពេញវ័យ
+  និងងាយស្រួលធ្វើជាមួយគ្នា៖ ដូចជា ការបោកខោអាវ ការតម្រៀប ការធ្វើម្ហូប ការស្តាប់តន្ត្រី ការមើលរូបថត
+  ការដើរលេង ការថែសួន ការចំណាយពេលជាមួយសត្វចិញ្ចឹម និងល្បែងសាមញ្ញៗ។ សូមជ្រើសរើសអ្វីដែលអ្នកដែលអ្នកថែទាំ
+  តែងតែចូលចិត្តធ្វើ ជួយធ្វើផ្នែកដែលពិបាកជំនួស និងឈប់សម្រាកនៅពេលពួកគាត់អស់កម្លាំង។ ពេលវេលាល្អៗដែលបានចំណាយជាមួយគ្នា
+  មានសារៈសំខាន់ជាងការបញ្ចប់អ្វីមួយ។
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "ចាប់ផ្តើមពីជីវិតផ្ទាល់របស់អ្នកដែលអ្នកថែទាំ៖ ការងារ ចំណង់ចំណូលចិត្ត សាសនា និងតន្ត្រីដែលពួកគាត់ចូលចិត្ត គឺជាមគ្គុទ្ទេសក៍ល្អបំផុត។"
+  - "ធ្វើឱ្យសកម្មភាពណាមួយកាន់តែងាយស្រួលតាមតម្រូវការ៖ កាត់បន្ថយជំហាន កាត់បន្ថយជម្រើស ឬឱ្យអ្នកធ្វើផ្នែកដែលពិបាក។"
+  - "ការមើល ការកាន់អ្វីមួយ ឬគ្រាន់តែអង្គុយនៅក្បែរ ក៏រាប់ថាជាការចូលរួមដែរ។"
+  - "ឈប់ ឬប្តូរសកម្មភាព នៅពេលអ្នកឃើញអស់កម្លាំង មិនសប្បាយចិត្ត ឬធុញទ្រាន់។ ការបញ្ចប់មុនកំណត់ក៏ជាលទ្ធផលល្អដែរ។"
+  - "ការធ្វើជាមួយគ្នា មានសារៈសំខាន់ជាងការធ្វើឱ្យបានត្រឹមត្រូវ។"
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "សកម្មភាពអ្វីខ្លះដែលល្អសម្រាប់អ្នកដែលមានជំងឺវង្វេង?"
+    a: "សកម្មភាពquenជាងដែលអ្នកដែលអ្នកថែទាំបានធ្វើអស់រយៈពេលជាច្រើនឆ្នាំ ហើយធ្វើឱ្យកាន់តែងាយស្រួលបន្តិច៖ ដូចជា ការបត់កន្សែង ការរៀបចំតុ ការធ្វើម្ហូប ការស្តាប់តន្ត្រី ការមើលរូបថត ការដើរលេង ការថែសួន និងការចំណាយពេលជាមួយសត្វចិញ្ចឹម។ សូមជ្រើសរើសសកម្មភាពដែលមានអារម្មណ៍សមស្របសម្រាប់មនុស្សពេញវ័យ និងមានប្រយោជន៍ ហើយធ្វើវាជាមួយគ្នា។"
+  - q: "សកម្មភាពមួយគួរមានរយៈពេលប៉ុន្មាន?"
+    a: "មិនមានរយៈពេលត្រឹមត្រូវជាក់លាក់ទេ។ ការបត់កន្សែងពីរបីនាទីអាចគ្រប់គ្រាន់សម្រាប់ថ្ងៃមួយ ខណៈថ្ងៃមួយផ្សេងទៀត ពួកគាត់អាចចំណាយពេលមួយម៉ោងក្នុងសួនដោយស្រួល។ សូមឱ្យអ្នកដែលអ្នកថែទាំកំណត់ល្បឿនរបស់ពួកគាត់ ហើយបញ្ចប់នៅពេលដែលវានៅតែមានអារម្មណ៍ល្អ។"
+  - q: "តើគួរធ្វើដូចម្តេច ប្រសិនបើអ្នកដែលអ្នកថែទាំបដិសេធមិនធ្វើសកម្មភាព?"
+    a: "កុំបង្ខំ។ ការបដិសេធអាចមានន័យថាការងារនោះពិបាកពេក ពេលវេលាមិនសម ឬពួកគាត់អស់កម្លាំង ឬមិនស្រួលខ្លួន។ សូមសាកល្បងនៅពេលក្រោយ ផ្តល់ជម្រើសដែលងាយស្រួលជាង ឬចាប់ផ្តើមធ្វើការងារនោះនៅក្បែរខ្លួនអ្នក ហើយអញ្ជើញពួកគាត់ឱ្យជួយ។"
+  - q: "តើល្បែងហាត់ខួរក្បាលល្អសម្រាប់មនុស្សដែលមានជំងឺវង្វេងដែរឬទេ?"
+    a: "ល្បែងអាចជាវិធីល្អមួយក្នុងការចំណាយពេលជាមួយគ្នា ប៉ុន្តែមិនមានល្បែងណាមួយត្រូវបានបង្ហាញថាអាចព្យាបាល ធ្វើឱ្យយឺត បញ្ឈប់ ឬព្យាករជំងឺវង្វេងបានទេ។ សូមជ្រើសរើសល្បែងដែលគ្មានម៉ោងកំណត់ គ្មានពិន្ទុ និងគ្មានសំឡេងរំលឹកថាខុស ហើយចាត់ទុកវាជាសកម្មភាពរួមគ្នា មិនមែនជាការសាកល្បងទេ។"
+  - q: "តើខ្ញុំអាចធ្វើដូចម្តេច ដើម្បីកុំឱ្យសកម្មភាពមានអារម្មណ៍ដូចជាកុមារ?"
+    a: "សូមប្រើសម្ភារៈពិតប្រាកដសម្រាប់មនុស្សពេញវ័យ៖ ដូចជា កន្សែងពិត រូបមន្តធ្វើម្ហូបពិត តន្ត្រីសម្រាប់មនុស្សពេញវ័យ សម្ភារៈសិល្បៈ និងរូបភាពដែលសមស្របសម្រាប់មនុស្សពេញវ័យ។ សូមស្នើសុំជំនួយលើការងារដែលអ្នកពិតជាត្រូវការ ហើយនិយាយជាមួយពួកគាត់ដូចជាមនុស្សពេញវ័យដែលពួកគាត់ជា។"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +50,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+សកម្មភាពល្អបំផុតសម្រាប់មនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង ជាទូទៅគឺអ្វីដែលពួកគាត់ធ្លាប់ស្គាល់ និងធ្វើបានរួចហើយ ដោយគ្រាន់តែធ្វើឱ្យវាកាន់តែងាយស្រួលបន្តិច និងធ្វើជាមួយអ្នកដែលពួកគាត់ទុកចិត្ត។ ខាងក្រោមនេះមានគំនិតចំនួន ១០១ ដែលត្រូវបានចាត់តាមប្រភេទ នីមួយៗមានវិធីរៀបចំ និងវិធីធ្វើឱ្យវាកាន់តែងាយស្រួល នៅពេលវាកាន់តែពិបាក។ អ្នកមិនចាំបាច់មានឧបករណ៍ពិសេសទេ ហើយក៏មិនចាំបាច់បញ្ចប់អ្វីគ្រប់យ៉ាងដែរ។ ពេលរសៀលដ៏ល្អមួយ អាចគ្រាន់តែជាការបត់កន្សែងមួយកន្ត្រក និងផឹកកាហ្វេជាមួយគ្នា។
 
-## How do you choose the right activity?
+## តើអ្នកគួរជ្រើសរើសសកម្មភាពដែលសមស្របដោយរបៀបណា?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+សូមជ្រើសរើសតាមបុគ្គល មិនមែនតាមបញ្ជីទេ៖ ចាប់ផ្តើមពីអ្វីដែលពួកគាត់តែងតែចូលចិត្ត និងអ្វីដែលពួកគាត់អាចធ្វើបានដោយស្រួលនៅថ្ងៃនេះ។
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **គិតអំពីការងារ និងចំណង់ចំណូលចិត្តរបស់ពួកគាត់។** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) បង្ហាញថា អ្នកដែលធ្លាប់ធ្វើការនៅការិយាល័យអាចចូលចិត្តតម្រៀបកាក់ ឬរៀបចំសំបុត្រ ហើយអ្នកដែលចូលចិត្តថែសួនអាចចូលចិត្តធ្វើការនៅក្នុងសួន។
+- **សង្កេតមើលអ្វីដែលពួកគាត់ធ្វើរួចហើយ។** ប្រសិនបើឪពុករបស់អ្នកអូសបោសរៀងរាល់ព្រឹកដោយខ្លួនឯង សូមដាក់វាចូលក្នុងកាលវិភាគប្រចាំថ្ងៃ។
+- **រៀបចំដោយគិតពីដែនកំណត់។** ភាពអស់កម្លាំង ភ្នែក ការស្តាប់ ដៃឈឺ និងការរក្សាតុល្យភាព សុទ្ធតែមានសារៈសំខាន់។
+- **សង្កេតអារម្មណ៍របស់ពួកគាត់។** សកម្មភាពដែលមានសកម្មភាពច្រើន ឬសំឡេងរំខានអាចសមសម្រាប់មនុស្សខ្លះ ប៉ុន្តែអាចធ្វើឱ្យមនុស្សខ្លះភ័យខ្លាច។
+- **ផ្តល់គោលបំណងឱ្យវា។** ការបត់កន្សែងសម្រាប់ពិធីមួយនៅព្រះវិហារ អាចមានអារម្មណ៍ថាមានប្រយោជន៍ជាងការធ្វើវាដោយគ្មានហេតុផល។
 
-### A rough guide by stage
+### ការណែនាំទូទៅតាមដំណាក់កាល
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+ជំងឺវង្វេងជាទូទៅត្រូវបានបែងចែកជាដំណាក់កាលដំបូង កណ្តាល និងចុងក្រោយ។ ទាំងនេះគ្រាន់តែជាការបែងចែកទូទៅប៉ុណ្ណោះ មិនមែនជាប្រអប់តឹងរឹងទេ ហើយមនុស្សជាច្រើនអាចមានថ្ងៃល្អ និងថ្ងៃពិបាកចម្រុះគ្នា ដូច្នេះសូមសង្កេតតាមអ្វីដែលអ្នកឃើញនៅថ្ងៃនោះ។ [បញ្ជីតាមដំណាក់កាលរបស់ Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ក៏មានលំនាំស្រដៀងគ្នាដែរ។
 
-| Topic | Early stage | Middle stage | Late stage |
+| ប្រធានបទ | ដំណាក់កាលដំបូង | ដំណាក់កាលកណ្តាល | ដំណាក់កាលចុងក្រោយ |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| អ្វីដែលអ្នកអាចសង្កេតឃើញ | ភាគច្រើនអាចធ្វើបានដោយខ្លួនឯង ប៉ុន្តែការរៀបចំ ឈ្មោះថ្មីៗ និងកន្លែងដែលមានមនុស្សច្រើនអាចពិបាក | ត្រូវការជំនួយក្នុងការចាប់ផ្តើម និងធ្វើតាមជំហាន ពាក្យសម្ដីអាចកាន់តែពិបាក | ត្រូវការជំនួយក្នុងការថែទាំប្រចាំថ្ងៃភាគច្រើន ការប្រើប្រសាទឥន្ទ្រីយមានសារៈសំខាន់បំផុត |
+| សកម្មភាពដែលជារឿយៗសមស្រប | បៀ ក្តារ ល្បែង ធ្វើម្ហូប ថែសួន សរសេរកំណត់ហេតុ ចេញក្រៅ ក្លឹប | បត់កន្សែង តម្រៀប ធ្វើម្ហូបជាជំហានសាមញ្ញ ច្រៀង មើលអាល់ប៊ុមរូបថត ដើរលេងដោយមានអ្នកជួយ | តន្ត្រីដែលពួកគាត់ចូលចិត្ត ការម៉ាស្សដៃ កាន់វត្ថុទន់ៗ ស្តាប់អ្នកអាន សម្រាកនៅខាងក្រៅ |
+| តួនាទីរបស់អ្នក | ជាដៃគូ៖ សួរថាពួកគាត់ចង់បានជំនួយអ្វី | រៀបចំ បង្ហាញ និងជួយធ្វើផ្នែកដែលពិបាក | នាំសកម្មភាពមករកពួកគាត់ ការនៅជាមួយគឺជាសកម្មភាពសំខាន់ |
+| គំនិតបន្ថែម | [ដំណាក់កាលដំបូង](/activities/early-stage/) | [ដំណាក់កាលកណ្តាល](/activities/middle-stage/) | [ដំណាក់កាលចុងក្រោយ](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## តើអ្នកគួរចាប់ផ្តើមសកម្មភាពជាមួយអ្នកដែលមានជំងឺវង្វេងដោយរបៀបណា?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+ចាប់ផ្តើមតូចៗ ចាប់ផ្តើមជាមួយពួកគាត់ និងធ្វើឱ្យវាងាយស្រួលក្នុងការយល់ព្រម។ មនុស្សជាច្រើននៅតែចង់ចូលរួម ប៉ុន្តែអាចពិបាកក្នុងការរៀបចំ ឬចាប់ផ្តើម។
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **ជ្រើសរើសពេលដែលពួកគាត់ស្រួលបំផុត** ជារឿយៗគឺពេលព្រឹក។
+2. **រៀបចំអ្វីៗទាំងអស់ជាមុន** ដើម្បីអាចចាប់ផ្តើមបានភ្លាមៗ។
+3. **សុំជំនួយ មិនមែនសុំឱ្យបង្ហាញសមត្ថភាព៖** «តើអ្នកអាចជួយខ្ញុំបន្តិចបានទេ?»
+4. **ចាប់ផ្តើមធ្វើមុនខ្លួនអ្នក។** បត់កន្សែងមួយសិន ហើយទុកឱ្យពួកគាត់ចូលរួម។ ការបង្ហាញមានប្រសិទ្ធភាពជាងការពន្យល់។
+5. **ផ្តល់តែមួយជំហានក្នុងពេលមួយ។**
+6. **ជួយធ្វើផ្នែកដែលពិបាកបំផុត។** Alzheimer's Association ណែនាំឱ្យអ្នកវាស់គ្រឿងផ្សំខ្លួនឯង រួចបញ្ជូនស្លាបព្រាឱ្យពួកគាត់កូរ។
+7. **អនុញ្ញាតឱ្យពួកគាត់ធ្វើតាមវិធីរបស់ពួកគាត់។** កន្សែងបត់ខុសបន្តិចក៏មិនអីដែរ។
+8. **ឈប់នៅពេលវាមិនសប្បាយទៀត។** ការមិនអង្គុយស្ងៀម ការរមួលមុខ ឬពាក្យថា «ខ្ញុំមិនអាចទេ» គឺជាសញ្ញាថាគួរប្តូរ ឬសម្រាក។
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+សូមមើលបន្ថែមនៅ [របៀបលេងជាមួយគ្នា](/caregiving/how-to-play-together/) និង [គន្លឹះក្នុងការប្រាស្រ័យទាក់ទង](/caregiving/communication-tips/)។
 
-## Everyday tasks at home
+## ការងារប្រចាំថ្ងៃនៅផ្ទះ
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+ការងារផ្ទះគឺquenជាង និងមានប្រយោជន៍ ដែលធ្វើឱ្យវាក្លាយជាកន្លែងល្អសម្រាប់ចាប់ផ្តើម។ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) រាយបញ្ជីការងារដូចជា លាងចាន រៀបចំតុ អូសផ្ទះ តម្រៀបសំបុត្រ និងបត់កន្សែង ថាជាសកម្មភាពដែលមនុស្សអាចចូលចិត្ត។ មើលបន្ថែមនៅ [ការងារផ្ទះ](/activities/household-tasks/)។
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **បត់កន្សែងក្តៅៗ។** ដាក់កន្សែងពីម៉ាស៊ីនសម្ងួតលើតុ ហើយបត់ជាមួយគ្នា។ ក្រោយមក ការរាបឱ្យរលោង និងដាក់ជាជង់ក៏មានប្រយោជន៍ដែរ។
+2. **ផ្គូផ្គងស្រោមជើង។** ចាប់ផ្តើមដោយពណ៌ខុសគ្នាច្បាស់ៗ។ ក្រោយមក ការតម្រៀបពណ៌ស្រាលពីពណ៌ចាស់ក៏គ្រប់គ្រាន់ហើយ។
+3. **រៀបចំតុ។** ផ្តល់វត្ថុតែមួយប្រភេទក្នុងពេលមួយ។ រៀបចំកន្លែងមួយជាគំរូជាមុន។
+4. **លាង ឬសម្ងួតចាន។** ទឹកក្តៅ សាប៊ូ និងចានដែលមិនបែក។ ការសម្ងួតពេលអង្គុយងាយស្រួលជាងសម្រាប់ជើង។
+5. **ជូតតុ។** ផ្តល់កន្សែងសើមបន្ទាប់ពីអាហារ។ វាជាការងារពិតសម្រាប់ដៃដែលចង់មានអ្វីធ្វើ។
+6. **តម្រៀបសំបុត្រ។** ដាក់កាតាឡុក និងសំបុត្រផ្សេងៗទៅក្នុងគំនរ «ទុក» និង «ចោល»។ កុំឱ្យវិក្កយបត្រពិតប្រាកដចូលរួម។
+7. **កាត់ប័ណ្ណបញ្ចុះតម្លៃ។** ប្រើកន្ត្រៃចុងមូល និងខ្ទាស់ផ្សព្វផ្សាយ។ ក្រោយមក ការគូសរង្វង់ជុំវិញអាហារដែលចូលចិត្តក៏អាចធ្វើបាន។
+8. **តម្រៀបកាក់។** តម្រៀបកាក់ទៅក្នុងពែង ឬរុំវា។ ជៀសវាងវត្ថុតូចៗ ប្រសិនបើពួកគាត់មានទម្លាប់ដាក់វត្ថុចូលមាត់។
+9. **អូសផ្ទះ ឬសម្អាតធូលី។** ប្រើជក់ស្រាលនៅរានហាល ឬប្រដាប់សម្អាតធូលីដៃវែងពេលអង្គុយលើកៅអី។
+10. **ជួយធ្វើម្ហូប។** លាងបន្លែ ហែកស្លឹកសាឡាត់ ឬកូរ។ អ្នកគួរគ្រប់គ្រងកាំបិត និងកំដៅ។
+11. **ដុតនំតាមរូបមន្តគ្រួសារ។** ប្រើកាតរូបមន្តដែលមានសរសេរដោយដៃពួកគាត់ ប្រសិនបើមាន។ ក្រោយមក ពួកគាត់អាចធ្វើជាអ្នកភ្លក់។
+12. **ធ្វើការងារការិយាល័យ។** បត់សំបុត្រ ដាក់សំបុត្រចូលស្រោម បិទតែម ឬសរសេរបញ្ជីទិញឥវ៉ាន់ជាមួយគ្នា។
 
-## Music
+## តន្ត្រី
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+តន្ត្រីquenជាងអាចទៅដល់មនុស្សបាន ទោះបីពេលខ្លះពាក្យសម្ដីពិបាកក៏ដោយ។ [គន្លឹះអំពីតន្ត្រីរបស់ Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ណែនាំឱ្យប្រើបទចម្រៀងquenជាង គ្មានការផ្សាយពាណិជ្ជកម្ម និងបិទទូរទស្សន៍។ មើលបន្ថែមនៅ [សកម្មភាពតន្ត្រី](/activities/music/)។
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **បង្កើតបញ្ជីចម្រៀងផ្ទាល់ខ្លួន។** តន្ត្រីពីវ័យជំទង់ និងវ័យម្ភៃឆ្នាំដំបូង ពិធីមង្គលការ ព្រះវិហារ និងវប្បធម៌របស់ពួកគាត់។
+14. **ច្រៀងជាមួយគ្នា។** ចាប់ផ្តើមច្រៀងមុន។ ការព្រុសៗ ឬស្តាប់ក៏រាប់ថាចូលរួមដែរ។
+15. **រក្សាចង្វាក់។** ទះដៃ ទះជង្គង់ ឬវាយស្គរដៃ។ អាចធ្វើបានពេលអង្គុយ និងក្នុងដំណាក់កាលចុងក្រោយ។
+16. **រាំ។** រាំយឺតៗក្នុងផ្ទះបាយ ឬយោលតាមចង្វាក់ពេលអង្គុយដោយកាន់ដៃគ្នា។
+17. **ស្តាប់អាល់ប៊ុមទាំងមូល។** អាល់ប៊ុមដែលពួកគាត់ចូលចិត្តពីដើមដល់ចប់ ជាមួយកាហ្វេ និងគ្មានអ្វីរំខានផ្សេងទៀត។
+18. **និយាយអំពីតន្ត្រី។** អញ្ជើញឱ្យរៀបរាប់រឿង មិនមែនសួររកការពិត៖ «សូមប្រាប់ខ្ញុំអំពីការរាំដែលអ្នកធ្លាប់ទៅ»។
+19. **មើលខ្សែភាពយន្តតន្ត្រី ឬការប្រគុំតន្ត្រី។** កម្មវិធីដែលពួកគាត់ធ្លាប់ចូលចិត្តអាចធ្វើឱ្យពេលល្ងាចកាន់តែល្អ។ អាចផ្អាកបានគ្រប់ពេល។
+20. **លេងឧបករណ៍តន្ត្រីដែលquenជាង។** អ្នកដែលធ្លាប់លេងព្យាណូអាចចូលចិត្តបទសាមញ្ញៗ ក្រោយមក អាចលេងតែពីរបីណូតជាមួយគ្នា។
+21. **ស្តាប់តន្ត្រីផ្ទាល់។** ការប្រគុំតន្ត្រីខ្លីៗនៅសហគមន៍ ឬការហាត់ច្រៀងក្រុម។ អង្គុយជិតច្រកចេញ។
 
-## Reminiscence: photos, objects and stories
+## ការចងចាំឡើងវិញ៖ រូបថត វត្ថុ និងរឿងរ៉ាវ
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+រីករាយជាមួយអតីតកាលជាមួយគ្នា ដោយមិនសាកល្បងការចងចាំ។ ជៀសវាងសំណួរដូចជា «តើអ្នកចាំទេ?» ឬ «នេះជានរណា?» ហើយប្រើការអញ្ជើញបើកចំហជំនួសវិញ។ មើលបន្ថែមនៅ [សកម្មភាពរំលឹកអតីតកាល](/activities/reminiscence/)។
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **មើលអាល់ប៊ុមរូបថត។** និយាយអំពីអ្វីដែលអ្នកឃើញ៖ «សម្លៀកបំពាក់នេះស្អាតណាស់។ សូមប្រាប់ខ្ញុំអំពីថ្ងៃនេះ»។ សូមយល់ព្រមតាមឈ្មោះណាដែលពួកគាត់ប្រើ។
+23. **ធ្វើប្រអប់អនុស្សាវរីយ៍។** ប្រអប់ស្បែកជើងដែលមានវត្ថុពីជីវិតរបស់ពួកគាត់ ដូចជា ប័ណ្ណការងារ ឬកាតរូបមន្ត។ យកវត្ថុចេញម្តងមួយ។
+24. **ចាប់ផ្តើមសៀវភៅរឿងជីវិត។** រូបថតពីរបីក្នុងមួយទំព័រ ជាមួយពាក្យពន្យល់អក្សរធំ។ វាអាចជួយឱ្យអ្នកជួយថ្មីៗស្គាល់ពួកគាត់កាន់តែប្រសើរ។
+25. **ប្រើកាតសន្ទនា។** [កាតសន្ទនា](/games/conversation-cards/) ផ្គូផ្គងរូបភាពជាមួយសំណួរបើកចំហ។
+26. **បង្កើតល្បែងរូបថតគ្រួសារ។** [រូបថតផ្គូផ្គង](/games/photo-pairs/) ប្រែក្លាយរូបថតរបស់អ្នកទៅជាល្បែងផ្គូផ្គង។
+27. **មើលវីដេអូគ្រួសារ ឬកម្មវិធីទូរទស្សន៍ចាស់ៗ។** បញ្ចេញមតិជាមួយគ្នា ជាជាងសួរសំណួរ។
+28. **កាន់វត្ថុពីជីវិតការងាររបស់ពួកគាត់។** ដូចជា សោ ឧបករណ៍វេជ្ជសាស្ត្រ ឬសៀវភៅកត់ត្រា។ ជារឿយៗដៃនាំរឿងរ៉ាវ។
+29. **ចម្អិនម្ហូបពីកុមារភាព។** ពួកគាត់អាចកូរ ភ្លក់ ឬគ្រាន់តែអង្គុយក្នុងផ្ទះបាយជាមួយអ្នក។
+30. **មើលផែនទីកន្លែងដែលពួកគាត់ធ្លាប់រស់នៅ។** តាមដានផ្លូវquenជាងក្នុងអាត្លាសអក្សរធំ ខណៈពេលនិយាយគ្នា។
 
-## Creative activities
+## សកម្មភាពច្នៃប្រឌិត
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+សិល្បៈគឺអំពីការធ្វើ មិនមែនអំពីលទ្ធផលចុងក្រោយទេ។ សូមប្រើសម្ភារៈសមស្របសម្រាប់មនុស្សពេញវ័យ និងមានសុវត្ថិភាព។ មើលបន្ថែមនៅ [សិល្បៈ និងសិប្បកម្ម](/activities/arts-and-crafts/)។
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **គូរដោយពណ៌ទឹក។** ក្រដាសក្រាស់ ពណ៌ពីរបី។ ប្រសិនបើការចាប់ផ្តើមពិបាក សូមគូរជ strokes ដំបូងជាមួយគ្នា។
+32. **ដាក់ពណ៌លើរូបសម្រាប់មនុស្សពេញវ័យ។** ផ្កា ឬគម្របគ្រែ មិនមែនតួកាតូនទេ។ [ទំព័រដាក់ពណ៌](/games/coloring/) របស់យើងអាចប្រើលើអេក្រង់ ឬបោះពុម្ពបាន។
+33. **បង្កើតរូបបិទបាំង (collage)។** ហែករូបភាពពីទស្សនាវដ្តីដូចជា សួន រថយន្ត ឬអាហារ រួចបិទវា។ ក្រោយមក ការជ្រើសរើសរូបភាពក៏គ្រប់គ្រាន់ហើយ។
+34. **រៀបចំផ្កា។** ផ្កាពីហាង និងแจกันមួយ។ ក្រោយមក ដាក់ផ្កាពីរបីដើមក្នុងដបក៏បាន។
+35. **ប៉ាក់ ឬចាក់ក្រងជាមួយគ្នា។** ជួរដេរសាមញ្ញៗជាមួយម្ជុលធំៗ។ ក្រោយមក ការរុំសរសៃអំបោះទៅជាបាល់។
+36. **ធ្វើកាតសម្រាប់គ្រួសារ។** បោះត្រា ចុះហត្ថលេខា ឬតុបតែងកាតថ្ងៃកំណើត និងកាតជូនពរសម្រាប់មនុស្សពិតប្រាកដ។
+37. **បង្កើតរូបពីដីឥដ្ឋស្ងួតដោយខ្យល់។** ចុចធ្វើចានតូចមួយ។ ប្រើសម្ភារៈដែលមិនមានជាតិពុល និងនៅក្បែរ។
+38. **ខាត់ និងបញ្ចប់ឈើ។** ឈុតផ្ទះបក្សីដែលកាត់រួច និងក្រដាសខាត់ មិនប្រើឧបករណ៍អគ្គិសនី។ មើលបន្ថែមនៅ [សកម្មភាពសម្រាប់បុរស](/activities/for-men/)។
+39. **សរសេរ ឬប្រាប់សំបុត្រ។** ផ្ញើទៅក្មួយ ឬមិត្តចាស់។ ប្រសិនបើការសរសេរពិបាក ពួកគាត់អាចនិយាយ ហើយអ្នកសរសេរជំនួស។
 
-## Outdoors and gardening
+## ខាងក្រៅ និងការថែសួន
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+ខ្យល់បរិសុទ្ធ និងពន្លឺថ្ងៃគឺជាមិត្តល្អ។ មើលបន្ថែមនៅ [សកម្មភាពខាងក្រៅ និងថែសួន](/activities/outdoor-and-gardening/)។
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **ស្រោចដើមឈើ។** ប្រើដបស្រោចតូច និងផើងពីរបី។ ការស្រោចទឹកប្រចាំថ្ងៃជួយបង្កើតចង្វាក់ក្នុងថ្ងៃ។
+41. **ដាំដើមឈើក្នុងផើង។** ដាក់វានៅលើតុ ដើម្បីកុំឱ្យត្រូវលុតជង្គង់។ ដើមឈើតូចៗងាយស្រួលជាងគ្រាប់ពូជ។
+42. **ដកស្មៅ ឬកាត់ផ្កាស្ងួត។** ពាក់ស្រោមដៃ ហើយធ្វើតែបន្តិចម្ដងៗ។
+43. **ប្រមូលស្លឹកឈើ។** ធ្វើតែកន្លែងតូចមួយ។ ក្រោយមក ការកាន់ថង់បើកក៏ជាការងារពិតដែរ។
+44. **ដើរលេងតាមផ្លូវquenជាង។** ជុំវិញប្លុក ឬទៅប្រអប់សំបុត្រ។ ផ្លូវខ្លីក៏មិនអីដែរ។
+45. **អង្គុយនៅខាងក្រៅជាមួយគ្នា។** អង្គុយលើកៅអីនៅរានហាលក្នុងថ្ងៃស្រួលៗ។ មើលពពក ឬមនុស្សដើរកាត់។
+46. **ផ្តល់អាហារបក្សី។** បំពេញឧបករណ៍ផ្តល់អាហារបក្សីជាមួយគ្នា ហើយមើលពីបង្អួច។
+47. **លាងរថយន្ត។** ប្រើធុង អេប៉ុង និងថ្ងៃក្តៅៗ។ ការលាងកង់ក៏ជាការងារមួយជំហានល្អ។
 
-## Sensory activities
+## សកម្មភាពប្រើប្រសាទឥន្ទ្រីយ
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+ការប៉ះ ក្លិន រសជាតិ សំឡេង និងការមើលឃើញ មានសារៈសំខាន់កាន់តែខ្លាំង នៅពេលជំងឺវង្វេងកាន់តែរីកចម្រើន។ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) និយាយអំពីតន្ត្រី វត្ថុសម្រាប់កាន់ និងការម៉ាស្សដៃសម្រាប់ដំណាក់កាលក្រោយៗ។ សូមពិនិត្យអំពីអាឡែរហ្សី និងហានិភ័យស្ទះមុន។ មើលបន្ថែមនៅ [សកម្មភាពប្រើប្រសាទឥន្ទ្រីយ](/activities/sensory/)។
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **ម៉ាស្សដៃ។** សូមសួរមុន ហើយប្រើឡេលាបបន្តិច។ ប្រើប្រភេទគ្មានក្លិន ប្រសិនបើមិនប្រាកដអំពីស្បែក ឬអាឡែរហ្សី។
+49. **ប៉ះក្រណាត់ផ្សេងៗ។** កន្ត្រកដែលមានក្រណាត់កម្រាល ក្រណាត់រោម និងក្រណាត់រលោង សម្រាប់ប៉ះ និងបត់។
+50. **សុំពីក្លិនឱសថ និងកាហ្វេ។** ដុសស្លឹកជីរនានា ឬ rosemary เบาๆ រវាងម្រាមដៃ។ ជៀសវាងក្លិនខ្លាំង ប្រសិនបើមានបញ្ហាដង្ហើម។
+51. **សិតសក់។** យឺតៗ និងទន់ភ្លន់ ប្រសិនបើពួកគាត់ចូលចិត្ត។
+52. **ប្រើកន្សែងក្តៅៗ។** សម្រាប់ដៃ និងមុខក្នុងថ្ងៃត្រជាក់។ សូមពិនិត្យសីតុណ្ហភាពជាមុន។
+53. **ប្រើអាវសកម្មភាព។** ប៊ូតុងធំៗ និងខ្សែរូតដែលដេរឱ្យជាប់រឹង។ សូមពិនិត្យថាគ្មានអ្វីអាចหลุดចេញ។
+54. **ភ្លក់អាហារដែលពួកគាត់ចូលចិត្ត។** មួយស្លាបព្រាតូចៗ ក្នុងរូបរាងដែលពួកគាត់អាចញ៉ាំបានដោយសុវត្ថិភាព។
+55. **ស្តាប់សំឡេងធម្មជាតិ។** សំឡេងភ្លៀង រលក ឬសំឡេងបក្សីក្នុងកម្រិតទាប។
+56. **មើលអ្វីដែលយឺតៗ។** អាងត្រី វីដេអូធម្មជាតិ ឬព្រិលធ្លាក់។
 
-## Games and puzzles
+## ល្បែង និងល្បែងផ្គុំរូប
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+ល្បែងមានប្រយោជន៍ នៅពេលគ្មានម៉ោងកំណត់ ពិន្ទុ ឬសម្ពាធ។ ប្រសិនបើវាចាប់ផ្តើមមានអារម្មណ៍ដូចជាការសាកល្បង សូមដាក់វាចោល។ មើលបន្ថែមនៅ [ការជ្រើសរើសកម្មវិធី និងល្បែង](/caregiving/choosing-apps-and-games/) និង [ល្បែងខួរក្បាល](/brain-health/brain-games/)។
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **ផ្គូផ្គងរូបភាព។** [រូបភាពផ្គូផ្គង](/games/picture-pairs/) អនុញ្ញាតឱ្យបើករូបភាពទាំងអស់ ដូច្នេះវាផ្តោតលើការសង្កេត មិនមែនការចងចាំទេ។
+58. **រករូបភាពដូចគ្នា។** [រករូបដូចគ្នា](/games/find-the-same/) មានជម្រើសពី ២ ទៅ ៤។ អាចនិយាយអំពីរូបភាពនីមួយៗជាមួយគ្នា។
+59. **តម្រៀបទៅក្នុងកន្ត្រក។** [តម្រៀបជាមួយគ្នា](/games/sort-together/) ដូចជាការតម្រៀបស្រោមជើងនៅលើអេក្រង់។
+60. **លេងផ្គុំរូបដុំធំៗ។** ប្រើរូបភាពសម្រាប់មនុស្សពេញវ័យ និងចំនួនដុំតិច។ [ល្បែងផ្គុំរូបភាព](/games/picture-puzzle/) រក្សារូបភាពទាំងមូលឱ្យមើលឃើញ។ មើលបន្ថែមនៅ [ល្បែងផ្គុំរូបសម្រាប់ជំងឺវង្វេង](/activities/puzzles/)។
+61. **លេងបៀដែលពួកគាត់ធ្លាប់លេង។** លេងអ្វីដែលពួកគាត់ធ្លាប់លេងអស់ច្រើនឆ្នាំ។ ក្រោយមក ការតម្រៀបបៀតាមពណ៌ក៏ជាល្បែងមួយដែរ។
+62. **លេងដូមីណូ។** ផ្គូផ្គងចុងទាំងពីរ។ ក្រោយមក គ្រាន់តែតម្រង់ដុំជាជួរក៏បាន។
+63. **សាកល្បងល្បែងស្វែងរកពាក្យអក្សរធំ។** [ល្បែងស្វែងរកពាក្យ](/games/word-search/) របស់យើងមានពាក្យតែផ្ដេក និងបញ្ឈរ និងអាចបោះពុម្ពបាន។
+64. **បញ្ចប់សុភាសិតquenជាង។** [បញ្ចប់សុភាសិត](/games/finish-the-saying/) អនុញ្ញាតឱ្យបង្ហាញចម្លើយបានគ្រប់ពេល។
+65. **លេងប៊ីងហ្គោរូបភាព។** [ប៊ីងហ្គោរូបភាព](/games/picture-bingo/) សមស្របសម្រាប់គ្រួសារ និងក្រុម។ អាចជួយគូសសញ្ញាលើកាតបានដោយសេរី។
+66. **លេងអុក។** កុំយកចិត្តទុកដាក់ច្បាប់ខ្លាំងពេក។ ការផ្លាស់ទីកូនអុកខណៈពេលនិយាយគ្នាក៏រាប់ថាលេងដែរ។
 
-## Movement
+## ចលនា
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA ណែនាំអំពីការដើរ ជិះកង់និចល ការពន្លាតដោយខ្សែយឺត ការបោះបាល់ទន់ ឬប៉េងប៉ោង ការលើកកំប៉ុងស៊ុប និងវីដេអូលំហាត់សម្រាប់មនុស្សវ័យចំណាស់។ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិតមុនចាប់ផ្តើមអ្វីថ្មី ជាពិសេសប្រសិនបើមានបញ្ហាតុល្យភាព។
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **បោះប៉េងប៉ោង។** អង្គុយមុខគ្នា។ វាផ្លាស់ទីយឺតៗ ដូច្នេះងាយស្រួលចាប់។
+68. **ធ្វើតាមវីដេអូលំហាត់ពេលអង្គុយ** ដែលបង្កើតសម្រាប់មនុស្សវ័យចំណាស់ ជាមួយគ្នា។
+69. **ពន្លាតដោយខ្សែយឺត។** ទាញដៃเบาๆ ដោយខ្សែស្រាលៗពេលអង្គុយ។
+70. **លើកកំប៉ុងស៊ុប។** លើកដៃយឺតៗ អាចធ្វើតាមចង្វាក់តន្ត្រី។
+71. **ជិះកង់និចល។** ប៉ុន្មាននាទីដោយស្រាលៗ ដោយមានអ្នកនៅក្បែរ។
+72. **រាំដោយកន្សែងស្រាល។** គ្រវីកន្សែងស្រាលៗតាមតន្ត្រី ពេលអង្គុយ ឬឈរ។
+73. **ដើរដោយមានគោលបំណង។** ដើម្បីផ្ញើសំបុត្រ ឬទិញកាហ្វេ។ មានហេតុផលក្នុងការទៅធ្វើឱ្យមានអារម្មណ៍ធម្មតា។
+74. **សម្រាកដកដង្ហើមជាមួយគ្នា។** បន្ថយល្បឿនជាមួយគ្នាដោយ [ដកដង្ហើមស្ងប់ស្ងាត់](/games/calm-breathing/)។
 
-## Social activities
+## សកម្មភាពសង្គម
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+ការមានមនុស្សនៅជាមួយមានសារៈសំខាន់ ទោះបីការចងចាំឈ្មោះពិបាកក៏ដោយ ហើយក្រុមតូចៗងាយស្រួលជាងក្រុមធំៗ។ NIA កត់សម្គាល់ថា មនុស្សម្នាក់អាចមិនចាំថាអ្នកទស្សនាជានរណា ប៉ុន្តែនៅតែរីករាយនឹងការមានមនុស្សនៅជាមួយ។ មើលបន្ថែមនៅ [ការទស្សនា](/activities/visiting/)។
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **អញ្ជើញភ្ញៀវម្តងមួយ ឬពីរនាក់។** ការទស្សនាខ្លីៗក្នុងបន្ទប់ស្ងប់ស្ងាត់ ជាមួយរូបថតសម្រាប់មើលជាមួយគ្នា។
+76. **វីដេអូហៅទៅគ្រួសារ។** ការហៅខ្លីៗ ម្តងមួយសម្លេង។ មើលបន្ថែមនៅ [ការហៅទូរស័ព្ទ និងវីដេអូ](/activities/phone-and-video-calls/)។
+77. **សាកល្បង Memory Café។** ជាការជួបជុំសាមញ្ញសម្រាប់មនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង និងអ្នកថែទាំ។ សូមសួរអង្គភាពជំនួយមនុស្សវ័យចំណាស់នៅតំបន់របស់អ្នកថាតើមាននៅជិតណាដែរ។
+78. **ទៅញ៉ាំអាហារនៅខាងក្រៅក្នុងពេលស្ងប់។** NIA ណែនាំឱ្យជ្រើសរើសភោជនីយដ្ឋានquenជាង និងស្ងប់ នៅពេលមិនមានមនុស្សច្រើន ហើយអង្គុយជិតបន្ទប់ទឹក។
+79. **ទៅមជ្ឈមណ្ឌលមនុស្សវ័យចំណាស់ ឬកម្មវិធីថែទាំពេលថ្ងៃ។** ជាការមានមិត្តរួមសម្រាប់ពួកគាត់ និងពេលសម្រាកសម្រាប់អ្នក។
+80. **ចំណាយពេលជាមួយកុមារ។** ការទស្សនាខ្លីៗ និងស្ងប់ស្ងាត់ពីចៅ ឬការអានសៀវភៅរូបភាពឱ្យកូនតូច។
+81. **អានកាសែតជាមួយកាហ្វេ។** អានចំណងជើងឱ្យស្តាប់។ ទម្លាប់នេះសំខាន់ជាងព័ត៌មាន។
+82. **ជួយអ្នកដទៃ។** បត់កម្មវិធីព្រះវិហារ ឬធ្វើកាតជូនអ្នកជិតខាង។
 
-## Faith and spiritual activities
+## សកម្មភាពសាសនា និងខាងវិញ្ញាណ
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+សូមអនុវត្តតាមប្រពៃណីរបស់អ្នកដែលអ្នកថែទាំ ឬគ្មានក៏បាន។ NIA ណែនាំអំពីការចូលរួមពិធីquenជាង ការអាន អត្ថបទបរិសុទ្ធ តន្ត្រីបរិសុទ្ធ ការអធិស្ឋាន ការធ្វើសមាធិ និងទម្លាប់ក្នុងថ្ងៃបុណ្យ។
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **ចូលរួមពិធីquenជាង។** ជ្រើសរើសពិធីដែលស្ងប់ស្ងាត់ អង្គុយជិតច្រកចេញ ហើយប្រាប់អ្នកនៅទីនោះអំពីជំងឺវង្វេង។
+84. **មើលពិធីតាមអនឡាញ** ក្នុងថ្ងៃដែលការចេញទៅក្រៅពិបាកពេក។
+85. **អធិស្ឋាន ឬអានជាមួយគ្នា។** ប្រើពាក្យquenជាង អានយឺតៗ។ ពួកគាត់អាចចូលរួមក្នុងផ្នែកដែលពួកគាត់ចាំបាន។
+86. **ច្រៀងបទសាសនា ឬតន្ត្រីបរិសុទ្ធ** តាមប្រពៃណីរបស់ពួកគាត់។
+87. **រក្សាទម្លាប់ថ្ងៃបុណ្យ។** ទៀនប្រើថ្ម ផ្ទាំងអធិស្ឋាន ឬការតុបតែងដែលពួកគាត់តែងតែប្រើ។
+88. **ចំណាយពេលស្ងប់ស្ងាត់ជាមួយគ្នា។** អង្គុយក្នុងសួន ឬមើលថ្ងៃលិចជាមួយគ្នា។
 
-## Pets and animals
+## សត្វចិញ្ចឹម និងសត្វ
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA ណែនាំអំពីការផ្តល់អាហារ សិតសក់ ដើរលេង ឬអង្គុយជាមួយ និងកាន់សត្វចិញ្ចឹម។
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **សិតសក់ឆ្កែ ឬឆ្មាដែលស្ងប់** ដោយចលនាយឺតៗ និងវែងៗ។
+90. **ផ្តល់អាហារសត្វចិញ្ចឹមជាមួយគ្នា។** អ្នកវាស់ចំនួន ពួកគាត់ចាក់។
+91. **ដើរឆ្កែជាមួយគ្នា។** អ្នកកាន់ខ្សែ។
+92. **អោយសត្វចិញ្ចឹមអង្គុយលើត្រគាក។** ឆ្មាស្ងប់ៗលើភួយអាចធ្វើឱ្យមានអារម្មណ៍ស្ងប់។
+93. **ស្វាគមន៍សត្វមកលេង។** មណ្ឌលថែទាំ និងកម្មវិធីពេលថ្ងៃខ្លះមានការអញ្ជើញសត្វមកលេង។ សូមសួរនៅតំបន់របស់អ្នក។
+94. **ផ្តល់តុក្កតាសត្វដែលមើលទៅដូចពិត។** ប្រសិនបើគ្មានសត្វចិញ្ចឹម មនុស្សខ្លះអាចចូលចិត្តកាន់តុក្កតាឆ្មា ឬឆ្កែ។ សូមផ្តល់ជូនដោយសាមញ្ញ មិនមែនដូចជាក្មេងលេងទេ ហើយទទួលយកការបដិសេធ។
 
-## Seasonal activities
+## សកម្មភាពតាមរដូវកាល
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+រក្សាទំនៀមទម្លាប់ ប៉ុន្តែធ្វើឱ្យកាន់តែងាយស្រួល។ NIA ណែនាំឱ្យមានការរៀបចំតាមភាពពិតប្រាកដ និងមានកន្លែងស្ងប់ស្ងាត់សម្រាប់សម្រាក ក្នុងអំឡុងពេលថ្ងៃបុណ្យដែលមានមនុស្សច្រើន។
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **តុបតែងតាមរដូវកាល។** ល្ពៅ ផ្កាក្រវាត់ ឬផ្កាស្រស់លើតុ។
+96. **ធ្វើអាហារបុណ្យ។** រមៀលម្សៅ ឬលាបគ្រីមលើនំខូគី។ អ្នកគ្រប់គ្រងឡ។
+97. **ព្យួរតុបតែង។** វត្ថុតុបតែងដែលមិនបែក ផ្តល់ម្តងមួយ។
+98. **ជិះរថយន្តមើលភ្លើងតុបតែង។** ការជិះខ្លីៗពេលល្ងាចដែលត្រូវការតែការនៅជាមួយគ្នា។
+99. **ដាំអំពូលផ្កានិទាឃរដូវ។** ចុចអំពូលផ្កាចូលក្នុងផើងនៅរដូវស្លឹកឈើជ្រុះ ហើយរង់ចាំមើលពន្លក។
+100. **ស្រង់ពោត ឬបកសណ្តែក។** ការងារនៅរានហាលក្នុងរដូវក្តៅ ដោយមានចាននៅលើត្រគាក។
+101. **សរសេរលើកាតបុណ្យ។** ពួកគាត់ចុះហត្ថលេខា បិទតែម ឬបិទស្រោម អ្នកគ្រប់គ្រងអាសយដ្ឋាន។
 
-## What if an activity is not working?
+## តើគួរធ្វើដូចម្តេច ប្រសិនបើសកម្មភាពមិនដំណើរការ?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+សូមឈប់ ហើយសាកល្បងអ្វីផ្សេងនៅពេលក្រោយ។ NIA ណែនាំឱ្យសង្កេតមើលការមិនសប្បាយចិត្ត និងអនុញ្ញាតឱ្យពួកគាត់គ្រាន់តែមើល ប្រសិនបើពួកគាត់ចង់។ ការបដិសេធជារឿយៗមានន័យថាការងារពិបាកពេក ពេលវេលាមិនត្រឹមត្រូវ ឬមានអ្វីផ្សេងទៀតរំខានដូចជា ឈឺចាប់ ឃ្លាន ឬសំឡេងរំខាន។ សូមធ្វើឱ្យវាកាន់តែងាយស្រួល សាកល្បងនៅពេលព្រឹកជាងនេះ ឬចាប់ផ្តើមធ្វើខ្លួនឯងមុន ហើយមើលថាតើពួកគាត់ចូលរួមដែរឬទេ។ មើលបន្ថែមនៅ [នៅពេលពួកគាត់និយាយថាទេ](/caregiving/when-they-say-no/) និង [ភាពមិនស្ងប់នៅពេលល្ងាច](/caregiving/late-day-restlessness/)។
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+ដើម្បីរៀបចំសកម្មភាពរវាងពេលអាហារ និងការសម្រាក សូមមើល [ទម្លាប់ប្រចាំថ្ងៃដ៏ស្រួលៗ](/activities/daily-routine/)។ សម្រាប់អ្វីដែលគួរត្រៀមទុក សូមមើល [សកម្មភាពដែលអាចបោះពុម្ពបាន](/activities/printable/) ហើយប្រសិនបើអ្នកដឹកនាំក្រុម សូមមើល [សកម្មភាពក្រុមនៅមណ្ឌលថែទាំ](/activities/care-home-groups/)។ ការសម្រាករបស់អ្នកផ្ទាល់ក៏សំខាន់ដែរ៖ សូមមើល [ការថែទាំខ្លួនឯងសម្រាប់អ្នកថែទាំ](/caregiving/caregiver-self-care/)។

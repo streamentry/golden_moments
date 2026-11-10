@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Dɔwɔnawo na ame siwo le titina ƒe susu ƒe dɔléle me"
+seoTitle: "Dɔwɔnawo le titina ƒe susu ƒe dɔléle me"
+description: "Dɔwɔna bɔbɔewo na ame siwo le titina ƒe susu ƒe dɔléle me: aƒemedɔwo, ha, foto kple fefe bɔbɔewo, kple alesi woawɔ wo kple alesi woatrɔ dzimaɖitsitsi wòazu nane si woawɔ."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Le titina ƒe susu ƒe dɔléle me la, dɔwɔna siwo nyo wu enye esiwo le kpuie,
+  wonya wo nyuie, eye woma wo ɖe afɔɖeɖe ɖekaɖeka me: awu ʋlɔlɔ̃, afɔwɔwu
+  ɖoɖo, agba klɔklɔ, hadzidzi, azɔlizɔzɔ kple ame bubu, foto ƒe agbalẽwo kple
+  nɔnɔmetata ƒe fefe bɔbɔewo. Dzra nuawo ɖo, fia afɔɖeɖe gbãtɔ, wɔ akpa
+  sesẽawo, eye na taɖodzinu dɔwɔnana. Dzudzɔ ne meganyo o.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Aƒemedɔ siwo wonya nyuie la wɔa dɔ nyuie zi geɖe, elabena wonaa ame sena le eɖokui me be yeaɖe vi eye yeanye ame tsitsi."
+  - "Fia nu tsɔ wu be nàƒo nu, na afɔɖeɖe ɖeka ɖe ɣeyiɣi ɖeka me, eye na tiatia bɔbɔe eve tsɔ wu nyabiase siwo me kɔ o."
+  - "Wɔ akpa si sesẽ wu la, ale be ame si dzi nèkpona la nate ŋu awɔ akpa si doa dzidzɔ na ame."
+  - "Dzimaɖitsitsi ƒe nuwɔna fia zi geɖe be ame la di be yeawɔ nane. Na dɔwɔna si sɔ nɛ tsɔ wu be nàgblɔ be mègawɔe o."
+  - "Enyo be woakpɔ nu ɖeɖe, akpe asi ɖe eŋu vie, alo adzudzɔ kaba."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Dɔwɔna kawoe nyo na ame siwo le titina ƒe susu ƒe dɔléle me?"
+    a: "Dɔwɔna siwo le kpuie, wonya wo nyuie, eye woatsɔ asi awɔe la wɔa dɔ nyuie zi geɖe: awu gbadzawo ʋlɔlɔ̃, afɔwɔwu ɖoɖo, agba klɔklɔ, kplɔ̃ ɖoɖo, hadzidzi kple ha xoxo siwo wolɔ̃na, azɔlizɔzɔ kple ame bubu, foto ƒe agbalẽwo kpɔkpɔ kple nɔnɔmetata ƒe fefe bɔbɔewo. Ma wo dometɔ ɖe sia ɖe ɖe afɔɖeɖe ɖekaɖeka me, eye miwɔe ɖekae."
+  - q: "Aleke mawɔ be ame si le agbe nɔm kple susu ƒe dɔléle nadze dɔwɔna gɔme?"
+    a: "Dzra nu sia nu ɖo do ŋgɔ, emegbe nàdze dɔwɔnana gɔme wò ŋutɔ eye nàkpee be wòakpe asi ɖe ye ŋu: ‘Àte ŋu akpe asi ɖe ŋunye le awu gbadza siawo ŋua?’ Ame geɖe dina be yewoakpɔ gome gake esesẽna na wo be woadze egɔme. Afɔɖeɖe gbãtɔ fiafia wɔa dɔ nyuie wu be woaɖe eme."
+  - q: "Nuka mawɔ ne egale nane wɔm enuenu?"
+    a: "Nuwɔwɔ enuenu megblẽa nu o zi geɖe, eye ate ŋu afia be ame la di be yeasɔ kple dɔ alo yeahiã akɔfafa. Tsɔ wu be nàɖɔe ɖo la, na dɔwɔna si sɔ kple ʋuʋua, abe kusi si me awu gbadza siwo woaʋlɔ̃ le ene alo ha si miadzi ɖekae."
+  - q: "Nukae adzɔ ne mewɔ dɔwɔnana nyuie o?"
+    a: "Ne megblẽa nu o la, gblẽe ɖi nenema. Awu gbadzawo ʋlɔlɔ̃ le mɔ bubu nu alo agagba siwo mele teƒe nyuitɔ o mehiã o. Ne woɖɔe ɖo la, ate ŋu awɔ abe ɖe wole nya hem ɖe eŋu ene, gake ne woɖe mɔ nɛ wòawɔe le eƒe mɔ nu la, ena wòsena le eɖokui me be yeate ŋu awɔ nu eye yeaɖe vi."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Susu ƒe dɔléle ƒe titina ƒe akpa la nyea esi didi wu zi geɖe, eye ɣemaɣie dɔwɔnawo hiãa kpekpeɖeŋu ŋutɔŋutɔ. Nya gbɔgblɔ sesẽna wu, afɔɖeɖewo tɔtɔna, eye naneke dze gɔme sesẽna. Gake didi be woaɖe vi eye woakpɔ gome la ganɔa anyi zi geɖe. Ne wodzra nuwo ɖo vie la, ame si le titina ƒe akpa me ate ŋu akpɔ dzidzɔ le nu geɖe ŋu, vevietɔ aƒemedɔ siwo wonya nyuie, ha kple nɔnɔmetatawo ne miewɔ wo ɖekae.
 
-## What activities work well in middle-stage dementia?
+## Dɔwɔna kawoe wɔa dɔ nyuie le titina ƒe susu ƒe dɔléle me?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Dɔwɔna siwo le kpuie, wonya wo nyuie, eye woatsɔ asi awɔe, siwo woma ɖe afɔɖeɖe ɖekaɖeka me la wɔa dɔ nyuie wu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) gblɔ be mehiã be nàto nu yeyewo vɛ be woawɔ o: dɔwɔnawo ate ŋu anye gbesiagbedɔwɔnawo ƒe akpa aɖe, abe nuɖaɖa ɖekae, abɔ me dɔwɔwɔ, ha sese alo azɔlizɔzɔ ene.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) de dzesii be ame siwo le akpa sia me la dina vevie zi geɖe be yewoase le yewo ɖokui me be yewoɖe vi alo yewoakpɔ naneke dzi, eye wohiã kpekpeɖeŋu be yewoadze dɔwɔnawo gɔme alo ayi wo dzi. Eƒe titina ƒe akpa ƒe xexlẽdzesiwo dometɔ aɖewoe nye awu ʋlɔlɔ̃, agba klɔklɔ, afɔwɔwu ɖoɖo, kamedede bɔbɔe, ɣeɖuɖu kple ha siwo wonya nyuie, azɔlizɔzɔ kple ame bubu, hadzidzi ɖekae, nutata bɔbɔe kple foto ƒe agbalẽwo kpɔkpɔ.
 
-## How do you set up an activity so it works?
+## Aleke nàdzra dɔwɔna ɖo be wòawɔ dɔ nyuie?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Dɔwɔna akpa gãtɔ dzɔna nyuie alo medzɔna nyuie o le dzadzraɖo me. Nu siwo gbɔna, siwo tso [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) kple [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gbɔ, la naa vovototo gãtɔ:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Wɔ teƒea ƒuƒlu.** Tsi television la, tu ʋɔtrua, eye da nu siwo hiã na dɔwɔnana ɖeɖe ko ɖe go.
+2. **Dze egɔme wò ŋutɔ.** Dze awu ʋlɔlɔ̃ alo nu ʋeʋẽ gɔme eye nàkpee be wòava kpe ɖe ŋuwò: „Àte ŋu akpe asi ɖe ŋunye le esia ŋua?”
+3. **Fiae, emegbe nàlala.** Fia afɔɖeɖe ɖeka. Fia asi alo kplɔe kple wò asi, le kpɔɖeŋu me, fia afisi woada agba la ɖo.
+4. **Na afɔɖeɖe ɖeka ɖe ɣeyiɣi ɖeka me.** „Ʋlɔe ɖe afã me” bɔbɔ wu „ʋlɔ esiawo eye nàɖo wo ɖe woƒe amadede nu”.
+5. **Na tiatia eve, menye nyabiase siwo me kɔ o.** „Awu gbadza blɔtɔwo alo ɣiwoa?” bɔbɔna wu be woaɖo eŋu wu „Kae nèdi be yeawɔ?”
+6. **Wɔ akpa si sesẽ la wò ŋutɔ.** Wòe dzidzea nu, eyae ʋua nu. Wòe dea ka abi me, eyae ƒoa ka la.
+7. **Na susu dɔa.** „Awu gbadza siawo nye Kɔsiɖagbe ƒe fiẽnuɖuɖu tɔ” nana dɔa dzena abe nu ŋutɔŋutɔ ene.
+8. **Ðe mɔ nɛ be wòakpɔ nu ɖeɖe ne edii.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) de dzesii be nukpɔkpɔ ɖeɖe hã ate ŋu anye nu doa dzidzɔ.
 
-## Activity ideas for the middle stage
+## Dɔwɔna ƒe susuwo na titina ƒe akpa
 
-### Useful jobs
+### Aƒemedɔ siwo ɖea vi
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Awu gbadzawo kple awu gbadza suewo ʋlɔlɔ̃.** Nu sue siwo le gbadzaa la bɔbɔna wu. Kusi si me awu gbadza sue dzodzoewo le la, woate ŋu aʋlɔ wo, abla wo eye agaʋlɔ wo ake.
+- **Afɔwɔwu ɖoɖo.** Dze egɔme kple afɔwɔwu ƒe eve aɖewo siwo to vovo ŋutɔ. Wo ɖoɖo ɖe woƒe amadede ɖeɖe ko nu hã enyo.
+- **Agba siwo megbãna o klɔklɔ alo tutu.** Tsi dzodzoe si me adzalẽ le la vivina na asi. Agba tutu ne woanɔ anyi la bɔbɔna wu na afɔwo.
+- **Kplɔ̃ ɖoɖo.** Tsɔ nu ƒomevi ɖeka nɛ ɖe ɣeyiɣi ɖeka me, eye nàɖo teƒe ɖeka wò ŋutɔ abe kpɔɖeŋu ene.
+- **Kpekpe asi ɖe fiẽnuɖaɖa ŋu.** Atadi klɔklɔ, ama ƒoƒo alo nu ʋeʋẽ le agba me. Wòe akpɔ hɛ kple dzoxɔxɔ dzi.
+- **Aƒe gbɔgbɔ, ʋuʋudedi ɖeɖe alo nu tutu.** Avɔ na kplɔ̃a, xaƒoƒo bɔbɔe na akpata.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Kpɔ [aƒemedɔwo](/activities/household-tasks/) hena susu bubu geɖe.
 
-### Music and movement
+### Ha kple ʋuʋu
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Ha xoxo siwo wolɔ̃na dzidzi.** Dze hadzidzi gɔme wò ŋutɔ; ame geɖe gena ɖe ha siwo wonya tso ƒe geɖe me. Kpɔ [ha ƒe dɔwɔnawo](/activities/music/).
+- **Ɣeɖuɖu faa.** Ʋuʋu, asikpe alo ʋuʋu le mɔ si adze ame ŋu la nu. Anyinɔnɔ hã enyo.
+- **Yaʋaƒoƒo.** Eʋua le blewu eye wobɔbɔna be woalée tso zikpui dzi.
+- **Azɔlizɔzɔ kple ame bubu.** Mizɔ mɔ kpui aɖe si wonya nyuie ɖekae, alɔ ɖe alɔ me ne ekpena ɖe ame ŋu.
 
-### Pictures and stories
+### Nɔnɔmetatawo kple ŋutinyawo
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Foto ƒe agbalẽ kpɔkpɔ.** Gblɔ nu tso nu si nèkpɔ ŋu tsɔ wu be nàbia nya: „Kpɔ ʋu ma ɖa. Gblɔ nya tso eŋu nam.” Kpɔ [ŋkuɖoɖo ƒe dɔwɔnawo](/activities/reminiscence/).
+- **Zã dzeɖoɖo ƒe agbalẽviwo.** [Dzeɖoɖo ƒe agbalẽviwo](/games/conversation-cards/) tsɔa nɔnɔmetata kpena ɖe nyabiase si me dodokpɔ mele o ŋu.
+- **Sinima xoxo kpɔkpɔ ɖekae.** Tia esi wonya nyuie, nɔ egbɔ, eye nàdzudzɔe be miaɖi ɖe eme.
 
-### Simple, pressure-free games
+### Fefe bɔbɔe siwo me nyaƒoɖeamenu mele o
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Nɔnɔmetata eve ƒe fefe si me nɔnɔmetatawo le dzedzem.** [Nɔnɔmetata eve ƒe fefe](/games/picture-pairs/) ɖea mɔ be nɔnɔmetatawo nanɔ dzedzem, eyata enye nukpɔkpɔ ŋuti, menye ŋkuɖoɖo ŋuti o.
+- **Di esi sɔ kple eya.** [Di esi sɔ kple eya](/games/find-the-same/) fiaa nɔnɔmetata ɖeka kple tiatia eve va ɖo ene ko.
+- **Miɖo nu ɖekae.** [Miɖo nu ɖekae](/games/sort-together/) le abe awu ɖoɖo le screen dzi ene: zi nɔnɔmetata dzi, emegbe zi eƒe kusi dzi.
+- **Nɔnɔmetata ƒe bingo.** [Nɔnɔmetata ƒe bingo](/games/picture-bingo/) wɔa dɔ nyuie na ƒomea ƒe takpekpewo kple ƒuƒoƒowo.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Ne fefe aɖe va le dzigbãnya hem vɛ la, dzudzɔ eye nàwɔ nane bubu. Kpɔ [alesi miafe ɖekae](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Dzimaɖitsitsi trɔ zu dɔwɔna
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Dzimaɖitsitsi alo nuwɔwɔ enuenu ƒe nuwɔna la, susu aɖe nɔa megbe zi geɖe. Family Caregiver Alliance gblɔ be ame si gale awuɖaka ɖem enuenu la ate ŋu anɔ agbagba dzem be yeawɔ nu si ana yease le ye ɖokui me be yeasɔ kple dɔ eye yeaɖe vi. Alzheimer's Association kafui be woatrɔ ŋusẽ ma ɖe dɔwɔna si sɔ ŋu, tsɔ wu be woatɔ te.
 
-| What you see | Something to offer |
+| Nu si nèkpɔ | Nane si nàna |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Asikaka alo nu tɔtɔ le kplɔ̃ ŋu | Avɔ fafa aɖe kple kuku be wòatutu kplɔ̃a |
+| Afɔ siwo meɖoa akɔ anyi o alo afɔƒoƒo | Ha si me ɖiɖi sesẽ le si woate ŋu aƒo alo akpe asi ɖe eŋu |
+| Aɖaka alo awuɖaka ɖeɖe | Kusi si me awuwo alo awu gbadza siwo woaʋlɔ̃ alo aɖo le |
+| Nyabiase ɖeka bubu enuenu | Akɔfafa, emegbe ha alo dɔ sue aɖe si miawɔ ɖekae |
+| Azɔlizɔzɔ le teƒe ɖeka | Azɔlizɔzɔ ɖekae, alo dɔ aɖe si me wotsɔa nu yina |
+| Ŋdɔ me dzimaɖoanyi | Dɔ bɔbɔe si wonya nyuie le kekeli nyui me; kpɔ [ŋdɔ me dzimaɖitsitsi](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Ɣeyiɣi si woadzudzɔ alo atrɔ mɔ
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Dzudzɔ ne èkpɔ ɖeɖiteameŋu, dzigbãnya, ŋukpe alo vivi madeame ƒe dzesiwo, abe ʋuʋu madzudzɔmadzudzɔ, mo yɔyɔ, nuwo tutu ɖa alo gbɔgblɔ be „Nyemate ŋui o” ene. Alzheimer's Association kafui be woagadze agbagba ake le ŋkeke ƒe ɣeyiɣi bubu me alo awɔ dɔwɔnana wòabɔbɔ wu. Mègazi edzi o. Gbebe ate ŋu atso vɔvɔ̃ alo dɔa sesẽ akpa gbɔ; kpɔ [ne wogblɔ be yewomedi o](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Dzudzɔ kaba menye nu gbegblẽ o. Anyinɔnɔ ɖekae kple tii hã menye nu gbegblẽ o. Ne ŋuteteawo va trɔna wu la, susu siwo le [dɔwɔnawo na akpa mamlɛa](/activities/late-stage/) me ate ŋu asɔ wu, eye [dɔwɔna 101](/activities/ideas/) hã le afima kple susu bubu geɖe siwo woate kpɔ.

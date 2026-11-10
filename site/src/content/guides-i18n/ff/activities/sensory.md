@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Golle Hakkilnde wonannde Yimɓe Majjere Hakkil"
+seoTitle: "Golle Hakkilnde e Majjere Hakkil: Miijooji e Kisal"
+description: "Golle hakkilnde wonannde yimɓe nguurɗi e majjere hakkil, gila e moƴƴinde juuɗe haa e leɗɗe leeɓtɗe e nanɗe ladde, e tintine kisal."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Golle hakkilnde huutortoo meemgol, uurngol, meeɗgol, nanɗe e yiide: moƴƴinde
+  juuɗe e sakket, lefol leeɓtɗe, li'oraaɗe kese ngam uurnude, nanɗe ladde,
+  walla ndaarde colli e henorde. Ɗe ena njaawnoo e kala tolno, tee ena nafa
+  sanne yeeso. Ƴeewto ko adii hulɗe maɓɓitde, geɓe ɓalli, caɗeele ɓandu e
+  mettu uurngol, hokku gootel tan sahaa kala, tee dartin so neɗɗo mo
+  toppitoɗaa ina wayi waawde weltoraade.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Golle hakkilnde naamnaa jaabawuuji moƴƴi, ɗum waɗi ɗe gollaade e kala tolno, haa e suudu walla jullere."
+  - "Hokku hakkil gootel tan sahaa kala e nokku deeyɗo, tee naamno walla tintin ko adii memde."
+  - "Reen e piiji pamari e ko foti no ñaametee kono wonaa ñaamande, sabu yimɓe ena mbaawi waɗde ɗum e hunduko."
+  - "Ƴeewto geɓe ɓalli, caɗeele ɓandu e caɗeele foofaango ko adii huutoraade nebbe, uurngol walla ñaameteeji."
+  - "Alaa seedeeji tabitɗi wonde aromaterapi ina wallita maale majjere hakkil; huutoro uurngol tan ngam weltaare seeɗa, so ina woodi."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Hol ko woni golle hakkilnde moƴƴe wonannde neɗɗo nguurɗo e majjere hakkil?"
+    a: "Miijooji weeɓi ko moƴƴinde juuɗe e sakket, memde leɗɗe leeɓtɗe, uurnude li'oraaɗe kese walla kafe, heɗaade jimɗi jiɗaaɗi walla nanɗe ladde, ndaarde colli walla liƴƴi, e meeɗde ñaamande jiɗaande e no feewi kisɗo. Hokku gootel tan sahaa kala tee ƴeew no neɗɗo mo toppitoɗaa jaabotoo."
+  - q: "Golle hakkilnde ena kisani neɗɗo waɗoowo piiji e hunduko?"
+    a: "Eey, e hakkil. Huutoro tan piiji mawɗi ɗi maɓɓitaako, woppu piiji pamari walla ɓosooji, tee mooftu nebbe, saabuuji e piiji uurngol caggal huutoraade, sabu ɗi ena mbaawi wayde no ñaametee. Wonu e neɗɗo oo sahaa fof."
+  - q: "Aromaterapi ina wallita e majjere hakkil?"
+    a: "Ƴeewtere Cochrane yiyaani seedeeji tabitɗi wonde aromaterapi ina wallita yimɓe nguurɗi e majjere hakkil, hay so jaŋdeeji ɗii ina pamari tee ina luurdi. So neɗɗo mo toppitoɗaa ina yiɗi uurngol deeyngol, anndaangol, ɗum ena moƴƴi, kono reen e nebbe uurngol tiiɗɗe, haa teeŋti e caɗeele foofaango walla geɓe ɓalli."
+  - q: "Hol ko woni taabirde walla suddiire gollorde?"
+    a: "Ko leɗɗe, taabirde walla suddiire koyngal jogiinde piiji memeteeɗi ñippiɗi e mayre no feewi, wano butoŋaaji mawɗi, fermoowaaji, leɗɗe pecci e leɗɗe memotooɗe. Ɗum ena hokka juuɗe huunde nde ƴeewtoo. Ƴeewto nde sohla sahaa kala ngam yiyde so hay huunde fusii."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Golle hakkilnde huutortoo hakkilɗe jowi ɗii: meemgol, uurngol, meeɗgol, nanɗe e yiide. Ɗe naamnaa teskorde, laawol walla jaabawol moƴƴol, ɗum waɗi ɗe mbaawi gollaade e kala tolno. Ɗe ena ɓuri himmude yeeso. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ina hollita wonde e tolno sakkitiingo, aduna oo ina humpitee ko adii fof rewrude e hakkilɗe, tee aɗa waawi hollirde hakkil rewde e meemgol, nanɗe, yiide, meeɗgol e uurngol. Ƴeewndeeji kisal seeɗa ena mbaawi waɗde ɗee golle deeyɗe wonannde mo woni kala.
 
-## What are sensory activities for dementia?
+## Hol ko woni golle hakkilnde ngam majjere hakkil?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Golle hakkilnde ko humpitooji weeɓi cakkitiiɗi e hakkil gootel tan sahaa kala, wano memde leɗɗe, uurnude li'oraaɗe walla heɗaade ndiyam tooɓo. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ina wi'a wonde golle tolno sakkitiingo ena poti cakkitaade e hakkilɗe, tee ina janta e jimɗi, piiji memeteeɗi e moƴƴinde juuɗe. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ina hollita wonde yimɓe wonɓe e tolno sakkitiingo ena mbaawi jogiinde sokla tiiɗɗo jogiinde huunde ɓadii ngam ɓural.
 
-## Sensory ideas, sense by sense
+## Miijooji hakkilnde, hakkil kala
 
-### Touch
+### Meemgol
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Moƴƴinde juuɗe.** Ngulɗinaa nebban seeɗa e juuɗe maa, moƴƴinaa e sakket gila e jolngo haa e hoore honɗu. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ina janta moƴƴinde e nebban alaa uurngol ngam ɓural.
+- **Lefol leɗɗe.** Leɗɗe mawɗe leeɓtɗe no velvet, corduroy, fleece, satin e wool ngam meemde, taggude e yewtude.
+- **Leɗɗe ngulɗuɗe.** Leɗɗe ngulɗuɗe, ɓulɗuɗe ngam juuɗe e ñalnde ɓuuɓnde. Ƴeewto nguleendi ndii e jolngo maa ko adii.
+- **Taabirde walla suddiire gollorde.** Butoŋaaji mawɗi, fermoowaaji, leɗɗe pecci e leɗɗe memotooɗe ñippiɗi no feewi.
+- **Taggude e laaɓnude.** Lefol leɗɗe laaɓɗe walla leɗɗe taabal ngam taggude, joɗɗinde e taggitde kadi.
+- **Huunde leeɓnde ngam jogaade.** Suddiire fleece, timmoore walla kulii leeɓiɗɗo, hokkiraa e no feewi, wonaa no fijirde.
 
-### Smell
+### Uurngol
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Li'oraaɗe kese.** Moppu li'oraaɗe mint, rosemary, basil walla lavande e hoore honɗu maa, ɓadinaa ɗe.
+- **Uurngol kirsal.** Kafe defaaka, mburu diƴɗinaaka, cinnamon walla leemun aadee ɓadii ɗoon.
+- **Piindi.** Addaa piindi kese seeɗa iwɗi e ngesa walla yeeyirde.
+- **Huunde anndaande.** Saabu walla nebban mo ɓe huutortoo sahaa kala, so ɓandu mum ena jaɓi ɗum.
 
-### Taste
+### Meeɗgol
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Daande jiɗaande.** Funtuuru seeɗa huunde ɓe jiɗi, wano compote pomme, pudding walla ayskirim, e no newiiɗo mo ɓe mbaawi meeɗude e kisal.
+- **Ballal defirde.** Meeɗde ɓiɓɓe leɗɗe walla nebban seeɗa tuma nde defirɗon e joom mum.
+- **Ñaameteeji sahaa.** Pastek e ndungu, jus ngulɗuɗo e ceeɗu, hokkiraa e nguleendi kisndi.
 
-### Sound
+### Nanɗe
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Jimɗi jiɗaaɗi.** Jimɗi anndaaɗi e daande deeynde; yiy [golle jimɗi](/activities/music/).
+- **Nanɗe ladde.** Tooɓo, bempeelle walla woyde colli. NIA ina hollita wonde jimɗi, nanɗe laaɓɗe e nanɗe ladde ena ɓurnde deeynaade woɓɓe.
+- **Daande maa.** Janngude e daande dow, woyaade e sakket, walla siimtude taalol.
+- **Kaɓirɗe jimɗi weeɓi.** Buŋal juuɗo, dimbo walla ndeewe ngam fijde e jimol.
 
-### Sight
+### Yiide
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Ndaarde e henorde.** Nokku ñaamdu colli caggal henorde, sukaaɓe ɓennotooɓe, walla neesere yanotoonde.
+- **Liƴƴi walla widewoo deeyɗo.** Dillaare deeynde alaa nanɗe tiiɗɗe.
+- **Nate mawɗe.** Natal laaɓngal gootal tan sahaa kala, tammbitaangal e tolno gite.
+- **Nooneeji e mbaydiiji.** Susde leɗɗe nooneeji, piindi walla leɗɗe taabal nooneeji, walla hello noordiingo weeɓngo iwɗo e [noordiingo](/games/coloring/) amen.
+- **Yaajnude.** NHS ina wasiyaa ngesiiji hakkilnde jogiiɗi li'oraaɗe uurngol, memotooɗe e geɗe ndiyam. Yiy [golle yaajɗe e ngesa](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Hol no waɗirtee boyet hakkilnde
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Suɓo toɓɓere** jokkondirnde e nguurndam neɗɗo mo toppitoɗaa: weendu, ngesa, kirsal, nokku gollirde, ñootagol.
+2. **Suɓo piiji jowi walla jeegoo mawɗi, kisɗi,** wano ŋorɗu maayo mawɗo, kuɗol lekki, leɗɗe leeɓɗe, saako lavande yooro ñippiɗo, walla lefol lekki leeɓngol.
+3. **Ƴeewto kala huunde** ngam geɗe pamari, ceɓɓitiiɗe, ɓoggi fuɗɗiiɗi e ko ɓosoo.
+4. **Yaltin huunde wootere tan sahaa kala.** Hokku nde, sifo nde, tee accu neɗɗo mo toppitoɗaa ƴeewta nde.
+5. **Mooftu boyet oo caggal ɗum** ngam o heddoo heeri, tee piiji ɗii ƴeewtee kadi ko adii laawol garoowol.
 
-## Safety first
+## Kisal ko adii
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Golle hakkilnde ena deeyi, kono hulɗe seeɗa ena poti teskeede. Won e yimɓe nguurɓe e majjere hakkil ena cikka piiji wonaa ñaamande ko ñaamande, tee moɗugol ena waawi saɗtude e nder sahaa; NIA ina reentina wonde caɗeele moɗugol tolno sakkitiingo ena ɓeyda hulde maɓɓitde.
 
-| Risk | What to do |
+| Hulde | Ko mbaɗataa |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Maɓɓitde | Huutoro tan piiji mawɗi ɗi maɓɓitaako. Woppu butoŋaaji, ɓiɓɓe, mbuuɗu, ɓiɓɓe fijirɗe walla fijaaji pamari e nder boyet. Hokku ñaametee tan e nooneeji ɗi dental toppitagol wi'i ena kisi. |
+| Piiji mbaɗɗi no ñaamande | NIA ina wasiyaa sokude nebbe, saabuuji, sampooji e parfume, ɗi ena mbaawi wayde no ñaamande, tee ittude ɓiɓɓe leɗɗe pewnaaɗe. Mooftu piiji hakkilnde caggal huutoraade. |
+| Geɓe ɓalli | Ƴeewto geɓe ɓalli e leɗɗe, lateks, wool, puɗi walla uurngol ko adii fuɗɗaade. |
+| Uurngol tiiɗngol | Reen e parfume e nebbe uurngol tiiɗɗe, haa teeŋti e asma walla caɗeele foofaango goɗɗe. Uurngol deeyngol, iwɗo e tago, ena ɓuri kisde. |
+| Ɓandu | Ƴeewto ɓandu muusɗo, feccaandu walla lo'uɗo ko adii moƴƴinde. Huutoro semmbe deeyɗo tee dartin so o naatii. |
+| Nguleendi | Ƴeewto leɗɗe ngulɗuɗe e njaram e jolngo maa ko adii. |
+| Piiji ceɓɓitiiɗi walla bonɗi | Woppu kaɓirɗe ceɓɓitiiɗe, biyet walla kaɓirɗe gollal bonɗe. |
 
-## Does aromatherapy help?
+## Aromaterapi ina wallita?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Ina gasa tawa alaa e no ɓetirtee. [Ƴeewtere Cochrane e aromaterapi ngam majjere hakkil](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ƴeewtii jaŋdeeji 13 e yimɓe 708, fof e cuuɗi toppitagol, tee yiyaani seedeeji tabitɗi nafa. Jañdeeji ɗii ina pamari, njeñtule ɗee ina luurdi, tee caɗeele battindiiɗe jaŋtaaka no feewi. So neɗɗo mo toppitoɗaa ina yiɗi uurngol deeyngol, anndaangol, wano lavande iwnde e ngesa, ɗum ko huunde moƴƴere ngam lollirde. Wonaa safara.
 
-## How to offer a sensory activity
+## Hol no hokkirtee golle hakkilnde
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Suɓo sahaa deeyɗo** tee ñif televijoŋ oo.
+- **Ɓadaade yeeso,** noddu innde makko, tee naamno walla haal ko adii memde: « Mi mari nebban. Aɗa yiɗi mi moƴƴina maa juuɗe? »
+- **Hokku huunde wootere tan sahaa kala** ngam ɗum waasa heewde.
+- **Ƴeew no o jaabotoo.** Yeeso deeyɗo, juuɗe ɓuttuɗe walla mooso ko maandeeji moƴƴi. Duttude, ŋoƴƴude yeeso walla waawde deeƴaade ko maandeeji dartingol.
+- **Mooftu ɗum raɓɓiɗo.** Hojomaaji jowi deeyɗi ko sahaa moƴƴo.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Foftaare deeynde e foofaango e joom mum, wano [foofaango deeyngo](/games/calm-breathing/), ena waawi wonde no moƴƴiri timminde. Ngam miijooji goɗɗi ɓadii suudu, yiy [golle tolno sakkitiingo](/activities/late-stage/), e ngam mettu kikiiɗe, yiy [mettu kikiiɗe](/caregiving/late-day-restlessness/).

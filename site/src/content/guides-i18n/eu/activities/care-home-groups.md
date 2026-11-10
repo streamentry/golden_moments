@@ -1,33 +1,34 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Talde-jarduerak dementziarako: gida egoitzentzat"
+seoTitle: "Talde-jarduerak dementziarako: bingoa, abestiak"
+description: "Memoria-arretako zentroetarako, egoitzetarako eta eguneroko programetarako talde-jarduerak: irudi-bingoa, abestiak eta oroitzapen-taldeak, eserleku eta talde-tamainari buruzko aholkuak."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Memoria-arretan eta eguneroko programetan, talde-jarduera onak laburrak,
+  ezagunak eta edozein mailatan parte hartzeko errazak dira: irudi-bingoa,
+  elkarrekin abestea, oroitzapen-taldeak, mugimendu errazak eta hitz-jolas
+  partekatuak. Ahal denean, taldeak txiki mantendu; eseri denak liderra ikusi
+  eta entzun dezaten; eman urrats argi bat aldi bakoitzean; eta prestatu
+  eginkizun errazago bat eta irteera lasai bat horretarako premia duen
+  edonorentzat.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Talde txikiek askotan hobeto funtzionatzen dute ekitaldi handi bakar batek baino, eta jende gehiagori aukera ematen diote parte aktiboa hartzeko, soilik begira egon beharrean."
+  - "Jarri pertsonak zirkuluan edo ferra-forman, liderrarengandik gertu, entzumen- eta ikusmen-premiak kontuan hartuta eta atzeko zarata itzalita."
+  - "Antolatu jarduera bakoitza bi edo hiru mailatan, gaitasun desberdinak dituzten pertsonek guztiek parte hartu ahal izan dezaten."
+  - "Saihestu galdeketak, puntuazioak eta irabazleak. Irudi-bingoa denek txartela osatuta amaitzeko moduan jokatu daiteke."
+  - "Goizago joatea, begira egotea edo lo kuluxkaegitea ondo dago. Prest eduki langile bat leku lasaiago bat nahi duen edonori laguntzeko."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Zein da talde-tamaina egokia dementziarako jardueretarako?"
+    a: "Ez dago zenbaki zuzen bakar bat, eta egoiliarren, gelaren eta zenbat langile dituzunaren araberakoa da. Talde askok ikusten dute talde txikiek aukera ematen dietela denei ikusteko, entzuteko eta parte hartzeko; areto handiko ekitaldietan, aldiz, jende gehiago geratzen da begira. Ekitaldi handi bat antolatzen baduzu, gehitu langileak edo boluntarioak egoiliarren artean eseri daitezen eta bakoitzak pertsona bat edo biri lagun diezaien."
+  - q: "Nola antolatu talde bat gaitasun desberdinekin?"
+    a: "Antolatu jarduera bakoitzean parte hartzeko modu bat baino gehiago. Elkarrekin abestean, batzuek hitz guztiak abestuko dituzte, beste batzuek txaloak jo edo marmarka ariko dira, eta beste batzuek txindata bat eutsiko dute. Irudi-bingoan, batzuek beren irudiak aurkituko dituzte, eta laguntzaile batek besteei seinalatuko die. Eseri laguntza gehiago behar duten pertsonak langile edo boluntario baten ondoan."
+  - q: "Nola jokatu irudi-bingoan lehiakor bihurtu gabe?"
+    a: "Deitu irudi guztiak denek txartela bete arte, inor kanpoan ez geratzeko. Hitz egin irudi bakoitzari buruz agertzen denean, eta utzi irabazleentzako sariak alde batera edo eman guztiei opari txiki bera. Helburua arreta partekatua eta elkarrizketa dira, ez nor amaitzen duen lehenengo."
+  - q: "Zuen jokoak pantaila handi batean erabil ditzaket taldean?"
+    a: "Bai. Gure jokoak web nabigatzaile batean funtzionatzen dute; beraz, telebista edo proiektore batera konektatutako ordenagailu eramangarri edo tableta batean ireki ditzakezu. Irudi-bingoak inprimatzeko txartelak eta pantailako deitzailea ditu. «Amaitu esaera» eta «Irudi-pareak» ere oso ondo doaz pantaila handi batean, norbaitek taldearen izenean ukitzen duela."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +53,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Gida hau jarduera-arduradunentzat, memoria-arretako taldeentzat eta eguneroko programen arduradunentzat da. Funtzionatzen duten talde-formatuak, gelaren antolaketa, jarduera bat gaitasun desberdinetara egokitzea eta gure bingo-txartel inprimagarriak eta pantaila handiko jokoak erabiltzea azaltzen ditu. Hemen dagoen guztiak erosotasuna, lotura eta aukera bilatzen ditu. Hemen ezer ez da proba bat.
 
-## What makes a group activity work in memory care?
+## Zerk egiten du talde-jarduera bat egokia memoria-arretan?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Talde-jarduera ona ezaguna, laburra, edozein mailatan parte hartzeko erraza eta presiorik gabea da. Alzheimer's Associationen [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) gomendioek esanguratsua den parte-hartzea honela deskribatzen dute: pertsonaren interesak eta lehentasunak babesten dituena, eta aukera eta arrakasta ahalbidetzen dituena, dementzia larriena denean ere. Dokumentu berak dio ohiko programek askotan egunean talde-ekitaldi handi bat edo bi izaten dituztela, eta horietan egoiliarrak sarritan modu pasiboan bakarrik aritzen direla.
 
-That points to a few practical rules:
+Horrek arau praktiko batzuk ematen dizkigu:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Ezaguna berria baino hobe.** Egoiliarren gaztetako abestiak, esaerak, irudiak eta objektuak errazagoak dira parte hartzeko.
+- **Laburra luzea baino hobe.** Antolatu zure taldearen arreta-denboraren inguruan, erdian geldialdi natural bat utzita.
+- **Egitea begiratzea baino hobe.** Eman pertsona bakoitzari eusteko, ukitzeko, aukeratzeko edo esateko zerbait.
+- **Maila asko, jarduera bat.** Sartu parte hartzeko modu errazagoak eta zailagoak.
+- **Irabazlerik ez, puntuaziorik ez.** Formatu lehiakorrek pertsona batzuek huts egin dutela sentitzea eragin dezakete.
 
-## How big should the group be?
+## Zenbatekoa izan behar du taldeak?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Txikiagoa izatea errazagoa izaten da normalean. Alzheimer's Associationek dio bilera handi batek gainezka egiten dion pertsona batek arrakasta handiagoz har dezakeela parte talde txikiago batean. Ez dago zenbaki zuzen bakar bat. Egoiliarren, gelaren eta zenbat langile eta boluntario dauden erabilgarri araberakoa da.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Proba erabilgarri bat: pertsona bakoitzak liderraren aurpegia ikus dezake, argi entzun dezake eta segundo gutxiren buruan laguntzaile batek harengana irits daiteke? Hala ez bada, banatu taldea, gehitu laguntzaileak edo joan gela txikiago batera.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Ekitaldi handi batean, adibidez jaiegunetako kontzertu batean, eseri langileak eta boluntarioak egoiliarren artean, ez hormen ondoan.
 
-## How should I set up the room and seating?
+## Nola antolatu behar ditut gela eta eserlekuak?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Zirkulua edo ferra.** Gomendio praktikoek diote partekatzeko zirkulu bat egokiena dela denak zirkuluan esertzeko adina leku duen gela batean, atzeko zaratarik gabe.
+- **Liderra gertu eta begien parean.** Eseri, ahal duzunean zutik egon beharrean.
+- **Lehenik entzumen eta ikusmena.** Eseri entzumen-arazoak dituzten pertsonak liderrarengandik gertuen, entzuten hobeto duten aldean. Ziurtatu betaurrekoak eta audifonoak jarrita dituztela. Alzheimer's Associationek dio ikusmen- eta entzumen-arazoek komunikazioa zaildu dezaketela.
+- **Argia egoiliarren atzetik, ez zure atzetik.** Saihestu norbait leiho distiratsu bati begira esertzea.
+- **Itzali telebista eta irratia.** Alzheimer's Associationek aholkatzen du musika-jardueretan lehiatzen duen zarata kentzea.
+- **Elkarrizketa bat aldi bere batean.** Gurutzatutako hizketak zailak dira dementzia duten pertsonentzat eta entzumen-arazoak dituztenentzat, Alzheimer's Associationek bere [jaiegunetako gidalerroetan](https://www.alz.org/help-support/caregiving/holidays) adierazten duen bezala.
+- **Irteera argiak eta txoko lasai bat.** Joan nahi duen edonork erraz egin behar du ahal izan, eta langile batek lagundu diezaioke.
 
-## Group activity ideas
+## Talde-jardueretarako ideiak
 
-### Picture bingo
+### Irudi-bingoa
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Irudi-bingoak zenbakiak irudi argiekin ordezten ditu, hala nola teontzi bat, txakur bat edo arrosa bat; horrela, inork ez du zenbaki luze baten jarraipena egin behar edo letra txikia irakurri behar.
 
-**How to run it:**
+**Nola antolatu:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Inprimatu pertsona bakoitzeko txartel bat gure [Irudi-bingoa](/games/picture-bingo/) orritik, Inprimatu botoia erabiliz. Paper lodia errazagoa da hartzeko. Plastifikatu berrerabiltzeko.
+2. Banatu erraz hartzeko moduko markatzaile handiak, adibidez poker-fitxak, botila-tapoiak edo kartoi-lauki moztuak.
+3. Erabili pantailako deitzailea telebista edo proiektore batean, denek irudia ikus dezaten haren izena esaten duzun bitartean.
+4. Gelditu irudi bakoitzaren ondoren eta gonbidatu iruzkin labur bat egitera: «Norbaitek ezagututako txakur baten berri kontatu nahi digu?» edo «Zer ikusten duzu hemen?»
+5. Jarraitu deitzen txartel guztiak osatu arte. Denek amaitzen dute.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Egokitzapena:** Erabili lauki gutxiago txartel osoa lanpetuegia iruditzen zaienentzat. Laguntzaile batek bat datorren irudia seinala dezake horretarako premia duen norbaitentzat. Batzuek nahiago izan dezakete deitzailearen irudi-txartela eutsi eta taldeari erakustea.
 
-### Sing-alongs
+### Elkarrekin abestea
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Musika da talde-jarduerarik estimatuenetako bat. Alzheimer's Associationek dio azken faseetan ere pertsona batek [erritmoa jarraitu edo haurtzaroko abesti bat abes](https://www.alz.org/help-support/caregiving/daily-care/art-music) dezakeela.
 
-**How to run it:**
+**Nola antolatu:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Aukeratu egoiliarrak hazi zireneko abestiak, ez liderraren gogokoak. Galdetu familiei pertsona bakoitzak zer maite zuen.
+- Erabili iragarkirik gabeko musika; elkarteak dio iragarkiak nahasgarriak izan daitezkeela.
+- Inprimatu letrak letra handiz irakurtzen dutenentzat, baina ez eskatu nahitaez.
+- Eskaini txindatak, eskuko danborrak edo astintzeko zapiak.
+- Animatu txaloak eta mugimendua, eta mantendu bolumena eroso.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Egokitzapena:** Batzuek hitz guztiak abestuko dituzte, beste batzuek marmarka ariko dira, batzuek oinarekin erritmoa jarraituko dute, eta beste batzuek, besterik gabe, entzun egingo dute. Guztiak balio dute. Ikusi gure [musika-jardueren gida](/activities/music/) informazio gehiagorako.
 
-### Reminiscence groups
+### Oroitzapen-taldeak
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Oroitzapen-talde bat gai baten inguruan biltzen da, hala nola eskolako garaiak, lehen autoak, sukaldeak edo uda, argazkiak, objektuak eta musika erabiliz. Helburua elkarrizketa atsegina da, ez oroitzapen zehatza.
 
-**How to run it:**
+**Nola antolatu:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Aukeratu gai bat eta ekarri pertsonak eutsi ditzaketen objektu batzuk: esku-irabiagailu bat, beisbol-eskularru bat, kapela bat, hazien katalogo bat.
+2. Eman objektu bat aldi bakoitzean. Egin galdera irekiak: «Kontadazu honi buruz», «Zer ikusten duzu?», «Nork erabiltzen zuen honelako zerbait?»
+3. Ongietorri erantzun guztiei. Ez zuzendu inoiz datarik edo gertakaririk.
+4. Bideratu elkarrizketa oroitzapen atseginetara. Gomendio praktikoek diote arretako laguntzaileek oroitzapenak oroitzapen positiboetara bideratu behar dituztela, atsekabea eragin dezaketenetara baino.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Elkarrizketa-txartelak](/games/conversation-cards/) tresnak inprimatzeko irudi-txartelak eskaintzen ditu, gaiaren araberako galdera irekiekin, eta oso ondo doaz elkarrizketa hasteko. Ideia gehiago gure [oroitzapenen gidan](/activities/reminiscence/) aurkituko dituzu.
 
-### Finish the saying
+### Amaitu esaera
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Ezagutzen diren esaerek («Urrik urria...» bezalakoek) denei batera amaiera esateko gonbita egiten diete. Erakutsi [Amaitu esaera](/games/finish-the-saying/) pantaila handi batean eta utzi taldeari ahots bakarrean erantzuten. Esaera bakoitzaren ondoren hitz egiteko gonbit bat dago. Inork ez badu amaiera esaten, erakutsi eta aurrera jarraitu. Ez dago ongi edo gaizki.
 
-### Large-print word search, together
+### Letra handiko hitz-sopa, elkarrekin
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Proiektatu letra handiko [Hitz-sopa](/games/word-search/) pantaila batean eta bilatu hitzak taldean, edo inprimatu kopiak mahai gainean bakarka lan egitea gustatzen zaienentzat. Hitzak zeharka eta behera bakarrik doaz.
 
-### Gentle movement
+### Mugimendu leuna
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Eserita egindako luzaketak, pilota bigun edo puxika bat pasatzea, edo musika ezagunarekin aulkian dantzatzea. Erakutsi mugimendu bakoitza, deskribatu beharrean.
 
-### Sorting and matching at the table
+### Sailkatu eta parekatu mahaian
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Hiru edo lau pertsonako mahai txikiek irudiak, oihal-zatiak edo mahai-tresnak elkarrekin sailka ditzakete. Pantailan, [Irudi-pareak](/games/picture-pairs/) irudiak ikusgai utzita jokatu daiteke, norbaitek ukitzen duela mahaiak irudi bakoitzari buruz hitz egiten duen bitartean.
 
-## How do I use your games on a big screen?
+## Nola erabili ditzaket zuen jokoak pantaila handi batean?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Gure jokoak web nabigatzaile batean funtzionatzen dute; beraz, telebista edo proiektore batean erabil ditzakezu ezer instalatu gabe.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Ireki jokoa pantailara kablez edo igorpen bidez konektatutako ordenagailu eramangarri edo tableta batean.
+2. Jarri nabigatzailea pantaila osoan eta doitu soinua maila eroso batera.
+3. Jarri lider bat ukitzeaz arduratzen, taldeak aukerak ozen esaten dituen bitartean. Edo eman tableta bat txanda bat nahi duen egoiliar bati.
+4. Gelditu taldea prest dagoenean. Jokoek ez dute tenporizadorerik, puntuaziorik ez amaiera beharturik.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Irudi-bingoa](/games/picture-bingo/), [Amaitu esaera](/games/finish-the-saying/), [Irudi-pareak](/games/picture-pairs/) eta [Elkarrizketa-txartelak](/games/conversation-cards/) izan ohi dira taldeentzat egokienak. Ikusi aukera guztiak gure [jokoen orrian](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Nola egokitu jarduera bat gaitasun desberdinetara?
 
-Plan at least three ways to join every activity.
+Antolatu gutxienez hiru parte-hartzeko modu jarduera bakoitzean.
 
-| Activity | More independent | Some support | Most support |
+| Jarduera | Autonomia handiagoa | Laguntza pixka batekin | Laguntza gehienarekin |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Irudi-bingoa | Bere irudiak aurkitu eta estaltzen ditu | Laguntzaileak seinalatzen du; pertsonak estaltzen du | Irudi-txartel bat eusten du; entzuten eta begiratzen du |
+| Elkarrekin abestea | Abestu egiten du, hurrengo abestia aukeratzen du | Marmarka aritzen da, txaloak jo edo txindata bat erabiltzen du | Entzuten du, zapi bat eusten du, esku bat ukitzen du |
+| Oroitzapenak | Istorioak kontatzen ditu | Bai-ez erantzuten du edo seinalatzen du | Objektua eusten eta ukitzen du |
+| Hitz-sopa | Bere kopia inprimatuan egiten du lan | Hitzak pantaila handian aurkitzen ditu laguntzaile batekin | Hitzak ozen irakurtzen dituztenean entzuten du |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Fase aurreratuagoetan dauden egoiliarrentzat, NHSek dio jarduerak, oro har, sinpleagoak izan behar direla eta zentzumenetan gehiago zentratu, hala nola musikan, ukitzeko objektuetan eta esku-masajean. Taldean zehar edo ondoren banan-banako une bat egokiagoa izan daiteke haientzat taldea bera baino. Ikusi [fase aurreratuetako jarduerak](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Nola hitz egin behar dute arduradunek taldean?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Aurkeztu zeure burua aldi bakoitzean, eta erabili pertsona bakoitzak nahiago duen izena.
+- Hitz egin mantso, eman urrats bat aldi bakoitzean, eta erakutsi esan aurretik.
+- Egin gonbidapen irekiak («Kontadazu honi buruz...») edo aukera errazak, inoiz ez galdeketa-galderak («Gogoratzen duzu...?»).
+- Ez zuzendu. Eskertu pertsona bakoitzaren ekarpena.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Gai honi buruzko informazio gehiago gure [komunikazio-aholkuetan](/caregiving/communication-tips/) aurkituko duzu.
 
-## Ending well, and letting people leave
+## Ondo amaitzea, eta pertsonei joaten uztea
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Gelditzea emaitza ona da. Erreparatu norbait nekatuta, urduri edo atsekabetuta dagoen seinaleetan, eta jarri laguntzaile bat prest paseotxo bat edo beste leku lasai batean eserleku bat eskaintzeko. Elkarrekin abesten ari direla lo kuluxka egitea, besterik gabe, eroso daudela izan daiteke.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Itxi talde-saio bakoitza modu berean, abesti ezagun batekin edo eskerrik asko xume batekin, amaiera lasai eta aurreikusgarria izan dadin. Ondoren, idatzi labur zer funtzionatu duen eta nork gozatu duen zerez. Ohar horiek hurrengo saioa hobetzen lagunduko dute.

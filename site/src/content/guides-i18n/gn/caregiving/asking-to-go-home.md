@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Ojeruréramo jeýma peteĩ tapicha demencia reheve ho hag̃ua hógape"
+seoTitle: "Demencia ha ojerure jeýma ho hag̃ua hógape"
+description: "Mba'érepa peteĩ tapicha oñeñangarekóva demencia reheve ojerure ho hag̃ua hógape, mba'épa eréta, tembiapo omopytũva ha mba'éichapa oñangareko hese."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Peteĩ tapicha demencia reheve ojeruréramo jeýma ho hag̃ua hógape, "hógape"
+  ikatu he'ise kyhyje'ỹ ha tekopyta, térã peteĩ tenda ymaguare, ndaha'éi peteĩ
+  óga año. Ani eñe'ẽ hese he'ívo oĩha hógape. Ehendu mba'épa oñandu, emombe'u
+  hese oĩha tekorosãme, eporandu chupe hógape rehegua, ha upéi embohasa mbegue
+  katu ta'angamýi, purahéi, tembi'u, jeguata térã peteĩ tembiapo ndahasýiva
+  rehe. Ehecha oĩpa vare'a, y'uhéi, hy'áiha, térã hasy. Osẽramo sapy'aitépe,
+  ehenói chugui pohanohára.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "\"Aha hógape\" ikatu he'ise \"Nañeñandu porãi térã tekorosãme\", ndaha'éi peteĩ dirección jerure."
+  - "Ñe'ẽ hese térã jehechauka hese oĩha hógape ikatu ombohetave iñangata. Eñe'ẽ pe oñandúvare."
+  - "Eporandu chupe tomombe'u ndeve hógape rehegua, ha upéi eme'ẽ ta'anga, purahéi, tembi'u, jeguata térã peteĩ tembiapo ndahasýiva."
+  - "Ehecha oĩpa mba'e oñemyatyrõkuaa: vare'a, y'uhéi, hy'áiha, hasy, haku térã ro'y, tyapu, kane'õ."
+  - "Oiko jave ka'aru pyahu rire, ikatu hína sundowning; peteĩ jeporeko oñemohendáva ha tesape porã ikatu oipytyvõ."
+  - "Eñembosako'i tekorosãrã osẽséramo, ha ehenói chugui pohanohára oĩramo peteĩ ñemoambue sapy'a."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Mba'érepa che sy demencia reheve ojerure jeýma ho hag̃ua hógape, oĩ aja upépe?"
+    a: "Demencia ikatu ojapo koty ojekuaáva ojehecha ambueháicha, ha sapy'ánte tapichakuéra oñandu oĩha peteĩ ára ymaguare. \"Hógape\" ikatu he'ise peteĩ óga mitãrõguare térã añónte oñandu tekorosã ha porãme. Ñembohovái pe oñandúvape ikatu oiko porãve he'ívo chupe moõpa oĩ."
+  - q: "Mba'épa aikuaáta erévo chupe ojerurévo ho hag̃ua hógape?"
+    a: "Eha'ã \"Reime tekorosãme ko'ápe, ha che apyta nendive\", upéi \"Emombe'u chéve nde róga rehegua.\" Ehendu, emohechauka ta'anga térã purahéi, ha eme'ẽ y térã peteĩ jeguata mbykýva. Ani ere \"Reime hógape\" emyatyrõ hag̃ua, ikatu oñandu vaívo."
+  - q: "Iporãpa ja'e ichupe jaháta hógape upe rire?"
+    a: "Familia ha aty oñangarekóva demencia rehegua iñirũ hína ko'ápe. Heta oñepyrũ py'apy ha ñemoirũ añetévape, ha oipuru ñe'ẽ mbegue añónte oiméramo añetegua ombyaieterei pe tapicha ndaikatúiva oñeha'ã. Mba'e rejapóramo jepe, ejapo mborayhu ha tekoporãme, ha ani reñe'ẽ vai hendive."
+  - q: "Mba'épa ajapóta osẽséramo ógagui?"
+    a: "Epyta py'aguapýpe ha eguata hendive ani hag̃ua ejoko chupe; peteĩ jeguata mbykýva ikatu omopytũ. Eñembosako'i tekorosãrã mboyve, techapyrã peteĩ pulsera ohechaukáva, okẽ tyapu ha peteĩ ta'anga pyahu. Okañýramo, eheka pya'e, ha ehenói 911-pe neretopáiramo 15 aravo'ípe, emombe'u pe tapicha orekoha demencia."
+  - q: "Araka'épa ahenói va'erã pohanohára?"
+    a: "Ehenói pya'e pohanohárape oñepyrũramo sapy'aitépe térã oñembohetáramo heta aravo térã ára pukukue, avei oĩramo akãnundu, pohã pyahu térã jehechauka infección urinaria rehegua. Ñemopytũvai sapy'a ikatu hína delirium ha oikotevẽ ñangareko pya'e. Ehenói 911-pe oĩramo oime vaíva tekorosãme."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"Aha hógape." Heta familia-pe g̃uarã kóva ha'e peteĩ mba'e hasyvéva oñehendu hag̃ua, pe tapicha reñangarekóva oguapy jave ijógape. Hetaiterei oiko, ikatu oiko demencia opaichagua rekópe, ha oĩ tape py'aguapy ha iporãva oñembohovái hag̃ua. Ko kuatiarogue omombe'u mba'épa ikatu he'ise umi ñe'ẽ, mba'épa eréta, tembiapo ikatúva oipytyvõ upe aja, ha mba'éichapa eñangareko tekorosã rehe.
 
-## Why does someone with dementia keep asking to go home?
+## Mba'érepa peteĩ tapicha oñeñangarekóva demencia reheve ojerure jeýma ho hag̃ua hógape?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Hetave jey, "hógape" ha'e peteĩ oñandu, ndaha'éi peteĩ tenda. Alzheimer's Society omombe'u ha'eha kyhyje'ỹ ha tekopyta, térã peteĩ óga ymaguare, ndaha'éi pe óga añoite. Demencia ikatu ojapo koty ojekuaáva ojehecha ambueháicha, ha pe tapicha ikatu oñandu oikoveha peteĩ ára ymaguare, oñeñandu jave hógape ha'e peteĩ óga mitãrõguare térã pe tenda omongakuaa hague imembykuérape.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Umi ñe'ẽ ikatu avei ohechauka oĩha ambue mba'e oiko'ỹva porã ko'ág̃a: oreko vare'a, y'uhéi, oikotevẽ hy'áiha, oreko hasy, haku térã ro'y, kane'õ, oñeñandu ha'eño, okyhyje térã tyapu ombopochy. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) omombe'u hasy, tyapu, ha'eño reko, ñemoambue jeporeko ha pohã apytépe mba'e ikatúva omoñepyrũ ñangata.
 
-## What should I say when they ask to go home?
+## Mba'épa eréta ojerurévo ho hag̃ua hógape?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Eñe'ẽ pe oñandúvare, ndaha'éi umi ñe'ẽ rehe añoite. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) he'i ani eñeha'ã embo'e chupe ojavyha: iñandu ha'e añete, upévare embohovái raẽ py'apy ha ñeñangarekópe, ha upéi embohasa mbegue katu.
 
-Phrases that often help:
+Ñe'ẽ ikatúva oipytyvõ:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Emombe'u pe oñandu.** "Ahecha rembyasyha nde rógagui."
+- **Emokyre'ỹ.** "Reime tekorosãme ko'ápe, ha che apyta nendive." [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ome'ẽ ko ñe'ẽ ndahasýiva: "You're safe here" (Reime tekorosãme ko'ápe).
+- **Ejerure chupe tomombe'u.** "Emombe'u chéve nde róga rehegua. Mba'éichapa oĩ nde kosina?" Jeporandu ára ymaguare rehegua hetave jey ndahasýi porãve umi porandu ko árape g̃uarãva.
+- **Eme'ẽ peteĩ mba'e ojejapo oñondive.** "Jau raẽ peteĩ té", térã "Reipytyvõkuaa chéve ko'ã toalla rehe?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Ñe'ẽ mborayhu ha ipo po rehe, oipotáramo oñepoko, ikatu he'ise hetave umi ñe'ẽgui.
 
-## What should I avoid?
+## Mba'épa ani rejapo?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Ani eñe'ẽ hese térã emyesakã.** "Reiko ko'ápe ko'ág̃a" térã "Kóva ha'e nde róga 40 ary pukukue" ojerure chupe toimo'ã peteĩ mba'e demencia ojapo hasýva oimo'ã hag̃ua, ha ikatu oñandu oñembo'e hague chupe ojavyha.
+- **Ani eporandu hatã.** "Nemandu'ái piko?" térã "Máva piko pe dirección?" omoĩve presión.
+- **Ani ejoko okẽ pochy reheve.** Osẽséramo, epyta py'aguapýpe ha eguata hendive. Peteĩ jeguata mbykýva oñondive ikatu omopytũ upe jerure.
+- **Ani eñemombia pya'e.** Eme'ẽ chupe ára oñe'ẽ hag̃ua hógape rehegua embohasa mboyve ambue témape.
 
-## Activities that can help in the moment
+## Tembiapo ikatúva oipytyvõ upe aja
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Rembohovái rire pe oñandúpe, peteĩ tembiapo py'aguapy ha ojekuaáva ikatu ombohasa hekopete ani hag̃ua omboyke.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Emaña ta'angáre hógape ha familia rehegua.** Embojere kuatia rogue ha emombe'u ("Ema'ẽ pe yvotyty") ani hag̃ua eporandu. Teléfono térã tableta-pe, [Photo pairs](/games/photo-pairs/) omoambue ne ta'anga familia rehegua peteĩ ñembosarái joaju mbykýva, ha umi ta'anga opyta ne mba'e'okápe.
+2. **Eñe'ẽ hógape rehegua.** [Conversation cards](/games/conversation-cards/) ome'ẽ porandu ijurujáva óga, kosina, ogaykekue ha árare rehegua, ndorekóiva mbohovái oĩporãva térã vai.
+3. **Eipuru purahéi oipotáva.** National Institute on Aging omombe'u purahéi py'aguapýva apytépe mba'e ikatúva omopytũ ñangata. Ehecha ore [tembiapo purahéi rehegua](/activities/music/).
+4. **Eme'ẽ tembi'u térã y'u.** Vare'a ha y'uhéi ikatu ojehecha py'apy'ỹicha. Peteĩ té térã peteĩ tembi'u oipotáva ha'e avei peteĩ jepokuaa mbykýva oĩva hógape.
+5. **Eguata térã eguapy okápe.** Jeguata ha tesape oipytyvõ, ko'ẽrõme.
+6. **Eme'ẽ peteĩ tembiapo ojekuaáva.** Ao ñembojere, tembipuru mesa rehegua ñemohenda térã ka'avo ñemo'ã ikatu ombojevy pe oñandu hógape ñangareko rehegua.
+7. **Embopytu'uve opa mba'e.** Embogue TV, embogue tyapu ha tesape hatã, ha eha'ã peteĩ [jepytu'u py'aguapy](/games/calm-breathing/) oñondive.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Peteĩ idea ndoikóiramo, eha'ã ambue upe rire. Oguapy kirirĩháme oñondive ha'e avei peteĩ mba'e porã.
 
-## Check for a cause you can fix
+## Ehecha oĩpa mba'e ikatúva oñemyatyrõ
 
-| Check | What to try |
+| Ehecha | Mba'épa eha'ãta |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Vare'a térã y'uhéi | Eme'ẽ y'u ha tembi'u mbykýva |
+| Oikotevẽ hy'áiha | Ejerure toho hy'áiha, py'aguapýpe ha apañuái'ỹre |
+| Hasy térã oĩporã'ỹ | Ehecha jehechauka ha'eháicha hova ñemi, peteĩ tenda jejoko térã hy'ái vai, ha emombe'u pohanohárape |
+| Haku térã ro'y | Emoambue ao térã koty haku |
+| Tyapu térã heta tapicha | Ehasa ambue koty kirirĩháme, embogue TV |
+| Kane'õ térã heta mba'e oñandúva | Eñepytu'u, embogueve tesape, eipuru purahéi mbegue |
+| Ka'aru pyahu rire | Ehecha sundowning rehegua ko'ýpe |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society oipota eñongatu peteĩ jehaipy mbykýva araka'épa oiko pe jerure, techapyrã tembi'u mboyve, tapicha ambue oho rire, térã pytũmbývo. Umi patrón oipytyvõ oñembosako'i hag̃ua mboyve.
 
-## Is it okay to tell a white lie?
+## Iporãpa ja'e peteĩ ijapu mbykýva?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Kóva ha'e peteĩ ñe'ẽmongeta añete, ha familia iñangarekóva oñemoĩ opaichaguápe. Alzheimer's Society he'i ndorekóiva peteĩ mbohovái año; ñe'ẽ ndaha'éiva añete ikatu ojapo ambue tapicha oñemomýi, upévare eiporavo mba'épa iporãve pe tapichápe g̃uarã ha eiko tekoporãme. Penn Memory Center-pe, peteĩ co-director ohechakuaa añetegua ha'eha pe ypykue ha peteĩ ijapu mbykýva oñemoneĩramo añónte pe tapicha ndaikatúiramo oñeha'ã peteĩ añetegua rehe, ha ani araka'eve reñe'ẽ vai iñandu rehe.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Heta oñangarekóva ojuhu peteĩ tape mbytéva oikóva: py'apy ha ñemoirũ añetegua raẽ ("Japyta ko'ápe ko pyhare, ha che aime ko'ápe nendive"), oñe'ẽ'ỹre moõpa oĩ hógape.
 
-## What if it happens every afternoon or evening?
+## Mba'épa oiko jave opa ka'aru térã pyhare?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Py'apy'ỹ oñepyrũ térã oñembohetáva ka'aru pyahu rire hetave jey ojehero sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ome'ẽ peteĩ jeporeko oñemohendáva, kuarahy resa ha tembiapo ára ha ára, sa'ive ke ka'aru pyahu, ha ani café térã alcohol ka'aru pyahu rire. Tesape ñemyendy pytũmbývo ikatu avei oipytyvõ. Ore guía [tembiapo py'aguapy ka'aru pyahu rehegua](/caregiving/late-day-restlessness/) oreko hetave.
 
-## Keeping them safe if they try to leave
+## Tekorosã osẽséramo
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Pe jerure ho hag̃ua hógape ikatu ogueraha peteĩ jeguata jeiké'ỹre. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) omombe'u seis peteĩteĩme 10 tapicha oñeñangarekóva demencia reheve oguatáta peteĩ jey jepe.
 
-**Prepare ahead:**
+**Eñembosako'i mboyve:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Peteĩ pulsera ohechaukáva térã pohano rehegua hérava ha ne teléfono papapy reheve, ha jehai ijao rehe. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) omombe'u MedicAlert ha Alzheimer's Association Safe and Found programa, ikatúva oikotevẽ viru.
+- Peteĩ okẽ tyapu térã alarma, ha okẽ ñemboty yvate térã yvýpe. Ani emboty araka'eve pe tapicha ha'eño.
+- Peteĩ ta'anga pyahu hova rehegua, ha peteĩ tysýi tenda ikatúva oho, peteĩ óga térã tembiapo renda ymaguare.
+- Emombe'u ogaykekuéra jeroviáva, ha eme'ẽ chupe ne papapy.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Okañýramo:** eheka pya'e; Alzheimer's Association omombe'u heta tapicha ojejuhuha 1.5 milla jerére. Neretopáiramo 15 aravo'ípe, ehenói 911-pe ha emombe'u pe tapicha orekoha demencia. Ehenói 911-pe pya'e oĩramo oime vaíva tekorosãme.
 
-## When should I call a doctor?
+## Araka'épa ahenói va'erã pohanohára?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Ehenói pya'e pohanohárape oñepyrũramo sapy'aitépe térã oñembohetáramo heta aravo térã ára pukukue pe jerure térã ñemopytũvai. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) he'i peteĩ teko ñemoambue sapy'a térã pya'eva, oĩramo peteĩ mba'asy térã pohã ñemoambue rire, ojehechava'erã pya'e. Ñemopytũvai sapy'a ikatu hína delirium, [NHS](https://www.nhs.uk/symptoms/confusion/) he'i oikotevẽha pytyvõ pya'e; infección urinaria ha'e peteĩ mba'e hetave jey oikóva iñakãraguevúvape.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Iporã avei emombe'u peteĩ patrón oñemotenondéva upe jehechápe, hasy, ñembyasy, ke'ỹ apañuái térã pohã rembiapokue ikatu avei oreko peteĩ peteĩme.

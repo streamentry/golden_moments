@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "ཨལ་ཛ་ཧེ་མར་ཡོད་པའི་མི་ཚོའི་ལས་ཀ་དང་རྩེད་མོ།"
+seoTitle: "ཨལ་ཛ་ཧེ་མར་གྱི་ལས་ཀ་དང་རྩེད་མོ། རིམ་པ་རེའི་བསམ་ཡོ།"
+description: "ཨལ་ཛ་ཧེ་མར་ཡོད་པའི་མི་ཚོར་རིམ་པ་རེ་ལ་འཐད་པའི་ལས་ཀ་དང་རྩེད་མོ། ཡིད་ལ་རིང་པོ་སྡོད་པའི་ཤེས་ཡོན་དང་དྲན་པ་ལ་བརྟེན་པ་དང་། མཉམ་དུ་རྩེད་ཐུབ་པའི་དཀའ་མེད་རྩེད་མོ་ཡང་ཡོད།"
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  ཨལ་ཛ་ཧེ་མར་ཡོད་པའི་མི་ཞིག་ལ་ལེགས་པོའི་ལས་ཀ་ནི་ཐོག་མ་མཐར་སྡོད་ཐུབ་པའི་ཤེས་ཡོན་དང་།
+  ཆེ་ཤོས་ལོ་ཐོག་ནས་ཆུང་བའི་གླུ་རྙིང་པ་། ཉིན་རེའི་ལས་གོ་ཉམས་པ་དང་། སྣ་ཚོགས་ཀྱི་དབང་པོ་ལ་བརྟེན་ཡོད།
+  དང་པོར་ཤོག་བུ་དང་སྒོ་རྩེད་། ཟ་མ་སྒྲིག་པ་དང་ཕྱི་ལ་འགྲོ་བ་ཕན་ཐོགས་ཡོང་བ་ཡིན།
+  བར་པའི་རིམ་པར་ནི་ཟུད་པ་བཅོས་པ་། ཕྱེ་བ་འདེམ་པ་། གླུ་ལེན་པ་། པར་ཤོག་གི་ཤོག་གླེང་། དང་སྤྲོད་པའི་པར་རྩེད་ཅི་ནུས་མཐུན་པ་བསྐྱེད་ཐུབ།
+  ཐ་མའི་རིམ་པར་རོལ་མོ་དང་། ལག་པ་ཚིག་པ་དང་། མཉམ་ཡོད་པའི་ཚོར་བ་ཁོ་ན་གལ་ཆེ་ཤོས་ཡིན།
+  ཉིན་རེའི་གནས་བབས་ཀྱི་ཐད་ནས་བལྟ་རོགས་ཤིག
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "ཨལ་ཛ་ཧེ་མར་ནི་བརྗེད་ནོར་ནད་ཀྱི་རྣམ་པ་ཐུན་མོང་ཤོས་ཡིན་པས། བརྗེད་ནོར་ནད་ཀྱི་ལས་ཀའི་བསམ་ཡོ་ཁྱད་པར་དེར་ཡང་འཐད།"
+  - "གསར་པའི་ཆ་འཕྲིན་ཐོག་མར་ཐུབ་པ་དཀའ་བ་ཡིན་ལ། ཐུང་ཆེན་གྱི་ཤེས་ཡོན་དང་གླུ་རྙིང་པ་རིང་པོ་སྡོད་པའི་ཚེ་། དེ་ལ་རྟེན་ནས་ལས་ཀ་བཟོ་རོགས།"
+  - "རིམ་པ་རྣམས་ཕྲད་ཐུག་ཡོད་ཅིང་། ཉིན་ཞིག་ལེགས་པ་དང་ཉིན་ཞིག་དཀའ་བ་ནི་རྒྱུན་ཆོས་ཡིན། ཉིན་དེའི་མི་ཚོས་ཐུབ་པ་དང་དགའ་བའི་ཚུལ་ལ་བརྟེན་འདེམས།"
+  - "དུས་ཚོད་དང་མཚན་ཐེག་དང་དྲི་བ་ཁོ་ན་མེད་པའི་རྩེད་མོ་འདེམས་ཤིག་ལ། པར་ཚུད་པ་ཡང་མིག་མདུན་དུ་གསལ་བར་གནས་རོགས།"
+  - "བལྟ་བ་དང་། ཡོ་བྱད་ཞིག་འཛིན་པ་དང་། ཉེ་འདབས་སུ་མཉམ་དུ་སྡོད་པ་ཡང་མཉམ་དུ་ཞུགས་པར་བརྩིས་ཆོག"
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "ཨལ་ཛ་ཧེ་མར་ཡོད་པའི་མི་ལ་ག་ལ་ལས་ཀ་ལེགས་པོ་ཡིན་ནམ།"
+    a: "ཉམས་ལེན་སྤྲོ་བ་ཆེ་བའི་ལས་ཀ་ཅུང་ཟད་སླ་བསྐྲུན་བྱས་པ། དཔེར་ན་གོས་བསྡུ་བ་། ཟས་ཁང་གི་ཤོག་བྱ་སྒྲིག་པ་། མཉམ་དུ་ཟ་མ་བཟོ་བ་། རོལ་མོ་དང་གླུ་ལེན་པ་། པར་ཤོག་ལྟ་བ་། ཞབས་ཀྱིས་འགྲོ་བ་། ཚོས་སྐྱེས་སྐྱོང་བ་དང་། ཁྱི་ཡང་ཡོད་ཚོད་དུས་བསྒྲིགས་པ་ལ་སོགས་པ་ཡིན། སྒོ་རྩེད་ཆུང་ཆུང་། ཤོག་བུ་སླ་བ་དང་ཚིག་གླེང་ཤོག་བུ་ཡང་མི་མང་པོར་ལེགས་པོར་འཐད། མི་དེ་རང་གིས་ཡང་ཡང་དགའ་བའི་ལས་ཀ་འདེམས་ཏེ་མཉམ་དུ་ཞུགས་རོགས།"
+  - q: "རྩེད་མོ་ནི་ཨལ་ཛ་ཧེ་མར་ཡོད་པའི་མི་ལ་ཕན་ནམ།"
+    a: "མི་དེས་དགའ་ན་རྩེད་མོ་ནི་མཉམ་དུ་དུས་བསྐྱེད་པའི་ཉམས་དགའ་ཞིག་ཡིན་ཐུབ། འོན་ཀྱང་ཨལ་ཛ་ཧེ་མར་ལ་གང་ཡང་རྩེད་མོ་གིས་གསོ་བ་། ཉེ་བ་ནས་སྡོད་པ་ཡང་ན་མཐར་བཤད་ཚུལ་རྣམས་ཀྱིས་ངེས་པར་གྲུབ་པ་མ་ཡིན། དེས་na རྩེད་མོ་བདེ་ཚིམ་ལ་གདམ་ཚུལ་དང་། པར་ཆེན་པོ་། འདེམས་སྣང་ཉུང་ཐུང་། དུས་ཚོད་དང་མཚན་ཐེག་དང་ཁྲལ་སྒྲ་མེད་པ་འདེམས་རོགས།"
+  - q: "བརྗེད་ནོར་ནད་ཀྱི་ལས་ཀ་དང་ཨལ་ཛ་ཧེ་མར་གྱི་ལས་ཀ་གཉིས་ལ་ཁྱད་པར་ཡོད་དམ།"
+    a: "ཤིན་ཏུ་ཆེ་བ་མ་ཡིན། ཨལ་ཛ་ཧེ་མར་ནད་ནི་བརྗེད་ནོར་ནད་ཀྱི་རྣམ་པ་ཐུན་མོང་ཤོས་ཡིན་པས། ལས་ཀའི་བསམ་ཡོ་ཁོ་ན་འཐད། གལ་ཆེ་བ་ནི་དྲན་པ་གསར་པ་ཆུང་ངུ་ཐོག་མར་བརྗེད་པ་ཡིན་པས། ཉམས་ལེན་སྔོན་ཡོད་ཀྱི་ཤེས་ཡོན་དང་གླུ་དང་ཉིན་རེའི་སྤྱོད་ལམ་ལ་བརྟེན་པའི་ལས་ཀ་ཐུན་མོང་དུ་ལེགས་པ་ཡིན།"
+  - q: "ཨལ་ཛ་ཧེ་མར་ཡོད་པའི་མི་ཞིག་ཐ་མའི་རིམ་པར་ཡོད་ན་ཡང་ག་ཅི་ཡིན་ནམ་དགའ་ཐུབ།"
+    a: "དགའ་བའི་རོལ་མོ་། ལག་པ་ལ་བོ་དྲུག་གི་སྦྲེལ་བ་ཉེ་བར་བྱེད་པ་། སྨན་གྱི་གདོང་ཚུ་མཉེན་པོ་། ཕྲེང་བ་ཅུང་ཟད་འཛིན་ཐུབ་པ་། ཀློག་པ་མཉན་པ་ཡང་ན་རྒྱུན་འགྲོ་བའི་ཚིག་རྣམས་། ཉི་མའི་འོག་ཏུ་སྡོད་པ་ཡང་ན་སྦྲུལ་སྦྱོང་ཐུབ་པ་། ཁྱེད་ཀྱིས་སེམས་ཡིད་ཆེས་པའི་མི་ཞིག་གི་མཉམ་འདུག་པ་ལ་སོགས་པ་ཡིན། བསྡུ་ཁ་ཐུང་ཐུང་དང་ཞི་བདེ་བྱེད་ཅིག་ལ། མི་དེའི་ཞལ་གདོང་དང་ལུས་ཀྱི་སྟངས་ལ་བལྟས་ཏེ་དགའ་བ་ཇི་ལྟར་ཡིན་པ་ཤེས་རོགས།"
+  - q: "ཨལ་ཛ་ཧེ་མར་ཡོད་པའི་མི་ཞིག་ལ་ལས་ཀ་ལ་དགའ་བ་སྐྱེད་པར་ག་དེ་བྱ་ཐུབ།"
+    a: "ལས་ཀ་ཞིག་ཡིན་པར་བསྒྲགས་པའི་ཚབ་ཏུ་གྲོགས་རམ་ཞུ་བ་ཞིག་དགོས་ཞེས་དྲི་རོགས། སྔོན་ལ་ཡོ་བྱད་ཡོངས་སུ་བཞག་ཏེ། ཁྱེད་རང་གིས་དང་པོར་ཞིག་བྱས་ནས་མི་དེ་མཉམ་དུ་ཞུགས་ཐུབ་པར་བྱས་རོགས། ཉིན་ཚོད་ནང་ནས་མི་དེ་ཐུབ་པ་ལེགས་པའི་དུས་ཚོད་འདེམས་ན་ཕན་ཆེ། ཁོང་མ་འདོད་ན་དུས་གཞན་ཞིག་ལ་བསྐྱར་ཞུ་བ་དང་། ལས་ཀ་ཆུང་ཆུང་ཞིག་མཇལ་ཚུལ་སྤྲོད་རོགས།"
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+ཁྱེད་ཀྱིས་བརྩེ་བའི་མི་ཞིག་ལ་ཨལ་ཛ་ཧེ་མར་ཡོད་ན། ཁྱེད་རང་གིས་ཤེས་ཟིན་པ་ཡིན་པར་སྣང་། ཁ་ཤས་ཀྱི་ཆ་འཕྲིན་ཅུང་ཟད་ལ་ཡིན་ན་མགྱོགས་པོས་བརྗེད་ཀྱང་། ཁ་ཤས་ནི་བརྟན་པོ་ཡོད་པར་མཐོང་། དཔེར་ན་ཉིན་དེའི་ཁ་བླ་ལ་བརྗེད་ཀྱང་། རྒྱལ་གླུ་ཚིག་ཚང་མ་བླངས་ནས་གླུ་ལེན་ཐུབ། ཡང་ན་ཁ་ཕྱེ་བཞིན་བཤོས་ཀྱི་ཚོལ་བ་རྣམས་རང་ལམ་གྱིས་བསྡུ་ཐུབ། ཟླ་མཚམས་འདིའི་ལས་ཀ་ནི་ཇི་ལྟར་ཡིན་པ་རྟོགས་པ་དང་། དེའི་རྗེས་སུ་རིམ་པ་རེ་ལ་འཐད་པའི་ལས་ཀ་དང་། འཐད་པའི་རྩེད་མོ་རྣམས་ཀྱི་ཐད་ནས་འདིར་བཤད་ཡོད།
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## ཨལ་ཛ་ཧེ་མར་དང་བརྗེད་ནོར་ནད་ལ་ལས་ཀ་གི་སྐབས་སུ་ཁྱད་པར་ཡོད་དམ།
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+ཁྱད་པར་ཆེན་པོ་མེད་ཅེས་ཟེར་ཆོག བརྗེད་ནོར་ནད་ནི་སྤྱིའི་མིང་ཡིན་ཞིང་། ཨལ་ཛ་ཧེ་མར་ནད་ནི་དེའི་རྣམ་པ་ཐུན་མོང་ཤོས་ཡིན། [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ལས་སྐད་ན་ཁོང་གིས་བརྗེད་ནོར་ནད་གི་ཉེ་ཚད་ཀྱི་ ༦༠ ནས་ ༨༠ བར་འགྲོ་ཞེས་བཤད། ཡང་ཨལ་ཛ་ཧེ་མར་སྐབས་ཀྱི་ལས་ཀ་ཡོངས་ཚང་ཞིག་ནི་བརྗེད་ནོར་ནད་ལ་བསྟན་ཡོད་པ་གང་ཡིན་ཀྱང་ཁ་ཚང་གི་ཤེས་རྟོགས་ནས་འཐད་། [ལས་ཀ་ ༡༠༡](/activities/ideas/) ཡང་བལྟ་རོགས།
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+གལ་ཆེ་བ་ནི་ཉེས་བཟོ་ཀྱི་རིམ་པ་ཡིན། [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) ལས་བཤད་པ་ལྟར་ཨལ་ཛ་ཧེ་མར་ཐོག་མར་དྲན་པའི་ཡན་ལག་ལ་གནོད་ཅིང་། ཕྱིས་སུ་སྐད་ཚིག་དང་རིག་པ་དང་མི་མཉམ་པའི་སྤྱོད་ལམ་ལ་ཡང་ཁྱབ་འགྲོ། Alzheimer's Association ནས་ཡང་ཐོག་མའི་མཚོན་རྟགས་ཆེ་ཤོས་ནི་གསར་པ་ཤེས་པ་དྲན་དཀའ་བ་ཡིན་ཞེས་བཤད། མི་རེ་ཁ་བྱང་ཡོད་ཅིང་ཀུན་གྱི་རྒྱུ་མཚན་མཐུན་མེད་པས། འདི་ནི་ལས་ཀ་ག་ཅི་ལེགས་པ་ལ་ཁ་ཕྱོགས་པའི་གཞི་ཡིན།
 
-## What kinds of activities suit Alzheimer's best?
+## ཨལ་ཛ་ཧེ་མར་ལ་ཤ་སྟག་ཏུ་འཐད་པའི་ལས་ཀ་ག་དེ་ཡིན།
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+ཤེས་ཡོན་རིང་པོ་ནས་སྦྱངས་པ་དང་སྔོན་ཤེས་ཡོད་པའི་ལས་ཀ་ཐོགས་པ་ཡོད་པ་ལ་མངོན་པར་བསྡུས་ན་ལེགས་བ་ཡིན།
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **ལོ་རྒྱུས་སྔོན་སྦྱངས་ཀྱི་ལག་རྩལ།** Alzheimer's Association ནས་ཁྱེད་ཀྱིས་ལོ་མང་པོའི་སྔོན་ནས་སླར་གླུ་ཡིག་དང་ཁ་རོལ་ཞིག་ཀྱང་བསྐྱར་རོལ་ཐུབ་པར་བཤད། འདྲ་བའི་ལས་ཀ་ནི་ཞུ་བ་བཟོ་བ། ཤིང་བཟོ་བ་ལ་གཟེར་བ། ཤོག་འཐེན་པ། ཟུན་ཟོས་བྱེད་པ་དང་གོས་བསྡུ་བ་ལ་སོགས་ཡིན།
+- **རྙིང་པའི་གླུ་དང་རོལ་མོ་ཤེས་ཡོད།** ལོ་བཞི་བཅུ་ལྷག་པ་ནས་བཟུང་སྔོན་གྱི་གླུ་དང་། མཚན་ཡིག་ཏུ་ལེན་པའི་ཚིག་ཚང་མ་དང་། ཆུ་གཡོག་གི་ཉིན་གླུ་ལ་སོགས་ཀྱི་ཚིག་ཚང་མ་ལེན་ཐུབ་པ་མང་པོ་ཡོད། [རོལ་མོའི་ལས་ཀ་](/activities/music/) ལ་བལྟ་རོགས།
+- **ཉིན་རེའི་ཕན་ཐོགས་ཡོད་པའི་ལས་གོ་།** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ནས་ཁ་གསལ་བ་ཡིན་པ་ལྟར། ཤ་ཁུ་བསྐྱུར་བ། ཟས་ཁང་གི་ཤོག་བྱ་སྒྲིག་པ། ཟུན་ཡིག་སྡེབ་པ། གོས་བསྡུ་བ་ལ་སོགས་ཀྱི་ལས་ཀ་ཁ་ཤས་མི་ཚོས་དགའ་ཐུབ། ཕན་ཐོགས་ཡོད་པར་སྣང་བ་ནི་གལ་ཆེ།
+- **མཚོན་ནས་ངོས་འཛིན་པ་ལ་བརྟེན།** སྣང་ཚུལ་མཐུན་པའི་པར་ལ་བརྟག་པ་ནི་མིང་ཡིག་བརྗེད་ནས་བརྗོད་པ་ལས་སླ། དེས་ན་པར་ཚང་མ་མིག་མདུན་དུ་གནས་པའི་པར་རྩེད་ནི་དྲི་བ་ལས་ལེགས་པ་ཡིན།
+- **སྣ་དབང་།** ཚ་རེག་ཚིག་སྤྲོད་རོ་དང་ཚ་ཚད་དང་སྒྲ་སྣ་ཚོགས་ནི་ཚིག་ཉུང་བ་ལ་ཡང་དོན་ཆེ་བ་ཡིན། [སྣ་དབང་གི་ལས་ཀ་](/activities/sensory/) ལ་བལྟ་རོགས།
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+ལེགས་པ་མ་ཡིན་པའི་ཆ་ནི་དུས་ཚོད། ཤེས་བྱ་གསར་པ། ཡོ་བྱེད་ཀྱི་ཚུལ་མང་པོ་དྲན་དགོས་པ། ཡང་ན་འདྲ་བའི་ཚོན་དུ་དྲན་བརྟག་བྱེད་པའི་དྲི་བ་། དཔེར་ན་ "ཁྱེད་ཀྱིས་ཁྱོད་ཀྱི་ཞེས་པའི་མི་ནི་གང་ཡིན་དྲན་ཡོད་དམ།" ལ་སོགས་པ་ཡིན། དེ་ལྟ་བུ་རྣམས་ཀྱིས་ཨལ་ཛ་ཧེ་མར་གྱི་དཀའ་ངལ་ཆེ་ཤོས་ལ་མིག་གྲོལ་འདྲེན།
 
-## Activities for early-stage Alzheimer's
+## རིམ་པ་དང་པོའི་ཨལ་ཛ་ཧེ་མར་གྱི་ལས་ཀ།
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+རིམ་པ་དང་པོར་ [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) ནས་བཤད་པ་ལྟར། མི་དེས་ཁ་སྐང་དང་། ལས་ཀ་དང་། ཚོགས་པའི་ལས་ཀ་ལ་ཡང་ཞུགས་ཐུབ་པ་ཡིན་ལ། ཚིག་ཁ་གསལ་ཤོས་དང་། གནས་ས་དྲན་མི་ཐུབ་པ་ལ་སོགས་པའི་བརྗེད་ཚུལ་ཡང་མཐོང་ཐུབ། ཐབས་ལེགས་ཤོས་ནི་མཉམ་པ་ཡིན། མི་དེས་ཅི་བྱ་དགོས་པ་དང་། ཅི་ལ་རོགས་རམ་དགོས་པ་ཁྱེད་ཀྱིས་དྲི་རོགས།
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **ཡོད་པའི་ཉམས་ལེན་སྔར་བཞིན་བསྐྱངས།** གོལ་ཕྱ་ཁ་གཅིག་ཕྲུགས་ལས་ཀ། ཆོས་ཁང་གི་ཚོགས་དང་། ཁྱེད་ཀྱི་རྩེད་མོ་ཆུང་ཆུང་ཞིག་ཡིན་ན་ཡང་སྟབས་བདེ་དང་ཞི་བའི་དུས་ཚོད་ལ་བསྒྱུར་རོགས།
+2. **ཤོག་རྩེད་དང་སྒོ་རྩེད་སྔོན་ཤེས་ཡོད་པ་རྩེད།** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ནས་རིམ་པ་དང་པོ་ལ་འཐད་པའི་ཤེས་རྩོམ་། ཚིག་འཚོལ། ཤོག་རྩེད་དང་སྒོ་རྩེད་ལ་སོགས་པ་བཀོད་ཡོད། ཁོང་ལ་གྲངས་རྩིས་སེམས་སྐྲག་ན་ཁ་ཤས་ཀྱི་ཁོར་ཁ་གཅིག་ཏུ་རྩེད་ཅིག སླར་ཡང་གྲངས་རྩིས་མེད་པར་བྱས་ཀྱང་ཆོག།
+3. **མཉམ་དུ་ཟ་མ་བཟོ་བ།** ཁོང་ཀྱིས་སྔོན་ནས་ཤེས་པའི་ཟ་མ་ལ་ལག་ཆ་ཁྱེད་ཀྱིས་སྨོན་ཡི་གེ་ཀློག་པ་སྐྱེལ་ཐུབ།
+4. **ལོ་རྒྱུས་ཀྱི་འགན་ཡོད་པའི་ལས་ཀ་འགོ་བཙུགས།** པར་ཤོག་དང་ཟ་མ་དང་ཚིག་རྩོམ་ཞིག་ཡིག་མཛོད་ཏུ་བསྡུ་ནས་མི་དེས་ཁ་ཚོར་གོ་རིམ་བཟོ་ཐུབ་པ། [དྲན་པའི་ལས་ཀ་](/activities/reminiscence/) ལ་བལྟ་རོགས།
+5. **ཕྱི་ལ་འགྲོ་བ།** ཁ་ཤས་ཀྱི་ཟ་ཁང་ལ་དུས་ཚོད་ཞི་བས་སུ་ཕྱིན་པ། ཁ་ཤས་ཀྱི་ཤེད་ཁང་ལ་ཐེངས་ཆུང་ཞིག་བལྟ་བ། ཡང་ན་ཞིང་ཁ་ལ་སྐྱོད་ཁ་གཅིག་བྱེད་པ་ལ་སོགས།
+6. **མི་དེས་གདམ་ཡོད་པའི་བསྒྲིག་གཞུང་ཚུ་རྩེད།** ཡིག་གཟུགས་ཆེན་པོའི་ཚིག་རྩོམ་དང་། ཚིག་འཚོལ་དང་། ཚལ་རྒྱ་ཡང་ཡོད། [ཨལ་ཛ་ཧེ་མར་གྱི་རྩེད་མོ་](/activities/puzzles/) ལ་བལྟ་རོགས།
 
-More ideas: [early-stage activities](/activities/early-stage/).
+དེ་ལས་མང་བའི་ལས་ཀ་ལ་ [རིམ་པ་དང་པོའི་ལས་ཀ་](/activities/early-stage/) ལ་བལྟ་རོགས།
 
-## Activities for middle-stage Alzheimer's
+## རིམ་པ་བར་པའི་ཨལ་ཛ་ཧེ་མར་གྱི་ལས་ཀ།
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association ནས་རིམ་པ་བར་པ་ནི་ཡུན་རིང་ཤོས་ཡིན་ཞིང་ལོ་མང་པོའི་བར་དུ་གནས་ཐུབ་པར་བཤད། ཚིག་ཁ་འཁྲུགས་ནས་སེམས་སྐྲག་ཆེ་བ་དང་། སྐྱབས་ཀྱི་དགོས་པ་མང་བ་ཡིན། Alzheimer's Foundation of America ནས་ཡང་མི་མང་པོས་ལས་ཀ་བསྒོ་བ་དང་མུ་མཐུད་བྱེད་པའི་རོགས་རམ་དགོས་ཞེས་བཤད། ཁྱེད་ཀྱི་འགན་ལ་གནས་སྟངས་སྒྲིག་པ་། མངོན་པར་བསྟན་པ་དང་། ཁ་གསལ་བ་མ་ཡིན་པར་ལག་བསྟར་བཤད་པ། དཀའ་བའི་ཆ་ཁྱེད་ཀྱིས་ལེན་པ་ལ་སྤྲོ་བའོ།
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **ཟུད་བཅོས། ཕྱེ་བའི་འདེམས། མཚོན་མཐུན་སྒྲིག།** ཁྲུམ་ཁ། ཀེ། ཟ་སྣ། མདོག་གི་ཆ་ལ་མཐུན་པའི་གུ་ཏི་ལ་སོགས་པ། དངོས་ཡོད་ལས་ཀ་ཞིག་ལྡན་ཆ་གཅིག་ཏུ་བྱེད།
+2. **གླུ་ལེན་དང་རོལ་མོར་སྐྱོད་པ།** ཁང་ཚང་ནང་ལ་ལག་པ་བརྡུང་། ཡ་མཚམས་སྐྱོད། ཁྱེད་རང་ཀྱིས་གླུ་ལེན་འགོ་བཙུགས་ཏེ་མི་དེ་ཡང་མཉམ་དུ་ཞུགས་ཐུབ་པ།
+3. **པར་ཤོག་ཀྱི་ཤོག་གླེང་ལ་ལྟ་བ།** མཐོང་བ་བཤད་ནས་སྔོན་ཤེས་སྤྲོ་བ། དཔེར་ན་ "འདི་ཤིང་ཁྲ་ཡིན་ནོ། ཁྱེད་ཀྱིས་དེ་ལ་གླེང་རོགས།" ཞེས་སྨྲ། མི་དེས་ཀྱི་མིང་ལ་མཐུན་སྒྲིག་བྱེད།
+4. **པར་ཚུད་པའི་རྩེད་མོ་སྔོན་སྤྲོད།** [པར་ཚུད་པ་](/games/picture-pairs/) ནི་ཤོག་བུ་བཞི་དང་། དྲུག་དང་། བྱ་ཟེར་བ་རིམ་པ་བཞི་དང་། ཆེ་ཚད་པར་ཟུར་སླར་ཐོན་བཞག་པ། ཡང་ན་ [འདྲ་པ་གསལ་](/games/find-the-same/) ནི་གདམ་ཁ་གཉིས་པ་ཡང་ན་གསུམ་ལ་བརྟེན་པ།
+5. **སྔོན་ཤེས་ཀྱི་ཚིག་ཁ་རྫོགས་པ།** "ཉིན་རེ་ཤིང་ཐོ་གཅིག་ཟོས་ན་ཨ་མན་ཀྱི་..." ལ་སོགས་པའི་ཚིག་གྲགས་ལ་བསམ་། སྔོན་ནས་ཤེས་ཟིན་པ་གནས་སྐབས་ཁ་ཤས་ཀྱིས་ཡང་སླ་བ་ཡིན། [ཚིག་ཁ་རྫོགས་པ་](/games/finish-the-saying/) ལ་བརྟེན་ཏེ་མཐའ་མ་ལག་རྒྱུས་ཤིག་གིས་བསྟན་ཐུབ།
+6. **ཤིང་ཁྲ་དང་རྩྭ་ཤིང་རྣམས་སྲུང་བ།** ནང་ཁང་གི་སྣོད་ཆུང་། ཡང་ན་ས་ཡུལ་སྟེང་ཁ་ནས་བུད་ཤིང་། ཆུ་བུམ་ཆུང་ཆུང་གིས་ཆུ་ཚོན་དུ་འཐུང་ཐུབ།
+7. **ཁྱེད་ཀྱི་པར་ཤོག་ལ་བརྟེན་པའི་མཐུན་སྒྲིག་རྩེད་མོ་བཟོ་བ།** [པར་ཚུད་པ་ཐུང་བཞི་](/games/photo-pairs/) ནི་སྒྲིག་ཆས་ཀྱི་ཁྱེད་ཀྱིས་འདེམས་པའི་པར་ལ་བརྟེན་ཞིང་། པར་དེ་ལ་སྒྲིག་ཆས་ནས་ཕྱིར་མི་གཏོང་།
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+ལས་ཀ་ཁ་ཤས་ཀྱིས་ཀྱང་ [རིམ་པ་བར་པའི་ལས་ཀ་](/activities/middle-stage/) ལ་བལྟ་རོགས།
 
-## Activities for late-stage Alzheimer's
+## རིམ་པ་ཐ་མའི་ཨལ་ཛ་ཧེ་མར་གྱི་ལས་ཀ།
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+རིམ་པ་ཐ་མར་ Alzheimer's Association ནས་མི་དེས་ཁྱོད་ཀྱི་ཁྱོན་ཁོངས་ལ་ཁ་སྐྱོད་ཐུབ་པ་དང་ཁ་བྱང་ཚིག་ཁ་མཐུན་པར་སྨྲ་ཐུབ་པ་ཉུང་ཞིང་། ཚིག་ཁ་གཅིག་གཉིས་བརྗོད་ཐུབ་ཀྱང་ཞེས་བཤད། དུས་ཚོད་འདི་ཁོ་ན་ལ། ལས་ཀ་ནི་སྐྱིད་སྡུག་དང་མཉམ་འབྲེལ་གྱི་ཐད་ནས་འཛིན་དགོས།
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **ཁྱེད་ཀྱིས་གླུ་མཐུན་རྩེད་ཅིང་། ཡིད་དགའ་བའི་རོལ་མོ་ཞིག་ཞི་བདེ་ལ་རྩེད་རོགས།** ཏི་ཝི་སྒྲ་མ་ཐག་བཞག་ནས་ལྷན་ཐུབ།
+2. **ལག་པ་ཚིག་པ་ལ་བརྟེན་པ།** དྲི་ཞིམ་ཡོད་པའི་ཁ་ཚོད་ཀྱི་སྦྲེལ་བ་དང་མཉམ་ནས་ལག་པ་ལ་མཉེན།
+3. **ལྕི་བ་ཆགས་པའི་ཡོ་བྱད་ལག་ལེན་སྤྲོད།** ཁྲབ་ཤུགས་ཡོད་པའི་ཁེབས་གྲལ། དྲི་སྨད་སྔོ་བ་ཡང་ན་ཆུ་འཁོར་ཁ་བརྡུང་བའི་གྱུར་ཚོན་ལ་སོགས།
+4. **སྔོན་གྱི་མཚན་ཞལ་ལ་ཀློག་པ།** ཞེ་སྡང་ཤེས་པའི་སྲོལ་ཀློག་པ། རྒྱུན་གྱི་གཏམ་རྒྱུད་། ཚིག་ཞགས་ལ་སོགས་པ་ཞི་བདེས་ཀློག། རྒྱུན་གྱི་སྣེ་འགྲིག་ལ་ལྟོས་ཆེ་བ་ཡིན།
+5. **ཉི་མ་བསྡོད་པའི་སར་ཁང་གི་ཕྱི་ལ་སྡོད་པ།** བ་སྒྲོ་ཁ་ཤོས་ནས་ཉི་མ་ཟིན་ཡུལ་བ་དང་། ཆུ་སྒོ་ནས་བྱ་བལྟ་ཐུབ་པ་ལ་སོགས།
+6. **ཤོག་བུ་ཆེན་པོ་གཅིག་མཉམ་དུ་ལྟ་བ།** མེ་ཏོག་ཞེན་མེ་ཏོག ཡང་ན་ཁྱི་ཞིག་ཡིག་ཆ་ཡིན་པའི་ཡུལ་ཁ་ལ་ཁྱབ་པ། ཁྱེད་ཀྱིས་མཐོང་བ་ཅི་ཡིན་པ་བཤད་རོགས།
 
-More ideas: [late-stage activities](/activities/late-stage/).
+ལས་ཀ་ཁ་ཤས་ཀྱི་ཆེད་དུ་ [རིམ་པ་ཐ་མའི་ལས་ཀ་](/activities/late-stage/) ལ་བལྟ་རོགས།
 
-## Which games work for someone with Alzheimer's?
+## ཨལ་ཛ་ཧེ་མར་ཡོད་པའི་མི་ལ་ག་དེ་རྩེད་ཐུབ་ནམ།
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+རྩེད་མོ་ནི་ཁ་ཅིག་ཀྱང་ཕམ་པ་མེད་པ་འདེམས་རོགས། ཁ་བྱང་འདིའི་ནང་ལ་ཡོད་པའི་རྩེད་མོ་ཚང་མ་རིན་མེད་ཡིན་ཞིང་། བྲༀའུ་ཟར་ཁ་ནས་ལྷག་པ་མེད་དང་། དུས་ཚོད་ཀྱང་མེད། ཟུང་འབྲེལ་ཡང་ཡོད་མེད།
 
-| Game | What you do | Often suits |
+| རྩེད་མོ | ཇི་ལྟར་རྩེད་ཐུབ་ | ཡིད་ཆེས་ཆེ་བ་ |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [པར་ཚུད་པ](/games/picture-pairs/) | པར་ཆེན་པོ་མཐུན་སྒྲིག་བྱེད། ཡང་ན་མགོ་སྟེང་ལ་བཞག་ཀྱང་ཆོག | རིམ་པ་དང་པོ་དང་བར་པ་ |
+| [འདྲ་པ་གསལ](/games/find-the-same/) | སྟེང་གི་པར་དང་འདྲ་བ་ལ་ཐེག་པ་བརྡུང་། | བར་པ་དང་ཐ་མ། ཁ་སྐྱོར་ཡོད་པ་ན་ |
+| [ཚིག་ཁ་རྫོགས་པ](/games/finish-the-saying/) | ཤེས་ཟིན་པའི་ཚིག་གྲགས་ཀྱི་མཐའ་མ་འདེམས། ཡང་ན་བསྟན་ | རིམ་པ་དང་པོ་དང་བར་པ་ |
+| [པར་གྱི་རྩེད་མོ](/games/picture-puzzle/) | པར་ཡོད་པའི་སྟེང་ནས་ཤོག་ངོས་ ༤ ཡང་ན་ ༩ ལ་འགྱུར་ཏེ་ཞིག་ཏུ་བཞག | རིམ་པ་དང་པོ་དང་བར་པ་ |
+| [གསུང་གླེང་ཤོག་བུ](/games/conversation-cards/) | པར་དང་གླེང་བ་ལ་སྐོར་ཡོད་པའི་འདྲི་བ་ཞིག་ | རིམ་པ་གང་ཡང་རུང་ ཁྱེད་ཀྱི་གླེང་གཞི་ཡོད་ན་ |
+| [པར་ཚུད་པ་ཐུང](/games/photo-pairs/) | ཁྱེད་ཀྱི་རང་གི་པར་ལ་བརྟེན་པའི་མཐུན་སྒྲིག་རྩེད་མོ། | རིམ་པ་དང་པོ་དང་བར་པ་ |
+| [ཁ་དོག་བྱུགས](/games/coloring/) | ཁ་དོག་ཞིག་དང་། པར་གྱི་ཆ་ཤས་ཞིག་ཐེག་པ་བརྡུང་། ཡང་ན་པར་པར་བསྐྲུན་བྱས། | རིམ་པ་གང་ཡང་རུང་ རོགས་རམ་ཡོད་ན་ |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+མཉམ་དུ་སྡོད་ཚུལ་། རོགས་རམ་ཇི་ཙམ་བྱེད་དགོས་པ་དང་། ཚེ་བརྡ་ཅི་ལྟར་འཚམས་པ་ལ་ཞིབ་བསྡུ་བྱེད་ན། [བརྗེད་ནོར་ནད་ཀྱི་མི་དང་ཉམས་ལེན་གཅིག་ཁྱེད་ཀྱིས་མཉམ་རོལ་ཇི་ལྟར་བྱེད་ཚུལ་](/caregiving/how-to-play-together/) ལ་ཀློག་རོགས། "དྲན་པའི་རྩེད་མོ" ལ་ཡིད་ལ་འཁྱམ་ན་ [བརྗེད་ནོར་ནད་ཡོད་པའི་མི་རྒན་ལ་དྲན་པའི་རྩེད་མོ](/activities/memory-games/) ལ་བལྟ་རོགས།
 
-## How to make any activity easier
+## ལས་ཀ་ག་ཅི་ཡང་སླ་བ་བཟོ་ཐུབ་པའི་ཐབས།
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA ནས་མཁྱེན་ཐུབ་པའི་ཚུལ་ནི་ཁྱེད་ཀྱི་ལས་ཀ་མི་དེ་ཡིས་ཐུབ་པ་དང་མཐུན་པ་ལ་བརྟེན་པ། འགོ་བཙུགས་པར་རོགས་རམ་གནང་པ། སེམས་སྐྲག་མཐོང་བ་ལ་ལྟ་བ། ཐོབ་པའི་སྣང་བ་མི་དེ་ལ་སྐྱེད་པ། དགའ་བ་ཡང་ན་མཐོང་ན་མི་དེས་ཀྱི་ཚོར་ཡོད་པ་ཁོ་ན་ལ་ཞི་བར་སྡོད་ཐུབ་པ་ལ་སོགས་ཡིན།
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **མི་དེ་ཐུབ་པ་ལེགས་པའི་ཉིན་ཚོད་འདེམས་ཤིག** དེ་ནས་ཐེངས་ཐུང་ཐུང་སྤྲོད་རོགས།
+- **སྔོན་ལ་ཡོ་བྱད་ཚང་མ་བཞག་པ།** ཁྱེད་ཀྱིས་དེ་ཚེ་ཐོག་ཏུ་འགོ་བཙུགས་ཐུབ།
+- **བསྡུར་ཁ་མ་ཡིན་པར་བོས་ཤིག** "ལག་པ་ཅུང་ཟད་གྲོགས་ཀྱིས་གནང་ཐུབ་ངམ།" ལ་ལྟོས། "ལས་ཀ་གཅིག་གི་དུས་ཡིན།" ལས་ལེགས།
+- **ཐོག་མའི་རིམ་པ་ཁྱེད་རང་གིས་བྱས་ནས་མི་དེ་ཡང་མཉམ་དུ་ཞུགས་རོགས།**
+- **རིམ་པ་གཅིག་དང་ཐབས་གཅིག་ཡང་ན་གདམ་ཁ་གཅིག་ཅིག་རེ་ཞིག་གི་རེ་བ་ཕུལ།**
+- **མི་དེའི་ཐབས་ལ་ཡོལ་ཅིག་བྱས་ཀྱང་ཆོག།** ཁ་ལོགས་ཡོད་པའི་ཁེབས་གྲལ་ཡང་ལེགས་པར་འཇོག།
+- **དགའ་བ་ཡོད་པའི་ཚེ་འགོག་རོགས།** ཐོག་མར་མཇུག་བསྡུ་བ་ནི་ཕམ་པ་མ་ཡིན་པར་ལེགས་པའི་འབྲས་བུ་ཡིན། མི་དེས་མ་འདོད་ན་ [བརྗེད་ནོར་ནད་ཡོད་པའི་མི་ཞིག་གིས་མ་འདོད་ཅེས་བཤད་པའི་ཚེ་](/caregiving/when-they-say-no/) ལ་བལྟ་རོགས།
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ནས་ཐོ་གཞན་ལ་བསྡུས་པ་ལྟར། དགའ་ཚོར་ལ་ལྟ་བ་ཡིན་གྱི། ཐོབ་པ་ལ་ལྟ་མི་དགོས་ཞེས་བཤད།

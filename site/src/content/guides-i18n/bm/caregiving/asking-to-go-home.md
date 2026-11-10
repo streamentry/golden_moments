@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Dɛmansi bɛ mɔgɔ fɛ, a bɛ kuma ko a bɛ so segin"
+seoTitle: "Dɛmansi mɔgɔ bɛ so segin: awɔ bɛ se ka fɔ"
+description: "Mun na dɛmansi mɔgɔ bɛ so segin hali ni a bɛ so kɔnɔ, awɔ bɛ se ka fɔ, jɛkulu ko min bɛ se ka kɛ, ani o bɛ se ka kɛ cogo di walasa a kana bɔ."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Ni dɛmansi bɛ mɔgɔ fɛ min bɛ so segin tuma caman na, « so » bɛ kuma kɛ
+  hɛrɛ ni yɛrɛ hakili fɛ, o tɛ so bɔnɛ ye. Aw kana kɛ ka a ɲɛnɛ ko a bɛ so kɔnɔ.
+  Aw ka a hakili ɲɛfɛ, k'a ɲɛfɛ ko a bɛ sigi ni hɛrɛ ye, k'a kumakan ka so ko
+  kan, o kɔfɛ aw ka sini kɛ ni jɛkulu, ni dumuni, ni taamu, ni tulonkɛ, walima
+  ni baara kɛlɛ dɔ ye. Aw ka a filɛ ni ji, ɲɛgɛn, bɔnɛ, walima dɔ min bɛ a
+  ɲɛgɛn. Ni o bɛ kɔrɔ ka kɛ ni tɛmɛnen, aw ka a dɔktɔrɛ wele.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "« N bɛ so segin » bɛ kuma kɛ « n tɛ hɛrɛ sɔrɔ, n tɛ sigi yɛrɛ la », o tɛ kuma kɛ tɛ sɔrɔ wuluw kan."
+  - "Ni aw bɛ kumakan ka a ɲɛnɛ ko a bɛ so kɔnɔ, o bɛ a hakili ɲɛgɛn. Aw ka a hakili ɲɛfɛ dɔrɔn."
+  - "Aw ka a fɔ k'a ka so ko kan, o kɔfɛ aw ka sini kɛ ni dumuni, ni taamu, ni tulonkɛ, walima ni baara kɛlɛ dɔ ye."
+  - "Aw ka a filɛ ko dɔ min bɛ ka kɛ ka bonya: kɔngɔ, ji, bɔnɛ, dɔ min bɛ a ɲɛgɛn, a bɛ fu kɔ walima a bɛ fɛ, sanji walima fɔɲɛ, kɔnɔnaw, sigida."
+  - "Ni o bɛ kɛ tile o tile wula kɔrɔ, o bɛ se ka kɛ dɛmansi tɛmɛnen ye; sɛgɛnkɛ sɔrɔ ani fitini ka ɲi bɛ se ka dɛsɛ."
+  - "Aw ka yɛrɛdiya k'a bɔ tuma min na, ani aw ka a dɔktɔrɛ wele ni tuma o tuma a ɲɛnɛ bɔra kosɛbɛ."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Mun na ne ba dɛmansi bɛ kumakan ka so ko kan, hali ni a bɛ so kɔnɔ?"
+    a: "Dɛmansi bɛ se ka so min ye ɲɔgɔn ye, o ka kɛ dɔgɔya ye, mɔgɔ dɔw hakili bɛ sɔrɔ a bɛ sigi waati dɔ kɔfɛ. « So » bɛ se ka kɛ den ka so walima hɛrɛ min bɛ ka dɔn kɛ. A kɔrɔ, a ka jaabi di o hakili ma ka ɲi ka tɛmɛ a ɲɛfɛ ko a bɛ min na."
+  - q: "Mun na n ka fɔ tuma min na a bɛ so segin?"
+    a: "Aw ka fɔ ko « I bɛ hɛrɛ sɔrɔ yan, ani n bɛ i bɛɛ kɔnɔ », o kɔfɛ « I ka so kɔrɔ fɔ n ma ». Aw ka a f'a ka kuma, walima dɔ ka fɛn ni dumuni, walima ji dɔ ni tambali dɔ ye. Aw kana fɔ « I bɛ so kɔnɔ » ka kɛ ka a ɲɛnɛ, o bɛ se ka kɛ ka a hakili ɲɔgɔn ye, a bɛ se ka a hakili ɲɛgɛn."
+  - q: "A ɲɛ ka fɔ ko an bɛ so segin tuma dɔ na?"
+    a: "Ɲɛmɔgɔ ni dɛmansi kɛlɛ ka kɛlɛbolo dɔw bɛ yɛrɛw ɲɛfɛ. Caman bɛ daminɛ ni hɛrɛ ni kumakan ka ɲɛ ye ka jɛɲɛ, ka kɔfɛ ka tiɲɛ kɛ ni kɛnɛ kɛlɛ dɔ ye, o kɛlɛ bɛ kɛ tuma min na tiɲɛ ka ɲɛnɛ fɔ ka tɛmɛ a ɲɛ ma, a tɛ se ka a hakili sɔrɔ. Ni min bɛ sugandi, aw ka kɛ ni hɛrɛ ni sigiyɔrɔ ye, aw kana mɔgɔ ɲɛnɛ ɲangi."
+  - q: "Ni o bɛ so bɔ, mun na n ka kɛ?"
+    a: "Aw ka sigi ni hɛrɛ ye, aw ka taa ni a ye aw kana dɔ sigi a kɔrɔ. Tile fitini dɔ bɛ se ka a ɲɛgɛn. Aw ka yɛrɛdiya k'a bɔ tuma min na: sɛbɛn ka kɛɲɛ sigilen, da ka dɔnkili, ani foto kura. Ni a sɔrɔ, aw ka daminɛ ka a ɲini ka bɔ tuma min na, ani ni aw ma o sɔrɔ tile 15 kɔnɔ, aw ka sɛnɛkɛla nimɔrɔ wele, k'a fɔ ko « dɛmansi bɛ mɔgɔ dɔ la »."
+  - q: "Mun na n ka dɔktɔrɛ wele?"
+    a: "Aw ka a dɔktɔrɛ wele ni tuma o tuma, ni kuma walima hakili tɛɛ ye daminɛ ni tuma kɔnɔ walima ni ɲɔgɔn bɛ ɲɛ kɔfɛ kosɛbɛ, khɔrɔ ni sanji, ni dawolo kura, walima ni cɛnɛ sɛbɛn don. Kojugu hakili tɛɛ bɛ se ka kɛ delirium ye, o bɛ ka dɛsɛ ni sɛgɛsɛgɛli ye. Ni mɔgɔ dɔ bɛ kɔngɛ, aw ka sɛnɛkɛla nimɔrɔ wele."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+« N bɛ so segin. » Ni mɔgɔ bɛ kuma ko nin, mɔgɔ caman bɛ o kan kɔrɔ ka tɛmɛ kuma tɔw kan, dɔgɔya tuma min na ni a bɛ sigi ni a yɛrɛ ka so kɔnɔ, awɔ, mɔgɔ min bɛ i ka lakika ... O bɛ kɛ ni dɛmansi bɛ kɛ tile o tile, ani hɛrɛ bɛ sɔrɔ ka jaabi di ni kɛlɛ fɛ, ni kɔrɔfɛ, ni jɛkulu. Nin kɔnɔ, an bɛ fɔ ko kumaw bɛ kɛ cogo di, ko min bɛ se ka dɛmɛ tuma min na, ani ko min bɛ kɛ walasa a ka hɛrɛ kana bɔ.
 
-## Why does someone with dementia keep asking to go home?
+## Mun na dɛmansi mɔgɔ bɛ kumakan ka so ko kan?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+A bɛ kɛ hakili ye ka tɛmɛ so ye. Alzheimer's Society bɛ fɔ ko « so » bɛ kɛ hɛrɛ ni hinɛ hakili ye, walima so min bɛ kɔrɔ, o tɛ so ka sanga ye. Dɛmansi bɛ se ka so min bɛ dɔn kɛ ko yɛrɛ, o bɛ kɛ ko dɔgɔya, ani mɔgɔ bɛ se ka a hakili kɔrɔ ko a bɛ sigi waati dɔ kɔfɛ, o kɔrɔ, a ka den ka so walima a ka denw ka so.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Kuma nin bɛ se ka kɛ kɛlɛ fɛ dɔ bɛ kɛ bi ko kan kosɛbɛ: kɔngɔ, ji, bɔnɛ, dɔ bɛ a ɲɛgɛn, a bɛ fu kɔ walima fɛ, a bɛ sanji walima fɔɲɛ, a bɛ kɛ jaɲɔgɔnɲɛ, walima a bɛ sɔrɔ ka kɛ ka tɛmɛ ka ɲɔgɔn ɲɛ kɔnɔ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) bɛ dɔ ka kɛlɛ ɲɛfɛ ko dɔ dɔ bɛ kɛ hakili sɔrɔ, dɔ bɛ kɛ ka ɲɔgɔn, dɔ bɛ kɛ ka lakika, ani dawolo bɛ sɔrɔ.
 
-## What should I say when they ask to go home?
+## Mun na n ka fɔ tuma min na a bɛ so segin?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Aw ka a hakili ɲɛfɛ, aw kana a kumakan. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) bɛ fɔ ko aw kana kɛ ka a ɲɛnɛ ko a bɛ kɛ ka tɛ tiɲɛ kan: a hakili ye tiɲɛ ye, o de kosɔn aw ka hɛrɛ ni dusukasi di a ma daminɛ, o kɔfɛ aw ka a hakili ɲɛgɛn ka kɔrɔ.
 
-Phrases that often help:
+Kumaw min bɛ dɛmɛ caman bɛ nin ye:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **K'a ɲɛfɛ a hakili.** « I bɛ so ɲɛnama, a sɔrɔ. »
+- **K'a hɛrɛ di.** « I bɛ hɛrɛ sɔrɔ yan, ani n bɛ i bɛɛ kɔnɔ. » [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) bɛ kuma sɛbɛn nin kan: « I bɛ hɛrɛ sɔrɔ yan. »
+- **K'a fɔ k'a ka hakilinaw fɔ.** « I ka so kɔrɔ fɔ n ma. A ka tabali cogo di? » A bɛ se ka kɛ ka tɛmɛ waati kɔfɛ ka fɛn kɔrɔw kuma, o bɛ ɲɛfɛ ka tɛmɛ bi ka kuma.
+- **K'a ka fɛn dɔ kɛ ni ɲɔgɔn ye.** « An ka ji fɔlɔ min, » walima « I bɛ n dɛmɛ ka pɛtɛli nin ɲɔgɔn kɛ wa? »
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Kuma ka kɛcogo ni kɔrɔ ni bolo ka ɲɛnɛ bɛ se ka kɛ, ni a ka kɛ ka nɔ, ka tɛmɛ kuma bɛɛ kan.
 
-## What should I avoid?
+## Mun na n ka ɲɛnɛ?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Sɛbɛn ɲɛnɛ.** « I bɛ so ɲɛnama, » walima « I ka so ko bɛ sigi ni nin ye ni mɔɲɛ 40 ye. » O kumaw bɛ kɛ ka a fɔ ko a ka dɔ kɛ ka a dusu ka ɲɛnama, o bɛ se ka kɛ ka a ɲɛgɛn ka tɛmɛ, a bɛ se ka kɛ ka mɔgɔ ye ko a ka tiɲɛ tɛ.
+- **Ka a ɲɛ ka tɛmɛ kuma.** « I ka ɲɔgɔn tɛ ɲini wa? » walima « A tɛ fɛn ka ɲɛ ye? » O bɛ kɛ ɲɛfɛ ka sɔnɔ.
+- **Ka a ɲɛ ka bɔ ni dɛ ye ka a dɔ sigi.** Ni a bɛ bɔ, aw ka hɛrɛ ni sigi ye ka taa ni a ye. Tile fitini dɔ bɛ se ka a ɲɛgɛn.
+- **Ka gɛlɛya.** Aw ka waati di a ye ka kuma so ko kan kɔfɛ aw ka kuma wɛrɛ fɔ.
 
-## Activities that can help in the moment
+## Mun na ka kɛ ka tɛmɛ ko dɔ bɛ kɛ kɛ?
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Kuma min bɛ kɛ cogo di ni hɛrɛ ni kɛlɛ ye, o kɔrɔ, dɔ hɛrɛ ka sɔrɔ kɛlɛ dɔ kɔnɔ, o bɛ kɛ ka dɛmɛ mɔgɔ ma.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Ka foto ye so ni denw ye.** Aw ka foto ɲɔgɔn tɔɔ, ka kuma ko kan ni « Filɛ, o ɲɔnɔ min bɛ yan » ye, aw kana a ɲɛ ka ɲininiw kɛ. Ni aw bɛ telefɔn walima tablɛti kɛ, [Photo pairs](/games/photo-pairs/) bɛ aw ka foto yɛrɛw kɛ ka kɛlɛ dɔ ye ka ɲɔgɔn ɲɛ, ani foto bɛ sigi aw ka sɛbɛnnɛ kɔnɔ.
+2. **Ka kuma so ko kan.** [Conversation cards](/games/conversation-cards/) bɛ ninɛ kuma dɔ di, ko bɛ so, sɛgɛn, jɛnɛnɛ ani kɛnɛ dɔrɔn ko kan, ani jaabi tɔ tɛ jaabi ɲɔgɔn ye.
+3. **Ka dumuni min bɛ a kanu.** National Institute on Aging bɛ dumuni nɛɛnɛ ɲɛfɛ sɛbɛn ko cogo. Awɔ, [music activities](/activities/music/) ka bɛ se ka aw ka ka kɛlɛ bɛ.
+4. **Ka ji walima taamu.** Kɔngɔ ni ji tɛ ɲɔgɔn ye, o bɛ se ka kɛ ka hakili ɲɛgɛn bɛ ka bɔ ye. Ji tɛlɛ walima dumuni min bɛ a kanu, o bɛ kɛ so kɔnɔ kɔrɔ fana ye.
+5. **Ka taa tulonkɛ walima ka sigi da kɔrɔ.** Ni tile bɛ kɛ ka ɲɛ ye, tulonkɛ ni sɛgɛn bɛ dɛmɛ, sɔrɔ tile ka fɔlɔ.
+6. **Ka baara kɛlɛ dɔ di a ma.** Sanji dɔ ka kɛlɛ, nɛnɛw dɔ kɛ, walima jiri ji, o bɛ se ka a hakili sɔrɔ so kɔnɔ baara kɛlɛ kɔrɔ.
+7. **Ka fɛn bɛɛ kɛ ka tɛmɛ.** Ka TELEVISIYƆN bali, ka ɲɛ ni ɲɔgɔn dɔgɔya, ani ka a ɲɛfɛ [calm breathing](/games/calm-breathing/) ka tɛ ɲɔgɔn ye.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Ni kɛlɛ dɔ tɛ ɲɛ, aw ka dɔ wɛrɛ kɛ waati wɛrɛ la. Ni aw bɛ sigi ni ɲɔgɔn ye ka kɛ, o cɛɲi bɛ bon.
 
-## Check for a cause you can fix
+## A ka kɛ ka sɔrɔ fɛn min bɛ se ka fiɲɛ
 
-| Check | What to try |
+| Ɲɛnɛ | Min bɛ se ka kɛ |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| A bɛ ji walima taamu ɲɛgɛn | Ji ni dumuni tɔɔ di a ma |
+| A bɛ fu kɔ | Ka a dɛmɛ ka taa bolonɛ, ka kɛ ni jɛkulu ye |
+| Sanji walima bɔnɛ | Ka ɲɛ ye ni nɛɛnɛ kan: fɔɲɛ, kɔrɔ dɔ bɛ lu, walima ka tɛ se ka fu; ka a fɔ a dɔktɔrɛ ma |
+| A bɛ ɲɛ ka fɛn jɛ walima ka sanji | Ka ɲɛ ni sɛɛ bɔ walima ni sigida bɔ |
+| Ɲɛ, mɔgɔ caman bɛ |  Ka taa so dɔ min bɛ dɔgɔ ka a dɔ kɛ |
+| A bɛ sɔn walima a bɛ ɲɛ ka tɛmɛ tuma caman | Ka sɔn, ka tile dɔgɔya, ka dumuni dɔgɔ |
+| Tile dɔ waati | Aw ka taa « Tile ka kɛlɛ » ka sɛɛ kɔnɔ |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society bɛ fɔ ko aw ka sɛbɛn kɛ tuma min na a bɛ so segin, i n'a fɔ ka kɛ ka dɔ tɛ ɲɛ kɔfɛ, walima mɔgɔ ye ka bɔ kɔfɛ, walima tile dɔ waati. Sɔrɔ kɔrɔ bɛ dɛmɛ ka tɛmɛ ka dɛsɛ.
 
-## Is it okay to tell a white lie?
+## A ɲɛ ka kuma kɔrɔ ka fɔ ka ɲɛnɛ?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+O ye kuma ye min bɛ kɛ ka tɛmɛ ka ɲɛnɛ ɲɛfɛ, ɲɛmɔgɔ ye sɔrɔ jaabi ɲɔgɔn ye. Alzheimer's Society bɛ fɔ ko jaabi kɛnɛ tɛ, ɲɛnɛ dɔw bɛ mɔgɔ dɔ ka hakili ɲɛgɛn, o de kosɔn aw ka ɲɛfɛ mɔgɔ ka dusukasi ye, aw ka kɛlɛ kɛ ka ɲɔgɔn ye. Penn Memory Center ka kumakan bɛ fɔ ko tiɲɛ ye fɔlɔ, ko kɔrɔ ka ɲɛnɛ dusu bɛ se ka kɛ kɛlɛ ye waati min na mɔgɔ tɛ se ka tiɲɛ dɔ faamu, ani ko aw kana mɔgɔ ka hakili ɲɛnɛ ɲangi.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Ɲɛmɔgɔ caman bɛ taa ni kɛlɛ nin: hɛrɛ ni kuma tiɲɛ kan fɔlɔ (« An bɛ sigi bi yan, ani n bɛ i yɔrɔ kɔnɔ »), k'a kɔfɛ ka kuma wɛrɛ fɔ, a tɛ kɛ ka kuma ni so ye.
 
-## What if it happens every afternoon or evening?
+## Mun na ni o bɛ kɛ tile o tile wula walima dibi?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Hakili ɲɛgɛnna walima ɲɔgɔn bɛ kɛ dibi ni tile kɛ, o bɛ kɛ sundowning ye. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) bɛ fɔ ko aw ka waati dɔ sɔrɔ ka kɛ ni sigi ye, tile ka sɔrɔ ni kɛlɛ, ka kɔrɔfɛ dɔgɔ ka kɔnɔ, ani ka kɔfɛ tile dɔ, ka ji ni sɛgɛn ka bɔ dibi kɔfɛ. Ni aw bɛ fitilafɛ ka kɛ dibi ɲɛ kɔfɛ, o bɛ dɛmɛ. Aw ka sɛbɛn ka [calm late-afternoon activities](/caregiving/late-day-restlessness/) kɛ, o bɛ kɛ kɔrɔ ye.
 
-## Keeping them safe if they try to leave
+## A ka kɛ cogo di walasa a kana bɔ ni a b'a fɛ ka taa?
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+So segin bɛ se ka kɛ ka bɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) bɛ fɔ ko mɔgɔ 6 ni 10 ka kɛ dɛmansi bɛ ka mɔgɔ, o bɛ taa a yɛrɛ ka ɲɔgɔn ye, o bɛ taa ka bɔ tuma kelen.
 
-**Prepare ahead:**
+**A ɲɛ ka kɛ kɔrɔ:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Sɛbɛn walima dɔktɔrɛ sɛbɛn ni a tɔgɔ ye ani aw ka telefɔn nimɔrɔ, ani sɛbɛn kɔnɔ a ka fini kɔnɔ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) bɛ MedicAlert ni Alzheimer's Association Safe and Found porogaramu fɔ, o bɛ se ka kɛ ni wari ye.
+- Sɛgɛn ni fɛn dɔ min bɛ mɔgɔ ɲɛ, ani kɔ dɔ dɔ min bɛ a kɔnɔ ni tile ni kɛlɛ ni jɔ ye, o tɛ mɔgɔ kɔnɔ ni a kɛlɛ ye.
+- Foto kura min bɛ mɔgɔ dɔ ɲɛ ye, ani sɛbɛn min bɛ yɔrɔ caman ko kan a bɛ taa ka kɛ, i n'a fɔ so kɔrɔ walima baarakɛlɛ yɔrɔ.
+- Aw ka mɔgɔ ɲɛmɔgɔ ye ka fɔ, ani aw ka telefɔn nimɔrɔ di u ma.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Ni a bɛ bɔ:** aw ka taa ka kɛ ka a ɲini tuma min na; Alzheimer's Association bɛ fɔ ko mɔgɔ caman bɛ sɔrɔ 1.5 miles kɔnɔ. Ni aw ma a sɔrɔ tile 15 kɔnɔ, aw ka sɛnɛkɛla nimɔrɔ wele, k'a fɔ ko « dɛmansi bɛ mɔgɔ dɔ la ». Ni mɔgɔ dɔ bɛ kɔngɛ, aw ka sɛnɛkɛla nimɔrɔ wele ka kɛ ni tuma o tuma ye.
 
-## When should I call a doctor?
+## Yɔrɔ min na n ka dɔktɔrɛ wele?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Ni kuma walima hakili tɛɛ daminɛ ni tuma kɔnɔ, walima ni ɲɔgɔn bɛ ɲɛ kɔfɛ kosɛbɛ, aw ka a dɔktɔrɛ wele ni tuma o tuma. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) bɛ fɔ ko hakili ɲɛgɛnna walima ɲɛnɛ min bɛ ɲɛ kosɛbɛ, khɔrɔ ni dɔ ka dusu kɔfɛ walima dawolo kɔfɛ, aw ka o ɲini tuma o tuma. Kojugu hakili tɛɛ bɛ se ka kɛ delirium ye, [NHS](https://www.nhs.uk/symptoms/confusion/) bɛ fɔ ko o bɛ ka dɛsɛ ni dɛmɛ ye; kɔngɔ dusu bɛ kɛ mɔgɔ kɔrɔw ye kosɛbɛ.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+A bɛ dɛmɛ fana ka kɛ ka tile caman ɲɛnɛ fɔ dɔktɔrɛ ye kɔrɔfɛ ɲɛnama, katuguw, dibi, jaɲɔgɔnɲɛ ani dawolo ka kɔnɔnaw bɛ se ka kɛ kɔrɔfɛ fana ye.

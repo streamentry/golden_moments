@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Aktivaĵoj por frua etapo de demenco"
+seoTitle: "Aktivaĵoj por frua demenco: ideoj laŭ viaj bezonoj"
+description: "Ideoj por aktivaĵoj en frua demenco: ŝatokupoj, ludoj, eliroj, skribado kaj planado kune, kun etaj adaptoj por ke la persono ĝuu kaj decidu."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  En frua etapo de demenco, plej multaj homoj povas daŭrigi tion, kion ili
+  ĝuas: ŝatokupojn, kartojn kaj tabulludojn, kuiradon, ĝardenadon, promenojn,
+  klubojn, religiajn aktivaĵojn kaj volontuladon. La ĉefaj ŝanĝoj estas pli
+  malgrandaj grupoj, pli mallongaj eliroj, simplaj skribaj planoj kaj apuda
+  kunulo. Demandu al la persono, kian helpon ili volas, kaj lasu ilin gvidi.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Plej multaj homoj en la frua etapo vivas sufiĉe sendepende. Aktivaĵoj kutime bezonas adaptojn, ne anstataŭigon."
+  - "Demandu al la persono, kian subtenon ili volas, kaj interkonsentu pri simpla signalo por kiam helpo estas bonvena."
+  - "Pli malgrandaj grupoj, pli trankvilaj tempoj kaj pli mallongaj eliroj ofte faras grandan diferencon."
+  - "Ĉi tiu estas bona tempo por ke la persono gvidu projektojn pri sia propra vivo, ekzemple taglibron aŭ vivrakontan libron."
+  - "Elektu ludojn por ĝuo. Preterlasu ion ajn, kio komencas sentiĝi kiel testo."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Kiuj aktivaĵoj taŭgas por frua etapo de demenco?"
+    a: "Kutime la samaj, kiujn la persono jam ĝuas: kartoj, tabulludoj, kuirado, ĝardenado, promenado, muziko, religiaj aktivaĵoj, kluboj kaj volontulado. Vi eble bezonos fari ilin pli mallongaj, pli trankvilaj aŭ pli simplaj. Tenado de taglibro, skribado de leteroj kaj kreado de vivrakonta libro ankaŭ bone taŭgas por ĉi tiu etapo."
+  - q: "Kiel mi povas helpi sen transpreni?"
+    a: "Demandu, kian helpon la persono volas, kaj regule kontrolu. Interkonsentu pri frazo aŭ kapjeso, kiu signifas, ke estas bone enpaŝi, ekzemple kiam vorto aŭ nomo ne venas. Se ne estas risko pri sekureco, lasu ilin fari laŭ sia maniero, eĉ se tio daŭras pli longe."
+  - q: "Ĉu iu kun frua demenco provu novajn aktivaĵojn?"
+    a: "Jes, se ili volas. Konataj ŝatokupoj kutime estas plej facilaj, sed multaj homoj ĝuas ion novan, ekzemple promenogrupon taŭgan por demenco, artan klason aŭ kantogrupon. Provu unufoje sen premo kaj vidu, kiel ĝi sentiĝas."
+  - q: "Ĉu cerbo-trejna aplikaĵoj valoras la penon en la frua etapo?"
+    a: "Iuj homoj ĝuas enigmojn kaj vortludojn, kaj tiu ĝuo sufiĉas kiel kialo. Neniu aplikaĵo aŭ ludo montriĝis trakti, malrapidigi aŭ haltigi demencon. Se ludo kaŭzas streĉon aŭ igas la personon senti, ke ili malsukcesas, flankenmetu ĝin."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+En la frua etapo de demenco, multaj homoj ankoraŭ vivas preskaŭ kiel antaŭe. Ili eble laboras, volontulas, renkontas amikojn kaj prizorgas grandan parton de sia propra tago. Aktivaĵoj kutime ne bezonas esti anstataŭigitaj; ili bezonas kelkajn adaptojn por resti agrablaj. Via rolo pli similas al kunulo ol al zorganto: iu, kiu subtenas, planas kun ili kaj enpaŝas nur kiam oni petas tion.
 
-## What activities are good in early-stage dementia?
+## Kiuj aktivaĵoj taŭgas en frua etapo de demenco?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+La plej bonaj aktivaĵoj en la frua etapo kutime estas tiuj, kiujn la persono jam amas, nur iom faciligitaj. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mencias ideojn kiel kartojn kaj tabulludojn, vortserĉojn, promenadon, dancadon, ĝardenadon, aranĝadon de floroj, rakontadon, pentradon, muzikon, taglibron, skribadon de leteroj, albumkreon, kuiradon kaj festotradiciojn.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Kio ŝanĝiĝas, estas ofte la medio, ne la aktivaĵo mem. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) rimarkas, ke homoj en la frua etapo povas komenci retiriĝi de aferoj, kiujn ili ĝuis, kaj donas ekzemplon de iu, kiu sentas sin superŝarĝita ĉe granda festo, sed pli bone fartas en malgranda grupo. Parolu malkaŝe pri tio, kio sentiĝas pli malfacila, kaj adaptu kune.
 
-## Ask first, and agree on how to help
+## Demandu unue, kaj interkonsentu pri kiel helpi
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[La gvidilo de Alzheimer's Association pri la frua etapo](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) proponas kelkajn kutimojn, kiuj ankaŭ taŭgas por aktivaĵoj:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Demandu rekte.** "Kio farus la libroklubon pli facila por vi?" donas pli bonan respondon ol diveni.
+- **Supozu, ke ili povas.** Se ne estas risko pri sekureco, lasu la personon provi, kaj donu kuraĝigon anstataŭ transpreni.
+- **Interkonsentu pri signalo.** Elektu frazon aŭ kapjeson, kiu signifas "estas bone enpaŝi", ekzemple kiam nomo ne venas dum kartludo.
+- **Regule kontrolu.** Demandu, ĉu la kvanto de helpo sentiĝas ĝusta, troa aŭ tro malmulta.
 
-## Activity ideas for the early stage
+## Ideoj por aktivaĵoj en la frua etapo
 
-### Keep up roles and hobbies
+### Daŭrigu rolojn kaj ŝatokupojn
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Konservu regulan devontigon.** Semajna volontula deĵoro, koruso aŭ klubo donas formon al la semajno. Se ĝi fariĝas stresa, pli mallonga aŭ pli trankvila rolo eble pli bone taŭgas.
+- **Planu manĝojn kune.** Se aĉetado fariĝis ĉagrena, Alzheimer's Association proponas peti la personon helpi plani la semajnan menuon kaj skribi la liston anstataŭe.
+- **Kuiri kaj baki.** Sekvu ŝatatan recepton kune. Metu la ingrediencojn en ordo antaŭ ol komenci, por ke la paŝoj estu videblaj.
+- **Ĝardenumi.** Planu bedon, elektu semojn aŭ plantojn kaj faru la laboron kune. Skriba listo de la semajnaj ĝardenaj taskoj helpas.
+- **Daŭrigu manfaradon.** Lignoprilaborado, kudrado, trikotado aŭ modelkonstruado povas daŭri kun pli simplaj modeloj kaj bona lumo.
 
-### Games for enjoyment
+### Ludoj por ĝuo
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Ludu kartojn kaj tabulludojn.** Konataj ludoj estas plej facilaj. Ludu en teamoj, por ke neniu sentiĝu elmontrita, kaj tenu la poentaron malstrikte aŭ tute ne.
+- **Provu vortserĉon kun granda preso.** Nia [word search](/games/word-search/) povas esti ludata sur ekrano aŭ presita por trankvila momento.
+- **Faru puzlojn.** Elektu nombron de pecoj, kiu sentiĝas malstreĉa, ne defia. [Picture puzzle](/games/picture-puzzle/) estas mallonga versio sur ekrano, kaj nia gvidilo pri [puzloj por demenco](/activities/puzzles/) helpas elekti taŭgan.
+- **Aliĝu al kvizo por amuzo.** Iuj homoj amas teaman kvizvesperon. Se ĝi komencas sentiĝi kiel testo, elektu ion alian, aŭ provu niajn [facilajn kvizdemandojn](/activities/trivia/), kiuj havas respond-elektojn kaj neniun poentaron.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Ĉi tie ludoj estas por plezuro. Neniu ludo montriĝis trakti aŭ malrapidigi demencon; legu pli en [cerboludoj: kion diras la esploroj](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Skribi, pripensi kaj registri
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Tenu taglibron.** Alzheimer's Association proponas taglibron kiel unu manieron prilabori sentojn post diagnozo. Kelkaj linioj tage sufiĉas.
+- **Gvidu vivrakontan libron.** La frua etapo estas bona tempo por ke la persono elektu siajn proprajn fotojn kaj skribu aŭ diktu la rakontojn malantaŭ ili. Vidu [rememorajn aktivaĵojn](/activities/reminiscence/).
+- **Skribu leterojn.** Letero al nepo, malnova amiko aŭ iama kolego povas esti valora por ambaŭ flankoj.
+- **Parolu pri fotoj.** [Photo pairs](/games/photo-pairs/) faras el familiaj fotoj mildan kongruigan ludon, kaj [conversation cards](/games/conversation-cards/) donas facilajn komencpunktojn por interparolo.
 
-### Go out and move
+### Eliro kaj moviĝo
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) proponas daŭrigi konatajn elirojn tiel longe, kiel vi ambaŭ sentas vin komfortaj. Planu ilin por la plej bona tempo de la tago por la persono kaj ne lasu ilin daŭri tro longe.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Mallongaj kulturaj vizitoj.** Muzeo, posttagmeza filmo aŭ arta ekspozicio, ideale en pli trankvila tempo.
+- **Naĝado.** NIA proponas naĝejon dum trankvila tempo de la tago.
+- **Promenogrupoj kaj dancoklasoj.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mencias dancadon, tajĝiĉuanon, jogon, naĝadon kaj promenogrupojn, kaj, kie disponeblas, kunvenojn taŭgajn por demenco.
+- **Kantogrupoj kaj memorkafejoj.** Malstreĉaj grupoj, kie homoj vivantaj kun demenco kaj iliaj kunuloj povas renkonti aliajn en simila situacio.
 
-## Small changes that keep activities enjoyable
+## Malgrandaj ŝanĝoj, kiuj helpas aktivaĵojn resti agrablaj
 
-| If this is getting harder | Try this |
+| Se ĉi tio fariĝas pli malfacila | Provu ĉi tion |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Okupataj aŭ bruaj lokoj | Iru en trankvilaj tempoj, elektu pli malgrandajn grupojn, sidu rande de la ĉambro |
+| Memorado de novaj nomoj | Prezentu homojn laŭnome ĉiufoje; petu grupojn uzi nomsignetojn |
+| Sekvado de plurpaŝaj planoj | Skribu la paŝojn, aŭ metu ĉion en ordo antaŭe |
+| Laciĝo | Pli mallongaj eliroj, ripozo poste, nenio alia planita tiun tagon |
+| Sekvado de ludo | Ludu en teamoj, simpligu la regulojn, aŭ preterlasu poentadon |
+| Trovado de vortoj | Donu tempon; proponu vorton nur se via interkonsentita signalo tion indikas |
 
-## When to slow down
+## Kiam malrapidigi
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Ĉesu aŭ ŝanĝu aktivaĵon, kiam ĝi alportas pli da streĉo ol plezuro. Ripeta ĉagreno, evitado de ŝatokupo aŭ diro "Mi simple ne plu povas" meritas mildan interparolon, ne puŝadon. Ofte la respondo estas pli malgranda versio de la sama afero. Kiam la persono bezonas pli da helpo por komenci kaj sekvi paŝojn, la ideoj en [aktivaĵoj por meza etapo](/activities/middle-stage/) eble pli bone taŭgas. Por pli pri subtena interparolo, vidu [konsiletojn pri komunikado](/caregiving/communication-tips/), kaj por multaj pliaj ideoj, vidu [101 aktivaĵoj](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Ankaŭ kunuloj bezonas subtenon. La frua etapo estas bona tempo por konstrui vian propran reton de helpo; vidu [memzorgo por prizorgantoj](/caregiving/caregiver-self-care/).

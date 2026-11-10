@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "សកម្មភាពរំលឹកអតីតកាល៖ ប្រអប់អនុស្សាវរីយ៍ និងរូបថត"
+seoTitle: "សកម្មភាពរំលឹកអតីតកាលសម្រាប់ជំងឺវង្វេង"
+description: "វិធីចែករំលែកអនុស្សាវរីយ៍ជាមួយមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេងដោយមិនសាកល្បង៖ ការសន្ទនាអំពីរូបថត ប្រអប់អនុស្សាវរីយ៍ និងសៀវភៅរឿងជីវិត។"
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  ការរំលឹកអតីតកាលមានន័យថា រីករាយជាមួយអតីតកាលជាមួយគ្នា តាមរយៈរូបថត
+  វត្ថុ តន្ត្រី និងរឿងរ៉ាវ។ អ្នកអាចបង្កើតប្រអប់អនុស្សាវរីយ៍ ធ្វើសៀវភៅរឿងជីវិតសាមញ្ញ
+  ឬមើលរូបថតអង្គុយជាប់គ្នា។ កុំសាកល្បង៖ ចៀសវាងសំណួរដូចជា «តើអ្នកចាំទេ?» និង
+  «នេះជានរណា?» ហើយប្រើការអញ្ជើញបើកចំហដូចជា «សូមប្រាប់ខ្ញុំអំពីរឿងនេះ»។ ការសន្ទនាដ៏កក់ក្ដៅ
+  មានសារៈសំខាន់ជាងការនិយាយឲ្យត្រូវគ្រប់ព័ត៌មាន។
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "ការរំលឹកអតីតកាលគឺជាការសន្ទនា មិនមែនជាការសាកល្បងទេ។ ភាពត្រឹមត្រូវមិនសំខាន់ទេ ចំណាំតែការរីករាយប៉ុណ្ណោះ។"
+  - "ជំនួសសំណួរ «តើអ្នកចាំ...? » និង «នេះជានរណា?» ដោយការអធិប្បាយ និងការអញ្ជើញដូចជា «សូមប្រាប់ខ្ញុំអំពីថ្ងៃនោះ»។"
+  - "ប្រអប់អនុស្សាវរីយ៍ដែលមានវត្ថុពីជីវិតរបស់មនុស្សនោះ អាចជួយឲ្យដៃមានអ្វីកាន់ និងជួយឲ្យការសន្ទនាមានចំណុចផ្ដោត។"
+  - "សៀវភៅរឿងជីវិតជួយឲ្យសាច់ញាតិ អ្នកមកលេង និងបុគ្គលិកថែទាំ ស្គាល់មនុស្សនោះបានកាន់តែច្បាស់ មិនមែនគ្រាន់តែការធ្វើរោគវិនិច្ឆ័យរបស់គាត់ទេ។"
+  - "ប្រសិនបើអនុស្សាវរីយ៍ណាមួយនាំមកនូវការក្រៀមក្រំ សូមផ្ដល់ការលួងលោមជាមុនសិន រួចប្តូរទៅកាន់ប្រធានបទផ្សេងដោយស្រទន់។"
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "ការរំលឹកអតីតកាលសម្រាប់មនុស្សដែលរស់នៅជាមួយជំងឺវង្វេងគឺជាអ្វី?"
+    a: "ការរំលឹកអតីតកាលគឺជាការចែករំលែកអនុស្សាវរីយ៍ និងបទពិសោធន៍កន្លងមក ជាញឹកញាប់ដោយមានជំនួយពីរូបថត វត្ថុ តន្ត្រី ឬវីដេអូ។ វាអាចកើតឡើងរវាងមនុស្សពីរនាក់ ឬក្នុងក្រុម។ គោលបំណងគឺការសន្ទនាដែលរីករាយ និងមានអត្ថន័យ មិនមែនជាការសាកល្បងអ្វីដែលមនុស្សនោះអាចចាំបាននោះទេ។"
+  - q: "ហេតុអ្វីខ្ញុំមិនគួរសួរថា «តើអ្នកចាំទេ?»?"
+    a: "សំណួរដែលសាកល្បងការចងចាំអាចធ្វើឲ្យមនុស្សម្នាក់មានអារម្មណ៍ខ្មាស់ ឬព្រួយបារម្ភ នៅពេលដែលចម្លើយមិនអាចនឹកចេញបាន។ National Institute on Aging រាប់បញ្ចូលការសួរថាតើមនុស្សម្នាក់ចាំរឿងណាមួយ ឬនរណាម្នាក់ទេ ថាជារឿងមួយដែលគួរចៀសវាង។ ជំនួសដោយការអធិប្បាយអំពីអ្វីដែលអ្នកឃើញ ហើយទុកឲ្យមនុស្សនោះបន្ថែមអ្វីដែលគាត់ចង់បាន។"
+  - q: "ខ្ញុំគួរដាក់អ្វីខ្លះក្នុងប្រអប់អនុស្សាវរីយ៍?"
+    a: "ជ្រើសរើសវត្ថុដែលមានសុវត្ថិភាព និងរឹងមាំ ដែលទាក់ទងនឹងជីវិតរបស់មនុស្សនោះ៖ ឧបករណ៍ការងារ ឧបករណ៍ចំណូលចិត្ត កន្សែងពេញចិត្ត កាតប្រៃសណីយ៍ កាតរូបមន្តម្ហូប វត្ថុអនុស្សាវរីយ៍កីឡា ឬច្បាប់ចម្លងរូបថត។ ចៀសវាងវត្ថុមុតស្រួច វត្ថុតូចៗដែលអាចលេបចូលបាន និងវត្ថុដើមដែលមិនអាចជំនួសបាន។"
+  - q: "ចុះបើពួកគាត់និយាយព័ត៌មានខុសវិញ?"
+    a: "ទុកវាចោលទៅ។ ប្រសិនបើម៉ាក់របស់អ្នកនិយាយថារូបថតនេះជាបងស្រីរបស់គាត់ ខណៈដែលពិតជាបងស្រីជីដូនមួយ វាមិនអីទេ។ ការកែតម្រូវនឹងប្រែក្លាយពេលវេលាដ៏កក់ក្ដៅទៅជាការសាកល្បង។ គ្រាន់តែតាមរឿងដែលពួកគាត់កំពុងប្រាប់ ហើយរីករាយជាមួយគ្នា។"
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+ការរំលឹកអតីតកាលមានន័យសាមញ្ញថា រីករាយជាមួយអតីតកាលជាមួយគ្នា។ សម្រាប់មនុស្សជាច្រើនដែលរស់នៅជាមួយជំងឺវង្វេង អនុស្សាវរីយ៍ពីប៉ុន្មានទសវត្សរ៍មុនអាចនៅច្បាស់ជាងអ្វីដែលបានកើតឡើងនៅព្រឹកនេះ។ រូបថត វត្ថុដែលធ្លាប់ស្គាល់ តន្ត្រី និងរឿងរ៉ាវ អាចបើកអនុស្សាវរីយ៍ទាំងនោះ ហើយផ្ដល់ឲ្យអ្នកមានអ្វីដ៏កក់ក្ដៅសម្រាប់ចែករំលែកជាមួយគ្នា។ មានច្បាប់តែមួយគត់៖ វាគឺជាការសន្ទនា មិនមែនជាការសាកល្បងទេ។
 
-## What is reminiscence, and how is it different from quizzing?
+## ការរំលឹកអតីតកាលគឺជាអ្វី ហើយខុសពីការសាកល្បងយ៉ាងដូចម្តេច?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+ការរំលឹកអតីតកាលគឺជាការចែករំលែកអនុស្សាវរីយ៍តាមរយៈរូបថត វត្ថុ តន្ត្រី ឬវីដេអូ តាមល្បឿនរបស់មនុស្សនោះ។ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ពិពណ៌នាថា វាជាការចែករំលែកបទពិសោធន៍ និងរឿងរ៉ាវពីអតីតកាល ដោយមានជំនួយពីរូបថត វត្ថុ វីដេអូ ឬតន្ត្រី នៅក្នុងសៀវភៅ ឬនៅលើថេប្លេត។ ការសាកល្បងគឺខុសគ្នា៖ វាសុំឲ្យមនុស្សនោះផ្ដល់ចម្លើយត្រឹមត្រូវ ហើយអាចនាំមកនូវការខ្មាស់អៀនជំនួសឲ្យការរីករាយ។
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) រាប់បញ្ចូលការសួរមនុស្សម្នាក់ថាតើគាត់ចាំរឿងណាមួយ ឬនរណាម្នាក់ទេ ថាជារឿងដែលគួរចៀសវាង។ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ណែនាំឲ្យចៀសវាងសំណួរដែលពឹងផ្អែកលើការចងចាំរយៈពេលខ្លី ហើយសន្ទនាអំពីអតីតកាលដែលឆ្ងាយជាងវិញ។
 
-| Instead of | Try |
+| ជំនួសឲ្យ | សាកល្បង |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «តើអ្នកចាំរឿងនេះទេ?» | «នេះមើលទៅដូចជាថ្ងៃដ៏រីករាយមួយ។ សូមប្រាប់ខ្ញុំអំពីវា។» |
+| «នេះជានរណា?» | «នេះជាមីង Rose នៅឆ្នេរសមុទ្រ។ មើលមួកនោះ។» |
+| «រឿងនេះនៅឆ្នាំណា?» | «នេះមើលទៅដូចជាផ្ទះចាស់។ ការរស់នៅទីនោះយ៉ាងម៉េចដែរ?» |
+| «ទេ នោះមិនមែន Bill ទេ គឺ Frank។» | «គាត់មើលទៅដូចជាមនុស្សសប្បាយណាស់។» |
+| «អ្នកបានប្រាប់ខ្ញុំរឿងនោះរួចហើយ។» | «ខ្ញុំចូលចិត្តរឿងនោះណាស់។» |
 
-## How do you talk about photos without quizzing?
+## តើធ្វើដូចម្តេចដើម្បីសន្ទនាអំពីរូបថតដោយមិនសាកល្បង?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+ចាប់ផ្ដើមដោយនិយាយអំពីអ្វីដែលអ្នកឃើញ បន្ទាប់មកទុកកន្លែងឲ្យមនុស្សនោះបន្ថែម ប្រសិនបើគាត់ចង់។
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **អង្គុយជាប់គ្នា។** កាន់អាល់ប៊ុមរវាងអ្នកទាំងពីរ ដើម្បីឲ្យអ្នកទាំងពីរកំពុងមើលជាមួយគ្នា មិនមែនសាកល្បងឆ្លងតុទេ។
+2. **ជ្រើសរើសរូបថតពីរបីសន្លឹក។** រូបថតល្អប្រាំសន្លឹកប្រសើរជាងប្រអប់ទាំងមូល។ រូបថតធំ និងច្បាស់គឺល្អបំផុត។
+3. **និយាយឈ្មោះមនុស្សដោយខ្លួនឯង។** «នេះជាអ្នក និងប៉ានៅថ្ងៃរៀបការរបស់អ្នក» ជួយដកសម្ពាធចេញ។
+4. **អធិប្បាយអំពីព័ត៌មានលម្អិត។** សម្លៀកបំពាក់ រថយន្ត អาหาร អាកាសធាតុ មុខមាត់។ «រថយន្តស្អាតណាស់។ វាមើលទៅភ្លឺចិញ្ចាច។»
+5. **អញ្ជើញ កុំបង្ខំ។** «សូមប្រាប់ខ្ញុំអំពី...» ឬ «តើអ្នកកត់សម្គាល់ឃើញអ្វីខ្លះ?» ការនៅស្ងៀមក៏មិនអីដែរ។
+6. **តាមការដឹកនាំរបស់ពួកគាត់។** ប្រសិនបើពួកគាត់និយាយអំពីរឿងផ្សេងទៀត សូមតាមទៅតាមនោះ។
+7. **បញ្ឈប់នៅពេលដែលនៅតែរីករាយ។** បិទអាល់ប៊ុមមុនពេលនឿយហត់។
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+សម្រាប់សំណួរជារូបភាពដែលរៀបចំរួចជាស្រេច សូមសាកល្បង [conversation cards](/games/conversation-cards/)។ ដើម្បីប្រែក្លាយរូបថតគ្រួសាររបស់អ្នកទៅជាល្បែងផ្គូផ្គងស្រាលៗ សូមសាកល្បង [photo pairs](/games/photo-pairs/)។ រូបថតដែលអ្នកជ្រើសរើសនឹងនៅតែរក្សាទុកក្នុងកម្មវិធីរុករករបស់អ្នក។
 
-## How do you make a memory box?
+## តើធ្វើដូចម្តេចដើម្បីបង្កើតប្រអប់អនុស្សាវរីយ៍?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+ប្រអប់អនុស្សាវរីយ៍គឺជាប្រអប់មួយដែលមានវត្ថុពីជីវិតរបស់មនុស្សនោះ សម្រាប់កាន់ និងសន្ទនា។
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **ជ្រើសរើសប្រអប់រឹងមាំ** ដែលងាយបើក ដូចជាប្រអប់ស្បែកជើង ប្រអប់មួក ឬប្រអប់ឈើតូចមួយ។
+2. **ជ្រើសរើសប្រធានបទមួយ ឬចម្រុះ។** ការងារ ចំណូលចិត្ត ទីកន្លែង ទសវត្សរ៍មួយ ឬបញ្ចូលបន្តិចពីគ្រប់យ៉ាង។
+3. **ប្រមូលវត្ថុដែលមានសុវត្ថិភាព។** វត្ថុប្រាំដល់ដប់គឺគ្រប់គ្រាន់សម្រាប់ចាប់ផ្ដើម។
+4. **ប្រើច្បាប់ចម្លងនៃវត្ថុមានតម្លៃ។** ចម្លងរូបថត និងឯកសារដែលមិនអាចជំនួសបាន ហើយរក្សាទុកឯកសារដើមឲ្យមានសុវត្ថិភាព។
+5. **យកវត្ថុចេញម្តងមួយ។** ប្រគល់វត្ថុមួយ និយាយអ្វីមួយអំពីវា រួចមើលថាការសន្ទនានឹងទៅទិសណា។
 
-Ideas to include:
+គំនិតសម្រាប់ដាក់បញ្ចូល៖
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **ការងារ៖** ប័ណ្ណឈ្មោះ ឧបករណ៍តូចមួយ ស្លាកឯកសណ្ឋាន សៀវភៅកត់ត្រា ម្ជុលគិលានុបដ្ឋាយិកា សៀវភៅរូបមន្តម្ហូបពីភោជនីយដ្ឋាន។
+- **ផ្ទះ៖** កាតរូបមន្តម្ហូបដែលមានការសរសេរដោយដៃរបស់ពួកគាត់ កន្សែងជូត កន្សែងពាក់ក ឬក្រាវ៉ាតដែលពេញចិត្ត។
+- **ចំណូលចិត្ត៖** ត្រនុបនេសាទដែលគ្មានទំពក់ បាល់បេសբոլ សរសៃនoolមួយគ្រាប់ កញ្ចប់គ្រាប់ពូជ។
+- **ទីកន្លែង៖** កាតប្រៃសណីយ៍ ផែនទី វត្ថុអនុស្សាវរីយ៍ទេសចរណ៍ កំណាត់កាសែតពីស្រុកកំណើត។
+- **គ្រួសារ៖** ច្បាប់ចម្លងរូបថត គំនូររបស់កុមារ កាតអញ្ជើញរៀបការ។
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+កុំដាក់វត្ថុមុតស្រួច វត្ថុតូចៗដែលអាចលេបចូលបាន និងអ្វីៗដែលអាចនាំមកនូវអនុស្សាវរីយ៍ឈឺចាប់ លុះត្រាតែអ្នកដឹងថាវាត្រូវបានទទួលយក។
 
-## How do you make a life-story book?
+## តើធ្វើដូចម្តេចដើម្បីបង្កើតសៀវភៅរឿងជីវិត?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+សៀវភៅរឿងជីវិតគឺជាអាល់ប៊ុមសាមញ្ញមួយដែលមានរូបថត និងចំណងជើងខ្លីៗអំពីជីវិតរបស់មនុស្សនោះ។ វាជាអ្វីដែលអាចមើលជាមួយគ្នាបាន ហើយវាជួយឲ្យអ្នកមកលេង និងបុគ្គលិកថែទាំ មើលឃើញមនុស្សនោះទាំងមូល។
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **ជ្រើសរើសទម្រង់។** សៀវភៅបណ្ណសារដែលមានស្រោមការពារ សៀវភៅរូបថតដែលបោះពុម្ព ឬការបង្ហាញស្លាយនៅលើថេប្លេត។
+2. **រៀបចំផ្នែកពីរបី។** វ័យកុមារភាព សាលា ការងារ គ្រួសារ ទីកន្លែងដែលធ្លាប់រស់នៅ សាសនា ចំណូលចិត្ត អាហារ និងតន្ត្រីដែលពេញចិត្ត។
+3. **ដាក់រូបថតមួយ ឬពីរសន្លឹកក្នុងមួយទំព័រ** ជាមួយចំណងជើងខ្លីៗ និងអក្សរធំ៖ «Mary អាយុ 22 ឆ្នាំ ចាប់ផ្ដើមធ្វើការនៅធនាគារ។»
+4. **បញ្ចូលរឿងដែលចូលចិត្ត និងទម្លាប់ប្រចាំថ្ងៃ។** «ញ៉ាំកាហ្វេដាក់ទឹកដោះគោ។ ចូលចិត្តបទចម្រៀងថ្ងៃអាទិត្យ។ មិនចូលចិត្តទូរទស្សន៍ខ្លាំង។» នេះអាចជួយអ្នកដែលថែទាំពួកគាត់។
+5. **ឲ្យមនុស្សនោះចូលរួម** តាមដែលពួកគាត់ចង់ ដោយជ្រើសរើសរូបថត ប្រាប់រឿង ឬគ្រាន់តែមើលវាកើតឡើង។
+6. **បន្តបន្ថែមទៀត។** វាមិនចាំបាច់បញ្ចប់ទាំងស្រុងទេ ដើម្បីឲ្យមានប្រយោជន៍។
 
-## More reminiscence ideas
+## គំនិតរំលឹកអតីតកាលបន្ថែមទៀត
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **ចាក់តន្ត្រីពីវ័យក្មេងរបស់ពួកគាត់** ហើយសន្ទនាអំពីទីកន្លែងដែលវានាំពួកគាត់ទៅដល់។ សូមមើល [music activities](/activities/music/)។
+- **មើលវីដេអូគ្រួសារ ឬកម្មវិធីទូរទស្សន៍** ពីទសវត្សរ៍ដែលពួកគាត់ចូលចិត្ត។
+- **ចម្អិនម្ហូបពីកុមារភាព** ហើយទុកឲ្យក្លិននាំការសន្ទនា។
+- **មើលផែនទី** នៃស្រុកកំណើតរបស់ពួកគាត់ ហើយតាមដានផ្លូវដែលធ្លាប់ស្គាល់។
+- **កាន់កាតាឡុក ឬទស្សនាវដ្ដីចាស់ៗ** ហើយសន្ទនាអំពីតម្លៃ ម៉ូដ និងរថយន្ត។
+- **ថតរឿងរ៉ាវរបស់ពួកគាត់** ក្នុងទូរស័ព្ទ ដោយមានការយល់ព្រមពីពួកគាត់ សម្រាប់គ្រួសារ។
+- **ចែករំលែកអំឡុងពេលហៅទូរស័ព្ទ។** លើករូបថតមួយឡើងអំឡុងពេលហៅវីដេអូ។ សូមមើល [phone and video calls](/activities/phone-and-video-calls/)។
+- **យករូបថត ឬវត្ថុមួយមកពេលអ្នកទៅលេង។** វាផ្ដល់ចំណុចផ្ដោតងាយស្រួលសម្រាប់ការមកលេង។ សូមមើល [visiting](/activities/visiting/)។
 
-## What if a memory is painful?
+## ចុះបើអនុស្សាវរីយ៍មួយនាំមកនូវការឈឺចាប់?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+អនុស្សាវរីយ៍ខ្លះអាចនាំមកនូវការក្រៀមក្រំ ការសោកស្ដាយ ឬការភ័យខ្លាច។ ប្រសិនបើមនុស្សនោះចាប់ផ្ដើមរំជួលចិត្ត សូមឈប់ ផ្ដល់ការលួងលោម ហើយប្ដូរប្រធានបទ ឬសកម្មភាពដោយស្រទន់។ កុំប្រកែកអំពីអ្វីដែលបានកើតឡើង។ Family Caregiver Alliance ណែនាំកុំឲ្យព្យាយាមបញ្ចុះបញ្ចូលមនុស្សម្នាក់ថាពួកគាត់ខុស ហើយសូមឆ្លើយតបទៅនឹងអារម្មណ៍ដែលពួកគាត់បង្ហាញចេញ ដែលជាអារម្មណ៍ពិតប្រាកដ។ ប្រសិនបើពួកគាត់និយាយអំពីនរណាម្នាក់ដែលបានស្លាប់ ដូចជាមនុស្សនោះនៅមានជីវិត សូមឆ្លើយតបទៅនឹងអារម្មណ៍នោះ៖ «អ្នកនឹកគាត់។ សូមប្រាប់ខ្ញុំអំពីគាត់។»
 
-## What does the research say?
+## ការស្រាវជ្រាវនិយាយអ្វីខ្លះ?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[ការពិនិត្យឡើងវិញរបស់ Cochrane អំពីការរំលឹកអតីតកាល](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia) ដែលរួមបញ្ចូលការសាកល្បងចំនួន 22 និងមនុស្សចំនួន 1,972 នាក់ បានរកឃើញថาตលប៉ះពាល់មិនស្ថិតស្ថេរ តូច និងខុសគ្នាទៅតាមបរិបទ និងទម្រង់។ វាមិនបានរកឃើញភស្តុតាងនៃការបង្កគ្រោះថ្នាក់ដល់មនុស្សដែលរស់នៅជាមួយជំងឺវង្វេងទេ។ យើងណែនាំការរំលឹកអតីតកាល ពីព្រោះវាអាចជួយបង្កើតពេលវេលាដ៏កក់ក្ដៅ និងមានអត្ថន័យជាមួយគ្នា មិនមែនជាការព្យាបាលទេ។ សម្រាប់ព័ត៌មានបន្ថែមអំពីការសន្ទនាដ៏ងាយស្រួល សូមមើល [communication tips](/caregiving/communication-tips/)។

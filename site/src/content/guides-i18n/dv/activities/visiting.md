@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "ޑިމެންޝިއާވާ މީހަކަށް ޒިޔާރަތްކުރުން: ބެލެހެއްޓުމާއި ހޮސްޕިޓަލުގައި"
+seoTitle: "ޑިމެންޝިއާވާ މީހަކަށް ޒިޔާރަތް: ކުރާނެ ކަންތައް"
+description: "ޑިމެންޝިއާވާ މީހަކަށް ބެލެހެއްޓުމުގެ ތަނެއްގައި ނުވަތަ ހޮސްޕިޓަލުގައި ޒިޔާރަތްކުރާއިރު ކުރާނެ ކަންތައް، ގެންދާނެ ތަކެތި، ފަސޭހަ މަސައްކަތްތަކާއި ރަނގަޅަށް ދޫކޮށްލުން."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  ޑިމެންޝިއާވާ މީހަކަށް ބެލެހެއްޓުމުގެ ތަނެއްގައި ނުވަތަ ހޮސްޕިޓަލުގައި ޒިޔާރަތްކުރާއިރު،
+  ކަންތައް ފަސޭހަކޮށް ބަހައްޓަވާ: އައުމުން ތިޔަ ނަން ކިޔާދީ، ފޮޓޯ، ލަވަ ނުވަތަ އެމީހާ
+  ކަމަށްވާ ކާތަކެއްޗެއް ފަދަ އެއްޗެއް ގެންގޮސް އެކުވެރިން ބައިވެރިވެ، އެއް ފަސޭހަ ކަމެއް
+  އެކުވެ ކޮށްލަވާ. ދިގު، ދުރުދުރުން ކުރާ ޒިޔާރަތްތަކަށް ވުރެ ކުރު، އާންމުކޮށް ކުރާ
+  ޒިޔާރަތްތައް ގިނައިރު ރަނގަޅަށް ދެއްކެއެވެ. ދޫކޮށްލުން ދެބަފަރާޓަކަށް ފަސޭހަ ވުމަށް،
+  ހަމަޖެހިފައިވާ، އެއްގޮތަކަށް ދަންނަވާ ގޮތެއް ކުރިން ހަމަޖައްސަވާ.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "އައުމުން އެމީހާގެ ނަން ކިޔައި، ތިޔަ ކާކު ކަން ބަޔާންކޮށްދީ، އެމީހާއަށް ވިސްނަން ޖެހުނު ގޮތް ނުހެދުމަށް: މިސާލަކަށް ’ސަލާމް މަންމާ، އަހަރެން ސޫސަން، ތިޔަ ދަރިފުޅު.‘"
+  - "އެކުވެރިން ބައިވެރިވާނެ އެއް ނުވަތަ ދެ އެއްޗެއް ގެންދާ، މިސާލަކަށް ފޮޓޯ އެލްބަމެއް، އެމީހާ ކަމަށްވާ ލަވައެއް، ނުރައްކާތެރި ޝާލެއް ނުވަތަ މުވައްޒަފުން ހުއްދަ ދީފައިވާ ކާތަކެއްޗެއް."
+  - "ދިގު، ދުރުދުރުން ކުރާ ޒިޔާރަތްތަކަށް ވުރެ ކުރު، އާންމުކޮށް ކުރާ ޒިޔާރަތްތައް ގިނައިރު ރަނގަޅަށް ދެއްކެއެވެ. ތިޔަ ބުނާ ވާހަކަތަކަށް ވުރެ ތިޔަ އެތާ ހުރުމަކީ މުހިންމު ކަމެކެވެ."
+  - "ހޮސްޕިޓަލުގައި ތިބޭއިރު، އެމީހާއާ ބެހޭ މައުލޫމާތު ހިމެނޭ އެއް ސަފްޙާއެއް މުވައްޒަފުންނަށް ދީ، އަވަސް ބަދަލެއް ފެންނަ ނަމަ އެކަން ވަގުތުން ޑޮކްޓަރަށް ދަންނަވާ."
+  - "ދޫކޮށްލުމަށް ކުރިން ހަމަޖައްސަވާ: ކިތަންމެ ވަގުތެއް ތިބެނޭނެ ކަން ބުނާ، ކޮންމެ ފަހަރަކު އެއްގޮތަކަށް ދަންނަވާފަ ދާ، އަދި ހުއްޓި ދޫކޮށް ނުލަވާ."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "ޑިމެންޝިއާވާ މީހަކަށް ޒިޔާރަތްކުރާއިރު ގެންދާނީ ކޮން އެއްޗެއް؟"
+    a: "ވާހަކަ ދެއްކުމަށް އެއްޗެއް ގެންދާން ބަދަލު، އެކުވެރިން ބައިވެރިވާނެ އެއްޗެއް ގެންދާށެވެ. ކުދި ފޮޓޯ އެލްބަމެއް، އެމީހާ ކަމަށްވާ ލަވަތަކުގެ ލިސްޓެއް، ނުރައްކާތެރި ޝާލެއް، އަތް ލޯޝަނެއް، ކުރިން ޝައުގުވެރިވެ ހުންނެވި ކަމަކާ ބެހޭ މެގަޒިނެއް، ނުވަތަ މުވައްޒަފުން ހުއްދަ ދީފައިވާ ކާތަކެއްޗެއް ރަނގަޅު އިޚްތިޔާރުތަކެކެވެ. ބެލެހެއްޓުމުގެ ތަނެއްގައި ނަމަ، އާއިލާގެ ފޮޓޯތަކާއި އަދާދަވެފައިވާ އެއްޗެހި ކޮޓަރި ގޭފަދަ ތަނަކަށް ހެދުމަށް އެހީތެރިވެދާނެއެވެ."
+  - q: "ޑިމެންޝިއާވާ މީހަކަށް ޒިޔާރަތްކުރާއިރު ކިތަންމެ ވަގުތެއް ތިބެން ވަނީ؟"
+    a: "އެއް ކަނޑައެޅިފައިވާ ރަނގަޅު ވަގުތެއް ނެތެވެ. ގިނަ އާއިލާތަކުން ދެކެނީ ދިގު، ދުރުދުރުން ކުރާ ޒިޔާރަތްތަކަށް ވުރެ ކުރު، އާންމުކޮށް ކުރާ ޒިޔާރަތްތައް ރަނގަޅަށް ދެއްކޭ ކަމަށެވެ، ސަބަބަކީ އެމީހާ އަވަހަށް ހަރަދުވެދާނެ، އަދި ކިތަންމެ ވަގުތެއް ތިބީ ކަން ހަނދާން ނުހުރެދާނެ ކަމެވެ. ހަރަދުވާ ލަކުނުތައް ބަލައި، ޒިޔާރަތް ރަނގަޅު އިހުސާސެއް ދޭތަނުގައި ދޫކޮށްލަވާ."
+  - q: "އެމީހާ ގޭގައި ދާން ބޭނުންވެއްޖެ ނަމަ ކީއްވާނީ ކޮބައި؟"
+    a: "ބަސްތަކަށް ނޫން، އެ ބަސްތަކުގެ ފުރަތަމަ ހުރި އިހުސާސަށް ޖަވާބު ދީށެވެ. ’އަހަރެން ގޭގައި ދަން ބޭނުން‘ އަކީ ގިނައިރު ’އަހަރެން މިތަނުގައި ރައްކާތެރި ނުވަތަ އަރާމު އިހުސާސް ނުކުރޭ‘ މިންވަރެވެ. ’ތިޔަ ގޭގެ ވާހަކަ އަހަރެންނަށް ކިޔައިދޭންތޯ،‘ އެކުވެ ފޮޓޯ ބަލާ، ނުވަތަ ހިނގާލުމަކަށް ނުވަތަ ކާތަކެއްޗެއް ނަގާލުމަށް ހުށަހެޅުން މަސައްކަތް ކުރެވިދާނެއެވެ. ދެކޮޅުހަދައި ވާހަކަ ދެއްކުން ނުވަތަ ނުދެވޭނެ ސަބަބު ތަފްސީލުކޮށްދިނުމުން ގިނައިރު ދެރަވުން އިތުރުވެދާނެއެވެ."
+  - q: "އެމީހާ އަހަރެން ދެނެގަންނަވަން ނުޖެހޭނަމަ ކީއް ކުރަން ވަނީ؟"
+    a: "އެކަން ދެރަވެދާނެ ނަމަވެސް، ރަނގަޅުކޮށްދިނުމަށް ނުވަތަ ’އަހަރެން ކާކު ކަން ނޭނގެނީތޯ؟‘ އަހާލުމަށް މަސައްކަތް ނުކުރައްވާ. އޯގާތެރިކަމާއެކު ފަސޭހައިން ތިޔަ ނަން ބަޔާންކޮށްދީ، އެކުވެ ހުރި ވަގުތުން އަރާމު ހޯދަވާ. ގިނަ މީހުންނަށް ތިޔަ ކާކު ކަން ކަނޑައެޅޭން ނުޖެހިޔަސް، އެކުވެރިކަމާއި ޒިޔާރަތުގެ އޯގާ އިހުސާސް ކުރެވެދާނެއެވެ."
+  - q: "ހޮސްޕިޓަލުގައި ތިބޭ މުއްދަތުގައި އަހަރެން ކިހިނެއް އެހީތެރިވެދާނީ؟"
+    a: "ވާނެ ވަރަކަށް އެމީހާއާ އެކު ހުރެ، ކާން ބުއިމަށާއި ބޯން ބުއިމަށް އެހީތެރިވެ، ފޮޓޯފަދަ އަދާދަވެފައިވާ އެއްޗެހި ގެންދީށެވެ. އެމީހާގެ ދުވަހުން ދުވަހަށް ކުރާ ކަންތައް، ކިޔަން ކަމަށްވާ ނަން، ކަމަށްވާ އަދި ނުކަމަށްވާ ކަންތައް، އަދި ވޭނުން އިހުސާސް ކުރާ ލަކުނުތައް ލިޔެފައިވާ ސަފްޙާއެއް މުވައްޒަފުންނަށް ދީށެވެ. އެމީހާ އަވަހަށް ބޮޑަށް ނުރަނގަޅު ނުވަތަ އެހެން ގޮތަކަށް ފެންނަ ނަމަ، އެކަން ވަގުތުން ޑޮކްޓަރަށް ދަންނަވާ، ސަބަބަކީ އަވަސް ވިސްނުން ގެއްލުން ބައެއް ވަގުތު ޞިއްޙީ މައްސަލައެއްގެ ލަކުނުވެދާނެ ކަމެވެ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+ތިޔަ ލޯބިކުރާ ޑިމެންޝިއާވާ މީހަކަށް ބެލެހެއްޓުމުގެ ތަނެއްގައި، ނާރސިން ހޯމެއްގައި ނުވަތަ ހޮސްޕިޓަލުގައި ޒިޔާރަތްކުރުމުން ގިނަ އިހުސާސްތަކެއް އުފެދިދާނެއެވެ. ކީއްވާނީ ކޮބައި، ކޮން އެއްޗެއް ގެންދާނީ، ނުވަތަ އެމީހަށް ހަނދާން ނުހުރިޔަސް ވެސް ޒިޔާރަތް ކުރުމުގެ ފައިދާ އަކަށް ހުރީތޯ މި ކަންކަން ތިބާ ވިސްނާލެދާނެއެވެ. ފައިދާ އެބަހުރި. National Institute on Aging ބަޔާންކޮށްފައިވާ ގޮތުގައި، Alzheimer’s އާއެކު ދިރިއުޅޭ ގިނަ މީހުން ޒިޔާރަތްކުރާ މީހާ ކާކު ކަން ހަނދާން ނުހުރިޔަސް ވެސް [އެކުވެރިކަމުން އުފަލު ލިބިދާނެއެވެ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). މި ޞަފްޙާގައި ޒިޔާރަތް ކުރުމުގެ ކުރިން، ޒިޔާރަތުގެ ތެރޭގައި އަދި ފަހުން ބޭނުންވާ އަމަލީ ފިޔަވަޅުތަކާއި، ހޮސްޕިޓަލުގައި ތިބޭ މުއްދަތަށް ޚާއްޞަ އިރުޝާދުތައް ހިމެނެއެވެ.
 
-## How do I get ready for a visit?
+## ޒިޔާރަތަކަށް ތައްޔާރުވާނީ ކިހިނެއް؟
 
-A little planning makes the visit easier for both of you.
+ކުޑަ ތައްޔާރީއަކުން ޒިޔާރަތް ދެބަފަރާޓަކަށް ފަސޭހަވެދެއެވެ.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **ރަނގަޅު ވަގުތެއް ހޮވާށެވެ.** Dementia Australia ހުށަހެޅުވަނީ އެމީހާ އާންމުކޮށް އެންމެ ހޭލުންތެރި ވަގުތެއްގައި ޒިޔާރަތްކުރުމަށެވެ، ގިނަ މީހުންނަށް އެއީ ހެނދުނު ނުވަތަ މެންދުރު ކުރިންނެވެ. Family Caregiver Alliance ހުށަހެޅުވަނީ އެ ތަނުގެ ޓައިމްޓޭބަލް ބަލައި، [ހަރަކާތްތަކުގެ ވަގުތަށް ބަދަލު ހުސް ވަގުތެއްގައި](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) ޒިޔާރަތްކުރުމަށެވެ.
+- **މުވައްޒަފުންނާ ވާހަކަ ދައްކާށެވެ.** މިއަދު އެމީހާ ތިބީ ކިހިނެއް ކަން އަހާ، އަދި ކާނާ، އެނިމަލުންނާ ނުވަތަ ބޭރަށް ގެންދިއުމާ ގުޅޭ ގަވާއިދުތައް ހުރިތޯ ބަލާށެވެ.
+- **ކުޑަ ޒިޔާރަތް ބެގެއް ތައްޔާރުކުރާށެވެ.** އެކުވެރިން ބައިވެރިވާނެ އެއް ނުވަތަ ދެ އެއްޗެއް ފުދޭނެ (ތިރީގައިވާ ލިސްޓް ބަލާށެވެ).
+- **ބައެއް ވާހަކަތަކުގެ ހަމަޖެހުން ބަހައްޓާށެވެ.** އެމީހާއާ ޙަވާލުވެ ބުނާނެ އާ ޚަބަރެއް ނުހުރެދާނެ، އެހެންކަމުން ތިޔަބޭފުޅާގެ ޚަބަރުތައް ގެންދާ: އާއިލާގެ ޚަބަރުތައް، މޫސުމުގެ ހާލަތު، ބޯޅަ މެޗެއް، ނުވަތަ ކުޑަ ހިތްހަމަޖެހޭ ވާހަކައެއް.
+- **ތިޔަބޭފުޅާގެ އުންމީދުތައް ސާދާކޮށް ބަހައްޓާށެވެ.** ބައެއް ޒިޔާރަތްތައް އޯގާތެރިވެ ވާހަކަ ދެއްކޭނެ. އަނެއްބައި ހަމަހިމޭން ނުވަތަ އުނދަގޫވެދާނެ. ދެގޮތްމެ އާދައިގެ ކަމެކެވެ.
 
-## What should I bring?
+## ކޮން އެއްޗެއް ގެންދާން ވަނީ؟
 
-Bring things to share, not things that test. Good choices include:
+އިމްތިހާނު ކުރާ އެއްޗެހި ނޫން، އެކުވެރިން ބައިވެރިވާނެ އެއްޗެހި ގެންދާށެވެ. ރަނގަޅު އިޚްތިޔާރުތަކުގެ ތެރޭގައި:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **ކުދި ފޮޓޯ އެލްބަމެއް** — ބޮޑު، ސާފު ފޮޓޯތަކާއެކު. މުވައްޒަފުންނަށް ފަސޭހަ ވުމަށް ފޮޓޯގެ ފުރަގަހު ލޭބަލް ކުރާށެވެ.
+- **ކަމަށްވާ ލަވަތަކުގެ ޕްލޭލިސްޓެއް** — ފޯނުގައި، ފަސޭހަ ހެޑްފޯނެއް ނުވަތަ ކުޑި ސްޕީކަރއަކާއެކު.
+- **ހިފާހެން ނުރައްކާތެރި އެއްޗެއް،** މިސާލަކަށް އަދާދަވެފައިވާ ޝާލެއް، މަފްލަރެއް ނުވަތަ ސްވެޓަރެއް.
+- **އަތް ލޯޝަނެއް** — އެމީހާ ބަދަނަށް އަތްލުމަށް ކަމުދޭ ނަމަ، ނުރައްކާތެރި އަތް މަސާޖަކަށް.
+- **މެގަޒިނެއް ނުވަތަ ތަސްވީރު ފޮތެއް** — ކުރިން ޝައުގުވެރިވެ ހުންނެވި ކަމަކާ ގުޅޭ، މިސާލަކަށް ގަސްގަހާގެހި ހަދާފައި ބެހެއްޓުން، ކާރު، ދޫނި ނުވަތަ ކެއުން ތައްޔާރުކުރުން.
+- **ކަމަށްވާ ކާތަކެއްޗެއް،** މުވައްޒަފުން ރަނގަޅު ކަމަށް ބުނެދެއްވާ ނަމަ.
+- **ކޮޓަރިއަށް އަދާދަވެފައިވާ އެއްޗެހި.** Family Caregiver Alliance ހުށަހެޅުވަނީ މާ، ގަސްގަހާގެހި، އާއިލާގެ ފޮޓޯތައް އަދި ކުރެހުން، ނުވަތަ ކުރިން ނަގާފައިވާ އާއިލާގެ ފޮޓޯތަކުގެ ބޮޑު ޕޯސްޓަރެއް.
+- **ޓެބްލެޓެއް،** އާއިލާގެ ފޮޓޯތައް އެކުވެ ބެލުމަށް ނުވަތަ ނުރައްކާތެރި ގޭމެއް އެކުވެ ކުޅެން.
 
-## What can we do together during a visit?
+## ޒިޔާރަތުގެ ތެރޭގައި އެކުވެ ކުރެވޭނީ ކޮން ކަމެއް؟
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+އެކުވެ ކަމެއް ކުރުމުން ވާހަކަ ދެއްކުމުގެ ބުރަ މަދުވެއެވެ. Dementia Australia ހުށަހެޅުވަނީ ފޮޓޯ ބެލުން، ފަސޭހަ ހުނަރުވެރި ކަމެއް، ގަސްފަޅި އިންދުން، ލަވަ، ކާތަކެއްޗެއް ބައިވެރިކޮށް ކެއުން، ނުވަތަ އެ ތަނުގެ ސަރަހައްދުގައި ކުޑަ ހިނގާލުމެއް ކުރުމަށެވެ. އިތުރު ބައެއް ހުށަހެޅުންތައް:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **ފޮޓޯ ބަލާށެވެ.** ފެންނަ ކަންތައް އިޝާރާތް ކޮށް ބުނާ: ”އެ ތޮޕި ބަލާށެވެ.“ ”މި ގޮނޑުދޮށް ކިހިނެއް ރީތި ހެއްޔެވެ.“ އެމީހާ ކުރިއަށް ގެންދިޔުމަށް ދޫކޮށްދީށެވެ. ”މިއީ ކާކު؟“ މިފަދަ ސުވާލުތަކުން ދުރުހެލިވާށެވެ.
+2. **ލަވަ ޖައްސައި އެކުވެ ލަވަ ކިޔާށެވެ.** އަދާދަވެފައިވާ ލަވަތަކުން މިޒާޖު އިތުރުކޮށް، ވާހަކަ ދެއްކުން އުނދަގޫވެފައި ހުރިޔަސް ވެސް، އެކުވެ ހިއްސާކުރެވޭ ވަގުތެއް ގެނެސްދެވިދާނެއެވެ.
+3. **ކުޑަ ހިނގާލުމެއް ކުރާށެވެ.** Family Caregiver Alliance ހުށަހެޅުވަނީ އެ ތަނުގެ ތެރޭގައި ހިނގާލުމަށެވެ، ޚާއްޞަކޮށް ބަގީޗާއެއް ހުރި ނަމަ އެތާނގައެވެ. ވީލްޗެއާރުގައި ހިނގާލުމަކީ ވެސް ހިނގާލުމެކެވެ.
+4. **އަތް މަސާޖެއް ދީށެވެ.** ކުޑަ ލޯޝަނެއް ޖައްސައި އަތްމަތީގައި މަޑުމައިތިރިން ފިއްތައިދިނުމުން ހަމަޖެހުން ލިބިދާނެއެވެ.
+5. **ތައްޔާރުވުމުގައި އެހީތެރިވާށެވެ.** Dementia Australia ބުނަނީ އެމީހާ ކަމަށް ކުރާ ނަމަ، އިސްތަށި ބުރުޝް ކުރުން، ނިޔަފަތުގައި ކުލަ ޖެހުން، ނުވަތަ ކަމަށްވާ އެއްޗެއް އަޅައިދިނުމުގައި އެހީތެރިވެދެވޭނެ ކަމަށެވެ.
+6. **ފަސޭހަ ގޭމެއް ކުޅާށެވެ.** Family Caregiver Alliance ހުށަހެޅުވަނީ ކާޑު، ޑޮމިނޯ، ނުވަތަ އެމީހާ ކުރިން ކުޅެއްވި ކޮންމެ ގޭމެއް. ޓެބްލެޓެއްގައި [Picture Pairs](/games/picture-pairs/) ކުޅެވޭނީ ތަސްވީރުތައް ފެންނަ ގޮތުގައި ބަހައްޓައި، ޓައިމަރެއް ނެތިއެވެ. [Photo Pairs](/games/photo-pairs/) އިން ތިޔަ ހޮވާ ފޮޓޯތައް އެއްގޮތް ފޮޓޯ ހޯދާ ގޭމަކަށް ހަދައިދޭ، އަދި އެ ފޮޓޯތައް ތިޔަ ބްރައުޒާގައިމެ ހުރެއެވެ.
+7. **އެކުވެ އެއްޗެއް ބަލާށެވެ.** Family Caregiver Alliance ހުށަހެޅުވަނީ ކޮމެޑީ އަދި ކުރީގެ ފިލްމުތައް. އެމީހާއަށް ވާހަކަ ފޮލޯ ނުކުރެވުނު ކަމުގައި ވިޔަސް، ކައިރީގައި އިށީ އެކުވެ ވަގުތު ހޭދަކުރެވިދާނެއެވެ.
+8. **އަޑުއަރުވައި ކިޔައިދީށެވެ.** ކުރު ޅެނެއް، ކަމަށްވާ ބައެއް، ނުވަތަ އާއިލާގެ މީހަކު ލިޔުނު ސިޓީއެއް.
+9. **ހަމައެކަނި އެކުވެ އިށީށެވެ.** އަތް ހިފައިގެން ނުވަތަ ހަމަހިމޭން އިށީގެން ހުރުމަކީ ވެސް ސީރިއަސް ޒިޔާރަތެކެވެ. Alzheimer’s Association ބަޔާންކޮށްފައިވާ ގޮތުގައި، ކީއްވާނީ ކަން ނޭނގުނު ކަމުގައި ވިޔަސް ކަމެއް ނެތް، އަދި އެންމެ މުހިންމަކީ ތިޔަ އެތާ ހުރުމެވެ.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+ބުނާނެ ވާހަކަ ނިމިއްޖެ ނަމަ [Conversation Cards](/games/conversation-cards/) އެހީތެރިވެދާނެއެވެ. ކޮންމެ ކާޑެއްގައި ވެސް ތަސްވީރެއް އަދި ހުޅުވާލެވޭ ސުވާލެއް ހިމެނެއެވެ.
 
-## How should I talk during the visit?
+## ޒިޔާރަތުގެ ތެރޭގައި ވާހަކަ ދެއްކާނީ ކިހިނެއް؟
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **ކޮންމެ ފަހަރަކު ތިޔަ ނަން ބަޔާންކޮށްދީށެވެ.** ”ސަލާމް ބައްޕާ، އަހަރެން މާކް، ތިޔަ ދަރިފުޅު.“ NIA ހުށަހެޅުވަނީ ވާހަކަ ފެށުމަށް ޒިޔާރަތްކުރާ މީހުން ކުރުކޮށް ތިމާގެ ނަން ބަޔާންކޮށްދިނުމަށެވެ.
+- **ކުރިމަތިން ކައިރިވެ** އައިން އައިނަށް ދިމާވާ ފަންތީގައި އިށީށެވެ.
+- **ރަނގަޅު ނުކޮށް ނުވަތަ ދެކޮޅުހަދައި ނުވާހަކަ ނުދައްކާށެވެ.** އެމީހާ ކުށެއް ކުރިއްޖެ ނަމަ ނުވަތަ އެއްޗެއް ހަނދާން ނުހުރިއްޖެ ނަމަ، ރަނގަޅު ނުކުރުމަށް NIA އިރުޝާދު ދެއެވެ.
+- **ބަސް ހޯދުމަށް އުނދަގޫވާ އިރު ކެތްތެރިވާށެވެ.** ފުދޭ ވަރަށް ވަގުތު ދީށެވެ.
+- **އިހުސާސްތަކަށް ޖަވާބު ދީށެވެ.** އެމީހާ ހިތާމަ ނުވަތަ ބިރުވެފައި ފެންނަ ނަމަ، މައުޟޫޢު ބަދަލުކުރުމުގެ ކުރިން އެ އިހުސާސް ގަބޫލުކުރާށެވެ.
+- **”އަހަރެން ހަނދާން ނެތީތޯ؟“ ނުވަތަ ”މެންދުރު ކީއް ކެއްވީ؟“ ފަދަ އިމްތިހާނު ސުވާލުތަކުން ދުރުހެލިވާށެވެ.**
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+އިތުރަށް އެނގެން ބޭނުންފުޅުވާ ނަމަ އަޅުގަނޑުމެންގެ [ވާހަކަ ދެއްކުމުގެ އިރުޝާދު](/caregiving/communication-tips/) ބައްލަވާށެވެ.
 
-## What do I do when they say "I want to go home"?
+## ”އަހަރެން ގޭގައި ދަން ބޭނުން“ ބުނެއްޖެ ނަމަ ކީއް ކުރަން ވަނީ?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+ބަސްތަކުގެ ފުރަތަމަ ހުރި އިހުސާސަށް ޖަވާބު ދީށެވެ (އަޅުގަނޑުމެންގެ [އަބަދުވެސް ގޭގައި ދާން އެދޭ ހާލަތާ ބެހޭ ލަފާ](/caregiving/asking-to-go-home/) އިން އިތުރަށް ބައްލަވާލެވޭނެ). Family Caregiver Alliance ތަފްސީލު ކުރަނީ ”އަހަރެން ގޭގައި ދަން ބޭނުން“ އަކީ ގިނައިރު ”އަހަރެން މިތަނުގައި ރައްކާތެރި ނޫން“ ކިޔުމުގެ އެހެން ގޮތެއް ކަމަށާއި، ”ތިޔަ ގޭގެ ވާހަކަ އަހަރެންނަށް ކިޔައިދޭންތޯ“ ނުވަތަ ”ގޭގައި އެންމެ ކަމަށް ދިޔަ ކަމަކީ ކޮބައި؟“ ފަދަ ޖަވާބުތައް ދިނުމަށް ހުށަހެޅުވައެވެ. Dementia Australia އިތުރުކޮށް ބުނަނީ ”ގެ“ އަކީ އެމީހާ ރައްކާތެރިކަން އިހުސާސް ކުރި ވަގުތެއް ނުވަތަ ތަނެއް، މިސާލަކަށް ކުޑަކުދިންގެ ޒަމާން، ދައްކައިދެވިދާނެ ކަމަށެވެ.
 
-Try:
+މިކަންތައް މަސައްކަތް ކުރާށެވެ:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- އެ އިހުސާސް ގަބޫލުކުރުން: ”ގޭގެ ހަނދާން އަރަނީ ކަމަށް އެނގެއެވެ.“
+- ރުހުން ލިބިދޭ ނަމަ ބަދަނަށް އަތްލައިގެން ހަމަޖެހުން ދިނުން
+- ފޮޓޯ ބެލުން ނުވަތަ އާއިލާގެ ގޭގެ ވާހަކަ ދެއްކުން
+- ހިނގާލުމަކަށް، ބުއިމަކަށް ނުވަތަ ކާތަކެއްޗަށް ހުށަހެޅުން
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+ދެކޮޅުހަދައި ވާހަކަ ދެއްކުމަށް ނުވަތަ ނުދެވޭނެ ސަބަބު ތަފްސީލުކޮށްދިނުމަށް މަސައްކަތް ނުކުރައްވާ. އެކަމުން ގިނައިރު ފައިދާ އެއް ނުކުރާ، އަދި ދެރަވުން އިތުރުވެދާނެއެވެ.
 
-## How long should a visit be?
+## ޒިޔާރަތެއް ކިތަންމެ ދިގު ވަން ވަނީ؟
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+ކުރު، އާންމުކޮށް ކުރާ ޒިޔާރަތްތައް ގިނައިރު ރަނގަޅަށް ދެއްކެއެވެ. Family Caregiver Alliance ބަޔާންކޮށްފައިވާ ގޮތުގައި، އެމީހާ ފަސް މިނެޓެއް ތިބީތޯ ނުވަތަ ފަސް ގަޑިއިރެއް ތިބީތޯ ގިނައިރު ހަނދާން ނުހުރެ، އަދި ހަފްތާއަކު ތިން ކުރު ޒިޔާރަތެއް އެއް ދިގު ޒިޔާރަތަށް ވުރެ ރަނގަޅު ވެދާނެ ކަމަށް ހުށަހެޅުވައެވެ. Dementia Australia ބުނަނީ ޒިޔާރަތް ކުރަންވީ އަދަދަކަށް ނުވަތަ ދިގުމިނަކަށް ކަނޑައެޅިފައިވާ ރަނގަޅު މިންވަރެއް ނެތް ކަމަށެވެ.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+ބެލެހެއްޓުމުގެ ތަނަކަށް ބަދަލުވެގެން ދިޔަ ފުރަތަމަ ހަފްތާތަކުގައި، Family Caregiver Alliance ހުށަހެޅުވަނީ ގިނައިރު ޒިޔާރަތްކޮށް، ދެން މަޑުމަޑުން އާންމު ގޮތަކަށް ހަމަޖެހުމަށެވެ. މުވައްޒަފުން ފެންނަ ކަންތައް އަހާލައިބަލާށެވެ.
 
-## How do I leave without upsetting them?
+## އެމީހާ ދެރަނުވާ ގޮތަށް ދޫކޮށްލާނީ ކިހިނެއް؟
 
-Leaving can be the hardest part. Dementia Australia suggests:
+ދޫކޮށްލުމަކީ އެންމެ އުނދަގޫ ބައެއް ކަމަށް ވެދާނެއެވެ. Dementia Australia ހުށަހެޅުވަނީ:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **އައުމުން ކިތަންމެ ވަގުތެއް ތިބެނޭނެ ކަން ބުނާށެވެ.** ”އަހަރެން އެއް ގަޑިއިރެއް ތިބެނަން، ދެން ބާޒާރަށް ދާނަން.“
+- **ކަމެއް ނިންމުން ގުޅައިގެން ދޫކޮށްލާށެވެ.** ”މި ލަވަ ނިމުމުން އަހަރެން ދާނަން.“
+- **ކެއުމުގެ ވަގުތަކާ ނުވަތަ ހަރަކާތެއްގެ ވަގުތާ ގުޅުވާލާށެވެ،** ނުވަތަ އެހެން ކަމަކަށް އެމީހާ ހަމަޖައްސަވައިދެން މުވައްޒަފުންނާ ވާހަކަ ދައްކާށެވެ.
+- **ދަންނަވާ ވާހަކަ ކުރުކޮށް، ކޮންމެ ފަހަރަކު އެއްގޮތަކަށް ބުނާށެވެ.** ހުއްޓި ދޫކޮށްލުން، މާފު އެދުން، ނުވަތަ ”އަދި ކުޑަ ވަގުތެއް“ ހުރުމުން ކުރިއަށް އަންނަ ފަހަރުތަކުގެ ދަންނަވާ ވާހަކަ އުނދަގޫ ކުރެވިދާނެއެވެ.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+ދޫކޮށްލުމަށް ފަހު ހިތާމަ އިހުސާސް ކުރުމަކީ އާދައިގެ ކަމެކެވެ. ތިޔަބޭފުޅާއަށް އަރާމު ހޯދަވާށެވެ. އެމީހާ ދެރަވެއްޖެ ނަމަ، މުވައްޒަފުންނަށް އެމީހާ އަވަހަށް ހަމަޖައްސަވައިދެވޭނެއެވެ.
 
-## Visiting someone with dementia in the hospital
+## ހޮސްޕިޓަލުގައި ޑިމެންޝިއާވާ މީހަކަށް ޒިޔާރަތްކުރުން
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+ހޮސްޕިޓަލަކީ އަޑުގަދަ، އަދާދަ ނުވާ، އަދި ތަޢާރަފު ނެތް މީހުންނުން ފުރި ތަނެކެވެ، އެހެންކަމުން ޑިމެންޝިއާއާއެކު ދިރިއުޅޭ މީހަކަށް މިއީ ވަރަށް އުނދަގޫ ކަމަކަށް ވެދާނެއެވެ. NIA ގެ [Alzheimer’s އާއެކު ދިރިއުޅޭ މީހަކު ހޮސްޕިޓަލަށް ގެންދިއުމާ ބެހޭ ލަފާ](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) އިން މިކަންތައް ހުށަހެޅުވައެވެ:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **ވާނެ ވަރަކަށް އެމީހާއާ އެކު މީހަކު ހުރުމަށް ހަމަޖައްސަވާށެވެ:** އާއިލާގެ މީހަކު، އިތުބާރުކުރާ ރަހުމަތްތެރިއަކު ނުވަތަ ބަލަހައްޓަން ގެންނަ މީހަކު.
+- **އެމީހާއާ ބެހޭ ޒާތީ މައުލޫމާތު ސަފްޙާއެއް މުވައްޒަފުންނަށް ދީށެވެ** — ދުވަހުން ދުވަހަށް ކުރާ ކަންތައް، ކިޔަން ކަމަށްވާ ނަން، ކަމަށްވާ އަދި ނުކަމަށްވާ ކަންތައް، ދެރަވެދާނެ ކަންތައް، އަދި ވާހަކަނުދައްކައި ވޭނުން ދައްކާ ގޮތްތައް އެކުލެވިގެން. ކޮޕީތައް ކޮޓަރީގައާއި ނާރުސުންގެ ސްޓޭޝަނުގައި ބަހައްޓާށެވެ.
+- **ކާން ބުއިމާއި ބޯން ބުއިމުގައި އެހީތެރިވާށެވެ.** ހޮސްޕިޓަލުގައި ތިބޭ ދުވަސްވަރު އިސް މީހުންނަށް ފުދޭ ގިނާ ނުލިބެދާނެއެވެ. ކޮންޓެއިނަރުތައް ހުޅުވައިދީ، ކެއުމުގައި އެހީތެރިވެ، އެކުވެ ކައި، އަދި ބޯން ހުށަހެޅާށެވެ.
+- **ހަމަޖެހުން ދޭ އެއްޗެހި ގެންދާށެވެ** — މިސާލަކަށް ފޮޓޯތައް ނުވަތަ ރޫޙާނީ އަގު ހުރި އެއްޗެހި.
+- **އަޑު މަދުކުރާށެވެ.** ޓީވީ ނިއްވާލައި، ފޯނާއި އިންޓަކޮމް އަޑު މަދުކުރާށެވެ.
+- **ހަމަޖެހޭ އާދަތައް މަސައްކަތް ކުރާށެވެ،** މިސާލަކަށް މަޑުމައިތިރި ލަވަ، ކިޔައިދިނުން، ދުއާ ކުރުން، ލަވަ ކިޔުން ނުވަތަ ކުރީގެ ފޮޓޯތައް ބަލާލުން.
+- **ރަނގަޅު ހަމަ ވަރަކަށް ހަރަކާތްތެރިވުމަށް ހިތްވަރު ދީށެވެ** — މުވައްޒަފުންގެ ހުއްދައާއެކު.
+- **އެމީހާ އަވަހަށް ބޮޑަށް ނުރަނގަޅު ނުވަތަ އެހެން ގޮތަކަށް ފެންނަ ނަމަ، އެކަން ވަގުތުން ޑޮކްޓަރަށް ދަންނަވާށެވެ.** NIA ތަފްސީލު ކުރަނީ ޑެލީރިއަމް އޭ ކިޔުން އެކުލެވޭ އަވަސް ބޮޑު ވިސްނުން ގެއްލުން އިންފެކްޝަން، ހުން، ފެން މަދުވުން ނުވަތަ ބޭސްގެ އަސަރު ފަދަ މައްސަލަތަކުން އުފެދިދާނެ ކަމަށާއި، އެކަން ބަލަން ޞިއްޙީ ފަރުވާ ބޭނުންވާ ކަމަށެވެ.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+އަދާދަވެފައިވާ މޫނެއްގެ އެކުވެރިކަމާއި ކަމަށްވާ ލަވައެއްގެ އެކުވެރިކަމާއެކު ކުރު، ހަމަޖެހިފައިވާ ޒިޔާރަތެއް ހޮސްޕިޓަލުގެ ދުވަހެއްގެ އެންމެ ހަމަޖެހޭ ބައެއް ކަމަށް ވެދާނެއެވެ.
 
-## Bringing children on a visit
+## ކުދިންނާ އެކު ޒިޔާރަތްކުރުން
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+ކުދިންނަށް ވަރަށް ގިނަ އޯގާ ގެނެސްދެވޭނެއެވެ. ދިޔުމުގެ ކުރިން ފަސޭހަ، ތެދު ބަސްތަކުން ތައްޔާރުކޮށް، ޒިޔާރަތް ކުރުކޮށް، އަދި ކުރާނެ ކަމެއް ދީށެވެ — މިސާލަކަށް ކުރެހުނެއް ދައްކާލުން ނުވަތަ ފޮޓޯއެއް ހަވާލުކުރުން. NIA ހުށަހެޅުވަނީ ކުދިންނާއި Alzheimer’s އާއެކު ދިރިއުޅޭ މީހުންނަށް ފޮޓޯ އެލްބަމެއް ބެލުން ނުވަތަ ލަވަ އަޑުއެހުން ފަދަ ފަސޭހަ ކަންތަކެއް އެކުވެ ކުރުމުން އަރާމު ލިބިދާނެ ކަމަށެވެ. Dementia Australia ހުށަހެޅުވަނީ ކުޑި ކުދިން މަޝްޣޫލުކޮށް ބަހައްޓަން ކާތަކެއްޗެއް ނުވަތަ ހަމަހިމޭން ކުރެވޭ އެއްޗެހި ހިމެނޭ ކުޑަ ބެގެއް ތައްޔާރުކުރުމަށެވެ.
 
-## Take care of yourself too
+## ތިޔަބޭފުޅާގެ ނަފްސު ވެސް ބަލަހައްޓަވާ
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+ޒިޔާރަތްކުރުން ހަރަދާއި ޖަޒުބާތީ ކަމަކަށް ވެދާނެ، ޚާއްޞަކޮށް އެމީހާ ގިނައަށް ބަދަލުވެފައި ހުރި ނަމަ. ބޭނުންވާ ނަމަ މަދުކޮށް ޒިޔާރަތްކުރުން، އެހީތެރިވުމަށް ރަހުމަތްތެރިއަކާ އެކު ދިއުން، ނުވަތަ އުނދަގޫ ދުވަހެއްގައި ކުރީން ދޫކޮށްލުން ކަމެއް ނެތެވެ. ތިޔަބޭފުޅާގެ ނަފްސު ބަލަހައްޓައިގަތުމަށް ހުށަހެޅުންތަކަށް އަޅުގަނޑުމެންގެ [ބަލަހައްޓާ މީހުންގެ ނަފްސު ބަލަހައްޓުން](/caregiving/caregiver-self-care/) ބައްލަވާށެވެ. ދުރު ތަނެއްގައި ދިރިއުޅޭ ނަމަ، އަޅުގަނޑުމެންގެ [ފޯނު އަދި ވީޑިއޯ ކޯލް](/activities/phone-and-video-calls/) ލަފާ ބައްލަވާށެވެ.

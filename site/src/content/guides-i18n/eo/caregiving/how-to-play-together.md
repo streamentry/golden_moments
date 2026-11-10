@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Kiel ludi kun iu vivanta kun demenco"
+description: "Praktika gvidilo por ludi kun iu vivanta kun demenco: prepari, tempigi, ne korekti, faciligi kaj scii kiam ĉesi."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Traktu ludon kiel tempon kune, ne kiel provon. Elektu trankvilan momenton de
+  la tago, sidu apude en silenta ĉambro kaj proponu nur unu simplan ludon.
+  Lasu la personon, pri kiu vi zorgas, decidi la ritmon. Neniam korektu
+  senharmajn erarojn. Faciligu la ludon jam ĉe la unua signo de streĉo kaj uzu
+  bildojn kiel bazo por konversacio. Ĉesu dum ĝi ankoraŭ sentas agrabla. Fini
+  frue, aŭ simple rigardi kune, estas bona rezulto.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "La celo estas ĝuo kaj kuneco, ne fini la ludon aŭ respondi ĝuste."
+  - "Preparu antaŭe: silenta ĉambro, bona lumo, okulvitroj kaj aŭdhelpiloj surmetitaj, televidilo malŝaltita, unu ludo preta."
+  - "Ne korektu senharmajn erarojn. Diru: \"Ni provu tiel\", aŭ simple daŭrigu."
+  - "Faciligu la ludon antaŭ ol streĉo ekkreskas: malpli da bildoj, malpli da elektoj, lasu la bildojn videblaj."
+  - "Uzu bildojn kiel deirpunkton por rakontoj per \"Rakontu al mi pri...\" anstataŭ \"Ĉu vi memoras...?\""
+  - "Ĉesu ĉe la unuaj signoj de laceco aŭ maltrankvilo. Fini frue estas sukceso, ne malsukceso."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Kiom longe ni lududu?"
+    a: "Ne ekzistas ĝusta daŭro. Por multaj homoj, kelkaj minutoj sufiĉas, kaj iuj tagoj nur unu raŭndo. Rigardu la personon, pri kiu vi zorgas, ne la horloĝon, kaj ĉesu dum ŝi aŭ li ankoraŭ ŝajnas trankvila."
+  - q: "Ĉu mi lasu lin aŭ ŝi gajni, aŭ simuli ne rimarki erarojn?"
+    a: "En kunhaviga ludo sen premado ne ekzistas gajnanto nek malgajnanto. Se eraro ne ĝenas la personon, lasu ĝin. Se ĝi ŝajnas ĝeni lin aŭ ŝin, helpu silente aŭ faciligu la ludon sen atentigi pri ĝi."
+  - q: "Kio se li aŭ ŝi preferas nur rigardi min ludi?"
+    a: "Tio estas tute bone. La National Institute on Aging sugestas lasi la personon simple rigardi, se tio ŝajnas pli agrabla por li aŭ ŝi. Parolu pri tio, kion vi vidas, kaj inviton lin aŭ ŝin montri aŭ elekti kiam ajn li aŭ ŝi volas."
+  - q: "Ĉu tiuj ludoj estas por testi memoron?"
+    a: "Ne. Niaj ludoj estas simplaj kunagadoj por ĝuo kaj konversacio. Ili ne estas memorprovo, ne mezuras ion ajn, kaj ne estas kuracado por demenco."
+  - q: "Per kiu ludo ni komencu?"
+    a: "Komencu per la plej simpla ludo, kiu taŭgas por la persono. Bildparoj kun kvar kaheloj kaj bildoj lasitaj videblaj, aŭ Trovu la saman kun du elektoj, estas bonaj deirpunktoj. Konversaciaj kartoj taŭgas bone se la persono pli volas paroli ol frapeti la ekranon."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Bona ludo kun iu vivanta kun demenco ne aspektas kiel konkurso. Ĝi aspektas kiel du homoj sidantaj proksime, montrantaj bildojn per fingro, ridantaj pri diraĵo kaj parolantaj pri kio ajn venas en la kapon. La ludo nur estas kialo por pasi tempon kune.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Tiu ĉi gvidilo klarigas kiel prepari, kiel tempigi ludon, kion diri kiam io iras "malĝuste", kiel faciligi aŭ iom malfaciligi ajnan ludon, kiel fari el ĝi konversacion kaj kiel scii kiam ĉesi. Ĝi taŭgas por niaj [ludoj](/games/) kaj por kartoj, enigmoj aŭ tabulludoj, kiujn vi jam havas.
 
-## What is the best way to play a game with someone who has dementia?
+## Kiel estas plej bone ludi kun iu vivanta kun demenco?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Koncentru vin al ĝuo, ne al atingoj. Tio estas la ĉefa konsilo el la [gvidilo de la Alzheimer's Association pri agadoj](https://www.alz.org/help-support/caregiving/daily-care/activities): baziĝu sur kapabloj, kiujn la persono ankoraŭ havas, helpu lin aŭ ŝin ekigi, faru la malfacilajn partojn mem kaj ne kritiku nek korektu senharmajn agadojn.
 
-In practice that means:
+En la praktiko tio signifas:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Sidu apude, ne kontraŭe.** Apudside vi ambaŭ povas vidi la ekranon aŭ tablon, kaj helpo sentiĝas kiel kunlaboro, ne kiel inspektado.
+- **Proponu nur unu ludon samtempe.** Elekto inter multaj opcioj povas sentiĝi kiel provo antaŭ ol la ludo eĉ komenciĝas.
+- **Sekvu lian aŭ ŝian volon.** Se la persono volas frapeti bildojn en sia propra ordo, paroli pri unu bildo dum dek minutoj, aŭ ĉesi post du vicoj, tio estas la ludo por hodiaŭ.
+- **Kalkulu la bonajn momentojn, ne la finitaj raŭndoj.** Rideto, rakonto aŭ trankvila duonhoro estas la rezulto, kiun vi serĉas.
 
-## How do I set up before we start?
+## Kiel mi preparu antaŭ ol ni komenci?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Kelkaj minutoj da preparado malhelpas la plej multajn frustraciojn, kiujn oni ofte kulpigas la ludon mem.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Elektu la plej bonan momenton de la tago.** La [gvidilo de la National Institute on Aging (NIA) pri adapti agadojn](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sugestas fari agadojn tiam, kiam la persono sentas sin plej bone. Por multaj homoj tio estas antaŭtagmeze. La malfrua posttagmezo ofte estas pli malfacila; vidu [trankvilaj agadoj por la malfrua posttagmezo](/caregiving/late-day-restlessness/).
+2. **Silentigu la ĉambron.** Malŝaltu la televidilon kaj radion kaj, se eble, fermu la pordon. La [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) rekomendas limigi bruon kaj distraĵojn antaŭ ol vi provas paroli.
+3. **Kontrolu la komforton unue.** Certiĝu pri trinkaĵo proksime, vizito al la necesejo antaŭe, komforta seĝo, kaj ke okulvitroj kaj aŭdhelpiloj estas surmetitaj.
+4. **Bone prilumu la spacon.** Brila, egala lumo sen brilo sur la ekrano faciligas vidi la bildojn.
+5. **Preparu la ludon antaŭ ol sidiĝi.** Malfermu ĝin, elektu la agordojn kaj agordu la laŭtecon mem. Poste turnu la ekranon al la persono. Por konsiloj pri tablojdo, vidu [kiel agordi tablojdon aŭ telefonon](/caregiving/tablets-and-screens/).
+6. **Subtenu la aparaton.** Uzu subtenilon aŭ kesteton, kiu tenas la tablojdon vertikale, tiel ke neniu devas ĝin teni kaj estas pli facile montri per fingro.
 
-## How do I invite them without pressure?
+## Kiel mi inviton sen premado?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Faru la inviton malpeze kaj lasu facile ne akcepti. Jen kelkaj frazoj, kiuj ofte funkcias bone:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Mi trovis kelkajn bildojn pri ĝardeno. Ĉu vi volas rigardi ilin kun mi?"
+- "Ĉu vi povus helpi min kun tiu ĉi enigmo? Mi ne certas."
+- "Ĉu vi hodiaŭ preferas la florojn aŭ la birdojn?" (elekto inter du estas pli facila ol malferma demando)
+- "Mi faras karton por via fratino. Kiun koloron mi uzu por tio?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+La Alzheimer's Association sugestas klarigi la celon de agado, ekzemple fari karton por amiko, ĉar tio donas al ĝi signifon. Peti helpon ankaŭ funkcias bone, ĉar tio lasas la personon senti sin utila.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Se la persono diras ne, akceptu tion. Provu denove poste aŭ proponu ion alian. Nia gvidilo pri [kio fari kiam oni diras ne](/caregiving/when-they-say-no/) traktas tion pli detale.
 
-## How long should a game last, and how fast should we go?
+## Kiom longe daŭru ludo kaj kiom rapide ni iru?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Lasu la personon fiksi la ritmon kaj kalkulu kun mallongaj ludaj momentoj. Ne ekzistas scienca ideala daŭro por kunhaviga ludo. Du ĝis kvin trankvilaj minutoj povas esti kompleta agado.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Atendu pli longe ol sentas natura.** La NIA konsilas lasi pli da tempo por respondi kaj provi ne interrompi. Kalkulu ĝis dek en via kapo antaŭ ol helpi.
+- **Unu paŝo samtempe.** Donu nur unu mallongan instrukcion ("Frapetu bildon"), poste atendu. Montru anstataŭ klarigi: montru per fingro kien frapeti.
+- **Paŭzu libere.** Se la persono haltas por paroli pri bildo, la ludo povas atendi. Ne necesas rapidigi.
+- **Lasu lin aŭ ŝi rigardi.** La NIA rimarkigas, ke iuj homoj preferas nur rigardi, kaj tio estas valida elekto.
 
-## Should I correct wrong answers?
+## Ĉu mi korektu malĝustajn respondojn?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ne. Se vi ripete korektas iun, eĉ kun bonaj intencoj, tio povas lasi lin aŭ ŝin senti, ke ŝi aŭ li malsukcesas. La Alzheimer's Association konsilas ne kritiki nek korekti senharmajn agadojn. En ludo, preskaŭ ĉiu eraro estas senharmo.
 
-| Instead of | Try |
+| Anstataŭ | Provu tion |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Ne, tio estas malĝusta." | "\"Ni provu tiel.\"" (ekzemplo donita de la NIA) |
+| "Tio ne kongruas. Rigardu denove." | Diru nenion kaj faru la sekvan vicon, aŭ "\"Ho, ambaŭ estas ruĝaj.\"" |
+| "Ĉu vi memoras kiu tio estas?" | "\"Rakontu al mi pri tiu bildo.\"" |
+| "Vi jam faris tion." | "\"Tio estas bona. Ni povas fari ĝin denove.\"" |
+| "Venu, vi ja scias tion." | "\"Ĉu mi montru la finon?\"" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Se eraro klare frustriĝas lin aŭ ŝin, helpu silente. Montru al la ĝusta bildo, faru vicon mem, aŭ faciligu la ludon por la sekva raŭndo. Se diraĵo ricevas amuzan malĝustan finon, ridu kune. Eble lia aŭ ŝia fino estas eĉ pli bona.
 
-## How do I make a game easier or harder?
+## Kiel mi faciligu aŭ iom malfaciligu ludon?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Adapti la ludon al la persono por tiu tago, ne al etikedo pri stadio. La sama persono eble bezonas pli simplan version vespere ol matene. La unua konsilo de la NIA estas kongrui la agadon kun tio, kion la persono povas fari, kaj certigi, ke ŝi aŭ li sentas sin sukcesa.
 
-| Game | Make it easier | Make it a little harder |
+| Ludo | Faciligu ĝin | Iom malfaciligu ĝin |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Bildparoj](/games/picture-pairs/) | Komencu kun 4 kaheloj kaj lasu la bildojn videblaj | Pli da kaheloj, aŭ kaŝu la bildojn se tio sentas agrabla |
+| [Trovu la saman](/games/find-the-same/) | 2 elektoj | Ĝis 4 elektoj |
+| [Klasifiku kune](/games/sort-together/) | Vi tenu la bildon, li aŭ ŝi montru al la korbo | Li aŭ ŝi frapetu kaj la bildon kaj la korbon mem |
+| [Bildenigmo](/games/picture-puzzle/) | 4 pecoj, parolu pri la tuta bildo unue | 9 pecoj |
+| [Finu la diraĵon](/games/finish-the-saying/) | Montru la finon, poste diru ĝin kune | Lasu lin aŭ ŝin diri la finon antaŭ ol frapeti |
+| [Vortserĉo](/games/word-search/) | Presu ĝin, serĉu unu vorton kune, montru al ĝia unua litero | Lasu lin aŭ ŝi elekti la sekvan serĉotan vorton |
+| [Kolorigo](/games/coloring/) | Vi elektu du kolorojn, li aŭ ŝi elektu inter ili | Li aŭ ŝi elektu ĉiujn kolorojn |
+| [Konversaciaj kartoj](/games/conversation-cards/) | Nur rigardu la bildon kune | Uzu la malfermajn demandojn sur la karto |
+| [Fotoparoj](/games/photo-pairs/) | Kelkaj tre amataj familiaj fotoj | Aldonu pliajn fotojn |
+| [Bildbingo](/games/picture-bingo/) | Helputo sidas apud ĉiu ludanto | Ludantoj mem markas siajn kartojn |
+| [Trankvila spirado](/games/calm-breathing/) | Nur sidu kaj rigardu ĝin kune | Spiru kune malrapide |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Signoj, ke la ludo estas tro malfacila: longaj paŭzoj, kiuj aspektas zorgaj anstataŭ pripensaj, ripetita "mi ne povas", forpuŝi la aparaton, aŭ eraroj, kiuj ĝenas lin aŭ ŝin. Signoj, ke eble ĝi estas tro facila: enuo, aŭ diri, ke tio sentas infana. Se tio okazas, respektu tion kaj ŝanĝu al io, kio sentas plenkreska, kiel vortserĉo, enigmo el vera familia foto, aŭ paroli pri bildo de lia aŭ ŝia antaŭa laboro.
 
-## How do I turn a game into a conversation?
+## Kiel mi faru el ludo konversacion?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Uzu ĉiun bildon kiel inviton paroli, kaj traktu kion ajn li aŭ ŝi diras kiel bonan respondon. Por multaj familioj, tio estas la plej agrabla parto de ludi.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Faru malfermajn demandojn sen malĝusta respondo.** "\"Kion vi rimarkas?\" \"Kiu el ili plaĉas al vi plej multe?\" \"Rakontu al mi pri kuirejo kiel ĉi tiu.\""
+- **Komencu vi mem.** "\"Mia avino havis hundon similan al ĉi tiu.\"" Via rakonto faciligas al li aŭ ŝi dividi sian.
+- **Sekvu la digresion.** Se bildo de aŭto kondukas al rakonto pri vojaĝo, la rakonto estas la agado. Lasu la ludon paŭzi.
+- **Ne korektu faktojn.** En rememorado, agrabla konversacio gravas pli ol precizaj detaloj. Se la rakonto ŝanĝiĝas de fojo al fojo, ĝuu la novan version.
+- **Uzu la enkonstruajn demandojn.** [Finu la diraĵon](/games/finish-the-saying/) sekvas ĉiun diraĵon per konversacia demando, kaj [Konversaciaj kartoj](/games/conversation-cards/) estas ĝuste por tio. [Fotoparoj](/games/photo-pairs/) uzas viajn proprajnfamiliajn fotojn, kio ofte vekas la plej riĉajn rakontojn.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Pliaj ideoj troviĝas en niaj gvidiloj pri [rememoragadoj](/activities/reminiscence/) kaj [konsiloj por komunikado](/caregiving/communication-tips/).
 
-## When should we stop?
+## Kiam ni devas ĉesi?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Ĉesu ĉe la unuaj signoj de laceco aŭ maltrankvilo, prefere iom antaŭe. La Alzheimer's Association konsilas ĉesi aŭ ŝanĝi agadon kiam atento malpliiĝas aŭ frustriĝo kreskas.
 
-Watch for:
+Atentu jenon:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- boceado, senforta sidado aŭ okuloj forirantaj de la ekrano;
+- moviĝemo, leviĝo aŭ peto foriri;
+- suspiro, mallongaj respondoj aŭ "Mi ne sukcesas pri tio";
+- frapeti senorde aŭ forpuŝi la aparaton;
+- larmoj, iritiĝo aŭ subita ŝanĝo en humoro.
 
-How to stop well:
+Kiel bone fini:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Finu per io facila.** Unu lasta kongruo, kiun li aŭ ŝi povas fari, aŭ simple admiri lastan bildon.
+- **Faru ĝin pri vi.** "\"Mi bezonus taseton da teo. Ĉu ni ĉesu ĉi tie?\"" Tio evitas ajnan indikon, ke li aŭ ŝi malbone agis.
+- **Transiru al io korpa aŭ trankviliganta.** Mallonga promenejo, manĝeto, faldado de lavtukoj aŭ muziko.
+- **Diru ion varman.** "\"Mi ĝojis fari tion kun vi.\"" Ne laŭdu pro "ĝusta respondo", nur pro la tempo kune.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Fini frue, ŝanĝi planojn aŭ rezigni pri la ludo kaj simple sidi kune estas ĉiuj bonaj rezultoj.
 
-## Can we play in a group or over a video call?
+## Ĉu ni povas ludi grupe aŭ per vidvoko?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Jes, kun iom da ekstra preparado. En grupo, limigu vin al kelkaj homoj, sidigu helpantojn apud tiuj, kiuj bezonas ilin, kaj elektu ludon kun klara komuna fokuso. [Bildbingo](/games/picture-bingo/) havas preseblajn kartojn kaj ekranan vokanton por grupoj. Vidu [agadoj por grupoj en prizorgejoj](/activities/care-home-groups/) por pli da informoj.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Per vidvoko, la persono ĉe la voko povas priskribi bildon dum iu en la ĉambro montras kaj frapetas ĝin. Mallongigu la vokojn kaj faru ilin konataj. Nia gvidilo pri [telefonaj kaj vidvokoj](/activities/phone-and-video-calls/) donas pliajn konsilojn.
 
-## What if a game just isn't working?
+## Kio se ludo simple ne funkcias?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Iuj tagoj nenio sukcesas, kaj tio ne estas via nek lia nek ŝia kulpo. Demetu la ludon kaj provu alian horon de la tago, alian ludon aŭ entute nenian ludon. Multaj bonaj agadoj tute ne rilatas al ekranoj: muziko, faldado de lavtukoj, trarigardo de fotoalbumo aŭ mallonga promenejo. Foliumu niajn [agadoideojn](/activities/ideas/) por pli da elektoj.

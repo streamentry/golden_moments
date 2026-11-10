@@ -1,32 +1,34 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Bisalu ya kilanga mpi ya nganda"
+seoTitle: "Bisalu ya kilanga mpi ya nganda"
+description: "Bangindu ya bisalu ya kilanga mpi ya nganda sambu na bantu yina ke zingaka na maladi ya kuvila mambu, ti mabanza ya kubumba mpi ya kukeba."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Kisalu ya kilanga mpi ntangu ya kukatuka na nganda lenda vanda kisalu ya
+  pima mpi ya kuyikana sambu na muntu yina ke zingaka na maladi ya kuvila
+  mambu. Meka kutekila banti masa, kutula banti ya ndambu na mabungu,
+  kukatula bafuluwa ya kukauka, to kutambula mwa fioti na lupangu ya kukangama.
+  Sadila bintuntu ya nda to mesa sambu muntu mosi ve kufukama, buya bisadilu ya
+  meno, banti ya ba nsende to ya mbi, basika na kilumbu ya ngolo, mpi vanda
+  ntangu yonso ti muntu yina.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Bisalu ya pete ya kilanga bonso kutekila masa, kukuna nkuna, kununga bansudi, mpi kukatula bafuluwa lenda salama na kutelama to na kuvanda."
+  - "Bintuntu ya nda, mabungu, mpi mesa ya kufukama ke tula kilanga na nda ya luketo mpi ke sadisa na kukitisa kigonsa ya kubwa."
+  - "Buya bisadilu ya meno, banti ya ba nsende to yina ke yangisaka, mpi mambu yonso ya mbi. Tala kana muntu lenda kanisa ntoto bonso madia."
+  - "Tiya ya ngolo lenda vanda kigonsa sambu na bambuta. Basika na ntangu ya madidi, nata masa mpi kivudi, mpi kota na nzo kana nge mona kidimbu ya mpasi."
+  - "Bantu mingi yina ke zingaka na maladi ya kuvila mambu ke tambulaka-tambulaka mpi ke zimbalaka nzila. Vanda ti muntu yina na nganda mpi vanda ti foto ya mpa mpi mukanda ya kuzabisa muntu."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Inki bisalu ya kilanga muntu yina ke zingaka na maladi ya kuvila mambu lenda sala?"
+    a: "Kutekila banti masa, kukuna nkuna na mabungu ya fioti, kununga mpi kusimba bansudi, kukatula bafuluwa ya kukauka, kukatula bandunda, kuyidika bafuluwa ya kukatuka, mpi kukomba nzila kele bangindu ya mbote. Na kati ya nzo, bungu ya bansudi na nela ya fenetre to mesa ya kufukama ti ntoto lenda lunga. Pona kisalu na kutadila mambu yina muntu vandaka kuzola ntama mpi yina yandi lenda sala mbote ntangu yayi."
+  - q: "Inki mutindu ya kukeba muntu yina ke zingaka na maladi ya kuvila mambu na tiya ya ngolo?"
+    a: "Yidika ntangu ya kubasika na suka-suka ya nkielo to na mpimpa ntangu madidi kele mingi, vanda ntangu ya nkufi, mpi pesa masa mbala mingi. Pona kivudi, mpu ya nene, bilele ya pete mpi ya nene, mpi mafuta ya kukeba nkanda na mwini. Bambuta kele na kigonsa ya mingi ya kubela sambu na tiya, mpi kuvila mambu, kizunguzungu to kiselwa lenda vanda bidimbu ya lukebisu. Kota na nzo mpi luta madidi nswalu kana nge mona yo."
+  - q: "Inki mutindu ya kubasika na nganda kana yandi ke tambulaka-tambulaka mpi ke zimbalaka nzila?"
+    a: "Vanda ti muntu yina ntangu yonso, sadila lupangu ya kukangama ti kielo ya kukanga, mpi zikisa nde yandi kele ti nsinga ya dizabisa na diboko to mukanda ya kuzabisa muntu. Vanda ti foto ya mpa. Kana muntu me zimbala, Alzheimer's Association ke pesaka ndongisila ya kubinga 112 kana bo me mona yandi ve na nima ya minute 15."
+  - q: "Inki beto lenda sala kana beto kele ve ti kilanga?"
+    a: "Mabungu ya fioti na veranda, bungu na nela ya fenetre, to mesa ya fioti ya bansudi na mesa ya kikuku me lunga. Nge lenda mpi kwenda na parke, na kilanga ya bantu yonso, to na kilanga ya kimvuka. Kuvanda na nganda mpi kuwa bansusu ya bandeke kele mpi kisalu ya nganda."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +53,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Sambu na bantu mingi, kilanga kele kisika ya kuyikana kibeni. Kutimuna, kutekila masa, mpi kukatula bafuluwa ke sadila mayele yina bo longukaka ntama, mpi kubasika na nganda ke nata mupepe ya sika, ntemo ya mwini, mpi miziki ya bandeke. National Institute on Aging ke tangaka kukeba banti, kukuna bafuluwa mpi bandunda, mpi [kutubila mutindu banti ke kumaka](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) na kati ya bisalu yina bantu yina ke zingaka na maladi ya Alzheimer lenda zola. Lutiti yayi ke monisa mambu ya kumeka, mutindu ya kusala kilanga na pete, mpi mutindu ya kuvanda na bukebuka na tiya, mwini, mpi ntangu ya kutambula-tambula.
 
-## What outdoor and gardening activities work well?
+## Inki bisalu ya nganda mpi ya kilanga ke salama mbote?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Bisalu ya mbote kele ya pete, ya kuyikana, mpi lenda salama na kutelama to na kuvanda. Pona na kutadila mambu yina muntu vandaka kuzola kusala ntama.
 
-### In the garden
+### Na kilanga
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Kutekila masa.** Mbungu ya fioti mpi ya pete ya masa to tuyau ya pete, mpi mabungu ya fioti pene-pene. Kutekila masa kele ti luyantiku mpi nsuka ya pwelele, mpi mpasi ve ya kusala yo mbi.
+2. **Kukuna nkuna na mabungu.** Alzheimer's Foundation of America ke pesaka ndongisila ya kukuna nkuna na mabungu ya fioti mpi [kutala mutindu yo ke kumaka](https://alzfdn.org/dementia-activity-gardening/). Nkuna ya nene bonso madesu, tournesol, to petit pois kele pete sambu na kusimba.
+3. **Kukatula bafuluwa ya kukauka.** Kukatula bafuluwa ya kukauka na maboko kele kisalu ya pima mpi ya kuvutukila. Pona banti yina kele ve ti ba nsende.
+4. **Kukatula bandunda to bansudi.** Ba tomate ya fioti, madesu, mpi bansudi kele pete na kukatula mpi ya mbote na kudia. Nata yo na nzo sambu na kudia ya midi.
+5. **Kununga mpi kusimba bansudi.** Romarin, menthe, mpi lavande kele ti nsudi ya ngolo mpi ya kitoko. Pusila lukaya na kati ya misapi mpi pesa na muntu.
+6. **Kukomba nzila to veranda.** Kikombo ya pete na zulu ya mbata mpi ya kukauka, kana muntu ke telamaka mbote.
+7. **Kufulusa kisika ya kudisa bandeke.** Na nima, vanda kumosi mpi tala banani ke kwisa.
 
-### Indoors, when going out is not possible
+### Na kati ya nzo, kana kubasika kele mpasi
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Bungu ya bansudi na nela ya fenetre** ya basilic, persil, to ciboulette.
+- **Kutula banti na mesa ya kufukama.** AFA ke pesaka ndongisila ya kusadila mabaku ya ndenge ya cantine sambu ntoto kuvanda na kisika mosi mpi kunata ntoto ti bakopo ya fioti.
+- **Kuyidika bafuluwa** yina bo me katula na kilanga to na magazini.
+- **Kuyumisa bafuluwa** ya bouquet mpi, na nima, kukangisa yo na bakarte. Tala [bisalu ya maboko](/activities/arts-and-crafts/) sambu na bangindu ya nkaka.
+- **Kusala basaki ya lavande to ya rose**, bangindu ya nkaka ya AFA yina ke nata nsudi ya kilanga na kati ya nzo.
 
-### Getting out and about
+### Kubasika mpi kutambula
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Kutambula mwa fioti** pene-pene ya nzo, na parke, to na kisika ya kuteka banti, na malembe malembe mpi ti kisika ya kuvanda.
+- **Kuvanda na nganda** na veranda to na kiti, kuwa bandeke, mpi kuwa mupepe. Yai kele kisalu ya kukuka yo mosi.
+- **Kutala kilanga ya bantu yonso** na ntangu ya pima ya kilumbu. NHS ke tubaka nde bisika ya nkaka kele ti bilanga ya bansudi, ya kusimba, mpi ya masa.
+- **Kupesa bandeke ya masa madia to kutala bandeke** pene-pene ya masa, na ntama ya bukebuka ti kingumba ya masa.
 
-## How do I make a garden easier to use?
+## Inki mutindu ya kusala kilanga na pete?
 
-Bring the garden up to the person, not the other way around.
+Nata kilanga pene-pene ya muntu, kansi ve kutinda muntu na kilanga.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Bintuntu ya nda to mabungu ya nda** pene-pene ya luketo ke sadisa sambu muntu kufukama ve to kunama ve.
+- **Mabungu na zulu ya mesa** ke lunga sambu na bantu yina ke sadilaka kiti ya binama to yina ke zolaka kuvanda.
+- **Banzila ya nene mpi ya mbata** kukonda matadi ya kukanguka to tuyau na kati ya nzila ke kitisa kigonsa ya kubwa.
+- **Bakiti ya maboko mpi ya kivudi** na nzila, sambu kupema kuvanda ntangu yonso dibaku.
+- **Bisadilu ya maboko ya nene mpi ya pete** yina kele pete na kusimba. Buya bakisi, mbele ya fioti, mpi kima yonso ya meno.
+- **Kisika ya kukangama ti lupangu mpi kielo ya kukanga** yina muntu lenda tala na kimpwanza ntangu nge kele pene-pene.
 
-## Which plants should I avoid?
+## Inki banti ya beto fwete buya?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Pona banti yina kele mbote na kusimba mpi, kana lenda salama, yina kele ve kigonsa kana muntu meka yo na munoko. AFA ke pesaka ndongisila ya kusadila banti yina ke yangisaka ve nkanda mingi, kutala kana muntu kele ti allergy, mpi kutala mbote-mbote bantu yina lenda kanisa ntoto bonso madia. Ndongisila ya NIA sambu na bukebuka na nzo ke tubaka mpi ya kukatula to kukanga banti ya mbi.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Buya ba rose ya ba nsende, cactus, mpi banti yina ke basikisa masa ya nkanda yina ke yangisaka.
+- Kana nge zaba ve banti mosi, yula na kisika ya lusadisu ya bima ya mbi to na kisika ya kuteka banti na ntwala ya kukuna yo.
+- Banti ya kuyikana lenda vutula mabanza ya mbote. AFA ke tangaka ba rose mpi cactus ya Noël bonso bambandu. Pona mitindu yina kele ve ti ba nsende.
+- Kanga nkawu ya banti, bima ya kufwa bibwadi, mpi bima ya kufwa matiti, mpi sadila yo ve na bisika yina muntu lenda kuma.
 
-## How do I stay safe in the heat and sun?
+## Inki mutindu ya kuvanda na bukebuka na tiya mpi mwini?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Yidika ntangu ya kubasika na kutadila mupepe. NIA ke tendula nde bambuta kele na kigonsa ya mingi ya [kubela sambu na tiya ya ngolo](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), sambu nitu ke yikanaka ve mbote ti nsoba ya tiya mpi bankisi ya nkaka ke sobaka mutindu nitu ke sadilaka tiya.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Basika na suka-suka ya nkielo to na mpimpa.** Buya kati ya kilumbu na bangonda ya tiya. Tala indice ya tiya, kansi ve tiya mpamba.
+- **Pesa masa mbala mingi.** Vanda ve nde muntu kutuba nde yandi kele ti kiuvu ya masa. Buya malafu ya ngolo to ya caféine na tiya.
+- **Lwata bilamba ya mbote.** Bilamba ya pete, ya mukubu ya pwelele, mpu ya nene, mpi maneti ya meso.
+- **Sadila mafuta ya kukeba nkanda na mwini.** NIA ke pesaka ndongisila ya broad-spectrum SPF 15 to kuluta, mpi kuvutukila kutula yo na kilumbu.
+- **Pona kivudi.** Tula mesa ya kisalu na nsi ya nti to ya kiuvu.
+- **Vanda ntangu ya nkufi.** Ntangu ya fioti na nganda lenda lunga, mingi-mingi na bilumbu ya tiya.
+- **Tala bidimbu ya lukebisu.** NIA ke tangaka mpasi ya ntu, kuvila mambu, kizunguzungu, to kiselwa bonso bidimbu ya kubela sambu na tiya. Muntu yina ke zingaka na maladi ya kuvila mambu lenda tuba ve nde yandi ke waka mpasi, yo yina tala luse mpi bikalulu na yandi. Kota na nzo, luta madidi ti masa mpi nsuki ya madidi, mpi sosa lusadisu ya munganga kana yandi ke toma ve nswalu. Coup de chaleur, ti bidimbu bonso kubwa, kuvila mambu, to nkanda ya kuyuma mpi ya tiya, kele kigonsa ya nswalu: binga 112.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Madidi ya ngolo kele mpi mfunu. Na nsungi ya madidi, vanda ntangu ya nkufi na nganda mpi zikisa nde maboko mpi makulu kele ti tiya mpi ya kukauka.
 
-## How do I handle wandering when we go outside?
+## Inki mutindu ya kusadila kana muntu ke tambulaka-tambulaka na nganda?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Vanda ti muntu yina ntangu yonso yandi kele na nganda. Alzheimer's Association ke tuba nde [bantu 6 na kati ya 10 yina ke zingaka na maladi ya kuvila mambu](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ke tambulaka-tambulaka mpi ke zimbalaka nzila ata mbala mosi, mpi mingi ke salaka yo mbala mingi. Yau lenda salama na kitapa yonso.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+[Bandongisila ya NIA sambu na kutambula-tambula mpi kuzimbala nzila](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) kele ti:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Zikisa nde muntu kele ti mukanda ya kuzabisa to nsinga ya munganga ti zina na yandi, adrese, mpi nimero na nge ya telefone, to sonika yo na bilele na yandi.
+- Vanda ti foto to video ya mpa ya muntu yina.
+- Zabisa banzengi-zulu nde muntu lenda tambula-tambula mpi kuzimbala nzila.
+- Kanga lupangu ti lupangu mpi kielo ya kukanga.
+- Bikala ve muntu yina me monisaka deja kikalulu yai yandi mosi.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association ke pesaka mpi ndongisila ya kusala bisika ya kati mpi ya nganda yina muntu lenda tala na bukebuka, mpi ya kuyidika bisalu na ntangu ya kilumbu yina muntu ke vandaka ve pima mingi. Kutambula na kilanga ya kukangama mpi ya bukebuka lenda vanda mbote sambu na [kukonda pima na nsuka ya kilumbu](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Kana muntu me zimbala, Alzheimer's Association ke pesaka ndongisila ya kusosa yandi nswalu pene-pene mpi kubinga 112 kana bo me mona yandi ve na nima ya minute 15. Zabisa bapolisi nde muntu kele na maladi ya kuvila mambu.
 
-## How do I adapt gardening as things change?
+## Inki mutindu ya kusoba kisalu ya kilanga ntangu mambu ke soba?
 
-| If this has become hard | Try this instead |
+| Kana diambu yayi me kuma mpasi | Meka diambu yayi na kisika na yo |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Kukuna ntoto ya mvimba | Kukuna nkuna mosi na bungu mosi |
+| Kukatula matiti ya mbi (kuswaswanisa yo ti banti) | Kutekila masa, to kukatula bafuluwa ya pwelele ya kukauka |
+| Kutambula na kilanga ya mvimba | Kuvanda na mesa ti bacu ya ntoto mpi banti mosi |
+| Kubasika na nganda | Bungu ya bansudi na mesa ya kikuku, to kuvanda pene-pene ya fenetre ya kukanguka |
+| Kusala kisalu mosi | Kuvanda kumosi na nganda, kuwa mpi kutala |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Bantu ya nkaka ke zolaka kutala nge ntangu nge ke sala. NIA ke tuba nde kubika muntu kutala mpamba kele mbote kana yandi ke zola yo.
 
-## When should we head inside?
+## Na ntangu inki beto fwete vutuka na nzo?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Kota na nzo ntangu muntu ke monana kulemba, tiya, madidi, kukonda pima, to kuyilama na kusuka. Minute kumi ya fioti ya mbote me luta ndambu ya kilumbu ya nda yina ke sukaka na mpasi. Kusuka na ntwala kele mbote.
 
-## Bring the garden indoors on screen
+## Nata kilanga na kati ya nzo na ekran
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Na bilumbu ya mvula, [Sort Together](/games/sort-together/) kele ti panier ya kilanga sambu na kuyidika bifwanisu, mpi [Conversation Cards](/games/conversation-cards/) kele ti bangyufula ya kukangula yina lenda nata masolo ya kilanga. Kana nge me kota na nzo na nima ya tiya mpi nge ke wa nswalu mingi, [Calm Breathing](/games/calm-breathing/) ke pesa ntangu ya pima mpi ya malembe yina beno lenda sala kumosi. Sambu na bangindu ya nkaka yina ke tadila kusimba, kununga, mpi kuwa, tala [lutiti na beto ya bisalu ya kuyoka](/activities/sensory/).

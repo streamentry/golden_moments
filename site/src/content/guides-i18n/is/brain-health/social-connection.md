@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Einmanaleiki, einangrun og heilabilun"
+seoTitle: "Einmanaleiki, félagsleg einangrun og heilabilun"
+description: "Hvernig einmanaleiki og einangrun tengjast hættu á heilabilun og einfaldar leiðir til að halda sambandi saman."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Rannsóknir tengja félagslega einangrun og einmanaleika á síðari æviskeiðum við aukna hættu á
+  heilabilun. Lancet-nefndin árið 2024 áætlar að einangrun eigi þátt í um 5% tilfella, þó að
+  hluti tengslanna geti stafað af því að snemmbúin heilabilun leiði til þess að fólk dregi sig
+  í hlé. Að halda sambandi, sameiginleg áhugamál og aðstoð við heyrn styðja við félagsleg tengsl.
+  Fyrir fólk sem lifir með heilabilun skipta sameiginleg verkefni máli fyrir ánægju og lífsgæði.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet-nefndin telur félagslega einangrun á síðari æviskeiðum einn af 14 áhættuþáttum heilabilunar sem hægt er að hafa áhrif á, eða um 5% tilfella."
+  - "Ráðgjöf bandaríska landlæknisembættisins frá 2023 tengdi langvarandi einmanaleika og einangrun við um 50% hærri hættu á heilabilun hjá eldri fullorðnum."
+  - "Flestar þessara vísbendinga koma úr athugunarrannsóknum og snemmbúin heilabilun getur sjálf leitt til þess að fólk dregi sig í hlé."
+  - "Heyrnar- og sjónvandamál, það að búa einn og umönnun annarra auka allt hættuna á einangrun."
+  - "Fyrir fólk sem lifir með heilabilun styðja ánægjuleg sameiginleg verkefni við lífsgæði; markmiðið er tengsl, ekki árangur."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Veldur einmanaleiki heilabilun?"
+    a: "Það hefur ekki verið sannað. Margar rannsóknir tengja einmanaleika og einangrun við aukna hættu á heilabilun, en snemmbúnar breytingar í heila geta einnig leitt til þess að fólk dregi sig í hlé frá öðrum. Að halda sambandi hefur margvísleg önnur jákvæð áhrif á líðan og heilsu, svo það er þess virði að styðja við það hvort sem er."
+  - q: "Hver er munurinn á einmanaleika og félagslegri einangrun?"
+    a: "Félagsleg einangrun þýðir að hafa fátt fólk til að eiga í samskiptum við reglulega. Einmanaleiki er sársaukafull tilfinningin um að vera einn eða utangárs. Þú getur búið einn án þess að finnast þú einmana, eða fundið fyrir einmanaleika þótt fólk sé í kringum þig."
+  - q: "Hvernig get ég hjálpað foreldri sem lifir með heilabilun að halda sambandi við aðra?"
+    a: "Stutt, regluleg samskipti virka vel. Prófið fast símtal eða myndsímtal einu sinni í viku, sameiginlegt verkefni við eldhúsborðið, minningarkaffi eða heimsókn með gæludýri eða barnabarni. Haldið hópum litlum og rólegum og leyfið einstaklingnum að ráða hraðanum."
+  - q: "Hvar get ég fundið aðstoð á staðnum fyrir eldri fullorðinn sem er einangraður?"
+    a: "Á Íslandi er hægt að hafa samband við félagsþjónustu sveitarfélagsins, heilsugæsluna eða eldri borgara þjónustu á þínu svæði til að fá upplýsingar um stuðning og samfélagsþjónustu. Eldercare Locator (800-677-1116 eða eldercare.acl.gov) er opinber þjónusta í Bandaríkjunum sem tengir fjölskyldur við staðbundna aðstoð þar."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Fólk þarf félagsskap og það breytist ekki með aldrinum. Rannsóknir tengja einmanaleika og félagslega einangrun á síðari æviskeiðum við aukna hættu á heilabilun, sem og hjartasjúkdómum og þunglyndi. Rannsóknirnar geta ekki sagt til um að fullu hversu mikið af þessum tengslum snýst um orsök og afleiðingu. Þessi síða fjallar um það sem vísbendingarnar sýna, hagnýtar leiðir til að halda sambandi og hvers vegna sameiginleg verkefni skipta svo miklu máli fyrir fólk sem þegar lifir með heilabilun.
 
-## Are loneliness and isolation linked with dementia?
+## Eru einmanaleiki og einangrun tengd heilabilun?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Já, margar rannsóknir tengja þau saman, þó að ekki sé alveg ljóst í hvora áttina tengslin ganga. [Lancet-nefndin frá 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) telur félagslega einangrun á síðari æviskeiðum einn af 14 áhættuþáttum heilabilunar sem hægt er að hafa áhrif á. [Samantekt UCL á skýrslunni](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) metur hlutdeild hennar um 5% tilfella heilabilunar um allan heim.
 
-What the evidence shows:
+Það sem vísbendingarnar sýna:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Minni samskipti, meiri hætta.** Nefndin lýsir tveimur yfirlitsgreinum sem tengdu sjaldnari félagsleg samskipti við aukna hættu á heilabilun. Önnur fann um 57% meiri hættu og hin um 18%.
+- **Einmanaleiki líka.** Einmanaleiki, tilfinningin um að vera utangárs, tengdist einnig aukinni hættu á heilabilun í nokkrum yfirlitsgreinum.
+- **Sýn bandaríska landlæknisembættisins.** Í maí 2023 gaf embættið út [ráðgjöf um einmanaleika og einangrun](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Þar kemur fram að langvarandi einmanaleiki og einangrun geti aukið hættuna á heilabilun um um 50% hjá eldri fullorðnum. Þar voru léleg félagsleg tengsl einnig tengd 29% meiri hættu á hjartasjúkdómum og 32% meiri hættu á heilablóðfalli.
+- **Hversu algengt þetta er.** [Skýrsla bandarísku Vísinda-, verkfræði- og læknaakademíanna](https://www.ncbi.nlm.nih.gov/books/NBK557972/) leiddi í ljós að um 24% Bandaríkjamanna 65 ára og eldri sem búa heima eru félagslega einangraðir.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Mikilvægt er að hafa í huga: Lancet-nefndin bendir á að fólk gæti dregið sig úr félagslegum verkefnum á snemmbúnu, ógreindu stigi heilabilunar. Það þýðir að hluti tengslanna getur stafað af því að heilabilun leiði til einangrunar, en ekki aðeins þess að einangrun auki hættuna. Nánast allar þessar vísbendingar koma úr athugunarrannsóknum.
 
-## What is the difference between loneliness and isolation?
+## Hver er munurinn á einmanaleika og einangrun?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) útskýrir þetta svona. **Félagsleg einangrun** þýðir að hafa fá félagsleg tengsl eða fátt fólk til að eiga í samskiptum við reglulega. **Einmanaleiki** er erfið tilfinningin um að vera einn eða aðskilinn frá öðrum. Einhver getur búið einn og verið ánægður og einhver getur fundið fyrir einmanaleika í fullu herbergi.
 
-The NIA lists factors that raise the risk of both:
+NIA telur upp þætti sem auka hættuna á hvoru tveggja:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Heyrnar- eða sjónvandamál
+- Erfiðleikar við að komast um eða skortur á samgöngum
+- Að búa einn eða stór missir, svo sem andlát maka eða starfslok
+- Breytingar á minni eða hugsun
+- Umönnun nákomins aðila sem er veikur
+- Fjárhagsáhyggjur eða tungumálaörðugleikar
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Heyrn skiptir miklu máli. NIA bendir á að fólk sem heyrir illa gæti dregið sig í hlé vegna þess að samtöl verða erfið eða vandræðaleg. [Leiðbeiningar okkar um heyrn og heilsu heilans](/brain-health/hearing/) fjalla um heyrnarpróf og heyrnartæki sem fást án lyfseðils.
 
-## Practical ways to stay connected
+## Hagnýtar leiðir til að halda sambandi
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA stingur upp á ýmsum hugmyndum. Veldu eina eða tvær sem henta:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Skipuleggðu regluleg samskipti.** Ákveðinn tími á hverjum degi eða í hverri viku til að hringja, senda skilaboð, tölvupóst eða kort til fjölskyldu, vina eða nágranna.
+- **Notaðu myndsímtöl eða snjalltæki.** Ef tæknin er ný, bjóða mörg bókasöfn og félagsmiðstöðvar námskeið. Sjá [leiðbeiningar okkar um símtöl og myndsímtöl](/activities/phone-and-video-calls/).
+- **Taktu þátt í einhverju.** Námskeið, trúfélag, gönguhópur eða sjálfboðastarf gefur þér bæði samskipti og tilgang.
+- **Taktu upp gamla áhugamál** eða lærðu eitthvað nýtt með öðru fólki.
+- **Hreyfðu þig með öðrum.** Hreyfðu þig með vini eða í hópi. [Leiðbeiningar okkar um hreyfingu](/brain-health/exercise/) hafa rólegar hugmyndir.
+- **Íhugaðu gæludýr** ef þú getur séð um það.
+- **Notaðu þjónustu á staðnum.** Félagsmiðstöðvar, þjónusta við eldri borgara hjá sveitarfélögum og aðrir staðbundnir aðilar geta vísað þér á viðeigandi úrræði og samgöngur. Í neyðartilvikum er hægt að hringja í 112.
 
-## Why do shared activities matter in dementia?
+## Hvers vegna skipta sameiginleg verkefni máli við heilabilun?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Fyrir einhvern sem þegar lifir með heilabilun snúast tengsl um ánægju, vellíðan og að finnast maður vera hluti af einhverju, ekki um að draga úr áhættu. Lancet-nefndin segir að verkefni hjálpi fólki með heilabilun að viðhalda ánægju og tilgangi. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bendir á að verkefni geti, auk þess að bæta lífsgæði, dregið úr hegðun eins og ráfi eða óróleika. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bætir við að fólk með Alzheimer-sjúkdóm þurfi að vera virkt og gera hluti sem því finnst gaman að gera.
 
-Ideas that work well:
+Hugmyndir sem virka vel:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Skoðið myndir saman.** [Conversation Cards](/games/conversation-cards/) bjóða upp á opin spjall án spurninga og svara, eins og „Segðu mér frá...“. Sjá [leiðbeiningar okkar um minningar](/activities/reminiscence/).
+2. **Spilið saman hlið við hlið.** [Picture Pairs](/games/picture-pairs/) heldur myndunum sýnilegum og er án tímamælis eða stiga, svo það er engin pressa. [Leiðbeiningar okkar um hvernig á að spila saman](/caregiving/how-to-play-together/) hafa fleiri ráð.
+3. **Notið fjölskyldumyndir.** [Photo Pairs](/games/photo-pairs/) breytir myndum sem þú velur í samstæduleik og myndirnar eru áfram í tækinu þínu.
+4. **Farið saman í hóp.** [Picture Bingo](/games/picture-bingo/) hentar vel fyrir fjölskylduboð og [hópa á hjúkrunarheimilum](/activities/care-home-groups/).
+5. **Deilið tónlist, heimilisverkum eða garðvinnu.** Sjá [tónlistartengdar hugmyndir](/activities/music/), [heimilisverk](/activities/household-tasks/) og allan listann okkar yfir [hugmyndir að verkefnum](/activities/ideas/).
+6. **Gerið heimsóknir auðveldari.** [Leiðbeiningar okkar um heimsóknir](/activities/visiting/) fjalla um stuttar og rólegar heimsóknir sem eru góðar fyrir alla.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Haldið því einföldu og afslöppuðu. Rólegt herbergi með einum eða tveimur aðilum virkar oft betur en stór hópur. Ef einstaklingurinn þreytist eða missir áhugann er í lagi að hætta. Að sitja saman með kaffibolla er líka góður árangur.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Fyrir einhvern sem lifir einn með heilabilun stingur NIA upp á að finna traustan aðila sem getur heimsótt eða hringt myndsímtal reglulega og verið neyðartengiliður. Þar er einnig minnst á minningarkaffi á staðnum, afslappaðan félagslegan vettvang fyrir fólk með minnistruflanir og fjölskyldur þeirra.
 
-## Caregivers get lonely too
+## Aðstandendur verða líka einmana
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA telur umönnun nákomins aðila vera áhættuþátt fyrir einangrun. Reyndu að vernda tíma fyrir þín eigin vinatengsl, stuðningshópa og hvíld. [Leiðbeiningar okkar um sjálfsumönnun aðstandenda](/caregiving/caregiver-self-care/) hafa hagnýtar hugmyndir.
 
-## Talk with a doctor
+## Talaðu við lækni
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Ef þú eða einhver sem þú sinnir finnur oft fyrir einmanaleika eða einangrun skaltu segja lækni frá því. NIA hvetur fólk til að deila stærri breytingum í lífinu, svo sem missi ástvinar, svo læknirinn hafi heildarmyndina. Að líða illa í margar vikur í senn getur verið þunglyndi sem hægt er að meðhöndla. Ef eldri fullorðinn hefur nýlega dregið sig í hlé frá vinum eða verkefnum sem hann hafði áður gaman af er það líka vert að nefna við lækni. Lestu um [snemmbúin viðvörunarmerki og hvenær á að leita til læknis](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Þessi síða er almennar upplýsingar, ekki læknisfræðileg ráðgjöf. Sjá [fyrirvara um læknisfræðilegar upplýsingar](/medical-disclaimer/).

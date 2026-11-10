@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "ការតមអាហារពេលខ្លះៗ និងជំងឺវង្វេង៖ អ្វីដែលការស្រាវជ្រាវបង្ហាញ"
+seoTitle: "ការតមអាហារពេលខ្លះៗ និងជំងឺវង្វេង៖ លទ្ធផលស្រាវជ្រាវ"
+description: "ភស្តុតាងលើមនុស្សអំពីការតមអាហារពេលខ្លះៗ និងជំងឺវង្វេងនៅមានកម្រិត និងនៅដើមដំបូង។ ស្វែងយល់ពីហានិភ័យសម្រាប់មនុស្សវ័យចំណាស់ និងមូលហេតុដែលការទទួលទានអាហារគ្រប់គ្រាន់មានសារៈសំខាន់ជាង។"
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  មិនមានភស្តុតាងល្អដែលបង្ហាញថា ការតមអាហារពេលខ្លះៗអាចការពារ ឬបន្ថយការធ្លាក់ចុះនៃជំងឺវង្វេងបានទេ។
+  ការស្រាវជ្រាវភាគច្រើនធ្វើឡើងលើសត្វ ហើយការសិក្សាលើមនុស្សវ័យចំណាស់មានទំហំតូច និងរយៈពេលខ្លី។
+  ការតមអាហារអាចមានហានិភ័យសម្រាប់មនុស្សវ័យចំណាស់ ដូចជាការស្រកទម្ងន់ និងសាច់ដុំ ការធ្លាក់ជាតិស្ករក្នុងឈាម
+  នៅពេលប្រើថ្នាំជំងឺទឹកនោមផ្អែមមួយចំនួន ការខ្វះជាតិទឹក និងការដួល។
+  ចំពោះមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង ការទទួលទានអាហារ និងទឹកឱ្យបានគ្រប់គ្រាន់ជាធម្មតាជាកង្វល់សំខាន់ជាង។
+  សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិតជាមុនសិន។
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) បញ្ជាក់ថា មិនមានភស្តុតាងគ្រប់គ្រាន់ដើម្បីណែនាំឱ្យប្រើរបបអាហារតម ឬកាត់បន្ថយកាឡូរីណាមួយឡើយ ជាពិសេសសម្រាប់មនុស្សវ័យចំណាស់។"
+  - "ការស្រាវជ្រាវភាគច្រើនអំពីការតមអាហារ និងភាពចាស់ធ្វើឡើងលើសត្វ ហើយលទ្ធផលទាំងនោះមិនចាំបាច់អនុវត្តចំពោះមនុស្សទេ។"
+  - "ហានិភ័យដែលអាចកើតមានសម្រាប់មនុស្សវ័យចំណាស់ រួមមានការស្រកទម្ងន់ដោយមិនចង់បាន ការបាត់បង់សាច់ដុំ ការធ្លាក់ជាតិស្ករក្នុងឈាមនៅពេលប្រើថ្នាំជំងឺទឹកនោមផ្អែមមួយចំនួន ការខ្វះជាតិទឹក វិលមុខ និងការដួល។"
+  - "មនុស្សដែលរស់នៅជាមួយជំងឺវង្វេងជាញឹកញាប់ភ្លេចញ៉ាំ ឬភ្លេចផឹក ឬគិតថាខ្លួនបានញ៉ាំផឹករួចហើយ។ ការជួយឱ្យពួកគេទទួលទានអាហារ និងទឹកគ្រប់គ្រាន់ជាធម្មតាមានសារៈសំខាន់ជាងពេលវេលានៃការញ៉ាំ។"
+  - "កុំប្រើការតមអាហារសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង។ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ឬអ្នកជំនាញផ្នែកអាហារូបត្ថម្ភដែលមានការទទួលស្គាល់ មុនពេលធ្វើការផ្លាស់ប្តូរទម្លាប់ការញ៉ាំណាមួយ។"
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "តើការតមអាហារពេលខ្លះៗអាចការពារជំងឺអាល់ហ្សៃមឺ (Alzheimer's) បានទេ?"
+    a: "មិនមានភស្តុតាងល្អដែលបង្ហាញថាអាចការពារបានទេ។ ការស្រាវជ្រាវភាគច្រើនត្រូវបានធ្វើឡើងលើសត្វ ហើយការសាកល្បងលើមនុស្សភាគច្រើនមានរយៈពេលខ្លី ធ្វើលើមនុស្សវ័យក្មេង ឬមនុស្សដែលមានទម្ងន់លើស ហើយផ្តោតលើការស្រកទម្ងន់។ វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) បញ្ជាក់ថា មិនមានភស្តុតាងគ្រប់គ្រាន់ដើម្បីណែនាំរបបអាហារតមដល់សាធារណជនទេ។"
+  - q: "តើការតមអាហារពេលខ្លះៗមានសុវត្ថិភាពសម្រាប់មនុស្សវ័យចំណាស់ដែរឬទេ?"
+    a: "អាចមិនមានសុវត្ថិភាពទេ។ ការតមអាហារអាចបណ្តាលឱ្យស្រកទម្ងន់ និងសាច់ដុំដោយមិនចង់បាន ខ្វះជាតិទឹក វិលមុខ និងដួល ហើយអាចបង្កឱ្យកម្រិតជាតិស្ករក្នុងឈាមធ្លាក់ទាបខ្លាំងចំពោះអ្នកដែលប្រើអាំងស៊ុយលីន ឬថ្នាំជំងឺទឹកនោមផ្អែមមួយចំនួនផ្សេងទៀត។ Mayo Clinic ក៏ចង្អុលបង្ហាញថា វាអាចមិនស័ក្តិសមសម្រាប់អ្នកដែលមានហានិភ័យខ្ពស់នៃការបាត់បង់ឆ្អឹង និងការដួល។ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិតមុនពេលសាកល្បង។"
+  - q: "តើអ្នកដែលរស់នៅជាមួយជំងឺវង្វេងគួរសាកល្បងការតមអាហារដែរឬទេ?"
+    a: "មិនគួរទេ។ មនុស្សដែលរស់នៅជាមួយជំងឺវង្វេងជាញឹកញាប់មានបញ្ហាក្នុងការទទួលទានអាហារ និងទឹកឱ្យបានគ្រប់គ្រាន់ ហើយអាហារូបត្ថម្ភមិនល្អអាចបង្កើនអាការៈឥរិយាបថ និងបណ្តាលឱ្យស្រកទម្ងន់។ ការតមអាហារបន្ថែមហានិភ័យដោយគ្មានអត្ថប្រយោជន៍ដែលបានបញ្ជាក់។ ផ្តោតទៅលើអាហារទៀងទាត់ អាហារសម្រន់ដែលពួកគេចូលចិត្ត និងការផឹកទឹកឱ្យបានគ្រប់គ្រាន់វិញ។"
+  - q: "តើមានសញ្ញាអ្វីខ្លះដែលបង្ហាញថាអ្នកដែលរស់នៅជាមួយជំងឺវង្វេងមិនបានញ៉ាំ ឬផឹកគ្រប់គ្រាន់?"
+    a: "សូមសង្កេតមើលការស្រកទម្ងន់ សម្លៀកបំពាក់ច börjarរលុង អស់កម្លាំង ខ្សោយ ឬទល់លាមក។ សញ្ញានៃការខ្វះជាតិទឹកដែលវិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) បានរៀបរាប់ រួមមានមាត់ស្ងួត វិលមុខ ចង្វាក់បេះដូងលឿន និងការមើលឃើញរូបភាពមិនពិត។ សូមប្រាប់វេជ្ជបណ្ឌិតរបស់ពួកគេ ប្រសិនបើអ្នកសង្កេតឃើញសញ្ញាទាំងនេះ។"
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+ការតមអាហារពេលខ្លះៗ ដូចជាការញ៉ាំតែក្នុងចន្លោះពេលប្រាំបីម៉ោង ឬកាត់បន្ថយកាឡូរីយ៉ាងខ្លាំងក្នុងរយៈពេលពីរថ្ងៃក្នុងមួយសប្តាហ៍ ទទួលបានការចាប់អារម្មណ៍ជាច្រើន ហើយអត្ថបទខ្លះស្នើថា វាអាចជួយការពារខួរក្បាល។ ប្រសិនបើអ្នកជាមនុស្សវ័យចំណាស់ ឬអ្នកថែទាំមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង នេះគឺជាអ្វីដែលការស្រាវជ្រាវបានបង្ហាញពិតប្រាកដ និងមូលហេតុដែលការប្រុងប្រយ័ត្នមានសារៈសំខាន់។
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+នេះជាព័ត៌មានទូទៅ មិនមែនជាដំបូន្មានវេជ្ជសាស្ត្រទេ។ កុំចាប់ផ្តើមតមអាហារ ឬផ្លាស់ប្តូររបៀបញ៉ាំរបស់អ្នកដែលអ្នកថែទាំ ដោយមិនបានពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ឬអ្នកជំនាញផ្នែកអាហារូបត្ថម្ភដែលមានការទទួលស្គាល់ជាមុន។ សូមមើល [ការបដិសេធផ្នែកវេជ្ជសាស្ត្រ](/medical-disclaimer/) របស់យើង។
 
-## Does intermittent fasting prevent dementia?
+## តើការតមអាហារពេលខ្លះៗអាចការពារជំងឺវង្វេងបានទេ?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+មិនមានភស្តុតាងល្អដែលបង្ហាញថា ការតមអាហារពេលខ្លះៗអាចការពារ ឬបន្ថយការធ្លាក់ចុះនៃជំងឺវង្វេងបានទេ។ វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (NIA) បញ្ជាក់ថា មិនមានភស្តុតាងគ្រប់គ្រាន់ដើម្បីណែនាំរបបអាហារកាត់បន្ថយកាឡូរី ឬតមអាហារប្រភេទណាមួយឡើយ ហើយត្រូវការការសិក្សាបន្ថែមទៀតអំពីប្រសិទ្ធភាព និងសុវត្ថិភាព ជាពិសេសចំពោះមនុស្សវ័យចំណាស់ ([NIA អំពីការកាត់បន្ថយកាឡូរី និងការតមអាហារ](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know))។
 
-### Why the evidence is so limited
+### ហេតុអ្វីបានជាភស្តុតាងនៅមានកម្រិតខ្លាំង
 
-The NIA gives several reasons:
+NIA បានលើកឡើងពីមូលហេតុជាច្រើន៖
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **ការសិក្សាភាគច្រើនធ្វើឡើងលើសត្វ។** ការស្រាវជ្រាវលើដង្កូវ រុយ កណ្តុរ និងស្វាមានលទ្ធផលគួរឱ្យចាប់អារម្មណ៍ ប៉ុន្តែលទ្ធផលទាំងនេះមិនចាំបាច់អនុវត្តចំពោះមនុស្សទេ។ សូម្បីតែលើសត្វក៏ដោយ លទ្ធផលមិនដូចគ្នាទាំងអស់ដែរ។ នៅក្នុងពូជកណ្តុរមួយចំនួន ការកាត់បន្ថយកាឡូរីបានធ្វើឱ្យអាយុខ្លីជាងមុន។
+- **ការសាកល្បងលើមនុស្សមានរយៈពេលខ្លី។** ភាគច្រើនមានរយៈពេលតែពីរបីសប្តាហ៍ ឬពីរបីខែប៉ុណ្ណោះ។
+- **ការសាកល្បងលើមនុស្សភាគច្រើនផ្តោតលើការស្រកទម្ងន់** ចំពោះមនុស្សពេញវ័យដែលមានទម្ងន់លើស មិនមែនផ្តោតលើការចងចាំ ឬជំងឺវង្វេងទេ។
+- **មនុស្សវ័យចំណាស់កម្រត្រូវបានរួមបញ្ចូល។** ការសាកល្បងជាច្រើនបានជ្រើសរើសអ្នកចូលរួមដែលមានអាយុ 60 ឆ្នាំ ឬតិចជាងនេះ។
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+ការពិនិត្យឡើងវិញជាប្រព័ន្ធមួយក្នុងឆ្នាំ 2026 បានពិនិត្យជាពិសេសលើការតមអាហារពេលខ្លះៗចំពោះមនុស្សពេញវ័យដែលមានអាយុ 60 ឆ្នាំឡើងទៅ។ ការពិនិត្យនេះបានរកឃើញថា ភស្តុតាងក្នុងក្រុមអាយុនេះនៅតែមានកម្រិត ដោយមានការសិក្សាតូចៗ រយៈពេលតាមដានខ្លី និងរចនាសម្ព័ន្ធខុសគ្នា។ ការរកឃើញអំពីការគិត និងការចងចាំបានមកពីការសិក្សានីមួយៗ មិនមែនពីលទ្ធផលសាកល្បងរួមគ្នាទេ។ ការពិនិត្យនេះក៏បានកត់សម្គាល់ថា ការសិក្សាខ្លះបានភ្ជាប់ចន្លោះពេលញ៉ាំអាហារខ្លីណាស់ ឬការតមអាហារយូរ ជាមួយនឹងលទ្ធផលមិនល្អ ហើយអ្នកនិពន្ធបានណែនាំឱ្យមានការប្រុងប្រយ័ត្នសម្រាប់មនុស្សវ័យចំណាស់ ([ការពិនិត្យឡើងវិញឆ្នាំ 2026 នៅក្នុង Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/))។
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+អ្នកស្រាវជ្រាវខ្លះគិតថា ការផ្លាស់ប្តូររបស់រាងកាយទៅប្រើប្រាស់ខ្លាញ់ក្នុងពេលតមអាហារ អាចមានឥទ្ធិពលលើខួរក្បាល ប៉ុន្តែនេះនៅតែជាទ្រឹស្តីដែលកំពុងត្រូវបានសិក្សា។ NIA កត់សម្គាល់ថា វិទ្យាសាស្ត្រនៅតែមិនទាន់ច្បាស់លាស់។
 
-## What are the risks of fasting for older adults?
+## តើការតមអាហារមានហានិភ័យអ្វីខ្លះសម្រាប់មនុស្សវ័យចំណាស់?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+ការតមអាហារមិនមែនជាការសាកល្បងដែលគ្មានគ្រោះថ្នាក់សម្រាប់មនុស្សវ័យចំណាស់ជាច្រើននាក់ទេ។ ហានិភ័យដែលអាចកើតមានរួមមាន៖
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **ការស្រកទម្ងន់ដោយមិនចង់បាន។** ការញ៉ាំតិចជាងអ្វីដែលរាងកាយត្រូវការ អាចបណ្តាលឱ្យស្រកទម្ងន់ និងបាត់បង់កម្លាំងសាច់ដុំ ដែលអាចធ្វើឱ្យមនុស្សម្នាក់កាន់តែខ្សោយ។
+- **ការបាត់បង់សាច់ដុំ និងឆ្អឹង។** ក្នុងការសាកល្បងរយៈពេលពីរឆ្នាំដែលគាំទ្រដោយ NIA អំពីការកាត់បន្ថយកាឡូរីលើមនុស្សពេញវ័យវ័យក្មេង និងវ័យមធ្យម អ្នកចូលរួមមានការថយចុះបន្តិចបន្តួចនៃដង់ស៊ីតេឆ្អឹង និងម៉ាសសាច់ដុំ។
+- **ការធ្លាក់ជាតិស្ករក្នុងឈាមនៅពេលប្រើថ្នាំជំងឺទឹកនោមផ្អែម។** អ្នកដែលប្រើអាំងស៊ុយលីន ឬថ្នាំជំងឺទឹកនោមផ្អែមមួយចំនួនផ្សេងទៀត អាចមានកម្រិតជាតិស្ករក្នុងឈាមធ្លាក់ទាបពេក ប្រសិនបើពួកគេរំលង ឬពន្យារពេលអាហារ នេះបើយោងតាម [វិទ្យាស្ថានជាតិស្តីពីជំងឺទឹកនោមផ្អែម និងជំងឺផ្លូវដង្ហើម និងតម្រងនោម](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia)។ ការធ្លាក់ជាតិស្ករក្នុងឈាមអាចបណ្តាលឱ្យវិលមុខ ច្របូកច្របល់ និងឆេវឆាវ។
+- **ការខ្វះជាតិទឹក។** ប្រសិនបើការផឹកត្រូវបានរំលងរួមជាមួយអាហារ មនុស្សម្នាក់អាចខ្វះជាតិទឹក។
+- **វិលមុខ និងការដួល។** Mayo Clinic កត់សម្គាល់ថា ការតមអាហារពេលខ្លះៗអាចធ្វើឱ្យមនុស្សមានអារម្មណ៍អស់កម្លាំងខ្លាំង និងវិលមុខ ហើយវាអាចមិនមែនជាទម្លាប់ញ៉ាំដែលមានសុខភាពល្អសម្រាប់អ្នកដែលមានហានិភ័យខ្ពស់នៃការបាត់បង់ឆ្អឹង និងការដួល ([Mayo Clinic អំពីការតមអាហារពេលខ្លះៗ](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303))។
+- **ផលប៉ះពាល់ផ្សេងទៀត។** Mayo Clinic ក៏រៀបរាប់អំពីការឈឺក្បាល អារម្មណ៍ប្រែប្រួល និងទល់លាមក ហើយកត់សម្គាល់ថា មានភស្តុតាងមួយចំនួនបង្ហាញថា ការតមអាហារ 16 ម៉ោង ជាមួយចន្លោះពេលញ៉ាំ 8 ម៉ោង អាចបង្កើនហានិភ័យជំងឺបេះដូង បើប្រៀបធៀបទៅនឹងចន្លោះពេលញ៉ាំផ្សេងទៀត។ ភស្តុតាងនេះនៅមិនទាន់ច្បាស់លាស់នៅឡើយទេ។
 
-## Why is eating enough the bigger concern with dementia?
+## ហេតុអ្វីបានជាការទទួលទានអាហារគ្រប់គ្រាន់ជាកង្វល់ធំជាងសម្រាប់អ្នកដែលមានជំងឺវង្វេង?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+ចំពោះមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង បញ្ហាទូទៅគឺការទទួលទានអាហារ និងទឹកឱ្យបាន **គ្រប់គ្រាន់** មិនមែនច្រើនពេកទេ។ សមាគមអាល់ហ្សៃមឺ (Alzheimer's Association) ពន្យល់ថា មនុស្សនៅដំណាក់កាលកណ្តាល និងដំណាក់កាលចុងក្រោយ អាចមានអារម្មណ៍ស្មុគស្មាញនឹងជម្រើសអាហារ ភ្លេចញ៉ាំ ឬគិតថាខ្លួនបានញ៉ាំរួចហើយ។ សមាគមនេះក៏បន្ថែមថា អាហារូបត្ថម្ភមិនល្អអាចបង្កើនអាការៈឥរិយាបថ និងបណ្តាលឱ្យស្រកទម្ងន់ ([សមាគមអាល់ហ្សៃមឺ អំពីអាហារ និងការញ៉ាំ](https://www.alz.org/help-support/caregiving/daily-care/food-eating))។
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+សមាគមអាល់ហ្សៃមឺ (Alzheimer's Society) កត់សម្គាល់ថា ការមិនញ៉ាំគ្រប់គ្រាន់អាចនាំឱ្យស្រកទម្ងន់ បាត់បង់កម្លាំងសាច់ដុំ អស់កម្លាំង និងខ្សោយ ដែលធ្វើឱ្យមនុស្សម្នាក់កាន់តែខ្សោយ និងពិបាកជាសះស្បើយពីការឆ្លងមេរោគ ([សមាគមអាល់ហ្សៃមឺ អំពីចំណង់អាហារ](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia))។
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**ដោយហេតុផលទាំងនេះ ការតមអាហារមិនមែនជាគំនិតល្អសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេងទេ។** ការរំលងអាហារមួយពេលអាចងាយក្លាយជាការខកខានអាហារទាំងស្រុង។ ការផ្លាស់ប្តូរណាមួយចំពោះរបៀបញ៉ាំរបស់មនុស្សដែលមានជំងឺវង្វេង គួរតែធ្វើឡើងក្រោមការណែនាំរបស់វេជ្ជបណ្ឌិត ឬអ្នកជំនាញផ្នែកអាហារូបត្ថម្ភដែលមានការទទួលស្គាល់។
 
-## What are the warning signs of poor eating or drinking?
+## តើមានសញ្ញាព្រមានអ្វីខ្លះនៃការញ៉ាំ ឬផឹកមិនគ្រប់គ្រាន់?
 
-Watch for:
+សូមសង្កេតមើល៖
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **ការស្រកទម្ងន់** ឬសម្លៀកបំពាក់ចាប់ផ្តើមរលុង។
+- **ទុកអាហារចោល ឬបដិសេធមិនញ៉ាំ** ឬទុកអាហារក្នុងមាត់។
+- **អស់កម្លាំង ឬខ្សោយ។**
+- **ទល់លាមក** ដែលអាចទាក់ទងនឹងរបបអាហារ និងការខ្វះជាតិទឹក។
+- **សញ្ញានៃការខ្វះជាតិទឹក។** NIA រៀបរាប់អំពីមាត់ស្ងួត វិលមុខ ចង្វាក់បេះដូងលឿន និងការមើលឃើញរូបភាពមិនពិត ដែលក៏អាចបណ្តាលមកពីជំងឺវង្វេងផ្ទាល់ផងដែរ ([NIA អំពីបញ្ហាវេជ្ជសាស្ត្រទូទៅ](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers))។
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+ការថយចុះចំណង់អាហារអាចមានមូលហេតុជាច្រើន៖ ឈឺធ្មេញ ឬធ្មេញปลอมរលុង ថ្នាំថ្មី ស្រ្តេស ទល់លាមក ការធ្វើសកម្មភាពតិច ឬការផ្លាស់ប្តូរនៃរសជាតិ និងក្លិន។ សូមប្រាប់វេជ្ជបណ្ឌិតរបស់ពួកគេអំពីសញ្ញាទាំងនេះ។ ពួកគេអាចស្វែងរកមូលហេតុ និងអាចណែនាំឱ្យជួបអ្នកជំនាញផ្នែកអាហារូបត្ថម្ភ ឬប្រើអាហារបំប៉នបន្ថែម។
 
-## How can you help someone eat and drink enough?
+## តើអ្នកអាចជួយឱ្យគេទទួលទានអាហារ និងទឹកគ្រប់គ្រាន់ដោយរបៀបណា?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **ផ្តល់អាហារតូចៗ និងអាហារសម្រន់ជាញឹកញាប់** ជំនួសឱ្យអាហារធំៗបីពេលក្នុងមួយថ្ងៃ។
+- **រៀបចំអាហារដែលពួកគេចូលចិត្ត** និងមានភាពបត់បែននៅពេលរសជាតិផ្លាស់ប្តូរ។ អាហារផ្អែមអាចទទួលយកបាន ប្រសិនបើចំណង់អាហារថយចុះ។ សូមសួរវេជ្ជបណ្ឌិត ប្រសិនបើមានហេតុផលសុខភាពដែលត្រូវកំណត់ជាតិស្ករ។
+- **ដាក់ទឹកឱ្យនៅក្បែរដៃ** និងផ្តល់ជូនក្នុងចំនួនតិចៗពេញមួយថ្ងៃ។ ស៊ុប ផ្លែឈើ ភេសជ្ជៈក្រឡុក និងភេសជ្ជៈទឹកដោះគោក៏រាប់បញ្ចូលដែរ។
+- **ញ៉ាំអាហារជាមួយគ្នា** នៅពេលដែលអាចធ្វើបាន។ អាហារគឺជាឱកាសសម្រាប់ការជួបជុំ មិនមែនជាកិច្ចការដែលត្រូវប្រញាប់ទេ។
+- **សាកល្បងអាហារដែលអាចកាន់ញ៉ាំដោយដៃ** ដូចជានំសាំង បន្ទះផ្លែឈើ ឬបំណែកសាច់មាន់ ប្រសិនបើការប្រើសម និងកាំបិតកាន់តែពិបាក។
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+[មគ្គុទ្ទេសក៍អំពីរបបអាហារ](/brain-health/diet/) របស់យើងមានគំនិតបន្ថែមអំពីពេលអាហារ។ ការជួយរៀបចំអាហារក៏អាចជាសកម្មភាពរួមគ្នាដែលរីករាយផងដែរ។ សូមមើល [កិច្ចការក្នុងផ្ទះ](/activities/household-tasks/)។
 
-## Talk with a doctor
+## សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិត
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+មុនពេលសាកល្បងគម្រោងតមអាហារណាមួយដោយខ្លួនឯង សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ឬអ្នកជំនាញផ្នែកអាហារូបត្ថម្ភដែលមានការទទួលស្គាល់ ជាពិសេសប្រសិនបើអ្នកកំពុងប្រើថ្នាំសម្រាប់ជំងឺទឹកនោមផ្អែម ឬសម្ពាធឈាម ទើបតែស្រកទម្ងន់ថ្មីៗ ឬធ្លាប់ដួល។ ចំពោះមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង សូមសួរវេជ្ជបណ្ឌិតរបស់ពួកគេអំពីបរិមាណអាហារ និងទឹកដែលពួកគេគួរទទួលទានក្នុងមួយថ្ងៃ ជំនួសឱ្យការសួរអំពីការតមអាហារ។
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+សូមស្វែងរកជំនួយវេជ្ជសាស្ត្របន្ទាន់ ប្រសិនបើមានអาการច្របូកច្របល់ភ្លាមៗ សន្លប់ ឬមានសញ្ញានៃកម្រិតជាតិស្ករក្នុងឈាមទាបខ្លាំងដែលមិនប្រសើរឡើងក្នុងរយៈពេលខ្លី។

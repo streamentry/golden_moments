@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Деменципе пурӑнакансем валли ушкӑн ӗҫ-хӗлӗсем: пӑхса тӑракан учрежденисем валли"
+seoTitle: "Деменци вӑхӑтӗнчи ушкӑн ӗҫ-хӗлӗсем: бинго, юрӑ, калав"
+description: "Пӑхса тӑракан учрежденисемпе кунти программӑсем валли ушкӑн ӗҫ-хӗлӗсем: сӑн бинго, юрӑ юрлани, аса илӳ кружӗкӗсем, лару-тӑру тата ушкӑн пысӑклӑхӗ."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Пӑхса тӑракан учрежденисемпе кунти программӑсенчи лайӑх ушкӑн ӗҫ-хӗлӗсем —
+  кӗскерех, паллӑ тата кашни шайра хутшӑнма ҫӑмӑл: сӑн бинго, юрӑ юрлани,
+  аса илӳ кружӗкӗсем, ҫӑмӑл хускану тата пӗрле сӑмах вӑййисем. Май пур чухне
+  ушкӑнсене пӗчӗкрех тытӑр, кашнине курма тата илтме май пултар тесе лартӑр,
+  пӗрре пӗр тӳрех йӗрке парӑр, кирлӗ ҫын валли ҫӑмӑлрах роль тата шӑп ҫӗртен
+  тухма май хатӗрлӗр.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Пӗчӗк ушкӑнсем чылай чухне пӗр пысӑк мероприятиран лайӑхрах ӗҫлеҫҫӗ: ытларах ҫын сӑнаса кӑна мар, хӑй те хутшӑнма пултарать."
+  - "Ҫынсене ҫаврака е таҫка евӗрлӗ лартӑр, ертсе пыракан ҫын патӗнче; илтӳпе курӑмлӑха шута илӗр, ҫумри сасӑсене сӳнтерӗр."
+  - "Кашни ӗҫ-хӗлӗшпе икӗ-виҫӗ тӗрлӗ майпа хутшӑнма пултар тесе йӗркелӗр, тӗрлӗ майлӑ ҫынсем пӗрле пулма пултарччӗр."
+  - "Ыйтса тӗрӗслеврен, очко шутлавран тата ҫӗнтерӳҫӗсенчен тӑрӑр. Сӑн бинго вӑййинче кашни ҫын хӑйӗн карта туллине ҫитерме пултарать."
+  - "Ирхине каясси, сӑнаса ларасси е чӑнӑх шӑтса каясси — юрӑхсӑр. Шӑпрах вырӑн ыйтакан ҫын патне пулӑшма пӗр ӗҫчен хатӗр пултӑр."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Деменци вӑхӑтӗнчи ӗҫ-хӗлӗсем валли мӗнле ушкӑн калӑпӑшӗ лайӑх?"
+    a: "Пӗр ҫӗрӗ ялтанах тӗрӗс хисеп ҫук; вӑл ҫынсенчен, пӳлӗмрен тата ӗҫченсен хисепӗнчен килет. Нумай ушкӑн пӗчӗк ушкӑнсенче кашнине курма, илтме тата хутшӑнма ҫӑмӑлрах тесе шутлаҫҫӗ, пысӑк пӳлӗмре вара ытларах ҫын сӑнаса кӑна ларать. Пысӑк мероприятире ӗҫченсене е пулӑшакансене пурте ҫынсем хушшинче лартӑр, кашнине пӗр-икӗ ҫын патне пулӑшма май парӑр."
+  - q: "Майӗсем тӗрлӗ ушкӑнпа мӗнле ӗҫлемелле?"
+    a: "Кашни ӗҫ-хӗлӗшпе хутшӑнмалли темиҫе май йӗркелӗр. Юрӑ юрланӑ чухне хӑш-пӗрисем мӗнпур сӑмахсене юрлаҫҫӗ, хӑш-пӗрисем алӑ ҫупаҫҫӗ е чӗрӗпе юрлаҫҫӗ, хӑш-пӗрисем шакӑлтатакан япала тытса тӑраҫҫӗ. Сӑн бинго вӑййинче хӑш-пӗрисем сӑнсене хӑйсене тупаҫҫӗ, ыттисене пулӑшакан кӑтартать. Ытларах пулӑшу кирлӗ ҫынсене ӗҫчен е пулӑшакан патӗнче лартӑр."
+  - q: "Сӑн бинго вӑййине ӑмӑрту ҫук май мӗнле ирттермелле?"
+    a: "Кашни ҫынӑн картинчи мӗнпур вырӑн тултар таран, пур сӑна та пӗлтерӗр: ҫав май никам та юлса ан кайӗ. Кашни сӑн тӑрӑх кӗскен калашса илме сӗнӗр; ҫӗнтерекенсене уйрӑм парнев парӑнмасть е пурне те пӗр пекех ҫӑмӑллӑха парӑр. Тӗпӗ — пӗрле тимлӗ пулни тата калаҫни, кам маларах вӗҫлени мар."
+  - q: "Сирӗн вӑййӑсене пысӑк экран ҫинче ушкӑнпа усӑ курма пулать-и?"
+    a: "Ҫапла. Пирӗн вӑййӑсем веб браузерта ӗҫлеҫҫӗ, ҫавна май вӗсене ноутбук е планшет урлӑ телевизор е проектор ҫинче уҫма пулать. Picture Bingo вӑййинче пичетлеме картӑсем тата экран ҫинчи пӗлтересси пур. Finish the Saying тата Picture Pairs вӑййӗсем те пысӑк экран ҫинче лайӑх каҫаҫҫӗ: ушкӑншӑн пӗр ҫын ҫине пусать."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ку ертӳсем ӗҫ-хӗлӗш ертӳҫисем, пӑхса тӑракан ушкӑнсем тата кунти программӑсен ертӳҫисем валли. Кунта ӗҫлекен ушкӑн формисем, пӳлӗме йӗркелени, пӗр ӗҫ-хӗлӗше тӗрлӗ майлӑ ҫынсем валли йӗркелени, пирӗн пичетлеме бинго картисемпе пысӑк экранри вӑййӑсене усӑ курни пирки сӑмах пырать. Кунти мӗнпур предложенисем те хаваслӑх, ҫыхӑну тата суйлав ирекӗшӗн. Кунта ним те тӗрӗслев мар.
 
-## What makes a group activity work in memory care?
+## Пӑхса тӑракан учрежденире ушкӑн ӗҫ-хӗлӗшне мӗн лайӑх тӑвать?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Лайӑх ушкӑн ӗҫ-хӗлӗшӗ — паллӑ, кӗскерех, кашни шайра хутшӑнма ҫӑмӑл тата витӗмсӗр. Alzheimer's Association халӑхӑн [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) рекомендацисенче пӗлтерӳллӗ хутшӑнӑва ҫынӑн кӑсӑклӑхӗпе килӗшӳлӗхне пулӑшакан, суйлав тата ӑнӑҫу парма май паракан ӗҫ пек ӑнлантараҫҫӗ, деменци йывӑр ҫитсен те. Ҫав документра палӑртнӑ тӑрӑх, ахаль чухне программӑсем кунӗпе пӗр-икӗ пысӑк ушкӑн мероприяти ҫине таянни тӗл пулать, унта ҫынсем чылай чухне сӑнаса кӑна лараҫҫӗ.
 
-That points to a few practical rules:
+Ҫавӑнтан темиҫе усӑллӑ йӗрке тухать:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Паллӑ япала ҫӗннирен лайӑхрах.** Ҫынсем ҫамрӑк чухне илтнӗ юрӑсем, калӑпсем, сӑнсем тата япаласем хутшӑнма ҫӑмӑлрах.
+- **Кӗске вӑхӑт вӑрӑмран лайӑхрах.** Сирӗн ушкӑн тимлӗ пулма пултаракан вӑхӑта шута илӗр, варринче ҫутӑлма майлӑ вырӑн хӑварӑр.
+- **Туни сӑнанинчен лайӑхрах.** Кашни ҫын валли тытмалли, пусмалли, суйламалли е каламалли япала парӑр.
+- **Пӗр ӗҫ-хӗлӗшре темиҫе шай.** Ҫӑмӑлрах тата йывӑррах майсем хатӗрлӗр.
+- **Ҫӗнтерекенсем те, очкосем те ҫук.** Ӑмӑртуллӑ форма хӑш-пӗрисене вӗсем тӗрӗс мар тунӑ пек туйтарма пултарать.
 
-## How big should the group be?
+## Ушкӑн мӗн чухлӗ пысӑк пулмалла?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Чылай чухне пӗчӗкрех лайӑхрах. Alzheimer's Association пӗлтерет: пысӑк пухӑнӑва йывӑр туйакан ҫын пӗчӗк ушкӑнра хӑйне лайӑхрах туйма пултарать. Пӗр ҫӗрӗ ялтанах тӗрӗс хисеп ҫук. Вӑл ҫынсенчен, пӳлӗмрен, ӗҫченсен тата пулӑшакансен хисепӗнчен килет.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Усӑллӑ тӗрӗслев: кашни ҫын ертсе пыраканӑн питне курма, ӑна уҫӑ илтме тата пулӑшакан темиҫе секунд хушшинче ун патне ҫитме пултарать-и? Ҫапла мар пулсан, ушкӑна пайлӑр, пулӑшакансен хисепне ӳстерӗр е пӗчӗкрех пӳлӗме куҫӑр.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Уйӑх концерчӗ пек пысӑк мероприяти вӑхӑтӗнче ӗҫченсене тата пулӑшакансене ҫынсем хушшинче лартӑр, стенӑсем хӗрринче мар.
 
-## How should I set up the room and seating?
+## Пӳлӗме тата вырӑнсене мӗнле йӗркелемелле?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Ҫаврака е таҫка евӗрлӗ.** Рекомендацисенче пӗрле калаҫмалли кружӗк валли кашнине ҫаврака лартма майлӑ вырӑн тата ҫумри сасӑ ҫукки лайӑх тенӗ.
+- **Ертсе пыракан ҫын ҫывӑх та куҫ шайӗнче.** Май пулсан, тӑрса мар, лараса пӗлтерӗр.
+- **Илтӳ тата курӑмлӑх — малтан.** Илтесси йывӑр ҫынсене ертсе пыракан ҫын патӗнче, лайӑхрах илтекен енӗнче лартӑр. Куҫлӑх тата илтме пулӑшакан хатӗрсем пуррине тӗрӗслӗр. Alzheimer's Association палӑртнӑ тӑрӑх, куҫпа илтесси йывӑр пулсан, ҫыхӑну те йывӑртарах пулма пултарать.
+- **Ҫутӑ ҫынсен хыҫӗнчен килтӗр, сирӗн хыҫран мар.** Никама та ҫутӑ чӳрече кӑтартса ан лартӑр.
+- **Телевизорпа радиона сӳнтерӗр.** Alzheimer's Association кӗвӗллӗ ӗҫ-хӗлӗш вӑхӑтӗнче ытти сасӑсене пӑрахӑҫлама сӗнет.
+- **Пӗр вӑхӑтра пӗр калаҫу кӑна.** Пӗр-пӗрин ҫине калаҫни деменципе пурӑнакан ҫынсемшӗн те, илтесси йывӑр ҫынсемшӗн те йывӑр, ҫавӑн пирки Alzheimer's Association [праздник рекомендацисенче](https://www.alz.org/help-support/caregiving/holidays) пӗлтерет.
+- **Уҫӑ тухмалли вырӑнсем уҫӑм пултӑр, шӑп кӗтес те хатӗр пултӑр.** Кам каясшӑн пулсан, вӑл ҫӑмӑл каятӑр, ун патне пӗрле ҫӳреме ӗҫчен пултӑр.**
 
-## Group activity ideas
+## Ушкӑн ӗҫ-хӗлӗшӗсем валли сӗнӳсем
 
-### Picture bingo
+### Сӑн бинго
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Сӑн бинго хисепсен вырӑнне уҫӑм сӑнсем лартать, сӑмахран, чайник, йытӑ е роза. Ҫавна май вӑрӑм хисепе ҫырса тӑма е пӗчӗк ҫырнине вулама кирлӗ мар.
 
-**How to run it:**
+**Мӗнле ирттермелле:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Пирӗн [Picture Bingo](/games/picture-bingo/) страницинчен «Пичетле» кнопкапа кашни ҫын валли пӗр карта пичетлӗр. Хулӑм картон тытма ҫӑмӑлрах. Тепӗр хут усӑ курма ламинаципе хупламалла.
+2. Тытма ҫӑмӑл пысӑк паллӑсем парӑр: покер чипӗсем, шӳше хупписем е картон квадратӗсем.
+3. Сӑна пӗлтерекен вырӑна телевизор е проектор ҫинче кӑтартӑр, сӑн ятне каланӑ чухне кашни ҫын ӑна куртӑр.
+4. Кашни сӑн хыҫҫӑн кӗскен чарӑнса, калаҫма сӗнӗр: «Кам та паллакан йытӑшӑн пирки каласа парма кӑмӑл пур-и?» е «Кунта мӗн куртаҫҫӗ?»
+5. Кашни карта туллинчен чарӑнмӑр. Пурте вӗҫленеҫҫӗ.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Йӗркелени:** Карта тулли йывӑр туйӑннисем валли сахалрах вырӑнлӑ усӑ курӑр. Пулӑшу кирлӗ ҫын валли пулӑшакан ҫывӑх сӑна кӑтартма пултарать. Хӑш-пӗрисем пӗлтересе тӑракан сӑна тытса, ушкӑна кӑтартасшӑн пулма пултараҫҫӗ.
 
-### Sing-alongs
+### Пӗрле юрлани
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Кӗвӗ — чи юратнӑ ушкӑн ӗҫ-хӗлӗшӗсенчен пӗри. Alzheimer's Association палӑртнӑ тӑрӑх, юлашки тапхӑрсенче те ҫын [такта ҫапма е ача чухне юрланӑ юрра юрлама](https://www.alz.org/help-support/caregiving/daily-care/art-music) пултарать.
 
-**How to run it:**
+**Мӗнле ирттермелле:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Ертсе пыракан ҫын килӗшнӗ юрӑсене мар, ҫынсем ҫамрӑк чухне юрланисене суйлӑр. Ҫемьесенчен ыйтӑр, кашни ҫын мӗн юратнӑ.
+- Рекламапа кӗвӗ мар янӑратӑр: ассоциаци пӗлтернӗ тӑрӑх, рекламӑ йӑлӑхтарма пултарать.
+- Вулакансем валли пысӑк ҫыруллӑ сӑмахсем парӑр, анчах та вулама кӗнтермен.
+- Шакӑлтатакан япаласем, алӑ парне е вӑлчӗ паракан тутӑрсем сӗнӗр.
+- Алӑ ҫупассине тата ҫӑмӑл хусканусене хаваслатӑр, саса та хаваслӑ шайра тытӑр.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Йӗркелени:** Хӑш-пӗрисем пур сӑмахне те юрлаҫҫӗ, хӑш-пӗрисем чӗрӗпе юрлаҫҫӗ, хӑш-пӗрисем урапа такта ҫупаҫҫӗ, хӑш-пӗрисем итлеме кӑна юратаҫҫӗ. Ку пурте те кирлӗ. Ытларах сӗнӳсем пирӗн [кӗвӗллӗ ӗҫ-хӗлӗш ертӳвӗнче](/activities/music/).
 
-### Reminiscence groups
+### Аса илӳ кружӗкӗсем
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Аса илӳ кружӗкӗ пӗр темӑна пуҫтарса пухӑнать, сӑмахран, шкул кунӗсем, пӗрремӗш машина, кухня е ҫулла. Унта сӑнсем, япаласем тата кӗвӗсемпе усӑ кураҫҫӗ. Тӗллев — хаваслӑ калаҫу, тӗрӗс аса илни мар.
 
-**How to run it:**
+**Мӗнле ирттермелле:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Пӗр темӑ суйлӑр та ҫынсем тытса пӑхма пултаракан темиҫе япала илӗр: алӑ миксерӗ, бейсбол перчатки, шлӑпа, тым сӑннӑ каталог.
+2. Япаласене пӗрре пӗр парса ҫитертӗр. Уҫӑм ыйтусем парӑр: «Кун пирки каласа парсамар-и?», «Кунта мӗн асӑнатаҫҫӗ?», «Кам ҫакӑн пек япалапа усӑ курнӑ?»
+3. Кашни хуравпа килӗшӗр. Датӑсене е факта тӳрлетмӗр.
+4. Калаҫӑва хаваслӑ аса илӳсем енне ертӗр. Рекомендацисенче пӗлтернӗ тӑрӑх, пӑхакансем аса илӳсене хуйхӑру паракан япаласенчен хаваслӑх паракан аса илӳсем енне куҫармалла.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) темӑсем тӑрӑх пичетлеме сӑн картисемпе уҫӑм ыйтусем парать; вӗсем калаҫу пуҫлама лайӑх пулӑшаҫҫӗ. Ытларах сӗнӳсем пирӗн [аса илӳ ертӳвӗнче](/activities/reminiscence/).
 
-### Finish the saying
+### Калӑпа вӗҫле
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Паллӑ калӑпсем (сӑмахран, «А penny saved is a penny...») пурне те пӗрле вӗҫӗсене калама сӗнеҫҫӗ. [Finish the Saying](/games/finish-the-saying/) вӑййине пысӑк экран ҫинче кӑтартӑр та ушкӑн пӗр сасӑпа хуравласӑн. Кашни калӑп хыҫҫӑн калаҫма сӗнекен ыйту пур. Никам та вӗҫне каламасан, ӑна кӑтартса каҫӑр та малалла иртӗр. Тӗрӗс те, тӗрӗс мар те ҫук.
 
-### Large-print word search, together
+### Пысӑк ҫыруллӑ сӑмах шыравӗ — пӗрле
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Пысӑк ҫыруллӑ [Word Search](/games/word-search/) вӑййине экран ҫине кӑтартса, сӑмахсене пӗрле шырар, е хӑйсене сӗтел хушшинче ӗҫлес кӑмӑл пулнисем валли пичетлесе парӑр. Сӑмахсем ҫурпа кӑна та аялла кӑна каҫаҫҫӗ.
 
-### Gentle movement
+### Ҫӑмӑл хускану
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Ларса тунӑ хусканусем, ҫӑмӑл туп е шарик парса ҫитерни, е паллӑ кӗвӗпе пукан ҫинче ташӑ. Кашни хусканӑва сӑмахпа каласа мар, кӑтартса парӑр.
 
-### Sorting and matching at the table
+### Сӗтел хушшинче уйӑрни тата пӗрлештерни
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Виҫӗ-тӑватӑ ҫынлӑ пӗчӗк сӗтелсем хушшинче сӑнсене, тутӑр вырӑнӗсене е пӑхар пахлавӗсене пӗрле уйӑрма пулать. Экран ҫинче [Picture Pairs](/games/picture-pairs/) вӑййине сӑнсене уҫӑ тытса вылӑма пулать: пӗр ҫын ҫине пусать, сӗтел хушшинчи ҫынсем кашни сӑн тӑрӑх калаҫаҫҫӗ.
 
-## How do I use your games on a big screen?
+## Сирӗн вӑййӑсене пысӑк экран ҫинче мӗнле усӑ курмалла?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Пирӗн вӑййӑсем веб браузерта ӗҫлеҫҫӗ, ҫавна май вӗсене телевизор е проектор ҫинче ним те лартса кӗртместех усӑ курма пулать.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Вӑййӑна экран ҫине ҫыхӑннӑ ноутбук е планшетра уҫӑр (утӑрпа е трансляципе).
+2. Браузера тулли экран туӑр та саса хаваслӑ шайӗ патне лартӑр.
+3. Ушкӑн суйланӑ чухне ертсе пыракан ҫын ҫине пусӑн. Е планшета хутшӑнас кӑмӑл пур ҫынна парса ҫитерӗр.
+4. Ушкӑн хатӗр пулсан, чарӑнӑр. Вӑййӑсенче таймер, очко е вӗҫлеме ҫӳмлев ҫук.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) тата [Conversation Cards](/games/conversation-cards/) ушкӑн валли чи лайӑх килӗшеҫҫӗ. Пур варианта [вӑййӑсем страницинче](/games/) курма пулать.
 
-## How do I adapt one activity for mixed abilities?
+## Пӗр ӗҫ-хӗлӗше тӗрлӗ майлӑ ҫынсем валли мӗнле йӗркелемелле?
 
-Plan at least three ways to join every activity.
+Кашни ӗҫ-хӗлӗшпе хутшӑнмалли сахалтан та виҫӗ май йӗркелӗр.
 
-| Activity | More independent | Some support | Most support |
+| Ӗҫ-хӗлӗш | Хӑй тӑрӑхрах | Пӗр пай пулӑшу | Ытларах пулӑшу |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Сӑн бинго | Хӑйӗн сӑнӗсене тупать тата хуплать | Пулӑшакан кӑтартать; ҫын хуплать | Сӑн картине тытать; итлет тата сӑнать |
+| Пӗрле юрлани | Юрлать, тепӗр юрра суйлать | Чӗрӗпе юрлать, алӑ ҫупать, шакӑлтатакан япала усӑ курать | Итлет, тутӑр тытать, алӑ ҫапать |
+| Аса илӳ | Калавсем калать | Ҫапла/ҫук пек хуравлать е кӑтартать | Япалана тытать, туйса пӑхать |
+| Сӑмах шыравӗ | Хӑйӗн пичетлӗ копипе ӗҫлет | Пулӑшаканпа пысӑк экран ҫинче тупать | Сӑмахсене вуланӑ чухне итлет |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Юлашки тапхӑрсенче пулакан ҫынсем валли NHS палӑртнӑ тӑрӑх, ӗҫ-хӗлӗшсем ҫӑмӑлрах пулмалла тата туйӑмсене ытларах ҫивӗчлемелле: кӗвӗ, тытса пӑхмалли япаласем, алӑ массажӗ. Ушкӑн вӑхӑтӗнче е хыҫҫӑн пӗр ҫынпа кӑна кӗскен вӑхӑт ирттерни вӗсемшӗн ушкӑнран лайӑхрах пулма пултарать. Тӗплӗнрех [юлашки тапхӑрсенчи ӗҫ-хӗлӗшсем](/activities/late-stage/) страницинче.
 
-## How should leaders talk during a group?
+## Ертсе пыракансем ушкӑнра мӗнле калаҫмалла?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Кашни хут хӑвӑра палӑртӑр, кашни ҫын килӗшекен ятпа чӗнӗр.
+- Майӗпен калаҫӑр, пӗрре пӗр йӗрке парӑр, каличчен кӑтартӑр.
+- «... пирки каласа парсамар-и?» пек уҫӑм чӗннисем е ҫӑмӑл суйлавсем парӑр, «Аса илете-и...?» пек ыйтса тӗрӗслевсем ан парӑр.
+- Ан тӳрлетӗр. Кашни хутшӑнӑва тав тӑвӑр.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Кун пирки тӗплӗнрех пирӗн [ҫыхӑну сӗнӗвӗсем](/caregiving/communication-tips/) страницинче.
 
-## Ending well, and letting people leave
+## Лайӑх вӗҫлени тата ҫынсене кайма ирӗк пани
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Чарӑнни — лайӑх результат. Кам ӗлӗкнӗ, лӑпкӑланнӑ е хуйхӑрнӑ тесе сӑнатӑр; пулӑшакан ҫын валли ҫӳреме е ытти шӑп вырӑнта лартма сӗнмелле. Юрӑ юрланӑ чухне шӑтса каякан ҫын ҫӑмӑл хаваслӑнах туйма пултарать.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Кашни ушкӑн ӗҫ-хӗлӗшне пӗр евӗрлӗ вӗҫлӗр: паллӑ юрӑпа е ҫӑмӑл тав тунипе. Ҫавна май вӗҫӗ лӑпкӑ тата кӗтӳллӗ пулать. Хыҫҫӑн мӗн лайӑх пынӑ, кам мӗнпе киленнӗ тесе ҫырса хӑварӑр. Ку ҫырнисем тепӗр хут лайӑхрах йӗркелеме пулӑшаҫҫӗ.

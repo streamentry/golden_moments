@@ -1,32 +1,34 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Sammisassat dementia akunnermili"
+seoTitle: "Dementia akunnermili: sammisassat ajornanngitsut"
+description: "Sammisassat ajornanngitsut dementia akunnermili: suliassat nalinginnaasut, erinarsuutit, assit aamma spilit ajornanngitsut, pilersaarusiornerlu malittarisassallu."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Dementia akunnermili sammisassat pitsaassusarput nalunartitat, naatsut
+  ingerlatulluunniit ataatsimut avissaartinneqartussat: atisanik imertitsinerit,
+  aalersaatinik naapitsinerit, poortunik errorsinerit, erinarsorneq,
+  pisuttuarneq ilitsersorneqarlunilu, assinik katalogit aamma spilit
+  assilinnik ajornanngitsut. Piareersigit, ingerlattaasaq siulleq takutikkuk,
+  sunniutit ajornarnerpaat tigukkit, kiisalu sammisassaq siunertaqarluni
+  misigisaqartitsiguk. Nunanngatippaa, nuannerunnaarpat unitsikkuk.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Suliassat angerlarsimaffimmi nalinginnaasut ajorinnginnerusarput, iluaqutaasut inuttullu misigisarami."
+  - "Takutikkit oqaluttuunani, ingerlattaasaq ataaseq ataasiarlutit siulittaruk, apeqqummullu ammasumut sanilliullugu qinersineq marluk nassiukkit."
+  - "Sunniutaasoq ajornarnerpaaq nammineq tiguk, inuk nuannaartitsisinnaasaanik nammineq suliartissinnaaqqullugu."
+  - "Eqqissisimannginneq amerlanertigut inuk suliassaqarusuttartoq ersersinniassavaa. Patillugu 'naamik' sammisassaq tulluarnaq nassiuttaruk."
+  - "Isiginnaarneq, ikioqqaarneq imaluunniit piffissaanngilaq unitsitsineq tamarmik ajorunnaapput."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Sammisassat suut dementia akunnermili iluaqutaappat?"
+    a: "Sammisassat naatsut, nalunartitat, assanik ulluinnarlutillu ajorinnginnerusarput: seerit imertiterneri, aalersaatit naapinneri, poortut errorsinerat, nerrivimmut pilersitsineq, erinarsuutit ilikkakkani qituttorlugit erinarsorneq, pisuttuarneq ilitsersorneqarlunilu, assinik kataloginik takunnikkut aamma spilit assilinnik ajornanngitsut. Ataaseq tamarmik ingerlattaasanik ataasiinnik avissaartiguk suleqatigiillutillu."
+  - q: "Qanoq ilillunga inuk dementiaqarluartoq sammisassamut aallartitsisinnaavara?"
+    a: "Tamaasa piareersikkit, kingornalu nammineq aallartillutit ikiortinneqarnissaanik qinnuiguk: 'Seerit uku ikiorserfigisinnaavinga?' Inuit amerlasuut ilaasinnaarusuttarput, kisianni aallartitsineq ajornakusinnaavaat. Ingerlattaasaq siulleq takutitsineq nassuiaatinermit ajorinnginnerusarpoq."
+  - q: "Susoqaraanga, nammineq arlaanik uteqattaartoq?"
+    a: "Uteqattaarneq annikinnerusumik ajoqusersinnaavoq, inullu ulapittarumasortoq imaluunniit eqqissisinnaajumasortoq ersersinniassavaa. Naammaginngikkaanni, nukissaq tulluartoq sammisassaq nassiuttaruk, soorlu kuffertat imertitassat imerneqarsinnaasut imaluunniit erinarsuut peqateqarluni erinarsorneqassasoq."
+  - q: "Sammisassaq kukkusorlugu suliarpat susassaqaraanga?"
+    a: "Ajoqusiunngippat, taamak ineruk. Seerit allaanngorlugu imertinneqaraluartut imaluunniit siutit sukumiikkat orneqarsimanngikkaluartut pingaaruteqanngillat. Naammagittaaseq naalliuttuunnaavoq, kisianni inummut tulluarsuuvoq nammineq misigisinnissaminut atorsinnaanermullu."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +50,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Dementia akunnermili pisarnera nalinginnaasumik sivisuusarpoq, tassanilu sammisassat ikiorserneqarnissamik ilungersunartumik pisariaqartilersarput. Oqaatsit ammarnerusarput, ingerlattaasallu akulerineqarsinnaasarput, kiisalu aallartitsineq ajornakusinnaasarpoq. Kisianni iluaqutaajumasuneq peqataajumasunerlu amerlanertigut sinneruttarput. Piareersaanermik annikitsunnguamik, inuk dementia akunnermiliittut amerlaqisunik nuannersinnaasarpoq, ingammik suliassanik nalunartitanik, erinarsuutinik assinikullu illit saninniit suleqatigiillutik.
 
-## What activities work well in middle-stage dementia?
+## Sammisassat suut dementia akunnermili iluaqutaappat?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Sammisassat naatsut, nalunartitat, assanik ulluinnarlutillu, ingerlattaasanillu ataatsimut avissaartinneqartussat, ajorinnginnerusarput. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) oqaluttuarpoq nutaanik ersersuinissaq pisariaqanngitsoq: sammisassat ulluinnarni inuunermi ilaanngorsinnaapput, soorlu unnukkut nerisassaq katisimik sanaajuk, naatsiivik isumagineq, erinarsuutit tusarneq imaluunniit pisuttuarneq.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ersersitsivoq inuit manna killiffimmiittut amerlanertigut iluaqutaasutut misigisorusuttartut imaluunniit sumik paarsisorusuttartut, sammisassanillu aallartissaanermut ingerlateqqitaanermullu ikiorserneqarnissartik pisariaqartinneqartartoq. Akunnerup sammisassai ilannguppaat atisanik imertitsineq, poortunik errorsineq, aalersaatinik naapitsineq, timikkut nukikkalaarneq ajornanngitsoq, erinarsuutinik ilikkakkanik tusarnaalluni qitunneq, pisuttuarneq ilitsersorneqarlunilu, erinarsorneq peqateqarluni, qalipaatinik titartitsineq ajornanngitsoq kiisalu assinik kataloginik takunnikkut.
 
-## How do you set up an activity so it works?
+## Qanoq sammisassaq iluatsittumik pilersaarusiorpara?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Sammisassat amerlasuut iluatsinnissaat imaluunniit iluatsinnginnissaat pilersaarusiornerup nalaani erseqqarpoq. Iliuusissat ukua, [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities)-imit aammalu [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)-imit, annersaalluinnarnerupput:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Inissaq eqqilaaruk.** TV qamitikkuk, matu matuguk, aammalu sammisassap pisariaqartitai kisimik saqqummiikkit.
+2. **Nammineq aallartigit.** Imertitserneq imaluunniit akulunneq aallaruk, peqataasinnaanissaanut qinikkullu: "Una ikiorserfigisinnaavinga?"
+3. **Takutikkit, kingornalu utaqqigit.** Ingerlattaasaq ataaseq takutikkuk. Tikkuaqqukkut imaluunniit assakkut tikikkit, soorlu pooq sumi inissinneqassanersoq takutillugu.
+4. **Ingerlattaasaq ataaseq ataasiarlutit nassiuk.** "Akunneratigut imertikkuk" ammarneruvoq "uku imertikkit qalipaatillu tamarmik malillugit toqqortikkit" kiisalu.
+5. **Qinersineq marluk nassiukkit, apeqqut ammasoq pinago.** "Seerit tungujortut imaluunniit qaqortut?" akineqaruminarneruvoq "Suna suliarusuppiuk?" aammalu.
+6. **Sunniutaasoq ajornarnerpaaq nammineq suliaruk.** Ivit uuttortarpat, taanna akuluppoq. Ivit mersorpaluttarpat, taanna nuilattoqarpoq.
+7. **Siunertaqalersiguk.** "Serviettit uku sapaatip akunneranut unnukkumut atorneqarumaarput" suliassaq pisoqaassusilersitsinniassavaa.
+8. **Isiginnaarnissaminik qinnuiguni, isiginnaqarsinnaavoq.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) erseqqissaartitsivoq isiginnaanerlu nuannersinnaasoq.
 
-## Activity ideas for the middle stage
+## Dementia akunnermili sammisassat siunnersuutaat
 
-### Useful jobs
+### Suliassat iluaqutaasut
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Seerit aammalu errortitat imertikkit.** Annikkitsut, tuittoqisut ajornannginnerupput. Kuffertat kiatsut imertinneqarsinnaapput, ajuarsarneqarlutillu imertinneqarsinnaallutik.
+- **Aalersaatit naapikkit.** Allaanngilluinnarnerusut naapissat qassit annikitsut aallartiffigikkit. Qalipaatinut kisimik immikkoortiternerlu ajorunnaanngilaq.
+- **Poortut aserorsinnaanngitsut errorsikkit imaluunniit pannikkit.** Imeq kiasoq sappiullu assani nuannersarput. Ingerlatsilluni pannerneq tukinik ajornannginneruvoq.
+- **Nerrivimmi pilersitsigit.** Ataaseq ataasikkut toqqortakkat ingerlateqqikkit, illillu inississaq ataaseq maligassatut pilersissaruk.
+- **Unnukkut nerisassiornerni ikiortigit.** Naatitat errorsinerat, salatit agguarneri imaluunniit pottussusek akulunneq. Pana aammalu kiassuseq ivit isumagissavatit.
+- **Saloqqinnermi, eqqilaarneq imaluunniit salinneq.** Allaffissaq salissallugu, imaluunniit saloqqunneq silaannarmik sakkutitsisinnaalluni.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Tassa amerlanerit takukkit [suliassat angerlarsimaffimmi](/activities/household-tasks/).
 
-### Music and movement
+### Erinarsuut aamma nukissaq
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Erinarsuutit ilikkakkat erinarsorlugit.** Ivit erinarsornerlutit aallartigit; inuit amerlasuut ukiuni amerlasuni ilikkaminik erinarsuutini peqattaasarput. Takukkit [erinarsuutigut sammisassat](/activities/music/).
+- **Kiffaanngitsumik qititsigit.** Sissunneq, pattaajarneq imaluunniit nukissaq nuannersumik misigisat malillugu. Ingerlatsillunilu ajorunnaavoq.
+- **Ballonimik milluartitsigit.** Arriitsumik ingerlaartarpoq, aammalu ingerlatilluni tigusaruminarpoq.
+- **Pisuttuarneq ilitsersorneqarlunilu.** Aqqut naatsoq ilikkagaq peqatigisarlugu pisuttuaqqigit, tulluaraangallu talerpigisarlugu.
 
-### Pictures and stories
+### Assit oqaluttuarisaanillu
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Assinik kataloginik takunnikkut.** Takusat pillugit oqaaseqaatit, apeqqummilluunniit nassataqanngitsumik: "Biili taanna takujuk. Oqaluttuaraannga." Takukkit [eqqaamasat pillugit sammisassat](/activities/reminiscence/).
+- **Oqalugiarutit atukkit.** [Oqalugiarutit](/games/conversation-cards/) assimik apeqqummillu ammasumik, misiligummik nassataqanngitsumik, ataqatigiissapput.
+- **Filmi pisoqaasoq peqatigisarlugu isiginnaarlugit.** Ilikkagaq toqqaruk, qanittumiinnarlutillu unitsitsillutillu unitsittariaqarpat.
 
-### Simple, pressure-free games
+### Spilit ajornanngitsut akiueqanngitsut
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Assit naapinnerat assit takuneqarlutik.** [Assit naapinnerat](/games/picture-pairs/) assit ersittumillu takuneqarnissaat мүмкіндік береді, taamaasilluni maluginiarnerup eqqaamasaateqarani aalajangiiffigineqarsinnaalluni.
+- **Assi tulliussaq nassaariuk.** [Assi tulliussaq nassaariuk](/games/find-the-same/) assimik ataatsimik qinersinillu marluk sisamalluunniit takutitsivoq.
+- **Peqatigisarlutit immikkoortiteritsigit.** [Peqatigisarlutit immikkoortiteritsigit](/games/sort-together/) atisanik immikkoortiterutitut misigisinnaavoq: assi tooruk, kingornalu kufferti tulliussaq.
+- **Assinik bingo.** [Assinik bingo](/games/picture-bingo/) ilaqutariinni inuiaqatigiinnilu katerisimanermi iluaqutaasarpoq.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Spili kamajatsitsilersippat, unitsikkuk allamillu aallartigitsi. Takukkit [qanoq peqatigisarluta spilluta](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Eqqissisimannginneq sammisassamut allanngortillugu
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Eqqissisimanngitsuliorneq imaluunniit uteqattaarneq amerlanertigut pissutaqarpoq. Family Caregiver Alliance erseqqissaartitsivoq inuk closet-imik immeruttartoq ulapittarumasinnaasoq iluaqutaasumikullu misigisumasinnaasoq. Alzheimer's Association siunnersuuppoq nukissaq taamaattoq sammisassamut tulluarmut sangutilersinniarlugu, unitsitinagu.
 
-| What you see | Something to offer |
+| Takusat | Nassiunneqarsinnaasoq |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Allaffissaq assallugu imaluunniit ikillugu | Ersaat salinneqarsinnaasoq aammalu allaffissaq salinneqassasoq qinnutigineqarpoq |
+| Isikkat eqqissisimanngitsut imaluunniit pattattut | Erinarsuut pattattaqarluartoq pattattussallugu imaluunniit pattaajartumik |
+| Skuffit closet-illu imaarneqartartut | Kuffertik atisanik imaluunniit errortitanik imertitassanik immikkoortiternissamullu |
+| Apeqqut ataaseq uteqattaarluni aperineq | Eqqissisitsitsinneq, kingornalu erinarsuut suliassarlu peqateqartinneqartaq |
+| Angalaarfiginninneq | Peqatigisarluta pisuttuarneq, imaluunniit suliassaq sumik nassataqartoq |
+| Unnup nalaani eqqissisimannginneq | Sammisassaq eqqissisoq ilikkagaq, qaamarnarlu pitsaanerulluni; takukkit [unnup nalaani eqqissisimannginneq](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Qaqugorlu unitsitsinissaq imaluunniit sanilliussineq
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Qasunnermik, kamajatsitsinermik, kanngunermik imaluunniit nuannaajunnaarnermik ersersitsisoqarpat unitsikkit, soorlu eqqissisimannginneq, qisuariarneq, sunik ajartorneq imaluunniit "sapiinngilanga" oqarneq. Alzheimer's Association siunnersuuppoq ullup nalaani allami misileeqqinneq imaluunniit sammisassaq ajornannginnerulersinneq. Pinngitsaalisassanngilatit. Akerliunneq ersinermit imaluunniit suliassap ajornartoorneranit pisinnaavoq; takukkit [naamik oqaraangat](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Piffissaanngilaq unitsitsinissaq ajorunnaanngilaq. Tiimik imertarlutillu peqatigisarluta ingerlasinnaavugut. Pisinnaassusaatit allanngoriartorneranni, siunnersuutit ukua [dementia kingulliup nalaani sammisassat](/activities/late-stage/) tulluarnerusinnaapput, aammalu [101 sammisassat](/activities/ideas/) misiliutissat amerlasoorpassuaqassapput.

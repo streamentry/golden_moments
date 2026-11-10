@@ -1,32 +1,33 @@
 ---
-title: "Muisteluaktiviteetit: muistolaatikot, elämäkertakirjat ja valokuvat"
-seoTitle: "Muisteluaktiviteetit dementiaan: ideoita ilman tenttiä"
-description: "Miten jakaa muistoja dementiaa sairastavan kanssa ilman tenttaamista: valokuvat, muistolaatikot, elämäkertakirja ja lauseet, jotka pitävät tunnelman rentona."
+title: "Muistelun keinot: muistilaatikot, elämäntarinat ja kuvat"
+seoTitle: "Muistelun keinot muistisairauden kanssa: ei kyselyä"
+description: "Miten jakaa muistoja muistisairaan ihmisen kanssa kysymättä: kuvien katselu, muistilaatikot ja elämäntarinakirjat, lempeillä ilmauksilla."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Muistelu tarkoittaa menneisyyden nauttimista yhdessä valokuvien, esineiden,
-  musiikin ja tarinoiden kautta. Tehkää muistolaatikko, koostakaa yksinkertainen
-  elämäkertakirja tai katsokaa valokuvia rinnakkain. Älkää koskaan tenttaako:
-  jättäkää pois ”Muistatko?” ja ”Kuka tämä on?” ja käyttäkää avoimia kutsuja
-  kuten ”Kerro tästä”. Lämmin keskustelu on tärkeämpää kuin tosiasioiden oikeellisuus.
+  Muistelu on menneiden hetkien jakamista yhdessä valokuvien, esineiden,
+  musiikin ja tarinoiden avulla. Voit tehdä muistilaatikon, koota yksinkertaisen
+  elämäntarinakirjan tai katsoa kuvia vierekkäin. Älä kysy muistoja koettelevia
+  kysymyksiä: jätä pois "Muistatko?" ja "Kuka tämä on?" ja käytä avoimia
+  kutsuja, kuten "Kerro tästä." Lämmin hetki yhdessä on tärkeämpää kuin
+  yksityiskohtien paikkansapitävyys.
 keyPoints:
-  - "Muistelu on keskustelu, ei koe. Tarkkuudella ei ole väliä, nautinnolla on."
-  - "Korvatkaa ”Muistatko…?” ja ”Kuka tämä on?” kommenteilla ja kutsuilla kuten ”Kerro tästä päivästä”."
-  - "Muistolaatikko esineistä henkilön elämästä antaa käsille ja keskustelulle jotakin, mihin tarttua."
-  - "Elämäkertakirja auttaa perhettä, vierailijoita ja hoitohenkilökuntaa tuntemaan henkilön, ei vain diagnoosia."
-  - "Jos muisto tuo surua, lohduttakaa ensin ja siirtykää sitten hellästi eteenpäin."
+  - "Muistelu on keskustelua, ei koetta. Tarkkuus ei ole tärkeintä, vaan mukava yhdessäolo."
+  - "Korvaa kysymykset kuten 'Muistatko...?' ja 'Kuka tämä on?' havainnoilla ja kutsuilla, kuten 'Kerro tästä päivästä.'"
+  - "Muistilaatikko, jossa on ihmisen elämään liittyviä esineitä, antaa käsille ja keskustelulle jotain konkreettista."
+  - "Elämäntarinakirja auttaa perhettä, vierailijoita ja hoitohenkilökuntaa tuntemaan ihmisen, ei vain diagnoosia."
+  - "Jos muisto herättää surua, lohduta ensin ja siirry lempeästi eteenpäin."
 faq:
-  - q: "Mitä muistelu on dementiaa sairastavalle?"
-    a: "Muistelu on muistojen ja aiempien kokemusten jakamista, usein valokuvien, esineiden, musiikin tai videoiden avulla. Se voi tapahtua kahden kesken tai ryhmässä. Tavoitteena on mukava ja merkityksellinen keskustelu, ei sen koettelu, mitä henkilö muistaa."
-  - q: "Miksi en saisi kysyä ”Muistatko?”"
-    a: "Muistia koettelevat kysymykset voivat saada henkilön tuntemaan itsensä noloksi tai ahdistuneeksi, kun vastaus ei tule mieleen. National Institute on Aging listaa kysymisen siitä, muistaako henkilö jotakin asiaa tai ihmistä, asioiksi, joita kannattaa välttää. Kommentoikaa sen sijaan sitä, mitä näette, ja antakaa henkilön lisätä mitä haluaa."
-  - q: "Mitä muistolaatikkoon kannattaa laittaa?"
-    a: "Valitkaa turvallisia, tukevia esineitä, jotka liittyvät henkilön elämään: työtavaroita, harrastusvälineitä, lempihuivi, postikortteja, reseptikortteja, urheilumuistoja tai valokuvien kopioita. Vältä teräviä esineitä, pieniä esineitä, jotka voisi niellä, ja korvaamattomia alkuperäiskappaleita."
-  - q: "Entä jos he muistavat asiat väärin?"
-    a: "Antakaa olla. Jos äitinne sanoo, että valokuvassa on hänen sisarensa, vaikka se on hänen serkkunsa, se on hyvä. Korjaaminen muuttaa lämpimän hetken koetukseksi. Seuratkaa tarinaa, jota he kertovat, ja nauttikaa siitä yhdessä."
+  - q: "Mitä muistelu on muistisairaan ihmisen kanssa?"
+    a: "Muistelussa jaetaan muistoja ja menneitä kokemuksia, usein valokuvien, esineiden, musiikin tai videoiden avulla. Sitä voi tehdä kahdestaan tai ryhmässä. Tavoitteena on miellyttävä ja merkityksellinen keskustelu, ei sen testaaminen, mitä ihminen muistaa."
+  - q: "Miksi minun ei kannata kysyä 'Muistatko?'"
+    a: "Muistia testaavat kysymykset voivat saada ihmisen tuntemaan itsensä noloksi tai ahdistuneeksi, jos vastausta ei tule mieleen. National Institute on Aging mainitsee vältettäviksi asioiksi sen, että kysytään, muistaako joku jonkin asian tai henkilön. Kommentoi sen sijaan sitä, mitä näet, ja anna ihmisen lisätä haluamansa asiat."
+  - q: "Mitä muistilaatikkoon voi laittaa?"
+    a: "Valitse turvallisia ja kestäviä esineitä, jotka liittyvät ihmisen elämään: työvälineitä, harrastustarvikkeita, lempihuivin, postikortteja, reseptikortteja, urheilumuistoja tai valokuvien kopioita. Vältä teräviä esineitä, pieniä esineitä, jotka voi niellä, ja korvaamattomia alkuperäiskappaleita."
+  - q: "Entä jos hän muistaa asiat väärin?"
+    a: "Anna asian olla. Jos äitisi sanoo kuvan esittävän hänen siskoaan, vaikka kyseessä on serkku, se ei haittaa. Oikaiseminen tekee lämpimästä hetkestä kokeen. Seuraa hänen kertomaansa tarinaa ja nauttikaa siitä yhdessä."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Muistelu tarkoittaa yksinkertaisesti menneisyyden nauttimista yhdessä. Monille dementiaa sairastaville kymmenien vuosien takaiset muistot ovat selvempiä kuin tämän aamun tapahtumat. Valokuvat, tutut esineet, musiikki ja tarinat voivat avata nuo muistot ja antaa teille jotakin lämmintä jaettavaksi. Yksi sääntö: se on keskustelu, ei koskaan tentti.
+Muistelu tarkoittaa yksinkertaisesti menneiden hetkien jakamista yhdessä. Monilla muistisairautta sairastavilla ihmisillä vuosikymmenten takaiset muistot voivat säilyä selkeämpinä kuin aamun tapahtumat. Valokuvat, tutut esineet, musiikki ja tarinat voivat avata näitä muistoja ja antaa teille jotain lämmintä jaettavaa. Yksi sääntö on tärkein: kyse on keskustelusta, ei kyselystä.
 
-## Mitä muistelu on, ja miten se eroaa tentaamisesta?
+## Mitä muistelu on, ja miten se eroaa kyselystä?
 
-Muistelu on muistojen jakamista valokuvien, esineiden, musiikin tai videon avulla henkilön omaan tahtiin. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) kuvaa sitä menneiden kokemusten ja tarinoiden jakamisena valokuvien, esineiden, videoiden tai musiikin avulla kirjassa tai tabletilla. Tentaaminen on eri asia: se pyytää henkilöä tuottamaan oikean vastauksen, ja se voi tuoda nolostumista iloin sijaan.
+Muistelu on muistoista keskustelemista valokuvien, esineiden, musiikin tai videoiden avulla ihmisen omassa tahdissa. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) kuvaa sitä menneiden kokemusten ja tarinoiden jakamisena valokuvien, esineiden, videoiden tai musiikin avulla, kirjana tai tabletilla. Kysely on eri asia: siinä ihmiseltä odotetaan oikeaa vastausta, mikä voi tuottaa noloa oloa nautinnon sijaan.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) luettelee kysymisen siitä, muistaako henkilö jotakin asiaa tai ihmistä, asioiksi, joita kannattaa välttää. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ehdottaa välttämään lyhytkestoiseen muistiin nojaavia kysymyksiä ja puhumaan sen sijaan kauempana olevasta menneisyydestä.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) mainitsee vältettäviksi asioiksi sen, että ihmiseltä kysytään, muistaako hän jonkin asian tai henkilön. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ehdottaa, että vältetään lyhytaikaiseen muistiin tukeutuvia kysymyksiä ja puhutaan mieluummin kauempien vuosien asioista.
 
-| Sen sijaan, että sanoisitte | Kokeilkaa |
+| Sen sijaan että sanoisit | Kokeile tätä |
 | --- | --- |
-| ”Muistatko tämän?” | ”Tämä näyttää onnelliselta päivältä. Kerro siitä.” |
-| ”Kuka tämä on?” | ”Tässä on täti Ruusu rannalla. Katso tuota hattua.” |
-| ”Mikä vuosi tämä oli?” | ”Tämä näyttää vanhalta talolta. Millaista siellä asuminen oli?” |
-| ”Ei, tuo ei ole Bill, vaan Frank.” | ”Hän näyttää hauskalta.” |
-| ”Kerroit sen jo.” | ”Rakastan tuota tarinaa.” |
+| ”Muistatko tämän?” | ”Tämä näyttää mukavalta päivältä. Kerro siitä.” |
+| ”Kuka tämä on?” | ”Tässä on Liisa-täti rannalla. Katsopas sitä hattua.” |
+| ”Miltä vuodelta tämä on?” | ”Tämä näyttää vanhalta kodilta. Millaista siellä oli asua?” |
+| ”Ei, tuo ei ole Matti, vaan Pekka.” | ”Hän näyttää oikein hauskalta.” |
+| ”Kerroit sen jo.” | ”Pidän tuosta tarinasta.” |
 
-## Miten puhun valokuvista tentaamatta?
+## Miten kuvista voi puhua kysymättä?
 
-Aloittakaa siitä, mitä näette, ja jättäkää tilaa henkilölle lisätä jotakin, jos hän haluaa.
+Aloita siitä, mitä näet, ja jätä tilaa sille, että ihminen voi lisätä omia ajatuksiaan, jos haluaa.
 
-1. **Istukaa rinnakkain.** Pitäkää albumia välissänne, jotta katsotte yhdessä, ettekä tenttaa pöydän yli.
-2. **Valitkaa muutama kuva.** Viisi hyvää kuvaa on parempi kuin koko laatikollinen. Isot, selkeät kuvat toimivat parhaiten.
-3. **Nimetkää ihmiset itse.** ”Tässä olette sinä ja isä hääpäivänänne” poistaa paineen.
-4. **Kommentoikaa yksityiskohtia.** Vaatteet, autot, ruoka, sää, kasvot. ”Mikä auto. Näyttää niin kiiltävältä.”
-5. **Kutsukaa, älkää vaatikaa.** ”Kerro minulle…” tai ”Mitä huomaat?” Hiljaisuus on hyväksyttävää.
-6. **Seuratkaa hänen johdatustaan.** Jos hän puhuu aivan muusta, mene mukaan.
-7. **Lopettakaa, kun se on mukavaa.** Sulkekaa albumi ennen kuin väsymys iskee.
+1. **Istukaa vierekkäin.** Pitäkää albumia yhdessä niin, että katsotte kuvia yhdessä ettekä toisianne vastapäätä kuin kokeessa.
+2. **Valitkaa muutama kuva.** Viisi hyvää kuvaa on parempi kuin kokonainen laatikollinen. Suuret ja selkeät kuvat toimivat parhaiten.
+3. **Nimeä ihmiset itse.** ”Tässä olet sinä ja isä hääpäivänänne” poistaa paineen.
+4. **Kommentoi yksityiskohtia.** Vaatteita, autoja, ruokaa, säätä, ilmeitä. ”Onpa hieno auto. Se näyttää niin kiiltävältä.”
+5. **Kutsu, älä vaadi.** ”Kerro tästä...” tai ”Mitä huomaat?” Hiljaisuus on sallittua.
+6. **Seuraa hänen johdollaan.** Jos hän alkaa puhua jostain aivan muusta, kulje mukana.
+7. **Lopettakaa, kun tunnelma on hyvä.** Sulkekaa albumi ennen kuin väsymys alkaa näkyä.
 
-Valmiita kuvakehotuksia varten kokeilkaa [keskustelukortteja](/games/conversation-cards/). Oman perheen valokuvista hellävaraisen yhdistelypelin tekemiseen kokeilkaa [valokuvaparit](/games/photo-pairs/) -peliä; valitsemanne kuvat pysyvät selaimessanne.
+Valmiita kuvavihjeitä varten voit kokeilla [keskustelukortteja](/games/conversation-cards/). Jos haluat tehdä omista perhekuvistasi lempeän yhdistelypelin, kokeile [kuvapareja](/games/photo-pairs/); valitsemasi kuvat pysyvät selaimessasi.
 
-## Miten teen muistolaatikon?
+## Miten muistilaatikko tehdään?
 
-Muistolaatikko on säiliö esineitä henkilön elämästä, joita voi käsitellä ja joista voi puhua.
+Muistilaatikko on rasia, jossa on ihmisen elämään liittyviä esineitä, joita voi koskea ja joista voi keskustella.
 
-1. **Valitkaa tukeva laatikko,** jonka on helppo avata, kuten kenkälaatikko, hattulaatikko tai pieni puinen arkku.
-2. **Valitkaa teema tai sekoitus.** Työ, harrastus, paikka, vuosikymmen tai vähän kaikkea.
-3. **Kerätkää turvallisia esineitä.** Viisi–kymmenen esinettä riittää alkuun.
-4. **Käyttäkää kopioita arvokkaista asioista.** Kopioikaa korvaamattomat valokuvat ja asiakirjat ja pitäkää alkuperäiset turvassa.
-5. **Ottakaa esineitä ulos yksi kerrallaan.** Ojentakaa yksi, sanokaa siitä jotakin ja katsokaa, mihin keskustelu johtaa.
+1. **Valitse tukeva laatikko**, joka on helppo avata, esimerkiksi kenkälaatikko, hatturasia tai pieni puinen arkku.
+2. **Valitse teema tai sekoitus.** Työ, harrastus, paikka, vuosikymmen tai vähän kaikkea.
+3. **Kerää turvallisia esineitä.** Aluksi riittää viidestä kymmeneen esinettä.
+4. **Käytä kopioita arvokkaista asioista.** Kopioi korvaamattomat valokuvat ja asiakirjat ja säilytä alkuperäiset turvallisesti.
+5. **Ota esineet esiin yksi kerrallaan.** Anna yksi esine käteen, sano siitä jotakin ja katso, mihin keskustelu johtaa.
 
-Ideoita sisällytettäväksi:
+Esineideoita:
 
-- **Työ:** nimilappu, pieni työkalu, univormun merkki, pääkirja, sairaanhoitajan rintaneula, kahvilan keittokirja.
-- **Koti:** reseptikortti hänen käsialallaan, keittiöpyyhe, lempihuivi tai solmio.
-- **Harrastukset:** kalastusvieho ilman koukkua, pesäpallo, lanka-kerä, siemenpussi.
-- **Paikat:** postikortit, kartat, matkamuistoja, kotikaupungin lehtileikkeitä.
-- **Perhe:** valokuvien kopiot, lapsen piirros, hääkutsu.
+- **Työ:** nimilappu, pieni työkalu, univormun merkki, muistikirja, hoitajan rintamerkki, ravintolan keittokirja.
+- **Koti:** reseptikortti omalla käsialalla, keittiöpyyhe, lempihuivi tai -solmio.
+- **Harrastukset:** viehe ilman koukkua, pesäpallo, lankakerä, siemenpussi.
+- **Paikat:** postikortteja, karttoja, matkamuisto, kotiseudun lehtileike.
+- **Perhe:** valokuvien kopioita, lapsen piirustus, hääkutsu.
 
-Jättäkää pois terävät esineet, pienet esineet, jotka voisi niellä, ja kaikki, mikä voisi tuoda mieleen tuskallisia muistoja, ellette tiedä, että se on tervetullutta.
+Jätä pois terävät esineet, pienet esineet, jotka voi niellä, ja kaikki, mikä saattaa herättää vaikeita muistoja, ellei tiedä, että ne ovat tervetulleita.
 
-## Miten teen elämäkertakirjan?
+## Miten elämäntarinakirja tehdään?
 
-Elämäkertakirja on yksinkertainen albumi valokuvista ja lyhyistä kuvateksteistä henkilön elämästä. Sitä on mukava katsella yhdessä, ja se auttaa vierailijoita ja hoitohenkilökuntaa näkemään koko ihmisen.
+Elämäntarinakirja on yksinkertainen albumi, jossa on valokuvia ja lyhyitä kuvatekstejä ihmisen elämästä. Sitä voi katsella yhdessä, ja se auttaa vierailijoita ja hoitohenkilökuntaa näkemään kokonaisen ihmisen.
 
-1. **Valitkaa muoto.** Rengaskansio suojataskuilla, painettu valokuvakirja tai diaesitys tabletilla.
-2. **Suunnitelkaa muutama osio.** Lapsuus, koulu, työ, perhe, asuinpaikat, usko, harrastukset, lempiruoat ja musiikki.
-3. **Lisätkää yksi tai kaksi kuvaa sivulle** ja lyhyt, isolla tekstillä kirjoitettu kuvateksti: ”Mary, 22-vuotias, aloittaa työt pankissa.”
-4. **Lisätkää mieltymykset ja rutiinit.** ”Juo kahvin maidon kanssa. Rakastaa sunnuntain virsiä. Ei pidä kovasta televisiosta.” Tämä auttaa jokaista, joka hoitaa häntä.
-5. **Ottakaa henkilö mukaan niin paljon kuin hän haluaa:** kuvien valinnassa, tarinoiden kertomisessa tai pelkässä kirjan syntymisen katselemisessa.
-6. **Jatkakaa lisäämistä.** Sen ei tarvitse olla valmis ollakseen hyödyllinen.
+1. **Valitse muoto.** Kansio muovitaskuilla, painettu valokuvakirja tai diaesitys tabletilla.
+2. **Suunnittele muutama osio.** Lapsuus, koulu, työ, perhe, asuinpaikat, usko, harrastukset, lempiruoat ja musiikki.
+3. **Lisää yksi tai kaksi kuvaa sivulle** ja lyhyt, isokokoinen kuvateksti: ”Maija, 22-vuotias, aloittaa työn pankissa.”
+4. **Kirjaa mukaan mieltymyksiä ja rutiineja.** ”Juokahvia maidolla. Pitää sunnuntaiviristä. Ei pidä kovasta television äänestä.” Tämä auttaa jokaista, joka huolehtii hänestä.
+5. **Ota ihminen mukaan** niin paljon kuin hän haluaa: valitsemaan kuvia, kertomaan tarinoita tai vain seuraamaan kirjan valmistumista.
+6. **Täydennä vähitellen.** Sen ei tarvitse olla valmis ollakseen hyödyllinen.
 
 ## Lisää muisteluideoita
 
-- **Soittakaa musiikkia nuoruudesta** ja puhukaa siitä, mihin se vie. Katso [musiikkitoiminnat](/activities/music/).
-- **Katsokaa kotivideoita tai televisio-ohjelmia** lempivuosikymmeniltä.
+- **Soita musiikkia hänen nuoruudestaan** ja jutelkaa siitä, mitä muistoja se herättää. Katso [musiikkihetket](/activities/music/).
+- **Katsokaa kotivideoita tai tv-ohjelmia** hänen suosikkivuosikymmeniltään.
 - **Valmistakaa lapsuuden ruoka** ja antakaa tuoksujen johdattaa keskustelua.
-- **Katsokaa karttaa** kotikaupungistanne ja jäljittäkää tuttuja katuja.
-- **Selatkaa vanhoja luetteloita tai lehtiä** ja puhukaa hinnoista, muodista ja autoista.
-- **Tallentakaa heidän tarinansa** puhelimella, hänen luvallaan, perheelle.
-- **Jakakaa puheluissa.** Pitäkää yksi valokuva ylhäällä videopuhelun aikana; katso [puhelu- ja videopuheluaktiviteetit](/activities/phone-and-video-calls/).
-- **Tuokaa valokuva tai esine mukanaan käynnille.** Se antaa vierailulle helpon painopisteen; katso [vierailu](/activities/visiting/).
+- **Katsokaa karttaa** hänen kotiseudustaan ja seurailkaa tuttuja katuja.
+- **Selailkaa vanhoja kuvastoja tai lehtiä** ja jutelkaa hinnoista, muodeista ja autoista.
+- **Äänittäkää hänen tarinoitaan** puhelimella, hänen luvallaan, perheelle.
+- **Jakakaa muistoja puhelun aikana.** Näytä yksi kuva videopuhelussa; katso [puhelu- ja videopuheluhetket](/activities/phone-and-video-calls/).
+- **Ota mukaan kuva tai esine vierailulle.** Se antaa vierailulle helpon aiheen; katso [vierailuhetket](/activities/visiting/).
 
-## Entä jos muisto on tuskallinen?
+## Entä jos muisto on vaikea?
 
-Jotkin muistot tuovat mukanaan surua, katumusta tai pelkoa. Jos henkilö käy levottomaksi, lopettakaa, lohduttakaa häntä ja vaihtakaa hellästi aihetta tai toimintaa. Älkää väitelkö siitä, mitä tapahtui. Family Caregiver Alliance neuvoo olemaan yrittämättä vakuuttaa henkilöä siitä, että hän on väärässä, ja vastaamaan hänen näyttämiinsä tunteisiin, jotka ovat todellisia. Jos hän puhuu kuolleesta ihmisestä ikään kuin tämä olisi elossa, vastatkaa tunteeseen: ”Kaipaat häntä. Kerro minulle hänestä.”
+Jotkin muistot herättävät surua, katumusta tai pelkoa. Jos ihminen ahdistuu, pysähdy, lohduta häntä ja vaihda aihetta tai tekemistä lempeästi. Älä väittele siitä, mitä tapahtui. Family Caregiver Alliance neuvoo, ettei ihmistä kannata yrittää vakuuttaa väärässä olemisesta, ja ehdottaa vastaamista hänen osoittamiinsa tunteisiin, jotka ovat aitoja. Jos hän puhuu edesmenneestä ihmisestä kuin tämä olisi elossa, vastaa tunteeseen: ”Sinä ikävöit häntä. Kerro minulle hänestä.”
 
-## Mitä tutkimus sanoo?
+## Mitä tutkimus kertoo?
 
-[Cochrane-katsaus muistelusta](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), joka kattoi 22 tutkimusta ja 1 972 ihmistä, totesi, että vaikutukset olivat epäjohdonmukaisia, pieniä ja vaihtelivat ympäristön ja muodon mukaan. Se ei löytänyt näyttöä haitoista dementiaa sairastaville. Suosittelemme muistelua, koska se voi tuoda lämmintä ja merkityksellistä yhteistä aikaa, emmekä hoitona. Lisää helposta keskustelusta katso [viestintävinkit](/caregiving/communication-tips/).
+[Cochrane-katsaus muistelusta](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), joka kattoi 22 tutkimusta ja 1 972 ihmistä, havaitsi, että vaikutukset olivat epäjohdonmukaisia, pieniä ja vaihtelivat ympäristön ja toteutustavan mukaan. Katsauksessa ei havaittu näyttöä haitasta muistisairautta sairastaville ihmisille. Ehdotamme muistelua siksi, että se voi tarjota lämpimiä ja merkityksellisiä hetkiä yhdessä, ei hoitona. Lisätietoa helposta keskustelusta on kohdassa [viestintävinkit](/caregiving/communication-tips/).

@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Sliep en harsensûntens: wat ûndersyk oanjout"
+seoTitle: "Sliep en demintens: wat ûndersyk oanjout"
+description: "Wat ûndersyk oanjout oer sliep en it risiko op demintens, wêrom it ûndersyk nei it skjinmeitsjen fan it brein noch yn in iere faze sit, en praktyske sliepgewoanten."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Guon ûndersiken dy't minsken lang folgje, litte in ferbân sjen tusken koart sliepen yn
+  it middelbere libben en in heger risiko op demintens. Laboratoariumûndersyk suggerearret
+  dat sliep it brein helpe kin om ôffalstoffen fuort te spoelen. Dit bewiis sit noch yn in
+  iere faze, en de Lancet-kommisje fan 2024 sette sliep net op de list mei te beynfloedzjen
+  risikofaktoaren. Fêste sliepgewoanten helpe by hoe't jo jo de dei troch fiele.
+  Sliepproblemen by demintens komme faak foar en binne it wurdich om mei in dokter te besprekke.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "In Britsk ûndersyk dat sawat 8.000 minsken 25 jier folge, liet in ferbân sjen tusken seis oere sliep of minder yn it middelbere libben en in heger risiko op demintens."
+  - "Feroaringen yn sliep kinne ek in iere oanjouwing wêze fan demintens, dus is it dreech om oarsaak en gefolch út elkoar te hâlden."
+  - "Undersyk nei hoe't sliep beta-amyloïde út it brein fuorthelpet, is echt mar sit noch yn in iere faze; in grut diel is dien by mûzen."
+  - "Sliepapneu komt faak foar, is te behanneljen en wurdt yn ûndersiken yn ferbân brocht mei demintens; lûd snurkjen en oerdeis slieperich wêze binne it neisjen wurdich."
+  - "Begjin, stopje of feroarje nea in sliepmedisyn of sliephulpmiddel sûnder in dokter."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Feroarsaket minne sliep de sykte fan Alzheimer?"
+    a: "Dat is net oantoand. Guon ûndersiken litte in ferbân sjen tusken koart sliepen en in heger risiko op demintens, mar demintens sels fersteuret sliep ek, faaks jierren foar de diagnoaze. De Lancet-kommisje fan 2024 fûn it bewiis te ûnkonsekwint om sliep as te beynfloedzjen risikofaktor op te nimmen."
+  - q: "Hoefolle sliep hawwe âldere folwoeksenen nedich?"
+    a: "It National Institute on Aging seit dat âldere folwoeksenen sawat itselde nedich hawwe as oare folwoeksenen, 7 oant 9 oeren per nacht. In protte âldere minsken geane earder nei bêd en steane earder op as earder, en dat is gewoan."
+  - q: "Wêrom sliept immen dy't mei demintens libbet oerdeis en is dy nachts wekker?"
+    a: "Demintens kin ynfloed hawwe op de biologyske klok, sadat sliep- en wekker-tiden trochinoar reitsje. Pine, ferfeling, honger of side-effekten fan medisinen kinne ek in rol spylje. Deiljocht, deistige aktiviteit en in rêstige jûnsroutine kinne helpe. In dokter kin sjen nei oarsaken dy't te behanneljen binne."
+  - q: "Moat ik de persoan dêr't jo foar soargje in sliephulpmiddel jaan?"
+    a: "Praat earst mei de dokter, ek oer produkten dy't sûnder resept te krijen binne. It National Institute on Aging neamt dat guon sliepmedisinen it risiko op duizeligens, fallen en betizing ferheegje kinne by minsken dy't mei de sykte fan Alzheimer libje."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Sliep en harsensûntens hingje dúdlik meiinoar gear, mar hoe't se gearhingje wurdt noch ûndersocht. Guon ûndersiken litte in ferbân sjen tusken koart sliepen en in heger risiko op demintens. Demintens sels fersteuret sliep ek faak. Dizze side leit út wat it ûndersyk wol en net sjen lit, jout praktyske sliepgewoanten en giet yn op sliepproblemen dy't faak foarkomme by demintens. De side jout gjin advys oer sliepmedisinen; dat petear heart thús by in dokter.
 
-## Is poor sleep linked with dementia?
+## Is minne sliep keppele oan demintens?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Guon ûndersiken dy't minsken lang folgje, litte in ferbân sjen tusken koart sliepen en in heger risiko op demintens, mar it bewiis is net fêststeld.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **In Britsk ûndersyk fan 25 jier.** Undersikers folgen sawat 8.000 folwoeksenen yn de [Whitehall II-stúdzje](https://www.nature.com/articles/s41467-021-22354-2). Minsken dy't op harren 50e of 60e seis oeren of minder sliepen, hienen letter in heger risiko op demintens as minsken dy't sân oeren sliepen. Minsken dy't op harren 50e, 60e en 70e seis oeren of minder sliepen, hienen sawat 30% mear risiko as minsken dy't regelmjittich sân oeren sliepen. Dit wie in observaasjeûndersyk, dus it lit in ferbân sjen, net in oarsaak.
+- **It oardiel fan de Lancet-kommisje.** De [Lancet-kommisje fan 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) hat sliep net tafoege oan har list mei 14 te beynfloedzjen risikofaktoaren. De kommisje fûn it bewiis net konsekwint genôch. Ien reden is „omkearde oarsakelikens”: feroaringen yn it brein troch demintens begjinne jierren foar de diagnoaze en kinne sliep fersteure. Yn ien grut ûndersyk ferdwûn in ferbân tusken lang sliepen en demintens doe't de earste fiif jier fan de folchperioade bûten beskôging bleaunen.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+In koarte nacht sa no en dan is dus gjin reden foar soargen. Regelmjittich, goed sliepen is it stribjen wurdich, om't it helpt by stimming, warskôging en feilichheid yn it deistich libben.
 
-## What is the "brain-clearing" sleep research?
+## Wat is it ûndersyk nei it „skjinmeitsjen” fan it brein?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Jo hawwe miskien lêzen dat sliep it brein „skjinmakket”. Dat idee komt út echt ûndersyk, mar it sit noch yn in iere faze.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **By mûzen.** In ûndersyk út 2013, [beskreaun troch de NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), fûn dat de romte tusken harsensellen mei sawat 60% groeide as mûzen sliepen. Floeistof streamde makliker troch it brein, fia wat ûndersikers it glymfatyksysteem neame. Beta-amyloïde, in aaiwyt dat yn ferbân brocht wurdt mei de sykte fan Alzheimer, waard rapper fuortsmiten út it brein fan sliepende mûzen.
+- **By minsken.** In lyts [ûndersyk út 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) scande 20 sûne folwoeksenen fan 22 oant 72 jier nei in normale nacht en nei in nacht sûnder sliep. Nei de sliepleaze nacht gie in sinjaal op de harsenscan foar beta-amyloïde mei sawat 5% omheech yn in gebiet dêr't de hippocampus by heart, in diel fan it brein dat wichtich is foar it ûnthâld. De auteurs neamden dit foarriedich bewiis. Se wisten net oft de feroaring ferdwynt nei rêst, en ek net oft it komt troch stadiger fuortheljen of troch mear oanmeitsjen fan amyloïde.
+- **It wurket twa kanten op.** De Lancet-kommisje neamt dat opbou fan amyloïde sels ek sliep fersteure kin by âldere folwoeksenen.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Dizze befiningen helpe te ferklearjen wêrom ûndersikers ynteressearre binne yn sliep. Se litte net sjen dat better sliepen de sykte fan Alzheimer foarkomt.
 
-## What sleep habits may help?
+## Hokker sliepgewoanten kinne helpe?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Âldere folwoeksenen hawwe sawat 7 oant 9 oeren sliep per nacht nedich, itselde as oare folwoeksenen, neffens it [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). De oanbefellings omfetsje:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Hâld in fêst skema oan.** Gean elke dei op deselde tiid nei bêd en stean op deselde tiid op, ek yn it wykein.
+- **Bou in routine op om ta rêst te kommen.** Lês, harkje nei rêstige muzyk of nim in waarm bad foar it sliepen gean.
+- **Meitsje de sliepkeamer noflik,** net te waarm en net te kâld.
+- **Beheine kafeïne letter op 'e dei.** Kofje, tee, frisdrank en sûkelade kinne jo wekker hâlde.
+- **Mij alkohol,** ek lytse hoemannichten, advisearret it NIA.
+- **Mij swiere mielen binnen twa oant trije oeren foar it sliepen gean,** en drink let op 'e dei net folle.
+- **Beweegje regelmjittich, mar net binnen 3 oeren foar it sliepen gean.** Sjoch ek ús [gids oer beweging](/brain-health/exercise/).
+- **Hâld skermen bûten de sliepkeamer.** It NIA suggerearret om dêr gjin televyzje te sjen en gjin kompjûter, telefoan of tablet te brûken.
+- **Mij sliepke let yn 'e middei of jûns** as dat kin.
 
-## Sleep problems in dementia
+## Sliepproblemen by demintens
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Feroaringen yn sliep komme faak foar by demintens. It [NIA neamt](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) dat minsken in protte of krekt te min sliepe, nachts faak wekker wurde en oerdeis in protte sliepke. It beskriuwt ek sundowning: ûnrêst, agitatie of betizing dy't begjint of minder wurdt as it deiljocht ferdwynt.
 
-Caregiver tips from the NIA include:
+Tips foar minsken dy't soargje fan it NIA:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Sykje moarns deiljocht en beweging.** Gean oerdeis nei bûten of sit by in finster, en help de persoan om elke dei aktyf te wêzen. Helder ljocht kin helpe om de biologyske klok opnij yn te stellen.
+2. **Plan aktyve dingen yn 'e moarns.** Probearje moarns te waskjen of de grutste miel middeis te iten.
+3. **Hâld sliepkes koart en betiid.** Beheine dommeljen let op 'e dei.
+4. **Meitsje de jûn rêstich.** Dim it ljocht, minder lûd en spylje rêstige muzyk as de persoan dat noflik fynt. Us gids oer [ûnrêst oan 'e ein fan 'e dei](/caregiving/late-day-restlessness/) hat mear ideeën.
+5. **Hâld in fêste slieproutine oan.** It NIA neamt as foarbyld om elke jûn op deselde tiid foarlês te lêzen. In [fêste deistige routine](/activities/daily-routine/) helpt ek.
+6. **Beheine kafeïne en alkohol.**
+7. **Brûk nachtlampekes** yn 'e sliepkeamer, hal en badkamer.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Foar nachts wekker wurde neamt it NIA yn har [tips foar feilichheid thús](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) nachtlampekes of automatyske ljochtsensoaren, handgrepen yn 'e badkamer, helder kleurde tape op 'e rânen fan treppen en medisinen op in ôfsletten plak.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+In koarte, rêstige aktiviteit yn 'e jûn kin helpe om tegearre ta rêst te kommen. Probearje in stadich momint mei [Rêstich sykheljen](/games/calm-breathing/) of in pear ûntspannen [Petearkaarten](/games/conversation-cards/). Sla dingen oer dy't opwinend binne koart foar it sliepen gean, en stopje as de persoan der genôch fan hat.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Ferbrutsen sliep put ek minsken dy't soargje út. Us [gids oer selssoarch foar minsken dy't soargje](/caregiving/caregiver-self-care/) jout manieren om rêst en help te finen.
 
-## What about sleep apnea?
+## Hoe sit it mei sliepapneu?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sliepapneu feroarsaket koarte pauzes yn it sykheljen ûnder it sliepen, faaks in protte kearen per nacht. It NIA seit dat it, as it net behannele wurdt, liede kin ta problemen lykas hege bloeddruk, in beroerte of ûnthâldferlies. Sinjalen binne lûd snurkjen en oerdeis slieperich wêze, en in protte minsken witte net dat se it hawwe. De Lancet-kommisje beskriuwt in oersjoch fan 11 ûndersiken wêryn minsken mei sliepapneu sawat 43% mear risiko op demintens hienen. Net folle fan dy ûndersiken holden lykwols rekken mei gewicht, dus it ferbân is ûnwis.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sliepapneu kin fêststeld en behannele wurde. It NIA neamt dat in CPAP-apparaat hast altyd helpt. As jo of de persoan dêr't jo foar soargje lûd snurket, ûnder it sliepen ophâldt mei sykheljen, of oerdeis tige slieperich is, fertel dat oan in dokter.
 
-## A note about sleep medicines
+## In notysje oer sliepmedisinen
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Wy jouwe gjin advys oer sliepmedisinen of oanfollingen. It NIA neamt dat sliepmedisinen in koarte tiid helpe kinne, mar gjin oplossing binne foar slapeloosheid. It neamt ek dat guon medisinen dy't jûn wurde om minsken dy't mei de sykte fan Alzheimer libje te helpen sliepen, it risiko op duizeligens, fallen en betizing ferheegje kinne. Begjin, stopje of feroarje gjin sliepmedisyn, ek gjin sliephulpmiddel sûnder resept, sûnder mei in dokter of apteker te praten.
 
-## Talk with a doctor
+## Praat mei in dokter
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Gean nei in dokter as jo of de persoan dêr't jo foar soargje altyd wurch is, de measte nachten muoite hat mei sliepen, lûd snurket of nachts pauzes yn it sykheljen hat. As sliepproblemen by demintens oanhâlde, [advisearret it NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) om medysk advys te freegjen. In kontrôle kin oarsaken fine lykas pine, in oare sliepsteurnis, in sykte of in side-effekt fan in medisyn. Hommelse betizing, of in hommelse feroaring yn sliep tegearre mei betizing, hat daliks soarch nedich. Lês [wannear't jo nei in dokter gean moatte](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Dizze side is algemiene ynformaasje, gjin medysk advys. Sjoch ús [medyske disclaimer](/medical-disclaimer/).

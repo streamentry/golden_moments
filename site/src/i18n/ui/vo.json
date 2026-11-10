@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Golön stedöfo lü ninäd cifik",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Jäfs pro mens labü demens",
+    "homeLabel": "Lomopod ela Golden Moments",
+    "mainNav": "Cifik",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Volapük",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: magods gretik e yofik teacopa, sulsuna e doga",
+    "languages": "Pük",
+    "englishOnly": "(Linglänapük)",
+    "machineTranslated": "Pad at petraduton itjäfidiko e no nog peblöfädöl fa motapükan.",
+    "readOriginal": "Reidolös rigoti in Linglänapük",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Pleds",
+      "activities": "Jäfs",
+      "caregiving": "Kitedam",
+      "brainHealth": "Breinasaun"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Säks e gespics",
+    "breadcrumb": "Tuvaveg",
+    "home": "Lom",
+    "lastUpdated": "Lätikumo pebevoböl",
+    "topics": "Yegäds",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Gretot vödas",
+      "smaller": "Vöds kösömik",
+      "larger": "Vöds gretikum",
+      "contrast": "Leigod mödikumo krasik"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Pledön",
+    "picturePairs": "Pārs magodas",
+    "conversationCards": "Karts bespika",
+    "pictureBingo": "Magodabingo",
+    "allGames": "Pleds valik",
+    "pictures": "Magods ad bükön",
+    "activityIdeas": "Muls jäfas",
+    "ideas101": "Muls 101 pro jäfs",
+    "lateStage": "Jäfs pro städan lätik",
+    "printable": "Jäfs bükovik",
+    "allActivities": "Jäfs valik",
+    "forCaregivers": "Pro kitedans",
+    "playTogether": "Kikö pledon kobo",
+    "selfCare": "Kitedam oli it",
+    "brainHealth": "Vestigam dö breinasaun",
+    "faq": "Säks e gespics",
+    "about": "Tefü obs",
+    "approach": "Vegid obas",
+    "howWeWrite": "Kikö penobs",
+    "organizations": "Pro k संगठotes e kles",
+    "app": "Saitot ela Golden Moments",
+    "appHelp": "Yuf tefü saitot",
+    "support": "Yuf",
+    "legal": "Gidaviks",
+    "sitePrivacy": "Privedrespeked vöpsita",
+    "appPrivacy": "Privedareig saitota",
+    "privacyChoices": "Välots tefü prived",
+    "terms": "KConditions e dälot saitota",
+    "safety": "Kekod e geb pedisinöl",
+    "accessibility": "Gebovöf",
+    "healthNotice": "Nüned dö saun",
+    "allLegal": "Nüns lonik valik",
+    "note": "Golden Moments lofon jäfis balugik pekobädöl pro fred. No binon konsäl sanavik, blöfam u sanam, e no dasevon, no mafon e no krüton nendogi. Tefü säks sauna, spikolös ko sanan. Dü telegin, telefonolös lü 112.",
+    "publisher": "Pebevoböl fa Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Pleds e jäfs pro demens e maläd di Alzheimer | Golden Moments",
+    "description": "Pleds magodas nenglatik e sofik ad pledön vöpo, e muls jäfas pro mens liföls ko demens u maläd di Alzheimer e kitedans onsik. Nen registaram, timamufs u numätams.",
+    "eyebrow": "Nen-pelik · Nen blesirs · Nen registaram · Nen timamufs u numätams",
+    "h1": "Pleds e jäfs sofik pro mens labü demens",
+    "lede": "Pleds magodik balugik, fotografots sevädik, e jäfs ad yofön kobo—segun vifikot lönik ola.",
+    "playGame": "Pledolös pledi",
+    "findIdeas": "Tuvön mulis jäfas",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Vobon su telefonil, taböt e nünöm",
+      "Magods gretik kels blebons logoviks",
+      "Sesagolös ün tim alik; nos ad pölön"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "I saitot no-pelovik pro iPhone, iPad e Android, labü famülafotografots lönik ola",
+    "albumNote": "„Magods tel teacopa, kobo.“",
+    "gamesEyebrow": "Pledön in bevüresodatävöm ola",
+    "gamesTitle": "Pleds kels kanons papledön anu",
+    "gamesLede": "Alik binon stilik, daulik e vifik ad primön. Välolös bali, seadolös flano flane, e deigolös kobo su skrin.",
+    "seeAllGames": "Logön pledis valik {count}",
+    "howTitle": "Kikö vobon",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Välolös bosi sevädik",
+        "text": "Magods teacopas, gadas, domanimas e sailabotas. Nen reid e nen reigots ad lärnön büo."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Seadolös flano flane",
+        "text": "Dälolös onese ad drimön su skrin. Spikolös dö magods. Magod no baicedik te valon tapi fovik."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Sesagolös du binon yofik",
+        "text": "Pled bal binon jäf lefulnik. „Finüko pro nu“ völadon ai su skrin."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Plödü skrin",
+    "stageTitle": "Muls jäfas pro städ alik",
+    "stageLede": "Musig, vobs aldelik, memam e timils stilik senöfik, pevotüköl ad binön fümiko gletik anu.",
+    "ideas101": "Muls 101 pro jäfs",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Städ bülik",
+        "text": "Fovön ad dunön bosi keli löfons, ko votükils smalik: lönastuds, tufs, vödapleds e plänam kobik.",
+        "label": "Muls pro städ bülik"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Städ zänodik",
+        "text": "Vobs balugik e sevädik pedilöl ad stepils: plekedam, sotam, musig, magodapleds e spats brefik.",
+        "label": "Muls pro städ zänodik"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Städ lätik",
+        "text": "Komed e kobovöf medü senam, ton e loged: namakitedam, kans stimlikün, fotografots e binön kobo.",
+        "label": "Muls pro städ lätik"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Sukol-li bosi patik? Blöfolös <a href=\"/activities/alzheimers/\">jäfis e pledis pro maläd di Alzheimer</a>, <a href=\"/activities/memory-games/\">memo-pledis sofik</a>, <a href=\"/activities/trivia/\">sevanapledis bosi balugik</a> u <a href=\"/activities/puzzles/\">säkädapledis</a>.",
+    "approachEyebrow": "Vegid obas",
+    "approachTitle": "Jäf pekobädöl, no blöfam mema",
+    "approachLede": "„Breinapleds“ mödik pabumons zü vifikot, numätams e fovams. Pro pösod liföl ko demens, at kanon jinön as xam. Ebumobs leigo telodoti.",
+    "approachLink": "Kikod disinobs osi modü at",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Nos ad pölön",
+        "text": "Nen klok, numät, lifs u pöladun. Magod difik binon te ropülin, no pölot."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Magods blebons logoviks",
+        "text": "Dasevam davedon bü klem. Baicedam primon logoviko, so nos dabinon ad memön."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Daulik e stimik",
+        "text": "Vöds vamicöfik e kosiadöfik, e magods se vol verik. No fopamagods u pük cilic."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Privedik dub disin",
+        "text": "Nen kalotes u blesirs. Fotografots ola neai lüvons nünömi ola."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Pro kitedans",
+    "guidesTitle": "Gidavöds vobik pro kitedam aldelik",
+    "allCaregiving": "Gidavöds valik dö kitedam",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Kikö pledon pledis kobo",
+        "text": "Mopolam, vifikot, e kelosi dunön ven pled no plu binon yofik."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Ven sagons „no“ jäfe",
+        "text": "Kods kösömik pro sesagam, e moders molik ad dönu steifülön poso."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Böladam taböta",
+        "text": "Vöds gretikum, ropams nemödikum e lomaskrin balugik lebalik."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Jäfs bükovik nen-pelik",
+        "text": "Vödasukams labü tonats gretik, pads kölik, bingo e karts bespika."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Breinasaun: kelosi vestigam velatiko sagon",
+    "researchText": "Kanon-li demens paneletön? Yufons-li breinapleds? Kiöpo dabinons yöt, lien, slip e lildam? Gespics kosiadöfik e pesuotöl, kels i zitons se läns kö klüröf binon fibik.",
+    "researchLink": "Reidolös vestigamagidavödis",
+    "appEyebrow": "I saitot",
+    "appTitle": "Golden Moments su iPhone, iPad e Android",
+    "appText": "Saitot nen-pelik vobon nesitoviko e kanon gebön famülafotografots kels pevälons fa ol, pebüköl as kopieds su nünöm ola. Disin ot stilik: tegüls gretik fol, nen timamuf, nen numät.",
+    "aboutApp": "Dö saitot",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Kiks binons pleds gudik pro mens labü demens?",
+        "a": "Pleds gudik binons balugik, sevädik e libik se leped: magods gretik ad leigodön, sötam, kulasits fasilik, lefulükam pükavödas sevädik, kölön, magodabingo e spikakads. Väl gudikün binon ut, keli pösod gälokom adelo. Vitols timamiens, püntis e alisi, kel jinon äs bluf."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Pleds at tefü demenz binons-li glatiks?",
+        "a": "Si. Pled e dabukot alik in Golden Moments binons glatiks, nen kal, nunam u donadugam. Pleds vobons in resodaspäir su telefon, taib u komputor."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Pleds breina neletons-li demenzi?",
+        "a": "Pled nonik peblöfom ad neletön demenzi, e Golden Moments no lesagon ad sanön u neletön bosiko. Pleds obsik binons te pro gälok e tim kobik. Diläd obsik tefü breinasaun plänon, kosi vestigam jonon e no jonon."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Pleds at pötoms-li pro pösod labü maläd di Alzheimer?",
+        "a": "Si. Maläd di Alzheimer binon kod kösömikün demenza, e pleds pedesinons tefü on: magods gretik kels blibons logoviks, väls nemödik, e nos ad memön u pökön. Leigodam, sötam e lefulükam pükavödas sevädik sekidons su sev büik logedölo tefü lärnam nulik."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Pösod labü demenz stada lätikum kanom-li gebön vobidis at?",
+        "a": "Suvo, si, ko pösod nilü oms. Primolös ko Tuvön leigiki labü magods tel, Magodapärs labü teils fol, kölapad u stilik natamaspad. Brefükolös oni, sesumolös dukoti omas e ropölös ven labons sätiki."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Nüns obik binons-li privatik?",
+        "a": "Pädots at labons kali nonik e levalodis nonik. Gebobs eli Google Analytics ad sevön, pads kinik pavisitons. Fotografots kelis välol pro Fotografotapärs pajonons te in resodaspäir olik e nevelo pagonedons."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Kims jafons eli Golden Moments?",
+        "a": "Golden Moments binon tefam smalik jaföl vobidis magodik stilik pro famüls e kälans, su bevüresod e äs nünömam glatik. No binobs sanans, e nos isik binon sanelik konsäl."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "primik",
+    "middle": "zänik",
+    "late": "lätikum",
+    "hintOne": "Suvo pöton pro stad {list}",
+    "hintMany": "Suvo pöton pro stads {list}",
+    "labelEarly": "Stad primik",
+    "labelMiddle": "Stad zänik",
+    "labelLate": "Stad lätikum"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Tefü pled at",
+    "printable": "Dabukovik",
+    "play": "Pledön {name} →",
+    "readGuide": "Reidön dukieli"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Erevilol-li pro pled sofik?",
+    "text": "Magods gretik, timiamiel nonik, pünts noniks e nos ad nunön. Pledobs kobü in resodaspäir olik.",
+    "play": "Pledön pledi",
+    "all": "Logedön pledis valik",
+    "aria": "Pledön pledi"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Sumolös pledis at ko ol",
+    "text": "Nünömam glatik di Golden Moments pro iPhone, iPad e Android: magodateils gretik, pleds ko fotografots famülik olik, e magodapakets kels vobons nen Wi‑Fi. Kal nonik, levalods nonik, timiamiel nonik u pünts noniks.",
+    "appStore": "Getolös oni su App Store",
+    "googlePlay": "Getolös oni su Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Tefü nünömam",
+    "aria": "Getön nünömami"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Vobids",
+      "title": "Vobids pro Mens labü Demenz",
+      "seo": "Vobids pro Mens labü Demenz: Tikets ma Stads",
+      "description": "Vobidatikets pro mens labü demenz in stad alik: musig, memam, vobs aldelik, senamüls, kuratits, plödöpo e dabukots glatik.",
+      "lede": "Vobid nitedik binon alikos kel blinon fiti, desini u timi kobik. Primolös ko utos, kelosi pösod ai egälikom, e votükolös oni adelo."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Kälam",
+      "title": "Dukiels tefü Kälam",
+      "seo": "Dukiels tefü Kälam Demenza: Yuf Pratiko Aldelik",
+      "description": "Dukiels pratik e flenik pro kälans demenza: pledam kobik, kosäd, refusems, trub vendelik, taibs, väl nünömamas e menakälam.",
+      "lede": "Yuf balugik e pratik pro timüls aldelik tefü kälam pösoda keli kälol, keninükamü kälam ola it."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Breinasaun",
+      "title": "Breinasaun: Kosi Vestigam Sagom",
+      "seo": "Breinasaun e Riskäd Demenza: Kosi Vestigam Sagom",
+      "description": "Kanon-li demenz paneletön? Dukiels fiedik e pefonöl tefü riskädafaktors demenza, breinapleds, yün, fid, bofid, slip, lildam e malils primik.",
+      "lede": "Kosi vestigots gretik leigo jonons tefü smalikam riskäda demenza, peplänöl balugiko, igo kö klülabots binons fibiks u migik. Nüns valemik, no konsäl sanelik."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Penulädöl",
+    "minuteRead": "reidam dü minuts {n}",
+    "byTeam": "Fa tefam di Golden Moments",
+    "howWeWrite": "Vio penobs",
+    "shortAnswer": "Gespik brefik",
+    "onThisPage": "Su pad at (diläds {n})",
+    "commonQuestions": "Säks kösömik",
+    "sources": "Fonäts",
+    "sourcesNote": "Glüfobs lü kipedöps e vestigots su kels pad at sekidon. Alik päblufon ven pad pänulädon.",
+    "tryTogether": "Blufolös kobü",
+    "relatedGuides": "Dukiels teföl",
+    "related": "Teföl",
+    "startHere": "Primolös is"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Nunod tefü saunanüns",
+    "title": "Nün valemik, no konsäl sanelik",
+    "textHtml": "Pad at kobükon vestigami pepüböl pro famüls. No kanon sagön olise, kis binon pötik pro pösod bal. Spikolös ko sanan bü votükam fida, bofida, slipa, medinas u mödükotas. Pro dök subitik u votam subitik votik, tuvom-ös foviko yufi sanelik. <a href=\"/medical-disclaimer/\">Reidolös nunodi obsik tefü saunanüns</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Vobid Kobik, No Memabluf",
+      "seoTitle": "Tefü Golden Moments: Metod Obsik",
+      "description": "Kikod pleds di Golden Moments labons timiamiens nonik, püntis u fovamis, kikod magods blibons logoviks, e kosi lesagobs u no lesagobs tefü demenz.",
+      "crumb": "Metod obsik",
+      "lede": "Golden Moments jafon magodavobidis stilik pro daiks, kelis kälan e pösod labü demenz kanons gälokön flan flane.",
+      "bodyHtml": "<h2>Kelos kredobs</h2><p>Zeil dunoda binon timül it: spikot, smil, koten koba-pladama magodas tel, u te siday nilo. No binon ad mafön pösodi, ad bükön foviko u blöfön bosiki.</p><p>Programils mödik breinadunamik pedisinons zi vif, pünots, foviköfs e dāns. Pösode laböl demensi atos kanon jinön as xam, keli no kanon lükonletön. Edisinobs taosi, e fipöfobs obi me reiguls at:</p><ul><li><strong>Nos ad neplöpön.</strong> Düpöm nonik, pünots nonik, muvanumat nonik, lifs nonik, foviköfs nonik, konfetils u dönunums nonik, su büd alik.</li><li><strong>Dasev bü memäl.</strong> Magods blebons logädik defo. Beseidots luvokons spikoti e neai säkons nemis u memotis.</li><li><strong>Gretik, balugik e stitigik.</strong> Vödem e magods gretik, distöf viodik, e stüröms kel blebons in plad ot.</li><li><strong>Dignit dālik.</strong> Magods vola jenöfik e vöds balugik ä vamik. Däsinots nonik, lobi-kanits nonik u premils me magils.</li><li><strong>Geveg fasilik.</strong> «Pifinidöl pro nu» ai logädon. Finidön lafavio binon finod gudik.</li><li><strong>Privätik defo.</strong> Kals nonik e lenuns nonik. Magods keli välol blebons su nünöm olik.</li></ul><h2>Kelos no klämobs</h2><p>Pleds obik binons pro yof e kobiköf. No diagnosons, blüfons, mafons, medinons, slanons u bülemons demensi u malädi de Alzheimer, e nek söton välön onis demü kod at. Ven penobs dö vestigam su <a href=\"/brain-health/\">pads obik dö breinasan</a>, sagobs balugiko kö blöfots binons fibik, e neai yumobs atosi ko pleds obik it.</p><h2>Kims binobs</h2><p>Golden Moments binon kvipil nesekidik. No binobs sanans. Dugäls obik papenons segun dugälam pepüböl fa klubs äs National Institute on Aging e Alzheimer’s Association, e dugäl alik lison kälsis okik. Reidolös <a href=\"/editorial-policy/\">kio penobs e seköpobs padis obik</a>.</p><h2>Sagolös obese kelos yufon-la</h2><p>Vilobs-la gäälädiko lilön kelos benosekon pro ol e kelos no, pato de mens laböl demensi, famülakälans e pledavobans. Penedolös ini <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Kio penobs e seköpobs padis obik",
+      "seoTitle": "Reiguls redakik",
+      "description": "Kio Golden Moments vestigon, penon, tuvon kälsis e nulikugon padis okik dö dunods demenik e breinasan, e kelosi neai pübobs.",
+      "crumb": "Reiguls redakik",
+      "bodyHtml": "<h2>Kälsis obas</h2><p>Stitobs dugälis obik su konsäls notidik klübas äs National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance e NHS, e su vestigams pekrütöl fa gelans, äs krüts de Cochrane e blüfs klinik gretik. Dugäl alik lison kälsis keles fidon. Maifükobs kälsi alik bü saitam onik, e nunobs te atosi, kelos jenöfo sagon.</p><h2>Kio penobs</h2><ul><li>Gebik büikumo: kelos kanon padunön adelo, me pük balugik.</li><li>Fidiko dö blöfots: sagobs «petanöl ko», «ba kanon» e «blöfots binons kofudik» ven atos binon verat.</li><li>Dönotik: penobs dö mens laböl demensi as dālikans, e neai gebobs püki xamik u jemiköl.</li><li>Ninjafots no pejaföls: no statits, saitots, sevädans, vestigots, krüts u lobs pejaföls.</li></ul><h2>Kims krütons padis obik</h2><p>Pads papenons e paseköpons fa kvip de Golden Moments, me yuf de penamastums me AI pro vestig e büpenam. Pad alik paseköpon leigodü kälsis okik fa kvip. Pads obik <strong>no</strong> pekrütons fa sanan u klinikidokan votik, e no klämobs votikosi. Binons nüns valemik, no medinakonsäl.</p><h2>Kelosi neai pübobs</h2><ul><li>Kläms das pled, fid, lönidapled, yäfanod u kösöm bülemon, medinon, slanon u sanon demensi.</li><li>Blüfs, xams u pünots kelos lüyümons das ek labon, u no labon, demensi.</li><li>Konsäl ad primön, finidön u votükön medinis alseik.</li><li>Lenuns u ninjafots pesponsoröl kel kloton ok as dugäl.</li></ul><h2>Nulikugams e menodams</h2><p>Pad alik jonon dätüli keno pälonedükon finikumo. If tuvol pökoti u kälsi bäldik, penedolös ini <a href=\"mailto:{email}\">{email}</a> e seköpobs oni sunädo.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Säks e Gepöks",
+      "seoTitle": "Pleds e Dunods tefü Demens: Säks e Gepöks",
+      "description": "Gepöks säkes suvülik dö pleds e dunods pro demens: pleds kiom blüfön, dü tim kiom pledön, datuvots pro teps posik, breinasan e privätöf.",
+      "crumb": "Säks e gepöks",
+      "lede": "Gepöks brefik e balugik säkes keli kälans säkons suvo.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Dö pleds",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Pleds kiom binons beniküns pro pösod laböl demensi?",
+              "a": "Pleds benikün binons sevädik, balugik e neskaböl me pres, e pled kuratik binon utos, kelosi pösod gäälon adelo. Yümam magodas ko magods ai logädik, lölükam, kofudamapods fasilik, finidam pükedas sevädik, klölam e magodabingo vobons beno pro mens mödik. Vitolös düpömis, pünotis e alikosi kel jinon as xam."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Binons-li pleds jenöfo glatiks?",
+              "a": "Si. Pleds e dabükots valik binons gratisiks, nen kal, nunedam, donloadam u reklam."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Kikod no dabinons pünots, teps u timaluls?",
+              "a": "Vift e pünots völvons jäfi plitudik ad xam, kel kanon blinön jemi u fibäli. Kipedobs keri dö yof e tim kobik, dat no dabinon bos ad no läbön, ed ols kanols ropön timü alik."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Aparäts kinik vobons gudikuno?",
+              "a": "Telefon, tabelet u nünöm alik labü resodanävöm nutimik. Tabelet su stölad lä tab binon suvo mod komfodlikün pösodes tel ad pledön flan lä flan. Lapetop peyümöl lü televidöm vobon gudiko pro grups."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Kanobs-li pledön me fotografots lönik famüla obas?",
+              "a": "Si. „Photo pairs“ völvon fotografotis 2 jü 6, kelis välols, ad pled leigodama. Fotografots blibons in resodanävöm olsik e no paloveblimons u pasevons."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Jäfs e kälam",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Kiomna jäf söton dulön?",
+              "a": "Suvo minuts 10 jü 20 binons sätik, e sotimo minuts 2 binons sekit gudik. Galols dö mals fenäla u fibäla, e ropols du nog binon yofik. No dabinon duüp kuratik."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Kisi dunos-li if no vilons dunön jäfi?",
+              "a": "Respetols „no“-i, e steifols dönu poso u modü votik. Refud kanon dekömön de fen, dol, sen no-füma u te de no-nitedäl. Logols gidianuni obas dö atos, kosa sagons „no“."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Jäfs kinik bäänons pro demens stada lätik?",
+              "a": "Bään e sens: lillilam musiga löfikün, masaj namas me klem, logedam fotografotas kobo, gleipam teguila molik, seadam plödio, u magodilapled vemo balugik ko semal nilü oms. Gidianun obas dö stad lätik labon idäris mödikumo."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Dabinons-li jäfs pro grups in kälidom?",
+              "a": "Si. „Picture bingo“ labon kartis dabükovik e vokalani su skrin, e „Finish the saying“ e „Conversation cards“ vobons gudiko prelilikölo. Gidianun obas pro grups in kälidoms tefon grupagretoti, seadamodi e bäänükami pro näms difik."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Breinasaun",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Kanons-li pleds neletön u slonükön demensi?",
+              "a": "Pled nonik pejonon ad neletön demensi, e pleds obas no sagons atosi. Stigäd kognitik in sirkäd sogädik pejonon in vestigams benodis smalik pro mens labü demens luveitik jü zänik, ab atos difon de pled kel neleton malädi. Pöfüdobs pledis pro yof e kobokosäd."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Kanon-li demens paneletön?",
+              "a": "No me füm. Vestigams yumons faktoris 14 sauna e lifamoda ko riskäd demensa, äs lilikotadef, blidapres geilik, kopamuf no-sätik e sogädasoilükam. Betekam onsas kanon klemükön riskädi pro mens anik, ab mens mödik kels dunons vali kuratiko nog labons demensi. Atos no binon neai fop nekana."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Binon-li lafalid timälik gudik pro breinasaun?",
+              "a": "Klüranuns menik binons miediks e primiks, e mödot vestigama pedunon me nims. Lafalid kanon binön riskädik pro bäldikans, pato ko diabetamedinots u vetaper no-vilik, e no palobedon pro mens labü demens. Spikols ko sanan bü votükam fidamoda olsik."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Privadöf e sef",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Konletols-li nünis seimik?",
+              "a": "Kals u reklams nonik. Gebobs „Google Analytics“ ad numön visitis ed ad tuvön pads kinik yufons, e resodanävöm olsik memon va etävols tonilis molik. Fotografots kelis välols pro „Photo pairs“ no paloveblimons neai. Logols privadönuni pro tefs."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Binon-li atos sanakonsäl?",
+              "a": "No. Golden Moments binon pro gälokam e nünam valemik. Dö saunasäks, spikols ko sanan, e pö dangaraduns nunols lü 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Tefs mödikumo: <a href=\"/caregiving/how-to-play-together/\">lio pledön kobo</a>, <a href=\"/caregiving/when-they-say-no/\">kosa sagons „no“</a>, <a href=\"/activities/late-stage/\">jäfs stada lätik</a> e <a href=\"/brain-health/can-dementia-be-prevented/\">kanon-li demens paneletön?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Pleds gratisik e moliks pro mens labü demens",
+      "seoTitle": "Dabükot dabükovik: Pleds gratisik dö demens in resod",
+      "description": "Dabükot balpadik pro famüls e kälans dö magodilapleds gratisik e moliks pro mens labü demens, pro yufagrups e kälapakeds.",
+      "crumb": "Dabükot dabükovik",
+      "lede": "Dabükols padi at pro yufagrup, kälapaked u yan gladöma. Gebols bükabudi resodanävöma olsik; liseds e gnops no pubons su dabükot.",
+      "introHtml": "<p>Magods gretik, vöds balugik e bos nonik ad no läbön. Gratisik su telefon, tabelet u nünöm, nen nunedam, nen reklams, nen timaluls e nen pünots. Seadols flan lä flan e cenols.</p>",
+      "gamesTitle": "Pleds ad steifön kobo",
+      "restHtml": "<h2>Konsäls anik</h2><ul><li>Välols deliüpi, kü pösod binon in stad gudikün oka.</li><li>Prumols me paramets balugikün. Teils fol binons sätik.</li><li>Spikols dö magods. Bapük binon suvo dil gudikün.</li><li>Ropols du nog binon plitudik. Finid fovik binon sekit gudik.</li></ul><h2>Id su resodapad</h2><ul><li>Dabükots gratisik: vödatuvam me tonabs gretik, könapads, spikakarts e picture bingo.</li><li>Suatots jäfas pro stad alik, e gidians dö pledam kobo e dö okikälam.</li></ul><p class=\"muted\">Pro yof e tim kobik. No sanakonsäl, xam u medinam. Golden Moments papübön fa Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Pro kälidoms, bukems e yufagrups",
+      "seoTitle": "Dunamots libik tefü dementia pro kälidoms e grups",
+      "description": "Lio kälidoms, delaprograms pro dafomäliks, bukems, calöps pro bäldikumans e yufagrups gebons pledis libik obsik tefü dementia, äsä vödem ad läükön obis lisede stadas.",
+      "crumb": "Pro leodüps",
+      "lede": "Valikos su lefanüköm at binon libik ad gebön ko dömels, limans e klilans, nen kal, dälod u kost. Pad at plänon, nosos dabinon is e lio kanoy seditön osi.",
+      "shortText": "{name}: magodapleds libik e miediks ä duinamatidöps pro mens liföls ko dementia e kälans onsik. Nen registaram, nen tima-musams, nen numots.",
+      "longText": "{name} ({domain}) pofäron pledis bravsurik {count} pebevoböl pro mens liföls ko dementia, keninükamü päris leigodöl me magods bleböllogik, cifik balid-kikot, sötam, pükeds kulsik e magoda-bingo ko köds dabükovik. Dabinons nek kal, nek leced, nek tima-musam, nek numot. Lefanüköm labon i duinamatidöps me pük klerik pro stad alik dementa, kels zitons vobotis ela National Institute on Aging ed ela Alzheimer's Association.",
+      "useTitle": "Kelis leodüps kanons gebön",
+      "gamesItemHtml": "<strong>Bravsurapleds {count}</strong> kels golons su laptöp, taböt u televid peyümöl ko nünöm. Nen stitöf, kal u donajut. Logolös <a href=\"/games/\">pledis valik</a>.",
+      "printablesLabel": "Dabükovots {count}:",
+      "printablesAfter": "Gebolös büti «Dabükön» su pad alik.",
+      "moreItemsHtml": "<li><strong>Grupamafomots:</strong> <a href=\"/games/picture-bingo/\">Magoda-bingo</a> labon ködis dabükovik e vobukan su skrin, e <a href=\"/activities/trivia/\">spikäls fasilik</a> labon säkis 50 ko gevüls e spikotapoints.</li><li><strong>Duinamatidöps</strong> pro vobans e famüls, ma stad e ma sot, pepenöls me pük klerik ko fonäts. Primolös me <a href=\"/activities/ideas/\">duinamatiks 101</a> u <a href=\"/activities/care-home-groups/\">grupavekatäds pro kälidoms</a>.</li>",
+      "restHtml": "<h2>Lio grups gebons osi</h2><ul><li><strong>Kälidoms e memakäl:</strong> magoda-bingo u finidön-pükedi su televid kvisinöpa, me pösod bal dököl pro grup valik.</li><li><strong>Delaprograms pro dafomäliks:</strong> tabötöp ko Magodapäris peleodüköl ad ködeds fol, pro sesions brefik bal-ko-bal.</li><li><strong>Bukems publik:</strong> vödasuks pedabüköl e spikotaköds in memabösets, e lefanüköm pebäkedöl su taböts bukema.</li><li><strong>Yufagrups pro kälans e memakafetöps:</strong> <a href=\"/handout/\">vobapad dabükovik balpadik</a> pro famüls ad dugon lü dom.</li><li><strong>Malädidoms e büätans lävegalama:</strong> vobapad in kälapäkeds, pro bos stilik ad duinön domo u nilü kled.</li></ul><h2>Nososi no duinobs</h2><p>Pleds binons pro gälokam e tim kobik. No dasevons, no süllogons, no numükons, no kuradons e no nevifükons dementi, e bekobs leodüpis no ad bepenön onis modü at. Dabinons nek leceds, e pleds no säkons nemis, saunadientis u magodis ad pajutön. Lefanüköm gebon el Google Analytics ad numön visitis; <a href=\"/privacy/\">privatapötekanot</a> obsik plänon, nosos pakonleton fa os. Magods pageböl in <a href=\"/games/photo-pairs/\">Photo pairs</a> blebons in bravsur.</p><h2>Läükolös obis lisede stadas olsik</h2><p>Üf kipedol lisedi stadas pro kälans, yümön lü <a href=\"/\">{domain}</a> binon vemo vekominik. Kanol kopiedön lisedabepenami aledik.</p>",
+      "shortTitle": "Bepenam brefik",
+      "longTitle": "Bepenam lunikum",
+      "linksHtml": "<p>Pads gebovik ad yümön däreto: <a href=\"/games/\">pleds libik</a>, <a href=\"/activities/printable/\">dabükovots libik</a>, <a href=\"/activities/alzheimers/\">vekatäds pro Alzheimer</a> e <a href=\"/caregiving/how-to-play-together/\">lio pledoy kobü od</a>.</p><h2>Säks u menodams</h2><p>Üf bos su lefanüköm binon nemafik u no klerik, u dömela duns no paseditons fa nosos dabinon is, nunolös obis pö <a href=\"mailto:{email}\">{email}</a>. No sedolös nünis pösodik u saunadientis tefü dömels u klilans.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "App: Golden Moments",
+      "seoTitle": "App: Golden Moments pro iPhone ed Android",
+      "description": "App libik ela Golden Moments: fotapärid miedik ko ködeds gletik fol, famülafots pebüköl su cin olsik, magodapäkeds nenyümik e nen kal.",
+      "crumb": "App",
+      "lede": "Valikos, keli löfol tefü lefanüköm, in app kel vobon nenyümo e kanon gebön famülafotis fa ols pevälölis.",
+      "worksOn": "Vobon su {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Primon smaliko</h2><p>Primolöd me taflils gletik fol e magods sevädik. Kipedolöd magodis logovik, u klänolöd onis ven atos jinon plitöfik. Mod molik labon timamieli, numi pünas u pöni nonikis. Välolöd taflilis 4, 6, 8 u 12.</p><h2>Pösodükolöd oni</h2><p>Välolöd fotografis famülik me fotogräfavälan cinäda olik. Programil sefon samädis smalikum pro jäfots oka. No sümiton buki ola e no votükon fotografis rigik olik, e kipedon fotografis jü 24 in konlet bal.</p><h2>Te logedön kobo</h2><p>Logedolöd magodi te bali a tim. Yufasagots välöfik vögodons bespiki nen flagön ad mebön nemis u givön gesagi kuratik. Te logedön sätos.</p><h2>Nen bevüresod ven zesüdos</h2><p>Magods primöfik e magodapaks jöl valik binons in programil. Samäds fotogräfik peladuköl vobons nen bevüresod. Välön rigikotis pekipedöl te in iCloud kanon flagön bevüresodafünami.</p><h2>Kalon nonik, dünian nonik pro fotografabalodam</h2><p>Samäds fotografas famülik blibons in programil su cinäd. Kanols moükön samädis nen distukön rigikotis. Cäds cinäda kanons ninädon nünis programila. Reidolöd <a href=\"/app-privacy/\">privatapoliti programila</a>, e <a href=\"/help/\">yuf pro programil</a> dugon da staps alik.</p>",
+      "disclaimer": "Golden Moments binon pro livatimanünud e bespik koboik. No dasevon, medinon, büneleton u mafon dementi u malädi hiela Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Pleds glatik su bevüresod pro dement e maläd hiela Alzheimer",
+    "description": "Pleds glatik su bevüresod pro bäldikans liföls ko dement u maläd hiela Alzheimer: magodaleigodam, rätamads fasilik, leodükam, kuls, kölam, bingo. Nen registaram, timamiels u püns.",
+    "crumb": "Pleds",
+    "h1": "Pleds molik pro mens ko dement liföls",
+    "lede": "{count} pleds glatik ad pledön kobo in bevüresodanafan ola. Magods gletik, vöds balugik, e nos ad pölön: timamiels nonik, püns nonik, registaram nonik.",
+    "listName": "Pleds molik pro mens ko dement liföls",
+    "byStageTitle": "Välön pledi ma stad",
+    "byStageLede": "Stads binons te dukot luveratik. Sukolöd osi, kelosi pösod gäldikon e kelos jinon benovik adelo.",
+    "stageCol": "Stad",
+    "gamesCol": "Pleds kels suvo pötöns",
+    "moreHtml": "Idäls pluik plödü lurud: <a href=\"/activities/ideas/\">jäfots 101 pro mens ko dement liföls</a>, <a href=\"/activities/alzheimers/\">jäfots e pleds pro Alzheimer</a>, <a href=\"/activities/memory-games/\">memapleds molik</a> e <a href=\"/activities/puzzles/\">räts</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Me pled kinik söls-li primön?",
+        "a": "Magodapüls me taflils fol binon väl balid takälik. If välön bevü magods jinon tumödik, blöfolöd vobi „Tuvön leigi“ me magods tel. Pro grup, blöfolöd magodabingoi."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Pleds-li vobons su iPad u telefon?",
+        "a": "Si. Pled alik vobon in nafan su telefons, taibets e nünöms, e magods gletikons ad fulükön lurudi. Taibet su stälik binon suvo plitöfikün pro mens tel."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Pleds at-li binons göniks pro ek ko Alzheimer?",
+        "a": "Si. Pemekons pro mens liföls ko dement, keninükamü Alzheimer, kel binon kod kösömikün. Magods blibons logovik, dabinons väls te nemödiks, e nos binon petimöl u penumöl me püns, sekü atos pleds stabikons su sevädükam dinas sevädik pla meböm dinas nulik."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Binons-li memapleds pro bäldikans?",
+        "a": "Binons leigodama- e magodapleds, kelis bäldikan alik kanon gäledön, ab pemekons no ad blöfükön memi: in Magodapüls magods blibons logovik pläif välols votiko. Dukiel obas tefü memapleds pro bäldikans ko dement plänon, lio memapled alik kanon pablibön molik."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Dabinons-li pleds pro grups in kälidom?",
+        "a": "Si. Magodabingo labon kadis dabükovik e vokalani su lurud, e „Finükön citi“ e „Bespikakads“ vobons beno ven pareidons lautiko grupe."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad e Android",
+    "requirements": "iOS 15 u posik; Android 7.0 u posik",
+    "summary": "Programil glatik pro iPhone, iPad e Android laböl magodaleigodami molik su taflils gletik fol jü degtel, leigodami e logedami me famülafotografs fa ols pevälöls, e magodapakis jöl keninükölis kels vobons nen bevüresod. Kalon nonik, nunods nonik, timamiel nonik u püns nonik.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Magodaleigodam molik me taflils gletik 4, 6, 8 u 12; magods blibons logovik pläif välols ad klänedön onis",
+      "Fotografs famülik fa ols pevälöls pakopiedons ini programil pro leigodam e pro kobo logedam",
+      "Logedön kobo: magod te bal a tim me bespikavögods välöfik",
+      "Magodapaks jöl keninüköls in programil; vobons nen bevüresod",
+      "Kalon nonik, nunods nonik, lemasetags in programil noniks, timamiel nonik, püns nonik u pön nonik"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Dabinon-li jäfotaprogramil pro dement?",
+        "a": "Si. Golden Moments (pelisedöl as \"{storeName}\") binon glatik su App Store e Google Play. Pofäron magodaleigodami molik me taflils gletik, pledis me famülafotografs fa ols pevälöls, e magodapakis kels vobons nen bevüresod."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Programil: Golden Moments binon-li glatik?",
+        "a": "Si. Binon glatik ad donasumön, nen nunods, kalon u lemasetags in programil."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Programil-li vobon nen bevüresod?",
+        "a": "Si. Magods primöfik e magodapaks jöl valik dutons lü programil, e fotografs famülik vobons nen bevüresod posä pakopiedons ini programil. Välön fotografi pekipedöl te in iCloud kanon flagön bevüresodafünami."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Kanob-li gebön fotografis famüla obas?",
+        "a": "Si. Välol-ös fototis me fototavälian aparäta olik. Programil kipedon kopiedis smalikum su aparät pro pledots oka, no suikladon onis ed neai votükon rigotis. Dalol moükön kopiedis timü alik."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Ebinon-li programil pro breinatid u memisav?",
+        "a": "Nö. Golden Moments binon pro yof e tim kobo. Labon ni pöntis ni savis, e no dölon, kuradon, büneleton u mafon demensi u malädi di Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Su aparäts kinik vobon-li?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Dabinon-li fomam programilik pleda at?",
+      "a": "Si. Programil glatik Golden Moments pro iPhone, iPad e Android labon leigodami molik ot magodas, kanon gebön famülafototis fa ol pevölölis, e vobon nen bevüresod. Nen kal, nuneds u pönts."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Dabinon-li fomam programilik pleda at?",
+      "a": "No tefü pled at. Programil glatik Golden Moments pro iPhone, iPad e Android labon leigodami molik magodas me teils gletik e famülafototis fa ol pevölölis, e vobon nen bevüresod. Pled at bleibon glatik is in bevüresodalöm olik."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: magods gletik e flenöfik",
+    "noscript": "Pled at nedon, das JavaScript labon stadi jimik in bevüresodalöm olik. Konsäls donik vobons nen on.",
+    "about": "Dö {name}",
+    "aboutAria": "Dö pled at",
+    "noTimer": "Nen timamöm ni pönts",
+    "printable": "Dabükovik",
+    "howTo": "Liko pledön me {name}",
+    "tips": "Konsäls pro pledam kobo",
+    "newToPlayingHtml": "Nuik-li ad pledön ko pösod laböl demensi? Reidol-ös <a href=\"/caregiving/how-to-play-together/\">liko pledön pledis kobo</a>, keninükamü kelosi dunön if luveikons nitedi.",
+    "moreAria": "Pluikos ad tuvön",
+    "helpfulGuides": "Dukiels yufik",
+    "appTitle": "Pledol-ös in programil",
+    "appText": "Programil glatik Golden Moments labon leigodami molik magodas me teils gletik e famülafototis lönik olik, e vobon nen Wi‑Fi. iPhone, iPad e Android.",
+    "photoAppTitle": "Kipedol-ös fototis olik klöfik",
+    "photoAppText": "In programil glatik Golden Moments, fotots fa ol pevölöls bleibons su aparät olik pro feg fovik, e pleds vobons nen Wi‑Fi. iPhone, iPad e Android.",
+    "goodToKnow": "Gudik ad nolön",
+    "goodToKnowText": "Pled at binon pro yof e tim kobo. No savom, mafom u kuradom nosi.",
+    "moreGames": "Pleds molik pluik",
+    "crumb": "Pleds"
   }
 }

@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Kann demens fyribyrgjast? Hvat granskingin vísir"
+seoTitle: "Kann demens fyribyrgjast? Hvat granskingin vísir"
+description: "Hvat Lancet-nevndin 2024 og stórar royndir funnu um at lækka vandan fyri demens, hvat tey ikki funnu, og stig at tosa við ein lækna um."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Eingin kann lova at fyribyrgja demens. Lancet-nevndin 2024 metti, at næstan
+  helmingurin av demensførum um allan heimin hevur samband við 14 vandabólkar,
+  sum møguliga kunnu broytast, so sum høgt blóðtrýst, hoyritap og ov lítið
+  rørslulív. Royndir vísa smá árin á hugsanarroyndum, men ikki prógv fyri
+  færri demensførum. Nógv fólk, sum gera alt „rætt“, fáa kortini demens, og
+  tað er ongans skyld.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Lancet-nevndin 2024 fann samband millum umleið 45% av demensførum um allan heimin og 14 vandabólkar, sum møguliga kunnu broytast. Tað er eitt meting fyri ein heilan bólk, ikki ein trygging fyri tann einstaka."
+  - "At lækka vandan merkir at minka um sannlíkindini í einum heilum fólkabólki. Tað merkir ikki, at ein einstøk persónur kann sleppa undan demens."
+  - "Stórar royndir sum FINGER, US POINTER og SPRINT MIND funnu smá fyrimunir á hugsanarroyndum ella mildum hugsanartrupulleikum, men ongin av teimum prógvaði, at eitt lívsstílsátak fyribyrgir demens."
+  - "Aldur er størsti kendu vandabólkurin fyri Alzheimer, og hann kann ikki broytast. Nógv fólk við sunnari atburði fáa kortini demens."
+  - "Tey stigini, sum oftast eru kannað, so sum at fáa høgt blóðtrýst viðgjørt, brúka hoyritól og vera virkin, eru verd at tosa við ein lækna um, tí tey eisini gagna heilsuni á annan hátt."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Kann demens fyribyrgjast?"
+    a: "Tað er eingin prógvað háttur at fyribyrgja demens hjá nøkrum einstøkum persóni. Gransking bendir á, at tað at lækka ávísar vandar, so sum høgt blóðtrýst, óviðgjørt hoyritap og royking, kann lækka sannlíkindini fyri demens í einum fólkabólki ella seinka, nær tað byrjar. Hetta eru sannlíkindi, ikki lyftir."
+  - q: "Hvat merkir 45%-talið frá Lancet-nevndini?"
+    a: "Lancet-nevndin 2024 metti, at umleið 45% av demensførum um allan heimin hava samband við 14 vandabólkar, sum í ávísan mun kundu verið broyttir. Metingin gongur út frá, at hesir bólkar elva til demens, og høvundarnir vísa á, at nøkur sambond kanska bert eru lutvíst orsøkir. Talið lýsir heilar fólkabólkar og sigur einki um vandan hjá einum einstøkum persóni."
+  - q: "Um foreldur mítt livdu sunt, hví fingu tey so demens?"
+    a: "Aldur, gen og nógv viðurskifti, sum eingin ræður yvir, spæla ein stóran lut í demens. Høvundarnir hjá Lancet-nevndini vísa á, at tað at lækka vandan í einum fólkabólki ikki tryggjar, at ein einstøk persónur sleppur undan demens. Ein staðfesting er ikki tekin um, at onkur mistókst."
+  - q: "Er tað ov seint at lækka demensvandan eftir 65 ára aldur?"
+    a: "Lancet-nevndin sigur, at tað ongantíð er ov tíðliga ella ov seint at minka um vandan, hóast nógv av prógvunum snúgva seg um miðlívið. At fáa hoyri- og sjóntrupulleikar viðgjørdar, vera virkin og halda samband við onnur eru dømi um stig seinni í lívinum, sum eru kannað. Tos við ein lækna um, hvat hóskar til tína heilsu."
+  - q: "Fyribyrgja heilasamleikaspøl ella serligur kostur demens?"
+    a: "Einki spæl, eingin matur, einki kostískoyti og eingin kostskipan er prógvað at fyribyrgja demens. Ein trý ára roynd við MIND-kostinum fann ongan týðandi mun á hugsan samanborið við ein eftirlitiskost, og handilslig heilasamleikaforrit hava ikki víst somu árin sum tær royndirnar, ið verða gjørdar í gransking."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,155 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Tú, sum røkir um ein persón, ið livir við demens, ella hevur sæð eitt foreldur liva við tí, hevur ivaleyst hugsað um, um tað kundu verið steðgað, og um tú kanst steðga tí í at raka teg. Hendan síðan greiðir frá, hvat granskingin veruliga sigur, á einføldum máli. Stutta svarið: eingin kann lova at fyribyrgja demens, men gransking bendir á, at summir vandar kunnu lækkast, og at tað at lækka teir í einum heilum fólkabólki kann merkja, at færri fólk fáa demens ella fáa tað seinni.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Hetta eru almennar upplýsingar, ikki læknafaklig ráðgeving. Vinarliga les okkara
+[medical disclaimer](/medical-disclaimer/) og tosa við ein lækna um tína egnu heilsu.
 
-## Can dementia be prevented?
+## Kann demens fyribyrgjast?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Tað er eingin prógvaður háttur at fyribyrgja demens hjá nøkrum einstøkum persóni. National
+Institute on Aging (NIA) sigur, at hóast
+[einki er prógvað enn at fyribyrgja Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+hava granskarar funnið bíliggjandi ætlanir og eru að læra, hvat møguliga riggar og ikki riggar.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Tað, sum granskingin *vísir*, er, at ávísir heilsutrupulleikar og vanar hava
+samband við størri sannlíkindi fyri demens. Tá hesir vandar eru lægri í einum
+heilum fólkabólki, kunnu færri fólk fáa demens, ella tey kunnu fáa tað
+seinni í lívinum. Tað er sera øðrvísi enn ein trygging.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Eitt vónarríkt tekin: Lancet-nevndin 2024 fráboðaði, at í summum ríkum við høgum inntøkum, millum annað USA og Bretlandi, er parturin av eldri fólki við demens minkaður. Høvundarnir halda, at hetta ivaleyst eisini stavar frá betri útbúgving, betri heilsurøkt og minni skaða á blóðæðrar gjøgnum eitt lív, sambært
+[yvirlitinum hjá University College London yvir frágreiðingina](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Hvat fann Lancet-nevndin 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet-nevndin um fyribyrging, inntriv og røkt av demens er ein bólkur av
+27 demensgranskarum, sum ganga ígjøgnum prógvini annaðhvørt ár. Frágreiðingin hjá teimum í 2024 nevndi **14 vandabólkar**, sum møguliga kunnu broytast, og metti, at teir tilsamans standa fyri **næstan helminginum (umleið 45%) av demensførum um allan heimin**. Sambært høvundunum kundu hesir førini *í ástøði* verið fyribyrgd ella seinkað, um vandarnir vóru tiknir burtur
+([frágreiðing Lancet-nevndarinnar 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Teir 14 bólkarnir, bólkaðir eftir tí lívsstigi, har prógvini eru sterkast:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Tíðliga í lívinum:** minni útbúgving.
+- **Miðlívið (umleið 40 til 65 ár):** hoyritap, høgt LDL-kolesterol („ringt“
+  kolesterol), tunglyndi, høvuðsskaði, ov lítið rørslulív, sukursjúka, royking,
+  høgt blóðtrýst, yvirvekt og nógv alkohol.
+- **Seinni í lívinum:** sosial avbyrgd, luftdálking og óviðgjørdir sjóntrupulleikar.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Tey bæði nýggju í 2024 vóru høgt LDL-kolesterol og óviðgjørdir sjóntrupulleikar. Teir bólkarnir, sum vóru knýttir at størsta partinum av førunum, vóru hoyritap og høgt LDL-kolesterol (umleið 7% hvør), síðani minni útbúgving og sosial avbyrgd (umleið 5% hvør).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Okkara [leiðbeining um vandabólkar](/brain-health/risk-factors/) gongur ígjøgnum allar 14 í eini talvu, við tí granskingin vísir samband við og hvat tú kanst gera.
 
-### What the 45% figure does not mean
+### Hvat 45%-talið ikki merkir
 
-It is easy to misread this number, so it helps to be precise:
+Tað er lætt at misfata hetta talið, so tað hjálpir at vera nágreinilig:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Tað er eitt meting fyri ein heilan bólk.** Tað lýsir demensfør um allan heimin,
+  ikki tíni sannlíkindi ella sannlíkindini hjá tínum foreldri.
+- **Tað gongur út frá orsøk og ávirkan.** Høvundarnir siga, at teir bert tóku við vandabólkar við sannførandi prógvum, men at nøkur sambond kanska bert eru lutvíst orsøkir. Til dømis kann tunglyndi seinni í lívinum av og á vera eitt tíðligt tekin um demens heldur enn ein orsøk.
+- **Tað lovar einki fyri ein einstakan persón.** Yvirlitið hjá UCL vísir á, at tað at lækka vandan riggar á støði fólkabólksins og ikki tryggjar, at ein einstøk persónur sleppur undan demens.
+- **Hin helmingurin verður ikki greiddur frá við hesum bólkum.** Aldur, gen og orsøkir, sum vísindafólk ikki skilja enn, útgera restina.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Hvør er munurin á „at lækka vandan“ og „fyribyrging“?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**At lækka vandan** merkir at minka um sannlíkindini. Um ein stórur bólkur av fólki lækkar blóðtrýstið, kunnu færri teirra fáa demens gjøgnum nógv ár, enn annars høvdu fingið. Summir einstøk í tí bólkinum fáa tað kortini.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Fyribyrging** leggur upp til at steðga nøkrum heilt. Fyri demens er tað ikki nakað, sum granskingin kann lova nøkrum í dag.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Granskarar tosa eisini um **seinking**. Lancet-nevndin fráboðar nýggj prógv um, at tað at lækka vandan kann útseta, nær demens byrjar, og stytta tíðina, ein persónur livir við vánaligari heilsu. Sjálvt ein seinking á nøkur fá ár kann merkja sera nógv fyri ein persón og familju hansara.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Á hesi síðuni brúka vit „lækka vandan“ og „hevur samband við“ við vilja. Tá tú sært eina vøru, eitt kostískoyti ella eitt átak, sum lovar at „fyribyrgja Alzheimer“, so ver varin. NIA mælir til at tosa við ein lækna, áðrenn tú roynir nakra pillu ella viðgerð, sum lovar at fyribyrgja Alzheimer, tí slíkar vørur kunnu vera ótryggar, spill av peningum ella bæði.
 
-## What have large trials found?
+## Hvat hava stórar royndir funnið?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Lýsingarroyndir (sum fylgja við, hvat hendir við fólki yvir tíð) kunnu vísa sambond. Tilvildarligar royndir, har fólk eftir tilvild verða sett í eitt átak ella ein samanberingarbólk, eru ein sterkari roynd. Her er tað, sum nakrar av teimum kendastu royndunum funnu.
 
-### FINGER (Finland)
+### FINGER (Finnland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER-royndin tók við 1.260 vaksnum, 60 til 77 ára gomlum, sum høvdu hægri vanda fyri demens. Helmingurin fekk eitt tvey ára átak við kostráðgeving, rørslu, telduheilasamleikavenjingum og eftirliti við heilsuni hjá hjarta og blóðæðum; hin helmingurin fekk almenn heilsuráð. Bólkurin við átakinum gjørdi tað eitt sindur betur á einum setti av hugsanarroyndum, ein lítil men hagfrøðiliga týðandi munur
+([FINGER-royndin í The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Royndin máldi úrslit á royndum, ikki demensstaðfestingar.
 
-### US POINTER (United States)
+### US POINTER (USA)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER tók við 2.111 vaksnum, 60 til 79 ára gomlum, sum vóru óvirkin, høvdu minni sunnan kost og høvdu aðrar vandabólkar. Báðir bólkar vórðu eggjaðir til at vera meira kropsliga og andaliga virknir, eta betur, vera sosialir og fylgja við hjartaheilsuni. Ein bólkur fekk eitt skipað átak við vegleiðing; hin stýrdi sær sjálvur. Yvir tvey ár batnaðu úrslitini á hugsanarroyndum í **báðum** bólkum, og eitt sindur meira í tí skipaða bólkinum
+([US POINTER-royndin í JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Høvundarnir siga, at meira eftirfylging krevst fyri at vita, um munurin hevur týdning í gerandisdegnum. Av tí at eingin „ger einki“ bólkur var, kann royndin ikki siga, hvussu nógv annaðhvørt átak hjálpti samanborið við onga broyting.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (blóðtrýst)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND kannaði 9.361 vaksin í USA, 50 ár og eldri, við høgum blóðtrýsti. Tey vórðu sett til eitt lægri blóðtrýstsmål (ovasta talið undir 120) ella vanligu málið (undir 140). Lægri málið minkaði týðandi um **mildar hugsanartrupulleikar**, eitt stig av minni- og hugsanartrupulleikum, sum kunnu koma áðrenn demens. Fyri **líkinda demens** vóru færri før í bólkinum við lægri máli, men munurin var ikki hagfrøðiliga týðandi. Royndin varð steðgað tíðliga og hevði færri demensfør enn væntað, so hon kann hava verið ov lítil til at svara teirri spurninginum
+([SPRINT MIND í JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Hvat yvirlitini vísa tilsamans
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Ein Cochrane-yvirlit frá 2021 savnaði níggju stórar royndir við átøkum, sum taka á fleiri vandum samstundis, við meira enn 18.000 fólki. Tað fann ein lítlan fyrimun á hugsanarroyndum, men **ongan greiðan mun á, hvussu nógv fólk fingu demens** í teimum báðum royndunum, sum máldu tað
+([Cochrane-yvirlit yvir átøk á fleiri økjum](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Eitt yvirlit frá 2017 hjá National Academies of Sciences, Engineering, and Medicine, sum NIA hevur gjørt samandrátt av, fann „bíliggjandi men ikki avgjørd“ prógv fyri trimum átøkum: at stýra høgum blóðtrýsti, at økja um rørsluna og hugsanarvenjing.
 
-## Does it matter when you start?
+## Hevur tað týdning, nær tú byrjar?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Ráðið frá Lancet-nevndini er at lækka vandar so tíðliga sum gjørligt og halda teir lágar so leingi sum gjørligt: „fyrr, betri“ og „longri, betri“. Hon sigur eisini, at tað ongantíð er ov tíðliga ella ov seint at minka um vandan. Nógv av prógvunum snúgva seg um miðlívið, umleið 40 til 65 ár, men summir bólkar, so sum sjóntrupulleikar og sosial avbyrgd, eru vandar seinni í lívinum, har tiltøk framvegis kunnu hava týdning.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Frágreiðingin sigur, at nú eru sterkari prógv fyri, at longri útseting fyri einum vanda hevur størri ávirkan. Til dømis tykist sukursjúka, sum byrjar í miðlívinum, at hava størri týdning enn sukursjúka, sum byrjar seinni.
 
-## Is dementia risk the same for everyone?
+## Er demensvandin tann sami hjá øllum?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Nei. Nevndin fann, at fólk í lág- og miðalinntøkulondum, fólk úr minnilutabólkum og fólk við minni peningum ofta bera fleiri av hesum vandum, so demens hevur lyndi til at menna seg í yngri aldri. Mangir vandar eru knýttir at umstøðum, sum fólk ikki valdu, so sum góðskan á skúlagongdini, tey fingu sum børn, luftin, har tey búgva, og um sunnur matur er rímiligur og tøkur.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Tí eru tilmælini hjá nevndini ætlað stjórnum eins nógv sum einstaklingum: góð útbúgving til øll børn, reinari luft, tiltøk at minka um royking, minni sukur og salt í matvørum, sum verða seldar í handlum og á matstøðum, og hoyritól til øll, sum hava tørv á teimum. Innsats frá einstaklingum hevur týdning, men tað hevur heimurin rundan um tey eisini. Tað er ein orsøk til afturat at leggja einki ábyrgd á onkran fyri eina staðfesting.
 
-## What are the honest limits of this research?
+## Hvør eru ærligu avmarkingarnar í hesi gransking?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Demens tekur áratíggju at menna seg**, men flestu royndir vara í tvey til fimm ár. At máta demens sjálvt, ikki bert úrslit á royndum, krevur sera langar og sera stórar kanningar.
+- **Flestu royndir máta hugsanarroyndir.** Ein lítil bati á eini roynd merkir ikki neyðturviliga, at færri fólk fáa demens ella at gerandisdagurin verður lættari.
+- **Sjálvboðin eru ofta sunnari** og betur útbúgvin enn almenni fólkabólkurin. Lancet-nevndin vísir á, at flestu prógvini framvegis koma frá ríkjum við høgum inntøkum, og at minnilutabólkar eru undirumboðaðir.
+- **Summi sambond ganga báðar vegir.** At vera minni virkin ella minni sosial kann vera ein tíðlig ávirkan av demens, ikki bert ein orsøk.
+- **Kostroyndir hava higartil verið vónbrot.** Ein trý ára roynd við MIND-kostinum fann ongan týðandi mun á hugsan samanborið við ein eftirlitiskost. Sí okkara [leiðbeining um kost](/brain-health/diet/).
+- **Heilasamleikaspøl eru ikki prógvað at fyribyrgja demens.** Sí okkara leiðbeining um
+  [heilasamleikaspøl og demens](/brain-health/brain-games/).
+- **Fasta hevur sera avmarkað prógv í menniskjum**, og tað kann vera vandamikið fyri eldri vaksin. Sí okkara [leiðbeining um føstu](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Um onkur gjørdi alt „rætt“, hví fingu tey kortini demens?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Tí demens er ikki bert úrslitið av vali. NIA sigur, at
+[aldur er størsti kendu vandabólkurin fyri Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+og eingin kann broyta hann. Gen spæla ein lut. Og vísindafólk skilja ikki enn fult, hvat elvir til Alzheimer hjá flestu fólki. Sjálvt um allir teir 14 vandabólkarnir vóru tiknir burtur, so letur metingin hjá Lancet-nevndini meira enn helmingin av førunum ógreiddar.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+So um tú røkir um ein persón, sum rørdi seg, át sunt, ongantíð roykte og kortini fekk demens, so gekk einki galið hjá teimum ella hjá tær. Um tú sjálv/ur livir við demens, so er tað ikki tín skyld. Skuldarkensla er vanlig hjá familjum, men hon er ikki rættvís. Tað, sum hevur týdning nú, er vælvera, samband og góðir dagar, og okkara [hugskot til virksemi](/activities/ideas/) og
+[leiðbeining um egnarøkt hjá teimum, sum røkja](/caregiving/caregiver-self-care/) eru góð støð at byrja.
 
-## What steps can you talk over with a doctor?
+## Hvørji stig kanst tú tosa við ein lækna um?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Hetta eru tey økini, sum oftast eru kannað. Tey eru verd at taka upp á eini kanning, tí tey flestu eisini gagna hjartaheilsu, sinnalagi og sjálvbjargni, sama hvat ávirkan tey hava á demens.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Blóðtrýst.** Spyr, hvørji tølini eru, og hvat mál hóskar til tín. Lancet-nevndin mælir til at miða ímóti einum ovasta tali á 130 ella lægri frá umleið 40 ára aldri, men rætta málið fyri ein eldri persón er treytað av samlaðu heilsuni.
+2. **Hoyrn.** Bið um eina hoyrnarroynd og um hoyritól kundu hjálpt. Okkara
+   [leiðbeining um hoyrn](/brain-health/hearing/) greiðir frá granskingini.
+3. **Sjón.** Far til regluligar eygnakanningar og spyr, um trupulleikar sum gráur sterur kunnu viðgerast.
+4. **Kolesterol.** Spyr, um títt LDL-kolesterol eigur at verða kannað og um nakað eigur at broytast.
+5. **Blóðsukur.** Um tú hevur sukursjúku, spyr, hvussu tú stýrir henni á tryggan hátt.
+6. **Sinnalag.** Tunglyndi er vanligt og kann viðgerast. Sig læknanum frá, um tú hevur kent teg niðurslegnan ella mist áhugan í fleiri vikur.
+7. **Royking og alkohol.** Spyr um stuðul til at halda uppat at roykja og um trygg mørk fyri alkohol.
+8. **Rørsla.** Spyr, hvat slag av virksemi er tryggt fyri teg. Okkara
+   [leiðbeining um rørslu](/brain-health/exercise/) hevur hugskot.
+9. **Vernd av høvdinum.** Brúka hjálm, tá tú súkklar ella íðar kropslig ítriv við kontakt, og spyr um at fyribyrgja fall.
+10. **At halda samband.** Tíð saman við øðrum er partur av einum sunnum lívi. Sí
+    okkara leiðbeining um [sosialt samband](/brain-health/social-connection/), og eisini
+    [svevn](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Áðrenn tú broytir heilivág, kost, kostískoyti, føstu ella rørslu, tosa fyrst við læknan, serliga um tú hevur hjartasjúku, sukursjúku, hevur fallið áður, ella longu livir við demens.
 
-## Talk with a doctor
+## Tos við ein lækna
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Um tú varnast broytingar í minni ella hugsan, sum stúra teg, hjá tær sjálvum/sjálvari ella øðrum, set tá eina tíð. NIA vísir á, at
+[minnistrupulleikar kunnu hava aðrar orsøkir](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+so sum hjáárin av heilivági, trupulleikar við skjoldbrískkertli, tunglyndi ella lágt B12-vitamin, og at summir av hesum trupulleikum hvørva, tá orsøkin verður viðgjørd. Okkara
+[leiðbeining um ávaringartekin](/brain-health/warning-signs/) greiðir frá, hvat tú skalt ansa eftir.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Fá skunda hjálp** fyri knappar broytingar: knýtt kavit, veikleiki ella doyi á aðrari síðuni, trupulleikar við at tosa ella høvuðpína, sum er sera ring, kunnu vera tekin um heilablóðfall ella annað neyðstøðu. Ring 112.
 
-## Where Golden Moments fits
+## Hvar Golden Moments passar inn
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments gevur einfald felags virksemi, so sum
+[samrøðukort](/games/conversation-cards/),
+[myndubingo](/games/picture-bingo/) og eitt
+[róligt andarsteðgur](/games/calm-breathing/). Tey eru til stuttleika og tíð saman. Tey eru ikki ein viðgerð, og tey fyribyrgja ikki ella seinka ikki demens.

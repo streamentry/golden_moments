@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Hunanofal i Ofalwyr: Seibiant, Cefnogaeth ac Arwyddion Llosgi"
+seoTitle: "Hunanofal Gofalwyr Dementia: Seibiant a Chefnogaeth"
+description: "Arwyddion llosgi gofalwyr, sut i ddod o hyd i seibiant a grwpiau cefnogi, a llinellau cymorth am ddim yn yr Unol Daleithiau, gan gynnwys Llinell Gymorth 24/7 Cymdeithas Alzheimer a'r Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Mae gofalu am rywun sy'n byw gyda dementia yn anodd, ac mae gofalu amdanoch
+  eich hun yn rhan o'r gwaith. Cadwch lygad am arwyddion rhybudd fel blinder,
+  anniddigrwydd, cwsg gwael a thynnu'n ôl oddi wrth ffrindiau. Gofynnwch am
+  help penodol, defnyddiwch ofal seibiant, ac ymunwch â grŵp cefnogi. Mae help
+  am ddim yn yr Unol Daleithiau yn cynnwys Llinell Gymorth 24/7 Cymdeithas
+  Alzheimer ar 1-800-272-3900 a'r Eldercare Locator ar 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Mae llosgi'n aml yn ymddangos fel blinder, anniddigrwydd, cwsg gwael, tristwch a pheidio â gofalu am eich iechyd eich hun."
+  - "Mae gofal seibiant yn rhoi egwyl i chi, o ychydig oriau i sawl wythnos, gartref neu mewn lleoliad gofal."
+  - "Gofynnwch am help gyda thasgau penodol; mae llawer o bobl eisiau helpu ond dydyn nhw ddim yn gwybod sut."
+  - "Mae Llinell Gymorth 24/7 Cymdeithas Alzheimer (1-800-272-3900) yn cynnig cefnogaeth gyfrinachol am ddim ar unrhyw adeg."
+  - "Mae'r Eldercare Locator (1-800-677-1116) yn eich cysylltu â gwasanaethau lleol, gan gynnwys eich Area Agency on Aging."
+  - "Os ydych chi'n teimlo mewn argyfwng, ffoniwch neu anfonwch neges destun at 988. Mewn argyfwng, ffoniwch 999."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Beth yw arwyddion llosgi gofalwyr?"
+    a: "Mae arwyddion cyffredin yn cynnwys teimlo wedi blino, wedi'ch llethu neu'n bryderus, mynd yn ddig neu'n ddiamynedd yn hawdd, trafferth cysgu, teimlo'n drist neu'n anobeithiol, tynnu'n ôl oddi wrth ffrindiau, cur pen neu boen yn aml, a hepgor eich prydau bwyd, ymarfer corff neu ofal meddygol eich hun. Os yw arwyddion fel hyn yn digwydd yn rheolaidd, siaradwch â'ch meddyg."
+  - q: "Sut ydw i'n dod o hyd i ofal seibiant yn agos i mi?"
+    a: "Dechreuwch gyda'r Eldercare Locator (1-800-677-1116 neu eldercare.acl.gov) i gysylltu â'ch Area Agency on Aging lleol, y ARCH National Respite Locator Service, neu Linell Gymorth Cymdeithas Alzheimer ar 1-800-272-3900. Gall teulu, ffrindiau a gwirfoddolwyr hefyd gynnig seibiant."
+  - q: "A yw Medicare yn talu am ofal seibiant?"
+    a: "I rywun sy'n derbyn gofal hosbis, mae Medicare yn talu am y rhan fwyaf o gost hyd at bum niwrnod yn olynol o ofal seibiant mewn ysbyty neu gyfleuster nyrsio medrus, yn ôl y National Institute on Aging. Nid yw'r rhan fwyaf o yswiriant iechyd preifat yn talu am seibiant; gall Medicaid a rhai cynlluniau yswiriant gofal hirdymor helpu."
+  - q: "A yw Llinell Gymorth Cymdeithas Alzheimer yn wirioneddol am ddim ac ar gael yn y nos?"
+    a: "Ydy. Mae Cymdeithas Alzheimer yn dweud bod ei Llinell Gymorth ar 1-800-272-3900 am ddim, yn gyfrinachol ac wedi'i staffio bob awr o'r dydd, 365 diwrnod y flwyddyn, gyda help ar gael mewn llawer o ieithoedd. Deialwch 711 ar gyfer gwasanaeth cyfnewid."
+  - q: "A yw'n hunanol cymryd egwyl o ofalu?"
+    a: "Nac ydy. Mae gorffwys yn eich helpu i barhau i ofalu, a gall seibiant hefyd roi newid cwmni a gweithgaredd i'r person rydych chi'n gofalu amdano. Mae llawer o ofalwyr yn dweud yn ddiweddarach eu bod yn dymuno eu bod wedi gofyn am help yn gynt."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Os ydych chi'n gofalu am rywun sy'n byw gyda dementia, mae'n debyg eich bod yn darllen hyn yn hwyr, wedi blino, a gyda rhestr o bethau nad ydych chi wedi'u gwneud. Mae hynny'n normal. Nid moethusrwydd nac anrheg am orffen popeth yw gofalu amdanoch eich hun. Dyma beth sy'n eich helpu i barhau.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Mae'r dudalen hon yn sôn am arwyddion rhybudd llosgi, sut i gael egwyl go iawn, ble i ddod o hyd i gefnogaeth, a llinellau cymorth am ddim yn yr Unol Daleithiau y gallwch eu ffonio heddiw.
 
-## What are the signs of caregiver burnout?
+## Beth yw arwyddion llosgi gofalwyr?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Mae llosgi'n aml yn datblygu'n araf, felly mae'n help gwybod eich arwyddion rhybudd eich hun. Mae'r [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) yn rhestru arwyddion straen gofalwyr, gan gynnwys:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- teimlo wedi blino, wedi'ch llethu neu'n bryderus;
+- mynd yn ddig neu'n ddiamynedd yn hawdd;
+- teimlo'n unig neu wedi ymbellhau oddi wrth eraill;
+- trafferth cysgu, neu beidio â chael digon o gwsg;
+- teimlo'n drist neu'n anobeithiol, neu golli diddordeb mewn pethau roeddech chi'n eu mwynhau;
+- cur pen, poen neu broblemau corfforol eraill yn aml;
+- dim amser i ymarfer corff na gwneud bwyd iach i chi'ch hun;
+- hepgor cawodydd neu ofal personol arall;
+- camddefnyddio alcohol neu gyffuriau, gan gynnwys meddyginiaethau ar bresgripsiwn.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+Mae [Cymdeithas Alzheimer](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) yn ychwanegu arwyddion fel gwadu'r clefyd, dicter tuag at y person ("mae e'n bod yn ystyfnig"), pryder am y dyfodol, trafferth canolbwyntio, a phroblemau iechyd sy'n cymryd eu toll. Mae'n cynghori siarad â'ch meddyg os oes gennych chi arwyddion fel hyn yn rheolaidd.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Cyngor yr NIA yw peidio ag aros nes eich bod wedi'ch llethu'n llwyr. Sylwch ar eich arwyddion yn gynnar a gweithredwch arnyn nhw.
 
-## What can I do today, in five minutes?
+## Beth alla i ei wneud heddiw, mewn pum munud?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Mae egwyliau bach yn cyfrif. Nid yw'r un o'r rhain yn datrys llosgi, ond gallan nhw eich helpu i ddod drwodd brynhawn anodd.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Ewch allan am ychydig.** Eisteddwch ar y stepen neu cerddwch at y blwch post tra bod y person yn ddiogel ac wedi setlo.
+- **Anadlwch yn araf.** Ychydig anadliadau araf cyn ateb cwestiwn anodd. Gallwch chi hefyd rannu saib [Anadlu'n Dawel](/games/calm-breathing/) gyda'r person rydych chi'n gofalu amdano.
+- **Yfwch ychydig o ddŵr a bwytewch rywbeth.** Mae'n hawdd anghofio eich prydau bwyd eich hun.
+- **Anfonwch neges destun at un ffrind.** Nid i ofyn am unrhyw beth, dim ond i gysylltu.
+- **Dywedwch rywbeth caredig wrthych chi'ch hun.** Mae [canllaw'r NIA ar ofalu amdanoch eich hun](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) yn awgrymu brawddegau fel "Rwy'n gwneud fy ngorau," "Dydw i ddim yn berffaith, ac mae hynny'n iawn," a "Byddaf yn mwynhau'r eiliadau pan allwn ni fod gyda'n gilydd mewn heddwch."
 
-## What is respite care, and how do I get it?
+## Beth yw gofal seibiant, a sut ydw i'n ei gael?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Gofal tymor byr i'r person rydych chi'n gofalu amdano yw gofal seibiant, fel y gallwch chi orffwys. Mae [tudalen yr NIA ar ofal seibiant](https://www.nia.nih.gov/health/caregiving/what-respite-care) yn egluro y gall bara o ychydig oriau i sawl wythnos a gall ddigwydd gartref, mewn cyfleuster gofal iechyd neu mewn canolfan gofal dydd i oedolion.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+Mae [Cymdeithas Alzheimer](https://www.alz.org/help-support/caregiving/care-options/respite-care) yn disgrifio mathau cyffredin:
 
-| Type | What it is |
+| Math | Beth ydyw |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Cymorth yn y cartref | Mae ffrind, perthynas, gwirfoddolwr neu gydymaith neu gynorthwyydd cyflogedig yn dod i'r cartref |
+| Canolfan ddydd i oedolion | Gweithgareddau wedi'u cynllunio fel cerddoriaeth a chelf mewn lleoliad grŵp diogel; mae cludiant a phrydau bwyd yn aml yn cael eu cynnig |
+| Aros dros nos neu arhosiad byr | Mae cymuned gofal hirdymor yn gofalu am y person am noson, ychydig ddyddiau neu ychydig wythnosau |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Pwy sy'n talu?** Yn ôl yr NIA, gall seibiant gan deulu, ffrindiau neu wirfoddolwyr gostio dim. Mae gwasanaethau proffesiynol yn codi tâl fesul awr neu ddiwrnod. I rywun sy'n derbyn gofal hosbis, mae Medicare yn talu am y rhan fwyaf o gost hyd at bum niwrnod yn olynol o seibiant mewn ysbyty neu gyfleuster nyrsio medrus. Gall Medicaid helpu. Nid yw'r rhan fwyaf o yswiriant iechyd preifat yn talu am seibiant, er bod rhai cynlluniau yswiriant gofal hirdymor yn gwneud hynny.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Awgrym:** Mae Cymdeithas Alzheimer yn awgrymu rhoi cynnig ar ddarparwyr seibiant mewn sefyllfa nad yw'n argyfwng, fel eu bod yn barod os bydd angen help arnoch chi'n sydyn.
 
-## Where can I find help near me?
+## Ble alla i ddod o hyd i help yn agos i mi?
 
-Several free US services can point you to local help.
+Gall sawl gwasanaeth am ddim yn yr Unol Daleithiau eich cyfeirio at help lleol.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Llinell Gymorth 24/7 Cymdeithas Alzheimer: 1-800-272-3900.** Mae'r [Llinell Gymorth](https://www.alz.org/help-support/resources/helpline) am ddim ac yn gyfrinachol, wedi'i staffio bob awr o bob dydd o'r flwyddyn, gyda help mewn mwy na 200 o ieithoedd drwy staff dwyieithog neu gyfieithwyr. Deialwch 711 ar gyfer gwasanaeth cyfnewid. Gallwch siarad am newidiadau mewn ymddygiad, straen gofalwyr, opsiynau seibiant, rhaglenni lleol a mwy, a gofyn am sgwrs hirach gydag ymgynghorydd gofal. Nid yw'r staff yn rhoi cyngor meddygol.
+- **Eldercare Locator: 1-800-677-1116.** Mae'r [Eldercare Locator](https://eldercare.acl.gov/), gwasanaeth cyhoeddus gan yr Administration for Community Living, yn eich cysylltu â gwasanaethau i oedolion hŷn a'u teuluoedd. Gallwch ffonio, anfon neges destun, sgwrsio ar-lein neu anfon e-bost at staff hyfforddedig, neu chwilio yn ôl lleoliad. Gall eich cyfeirio at eich Area Agency on Aging lleol.
+- **ARCH National Respite Locator Service.** Mae [lleolwr seibiant ARCH](https://archrespite.org/caregiver-resources/respitelocator/) yn eich helpu i ddod o hyd i ddarparwyr seibiant fesul talaith, ac yn awgrymu cysylltu â'ch State Respite Coalition neu raglen Lifespan Respite yn gyntaf os oes un gan eich talaith. Mae ARCH yn nodi nad yw'n gwirio darparwyr, felly adolygwch eu profiad a'u cefndir eich hun.
 
-## How do I find a support group?
+## Sut ydw i'n dod o hyd i grŵp cefnogi?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Gofynnwch i'r Llinell Gymorth neu chwiliwch ar-lein am grwpiau yn agos i chi. Mae Cymdeithas Alzheimer [yn cynnal grwpiau cefnogi](https://www.alz.org/help-support/community/support-groups) i ofalwyr a phobl sy'n byw gyda dementia, wyneb yn wyneb ac ar-lein, dan arweiniad hwyluswyr hyfforddedig. Mae llawer o leoliadau hefyd yn cynnig grwpiau arbenigol, er enghraifft i ofalwyr sy'n oedolion neu i bobl sy'n byw gyda math cynnar o glefyd Alzheimer. Mae hefyd yn cynnal ALZConnected, cymuned ar-lein am ddim lle mae gofalwyr yn rhannu cyngor.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Gall grwpiau cefnogi fod yn lle i siarad yn agored heb farn, cael awgrymiadau ymarferol gan bobl sydd wedi bod yno, a theimlo'n llai unig. Os nad yw'r grŵp cyntaf yn addas, rhowch gynnig ar un arall.
 
-## How do I ask family and friends for help?
+## Sut ydw i'n gofyn i deulu a ffrindiau am help?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Byddwch yn benodol. Mae llawer o bobl eisiau helpu ond dydyn nhw ddim yn gwybod beth i'w gynnig. Mae'r NIA yn awgrymu:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Cadwch restr** o dasgau y gallai eraill eu gwneud, a gadewch i bobl ddewis.
+- **Dechreuwch yn fach** os yw gofyn yn anodd.
+- **Parwch y dasg â'r person.** Mae'r cefnder sy'n hoffi coginio yn dod â swper nos Iau. Mae'r cymydog sy'n dda gyda ffurflenni yn helpu gyda gwaith papur.
+- **Anfonwch neges destun neu e-bost** os yw gofyn wyneb yn wyneb yn anghyfforddus.
+- **Ymarferwch ateb** ar gyfer pan fydd rhywun yn cynnig: "Diolch am ofyn. Dyma beth allwch chi ei wneud."
+- **Disgwyliwch rai atebion na** a cheisiwch beidio â'u cymryd yn bersonol.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Syniadau eraill: gofynnwch i rywun eistedd gyda'r person am un prynhawn yr wythnos, mynd â nhw am dro byr, neu ymweld a chwarae gêm gyda'n gilydd. Mae ein [canllaw i chwarae gyda'n gilydd](/caregiving/how-to-play-together/) yn hawdd ei rannu ag ymwelwyr.
 
-## What if something happened to me?
+## Beth petai rhywbeth yn digwydd i mi?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Gwnewch gynllun wrth gefn syml nawr. Mae'r NIA yn awgrymu penderfynu gyda theulu neu ffrindiau agos pwy fyddai'n camu i mewn, a chadw llyfr nodiadau gyda rhifau brys, meddyginiaethau, awgrymiadau ymddygiad sy'n gweithio, a hoff weithgareddau. Mae Cymdeithas Alzheimer hefyd yn argymell cadw manylion cyswllt meddygol y person a rhestr feddyginiaethau gyfredol yn hawdd i'w canfod.
 
-## When should I get professional or urgent help?
+## Pryd ddylwn i gael help proffesiynol neu frys?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Siaradwch â'ch meddyg os yw arwyddion straen yn rheolaidd, os ydych chi'n teimlo'n isel, neu os ydych chi'n ei chael hi'n anodd ymdopi. Dywedwch wrth eich meddyg eich bod yn ofalwr. Mae'r NIA yn nodi y gall cwnselwyr a gweithwyr cymdeithasol helpu gyda theimladau anodd a chynllunio, ac y gall Medicare, Medicaid a rhywfaint o yswiriant preifat dalu am rai costau iechyd meddwl.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Os ydych chi'n teimlo mewn argyfwng neu os oes gennych chi feddyliau am niweidio eich hun, ffoniwch neu anfonwch neges destun at 988 i gysylltu â'r [988 Suicide & Crisis Lifeline](https://988lifeline.org/), sy'n rhad ac am ddim ac ar gael 24/7. Os oes unrhyw un mewn perygl uniongyrchol, ffoniwch 999.
 
-## Can shared activities give me a break too?
+## A all gweithgareddau a rennir roi egwyl i mi hefyd?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Weithiau. Gall gweithgaredd tawel rydych chi'ch dau yn ei fwynhau fod yn rhan fwy tyner o'r diwrnod i chi yn ogystal â'r person rydych chi'n gofalu amdano: gwrando ar hen ganeuon, edrych ar luniau, neu gêm fel [Cardiau Sgwrs](/games/conversation-cards/) nad oes angen atebion cywir arni. Os yw'r person yn mwynhau cwmni, gall sesiwn grŵp gyda [Bingo Lluniau](/games/picture-bingo/) mewn canolfan hŷn neu raglen ddydd i oedolion roi awr o seibiant i chi. Gweler [gweithgareddau ar gyfer grwpiau mewn cartrefi gofal](/activities/care-home-groups/) am syniadau.

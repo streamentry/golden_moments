@@ -56,7 +56,9 @@ pnpm preview             # serves dist/ with the real Workers runtime, headers a
   analytics without a documented decision and a privacy-page update first.
 - **No timers, scores, streaks or quizzing**, in games or copy. Health pages use
   risk language and cite sources; see `CONTENT_GUIDE.md`.
-- **Photo pairs never uploads.** Photos become object URLs in the tab only.
+- **Photo Pairs does not upload or save photos or captions.** Photos become
+  object URLs in the tab; captions stay in page memory and are used only as
+  screen-reader names.
 
 ## App legal pages
 

@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Tũthako twa Kũririkana kũrĩ Andũ Akũrũ marĩ na Ũrimũ wa Kwaga Kũririkana"
+seoTitle: "Tũthako Twega twa Kũririkana, Njĩra Nyororo"
+description: "Tũthako twa kũringithania mbica na makarita kũrĩ andũ akũrũ marĩ na ũrimũ wa kwaga kũririkana, na ũrĩa mũngathaka hatarĩ mũndũ ũkuona ta aragerio: mbica cionekage, mĩbango mĩnini, hatarĩ gũtaranĩra, na gũthaka mũrĩ hamwe."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Tũthako twa kũririkana kũrĩ andũ akũrũ marĩ na ũrimũ wa kwaga kũririkana
+  tũkagĩa twega makĩria rĩrĩa tũtihooyaga kũririkana. Thakai tũthako twa
+  kũringithania mbica irĩ o hau cionekage, hũthĩrai tũbango tũna nginya
+  ithathatũ, thakai mũrĩ hamwe na mũtige gũtaranĩra. Kũmenya mbica nĩ kũhũthũ
+  gũkĩra kũririkana ĩtarĩ ho, nĩ ũndũ ũcio thuurai tũthako tũrĩa indo ciothe
+  ikoragwo cionekage. Gĩkeno, no ti moimĩrĩro, nĩkĩo kĩrĩa kĩnene.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Tũthako twa kũririkana twa tene tũhithaga makarita, na ũndũ ũcio tũgeragia ũndũ ũrĩa ũrimũ wa kwaga kũririkana ũtumaga ũkorwo ũrĩ mũritũ. Reke mbica ikorwo cionekage."
+  - "Indo nini, mbica nene na gũthuura kũmwe o ihinda rĩmwe nĩ itũmaga mũthako ũkorwo mwega."
+  - "Thakai mũrĩ hamwe, garũraniai gũteithania na mũtige gũtaranĩra. Gũtirĩ mũndũ wagĩrĩirwo nĩ kũigwo harĩa hangĩhoteka."
+  - "Gũtirĩ mũthako wa kũririkana wonetio ũrĩa ũhonagia, ũgiragia kana ũkinyagia ũrimũ wa kwaga kũririkana. Thakai tondũ nĩ ihinda rĩega rĩa gũkorwo hamwe."
+  - "Tigai mũthako rĩrĩa o wothe ũrĩ mwega. Kwarĩrĩria mbica nĩ moimĩrĩro mega."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Nĩ mũthako ũrĩkũ mwega wa kũririkana kũrĩ mũndũ ũrĩ na ũrimũ wa kwaga kũririkana?"
+    a: "Mũthako wa kũringithania mbica nene, cia mũndũ mamenyereire, iria ingĩikara cionekage, ta Picture pairs rĩrĩa ũtũmĩrĩtwo na tũbango tũna kana ithathatũ. Kuona mbica ĩngĩ ĩhaanaine na ĩrĩa ũrorete nĩ gũkenagia hatarĩ kũgeria ũhoti wa kũririkana maũndũ mahinda ma ta tene. Find the same nĩ mũhũthũ makĩria, tondũ harĩ na mbica ĩmwe ya kũringithania na ithuura igĩrĩ nginya inya."
+  - q: "Tũthako twa kũririkana nĩ tũteithagia ũrimũ wa kwaga kũririkana?"
+    a: "Gũtirĩ mũthako wa kũririkana wonetio ũrĩa ũhonagia, ũgiragia kana ũkinyagia ũrimũ wa kwaga kũririkana; ũthuthuria wa Cochrane wonire atĩ ũhoro wa kũmenyithania ũrĩa ũrĩ ho igũrũ rĩa kũruta meciria na kompiuta ndũigana gũtũma tũmenye kana nĩ ũgiragia ũrimũ wa kwaga kũririkana. No rĩrĩ, tũthako no tũkorwo tũrĩ njĩra njega ya gũikara hamwe na thaayũ. Tũthuurei nĩ ũndũ wa gĩkeno na ũrũmwe."
+  - q: "No thake Concentration ya tene na mũndũ ũrĩ na ũrimũ wa kwaga kũririkana?"
+    a: "Kĩambĩrĩria-inĩ, andũ amwe no makenere ũthakaga, makĩria rĩrĩa makarita marĩ manini. Kũririkana kũrĩa makarita marĩ kwambĩrĩria kũrehe thĩĩna, garũra makarita makorwo marorete na mwĩra na mũcarie mĩbango ĩyo hamwe. Ũndũ ũcio nĩ ũtigagia kũringithania na ũkeheria ũgerio wa kũririkana."
+  - q: "Nĩ tũthako tũrĩkũ twa kũririkana tũkĩagĩrĩire kũrĩ andũ akũrũ marĩ gĩkundi-inĩ?"
+    a: "Picture bingo na mwĩtani wa gĩcunjĩ kĩa kompiuta, kũrĩĩkia ciugo iria imenyereirwo na mũgambo, na makarita ma kwaranĩria ciothe nĩ ciagĩrĩire gĩkundi-inĩ. Thakai nginya karita o gothe kaiyũre na mũtigacarie kuuga nũũ ũcooketie icokia, nĩguo gũtikagĩe mũndũ ũkuona ta aheanĩtwo."
+  - q: "Nĩ kũrĩ na tũthako twa kũririkana tũtarĩ thogora kũrĩ andũ akũrũ intaneti-inĩ?"
+    a: "Ĩĩ. Tũthako tũrĩ gĩcunjĩ-inĩ gĩkĩ, hamwe na Picture pairs, Find the same, Photo pairs na Picture puzzle, nĩ tũtarĩ thogora, tũtibataraga kwĩandĩkithia na nĩ tũrutaga wĩra thĩinĩ wa thimũ, tablet na kompiuta. Gũtirĩ kamwe karĩ na thaa ya gũthima kana mũtaratara wa amanoti."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Ũngĩcaria “tũthako twa kũririkana kũrĩ andũ akũrũ”, maũndũ maingĩ marĩa ũkoona mathondeketwo nĩ ũndũ wa andũ arĩa mendaga kwĩruta meciria: makarita mahithe, thaa ya gũtara, mĩthemba mĩingĩ ya wĩra na amanoti. Kũrĩ mũndũ ũrĩa ũtũũraga na ũrimũ wa kwaga kũririkana, maũndũ macio matũmaga mũthako ũtuĩke ũgerio wa ũndũ ũrĩa wĩtuĩkĩte mũritũ. Tũthako o tuo no tũthakwo na njĩra nyororo. Gĩcunjĩ gĩkĩ nĩ kĩonania ũrĩa, na gĩkaruta mũtaratara wa tũthako tũrĩa tũkĩrutaga wĩra wega o harĩa mũndũ arĩ.
 
-## Why do classic memory games frustrate people with dementia?
+## Nĩ kĩĩ gĩtũmaga tũthako twa kũririkana twa tene tũthĩĩnie andũ marĩ na ũrimũ wa kwaga kũririkana?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Nĩ tondũ tũhooyaga mũndũ aikarie ũhoro mwerũ meciria-inĩ, na ũndũ ũcio nĩguo ũkoragwo wa mbere kũhinyĩrĩrio nĩ Alzheimer’s, ĩrĩa arĩ yo itũmaga andũ aingĩ magĩe na ũrimũ wa kwaga kũririkana. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) yugaga atĩ rũũri rwa mbere rũrĩa rũonekaga mũno wa Alzheimer’s nĩ thĩĩna wa kũririkana maũndũ marĩa mũndũ erutĩte o ica-iku. Thĩinĩ wa Concentration ya tene, ũgarũraga makarita meerĩ, ũkaririkana harĩa marĩ, na ũkahũthĩra ũhoro ũcio thutha wa dagĩka imwe. Ũcio nĩ ũhoro mwerũ, ũikarĩtio na ũkaririkanwo.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Ũngĩongerera thaa ya gũtara, mũtaratara wa amanoti kana mũgambo wa kwonania mahĩtia, mũndũ ũcio no aririkanio maũndũ marĩa atangĩhota gwĩka, arĩ mbere ya mũndũ ũrĩa endete. Andũ aingĩ makaanja kwaga wendi wa gũthaka matekwaria.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Kũmenya kĩndũ kĩrĩa ũrorete nĩ wĩra ũngĩ, na kaingĩ nĩ mũhũthũ. Kuonania gĩkombe gĩa keerĩ gĩa cai rĩrĩa cierĩ irĩ ho nĩ kũrehaga gĩkeno. Nĩ ũndũ ũcio, ũrĩa ũbataire nĩ gũtiga kũringithania gũgĩthiĩ na mbere, no ũkeheria ũgerio wa kũririkana.
 
-## How do you make a memory game gentle?
+## Ũngĩtũma mũthako wa kũririkana ũkorwo mũnyoroku atĩa?
 
-These adjustments work for card games, board games and games on a screen.
+Magarũrĩrio maya nĩ marutaga wĩra kũrĩ tũthako twa makarita, twa metha na twa gĩcunjĩ kĩa kompiuta.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Reke mbica ikorwo cionekage.** Kũringithania mbica iria ũrorete o na rĩu nĩ mũthako wa ma, na kaingĩ nĩ ũkenagia.
+2. **Hũthĩra indo nini.** Ambĩrĩria na mĩbango ĩĩrĩ kana ĩtatũ. Ongerera tu rĩrĩa ĩkuoneka ĩrĩ mĩhũthũ mũno nao makenda makĩria.
+3. **Thuura mbica nene, cia mũndũ mamenyereire, cia andũ akũrũ.** Gĩkombe gĩa cai, ihũa rĩa riũa, gatarũ ka maaĩ. Ti mbica cia tũthaka twa ciana, na ti mbica irĩ na indo nyingĩ mũno.
+4. **Thakai mũrĩ hamwe.** “Rekei tũcarie ngui” handũ ha “nĩ ihinda rĩaku.” Garũraniai kuonania na gũteithania.
+5. **Tigai gũtaranĩra.** Gũtirĩ mũndũ ũbataire kũhoota. Mũndũ angĩũria, kuuga o “nĩ twahota” nĩ kũiganu.
+6. **Mũtikanahiũhe thaa.** Gũtirĩ thaa ya gũtara, na gũtirĩ kũhiũha gatagatĩ ka magarũrĩrio.
+7. **Aranĩriai ũhoro wa mbica.** “Rora gatarũ kau. Nĩ wathiiaga na gatarũ ka maaĩ?” Kaingĩ kwaranĩria nĩkũo gũkoragwo kũrĩ kwega makĩria.
+8. **Tigai mũthako ũrĩ na mũkaro mwega.** Rĩkiai thutha wa kũringithania, rĩrĩa ũrĩ o mwega.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ĩheanaga ũtaaro wa mũthemba ũcio: ringithania wĩra na ũrĩa mũndũ angĩhota gwĩka, rora kana nĩ kũrĩ na thĩĩna, na ũmenyerere atĩ nĩ araigua ahotete.
 
-## Gentle memory and matching games to try
+## Tũthako twa kũririkana na kũringithania twa ũhooreri mũngĩgeria
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (kũringithania na mbica cionekage)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) nĩ mũthako wa kũringithania mbica nene na tũbango tũna nginya 12. Mbica no ikorwo cionekage, nĩ ũndũ ũcio nĩ ũhoro wa kuona mbica igĩrĩ ihaanaine, ti kũririkana kũrĩa ciarĩ. Ambĩrĩria na tũbango tũna. Kũrĩ mũndũ ũrĩ kĩambĩrĩria-inĩ ũrĩa ũkenagĩra wĩra mũritũ hanini, no ũgarũre ũthiĩ **Hidden pictures**, no cookia mbica cionekage o rĩrĩa mũthako ũtigĩte gũkenia.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) yonanagia mbica ĩmwe igũrũ na ithuura igĩrĩ nginya inya thĩ. Hũũra ĩrĩa ĩhaanaine nayo. Nĩguo mũthako mũhũthũ mũno wa kũringithania gĩcunjĩ-inĩ gĩkĩ, na nĩ ũkĩagĩrĩire andũ arĩa monaga mũtaratara mũnene ũrĩ na indo nyingĩ, hamwe na aingĩ arĩa marĩ kũrigĩrĩria-inĩ makorwo marĩ na mũndũ hau hamwe nao.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (mũthako wa kũririkana na mbica cia famĩlĩ)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) ũgarũraga mbica iria ũthuurĩte gũtuĩka mũthako wa kũringithania: ngui, mũgũnda, nyũmba ya rũteere-inĩ. Mothiũ na kũndũ kũrĩa mũndũ amenyereire kaingĩ nĩ irehaga kwaranĩria gũkĩra mbica o ciothe. Mbica ikoragwo thĩinĩ wa browser yaku na ititũmagwo kũndũ kũngĩ.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) ũkũũraga ũige mbica o ĩmwe gĩkabũ-inĩ kĩrĩa kĩagĩrĩire, ta riko kana mũgũnda. Kũgayania kũringanaga na ũmenyo wa matukũ maingĩ wa ũrĩa maũndũ mathiiaga, ti kũririkana kwa ihinda inini.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) ũtinangagia mbica tũcunjĩ tũna kana 9. Hũũra tũcunjĩ twĩrĩ nĩguo tũgarũranie handũ nginya mbica ĩcooke ĩgĩe hamwe. Mbica ĩrĩa ĩkinyanĩte ĩkoragwo ĩonekaga gĩcunjĩ-inĩ kĩu nĩguo ĩgũteithie.
 
-### Real cards on the table
+### Makarita ma ma metha-inĩ
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Ndũbataire gĩcunjĩ kĩa kompiuta. Ruta mĩbango ĩhaanaine kuuma makarita meerĩ ma kũruta wĩra kana kuuma kũrĩ makarita ma mbica. Maige marorete mĩtarĩ-inĩ ĩĩrĩ na mũcarie mĩbango ĩyo hamwe. Thutha ũcio, no mũmagayanie kũringana na rangi kana mũthemba. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ĩtaranagia tũthako twa makarita na twa metha ta imwe cia mĩtugo ya kĩambĩrĩria-inĩ.
 
-## Which memory games suit each stage?
+## Nĩ tũthako tũrĩkũ twa kũririkana tũkĩagĩrĩire o harĩa mũndũ arĩ?
 
-Stages are loose labels. Go by what the person enjoys today.
+Mĩthemba ya harĩa mũndũ arĩ nĩ cionereria tu. Rũmagĩrĩra ũrĩa mũndũ ũcio arakenio ũmũthĩ.
 
-| Stage | Games that often fit | How to set them up |
+| Harĩa mũndũ arĩ | Tũthako tũrĩa kaingĩ tũkĩagĩrĩire | Ũrĩa mũngatũhaarĩria |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Kĩambĩrĩria | Picture pairs, Photo pairs, Picture puzzle na tũcunjĩ 9, tũthako twa makarita twa mũndũ mamenyereire | Reke athuure. Tũbango no tũgarũrũo angĩkenio nĩguo; tiga gũtaranĩra angĩona tĩ kwega |
+| Gatagatĩ | Picture pairs na tũbango tũna nginya ithathatũ cionekage, Find the same, Sort together | Mbica ikorwo hĩndĩ ciothe cionekage. Icara hamwe nake na mũgarũranagie gũteithania |
+| Kũrigĩrĩria | Find the same na ithuura igĩrĩ, kũrora mbica ĩmwe nene hamwe | Ihinda inini mũno. Wee nyita tablet; we akoiga na kĩara, kana akarora na athikĩrĩrie |
 
-## Do memory games help with dementia?
+## Tũthako twa kũririkana nĩ tũteithagia ũrimũ wa kwaga kũririkana?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Gũtirĩ mũthako wa kũririkana wonetio ũrĩa ũhonagia, ũgiragia kana ũkinyagia ũrimũ wa kwaga kũririkana. [Ũthuthuria wa Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) wa kũruta meciria na kompiuta kũrĩ andũ marĩ na thĩĩna mũnini wa kwaga kũririkana wonire atĩ ũhoro ũrĩa ũrĩ ho ndũigana gũtũma tũmenye kana nĩ ũgiragia ũrimũ wa kwaga kũririkana. Mũtaratara witũ wa [tũthako twa meciria na ũrimũ wa kwaga kũririkana](/brain-health/brain-games/) nĩ ũtaaragĩria ũrĩa ũthuthuria wonanagia na ũrĩa ũtonanagia.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Ũcio ti gĩtũmi gĩa gũtiga tũthako. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ĩtaaraga atĩ mwĩcũhĩrĩrie gĩkeno, ti moimĩrĩro. Dagĩka ikũmi cia kũringithania mbica na kwaranĩria ũhoro wacio no ikorwo irĩ gĩcunjĩ kĩega kĩa mũthenya.
 
-## What about memory games for seniors without dementia?
+## Ĩ tũthako twa kũririkana kũrĩ andũ akũrũ matarĩ na ũrimũ wa kwaga kũririkana?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Mũndũ mũkũrũ ũtarĩ na thĩĩna wa kwaga kũririkana angĩkenio nĩ marigithania marĩ na thaa, amanoti na mĩthemba mĩritũ, hatirĩ ũũru. No ndũkagĩrĩirwo nĩ kwĩhoka atĩ nĩ ikũmũgitĩra kuuma kũrĩ ũrimũ wa kwaga kũririkana; gũtirĩ mũthako wonetio ũrĩa ũhotaga gwĩka ũguo. Njĩra iria nyororo iria tũkwaria igũrũ no irute wĩra wega rĩrĩa njiarwa itiganĩte irathaka hamwe: mũndũ mũkũrũ ũrĩ na ũrimũ wa kwaga kũririkana na mũcũkũrũ mũnini no maringithanie mbica marĩ hamwe, hatarĩ ũrĩa ũragerio.
 
-## When should you stop or change the game?
+## Rĩrĩa wagĩrĩirwo nĩ kũrũgamia kana kũgarũra mũthako?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Kũhũma mĩhũmĩ, gũtindĩka tablet na kũraihu, kuuga “ndingĩhota gwĩka ũguo” kana kuoneka ũrĩ na mĩtangĩko ciothe nĩ imenyithia cia kũũhũthia kana kũrũgamia. Geria tũbango tũnini, garũra mbica ikorwo cionekage, hũra ũthiĩ [Find the same](/games/find-the-same/), kana mũrore mbica tu na mwaranĩrie. Angĩkorwo ndendaga gũthaka o na hanini, ũcio no wega. Mũtaratara witũ wa [ũrĩa mũngĩthaka hamwe](/caregiving/how-to-play-together/) ũrĩ na ũhoro ũngĩ wa ũrĩa mũngĩthiĩ na mĩtũkĩ na gũteithania.

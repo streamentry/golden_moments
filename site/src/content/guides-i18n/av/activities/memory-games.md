@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Деменциялда лъугӀарал гӀемалъи: гьоркьоса"
+seoTitle: "Деменциялда лъугӀарал гӀемалъи, гьоркьоса"
+description: "ГӀемалъи жагӀал, суратазе ва карталазе бихьарал адамазхъе, ва гьелъ лъугӀиян: суратал гьоркьоса бакӀараб, бихьинабаб кьадар, гӀолохъ-гӀолохъ, къе буго сабаб къимат."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Деменциялда бугеб адамазхъе лъугӀарал гӀемалъи ахирал бугьи ккола, гьеб
+  хъвадар гьабулеб бегьулел бугеб хьвадарасул дир. Суратал гьоркьоса бакӀарал
+  лъугӀарал гӀемалъи лъугӀе, четыре-шесть гьоркьоса, гӀолохъ-гӀолохъ лъугӀе ва
+  къимат дир гьабизе. Сурат гьабулеб гьоркьоса бакӀараб дир, ккола гьебти дир
+  бакӀараб дир. ГӀемалъи буго гӀемалъи цӀал дир, гьесул ишаралъ дир.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Классикаб лъугӀарал гӀемалъи карталъи бакӀуна, гьеб деменциялда бугеб адамазе чӀваялъе тӀубалъиялъ. Суратал гьоркьоса бакӀиннабизе лъугӀе."
+  - "Бихьинабаб кьадар, бихьарал сурат ва гӀолохъ-гӀолохъ аналъе ккола гӀемалъи гьорчӀал."
+  - "ГӀолохъ-гӀолохъ лъугӀе, гӀолохъ гьабизе ва къимат дир гьабе. Гьеб адамалъе чӀваялъе тӀубалъи ккола."
+  - "ЛъугӀарал гӀемалъи ахирал деменция бегьулеб, гьесул дир гьабулеб бугьи цӀалъе. ГӀемалъи гьоркьоса вақтӀ ккола цӀал."
+  - "ГӀемалъи дир гьабе, гьеб къиматал бугьиялъ. Суратазе рахъе хъахъиялъ ва гьесул къадар дир ккола хъвадар."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Деменциялда бугеб адамалъе бихьарал лъугӀарал гӀемалъи дир ккола?"
+    a: "Бихьарал, ахирал суратал гьоркьоса бакӀарал гӀемалъи, гьоркьоса четыре ё шесть бакӀараб, Суратал гьоркьоса гӀемалъи. Гьоркьоса бихьарал сурат гьабулеб гьоркьоса гӀемалъи, къеялда ахирал дир ккола, гьебхъе ккола дир. Гьоркьосаби дир ккола: ккола гьоркьоса гӀемалъи, гьоркьоса ишара."
+  - q: "ЛъугӀарал гӀемалъи деменциялъе чӀваялъе ккола?"
+    a: "ЛъугӀарал гӀемалъи деменциялъе чӀваялъе, гьеб хьвадар ё тӀубалъе лъугӀе. Коккрейнил хъвадарал гьабулеб, компьютеразул мухъалъи бугьи гьабулеб гьоркьоса, гьеб деменциялъе чӀваялъе ккола ё ккола, гьеб гьабизе бегьулеб. ГӀемалъи бегьулеб ккола гьелъ дир хъахъиялъ ва гӀоло дир ккола."
+  - q: "Деменциялда бугеб адамалъе классикаб «Концентрация» гӀемалъи лъугӀиналъ ккола?"
+    a: "Гьабидаб вақтӀалда гӀемалъи гьабулеб адамал дир бугьи цӀалъе, бихьарал карталъи. Карталал гьоркьоса бакӀарал вакӀ кьолъе, тӀакӀ карталал гьабулеб гьоркьоса гӀемалъи, гьелъ гӀолохъ ккола. Гьеб гьабизе ккола гӀемалъи ахирал, гьеб адамалъе дир ккола."
+  - q: "Къарарал адамазе гӀоло гӀемалъи дир ккола?"
+    a: "Гьабулеб, суратал бингоял, мацӀал хъвадар гьабулеб ва гьоркьоса гӀемалъи гьабулеб гӀоло дир ккола. ГӀемалъи гьабулеб вақтӀ дир, гьеб адамалъе гӀолоялъ сабаб ккола."
+  - q: "Интернеталда адамазе бугеб лъугӀарал гӀемалъи гьабулеб ккола?"
+    a: "Ккола. Гьабидаб сайтал гӀемалъиял, Суратал гьоркьоса, Гьоркьоса сурат, Фото гьоркьоса ва Суратал пазл, бакӀарал ва телефонал, планшетал, компьютерал гьоркьоса гьабулеб. Гьелъ вақтӀ ё къимат гьабулеб дир ккола."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+«Деменциялда лъугӀарал гӀемалъи» гьабизе кӀудияб бихьинабулеб ахирал, гьеб дир ккола хьвадарал, суратал ва карталъи гьабулеб гӀемалъи, гьекъолъи вақтӀ ва къимат бугьи. Деменция бугеб адамалъе, гьеб гӀемалъи тӀубалъиялъ ккола тӀубалъиялъ. Гьеб гӀемалъи гьабулеб гьоркьоса ккола. Гьеб адамазе гьабулеб гьоркьоса дир ккола. Гьабулеб гӀемалъи гьабе, гьелъ лъугӀиян.
 
-## Why do classic memory games frustrate people with dementia?
+## Классикаб лъугӀарал гӀемалъи деменциялда бугеб адамалъе чӀваялъе ккола?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Гьелъ ккола гьоркьоса ахирал гӀемалъи, гьеб гьабулеб къаларал бугьи ахирал, Альцгеймерил бугьи гьабулеб. [Альцгеймерил бугьи гӀемалъи](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) бихьинабулеб: гьабидаб вақтӀалда бихьарал бугьи ахирал гьабулеб ккола. Классикаб «Концентрация» гӀемалъи карталъи ккола: ккола ираб карталъи, гьелъ гьоркьоса бакӀарал вақтӀ гьабулеб, минут бакӀарал вақтӀ гьабулеб. Гьеб бихьарал бугьи ккола, гьелъ гьабулеб.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+ВақтӀ ё къимат ё гӀоло сигнал бакӀарал гьабулеб, гьеб адамазе гьабулеб гӀоло. Гьеб адамазе гьабулеб ккола бугьи, гьеб гьабулеб адам гьорчӀалъе гьабулеб. Гьелъ гӀемалъи гьабулеб гьоркьоса бихьарал ккола.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Гьабулеб сурат бихьинабулеб ва гьабулеб гьоркьоса гӀемалъи дир ккола. БакӀарал ираб сурат гьабулеб гӀемалъи гьабулеб ккола. Гьеб ккола: гьоркьоса гӀемалъи гьабулеб, тӀакӀ памяти гьабулеб ккола дир. Гьелъ гьабулеб дир ккола.
 
-## How do you make a memory game gentle?
+## ГӀемалъи лъугӀарал гьабизе вуго?
 
-These adjustments work for card games, board games and games on a screen.
+Гьеб гӀемалъи карталъи, гӀемалъи ва экранал гьабулеб гьоркьоса дир ккола.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Суратал гьоркьоса бакӀе.** Ираб суратал гьоркьоса гьабулеб гӀемалъи ккола, гьеб гьабулеб гьоркьоса.
+2. **Бихьинабаб кьадар.** Два ё три гьоркьоса бакӀе. Гьеб дир ккола гьабулеб адамалъе.
+3. **Бихьарал, ахирал, адамазе бугеб сурат.** Чашка, подсолнух, парусник. Мультфильм ё гьабулеб дир ккола.
+4. **ГӀолохъ-гӀолохъ лъугӀе.** «Давайте найдём собак» ккола, «твой ход» гьабулеб дир ккола. ГӀолохъ-гӀолохъ гьабулеб.
+5. **Къимат дир гьабе.** Гьабулеб адам къиматалъе гьабулеб дир ккола. Гьеб адамалъе «мы справились» ккола.
+6. **ВақтӀ гьабулеб дир ккола.** Таймер дир, гьабулеб гьоркьоса вақтӀ дир.
+7. **Суратазе лъугӀе.** «Вот эта лодка. Ты когда-нибудь плавал?» ккола. ЛъугӀарал гьабулеб гӀемалъи ккола.
+8. **Ахирал вақтӀалда гьабе.** Гьоркьоса гьабулеб бакӀарал, гьабулеб гьоркьоса гӀемалъи дир.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[Национальный институт старения](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) бихьинабулеб, гьабулеб гӀемалъи гьабулеб адамалъе гьоркьоса. Гьабулеб адам гьорчӀалъе, гьесул гьоркьоса гьабулеб.
 
-## Gentle memory and matching games to try
+## ЛъугӀарал ва гьоркьоса гӀемалъи
 
-### Picture pairs (matching with pictures showing)
+### Суратал гьоркьоса (сурат гьабулеб)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Суратал гьоркьоса](/games/picture-pairs/) ккола гьоркьоса гӀемалъи, сурат гьабулеб, 4-12 гьоркьоса. Суратал гьабулеб ккола гьоркьоса. Четыре гьоркьоса гьабе. Гьабулеб адамалъе ахирал гьабулеб вақтӀ гьабе, **Скрытые картинки** гьабулеб дир ккола, гьеб адамалъе гьабулеб ккола дир.
 
-### Find the same
+### Гьоркьоса сурат
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Гьоркьоса сурат](/games/find-the-same/) гьабулеб, гьоркьоса сурат, гьесул гьоркьоса два-четыре. Гьабулеб гьоркьоса ккола. Гьеб гӀемалъи ккола гьабулеб адамалъе.
 
-### Photo pairs (family photo memory game)
+### Фото гьоркьоса
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Фото гьоркьоса](/games/photo-pairs/) гьабулеб сурат дир ккола: собака, огород, озерный дом. Гьабулеб адамалъе гьабулеб гьоркьоса. Суратал гьабулеб браузерал ккола, гьеб ккола гьабулеб дир, гьелъ не гьабулеб.
 
-### Sort together
+### Гьабулеб гьоркьоса
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Гьабулеб гьоркьоса](/games/sort-together/) гьабулеб сурат, гьелъ гьабулеб корзина, кухня ё огород. Гьабулеб гьоркьоса гьабулеб вақтӀ ккола, гьеб гьабулеб дир.
 
-### Picture puzzle
+### Суратал пазл
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Суратал пазл](/games/picture-puzzle/) гьабулеб сурат 4 ё 9 гьоркьоса. Два гьоркьоса гьабулеб, гьеб гьабулеб сурат тӀубалъе. ТӀубалъе сурат гьабулеб ккола.
 
-### Real cards on the table
+### Карталъи столалда
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Экран гьабулеб дир ккола. Карталъи гьабулеб гьоркьоса, гьабулеб гьоркьоса гьабулеб. Два ряд гьабе, суратал гьоркьоса бакӀе, гьоркьоса гьабулеб. Гьабулеб гьоркьоса, цвет ё масть гьабулеб. [Альцгеймерил фонд](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) гьабулеб, карталъи ва столалъи гӀемалъи ахирал бугьи дир.
 
-## Which memory games suit each stage?
+## Гьабулеб гӀемалъи гьабулеб этап дир ккола?
 
-Stages are loose labels. Go by what the person enjoys today.
+Этапал дир ккола. Гьабулеб адам бугьи гьабулеб дир.
 
-| Stage | Games that often fit | How to set them up |
+| Этап | Гьабулеб гӀемалъи | Гьабулеб гьабизе |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Ахирал | Суратал гьоркьоса, Фото гьоркьоса, Суратал пазл 9 гьоркьоса, карталъи | Гьабулеб адам гьабе. Гьабулеб вақтӀ дир, къимат дир гьабе |
+| Гьабулеб | Суратал гьоркьоса четыре-шесть, Гьоркьоса сурат, Гьабулеб гьоркьоса | Сурат гьабулеб гьоркьоса. Гьабулеб гӀолохъ-гӀолохъ лъугӀе |
+| Ахирал гьабулеб | Гьоркьоса сурат два вариант, гьабулеб сурат гьабулеб | Гьабулеб вақтӀ дир. Гьабулеб экран, гьабулеб гьоркьоса ё гьабулеб гьабулеб |
 
-## Do memory games help with dementia?
+## ЛъугӀарал гӀемалъи деменциялъе чӀваялъе ккола?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+ЛъугӀарал гӀемалъи деменциялъе чӀваялъе, гьеб хьвадар ё тӀубалъе лъугӀе. [Коккрейнил хъвадар](https://pubmed.ncbi.nlm.nih.gov/30864747/), компьютеразул мухъалъи бугьи, гьеб гьабулеб адамалъе, гьеб деменциялъе чӀваялъе ккола ё ккола, гьеб гьабизе бегьулеб. Гьеб гӀемалъи ккола, гьелъ [гӀемалъи ва деменция](/brain-health/brain-games/) гьабулеб гьоркьоса.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Гьеб гӀемалъи гьабулеб дир ккола. [Альцгеймерил бугьи](https://www.alz.org/help-support/caregiving/daily-care/activities) гьабулеб, гьабулеб гьоркьоса. Суратал гьоркьоса, гьабулеб гьоркьоса гьабулеб вақтӀ гьабулеб гьабулеб.
 
-## What about memory games for seniors without dementia?
+## Гьабулеб адамалъе деменция бугьи ахирал гӀемалъи?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Деменция бугьи ахирал адамалъе гьабулеб гӀемалъи, гьабулеб гьоркьоса вақтӀ, къимат ва ахирал гьабулеб дир ккола. Гьеб дир ккола. Гьабулеб гьоркьоса, гьабулеб гьабулеб ккола. Гьабулеб гьоркьоса гӀемалъи, гьабулеб адамалъе чӀваялъе тӀубалъиялъ.
 
-## When should you stop or change the game?
+## Гьабулеб ва гӀемалъи ахирал гьабизе вуго?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Гьабулеб гьоркьоса, гьабулеб гьоркьоса, гьабулеб, гьабулеб, гьабулеб. Гьабулеб гьоркьоса гьабе, гьабулеб гьоркьоса, [Гьоркьоса сурат](/games/find-the-same/) ё сурат гьабулеб, лъугӀе. Гьабулеб адам гьабулеб ккола дир, гьеб дир ккола. [ГӀолохъ-гӀолохъ лъугӀарал](/caregiving/how-to-play-together/) гьабулеб гьоркьоса.

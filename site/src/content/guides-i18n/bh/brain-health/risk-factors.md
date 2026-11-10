@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "डिमेंशिया के जोखिम: लांसेट के बतावल 14 गो कारण"
+seoTitle: "डिमेंशिया के जोखिम: लांसेट के 14 गो कारण"
+description: "2024 के लांसेट कमीशन के बतावल डिमेंशिया के 14 गो जोखिम कारण, जिनगी के पड़ाव अनुसार, शोध का कहेला आ डॉक्टर से का बात करे के चाहीं।"
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 के लांसेट कमीशन डिमेंशिया के अइसन 14 गो जोखिम कारण बतवले बा जेह में बदलाव
+  कइल जा सकेला: कम पढ़ाई-लिखाई, सुने में कमी, ढेर एलडीएल कोलेस्ट्रॉल, डिप्रेशन,
+  सिर में चोट, सुस्त जिनगी, शुगर, बीड़ी-सिगरेट, बढ़ल ब्लड प्रेशर, मोटाई, ढेर
+  शराब, समाज से अलगाव, हवा प्रदूषण आ आंख के बिना इलाज वाली कमजोरी। ई सभ मिल के
+  दुनिया भर में करीब 45% मामिला से जुड़ल बाड़ी सन, बाकी कौनों एके आदमी खातिर
+  एकर कवनो पक्का गारंटी नइखे।
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "ई 14 गो कारण पूरा जिनगी में फइलल बा: एक गो सुरुआती उमिर में, दस गो अधेड़ उमिर में आ तीन गो बुढ़ापा में।"
+  - "अधेड़ उमिर में सुने के कमी आ ढेर एलडीएल कोलेस्ट्रॉल, ई दुनों दुनिया भर में डिमेंशिया के करीब 7-7% मामिला से जुड़ल बा, जवन कौनों अकेले कारण में सभसे बेसी बा।"
+  - "ई प्रतिशत आबादी के अनुमान पर आधारित बा जेह में कारण आ असर मानल गइल बा। कुछ जुड़ाव खाली आंशिक भी हो सकेला।"
+  - "उमिर आ आनुवंशिकी (जींस), जेकरा केहू नइखे बदल सकत, ऊहो बड़हन जोखिम हवें। ई 14 गो खतरा कम कइला से ई गारंटी नइखे मिलत कि केहू के डिमेंशिया ना होई।"
+  - "एह में से जादेतर उपाय, जइसे ब्लड प्रेशर, कान आ आंख के जांच, सेहत खातिर हर तरह से नीक बा आ एह पर डॉक्टर से बात कइल जा सकेला।"
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "डिमेंशिया के ऊ 14 गो कारण कवन बाड़ें जेकरा बदलल जा सकेला?"
+    a: "2024 के लांसेट कमीशन कम पढ़ाई-लिखाई, सुने में कमी, ढेर एलडीएल कोलेस्ट्रॉल, डिप्रेशन, सिर में गंभीर चोट, कम शारीरिक मेहनत, शुगर, बीड़ी-सिगरेट, हाई ब्लड प्रेशर, मोटाई, ढेर शराब, समाज से दूरी, हवा प्रदूषण आ आंख के बिना इलाज वाली कमजोरी के नाम बतवले बा। ई सभ मिल के दुनिया भर में डिमेंशिया के करीब आधा मामिला से जुड़ल बाड़ें।"
+  - q: "डिमेंशिया के कवन जोखिम कारण सभसे जादे असरदार बा?"
+    a: "दुनिया भर के आबादी में, कमीशन के अनुमान बा कि अधेड़ उमिर में सुने में कमी आ ढेर एलडीएल कोलेस्ट्रॉल करीब 7-7% मामिला से जुड़ल बा, ओकरा बाद कम पढ़ाई-लिखाई आ सामाजिक अलगाव करीब 5-5% पर बा। कौनों एक आदमी खातिर कवन कारण जादे असरदार बा, ई उनुका निजी सेहत पर निर्भर करेला, एहसे डॉक्टर से सलाह लेब सभसे नीक बा।"
+  - q: "का 2024 में दू गो नया जोखिम कारण जोड़ल गइल बा?"
+    a: "हाँ। 2024 के रिपोर्ट में 2020 के 12 गो कारणन के अलावा अधेड़ उमिर में ढेर एलडीएल (खराब) कोलेस्ट्रॉल आ बुढ़ापा में आंख के बिना इलाज वाली कमजोरी के जोड़ल गइल। कमीशन इनहन के क्रम से करीब 7% आ 2% मामिला से जुड़ल बतवले बा।"
+  - q: "का उमिर अइसन जोखिम बा जेकरा बदलल जा सकेला?"
+    a: "ना। अल्जाइमर रोग खातिर उमिर सभसे बड़हन जोखिम ह, आ एकरा के बदलल नइखे जा सकत। जींस के भी भूमिका होला। एह पन्ना पर दिहल 14 गो कारण ऊ हवें जेकरा बारे में शोध बतावेला कि इनहन में बदलाव कइल जा सकेला।"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,129 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+जोखिम कारण (रिस्क फैक्टर) अइसन चीज होला जे कौनों बीमारी भा स्थिति होखे के
+संभावना बढ़ावे से जुड़ल रहेला। ई हर बेर बीमारी के सिधुआ कारण ना होला, आ कौनों
+जोखिम होखला के ई मतलब ना हवे कि रउआ के डिमेंशिया होइए जाई। एह पन्ना पर
+डिमेंशिया के ऊ 14 गो जोखिम कारण दिहल बा जेकरा बारे में 2024 के लांसेट कमीशन
+कहेला कि इनहन में बदलाव संभव बा, शोध इनहन के कइसे जोड़ के देखेला, आ रउआ एह
+बारे में डॉक्टर से का बात कर सकत बानी।
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+पूरा बात आ बड़हन रिसर्च में का निकलल, ई जाने खातिर
+[का डिमेंशिया से बचाव संभव बा? शोध का कहेला](/brain-health/can-dementia-be-prevented/)
+से सुरुआत करीं। ई खाली आम जानकारी ह, डॉक्टरी सलाह ना; हमनी के
+[चिकित्सीय अस्वीकरण (मेडिकल डिस्क्लेमर)](/medical-disclaimer/) देखीं।
 
-## What are the 14 risk factors for dementia?
+## डिमेंशिया के 14 गो जोखिम कारण कवन बाड़ें?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 लांसेट कमीशन](https://doi.org/10.1016/S0140-6736(24)01296-0),
+जेकरा डिमेंशिया के 27 गो शोधकर्ता लोग मिल के लिखले बा, अनुमान लगवले बा कि बदलाव
+लायक 14 गो जोखिम कारण मिल के दुनिया भर में डिमेंशिया के करीब 45% मामिला खातिर
+जिम्मेदार हो सकेलें। नीचे दिहल हर कारण के प्रतिशत दुनिया भर में ओकरा से जुड़ल
+मामिला के कमीशन द्वारा लगावल अनुमान ह, जेकरा पूरा अंक में बदल दिहल गइल बा। ई
+आंकड़ा आपस में मेल खाइल बाड़ें, काहें से कि बहुते लोग में एके साथ कई गो जोखिम
+होखेला, एहसे ई सभ मिल के 45% बनत बा, ओकरा से ढेर ना।
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| जोखिम कारण | जिनगी के पड़ाव | मामिला के हिस्सा | शोध का जोड़ के देखेला | रउआ का कर सकत बानी |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| कम पढ़ाई-लिखाई | सुरुआती जिनगी | 5% | स्कूल में कम साल पढ़े के जुड़ाव ढेर जोखिम से देखल गइल बा। अधेड़ उमिर में दिमाग के सक्रिय रखल भी बचाव करे वाला लउकेला, उनुकरो खातिर जे कम पढ़ल-लिखल बाड़ें। | कौनों भी उमिर में कुछ नया सीखत रहीं आ दिमाग के व्यस्त रखीं: पढ़ाई, शौक, क्लास, भा दूसरा लोग के साथे खेल। |
+| सुने में कमी | अधेड़ उमिर | 7% | सुने के कमी के इलाज ना कइला के जुड़ाव ढेर जोखिम से बा। लंबा समय तक लोग पर नजर राखे वाला अध्ययन में कान के मशीन (हियरिंग एड) लगवला से कम जोखिम पावल गइल बा। | कान के जांच करवाईं। डॉक्टर से पूछीं कि का हियरिंग एड से मदद मिली, आ सलाह मिलला पर ओकरा के जरूर लगाईं। तेज आवाज से कान के बचाईं। |
+| ढेर एलडीएल कोलेस्ट्रॉल | अधेड़ उमिर (लगभग 40 से) | 7% | अधेड़ उमिर में ढेर एलडीएल ("खराब") कोलेस्ट्रॉल के जुड़ाव ढेर जोखिम से बा। कुछ अध्ययन में स्टेटिन दवाई के इस्तेमाल से कम जोखिम देखल गइल बा, बाकी बाद के उमिर वाला परीक्षण में अइसन साफ ना लउकल। | डॉक्टर से पूछीं कि का रउआ कोलेस्ट्रॉल जांच करावे के चाहीं आ जरूरत पड़ला पर एकरा खातिर का कइल जाव। |
+| डिप्रेशन | अधेड़ उमिर | 3% | डिप्रेशन के जुड़ाव ढेर जोखिम से बा। बाद के उमिर में, डिप्रेशन डिमेंशिया के एगो सुरुआती लच्छन भी हो सकेला। | अगर दू हफ्ता से बेसी उदासी रहे भा कौनों चीज में मन ना लगे, त डॉक्टर से जरूर बतार्ईं। डिप्रेशन के इलाज संभव बा। |
+| सिर में गंभीर चोट | अधेड़ उमिर | 3% | कौनों भी उमिर में आ कवनो वजह से, जइसे खेलकूद के दौरान, सिर पर चोट लगला के जुड़ाव ढेर जोखिम से बा। | साइकिल चलावत घरी आ खेलकूद में हेलमेट जरूर पहिनीं। गिरे से बचे के उपाय पूछीं। सिर पर चोट लगला के बाद आराम करीं आ जांच करवाईं। |
+| शारीरिक सुस्ती | अधेड़ उमिर | 2% | जे लोग कसरत आ खेलकूद करेला, ओह लोग में डिमेंशिया होखे के संभावना कम रहेला। हालांकि ट्रायल के सबूत अभी सीमित बाड़ें। | पूछीं कि रउआ खातिर कवन कसरत सुरक्षित बा, आ जवना में मन लगे ऊ करीं। हमनी के [व्यायाम गाइड](/brain-health/exercise/) देखीं। |
+| शुगर (डायबिटीज) | अधेड़ उमिर | 2% | शुगर, खास क के जब ई अधेड़ उमिर में शुरू होखे भा लंबा समय ले रहे, त एकर जुड़ाव ढेर जोखिम से बा। | ब्लड शुगर के जांच करवावत रहीं। अगर शुगर बा, त अपना डॉक्टर भा सेहत टीम से बात क के एकरा के सही नियंत्रण में रखीं। |
+| बीड़ी-सिगरेट (धूम्रपान) | अधेड़ उमिर | 2% | बीड़ी-सिगरेट के सेवन ढेर जोखिम से जुड़ल बा। अध्ययन बतावेला कि जे लोग छोड़ देला, ओह लोग में लगातार पिए वाला लोग जइसन खतरा ना रहेला। | छोड़े खातिर मदद के बारे में सलाह लीं। कौनों भी उमिर में एकरा के छोड़ल फायदेमंद होला। |
+| हाई ब्लड प्रेशर | अधेड़ उमिर | 2% | अधेड़ उमिर में हाई ब्लड प्रेशर के जुड़ाव ढेर जोखिम से बा। ब्लड प्रेशर के दवाई के परीक्षण बतावेला कि एहसे डिमेंशिया भा सोचने-समझने में कमजोरी के जोखिम में कुछ कमी आवेला। | आपन ब्लड प्रेशर के नंबर जानीं। कमीशन 40 उमिर के बाद ऊपर वाला नंबर 130 भा ओकरा से कम रखे के सुझाव देला; डॉक्टर से पूछीं कि रउआ खातिर सही नंबर का बा। |
+| मोटाई (मोटापा) | अधेड़ उमिर | 1% | अधेड़ उमिर में मोटापा ढेर जोखिम से जुड़ल बा, आ ई शुगर के खतरा भी बढ़ावेला। | आपन वजन सही रखे खातिर डॉक्टर से सलाह लीं। बुजुर्ग लोग के बिना डॉक्टरी सलाह के वजन घटावे खातिर खाना कम ना करे के चाहीं। |
+| ढेर शराब | अधेड़ उमिर | 1% | बेसी शराब पिए के जुड़ाव ढेर जोखिम से बा। शराब कम कइला से जोखिम कम होखे के जुड़ाव देखल गइल बा। | पूछीं कि रउआ खातिर सुरक्षित सीमा का बा, खास क के अगर रउआ कवनो दवाई लेत बानी। |
+| समाज से दूरी | बाद के उमिर | 5% | लोगन से कम मेलजोल रखला के जुड़ाव ढेर जोखिम से बा। | अपना पसंद के तरीका से लोगन से जुड़ल रहीं। हमनी के [सामाजिक जुड़ाव गाइड](/brain-health/social-connection/) देखीं। |
+| हवा प्रदूषण | बाद के उमिर | 3% | ढेर प्रदूषित हवा में रहे के जुड़ाव ढेर जोखिम से बा। अध्ययन बतावेला कि साफ हवा से जोखिम कम होला। | ई जादेतर सरकारी नीति पर निर्भर करेला। लोकल हवा के गुणवत्ता (AQI) देखत रहीं आ जादे प्रदूषण वाला दिन बाहर जाए से बचीं। |
+| आंख के बिना इलाज वाली कमजोरी | बाद के उमिर | 2% | आंख के कमजोरी के इलाज ना कइला के जुड़ाव ढेर जोखिम से बा। अमेरिका के एगो बड़हन अध्ययन में मोतियाबिंद के ऑपरेशन से जोखिम में कमी देखल गइल बा। | आंख के नियमित जांच करवाईं। पूछीं कि का मोतियाबिंद जइसन समस्या के इलाज हो सकेला। |
 
-## How should I read these percentages?
+## एह प्रतिशत के हम कइसे समझीं?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+सावधानी से। कमीशन के आपन रिपोर्ट में कुछ बात ध्यान में रखे जोग बा:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **ई पूरा आबादी के बारे में ह, कवनो एक आदमी खातिर ना।** यूनिवर्सिटी कॉलेज लंदन के
+  [रिपोर्ट के सार](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  बतावेला कि जोखिम कम कइल पूरा आबादी के स्तर पर काम करेला, आ एह बात के कवनो
+  गारंटी नइखे कि कौनों एक आदमी के डिमेंशिया ना होई।
+- **ई कारण आ असर मान के चलेला।** लेखक लोग खाली ओही कारणन के शामिल कइले बा जेह
+  पर मजबूत सबूत बा, बाकी ईहो कहल गइल बा कि कुछ जुड़ाव खाली आंशिक रूप से कारण हो
+  सकेला।
+- **ई दुनिया भर के आंकड़ा ह।** जादेतर जानकारी धनी देशन से आइल बा, आ कौनों खास देश
+  भा समाज खातिर असली हिस्सा अलग हो सकेला।
+- **छोट प्रतिशत भी मायने राखेला।** दुनिया भर के 2% मामिला से जुड़ल कौनों कारण
+  भी असल में बहुते बड़हन संख्या में लोगन के प्रभावित करेला।
 
-## Which risk factors were added in 2024?
+## 2024 में कवन जोखिम कारण जोड़ल गइल रहे?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 के रिपोर्ट में 2020 के 12 गो कारणन में दू गो नया कारण जोड़ल गइल:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **अधेड़ उमिर में ढेर एलडीएल कोलेस्ट्रॉल**, जवन करीब 7% मामिला से जुड़ल बा।
+- **बाद के उमिर में आंख के बिना इलाज वाली कमजोरी**, जवन करीब 2% मामिला से जुड़ल
+  बा।
 
-## What risk factors cannot be changed?
+## कवन जोखिम कारण नइखे बदलल जा सकत?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+नेशनल इंस्टीट्यूट ऑन एजिंग के कहनाम बा कि
+[अल्जाइमर खातिर उमिर सभसे बड़हन जोखिम ह](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+आ एकरा के केहू नइखे बदल सकत। जींस के भी भूमिका होला; एगो जानल-मानल जीन जवन
+अल्जाइमर के जोखिम पर असर डालेला, ओकर नाम APOE ह। एनआईए ईहो बतावेला कि वैज्ञानिक
+लोग अभी ले पूरा तरह से नइखे समझ पावल कि जादेतर लोगन में अल्जाइमर के असली कारण का
+होला। लांसेट कमीशन ई कहेला कि कवनो आदमी के जेनेटिक जोखिम चाहे जइसन होखे, बदलल जा
+सके वाला जोखिम के कम कइल जा सकेला।
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+काहें से कि उमिर आ जींस के एतना बड़ भूमिका बा, एहसे अइसनो बहुते लोग बाड़ें जेकरा
+में ई 14 गो में से कौनों जोखिम ना रहला के बावजूद डिमेंशिया हो जाला। एह में केकरो
+कवनो दोस नइखे।
 
-## What does the trial evidence say about changing these risks?
+## एह जोखिमन के बदले पर ट्रायल के सबूत का कहेला?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+कौनों जोखिम कारण के डिमेंशिया से जुड़ाव होखल, आ एकरा के बदले से डिमेंशिया के
+जोखिम कम हो जाई ई साबित कइल, दुनों अलग बात ह। ट्रायल के सबूत कहाँ ले पहुँचल बा,
+एकर कुछ उदाहरण:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **ब्लड प्रेशर।** स्प्रिंट माइंड (SPRINT MIND) ट्रायल में, ब्लड प्रेशर के कम
+  लक्ष्य रखला से सोच-समझ के मामूली कमजोरी (माइल्ड कॉग्निटिव इम्पेयरमेंट) में
+  साफ कमी आइल। एहसे संभावित डिमेंशिया में कवनो बड़ कमी ना देखल गइल, हालांकि हो
+  सकेला कि ई ट्रायल एतना छोट रहे कि ई असर ना लउक पावल
+  ([JAMA में SPRINT MIND](https://pubmed.ncbi.nlm.nih.gov/30688979/))।
+- **कान के मशीन (हियरिंग एड)।** लांसेट कमीशन तीन साल के एगो हियरिंग एड ट्रायल के
+  चर्चा कइले बा, जेह में सोचे-समझे पर कुल मिला के कवनो असर ना मिलल, बाकी ढेर
+  जोखिम वाला लोगन के एगो समूह में फायदा देखल गइल। लंबा समय के अध्ययन में
+  हियरिंग एड के इस्तेमाल से कम जोखिम के जुड़ाव लउकेला। हमनी के
+  [सुने के क्षमता गाइड](/brain-health/hearing/) में एकरा बारे में अउरी जानकारी बा।
+- **शारीरिक गतिविधि।** नेशनल इंस्टीट्यूट ऑन एजिंग के कहनाम बा कि अइसन पुख्ता
+  क्लीनिकल ट्रायल सबूत नइखे जेहसे ई कहल जा सके कि कसरत से मामूली दिमागी कमजोरी भा
+  अल्जाइमर से बचाव हो सकेला भा ओकरा के धीमा कइल जा सकेला, हालांकि कुछ अध्ययन
+  बतावेला कि ई उमिर के साथ आवे वाली गिरावट में मददगार हो सकेला
+  ([अल्जाइमर से बचाव पर NIA](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))।
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+लंबा ट्रायल जेह में डिमेंशिया होखे के इंतजार कइल जाला, ऊ बहुत धीमा आ खर्चीला
+होला। एहसे कई गो कारणन खातिर सभसे नीक सबूत ओही अध्ययनन से मिलत रही जे लंबा समय ले
+लोगन पर नजर राखेला। ऊ सबूत काम के त बाड़ें, बाकी क्लीनिकल ट्रायल जेतना मजबूत ना
+होलें।
 
-## What about sleep and diet?
+## नींद आ खानपान के बारे में का?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+कमीशन नींद आ खानपान के जांच-परख कइलस, बाकी इनहन के लिस्ट में ना जोड़लस, काहें से
+कि इनहन पर सबूत एतना मजबूत भा एक जइसन ना रहे। हमनी के
+[नींद](/brain-health/sleep/) आ [खानपान](/brain-health/diet/) संबंधी गाइड में
+बतावल गइल बा कि अब ले का पता चलल बा।
 
-## Talk with a doctor
+## डॉक्टर से बात करीं
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+सालाना जांच एह मुद्दन पर बात करे के नीक मौका होला। रउआ ई लिस्ट साथे ले जा सकत
+बानी आ पूछ सकत बानी:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- हमार ब्लड प्रेशर, ब्लड शुगर आ कोलेस्ट्रॉल केतना बा, आ का एह में से कवनो पर
+  ध्यान देवे के जरूरत बा?
+- का हमरा कान आ आंख के जांच करावे के चाहीं?
+- हम जवन भी हलचल भा कसरत करत बानी, का ऊ हमरा खातिर सुरक्षित आ काफी बा?
+- का हमार कवनो दवाई याददाश्त भा सोच-विचार पर असर डाल सकेला?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+दवाई, खानपान, बरत (फास्टिंग), कसरत भा सप्लीमेंट में बदलाव करे से पहिले, डॉक्टर से
+बात जरूर करीं। अगर रउआ के भा जेकर रउआ देखभाल करत बानी उनुका अचानक भरम (कन्फ्यूजन)
+होखे, शरीर के एके अंग में कमजोरी आवे, भा बोले में तकलीफ होखे, त तुरंत 112 पर फोन
+करीं।

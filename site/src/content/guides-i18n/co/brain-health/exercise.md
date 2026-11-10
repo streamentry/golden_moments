@@ -1,32 +1,33 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Eserciziu è salute di u cervellu: ciò chì dice a ricerca"
+seoTitle: "Eserciziu è dimenza: ciò chì dice a ricerca"
+description: "Ciò chì a ricerca lega trà attività fisica è risicu di dimenza, è modi sicuri è piacevuli per move si per l'adulti anziani è e persone chì campanu cù a dimenza."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  I studii leanu l'attività fisica regulare à un risicu più bassu di dimenza, è a Cummissione
+  Lancet di u 2024 mette l'inattività fisica trà i 14 fattori di risicu chì si ponu cambià. I
+  studii clinichi ùn anu micca dimustratu chì l'eserciziu impedisce a dimenza. Move si aiuta
+  sempre a forza, l'equilibriu, l'umore è u sonnu, cusì marchjà, l'esercizii nantu à una sedia
+  è ballà valenu a pena per elli stessi. Parlate cù un duttore prima di principià qualcosa di
+  novu.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "In media, e persone fisicamente attive anu un risicu più bassu di dimenza, ma questu vene soprattuttu da studii d'osservazione, micca da studii clinichi."
+  - "Un studiu clinicu di cinque anni cù adulti anziani ùn hà trovu nisuna differenza chjara in e capacità di pensamentu trà i gruppi."
+  - "I cunsigli di u CDC per l'adulti di 65 anni è più coprenu attività aerobiche, di rinfurzamentu musculare è d'equilibriu, è dicenu chì un pocu d'attività hè megliu cà nunda."
+  - "Per e persone chì campanu cù a dimenza, un muvimentu cortu, famigliaru è spartutu, cum'è una spassighjata ogni ghjornu o ghjochi da pusà, conta più chè qualsiasi obbiettivu."
+  - "Più d'un adultu anzianu nant'à quattru casca ogni annu, cusì u travagliu di l'equilibriu è un spaziu sicuru venenu prima."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "L'eserciziu pò impedisce a dimenza?"
+    a: "Nimu pò prumette lu. Parechji studii leanu l'attività fisica à un risicu più bassu di dimenza, ma i studii clinichi ùn anu micca dimustratu chì l'eserciziu l'impedisce. L'eserciziu hà parechji altri benefizii dimustrati, cusì vale sempre a pena di fallu."
+  - q: "Hè sicuru per una persona chì campa cù a dimenza di fà eserciziu?"
+    a: "Di solitu, cù un pocu di preparazione. U National Institute on Aging cunsiglia di parlà cù u duttore di a persona prima di principià una rutina nova, di sceglie scarpi còmode, di prupone acqua è di mantene e sessioni corte. Firmate vi s'è a persona pare stanca, pocu stabile o infelice."
+  - q: "Chì esercizii si ponu fà da pusà?"
+    a: "L'opzioni da pusà includenu stinzate nantu à una sedia o yoga nantu à una sedia, lancià un pallone o una palla morbida, lancià sacchetti di fasgioli, alzà latte di suppa, bande elastiche è pedaliere. Sò bone scelte quandu marchjà hè difficiule."
+  - q: "È s'è a persona ùn vole micca move si?"
+    a: "Ùn furzate micca. Pruvate torna più tardi, participà voi stessu o stessa, mette musica famigliara, o trasfurmà u muvimentu in un'attività cum'è spazzà o annacquà e piante. Una spassighjata corta finu à a scatula di e lettere conta, è conta dinù u fattu di stà fora inseme."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +52,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Esse attivu hè una di l'abitudini più studiate in a ricerca nantu à a salute di u cervellu. I studii a leanu à un risicu più bassu di dimenza, ma ùn anu micca dimustratu chì l'eserciziu impedisce a dimenza. Ciò chì hè chjaru hè chì move si aiuta a forza, l'equilibriu, l'umore è u sonnu à ogni età. Sta pagina presenta ciò chì dice a ricerca, quanta attività hè cunsigliata à l'adulti anziani, è modi dolci per move si cù una persona chì campa cù a dimenza.
 
-## Does exercise lower the risk of dementia?
+## L'eserciziu riduce u risicu di dimenza?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+A ricerca suggerisce chì e persone fisicamente attive anu menu probabilità di sviluppà a dimenza, ma e prove anu i so limiti. A [Cummissione Lancet di u 2024 nantu à a dimenza](https://doi.org/10.1016/S0140-6736(24)01296-0) mette l'inattività fisica trà i 14 fattori di risicu chì si ponu cambià. In u so mudellu, sti 14 fattori inseme rapresentanu circa u 45% di i casi di dimenza in u mondu.
 
-Here is what the evidence looks like:
+Eccu ciò chì mostranu e prove:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **I studii d'osservazione vanu in u listessu sensu.** Una rivista di 58 studii, discututa da a Cummissione, hà trovu chì e persone fisicamente attive avianu circa 20% di risicu in menu di dimenza. A differenza più grande era trà e persone quasi cumpletamente inattive è quelle chì facianu almenu un pocu d'attività.
+- **U ligame pò andà in i dui sensi.** A Cummissione nota chì esse inattivu pò aumentà u risicu. Nota dinù chì i primi cambiamenti di a dimenza in u cervellu, chì cumincianu anni nanzu di a diagnosi, ponu rende e persone menu attive.
+- **I studii clinichi sò menu chjari.** In un studiu, 945 adulti anziani, cù una età media di 78 anni, sò stati attribuiti à cinque anni d'eserciziu supervisatu duie volte à settimana o à un gruppu di paragone. À a fine, e capacità di pensamentu ùn eranu micca chjaramente diverse trà i gruppi. Parechje persone in u gruppu di paragone eranu ancu attive, ciò chì rende u risultatu più difficiule da interpretà.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+U [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) u dice chjaramente. Nisun ligame chjaru trà attività fisica è prevenzione di a malatia d'Alzheimer hè statu dimustratu, è ùn ci hè micca abbastanza prove da studii clinichi per dì chì l'eserciziu l'impedisce o a rallenta. L'eserciziu riduce sempre u risicu di cascate, depressione, diabete, pressione alta è ictus. Alcune di ste cundizioni sò elle stesse ligate à u calu di e capacità cognitive.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+U missaghju onestu hè di move si perchè vi aiuta à sentì vi è à funziunà megliu oghje. Qualchì benefiziu pussibule per u cervellu hè un extra pussibule, micca una prumessa.
 
-## How much activity do older adults need?
+## Quanta attività anu bisognu l'adulti anziani?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+I [cunsigli di u CDC per l'adulti di 65 anni è più](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggeriscenu trè tipi d'attività ogni settimana:
 
-| Type | Weekly amount | Examples |
+| Tipu | Quantità à settimana | Esempii |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobica | Almenu 150 minuti d'attività moderata, per esempiu 30 minuti 5 ghjorni | Marchjà d'un passu vivu, ballà, acquagym |
+| Rinfurzamentu musculare | Almenu 2 ghjorni, travagliendu tutti i gruppi musculari principali | Alzà pesi ligeri o latte di suppa, bande elastiche |
+| Equilibriu | Regolarmente | Marchjà talonu-punta, alzà si da una sedia |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Quessi sò obbiettivi, micca cundizioni per principià. U CDC dice chì, s'è ùn pudete micca ghjunghje li, duvete esse attivu o attiva quant'è e vostre capacità è a vostra salute u permettenu. Un pocu d'attività hè megliu cà nunda.
 
-## Gentle ways to move for older adults
+## Modi dolci per move si per l'adulti anziani
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Marchjà in cumpagnia.** Una spassighjata ogni ghjornu cù un amicu, un vicinu o un gruppu di marchja aghjunghje cunversazione è sicurità.
+- **Esercizii nantu à una sedia.** Alzà e bracce da pusà, fà circhuli cù e caviglie, marchjà nant'à u locu è yoga nantu à una sedia rinfurzanu i musculi senza risicu per l'equilibriu.
+- **Ballà in cucina.** Mettite musica di l'adulescenza o di a ghjuventù di a persona è dondulate vi, battite u ritmu o fate qualchì passu. A nostra [guida nantu à l'attività cù a musica](/activities/music/) hà idee.
+- **Forza cù oggetti di a casa.** Alzate buttiglie d'acqua piene o latte di suppa mentre fighjate un prugramma preferitu.
+- **Giardinà o fà e faccende.** Annacquà e piante, rastrellà, spazzà è piegà a biancheria contanu tutti. Fighjate [attività fora è in giardinu](/activities/outdoor-and-gardening/) è [faccende di casa](/activities/household-tasks/).
+- **Eserciziu in acqua.** U NIA cita i corsi d'acquagym cum'è una opzione per e persone chì trovanu difficiule l'eserciziu in terra per l'articulazioni.
 
-## How to exercise with someone living with dementia
+## Cumu fà eserciziu cù una persona chì campa cù a dimenza
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Per una persona chì campa cù a dimenza, u scopu hè u cunfortu, u piacè è mantene e capacità di ogni ghjornu, micca ghjunghje à un numeru. U NIA dice chì l'attività fisica aiuta à mantene in bona forma i musculi, l'articulazioni è u core di una persona cù a malatia d'Alzheimer, è pò ancu migliurà l'umore è u sonnu. Parlate cù u so duttore prima di principià una rutina nova. I cunsigli di a [guida di u NIA per e persone chì si occupanu di qualchissia](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) includenu:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Marchjà inseme ogni ghjornu.** Sceglite un caminu sicuru è famigliaru, senza ostaculi. S'è a persona marchja sola, un braccialettu d'identità cù u vostru numeru di telefonu hè una bona idea.
+2. **Pruvà video d'eserciziu per adulti anziani.** Fatele inseme, da pusà o in pedi.
+3. **Mantene e sessioni corte.** Parechje sessioni corte ponu funziunà megliu cà una longa.
+4. **Aghjunghje musica.** E canzone famigliari facenu chì u muvimentu pari una attività, micca un duvere. Ballate s'è a persona li piace.
+5. **Prupone acqua è scarpi còmode.** Prupunite acqua o suchju durante è dopu, è sceglite vistimenti còmodi è scarpi adatte à l'eserciziu, di a bona misura.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+S'è marchjà hè difficiule, a [guida di u NIA per piglià cura di una persona cù a malatia d'Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggerisce opzioni da pusà. Includenu esercizii nantu à una sedia o yoga, lancià sacchetti di fasgioli, lancià una palla morbida o un pallone, bande elastiche, alzà oggetti ligeri di a casa è pedaliere. Faccende simplici cum'è spazzà o spulverà contanu dinù.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Siate realistu o realista nantu à ciò chì u muvimentu pò fà. A Cummissione Lancet ùn hà trovu nisuna prova chì l'eserciziu riduce i cambiamenti di cumpurtamentu cum'è l'agitazione. Move vi inseme perchè pò fà piacè, micca per corregge un dopu meziornu difficiule. S'è a persona dice di nò, va bè. A nostra guida nantu à [quandu dice di nò](/caregiving/when-they-say-no/) hà modi dolci per pruvà torna più tardi. Firmà prima, o sempliciamente stà fora inseme, hè dinù un bonu risultatu.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Dopu avè fattu muvimentu, una pausa tranquilla cum'è [Calm Breathing](/games/calm-breathing/) pò aiutà tramindui à calmà vi. Per una attività da pusà cù un muvimentu dolce di e bracce, [Sort Together](/games/sort-together/) è [Picture Bingo](/games/picture-bingo/) vanu bè à una tavula.
 
-## Balance and fall safety
+## Equilibriu è sicurità contr'à e cascate
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+E cascate sò frequente è serie. U [CDC signala](https://www.cdc.gov/falls/data-research/facts-stats/index.html) chì più d'un adultu anzianu nant'à quattru casca ogni annu, ma menu di a metà ne parla à u so duttore. Cascà una volta radduppia a probabilità di cascà torna. I fattori di risicu citati da u CDC includenu:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Debulezza di e gambe è di l'anche
+- Difficultà à marchjà è à mantene l'equilibriu
+- Certi medicinali, cumpresi i sedativi è certi antidepressivi
+- Prublemi di vista
+- Dolore à i pedi o scarpi pocu adatte
+- Periculi in casa, cum'è disordine, tappeti chì si movenu è scalini dannighjati
 
-To move more safely:
+Per move si in modu più sicuru:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Aduprate una sedia solida** senza rotelle, è tenite un bancu o una ringhiera à portata di manu per l'esercizii in pedi.
+- **Liberate u spaziu** di tappeti, fili è disordine prima.
+- **Andate pianu pianu quandu vi alzate**, è firmate vi s'è a persona si sente stordita o pocu stabile.
+- **Purtae scarpi chì sustenenu bè**, micca calzette o pantofule larghe.
+- **Praticate l'equilibriu vicinu à un sustegnu.** Alzà si da una sedia è marchjà talonu-punta sò esempii d'attività d'equilibriu dati da u CDC.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+U CDC cunsiglia chì una persona anziana chì casca è si colpisce a testa duveria vede un duttore subitu, soprattuttu s'ella piglia medicinali anticoagulanti.
 
-## Talk with a doctor
+## Parlate cù un duttore
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Parlate cù un duttore prima di principià una rutina d'eserciziu nova, soprattuttu per una persona chì hà prublemi di core o di pulmoni, dolori à l'articulazioni, prublemi d'equilibriu, o dimenza. Un duttore o un fisioterapeuta pò suggerisce attività sicure è verificà s'è i medicinali anu un effettu nant'à l'equilibriu. Dite à u duttore ogni cascata, ancu quella senza ferita. S'è qualcosa face male o ùn pare micca normale durante l'eserciziu, firmate vi. Per un dolore subitu à u pettu, difficultà à respirà o cunfusione subita, chjamate u 112 o u 15.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Sta pagina hè un'infurmazione generale, micca un cunsigliu medicale. Fighjate a nostra [dichjarazione medicale](/medical-disclaimer/). Per avè una vista più larga, leghjite [ciò chì a ricerca dice nantu à i fattori di risicu di a dimenza](/brain-health/risk-factors/) è [s'è a dimenza pò esse impedita](/brain-health/can-dementia-be-prevented/).

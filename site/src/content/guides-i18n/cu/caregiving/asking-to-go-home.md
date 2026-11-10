@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Ѥгда чловѣкъ съ оумьнымъ изнеможениѥмъ просить ити домои"
+seoTitle: "Просьба ити домои при оумьнѣмъ изнеможении"
+description: "Почьто чловѣкъ живѫи съ оумьнымъ изнеможениѥмъ просить ити домои, аще и дома ѥсть, что рещи, какꙑ дѣѥниꙗ помагаѭтъ и какъ блюсти ѥго, аще хощетъ изити."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Ѥгда чловѣкъ съ оумьнымъ изнеможениѥмъ часто просить ити домои, «домъ»
+  часто знаменуѥтъ чоуство безпечьности или мѣсто отъ прѣждьнꙗго врѣмене, а
+  не строѥниѥ. Не притецѣте съ нимъ, ꙗко ѥсть дома. Приꙁнаите ѥго чоуство,
+  оутѣшите ѥго, ꙗко безпечьнъ ѥсть, въпросите о домоу, потомь тихо прѣидѣте
+  къ образамъ, пѣсньмъ, ꙗди, проходоу или простоу дѣлоу. Съмотрите, не иматъ
+  ли гладъ, жаждѫ, ноуждѫ, или болѣзнь. Аще се начѧ сѧ внезаапꙋ, позовѣте
+  ѥго врачь.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Хощѫ ити домои» часто знаменуѥтъ «не чоуѭ сѧ безпечьна или спокоина», а не прошениѥ о мѣстѣ."
+  - "Притѧзаниѥ или доказованиѥ, ꙗко ѥсть дома, обꙑчно оумножаѥтъ трѣвогѫ. Отъвѣщаите на чоуство."
+  - "Просите ѥго повѣдати о домоу, потомь прѣдъложите образꙑ, пѣснь, ꙗдь, проходъ или просто дѣло."
+  - "Съмотрите, аще ѥсть нѣчто, ѥже можетъ сѧ исправити: гладъ, жажда, ноужда, болѣзнь, зной или стоудень, шоумъ, оутомлѥниѥ."
+  - "Аще се бꙑваѥтъ по полоудьни, може быти вечерньнѥѥ беспокоистьво; мѣрьнꙑи чинъ и добръ свѣтъ могѫтъ помошти."
+  - "Оуготовите безпечьность, аще хощетъ изити, и позовѣте ѥго врачь о вьсѣкои внезаапьнѣи измѣнѣ."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Почьто мати моꙗ съ оумьнымъ изнеможениѥмъ часто просить ити домои, аще ѥсть дома?"
+    a: "Оумьноѥ изнеможениѥ може творити, ꙗко знаѥмаꙗ мѣста видѧтъ сѧ чоужда, и чловѣци инога чоуѭтъ сѧ въ прѣждьнѣмь врѣмени живота. «Домъ» може быти дѣтьскъ домъ или просто чоуство безпечьности и покоꙗ. Отъвѣтъ на то чоуство обꙑчно помагаѥтъ паче, неже оуказаниѥ, къде ѥсть."
+  - q: "Что ми рещи, ѥгда просить ити домои?"
+    a: "Попробоуите рещи: «Тꙑ ѥси сьде безпечьнъ, и азъ ѥсмь съ тобоѭ», потомь: «Повѣжь ми о твоѥмь домоу». Послоушаите, покажите образъ или въспоите пѣснь, прѣдъложите питиѥ или кратъкъ проходъ. Не глаголите «Тꙑ ѥси дома» ꙗко исправлѥниѥ, понеже се може чоути сѧ, ꙗко бꙑ погрѣшаѥтъ."
+  - q: "Добрѣ ли ѥсть рещи, ꙗко поидемъ домои по семь?"
+    a: "Родьници и обьщинꙑ о оумьнѣмь изнеможении не съглашаѭтъ сѧ о семъ. Мъноѕи начьнѫтъ отъ искрьнꙗго оутѣшениꙗ и тиха прѣвожденꙗ, а кротъкꙋ лъжь съхранѧтъ дѣлѧ тѣхъ часъ, въ нѧже истина творила бꙑ тъчьѭ печаль, ѭже чловѣкъ не можетъ прѣнести. Чьто ни изберете, бѫдѣте милостиви и мѣрьни, и николиже не рѫгаите сѧ ѥго чоуствоу."
+  - q: "Что творити, аще хощетъ изити из домоу?"
+    a: "Прѣбѫдѣте тихи и идѣте съ нимъ, а не заграждаите пѫть; кратъкъ проходъ часто оукротитъ желаниѥ. Прѣдъ тѣмь оуготовите мѣрꙑ безпечьности, ꙗко напѧстьникъ съ именьмь, звоньцѧ на двьрехъ и новъ образъ лица. Аще сѧ изгоубитъ, начьнѣте искати абиѥ, и позовѣте мѣстьнꙑи номеръ помошти въ бѣдѣ, аще не обрѧщете ѥго въ 15 миноутахъ, и рьцѣте, ꙗко чловѣкъ иматъ оумьноѥ изнеможениѥ."
+  - q: "Къгда подобаѥтъ позъвати врачь?"
+    a: "Позовѣте ѥго врачь скоро, аще прошениѥ или съмѧтениѥ начѧ сѧ внезаапꙋ или ста мъного горѣе за часꙑ или дьни, паче же съ огньмь, новꙑмь лѣчьствомь или знамениѥмь недѫга мочеваꙗ пѫти. Внезаапьно съмѧтениѥ може быти дєліриꙗ, ѥже трѣбоуѥтъ скорꙑꙗ помошти. Позовѣте мѣстьнꙑи номеръ помошти въ бѣдѣ, аще къто ѥсть въ бѣдѣ."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Хощѫ ити домои». Мъногꙑмъ родьникомъ се ѥсть ѥдино отъ наитѧжьчьшихъ словесъ, паче же ѥгда чловѣкъ, о нѥмьже печете сѧ, сѣдитъ въ своѥи жилоꙗ кѫщи. Се бꙑваѥтъ часто, може сѧ приключити на вьсѣкои мѣрѣ оумьнаꙗ изнеможениꙗ, и сѫтъ тихи и дѣльни пѫтиѥ къ отъвѣтоу. Си страница глаголѥтъ, что словеса часто знаменоуѭтъ, что рещи, какꙑ дѣѥниꙗ могѫтъ помошти въ тъ часъ, и какъ прѣбꙑвати въ безпечьности.
 
-## Why does someone with dementia keep asking to go home?
+## Почьто чловѣкъ съ оумьнымъ изнеможениѥмъ часто просить ити домои?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Обꙑчно «домъ» ѥсть паче чоуство, неже мѣсто. Alzheimer's Society глаголѥтъ, ꙗко се ѥсть чоуство покоꙗ и безпечьности, или домъ отъ прѣждьнꙗго врѣмене, а не само строѥниѥ. Оумьноѥ изнеможениѥ може творити, ꙗко знаѥмаꙗ мѣста видѧтъ сѧ чоужда, и чловѣкъ може чоути сѧ, ꙗко живетъ въ прѣждьнѣи чѧсти живота, къгда домъ бѣ дѣтьскъ домъ или мѣсто, идеже въспита дѣти.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Словеса такоже могѫтъ ꙗвити, ꙗко нꙑнѣ ѥсть ино нѣчто нєдобрѣ: иматъ гладъ, жаждѫ, ноуждѫ, болѣзнь, зной или стоудень, оутомлѥниѥ, ѥсть ѥдинъ, въ стра сѣ ѥсть, или оутрѫжденъ отъ шоумꙋ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) поминаѥтъ болѣзнь, шоумъ, ѥдиность, измѣнꙑ чина и лѣчьства мєждоу винами беспокоиства.
 
-## What should I say when they ask to go home?
+## Что ми рещи, ѥгда просить ити домои?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Отъвѣщаите на чоуство, а не на словеса. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) съвѣщаваѥтъ не покоушати сѧ оувѣрити чловѣка, ꙗко погрѣшаѥтъ: ѥго чоуства сѫтъ истиньна, тѣмьже прьвѣѥ отъвѣщаите оутѣшениѥмь и оутврьждениѥмь, потомь тихо прѣведѣте къ иномоу.
 
-Phrases that often help:
+Словеса, ꙗже часто помагаѭтъ:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Назовѣте чоуство.** «Виждѫ, ꙗко по домоу тѫжиши.»
+- **Оутѣшите.** «Тꙑ ѥси сьде безпечьнъ, и азъ ѥсмь съ тобоѭ.» [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) съвѣщаваѥтъ проста словеса: «Тꙑ ѥси сьде безпечьнъ.»
+- **Позовѣте къ памѧти.** «Повѣжь ми о твоѥмь домоу. Какова бѣ твоꙗ коухьнꙗ?» Въпросъ о далечѣмь прѣжьнѣмь обꙑчно ѥсть легъчѣи, неже въпросъ о дьньсьнѣмь.
+- **Прѣдъложите нѣчто въкоупѣ.** «Испиѥвѣ прьвѣѥ чаꙗ», или «Поможеши ли ми съ сими платиꙗми?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Топлъ гласъ и рѫка на рамѣ, аще чловѣкъ любить прикосновениѥ, могѫтъ рещи болѥе, неже словеса.
 
-## What should I avoid?
+## Чєсо подобаѥтъ избѣгати?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Притѧзаниꙗ или изꙗснѥниꙗ.** «Тꙑ нꙑнѣ живеши сьде» или «Сь ѥсть твои домъ оуже 40 лѣтъ» проситъ ѥго приѧти то, ѥже оумьноѥ изнеможениѥ творитъ тѧжько приѧти, и се може чоути сѧ, ꙗко бꙑ погрѣшаѥтъ.
+- **Искоупаниꙗ въпросꙑ.** «Не помьниши ли?» или «Коѥ ѥсть мѣсто?» прилагаѥтъ тѧгость.
+- **Заграждениꙗ двьрии съ гнѣвомь.** Аще поидетъ вънъ, прѣбѫдѣте тихи и идѣте съ нимъ. Кратъкъ проходъ въкоупѣ часто оукротитъ желаниѥ.
+- **Поспѣшаниꙗ.** Даите ѥмоу врѣмѧ повѣдати о домоу прѣжде измѣнєниꙗ бесѣдꙑ.
 
-## Activities that can help in the moment
+## Дѣѥниꙗ, ꙗже могѫтъ помошти въ тъ часъ
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+По томь, ѥгда приꙁнасте чоуство, тихо и знаѥмо дѣѥниѥ може прѣвести внимание, не отъмѣтаѭщи ѥго.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Съмотрѣте образꙑ домоу и родьникъ.** Прѣлистаите страницѧ и глаголите тихꙑ словеса («Вижь тъ садъ»), а не въпрашаите. На тєлєфонѣ или плочицѣ [Photo pairs](/games/photo-pairs/) творитъ отъ вашихъ родьнꙑихъ образъ кротъкоу игрѫ съчьтаниꙗ, и образи прѣбꙑваѭтъ на вашємь оурѧдѣ.
+2. **Бесѣдоуите о домоу.** [Conversation cards](/games/conversation-cards/) даѭтъ отъврьстꙑ въпросꙑ о домѣхъ, коухьнѧхъ, съсѣдѣхъ и праздникꙑхъ, безъ праваꙗго отъвѣта.
+3. **Поустите пѣсни, ꙗже любитъ.** National Institute on Aging поминаѥтъ тихѫѭ моуѕикѫ мєждоу пѫти къ оукроштениꙋ беспокоиства. Видите нашѧ [дѣѥниꙗ съ моуѕикоѭ](/activities/music/).
+4. **Даите ꙗдь или питиѥ.** Гладъ и жажда могѫтъ ꙗвити сѧ ꙗко беспокоистьво. Чаша чаꙗ или любима ꙗдь ѥсть такоже малъ чинъ домашьнѣго покоꙗ.
+5. **Поидѣте въ проходъ или сѣдѣте вънѣ.** Движениѥ и свѣтъ дьне помагаѥта, паче же ранѣѥ въ дьни.
+6. **Даите знаѥмо дѣло.** Сълаганиѥ платиꙗ, разбоури ножєвъ или полианиѥ цвѣтъ можетъ възвратити чоуство печали о домоу.
+7. **Оутишаите вьсѧ.** Оуставите тєлєвизоръ, оумалите шоумъ и блѣскъ, и попробоуите въкоупѣ тихо [дꙑханиѥ](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Аще ѥдина мꙑсль не помагаѥтъ, попробоуите иноу послѣжде. Сѣдѣти тихо въкоупѣ такоже ѥсть добръ отъвѣтъ.
 
-## Check for a cause you can fix
+## Съмотрѣте виноу, ѭже може сѧ исправити
 
-| Check | What to try |
+| Что съмотрѣти | Что творити |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Гладъ или жажда | Прѣдъложите питиѥ и малѫ ꙗдь |
+| Ноужда | Прѣдъложите ити на мѣсто ноуждꙑ, тихо и безъ троуда |
+| Болѣзнь или нєпокоꙗ | Ищите знамениꙗ, ꙗко помрьщаниѥ, дрьжаниѥ чѧсти тѣла или запьрениѥ, и повѣжите ѥго врачоу |
+| Зной или стоудень | Измѣните одеждѫ или топлотѫ стаꙗ |
+| Шоумъ или мъного людии | Идѣте въ тишѣишѫ стаѭ, оуставите тєлєвизоръ |
+| Оутомлѥниѥ или прѣоутрѫждениѥ | Даите покои, помрачите стаѭ, поустите тихѫ моуѕикѫ |
+| Вечеръ | Видите раздѣлъ о вечерньнѣмь беспокоистьвѣ низоу |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society съвѣщаваѥтъ дрьжати кратъкъ записъ, къгда бꙑваѥтъ прошениѥ, на примѣръ прѣжде ꙗди, по посѣтителехъ, или въ соумракъ. Чинъ помагаѥтъ лѣпѣѥ оуготовити сѧ.
 
-## Is it okay to tell a white lie?
+## Добрѣ ли ѥсть рещи малѫ лъжь?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Се ѥсть истиноѥ прѣниѥ, и добрии родьници не съглашаѭтъ сѧ. Alzheimer's Society глаголѥтъ, ꙗко нѣсть ѥдиного праваꙗго отъвѣта: нєистиньна словеса могѫтъ творити нѣкоторꙑихъ людии болѥє нєдовѣрьливꙑ, тѣмьже соудите, что ѥсть на полъзѫ чловѣкоу, и бѫдѣте мѣрьни. Въ Penn Memory Center мнѣниѥ съраководителꙗ ѥсть, ꙗко истина ѥсть правило, а кротъка лъжь ѥсть приѧта тъчьѭ тъгда, къгда чловѣкъ не можетъ приѧти нѣкоѥꙗ истинꙑ, и николиже не подобаѥтъ рѫгати сѧ ѥго чоуствоу.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Мъноѕи печальници обрѣтаѭтъ срѣдьнъ пѫть: прьвѣѥ искрьнѥѥ оутѣшениѥ и тихо прѣвождениѥ («Прѣбѫдевѣ сьде сѭ нощь, и азъ ѥсмь сьде съ тобоѭ»), безъ притѧзаниꙗ о томъ, къде ѥсть домъ.
 
-## What if it happens every afternoon or evening?
+## Что, аще се бꙑваѥтъ вьсѣкъ дьнь по полоудьни или вечеръ?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Беспокоистьво, ѥже начьнєтъ сѧ или оумножитъ сѧ къ вечероу, часто наричетъ сѧ вечерньнѥѥ беспокоистьво. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) съвѣщаваѥтъ мѣрьнъ чинъ, дьньнъ свѣтъ и движениѥ, мьнѣѥ поздьнꙗго съпаниꙗ, и не пити кофеина или вина поздѣ въ дьни. Въжьжение свѣта прѣжде соумрака такоже може помошти. Нашь пѫть о [тихꙑихъ дѣѥнииꙗхъ къ вечероу](/caregiving/late-day-restlessness/) иматъ болѥє.
 
-## Keeping them safe if they try to leave
+## Какъ блюсти ѥго, аще хощетъ изити
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Прошениѥ ити домои може вести къ блѫждениꙋ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) мьнитъ, ꙗко шесть отъ десѧти чловѣкъ живѫщихъ съ оумьнымъ изнеможениѥмь понѣ блѫдѧтъ ѥдиною.
 
-**Prepare ahead:**
+**Оуготовите прѣжде:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Напѧстьникъ съ именьмь и вашимъ тєлєфоньнꙑмь числомь, и знамениꙗ въ одеждахъ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) поминаѥтъ MedicAlert и программу Alzheimer's Association Safe and Found, ꙗже може трѣбовати цѣнꙑ.
+- Звоньць или гласъ на двьрехъ, и замъцѧ поставлѥнꙑ вꙑсоко или низъко. Николиже не заключаите чловѣка ѥдиного вънѫтрь.
+- Новъ близъкъ образъ лица и съписъ мѣстъ, идеже може ити, на примѣръ прѣждьнъ домъ или дѣло.
+- Повѣжите довѣрьнꙑмъ съсѣдомъ и даите имъ вашь номеръ.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Аще сѧ изгоубитъ:** начьнѣте искати абиѥ; Alzheimer's Association глаголѥтъ, ꙗко мъноѕи обрѣтаѭтъ сѧ въ 1,5 милꙗхъ. Аще не обрѧщете ѥго въ 15 миноутахъ, позовѣте мѣстьнꙑи номеръ помошти въ бѣдѣ и рьцѣте, ꙗко чловѣкъ иматъ оумьноѥ изнеможениѥ. Позовѣте мѣстьнꙑи номеръ помошти въ бѣдѣ абиѥ, аще къто ѥсть въ бѣдѣ.
 
-## When should I call a doctor?
+## Къгда подобаѥтъ позъвати врачь?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Позовѣте ѥго врачь скоро, аще прошениѥ или съмѧтениѥ начѧ сѧ внезаапꙋ, или ста мъного горѣе за часꙑ или дьни. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) глаголѥтъ, ꙗко внезаапьно или борзо измѣнѥно повєдєниѥ, паче же по недѫзѣ или измѣнѣ лѣчьства, подобаѥтъ видѣти абиѥ. Внезаапьно съмѧтениѥ може быти дєліриꙗ, о нѥиже [NHS](https://www.nhs.uk/symptoms/confusion/) глаголѥтъ, ꙗко трѣбоуѥтъ скорꙑꙗ помошти; недѫѕи мочеваꙗ пѫти сѫтъ чѧста вина оу старѣишихъ людии.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Такоже добро ѥсть повѣдати о мѣрьнѣмь чинѣ на близьнѣмь посѣщении, понеже болѣзнь, оунилость, недоспаниѥ или дѣиство лѣчьства могѫтъ имѣти чѧсть въ семъ.

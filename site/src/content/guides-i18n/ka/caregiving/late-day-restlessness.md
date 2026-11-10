@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "დაბინდების სინდრომი: მშვიდი საღამოს აქტივობები"
+seoTitle: "დაბინდების სინდრომი: მშვიდი საღამოს აქტივობები"
+description: "რბილი რუტინა და მშვიდი აქტივობები, რომლებიც შეიძლება დაეხმაროს დემენციით ცხოვრება მქონე ადამიანებს საღამოს. როდის მიმართოთ ექიმს."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  დაბინდების სინდრომი არის მოუსვენრობა, დაბნეულობა ან გაღიზიანება, რომელიც
+  იწყება ან ძლიერდება გვიან დღისით ან საღამოს. პრაქტიკული ნაბიჯები, რომლებმაც
+  შეიძლება დაეხმაროს, მოიცავს: დღის ერთნაირ რუტინას, დღის სინათლესა და
+  აქტივობას დღის ადრეულ საათებში, გვიან დღისით ნაკლებ ძილს, ნაკლებ კოფეინს,
+  ბინდის წინ ოთახის განათებას, უფრო მშვიდ გარემოს და მშვიდ აქტივობებს, როგორიცაა
+  მუსიკა, ფოტოები ან სარეცხის დაკეცვა. ახალი ან გამწვავებული სიმპტომები
+  მოითხოვს ექიმთან მიმართვას.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "დაბინდების სინდრომი ნიშნავს მოუსვენრობას ან დაბნეულობას, რომელიც იწყება ან ძლიერდება დღის სინათლის შემცირებასთან ერთად."
+  - "მოთხოვნადი საქმეები, გასვლები და დაბანა გადაიტანეთ დილას ან დღის პირველ ნახევარში."
+  - "დღის სინათლე, ყოველდღიური სიარული, გვიან დღისით ნაკლები ძილი და ნაკლები კოფეინი შეიძლება დაეხმაროს საღამოს უფრო მშვიდად გასატარებლად."
+  - "ბინდის წინ აანთეთ ნათურები, შეამცირეთ ხმაური და გადადით მშვიდ, ნაცნობ აქტივობებზე."
+  - "წარმოადგინეთ ჩანაწერები შესაძლო გამომწვევების დასადგენად და მოუსვენრობის დაწყებისას შეინარჩუნეთ სიმშვიდე და მხარდაჭერა."
+  - "ახალი ან გამწვავებული სიმპტომებისას მიმართეთ ექიმს: ტკივილმა, ინფექციამ ან წამლებმა შეიძლება როლი ითამაშოს."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "დღის რომელ მონაკვეთში ვლინდება დაბინდების სინდრომი ყველაზე ხშირად?"
+    a: "ის, როგორც წესი, იწყება ან ძლიერდება გვიან დღისით ან ადრეულ საღამოს, დღის სინათლის შემცირებასთან ერთად. ზუსტი დრო ადამიანიდან ადამიანამდე განსხვავდება, ამიტომ ერთი-ორი კვირის განმავლობაში მოკლე ჩანაწერების გაკეთება შეიძლება დაგეხმაროთ."
+  - q: "რა აქტივობები შეიძლება დაეხმაროს დაბინდების სინდრომის დროს?"
+    a: "გვიან დღისით, როგორც წესი, საუკეთესოდ მოქმედებს მშვიდი, ნაცნობი და მარტივი აქტივობები: დამამშვიდებელი მუსიკა, ფოტოების დათვალიერება, საყვარელი ტელეგადაცემა ან ფილმი, სარეცხის დაკეცვა, მოკლე სიარული ან ერთად რაღაცის მირთმევა. ახალი ან რთული აქტივობები დღის ადრეული საათებისთვის დატოვეთ."
+  - q: "შეიძლება დაბინდების სინდრომი რაიმე სამედიცინო პრობლემის ნიშანი იყოს?"
+    a: "ის შეიძლება გაამწვავოს ჯანმრთელობის პრობლემებმა, როგორიცაა ტკივილი, ინფექციები (მაგალითად, შარდსასქესო გზების ინფექციები), ძილის პრობლემები ან წამლების გვერდითი მოქმედება. თუ მოუსვენრობა ახალია, მოულოდნელად გაჩნდა ან ძლიერდება, დაუკავშირდით ადამიანის ექიმს."
+  - q: "უნდა ვიკითხო ექიმთან დაბინდების სინდრომის დროს წამლების შესახებ?"
+    a: "ეს საკითხი ექიმთან უნდა განიხილოთ. Alzheimer’s Association აღნიშნავს, რომ, როგორც წესი, პირველ რიგში არა-მედიკამენტურ მიდგომებს ანიჭებენ უპირატესობას და საღამოს აგიტაციის ნებისმიერი წამალი მხოლოდ რისკებისა და სარგებლის გათვალისწინების შემდეგ უნდა განიხილებოდეს. ეს გვერდი მედიკამენტურ რჩევას არ იძლევა."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+ბევრი ოჯახი ერთსა და იმავე მდგომარეობას ამჩნევს: დილა შედარებით მშვიდად მიდის, მაგრამ დღის მეორე ნახევარში დემენციით ცხოვრება მქონე ადამიანი მოუსვენარი, შეწუხებული, დაბნეული ან გაღიზიანებული ხდება. შესაძლოა, ის აქეთ-იქით დადიოდეს, ითხოვდეს „სახლში წასვლას“, მაშინაც კი, როცა სახლშია, ან ადვილად გაბრაზდეს. ამას ხშირად დაბინდების სინდრომს უწოდებენ.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+ერთიანი გამოსავალი არ არსებობს, მაგრამ დღის რიტმის, ოთახის და თქვენ მიერ შემოთავაზებული აქტივობების შეცვლამ შეიძლება გვიან დღის საათები უფრო მშვიდი გახადოს. ეს გვერდი აგროვებს პრაქტიკულ, არა-სამედიცინო იდეებს National Institute on Aging-ისა და Alzheimer’s Association-ის მასალებიდან. ეს არ არის სამედიცინო რჩევა. თუ სიმპტომები ახალია, მოულოდნელად გაჩნდა ან ძლიერდება, ისაუბრეთ ადამიანის ექიმთან.
 
-## What is sundowning?
+## რა არის დაბინდების სინდრომი?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+დაბინდების სინდრომი არის მოუსვენრობა, აგიტაცია, გაღიზიანება ან დაბნეულობა, რომელიც იწყება ან ძლიერდება დღის სინათლის შემცირებასთან ერთად, გვიან დღისით ან ადრეულ საღამოს. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) აღნიშნავს, რომ ზედმეტმა დაღლილობამ შეიძლება გაზარდოს გვიან დღისით მოუსვენრობა.
 
-## What can make late-day restlessness worse?
+## რამ შეიძლება გაამწვავოს მოუსვენრობა გვიან დღისით?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+რამდენიმე ფაქტორმა შეიძლება ითამაშოს როლი, ხშირად ერთდროულად. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ასახელებს ისეთ ფაქტორებს, როგორიცაა:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- დაღლილობა ხანგრძლივი დღის შემდეგ;
+- ახალი ან დამაბნეველი გარემო;
+- „შიდა ბიოლოგიური საათი“, რომელიც არ ეწყობა დღის რიტმს, რის გამოც ადამიანი დღისით ძილიანობს, ღამით კი ფხიზლობს;
+- დაბალი განათება და ჩრდილები, რომლებიც შეიძლება დამაბნეველი იყოს;
+- გარშემომყოფთა სტრესის ან უსიამოვნების შეგრძნება;
+- ნაკლები ძილის მოთხოვნილება, რაც ხანდაზმულ ადამიანებში ხშირია.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA ასევე აღნიშნავს აგიტაციის უფრო ზოგად მიზეზებს, მათ შორის ტკივილს, დეპრესიას ან სტრესს, არასაკმარის დასვენებას, ყაბზობას, ზედმეტ ხმაურს ან ზედმეტად ბევრ ადამიანს, ასევე გარკვეულ წამლებს ან წამლების ერთმანეთზე გავლენას.
 
-## How can I plan the day to make evenings calmer?
+## როგორ დავგეგმოთ დღე, რომ საღამოები უფრო მშვიდი იყოს?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+მოთხოვნადი საქმეები დღის ადრეულ საათებში გადაიტანეთ და გვიანი დღის საათები მშვიდად და გასაგებად შეინარჩუნეთ. როგორც NIA, ისე Alzheimer’s Association რეკომენდაციას უწევს ერთნაირ ყოველდღიურ რუტინას. დღის ნიმუში, რომელიც შეგიძლიათ თქვენს სიტუაციაზე მოარგოთ:
 
-| Time | What may help |
+| დრო | რა შეიძლება დაგეხმაროთ |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| დილა | ექიმთან ვიზიტები, დაბანა, გასვლები და ნებისმიერი საქმე, რომელიც ძალისხმევას მოითხოვს, მაშინ, როცა ბევრი ადამიანი ყველაზე ფხიზელია |
+| დილის ბოლო | დრო გარეთ ან მზიან ფანჯარასთან; სიარული ან სხვა აქტივობა |
+| შუადღე | უფრო მძიმე სადილი (Alzheimer’s Association გვთავაზობს უფრო დიდ სადილს და მსუბუქ საღამოს კვებას) |
+| დღის პირველი ნახევრის ბოლოს | დასვენება საჭიროების შემთხვევაში, მაგრამ გვიან დღისით ხანგრძლივი ძილისგან თავი შეიკავეთ |
+| დღის მეორე ნახევარში | მშვიდი, ნაცნობი აქტივობები; წასახემსებელი და სასმელი; კოფეინის გარეშე |
+| ბინდის წინ | ბინდის დადგომამდე აანთეთ ოთახის ნათურები და დახურეთ ფარდები |
+| საღამო | მსუბუქი კვება, მშვიდი მუსიკა, ნაკლები გამღიზიანებელი ფაქტორი, ძილის წინ ერთნაირი რუტინა |
 
-A few specific points from the sources:
+წყაროებიდან რამდენიმე კონკრეტული რჩევა:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **დღის სინათლე.** NIA გვთავაზობს, რომ ყოველდღე გამოყოთ დრო გარეთ ან ფანჯარასთან მზის სინათლეში.
+- **ყოველდღიური მოძრაობა, მაგრამ ზედმეტის გარეშე.** NIA-ის მიხედვით, მიზანი უნდა იყოს ყოველდღიური ფიზიკური აქტივობა, მაგრამ ძალიან ბევრი აქტივობის დაგეგმვის გარეშე.
+- **სასმელები გვიან დღისით.** გვიან დღისით მოერიდეთ ალკოჰოლსა და კოფეინის შემცველ სასმელებს, როგორიცაა ყავა ან კოლა (NIA). Alzheimer’s Association ასევე ახსენებს ნიკოტინს.
+- **დრისით ძილი.** თავი შეიკავეთ ხანგრძლივი ძილისა და თვლემისგან გვიან დღისით (NIA). Alzheimer’s Association გვთავაზობს დღისით ძილის შეზღუდვას, თუ ღამით ძილი პრობლემაა.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+ერთნაირი დღის დაგეგმვის შესახებ მეტი იხილეთ გვერდზე [ყოველდღიური რუტინის აქტივობები](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## როგორ გავხადოთ სახლი უფრო მშვიდი გვიან დღისით?
 
-Reduce noise, add light and keep familiar things close.
+შეამცირეთ ხმაური, დაამატეთ სინათლე და ახლოს იქონიეთ ნაცნობი ნივთები.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **ნათელი, თანაბარი განათება.** Alzheimer’s Association რეკომენდაციას უწევს, საღამოს სახლი კარგად იყოს განათებული. გაანათეთ სივრცე ჩრდილების გამოჩენამდე.
+- **ნაკლები ხმაური.** გამორთეთ ან ჩაახშეთ ტელევიზორი და რადიო და ამ დროს შეზღუდეთ სტუმრები ან ხმაურიანი საოჯახო საქმეები. Alzheimer’s Association გვთავაზობს საღამოს გამღიზიანებელი ფაქტორების შემცირებას, როგორიცაა ტელევიზორი, საოჯახო საქმეები და ხმამაღალი მუსიკა.
+- **ნაცნობი და სასიამოვნო ნივთები.** NIA გვთავაზობს დამამშვიდებელ მუსიკას და სახლში საყვარელი ნივთებისა და ფოტოების ახლოს შენახვას.
+- **კომფორტის შემოწმება.** Alzheimer’s Association რეკომენდაციას უწევს შეამოწმოთ, ხომ არ აქვს ადამიანს ტკივილი, შიმშილი, წყურვილი, ყაბზობა, სავსე შარდის ბუშტი, დაღლილობა, ინფექციები ან კანის გაღიზიანება, და ოთახში კომფორტული ტემპერატურა შეინარჩუნოთ.
+- **თქვენი საკუთარი განწყობა.** ადამიანები გარშემომყოფთა სტრესს გრძნობენ. NIA გვთავაზობს, შეანელოთ ტემპი და სცადოთ დასვენება, თუ თქვენი eigener შეშფოთება შეიძლება ამძაფრებდეს დაძაბულობას.
 
-## What calm activities can we do in the late afternoon?
+## რა მშვიდი აქტივობები შეიძლება გავაკეთოთ გვიან დღისით?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+აირჩიეთ აქტივობები, რომლებიც ნაცნობია, დაუჩქარებელი და რომლის შეწყვეტაც ადვილია. Alzheimer’s Association გვთავაზობს დამამშვიდებელ აქტივობებს, როგორიცაა მშვიდი მუსიკა, ფოტოები ან საყვარელი ფილმი, ასევე ერთად სიარული მოუსვენრობის შესამსუბუქებლად. NIA გვთავაზობს წასახემსებელს ან სასმელს, საყვარელ ტელეგადაცემას, მუსიკას, სიარულს, კითხვას ან მარტივ საოჯახო საქმეს, როგორიცაა სარეცხის დაკეცვა.
 
-Ideas to try:
+სცადეთ შემდეგი იდეები:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **ერთად დაკეცეთ სარეცხი.** NIA გვთავაზობს ასეთ მარტივ საოჯახო საქმეს. პირსახოცების დაკეცვა მარტივია და ამ საქმეს ნათელი დასასრული აქვს.
+2. **ჩართეთ საყვარელი მუსიკა.** ნაცნობი სიმღერები მისი ახალგაზრდობის დროიდან, დაბალ ხმაზე. თან მიბზინვაც საკმარისია. მეტი იდეა იხილეთ გვერდზე [მუსიკალური აქტივობები](/activities/music/).
+3. **დათვალიერეთ ფოტოები.** ფოტოალბომი ან რამდენიმე საოჯახო ფოტო [Photo Pairs](/games/photo-pairs/)-ში ხილული სურათებით შეიძლება მშვიდ საუბარში გადაიზარდოს.
+4. **გაისეირნეთ ცოტა ხნით.** ეზოში, კვარტალში ან დერეფანში, ბინდის დადგომამდე.
+5. **გაუნაწილეთ ერთმანეთს წასახემსებელი და სასმელი.** რამე მარტივი, თბილი და უკოფეინო, ერთად სუფრასთან.
+6. **მსუბუქი შესატყვისი თამაში.** [Picture Pairs](/games/picture-pairs/) ოთხი ფილით და ხილული სურათებით მარტივია დასაწყებად და შესაწყვეტად.
+7. **ფერწერა.** [Coloring](/games/coloring/) ეკრანზე ან დაბეჭდილ ფურცელზე, დასრულების მიზნის გარეშე.
+8. **დათვალიერება და საუბარი.** [Conversation Cards](/games/conversation-cards/) გთავაზობთ სურათს და ღია შეკითხვას. უბრალოდ დათვალიერებაც საკმარისია.
+9. **სუნთქვის მცირე შესვენება.** [Calm Breathing](/games/calm-breathing/) არის ნელი, მშვიდი პაუზა, რომელსაც თქვენ თავად იწყებთ და წყვეტთ.
+10. **ხელით გასაკეთებელი საქმეები.** ღილების ან წინდების დალაგება, რბილი საბნის გასწორება ან ნაცნობი ნივთის ხელში დაჭერა. იხილეთ [სენსორული აქტივობები](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+გვიან დღისით მოერიდეთ ახალ თამაშებს, ხალხმრავალ გასვლებს და ყველაფერს, რაც მეხსიერებას ან ყურადღებას დიდად ითხოვს. ეს დღის პირველ ნახევარში უკეთესად ჯდება.
 
-## What should I do when restlessness starts?
+## რა გავაკეთო, როცა მოუსვენრობა იწყება?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+შეინარჩუნეთ სიმშვიდე, დაამშვიდეთ ადამიანი და ნაზად გადაატანეთ ყურადღება სხვა რამეზე. NIA გვთავაზობს, მშვიდად ელაპარაკოთ, მოუსმინოთ ადამიანის переживанияებს, თავიდან აიცილოთ კამათი, დაარწმუნოთ, რომ ის უსაფრთხოდ არის, და საჭიროების შემთხვევაში ნაზად შეეხოთ. შემდეგ სცადეთ ყურადღების გადატანა: წასახემსებელი, სასმელი, მუსიკა ან სიარული.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer’s Association გვთავაზობს ისეთ ფრაზებს, როგორიცაა „თქვენ აქ უსაფრთხოდ ხართ“ და „ვწუხვარ, რომ ასე შეწუხებული ხართ“, და ურჩევს განათების დამატებას, ტემპის შენელებას და გამღიზიანებელი ფაქტორების შემცირებას. არ მიჯდეთ კუთხეში, არ შემოეხვიოთ ძალიან ახლოს, არ შეაკავოთ ადამიანი ძალით და არ დაუპირისპირდეთ კამათით.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+თუ ადამიანი აგრესიული ხდება, NIA გვირჩევს, უსაფრთხო მანძილზე დარჩეთ, სანამ ქცევა არ ჩაცხრება. გადაუდებელ სიტუაციაში დარეკეთ 112-ზე და ახსენით, რომ ადამიანს დემენცია აქვს.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+ჩვენი გზამკვლევები [კომუნიკაციის შესახებ](/caregiving/communication-tips/) და [რა გავაკეთოთ, როცა ადამიანი უარს ამბობს](/caregiving/when-they-say-no/) დამატებით ინფორმაციას იძლევა დამამშვიდებელი სიტყვების შესახებ.
 
-## How do I find the triggers?
+## როგორ გავიგო, რა იწვევს ამ მდგომარეობას?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+ერთი-ორი კვირის განმავლობაში აწარმოეთ მოკლე ჩანაწერები. Alzheimer’s Association რეკომენდაციას უწევს დაბინდების სინდრომის ეპიზოდებამდე მომხდარი მოვლენების აღრიცხვას, რათა შესაძლო გამომწვევები დაადგინოთ. ჩაიწერეთ, რა დროს დაიწყო მოუსვენრობა, რა მოხდა ერთი საათით ადრე, დღისით ძილი, კვება და სასმელები, სტუმრები, ხმაური და განათება. ჩანაწერები წაიღეთ ექიმთან. NIA აღნიშნავს, რომ ქცევის ცვლილებების აღრიცხვა შეიძლება დაეხმაროს თქვენ და ჯანდაცვის სპეციალისტებს კანონზომიერების დანახვაში.
 
-## When should I call a doctor about sundowning?
+## როდის უნდა მივმართო ექიმს დაბინდების სინდრომის გამო?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+დაუკავშირდით ადამიანის ექიმს, თუ მოუსვენრობა ახალია, მოულოდნელად გაუარესდა ან სხვა ცვლილებებსაც ახლავს. NIA აღნიშნავს, რომ ქცევის უცებ ან სწრაფად ცვალებადი ცვლილებები, განსაკუთრებით ინფექციის ან წამლების ახლახან შეცვლის შემდეგ, დაუყოვნებლივ უნდა ეცნობოთ ექიმს.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+სთხოვეთ ექიმს, შეამოწმოს ის ფაქტორები, რომლებმაც შეიძლება საღამოები გაართულოს. Alzheimer’s Association ახსენებს ფიზიკურ პრობლემებს, როგორიცაა შარდსასქესო გზების ინფექციები, შეუკავებლობა, მოუსვენარი ფეხების სინდრომი და ძილის აპნოე, და გვთავაზობს იკითხოთ, დღის რომელი დროა საუკეთესო თითოეული წამლისთვის. NIA აგიტაციის შესაძლო მიზეზებს შორის ასახელებს ტკივილს, ყაბზობას და წამლების გვერდით მოქმედებას ან ურთიერთქმედებას.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer’s Association აღნიშნავს, რომ ალცჰაიმერთან დაკავშირებული ძილის პრობლემებისთვის, როგორც წესი, არა-მედიკამენტურ მიდგომებს ანიჭებენ უპირატესობას და გვიან დღისით აგიტაციის წამალი მხოლოდ მაშინ უნდა განიხილებოდეს, თუ ეს მიდგომები არ ეხმარება, რისკებისა და სარგებლის გათვალისწინების შემდეგ. ეს გადაწყვეტილება ექიმს ეკუთვნის. არ დაიწყოთ, არ შეწყვიტოთ და არ შეცვალოთ რაიმე წამალი, ძილის საშუალება ან დანამატი სამედიცინო რჩევის გარეშე.
 
-## How do I get through the evenings myself?
+## როგორ გავუმკლავდე საღამოებს თავად?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+გვიანი დღის საათები შეიძლება მზრუნველისთვის დღის ყველაზე რთული ნაწილი იყოს. თუ შესაძლებელია, სთხოვეთ ოჯახის წევრს, მეგობარს ან დამხმარეს, კვირაში რამდენიმე დღე გვიან დღისით, თუნდაც ერთი საათით, დაგეხმაროთ. ჩვენი გზამკვლევი [მზრუნველის საკუთარ თავზე ზრუნვის შესახებ](/caregiving/caregiver-self-care/) შეიცავს მოკლევადიანი შესვენების ვარიანტებს და Alzheimer’s Association-ის უფასო, 24/7 დახმარების ხაზს.

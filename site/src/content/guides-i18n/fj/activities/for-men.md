@@ -1,32 +1,35 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "iTaviqaravi me Baleta na Tagane e Guilecavi"
+seoTitle: "iTaviqaravi me Baleta na Tagane e Guilecavi"
+description: "Vakasama ni itaviqaravi me baleta na tagane e tiko vua na mate ni guilecavi, yavutaki ena nona bula, itaviqaravi kei na itovo, kei na ivakasala ni veisautaki."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Na itaviqaravi vinaka duadua me baleta e dua na tagane e tiko vua na mate ni
+  guilecavi e lako mai na nona bula ga: na cakacaka a cakava, na ka a taleitaka,
+  kei na itovo ni veisiga a muria. E dua a cakacaka ena valenivolavola e rawa ni
+  taleitaka me tuvatuva ivola, e dua na daukena motoka e rawa ni taleitaka me
+  taura na iyaya ni cakacaka savasava, kei e dua e taleitaka na qito e rawa ni
+  taleitaka me raica e dua na qito makawa. E duidui na ka era taleitaka na
+  tagane yadua, o koya mo tekivu mai vua na tamata, sega mai na nona ituvaki ni
+  tagane.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Tekivu mai na italanoa ni nona bula na tagane oqo: nona cakacaka, na ka a taleitaka, na nona itovo, kei na ka a dokai kina."
+  - "Na itaviqaravi e tiko kina na inaki dina, me vaka na tuvatuva ni iyaya, savata na motoka se volivolita na kau, e dau taleitaki vakalevu cake mai na itaviqaravi e rairai me vaka e dua na kalasi."
+  - "Sega ni tagane kece era taleitaka na iyaya ni cakacaka se na qito. E levu era taleitaka na vakasaqa, na ivakatagi, na teitei, na cakacaka ni liga se na qaravi ira tale eso. Taroga, raica, ka muria na nona idusidusi."
+  - "Vakarawarawataka na itaviqaravi ni cakacaka: kauta laivi na iyaya gata, vakararavi tiko, ka vakarawarawataka ni sa veisau na nona rawa-ka."
+  - "E dodonu ga me kaya „sega“. Solia vua e dua na itavi, sega ni dua na ilesilesi, ka tovolea tale ena dua na siga."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Na cava na itaviqaravi era taleitaka na tagane e tiko vua na mate ni guilecavi?"
+    a: "E sega ni dua na lisi vata, baleta na ka era taleitaka na tagane e duidui sara ga. Na vanua vinaka mo tekivu kina o ira na itaviqaravi e semati ki na nona cakacaka e liu, me vaka na tuvatuva ivola se na tuvatuva ni ikuri kei na vatu lailai, kei na ka a taleitaka, me vaka na siwa, na motoka, na ivakatagi, na vakasaqa se na qito. Raica na ka e cakava vakataki koya ka tomana mai kina."
+  - q: "E bese ni via lewena na tamaqu na itaviqaravi vata kei ira tale eso. Na cava me'u cakava?"
+    a: "E levu na tamata, tagane kei na yalewa, era besea na itaviqaravi e rairai me vaka e dua na kalasi se e rairai me vaka e nodra na gone. Tovolea mo kerea e dua na veivuke: „O rawa ni vukei au mo tuvatuva oqo?“ E rawa tale ga ni vakacegu cake na ilawalawa lailai se na gauna vakayadua mai na rumu levu."
+  - q: "E taqomaki beka me vakayagataka na iyaya ni cakacaka?"
+    a: "Ena gauna ga e tiko kina na veiraravi kei na iyaya taqomaki. Kauta laivi na iyaya ni cakacaka kaukauwa, na iseleiwau kei na ka gata, ka solia na itaviqaravi me vaka na volivolita e dua na buloko ni kau, na tuvatuva ni iyaya savasava, se na vakaukauwataka na ikuri lelevu ena liga. Na Alzheimer's Association e vakatura me kau laivi na iyaya rerevaki mai na vale ni cakacaka me rawa ni marautaki tiko ga na itaviqaravi me vaka na volivoli ena sala taqomaki."
+  - q: "A dua na kenadau ena nona cakacaka. Ena rairai vakalolovirataki beka vua na itaviqaravi rawarawa?"
+    a: "E rawa ni yaco kevaka e soli me vaka e dua na cakacaka wale ga. Vakamacalataka me vaka e dua na veivuke dina, vakayagataka na iyaya ni tamata qase, ka digitaka e dua na ka e voleka ki na nona itavi e liu, me vaka na railesuvi ni dua na lisi, na tuvatuva ni dua na faile se na veivuke ena tuvatuva ni dua na meli. Kevaka e dau kila vinaka sara e dua na ka, e dua na itaviqaravi e semati kina ia e duidui e rawa ni vinaka cake mai na veidutaitaki."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +48,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+E levu na tamata era vakasaqara „itaviqaravi me baleta na tagane e tiko vua na mate ni guilecavi“ baleta na vakatutu e dau soli e sega ni ganita na tagane era qarava. E dua na nanuma dodonu oqori. Ia na isau e sega ni dua na lisi ni itaviqaravi „ni tagane“. Mo tekivu mai vua na tagane oqo: na cava a cakava me bula kina, na cava a cakava ena nona gauna galala, kei na cava e vakavuna me nanuma ni yaga. E duidui na ka era taleitaka na tamata kece. E levu na tagane era taleitaka na vakasaqa, teitei, droini se sere, ka levu tale ga na yalewa era taleitaka na motoka kei na besibolo.
 
-## How do I find activities he will actually enjoy?
+## Me'u kunea vakacava na itaviqaravi ena taleitaka dina?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Tekivu ena italanoa ni nona bula. Na Alzheimer's Association e vakatura mo tuvatuva e dua na [ituvatuva ni veisiga](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) e yavutaki ena ka e taleitaka, na ka e sega ni taleitaka, na nona kaukauwa kei na nona taleitaka, kei na sala a tuvanaka kina na nona siga e liu. Tarogi iko:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Na cava na nona cakacaka?** Valenivolavola, iteitei, valeniyaya, cakacaka ni liga, mataivalu, volivolitaki, qasenivuli, draiva, se cakacaka e vale?
+- **Na cava a cakava ena nona gauna galala?** Siwa, qito ni kadi, cakacaka ni kau, qito, lotu, ivakatagi, vakasaqa, se dua na motoka ena kareji?
+- **Na cava na nona itovo?** Kofi kei na niusipepa ena veimataka kece? Raica na draki? Savata na motoka ena Vakarauwai?
+- **Na cava e tekivutaka tiko vakataki koya?** Na Association e tukuna ni kevaka e dua na tamata e tekivutaka na itaviqaravi ka sega ni kere, me vaka na taviqaqi, e rawa ni tiki ni nona itovo oqo.
+- **Na cava e levea?** Eso na tamata era taleitaka me ra raica na qito; eso tale era rarawa ena totolo kei na rorogo. Raica na gauna e marau kina, e lomaocaoca kina se e cudru kina.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Veitalanoa tale ga kei ira na wekana kei na itokani makawa. Era rawa ni nanuma na ka a taleitaka ka sa yali mai na bula ni veisiga.
 
-## Activity ideas based on past work
+## Vakasama ni itaviqaravi e yavutaki ena cakacaka e liu
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Na Alzheimer's Association e solia e dua na ivakaraitaki matata: e dua a cakacaka ena valenivolavola e rawa ni taleitaka na itaviqaravi ni tuvatuva, me vaka na biuta na ilavo ena kato, veivuke ena tuvatuva ni meli se caka e dua na lisi ni ka me cakavi, ia e dua a dauiteitei se teitei e rawa ni taleitaka me cakacaka e lomanibai. Na vakasama vata oqo e rawa ni yaga vei na vuqa na cakacaka.
 
-| Past work | Activity ideas | Simpler version |
+| Cakacaka e liu | Vakasama ni itaviqaravi | iVakaraitaki rawarawa cake |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Valenivolavola se bisinisi | Tuvatuva ivola ki na faile, sitaba na waqe ni meli, railesuva e dua na lisi, tuvatuva e dua na tolo ni desi | Binia na waqe ni meli; biuta na ikuri ni pepa ki na kato |
+| Cakacaka ni liga se kenamotoka | Tuvatuva na ikuri, vatu lailai kei na wasa savasava; vakaukauwataka na ikuri lelevu ena liga; raica na ivola ni iyaya | Tuvatuva vakalevu se lailai ki na rua na bilo |
+| Teitei se qaravi ni were | Vakasuasuataka, teivaka na kau, taqaqia na draunikau, raica na were | Tikotiko e tautuba ni o cakacaka tiko; taura na kato ni sore |
+| Mataivalu | Vakasavasavataka na ivava, tuvatuva vinaka e dua na tolo, raica na iyaloyalo ni veiqaravi kevaka e taleitaka | Rogoca na ivakatagi mai na gauna o ya |
+| Volivolitaki se veiqaravi | Kidavaki ira na vulagi, solia na kakana lailai, tuvatuva na kuponi | Tikotiko volekata na katuba me kaya „bula“ |
+| Vuli | Wilika vakadomoilevu, tuvatuva na ivola, tuvatuva na iyaloyalo me vaka na ulutaga | Raica vata e dua na ivola ni iyaloyalo |
+| Draiva se veilakoyaki | Raica na mape se na mekasini ni motoka makawa, savata na motoka | Raica na motoka era sivi mai na varada |
+| Vale kei na matavuvale | Luluta na isulu, vakarautaka na teveli, veivuke ena vakasaqa | Vakamalumalumutaka na delanipeni; veiwaki |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Eso na nanuma, me vaka na veiqaravi vakamataivalu, e rawa ni kauta mai na yalo kaukauwa. Muria na nona idusidusi, maroroya na veitalanoa me vinaka, ka veisautaka vakamalua na ulutaga kevaka e rairai rarawa.
 
-## Activity ideas based on hobbies
+## Vakasama ni itaviqaravi e yavutaki ena ka e taleitaka
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Cakacaka ni kau.** Volivolita e dua na buloko ni kau malumalumu se boroya e dua na kato ni manumanu vuka. Na Alzheimer's Association e vakatura me kau laivi na iyaya rerevaki kei na iyaya ni cakacaka mai na vale ni cakacaka me rawa ni marautaki ka taqomaki na itaviqaravi me vaka na volivoli.
+2. **Siwa.** Tuvatuva e dua na kato ni iyaya ni siwa ni sa kau laivi na ikowai, raica na mekasini ni siwa, se tikotiko vata ena bati ni tobu.
+3. **Motoka.** Savata na motoka, vakasavasavataka na yacana, raica na iyaloyalo ni motoka makawa, se lako vata ena motoka me dua na pasidia.
+4. **Qito.** Raica e dua na qito makawa se na ivakaraitaki lekaleka, viritaka e dua na polo malumalumu, biuta na polo ni golf ena ibe ni vale, se tuvatuva na kadi ni besibolo.
+5. **Kadi kei na qito.** E dua na qito rawarawa ni kadi e kila vinaka, domino, se vukica na kadi mo kunea na veidonui. Maroroya me vakacegu ka biuta na wiliki ni iwiliwili.
+6. **iVakatagi.** Na sere mai na nona gauna ni cauravou, e dua na ilawalawa a taleitaka, se e dua na sere ni lotu. Raica na neitou [idusidusi ni itaviqaravi ni ivakatagi](/activities/music/).
+7. **Vakasaqa kei na vakasaqa e tautuba.** Savasava na kakana draudrau, veiwaki na sosi, buli burger, se vakamacalataka na sala a vakasaqa kina na nona chili kilai ni o vakasaqa tiko.
+8. **Niusipepa.** Na Alzheimer's Association e tukuna ni dua na tamata a dau wilika na niusipepa e rawa ni taleitaka tiko ga, dina ga ni sega ni muria vinaka na lewena. Na kofi kei na niusipepa e rawa ni tikoga ena mataka.
+9. **Tara.** Na kato ni tara lelevu se na iyaya ni tara rawarawa me baleti ira na tamata qase. Digitaka na tiki e rawarawa me tauri.
+10. **Qaravi e dua na ka.** Vakani manumanu, vakasinaita na kato ni manumanu vuka, se vakasuasuataka na kau. Na NIA e vakaraitaka na [vakani, qaravi se kauti manumanu me lako](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ena kedra maliwa na itaviqaravi era rawa ni taleitaka.
 
-## How do I offer an activity without it feeling like busywork?
+## Me'u solia vakacava e dua na itaviqaravi me kua ni rairai me vaka e dua na cakacaka wale ga?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Vakamacalataka me vaka e dua na veivuke dina. Na Alzheimer's Association e vakatura mo taroga „O rawa ni vukei au mada?“ ka semata na itaviqaravi ki na inaki. Vakatauvatana:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- „O via tuvatuva na ikuri oqo?“ (e rairai me vaka e dua na veitarogi)
+- „Au a volia e dua na taga ni iyaya veicurumaki ka'u gadreva me tuvai ni bera ni'u vinakata na selfi. O rawa ni vukei au?“ (e rairai me vaka e dua na cakacaka)
 
-Other tips:
+Eso tale na ivakasala:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Vakayagataka na iyaya ni tamata qase.** Iyaya dina ni sa kau laivi na yasa gata, ivola dina, waqe ni meli dina.
+- **Cakacaka vata.** Rua na tamata e cakacaka vata ena dua na itavi e veimaliwai vinaka. E dua e sarava tu ga e dua e rairai me vakararavi.
+- **Kua ni vakadodonutaka.** Kevaka e biu na ikuri ki na bilo cala, laiva ga. Na ka bibi na gauna vata kei na nanuma ni yaga.
+- **Vukea me tekivu.** Na Alzheimer's Association e tukuna ni levu na tamata era via cakava tiko ga e so na ka ia e dredre vei ira me tuvatuva ka tekivu. Cakava vata na imatai.
 
-## How do I adapt as things change?
+## Me'u veisautaka vakacava ni sa veisau na ka e yaco?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Ni sa toso na mate ni guilecavi, na Alzheimer's Association e vakatura mo vakacuruma na itaviqaravi rawarawa cake, e dau caka vakawasoma, ka vakarautaki iko me rawa ni lailai sobu na nona vakaitavi. E dua na tagane a dau vinakata na idini e rawa ni taleitaka ena gauna oqo me taura e dua na sipana savasava ka veitalanoa baleta na motoka, se saravi iko ni o cakacaka tiko. Na sarasara e dua na sala ni vakaitavi.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Kevaka e dau kila vinaka sara e dua na ka, e dua na itaviqaravi e semati kina e rawa ni vinaka cake mai na nona cakacaka makawa. Na Association e tukuna ni dua na daudroini kilai e rawa ni rarawa ena veisau ni nona cakacaka, ia e dua e sega ni kenadau vakalevu e rawa ni taleitaka e dua na sala vou. E yaco tale ga oqo vei e dua na matai ni dau cakacaka ni kau.
 
-## Safety with work-style tasks
+## Taqomaki ena itaviqaravi ni cakacaka
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Kauta laivi na iyaya ni cakacaka kaukauwa, na iseleiwau, na ivako kei na ikuri e gata na mua.
+- Sogo vinaka na wai ni boroboro, penisini kei na wainimate rerevaki.
+- Maroroya na ki ni motoka me kua ni laurai kevaka e sega ni draiva tale.
+- Vakararavi tiko ena itaviqaravi kece ena vale ni cakacaka kei na lomanibai.
+- Digitaka na tiki lelevu era sega ni rawa ni tilomi.
 
-## What if he says no?
+## Na cava kevaka e kaya „sega“?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Rokova. Na „sega“ e rawa ni kena ibalebale ni itaviqaravi e rairai dredre, e rairai me vaka e nodra na gone, se sega ni ganita ena siga oqo. Na Alzheimer's Association e vakasalataki me kua ni vakasaurarataki. Tovolea e dua tale na itaviqaravi, e dua tale na gauna, se tikotiko vata ga. Raica na [cava mo cakava ni kaya „sega“](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Qito kei na veitalanoa e ganita
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+Na [Finish the Saying](/games/finish-the-saying/) e vakayagataka na vosa kilai mai Amerika ka dusia ki na veitalanoa. Na [Conversation Cards](/games/conversation-cards/) e tiko kina na taro veisureti, sega ni veitarogi, ka veiwasei me vaka na ulutaga, ka rawa ni dolava na italanoa baleta na cakacaka kei na ka a taleitaka. Na [Picture Puzzle](/games/picture-puzzle/) e maroroya na iyaloyalo taucoko me laurai ni o veisautaka na tiki, kei na [Word Search](/games/word-search/) e volai lelevu e rawa ni tabaki ka caka ena peni ena teveli ni kana. Me baleta na sala mo veitalanoa kina baleta na nona bula e liu ka sega ni vakatovolei, raica na neitou [idusidusi ni veinanumi lesu](/activities/reminiscence/).

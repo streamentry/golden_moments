@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Factaran Cunnart Trom-inntinn: Na 14 a dh’ainmich Lancet"
+seoTitle: "Factaran Cunnart Trom-inntinn: Na 14 aig Lancet"
+description: "Na 14 factaran cunnart trom-inntinn a ghabhas atharrachadh a dh’ainmich Coimisean Lancet 2024, a rèir ìre beatha, le na tha rannsachadh a’ ceangal riutha."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Dh’ainmich Coimisean Lancet 2024 14 factaran cunnart trom-inntinn a dh’fhaodadh
+  a bhith comasach atharrachadh: nas lugha foghlaim, call claisneachd,
+  cholesterol LDL àrd, trom-inntinn-inntinn, leòn cinn, dìth gnìomhachd,
+  tinneas an t-siùcair, smocadh, bruthadh-fala àrd, reamhrachd, cus deoch làidir,
+  aonaranachd shòisealta, truailleadh èadhair agus call lèirsinn gun làimhseachadh.
+  Còmhla, tha iad ceangailte ri timcheall air 45% de chùisean air feadh an t-saoghail,
+  gun ghealltanas do neach sam bith fa leth.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Tha na 14 factaran a’ ruith thar fad beatha: aon ann am beatha thràth, deich ann am meadhan-beatha agus trì nas anmoiche ann am beatha."
+  - "Tha call claisneachd agus cholesterol LDL àrd ann am meadhan-beatha gach fear ceangailte ri timcheall air 7% de chùisean trom-inntinn air feadh an t-saoghail, na co-roinnean as motha de aon fhactar sam bith."
+  - "’S e tuairmsean sluaigh a tha anns na ceudadan seo a tha a’ gabhail ris gu bheil adhbhar is buaidh ann. Dh’fhaodadh cuid de na ceanglaichean a bhith dìreach gu ìre adhbharach."
+  - "Tha aois agus ginean, nach urrainn do dhuine sam bith atharrachadh, nam prìomh fhactaran cunnart cuideachd. Chan eil lùghdachadh nan 14 cunnart a’ gealltainn gun seachnaidh neach sam bith trom-inntinn."
+  - "Tha a’ mhòr-chuid de na ceumannan a tha an lùib seo, leithid sgrùdadh air bruthadh-fala, claisneachd agus lèirsinn, math airson slàinte ann an dòighean eile agus is fhiach bruidhinn ri dotair mun deidhinn."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Dè na 14 factaran cunnart trom-inntinn a ghabhas atharrachadh?"
+    a: "Dh’ainmich Coimisean Lancet 2024 nas lugha foghlaim, call claisneachd, cholesterol LDL àrd, trom-inntinn-inntinn, leòn eanchainn traumatach, dìth gnìomhachd chorporra, tinneas an t-siùcair, smocadh, bruthadh-fala àrd, reamhrachd, cus deoch làidir, aonaranachd shòisealta, truailleadh èadhair agus call lèirsinn gun làimhseachadh. Còmhla, tha iad ceangailte ri faisg air leth de chùisean trom-inntinn air feadh an t-saoghail."
+  - q: "Dè am factar cunnart trom-inntinn as cudromaiche?"
+    a: "Thar sluagh an t-saoghail, rinn a’ Choimisean tuairmse gu bheil call claisneachd agus cholesterol LDL àrd ann am meadhan-beatha gach fear ceangailte ri timcheall air 7% de chùisean, air an leantainn le nas lugha foghlaim agus aonaranachd shòisealta aig timcheall air 5% gach fear. Tha na factaran as cudromaiche do aon neach an urra ri an slàinte fhèin, agus mar sin is e dotair an stiùireadh as fheàrr."
+  - q: "An deach an dà fhactar cunnart ùr a chur ris ann an 2024?"
+    a: "Chaidh. Chuir aithisg 2024 cholesterol LDL (dona) àrd ann am meadhan-beatha agus call lèirsinn gun làimhseachadh nas anmoiche ann am beatha ris na 12 factaran a chaidh ainmeachadh ann an 2020. Cheangail a’ Choimisean iad ri timcheall air 7% agus 2% de chùisean fa leth."
+  - q: "An e factar cunnart a ghabhas atharrachadh a tha ann an aois?"
+    a: "Chan e. Is e aois am factar cunnart aithnichte as motha airson galar Alzheimer, agus chan urrainnear atharrachadh. Tha pàirt aig ginean cuideachd. Is iad na 14 factaran air an duilleag seo an fheadhainn a tha rannsachadh a’ moladh a dh’fhaodadh a bhith comasach atharrachadh."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,126 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+’S e rud a tha ceangailte ri cothrom nas àirde suidheachadh a leasachadh a th’ ann am factar cunnart. Chan e adhbhar a th’ ann anns gach cùis, agus chan eil e a’ ciallachadh gun leasaich sibh trom-inntinn ma tha aon agaibh. Tha an duilleag seo a’ liostadh nan 14 factaran cunnart trom-inntinn a tha Coimisean Lancet 2024 ag ràdh a dh’fhaodadh a bhith comasach atharrachadh, na tha rannsachadh a’ ceangal riutha, agus na dh’fhaodadh sibh bruidhinn thairis le dotair.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Airson an dealbh nas motha, a’ gabhail a-steach na lorg deuchainnean mòra, tòisichibh le
+[An gabh trom-inntinn a chasg? Na tha an rannsachadh ag ràdh](/brain-health/can-dementia-be-prevented/).
+’S e fiosrachadh coitcheann a tha seo, chan e comhairle mheidigeach; faicibh ar
+[àicheadh mheidigeach](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Dè na 14 factaran cunnart airson trom-inntinn?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+Rinn [Coimisean Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+air a sgrìobhadh le 27 neach-rannsachaidh trom-inntinn, tuairmse gu bheil 14
+factaran cunnart a dh’fhaodadh a bhith comasach atharrachadh còmhla a’ dèanamh suas
+mu 45% de chùisean trom-inntinn air feadh an t-saoghail. ’S e an ceudad airson gach
+factar gu h-ìosal tuairmse na Coimisean air a’ chuibhreann de chùisean air feadh an
+t-saoghail a tha ceangailte ris, air a cruinneachadh gu àireamhan slàna. Tha na
+figearan a’ dol thairis air a chèile, leis gu bheil grunn chunnartan aig mòran dhaoine
+aig an aon àm, agus is ann air sgàth sin a tha iad a’ tighinn gu 45% seach barrachd.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Factar cunnart | Ìre beatha | Cuibhreann de chùisean | Na tha rannsachadh a’ ceangal | Na dh’fhaodas sibh a dhèanamh |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Nas lugha foghlaim | Beatha thràth | 5% | Tha nas lugha bhliadhnaichean foghlaim ceangailte ri cunnart nas àirde. Tha coltas gu bheil a bhith gnìomhach gu inntinneil ann am meadhan-beatha dìonach cuideachd, eadhon do dhaoine le glè bheag de fhoghlam. | Cumaibh ag ionnsachadh agus a’ dèanamh rudan a tha tarraingeach don inntinn aig aois sam bith: leughadh, cur-seachadan, clasaichean, geamannan le daoine eile. |
+| Call claisneachd | Meadhan-beatha | 7% | Tha call claisneachd gun làimhseachadh ceangailte ri cunnart nas àirde. Tha sgrùdaidhean a leanas dhaoine thar ùine a’ ceangal cleachdadh innealan-claisneachd ri cunnart nas ìsle. | Faighibh deuchainn claisneachd. Faighnichibh am biodh innealan-claisneachd cuideachail, agus caithibh iad ma thèid an òrdachadh. Dìonaibh na cluasan bho fhuaim àrd. |
+| Cholesterol LDL àrd | Meadhan-beatha (bho mu 40) | 7% | Tha cholesterol LDL àrd (“dona”) ann am meadhan-beatha ceangailte ri cunnart nas àirde. Tha sgrùdaidhean amharc a’ ceangal cleachdadh statain ri cunnart nas ìsle, ach cha do sheall deuchainnean nas anmoiche ann am beatha seo. | Faighnichibh do ur dotair am bu chòir ur cholesterol a sgrùdadh agus dè, ma tha rud sam bith ann, a dhèanamh mu dheidhinn. |
+| Trom-inntinn-inntinn | Meadhan-beatha | 3% | Tha trom-inntinn-inntinn ceangailte ri cunnart nas àirde. Nas anmoiche ann am beatha, faodaidh trom-inntinn-inntinn a bhith na chomharradh tràth air trom-inntinn cuideachd. | Innsibh do dhotair mu dhroch shunnd no call ùidh a mhaireas barrachd air dà sheachdain. Faodar làimhseachadh a dhèanamh air trom-inntinn-inntinn. |
+| Leòn eanchainn traumatach | Meadhan-beatha | 3% | Tha leòn cinn aig aois sam bith agus bho thùs sam bith, a’ gabhail a-steach spòrs conaltraidh, ceangailte ri cunnart nas àirde. | Caithibh clogaid airson rothaireachd agus spòrs conaltraidh. Faighnichibh mu chasg tuiteam. Gabhaibh fois agus faighibh sgrùdadh às dèidh leòn cinn. |
+| Dìth gnìomhachd chorporra | Meadhan-beatha | 2% | Chan eil daoine a bhios ag eacarsaich agus a’ cluich spòrs cho buailteach trom-inntinn a leasachadh. Tha fianais deuchainnean fhathast cuibhrichte. | Faighnichibh dè a’ ghnìomhachd a tha sàbhailte dhuibh, agus lorgaibh rudeigin a chòrdas ribh. Faicibh ar [stiùireadh eacarsaich](/brain-health/exercise/). |
+| Tinneas an t-siùcair | Meadhan-beatha | 2% | Tha tinneas an t-siùcair, gu sònraichte nuair a thòisicheas e ann am meadhan-beatha no nuair a mhaireas e nas fhaide, ceangailte ri cunnart nas àirde. | Faighibh sgrùdadh air siùcar fala. Ma tha tinneas an t-siùcair oirbh, obraichibh le ur sgioba cùraim air a riaghladh gu sàbhailte. |
+| Smocadh | Meadhan-beatha | 2% | Tha smocadh ceangailte ri cunnart nas àirde. Tha sgrùdaidhean a’ faighinn a-mach nach eil an aon chunnart àrdaichte aig seann-smocairean ’s a tha aig daoine a chumas orra a’ smocadh. | Faighnichibh mu thaic gus stad. Is fhiach stad aig aois sam bith. |
+| Bruthadh-fala àrd | Meadhan-beatha | 2% | Tha bruthadh-fala àrd ann am meadhan-beatha ceangailte ri cunnart nas àirde. Tha deuchainnean air cungaidhean bruthadh-fala a’ moladh cunnart beagan nas ìsle de throm-inntinn no lagachadh inntinneil. | Biodh fios agaibh air na h-àireamhan agaibh. Tha a’ Choimisean a’ moladh àireamh as àirde de 130 no nas ìsle bho mu aois 40; faighnichibh dè an t-amas a fhreagras oirbh. |
+| Reamhrachd | Meadhan-beatha | 1% | Tha reamhrachd ann am meadhan-beatha ceangailte ri cunnart nas àirde, agus tha e cuideachd ag àrdachadh cunnart tinneas an t-siùcair. | Faighnichibh do ur dotair mu chuideam fallain dhuibh. Cha bu chòir do dh’inbhich nas sine daithead a dhèanamh gus cuideam a chall gun chomhairle mheidigeach. |
+| Cus deoch làidir | Meadhan-beatha | 1% | Tha òl trom ceangailte ri cunnart nas àirde. Tha gearradh sìos bho òl trom ceangailte ri cunnart nas ìsle. | Faighnichibh dè a’ chrìoch shàbhailte dhuibh, gu sònraichte le ur cungaidhean. |
+| Aonaranachd shòisealta | Beatha nas anmoiche | 5% | Tha conaltradh sòisealta neo-tric ceangailte ri cunnart nas àirde. | Cumaibh an conaltradh ri daoine ann an dòighean a chòrdas ribh. Faicibh ar [stiùireadh ceangail shòisealta](/brain-health/social-connection/). |
+| Truailleadh èadhair | Beatha nas anmoiche | 3% | Tha a bhith a’ fuireach le barrachd truailleadh èadhair ceangailte ri cunnart nas àirde. Tha sgrùdaidhean a’ ceangal èadhar nas glaine ri cunnart nas ìsle. | Gu ìre mhòr, ’s e cùis poileasaidh poblach a tha seo. Thoiribh sùil air rabhaidhean càileachd èadhair ionadail agus cuiribh crìoch air ùine a-muigh air làithean glè thruaillichte. |
+| Call lèirsinn gun làimhseachadh | Beatha nas anmoiche | 2% | Tha duilgheadasan lèirsinn gun cheartachadh ceangailte ri cunnart nas àirde. Cheangail aon sgrùdadh mòr sna SA obair-lannsa cataract ri cunnart nas ìsle. | Faighibh sgrùdaidhean sùla cunbhalach. Faighnichibh an gabh duilgheadasan leithid cataractan a làimhseachadh. |
 
-## How should I read these percentages?
+## Ciamar a bu chòir dhomh na ceudadan seo a leughadh?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Gu faiceallach. Tha aithisg na Coimisean fhèin a’ dèanamh grunn phuingean as fhiach
+a chumail nar cuimhne:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Tha iad a’ toirt cunntas air sluaigh, chan e daoine fa leth.** Tha
+  [geàrr-chunntas University College London air an aithisg](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  ag innse gu bheil lùghdachadh cunnart ag obair thar sluaigh agus nach eil e a’
+  gealltainn gun seachnaidh neach sam bith fa leth trom-inntinn.
+- **Tha iad a’ gabhail ris gu bheil adhbhar is buaidh ann.** Cha do ghabh na
+  h-ùghdaran a-steach ach factaran le fianais làidir, ach tha iad ag ràdh
+  dh’fhaodadh cuid de na ceanglaichean a bhith dìreach gu ìre adhbharach.
+- **’S e figearan air feadh an t-saoghail a th’ annta.** Tha a’ mhòr-chuid den
+  dàta a’ tighinn bho dhùthchannan le teachd-a-steach àrd, agus bidh an fhìor
+  chuibhreann airson dùthaich no coimhearsnachd sam bith eadar-dhealaichte.
+- **Faodaidh ceudadan beaga a bhith cudromach fhathast.** Tha factar a tha
+  ceangailte ri 2% de chùisean air feadh an t-saoghail fhathast a’ toirt buaidh air
+  àireamh glè mhòr de dhaoine.
 
-## Which risk factors were added in 2024?
+## Dè na factaran cunnart a chaidh a chur ris ann an 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Chuir aithisg 2024 dà fhactar ris na 12 a chaidh ainmeachadh ann an 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Cholesterol LDL àrd ann am meadhan-beatha**, ceangailte ri timcheall air 7% de chùisean.
+- **Call lèirsinn gun làimhseachadh nas anmoiche ann am beatha**, ceangailte ri timcheall air 2% de chùisean.
 
-## What risk factors cannot be changed?
+## Dè na factaran cunnart nach gabh atharrachadh?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Tha an National Institute on Aging ag ràdh
+[gur e aois am factar cunnart aithnichte as motha airson Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+agus chan urrainn do dhuine sam bith atharrachadh. Tha pàirt aig ginean cuideachd;
+is e aon ghine ainmeil a bheir buaidh air cunnart Alzheimer APOE. Tha an NIA a’
+cur ris nach eil luchd-saidheans fhathast a’ tuigsinn gu h-iomlan dè a dh’adhbharaicheas
+Alzheimer anns a’ mhòr-chuid de dhaoine. Tha Coimisean Lancet a’ toirt fa-near gum
+faodar na cunnartan a dh’fhaodadh a bhith comasach atharrachadh a lùghdachadh ge bith dè
+cunnart ginteil neach.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Leis gu bheil pàirt cho mòr aig aois agus ginean, bidh trom-inntinn air mòran dhaoine
+aig nach eil gin de na 14 factaran cunnart fhathast. Chan e coire neach sam bith a th’ ann.
 
-## What does the trial evidence say about changing these risks?
+## Dè tha fianais deuchainnean ag ràdh mu bhith ag atharrachadh nan cunnartan seo?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Chan eil e an aon rud factar cunnart a cheangal ri trom-inntinn agus a dhearbhadh gu
+bheil ga atharrachadh a’ lùghdachadh cunnart trom-inntinn. Seo beagan eisimpleirean de
+far a bheil fianais deuchainnean an-dràsta:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Bruthadh-fala.** Ann an deuchainn SPRINT MIND, lùghdaich amas bruthadh-fala nas
+  ìsle lagachadh inntinneil tlàth gu mòr. Cha do lùghdaich e trom-inntinn a bha coltach
+  gu mòr, ged a dh’fhaodadh an deuchainn a bhith ro bheag airson sin a shealltainn
+  ([SPRINT MIND ann an JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Innealan-claisneachd.** Tha Coimisean Lancet a’ toirt cunntas air deuchainn
+  innealan-claisneachd trì bliadhna nach do lorg buaidh iomlan air smaoineachadh, ach a
+  lorg buannachd ann am fo-bhuidheann de dhaoine le cunnart nas àirde. Tha sgrùdaidhean
+  a leanas dhaoine thar ùine a’ ceangal cleachdadh innealan-claisneachd ri cunnart nas
+  ìsle. Tha barrachd anns an [stiùireadh claisneachd](/brain-health/hearing/) againn.
+- **Gnìomhachd chorporra.** Tha an National Institute on Aging ag ràdh nach eil fianais
+  deuchainnean clionaigeach gu leòr ann gus a cho-dhùnadh gum faod eacarsaich casg no
+  slaodadh a chur air lagachadh inntinneil tlàth no Alzheimer, ged a tha cuid de
+  sgrùdaidhean a’ moladh gum faodadh e cuideachadh le crìonadh co-cheangailte ri aois
+  ([NIA air casg Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Tha deuchainnean fada a tha a’ feitheamh ri trom-inntinn a leasachadh slaodach agus
+cosgail, agus mar sin airson mòran fhactaran thig an fhianais as fheàrr fhathast bho
+sgrùdaidhean a leanas dhaoine thar bhliadhnaichean. Tha an fhianais sin feumail, ach tha
+i nas laige na deuchainn.
 
-## What about sleep and diet?
+## Dè mu chadal agus daithead?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Rinn a’ Choimisean ath-sgrùdadh air cadal agus daithead ach cha do chuir iad ris an
+liosta iad, leis nach robh an fhianais làidir no cunbhalach gu leòr. Tha na stiùiridhean
+againn air [cadal](/brain-health/sleep/) agus [daithead](/brain-health/diet/) a’
+mìneachadh na tha aithnichte.
 
-## Talk with a doctor
+## Bruidhnibh ri dotair
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+’S e deagh àm a th’ ann an sgrùdadh bliadhnail gus na cuspairean seo a thogail.
+Dh’fhaodadh sibh an liosta seo a thoirt leibh agus faighneachd:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Dè na h-àireamhan agam airson bruthadh-fala, siùcar fala agus cholesterol, agus a
+  bheil feum aig gin dhiubh air aire?
+- Am bu chòir dhomh mo chlaisneachd agus mo shùilean a sgrùdadh?
+- A bheil a’ ghnìomhachd a nì mi sàbhailte agus gu leòr dhomh?
+- Am faod gin de na cungaidhean agam buaidh a thoirt air cuimhne no smaoineachadh?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Mus atharraich sibh cungaidhean, daithead, trasgadh, eacarsaich no stuthan-leasachaidh,
+bruidhnibh ri dotair an toiseach. Ma tha troimh-chèile obann, laigse air aon taobh, no
+duilgheadas le bruidhinn oirbh fhèin no air an neach air a bheil sibh a’ toirt cùram,
+cuiribh fòn gu 999.

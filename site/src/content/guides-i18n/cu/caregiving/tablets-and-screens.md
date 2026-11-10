@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Оустрьѥниѥ скрижали ли телефона чловѣкоу съ оумьнъимъ ослаблѥниѥмь"
+seoTitle: "Оустрьѥниѥ скрижали чловѣкоу съ оумьнъимъ ослаблѥниѥмь"
+description: "Какъ оустрьити скрижаль ли телефонъ чловѣкоу съ оумьнъимъ ослаблѥниѥмь: ѥдино приложьство, большиѥ писмєна, мєньшє възвѣщєнии, простъ домъ, гласъ и съхранѥниѥ таины."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Оустрь скрижаль ли телефонъ простѣѥ, прѣждє нєжє подаси ѭ. Оудрьжи ѩ
+  въ ѥдиномъ приложьствѣ чрѣзъ Guided Access на iPad и iPhone ли чрѣзъ
+  пригвождєниѥ приложьства на Android, ли оупотрѣби Assistive Access
+  отъ Apple за простѣишии видъ. Сътвори писмєна больша, оумльчи възвѣщєниꙗ,
+  остави мало знакомъихъ приложьствъ на ѥдиномъ домовиѥмъ лицѣ, оустави
+  гласъ, положи стоꙗло и ограничи правьства приложьствъ. Оупотрѣблꙗи
+  оустрьство въкоупѣ, при дѣлѣхъ бєзъ лицꙗ.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) и пригвождєниѥ приложьства (Android) дрьжитꙋ лицє въ ѥдиномъ приложьствѣ, доньдєжє отъмькнєши."
+  - "Assistive Access отъ Apple подаѥть простѣишии видъ, сътворєнъ за чловѣкꙑ съ оумьнъими трѹдъностми."
+  - "Сътвори писмєна больша и отъврати възвѣщєниꙗ и въскочивъшаꙗ окъна, да ничьто жє нє прѣръꙗѥть ли нє мѧтєть."
+  - "Остави мало знакомъихъ приложьствъ на ѥдиномъ домовиѥмъ лицѣ и оустави гласъ прѣждє начѧтиꙗ."
+  - "Стоꙗло и мѣсто напльнѥниꙗ, ѥжє николи нє мѣниши, творитꙋ оустрьство оудобьнѣѥ оупотрѣбити и обрѣсти."
+  - "Прѣзьри правьства приложьствъ и дѣлѥниѥ данъихъ: HIPAA обꙑчьно нє хранить того, ѥжє лєжить на личьнѣмъ оустрьствѣ."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Како възбранити чловѣкоу съ оумьнъимъ ослаблѥниѥмь изити изъ приложьства на iPad?"
+    a: "Въключи Guided Access въ Settings > Accessibility > Guided Access и положи таинъ кодъ. Отвори приложьство, тръкратно притисни врьхънѭѭ кънопѫ (ли кънопѫ Home на старѣишихъ iPad), и притисни Start. iPad прѣбꙑваѥть въ томь приложьствѣ, доньдєжє къто вънєсєть таинъ кодъ."
+  - q: "Како оудрьжати скрижаль Android въ ѥдиномъ приложьствѣ?"
+    a: "Въключи пригвождєниѥ приложьства въ приложьствѣ Settings, обꙑчьно подъ Security (иногда Security & location) > Advanced > App pinning. Потомь отвори приложьство, отвори Overview, притисни знакъ приложьства въ врьсѣ и притисни Pin. Трѣбоуѥть сѧ твоѥ PIN, образъць ли таино слово, да отъимєши пригвождєниѥ."
+  - q: "Добрѣ ли ѥсть оупотрѣблꙗти Guided Access на съвъствьнѣмъ телефонѣ чловѣка?"
+    a: "Бѫди въниматєлънъ. Apple глаголѥть, ꙗко Crash Detection и Emergency Services нє сѫтъ достѫпьни, ѥгда Guided Access ѥсть въключєнъ. Ащє чловѣкъ надѣѥть сѧ на свои телефонъ за спѣшънꙑѧ зъваньꙗ, оупотрѣблꙗи Guided Access тъчьѭ ѥгда ѥси съ нимь, ли помꙑсли о Assistive Access."
+  - q: "Колико врѣмєнє прѣдъ лицємь подобаѥть чловѣкоу съ оумьнъимъ ослаблѥниѥмь?"
+    a: "Нѣсть оуставлѥна чрьта. Кратъци дѣлєни врѣмєнє въкоупѣ, съмѣшєни съ ходьбою, пѣниѥмь, домашьними дѣлꙑ и бєсѣдою, творѧтъ дьнь пльнѣишии, нєжє дльги чѧсꙑ ѥдинъ прѣдъ лицємь. Ащє оустрьство родить неоудобьство ли отъмєтꙋѥть ина дѣла, оупотрѣблꙗи ѥ мєньшє."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Скрижаль можєть бъити добръ пѫть дѣлити образꙑ, пѣниѥ и простꙑ игрꙑ. Та такожє можєть мѧсти: мимошьдъшє притиснѫтиѥ отвори инъ приложьствъ, възвѣщєниѥ въскочить, писмєна мала сѫтъ, ли лицє помрькнєть посрѣдѣ игрꙑ. Мало оустрьѥниꙗ отъ тєбє исправлꙗѥть болє того.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Си стѫпєни оупотрѣблꙗѭтъ въноутрьнꙗ оуставлѥниꙗ на iPhone, iPad и Android. Имєна мєню могѫтъ мѣнити сѧ по разнꙑихъ видѣхъ оустрьствъ и творьць, тъгда ащє чьто видить сѧ инакъ, иди по съвѧзаньнѣи страницѣ Apple ли Google за твоѥ оустрьство. Сътвори оустрьѥниѥ самъ, прѣждє нєжє сѧдєта въкоупѣ.
 
-## Should someone with dementia use a tablet or phone?
+## Подобаѥть ли чловѣкоу съ оумьнъимъ ослаблѥниѥмь оупотрѣблꙗти скрижаль ли телефонъ?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+То завісить отъ чловѣка. Мънози чловѣци радоуѭтъ сѧ оупотрѣблꙗти скрижаль съ кꙑмь при себѣ, ащє и нє могѫтъ съ тоѭ справити сѧ ѥдини. Начьни оупотрѣблꙗти ѭ въкоупѣ, съ ѥдиномь отворєнъмь приложьствомь, за мало врѣмєнє. Ащє то приносить радость и бєсѣдѫ, прѣбѫди. Ащє то приносить мѧтєжь ли неоудобьство, съборъ образъ, печатанꙑѧ страницы ли пѣниѥ могѫтъ бъити лѣпьшє. Нашꙗ [пєчатанꙑꙗ дѣланиꙗ](/activities/printable/) сѫтъ инъ пѫть.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Скрижаль обꙑчьно оудобьнѣиша ѥсть нєжє телефонъ: лицє и образи сѫтъ больши, и та нє ѥсть въ тъ жє чѧсъ спѣшънаꙗ пѫть чловѣка.
 
-## How do I lock a tablet or phone to one app?
+## Како оудрьжати скрижаль ли телефонъ въ ѥдиномъ приложьствѣ?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Оупотрѣби Guided Access на iPhone и iPad, ли пригвождєниѥ приложьства на Android. Оба дрьжита лицє въ ѥдиномъ приложьствѣ, доньдєжє вънєсєши кодъ, да мимошьдъшє притиснѫтиѥ ли потѧгнѫтиѥ нє можєть отворити ино.
 
-### iPad and iPhone: Guided Access
+### iPad и iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+По [наставлѥнию Apple о Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Отвори **Settings**, притисни **Accessibility**, потомь притисни **Guided Access** и въключи ѥ.
+2. Подъ **Passcode Settings** положи таинъ кодъ Guided Access. Можєши такожє поустити Face ID ли Touch ID.
+3. Ащє хощєши: подъ **Display Auto-Lock** избєри, колико скоро лицє замъкаѥть сѧ въ врѣмѧ дѣланиꙗ, да нє помрькнєть посрѣдѣ игрꙑ.
+4. Отвори приложьство, ѥжє хощєши оупотрѣбити.
+5. Тръкратно притисни бочьнѭѭ кънопѫ (iPhone), врьхънѭѭ кънопѫ (iPad), ли кънопѫ Home на старѣишихъ оустрьствѣхъ.
+6. Ащє хощєши: обьиди чѧсти лицꙗ, ѩжє хощєши да нє отъвѣщаѭтъ на прикоснѫтиѥ. Притисни **Options** (ли **Session Settings**), да отъвратиши кънопꙑ гласа ли да възбраниши лицє обръщати сѧ.
+7. Притисни **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Да коньчаѥши, тръкратно притисни тѫ жє кънопѫ пакꙑ, вънєси таинъ кодъ и притисни **End**. Apple глаголѥть, ꙗко на нѣкоихъ старѣишихъ видѣхъ дъвакрати притискаѥши.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Важьно:** Apple глаголѥть, ꙗко Crash Detection и Emergency Services нє сѫтъ достѫпьни въ врѣмѧ Guided Access. Нє оставлꙗи Guided Access въключєнъ на телефонѣ, ѥгожє чловѣкъ можєть трѣбовати за спѣшънꙑѧ зъваньꙗ.
 
-### Android: app pinning
+### Android: пригвождєниѥ приложьства
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+По [помощи Google за Android о пригвождєнии](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Отвори приложьство **Settings**.
+2. Притисни **Security** (ли **Security & location**), потомь **Advanced**, потомь **App pinning**. Ащє нє можєши обрѣсти, виждь помощи творьца твоѥго оустрьства.
+3. Въключи **App pinning**. Твоѥ PIN, образъць ли таино слово бѫдєть трѣбовати сѧ, да отъимєши пригвождєниѥ.
+4. Отвори приложьство, ѥжє хощєши. Потѧгни въ врьхъ до срѣдꙑ лицꙗ и дрьжи, да отвори Overview (ли притисни Overview при плоутии съ трьми кънопами).
+5. Въ врьсѣ приложьства притисни знакъ приложьства, потомь притисни **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Да отъимєши пригвождєниѥ съ плоутиѥмь жєстъ, потѧгни въ врьхъ и дрьжи. Съ трьми кънопами дрьжи Back и Overview. Съ дъвѣма кънопама дрьжи Back и Home. Потомь вънєси своѥ PIN, образъць ли таино слово.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Ѥсть ли простѣишии видъ за вьсь iPhone ли iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Ѥсть. Assistive Access отъ Apple мѣниꙗѥть обꙑчьно домовиѥ лицє простѣишимь. [Apple глаголѥть](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios), ꙗко то сътворєно ѥсть, да бѫдєть iPhone оудобьнѣѥ чловѣкомъ съ оумьнъими трѹдъностми оупотрѣблꙗти самѣмъ, съ большими вєщьми на лицѣ и съ въниманиѥмь на мало дѣлъ. Apple подаѥть [тъ жє видъ на iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Къто оустрьꙗѥть.** Apple съвѣтоуѥть, да вѣрьнъ помоштьникъ, ꙗко родьствьникъ ли попєчьникъ, ижє знаѥть чловѣка, поможєть избьрати приложьства и дѣла.
+- **Отъкѫдє начѧти.** Иди въ **Settings > Accessibility > Assistive Access**, притисни **Set Up Assistive Access**, потомь **Continue**.
+- **Приложьства.** Тꙑ избираѥши, каꙗ приложьства ꙗвлꙗѭтъ сѧ. Нѣкаꙗ приложьства Apple имѫтъ особьнꙑ простꙑ видꙑ, а болє инъихъ приложьствъ можєши придати въ ихъ обꙑчьнѣмь видѣ.
+- **Оустрьство лицꙗ.** Избєри **Rows** (списъкъ оудобьнъ чьсти) ли **Grid** (больши вєщи, ѩжє ꙗвлꙗѭтъ образꙑ и знакꙑ).
+- **Таинъ кодъ.** Полагаѥши особьнъ таинъ кодъ Assistive Access, да въидєши, изидєши ли измѣниши оуставлѥниꙗ. Apple съвѣтоуѥть положити възвращьнъ Apple Account при оустрьѥнии, занє бєзъ нєго забꙑтъ таинъ кодъ знємєнꙋѥть възвращєниѥ оустрьства.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access можєть подобати чловѣкоу, ижє оупотрѣблꙗѥть своѥ оустрьство по вьсꙗ дьни. Guided Access ли пригвождєниѥ приложьства скорѣѥ ѥсть за дѣлєно врѣмѧ игрꙑ.
 
-## How do I make text and pictures bigger?
+## Како сътворити писмєна и образꙑ больша?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Оувєличи писмєна и видъ на лицѣ, потомь виждь, да кънопꙑ ѥщє въмѣщаѭтъ сѧ на лицє.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone и iPad.** По [наставлѥнию Apple о вєличьствѣ писмєнъ](https://support.apple.com/en-us/102453), иди въ **Settings > Display & Brightness > Text Size** и потѧгни плъзѫчь. За ѥщє больша писмєна иди въ **Settings > Accessibility > Display & Text Size > Larger Text**. Apple глаголѥть, ꙗко зѣло вєлика писмєна могѫтъ сътворити нѣкоторꙑѧ кънопꙑ трѹдьнѣишѧ притиснѫти, тъгда измѣни, ащє трѣбоуѥть сѧ.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** По [помощи Google о писмєнѣхъ и видѣ](https://support.google.com/accessibility/android/answer/11183305?hl=en), отвори **Settings** и ищи **Font size**, потомь движи плъзѫчь. Ищи **Display size**, да сътвориши вьсє на лицѣ большє. Можєши такожє въключити **Bold text** подъ **Accessibility > Display size and text**. Нѣкаꙗ приложьства нє слѣдоуѭтъ симъ оуставлѥниѥмъ.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Въ играхъ ꙗко [Picture Pairs](/games/picture-pairs/) и [Find the Same](/games/find-the-same/) можєши такожє избьрати мєньшє плочицъ ли избьрании, да бѫдєть на лицѣ простѣѥ.
 
-## How do I stop notifications and pop-ups?
+## Како възбранити възвѣщєниꙗ и въскочивъшаꙗ окъна?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Отъврати възвѣщєниꙗ за приложьства, ѩжє нє трѣбоуѥши, и оупотрѣблꙗи Do Not Disturb въ врѣмѧ дѣланиꙗ.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone и iPad.** Иди въ **Settings > Notifications**, притисни приложьство подъ **Notification Style** и отъврати **Allow Notifications** ([наставлѥниѥ Apple о възвѣщєниихъ](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Да оумльчиши зъваньꙗ, знамєниꙗ и възвѣщєниꙗ за мало врѣмєнє, отвори Control Center и въключи **Do Not Disturb** отъ кънопꙑ **Focus** ([помощь Apple о Do Not Disturb](https://support.apple.com/en-us/105112)). Можєши оуставити врѣмѧ подъ **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Потѧгни внизъ отъ врьха лицꙗ и притисни **Do Not Disturb**, ли иди въ **Settings > Modes > Do Not Disturb** ([помощь Google о Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Подъ **Notification filters** можєши избьрати, котори чловѣци и приложьства ѥщє могѫтъ прѣити. Оуставлѥниꙗ мѣнѧтъ сѧ по творьци оустрьства.
 
-## How do I make a simple home screen?
+## Како сътворити просто домовиѥ лицє?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Остави мало знакомъихъ приложьствъ на ѥдиномъ лицѣ и прѣнєси прочаꙗ вънъ видѣниꙗ. Нѣсть ѥдиного оуставлѥниꙗ за то; то ѥсть отъѩтиѥ мѧтєжи.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Избєри три до шєсти приложьствъ.** На примѣръ, образꙑ, пѣниѥ, приложьство видимаго зъваньꙗ и ѥдинѫ игрѫ.
+- **Положи ꙗ на пьрвомь лицѣ,** по тѣхъ жє мѣстѣхъ вьсєгда, а вьсє ино прѣнєси на въторо лицє ли въ папькѫ.
+- **Оупотрѣби простъ зади фонъ съ ꙗвьнъимь разлѫчєниѥмь,** ꙗко ѥдинѫ боꙗ ли ѥдинъ знакомъ образъ, да знакꙑ ꙗвлꙗѭтъ сѧ.
+- **Отъими приложьства, ѩжє нє трѣбоуѥши.** Мєньшє приложьствъ знємєнꙋѥть мєньшє мѧтєжи и мєньшє събьранꙑихъ данъихъ.
+- **Помꙑсли о Assistive Access** на оустрьствѣхъ Apple, ащє хощєши, да оустрьство сътворить то за тѧ.
 
-## What about volume and sound?
+## Чьто о гласѣ и звѫцѣ?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Оустави оудобьнъ гласъ прѣждє нєжє подаси оустрьство. Съ Guided Access можєши отъвратити кънопꙑ гласа, да гласъ нє мѣни сѧ посрѣдѣ дѣланиꙗ. Провѣри, да помагающа слоухоу оустрьства сѫтъ въ оушию и дѣлаѭтъ.
 
-## Where should the tablet live?
+## Къдє подобаѥть скрижали лєжати?
 
-Give it a stand and a permanent charging spot.
+Даи ѥи стоꙗло и ѥдино мѣсто напльнѥниꙗ.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Стоꙗло ли одѣꙗниѥ,** ѥжє дрьжить скрижаль прꙗмо на тръпєзѣ, знємєнꙋѥть, ꙗко никъто жє нє дрьжить ѩ, и показати оудобьнѣѥ ѥсть.
+- **Ѥдино мѣсто напльнѥниꙗ,** ѥжє николи нє мѣниши, лѣпѣ стоꙗло напльнѥниꙗ на тръпєзѣ въ храминѣ, ѭжє оупотрѣблꙗѥши по вьсꙗ дьни. Скрижаль вьсєгда напльнєна и вьсєгда на томь жє мѣстѣ.
+- **Оумьни блѣскъ.** Положи лицє далєчє отъ свѣтьлаго окна.
 
-## How much screen time is okay?
+## Колико врѣмєнє прѣдъ лицємь подобаѥть?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Нѣсть права чрьта минутъ. Ищи кратъкꙑ дѣлєнꙑ врѣмєнъ въкоупѣ, ꙗко чѧсть пльна дьнє, въ нємьжє сѫтъ такожє движєниѥ, пѣниѥ, домашьнꙗ дѣла, бєсѣда и врѣмѧ вънѣ. Поньєжє мѧтєньни вєчєри могѫтъ приложити къ поꙁдьноуоумоу нєпокою, помꙑсли дрьжати дѣланиꙗ прѣдъ лицємь раньшє въ дьнь. Виждь [тихꙑѧ дѣланиꙗ поꙁдьна пополоудьнє](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Оупотрѣблꙗти скрижаль въкоупѣ, а нє ꙗко хранитиѥ ѥдиного, дрьжить то въ общєнии. Нашє наставлѥниѥ о [играхъ въкоупѣ](/caregiving/how-to-play-together/) съказоуѥть како.
 
-## How do I protect their privacy on the device?
+## Како съхранити таинѫ чловѣка на оустрьствѣ?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Ограничи, чьто приложьства могѫтъ събирати, и нє мьни, ꙗко законъ о таинѣ съдравьꙗ хранить то. U.S. Department of Health and Human Services (HHS) [съказоуѥть](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), ꙗко правіла HIPAA обꙑчьно нє хранѧтъ съдравьнꙑихъ данъихъ, ѩжє лєжѧтъ на личьнъихъ телефонѣхъ и скрижалѣхъ ли сѫтъ достѫпьна чрѣзъ нꙗ. Въ болєи чѧсти HIPAA такожє нє хранить данъихъ, вънєсєнъихъ въ приложьства за личьно оупотрѣблѥниѥ, ащє приложьство нє приходитъ отъ съдравьнаго помоштьника, съдравьнаго оустрьꙗ ли отъ ихъ дѣлатьлꙗ.
 
-HHS suggests:
+HHS съвѣтоуѥть:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- бѣгати нєнѫжьнъихъ ли слоучьнъихъ приложьствъ, пачє „бєзъ цѣнꙑ“;
+- нє давати приложьствомъ достѫпа къ мѣстоу, ащє нє трѣбоуѭтъ того по истинѣ, ꙗко пѫтьниꙗ приложьства.
 
-Also consider:
+Такожє помꙑсли:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Оупотрѣби таинъ кодъ** на оустрьствѣ и съхрани запісъ ѥго на бєзопасьнѣ мѣстѣ.
+- **Прѣзьри правьства** за образꙑ, образьницѫ, микрофонъ, съвѧзьникꙑ и мѣсто, и отъврати то, ѥгожє приложьство нє трѣбоуѥть.
+- **Виждь, чьто приложьство събираѥть,** прѣждє нєжє положиши ѥ. Нашє наставлѥниѥ о [избьрании приложьствъ и игръ](/caregiving/choosing-apps-and-games/) имать прѣзьръ таинꙑ.
+- **Бѫди въниматєлънъ съ родьствьнъими образꙑ.** Дѣли тъчьѭ тꙑ образꙑ, съ нимижє чловѣкъ бѫдєть добръ, и вѣждь, къдє приложьство хранить ꙗ. Въ [Photo Pairs](/games/photo-pairs/) образи, ѩжє избираѥши, прѣбꙑваѭтъ въ твоѥмь прѣзьрьници.
+- **Отъврати коуплєниꙗ въноутрь приложьства** ли отъими данъꙗ плати изъ записъ, ѩжє чловѣкъ оупотрѣблꙗѥть.

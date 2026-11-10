@@ -1,32 +1,32 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Käsitöö ja loovtegevused dementsusega täiskasvanutele"
+seoTitle: "Loovtegevused dementsuse korral: täiskasvanule sobiv"
+description: "Täiskasvanutele sobivad loovtegevused dementsusega inimestele: akvarell, kollaaž, lillede seadmine ja muu, koos nõuannetega ettevalmistuseks."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Head loovtegevused dementsusega täiskasvanutele näevad välja ja tunduvad
+  täiskasvanulikud: akvarell, ajakirjakollaaž, lillede seadmine, savi, lihtne
+  kaardi tegemine või täiskasvanutele mõeldud värvimislehed. Pange välja mõned
+  vahendid, aidake vajadusel esimest tõmmet teha, vestelge töötamise ajal ja
+  pidage koos veedetud aega kõige olulisemaks. Valmis töö on valikuline.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Valige materjalid ja teemad, mis näevad täiskasvanulikud välja, näiteks akvarellipaber, päris lilled ja ajakirjapildid, mitte sädelus, kleepsud ega multifilmilaadsed töölehed."
+  - "Keskenduge protsessile: värvidele, savi tunnetusele, vestlusele. Valmis töö on tore lisaväärtus, mitte eesmärk."
+  - "Andke tegevusele võimalusel tähendus, näiteks kaart lapselapsele või vaas lauale."
+  - "Aidake inimesel alustada ja astuge siis samm tagasi. Sageli piisab esimesest pintslitõmbest koos."
+  - "Tegevust ei pea ühe korraga lõpetama ja varem lõpetamine on alati sobiv."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Kuidas hoida loovtegevused täiskasvanulikuna?"
+    a: "Kasutage päris kunstitarvikuid, täiskasvanutele sobivaid teemasid ja lugupidavat tooni. Vahetage sädelus ja multifilmilehed akvarellipaberi, kanga, lillede, ajakirjafotode ja detailsete värvimislehtede vastu. Ärge kiitke tööd nii, nagu kiidaks lapse joonistust; rääkige sellest nagu räägiksite iga täiskasvanud sõbraga."
+  - q: "Millised loovtegevused sobivad hilisemas dementsuse staadiumis?"
+    a: "Hiljem sobivad kõige paremini lihtsad ja meeli kaasavad tegevused: laiade tõmmete maalimine suure pintsliga, pehme savi muljumine, mõne lille seadmine vaasi või kangatükkide sortimine tunnetuse järgi. Võib-olla peate liikumist koos alustama. Ka teie maalimise vaatamine ja värvidest rääkimine on üks viis osaleda."
+  - q: "Mida teha, kui inimene ütleb, et ei oska joonistada?"
+    a: "Võtke surve maha. Proovige tegevusi, millel pole õiget vastust, näiteks akvarellilaiku, kollaaži või lillede seadmist. Võite ka öelda, et vajate konkreetset abi, näiteks kaardi värvide valimisel, nii et tegevus tundub pigem abistamisena kui proovilepanekuna."
+  - q: "Kas värvimislehed on täiskasvanutele liiga lapsikud?"
+    a: "Mitte siis, kui need on mõeldud täiskasvanutele. Valige lehed täiskasvanulike teemadega, näiteks aiad, tekid, autod või maastikud, ja pakkuge neid lõõgastava tegevusena, mitte õppetunnina. Meie värvimislehti saab printida või värvida tahvelarvutis."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Kunsti ja käsitöö kaudu saavad dementsusega inimesed end väljendada ka siis, kui õigete sõnade leidmine on keeruline. Alzheimer's Association märgib, et loovtegevused võivad tuua [saavutustunde ja eesmärgitunde](https://www.alz.org/help-support/caregiving/daily-care/art-music) ning võimaluse end väljendada, nii hooldajale kui ka dementsusega inimesele. Oluline on hoida tegevused täiskasvanulikud, lihtsad ja surveta. Sellel lehel leiate konkreetseid ideid, ettevalmistamise nõuandeid ja viise tegevusi kohandada, kui olukord muutub.
 
-## What makes an art activity adult and not childish?
+## Mis teeb loovtegevuse täiskasvanulikuks, mitte lapsikuks?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Täiskasvanulik loovtegevus kasutab päris materjale, täiskasvanutele sobivaid teemasid ja lugupidavat tooni. Alzheimer's Association soovitab hoida tegevused täiskasvanute tasemel ning vältida kõike, mis võib tunduda alandav või lapsik.
 
-| Feels childish | Feels adult |
+| Tundub lapsik | Tundub täiskasvanulik |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Sädelus, vahtkummist kleepsud, liigutatavad silmad | Akvarellipaber, kangas, kuivatatud lilled |
+| Multifilmilaadsed värvimislehed | Värvimislehed aedadest, tekkidest, autodest või maastikest |
+| „Tubli töö” iga joone peale | Tõeline vestlus: „See sinine sobib rohelise kõrval väga kenasti” |
+| Käsitöö, millel pole kasutust | Kaart sõbrale, lauakaunistus, kingitus |
+| Juhised, mis kõlavad nagu õppetund | Kutse: „Kas aitaksid mind sellega?” |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Mõelge inimese enda maitsele. Kui talle on meeldinud õmblemine, võib talle sobida kangaste katsumine. Endine insener võib eelistada suurtükilist mudelit või tarvikute sortimist. Endine õpetaja võib hea meelega kaarte teha.
 
-## Why focus on the process, not the product?
+## Miks keskenduda protsessile, mitte tulemusele?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Sest koos veedetud aeg on kõige olulisem. Alzheimer's Associationi juhend [koduste tegevuste kohta](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) soovitab keskenduda protsessile, mitte tulemusele. Maal, mis on „lihtsalt sinine”, on ikkagi maal. Kollaaž kolme pildiga on ikkagi kollaaž.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Ühing märgib ka, et elukutseline kunstnik võib oma töö muutuste pärast pettuda, samas kui harrastaja võib nautida uut võimalust end väljendada. Kui inimene on olnud vilunud kunstnik, proovige teistsugust tehnikat kui see, mida ta kõige paremini oskas, et tegevus tunduks mängulisem, mitte võrdlusena.
 
-## Arts and crafts ideas to try
+## Loovtegevuste ideid
 
-Each idea includes how to make it simpler if it becomes hard.
+Iga idee juures on ka lihtsam viis, kui tegevus muutub keeruliseks.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Akvarellilaigud.** Niisutage paks akvarellipaber ja laske inimesel suure pintsliga värvi peale tilgutada. Värvid valguvad ise laiali, seega ei saa midagi valesti teha. *Lihtsam:* pakkuge ainult kahte värvi või maalige veega tumedale paberile, mis märgu jätab.
+2. **Ajakirjakollaaž.** Lõigake eelnevalt ajakirjadest välja pilte aiandusest, toiduvalmistamisest, autodest, reisimisest või inimese varasematest hobidest. Laske tal pilte valida ja kaardile kleepida. *Lihtsam:* pakkuge nelja eelnevalt lõigatud pilti ja pulgaliimi ning kleepige koos.
+3. **Lillede seadmine.** Alzheimer's Foundation of America soovitab [lõikelilledest ja rohelistest lihtsaid hooajalisi seadeid teha](https://alzfdn.org/dementia-activity-gardening/). Kasutage rasket ja kindlat vaasi ning juba kärbitud varsi. *Lihtsam:* pange mõned varred ükshaaval väikesse tassi.
+4. **Kuivatatud lilledega kaardid.** Kuivatage kimbust pärit lilli nädal aega raamatu lehekülgede vahel ja kleepige need siis volditud kaardile. *Lihtsam:* teie panete liimi, inimene vajutab lille paika.
+5. **Täiskasvanute värvimislehed.** Valige selgete piirjoonte ja päris teemadega lehed. Meie prinditavaid [värvimislehti](/games/coloring/) saab värvida ka ekraanil, puudutades värvi ja seejärel pildi osa. *Lihtsam:* suuremad pinnad, vähem värve, paksud markerid.
+6. **Savi või pehme taigen.** Rullige, vajutage ja kujundage õhu käes kuivavat savi või pehmet voolimismassi. Lehe vajutamine savisse teeb lihtsa jäljendi. *Lihtsam:* ainult muljumine ja rullimine on samuti täisväärtuslik tegevus. Jälgige, et inimene savi suhu ei paneks.
+7. **Kaartide tegemine.** Alzheimer's Association soovitab esitada seda päris ülesandena: „Saadame sõbrale tervituskaardi. Kas aitaksid mind?” Hästi sobivad eelnevalt lõigatud kaardid ja mõned lillede või postmarkidega kleepsud.
+8. **Albumite tegemine.** Pange koos vanade fotode, postkaartide või piletitükkide koopiad albumilehtedele. Rääkige igast ühest töö käigus. [Mälestuste juhendist](/activities/reminiscence/) leiate õrnu viise minevikust rääkimiseks.
+9. **Kanga- ja tunnetustahvlid.** Kleepige sametise, velveti, kotiriide ja siidi tükke kõvale kaardile. Tahvli tegemine on tegevus ja selle katsumine hiljem on teine tegevus. Rohkem ideid leiate [meelte tegevuste juhendist](/activities/sensory/).
+10. **Lihtne puidu viimistlus.** Inimesele, kellele on meeldinud puutöö, võib sobida sileda puutüki lihvimine või linnumaja komplekti värvimine. Eemaldage teravad tööriistad ja olge kõrval.
+11. **Maalimine muusika saatel.** Pange mängima lemmikmuusika ja maalige kujundeid või värve, mis sobivad meeleoluga. See ühendab kaks tegevust, mis paljudele meeldivad. Vaadake ka [muusikaga seotud tegevusi](/activities/music/).
 
-## How do I set up an art session?
+## Kuidas loovtegevust ette valmistada?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Valmistage kõik ette.** Lõigake, kärpige ja pange kõik valmis enne, kui inimese kutsute. Ootamine, kuni te kääre otsite, võib hetke kaotada.
+2. **Hoidke valik väike.** Kaks või kolm värvi, üks pintsel, üks paberileht. Liiga palju valikuid võib segadusse ajada.
+3. **Kaitske lauda.** Kilekate või vana lina aitab, et segadus ei tekita muret.
+4. **Istuge kõrvuti.** Tehke oma tööd tema kõrval. Nii tundub tegevus ühine, mitte jälgimine.
+5. **Aidake alustada.** Alzheimer's Association märgib, et võib-olla peate pintslitõmmet koos inimesega alustama. Kui algus on tehtud, jätkavad paljud ise.
+6. **Vestelge töötamise ajal.** Rääkige värvidest ja tunnetustest või laske kunstil meenutusi esile tuua. Vältige küsitlusetaolisi küsimusi, nagu „Mis see on?”.
+7. **Jätke piisavalt aega.** Tegevust ei pea ühe korraga lõpetama.
 
-## How do I adapt art as dementia changes?
+## Kuidas loovtegevusi dementsuse muutudes kohandada?
 
-| Stage | What tends to work | What to adjust |
+| Staadium | Mis tavaliselt sobib | Mida kohandada |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Varajane | Kursused, detailsemad värvimislehed, albumid, kaartide tegemine, maalimine foto järgi | Pakkuge tegevuste valikut; hoidke tegevus seltskondlik |
+| Keskmine | Eellõigatud kollaaž, akvarellilaigud, lillede seadmine, suurte pindadega värvimine | Üks samm korraga; teie teete lõikamise ja kleepimise |
+| Hiline | Laiad pintslitõmbed, savi muljumine, kanga katsumine, teie maalimise vaatamine | Keskenduge meeltetajule; juhtige kätt õrnalt, kui see on teretulnud |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS soovitab, et hilisemates staadiumides on tegevused sageli lihtsamad ja keskenduvad meeltetajule. Kellegi teise maalimise vaatamine ja värvidest rääkimine on samuti tõeline osalemine. Rohkem ideid eri staadiumide kohta leiate lehelt [tegevused igas staadiumis](/activities/ideas/).
 
-## Safety with art supplies
+## Ohutus loovtegevuste juures
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Valige mittetoksilised värvid, markerid ja pulgaliimid.
+- Hoidke käärid, nuga ja kuumaliimipüstol käeulatusest eemal. Tehke kogu lõikamine ise ja ette.
+- Jälgige, et keegi ei paneks savi, värvi või väikseid esemeid suhu.
+- Kasutage vee ja lillede jaoks stabiilseid ja raskeid nõusid.
 
-## When should we stop?
+## Millal on aeg lõpetada?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Lõpetage siis, kui tähelepanu hajub või ilmneb rahutus. Alzheimer's Association soovitab tegevust lõpetada või vahetada, kui tähelepanu hajub või pettumus kasvab. Pange töö turvalisse kohta ja pakkuge midagi rahulikku. Selle juurde võib homme tagasi tulla või ka mitte. Mõlemad variandid sobivad.
 
-## Display the work, if the person wants
+## Eksponeerige tööd, kui inimene seda soovib
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Maali kinnitamine külmkapi külge või kollaaži raamimine võib olla vaikne viis lugupidust näidata. Küsige enne. Mõnele inimesele meeldib oma tööd seinal näha, teised eelistavad seda mitte teha.
 
-## Pair art with our games
+## Ühendage loovtegevused meie mängudega
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Päevadel, mil värvide ettevalmistamine tundub liiga suur töö, sobib [Värvimine](/games/coloring/) tahvelarvutis ja ilma segaduseta. [Pildipusle](/games/picture-puzzle/) hoiab kogu pildi abistava juhisena nähtaval, samal ajal kui tükke vahetate. [Vestluskaardid](/games/conversation-cards/) pakuvad avatud küsimusi, mis võivad viia pildilt looni. Kõigis neis pole taimerit ega punkte. Meie [prinditavate tegevuste](/activities/printable/) kogust leiate ka lehti, mida saab välja printida.

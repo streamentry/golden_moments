@@ -1,32 +1,34 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "მოგონებების გაზიარება: ყუთები, ისტორიები, ფოტოები"
+seoTitle: "მოგონებები დემენციისას: იდეები კითხვების გარეშე"
+description: "როგორ გაუზიაროთ მოგონებები დემენციით მცხოვრებ ადამიანს კითხვების გარეშე: ფოტოები, მოგონებების ყუთი და ცხოვრების ისტორია მშვიდი საუბრისთვის."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  მოგონებების გაზიარება ნიშნავს ერთად სიამოვნებით დაბრუნებას წარსულში ფოტოების,
+  ნივთების, მუსიკისა და ისტორიების საშუალებით. შეგიძლიათ მოამზადოთ მოგონებების
+  ყუთი, შექმნათ მარტივი ცხოვრების ისტორიის წიგნი ან გვერდიგვერდ დაათვალიეროთ
+  ფოტოები. არასდროს დაუმოწმოთ ადამიანის მეხსიერება: გამოტოვეთ კითხვები
+  „გიხსოვთ?“ და „ვინ არის ეს?“ და გამოიყენეთ ღია მიწვევები, როგორიცაა
+  „მომიყევით ამის შესახებ“. თბილი საუბარი უფრო მნიშვნელოვანია, ვიდრე ფაქტების
+  სიზუსტე.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "მოგონებების გაზიარება საუბარია და არა შემოწმება. სიზუსტე არაა მთავარი; მთავარია სიამოვნება."
+  - "შეცვალეთ „გიხსოვთ...?“ და „ვინ არის ეს?“ კომენტარებითა და მოწვევებით, მაგალითად: „მომიყევით ამ დღის შესახებ“."
+  - "ადამიანის ცხოვრებასთან დაკავშირებული ნივთების ყუთი ხელსა და საუბარს საყრდენს აძლევს."
+  - "ცხოვრების ისტორიის წიგნი ოჯახის წევრებს, სტუმრებსა და მზრუნველ პერსონალს ეხმარება გაიცნონ ადამიანი და არა მხოლოდ დიაგნოზი."
+  - "თუ მოგონება სევდას იწვევს, პირველ რიგში დაამშვიდეთ ადამიანი და ნაზად გადადით სხვა თემაზე."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "რა არის მოგონებების გაზიარება დემენციით მცხოვრები ადამიანებისთვის?"
+    a: "მოგონებების გაზიარება ნიშნავს წარსული გამოცდილებებისა და ისტორიების ერთად გახსენებას, ხშირად ფოტოების, ნივთების, მუსიკის ან ვიდეოების დახმარებით. ეს შეიძლება იყოს ერთპიროვნული ან ჯგუფური. მიზანი სასიამოვნო და მნიშვნელოვანი საუბარია და არა იმის შემოწმება, რას იმახსოვრებს ადამიანი."
+  - q: "რატომ არ უნდა ვკითხო „გიხსოვთ?“"
+    a: "კითხვები, რომლებიც მეხსიერებას ამოწმებს, ადამიანს შეიძლება მოუტანოს უხერხულობა ან შფოთვა, თუ პასუხი არ მოაგონდება. National Institute on Aging-ის ჩამონათვალში ისიცაა, რომ უმჯობესია თავიდან ავიცილოთ კითხვა, ახსოვს თუ არა ადამიანს რაღაც ან ვინმე. ამის ნაცვლად, ისაუბრეთ იმაზე, რასაც ხედავთ და მიეცით ადამიანს შესაძლებლობა, დაამატოს ის, რაც სურს."
+  - q: "რა ჩავდო მოგონებების ყუთში?"
+    a: "აირჩიეთ უსაფრთხო და მყარი ნივთები, რომლებიც ადამიანის ცხოვრებას უკავშირდება: სამუშაო ნივთები, ჰობისთვის საჭირო საგნები, საყვარელი შარფი, ღია ბარათები, რეცეპტები, სპორტული სუვენირები ან ფოტოების ასლები. არ ჩადოთ ბასრი საგნები, პატარა ნივთები, რომელთა გადაყლაპვაც შეიძლება, და შეუცვლელი ორიგინალები."
+  - q: "რა ვქნა, თუ ფაქტებში ცდება?"
+    a: "უბრალოდ გაატარეთ. თუ თქვენი დედა ამბობს, რომ ფოტოზე მისი დაა, სინამდვილეში კი მისი ბიძაშვილია, ეს არაფერია. შესწორება თბილ მომენტს შემოწმებად აქცევს. მიჰყევით იმ ისტორიას, რომელსაც ის ჰყვება და ერთად მიიღეთ სიამოვნება."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +43,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+მოგონებების გაზიარება უბრალოდ იმას ნიშნავს, რომ ერთად ვიხსენებთ წარსულს და სიამოვნებას ვიღებთ. ბევრ დემენციით მცხოვრებ ადამიანს ათწლეულების წინანდელი მოგონებები უფრო ნათლად აქვს, ვიდრე ის, რაც დღეს დილით მოხდა. ფოტოებს, ნაცნობ ნივთებს, მუსიკასა და ისტორიებს შეუძლია ეს მოგონებები გააღვიძოს და მოგცეთ საერთო თბილი მომენტები. ერთი მთავარი წესი არსებობს: ეს საუბარია და არასდროს შემოწმება.
 
-## What is reminiscence, and how is it different from quizzing?
+## რა არის მოგონებების გაზიარება და რით განსხვავდება оно შეკითხვებით შემოწმებისგან?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+მოგონებების გაზიარება ნიშნავს წარსულზე საუბარს ფოტოების, ნივთების, მუსიკის ან ვიდეოების დახმარებით, ადამიანის საკუთარი ტემპით. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ამას აღწერს როგორც წარსული გამოცდილებებისა და ისტორიების გაზიარებას ფოტოების, ნივთების, ვიდეოების ან მუსიკის დახმარებით, წიგნში ან ტაბლეტზე. შეკითხვებით შემოწმება განსხვავებულია: ის ადამიანს სწორი პასუხის მოძიებას აიძულებს და სიამოვნების ნაცვლად უხერხულობა შეიძლება გამოიწვიოს.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) იმ საკითხებს შორის, რომელთაგანაც უმჯობესია თავი ავარიდოთ, ასახელებს იმასაც, ვკითხოთ თუ არა ადამიანს, ახსოვს რაღაც ან ვინმე. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) გვირჩევს, ავირიდოთ კითხვები, რომლებიც მოკლევადიან მეხსიერებაზეა დამოკიდებული და ამის ნაცვლად უფრო შორეულ წარსულზე ვისაუბროთ.
 
-| Instead of | Try |
+| ამის ნაცვლად | სცადეთ ეს |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| „გიხსოვთ ეს?“ | „ეს ბედნიერ დღედ გამოიყურება. მომიყევით ამის შესახებ.“ |
+| „ვინ არის ეს?“ | „აქ დეიდა როზაა სანაპიროზე. შეხედეთ ამ ქუდს.“ |
+| „რომელ წელს იყო ეს?“ | „ეს ძველ სახლს ჰგავს. როგორ იყო იქ ცხოვრება?“ |
+| „არა, ეს ბილი არ არის, ეს ფრენკია.“ | „როგორც ჩანს, ძალიან სახალისო ადამიანი ყოფილა.“ |
+| „ეს უკვე მითხარით.“ | „მე ძალიან მიყვარს ეს ისტორია.“ |
 
-## How do you talk about photos without quizzing?
+## როგორ ვისაუბროთ ფოტოებზე შემოწმების გარეშე?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+დაიწყეთ იმით, რასაც ხედავთ, შემდეგ კი დაუტოვეთ ადამიანს ადგილი, რომ სურვილის შემთხვევაში რაღაც დაამატოს.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **დაჯექით გვერდიგვერდ.** ალბომი შუაში დაიჭირეთ, რომ ერთად უყურებდეთ და არა მაგიდის ირგვლივ ამოწმებდეთ.
+2. **აირჩიეთ რამდენიმე ფოტო.** ხუთი კარგი ფოტო უკეთესია, ვიდრე მთელი ყუთი. დიდი და მკაფიო ფოტოები უკეთ მუშაობს.
+3. **ადამიანები თქვენ დაასახელეთ.** „აქ თქვენ და მამა ხართ ქორწილის დღეს“ ზეწოლას ამცირებს.
+4. **ისაუბრეთ დეტალებზე.** ტანსაცმელი, მანქანები, საჭმელი, ამინდი, სახეები. „რა მანქანაა. როგორ ბზინავს.“
+5. **მოიწვიეთ და ნუ აიძულებთ.** „მომიყევით...“ ან „რას ამჩნევთ?“ სიჩუმეც მისაღებია.
+6. **მიჰყევით მათ ტემპს.** თუ ისინი სულ სხვა რამეზე იწყებენ საუბარს, მიჰყევით მათ.
+7. **შეაჩერეთ მანამ, სანამ სასიამოვნოა.** ალბომი დახურეთ მანამ, სანამ დაიღლებიან.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+საუბრისთვის მზა სურათიანი მინიშნებებისთვის სცადეთ [სასაუბრო ბარათები](/games/conversation-cards/). თუ გსურთ თქვენი ოჯახის ფოტოები ნაზ თამაშად აქციოთ, სცადეთ [ფოტო წყვილები](/games/photo-pairs/); თქვენ მიერ არჩეული ფოტოები რჩება თქვენს ბრაუზერში.
 
-## How do you make a memory box?
+## როგორ მოვამზადოთ მოგონებების ყუთი?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+მოგონებების ყუთი არის კონტეინერი იმ ნივთებით, რომლებიც ადამიანის ცხოვრებას უკავშირდება, რათა მათი ხელში აღება და მათზე საუბარი შეიძლება.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **აირჩიეთ მყარი ყუთი**, რომლის გახსნაც ადვილია, მაგალითად ფეხსაცმლის ყუთი, ქუდის ყუთი ან პატარა ხის სკივრი.
+2. **აირჩიეთ ერთი თემა ან შეურიეთ რამდენიმე.** სამსახური, ჰობი, ადგილი, ათწლეული ან ცოტაოდენი ყველაფრისგან.
+3. **შეაგროვეთ უსაფრთხო ნივთები.** დასაწყისისთვის ხუთიდან ათამდე ნივთი საკმარისია.
+4. **ძვირფასი ნივთების ნაცვლად ასლები გამოიყენეთ.** შეუცვლელი ფოტოებისა და დოკუმენტების ასლები გააკეთეთ, ორიგინალები კი უსაფრთხოდ შეინახეთ.
+5. **ნივთები სათითაოდ ამოიღეთ.** ერთი მიაწოდეთ, რამე თქვით მასზე და ნახეთ, საით წაიყვანს საუბარი.
 
-Ideas to include:
+ჩასადები იდეები:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **სამუშაო:** სახელის სამკერდე ნიშანი, პატარა ხელსაწყო, ფორმის ნაჭერი, ჟურნალი, მედდის ნიშანი, სასადილოს მზარეულის წიგნი.
+- **სახლი:** რეცეპტი მათი ხელწერით, სამზარეულოს პირსახოცი, საყვარელი შარფი ან ჰალსტუხი.
+- **ჰობი:** სატყუარა კაუჭის გარეშე, ბეისბოლის ბურთი, ძაფის გორგალი, თესლის პაკეტი.
+- **ადგილები:** ღია ბარათები, რუკები, ტურისტული სუვენირი, მშობლიური ქალაქის გაზეთის ამონაჭერი.
+- **ოჯახი:** ფოტოების ასლები, ბავშვის ნახატი, ქორწილის მოსაწვევი.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+არ ჩადოთ ბასრი საგნები, პატარა ნივთები, რომელთა გადაყლაპვაც შეიძლება, და არაფერი ისეთი, რასაც może მტკივნეული მოგონებები გამოიწვიოს, თუ დარწმუნებული არ ხართ, რომ ეს მისაღებია.
 
-## How do you make a life-story book?
+## როგორ შევადგინოთ ცხოვრების ისტორიის წიგნი?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+ცხოვრების ისტორიის წიგნი არის მარტივი ალბომი ფოტოებითა და მოკლე წარწერებით ადამიანის ცხოვრების შესახებ. ეს არის ის, რასაც ერთად შეგიძლიათ დაათვალიეროთ, და ის ეხმარება სტუმრებსა და მზრუნველ პერსონალს დაინახონ მთელი ადამიანი.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **აირჩიეთ ფორმატი.** შემავსებლიანი ბაინდერი, დაბეჭდილი ფოტოალბომი ან სლაიდშოუ ტაბლეტზე.
+2. **დაგეგმეთ რამდენიმე განყოფილება.** ბავშვობა, სკოლა, სამსახური, ოჯახი, საცხოვრებელი ადგილები, რწმენა, ჰობი, საყვარელი საჭმელი და მუსიკა.
+3. **თითო გვერდზე ერთი ან ორი ფოტო დაამატეთ** მოკლე, დიდი შრიფტით დაწერილი წარწერით: „მერი, 22 წლის, მუშაობას იწყებს ბანკში.“
+4. **ჩაწერეთ ის, რაც უყვარს და ჩვეულია.** „ყავას რძით სვამს. უყვარს საკვირაო საგალობლები. არ უყვარს ხმამაღალი ტელევიზორი.“ ეს ყველას ეხმარება, ვინც მასზე ზრუნავს.
+5. **ჩართეთ ადამიანი** იმდენად, რამდენადაც სურს: ფოტოების არჩევაში, ისტორიების მოყოლაში ან უბრალოდ პროცესის ნახვაში.
+6. **განაგრძეთ დამატება.** წიგნი არ უნდა იყოს დასრულებული, რომ სასარგებლო იყოს.
 
-## More reminiscence ideas
+## მოგონებების გაზიარების სხვა იდეები
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **ჩართეთ მათი ახალგაზრდობის დროინდელი მუსიკა** და ისაუბრეთ იმაზე, სად მიჰყავს ეს მოგონებები. იხილეთ [მუსიკალური აქტივობები](/activities/music/).
+- **უყურეთ ოჯახურ ვიდეოებს ან სატელევიზიო გადაცემებს** მათი საყვარელი ათწლეულებიდან.
+- **მოამზადეთ ბავშვობის დროინდელი კერძი** და მიეცით არომატს საუბრის წაყვანის საშუალება.
+- **დაათვალიერეთ მათი მშობლიური ქალაქის რუკა** და მიჰყევით ნაცნობ ქუჩებს.
+- **დაათვალიერეთ ძველი კატალოგები ან ჟურნალები** და ისაუბრეთ ფასებზე, მოდასა და მანქანებზე.
+- **ჩაიწერეთ მათი ისტორიები** ტელეფონით, მათი თანხმობით, ოჯახისთვის.
+- **გააზიარეთ ზარების დროს.** ვიდეოზარის დროს ერთი ფოტო აჩვენეთ; იხილეთ [სატელეფონო და ვიდეოზარები](/activities/phone-and-video-calls/).
+- **სტუმრობისას წაიღეთ ფოტო ან ნივთი.** ეს სტუმრობას მარტივ თემას აძლევს; იხილეთ [სტუმრობა](/activities/visiting/).
 
-## What if a memory is painful?
+## რა ვქნა, თუ მოგონება მტკივნეულია?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+ზოგიერთ მოგონებას შეიძლება მოჰყვეს მწუხარება, სინანული ან შიში. თუ ადამიანი დამწუხრდება, გაჩერდით, დაამშვიდეთ და ნაზად გადადით სხვა თემაზე ან სხვა საქმიანობაზე. არ ედავოთ იმაზე, რა მოხდა სინამდვილეში. Family Caregiver Alliance გვირჩევს, არ ვეცადოთ ადამიანს დავანახებინოთ, რომ ცდება და ამის ნაცვლად ვუპასუხოთ იმ გრძნობებს, რომელსაც გამოხატავს, რადგან ეს გრძნობები ნამდვილია. თუ ისინი გარდაცვლილზე ისე საუბრობენ, თითქოს ცოცხალი იყოს, უპასუხეთ გრძნობას: „გენატრებათ. მომიყევით მის შესახებ.“
 
-## What does the research say?
+## რას ამბობს კვლევა?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Cochrane-ის მიმოხილვამ მოგონებების გაზიარების შესახებ](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), რომელიც 22 კვლევას და 1,972 ადამიანს მოიცავდა, აჩვენა, რომ შედეგები არათანმიმდევრული, მცირე და გარემოსა და ფორმატზე დამოკიდებული იყო. დემენციით მცხოვრები ადამიანებისთვის ზიანის მტკიცებულება არ აღმოჩნდა. ჩვენ მოგონებების გაზიარებას გირჩევთ იმიტომ, რომ მას შეუძლია თბილი და მნიშვნელოვანი დრო შეგიქმნათ ერთად და არა როგორც მკურნალობას. მარტივ საუბარზე მეტის გასაგებად იხილეთ [კომუნიკაციის რჩევები](/caregiving/communication-tips/).

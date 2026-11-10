@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Oroitzapenak: kutxak, istorioak, argazkiak"
+seoTitle: "Oroitzapenak dementziarekin: ideiak"
+description: "Nola partekatu oroitzapenak dementzia duen pertsona batekin galdetu gabe: argazkiak, oroimen-kutxak eta bizitza-istorioak, giro lasaia mantentzeko."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Oroitzapenak partekatzea iraganaz elkarrekin gozatea da: argazki, objektu,
+  musika eta istorioen bidez. Egin oroimen-kutxa bat, osatu bizitza-istorio
+  liburu sinple bat edo begiratu argazkiak elkarrekin. Ez galdetu inoiz: saihestu
+  "Gogoratzen al duzu?" eta "Nor da hau?", eta erabili gonbidapen irekiak, hala
+  nola "Kontaidazu honi buruz". Elkarrizketa atsegina izatea garrantzitsuagoa da
+  xehetasun guztiak zuzen asmatzea baino.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Oroitzapenak partekatzea elkarrizketa bat da, ez azterketa bat. Ez du axola dena zehatz-mehatz gogoratzea; elkarrekin pasatzea bai."
+  - "Ordeztu «Gogoratzen al duzu...?» eta «Nor da hau?» esaldiekin, hala nola «Kontaidazu egun honi buruz»."
+  - "Pertsonaren bizitzako objektuekin egindako oroimen-kutxa batek eskuei eta elkarrizketari eusteko zerbait ematen die."
+  - "Bizitza-istorio liburu batek familiari, bisitariei eta zaintzaileei pertsona ezagutzen lagun diezaieke, ez bakarrik diagnostikoa."
+  - "Oroitzapen batek tristura ekartzen badu, eman lasaitasuna lehenik eta joan poliki beste gai batera."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Zer da oroitzapenak partekatzea dementzia duten pertsonentzat?"
+    a: "Oroitzapenak partekatzea iraganeko oroitzapenak eta bizipenak elkarrekin gogoratzea da, askotan argazki, objektu, musika edo bideoen laguntzaz. Bakarka edo taldean egin daiteke. Helburua elkarrizketa atsegin eta esanguratsu bat izatea da, ez pertsonak zer gogoratzen duen frogatzea."
+  - q: "Zergatik ez dut esan behar «Gogoratzen al duzu?»?"
+    a: "Oroimena probatzen duten galderek pertsona lotsatuta edo urduri senti dezakete erantzuna ez datorrenean. National Institute on Aging erakundeak gomendatzen du ez galdetzea ea zerbait edo norbait gogoratzen duen. Egin iruzkin bat ikusten duzunari buruz, eta utzi pertsonari nahi duena gehitzen."
+  - q: "Zer jarri oroimen-kutxa batean?"
+    a: "Aukeratu pertsonaren bizitzarekin lotutako objektu seguru eta sendoak: laneko gauzak, zaletasunen tresnak, zapi gogoko bat, postalak, errezeta-txartelak, kiroleko oroigarriak edo argazkien kopiak. Saihestu objektu zorrotzak, irents daitezkeen gauza txikiak eta ordezkaezinak diren jatorrizkoak."
+  - q: "Zer gertatzen da xehetasunak nahasten baditu?"
+    a: "Utzi horrela. Zure amak argazkian bere arreba agertzen dela esaten badu, baina lehengusina bada, ez du axola. Zuzentzeak une atsegin bat azterketa bihur dezake. Jarraitu kontatzen ari den istorioa eta gozatu elkarrekin."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Oroitzapenak partekatzea iraganaz elkarrekin gozatea besterik ez da. Dementzia duen pertsona askorentzat, duela hamarkadetako oroitzapenak argiago egon daitezke gaur goizean gertatutakoa baino. Argazkiek, objektu ezagunek, musikak eta istorioek oroitzapen horiek ireki ditzakete, eta elkarrekin partekatzeko une atsegin bat eman. Araua bakarra da hau: elkarrizketa bat da, ez azterketa bat.
 
-## What is reminiscence, and how is it different from quizzing?
+## Zer da oroitzapenak partekatzea, eta zertan bereizten da galdetzeatik?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Oroitzapenak partekatzea iraganeko oroitzapenak gogoratzea da, argazki, objektu, musika edo bideoen bidez, pertsonak bere erritmoan. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) erakundeak dio iraganeko bizipenak eta istorioak partekatzea dela, argazki, objektu, bideo edo musikaren laguntzaz, liburu batean edo tablet batean. Galdetzeak, berriz, beste helburu bat du: pertsonari erantzun zuzen bat emateko eskatzen dio, eta horrek atsegina izan beharrean lotsa eragin dezake.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) erakundeak gomendatzen du ez galdetzea ea pertsonak zerbait edo norbait gogoratzen duen. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) erakundeak iradokitzen du saihestea epe laburreko oroimenean oinarritzen diren galderak, eta iragan urrunagoaz hitz egitea.
 
-| Instead of | Try |
+| Honen ordez | Saiatu honekin |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «Gogoratzen al duzu hau?» | «Egun zoragarria dirudi hau. Kontaidazu honi buruz.» |
+| «Nor da hau?» | «Hemen dago izeba Rose hondartzan. Begira zer kapela.» |
+| «Zein urtetan izan zen hau?» | «Etxe zaharra dirudi hau. Nolakoa zen han bizitzea?» |
+| «Ez, ez da Bill, Frank da.» | «Oso dibertigarria dirudi.» |
+| «Hori esan didazu jada.» | «Asko gustatzen zait istorio hori.» |
 
-## How do you talk about photos without quizzing?
+Irudi bidezko gonbidapenak prest nahi badituzu, probatu [elkarrizketa-txartelak](/games/conversation-cards/). Zure familiako argazkiekin parekatzeko jarduera lasai bat egin nahi baduzu, probatu [argazki-bikoteak](/games/photo-pairs/); aukeratzen dituzun argazkiak zure nabigatzailean geratzen dira.
 
-Lead with what you see, then leave room for the person to add something if they wish.
+## Nola hitz egin argazkiei buruz galdetu gabe?
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+Hasi ikusten duzuna esanez, eta utzi tartea pertsonak zerbait gehitzeko, nahi badu.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+1. **Eseri elkarrekin, alboz albo.** Jarri albuma bien artean, elkarrekin begiratzeko, ez mahai baten aurretik galdetzeko.
+2. **Aukeratu argazki gutxi batzuk.** Bost argazki on hobeak dira kutxa oso bat baino. Inprimaketa handiak eta argiak hobeto ikusten dira.
+3. **Izendatu pertsonak zuk.** «Hemen zaude zu eta aita zuen ezkontza-egunean» esateak presioa kentzen du.
+4. **Egin xehetasunei buruzko iruzkinak.** Arropa, autoak, janaria, eguraldia, aurpegiak. «A zer autoa. Oso distiratsua dirudi.»
+5. **Gonbidatu, ez eskatu.** «Kontaidazu...» edo «Zer ikusten duzu?» isiltasuna ere ondo dago.
+6. **Jarraitu haren erritmoa.** Beste zerbaitez hitz egiten hasten bada, jarraitu hari.
+7. **Gelditu unea atsegina den bitartean.** Itxi albuma nekea agertu aurretik.
 
-## How do you make a memory box?
+## Nola egin oroimen-kutxa bat?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Oroimen-kutxa pertsonaren bizitzako objektuekin betetako ontzi bat da, eskuekin hartzeko eta haiei buruz hitz egiteko.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Aukeratu kutxa sendo bat**, erraz irekitzen dena, hala nola zapata-kutxa bat, kapela-kutxa bat edo egurrezko kutxa txiki bat.
+2. **Aukeratu gai bat edo nahastu.** Lana, zaletasun bat, leku bat, hamarkada bat edo guztitik pixka bat.
+3. **Bildu objektu seguruak.** Hasteko, bost edo hamar objektu nahikoa dira.
+4. **Erabili gauza preziatuen kopiak.** Egin ordezkaezinak diren argazki eta dokumentuen kopiak, eta gorde jatorrizkoak seguru.
+5. **Atera objektuak banan-banan.** Eman bat, esan zerbait hari buruz, eta ikusi nora eramaten zaituen elkarrizketak.
 
-Ideas to include:
+Jartzeko ideiak:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Lana:** identifikazio-txartel bat, tresna txiki bat, uniformeko txapa bat, koaderno bat, erizaintzako pin bat, jatetxe bateko errezeta-liburu bat.
+- **Etxea:** bere eskuz idatzitako errezeta-txartel bat, sukaldeko zapi bat, zapi edo gorbata gogoko bat.
+- **Zaletasunak:** amurik gabeko beita bat, pilota bat, artile-bola bat, hazi-pakete bat.
+- **Lekuak:** postalak, mapak, bidaia-oroigarri bat, jaioterriko egunkari-ebakin bat.
+- **Familia:** argazkien kopiak, ume baten marrazkia, ezkontza-gonbidapen bat.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Ez jarri objektu zorrotzik, irents daitezkeen gauza txikirik, ezta oroitzapen mingarriak ekar ditzaketen gauzarik ere, ongi etorria dela jakin ezean.
 
-## How do you make a life-story book?
+## Nola egin bizitza-istorio liburu bat?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Bizitza-istorio liburua pertsonaren bizitzari buruzko argazki eta azalpen laburreko album sinple bat da. Elkarrekin begiratzeko zerbait da, eta bisitariei eta zaintzaileei pertsona osoa ezagutzen lagun diezaieke.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Aukeratu formatua.** Babes-orriak dituen karpeta bat, inprimatutako argazki-liburu bat edo tablet bateko aurkezpen bat.
+2. **Prestatu atal batzuk.** Haurtzaroa, eskola, lana, familia, bizi izandako lekuak, fedea, zaletasunak, janari eta musika gogokoak.
+3. **Jarri orrialde bakoitzean argazki bat edo bi**, letra handiko azalpen labur batekin: «Miren, 22 urte, bankuan lanean hasten».
+4. **Gehitu gustuak eta ohiturak.** «Kafea esnearekin hartzen du. Igandeko abestiak gustatzen zaizkio. Ez du gustuko telebista ozen». Horrek hura zaintzen duen edonori lagun diezaioke.
+5. **Sartu pertsona**, berak nahi adina: argazkiak aukeratuz, istorioak kontatuz edo nola osatzen den ikusiz.
+6. **Jarraitu gehitzen.** Ez du amaituta egon behar baliagarria izateko.
 
-## More reminiscence ideas
+## Oroitzapenak partekatzeko ideia gehiago
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Jarri haren gaztaroko musika** eta hitz egin musikak nora eramaten duen. Ikusi [musika-jarduerak](/activities/music/).
+- **Ikusi etxeko bideoak edo telesaioak** haren hamarkada gogokoenetakoak.
+- **Prestatu haurtzaroko jaki bat** eta utzi usainek elkarrizketa gidatzen.
+- **Begiratu mapa bat** haren jaioterrikoa eta jarraitu ezagutzen dituen kaleak.
+- **Hartu katalogo edo aldizkari zaharrak** eta hitz egin prezioei, modei eta autoei buruz.
+- **Grabatu haren istorioak** telefonoan, beraren baimenarekin, familiarentzat.
+- **Partekatu deietan.** Erakutsi argazki bat bideo-dei batean; ikusi [telefono- eta bideo-deiak](/activities/phone-and-video-calls/).
+- **Eraman argazki edo objektu bat bisitan.** Bisitari ardatz erraz bat ematen dio; ikusi [bisitak](/activities/visiting/).
 
-## What if a memory is painful?
+## Zer egin oroitzapen bat mingarria bada?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Oroitzapen batzuek pena, damua edo beldurra ekar dezakete. Pertsona asaldatzen bada, gelditu, lasaitu eta aldatu poliki gaia edo jarduera. Ez eztabaidatu zer gertatu zen. Family Caregiver Alliance erakundeak gomendatzen du ez saiatzea pertsona konbentzitzen oker dagoela, eta erakusten dituen sentimenduei erantzutea, benetakoak baitira. Hildako norbait bizirik balego bezala aipatzen badu, erantzun sentimenduari: «Falta zaizu. Kontaidazu hari buruz».
 
-## What does the research say?
+## Zer dio ikerketak?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Oroitzapenei buruzko Cochrane berrikuspen](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia) batek, 22 saiakera eta 1.972 pertsona aztertu zituena, aurkitu zuen ondorioak ez zirela koherenteak, txikiak zirela eta aldatu egiten zirela testuinguruaren eta formatuaren arabera. Ez zuen aurkitu dementzia duten pertsonentzat kalterik dagoenik. Oroitzapenak partekatzea gomendatzen dugu elkarrekin une atsegin eta esanguratsuak pasa daitezkeelako, ez tratamendu gisa. Elkarrizketa errazari buruz gehiago jakiteko, ikusi [komunikazio-aholkuak](/caregiving/communication-tips/).

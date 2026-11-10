@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Деменци вӑйӑсемпе приложенисене мӗнле суйламалла"
+seoTitle: "Деменци приложенисене суйлас чек-лист"
+description: "Деменци приложенисене суйлас чек-лист: тӗллевне палӑртӑр, таймерсене тата рекламӑна ан кӗртӗр, харпӑрлӑхӑна тӗрӗслӗр, каласнине тимлӗн вулӑр."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Малтан приложени мӗн тунӑшӑн кирлӗ тесе шухӑшласа илӗр: лӑпкӑ стимул,
+  аса илӳ, лӑплану е пӗрле пулни. Каярах эсир пӑхса тӑракан ҫынӑн паянхи
+  пултарулӑхне кура суйласа илӗр: пысӑк сӑнсем, таймерсӑр, очкосӑр,
+  рекламӑсӑр тата чарӑнма ҫӑмӑл май пуррине тӗрӗслӗр. Приложени мӗнле
+  даннӑйсем пуҫтарать, вӗсене мӗнле кӑларса пӑрахма пулать тесе пӑхӑр.
+  Приложени деменцирен сыхлаять е тӳрлетет тенипе асӑрхануллӑ пулӑр:
+  пӗр тӗпчев ҫеҫ ҫакна ҫирӗплетмест.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Малтан тӗллевне палӑртӑр: стимул, аса илӳ, лӑплану е пӗрле пулни валли тӗрлӗ приложени кирлӗ пулма пултарать."
+  - "Ятпа мар, ҫынӑн кунти пултарулӑхне кура суйласа илӗр, управленине ансат тытӑр."
+  - "Таймерлӑ, очколлӑ, пурнӑҫлӑ, стриклӑ, рекламӑллӑ е туяну сӗнекен приложенисене ан суйлӑр."
+  - "Даннӑйсене пуҫтарнине, пайланине тата кӑларса пӑрахнине тӗрӗслӗр. HIPAA тытӑм енчен халӑх приложенисене витмест."
+  - "«Деменцирен сыхлаять» тенипе шухӑшлӑ пулӑр. Пӗр эксперименчӗ е приложенири лайӑхрах результатсем ҫирӗплетӳ мар."
+  - "Golden Moments — ҫав ҫеҫ кӑмӑл ачисем валли ӗҫ. Вӑл клиника тӗлӗшӗн ним каламасть."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Миме вӑйӑсем деменцирен сыхлама пултараҫҫӗ-и?"
+    a: "Коммерци миме вӑйӑ приложенисем деменцирен сыхлаҫҫӗ е вӑл вӑрттӑн пырассине чарса лартаҫҫӗ тесе ҫирӗплетекен лайӑх ҫирӗплетӳсем ҫук. National Institute on Aging каланӑ тӑрӑх, суту вырӑнӗнче пур коммерци миме вӑйӑ приложенисем пысӑк тӗпчевре тӗрӗсленӗ структурӑллӑ вӗренӳ пекех эффект параҫҫӗ тесе ҫирӗплетме даннӑйсем ҫителӗксӗр. Приложенисене кӑмӑл ачисемпе пӗрле пулни валли суйласа илӗр, эмелпе мар."
+  - q: "Деменци приложенийӗсем HIPAA витӗмӗпе усӑ кураҫҫӗ-и?"
+    a: "Тытӑм енчен ҫук. HIPAA тытӑм енчен сывлӑх сыхлав пултарулӑхӗсем, сывлӑх страховка планӗсем тата вӗсен бизнес партнерӗсем ҫине вырнаҫать. Эсир хӑвӑр тиесе илнӗ приложени вӗсенчен пӗри панӑ пулмасан, тытӑм енчен ун витӗмӗпе усӑ курмасть. HIPAA витмен сывлӑх приложенисен нумайӑшне FTC-ӑн Health Breach Notification Rule витет."
+  - q: "Лайӑх деменци вӑйи мӗнле пулмалла?"
+    a: "Пысӑк та уҫӑ сӑнсемпе текст, кашни экранта пӗр ҫеҫ уҫӑ ӗҫ, таймерсӑр, очкосӑр, йӑнӑш валли сасӑсӑр, рекламӑсӑр тата чарӑнма е вӑхӑтлӑх лартма ҫӑмӑл май пур. Вӑл аслӑ ҫынсем валли хатӗрленнӗ пек курӑнмалла тата тепӗр ҫын та ҫӑмӑллан хутшӑнма пултаралла."
+  - q: "Golden Moments ас тивӗҫне пулӑшать тет-и?"
+    a: "Ҫук. Golden Moments кӑмӑл ачисемпе калаҫу валли ансат пӗрле ӗҫсем сӗнет. Вӑл деменцине палӑртмасть, тӳрлетмест, унтан сыхламасть, виҫмест те, ас е шухӑшлав тӗлӗшӗн ним каламасть."
+  - q: "Деменци приложенийӗ валли тӳлемелле-и?"
+    a: "Малтан тӳлевсӗр вариантсене е тӳлевсӗр тапхӑрсене тӗрӗслӗр, пӗр-ик эрне хушшинчи эсир пӑхса тӑракан ҫын мӗнле реакци илтернине пӑхӑр. Приложени валли тӳлени вӑна лайӑхрах тумасть. Ҫырӑнни умӗн мӗнле пӑрахӑҫлама пулнине тӗрӗслӗр."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Приложени лавккисенче ватӑ ҫынсем, ас е деменци валли тесе палӑртнӑ вӑйӑсем нумай. Хӑш-пӗрисем шухӑшласа хатӗрленнӗ. Ыттисем медицина пек янӑракан каласусем, выльахне тӗрӗслеве куҫаракан таймерсем е реклама тата даннӑйсем пуҫтарни хушаҫҫӗ. Ку страницӑра эсир кашни приложенине хӑвӑр мӗнле хаклама пулнине ҫырнӑ. Эпир ытти продуктовене йӗркелеме те, хаклама та пирки мар.
 
-## What should I decide before choosing a dementia app?
+## Деменци приложенийӗпе суйлас умӗн мӗн палӑртмалла?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Приложени мӗн тунӑшӑн кирлӗ тесе малтан шухӑшласа илӗр. «Анне валли вӑйӑ» тени тӗрлӗ ҫӑлкуҫа пӗлтерме пултарать, тата пӗр тӗллев валли лайӑх варианчӗ тепӗршӗн юрӑхсӑр пулма пултарать.
 
-| Goal | What it looks like | What to look for |
+| Тӗллев | Вӑл мӗнле курӑнать | Мӗнне пӑхмалла |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Лӑпкӑ стимул | Пӗрлештерни, уйӑрни, ансат меслетсем, сӑмах вӑйӑсем | Йывӑрлӑхне улӑштарма май, сӑнсем курӑнса тӑни, вӑхӑт йӗтӗнчӗкӗсӗр |
+| Аса илӳ | Авалхи сӑнсем, паллӑ сӑмахсем, ҫамрӑк чухне илтнӗ кӗвӗсем | Хӑвӑрӑн сӑнсем, уҫӑ ыйтусем, экзамен пек ыйтусӑр |
+| Лӑплану | Хуллен курӑнакан ӳкерчӗксем, шӑп сасӑсем, сывлани, ҫут ҫанталӑк | Пуҫлама та чарӑнма ҫӑмӑл, ҫутӑ кӑйкӑракан япаласӑр, кӗтменлӗхсӗр |
+| Пӗрле пулни | Пӗрле выляни е калаҫни, пӗрле е видео урлӑ | Иккӗшӗн валли хатӗрленнӗ, калаҫма сӗнекен ыйтусем пур |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Деменципе пурӑнакан ҫынсем валли структурӑллӑ «когнитивлӑ стимул» ҫинчен тӗпчевсем тытӑм енчен вӗрентнӗ хатӗрлевсӗр ертсе пыракан ушкӑнзанусем ҫине ҫырнӑ. Унта калаҫу, сӑмах вӑйӑсем, меслетсем, кӗвӗ тата пултарулӑх ӗҫӗсем пур. [Cochrane хаклавӗ](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) тӗпчевсене кура варах пӗчӗк усӑсем тупнӑ. Ҫакнашкал пӗрле, нумай енлӗ программӑпа пӗр ҫын валли приложени пӗр-пӗрне ҫавӑн пекех мар, ҫавна май кашни приложенине нумай пӗрле ӗҫсенчен пӗри пек курас пулать.
 
-## How do I know if an app fits the person's abilities?
+## Приложени ҫынӑн пултарулӑхне мӗнле юрӑхлать тесе мӗнле ӑнланмалла?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Диагноз е шай ячӗпе мар, ҫын мӗнле реакци илтернине сӑнаса пӑхӑр. «Пӗр шайра» тесе каланӑ икӗ ҫын куҫ курнинче, илтнинче, алӑ хуҫӑлнинче, чӗлхере тата экранпа ӗҫленӗ чухне хӑйсен шухӑшӗпе питӗ уйрӑлма пултараҫҫӗ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ҫынӑн унчченхи кӑсӑкланӑвӗсене тата хальхи пултарулӑхне шута илме, ӳсӗме мар, кӑмӑл пачӗ ҫине пӑхма сӗнет.
 
-Signs of a good fit:
+Лайӑх юрӑхлать тесе кӑтартакан паллӑсем:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- ҫын нумай сӗнмесӗрех пуҫлаять е хутшӑнать;
+- йӑл кулать, шухӑш калать е калав суйласа парать;
+- йӑнӑшсем вӑна пӑшӑрхантармаҫҫӗ;
+- вӑхӑт ҫитсен вӑл хаваслӑн чарӑнать.
 
-Signs it is a poor fit:
+Юрӑхсӑрри паллӑсем:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- час-часах «эп пултараймастӑп» е «ку ӑнсӑртран» тени;
+- мӗнле пусма ӑнланманни;
+- витӗм кӳлни, намӑсланни е хатӗре каялла хӑварни;
+- ӗҫ май килет тесе эсир пӗтӗмпех туса пама тивӗ.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Пӑшӑрхану — ҫакна пулаштарас паллӑ, ирттермелле ӗҫ мар. [Ҫын «ҫук» тесен мӗн тумалла](/caregiving/when-they-say-no/) страницине пӑхӑр. Приложенисӗр те шайӑн сӗннӗ ӗҫсем валли [малтанхи шай](/activities/early-stage/) тата [кайранхи шай](/activities/late-stage/) страницӑсене пӑхӑр.
 
-## What design features should I look for or avoid?
+## Мӗнле дизайн паллисене шырамалла, мӗнрен асӑрханмалла?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Лӑпкӑ, ансат, аслӑ ҫынсем валли хатӗрленнӗ дизайна шыратӑр, йӗтӗнчӗк хушакан япаласенчен тарса тӑрӑр.
 
-| Look for | Be wary of |
+| Шырамалла | Асӑрханмалла |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Пысӑк сӑнсемпе текст, уҫӑ контраст | Пӗчӗк ikonсем, йӗркесӗр экрансем |
+| Кашни экранта пӗр ҫеҫ уҫӑ ӗҫ | Нумай пускӑч, меню е нумай тапхӑрлӑ инструкци |
+| Таймерсӑр, е сӳнтерме май пур | Шутлав, хӑвӑртлӑх валли очко, «хӑвӑн вӑхӑтна ҫӗн» |
+| Очкосӑр, е лӑпкӑ хак пани | Очко, пурнӑҫ, стриксем, рейтингсем, «миме вӑхӑчӗ» |
+| Йӑнӑшсене шӑплӑхпа кӑтартни | Сасӑсем, хӗрлӗ «X» паллӑсем, «Тӗрӗс мар» сообщенийӗсем |
+| Аслӑ ҫынсем валли пурнӑҫ сӑнӗсем | Ача пек е мультик сӑнлӑ темӑсем |
+| Интернетсӗр ӗҫлет, пуҫлас умӗн аккаунт кирлӗ мар | Ҫырӑнмалла, кӗмелле е малтан контент тиемелле |
+| Ҫӑмӑл чарӑну тата вӗҫленӳ | Маларӑх выляма е приложенине хаклама ыйтакан сӗнӳсем |
+| Рекламӑсӑр, уҫӑ пӗрре тӳлев е ҫырӑну хакӗ | Реклама, ачалӑх тӳлевӗсем, час-часах туяну сӗнекенсем |
+| Тепӗр ҫын та ҫӑмӑл хутшӑнма пултарать | Пӗр ҫын валли ҫеҫ, ӑмӑртуллӑ дизайн |
 
-Ads and purchase prompts are easy to tap by accident.
+Рекламӑпа туяну сӗнӳсене тӳрех пусма ҫӑмӑл.
 
-## How do I check an app's privacy?
+## Приложени харпӑрлӑхне мӗнле тӗрӗслемелле?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Приложени мӗнле даннӑйсем пуҫтарать, кама парать тата мӗнле кӑларса пӑрахма пулать тесе пӑхӑр. Тиес умӗн:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Лавккари харпӑрлӑх кӗске пӗлтерӗвне вулӑр.** Google Play-ӑн [Data safety пайӗ](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) тата App Store-ӑн [харпӑрлӑх пӗлтерӗвӗ](https://support.apple.com/en-us/102399) приложени мӗнле даннӑйсем пуҫтарма тата пайлама пултарнине кӑтартма пултараҫҫӗ. Иккӗ компани те ку пӗлтерӗве хатӗрлекенсем хӑйсене панине аса илтереҫҫӗ, ҫавна май ку аудитор мар, пуҫламӑш ҫеҫ.
+2. **Аккаунт кирлӗ-и тесе ыйтӑр.** Приложени сӑнсем кӑтартать е ансат вӑйӑсем сӗнет пулсан, унпа санӑн ят, электронлӑ почта е ҫуралнӑ кун кирлӗ мар пулма пултарать.
+3. **Ирӗксене тӗрӗслӗр.** Пӗрлештермелли вӑйӑ валли чӑннипе вырӑн, контактсем, микрофон е пӗтӗм сӑн пуххи кирлӗ-и? Кирлӗ маррисене сӳнтерӗр.
+4. **Рекламапа аналитикӑна шыратӑр.** Реклама тата сӑнану хатӗрӗсем приложенипе мӗнле усӑ курни ҫинчен пӗлтерӗве ытти компанисене яма пултараҫҫӗ.
+5. **Сӑнсем ӑҫта пыраҫҫӗ тесе пӑхӑр.** Ҫемье сӑнӗсене хушсан, вӗсем хатӗрре ҫеҫ юлӗҫ-и е сервер ҫине ҫӳлӗҫ-и? Вӗсене кӑларса пӑрахма пулать-и?
+6. **Кӑларса пӑрахнине тӗрӗслӗр.** Харпӑрлӑх политикинче е даннӑй кӗске пӗлтерӗвӗнче даннӑйсене тата аккаунта мӗнле кӑларса пӑрахма пулнине шыратӑр. Даннӑйсене кӑларса пӑрахма май ҫук текен приложени, уйрӑмах сӑнсем е сывлӑх пӗлтерӗвӗсем пур пулсан, ытларах тимлӗх ыйтать.
+7. **Харпӑрлӑх политикине вулӑр:** мӗн пуҫтараҫҫӗ, мӗншӗн, мӗн чухлӗ вӑхӑт тата кампа пӑлӑшаҫҫӗ тесе уҫӑ хуравсем пуррине пӑхӑр.
 
-### Does HIPAA protect information in dementia apps?
+### Деменци приложенисенчи пӗлтерӗве HIPAA хӳтӗлет-и?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Тытӑм енчен ҫук, ку нумай ҫыншӑн тӗлӗнтерменлӗх. U.S. Department of Health and Human Services [ӑнлантарнӑ тӑрӑх](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), HIPAA сывлӑх страховка планӗсем, сывлӑх сыхлав пултарулӑхӗсен чылайӑшӗ, сывлӑх информаци ӗҫлекен учрежденисем тата вӗсен бизнес партнерӗсем ҫине вырнаҫать. Нумай чухне вӑл хӑвӑн усӑ курни валли приложени ҫине кӗртнӗ пӗлтерӗве хӳтӗлемест, приложенине ҫав витӗмпе усӑ куракан учреждени е вӑлӑн бизнес партнерӗ панӑ пулмасан. Приложени лавккинчен илнӗ «деменци приложенийӗ» сывлӑх ҫинчен калаҫнӑ пулин те, чылай чухне HIPAA витӗмӗнче мар.
 
-### What protects health data in apps that HIPAA does not cover?
+### HIPAA витмен приложенисенче сывлӑх даннӑйӗсене мӗн хӳтӗлет?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Вӗсенчен нумайӑшне Federal Trade Commission-ӑн Health Breach Notification Rule витет. 2024 ҫулта FTC [улшӑнусене вӗҫленӗ](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule): ку правиле HIPAA витмен сывлӑх приложенисемпе пӗрешкел технологисем ҫине те вырнаҫнине уҫӑлатнӑ. «Тӗкӗрлев» тесе ирӗксӗр уҫнине те калаҫҫӗ, хакерсем кӗнине ҫеҫ мар, тата компани витнӗ ҫынсене те, FTC-а та пӗлтермелле. Ку япӑх вилнӗ хыҫҫӑн хӳтӗлевенчи сетке, анчах приложени кирлӗ даннӑй ҫеҫ пуҫтарать тени ҫук.
 
-## How should I read claims about research and evidence?
+## Тӗпчевпе ҫирӗплетӳсем ҫинчен мӗнле вулӑр тесе мӗн каламалла?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Ҫирӗплетӳ каласӑвӗсене хуллен вулӑр, чи пысӑк каласусене чи нумай шухӑшласа пӑхӑр. Ҫак ыйтусемпе ыйтӑр:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Тӗп-тӗрри мӗн тӗпчӗҫ?** Пӗр вӗренӳ программине тӗпченӗ тесе, приложенири кашни вӑйӑ ҫавӑн пекех ӗҫлет тесе ҫирӗплетмест.
+- **Камсене тӗпчӗҫ?** Сывлӑхлӑ ватӑ ҫынсенче тунӑ тӗпчев результатӗсем деменципе пурӑнакан ҫын валли юрӑхлама пултарассӗ те, юрӑхламас та пултараҫҫӗ.
+- **Мӗн виҫрӗҫ?** Вӑйӑрах лайӑхрах выляма вӗреннипе кулленхи пурнӑҫра, калаҫура, кӑмӑлра е хӑй тивӗҫлӗхре улшӑнусем пӗр-пӗринпе танлашмаҫҫӗ.
+- **Тӗпчев мӗн чухлӗ вӑйлӑ?** Рандомизациленӗ контрольлӗ эксперименчӗ (RCT) приложенипе усӑ куракан ушкӑна унпа усӑ курман ушкӑнпа танлаштарать. Ку лайӑх мел, анчах пӗр пӗчӗк е кӗске эксперименчӗ ҫеҫ ҫирӗплетӳ мар. Хӑйсем тивӗҫлӗ тӗпчевҫӗсем тунӑ, пӗр-пӗринпе килӗшекен темиҫе тӗпчеве пӑхӑр.
+- **Вӑл чирӗ улшӑнать тет-и?** Тестра пӗчӗк лайӑхланусем кӑтартнӑ тӗпчев приложени деменцине вӑрттӑн пырассине чарса лартать, унтан сыхлаять е тӳрлетет тесе ҫирӗплетмест.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Aging-ӑн [ватӑ ҫынсен когнитивлӑ сывлӑхӗ](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ҫинчен страници NIH пулӑшнипе структурӑллӑ когнитивлӑ вӗренӳ тӗлӗшпе ирттернӗ пысӑк тӗпчеве ӑнлантарать. Ун хыҫҫӑн хӑш-пӗр компьютер тата онлайн вӑйӑсем аса тата шухӑшлавне лайӑхлатма пултараҫҫӗ тенипе асӑрхануллӑ пулма сӗнет. Ҫав страницӑра суту вырӑнӗнче пур коммерци миме вӗренӳ приложенисем ҫав тӗпчеври вӗренӳ пекех витӗм параҫҫӗ тесе ҫирӗплетме даннӑйсем халӗ ҫителӗксӗр тесе палӑртнӑ. Ытларах [миме вӑйӑсемпе ҫирӗплетӳсем](/brain-health/brain-games/) тата [тӗпчевсем деменцирен сыхланни ҫинчен мӗн калаҫҫӗ](/brain-health/can-dementia-be-prevented/) страницӑсенче вулама пулать.
 
-### What is a public example of a misleading claim?
+### Улталакан каласӑва мӗнле тӗслӗхпе кӑтартма пулать?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+2016 ҫулхи кӑрлач уйӑхӗнче FTC [Lumosity «миме вӗренӳ» программине хатӗрлекенсене пӑрахӑҫлани ҫинчен пӗлтернӗ](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program). FTC компани ҫителӗклӗ ҫирӗплетӳсӗрех вӑйӑсем витӗмлӗ вӑхӑтпа ҫыхӑннӑ когнитивлӑ чаканӑва чарса лартма тата лӑпкӑ когнитивлӑ йывӑрлӑхран, деменцирен, Альцгеймер чирӗнчен хӳтӗлеме пултараҫҫӗ тенине каланӑ. Компани 2 миллион доллар тӳлеме килӗшнӗ тата малашне ҫакнашкал каласусем тума ҫирӗплӗ, шанчӑклӑ ӑслалӑх ҫирӗплетӗвӗ пулмалла тесе йышӑннӑ. Ку тӗслӗх маркетинг сӑмахӗсем ҫирӗплетӳ маррине аса илтерет.
 
-### Which words are red flags?
+### Мӗнле сӑмахсем асӑрхаттармалла?
 
-Be cautious when an app or ad says it:
+Приложени е реклама ҫапла каласан, асӑрхануллӑ пулӑр:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- деменцине е Альцгеймер чирне «сыхлаять», «каялла куҫарать», «чарать» е «тӳрлетет»;
+- тӗпчеве, унта камсем пулнине тата мӗн виҫнине каламасӑр «клиника енчен ҫирӗплетнӗ» тет;
+- диагноз пек курӑнакан «миме вӑхӑчӗ» е ас хакӗ парать;
+- мимене «ҫивӗчлетет», «вӑйлатать» е «вӗрентет» тет;
+- ҫынсен каласӑвӗсене ҫирӗплетӳ пек кӑтартать.
 
-If you are unsure about a claim, ask the person's doctor.
+Каласӑвӑн тӗрӗслӗхӗшӗн иккӗленетӗр пулсан, эсир пӑхса тӑракан ҫынӑн тухтӑрӗпе калаҫӑр.
 
-## Where does Golden Moments fit?
+## Golden Moments ӑҫта вырнаҫать?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments ас тӗрӗслевӗ, терапи е медицина канашӗ мар, ансат пӗрле ӗҫсем сӗнет. Пирӗн вӑйӑсем, сӑмахран, [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) тата [Calm Breathing](/games/calm-breathing/), кӑмӑл ачисемпе калаҫу валли хатӗрленнӗ. Вӗсем деменцине палӑртмаҫҫӗ, тӳрлетмеҫҫӗ, унтан сыхламаҫҫӗ, виҫмеҫҫӗ те, ас е шухӑшлав тӗлӗшӗн ним те каламаҫҫӗ.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Эпир тата [Golden Moments приложенийӗпе iPhone, iPad тата Android валли](/app/) тӳлевсӗр усӑ курма пултаратпӑр. Унта пысӑк плиткӑллӑ лӑпкӑ сӑн пӗрлештерӳсем, эсир суйланӑ ҫемье сӑнӗсемпе вӑйӑсем тата интернетсӗр ӗҫлекен сӑн пуххисем пур; аккаунтсӑр, рекламӑсӑр, таймерсӗр тата очкосӑр. Ку страницӑри чек-лист ун валли та пӗр пекех усӑлать: App Store харпӑрлӑх палли «Даннӑйсем пуҫтараймаҫҫӗ» тет, [приложени харпӑрлӑх политики](/app-privacy/) сӑн копийӗсем ӑҫта упранаҫҫӗ тесе ӑнлантарать.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Эпир пире шаннине мар, пире хӑвӑр хакланине ыйтатпӑр. Ку страницӑри чек-листпа усӑ курӑр, пирӗн [харпӑрлӑх страници](/privacy/) тата [медицина ятарлавӗ](/medical-disclaimer/) страницисене вулӑр, тата эсир пӑхса тӑракан ҫын валли юрӑхманнине, пирӗнни те пулсан, усӑ курма чарӑнӑр.
 
-## What is a sensible way to try a new app?
+## Ҫӗнӗ приложенине тӗрӗслесси мӗнле разумлӑ?
 
-Try it together for a couple of weeks and watch what happens.
+Пӗр-ик эрне хушши пӗрле тӗрӗслӗр тата мӗн пулнине сӑнаса пӑхӑр.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Малтан вӑна хатӗрлӗр:** пирӗн [планшетпа телефон хатӗрлевӗ](/caregiving/tablets-and-screens/) страницине пӑхӑр тата чи ансат шайран пуҫлӑр.
+2. **Тапхӑрсене кӗскерех тытӑр,** йӑл кулнине, калаҫнине тата лӑпланнине пӑхӑр, лайӑх самантра вӗҫлӗр.
+3. **Пӑшӑрхану килтерет пулсан,** мӗн чухлӗ лайӑх хакланӑ пулин те, унпа усӑ курма пӑрахӑр.
