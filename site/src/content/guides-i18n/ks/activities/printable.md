@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "ڈیمینشیا خٲطرٕ مفت پرنٹ کرنہٕ یِنہٕ وٲلؠ سرگرمیاں"
+seoTitle: "ڈیمینشیا خٲطرٕ مفت پرنٹیبل سرگرمیاں: بوٚڈ چھَپٲی"
+description: "ڈیمینشیا خٲطرٕ مفت پرنٹیبل سرگرمیاں: بوٚڈ چھَپٲی لفظ تَلاش، رنگ بھرنہٕ وٲلؠ صفہٕ، کتھ باتھی کارڈ تہٕ تصویری بِنگو، تہٕ پرنٹ کرنٕچ مشورٕ۔"
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments چھِ ڈیمینشیا خٲطرٕ مفت پرنٹیبل سرگرمیاں پیش کران: اکھ بوٚڈ چھَپٲی
+  لفظ تَلاش، رنگ بھرنہٕ وٲلؠ صفہٕ، تصویری کتھ باتھی کارڈ تہٕ تصویری بِنگو کارڈ۔
+  کانٛہہ تہِ گیم صفہٕ کھولِو تہٕ تَتھ پؠٹھ Print بٹن استعمال کٔرِو۔ بوٚڈ، سادٕ
+  چھَپٲی منٛز مَزبوٗت کاغذس پؠٹھ پرنٹ کٔرِو، پرؠٹھ صفَس پؠٹھ اکھے کٲم تھٲوِو، تہٕ
+  یِم صفہٕ توٚہۍ دۄبارٕ استعمال کرُن یژھان چھِو تِم کٔرِو لیمینیٹ۔ سادٕ گَھرٕ بنٲومٕتؠ
+  پرنٹیبل، مِثلَن زندگی ہِنٛز کہانی ہُنٛد صفہٕ یا دۄہَک ٹایِم ٹیبل، تہِ چھِ مددگار۔
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "سانہِ پرنٹیبل سرگرمیاں چھِ مفت: Word Search، Coloring، Conversation Cards تہٕ Picture Bingo۔ پرؠٹھ گیم صفَس پؠٹھ چھُ اکھ Print بٹن۔"
+  - "بوٚڈ، سادٕ چھَپٲی، صاف فرق تہٕ پرؠٹھ صفَس پؠٹھ اکھے کٲم سٟتؠ پرنٹ کٔرِو۔"
+  - "مَزبوٗت کاغذ یا کارڈ سٹاک چھُ تھَف کرنَس آسٲنی سان تہٕ وۄٹِنَس کم آسان۔ صفہٕ دۄبارٕ استعمال کرنہٕ خٲطرٕ کٔرِو لیمینیٹ تہٕ ڈرای-اِریز مارکر استعمال کٔرِو۔"
+  - "گَھرٕ بنٲومٕتؠ سادٕ پرنٹیبل، مِثلَن زندگی ہِنٛز کہانی ہُنٛد صفہٕ، دۄہَک ٹایِم ٹیبل یا دَروازَن خٲطرٕ تصویری لیبل، چھِ سادٕ تہٕ فٲیدٕ مند۔"
+  - "پرنٹ کوٚرمُت صفہٕ چھُ اکھ دعوت، ہوم وَرک نَہ۔ تَمُک کینہہ حِصہٕ کرُن یا بالکل نَہ کرُن، دۄنَوے چھِ ٹھیک۔"
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "کیا سانی پرنٹیبل ڈیمینشیا سرگرمیاں چھا مفت؟"
+    a: "آ، یِم Word Search، Coloring، Conversation Cards تہٕ Picture Bingo صفہٕ یَتھ سایٹِہ پؠٹھ چھِ، تِم چھِ استعمال تہٕ پرنٹ کرنہٕ خٲطرٕ مفت۔ گیم صفہٕ کھولِو تہٕ Print بٹن استعمال کٔرِو۔"
+  - q: "ڈیمینشیا خٲطرٕ کٔہنٛز پرنٹیبل سرگرمیاں چھِ بہترین؟"
+    a: "بہترین پرنٹیبل چھِ تِم یِم سادٕ، صاف تہٕ بٔڑَن خٲطرٕ موزوں آسَن: اکھ بوٚڈ چھَپٲی لفظ تَلاش یَتھ منٛز لفظ صرف سیدٕ تہٕ بۄن کُن آسَن، صاف خاکَن وٲلؠ رنگ بھرنہٕ صفہٕ، تصویری کارڈ یِم کتھ باتھ شروع کرَن، تہٕ گروپَن خٲطرٕ تصویری بِنگو۔ سرگرمی تُلِو تَس شخص سٕندِ شوقن تہٕ وُنکِس مَوجود صلاحیتن مُطٲبِق، تہٕ پرؠٹھ صفَس پؠٹھ اکھے کٲم تھٲوِو۔"
+  - q: "بہٕ کِتھ کٔرِتھ پرنٹیبل وُچھنَس تہٕ استعمال کرنَس آسان؟"
+    a: "بوٚڈ، سادٕ چھَپٲی، سفید یا کریم کاغذس پؠٹھ گۄڈٕ سیاہ روٗشنٲیی، تہٕ واریاہ جاے استعمال کٔرِو۔ مَزبوٗت کاغذ یا کارڈ سٹاکس پؠٹھ پرنٹ کٔرِو یُتھ صفہٕ سیدٕ روزِ، چمک کم کرنہٕ خٲطرٕ میٹ کاغذ چُنِو، تہٕ صفہٕ تھَف تھٲونہٕ خٲطرٕ کِلِپ بورڈ یا نان-سلِپ میٹ استعمال کٔرِو۔ لیمینیٹ کرنہٕ سٟتؠ چھِ صفہٕ زیٛادٕ کالَس تام ٹھیک روزان۔"
+  - q: "کیا بہٕ تُہندؠ سرگرمیاں اکھ کیئر ہوم یا ڈے پروگرام خٲطرٕ پرنٹ کٔرِتھ ہیکہٕ؟"
+    a: "آ۔ سرگرمی عملہٕ چھِ سٲنی صفہٕ رَہَن وٲلِن تہٕ گروپَن خٲطرٕ پرنٹ کرنہٕ خٲطرٕ خوش آمَدید۔ Picture Bingo چھُ گروپَن خٲطرٕ بنٲومُت تہٕ اَتھ منٛز چھُ اکھ سکرین پؠٹھ کالَر یُس توٚہۍ ٹی وی یا پروجیکٹرس پؠٹھ ہٲوِتھ ہیکِو۔"
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+واریاہ وِزِ چھِ ساروٕے کھۄتہٕ بہتر سرگرمی کچَن ٹیبلس پؠٹھ اکھ کاغذ تہٕ اکھ قلم آسُن۔ پرنٹیبلَن نَہ چھِ چارج کرنُک ضرورت، نَہ پاس ورڈ، نَہ سکرین، تہٕ یِم چھِ مُلاقات یا گروپس پؠٹھ نِنَس آسان۔ یَتھ صفَس پؠٹھ چھِ سٲنِس سایٹِہ پؠٹھ مَوجود مفت پرنٹیبل سرگرمیَن ہُنٛد بیان، یِم کِتھ کٔرِتھ پرنٹ کٔرِو یُتھ وُچھنَس تہٕ تھَف کرنَس آسان آسَن، تہٕ کینہہ سادٕ گَھرٕ بنٲوِتھ ہیکَن وٲلؠ پرنٹیبل یِم خاندانن تہٕ سرگرمی عملَس فٲیدٕ مند باسان چھِ۔
 
-## What free printable activities do you offer?
+## توٚہۍ کٔہنٛز مفت پرنٹیبل سرگرمیاں چھِو پیش کران؟
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+أسؠ چھِ ژور مفت پرنٹیبل پیش کران۔ یِمو منٛز کانٛہہ تہِ گیم صفہٕ کھولِو تہٕ پرنٹر-فرینڈلی وَرجن خٲطرٕ **Print** بٹن استعمال کٔرِو۔
 
-| Printable | What it is | Good for |
+| پرنٹیبل | یہِ کیاہ چھُ | کٔمِس خٲطرٕ مناسب |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | اکھ بوٚڈ چھَپٲی لفظ تَلاش یَتھ منٛز لفظ صرف سیدٕ تہٕ بۄن کُن چھِ | قلمہٕ سٟتؠ پُر سکون وقت؛ یُس اکھ شخص پہلہٕ پہل پہنٛزِ کران اوس |
+| [Coloring](/games/coloring/) | رنگ بھرنہٕ وٲلؠ صفہٕ یِم پرنٹ کٔرِتھ ہیکِو، یا سکرینس پؠٹھ رنگ بھرِتھ ہیکِو | آرامدٲی، تخلیقی وقت؛ مدد سٟتؠ کانٛہہ تہِ مرحلہٕ |
+| [Conversation Cards](/games/conversation-cards/) | تصویری کارڈ تھیمَن مُطٲبِق کُھلہٕ، بِنا کوئز کتھ باتھی اشارَن سٟتؠ | مُلاقات، کال، خاندٲنی کھیٚن، یٲد تازٕ کرن وٲلؠ گروپ |
+| [Picture Bingo](/games/picture-bingo/) | نمبرو بدل تصویرو وٲلؠ بِنگو کارڈ، سٟتؠ اکھ سکرین پؠٹھ کالَر | کیئر ہوم، ڈے پروگرام، خاندٲنی اجتماع |
 
-### Large-print word search
+### بوٚڈ چھَپٲی لفظ تَلاش
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) منٛز چھِ بوٚڈ حروف تہٕ لفظ صرف سیدٕ تہٕ بۄن کُن چھِ روزان، کانٛہہ ڈایگنل یا پوٚت پھِرِتھ لفظ چھِنہٕ۔ یَتھ پؠٹھ کٔرِو مِلِتھ کٲم: اکھ شخص پرِ فہرستہِ منٛزٕ اکھ لفظ، بیٚیِس کٔرِو تَلاش۔ اگر لفظ لبنہٕ مشکل گژِھہ، تیٚلہِ کٔرِو پرؠٹھ لفظُک گۄڈنِک حرف مِلِتھ گول، یا بس لفظَن ہِنٛز فہرست بُلند آوازِ منٛز پرِو تہٕ پرؠٹھ لفظس پؠٹھ کٔرِو کتھ باتھ۔
 
-### Coloring pages
+### رنگ بھرنہٕ وٲلؠ صفہٕ
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Coloring](/games/coloring/) صفہٕ ہیکِو مارکرو یا رنگین پینسلو خٲطرٕ پرنٹ کٔرِتھ، یا ٹیبلٹس پؠٹھ اکھ رنگ تہٕ پتہٕ تَسویرُک اکھ حِصہٕ چُھنِتھ رنگ بھرِتھ۔ پرنٹ کرِمٕتؠ صفَن خٲطرٕ دِیِو موٗٹ مارکر تہٕ اکھ وِزِ صرف کینہہ رنگ۔ رنگ بھرُن بٔڑَن خٲطرٕ آرامدٲی تہٕ موزوں تھاونہٕ خٲطرٕ وُچھِو سون [آرٹ تہٕ کرافٹ رہنمٲیی](/activities/arts-and-crafts/)۔
 
-### Conversation cards
+### کتھ باتھی کارڈ
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) منٛز چھِ اکھ صاف تصویر أکِس کُھلہٕ اشارَس سٟتؠ، مِثلَن "مےٚ ؤنِو..." یا "توٚہۍ کیاہ چھِو وُچھان؟" یِم چھِ کُھلہٕ دَعوَتَن ہِندؠ پٲٹھۍ لِکھِمٕتؠ، کوئز سوال نَہ۔ اکھ سیٹ کٔرِو پرنٹ، الگ کٔرِو، تہٕ کینہہ تھٲوِو مُلاقاتَن خٲطرٕ أکِس بیگس منٛز یا فون کالَن خٲطرٕ فون نکھ۔ یِم چھِ [یاد تازٕ کرنہٕ وٲلِن](/activities/reminiscence/) گروپَن منٛز تہِ واریاہ فٲیدٕ مند۔
 
-### Picture bingo cards
+### تصویری بِنگو کارڈ
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Picture Bingo](/games/picture-bingo/) کارڈَن پؠٹھ چھِ نمبرو بدل تصویٖرٕ۔ پرؠٹھ کھِلاڑی خٲطرٕ اکھ کارڈ کٔرِو پرنٹ تہٕ لیپ ٹاپ، ٹی وی یا پروجیکٹرس پؠٹھ استعمال کٔرِو سکرین پؠٹھ کالَر۔ أسؠ چھِ مشورٕ دِوان زِ کالُن تھٲوِو جٲری یوٚتانۍ نَہ پرؠٹھ کٲنٛسہِ ہُنٛد کارڈ پوٗرٕ گژِھہ، یُتھ کانٛہہ تہِ الگ نَہ روٗزِ۔ سیشن چلٲونہٕ خٲطرٕ وُچھِو [کیئر ہومَن خٲطرٕ گروپ سرگرمیاں](/activities/care-home-groups/)۔
 
-## How do I print activities so they are easy to use?
+## بہٕ کِتھ کٔرِتھ سرگرمیاں تِتھ پٲٹھۍ پرنٹ یُتھ استعمال کرُن آسان آسِہ؟
 
-Small changes in how you print make a big difference.
+پرنٹ کرنَس منٛز لۄکٹیٚن تبدیلیَن سٟتؠ چھُ بوٚڈ فرق پیٚوان۔
 
-### Make it easy to see
+### وُچھنَس کٔرِو آسان
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **بوٚڈ، سادٕ چھَپٲی۔** تیوٗت بوٚڈ پرنٹ سیٹنگ استعمال کٔرِو یوتاہ صفَس پؠٹھ سَماوِہ۔ سجاوٹی یا سکرپٹ فونٹَن نِش بٔچِو۔
+- **صاف فرق۔** سفید یا کریم کاغذس پؠٹھ گۄڈٕ سیاہ روٗشنٲیی۔ پھِیکہٕ سُرمئی یا رنگین پس منظر تراوِو۔
+- **میٹ کاغذ** چھُ تیز روشنی ہندِس منٛز چمک کم کران۔
+- **چشمَن تہٕ روشنی ہُنٛد خیال تھٲوِو۔** Alzheimer's Association چھِ ونان زِ نظرٕ یا بوزنَس منٛز مشکل گژِھہ کتھ باتھ مشکل، تہٕ یِم چیک کرٲوِتھ روزُن چھِ مشورٕ دِوان۔ اکھ روشن، ہموار لیمپ چھُ تہِ مددگار۔
 
-### Make it easy to hold
+### تھَف کرنَس کٔرِو آسان
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **مَزبوٗت کاغذ یا کارڈ سٹاک** چھُ سیدٕ روزان، تُلنَس آسان، تہٕ واریاہ لٹِ استعمالس کھٔسِتھ۔
+- **کِلِپ بورڈ** یا نان-سلِپ پلیس میٹ چھُ صفہٕ پکھَنہٕ نِش رُکاوان۔
+- **موٗٹ مارکر یا موٗٹ پینسل** چھِ پتلی قلمو کھۄتہٕ پکڑنَس آسان۔
 
-### Make it reusable
+### دۄبارٕ استعمال کرنہٕ خٲطرٕ کٔرِو تیار
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **صفہٕ کٔرِو لیمینیٹ** یا صاف شیٹ پروٹیکٹرو منٛز تراوِو۔ Word Search تہٕ بِنگو کارڈَن پؠٹھ ڈرای-اِریز مارکر استعمال کٔرِو، پتہٕ کٔرِو صاف۔
+- **اگر چمک پریشٲنی آسِہ تیٚلہِ چُنِو میٹ پاؤچ**، تہٕ **لیمنیٹ کرِمٕتؠ کارڈَن ہِنٛز کۄنہٕ کٔرِو قینچی سٟتؠ گول** یُتھ تھَف کرنَس آرامدٲی آسَن۔
+- **پسندیدٕ صفَن ہُنٛد اکھ فولڈر تھٲوِو** یُتھ پرؠٹھ ہَفتہٕ تِی ژھوٚٹ صفہٕ پرنٹ کرُن نَہ پِیہِ۔
 
-### Keep it simple
+### سادٕ تھٲوِو
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **پرؠٹھ صفَس پؠٹھ اکھے کٲم۔** اکھ Word Search یا اکھ تصویر، واریاہ سرگرمیاں أکِس جایِ جمع نَہ۔
+- **واریاہ خٲلی جاے۔** بھٔرِمُت صفہٕ ہیٚکہِ پریشٲنی پٲدٕ کٔرِتھ۔
+- **یِتھ تام ممکن آسِہ ہدایات پرنَس نِش بٔچِو۔** پرنہٕ بدل ہٲوِو زِ کیاہ کرُن چھُ۔
+- **شیٹ کٔرِو لۄکچار۔** اگر پوٗرٕ صفہٕ واریاہ باسیٚو، تیٚلہِ کٔرِو اَتھ ادھ یا ؤلِو یُتھ صرف اکھ حِصہٕ نظرِ گژِھہ۔
 
-## Other useful printables you can make at home
+## باقی کٔہنٛز مُفید پرنٹیبل ہیکِو توٚہۍ گَھرٕ بنٲوِتھ؟
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+پرؠٹھ مُفید پرنٹیبل چھُنہٕ گیم آسُن ضروٗری۔ یِم چھِ وَرڈ پروسیسر تہٕ پرنٹر سٟتؠ آسانی سان بنٲوِتھ ہیکَن۔
 
-### A life-story page
+### زندگی ہِنٛز کہانی ہُنٛد صفہٕ
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+اکھ صفُک "مےٚ مُتعلِق" شیٹ، أکِس فوٹو سٟتؠ، تَس ناو سٟتؠ یُس تٔمِس پسند چھُ، سُہ کَتِ اوس وۄدان، تٔمۍ کیاہ کٲم کوٚر، خاندان، پسندیدٕ کھیٚن، موسیقی، تہٕ تِم چیز یِم تٔمِس تسلی یا پریشٲنی دِوان چھِ۔ Dementia Australia چھِ [یادداشت کتاب](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) بنٲونُک مشورٕ دِوان یَتھ منٛز تَس شخص سٕندِ زندگی، پسندیدٕ چیزن تہٕ ضروری لُکن ہُنٛد تفصیل آسِہ، یُتھ مُلاقات کرن وٲلِن تہٕ دیکھ بھال کرن وٲلِن مدد مِلِہ تہٕ کتھ باتھ شروع گژِھہ۔
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+یہِ چھُ خاص طور ہسپتالن تہٕ نَوین دیکھ بھال جاین منٛز فٲیدٕ مند۔ NIA چھِ مشورٕ دِوان زِ ہسپتال عملَس دِیِو اکھ [ذٲتی معلوماتی شیٹ](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) یَتھ منٛز تَس شخص سٕنز دۄہچ رۄسم، پسندیدٕ ناو، پسند تہٕ ناپسند، ممکن پریشٲنی وجہ، تہٕ دگ ہٕندِ غیر لفظی اشارٕ آسَن۔
 
-### A daily schedule
+### دۄہُک ٹایِم ٹیبل
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+دۄہ خٲطرٕ اکھ بوٚڈ، سادٕ ٹایِم ٹیبل، وقت، کینہہ لفظ تہٕ پرؠٹھ حِصَس خٲطرٕ اکھ لۄکُٹ تصویر سٟتؠ: ناشتہٕ، سیر، دوپہَرُک کھیٚن، آرام، موسیقی، راتُک کھیٚن۔ Alzheimer's Association ہُنٛد [دۄہچ دیکھ بھال منصوبہٕ](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) چھُ مشورٕ دِوان زِ دۄہُک منصوبہٕ بنٲوِو تَس شخص سٕندِ دۄہکِ بہترین وقتَن مُطٲبِق، وۄتھنُک تہٕ شۄنگنُک وقت تھٲوِو باقاعدٕ، تہٕ سرگرمی تہٕ آرامس منٛز تھٲوِو توازُن۔ یَتھ تھٲوِو نظرِ برونٛہہ کنِ، مِثلَن فریجس پؠٹھ، تہٕ یَتھ تھٲوِو نَرم۔ مزید خٲطرٕ وُچھِو سٲنز [دۄہچ رۄسم رہنمٲیی](/activities/daily-routine/)۔
 
-### Picture labels for rooms and drawers
+### کمرو تہٕ درازو خٲطرٕ تصویری لیبل
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA چھِ مشورٕ دِوان زِ [باتھ روم، بیڈ روم تہٕ کچَن لیبل کرنہٕ خٲطرٕ](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) روشن رنگَن ہِنٛز نِشٲنِہ یا سادٕ تصویٖرٕ استعمال کٔرِو۔ یۄہے خیال چھُ درازو تہٕ الماریَن خٲطرٕ تہِ کارگر: موزَن ہِندِس درازس پؠٹھ موزَن ہِنٛز تصویر، پیالن ہِنٛز المٲری پؠٹھ پیالن ہِنٛز تصویر۔ پرنٹ کٔرِو، لیمینیٹ کٔرِو تہٕ چیپِو۔
 
-### A sorting set
+### چھانٹنُک سیٹ
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+زٕ سادٕ زمرَن ہِنٛز تصویٖرٕ، مِثلَن میوٕ تہٕ پھوٗل یا اوزار تہٕ کچَن چیزٕ، کارڈ سٹاکس پؠٹھ پرنٹ کٔرِو۔ الگ کٔرِو تہٕ مِلِتھ کٔرِو زٕ ٹوکریَن منٛز چھانٹ۔ یِمُک سکرین وَرجن چھُ [Sort Together](/games/sort-together/)۔
 
-### Song lyric sheets
+### گِیتَن ہِنٛز لفظی شیٹ
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+کینہہ پسندیدٕ گِیتَن ہِنٛز لفظ واریاہ بوٚڈ چھَپٲی منٛز مِلِتھ گیونہٕ خٲطرٕ پرنٹ کٔرِو۔ یِم لُکھ واریاہ پران چھِنہٕ، تِم تہِ ہیٚکن شیٹ تھَف کٔرِتھ لُطف تُلِتھ۔
 
-### A family photo page
+### خاندٲنی فوٹو صفہٕ
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+اکھ صفہٕ یَتھ پؠٹھ ژور نِش شےٚ بوٚڈ خاندٲنی فوٹو آسَن، پرؠٹھ فوٹو بۄن اکھ گۄڈنِک ناو سٟتؠ۔ یہِ ہیٚکہِ ٹیبلس پؠٹھ روزِتھ یُتھ کانٛہہ تہِ تُلِتھ تَتھ پؠٹھ کتھ باتھ کٔرِتھ ہیکِہ۔ لیبلَن سٟتؠ چھِ مُلاقات کرن وٲلِن تہٕ عملَس کتھ باتھس منٛز شٲمِل گژُھن آسان، تہٕ کٲنٛسہِ چھُنہٕ پرُژھن پیٚوان "یہِ کُس چھُ؟"
 
-### A recipe card
+### رَسِیپی کارڈ
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+کانٛہہ پسندیدٕ خاندٲنی رَسِیپی بوٚڈ چھَپٲی منٛز پرنٹ کٔرِو۔ یَتھ ہیٚکِو استعمال کٔرِتھ مِلِتھ کھیٚن بناوُن، یا بس برونہِمَن کھیٚنن پؠٹھ کتھ باتھ کرٕنۍ۔
 
-## How do I offer a printable without it feeling like homework?
+## بہٕ کِتھ کٔرِتھ پرنٹیبل تِتھ پٲٹھۍ پیش یُتھ یہِ ہوم وَرک ہِیوٗ بासِہ نَہ؟
 
-Present it as something to share, not a test.
+یَتھ پیش کٔرِو اکھ چیز ہِیوٗ یۄس مِلِتھ کرنہٕ خٲطرٕ آسِہ، اکھ ٹیسٹ ہِیوٗ نَہ۔
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **بِہِو تہٕ پننیو شروع کٔرِو۔** "بہٕ چھُس یہِ لفظ تَلاش کران۔ کیاہ توٚہۍ ہیکِو مےٚ 'garden' لبنَس منٛز مدد کٔرِتھ؟"
+- **مِلِتھ کٔرِو کٲم۔** وارِ وارِ کٔرِو، یا اکھ لبِ تہٕ بیٚیہِ کٔرِ گول۔
+- **زَہە نَہ ؤنِو صحیح یا غلط۔** Alzheimer's Association ہِنٛز [گَھرٕ منٛز سرگرمیَن ہِنٛز رہنمٲیی](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) چھِ مشورٕ دِوان زِ عملس پؠٹھ دِیِو توجہ، نتیجَس پؠٹھ نَہ، تہٕ مزَس پؠٹھ دِیِو توجہ، کامیٲبی پؠٹھ نَہ۔
+- **صفہٕ تھٲوِو نِکھہٕ تل۔** تِژھے رہنمٲیی چھِ مشورٕ دِوان زِ سکریپ بُک، فوٹو البم یا پرٲنؠ رسالہٕ تھٲوِو آسانی سان ہَتھ لاگنہٕ وٲلِن جاین پؠٹھ۔ پرنٹ کرِمٕتؠ کارڈ تہٕ فوٹو صفہٕ تہِ ہیٚکن تِتھے پٲٹھۍ سٲیڈ ٹیبلس پؠٹھ روزِتھ۔
+- **ییلہِ دِل ییژِھہ تیٚلہِ رُکِو۔** اکھ ادھ رنگ بھٔرِمُت صفہٕ چھُ اکھ بہتر دوپہَر۔ تِی ژھوٚٹ چھُ صفہٕ تھٲوُن تہٕ اکھ کپ چائے چیٚن۔**
 
-## Where to find more
+## مزید کَتِ لبِو
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+سٲرِی [گیم تہٕ پرنٹیبل](/games/) وُچھِو، یا کاغذ سٟتؠ تہٕ بِنا کاغذ مزید خیالن خٲطرٕ وُچھِو [پرؠٹھ مرحلَس خٲطرٕ سرگرمیاں](/activities/ideas/)۔

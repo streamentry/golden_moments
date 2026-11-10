@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "ڈیمنشیا وٲلؠن خٲطرٕ گَریلوٗ کأم بطور سرگرمی"
+seoTitle: "ڈیمنشیا خٲطرٕ گَریلوٗ سرگرمِیاں"
+description: "کَپڑٕ ؤٹِتھ، چیزٕ چھانٹِتھ، میز سَجاوِتھ تہٕ سادٕ پَکوانَس منز مَدَتھ کرُن ڈیمنشیا سٟتؠ زندگی گزاران وٲلؠن خٲطرٕ معنی خیز سرگرمِیاں ہیکَن ٲسِتھ۔"
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  روزمرٕ کأم، مِسلَن تولِیا ؤٹُن، موزٕ جوٗڑُن، میز سَجاوُن، کاونٹر پونٛچھُن،
+  پودَن آب دیُن تہٕ سادٕ پَکوانَس منز مَدَتھ کرٕنۍ، أکِس ڈیمنشیا سٟتؠ زندگی
+  گزاران وٲلِس شخصَس ہیکہِ گَرَس منز اصلی مَدَتھ کرنُک موقع دِتھ۔ تِم کأم چُنو
+  یِم تِمن زانَن چھِ، پرٛتھ کأم أکِس أکِس قدمَس منز بٲگریو، تیز یا تَتھ چیزٕ
+  دوٗر تھٲویو، تہٕ کأم کیازِ پٲٹھؠ سپُد، تَتھ کھوتہٕ وۄد شمولیت چھِ اہم۔
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "مانوس گَریلوٗ کأم سٟتؠ ہیکہِ أکِس شخصَس مددگار تہٕ گَرُک حِصہٕ محسوس گَژھِتھ، یُس اکثر کأم کِتھ کٔنۍ سپُد تَمِہ کھوتہٕ وۄد اہم آسہِ۔"
+  - "پرٛتھ کأم أکِس أکِس قدمَس منز بٲگریو، وَنَنہٕ کھوتہٕ ہٲویو، تہٕ یُس قدم مُشکِل بَنہِ تَمِچ مَدَتھ آرام سٟتؠ پننِس اَتھس منز نِیِو۔"
+  - "پَکوان کرنہٕ برونٹھ چاقو، صفٲئی چیزٕ تہٕ ڈِٹرجنٹ پاڈ ژورِ تھٲویو، تہٕ چولہِ کؠ ناب محفوظ ڈَک یا خودکار بند گَژھن وول سِسٹَم لٲگِو۔"
+  - "ؤٹِمِتؠ تولِیا تِمن برونٹھ کنہِ دُبارٕ ؤٹنٕچ ضرورت چھَنہٕ۔ اگر کینٛہہ دُبارٕ کرُنٕے آسہِ، تیٚلہِ کٔرِو ییلہِ تِم وُچھان آسَن نہٕ۔"
+  - "اگر کانٛہہ کأم پریشان کَران آسہِ، أکِس آسان قدمَس پیٚٹھ گٔژِھو، بیِہ کُنہِ وقتَس کٔرِو کوٗشِش، یا بس اَکھ أکِس سٟتؠ بِہِو۔"
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "ڈیمنشیا آسَن وول شخص کٔہنؠ گَریلوٗ کامَن منز مَدَتھ ہیکہِ کٔرِتھ؟"
+    a: "واریاہ لوٗکھ ہیکَن وُنہِ تی کَپڑٕ ؤٹِتھ، موزٕ جوٗڑِتھ، چمچہٕ تہٕ کانٹے چھانٹِتھ، میز سَجاوِتھ، کاونٹر پونٛچھِتھ، دھول تُلِتھ، جھاڑو دِتھ، پودَن آب دِتھ یا پیالَس منز کینٛہہ رَلٲوِتھ۔ تِمے کأم چُنو یِم تِم برونٹھ کران ٲسؠ، تہٕ وۄنہِ یِکینژھاہ تِم کرنَس لایق چھِ تَمِہ مُطٲبِق چُنو۔ پٔتِمَن مرحلن منز اکھ دُہراوَن واجِن حرکت، مِسلَن نیپکِن ہموار کرٕنۍ، تی ہیکہِ واریاہ آسُن۔"
+  - q: "کیاہ ڈیمنشیا آسَن وول شخص کچَنَس منز مَدَتھ خٲطرٕ محفوظ ہیکہِ کٔرِتھ؟"
+    a: "آو، اگر نکھ تل نگرٲنی آسہِ تہٕ صحیح انتظام آسہِ۔ چاقو، صفٲئی چیزٕ تہٕ پرٛتھ کانٛہہ تَتھ چیز دوٗر تھٲویو، چولہِ کؠ ناب محفوظ ڈَک یا خودکار بند گَژھن وول سِسٹَم اِستعمال کٔرِو، تہٕ تِمن اکھ محفوظ کأم دِیِو، مِسلَن سبزی چھَلٕنۍ، رَلٲوُن یا پلیٹٕ تھٲوِنۍ۔ چولہٕ چالو آسَنَس پیٚٹھ تِم زانہہ اَکی یَلہٕ مَہ ترٲویو۔"
+  - q: "اگر تِم چیزٕ غلط ؤٹَن یا گَڈبڈ کرَن تیٚلہِ کیاہ کرُن؟"
+    a: "تِہنزِ کٲمِہ ہِندِس حالَس پیٚٹھ ترٲویو۔ مقصد چھُ اَکھ أکِس سٟتؠ وقت گزارُن تہٕ مفید محسوس کرُن، نہ کہ کأم بالکل صحیح سپدُن۔ اگر کینٛہہ واقعی دُبارٕ کرُن ضروری آسہِ، تیٚلہِ پتہٕ کٔرِو ییلہِ تِم وُچھان آسَن نہٕ، یُتھ تِمن سہی کرنُک احساس گژھہِ نہٕ۔"
+  - q: "اگر تِم مَدَتھ کرنہٕ نِش انکار کرَن تیٚلہِ کیاہ؟"
+    a: "«نَہ» ہیکہِ یِہ معنی ٲسِتھ زِ کأم وۄنہِ واریاہ مُشکِل، اُلجھن بھر یا تھَکاوَن وول باسان چھُ۔ زور مَہ دِیِو۔ اکھ واریاہ آسان شکل آزمٲویو، تِمن بس پَنُن سنگَت دِنُک دعوت دِیِو، یا دۄہَس کُنہِ بیِہ مٔزِ وقتَس پٕرٛژِھو۔"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,116 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+واریاہ لوٗکھ یِم ڈیمنشیا سٟتؠ زندگی گزاران چھِ، تِم چھِ دہائیو پیٚٹھ گَر چلاوان، خاندار سَمبالان یا کُنہِ جایِہ کأم ٹھیک پٲٹھؠ کران روٗدِمُت۔ تِمن اصلی گَریلوٗ کامَن منز مَدَتھ کرنُک وَنُن ہیکہِ یِہ وَنِتھ زِ «ژٕ چھُکھ وُنہِ تی اَتھ گَرُک حِصہٕ»، یُس احساس باقیَن واریاہَن سرگرمیَن کھوتہٕ مُشکِل چھُ مِلان۔
 
-## Why do everyday chores work well as activities?
+یَتھ صفَس پیٚٹھ چھِ زِ کٔہنؠ کأم عام پٲٹھؠ ٹھیک چَلان، تِم کِتھ کٔنۍ تیار کرٕنۍ، وقتَس سٟتؠ کِتھ کٔنۍ بدلاوٕنۍ، تہٕ کچَن تہٕ لانڈری کمرس منز محفوظی کِتھ کٔنۍ برقرار تھٲوٕنۍ۔
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+## روزمرٕ گَریلوٗ کأم سرگرمی ہِندِس طورس پیٚٹھ کیازِ ٹھیک چَلان؟
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+گَریلوٗ کأم چھِ اَمی موجوب ٹھیک چَلان زِ تِم چھِ مانوس تہٕ تِہُند اکھ واضح مقصد چھُ آسان۔ نیشنل انسٹی ٹیوٹ آن ایجنگ (NIA) چھُ برتن چھَلن، میز سَجاوُن، جھاڑو دیُن، دھول تُلُن، ڈاک چھانٹٕنۍ، کَپڑٕ ؤٹُن تہٕ ری سائیکل چھانٹٕنۍ تِمن [روزمرٕ کامَن منز شٲمِل کران یِم الزائمرس وٲلؠ لوٗکھ پسند ہیکَن کٔرِتھ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)۔ الزائمر ایسوسی ایشن چھِ ونان زِ میز سَجاوَنہِ ہِیوٗ کأم سٟتؠ ہیکہِ أکِس شخصَس [گَرُک اکھ قٔدری حِصہٕ محسوس گَژھِتھ](https://www.alz.org/help-support/caregiving/daily-care/activities)۔
 
-## Which household tasks are good to try?
+گَریلوٗ کامَن منز چھُ شروع کرنُک وجہ پانے آسان۔ «کیاہ ژٕ ہیکَکھہٕ یِمن تولیَن منز میٲنۍ مَدَتھ کٔرِتھ؟» وَنُن چھُ اکثر «کیاہ ژٕ کانٛہہ سرگرمی کرٕنۍ یژھان چھُکھہٕ؟» کھوتہٕ آسان۔
 
-Start with tasks the person did in the past, then match them to what they can do today.
+## کٔہنؠ گَریلوٗ کأم آزمٲوِتھ ہیکو؟
 
-### Laundry and linens
+تِمے کأم چُنو یِم تِم شخص برونٹھ کران اوس، پتہٕ وُچھِو زِ وۄنہِ کیاہ کرِ ہیکَن۔
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+### کَپڑٕ تہٕ بیڈروم/گَرٕچ لِنَن
 
-### Table and kitchen
+- **تولِیا تہٕ چھوٹؠ رومال ؤٹُن۔** چھوٹَن، ہموار چیزن ہُند اکھ ٹوکرو دِیِو۔ تولِیا چھِ آسان: یِم ؤٹنَس کُنہِ خاص غلط طریقہٕ چھُنہٕ۔
+- **موزٕ جوٗڑُن۔** میزَس پیٚٹھ اکھ رَلاوُت ڈیر تھٲویو۔ اگر جوٗڑ لبنہٕ مُشکِل بَنہِ، تیٚلہِ صرف زٕ یا ترٛے الگ الگ رنگ استعمال کٔرِو۔
+- **ہموار کرُن تہٕ تھپہِ لاگُن۔** نیپکِن، تکیہِ غلاف یا برتن پونٛچھن وٲلؠ رومال ہموار کٔرِتھ تھپہِ پیٚٹھ تھٲوِتھ ہیکَن۔ یِہ چھُ تَمہِ وقتہٕ واریاہ کارگر ییلہِ ؤٹُن واریاہ قدم بَنہِ۔
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+### میز تہٕ کچَن
 
-### Around the house
+- **میز سَجاوُن۔** اکھ جایِہ بطور نمونہٕ سَجٲویو تہٕ تِمن تَمِچ نقل کرنہٕ خٲطرٕ وَنِو۔ اگر یِہ واریاہ باسان آسہِ، تیٚلہِ اکھ اکھ چیز دِیِو: «یَتھ پلیٹَس خٲطرٕ چھُ اکھ کانٹو۔»
+- **چمچہٕ تہٕ کانٹے چھانٹُن۔** صاف کانٹے، چمچہٕ تہٕ مکھن وٲلؠ چاقو أکِس ڈَبَس منز رَلٲوِتھ خانہٕ دار ٹرے منز چھانٹَن دِیِو۔ تیز چاقو مَہ تھٲویو۔
+- **برتن خۄشک کرٕنۍ۔** پلاسٹِک یا نہٕ ٹوٹَن وٲلؠ برتن تہٕ نرم تولِیہ سٟتؠ چھُ یِہ اکھ محفوظ کأم۔
+- **میز یا کاونٹر پونٛچھُن۔** اکھ نَم تولِیہ تہٕ صاف سَطحٕ۔ الزائمر ایسوسی ایشن چھِ مشورٕ دیوان زِ اگر کانٛہہ شخص اَتھہٕ سٟتؠ میز رَگدان آسہِ، تیٚلہِ تَس تولِیہ دِیِو، یُتھ بے چین حرکت أکِس فائدہٕ مند کامَس منز بدلاوِو۔
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+### گَرَس أندر
 
-### Simple cooking with supervision
+- **دھول تُلٕنۍ۔** اکھ نرم جھاڑَن تہٕ کینہہ مضبوط سطح، مِسلَن کافی میز یا کتابَن ہُند الماری۔
+- **ڈاک چھانٹٕنۍ۔** بے کار ڈاک تہٕ کیٹلاگ چھانٹنہٕ خٲطرٕ دِیِو: تھاونہٕ خٲطرٕ، ری سائیکل خٲطرٕ، پتہٕ کھولنہٕ خٲطرٕ۔ اصلی بِل تہٕ چیٖک الگ تھٲویو۔
+- **ری سائیکل چھانٹٕنۍ۔** صاف ڈَبہٕ، بوتل تہٕ کاغذ الگ الگ ڈَبَن منز تراوٕنۍ۔
+- **جھاڑو دیُن۔** اگر توازن ٹھیک آسہِ، تیٚلہِ صحنَس یا کچَنَس منز چھوٹ جھاڑو۔
+- **پودَن آب دیُن۔** اکھ ہلکہٕ آب دِنُک برتن تہٕ کینہہ پودٕ یِم آسانی سٟتؠ اَتھہٕ لگَن۔
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+### نگرٲنی سٟتؠ سادٕ پَکوان
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+پَکوان پَکاوُن ہیکہِ خۄشگوار یادٕ تازٕ کٔرِتھ۔ NIA چھِ مشورٕ دیوان زِ تِمن چیزٕ اکھٹھا کرنہٕ، ماپنہٕ، رَلاونہٕ یا ڈالَن دِیِو، یا بس پننِس پسندیدٕ ریسیپی ہُند طریقہٕ بوزناوِو۔ مٔزِ کأم چھِ:
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+- سبزی یا میوٕ چھَلٕنۍ
+- بیٹر یا ٹھنڈٕ سلاد رَلٲوُن
+- سلاد پتہٕ چیٖرٕنۍ
+- کند چاقو سٟتؠ ٹوسٹَس پیٚٹھ مکھن لاگُن
+- ٹرے پیٚٹھ کوکی ڈو تراوُن
+- پیزا پیٚٹھ چیزٕ تھٲوِنۍ
 
-## How do I set up a chore so it goes well?
+اگر ماپُن مُشکِل بَنہِ، تیٚلہِ الزائمر ایسوسی ایشن چھِ ونان زِ تُہؠ کٔرِو ماپُن تہٕ پتہٕ تِمن بیِہ کأم دِیِو، مِسلَن رَلٲوُن۔
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+## کأم کیازِ پٲٹھؠ ترتیب دِم زِ ٹھیک چَلہِ؟
 
-## How do I adapt chores as abilities change?
+1. **صحیح وقت چُنو۔** دۄہُک سُہ حصّہ چُنو ییلہِ تِم شخص عام پٲٹھؠ آرام کران تہٕ پرسکون آسان چھِ۔ واریاہَن خٲطرٕ چھُ یِہ صبح۔
+2. **جایِہ صاف کٔرِو۔** اکھ کأم، اکھ سَطحٕ، میزَس پیٚٹھ بے ضرورت چیزٕ مَہ تھٲویو۔
+3. **دعوت دِیِو، حکم مَہ دِیِو۔** «مےٚ ہیکہِ یہِہ یَتھ منز مَدَتھ مِلِتھ» چھُ «وۄن چھُ کَپڑٕ ؤٹُنُک وقت» کھوتہٕ بہتر۔
+4. **گۄڈنیُک اکھ ہٲویو۔** اکھ تولِیہ آہستہ ؤٹِو، پتہٕ بیاکھ تِمن دِیِو۔ ہٲوُن چھُ وَننہٕ کھوتہٕ صاف۔
+5. **اکھ اکھ قدم وَنِو۔** واریاہ ہدایات أکِس ساتہٕ ہیکَن پریشان کٔرِتھ۔ اکھ قدم مُکمل گژھنہٕ پتہٕ وَنِو بیاکھ۔
+6. **اکھ أکِس نکھ تل کٔرِو کأم۔** اَکھ أکِس سٟتؠ کأم کرُن چھُ سنگَت ہِیوٗ باسان، نگرٲنی ہِیوٗ نہٕ۔
+7. **کامَس مُتعلِق کَتھہٕ کٔرِو، نٔتیجَس مُتعلِق نہٕ۔** «یِم چھِ واریاہ نرم» یا «ژٕ کِتھ کٔنۍ تھٲوان ٲسُکھ لینَن ہُند الماری؟» یِم چھِ کتھ باتھ شروع کرنٕک موقع، بغیر کٲنٛسہِ آزمٲونہٕ۔
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+## صلاحیتَن منز تبدیلی یِنَس پیٚٹھ گَریلوٗ کأم کِتھ کٔنۍ بدلاوَو؟
 
-| If this has become hard | Try this instead |
+صلاحیت چھِ وقتَس سٟتؠ تہٕ دۄہَس دۄہَس بدلَن۔ الزائمر ایسوسی ایشن چھِ مشورٕ دیوان زِ حالت بدلنہٕ سٟتؠ سٟتؠ آسان تہٕ دُہراوَن وٲلؠن کامَن کُن گژھُن۔
+
+| اگر یِہ مُشکِل بَنہِ | اَمِہ بدلِ یِہ کٔرِو |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| بڈؠ چادر ؤٹٕنۍ | چھوٹؠ تولِیا ؤٹُن یا نیپکِن ہموار کرٕنۍ |
+| پوٗرٕ میز سَجاوٕنۍ | پرٛتھ کُرسی نکھ اکھ نیپکِن تھٲوُن |
+| ڈاک خانَن مُطٲبِق چھانٹٕنۍ | سارے لفافہٕ أکِس ڈیرس منز تھٲوٕنۍ |
+| ریسیپی پیٚٹھ عمل کرُن | رَلٲوُن، یا تُہندِس پَکاونَس وِزِ وُچھُن تہٕ چکھُن |
+| پوٗرٕ فرش جھاڑو دیُن | اکھ چھوٹ میز پونٛچھٕنۍ |
+| بالکل کأم کرُن | تُہندِس نکھ تل بِہِتھ تُہندِ سنگَت دِیُن |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+بس وُچھُن تی چھُ شمولیت۔ NIA چھِ ونان زِ کینہہ لوٗکھ چھِ بس وُچھُن پسند کران، تہٕ یِہ تی چھُ شأمِل گژھنُک اکھ ٹھیک طریقہٕ۔
 
-## How do I keep household tasks safe?
+## گَریلوٗ کأم محفوظ کِتھ کٔنۍ تھٲوو؟
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+محفوظی چھِ گۄڈنیُک چیز، خاص کر کچَنَس منز۔ NIA ہٕندۍ [الزائمرس دؠکھبھال کرَن وٲلؠن خٲطرٕ گَرٕچ محفوظی ہدایات](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) منز چھِ یِم کتھہٕ شٲمِل:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- صفٲئی چیزٕ، بشمول لانڈری ڈِٹرجنٹ پاڈ، تالا بند کٔرِو یا دوٗر تھٲویو، تِکیازِ تِم ہیکَن ٹافی ہِیوٗ بٲسِتھ۔
+- چاقو، قینچی تہٕ بجلہِ اوزار تالا بند جایِہ تھٲویو۔
+- چولہِ خٲطرٕ محفوظ ناب تہٕ خودکار بند گژھن وول سوئچ لٲگِو۔
+- اووَن، ٹوسٹر تہٕ استری نکھ «رُکو» یا «واریاہ تَتھ» ہِیوٗ نشانہٕ لاگٲویو، مگر تِتھِس جایِہ یُتھ نارٕ گَژھنُک خطرٕ آسہِ نہٕ۔
+- آب گرم کرَن وول ہیٹر 120°F پیٚٹھ تھٲویو، یُتھ جلَنُک خطرٕ کم گژھہِ۔
+- نقلی میوٕ تہٕ کھینٕچ شکل وٲلؠ میگنیٹ ہٹٲویو، تِکیازِ تِم ہیکَن کھینٕچ چیز بٲسِتھ۔
 
-A few more practical habits help:
+کینہہ عملہٕ عادتہٕ تی چھِ مددگار:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- ییلہِ چولہٕ، اووَن یا کانٛہہ تیز چیز استعمال گژھان آسہِ، تَمہِ وقتہٕ روٗزِو کمرس منز۔
+- برتن خۄشک کرنہٕ تہٕ میز سَجاونہٕ وقتہٕ نہٕ ٹوٹَن وٲلؠ برتن استعمال کٔرِو۔
+- جھاڑو یا پونچھا دیوان دیوان فرش خۄشک تہٕ صاف تھٲویو۔
+- اگر تِم شخص برونٹھ اوزار چلاوان اوس، تیٚلہِ الزائمر ایسوسی ایشن چھِ مشورٕ دیوان زِ ورک شاپہٕ پیٚٹھ خطرناک چیزٕ ہٹٲوِنیو، یُتھ محفوظ کأم، مِسلَن لٔکڑِ ہُند اکھ ٹُکرٕ رگڑُن، وُنہِ تی کرِ ہیکَن۔
 
-## What if they do it "wrong"?
+## اگر تِم «غلط» کرَن تیٚلہِ کیاہ؟
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+تَتھ پیٚٹھ غور مَہ کٔرِو۔ اگر تولِیہ ترٛین حِصَن بدلِ زٕن حِصَن منز ؤٹِتھ، تی چھُ سُہ وُنہِ تی ؤٹِمُت تولِیہ۔ الزائمر ایسوسی ایشن چھِ صاف ونان: اہم چھُ اَکھ أکِس سٟتؠ وقت گزارُن تہٕ تِمن مفید محسوس گژھُن، نہ کہ تولِیا بالکل صحیح پٲٹھؠ ؤٹِتھ چھا کِنہٕ۔ اگر کینٛہہ واقعی دُبارٕ کرُن ضروری آسہِ، تیٚلہِ پتہٕ کٔرِو تہٕ تِمن وُچھنہٕ برونٹھ کنہِ۔
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+تَمہِ وقتہٕ سہی کرُن ہیکہِ اکھ خۄشگوار کأم تَتھ یادَس منز بدلٲوِتھ یُس ژٕ وَنان آسہِ زِ کیاہ کیاہ روٗد نہٕ۔ «شُکریہ، یہِ چھُ بٔڈ مَدَتھ» وَنُن چھُ تقریباً ہمیشہ صحیح۔
 
-## When should we stop?
+## أس کَمہِ وقتہٕ رُکَو؟
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+ییلہِ پریشٲنی، تھَکُن یا دِلچسپی کم گژھٕنۍ وُچھِو، تیٚلہِ رُکِو یا کأم بدلاوِو۔ وقتہٕ برونٹھ رُکُن چھُ اکھ ٹھیک انجام، ناکٲمی نہٕ۔ تُہؠ ہیکِو:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- أکِس آسان قدمَس کُن گٔژِھتھ
+- کانٛہہ آرام دہ چیز کُن نِتھ، مِسلَن موسیقی یا اکھ کپ چائے
+- پتہٕ یا بیِہ کُنہِ دۄہ کٔرِو دُبارٕ کوٗشِش
+- بس اَکھ أکِس سٟتؠ بِہِتھ
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+اگر تِم «نَہ» وَنَن، تیٚلہِ زور مَہ دِیِو۔ نرم پٲٹھؠ جواب دِنہٕ خٲطرٕ وُچھِو [ییلہِ تِم نَہ وَنَن تیٚلہِ کیاہ کرُن](/caregiving/when-they-say-no/)۔
 
-## Low-effort extras for a quieter moment
+## پرسکون لمحَن خٲطرٕ ہلکہٕ متبادل
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+ییلہِ جسمٲنی گَریلوٗ کأم ممکن آسَن نہٕ، تیٚلہِ تی ہیکَن بِہِتھ چھانٹُن تہٕ جوٗڑُن کرِتھ۔ [Sort Together](/games/sort-together/) منز ہیکِو تُہؠ تصوِیرٕ کچَن یا باغچہٕ ہٕندؠن ٹوکریَن منز تھٲوِتھ، تہٕ [Picture Pairs](/games/picture-pairs/) چھِ بٔڈ تصوِرن ہُند اکھ نرم جوٗڑَن وول کھیل، یَتھ منز کانٛہہ ٹایمر چھُنہٕ۔ [Conversation Cards](/games/conversation-cards/) منز چھِ گَر تہٕ خاندارَس مُتعلِق کھُلہٕ سوال، یِم کأم پتہٕ چائے ہِندِس وقتَس سٟتؠ واریاہ ٹھیک چَلان۔
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+گَریلوٗ کأم دۄہَس منز کیازِ پٲٹھؠ شٲمِل کرٕنۍ، اَمِچ مَدَتھ خٲطرٕ وُچھِو سون [پرسکون روزمرٕ روٹین](/activities/daily-routine/) ہُند رہنما۔ مرحلہٕ وار بییہِ تجویزٕ خٲطرٕ وُچھِو [درمیٲنی مرحلُک سرگرمِیاں](/activities/middle-stage/)۔

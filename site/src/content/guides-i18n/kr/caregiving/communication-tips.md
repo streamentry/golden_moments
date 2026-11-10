@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Mana kəlanzəbe kam dementia-a kargata-a"
+seoTitle: "Mana kəlanzəbe dementia-a: Awo guljin-a gulzənyi-a"
+description: "Futu kam dementia-a kargata-a mana kəltəbe: futu mana badiyaram, awo guljin kuru awo gulzənyi, kuru futu kərənjinma."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Na cidawa lan manane, kam dəga fuwunzəyin ro kalakne, cunzə gulne, kuru
+  mana gana-gana, kəlma sandiya lan mane. Koro falro fal gulne, koro zau-a
+  indi-a kənəmbe lan koro ngəwu-a gulne, kuru hangalye gozuwa-a kozəna-a
+  kənəm kata kətəne. Kəlaanzənyi, tənzənyi, bi koro kənzənyi. Mana cədəna
+  dəga karəgənzə lan hangal gəne, kuru mana-a cidajinma musko, foto, kuru
+  alamaram-a faidatəne.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Mana badizayinro kawu cidajinma dəga citəne kuru shi shiro kəlaa kərənne."
+  - "Kəlma gana-gana, awo falro fal, kuru cu faidatəne shi, ti, bi sandi-a badiyaramro."
+  - "Koro ngəwu-a badiyaramro, awo indi-a kənəmbe bi aa-a'aaye-a koro faidatəne."
+  - "Jaawu-a kətəne. Shi asutənyi ma, burwon kəlma tilo dəga waltə gulne, ngawo dəga kəlma gade faidatəne."
+  - "Kəlaanzənyi bi tənzənyi. Mana cədəna dəga karəgənzə hangal-a jaawu-a de."
+  - "Mana-a cidajinma, musko, kəla, fəddu fusube kuru foto kəltəbe-a faidatəne."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Awo kam dementia-a kargata ro gulzənyi wa?"
+    a: "Koro kənzənyi (\"Taktəna wa?\"), tənzənyi (\"Adə kalkal\"), awo faccənadəga taktəgəne (\"Nyi ro waltə gulgəkənadə\"), kuru shi na dəga bawo mana kədənyi. Mana tada-a gairo manazənyi. Adəga shi nangaro cizə bi karəgənzə cizayin, banazayin ba."
+  - q: "Awo cədəna dəga kalkallo waljiya, shi-a tənzəgəna wa?"
+    a: "Ngəwuro bawo. Awo cədəna dəga kalkallo amma banajin ba ma, kolne. Kəlaanzə shi hangalzə faltəjin ba, kuru ngəwuro shi-a karəgənzəro cizayin. Sandi karəgənzə kuru awo kərmaadə mbeji ma hangal ganane."
+  - q: "Kəlma mata bawo cidajinma, abi dikki?"
+    a: "Burwon loktu yine. Shi jauro wahalajinro fəletəna ma, kəlma falro banazəne bi awo manajinma asune kuru tambune ngəla. Musko, alamaram kuru foto ye banazayin."
+  - q: "Futu kam dementia-a kərmaadə kozəna-a kargata, mana ngəwu cədənyi ma, mananjin?"
+    a: "Fuwunzəyin ro isne, wuni wuma gulne, kəla cidawa-a musko kəlanzəbe-a faidatəne. Karəgənzə asutəro fəddu fuskabe-a kəli tilabe-a rui. Nando mbeji, yawu asəna bi musko kənzəbe-a mana bawo ye awo kura bayin."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementia-a kəlma mata, kəlma kuruwu fanjə, bi kowo cidajinma-a dautə kambo cizayin. Adə ye maanaanzə kam dəga kam gade-a kəlzəgə kəraanzəro faltənyi. Futu mana badiyaram, futu mananim kuru futu kərənəmma lan faltəgə gana-a kədəbe, mana-a nando-a kuru kam ngəwu-a ro cidaro walzayin.
 
-## What are the most important tips for talking with someone who has dementia?
+## Awo kura mana kam dementia-a kargata-a kəltəbero faidajin wa?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Hangalnzə kambe, mana-a cidaro kalakne, kuru hangalye. Awo uwu ro bas taktənamma:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Na dəga cidaro kalakne kuru shi-a rui.** TV dəga cazəne, shi-a kəlaa kəlkəl lan napne, kuru cunzə faidatəne.
+2. **Loktu fallan awo fal manane.** Kəlma gana-gana, hangal fal, koro fal.
+3. **Awo indi-a kənəmbe yine.** «Shayi ra kahuwa?» koro-a «Abi raamma wa?» kozəna kəlan ngəla.
+4. **Kətəne.** Jaawu-a cinro loktu kura gozuwa-a kozəna-a yine, kuru mananzə dautənyi.
+5. **Kəlaanzənyi bi koro kənzənyi.** Futu karəgənjinma hangal ganane, awo cədəna dəga jire bi kalkal gənanyi.
 
-## How should I start a conversation?
+## Futu mana badigəkkiya?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Kam dəga shi-a hangalnzə ganzəro cidajin na-a dazəne. [Futube Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) burwon kowo cidajinma-a fulutəro shawari cina: rediyo bi TV cazəne, labule bi cinna-a zaktəne, bi na cidawa-a ro lene.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Fuwunzəyin ro isne.** Ngawo bi kənəmbe lan isə cidajin kam dəga rijaptə.
+- **Wuni wuma gulne.** «Salam Bawa, wu Sara, fero nyibe.» Adəye shi cunəm-a mata-a koljin.
+- **Shi-a kəlaa kəlkəlro isne.** Shi napkənama, napne bi ngurnone shima-a kuru nyi-a shim sammaaro walzaro.
+- **Fəddu fuskabe-a kəlanəm-a rui.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) kəlanəm, ngurnonəm, fəddu fuskabe kuru kəli tilabe-a asutəro, kuru kəla kənzəbe, bayanna-a faidatəro shawari cina.
+- **Gilasu shim-a kuru awo fanobe-a mbejiro tawattəgəne.** Mana ngəla rui bi fanjin bawo-a fanjə kərmaadən wahala.
 
-## How should I phrase what I say?
+## Awo gulgəkkiya futu wuljəgəkki?
 
-Use simple words, short sentences and a calm, low voice.
+Kəlma cidawa, kəlma gana-gana kuru kəla kənzəbe, cidawa-a faidatəne.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Kəlma fallan hangal fal.** «Jakku nəmgəne. Ngawo dəga deyaro leniye.» Amma sandi sammaa yadas bawo ro wulzənyi.
+- **Cu faidatəne, kəlma baditəbe gənanyi.** «Yaya Jean bowotəna» «Shi bowotəna» kozəna bayanna.
+- **Kəla cidawa lan mane, kura gənanyi.** Family Caregiver Alliance kəla cidawa-a kəla kura-a kozəna shawari cina.
+- **Waltəne, ngawo dəga kəlma faltəne.** Shi asutənyi ma, kəlma tilo dəga loktu fallan waltə gulne. Adə faidazənyi ma, sa gana kətəne kuru kəlma gade faidatəne.
+- **Fəletəne kuru manane.** Koppəro musko yikke, jakku indi-a fəletəne, bi kənashim burwobe-a fəletəne.
+- **Shi-a ro manane, shi-a kəlanzənyi.** NIA kam dəga na dəga bawo manajin gairo manazənyi-a kuru mana tada-a gairo manazənyi-a ro wakkiljo.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA koro saabe-a ro jawawu cidawa-a shawari cina. Misallo sandi-a adə gai:
 
-| Instead of | Try |
+| Adə badiyaramro | Adə jarabne |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Bune ro abi raamma?» | «Buni ra ngudu raamma wa?» |
+| «Futu karəngənəmma?» | «Kəmbu namma wa?» |
+| «Kana namm wa?» | «Bune dəga minti uwu lan dazənyi.» |
+| «Adə futu kədin ba.» | «Futu adəbe jarabne.» |
+| «Kəletəm bərəmbero ledəna dəga taktəna wa?» | «Kəletəm bərəmbero ledəna dəga hangal gənəkəna. Awo raamma dəga wulsəgəne.» |
+| «Waltə nyiro gulgəkənadə.» | Kənzəbero waltə jaawu yine, kəlma ngəla-a ro. |
 
-## How do I listen well?
+## Futu ngəlaro kərəngəkki?
 
-Listen for the meaning and the feeling, not just the words.
+Kəlma-a bas gənanyi, maana-a kuru karəgənzə-a fanne.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Kətəne.** Cidawa ngəwuro sa hangaltəbe. Kamanzəro kawu sawu mewu kuroro isne.
+- **Shi cidazənama bas kəlma fal banazəne.** Family Caregiver Alliance kam fal cidajinma kəlma falro banazəgə ngəla wuljana.
+- **Awo fanəmma tawattəgəne.** [Futube mana kəltəbe Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/communications) maana mana cinzəben dəga matəro kuru asutəro waltə wulgəne shawari cina. «Mota dəga hangalnəmbo wa?»
+- **Fəddu fuskabe-a kəli tilabe-a rui.** Mana-a cidajinma, NIA wuljin gai, fəddu fuskabe-a karəgənzə kaziyi, gargam bi wahala-a kəlma-a kozəna bayanna ro fəlezayin.
+- **Hangalnzə-a jire lan gone.** Hangal dəga awo kalkal lan dagai yaye, karəgənzə dəga jirea.
 
-## What if they say something that is not true?
+## Shi awo jire gənayi guljiya?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Kəlaanzənyi. Nandiro nasaramm gənanyi, kuru kam dəga nangaro bi rijaptə cizayin. Adə badiyaramro, karəgənzə-a asune, ngawo dəga hangalzə faltəne.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance karəgənzə-a kasaddu asune, ngawo dəga hangalnzə-a faltəro shawari cina. Misallo, yaana nyibe duli makkaranta-a ro nduli mataro manajiya:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Adə badiyaramro: «Yaa, nduli nyibe kurara. Adə saa fuwurwu kozəna.»
+- Adə jarabne: «Sandi ya ngəla-a ro nəm. Futu sandi-a matəmma wulsəgəne. Burwon awo laa bwiye wa?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association ye awo kasaddumbawo-a kəlaanzənyi ro shawari cina. Loktu ngəla-a carne: awo kalkal dəga kambo banajin ba ma, kolne.
 
-## How does communication change as dementia progresses?
+## Futu mana kəltəbe dementia-a kərmaadə kozəna-a ro faltəjin?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Kərmaadə sa-a faltəjin, adə nankaro futu nəm dəga ye faltəne. Alzheimer's Association kərmaadə kura yasku bayanna cina:
 
-| Stage | What helps |
+| Kərmaadə | Awo faidajin |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Burwobe | Shi mana kədin ba gənanyi. Mana-a ro kəlzgəne, shiro kallallo manane, banatəgə afi kəraajinma kəlaa korone, kuru ngəla ma kəli ngalwo faidatəne. |
+| Dawube | Na cidawa lan kam fal-a kam fal-a ro mana. Gana-gana manane, kəlaa rui, koro aa-a'aaye-a faidatəne, abu kədəbe-a kənashimro kənashimro wulne, kuru ngalwotənyi bi tənzənyi. |
+| Daryebe | Fuwunzəyin ro isne kuru wuni wuma gulne. Musko kuru alamaram-a faidatəro hangal yine. Musko, kowo, awo ruibe, awo fanobe kuru kənzabe-a faidatəne. Kam dəga na dəga bawo manajin gairo manazənyi. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Kam nduso gadegade, kuru kam tilo ye kawu ngəla-a kawu wahala-a mbeji. Shi-a futu kərmaadə ro gənanyi, kərmaadə karma sadinma ro hangal ganane.
 
-## Can pictures and activities make conversation easier?
+## Foto-a awo kəltəbe-a mana-a cidaro cizayin wa?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Aa. Foto kəltəbe-a wahala-a fulujin kuru nando-a sammaa awo rui kuru musko yiktəbe-a cin.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Foto koro-be.** [Conversation Cards](/games/conversation-cards/) foto-a kuru koro ngəwu-a, koro kənzanyi ma, cina.
+- **Foto yalwabe.** [Photo Pairs](/games/photo-pairs/) foto karənəmma-a awo kəltəbe cidawa ro faltəjin, ngəwuro labar ngəla-a kənzəgəro badiyaram.
+- **Mana ngəla asənama.** [Finish the Saying](/games/finish-the-saying/) mana ngəla asənama-a faidatəjin, ngawo dəga mana baditəbero hangal cin.
+- **Awo kəltəbe sammaa.** [Picture Pairs](/games/picture-pairs/) mana kəndobe lan musko nəmbe-a ro awo cina.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Kuru bayanna ro, [futu awo kəltəbe kəltəbe](/caregiving/how-to-play-together/) kuru [awo kəltəbe taktəgəbe](/activities/reminiscence/) rui. Letə-a kuru bowotə-a ro, futubemmaye [letə](/activities/visiting/) kuru [waya-a vidiyo-a lan mana](/activities/phone-and-video-calls/) rui.
 
-## What if I lose my patience?
+## Hangalni cidazənyi ma, abi dikki?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Adə wundumaro yaye cizayin. NIA hangalnəm cidazəna ma, loktu gana kambe kəlanzəro shawari cina. Nzəkko gadero lene, yintə gana-gana yane, kuru hangalnəm cidajiyama waltəne. Mana-a waltə badinəmma, kuru kam dəga hangalnəm cidawa-a ro jaawu cinmai. Hangal cidazəna dəga sawisoro waljiya, adəye banatəgə kura nyiro kərmaa, nəmgaltenəmma gənanyi. [Futube kəlanzə kam ngəla rostəbe](/caregiving/caregiver-self-care/) na banatəgə matəbe-a fəlejin.

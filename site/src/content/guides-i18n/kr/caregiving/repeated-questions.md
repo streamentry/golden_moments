@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Kam dementia-a kǝla-a kǝla kǝltǝram fal-a kǝriwo-a"
+seoTitle: "Dementia kǝla kǝriwo: awi manǝmi-a diomi-a"
+description: "Dalil kam dementia-a kǝla-a kǝla kǝltǝram fal-a kǝriwo-a, futu jawawu-a naptǝ-a, kǝrewa gana-a faidatǝ-a, kuru sa'a loktu-a daktǝr-a bowotǝ mbeji."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Kǝla kǝriwo-a dementia lan ngǝwu: kam dǝ adǝgaima kǝltǝram dǝ kǝriworo
+  tǝndoro-a asǝnji, kuru kǝltǝram dǝ hangal-a gǝnatǝ. Jawawu-a futu ye, kǝla
+  gana ye, badiyaram ma-a gai di, hangal cidiya dǝ ro jawawu ye, kuru adǝgaima
+  «nyiya kǝriworo» wullema. Jawawu-a na shi ro-a lan ruwo, loktu kǝla so
+  karǝnge-a lan bowone, kuru cidawa kǝji-a kǝltǝ. Faltǝ ngǝwu-a daktǝr-a
+  bowotǝ mbeji.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Kam dǝ adǝgaima kǝltǝram dǝ kǝriworo tǝndoro-a asǝnji; niyanzǝro gǝnyi."
+  - "Kǝltǝram dǝ hangal-a gǝnatǝ, misallo hangal loktu kǝla bǝlan-a, ra, amanna-a fandoro."
+  - "Futu ye, kǝla gana ye, kǝnskǝ lan jawawu ye, badiyaram ma-a gai. Adǝgaima «nyiya kǝriworo» wullema."
+  - "Ruwo, allo farak, saat, ra kalanda na shi ro-a lan gǝnatǝ-a jawawu-a cin."
+  - "Loktu kǝla hangal-a cidin-a karǝnge-a lan bowone."
+  - "Sǝni mǝradǝna sa'a tusu ye, kuru faltǝ ngǝwu-a daktǝr-a bowone."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Awiro baba-nzǝ dementia-a kǝla-a kǝla kǝltǝram fal-a kǝriwo-a?"
+    a: "Dementia takǝndu karǝnge-a bǝnatin, adǝgaima shi jirelan kǝriworo-a ra jawawu-a fanjǝna-a tǝndoro-a asǝnji. Sawu-a lan kǝltǝram dǝ hangal-a gǝnatǝ, misallo fuwuma awi waltǝ-a bǝlan hangal, ra amanna-a mǝradǝ. Hangal dǝ ro jawawu tǝdǝ kǝla so-a kǝriwo-a kozǝna faidatǝ."
+  - q: "Shi ro «nyiya kǝriworo» wulwu-a kǝji wa?"
+    a: "A'a. Adǝ shi ro tǝndoro-a bǝnistǝyin ba, kuru shi ro kam faltǝ-a cin gai tǝdin. Kungiya dementia-ye futu ye sawo wanzen kǝltǝram-a badiyaram ma-a gai jawawu ye, kuru jawawu-a kǝla gana ro tǝ."
+  - q: "Jawawu-a ruwo-a faidatǝ wa?"
+    a: "Faidajin, sa'a kam dǝ karatu-a dikin ma. Ruwo, allo farak kawu yakkǝye lan, saat kura, ra kalanda na shi ngǝwuro ro-a lan gǝnatǝ-a shi kǝlanzǝ jawawu-a rojin. Futu lan shi ro fǝleine, «nyiro wulgǝkǝna» wullema."
+  - q: "Sa'a ndayi loktu daktǝr-a ra cidawa bǝlan bowonjai?"
+    a: "Loktu dǝ karǝnge sa'a. Loktu daktǝr-a ra cidawa bǝlan kawu ngǝwu buro bowonin-a kǝla kǝriwo hangal-a sa ngǝwu ro waltin. Karǝnge sa'a, futu lan, fuwuma awi waltǝ-a bowone."
+  - q: "Sa'a ndayi kǝla kǝriwo-a dalil daktǝr-a bowotǝ ro waljin?"
+    a: "Kǝla kǝriwo, tǝlamma, ra hal faltǝ ngǝwuro waltǝna, ra sa ngǝwu-a ro awowa ngǝwu-a ro dunotǝna ya, daktǝr-anzǝ-a dǝrye bowone. Kǝndawu, kurun bǝlin, kǝnǝm zǝkkǝ, kǝji cido-a batǝ, ra nji samno-a faltǝ ngǝwu tǝlamma-a cidiya, shima delirium ti, kǝla kǝndondi ngǝwu-a mǝradǝjin."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+«Loktu daktǝr-a sa'a?» Mintar mewu ngawo: «Loktu daktǝr-a sa'a?» Kǝltǝram fal-a kǝriwo kǝriwo fanǝ, kam dementia-a kǝla-a kǝnana-a lan, awo ngǝwuro kǝmbu dǝ fal. Adǝ ngǝwuro waltǝ, niyanzǝro gǝnyi, kuru futu jawawu tǝdin-a kawu dǝ nduso-a ro kǝmbu ro tǝdin.
 
-## Why does someone with dementia ask the same question over and over?
+## Awiro kam dementia-a kǝla-a kǝla kǝltǝram fal-a kǝriwo-a?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Ngǝwu-a lan takǝndu dalil. Dementia takǝndu karǝnge-a bǝnatin, adǝgaima kam dǝ kǝriworo-a ra jawawu-a fanjǝna-a tǝndoro-a asǝnji. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) kǝla kǝriwo-a awo ngǝwu-a kuru mǝradǝna-a gai bayannin.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Sawu-a lan kǝltǝram dǝ hangal-a gǝnatǝ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) bayannin kǝla kǝriwo-a hangal, bana mǝradǝ, ra amanna bawo-a fǝletin, kuru kam dǝ amanna-a na annǝmbe-a mǝradǝjin. «Sa'a leniye?» ma'ananzǝ «Wu leniro hangalnjin» waltin. Kǝla bawo, rita, kǝla ngǝwu, ra faltǝ kawu lan adǝ-a cidiya, kuru kǝla kǝriwo-a mǝradǝ-a fǝletin, misallo na njiro le-ro ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Awi wulgǝkke mbeji?
 
-Answer calmly and briefly, as if it were the first time.
+Futu ye, kǝla gana ye, badiyaram ma-a gai jawawu ye.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Jawawu-a kǝla gana ye kuru fal ro tǝ.** «Loktu daktǝr-a sa biyu. Wu nyi-a rokko leniye.» Jawawu fal ro gǝnatǝ-a fando-a kǝmbu.
+- **Hangal dǝ ro jawawu ye.** «Nyi loktu daktǝr-a bǝlan kǝrammin. Yau kajiri, wu nyi-a rokko leniye. Awo diomi bawo.»
+- **Kǝla futu ye kuru kǝlanzǝ futu ro le,** shi ra'ama ya. Alzheimer's Association futu ro naptǝ-a kuru lamarra-a ra kǝla njawobe-a wuljin.
+- **Jawawu shi mǝradǝna-a ye,** sa ngǝwu shi kǝriworo-a. Alzheimer's Association shi kǝriworo sa ngǝwu-a ro jawawu-a kǝriwo wuljin.
 
-## What should I avoid?
+## Awi diomi bawo?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **«Nyi adǝ kǝriworo.»** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) shi karǝnge-a lan kǝriworo-a wuljin-a wuljin ba. Adǝ shi ro tǝndoro-a bǝnistǝyin ba, kuru shi ro faltǝ-a cin gai tǝdin.
+- **Bayan kǝla ngǝwu.** Mana ngǝwu-a awo tǝndoro-a ngǝwu.
+- **Kǝnshe luwur, shim ro suro, ra kǝla kǝriwu.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) naptǝ-a kuru gǝrgatǝ-a fǝletǝnyi-a wuljin. Adǝ kǝmbu; cidawa tusu bǝlan-a cidiya ro.
 
-## Simple tools that answer the question for you
+## Kǝrewa gana-a jawawu-a nyiro cin
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Sa'a kam dǝ karatu-a dikin ma, jawawu ruwo-a na shi ro-a lan gǝnatǝ-a mana lan-a kozǝna faidatǝ.
 
-| Tool | How to use it |
+| Kǝrewa | Futu faidatǝ |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Ruwo haruffa kura lan | «Yau loktu daktǝr-a sa 2. Mary kǝriyin.» Na shi ngǝwuro ro-a lan gǝne |
+| Allo farak | Kawu yakkǝye-a layin yaskǝ-a ro yakkǝ lan; suwa-a lan cinǝ kuru bǝlin ro ruwo |
+| Saat kura kawu-a kuru loktu-a lan | «Kawu ndayi?» kuru «Loktu dǝ isǝna wa?» bǝlan faidatǝ |
+| Kalanda | Kawu-a falle cinǝ; ziyarawa fuwu-a kǝlbe ro tǝ |
+| Foto annǝmbe-a | Kam isǝ-a foto «Ndu isǝna?» bǝlan jawawu-a cin |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Tǝlamma adǝ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) kuru [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) lan isǝna. Ruwo dǝ futu lan fǝleine («Allo dǝ rokko rulene») «nyiro ruwokǝna» wullema.
 
-## Tell them about events close to the time
+## Loktu kǝla so-a karǝnge-a lan bowone
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Loktu daktǝr-a ra cidawa bǝlan kawu ngǝwu buro bowonin-a kǝla kǝriwo hangal-a sa ngǝwu ro waltin. Family Caregiver Alliance kuru Alzheimer's Los Angeles nduso-a, loktu kǝla so hangal-a cidin-a, misallo loktu daktǝr-a ra kasala, karǝnge-a lan bowone wulzayin. Daji fuwuma awi waltǝ-a, fal fal ro, bowone.
 
-## Activities that can shift attention
+## Cidawa hangal-a faltǝro faidajin
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Jawawu-a yeno-a kuru hangal dǝ ro asuno-a ngawo, cidawa kǝji futu-a kǝlanzǝ-a faidajin, kǝla bawo dalil ya. Awo cidiya-a samma nduso cidawa kam dǝ ra'ama-a ro hangal-a faltǝro wulzayin.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Bǝri gana kǝmbu ro.** [Picture pairs](/games/picture-pairs/) foto-a fǝletǝ, adǝgaima awo tǝndoro-a bawo.
+2. **Cidawa annǝmbe.** Tawul kambo, soksu surto, ra tebur dawu. [Sort together](/games/sort-together/) adǝye allo lan.
+3. **Awo shi ngǝwuro ra'ama-a bǝlan mana.** [Conversation cards](/games/conversation-cards/) kǝla kǝriwo jawawu kalkal bawo-a cin.
+4. **Musko, letǝ gana, ra kǝmbu.** National Institute on Aging adǝ-a futu hangal faltǝro-a lan bowonjin.
+5. **Tusu gana.** Rokko napkǝne, windo-a ro ruine, ra [calm breathing](/games/calm-breathing/) rokko diye.
 
-If they return to the question, answer it again, kindly. That is fine.
+Shi kǝltǝram dǝ ro waljin ya, kǝriwo jawawu ye, kǝnskǝ lan. Adǝ kǝji.
 
-## Look for patterns
+## Fasal-a ro
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association kǝla kǝriwo-a sa'a loktu-a lan, am-a gǝre-a lan, ra na-a lan waltǝ-a ro-a shawari cin. Am manabe isǝ-a buro, ra kajiri ngawo, kǝla kǝriwo-a badijin ya, buro dawu-a raktǝ: ruwo ziyarawa bǝlan, cidawa annǝmbe dabbarratǝ, na futu. Kajiri ngǝwuro kǝmbu ya, shawarande [cidawa futu kajiri ngawo bǝlan](/caregiving/late-day-restlessness/) faidajin.
 
-## Take care of yourself
+## Kǝlanzǝ-a kǝna
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Kǝltǝram fal-a kǝriwo meru fi yakkǝ ro jawawu tǝ-a kǝmbu. Naptǝ-nzǝ bawo ro tǝdin-a asuna-a kuru kam dǝ amanna lan ya, [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) shawari cin gai, mintar gana ro njim gǝde ro lene kuru yintǝ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) kǝnana so-a bana-a mǝradǝ-a kuru tusu loktu-a (respite care) tǝma-a shawari cin. Tǝlamma gǝde [shawari kǝnana kǝlanzǝ bǝlan](/caregiving/caregiver-self-care/) lan mbeji.
 
-## When should I call a doctor?
+## Sa'a ndayi daktǝr-a bowonjai?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Kǝla kǝriwo, tǝlamma, ra hal faltǝ ngǝwuro waltǝna, ra sa ngǝwu-a ro awowa ngǝwu-a ro dunotǝna ya, daktǝr-anzǝ-a dǝrye bowone. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) hal faltǝ ngǝwu-a ra dǝrye faltǝ-a, tai kǝndawu-a ra kurun faltǝ-a ngawo, daktǝr-a dǝrye fǝlejin wuljin. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) bayannin kǝndawu, kurun, nji samno, kǝnǝm zǝkkǝ, ra kǝji cido-a batǝ-a delirium cidiya, tǝlamma ngǝwu ngǝwuro kǝla kǝndondi-a mǝradǝjin. Nduso-a tajirwa-a lan ya, 112 bowone.

@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "الزایمرس وٲلؠن خٲطرٕ سَرگَرمی تہٕ گِند"
+seoTitle: "الزایمرس سَرگَرمی تہٕ گِند: دٔرجہٕ مطٲبق"
+description: "پرٛتھ دٔرجس پؠٹھ الزایمرس وٲلؠن خٲطرٕ سَرگَرمی تہٕ گِند، تِمَن پُرانؠن ہُنرن تہٕ یادن پؠٹھ بنٲوِتھ یِم اکثرٕ روزان، تہٕ مِلِتھ کھیلنہٕ خٲطرٕ مفت گِند۔"
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  الزایمرس وٲلِس کٲنٛسہِ شخصہٕ سٕندِ خٲطرٕ جان سَرگَرمی تِمن چیٖزن پؠٹھ ٹِکِتھ آسَن یِم واریاہ کالس روزان:
+  واریاہ کالہٕ پؠٹھۍ کٔرِمٕتؠ ہُنر، پرٛٲنؠ گِیت، مانوس کأم تہٕ حِواس۔ گۄڈنِکِس دٔرجس منز
+  تاش، بورڈ گِند، کھؠن پَکاون تہٕ نیرُن اکثرٕ ٹھیک چَلان۔ مَنزِم دٔرجس منز
+  کٔپٕڑ ژارُن، چیٖزٕ الگ کرٕنۍ، گِیت گاوُن، فوٹو البم وُچھُن تہٕ سادٕ تصویری گِند آزمٲوِو۔
+  بیماری ہِنٛدِس ٲخری دٔرجس منز موسیقی، چھُہُن تہٕ سٕتھ اَہم آسَن۔ تَمی مُطٲبق چُنِو
+  زِ شخص اَز کِتھ کٔنؠ چھُ۔
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "الزایمرس چھُ ڈیمینشیا ہُنٛد عام ترین سبب، تِمَو مۄجوٗب ڈیمینشیا خٲطرٕ سَرگَرمی ہِنٛزٕ تجویزٕ یِتہِ لٲگُ آسَن۔"
+  - "نوِ معلومات یاد تھاون چھُ عموماً سبٕ کھۄتہٕ مشکل، یَتھ حالانکہ واریاہ برٛونہہِ ہیٚچھمِتؠ ہُنر تہٕ گِیت اکثرٕ زیادٕ کالس روزان۔ تِمنؠ پؠٹھ بنٲوِو۔"
+  - "دٔرجٕ میلِتھ گژھان تہٕ جان تہٕ مشکل دۄہ آسُن چھُ عام۔ تِمَو مُطٲبق چُنِو یِکینژھاہ شخص اَز کٔرِتھ ہیکہِ تہٕ یَتھ نِش مَزٕ تُلِتھ ہیکہِ۔"
+  - "تِم گِند چُنِو یِمن منز کانٛہہ ٹایمر، سِکور یا سوال جواب آسہِ نہٕ، تہٕ تصویرن دِیِو نَظرِ تل روزنہٕ۔"
+  - "وُچھُن، کانٛہہ چیٖز اَتھس منز تھاوُن یا بس مِلِتھ بِہُن تہِ چھُ حِصہٕ نِنہٕ برابر۔"
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "الزایمرس وٲلِس کٲنٛسہِ شخصہٕ سٕندِ خٲطرٕ کٔہ سَرگَرمی چھےٚ جان؟"
+    a: "مانوس سَرگَرمی یِم واریاہ سادٕ بنٲوِمٕتؠ آسَن: کٔپٕڑ ژارُن، میز سَجاوُن، مِلِتھ کھؠن پَکاون، موسیقی تہٕ گِیت گاوُن، فوٹو وُچھُن، پَھیرِ گژھُن، باغبٲنی تہٕ پالِو جانورس سٟتؠ وقت گزارُن۔ سادٕ تصویری گِند، آسان جِگ سا پَزل تہٕ کَتھ باتھ ہُنٛد کارڈ تہِ واریاہن لُکن خٲطرٕ ٹھیک چَلان۔ تِمے چُنِو یِم شخصہٕ ہمیشہ پسند ٲسۍ، تہٕ تِم تٔس سٟتؠ مِلِتھ کٔرِو۔"
+  - q: "کیا الزایمرس وٲلؠن خٲطرٕ گِند چھا فٲیدٕ مند؟"
+    a: "اگر شخصس گِند پسند آسَن، تیٚلہِ ہیکَن گِند مِلِتھ وقت گزارنُک اَکھ خوشگوار ذریعہٕ ٲسِتھ۔ کانٛسہِ تہِ گِنٛدس مُتعلِق یِہ ثٲبِت چھُنہٕ گٔمُت زِ سُہ الزایمرس کٔرِ علاج، سُست یا بند، تِمَو مۄجوٗب مَزٕ خٲطرٕ گِند چُنِو: بٔڈ تصویرٕ، کم اِنتخاب، تہٕ کانٛہہ ٹایمر، سِکور یا غلط جوابُک آواز آسہِ نہٕ۔"
+  - q: "کیا ڈیمینشیا ہِنٛزن سَرگَرمیَن تہٕ الزایمرس ہِنٛزن سَرگَرمیَن منز کانٛہہ فَرَق چھا؟"
+    a: "زیادٕ تر چھُنہٕ۔ الزایمرس چھُ ڈیمینشیا ہُنٛد عام ترین سبب، تہٕ تِمے سَرگَرمی ہِنٛزٕ تجویزٕ یِتہِ لٲگُ آسَن۔ الزایمرس منز یُس چیز مددگار آسہِ ہیکان چھُ سُہ زِ حال حالٕچ یاد عموماً گۄڈٕ مٔشِتھ چھےٚ گژھان، تِمَو مۄجوٗب پُرانؠن ہُنرن، گِیتن تہٕ معمولاتن پؠٹھ بنٲوِمژٕ سَرگَرمی اکثرٕ واریاہ آسانی سان چَلان۔"
+  - q: "ٲخری دٔرجہٕ ہُنٛد الزایمرس وول کانٛسہِ شخص کِتھ کٔنؠ ہیکہِ اَز تہِ مَزٕ تُلِتھ؟"
+    a: "پسندیدٕ موسیقی، ہَولہٕ ہَولہٕ اَتھس مالِش، نَرَم چیٖزٕ یِم اَتھس منز تھٲوِتھ ہیکَن، کانٛسہِ پؠٹھہٕ پوٗرُن بوزُن، نیٚبر کُن بِہُن، تہٕ تِژھ کٲنٛسہِ ہُنٛد سٕتھ یَس پؠٹھ تٔمِس بھروسہٕ آسہِ۔ یِہ تھٲوِو مختصر تہٕ پُرسَکون، تہٕ تِمَن ہُنٛد بُتھ تہٕ جسم وُچھِو زِ تِمن کیاہ چھُ پسند یِوان۔"
+  - q: "بہٕ کِتھ کٔنؠ ہیکہٕ الزایمرس وٲلِس کٲنٛسہِ شخصس کانٛسہِ سَرگَرمی منز دِلچسپی پٲدٕ کٔرِتھ؟"
+    a: "سَرگَرمی ہُنٛد اعلان کرنہٕ بجاے مدد مٔنگِو، سورُے کینہہ گۄڈٕ تھٲوِو تیار، تہٕ پانہٕ کٔرِو شروع تاکہ سُہ شٲمِل ہیکہِ گٔژھِتھ۔ دۄہُک سُہ وقت چُنُن یَلہِ سُہ سبٕ کھۄتہٕ بہتر آسہِ چھُ واریاہ مددگار۔ اگر سُہ نہٕ وَنہِ، پتہٕ بیٚیہِ کوٗشِش کٔرِو یا اَکھ سادٕ شکل پؠش کٔرِو۔"
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+اگر تُہُنٛدِس کٲنٛسہِ عزیزس الزایمرس چھُ، تیٚلہِ ٲسِو تۄہہِ شاید وُچھمُت زِ کینژھاہ چیٖزٕ جلدی مٔشِتھ چھےٚ گژھان، یَتھ حالانکہ کینژھاہ ٹِکِتھ چھےٚ روزان۔ شاید تِمن اَز صُبحٕک فون کال یاد روزِ نہٕ، مگر اَکھ حَمدُک پرٛتھ لفظ، تَولِی ژارنٕچ ہمیشہ وال ہُنر یا سوچنہٕ وَرٲے تاش وٲرِتھ ہیکَن۔ جان سَرگَرمی چھےٚ تِمنؠ ٹِکہٕ وٲلؠن ہُنرن پؠٹھ بنٲوِمژٕ۔ یِہ صفہٕ چھُ گۄڈٕ وَنان زِ امِیُک کیاہ وجہ چھُ، پتہٕ چھُ پرٛتھ دٔرجہٕ خٲطرٕ تجویزٕ دِوان، تہٕ یَتھ سایٹِہ پؠٹھ موجود تِم مفت گِند یِم تِمن سٟتؠ موزوں آسَن ہیکَن۔
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## کیا سَرگَرمیَن ہُنٛدِس معاملس منز الزایمرس تہٕ ڈیمینشیا الگ چھا؟
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+واریاہ نہٕ۔ ڈیمینشیا چھُ اَکھ عام اصطلاح، تہٕ الزایمرس چھُ اَمِیُک عام ترین سبب: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) چھُ وَنان زِ یِہ چھُ 60 نِش 80 فی صد ڈیمینشیا ہِنٛزن حٲلتن ہُنٛد سبب آسان۔ ڈیمینشیا خٲطرٕ سَرگَرمیَن مُتعلِق تقریباً سورُے کینہہ چھُ الزایمرس پؠٹھ تہِ لٲگُ، سانہِ [101 سَرگَرمی ہِنٛزٕ تجویزٕ](/activities/ideas/) س۟تؠ۔
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+یُس چیز زانُن فٲیدٕ مند آسہِ ہیکان چھُ تبدیلی ہُنٛد عام ترتیب۔ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) چھُ وَنان زِ الزایمرس چھُ گۄڈٕ دِماغٕکؠن تِمن حِصن نقصان واتناوان یِم یادداشتہِ سٟتؠ وابستہٕ آسَن، تہٕ پتہٕ چھُ زبان، سوچنہٕ سَمجنہٕ تہٕ سماجی رویہِ پؠٹھ اثر پَیوان۔ Alzheimer's Association چھُ وَنان زِ سبٕ کھۄتہٕ عام گۄڈنِچ نِشٲنی چھےٚ نوِ ہیٚچھمِژ چیز یاد تھاونس منز دِقّت۔ پرٛتھ کانٛہہ چھُ مُختلف آسان، تہٕ واریاہن لُکن چھےٚ رٔلِمِژ وجوہات آسان، مگر یِہ ڈول چھُ وَنان زِ عموماً کیاہ چَلان۔
 
-## What kinds of activities suit Alzheimer's best?
+## الزایمرس خٲطرٕ کٔہ قسمٕچ سَرگَرمی چھےٚ سبٕ کھۄتہٕ موزوں؟
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+تِم سَرگَرمی یِم پُرانؠن، واریاہ کالہٕ پؠٹھۍ مَشقی علمس پؠٹھ ٹِکِتھ آسَن، چھےٚ عموماً تِمن کھۄتہٕ آسانی سان چَلان یِمن منز کانٛہہ نوِ چیز ہیٚچھِن تہٕ یاد تھاوٕنۍ آسہِ۔
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **واریاہ کالہٕ پؠٹھۍ کٔرِمٕتؠ ہُنر۔** Alzheimer's Association چھُ وَنان زِ اَکھ شخص ہیٚکہِ اَز تہِ پیانو پؠٹھ تِم سادٕ گِیت وَجٲوِتھ یِم تٔمِ برٛونہہِ ہیٚچھمِتؠ ٲسۍ۔ شال بُنُن، لَکڑ رَگڑُن، تاش مِلاوُن، مَیدٕ گُندُن تہٕ کٔپٕڑ ژارُن چھِ یِتھی۔
+- **پرٛٲنؠ گِیت تہٕ مانوس موسیقی۔** واریاہ لُکھ چھِ اَز تہِ پننِس جواں کالہٕکؠن گِیتن، حَمدن تہٕ پننِہ خاندَرٲوِ ہِنٛدن گِیتن ہُنٛد پرٛتھ لفظ زانان۔ وُچھِو [موسیقی سَرگَرمی](/activities/music/)۔
+- **مقصد وٲلؠ دۄہ دۄہٕکؠ کأم۔** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) چھُ برتن چَھلنہٕ، میز سَجاونہٕ، موزٕ الگ کرنہٕ تہٕ کٔپٕڑ ژارنہٕ یِمن سَرگَرمیَن منز شٲمِل کران یِمن نِش لُکھ مَزٕ تُلِتھ ہیکَن۔ کارآمد مَحسوٗس کرُن چھُ اَہم۔
+- **یاد کرنہٕ بجاے پَژھ نُن۔** مِلِتھ وٲلِس تصویرس کُن اِشارٕ کرُن چھُ یادٕ پؠٹھہٕ ناو وَننہٕ کھۄتہٕ آسان۔ امِی مۄجوٗب چھےٚ تِم تصویری گِند یَتھ منز سورُے کینہہ نَظرِ تل آسہِ، سوال جوابن کھۄتہٕ بہتر چَلان۔
+- **حِواس۔** چھُہُن، بۄے، گرمی، ذٲیقہٕ تہٕ آواز چھِ تَتہِ تہِ معنی تھٲوِتھ یَلہِ لفظ مشکل بَنان۔ وُچھِو [حِسّی سَرگَرمی](/activities/sensory/)۔
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+یِم چیٖزٕ عموماً کم ٹھیک چَلان: کانٛہہ چیٖز یَتھ منز گھَڑِی آسہِ، نوِ قٲعدٕ ہیٚچھنؠ آسَن، واریاہ قدم یاد تھٲوِنؠ آسَن، یا تِم سوال یِم یادداشتچ پَرکھ کرَن، مِثالَن «تۄہہِ چھا یاد یِہ کُس چھُ؟» یِم چھِ الزایمرس ہُنٛدِس مشکل حِصس براہِ راست سامہِ کران۔
 
-## Activities for early-stage Alzheimer's
+## گۄڈنِکِس دٔرجہٕ ہُنٛدِس الزایمرس خٲطرٕ سَرگَرمی
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+گۄڈنِکِس دٔرجس منز، [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) مُطٲبق، ہیٚکہِ اَکھ شخص اَز تہِ گاڑِ چَلاوِتھ، کأم کٔرِتھ تہٕ سماجی سَرگَرمیَن منز حِصہٕ نِتھ، حالانکہ تٔس چھےٚ واریاہ لٹہِ یاد راوان مَحسوٗس گژھان، مِثالَن مانوس لفظ یا چیٖزٕ کَتہِ تھٲوِمژٕ چھےٚ مٔشِتھ گژھان۔ سبٕ کھۄتہٕ جان طریقہٕ چھُ شراکت: تِمن پٕرٛژھِو زِ تِم کیاہ کرُن روزُن یژھان چھِ تہٕ کٔہ مدد چھےٚ تِمن یژھان۔
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **موجودٕ مشغلہٕ تھٲوِو جٲری۔** گالف، برج، شال بُنُن، کورس یا کلیسا ہُنٛد جَماعت، لۄکچار تبدیلیَو سٟتؠ، مِثالَن لۄکچار جَماعت تہٕ پُرسَکون وقت۔
+2. **مانوس تاش تہٕ بورڈ گِند کھیٚلِو۔** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) چھُ گۄڈنِکِس دٔرجہٕ خٲطرٕ ٹریویا، لفظ ژھانڈُن، تاش تہٕ بورڈ گِندن ہُنٛد ذِکر کران۔ اگر سِکور تھاوُن تِمن پریشان کرِ، تیٚلہِ کھیٚلِو اَکھ ٹِم ہِیوِ یا سِکور ترٲوِو۔
+3. **مِلِتھ کھؠن پَکٲوِو۔** یِم ترکیب تِمن زَبانہِ یاد چھےٚ، تِم دِیِو سُہ چَلاونہٕ، یَتھ حالانکہ تۄہہِ کٔرِو قدم پٔرِتھ مدد۔
+4. **زِندگی ہِنٛزِ کَہٲنی ہُنٛد اَکھ منصوبہٕ کٔرِو شروع۔** فوٹو، ترکیبہٕ تہٕ کَہٲنی أکِس سکریپ بُکس منز یَتھ ہُنٛد رٔختہٕ تِمے آسَن۔ وُچھِو [یاد تازٕ کرنہٕ واجِنؠ سَرگَرمی](/activities/reminiscence/)۔
+5. **نیرنہٕ گٔژھِو۔** پُرسَکون وَقتس منز پسندیدٕ ریستوران، اَکھ چھوٹ دۄرہٕ خٲطرٕ عجٲب گھر، یا پارکس منز سیر۔
+6. **تِم پَزل آزمٲوِو یِم تِمے چُنَن۔** بٔڈ اَچھرو وٲلؠ کراس ورڈ، لفظ ژھانڈُن تہٕ جِگ سا۔ وُچھِو [ڈیمینشیا خٲطرٕ پَزل](/activities/puzzles/)۔
 
-More ideas: [early-stage activities](/activities/early-stage/).
+مزید تجویزٕ: [گۄڈنِکِس دٔرجہٕچ سَرگَرمی](/activities/early-stage/)۔
 
-## Activities for middle-stage Alzheimer's
+## مَنزِم دٔرجہٕ ہُنٛدِس الزایمرس خٲطرٕ سَرگَرمی
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association چھُ مَنزِم دٔرجس عموماً سبٕ کھۄتہٕ زیوٗٹھ دٔرجہٕ قرار دِوان، تہٕ وَنان چھُ زِ یِہ ہیٚکہِ واریاہن ؤرِیَن روزِتھ۔ لفظ رٔلِتھ چھِ گژھان، پریشٲنی چھےٚ آسانی سان بَڑان، تہٕ شخصس چھےٚ زیادٕ دیکھ بھالٕچ ضرورت پیوان۔ Alzheimer's Foundation of America چھُ وَنان زِ واریاہن لُکن چھےٚ سَرگَرمی شروع کرنہٕ یا جٲری تھاونہٕ خٲطرٕ مددچ ضرورت آسان۔ تُہُنٛد کردار چھُ اَتھ وِزِ چیزٕ تیار کرُن، وَننہٕ بجاے ہاوُن، تہٕ مشکل حِصہٕ پانہٕ سَمبالُن۔
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **ژٲرِو، الگ کٔرِو تہٕ جوٗڑ کٔرِو۔** تَولِی، موزٕ، چَمچہٕ، رَنگ مطٲبق بَٹن۔ اصلی کأم، مِلِتھ۔
+2. **موسیقی سٟتؠ گٲوِو تہٕ ہِلِو۔** تٲلی دِیِو، ہَولہٕ ہِلِو یا کچنس منز ناچِو۔ پانہٕ کٔرِو گاوُن شروع، تِمن دِیِو شٲمِل گژھنہٕ۔
+3. **فوٹو البم وُچھِو۔** یِہ وَنِو یِہ تۄہہِ کیاہ چھُو نظرِ گژھان، تہٕ کَہٲنی خٲطرٕ دِیِو دَعوت: «کیاہ خوبصوٗرت گاڑ! مےٚ وَنِو امِیُک بارس منز۔» تِم یِم تہِ ناو وَنن، تِمن سٟتؠ روزِو۔
+4. **سادٕ تصویری گِند کھیٚلِو۔** [Picture pairs](/games/picture-pairs/) ژور نِش شے ٹایلن سٟتؠ تہٕ تصویرن نَظرِ تل تھٲوِتھ، یا [Find the same](/games/find-the-same/) زٕ یا ترٛے اِنتخابن سٟتؠ۔
+5. **مانوس مَحاوَرٕ پورٕ کٔرِو۔** «دۄہس اَکھ سیب...» واریاہ برٛونہہِ ہیٚچھمِتؠ مَحاوَرٕ چھِ اکثرٕ آسانی سان یِوان۔ [Finish the saying](/games/finish-the-saying/) آزمٲوِو، یَتہِ تۄہہِ ہیکِو أکِس ٹیپس سٟتؠ کانٛہہ تہِ ٲخری لفظ ہاوِتھ۔
+6. **پۄدٕ دِیِو آب تہٕ سنبھٲلِو۔** گَرَکؠ اَندرِم پۄدٕ یا تُلہٕ کھیتر، لۄکچہِ آب دِنہٕ واجِنہِ کین سٟتؠ۔
+7. **خاندٲنی فوٹو سٟتؠ جوٗڑ لگاونُک گِند بنٲوِو۔** [Photo pairs](/games/photo-pairs/) چھُ تِمن فوٹو استعمال کران یِم تۄہہِ پننِس ڈِوایسس پؠٹھ چُنو، تہٕ تِم چھےٚ نہٕ زانٛہہ تہِ ڈِوایسہٕ نِش نیٚبر گژھان۔
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+مزید تجویزٕ: [مَنزِم دٔرجہٕچ سَرگَرمی](/activities/middle-stage/)۔
 
-## Activities for late-stage Alzheimer's
+## ٲخری دٔرجہٕ ہُنٛدِس الزایمرس خٲطرٕ سَرگَرمی
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+ٲخری دٔرجس منز، Alzheimer's Association مُطٲبق، چھُ لُکن ماحولس جواب دِنُک تہٕ کَتھ باتھ جٲری تھاونُک صلاحیت گژھان، حالانکہ تِم ہیٚکن اَز تہِ کینژھاہ لفظ یا جُملہٕ وَنِتھ۔ یَتھ وِزِ مَطلَب چھُ سَرگَرمی ہُنٛد آرام تہٕ رابطہٕ، تَتہِ نِتھ یَتہِ شخص آرام کران آسہِ۔
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **تِہُنٛز پسندیدٕ موسیقی** ہَولہٕ وَجٲوِو، یُتھ ٹی وی مَزاحمَت نَہ کرِ۔
+2. **اَتھس دِیِو ہَولہٕ ہَولہٕ مالِش** تِژِہ لوشنہِ سٟتؠ یۄسہٕ خۄشبو تِمن پسند آسہِ۔
+3. **نَرَم چیٖزٕ دِیِو تھاونہٕ خٲطرٕ:** اَکھ گَرَم شال، اَکھ فِلیس یا اَکھ ہَموار کٔنؠ۔
+4. **زورٕ سان پٔرِو** حَمد، نَظمہٕ یا کانٛہہ مانوس کَہٲنی۔ تال چھےٚ معنی کھۄتہٕ زیادٕ اَہم۔
+5. **نیٚبر سایس منز بِہِو،** یا تِژِہ کھڑکِہ نِش یَتہِ جانور وُچھنہٕ یِن۔
+6. **مِلِتھ وُچھِو اَکھ بٔڈ تصویر۔** اَکھ سۄریہ مۄکھ یا اَکھ ہوٗن یُس ٹیبلیٹ سکرینس پؠٹھ پورٕ نظرِ یِیہِ، تہٕ تۄہہِ وَنِو یِہ تۄہہِ کیاہ چھُو نظرِ گژھان۔
 
-More ideas: [late-stage activities](/activities/late-stage/).
+مزید تجویزٕ: [ٲخری دٔرجہٕچ سَرگَرمی](/activities/late-stage/)۔
 
-## Which games work for someone with Alzheimer's?
+## الزایمرس وٲلِس کٲنٛسہِ شخصہٕ سٕندِ خٲطرٕ کٔہ گِند چھِ ٹھیک؟
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+تِم گِند چُنِو یِمن منز ناکام گژھنُک کانٛہہ موقع آسہِ نہٕ۔ یَتھ سایٹِہ پؠٹھ پرٛتھ گِند چھُ مفت، براؤزرَس منز چھُ چَلان تہٕ اَتھ منز چھُنہٕ کانٛہہ ٹایمر، سِکور یا سائن اَپ۔
 
-| Game | What you do | Often suits |
+| گِند | تۄہہِ کیاہ چھُو کرُن | عموماً موزوں |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | بٔڈ تصویرٕ جوٗڑ کٔرِو؛ تِم ہیکَن برونٹھ کُن تھٲوِتھ | گۄڈنِیُک تہٕ مَنزِم دٔرجہٕ |
+| [Find the same](/games/find-the-same/) | تَتھ تصویرس کُن دِیِو ٹیپ یۄسہٕ ہؠرِ کِنہِ وٲلِس تصویرِ ہِیوِ آسہِ | مَنزِم تہٕ ٲخری دٔرجہٕ، مَدَتھ سٟتؠ |
+| [Finish the saying](/games/finish-the-saying/) | أکِس مانوس مَحاوَرُک ٲخری لفظ چُنِو، یا ہٲوِو سُہ | گۄڈنِیُک تہٕ مَنزِم دٔرجہٕ |
+| [Picture puzzle](/games/picture-puzzle/) | 4 یا 9 ٹُکرٕ اَدلہٕ بَدلہٕ کٔرِتھ جایِ تھٲوِو، تصویر ہٲوِتھ | گۄڈنِیُک تہٕ مَنزِم دٔرجہٕ |
+| [Conversation cards](/games/conversation-cards/) | اَکھ تصویر تہٕ کَتھ باتھ خٲطرٕ اَکھ کھُلہٕ سوال | کانٛہہ تہِ دٔرجہٕ، کَتھ باتھ خٲطرٕ کٲنٛسہِ سٟتؠ |
+| [Photo pairs](/games/photo-pairs/) | پننؠن فوٹو سٟتؠ بنووُمُت جوٗڑ لگاونُک گِند | گۄڈنِیُک تہٕ مَنزِم دٔرجہٕ |
+| [Coloring](/games/coloring/) | گۄڈٕ چُنِو اَکھ رَنگ، پتہٕ تصویرُک اَکھ حِصہٕ؛ یا چھاپِو سُہ | کانٛہہ تہِ دٔرجہٕ، مَدَتھ سٟتؠ |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+مِلِتھ بِہنہٕ، کٲژاہ مدد کرٕنۍ تہٕ کَر رُکُن، امِیُک بارس منز پٔرِو [ڈیمینشیا وٲلِس کٲنٛسہِ شخصس سٟتؠ گِند کِتھ کٔنؠ کھیٚلِنؠ](/caregiving/how-to-play-together/)۔ اگر تۄہہِ «یادداشتہٕ ہِنٛد گِند» مُتعلِق سوچان چھو، تیٚلہِ وُچھِو [ڈیمینشیا وٲلؠن بزرگن خٲطرٕ یادداشتہٕ ہِنٛد گِند](/activities/memory-games/)۔
 
-## How to make any activity easier
+## کانٛسہِ تہِ سَرگَرمی کِتھ کٔنؠ بنٲوِو آسان
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA ہُنٛد مشورٕ چھُ کینژھن عادتن پؠٹھ ٹِکِتھ: سَرگَرمی چُنِو تٔمِس چیزس مُطٲبق یِہ شخص کٔرِتھ ہیکہِ، شروع کرنس منز کٔرِو مدد، پریشٲنی پؠٹھ تھٲوِو نَظر، یِہ بنٲوِو یقینی زِ تٔس گژھہٕ کامیٲبی مَحسوٗس، تہٕ اگر تِمن صرف وُچھُن پسند آسہِ تیٚلہِ دِیِو تِمن وُچھنہٕ۔
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **دۄہُک سُہ وقت چُنِو یَلہِ تِم سبٕ کھۄتہٕ بہتر آسَن،** تہٕ وقت تھٲوِو مختصر۔
+- **سورُے کینہہ گۄڈٕ تھٲوِو تیار** تاکہ تۄہہِ ہیکِو فوراً شروع کٔرِتھ۔
+- **دَعوت دِیِو، حُکم مَہ دِیِو۔** «مےٚ کٔرِو نا ہَناہ مدد؟» چھُ «سَرگَرمی ہُنٛد وقت گو» کھۄتہٕ بہتر چَلان۔
+- **گۄڈنِیُک قدم کٔرِو پانہٕ** تہٕ تِمن دِیِو شٲمِل گژھنہٕ۔
+- **اَکھے وقتس منز اَکھ قدم تہٕ اَکھ اِنتخاب دِیِو۔**
+- **تِمن دِیِو پننِس طریقس پؠٹھ کرنہٕ۔** ٹیڑھ تَولِی تہِ چھِ ٹھیک۔
+- **تَتہِ رُکِو یَتہِ وۄنۍ تہِ خوشگوار آسہِ۔** جلدی ختم کرُن چھُ اَکھ جان نتیجہٕ، ناکامی نہٕ۔ اگر تِم اِنکار کرَن، وُچھِو [یَلہِ ڈیمینشیا وول کانٛہہ شخص نہٕ وَنہِ](/caregiving/when-they-say-no/)۔
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) چھُ یِہ سادٕ طریقہٕ وَنان: مَزس پؠٹھ دِیِو توجُہ، کامیٲبی پؠٹھ نہٕ۔

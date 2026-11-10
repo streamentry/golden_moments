@@ -1,34 +1,32 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "ڈیمینشیا سان بزرگن ہُند یاداشتہ کھیل: نرم ورژٔن، بغیر آزمائش"
+seoTitle: "ڈیمینشیا باپت نرم یاداشتہ کھیل"
+description: "ملانُک، تصویری تہٕ کارڈ کھیٖل ڈیمینشیا سان بزرگن باپت، تہٕ کِتھہ کھیٖلو ییٚمہ کِسہ تہِ آزمائش محسوس نہ گژھ: تصویریں سامنے تھایو، کم جوڑٕ، سکور نہ، ٹیم سان کھیٖلو."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  ڈیمینشیا سان بزرگن باپت یاداشتہ کھیٖل تِم یُت بہتر چھِ یتھ یاداشت پٲٹھۍ دار نہ آسہ۔
+  تصویریں سامنے تھٲوِت ملانُک کھیٖل کھیٖلو، چوارہ تا چھِ ٹائل استعمال کٔریو، ٹیم سان کھیٖلو تہٕ سکور
+  چھوٚڑِو۔ کِہِنہِ تہِ یاد کرنہٕ نِش بتھ، یُس شےٚ سامنہ چھِ تَس پیژھن آسان گژھان چھُ۔ کھیٖلُک مقصد مزٕ ہونہِ چھُ، نہ ز کُینہِ نتیجہ۔
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "معیاری یاداشتہ کھیٖلن مَنٛز کارڈ لُکھیٚم تھاونہ یِوان چھِ، یِم بالکل تہِ مشکل چھِ یِم ڈیمینشیا آسانی سان مشکل بَناوان چھُ۔ یِمَس بَدلہ تصویریں سامنے تھایو۔"
+  - "کم ٹُکڑے، بوٚڈ تصویریں تہٕ اکِس وار ایک انتخاب کٔریو تا کھیٖل خوشگوار روزہ۔"
+  - "ٹیم سان کھیٖلو، باری باری مدد کٔریو تہٕ سکور چھوٚڑِو۔ کِسہ تہِ سامنہ الگ تھوٚد آزمائش نہ کرایو۔"
+  - "کِسہ تہِ یاداشتہ کھیٖل سٍتھ ڈیمینشیا علاج، کم، روٚک یا سست کرنُک ثبوت نہ چھُ۔ تِم تِکیہ مزٕ وقت سٍتھ گزارنہٕ باپت کھیٖلو۔"
+  - "یُس وَقت چھُ مزٕ لَگہان، تَتھ وَقت کھیٖل بند کٔریو۔ تصویریں پٲٹھۍ گپ شپ کرُن تہِ اک مضبوط نتیجہ ہیٚکہ چھُ۔"
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "ڈیمینشیا سان کِسہ شخص باپت بہتر یاداشتہ کھیٖل کوٚنسا چھُ؟"
+    a: "اک ملانُک کھیٖل یتھ مَنٛز بوٚڈ، مانوس تصویریں چھِ تہٕ یِم سامنے تھاونہ یِہیٚکَن، مثالہ طور پؠٹۍرن ملان (Picture pairs) چوار یا چھ ٹائل سٍتھ۔ سامنہ موجود تصویری ہُنٛد جوڑ لبنُک مزٕ گژھان چھُ، تہٕ مختصر مدتی یاداشت آزمائش نہ چھُ بنوان۔ 'یُس ایٚکہ تلاش کٔریو' (Find the same) تہِ سادہ تر چھُ، یتھ مَنٛز دو تا چوار انتخابن مَنٛز اک تصویری ہُنٛد میل لبنہِ آسہ۔"
+  - q: "کیا یاداشتہ کھیٖلن ڈیمینشیا سٍتھ مدد گژھہ؟"
+    a: "کِسہ تہِ یاداشتہ کھیٖل سٍتھ ڈیمینشیا علاج، کم، روٚک یا بند کرنُک ثبوت نہ چھُ؛ کوکرین رِویو (Cochrane review) ہِنٛز مطالعہ سٍتھ پتا چلا چھُ ز کمپیوٹر پر دماغی تربیت سٍتھ متعلق ثبوت اتنا محدود چھُ ز ییٚمہ پتہ نہ ہیٚکہ لَگہ ز یِم ڈیمینشیا روٚکن مَنٛز مدد دِوان چھِ۔ تاہم کھیٖل اک گرم تہٕ خوشگوار طریقہ ہیٚکہ چھُ اک تہِ دوسری سان وقت گزارنُک۔ تِم یِم صرف مزٕ تہٕ ہم نشینی باپت کھیٖلو۔"
+  - q: "کیا مےٚیۍ ڈیمینشیا سان کِسہ شخص سٍتھ کلاسِک کنسنٹریشن (Concentration) کھیٖہ؟"
+    a: "شروعاتی مرحلہ مَنٛز، کینہی لوٗکھ وُنہِ تہِ یِہ کھیٖل پسند کران چھِ، خاص طور کم تعداد کارڈن سٍتھ۔ اگر کارڈن کِسہ جایہ چھِ یِہ یاد کرنُک باعث پریشانی بَنی، تِمہِ کارڈ سامنے تھایو تہٕ صرف اک تہِ دوسری سان جوڑ لبنُک کوشش کٔریو۔ یِمہ سان ملانُک عمل روزِ، لیکن یاداشتہ آزمائش کم گژھہ۔"
+  - q: "گروپ مَنٛز کِہنہ کِہنہ یاداشتہ کھیٖل بہتر چھِ؟"
+    a: "تصویری بِنگو یتھ مَنٛز بلانے وول اسکرین پر آسہ، مانوس جملن پُورا کرُن تہٕ گپ شپ کارڈ، گروپ مَنٛز بہتر کام دِوان چھِ۔ ہَر اک کارڈ پُورا گژھن تام کھیٖل کٔریو تہٕ کِسہ تہِ ناؤ لینہِ تہٕ الگ نِشانٛدہی کرنہِ نِش احتیاط کٔریو، تا ز کِسہ تہِ الگ محسوس نہ گژھ۔"
+  - q: "کیا بزرگن باپت مفت یاداشتہ کھیٖل آن لائن دستیاب چھِ؟"
+    a: "آ، یَتھ سائٹ پؠٹھ یِم کھیٖل چھِ، مثالہ طور Picture pairs، Find the same، Photo pairs تہٕ Picture puzzle، سارے مفت چھِ، سائن اپ کرنُک ضرورت نہ چھُ، تہٕ فون، ٹیبلیٹ یا کمپیوٹر پؠٹھ چلان چھِ۔ کِسہ تہِ مَنٛز ٹائمر یا سکور نہ چھُ۔"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +48,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+"بڑےن باپت یاداشتہ کھیٖل" تلاش کٔریو تِہ اکثر وُت یِم کھیٖل تُل چھِ یِمہ مقصد دماغی مشق ہونہِ چھُ: لُکھیٚم کارڈ، وقتُنُک گھڑی، درجہ بندی تہٕ سکور۔ مگر ڈیمینشیا سان یُس شخص زندگی گزاران چھُ، تَس باپت یِم خصوصیات کھیٖل آزمائش بَناوان چھِ، بالکل تَمہِ چیزُک یِمہ تَس باپت مشکل گژھان چھِ۔ یِمہ ایٚکہ کھیٖل نرم طریقہ سان تہِ کھیٖنہ یِہیٚکَن۔ یَتھ صفحہ پؠٹھ یِہ وُچھِو کِتھہ کٔریو تہٕ کِہنہ کھیٖل ہر مرحلہ مَنٛز بہتر کام دِوان چھِ۔
 
-## Why do classic memory games frustrate people with dementia?
+## کلاسِک یاداشتہ کھیٖل ڈیمینشیا سان شخصن کیازِ پریشان کران چھِ؟
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+کیازِ ز یِم مختصر مدتی مَنٛز نئی معلومات تھامنس پؠٹھ انحصار کران چھِ، یِہ اکثر پہلوٗمہ چھُ یُس آلزائمر (Alzheimer's) یعنی ڈیمینشیا ہُنٛد عام ترین وجہ، سبنہٕ پہلیں متاثر کران چھُ۔ [آلزائمر ایسوسی ایشن](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) چہان چھُ ز آلزائمر ہُنٛد پہلہ عام علامت نئی سیکھِم چیز یاد کرن مَنٛز مشکل ہونہِ چھُ۔ کلاسِک کنسنٹریشن مَنٛز تُہؠ کارڈ پلٹاونہ چھِ، تِمہِ جایہ یاد تھامنس تہٕ تھوٚڈے دیر پَتھ تہِ یِہ استعمال کرنس ضرورت چھِ۔ یِہ تِکیہ نئی معلومات چھِ، یِمہ تھامنس تہٕ یاد کرنس ضرورت چھِ۔
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+اگر یَتھ سٍتھ ٹائمر، سکور یا غلط جواب پؠٹھ آواز شامل کرایو، تِہ شخص تَس چیزُک یاد دِہان چھُ گژھان یُس تَس مشکل گژھان چھُ، تہٕ یِہ تَس محبوٗب شخصن ہُنٛد سامنہ گژھان چھُ۔ واریاہ لوٗکھ چُپ چِپ کھیٖل چھوڑِ دِوان چھِ۔
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+مگر یُس شےٚ تُہؠ سامنہ چھِ، تَس پیژھن بالکل مختلف تہٕ اکثر آسان کام چھُ۔ یِتھ وَقت تُہؠ دونہٕ چائے ہُنٛد پیالہ وَچھِو دونوں سامنے چھِ، تِہ تِمہِ مَنٛز دوئم پؠٹھ اشارہ کرُن خوشی دِوان چھُ۔ لہٰذا راز یِہ چھُ ز ملانُک عمل روز تھایو، تہٕ یاداشتہ آزمائش چھوٚڑِو۔
 
-## How do you make a memory game gentle?
+## یاداشتہ کھیٖل کِتھہ نرم بَناوو؟
 
-These adjustments work for card games, board games and games on a screen.
+یِم ترتیب کارڈ، بورڈ کھیٖل یا اسکرین پؠٹھ کھیٖلن باپت کارگر چھِ۔
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **تصویریں سامنے تھایو۔** یِمہ تصویریں تُہؠ وَچھِو، تِمہِ مَنٛز میل لبنُک عمل وُنہِ تہِ اک حقیقی کھیٖل ہیٚکہ چھُ، تہٕ اکثر خوشگوار۔
+2. **کم ٹُکڑے استعمال کٔریو۔** شروعات دو یا ترٛے جوڑَن سٍتھ کٔریو۔ صرف تَمہِ وَقت زیاد کرایو یِتھ وَقت آسان لَگہ تہٕ تِمہِ مزید لوٗڑ آسہ۔
+3. **بوٚڈ، مانوس تہٕ بالغن ہُنٛد مزاج سٍتھ مطابق تصویریں پسند کٔریو۔** مثالہ طور چائے ہُنٛد پیالہ، سورج مکھی، بادبانی کشتی۔ کارٹون یا ژال دار مناظر نہ پسند کٔریو۔
+4. **ٹیم سان کھیٖلو۔** "آو شیرن لبنُک کوشش کٔریو" یُتھ بولو، نہ ز "تُہند باری چھُ"۔ باری باری اشارہ کٔریو تہٕ مدد کٔریو۔
+5. **سکور چھوٚڑِو۔** کِسہ تہِ جیتنُک ضرورت نہ چھُ۔ اگر کِسہ پٕتھ چھُ، تِہ صرف "آو سُنۍ کرِم" یُتھ بولو بس۔
+6. **کِسہ تہِ وَقت سٍتھ نہ دٔوٚڑِو۔** ٹائمر نہ لگایو، تہٕ باریَن مَنٛز بھاگ دوٚڑ نہ کٔریو۔
+7. **تصویریں پٲٹھۍ گپ شپ کٔریو۔** "وُچھو ییٚمی کشتی۔ کیا تُہِ کَدٕ سامندر سفر کرِموت؟" اکثر گپ شپ یِمہ سبنہٕ بہتر حصہ گژھان چھُ۔
+8. **اچھا محسوس کرنُس سٍتھ بند کٔریو۔** اک میل لبنس پَتھ کھیٖل بند کٔریو، یُتھ وَقت وُنہِ تہِ مزٕ لَگہان آسہ۔
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[نیشنل انسٹی ٹیوٹ آن ایجنگ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) عام مشورہ دِوان چھُ ز سرگرمی تَس ہُنٛد صلاحیتن سٍتھ مطابقت مَنٛز تھایو، پریشانی وُچھِو تہٕ یِتھ بنائے کِہ شخص کامیاب محسوس کٔرِیو۔
 
-## Gentle memory and matching games to try
+## نرم یاداشتہ تہٕ ملانُک کھیٖل یِم آزمائش کرنہٕ باپت
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (تصویریں دِکھاِتھ ملان)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) اک ملانُک کھیٖل چھُ یتھ مَنٛز بوٚڈ تصویریں تہٕ ۴ تا ۱۲ ٹائل چھِ۔ تصویریں سامنے روزِہیٚکَن، لہٰذا مسئلہ تِمہِ ہُنٛد میل لبنُک چھُ، نہ ز یِہ یاد کرنُک ز کارڈ کتھ جایہ چھِ۔ چوار ٹائلن سٍتھ شروعات کٔریو۔ اگر ابتداءی مرحلہ مَنٛز کِسہ شخص تھوٚڈا مزید چیلنج پسند آسہ، تِہ "لُکھیٚم تصویریں" (Hidden pictures) آزمائش کٔریو، مگر یُس وَقت مزٕ نہ لَگہ، فَوٚران سامنے دِکھاونُک طریقہ پؠٹھ واپس آیو۔
 
-### Find the same
+### Find the same (یُس ایٚکہ تلاش کٔریو)
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) پؠٹھ اوپر اک تصویر دِکھاونہ یِوان چھُ تہٕ تَل دو تا چوار انتخاب چھِ۔ تَمہِ مَنٛز وُس انتخاب کرِیو یُس تصویر سٍتھ مِلِہ۔ یِہ سائٹ پؠٹھ سبنہٕ سادہ ملانُک کھیٖل چھُ، تہٕ یِم لوٗکھن باپت بہتر چھُ یِمن پؠٹھ پورا گرِڈ بُنیادی سان ژال دار لَگہ، خاص کر کے پَتھِم مرحلن مَنٛز یُتھ وَقت کِسہ سٍتھ آسہ۔
 
-### Photo pairs (family photo memory game)
+### Photo pairs (خاندانی تصویریں سان ملانُک کھیٖل)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) تُہند پسند ہُنٛد تصویریں، مثالہ طور کُتھ، باغ، یا ہَس ہُنٛد گھر، اک ملانُک کھیٖل بَناوان چھُ۔ مانوس چہرٕ تہٕ جایہ اکثر اسٹاک تصویریں نِش زیاده گپ شپ بَناوان چھِ۔ یِمہ تصویریں صرف تُہند براؤزر مَنٛز روزان چھِ، تہٕ کَدٕ تہِ اپلوڈ نہ چھِ یِوان۔
 
-### Sort together
+### Sort together (اک سان ترتیب دِیو)
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) پٕنٛژھن چھُ ز ہر تصویر تَس ٹوکری مَنٛز تھایو یتھ تہِ یِہ صحیح آسہ، مثالہ طور باورچی خانے یا باغ مَنٛز۔ ترتیب دِینُک عمل طویل مدتی علم پؠٹھ انحصار کران چھُ، نہ ز مختصر مدتی یاداشت پؠٹھ۔
 
-### Picture puzzle
+### Picture puzzle (تصویری پزل)
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) اک تصویر ۴ یا ۹ ٹُکرن مَنٛز کاٹِتھ دِکھاونہ یِوان چھُ۔ دو ٹُکرٕ بدل کٔریو تا یِہ تصویر پُورا گژھہ۔ مکمل تصویر ہمیشہ رہنمائی باپت اسکرین پؠٹھ دِکھاونہ یِوان چھُ۔
 
-### Real cards on the table
+### میز پؠٹھ اصلی کارڈ
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+تُہؠ اسکرینُک ضرورت نہ چھُ۔ دو ڈیک کارڈ یا تصویری کارڈن ہُنٛد سیٹ مَنٛز سٍتھ ملانُک جوڑ نکالِو۔ تِم سامنے دو قطارن مَنٛز بچھایو تہٕ اک سان جوڑ لبنُک کوشش کٔریو۔ پَتھۍ، تِم رنگ یا قسم (suit) پؠٹھ ترتیب دِیہِہیٚکَو۔ [آلزائمر فاؤنڈیشن آف امریکا](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ابتدائی مرحلہ باپت کارڈ تہٕ بورڈ کھیٖلن ہُنٛد تذکرہ کران چھُ۔
 
-## Which memory games suit each stage?
+## ہر مرحلہ باپت کِہنہ یاداشتہ کھیٖل مناسب چھِ؟
 
-Stages are loose labels. Go by what the person enjoys today.
+مرحلن ہُنٛد حدود نرمی سان چھِ۔ ہمیشہ وُچھِو ز آج شخص کیا پسند کران چھُ۔
 
-| Stage | Games that often fit | How to set them up |
+| مرحلہ | یِم کھیٖل اکثر مناسب چھِ | کِتھہ ترتیب دِیو |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| ابتدائی | Picture pairs، Photo pairs، Picture puzzle (۹ ٹُکرن سٍتھ)، مانوس کارڈ کھیٖل | تِمن پسند کرن دِیو۔ اگر پسند آسہ تِہ ٹائل پلٹاون دِیو؛ اگر پریشان کرِہ تِہ سکور چھوٚڑِو۔ |
+| درمیانی | Picture pairs (۴ تا ۶ ٹائل، سامنے تھاوِت)، Find the same، Sort together | تصویریں ہمیشہ سامنے تھایو۔ تَس سٍتھ کَنۍ بیٚٹھِو تہٕ باری باری مدد کٔریو۔ |
+| پَتھِم | Find the same (۲ انتخابن سٍتھ)، اک بوٚڈ تصویر اک سان وُچھُن | بہت مختصر وقت۔ ٹیبلٹ تُہؠ تھامِو؛ شخص اشارہ کرِہ، یا بس وُچھِہ تہٕ بوزِہ۔ |
 
-## Do memory games help with dementia?
+## کیا یاداشتہ کھیٖلن ڈیمینشیا سٍتھ مدد گژھہ؟
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+نہ، کِسہ تہِ یاداشتہ کھیٖل سٍتھ ڈیمینشیا علاج، کم، روٚک یا بند کرنُک ثبوت نہ چھُ۔ [کوکرین رِویو](https://pubmed.ncbi.nlm.nih.gov/30864747/) یُس ہلکی دماغی کمزوری (mild cognitive impairment) سان لوٗکھن پؠٹھ کمپیوٹر سان دماغی تربیت سٍتھ متعلق چھُ، تہٕ یِہ پتہ چلاوان چھُ ز ثبوت اتنا محدود چھُ ز ییٚمہ پتہ نہ ہیٚکہ لَگہ ز یِم ڈیمینشیا روٚکن مَنٛز مدد دِوان چھِ۔ یَتھ سائٹ پؠٹھ [دماغی کھیٖل تہٕ ڈیمینشیا](/brain-health/brain-games/) متعلق رہنمائی دِیتمُت چھُ ز مطالعن مَنٛز کیا وُچھِتھ چھُ تہٕ کیا نہ۔
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+یِہ کھیٖل چھوڑنُک وجہ نہ بنو۔ [آلزائمر ایسوسی ایشن](https://www.alz.org/help-support/caregiving/daily-care/activities) مشورہ دِوان چھُ ز کامیابی نِش بتھ مزٕ تہٕ خوشی پؠٹھ زور دِیو۔ دَہ منٹن تصویریں ملان تہٕ تِمہِ پٲٹھۍ گپ شپ کرنُک تہِ دنُک اک واقعی بہتر حصہ ہیٚکہ چھُ بنِی۔
 
-## What about memory games for seniors without dementia?
+## ڈیمینشیا نِش بغیر بزرگن باپت یاداشتہ کھیٖل کیا چھِ؟
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+اگر اک بزرگ شخص یتھ یاداشتُک مسئلہ نہ آسہ، وقتُنُک کھیٖل، سکور تہٕ مشکل سطح پسند کرِہ، تِہ یتھ مَنٛز کِسہ تہِ قباحت نہ چھُ۔ مگر یِہ نہ سوچِو ز یِم ڈیمینشیا نِش بچاون مَنٛز مدد دِوان چھِ، کیازِ ز یَتھ متعلق کِسہ تہِ ثبوت نہ چھُ۔ یِتھ صفحہ پؠٹھ دِیتمِت نرم ورژٔن تہِ پیٚٹھۍ نسلن سٍتھ اک سان کھیٖنن باپت تہِ عمدہ کام دِوان چھِ: مثالہ طور اک نانا/نانی یِمن ڈیمینشیا چھُ تہٕ اک نۄو بچہ، دونہٕ اک سان تصویریں مِلِہیٚکَن، بغیر ز کِسہ تہِ آزمائش گژھہ۔
 
-## When should you stop or change the game?
+## کَدٕ کھیٖل بند کرِو یا بدلاوو؟
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+آہستہ سانہ، ٹیبلٹ دُور تھوٚد کرُن، "مےٚیِہ ہِکہ نہ" بولوُن، یا پریشان نظر یِن، یِمہ سارے نشان چھِ ز کھیٖل آسان بَناوو یا بند کٔریو۔ کم ٹائل استعمال کٔریو، تصویریں سامنے تھایو، [Find the same](/games/find-the-same/) کھیٖل آزمائش کٔریو، یا صرف تصویریں وُچھِتھ گپ شپ کٔریو۔ اگر کھیٖل کرنُک مرضی نہ آسہ، تِہ یِہ تہِ بالکل ٹھیک چھُ۔ یَتھ [اک سان کِتھہ کھیٖلو](/caregiving/how-to-play-together/) متعلق رہنمائی مَنٛز رفتار تہٕ مدد سٍتھ متعلق مزید معلومات دِیتمِت چھِ۔

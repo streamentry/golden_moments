@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "یاداشتہٕ سرگرمیاں: میمری بکس، زندگی ہٕنز کہانی تہٕ فوٹو"
+seoTitle: "ڈیمنشیا خٲطرٕ یاداشتہٕ سرگرمیاں: بٕغیر پرژھنے"
+description: "ڈیمنشیا سٟتؠ زندگی گزارَن والؠن نِش یادٕ شیئر کرنُک طریقہٕ، بٕغیر پرژھنے: فوٹو کتھ، میمری بکس تہٕ زندگی ہٕنز کتاب، آرام دہ جملن سٟتؠ۔"
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  یاداشتُک مطلب چھُ فوٹو، چیزو، موسیقی تہٕ کہانین ہٕند ذریعے ماضی اکھ أکس سٟتؠ
+  پسند کرُن۔ اکھ میمری بکس بنٲوِو، اکھ سادٕ زندگی ہٕنز کتاب تیار کٔرِو، یا فوٹو
+  اکھ أکس سٟتؠ وُچھِو۔ زانہہ پرژھیو مت: "تۄہیہ چھا یاد؟" تہٕ "یہِ کُس چھُ؟"
+  ترٲوِو تہٕ یِتھ کُلیل دعوت استعمال کٔرِو، "مےٚ ؤنِو اَمِچ کتھ۔" گرم کتھ باتھ
+  چھِ تَتھ نِش زیٛادٕ اہم یِہ زِ حقیقت کِتھۍ چھِ صحیح۔
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "یاداشت چھِ اکھ کتھ باتھ، امتحان نَہ۔ صحیح گَژھن سٟتؠ چھُنہ فرق پیوان؛ مزہ چھُ اہم۔"
+  - "'تۄہیہ چھا یاد…؟' تہٕ 'یہِ کُس چھُ؟' بدلٲوِو تِمن جملن سٟتؠ یِم دعوت دِن، مِثالَن 'مےٚ ؤنِو اَمہِ دۄہچ کتھ۔'"
+  - "تِم چیزٕ یِم تَس شخصہٕ سٕنٛزِ زندگی ہٕند حصّہ آسَن، تِہند میمری بکس چھُ اَتھن تہٕ کتھ باتھن خٲطرٕ سہارا دِوان۔"
+  - "سادٕ زندگی ہٕنز کتاب چھِ خاندان، ملاقاتیَن تہٕ دیکھ بھال کرَن والؠن مدد کران زِ تِم زانَن تَس شخصس، نَہ صرف تٔم سٕنٛز حالت۔"
+  - "اگر کانٛہہ یاد غمگین بنٲوِ، گۄڈٕ تسلی دِیِو تہٕ پتہٕ نرمی سان موضوع بدلٲوِو۔"
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "ڈیمنشیا سٟتؠ زندگی گزارَن والؠن خٲطرٕ یاداشت کیاہ چھِ؟"
+    a: "یاداشت چھِ ماضی ہٕنٛزَن یادن تہٕ تجربن ہٕنز کتھ باتھ، اکثر فوٹو، چیزو، موسیقی یا ویڈیو ہٕند مدد سٟتؠ۔ یہِ ہیٚکہِ اکہِ لَٹہِ یا جماعتس منز گژھِتھ۔ مقصد چھُ اکھ خوشگوار تہٕ معنی خیز کتھ باتھ، نَہ زِ پرژُھن یُس تَس شخصس یاد چھُ۔"
+  - q: "بہٕ کیازِ مہ پرژُھ 'تۄہیہ چھا یاد چھا؟'"
+    a: "یِم سوال یاداشت پرژھَن چھِ، تِم ہیٚکن تَس شخصس شرمندگی یا پریشانی محسوس کرنٲوِتھ ییلہِ جواب نہ آوِ۔ National Institute on Aging چھُ یِہ منگان زِ اَمہِ قٔسمہٕ سوال ترٲوِن یِمن منز پرژھنا یِوان چھُ زِ کانٛہہ چیز یا کانٛہہ شخص چھا یاد۔ امہِ بدل وُچھِو کیاہ چھُ تہٕ تَس شخصس دِیِو موقع زِ سُہ پانَہ کیاہ تہِ ؤنِتھ ہیٚکہِ۔"
+  - q: "مےٚ کیاہ گژِھ میمری بکسس منز تراوُن؟"
+    a: "تٔم سٕنٛزِ زندگی سٟتؠ وابستہٕ محفوظ تہٕ مضبوط چیزٕ چُنِو: کٲمچ چیزٕ، شوقہٕچ سامان، پسندیدٕ دوپٹہٕ، پوسٹ کارڈ، ترکیبہٕ ہٕند کارڈ، کھیلن ہٕنز یادگار یا فوٹو ہٕنز کاپی۔ تیز چیزٕ، واریاہ لۄکچار چیزٕ یِم نگلن یِن، تہٕ اَتھۍ اصلی چیزٕ یِمن ہٕنز بدل نہ آسِہ، تِم مَہ ترٲوِو۔"
+  - q: "اگر تِم حقیقت غلط ؤنَن تیٚلہِ کیاہ کرُن؟"
+    a: "یِہ ترٲوِو۔ اگر تُہٕنٛز مٲج ونان چھِ زِ فوٹو منز چھِ تٔم سٕنز بٕنۍ ییلہِ تٔم سٕنز کَزِن چھِ، تِہ تہِ چھُ ٹھیک۔ صحیح کرُن چھُ اکھ گرم لمحہٕ امتحانس منز بدل کران۔ تِم یُس قصّہ ونان چھِ تَتھ سٟتؠ چٔلِو تہٕ اکھ أکس سٟتؠ مزہ کٔرِو۔"
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+یاداشتُک سادٕ مطلب چھُ ماضی اکھ أکس سٟتؠ پسند کرُن۔ واریاہن لُکن خٲطرٕ یِم ڈیمنشیا سٟتؠ زندگی گزاران چھِ، دۄہَن برونٛہہ کہٕ یادٕ چھِ اکثر اَز صُبح یِمہٕ گٔے تِمن نِش زیادہ صاف۔ فوٹو، مانوس چیزٕ، موسیقی تہٕ کہانیاں ہیٚکن تِمن یادن وُزناوِتھ تہٕ تۄہیہ دِن اکھ گرم چیز شیئر کرنہٕ خٲطرٕ۔ اکھٕے قاعدہ چھُ: یہِ چھِ اکھ کتھ باتھ، زانہہ امتحان نَہ۔
 
-## What is reminiscence, and how is it different from quizzing?
+## یاداشت کیاہ چھِ، تہٕ یہِ پرژھنس نِش کِتھہٕ پٲٹھۍ الگ چھِ؟
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+یاداشت چھِ فوٹو، چیزو، موسیقی یا ویڈیو ہٕند ذریعے یادٕ شیئر کرُن، تَس شخصہٕ سٕنٛزِ رفتار مُطٲبق۔ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) چھُ اَتھ یِتھ پٲٹھۍ بیان کران زِ یہِ چھِ فوٹو، چیزو، ویڈیو یا موسیقی ہٕند مدد سٟتؠ ماضی ہٕند تجربن تہٕ کہانین ہٕنز کتھ باتھ، کتابہِ منز یا ٹیبلٹَس پؠٹھ۔ پرژُھن چھُ الگ: اَتھ منز چھُ شخصس نِش صحیح جواب منگنا یِوان، تہٕ اَمہِ سٟتؠ ہیٚکہِ مزہ بدلہٕ شرمندگی پیٚیہِ۔
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) چھُ یِہ تِمن چیزن منز شٲمِل کران یِمہٕ ترٲوِنۍ چھِ زِ شخصس پرژُھن زِ تَس چھا کانٛہہ چیز یا کانٛہہ شخص یاد۔ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) چھُ صلاح دِوان زِ یِم سوال مختصر مُدتچ یاداشتس پؠٹھ انحصار کرَن چھِ تِم ترٲوِنۍ تہٕ امہِ بدل دۄرِ ماضی ہٕنز کتھ باتھ کرٕنۍ۔
 
-| Instead of | Try |
+| امہِ بدل | یِہ آزمٲوِو |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "تۄہیہ چھا یہِ یاد؟" | "یہِ چھُ اکھ خوش دۄہ باسان۔ مےٚ ؤنِو اَمِچ کتھ۔" |
+| "یہِ کُس چھُ؟" | "یتھ چھِ آنٹی روز سَمندر کِنۍ۔ تٔم سٕنز ٹوپی وُچھِو۔" |
+| "یہِ کٔمِس ؤری آس؟" | "یہِ چھُ پرٛون گھر باسان۔ تَتہِ روزُن کِتھہٕ پٲٹھۍ اوس؟" |
+| "نَہ، یہِ چھُنہ بل، یہِ چھُ فرانک۔" | "سُہ چھُ واریاہ مزٕ دار باسان۔" |
+| "تۄہیہ ؤنِو مےٚ یہِ گۄڈٕ تہِ۔" | "مےٚ چھِ یہِ کتھ واریاہ پسند۔" |
 
-## How do you talk about photos without quizzing?
+## فوٹو ہٕنز کتھ باتھ پرژھنے بغیر کِتھہٕ پٲٹھۍ کٔرِو؟
 
-Lead with what you see, then leave room for the person to add something if they wish.
+گۄڈٕ تِہ ؤنِو یُس تۄہیہ وُچھان چھِو، پتہٕ تَس شخصس خٲطرٕ جاہ ترٲوِو اگر سُہ کانٛہہ ؤنِتھ یژھان آسِہ۔
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **اکھ أکس سٟتؠ بِہِو۔** البم پانہٕ وٕنۍ منز تھٲوِو تاکہ تۄہیہ وُچھِو اکھ أکس سٟتؠ، میزہِ أکِس طرفہٕ پرژھان نَہ۔
+2. **کینژھن فوٹو چُنِو۔** پوٚنژھ خۄش فوٹو چھِ پوٗرٕ ڈبہٕ نِش بہتر۔ بٔڈ تہٕ صاف پرِنٹ چھِ بہترین۔
+3. **لُکھ پانے ؤنِو۔** "یتھ چھِو تُہۍ تہٕ ڈیڈی پننِہ خاندَر دۄہ" یِمہٕ الفاظ چھِ دَباؤ کم کران۔
+4. **تفصیلن پؠٹھ تبصرٕ کٔرِو۔** کپڑٕ، گاڑِ، کھؠن، موسم، چہرٕ۔ "کیاہ گاڑی چھِ۔ کٔژھ ہَٹہٕ چمکان چھِ۔"
+5. **دعوت دِیِو، زبردستی مَہ کٔرِو۔** "مےٚ ؤنِو…" یا "تۄہیہ کیاہ چھِو وُچھان؟" خاموشی تہِ چھُ ٹھیک۔
+6. **تِہنز رہنمٲیی مٲنِو۔** اگر تِم بالکل بدل موضوعس پؠٹھ کتھ کرَن، تِمن سٟتؠ چٔلِو۔
+7. **ییلہِ مزٕ دار آسِہ تَمہِ وقتہٕ رُکِو۔** تھکاوَٹ یِنہٕ برونٛہہ البم بَنٛد کٔرِو۔
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+تیار تصویرٕ ہٕند اشارن خٲطرٕ [conversation cards](/games/conversation-cards/) آزمٲوِو۔ پننؠ خاندانی فوٹو اکہِ نرم میچنگ گیمس منز بدل کرنہٕ خٲطرٕ [photo pairs](/games/photo-pairs/) آزمٲوِو؛ یِم فوٹو تۄہیہ چُنان چھِو تِم روزَن تُہٕندِس براؤزرس منز۔
 
-## How do you make a memory box?
+## میمری بکس کِتھہٕ پٲٹھۍ بنٲوِو؟
 
-A memory box is a container of objects from the person's life to handle and talk about.
+میمری بکس چھُ اکھ ڈبہٕ یَتھ منز تَس شخصہٕ سٕنٛزِ زندگی ہٕنٛز چیزٕ آسان چھِ یِم اَتھس منز ہیٚکن نیٚنہِ تہٕ تِمن پؠٹھ کتھ باتھ ہیٚکہِ گژھِتھ۔
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **اکھ مضبوط ڈبہٕ چُنِو** یُس آسانی سان کھُلِہ، مِثالَن بوٹُک ڈبہٕ، ٹوپی ہُند ڈبہٕ یا لۄکُٹ لکڑِ ہُند صندوق۔
+2. **اکھ موضوع چُنِو یا مِلاوِو۔** کٲم، کانٛہہ شوق، کانٛہہ جاہ، کانٛہہ دہایہِ، یا تھوڑا تھوڑا پرٛتھ کانٛہہ۔
+3. **محفوظ چیزٕ جمع کٔرِو۔** شروع کرنہٕ خٲطرٕ چھِ پانژھ تہٕ دَہ چیزٕ واریاہ۔
+4. **قیمتی چیزن ہٕنز کاپی استعمال کٔرِو۔** اَتھۍ اصلی فوٹو تہٕ دستاویز یِمن ہٕنز بدل نہ آسِہ تِہنٛز کاپی بنٲوِو تہٕ اصلی محفوظ تھٲوِو۔
+5. **اکھ أکِس وقتہٕ اکھ چیز کٔڑِو۔** اکھ چیز دِیِو، تَمہِ مُتلق کانٛہہ ؤنِو، تہٕ وُچھِو کتھ کُس طرف گژھان چھِ۔
 
-Ideas to include:
+شٲمِل کرنہٕ خٲطرٕ خیال:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **کٲم:** ناوُک بیج، اکھ لۄکُٹ اوزار، وردی ہُند پیوند، اکھ کھاتہٕ، نرسُک پن، ڈائنرُک ترکیبن ہٕنز کتاب۔
+- **گھر:** تِہندِس پننِس لِکھتس منز ترکیبُک کارڈ، اکھ چائے ٹٲوَل، پسندیدٕ دوپٹہٕ یا ٹائی۔
+- **شوق:** بٕغیر ہُکُک مَچھِ مارنُک لُر، اکھ بیس بال، اون ہُند گۄلہٕ، بیٚیَن ہُند پیکٹ۔
+- **جایہِ:** پوسٹ کارڈ، نقشہٕ، سیاحتی یادگار، آبٲی شہرُک اخبارُک ٹُکر۔
+- **خاندان:** فوٹو ہٕنز کاپی، بچہِ سٕنز ڈرائنگ، خاندَرِچ دعوت نامہٕ۔
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+تیز چیزٕ، واریاہ لۄکچار چیزٕ یِم نگلن یِن، تہٕ تِم چیزٕ یِم تکلیف دہ یادٕ انن تِم مَہ ترٲوِو، مگر یِہ زِ تۄہیہ پَے آسِہ زِ تِم چھِ پسند۔
 
-## How do you make a life-story book?
+## زندگی ہٕنز کتاب کِتھہٕ پٲٹھۍ بنٲوِو؟
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+زندگی ہٕنز کتاب چھِ اکھ سادٕ البم یَتھ منز تَس شخصہٕ سٕنٛزِ زندگی ہٕند فوٹو تہٕ مختصر کیپشن آسان چھِ۔ یہِ چھِ اکھ أکس سٟتؠ وُچھنہٕ خٲطرٕ چیز، تہٕ یہِ چھِ ملاقاتیَن تہٕ دیکھ بھال کرَن والؠن مدد کران زِ تِم پوٗرٕ شخصس وُچھَن۔
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **اکھ شکل چُنِو۔** شیٹ پروٹیکٹرن وال binder، چھپاوُنتھ فوٹو کتاب، یا ٹیبلٹَس پؠٹھ سلائیڈ شو۔
+2. **کینژھ حصّہ منصوبہٕ کٔرِو۔** بچپن، سکول، کٲم، خاندان، روزنٕک جایہِ، عقیدٕ، شوق، پسندیدٕ کھؠن تہٕ موسیقی۔
+3. **پرٛتھ صفہٕ اکھ یا زٕ فوٹو ترٲوِو** اکہِ مختصر، بٔڈ پرِنٹس منز کیپشن سٟتؠ: "مریم، 22 ؤرِچ، بینکس منز کٲم شروع کران۔"
+4. **پسند تہٕ معمولات تہِ شٲمِل کٔرِو۔** "دۄد سٟتؠ چائے چیوان چھِ۔ اتھوار دۄہ کہٕ بھجن پسند چھِ۔ تیز ٹی وی ناپسند چھِ۔" یِہ چھِ تِمن پرٛتھ کٲنسہِ مدد کران یُس تِہنز دیکھ بھال کران آسِہ۔
+5. **تَس شخصس شٲمِل کٔرِو** یوٗت تام تِم یژھان چھِ، فوٹو چُننس منز، کہانیاں ؤننس منز یا صرف بناونُک عمل وُچھنس منز۔
+6. **شٲمِل کرُن جٲری تھٲوِو۔** یہِ گژھنہٕ چھُنہ ضروٗری پوٗرٕ سپدُن تاکہ یہِ کارآمد آسِہ۔
 
-## More reminiscence ideas
+## یاداشتچ مزید خیال
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **تِہندِ جوانی ہُند موسیقی چلاوِو** تہٕ کتھ باتھ کٔرِو زِ یہِ تِم کتہِ چھِ نِوان۔ [موسیقی سرگرمیاں](/activities/music/) وُچھِو۔
+- **تِہندِ پسندیدٕ دہاین ہٕنٛز گھرٕچ فلمہٕ یا ٹی وی پروگرام وُچھِو۔**
+- **بچپنُک کانٛہہ کھؠن بناوِو** تہٕ خوشبو دِیِو کتھ باتھس رہنمٲیی کرن۔
+- **تِہندِس آبٲی شہرُک نقشہٕ وُچھِو** تہٕ مانوس سڑکَن پؠٹھ انگلی پھِرٲوِو۔
+- **پرٛٲنۍ کیٹلاگ یا رسالہٕ اَتھس منز نِیِو** تہٕ قیمتن، فیشنن تہٕ گاڑِن پؠٹھ کتھ باتھ کٔرِو۔
+- **تِہنزٕ کہانیاں فونَس پؠٹھ ریکارڈ کٔرِو،** تِہندِ اجازت سٟتؠ، خاندان خٲطرٕ۔
+- **کالن دوران شیئر کٔرِو۔** ویڈیو کالس دوران اکھ فوٹو ہٲوِو؛ [فون تہٕ ویڈیو کال](/activities/phone-and-video-calls/) وُچھِو۔
+- **ملاقاتس وقتہٕ اکھ فوٹو یا چیز نِیِو۔** اَمہِ سٟتؠ چھِ ملاقاتس اکھ آسان موضوع میلان؛ [ملاقات](/activities/visiting/) وُچھِو۔
 
-## What if a memory is painful?
+## اگر کانٛہہ یاد تکلیف دہ آسِہ تیٚلہِ کیاہ؟
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+کینژھ یادٕ ہیٚکن غم، افسوس یا خوف انِتھ۔ اگر سُہ شخص پریشان سپدِ، رُکِو، تَس تسلی دِیِو تہٕ نرمی سان موضوع یا سرگرمی بدلٲوِو۔ یِہ مُتلق بحث مَہ کٔرِو زِ کیاہ سپُد۔ Family Caregiver Alliance چھُ صلاح دِوان زِ شخصس غلط ثابت کرنٕچ کوشش مَہ کٔرِو تہٕ تِمن احساسن ہُند جواب دِیِو یِم تِم ہاوان چھِ، کیازِ تِم چھِ اصلی۔ اگر تِم کٲنسہِ فوت گٔمِتس شخصہٕ سٕنٛز کتھ یِتھ پٲٹھۍ کرَن زِ سُہ زندٕ آسِہ، تِہندِس احساسس جواب دِیِو: "تۄہیہ چھِو سُہ یاد کران۔ مےٚ ؤنِو تِہنز کتھ۔"
 
-## What does the research say?
+## تحقیق کیاہ چھِ ونان؟
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Cochrane ہٕنٛز یاداشتچ سمٲج](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia)، یَتھ منز 22 ٹرائل تہٕ 1,972 نفر شٲمِل ٲسۍ، تَمہِ لوٚب زِ اثرات ٲسۍ غیر مستقل، لۄکچار تہٕ جایہِ تہٕ طریقہٕ مُطٲبق الگ الگ۔ اَمہِ منز ڈیمنشیا سٟتؠ زندگی گزارَن والؠن خٲطرٕ نقصانچ کانٛہہ ثبوت نہ لوبنہٕ آمُت۔ أسۍ چھِ یاداشتچ صلاح یِمہِ موجوٗب دِوان زِ یہِ ہیٚکہِ اکھ أکس سٟتؠ گرم تہٕ معنی خیز وقت بنٲوِتھ، نَہ زِ اکھ علاج ہِیوٗ۔ آسان کتھ باتھ مُتلق مزید جاننہٕ خٲطرٕ [رابطہٕ کرنٕچ صلاح](/caregiving/communication-tips/) وُچھِو۔

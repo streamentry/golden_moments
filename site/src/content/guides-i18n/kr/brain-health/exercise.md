@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Tǝlam-a kǝla karǝŋgǝ hangalbe-a: Kǝla kulashiye"
+seoTitle: "Tǝlam-a dementia: Kǝla kulashiye manazǝna"
+description: "Kǝla kulashiye tǝlam-a hangal kǝla dementia-be-a kǝltǝna-a, kuru futu ngǝla-a am ngawu-a am dementia-a kǝskǝna-a tǝlamzayin."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Kǝla kulashiye tǝlam ngǝla loktu kulin diyin-a hangal kǝla dementia-be ngǝrɔ sǝdiyi-a fǝlezǝna,
+  kuru Ripo 2024 Lancet Commission-be tǝlam diyin bawo-a dalil 14 hangal kǝla dementia-be faltǝgǝyin
+  lan fal ro nzǝkko. Jarabtǝ kulashiye tǝlam dementia daptǝyiwo-a fǝlejinba. Amma tǝlam duno, fasal
+  kalkal, karǝŋgǝ kǝji-a bǝnci ngǝla-a banazǝyin, adǝ nankaro letǝ, tǝlam kursi lan, kuru bǝla
+  ngǝla shima dawari ngǝla-a kǝlanzǝye nankaro. Abima bǝlin dio yaye lowoni, buro-a cistǝgǝ.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Am tǝlam ngǝla sadin-a hangalnzǝ kǝla dementia-be ngǝrɔ sǝdiyi, amma adǝye kulashi ruiwube lan nguwuro, jarabtǝ bǝlin dio lan gǝnyi."
+  - "Jarabtǝ saa uwu lan am ngawu-a duno, kǝla hangal karǝŋgǝbe samno jamma indi-a batti gǝnyi."
+  - "Futu CDC-be am saa 65-a kǝrawunza-a nankaro, tǝlam karǝŋgǝ kǝnza, duno dunoaro, kuru fasal kalkal manazǝna, kuru tǝlam gana ma tǝlam bawo nankaro ngǝla."
+  - "Am dementia-a kǝskǝna-a nankaro, tǝlam gana gana, nɔtǝna-a, kǝltǝ sadin-a, misallo letǝ kullum yaye tǝlam kursi lan, lamar adadu yaye nzǝkko."
+  - "Am ngawu-a kǝla dewu fal lan cidi yaye, adǝ nankaro tǝlam fasal kalkalbe-a na amarnyi-a bura fǝlezǝ."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Tǝlam dementia daptǝyin wa?"
+    a: "Nduso adǝga tabbatcin wa. Kǝla kulashiye nguwu am tǝlam sadin-a hangalnzǝ kǝla dementia-be ngǝrɔ sǝdiyi-a fǝlezǝna, amma jarabtǝ luwobe tǝlam dementia daptǝyiwo-a fǝlejinba. Tǝlam faida gade nguwu-a sǝdǝna, adǝ nankaro shima dawari ngǝla-a kǝlanzǝye."
+  - q: "Kam dementia-a kǝskǝna tǝlam diyin, amarnyi wa?"
+    a: "Ngǝwuro, futu ngǝla lan. National Institute on Aging shawari nzǝkko kǝla lowoni buro dio bǝlin, suno kamuzǝ ngǝla ngǝrɔ karta, nji nzǝkko, kuru loktu gana gana tǝlam dio. Kamdǝ bannatǝ, kalkalnzǝ bawo yaye karǝŋgǝnzǝ kǝji bawo yanzǝna, datǝgǝ."
+  - q: "Tǝlam jiri fi kursi lan tǝdin?"
+    a: "Tǝlam kursi lan mbeji, misallo kursi lan tǝlam nasha yaye kursi yoga, balon yaye bɔl lǝp-lǝp bowotǝ, burowo bean bag, kǝŋgǝ suwu be lan gotǝ, bando tǝlambe-a kuru pedal exerciser-a. Adǝye ngǝla letǝ dunon kǝskǝna ma."
+  - q: "Kam tǝlam dio cizǝnayi wa?"
+    a: "Duno tia cistǝgǝni. Ngawo yaye jarabtǝne, ni kǝlanǝm tǝlam di, yawu nɔtǝna kǝskǝ, yaye tǝlamma cidawa ro faltǝ, misallo fǝrǝ kǝshtǝ yaye kǝska nji kǝnzǝ. Letǝ gana gana sanduwu wasəmbero sadin ma tǝlam, kuru kǝltǝ deyan napkǝ ma tǝlam."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Tǝlam diyin ada nǝm ngǝla kǝla hangal karǝŋgǝbe-a kuru dǝgan kulashiye nguwu lan ruiwuna. Kǝla kulashiye tǝlam-a hangal kǝla dementia-be ngǝrɔ sǝdiyi-a kǝltǝna, amma tǝlam dementia daptǝyiwo-a fǝlejinba. Abima tabbat, tǝlam duno, fasal kalkal, karǝŋgǝ kǝji-a bǝnci ngǝla-a saa kǝla yaye banazǝyin. Warak adǝye kǝla kulashiye manazǝna-a, tǝlam jiri am ngawu-a sadǝnzǝro futu sǝdǝna-a, kuru futu lǝp-lǝp am dementia-a kǝskǝna-a tǝlamzayin-a bayanzǝna.
 
-## Does exercise lower the risk of dementia?
+## Tǝlam hangal kǝla dementia-be ngǝrɔ sǝdiyi fulujin wa?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Kǝla kulashiye fǝlezǝna am tǝlam ngǝla sadin-a hangalnzǝ kǝla dementia-be ngǝrɔ sǝdiyi, amma dalil adǝye nzundu-a. [Ripo 2024 Lancet Commission kǝla dementia-be](https://doi.org/10.1016/S0140-6736(24)01296-0) tǝlam diyin bawo-a dalil 14 hangal kǝla dementia-be faltǝgǝyin lan fal ro nzǝkko. Kǝla model nzǝbe lan, dalil 14 adǝye dǝgan kǝla dementia dunyabe ngǝwuro 45% ro nzǝkko.
 
-Here is what the evidence looks like:
+Dalil adǝga futu adǝye rui:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Kulashi ruiwube jili fal fǝlezǝna.** Ruin kulashi 58 lan, Commission manazǝna, am tǝlam ngǝla sadin-a hangalnzǝ kǝla dementia-be ngǝwuro 20% ro ngǝrɔ sǝdiyi. Batti kura dǝ am tǝlam sammaa bawo-a am tǝlam gana ma sadin-a dǝgan.
+- **Kǝltǝ adǝ jili indi lan lejin.** Commission adǝga manazǝna: tǝlam bawo hangal dementia-be ngǝrɔ sǝdiyin. Kuru adǝga ma manazǝna: faltǝ hangal karǝŋgǝbe dementia-be, shima saa nguwu buro lamar dementia-be asutǝ bǝlin badijin, am so tǝlam diyin ngǝrɔ sǝdin.
+- **Jarabtǝ bǝlin dio-a tabbat gǝnyi.** Jarabtǝ fal lan, am ngawu 945 saa lardǝnzǝbe 78-a, saa uwu ro mangari indi lan tǝlam ngǝla nzunduye diyin yaye jamma gade ro nzǝkko. Darye, hangal karǝŋgǝbe samno jamma indi-a batti gǝnyi. Am jamma gade-a ye tǝlam nguwu sadǝna, adǝ nankaro fasal adǝ kǝrǝnjin.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) bayin tabbat lan: kǝltǝ bayin tǝlam-a Alzheimer's daptǝ-a batti tabbat fǝlejinba, kuru jarabtǝ bǝlin dio tǝlam dementia daptǝyin yaye fulujin gulzǝro sǝdǝnyi. Amma tǝlam cidǝ, karǝŋgǝ kǝji fulujin, ci sugar, bu kǝnza-a stroke-be hangalnzǝ ngǝrɔ sǝdiyin. Lamar adǝye laa hangal karǝŋgǝ fulujin-a kǝltǝna.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Fasal adǝye bayin ngǝla: tǝlam di, ku ngǝla kǝskǝm-a cidawanzǝm ngǝla yanzǝnaro. Faida hangalbe kǝji mbeji ma, wada gǝnyi.
 
-## How much activity do older adults need?
+## Am ngawu tǝlam jiri sawa diro mǝradǝzǝna?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Futu CDC-be am saa 65-a kǝrawunza-a nankaro](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) tǝlam jiri yakkǝ mangari kǝla lan shawari nzǝkko:
 
-| Type | Weekly amount | Examples |
+| Jili | Adadu mangari lan | Misallo |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Tǝlam karǝŋgǝ kǝnza (aerobic) | Gana ngǝro minti 150 tǝlam sawasawa, misallo minti 30 kawu 5 lan | Letǝ ngǝla, bǝla, nji bǝn tǝlambe |
+| Duno dunoaro | Gana ngǝro kawu 2, duno tǝyi sammason | Kǝŋgǝ lǝp-lǝp yaye kǝŋgǝ suwu be gotǝ, bando tǝlambe |
+| Fasal kalkal | Loktu kulin | Letǝ shintǝbe cidibǝ lan, kursi lan cizə |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Adǝye lamar nǝm, badiyaram gǝnyi. CDC manazǝna: adǝga sadǝnǝm raknyima, dunoam-a kǝndoramam-a letǝna futu diyin tǝlam di. Tǝlam gana ma tǝlam bawo nankaro ngǝla.
 
-## Gentle ways to move for older adults
+## Futu lǝp-lǝp am ngawu-a tǝlamzayin
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Sawa kǝltǝ le.** Letǝ kullum sawa, kǝskǝma yaye jamma letǝbe lan, manano-a amarnyi-a sǝdǝna.
+- **Tǝlam kursi lan.** Mukkon gotǝ, shi tǝlamzǝ, na fal lan letǝ, kuru kursi yoga duno sǝdin amma cidǝ hangalnzǝ ngǝrɔ.
+- **Yawu dǝgan bǝla di.** Yawu saa gananzǝ-a saa 20-nzǝbe loktuye kǝskǝ, kuru tǝlamzǝ, bǝlazǝ yaye lezǝ. Shawari gade [futu cidawa yawu-a](/activities/music/) lan mbeji.
+- **Duno kǝre fatobe lan.** Boto nji be yaye kǝŋgǝ suwu be gotǝ, loktu cidawa nǝm ngǝla ruiyin ma.
+- **Kǝska cidawa yaye cidawa fato lan.** Kǝska nji kǝnzǝ, kǝska kǝshtǝ, fǝrǝ kǝshtǝ-a kazǝmu faltǝ-a tǝlamro nganzǝyin. [Cidawa deyan-a kǝska cidawa](/activities/outdoor-and-gardening/) kuru [cidawa fato](/activities/household-tasks/) rui.
+- **Tǝlam nji bǝn.** NIA manazǝna nji bǝn tǝlambe daras (aerobics) am tǝlam cidi-a dunonzaro kǝskǝna-a nankaro shawari.
 
-## How to exercise with someone living with dementia
+## Futu kam dementia-a kǝskǝna-a tǝlamzǝyin
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Kam dementia-a kǝskǝna-a nankaro, nǝm ngǝla, kǝji kǝskǝ-a cidawa kǝla kullumbe kalkal-a shima, adadu adǝye notǝ gǝnyi. NIA manazǝna tǝlam duno, kalkal-a karǝŋgǝ kam Alzheimer's-a kǝskǝna-be ngǝla ro tajin, kuru karǝŋgǝ kǝji-a bǝnci-a ye ngǝlaro sǝdin. Lowoni buro-a cistǝgǝ yaye cidawa bǝlin dio bǝlin. [Futu NIA-be kǝla kulashibe](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) lan shawariwa mbeji:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Kullum kǝltǝ le.** Diwal amarnyi-a nɔtǝna karta, abima dalil cidǝbe bawo. Kamdǝ tilonzǝ lejin ma, kǝre mukkobe lan lambam tilifunǝmbe kǝltaa ngǝla.
+2. **Vidiyo tǝlam am ngawu-a nankaro jarabtǝ.** Kǝltǝ tǝlam di, kursi lan yaye daata.
+3. **Loktu gana gana tǝlam di.** Tǝlam gana gana nguwu ("mini-workout") tǝlam fal kura-a ngǝlaro waljin.
+4. **Yawu kǝskǝ.** Yawu nɔtǝna tǝlamma cidawa ro faltǝyin, cidawa dunon gǝnyi. Kamdǝ ngǝlanjin ma bǝla di.
+5. **Nji-a suno ngǝla-a nzǝkko.** Loktu tǝlambe-a ngawo yaye nji yaye lemu nzǝkko, kuru kazǝmu ngǝla-a suno tǝlambe nankaro ngǝla karta.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Letǝ dunon kǝskǝna ma, [Futu NIA-be kam Alzheimer's-a kǝskǝna kǝla kulashibe](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) tǝlam kursi lan shawari nzǝkko. Adǝye kursi tǝlam yaye yoga, burowo bean bag, bɔl lǝp-lǝp yaye balon bowotǝ, bando tǝlambe, kǝŋgǝ fato lǝp-lǝp gotǝ, kuru pedal exerciser-a mbeji. Cidawa lǝp-lǝp misallo fǝrǝ kǝshtǝ-a kǝska kǝshtǝ-a ye tǝlam.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Tǝlam abima sadin ro dawari ngǝla dio. Lancet Commission dalil tǝlam nǝm faltǝ karǝŋgǝbe misallo bannatǝ fulujin-a curoba. Kǝltǝ tǝlam di, kǝji kǝskǝnaro, yimbi kǝskǝna faltǝro gǝnyi. Kamdǝ "a'a" canna ma, ngǝla. Futu maniye [kamdǝ "a'a" canna ma](/caregiving/when-they-say-no/) lan futu lǝp-lǝp ngawo yaye jarabtǝro mbeji. Buro daatǝ, yaye kǝltǝ deyan napkǝ, adǝ ma ngǝla.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Tǝlam ngawo, naptǝ gana gana misallo [Yiyiye Kǝji (Calm Breathing)](/games/calm-breathing/) kǝlta nando naptǝro banazǝyin. Cidawa kursi lan mukko gana gana tǝlamzǝ-a nankaro, [Kǝltǝ Fǝrǝ (Sort Together)](/games/sort-together/)-a [Foto Bingo (Picture Bingo)](/games/picture-bingo/)-a tebur lan ngǝla.
 
-## Balance and fall safety
+## Fasal kalkal-a amarnyi cidǝ-a
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Cidǝ nguwu kuru kǝskǝna. [CDC bayanzǝna](https://www.cdc.gov/falls/data-research/facts-stats/index.html) am ngawu-a kǝla dewu fal lan cidin, amma dewu fal lan yaye luworo guljinba. Falro cidǝ cidǝ kǝrinzǝ indiro sǝdin. Dalil cidǝbe CDC manazǝna:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Duno shi-a ngonǝmbe fulujin
+- Letǝ-a fasal kalkal-a batti
+- Kǝri laa, misallo kǝri kǝnashimbe-a kǝri karǝŋgǝ kǝjibe laa-a
+- Sim hangal batti
+- Shi kǝnadǝ yaye suno kǝji bawo
+- Fato bǝn abima cidǝbe, misallo kǝre nguwu, kǝre ndulbe-a kǝre ngamǝna-a
 
-To move more safely:
+Tǝlam amarnyi lan diyinro:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Kursi duno ngǝla roti bawo-a faidatǝ**, kuru tǝlam daatǝbe loktuye tebur yaye abu tǝtabe karǝŋgǝn karta.
+- **Na adǝ ngǝlaaro di bǝlin**, kǝre ndulbe, waya-a kǝre nguwu-a sammaa go.
+- **Daata ma gana gana di**, kuru kamdǝ hangalnzǝ faltǝyin yaye kalkalnzǝ bawo yanzǝna daatǝ.
+- **Suno ngǝla tǝ**, sawul yaye suno fato ngǝla gǝnyi.
+- **Fasal kalkal abu ngǝla karǝŋgǝn jarabtǝ.** Kursi lan cizə-a letǝ shintǝbe cidibǝ lan-a misallo CDC-be tǝlam fasal kalkalbe.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC shawari nzǝkko kam ngawo fal cidǝna kuru kǝlanzǝbe kǝri kuruwu bawo kǝlan zǝkkǝna ma, loktu adǝn luworo lejin.
 
-## Talk with a doctor
+## Lowo-a manano
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Lowoni buro-a cistǝgǝ yaye cidawa tǝlam bǝlin dio bǝlin, tayi ma kam karǝŋgǝ, fufu yaye kalkal hangalnzǝ-a, yaye dementia-a kǝskǝna. Luworo yaye lamar tǝlambe (physical therapist) tǝlam amarnyi-a kǝri laa fasal kalkal-a sǝdin wa ruiyin. Cidǝ kǝla yaye, kǝnadǝ bawo yaye, luworo gulzǝgǝ. Tǝlam diyin ma abima kǝnadǝyin yaye kǝji bawo yanzǝna daatǝ. Karǝŋgǝ ngubonzǝ kǝnadǝ, fufu kǝskǝ, yaye hangal faltǝ loktu gǝnyi mbeji ma, 112 bowone.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Warak adǝ bayin kǝla bǝn, shawari luwobe gǝnyi. [Bayin luwobe maniye](/medical-disclaimer/) rui. Kǝla sammaa nankaro, [kǝla kulashiye kǝla hangal dementia-be dalilnzǝ-a manazǝna](/brain-health/risk-factors/) kuru [dementia daptǝgǝyin wa](/brain-health/can-dementia-be-prevented/) karanta.
