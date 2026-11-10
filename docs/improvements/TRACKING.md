@@ -219,3 +219,13 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | `pnpm --dir site verify`: 1,864 tests, 12,492 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
 | Render inspection | The built `/caregiving/home-safety/` route contains the new guide and the caregiving hub links to it. | Static output checked; no live browser run. |
 | Not verified | No caregiver, participant, occupational-therapist, native-speaker or device review. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim usability or professional review. |
+
+## Round 53: Japanese Photo Pairs copy for one-photo viewing
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association says communication can change, including trouble finding familiar words or returning to a native language. It also describes photos as a way to share reminiscence, with connection rather than testing as the goal. | Localizing the existing viewing controls is a comprehension and dignity inference, not a clinical benefit. |
+| Gap and change | Photo Pairs now permits one-photo viewing, but Japanese copy still required two photos. The Japanese dictionary also lacked the view-only, caption, comfort and setup strings, so those showed in English. | Updated the complete Japanese Photo Pairs copy to match one-photo viewing, optional matching and page-only captions. Other locales keep their current English fallback. |
+| Translation | Added Japanese text for current Photo Pairs strings, retaining all placeholders and one bold run in the intro. | Machine-made, not reviewed by a native speaker. |
+| Tests | `PhotoPairs.test.ts`: Japanese one-photo wording and controls checked. `pnpm --dir site verify`: 1,865 tests, 12,492 pages, `check-site` 0 errors and 536 warnings. TypeScript, Python suite (106), release metadata and `git diff --check` pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; build reports a large-chunk warning. |
+| Not verified | No native-speaker, caregiver/participant, browser or device review. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim Japanese usability validation. |
