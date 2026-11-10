@@ -1,32 +1,34 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Кеч баскычтагы деменция үчүн иш-аракеттер: төшөктө же отургучта"
+seoTitle: "Кеч баскычтагы деменция иш-аракеттери: төшөк жана отургуч"
+description: "Кеч баскычтагы деменциялуу адам үчүн жумшак иш-аракеттер: музыка, тийүү, үн чыгарып окуу, үндөр жана чогуу болуу, коопсуздук боюнча кеңештер менен."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Кеч баскычтагы деменцияда иш-аракеттер негизинен сезимдерге жана сиздин чогуу
+  болууга негизделет: сүйүктүү музыканы угузуу, кол кармашуу, жай басып кол
+  массажын жасоо, үн чыгарып окуу, сүрөттөрдү карап чыгуу, табияттын жумшак
+  үндөрүн угуу же терезенин жанына же сыртка чогуу отуруу. Бул иш-аракеттерди
+  төшөктө да, отургучта да жасоого болот. Аракеттерди кыска убакытка жүргүзүп,
+  ыңгайлуулукту жүзүнөн, колунан жана дем алуу ынан байкап туруңуз. Эң негизгиси
+  - жанында болуу өзүнчө иш-аракет болуп саналат.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Байланыш дагы эле мүмкүн. Кеч баскычта дүйнө негизинен сезим аркылуу кабыл алынат."
+  - "Сөздөр жетпей калган учурда да музыка, жумшак тийүү, тааныш үн жана кармап турууга ыңгайлуу жумшак буюмдар таасир этиши мүмкүн."
+  - "Бул жерде сунушталган иш-аракеттердин дээрлик баары деменция менен жашап жаткан адамга төшөктө же отургучта ылайыктуу."
+  - "Жүзүндөгү, колдорундагы жана дем алуусундагы ыңгайлуулук же ыңгайсыздык белгилерин байкап, тынчсыздануу белгиси көрүнгөндө иш-аракетти токтотуңуз."
+  - "Кичинекей буюмдарды бербеңиз, ошондой эле тамак-сууну тек гана кам көрүүчү топтун кеңеши боюнча гана сунуштаңыз, анткени жутуу кыйынчылыгы кооптуу болушу мүмкүн."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Төшөктө жаткан кеч баскычтагы деменция менен жашап жаткан адам менен кандай иш-аракеттерди жасоого болот?"
+    a: "Ага сүйүктүү музыканы угузуңуз, колун кармаңыз, лосьон менен жай кол массажын жасаңыз, сүйүктүү китебинен же дубасынан үзүндү үн чыгарып окуңуз, сүрөттөрдү көргөзүңүз же жумшак табият үндөрүн угузуңуз. Терезелерди ачыңыз, сыртты көрө алышы үчүн шарт түзүңүз. Бир убакта бир гана иш-аракетти, кыска жана тынч абалда жүргүзүү эң натыйжалуу болот."
+  - q: "Кеч баскычтагы деменция менен жашап жаткан адамдар музыкадан ырахат алышы мүмкүнбү?"
+    a: "Көпчүлүк учурда - ооба. Альцгеймер ассоциациясынын айтымында, кеч баскычта да адам балалыгында же жаш чагында сүйгөн ырын угуп, бийдин ыргагын кага алышы же кошо ырдай алышы мүмкүн. Ага жаш кезинде эң жаккан музыканы тандап, үнүн жумшак кармаңыз."
+  - q: "Иш-аракет аларга жагып жатканын кантип билсе болот?"
+    a: "Кичинекей белгилерге көңүл буруңуз: ийиндеринин бошоңдошу, жүзүнүн тынчтануусу, көз карашы, ырдай башташы, колунун кысылышы же дем алууунун жайланышы. Бетин кыйшайтуу, четке тартылуу, тынчы кетүү же ыңылдоо ыңгайсыздыкты же ооруну көрсөткөнү мүмкүн. Мындай белгилерди байкасаңыз, иш-аракетти дароо токтотуп, эгер ал улана берсе, кам көрүүчү топко кабарлаңыз."
+  - q: "Эгер менин ким экенимди таанбаса да баруум маанилүүбү?"
+    a: "Ооба, абдан маанилүү. Улгайган адамдардын ден соолугу боюнча улуттук институтунун айтымында, жөн эле жанында болуу тынчтандыруучу таасир этиши мүмкүн. Кеч баскычтагы деменцияда да тийүү, музыка жана баяндалган окуялар комфорт сунуштай берет. Сиздин үнүңүз жана тийүүңүз, атын унутса да тааныш болуп калышы мүмкүн."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +50,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Кеч баскычтагы деменцияда деменция менен жашап жаткан адам абдан аз сүйлөшүп, күнүмдүк кам көрүүнүн бардыгына муктаж болушу, көбүнчө төшөктө же отургучта өткөрүшү мүмкүн. Чогуу жасай турган эч нерсе калгандай сезилиши мүмкүн. Бирок, дагы деле бар. [Альцгеймер ассоциациясы](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) белгилеп өткөндөй, адамдын ички дүйнөсүнүн өзөгү кала берет жана бул баскычта дүйнө негизинен сезим аркылуу кабыл алынат. Музыка, тийүү, тааныш үн жана сиздин тынч чогуу болушуңуз дагы деле комфорттуулук менен байланышты бере алат.
 
-## What activities help in late-stage dementia?
+## Кеч баскычтагы деменцияда кайсы иш-аракеттер жардам берет?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Кеч баскычта эң пайдалуу нерсе - жөнөкөй сезимдик иш-аракеттер жана тынч чогуу болуу. Альцгеймер ассоциациясы сүйүктүү музыканы угузуу, маанилүү китептердин үзүндүлөрүн үн чыгарып окуу, сүйүктүү жыты бар лосьон менен терини сыйпоо жана жакшы күндө чогуу сыртка чыгуу сунуштайт. [Улгайган адамдардын ден соолугу боюнча улуттук институту](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) кошумчалай тургандай, окуя айтып берүү, сүрөттөрдү көргөзүү, жумшак тийүү же массаж жасоо, музыка, ак шум же табият үндөрүн угузуу сунушталат жана жөн эле жанында болуунун өзү тынчтандыруучу таасир этиши мүмкүн деп айтылат.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Альцгеймер фонду Америка](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) кеч баскычтагы адамдар көбүнчө комфорт алуу үчүн бир нерсени кармап туруу потребине ээ экендигин белгилеп, жөнөкөй сезимдик иш-аракеттерди, жай созулуу көнүгүүлөрүн, шарф менен ойноп көрүүнү, музыканы, жаныбарлар менен жолугуштууларды, адамдын тийүүсүн жана эркин түрдө сүрөт тартууну сунуштайт.
 
-## Activities for someone in bed or a chair
+## Төшөктө же отургучта жасоого боло турган иш-аракеттер
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Музыканы угузуу.** Жаштык чагындагы ырларын, диндик ырларын же үй-бүлө менен байланышкан ырларын тандаңыз. Үнүн жумшак кылып, жанынан отуруңуз. Кээ бир адамдар азыр да манжасын ырдын ыргагына ылайык кыймылдатышы же ырдай башташы мүмкүн. [Музыка иш-аракеттерин](/activities/music/) караңыз.
+2. **Кол кармашуу.** Жөн эле колун кармап, бармак менен жай сыйпоо да иш-аракет болуп эсептелет. Тийүүдөн мурун эмне кылаарындыгыңызды айтсаңыз болот.
+3. **Жай кол массажы.** Алаканга аз гана лосьон алып, жылытып, билектен манжа учуна чейин жай сыйпаңыз. Жыты жок лосьонду тандаңыз же териси чыдамдуу болсо, мурда дайыма жаккан жытын колдонсоңуз болот.
+4. **Үн чыгарып окуу.** Сүйүктүү ырды, жаккан китебиңиздин үзүндүсүн, Ыйык Жазмалардан же спорт жаңылыктарын окуп бериңиз. Сөздөрдөн көбүрөөк үнүңүздүн ритми маанилүү.
+5. **Окуя айтып берүү.** Үй-бүлөлүк сапар тууралуу же нике кечеси тууралуу окуя айтып бериңиз. Жооп күтүү зарыл эмес.
+6. **Сүрөттөрдү көргөзүү.** Бир убакта бир гана чоң сүрөттү көз деңгээлинде кармап, жылы үн менен сүрөттөп бериңиз. Ким экенин сурооңуздан сактаныңыз.
+7. **Кармап туруу үчүн жумшак нерсе сунуштоо.** Бүктөлгөн сүртүүнү, момпосуй кездемени же жумшак оюнчукту берсеңиз болот. Улуттук институтунун сунушуна ылайык, адамды жылдырганда колуна таза сүртүүнү карматсаңыз, сизге же эмерекке кармап алуудан сактанууга жардам берет.
+8. **Табият үндөрүн угузуу.** Жамгырдын, толкундардын же куштардын үндөрүн төмөн үн менен угузуу ызы-чуу бөлмөнү жумшартууга жардам берет.
+9. **Сыртты үйгө алып келүү.** Терезелерди ачыңыз, терезенин сыртына канаттуулар үчүн жем салынган идишти коюңуз же ичкике бир аз гүл же жалбырак алып келип, карап чыгууга жана тийүүгө мүмкүнчүлүк бериңиз.
+10. **Сыртка чыгуу.** Эгер адам дөңгөлөктүү отургучта отура алса, күн нуру аз, жылуу аба ырайында бир нече мүнөт сыртка чыгып келсе жакшы болот.
+11. **Чачын тарап же жылы сүлгү менен сыйпоо.** Жай жана камкордук менен тарап берүү, колуна же бетине жылы сүлгү менен сыйпоо жагымдуу сезилишти тартууга болот.
+12. **Музыкага ылайык жай кыймылдатуу.** Жеңил шарфты чогуу кыймылдатуу же ырдын ыргагына ылайык колдорду тербетүү. Мускулдарды сунуу же буын кыймылдарын жасоодо, адегенде физиотерапевттен же медайымдан коопсуз жолун көрсөтүүсүн сураныңыз.
+13. **Эркин сүрөт тартуу.** Токсинсиз боёкту чоң кагазга губка же сиздин жардамыңыз менен кол менен жаюу. Натыйжасы кандай болорунан көз карандысыз.
+14. **Жаныбарлар менен жолугушуу.** Эгер адам мурда жаныбарларды жакшы көргөн болсо жана шарт уруксат берсе, тынч жаныбарды төшөккө же тизесине жайгаштырса болот.
+15. **Чогуу тынч дем алуу.** Жанынан отурup, жай жана үн чыгарып дем алып, дем бериңиз. [Тынч дем алуу](/games/calm-breathing/) оюнун колдонуп, темпти теңдөөгө болот жана каалаганыңызда баштап, каалаганыңызда токтото аласыз.
+16. **Жөн эле жанында болуу.** Жанына отуруп, ырдай бериңиз, токуу ишиңизди улантыңыз же тынч окуңуз. Жанында болуу өзү жетиштүү.
 
-## How to share an activity at this stage
+## Бул баскычта иш-аракетти кантип бөлүшүү керек
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Алдыңкы тараптан жакындаңыз.** Анын атын жана өзүңүздүн атыңызды атап, тийүүдөн мурун жай жана жумшак сүйлөңүз.
+- **Бир убакта бир гана нерсени сунуштаңыз.** Музыканы угузуудан мурун сыналгыны өчүрүңүз. Бирден бир сезимге көңүл буруңуз.
+- **Кыска кылып жүргүзүңүз.** Бир нече мүнөт эле жетиштүү болушу мүмкүн. Күн бою бир нече кыска маалдашуу узак бир сессиядан натыйжалуу болот.
+- **Адегенде ыңгайлуу абалга келтириңиз.** Адамдын денеси жакшы бекемделгенине ынаныңыз. Улуттук институтунун сунушуна ылайык, жамбашка коюла турган тактай (lap board) колун оорутпастан жогорку бөлүгүн колдоого жардам берет.
+- **Реакциясына көңүл буруңуз.** Бош колдор, тынч жүз, көз карашы, ырдоо ыңгайлуулукту билдирет. Улуттук институту ыңылдоо, беттин кыйшайышы, дененин кайсы бир бөлүгүн коргоо же күтүлбөгөн тынчсызданууну оорунун белгиси катары көрсөтөт. Иш-аракетти токтотуп, кам көрүүчү топко кабарлаңыз.
 
-## A quick guide by sense
+## Сезимдер боюнча кыска көрсөтмө
 
-| Sense | Ideas | Take care |
+| Сезим | Идеялар | Эскертүү |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Угуу | Сүйүктүү музыка, сиздин үнүңүз менен окуу, табият үндөрү | Үнүн төмөн кармаңыз; бир убакта бир гана үндү угузуңуз |
+| Тийүү | Кол массажы, кол кармашуу, жумшак кездеме, жылы сүлгү | Тийүүдөн мурун айтыңыз же эскертүү бериңиз; теринин жабыркап же бузулганын текшериңиз |
+| Көрүү | Сүрөттөр, гүлдөр, терезеден көрүнүш, жай табият видеолору | Буюмдарды көз деңгээлинде кармаңыз; жакшы жарык болушу керек, жаркылдаган жарыктан качыңыз |
+| Жыт | Сүйүктүү лосьон, жаңы гүлдөр, жакын жерде кайнап жаткан кофе жыты | Күчтүү жыттардан качыңыз; аллергияны жана дем алуу жолдорун эске алыңыз |
+| Даам | Сүйүктүү даамдын аз гана үлгүсү | Тек гана кам көрүүчү топтун коопсуз деп тапкан текстурада жана абалда гана сунуштаңыз |
 
-## Safety at this stage
+## Бул баскычта коопсуздук
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Кеч баскычта жутуу кыйындайт, ал эми Улуттук институту бул чөгүп кетүү коркунучун жогорулатат деп эскертет. Кичинекей буюмдарды жеткиликтүү жерге калтырбаңыз жана тамак-сууну гана кам көрүүчү топтун сунуштаган текстурасы менен абалда гана бериңиз. Тийүү иш-аракеттери учурунда терини жай гана текшериңиз, анткени териси оңой жарылып же көк тартышы мүмкүн. Коопсуз сезимдик идеялар жөнүндө көбүрөөк маалымат алуу үчүн [сезимдик иш-аракеттерди](/activities/sensory/) караңыз.
 
-## Looking after yourself too
+## Өзүңүздү дагы кам көрүңүз
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Кеч баскычтагы кам көрүү үйдө болобу же тейлөө үйүндө болобу, дене жана психологиялык жактан абдан оор болушу мүмкүн. Хоспис жана паллиативдык кам көрүү топтору комфорттуулук, колдоо жана пландаштырууда жардам бере алат, жана Улуттук институту аларды жардам булагы катары көрсөтөт. Кыска жана тынч сапарлар да маанилүү; [деменция менен жашап жаткан адамга баруу жөнүндө](/activities/visiting/) кеңештерди караңыз. Эгер топко жетекчилик кылсаңыз, [тейлөө үйүндөгү топтук иш-аракеттер](/activities/care-home-groups/) сизге көнүгүүлөрдү ыңгайлаштыруу боюнча идеяларды берет. Ошондой эле [кам көрүүчүдүн өзүнө кам көрүүсүн](/caregiving/caregiver-self-care/) окуп көрүңүз: эс алуу да жакшы кам көрүүнүн бөлүгү болуп саналат.

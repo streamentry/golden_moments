@@ -1,34 +1,29 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Pan wra nebon yn byw gans demensya nagha po bos fustries gans ober"
+seoTitle: "Pan nagh nebon gans demensya ober"
+description: "Prag y hyll den yn byw gans demensya nagha po bos kressys gans ober, fatel assay yn le, fatel worthevos, ha pan yw res dhe'n medhek chanj ansydh."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Pan wra den yn byw gans demensya leverel 'na', gwrewgh hy acceptya yn kosel hag assay arta diwettha po offry neppyth aral. Yn fenowgh yma acheson dhe'n nagha: yth yw an ober re gales po re floghves, yth yw skwith, yn anspeyrys, gwana po leun a dhanvon rag son. Na erbylyewgh na gul press. Gwrewgh y symlhe, offry dew dhewis, po govyn orth an den dhe weres. Chanj ansydh po uskis a emosiwn, yn arbennik wosa klevesigeth po medhegneth nowydh, a vydh res dhe'n medhek yn skon.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Yma 'na' ow servya gans gorthyp dhe vos meur a vri, nyns yw kudyn dhe'n gorfudha."
+  - "Yn fenowgh yma acheson dhe nagha: re gales, re floghves, skwith, disaynten, andhesedhek, po re veur a dhanvon."
+  - "Omdennewgh yn gil, gortosewgh, hag assay arta diwettha, yn eur dyffrans, po gans versyon symlach."
+  - "Gwell yw govyn orth an den dhe weres ages govyn dhodho gul neppyth."
+  - "Na erbylyewgh, na wrewgh press, na wrewgh govyn po korygi. Checkewgh agas honan rag herdhya po bos re ogas."
+  - "Ytal chanj ansydh po chanj ow kavoes uska, yn arbennik gans klevesigeth po medhegneth nowydh, a vydh res dhe'n medhek yn skon."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "A yw da gasa an den dhe hepkor gwriansow yn tien?"
+    a: "Ya, yn neb dydh. Esedha war-barth, goslowes orth ilow po mires orth an bys a yll bos lowr. Mars yw an den ow kavoes didholla war-lergh seythunys dhe bub tra, gwrewgh leverel dhe'n medhek, rag y hyll bos mood isel, payn po kudynnow yaghheans aral yn rann a'n skeusenn."
+  - q: "Prag y nagh i neppyth a garaens yn kyns?"
+    a: "Gall ober coth bos fustries pan yw res dhodho abilitaow re veu gwrys kales gans demensya, ha gall an den bos methys. Assayewgh rann symlach a'n keth ober, kepar ha sortya botonyow yn le na neydhla, po mires orth skeusennow lowarth yn le plandya."
+  - q: "A dalvien omriya dhe wul dhodho gul neppyth?"
+    a: "Na. Gul press war dhen may re veu gwrys kales gans demensya yw hwarvos aswonnys a wra kawsya kressyans. Acceptyewgh an 'na', chanjyewgh an desten, hag offryewgh arta diwettha po yn fordh aral."
+  - q: "Pan yw chanj yn emosiwn yn argemmyn?"
+    a: "Golyewgh 999 mars yma nebon yn peryl po gans arwodhyow a argemmyn medhegel. Rag konfusians ansydh po chanj yn emosiwn ow kavoes uska dres ourys po dydhyow, yn arbennik gans tergh, klevesigeth po medhegneth nowydh, kestewgh orth aga medhek yn skon."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +45,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Hwi re settyas puptra yn le, offry gwari po kerdh, ha klewes 'Na'. Po y hwarsa an ober yn ta ha diwedha gans tablenn brysys dhe'n wedren ha ger bryntin. Yth yw hwarvos ansughek, hag yn hwir gemevys yn fenowgh. Yn fenowgh yma messach dhe nagha ha fustrigeth, nyns yw malluster. Pan wrewgh trovya py messach yw, yn fenowgh hwi a wel pytra dhe assay nessa.
 
-## Why does someone with dementia refuse activities?
+## Prag y nagh den yn byw gans demensya gwriansow?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Yn fenowgh yma acheson, kyn na yll an den y leverel yn geryow. Yma [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ow notya y hyll an nagha styrya na yll an den gul an ober po yma own dhodho assay. Achosow kemeneth yw:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Yth yw re gales.** Yma edhom dhe'n ober a abilitaow re veu gwrys kales gans demensya lemmyn, ha gall bos methys a-rag nebon aral bos meethys.
+- **Yth yw re floghves.** Yma tus oos yn aswon skeusennow kepar ha kartonow, levow kanowa ha gwriansow a hevel bos gwrys rag fleghes.
+- **Skwithder.** Yma nebes tus gans le a nerth diwettha y'n dydh. Gwrewgh mires orth [gwriansow kosel yn diwedh an dohajydh](/caregiving/late-day-restlessness/).
+- **Andhesedhek korfek.** Yma an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ow rol payn, re nebes kousk, kalesder gweles po klewes, koth, nown po syghes, hag effeythyow a vedhegneth nowydh avel achosow posybyl a dhistregh.
+- **Re veur ow hwarvos.** Gall pellwolok ughel, lies kesklapp po stevel leun bos re veur rag an den.
+- **Bos gul press.** Yma an NIA ow henwel gul press war dhen dhe wul neppyth re veu gwrys pur gales gans demensya, po dhe borth memor a hwarvosow po tus, avel achos a kressyans.
+- **Mood isel.** Gall koll didholla yn taklow bos arwodh a dhykres, ha gwiw yw y ughelhe dhe'n medhek.
+- **Ny vynns i yn sempel.** Yma gwir dhe dus oos leverel 'na'.
 
-## What should I try when they say no?
+## Fatel y talvien assay pan lever an den 'na'?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Acceptyewgh an 'na' yn kosel, hag ena chanjyewgh neppyth: an eur, an ober, an kaletter, po an fordh may hwi a wovynn.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Gasa war-lergh rag lemmyn.** "Yw da, martesen diwettha." Ena kerdhewgh dhe neppyth aral heb hanas.
+2. **Assay arta diwettha.** Yma an Alzheimer's Association ow kul profyans dhe assay arta diwettha, po yn eur dyffrans y'n dydh.
+3. **Gwrewgh y le.** Un kespar yn le a wari dien. Onan towelynn yn le an basked ledh. Nebes skeusennow yn le a lies, po gasa skeusennow dhe vos gweladow.
+4. **Offry dew dhewis.** "A vynns ta mires orth skeusennow edhyn po goslowes orth nebes ilow?" Yma dhewis ow ri kontal war dhaskor.
+5. **Govyn orth an den dhe weres yn le gul devnydh anodho.** "A yllyn ta weres dhymm sortya an re ma?" po "Py liw a hevel gwell dhis?" Yma bos edhom dhe nebon ow kul dyffrans meur ages bos provys.
+6. **Dalleth hwi agas honan.** Dalleth an ober ryb an den heb y govyn. Yn fenowgh y tew tus orth y gesoberi pan yw neppyth ow hwarvos seulabrys, ha mars ny wraons, hwi re spendyas termyn war-barth yn still.
+7. **Skwychya dhe neppyth korfek po hevur.** Kerdh berr, ilow, brygh, plyga lien, po paus [analya kosel](/games/calm-breathing/) war-barth. Yma an NIA ow kul profyans dhe dhevi attentans dhe ilow, lyver po kerdh.
+8. **Gasa dhedho gul y'n fordh y fynn.** Mars myn an den gwari yn fordh aral ages an reoliow, kerdhewgh ganso. Yma an Alzheimer's Association ow kelwel bos fleksybel.
 
-## What should I say when they get frustrated?
+## Pytra dhe leverel pan vo an den fustries?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Gorregewgh, iselhewgh agas lev ha ri aswonvos. Yma [gansow an Alzheimer's Association war kressyans](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ow kul profyans dhe omdenna yn gil ha govyn kummyas, devnydh geryow kosel ha positif, hag offry dhewis gans dew opsiwn. Yma geryow yn keth spyrys:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Drog yw genev, yma hemma ow kul fustrigeth. Gasa dhyn."
+- "Yth es ta ow gul yn ta. Yma ov ryb dhis."
+- "A eus termyn dhis dhe weres dhymm gans neppyth aral?"
+- "A vynnsyn ni kavos paned a de yn le?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Ena diwedhewgh an ober heb gul travyth bras anodho. Agan [kussulyow kesklapp](/caregiving/communication-tips/) a re moy a derivadow war pytra dhe leverel.
 
-## What should I avoid?
+## Pytra dhe worthevos?
 
-Some natural reactions tend to make things worse.
+Yma nebes dasoberow naturel a yll gul taklow gweth.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Na erbylyewgh na gul press.** "Deus, yn un arta" po "Da yw gen ta hemma yn kyns" a yll bos diwerek yn fenowgh.
+- **Na wrewgh govyn po korygi.** "Godhvydh pytra yw hemma" po "Na, kamm yw an na" a re moy a wask.
+- **Na kemmerhewgh yn personel.** Yma an NIA ow memor dhe withysi bos an klav, nyns yw an den, a wra kawsya an chanjyow ma.
+- **Na bos re ogas po re uskis.** Yma an Alzheimer's Association ow kul profyans na vynns hwi ughe agas lev, diskwedhes own, kuffa, bos re ogas, lettya, kensura, skonya po erbyla orth an den, ha worthevos gwayansow ansydh a-dryv dhodho.
+- **Na devnydhhewgh kulp.** "My re settyas puptra war agas les" a wra gul dhe'gas beu dhe dheuxu hwegach.
+- **Na labelyewgh.** "Malluster" po "kales" a gudd an gwir acheson ha gul y galesa dhe dhiskudha.
 
-## How can I find out what is behind repeated refusals?
+## Fatel y hyllyn diskudha pytra yw a-dryv dhe naghow kepar-rag?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Gwithyewgh noten syml dres seythen po dew. Yma an NIA ow leverel y hyll holya chanjyow yn emosiwn gweres withysi ha profesyonel yaghheans aswon patron ha diskudha an acheson.
 
-Jot down:
+Notyewgh:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- an eur y'n dydh;
+- pytra a offrysowgh ha fatel y govynnowgh;
+- pytra o ow hwarvos a-dro (son, vysytyors, pellwolok);
+- fatel y'gas kowsa, y dhybri ha y eva, ha pan wrussons i dhe'n kambr diwotti diwettha;
+- neb medhegneth nowydh po klevesigeth a-dhiwedhes.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Yn fenowgh y tew patronow yn skon: naghow a hwarv yn unnik wosa 4 a'n eur, yn unnik gans unn wari, po yn unnik pan yw an pellwolok yn ena. Yma gans [gansow Family Caregiver Alliance war emosiwnow demensya](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ow leverel yn sempel: ny yllin ni chanjya an den, mes y hyllyn chanjya agan emosiwn agan honan ha'n kerghynnedh.
 
-## When should I talk to a doctor about refusal or frustration?
+## Pan talvien kewsel orth medhek a-dro dhe nagha po fustrigeth?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kewsewgh orth medhek pan vo chanj yn emosiwn ansydh, uskis, po gans arwodhyow a klevesigeth. Yma an NIA ow leverel bos res dhri chanjyow ansydh po ow kavoes uska yn emosiwn dhe attentans medhegel yn skon, yn arbennik mars re veu klevesigeth po chanjyow yn medhegneth diwettha dhodho.
 
-Contact their doctor promptly if you notice:
+Kestewgh orth aga medhek yn skon mars hwi a wra aswon:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- konfusians ansydh po chanj bras dres ourys po dydhyow;
+- arwodhyow a payn, kepar ha gwynseli, gwitha rann a'n korf, po kalesder nowydh ow gwaya;
+- tergh po arwodhyow aral a klevesigeth;
+- medhegneth nowydh po chanjys hag ena chanj yn emosiwn;
+- koll didholla yn ogas puptra, dagrow po omdenna ow pesya dres nebes seythunys;
+- nagha boos po diwas.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Yma an Alzheimer's Association ow kul profyans a sewyans medhegel throughys rag neb gans arwodhyow emosiynel, yn arbennik pan wraons omdhispletya yn ansydh. Yma Family Caregiver Alliance yn kelwel ynwedh checkya orth an medhek kensa, rag y hyll bos kudyn medhegel a-dryv dhe broblemow emosiynel. Na dhallath, na hedhi na chanjyewgh neb medhegneth heb kewsel orth medhek po kogover.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Mars yma nebon yn peryl po gans arwodhyow a argemmyn medhegel, golyewgh 999. Yma an NIA ow kul profyans leverel dhe'n dasoberer bos demensya gans an den.
 
-## Is it okay if we do nothing at all?
+## A yw da mars ny wren ni travyth oll?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ya. Yn nebes dydhyow an gwella ober yw heb ober vyth: esedha war-barth, synsi dornow, goslowes orth rekord kerensa, po mires orth edhyn a-dal an fenester. Nyns yw hwarvos a fyllel. Agan [gansow war wari war-barth](/caregiving/how-to-play-together/) a styry fatel y hyll hedhi a-varr, po nagha dalleth yn tien, bos an dewis ewn.

@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Уйку жана мээнин ден соолугу: изилдөөлөр эмне дейт"
+seoTitle: "Уйку жана деменция: изилдөөлөр эмне көрсөтөт"
+description: "Уйку менен деменция тобокелдиги тууралуу изилдөөлөр, мээни тазалоо боюнча алгачкы маалыматтар жана улгайган адамдарга, кам көрүүчүлөргө кеңештер."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Айрым узак мөөнөттүү изилдөөлөр орто жашта аз уйку деменция тобокелдиги жогору болушу менен
+  байланыштуу болушу мүмкүн экенин көрсөтөт. Лабораториялык изилдөөлөр уйку мээнин калдыктарды
+  тазалоосуна жардам бериши мүмкүн деп болжолдойт. Бул далилдер азырынча алгачкы, ал эми 2024-жылдагы
+  Lancet комиссиясы уйкуну өзгөртүүгө мүмкүн болгон тобокел фактору катары кошкон жок. Туруктуу
+  уйку адаттары күнүмдүк абалды жакшыртууга жардам берет. Деменция менен жашаган адамдарда уйку
+  көйгөйлөрү көп кездешет жана бул тууралуу дарыгер менен сүйлөшкөн жакшы.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "25 жыл бою болжол менен 8 000 адамды көзөмөлдөгөн Улуу Британиядагы изилдөө орто жашта алты саат же андан аз уктоо деменция тобокелдиги жогору болушу менен байланыштуу болушу мүмкүн экенин көрсөткөн."
+  - "Уйкудагы өзгөрүүлөр деменциянын алгачкы белгиси да болушу мүмкүн, ошондуктан себеби менен натыйжасын айырмалоо кыйын."
+  - "Уйкунун мээден бета-амилоидди тазалоосу боюнча изилдөөлөр бар, бирок алар алгачкы жана көбүнчө чычкандарда жүргүзүлгөн."
+  - "Уйку апноэси көп кездешет, аны дарылоого болот жана изилдөөлөрдө деменция менен байланышкан; катуу корулдоо жана күндүз уйкусу басуу текшерүүнү талап кылат."
+  - "Дарыгер менен кеңешпестен уйку дарысын же уйкуткучу каражатты баштабаңыз, токтотпоңуз жана өзгөртпөңүз."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Начар уйку Альцгеймер оорусун козгойбу?"
+    a: "Бул далилденген эмес. Айрым изилдөөлөр кыска уйку деменция тобокелдиги жогору болушу менен байланыштуу болушу мүмкүн экенин көрсөтөт, бирок деменциянын өзү да көп учурда диагноз коюлганга чейин бир нече жыл мурун уйкуну бузат. 2024-жылдагы Lancet комиссиясы далилдер жетишсиз бирдей эмес деп, уйкуну өзгөртүүгө мүмкүн болгон тобокел фактору катары кошкон жок."
+  - q: "Улгайган адамдар канча саат укташы керек?"
+    a: "Улгайган адамдарга карата Улуттук институттун (National Institute on Aging) маалыматы боюнча, аларга башка чоңдордой эле түнүнө 7ден 9 саатка чейин уйку керек. Көптөгөн улгайган адамдар мурункуга караганда эртерээк уктап, эртерээк ойгонушат, бул кадимки көрүнүш."
+  - q: "Эмне үчүн деменция менен жашаган адам күндүз уктап, түнкүсүн ойгоо болот?"
+    a: "Деменция организмдин ички саатына таасир этиши мүмкүн, ошондуктан уйку жана ойгоо болуу убакыттары аралашып кетет. Оору, зеригүү, ачка болуу же дарынын таасири да себеп болушу мүмкүн. Күндүзгү жарык, күнүмдүк аракеттер жана кечки тынч ыргытуу көнүгүүлөргө жардам бериши мүмкүн. Дарыгер дарылоого мүмкүн болгон себептерди текшере алат."
+  - q: "Сиз кам көргөн адамга уйкуткучу каражат берсем болобу?"
+    a: "Адегенде анын дарыгери менен сүйлөшүңүз, анын ичинде дарыканада рецептсиз сатылган каражаттар жөнүндө да. Улуттук институт (National Institute on Aging) Альцгеймер оорусу менен жашаган адамдарда айрым уйку дарылары баш айлануу, жыгылуу жана аң-сезимдин бузулуу тобокелин жогорулатышы мүмкүн экенин эскертет."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Уйку менен мээнин ден соолугу арасында байланыш бар экени айкын, бирок бул байланыш кантип иштейт алы так изилденип жатат. Айрым изилдөөлөр кыска уйку деменция тобокелдиги жогору болушу менен байланыштуу болушу мүмкүн экенин көрсөтөт. Ал эми деменция көп учурда уйкуну бузат. Бул баракта изилдөөлөр эмнени көрсөтүп, эмнени көрсөтпөй турганы түшүндүрүлөт, пайдалуу уйку адаттары сунушталат жана деменцияда көп кездешкен уйку көйгөйлөрү каралат. Бул жерде уйку дарылары боюнча кеңеш берилбейт; мындай маселени дарыгер менен талкуулаган туура.
 
-## Is poor sleep linked with dementia?
+## Начар уйку деменция менен байланыштуубу?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Айрым узак мөөнөттүү изилдөөлөр кыска уйку деменция тобокелдиги жогору болушу менен байланыштуу болушу мүмкүн экенин көрсөтөт, бирок далилдер азырынча толук чечилген эмес.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Улуу Британиядагы 25 жылдык изилдөө.** Изилдөөчүлөр [Whitehall II изилдөөсүндө](https://www.nature.com/articles/s41467-021-22354-2) болжол менен 8 000 чоң адамды көзөмөлдөшкөн. 50 же 60 жашында алты саат же андан аз уктаган адамдарда кийин деменция пайда болуу тобокели жети саат уктагандарга караганда жогору болгон. 50, 60 жана 70 жашында алты саат же андан аз уктаган адамдарда дайыма жети саат уктагандарга салыштырмалуу тобокел болжол менен 30% жогору болгон. Бул байкоо изилдөөсү, ошондуктан ал байланышты көрсөтөт, бирок себебин далилдебейт.
+- **Lancet комиссиясынын пикири.** [2024-жылдагы Lancet комиссиясы](https://doi.org/10.1016/S0140-6736(24)01296-0) уйкуну өзгөртүүгө мүмкүн болгон 14 тобокел факторунун тизмесине кошкон жок. Комиссия далилдерди жетишсиз бирдей деп баалады. Мунун бир себеби — тескери байланыш: деменцияга байланышкан мээ өзгөрүүлөрү диагноз коюлганга чейин бир нече жыл мурун башталып, уйкуну бузушу мүмкүн. Ири изилдөөлөрдүн биринде узак уктоо менен деменциянын ортосундагы байланыш биринчи беш жылдык көзөмөлдү эсепке албаганда жоголгон.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Ошондуктан кээде бир түн начар уктоо тынчсызданууга негиз болбошу керек. Туруктуу жана сапаттуу уйку бүгүнкү маанайга, сергектикке жана коопсуздукка жардам берет.
 
-## What is the "brain-clearing" sleep research?
+## «Мээни тазалоо» боюнча уйку изилдөөлөрү деген эмне?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Уйку мээни «тазалайт» деген сөздү уккан болушуңуз мүмкүн. Бул ой чыныгы изилдөөлөрдөн келип чыккан, бирок алгачкы этапта.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Чычкандарда.** 2013-жылдагы изилдөөдө, [NIH баяндагандай](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), чычкандар уктаганда мээ клеткаларынын ортосундагы боштук болжол менен 60% га чоңойгон. Суюктук мээ аркылуу, изилдөөчүлөр глимфатикалык система деп атаган жол менен, жеңилирээк агып өткөн. Альцгеймер оорусу менен байланышкан бета-амилоид протеини уктап жаткан чычкандардын мээсинен тезирээк тазаланган.
+- **Адамдарда.** Кичинекей [2018-жылдагы изилдөөдө](https://www.pnas.org/doi/10.1073/pnas.1721694115) 22ден 72 жашка чейинки 20 дени сак чоң адам кадимки түнкү уйкудан кийин жана уктабай өткөн түндөн кийин сканерден өткөрүлгөн. Уктабей өткөн түндөн кийин мээ сканериндеги бета-амилоид сигналы эстутум үчүн маанилүү аймак болгон гиппокампты камтыган бөлүктө болжол менен 5% көтөрүлгөн. Авторлор муну алгачкы далил деп аташкан. Алар бул өзгөрүү эс алгандан кийин жоголобу же бул тазалоонун жайлашынанбы же бета-амилоиддин көбүрөөк пайда болушунанбы экени белгисиз экенин айтышкан.
+- **Бул эки тараптуу байланыш.** Lancet комиссиясы бета-амилоиддин топтолушу улгайган адамдарда уйкуну өзү да бузушу мүмкүн экенин белгилейт.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Бул байкоолор изилдөөчүлөрдүн эмнеге уйкуга кызыкканын түшүндүрүүгө жардам берет. Бирок алар жакшы уйку Альцгеймер оорусунун алдын алаарын далилдебейт.
 
-## What sleep habits may help?
+## Кандай уйку адаттары жардам бериши мүмкүн?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+[Улгайган адамдарга карата Улуттук институттун (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) маалыматы боюнча, улгайган адамдарга башка чоңдордой эле түнүнө 7ден 9 саатка чейин уйку керек. Алардын сунуштары:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Туруктуу тартипти сактаңыз.** Дшемби менен жекшембиде да күн сайын бир эле убакта уктап, бир эле убакта ойгонуңуз.
+- **Уктоого даярдануу адатын түзүңүз.** Уктардын алдында китеп окуңуз, тынч музыка угаңыз же жылуу ванна кабыл алыңыз.
+- **Уктоочу бөлмөнү ыңгайлуу кылыңыз,** өтө ысык же өтө муздак болбосун.
+- **Күндүн экинчи жарымында кофеинди чектеңиз.** Кофе, чай, газдалган суусундуктар жана шоколад уйкуңузду качырышы мүмкүн.
+- **Алкоголдон алыс болуңуз,** аз өлчөмдө болсо да, деп кеңеш берет NIA.
+- **Уктардан эки-үч саат мурун көп тамактанбаңыз** жана күндүн кечинде көп суюктук ичпеңиз.
+- **Дайыма кыймылдаңыз, бирок уктаардан 3 саат мурун эмес.** Биздин [кыймыл-аракет боюнча колдонмону](/brain-health/exercise/) караңыз.
+- **Уктоочу бөлмөдө экрандарды колдонбоңуз.** NIA ал жерде сыналгы көрбөөнү, компьютер, телефон же планшет колдонбоону сунуштайт.
+- **Мүмкүн болсо, түштөн кийин же кечинде уктап албоңуз.**
 
-## Sleep problems in dementia
+## Деменциядагы уйку көйгөйлөрү
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Деменцияда уйкудагы өзгөрүүлөр көп кездешет. [NIA тизмесинде](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) өтө көп же өтө аз уктоо, түнкүсүн көп ойгонуу жана күндүз көп уктап калуу айтылат. Ошондой эле кечки мазасыздануу (sundowning) сүрөттөлөт: күн бата баштаганда же баткандан кийин тынчсыздануу, толкундануу же чаташуу күчөшү мүмкүн.
 
-Caregiver tips from the NIA include:
+NIA кам көрүүчүлөргө төмөнкү кеңештерди берет:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Күндүз эрте жарык жана кыймыл алыңыз.** Күн ичинде сыртка чыгып, же терезе жанына отуруңуз жана адамдын күн сайын активдүү болушуна жардам бериңиз. Жаркырак жарык ички саатты жөнгө салууга жардам бериши мүмкүн.
+2. **Күч керек иштерди эртең мененкиге пландаштырыңыз.** Жуунууну эртең менен өткөрүп, эң негизги тамакты түштө жегизүүгө аракет кылыңыз.
+3. **Күндүзгү уйкуну кыска жана эрте кылып коюңуз.** Кечинде уктап калууну чектеңиз.
+4. **Кечинде тынч чөйрө түзүңүз.** Жарыкты басаңдатыңыз, ызы-чууну азайтыңыз жана адам жактырса, жай музыка коюңуз. Биздин [кечки мазасыздануу боюнча колдонмобузда](/caregiving/late-day-restlessness/) кошумча идеялар бар.
+5. **Уктоор алдындагы туруктуу адатты сактаңыз.** NIA мисал катары ар кечинде бир убакта үн чыгарып окууну келтирет. [Туруктуу күнүмдүк тартип](/activities/daily-routine/) да жардам берет.
+6. **Кофеинди жана алкоголду чектеңиз.**
+7. **Уктоочу бөлмөдө, коридордо жана ванна бөлмөсүндө** түнкү жарыктарды колдонуңуз.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Түнкүсүн ойгонуп кетүү учурда NIAнын [үйдөгү коопсуздук боюнча кеңештерине](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) түнкү жарыктар же автоматтык жарык сенсорлору, ванна бөлмөсүндө кармоочу туткучтар, тепкичтердин четине ачык түстөгү лента жана дарыларды кулпуланган жерде сактоо кирет.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Кечинде кыска, тынч аракет экөөңөрдүн тең эс алып, тынчыганыңа жардам бериши мүмкүн. Жай [Calm Breathing](/games/calm-breathing/) тыныгуусу же бир нече [Conversation Cards](/games/conversation-cards/) карталарын тынчтыкта колдонуп көрүңүз. Уктардын алдында козгоочу нерселерден алыс болуңуз жана адам жетиштүү деди эле токтоп коюңуз.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Үзүлгөн уйку кам көрүүчүнү да чарчатышы мүмкүн. Биздин [кам көрүүчүнүн өзү жөнүндө кам көрүүсү боюнча колдонмодо](/caregiving/caregiver-self-care/) эс алуу жана жардам алуу жолдору көрсөтүлгөн.
 
-## What about sleep apnea?
+## Уйку апноэси жөнүндө эмне айтууга болот?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Уйку апноэси — уктап жатканда дем алуу кыска убакытка токтоп калуусу, көбүнчө түн ичинде көп жолу кайталанат. NIA айтымында, эгер ал дарыланбаса, жогорку кан басымы, инсульт же эстутум көйгөйлөрү сыяктуу кыйынчылыктарга алып келиши мүмкүн. Белгилерине катуу корулдоо жана күндүз уйкусу басуу кирет, ал эми көп адамдар өзүндө бул көйгөй бар экенин билишпейт. Lancet комиссиясы 11 изилдөөнү караган серепте уйку апноэси бар адамдарда деменция тобокели болжол менен 43% жогору болгонун баяндайт. Бирок ал изилдөөлөрдүн көбү дене салмагын эсепке алышпаган, ошондуктан бул байланыш так эмес.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Уйку апноэсин аныктоого жана дарылоого болот. NIA CPAP аппараты дээрлик ар дайым жардам берерин белгилейт. Эгер сиз же сиз кам көргөн адам катуу корулдаса, уктап жатканда деми токтоп калса же күндүз абдан уйкусу келсе, дарыгерге айтыңыз.
 
-## A note about sleep medicines
+## Уйку дарылары тууралуу эскертүү
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Биз уйку дарылары же кошумчалар боюнча кеңеш бербейбиз. NIA уйку дарылары кыска мөөнөткө жардам бериши мүмкүн, бирок уйкусуздукту толук жоё албайт деп эскертет. Ошондой эле Альцгеймер оорусу менен жашаган адамдарга уйку үчүн берилген айрым дарылар баш айлануу, жыгылуу жана аң-сезимдин бузулуу тобокелин жогорулатышы мүмкүн. Дарыгер же фармацевт менен кеңешпестен эч кандай уйку дарысын, анын ичинде дарыканада рецептсиз сатылган уйкуткучу каражаттарды баштабаңыз, токтотпоңуз жана өзгөртпөңүз.
 
-## Talk with a doctor
+## Дарыгер менен сүйлөшүңүз
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Эгер сиз же сиз кам көргөн адам дайыма чарчап жүрсө, түндөрдүн көбүндө уктоо кыйын болсо, катуу корулдаса же түнкүсүн деми токтоп калса, дарыгерге кайрылыңыз. Эгер деменциядагы уйку көйгөйлөрү уланса, [NIA медициналык кеңеш алууну сунуштайт](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning). Текшерүү ооруну, башка уйку бузулушун, ооруну же дарынын таасирин сыяктуу себептерди аныктоого жардам берет. Капыстан чаташуу же чаташуу менен коштолгон уйкудагы капыстан өзгөрүү тез медициналык жардамды талап кылат. [Качан дарыгерге кайрылуу керек](/brain-health/warning-signs/) деген баракты окуңуз.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Бул барак жалпы маалымат үчүн, медициналык кеңеш эмес. Биздин [медициналык жоопкерчиликтен баш тартуу](/medical-disclaimer/) барагын караңыз.

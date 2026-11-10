@@ -1,33 +1,35 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Үзгүлтүксүз орозо жана деменция: Изилдөөлөр эмнени айтат"
+seoTitle: "Үзгүлтүксүз орозо жана деменция: Изилдөөлөр"
+description: "Адамдарда үзгүлтүксүз орозо жана деменция боюнча далилдер аз жана алгачкы. Улгайган адамдар үчүн кооптуулуктар жана жетиштүү тамактануу маанилүү."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Үзгүлтүксүз орозо деменциянын алдын алаарын же анын жүрүшүн жайлатарын
+  көрсөткөн жетиштүү далил жок. Изилдөөлөрдүн көбү жаныбарларда жүргүзүлгөн,
+  ал эми улгайган адамдарга катышкан изилдөөлөр аз жана кыска мөөнөттүү.
+  Орозо улгайган адамдар үчүн кооптуу болушу мүмкүн: салмактын жана булчуңдун
+  жоголушу, кээ бир кант диабети дарыларын кабыл алганда кан шекеринин
+  төмөндөшү, суусуздануу жана жыгылуу. Деменция менен жашаган адамдар үчүн
+  көбүнчө жетиштүү тамактануу жана суюктук ичүү маанилүүрөөк маселе. Тамактануу
+  тартибин өзгөртүүдөн мурун дарыгер менен кеңешиңиз.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Картайуу боюнча улуттук институт (NIA) айрым орозо же калорияны чектөө диеталарын, өзгөчө улгайган адамдарга, сунуштоо үчүн жетиштүү далил жок экенин айтат."
+  - "Орозо жана картайуу боюнча изилдөөлөрдүн көбү жаныбарларда жүргүзүлгөн жана алардын натыйжалары сөзсүз түрдө адамдарга тиешелүү боло бербейт."
+  - "Улгайган адамдар үчүн мүмкүн болгон кооптуулуктарга күтүүсүз салмак жоготуу, булчуңдун азайышы, кээ бир кант диабети дарыларын кабыл алганда кан шекеринин төмөндөшү, суусуздануу, баш айлануу жана жыгылуу кирет."
+  - "Деменция менен жашаган адамдар көп учурда тамактанууну же суюктук ичүүнү унутуп коюшат же мурунтан эле тамактанып койгон деп ойлошот. Аларга жетиштүү тамактанууга жана суюктук ичүүгө жардам берүү, адатта, качан тамактануудан алда канча маанилүү."
+  - "Деменция менен жашаган адам үчүн орозону колдонбоңуз. Тамактануу тартибин өзгөртүүдөн мурун дарыгер же диетолог менен кеңешиңиз."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Үзгүлтүксүз орозо Альцгеймер оорусунун алдын алабы?"
+    a: "Муну көрсөткөн жетиштүү далил жок. Изилдөөлөрдүн көбү жаныбарларда жүргүзүлгөн, ал эми адамдарга катышкан сынактар көбүнчө кыска мөөнөттүү болуп, жашыраак же ашыкча салмактуу чоңдорго жасалган жана салмак жоготууга багытталган. Картайуу боюнча улуттук институт орозо диеталарын кеңири сунуштоо үчүн жетиштүү далил жок экенин айтат."
+  - q: "Үзгүлтүксүз орозо улгайган адамдар үчүн коопсузбу?"
+    a: "Коопсуз болбошу мүмкүн. Орозо күтүүсүз салмактын жана булчуңдун жоголушуна, суусузданууга, баш айланууга жана жыгылууга алып келиши мүмкүн. Ошондой эле инсулин же кээ бир башка кант диабети дарыларын кабыл алгандарда кан шекери кооптуу деңгээлде төмөндөп кетиши мүмкүн. Mayo Clinic бул ыкма сөөк жоготуу жана жыгылуу коркунучу жогору адамдарга ылайыктуу болбошу мүмкүн экенин белгилейт. Аракет кылуудан мурун дарыгер менен кеңешиңиз."
+  - q: "Деменция менен жашаган адам орозо кармашы керекпи?"
+    a: "Жок. Деменция менен жашаган адамдар көп учурда жетиштүү тамактанып, суюктук ичүүдө кыйынчылыкка туш болушат, ал эми начар тамактануу жүрүм-турумдагы өзгөрүүлөрдү күчөтүп, салмактын жоголушуна себеп болушу мүмкүн. Орозо далилденген пайдасыз кошумча кооптуулук жаратат. Анын ордуна үзгүлтүксүз тамактанууга, алар жактырган тамак-ашка жана жетиштүү суюктукка көңүл буруңуз."
+  - q: "Деменция менен жашаган адам жетиштүү тамактанып же суюктук ичпей жатканынын кандай белгилери бар?"
+    a: "Салмактын азайышына, кийимдин бошоп калышына, чарчоого, алсыздыкка, ич катууга же тамактануудан баш тартууга көңүл буруңуз. Картайуу боюнча улуттук институт суусуздануунун белгилери катары ооздун кургашын, баш айланууну, жүрөктүн тез кагышын жана галлюцинацияларды көрсөтөт. Ушундай белгилерди байкасаңыз, дарыгерге айтыңыз."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +57,153 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Үзгүлтүксүз орозо, мисалы, сегиз сааттын ичинде гана тамактануу же жумада эки
+күн калорияны кескин азайтуу, көп талкууланып жатат. Айрым макалалар ал мээни
+коргой алат деп жазышат. Эгер сиз улгайган адам болсоңуз же деменция менен
+жашаган адамга кам көрүп жүрсөңүз, төмөндө изилдөөлөр эмнени көрсөткөнү жана
+эмнеге этият болуу керектиги тууралуу маалымат берилген.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Бул жалпы маалымат болуп, медициналык кеңеш эмес. Орозо кармоону баштоодон
+мурун же сиз кам көргөн адамдын тамактануу тартибин өзгөртүүдөн мурун дарыгер
+же диетолог менен кеңешиңиз. [Медициналык жоопкерчиликтен баш тартуу](/medical-disclaimer/)
+барагын караңыз.
 
-## Does intermittent fasting prevent dementia?
+## Үзгүлтүксүз орозо деменциянын алдын алабы?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Үзгүлтүксүз орозо деменциянын алдын алаарын же анын жүрүшүн жайлатарын
+көрсөткөн жетиштүү далил жок. Картайуу боюнча улуттук институт (NIA) калорияны
+чектөө же орозо диеталарынын кайсы бир түрүн сунуштоо үчүн жетиштүү далил жок
+экенин, алардын натыйжалуулугу жана коопсуздугу, өзгөчө улгайган адамдар
+үчүн, дагы көп изилдениши керек экенин айтат
+([NIA: калорияны чектөө жана орозо диеталары](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Далилдер эмнеге анчалык чектелген
 
-The NIA gives several reasons:
+NIA бир нече себепти көрсөтөт:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Изилдөөлөрдүн көбү жаныбарларда жүргүзүлгөн.** Курттарда, чымындарда,
+  чычкандарда жана маймылдарда кызыктуу натыйжалар алынган, бирок бул
+  жыйынтыктар сөзсүз түрдө адамдарга тиешелүү боло бербейт. Жаныбарларда да
+  натыйжалар ар түрдүү; кээ бир чычкан линиясында калорияны чектөө өмүрдү
+  кыскарткан.
+- **Адамдарга катышкан сынактар кыска болгон.** Көбү бир нече жума же ай
+  гана созулган.
+- **Адамдарга катышкан сынактардын көбү эстутумга же деменцияга эмес,
+  ашыкча салмактуу чоңдордун салмак жоготуусуна багытталган.**
+- **Улгайган адамдар сейрек катышкан.** Көптөгөн сынактарга 60 жаш же андан
+  жашыраак адамдар тартылган.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026-жылдагы системалуу сереп 60 жаштан улуу адамдардагы үзгүлтүксүз орозону
+өзүнчө караган. Бул курактагы далилдер дагы деле чектелгенин, изилдөөлөр аз,
+байкоо мөөнөтү кыска жана дизайндары ар түрдүү экенин көрсөткөн. Ой жүгүртүү
+жана эстутум боюнча жыйынтыктар жалпыланган сыноо натыйжаларынан эмес, айрым
+изилдөөлөрдөн алынган. Сереп ошондой эле айрым изилдөөлөрдө өтө кыска тамактануу
+терезелери же узак орозо начар натыйжалар менен байланышканын белгилеп,
+авторлор улгайган адамдарга этият болууну сунушташкан
+([2026-жылдагы Nutrients сереби](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Айрым изилдөөчүлөр орозо учурунда дененин май күйгүзүүгө өтүшү мээге таасир
+этиши мүмкүн деп ойлошот, бирок бул азырынча изилденип жаткан божомол. NIA
+илимий маалыматтар дагы деле толук эмес экенин белгилейт.
 
-## What are the risks of fasting for older adults?
+## Улгайган адамдар үчүн орозонун кооптуулуктары кандай?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Көптөгөн улгайган адамдар үчүн орозо зыянсыз аракет эмес. Мүмкүн болгон
+кооптуулуктарга төмөнкүлөр кирет:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Күтүүсүз салмак жоготуу.** Денеге керектүү азыктан аз тамактануу салмактын
+  жана булчуң күчүнүн азайышына алып келип, адамды алсыраташы мүмкүн.
+- **Булчуңдун жана сөөктүн жоголушу.** NIA колдогон жаш жана орто жаштагы
+  чоңдорго жасалган эки жылдык калорияны чектөө сыноогунда катышуучуларда сөөк
+  тыгыздыгы жана булчуң массасы бир аз азайган.
+- **Кант диабети дарыларында кан шекеринин төмөндөшү.** Инсулин же кээ бир башка
+  кант диабети дарыларын кабыл алган адамдар тамакты өткөрүп жиберсе же
+  кечиктирсе, кан шекери өтө төмөндөп кетиши мүмкүн
+  ([Кант диабети жана тамак сиңирүү жана бөйрөк оорулары боюнча улуттук институт](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia)).
+  Кан шекеринин төмөндөшү баш айланууга, чаташууга жана ачууланууга себеп
+  болушу мүмкүн.
+- **Суусуздануу.** Тамак менен бирге суюктук да аз ичкирилсе, адам суусузданышы
+  мүмкүн.
+- **Баш айлануу жана жыгылуу.** Mayo Clinic үзгүлтүксүз орозо адамды абдан
+  чарчатып, башын айландырышы мүмкүн экенин жана сөөк жоготуу жана жыгылуу
+  коркунучу жогору адамдар үчүн бул тамактануу ыкмасы туура эмес болушу мүмкүн
+  экенин белгилейт
+  ([Mayo Clinic: үзгүлтүксүз орозо](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Башка таасирлер.** Mayo Clinic ошондой эле баш оору, маанайдын өзгөрүшү
+  жана ич катууну эскертет. Мындан тышкары, 16 саат орозо кармоо жана 8 саат
+  тамактануу терезеси башка тамактануу терезелерине салыштырмалуу жүрөк
+  ооруларынын коркунучун жогорулатышы мүмкүн деген айрым далилдер бар экенин
+  айтат. Бул далилдер али такталган эмес.
 
-## Why is eating enough the bigger concern with dementia?
+## Эмнеге деменцияда жетиштүү тамактануу кооптонуучу маселе?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Деменция менен жашаган адамдар үчүн көбүнчө негизги маселе өтө көп тамактануу
+эмес, тескерисинче, **жетиштүү** тамак-аш жана суюктук алуу болуп саналат.
+Alzheimer's Association оорунун орто жана кийинки баскычтарында адамдар
+тамактануу тандоосунан чарчап калышы, тамактанууну унутуп коюшу же мурунтан
+эле тамактанып койгон деп ойлошу мүмкүн экенин түшүндүрөт. Ошондой эле начар
+тамактануу жүрүм-турумдагы өзгөрүүлөрдү күчөтүп, салмактын жоголушуна себеп
+болушу мүмкүн экенин кошумчалайт
+([Alzheimer's Association: тамактануу](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society жетишсиз тамактануу салмактын азайышына, булчуң күчүнүн
+төмөндөшүнө, чарчоого жана алсыздыкка алып келерин, бул адамды алсыратаарын
+жана инфекциялардан калыбына келүүсүн кыйындатарын белгилейт
+([Alzheimer's Society: табит](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Ушул себептерден улам, деменция менен жашаган адам үчүн орозо ылайыктуу
+эмес.** Өткөрүп жиберилген тамак оңой эле такыр жейбеген тамакка айланышы
+мүмкүн. Деменция менен жашаган адамдын тамактануу тартибиндеги ар кандай
+өзгөртүү дарыгер же диетологдун жетекчилиги менен болушу керек.
 
-## What are the warning signs of poor eating or drinking?
+## Начар тамактануунун же суусуздануунун кандай белгилери бар?
 
-Watch for:
+Төмөнкүлөргө көңүл буруңуз:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Салмактын азайышы** же кийимдин бошоп калышы.
+- **Тамакты калтыруу же тамактануудан баш тартуу**, же тамакты оозунда
+  кармоо.
+- **Чарчоо же алсыздык.**
+- **Ич катуу**, бул тамактануу жана суусуздануу менен байланыштуу болушу
+  мүмкүн.
+- **Суусуздануу белгилери.** NIA ооздун кургашын, баш айланууну, жүрөктүн тез
+  кагышын жана галлюцинацияларды көрсөтөт; галлюцинациялар деменциянын өзүнөн
+  улам да пайда болушу мүмкүн
+  ([NIA: жалпы медициналык көйгөйлөр](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Табиттин начарлашышынын ар кандай себептери болушу мүмкүн: тиш оорусу же бошоп
+калган протездер, жаңы дарылар, депрессия, ич катуу, кыймылдын азайышы же даам
+менен жыт сезүүнүн өзгөрүшү. Ушундай белгилер тууралуу адамдын дарыгерине
+айтыңыз. Дарыгер себебин издеп, диетологго же кошумча азыктарга кеңеш бере
+алышы мүмкүн.
 
-## How can you help someone eat and drink enough?
+## Жетиштүү тамактанып, суюктук ичүүгө кантип жардам берсе болот?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Үч чоң тамактын ордуна** көп учурда аз-аздан тамак жана жеңил тамактар
+  сунуштаңыз.
+- **Жактырган тамактарды бериңиз** жана даамы өзгөрүшү мүмкүн экенин эске алып,
+  ийкемдүү болуңуз. Табит начар болсо, таттуу тамактар да ылайыктуу болушу
+  мүмкүн; шекерди чектөөгө байланыштуу ден соолук себептери бар-жогун
+  дарыгерден сураңыз.
+- **Суюктуктарды колго жакын жерге коюңуз** жана күн ичинде көп учурда кичине
+  идиштер менен сунуштаңыз. Сорпо, мөмө, смузи жана сүттүү коктейлдер да эсептелет.
+- **Мүмкүнчүлүк болгондо чогуу тамактаныңыз.** Тамактануу шашылыш иштер эмес,
+  бирге болгон убакыт болушу керек.
+- **Эгер идиш-аяк колдонуу кыйын болуп калса**, сэндвич, dilimделген мөмө же
+  тоок кесектери сыяктуу кол менен жеген тамактарды сунуштап көрүңуз.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Биздин [тамактануу боюнча колдонмо](/brain-health/diet/) тамактануу убагына
+байланыштуу кошумча кеңештерди берет. Тамак даярдоого жардам берүү да жагымдуу
+биргелешкен иш болушу мүмкүн; [үй жумуштары](/activities/household-tasks/)
+барагын караңыз.
 
-## Talk with a doctor
+## Дарыгер менен кеңешиңиз
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Өзүңүз үчүн кандайдыр бир орозо планын колдонуудан мурун, өзгөчө кант диабети
+же кан басымы үчүн дары кабыл алсаңыз, жакында салмак жоготсоңуз же мурун
+жыгылган болсоңуз, дарыгер же диетолог менен кеңешиңиз. Деменция менен жашаган
+адам үчүн орозо тууралуу эмес, күнүнө канча тамактанып, канча суюктук ичиши
+керектиги тууралуу анын дарыгеринен сураңыз.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Капыстан чаташуу, эстен тануу же тез өтпөгөн кан шекеринин кескин төмөндөшү
+белгилери байкалса, дароо тез жардамга кайрылыңыз (103 же 112).

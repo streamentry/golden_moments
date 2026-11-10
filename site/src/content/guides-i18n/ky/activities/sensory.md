@@ -1,33 +1,34 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Деменция менен жашагандар үчүн сезим иш-чаралары"
+seoTitle: "Деменцияда сезим иш-чаралары: идеялар жана коопсуздук"
+description: "Деменция менен жашагандар үчүн сезим иш-чаралары: кол массажы, кездемелер, табият үндөрү. Муунуу, аллергия жана жыт боюнча коопсуздук эскертүүлөрү."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Сезим иш-чараларында тийүү, жыттоо, даам билүү, угуу жана көрүү колдонулат:
+  жай кол массажы, жумшак кездемелер салынган себет, жыттоо үчүн жаңы чөптөр,
+  табият үндөрү же терезеден канаттууларды көрүү. Алар деменциянын ар бир
+  баскычына ылайык келет жана кийинки баскычтарда өзгөчө баалуу. Баштоодон
+  мурун муунуп калуу коркунучун, аллергияны, тери көйгөйлөрүн жана жытка
+  сезгичтикти текшериңиз, бир убакта бир нерсени гана сунуштаңыз жана сиз кам
+  көргөн адам ыңгайсыз болуп көрүнсө, токтоп коюңуз.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Сезим иш-чараларында туура жооп талап кылынбайт, ошондуктан алар ар бир баскычта, төшөктө же отургучта деле ылайыктуу."
+  - "Тынч бөлмөдө бир убакта бир сезимге гана таасир этүүнү сунуштаңыз жана тийүүдөн мурун сураңыз же эскертиңиз."
+  - "Кичине нерселерден жана тамакка окшогон, бирок тамак эмес заттардан алыс болуңуз, анткени адамдар аларды оозуна салышы мүмкүн."
+  - "Лосьон, жыттуу заттар же тамак-аш колдонордун алдында аллергияны, тери көйгөйлөрүн жана дем алуу маселелерин текшериңиз."
+  - "Ароматерапия деменция белгилерине жардам берери жөнүндө ишенимдүү далил жок; жыттарды, эгер кааласаңыз, жөн гана ырахат алуу үчүн колдонуңуз."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Деменция менен жашаган адам үчүн кандай сезим иш-чаралары ылайыктуу?"
+    a: "Жөнөкөй идеялар: лосьон менен жай кол массажы, жумшак кездемелерди кармоо, жаңы чөптөрдүн же кофенин жытын сезүү, сүйүктүү музыка же табият үндөрүн угуу, канаттууларды же аквариумдагы балыктарды көрүү, коопсуз текстурадагы сүйүктүү тамакты даамдоо. Бир убакта бир нерсени гана сунуштаңыз жана адамдын кандай жооп берерин байкаңыз."
+  - q: "Оозуна нерсе салган адам үчүн сезим иш-чаралары коопсузбу?"
+    a: "Ооба, этияттык менен болсо болот. Жутуп коюуга мүмкүн болбогон чоң нерселерди гана колдонуңуз, кичине же сынуучу нерселерден алыс болуңуз жана иш-чарадан кийин лосьон, самын жана жыттуу буюмдарды жетпеген жерге коюңуз, анткени алар тамакка окшоп көрүнүшү же жыттанышы мүмкүн. Бүткүл убакыт бою жанында болуңуз."
+  - q: "Ароматерапия деменцияга жардам береби?"
+    a: "Cochrane серепи ароматерапия деменция менен жашаган адамдарга жардам берери боюнча ишенимдүү далил тапкан жок, бирок изилдөөлөр аз жана бирдей эмес болгон. Эгер адамга жумшак, тааныш жыт жагса, бул ылайыктуу, бирок күчтүү эфир майларынан, өзгөчө дем алуу көйгөйлөрү же аллергия бар учурда, алыс болуңуз."
+  - q: "Ботончоктүү же иш-чара алжапкыч деген эмне?"
+    a: "Бул — чоң топчулар, сыдырмалар, ленталар жана текстуралуу жамаалар сыяктуу кармап кароого боло турган нерселер бекем тигилген кездеме, алжапкыч же тизе жамынчасы. Ал алек болгон колдорго изилдей турган нерсе берет. Суулуп калышы мүмкүн бошоп калган нерселер бар-жогун тез-тез текшерип туруңуз."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Сезим иш-чараларында беш сезим колдонулат: тийүү, жыттоо, даам билүү, угуу жана көрүү. Аларда эстутум, кадамдар же туура жооп талап кылынбайт, ошондуктан алар ар кандай баскычта пайдалуу болушу мүмкүн. Алар өзгөчө кийинки баскычтарда маанилүү. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) акыркы баскычта дүйнө негизинен сезимдер аркылуу кабыл алынарын жана камкордукту тийүү, үн, көрүү, даам жана жыт аркылуу көрсөтүүгө болорун белгилейт. Бир нече коопсуздук эрежелери бул иш-чараларды баарына тынч өтүүгө жардам берет.
 
-## What are sensory activities for dementia?
+## Деменция үчүн сезим иш-чаралары деген эмне?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Сезим иш-чаралары — бир убакта бир сезимге багытталган жөнөкөй тажрыйбалар, мисалы кездемени кармоо, чөптөрдүн жытын сезүү же жамгырдын үнүн угуу. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) кийинки баскычтагы иш-чаралар көбүнчө сезимдерге багытталышы керек экенин айтып, музыка, кармап кароого боло турган буюмдар жана кол массажын мисал катары келтирет. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) акыркы баскычтагы адамдарда сооротуу үчүн бир нерсени жакын кармоого муктаждык күчтүү болушу мүмкүн экенин белгилейт.
 
-## Sensory ideas, sense by sense
+## Ар бир сезим үчүн идеялар
 
-### Touch
+### Тийүү
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Кол массажы.** Колуңузга бир аз лосьон жылытып, билектен манжа учтарына чейин жай сүртүңүз. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) сооротуу үчүн жыты жок лосьон менен массаж жасоону эскертет.
+- **Кездеме себети.** Сүртүү, бүктөө жана алар жөнүндө сүйлөшүү үчүн баркыт, вельвет, флис, атлас жана жүндөн жасалган чоң кесимдер.
+- **Жылуу ным чүпүрөк.** Суук күндө колдор үчүн жылуу, ным чүпүрөк. Температураны адегенде өзүңүздүн билегиңизде текшериңиз.
+- **Иш-чара алжапкыч же тизе жамынчасы.** Чоң топчулар, сыдырмалар, ленталар жана текстуралуу жамаалар бекем тигилген.
+- **Бүктөө жана жылма кылуу.** Бүктөө, үйүү жана кайра бүктөө үчүн таза майда сүлгүлөр же салфеткалар салынган себет.
+- **Кармап турууга жумшак нерсе.** Флис жамынча, жаздык же реалдуу жумшак оюнчук жаныбар; жөн гана сунуштаңыз, оюнчук катары эмес.
 
-### Smell
+### Жыттоо
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Жаңы чөптөр.** Жалбыз, розмарин, базилик же лаванда жалбырактарын манжаларыңыздын арасында сүртүп, жыттаткыла.
+- **Ашкана жыттары.** Жакын жерде демделип жаткан кофе, куурулуп жаткан нан, дарчын же тазаланып жаткан апельсиндин жыты.
+- **Гүлдөр.** Бакчадан же дүкөндөн бир нече жаңы гүл алып келиңиз.
+- **Тааныш буюм.** Эгер териси көтөрсө, адам дайыма колдонуп келген самын же лосьон.
 
-### Taste
+### Даам билүү
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Сүйүктүү даам.** Адам коопсуз жута ала турган текстурада, мисалы алма пюреси, пудинг же балмуздак сыяктуу жакшы көргөн тамактан бир аз кашык.
+- **Бышырууга жардам берүү.** Бирге бышырганда жемиштен же бир аз кремден даам татуу.
+- **Маалым мезгилге ылайык тамактар.** Жайында дарбыз, күзүндө жылуу алма ширеси; коопсуз температурада бериңиз.
 
-### Sound
+### Угуу
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Сүйүктүү музыка.** Жай үн көлөмүндөгү тааныш ырлар; [музыка иш-чараларын](/activities/music/) караңыз.
+- **Табият үндөрү.** Жамгыр, толкун же канаттуулардын үнү. NIA айрым адамдар үчүн музыка, ак шум жана табият үндөрү эс алдырууга жардам бериши мүмкүн экенин белгилейт.
+- **Сиздин үнүңүз.** Үн чыгарып окуу, ындырып ырдоо же окуя айтып берүү.
+- **Жөнөкөй аспаптар.** Музыкага кошулуп ойноо үчүн кол барабаны, чайкама же коңгуроо.
 
-### Sight
+### Көрүү
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Терезеден көрүү.** Терезенин сыртындагы канаттууларга арналган жем берүүчү, үйүнө бараткан балдар же жаап жаткан кар.
+- **Аквариум же жай видео.** Катуу үнсүз, жай кыймыл.
+- **Чоң сүрөттөр.** Бир убакта бир так сүрөт, көз деңгээлинде кармоо.
+- **Түс жана оймо-чийме.** Жаркыраган кездеме кесимдерин, гүлдөрдү же түстүү салфеткаларды иреттөө, же биздин [боёо](/games/coloring/) топтомубуздан жөнөкөй барак.
+- **Сыртта.** NHS жыттуу өсүмдүктөрү, ар түрдүү текстуралары жана суу элементтери бар сезим бакчаларын сунуштайт. [Сырттагы жана бакча иш-чараларын](/activities/outdoor-and-gardening/) караңыз.
 
-## How to make a sensory box
+## Сезим кутучасын кантип жасоо керек
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Адамдын жашоосу менен байланышкан тема тандаңыз:** пляж, бакча, ашкана, устакана, тигүү.
+2. **Беш же алты чоң, коопсуз нерсе тандаңыз,** мисалы чоң үлүл кабыгы, жыгач кашык, жумшак жоолук, ичине кургатылган лаванда бекем тигилген майда баштыкча же жылма жыгач блок.
+3. **Ар бир нерсени** майда бөлүктөр, курч кырлар, бош жиптер жана сынуучу нерселер бар-жогу боюнча текшериңиз.
+4. **Бир убакта бир нерсени гана чыгарыңыз.** Аны берип, сүрөттөп айтыңыз жана адамга изилдөөгө мүмкүнчүлүк бериңиз.
+5. **Кийин кутучаны алып коюңуз,** ошентип ал өзгөчө бойдон калат жана кийинки жолу чейин нерселер кайра текшерилет.
 
-## Safety first
+## Адегенде коопсуздук
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Сезим иш-чаралары жумшак мүнөздө болсо да, бир нече коркунуч маанилүү. Деменция менен жашаган айрым адамдар тамак эмес нерселерди тамак деп жаңылышы мүмкүн, ал эми убакыт өтүү менен жутуу кыйындай түшүшү мүмкүн; NIA акыркы баскычтагы жутуу көйгөйлөрү муунуп калуу коркунучун жогорулатарын эскертет.
 
-| Risk | What to do |
+| Коркунуч | Эмне кылуу керек |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Муунуп калуу | Жутуп коюуга мүмкүн болбогон чоң нерселерди гана колдонуңуз. Кутучада бош топчулар, мончоктор, тыйындар, шариктер же кичине оюнчуктар болбошу керек. Тамакты кам көрүү командасы коопсуз деп айткан текстурада гана бериңиз. |
+| Тамакка окшогон нерселер | NIA тамакка окшоп көрүнүшү же жыттанышы мүмкүн болгон лосьон, самын, шампунь жана атырды кулпулап коюуну жана жасалма жемиштерди алып салууну сунуштайт. Сезим буюмдарын колдонуудан кийин алып коюңуз. |
+| Аллергия | Баштоодон мурун жаңгакка, латекске, жүнгө, өсүмдүктөргө же жыпар жыттарга аллергия бар-жогун текшериңиз. |
+| Күчтүү жыттар | Күчтүү атырлардан жана эфир майларынан, өзгөчө астма же башка дем алуу көйгөйлөрү бар болсо, алыс болуңуз. Жумшак, табигый жыттар коопсузураак. |
+| Тери | Массаж жасоодон мурун ооруп турган, жаракаттанган же начар терини текшериңиз. Жай басым колдонуңуз жана адам кыйшайса, токтоп коюңуз. |
+| Температура | Жылуу чүпүрөктөрдүн жана суусундуктардын температурасын адегенде өзүңүздүн билегиңизде текшериңиз. |
+| Курч же уулуу нерселер | Курч аспаптар, айнек же уулуу кол өнөрчүлүк материалдары колдонулбашы керек. |
 
-## Does aromatherapy help?
+## Ароматерапия жардам береби?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Өлчөнө турган пайдасы болушу мүмкүн эмес. [Деменция үчүн ароматерапия боюнча Cochrane сереби](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) баары кам көрүү үйлөрүндө болгон 708 адам катышкан 13 изилдөөнү карап чыгып, пайдалуу экенине ишенимдүү далил тапкан жок. Изилдөөлөр аз болгон, жыйынтыктар бири-бирине дал келбеген жана терс таасирлер жетишсиз катталган. Эгер адамга бакчадан алынган лаванда сыяктуу жумшак, тааныш жыт жакса, аны бөлүшүү үчүн бул жакшы себеп. Бул дарылоо эмес.
 
-## How to offer a sensory activity
+## Сезим иш-чарасын кантип сунуштоо керек
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Тынч учурду тандаңыз** жана сыналгыны өчүрүңүз.
+- **Алды жагынан жакындап,** атын айтып, тийүүдөн мурун сураңыз же эскертиңиз: «Менде лосьон бар. Колуңузга массаж жасасам болобу?»
+- **Адамды чарчатпоо үчүн бир убакта бир нерсени гана сунуштаңыз.**
+- **Жоопту байкаңыз.** Жумшаган жүз, эс алган колдор же жылмаюу — жакшы белгилер. Тартылып калуу, кабак тыюу же тынчсыздануу — токтоо керек деген белги.
+- **Кыска кармаңыз.** Беш мүнөттүк тынч убакыт — жакшы.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Аяктоонун жумшак жолу катары [тынч дем алуу](/games/calm-breathing/) сыяктуу бирге жай дем алуу болот. Төшөк жанында жасоого боло турган кошумча идеялар үчүн [кийинки баскычтагы иш-чараларды](/activities/late-stage/), ал эми кечинде тынчсыздануу жөнүндө [кечки тынчсызданууну](/caregiving/late-day-restlessness/) караңыз.
