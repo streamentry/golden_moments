@@ -57,6 +57,10 @@ Lowest dimension: verification health at 7.5. This clears the numeric bar, but t
 
 The two-choice panel reuses the existing game artwork and content. Its links have 112 px minimum height, visible labels, and focus/contrast styles. The site suite is now 724 passing tests and TypeScript is clean. The Bengali duplicate-key errors were repaired; the full build now stops on an overlong Tibetan guide description, and `check-site` has not run. The Flutter SDK remains unavailable, and the live browser/caregiver checks remain open. The recorded score is still **9.62**, with verification health at **7.5**; this is not evidence that the current website build or app tests passed.
 
+## Round 41 score update (2026-11-10)
+
+The added raster labels follow the existing locale coverage: 44 of 64 app locales have translated labels and 20 retain the English fallback. The new data regression test checks all 100 labels against the illustration manifest and generated mobile catalog. This does not change the rubric's existing coverage ratio. The site suite has 725 passing tests and TypeScript is clean; the full build still stops on the Tibetan guide description, `check-site` did not run, and Flutter is unavailable. Keep the recorded score at **9.62**, with verification health at **7.5**; native-speaker and device checks are not verified and are not scored.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

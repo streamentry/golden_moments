@@ -57,24 +57,38 @@ execFileSync('python3', ['-c', [
 rmSync(work, { recursive: true, force: true });
 writeFileSync(join(OUT, 'manifest.json'), `${JSON.stringify({ size: SIZE, pictures: manifest }, null, 2)}\n`);
 
-// Names: English from pictures.ts, the rest from the site's play files.
-// Site codes use a hyphen (pt-BR); the app's locale names use an underscore.
-const ids = new Set(PICTURES.map((p) => p.id));
-const names = { en: Object.fromEntries(PICTURES.map((p) => [p.id, p.name])) };
-for (const file of readdirSync(PLAY).filter((f) => f.endsWith('.json')).sort()) {
-  const code = file.slice(0, -5);
-  if (code === 'en') continue;
-  const pictures = JSON.parse(readFileSync(join(PLAY, file), 'utf8')).pictures ?? {};
-  const own = Object.entries(pictures).filter(([id, name]) => ids.has(id) && typeof name === 'string' && name.trim());
-  if (own.length) names[code.replace('-', '_')] = Object.fromEntries(own);
-}
-
-// Raster drawings made later with the Codex CLI (assets/images/illustrations/,
-// listed in its manifest). They are not built from pictures.ts, so this script
-// only lists them; their names are English until translated.
+// English names for the two libraries come from their source files. Each
+// locale's play file holds translations for both; the app's locale names use
+// underscores while the site codes use hyphens (pt-BR).
 const ILLUSTRATIONS = JSON.parse(
   readFileSync(join(REPO, 'assets/images/illustrations/manifest.json'), 'utf8'),
 ).illustrations;
+const ids = new Set(PICTURES.map((p) => p.id));
+const illustrationIds = new Set(ILLUSTRATIONS.map((i) => i.id));
+const englishIllustrations = JSON.parse(readFileSync(join(PLAY, 'en.json'), 'utf8')).illustrations ?? {};
+if (
+  Object.keys(englishIllustrations).length !== ILLUSTRATIONS.length ||
+  ILLUSTRATIONS.some((illustration) => englishIllustrations[illustration.id] !== illustration.name)
+) {
+  throw new Error('English illustration names in play/en.json do not match the illustration manifest');
+}
+const names = {
+  en: {
+    ...Object.fromEntries(PICTURES.map((p) => [p.id, p.name])),
+    ...englishIllustrations,
+  },
+};
+for (const file of readdirSync(PLAY).filter((f) => f.endsWith('.json')).sort()) {
+  const code = file.slice(0, -5);
+  if (code === 'en') continue;
+  const dictionary = JSON.parse(readFileSync(join(PLAY, file), 'utf8'));
+  const pictures = Object.entries(dictionary.pictures ?? {}).filter(([id, name]) => ids.has(id) && typeof name === 'string' && name.trim());
+  const illustrations = Object.entries(dictionary.illustrations ?? {}).filter(([id, name]) => illustrationIds.has(id) && typeof name === 'string' && name.trim());
+  const own = [...pictures, ...illustrations];
+  if (own.length) names[code.replace('-', '_')] = Object.fromEntries(own);
+}
+
+// Raster drawings made later with the Codex CLI live in their own manifest.
 for (const i of ILLUSTRATIONS) {
   if (ids.has(i.id)) throw new Error(`illustration id ${i.id} collides with a picture`);
 }

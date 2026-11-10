@@ -69,3 +69,9 @@ Application: the mobile app already has a picture-viewing activity with optional
 - [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) — read. It recommends short, direct questions, one idea at a time, time to respond, and a few choices.
 
 Application: in the existing `/today/` advice, “nothing to do” already recommends offering two choices, but the interface linked one game. Two illustrated game links now make that advice usable without requiring the person to speak. This is a product inference, not evidence that a choice board treats or improves dementia.
+
+## Round 41: illustration names in the app's language (read 2026-11-10)
+
+- [Alzheimer's Association: Communication and Alzheimer's](https://www.alz.org/help-support/caregiving/daily-care/communications) — read. It notes that communication can change, including difficulty finding familiar words or returning to a native language.
+
+Application: the app's 100 newer raster illustrations previously supplied English screen-reader labels in every locale. The shared picture-name map now contains machine translations for the 44 app locales whose existing drawing names are complete. The 20 low-confidence locales remain on the English fallback; their earlier picture-name gap is still recorded above. This is an accessibility inference, not evidence that localized labels improve health outcomes. None of the new labels has native-speaker review.

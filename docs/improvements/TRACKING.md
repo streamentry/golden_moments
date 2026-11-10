@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 40 / 100 completed**
+**Progress: 41 / 100 completed**
 
 ---
 
@@ -50,6 +50,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 38 | 2026-11-08 | `d333a59` | Recovered-Photos Action Names Its Outcome (Verb + Object, Replacing "Continue") | W3C COGA Objectives 1 & 4 and the W3C WAI Cognitive Accessibility pattern "Use Clear Visible Labels" (search result, not read in full); UX button-label guidance such as Splunk's button label rules and Adam Silver's examples (search results, general UX, not dementia-specific): the dialog that asks whether to add photos recovered after a restart had only a generic "Continue", so the person could not tell what would happen. The primary button now reads "Add the photos" and the other choice "Not now", matching the recovery dialog. Localized in 64 locales (machine-made, unreviewed). | Mobile app: `photo_collection_page.dart`, `app_*.arb`, `photo_collection_journey_test.dart` | Done |
 | 39 | 2026-11-10 | `b386ef21` (label), `cd29a93a` (feature) | Optional conversation prompts on the website | [Alzheimer's Association: Activities](https://www.alz.org/help-support/caregiving/daily-care/activities) advises adapting activities to the person's response and focusing on enjoyment; [Dementia Australia: Activities](https://www.dementia.org.au/living-dementia/staying-connected/activities-people-dementia) recommends starting together, using one simple step at a time and keeping activities short. The app already has look-only viewing with optional prompts; website Conversation Cards always showed a question. Added a checkbox to hide or restore it, and keep its question out of speech when hidden. | Website: `ConversationCards.tsx`, `conversation-prompt.ts`, `games.css`, `play/en.json` | Implemented; focused and full site tests pass, TypeScript passes. Full site build blocked by a duplicate YAML key in the unchanged Bengali `picture-bingo.md`; Node 24 was unavailable. No caregiver/device test. |
 | 40 | 2026-11-10 | `52f4a422` | Two picture choices for the “nothing to do” moment | [Alzheimer's Society: communicating without speech](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/support-person-dementia-communicate-unable-speak) describes pictures a person can point or nod to; [Dementia Australia: talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) recommends simple questions and a few choices. The `/today/` answer already says to offer two choices, but showed only one activity link. It now offers two illustrated links: Picture pairs or Conversation cards. | Website: `Today.tsx`, `ActivityChoiceBoard.tsx`, `situations.ts`, `today.astro` | Implemented; 724 site tests and TypeScript pass. After two Bengali frontmatter repairs, the build stops on a Tibetan description over the 220-character limit. No caregiver/device test. |
+| 41 | 2026-11-10 | pending | Screen-reader names for the new illustrations in app languages | [Alzheimer's Association: Communication and Alzheimer's](https://www.alz.org/help-support/caregiving/daily-care/communications) notes some people may return to their first language as communication changes. The app's 100 new raster illustrations had only English labels. Added localized names in the 44 non-English app locales that already have all drawing names; the 20 low-confidence locales keep the English fallback. | Shared app/site label data: `site/src/i18n/play/*.json`, `export-pictures.mjs`, generated `picture_library.g.dart` | Implemented; machine-made and unreviewed. Site tests, TypeScript, translation helper tests and generated-map test pass. No Flutter/device/native review. Full site build blocked by an unrelated Tibetan guide schema error. |
 
 ---
 
@@ -57,8 +58,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 41 | *Next in queue* | Pending |
-| 42–100 | Planned one by one | Pending |
+| 42 | *Next in queue* | Pending |
+| 43–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -87,3 +88,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 |---|---|---|
 | Removed the empty duplicate FAQ `a` field from `bh/activities/picture-bingo.md`; quoted the Bhojpuri key point containing a colon in `bh/caregiving/asking-to-go-home.md`. The translated text was otherwise preserved. | Both files were clean before editing; Astro passed them after the repair and reported a different schema error. | Committed separately as validation maintenance, not a product improvement. |
 | Current build blocker | `pnpm --dir site verify` passes all 724 tests, then reports `description: expected <=220 characters` in the unchanged `bo/activities/holidays.md`. `check-site` did not run. | Build remains unverified; Node 24.11.1 is unavailable in this environment. |
+
+## Round 41: localized labels for the 100 raster illustrations
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association says some people with Alzheimer's may revert to speaking their native language and can have trouble finding familiar words. | Applying that to screen-reader labels is a product inference, not a clinical claim. |
+| Gap and change | `ActivityPicture.localizedLabel` already reads the shared language map, but the 100 newer raster illustrations existed only with English fallback labels. Added a top-level `illustrations` map to play dictionaries and taught `export-pictures.mjs` to include it in the generated mobile catalog. The same English source map is checked against the illustration manifest. | 100 labels now exist in English and 44 non-English app locales with complete drawing-name coverage. Twenty previously low-confidence locales deliberately keep their English fallback. |
+| Translation process | `site/scripts/translate_illustration_names.py` uses the repository's existing translation endpoint, updates only missing labels and skips locales with incomplete drawing-name coverage. Existing label maps were preserved. | Machine-made; native review still needed. |
+| Tests and export | `site/src/data/illustration-names.test.ts` checks manifest parity and that generated Dart contains all 100 labels for the 44 eligible locales. `pnpm --dir site test`: 725 pass. `pnpm --dir site exec tsc --noEmit`: pass. `python3 -m unittest discover -s tests -p 'test_translate_illustration_names.py' -v`: two pass. `export-pictures.mjs` ran and regenerated `picture_library.g.dart`. | Pass. |
+| Full checks | `pnpm --dir site verify` passes 725 tests, then stops on an unchanged Tibetan guide description exceeding 220 characters. `check-site` did not run. Root Python suite has one existing failure because `AGENTS.md` is 166 lines against its test's 160-line limit. Flutter is unavailable. | Build, root full suite and app-specific verification remain open; the errors are not caused by this label map. |
+| Not verified | No native-speaker review, Flutter suite, device screen-reader run, or live browser inspection. | Open. |

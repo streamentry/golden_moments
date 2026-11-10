@@ -279,6 +279,7 @@ How to read DAU/WAU/MAU, D1/D7/D28 retention and the limits of each figure:
 | One drawing library for both: 83 hand-coded drawings (33 originals given shade, shine and contact shadows; 50 new across kitchen, fruit, garden, animals, home, travel and sky) | Implemented; site tests check well-formed SVG, unique ids and the app copies' hashes |
 | App starter activities (gentle game, Look together, Daily moment, Home preview) show the drawings instead of six Material icons | Implemented; 664 Flutter tests; iOS simulator checked Home and the gentle board |
 | Names: English for all 83; the 33 originals keep their existing translations; the 50 new names fall back to English in other languages | Translation of the new names is not done |
+| New mobile-only raster illustration names | 100 screen-reader labels are translated in the 44 app locales that already have all drawing names; 20 low-confidence locales keep the documented English fallback. Generated into `picture_library.g.dart`; machine translations are unreviewed. |
 | Boards saved by earlier builds with icon ids (flower, cup, home, pet) still resume | Covered by the installed-data upgrade test |
 | Website `/pictures/` gallery (English), linked from the footer | Implemented; production build and `check-site` pass with 0 errors |
 | Rights | Drawn for this project in code; recorded as `shared-drawings` in `docs/specs/asset-provenance.json`, unreviewed by a person |

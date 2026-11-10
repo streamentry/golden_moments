@@ -49,6 +49,11 @@ member or carer. Write plain, warm, adult language.
 | `content.coloring` | 5 page names + 47 region names | Coloring |
 | `content.sorting` | 3 themes × (label + 2 basket names) | Sort together |
 
+The 20 low-confidence locales with incomplete `pictures` names keep their
+existing English fallback, as recorded in `docs/improvements/TRACKING.md`.
+The app-only `illustrations` map is translated in the 44 app locales that
+already have all 83 drawing names; it is not used by the browser games.
+
 ### `ui`
 
 - Keep every `{placeholder}` exactly as written; you may move it within the
