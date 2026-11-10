@@ -2,7 +2,7 @@ import { existsSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import { GAMES } from '../../data/games';
 import { PICTURES } from '../../data/pictures';
-import { SITUATIONS, SITUATION_IDS } from './situations';
+import { SITUATIONS, SITUATION_BY_ID, SITUATION_IDS } from './situations';
 
 const GUIDES = new URL('../../content/guides/', import.meta.url);
 
@@ -54,7 +54,16 @@ describe('situations', () => {
     expect(pictures.has(games.get('picture-pairs')?.cardPictures[0] ?? '')).toBe(true);
   });
 
-  it('always says when to get help, with an emergency number', () => {
-    for (const s of SITUATIONS) expect(s.help).toMatch(/911/);
+  it('labels U.S. support lines and gives a local emergency alternative', () => {
+    for (const s of SITUATIONS) {
+      expect(s.help).toContain('In the U.S.');
+      expect(s.help).toContain('local emergency number');
+    }
+
+    const wornOut = SITUATION_BY_ID.get('worn-out');
+    expect(wornOut?.help).toContain('U.S. and its territories');
+    expect(wornOut?.help).toContain('local crisis support');
+    expect(wornOut?.tries[1]).toMatch(/^In the U\.S\., call the Alzheimer’s Association/);
+    expect(wornOut?.tries[2]).toMatch(/^In the U\.S\., call the Eldercare Locator/);
   });
 });
