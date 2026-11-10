@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Visitare hominem cum dementia in cura vel valetudinario"
+seoTitle: "Visitare hominem cum dementia: quid facere et ferre"
+description: "Quid facere, cum hominem cum dementia in cura, domo nutricationis vel valetudinario visitas: quid ferre, simplices actiones, breves visitationes et quomodo bene discedere."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Cum hominem cum dementia in cura vel in valetudinario visitas, rem simplicem
+  serva: nomen tuum dic, cum advenis, aliquid ad communicandum affer, ut
+  photographias, musicam aut cibum gratum, et unam rem facilem una facite.
+  Visitationes breviores et crebrae saepe melius procedunt quam longae et
+  rarae. Para vale placidum et constans, ut discessus utrique facilior sit.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Hominem nomine saluta et dic quis sis, ne id conicere debeat: «Salve, mater, ego sum Susanna, filia tua.»"
+  - "Affer unam aut duas res ad communicandum, ut librum photographiarum, musicam gratam, lodicem mollem aut cibum quem ministri approbaverunt."
+  - "Visitationes breviores et crebrae saepe melius procedunt quam longae et rarae. Praesentia tua plus valet quam verba tua."
+  - "In valetudinario da ministris paginam unam de hoc homine et medico statim dic, si quid subito mutatum videris."
+  - "Discessum para: dic quam diu manere possis, eodem modo semper vale dic, et sine mora discede."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Quid afferre debeo, cum hominem cum dementia visito?"
+    a: "Affer aliquid ad communicandum, non aliquid de quo disserendum sit. Parvus liber photographiarum, index carminum gratissimorum, lodix mollis, unguentum manuum, libellus de studio pristino aut cibus quem ministri approbaverunt bene conveniunt. In domo curae, photographiae familiares et res notae etiam cubiculum magis familiare reddere possunt."
+  - q: "Quam diu manere debeo, cum hominem cum dementia visito?"
+    a: "Nulla est certa mensura temporis. Multae familiae inveniunt visitationes breviores et crebriores melius procedere quam longas et raras, quia homo cito defatigari potest nec fortasse meminerit quam diu manseris. Signa defatigationis observa et discede, dum visitatio adhuc iucunda videtur."
+  - q: "Quid dicam, si domum redire petit?"
+    a: "Ad sensum responde, non ad verba. «Domum redire volo» saepe significat «non me commode aut tuto sentio». Conare dicere: «Narra mihi de domo tua», una photographias spectate, aut ambulationem vel cibum offer. Si contradicis aut explicas cur abire non possit, anxietas plerumque augetur."
+  - q: "Quid faciam, si me non agnoscit?"
+    a: "Id dolere potest, sed noli eum corrigere nec quaerere: «Nonne scis quis sim?» Te ipsum benigne et simpliciter praesenta et tempus una fruimini. Multi homines societatem adhuc iucundam habent et calorem visitationis sentiunt, etiam si non intellegunt quis sis."
+  - q: "Quomodo in valetudinario adiuvare possum?"
+    a: "Cum homine mane, cum potes, eum ad edendum et bibendum adiuva, et res familiares ut photographias affer. Da ministris paginam in qua consuetudo eius, nomen quod mavult, ea quae ei placent vel displicent et signa doloris scripta sunt. Medico statim dic, si homo subito peius aut aliter se habere videtur, quia confusio subita signum difficultatis medicae esse potest."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Visitare hominem carum in cura memoriae, in domo nutricationis vel in valetudinario multos sensus movere potest. Fortasse miraris quid dicas, quid afferas, aut an visitatio aliquid valeat, si is eam non meminerit. Valet. National Institute on Aging dicit homines cum morbo Alzheimer [saepe societate gaudere](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), etiam cum non meminerint quis visitator sit. Haec pagina consilia practica praebet ante visitationem, inter visitationem et post eam, atque etiam consilia propria pro mora in valetudinario.
 
-## How do I get ready for a visit?
+## Quomodo me ad visitationem paro?
 
-A little planning makes the visit easier for both of you.
+Paulum praeparationis visitationem utrique faciliorem reddit.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Tempus aptum elige.** Dementia Australia suadet visitare, cum homo plerumque maxime vigil esse solet, quod multis mane aut circa meridiem est. Family Caregiver Alliance suadet cognoscere ordinem diei loci et visitare [tempore libero potius quam tempore actionum](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Ministros interroga.** Quaere quomodo homo hodie se habeat, et de regulis ciborum, animalium domesticorum aut exituum interroga.
+- **Parvam sarcinam visitationis para.** Una aut duae res ad communicandum satis sunt (vide indicem infra).
+- **Pauca argumenta cogita.** Homo fortasse nova non habet quae narret, itaque tua affer: nova de familia, caelum, ludum pilae, rem iucundam.
+- **Exspectationes tuas constitue.** Nonnullae visitationes calidae et loquaces erunt. Aliae quietae aut difficiles erunt. Utrumque solitum est.
 
-## What should I bring?
+## Quid afferre debeo?
 
-Bring things to share, not things that test. Good choices include:
+Affer res ad communicandum, non res quae probant. Bonae electiones sunt:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Parvus liber photographiarum** cum imaginibus magnis et claris. In tergo nomina scribe pro ministris.
+- **Index carminum** carminum gratissimorum in telephono, cum auricularibus simplicibus aut parvo sono.
+- **Aliquid molle ad tenendum,** ut lodix, focale aut vestis nota.
+- **Unguentum manuum** ad lenem manuum tractationem, si homo tactum libenter accipit.
+- **Libellus aut liber imaginum** de studio pristino, ut hortus, autocineta, aves aut coquina.
+- **Cibus gratus**, si ministri dicunt eum tutum esse.
+- **Res familiares pro cubiculo.** Family Caregiver Alliance flores, plantas, imagines familiares et opera artis suadet, aut magnam tabulam cum photographiis familiae ex praeterito.
+- **Tabulam computatralem**, ad imagines familiares spectandas aut ad ludum lenem una ludendum.
 
-## What can we do together during a visit?
+## Quid una facere possumus inter visitationem?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Aliquid una facere pressionem colloquii minuit. Dementia Australia suadet photographias spectare, opus manuum facile, plantulas serere, musicam, cibum communicare aut ambulationem brevem in area. Paucae aliae res:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Photographias spectate.** Dic quid videas: «Ecce petasus ille.» «Hoc litus pulchrum videtur.» Sine hominem ducere. Vita quaestionem «Quis est hic?»
+2. **Musicam audite et canite.** Carmina nota animum levare possunt et momentum commune afferre, etiam cum loqui difficile est.
+3. **Ambulationem brevem facite.** Family Caregiver Alliance suadet ambulare per locum, praesertim in horto si adest. Ambulatio in sella rotali etiam valet.
+4. **Manus leniter tracta.** Paulum unguenti et motus lenti in manibus placare possunt.
+5. **In cultu corporis adiuva.** Dementia Australia dicit de capillis pectendis, unguibus pingendis aut homine in vestem gratam adiuvando, si ei placet.
+6. **Ludum simplicem ludite.** Family Caregiver Alliance chartas, tesseras aut quidquid homo antea ludere solebat suadet. In tabula computatrali, [Picture Pairs](/games/picture-pairs/) ludi potest imaginibus visibilibus relictis et sine horologio. [Photo Pairs](/games/photo-pairs/) photographias quas eligis in ludum parium mutat, et photographiae in navigatro tuo manent.
+7. **Aliquid una spectate.** Family Caregiver Alliance comoedias et pelliculas veteres suadet. Etiam si homo fabulam sequi non potest, prope sedere et tempus communicare potestis.
+8. **Clara voce lege.** Poema breve, locum gratum aut epistulam a membro familiae.
+9. **Simpliciter una sedete.** Manus tenere aut quiete sedere vera visitatio est. Alzheimer's Association dicit licere nescire quid dicas, et praesentiam tuam plurimum valere.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) adiuvare possunt, cum verba desunt. Unaquaeque charta imaginem et quaestionem apertam habet.
 
-## How should I talk during the visit?
+## Quomodo inter visitationem loqui debeo?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Te ipsum semper praesenta.** «Salve, pater, ego sum Marcus, filius tuus.» NIA suadet ut visitatores se breviter praesentent ad colloquium incipiendum.
+- **A fronte accede** et ad oculorum altitudinem sede.
+- **Noli corrigere aut contendere.** NIA monet visitatores ne hominem corrigant, si errat aut aliquid obliviscitur.
+- **Patiens esto**, cum verba difficilia sunt ad inveniendum. Da satis temporis.
+- **Ad sensus responde.** Si homo tristis aut sollicitus videtur, id agnosce antequam argumentum mutes.
+- **Quaestiones quasi examen vita**, ut «Meministine mei?» aut «Quid prandio sumpsisti?»
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Vide plura in nostris [consiliis de communicatione](/caregiving/communication-tips/).
 
-## What do I do when they say "I want to go home"?
+## Quid faciam, cum dicit: «Domum redire volo»?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Ad sensum post verba responde (dux noster [cum aliquis saepe domum redire petit](/caregiving/asking-to-go-home/) plura explicat). Family Caregiver Alliance explicat «Domum redire volo» plerumque significare «non me commode sentio», et responsa suadet ut «Narra mihi de domo tua» aut «Quid domi maxime tibi placet?» Dementia Australia addit «domum» significare posse tempus aut locum ubi homo se tutum sensit, ut pueritiam.
 
-Try:
+Conare:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- sensum agnoscere: «Videtur te domum desiderare.»
+- solacium per tactum offerre, si gratum est
+- photographias spectare aut de domo familiari loqui
+- ambulationem, potum aut cibum offerre
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Vita contendere aut explicare cur abire non possit. Id raro adiuvat et saepe anxietatem auget.
 
-## How long should a visit be?
+## Quam longa visitatio esse debet?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Visitationes breviores et crebriores saepe melius procedunt. Family Caregiver Alliance dicit hominem plerumque non meminisse utrum quinque minuta an quinque horas manseris, et suadet tres breves visitationes in hebdomade fortasse meliores esse quam unam longam. Dementia Australia dicit nullum esse rectum numerum visitationum aut rectam longitudinem.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Primis hebdomadibus post transitum in curam memoriae, Family Caregiver Alliance suadet saepe visitare, deinde paulatim ad ordinem constantem venire. Ministros interroga quid videant.
 
-## How do I leave without upsetting them?
+## Quomodo discedo sine perturbatione?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Discedere pars difficillima esse potest. Dementia Australia suadet:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Dic quam diu manere possis, cum advenis.** «Per horam manere possum, deinde ad emendum ibo.»
+- **Actione utere ut finem naturalem facias.** «Cum hoc carmen finiverimus, abibo.»
+- **Tempus cum prandio aut actione coniunge,** aut ministros roga ut hominem ad aliud negotium adiuvent.
+- **Vale breve et idem semper serva.** Morari, veniam petere aut «paulum diutius» manere futuros discessus difficiliores reddere potest.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Postquam discessisti, solitum est te tristem sentire. Sine te requiescere. Si homo perturbatus est, ministri plerumque eum mox adiuvare possunt ut se placet.
 
-## Visiting someone with dementia in the hospital
+## Visitare hominem cum dementia in valetudinario
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Valetudinarium strepitu plenum, ignotum et alienis hominibus refertum est, quod homini cum dementia viventi valde difficile esse potest. Dux NIA de [homine cum morbo Alzheimer in valetudinarium ducendo](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) suadet:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Aliquis cum homine maneat** quam maxime fieri potest: membrum familiae, amicus fidus aut curator conductus.
+- **Ministris paginam cum notitiis propriis da** in qua consuetudo hominis, nomen quod mavult, ea quae ei placent vel displicent, res quae eum turbare possunt, et signa doloris non verbalia scripta sunt. Exemplaria in cubiculo et apud stationem nutricum pone.
+- **In edendo et bibendo adiuva.** Seniores in valetudinario minus nutrimenti accipere possunt. Vasa aperi, in cenis adiuva, una ede, et potus offer.
+- **Res consolantes affer**, ut photographias aut res spiritales.
+- **Strepitum minue.** Televistrum exstingue et sonum telephoni atque nuntiorum interni minue.
+- **Ritus placidos tempta**, ut musicam lenem, lectionem, precationem, cantum aut spectationem imaginum veterum.
+- **Hortare ut moveatur** quantum tutum est, consensu ministrorum.
+- **Medico statim dic, si homo subito peius aut aliter se habere videtur.** NIA explicat confusionem subitam gravem, quae delirium appellatur, causis oriri posse ut infectione, febre, siccitate aut effectibus medicamentorum, et curam medicam requirere.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Visitatio brevis et placida cum vultu noto et carmine grato pars maxime consolans diei in valetudinario esse potest.
 
-## Bringing children on a visit
+## Liberos ad visitationem adducere
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Liberi multum caloris afferre possunt. Eos antea para verbis simplicibus et apertis, visitationem brevem serva, et eis officium da, ut imaginem a se pictam ostendere aut photographiam tradere. NIA dicit liberos et homines cum morbo Alzheimer simplicibus actionibus una frui posse, ut librum photographiarum spectando aut musicam audiendo. Dementia Australia suadet parvam sarcinam cum cibis aut rebus quietis parare, ut liberi parvi occupati maneant.
 
-## Take care of yourself too
+## Etiam tui curam habe
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Visitationes defatigantes et plenae sensuum esse possunt, praesertim si homo multum mutatus est. Licet rarius visitare, si opus est, amicum ad auxilium adducere, aut die difficili citius discedere. Ad consilia de cura tui, vide [curam sui pro curantibus](/caregiving/caregiver-self-care/). Si longe habitas, vide ducem nostrum de [vocationibus telephonicis et per videum](/activities/phone-and-video-calls/).

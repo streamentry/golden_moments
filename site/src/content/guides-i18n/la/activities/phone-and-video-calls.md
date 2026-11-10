@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Telephonum et vocatio visifica cum dementia"
+seoTitle: "Actiones per vocationem visificam"
+description: "Actiones per telephonum et vocationem visificam pro familia longinqua hominis qui cum dementia vivit: ostendere, legere, canere, ludi communes et consilia."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Vocationes cum homine qui cum dementia vivit optime procedunt, si breves et
+  statae sunt et circa rem communem aguntur, ut ostendere animal domesticum aut
+  hortum, imagines simul spectare, clara voce legere, carmen carum canere aut
+  lenem ludum in communi scrinio ludere. Si potes, eodem tempore cotidie voca,
+  unam vocem simul loqui sine, et roga aliquem qui adest ut adiuvet.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Actio vocationi formam dat et minuit necessitatem colloquii. Unam rem simplicem para, quam communicetis."
+  - "Vocationes breves et statae, eodem tempore diei, saepe melius procedunt quam longae et rarae."
+  - "Una persona simul loquatur. Vocationes gregales, in quibus multi simul loquuntur, difficiles intellectu sunt, praesertim si auditus debilis est."
+  - "Adiutor qui adest instrumentum parare, iuxta hominem sedere et « manus » esse potest pro ludo aut imagine."
+  - "Si vocatio hodie non bene procedit, benigne eam finire licet. Cras iterum temptare bene est."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Quid in vocatione visifica cum homine qui cum dementia vivit facere possum?"
+    a: "Unam actionem simplicem para: hortum, animal domesticum aut culinam ostende; veteres imagines simul spectate; breve carmen aut epistulam clara voce lege; carmen carum cane; eandem escam eodem tempore coque; aut lenem ludum imaginum in communi scrinio lude. Actiones vocationi propositum dant, ita ut homo colloquium solus sustinere non debeat."
+  - q: "Quam longa vocatio visifica esse debet?"
+    a: "Plerumque brevior quam putas. Pauca minuta benigna satis esse possunt, praesertim si homo cito defatigatur. Statis temporibus vocare saepe maius est quam diuturnitas cuiusque vocationis."
+  - q: "Quid, si homo per vocationes visificas confunditur aut perturbatur?"
+    a: "Nonnulli homines vultum in scrinio confusum inveniunt. Tempta vocationem telephonicam simplicem, nuntium visificum prius scriptum quem adiutor tranquillo tempore ostendere potest, aut chartulas et imagines per cursum publicum missas. Si vocatio male procedit, benigne eam fini et alio die aut alio tempore iterum tempta."
+  - q: "Quomodo matri meae auxilium ferre possum, ut vocatione visifica utatur, si telephono uti non potest?"
+    a: "Roga propinquum, adiutorem domesticum aut operarium domus curae ut vocationem incipiat et instrumentum teneat aut firmet. Multa loca curae familias in vocationibus visificis adiuvant; roga igitur quid praebeant. Tabula computatralis in fulcro posita, cum scrinio magno et sono satis claro, omnibus rem faciliorem reddit."
+  - q: "Possumusne ludum communiter per vocationem visificam ludere?"
+    a: "Ita. Facillimum est, si una persona scrinium suum in applicatione vocationis communicat, dum altera dicit quam imaginem tangere debeat. Aut adiutor qui adest eundem ludum in tabula computatrali aperire potest et pro homine tangere, dum tu eum verbis ducis. Ludos sine horologio aut punctis elige."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Procul ab homine qui cum dementia vivit habitare interdum auxilium difficile videtur. Vocationes telephonicae et visificae amplexum non supplent, sed tamen vera momenta coniunctionis afferre possunt, si bene parantur. Res optima est desinere conari colloquium commune habere et potius rem simplicem communiter agendam parare. Haec pagina actiones describit, quae per vocationem visificam et telephonicam bene procedunt, quomodo vocatio paranda sit, et quid persona quae adest facere possit ut adiuvet.
 
-## Why plan an activity for a call?
+## Cur actionem pro vocatione parare?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Actio vocationi formam dat. « Quomodo vales? Quid hodie fecisti? » hominem rogat ut meminerit et narret, quod difficile et molestum esse potest. « Ecce, lycopersica matura sunt » nihil ab eo postulat.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association notat colloquia cum maioribus gregibus per vocationem visificam difficilia esse posse, et suadet [vocationi structuram addere](https://www.alz.org/help-support/caregiving/holidays), exempli gratia carmina canendo aut imagines communicando.
 
-## What activities work on a video call?
+## Quae actiones in vocatione visifica bene procedunt?
 
-### Show and tell
+### Ostendere et narrare
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Mundum tuum ad eum affer. Cameram lente per hortum move, canem ostende, demonstra quid coquas, imaginem a nepote pictam tolle, aut telephonum ad fenestram verte ut nivem ostendas. Quae vides simplicibus verbis describe et moras relinque, ut homo reagere possit. Nullae quaestiones necessariae sunt.
 
-### Look at photos together
+### Imagines simul spectare
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Veterem imaginem photographicam ad cameram tene, aut scrinium tuum communica, ut paucas magnas imagines singillatim ostendas. De iis loquere quae animadvertis: « Aspice petasum avi. » Vita quaestiones sicut « Quis est hic? » aut « Meministine? » Si homo aliquem falso nominat, cum eo consenti. Vide nostrum [ductum de reminiscentia](/activities/reminiscence/) ad lenia incitamenta.
 
-### Read aloud
+### Clara voce legere
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Breve carmen, psalmum, librum carum puerilem nepoti in eadem vocatione, epistulam a propinquo, aut paginam ex libro quem homo amavit clara voce lege. Lectio clara homini aliquid tranquillum praebet, quod audire possit sine necessitate respondendi.
 
-### Sing or listen to music together
+### Cantare aut musicam simul audire
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Carmen cane, quod homo bene novit, aut discum carum apud te sonare fac. Multis hominibus facilius est una canere quam colloqui. Vide nostrum [ductum de actionibus musicis](/activities/music/).
 
-### Cook or bake at the same time
+### Eodem tempore coquere aut placentas facere
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association suadet vocationem visificam parare, ut escam singularem simul coquatis aut faciatis. Vocationem in utraque culina para. Persona quae adest fortasse miscere aut gustare potest, dum tu veterem chartam praecepti sequeris.
 
-### Watch something together
+### Aliquid simul spectare
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Societas etiam suadet pelliculam caram eodem tempore in domibus separatis spectare, dum per telephonum aut vocationem visificam loquimini. Homini qui cum dementia vivit, breve excerptum, vetus episodium televisificum aut ludus pilae melius quam tota pellicula convenire potest.
 
-### Play a gentle game on a shared screen
+### Lenem ludum in communi scrinio ludere
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Multae applicationes vocationis visificae sinunt te scrinium tuum communicare. Tu ludum aperis et tangis; homo dicit aut ostendit quam imaginem eligere debeat. Aut adiutor qui adest eundem ludum in tabula computatrali aperit et pro eo tangit, dum vos colloquimini.
 
-Games that work well this way:
+Ludi qui hoc modo bene procedunt:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** tu dictum notum legis, homo finem dicit, et deinde incitamentum vocale sequitur.
+- **[Picture Pairs](/games/picture-pairs/):** lenis ludus coniungendi cum magnis imaginibus, quae visibiles manere possunt, sine horologio et sine punctis.
+- **[Conversation Cards](/games/conversation-cards/):** imago et incitamentum apertum, de quo simul loquamini.
+- **[Photo Pairs](/games/photo-pairs/):** ludus coniungendi ex imaginibus photographicis factus, quas tu in tuo instrumento eligis. Imagines in tuo navigatro manent, et homo eas per scrinium communicatum videt.
 
-### Recorded messages
+### Nuntii prius scripti
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Cum vocationes vivae difficiles sunt, breve nuntium visificum scribe: salutationem, carmen, ambulationem per hortum tuum. Adiutor id tranquillo tempore ostendere potest, totiens quotiens homo eo gaudet. Alzheimer's Association memorat momenta singularia scribi et mitti posse, sicut liberos dona aperientes.
 
-## What about plain phone calls?
+## Quid de vocationibus telephonicis simplicibus?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Vocationes telephonicae simplices adhuc valent. Dementia Australia suadet [eodem tempore cotidie vocare](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) et non festinare, quia homines qui cum dementia vivunt tempus ad respondendum capere possunt. In telephono:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Statim nomen tuum et necessitudinem dic: « Salve, pater, ego Iulia sum, filia tua. »
+- Lente loquere, brevibus sententiis, unam rem simul.
+- Nuntios affer potius quam eos roga: « Heri cenam tuam caram paravi. »
+- Breve carmen lege aut versum carminis cari cane.
+- Vocationem brevem serva et benigne fini.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia etiam notat vocationes visificas utiles esse posse, cum loqui difficilius fit, quia homo vultum tuum videre potest. Si vocationes telephonicae confusae fiunt, vocationem visificam tempta, aut contra.
 
-## How do I set up a video call that works?
+## Quomodo vocationem visificam bene parare possum?
 
-**Before the call:**
+**Ante vocationem:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Tempus statum elige**, quo homo plerumque requietus est, et in eo mane. Consuetudo adiuvat.
+2. **Cum adiutore qui adest constitue.** Nuntius pridie missus ei adiuvat ut rem paret.
+3. **Instrumentum inspice.** Tabula computatralis in fulcro posita facilior est quam telephonum manu tentum. Cura ut onerata sit, scrinium clarum sit, et sonus satis magnus sit. Si applicatio titulos praebet et homo bene legit, eos accende.
+4. **Unam actionem para** et omnia in promptu habe.
 
-**During the call:**
+**Per vocationem:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Prope cameram sede** in luce bona, fenestram spectans potius quam luce post te posita.
+- **Te semper praesenta**, nomine et necessitudine dicta.
+- **Una vox simul.** Alzheimer's Association notat sermones simul habitos difficiles esse hominibus qui cum dementia vivunt et hominibus qui auditu debilitantur. Si plures propinqui adsunt, vicissim loquimini aut ad duas vel tres personas vocationem restringite.
+- **Unam quaestionem simul roga.** Family Caregiver Alliance suadet [quaestiones simplices, quibus « ita » aut « non » responderi potest](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), et optiones ostendere, si fieri potest.
+- **Longas moras permitte.** Responsum exspecta. Si homo verbum quaerit, licet verbum suggerere.
+- **Vultu et voce utere.** Subride, annue et vocem benignam serva. Sensus saepe plus quam verba dicunt.
+- **Noli corrigere.** Si homo aliquid non rectum dicit, sine id esse.
 
-**Ending the call:**
+**In fine vocationis:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Vocationem fini antequam homo defatigetur, optime post momentum laetum.
+- Eandem valedictionem semper adhibe: « Cras meridie te vocabo. Te amo. »
+- Noli finem nimis producere.
 
-## Tips for the helper on site
+## Consilia pro adiutore qui adest
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Si tu es coniunx, adiutor, frater, soror aut operarius qui vocationem adiuvat, tu rem possibilem facis.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Locum quietum para.** Televisorium exstingue et ianuam claude.
+- **Vocationem ipse incipe**, deinde homini tabulam computatralem in fulcro positam da aut eam ad altitudinem oculorum tene.
+- **Iuxta eum sede, non ante eum.** Praesentia tua eum confirmat. Leniter mone, si opus est: « Aspice, Iulia est. »
+- **Manus esto.** Imagines tene, ludum tange, tabulam verte ut conclave ostendatur.
+- **Defatigationem aut perturbationem observa**, et vocantem mone, cum tempus sit vocationem finire.
+- **Vocanti dic quid bene processerit.** « Canis ei valde placuit » vocationem proximam parare adiuvat.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA suadet propinquos longinquos hominem seniorem adiuvare posse, ut [munera telephoni sui discat](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), sicut vocationes visificas. In gradibus posterioribus, adiutor plerumque totum instrumentum curare debebit. Hoc bene est.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Si homo in domo curae habitat, Alzheimer's Foundation of America suadet rogare an locus familias in vocationibus visificis adiuvet. AFA etiam memorat familias imagines cum operariis curae ultro citroque mittere posse, et cibos caros aut parvas res iucundas mittere, postquam rogaverunt quid locus permittat.
 
-## What if the call doesn't go well?
+## Quid, si vocatio non bene procedit?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Nonnullae vocationes confusae, tristes aut molestae erunt. Hoc culpa tua non est, nec significat vocationes non valere.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Si homo scrinium confusum videtur invenire, ad vocationem telephonicam simplicem aut ad nuntium prius scriptum transi.
+- Si perturbatur, sensum agnosce, aliquid consolans dic, et leniter vocationem fini.
+- Si vocationes saepe uno tempore diei male procedunt, aliud tempus tempta.
+- Si te alium hominem esse putat, benigne cum eo consenti.
 
-It is fine to end early. A short, warm call is a good outcome.
+Licet vocationem cito finire. Brevis et benigna vocatio bonus exitus est.
 
-## Between calls
+## Inter vocationes
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Aliis modis quoque praesens mane. Dementia Australia suadet chartulas, epistulas electronicas, imagines photographicas aut parva dona mittere. Charta cursualis hebdomadalis cum una magna imagine et brevi nota iterum atque iterum legi potest. [Conversation Cards](/games/conversation-cards/), quae imprimi possunt et adiutori mitti, vocationi proximae argumentum paratum praebere possunt.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+De tabula computatrali eligenda et paranda, vide [tabulas computatrales et scrinia](/caregiving/tablets-and-screens/). De tempore praesentiae, vide nostrum ductum de [visitatione](/activities/visiting/).

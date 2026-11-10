@@ -151,7 +151,8 @@ def _run_opencode(argv: list[str], cwd: str, timeout: int) -> str:
         if proc.poll() is None:
             proc.kill()
     answer = ''.join(text).strip()
-    if quota_msg and not answer:
+    # A quota retry invalidates the whole response. Never publish a partial translation.
+    if quota_msg:
         raise BackendError('quota', quota_msg)
     if proc.returncode is not None and proc.returncode < 0 and not answer:
         raise BackendError('error', 'timeout')

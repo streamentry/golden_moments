@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Lenis cotidiana ratio ei qui cum dementia vivit"
+seoTitle: "Cotidiana ratio in dementia: dies exemplaris"
+description: "Flexibilis dies exemplaris ei qui cum dementia vivit: cibi, actiones, quies et quomodo rationem difficilioribus diebus aptetis."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Lenis cotidiana ratio tempora expergiscendi, ciborum, curae personalis et
+  cubitum eundi fere eadem servat, actionem praecipuam eo tempore ponit quo
+  homo maxime vigilat, et actionem cum quiete aequat. Eam ex diuturnis hominis
+  consuetudinibus instituite, laxam potius quam plenam servate, cotidie lucem
+  diei et motum includite, et consilium libere mutate cum dies id postulat.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Stabilia tempora expergiscendi, ciborum, curae et cubitum eundi diei formam notam dant."
+  - "Actionem praecipuam eo tempore ponite quo homo optime se habet, saepe mane."
+  - "Ne omne momentum compleatis. Quies et tempus tranquillum pars rationis sunt."
+  - "Lux diei, cotidianus motus et vitatio longarum meridiationum sero ac potionum cum caffeina sero sumptarum fortasse cum inquietudine sub vesperum adiuvare possunt."
+  - "Ratio est dux, non lex. Difficilioribus diebus quidlibet mutare, brevius facere aut omittere licet."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Cur ratio ei qui cum dementia vivit utilis est?"
+    a: "Dies qui praevideri potest pauciora consilia et pauciora inopinata significat, quod multi homines qui cum dementia vivunt tranquillum inveniunt. Alzheimer's Association dicit diem ordinatum efficere ut minus temporis consumatis deliberando quid faciendum sit et plus temporis in rebus quas ambo iucunde agitis. Etiam adiuvat eos qui curam praebent ut suum diem temperent."
+  - q: "Quale cotidianum propositum ei qui cum dementia vivit bonum est?"
+    a: "Nullum unum rectum propositum est. Bonum propositum tempora expergiscendi, ciborum et cubitum eundi fere eadem servat, curam personalem et actionem praecipuam eo tempore ponit quo homo optime se habet, tempus sub divo aut prope fenestram includit, et locum quieti relinquit. Id instituite secundum modum quo homo semper vixit."
+  - q: "Debetne homo qui cum dementia vivit interdiu meridiari?"
+    a: "Brevis quies prodesse potest, praesertim post prandium. National Institute on Aging suadet vitandas esse longas meridiationes et dormitationem sero die, quia nimia fatigatio aut quies parum bona inquietudinem sub vesperum augere potest. Si somnus vere difficilis est, cum medico eius loquimini."
+  - q: "Quid si rationem sequi recusat?"
+    a: "Nunc omittite et postea aut alio modo iterum conamini. Recusatio significare potest eum fessum esse, male se habere, dolore affici aut simpliciter nondum paratum esse. Ratio eo est ut dies facilior fiat, itaque eam flectite potius quam cogite."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Lenis ratio diei formam notam dat: surgere, cibi, paulum actionis, quies et cubitum fere iisdem temporibus. Minuit consilia et inopinata, et vobis consilium dat iis momentis quibus aliter dubitaretis quid deinde faciendum sit. Ratio infra proposita est exemplum, non lex. Ea ut initio utimini, deinde eam secundum hominem cuius curam geritis formate.
 
-## Why does a daily routine help?
+## Cur cotidiana ratio adiuvat?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Stabilis ratio adiuvat quia formae notae facilius sequendae sunt quam novae. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) dicit diem ordinatum significare minus temporis consumi deliberando quid faciendum sit et plus temporis in actionibus iucundis, et notat stabilia tempora expergiscendi et cubitum eundi cum difficultatibus somni et cum inquietudine sub vesperum adiuvare posse. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suadet lavari, vestiri et edere iisdem temporibus cotidie tamquam partem tranquillae domus, et [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) etiam commendat ut eaedem consuetudines serventur.
 
-## A sample gentle day
+## Exemplum lenis diei
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Tempora sunt tantum exempla. Totum diem ante aut post movete ut cum proprio hominis rhythmo congruat.
 
-| Time | What happens | Ideas | On a harder day |
+| Tempus | Quid fit | Consilia | Difficiliore die |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Expergisci, lavari, vestiri | Idem ordo cotidie; vestes eo ordine ponite quo induuntur | Curam simplicem servate; tunica munda satis est |
+| 8:45 a.m. | Ientaculum | Coffea et acta diurna clare lecta, aut radiophonium | Una tranquille edite, sine coactione ad loquendum |
+| 9:30 a.m. | Actio praecipua | Vestes plicare, coquere, in horto laborare, brevis exitus aut ambulatio | Brevior forma, aut sinite eum vos spectare dum id facitis |
+| 10:30 a.m. | Tempus quietum | Musica, album photographicum, aut sedere prope fenestram | Quiescere in sella amata |
+| 11:00 a.m. | Auxilium in prandio parando | Holera lavare, mensam sternere | Vos coquitis; ille vobiscum manet |
+| 12:00 p.m. | Prandium et ordinatio | Mensam tergere, pauca vasa siccare | Officia omittite |
+| 1:00 p.m. | Brevis quies | Pedes levare, musica lenis | Idem |
+| 2:00 p.m. | Sub divo aut actuose | Ambulatio, tempus in porticu, plantas rigare, pilam levem iactare | Sedete prope fenestram apricam |
+| 3:00 p.m. | Tempus sociale aut creativum | Visitatio, telephonema, [picture pairs](/games/picture-pairs/), colorare, chartae lusoriae | Una bibere et cibum levem sumere |
+| 4:30 p.m. | Tempus tranquillandi | Vela clausa, lumina accensa, negotium tranquillum ut pannos parvos plicare | Musica nota, strepitus parvus |
+| 5:30 p.m. | Cena | Iuvare miscere aut mensam sternere | Cibus simplex et notus |
+| 6:30 p.m. | Vesper una | Recordari inter bellaria, chartae lusoriae, spectaculum amatum, lenis manuum tractatio | Societas quieta |
+| 8:00 p.m. | Consuetudo cubitum eundi | Balneum aut lavatio, vestis nocturna, musica lenis, lumina submissa | Omnia brevius facite; solacium primum est |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Hoc exemplum formam sequitur ipsius exempli ab Alzheimer's Association pro stadiis primis et mediis propositi, quod a cura personali et ientaculo per officia domestica, ambulationes, musicam, quietem et visitationes ad cenam, recordationem et praeparationem ad cubitum procedit.
 
-## How do you build your own routine?
+## Quomodo propriam rationem instituitis?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Incipite ab eo modo quo homo semper vixit, non a tabula. Alzheimer's Association suadet ut haec ante ordinandum cogitetis:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Quae ei placeant, quae displiceant, quae vires et studia habeat.**
+- **Quomodo diem olim agere solebat.** Qui mane semper surgebat et cum cane ambulabat, etiam nunc mane ambulare debet. Qui sero vigilare solebat, fortasse initium hora 8:00 a.m. numquam iucundum inveniet.
+- **Quo tempore diei optime se habeat.** Lavationem, exitus et actionem praecipuam eo tempore ponite.
+- **Satis temporis** ad cibos, lavationem et vestitum, ut nihil festinetur.
+- **Stabilia tempora expergiscendi et cubitum eundi.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Idem fons suadet ut misceantur officia domestica, cibi, cura personalis, actiones creativae, actio corporis, tempus sociale, actio spiritualis et momenta non ordinata, sicut amicus qui subito visitat.
 
-### Try it for a week, then adjust
+### Per hebdomadem experimini, deinde aptate
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Cotidie brevem notam servate. Alzheimer's Association suadet quaerere quae actiones optime processerint et cur, an fuerint tempora nimis plena aut nimis vacua, et an consilia subita iucunda fuerint an curam attulerint. Quae prosunt servate, quae non prosunt mutate.
 
-### Make it visible
+### Eam visibilem facite
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Si homo adhuc legere potest, tabula alba aut scheda litteris magnis cum proposito diei tranquillitatem dare potest. Breve servate: "Ientaculum. Ambulatio cum Sarah. Prandium. Quies." Nonnulli homines melius se habent si multo ante nesciunt; Family Caregiver Alliance suadet ne consilia tractentur nisi paulo ante quam fiant, si id curam movet.
 
-## How to adapt the routine
+## Quomodo rationem aptare
 
-### Leave room to breathe
+### Locum ad respirandum relinquite
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ne omne momentum compleatis. Alzheimer's Association monet hominem aequilibrio actionis et quietis egere et fortasse crebrioribus pausis opus habere. Si taedio affectus, distractus aut iratus videtur, actionem mutate aut quiescite.
 
-### Protect the late afternoon
+### Tarde post meridiem tuemini
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Multi homines inquietiores fiunt cum lux diei minuitur. NIA suadet cotidie tempus sub divo aut prope fenestram propter lucem diei, cotidie actuosum esse sine nimis multa ordinando, vitare potiones cum caffeina et alcohol sero die, et vitare longas meridiationes sero die. Nonnullae familiae etiam utile inveniunt vela claudere et lumina accendere ante crepusculum. Videte [inquietudinem sub vesperum](/caregiving/late-day-restlessness/) et [somnum](/brain-health/sleep/).
 
-### Change it as needs change
+### Eam mutate prout necessitates mutantur
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Stadium primum:** rationem una ordinate. Homo fortasse scriptum propositum velit quod ipse regat.
+- **Stadium medium:** vos magis ducitis. Actiones breviores, plus quietis et multa opera nota; videte [actiones stadii medii](/activities/middle-stage/).
+- **Stadium ultimum:** ratio ad solacium, cibos et curam spectat, cum brevibus momentis sensuum, sicut musica aut lenis manuum tractatio, interpositis; videte [actiones stadii ultimi](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Actiones variate, non formam
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Cibos, quietem et tempus cubitum eundi stabilia servate, et actiones interpositas mutate. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suadet diversas actiones diversis diebus experiri ut res iucundae maneant. Fortasse die Lunae coquitis, die Martis in horto laboratis, die Mercurii photographias spectatis. Nostrae [101 consilia actionum](/activities/ideas/) et [officia domestica](/activities/household-tasks/) haec tempora complere possunt.
 
-## When the day goes sideways
+## Cum dies non procedit ut sperabatis
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Quidam dies nullum propositum sequentur. Morbus, nox mala, visitatio medici aut mutatio tempestatis omnia turbare possunt. Consilium omittite, necessaria servate (cibum, potum, quietem, solacium) et cras iterum conamini. Si homo aliquid recusat, videte [cum dicit "non"](/caregiving/when-they-say-no/). Brevis pausa ad tranquille spirandum una, sicut [calm breathing](/games/calm-breathing/), vobis ambobus adiuvare potest ut iterum tranquilli sitis.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Vestra propria ratio quoque magni momenti est. Pausas pro vobis ipsis includite, et familiam aut ministerium quietis rogate ut certum tempus liberum praebeat. Videte [curam sui pro eis qui curam praebent](/caregiving/caregiver-self-care/).

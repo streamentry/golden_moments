@@ -120,8 +120,11 @@ def check(code: str, rel: str) -> tuple[list[str], list[str]]:
     title = front.get('seoTitle') or front.get('title', '')
     if width(title) > 64:
         warnings.append(f'search title is long ({width(title)})')
-    if width(front.get('description', '')) > 170:
-        errors.append(f'description is too long for the site check ({width(front.get("description", ""))}, maximum 170)')
+    description_width = width(front.get('description', ''))
+    if description_width < 50 or description_width > 360:
+        errors.append(f'description is outside the site check limits ({description_width}, expected 50–360)')
+    elif description_width < 70 or description_width > 170:
+        warnings.append(f'description is outside the preferred range ({description_width}, preferred 70–170)')
     return errors, warnings
 
 

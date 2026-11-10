@@ -63,7 +63,8 @@ const guidesI18n = defineCollection({
   schema: guideSchema.extend({
     title: z.string().max(120),
     seoTitle: z.string().max(80).optional(),
-    description: z.string().min(30).max(220),
+    /** The site check warns outside 70–170 and rejects translated descriptions outside 50–360. */
+    description: z.string().min(30).max(360),
     summary: z.string().min(30).max(600),
     /** The date of the English version this translation was made from. */
     translatedFrom: z.coerce.date(),

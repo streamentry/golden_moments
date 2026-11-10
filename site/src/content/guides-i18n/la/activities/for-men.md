@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Actiones viris cum dementia viventibus"
+seoTitle: "Actiones viris cum dementia: consilia vitae"
+description: "Consilia actionum viris cum dementia viventibus, ex opere, studiis et consuetudinibus eorum sumpta, cum monitis ut quaeque tuto aptentur."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Optimae actiones viro cum dementia viventi sunt eae quae ex eius ipsa vita
+  veniunt: opus quod fecit, studia quae amavit et consuetudines cotidianas quas
+  servavit. Qui olim in officio laboravit chartas ordinare fortasse gaudet, qui
+  machinas reficiebat instrumenta munda tractare potest, et qui ludos amat
+  certamen vetus spectare potest. Studia inter viros differunt, itaque a persona
+  ipsa, non a genere, incipite.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Ab huius viri historia incipite: eius opere, studiis, consuetudinibus et rebus quibus gloriabatur."
+  - "Negotia vero proposito praedita, ut ferramenta ordinare, raedam lavare aut lignum levigare, saepe magis placent quam actiones quae scholam videntur."
+  - "Non omni viro instrumenta aut ludi athletici placent. Multi coquinariam, musicam, horti culturam, artem aut curam aliorum amant. Interrogate, observate et eius ductum sequimini."
+  - "Negotia operi similia tuta facite instrumentis acutis remotis et praesente custode, et ea simpliciora reddite cum facultates mutantur."
+  - "Licet dicere « non ». Munus offerte, non pensum, et alio die iterum temptate."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Quibus actionibus viri cum dementia viventes gaudent?"
+    a: "Nullus unus index est, quia studia virorum tam varia sunt quam omnium hominum. Bona initia sunt negotia cum opere pristino coniuncta, ut chartas ordinare aut nuces et clavos ferreos disponere, una cum studiis quae amavit, ut piscatus, raedae, musica, coquinaria aut ludi athletici. Observate quid sua sponte faciat et ex eo proficiscimini."
+  - q: "Pater meus actiones in grege recusat. Quid facere possum?"
+    a: "Multi homines, tam viri quam feminae, actiones recusant quae scholam videntur aut pueriles esse putantur. Conamini potius officium offerre: « Potesne mihi haec ordinare? » Greges minores aut tempus unus cum uno etiam commodius esse potest quam conclave plenum."
+  - q: "Tutumne est eum instrumentis uti sinere?"
+    a: "Solum praesente custode et cum instrumentis tutis. Instrumenta electrica, laminas et omnia acuta removete, et negotia offerte sicut tabulam ligneam levigare, ferramenta munda ordinare aut magnos clavos ferreos manu constringere. Alzheimer's Association suadet ut res periculosae ex officina removeantur, ut negotium sicut levigare tuto iucundum esse possit."
+  - q: "Vir doctus erat. Num negotia simplicia eum offendent?"
+    a: "Possunt, si tamquam opera inania proponuntur. Negotium tamquam auxilium verum exhibete, materiam adultis aptam adhibete, et aliquid muneri pristino simile eligite, sicut indicem recensere, scrinium ordinare aut in epistulis colligendis adiuvare. Si in aliqua re peritissimus erat, actio cognata sed alia minus cum opere pristino comparari videbitur."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Homines saepe « actiones viris cum dementia viventibus » quaerunt, quia consilia usitata viro in vita sua non convenire videntur. Haec cura intellegitur. Sed responsum non est index actionum « virilium ». Initium est ab hoc ipso viro: quid in vita laboraverit, quid diebus otiosis fecerit, et quid eum utilem sentire fecerit. Studia omnium hominum varia sunt. Multi viri coquere, hortum colere, pingere aut canere amant, et multae feminae raedas et basipilam amant.
 
-## How do I find activities he will actually enjoy?
+## Quomodo actiones inveniam quae ei vere placebunt?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Ab eius vita incipite. Alzheimer's Association suadet ut [consilium cotidianum](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) circa ea quae persona amat, non amat, in quibus valet et quae studet aedificetur, et circa modum quo diem suum antea ordinabat. Vos ipsi interrogate:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Quod fuit eius opus?** Officium, ager, officina, ars, militia, mercatura, doctrina, vectura, domus?
+- **Quid tempore otioso faciebat?** Piscatus, chartae lusoriae, lignaria, ludi athletici, ecclesia, musica, coquinaria, raeda in horreo?
+- **Quae erant eius consuetudines?** Caffea et acta diurna quoque mane? Tempestatem inspicere? Raedam sabbatis lavare?
+- **Quid sua sponte adhuc incipit?** Consociatio notat, si persona negotia sine rogatu incipit, ut solum verrere, haec negotia pars consuetudinis fieri possunt.
+- **Quid vitat?** Aliqui ludos athleticos spectare gaudent; aliis celeritas et strepitus molestiam afferunt. Animadvertite quando laetus, anxius aut irritatus videtur.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Cum propinquis et amicis veteribus quoque loquimini. Fortasse studia meminerunt quae ex vita cotidiana paulatim evanuerunt.
 
-## Activity ideas based on past work
+## Consilia actionum ex opere pristino
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association exemplum clarum dat: qui olim in officio laboravit fortasse gaudet negotiis ordinandi, sicut nummos in capsa ponere, in epistulis colligendis adiuvare aut indicem rerum faciendarum scribere, dum agricola aut hortulanus pristinus in horto laborare potest. Eadem ratio ad multa opera pertinet.
 
-| Past work | Activity ideas | Simpler version |
+| Opus pristinum | Consilia actionum | Forma simplicior |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Officium aut negotium | Chartas in scrinia ordinare, epistulas signare, indicem recensere, loculum mensae ordinare | Epistulas in acervum ponere; fibulas chartarias in capsam ponere |
+| Artes aut refectio machinarum | Nuces, clavos ferreos et orbiculos mundos ordinare; magnos clavos ferreos manu constringere; libros instrumentorum inspicere | Secundum magnitudinem in duo pocula ordinare |
+| Agricultura aut cura horti | Rigare, plantas in ollas ponere, folia radere, hortum inspicere | Foris sedere dum vos laboratis; saccellos seminum tenere |
+| Militia | Calceos polire, loculum diligenter ordinare, imagines temporis militiae inspicere, si ei placet | Musicam illius temporis audire |
+| Mercatura aut ministerium clientium | Visitatores salutare, cibos leves distribuere, schedulas pretii ordinare | Prope ianuam sedere ut salutet |
+| Doctrina | Clara voce legere, libros ordinare, imagines secundum argumentum disponere | Librum imaginum una inspicere |
+| Vectura aut commeatus | Tabulas geographicas aut commentarios veteres de raedis inspicere, raedam lavare | Raedas praetereuntes ex porticu spectare |
+| Domus et familia | Vestes plicare, mensam parare, in cena paranda adiuvare | Mappas levigare; miscere |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Aliquae memoriae, sicut tempus militiae, sensus fortes movere possunt. Eius ductum sequimini, sermonem de praeteritis benignum servate, et argumentum leniter mutate si turbatus videtur.
 
-## Activity ideas based on hobbies
+## Consilia actionum ex studiis
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Lignaria.** Tabulam ligneam levem levigare aut nidum avium parandum pingere. Alzheimer's Association suadet ut materiae et instrumenta periculosa ex officina removeantur, ut actio sicut levigare iucunda et tuta esse possit.
+2. **Piscatus.** Capsam hamorum ordinare hamis remotis, commentarios de piscatu inspicere, aut una ad piscinam sedere.
+3. **Raedae.** Raedam lavare, partes nitentes polire, imagines raedarum veterum inspicere, aut vectorem iter facere.
+4. **Ludi athletici.** Certamen vetus aut partes selectas spectare, pilam mollem iactare, pilas golficas super tapete ponere, aut chartas basipilae ordinare.
+5. **Chartae et ludi.** Manus simplex ludi chartarum noti, tesserae dominorum, aut chartas convertere ut pares inveniantur. Rem tranquillam servate et puncta numerare omittite.
+6. **Musica.** Carmina ex adulescentia eius, grex dilectus, aut hymnus. Videte nostrum [dux de actionibus musicis](/activities/music/).
+7. **Coquinaria et assatura.** Holera lavare, ius miscere, pastillos carnis formare, aut narrare quomodo pulmentum suum clarum parabat dum vos id coquitis.
+8. **Acta diurna.** Alzheimer's Association notat personam quae semper acta diurna legebat hoc facere adhuc posse gaudere, etiam si argumentum plene sequi non potest. Caffea et acta diurna pars matutina manere possunt.
+9. **Aedificare.** Exemplaria ex partibus magnis aut copiae simplices ad construendum adultis aptae. Partes eligite quae facile teneri possunt.
+10. **Curare aliquid.** Animal domesticum alere, caveam avium implere, aut plantas rigare. NIA inter actiones quae hominibus placere possunt [animal domesticum alere, curare aut ambulare](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) numerat.
 
-## How do I offer an activity without it feeling like busywork?
+## Quomodo actionem offeram ne tamquam opus inane videatur?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Eam tamquam auxilium verum proponite. Alzheimer's Association suadet rogare « Potesne, quaeso, mihi adiuvare? » et negotia cum proposito coniungere. Conferte:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- « Visne hos clavos ferreos ordinare? » (probationem sonat)
+- « Saccum ferramentorum mixtorum emi et haec ordinare debeo antequam pluteum reficiam. Potesne mihi manum dare? » (officium sonat)
 
-Other tips:
+Alia consilia:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Materiam adultis aptam adhibete.** Instrumenta vera marginibus acutis remotis, libros veros, epistulas veras.
+- **Una laborate.** Duo homines in eodem opere laborantes societas sunt. Unus hominem alterum spectans custodia est.
+- **Nolite corrigere.** Si clavi ferrei in poculum non rectum ponuntur, sinite. Quod momenti est, tempus una actum et sensus utilitatis est.
+- **Eum ad incipiendum adiuvate.** Alzheimer's Association notat multos homines adhuc cupere aliquid facere, sed difficile eis esse rem ordinare et incipere. Primum una facite.
 
-## How do I adapt as things change?
+## Quomodo actiones aptem cum res mutantur?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Cum dementia progreditur, Alzheimer's Association suadet negotia simpliciora et magis iterata inducere et paratum esse ut persona partem minus activam capiat. Vir qui olim machinas reficiebat nunc fortasse gaudet clavem ferream mundam tenere et de raedis loqui, aut vos laborantes spectare. Spectare etiam participare est.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Si in aliqua re peritissimus erat, actio cognata melius sentiri potest quam ars pristina. Consociatio notat artificem peritum mutationibus operis sui frustrari posse, dum artifex rudior nova via gaudere possit. Idem de fabro lignario peritissimo dici potest.
 
-## Safety with work-style tasks
+## Tutela in negotiis operi similibus
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Instrumenta electrica, laminas, clavos et cochleas acuminibus acutis removete.
+- Diluentia colorum, benzinum et res chemicas sub clave servate.
+- Claves raedae abscondite, si iam non gubernat.
+- Omnia negotia in officina et horto custodite.
+- Partes magnas eligite quae deglutiri non possunt.
 
-## What if he says no?
+## Quid si dicit « non »?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Id observate. « Non » significare potest negotium nimis difficile, nimis puerile aut hodie non aptum videri. Alzheimer's Association monet ne id cogatis. Aliud negotium, aliud tempus temptate, aut simpliciter una sedete. Videte [quid faciendum sit cum dicit « non »](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Ludi et sermones apti
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) dictis notis utitur et ad sermonem ducit. [Conversation Cards](/games/conversation-cards/) quaestiones apertas sine probatione per argumenta praebet, quae narrationes de opere et studiis aperire possunt. [Picture Puzzle](/games/picture-puzzle/) totam imaginem visibilem servat dum partes mutatis, et [Word Search](/games/word-search/) litteris magnis imprimi et stilo ad mensam coquinae fieri potest. De modis quibus de praeteritis sine probatione loquamini, videte nostrum [dux de reminiscentia](/activities/reminiscence/).

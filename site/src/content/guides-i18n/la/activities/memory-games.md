@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Ludi memoriae pro senioribus cum dementia, sine probatione"
+seoTitle: "Ludi memoriae lenes pro dementia"
+description: "Ludi coniungendi, imaginum et chartarum pro senioribus cum dementia, et quomodo ita ludantur ut nemo se probari sentiat: imagines apertae, paria pauciora, nulla puncta."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Ludi memoriae pro senioribus cum dementia optime valent, cum memoria non
+  nitantur. Ludos coniungendi imaginibus apertis lude, quattuor ad sex
+  tessellas adhibe, una ludite et puncta omitte. Imaginem agnoscere facilius
+  est quam recordari, itaque ludos elige in quibus omnia in conspectu manent.
+  Delectatio, non exitus, est propositum.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Ludi memoriae soliti chartas occultant, id ipsum probantes quod dementia difficile reddit. Imagines potius apertas relinque."
+  - "Pauciores partes, imagines maiores et una electio simul ludum iucundum servant."
+  - "Una ludite, vicissim iuvate et puncta omittite. Nemo in angustias adduci debet."
+  - "Nullus ludus memoriae demonstratus est dementiam curare, tardare aut sistere. Ludite, quia est tempus iucundum una actum."
+  - "Desinite dum adhuc iucundum est. De imaginibus colloqui bonus exitus est."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Quis ludus memoriae aptus est homini cum dementia viventi?"
+    a: "Ludus coniungendi cum magnis et notis imaginibus, quae apertae manere possunt, sicut Picture pairs cum quattuor aut sex tessellis positum. Geminum imaginis quam vides invenire iucundum est sine memoria brevi probanda. Find the same etiam simplicius est, cum una imagine ex duabus ad quattuor eligenda."
+  - q: "Num ludi memoriae dementiae prosunt?"
+    a: "Nullus ludus memoriae demonstratus est dementiam curare, tardare aut sistere; recognitio Cochrane invenit argumenta de exercitatione mentis per computatrum nimis angusta esse ad dicendum an dementiam prohibeat. Ludi tamen possunt esse iucundus modus tempus una agendi. Eos propter delectationem et societatem elige."
+  - q: "Debeone ludum classicum Concentration ludere cum aliquo qui dementiam habet?"
+    a: "Initio aliqui homines eo adhuc gaudent, praesertim cum paucae chartae sunt. Si memoria loci chartarum frustrationem afferre incipit, chartas apertas verte et paria simpliciter una invenite. Ita coniunctio manet, probatio memoriae tollitur."
+  - q: "Qui ludi memoriae apti sunt senioribus in grege?"
+    a: "Bingo imaginum cum vocatore in scrinio, dicta nota voce complenda et chartae ad colloquium omnes gregibus conveniunt. Ludite donec omnis charta plena sit et nolite pronuntiare quis recte responderit, ne quis se sepositum sentiat."
+  - q: "Suntne ludi memoriae gratuiti pro senioribus in interreti?"
+    a: "Ita. Ludi in hoc situ, inter quos Picture pairs, Find the same, Photo pairs et Picture puzzle, gratuiti sunt, inscriptione non egent et in telephonis, tabulis et computatris valent. Nullus horologium aut puncta habet."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Si „ludos memoriae pro senioribus“ quaeris, pleraque quae invenis facta sunt hominibus qui exercitationem mentis volunt: chartae occultae, horologia numerantia, gradus et puncta. Homini cum dementia viventi hae res ludum in probationem eius rei vertunt quae difficilis facta est. Iidem ludi leniore modo ludi possunt. Haec pagina ostendit quomodo, et ludos enumerat qui in quaque parte bene valent.
 
-## Why do classic memory games frustrate people with dementia?
+## Cur ludi memoriae soliti homines cum dementia viventes frustrant?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Quia nituntur nova in mente retinendo, quod plerumque primum est quod morbus Alzheimer, causa dementiae frequentissima, afficit. [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dicit signum praecox morbi Alzheimer frequentissimum esse difficultatem nuper discita recordandi. In ludo classico Concentration duas chartas vertis, meministi ubi fuerint, et paulo post ea uteris. Ea sunt nova, retenta et revocata.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Adde horologium, puncta aut sonum responsi falsi, et homo admonetur eius quod facere non potest, coram aliquo quem diligit. Multi homines tacite ludere desinunt.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Aliquid agnoscere quod vides est res alia et plerumque facilior. Digitum intendere ad alteram poculi imaginem, cum ambae in conspectu sunt, iucundum est. Itaque ars est coniunctionem servare et probationem memoriae tollere.
 
-## How do you make a memory game gentle?
+## Quomodo ludum memoriae lenem reddis?
 
-These adjustments work for card games, board games and games on a screen.
+Haec aptamenta valent in ludis chartarum, ludis tabulariis et ludis in scrinio.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Imagines apertas relinque.** Imagines quas vides coniungere adhuc verus ludus est, et saepe iucundus.
+2. **Pauciores partes adhibe.** A duobus aut tribus paribus incipe. Plura adde solum si nimis facile videtur et plura cupiunt.
+3. **Elige imagines magnas, notas et adultis aptas.** Poculum, flos solis, navicula. Non imagines pueriles, nec scaenas confusas.
+4. **Una ludite.** „Canes inveniamus“ potius quam „nunc tu“. Vicissim indicate et iuvate.
+5. **Puncta omitte.** Nemo vincere debet. Si aliquis quaerit, simpliciter „fecimus“ satis est.
+6. **Numquam contra tempus currite.** Nulla horologia, nulla festinatio inter vices.
+7. **De imaginibus colloquimini.** „Aspice illam navem. Navigavistine umquam?“ Colloquium saepe est pars optima.
+8. **Bono momento desinite.** Post par inventum finite, dum adhuc iucundum est.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) eundem sensum ut consilium generale dat: actionem ei apta quod homo facere potest, frustrationem observa, et fac ut se bene egisse sentiat.
 
-## Gentle memory and matching games to try
+## Ludi lenes memoriae et coniunctionis experiendi
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (coniunctio imaginibus visibilibus)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) est ludus coniungendi cum magnis imaginibus et 4 ad 12 tessellis. Imagines visibiles manere possunt, itaque de geminis inveniendis agitur, non de loco recordando. A quattuor tessellis incipe. Homini in parte prima, qui maius certamen amat, **Hidden pictures** eligere potes, sed ad imagines visibiles redi simul atque iucundum esse desinit.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) unam imaginem supra et duas ad quattuor electiones infra ostendit. Tange eam quae congruit. Est ludus coniungendi simplicissimus in hoc situ et iis convenit qui totam cratem nimis plenam inveniunt, etiam multis in partibus posterioribus, cum aliquis iuxta sedet.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (ludus memoriae cum photographiis familiae)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) photographias quas eligis in ludum coniungendi vertit: canem, hortum, domum ad lacum. Facies et loca nota saepe magis colloquium movent quam imago communis. Photographemata in navigatro tuo manent et numquam mittuntur.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) rogat ut quamque imaginem in corbem ponas ubi convenit, sicut in culinam aut in hortum. Ordinare nititur scientia diu retenta quomodo mundus operatur, non memoria brevi.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) imaginem in 4 aut 9 partes secat. Tange duas partes ut eas permutes, donec imago integra sit. Imago perfecta in scrinio manet ut dux.
 
-### Real cards on the table
+### Chartae verae in mensa
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Scrinio non eges. Sume paria congruentia ex duobus chartarum fasciculis aut ex chartis imaginum. Pone eas apertas in duobus ordinibus et paria una invenite. Postea per colorem aut signum ordina. [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ludos chartarum et tabularios inter actiones partis primae numerat.
 
-## Which memory games suit each stage?
+## Qui ludi memoriae cuique parti conveniunt?
 
-Stages are loose labels. Go by what the person enjoys today.
+Partes sunt nomina laxa. Sequere id quod homo hodie amat.
 
-| Stage | Games that often fit | How to set them up |
+| Pars | Ludi qui saepe conveniunt | Quomodo eos parare |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Prima | Picture pairs, Photo pairs, Picture puzzle cum 9 partibus, ludi chartarum noti | Sine eum eligere. Tessellae verti possunt si eo gaudet; puncta omitte si eum perturbant |
+| Media | Picture pairs cum 4 ad 6 tessellis apertis, Find the same, Sort together | Imagines semper visibiles. Iuxta sede et vicissim iuva |
+| Posterior | Find the same cum 2 electionibus, unam magnam imaginem una aspicere | Brevissimum. Tu tabulam tene; ille digitum intendit, aut simpliciter aspicit et audit |
 
-## Do memory games help with dementia?
+## Num ludi memoriae dementiae prosunt?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Nullus ludus memoriae demonstratus est dementiam curare, tardare aut sistere. [Recognitio Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) de exercitatione cognitiva per computatrum pro hominibus cum leni deminutione cognitiva argumenta nimis angusta invenit ad dicendum an dementiam prohibeat. Dux noster de [ludis mentis et dementia](/brain-health/brain-games/) explicat quid studia ostendant et quid non ostendant.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Non est causa cur ludos omittas. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suadet ut delectationi, non effectui studeas. Decem minuta imagines coniungendi et de eis colloquendi vere bona pars diei esse possunt.
 
-## What about memory games for seniors without dementia?
+## Quid de ludis memoriae pro senioribus sine dementia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Si adultus senior sine difficultatibus memoriae aenigmatibus cum tempore, punctis et gradibus difficilioribus gaudet, nihil mali est. Noli tamen exspectare id contra dementiam protegere; nullus ludus hoc demonstratus est. Modi lenes supra etiam bene valent cum generationes una ludunt: avus vel avia cum dementia vivens et nepos parvus imagines una coniungere possunt, neutro probato.
 
-## When should you stop or change the game?
+## Quando ludum sistere aut mutare debes?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Suspiria, tabulam repellere, dicere „non possum“ aut anxium videri omnia signa sunt ut rem faciliorem facias aut desinas. Pauciores tessellas tenta, imagines apertas verte, ad [Find the same](/games/find-the-same/) transi, aut imagines simpliciter aspice et colloquere. Si omnino ludere non vult, id quoque bene est. Dux noster de [quomodo una ludere](/caregiving/how-to-play-together/) plura de modo et auxilio habet.

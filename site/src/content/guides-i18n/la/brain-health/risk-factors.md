@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Factores periculi dementiae: 14 a Commissione Lancet"
+seoTitle: "Factores periculi dementiae: 14 Lancet"
+description: "14 factores periculi dementiae mutabiles, quos Commissio Lancet anni 2024 nominavit, per aetatis gradus, cum iis quae investigatio ostendit et quae cum medico colloqui possis."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Commissio Lancet anni 2024 quattuordecim factores periculi dementiae fortasse
+  mutabiles nominavit: minus educationis, amissio auditus, altum cholesterolum
+  LDL, depressio, laesio capitis, inactivitas, diabetes, fumus tabaci, alta
+  pressio sanguinis, obesitas, nimius potus alcoholicus, solitudo socialis,
+  pollutio aeris et amissio visus non curata. Una cum circiter 45% casuum in
+  toto orbe coniunguntur, sine ulla certitudine pro unoquoque homine.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Hi 14 factores per totam vitam patent: unus in prima aetate, decem in media aetate et tres in aetate provectiore."
+  - "Amissio auditus et altum cholesterolum LDL in media aetate cum circiter 7% casuum dementiae in toto orbe coniunguntur, maximae partes unius cuiusque factoris."
+  - "Haec procenta sunt aestimationes pro multitudine hominum, quae causam et effectum ponunt. Nonnullae coniunctiones fortasse ex parte tantum causales sunt."
+  - "Aetas et genes, quae nemo mutare potest, etiam magni factores periculi sunt. Deminuere haec 14 pericula non certum facit quemquam dementiam vitaturum esse."
+  - "Plurima ex his consiliis, sicut pressionem sanguinis, auditum et visum inspicere, etiam aliis modis valetudini prosunt et cum medico colloquenda sunt."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Qui sunt 14 factores periculi dementiae mutabiles?"
+    a: "Commissio Lancet anni 2024 nominavit minus educationis, amissionem auditus, altum cholesterolum LDL, depressionem, laesionem traumaticam cerebri, inactivitatem corporis, diabetem, fumum tabaci, altam pressionem sanguinis, obesitatem, nimium alcohol, solitudinem socialem, pollutionem aeris et amissionem visus non curatam. Una cum paene dimidio casuum dementiae in toto orbe coniunguntur."
+  - q: "Quis factor periculi dementiae plurimum valet?"
+    a: "In multitudine hominum in toto orbe, Commissio aestimavit amissionem auditus et altum cholesterolum LDL in media aetate cum circiter 7% casuum coniungi, deinde minus educationis et solitudinem socialem cum circiter 5% utrumque. Qui factores uni homini plurimum valeant, ex eius valetudine pendent; medicus igitur optimus dux est."
+  - q: "Suntne duo factores novi anno 2024 additi?"
+    a: "Ita. Relatio anni 2024 altum cholesterolum LDL (malum) in media aetate et amissionem visus non curatam in aetate provectiore duodecim factoribus anno 2020 nominatis addidit. Commissio eos cum circiter 7% et 2% casuum coniunxit."
+  - q: "Estne aetas factor periculi mutabilis?"
+    a: "Non. Aetas est maximus factor periculi notus morbi Alzheimer, et mutari non potest. Genes etiam partem agunt. Hi 14 factores in hac pagina sunt ei quos investigatio suggerit fortasse mutari posse."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,93 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Factor periculi est aliquid quod cum maiore facultate morbi evolvendi coniungitur.
+Non est causa in omni casu, et si quis unum habet, hoc non significat eum dementiam
+habiturum esse. Haec pagina 14 factores periculi dementiae enumerat, quos Commissio
+Lancet anni 2024 dicit fortasse mutari posse, cum quibus rebus investigatio eos
+coniungit, et de quibus cum medico colloqui possis.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Ut totam rem videas, etiam quid magna experimenta invenerint, incipe a
+[Potestne dementia vitari? Quid investigatio dicit](/brain-health/can-dementia-be-prevented/).
+Haec est informatio generalis, non consilium medicum; vide nostram
+[denuntiationem medicam](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Qui sunt 14 factores periculi dementiae?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Commissio Lancet anni 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+a 27 investigatoribus dementiae scripta, aestimavit 14 factores periculi
+fortasse mutabiles una cum circiter 45% casuum dementiae in toto orbe coniungi.
+Procentum cuiusque factoris infra est aestimatio Commissionis partis casuum in
+toto orbe cum eo coniunctorum, ad numeros integros rotundata. Numeri inter se
+concurrunt, quia multi homines plura pericula simul habent; ideo ad 45%, non
+ad maiorem numerum, adduntur.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Factor periculi | Aetatis gradus | Pars casuum | Cum quo investigatio coniungit | Quid facere possis |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Minus educationis | Prima aetas | 5% | Pauciores anni scholae cum maiore periculo coniunguntur. Mente activum esse in media aetate etiam tutelam praebere videtur, etiam iis qui parum educationis habuerunt. | Perge discere et res mente excitantes facere in quavis aetate: legere, studia, cursus, ludos cum aliis. |
+| Amissio auditus | Media aetas | 7% | Amissio auditus non curata cum maiore periculo coniungitur. Studia quae homines per tempus sequuntur usum instrumentorum auditus cum minore periculo coniungunt. | Auditum tuum inspiciendum cura. Roga an instrumenta auditus utilia sint, et iis utere si praescribuntur. Aures a magno strepitu protege. |
+| Altum cholesterolum LDL | Media aetas (ab anno circiter 40) | 7% | Altum cholesterolum LDL (malum) in media aetate cum maiore periculo coniungitur. Studia observantia usum statinorum cum minore periculo coniungunt, sed experimenta in aetate provectiore hoc non ostenderunt. | Roga medicum tuum an cholesterolum tuum inspiciendum sit et quid, si quid, faciendum sit. |
+| Depressio | Media aetas | 3% | Depressio cum maiore periculo coniungitur. In aetate provectiore depressio etiam primum signum dementiae esse potest. | Medico de tristitia aut amissione studii plus quam duas hebdomades durante narra. Depressio curari potest. |
+| Laesio traumatica cerebri | Media aetas | 3% | Laesio capitis in quavis aetate et ex quavis causa, etiam ex ludis contactus, cum maiore periculo coniungitur. | Galeam gere cum birota veheris aut ludos contactus facis. De praecavendis casibus roga. Post laesionem capitis quiesce et te inspiciendum cura. |
+| Inactivitas corporis | Media aetas | 2% | Homines qui exercentur et ludos faciunt minus saepe dementiam evolvunt. Argumenta ex experimentis adhuc parva sunt. | Roga quae actio tibi tuta sit, et rem inveni quae tibi placeat. Vide nostrum [ductum de exercitatione](/brain-health/exercise/). |
+| Diabetes | Media aetas | 2% | Diabetes, praesertim cum in media aetate incipit aut diutius durat, cum maiore periculo coniungitur. | Saccharum sanguinis inspiciendum cura. Si diabetem habes, cum grege curatorum tuorum collabora ut eam tuto modereris. |
+| Fumus tabaci | Media aetas | 2% | Fumus tabaci cum maiore periculo coniungitur. Studia inveniunt eos qui fumare desierunt non idem periculum auctum habere atque eos qui fumare pergunt. | De auxilio ad desistendum roga. In quavis aetate utile est desistere. |
+| Alta pressio sanguinis | Media aetas | 2% | Alta pressio sanguinis in media aetate cum maiore periculo coniungitur. Experimenta medicamentorum contra pressionem sanguinis modestum minus periculum dementiae aut imminutionis cognitionis suadent. | Numeros tuos cognosce. Commissio numerum superiorem 130 aut minorem ab anno circiter 40 suadet; roga quis finis tibi conveniat. |
+| Obesitas | Media aetas | 1% | Obesitas in media aetate cum maiore periculo coniungitur, et etiam periculum diabetis auget. | Roga medicum tuum de pondere tibi salubri. Adulti aetate provectiore pondus minuere non debent sine consilio medico. |
+| Nimius alcohol | Media aetas | 1% | Nimius potus alcoholicus cum maiore periculo coniungitur. Minuere potum post nimium usum cum minore periculo coniungitur. | Roga quis modus tutus tibi sit, praesertim cum medicamentis tuis. |
+| Solitudo socialis | Aetas provectior | 5% | Rarus contactus socialis cum maiore periculo coniungitur. | Cum aliis hominibus coniunctus mane modis qui tibi placent. Vide nostrum [ductum de coniunctione sociali](/brain-health/social-connection/). |
+| Pollutio aeris | Aetas provectior | 3% | Vita in maiore pollutione aeris cum maiore periculo coniungitur. Studia aerem puriorem cum minore periculo coniungunt. | Hoc plerumque ad consilium publicum pertinet. Monita de qualitate aeris loci inspice et tempus foris diebus valde pollutis minue. |
+| Amissio visus non curata | Aetas provectior | 2% | Problemata visus non correcta cum maiore periculo coniunguntur. Unum magnum studium in Civitatibus Foederatis chirurgiam cataractae cum minore periculo coniunxit. | Examinationes oculorum regulares habe. Roga an problemata sicut cataractae curari possint. |
 
-## How should I read these percentages?
+## Quomodo haec procenta intellegere debeo?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Caute. Ipsa relatio Commissionis plura monet quae memoria tenenda sunt:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Multitudines hominum, non singulos homines describunt.**
+  [Summarium relationis](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  Collegii Universitatis Londiniensis notat minuere periculum in multitudine hominum valere et non certum facere quemquam hominem dementiam vitaturum esse.
+- **Causam et effectum ponunt.** Auctores solos factores cum argumentis firmis incluserunt, sed dicunt nonnullas coniunctiones fortasse ex parte tantum causales esse.
+- **Numeri sunt pro toto orbe.** Plurima data ex civitatibus divitibus veniunt, et vera pars pro quavis civitate aut communitate differet.
+- **Parva procenta tamen magni momenti esse possunt.** Factor cum 2% casuum in toto orbe coniunctus tamen permagnum numerum hominum tangit.
 
-## Which risk factors were added in 2024?
+## Qui factores periculi anno 2024 additi sunt?
 
-The 2024 report added two factors to the 12 named in 2020:
+Relatio anni 2024 duos factores duodecim anno 2020 nominatis addidit:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Altum cholesterolum LDL in media aetate**, cum circiter 7% casuum coniunctum.
+- **Amissio visus non curata in aetate provectiore**, cum circiter 2% casuum coniuncta.
 
-## What risk factors cannot be changed?
+## Qui factores periculi mutari non possunt?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Institutum Nationale de Senectute dicit
+[aetatem esse maximum factorem periculi notum morbi Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+et nemo eam mutare potest. Genes etiam partem agunt; unum gene notum quod periculum morbi Alzheimer movet APOE appellatur. Institutum addit scientistas nondum plene intellegere quid morbum Alzheimer in plerisque hominibus efficiat. Commissio Lancet notat pericula fortasse mutabilia minui posse, qualecumque sit periculum geneticum hominis.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Quia aetas et genes tantam partem agunt, multi homines qui nullum ex his 14 factoribus periculi habent tamen dementiam evolvunt. Hoc nullius culpa est.
 
-## What does the trial evidence say about changing these risks?
+## Quid argumenta ex experimentis de his periculis mutandis dicunt?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Coniungere factorem periculi cum dementia non idem est atque probare eum mutare periculum dementiae minuere. Pauca exempla ubi argumenta ex experimentis nunc sunt:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Pressio sanguinis.** In experimento SPRINT MIND, finis pressionis sanguinis inferior imminutionem cognitionis levem insigniter minuit. Dementiam probabilem insigniter non minuit, quamquam experimentum fortasse nimis parvum fuit ut hoc ostenderet ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Instrumenta auditus.** Commissio Lancet experimentum trium annorum de instrumentis auditus describit quod nullum effectum generalem in cogitatione invenit, sed utilitatem in parte hominum maiore periculo expositorum. Studia quae homines per tempus sequuntur usum instrumentorum auditus cum minore periculo coniungunt. Noster [ductus de auditu](/brain-health/hearing/) plura habet.
+- **Actio corporis.** Institutum Nationale de Senectute dicit non satis argumentorum ex experimentis clinicis esse ad concludendum exercitationem imminutionem cognitionis levem aut morbum Alzheimer vitare aut tardare posse, quamquam nonnulla studia suadent eam fortasse cum imminutione aetate coniuncta iuvare
+  ([Institutum Nationale de Senectute de morbo Alzheimer vitando](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Longa experimenta quae exspectant dum dementia evolvatur lenta et sumptuosa sunt; ideo pro multis factoribus optima argumenta ex studiis venient quae homines per annos sequuntur. Haec argumenta utilia sunt, sed infirmiora sunt quam experimentum.
 
-## What about sleep and diet?
+## Quid de somno et victu?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Commissio somnum et victum examinavit, sed eos in indicem non addidit, quia argumenta non satis firma aut constantia erant. Nostri ductus de
+[somno](/brain-health/sleep/) et [victu](/brain-health/diet/) explicant quid notum sit.
 
-## Talk with a doctor
+## Cum medico colloquere
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Examinatio annua bonum tempus est ut haec argumenta proferas. Hunc indicem ferre et rogare potes:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Qui sunt numeri meae pressionis sanguinis, sacchari sanguinis et cholesteroli, et aliquisne eorum cura eget?
+- Debeone auditum et oculos inspiciendos curare?
+- Estne actio quam facio tuta et mihi sufficiens?
+- Possuntne aliqua ex medicamentis meis memoriam aut cogitationem afficere?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Antequam medicamenta, victum, ieiunium, exercitationem aut supplementa mutes, prius cum medico colloquere. Si tu aut homo quem curas subito confusionem, infirmitatem in uno latere corporis, aut difficultatem loquendi habet, 112 voca.

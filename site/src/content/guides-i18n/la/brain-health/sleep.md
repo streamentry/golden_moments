@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Somnus et valetudo cerebri: quid studia suadeant"
+seoTitle: "Somnus et dementia: quid studia suadeant"
+description: "Quid studia de somno et periculo dementiae suadeant, cur investigatio de purgatione cerebri adhuc nova sit, et utilia consilia de somno."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Nonnulla studia diuturna somnum brevem media aetate cum maiore periculo dementiae coniungunt,
+  et investigatio in laboratorio suadet somnum fortasse cerebro adiuvare ut res superfluas
+  removeat. Haec indicia adhuc nova sunt, et Commissio Lancet anni 2024 somnum inter factores
+  periculi mutabiles non numeravit. Certa consuetudo somni cotidie adiuvat quomodo vos sentitis.
+  Difficultates somni in dementia saepe occurrunt, et utile est de eis cum medico loqui.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Studium in Britannia, quod circiter 8,000 homines per 25 annos observavit, somnum sex horarum aut breviorem media aetate cum maiore periculo dementiae coniunxit."
+  - "Mutationes somni etiam primum signum dementiae esse possunt, itaque difficile est causam ab effectu discernere."
+  - "Investigatio de somno qui beta-amyloidem e cerebro removet vera est, sed adhuc nova, magna ex parte in muribus facta."
+  - "Apnoea somni frequens est, curari potest et in studiis cum dementia coniuncta est; stertere valde et interdiu dormire digna sunt quae inspiciantur."
+  - "Numquam medicamentum aut auxilium ad somnum incipiatis, desistatis aut mutetis sine medico."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Num malus somnus morbum Alzheimer efficit?"
+    a: "Hoc demonstratum non est. Nonnulla studia somnum brevem cum maiore periculo dementiae coniungunt, sed ipsa dementia somnum saepe turbat, etiam annis ante diagnosim. Commissio Lancet anni 2024 iudicavit indicia non satis constantia esse ut somnum inter factores periculi mutabiles numeraret."
+  - q: "Quanto somno adulti aetate provecti egent?"
+    a: "National Institute on Aging dicit adultos aetate provectos fere eodem somno egere atque alios adultos, 7 ad 9 horis per noctem. Multi aetate provecti maturius cubitum eunt et maturius surgunt quam antea, quod saepe fit."
+  - q: "Cur homo qui cum dementia vivit interdiu dormit et noctu vigilat?"
+    a: "Dementia horologium corporis afficere potest, ita ut tempora somni et vigiliae misceantur. Dolor, taedium, fames aut effectus medicamentorum secundarii etiam partem habere possunt. Lux diei, cotidianus motus et tranquilla consuetudo vespertina fortasse iuvare possunt. Medicus causas inspicere potest quae curari possunt."
+  - q: "Debeone auxilium ad somnum ei quem curo dare?"
+    a: "Prius cum medico eius loquimini, etiam de remediis quae sine praescriptione emuntur. National Institute on Aging notat nonnulla medicamenta ad somnum periculum vertiginis, casuum et confusionis in hominibus qui cum morbo Alzheimer vivunt augere posse."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Somnus et valetudo cerebri manifesto coniuncta sunt, sed quomodo coniungantur adhuc investigatur. Nonnulla studia somnum brevem cum maiore periculo dementiae coniungunt. Dementia vicissim somnum saepe turbat. Haec pagina explicat quid investigatio ostendat et quid non ostendat, dat utilia consilia de somno et tractat difficultates somni quae in dementia saepe occurrunt. Consilia de medicamentis ad somnum non dat; de hac re cum medico loquendum est.
 
-## Is poor sleep linked with dementia?
+## Num malus somnus cum dementia coniunctus est?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Nonnulla studia diuturna somnum brevem cum maiore periculo dementiae coniungunt, sed indicia nondum certa sunt.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Studium Britannicum per 25 annos factum.** Investigatores circiter 8,000 adultos in [studio Whitehall II](https://www.nature.com/articles/s41467-021-22354-2) observaverunt. Homines qui sex horas aut minus anno aetatis 50 aut 60 dormiebant maius periculum dementiae postea habebant quam ii qui septem horas dormiebant. Homines qui sex horas aut minus annis 50, 60 et 70 dormiebant fere 30% maius periculum habebant quam ii qui assidue septem horas dormiebant. Hoc fuit studium observationis, itaque nexum ostendit, non causam.
+- **Sententia Commissionis Lancet.** [Commissio Lancet anni 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) somnum in indice suo 14 factorum periculi mutabilium non addidit. Iudicavit indicia non satis constantia esse. Una causa est „causatio inversa”: mutationes cerebri ex dementia annis ante diagnosim incipiunt et somnum turbare possunt. In uno magno studio, nexus inter somnum longum et dementiam evanuit, cum primi quinque anni observationis sepositi essent.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Itaque nox brevior interdum non est causa sollicitudinis. Somnus regularis et bonae qualitatis expetendus est, quia hodie animum, vigilantiam et securitatem adiuvat.
 
-## What is the "brain-clearing" sleep research?
+## Quae est investigatio de „purgatione cerebri” per somnum?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Fortasse legistis somnum cerebrum „purgare”. Haec cogitatio ex vera investigatione venit, sed adhuc nova est.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **In muribus.** Studium anni 2013, [a NIH descriptum](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), invenit spatium inter cellulas cerebri fere 60% crescere cum mures dormirent. Humor facilius per cerebrum fluebat, per id quod investigatores systema glymphaticum appellant. Beta-amyloides, proteina cum morbo Alzheimer coniuncta, celerius e cerebris murium dormientium removebatur.
+- **In hominibus.** Parvum [studium anni 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) 20 adultos sanos, aetatis 22 ad 72 annos, post noctem ordinariam et post noctem sine somno inspexit. Post noctem sine somno, signum beta-amyloidis in imagine cerebri fere 5% crevit in regione quae hippocampum comprehendit, partem memoriae magni momenti. Auctores hoc indicium praeliminare appellaverunt. Nesciebant utrum mutatio post quietem evanescat, an lentiorem remotionem an maiorem creationem amyloidis significet.
+- **Hoc utramque in partem valet.** Commissio Lancet notat accumulationem amyloidis ipsam somnum in adultis aetate provectis turbare posse.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Haec inventa adiuvant explicare cur somnus investigatores moveat. Non ostendunt somnum meliorem morbum Alzheimer prohibere.
 
-## What sleep habits may help?
+## Quae consuetudines somni fortasse iuvare possunt?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Adulti aetate provecti fere 7 ad 9 horis somni per noctem egent, sicut alii adulti, secundum [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Eius consilia haec sunt:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Certum ordinem servate.** Cotidie eodem tempore cubitum ite et surgite, etiam diebus festis.
+- **Consuetudinem quietam ante somnum facite.** Legite, musicam lenem audite aut ante somnum balneo calido utimini.
+- **Cubiculum commodum facite,** non nimis calidum nec nimis frigidum.
+- **Caffeinam serius per diem minuite.** Coffea, thea, potiones gasi plenae et socolata vos vigilantes tenere possunt.
+- **Alcohol vitate,** etiam parvas quantitates, ut NIA suadet.
+- **Magnas cenas intra duas aut tres horas ante somnum vitate,** et magnas potiones serius per diem.
+- **Regulariter vos exercete, sed non intra 3 horas ante somnum.** Videte nostrum [dux de exercitatione corporis](/brain-health/exercise/).
+- **Instrumenta cum imaginibus e cubiculo removete.** NIA suadet ne televisionem spectetis neve computatro, telephono aut tabula ibi utamini.
+- **Somnum meridianum post meridiem aut vespere vitate,** si fieri potest.
 
-## Sleep problems in dementia
+## Difficultates somni in dementia
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Mutationes somni in dementia saepe occurrunt. [NIA enumerat](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) nimium aut parum dormire, saepe noctu expergisci et multum interdiu dormitare. Etiam sundowning describit: inquietudinem, agitationem aut confusionem quae incipit aut augetur cum lux diei minuitur.
 
-Caregiver tips from the NIA include:
+Consilia NIA pro iis qui curam praebent haec sunt:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Mane lucem diei et motum quaerite.** Per diem foras ite aut prope fenestram sedete, et iuvate hominem cotidie activum esse. Lux clara fortasse horologium corporis iterum constituere adiuvat.
+2. **Actiones strenuas mane disponite.** Lavationem mane temptate aut cenam maximam meridie sumite.
+3. **Somnum meridianum brevem et maturum servate.** Dormitationem serius per diem minuite.
+4. **Vesperum tranquillum facite.** Luces demittite, strepitum minuite et musicam lenem canite, si homo ea gaudet. Noster dux de [inquietudine sub vesperum](/caregiving/late-day-restlessness/) plura consilia praebet.
+5. **Certam consuetudinem ante somnum servate.** Clare legere eodem tempore quaque nocte est unum exemplum NIA. [Certa consuetudo cotidiana](/activities/daily-routine/) quoque adiuvat.
+6. **Caffeinam et alcohol minuite.**
+7. **Parvas luces nocturnas** in cubiculo, in androne et in balneo adhibete.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Ad vigilandum nocturnum, [consilia NIA de securitate domi](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) parvas luces nocturnas aut sensoria lucis automatica, manubria in balneo, taeniam clari coloris in marginibus graduum, et medicamenta loco clauso servata includunt.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Brevis et quieta actio vespere vos ambos adiuvare potest ut tranquilli fiatis. Temptate lentam pausam [Calm Breathing](/games/calm-breathing/) aut pauca placida [Conversation Cards](/games/conversation-cards/). Omittite quidquid excitans prope tempus somni, et desinite quandocumque homo satis habuit.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Somnus interruptus etiam eos qui curam praebent fatigat. Noster [dux de cura sui pro iis qui curam praebent](/caregiving/caregiver-self-care/) modos quiescendi et auxilium inveniendi tractat.
 
-## What about sleep apnea?
+## Quid de apnoea somni?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Apnoea somni breves moras respirationis per somnum efficit, saepe multoties per noctem. NIA dicit, si non curatur, ad difficultates ducere posse, sicut pressionem sanguinis altam, ictum cerebri aut amissionem memoriae. Signa sunt stertere valde et interdiu valde dormire, et multi homines nesciunt se hoc habere. Commissio Lancet recognitionem 11 studiorum describit in qua homines cum apnoea somni fere 43% maius periculum dementiae habebant. Pauca tamen ex illis studiis de pondere corporis rationem habuerunt, itaque nexus incertus est.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Apnoea somni dignosci et curari potest. NIA notat machinam CPAP paene semper adiuvare. Si vos aut is quem curatis valde stertit, per somnum respirare desinit, aut interdiu valde dormit, medico dicite.
 
-## A note about sleep medicines
+## Nota de medicamentis ad somnum
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Consilia de medicamentis aut supplementis ad somnum non damus. NIA notat medicamenta ad somnum fortasse breve tempus iuvare posse, sed insomniae remedium non esse. Etiam notat nonnulla medicamenta quae hominibus cum morbo Alzheimer ad somnum adiuvandum dantur periculum vertiginis, casuum et confusionis augere posse. Nullum medicamentum ad somnum, etiam auxilia sine praescriptione empta, incipiatis, desistatis aut mutetis nisi cum medico aut pharmacopola locuti estis.
 
-## Talk with a doctor
+## Cum medico loquimini
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Medicum videte si vos aut is quem curatis semper fatigati estis, plerisque noctibus dormire difficile est, valde stertit, aut noctu moras respirationis habet. Si difficultates somni in dementia manent, [NIA suadet](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) consilium medicum petere. Recognitio medica causas invenire potest, sicut dolorem, aliam perturbationem somni, morbum aut effectum secundarium medicamenti. Subita confusio, aut subita mutatio somni cum confusione, curam subitam requirit. Legite [quando medicum videre oporteat](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Haec pagina est informatio generalis, non consilium medicum. Videte nostrum [monitum medicum](/medical-disclaimer/).

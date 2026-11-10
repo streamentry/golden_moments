@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Faciles quaestiones pro adultis cum dementia"
+seoTitle: "Quaestiones faciles pro adultis cum dementia"
+description: "50 faciles quaestiones pro adultis cum dementia, cum responsis et initiis sermonis, et quomodo eas ita agas ut nemo se probari aut excludi sentiat."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Faciles quaestiones pro adultis cum dementia bene procedunt, cum colloquium,
+  non probatio, esse videntur. Quaere de rebus iam diu notis, sicut cantibus
+  antiquis, dictis, feriis et vita cotidiana, et semper duas vel tres optiones
+  offer. Responsum benigne dic, neminem singillatim appella, puncta omitte, et
+  quoque responso utere ad sermonem incipiendum. Quaestiones « hoc an illud »,
+  quibus nullum responsum falsum est, posterioribus gradibus magis conveniunt.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Quaere de rebus iam diu familiaribus: cantibus, dictis, feriis, cibo et vita cotidiana annorum praeteritorum."
+  - "Duas vel tres optiones offer, ut responsum agnosci potius quam ex memoria proferri possit."
+  - "Responsum benigne dic et perge. Quaelibet coniectura, quae sermonem incipit, bona est."
+  - "Nulla puncta, nullae turmae certantes, nemo singillatim appellatus. Responsa ex toto coetu venire sinas."
+  - "Cum inter responsa eligere difficile fit, ad quaestiones « hoc an illud » transi, quibus nullum rectum responsum est."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Suntne huiusmodi quaestiones apta actio hominibus cum dementia viventibus?"
+    a: "Possunt esse, si leniter aguntur. Alzheimer's Foundation of America huiusmodi quaestiones inter actiones primi gradus numerat. Quaestiones de rebus iam diu familiaribus serva, optiones offer, neminem in angustias adducas, et responsa tamquam initium colloquii, non probationem, habe."
+  - q: "Quae argumenta in quaestionibus pro hominibus cum dementia optime valent?"
+    a: "Res iam diu cognitae saepe optime valent: cantus et cantores clari ex iuventute eius, dicta familiaria, feriae, cibus, ludi athletici et vita cotidiana, sicut lactis traditio aut telephonum rota instructum. Nuntios recentes et ea vita, quae memoriam rei ante in eadem sessione dictae postulant."
+  - q: "Quomodo quaestiones in domo curae ita ago, ut neminem pudore afficiam?"
+    a: "Quamque quaestionem toti coetui lege, optiones ostende vel dic, et responsa a quovis libenter accipe. Singulos homines ne appella neve puncta numera. Responsum cum benignitate dic, quidquid coniectum est, et quaestionem sequentem adde, sicut « Quis hic umquam ad cinematographeum autocineticum ivit? », ut in narrationes vertatur."
+  - q: "Quid pro his quaestionibus in posterioribus gradibus facere possum?"
+    a: "Ad quaestiones transi, quibus nullum responsum falsum est, sicut « Coffeum an thea? » aut « Litus an montes? », et ad dicta aut cantus familiares una perficiendos. Etiam imagines una spectare et describere bene convenit."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Huiusmodi quaestiones sunt inter actiones gregales maxime petitas in domibus curae et in programmatibus diurnis, et multae familiae eas etiam ad mensam culinariam ludunt. Modo solito actae, cum punctis et uno respondente, aliquem cum dementia viventem in angustias adducere possunt. Leniter actae, sunt laeta via ad narrationes audiendas. Infra sunt 50 faciles quaestiones cum optionibus responsorum et re, de qua loqui possis, pro unaquaque; deinde sequitur, quomodo sessionem agas.
 
-## How do you make trivia work for someone with dementia?
+## Quomodo has quaestiones homini cum dementia aptas facias?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Fac, ut de agnoscendis et recordandis rebus iam diu notis agatur, et ut omne responsum benigne accipiatur.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **De praeterito longinquo quaere.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dicit symptoma primum morbi Alzheimer saepissime esse difficultatem recordandi informationes nuper cognitas. Cantus, dicta et vita cotidiana ante decennia saepe facilius argumentum praebent.
+2. **Semper optiones da.** Facilius est responsum rectum ex duabus vel tribus optionibus eligere quam id ex nihilo proferre.
+3. **Quaestiones clara voce lege et magnis litteris ostende.** Tabula alba aut tabula computatralis sublata hominibus, qui minus bene audiunt, adiuvare potest.
+4. **Responsum libenter dic.** Si nemo scit, benigne id dic et perge. Numquam dicas « Age, hoc scis ».
+5. **Nulla puncta.** Nec singulis hominibus nec mensis. Si homines numerum volunt, unum summam totius coetus serva.
+6. **Neminem singillatim appella.** Responsa a quovis venire sinas. Si cum uno homine agis, una respondete: « Puto esse clavicymbalum. Quid tu putas? »
+7. **Initio sermonis utere.** Responsum est initium, non finis. Narrationes sunt verus finis.
+8. **Breve serva.** Decem quaestiones, narrationibus interpositis, satis sunt.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) regulam praecipuam simpliciter exprimit: frustrationem observa et cura, ut is, quem curas, se bene egisse sentiat. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) huiusmodi quaestiones inter actiones primi gradus numerat. In gradu medio, ad duas optiones te contine et initiis sermonis magis utere. Postea ad quaestiones « hoc an illud » infra positas transi.
 
-## Music and entertainment trivia
+## Quaestiones de musica et spectaculis
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Responsum **litteris crassis** notatur. Has quaestiones ad hominem apta: qui cum musica Motown adolevit, alios cantores cupiet quam is, qui cum magnis orchestris adolevit.
 
-| Question | Choices | Talk about |
+| Quaestio | Optiones | De quo loqui |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Quis Rex Rock and Roll appellatus est? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Vidistine umquam Elvis in televisione? |
+| Quis cantor Ol' Blue Eyes cognominatus est? | Dean Martin, **Frank Sinatra**, Perry Como | Quis cantus Sinatrae tibi maxime placet? |
+| Bing Crosby de alba... somniabat. | **Nativitate Domini**, nuptiis, domo | Una versum canite |
+| Louis Armstrong cecinit « What a Wonderful... » | Day, **World**, Life | Quid mundum tibi pulchrum facit? |
+| « Over the Rainbow » a Judy Garland in quo pellicula cantata est? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Ubi pelliculas tibi carissimas spectabas? |
+| Quis Luciam in « I Love Lucy » egit? | **Lucille Ball**, Doris Day, Betty White | Quae spectacula familia tua una spectabat? |
+| Quis bubulcus equo nomine Trigger vectus est? | **Roy Rogers**, Gene Autry, John Wayne | Ludebasne puer bubulcos? |
+| Quis « The Tonight Show » per 30 annos moderatus est? | Ed Sullivan, **Johnny Carson**, Bob Hope | Serone vigilabas, ut televisionem spectares? |
+| Quod instrumentum 88 claves habet? | Cithara, **clavicymbalum**, tuba | Ludebatne aliquis in familia tua? |
+| Quae saltatio numeratur unus-duo-tres, unus-duo-tres? | **Waltz**, twist, tango | Quo ibas ad saltandum? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Plura de musica invenies in [actionibus musicis pro dementia](/activities/music/).
 
-## Everyday life trivia
+## Quaestiones de vita cotidiana
 
-| Question | Choices | Talk about |
+| Quaestio | Optiones | De quo loqui |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Ante refrigerators, multae domus cibum frigidum servabant in... | **arca glaciali**, furno, cenaculo | Quis glaciem attulit? |
+| Quis lac ad ianuam in lagenis vitreis ferebat? | Tabellarius, **lactarius**, puer diurnarius | Quae alia ad domum afferebantur? |
+| Quomodo telephonum rota instructum circumagebas? | Bullas premendo, **rotam vertendo**, cum eo loquendo | Narra mihi de telephono in domo tua |
+| Quae societas autocinetum Model T fecit? | **Ford**, Chevrolet, Buick | Narra mihi de autocineto, quod tibi placebat |
+| Ubi « soda jerk » inveniri poterat? | **Ad mensam potionum**, in pistrino, in argentaria | Quid ad mensam poscebas? |
+| Quod ludicrum est spiralis metallica, quae per gradus ambulare potest? | Yo-yo, **Slinky**, hula hoop | Quae ludicra tibi maxime placebant? |
+| « Drive-in » erat locus, ubi spectabantur... | **pelliculae ex autocineto**, ludi pilae, pompae | Cum quo ibas? |
+| Cuius vultus in charta nummaria unius dollarii est? | Lincoln, **George Washington**, Jefferson | Quid unus dollarius tunc emi poterat? |
+| Cuius vultus in nummo unius centesimae est? | **Abraham Lincoln**, Washington, Franklin | Servabasne tunc centesimas in vase? |
+| Quo colore laophorium scholare plerumque est? | Rubro, **flavo**, caeruleo | Quomodo ad scholam ibas? |
 
-## Holidays, nature and places
+## Feriae, natura et loca
 
-| Question | Choices | Talk about |
+| Quaestio | Optiones | De quo loqui |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Quae feria quarto Iovis mensis Novembris celebratur? | Labor Day, **Thanksgiving**, Memorial Day | Quid semper in mensa tua erat? |
+| Laternae ex cucurbita factae ad quam feriam pertinent? | **Halloween**, Pascha, Nativitatem Domini | Narra mihi de Halloween ubi adolevisti |
+| Quartus dies Iulii Declarationem... celebrat. | Iurum, **Libertatis**, Libertatis | Ubi spectacula pyrotechnica spectabas? |
+| Dies Matrum quo mense est? | Aprili, **Maio**, Iunio | Quomodo familia tua celebrabat? |
+| Quot stellae in vexillo Civitatum Foederatarum sunt? | 48, **50**, 52 | Vexillum 48 stellas habuit usque ad annum 1959. Utrumque responsum bona memoria esse potest |
+| Quod oceanus ad oram orientalem est? | Pacificus, **Atlanticus**, Arcticus | Iistine umquam ad litus? |
+| In qua urbe Statua Libertatis est? | Bostoniae, **Novi Eboraci**, Philadelphiae | Fuistine Novi Eboraci? |
+| Quid apes faciunt? | Lac, **mel**, sericum | Mel in pane tosto an in thea? |
+| Vitulus bovis parvus appellatur... | pullus equinus, **vitulus**, haedus | Habitabasne umquam prope fundum? |
+| Quis flos altus et flavus notus est, quod ad solem vertitur? | Rosa, **helianthus**, tulipa | Quid in horto tuo crescebat? |
+| Quot dies in anno bisextili sunt? | 365, **366**, 360 | Narra mihi de natali die, quem meministi |
+| Quod tempus anni post hiemem venit? | Autumnus, **ver**, aestas | Quod tempus anni tibi maxime placet? |
 
-## Food and sports trivia
+## Quaestiones de cibo et ludis athleticis
 
-| Question | Choices | Talk about |
+| Quaestio | Optiones | De quo loqui |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Uvae passae sunt uvae... | Pruna, **uvae**, cerasa | Ponebasne uvas passas in prandio? |
+| Pruna sicca sunt... | **Pruna**, fici, mala | Quis in familia tua pruna sicca amabat? |
+| Butyrum arachidum et... | **gelatina**, caseus, perna | Fragile an lene? |
+| Guacamole maxime ex... fit. | Pisis, **persea Americana**, cucumeribus | Quae intinctus in conviviis apponebantur? |
+| Quae placenta in Thanksgiving cara est? | **Ex cucurbita**, ex citro, ex cerasis | Quam placentam faciebas? |
+| Quot lusores turma basipilae in campo habet? | 7, **9**, 11 | Cui turmae favebas? |
+| Quot ictus irriti in basipila efficiunt, ut lusor exeat? | Duo, **tres**, quattuor | Ludistine umquam basipilam? |
+| Babe Ruth quo ludo athletic clarus fuit? | Pugilatu, **basipila**, pilamalleo | Ibasne ad ludos basipilae? |
+| Quot foramina in campo pilamallei solito sunt? | 9, **18**, 24 | Ludistine umquam pilamalleum, aut pilamalleum parvum? |
+| In quo ludo athletico « touchdown » notatur? | **Harpasto Americano**, alsulegia glaciali, canistripila | Quis domi tuae harpastum Americanum spectabat? |
 
-## Familiar sayings
+## Dicta familiaria
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Dictum perficere lingua iam diu cognita nititur et saepe facile venit. Ludus noster [Perfice dictum](/games/finish-the-saying/) multa alia habet, cum facultate tangendi, ut quodlibet finem ostendas.
 
-| Saying | Choices | Talk about |
+| Dictum | Optiones | De quo loqui |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Malum cotidie... arcet. | **Medicum**, pluviam, felem | Quis hoc tibi dicere solebat? |
+| Avis mane surgens... capit. | Laophorium, **vermiculum**, tramen | Esne homo matutinus? |
+| Noli pullos numerare, antequam... | **Excludantur**, dormiant, canant | Habebatne familia tua gallinas? |
+| Nummus servatus est nummus... | **Partus**, amissus, consumptus | Quis in familia tua parcus erat? |
+| Domus est, ubi... est. | Hortus, **cor**, culina | Quid locum domum sentiri facit? |
+| Melius est sero quam... | Mane, **numquam**, paenitere | Quis semper serus erat? |
+| Quaelibet nubes... argenteum habet. | **Marginem**, cochlear, nummum | Narra mihi de fortuna inopinata |
+| Facta fortius loquuntur quam... | **Verba**, musica, tonitrus | Narra mihi de aliquo, qui hoc dicebat |
 
-## This-or-that questions with no wrong answer
+## Quaestiones « hoc an illud », quibus nullum responsum falsum est
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Hae omni gradui conveniunt, etiam posterioribus, quia nihil recte aut perperam responderi potest. Quaere, audi, et responsum tuum quoque communica.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Coffeum an thea?
+- Litus an montes?
+- Canes an feles?
+- Aestas an hiems?
+- Placenta an libum?
+- Saltare an spectare?
+- Sol oriens an sol occidens?
+- Porticus anterior an hortus posterior?
+- Radiophonium an disci?
+- Laganum an ova?
+- Rosae an leucanthema?
+- Iter tramine an iter autocineto?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Si colloquia cum imaginibus coniuncta quaeris, tempta chartas nostras imprimendas [Chartae ad colloquendum](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Quomodo sessionem quaestionum in domo curae vel in coetu agas?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Homines ita colloca, ut videre et audire possint.** Instrumenta auditoria inserta, perspicilla imposita, televisio exstincta.
+2. **Tamquam colloquium introduce.** « Habeo aliquas quaestiones de veteribus diebus, et puto vos plura scire quam me. »
+3. **Quamque quaestionem bis lege et optiones magnis litteris ostende.**
+4. **Responsa ex quovis loco conclavis libenter accipe.** Bona responsa repete, ut omnes audiant.
+5. **Responsum omnibus dic,** deinde quaestionem ad colloquium pertinentem toti coetui propone.
+6. **Animum coetus sequere.** Si una quaestio decem minuta narrationum movet, sine fieri.
+7. **Cantu aut serie quaestionum « hoc an illud » fini,** ut omnes re facili finiant.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+De aliis formis gregalibus, inter quas sunt bingo imaginum et cantus communes, vide [actiones gregales pro domibus curae](/activities/care-home-groups/).
 
-## When to change the plan
+## Quando consilium mutare debes
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Si aliquis anxius videtur, tacet aut plus semel dicit « Nescio », facilius redde: ad duas optiones redi, una respondete, aut ad quaestiones « hoc an illud » transi. Si coetus de una quaestione per totum postmeridianum loqui mavult, id bene evenit. Finis numquam fuerunt responsa recta. Finis fuit tempus in bono consortio actum.
