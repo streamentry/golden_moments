@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 62 / 100 completed**
+**Progress: 63 / 100 completed**
 
 ---
 
@@ -324,3 +324,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,500 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/toileting-and-incontinence-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, continence specialist, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
+
+## Round 63: planning a driving conversation with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends planning ahead, supportive conversation, objective driving evaluation and transport alternatives. Dementia Australia recommends early, short discussions, listening to what driving means, and not hiding keys as an early tactic. NHTSA suggests collecting information, making a plan and following through. | Supports caregiver conversation and planning, not a decision about a person's fitness to drive. |
+| Existing coverage and gap | The warning-signs guide mentions that dementia can affect driving, but the site had no guide for discussing concerns, involving qualified help or keeping meaningful trips possible. | Added the site's 58th English caregiving guide with a conversation and transport-planning approach. |
+| Safety boundary | The page does not determine driving ability, give state licensing advice or set a diagnosis-based cutoff. It directs individual questions to a doctor, driving rehabilitation specialist or local licensing authority; sudden confusion is directed to immediate medical help. | General guidance only; local requirements and individual evaluations remain with the relevant professionals. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,501 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/driving-and-dementia-conversation/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, physician, driving rehabilitation specialist, native-speaker or live-browser review. | Open; do not claim driving assessment or user validation. |

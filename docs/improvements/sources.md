@@ -198,3 +198,12 @@ Application: the existing daily-routine guide mentions dressing but does not exp
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help and advises against self-diagnosis.
 
 Application: the site had scattered toilet and incontinence references but no focused caregiver guide. The new page covers dignity, cues, bathroom orientation, calm accident response, fluids and professional review without giving treatment instructions or imposing a schedule.
+
+## Round 63: driving conversations and dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Dementia & Driving](https://www.alz.org/help-support/caregiving/safety/dementia-driving) — opened. It recommends planning ahead, discussing concerns with empathy, considering an objective driving evaluation and arranging transport alternatives.
+- [Dementia Australia: Driving and dementia](https://www.dementia.org.au/living-dementia/staying-connected/driving-and-dementia) — opened. It recommends early, short, respectful conversations, considering what driving means to the person, discussing professional guidance and avoiding hidden keys or vehicle disabling as an early strategy.
+- [NHTSA: Older Drivers](https://www.nhtsa.gov/road-safety/older-drivers) — opened. Its caregiver section suggests gathering information, making a plan and following through; its guidance says not to decide driving ability by age alone.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical attention.
+
+Application: existing content mentioned driving only as a possible difficulty. The new guide helps caregivers start the conversation, document concrete concerns, seek qualified assessment and preserve mobility through other transport, without diagnosing or giving state licensing rules.
