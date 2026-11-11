@@ -160,3 +160,10 @@ Application: existing diet and household-task guides covered nutrition research 
 - [Dementia Australia: Hygiene](https://www.dementia.org.au/living-dementia/staying-healthy/hygiene) — opened. It recommends continuing personal routines, asking what help is wanted, using simple respectful steps and adapting the bathing method to the person's comfort.
 
 Application: the existing home-safety guide covers bathroom hazards, not the personal-care interaction. The new page applies these sources to consent, privacy, preparation and stopping when the person is uncomfortable. It does not prescribe a bathing schedule or clinical technique.
+
+## Round 58: pet care and dementia (read 2026-11-11)
+
+- [Alzheimer's Society: How can you plan for your pet's care after you've been diagnosed with dementia?](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/how-plan-your-pet-care-after-diagnosed-dementia) — opened. It discusses pairing pet tasks with routines, using reminders, asking others for specific help and planning future care.
+- [Dementia Australia: Activities for people with dementia](https://www.dementia.org.au/living-dementia/staying-connected/activities-people-dementia) — opened. It includes pets among activities that may be meaningful to a person and recommends planning around individual interests and social connection.
+
+Application: the site mentioned pets as activities but lacked practical guidance for keeping care routines and backup support reliable. The new guide is about planning around an existing pet and both parties' comfort, not promoting animal-assisted therapy or guaranteeing benefits.
