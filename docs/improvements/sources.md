@@ -146,3 +146,10 @@ Application: holiday and outing guides covered family events and short trips, bu
 - [Dementia UK: Living alone with dementia](https://www.dementiauk.org/information-and-support/living-with-dementia/living-alone-with-dementia/) — found in search, but opening returned HTTP 403. Not used for this round.
 
 Application: the site had a physical home-safety guide but no resource on daily routines and agreed support for someone living alone. The new page emphasizes the person's choices and gradual support. It does not set a threshold for whether living alone is safe or appropriate.
+
+## Round 56: mealtimes with dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Food and Eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating) — opened. It recommends a calm setting, simple table setup, familiar food, enough time and as much independence as is safe. It directs caregivers to a doctor or speech-language professional for new eating or swallowing concerns.
+- [Dementia Australia: Eating and dementia](https://www.dementia.org.au/living-dementia/home-life/eating-and-dementia) — opened. It suggests familiar meals, fewer distractions, clear table settings, time to eat and professional advice for chewing or swallowing problems.
+
+Application: existing diet and household-task guides covered nutrition research and meal preparation, but not the mealtime setting. The new caregiver guide turns the sources into practical environmental and interaction cues without prescribing foods or swallowing techniques.

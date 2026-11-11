@@ -117,6 +117,10 @@ The new English travel guide offers a flexible preparation checklist while leavi
 
 The new English guide focuses on everyday routines and support chosen with a person living alone with dementia. It does not define a stage cutoff or prescribe monitoring. Site verification, TypeScript, Python and metadata checks pass; no caregiver or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 56 score update (2026-11-11)
+
+The new caregiver guide focuses on the mealtime setting and support for independence; it does not prescribe a diet or swallowing technique. It directs new eating concerns to health professionals. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no caregiver, clinician or user review has been done.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
