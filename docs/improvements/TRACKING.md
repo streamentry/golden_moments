@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 67 / 100 completed**
+**Progress: 68 / 100 completed**
 
 ---
 
@@ -379,3 +379,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,505 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/drinking-enough-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, dietitian, clinician, native-speaker or live-browser review. | Open; do not claim medical or user validation. |
+
+## Round 68: choosing in-home help with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association distinguishes companion, personal, household and skilled services, and recommends defining needs, interviewing, checking references and asking about backup. Dementia Australia describes home-care service types and notes that access and funding depend on location. | Supports comparing services, not endorsing a provider or explaining eligibility. |
+| Existing coverage and gap | Caregiver self-care mentions respite and local resource services, but the site had no guide for defining in-home care tasks, screening providers or judging interpersonal fit with the person. | Added the site's 63rd English caregiving guide with person-led selection and practical questions. |
+| Safety boundary | The guide does not promise funding, set prices or interpret licensing law. It distinguishes nonmedical help from skilled health care and directs medical tasks to qualified providers. | General selection guidance; local terms and credentials need confirmation. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,506 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/choosing-in-home-dementia-care/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, home-care worker, clinician, native-speaker or live-browser review. | Open; do not claim provider endorsement or user validation. |

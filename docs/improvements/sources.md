@@ -241,3 +241,12 @@ Application: several caregiving guides already mention pain as one possible caus
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help.
 
 Application: the site mentioned fluids in mealtime, continence and fasting pages but did not offer a focused daily hydration guide. The new page suggests familiar drinks and routines without setting a fluid target or prescribing treatment.
+
+## Round 68: choosing in-home support for dementia (read 2026-11-11)
+
+- [Alzheimer's Association: In-Home Care](https://www.alz.org/help-support/caregiving/care-options/in-home-care) — opened. It distinguishes companion, personal care, homemaker and skilled services and gives screening questions about experience, training, references, availability, backup and cost.
+- [Alzheimer's Association: Choosing an In-Home Care Professional](https://www.alz.org/media/Documents/alzheimers-dementia-choosing-in-home-care-professional-ts.pdf) — opened; updated June 2024. It recommends calling providers, meeting at home, checking references and observing how the provider interacts with the person.
+- [Dementia Australia: Home care](https://www.dementia.org.au/living-dementia/care-options/home-care) — opened; updated 3 March 2026. It lists home-care service types and says fees, providers and funded access vary.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help and warns against self-diagnosis.
+
+Application: existing caregiver self-care guidance points to respite resources but did not explain how to define home-care needs or screen providers. The new guide helps families compare options with the person and verify local terms without endorsing a provider.
