@@ -288,3 +288,11 @@ Application: the site mentions day programs as one respite option and has activi
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help; the guide directs readers to their local emergency system rather than assuming one country's emergency number.
 
 Application: the site had a home-safety guide, caregiver backup advice and a hospital guide, but no disaster-preparation plan. The new page gives families a short, person-led checklist for helpers, communication, supplies and services while leaving shelter and evacuation decisions to current local authorities.
+
+## Round 74: talking with children about dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Talking to Kids About Alzheimer's and Dementia](https://www.alz.org/help-support/caregiving/kids/talking-kids-about-dementia) — opened. It recommends answering children's questions honestly in language they understand, and notes that children may worry about contagion, blame themselves or feel uncertain about how to act.
+- [Dementia Australia: Dementia and family relationships](https://www.dementia.org.au/living-dementia/staying-connected/dementia-and-family-relationships) — opened. It discusses honest, clear explanations, the child's feelings, age-appropriate conversation and boundaries that protect young people's routines and role.
+- [Alzheimer's Society: Ways you can support children and young people when a person has dementia](https://www.alzheimers.org.uk/get-support/living-with-dementia/supporting-children-young-people-dementia) — opened. It recommends reassurance, space to express feelings, trusted support networks and including young people before sharing information with school.
+
+Application: the website had no guide for explaining a family member's dementia to children or preserving their routines and boundaries. The new page offers plain conversation examples and voluntary ways to stay connected without making a child responsible for care.

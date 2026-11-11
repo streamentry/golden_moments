@@ -29,7 +29,7 @@ pnpm preview             # serves dist/ with the real Workers runtime, headers a
 | Path | What it is |
 | --- | --- |
 | `src/pages/` | Routes: home, `games/`, `[section]/` guides and hubs, legal pages, `robots.txt`, `llms.txt`, `llms-full.txt`, manifest, `pictures/[id].svg` |
-| `src/content/guides/<section>/*.md` | The 67 English guides. Frontmatter is validated by `src/content.config.ts` |
+| `src/content/guides/<section>/*.md` | The 68 English guides. Frontmatter is validated by `src/content.config.ts` |
 | `src/games/` | One React island per game, plus `shared/` (frame, tiles, chips, settings store, sound) |
 | `src/lib/games/` | Pure game logic with unit tests (`games.test.ts`) |
 | `src/data/` | Game registry, picture library, sayings, conversation prompts, word themes, coloring pages |

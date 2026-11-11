@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 73 / 100 completed**
+**Progress: 74 / 100 completed**
 
 ---
 
@@ -445,3 +445,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,510 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | Static output at `/caregiving/emergency-planning-dementia/` contains the title, safety guidance and sudden-confusion text; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
 | Not verified | No person, caregiver, emergency-services, care-facility, clinician, native-speaker or live-browser review. | Open; do not claim emergency-plan validation. |
+
+## Round 74: talking with children about dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends honest answers in language children understand. Dementia Australia emphasizes family communication, reassurance, routine and keeping young people from carrying adult responsibilities. Alzheimer's Society describes support networks and making space for young people's feelings. | Supports a family conversation guide; it does not predict an individual child's response or replace professional support. |
+| Existing coverage and gap | The site has adult caregiver and activity guides but no resource for explaining a diagnosis to children or supporting young relatives. | Added the site's 68th English caregiving guide, including answer examples, privacy and role boundaries. |
+| Safety boundary | The guide does not diagnose a child, promise a disease course or assign care duties. It advises adults to keep care responsibilities with adults and seek qualified support for individual concerns. | General family communication information only. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,511 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/talking-to-children-about-dementia/` contains the guide and its care-boundary text; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No child, parent, caregiver, family counselor, clinician, native-speaker or live-browser review. | Open; do not claim family or child validation. |
