@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 77 / 100 completed**
+**Progress: 78 / 100 completed**
 
 ---
 
@@ -488,3 +488,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,513 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | Static output at `/caregiving/working-with-younger-onset-dementia/` contains the title, work-safety guidance and local-law caveat; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
 | Not verified | No person living with younger-onset dementia, caregiver, employer, clinician, employment/benefits professional, native-speaker or live-browser review. | Open; do not claim workplace or user validation. |
+
+## Round 78: when someone with dementia does not recognize you
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association describes not recognizing family as a possible memory change. Dementia Australia and Alzheimer's Society explain misidentification and suggest comfort, familiar cues and clinician review when it is distressing. NHS says sudden confusion needs immediate medical help. | Supports respectful response and escalation prompts, not a diagnosis of the cause. |
+| Existing coverage and gap | The communication guide covers general conversation habits, but no page addressed the emotional and practical moment when someone does not recognize a familiar person. | Added the site's 71st English caregiving guide with brief introductions, optional cues, visit planning and caregiver support. |
+| Safety boundary | The guide does not promise that the person recognizes or feels a particular attachment, diagnose misidentification, or suggest changing medicine. It directs sudden confusion to urgent care and repeated distress to a clinician. | General communication support only. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,514 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/when-someone-with-dementia-does-not-recognize-you/` contains the no-quiz guidance and urgent-care boundary; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person with dementia, family member, caregiver, clinician, native-speaker or live-browser review. | Open; do not claim clinical or personal validation. |

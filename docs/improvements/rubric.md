@@ -205,6 +205,10 @@ The post-diagnosis guide adds a starting point for people living with dementia a
 
 The younger-onset work guide adds general decision support without interpreting employment law or assessing a person's ability to work. Record checks and limitations in [TRACKING.md](TRACKING.md). No person living with younger-onset dementia, caregiver, employer or employment professional review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 78 score update (2026-11-11)
+
+The non-recognition guide adds general communication support without diagnosing causes or assuming a person's feelings. Record checks and limitations in [TRACKING.md](TRACKING.md). No person with dementia, family member, caregiver or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

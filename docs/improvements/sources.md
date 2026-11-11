@@ -320,3 +320,12 @@ Application: existing guides covered separate appointments, medicines, care serv
 - [Alzheimer's Society: Working and dementia](https://www.alzheimers.org.uk/get-support/living-with-dementia/work-dementia) — opened. It says work decisions depend on the person's feelings, job and personal situation; the page also shows that employment law guidance is jurisdiction-specific.
 
 Application: the site had an early-onset activity guide and general future planning but no work-focused guidance. The new page presents options and questions without interpreting employment law, deciding work fitness or recommending a disclosure choice.
+
+## Round 78: when someone with dementia does not recognize you (read 2026-11-11)
+
+- [Alzheimer's Association: Memory Loss & Confusion](https://www.alz.org/help-support/caregiving/stages-behaviors/memory-loss-confusion) — opened. It says a person may not recognize family, recommends calm and brief responses, and says sudden behavior changes should receive medical evaluation.
+- [Dementia Australia: Hallucinations and delusions](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/hallucinations-and-delusions) — opened. It describes misidentification, possible vision, hearing, illness, medicine and environmental factors, and responses based on reassurance and the person's feelings.
+- [Alzheimer's Society: How can dementia change a person's perception?](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/how-dementia-changes-perception) — opened. It explains misidentification and recommends gentle reminders, familiar surroundings and a clinician check for upsetting or sudden changes.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help.
+
+Application: the communication guide gives general conversation advice but did not cover non-recognition of family. The new page offers short introductions, optional cues and caregiver support without treating recognition as a test or assuming what the person feels.
