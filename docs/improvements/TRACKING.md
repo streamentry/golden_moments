@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 70 / 100 completed**
+**Progress: 71 / 100 completed**
 
 ---
 
@@ -412,3 +412,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,508 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/medication-support-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, pharmacist, prescriber, native-speaker or live-browser review. | Open; do not claim medical or user validation. |
+
+## Round 71: search on long English guide hubs
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | W3C's cognitive-accessibility search pattern says search can help people find content without understanding or navigating categories. It also notes search is less important on small sites where pages are already within two clicks; here the Activities and Caregiving hubs have 29 and 26 long-list entries. | A local filter can reduce scanning for people who know a topic or word. This is a usability inference, not tested user research. |
+| Existing coverage and gap | English Activities and Caregiving hubs list long card grids with no way to narrow the guides. | Added an English-only, on-page filter across card titles, summaries and key points; the featured guide is included. |
+| Safety and privacy boundary | Search runs in the page only. It sends no query, adds no analytics and stores no search history. It does not search full article bodies or suggest spelling corrections, and does not appear on translated pages. | No account, network request or personal data is involved. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,508 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Browser inspection | Headless Chrome rendered the caregiving hub. The query "licensing authority" returned the driving guide; a no-match query showed an empty result message; clearing restored all 26 caregiving cards. | Search interaction was checked in the rendered page using browser input events. Playwright was unavailable; actual keyboard-only and screen-reader use were not checked. |
+| Not verified | No caregiver, person living with dementia, assistive-technology or user-comprehension review. | Open; do not claim a measured usability outcome. |
