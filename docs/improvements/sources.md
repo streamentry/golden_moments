@@ -223,3 +223,11 @@ Application: other guides mention when a particular change warrants contacting a
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical attention and warns against self-diagnosis.
 
 Application: the website had a routine doctor-visit guide but no hospital or emergency-room guide. The new page offers preparation, communication preferences, support during admission and written discharge follow-up, while leaving clinical decisions to the hospital team.
+
+## Round 66: pain and dementia (read 2026-11-11)
+
+- [Dementia Australia: Pain](https://www.dementia.org.au/living-dementia/staying-healthy/pain) — opened; updated 28 November 2025. It says people with dementia feel pain, recommends asking in familiar terms and lists possible verbal and nonverbal signs; it directs suspected pain to a doctor.
+- [Alzheimer's Association: Aggression & Anger](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) — opened. It says pain may contribute to behavior changes and recommends medical review, especially for sudden symptoms.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help and warns against self-diagnosis.
+
+Application: several caregiving guides already mention pain as one possible cause of a behavior change. The new page gathers respectful questions, observable changes and professional follow-up without using behavior as a diagnosis or recommending medication.

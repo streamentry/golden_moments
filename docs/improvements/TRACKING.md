@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 65 / 100 completed**
+**Progress: 66 / 100 completed**
 
 ---
 
@@ -357,3 +357,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,503 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/hospital-visit-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, hospital staff, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
+
+## Round 66: noticing and reporting pain with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Dementia Australia says people with dementia feel pain, recommends asking in familiar words and describes possible nonverbal signs. Alzheimer's Association says pain may contribute to behavior change and new symptoms need medical review. NHS guidance says sudden confusion needs immediate medical help. | Supports noticing and reporting changes, not diagnosing pain from behavior. |
+| Existing coverage and gap | Existing guides mention pain as a possible cause of refusal, agitation or care difficulty, but the site had no guide on asking about pain and sharing observations. | Added the site's 61st English caregiving guide for respectful questions, factual observations and professional assessment. |
+| Safety boundary | Signs are described as possibilities, not proof. The guide does not recommend pain scales, medication or physical treatment; it directs sudden confusion to urgent help. | General information only; assessment and treatment stay with health professionals. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,504 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/pain-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, physician, pain specialist, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
