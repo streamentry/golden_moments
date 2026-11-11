@@ -1,4 +1,4 @@
-Warning: truncated output (original token count: 32204)
+Warning: truncated output (original token count: 32178)
 Total output lines: 574
 
 # 100 Big Improvements Tracker
@@ -175,7 +175,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | Check | Evidence | Result |
 |---|---|---|
-| Source fit | Dementia Australia lists familiar songs and music among activities tied to personal interests. The Alzheimer's Association advises choosing music the person enjoys, letting them choose when possible, keeping volume comfortable and reducing competing noise. | The sources support music as an activity choice; the interface change is a usability inference, not a treatme…2204 tokens truncated…Open; do not claim usability or professional review. |
+| Source fit | Dementia Australia lists familiar songs and music among activities tied to personal interests. The Alzheimer's Association advises choosing music the person enjoys, letting them choose when possible, keeping volume comfortable and reducing competing noise. | The sources support music as an activity choice; the interface change is a usability inference, not a treatme…2178 tokens truncated… The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim usability or professional review. |
 
 ## Round 53: Japanese Photo Pairs copy for one-photo viewing
 
@@ -526,6 +526,6 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Change | Added calm example language, checks for shadows/reflections/sounds/sensory aids, optional redirection and neutral notes for a clinician. | Does not tell families to confirm or deny an experience, diagnose its cause or change medication. |
 | Safety boundary | New, repeated, prolonged or distressing experiences should be discussed with a clinician; sudden confusion or hallucinations involving multiple senses need immediate medical help. Immediate danger needs local emergency support. | General information only; no diagnosis. |
 | Implementation commit | `5149e2c57160eb8e4d946817243d21a86e20d8c0` | Source state for the checks recorded below. |
-| Checks | On Node 22.14.0, `pnpm --dir site verify` passed 1,869 tests, built 12,518 pages and reported 0 checker errors with 535 warnings. pnpm warned that this Node version is below the site package's declared minimum `>=22.22.0`. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Commands passed locally; hosted validation on the supported Node runtime remains pending. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,518 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
 | Render inspection | Built route `/caregiving/hallucinations-with-dementia/` contains the guide title and response steps; built `/caregiving/` hub links to it; the related suspicion guide links to it. | Static output checked; no live-browser run. |
 | Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim user or clinical validation. |
