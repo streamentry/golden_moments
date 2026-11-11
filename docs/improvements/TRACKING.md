@@ -250,3 +250,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | `pnpm --dir site verify`: 1,865 tests, 12,494 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
 | Render inspection | The built `/caregiving/living-alone-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
 | Not verified | No caregiver, participant, clinician, native-speaker or device review. The browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim a safety or suitability assessment. |
+
+## Round 56: calmer mealtimes with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association and Dementia Australia both recommend quieter mealtimes, familiar food, simple table settings and enough time. Dementia Australia says new chewing or swallowing problems warrant health-professional advice. | These sources support practical mealtime setup, not a diet or feeding treatment. |
+| Existing coverage and gap | The brain-health diet guide covers food and dementia-risk research, while household-task pages discuss cooking. The site had no guide for the meal itself: table setup, fewer distractions and supporting independent eating. | Added an English caregiver guide focused on the mealtime environment, familiarity, time, choice and maintaining independence. It avoids diet prescriptions and swallowing techniques. |
+| Safety boundary | New swallowing, choking, appetite or weight concerns are directed to a doctor or suitable health professional. No texture changes, supplements or feeding maneuvers are prescribed. | This is general caregiving information with the health notice, not an assessment. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,495 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; build reports a large-chunk warning. |
+| Render inspection | Built `/caregiving/mealtimes-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
+| Not verified | No caregiver, participant, dietitian, speech-language pathologist, clinician, native-speaker or device review. Browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim clinical or user validation. |
