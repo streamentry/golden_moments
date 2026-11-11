@@ -261,3 +261,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | `pnpm --dir site verify`: 1,865 tests, 12,495 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; build reports a large-chunk warning. |
 | Render inspection | Built `/caregiving/mealtimes-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
 | Not verified | No caregiver, participant, dietitian, speech-language pathologist, clinician, native-speaker or device review. Browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim clinical or user validation. |
+
+## Round 57: bathing support with privacy and choice
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association describes bathing as intimate and recommends preparation, privacy, choices and alternatives. Dementia Australia likewise says personal care may feel embarrassing, urges carers to follow the person's routine and suggests simple steps and respectful choices. | A focused guide can help caregivers support the task without turning it into a struggle. This is not clinical or legal advice. |
+| Existing coverage and gap | Round 52 covers bathroom hazards and equipment, but the site had no guidance on permission, privacy, pacing or alternatives during bathing. | Added an English caregiving guide for preparation, asking before helping, stopping when the person is uncomfortable, and considering a washcloth or another time. |
+| Safety boundary | Permanent grab rails or bathroom changes are referred to qualified professionals. The guide avoids hands-on techniques and medical instructions; new pain, falls or care concerns go to a health professional. | Does not prescribe bathing frequency or override the person's refusal. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,496 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
+| Render inspection | The built `/caregiving/bathing-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
+| Not verified | No caregiver, participant, occupational-therapist, clinician, native-speaker or device review. Browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim personal-care or professional validation. |

@@ -121,6 +121,10 @@ The new English guide focuses on everyday routines and support chosen with a per
 
 The new caregiver guide focuses on the mealtime setting and support for independence; it does not prescribe a diet or swallowing technique. It directs new eating concerns to health professionals. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no caregiver, clinician or user review has been done.
 
+## Round 57 score update (2026-11-11)
+
+The new bathing guide centers privacy, permission, routine and the option to stop. It does not instruct caregivers to force care or use hands-on techniques. Site verification, TypeScript, Python and metadata checks pass; no caregiver or professional review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
