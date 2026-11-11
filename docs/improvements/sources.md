@@ -173,3 +173,10 @@ Application: the site mentioned pets as activities but lacked practical guidance
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It lists low blood sugar in people with diabetes among possible causes of sudden confusion.
 
 Application: the Traditional Chinese warning-signs guide rendered this as `糖尿病患者的低血糖`. It now says `有糖尿病的人可能出現的低血糖`, preserving the source meaning in person-first wording. No medical guidance changed.
+
+## Round 60: oral care and dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Dental Care](https://www.alz.org/help-support/caregiving/daily-care/dental-care) — opened. It recommends familiar routines, one-step prompts, asking permission before assisting and consulting a dentist about oral pain or denture fit.
+- [Dementia Australia: Dental care](https://www.dementia.org.au/living-dementia/staying-healthy/dental-care) — opened. It recommends short, simple steps, supporting independence, explaining and asking permission, and consulting a dentist about oral problems.
+
+Application: the existing mealtime guide only mentions dental discomfort. The new caregiving guide covers consent, familiar routines, privacy, coordination among helpers, dentures and dental visits. It avoids reproducing hands-on techniques or giving treatment instructions.
