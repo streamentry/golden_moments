@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 64 / 100 completed**
+**Progress: 65 / 100 completed**
 
 ---
 
@@ -346,3 +346,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,502 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/doctor-visit-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
+
+## Round 65: preparing for a hospital visit with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends planning ahead, sharing care preferences with staff, familiar items and a written discharge plan. Dementia Australia covers planned and emergency visits, admission, the stay and discharge. NHS guidance says sudden confusion needs immediate medical help. | Supports preparation and communication, not hospital triage or treatment advice. |
+| Existing coverage and gap | Existing pages help prepare for routine doctor visits and discuss specific care concerns, but the site had no guide for emergency-room or inpatient support and discharge planning. | Added the site's 60th English caregiving guide, covering planned and unplanned visits, communication and follow-up. |
+| Safety boundary | The guide tells readers to follow the clinical team's instructions, report sudden changes and ask staff about care tasks. It does not recommend treatment or interpret discharge rights. | General information only; hospital staff direct care and discharge decisions. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,503 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/hospital-visit-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, hospital staff, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |

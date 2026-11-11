@@ -215,3 +215,11 @@ Application: existing content mentioned driving only as a possible difficulty. T
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help and should not be self-diagnosed.
 
 Application: other guides mention when a particular change warrants contacting a doctor, but none helps prepare for a routine visit. The new page supports shared preparation, consent, questions and follow-up without giving diagnosis or treatment instructions.
+
+## Round 65: dementia and hospital visits (read 2026-11-11)
+
+- [Alzheimer's Association: Hospitalization and Discharge Planning](https://www.alz.org/getmedia/d5afc74a-9d22-4a15-9c30-6315f6eb5f35/alzheimers-dementia-hospitalization-discharge-planning-ts.pdf) — opened; updated September 2024. It recommends planning, sharing useful care details with staff, bringing familiar items and asking questions about discharge.
+- [Dementia Australia: Going to hospital](https://www.dementia.org.au/living-dementia/staying-healthy/going-hospital) — opened; updated 28 November 2025. It covers planned and emergency visits, admission, support during the stay and discharge home.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical attention and warns against self-diagnosis.
+
+Application: the website had a routine doctor-visit guide but no hospital or emergency-room guide. The new page offers preparation, communication preferences, support during admission and written discharge follow-up, while leaving clinical decisions to the hospital team.
